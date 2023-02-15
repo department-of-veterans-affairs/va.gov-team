@@ -5,7 +5,7 @@ We're a grassroots, volunteer led practice focused on maturing our approach to t
 ## How do I join?
 There's no "official" way of joining, but we usually recommend to:
 - If you have access to it, join our slack channel at #trauma-practice. Don't have access to slack? Reach out to Josh at josh.kim@adhocteam.us for help.
-- [Read how we work together and community guidelines](https://docs.google.com/document/d/1ThZJdZZYxgQV5aH83rViAoktf9Oafre3PQMk7eRsDzY/edit?usp=sharing).
+- [Read how we work together and our community guidelines](https://docs.google.com/document/d/1ThZJdZZYxgQV5aH83rViAoktf9Oafre3PQMk7eRsDzY/edit?usp=sharing).
 - Participate in a way that's most comfortable to you! You can...
   - Introduce yourself on slack at #trauma-practice or at the next practice meeting (this is 100% optional 💙)
   - Read or participate on slack conversations online
