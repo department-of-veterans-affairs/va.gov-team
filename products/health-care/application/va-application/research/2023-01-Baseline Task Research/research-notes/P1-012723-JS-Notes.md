@@ -113,6 +113,16 @@ but it is a govn't website
 - [Does the participant comment on the length of this section of the form, number of questions/page or the progress bar?]
 - [New American Indian question]
 
+
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- [4] = All parts of the task were completed with no difficulty 
+
+
 ---
 [Step 2 of 6: VA benefits]
 
