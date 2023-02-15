@@ -11,7 +11,7 @@ Date: 02/2023
 - Jessica Stump (jessica.stump@adhocteam.us)
 - Nick Osmanski (nick.osmanski@amida.com)
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](https://docs.google.com/presentation/d/13MxcuVvkEDAge-5QywbZZzmBfZl0dgxKXyC8aERyK3s/edit?usp=sharing)
 
 <br>
 
