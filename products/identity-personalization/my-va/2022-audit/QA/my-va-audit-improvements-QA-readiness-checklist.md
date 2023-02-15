@@ -1,19 +1,12 @@
 # Audit UX Improvements QA Readiness Checklist
 
-### Go/No-Go meeting:  mm/dd/yyyy
+### Go/No-Go meeting:  02/15/2023
 
 ### Decision: ____
 
 ---
 
-### Have we submitted the request for QA?
-
--  ...
-
-### Does Tze have everything he needs, i.e. have we submitted test cases, provided staging credentials, etc.?
-- ...
-
-### Have test cases been loaded into test rail?
+### Do we have all test cases documented and test user information available to the team?
 - ...
 
 ### Is the feature complete on staging?
