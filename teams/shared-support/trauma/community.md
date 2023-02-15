@@ -28,12 +28,12 @@ If you've served in any of these roles, you're welcome to add (or not add) your 
 Attended a practice meeting or small group? Lurk on our slack channel? Then you're _one of us_. Every single person, regardless of how they participate, is a valued member of our community. We are nothing without our people 💙
 
 <!--
-**Name**
+**Name**, Role
 - [Work email], [LinkedIn, personal website, etc](replace this with your url)
 - [1 sentence on what brings you to this community]
 -->
 
-**Josh Kim**
+**Josh Kim**, Accessibility Lead on Benefits
 - joshkimux@gmail.com, [LinkedIn](https://www.linkedin.com/in/joshkimux/)
 - I want to help make our work more sustainable, our impacts more just, our practice a little kinder, and folks from marginalized communities less excluded.
 
