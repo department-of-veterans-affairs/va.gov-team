@@ -2,6 +2,15 @@
 Welcome to the VA trauma community ✨
 We're a grassroots, volunteer led practice focused on maturing our approach to trauma from facilitating research to caring for practitioners.
 
+## How do I join?
+There's no "official" way of joining, but we usually recommend to:
+- If you have access to it, join our slack channel at #trauma-practice. Don't have access to slack? Reach out to Josh at josh.kim@adhocteam.us for help.
+- [Read how we work together and community guidelines](https://docs.google.com/document/d/1ThZJdZZYxgQV5aH83rViAoktf9Oafre3PQMk7eRsDzY/edit?usp=sharing).
+- Participate in a way that's most comfortable to you! You can...
+  - Introduce yourself on slack at #trauma-practice or at the next practice meeting (this is 100% optional 💙)
+  - Read or participate on slack conversations online
+  - Sign up for the next small group or join our next practice meeting
+
 ## Legend of service
 We value everyone in our community, and encourage _anyone_ who has the time, resources, and comfort to share their talents in the following roles:
 - Guided a meeting as a **facilitator** 👐
@@ -11,7 +20,8 @@ We value everyone in our community, and encourage _anyone_ who has the time, res
 ### Joining this record
 If you've served in any of these roles, you're welcome to add (or not add) your name and any other information to this record. This is completely optional, and acts as a public way of recognizing that no practice can operate without a community of people.
 
-1. Edit this document
+1. Edit this document at the top right corner of this page 
+<img width="370" alt="Screenshot 2023-02-15 at 9 36 55 AM" src="https://user-images.githubusercontent.com/14154792/219058051-abf65ab4-d33c-495a-98b6-1c7461eb8399.png">
 2. Add your name to any/all of the relevant categories below
 
 ## Community members 🫀
@@ -26,15 +36,6 @@ Attended a practice meeting or small group? Lurk on our slack channel? Then you'
 **Josh Kim**
 - joshkimux@gmail.com, [LinkedIn](https://www.linkedin.com/in/joshkimux/)
 - I want to help make our work more sustainable, our impacts more just, our practice a little kinder, and folks from marginalized communities less excluded.
-
-### How do I join the community?
-There's no "official" way of joining, but we usually recommend to:
-1. If you have access to it, join our slack channel at #trauma-practice. Don't have access to slack? Reach out to Josh at josh.kim@adhocteam.us for help.
-2. [Read how we work together and community guidelines](https://docs.google.com/document/d/1ThZJdZZYxgQV5aH83rViAoktf9Oafre3PQMk7eRsDzY/edit?usp=sharing).
-3. Participate in a way that's most comfortable to you! You can...
-  - Introduce yourself on slack at #trauma-practice or at the next practice meeting (this is 100% optional 💙)
-  - Read or participate on slack conversations online
-  - Sign up for the next small group or join our next practice meeting
 
 ## Facilitators 👐
 Facilitated a practice meeting or small group? You've helped serve as glue for our community 🩹
