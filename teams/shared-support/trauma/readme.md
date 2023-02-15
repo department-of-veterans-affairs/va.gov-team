@@ -9,7 +9,7 @@ There's no "official" way of joining, but we usually recommend to:
 - Participate in a way that's most comfortable to you! You can...
   - Introduce yourself on slack at #trauma-practice or at the next practice meeting (this is 100% optional 💙)
   - Read or participate on slack conversations online
-  - Sign up for the next small group or join our next practice meeting
+  - Sign up for the next small group (on slack) or [join our next practice meeting (email invite)](https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=bGZ0djFzdmRhY2s5NGZ1MmY0aDdlOHV1bXZfMjAyMzAyMjBUMjEwMDAwWiBqb3NoLmtpbUBhZGhvY3RlYW0udXM&amp;tmsrc=josh.kim%40adhocteam.us&amp;scp=ALL)
   - Check out our [past shared learnings in our notes folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma/notes)
 
 ## Legend of service
