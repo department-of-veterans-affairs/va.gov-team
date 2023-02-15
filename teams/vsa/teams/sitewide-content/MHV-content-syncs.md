@@ -2,6 +2,9 @@
 -
 
 **Agenda**
+- Vaccine reactions data issue and potential content solutions 
+- Update on vaccines vs. immunizations label
+- Question about "interpretation" field in lab and test records
 
 **February 14, 2023 — Working sync**
 - 
