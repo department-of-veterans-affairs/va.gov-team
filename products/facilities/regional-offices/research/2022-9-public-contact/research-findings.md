@@ -177,6 +177,7 @@ This first group of findings relates to research questions 1 & 2:
 - Public Contact staff have end-to-end insight into the disability compensation process
 - Can assist with many tasks: determining eligibility, filing claims, checking claim status, filing appeals, resolving payment issues, etc.
 - 6/12 participants listed compensation in the top three most common services
+- This also aligns with a finding from our previous Veteran research where 9/12 participants reported visiting a VBA office for a task related to disability compensation
 - Public Contact staff have lost access to some data sources related disability compensation
 
 > 90% of the Veterans coming in are concerned about "What’s my percentage and how much money am I getting?" - P7
