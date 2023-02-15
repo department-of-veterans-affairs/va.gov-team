@@ -93,7 +93,7 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 |KPI/metric|Baseline: October 29 - Nov 28, 2022| One month post-launch to 100%: December 12, 2022 - January 11, 2023| Two months post-launch to 100%: January 12 - February 11, 2023|
 |----------|-------------|---------------|-------------------|
-|Clicks into "Manage your VA debt" CTA on My VA|25,712|29,627 (~15% increase)|30,309|
+|Clicks into "Manage your VA debt" CTA on My VA|25,712|29,627 (~15% increase)|30,309 (~2% increase from month 1)|
  
 **Key result: Increase pageviews for the debt tool overall by 10%** 
 
@@ -103,7 +103,7 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 |KPI/metric|Baseline: October 29 - Nov 28, 2022| One month post-launch to 100%: December 12, 2022 - January 11, 2023 (combine reports linked above)| Two months post-launch to 100%: January 12 - February 11, 2023|
 |----------|-------------|---------------|-------------------|
-|Pageviews of the debt summary page|35,495| 82,036 (~131% increase)|TBD| 
+|Pageviews of the debt summary page|35,495| 82,036 (~131% increase)|86,943 (~6% increase from month 1) | 
 
 ### Objective: Elevate copays to My VA.
  
