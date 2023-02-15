@@ -51,20 +51,19 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 
 ## Research Questions
-
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
 * What tasks are consistently completed by participants with ease?
 * What tasks do the majority of participants struggle with or have some level of difficulty?
 * How successufl are participants in completing the household information section questions?
 
+
+
+_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
+
+
 ## Methodology 
 
 _Brief description of method chosen_
-**Usability testing task analysis**
-Post-task and post-testing participant questions
+**Usability testing Post-task and post-testing participant questions
 
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
@@ -99,7 +98,7 @@ The baseline study will show that the current household information section is a
 
 _The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+
 
 1. Unfavorable perception towards providing certain information - reporting income and insurance information
 
@@ -115,9 +114,6 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 
 ## Details of Findings 
-
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
 
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
@@ -197,8 +193,6 @@ Brief description
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
 1. Most participants indicated they would sign in or create an account prior to completing the application
 2. Introduction page made participants feel prepared
 
@@ -221,9 +215,8 @@ _Next steps here. Include owners if appropriate._
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
 - Assistive technology users
+
 
 
 ## Appendix
@@ -262,12 +255,8 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
-
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
 Recruited for participants who did not currently have VA health care as their primary insurance and who did not have a disability rating over 50%. We did have 1 participant out of the 10 who did answer they had a disability rating over 50% and therfore was presented the shortend form flow. 
 
@@ -357,5 +346,4 @@ _List all groups in red from the spreadsheet_
 * Living abroad
 * Assistive technology
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/images/RecruitmentChecker-012023-1010EZusabilityStudy.png)
