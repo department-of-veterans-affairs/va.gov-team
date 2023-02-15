@@ -1,6 +1,6 @@
 # The CMS Notification Framework 
 
-This work was not implemented as proposed in this framework. The original issue has been closed due to change of roadmap in favor of MVP of emails to editors. You can find out more about this work via the [CMS Notifications for VA Directive 6102 epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10477)
+This work was not implemented as proposed in this framework. The original issue linked below has been closed due to change of roadmap in favor of MVP of emails to editors. You can find out more about the notifications MVP via the [CMS Notifications for VA Directive 6102 epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10477)
 
 ## Problem statement
 
