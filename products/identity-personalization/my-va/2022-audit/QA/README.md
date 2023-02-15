@@ -2,24 +2,30 @@
 For QA of the My VA Audit Improvements we will be performing QA manually using a spreadsheet to track test cases and findings.
 
 
-## Operating Systems
+## Overview of Devices, Operating Systems & Browser
 
-We need to test all 35 test cases across the operating systems, browsers and devices outlined below. 
+We need to test all 35 test cases across the devices, operating systems, and browsers  outlined below. 
 
-#### iOS
-|         | Desktop | Mobile|
-|---------|---------|-------|
-| Chrome  |         |       |
-| Safari  |         |       |
-| Edge    |         |       |
-| Firefox |         |       |
+### General Version-coverage Strategy
+- **Hardware:** cover 2nd-latest models [1 yr back from latest available]
+- **Operating Systems:** Windows 2nd-latest; MacOS/iOS latest
+- **Browsers:** all latest 
 
-#### Windows/Android
-|         | Desktop | Mobile|
-|---------|---------|-------|
-| Chrome  |         |       |
-| Edge    |         |       |
-| Firefox |         |       |
+#### Device + Operating System + Browser Combinations
+
+|   |  Device   |               Operating System               | Browser  |
+|---|-----------|----------------------------------------------|----------|
+|1. |  Macbook  |               Ventura (latest)               | Chrome   |
+|2. |  Macbook  |               Ventura (latest)               | Edge     |
+|3. |  Macbook  |               Ventura (latest)               | Firefox  |
+|4. |  Macbook  |               Ventura (latest)               | Safari   |
+|5. | iphone 13 |                 iOS (latest)                 | Chrome   |
+|6. | iphone 13 |                 iOS (latest)                 | Edge     |
+|7. | iphone 13 |                 iOS (latest)                 | Firefox  |
+|8. | iphone 13 |                 iOS (latest)                 | Safari   |
+|9. |    PC     |   Windows 10 (one back from the latest, 11)  | Chrome   |
+|10.|    PC     |   Windows 10 (one back from the latest, 11)  | Edge     |
+|11.|    PC     |   Windows 10 (one back from the latest, 11)  | Firefox  |
 
 
 ## How We Will Test and Track
