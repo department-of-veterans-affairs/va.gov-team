@@ -14,6 +14,20 @@
 
 </details>
 
+## Wednesday, Februrary 15, 2023
+* #11079 status - cannot find the ticket (perhaps this is the wrong ticket number)
+  * Dotti to find ticket and prioritize
+* Joshua to send like of questions regarding new service data to Jay
+* Jay to look for examples of a VAMC facility health service that has multiple locations and share with Joshua
+  * Pittsburgh is an example with more than one clinic being under a service
+  * How do we want to prioritize?
+* Lighthouse has been in a code freeze - in the coming weeks can revist the topic of CMS pushing data to Lighthouse.  Discuss in our next meeting.
+  * How would Lighthouse like to proceed with content model updates?
+    * Lock in a date to focus on this topic in an upcoming meeting
+* If Facilities has more changes should we add them to the existing PR
+  *  If something new in the next week, add to existing PR.  After that, send to Lighthouse directly. 
+* Jay will be leaving this project in early March. 
+
 ## Monday, Februrary 6, 2023
 * Facilities are saying they don't provide urgent care - Veteran satisfaction with appointment wait times at this location
   * There is a statistic for Urgent care appointments that is causing confusion (it means getting care urgently)
