@@ -10,6 +10,7 @@ There's no "official" way of joining, but we usually recommend to:
   - Introduce yourself on slack at #trauma-practice or at the next practice meeting (this is 100% optional 💙)
   - Read or participate on slack conversations online
   - Sign up for the next small group or join our next practice meeting
+  - Check out our [past shared learnings in our notes folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma/notes)
 
 ## Legend of service
 We value everyone in our community, and encourage _anyone_ who has the time, resources, and comfort to share their talents in the following roles:
