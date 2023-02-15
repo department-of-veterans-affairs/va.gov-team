@@ -7,7 +7,6 @@ In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year.
 - Enhance Veterans' personalized online experience
 - Integrate the health portal features into VA.gov
 
-
 ## 500 foot view: VA Notify team goals 
 Our goals are tied to one or more of our themes:
 * Self Service / Governance
@@ -121,27 +120,22 @@ To keep our platform performing at its best, we plan to execute the following:
 ### Strike Team
 
 #### Promote to Production (MVP) - SSUI
-Currently our business line users create content in staging, then copy the content, login to production, create a template and paste the content there.  To make this process seamless, we will implement a promote to prod like experience for our users.  
+Streamlining the currently cumbersome process of launching notifications from staging to production will greatly reduce manual effort from VA Notify and business lines resulting in significant cost savings over time. It also enables VA Notify and business lines to concentrate more on identifying opportunities to enhance the Veteran online experience and less on teaching and learning how to use tools.
 
-**Expected launch date**:
+**Expected launch date**: March/April 2023
 
 #### Service Management  - SSUI 
-words go here
+As VA Notify continues to onboard business lines and notification suites are expanded, it is crucial business lines are able and empowered to manage their own notification services, lest VA Notify end up a support team. Functionality such as copying service details to a clipboard, modifying permitted notification types, inviting and managing users, and managing notifications not only reduces onboarding time, it facilitates the continued evaluation and maintenance of notifications.
 
-**Expected launch date**:
-
-#### User Roles - SSUI
-words go here
-
-**Expected launch date**:
-
-#### White Listing - SSUI
-words go here
-
-**Expected launch date**:
+**Expected launch date**: February 2023
 
 #### VA.gov Forms
 * 22-5490 Education Benefit Application
+* 22-1990 (Application for VA Education Benefits)
+* 22-10203 (Application for Edith Nourse Rogers STEM Scholarship)
+* 22-5495 (Dependents’ Request for Change of Program or Place of Training)
+* 22-1995 (Request for Change of Program or Place of Training)
+* 22-0994 (Application for Veteran Employment Through Technology Education Courses (VET TEC).
 
 ## The rest of the year
 
@@ -176,6 +170,23 @@ To keep our platform performing at its best, we plan to execute the following:
 
 **Expected launch date**: June 2023
 
+### Strike Team
+
+#### User Roles - SSUI
+Defining permission-based roles within the Self-Service Portal helps business lines maintain higher security practices in line with VA standards when establishing and maintaining teams, especially when team members can turn over frequently.  Business lines will be able to define who within their team can create and edit notifications, customize service details, and publish notifications from staging to production. 
+
+**Expected launch date**: April/May 2023
+
+#### White Listing - SSUI
+Whitelisting functionality allows business lines to limit notification recipients to only approved, trusted email addresses and phone numbers during testing. This not only results in improved notification quality, but enhanced security as well.
+
+**Expected launch date**: May/June 2023
+
+#### CC/BCC - SSUI
+The need for CC/BCC functionality surfaces frequently when discussing potential use cases with business lines. For example, this functionality is especially important when considering the PACT Act, as copied VSO’s, VSR’s, and/or caregivers can receive the exact same information the Veteran receives and immediately provide guidance, support, and advocacy throughout the review process. Another potential benefit of CC/BCC is the collection of feedback from copied parties to improve notifications as processes change.
+
+**Expected launch date**: June 2023
+
 ### Q3 - Q4 CY2023 (July - December)
 ### Notify Team
 #### CISCO webex connect integration
@@ -192,3 +203,20 @@ As VA business lines acquire their own provider account(s), VA Notify must add s
 
 #### Push Notification Phase 2
 VA Notify currently partners with VEText to send push notifications for the Flagship Mobile App, which we released in 2022. VA Notify has multiple phases planned to enhance this integration and send these notifications directly with Amazon.
+
+### Strike Team
+
+#### Analytics Dashboard and Configurable Alerting
+Currently, in order to gain analytical insight into their notifications, business lines have to log into Datadog, Google Analytics, and/or Domo, which is not an optimal user experience. We want to bring custom reports containing useful analytics front and center within the Self-Service Portal so business lines can view notification performance metrics and use them to optimize notifications over time.  Additionally, we want to add configurable business logic that can proactively alert the corresponding business line and/or VA Notify when notifications are not being triggered (based on historical performance of the notification template). These alerts can be sent to business line technical leads and/or product owners.
+
+#### Email Editor Enhancements
+Our user research suggests that using markdown to write emails within the Self-Service Portal is a major barrier to entry. Not only do users have to learn markdown to customize notifications, they have to save their notification drafts to preview them. In our mission to create a one-stop shop for business lines to create and maintain notifications, replacing the markdown editor with a free text editor and adding a preview pane is crucial to facilitate the creation of notifications.  
+
+#### Collecting Notification Use Case Details Asynchronously
+During onboarding, VA Notify meets with business lines to learn about their processes and identify opportunities to provide useful notifications to Veterans. However, as more business lines express interest, onboarding itself has the potential to become a bottleneck. To further streamline the onboarding process, adding a form to the Self-Service Portal would enable business lines to ask questions and define use cases. This would allow VA Notify to identify potential quick wins, keep track of unsupported use cases, identify common themes, and assess overall platform capability.
+
+#### Service Configurations
+When it comes to SMS notifications, not only does text content have to be informative and concise, but Veterans have to trust the sender. Enabling service level administrators to assign 10-DLC/Short codes at a service level for SMS notifications ensures they can send consistent notifications from numbers that Veterans trust.
+
+#### Consolidating Notifications Across VA
+Currently, Veterans receive notifications from multiple channels. Messaging across these channels is not consistent or well-balanced, which leads to a fragmented online experience for Veterans. Moving form confirmation notifications from Govdelivery to VA Notify is a step in the right direction because it allows VA Notify to better identify and optimize the overall Veteran online notification experience.
