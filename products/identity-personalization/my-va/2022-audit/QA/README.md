@@ -13,19 +13,22 @@ We need to test all 35 test cases across the devices, operating systems, and bro
 
 #### Device + Operating System + Browser Combinations
 
-|   |  Device   |               Operating System               | Browser  |
-|---|-----------|----------------------------------------------|----------|
-|1. |  Macbook  |               Ventura (latest)               | Chrome   |
-|2. |  Macbook  |               Ventura (latest)               | Edge     |
-|3. |  Macbook  |               Ventura (latest)               | Firefox  |
-|4. |  Macbook  |               Ventura (latest)               | Safari   |
-|5. | iphone 13 |                 iOS (latest)                 | Chrome   |
-|6. | iphone 13 |                 iOS (latest)                 | Edge     |
-|7. | iphone 13 |                 iOS (latest)                 | Firefox  |
-|8. | iphone 13 |                 iOS (latest)                 | Safari   |
-|9. |    PC     |   Windows 10 (one back from the latest, 11)  | Chrome   |
-|10.|    PC     |   Windows 10 (one back from the latest, 11)  | Edge     |
-|11.|    PC     |   Windows 10 (one back from the latest, 11)  | Firefox  |
+|   |      Device        |               Operating System               | Browser  |
+|---|--------------------|----------------------------------------------|----------|
+|1. |      Macbook       |               Ventura (latest)               | Chrome   |
+|2. |      Macbook       |               Ventura (latest)               | Edge     |
+|3. |      Macbook       |               Ventura (latest)               | Firefox  |
+|4. |      Macbook       |               Ventura (latest)               | Safari   |
+|5. |     iphone 13      |                 iOS (latest)                 | Chrome   |
+|6. |     iphone 13      |                 iOS (latest)                 | Edge     |
+|7. |     iphone 13      |                 iOS (latest)                 | Firefox  |
+|8. |     iphone 13      |                 iOS (latest)                 | Safari   |
+|9. |         PC         |   Windows 10 (one back from the latest, 11)  | Chrome   |
+|10.|         PC         |   Windows 10 (one back from the latest, 11)  | Edge     |
+|11.|         PC         |   Windows 10 (one back from the latest, 11)  | Firefox  |
+|12.| Samsung Galaxy S21 |                   Android                    | Chrome   |
+|13.| Samsung Galaxy S21 |                   Android                    | Edge     |
+|14.| Samsung Galaxy S21 |                   Android                    | Firefox  |
 
 
 ## How We Will Test and Track
