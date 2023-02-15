@@ -25,5 +25,9 @@ We need to test across the operating systems and browsers outlined below. Team m
 ## Tools
 ...
 
-## How to Track
-...
+## Findings
+|         | Test case No. | Finding | Operating System| Browser | Device | Reporter | Ticket(s)|
+|---------|---------|-------|---------|---------|-------|-------|-------|
+| | | | |  | | | |
+| | | | |  | | | |
+| | | | |  | | | |
