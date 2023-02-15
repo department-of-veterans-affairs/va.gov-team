@@ -91,10 +91,6 @@ The need for CC/BCC functionality frequently surfaces when discussing potential 
 
 We know from our users that copying template content from our staging environment to our prod environment is a pain point.  Our goal is have users enter content and/or make changes to content in staging then promote that template to production.  This feature will eliminate the pain point and give our team more governance over what gets launched into production and when. 
 
-#### Self Service UI Build Out
-##### Theme(s): Self Service / Governance
-
-We plan to build out our UI to make it more robust so our users, both new and existing, have what they need have what they need to optimize onboarding and using our platform
 
 #### Personilized Dashboard 
 ##### Theme(s): Self Service / Governance
