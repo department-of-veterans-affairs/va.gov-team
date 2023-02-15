@@ -4,7 +4,7 @@ For QA of the My VA Audit Improvements we will be performing QA manually using a
 
 ## Operating Systems
 
-We need to test across the operating systems and browsers outlined below. Team members listed indicate who is responsible for testing that browser/system combination.
+We need to test all 35 test cases across the operating systems, browsers and devices outlined below. 
 
 #### iOS
 |         | Desktop | Mobile|
@@ -22,8 +22,10 @@ We need to test across the operating systems and browsers outlined below. Team m
 | Firefox |         |       |
 
 
-## Tools
-...
+## How We Will Test and Track
+1. Use spreadsheet to document test cases, browser/os/device combos and pass/fail
+2. Leverage browserstack for browser/os/device combos we don't have access to
+3. For any findings, team member will fill in a row for each item in the table below. AJ will create the needed ticket(s) to resolve finding.
 
 ## Findings
 |         | Test case No. | Finding | Operating System| Browser | Device | Reporter | Ticket(s)|
