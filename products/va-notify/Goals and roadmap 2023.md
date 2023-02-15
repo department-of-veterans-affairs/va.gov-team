@@ -136,6 +136,11 @@ Streamlining the currently cumbersome process of launching notifications from st
 
 **Expected launch date**: March/April 2023
 
+#### Developer Resources (MVP) - SSUI
+To reduce the development time needed to integrate with VA Notify, we want to make sure developers can easily access all the information they need from within the Self-Service Portal.  A ‘Developer’ tab will include three sections: Technical Documentation, API Documentation, and Technical Contacts. ‘Technical Documentation’ informs developers about VA Notify architecture and the services we offer.  ‘API Documentation’ using Swagger helps developers understand the endpoints, methods, parameters, and responses of our API more effectively with interactive documentation. Additionally, ‘Technical Contacts’ lists VA Notify team member names and emails so developers can reach out if they have any questions.
+
+**Expected launch date**: Febuary 2023
+
 #### Service Management  - SSUI 
 As VA Notify continues to onboard business lines and notification suites are expanded, it is crucial business lines are able and empowered to manage their own notification services, lest VA Notify end up a support team. Functionality such as copying service details to a clipboard, modifying permitted notification types, inviting and managing users, and managing notifications not only reduces onboarding time, it facilitates the continued evaluation and maintenance of notifications.
 
@@ -143,13 +148,28 @@ As VA Notify continues to onboard business lines and notification suites are exp
 
 #### VA.gov Forms
 * 22-5490 Education Benefit Application
+
+**Expected launch date**: February 2023
+
 * 22-1990 (Application for VA Education Benefits)
+
+**Expected launch date**: March 2023
+
 * 22-10203 (Application for Edith Nourse Rogers STEM Scholarship)
+
+**Expected launch date**: March 2023 (This one may be more complicated because it already has a notification)
+
 * 22-5495 (Dependents’ Request for Change of Program or Place of Training)
+
+**Expected launch date**: April 2023
+
 * 22-1995 (Request for Change of Program or Place of Training)
+
+**Expected launch date**: April 2023
+
 * 22-0994 (Application for Veteran Employment Through Technology Education Courses (VET TEC).
 
-**Expected launch date** Depends on Content Approval
+**Expected launch date**: May 2023
 
 ## The rest of the year
 
