@@ -21,6 +21,6 @@ We'll then talk through it as a community to figure out what’s the best way fo
 8. **Give others the time and space to speak, do not interrupt.**  It can be difficult to work up the nerve for some people to contribute their thoughts to a large group. Allow others time to collect their thoughts and contribute to the conversation. 
 9. **Design safe(r) spaces.** There's no such thing as a perfectly "safe" space, but we can do our part in making things safe_r_. Normalizing how we share failures, and how we comfort one another in times of discomfort key.
 
-## Reporting an incident or breach in guidelines (work in progress)
+## ⚠️ Reporting an incident or breach in guidelines (work in progress) ⚠️ 
 This is a high priority item for our community to figure out. 
 
