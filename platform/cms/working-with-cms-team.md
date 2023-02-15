@@ -1,15 +1,12 @@
-[Work in progress]
 
 # Working with CMS team - Rules of Engagement 
 
 This document will help all teams working on VA.gov understand when you should engage CMS team resources for collaboration and support.
 
-- [When to check-in/collaborate with CMS team](#whentorequest)
+- [When to check-in/CMS Collaboration Cycle](#whentorequest)
    - For product designers 
    - For CMS developers
    - For front end developers
-- [The CMS scoping exercise](/platform/cms/product-team-support/cms-scoping-exercise.md)
-   - [How to request](/platform/cms//product-team-support/cms-scoping-exercise.md#howtorequest)
 - [Questions/How to contact us](#questions)
 
 
