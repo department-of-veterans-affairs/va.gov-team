@@ -13,9 +13,9 @@ There's no "official" way of joining, but we usually recommend to:
 
 ## Legend of service
 We value everyone in our community, and encourage _anyone_ who has the time, resources, and comfort to share their talents in the following roles:
+- Participated (including silent participation) in a practice meeting, small group, or on slack as a **community member** 🫀
 - Guided a meeting as a **facilitator** 👐
 - Shared community learnings as a **scribe** 📝
-- Participated (including silent participation) in a practice meeting, small group, or on slack as a **community member** 🫀
 
 ### Joining this record
 If you've served in any of these roles, you're welcome to add (or not add) your name and any other information to this record. This is completely optional, and acts as a public way of recognizing that no practice can operate without a community of people.
