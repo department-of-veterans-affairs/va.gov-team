@@ -160,11 +160,11 @@ This all depends on Florence having Github access.
 
 ### Accessibility updates
 
-Note: This work needs tickets created.
+~Note: This work needs tickets created.~
 
 **Design - Liz**
 
-- Update Sketch files (if needed) and links to documentation for address validation << Liz and Berni discussed this item, and there's no additional work needed here. The Sketch files and use case documentation reflect the changes FE is currently making. Once FE changes are complete, this work is complete. 
+- ~Update Sketch files (if needed) and links to documentation for address validation~ << Liz and Berni discussed this item, and there's no additional work needed here. The Sketch files and use case documentation reflect the changes FE is currently making. Once FE changes are complete, this work is complete. 
 
 **FE - Adam**
 
@@ -173,7 +173,7 @@ Note: This work needs tickets created.
 
 ### Direct deposit migration
 
-Note: This work needs a ticket created. <<< Done
+~Note: This work needs a ticket created.~ <<< Done
 
 **BE - Tom**
 
