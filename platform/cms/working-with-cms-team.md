@@ -22,7 +22,7 @@ CMS product team members are also present in some product teams, including [#vsa
 
 ## <a id="whentorequest"></a>When to check-in/collaborate with CMS team
 
-CMS support is available anytime you have questions or want to collaborate on your work, so don't hesitate to reach out at any time. 
+CMS support is available anytime you have questions or want to collaborate on your work, so don't hesitate to reach out at any time. You will find more information on the CMS Collaboration Cycle on the internal team [Confluence] (https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/1791459333/CMS+Collaboration+Cycle). 
 
 ### For product designers and managers
 
@@ -31,23 +31,18 @@ CMS support is available anytime you have questions or want to collaborate on yo
 - Reach out to the CMS team in https://dsva.slack.com/archives/CT4GZBM8F for a CMS Collaboration Cycle Kickoff [ticket] (https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=ewashb%2Cdawnpruitt&labels=%E2%AD%90%EF%B8%8F+Sitewide+CMS&template=cms-collab-intake.yml&title=%5BCMS+COLLAB+CYCLE+INTAKE%5D+%28Team+Name%2C+Product+Name%2C+Feature+Name%29).
 
 **During Discovery** 
-- If your product's content may be managed within the CMS, schedule a <a href="cms-scoping-exercise.md">CMS scoping exercise</a>, around the same time as the <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#design-intent-check-in">design intent review</a>. 
+- If your product's content may be managed within the Drupal CMS, schedule a CMS Collaboration Cycle Kickoff meeting, around the same time as the <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#design-intent-check-in">design intent review</a>. 
 
-**During Design** 
-- If your product involves additions to the content model and/or the editorial experience, please involve (who?) from the CMS team on a regular basis.  
+**During Design and Development** 
+- If your product involves additions to the content model and/or the editorial experience, please involve the CMS team through the CMS collaboration cycle. Your designs will need a kickoff where it will be determined if there is additional need for a midpoint review.   
 
-**During Development** 
+**Staging Review** 
+- If your product involved changes to the Drupal interface, you will be required to add a CMS developer for code review as well as a CMS designer for design review in your PR. If you are unsure of who to assign the review, please reach out in the team slack #sitewide-cms-platform.
 
-
-### For developers 
 
 **Orientation**
-
-- needs writing
-
-**During Development** 
-- Back end (CMS) development.
-- Front end development
+- The CMS overview and orientation as of May 2022 
+[VA.gov Drupal CMS overview.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/10748171/VA.gov.Drupal.CMS.overview.pdf)
 
 
 
