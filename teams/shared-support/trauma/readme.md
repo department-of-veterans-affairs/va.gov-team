@@ -13,15 +13,19 @@ There's no "official" way of joining, but we usually recommend to:
   - Sign up for the next small group (on slack) or [join our next practice meeting (email invite)](https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=bGZ0djFzdmRhY2s5NGZ1MmY0aDdlOHV1bXZfMjAyMzAyMjBUMjEwMDAwWiBqb3NoLmtpbUBhZGhvY3RlYW0udXM&amp;tmsrc=josh.kim%40adhocteam.us&amp;scp=ALL)
   - Check out our [past shared learnings in our notes folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma/notes)
 
-## Legend of service
+## Participating and connecting with our community
 We value everyone in our community, and encourage _anyone_ who has the time, resources, and comfort to share their talents in the following roles:
 - Participated (including silent participation) in a practice meeting, small group, or on slack as a **community member** 🫀
 - Guided a meeting as a **facilitator** 👐
 - Shared community learnings as a **scribe** 📝
 
-### Joining this record
-If you've served in any of these roles, you're welcome to add (or not add) your name and any other information to this record. This is completely optional, and acts as a public way of recognizing that no practice can operate without a community of people.
+### Joining our public list of community members
+If you've served in any of these roles, you're welcome to add (or not add) your name and any other information to this list. This is completely optional, and is meant to:
+1. recognize that we can't do this without a community of people
+2. connect practitioners together
+3. celebrate those who have served
 
+#### Instructions
 1. Edit this document at the top right corner of this page 
 2. Add your name to any/all of the relevant categories below
 
