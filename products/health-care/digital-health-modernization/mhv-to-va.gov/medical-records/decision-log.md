@@ -28,7 +28,7 @@ Please log key decisions related to the below practice areas, including date, wh
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |    1/12/23  |         Patty Henry          |             Update: We will NOT be moving forward with directly sharing medical records via MHV or VA.gov per the conversation with Patty Henry in today's Jira Backlog Grooming meeting for the following reasons:| Because users own this information, they are free to download/print their records to send to anyone they choose, using their own delivery methods. The Legacy feature, "Send My VA Health Summary" was a pilot feature that has been decommissioned. This feature is owned by Veterans Health Information Exchange (VHIE) program, not MHV.|
-|      |                   |                         |           |
+|   2/1/23   |    Coulton Bunney               |         Per the 2/1 Design and Research critique, we’ve decided that, for Phase 0, the list of vaccines will not have any search, sort, filter, or grouping capabilities. The grouping of vaccines will be included in later iterations, pending research.                |    Simplify the MVP, and justify the additional features through future research.        |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
@@ -67,7 +67,7 @@ Please log key decisions related to the below practice areas, including date, wh
 |   12/21/22   |      Jonathan Nelson     |    Print functionality from the vaccine list view - Setting off a workflow to print one, some, or all of vaccines   |    It is important for users to download/print records for their own records (please see bellow for print and download discussion)|
 |    12/21/22  |       Jonathan Nelson            |        Surface Vaccine name and date of vaccine on list view with a link to "view details" -   |  Surfacing the most relevant information will make the list scannable and help Veterans find information quickly and efficiently. Additionally,  this is similar to the Secure Messaging designs  and the Flagship mobile app|
 |   12/21/22   |       Jonathan Nelson            |           The hierarchy and content of the immunization detail page follows the Flagship Mobile App for consistency.   |     Users should have a similar experience (when possible) across the mobile app and website ("dosage" is coming from Lighthouse API - Unknown if we get from doage from PHR API)  |
-|      |                   |                         |           |
+|    2/3/22  |     Alexia Wunder, Matt Dingee, Peter Russo, Martha Wilkes, Ryan Thurlwell              |   [Per this Slack conversation](https://dsva.slack.com/archives/C0NGDDXME/p1675212625976139), we will move forward with the print and download action triggers as links with icons instead of buttons.                       |  This decision was approved with the understanding that other teams will test this style going forward to come up with a more permanent structure for this type of trigger, and that we will be sure to test with screen reader users.          |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |

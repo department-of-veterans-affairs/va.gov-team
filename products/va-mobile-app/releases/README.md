@@ -262,6 +262,9 @@ Owner: Product Management
 <p>
 - Content Updates
 <p>
+- Call Center Product Guide updates - See the <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md">Call Center documentation</a> for more details.
+<p>
+<p>
 - Product: Create Pull Request for What's new Content
 <p>
 - VA - Approve Pull Request for What's New Content

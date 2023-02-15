@@ -1,6 +1,6 @@
 # My Health Medical Records Product Outline
 
-Last Updated: Oct 28, 2022
+Last Updated: Feb 13, 2023
 
 ### Communications
 
@@ -13,15 +13,29 @@ Last Updated: Oct 28, 2022
 |----|----|-----|
 |Lauren Alexanderson |OCTO Lead|lauren.alexanderson@va.gov|
 |Leila Rassi |OCTO Product Manager| leila.rassi@va.gov |
+|Bresha Lipscomb | VA Product Owner | bresha.lipscomb@va.gov |
+|Leah Bannon |OCTO Facilitator | leah.bannon@va.gov |
+|Bryan Riley | ByLight Delivery Mgr | bryan.riley@va.gov |
+|Mikki Northuis|Content and IA | mikki.northuis@va.gov |
+|Martha Wilkes |OCTO Accessibility Strategist | martha.wilkes@va.gov |
 |Coulton Bunney |OCTO Design Lead| coulton.bunney@va.gov |
-|Marci McGuire |Core Team Product Manager| marci.mcguire@adhocteam.us|
-|Jonathan Nelson|Core Team Designer |jonathan.nelson@adhocteam.us |
-|Robyn Singleton| Core Team Researcher| robyn.singleton@adhocteam.us |
-|Patrick Vinograd|Core Team Lead Engineer|patrick.vinograd@adhocteam.us|
-|Eric Voshall|Core Team Engineer|eric.voshall@adhocteam.us|
+|Alexia Wunder | ByLight Design Lead | alexia.wunder@va.gov |
+|Mike Moyer | ByLight Lead Developer | michael.moyer@va.gov |
+|Marci McGuire |Home Team Product Manager| marci.mcguire@adhocteam.us|
+|Jonathan Nelson|Home Team Designer |jonathan.nelson@adhocteam.us |
+|Robyn Singleton| Home Team Researcher| robyn.singleton@adhocteam.us |
+|Eric Voshall|Home Team Engineer|eric.voshall@adhocteam.us|
+|Daniel Cloud|Interim Home Team Engineer|daniel.cloud@adhocteam.us|
 
 ## Overview
 Medical Records on VA.gov will provide Veterans with the same ability to view their VA health care data providers as on MyHealtheVet (MHV) today The new application will employ modern technology and user-centered design to ensure that the tool is accessible, straightforward, and simple to use.  Moving this product out of MyHealtheVet and into the VA.gov landscape will also provide a more seamless and consistent experience than was possible on two distinct web sites.
+
+The development and release of functionality will occur in multiple groupings, each of which will have it's own Collaboration Cycle ticket:
+  --Vaccines
+  --Lab and Test Results, consisting of Chemistry/Hematology, Microbiology, Pathology results, Cardiology images and reports, Radiology images & Reports
+  --Care Summaries and Notes, consisting of VA Notes, Admission & Discharge Summaries, After Visit Summaries
+  --Health Conditions, Vitals, and Allergies
+  --Downloadable Reports
 
 ## Problem Statement
 Medical Records on VA.gov was researched and developed `TBD` years ago and remains largely unchanged from UI, IA, accessibility, and technology perspectives.  Furthermore, some of the rationale and decisions that drove the original medical records design may no longer be valid or timely today, and therefore should be re-examined and challenged where appropriate.
@@ -110,9 +124,18 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *Why this solution / approach over other solutions / approaches?*
   - Adding additional functionality will increase an already-lengthy timeline for the overall MHV to VA.gov move.  Decreasing functionality would likely cause dissatisfaction among users.
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
-  - `TBD`
+Medications: Medications will be combined with RX refill to create one medications section that will include a view of all of your meds, plus a view where you can refill/renew va meds.
+
+Appointments: Appointments will be found in “appointments” section of My Health
+
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-  - `TBD`
+  - This solution will be developed and released in multiple groupings.  Each grouping will have it's own Collaboration Cycle ticket.  The groupings are expected to be:
+  --Vaccines
+  --Lab and Test Results, consisting of Chemistry/Hematology, Microbiology, Pathology results, Cardiology images and reports, Radiology images & Reports
+  --Care Summaries and Notes, consisting of VA Notes, Admission & Discharge Summaries, After Visit Summaries
+  --Health Conditions, Vitals, and Allergies
+  --Downloadable Reports
+  
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*

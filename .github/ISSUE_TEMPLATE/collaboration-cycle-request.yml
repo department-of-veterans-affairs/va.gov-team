@@ -21,14 +21,13 @@ body:
         **Fields marked with an asterisk (*) are required.**
   - type: markdown
     attributes:
-      value: "## VFS product information"
+      value: "## VFS product or feature information"
   - type: checkboxes
     id: verify-directory
     attributes:
-      label: If your product is already on VA.gov, please verify your product information in the Product Directory.
-      description: See the [Product Directory page](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory) on Platform website.
+      label: Verify information about your product or feature in the VFS Product Directory.
       options:
-        - label: The product information in the Product Directory is accurate.
+        - label: I have reviewed the [VFS Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory) and confirm that my information is correct (or that I have taken appropriate actions to update or add my product information to the directory).
           required: true
   - type: input
     id: product-team
@@ -42,12 +41,14 @@ body:
     id: product-name
     attributes:
       label: Product name
+      description: See [terms and definitions on products vs. features](https://depo-platform-documentation.scrollhelp.site/getting-started/product-operations-terms-and-definition).
     validations:
       required: true
   - type: input
     id: feature-name
     attributes:
       label: Feature name
+      description: See [terms and definitions on products vs. features](https://depo-platform-documentation.scrollhelp.site/getting-started/product-operations-terms-and-definition).
     validations:
       required: true
   - type: input
@@ -76,7 +77,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please refer to the guidance in [Collaboration Cycle Kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html) for detailed information and examples for the below questions.
+        Please refer to the guidance on the [Collaboration Cycle Kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html) page on Platform Website for detailed information and examples regarding these questions (below).
   - type: dropdown
     id: visible-changes
     attributes:

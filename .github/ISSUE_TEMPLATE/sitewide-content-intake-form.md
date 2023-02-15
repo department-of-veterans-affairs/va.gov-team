@@ -2,24 +2,17 @@
 name: Sitewide Content and IA Intake Form
 about: To request support with content or IA from Sitewide Content and IA team
 title: "<Type of Request> from <Team>"
-labels: sitewide content, sitewide content-product support, Sitewide IA
-assignees: RLHecht, mnorthuis
+labels: sitewide CAIA, sitewide content-product support, Sitewide IA, sitewide content
+assignees: RLHecht, coforma-terry
 
 ---
 
 ## What does your team need support for? Check all that apply.
-- [ ] Launching one or more new unauthenticated (static) VA.gov pages
-- [ ] Making revisions to one or more existing unauthenticated (static) VA.gov page
-- [ ] Launching a new online form, app, or tool on VA.gov
-- [ ] Making revisions to an existing online form, app, or tool on VA.gov
-- [ ] Something else (please add details in the next question)
-
-## What do you need help with?
-  - [ ] Content support
-  - [ ] IA support
-  
-  
-*Please be specific about the content or IA support you need and provide any additional documents and/or links that will help us help you. If we need to add a react widget to a page, be sure to provide the code here.*
+- [ ] Launching one or more unauthenticated pages, online forms, apps, or tools on VA.gov
+- [ ] Making revisions to one or more existing VA.gov pages
+- [ ] Something else 
+ 
+ *Give a brief description of what your team needs support with.*
 
 ## Will this new product be released incrementally (for instance 25% of users initially)? 
   - [ ] Yes

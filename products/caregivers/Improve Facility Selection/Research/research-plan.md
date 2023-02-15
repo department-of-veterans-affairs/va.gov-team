@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan: 10-10CG facility selection usability/explorative study, 1010 Team, February 2023
+# [DRAFT] Research Plan: 10-10CG facility selection study, 1010 Team, February 2023
 
 
 ## Background
@@ -13,10 +13,13 @@ During previous usability studies on this form (Research Findings: [February 202
 2. Users are uncertain which facility to specify (Eg. Primary care, therapist, oncologist, most recent, etc.)
 3. Users that live on state borders potentially would have to select a different state from where they live in order to find their preferred facility (located in another state).
 
-In addition, there are concerns that this questions could be potentially misleading. The facility chosen is used to process the applicatioin  at the nearest Caregiver support facility but the question is worded in that it is asking for the Veteran's preferred facility. Also when community/child facilities are included with the new search API integration this could add confusion because the applicant and the PDF will refelct the parent/Caregiver support facility not necessarily the facilty answered with. 
+Additional techinal and user experience concerns include:
+1. The team wants to update and use the facility API to manage the list of locations and include search by zip code in additon to state with a secondary filter by city.
+2. By including both community and VA Health Care Facilities in the search list, this could potentialy add confusion if the process is not made clear to the applicant. 
+3. The question content needs to be in plain language as well as make the process clear as to how this answer will impact the caregiver application process. 
 
 
-We have redesigned the facilities question to address the problem and this research is on the usability of this redesign and some additional explorative research interview questions. We are conducting a combination a/b/c test with additional questions to research the clarity and understanding of this question. 
+We have created 3 updated facility question flows that focus on variations of content and process explanation while all using the same search functionalty. We are conducting a combination usability test / explorative research study to compare the variations of this question on clarity and understanding of this question. 
 
 
 ### OCTO Objectives 
@@ -45,28 +48,26 @@ Are there moments that matter?
 
 The goals of this user research are to:
 
-1. Determine what question variation is the most understandable in the way it is asked.
+1. Determine what facility question flow variation is the most understandable in the way it is asked.
 2. Determine what variation makes it the most clear for the applicant to know how the information provided will be used during the caregiver application process.
 3. Determine how applicants would prefer to search for and select a facility from a list.
-4. Determine if the new facility search and selection process has any accessibility concerns. 
-
 
 ### Outcome
 
-The outcome of this study will help aid in decisions around changes to make to this question and how it impacts the caregiver application process and how it can help best minimize applications submitted with facility errors. 
+The outcome of this study will help aid in decisions around changes to make to this question and and how it can help best minimize applications submitted with facility errors. 
 
 
 ### Research questions
 
-**Goal 1: Understandable**
-- Which variation (a or b) is the easiest to understand and answer with little confusion?
-- Which variation (a or b) results is the least amount of clarifying questions or additional information needed to complete? 
-- Which variation (a or b) is the quickest to answer?    
+**Goal 1: Understandable content**
+- Which variation (a, b or c) is the easiest to understand and answer with little confusion?
+- Which variation (a, b or c) results is the least amount of clarifying questions or additional information needed to complete? 
 
 
-**Goal 2: How information is used / impact to caregiver application process**
-- Which variation (a or b) is easiest to understand why they are selecting a facility and how it impacts the caregiver application process?
-- Do users understand the variations containing a confirmation screen after selection? Does this add additional confusion?
+**Goal 2: Clear how this is used in caregiver application process**
+- Which variation (a, b or c) is easiest to understand why they are selecting a facility and how it impacts the caregiver application process?
+- Do users understand the variations (b and c) containing a confirmation screen after selection and does this add additional confusion?
+
 
 **Goal 3: Search and selection of facilities**
 - Are users able to navigate through the facility selection without difficulty?
@@ -92,13 +93,20 @@ Our hypothesis is that users will be able to navigate through the facility selec
 
 ## Methodology	
 
-**A/B/C usability task analysis and interview questions**
+**User interviews and usability task analysis*
+
 This will be a focused study on only the facility question(s) that is part of the caregiver application. The goal is to understand the usability impact to variations around question wording, location search and selection, and confirmation messaging.  
+
+This will be a rolling study where we will do multiple studies and continue to iterate,
+Cohort 1: User interview, content focus (20 completed sessions)
+Cohort 2: A/B usability task analysis (5 compelted sessions)
+Cohort 3: A/C usability task analysis (5 completed sessions)
+Cohort 4: B/C usability task analysis (5 completed sessions)
 
 
 ### Location
 
-A remote task-based usability/moderated interview study will be conducted remotely with Zoom using the Perigean contract. 
+A remote task-based usability study will be conducted remotely with Zoom using the Perigean contract. 
 
 
 
@@ -159,7 +167,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 
 ### Length of sessions
-* Session length: 45 minutes
+* Session length: 30 minutes
 * Buffer time between sessions: 30 minutes
 * Maximum Sessions per day: 4
 

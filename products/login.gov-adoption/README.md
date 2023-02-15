@@ -25,11 +25,11 @@ December 2022 - Present
 |Product Owner|Elizabeth Koch|elizabeth@bluetiger.digital|
 |Senior Product Manager|Anthony Levin-Decanini|anthony@themostudio.com|
 |Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
-|Senior Software Engineer|Ksenia Coulter|kcoulter@pluribusdigital.com|
 |Senior UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
 |Content Strategist|Carl Dickerson|carl@themostudio.com|
 |UX Designer|Carolyn Williams|carolyn@themostudio.com|
-|Senior Interaction Designer|TBD|TBD|
+|Senior Interaction Designer|Sofia Kirkman|sofia@themostudio.com|
+|Senior Software Engineer|Ksenia Coulter|kcoulter@pluribusdigital.com|
 |Full Stack Developer|Melissa Miller|mmiller@pluribusdigital.com|
 |Full Stack Developer|TBD|TBD|
 

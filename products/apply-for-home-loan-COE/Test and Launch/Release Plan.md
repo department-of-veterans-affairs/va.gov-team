@@ -4,9 +4,7 @@
 
 ## Step 1: Development
 
-You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
-
-List the features toggles here.
+Here are the features toggles:
 
 | Toggle name | Description |
 | ----------- | ----------- |
@@ -15,9 +13,7 @@ List the features toggles here.
 
 ## Step 2: Validation
 
-Since we use a [continuous delivery](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-process) model, once code is in the `main` branch, it will be deployed that day. 
-
-Before enabling your feature toggle in production, you'll need to:
+Here is our checklist for enabling the feature toggle in production:
 
 - [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
 - [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
@@ -30,9 +26,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 ### Rollback process
 
-Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
-
-Rollback plan: if the functionality needs to be rolled back out of production, we will do the following:
+If the functionality needs to be rolled back out of production, we will do the following:
 - Turn on the feature toggle, disabling functionality of the form and status app.
 - Reach out to the sitewide content team (Randi is a POC), and request that they disable the introduction page and navigation breadcrumbs leading to the form.
 - Document issues in production to be resolved using the bug template in Zenhub.
@@ -45,46 +39,37 @@ Rollback plan: if the functionality needs to be rolled back out of production, w
 
 #### Planning
 
-- Desired date range or test duration: [10/19/2022 - 11/01/2022]
-- Desired number of users: [3-5]
-- How you'll recruit the right production test users: [Internal recruit]
-- How you'll conduct the testing: [Share the UAT testing instructions and ask users to complete each use case listed.]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [Using a feature toggle set at 0%, we will whitelist Veteran volunteers recruited to assist in submitting COE requests (this could include volunteers that are VA employees as well as non-VA employee Veterans).]
+- Date range or test duration: [1/19/2023 - 2/2/2023]
+- Desired number of users: [11]
+- Recruit method for production test users: [Internal recruit]
+- Test method: [Moderated screenshare with LGY service SMEs and VA.gov engineer]
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: [Using a feature toggle set at 0%, we whitelisted Veteran volunteers to submit COE requests (VA employees as well as non-VA employee Veterans).]
 
 #### Results
 
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
+- Number of users: [11]
+- [Bugs identified / fixed](https://docs.google.com/spreadsheets/d/1n2XFtonuaH9yIszPzOsYKj1eKPIuv3R9fEk8rG4pn0c/edit#gid=0)
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
-We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
-
 #### Rollout Planning
 
-- Desired date range: [11/02/2022-11/30/2022]
-- How will you make the product available in production while limiting the number of users who can find/access it: [Feature toggle].
+- Desired date range: [2/2/2023-2/23/2023]
+- We will make the product available in production while limiting the number of users who can find/access it with this method: [Feature toggle].
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?
-  - Reported contact center calls < 2 calls
-  - Error rate < 5%
+  - Contact center calls < 2 calls
+  - Sentry error rate < 5%
 - Links to the dashboard(s) showing "success criteria" metrics: [Link to dashboards TBD]
-- Who is monitoring the dashboard(s)?: [Sade Ragsdale]
+- Who is monitoring the dashboard(s)?: [Eugene Lynch (github handle is @data-doge)]
 
-### Stage A: Canary
+### Stage A: Canary 5-10% of users
 
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
 #### Planning
 
-- Length of time: [1 week]
-- Percentage of Users (and roughly how many users do you expect this to be): 0%, whitelist recruit 
+- Length of time: [3-5 business days]
+- Percentage of Users (and roughly how many users do you expect this to be): 5-10%
 
 #### Results
 
@@ -100,8 +85,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [1 week]
-- Percentage of Users (and roughly how many users do you expect this to be): 25%
+- Length of time: [3-5 business days]
 
 #### Results
 
@@ -117,7 +101,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [1 week]
+- Length of time: [3-5 business days]
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results

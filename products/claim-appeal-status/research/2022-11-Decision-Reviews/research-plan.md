@@ -23,8 +23,6 @@ With this research, we are hoping to speak with Veterans who have engaged in a d
 
 We are also curious to find out more about which of these journeys can be fully self-service, given the complexity and high stakes nature of these reviews. We want to understand more about the Veteran experience working with VSOs and third party legal reps, so that we can create an experience that guides Veterans to either self-service or VSO-supported options in the optimal way.
 
-We also want learn about new opportunities for Veterans to pursue decision reviews that have been enabled by the passage of the PACT Act.
-
 ### Outcome
 This research will include two parts. In one, we will get some foundational qualitative data to strengthen our understanding of decision review options from the Veteran perspective. In the second, we will test a quick concept prototype to see if Veterans find value in this type of digital self-service tool. Based on the findings, we will proceed with our product development to identify ways in which we can address Veteran pain points. 
 

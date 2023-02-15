@@ -3,8 +3,8 @@ name: Redirect, URL change, or vanity URL request
 about: Submit a request to change a URL and/or implement a redirect for a URL. Also
   for vanity URL requests.
 title: Redirect Request
-labels: Sitewide IA, ⭐️ Public Websites, VA.gov frontend
-assignees: mnorthuis, jilladams, RLHecht
+labels: Sitewide IA, Public Websites, VA.gov frontend
+assignees: jennymayoco, jilladams, RLHecht
 
 ---
 

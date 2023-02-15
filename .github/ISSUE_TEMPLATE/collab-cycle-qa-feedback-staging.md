@@ -3,7 +3,7 @@ name: QA Collab Cycle Feedback for Staging
 about: Staging feedback template for Collaboration Cycle reviewers to provide QA feedback
   to VFS teams
 title: QA Standards - VFS Team - VFS Product
-labels: collab-cycle-feedback, QA, Staging
+labels: collab-cycle-feedback, QA, Staging, qa-standards
 assignees: ''
 
 ---
@@ -47,11 +47,15 @@ assignees: ''
 
 ### Platform directions
 - Update "Issue Title" to be of the form "QA Standards - VFS Team - VFS Product"
-- Link to  Collaboration Cycle Request epic
-- Add the VFS team and product name
+- Add the VFS team, product name, and feature name
 - Add your name, practice area, and GH handle under Point of Contact/Reviewers
-- Add assignees: VFS PM
+- Complete the QA Standards section, making sure to include an "Explanation of failure to meet standard" for every Standard the product does not meet.
+- Link to the Collaboration Cycle Request epic
+- Add assignees: 
+  - VFS PM
+  - Yourself (optional)
 - Add labels:
   - VFS team label
   - VFS product label
-  - Launch-blocking label, if applicable
+  - QA-standards label
+  - launch-blocking label if the product has failed to meet a required QA Standard

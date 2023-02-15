@@ -1,6 +1,6 @@
 # 10-10EZ Confirmation emails hub
 
-**Updated 1/16/2023**
+**Updated 1/31/2023**
 
 **Note:** These Transition Docs are "point in time" documents, and may not reflect current progress, deployments or upcoming efforts.
 
@@ -61,6 +61,7 @@ Include notes about which Platform process was in use when this feature was in d
 
 - Kicked-off discussions with VA Notify and Enrollment System/Joshua Faulkner - December 2022
 - Submitted Change Request via Tarsha Tremble - January 2023
+- Change Request approved, pending scheduleing - January 2023
 
 
 <br>

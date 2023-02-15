@@ -10,11 +10,12 @@ Multiple research study findings suggest that the ability to download decision l
 Veterans often need to provide copies of their decision letters to a representative to pursue disagreement pathways related to the decision. In addition, some benefits provided by third-parties require a decision letter as proof of the veterans’ disability status. 
 
 ## Problem Statement(s)
-As a veteran who is being represented under a  POA agreement, after a claims decision is rendered by an adjudicator, I must wait for my decision letter to arrive through physical mail in order to have tangible evidence of that decision. As a result, I am unable to immediately pursue the appropriate disagreement pathway because my representative requires the decision letter to take action on my behalf. 
+As a veteran who is being represented under a  POA agreement, after a claims decision is rendered by an adjudicator, I must wait for my decision letter to arrive through physical mail in order to have tangible evidence of that decision. As a result, I am unable to immediately pursue the appropriate decision review pathway because my representative requires the decision letter to take action on my behalf. 
 
 Screenshot of current experience: 
 ![current experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/CST%20compensation%20claim.png)
 	
+- As a veteran who has just received a claims decision, but is disasisfied with the outcome, I must wait up to ten days to receive a decision letter that has the information I need to make an informed decision about which decision review option I should choose. 
 - As a veteran who has lost the physical decision letter mailed to me, I must reach out to the VA, request a new one, and then wait for it to arrive via snail mail. In the meantime, I am unable to provide the letter to my representative or a third party benefit provider who needs it to prove my disability status. 
 - As a call center representative, I often receive inquiries from veterans about how they can obtain their decision letters, which takes time away from answering other important inquiries veterans have. 
 
@@ -38,6 +39,9 @@ We bet that if veterans have the ability to download their decision letters thro
 - number of decision letters downloaded (daily, weekly, monthly)
 - Average time between decision and disagreement pathway chosen
 - number of Call Center calls related to decision letters (daily, weekly, monthly)
+- Number of unique page views to the decision letter listing page
+- Avg number of letters downloaded per unique page views
+
 
 ## Discovery Takeaways
 - [2021 Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/SummaryCSTresearchOct2021/Summary%20CST%20Research%2C%20Oct%202021.pdf)

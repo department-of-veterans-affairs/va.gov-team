@@ -1,31 +1,127 @@
 # Redirect Implementation Strategy
 
-Last update: 12/5/22 — see change history below
+Last update: 1/6/23 — see change history below
 
 ---
 
-## About this doc
+## Requesting a Redirect
 
-If you are a team member interested in requesting a URL redirect, please see the [Requesting Redirects document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md). **All URL redirects are routed through the platform team and handed off to the appropriate engineer to implement.**
+**All URL redirects are routed through the Sitewide Content & IA team and handed off to the appropriate engineer to implement.**
 
+If you are a team member interested in requesting a URL redirect, please read the [Redirects IA Context & Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md). 
+
+## Redirect Context
 This document outlines our current redirect implementation strategy, as well as areas where we hope to refine the process. This document replaces the previous [Redirects Strategy Suggestion](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/tools/redirects-strategy.md).
 
-### User story
+### Problem statement
+Pages from legacy VA sites or TeamSites may be replaced by content within the modernized VA.gov site. We want to preserve SEO while ensuring Veterans receive the latest modernized information possible.
 
-As a veteran, I want to make sure that my old www.something.va.gov or www.va.gov/something bookmarks take me to the correct resources on www.va.gov so that I can discover/apply/track/manage my benefits.
+### User story
+As a veteran, I want to my old www.subdomain.va.gov or www.va.gov/something bookmarks take me to the most up to date resources on www.va.gov, so I can discover/apply/track/manage my benefits.
+
+
 
 ---
 
-## Examples of redirects - current approach
+## Redirect Types / Examples
 
-|Current Page/URL | Redirect to | Type of redirect|
-|---|---|---|
-|www.va.gov/*| www.va.gov/* | Server side redirect|
-|benefits.va.gov/* | www.va.gov/* | Client side page-level redirect (temporary solution)|
-|pittsburgh.va.gov/* | www.va.gov/* | Server side for entire subdomain (not page-level)|
-|ebenefits.va.gov/* | www.va.gov/* | Do not expect to route this through platform team|
+|Current Page/URL | Redirect to | Type of redirect / implementation required | Code owner |
+|---|---|---|---|
+|www.va.gov/*| www.va.gov/* | Same-domain redirect within VA.gov (Server-side)| devops revproxy [redirects.yml](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/redirects.yml) |
+|vets.gov/*| www.va.gov/* | Vets.gov cross-domain redirect (Server-side)| devops revproxy [vetsgov-redirects.yml](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/vetsgov-redirects.yml) |
+|pittsburgh.va.gov/* | www.va.gov/* | Full site redirect (Server-side)| Managed by WebOps |
+|benefits.va.gov/* (TeamSite loading proxy-rewrite) | www.va.gov/* | Page-level cross-domain redirect (Client-side )| vets-website [crossDomainRedirects.json](https://github.com/department-of-veterans-affairs/vets-website/blob/2d8d4321e81013dcec06be752e68c75d4236fee9/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json) |
+|ebenefits.va.gov/* | www.va.gov/* | Do not expect to route this through platform team, as site is not TeamSite, full site redirect |  |
 
-**The following subdomains are ones where we are able to implement server-side redirects.**
+
+---
+
+## Implementation by type
+TODO: Update
+![Redirect Implementation Strategy Flow Chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/redirect-implementation-workflow.png)
+
+
+
+**Architecture diagram:**
+
+![image](https://user-images.githubusercontent.com/12773166/124171506-e7c60b00-da65-11eb-9ed3-b537c6ec5a5e.png)
+
+### 1) Same-domain redirect: Redirect within www.va.gov 
+
+_Server-side or client-side_
+- Server side
+
+Any redirects that were previously created client-side have been re-implemented server-side (October/November 2019). 
+
+_When to do this?_
+- When redirect is within VA.gov, e.g. www.va.gov/* -> www.va.gov/*
+- Actual example: www.va.gov/healthbenefits/index.asp  →  www.va.gov/health-care
+- When a Drupal CMS page URL is updated. Drupal handles URL changes but does not deploy redirects to the website as of 12/13/19.
+
+_How does this work technically?_
+- Traffic to www.va.gov hits the VA gateway, is routed to our reverse proxy, where it is redirected according to rules that Devops team maintains in the [devops repo](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/react_routes.yml#L69). 
+  - [revproxy README](https://github.com/department-of-veterans-affairs/devops/tree/master/ansible/deployment/config/revproxy-vagov/vars) - follow conventions
+  - `To` should always have a trailing `/` in order to avoid an unnecessary + extra redirect.
+  - Consider if redirect is/should be case sensitive or case insensitive. If case sensitive, do not use the `matcher` field or use regex in the `src` field. If case insensitive, use the `matcher: "~*"` and **with** regex in the `src` field, such that the value looks like `^/path/?$`.
+- Devops revproxy code for Server-side redirects is deployed via [Jenkins](http://jenkins.vfs.va.gov/job/deploys/) revproxy jobs. (Jan 2023) Deploy = weekly, Wed 10a ET.
+- If the initiating page is managed by the Drupal CMS, the URL change is made in the CMS _and_ the redirect is added to the devops repo
+
+
+_What team is responsible?_
+- Sitewide Content IA team approves requests and assigns work to the Public Websites team. Requesting team is responsible for communication with VA stakeholders as needed. 
+- [Redirects IA Context & Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md) contains more workflow details.
+
+_Any other notes_
+- Level of difficulty: low
+- Redirects for pages within the Drupal CMS require very close coordination between the engineer making the change in the devops repo and the person changing the URL within the Drupal CMS. 
+  - ![Redirect Drupla plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/redirect-implementation-timing-drupal-2019.png) 
+  - Diagram is a plan that is implemented in the CMS but not yet in nginx.
+- The Drupal-specific timing difficulties here will be addressed when VSP Ops works on their initiative to make Drupal the source of truth for redirects in 2020.
+
+
+### 2) Vets.gov cross-domain redirect: Page-level redirect from vets.gov to www.va.gov 
+
+_Server-side or client-side_
+- Server side
+
+_When to do this?_
+- When `from` URL domain is vets.gov
+
+_How does this work technically?_
+- Same as #1, within VA.gov, but via modifying [vetsgov-redirects.yml](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/vetsgov-redirects.yml)
+  - There are options for `rewrite` and `retain_path`. If you have questions on what values to use for those options, you can reach out to VSP Devops, Mikki Northuis, and the redirect request's stakeholder(s) for clarity.
+
+_What team is responsible?_
+_Any other notes_
+
+
+### 3) Full site redirects from subdomains (subdomain.va.gov) to www.va.gov 
+
+_Server-side or client-side_
+Server side. Requires technical contacts and access to the hosting server.
+
+
+_When to do this?_
+- When a full site is ready to migrate content to the modernized www.va.gov site.
+
+_How does this work technically?_
+- Option 1: The platform team takes control of the entire subdomain. Example: pittsburgh.va.gov (traffic to pittsburgh.va.gov hits the VA gateway, is routed to other servers, where a server-side permanent redirect is put in place that forwards the traffic along to a www.va.gov route and our servers)
+
+- Option 2: For a .NET website, modify the .NET web.config (XML file). Example: explore.va.gov
+
+- Option 3: If a full site is in TeamSite, the WebOps team can redirect the site. Follow [WebOps KB article steps](https://vaww.webops.va.gov/apps/kbx/kbarticle.cfm?get=2018-CST-0416041924) to request the redirect.
+
+_What team is responsible?_
+- If a subdomain or .NET site: Public Websites, working with Platform Devops, and whatever veteran-facing team is requesting the redirect, if applicable (such as VSA facility pages).
+- If a TeamSite: WebOps
+
+_Any other notes?_
+- Note that in these full domain redirect cases, ATO and ESECC approval must be considered
+- Level of difficulty: high (dependent on VA stakeholders)
+
+
+#### 2019 note from prior PW team
+The previous Public Websites team (GovCIO) noted that they were able to implement server-side redirects for the following subdomains:
 
 - pittsburgh.va.gov _VSP team is gaining access to this domain December 2019._
 - explore.va.gov _Was a .NET website. VSA Public Websites implemented a full domain redirect by modifying the .NET web.config (XML file)._
@@ -41,92 +137,80 @@ _Upcoming redirects for entire subdomains, planned to be done server-side in 202
 - www.wilmington.va.gov
 - www.montana.va.gov
 
----
 
-## Notes on implementation by type
 
-![Redirect Implementation Strategy Flow Chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/redirect-implementation-workflow.png)
+### 4) Page-level cross-domain redirects from subdomains (subdomain.va.gov) to www.va.gov 
 
-### 1) Server-side redirects within www.va.gov 
-
-_When to do this?_
-- This is the default, preferred path for www.va.gov/* -> www.va.gov/*
-- Actual example: www.va.gov/healthbenefits/index.asp  →  www.va.gov/health-care
-- Include pages managed within the Drupal CMS (which handles URL changes but does not deploy redirects to the website as of 12/13/19) or not
-
-_How does this work technically?_
-- Traffic to www.va.gov hits the VA gateway, is routed to our reverse proxy, where it is redirected according to rules that our operations team maintains in the [devops repo](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/react_routes.yml#L69). 
-- Note that redirects get pushed out with deployment of “revproxy” — different schedule from vets-website.
-- If the initiating page is managed by the Drupal CMS, the URL change is made in the CMS _and_ the redirect is added to the devops repo
-
-_What team is responsible?_
-- Work is routed from VSP to Sitewide Public Websites team for implementation (label ticket with `⭐️ Public Websites`). Public Websites team to pull in VSP Ops as needed. Requesting team (whether that is Public Websites or another VFS team) is responsible for communication with VA stakeholders as needed.
-
-_Any other notes_
-- Level of difficulty: low
-- Redirects for pages within the Drupal CMS require very close coordination between the engineer making the change in the devops repo and the person changing the URL within the Drupal CMS. 
-  - ![Redirect Drupla plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/redirect-implementation-timing-drupal-2019.png) 
-  - Diagram is a plan that is implemented in the CMS but not yet in nginx.
-- The Drupal-specific timing difficulties here will be addressed when VSP Ops works on their initiative to make Drupal the source of truth for redirects in 2020.
-
-### 2) Client-side redirects within www.va.gov
+_Server-side or client-side_
+- Client-side. 
 
 _When to do this?_
-- We shouldn’t do this, because server-side redirects are the preferred method and we have the technical ability to always do these server-side. If this type of redirect comes up, consult VSP Ops and VSA Public Websites for instruction.
+- When a single page within a TeamSite should redirect to www.va.gov, and that TeamSite loads proxy-rewrite JS. 
+  - You can verify if a site loads proxy-rewrite by checking the [proxy-rewrite-whitelist.json](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/proxy-rewrite-whitelist.json).
+  - Typically these sites will display the injected modernized header/footer, but in some cases, sites may load the proxy-rewrite JS but not yet display the injected header. Proxy-rewrite-whitelist.json is the source of truth.
+- When a single page within a TeamSite does _not_ load proxy-rewrite JS. In this case: Follow [WebOps KB article steps](https://vaww.webops.va.gov/apps/kbx/kbarticle.cfm?get=2018-CST-0416041924) to file a WebOps ticket that will be directed to TeamSite admins for assistance.
 
 _How does this work technically?_
-- N/A
+- Client-side redirects file: vets-website proxy-rewrite [crossDomainRedirects.json]](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json)
+
+1. A browser requests subdomain.va.gov
+2. The page at subdomain.va.gov is returned to the user's browser
+3. The page begins loading, including downloading images, and JavaScript files
+4. Proxy-rewrite JavaScript code for rendering the modernized header/footer is loaded into the user's browser
+5. Proxy-rewrite JS code begins executing -
+   - Is there a client-side redirect defined in [crossDomainRedirects.json]](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json)? If so, do the redirect
+   - Is this subdomain supposed to render our header/footer? If so, render it.
+   - Otherwise, do nothing & let the page render as usual.
+
+Consider if the redirect should be a `catchAll`. Example [here](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json#L1174)
 
 _What team is responsible?_
-- VSP Ops and Public Websites to provide expertise if this comes up because it shouldn’t need to exist.
-
-_Any other notes_
-- The previous list of this type of redirects have been re-implemented server-side (October/November 2019). 
-- Level of difficulty: N/A
-
-### 3) Server-side redirects from subdomains (subdomain.va.gov)
-
-_When to do this?_
-- Server-side redirects are preferred when we have the required technical contacts and access. For page-level redirects from subdomains, we will use client-side redirects temporarily. For redirects of entire subdomains, server-side (as outlined here) is strongly preferred/required. 
-
-_How does this work technically?_
-- Option 1: The platform team takes control of the entire subdomain. Example: pittsburgh.va.gov (traffic to pittsburgh.va.gov hits the VA gateway, is routed to other servers, where a server-side permanent redirect is put in place that forwards the traffic along to a www.va.gov route and our servers)
-- Option 2: For a .NET website, modify the .NET web.config (XML file). Example: explore.va.gov
-- Option 3(?): Can a server-side redirect be implemented in TeamSite?
-
-_What team is responsible?_
-- Collaboration between VSP Ops, DEPO, and whatever veteran-facing team is requesting the redirect, if applicable (such as VSA facility pages). 
+- Public Websites, in collaboration with whatever veteran-facing team is requesting the redirect.  Requesting team is responsible for communication with VA stakeholders as needed.
 
 _Any other notes?_
-- Note that in these full domain redirect cases, ATO and ESECC approval must be considered
-- For the majority of page-level redirects from subdomains (subdomain.va.gov), this is not feasible in the short term because it requires access to and relationships with technical stakeholders on the relevant teams. These contacts should be actively sought out via DEPO.
-- Level of difficulty: high (dependent on VA stakeholders)
-
-### 4) Client-side redirects for subdomains (subdomain.va.gov)
-
-_When to do this?_
-- When a page-level redirect is needed on a subdomain (subdomain.va.gov) when we don’t have a technical or TeamSite contact to help us implement that server-side, and when the redirect needs to happen before such contact can be made.
-
-_How does this work technically?_
-- [Vets-website domains list](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/proxy-rewrite/proxy-rewrite-whitelist.json) (This is a list of domains that load our header/footer, but is not comprehensive of domains that load our JavaScript).
-- [Client-side redirects file](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json)
-
-1. A request comes in for benefits.va.gov
-2. The page at benefits.va.gov is returned to the user's browser
-3. The page begins loading, including downloading images, and JavaScript files
-4. Our JavaScript code for rendering the WBC header/footer is loaded into the user's browser
-5. Our JavaScript code begins executing -
-   - Is there a client-side redirect for this page? If so, do the redirect
-   - Is this subdomain supposed to render our header/footer? If so, render it.
-   - Otherwise, do nothing. Just let the page render as usual.
-
-_What team is responsible?_
-- Work is routed from VSP to Public Websites team for implementation (label ticket with `⭐️ Public Websites`). Public Websites team to pull in VSP Ops as needed. Requesting team (whether that is Public Websites or another VFS team) is responsible for communication with VA stakeholders as needed.
+- For the majority of page-level redirects from subdomains (subdomain.va.gov), this is not feasible in the short term without TeamSite/proxy-rewrite JS because it requires access to site hosting and relationships with technical stakeholders on the relevant teams. These contacts should be actively sought out via OCTODE.
+- Client-side redirects are not ideal, as it requires JavaScript to be enabled & running correctly in order for a user to be redirected properly. It also depends on the legacy page staying alive. Should be considered temporary solution.
+  - In November 2019, Public Websites team worked with TeamSite stakeholder Sandy Tadeo to test archiving a TeamSite page that had a client side redirect on it. The result was that sometimes the page would load a 404 for the user before redirecting. As a result of this test, the team determined **not** to move forward with archiving redirected TeamSite pages. Instead, Public Websites will implement the client side redirect, with additional ask of VA stakeholder to: 
+    - A) Replace their page content with a 'redirect' message and 
+    - B) Update their print materials and nav links with the new URL
 
 _Any other notes_
-- This is not ideal, as it depends on our JavaScript running correctly in order for a user to be redirected properly. It also depends on the legacy page staying live. Should be considered temporary solution.
-- In November 2019, Public Websites team worked with TeamSite stakeholder Sandy Tadeo to test archiving a TeamSite page that had a client side redirect on it. The result was that sometimes the page would load a 404 for the user before redirecting. As a result of this test, the team determined **not** to move forward with archiving redirected TeamSite pages. Instead, Public Websites will implement the client side redirect, with additional ask of VA stakeholder to: A) Replace their page content with a 'redirect' message and B) Update their print materials and nav links with the new URL
-- Level of difficulty: low
+- Level of difficulty: low if proxy-rewrite is in play; high if not (dependent on VA stakeholders)
+
+
+### 5) Redirects from subdomains (subdomain.va.gov) to subdomains (subdomain.va.gov)
+
+This type of request has additional nuances. 
+
+**If the subdomain is not a TeamSite**
+Then the owners of the subdomain may be able to perform the redirect. This requires stakeholder involvement. 
+
+**If the subdmoain _is_ a TeamSite**
+The administrators of the TeamSite should be able to add the redirect, according to TeamSite owners Sandeep Kotian & Brad Smelley. When the request is filed via WebOps, WebOps will send to TeamSite (Sandeep), who will identify the TeamSite admins for that domain. 
+
+If the TeamSite admins are unable to update the site, they may request a client-side redirect,  via the same technical process as #4 above, using Client-side redirects file: vets-website proxy-rewrite [crossDomainRedirects.json]](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json). 
+- Example: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11662. To date (Jan 2023) this approach is theoretically viable but in practice, we have not been able to get it working.
+
+
+### 6) Other
+
+For any subdomain redirect that is not a TeamSite using proxy-rewrite JS (aka displaying the injected header): 
+
+You need to contact the Gateway Ops team. File an ESECC (Enterprise Security External Control Council) request for the redirect via [https://www.esecc.va.gov](https://www.esecc.va.gov). Your main point of contact for this request will be Boris Ning. This request typically takes between 2 - 8 weeks to fulfill.
+   1. Have you read your ESECC checklist?
+       1. Yes
+   2. Change Type
+       1. Domain Name Server
+   3. Type of Submission
+       1. New
+   4. Name the Connection
+       1. new domain redirection for va.gov
+   5. **WARNING:** We have never done this process before. Contact Public Websites and Boris Ning to ensure this is done correctly so as to prevent any delays with the redirect implementation.
+
+Some extra contact information: VA TIC Gateway Operations
+   1. Phone: 304 262 5282
+   2. Email: [VANSOCOperationsGateWay@va.gov](mailto:VANSOCOperationsGateWay@va.gov)
+   3. ServiceNow Assignment Group: `IO.NETWORK.NOC.TICGATEWAY`
 
 
 ---
@@ -146,9 +230,7 @@ _Any other notes_
 
 ## Change history
 
-_12/5/22 - VSA Public Websites team has transitioned to Sitewide Public Websites team as of April 2022. 
-Randi Hecht and Joni Chan are now vetting redirect requests for Sitewide Content as of Q3 2022.
-Fix broken link to Client-side redirects file._
+_1/6/23 - @jilladams updated to consolidate info from VSA Public Websites implementation notes. Updated technical notes for current._
 
 _1/13/20 — Megan made some tweaks for clarification._
 

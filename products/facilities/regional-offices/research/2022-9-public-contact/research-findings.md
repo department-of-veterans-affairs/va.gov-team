@@ -49,7 +49,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 
 1. What benefit-related **services** are offered at these facilities?
    * How do services differ by benefit types? 
-   * Are any services shared across benefit types (e.g. updating contact info)?
+   * Are any services shared across benefit types (e.g., updating contact info)?
    * Are all services available consistently throughout the week?
    * Do any services require referrals to other facilities?
    * Are there any services unique to this region/facility?
@@ -61,7 +61,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
      * If so, why do Veterans do this task in-person?
    * How complicated are these common tasks?
    * How do Public Contact Staff assist Veterans in these tasks?
-   * Any regionally specific needs (e.g. state or region specific support, translation)?
+   * Any regionally specific needs (e.g., state or region specific support, translation)?
    * Any problems?
      * Tasks unable to complete
      * Tasks that Veterans usually get hung up on
@@ -71,7 +71,7 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 3. What is the **typical Veteran experience** when visiting these facilities?
    *	Typical wait times?
    *	Busier days or time?
-   *	Appointments vs walk-ins?
+   *	Appointments vs. walk-ins?
    *	Common frustrations? Complaints?
    *	How Veterans usually arrive at the facility? (drive, public transit?) 
    *	How long does it take for a Veteran to travel to a facility
@@ -92,13 +92,11 @@ Our goal was to understand from the perspectives of the Public Contact staff:
   * 2 - 9 years = 7
   * 10 - 19 years = 3
   * 20+ years = 2
-* Length of time working in Public Contact
-  * **Dave P is going to see if this can be extracted** 
 * Job titles included:
   * Legal Administrative Specialist = 5
   * Veteran Service Representative = 3
   * Coach = 2
-  * "in public contact" = 2
+  * Not specified = 2
 
 ### Facilities Represented
 * 6 Regional Benefit Offices
@@ -124,15 +122,15 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 * A more robust VBA service taxonomy could increase Veteran self-service and help Veterans be fully prepared for visits to Regional Benefit Offices
   * **NOT ENOUGH INFORMATION** - This would depend on implementation and should be evaluated during usability testing
 * The typical Veteran experience at Regional Benefit Offices is generally positive
-  * **FALSE** - Insofar as the Veteran experience is correlated with concrete metrics such as wait time for an appointment, there is significant variance across facilities so there is no "general" experience. Proximity to a VAMC (e.g. same building, same campus) seems to increase both wait times and the mismatch between services expected and services available. 
+  * **FALSE** - Insofar as the Veteran experience is correlated with concrete metrics such as wait time for an appointment, there is significant variance across facilities so there is no "general" experience. Proximity to a VAMC (e.g., same building, same campus) seems to increase both wait times and the mismatch between services expected and services available. 
 
 - - -
 
 ## Key Findings
 
 **Services, benefits, & tasks**
-1. Services at Public Contact Offices can be **categorized** in at least four distinct ways: benefits, tasks, documents, beneficiaries
-2. Public Contact staff primarily assist with the **benefit** of disability compensation
+1. Services at Public Contact Offices can be **categorized** in four distinct ways: benefits, tasks, documents, beneficiaries
+2. Public Contact staff are primarily equipped to assist with the **benefit** of disability compensation
 3. Public Contact staff primarily assist with the **task** of applying for benefits
 4. Providing beneficiaries **official documents** is a significant function of Public Contact Offices
 5. Few (if any) services require a Veteran to be **physically present** at a Public Contact Office
@@ -141,14 +139,14 @@ Our goal was to understand from the perspectives of the Public Contact staff:
 **Veteran experience**
 
 7. A common source of Veteran frustration is a **mismatch** between services expected and services available at Public Contact Offices
-8. Veterans sometimes **conflate** the VBA with the VA, VSOs, and other agencies
+8. Veterans sometimes **conflate** the VBA with a centralized VA, VSOs, and other agencies 
 9. There is little standardization in how Public Contact Offices handle **appointments**
-10. **Wait times** at Public Contact Offices are primarily affected by facility location and staffing 
+10. **Wait times** for walk-ins are primarily affected by facility location and staffing 
 
 **Veteran preparation**
 
-11. Having a valid **photo ID and a DD-214** is helpful regardless of service
-12. Public Contact Offices often **stop taking clients** prior to the official closing time
+11. The documents and information needed to **prepare** for a visit varies by service
+12. Public Contact Offices may **stop taking clients** prior to the official closing time
 
 - - -
 
@@ -158,12 +156,12 @@ This first group of findings relates to research questions 1 & 2:
 1. What benefit-related services are offered at these facilities?
 2. What do Veterans typically try to accomplish during an in-person facility visit?
 
-### 1 - Services at Public Contact Offices can be categorized in at least four distinct ways: benefits, tasks, documents, beneficiaries 
+### 1 - Services at Public Contact Offices can be categorized in four distinct ways: benefits, tasks, documents, beneficiaries 
 
-- **Benefits** (e.g. compensation, home loans, VR&E)
-- **Tasks** (e.g. file a claim, check claim status, 1-on-1 interview)
-- **Documents** (e.g. award letter, commissary letter, DD-214)
-- **Beneficiaries** (e.g. survivors, military retirees, caregivers)
+- **Benefits** (e.g., compensation, home loans, VR&E)
+- **Tasks** (e.g., file a claim, check claim status, attend counseling session)
+- **Documents** (e.g., award letter, commissary letter, DD-214)
+- **Beneficiaries** (e.g., survivors, military retirees, caregivers)
 - See the [appendix](#appendix) for full lists of terms
 
 > Top three would be compensation, education, and pension. - P3
@@ -174,17 +172,21 @@ This first group of findings relates to research questions 1 & 2:
 
 > Survivors’ benefits is a big one. - P2
 
-### 2 - Public Contact staff primarily assist with the benefit of disability compensation
+### 2 - Public Contact staff are primarily equipped to assist with the benefit of disability compensation
 
 - Public Contact staff have end-to-end insight into the disability compensation process
 - Can assist with many tasks: determining eligibility, filing claims, checking claim status, filing appeals, resolving payment issues, etc.
 - 6/12 participants listed compensation in the top three most common services
+- This also aligns with a finding from our previous Veteran research where 9/12 participants reported visiting a VBA office for a task related to disability compensation
+- Public Contact staff have lost access to some data sources related disability compensation
 
 > 90% of the Veterans coming in are concerned about "What’s my percentage and how much money am I getting?" - P7
 
 > Everyone understands that… this is where the money begins. Anything for money, they’re coming in. - P5
 
-> It’s usually tied around "Where is my money?" - P2
+>  With Case Flow I can basically say, okay, this is where at, but I can't see why it's stuck in this position, whereas in the old system I had access to all kind of stuff. So I have to say, Hey, you're gonna have to call and  speak to somebody at the BVA [Board of Veteran Appeals]. - P2
+
+>  [VHA] can take money from their disability compensation for copays. So we have access to a link right now that's going away. It's the finance application which would let them know, hey, you have a debt, the hospital, you know, took it. - P7
 
 ### 3 - Public Contact staff primarily assist with the task of applying for benefits 
 
@@ -210,11 +212,11 @@ This first group of findings relates to research questions 1 & 2:
 
 > If they are a certain percentage, they get a letter where they can go to the commissaries on base and shop. We provide those letters. - P4
 
-> Requesting a letter, like an award letter. That's pretty pretty common. - P11
+> Requesting a letter, like an award letter. That's pretty common. - P11
 
 ### 5 - There are few (if any) tasks that require a Veteran to be physically present at a Public Contact Office
 
-- During the COVID lockdown, any services that previously required an in-person visit were modified to have virtual option
+- During the COVID lockdown, any services that previously required an in-person visit were modified to have a virtual option
 - There seem to be lingering perceptions that in-person visits are required 
 - Some beneficiaries prefer in-person (homeless, non-English speakers, older Veterans)
 - Some sensitive tasks are better in-person (Military Sexual Trauma interviews)
@@ -252,25 +254,28 @@ This second group of findings relates to research question 3:
 ### 7 - A common source of Veteran frustration is a **mismatch between services expected and services available** at Public Contact Offices
 
 - Veterans expect Public Contact Offices to assist with every benefit service
-- VR&E staff are totally siloed from Public Contact staff
-- Veterans are mistakenly directed to Public Contact Offices for tech support
+- This aligns with a finding from previous research that Veterans expect Regional Benefit Offices to be “one-stop shops” for services
+- VR&E Offices are separate from Public Contact Offices, but this is not clear to Veterans
+- The National Call Center directs Veterans to Regional Offices for tech support that Public Contact staff aren't equipped to provide
 
-> A lot of people think that we are just the catchall and know everything at the Regional Offices. Then they get disappointed when we say, "Oh, we don't offer that service. Sorry you had to drive all the way into the regional office to be told that that service is not provided." - P12
+> A lot of people think that we are just the catchall and know everything at the Regional Offices. Then they get disappointed when we say, "Oh, we don't offer that service. Sorry you had to drive all the way in to be told that that service is not provided." - P12
 
 > On any given day at least 1 of my 6 appointments is really wanting to talk with the VR&E Counselor. - P10
 
-> People having problems with their VA.gov accounts. They are sending them to the regional office to get them fixed. We do not do that. - P8
+> We get a lot of people inquiring about VR&E but we don't have a system in place to be able to refer them through VERA - P9
 
-> The help desk for the website sends them to the Regional Office. We have no access or training to make any changes to allow them into the website. - P11
+> People having problems with their VA.gov accounts. They are sending them to the Regional Office to get them fixed. We do not do that... The National Call Center is telling them to come to the Regional Office. The website is telling them to come to the Regional Office. The people at the hospital telling them to come to the Regional Office. - P8
 
-### 8 - Veterans sometimes conflate the VBA with the VA, VSOs, and other agencies  
+> [They] couldn't get into VA.gov, and after 3 tries it locks you out. So then you have to come into a Regional Office. That's what they're told on at the National Call Center. - P10
+
+### 8 - Veterans sometimes conflate the VBA with a centralized VA, VSOs, and other agencies  
 
 - Veterans expect the three branches to be "one VA"
 - Veterans conflate VSOs and the VBA due to them both handling benefit claims
-- Veterans aren't always sure what is overseen by the VA vs the military
+- Veterans aren't always sure what is overseen by the VA vs. the military
 - This confusion is heightened when a VBA office is co-located with other agencies
 
-> But I think the biggest thing is veterans coming in just thinking you're just one VA "How come you don't know this? How come You're not communicating?" - P9
+> But I think the biggest thing is veterans coming in just thinking you're just one VA. "How come you don't know this? How come you're not communicating?" - P9
 
 > "I reported my divorce to the hospital. How come you don't know?" - P11
 
@@ -297,7 +302,7 @@ This second group of findings relates to research question 3:
 
 > 90% walk in and then about 10% appointments. - P12
 
-### 10 - Wait times at Public Contact Offices are primarily affected by facility location and staffing
+### 10 - Wait times for walk-ins are primarily affected by facility location and staffing
 
 - Many locations reported very short wait times (10 min or less)
 - Offices co-located with a VAMC expressed higher wait times due to high demand and limited staff
@@ -318,16 +323,25 @@ This third group of findings relates to research question 4:
 
 4. What do Veterans need to know or do to be adequately prepared for a visit?
 
-### 11 - Having a valid photo ID and a DD-214 is helpful regardless of service
+### 11 - The documents and information needed to prepare for a visit vary by service  
 
+- Having a valid photo ID and a DD-214 is helpful regardless of service
+- Surviving spouses have to provide many different documents depending on the benefits they are applying for (e.g., marriage license, death certificate, funeral bill, first notice of death, receipts for medical expenses), and also need to know key details about the Veteran (e.g. effective date, branch of military service, disability rating)
+- When adding or removing dependents, Veterans will need documents establishing their relationship (e.g., birth certificate, marriage certificates, divorce decrees) and also need to know key details about the dependent (e.g., social security number, birth date)
+- eBenefits registration requires 2 forms of ID
 - Civilian medical records can be helpful for supplemental claims
-- Surviving spouse = marriage license, the death certificate, the funeral bill, first notice of death
-- eBenefits registration = 2 forms of ID
-- Adding/removing dependant = birth certificate, social security cards,  marriage certificates, divorce decrees
+
+> If they can't present us with ID there's nothing that we can do for them. - P11
+
+> Sometimes [surviving spouses] don't have that information. They just know that their spouse was in the military. And then they come and say, "I want to file for this," but they don't know anything about their spouse's military service. - P12
+
+> It's like, "oh, I want to add a dependent," but then they don't have their social security numbers, or remember birth dates. - P12 
+
+> They want to bring in medical records that are outside the VA system, because then we can scan and upload them to the system instead of doing the medical release. -P6
 
 >  They need to have an extra copy, because we're not going to copy the medical records while they wait. - P4
 
-### 12 - Public Contact Offices often stop taking new clients prior to the official closing time
+### 12 - Public Contact Offices may stop taking new clients prior to the official closing time
 
 > I say 8:00 to 3:00, so people at least will get up here by 3:30, and we can serve them properly. - P8
 
@@ -349,7 +363,7 @@ This third group of findings relates to research question 4:
 
 > I've never heard of financial counseling - P8
 
-> We refer them to the number for Philadelphia for the insurance Office - P12
+> We refer them to the number for Philadelphia for the insurance office - P12
 
 **15 - Parking can be a challenge for offices in dense urban locations**
 
@@ -372,15 +386,14 @@ This third group of findings relates to research question 4:
 
 ## Recommendations
 
-* Update the VBA Service taxonomy to accurately reflect the services avaialable at Regional Offices
+* Update the VBA Service taxonomy to accurately reflect the services available at Regional Offices
   * Include information about which services require making an appointment or bringing additional documents
-  * Reroute Veterans for services that can't be handled at a RO (e.g. checking status of pension claim)
+  * Reroute Veterans for services that can't be handled at a RO (e.g., checking status of pension claim)
   * Explore ways to connect benefit service information across VA.gov
-* Involve stakeholders from VR&E in MVP planning so we can accurately route Veterans to appointment tools for those services
-* Consider how co-located VSOs might be displayed on RO pages to best prevent confusion
 * Clearly indicate the distinction between virtual and in-person appointments
 * Ensure Veterans can easily tell if a facility allows walk-ins or not
-* Indicate the last available appointment time in addition to the nomral operating hours
+* Consider involving stakeholders from VR&E so we can accurately route Veterans to those services
+* Consider how co-located VSOs might be displayed on RO pages to clarify their relationship to the VA 
 * Consider use cases for Regional Offices, Satellite Offices, & Outreach sites
 
 ## Appendix
@@ -496,10 +509,10 @@ This third group of findings relates to research question 4:
 ### Tasks mentioned
 
 **Benefit Specific Tasks**
-* 1-on-1 interview
 * add/remove dependent
 * appeal hearing
 * apply for benefit | file a claim
+* attend counseling session
 * check status of claim
 * determine eligibility for benefit
 * file a supplemental claim | increase disability rating
@@ -508,7 +521,7 @@ This third group of findings relates to research question 4:
 * resolve payment issue | check tracing
 * understand claim decision
 * update direct deposit
-* update personal info (address, phone #, etc)
+* update personal info (address, phone #, etc.)
 
 **General Support Tasks**
 * assistance completing a form
@@ -546,10 +559,10 @@ This third group of findings relates to research question 4:
 * two forms of ID
 
 **Information to bring to VBA**
-* date of birth (dependant)
+* date of birth (dependent)
 * date of birth (Veteran)
 * effective date
-* social security number (dependant)
+* social security number (dependent)
 * social security number (Veteran)
 
 ### Beneficiaries mentioned

@@ -167,7 +167,3 @@ Editors mentioned the following things that they would like to see improved:
 * Find a way to get Vet Center editors the info that VAMC editors are getting from Siteimprove. Additionally, figure out how to direct VAMC editors to the place in the CMS where they need to make updates based on the information they get from Siteimprove.
 * Think about how we can ensure that we’re emailing the right editors. Just because you have edit access in the CMS, doesn’t mean that you’re the one updating everything. Potentially explore the possibility of an unsubscribe button or notification settings so that editors are only getting the notifications that are relevant for them.
 * Think about situations when there are more than one person receiving notifications and making updates. How do we prevent people from doing duplicate work and show them that someone else has already taken care of an issue?
-
-## Attachment
-
-Example of a Siteimprove email.

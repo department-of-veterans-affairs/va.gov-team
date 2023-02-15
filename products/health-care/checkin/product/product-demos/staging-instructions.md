@@ -25,7 +25,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 - Select today's tab under Available Appointments
 - Find an appointment for which the Book button is not greyed out
     - In order to verify the Mobile Check-in now you should choose an appointment time that is either
-      - No more than 30 minutes after the current date & time (see current time ET in the upper right corner)
+      - No more than 45 minutes after the current date & time (see current time ET in the upper right corner)
       - No more than 15 minutes before the current date & time (see current time ET in the upper right corner)
 - Click "Book"
 - Click "Get Check-in Link"
@@ -53,7 +53,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
     - Sample URL: https://staging.va.gov/health-care/appointment-check-in/?id=XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 
 ## Testing eCheck-in
-- NOTE: you will only be able to check-in if you appointment time is no more than 30 minutes from now and no more than 15 minutes ago
+- NOTE: you will only be able to check-in if you appointment time is no more than 45 minutes from now and no more than 15 minutes ago
 - Do one of these
     - Text "Check in" to 254-278-2622 (this is the phone number for Staging SMS)
     - Open the link that you copied after creating an appointment in the Staging tool

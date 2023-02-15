@@ -1,6 +1,6 @@
-# Immunization: Data fields and UX considerations
+# Immunizations: Data fields and UX considerations
 
-Last updated: January 18, 2023
+Last updated: February 7, 2023 [Change Log](#change-log)
 
 ## Purpose
 
@@ -12,7 +12,9 @@ Immunizations represent vaccines obtained during service and after service.
 
 ## Relevant links
 
-[Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/decision-log.md)
+[Immunizations Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations/decision-log.md)
+
+[Overall initiative Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/decision-log.md)
 
 Sketch files: [Wire flow](https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/a/v84qOV8) and [low-fi screens](https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7/a/KvJb521)
 
@@ -104,7 +106,7 @@ If add download functionality (e.g., print button), requires engineering work to
 ### Accessibility considerations:
 
 _Accessibility considerations specific to Immunizations:_
-- None identified so far
+Added 1/23/2023 by Marci McGuire - Eric Voshall learned that in the Lighthouse API, the vaccine name and dosage are also inside the same string so it is not currently possible to break those into two separate values.
 
 ### Research that relates to Immunizations
 
@@ -122,6 +124,9 @@ _Accessibility considerations specific to Immunizations:_
 - What does this mean for Immunizations? 
     - Time x urgency = need to flag when immunizations are due
     - Unclear implications for organizing immunizations -> by age? Chronologically? 
+
+## Handling Data Discrepancies
+Where there are differences between BB and Health Summary, follow the data and descriptions of that data as they are represented in Health Summary.
 
 ## Questions to answer
 
@@ -211,4 +216,11 @@ Bobby notes: should be close to meds/ allergies, because those are "together" co
 
 Robyn: Agree - participants often grouped these somewhat together. Immunizations + allergies + medications -> "about me" info. 
 
+## Change Log
+
+|  Date           | Changed By       | Description of Change                                                                                               |
+| ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
+|02/07/2023       |Marci McGuire     |Added Handling Data Discrepancies section, link to Immunizations Decision Log                                                             |
+|                 |                  |                                                                                                                     |
+|                 |                  |                                                                                                                     |
 

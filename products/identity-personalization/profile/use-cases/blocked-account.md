@@ -1,6 +1,6 @@
 # Profile: User with a blocked account attempts to access any section of profile
 
-**Last updated**: November 29, 2022
+**Last updated**: February 9, 2023
 
 Currently, we block access to sections other than Account Security if a person has a flag on their account.  We get these flags from the endpoint. A flag could be present if a person:
 - has a fiduciary
@@ -27,9 +27,9 @@ notDeceasedIndicator | True if deathDtInd is not ‘Y’ | deathDtInd | deathDtI
 
 ## How to reproduce
 1. Log into staging with any of the following users:
-* User 0
-* Incompetent, no fiduciary: User +61
-* Incompetent + fiduciary: User +65
-* Deceased: User +33
+* User 0, 11, 36, 233
+* Incompetent, no fiduciary: User+61
+* Incompetent + fiduciary: User+65
+* Deceased: User+33
 
 2. Navigate to profile or update the URL in your browser to point to `/profile/direct-deposit` or any other section of profile aside from `/profile/account-security`

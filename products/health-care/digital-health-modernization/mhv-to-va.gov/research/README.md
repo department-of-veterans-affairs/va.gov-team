@@ -1,7 +1,9 @@
-# MHV to VA.gov Migration Research
+# MHV to VA.gov
 
 ## Research by MHV to VA.gov Team
-*TBD*
+- [Medical Records Informational Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-09-informational-interviews) (September 2022)
+- [Medical Records Generative Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research) (October 2022)
+
 
 ## Research by Other Teams
 ### VA.gov Profile Team - April 2022

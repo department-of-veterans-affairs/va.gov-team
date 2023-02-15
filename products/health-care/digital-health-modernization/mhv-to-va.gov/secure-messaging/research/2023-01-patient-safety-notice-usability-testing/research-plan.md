@@ -38,8 +38,9 @@ The goals of this study are to:
 3. Does the safety message help Veterans understand when secure messaging is not the appropriate communication method?
   * How do Veterans interpret "Only use messages for non-urgent needs"?
   * What circumstances do Veterans consider an urgent question?
-  * What circumstances do Veterans consider are best for connecting with the VCL rather than use Secure Messaging?
-4. Do Veterans value the links to 911, the VCL, VA facilities?
+4. Do Veterans value the links to 911 and the VCL?
+5. How will Veterans tolerate the original patient safety banner and informational dropdown in addition to the interstitial?
+6. Do Veteran require the inclusion of the word "secure" to feel confident that the VA is keeping messages secure?
 
 ### Hypothesis
 
@@ -63,7 +64,7 @@ Data collection will be remote. We will use Zoom.
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-01-patient-safety-notice-usability-testing/conversation-guide.md)
 
-[Desktop prototype to be tested](https://xd.adobe.com/view/f88c6d21-2960-4ffc-bb37-37fe7947929e-addf/?fullscreen&hints=off)
+[Desktop prototype to be tested](https://xd.adobe.com/view/ce7eb14d-d5a4-44f8-913f-b09da0aa1784-9b2d/?fullscreen&hints=off)
 
 [Mobile prototype to be tested](https://xd.adobe.com/view/8b9daa13-0823-4464-a992-7d3f17645c9c-dece/?fullscreen&hints=off)
 

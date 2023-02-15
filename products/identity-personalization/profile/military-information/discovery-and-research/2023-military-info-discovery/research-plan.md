@@ -8,6 +8,8 @@
 
 [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information)
 
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/conversation-guide.md)
+
 ### OCTO Objectives 
 This research supports the following 2023 OCTO objectives:
 - Enhance Veterans’ personalized online experience
@@ -17,7 +19,7 @@ This research supports the following 2023 OCTO objectives:
 The profile overall, and the military info section more specifically, are associated with a broad spectrum of Veteran needs and access to services that are relevant at any and all stages of the Veteran journey, from Starting Up to Aging. 
 
 ## Research Goals	
-Given all the possible information that we could surface in military information, what would be most helpful to veterans?
+Determine which information would be most helpful for Veterans to have surfaced in the military information section of the VA.gov profile.
 
 ### Outcome
 This research will inform the product team on what and how much military information should be populated in each Veteran's profile, and what other possible questions should be addressed in that same location, e.g. how to change incorrect service information.
@@ -35,7 +37,8 @@ This research will inform the product team on what and how much military informa
 - Veterans can request changes to the info on their DD214 if there has been an administrative error OR when the veteran successfully upgrades their discharge status. This product could help veterans determine if their military information is incorrect, if their discharge status could be upgraded, or if their discharge status has successfully been upgraded. 
 
 ## Methodology	
-Semi-structured interviews that help us to understand what Veterans need from this product without asking them directly about the product and what they'd expect the product to show or look like. 
+1. Semi-structured interviews that help us to understand what Veterans need from this product without asking them directly about the product and what they'd expect the product to show or look like.
+2. At the end of the interview, there will be just 1-2 questions that will require the participant to share their screen (any device).
 
 ### Location
 Remote: Zoom
@@ -49,46 +52,50 @@ Link to conversation guide will go here
 Research participants will be Veterans recruited by Perigean.
 
 ### Recruitment criteria
-We'd like to recruit 14 Veterans for a total of 8 completed sessions.  
+We'd like to recruit 12 Veterans for a total of 8 completed sessions.  
 
 **Primary criteria (must-haves)**
-- Veteran (14)
-- Aged 50+ (7)
-- Race is black, hispanic, bi-racial, asian and/or native (minimum of 7)
-- Gender is not male (minimum of 7)
+- Veteran (12)
+- Aged 50+ (6)
+- Race is black, hispanic, bi-racial, asian and/or native (minimum of 6)
+- Gender is not male (minimum of 6)
+- Must be able/willing to share their screen for the last part of the interview (all 12)
 
 **Screener question to target criteria not captured in the recruitment sign-up survey**
 
 Questions: Which of the following have you _yourself_ completed in the past year (between January 2022 and January 2023)?
 Answers (users can multi-select):
-- Formally requested a correction to your military records (at least 3/14 must choose this answer)
-- Requested service records to replace a missing military record (e.g. DD214) (at least 3/14 must choose this answer)
-- Applied for VA benefits (including health care, a VA home loan, disability compensation, and others) (at least 3/14 must choose this answer)
-- Applied for an upgrade of your discharge status (at least 3/14 must choose this answer)
-- None of the above
+- Formally requested a correction to your military records (at least 2/12 participants must choose this answer)
+- Requested service records to replace a missing military record (e.g. DD214) (at least 2/12 participants must choose this answer)
+- Applied for VA benefits (including health care, a VA home loan, disability compensation, and others) (at least 2/12 participants must choose this answer)
+- Applied for an upgrade of your discharge status (at least 2/12 participants must choose this answer)
+- None of the above (0-2 participants may choose this answer)
 
 ## Timeline
 
 ### Prepare
-Research plan and conversation guide will be completed by Thursday, January 26.
-* Pilot participant email:
-* Date and time of pilot session: 
+Research plan and conversation guide will be completed by Monday, February 6.
+* Pilot participant email: jmills@kindsys.us
+* Date and time of pilot session: Monday, February 6 at 3:30 pm eastern time.
 
 ### Research sessions
-* Planned dates of research: February 2-8
+* Planned dates of research: February 14-24, 2023
 
 ### Length of sessions
-* Session length: 45 mins
+* Session length: 1 hour
 * Buffer time between sessions: 30 minutes
 * Maximum Sessions per day: 3
 
 ### Availability
 All times are in eastern time:
-- February 2, 9am-6pm
-- February 3, 8am-4pm
-- February 6, 9am-6pm
-- February 7, 8am-3pm
-- February 8, 9am-3pm
+- February 14, 11am-4:30pm
+- February 15, 8am-3pm
+- February 16, 9am-7pm
+- February 17, 8am-3pm
+- February 21, 10am-4:30pm
+- February 22, 8am-3pm
+- February 23, 9am-7pm
+- February 24, 8am-3pm
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
@@ -96,6 +103,6 @@ Please list the people who will be serving in each role. **Include the primary p
 - Research guide writing and task development (usually but not always same as moderator): Florence McCafferty
 - Participant recruiting & screening: Perigean
 - Project point of contact: Florence McCafferty
-- Participant(s) for pilot test: ?
-- Note-takers: Perigean
-- Observers: Adam Whitlock (adam.whitlock@adhocteam.us), Berni Xiong (berni.xiong@agile6.com),  Liz Lantz (liz.lantz@adhocteam.us), Tom Harrison (tom.harrison@adhocteam.us), Samara Strauss (samara.strauss@va.gov)
+- Participant(s) for pilot test: Josh Mills, jmills@kindsys.us
+- Note-takers: Zoom transcription (no note-taker)
+- Observers: Adam Whitlock (adam.whitlock@adhocteam.us), Angela Agosto (angela.agosto@adhocteam.us), Berni Xiong (berni.xiong@agile6.com),  Liz Lantz (liz.lantz@adhocteam.us), Tom Harrison (tom.harrison@adhocteam.us), Samara Strauss (samara.strauss@va.gov)

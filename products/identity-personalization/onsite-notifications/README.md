@@ -1,6 +1,6 @@
 # Product outline: On-site Notifications (ie. personalized notifications that show on VA.gov)
 
-**Last updated: January 10, 2023**
+**Last updated: February 13, 2023 -- added link to "adding a new notification" doc**
 
 ### Communications
 
@@ -15,9 +15,9 @@
 |----|----|-----|
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
-|Erica Sauve| Associate Product Manager | erica.sauve@adhocteam.us |
+|Berni Xiong| Delivery Manager | berni.xiong@agile6.com |
 |Angela Agosto |Designer| angela.agosto@adhocteam.us |
-|Taylor Mitchell| FE Engineer|	tmitchell@governmentcio.com |
+|Allison Lu| FE Engineer|	allison@cityfriends.tech |
 
 
 #### Partners
@@ -146,6 +146,7 @@ The notifications are pulled on load using a GET request to the api `/v0/onsite_
 
 When a user dismisses a notification, we send a PATCH request to the api `/v0/onsite_notifications/${id}`. If they have an error we show the dismissal failed error. If there is no error we remove the notification from the page.
 
+### [Adding a new notification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/frontend/adding-new-onsite-notification.md)
 
 ## Design
 

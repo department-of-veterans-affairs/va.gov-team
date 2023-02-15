@@ -2,7 +2,7 @@
 
 ## Frontend Code
 
-Folder: https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/disability-benefits/996
+Folder: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/disability-benefits/996
 
 ## Decisions of note
 
@@ -122,11 +122,11 @@ Our backend combines the data from both to reduce the number of API calls. The r
 
 Legacy appeals are all combined into one entry (the last entry) with a different `"type"`, but only the `"summary"` is provided and the wording may or may not match the contestable issue's `ratingIssueSubjectText` or `description`. So we have no sure method to coorelate legacy appeals with eligible issues.
 
-Additionally, the issues provided by Lighthouse need additional processing. In the [`getEligibleContestableIssues` function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/disability-benefits/996/utils/helpers.js#L69), contestable issues loaded from the API are filtered out:
+Additionally, the issues provided by Lighthouse need additional processing. In the [`getEligibleContestableIssues` function](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/appeals/996/utils/helpers.js#L55), contestable issues loaded from the API are filtered out:
 - If they contain the word `deferred` in either the `ratingIssueSubjectText` or `description` as these issues are no longer eligible.
 - Have a `approxDecisionDate` greater than one year in the past.
 
-Before being added to the form data, the [`processContestableIssues` function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/disability-benefits/996/utils/helpers.js#L222):
+Before being added to the form data, the [`processContestableIssues` function](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/appeals/996/utils/helpers.js#L187):
 - Filters out issues with no `ratingIssueSubjectText`
 - Sorts the list by newest date first, then by title if the dates are equal
 
@@ -232,7 +232,7 @@ The Higher-Level Review form was released while contained within the `disability
 
 ### Area of disagreement grouped checkboxes
 
-Because the [checkbox group pattern is being used](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/available-features-and-usage-guidelines#checkbox-group), showing validation errors needs to be set on the outer wrapper. Then connecting the description, checkbox group and extra freeform input requires some custom CSS to show the red border ([workaround code](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/disability-benefits/996/utils/ui.js#L32-L41)).
+Because the [checkbox group pattern is being used](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/available-features-and-usage-guidelines#checkbox-group), showing validation errors needs to be set on the outer wrapper. Then connecting the description, checkbox group and extra freeform input requires some custom CSS to show the red border ([workaround code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/disability-benefits/996/utils/ui.js#L32-L41)).
 
 <details><summary>Page showing HTML</summary>
 
@@ -250,4 +250,4 @@ The `hlr-contact-loop.cypress.spec.js` file tests the loop from the contact info
 - First cancelling the change, and return to the contact info page.
 - Secondly changing and updating the info and returning to the contact info page
 
-The problem is with the address change intermediate step. If an entered address isn't 100% accurate, it should show a page asking to verify or choose another address. The problem may be with the code in [`ProfileInformationFieldController.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/user/profile/vap-svc/components/ProfileInformationFieldController.jsx) (around line 160).
+The problem is with the address change intermediate step. If an entered address isn't 100% accurate, it should show a page asking to verify or choose another address. The problem may be with the code in [`ProfileInformationFieldController.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/user/profile/vap-svc/components/ProfileInformationFieldController.jsx) (around line 160).

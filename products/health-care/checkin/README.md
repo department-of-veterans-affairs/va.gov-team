@@ -5,7 +5,7 @@
 - Delivery Manager - [Sarah Knopp](https://dsva.slack.com/team/U02EFEEQAG0)
 - UX Research 
   - [Ben Brasso](https://dsva.slack.com/team/U0360TY9E9H)
-  - [Kristen McConnell](https://dsva.slack.com/team/U0158T9DJCA)
+  - [Christina Gednalske](https://dsva.slack.com/team/U02KVPC82VA)
 - UX/UI Design
   - [Zach Park](https://dsva.slack.com/team/U02FQ4X5J8M)
   - [Ya-Ching Tsao](https://dsva.slack.com/team/U02EFEFA1EU)

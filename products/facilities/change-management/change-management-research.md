@@ -43,13 +43,10 @@ Construct your research questions to learn:
 - [ ] PO has reviewed proposed scope of change management research (in 1-hour working meeting for UX research plan)
 - [ ] The research plan and coversation guide are updated with PO feedback on change management research questions from review meeting
 
-### CMS Team
+### Team
 Please check the team(s) that will do this work.
 
-- [ ] `Program`
-- [ ] `Platform CMS Team`
-- [ ] `Sitewide Crew`
-- [ ] `⭐️ Sitewide CMS`
-- [ ] `⭐️ Public Websites`
-- [ ] `⭐️ Facilities`
-- [ ] `⭐️ User support`
+- [ ] `CMS Team`
+- [ ] `Public Websites`
+- [ ] `Facilities`
+- [ ] `User support`

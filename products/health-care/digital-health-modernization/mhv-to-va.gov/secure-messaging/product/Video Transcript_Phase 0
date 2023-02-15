@@ -1,0 +1,80 @@
+0:00Quick video for phase zero of the new My health Yvette secure messaging on v a dot gov.
+0:05Secure messaging.
+0:06Phase Zero is only accessible to a group of select users.
+0:10Those users are able to access this version via an email link.
+0:15Air handling exists throughout the application as either in line feedback or models and pop ups.
+0:22Air messages have instructions to help the user know how to recover from an error and proceed secure messaging seeks to adhere to all accessibility guidelines, tools and functionality should be perceivable operable, understandable and robust regardless of usage modality.
+0:38All pages are responsive and function across a variety of devices from desktop to mobile.
+0:44Additional functionality will continue to be added after the initial release.
+0:48Please note that there may be differences in what appears in this video and the release state of the product.
+0:53However, the core functionality will remain unchanged and any changes will be to the benefit of users.
+1:04Phase zero is an invite only.
+1:06Roll out as secure messaging on v a dot gov moves into further phases.
+1:10It will open up to more and more users until it is the default experience White listed users will receive an email with a specific link to an unlisted blogging page Users will have to use their specific credentials to sign into Phase zero.
+1:29In this example we are using i d dot me successfully logging in will take the user to the secure messaging.
+2:10Landing page yeah, getting and sending a message from any folder.
+2:18Page insecure messaging by clicking on the start a new message action link.
+2:25While users are in the process of creating a new message or replying to a message that they've received a back button, breadcrumb will appear which will allow the user to leave and go back to the main page where they attempted to start a new message similar to my health Yvette.
+2:39Secure messaging.
+2:40Users can select which triage group they want to message and can input the message category.
+2:45Using the preset radio buttons.
+2:51Users can enter a suitable subject and continue to write their message by typing in the accompanying text boxes.
+3:03Auto save is a new function in secure messaging, phase zero on v a dot gov.
+3:08After all the required fields have information in them.
+3:10Secure messaging will create a draft of your message by auto saving every five seconds.
+3:14Please note that in the current version of secure messaging drafts cannot contain attachments.
+3:20Drafts can easily be accessed by navigating to the draft folder.
+3:29Here's the draft we were working on to resume editing the draft, click the message to attach a file to your draft.
+3:41Use the attached file button, Please note an individual file needs to be smaller than six MB and the total size of all files must be smaller than 10 MB.
+3:55Click on the send button to send the message usage will be taken to the inbox page where a success message at the top will inform them that their message has been sent.
+4:11Users can also mainly save a draft by using the save draft button.
+4:39Users can discard a draft by finding the draft in the drafts folder going into the message and clicking delete draft.
+4:48Deleting a draft is a permanent action meaning that the user won't be able to recover a deleted draft going back to the draft holder.
+5:03The draft that was deleted is no longer here, Which is where all new incoming messages will appear insecure messaging.
+5:10Phase zero messages are now grouped into conversations, which will make it easier for users to keep track of messages they send and messages they receive from care teams with the switch to message conversations, messages that users trashed and messaging on my health Yvette will be visible in the conversations as well.
+5:28Secure Messaging.
+5:29Phase zero.
+5:29Users can view all of their conversations here.
+5:32They will be able to sort them using the criteria in the dropdown here is an example of pagination so that users can access more conversations.
+5:47This is the message details page which shows all of the unique message information as well as the entire message itself to see other messages in the conversation.
+5:56Users can use the chevron to expand or collapse messages to go back to the inbox.
+6:06Users can either click on the inbox and the left hand Nav on desktop or the top navigation on mobile or use the breadcrumb, which displays when the user is in a message details page To show more messages in a conversation.
+6:20Use the Plus five more messages link towards the bottom of the conversation.
+6:26Users can print more messages or users can print individual messages by using the print button and selecting, print only this message.
+6:40If they want to print the entire conversation, they can select print all messages in this conversation and then use the print button.
+6:48The amount of messages in the conversation will be shown to them.
+6:55Users can move conversations by using the move button.
+7:04This model allows users to specify where they will be.
+7:06Moving.
+7:07The entire conversation.
+7:24Going back to the inbox shows that the conversation isn't here anymore.
+7:39It's now here in the test folder where we move the entire conversation stations by using the trash button, conversations that are trashed are moved to the trash folder and are always accessible to users.
+8:01Non draft messages are never permanently deleted in the trash folder.
+8:10You can see that these are the messages that have been trashed and not permanently deleted.
+8:18Teams, they can respond by using the reply button and the message details page.
+8:27Using the reply button takes the user to a screen similar to when they're starting a new message.
+8:39After completing the reply message, a user can use the sun button to send the reply to their care team.
+8:48All messages that users send will be shown in the sent folder.
+8:53Mhm Messages older than 45 days can't be replied to as you'll see here the reply button is gone and there's a message up here that lets the user know that they will have to make a new message in order to message this care team types of folders, system and custom folders.
+9:40All of the pages in the navigation menu represent system folders, system folders cannot be changed, they cannot be deleted or renamed.
+9:47The second type of folder is a custom folder which users create.
+9:51Custom folders can only be created and exist in the my folders system folder.
+9:59Users can create a new custom folder by using the create a new folder button.
+10:14Users can input whatever they like to call the new folder and click and create will finish the task.
+10:22Here's the new folder right here.
+10:24There's also a success.
+10:25Dialogue users can rename a folder easily by using the rename link and typing in the name they want and confirming that name.
+10:49The name change should be reflected immediately.
+10:52If a user would like to delete a custom folder, they'll need to move all the messages out of that folder and into another folder.
+10:59Please note that this is a permanent action and as you can see that folder is no longer here, filtering can be executed on all folder pages and only filters within that folder.
+11:18Basic filtering finds exact matches for filter criteria supplied by the user.
+11:23It checks the following fields subject to from and the message I.
+11:28D.
+11:31Users can click on the informational dropdown for more information about what a message, ideas and how to use it.
+11:39Users can refine the filtering query by using the expand icon to reveal more filtering criteria.
+11:51Here, we'll try filtering emails using Covid.
+12:01When a user executes a filter query, secure messaging will give them a readout of their query terms, and a back breadcrumb will appear to help the user exit the search.
+12:10Users can also click on any navigation item to exit the search and go there.
+12:15The results appear on the same page where the filter was executed.
+12:19Once the results appear, a user can access whatever message threat has that particular message that match the filter criteria.
+

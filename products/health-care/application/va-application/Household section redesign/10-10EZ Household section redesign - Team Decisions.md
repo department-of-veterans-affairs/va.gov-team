@@ -12,25 +12,25 @@ This document is to help us decide and track what we have agreed would be benefi
 ### Suggestions
 
 1. Expandable/accordion information for definitions and instructions
-     - [ ] Yes
+     - [x] Yes
      - [ ] No
 3. Dynamic Substepper
      - [ ] Yes
-     - [ ] No
+     - [x] No
 5. Dependent page Revamp
      - Expandable sections for each dependent
           - [ ] Yes
-          - [ ] No
+          - [x] No
      - Add expandable/accordion contextual info "who counts as a dependent"
-          - [ ] Yes
+          - [x] Yes
           - [ ] No
 6. Annual Income page
      - Separate Veteran and Spouse information
-          - [ ] Yes
+          - [x] Yes
           - [ ] No
      - Expandable/accordion "Where can I find this info"
           - [ ] Yes
-          - [ ] No
+          - [x] No
      - Contextual Info "Here's what you will need.."
           - [ ] Yes
-          - [ ] No
+          - [x] No

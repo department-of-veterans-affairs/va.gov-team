@@ -9,7 +9,7 @@ April 2022: Public Websites products are currently maintained by the [Sitewide P
 
 ### Github / work tracking
 - [va.gov-cms Sprint board](https://github.com/department-of-veterans-affairs/va.gov-cms/#workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board?labels=%E2%AD%90%EF%B8%8F%20public%20websites)  (install Zenhub browser plugin)
-- Team label: `⭐️ Public Websites`
+- Team label: `Public Websites`
 
 
 # Products we support
@@ -20,22 +20,22 @@ Additional inforrmation: https://github.com/department-of-veterans-affairs/va.go
 
 | [CMS content / functionality](#cms-content--functionality) | [Non-CMS content / products](#non-cms-content--products) | [Previous PW Projects](#previous-pw-projects) |
 | ------------- | ------------- | ------------- |
-| [Benefits Hub Landing Page](#benefits-hub-landing-page) | [Breadcrumbs](#breadcrumbs) |  [Appeal Modernization Process](#appeal-modernization-process) |
-| [Benefits Detail Page](#benefits-detail-page) | [Shadow / dark launches of content](#shadow--dark-launches-of-content) | [Disability rating calculator](#disability-rating-calculator) |
-| [Campaign Landing Pages](#campaign-landing-pages-clp) |[Global header / footer (aka Mega-menu)](#global-header--footer-aka-mega-menu) | [Discharge update wizard](#discharge-update-wizard) |
+| [Benefits Hub Landing Page](#benefits-hub-landing-page) | [Breadcrumbs](#breadcrumbs) | [Appeal Modernization Process](#appeal-modernization-process) |
+| [Benefits Detail Page](#benefits-detail-page) | [General VA.gov unauth UI](#general-vagov-unauth-ui) | [Disability rating calculator](#disability-rating-calculator) |
+| [Campaign Landing Pages](#campaign-landing-pages-clp) | [Global header / footer (aka Mega-menu)](#global-header--footer-aka-mega-menu) | [Discharge update wizard](#discharge-update-wizard) |
 | [Events List](#events-list) | [Header / footer injection](#header--footer-injection) | [Downtime messaging](#downtime-messaging)|
 | [Event](#event) | [Income limits web application](#income-limits-web-application) | [Harassment Reporting Tool](#harassment-reporting-tool) |
-| [FAQ Page](#faq-page) | [Offices](#offices) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
-| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) |  | [“How to apply” wizards](#how-to-apply-wizards) |
-| [Full-width Alert](#full-width-alert) | [Non-facility Redirects](#non-facility-redirects) | [React widgets governance](#react-widgets-governance)|| [Promo Banner](#promo-banner) | [Unauthed React widgets](#unauthed-react-widgets) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
-| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | [VA.gov Homepage](#vagov-homepage) | .  |
-| [Q&A - single](#qa---single) | [On-site search (using search.gov)](#on-site-search-using-searchgov) |  . |
+| [FAQ Page](#faq-page) | [Non-facility Redirects](#non-facility-redirects) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
+| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [Offices](#offices) | [“How to apply” wizards](#how-to-apply-wizards) |
+| [Full-width Alert](#full-width-alert) | [On-site search (using search.gov)](#on-site-search-using-searchgov)  | [React widgets governance](#react-widgets-governance)|
+| [Promo Banner](#promo-banner) | [Shadow / dark launches of content](#shadow--dark-launches-of-content) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
+| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | [Unauthed React widgets](#unauthed-react-widgets) |  .  |
+| [Q&A - single](#qa---single) | [VA.gov Homepage](#vagov-homepage) | . |
 | [Resources & Support detail page](#resources-and-support-detail-page) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) | .  |
-| [Translations](#resources-and-support-detail-page) | [General VA.gov unauth UI](#general-vagov-unauth-ui) | .  |
 
 The Public Websites team also supports most of the portfolio of the previous Decision Tools and Search & Discovery Team products, which may include products not listed here that we are not yet aware of. 
 
-* [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md)
+* [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md) - previous doc of tools that were moved from Decision Tools > Search & Discovery and are now under Public Websites purview
 
 
 ---
@@ -143,11 +143,10 @@ Events filters are available on Lists, to filter by past, future, or specific da
 * [VFS Product Directory: Outreach Events Hub & Calendar](https://depo-platform-documentation.scrollhelp.site/getting-started/outreach-events-hub-and-calendar)
 
 
-## Event
+## Event (detail page)
 
 **What is:**
-
-Drupal content type for online or in-person events like support groups, outreach events, public lectures, pickleball games and more.
+The event detail page, which is created via Drupal content type for online or in-person events like support groups, outreach events, public lectures, pickleball games and more.
 
 Events must be associated with an Events list, which governs permissions for editing and presentation in the front-end for veterans. 
 
@@ -226,6 +225,39 @@ The Forms DB system has some recurring flaws:
 * [Triage runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/README.md#troubleshooting) for errors / defects
 ***Q3 2022 project:** to understand more about the Forms DB infrastructure, in an effort to help stabilize / reduce risk of downstream issues: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9724](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9724) 
 * [VA Forms Library Overview ](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-overview)(Platform docs) - IS NOT RELATED. This pertains, instead, to making usable online forms within VA.gov 
+
+## Announcement Framework
+
+**What is:**
+Announcements are reusable components that give a common way to make full page announcements on VA.gov.  They are designed to be configurable site-wide without messing with the source code of other applications or digging into Metalsmith layout files to conditionally render.
+
+<img width="1167" alt="image" src="https://user-images.githubusercontent.com/61624970/218570338-9e1728ce-db6b-4639-aa4c-926225f4db42.png">
+
+Using a shared format and config file, developers are able to quickly create new announcements and easily implement rules for when and on what pages they should be displayed.  The config file is located in vets-website at 'src/platform/site-wide/announcements/config/index.js' and an example config looks like this:
+
+`  announcements: [
+    {
+      name: 'new-homepage',
+      // Homepage only
+      paths: /^\/$/,
+      component: HomepageRedesignModal,
+      disabled: false,
+      show: AnnouncementBehavior.SHOW_ONCE_PER_SESSION,
+      returnFocusDivContent: 'Current Homepage',
+    },
+  ],
+`
+
+New announcement components should be built in the announcements components directory (src/platform/site-wide/announcements/components), although the announcement framework allows any React component in vets-website to be used.
+
+The `announcement` property in the rendered component will contain the announcement as stored in the config, so in this case `announcement.name` will render `New Education Feature`.
+
+The `show` perperty can be set to one of 3 values defined in the AnnouncementBehavior enum constant, which are SHOW_ONCE, SHOW_EVERY_TIME and SHOW_ONCE_PER_SESSION. The SHOW_ONCE option persists to `localStorage`, the SHOW_ONCE_PER_SESSION persists to the `sessionStorage` nad the SHOW_EVERY_TIME does not persist dismissal at all.
+
+Architecture:
+
+The Announcement entry point uses React to bind to an element inside an announcement-root div at the top of the page body.  It renders an empty div in its place when there is no announcement to show.  Placing the Announcement div at the top of the html body allows focus to be directed to the skip-link element of the page on modal close, allowing for an accessible user experience.
+
 
 ## Full-width Alert
 
@@ -725,6 +757,10 @@ The discharge update wizard was written by the Decision Tools team. That team tr
 
 ## Downtime messaging
 
+Platform docs: 
+* https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/scheduled-downtime-process.md 
+* https://depo-platform-documentation.scrollhelp.site/developer-docs/downtime-notifications
+
 Governance / guidance: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md
 
 Design system "Banner - Maintenance" component: https://design.va.gov/storybook/?path=/docs/components-banners-maintenancebanner--before-maintenance
@@ -748,13 +784,18 @@ Static CMS page
 
 ## “How to apply” / Benefit wizards
 
-There are currently four (5) urls where in-content "How to Apply" wizards exist:
+There are currently 5 urls where in-content "How to Apply" wizards exist:
 
+Education: owned by EDU team
 * https://www.va.gov/education/eligibility
 * https://www.va.gov/education/how-to-apply
+
+Still owned by PW:
 * https://www.va.gov/disability/eligibility
 * https://www.va.gov/disability/how-to-file-claim
 * https://www.va.gov/decision-reviews/higher-level-review/
+
+TODO: Learn what is the actual widget component of these pages, and PW ownership of that. Have these all been replaced by online forms? 
 
 More info:
 * [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards) 

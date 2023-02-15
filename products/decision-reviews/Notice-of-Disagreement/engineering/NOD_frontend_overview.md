@@ -10,7 +10,7 @@
 
 ## Mock users
 
-Same users as Higher-Level Review: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-HLR.docx
+Same users as Higher-Level Review: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-HLR.md
 
 ## Mock data
 
@@ -21,7 +21,7 @@ Same users as Higher-Level Review: https://github.com/department-of-veterans-aff
 
 ## Test data
 
-- Use with the [save in progress menu](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/save-in-progress-menu) to auto-fill the form while testing
+- Use with the [save in progress menu](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-use-the-save-in-progress-m) to auto-fill the form while testing
 - [maximal-test.json](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/appeals/10182/tests/fixtures/data/maximal-test.json)
 - [minimal-test.json](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/appeals/10182/tests/fixtures/data/minimal-test.json)
 
@@ -44,3 +44,4 @@ Same users as Higher-Level Review: https://github.com/department-of-veterans-aff
 - DSVA `#appeals-announcements` (Caseflow & Lighthouse)
 - DSVA `#appeals-api` (Lighthouse)
 - DSVA `#vsa-benefits-nod` (shared with Lighthouse)
+- DSVA `#benefits-decision-reviews` (Team channel)

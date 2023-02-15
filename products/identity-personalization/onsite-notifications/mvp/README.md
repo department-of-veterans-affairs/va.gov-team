@@ -1,6 +1,6 @@
 # Project outline: On-site notifications MVP
 
-**Last updated: January 11, 2023 - updated metrics**
+**Last updated: January 27, 2023 - updated metrics**
 
 ### Communications
 
@@ -63,7 +63,7 @@ The third and final pillar -- notifications that show to logged-in users on VA.g
 
 - [Analytics information for MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/mvp/product/analytics-documentation.md)
 
-### Objective: Meet user need/expectation by elevating debt informtion to user dashboard.
+### Objective: Meet user need/expectation by elevating debt information to user dashboard.
 
 [On-site notifications report](https://analytics.google.com/analytics/web/#/dashboard/MALmun-7S7WXBNKxUrQ39g/a50123418w177519031p184624291/)
 
@@ -71,8 +71,8 @@ The third and final pillar -- notifications that show to logged-in users on VA.g
 
 |KPI/metric|Post-launch: One-month post launch to 100%: 10/25 - 11/24| Post-launch: Second month post-launch to 100%: 11/25 - 12/24|Post-launch: Third month post-launch to 100%: 12/25 - 1/24|
 |----------|---------------|-------------------|-------------------|
-|How many notifications show|14,914|25,839|TBD|
-|Clicks of debt notification on My VA| 3,881 |5,837| TBD|
+|How many notifications show|14,914|25,839|40,609|
+|Clicks of debt notification on My VA| 3,881 |5,837| 11,118|
 
 ## Solution approach
 

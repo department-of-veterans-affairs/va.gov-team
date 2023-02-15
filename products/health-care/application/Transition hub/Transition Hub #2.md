@@ -1,6 +1,6 @@
 # 10-10EZ Transition Hub
 
-**Updated 1/6/2023**
+**Updated 2/13/2023**
 
 **Note:** These Transition Docs are "point in time" documents, and may not reflect current progress, deployments or upcoming efforts.
 
@@ -46,6 +46,8 @@ The 10-10EZ: Application for VA health care was one of the first applications to
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 - [Product Guide/Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/HCA.Product.Guide.docx)
 - [Things to know](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/10-10EZ%20-%20Things%20to%20know.md) (various points of information we learned since the last transition in April 2022)
+- [Stakeholder Meeting Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes)
+- [PM Resources folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/PM%20Resources) for documents used in routines and research
 
 
 
@@ -65,6 +67,7 @@ The 10-10EZ: Application for VA health care was one of the first applications to
      - [Google Analytics](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/gSXa5lOYRyuXpauKyXSYug/a50123418w177519031p184624291/_u.date00=20210301&_u.date01=20210524/)
 - [Important Google Analytics Event Labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Analytics/Important%20Google%20Analytics%20event%20labels.md)
 - [Backend Stats on DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
+- [Real User Monitoring (RUM) Dashboard](https://vagov.ddog-gov.com/rum/application/9d5155fd-8623-4bc9-8580-ad8ec2cdd7fa/overview/browser?from_ts=1676217734085&to_ts=1676304134085&live=true)
 
 
 **Engineering**
@@ -115,10 +118,10 @@ This table includes links to the individual feature directory and the latest ite
 
 | Feature (Github link) | AKA | Status |
 | :--- | :--- | :--- |
-| [Household section optimization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Household%20section.md) | N/A | Design in progress (Prototype created)|
-| [10-10EZ Baseline Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Baseline%20Study.md) | N/A | Research starting Jan 2023 |
-| [Facility selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Facility%20selection.md) | Also designed for 10-10CG use | In design |
-| [Notiifcations: Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Confirmation%20Emails.md) | N/A | Pending ES roadmap schedule |
+| [Household section optimization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Household%20section.md) | N/A | Dev in progress |
+| [10-10EZ Baseline Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Baseline%20Study.md) | N/A | Research completed Jan-Feb 2023 |
+| [Facility selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Facility%20selection.md) | Also similarly designed for 10-10CG use | In design |
+| [Notiifcations: Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Confirmation%20Emails.md) | N/A | Pending ES roadmap schedule, HEC Team to inform us |
 | [Short Form Expansion](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Short%20Form%20Expansion.md) | Combat status | Initial discovery - Pending further discussions with stakeholders |
 
 <br>
@@ -142,7 +145,8 @@ This table includes links to the individual feature directory and the latest ite
 - Danielle Thierry | danielle.thierry@va.gov -- Content writer
 
 **HEC (Health Eligibility Center) Program Team**
-- Tarsha Tremble | tarsha.tremble@va.gov -- Management Analyst HEC, scheduling (main point of contact between the program and VA.gov)
+- **TBD** (main point of contact between the program and VA.gov) - Tarsha Tremble was previous HEC Project lead, and has moved to another position. As of 2/13/2023, we are still pending a new project lead.
+- Edward Horne | edward.horne@va.gov -- Associate Director, HEC
 - Stacey Echols  | stacey.echols@va.gov  --  Deputy Director, HEC
 - Christopher Hawkins  | christopher.hawkins2@va.gov  -- Supervisory Management Analyst
 - Zachariah Bell  | zachariah.bell@va.gov  -- Acting ECM Supervisory Program Specialist
@@ -163,7 +167,7 @@ This table includes links to the individual feature directory and the latest ite
 
 - 10-10EZ Online Application Update
    - HEC team and VA.gov team meet bi-weekly on Wednesdays at 2pm ET/11am PT for 1 hour
-   - Tarsha is main POC for agenda
+   - **TBD** is main POC for agenda
 
 
 

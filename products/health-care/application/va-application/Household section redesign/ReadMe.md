@@ -49,15 +49,15 @@ The 10-10EZ is easier for applicants to understand and complete without having t
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
-| Product KPI | 2021 | 2022 | Target | Post-Launch 1 week |Post-Launch 1 month|
+| Product KPI | 2021| 2022 | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |-------------- |
-|Total Apps started |173,669|  | | TBD |TBD |
-|Household section |14.4% (23,803)|12.6% |8% | TBD |TBD |
-|Financial Disclosure |% (1,464)|% ()|% () | TBD |TBD |
-|Spouse Info |%|% |% | TBD |TBD |
+|Total Apps started |173,669|231,725 |N/A | TBD |TBD |
+|Household section |13.7% (23,803)|9.1% (21,074) |7% | TBD |TBD |
+|Financial Disclosure |4% (1,464)|0.3% (477) | no change |TBD |TBD |
+|Spouse Info |%|% | TBD |TBD |TBD |
 |Dependent info |%|% |% | TBD |TBD |
-|Annual Income |% (40,791)|% |% | TBD |TBD |
-|Deductible Expenses |% (9,704)|% |% | TBD |TBD |
+|Annual Income |26.3% (40,791) |11.4% (14,772) | 8% |TBD |TBD |
+|Deductible Expenses |6.2% (9,704)|7% (9,116) | 5% |TBD |TBD |
 
 
 #### **Key Result #2:** Increase application submissions by 5%, and submissions within a single session by 5%

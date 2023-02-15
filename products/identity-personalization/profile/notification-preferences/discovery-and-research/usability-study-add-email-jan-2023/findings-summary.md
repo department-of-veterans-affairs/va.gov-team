@@ -1,0 +1,371 @@
+# Profile Notification Settings, Add Email Channel Research Findings 
+
+**Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience**
+
+Date: February 6, 2023
+
+Liz Lantz, liz.lantz@adhocteam.us
+
+[Research readout PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/10699117/2023-profile-add-email-channel-findings-summary.pdf)
+
+**Jump to:**
+- [Hypotheses and conclusions](#hypotheses-and-conclusions)
+* [Key findings](#key-findings)
+* [Recommendations](#recommendations)
+* [Research process insights](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#research-process-insights)
+* [Who we talked to](#who-we-talked-to)
+* [Further research needed](#further-research-needed)
+
+## Research Goals
+1. Learn how our single page, auto-save works for users when all known notifications are represented.
+2. Learn what information needs to be surfaced make the current settings and options clear to people.
+
+## Research Questions
+1. In our current auto-save pattern, how easily are people able to find and interact with relevant notifications when there are more than 4 notifications, and multiple channels?
+2. Does the auto-save functionality present any usability hurdles for people?
+3. Does a read/edit pattern make editing easier than the auto-save pattern?
+4. What level of information do people need in order for them to decide whether they want to edit/update their preferences?
+5. Are mobile and desktop views equally usable?
+
+
+## Methodology 
+We conducted sessions remotely via Zoom, and asked participants to explore 2 HTML CodePen prototypes by completing 3 tasks.  
+
+One prototype used our existing auto-save pattern, and another used a read/edit pattern similar to the other sections in profile.  We alternated which version we started with for each session.  Both prototypes had the same notification options available.
+- [Auto-save prototype](https://codepen.io/surfbird/full/gOjmPyj)
+- [Read/edit prototype](https://codepen.io/surfbird/full/PoBpwzO)
+
+## Hypotheses and Conclusions
+1. The auto-save design will allow people to understand their options and read through the list of notifications with relative ease.
+*Definitely true:* all participants easily understood their options and the list of notifications.
+
+2. The auto-save function will cause minor confusion for some users because they want to be able press a button to confirm a change.
+*Definitely false:* No participants were confused by the lack of a save button.
+
+3. Users will want to quickly understand whether a setting is turned on or off, and by what channel the notification will be sent (email or text) without having to click on something to see it. This will be more intuitive with the auto-save pattern than the read/edit model.
+*Definitely true*: Participants found the auto-save pattern to be easier and more intuitive than the read/edit model. Many specifically cited the preferred being able to make their changes right on the page rather than having to go elsewhere.
+
+## Key Findings
+1. Our existing auto-save edit pattern worked well with additional channels and notifications, and all participants preferred it to the read/edit pattern. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#our-existing-auto-save-edit-pattern-worked-well-with-additional-channels-and-notifications-and-all-participants-preferred-it-to-the-readedit-pattern))
+2. The read/edit pattern introduced some usability problems that weren’t present in the auto-save pattern. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#the-readedit-pattern-introduced-some-usability-problems-that-werent-present-in-the-auto-save-pattern))
+3. No one was confused by the lack of a save button. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#no-one-was-confused-by-the-lack-of-a-save-button))
+4. People were not totally clear on what to expect from notifications we’ll be bringing over from My HealtheVet. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#people-were-not-totally-clear-on-what-to-expect-from-notifications-well-be-bringing-over-from-my-healthevet))
+5. 7 of 8 participants easily navigated the path to add their email address. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#7-of-8-participants-easily-navigated-the-path-to-add-their-email-address))
+6. The repetition of the prompt to add an email address wasn’t overwhelming for most people. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#the-repetition-of-the-prompt-to-add-an-email-address-wasnt-overwhelming-for-most-people))
+7. Both variations of the design were equally usable on desktop and mobile. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#both-variations-of-the-design-were-equally-usable-on-desktop-and-mobile))
+8. Some participants were not clear about where their notifications would be delivered. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#some-participants-were-not-clear-about-where-their-notifications-would-be-delivered))
+
+## Details of Findings 
+### Our existing auto-save edit pattern worked well with additional channels and notifications, and all participants preferred it to the read/edit pattern. 
+The auto-save edit pattern in current designs was unanimously preferred to the read/edit (edit on a separate page) alternative. Participants were easily able understand and interact with our current auto-save pattern, even with more notifications and channels than we have on the page today. 
+
+In the read/edit pattern, clicking an edit link to update settings on a separate page felt like more work to participants; 2 participants even suggested an auto-save approach prior to seeing it. 
+
+> This could just be a toggle, so… you can get rid of a lot of this (mouses over edit button and bell icons), and you could get rid of this whole entire page (clicks edit link and navigates to page to manage notifications) - P1
+
+> This [autosave prototype] is a lot simpler. It’s just easy, it just saves it and does it. I can quickly see that I don’t have it on and I can just turn it on - P4
+
+> Instead of saying edit, it [autosave prototype] has the checkboxes right here which is infinitely better. - P12
+
+ The addition of an email channel, and new notification groups didn’t introduce any usability hurdles for 6 of 8 participants. 2 participants commented that they didn’t need to see things that weren’t relevant to them, such has Board of Veteran’s Appeals hearing reminders. They were still able to navigate the page and update their settings.
+
+
+### The read/edit pattern introduced some usability problems that weren’t present in the auto-save pattern.
+People were able to work through these problems without significant guidance from the moderator, but still found the auto-save pattern to be easier and faster to navigate. This  further supports the findings from our [profile editing evaluation study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md) that a “one thing per page” approach is not ideal for the short forms in the VA.gov profile.
+
+- 3 of the 8 participants in our study weren’t sure if the edit button would lead them to edit their profile, or the notifications themselves
+> Just out of curiosity, I’m going to hit edit to see if it takes me to my profile. - P9
+- 2 of the 8 participants tried to click the bell icons to update their notification settings, instead of hitting edit.
+> I don’t really like that [going to a new page]. I would really like to be able to click on and off the little bells here. - P6
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-read-edit-pattern.png" alt="Screenshot showing the three step process of updating a notification setting with the read edit pattern." width="100%" />
+
+*Above: the read/edit flow. The flow starts on the main notification settings page by clicking the edit button. The person would land on a dedicated page for that specific setting, and then be returned to the main notification settings page.*
+
+
+### No one was confused by the lack of a save button.
+The feedback provided by the input message pattern made people feel that there changes were saved, even though they didn’t interact with an explicit save button.
+
+> ’Update saved’ makes me feel like something happened. - P4
+
+> It’s notifying me that it’s been saved. I’m trusting that this is going to work and I don’t need to call. - P9
+
+### People found the level of information provided to be sufficient for them to know whether or not they wanted to update the setting.
+In both prototypes, each notification had a name, channel options (text and/or email), and displayed if it was turned on or off.  
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-both-prototypes-options-on-off.png" alt="Screenshot showing both prototypes side by side. In the read edit prototype on the left, there are bell icons and text to indicate the notifications are turned off. In the auto-save prototype on the right, one checkbox is checked and one is unchecked to indicate whether the setting is on or off" width="500" />
+
+*Above: a screenshot of both prototypes side by side. The read edit prototype is on the left. There are bell icons and text to indicate the notifications are turned off. In the auto-save prototype on the right, one checkbox is checked and one is unchecked to indicate whether the setting is on or off*
+
+All participants understood the channel options and if the notification was turned on or off.  3 participants wondered why some notifications were only available by text or email, but were not bothered by it.
+
+When asked, all participants stated the information displayed was generally for them to make a decision about whether to update a setting.  They had questions about some notifications (detailed in the next finding), but even without clear answers to those questions in the interface, they felt information was sufficient.  
+
+A screenreader user especially appreciated the amount of content on the page:
+> Us being low vision and visually impaired, we always have the fine line of getting enough feedback, and too much feedback. The feedback I was getting from this prototype was right on point - P10
+
+### People were not totally clear on what to expect from notifications we’ll be bringing over from My HealtheVet.
+Multiple participants asked questions about the new notifications coming from My HealtheVet.
+- 4 of 8 participants weren’t sure about “Medical images and reports”. They asked if this meant they’d get the images/reports sent to them in some kind of notification, or if it meant they would be notified that they were available and they’d have to go somewhere else to see them (this was their guess, and preference).  An extremely low-vision user wondered how they might understand an image with their screenreader:
+> Medical images and reports… that might be tricky. For blind and low vision users… um… *giggles* I don’t know if it… actually I’ve never looked at a medical image using a screen reader so I don’t even know if it would give a description of the image… but if it’s an x-ray it might be a bit complicated to give an audio description of an image. - P10
+
+- 3 participants asked questions and shared comments about the My HealtheVet Newsletter notification:
+	- They wondered if it would be sent in it’s entirety (preferred for email) or if they’d get a link to go read it somewhere else (preferred if available by text). 
+	- They felt that “notification” was not an accurate label for the My HealtheVet newsletter, because they associate newsletters with signing up and subscriptions, rather than notifications.
+
+> What is this [newsletter notification setting] doing? It says My HealtheVet newsletter and it says email notification off. If I turn this on, is it going to send me the newsletter, or is it going to let me know there IS a newsletter?  Newsletter is a sign up. It should just say sign-up for newsletter - P4
+
+### 7 of 8 participants easily navigated the path to add their email address. 
+Going between the notification settings page and email form was intuitive for the majority of participants. One participant was surprised to find the single form field. Since the link said “profile” they expected to go to a page with their entire profile information.
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-add-email-cta.png" alt="Screenshot showing two links circled in red. The links say add your email address to your profile" width="375" />
+
+*Above: screenshot of two links circled in red on the notification settings page. The links say “add your email address to your profile”*
+
+People navigated to the email address form via whatever link was closest. 
+- 3 participants added their email address via the alert at the top of the prototype
+- 4 used a link under a specific notification (there was no pattern to which notification)
+- We couldn’t tell which link a participant on a mobile device clicked to get to the form.
+
+### The repetition of the prompt to add an email address wasn’t overwhelming for most people. 
+Our team wondered whether or not the repetition of this call to action on the page is cumbersome for users, especially for screenreader users. 5 of 8 participants didn’t comment on the repetition, and easily navigated the prototypes, and screenreader users were not bothered by the repetition of the links.
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-cta-repetition.png" alt="Screenshot showing add your email address link repeated on the page 5 times" width="375" />
+
+*Above: A portion of the page where the add your email address link is repeated 5 times*
+
+2 participants commented that the page had visual clutter, and after adding an email commented that it was “better” and “more streamlined”.
+
+### Both variations of the design were equally usable on desktop and mobile.
+Adding My HealtheVet notifications to our current page will nearly double the amount of content, so we wondered if the longer screen would present problems on mobile. It didn’t; the 3 participants who joined their session via a mobile device were able to use the page equally as easily as those on a desktop.
+
+We got some unexpected feedback from a low vision user who joined on a desktop device. They commented that the green background to the “update saved” alert, which extends the full width of the section, was a “waste of vision time” on desktop because there wasn’t anything on the right side.
+> “It would be better if the highlight didn’t go the full width of this thing and only highlighted the text. when I see it going the full width, I wonder what’s over there and it’s a waste of my vision time.”
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-full-width-background.png" alt="Screenshot showing the update saved banner extending the full width of its container" width="400" />
+
+*Above: The input message pattern on desktop. The background color of the banner extended the full width of it’s container, even though the text is much shorter.*
+
+### Some participants were not clear about where their notifications would be delivered.
+Our notification settings page has contact information under the h1 telling users where their notifications will be sent.
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-contact-info.png" alt="Screenshot of the top of the notification settings page, with text circled in red. The text says We’ll use the contact information from your profile to send you the notifications you choose, and displays a mobile number and email address below as a bulleted list" width="375" />
+
+*Above: the notification settings page, with text under the Notification Settings heading circled in red. The text says “We’ll use the contact information from your profile to send you the notifications you choose”, and displays a mobile number and email address below as a bulleted list.*
+
+4 of 8 participants either didn’t notice, or didn’t recall that information at the top of the prototype. Of these 4, some made comments that told us they didn’t understand the information, and others didn’t remark on it at all. 2 of the 4 were on a desktop, and 2 were on a laptop, so the screen size did not seem to contribute to missing this section of the page.
+
+> It has a phone number here I can call. - P9, talking about the mobile phone number at the top of the prototype.
+
+It’s possible this was confusing or insignificant to some participants because it was a prototype that didn’t reflect their own information. We also observed that 2 participants listed the contact information section as something that had been added to the page, once the alert disappeared and they added their email address.
+
+## Additional Insights
+### Most sighted participants didn’t notice the “background color only” alert under the H1 telling them their update had been saved.
+Our prototype used the [background color only alert](https://design.va.gov/components/alert#examples---background-color-only) variation from the VA.gov design system.Our screenreader participant heard the announcement immediately upon landing on the page, but 5 of 7 sighted participants didn’t notice it until it had been pointed out by the moderator.
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-background-only-banner.png" alt="Screenshot of the background only alert under the h1" width="630" />
+
+*Above: the background only alert from our design system.*
+
+### People don’t intuitively understand the difference between their login email address and contact email address.
+Multiple participants remarked that they would not encounter the missing email address scenario presented in the prototype, if they had logged into their own account. They felt this way specifically because they use an email address to log in.  They assume that they log in with an email address, that same email would automatically be used for notifications, which is not true.
+
+### 3 participants weren’t clear about what would happen after they added a missing email address.
+- 2 participants weren’t not sure if the links under a notification name would only add the email address for that particular notification.
+- 1 participant used a link under a specific notification to add their email address, and expected to be automatically opted in by adding their email address. They didn’t understand opting in was a two-step process.
+
+### A low vision user was confused by the checkmark icon on “update saved” message, since it was immediately above a checkbox input.
+Once the message appeared, the user was confused about why there were suddenly 3 checkboxes. Upon closer inspection, they realized it was an icon - first thinking it was a chevron - and then stated it would be better if it was moved further away from the checkbox inputs.
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/notifications-input-message-two-inputs.png" alt="Screenshot of the input message banner between two checked inputs" width="250" />
+
+*Above: the input message with a checkmark icon, sandwiched between two checked checkbox inputs.*
+
+### Participants highlighted some missing items from the notification settings page that would be useful to them.
+- A screenreader user wanted a way to find out if their pharmacy participated in prescription shipping notifications directly from the page.
+> When I get to this, it should tell me whether or not my VA is eligible. - P10
+
+- 1 participant wanted a direct link to see claim status from the Board of Veteran Appeals notification setting.
+> I would love to see something more than just notify me. I would like to see something like give me an idea of when it arrived and that would give me an idea of how long it’s been sitting there. And where it’s going next. That would save me the time and trouble of calling the VSO. I don’t want to travel and see a VSO if I can see it here. - P9
+- 3 participants wanted a way to update settings on all notifications with one click, such as an “subscribe to all” option.
+- 1 participant expected to see options for notification payments under the Payments section.
+
+### SMS notifications that new medical information is available would be helpful to Veterans.
+4 of 8 participants shared sentiment that they prefer to receive notifications about new secure messages or medical reports via SMS, instead of email. This was mostly due to the immediacy of text messaging and the burden of navigating a crowded inbox:
+> It feels like text would be the most direct way of reaching a person. - P1
+
+> Secure messaging - this is a good thing. And I wish it was a text. Email notifications coming to let me know I got a message on healtheVet get lost in my mailbox. A text to let me know someone has responded is a lot more helpful. - P4
+
+They commented that for things like a newsletter, email would be more appropriate since the content isn’t urgent, and it would likely be too long to be appropriate for an SMS message.
+
+### The wording for the “add your email address” call to action confused some users.
+- 1 person was confused by the word “profile” in the call to action to add their email address, and expected to go to a more complete profile page once clicking it. This led to them to feel like perhaps they were doing something incorrectly on the page with the single email address field.
+- A screenreader user was confused by the whole call to action, which reads  “Want to get these notifications by email? First,  [add your email address to your profile](https://codepen.io/surfbird/full/GRBWJMe)” 
+	- They commented that the word “period” was read out separately at the end of a sentence that contained the link, so they heard “Want to get these notifications by email? First link add your email address to your profile period”
+	- This cost them some extra cognition to make sense of it. They also wondered then if a period would be mistakenly added to the end of their email address.
+	- It also cost them some extra cognition to understand the “first” in the sentence (they expected to hear a second).
+	
+## Recommendations
+### Use the pattern in the auto-save prototype for notification settings as we add channels and notification options.
+- The auto-save approach worked well for all participants. 
+- The prototype replaced the radio buttons we have today with checkboxes. This was easily understood by participants and allows us to cut the number of inputs in half, resulting in a cleaner user interface.
+
+### Learn more about content of My HealtheVet notifications, and update content accordingly to set clear expectations about what they are.
+At this point, we don’t know exactly what each notification contains. We should get a better understanding of that, and update the names of notifications accordingly. For example: 
+- “Medical images and reports” might set more clear expectations if it were called “New medical images and reports available”.    
+- The My HealtheVet newsletter email notification channel may be more clear as “Subscribe to weekly newsletter” than “Notify by email”
+-  Supported by finding “People were not totally clear on what to expect from notifications we’ll be bringing over from My HealtheVet.”
+
+### Reconsider how we are encouraging people to add their email address to their profile.
+We have an opportunity to reduce clutter in the UI and set clearer expectations about the 2 step process of adding missing contact information. It’s worth exploring how we might present this important call to action in a clearer way. 
+
+### Explore how we might make the input message pattern more accessible.
+The input message pattern design caused some problems people using magnification. We should look into how we might improve the pattern to reduce that friction and make the design more accessible for all.  Two ideas are to remove the checkmark icon, and reduce the width of the green background.
+
+### Explore how we might surface meaningful and relevant links to people in the notification settings section.
+We know that claim status is incredibly important to Veterans who have a claim or appeal in progress.  How might we give them easier access to that information from profile? 
+
+As we expand the prescription shipping notification options, we should also explore if there’s a way we can make it easier for people to check whether or not the notification is relevant to them based on their pharmacy.
+
+## Research Process Insights
+### Our latest screener questions for assistive tech users and people with cognitive considerations were more successful than previous versions, but we still have room to improve.
+We asked for 4 participants who require screenreader software to use the internet, and were able to recruit 3 who satisfied the criteria we outlined.
+
+Once we got into the sessions, 1 of the 3 participants didn’t use screenreader software, but rather used built in Windows assistive technology. While this was useful to see, and we learned a lot from this participant, it didn’t quite meet the criteria we outlined.
+
+Another participant stated that they checked “yes” to indicate they had a cognitive consideration simply because there was not a no option.  We later saw that the screener form offered participants a single radio button input for this question, instead of a yes or no.
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/screener-questions.png" alt="Screenshot of a form where the first question is do you have an identified cognitive impairment, and the only option is a radio button labeled yes, which is circled in red." width="500" />
+
+*Above: the form used to recruit participants for this study. The first question is "Do you have an identified cognitive impairment", and has with a single radio button option labeled "yes".*
+
+In our next study, we’ll provide people with multiple, clearly labeled options for special criteria may get us closer to talking to the folks who can answer our research questions.  We’ll include a “no” or something to negate the other options, as well as an “other” where people can type what they
+
+### CodePen worked well as a tool for accessible HTML prototypes, and we learned ways to use it more effectively for future studies.
+We set up our CodePen prototypes to mirror the accessible HTML we’d use on VA.gov, and found it to be a very successful way to get the research insights we hoped for across a variety of devices, assistive technologies, and skill level:
+- 5 desktop participants
+- 2 mobile participants
+- 1 tablet participant
+- 2 screenreader participants, one advanced, and one beginner
+- 1 participant using Windows Adaptive technology and 400% zoom magnification
+
+> I’m just impressed. As a screen reader, I’m going to say this form is very accessible. This definitely would be something that would be user friendly for anyone who is visually impaired. - P10, extremely low vision screenreader user.
+
+We also learned ways we can improve the experience for future studies, and captured them here (link to come).
+
+## Further research needed
+### We need to re-evaluate the use of the background-only banner to confirm a save at the top of a page, once people can use their real information.
+This was the first time we tested our new pattern of having a dedicated page for updating contact information.  Most people didn’t acknowledge the update, and that may be OK if they see their own information reflected back to them once it’s saved.  We should re-test the existing pattern in a future study, with people’s actual information to get a sense of how important it is for them to read this confirmation banner.
+
+### We should recruit for the underserved groups we didn’t get to talk to in this round in our next study.
+Including these people in our next round of research will help our team get a diverse group of perspectives.
+
+## Next Steps
+- Review with product team and align on recommendations we’ll take action on.
+- Share findings with the VA Notify and My HealtheVet teams.
+- Create tickets for our backlog based on the recommendations.
+
+## Appendix
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/conversation-guide.md)
+- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/session-notes)
+- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/topline-summary.md)
+
+
+## Tools used for Synthesis
+- [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/vsa8243/1673373506463/1612803cf5440529246a69f92f6bc1b00742f336?sender=ub868d471cfdb1c56cc0b4512)
+- [Topline summary cross-check](https://docs.google.com/spreadsheets/d/1pukrgmkz_VRMxw-o98pBy35LEF8wnrWbMSFGWokvuw4/edit?usp=sharing)
+
+## Pages and applications used
+- [Auto-save prototype](https://codepen.io/surfbird/full/gOjmPyj)
+- [Read/edit prototype](https://codepen.io/surfbird/full/PoBpwzO)
+
+## Secondary research
+This study didn’t include any secondary research.
+
+## Who we talked to 
+ [Recruitment criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/research-plan.md#recruitment-criteria)
+
+We talked to 9 participants, but one participant had such profound difficulty using Zoom with their screenreader that we were not able to get answers to the majority of our research questions.  That participants data was not included in these findings.
+
+**Audience segment:**
+* Veterans: 8 
+* Caregivers: 0 
+* Family members of a Veteran: 0  
+
+**Gender:**
+* Male: 4 
+* Female: 4 
+
+
+**LGBTQ+:**
+We didn’t ask participants to disclose any LBGTQ+ information
+
+**Devices used during study:** 
+* Desktop: 5 
+* Tablet: 1 
+* Smart phone: 2 
+* Assistive Technology: 2
+
+**Age:**
+* 25-34: 0
+* 35-44: 2
+* 45-54: 2
+* 55-64: 3
+* 65+: 1
+
+**Education:**
+* High school degree or equivalent: 0
+* Some college (no degree): 2
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 2
+* Master's degree: 2
+* Doctorate degree: 0
+* Unknown: 0
+
+**Geographic location:**
+* Urban: 5
+* Rural: 3
+* Unknown: 0
+
+**Race:**
+* White: 4
+* Black: 3
+* Hispanic: 1*
+* Biracial: 1*
+* Asian: 0
+* Native: 1*
+* *A single participant identified with all of these races
+
+**Disability and Assistive Technology (AT):**
+* Cognitive: 7
+* AT beginner: 0
+* AT advanced user: 2
+* Desktop screen reader: 0
+* Mobile screen reader: 1
+* Magnification/Zoom: 1
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
+
+
+## Underserved groups we haven’t talked to 
+This research does not include the perspectives of the following marginalized Veteran groups:
+* Other than honorable 
+* Immigrant origin 
+* Expat
+* Asian
+* Gay, lesbian, or bisexual
+* Transgender
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman
+* Speech input technology users
+* Hearing Aids
+* Sighted Keyboard
+* Captions
+* Switch Device
+* Braille Reader
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/2023-notifications-add-email-recruitment-checker.png" alt="Screenshot from the recruitment checker spreadsheet, linked below." width="500" />
+
+[VA recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=2136433331)

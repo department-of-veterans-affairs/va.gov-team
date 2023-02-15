@@ -45,6 +45,7 @@ Team vision: An effortless online experience that allows Veterans and their Care
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
 - [Product Guide/Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Online-10-10CG-Product-Guide.docx)
 - [Things to know](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/10-10CG%20-%20Things%20to%20Know.md) (various points of information we learned since the last transition in April 2022)
+- [PM Resources folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/Product/PM%20Resources) for documents used in routines and research
 
 
 <br>

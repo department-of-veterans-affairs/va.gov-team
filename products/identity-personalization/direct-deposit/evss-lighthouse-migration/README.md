@@ -1,6 +1,6 @@
 # Project outline: Migrate direct deposit for comp & pen from EVSS > Lighthouse
 
-**Last Updated: January 13, 2023**
+**Last Updated: February 7, 2023**
 
 ### Communications
 
@@ -71,6 +71,7 @@ As a person that receives payments from VA, I want to be able to easily view and
 - Early 2022: Support Lighthouse's discovery
 - December 2022: Lighthouse is ready for us to begin integration
 - January 2023: Profile team begins discovery
+- February 2023: Backend migration
 
 ## Measuring success
 

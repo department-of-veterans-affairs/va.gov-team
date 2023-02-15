@@ -87,12 +87,91 @@
 ## Sprint 3 (2/1 - 2/14)
 [#51090](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51090)
 
+### PTO
+
+- Tom: 2/6 - 2/10 (he is full on profile work, so he will need to do onsite notifications discovery next sprint)
+
 ### Payments V2
 
 - [Update 2-month post-launch stats after Feb 11](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/README.md#v2-updating-payments-and-debts-to-address-usability-issues-may-2022---october-2022)
 
+### My VA audit updates
+
+**PM**
+
+- Check in on where we are with analytics (if done, there's nothing to do)
+- QA discovery
+  - Do we need to use Test Rail? If so, have platform help with Test Rail onboarding.
+  - How can we run QA as a team? Do we need to have everyone in Test Rail? Is a QA spreadsheet better? 
+
+**FE**
+
+- Any updates that came out of research
+
+### Onsite notifications
+
+**PM**
+
+- Collab cycle kickoff ticket
+- Finalize intake process with VANotify
+
+**Design**
+
+- Work with content folks to figure out copy for new notification(s)
+- Design updates for My VA
+- Design intent, if time
+
+**FE & BE**
+
+- Technical discovery
+  - How hard is implementing new notification design? 
+  - How much FE work is required for a new notification if we don't update the design?
+
 ## Sprint 4 (2/15 - 2/28)
 [#51091](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51091)
+
+### My VA audit updates
+
+**Team goal**: Run QA
+
+**PM**
+
+- QA go/no-go
+- Call center guide updates, if time
+
+**Everybody**
+
+- Conduct QA
+
+**Design**
+
+- Updates from QA, if applicable
+- Call center guide updates, if time
+
+**Frontend**
+
+- Updates from QA, if applicable
+-  FE to implement analytics updates
+
+### Onsite notifications
+
+**PM**
+
+- Create onsite notifications inventory/backlog for notifications to add
+  - It's ok that this will be super short to start. Just getting it set up and getting process in place is the goal.
+  - Once this is done, link from product outline for onsite notifications.
+
+**Design**
+
+- Copy for new notification(s)
+  - This assumes we have an approach for a new notification or notifications
+- Design updates for My VA
+- Design intent, if time
+
+**BE**
+
+- Technical discovery
+  - Is there any BE work involved as we add new notifications?
 
 ## Sprint 5 (3/1 - 3/14)
 [#51092](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51092)

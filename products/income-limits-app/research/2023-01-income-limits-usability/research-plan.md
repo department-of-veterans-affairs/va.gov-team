@@ -53,14 +53,14 @@ Learnings will help refine the design of the application.
 
 ### Research questions
 1. What are Veterans' expectations of income eligibility for VA health care? (ask before showing app)
-1. How do Veterans expect to "wayfind" this app?
+1. Where do Veterans expect to find this app? (i.e., Costs of Care page, Eligibility page, etc.)
 1. Do Veterans understand the questions in the app? Is anything unclear or confusing?
-1. Do Veterans expect a summary page that shows information entered?
+1. Do Veterans find a summary page helpful for verifying the information entered?
 1. Do Veterans understand the income limits presented in the app results page?  Is anything unclear or confusing?
 1. Do Veterans understand the relevant year of income for their eligibility? 
 1. Do Veterans understand the health care benefits shown in the app results page?  Is anything unclear or confusing?
 1. How far do Veterans scroll down the app results page?
-1. Do Veterans understand deductions and how that affects their income? (Did they see the details below all the income thresholds?)
+1. Do Veterans understand deductions and how that affects their income? (Did they see the details about this?)
 1. After seeing the information presented in the app results page, what do Veterans want to do next? 
 1. Do Veterans understand that they can use this to find the income limits for a previous year (not 2023)? Reaction to it not being part of the flow?
 
@@ -90,14 +90,13 @@ Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions**
 ### Required criteria 
 - NONE have VA health care
 - NONE receive VA disability compensation for a service-connected disability rating of 50% or higher
-- ALL plan to use their smartphone for the session 
-- At least 4 people with a cognitive disability (e.g., TBI)
-- At least 4 people who are age 55 or older
-- At least 2 people 35 or under
-- ALL have a smartphone and are willing to complete their session using it:
+- ALL have a smartphone to use it for the session and...
   - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen
   - Willing to share over Zoom a web browser window on their smartphone
   - Have a working microphone on their smartphone
+- At least 4 people with a cognitive disability (e.g., TBI)
+- At least 4 people who are age 55 or older
+- At least 2 people 35 or under
 - At least 3 people of color
 - At least 2 women
 - At least 2 people who don't have any degree or vocational training after high school 
@@ -120,15 +119,18 @@ Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions**
 
 ### Prepare
 Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. I am available for a kickoff call during any of these times (all in ET): 
-- **Feb 3**: 12-2:30 pm, 4-5 pm
-- **Feb 6**: 12-1 pm, 4:30-5:30 pm
-- **Feb 7**: 12-5 pm
+- **Feb 13**: 2-5 pm
+- **Feb 14**: 12-1:30 pm
+- **Feb 15**: 12-1, 3-5 pm
 
-- Pilot 1: **Feb 13/14/15/16 at X pm ET** with person (email address)
-- Pilot 2: **Feb 13/14/15/16 at X pm ET** with person (email address)
+**Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so I can review it beforehand.
+
+I will schedule two **pilot tests** during Feb 15-22.
+- Pilot 1: **Feb TBD at X pm ET** with person (email address)
+- Pilot 2: **Feb TBD at X pm ET** with person (email address)
 
 ### Research sessions
-* Planned dates of research: **Feb 17-27, 2023** 
+* Planned dates of research: **Feb 27 - Mar 3, 2023** 
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from a screener question).
 
@@ -141,12 +143,11 @@ We would like to request that **Perigean calls each participant** to remind them
 
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
-Feb 17, 2023 | 12-1, 2-3, 5-6, 7-8 pm (backup)
-Feb 21, 2023 | 12-1, 2-3, 5-6, 7-8 pm (preferred)
-Feb 22, 2023 | 12-1, 2-3, 5-6, 7-8 pm (preferred)
-Feb 23, 2023 | 12-1, 2-3, 5-6, 7-8 pm (preferred)
-Feb 24, 2023 | 12-1, 2-3, 5-6 pm (preferred)
-Feb 27, 2023 | 12-1 pm (backup)
+Feb 27, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Feb 28, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Mar 1, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Mar 2, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Mar 3, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
@@ -154,8 +155,8 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Cindy Merrill 
 - Participant recruiting & screening: Perigean	
 - Project point of contact: Cindy Merrill	
-- Participant(s) for pilot test: TBD	
-- Note-takers: Perigean	(and/or Jordan Wood?)
+- Participant(s) for pilot test: Katie Riddle (katherine.riddle@adhocteam.us) and TBD	
+- Note-takers: Perigean	(in github)
 - Observers: Jordan Wood (jordan.wood@civicactions.com), Dave Conlon (david.conlon@va.gov), Wes Rowe (wesley.rowe@agile6.com). Other observers will need to sign up so we can limit the number of observers per session.
 
 ## Approvals

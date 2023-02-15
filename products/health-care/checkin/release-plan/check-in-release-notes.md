@@ -12,7 +12,30 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
-### 01/20/2022
+### 2/15/2023
+- Moved the "Answer questions" action link on the Pre-Check-in landing page to the top of the page to encourage & facilitate more completions of the Pre-Check-in process. Initially released to 20% of Veterans but will increase availability daily while monitoring usage metrics.
+    - [Epic 52054](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)
+
+### 2/13/2023
+- Fixed several visual bugs and 2 links that were referencing the wrong website
+    - [Ticket 53189](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53189)
+
+### 2/7/2023
+- Updated Pre-Check-in and Check-in to make use of a simplified VA header & footer 
+    - [Epic 45315](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/45315) 
+- Fixed an issue where non-numeric station numbers were causing a patient to not reach the check-in complete page
+    - [Issue 23325](https://github.com/department-of-veterans-affairs/vets-website/pull/23325#event-8462585429)
+- Added valid hrefs to links that are used for navigation and functionality with Pre-Check-in and eCheck-in
+    - [Issue 52360](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52360)
+
+### 1/26/2023
+- Updated the build to limit loaded web components to just those used for Pre-Checkin 
+
+### 1/25/2023
+- Changes the error handling in Pre-Check-in for cancelled appointments. The cancelled appointment error message will only show when all appointments in the list are cancelled. 
+    - [Ticket 51862](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51862)
+
+### 01/20/2023
 - Fixed an accessibility error on the demographics list view (uses semantic markup for lists in lieu of aria labels)
     - [Ticket 51894](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51894)
 

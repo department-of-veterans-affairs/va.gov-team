@@ -1,5 +1,5 @@
 # Contact information: address not recognized as entered
-**Last updated: December 1, 2022**
+**Last updated: February 9, 2023**
 
 If a user changes their address from the VA.gov profile and that address isn’t recognized by the U.S. Postal Service (USPS), they’ll be provided with a suggestion or an option to:
 - use the address as entered
@@ -59,14 +59,14 @@ Washington, DC 20010
 5. Click update
 
 ### Address and/or unit number can’t be confirmed with U.S. Postal Service (USPS), and a suggestion is not found.
-1. Log into staging.va.gov with any LOA3 user except vets.gov.user+36 ([staging user list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
+1. Log into staging.va.gov with vets.gov.user+41@gmail.com ([staging user list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
 2. Navigate to the [contact information section](https://staging.va.gov/profile/contact-information), and 
 3. Click edit on either address section
 4. Update the street address to **600 S. Michigan Ave**
 5. Click update
 
 ### Address is missing a unit number
-1. Log into staging.va.gov with any LOA3 user except vets.gov.user+36 ([staging user list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
+1. Log into staging.va.gov with vets.gov.user+41@gmail.com ([staging user list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
 2. Navigate to the [contact information section](https://staging.va.gov/profile/contact-information), and 
 3. Click edit on either address section
 4. Use the following address: 

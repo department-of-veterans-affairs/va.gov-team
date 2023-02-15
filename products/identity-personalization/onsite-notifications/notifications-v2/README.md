@@ -1,6 +1,6 @@
 # Project outline: Scaling onsite notifications (Onsite notifications V2)
 
-**Last updated: January 17, 2022**
+**Last updated: February 3, 2023**
 
 ### Communications
 
@@ -140,12 +140,18 @@ TBD
 
 ### Q1 CY2023
 
-#### In scope
+#### To complete
 
-- Define and document intake process with VANotify (potentially low lift)
-- Inventory existing notifications to figure out what onsite notification backlog looks like
-- **Start**: Add 1 (maybe 2?) new onsite notifications
-   - A **VERY MVP** notification center (a link to a new page off of My VA; no nav changes) is in scope, if needed
+- **Define intake process**: Define and document intake process with VANotify (potentially low lift)
+- **Create onsite notifications backlog**: Inventory existing notifications to figure out what onsite notification backlog looks like
+
+#### To start
+
+- **Add notifications**: Add at least 1 new onsite notifications. Candidates include:
+  - Highest priority: Prescription shipment notification sent from local pharmacies 
+  - BVA appeals hearing reminders, if possible (we may not do this if we can not provide helpful information)
+  - Monthly education enrollment notification (if we can provide helpful links/next steps)
+- A **VERY MVP** notification center (a link to a new page off of My VA; no nav changes) is in scope, if needed
 
 Potentially also, if time:
 
@@ -155,23 +161,54 @@ Potentially also, if time:
 #### Out of scope
 
 - Adding a notification center to the navigation
-- Update the notification design (Design done; needs FE build and collab cycle
+- Update the notification design (Design done; needs FE build and collab cycle)
 
 ### Q2 CY2023
 
-#### In scope
+#### To complete
 
-- Update the notification design (Design done; needs FE build and collab cycle
+- **Launch new notifications** - Launch the notifications work we started in Q1 CY2023.
+- **Notification center discovery** - If not started/completed in Q1 CY2023, complete this discovery.
+
+#### To start
+
+- **New notification design** - Put new notification design through collab cycle/build.
+- **New notifications** - Add new notifications, if possible/needed.
 
 #### Out of scope
 
+- Adding a notification center to the navigation
+
+### Q3 CY2023
+
+#### To complete
+
+- **New notification design** - Launch new notification design.
+- **New notifications** - Add new notifications, if possible/needed.
+
+#### To start
+
+- **Adding notification center to the navigation** - If discovery yields this direction, we should start working across teams to get the navigation updated. **However, this is highly dependent on discovery, so exact approach is not defined yet**. This may manifest in many ways. Exact approach TBD.
+- **New notifications** - Add new notifications, if possible/needed.
+### Q4 CY2023
+
+#### To complete
+
+- **Launch notification center** - Launch notification center.
+- **New notifications** - Add new notifications, if possible/needed.
+
 ## Key deliverables
+
+|Deliverable|Date completed|
+|-----------|--------------|
+|[Existing notifications review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/notifications-v2/product/shared-notes-existing-notifications-to-review.md)| January 2023|
 
 ## Key dates
 
 - September 2022: Initial on-site notifications V2 planning
 - October - December 2022: V2 work on hold due to MVP launch and lull due to contract switch-over
 - January 2023: Project discovery; Scope V2
+- February 2023: Technical discovery; Design for Q1 CY2023 notification updates
 
 ## Backend
 

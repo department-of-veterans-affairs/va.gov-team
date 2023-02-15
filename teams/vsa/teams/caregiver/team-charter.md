@@ -38,7 +38,6 @@ Health Products
 - Team Product Manager: Heather Justice
 - Sr. UX Design: Jessica Stump
 - UX/UI Design: Nick Osmanski
-- Front-End Engineering: Lisa Zapson
 - Front-end Engineering: Matt Long
 - Back-End Engineering: Lihan Li
 

@@ -8,7 +8,7 @@ Starting in January 2023, Veterans filing claims for presumptive conditions that
 ### OCTO Objectives 
 - [ ] Increase the usage and throughput of VA services
 - [ ] Decrease the time Veterans spend waiting for an outcome
-- [ ]  Increase the quality and reliability of VA services
+- [ ] Increase the quality and reliability of VA services
 
 ### Veteran Journey
 Since Veterans can file Supplemental Claims benefits with VA between 180 and 90 days before separating from the military, this work impacts the Veteran journey from ***serving***, to ***getting out***, and all the way to ***dying*** as survivors can also file Supplemental Claims on the Veteran’s behalf. This work especially maps to the ***taking care of myself*** part of the Veteran journey, as Supplemental Claims for disability compensation supports:
@@ -45,18 +45,20 @@ We'll conduct remote usability testing over Zoom using a prototype. This method 
 
 ### Research materials
 
-- [Link to conversation guide (WIP)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/conversation-guide.md)
-- [Link to prototype (WIP)]
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/conversation-guide.md)
+- [Link to prototype](https://www.sketch.com/s/d2416db4-9a4f-4919-abe4-20ba4bdcfd89/prototype/a/A4ED99CB-748B-4EED-8F83-5D6733BA9F42)
 
 ## Recruitment	
 
 ### Recruitment approach
 Our intended audience for this research is Veterans who have had their claims denied, and intend to file a Supplemental Claim or are in the process of going through a Supplemental Claim.
 
+https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/231
+
 ### Recruitment criteria
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|      20       |                  |  20    |             |          |               | 
+|      14       |                  |  14    |             |          |               | 
 
 ### Criteria Table 
 This is a single study, and we are testing with a prototype
@@ -64,23 +66,23 @@ This is a single study, and we are testing with a prototype
 |                |   Target   | Actual |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort  9|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
-|Male            |     14     |        |        |        |        |        |        |        |        |        |         |
+|Male            |      8     |        |        |        |        |        |        |        |        |        |         |
 |Female          |      6     |        |        |        |        |        |        |        |        |        |         |                                   
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|Black           |      4     |        |        |        |        |        |        |        |        |        |         |               
-|White           |      3     |        |        |        |        |        |        |        |        |        |         |                 
-|Latinx          |      4     |        |        |        |        |        |        |        |        |        |         |                            
-|Asian           |      3     |        |        |        |        |        |        |        |        |        |         |                 
-|Native          |      3     |        |        |        |        |        |        |        |        |        |         |                
-|Pacific Islander|      3     |        |        |        |        |        |        |        |        |        |         |                 
+|Black           |      2     |        |        |        |        |        |        |        |        |        |         |               
+|White           |      4     |        |        |        |        |        |        |        |        |        |         |                 
+|Latinx          |      2     |        |        |        |        |        |        |        |        |        |         |                            
+|Asian           |      2     |        |        |        |        |        |        |        |        |        |         |                 
+|Native          |      2     |        |        |        |        |        |        |        |        |        |         |                
+|Pacific Islander|      2     |        |        |        |        |        |        |        |        |        |         |                 
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
-|18-24 yo        |      2     |        |        |        |        |        |        |        |        |        |         |
-|25-34 yo        |      2     |        |        |        |        |        |        |        |        |        |         |
-|35-44 yo        |      2     |        |        |        |        |        |        |        |        |        |         |
+|18-24 yo        |      1     |        |        |        |        |        |        |        |        |        |         |
+|25-34 yo        |      1     |        |        |        |        |        |        |        |        |        |         |
+|35-44 yo        |      4     |        |        |        |        |        |        |        |        |        |         |
 |45-54 yo        |      4     |        |        |        |        |        |        |        |        |        |         |
-|55+ yo          |      6     |        |        |        |        |        |        |        |        |        |         |
+|55+ yo          |      4     |        |        |        |        |        |        |        |        |        |         |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
 |Gay             |            |        |        |        |        |        |        |        |        |        |         |
@@ -114,23 +116,23 @@ This is a single study, and we are testing with a prototype
 |***EDUCATION*** |            |        |        |        |        |        |        |        |        |        |         |
 |Elementary      |            |        |        |        |        |        |        |        |        |        |         |
 |Intermediate    |            |        |        |        |        |        |        |        |        |        |         |
-|GED             |      4     |        |        |        |        |        |        |        |        |        |         |
-|High School     |      4     |        |        |        |        |        |        |        |        |        |         |
-|Some College    |     12     |        |        |        |        |        |        |        |        |        |         |
-|Associate's     |            |        |        |        |        |        |        |        |        |        |         |
-|Bachelors       |            |        |        |        |        |        |        |        |        |        |         |
-|Masters         |            |        |        |        |        |        |        |        |        |        |         |
+|GED             |      3     |        |        |        |        |        |        |        |        |        |         |
+|High School     |      3     |        |        |        |        |        |        |        |        |        |         |
+|Some College    |      3     |        |        |        |        |        |        |        |        |        |         |
+|Associate's     |      2     |        |        |        |        |        |        |        |        |        |         |
+|Bachelors       |      2     |        |        |        |        |        |        |        |        |        |         |
+|Masters         |      1     |        |        |        |        |        |        |        |        |        |         |
 |Professional    |            |        |        |        |        |        |        |        |        |        |         |
 |Doctoral        |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***RESIDENCE*** |            |        |        |        |        |        |        |        |        |        |         |
-|Urban           |      14    |        |        |        |        |        |        |        |        |        |         |
-|Rural           |      6     |        |        |        |        |        |        |        |        |        |         |
+|Urban           |      9     |        |        |        |        |        |        |        |        |        |         |
+|Rural           |      5     |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***HARDWARE***  |            |        |        |        |        |        |        |        |        |        |         |
 |Desktop         |            |        |        |        |        |        |        |        |        |        |         |
 |Laptop          |            |        |        |        |        |        |        |        |        |        |         |
-|Mobile          |     12     |        |        |        |        |        |        |        |        |        |         |
+|Mobile          |      8     |        |        |        |        |        |        |        |        |        |         |
 |Tablet          |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***WEBSITE***   |            |        |        |        |        |        |        |        |        |        |         |
@@ -219,19 +221,19 @@ This is a single study, and we are testing with a prototype
 - Do you think your claim is affected by the PACT Act? [OK if yes, no, or unsure]
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 
-* Pilot participant email: TBD
-* Observer: TBD
-* Date and time of pilot session: TBD
+* Pilot participant email: Elisa Hallberg [elisa@coforma.io](elisa@coforma.io)
+* Observer: [Sade Ragsdale](sade@coforma.io)
+* Date and time of pilot session: 10 AM ET 2/16
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: 2/21-3/1
 
 ### Length of sessions
 * Session length: 60 minutes
@@ -239,22 +241,26 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Maximum number of sessions per day: 4
 
 ### Availability
-Monday 8-6
+Tuesday, 2/21, 8am-6pm
 
-Tuesday 8-6
+Wednesday, 2/22 8am-6pm
 
-Wednesday 8-6
+Thursday, 2/23 8am-6pm
 
-Thursday 8-6
+Friday, 2/24 8am-6pm
 
-Friday 8-6
+Monday, 2/27 8am-6pm
+
+Tuesday, 2/28 8am-6pm
+
+Wednesday, 3/1 8am-6pm
 	
 ## Team Roles	
 Please list the people who will be serving in each role.
-- Moderator: [Eileen Chi](eileen.chi@coforma.io)
+- Moderator: Eileen Chi [eileen.chi@coforma.io](eileen.chi@coforma.io), Eva Floyd [eva@coforma.io](eva@coforma.io)
 - Research guide writing and task development: [Eileen Chi](eileen.chi@coforma.io)	
 - Participant recruiting & screening: Perigean
 - Project point of contact: [Eileen Chi](eileen.chi@coforma.io)	
-- Participant(s) for pilot test: [Eva Floyd](eva.floyd@coforma.io)	
+- Participant(s) for pilot test: Elisa Hallberg [elisa@coforma.io](elisa@coforma.io)	
 - Note-takers: 
-- Observers: [Sade Ragsdale](sade@coforma.io), [Gary Homidas](gary.homidas@adhocteam.us), [Robin Garrison](robin.garrison@adhocteam.us), [Matt Self](matthewself.dsva@gmail.com), [Katherine Fung](k.fung@bloomworks.digital)
+- Observers: Sade Ragsdale [sade@coforma.io](sade@coforma.io), Gary Homidas [gary.homidas@adhocteam.us](gary.homidas@adhocteam.us), Matt Self [matthewself.dsva@gmail.com](matthewself.dsva@gmail.com), Katherine Fung [k.fung@bloomworks.digital](k.fung@bloomworks.digital), Sarah Shields [sarah.shields@coforma.io](sarah.shields@coforma.io)

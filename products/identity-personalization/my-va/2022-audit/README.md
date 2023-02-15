@@ -91,7 +91,7 @@ To mitigate each of the problems above, we plan to do the following:
 
 **KPI: We will see at least a 10% increase in key interactions on My VA, since each section now shows persistently.**
 
-|KPI/metric|Baseline: [One month pre-launch]|Post-launch: [One month post-launch]| Post-launch: [Second month post-launch]|
+|KPI/metric|Baseline: [One month pre-launch to 25%]|Post-launch: [One month post-launch to 100%]| Post-launch: [Second month post-launch to 100%]|
 |----------|-------------|---------------|-------------------|
 |Clicks into "Manage all claims and appeals"|TBD|TBD|TBD|
 |Clicks into individual claims, "View claim"|TBD|TBD|TBD|
@@ -106,14 +106,14 @@ To mitigate each of the problems above, we plan to do the following:
 
 **Note**: Certificates of eligibility apply to both education benefits and home loans.
 
-|KPI/metric|Baseline: [One month pre-launch]|Post-launch: [One month post-launch]| Post-launch: [Second month post-launch]|
+|KPI/metric|Baseline: [One month pre-launch to 25%]|Post-launch: [One month post-launch to 100%]| Post-launch: [Second month post-launch to 100%]|
 |----------|-------------|---------------|-------------------|
 |Search rank for "gi bill” or similar from My VA (whichever comes first)|TBD|TBD|TBD|
 |Search rank for "coe” or "certificate of eligibility" (whichever comes first)|TBD|TBD|TBD|
 
 **KPI: Establish baseline metrics for clicks into new links from My VA.**
 
-|KPI/metric|Post-launch: [One month post-launch]|Post-launch: [Second month post-launch]|
+|KPI/metric|Post-launch: [One month post-launch to 100%]|Post-launch: [Second month post-launch to 100%]|
 |----------|---------------|-------------------|
 |Clicks into "Compare GI Bill benefits by school" from My VA |TBD|TBD|
 |Clicks into "Check your GI Bill statement of benefits" from My VA |TBD|TBD|

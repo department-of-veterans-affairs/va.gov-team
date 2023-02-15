@@ -20,40 +20,55 @@ n/a
 
 **PAGE HEADER**
 
-```
-Pending {type of care} appointment
+```diff
+- Pending {type of care} appointment
++ Request for appointment 
+@@ GH52490 @@
 ```
 
 **PAGE DESCRIPTION**
 
-```
-The time and date of this appointment are still to be determined.
+```diff
+- The time and date of this appointment are still to be determined.
++ We will review your request and contact you to schedule the first available appointment.
+@@ GH52490 @@
 ```
 
 **PAGE CONTENT**
 
-```
-VA appointment
+```diff
++ [Type of care]
+
+
+- VA appointment
++ Facility
 {Facility name}
-{Facility address}
+{Facility address line 1}
+{Facility address line 2}
 Directions
 
 Main phone: {phone number} (TTY: 711)
 
-Preferred type of appointment
-{Office visit, Phone call, Telehealth (through VA Video Connect)}
+- Preferred type of appointment
+- {Office visit, Phone call, Telehealth (through VA Video Connect)}
 
 Preferred date and time
 {Preferred date & time #1}
 {Preferred date & time #2}
 {Preferred date & time #3}
 
-You shared these details about your concern
+- You shared these details about your concern
++ Details you’d like to share with your provider
 {Reason}: {Booking note}
 
-Your contact details
++ How you want to attend
+[Selected modality]
+
+- Your contact details
++ Your contact information
 Email: {Email address}
 Phone number: {phone number}
+@@ GH52490 @@
 ```
 
 ```Cancel request```
@@ -72,8 +87,9 @@ n/a
 
 **PAGE HEADER**
 
-```
-{Type of care} appointment request
+```diff 
+- {Type of care} appointment request
++ Canceled request for appointment
 ```
 
 **PAGE DESCRIPTION**
@@ -84,28 +100,39 @@ n/a
 
 **PAGE CONTENT**
 
-```
-VA appointment
+```diff
++ [Type of care]
+
+
+- VA appointment
++ Facility
 {Facility name}
-{Facility address}
+{Facility address line 1}
+{Facility address line 2}
 Directions
 
 Main phone: {phone number} (TTY: 711)
 
-Preferred type of appointment
-{Office visit, Phone call, Telehealth (through VA Video Connect)}
+- Preferred type of appointment
+- {Office visit, Phone call, Telehealth (through VA Video Connect)}
 
 Preferred date and time
 {Preferred date & time #1}
 {Preferred date & time #2}
 {Preferred date & time #3}
 
-You shared these details about your concern
+- You shared these details about your concern
++ Details you’d like to share with your provider
 {Reason}: {Booking note}
 
-Your contact details
++ How you want to attend
+[Selected modality]
+
+- Your contact details
++ Your contact information
 Email: {Email address}
 Phone number: {phone number}
+@@ GH52490 @@
 ```
 
 **PROGRESS BUTTONS**
@@ -1056,14 +1083,18 @@ n/a
 
 **PAGE HEADER**
 
-```
-Pending {type of care} appointment
+```diff
+- Pending {type of care} appointment
++ Request for community care
+@@ GH51668 @@
 ```
 
 **PAGE DESCRIPTION**
 
-```
-The time and date of this appointment are still to be determined.
+```diff
+- The time and date of this appointment are still to be determined.
++ We'll try to schedule your appointment in the next 2 business days. Check back here or call your facility for updates.
+@@ GH51668 @@
 ```
 
 **PAGE CONTENT**
@@ -1085,6 +1116,42 @@ Email: {Email address}
 Phone number: {phone number}
 - Call {morning, afternoon, evening}
 @@ GH50990 @@
+```
+
+```diff
++ Type of care 
+
+Preferred community care provider
+{Provider name}
+
+- Preferred date and time
++ Preferred date and timeframe
+{Preferred date & time #1}
+{Preferred date & time #2}
+{Preferred date & time #3}
+
++ Scheduling facility
++ {Facility name} 
++ Main phone number: [XXX-XXX-XXXX](TTY: 711) 
+
++ Preferred provider
++ [Provider name]
++ [Address]
++ Directions
++ Main phone number: [XXX-XXX-XXXX](TTY: 711) 
+
++ Language you’d prefer the provider speak
++ [Language]
+
+- You shared these details about your concern
+- {Booking note}
++ Details you’d like to share with your provider
++ [Booking note]
+
+Your contact details
+Email: {Email address}
+Phone number: {phone number}
+@@ GH52490 @@
 ```
 
 ```Cancel request```
@@ -1103,14 +1170,18 @@ n/a
 
 **PAGE HEADER**
 
-```
-{Type of care} appointment request
+```diff
+- {Type of care} appointment request
++ Canceled request for community care
+@@ GH52490 @@
 ```
 
 **PAGE DESCRIPTION**
 
-```
-{Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
+```diff
+- {Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
++ [Canceler] canceled this request. If you still need an appointment, call us or request a new appointment online.
+@@ GH52490 @@
 ```
 
 **PAGE CONTENT**
@@ -1132,6 +1203,43 @@ Email: {Email address}
 Phone number: {phone number}
 - Call {morning, afternoon, evening}
 @@ GH50990 @@
+```
+
+```diff
+
++ Type of care 
+
+Preferred community care provider
+{Provider name}
+
+- Preferred date and time
++ Preferred date and timeframe
+{Preferred date & time #1}
+{Preferred date & time #2}
+{Preferred date & time #3}
+
++ Scheduling facility
++ {Facility name} 
++ Main phone number: [XXX-XXX-XXXX](TTY: 711) 
+
++ Preferred provider
++ [Provider name]
++ [Address]
++ Directions
++ Main phone number: [XXX-XXX-XXXX](TTY: 711) 
+
++ Language you’d prefer the provider speak
++ [Language]
+
+- You shared these details about your concern
+- {Booking note}
++ Details you’d like to share with your provider
++ [Booking note]
+
+Your contact details
+Email: {Email address}
+Phone number: {phone number}
+@@ GH52490 @@
 ```
 
 **PROGRESS BUTTONS**
@@ -1412,44 +1520,67 @@ n/a
 
 **PAGE HEADER**
 
-```
-Pending {type of care} appointment
+```diff
+- Pending {type of care} appointment
++ We received your request
+@@ GH51648 @@
 ```
 
 **PAGE DESCRIPTION**
 
-```
-Your appointment request has been submitted. The time and date of this appointment are still to be determined.
+```diff
+- Your appointment request has been submitted. The time and date of this appointment are still to be determined.
++ We'll try to schedule your appointment in the next 2 business days. Check back here or call your facility for updates.
+@@ GH51648 @@
 ```
 
-```Review your appointments```
+```diff
+- Review your appointments
++ Review your upcoming appointments
+@@ GH51648 @@
+```
 
-```Schedule a new appointment```
+
+```diff
+- Schedule a new appointment
++ Schedule a new appointment
+@@ GH51648 @@
+```
 
 **PAGE CONTENT**
 
 ```diff
-VA appointment
++ [Type of care]
+
+- VA appointment
++ Facility
 {Facility name}
-{Facility address}
+{Facility address line 1}
+{Facility address line 2}
 Directions
 
 Main phone: {phone number} (TTY: 711)
 
-Preferred type of appointment
-{Office visit, Phone call, Telehealth (through VA Video Connect)}
+- Preferred type of appointment
+- {Office visit, Phone call, Telehealth (through VA Video Connect)}
 
 Preferred date and time
 {Preferred date & time #1}
 {Preferred date & time #2}
 {Preferred date & time #3}
 
-You shared these details about your concern
+- You shared these details about your concern
++ Details you’d like to share with your provider
 {Reason}: {Booking note}
 
-Your contact details
++ How you want to attend
+[Selected modality]
+
+- Your contact details
++ Your contact information
 Email: {Email address}
 Phone number: {phone number}
+@@ GH52490 @@
 ```
 
 ```Cancel request```
@@ -1464,25 +1595,39 @@ none
 
 **FORM TITLE**
 
-```
-NEW APPOINTMENT
+```diff
+- NEW APPOINTMENT
++ REQUEST COMMUNITY CARE
+@@ GH51648 @@
 ```
 
 **PAGE HEADER**
 
-```
-Pending {type of care} appointment
+```diff
+- Pending {type of care} appointment
++ We have recieved your request
+@@ GH51668 @@ 
 ```
 
 **PAGE DESCRIPTION**
 
-```
-Your appointment has been submitted. The time and date of this appointment are still to be determined.
+```diff
+- Your appointment has been submitted. The time and date of this appointment are still to be determined.
++ We'll try to schedule your appointment in the next 2 business days. Check back here or call your facility for updates.
+@@ GH52490 @@
 ```
 
-```Review your appointments```
+```diff 
+- Review your appointments
++ Review your upcoming appointments
+@@ GH52490 @@
+```
 
-```Request a new appointment```
+```diff
+- Request a new appointment
++ Schedule a new appointment 
+@@ GH52490 @@
+```
 
 **PAGE CONTENT**
 
@@ -1504,6 +1649,44 @@ Phone number: {phone number}
 - Call {morning, afternoon, evening}
 @@ GH50990 @@
 ```
+
+```diff
+
++ Type of care 
+
+Preferred community care provider
+{Provider name}
+
+- Preferred date and time
++ Preferred date and timeframe
+{Preferred date & time #1}
+{Preferred date & time #2}
+{Preferred date & time #3}
+
++ Scheduling facility
++ {Facility name} 
++ Main phone number: [XXX-XXX-XXXX](TTY: 711) 
+
++ Preferred provider
++ [Provider name]
++ [Address]
++ Directions
++ Main phone number: [XXX-XXX-XXXX](TTY: 711) 
+
++ Language you’d prefer the provider speak
++ [Language]
+
+- You shared these details about your concern
+- {Booking note}
++ Details you’d like to share with your provider
++ [Booking note]
+
+Your contact details
+Email: {Email address}
+Phone number: {phone number}
+@@ GH52490 @@
+```
+
 
 ```Cancel request```
 

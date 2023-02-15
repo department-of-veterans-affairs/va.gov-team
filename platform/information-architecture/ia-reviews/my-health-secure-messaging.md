@@ -45,12 +45,12 @@ Page-level specifications, like page titles (H1), URL, and breadcrumb.
 - **Breadcrumb**: [VA.gov home](www.va.gov) > [My health](www.va.gov/my-health) > **Messages**
   - Note: The breadcrumb will be suppressed on this page for phase 0, and likely until the My health landing page is launched. 
 
-**Pages: My folders, Advanced search
+**Pages: My folders, Advanced search**
 - **H1**: TBD by Sitewide Content 
 - **Breadcrumb**: [VA.gov home](www.va.gov) > [My health](www.va.gov/my-health) > **Messages**
   - Note: The breadcrumb will be suppressed on this page for phase 0, and likely until the My health landing page is launched. 
 
-**Dynamic views of messages: Inbox, Drafts, Sent, Trash
+**Dynamic views of messages: Inbox, Drafts, Sent, Trash**
 - **H1**: TBD by Sitewide Content 
 - **Breadcrumb**: [VA.gov home](www.va.gov) > [My health](www.va.gov/my-health) > **Messages**
   - Note: The breadcrumb will be suppressed on this page for phase 0, and likely until the My health landing page is launched. 
