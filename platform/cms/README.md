@@ -81,7 +81,7 @@ Full team roster can be found in Confluence [here](https://va-gov.atlassian.net/
 
 Slack channels:
 - [#cms-support](https://dsva.slack.com/channels/cms-support) 
-- [#cms-team](https://dsva.slack.com/channels/cms-team)
+- [#sitewide-cms-platform](https://dsva.slack.com/channels/cms-team)
 
 
 
