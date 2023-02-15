@@ -7,9 +7,9 @@
 
 Date: 02/2023
 
-Designers
-Jessica Stump (jessica.stump@adhocteam.us)
-Nick Osmanski (nick.osmanski@amida.com)
+**Designers**
+- Jessica Stump (jessica.stump@adhocteam.us)
+- Nick Osmanski (nick.osmanski@amida.com)
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -56,15 +56,15 @@ _Research questions here_
 
 _[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
 
-
-* Question 
-* Question
-* Question
+* What tasks are consistently completed by participants with ease?
+* What tasks do the majority of participants struggle with or have some level of difficulty?
+* How successufl are participants in completing the household information section questions?
 
 ## Methodology 
 
 _Brief description of method chosen_
-
+**Usability testing task analysis**
+Post-task and post-testing participant questions
 
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
@@ -83,10 +83,16 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 
 
 The baseline study will help establish that the insights and pain points from previous studies are still consistently an issue with participants in this study.
+"Not enough information"
+
 
 The baseline study will show that there are areas of the form that most participants complete tasks easily (entering personal information or when going through short form flow) or areas that they consistently struggle (household information and insurance).
+"Maybe True"
+
 
 The baseline study will show that the current household information section is a pain point due to the order of the questions and the content supplying additional context.
+"Not enough information"
+
 
 
 ## Key Findings
@@ -97,17 +103,15 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 1. Unfavorable perception towards providing certain information - reporting income and insurance information
 
-2. Finding two
+2. Review pattern is easy-to-use to check answers and make changes prior to submitting
 
-3. Finding three
+3. Stopping points for information gathering
 
-4. Finding four
+4. Confusion and missing information in VA Benefits and Military Service questions
 
-5. Finding five
+5. Dependent definition and question confusion
 
-6. Finding six
 
-7. Finding seven
 
 
 ## Details of Findings 
@@ -132,7 +136,9 @@ Brief description
 > _Supporting data: Quote here_
 
 
-**Finding 2**
+### Finding 2
+
+**ENTER**
 
 Labels: label 1, label 2 
 
@@ -145,8 +151,9 @@ Brief description
 > _Supporting data: Quote here_
 
 
-**Finding 3**
+### Finding 3
 
+**ENTER**
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
@@ -156,11 +163,44 @@ Brief description
 > _Supporting data: Quote here_
 
 > _Supporting data: Quote here_
+
+
+### Finding 4
+
+**ENTER**
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+Brief description
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+
+
+### Finding 5
+
+**ENTER**
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+Brief description
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
 
 
 ## Additional Insights
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+
+1. Most participants indicated they would sign in or create an account prior to completing the application
+2. Introduction page made participants feel prepared
 
 
 
@@ -183,6 +223,7 @@ _Next steps here. Include owners if appropriate._
 
 _If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
 
+- Assistive technology users
 
 
 ## Appendix
