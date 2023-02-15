@@ -40,6 +40,9 @@ ________________________________________________________________________________
 #### Engineering Sprint Goals
 - **GOAL: Test Vets-API Server to EKS in Staging**
    - [Check-In Experience: Testing in Staging Vets-API Server to EKS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52715)
+- [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
+   - **GOAL: Investigate how we would send a text message**
+      - [SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
 - [Handoff from Pre-Check-in to Check-in](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)
    - **GOAL: Begin implementation**
       - next refinement we will have implementation tickets to point
