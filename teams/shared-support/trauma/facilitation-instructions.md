@@ -4,16 +4,17 @@ Signed up to facilitate or scribe a small group or event? We got you covered. Th
 ## Practice Meetings
 
 ### Facilitators
-1. [**Read our community guidelines.**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/community-guidelines.md) You'll be responsible for holding people accountable if they break our community guidelines. 
+1. [**Review our community guidelines.**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/community-guidelines.md) 
 2. **Join 5 minutes early to the meeting.**
 3. **Turn on closed captions.** Use Zoom’s live transcription feature.
 5. **Start with something light.** Prior facilitators have started with light music, panda facts, and rain sounds.
-6. **Review the topics of the week** in the order they were added (or by importance).
-7. **Find a facilitator for the next sync.** Everyone should get an opt-in shot at facilitating the practice meeting. If you can’t find someone, you’ll be responsible for running it next time.
-8. [**Add yourself to our record of facilitator service.**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma) Our meetings are possible thanks to volunteers like you, and we want to publicly thank you for your service! Note: this is 100% optional. 
+6. **Remind the group of our community guidelines.** Pick out a couple of guidelines to share and remind the group to (a) give it a read when they have bandwidth and (b) provide feedback and changes at any time.
+7. **Review the topics of the week** in the order they were added (or by importance).
+8. **Find a facilitator for the next sync.** Everyone should get an opt-in shot at facilitating the practice meeting. If you can’t find someone, you’ll be responsible for running it next time.
+9. [**Add yourself to our record of facilitator service.**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma) Our meetings are possible thanks to volunteers like you, and we want to publicly thank you for your service! Note: this is 100% optional. 
 
 ### Scribes
-1. [**Read our community guidelines.**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/community-guidelines.md) You'll serve as passive backup for holding people accountable if they break our community guidelines.
+1. [**Read our community guidelines.**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/community-guidelines.md) 
 2. [**Read past shared learnings and notes.**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma/notes) It may give you a better idea as to what to capture.
 3. **Join 5 minutes early to the meeting.** 
 4. **Start a slack discussion thread in #trauma-practice.** Ideally we will want to use this, not the built in zoom chat so that our conversation is in a spot others who miss our sync can still reference. 
