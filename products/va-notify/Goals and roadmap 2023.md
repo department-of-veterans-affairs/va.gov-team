@@ -137,6 +137,8 @@ As VA Notify continues to onboard business lines and notification suites are exp
 * 22-1995 (Request for Change of Program or Place of Training)
 * 22-0994 (Application for Veteran Employment Through Technology Education Courses (VET TEC).
 
+**Expected launch date** Depends on Content Approval
+
 ## The rest of the year
 
 ### Q2 CY2023 (April - June)
