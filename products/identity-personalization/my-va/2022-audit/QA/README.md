@@ -37,8 +37,8 @@ We need to test all 35 test cases across the devices, operating systems, and bro
 4. AJ will create the needed ticket(s) to resolve finding, mark it in the Findings table below, and link it in the spreadsheet where the corresponding failure occurred.
 
 ## Findings
-|         | Test case No. | Finding | Operating System| Browser | Device | Reporter | Ticket(s)|
-|---------|---------|-------|---------|---------|-------|-------|-------|
-| | | | |  | | | |
-| | | | |  | | | |
-| | | | |  | | | |
+| Test case No. |    Finding       | Device  | Operating System| Browser |Reporter | Resolution Ticket(s)|
+|---------------|------------------|---------|-----------------|---------|---------|---------------------|
+|               |                  |         |                 |         |         |                     |
+|               |                  |         |                 |         |         |                     |
+|               |                  |         |                 |         |         |                     |
