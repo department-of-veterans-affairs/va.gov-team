@@ -66,7 +66,7 @@ Uncertainty around the claims review process is a significant pain point for Vet
 
 VA Notify currently supports automated, individualized notification events. However, other use cases may be ad-hoc or one-time and should send to a defined list of recipients. VA Notify will  research these opportunities within the VA and build functionality to support these one-off notifications.
 
-#### Email Encyrption
+#### Email Encryption
 ##### Theme(s): Platform Capabilities, Quality / Personal Experience, Performance, Monitoring, & Security
 ##### OCTO Objective(s): Enhance Veterans' personalized online experience
 
@@ -77,6 +77,12 @@ Some notification use cases include sensitive information like PII or PHI. We ca
 ##### OCTO Objective(s): Enhance Veterans' personalized online experience
 
 The Veterans Experience Office (VEO) is furthering its partnership with Cisco to address AudioCARE needs for Veteran prescription and appointment use cases. As the enterprise notification solution for VA, VA Notify will continue to be provider agnostic. VA Notify currently supports Amazon services and Twilio and will add support for Cisco to ensure we can meet notification needs for all VA business lines, regardless of the provider.
+
+#### Support for CC/BCC on Email Notifications
+##### Theme(s): Self-Service / Governance, Quality / Personal Experience
+##### OCTO Objective(s): Enhance Veterans' personalized online experience 
+
+The need for CC/BCC functionality frequently surfaces when discussing potential use cases with business lines. For example, this functionality is essential when considering the PACT Act, as copied VSO’s, VSR’s, and/or caregivers can receive the exact same information the Veteran receives and immediately provide guidance, support, and advocacy throughout the review process. Another potential benefit of CC/BCC is the collection of feedback from copied parties to improve notifications as processes change.
 
 ### Strike Team
 
@@ -194,11 +200,14 @@ Whitelisting functionality allows business lines to limit notification recipient
 #### CISCO webex connect integration
 We are expanding our notification provider integrations to include Cisco, so we can support more VA notification use cases like VEO AudioCARE.
 
-#### Secure Messaging
+#### Email Encryption
 We will implement a secure solution to deliver sensitive information to Veterans digitally.
 
 #### SMTP/Internal Notification Support
 We want the notification experience to be the same regardless of the recipient having an external email address or an internal VA.gov address. Currently VA Notify emails are labelled as "EXTERNAL" when sent to va.gov recipients.
+
+#### CC/BCC Support
+We want to allow business lines to incorporate supporting recipients into emails, like VSOs/VSRs, so Veterans get the notifications they need with the help they need from approved individuals.
 
 #### Multi-Account Support for Providers
 As VA business lines acquire their own provider account(s), VA Notify must add support to send notifications through the appropriate provider and account (Amazon Pinpoint, Twilio, Cisco, etc.).
