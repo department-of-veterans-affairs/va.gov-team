@@ -83,7 +83,12 @@ The Veterans Experience Office (VEO) is furthering its partnership with Cisco to
 #### Promote templates from Staging to Prod
 ##### Theme(s): Self Service / Governance
 
-We know from our users that copying template content from our staging environment to our prod environment is a pain point.  Our goal is have users enter content and/or make changes to content in staging then promote that template to production.  This feature will eliminate the pain point and give our team more governance over what gets launched into production and when.  
+We know from our users that copying template content from our staging environment to our prod environment is a pain point.  Our goal is have users enter content and/or make changes to content in staging then promote that template to production.  This feature will eliminate the pain point and give our team more governance over what gets launched into production and when. 
+
+#### Personilized Dashboard 
+##### Theme(s): Self Service / Governance
+
+Currently, in order to gain analytical insight into their notifications, business lines have to log into Datadog, Google Analytics, and/or Domo, which is not an optimal user experience. We want to bring custom reports containing useful analytics front and center within the Self-Service Portal so business lines can view notification performance metrics and use them to optimize notifications over time.  Additionally, we want to add configurable business logic that can proactively alert the corresponding business line and/or VA Notify when notifications are not being triggered (based on historical performance of the notification template). These alerts can be sent to business line technical leads and/or product owners.
 
 ## 100 foot view: Q1 CY2023 (January - March) roadmap
 
@@ -119,7 +124,7 @@ To keep our platform performing at its best, we plan to execute the following:
 
 ### Strike Team
 
-#### Promote to Production (MVP) - SSUI
+#### Promote to Production (MVP)  - SSUI 
 Streamlining the currently cumbersome process of launching notifications from staging to production will greatly reduce manual effort from VA Notify and business lines resulting in significant cost savings over time. It also enables VA Notify and business lines to concentrate more on identifying opportunities to enhance the Veteran online experience and less on teaching and learning how to use tools.
 
 **Expected launch date**: March/April 2023
@@ -184,11 +189,6 @@ Whitelisting functionality allows business lines to limit notification recipient
 
 **Expected launch date**: May/June 2023
 
-#### CC/BCC - SSUI
-The need for CC/BCC functionality surfaces frequently when discussing potential use cases with business lines. For example, this functionality is especially important when considering the PACT Act, as copied VSO’s, VSR’s, and/or caregivers can receive the exact same information the Veteran receives and immediately provide guidance, support, and advocacy throughout the review process. Another potential benefit of CC/BCC is the collection of feedback from copied parties to improve notifications as processes change.
-
-**Expected launch date**: June 2023
-
 ### Q3 - Q4 CY2023 (July - December)
 ### Notify Team
 #### CISCO webex connect integration
@@ -207,9 +207,6 @@ As VA business lines acquire their own provider account(s), VA Notify must add s
 VA Notify currently partners with VEText to send push notifications for the Flagship Mobile App, which we released in 2022. VA Notify has multiple phases planned to enhance this integration and send these notifications directly with Amazon.
 
 ### Strike Team
-
-#### Analytics Dashboard and Configurable Alerting
-Currently, in order to gain analytical insight into their notifications, business lines have to log into Datadog, Google Analytics, and/or Domo, which is not an optimal user experience. We want to bring custom reports containing useful analytics front and center within the Self-Service Portal so business lines can view notification performance metrics and use them to optimize notifications over time.  Additionally, we want to add configurable business logic that can proactively alert the corresponding business line and/or VA Notify when notifications are not being triggered (based on historical performance of the notification template). These alerts can be sent to business line technical leads and/or product owners.
 
 #### Email Editor Enhancements
 Our user research suggests that using markdown to write emails within the Self-Service Portal is a major barrier to entry. Not only do users have to learn markdown to customize notifications, they have to save their notification drafts to preview them. In our mission to create a one-stop shop for business lines to create and maintain notifications, replacing the markdown editor with a free text editor and adding a preview pane is crucial to facilitate the creation of notifications.  
