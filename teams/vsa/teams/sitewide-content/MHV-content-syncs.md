@@ -36,4 +36,4 @@
 - Look at key terms for vaccines
     - Vaccines vs. immunizations; Laura showed the preliminary SEO data with mixed results for the 2 terms
     - Discussion: Anne noted that “vaccines” is politicized, Laura noted that “Immunizations” is a much longer word
-    - Will be an ongoing content conversation
+    - Will be an ongoing content conversation, and content will connect with clinical SMEs on this question
