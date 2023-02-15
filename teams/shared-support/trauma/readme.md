@@ -49,7 +49,7 @@ Facilitated a practice meeting or small group? You've helped serve as glue for o
 
 ### How do I serve as a facilitator?
 1. Volunteer at our next practice meeting
-2. Follow facilitator instructions here
+2. [Follow facilitator instructions here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/facilitation-instructions.md)
 3. Reach out to the last meeting's facilitator if you have questions or need guidance
 
 ## Scribes 📝
@@ -60,6 +60,6 @@ Took notes for a practice meeting or small group? You've helped share and grow o
 
 ### How do I serve as a scribe?
 1. Volunteer at our next practice meeting
-2. Follow scribe instructions here
+2. [Follow scribe instructions here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/facilitation-instructions.md)
 3. Reach out to the last meeting's scribe if you have questions or need guidance
 
