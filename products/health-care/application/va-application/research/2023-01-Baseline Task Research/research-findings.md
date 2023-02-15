@@ -82,33 +82,34 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 
 
 The baseline study will help establish that the insights and pain points from previous studies are still consistently an issue with participants in this study.
-"Not enough information"
+
+**"Not enough information"**
+
+[Wireflow showing previous research insights in application flow]()
 
 
 The baseline study will show that there are areas of the form that most participants complete tasks easily (entering personal information or when going through short form flow) or areas that they consistently struggle (household information and insurance).
-"Maybe True"
+
+**"Maybe True"**
 
 
 The baseline study will show that the current household information section is a pain point due to the order of the questions and the content supplying additional context.
-"Not enough information"
+
+**"Not enough information"**
 
 
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+1. There were unfavorable perception towards providing certain information, specifically reporting income and insurance information.
 
+2. The review pattern at the end of the application is easy-to-use to check answers and make changes prior to submitting.
 
+3. Stopping points for information gathering occured frequently around discharge papers (DD-214) and income or deductible information. 
 
-1. Unfavorable perception towards providing certain information - reporting income and insurance information
+4. There was confusion and missing information around the VA Benefits and Military Service questions.
 
-2. Review pattern is easy-to-use to check answers and make changes prior to submitting
-
-3. Stopping points for information gathering
-
-4. Confusion and missing information in VA Benefits and Military Service questions
-
-5. Dependent definition and question confusion
+5. Who qualifyies as a dependent, that definition and general question confusion existed for participants who answered yes to having dependents. 
 
 
 
@@ -119,7 +120,7 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 
 ### Finding 1
-**Unfavorable perception towards providing certain information - reporting income and insurance information**
+**Unfavorable perception towards providing certain information, especially reporting income and insurance details**
 
 Labels: label 1, label 2 
 
@@ -127,10 +128,13 @@ _List all labels that apply to this finding from the [research repository label 
 
 Brief description
 
-> _Supporting data: Quote here_
 
-> _Supporting data: Quote here_
+> No, I would not want to provide financial information for any reason. You get your check from the government, so they know how much you get anyways. (P4-15)
 
+>  I think the VA should be for Veterans who can not afford insurance. Now disability is different then using the VA because if that is something you are entitled to you are entitled to it. Me, personally, am in a good financial situation so I would not provide that information because I want these funds to be used for those who are not.
+(P9-11)
+
+> 
 
 ### Finding 2
 
