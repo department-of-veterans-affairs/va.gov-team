@@ -93,10 +93,15 @@ Our hypothesis is that users will be able to navigate through the facility selec
 
 ## Methodology	
 
-**A/B/C usability task analysis and interview questions**
+**User interviews and usability task analysis*
 
 This will be a focused study on only the facility question(s) that is part of the caregiver application. The goal is to understand the usability impact to variations around question wording, location search and selection, and confirmation messaging.  
 
+This will be a rolling study where we will do multiple studies and continue to iterate,
+Cohort 1: User interview, content focus (20 completed sessions)
+Cohort 2: A/B usability task analysis (5 compelted sessions)
+Cohort 3: A/C usability task analysis (5 completed sessions)
+Cohort 4: B/C usability task analysis (5 completed sessions)
 
 
 ### Location
@@ -162,7 +167,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 
 ### Length of sessions
-* Session length: 45 minutes
+* Session length: 30 minutes
 * Buffer time between sessions: 30 minutes
 * Maximum Sessions per day: 4
 
