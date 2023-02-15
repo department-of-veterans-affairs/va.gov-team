@@ -32,21 +32,18 @@ _Once you've presented your research readout to your team, if you have a deck, i
 ## Research Goals
 The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study will focusing on getting an overall baseline understanding of usability for key tasks. We will be focusing on the unauthenticated path using the staging environment for testing.
 
-The health care application product fits into the Veteran journey during the phases:
-
-Taking care of myself
-Starting up
-Retiring
+The health care application product fits into the Veteran journey during the phases: Taking care of myself, starting up, and retiring.
 Attending to health care needs during the starting up phase of the journey is a defined moment that matters, as is taking care of my health during the retiring phase.
 
-**Research Goals**
+Product | 10-10EZ Product Outline
+
+
+The purpose of this study was to: 
+
 1. Obtain a qualitative baseline for tasks within the application to use in comparrison with future studies and iterations.
 2. Overall, what is easy or difficult to complete within the form and why.
 3. Uncover pain point areas that cause confusion and need further discovery and research.
 
-
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
 
 
 
@@ -54,10 +51,6 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 * What tasks are consistently completed by participants with ease?
 * What tasks do the majority of participants struggle with or have some level of difficulty?
 * How successufl are participants in completing the household information section questions?
-
-
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
 
 
 ## Methodology 
@@ -120,7 +113,7 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 
 ### Finding 1
-**Unfavorable perception towards providing certain information, especially reporting income and insurance details**
+**There were unfavorable perception towards providing certain information, specifically reporting income and insurance information.**
 
 Labels: label 1, label 2 
 
@@ -138,7 +131,7 @@ Brief description
 
 ### Finding 2
 
-**ENTER**
+**The review pattern at the end of the application is easy-to-use to check answers and make changes prior to submitting.**
 
 Labels: label 1, label 2 
 
@@ -153,7 +146,7 @@ Brief description
 
 ### Finding 3
 
-**ENTER**
+**Stopping points for information gathering occured frequently around discharge papers (DD-214) and income or deductible information.**
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
@@ -167,7 +160,7 @@ Brief description
 
 ### Finding 4
 
-**ENTER**
+**There was confusion and missing information around the VA Benefits and Military Service questions.**
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
