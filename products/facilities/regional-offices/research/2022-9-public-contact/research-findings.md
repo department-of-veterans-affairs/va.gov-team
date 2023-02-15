@@ -255,7 +255,7 @@ This second group of findings relates to research question 3:
 
 - Veterans expect Public Contact Offices to assist with every benefit service
 - This aligns with a finding from previous research that Veterans expect Regional Benefit Offices to be “one-stop shops” for services
-- VR&E staff are siloed from Public Contact staff
+- VR&E Offices are separate from Public Contact Offices, but this is not clear to Veterans
 - The National Call Center directs Veterans to Regional Offices for tech support that Public Contact staff aren't equipped to provide
 
 > A lot of people think that we are just the catchall and know everything at the Regional Offices. Then they get disappointed when we say, "Oh, we don't offer that service. Sorry you had to drive all the way in to be told that that service is not provided." - P12
@@ -341,7 +341,7 @@ This third group of findings relates to research question 4:
 
 >  They need to have an extra copy, because we're not going to copy the medical records while they wait. - P4
 
-### 12 - Public Contact Offices often stop taking new clients prior to the official closing time
+### 12 - Public Contact Offices may stop taking new clients prior to the official closing time
 
 > I say 8:00 to 3:00, so people at least will get up here by 3:30, and we can serve them properly. - P8
 
