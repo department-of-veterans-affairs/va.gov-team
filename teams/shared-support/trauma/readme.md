@@ -23,7 +23,6 @@ We value everyone in our community, and encourage _anyone_ who has the time, res
 If you've served in any of these roles, you're welcome to add (or not add) your name and any other information to this record. This is completely optional, and acts as a public way of recognizing that no practice can operate without a community of people.
 
 1. Edit this document at the top right corner of this page 
-<img width="370" alt="Screenshot 2023-02-15 at 9 36 55 AM" src="https://user-images.githubusercontent.com/14154792/219058051-abf65ab4-d33c-495a-98b6-1c7461eb8399.png">
 2. Add your name to any/all of the relevant categories below
 
 ## Community members 🫀
