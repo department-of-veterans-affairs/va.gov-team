@@ -64,16 +64,15 @@ Documentation about the CMS lives in various places
 
 ## How to Reach Us
 
-### Platform CMS Team
-- Bentley Hensel, Product Manager - Slack `@Bentley Hensel`
-- Eric Oliver, DevOps Lead - Slack `@Eric Oliver`
-- Tim Cosgrove, Tech Lead - Slack `@Tim Cosgrove`
-
-### Sitewide CMS Team
+### CMS Team
+- Dave Conlon, VA Product Owner, Slack `@Dave Conlon`
 - Erika Washburn, Lead Product Manager - Slack `@Erika Washburn`
 - Dawn Pruitt, Delivery Manager - Slack `@Dawn Pruitt`
-- Steve Wirt, Tech Lead - Slack `@Steve Wirt`
+- Eric Oliver, DevOps Lead - Slack `@Eric Oliver`
+- Tim Cosgrove, Tech Lead - Slack `@Tim Cosgrove`
 - Laura Flannery, Accessibility Lead - Slack `@Laura Flannery`
+- Blake Organ, Content Designer- Slack `@Blake Organ`
+- Joann Agnitti, Senior Researcher- Slack `@Joann Aginitti`
 
 ### CMS Program management
 - Stephen Smythe, Program Manager - Slack `@Stephen Smythe`
@@ -82,8 +81,8 @@ Full team roster can be found in Confluence [here](https://va-gov.atlassian.net/
 
 Slack channels:
 - [#cms-support](https://dsva.slack.com/channels/cms-support) 
-- [#sitewide-cms](https://dsva.slack.com/channels/sitewdie-cms)
-- [#cms-platform](https://dsva.slack.com/channels/cms-platform)
+- [#cms-team](https://dsva.slack.com/channels/cms-team)
+
 
 
 ## Table of contents
