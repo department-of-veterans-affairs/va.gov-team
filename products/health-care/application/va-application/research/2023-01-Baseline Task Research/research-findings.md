@@ -1,13 +1,15 @@
 
 ---
 
-# [2023-01 10-10EZ Usabiltity baseline tasks study] Research Findings 
+# 2023-01 10-10EZ Usability baseline tasks study Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), 10-10EZ health care application, 1010 Team**
 
-Date: 02/DD/2023
+Date: 02/2023
 
-[Designer 1] [email], [Designer 2] [email]
+Designers
+Jessica Stump (jessica.stump@adhocteam.us)
+Nick Osmanski (nick.osmanski@amida.com)
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -28,10 +30,21 @@ _Once you've presented your research readout to your team, if you have a deck, i
 <br>
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study will focusing on getting an overall baseline understanding of usability for key tasks. We will be focusing on the unauthenticated path using the staging environment for testing.
 
-_Then, describe your goals for this research_
+The health care application product fits into the Veteran journey during the phases:
+
+Taking care of myself
+Starting up
+Retiring
+Attending to health care needs during the starting up phase of the journey is a defined moment that matters, as is taking care of my health during the retiring phase.
+
+**Research Goals**
+1. Obtain a qualitative baseline for tasks within the application to use in comparrison with future studies and iterations.
+2. Overall, what is easy or difficult to complete within the form and why.
+3. Uncover pain point areas that cause confusion and need further discovery and research.
+
+
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
 
@@ -52,6 +65,8 @@ _[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team
 
 _Brief description of method chosen_
 
+
+
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
 
 
@@ -66,13 +81,21 @@ _Hypothesis statement_
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
 
+
+The baseline study will help establish that the insights and pain points from previous studies are still consistently an issue with participants in this study.
+
+The baseline study will show that there are areas of the form that most participants complete tasks easily (entering personal information or when going through short form flow) or areas that they consistently struggle (household information and insurance).
+
+The baseline study will show that the current household information section is a pain point due to the order of the questions and the content supplying additional context.
+
+
 ## Key Findings
 
 _The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Finding one
+1. Unfavorable perception towards providing certain information - reporting income and insurance information
 
 2. Finding two
 
@@ -95,7 +118,8 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
+### Finding 1
+**Unfavorable perception towards providing certain information - reporting income and insurance information**
 
 Labels: label 1, label 2 
 
@@ -139,6 +163,7 @@ Brief description
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
 
+
 ## Recommendations
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
@@ -159,18 +184,20 @@ _Next steps here. Include owners if appropriate._
 _If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
 
 
+
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/research-notes)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1675795442255/d89d15982dbce3b0e66b062632a49083f78a15c6?sender=uadf1ed7fe7c76f0914967329)
+
 
 
 ## Pages and applications used
@@ -190,6 +217,9 @@ Include any secondary research you may have.
 E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 
+
+
+
 ## Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
@@ -197,6 +227,9 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 **Recruitment criteria**
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+
+Recruited for participants who did not currently have VA health care as their primary insurance and who did not have a disability rating over 50%. We did have 1 participant out of the 10 who did answer they had a disability rating over 50% and therfore was presented the shortend form flow. 
+
 
 We talked to **10 participants.**
 
