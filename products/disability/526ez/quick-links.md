@@ -39,6 +39,6 @@
 ## Other Related
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
-|526ez PDF form|Paper version of the disability benefits claim form |[Link](https://www.vba.va.gov/pubs/forms/vba-21-526ez-are.pdf)||
+|526ez Application|Online and paper version of the disability benefits claim form |[PDF](https://www.vba.va.gov/pubs/forms/vba-21-526ez-are.pdf)<br>[Online](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction)||
 |Presumptive Claims / PACT Act|Overview<br>Product brief</br>PACT Act cohorts and conditions</br>|[Link](https://www.notion.so/PACT-Act-Overview-for-Presumptive-Claims-RRD-1-d355979b56e04f6f86563d488a328f97)<br>[Link](https://docs.google.com/document/d/1-x5gi6cqBRO1r9pOU6w4ErJzdt_dPo8ZdPR-i4BJW7c/edit?usp=sharing)</br>[Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1653424384094/900672e3ec072fc26f59e20891bb972ce82f2790?sender=u7a056d800c6b0238f8a14300)</br>|2022|
-|||||
+|VA Technical Landscape|Contains descriptions and links to various systems and tools used in development|[Notion](https://www.notion.so/VA-technical-landscape-70866ad79223486f9daa21d8fcb175fc)<br>[Sharepoint](https://dvagov.sharepoint.com/:w:/s/vaabdvro/EWZ1sxd0u69Bk6USWfhSf0wB8u9oKfH2K0nTTtap2RvztQ?e=zgfhML)|Notion page to be depricated soon - Feb 2023|
