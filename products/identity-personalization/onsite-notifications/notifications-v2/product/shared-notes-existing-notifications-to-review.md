@@ -108,9 +108,11 @@ This notification meets our criteria, but numbers are small. Maybe put this in t
 
 - **VA insurance**: Document ready for review
 
-I still have some questions about how useful it would be to surface these given their current content:
+I still have some questions about how useful it would be to surface these given their current content and lack of visibility into what we actually show for appeals in the claim status tool:
 
 - **BVA**: Appeals decision mailed
 - **BVA**: Hearing scheduled
+- **BVA**: Appeal docketed
+- **BVA**: Postponement of hearing
+- **BVA**: Withdrawal of hearing
 - **QuickSubmit**: Failed Submission Email (This is sort of a confirmation, but action is required to resubmit materials.)
-
