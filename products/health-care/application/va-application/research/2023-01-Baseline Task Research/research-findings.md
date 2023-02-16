@@ -147,9 +147,13 @@ _List all labels that apply to this finding from the [research repository label 
 
 Brief description
 
-> _Supporting data: Quote here_
+> [P1-34] It is easy to use. If you have two brain cells you can fill it out. I really like that you can edit instead of going back through to correct something. 
 
-> _Supporting data: Quote here_
+> [P2-31] Makes me feel very confident…I love that it’s in sections…I’m very confident that I would use this, I think it’s great.
+
+> [P7-30] It is very good I like it...It is letting me look at all my information I put in and there is also an edit button if I need to change anything.
+
+> [P12-24] Because it makes everything else [easy] to verify all my information, edit information right here on the spot, you do not have to go through the whole application again to make any changes. It is all on one page.
 
 
 ### Finding 3
