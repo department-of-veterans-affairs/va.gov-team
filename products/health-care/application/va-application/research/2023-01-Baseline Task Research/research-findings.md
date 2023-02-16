@@ -119,15 +119,22 @@ Labels: label 1, label 2
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+4/9 of the participants indicated they did not want to provide their financial information or insurance or they answered no on the financial disclosure page.
 
 
+
+*Income*
 > No, I would not want to provide financial information for any reason. You get your check from the government, so they know how much you get anyways. (P4-15)
 
->  I think the VA should be for Veterans who can not afford insurance. Now disability is different then using the VA because if that is something you are entitled to you are entitled to it. Me, personally, am in a good financial situation so I would not provide that information because I want these funds to be used for those who are not.
-(P9-11)
+>  I think the VA should be for Veterans who can not afford insurance. Now disability is different then using the VA because if that is something you are entitled to you are entitled to it. Me, personally, am in a good financial situation so I would not provide that information because I want these funds to be used for those who are not. (P9-11)
 
-> 
+> If you didn’t have your paperwork, but the IRS has it anyways, so they have it anyways. It tells you they will verify with the IRS anyways. So, in this case you don’t have to do it anyways. (P11-14)
+
+> I just read this section here, they are saying this information is used to see what benefits are given. I make pretty good money, so I am now annoyed by that. I would probably not continue at this time because I would have to gather the information. Some of this stuff I would need to find a copy because someone them I do not have a copy. (P2-3)
+
+*Insurance*
+> I don’t see it why putting the little bit of health insurance I get from my employer. Those two things should not meet. My other insurance should not be charged for anything. (P4-18)
+> I will never agree with the insurance question, but that may just be me. They want to connect so they can charge my healthcare insurance for something they will not cover themselves. Is it fair they can tax onto my other insurance. (P4-37)
 
 ### Finding 2
 
