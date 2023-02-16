@@ -72,7 +72,8 @@ Health summary download page  | www.va.gov/my-health/medical-records/health-summ
 
 6. Records hub left nav
 
-7. My VA
+7. My VA - Health care section
+  - Existing link for "Get your medical records and lab and test results"
 
 8. Va.gov home page (unauth)
 
@@ -84,9 +85,12 @@ Health summary download page  | www.va.gov/my-health/medical-records/health-summ
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
 
 
+- All pages on myhealth.va.gov will need to be redirect by...
+
+
 Current URL | Redirect to | Notes
 --- | --- | ---
- |  | 
+  |  | 
  
 
 
@@ -97,8 +101,11 @@ Current URL | Redirect to | Notes
 
 Open issues:
 - identify phase when entry points should be implemented
-- identify what changes are needed to health care hub and existing get medical records page
+- identify where existing medical records and lab and test results link on My VA links to
+- identify what changes are needed to health care hub, inlcuding the existing get medical records page and lab an tests results page
   - Do we need to broaden page to include access to lab and tests as well as health history, or do we keep individual pages (health history page does not exist)
   - Pull analytics and SEO data on existing pages and keywords for reference
-- timing of redirects
-  - need to identify all myhealth.va.gov URLs to redirect
+- redirects
+  - timing is based on different phases
+  - need to identify who will redirect myhealth.va.gov URLs
+  - 
