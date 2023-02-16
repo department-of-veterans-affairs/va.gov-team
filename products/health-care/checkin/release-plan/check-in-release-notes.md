@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 2/16/2023
+- Fixed a bug that caused the position of the 'back to last screen' action link on the verify emergency contact and next of kin pages to be misaligned
+    - [Ticket 53562](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53562)
+
 ### 2/15/2023
 - Moved the "Answer questions" action link on the Pre-Check-in landing page to the top of the page to encourage & facilitate more completions of the Pre-Check-in process. Initially released to 20% of Veterans but will increase availability daily while monitoring usage metrics.
     - [Epic 52054](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)
