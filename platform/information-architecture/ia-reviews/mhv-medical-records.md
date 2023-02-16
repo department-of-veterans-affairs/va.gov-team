@@ -36,7 +36,7 @@ Lab and test result detail page | Builds on URL for listing page | Desktop: VA.g
 Health history landing page | www.va.gov/my-health/health-history | Desktop: VA.gov home > My Health > [H1 of health history landing page] <br> Mobile: < My health | 
 Allergies listing page | www.va.gov/my-health/health-history/allergies | Desktop:  VA.gov home > My Health > [H1 of health history landing page] > [H1 of allergies listing page] <br> Mobile: < [H1 of health history landing page] |
 Allergies detail page | Builds on URL for listing page  | Desktop:  VA.gov home > My Health > [H1 of health history landing page] > [H1 of allergies listing page] > [H1 of allergies detail page] <br> Mobile: < [H1 of allergies listing page] |
-Notes listing page  | www.va.gov/my-health/health-history/notes | | Desktop:  VA.gov home > My Health > [H1 of health history landing page] > [H1 of notes listing page] <br> Mobile: < [H1 of health history landing page] |
+Notes listing page  | www.va.gov/my-health/health-history/notes | Desktop:  VA.gov home > My Health > [H1 of health history landing page] > [H1 of notes listing page] <br> Mobile: < [H1 of health history landing page] |
 Notes detail page  | Builds on URL for listing page | Desktop:  VA.gov home > My Health > [H1 of health history landing page] > [H1 of notes listing page] > [H1 of notes detail page] <br> Mobile: < [H1 of notes listing page] |
 Health conditions listing page  | www.va.gov/my-health/health-history/conditions | Desktop:  VA.gov home > My Health > [H1 of health history landing page] > [H1 of conditions listing page] <br> Mobile: < [H1 of health history landing page] |
 Health conditions detail page | Builds on URL for listing page | Desktop:  VA.gov home > My Health > [H1 of health history landing page] > [H1 of conditions listing page] > [H1 of conditions detail page] <br> Mobile: < [H1 of conditions listing page] |
@@ -53,17 +53,31 @@ Health summary download page  | www.va.gov/my-health/medical-records/health-summ
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
 
 
-1. [Page URL or component name] - [Add/Modify/Remove]
-  - Placement description: 
-  - Link label: 
-  - Link destination: 
-  - Notes: 
 
-2. [Page URL or component name] - [Add/Modify/Remove]
-  - Placement description: 
-  - Link label:
-  - Link destination: 
-  - Notes: 
+
+1. [My HealtheVet on Va.gov landing page](www.va.gov/my-health) - Health records box
+  - Reorder existing links and update destination pages
+    - Link 1: Lab and test results - www.va.gov/my-health/labs-tests/
+    - Link 2: Health history - www.va.gov/my-health/health-history/
+    - Link 3: Share my medical records - www.va.gov/my-health/medical-records/
+  - Actual link labels to be finalized by Sitewide Content
+
+2. Health care hub page - Manage benefits section
+
+3. Health care hub left nav - Manage section
+
+4. Health care > Get medical records page 
+
+5. Records hub page
+
+6. Records hub left nav
+
+7. My VA
+
+8. Va.gov home page (unauth)
+
+9. My HealtheVet (legacy)
+
  
 
 ## <a name="redirects"></a>Redirects <br>
@@ -76,10 +90,15 @@ Current URL | Redirect to | Notes
  
 
 
-
-
 <hr>
 <hr>
 
 ## <a name="notes"></a>Meetings notes and background info
 
+Open issues:
+- identify phase when entry points should be implemented
+- identify what changes are needed to health care hub and existing get medical records page
+  - Do we need to broaden page to include access to lab and tests as well as health history, or do we keep individual pages (health history page does not exist)
+  - Pull analytics and SEO data on existing pages and keywords for reference
+- timing of redirects
+  - need to identify all myhealth.va.gov URLs to redirect
