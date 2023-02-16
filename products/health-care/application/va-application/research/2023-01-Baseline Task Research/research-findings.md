@@ -52,8 +52,8 @@ The purpose of this study was to:
 
 We conducted hour-long remote moderated research sessions via Zoom on **January 27 - Feburary 10, 2023**. We had participants go through the entire application/form in the staging environment as they would if they were completing as they would.
 
-**Usability testing**
-**Post-task and post-testing participant questions**
+- **Usability testing**
+- **Post-task and post-testing participant questions**
 
 
 
@@ -172,10 +172,12 @@ Labels: label 1, label 2
 Brief description
 *Upload file task / DD-214*
 > It could take anywhere from 5 minutes or 5 days. I could have it in a safe or maybe I have a scanned copy somewhere in my email. If it were in my email 10 minutes, if I didn’t receive it yet it could take months. (P12-14) 
+
 > I would have to contact the VA in St. Louis and request a copy of my DD-214. (P9-9) 
 
 *Income and deductibles*
 > It seems cut and dry. It does throws me off if this is worker’s comp. Now I have to round up more information on stocks, so it would make me want to go back and click on that I do not want to provide this information. (P2-21)
+
 > Depending on sites if they have the information available. Maybe 20 minutes. (P13-12)
 
 
@@ -190,12 +192,16 @@ Brief description
 
 
 > There is just a lot of unnecessary information on here. I don’t know the difference between the compensation/pension. If they could just do a dropdown box, or even have a definition somewhere on the page telling us what the difference is. (P12-11)
+
 > Question on this one, should I just use my first retirement date? I went back on a recall after my first retirement date. You never know which date they want you to use. (P4-12)
+
 > I'm confused because it tells me that I need to click all that apply, but none of those apply to me. I just want something that states 'none apply to me'. (P2-17)
 
 *Missing information*
 > At some point they will put in something about the burn pits too and stuff like that, the burn pits were awful for people. (P7-17) 
+
 > I don’t see anything in regard to the burn pits. I would add that in there definitely. (P9-7)
+
 > Right here it says up to 40% and above 50%, is there nothing between that? (P11-10)
 
 
