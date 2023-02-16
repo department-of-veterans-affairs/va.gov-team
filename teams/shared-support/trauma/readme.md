@@ -1,10 +1,10 @@
 # VA Trauma Community
 Welcome to the VA trauma community ✨
-We're a grassroots, volunteer led practice focused on maturing our approach to trauma from facilitating research to caring for practitioners.
+We're a grassroots, volunteer led multi-disciplinary community focused on maturing our approach to trauma from facilitating research to caring for practitioners. 
 For more on our purpose, check out our [shared learnings from our practice meeting in January](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-01-23.md).
 
 ## How do I join?
-There's no "official" way of joining, but we usually recommend to:
+Anyone can join, regardless of role, title, or status. There's no "official" way of joining, but we usually recommend to:
 - [ ] Join our slack channel at `#trauma-practice`. Don't have access to slack? Reach out to Josh at josh.kim@adhocteam.us for help.
 - [ ] [Read how we work together and our community guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/community-guidelines.md).
 - [ ] Introduce yourself on slack at `#trauma-practice` or at the next practice meeting (this is 100% optional 💙)
@@ -20,7 +20,7 @@ We value everyone in our community, and encourage _anyone_ who has the time, res
 ### Joining our public list of community members
 If you've served in any of these roles, you're welcome to add (or not add) your name and any other information to this list. This is completely optional, and is meant to:
 1. recognize that we can't do this without a community of people
-2. connect practitioners together
+2. connect our people together
 3. celebrate those who have served
 
 #### Instructions
