@@ -14,9 +14,9 @@
 
 ### Secondary navigation (where applicable)
 
-- [ ] The page is displayed as an option within the secondary nav
-- [ ] The placement of the option in the secondary nav represents the same hierarchy as the URL
-- [ ] **If the page is translated,** the translated segments of the navigation have appropriate tags
+- [X] The page is displayed as an option within the secondary nav
+- [X] The placement of the option in the secondary nav represents the same hierarchy as the URL
+- [ ] **If the page is translated,** the translated segments of the navigation have appropriate tags **Note:** Not applicable right now, but will be soon
 
 ### On this page component
 
