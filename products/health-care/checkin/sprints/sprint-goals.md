@@ -25,6 +25,9 @@ ________________________________________________________________________________
    - **GOAL: Explore BTSSS latency solution**    
       - [[Content] Write two text messages for claim status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53567)
       - [[Design] Update wireframe(s) for "no" to travel user flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53461)
+- [Move Action Link on Pre-Check-in Intro Page & Perform A/B Test](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)
+   - **GOAL: Solve the issue of "Answer questions" when there are no questions to answer**
+      - [[Design] Update text of pre check in action link on introduction page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53793)
 - [Send Check-in Text 45 Minutes Before Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)
    - **GOAL: Create Content for Text Messages & Pass to VeText**
       - [Create Content for Text Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53569)
