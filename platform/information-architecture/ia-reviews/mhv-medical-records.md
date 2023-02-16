@@ -74,6 +74,7 @@ Health summary download page  | www.va.gov/my-health/medical-records/health-summ
 
 7. My VA - Health care section
   - Existing link for "Get your medical records and lab and test results"
+    ![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/1e8b24d5-3a89-4ef0-8b43-b97b933b5d6d)
 
 8. Va.gov home page (unauth)
 
@@ -108,4 +109,5 @@ Open issues:
 - redirects
   - timing is based on different phases
   - need to identify who will redirect myhealth.va.gov URLs
-  - 
+- User flow changes 
+  - can we bypass the static page for authenticated users
