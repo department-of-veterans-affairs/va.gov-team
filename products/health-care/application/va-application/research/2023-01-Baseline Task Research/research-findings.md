@@ -127,14 +127,19 @@ Labels: [AUD: Veterans], [BNFT: Healthcare], [TREND: Content]
 
 > I just read this section here, they are saying this information is used to see what benefits are given. I make pretty good money, so I am now annoyed by that. I would probably not continue at this time because I would have to gather the information. Some of this stuff I would need to find a copy because someone them I do not have a copy. (P2-3)
 
+
 Some participants noted the mention of IRS or verifying with and assumed they would have to upload or connect to their tax return or that this should be verifyied automatically and they should not have to provide on the application. 
 
 > If I were to upload my tax information would this auto populate? If it was there I would appreciate it because I already went through the trouble of uploading it so it would be nice if it did it. (P12-19)
+
 > Yes, do we just have to download taxes? (goes back to first paragraph to read through)(P14-21)
+
 > This just gets my goat. IRS is not nice word. (P2-20)
+
 
 *Insurance*
 > I don’t see it why putting the little bit of health insurance I get from my employer. Those two things should not meet. My other insurance should not be charged for anything. (P4-18)
+
 > I will never agree with the insurance question, but that may just be me. They want to connect so they can charge my healthcare insurance for something they will not cover themselves. Is it fair they can tax onto my other insurance. (P4-37)
 
 
@@ -165,8 +170,9 @@ Say if I needed to go back to the financial part to verify I may not, but I woul
 
 ### Finding 3
 
-**Stopping points for information gathering occured frequently around discharge papers (DD-214) and income or deductible information.**
+**Stopping/pausing points for information gathering occured frequently around discharge papers (DD-214) and income or deductible information.**
 Labels: label 1, label 2 
+
 
 
 Brief description
@@ -175,10 +181,15 @@ Brief description
 
 > I would have to contact the VA in St. Louis and request a copy of my DD-214. (P9-9) 
 
+> Young veterans would be fine with this but idk you still have old veterans. They are eligible to use VA benefits but they don’t know what they qualify for or how to find it….my husband runs into a veteran who doesn’t re…these older people might not know how to do the technical part. (P14-18)
+
+
 *Income and deductibles*
 > It seems cut and dry. It does throws me off if this is worker’s comp. Now I have to round up more information on stocks, so it would make me want to go back and click on that I do not want to provide this information. (P2-21)
 
 > Depending on sites if they have the information available. Maybe 20 minutes. (P13-12)
+
+> This is enough information to get me started. The only thing I would need to look at is this gross household income because that would be through my husband. (P14-6)
 
 
 
@@ -188,14 +199,16 @@ Brief description
 Labels: label 1, [TREND: Content] 
 
 Brief description
+- 7/9 (excluding short form participant) mentioned some item of confusion or noted that they thought something was missing when they completed the questions in these two setions. 
 
-
-
+*VA Benefits*
 > There is just a lot of unnecessary information on here. I don’t know the difference between the compensation/pension. If they could just do a dropdown box, or even have a definition somewhere on the page telling us what the difference is. (P12-11)
 
+*Military Service*
 > Question on this one, should I just use my first retirement date? I went back on a recall after my first retirement date. You never know which date they want you to use. (P4-12)
 
 > I'm confused because it tells me that I need to click all that apply, but none of those apply to me. I just want something that states 'none apply to me'. (P2-17)
+
 
 *Missing information*
 > At some point they will put in something about the burn pits too and stuff like that, the burn pits were awful for people. (P7-17) 
