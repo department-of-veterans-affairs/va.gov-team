@@ -7,7 +7,10 @@ Last updated February 2023
 This README page serves as a "front door" to documentation and resources pertaining to the MVP for CMS notifications. CMS Notifications began as an email trigger to editors regarding VA Directive 6102 which requires Veteran-facing public website content to be reviewed once per year for accuracy. 
 
 
-## Product Artifacts
+## Product Context/Decisions
+
+
+
 ## Research Artifacts
 - [VA Directive 6102 Compliance Discovery](https://app.mural.co/t/vagov6717/m/vagov6717/1662643881820/ad0f6da63dba4998516450701abca6ec1944ec74?sender=ud7d3055567694e54f0133356)
 
