@@ -21,6 +21,6 @@ This README page serves as a "front door" to documentation and resources pertain
 - Product Owner: Dave Conlon (OCTO-DE)
 - Product Manager: Erika Washburn (Friends From The City)
 - Delivery Manager: Dawn Pruitt (Agile 6)
-- Engineering: CMS Team (Agile 6)
+- Engineering: CMS Team/Edmund Dunn (Agile 6)
 - Designer/Researcher: Blake Organ (CivicActions)
 - Accessibility Lead: Laura Flannery (CivicActions)
