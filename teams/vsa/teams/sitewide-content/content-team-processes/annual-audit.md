@@ -55,11 +55,13 @@ The OCTO audit will identify and create tickets to fix issues with these items f
 ### On this page component
 
 - [ ] The page has an "on this page" component if appropriate
-- [ ] 
 
-- Identify content that should move in position (i.e. from benefit hub to R&S) based on the content placement criteria. 
-- 
-- Audit all content pages against the content pre-publication checklist for broken links, content design, plain language, and accessibility issues.
-- Audit all content pages against the IA checklist.
-- Audit all content against relevant content briefs and content style guide. Make any needed changes to content and flag any relevant additions needed to briefs or guide. 
-- Run and record grade level checks of each page for documentation. Determine if we need to address grade level.
+### Content on page
+
+- [ ] Header levels are hierarchical
+- [ ] The page has no broken links
+- [ ] The intro paragraph has no more than 2 to 4 sentences and is within 200 to 400 characters with spaces
+- [ ] The content is free of ability-focused language
+- [ ] Content aligns with relevant content brief (create or update brief as needed)
+
+**Note:** Run and record grade level checks of each page for documentation. Flag any pages with higher than 8th grade scores (with no content prep) and put in backlog for further review.
