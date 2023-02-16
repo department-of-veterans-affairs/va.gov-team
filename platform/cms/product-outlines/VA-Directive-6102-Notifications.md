@@ -1,6 +1,6 @@
 WIP
 
-# CMS Notifications- VA Directive 6102
+# CMS Notifications for VA Directive 6102
 
 Last updated February 2023
 
@@ -8,7 +8,7 @@ This README page serves as a "front door" to documentation and resources pertain
 
 
 ## Product Context/Decisions
-
+VA Directive 6102 states that, at minimum, web content should be reviewed by web editors once per year. The CMS timestamps content when migrated or last saved by a human editor, therefore, we can track when content has been published. The coorelation between the requirement of 6102 and the content flagging abilities of Drupal allow the CMS Team to create and send emails at a specified time.
 
 
 ## Research Artifacts
