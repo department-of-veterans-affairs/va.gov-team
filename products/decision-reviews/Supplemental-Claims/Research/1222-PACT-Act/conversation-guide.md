@@ -123,6 +123,8 @@ _Goal. Veterans understand and certify that they have read and understand the du
 - Tell me what you're being shown.
  - In your own words, what do you think this alert is telling you?
 - Describe what this page is for.
+- Click on the link.
+- How will you use this information?
  - What would you expect to happen if you choose “I certify?”
  - If not?
 
@@ -164,7 +166,7 @@ _Goal. Veterans understand where they are in the form and summarize the decision
 ### [Optional] Task 6b. New and relevant evidence: add new evidence
 _Goal. Veterans understand that they can add evidence to their claim_
 
-**Scenario:** We will be shifting our scenario. Imagine that you now remember you visited the VA medical facilities recently, and have new evidence that shows the severity of your asthma.
+**Scenario:** We will be shifting our scenario. Imagine that you want to include anecdotal evidence about your time in service, and how it's linked to your asthma.
 
 - How would you go about adding that new evidence?
 - What information is this page requesting from you?
@@ -186,6 +188,7 @@ _Goal: Review the claim information that you’ve entered, understand how to cha
  - Start over?
 - What do you think happens next?
 - What do you expect this confirmation page to have?
+- What do you expect the Print the Page button will do?
 
 #### Things to watch out for:
 * Do users understand the accordion behavior to review each section?
