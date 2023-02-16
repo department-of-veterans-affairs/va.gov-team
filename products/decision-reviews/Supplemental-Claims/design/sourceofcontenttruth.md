@@ -182,6 +182,18 @@ _Error_
 You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure your Social Security number and date of birth are on file. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
 
 ---
+## Your Intent to File request has been submitted
+Thank you for submitting your Intent to File request for disability compensation. Your Intent to File will expire on February 07, 2024.
+
+**Please note:** We found a previous Intent to File request in our records that expired on February 24, 2022. This IT might have been from an application you started, but didn't finish before the ITF expired. Or, it could have been from a claim you already submitted.
+
+What is an Intent to File? (expand) \
+
+An Intent to File request lets VA know that you're planning to file a claim. An Intent to File reserves a potential effective date for when you could start getting benefits while you prepare your disability claim and gather supporting documents.
+
+**_CONTINUE_**
+
+---
 ## Step 1 of 4: Veteran information
 We'll save your application every time you add or update information.
 
@@ -274,11 +286,11 @@ If you’d like to add an issue for review, please select “Add a new issue” 
 
 We'll save your application every time you add or update information.
 
-**Opt-in to the new decision review process**
+**The new decision review process**
 
-If you’re filing a Supplemental Claim for an issue in an initial claim that we decided before February 19, 2019, you’ll need to opt in to the new decision review process. When you do this, we’ll move your issue from the old appeals process to the new decision review process. You’re likely to get a faster decision on your claim when you switch to the new process.
+By filing a Supplemental Claim online, you are opting in to the new decision review process. When you do this, we’ll move your issue from the old appeals process to the new decision review process. You’re likely to get a faster decision on your claim when you switch to the new process.
 
-- [ ] I understand that I'm opting in to the new decision review process. This means any isues I want reviewed from the old appeals process will move into the new decision review process. 
+If you wish to continue your decision review in the old process, please refer to your decision letter for further details.
 
 **_BACK_**
 
@@ -290,19 +302,17 @@ If you’re filing a Supplemental Claim for an issue in an initial claim that we
 
 We'll save your application every time you add or update information.
 
-**Review and acknowledge this notice of evidence needed.**
+### Info Alert /  If you have a presumptive condition
 
-You’ll need to submit new evidence we haven’t reviewed before that’s related to the issue you’re claiming.
+If you’re filing a claim for a condition that we now consider presumptive under a new law or regulation (like the PACT Act), you can submit this form for review.
 
-We’ll look for evidence that shows both of these are true:
+### Review and acknowledge this notice of evidence needed
 
-You have a current physical or mental disability (damage to your body or mind that makes you less able—or totally unable—to do everyday tasks, including meaningful work), and
+If you are filing for review of an issue more than one year after VA provided notice of our decision, please visit this page on VA.gov to review the 38 U.S.C. 5103 information regarding evidence necessary to substantiate your claim:
 
-An event, injury, or illness that happened while you were serving in the military caused this disability
+- Evidence to support a claim for Veterans Disability Compensation and related Compensation benefits: https://www.va.gov/disability/how-to-file-claim/evidence-needed/
 
-You'll need to submit or give us permission to gather medical evidence from a VA medical center, other federal facility, or your private health care provider.
-
-- [ ] I certify that I have reviewed the notice of evidence needed. (*Required)
+- [ ] **I certify that** I have reviewed the notice of eviden ce needed. (*Required)
 
 **_BACK_**
 
