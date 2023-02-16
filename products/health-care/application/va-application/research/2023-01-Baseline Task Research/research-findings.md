@@ -97,11 +97,11 @@ The baseline study will show that the current household information section is a
 
 2. The review pattern at the end of the application is easy-to-use to check answers and make changes prior to submitting.
 
-3. Stopping points for information gathering occured frequently around discharge papers (DD-214) and income or deductible information. 
+3. Stopping points for information gathering occurred frequently around discharge papers (DD-214) and income or deductible information. 
 
 4. There was confusion and missing information around the VA Benefits and Military Service questions.
 
-5. Who qualifyies as a dependent, that definition and general question confusion existed for participants who answered yes to having dependents. 
+5. Who qualifies as a dependent, that definition and general question confusion existed for participants who answered yes to having dependents. 
 
 
 
