@@ -1,6 +1,6 @@
 WIP
 
-# VA Directive 6102 Notifications
+# CMS Notifications- VA Directive 6102
 
 Last updated February 2023
 
