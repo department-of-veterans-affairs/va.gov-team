@@ -1,7 +1,6 @@
 WIP
-
-## Services provided to product teams by the CMS Team Slack `@sitewide-cms-platform
- * Product discovery and roadmapping, including [Scoping exercise](cms-scoping-exercise.md)
+Services provided to product teams by the CMS Team (Slack `@sitewide-cms-platform`)
+ * Product discovery and roadmapping, including [CMS Collaboration Cycle](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/1791459333/CMS+Collaboration+Cycle)
  * Content modeling
    * Content model refactoring
  * Drupal editorial experience design
