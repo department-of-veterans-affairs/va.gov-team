@@ -40,6 +40,9 @@ ________________________________________________________________________________
 #### Engineering Sprint Goals
 - **GOAL: Test Vets-API Server to EKS in Staging**
    - [Check-In Experience: Testing in Staging Vets-API Server to EKS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52715)
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)    
+   - **GOAL: Prepare for Staging Review**
+       - [[BUG] User should see "VA Appointment" when value for Type of Care is absent](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53780)
 - [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
    - **GOAL: Investigate how we would send a text message**
       - [SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
