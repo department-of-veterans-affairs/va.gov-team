@@ -32,8 +32,7 @@ _Once you've presented your research readout to your team, if you have a deck, i
 ## Research Goals
 The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. 
 
-Product | 10-10EZ Product Outline
-
+- Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
 The purpose of this study was to: 
 
@@ -55,6 +54,7 @@ We conducted hour-long remote moderated research sessions via Zoom on **January 
 
 **Usability testing**
 **Post-task and post-testing participant questions**
+
 
 
 ## Hypotheses and Conclusions
@@ -114,7 +114,7 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 ### Finding 1
 **There were unfavorable perception towards providing certain information, specifically reporting income and insurance information.**
 
-Labels: [AUD: Veterans], [BNFT: Healthcare] [TREND: Content]
+Labels: [AUD: Veterans], [BNFT: Healthcare], [TREND: Content]
 
 4/9 of the participants indicated they did not want to provide their financial information or insurance or they answered no on the financial disclosure page.
 
@@ -137,34 +137,30 @@ Some participants noted the mention of IRS or verifying with and assumed they wo
 > I don’t see it why putting the little bit of health insurance I get from my employer. Those two things should not meet. My other insurance should not be charged for anything. (P4-18)
 > I will never agree with the insurance question, but that may just be me. They want to connect so they can charge my healthcare insurance for something they will not cover themselves. Is it fair they can tax onto my other insurance. (P4-37)
 
+
 ### Finding 2
 
 **The review pattern at the end of the application is easy-to-use to check answers and make changes prior to submitting.**
 
-Labels: label 1, label 2 
+Labels: [DSP: Form feedback], [DSC: Accordions]
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Overall participants reacted favorably on the review page and were able to intuitively open, review and change their information as needed. 
+There was one sugestion of being able to also upload their DD-214 on the review page.
 
-- 7/10 participants made comments relating to feeling confident they would submit the form based on the review page.
-- 8/10 participants made specific reference to the ability to edit their information right on the page.
 
-*Confidence*
+- 8/10 participants were able to successfuly comment on how to edit and make updates on the review page.
+- 8/10 participants rated the review page 5/5 and the other 2 participants did not provide a rating at all, but provided positive comments. 
 
-> [P1-34] It is easy to use. If you have two brain cells you can fill it out. I really like that you can edit instead of going back through to correct something. 
+> It is great. It has all the information here for you, and if you need to fix a mistake it has the edit button here that you do not have to go back. (P9-15)
 
-> [P2-31] Makes me feel very confident…I love that it’s in sections…I’m very confident that I would use this, I think it’s great.
+> Well, it says edits, so I would go ahead and edit it like that. Then I would update page and it changes it. (P7-29)
 
-> [P7-30] It is very good I like it...It is letting me look at all my information I put in and there is also an edit button if I need to change anything.
+> 5, it is easy to use. If you have two brain cells you can fill it out. I really like that you can edit instead of going back through to correct something. (P1-34)
 
-> [P12-24] Because it makes everything else [easy] to verify all my information, edit information right here on the spot, you do not have to go through the whole application again to make any changes. It is all on one page.
+*Potential Pain Points**
+> It brought over all the information from earlier. There is an edit button if you want to change anything. I don’t see an option to upload or change the document on this page. You should add that on this page. (P11-28)
 
-*Editing information*
-
-> [P13-14] You can review your information by clicking the plus mark, and if anything was wrong I could edit it. It is pretty easy. User-friendly. You have to click that everything is true.
-
-> [P9-15] It is great. It has all the information here for you, and if you need to fix a mistake it has the edit button here that you do not have to go back.
-
-> [P4-24] It has a blue edit button, and it brings it up the way I put it in, and I can change it if I want.
+Say if I needed to go back to the financial part to verify I may not, but I would be worried because there is nothing here that says it would save my progress. (P12-25)
 
 
 ### Finding 3
@@ -172,33 +168,41 @@ _List all labels that apply to this finding from the [research repository label 
 **Stopping points for information gathering occured frequently around discharge papers (DD-214) and income or deductible information.**
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
+*Upload file task / DD-214*
+> It could take anywhere from 5 minutes or 5 days. I could have it in a safe or maybe I have a scanned copy somewhere in my email. If it were in my email 10 minutes, if I didn’t receive it yet it could take months. (P12-14) 
+> I would have to contact the VA in St. Louis and request a copy of my DD-214. (P9-9) 
 
-> _Supporting data: Quote here_
+*Income and deductibles*
+> It seems cut and dry. It does throws me off if this is worker’s comp. Now I have to round up more information on stocks, so it would make me want to go back and click on that I do not want to provide this information. (P2-21)
+> Depending on sites if they have the information available. Maybe 20 minutes. (P13-12)
 
-> _Supporting data: Quote here_
 
 
 ### Finding 4
 
 **There was confusion and missing information around the VA Benefits and Military Service questions.**
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Labels: label 1, [TREND: Content] 
 
 Brief description
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
 
 
+> There is just a lot of unnecessary information on here. I don’t know the difference between the compensation/pension. If they could just do a dropdown box, or even have a definition somewhere on the page telling us what the difference is. (P12-11)
+> Question on this one, should I just use my first retirement date? I went back on a recall after my first retirement date. You never know which date they want you to use. (P4-12)
+> I'm confused because it tells me that I need to click all that apply, but none of those apply to me. I just want something that states 'none apply to me'. (P2-17)
 
+*Missing information*
+> At some point they will put in something about the burn pits too and stuff like that, the burn pits were awful for people. (P7-17) 
+> I don’t see anything in regard to the burn pits. I would add that in there definitely. (P9-7)
+> Right here it says up to 40% and above 50%, is there nothing between that? (P11-10)
+
+
+ 
 ### Finding 5
 
-**ENTER**
+**There was some confusion around dependents - who qualifies and how some questions were phrased.**
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
@@ -208,6 +212,10 @@ Brief description
 > _Supporting data: Quote here_
 
 > _Supporting data: Quote here_
+
+
+
+
 
 
 
@@ -215,6 +223,8 @@ Brief description
 
 1. Most participants indicated they would sign in or create an account prior to completing the application
 2. Introduction page made participants feel prepared
+3. Particpants called out birth sex question and expectation of gender identity options
+4. 
 
 
 
@@ -252,16 +262,16 @@ _Next steps here. Include owners if appropriate._
 
 [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1675795442255/d89d15982dbce3b0e66b062632a49083f78a15c6?sender=uadf1ed7fe7c76f0914967329)
 
-
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1wajAZRSEix8zrz2S4ye22p3TDryuMkCELJqfKICVVh4/edit?usp=sharing)
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
-
+- 10-10EZ health care application - staging environment
 
 ## Other supporting documents created
 
-e.g. user flows, personas, etc.
+- [Wireflow baseline tasks](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/Om1gbwq)
+
 
 
 ## Secondary research
