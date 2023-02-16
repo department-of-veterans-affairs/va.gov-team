@@ -7,7 +7,6 @@ Welcome to the CEDAR Identity Login.gov Adoption Team. We're excited to have you
 - [ ] Confirm access to Slack channels (#va-identity-product-team & #cedar-identity-product-team)
 - [ ] Confirm access to [VA CEDAR Identity Google Drive](https://drive.google.com/drive/folders/1THzmYaOjGwxhQX-eWR-KQWepPgkjUqhe?usp=share_link)
 - [ ] Review [Performance Work Statement](https://docs.google.com/document/d/1Q0UDmaO78au-p2ec_XmfoYqjDct9fhKd/edit?usp=sharing&ouid=113935907412888271383&rtpof=true&sd=true)
-- [ ] Attend VA 101 primer
 - [ ] Share (or create and share) your Github handle and email with [Elizabeth Koch](https://dsva.slack.com/team/U043UFQG98V)
 - [ ] Confirm you have access to the Digital Service @ VA Slack
 - [ ] Confirm you have access to VA Github
@@ -18,6 +17,8 @@ Welcome to the CEDAR Identity Login.gov Adoption Team. We're excited to have you
 - [ ] [Review previous research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research)
 - [ ] [Review previous sprint demo decks](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/presentations/sprint%20demos)
 - [ ] Add [contact information to Project Team tab here](https://docs.google.com/spreadsheets/d/18LUvaTxHe__Ae54O3yUHFwhEpQZrqf-f-312drKsOwc/edit?usp=sharing)
+- [ ] Once you get your PIV card [download the citrix client](https://raportal.vpn.va.gov/Downloads.aspx)
+- [ ] Access [VA Citrix Access Gateway(CAG)](https://citrixaccess.va.gov/vpn/index_citrix_splash.html) for VA Citrix Remote Access. 
 
 ## CEDAR Identity Login.gov Adoption Project
 ### Background
