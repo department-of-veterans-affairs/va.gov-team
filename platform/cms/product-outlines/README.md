@@ -4,6 +4,7 @@
 * [The CMS Design System](./cms-design-system)
 * [The CMS Notifications Framework](./cms-notification-framework)
 * [The CMS Notifications Center](./cms-notifications-center)
+* [CMS Notifications for VA Directive 6102](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-outlines/VA-Directive-6102-Notifications.md)
 * [The CMS Orientation for VFS Teams](./cms-orientation-for-vfs-teams)
 * [Editorial Workflow Assignments and Notifications](./editorial-workflow-assignments-and-notifications)
 * [Enterprise Asset Management System](./enterprise-asset-management-system)
