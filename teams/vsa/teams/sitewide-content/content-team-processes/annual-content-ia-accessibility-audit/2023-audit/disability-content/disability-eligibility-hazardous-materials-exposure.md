@@ -32,8 +32,8 @@
 - [ ] "Who's covered?" section is removed (if applicable)
 
 ## Grade level score using Flesh-Kincaid with no prep
-- Before edits: 10.4
-- After edits: 10.2
+- Before edits: 14.1
+- After edits: 
 
 - [ ] Backlog ticket for further review created if needed
 
