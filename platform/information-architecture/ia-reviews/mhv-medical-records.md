@@ -23,7 +23,7 @@
 <br>
 - The medical records features will be organized into 3 separate groups within the MHV on VA.gov experience: lab and test resutls, health history, and medical records
 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/6785426a-ea90-4600-a52c-11b8eae831d2)
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/39f2c201-c5e2-48cd-89ad-ddb8d731482a)
 
 
 ## <a name="url"></a>URLs and breadcrumbs
