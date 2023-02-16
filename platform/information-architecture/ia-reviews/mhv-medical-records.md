@@ -101,6 +101,7 @@ Current URL | Redirect to | Notes
 ## <a name="notes"></a>Meetings notes and background info
 
 Open issues:
+- identify what phases breadcrumb needs to be suppressed for - until it is linked to from the va.gov landing page
 - identify phase when entry points should be implemented
 - identify where existing medical records and lab and test results link on My VA links to
 - identify what changes are needed to health care hub, inlcuding the existing get medical records page and lab an tests results page
