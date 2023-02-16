@@ -9,6 +9,7 @@
 |Staging|Login to Staging site for va.gov|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/staging-login-instructions.md)||
 |526ez Process Flow Diagram|End to end process flow for core submission created by Lighthouse team|[Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1663868736153/1040f1c6df6230104917bdff6e5e157264ef9153?sender=u9943b9a042c336e83bb20590)||
 |Pre 2023 Documents|Majority of Github documents for 526ez were about 3 years old and were moved to the archive folder |[Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/archive)|2019 and older|
+|eVSS to LH migration status|Agenda for the biweekly touchpoint as well as status of each endpoint migration|[Link](https://community.max.gov/pages/viewpage.action?spaceKey=VAExternal&title=Lighthouse+-+VA.gov+Touchpoint+Topics)||
 
 
 ## Research
