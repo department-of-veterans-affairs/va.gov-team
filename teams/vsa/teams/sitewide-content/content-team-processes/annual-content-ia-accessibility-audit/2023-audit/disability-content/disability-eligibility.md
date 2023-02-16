@@ -9,7 +9,7 @@
 
 - [X] The page displays a breadcrumb
 - [X] The breadcrumb represents the same hierarchy as the URL
-- [ ] The breadcrumb segments match the H1 of the pages in the navigation path exactly **Note:** Breadcrumb and H1 don't match exactly - issue added to backlog notes**          
+- [ ] The breadcrumb segments match the H1 of the pages in the navigation path exactly **Note:** Breadcrumb and H1 don't match exactly - issue added to backlog notes          
 - [ ] **If the page is translated,** the translated segments of the breadcrumb have appropriate tags
 
 ### Secondary navigation (where applicable)
