@@ -152,9 +152,9 @@ Labels: [DSP: Form feedback], [DSC: Accordions]
 Overall participants reacted favorably on the review page and were able to intuitively open, review and change their information as needed. 
 There was one sugestion of being able to also upload their DD-214 on the review page.
 
-
 - 8/10 participants were able to successfuly comment on how to edit and make updates on the review page.
 - 8/10 participants rated the review page 5/5 and the other 2 participants did not provide a rating at all, but provided positive comments. 
+
 
 > It is great. It has all the information here for you, and if you need to fix a mistake it has the edit button here that you do not have to go back. (P9-15)
 
@@ -162,16 +162,16 @@ There was one sugestion of being able to also upload their DD-214 on the review 
 
 > 5, it is easy to use. If you have two brain cells you can fill it out. I really like that you can edit instead of going back through to correct something. (P1-34)
 
-*Potential Pain Points**
+*Potential Pain Points*
 > It brought over all the information from earlier. There is an edit button if you want to change anything. I don’t see an option to upload or change the document on this page. You should add that on this page. (P11-28)
 
-Say if I needed to go back to the financial part to verify I may not, but I would be worried because there is nothing here that says it would save my progress. (P12-25)
+> Say if I needed to go back to the financial part to verify I may not, but I would be worried because there is nothing here that says it would save my progress. (P12-25)
 
 
 ### Finding 3
 
 **Stopping/pausing points for information gathering occured frequently around discharge papers (DD-214) and income or deductible information.**
-Labels: label 1, label 2 
+Labels: label 1, [DSP: Files] 
 
 
 
@@ -224,16 +224,16 @@ Brief description
 **There was some confusion around dependents - who qualifies and how some questions were phrased.**
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
 
-> _Supporting data: Quote here_
+> That is just an odd question. I feel there should be a N/A option because that is stating that you do have a dependent between that age frame. If you click no or N/A you should not have to fill in a dollar amount. (P11-17)
 
-> _Supporting data: Quote here_
+> I grew up thinking a dependent is a kid, but my ex-wife is a dependent by military standards. (P1-24)
 
+> Old military dependent. I have a 19-year-old so she is over the age of dependent but she can be on Tricare until she is 25. Now they say family member they don’t say dependent. It made me pause because I was used to being a dependent for so long. (P14-22)
 
-
+> I am curious, you should have a checkbox that says they became your dependent on the same day as birth. I do understand why that is there in case you adopted or have a stepchild. (P12-17)
 
 
 
