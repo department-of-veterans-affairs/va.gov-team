@@ -78,18 +78,20 @@ The baseline study will help establish that the insights and pain points from pr
 
 **"Not enough information"**
 
-[Wireflow showing previous research insights in application flow]()
+- [Wireflow showing previous research insights in application flow]()
+- 
 
 
 The baseline study will show that there are areas of the form that most participants complete tasks easily (entering personal information or when going through short form flow) or areas that they consistently struggle (household information and insurance).
 
 **"Maybe True"**
+- The participants 
 
 
 The baseline study will show that the current household information section is a pain point due to the order of the questions and the content supplying additional context.
 
 **"Not enough information"**
-
+- We did not have many participants went through all of the household information flow elements including spouse and multiple dependents. 
 
 
 ## Key Findings
@@ -115,13 +117,9 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 ### Finding 1
 **There were unfavorable perception towards providing certain information, specifically reporting income and insurance information.**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Labels: [AUD: Veterans], [BNFT: Healthcare] [TREND: Content]
 
 4/9 of the participants indicated they did not want to provide their financial information or insurance or they answered no on the financial disclosure page.
-
-
 
 *Income*
 > No, I would not want to provide financial information for any reason. You get your check from the government, so they know how much you get anyways. (P4-15)
@@ -131,6 +129,12 @@ _List all labels that apply to this finding from the [research repository label 
 > If you didn’t have your paperwork, but the IRS has it anyways, so they have it anyways. It tells you they will verify with the IRS anyways. So, in this case you don’t have to do it anyways. (P11-14)
 
 > I just read this section here, they are saying this information is used to see what benefits are given. I make pretty good money, so I am now annoyed by that. I would probably not continue at this time because I would have to gather the information. Some of this stuff I would need to find a copy because someone them I do not have a copy. (P2-3)
+
+Some participants noted the mention of IRS or verifying with and assumed they would have to upload or connect to their tax return or that this should be verifyied automatically and they should not have to provide on the application. 
+
+> If I were to upload my tax information would this auto populate? If it was there I would appreciate it because I already went through the trouble of uploading it so it would be nice if it did it. (P12-19)
+> Yes, do we just have to download taxes? (goes back to first paragraph to read through)(P14-21)
+> This just gets my goat. IRS is not nice word. (P2-20)
 
 *Insurance*
 > I don’t see it why putting the little bit of health insurance I get from my employer. Those two things should not meet. My other insurance should not be charged for anything. (P4-18)
