@@ -1,7 +1,7 @@
 
 ---
 
-# 2023-01 10-10EZ Usability baseline tasks study Research Findings 
+# 2023-01 10-10EZ Usability baseline tasks study research findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), 10-10EZ health care application, 1010 Team**
 
@@ -30,7 +30,7 @@ _Once you've presented your research readout to your team, if you have a deck, i
 <br>
 
 ## Research Goals
-The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study will focusing on getting an overall baseline understanding of usability for key tasks. We will be focusing on the unauthenticated path using the staging environment for testing.
+The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. 
 
 Product | 10-10EZ Product Outline
 
@@ -51,12 +51,10 @@ The purpose of this study was to:
 
 ## Methodology 
 
-_Brief description of method chosen_
+We conducted hour-long remote moderated research sessions via Zoom on **January 27 - Feburary 10, 2023**. We had participants go through the entire application/form in the staging environment as they would if they were completing as they would.
+
 **Usability testing**
 **Post-task and post-testing participant questions**
-
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
 
 
 ## Hypotheses and Conclusions
