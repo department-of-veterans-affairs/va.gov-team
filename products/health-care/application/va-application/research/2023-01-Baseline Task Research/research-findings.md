@@ -32,18 +32,14 @@ _Once you've presented your research readout to your team, if you have a deck, i
 ## Research Goals
 The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. Veterans can do this either as an unauthenticated user or as an authenticated user. This is an existing product and this research study will focusing on getting an overall baseline understanding of usability for key tasks. We will be focusing on the unauthenticated path using the staging environment for testing.
 
-The health care application product fits into the Veteran journey during the phases: Taking care of myself, starting up, and retiring.
-Attending to health care needs during the starting up phase of the journey is a defined moment that matters, as is taking care of my health during the retiring phase.
-
 Product | 10-10EZ Product Outline
 
 
 The purpose of this study was to: 
 
-1. Obtain a qualitative baseline for tasks within the application to use in comparrison with future studies and iterations.
+1. Obtain a qualitative baseline for tasks within the application to use in comparrison with past studies and future iterations.
 2. Overall, what is easy or difficult to complete within the form and why.
 3. Uncover pain point areas that cause confusion and need further discovery and research.
-
 
 
 
@@ -56,7 +52,8 @@ The purpose of this study was to:
 ## Methodology 
 
 _Brief description of method chosen_
-**Usability testing Post-task and post-testing participant questions
+**Usability testing**
+**Post-task and post-testing participant questions**
 
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
@@ -78,20 +75,22 @@ The baseline study will help establish that the insights and pain points from pr
 
 **"Not enough information"**
 
-- [Wireflow showing previous research insights in application flow]()
+- [Wireflow showing previous research insights in application flow](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/dlJob5E)
 - 
 
 
-The baseline study will show that there are areas of the form that most participants complete tasks easily (entering personal information or when going through short form flow) or areas that they consistently struggle (household information and insurance).
+The baseline study will show that there are areas of the form that most participants complete tasks easily (entering personal information) or areas that they consistently struggle (household information and insurance).
 
 **"Maybe True"**
-- The participants 
+- The participants generally had took more effort to answer questions in the household information section around income and the insurance questions, however participants were also confused in the VA benefits or military service sections as well.
 
 
 The baseline study will show that the current household information section is a pain point due to the order of the questions and the content supplying additional context.
 
 **"Not enough information"**
-- We did not have many participants went through all of the household information flow elements including spouse and multiple dependents. 
+- We did not have many participants who went through all of the household information flow elements including spouse and multiple dependents. 
+- More participants in this study suggested they would not want to provide this information or it should be collected by other means.
+
 
 
 ## Key Findings
