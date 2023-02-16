@@ -145,7 +145,10 @@ Labels: label 1, label 2
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+- 7/10 participants made comments relating to feeling confident they would submit the form based on the review page.
+- 8/10 participants made specific reference to the ability to edit their information right on the page.
+
+**Confidence**
 
 > [P1-34] It is easy to use. If you have two brain cells you can fill it out. I really like that you can edit instead of going back through to correct something. 
 
@@ -154,6 +157,14 @@ Brief description
 > [P7-30] It is very good I like it...It is letting me look at all my information I put in and there is also an edit button if I need to change anything.
 
 > [P12-24] Because it makes everything else [easy] to verify all my information, edit information right here on the spot, you do not have to go through the whole application again to make any changes. It is all on one page.
+
+**Editing information**
+
+> [P13-14] You can review your information by clicking the plus mark, and if anything was wrong I could edit it. It is pretty easy. User-friendly. You have to click that everything is true.
+
+> [P9-15] It is great. It has all the information here for you, and if you need to fix a mistake it has the edit button here that you do not have to go back.
+
+> [P4-24] It has a blue edit button, and it brings it up the way I put it in, and I can change it if I want.
 
 
 ### Finding 3
