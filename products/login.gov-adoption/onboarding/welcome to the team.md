@@ -49,8 +49,8 @@ December 2022 - 2023
 |UX Designer|Carolyn Williams|carolyn@themostudio.com|
 |Senior Product Manager|Anthony Levin-Decanini|anthony@themostudio.com|
 |Full Stack Developer|Melissa Miller|mmiller@pluribusdigital.com|
-|Full Stack Developer|TBD|TBD|
-|Senior Interaction Designer|TBD|TBD|
+|Staff Engineer|Jesse James|jesse.james@themostudio.com|
+|Interaction Designer|Sofia Kirkman|sofia@themostudio.com|
 
 ### Discovery team
 August - December 2022
