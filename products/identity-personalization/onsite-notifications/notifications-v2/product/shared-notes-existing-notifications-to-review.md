@@ -110,7 +110,7 @@ This notification meets our criteria, but numbers are small. Maybe put this in t
 
 I still have some questions about how useful it would be to surface these given their current content and lack of visibility into what we actually show for appeals in the claim status tool:
 
-- **BVA**: Appeals decision mailed
+- **BVA**: Appeals decision mailed -- It sounds like there is no guarantee that appeals decision letters show in the decision tool. Because of unreliable data, I don't think it's a good idea to surface this as an onsite notification unless we can confirm that appeals letters will always show.
 - **BVA**: Hearing scheduled
 - **BVA**: Appeal docketed
 - **BVA**: Postponement of hearing
