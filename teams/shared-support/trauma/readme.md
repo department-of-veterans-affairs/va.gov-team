@@ -48,7 +48,7 @@ Attended a practice meeting or small group? Lurk on our slack channel? Then you'
 - elizabeth.straghalis@gmail.com, [LinkedIn](https://www.linkedin.com/in/elizabeth-tutella-straghalis-b302343/)
 - I want to give people agency to show up and share their experience, to be fully present in difficult conversations, and to be a part of a community who is working to create spaces for new ways of working.
 
-</hr>
+<hr/>
 
 ### Facilitators 👐
 Facilitated a practice meeting or small group? You've helped serve as glue for our community 🩹
@@ -64,7 +64,7 @@ Facilitated a practice meeting or small group? You've helped serve as glue for o
 2. [Follow facilitator instructions here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/facilitation-instructions.md)
 3. Reach out to the last meeting's facilitator if you have questions or need guidance
 
-</hr>
+<hr/>
 
 ### Scribes 📝
 Took notes for a practice meeting or small group? You've helped share and grow our learnings 🪴
