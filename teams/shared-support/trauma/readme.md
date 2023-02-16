@@ -13,7 +13,7 @@ There's no "official" way of joining, but we usually recommend to:
   - Sign up for the next small group (on slack) or [join our next practice meeting (email invite)](https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=bGZ0djFzdmRhY2s5NGZ1MmY0aDdlOHV1bXZfMjAyMzAyMjBUMjEwMDAwWiBqb3NoLmtpbUBhZGhvY3RlYW0udXM&amp;tmsrc=josh.kim%40adhocteam.us&amp;scp=ALL)
   - Check out our [past shared learnings in our notes folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma/notes)
 
-## Participating and connecting with our community
+## Participate and connect with our community
 We value everyone in our community, and encourage _anyone_ who has the time, resources, and comfort to share their talents in the following roles:
 - Participated (including silent participation) in a practice meeting, small group, or on slack as a **community member** 🫀
 - Guided a meeting as a **facilitator** 👐
@@ -29,7 +29,7 @@ If you've served in any of these roles, you're welcome to add (or not add) your 
 1. Edit this document at the top right corner of this page 
 2. Add your name to any/all of the relevant categories below
 
-## Community members 🫀
+### Community members 🫀
 Attended a practice meeting or small group? Lurk on our slack channel? Then you're _one of us_. Every single person, regardless of how they participate, is a valued member of our community. We are nothing without our people 💙
 
 <!--
@@ -47,7 +47,7 @@ Attended a practice meeting or small group? Lurk on our slack channel? Then you'
 - I want to give people agency to show up and share their experience, to be fully present in difficult conversations, and to be a part of a community who is working to create spaces for new ways of working.
 
 
-## Facilitators 👐
+### Facilitators 👐
 Facilitated a practice meeting or small group? You've helped serve as glue for our community 🩹
 
 - Rachael Dietkus
@@ -56,18 +56,18 @@ Facilitated a practice meeting or small group? You've helped serve as glue for o
 - Liz Straghalis
 - Josh Kim
 
-### How do I serve as a facilitator?
+#### How do I serve as a facilitator?
 1. Volunteer at our next practice meeting
 2. [Follow facilitator instructions here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/facilitation-instructions.md)
 3. Reach out to the last meeting's facilitator if you have questions or need guidance
 
-## Scribes 📝
+### Scribes 📝
 Took notes for a practice meeting or small group? You've helped share and grow our learnings 🪴
 
 - Martha Wilkes
 - Josh Kim
 
-### How do I serve as a scribe?
+#### How do I serve as a scribe?
 1. Volunteer at our next practice meeting
 2. [Follow scribe instructions here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/facilitation-instructions.md)
 3. Reach out to the last meeting's scribe if you have questions or need guidance
