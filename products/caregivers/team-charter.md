@@ -151,7 +151,7 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 #### User story validation
 - All team members are responsible for validation, but different team members will specialize in different areas.
 - For anything considered a "release" or significant change, the QA lead will be responsible for QA
-- Engineers will be responsible for ensuring and documenting in the ticket that all acceptance criteria are met
+- Engineers will be responsible for ensuring, and documenting in the ticket, that all acceptance criteria are met
 - Design is responsible for ensuring that design and content specifications are met
 - PM and PO will be responsible for end-to-end QA and communication to stakeholders
 
@@ -185,7 +185,7 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
-- Extra time? Explore the "Ready" column in ZenHub.
+- Extra time? Explore the "Ready to pickup" column in [ZenHub](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/board).
 
 ## VA relationships
 
@@ -203,7 +203,6 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 - Thamaraiselvi (Tham) Kaliannan  | thamaraiselvi.kaliannan@va.gov -- PM, scheduling
 
 **CARMA team/MuleSoft.Salesforce team**
-- Thamaraiselvi (Tham) Kaliannan | THAMARAISELVI.KALIANNAN@va.gov - PM, scheduling
 - Paul Kuprionas | paul.kuprionas@va.gov - CARMA tech lead
 - Ramesh Dugar | ramesh.dugar@va.gov - CARMA engineer
 - David Wald | David.Wald@va.gov - testing/integration lead
