@@ -1,35 +1,33 @@
-# Content Management System
+# Content Management System (Drupal)
 
 **Editor-centered management for Veteran-centered content**
 
 The CMS team's mission is to empower VA content editors with the tools they need to create Veteran-centered content. We work to build a content management system that is easy to use, scalable, and facilitates Veteran-centered experiences on VA.gov and beyond.
 
-The CMS has two teams, a Platform CMS Team and a Sitewide CMS Team. Our work includes:
+CMS Team work includes:
 
-| Platform CMS Team | Sitewide CMS Team |
-| --- | --- |
-| Content API Performance & Scalability | Onboarding of new Products |
-| DevOps / Infrastructure / Demo Environments | Data Migration for Product teams |
-| CMS Application Architecture & Quality Control | CMS Training |
-| Accelerated Publishing Effort | Content Ops: Editorial Workflows & Tools |
-| | Product Strategy & Launch Runbooks |
-| | User Account & Permissions Governance |
-| | Content Strategy / Modeling / Governance |
-| | UX Design & Research |
-| | Drupal Engineering for Product teams |
-| | CMS Design System |
-| | [CMS Helpdesk](helpdesk) |
+- Content API Performance & Scalability
+- DevOps, Infrastructure, and Demo Environments 
+- Data Migration for Product teams usng Drupal  
+- CMS Application Architecture & Quality Control
+- CMS Training and User Support
+- Accelerated Publishing Effort (currently on hold as of September 2022)
+- Content Ops: Editorial Workflows, Content Strategy, Modeling, Governance
+- Drupal Product Strategy & Launch Runbooks 
+- User Account & Permissions Governance
+- UX Design & Research
+- Drupal Engineering for Product teams
+- CMS Design System
+
 
 ## CMS-supported products at VA.gov
 
 A product is defined as a set of related features that drive specific outcomes with vets or other audiences. They typically are built with a cluster of content types.  
 
-[CMS Product Sheets](VA-CMS-Product-Sheets.pdf) (PDF) provides an overview of all products managed in the CMS. 
-
 Products owned by Facilities team
 1. **VAMC system** (eg www.va.gov/pittsburgh-health-care). Eventually housing 1200+ VHA facilities across 150 VAMC systems. 
 1. **Facility status** for VBA facilities, NCA facilities, and Vet Centers (each of these represent stubs of future products)
-2. **Vet Center**
+2. **Vet Centers**
 
 Products owned by Public Websites 
 1. **VA.gov megamenu** (and possibly in the future, footer)
@@ -73,9 +71,6 @@ Documentation about the CMS lives in various places
 - Laura Flannery, Accessibility Lead - Slack `@Laura Flannery`
 - Blake Organ, Content Designer- Slack `@Blake Organ`
 - Joann Agnitti, Senior Researcher- Slack `@Joann Aginitti`
-
-### CMS Program management
-- Stephen Smythe, Program Manager - Slack `@Stephen Smythe`
 
 Full team roster can be found in Confluence [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/811171875/Both+Teams+Scrum+Notes+May+26+2021+-).
 
