@@ -5,9 +5,9 @@ For more on our purpose, check out our [shared learnings from our practice meeti
 
 ## How do I join?
 There's no "official" way of joining, but we usually recommend to:
-- [ ] Join our slack channel at #trauma-practice. Don't have access to slack? Reach out to Josh at josh.kim@adhocteam.us for help.
+- [ ] Join our slack channel at `#trauma-practice`. Don't have access to slack? Reach out to Josh at josh.kim@adhocteam.us for help.
 - [ ] [Read how we work together and our community guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/community-guidelines.md).
-- [ ] Introduce yourself on slack at #trauma-practice or at the next practice meeting (this is 100% optional 💙)
+- [ ] Introduce yourself on slack at `#trauma-practice` or at the next practice meeting (this is 100% optional 💙)
 - [ ] Sign up for the next small group (on slack) or [join our next practice meeting (email invite)](https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=bGZ0djFzdmRhY2s5NGZ1MmY0aDdlOHV1bXZfMjAyMzAyMjBUMjEwMDAwWiBqb3NoLmtpbUBhZGhvY3RlYW0udXM&amp;tmsrc=josh.kim%40adhocteam.us&amp;scp=ALL)
 - [ ] Check out our [past shared learnings in our notes folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma/notes)
 
