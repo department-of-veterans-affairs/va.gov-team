@@ -148,7 +148,7 @@ _List all labels that apply to this finding from the [research repository label 
 - 7/10 participants made comments relating to feeling confident they would submit the form based on the review page.
 - 8/10 participants made specific reference to the ability to edit their information right on the page.
 
-**Confidence**
+*Confidence*
 
 > [P1-34] It is easy to use. If you have two brain cells you can fill it out. I really like that you can edit instead of going back through to correct something. 
 
@@ -158,7 +158,7 @@ _List all labels that apply to this finding from the [research repository label 
 
 > [P12-24] Because it makes everything else [easy] to verify all my information, edit information right here on the spot, you do not have to go through the whole application again to make any changes. It is all on one page.
 
-**Editing information**
+*Editing information*
 
 > [P13-14] You can review your information by clicking the plus mark, and if anything was wrong I could edit it. It is pretty easy. User-friendly. You have to click that everything is true.
 
