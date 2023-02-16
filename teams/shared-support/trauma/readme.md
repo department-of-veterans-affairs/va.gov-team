@@ -29,7 +29,7 @@ If you've served in any of these roles, you're welcome to add (or not add) your 
 1. Edit this document at the top right corner of this page 
 2. Add your name to any/all of the relevant categories below
 
-</hr>
+<hr/>
 
 ### Community members 🫀
 Attended a practice meeting or small group? Lurk on our slack channel? Then you're _one of us_. Every single person, regardless of how they participate, is a valued member of our community. We are nothing without our people 💙
