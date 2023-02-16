@@ -5,7 +5,7 @@ ________________________________________________________________________________
 ## 2/22/2023 - 3/7/2023 ---------------------------  FUTURE & TENTATIVE --------------------------------------
 
 #### OVERALL GOALS
-- **ANALYTICS: Analyze VSignals**   
+- **ANALYTICS: Determine what our metrics are telling us**   
 - **TRAVEL: Address check-in failure scenario, potential to prioritize info messages, & build latency solution**   
 - **VAOS COMPATABILITY: Test & prepare for Staging Review**
 - **UNIFIED CIE: Prepare for research study**
