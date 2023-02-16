@@ -40,10 +40,10 @@ Health Products
 - Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
 - Danielle Thierry | danielle.thierry@va.gov - Content writer
 - Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us - Product manager
-- Nick Osmanski | nick.osmanski@va.gov / nick.osmanski@amida.com -- UX Design/Research
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us - Sr UX Design/Research
-- Lisa Zapson | lisa.zapson@va.gov / lisa.zapson@adhocteam.us - Frontend Engineer
-- Matt Long | matthew.long@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
+- David "DK" Kennedy | david.kennedy@va.gov / david.kennedy@adhocteam.us - UX Designer
+- Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
+- Erin Flaherty | erin.flaherty@va.gov / erin.flaherty@adhocteam.us - Sr Frontend/QA Engineer
 - Lihan Li | han.li@va.gov / lihan@adhocteam.us - Backend Engineer
 
 ---
@@ -151,7 +151,7 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 #### User story validation
 - All team members are responsible for validation, but different team members will specialize in different areas.
 - For anything considered a "release" or significant change, the QA lead will be responsible for QA
-- Engineers will be responsible for ensuring and documenting in the ticket that all acceptance criteria are met
+- Engineers will be responsible for ensuring, and documenting in the ticket, that all acceptance criteria are met
 - Design is responsible for ensuring that design and content specifications are met
 - PM and PO will be responsible for end-to-end QA and communication to stakeholders
 
@@ -185,7 +185,7 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
-- Extra time? Explore the "Ready" column in ZenHub.
+- Extra time? Explore the "Ready to pickup" column in [ZenHub](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/board).
 
 ## VA relationships
 
@@ -197,7 +197,7 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 - Danielle Thierry | danielle.thierry@va.gov - Content writer
 
 **HEC (Health Eligibility Center) Program Team**
-- Tarsha Tremble | tarsha.tremble@va.gov -- Management Analyst HEC, scheduling (main point of contact between the program and VA.gov)
+- TBD (main point of contact between the program and VA.gov)
 - Stacey Echols  | stacey.echols@va.gov  --  Deputy Director, HEC
 - Christopher Hawkins  | christopher.hawkins2@va.gov  -- Supervisory Management Analyst
 - Zachariah Bell  | zachariah.bell@va.gov  -- Acting ECM Supervisory Program Specialist
@@ -218,4 +218,4 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 ### Recurring stakeholder meetings
 
 - 10-10EZ Online Application Update
-   - HEC team and VA.gov team meet bi-weekly on Wednesdays at 2pm ET/11am PT for 1 hour
+   - HEC team and VA.gov team meet bi-weekly on Wednesdays at 2pm ET/11am PT for 1 hour (Pending new Project Lead)
