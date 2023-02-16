@@ -26,6 +26,7 @@
 ![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/39f2c201-c5e2-48cd-89ad-ddb8d731482a)
 
 
+
 ## <a name="url"></a>URLs and breadcrumbs
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
@@ -101,6 +102,7 @@ Current URL | Redirect to | Notes
 ## <a name="notes"></a>Meetings notes and background info
 
 Open issues:
+- Need to determine if secondary nav is needed in initial  phases for health history, or possibly a combo secondary left nav that brings these sections together
 - identify what phases breadcrumb needs to be suppressed for - until it is linked to from the va.gov landing page
 - identify phase when entry points should be implemented
 - identify where existing medical records and lab and test results link on My VA links to
