@@ -6,8 +6,8 @@ Agenda
 - Demo Topic(s)
   -  Navigation 2.0 Update - Jon Bindbeutel 
 -  Discussion Topic - Sprint 0 - Kelly Lein 
-- Slides - [Demo Video Nav and Sprint 0 021623.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/10759686/Demo.Video.Nav.and.Sprint.0.021623.pdf)
-- Recording of Demo - coming soon
+- Slides - [VA Mobile App Demo Slides - 2_16_23.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/10760511/VA.Mobile.App.Demo.Slides.-.2_16_23.pdf)
+-Demo Video - coming soon 
 
 
 --- 
