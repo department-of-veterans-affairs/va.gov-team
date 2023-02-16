@@ -176,6 +176,8 @@ Labels: label 1, [DSP: Files]
 
 
 Brief description
+
+
 *Upload file task / DD-214*
 > It could take anywhere from 5 minutes or 5 days. I could have it in a safe or maybe I have a scanned copy somewhere in my email. If it were in my email 10 minutes, if I didn’t receive it yet it could take months. (P12-14) 
 
@@ -190,6 +192,9 @@ Brief description
 > Depending on sites if they have the information available. Maybe 20 minutes. (P13-12)
 
 > This is enough information to get me started. The only thing I would need to look at is this gross household income because that would be through my husband. (P14-6)
+
+> I would need clarity on this one because are they just talking college? I sometimes attend different events to future my education for my career. I attend other things that I would considered educational. I am taking an educational course on Google Sheets, so would that count? (P2-25)
+
 
 
 
