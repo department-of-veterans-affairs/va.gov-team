@@ -236,6 +236,9 @@ Brief description
 > I am curious, you should have a checkbox that says they became your dependent on the same day as birth. I do understand why that is there in case you adopted or have a stepchild. (P12-17)
 
 
+## Partipant Self-Reported Ratings
+_To add images: ![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/images/ParticipantRatings.png)
+
 
 
 ## Additional Insights
