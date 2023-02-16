@@ -29,6 +29,8 @@ If you've served in any of these roles, you're welcome to add (or not add) your 
 1. Edit this document at the top right corner of this page 
 2. Add your name to any/all of the relevant categories below
 
+</hr>
+
 ### Community members 🫀
 Attended a practice meeting or small group? Lurk on our slack channel? Then you're _one of us_. Every single person, regardless of how they participate, is a valued member of our community. We are nothing without our people 💙
 
@@ -46,6 +48,7 @@ Attended a practice meeting or small group? Lurk on our slack channel? Then you'
 - elizabeth.straghalis@gmail.com, [LinkedIn](https://www.linkedin.com/in/elizabeth-tutella-straghalis-b302343/)
 - I want to give people agency to show up and share their experience, to be fully present in difficult conversations, and to be a part of a community who is working to create spaces for new ways of working.
 
+</hr>
 
 ### Facilitators 👐
 Facilitated a practice meeting or small group? You've helped serve as glue for our community 🩹
@@ -60,6 +63,8 @@ Facilitated a practice meeting or small group? You've helped serve as glue for o
 1. Volunteer at our next practice meeting
 2. [Follow facilitator instructions here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/facilitation-instructions.md)
 3. Reach out to the last meeting's facilitator if you have questions or need guidance
+
+</hr>
 
 ### Scribes 📝
 Took notes for a practice meeting or small group? You've helped share and grow our learnings 🪴
