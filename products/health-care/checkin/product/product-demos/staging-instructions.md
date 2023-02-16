@@ -8,6 +8,17 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 
 ## VistA Staging Appointment Tool (Only available to those with a GitHub account)
 
+### Test Patients to Use
+You can use one of the following test patients.
+| Last Name | Date of Birth |
+|----------------| ------------ |
+| Fortyfour | 1935-04-07	| 
+| Fortyfive | 1935-04-07	| 
+| Fortysix | 1935-04-07	| 
+| Fortyseven | 1935-04-07	| 
+| Fortyeight | 1935-04-07	| 
+| Fortyeight | 1935-04-07	| 
+
 ### Reset Your Confirmations
 - Navigate to the [Staging Tool](https://vigilant-couscous-ab7fb4a4.pages.github.io/)
   - NOTE: you will need to be on the VA network to access the tool
