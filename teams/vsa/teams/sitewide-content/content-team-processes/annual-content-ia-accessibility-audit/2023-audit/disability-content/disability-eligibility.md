@@ -1,17 +1,16 @@
 ## https://www.va.gov/disability/eligibility/
 
 ### URL
-- [ ] URL follows VA.gov URL standards
-- [ ] URL correctly represents the placement of the page in the IA of the site
-- [ ] URL includes primary keyword and aligns with the H1
+- [X] URL follows VA.gov URL standards
+- [X] URL correctly represents the placement of the page in the IA of the site
+- [X] URL includes primary keyword and aligns with the H1
 
 ### Breadcrumb
 
-- [Y] The page displays a breadcrumb
-- [Y] The breadcrumb represents the same hierarchy as the URL
-- [N] The breadcrumb segments match the H1 of the pages in the navigation path exactly
-    
-- [NA] **If the page is translated,** the translated segments of the breadcrumb have appropriate tags
+- [X] The page displays a breadcrumb
+- [X] The breadcrumb represents the same hierarchy as the URL
+- [ ] The breadcrumb segments match the H1 of the pages in the navigation path exactly **Note:** Breadcrumb and H1 don't match exactly - issue added to backlog notes**          
+- [ ] **If the page is translated,** the translated segments of the breadcrumb have appropriate tags
 
 ### Secondary navigation (where applicable)
 
