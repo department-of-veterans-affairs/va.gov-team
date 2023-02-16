@@ -119,8 +119,8 @@ but it is a govn't website
 - 0 = No part of the task completed, much difficulty
 - 1 = Partial completion, much overlooked or task was difficult 
 - 2 = Partial completion, some areas were overlooked or task was slightly difficult
-- 3 = Most of the task was completed with little difficulty
-- [4] = All parts of the task were completed with no difficulty 
+- [3] = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty 
 
 
 ---
@@ -135,11 +135,9 @@ but it is a govn't website
 - If I tried to enrol in this without a disability rating
 - I don't have a rating yet, but I am going to play like i did
 - [clicks on 50% or higher]
-
-
 - Shorted application
 - [Not eligibile for Medicaid]
-- GOES BACK
+- GOES BACK AND ANSWERS NO
 
 
 ### Things to watch for:
@@ -166,6 +164,14 @@ but it is a govn't website
 ### Things to watch for:
 - [Does the participant understand the questions and content through these sections?]
 - [Does the participant comment that the questions are too intrusive or the VA should have this information?]
+
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- [4] = All parts of the task were completed with no difficulty 
 
 
 ## Task: [Upload a file] - 3 minutes
@@ -210,7 +216,11 @@ but it is a govn't website
 
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
- - 
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- [4] = All parts of the task were completed with no difficulty 
 
 
 ## Task: Marital status and spouse information - 3 minutes
@@ -226,6 +236,13 @@ but it is a govn't website
 
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty 
+- [NA]
+
 
 
 ## Task: Adding dependents - 5 minutes
@@ -235,17 +252,9 @@ but it is a govn't website
 - Ok, I get it
 - Your dependent could be your mom, or wife or child
 
-
-
-**Participant questions:**
-- What worked well for you?
-- What was unclear or didn’t work well for you?
-- What would you like to change or add?
-
 - Um.... no
 - It took me a second what is going on here, but it makes sense
 - I grew up thinking a dependent is a kid, but my ex-wife is a dependent by military standards
-
 
 ### Things to watch for:
 - [Does the participant need to use the additional info of "Who does VA consider a dependent" to answer the question?]
@@ -254,7 +263,11 @@ but it is a govn't website
 
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
-
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- [3] = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty 
 
 ## Task: Editing and removing a dependent - 3 minutes
 **Quotes, notes and observations:**
@@ -273,21 +286,16 @@ but it is a govn't website
 **Quotes, notes and observations:**
 - Reads through content
 - There is that kid, they don't have any income
--
 
 
-**Participant questions:**
-- What worked well for you?
-- What was unclear or didn’t work well for you?
-- What would you like to change or add?
-
-
-### Things to watch for:
-- [Does the participant comment on the onboarding page or do they spend a lot of time here?]
-- [Does the participant interact with any of the additional information components for more context needed?]
 
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- [3] = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty 
 
 
 ## Task: Deductible information - 5 minutes
@@ -335,6 +343,16 @@ Health insurance question
 - [Makes up info]
 - (unclear question) The insurance seems pretty simple
 
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- [3] = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty 
+
+
+
 
 [VA Facilities page]
 - [reads affordable care act checkbox and additional info]
@@ -347,6 +365,13 @@ Health insurance question
 - (have you ever used/heard it]
 - I have heard of it, you also have it right here (points to header)
 
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- [2] = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty 
 
 
 ---
@@ -380,6 +405,13 @@ If we are smart people, we are dilligent and scroll through and submit the appli
 - [Does the participant give any reason for pause or why they wouldn's submit the application?]
 - [Does the participant interact with any of the accordions or try and edit any information?]
 
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- [4] = All parts of the task were completed with no difficulty 
 
 ---
 ## Task: Confirmation Page - 3 minutes
@@ -396,6 +428,14 @@ If we are smart people, we are dilligent and scroll through and submit the appli
 - (expect to see)
 - I imagine theoretically there should be a case number or something. But that would probably be assinged to you after review, so no.
 - It is simple, you did the thing, here is the confirmation you did the thing. 
+
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- [3] = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty 
 
 
 
