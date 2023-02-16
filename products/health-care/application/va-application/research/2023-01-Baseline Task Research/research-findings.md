@@ -112,7 +112,7 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 
 ### Finding 1
-**There were unfavorable perception towards providing certain information, specifically reporting income and insurance information.**
+**Participants expressed unfavorable perceptions towards providing certain information, specifically reporting income and insurance information.**
 
 Labels: [AUD: Veterans], [BNFT: Healthcare], [TREND: Content]
 
