@@ -20,6 +20,56 @@ Public websites epic covering content design and general discovery for this work
 
 ## Decision log
 
+### 2/13 How to Apply audit workshop
+Dave C, Danielle T, Dave P, Jill, Wes, Steve, Randi
+
+MVP model – discussion of DaveP's [Mural](https://app.mural.co/t/vagov6717/m/vagov6717/1660845137501/6eadf59a3f4d8dcd29da572a68115a22d6114fe4?wid=0-1675727086770)
+- About the benefit – Must have 3 benefit descriptions (bite, snack, meal)
+  - Teaser/bite can be plain text
+  - Snack and meal will be “limited rich text”
+- Eligibility – a single rich text field with a (single) link to where to find the details
+- After you apply – leave out, may move to R&S
+- Benefit names
+  - Yes on plain language
+  - No on acronym
+  - Machine name is in, as Drupal requires it
+- Benefit relationships
+  - Pre-requisite benefit – yes
+  - Related benefits – probably
+    - DT: in eg EDU, there are ones where you have to choose btw two benefits
+- **Form(s) for application is a key challenge (see next section)**
+Deeper dive into Airtable-based audit of How to Apply content
+- Benefits vs Services
+  - Need to be careful about treating services like benefits
+    - e.g. prosthetic socks, clothing allowance
+    - refer to SWContent "content placement criteria" docs can provide guidance to those who enter content into new BCM when it's ready
+- Edge cases
+  - Sometimes to get a benefit you apply for the pre-requisite benefit; happens for some disability sub-benefits
+  - "intent to file" and auto-enroll variations; also simultaneous applications
+- Open/closed is not MVP
+- How to prepare - blobby if MVP
+- Ways to apply - Airtable breaks this out into 6 columns, we didn't settle on which are necessary distinctions for MVP
+  - e.g., should content model know difference between "How to get help" (contact center number) and "how to apply with help" (ie with VSO's assistance)
+- Preparing to apply - MVP with limited rich text formatting (LRTF)
+- After you apply - MVP with limited rich text formatting (LRTF)
+
+#### Intersection with the Forms Content Model (used by the find-a-form product)
+A key aspect of "How to apply" is _what forms_ to use and (in the case of paper/pdf forms) how to submit those forms to VA. Where is the logical boundary between the Benefits CM and the Form CM?
+- Dave C wants us to be very mindful of principles around single-source-of-truth and database normalization practices.
+- For most Forms, How to Apply CM can reference Form content already in the CMS
+  - Form data in CMS is pulled from the source of truth at VA, the Forms DB
+  - Information about how to apply should already be in the Forms CM; or it should be added to the Forms CM in order to keep information logically structured
+    - Online application link (if it exists)
+    - Link to latest PDF of form
+    - Optional paragraph on when to use the form
+- Benefits whose applications are not in the FormsDB and therefore not in the CMS
+  - This is a problem for the Forms product to solve
+  - The Forms CM may need a new capabilty around non-FormsDB applications/forms to enable content around all Benefits
+    - Maybe forms becomes a “federated” product where non-FormsDB data can be added thru governance process
+
+Next steps:
+- Create "spec" document for MVP BCM for iteration with stakeholders, engineering - [github issue](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/12423)
+
 ### 2/2/23 MVP Workshop
 
 Sitewide Content (SWC) - Danielle Thierry and Randi Hecht
