@@ -156,6 +156,7 @@ There was one sugestion of being able to also upload their DD-214 on the review 
 > It brought over all the information from earlier. There is an edit button if you want to change anything. I don’t see an option to upload or change the document on this page. You should add that on this page. (P11-28)
 
 > Say if I needed to go back to the financial part to verify I may not, but I would be worried because there is nothing here that says it would save my progress. (P12-25)
+> No because it already did the upload papers, or if you haven’t uploaded your paperwork it would reject and not allow me to submit. Just right then don’t allow us to submit the application. (P4-26)
 
 
 ### Finding 3
@@ -221,7 +222,8 @@ Brief description
 Labels: label 1, label 2 
 
 
-Brief description
+The participants mental models of who a dependent is or who a dependent considers a dependent impacted this question understanding as there was no additional explanation or context to guide them.  
+
 - 5 participants mentioned there was confusion or missing information around the dependent question. 
 
 
@@ -261,6 +263,8 @@ Brief description
 
 **4. Participants generally struggled with some element of the facility selection question in the insurance information step.**
 
+>  Just looking to pick a clinic you can pick all you want, but they will put you where they want. Why didn’t the system connect that I am a female that could not be seen at other clinics. (P4-20)
+
 > 
 
 
@@ -277,6 +281,13 @@ Participants asked on a scale of 1 - 5, 1 being non very poorly and 5 being very
 ![Participant Self-Reported Ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/images/ParticipantRatings.png)
 
 #### Observer Ratings
+Observer ratings of start application task completion using rating criteria:
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty
+
 
 ![Observer Ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/images/ObserverRatings.png)
 
