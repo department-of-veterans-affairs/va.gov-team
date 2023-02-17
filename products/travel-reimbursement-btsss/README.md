@@ -81,9 +81,21 @@ It is our understanding from a demo of the BTSSS system that it sometimes requir
    
 ## Screenshots
 
+[Proposed flow in Mural](https://app.mural.co/t/vagov6717/m/vagov6717/1675275822734/78f98f031eff6be4d0e1df871d6352524328724d?wid=0-1675977665373)
+- Placeholder copy will be replaced before launch
+
 ### Before
 
+<img width="525" alt="image" src="https://user-images.githubusercontent.com/4054752/219800378-5015f263-aaeb-4cfd-b47c-4fa795ca7715.png">
+
 ### After
+
+User is not logged in:
+<img width="738" alt="image" src="https://user-images.githubusercontent.com/4054752/219800234-95084ed9-459e-42af-9b60-d525f8211408.png">
+
+User is logged in:
+<img width="739" alt="image" src="https://user-images.githubusercontent.com/4054752/219800306-080936f8-83b5-4e3c-b349-99ffb60d96c3.png">
+
 
 ---
 
