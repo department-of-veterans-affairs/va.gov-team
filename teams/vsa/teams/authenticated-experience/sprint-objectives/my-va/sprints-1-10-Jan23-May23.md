@@ -196,6 +196,13 @@ Finish anything that didn't happen last sprint. Assuming we're good to move on:
 - If applicable, fixes or updates from QA
 - If applicable, any analytics implementation or updates
 
+### Onsite notifications
+
+Since we know that the prescription notification can't happen right now, we need to pivot.
+
+- First, we should determine if Appeals notifications are a path forward. If yes, continue with implementation plans, but for appeals notifications instead of prescription.
+- If not, start talking about notification center research and putting the new notification design through the collab cycle.
+
 ## Sprint 6 (3/15 - 3/28)
 [#51093](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51093)
 
