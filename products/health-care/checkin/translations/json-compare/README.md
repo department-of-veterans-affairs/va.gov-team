@@ -8,6 +8,11 @@
       - ![image](https://user-images.githubusercontent.com/86678742/218779394-68506b1b-a205-4788-a584-2c2f5959b8c1.png)
 
 ## STEP-BY-STEP INSTRUCTIONS
+- Set up the Python script
+    - Download the Python script above to your desktop
+    - Install Python (see https://www.python.org/downloads/)
+    - Install these dependencies
+    
 - Retrieve the locale files from the GitHub Main branch
     - Open the [English locale json file](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/check-in/locales/en/translation.json) from the Main GitHub branch
     - Click the 'Copy raw contents' icon and paste it into a new text file labelled "English.json"
