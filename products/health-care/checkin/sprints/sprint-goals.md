@@ -38,7 +38,7 @@ ________________________________________________________________________________
       - Schedule Staging Review      
 - [Unified Check-In Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
    - **GOAL: Start to plan research for Option 3** 
-      - ????
+      - [Create prototypes for testing with Veterans](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53067)
 
 #### Engineering Sprint Goals
 - **GOAL: Test Vets-API Server to EKS in Staging**
