@@ -71,6 +71,8 @@ It is our understanding from a demo of the BTSSS system that it sometimes requir
 
 ## Solution Narrative
 
+[Epic for implementation](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9157)
+
 ### Current Status
 
 ### Key Decisions
