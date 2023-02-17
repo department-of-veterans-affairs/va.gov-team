@@ -200,13 +200,13 @@ This all depends on Florence having Github access.
 
 ## Sprint 5 (3/1 - 3/14)
 
-### Onboarding
-
-This is dependent on when these people are actually hired:
-
-- Onboard new PM [#50955](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50955)
+**Berni -- I have stopped creating sprint epics, so you'll need to create one for sprint 5 and sprints going forward**
 
 ### General
+
+**Design - Florence**
+
+- UX Improvements: Heuristic Review and Analysis of Profile and My VA #53227
 
 **BE - Tom**
 
@@ -219,12 +219,18 @@ This is dependent on when these people are actually hired:
 
 - Migrate Entire Direct Deposit Page to use the new Info Card #53631
 
+### Direct deposit: EVSS > Lighthouse migration
+
+- Create Comp and Pen Controller
+- Review changes with Mobile App Team
+
 ### Notification preferences
 
 **FE - Adam**
 
 - Add feature flag for MHV notification preferences #53616
-- Build editing page for profile #53545
+- START: Build editing page for profile #53545
+  - Should this be broken into smaller tickets? Or pushed entirely back a sprint or two? 
 
 ### Logged-in IA/nav research
 
@@ -232,6 +238,7 @@ This is dependent on when these people are actually hired:
 
 - Add recent mobile app IA findings to our research review #53626
 - Complete analytics review #52796
+- Complete research plan
 
 ## Sprint 6 (3/15 - 3/28)
 
@@ -249,6 +256,13 @@ This is dependent on when these people are actually hired:
 - Rollout, Cleanup of edit mobile phone page #53549
 
 ## Sprint 7 (3/29 - 4/11)
+
+### Onboarding
+
+This is dependent on hiring:
+
+- Onboard new PM [#50955](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50955)
+
 ## Sprint 8 (4/12 - 4/25)
 ## Sprint 9 (4/26 - 5/9)
 ## Sprint 10 (5/10 - 5/23)
