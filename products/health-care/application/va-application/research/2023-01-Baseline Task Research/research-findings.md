@@ -121,7 +121,10 @@ Labels: [AUD: Veterans], [BNFT: Healthcare], [TREND: Content]
 
 Some participants noted the mention of IRS or verifying with and assumed they would have to upload or connect to their tax return or that this should be verifyied automatically and they should not have to provide on the application. 
 
+> One thing I have had when it came to my tax returns, it made it so I could upload my tax returns from quicken into a website from the IRS website. It would have made this process easier if you could just sign into the website to just automatically link your tax return information to this website.(P12-15)
+
 > If I were to upload my tax information would this auto populate? If it was there I would appreciate it because I already went through the trouble of uploading it so it would be nice if it did it. (P12-19)
+
 
 > Yes, do we just have to download taxes? (goes back to first paragraph to read through)(P14-21)
 
@@ -165,7 +168,7 @@ There was one sugestion of being able to also upload their DD-214 on the review 
 
 **Stopping/pausing points for information gathering occured frequently around discharge papers (DD-214) and income or deductible information.**
 
-Labels: label 1, [DSP: Files] 
+Labels: [DSP: Files], [PRDT: DD-214], [TREND: Content]
 
 Brief description
 
@@ -224,7 +227,7 @@ Brief description
 
 **There was some confusion around dependents - who qualifies and how some questions were understood.**
 
-Labels: label 1, label 2 
+Labels: [TREND: Content] 
 
 The participants mental models of who a dependent is or who a dependent considers a dependent impacted this question understanding as there was no additional explanation or context to guide them.  
 - 5 participants mentioned there was confusion or missing information around the dependent question. 
@@ -275,6 +278,13 @@ The participants mental models of who a dependent is or who a dependent consider
 
 > I am still thrown off by step 1 of 6. I have gone through all this and I am still on step 1. I would think as I am clicking continue I would go through steps as I clicked. Maybe add an estimated time on how long it would take to fill out the form. Maybe label it step 1a, 1b…..(P2-13)
 
+
+**6. Veteran information section call-outs**
+
+Address 
+> Okay so on state, I was born in Puerto Rico, it’s not going to ask me to type in Puerto Rico? It has the option of other but it doesn’t say like, sometimes you go on a site and another window would pop up where you could specify. Like it would say other and then I would type in Puerto Rico. (P14-8)
+
+> 
 
 ### Ratings and Post-Test Questions: 
 #### Partipant Self-Reported Ratings
