@@ -7,11 +7,12 @@
 
 Date: 02/2023
 
+
 **Designers**
 - Jessica Stump (jessica.stump@adhocteam.us)
 - Nick Osmanski (nick.osmanski@amida.com)
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](https://docs.google.com/presentation/d/13MxcuVvkEDAge-5QywbZZzmBfZl0dgxKXyC8aERyK3s/edit?usp=sharing)
+_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout DRAFT](https://docs.google.com/presentation/d/13MxcuVvkEDAge-5QywbZZzmBfZl0dgxKXyC8aERyK3s/edit?usp=sharing)
 
 <br>
 
@@ -156,6 +157,7 @@ There was one sugestion of being able to also upload their DD-214 on the review 
 > It brought over all the information from earlier. There is an edit button if you want to change anything. I don’t see an option to upload or change the document on this page. You should add that on this page. (P11-28)
 
 > Say if I needed to go back to the financial part to verify I may not, but I would be worried because there is nothing here that says it would save my progress. (P12-25)
+
 > No because it already did the upload papers, or if you haven’t uploaded your paperwork it would reject and not allow me to submit. Just right then don’t allow us to submit the application. (P4-26)
 
 
@@ -193,7 +195,7 @@ Brief description
 ### Finding 4
 
 **There was confusion and missing information around the VA Benefits and Military Service questions.**
-Labels: label 1, [TREND: Content] 
+Labels: [TREND: Content] 
 
 Brief description
 - 7/9 (excluding short form participant) mentioned some item of confusion or noted that they thought something was missing when they completed the questions in these two setions. 
@@ -265,7 +267,7 @@ The participants mental models of who a dependent is or who a dependent consider
 
 >  Just looking to pick a clinic you can pick all you want, but they will put you where they want. Why didn’t the system connect that I am a female that could not be seen at other clinics. (P4-20)
 
-> 
+> Maybe if you could put in your location and they would tell you which clinics are close to you. It could help if it was in alphabetical order. If that could be built into this, because leaving and having to come back is not convenient. (P11-26)
 
 
 **5. Progress bar**
