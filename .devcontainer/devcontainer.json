@@ -1,0 +1,5 @@
+{
+  "image": "ghcr.io/devcontainers/features/git-lfs:1",
+  "features": {
+  }
+}
