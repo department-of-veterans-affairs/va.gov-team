@@ -203,6 +203,21 @@ Since we know that the prescription notification can't happen right now, we need
 - First, we should determine if Appeals notifications are a path forward. If yes, continue with implementation plans, but for appeals notifications instead of prescription.
 - If not, start talking about notification center research and putting the new notification design through the collab cycle.
 
+### Update claim status integration from EVSS > Lighthouse
+
+### PM
+
+- Fill out collab cycle ticket
+  - I still need to create a project outline
+
+### Dev - Derrick
+
+- Complete technical discovery. A few things to keep in mind:
+  - I believe the claim status team has completed the migration of the claim status tool from EVSS > Lighthouse. This is essential, because we should only be updating our frontend. The claim status team is responsible for the backend.
+  -  As such, I recommend checking in with Jacob Worrell (PM) and the devs on that team.
+  -  Since Derrick is a fullstack dev, he should confirm whether there is anything that needs to be done from a backend perspective (likely not), and what frontend updates need to be made.
+  -  After this, he should be ready to estimate how many sprints this will take, and we can scope the full effort.
+
 ## Sprint 6 (3/15 - 3/28)
 [#51093](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51093)
 
