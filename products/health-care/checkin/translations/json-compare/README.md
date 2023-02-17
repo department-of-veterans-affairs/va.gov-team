@@ -17,6 +17,7 @@
     - Click the 'Copy raw contents' icon and paste it into a new text file labelled "Spanish.json"
     - Open the [Tagalog locale json file](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/check-in/locales/tl/translation.json) from the Main GitHub branch
     - Click the 'Copy raw contents' icon and paste it into a new text file labelled "Tagalog.json"
+    - NOTE: you can also clone the branch to get the files if you are so inclined; I coulen't find another way to download the json files but if anyone knows a way please let me know
 - Generate the files that list the English content for which we need to have translations
   - Run the Python Script
   - Choose (from your desktop) the English.json file 
