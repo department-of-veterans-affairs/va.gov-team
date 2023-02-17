@@ -195,9 +195,11 @@ Brief description
 ### Finding 4
 
 **There was confusion and missing information around the VA Benefits and Military Service questions.**
+
 Labels: [TREND: Content] 
 
 Brief description
+
 - 7/9 (excluding short form participant) mentioned some item of confusion or noted that they thought something was missing when they completed the questions in these two setions. 
 
 *VA Benefits*
@@ -221,11 +223,10 @@ Brief description
 ### Finding 5
 
 **There was some confusion around dependents - who qualifies and how some questions were understood.**
+
 Labels: label 1, label 2 
 
-
 The participants mental models of who a dependent is or who a dependent considers a dependent impacted this question understanding as there was no additional explanation or context to guide them.  
-
 - 5 participants mentioned there was confusion or missing information around the dependent question. 
 
 
