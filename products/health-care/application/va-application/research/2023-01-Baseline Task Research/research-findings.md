@@ -265,9 +265,14 @@ Brief description
 > I am still thrown off by step 1 of 6. I have gone through all this and I am still on step 1. I would think as I am clicking continue I would go through steps as I clicked. Maybe add an estimated time on how long it would take to fill out the form. Maybe label it step 1a, 1b…..(P2-13)
 
 
-### Partipant Self-Reported Ratings
+### Ratings and Post-Test Questions: 
+#### Partipant Self-Reported Ratings
+
+Participants asked on a scale of 1 - 5, 1 being non very poorly and 5 being very well.
+
 ![Participant Self-Reported Ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/images/ParticipantRatings.png)
 
+#### Observer Ratings
 
 ![]()
 
