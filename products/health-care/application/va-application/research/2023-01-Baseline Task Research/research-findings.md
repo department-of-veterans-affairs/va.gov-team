@@ -63,9 +63,8 @@ We conducted hour-long remote moderated research sessions via Zoom on **January 
 The baseline study will help establish that the insights and pain points from previous studies are still consistently an issue with participants in this study.
 
 **"Not enough information"**
-
 - [Wireflow showing previous research insights in application flow](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/dlJob5E)
-- 
+
 
 ### Hypotheses 2
 The baseline study will show that there are areas of the form that most participants complete tasks easily (entering personal information) or areas that they consistently struggle (household information and insurance).
@@ -260,7 +259,12 @@ Brief description
 >  This bothers me because I am transgender so I would like more options than just male or female. I would hope later they would ask our pronouns instead of what our gender at birth is.(P1-15)
 
 
-**4. Progress bar**
+**4. Participants generally struggled with some element of the facility selection question in the insurance information step.**
+
+> 
+
+
+**5. Progress bar**
 
 > I am still thrown off by step 1 of 6. I have gone through all this and I am still on step 1. I would think as I am clicking continue I would go through steps as I clicked. Maybe add an estimated time on how long it would take to fill out the form. Maybe label it step 1a, 1b…..(P2-13)
 
@@ -274,7 +278,7 @@ Participants asked on a scale of 1 - 5, 1 being non very poorly and 5 being very
 
 #### Observer Ratings
 
-![]()
+![Observer Ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/images/ObserverRatings.png)
 
 
 
