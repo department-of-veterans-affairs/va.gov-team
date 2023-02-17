@@ -7,8 +7,6 @@
     - You will need to have these packages installed
       - ![image](https://user-images.githubusercontent.com/86678742/218779394-68506b1b-a205-4788-a584-2c2f5959b8c1.png)
 
-- [Location of json locale files in Master](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/check-in/locales)
-
 ## STEP-BY-STEP INSTRUCTIONS
 - Retrieve the locale files from the GitHub Main branch
     - Open the [English locale json file](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/check-in/locales/en/translation.json) from the Main GitHub branch
