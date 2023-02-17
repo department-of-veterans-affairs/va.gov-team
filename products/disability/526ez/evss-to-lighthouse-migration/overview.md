@@ -12,6 +12,24 @@ The scope of this work for the Disability Experience team is to replace all call
 - /rateddisabilities
 - Benefits Reference Data API
 
+https://dsva.slack.com/archives/C02CQP3RFFX/p1676572637697879?thread_ts=1676496299.623819&cid=C02CQP3RFFX
+
+From our conversation with Tom Harrison and @Jerek Shoemaker on endpoint migration effort on Feb 16th 2023
+- Effort/scope of work will depend on
+	- Authentication type
+		 - Client Credentials Grant(CCG) - Jerek has built reusable code for authenticating via CCG which is used by v2
+     - key access - will not require much effort
+     - Authorization Code Flow - will require coding effort unless another va.gov team has built reusable code
+	- Input/output parameters
+		- For same or very similar values, there is potential for url swap with small effort
+		- For dissimilar values, we may be looking to rewrite how the endpoint is called and how the data is consumed. This will also reduce tech debt.
+For the Disability Experience team, we are looking at these next steps in our discovery:
+1. Go over the input/output parameters for each endpoint looking for differences between eVSS and Lighthouse
+2. Go over 526 backend code to get the full list of eVSS endpoints being called and identify migration path for each.
+3. Meet with LH teams building the new endpoints to understand their approach and authentication type for each
+4. Review the work done by Case Status Tool and Authenticated Experience and other teams
+5. Start looking at a common framework for migration for all 526 endpoints to LH
+
 This list excludes any other endpoints to eVSS that are found during the discovery process.
 
 ## Important links
