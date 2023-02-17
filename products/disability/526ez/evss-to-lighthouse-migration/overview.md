@@ -18,11 +18,11 @@ This list excludes any other endpoints to eVSS that are found during the discove
 - [Biweekly Lighthouse touchpoint notes and agenda](https://community.max.gov/pages/viewpage.action?spaceKey=VAExternal&title=Lighthouse+-+VA.gov+Touchpoint+Topics)
 
 ## Details
-|Endpoint|Lighthouse Team|Lighthouse Update|BDEX Zenhub ticket|Update|Notes|
-|--------|---------------|-----------------|------------------|------|-----|
+|Endpoint|Lighthouse Team|Lighthouse Update               |BDEX Zenhub ticket|Update|Notes|
+|--------|---------------|--------------------------------|------------------|------|-----|
 |/submit|[Dash](https://app.mural.co/t/agilesixapplications0942/m/agilesixapplications0942/1674666875176/5bffb27d080685913fc74b5e4e2179511e4c2089?wid=0-1674667332547)|Work in progress - ETA April 2023|[41353](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/41353)|In discovery|Notes|
 |/getpdf|[Firefly](https://app.mural.co/t/agilesixapplications0942/m/agilesixapplications0942/1674666875176/5bffb27d080685913fc74b5e4e2179511e4c2089?wid=0-1674836238600)|Work in progress - ETA March 2023|[53437](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/53437)|In discovery|Notes|
 |/rateddisabilities|[Ninja Pigs](https://app.mural.co/t/agilesixapplications0942/m/agilesixapplications0942/1674666875176/5bffb27d080685913fc74b5e4e2179511e4c2089?wid=0-1676647953351)|Will not be migrated. [Replacement endpoints](https://dsva.slack.com/archives/C02CQP3RFFX/p1676575053515999) are available.|[53755](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/53755)||ToDo - Schedule time with Team Ninja Pigs|
 |/validate|[Dash](https://app.mural.co/t/agilesixapplications0942/m/agilesixapplications0942/1674666875176/5bffb27d080685913fc74b5e4e2179511e4c2089?wid=0-1674667332547)|Unknown|||ToDo - Check with PM Kayla on update|
 | Benefits Reference Data(BRD) API|[Ninja Pigs](https://app.mural.co/t/agilesixapplications0942/m/agilesixapplications0942/1674666875176/5bffb27d080685913fc74b5e4e2179511e4c2089?wid=0-1676647953351)|In production||Work has been completed for military branch of service|ToDo - Schedule time with Robin Garrison to understand rest of the work|
-
+|Common API <br>wss-common-services-web-11.6/rest/ratingInfoService/11.6/findRatingInfoPID<br> wss-form526-services-web-v2/rest/form526/v2/ratedDisabilities|N/A|Is not being migrated. [Details in this slack thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1676574262007819). Potential replacement service is production.|||ToDo - Change the form526 wizard to use the Lighthouse veteran_verification/v1/disability_rating|
