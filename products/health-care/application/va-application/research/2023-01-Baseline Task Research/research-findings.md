@@ -273,6 +273,8 @@ The participants mental models of who a dependent is or who a dependent consider
 
 > Maybe if you could put in your location and they would tell you which clinics are close to you. It could help if it was in alphabetical order. If that could be built into this, because leaving and having to come back is not convenient. (P11-26)
 
+> Was the list alphabetical? No, it is not. I started typing it in and it popped up. I think it would help to be alphabetical cause usually any dropdown menu is in alphabetical order. (14-30)
+
 
 **5. Progress bar**
 
