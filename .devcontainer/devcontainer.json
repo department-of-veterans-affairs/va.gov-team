@@ -1,6 +1,6 @@
 {
   "name": "Codespace to perform va.gov-team repository",
-  "image": "ghcr.io/devcontainers/features/git-lfs:1",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
   "hostRequirements": {
    "cpus": 8,
    "memory": "16gb",
