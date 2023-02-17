@@ -226,11 +226,13 @@ Brief description
  
 ### Finding 5
 
-**There was some confusion around dependents - who qualifies and how some questions were phrased.**
+**There was some confusion around dependents - who qualifies and how some questions were understood.**
 Labels: label 1, label 2 
 
 
 Brief description
+- 5 participants mentioned there was confusion or missing information around the dependent question. 
+
 
 > That is just an odd question. I feel there should be a N/A option because that is stating that you do have a dependent between that age frame. If you click no or N/A you should not have to fill in a dollar amount. (P11-17)
 
@@ -241,17 +243,29 @@ Brief description
 > I am curious, you should have a checkbox that says they became your dependent on the same day as birth. I do understand why that is there in case you adopted or have a stepchild. (P12-17)
 
 
-## Partipant Self-Reported Ratings
-_To add images: ![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/images/ParticipantRatings.png)
-
-
 
 ## Additional Insights
 
-1. Most participants indicated they would sign in or create an account prior to completing the application
-2. Introduction page made participants feel prepared
-3. Particpants called out birth sex question and expectation of gender identity options
-4. 
+**1. Most participants indicated they would sign in or create an account prior to completing the application**
+
+> 
+
+**2. Introduction page made participants feel prepared but some had additional suggestions:**
+
+> I would recommend that this section right here, you may enroll in healthcare if this is true. I would say to move this to the top and bolding the entire the whole statement or it may be glossed over like I did. If that is separated you it would be more clear that you just have to meet one of the requirements rather then all of them. (P1-4)
+  
+**3. Particpants called out birth sex question and expectation of gender identity options**
+
+> 
+
+
+
+## Partipant Self-Reported Ratings
+[Participant Self-Reported Ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/images/ParticipantRatings.png)
+
+
+
+
 
 
 
