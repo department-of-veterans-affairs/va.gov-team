@@ -15,7 +15,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ### 2/16/2023
 - Fixed a bug that caused the position of the 'back to last screen' action link on the verify emergency contact and next of kin pages to be misaligned
     - [Ticket 53562](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53562)
-- Updated Pre-Check-in so that Veterans will recieve a more specific error message when they use an expired link
+- Updated Pre-Check-in so that Veterans will receive a more specific error message when they use an expired link
     - [Ticket 52492](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52492) 
 
 ### 2/15/2023
