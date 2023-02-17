@@ -261,7 +261,7 @@ Brief description
 
 
 ## Partipant Self-Reported Ratings
-[Participant Self-Reported Ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/images/ParticipantRatings.png)
+![Participant Self-Reported Ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/images/ParticipantRatings.png)
 
 
 
