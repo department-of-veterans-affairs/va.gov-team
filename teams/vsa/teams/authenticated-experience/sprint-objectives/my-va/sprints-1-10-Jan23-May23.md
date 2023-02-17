@@ -176,6 +176,26 @@
 ## Sprint 5 (3/1 - 3/14)
 [#51092](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51092)
 
+### My VA audit updates
+
+Finish anything that didn't happen last sprint. Assuming we're good to move on:
+
+**PM**
+
+- Prep for staging and privacy reviews
+- Submit call center guide updates
+- What is going on with analytics?
+  - **We can not move on to UAT without making sure analytics is good to go. In theory, we'd be ready to recruit for UAT in sprint 6, but we can not and should not do this unless we are sure all analytics are in place for monitoring during UAT**.
+
+**Design**
+
+- UAT plan and convo guide
+
+**FE**
+
+- If applicable, fixes or updates from QA
+- If applicable, any analytics implementation or updates
+
 ## Sprint 6 (3/15 - 3/28)
 [#51093](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51093)
 
