@@ -59,16 +59,7 @@ We conducted hour-long remote moderated research sessions via Zoom on **January 
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
-
-
+### Hypotheses 1
 The baseline study will help establish that the insights and pain points from previous studies are still consistently an issue with participants in this study.
 
 **"Not enough information"**
@@ -76,16 +67,18 @@ The baseline study will help establish that the insights and pain points from pr
 - [Wireflow showing previous research insights in application flow](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/dlJob5E)
 - 
 
-
+### Hypotheses 2
 The baseline study will show that there are areas of the form that most participants complete tasks easily (entering personal information) or areas that they consistently struggle (household information and insurance).
 
 **"Maybe True"**
+
 - The participants generally had took more effort to answer questions in the household information section around income and the insurance questions, however participants were also confused in the VA benefits or military service sections as well.
 
-
+### Hypotheses 3
 The baseline study will show that the current household information section is a pain point due to the order of the questions and the content supplying additional context.
 
 **"Not enough information"**
+
 - We did not have many participants who went through all of the household information flow elements including spouse and multiple dependents. 
 - More participants in this study suggested they would not want to provide this information or it should be collected by other means.
 
@@ -107,8 +100,6 @@ The baseline study will show that the current household information section is a
 
 
 ## Details of Findings 
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
 
 
 ### Finding 1
@@ -171,12 +162,12 @@ There was one sugestion of being able to also upload their DD-214 on the review 
 ### Finding 3
 
 **Stopping/pausing points for information gathering occured frequently around discharge papers (DD-214) and income or deductible information.**
+
 Labels: label 1, [DSP: Files] 
-
-
 
 Brief description
 
+> So far everything is pretty simple. I am assuming based on this statement that I have already applied to disability and have received a rating. If I tried to enroll in this without a rating. I want to go back and get into that.
 
 *Upload file task / DD-214*
 > It could take anywhere from 5 minutes or 5 days. I could have it in a safe or maybe I have a scanned copy somewhere in my email. If it were in my email 10 minutes, if I didn’t receive it yet it could take months. (P12-14) 
@@ -184,6 +175,7 @@ Brief description
 > I would have to contact the VA in St. Louis and request a copy of my DD-214. (P9-9) 
 
 > Young veterans would be fine with this but idk you still have old veterans. They are eligible to use VA benefits but they don’t know what they qualify for or how to find it….my husband runs into a veteran who doesn’t re…these older people might not know how to do the technical part. (P14-18)
+
 
 
 *Income and deductibles*
@@ -248,23 +240,36 @@ Brief description
 
 **1. Most participants indicated they would sign in or create an account prior to completing the application**
 
-> 
+> I have ID.me so I would use that to start the application. I have signed into the site, but not recently. (P9-2)
+
+> It said at the bottom to sign in to start the application so I would click that to start my application. I am assuming that it is connected to all the normal logins so I could use the normal sign ins.(P4-4)
 
 **2. Introduction page made participants feel prepared but some had additional suggestions:**
 
 > I would recommend that this section right here, you may enroll in healthcare if this is true. I would say to move this to the top and bolding the entire the whole statement or it may be glossed over like I did. If that is separated you it would be more clear that you just have to meet one of the requirements rather then all of them. (P1-4)
+
+> I would want to see how this would work with my private health insurance on this page. (P2-5)
   
 **3. Particpants called out birth sex question and expectation of gender identity options**
 
-> 
+> no, not me, somebody might have a problem with there only being two genders. i am used to seeing the other option. (P12-6)
+
+> Unless there were two questions where one says what you were assigned as birth and then another that says what do you identify as because if someone is applying for mental health issues and that had anything to do with it, they would need to know.
+(P14-10)
+
+>  This bothers me because I am transgender so I would like more options than just male or female. I would hope later they would ask our pronouns instead of what our gender at birth is.(P1-15)
 
 
+**4. Progress bar**
 
-## Partipant Self-Reported Ratings
+> I am still thrown off by step 1 of 6. I have gone through all this and I am still on step 1. I would think as I am clicking continue I would go through steps as I clicked. Maybe add an estimated time on how long it would take to fill out the form. Maybe label it step 1a, 1b…..(P2-13)
+
+
+### Partipant Self-Reported Ratings
 ![Participant Self-Reported Ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/images/ParticipantRatings.png)
 
 
-
+![]()
 
 
 
