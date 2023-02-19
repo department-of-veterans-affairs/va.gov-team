@@ -1,5 +1,5 @@
 {
-  "name": "Codespace to perform va.gov-team repository",
+  "name": "Codespace decontainer config for the va.gov-team repository",
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "hostRequirements": {
    "cpus": 8,
