@@ -36,7 +36,7 @@ Attending to health care needs during the starting up phase of the journey is a 
 
 
 ### Outcome
-We will use the results from this research to establish a baseline for comparrison in other research studies ([Household Section Optimization](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/192)) specific to key tasks that come up frequently during research sessions. 
+We will use the results from this research to establish a baseline for comparison in other research studies ([Household Section Optimization](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/192)) specific to key tasks that come up frequently during research sessions. 
 
 
 ### Research questions
