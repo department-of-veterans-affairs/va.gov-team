@@ -51,7 +51,7 @@ The purpose of this study was to:
 
 ## Methodology 
 
-We conducted hour-long remote moderated research sessions via Zoom on **January 27 - Feburary 10, 2023**. We had participants go through the entire application/form in the staging environment as they would if they were completing as they would.
+We conducted hour-long remote moderated research sessions via Zoom on **January 27 - February 10, 2023**. We had participants go through the entire application/form in the staging environment as they would if they were completing as they would.
 
 - **Usability testing**
 - **Post-task and post-testing participant questions**
@@ -95,7 +95,6 @@ The baseline study will show that the current household information section is a
 4. There was confusion and missing information around the VA Benefits and Military Service questions.
 
 5. Who qualifies as a dependent, that definition and general question confusion existed for participants who answered yes to having dependents. 
-
 
 
 
@@ -208,7 +207,7 @@ There were a few examples of information requested throughout the application th
 
 Labels: [TREND: Content] 
 
-Brief description
+Overall there was at least one question or more in this section that participants called out as needing clarification or simplification or that something was missing (often under the Military Service list). 
 
 - 9/10 participants mentioned some parts of the VA Benefits or Military Service questions were confusing or that information was missing. 
 
@@ -302,10 +301,11 @@ The participants mental models of who a dependent is or who a dependent consider
 
 **6. Veteran information section call-outs**
 
-Address 
+*Address pain points 
+
 > Okay so on state, I was born in Puerto Rico, it’s not going to ask me to type in Puerto Rico? It has the option of other but it doesn’t say like, sometimes you go on a site and another window would pop up where you could specify. Like it would say other and then I would type in Puerto Rico. (P14-8)
 
-> 
+> Is a PO box an address or do you need a physical address? Sometimes anything that has an account number or anything personal I will send it to the PO box. Like if I put my PO Box would it pop up saying it needs a physical address? I can put my PO box and my physical address on the next line. I don’t know if that would create some confusion because I prefer the PO Box. But I am not getting a pop up so I am assuming they will send it to a PO Box.  (P14-11)
 
 ### Ratings and Post-Test Questions: 
 #### Partipant Self-Reported Ratings
