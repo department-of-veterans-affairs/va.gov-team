@@ -87,14 +87,10 @@ The baseline study will show that the current household information section is a
 ## Key Findings
 
 1. There were unfavorable perception towards providing certain information, specifically reporting income and insurance information.
-
-2. The review pattern at the end of the application is easy-to-use to check answers and make changes prior to submitting.
-
-3. Stopping points for information gathering occurred frequently around discharge papers (DD-214) and income or deductible information. 
-
-4. There was confusion and missing information around the VA Benefits and Military Service questions.
-
-5. Who qualifies as a dependent, that definition and general question confusion existed for participants who answered yes to having dependents. 
+2. There was confusion and missing information around the VA Benefits and Military Service questions.
+3. The review pattern at the end of the application is easy-to-use to check answers and make changes prior to submitting.
+4.  Stopping points for information gathering occurred frequently around discharge papers (DD-214) and income or deductible information. 
+5.  Who qualifies as a dependent, that definition and general question confusion existed for participants who answered yes to having dependents. 
 
 
 
@@ -140,6 +136,39 @@ Some participants noted the mention of IRS or verifying with and assumed they wo
 
 ### Finding 2
 
+**There was confusion and missing information around the VA Benefits and Military Service questions.**
+
+Labels: [TREND: Content] 
+
+Overall there was at least one question or more in this section that participants called out as needing clarification or simplification or that something was missing (often under the Military Service list). 
+
+- 9/10 participants mentioned some parts of the VA Benefits or Military Service questions were confusing or that information was missing. 
+
+
+
+*VA Benefits*
+> There is just a lot of unnecessary information on here. I don’t know the difference between the compensation/pension. If they could just do a dropdown box, or even have a definition somewhere on the page telling us what the difference is. (P12-11)
+
+*Military Service*
+> Question on this one, should I just use my first retirement date? I went back on a recall after my first retirement date. You never know which date they want you to use. (P4-12)
+
+> I'm confused because it tells me that I need to click all that apply, but none of those apply to me. I just want something that states 'none apply to me'. (P2-17)
+
+
+*Missing information*
+> At some point they will put in something about the burn pits too and stuff like that, the burn pits were awful for people. (P7-17) 
+
+> I don’t see anything in regard to the burn pits. I would add that in there definitely. (P9-7)
+
+> Right here it says up to 40% and above 50%, is there nothing between that? (P11-10)
+
+
+
+
+
+
+### Finding 3
+
 **The review pattern at the end of the application is easy-to-use when checking answers and making changes prior to submitting.**
 
 Labels: [DSP: Form feedback], [DSC: Accordions]
@@ -165,7 +194,7 @@ There was one sugestion of being able to also upload their DD-214 on the review 
 > No because it already did the upload papers, or if you haven’t uploaded your paperwork it would reject and not allow me to submit. Just right then don’t allow us to submit the application. (P4-26)
 
 
-### Finding 3
+### Finding 4
 
 **Stopping/pausing points for information gathering occured frequently around discharge papers (DD-214) and income or deductible information.**
 
@@ -198,36 +227,6 @@ There were a few examples of information requested throughout the application th
 
 > I would need clarity on this one because are they just talking college? I sometimes attend different events to future my education for my career. I attend other things that I would considered educational. I am taking an educational course on Google Sheets, so would that count? (P2-25)
 
-
-
-
-### Finding 4
-
-**There was confusion and missing information around the VA Benefits and Military Service questions.**
-
-Labels: [TREND: Content] 
-
-Overall there was at least one question or more in this section that participants called out as needing clarification or simplification or that something was missing (often under the Military Service list). 
-
-- 9/10 participants mentioned some parts of the VA Benefits or Military Service questions were confusing or that information was missing. 
-
-
-
-*VA Benefits*
-> There is just a lot of unnecessary information on here. I don’t know the difference between the compensation/pension. If they could just do a dropdown box, or even have a definition somewhere on the page telling us what the difference is. (P12-11)
-
-*Military Service*
-> Question on this one, should I just use my first retirement date? I went back on a recall after my first retirement date. You never know which date they want you to use. (P4-12)
-
-> I'm confused because it tells me that I need to click all that apply, but none of those apply to me. I just want something that states 'none apply to me'. (P2-17)
-
-
-*Missing information*
-> At some point they will put in something about the burn pits too and stuff like that, the burn pits were awful for people. (P7-17) 
-
-> I don’t see anything in regard to the burn pits. I would add that in there definitely. (P9-7)
-
-> Right here it says up to 40% and above 50%, is there nothing between that? (P11-10)
 
 
  
@@ -306,6 +305,9 @@ The participants mental models of who a dependent is or who a dependent consider
 > Okay so on state, I was born in Puerto Rico, it’s not going to ask me to type in Puerto Rico? It has the option of other but it doesn’t say like, sometimes you go on a site and another window would pop up where you could specify. Like it would say other and then I would type in Puerto Rico. (P14-8)
 
 > Is a PO box an address or do you need a physical address? Sometimes anything that has an account number or anything personal I will send it to the PO box. Like if I put my PO Box would it pop up saying it needs a physical address? I can put my PO box and my physical address on the next line. I don’t know if that would create some confusion because I prefer the PO Box. But I am not getting a pop up so I am assuming they will send it to a PO Box.  (P14-11)
+
+
+
 
 ### Ratings and Post-Test Questions: 
 #### Partipant Self-Reported Ratings
