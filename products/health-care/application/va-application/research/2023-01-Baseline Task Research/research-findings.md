@@ -93,7 +93,6 @@ The baseline study will show that the current household information section is a
 5. Who qualifies as a dependent, that definition and general question confusion existed for participants who answered yes to having dependents. 
 
 
-
 ## Details of Findings 
 
 
