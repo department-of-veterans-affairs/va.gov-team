@@ -107,7 +107,10 @@ The baseline study will show that the current household information section is a
 
 Labels: [AUD: Veterans], [BNFT: Healthcare], [TREND: Content]
 
-4/9 of the participants indicated they did not want to provide their financial information or insurance or they answered no on the financial disclosure page.
+There were parts of the application that participants expressed were unnecessary or that they should not have to provide this information as it should not impact the health care they qualify for. The information that applicants generally felt were unnecessary were around income and insurance. 
+
+- 3/9 answered No on the Financial Disclosure page and would not want to share their income information when applying for healthcare.
+- 3/10 participants mentioned pain points in the Insurance Information section and that they don't understand why they need to provide this information to apply.
 
 *Income*
 > No, I would not want to provide financial information for any reason. You get your check from the government, so they know how much you get anyways. (P4-15)
@@ -118,13 +121,11 @@ Labels: [AUD: Veterans], [BNFT: Healthcare], [TREND: Content]
 
 > I just read this section here, they are saying this information is used to see what benefits are given. I make pretty good money, so I am now annoyed by that. I would probably not continue at this time because I would have to gather the information. Some of this stuff I would need to find a copy because someone them I do not have a copy. (P2-3)
 
-
 Some participants noted the mention of IRS or verifying with and assumed they would have to upload or connect to their tax return or that this should be verifyied automatically and they should not have to provide on the application. 
 
 > One thing I have had when it came to my tax returns, it made it so I could upload my tax returns from quicken into a website from the IRS website. It would have made this process easier if you could just sign into the website to just automatically link your tax return information to this website.(P12-15)
 
 > If I were to upload my tax information would this auto populate? If it was there I would appreciate it because I already went through the trouble of uploading it so it would be nice if it did it. (P12-19)
-
 
 > Yes, do we just have to download taxes? (goes back to first paragraph to read through)(P14-21)
 
@@ -137,16 +138,17 @@ Some participants noted the mention of IRS or verifying with and assumed they wo
 > I will never agree with the insurance question, but that may just be me. They want to connect so they can charge my healthcare insurance for something they will not cover themselves. Is it fair they can tax onto my other insurance. (P4-37)
 
 
+
 ### Finding 2
 
-**The review pattern at the end of the application is easy-to-use to check answers and make changes prior to submitting.**
+**The review pattern at the end of the application is easy-to-use when checking answers and making changes prior to submitting.**
 
 Labels: [DSP: Form feedback], [DSC: Accordions]
 
 Overall participants reacted favorably on the review page and were able to intuitively open, review and change their information as needed. 
 There was one sugestion of being able to also upload their DD-214 on the review page.
 
-- 8/10 participants were able to successfuly comment on how to edit and make updates on the review page.
+- 8/10 participants mentioned that they could understand how to edit and review their information when on this page.
 - 8/10 participants rated the review page 5/5 and the other 2 participants did not provide a rating at all, but provided positive comments. 
 
 
@@ -170,7 +172,12 @@ There was one sugestion of being able to also upload their DD-214 on the review 
 
 Labels: [DSP: Files], [PRDT: DD-214], [TREND: Content]
 
-Brief description
+There were a few examples of information requested throughout the application that the participant said they need to step away to gather or that they would have to pasue for potentially days before continuing on with the application. 
+
+- 2/7 participants mentioned the deductibles page as a pausing or stopping point.
+- 2/10 participants said they would stop because they would have to gather documents or figure out what login to use.
+- 
+
 
 > So far everything is pretty simple. I am assuming based on this statement that I have already applied to disability and have received a rating. If I tried to enroll in this without a rating. I want to go back and get into that.
 
@@ -203,7 +210,9 @@ Labels: [TREND: Content]
 
 Brief description
 
-- 7/9 (excluding short form participant) mentioned some item of confusion or noted that they thought something was missing when they completed the questions in these two setions. 
+- 9/10 participants mentioned some parts of the VA Benefits or Military Service questions were confusing or that information was missing. 
+
+
 
 *VA Benefits*
 > There is just a lot of unnecessary information on here. I don’t know the difference between the compensation/pension. If they could just do a dropdown box, or even have a definition somewhere on the page telling us what the difference is. (P12-11)
@@ -230,7 +239,7 @@ Brief description
 Labels: [TREND: Content] 
 
 The participants mental models of who a dependent is or who a dependent considers a dependent impacted this question understanding as there was no additional explanation or context to guide them.  
-- 5 participants mentioned there was confusion or missing information around the dependent question. 
+- 4/4 participants were confused on who qualifies for a dependent or their was a question that was not clear. (out of 4 - short form participant and those who answered yes for dependents)
 
 
 > That is just an odd question. I feel there should be a N/A option because that is stating that you do have a dependent between that age frame. If you click no or N/A you should not have to fill in a dollar amount. (P11-17)
@@ -247,17 +256,23 @@ The participants mental models of who a dependent is or who a dependent consider
 
 **1. Most participants indicated they would sign in or create an account prior to completing the application**
 
+- 10/10 participants said they would sign in or create an account to complete the application.
+
 > I have ID.me so I would use that to start the application. I have signed into the site, but not recently. (P9-2)
 
 > It said at the bottom to sign in to start the application so I would click that to start my application. I am assuming that it is connected to all the normal logins so I could use the normal sign ins.(P4-4)
 
 **2. Introduction page made participants feel prepared but some had additional suggestions:**
 
+- All 10 participants commented that the start application introduction page was easy but 4/10 had minor suggestions to make the page more clear.
+
 > I would recommend that this section right here, you may enroll in healthcare if this is true. I would say to move this to the top and bolding the entire the whole statement or it may be glossed over like I did. If that is separated you it would be more clear that you just have to meet one of the requirements rather then all of them. (P1-4)
 
 > I would want to see how this would work with my private health insurance on this page. (P2-5)
   
 **3. Particpants called out birth sex question and expectation of gender identity options**
+
+- 5/10 participants commented that the birth sex question was an issue and that they expected to be given other gender options.
 
 > no, not me, somebody might have a problem with there only being two genders. i am used to seeing the other option. (P12-6)
 
@@ -268,6 +283,10 @@ The participants mental models of who a dependent is or who a dependent consider
 
 
 **4. Participants generally struggled with some element of the facility selection question in the insurance information step.**
+
+- 8/10 participant said they would want to search by proximity either by list or a search tool when chosing a VA location.
+- 5/10 participants mentioned a pain point when choosing a facility in that they would want to decide by services or word-of-mouth or that it was difficult to search by facility names.
+
 
 >  Just looking to pick a clinic you can pick all you want, but they will put you where they want. Why didn’t the system connect that I am a female that could not be seen at other clinics. (P4-20)
 
