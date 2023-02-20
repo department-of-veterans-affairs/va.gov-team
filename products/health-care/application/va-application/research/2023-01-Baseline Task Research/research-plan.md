@@ -316,7 +316,3 @@ We will be testing what is currently approved in the staging environment.
 
 
 
-> **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
-
-
-
