@@ -89,8 +89,8 @@ The baseline study will show that the current household information section is a
 1. There were unfavorable perception towards providing certain information, specifically reporting income and insurance information.
 2. There was confusion and missing information around the VA Benefits and Military Service questions.
 3. The review pattern at the end of the application is easy-to-use to check answers and make changes prior to submitting.
-4.  Stopping points for information gathering occurred frequently around discharge papers (DD-214) and income or deductible information. 
-5.  Who qualifies as a dependent, that definition and general question confusion existed for participants who answered yes to having dependents. 
+4. Stopping points for information gathering occurred frequently around discharge papers (DD-214) and income or deductible information. 
+5. Who qualifies as a dependent, that definition and general question confusion existed for participants who answered yes to having dependents. 
 
 
 
@@ -178,7 +178,7 @@ There was one sugestion of being able to also upload their DD-214 on the review 
 
 - 8/10 participants mentioned that they could understand how to edit and review their information when on this page.
 - 8/10 participants rated the review page 5/5 and the other 2 participants did not provide a rating at all, but provided positive comments. 
-
+- 7/10 participants said there was no reason why they would submit the application on this review page. 
 
 > It is great. It has all the information here for you, and if you need to fix a mistake it has the edit button here that you do not have to go back. (P9-15)
 
@@ -202,8 +202,9 @@ Labels: [DSP: Files], [PRDT: DD-214], [TREND: Content]
 
 There were a few examples of information requested throughout the application that the participant said they need to step away to gather or that they would have to pasue for potentially days before continuing on with the application. 
 
+- 5/10 participants said they would stop or pause because they would have to gather documents or figure out what login to use on the introduction page.
+- 4/9 participants mentioned something was unclear or they had to pause here to get the document and information asked.  
 - 2/7 participants mentioned the deductibles page as a pausing or stopping point.
-- 5/10 participants said they would stop or pause because they would have to gather documents or figure out what login to use.
 
 
 > So far everything is pretty simple. I am assuming based on this statement that I have already applied to disability and have received a rating. If I tried to enroll in this without a rating. I want to go back and get into that.
@@ -237,6 +238,8 @@ Labels: [TREND: Content]
 
 The participants mental models of who a dependent is or who a dependent considers a dependent impacted this question understanding as there was no additional explanation or context to guide them.  
 - 4/4 participants were confused on who qualifies for a dependent or their was a question that was not clear. (out of 4 - short form participant and those who answered yes for dependents)
+- 1/4 participant mentioned the time and effort to gather dependent information especailly Social Security Numbers if somebody had multiple dependents.
+- 3/4 participants mentioned confusion on the annual income page where it had fields to enter their dependents income.
 
 
 > That is just an odd question. I feel there should be a N/A option because that is stating that you do have a dependent between that age frame. If you click no or N/A you should not have to fill in a dollar amount. (P11-17)
@@ -261,7 +264,7 @@ The participants mental models of who a dependent is or who a dependent consider
 
 **2. Introduction page made participants feel prepared but some had additional suggestions.**
 
-- All 10 participants commented that the start application introduction page was easy but 4/10 had minor suggestions to make the page more clear.
+- 10/10 participants commented that the start application introduction page was easy but 4/10 had minor suggestions to make the page more clear.
 
 > I would recommend that this section right here, you may enroll in healthcare if this is true. I would say to move this to the top and bolding the entire the whole statement or it may be glossed over like I did. If that is separated you it would be more clear that you just have to meet one of the requirements rather then all of them. (P1-4)
 
