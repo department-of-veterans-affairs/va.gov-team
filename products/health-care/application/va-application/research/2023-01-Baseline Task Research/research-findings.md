@@ -260,7 +260,7 @@ The participants mental models of who a dependent is or who a dependent consider
 
 > It said at the bottom to sign in to start the application so I would click that to start my application. I am assuming that it is connected to all the normal logins so I could use the normal sign ins.(P4-4)
 
-**2. Introduction page made participants feel prepared but some had additional suggestions:**
+**2. Introduction page made participants feel prepared but some had additional suggestions.**
 
 - All 10 participants commented that the start application introduction page was easy but 4/10 had minor suggestions to make the page more clear.
 
@@ -292,7 +292,7 @@ The participants mental models of who a dependent is or who a dependent consider
 
 > Was the list alphabetical? No, it is not. I started typing it in and it popped up. I think it would help to be alphabetical cause usually any dropdown menu is in alphabetical order. (14-30)
 
-**5. Veteran information section call-outs**
+**5. Address questions in the Veteran Information section caused confusion among a couple of participants around selecting somewhere outside of the US or with what address to put first - their home or PO Box.**
 
 *Address pain points 
 
