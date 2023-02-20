@@ -1,4 +1,5 @@
-Taken from [VA's post "Login.gov Provides Access to VA Digital Products, Services"](https://news.va.gov/114076/login-gov-access-va-digital-products-services/)
+- Commmetents taken from [VA's public post "Login.gov Provides Access to VA Digital Products, Services"](https://news.va.gov/114076/login-gov-access-va-digital-products-services/)
+- See an [affinity map of the comments in Mural](https://app.mural.co/invitation/mural/oddballinternal7486/1676642198110?sender=u6c46f747a0483ea836054483&key=2b5b5164-e85b-4cb7-a077-41dd2b8a809f)
 
 1. Darwin January 14, 2023 at 12:08 pm
 Why ask for SS number. Last four is all I need for most things I access..I read a lot of comments,mostly negative, are you doing anything about them?
