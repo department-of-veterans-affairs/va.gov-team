@@ -37,7 +37,7 @@ The Health Care Application (10-10EZ) enables Veterans to access and apply for V
 
 The purpose of this study was to: 
 
-1. Obtain a qualitative baseline for tasks within the application to use in comparrison with past studies and future iterations.
+1. Obtain a qualitative baseline for tasks within the application to use in comparison with past studies and future iterations.
 2. Overall, what is easy or difficult to complete within the form and why.
 3. Uncover pain point areas that cause confusion and need further discovery and research.
 
@@ -334,7 +334,7 @@ Observer ratings of start application task completion using rating criteria:
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation 1
+* Recommendation 1: 
     * _Supporting evidence_
 * Recommendation 2
     * _Supporting evidence_
