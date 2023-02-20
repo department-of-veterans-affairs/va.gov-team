@@ -9,9 +9,8 @@
 - [User/page flows](#flows)
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
-- [Entry points](#nav)
-- [Redirects](#redirects)
-- [Meeting notes](#notes)
+- [Secondary nav](#nav)
+- [Meeting notes and open items](#notes)
 
 
 ## <a name="flows"></a>User/page flows <br>
@@ -21,7 +20,7 @@
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 <br>
-- The medical records features will be organized into 3 separate groups within the MHV on VA.gov experience: lab and test resutls, health history, and medical records
+- The medical records features will be organized into 3 separate groups within the MHV on VA.gov experience: lab and test resutls, health history, and medical records - represented by the oranged dashed outlines in the below diagram
 
 ![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/39f2c201-c5e2-48cd-89ad-ddb8d731482a)
 
@@ -29,6 +28,8 @@
 
 ## <a name="url"></a>URLs and breadcrumbs
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
+
+**Note: The breadcrumbs for these pages may need to be suppressed until the "My health" landing page is live to avoide having an inactive segment in the breadcrumb.  If the "My health" landing page is live by the time these features go live, the breadcrumb can exist as noted.**
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
@@ -50,50 +51,18 @@ Blue button download page  | www.va.gov/my-health/medical-records/blue-button | 
 Health summary download page  | www.va.gov/my-health/medical-records/health-summary | Desktop:  VA.gov home > My Health > [H1 of records listing page] > [H1 of health summary detail page] <br> Mobile: < [H1 of records listing page] |
 
 
-## <a name="nav"></a>Entry points <br>
-*A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
+## <a name="nav"></a>Secondary navigation <br>
+*Secondary navigation needs within this feature.*
 
-
-
-
-1. [My HealtheVet on Va.gov landing page](www.va.gov/my-health) - Health records box
-  - Reorder existing links and update destination pages
-    - Link 1: Lab and test results - www.va.gov/my-health/labs-tests/
-    - Link 2: Health history - www.va.gov/my-health/health-history/
-    - Link 3: Share my medical records - www.va.gov/my-health/medical-records/
-  - Actual link labels to be finalized by Sitewide Content
-
-2. Health care hub page - Manage benefits section
-
-3. Health care hub left nav - Manage section
-
-4. Health care > Get medical records page 
-
-5. Records hub page
-
-6. Records hub left nav
-
-7. My VA - Health care section
-  - Existing link for "Get your medical records and lab and test results"
-    ![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/1e8b24d5-3a89-4ef0-8b43-b97b933b5d6d)
-
-8. Va.gov home page (unauth)
-
-9. My HealtheVet (legacy)
-
- 
-
-## <a name="redirects"></a>Redirects <br>
-*A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
-
-
-- All pages on myhealth.va.gov will need to be redirect by...
-
-
-Current URL | Redirect to | Notes
---- | --- | ---
-  |  | 
- 
+- Secondary/left navigation order
+  - Lab and test results
+  - Health history
+    - Allergies
+    - Care notes and summaries
+    - Health conditions
+    - Vaccines
+    - Vitals
+  - Share medical records
 
 
 <hr>
@@ -102,8 +71,10 @@ Current URL | Redirect to | Notes
 ## <a name="notes"></a>Meetings notes and background info
 
 Open issues:
-- Need to determine if secondary nav is needed in initial  phases for health history, or possibly a combo secondary left nav that brings these sections together
+- Need to determine if secondary nav is needed in initial phases for health history, or possibly a combo secondary left nav that brings these sections together
+  - We will create a combined secondary/left nav that will include Lab and test results, Health history, and Share medical records - no other portal features will be included in the left nav
 - identify what phases breadcrumb needs to be suppressed for - until it is linked to from the va.gov landing page
+  - Breadcrumb to be suppressed only until new portal landing page is live
 - identify phase when entry points should be implemented
 - identify where existing medical records and lab and test results link on My VA links to
 - identify what changes are needed to health care hub, inlcuding the existing get medical records page and lab an tests results page
