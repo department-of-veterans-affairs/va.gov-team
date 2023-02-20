@@ -232,7 +232,7 @@ There were a few examples of information requested throughout the application th
  
 ### Finding 5
 
-**There was some confusion around dependents - who qualifies and how some questions were understood.**
+**Who qualifies as a dependent, that definition and general question confusion existed for participants who answered yes to having dependents.**
 
 Labels: [TREND: Content] 
 
