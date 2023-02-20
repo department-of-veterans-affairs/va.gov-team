@@ -182,14 +182,14 @@ _Error_
 You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure your Social Security number and date of birth are on file. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
 
 ---
-## Your Intent to File request has been submitted
-Thank you for submitting your Intent to File request for disability compensation. Your Intent to File will expire on February 07, 2024.
+## You submitted an Intent to File
+By starting this Supplemental Claim request, you automatically submitted an Intent to File. Your Intent to File will expire on February 7, 2024.
 
-**Please note:** We found a previous Intent to File request in our records that expired on February 24, 2022. This IT might have been from an application you started, but didn't finish before the ITF expired. Or, it could have been from a claim you already submitted.
+**Note:** We found in our records a past Intent to File that expired on February 24, 2022. There are 2 possible reasons you have an expired Intent to File. You may have started an application that you didn't finish before the Intent to File expired. Or, you may have already submitted the claim connected to this Intent to File.
 
-What is an Intent to File? (expand) \
+What's an Intent to File? (expand) \
 
-An Intent to File request lets VA know that you're planning to file a claim. An Intent to File reserves a potential effective date for when you could start getting benefits while you prepare your disability claim and gather supporting documents.
+When you submit an Intent to File, you're telling us that you plan to file a claim. This sets a potential start date (called an effective date) for when you could start getting benefits. It gives you time to prepare your claim and gather supporting documents. And it means that your start date for benefits may be earlier than the date you file your claim.
 
 **_CONTINUE_**
 
