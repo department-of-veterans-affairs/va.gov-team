@@ -268,7 +268,7 @@ The participants mental models of who a dependent is or who a dependent consider
 
 > I would want to see how this would work with my private health insurance on this page. (P2-5)
   
-**3. Particpants called out birth sex question and expectation of gender identity options**
+**3. Participants called out the birth sex question and expectation of having gender identity options to choose from here or on another page.**
 
 - 5/10 participants commented that the birth sex question was an issue and that they expected to be given other gender options.
 
