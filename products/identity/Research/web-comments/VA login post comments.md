@@ -1,4 +1,4 @@
-Taken from [VA's post about login.gov](https://news.va.gov/114076/login-gov-access-va-digital-products-services/)
+Taken from [VA's post "Login.gov Provides Access to VA Digital Products, Services"](https://news.va.gov/114076/login-gov-access-va-digital-products-services/)
 
 1. Darwin January 14, 2023 at 12:08 pm
 Why ask for SS number. Last four is all I need for most things I access..I read a lot of comments,mostly negative, are you doing anything about them?
