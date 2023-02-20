@@ -292,19 +292,19 @@ The participants mental models of who a dependent is or who a dependent consider
 
 > Was the list alphabetical? No, it is not. I started typing it in and it popped up. I think it would help to be alphabetical cause usually any dropdown menu is in alphabetical order. (14-30)
 
-
-**5. Progress bar**
-
-> I am still thrown off by step 1 of 6. I have gone through all this and I am still on step 1. I would think as I am clicking continue I would go through steps as I clicked. Maybe add an estimated time on how long it would take to fill out the form. Maybe label it step 1a, 1b…..(P2-13)
-
-
-**6. Veteran information section call-outs**
+**5. Veteran information section call-outs**
 
 *Address pain points 
 
 > Okay so on state, I was born in Puerto Rico, it’s not going to ask me to type in Puerto Rico? It has the option of other but it doesn’t say like, sometimes you go on a site and another window would pop up where you could specify. Like it would say other and then I would type in Puerto Rico. (P14-8)
 
 > Is a PO box an address or do you need a physical address? Sometimes anything that has an account number or anything personal I will send it to the PO box. Like if I put my PO Box would it pop up saying it needs a physical address? I can put my PO box and my physical address on the next line. I don’t know if that would create some confusion because I prefer the PO Box. But I am not getting a pop up so I am assuming they will send it to a PO Box.  (P14-11)
+
+
+**6. Progress bar**
+
+> I am still thrown off by step 1 of 6. I have gone through all this and I am still on step 1. I would think as I am clicking continue I would go through steps as I clicked. Maybe add an estimated time on how long it would take to fill out the form. Maybe label it step 1a, 1b…..(P2-13)
+
 
 
 
