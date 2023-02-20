@@ -203,8 +203,7 @@ Labels: [DSP: Files], [PRDT: DD-214], [TREND: Content]
 There were a few examples of information requested throughout the application that the participant said they need to step away to gather or that they would have to pasue for potentially days before continuing on with the application. 
 
 - 2/7 participants mentioned the deductibles page as a pausing or stopping point.
-- 2/10 participants said they would stop because they would have to gather documents or figure out what login to use.
-- 
+- 5/10 participants said they would stop or pause because they would have to gather documents or figure out what login to use.
 
 
 > So far everything is pretty simple. I am assuming based on this statement that I have already applied to disability and have received a rating. If I tried to enroll in this without a rating. I want to go back and get into that.
