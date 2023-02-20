@@ -335,9 +335,14 @@ Observer ratings of start application task completion using rating criteria:
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation 1: 
+### DRAFT
+* Recommendation 1: Clarify who would benefit from providing household/income information -  
     * _Supporting evidence_
-* Recommendation 2
+* 
+* Recommendation 2: Additional content explanation around use of taxes for calculating income
+    * _Supporting evidence_
+
+* Recommendation 3:
     * _Supporting evidence_
 
 
@@ -349,7 +354,6 @@ _Next steps here. Include owners if appropriate._
 ## Further research needed
 
 - Assistive technology users
-
 
 
 ## Appendix
