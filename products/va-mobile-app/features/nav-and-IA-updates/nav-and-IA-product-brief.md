@@ -51,7 +51,7 @@ Leading indicators (quant)
     * [137,085 in Sept 22](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Dashboard/)
     * 155,852 in Oct 22
 
-* **KR**: <span style="text-decoration:underline;">Amount of updated to Direct Deposit</span> stays consistent
+* **KR**: <span style="text-decoration:underline;">Amount of updates to Direct Deposit</span> stays consistent
     * We want to track if the number of Direct Deposit updates changes drastically because we are changing where that information is located (from Profile to the new Payment ssection).  We want to ensure there isn't a drastic decrease of updates indicating that users can't find where to make changes.
     * [2775 in Sept 22]([https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Dashboard/](https://analytics.google.com/analytics/web/#/p265787033/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..startRow%3D0%26_u.comparisonOption%3Ddisabled%26_r..dataFilters%3D%5B%7B%22type%22:1,%22fieldName%22:%22customDimensionsGroup1Slot01%22,%22evaluationType%22:1,%22expressionList%22:%5B%22production%22%5D,%22complement%22:false,%22isCaseSensitive%22:true,%22expression%22:%22%22%7D%5D%26_u.date00%3D20220901%26_u.date01%3D20220930&r=top-events&ruid=BFA0B975-82E6-4C3B-AD42-ED07A0C253C2&collectionId=3022309925))
     * 2940 in Oct 22
