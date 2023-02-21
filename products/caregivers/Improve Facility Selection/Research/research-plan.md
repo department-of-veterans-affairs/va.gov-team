@@ -13,10 +13,12 @@ During previous usability studies on this form (Research Findings: [February 202
 2. Users are uncertain which facility to specify (Eg. Primary care, therapist, oncologist, most recent, etc.)
 3. Users that live on state borders potentially would have to select a different state from where they live in order to find their preferred facility (located in another state).
 
+- [Sketch Wireflow with research notes](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/eK1L73z)
+
 Additional techinal and user experience concerns include:
 1. The team wants to update and use the facility API to manage the list of locations and include search by zip code in additon to state with a secondary filter by city.
 2. By including both community and VA Health Care Facilities in the search list, this could potentialy add confusion if the process is not made clear to the applicant. 
-3. The question content needs to be in plain language as well as make the process clear as to how this answer will impact the caregiver application process. 
+3. The question content needs to be in plain language as well as make the process clear as to how this answer will impact the caregiver during their application process. 
 
 
 We have created 3 updated facility question flows that focus on variations of content and process explanation while all using the same search functionalty. We are conducting a combination usability test / explorative research study to compare the variations of this question on clarity and understanding of this question. 
@@ -51,6 +53,7 @@ The goals of this user research are to:
 1. Determine what facility question flow variation is the most understandable in the way it is asked.
 2. Determine what variation makes it the most clear for the applicant to know how the information provided will be used during the caregiver application process.
 3. Determine how applicants would prefer to search for and select a facility from a list.
+4. Determine the accessibility of the facility search and selection process. 
 
 ### Outcome
 
@@ -76,6 +79,8 @@ The outcome of this study will help aid in decisions around changes to make to t
 - Can users easily narrow their search or pick a location from multiple pages of options?
 - Is it clear how to reselect a facility if one is selected in error?
 
+**Goal 4: Determine the accessibility of the facility search and selection process.**
+- 
 
 
 ### Hypothesis
@@ -98,7 +103,7 @@ Our hypothesis is that users will be able to navigate through the facility selec
 This will be a focused study on only the facility question(s) that is part of the caregiver application. The goal is to understand the usability impact to variations around question wording, location search and selection, and confirmation messaging.  
 
 This will be a rolling study where we will do multiple studies and continue to iterate,
-Cohort 1: User interview, content focus (20 completed sessions)
+Cohort 1: User interview, content focus only (20 completed sessions)
 Cohort 2: A/B usability task analysis (5 compelted sessions)
 Cohort 3: A/C usability task analysis (5 completed sessions)
 Cohort 4: B/C usability task analysis (5 completed sessions)
@@ -111,7 +116,7 @@ A remote task-based usability study will be conducted remotely with Zoom using t
 
 
 ### Research materials
-- [Conversation Guide]()
+- [Conversation Guide]([)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Research/conversation-guide.md)
 - Designs: [Variation A](), [Variation B](), [Variation C]()
 - Testing (TBD if coded prototypes or UXPin will be used]
 
@@ -136,6 +141,7 @@ We would like to work with Perigean to recruit for 10 fulfilled remote sessions.
 - At least 8 people who plan to use their mobile device for the session
 - Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
 
+- 
 
 **Secondary criteria (nice-to-haves)**
 
