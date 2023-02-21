@@ -39,6 +39,20 @@
   - 190,661 users the first week
   - 231,517 users the second week
 
+### Role of bias in experiment
+  
+By introducing the new homepage as an opt-in experience, we are introducing unknown biases into our experiment. Users themselves are joining the experimental and control groups.
+  
 The feedback and analytics collected on the redesign version may not be a representative sample because 
   - Access to the redesigned page will be based on user "opt-in" from the existing homepage, making the data subject to selection bias and/or status quo bias. Feedback collected across VA.gov also has this potential selection bias so the comparison of results with the existing homepage should still be valid. 
   - Data indicates that Veterans and beneficiaries with login accounts tend to skip the homepage so they will not see the modal announcement or be able to provide feedback on the new homepage. Other Veterans visiting VA.gov with a specific task in mind may be less inclined to view the new homepage during that visit or to take time to complete a feedback survey. These factors may lead to data which disproportionally represents new or unlogged in users. We should be able to sort these segments in the analytics to quantify this potential imbalance. 
+
+#### Detection of biases
+
+Steps to compare experimental and control groups for signs that they are self-selecting in non-random ways:
+- Create two Segments in GA: 1) for users who visit both the VAgov homepage `/` and the url `/new-home-page` during their visit, 2) for those who don't
+- Compare behaviors and demographics between the two segments, per KPIs below
+  
+KPIs/behaviors to watch across the two segements:
+- Desktop vs mobile %
+- High level stats like number of pages visited
