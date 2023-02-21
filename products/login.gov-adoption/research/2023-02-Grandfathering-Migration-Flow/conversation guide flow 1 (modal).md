@@ -1,4 +1,4 @@
-# Conversation Guide: Grandfathering Migration Flow Usability Test (Round 1)
+# Conversation Guide: Grandfathering Migration Flow Usability Test (Round 1, Flow 1: Modal)
 *Login.gov Adoption Team, Legacy Credential Migration, February 2023*
 
 ## Moderator logistics
