@@ -1,8 +1,14 @@
 # [DRAFT] Conversation Guide: 10-10CG facility selection study, 1010 Team, February 2023
 
-## Part B: Survey
+
+
+
+
+## Part A: Interview / Survey
 
 **Questions post content variations:** 
+Ask these three questions after each content variation is presented:
+
 - 1. In your own words, explain what those questions meant to you and how your choice will impact the application process?
 
 - 2. You feel confident in answering the questions with no additional clarification needed:
@@ -100,7 +106,6 @@ Slack for real-time feedback from observers.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
 
-
 ### Starting the session
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
@@ -109,7 +114,7 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
+Thanks for joining us today! My name is Jessica and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
 Today we're going to talk about a part of the application for Family Caregiver Benefits.
@@ -118,7 +123,7 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits. 
+- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits. [Cohorts 2-4?]
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
