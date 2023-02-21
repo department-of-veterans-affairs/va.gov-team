@@ -78,9 +78,10 @@ The outcome of this study will help aid in decisions around changes to make to t
 - Can users easily use the search input and understand what choices are populated from that search?
 - Can users easily narrow their search or pick a location from multiple pages of options?
 - Is it clear how to reselect a facility if one is selected in error?
-
-**Goal 4: Determine the accessibility of the facility search and selection process.**
 - 
+**Goal 4: Determine the accessibility of the facility search and selection process.**
+- Are users able to successfully search and select a location?
+- How do screen reader participants respond to the confirmation pages?
 
 
 ### Hypothesis
@@ -125,6 +126,7 @@ A remote task-based usability study will be conducted remotely with Zoom using t
 
 
 ## Recruitment	
+
 
 
 
