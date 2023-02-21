@@ -9,12 +9,12 @@
 **Questions post content variations:** 
 Ask these three questions after each content variation is presented:
 
-- 1. In your own words, explain what those questions meant to you and how your choice will impact the application process?
+1. In your own words, explain what those questions meant to you and how your choice will impact the application process?
 
-- 2. You feel confident in answering the questions with no additional clarification needed:
+2. You feel confident in answering the questions with no additional clarification needed:
 Strongly disagree, disagree, neither, agree, strongly agree
 
-- 3. You feel confident that you understand how the answer you provide will be used in the caregiver application process:
+3. You feel confident that you understand how the answer you provide will be used in the caregiver application process:
 Strongly disagree, disagree, neither, agree, strongly agree
 
 
@@ -76,11 +76,9 @@ The nearest Caregiver support facility. This facility has a Caregiver Support Co
 - What option would you prefer to answer if you were completing the caregiver application? [A, B or C]
 
 
-Optional open text fields: 
+Optional open questions/text fields: 
 - Additional feedback you would like to provide about any of the options presented: text field for each option
 - Overall additional comments
-
-
 
 
 
