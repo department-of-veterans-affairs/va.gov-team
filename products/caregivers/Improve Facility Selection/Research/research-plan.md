@@ -85,7 +85,9 @@ The outcome of this study will help aid in decisions around changes to make to t
 
 ### Hypothesis
 
-Our hypothesis is that users will understand 
+Our hypothesis is that users will understand what they are selecting 
+
+
 
 Our hypothesis is that users will be able to navigate through the facility selection relatively easily, but may have issues with the following:
 - The amount of results shown
@@ -102,7 +104,8 @@ Our hypothesis is that users will be able to navigate through the facility selec
 
 This will be a focused study on only the facility question(s) that is part of the caregiver application. The goal is to understand the usability impact to variations around question wording, location search and selection, and confirmation messaging.  
 
-This will be a rolling study where we will do multiple studies and continue to iterate,
+This will be a rolling study where we will do multiple studies and plan to iterate if needed to the prototypes/staging after completion and synthesis of cohort 1.
+
 Cohort 1: User interview, content focus only (20 completed sessions)
 Cohort 2: A/B usability task analysis (5 compelted sessions)
 Cohort 3: A/C usability task analysis (5 completed sessions)
@@ -116,7 +119,7 @@ A remote task-based usability study will be conducted remotely with Zoom using t
 
 
 ### Research materials
-- [Conversation Guide]([)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Research/conversation-guide.md)
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Research/conversation-guide.md)
 - Designs: [Variation A](), [Variation B](), [Variation C]()
 - Testing (TBD if coded prototypes or UXPin will be used]
 
@@ -126,16 +129,33 @@ A remote task-based usability study will be conducted remotely with Zoom using t
 
 
 ### Recruitment approach
-We would like to work with Perigean to recruit for 10 fulfilled remote sessions. Therefore, we request that 15 sessions be scheduled.
+
+
+
 
 
 ### Recruitment criteria
+
+Cohort 1: 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|      15       |            10    |6       |  2          |   7      |               | 
+|      28       |            20    |6       |  2          |   12      |               | 
+
+
+Cohort 2: 
+|Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
+|:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
+|      7        |            5     |1       |             |   4      |               | 
+
+
+
+
 
 
 **Primary criteria (must-haves)**
+
+
+
 
 - At least 4 people over the age of 55
 - At least 8 people who plan to use their mobile device for the session
@@ -159,8 +179,12 @@ Participant pool should in diverse in
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
+
+
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
+
+
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email:
@@ -169,6 +193,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Research sessions
 * Planned dates of research:
+
 
 
 
@@ -196,7 +221,7 @@ TBD       | TBD EST
 - Project point of contact: Moderator
 - Participant(s) for pilot test: 
 - Note-takers: Perigean, 1010 Team
-- Observers: Heather Justice (heather.justice@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)  
+- Observers: Heather Justice (heather.justice@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)  
 
 
 > **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
