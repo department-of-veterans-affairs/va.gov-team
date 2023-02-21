@@ -1,4 +1,4 @@
-# Additional information for Perigean to share with Veterans ahead of time
+# Extra information for Perigean to share with Veterans ahead of time
 
 ## Who you’ll meet with
 
