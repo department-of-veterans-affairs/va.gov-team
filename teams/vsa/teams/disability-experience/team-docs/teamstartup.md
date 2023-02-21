@@ -23,72 +23,28 @@
 - [ ] Stand-up
   - [ ] Frequency / day / time
   - [ ] Expected to maximun duration
-   - [ ] What is discussed
-          - [ ] A
-          - [ ] B
-            - [ ] Expected to maximun duration
-    - [ ] What do we bring to this meeting
-          - [ ] A
-          - [ ] B
-    - [ ] What do we expect out of this meeting
-          - [ ] A
-          - [ ] B
-          
+  - [ ] Lead by
+
 - [ ] Refinement
   - [ ] Frequency / day /  time
   - [ ] Expected to maximun duration
-   - [ ] What is discussed
-          - [ ] A
-          - [ ] B
-            - [ ] Expected to maximun duration
-   - [ ] What do we bring to this meeting
-          - [ ] A
-          - [ ] B
-   - [ ] What do we expect out of this meeting
-          - [ ] A
-          - [ ] B
-          
+  - [ ] Lead by
+  
 - [ ] Planning
   - [ ] Frequency / day /  time
   - [ ] Expected to maximun duration
-   - [ ] What is discussed
-          - [ ] A
-          - [ ] B
-            - [ ] Expected to maximun duration
-   - [ ] What do we bring to this meeting
-          - [ ] A
-          - [ ] B
-   - [ ] What do we expect out of this meeting
-          - [ ] A
-          - [ ] B
+  - [ ] Lead by
           
 - [ ] Review
-  - [ ] Frequency / day /  time - 
-  - [ ] Expected to maximun duration - 
-   - [ ] What is discussed
-          - [ ] A
-          - [ ] B
-            - [ ] Expected to maximun duration
-   - [ ] What do we bring to this meeting
-          - [ ] A
-          - [ ] B
-   - [ ] What do we expect out of this meeting
-          - [ ] A
-          - [ ] B
+  - [ ] Frequency / day /  time
+  - [ ] Expected to maximun duration
+  - [ ] Lead by 
           
 - [ ] Retrospective
   - [ ] Frequency / day /  time
   - [ ] Expected to maximun duration
-   - [ ] What is discussed
-          - [ ] A
-          - [ ] B
-            - [ ] Expected to maximun duration
-   - [ ] What do we bring to this meeting
-          - [ ] A
-          - [ ] B
-   - [ ] What do we expect out of this meeting
-          - [ ] A
-          - [ ] B
+  - [ ] Lead by
+
   
 
 ###
