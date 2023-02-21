@@ -58,4 +58,5 @@ By the end of Step 5, the ID.me session has been destroyed. In Step 12 the VA.go
 
 ## Open Questions / Concerns
 Q: Should we force re-authentication when the va.gov session times out but the ID.me session has not?
+
 A: ID.me enforces a policy at LOA 3 whereby re-authorization is always forced.
