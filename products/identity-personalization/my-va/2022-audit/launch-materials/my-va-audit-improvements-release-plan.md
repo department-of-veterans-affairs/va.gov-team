@@ -10,13 +10,13 @@
 
 ### Planning:
 - **UAT Go/No go**
-  - Completed mm/dd/yyyy
+  - _Completed mm/dd/yyyy_
   - UAT readiness ticket:[#51823](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51823)
   - [UAT readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/my-va-audit-improvements-UAT-checklist.md)
 - **Desired date range or test duration:**
-     - Weeks of mm/dd - mm/dd
+     - Weeks of _mm/dd - mm/dd_
 - **Desired number of users:** 
-     - Recruiting n participants with a target of completeing n sessions
+     - Recruiting n participants with a target of completeing _n_ sessions
 - **How you'll recruit the right production test users:** 
      - We will recruit users via Perigean. 
 - **How you'll conduct the testing:** 
@@ -24,22 +24,22 @@
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** 
      - The feature will be behind a feature flag. 
 - **Link to Research plan for UAT**: 
-   - LINK UAT plan
-   - LINK conversation guide
+   - _LINK UAT plan_
+   - _LINK conversation guide_
 
 ### Results:
 - **Number of users:**
-     - n scheduled, n completed 
+     - _n_ scheduled, _n_ completed 
 - **Number of bugs identified / fixed:**
-     - n
+     - _n_
 - **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
-     - ...
+     - _..._
 
 ## Phase II: Staged Rollout
 
 ### Planning
 **Launch Go/No-go:** 
-- Completed mm/dd/yyyy
+- _Completed mm/dd/yyyy_
 - Launch go/no-go ticket: [#50650](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50650)
 - Launch readiness checklist **need link**
 
