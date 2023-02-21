@@ -86,14 +86,14 @@ Now that you have this open, I'd like you to start by imagining that you've just
 
 - Can you tell me what you would do first, to sign in?
 
-Thanks, you can go ahead and click sign in, now.
+Thanks, you can go ahead and click 'sign in,' now.
 
 > *Screen: Sign in pop-up window*
 
 - Before we click anything, can you tell me what you would do next, if you were signing in?
 - Is DS Logon [or other credential they mention] usually how you sign in to the VA?
 
-Great, we're going to imagine you signed in with DS Logon, today. You can click sign in and we'll continue.
+Great, we're going to imagine you signed in with DS Logon, today. You can click 'sign in' and we'll continue.
 
 > *Screen: DS Logon sign in page*
 
@@ -131,7 +131,7 @@ Okay great. For today, let's imagine that you are going to set up a Login.gov ac
 - Before you click anything, can you tell me what you would do first to set up an account?
 - Before you click anything, what do you expect to see when you click [repeat what they called it]?
 
-Great, let's go ahead and click [read link's text].
+Great, let's go ahead and click 'Set up Login.gov.'
 
 > *Screen: Create an account start page*
 
@@ -141,7 +141,7 @@ As we go through the next couple of screens, I'd like for you to describe out lo
 - Any concerns?
 - If there was an issue on this page, what would you do?
 
-Great. Let's click create account.
+Great. Let's click 'create account.'
 
 > *Screen: Create your account*
 
@@ -149,7 +149,7 @@ Great. Let's click create account.
 - Any concerns?
 - If there was an issue on this page, what would you do?
 
-Great. Let's click continue.
+Great. Let's click 'continue.'
 
 > *Screen: Check your email*
 
@@ -157,7 +157,7 @@ Great. Let's click continue.
 - Any concerns?
 - If there was an issue on this page, what would you do?
 
-Great. We're going to imagine that you opened your email address on your [whatever device they're on currently]. You can click [I've asked Carolyn for click area].
+Great. We're going to imagine that you opened your email address on your [whatever device they're on currently]. You can click 'check email' now.
 
 > *Screen: Email verification*
 
@@ -165,7 +165,7 @@ Great. We're going to imagine that you opened your email address on your [whatev
 - Any concerns?
 - If there was an issue on this page, what would you do?
 
-Great. Let's click confirm email address and continue.
+Great. Let's click 'confirm email address' and continue.
 
 > *Screen: Create a strong password*
 
@@ -173,7 +173,7 @@ Great. Let's click confirm email address and continue.
 - Any concerns?
 - If there was an issue on this page, what would you do?
 
-Great. Let's click continue.
+Great. Let's click 'continue.'
 
 > *Screen: Multi-factor authentication start page*
 
@@ -183,7 +183,7 @@ Great. Let's click continue.
 - Any concerns?
 - If there was an issue on this page, what would you do?
 
-Great, thanks. Today, we're going to imagine that you choose to set up text or voice message. We'll continue and set that up.
+Great, thanks. Today, we're going to imagine that you choose to 'set up text or voice message.' We'll continue and set that up.
 
 > *Screen: Text message MFA set up*
 
@@ -192,7 +192,7 @@ Great, thanks. Today, we're going to imagine that you choose to set up text or v
 - Any concerns?
 - If there was an issue on this page, what would you do?
 
-Great. Let's click send code, and imagine you are sent a code.
+Great. Let's click 'send code,' and imagine you are sent a code.
 
 > *Screen: Enter your security code*
 
@@ -200,7 +200,7 @@ Great. Let's click send code, and imagine you are sent a code.
 - Any concerns?
 - If there was an issue on this page, what would you do?
 
-Great. Let's click submit.
+Great. Let's click 'submit.'
 
 > *Screen: You've added your first authentication method*
 
@@ -212,7 +212,7 @@ Great. For today, we're going skip setting up another method.
 
 - Can you tell me how you would skip setting up an additional method?
 
-Great. Let's click skip for now.
+Great. Let's click 'skip for now.'
 
 > *Screen: Your account setup is complete*
 
@@ -231,23 +231,23 @@ Great. Let's click skip for now.
 
 ## Task 3: Continue back to the VA - 10 minutes
 
-Great. Let's click agree and continue.
+Great. Let's click 'agree and continue.'
 
-> *Screen: Consent to go back to the VA*
-
-- What does this screen mean to you?
-- What do you expect to happen next?
-- If there was an issue on this page, what would you do?
-
-Great. Let's click [I'll update this with button text once prototype is updated].
-
-> *Screen: Continue back to the VA*
+> *Screen: Continue to VA*
 
 - What does this screen mean to you?
 - What do you expect to happen next?
 - If there was an issue on this page, what would you do?
 
-Great. Let's click [I'll update this with button text once prototype is updated].
+Great. Let's click 'agree and continue.'
+
+> *Screen: VA is using Login.gov*
+
+- What does this screen mean to you?
+- What do you expect to happen next?
+- If there was an issue on this page, what would you do?
+
+Great. Let's click 'continue.'
 
 > *Screen: (Back on VA.gov) You've successfully signed in with Login.gov
 
@@ -283,7 +283,11 @@ Now, you'll remember that when we started today, we imagined you were online to 
 
 We're nearly done today, thank you for answering so many of my questions already.
 
-Next, I'd like us to imagine that some time has passed since you set up this Login.gov account. So, a couple months later, you log back into the VA, using Login.gov. And you'll see this screen pop-up.
+Next, please click anywhere up at the top part of this screen [dark blue navigation bar]. This is just so we can move on the last part of testing.
+
+Now, I'd like you to imagine that it's been a couple months since you set up your Login.gov account. You're signing back into the VA, using Login.gov. And now you see this screen pop-up.
+
+You can click anywhere up at the top part of this screen [dark blue navigation bar] again.
 
 > *Screen: Modal recommending upgrade to IAL2*
 
