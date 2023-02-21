@@ -2,7 +2,7 @@
 *Login.gov Adoption Team, Legacy Credential Migration, February 2023*
 <br>
 
-Note: This guide is for testing [Prototype #1: Modal after sign in](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=41%3A1311&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=41%3A1311). Review [guide #2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Flow/conversation%20guide%20%232.md) for testing [Prototype #2: Email ask to sign in]
+Note: This Conversation Guide is for testing [Prototype #1: Modal after sign in](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=41%3A1311&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=41%3A1311). Review [Conversation Guide #2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Flow/conversation%20guide%20%232.md) for testing [Prototype #2: Email ask to sign in]
 
 ## Moderator logistics
 ### 2-3 days before the session
