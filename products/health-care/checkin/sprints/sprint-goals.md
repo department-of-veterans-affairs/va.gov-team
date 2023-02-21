@@ -32,6 +32,8 @@ ________________________________________________________________________________
          - [[TEXT SOLUTION] [Design] Create Content and Final Wireframes for Text Message Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53704)
          - [[TEXT SOLUTION] [Content] Write two text messages for claim status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53567)        
          - [[TEXT SOLUTION] [BE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
+      - Configure metrics
+         - [Recheck GA Events due to text solution change](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53966)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
    - **Sub Goal: Analyze current metrics to see what they tell us**
       - [UX] Analyze GA Metrics
