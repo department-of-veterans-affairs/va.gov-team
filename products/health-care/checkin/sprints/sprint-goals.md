@@ -13,10 +13,14 @@ ________________________________________________________________________________
 
 #### SPRINT TICKETS
 - **GOAL: Test Vets-API Server to EKS in Staging**
-   - [Check-In Experience: Testing in Staging Vets-API Server to EKS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52715)
+   - [[FE] Check-In Experience: Testing in Staging Vets-API Server to EKS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52715)
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
-      - [Run Test Cases for Functional Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52906)   
+      - Fix bugs
+         - [[FE] Add appt instructions into appt list on pre check in confirmation page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53855)
+         - [[FE] Check width of check in now button in check in app](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53858)
+         - [[FE] Clicked on details link after 15 mins past appt time](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53862)  
+      - Hold Staging Review    
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
       - Address un-handled scenarios
@@ -24,27 +28,27 @@ ________________________________________________________________________________
       - Implement text solution for BTSSS latency    
          - [[Content] Write two text messages for claim status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53567)
          - [[Design] Update wireframe(s) for "no" to travel user flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53461)
-         - [SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
+         - [[BE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
    - **Sub Goal: Analyze current metrics to see what they tell us**
-      - [Analyze GA Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53927)
-      - [Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53651)   
+      - [[UX] Analyze GA Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53927)
+      - [[UX] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53651)   
    - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)**
       - Solve the issue of "Answer questions" when there are no questions to answer**
          - [[Design] Update text of pre check in action link on introduction page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53793)
    - **Sub Goal: [Send Check-in Text 45 Minutes Before Appointment to encourage use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)**
-      - [Create Content for Text Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53569)
+      - [[Content] Create Content for Text Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53569)
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
-      - [Create prototypes for testing with Veterans](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53067)
+      - [[Design] Create prototypes for testing with Veterans](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53067)
    - **Sub Goal: [Send to Check-in when Pre-Check-in link is accessed inside check-in window](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)**
       - next refinement we will have implementation tickets to point
 - **GOAL: Address tech debt**
    - [[FE] Breadcrumb angle bracket is read aloud by Voice Over](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53066)
-   - [SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)  
+   - [[BE] SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)  
    - [[FE] Remove enable/disable flags for check-in and pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53702) 
    - [[BE] Remove enable/disable flags for check-in and pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53712)
    - [[FE] [STAGING TOOL] Book appointments directly with VistA instead of via VEText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53416)
-   - [Review Applications & Identify Areas for Improvement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53713)
+   - [[FE] [BE] Review Applications & Identify Areas for Improvement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53713)
 
 
 ---------------------------  END FUTURE & TENTATIVE --------------------------------------
