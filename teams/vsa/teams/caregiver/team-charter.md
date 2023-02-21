@@ -32,14 +32,18 @@ Health Products
 ## Who we are
 
 ### Team Members:
-- DEPO Product Lead: Lauren Alexanderson
-- DEPO Product Owner: Patrick Bateman, Katherine Lawyer
-- DEPO Engineering Lead: Stephen Barrs, Mark Dewey
-- Team Product Manager: Heather Justice
-- Sr. UX Design: Jessica Stump
-- UX/UI Design: Nick Osmanski
-- Front-end Engineering: Matt Long
-- Back-End Engineering: Lihan Li
+- Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
+- Patrick Bateman | patrick.bateman@va.gov - Product Owner
+- Katherine Lawyer | katherine.lawyer@va.gov - Product Owner
+- Mark Dewey | mark.dewey@va.gov - Engineering Product Owner
+- Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
+- Danielle Thierry | danielle.thierry@va.gov - Content writer
+- Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us - Product manager
+- Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us - Sr UX Design/Research
+- David "DK" Kennedy | david.kennedy@va.gov / david.kennedy@adhocteam.us - UX Designer
+- Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
+- Erin Flaherty | erin.flaherty@va.gov / erin.flaherty@adhocteam.us - Sr Frontend/QA Engineer
+- Lihan Li | han.li@va.gov / lihan@adhocteam.us - Backend Engineer
 
 ---
 
@@ -169,10 +173,10 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 
 #### Slack "#1010-health-apps":
 
-This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
+- This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
 
 #### GitHub
-GitHub is the single source of truth. All work is documented for tracking and capacity planning.
+- GitHub is the single source of truth. All work is documented for tracking and capacity planning.
 
 #### PTO
 - We will respect time off and understand that mental, physical, and personal health is the top priority for team members
@@ -180,4 +184,4 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
-- Extra time? Explore the "Ready" column in ZenHub.
+- Extra time? Explore the "Ready to pickup" column in [ZenHub](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/board).
