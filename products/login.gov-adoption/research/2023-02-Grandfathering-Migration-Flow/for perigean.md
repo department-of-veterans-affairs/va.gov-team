@@ -1,4 +1,4 @@
-# Additional information to share with participants ahead of time
+# Additional information for Perigean to share with participants ahead of time
 
 ## Who you’ll meet with
 
