@@ -4,7 +4,7 @@
 
 You will meet with Tyler. She’s a designer and researcher for the U.S. Department of Veterans Affairs.
 
-In addition, Tyler might bring along a few colleagues to your session. They will listen, take notes and observe, so that the whole team can learn from this research. It's up to you whether they are allowed to join.
+In addition, Tyler might ask to bring along a few colleagues. They will sit quietly, listening and taking notes. They'd like to join because it helps them learn from the research, too. But, it's up to you whether they are allowed to join.
 
 ## Why the VA is doing this research
 
