@@ -48,9 +48,9 @@
 **Phased rollout:** 
 |Launch % |Time Frame | Planned Date Range | Ticket | 
 |-------|-----------|-----------|------|
-| Launch to 25% | 1 week | week of mm/dd/yyyy | ticket |
-| Launch to 50% | 1 week | week of mm/dd/yyyy | ticket |
-| Launch to 100% | 1 week | week of mm/dd/yyyy | ticket |
+| Launch to 25% | 1 week | week of mm/dd/yyyy | [53976](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53976) |
+| Launch to 50% | 1 week | week of mm/dd/yyyy | [53977](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53977) |
+| Launch to 100% | 1 week | week of mm/dd/yyyy |[53978](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53978) |
 
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
