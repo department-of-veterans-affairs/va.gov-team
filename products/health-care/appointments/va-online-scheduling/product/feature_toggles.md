@@ -10,7 +10,7 @@
 | va_online_scheduling_cancel | Allows veterans to cancel VA appointments
 | va_online_scheduling_community_care | Allows veterans to submit requests for Community Care appointments
 | va_online_scheduling_direct | Allows veterans to directly schedule VA appointments
-| va_online_scheduling_facility_selection_v2_2 | Next iteration of facility selection, version 2.2.
+| ~~va_online_scheduling_facility_selection_v2_2~~ | Next iteration of facility selection, version 2.2. | n/a | n/a | [#53715](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53715) |  
 | va_online_scheduling_requests | Allows veterans to submit requests for VA appointments
 | va_online_scheduling_unenrolled_vaccine | Toggle for unenrolled vaccine scheduling discovery work.
 | va_online_scheduling_vaos_service_cc_appointments | Toggle for new vaos service cc appointments.
