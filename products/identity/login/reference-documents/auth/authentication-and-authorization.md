@@ -13,7 +13,7 @@ A user has a token that is stored in a sessiion cookie.  The VA API persists use
 The diagram below lays out example steps for a login flow necessary for a client application to access an API endpoint that requires authentication.  This example uses a user profile endpoint. If the endpoint is requested without a valid token in the cookie, then the VA API returns a `401` status code. 
 
 To obtain a valid cookie the user must complete the ID.me login flow via a signed SAML request. When the VA API receives a valid SAML callback, it persists a unique session in Redis. The cookie is returned to the client and can be used to validate subsequent requests. 
-![Current Authhentication Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/idme/idme-flow.png)
+![Current Authhentication Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/idme/authentication.png)
 
 ### SAML Request & Assertion
 The SAML assertion is obtained from ID.me after a user successfully completes the ID.me login flow.
@@ -45,7 +45,7 @@ Each resource on the VA-API will be protected by a level of assurance as defined
 
 ### Authorization Flow
 If a client attempts to access a resource with a _valid_ cookie, but insufficient authorization they will receive `HTTP 403 FORBIDDEN` (accompanying JSON TBD - should indicate which LOA is required).  In this case, a client must veirfy their session with `GET https://api.va.gov/sessions/verify/new`
-![Current LOA3 Authorization Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/idme/loa1to-3-flow.png)
+![Current LOA3 Authorization Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/idme/verification.png)
 (**Note**: Diagram is auto-generated using [SequenceDiagram.org](http://sequencediagram.org) from [this source file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/idme/loa1to-3-flow.uml). )
 
 ### Logout Flow
