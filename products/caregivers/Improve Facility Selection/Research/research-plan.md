@@ -8,20 +8,20 @@
 
 This research is to be conducted on the application for Family Caregiver Benefits (10-10CG) by the 1010 team.
 
-During previous usability studies on this form (Research Findings: [February 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md), [April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/research%20findings.md)) we have found the VA medical facility selection page caused many users confusion. A few trends in confusion include:
-1. Users are confused why the facility they are familiar with isn't listed. (The current dropdown list only includes facilities with a Caregiver support staff and not all possible locations)
+During previous usability studies on this form (research findings: [February 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md), [April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/research%20findings.md)) we have found the VA medical facility selection page caused many users confusion. A few trends include:
+1. Users are confused why the facility they are familiar with isn't listed. (The current dropdown list only includes facilities with a Caregiver support staff and not all possible facilities.)
 2. Users are uncertain which facility to specify (Eg. Primary care, therapist, oncologist, most recent, etc.)
 3. Users that live on state borders potentially would have to select a different state from where they live in order to find their preferred facility (located in another state).
 
 - [Sketch Wireflow with research notes](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/eK1L73z)
 
-Additional techinal and user experience concerns include:
-1. The team wants to update and use the facility API to manage the list of locations and include search by zip code in additon to state with a secondary filter by city.
-2. By including both community and VA Health Care Facilities in the search list, this could potentialy add confusion if the process is not made clear to the applicant. 
-3. The question content needs to be in plain language as well as make the process clear as to how this answer will impact the caregiver during their application process. 
+Additional technical and user experience concerns include:
+1. The team wants to update and use the facility API to manage the list of locations and include search by zip code and city in additon to state.
+2. By including both community and VA health care facilities in the search list, this could potentialy add confusion if the process is not made clear to the applicant. 
+3. The question content needs to be in plain language as well as make the process clear as to how this answer will impact the caregiver and/or Veteran during their application process. 
 
 
-We have created 3 updated facility question flows that focus on variations of content and process explanation while all using the same search functionalty. We are conducting a combination usability test / explorative research study to compare the variations of this question on clarity and understanding of this question. 
+> DRAFT: We have created 3 updated facility question flows that focus on variations of content and process explanation while all using the same search functionalty. We are conducting a combination usability test / explorative research study to compare the variations of this question on clarity and understanding of this question. 
 
 
 ### OCTO Objectives 
