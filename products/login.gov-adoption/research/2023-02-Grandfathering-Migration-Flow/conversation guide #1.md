@@ -1,5 +1,8 @@
 # Conversation Guide #1: Grandfathering Migration Flow (Round 1)
 *Login.gov Adoption Team, Legacy Credential Migration, February 2023*
+<br>
+
+Note: This guide is for testing [Prototype #1: Modal after sign-in](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=41%3A1311&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=41%3A1311). Please see [guide #2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Flow/conversation%20guide%20%232.md) for alternative test.
 
 ## Moderator logistics
 ### 2-3 days before the session
