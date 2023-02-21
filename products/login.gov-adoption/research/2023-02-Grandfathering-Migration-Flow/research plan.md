@@ -81,16 +81,17 @@ Review whether Veterans know where to get help or what they will do if they enco
 ## Methodology
 This usability study will be conducted remotely on Zoom. We will test on both mobile and desktop.
 
-In half of the sessions, we will test Prototpye A with Veterans. In the other half of the sessions, we will test Prototype B with Veterans. Both flows are nearly identical, but each has an alternative trigger or starting point:
+We will test two prototypes. In half the sessions, we'll test Prototype #1 and in the other half we'll test Prototype #2. Both flows are nearly identical, but each has an alternative start:
+
 - Prototype #1: After signing in to VA.gov, a modal pops up asking Veteran to set up a Login.gov account.
 - Prototype #2: Veteran receives an email asking them to sign in to VA.gov to start Login.gov account set up.
 
 ### Research materials
 
-- [Conversation guide #1: Modal after sign-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Flow/conversation%20guide.md)
-- [Conversation guide #2: Email ask to sign-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Flow/conversation%20guide%20%232.md)
-- [Prototype #1: Modal after sign-in](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=41%3A1311&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=41%3A1311)
-- [Prototype #2: Email ask to sign-in](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=241%3A1369&scaling=min-zoom&page-id=241%3A1368&starting-point-node-id=234%3A1848)
+- [Conversation guide #1: Modal after sign in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Flow/conversation%20guide.md)
+- [Conversation guide #2: Email ask to sign in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Flow/conversation%20guide%20%232.md)
+- [Prototype #1: Modal after sign in](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=41%3A1311&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=41%3A1311)
+- [Prototype #2: Email ask to sign in](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=241%3A1369&scaling=min-zoom&page-id=241%3A1368&starting-point-node-id=234%3A1848)
 	
 ## Recruitment	
 
