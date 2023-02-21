@@ -8,81 +8,85 @@
 - [ ] Design/Research team norms
    - [ ] Where to keep artifacts and links to artifacts 
    - [ ] Relative sizing guide
+   - [ ] Definition of Read (DoR)
+   - [ ] Definition of Done (DoD)
 - [ ] Engineering team norms
    - [ ] Where to keep artifacts and links to artifacts 
    - [ ] Relative sizing guide
    - [ ] ???
+   - [ ] Definition of Read (DoR)
+   - [ ] Definition of Done (DoD)
 - [ ] How do we resolve disagreements? Higher votes, unanimous, something else?
 
 ### Scrum related norms norms
 - [ ] Agreement on ceremonies schedule
 - [ ] Stand-up
-  - [ ] Frequency / time
+  - [ ] Frequency / day / time
   - [ ] Expected to maximun duration
-     - [ ] What is discussed
+   - [ ] What is discussed
           - [ ] A
           - [ ] B
             - [ ] Expected to maximun duration
-     - [ ] What do we bring to this meeting
+    - [ ] What do we bring to this meeting
           - [ ] A
           - [ ] B
-     - [ ] What do we expect out of this meeting
+    - [ ] What do we expect out of this meeting
           - [ ] A
           - [ ] B
           
 - [ ] Refinement
-  - [ ] Frequency / time
+  - [ ] Frequency / day /  time
   - [ ] Expected to maximun duration
-     - [ ] What is discussed
+   - [ ] What is discussed
           - [ ] A
           - [ ] B
             - [ ] Expected to maximun duration
-     - [ ] What do we bring to this meeting
+   - [ ] What do we bring to this meeting
           - [ ] A
           - [ ] B
-     - [ ] What do we expect out of this meeting
+   - [ ] What do we expect out of this meeting
           - [ ] A
           - [ ] B
           
 - [ ] Planning
-  - [ ] Frequency / time
+  - [ ] Frequency / day /  time
   - [ ] Expected to maximun duration
-     - [ ] What is discussed
+   - [ ] What is discussed
           - [ ] A
           - [ ] B
             - [ ] Expected to maximun duration
-     - [ ] What do we bring to this meeting
+   - [ ] What do we bring to this meeting
           - [ ] A
           - [ ] B
-     - [ ] What do we expect out of this meeting
+   - [ ] What do we expect out of this meeting
           - [ ] A
           - [ ] B
           
 - [ ] Review
-  - [ ] Frequency / time - 
+  - [ ] Frequency / day /  time - 
   - [ ] Expected to maximun duration - 
-     - [ ] What is discussed
+   - [ ] What is discussed
           - [ ] A
           - [ ] B
             - [ ] Expected to maximun duration
-     - [ ] What do we bring to this meeting
+   - [ ] What do we bring to this meeting
           - [ ] A
           - [ ] B
-     - [ ] What do we expect out of this meeting
+   - [ ] What do we expect out of this meeting
           - [ ] A
           - [ ] B
           
 - [ ] Retrospective
-  - [ ] Frequency / time
+  - [ ] Frequency / day /  time
   - [ ] Expected to maximun duration
-     - [ ] What is discussed
+   - [ ] What is discussed
           - [ ] A
           - [ ] B
             - [ ] Expected to maximun duration
-     - [ ] What do we bring to this meeting
+   - [ ] What do we bring to this meeting
           - [ ] A
           - [ ] B
-     - [ ] What do we expect out of this meeting
+   - [ ] What do we expect out of this meeting
           - [ ] A
           - [ ] B
   
