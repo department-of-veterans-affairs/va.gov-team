@@ -4,6 +4,8 @@
 
 You will meet with Tyler. She’s a designer and researcher for the U.S. Department of Veterans Affairs.
 
+In addition, Tyler might bring along a few colleagues to your session. They will listen, take notes and observe, so that the whole team can learn from this research. It's up to you whether they are allowed to join.
+
 ## Why the VA is doing this research
 
 The VA wants to improve the experience for Veterans when they login to VA.gov, eBenefits or My HealtheVet. This research will help them receive feedback and ensure any changes they make work well for Veterans.
