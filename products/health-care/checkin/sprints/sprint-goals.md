@@ -20,27 +20,37 @@ ________________________________________________________________________________
          - [[FE] Add appt instructions into appt list on pre check in confirmation page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53855)
          - [[FE] Check width of check in now button in check in app](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53858)
          - [[FE] Clicked on details link after 15 mins past appt time](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53862)  
+      - Finish metrics
+         - [Implement & Track Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51109)
       - Hold Staging Review    
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
       - Address un-handled scenarios
          - [[Design] Create wireframes for can't check you in scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53582)
          - [[Design] Update wireframes to prioritize info messages (for answering "no" to travel question.)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53461)
+         - [[Design] Update wireframes to prioritize info messages (for check-in with no travel questions)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53566)
       - Implement text solution for BTSSS latency    
          - [[TEXT SOLUTION] [Design] Create Content and Final Wireframes for Text Message Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53704)
          - [[TEXT SOLUTION] [Content] Write two text messages for claim status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53567)        
          - [[TEXT SOLUTION] [FE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
    - **Sub Goal: Analyze current metrics to see what they tell us**
-      - [[UX] Analyze GA Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53927)
+      - [UX] Analyze GA Metrics
       - [[UX] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53651)   
+         - Rolled over one
+      - [[UX] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53963)
+         - New one
    - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)**
       - Solve the issue of "Answer questions" when there are no questions to answer**
          - [[Design] Update text of pre check in action link on introduction page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53793)
    - **Sub Goal: [Send Check-in Text 45 Minutes Before Appointment to encourage use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)**
       - [[Content] Create Content for Text Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53569)
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
-      - [[Design] Create prototypes for testing with Veterans](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53067)
+      - [[Design]Create wireframes for app with appointments list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52486)
+      - [[Content] Audit and update Need Help content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53883)
+      - [[UX] [SPIKE] Research CodePen to Determine if we Want to Use it for Prototyping](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53959)
+      - Fill out sitewide IA request
+      - [[Research]Start the research plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)
    - **Sub Goal: [Send to Check-in when Pre-Check-in link is accessed inside check-in window](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)**
       - next refinement we will have implementation tickets to point
 - **GOAL: Address tech debt**
