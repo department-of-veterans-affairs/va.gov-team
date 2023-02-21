@@ -107,10 +107,10 @@ This will be a focused study on only the facility question(s) that is part of th
 
 This will be a rolling study where we will do multiple studies and plan to iterate if needed to the prototypes/staging after completion and synthesis of cohort 1.
 
-Cohort 1: User interview, content focus only (20 completed sessions)
-Cohort 2: A/B usability task analysis (5 compelted sessions)
-Cohort 3: A/C usability task analysis (5 completed sessions)
-Cohort 4: B/C usability task analysis (5 completed sessions)
+- **Cohort 1:** User interview, content focus only (20 completed sessions)
+- **Cohort 2:** A/B usability task analysis (5 compelted sessions)
+- **Cohort 3:** C/A usability task analysis (5 completed sessions)
+- **Cohort 4:** B/C usability task analysis (5 completed sessions)
 
 
 ### Location
