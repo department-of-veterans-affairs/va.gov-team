@@ -41,9 +41,9 @@
 **Launch Go/No-go:** 
 - _Completed mm/dd/yyyy_
 - Launch go/no-go ticket: [#50650](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50650)
-- Launch readiness checklist **need link**
+- [Launch readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/launch-materials/my-va-audit-improvements-launch-readiness-checklist.md)
 
-**Desired date range:** mm/dd/yyyy - mm/dd/yyyy
+**Desired date range:** _mm/dd/yyyy - mm/dd/yyyy_
 
 **Phased rollout:** 
 |Launch % |Time Frame | Planned Date Range | Ticket | 
@@ -54,7 +54,7 @@
 
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
-Success metrics link TK
+_Success metrics link TK_
 
 ## Go Live!
 
