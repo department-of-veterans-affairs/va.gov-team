@@ -185,7 +185,7 @@ You’ll need to provide us with the missing information before you can fill out
 ## You submitted an Intent to File
 By starting this Supplemental Claim request, you automatically submitted an Intent to File. Your Intent to File will expire on February 7, 2024.
 
-**Note:** We found in our records a past Intent to File that expired on February 24, 2022. There are 2 possible reasons you have an expired Intent to File. You may have started an application that you didn't finish before the Intent to File expired. Or, you may have already submitted the claim connected to this Intent to File.
+**Note:** We found in our records an Intent to File that expired on February 24, 2022. There are 2 possible reasons you have an expired Intent to File. You may have started an application that you didn't finish before the Intent to File expired. Or, you may have already submitted the claim connected to this Intent to File.
 
 What's an Intent to File? (expand) \
 
@@ -288,9 +288,9 @@ We'll save your application every time you add or update information.
 
 **The new decision review process**
 
-By filing a Supplemental Claim online, you are opting in to the new decision review process. When you do this, we’ll move your issue from the old appeals process to the new decision review process. You’re likely to get a faster decision on your claim when you switch to the new process.
+By filing a Supplemental Claim, you're opting in to the new decision review process. We’ll move your claim from the old appeals process to the new decision review process. You’re likely to get a faster decision on your claim when you switch to the new process.
 
-If you wish to continue your decision review in the old process, please refer to your decision letter for further details.
+If you want to continue your claim in the old appeals process, don't submit a Supplemental Claim. Check you decision letter for more details about the appeals process.
 
 **_BACK_**
 
