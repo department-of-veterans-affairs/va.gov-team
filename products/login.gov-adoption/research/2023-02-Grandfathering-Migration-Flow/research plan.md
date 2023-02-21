@@ -47,7 +47,7 @@ This research will inform a built prototype(s), which we will use for accessibil
 Review whether Veterans can migrate their accounts from DS Logon to Login.gov (IAL1) without issue:
 
 * Are Veterans motivated to set up a Login.gov account when initially prompted, why or why not?
-* [If we are prepared to test an alternate flow, with a different trigger] Are Veterans more or less motivated by the alternate flow?
+* Are Veterans more or less motivated when prompted via email or via a (surprise) modal after sign-in?
 * How confident do Veterans feel about their ability to set up a Login.gov account when initially prompted?
 * Can Veterans successfully initiate the account setup flow?
 * Can Veterans successfully create their account, including verifying their email address and setting up multi-factor authentication?
@@ -82,15 +82,15 @@ Review whether Veterans know where to get help or what they will do if they enco
 This usability study will be conducted remotely on Zoom. We will test on both mobile and desktop.
 
 In half of the sessions, we will test Prototpye A with Veterans. In the other half of the sessions, we will test Prototype B with Veterans. Both flows are nearly identical, but each has an alternative trigger or starting point:
-- Prototype A: Modal is triggered after a Veteran signs in
-- Prototype B: [TBD]
+- Prototype #1: After signing in to VA.gov, a modal pops up asking Veteran to set up a Login.gov account.
+- Prototype #2: Veteran receives an email asking them to sign in to VA.gov to start Login.gov account set up.
 
 ### Research materials
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Flow/conversation%20guide.md)
 - Prototypes:
-	- [Prototype A: Modal after sign-in]([url](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=41%3A1311&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=41%3A1311))
-	- [Need to add link to Prototype B](url)
+	- [Prototype #1: Modal after sign-in]([url](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=41%3A1311&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=41%3A1311))
+	- [Prototype #2: Email ask to sign-in]([url](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=241%3A1369&scaling=min-zoom&page-id=241%3A1368&starting-point-node-id=234%3A1848))
 	
 ## Recruitment	
 
