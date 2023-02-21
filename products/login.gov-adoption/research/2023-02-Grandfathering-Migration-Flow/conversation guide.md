@@ -111,8 +111,8 @@ I'm going to give you a second to read this more closely now. When you're finish
 - Do you have any initial questions, after reading this?
 - In this scenario, would you be interested in setting up a Login.gov account right now? Why or why not?
 - What hesitations do you have about setting up a Login.gov account?
-- Why do you think the VA is recommending that you set up a Login.gov?
-- If you had a question about this screen, what would you do?
+- Why do you think the VA is recommending that you set up a Login.gov account?
+- If you had a question about anything you read here, what would you do?
 
 ### Things to watch for:
 
