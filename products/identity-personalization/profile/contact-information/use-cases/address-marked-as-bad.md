@@ -6,7 +6,7 @@ When mail is sent to a Veteran and then returned to the VA, the address is flagg
 - [Initial brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)
 - [Discovery documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/discovery/documentation.md) 
 - [User flow](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/7yPo0rZ)
-- Sketch mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/JnRG2qz) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/m1YlLyw](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/m1YlLyw) 
+- Sketch mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/JnRG2qz) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/m1YlLyw)
 	- _Note: Mockups begin with Personal information alert._ 
 	- _View Contact information alert and states by arrowing right._
 
