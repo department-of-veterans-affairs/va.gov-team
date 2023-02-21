@@ -4,7 +4,7 @@
 
 
 
-## Part A: Interview / Survey
+## Part A: Content Testing via Interview/Survey
 
 **Questions post content variations:** 
 Ask these three questions after each content variation is presented:
