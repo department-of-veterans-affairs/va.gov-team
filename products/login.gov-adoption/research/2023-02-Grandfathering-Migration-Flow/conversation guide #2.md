@@ -1,5 +1,3 @@
-Need to update.
-
 # Conversation Guide #2: Grandfathering Migration Flow (Round 1)
 *Login.gov Adoption Team, Legacy Credential Migration, February 2023*
 <br>
@@ -76,6 +74,22 @@ Great, thanks!
 ### Things to watch for:
 - Does the Veteran recall whether they usually start on VA.gov, eBenefits, My HealtheVet or another VA application?
 - Does the Veteran recall using DS Logon, MHV, Login.gov or ID.me to sign in?
+
+## Task 1: Email asks to set up Login.gov - 10 minutes
+
+Next, I’d like to share some ideas with you so we can get your feedback.
+
+In a minute, I'm going to send you a link to a prototype. I mentioned earlier that a prototype is like a pretend version of the VA website. So it's going to look similar, but it won't work as you might expect it, because it's not a real email or website.
+
+Okay, I've just sent you a link in the chat. [Help them open it and share their screen].
+
+> *Screen: Email from VA.gov*
+
+Now that you have this open, I'd like you to start by imagining that you've just received an email from the VA.
+
+----
+NEED TO UPDATE 
+----
 
 ## Task 1: Sign into VA.gov - 10 minutes
 
