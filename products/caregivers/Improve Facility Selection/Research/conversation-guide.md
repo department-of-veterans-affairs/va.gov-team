@@ -1,8 +1,84 @@
 # [DRAFT] Conversation Guide: 10-10CG facility selection study, 1010 Team, February 2023
 
+## Part B: Survey
+
+**Questions post content variations:** 
+- 1. In your own words, explain what those questions meant to you and how your choice will impact the application process?
+
+- 2. You feel confident in answering the questions with no additional clarification needed:
+Strongly disagree, disagree, neither, agree, strongly agree
+
+- 3. You feel confident that you understand how the answer you provide will be used in the caregiver application process:
+Strongly disagree, disagree, neither, agree, strongly agree
 
 
-## Part A - Usability Sessions
+
+### Content A
+#### Recent medical care
+Please enter the name of the medical facility where the Veteran last received medical treatment.
+Name of medical facility:
+Was this a hospital or clinic?
+
+#### VA health care services
+Please select the VA medical center or clinic where the Veteran receives or plans to receive health care services. (Required)
+A Caregiver Support Coordinator at this VA medical center will review your application.
+Search by state or postal code
+
+
+> Ask questions
+
+
+### Content B
+#### Recent medical care
+Please enter the name of the medical facility where the Veteran last received medical treatment.
+Name of medical facility:
+Was this a hospital or clinic?
+
+#### Select a VA health facility for the application process
+Select your preferred  VA health facility. 
+If you don’t have a preference, choose the facility nearest to you. 
+Note: Caregiver support staff are only available at some facilities. The list includes only these facilities.
+Search by state or postal code
+
+#### Confirm your health care facilities
+The facility where the Veteran receives, or plans to receive treatment. [facility selected]
+The nearest Caregiver support facility. This facility has a Caregiver Support Coordinator on staff to process your application, and be a point of contact for family-caregiving-related support and benefits. [facility for application process]
+
+
+> Ask questions
+
+
+### Content C
+#### The Veteran’s VA health care facility
+Select the facility where the Veteran gets or plans to get their care.
+Note: Only some facilities process caregiver program applications. We use the location of the Veteran's health care facility to find the nearest facility that processes applications.
+Search by state or postal code
+
+#### Confirm your health care facilities
+The facility where the Veteran receives, or plans to receive treatment. [facility selected]
+The nearest Caregiver support facility. This facility has a Caregiver Support Coordinator on staff to process your application, and be a point of contact for family-caregiving-related support and benefits. [facility for application process]
+
+> Ask questions
+
+
+### END QUESTIONS:
+
+- Which option gives you the most confidence in answering and you can do so easily with no additional help? [A, B or C]
+
+- Which option gives you the most confidence in what happens next in the caregiver application process? [A, B or C]
+
+- What option would you prefer to answer if you were completing the caregiver application? [A, B or C]
+
+
+Optional open text fields: 
+- Additional feedback you would like to provide about any of the options presented: text field for each option
+- Overall additional comments
+
+
+
+
+
+## Part B - Usability Sessions - Cohorts 2,3 and 4
 
 --
 
@@ -167,63 +243,4 @@ Thank you so much again, and enjoy the rest of your day!
 
 
 
-## Part B: Survey
 
-Questions post content variations: 
-- 1. You feel confident in answering the questions with no additional clarification needed:
-Strongly disagree, disagree, neither, agree, strongly agree
-
-- 2. You feel confident that you understand how the answer you provide will be used in the caregiver application process:
-Strongly disagree, disagree, neither, agree, strongly agree
-
-
-### Content A
-#### Recent medical care
-Please enter the name of the medical facility where the Veteran last received medical treatment.
-Name of medical facility:
-Was this a hospital or clinic?
-
-#### VA health care services
-Please select the VA medical center or clinic where the Veteran receives or plans to receive health care services. (Required)
-A Caregiver Support Coordinator at this VA medical center will review your application.
-Search by state or postal code
-
-
-> Ask questions
-
-
-### Content B
-#### Recent medical care
-Please enter the name of the medical facility where the Veteran last received medical treatment.
-Name of medical facility:
-Was this a hospital or clinic?
-
-#### Choose a VA health facility for the application process
-Only some VA medical facilities provide a Caregiver Support Coordinator to process your application and be a point of contact for family-caregiving-related support and benefits.
-Please select the VA medical center or clinic that you would like to coordinate with during the application process.
-
-> Ask questions
-
-
-### Content C
-#### The Veteran’s health care facility
-Please select the VA medical center or clinic where the Veteran receives or plans to receive health care services. (Required)
-Note: Only some VA medical facilities process Caregiver applications. We use the Veteran’s health care facility to find the closest facility that processes Caregiver applications and that provides Caregiver support.
-Search by state or postal code
-
-#### Confirm your health care facilities
-The facility where the Veteran receives, or plans to receive treatment. [facility selected]
-The nearest Caregiver support facility. This facility has a Caregiver Support Coordinator on staff to process your application, and be a point of contact for family-caregiving-related support and benefits. [facility for application process]
-
-### END QUESTIONS:
-
-- Which option gives you the most confidence in answering and you can do so easily with no additional help? [A, B or C]
-
-- Which option gives you the most confidence in what happens next in the caregiver application process? [A, B or C]
-
-- What option would you prefer to answer if you were completing the caregiver application? [A, B or C]
-
-
-Optional open text fields: 
-- Additional feedback you would like to provide about any of the options presented: text field for each option
-- Overall additional comments
