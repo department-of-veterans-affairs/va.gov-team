@@ -204,10 +204,10 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 42  | Zzzretfourfiftyfour,Patient | 1935-04-07 | Ben | √ | √ |
 | 569 | Fotrythree,Patient | 1935-04-07 | Brian | √ | √ |
 | 692 | Fortyfour,Patient | 1935-04-07 | CIE Team Demos/Reviews / Platform Design | √ | √ |
-| 168 | Fortyfive,Patient | 1935-04-07 | CIE Team Demos/Reviews | √ | √ |
-| 301 | Fortysix,Patient | 1935-04-07 | CIE Team Demos/Reviews | √ | √ |
-| 744 | Fortyseven,Patient | 1935-04-07 | CIE Team Demos/Reviews | √ | √ |
-| 745 | Fortyeight,Patient | 1935-04-07 | CIE Team Demos/Reviews | √ | √ |
+| 168 | Fortyfive,Patient | 1935-04-07 | CIE Team Demos/Reviews / Platform Accessibility | √ | √ |
+| 301 | Fortysix,Patient | 1935-04-07 | CIE Team Demos/Reviews / Platform Content | √ | √ |
+| 744 | Fortyseven,Patient | 1935-04-07 | CIE Team Demos/Reviews / Platform IA | √ | √ |
+| 745 | Fortyeight,Patient | 1935-04-07 | CIE Team Demos/Reviews Platform QA | √ | √ |
 | 745 | Fortyeight,Patient | 1935-04-07 | CIE Team Demos/Reviews | √ | √ |
 | 100851 | TYLER,JOHN | 1988-01-23 | Mark Dewey | - | √ |
 | 100852 | ADAMS,JOHN | 1989-01-23 | Mark Dewey | - | √ |
