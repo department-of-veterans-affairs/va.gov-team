@@ -71,8 +71,9 @@ ________________________________________________________________________________
    - [[FE] Loading component is read aloud twice by Voice Over](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52509)   
    - [[FE] [STAGING TOOL] Surface initiate (pre-)checkin errors to end user in the Staging Tool](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52973)
    - [[FE] [STAGING TOOL] Book appointments directly with VistA instead of via VEText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53416)
-   - Can be pulled in if capacity allows
-      - [[FE] Create Proposal for an MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54021)
+   - **_Optional Tech Debt_**
+      - [Have an Initial Discussion to Identify Risks & Problems w/ Current Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54034)
+      - [[FE] Create Proposal for an MVP for a Cross-Product Path Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54021)
       - [[FE] [BE] Review Applications & Identify Areas for Improvement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53713)
 
 
