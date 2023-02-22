@@ -16,12 +16,9 @@ During previous usability studies on this form (research findings: [February 202
 - [Sketch Wireflow with research notes](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/eK1L73z)
 
 Additional technical and user experience concerns include:
-1. The team wants to update and use the facility API to manage the list of locations and include search by zip code and city in additon to state.
+1. The team wants to update and use an upcoming release of the facility API to manage the list of all community and VA locations and include search by zip code and city in additon to state.
 2. By including both community and VA health care facilities in the search list, this could potentialy add confusion if the process is not made clear to the applicant. 
 3. The question content needs to be in plain language as well as make the process clear as to how this answer will impact the caregiver and/or Veteran during their application process. 
-
-
-> DRAFT: We have created 3 updated facility question flows that focus on variations of content and process explanation while all using the same search functionalty. We are conducting a combination usability test / explorative research study to compare the variations of this question on clarity and understanding of this question. 
 
 
 ### OCTO Objectives 
@@ -50,37 +47,30 @@ Are there moments that matter?
 
 The goals of this user research are to:
 
-1. Determine what facility question flow variation is the most understandable in the way it is asked.
-2. Determine what variation makes it the most clear for the applicant to know how the information provided will be used during the caregiver application process.
-3. Determine how applicants would prefer to search for and select a facility from a list.
-4. Determine the accessibility of the facility search and selection process. 
+1. Determine if the facility question is easily understandable.
+2. Determine if the confirmation page add clarity or confusion for the applicant to know how the information provided will be used during the caregiver application process.
+3. Determine the accessibility of the facility search and selection process. 
 
 ### Outcome
-
 The outcome of this study will help aid in decisions around changes to make to this question and and how it can help best minimize applications submitted with facility errors. 
 
 
 ### Research questions
 
 **Goal 1: Understandable content**
-- Which variation (a, b or c) is the easiest to understand and answer with little confusion?
-- Which variation (a, b or c) results is the least amount of clarifying questions or additional information needed to complete? 
-
+- Is the new version of this question easy to understand and answer with little confusion?
+- Does this new version result in clarifying questions or additional information needed to complete? 
 
 **Goal 2: Clear how this is used in caregiver application process**
-- Which variation (a, b or c) is easiest to understand why they are selecting a facility and how it impacts the caregiver application process?
-- Do users understand the variations (b and c) containing a confirmation screen after selection and does this add additional confusion?
+- Is the new version easy for the participant to understand why they are selecting a facility and how it impacts the caregiver application process?
+- Does the confirmation screen after selection add any additional confusion or result in clarifying questions?
 
 
 **Goal 3: Search and selection of facilities**
 - Are users able to navigate through the facility selection without difficulty?
-- Do they know what to input in the text field?
+- Do they know what to input in the text search field?
 - Can users easily use the search input and understand what choices are populated from that search?
-- Can users easily narrow their search or pick a location from multiple pages of options?
 - Is it clear how to reselect a facility if one is selected in error?
-- 
-**Goal 4: Determine the accessibility of the facility search and selection process.**
-- Are users able to successfully search and select a location?
 - How do screen reader participants respond to the confirmation pages?
 
 
@@ -92,25 +82,16 @@ Our hypothesis is that users will understand what they are selecting
 
 Our hypothesis is that users will be able to navigate through the facility selection relatively easily, but may have issues with the following:
 - The amount of results shown
-- Filtering results by a filter they want
+- Desire to filter results and how
 - Not recognizing the name of the facility they are looking for
-- Understanding the difference between community and Caregiver support facilities
-
-
+- Understanding the difference between community and VA facilities/Caregiver Support Facilities
 
 
 ## Methodology	
 
 **User interviews and usability task analysis*
 
-This will be a focused study on only the facility question(s) that is part of the caregiver application. The goal is to understand the usability impact to variations around question wording, location search and selection, and confirmation messaging.  
-
-This will be a rolling study where we will do multiple studies and plan to iterate if needed to the prototypes/staging after completion and synthesis of cohort 1.
-
-- **Cohort 1:** User interview, content focus only (20 completed sessions)
-- **Cohort 2:** A/B usability task analysis (5 compelted sessions)
-- **Cohort 3:** C/A usability task analysis (5 completed sessions)
-- **Cohort 4:** B/C usability task analysis (5 completed sessions)
+This will be a focused study on only the facility question(s) that is part of the caregiver application. The goal is to understand the usability impact to content, location search and selection, and confirmation messaging.  
 
 
 ### Location
@@ -121,8 +102,9 @@ A remote task-based usability study will be conducted remotely with Zoom using t
 
 ### Research materials
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Research/conversation-guide.md)
-- Designs: [Variation A](), [Variation B](), [Variation C]()
-- Testing (TBD if coded prototypes or UXPin will be used]
+- Designs: 
+- 
+- Testing (TBD if coded prototypes, staging or UXPin will be used]
 
 
 ## Recruitment	
@@ -138,28 +120,15 @@ A remote task-based usability study will be conducted remotely with Zoom using t
 
 ### Recruitment criteria
 
-Cohort 1: 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|      28       |            20    |6       |  2          |   12      |               | 
-
-
-Cohort 2: 
-|Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
-|:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|      7        |            5     |1       |             |   4      |               | 
-
-
-
-
+|      15       |            10    |2       |  1          |   7      |               | 
 
 
 **Primary criteria (must-haves)**
 
 
-
-
-- At least 4 people over the age of 55
+- At least 3 people over the age of 55
 - At least 8 people who plan to use their mobile device for the session
 - Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
 
