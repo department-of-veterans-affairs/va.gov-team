@@ -2,7 +2,7 @@
 *Login.gov Adoption Team, Legacy Credential Migration, February 2023*
 <br>
 
-Note: This Conversation Guide will be used to test [Prototype #2](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=241%3A1369&scaling=min-zoom&page-id=241%3A1368&starting-point-node-id=234%3A1848), where the Veteran receives an email asking them to sign in to VA.gov to start Login.gov account set up. Review [Conversation Guide #1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Flow/conversation%20guide%20%231.md) for testing related to [Prototype #1](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=41%3A1311&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=41%3A1311).
+Note: This Conversation Guide will be used to test [Prototype #2](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=241%3A1369&scaling=min-zoom&page-id=241%3A1368&starting-point-node-id=234%3A1848), where the Veteran receives an email asking them to sign in to VA.gov to start Login.gov account set up. Review [Conversation Guide #1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability/conversation%20guide%20%231.md) for testing related to [Prototype #1](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=41%3A1311&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=41%3A1311).
 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -13,7 +13,7 @@ Note: This Conversation Guide will be used to test [Prototype #2](https://www.fi
 - [ ] Prepare prototype on your device and be ready for screen sharing if necessary
 - [ ] Mute Slack and email notifications
 - [ ] Use #feedback-backchannel to interact with observers (including asking for 'observer instructions' from the Slackbot)
-- [ ] Review goals and research questions for this study in the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Flow/research%20plan.md)
+- [ ] Review goals and research questions for this study in the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability/research%20plan.md)
 
 ### Starting the session
 - [ ] Ensure everyone except the participant is on mute
