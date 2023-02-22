@@ -29,6 +29,5 @@
   - Choose (from your desktop) the Tagalog.json file
   - Enter a name for the output file (e.g. TagalogTranslationsNeeded) [NOTE: .json will get appended automatically)
   - Review the 2 files you generated for any keys that may be obsolete or incorrect
-- Forward the 2 files that you generated to Danielle Thierry and let her know that we need this content translated; better to give her a date needed by
 
 ## VIDEO INSTRUCTIONS
