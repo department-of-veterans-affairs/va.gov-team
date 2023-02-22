@@ -200,7 +200,7 @@ This all depends on Florence having Github access.
 
 ## Sprint 5 (3/1 - 3/14)
 
-**Berni -- I have stopped creating sprint epics, so you'll need to create one for sprint 5 and sprints going forward**
+**~Berni -- I have stopped creating sprint epics, so you'll need to create one for sprint 5 and sprints going forward~** << Done, thanks - BX!
 
 ### General
 
