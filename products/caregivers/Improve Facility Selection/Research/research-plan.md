@@ -89,7 +89,7 @@ Our hypothesis is that users will be able to navigate through the facility selec
 
 ## Methodology	
 
-**User interviews and usability task analysis*
+**Moderated usability task analysis*
 
 This will be a focused study on only the facility question(s) that is part of the caregiver application. The goal is to understand the usability impact to content, location search and selection, and confirmation messaging.  
 
@@ -129,7 +129,7 @@ A remote task-based usability study will be conducted remotely with Zoom using t
 
 
 - At least 3 people over the age of 55
-- At least 8 people who plan to use their mobile device for the session
+- At least 4 people who plan to use their mobile device for the session
 - Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
 
 - 
@@ -202,6 +202,6 @@ TBD       | TBD EST
 ## Resources	
 - Project Brief: TBD
 - Convo Guide: TBD
-- Design drafts: [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/D741171D-81BD-4CEF-A7A2-69A548C8D346)	
+- Design drafts: [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/D741171D-81BD-4CEF-A7A2-69A548C8D346)
 - Synthesis: TBD
 - Research Findings: TBD
