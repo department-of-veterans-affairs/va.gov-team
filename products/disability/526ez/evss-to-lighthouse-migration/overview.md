@@ -48,14 +48,14 @@ This list excludes any other endpoints to eVSS that are found during the discove
 
 ## Tech Discovery
 #### Endpoint mappings
-|Endpoints|EVSS URI|EVSS Filepath|New API|Notes|
+|eVSS Endpoints|EVSS URI|EVSS Filepath|New API|Notes|
 |--------|---------------|--------------------------------|------------------|------|
 |/getpdf|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/getPDF"|"evss/disability_form/getPDF"|526 Container|same eVSS URI as /submit|
 |/submit_all_claim|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/submit"|"evss/disability_form/form526"|LH Benefits Claims API|[Swagger Docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_526/postSubmitFormV2)|
 |/validate|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/validate"|"evss/disability_form/form526_validate"|LH Benefits Claims API|same eVSS URI as /submit|
 |/rateddisabilities|"/wss-form526-services-web/rest/form526/v1/ratedDisabilities"|"evss/disability_form/rated_disabilities"|||
 |/rateddisabilities|"/wss-form526-services-web/rest/form526/v2/ratedDisabilities"|"evss/disability_form/rated_disabilities"||Assuming we should just use v2? [Swagger docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_526) are maybe for v2?|
-|/brd|"/wss-referencedata-services-web/rest/referencedata/v1/"|?||New API is in production|
+|/benefits_reference_data|"/wss-referencedata-services-web/rest/referencedata/v1/" (also see references to v0, not sure which is right)|?||New API is in production, [swagger for legacy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/benefits_reference_data/getBenefitsReferenceData), [docs for new API](https://developer.va.gov/explore/benefits/docs/benefits_reference_data?version=current)|
 
 
 #### Existing Lighthouse Service Implementation
