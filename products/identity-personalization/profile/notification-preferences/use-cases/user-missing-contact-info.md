@@ -12,8 +12,8 @@ User accesses field to update contact info.
 * [Desktop mock-up](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/wLGk4J9)
 * [Mobile mock-up](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/v8ej4q3)
 
-Once they update their contact information, the success message will include a link back to the notification settings page. 
-* [Desktop mock-up](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/JnO1Jv0)
+Once they update their contact information, they'll be brought back to the notification settings page, where a success message will be displayed. 
+* [Desktop mock-up](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/WKLzddk)
 * [Mobile mock-up](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/4al7YGJ)
 
 
