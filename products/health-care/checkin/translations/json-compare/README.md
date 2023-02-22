@@ -31,3 +31,5 @@
   - Review the 2 files you generated for any keys that may be obsolete or incorrect
 
 ## VIDEO INSTRUCTIONS
+- [Video instructions](https://us06web.zoom.us/rec/share/Ajv16wilUG8Q6BgC8flhtUFq3tqXkWEPXyIW8eeXlzjAjpD5o-lTrjsr2L5Y7P7x.BYa_LR6iHYSfh78i)
+    - Passcode: #nW6GR%?
