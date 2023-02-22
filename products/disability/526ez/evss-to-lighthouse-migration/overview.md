@@ -34,6 +34,7 @@ This list excludes any other endpoints to eVSS that are found during the discove
 
 ## Important links
 - [Biweekly Lighthouse touchpoint notes and agenda](https://community.max.gov/pages/viewpage.action?spaceKey=VAExternal&title=Lighthouse+-+VA.gov+Touchpoint+Topics)
+- [EVSS consumer endpoint usage mapping](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1675893977361/c1aa4c861ea967e12296f72bcbec3307b35f5eb1?wid=0-1677011908528) 
 
 ## Details
 |Endpoint|Lighthouse Team|Lighthouse Update               |BDEX Zenhub ticket|Update|Notes|
