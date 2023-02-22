@@ -5,9 +5,17 @@ LOA3 users who sign in, go to the profile, and click into the notification setti
 
 ## UX
 * We use the  [warning alert component](https://design.va.gov/components/alert#warning-alert) to direct the user to the contact info section to provide the missing contact info.
+* [Desktop mock-up] (https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/9P49mAx)
+* [Mobile mock-up] (https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/v8ejpvM)
+
+* We provide the field to update contact info.
+* [Desktop mock-up]
+* [Mobile mock-up] (https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/v8ej4q3)
+
 * Once they update their contact information, the success message will include a link back to the notification settings page. 
 * [Desktop mock-up](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/JnO1Jv0)
-* [Mobile mock-up](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/52l205y)
+* [Mobile mock-up] (https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/4al7YGJ)
+
 
 ## Codes
 N/A
