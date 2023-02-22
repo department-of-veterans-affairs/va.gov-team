@@ -19,9 +19,9 @@ ________________________________________________________________________________
       - Fix bugs
          - [[FE] Add appt instructions into appt list on pre check in confirmation page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53855)
          - [[FE] Clicked on details link after 15 mins past appt time](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53862)  
-      - Finish metrics
+      - Prepare for release
          - [Implement & Track Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51109)
-      - Hold Staging Review    
+         - Hold Staging Review    
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
       - Address un-handled scenarios
@@ -37,15 +37,13 @@ ________________________________________________________________________________
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
    - **Sub Goal: Analyze current metrics to see what they tell us**
       - [UX] Analyze GA Metrics
-      - [[UX] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53651)   
-         - Rolled over one
-      - [[UX] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53963)
-         - New one
-  - **Sub Goal: Show Clear Message when using an expired link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)
+      - [[UX] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53651) (rolled over one)
+      - [[UX] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53963) (new one)
+  - **Sub Goal: [Show Clear Message when using an expired link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)**
       - [[FE] New Message for Expired Link for Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52492)
       - [[FE] New Message for Expired Link on Day-of Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52393)
   - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)**
-      - Solve the issue of "Answer questions" when there are no questions to answer**
+      - Solve the issue of "Answer questions" when there are no questions to answer
          - [[Design] Update text of pre check in action link on introduction page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53793)
    - **Sub Goal: [Send Check-in Text 45 Minutes Before Appointment to encourage use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)**
       - [[Content] Create Content for Text Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53569)
@@ -56,8 +54,14 @@ ________________________________________________________________________________
       - Fill out sitewide IA request
       - [[Research]Start the research plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)
    - **Sub Goal: [Send to Check-in when Pre-Check-in link is accessed inside check-in window](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)**
-      - next refinement we will have implementation tickets to point
+      - [[BE] Modify lorota/service object check_in_data for hand-off](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53984)
+      - [[BE] CHIP/refresh-appointments Error Handling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53994)
+      - [[BE] Store hand-off query parameter in model](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53996)
 - **GOAL: Address tech debt**
+   - [[Design] [Bug] Update Wireframes to use the correct phone icon per Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53999)
+   - [[Design] [Bug] Update Wireframes to say "Back to last screen" instead of "Back to appointments"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54001)
+   - [[Design] [Bug] Update Wireframes to remove timezone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53999)
+   - [[FE] Update "Need help" section in pre-check-in and check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54002)
    - [[FE] Breadcrumb angle bracket is read aloud by Voice Over](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53066)
    - [[BE] SPIKE: How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)  
    - [[BE] Call refresh_precheckin after auth in precheckin scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53903)
