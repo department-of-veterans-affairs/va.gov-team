@@ -48,7 +48,7 @@ This list excludes any other endpoints to eVSS that are found during the discove
 
 ## Tech Discovery
 #### Endpoint mappings
-|Endpoints|EVSS URI|EVSS Service|EVSS Filepath|New API|Notes|
+|Endpoints|EVSS URI|EVSS Filepath|New API|Notes|
 |--------|---------------|--------------------------------|------------------|------|-----|
 |/getpdf|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/getPDF"|"evss/disability_form/getPDF"|526 Container|same eVSS URI as /submit|
 |/submit|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/submit"|"evss/disability_form/form526"|LH Benefits Claims API||
