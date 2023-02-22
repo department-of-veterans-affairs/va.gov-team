@@ -5,14 +5,15 @@
   - Dependencies
     - You will need to have Python installed
     - You will need to have these packages installed
-      - ![image](https://user-images.githubusercontent.com/86678742/218779394-68506b1b-a205-4788-a584-2c2f5959b8c1.png)
+        - json
+        - re
+        - easygui    
 
 ## STEP-BY-STEP INSTRUCTIONS
 - Set up the Python script
     - Download the Python script above to your desktop
     - Install Python (see https://www.python.org/downloads/)
-    - Install these dependencies
-    
+    - Install the needed packages using Pip (see https://www.w3schools.com/python/python_pip.asp)    
 - Retrieve the locale files from the GitHub Main branch
     - Open the [English locale json file](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/check-in/locales/en/translation.json) from the Main GitHub branch
     - Click the 'Copy raw contents' icon and paste it into a new text file labelled "English.json"
@@ -20,7 +21,7 @@
     - Click the 'Copy raw contents' icon and paste it into a new text file labelled "Spanish.json"
     - Open the [Tagalog locale json file](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/check-in/locales/tl/translation.json) from the Main GitHub branch
     - Click the 'Copy raw contents' icon and paste it into a new text file labelled "Tagalog.json"
-    - NOTE: you can also clone the branch to get the files if you are so inclined; I coulen't find another way to download the json files but if anyone knows a way please let me know
+    - NOTE: you can also clone the branch to get the files if you are so inclined; I couldn't find an easy way to download just the json files but if anyone knows a way please let me know
 - Generate the files that list the English content for which we need to have translations
   - Run the Python Script
   - Choose (from your desktop) the English.json file 
