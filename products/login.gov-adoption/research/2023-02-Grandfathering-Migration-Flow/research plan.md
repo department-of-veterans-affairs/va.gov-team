@@ -71,6 +71,7 @@ Review whether Veterans know where to get help or what they will do if they enco
 ### Hypotheses
 
 * Veterans will be motivated to set up a Login.gov account if they understand they will no longer be able to use DS Logon at some point in the future.
+* Veterans who receive an email will be more motivated to set up a Login.gov account than those who see a modal pop-up; because they won't be interrupted while completing another VA task.
 * Veterans will be able to set up an IAL1 Login.gov account, which is less risky and burdensome than setting up an IAL2 Login.gov account.
 * Most Veterans will be able to set up one multi-factor authentication method without issue.
 * Most Veterans will choose to set up text or voice message as their multi-factor authentication method.
