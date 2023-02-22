@@ -202,3 +202,10 @@ Please list the people who will be serving in each role.
 * Other observers (where space permits): Clayton Zook (clayton.zook@oddball.io), Amanda Porter (ajohnson@clarityinnovates.com), Charlye Tran (charlye@bluetiger.digital) 
 
 Each session will include no more than 6 total attendees per session: 1 Veteran participant, 1 moderator, 1-2 notetaker(s), 1-2 observer(s).
+
+## Reviewers
+
+This plan has been reviewed by:
+* John Rahaghi, OCTO
+* Login.gov Adoption Team
+* Clayton Zook, Researcher, Core Identity Product Team (Surge)
