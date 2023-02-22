@@ -2,14 +2,14 @@
 
 ## Team Members
 - Product Manager - [Lori Pusey](https://dsva.slack.com/team/U035BMZ07PD)
-- Delivery Manager - [Sarah Knopp](https://dsva.slack.com/team/U02EFEEQAG0)
+- Delivery Manager & Scrum Master - [Sarah Knopp](https://dsva.slack.com/team/U02EFEEQAG0)
 - UX Research 
   - [Ben Brasso](https://dsva.slack.com/team/U0360TY9E9H)
-  - [Christina Gednalske](https://dsva.slack.com/team/U02KVPC82VA)
 - UX/UI Design
   - [Zach Park](https://dsva.slack.com/team/U02FQ4X5J8M)
   - [Ya-Ching Tsao](https://dsva.slack.com/team/U02EFEFA1EU)
   - [Kelly Smith](https://dsva.slack.com/team/U04427HRK60)
+  - [Christina Gednalske](https://dsva.slack.com/team/U02KVPC82VA)
 - Frontend Engineers
   - [Adrian Rollett](https://dsva.slack.com/team/U01B3JUHLF5)
   - [Brian Seek](https://dsva.slack.com/team/U02FLCLQ6J2)
