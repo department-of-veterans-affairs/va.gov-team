@@ -8,7 +8,7 @@ VEText, one of the software components in the check-in experience software syste
 
 While investigating failure scenarios in production, the research team observed a few veterans using pre-check-in links to check in for the day of the appointment.  And, when the veterans click on pre-check-in link on the day of appointment, they are shown pre-check-in is no longer available error message as below.
 
-![Screen Shot 2023-02-10 at 9.03.04 AM.png](Pre-check-in%20to%20day-of%20check-in%20hand-off%203545933ab7b3469d981ef1ac73a440d9/Screen_Shot_2023-02-10_at_9.03.04_AM.png)
+![ErrorMessageSnapshot.png](./ErrorMessageSnapshot.png)
 
 The team decided to mitigate the problem and provide a seamless experience for veterans by redirecting to the day-of check-in when the pre-check-in link gets clicked accidentally on the day of the appointment.
 
@@ -16,7 +16,7 @@ The team decided to mitigate the problem and provide a seamless experience for v
 
 Each pre-check-in workflow will have the appointments information for single day stored in LoROTA.  Every time new appointment gets scheduled on different day, system will kick-off new pre-check-in workflow.
 
-![ExistingPrecheckinWorkflow.png](Pre-check-in%20to%20day-of%20check-in%20hand-off%203545933ab7b3469d981ef1ac73a440d9/ExistingPrecheckinWorkflow.png)
+![ExistingPrecheckinWorkflow.png](./ExistingPrecheckinWorkflow.png)
 
 # Assumptions
 
@@ -31,15 +31,15 @@ PCI-API team modifying,
 - `CHIP/refresh-appointments` to accept optional parameters (yet to be confirmed) necessary for refreshing pre-check-in data in LoROTA with current day appointment information
 - `CHIP/initiate-check-in` to accept only `uuid` for pre-check-in workflow to validate the appointment/insurance
 
-![HandoffPrecheckinDesignProposal.png](Pre-check-in%20to%20day-of%20check-in%20hand-off%203545933ab7b3469d981ef1ac73a440d9/HandoffPrecheckinDesignProposal.png)
+![HandoffPrecheckinDesignProposal.png](./HandoffPrecheckinDesignProposal.png)
 
 ### CHIP/refresh-appointment Endpoint Sequence Diagram
 
-![refresh_appointment.png](Pre-check-in%20to%20day-of%20check-in%20hand-off%203545933ab7b3469d981ef1ac73a440d9/refresh_appointment.png)
+![refresh_appointment.png](./refresh_appointment.png)
 
 ### CHIP/initiate-check-in Endpoint Sequence Diagram
 
-![chip_initiate_check_in.png](Pre-check-in%20to%20day-of%20check-in%20hand-off%203545933ab7b3469d981ef1ac73a440d9/chip_initiate_check_in.png)
+![chip_initiate_check_in.png](./chip_initiate_check_in.png)
 
 ### PCI-API Team Open Items
 
@@ -54,13 +54,13 @@ Veteran-facing service will explore the pre-check-in data payload for the appoin
 
 ### vets-website managing hand-off with query parameter in PatientCheckIns GET
 
-![vets-website_hand-off.png](Pre-check-in%20to%20day-of%20check-in%20hand-off%203545933ab7b3469d981ef1ac73a440d9/vets-website_hand-off.png)
+![vets-website_hand-off.png](./vets-website_hand-off.png)
 
 ### Design Option 2
 
 ### vets-api managing hand-off
 
-![vets-api_hand-off_option1.png](Pre-check-in%20to%20day-of%20check-in%20hand-off%203545933ab7b3469d981ef1ac73a440d9/vets-api_hand-off_option1.png)
+![vets-api_hand-off_option1.png](./vets-api_hand-off_option1.png)
 
 When vets-api calls `Lorota/data` GET endpoint to get appointment data, vets-api will examine the appointment data and decides if pre-check-in link was clicked on the day-of appointment.  As pre-check-in link will be sent for all appointments booked for single day, looking at the first appointment `startTime` would be good enough for the hand-off decision.
 
@@ -68,7 +68,7 @@ Currently, vets-api uses `V2::Lorota::Service.check-in-data` to fetch patient da
 
 ### **vets-api Detailed Implementation View**
 
-![pre-check-in-data.png](Pre-check-in%20to%20day-of%20check-in%20hand-off%203545933ab7b3469d981ef1ac73a440d9/pre-check-in-data.png)
+![pre-check-in-data.png](./pre-check-in-data.png)
 
 **Questions to Front End team?**
 
@@ -112,7 +112,7 @@ Open Items
 
 ### vets-website managing hand-off with new endpoints
 
-![vets-website_hand-off_option2.png](Pre-check-in%20to%20day-of%20check-in%20hand-off%203545933ab7b3469d981ef1ac73a440d9/vets-website_hand-off_option2.png)
+![vets-website_hand-off_option2.png](./vets-website_hand-off_option2.png)
 
 **Option 2 Pros**
 
