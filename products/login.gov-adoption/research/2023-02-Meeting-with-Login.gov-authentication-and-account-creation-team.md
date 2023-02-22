@@ -60,7 +60,7 @@ Wednesday, February 22
 * Similar to what we learned in discovery.
 * Can we share anything with Login.gov related to this?
 
-### Potential for security keys as a back-up method, but issues to consider
+#### Potential for security keys as a back-up method, but issues to consider
 * Login.gov's study was on text & voice one-time codes. So they heard opinions about security keys through that lens. eg. “Text and voice is more convenient” or “I wasn’t given a security key.” Onboarding might be challenging.
 * Also, participants were mobile-first: Security keys might need to work with mobile devices, not just desktops.
 * Login.gov ultimately finds that people love their phones, they’re easy. Texts come from friends and family all the time. Driving users to select phone as MFA method.
@@ -74,18 +74,18 @@ Wednesday, February 22
 * But we reframed our question to: Is this a good backup option? Can we give them out at health appointment? Good option for someone unhoused? Can be used at public library? And we don't know the answers yet.
 * Also, people assist Veterans & family who might need to get access. Security keys might work for non-Veteran roles. Share their account with that person. Tangibility of security key made the process make more sense for non-veteran users.
 
-### Speaking of caregivers...
+#### Speaking of caregivers...
 * Caregivers has come up with some participants in Login.gov's research. People may share their accounts, or some participants rely on caregiver, official or unofficial. May have login issues.
 * One participant with a disability relied on someone who lived with them, but they weren’t always able to help with logging in - issues with their device.
 
-### Who participants in research?
+#### Who takes part in research? Who's missing?
 * Login.gov looked for self-reported cognitive disabilities, but hasn’t looked for unhoused Veterans with limited digital device access. Although, other Veterans have suggested to them that they should involve people who are unhoused.
 * Login.gov's interested in unhoused Veterans! They haven’t been able to study this. And would love to collaborate on something like that.
 * Team Ada at Login.gov works on identity verification (Princess’ team). Can we put the teams together? One study instead of 3?
 * Amanda's in touch with Princess about setting up a meet and greet soon.
 * John would likely be interested in discussing the potential for collaboration between partners on this study.
 
-### Action items
+#### Action items
 * VA: Share analytics for migration when dashboard is ready - @Anthony
 * VA: Connect with Ponja directly RE: analytics for identity more generally (not just migration) - @Amanda
 * VA: Share findings related to passwords from our study - @Tyler
