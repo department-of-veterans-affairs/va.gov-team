@@ -1,5 +1,5 @@
 # Notification settings: User has no contact info on file
-**Last updated: August 22, 2022**
+**Last updated: February 22, 2023**
 
 LOA3 users who sign in, go to the profile, and click into the notification settings page can’t manage notifications if we don’t have relevant contact info in their profile.
 
