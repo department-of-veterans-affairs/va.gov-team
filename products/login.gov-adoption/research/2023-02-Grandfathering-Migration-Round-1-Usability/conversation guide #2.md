@@ -23,10 +23,11 @@ Note: This Conversation Guide will be used to test [Prototype #2](https://www.fi
 
 * Intro: 5 minutes
 * Warm-up: 5 minutes
-* Task 1 (Sign in to VA.gov): 10 minutes
-* Task 2 (Create an IAL1 Login.gov account): 15 minutes
-* Task 3 (Continue back to the VA): 10 minutes
-* Task 4 (Upgrade to an IAL2 Login.gov account): 10 minutes
+* Task 1 (Email): 10 minutes
+* Task 2 (Sign in to VA.gov): 5 minutes
+* Task 3 (Create an IAL1 Login.gov account): 15 minutes
+* Task 4 (Continue back to the VA): 10 minutes
+* Task 5 (Upgrade to an IAL2 Login.gov account): 5 minutes
 * Cool down: 3 minutes
 * Thank you: 2 minutes
 
@@ -79,37 +80,43 @@ Great, thanks!
 
 Next, I’d like to share some ideas with you so we can get your feedback.
 
-In a minute, I'm going to send you a link to a prototype. I mentioned earlier that a prototype is like a pretend version of the VA website. So it's going to look similar, but it won't work as you might expect it, because it's not a real email or website.
+In a minute, I'm going to send you a link to a prototype. I mentioned earlier that a prototype is like a pretend version of an email or website. So it's going to look similar, but it won't work as you might expect it, because it's not a real email or website.
 
 Okay, I've just sent you a link in the chat. [Help them open it and share their screen].
 
 > *Screen: Email from VA.gov*
 
-Now that you have this open, I'd like you to start by imagining that you've just received an email from the VA.
+Now that you have this open, I'd like you to start by imagining that you've just received this email from the VA.
 
-----
-NEED TO UPDATE 
-----
+## Task 1: Email - 10 minutes
 
-## Task 1: Sign into VA.gov - 10 minutes
+I'm going to give you a second to read this more closely now. When you're finished, I'd like you to summarize what you read.
 
-Next, I’d like to share some ideas with you so we can get your feedback.
+- Can you summarize what you just read, for me?
+- Do you have any initial questions, after reading this email?
+- What is this email asking you to do next?
+- In this scenario, would you be interested in setting up a Login.gov account right now? Why or why not?
+- What hesitations do you have about setting up a Login.gov account?
+- Why do you think the VA is recommending that you set up a Login.gov account?
+- If you had a question about anything you read here, what would you do?
 
-In a minute, I'm going to send you a link to a prototype. I mentioned earlier that a prototype is like a pretend version of the VA website. So it's going to look similar, but it won't work as you might expect it, because it's not a real website.
+Great, we're going to imagine you decide to continue today. You can click 'set up a Login.gov account' now.
 
-Okay, I've just sent you a link in the chat. [Help them open it and share their screen].
+### Things to watch for:
 
-> *Screen: VA.gov homepage*
+- Does the Veteran appear motivated to set up a Login.gov account when initially prompted?
+- Does the Veteran appear hesitant or confident about what they're being asked to do?
+- Does the Veteran know where or how to get help if they encounter an issue?
 
-Now that you have this open, I'd like you to start by imagining that you've just went online to [reference a task they do online with the VA]. First, you need to sign in.
-
-- Can you tell me what you would do first, to sign in?
-
-Thanks, you can go ahead and click 'sign in,' now.
+## Task 2: Sign in to VA.gov - 5 minutes
 
 > *Screen: Sign in pop-up window*
 
-- Before we click anything, can you tell me what you would do next, if you were signing in?
+Great, okay.
+
+- Before we click anything, is this what you expected to see after the email?
+- Can you tell me what you would do next?
+- How would you sign in?
 - Is DS Logon [or other credential they mention] usually how you sign in to the VA?
 
 Great, we're going to imagine you signed in with DS Logon, today. You can click 'sign in' and we'll continue.
@@ -118,30 +125,25 @@ Great, we're going to imagine you signed in with DS Logon, today. You can click 
 
 Let's pretend you put in your username and password. You can click Login, now.
 
-> *Screen: Modal recommending migration*
+> *Screen: Redirect page*
 
 - Before we read this in detail, can you describe to me what you're looking at, now?
 - Why do you think this has appeared on your screen?
-- Now, remembering that, in this scenario, you signed in to [reference the task they are doing]. What would you do if you saw this screen, instead?
 
 I'm going to give you a second to read this more closely now. When you're finished, I'd like you to summarize what you read.
 
 - Can you summarize what you just read, for me?
 - Do you have any initial questions, after reading this?
-- In this scenario, would you be interested in setting up a Login.gov account right now? Why or why not?
-- What hesitations do you have about setting up a Login.gov account?
-- Why do you think the VA is recommending that you set up a Login.gov account?
+- What do you expect to happen next?
 - If you had a question about anything you read here, what would you do?
 
 ### Things to watch for:
 
 - Does the Veteran use DS Logon (or another credential) to sign in, usually?
 - Does the Veteran appear confused at all throughout the sign-in flow?
-- Does the Veteran appear motivated to set up a Login.gov account when initially prompted?
-- Does the Veteran appear hesitant or confident about what they're being asked to do?
 - Does the Veteran know where or how to get help if they encounter an issue?
 
-## Task 2: Create an IAL1 Login.gov Account - 20 minutes
+## Task 3: Create an IAL1 Login.gov Account - 20 minutes
 
 Okay great. For today, let's imagine that you are going to set up a Login.gov account.
 
@@ -248,7 +250,7 @@ Great. Let's click 'skip for now.'
 - Which multi-factor authentication method would the Veteran choose?
 - Does the Veteran know where or how to get help if they encounter an issue?
 
-## Task 3: Continue back to the VA - 10 minutes
+## Task 4: Continue back to the VA - 10 minutes
 
 Great. Let's click 'agree and continue.'
 
@@ -298,7 +300,7 @@ Now, you'll remember that when we started today, we imagined you were online to 
 - How does the Veteran understand what type of account they have set up with Login.gov (and its limitations)?
 - Does the Veteran know where or how to get help if they encounter an issue?
 
-## Task 4: Upgrade to IAL2
+## Task 5: Upgrade to IAL2
 
 We're nearly done today, thank you for answering so many of my questions already.
 
