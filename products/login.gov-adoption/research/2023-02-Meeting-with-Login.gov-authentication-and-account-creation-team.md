@@ -105,9 +105,9 @@ Wednesday, February 22
 * VA: Discuss potential for collaboration with John.
 
 ### Action items
-* VA: Provide VA personas - @tygindraux
 * VA: Share analytics for migration when dashboard is ready - @Anthony
 * VA: Connect with Ponja directly RE: analytics for identity more generally (not just migration) - @Amanda
-* VA: Share findings related to passwords from our study - @tygindraux
-* VA: Reach out to discuss potential for collaboration on less-digitally connected Veterans study. Maybe around April. - @tygindraux
-* All: Stay in touch!
+* VA: Share findings related to passwords from our study - @Tyler
+* VA: Provide VA personas - @Tyler
+* VA: Reach out to discuss potential for collaboration on less-digitally connected Veterans study. Maybe around April. - @Tyler
+* VA: Set up meeting with Ada team next week (in progress) - @Amanda
