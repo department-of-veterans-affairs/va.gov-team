@@ -1,6 +1,6 @@
 # Notification settings: User wants to update notification settings
 
-**Last updated: December 1, 2022**
+**Last updated: February 23, 2023**
 
 LOA3 users who sign in, go to the profile, and click into the notification settings page will be able to opt in or out of notifications available to them.
 
