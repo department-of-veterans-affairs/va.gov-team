@@ -31,7 +31,8 @@ December 2022 - Present
 |Senior Interaction Designer|Sofia Kirkman|sofia@themostudio.com|
 |Senior Software Engineer|Ksenia Coulter|kcoulter@pluribusdigital.com|
 |Full Stack Developer|Melissa Miller|mmiller@pluribusdigital.com|
-|Full Stack Developer|TBD|TBD|
+|Staff Engineer|Jesse James|jesse.james@themostudio.com|
+|Interaction Designer|Sofia Kirkman|sofia@themostudio.com|
 
 #### Discovery team
 August - December 2022
