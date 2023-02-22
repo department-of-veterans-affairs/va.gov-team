@@ -2,7 +2,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 2/22/2023 - 3/7/2023 -------------  FUTURE & TENTATIVE 
+## 2/22/2023 - 3/7/2023 
 
 #### SPRINT GOALS
 - **GOAL: Test Vets-API Server to EKS in Staging**
@@ -36,8 +36,7 @@ ________________________________________________________________________________
          - [[Design] Update wireframes to prioritize info messages (for check-in with no travel questions)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53566)
       - Implement text solution for BTSSS latency    
          - [[TEXT SOLUTION] [Design] Create Content and Final Wireframes for Text Message Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53704)
-         - [[TEXT SOLUTION] [Content] Write two text messages for claim status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53567)        
-         - [[TEXT SOLUTION] [BE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
+         - [[TEXT SOLUTION] [Content] Write two text messages for claim status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53567)               
       - Configure metrics
          - [[Research] Recheck GA Events due to text solution change](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/53966)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
@@ -60,7 +59,6 @@ ________________________________________________________________________________
       - [[Content] Audit and update Need Help content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53883)
       - [[Design] [SPIKE] Research CodePen to Determine if we Want to Use it for Prototyping](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53959)
       - Fill out sitewide IA request
-      - [[Research]Start the research plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)
    - **Sub Goal: Analyze current metrics to see what they tell us**
       - [Research] Analyze GA Metrics
       - [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53651) - rolled over one
@@ -71,13 +69,10 @@ ________________________________________________________________________________
    - [[FE] Loading component is read aloud twice by Voice Over](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52509)   
    - [[FE] [STAGING TOOL] Surface initiate (pre-)checkin errors to end user in the Staging Tool](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52973)
    - [[FE] [STAGING TOOL] Book appointments directly with VistA instead of via VEText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53416)
-   - **_Optional Tech Debt_**
+   - **_Optional Tech Debt (these items are not in the current sprint but can be pulled in)_**
       - [Have an Initial Discussion to Identify Risks & Problems w/ Current Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54034)
       - [[FE] Create Proposal for an MVP for a Cross-Product Path Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54021)
       - [[FE] [BE] Review Applications & Identify Areas for Improvement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53713)
-
-
----------------------------  END FUTURE & TENTATIVE --------------------------------------
 
 ## 2/8/2023 - 2/21/2023 
 
