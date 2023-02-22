@@ -28,6 +28,8 @@ ________________________________________________________________________________
          - Hold Staging Review    
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
+      - Update our tranlations
+         - [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54029)
       - Address un-handled scenarios
          - [[Design] Create wireframes for can't check you in scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53582)
          - [[Design] Update wireframes to prioritize info messages (for answering "no" to travel question.)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53461)
