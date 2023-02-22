@@ -45,3 +45,17 @@ This list excludes any other endpoints to eVSS that are found during the discove
 |/validate|[Dash](https://app.mural.co/t/agilesixapplications0942/m/agilesixapplications0942/1674666875176/5bffb27d080685913fc74b5e4e2179511e4c2089?wid=0-1674667332547)|Unknown|||ToDo - Check with PM Kayla on update|
 | Benefits Reference Data(BRD) API|[Ninja Pigs](https://app.mural.co/t/agilesixapplications0942/m/agilesixapplications0942/1674666875176/5bffb27d080685913fc74b5e4e2179511e4c2089?wid=0-1676647953351)|In production||Work has been completed for military branch of service|ToDo - Schedule time with Robin Garrison to understand rest of the work|
 |Common API <br>wss-common-services-web-11.6/rest/ratingInfoService/11.6/findRatingInfoPID<br> wss-form526-services-web-v2/rest/form526/v2/ratedDisabilities|N/A|Is not being migrated. [Details in this slack thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1676574262007819). Potential replacement service is production.|||ToDo - Change the form526 wizard to use the Lighthouse veteran_verification/v1/disability_rating|
+
+## Tech Discovery
+#### Endpoint mappings
+|Endpoints|EVSS URI|EVSS Service|EVSS Filepath|New API|Notes|
+|/getpdf|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/getPDF"|"evss/disability_form/getPDF"|526 Container|same eVSS URI as /submit|
+|/submit|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/submit"|"evss/disability_form/form526"|LH Benefits Claims API||
+|/validate|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/validate"|"evss/disability_form/form526_validate"|LH Benefits Claims API|same eVSS URI as /submit|
+|/rateddisabilities|"/wss-form526-services-web/rest/form526/v1/ratedDisabilities"|"evss/disability_form/rated_disabilities"|||
+|/rateddisabilities|"/wss-form526-services-web/rest/form526/v2/ratedDisabilities"|"evss/disability_form/rated_disabilities"||Assuming we should just use v2?|
+|/brd|"/wss-referencedata-services-web/rest/referencedata/v1/"|?||New API is in production|
+
+
+#### Existing Lighthouse Service Implementation
+The service/module architecture used in [lib/lighthouse](https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/lighthouse) might be a good approach. Note they rely on client frameworks established in [Common::Client::Base](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/common/client/base.rb) and more specific client implementations in [/common/client/concerns](https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/common/client/concerns) where applicable.
