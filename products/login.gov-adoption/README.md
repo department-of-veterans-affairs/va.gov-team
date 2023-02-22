@@ -21,7 +21,7 @@ December 2022 - Present
 |Role|Assigned|Contact|
 |:---:|:---:|:---:|
 |DSVA Product Owner|John Rahaghi|john.rahaghi@va.gov|
-|Program and Delivery Manager|Jay Tanner|jtanner@pluribusdigital.com|
+|Program/Delivery Manager|Jay Tanner|jtanner@pluribusdigital.com|
 |Product Owner|Elizabeth Koch|elizabeth@bluetiger.digital|
 |Senior Product Manager|Anthony Levin-Decanini|anthony@themostudio.com|
 |Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
