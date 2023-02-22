@@ -8,9 +8,6 @@ We use the [warning alert component](https://design.va.gov/components/alert#warn
 * [Desktop mock-up](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/9P49mAx)
 * [Mobile mock-up](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/v/DD5WOe/a/Vr91mZg)
 
-User accesses field to update contact info.
-* _Mock-ups needed_
-
 Once they update their contact information, they'll be brought back to the notification settings page, where a success message will be displayed. 
 * [Desktop mock-up](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/WKLzddk)
 * [Mobile mock-up](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/4al7YGJ)
