@@ -87,11 +87,13 @@ Wednesday, February 22
 
 ## Next steps
 
-#### Action items
+#### Action items for the VA
 * @Anthony: Share analytics for migration when dashboard is ready
 * @Amanda: Connect with Ponja directly RE: analytics for identity more generally (not just migration)
 * @Tyler: Share findings related to passwords from our study
 * @Tyler: Provide VA personas
 * @Tyler: Reach out to discuss potential for collaboration on less-digitally connected Veterans study. Maybe around April.
 * @Amanda: Set up meeting with Ada team next week (in progress)
+
+#### Action items for Login.gov
 * @Login.gov team: Share findings/report/recommendations from most recent study, when it's ready.
