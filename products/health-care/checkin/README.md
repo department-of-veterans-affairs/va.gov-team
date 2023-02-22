@@ -1,4 +1,13 @@
 # MODERNIZED CHECK-IN TEAM HOME PAGE
+- [Team Members](#team-members)
+- [Product](#product)
+- [Backlog and Roadmap](#backlog-and-roadmap)
+- [Production Wireframes in VA Sketch Cloud](#production-wireframes-in-va-sketch-cloud)
+- [Releases](#releases)
+- [Process](#process)
+- [Discovery and Research](#discovery-and-research)
+- [Engineering](#engineering)
+- [Service Now Knowledge Articles for Support](#service-now-knowledge-articles-for-support)
 
 ## Team Members
 - Product Manager - [Lori Pusey](https://dsva.slack.com/team/U035BMZ07PD)
@@ -26,7 +35,7 @@
 - [Known Issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/known-issues.md)
 - [Google Analytics Events](https://docs.google.com/spreadsheets/d/1BPOlI6vzH-tMTswvUrci3Q0NkBmfIIfo8Cgj_nM10gk/edit#gid=0)
 
-## Backlog & Roadmap
+## Backlog and Roadmap
 - [Priorities](https://app.mural.co/t/vfscie8528/m/vfscie8528/1661259690010/d8a74b136b1ed8727b2d08fdf55298aa1ffeafab?sender=ud3aa760e30b39bcf436d4473)
 - [Scrum Board](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/board?repos=133843125)
 - [VSE/PCI/API/CIE Combined Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1635785913758/7351da6401af534be67689371f2108f3b0d3c3ec?sender=e4aa18d2-ce7d-41e6-8912-592ed5f9610a)
@@ -47,7 +56,7 @@
 - [Sprint Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/sprintdemo)
 - [Sprint Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprints/sprint-goals.md)
 
-## Discovery/Research
+## Discovery and Research
 - [Accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/accessibility)
 - [In Person](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/in-person-discovery)
 - [Remote](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/remote-discovery)
@@ -61,7 +70,7 @@
 - [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/playbook)
 - [Developer Guide](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/check-in/README.md)
 
-## Service Now Knowledge Articles (KAs) for Support
+## Service Now Knowledge Articles for Support
 - [Patient Check-in](https://yourit.va.gov/va?sys_kb_id=4967ba681b1a59d04f6f5316624bcbbb&id=kb_article_view&sysparm_rank=3&sysparm_tsqueryId=2dbb7b091baad190005287b8624bcbcd)
 - [Pre-Check-in](https://yourit.va.gov/kb_view.do?sys_kb_id=8c9bd58f1bcbc1d09641a867624bcba9&sysparm_rank=1&sysparm_tsqueryId=d4bae8c11b5b05541c29a867624bcbff)
 - [eCheck-in](https://yourit.va.gov/kb_view.do?sys_kb_id=07548a9787478dd03502b889cebb3587&sysparm_rank=2&sysparm_tsqueryId=d4bae8c11b5b05541c29a867624bcbff)
