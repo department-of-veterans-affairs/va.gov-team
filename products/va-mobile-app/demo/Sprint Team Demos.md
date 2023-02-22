@@ -1,5 +1,9 @@
 # Sprint Team Demo
 
+Meeting Owner: Adam Bischoff
+Timing: Every 2 Thursdays 2:35 - 3:15pm 
+
+
 **Demo Sprint 61 2/16/23**
 
 Agenda
@@ -7,7 +11,8 @@ Agenda
   -  Navigation 2.0 Update - Jon Bindbeutel 
 -  Discussion Topic - Sprint 0 - Kelly Lein 
 - Slides - [VA Mobile App Demo Slides - 2_16_23.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/10760511/VA.Mobile.App.Demo.Slides.-.2_16_23.pdf)
--Demo Video - coming soon 
+-Demo Video Nav 2.0 - coming soon - if needed before loaded contact Adam Bischoff at Ad Hoc
+-Demo Video Sprint 0 Discussion - coming soon - if needed before loaded contact Adam Bischoff at Ad Hoc
 
 
 --- 
