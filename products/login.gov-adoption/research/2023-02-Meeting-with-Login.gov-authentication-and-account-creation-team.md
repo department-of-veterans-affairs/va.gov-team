@@ -105,10 +105,9 @@ Wednesday, February 22
 * VA: Discuss potential for collaboration with John.
 
 ### Action items
-* Login.gov: Can you provide VA personas or JTBD? 
-* Login.gov: Any analytics you can share related to Login?
-* VA: Will share analytics dashboard for migration when ready.
-* VA: Amanda will connect with Ponja directly re: analytics for identity more generally.
-* VA: Will share any findings on passwords from our study.
-* VA: Stay in touch! Will reach out to discuss potential for collaboration on less-digitally connected Veterans study. Maybe around April.
-
+* VA: Provide VA personas - @tygindraux
+* VA: Share analytics for migration when dashboard is ready - @Anthony
+* VA: Connect with Ponja directly RE: analytics for identity more generally (not just migration) - @Amanda
+* VA: Share findings related to passwords from our study - @tygindraux
+* VA: Reach out to discuss potential for collaboration on less-digitally connected Veterans study. Maybe around April. - @tygindraux
+* All: Stay in touch!
