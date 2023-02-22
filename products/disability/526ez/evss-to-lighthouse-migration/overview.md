@@ -53,8 +53,8 @@ This list excludes any other endpoints to eVSS that are found during the discove
 |/getpdf|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/getPDF"|"evss/disability_form/getPDF"|526 Container|same eVSS URI as /submit|
 |/submit|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/submit"|"evss/disability_form/form526"|LH Benefits Claims API||
 |/validate|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/validate"|"evss/disability_form/form526_validate"|LH Benefits Claims API|same eVSS URI as /submit|
-||EVSS Filepath|"/wss-form526-services-web/rest/form526/v1/ratedDisabilities"|"evss/disability_form/rated_disabilities"|||
-||EVSS Filepath|"/wss-form526-services-web/rest/form526/v2/ratedDisabilities"|"evss/disability_form/rated_disabilities"||Assuming we should just use v2?|
+|/rateddisabilities|"/wss-form526-services-web/rest/form526/v1/ratedDisabilities"|"evss/disability_form/rated_disabilities"|||
+|/rateddisabilities|"/wss-form526-services-web/rest/form526/v2/ratedDisabilities"|"evss/disability_form/rated_disabilities"||Assuming we should just use v2?|
 |/brd|"/wss-referencedata-services-web/rest/referencedata/v1/"|?||New API is in production|
 
 
