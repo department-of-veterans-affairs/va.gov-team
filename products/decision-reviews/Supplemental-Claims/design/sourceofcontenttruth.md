@@ -288,9 +288,9 @@ We'll save your application every time you add or update information.
 
 **The new decision review process**
 
-By filing a Supplemental Claim, you're opting in to the new decision review process. We’ll move your claim from the old appeals process to the new decision review process. You’re likely to get a faster decision on your claim when you switch to the new process.
+If you're filing a Supplemental Claim in response to a Statement of the Case (SOC) or a Supplemental Statement of the Case (SSOC) in the old appeals process, we’ll move your claim from the old appeals process to the new decision review process. By filing a Supplemental Claim, you're opting in to the new decision review process. You’re likely to get a faster decision on your claim when you switch to the new process.
 
-If you want to continue your claim in the old appeals process, don't submit a Supplemental Claim. Check you decision letter for more details about the appeals process.
+If you want to continue your claim in the old appeals process, don't submit a Supplemental Claim. Check your decision letter for more details about the appeals process.
 
 **_BACK_**
 
@@ -538,7 +538,7 @@ We'll save your application every time you add or update information.
 
 **Do you want to limit the information we can request?**
 
-If you want to limit what we can request from your private medical provider(s), describe the limitation (for example, you want to release only treatment dates or a type of disability.) 
+If you want to limit what we can request from your private medical provider(s), describe the limitation (for example, you want to release only treatment dates or a type of disability). 
 
 *text input field
 
