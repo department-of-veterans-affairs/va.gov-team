@@ -7,7 +7,7 @@ When mail is sent to a Veteran and then returned to the VA, the address is flagg
 - [Discovery documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/discovery/documentation.md) 
 - [User flow](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/7yPo0rZ)
 - [Sketch mockups](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/p/B84818F9-2AB7-42E8-BFFD-0C0949B020A3/canvas)
-	- _Destkop and mobile mockups are on the same Sketch page for this use case._ 
+	- _Desktop and mobile mockups are on the same Sketch page for this use case._ 
 
 ## UX
 [User flow](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/7J9jY8/a/7yPo0rZ/)
