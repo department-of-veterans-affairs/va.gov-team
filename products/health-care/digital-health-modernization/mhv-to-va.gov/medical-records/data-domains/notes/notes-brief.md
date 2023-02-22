@@ -69,6 +69,19 @@ Only what is currently accessed via BB and the AVS.
   - Admission & Discharge summaries 
   - After visit summaries
 
+What should not be included?
+- Secure message threads should not be included as notes. They should be accessed via the SM interface.
+
+What might need to be included?
+- Outpatient encounter notes (VA Health Summary)
+- Consult notes (VA Health Summary)
+- History & physical notes (VA Health Summary)
+- Discharge summary notes (VA Health Summary)
+- Surgical procedure notes (VA Health Summary)
+- Clinical procedure notes (VA Health Summary)
+
+We need to do some discovery on what these notes are, whether they are different from what is included under VA notes, why there is a difference, and whether we can actually access this data.
+
 ### Information architecture
 Home > My Health > Health history > Care summaries and notes
 
@@ -198,7 +211,7 @@ _Admission summary or Discharge summary:_ Only four participants were probed on 
 
 |  Date           | Changed By       | Description of Change                                                                                               |
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 2/6/23                |     Coulton Bunney             | Combined requirements with domain brief                                                                                                                    |
-|                 |                  |                                                                                                                     |
+| 2/6/23                |     Coulton Bunney             | Combined requirements with domain brief                                                         |
+|2/22/23|         |Coulton Bunney|Added requirements to not show SM message threads as part of notes, and an outstanding question around including VA Health Summary notes
 |                 |                  |                                                                                                                     |
 
