@@ -70,7 +70,8 @@ ________________________________________________________________________________
    - [[FE] [STAGING TOOL] Surface initiate (pre-)checkin errors to end user in the Staging Tool](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52973)
    - [[FE] [STAGING TOOL] Book appointments directly with VistA instead of via VEText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53416)
    - [[FE] Remove enable/disable flags for check-in and pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53702)    
-   - Can be pulled in if capacity
+   - Can be pulled in if capacity allows
+      - [[FE] Create Proposal for an MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54021)
       - [[FE] [BE] Review Applications & Identify Areas for Improvement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53713)
 
 
