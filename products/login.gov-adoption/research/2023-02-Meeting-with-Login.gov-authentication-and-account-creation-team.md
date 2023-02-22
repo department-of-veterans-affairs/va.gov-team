@@ -24,9 +24,9 @@ Wednesday, February 22
 * How can we collaborate? What gaps can we fill in our knowledge, together?
 * Next steps
 
-## What's Login.gov working on?
+## Discussion
 
-#### They're wrapping up a study focused on about SMS as MFA
+#### Login.gov's wrapping up a study focused on about SMS as MFA
 * Recruited with Perigean
 * Focus: SMS as MFA
 * But learned other things too about account creation, authentication, and MFA in general
@@ -85,10 +85,13 @@ Wednesday, February 22
 * Amanda's in touch with Princess about setting up a meet and greet soon.
 * John would likely be interested in discussing the potential for collaboration between partners on this study.
 
+## Next steps
+
 #### Action items
-* VA: Share analytics for migration when dashboard is ready - @Anthony
-* VA: Connect with Ponja directly RE: analytics for identity more generally (not just migration) - @Amanda
-* VA: Share findings related to passwords from our study - @Tyler
-* VA: Provide VA personas - @Tyler
-* VA: Reach out to discuss potential for collaboration on less-digitally connected Veterans study. Maybe around April. - @Tyler
-* VA: Set up meeting with Ada team next week (in progress) - @Amanda
+* @Anthony: Share analytics for migration when dashboard is ready
+* @Amanda: Connect with Ponja directly RE: analytics for identity more generally (not just migration)
+* @Tyler: Share findings related to passwords from our study
+* @Tyler: Provide VA personas
+* @Tyler: Reach out to discuss potential for collaboration on less-digitally connected Veterans study. Maybe around April.
+* @Amanda: Set up meeting with Ada team next week (in progress)
+* @Login.gov team: Share findings/report/recommendations from most recent study, when it's ready.
