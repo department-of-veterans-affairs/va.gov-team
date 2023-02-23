@@ -1,5 +1,7 @@
 # The CMS Design System
 
+The CMS Design System can be found in [Figma](https://www.figma.com/file/ScABI31f3MRFEvQ8WitVPa/CMS-Design-System?node-id=0%3A1&t=AXPUlwFGV2OXQAEF-0). The CMS Team launched the CMS Design System in Q1 2022 in correlation with the Drupal Claro theme upgrade.  
+
 ## Problem statement
 
 The Drupal CMS for VA.gov must provide modern, intuitive Authoring Experience (AX) through improvement of visual and functional features and support agile product design and development.
@@ -21,9 +23,6 @@ Agile product design is not well supported given the current state of the CMS an
 * Drupal CMS designers and engineers reference and enhance the VA.gov Drupal CMS Design System when building new and iterating on existing CMS products.
 * VFS Product designers and content strategists reference the VA.gov Drupal CMS Design System documentation to learn about CMS content model and capabilities when building new and iterating on existing Veteran-facing products.
 
-## Known Blockers/Dependencies
-
-* None
 
 ## User Stories
 
@@ -50,4 +49,17 @@ As a VFS Product Owner / VFS Product Designer,
 ## Related Backlog 
 
 [The CMS Design System](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4000)
+
+## Artifacts
+- [CMS Design System](https://www.figma.com/file/ScABI31f3MRFEvQ8WitVPa/CMS-Design-System?node-id=0%3A1&t=AXPUlwFGV2OXQAEF-0)
+- [WIP CMS Design System Documentation](https://airtable.com/appZqEm8Tf9zMA48P/tbl3VIAwBfAUQpQqo/viwH5MHLkdthLeu2H?blocks=hide)
+- [CMS DS Component / Pattern inventory](https://airtable.com/appKn8xeWg0SkIphM/tblSKI3lIgLugkSy3/viwzzO2oEyrXeevnK?blocks=hide)
+
+## Contacts
+- Product Owner: Dave Conlon (OCTO-DE)
+- Product Manager: Erika Washburn (Friends From The City)
+- Delivery Manager: Dawn Pruitt (Agile 6)
+- Design System Design Lead: Blake Organ (CivicActions)
+- Engineering: CMS Team/Edmund Dunn and Tanner Heffner (Agile 6)
+- Accessibility Lead: Laura Flannery (CivicActions)
 
