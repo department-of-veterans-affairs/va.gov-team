@@ -12,7 +12,7 @@ VA Directive 6102 states that, at minimum, web content should be reviewed by web
 
 The first iteration of notification emails will include a link to the outdated content report in the CMS. Editors will only see content for their assigned section(s).  
 
-The data as of Februaary 2023 was anaylized and it was confirmed that VAMC content is the most outdated and will require at least 25 pieces of content to be compliant within a year. We have chosen not to bombared editors with all items that they need to update at once and refer to this as "smoothing the curve". 
+The data as of Februaary 2023 was analyzed and it was confirmed that VAMC content is the most outdated and will require at least 25 pieces of content to be compliant within a year. We have chosen not to bombared editors with all items that they need to update at once and refer to this as "smoothing the curve". The email will detail that the expectation is to update 25 minimum per month.  
 
 ## Hypothesis
 - Editors will respond positively to email notifications regarding their tasks to complete to be 6102 compliant.
