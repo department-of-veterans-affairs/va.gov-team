@@ -208,7 +208,6 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 301 | Fortysix,Patient | 1935-04-07 | CIE Team Demos/Reviews / Platform Content | √ | √ |
 | 744 | Fortyseven,Patient | 1935-04-07 | CIE Team Demos/Reviews / Platform IA | √ | √ |
 | 745 | Fortyeight,Patient | 1935-04-07 | CIE Team Demos/Reviews Platform QA | √ | √ |
-| 745 | Fortyeight,Patient | 1935-04-07 | CIE Team Demos/Reviews | √ | √ |
 | 100851 | TYLER,JOHN | 1988-01-23 | Mark Dewey | - | √ |
 | 100852 | ADAMS,JOHN | 1989-01-23 | Mark Dewey | - | √ |
 | 100853 | MONROE,JAMES | 1990-01-23 | Mark Dewey | - | √ |
