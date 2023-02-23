@@ -1,10 +1,10 @@
 WIP
 
-## Lagoon Delivery Platform for the Drupal CMS
+## Lagoon CMS Platform 
 
 Last updated February 2023
 
-This README page serves as a "front door" to documentation and resources pertaining to the MVP for Lagoon. 
+This README page serves as a "front door" to documentation and resources pertaining to the MVP for Lagoon. Lagoon has been indentified as an option for BRD of the Drupal CMS. 
 
 ## Product Context/Decisions
 
