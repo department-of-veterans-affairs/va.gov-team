@@ -39,6 +39,7 @@
 |Journeys of Veterans Map|Ten life stages any Veteran may encounter from pre-service to end of life|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)||
 |Veteran’s Claim Experience|Veteran's journey map for filing diability claim process developed by VEO<br>New journey map developed by VEO</br>|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20-%20Disability%20Claim%20-%2011x17%20-%20%209.4.17.pdf)<br>[Link](https://drive.google.com/file/d/1mfigVlDd70gKihsY8T6mE60NhLXlk_z-/view?usp=sharing)</br>|2016-2017 <br>Jan 2023</br>|
 |Walkthrough of 526ez application|Video walkthrough|[Link](https://drive.google.com/file/d/1KZ22-UyWOOaD8NDpfpVbHZ1pB1Bj571b/view?usp=sharing)||
+|Veteran personas|From Veteran Experience Office includes ten personas and additional tools|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf)|May 2016, current as of 2022|
 
 
 ## Other Related
