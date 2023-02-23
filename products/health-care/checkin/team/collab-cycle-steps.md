@@ -1,5 +1,7 @@
 # PLATFORM COLLABORATION CYCLE PROCESS
 
+**DISCLAIMER: the Collab Cycle website is the source of truth for all steps; this summary may not necessarily be up to date with current Collab Cycle changes**
+
 This is a high-level summary of the Collaboration Cycle process. Please refer to the Platform's [documentation](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/) for guidance and follow the steps in the Collab Cycle Ticket created for the feature as part of Step 1.
 
 ## TABLE OF CONTENTS
