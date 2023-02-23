@@ -4,7 +4,16 @@
 7 million Veterans receive recurring disability or pension payments. An average of 35,000 calls a month come into the call center for payments and debts. Often, Veterans have questions about if and when they will be receiving payments.  
 
 ## Desired Outcome
-Increase proactive communication to Veterans via SMS, so they know when to expect payments. This should reduce calls to the call center.  
+Increase proactive communication to Veterans via SMS, so they know when to expect payments. This should reduce calls to the call center.
+
+## User Stories
+As a Veteran
+I want to know when my disability or pension payment is going to be deposited in my account
+So that I can ensure I'm receiving my payment and do not need to call the VA
+
+As the VBA business for Comp & Pen
+I want to send Veterans an SMS notification about their upcoming payment
+So that we reduce the amount of calls to the call center and improve the Veteran experience
 
 ## Problems
 1. The business line (VBA) is unable to trigger these notifications because there's a separate system managing the payment data.
