@@ -70,7 +70,12 @@ Documentation about the CMS lives in various places
 - Tim Cosgrove, Tech Lead - Slack `@Tim Cosgrove`
 - Laura Flannery, Accessibility Lead - Slack `@Laura Flannery`
 - Blake Organ, Content Designer- Slack `@Blake Organ`
-- Joann Agnitti, Senior Researcher- Slack `@Joann Aginitti`
+- Joann Agnitti, Senior Researcher- Slack `@Joann Agnitti`
+- Edmund Dunn, Senior Drupal Developer- Slack `@Edmund Dunn`
+- Elijah Lynn, DevOps & Application Engineer, Slack `@Elijah Lynn`
+- Stefanie Gray, Helpdesk Manager, Slack `@Stefanie Gray`
+- Troy Griffin, Helpdesk and Training Manager, `@Troy Griffin`
+- Nate Douglas, Software/DevOps Engineer and QA Lead, `@Nathan Douglas`
 
 Full team roster can be found in Confluence [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/811171875/Both+Teams+Scrum+Notes+May+26+2021+-).
 
