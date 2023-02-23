@@ -238,7 +238,9 @@ This all depends on Florence having Github access.
 
 - Add recent mobile app IA findings to our research review #53626
 - Complete analytics review #52796
-- Complete research plan
+- ~Complete research plan~ << BX and Liz met and discussed that the following work needs to be completed first 
+- Conduct a call center and Medallia data review to see what we can learn about problems people have finding tasks and tools
+- Create user research questions to gain additional insight into problems and expecations people have with navigating VA.gov while logged in.
 
 ## Sprint 6 (3/15 - 3/28)
 
