@@ -62,14 +62,14 @@ jobs:
         run: |
           export application_exists=$(cat vsp-infra-argocd/chart/values.yaml | yq -o=json | jq -e '.projects|any(.name == "${{ inputs.application_name }}")' || true)
           if [ -z "$application_exists" ]; then export application_exists=false; fi
-          echo "::set-output name=application_exists::$(echo ${application_exists})"
+          echo "application_exists=$(echo ${application_exists})" >> $GITHUB_OUTPUT
 
       - name: Check if application environment exists
         id: environment_check
         run: |
           export environment_exists=$(yq '[.projects[] | select(.name == "${{ inputs.application_name }}")] | .[].environments | contains(["${{ inputs.application_environment }}"])' vsp-infra-argocd/chart/values.yaml || true)
           if [ -z "$environment_exists" ]; then export environment_exists=false; fi
-          echo "::set-output name=environment_exists::$(echo ${environment_exists})"
+          echo "environment_exists=$(echo ${environment_exists})" >> $GITHUB_OUTPUT
 
       - name: If application and environment exist
         if: |
