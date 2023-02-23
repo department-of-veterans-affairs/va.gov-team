@@ -15,10 +15,12 @@
 ## Research
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
+|Previous Research Summary slide deck|Includes research from 2016-2021, from VEO 2023, and heuristic evaluation 2022|[Link](https://docs.google.com/presentation/d/16s9L1zCopBFH-_C3Bm0f6arFul7d-asn7T3Sfa5d1dw/edit?usp=sharing)|Feb 2023|
 
 ## Design
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
+|Veteran personas|From Veteran Experience Office includes ten personas and additional tools|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf)|May 2016, current as of 2022|
 
 ## Analytics
 |Title|Description|Link|Version|
