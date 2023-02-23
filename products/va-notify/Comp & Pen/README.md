@@ -15,6 +15,9 @@ As the VBA business for Comp & Pen
 I want to send Veterans an SMS notification about their upcoming payment
 So that we reduce the amount of calls to the call center and improve the Veteran experience
 
+## Notification Channel
+SMS only
+
 ## Opt-in Strategy
 The preference is in VA.gov and will be an explicit opt-in, which means we will only send notifications to those who explicitly ask to receive text messages. If the preference is blank or false (opted-out) we will not send a text message.
 
