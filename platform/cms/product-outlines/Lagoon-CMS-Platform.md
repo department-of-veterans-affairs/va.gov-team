@@ -12,6 +12,7 @@ With Jenkins end of life approaching around the summer of 2023, it is imperative
 
 ## Hypothesis
 - Lagoon will provide a streamlined BRD process with enhanced abilities for a seamless Drupal platform.
+- Lagoon will enhance Drupal scalability. 
 
 
 ## Contacts
