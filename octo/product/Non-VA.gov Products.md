@@ -27,4 +27,4 @@
 
 | Rapid Ready for Decision (RRD) | Benefits Delivery | Zach Goldfine | TBD |
 
-| Virtual Regional Office | Benefits Delivery | Zach Goldfine | TBD |
+| Virtual Regional Office | Benefits Delivery | Zach Goldfine | [Product Outline] (LINK) |
