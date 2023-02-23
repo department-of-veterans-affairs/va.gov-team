@@ -194,6 +194,16 @@ When you submit an Intent to File, you're telling us that you plan to file a cla
 **_CONTINUE_**
 
 ---
+## You already submitted an Intent to File
+Our records show that you already submitted an Intent to File for disability compensation. Your Intent to File will expire on July 7, 2023. You’ll need to file your claim by this date to receive payments starting from your effective date.
+
+What's an Intent to File? (expand) \
+
+When you submit an Intent to File, you're telling us that you plan to file a claim. This sets a potential start date (called an effective date) for when you could start getting benefits. It gives you time to prepare your claim and gather supporting documents. And it means that your start date for benefits may be earlier than the date you file your claim.
+
+**_CONTINUE_**
+
+---
 ## Step 1 of 4: Veteran information
 We'll save your application every time you add or update information.
 
