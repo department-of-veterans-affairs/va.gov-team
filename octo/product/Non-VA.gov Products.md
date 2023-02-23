@@ -21,7 +21,7 @@
 
 | Digital Health Platform | Health | Stefany Holguin | TBD |
 
-| Long COVID | Health | Marian Adly | [Product Outline] (LINK) |
+| Long COVID | Health | Marian Adly | [Product Outline](LINK) |
 
 | Medallia | Account Experience | Chante Lantos-Swett | [Product Outline](LINK) |
 
