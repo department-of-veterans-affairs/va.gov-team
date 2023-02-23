@@ -2,7 +2,7 @@
 
 Last updated: February 23, 2023 | [Change Log](#change-log)
 
-This brief describes the features for the MVP launch of downloadable reports. Features that may be added in later enhancements may be found in a more comprehensive brief.
+This brief describes the features for the MVP launch of downloadable reports. Features that may be added in later enhancements may be found in a more comprehensive [post-MVP brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/downloadable-reports/downloadable-reports-post-mvp.md).
 
 ## Table of Contents
 - [Description of domain](#description-of-domain)
@@ -212,12 +212,8 @@ See [Detailed analysis of existing functionality](#detailed-analysis-of-existing
 
 |  Date           | Changed By       | Description of Change                                                                                               |
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 2023/02/06      |Marci McGuire     | Added info about the VA Health Summary results page prior to updating data.                             |
-| 2023/02/07      |Coulton Bunney    | Reorganized and started requirements section                                                            |
-| 2023/02/07      |Marci McGuire     | Adding decision makers for electronic sharing options outstanding question.                             |
-| 2023/02/07      |Marci McGuire     | Removed info related to the Send my Health Summary option since we are not moving forward with that.    |
-| 2023/02/07      |Marci McGuire     | Corrected links after moving directory this where this doc is stored                                    |
-| 2023/02/08      |Marci McGuire     | Added requirements sections for BB and VA Health Summary                                                |
+| 2023/02/23      |Marci McGuire     | Copied original domain brief and removed features that will not be in the MVP                           |
+                                           |
 
 # Appendix
 
