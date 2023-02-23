@@ -9,19 +9,6 @@
 | **September 2022** | Chatbot Feature Prioritization | 10 remote, moderated user testing sessions about which chatbot features are most important to users | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/2022-09-Chatbot%20Feature%20Prioritization)|
 
 
-## The role of research for phase 2
-
-
-We'll be conducting research to understand Veterans experience and validate our work, and will update this document with our activities
-
-There are two additional sources of work to incorporate for phase 2:
-
-- incorporating findings from the work the BAH team have done as stories.  These are being monitored in the Research Tracker Google doc the Thoughtworkss team is mantaining
-
-- incorporatinig ongoing accessibility considerations, especially WCAG 2.1
-
-
-
 ## Phase 2 Research Activites and Output
 | Date                 | Activity                 | Description         | Output        |
 | :-------------              | :-------------              |:-------------         |:-------------|
