@@ -27,7 +27,7 @@ The data as of Februaary 2023 was analyzed and it was confirmed that VAMC conten
 
 
 ## Design Artifacts
-- [Email Prototypes-Figma](https://www.figma.com/file/fQl2Y2k9MDA2dc0xViC645/6102-Notification-Email?node-id=69%3A696&t=ZsdymcCx022K4dZt-1) 
+- [Email Prototypes-Figma](https://www.figma.com/file/fQl2Y2k9MDA2dc0xViC645/6102-Notification-Email?node-id=0%3A1&t=wxKohWwD1bqA9N5f-1)
 
 ## Contacts
 - Product Owner: Dave Conlon (OCTO-DE)
