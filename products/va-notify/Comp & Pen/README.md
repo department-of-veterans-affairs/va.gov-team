@@ -15,6 +15,14 @@ As the VBA business for Comp & Pen
 I want to send Veterans an SMS notification about their upcoming payment
 So that we reduce the amount of calls to the call center and improve the Veteran experience
 
+## Opt-in Strategy
+The preference is in VA.gov and will be an explicit opt-in, which means we will only send notifications to those who explicitly ask to receive text messages. If the preference is blank or false (opted-out) we will not send a text message.
+
+Prior to launch VBA will release a promotional campaign with a combination of the following:
+- GovDelivery blast
+- Phone script when folks call in for help
+- Social media posts
+
 ## Problems
 1. The business line (VBA) is unable to trigger these notifications because there's a separate system managing the payment data.
 2. Each month a batch of 7 million payments will trigger notification requests, however, only a fraction of that will receive SMS notifications based on explicit opt-in.  
