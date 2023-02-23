@@ -4,6 +4,8 @@
 |Question|Who|Stakeholders|Outcome|Comments|
 |--------|---|-------------|-------|--------|
 |How many claims include PTSD?||||This will be useful for helping to prioritize redesign of this flow in 526|
+|Are all of the questions that are require still the same? Can some be marked as optional?||||This will be useful in potentially reducing time on task and in helping applicants feel secure|
+|Is there a reason for character limit for field about service-connected disability?||||This will be good to know ASAP as this could be a light dev lift to change?|
 
 ## Product
 |Question|Who|Stakeholders|Outcome|Comments|
