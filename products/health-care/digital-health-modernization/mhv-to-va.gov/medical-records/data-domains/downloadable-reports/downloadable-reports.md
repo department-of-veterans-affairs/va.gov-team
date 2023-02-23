@@ -53,37 +53,18 @@ What do people want to use their downloadable reports for?
   - Give users the ability to download a Blue Button report or VA Health Summary
   - Provide data in both reports going back to the beginning of their health history on record with the VA
 
-### MVP Includes
+### Includes
 - Blue Button reports
 - VA Health Summary
 - Manage your electronic medical record sharing options
 
-### MVP does not include
-- Ability to select pre-defined or custom date ranges for reports
-- Ability to custom select which pieces of data to include in a Blue Button report
-- Ability to send a report electronically to a health care provider
-- Ability to print a report from within the application (printing may be achieved by downloading locally and printing using their system's built in print function).
-- User documentation in the form of a user manual or quick start guide
-
 ### Information architecture and user flow
-The current thinking is that we should allow users to access the different types of downloadable reports from the same screen and these should be framed as ways to share your information, rather than view your information. The primary way of viewing information should be by using Health History, Lab and Test Results, Medications, and Appointments. 
+The downloadable reports setion will be called "Share your medical records"
 
-The downloadable reports setion will be called "Share your medical records" and it will have a total of three pages. 
-* Share your medical record
-* Download your Blue Button report
-* Download your VA health summary
-
-```mermaid
-flowchart TB;
-    A[Share your medical record]-->B[Download your Blue Button report];
-    A[Share your medical record]-->C[Download your VA health summary];
-```
 #### Page structure
 Home > My Health > Share your medical record  
-Home > My Health > Share your medical record > Download your Blue Button report  
-Home > My Health > Share your medical record > Download your VA health summary
 
-### Page 1: Share your medical record  
+### Page layout: Share your medical record  
 - **H1: "Share your medical record"**
 - Below the H1, include explanatory text that says, "Download and share a copy of your VA medical records and personal health information."
 - There should be three sections on this page
@@ -93,64 +74,29 @@ Home > My Health > Share your medical record > Download your VA health summary
 
 - **H2: "VA health summary"**
   - Below the H2, include explanatory text that says, "Your VA health summary provides a summary of health information that you can use to review your medical record and to share essential information with your health care providers."
-  - There should then be a link to navigate to the download your VA health summary page, that says "Download your VA health summary"
+  - Link to learn more about VA health summary
+  - Download PDF document
+  - Download Text file
+  - Download XML file
+
 - **H2: "VA Blue Button report"**
   - Below the H2, include explanatory text that says, "Your Blue Button report gives you detailed information from your VA medical records, personal health record, and in some cases your military service record."
-  - There should then be a link to navigate to the download your Blue Button report page, that says "Download your VA Blue Button report"
+  - Link to learn more about Blue Button
+  - Download PDF document
+  - Download Text file
+
 - **H2: Veterans Health Information Exchange**
   - Below the H2, include explanatory text that says, "You can share your electronic health record with participating non-VA community providers through the Veterans Health Information exchange (VHIE). Sharing your information gives your health care providers a more complete understanding of your health record."
   - Include any additional information to help a user better understand this setting (work with content on this), what it enables, what opting into and out of this service means, and any additional information or links to learn about VHIE
   - Tell a user whether they are opted into electronic sharing, are not opted into electronic sharing, or that we cannot access their preference (edge case)
   - Include a button to edit their preference that when clicked allows the user to edit, save, or cancel a change in place.
 
-### Page 2: Download your VA health summary
-- H1: "Download your VA health summary"
-- Include plain language explanatory intro text. This should include the categories that are included in your Health Summary report.
-- Include when the health summary was last updated. 
-- At the top of the page, a user should be able to quickly learn about disclaimers about the VA health summary.
-- Form label question: "Choose the file format option that best meets your needs (*Required)"
-    - Present three mutually exclusive options (i.e. radio buttons)
-      - Option 1: "PDF document (best for printing)"
-      - Option 2: "Text file (best for screen readers, screen enlargers, and refreshable Braille display)"
-      - Option 3: "XML file (this file format is designed for computer systems to read, such as other electronic health records, personal health records, and applications."
-- Include a button to download
-- Other notes:
-  - If possible, this download should be instantaneous. If it is not instanteous and the document must be generated, use an appropriate loading indicator to communicate the status of the generation and download. When the report has been generated, immediately launch browser based download controls. Do not require the user to click download again.
-  - There will need to be error states if a user does not select an option for file format
-  - There will need to be a success message when the file is downloaded, and an error message if not able to generate and download
-  - We will NOT provide the ability to send a health summary as that capability is provided by Community Care via CCD Direct.
-
-#### Requires further requirements gathering, usage exploration, and usability research
-- During discovery research, it was not clear what the use case is for allowing a user to download their previous health summary. Therefore, unless we can identify a clear use case, we should not include this functionality. 
-- Do not include the file format information that is currently included in the VA health summary grid. It is overly technical, and the information included does not clarify the actions available to the user. Therefore, unless we can identify a clear use case, we should not include this information on page. 
-
-### Page 3: Download your VA Blue Button report
-- H1: "Download your VA Blue Button report"
-- Include plain language explanatory intro text. This should include the categories that are included in your Blue Button report.
-- At the top of the page, a user should be able to quickly learn about disclaimers about the VA health summary.
-- Question 1 Form label: "Select date range (*Required)"
-  - Hint text: "Your report will only include information from the date range you select"
-  - Present four mutually exclusive file format options (this should look similar to what was prototype for Secure Messaging)
-    - Option 1: "Past 3 months"
-    - Option 2: "Past 6 months"
-    - Option 3: "Past 1 year"
-    - Option 4: "Custom"
-    - When Custom is selected, allow a user to specify a date range. 
-- Question 2 Form label: "Choose the file format option that best meets your needs (*Required)"
-    - Present two mutually exclusive options (i.e. radio buttons)
-      - Option 1: "PDF document (best for printing)"
-      - Option 2: "Text file (best for screen readers, screen enlargers, and refreshable Braille display)"
-- Include a button to download
-- Other notes:
-  - Because the document must be generated, use an appropriate loading indicator to communicate the status of the generation and download. When the report has been generated, immediately launch browser based download controls. Do not require the user to click download again as is the case in the product today.
-  - There will need to be error states if a user does not select an option for date range
-  - There will need to be error states if a user does not select an option for file format
-  - There will need to be a success message when the file is downloaded, and an error message if not able to generate and download
-  - We will NOT provide the ability to send a Blue Button report as that capability is provided by Community Care via CCD Direct.
-
-#### Requires further requirements gathering, usage exploration, and usability research
-- Because the new version of medical records allows users to find and view medical records information in the browser, we do not think there is as much of a use case for allowing users to select individual categories of information to include in their Blue Button report. These controls were originally included because Blue Button served as the primary way to view information, and therefore if you wanted to just see a single piece of information, the only way to do so was via BB by selecting that category. Because this is no longer the case, we do no believe there is as clear a use case for these additional controls. If we find that there is a requirement or user reason to include category selection, we can do so at that time. 
-- Do not include the file format information that is currently included in the Blue Button report grid when the download is ready. It is overly technical, and the information included does not clarify the actions available to the user. Therefore, unless we can identify a clear use case, we should not include this information on page. 
+### MVP does not include
+- Ability to select pre-defined or custom date ranges for reports
+- Ability to custom select which pieces of data to include in a Blue Button report
+- Ability to send a report electronically to a health care provider
+- Ability to print a report from within the application (printing may be achieved by downloading locally and printing using their system's built in print function).
+- User documentation in the form of a user manual or quick start guide
 
 ### Sketch file
 https://www.sketch.com/s/0803544d-e78c-423a-a70e-7db01a9a31c7
