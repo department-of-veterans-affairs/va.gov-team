@@ -25,6 +25,6 @@
 
 | Medallia | Account Experience | Chante Lantos-Swett | TBD |
 
-| Rapid Ready for Decision (RRD) | Benefits Delivery | Zach Goldfine | TBD |
+| Rapid Ready for Decision (RRD) | Benefits Delivery | Zach Goldfine | [Product Outline](LINK) |
 
 | Virtual Regional Office | Benefits Delivery | Zach Goldfine | [Product Outline](LINK) |
