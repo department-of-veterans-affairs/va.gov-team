@@ -1,6 +1,14 @@
 # Research
 
 
+## Phase 3 Research Activites and Output
+| Date                 | Activity                 | Description         | Output        |
+| :-------------              | :-------------              |:-------------         |:-------------|
+| **August 2022** | Live Bot Research Synthesis | TBD | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/Live%20Bot%20User%20Testing)|
+| **August 2022** | Chatbot Placement Research | TBD | [Report]()|
+| **September 2022** | Chatbot Feature Prioritization | TBD | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/2022-08-Chatbot%20Feature%20Prioritization)|
+
+
 ## The role of research for phase 2
 
 
@@ -14,10 +22,13 @@ There are two additional sources of work to incorporate for phase 2:
 
 
 
-## Phase 2 Research Activites and Output - coming soon!
+## Phase 2 Research Activites and Output
 | Date                 | Activity                 | Description         | Output        |
 | :-------------              | :-------------              |:-------------         |:-------------|
-| **TBD** | TBD | TBD | TBD
+| **November 2021** | Claims and Automated Content Study | TBD | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/claims-and-automated-content-study)|
+| **January 2022** | Spanish Speaking Veterans | TBD | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/spanish%20speaking%20veterans)|
+| **March 2022** | Authorization Flow Research | TBD | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/non-auth%20to%20auth)|
+| **April 2022** | Bilingual User Research | TBD | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/spanish%20speaking%20veterans)|
 
 
 ## Phase 1 Research Activites and Output
