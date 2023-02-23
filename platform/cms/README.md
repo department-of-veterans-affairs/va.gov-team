@@ -1,4 +1,4 @@
-# Content Management System (Drupal)
+# Drupal Content Management System 
 
 **Editor-centered management for Veteran-centered content**
 
