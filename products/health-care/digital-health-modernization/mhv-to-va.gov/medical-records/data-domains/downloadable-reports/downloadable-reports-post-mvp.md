@@ -1,6 +1,6 @@
-# Downloadable Reports: Domain Brief
+# Downloadable Reports: Post-MVP Domain Brief
 
-Last updated: February 8, 2023 | [Change Log](#change-log)
+Last updated: February 23, 2023 | [Change Log](#change-log)
 
 ## Table of Contents
 - [Description of domain](#description-of-domain)
@@ -216,6 +216,7 @@ See [Detailed analysis of existing functionality](#detailed-analysis-of-existing
 | 2023/02/07      |Marci McGuire     | Removed info related to the Send my Health Summary option since we are not moving forward with that.    |
 | 2023/02/07      |Marci McGuire     | Corrected links after moving directory this where this doc is stored                                    |
 | 2023/02/08      |Marci McGuire     | Added requirements sections for BB and VA Health Summary                                                |
+| 2023/02/23      |Marci McGuire     | Renamed this file and added language to clarify that it contains post MVP features                      |
 
 # Appendix
 
