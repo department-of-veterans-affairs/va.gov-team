@@ -25,13 +25,13 @@ Adding any CMS-specific UI components to VA DS will dilute its value to VFS team
 
 The CMS Content Model patterns documentation is a good candidate for integration with VA DS and this integration will be explored.
 
-## Why should the CMS use tools that are different from what the VA Design System Council is currently using - e.g. Sketch or Adobe XD?
+## Why should the CMS use tools that are different from what the VA Design System Council is currently using - e.g. Figma or Sketch or Adobe XD?
 
 The CMS team wants to develop an efficient workflow between multiple team members in an effort to ramp up on the VA.gov Drupal CMS Design System quickly. Since the CMS Admin UI and VA.gov Front End UI have very little in common, we should not tie ourselves to each other's stacks.
 
 Additionally, both Sketch and Adobe XD have collaborative frictions that we'd rather avoid. The CMS DS Design libraries will have a much smaller audience than the VA.gov DS libraries. The only potential community that may need access to the CMS Design libraries is Drupal users that opt into using the open-sourced uswds_admin theme.
 
-In any event, we will offer Sketch and XD design library files for download since it adds value to the open-sourced product.
+In any event, we will offer the CMS Design System in Figma.
 
 ## Why are we leaning towards using Figma for the CMS DS work?
 
