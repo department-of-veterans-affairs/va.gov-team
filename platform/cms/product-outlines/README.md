@@ -1,6 +1,5 @@
 # CMS Product Outlines
 
-* [Advanced Search](./advanced-search)
 * [The CMS Design System](./cms-design-system)
 * [The CMS Notifications Framework](./cms-notification-framework)
 * [The CMS Notifications Center](./cms-notifications-center)
