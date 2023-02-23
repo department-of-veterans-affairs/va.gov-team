@@ -23,7 +23,9 @@
 
 | Long COVID | Health | Marian | TBD |
 
-| Medallia | Account Experience | Chante Lantos-Swett | TBD |
+| Medallia | Account Experience | Chante Lantos-Swett | [Product Outline](LINK) |
+
+| Prescription Management | Health | Lauren Alexanderson | [Product Outline](LINK) |
 
 | Rapid Ready for Decision (RRD) | Benefits Delivery | Zach Goldfine | [Product Outline](LINK) |
 
