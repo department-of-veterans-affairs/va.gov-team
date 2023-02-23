@@ -26,7 +26,7 @@ Wednesday, February 22
 
 ## Discussion
 
-#### Login.gov's wrapping up a study focused on about SMS as MFA
+#### Login.gov's wrapping up a study about SMS as MFA
 * Recruited with Perigean
 * Focus: SMS as MFA
 * But learned other things too about account creation, authentication, and MFA in general
