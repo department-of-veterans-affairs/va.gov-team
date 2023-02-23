@@ -47,7 +47,7 @@ Team vision: An effortless online experience that allows Veterans and their Care
 - [Things to know](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/10-10CG%20-%20Things%20to%20Know.md) (various points of information we learned since the last transition in April 2022)
 - [PM Resources folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/Product/PM%20Resources) for documents used in routines and research
 - [Latest Stakeholder discussion on top processing errors/issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Meeting%20Notes/01-13-2023%20CG%20Stakeholder%20Touchbase.md)
-     - We planned to use some of this information to determine small changes we might make to reduce the errors, potentially resolve with the Primary/Secondary clarification work, and conduct research with special attention to what might cause these errors.
+     - We planned to use some of this information to conduct research with special attention to what might cause these errors, determine small changes we might make to reduce the errors, and potentially resolve with the Primary/Secondary clarification work.
 
 
 <br>
