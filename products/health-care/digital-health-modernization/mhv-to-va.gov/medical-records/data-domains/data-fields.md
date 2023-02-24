@@ -68,7 +68,7 @@
 |Chemistry/hematology|Specific test-Reference range| Normal range |
 |Chemistry/hematology|Specific test-Status| | | What does this mean? Under what circumstances would "status" be anything other than final? Can we remove this field? |
 |Chemistry/hematology|Specific test-Performing location| Location that did test |
-|Chemistry/hematology|Specific test-Interpretation| | | What types of information does this include? What guidance do providers see for field? |
+|Chemistry/hematology|Specific test-Interpretation| | | What types of information does this include? What guidance do providers see for field? Who inputs this and the comments field? Ordering provider? PC? Lab technician? We don't want the user to think they can add their own comments.|
 |Chemistry/hematology|Ordering provider| Provider who ordered test |
 |Chemistry/hematology|Ordering location| Location that ordered test |
 |Chemistry/hematology|Collected location| Location that collected sample |
