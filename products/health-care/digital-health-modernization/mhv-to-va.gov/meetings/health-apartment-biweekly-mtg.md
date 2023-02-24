@@ -70,6 +70,75 @@
 	- Bryan
 - Patrick - can we borrow some trusted users to test the authenticated landing page.  Leila will get with him offline
 
+## Health Portal Home Team Meeting 2023-02-16
+
+### Standup/Updates related to work tracks
+
+- Coulton :
+	- Handing off last domains of medical records. BB/Health summary; Demographics and DOD infoG
+	- Get BL ready for PI planning
+- Patrick
+	- Auth LP work -
+- Mikki
+	- Presented tree test y-day and next week
+	- Had some discussions around secondary nav.
+	- Planning to pick up the phased rollout mural to clarify what needs to happen in each space
+- Stephen
+	- Authentication for PHR FHIR API find a way to do this in a way that is performant. How do we get access quicker. what do we have to do longer term
+	- Working with Mark on how to engage engineers on this effort and add benefit v/s taking up time, What does success look like.
+- Mark
+  	- All of what Stephen said
+	- Patrick tossed him a dev ticket around ft toggle and restricting users based on identity provider
+- Daniel
+  	- Scaffolding work on PRs. Last one was merged just a few mins ago.
+	- Collecting real links and putting them in
+	- Feature flag work
+
+- Jonathan
+  	- Working with Coulton on dl report / BB and HS
+	- Talking thru that on design sync.
+	- Let Jonathan know if LP design work is needed
+- Martha
+  	- Trying to solve the login.gov accessibility issues
+	- VEO is spinning up some research around blinded veterans
+	- Accessibility of login at VA has been escalated to CIO
+	
+- Kristen
+  	- I"m new here! Thanks for sending me all the things.
+	- Advising Check in team on unified appt experience
+	- Learning about VAOS and provider based scheduling
+  
+- Leila
+  	- Looking at plans for the next PI
+	- Launching first iteration on navigation
+	- Looking forward to meeting new people soon.
+  
+  ## Other topics
+- PL:Feature flag dev convo for home page
+- Mark focus on the site level toggle
+- Daniel - focus on within my health
+- Per link or per section?
+- Product level feature toggles, feature level feature toggles
+- Stephen: please name the toggles consistently
+- Patrick to start a notoriously long thread in slack
+  - Phase 0
+  - Design is good for phase 0
+  - Good to have Sara a11y review interstitial
+  - Coulton to get her involved
+- Leila to work with comms
+- Set up go-no-go
+- How might we best use auth / health / un auth to do way finding research?
+- what are the most important things that we want to learn in each of these spaces?
+- Top priority:
+  - Auth experience to look at learning natural behaviors of how visitors come to va.gov to access auth tools and tasks. (bookmark, start on home page, google search, how easy is it to find those things?)
+  - Gaining understanding btw home page, health home, health care benefit hub, auth home, mhv on va.gov
+  - Robyn to lead that.
+  - Work happening on the header of va.gov and design mandates from OMB that Dave Conlon is working on.
+  - How does sign in, vs. my va, vs. mhv work together today?
+- Unauth state of the patient portal
+- Global notifications
+- Getting assistive tech research in way finding, get SM and MR
+
 
 ## Health Portal Home Team Meeting 2023-02-02
 
