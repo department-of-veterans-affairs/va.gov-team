@@ -1,12 +1,12 @@
 # VFS-CMS / Sitewide Crew sprint best practices
 
 ## Purpose
-This document is designed to capture best practices around how the VFS-CMS and Sitewide Crew teams approach each two week sprint and leverages various applications throughout.
+This document is designed to capture best practices around how the VFS-CMS and Sitewide Crew teams approach each two week sprints.
 
 ## Capacity planning
-Before the start of each sprint, team members are expected to go into their respective team’s tab (“CMS Team”, "Facilities Team", "Public Websites") on [this sheet](https://docs.google.com/spreadsheets/d/1g814Nfk_UgUUkAFC0tcMIQWdqlLb8Z6foNqMBN801KU/edit#gid=6090049) and enter the number of available days for the sprint.
+Before the start of each sprint, team members are expected to evaluate their capacity. Teams may use the [VA.gov Sprint Capacity Planning Worksheet sheet](https://docs.google.com/spreadsheets/d/1g814Nfk_UgUUkAFC0tcMIQWdqlLb8Z6foNqMBN801KU/edit#gid=6090049), which includes some formulas to help assess velocity. 
 
-The default is eight, which translates to eight working days per two week period, and accounts for two days of sprint ceremonies, code review, context switching, and general meetings. Holidays, PTO, and OOO should be accounted for by subtracting one point for each day unavailable. Adding a note to give information on why points were subtracted is appreciated but not required.
+Default sprint capacity for a two-week sprint is eight, to account for two days of sprint ceremonies, code review, context switching, and general meetings. Holidays, PTO, and OOO should be accounted for by subtracting one point for each day unavailable. Adding a note to give information on why points were subtracted is appreciated but not required.
 
 The “Summary” tab will convert those days into the team’s total point capacity based on the velocity of the last three sprints (Summary tab, row 14, “V Factor”). This total is the recommended number of points that the team should take on for the next sprint (row 10, “Suggested Goal”).
 
@@ -15,54 +15,55 @@ Team scrums are a vital component of keeping the team connected and informed. Th
 
 ### Best practices
 1. Try to keep your update < one minute. Anything that needs to take longer to talk through can be put on as a “16th minute” or moved to a slack thread or separate conversation. We generally try to timebox updates at 15 minutes and leave any other topics for the “16th minute” list.
-2. Give your personal [“balance score”](https://medium.com/civicactions/improving-scrum-team-flow-on-digital-service-projects-6723d95eaad8#:~:text=Balance%20is%20about%20self-recognition%20of%20our%20own%20priorities,real%20understanding%20of%20the%20constraints%20of%20our%20situations.) for the day. This is meant to be a quick snapshot into how balanced you’re feeling mentally, spiritually, emotionally, physically, and professionally. We score on a scale of 1-10, with 1 being completely unbalanced and 10 being completely balanced.
+2. Give your personal [“balance score”](https://medium.com/civicactions/improving-scrum-team-flow-on-digital-service-projects-6723d95eaad8) for the day. This is meant to be a quick snapshot into how balanced you’re feeling mentally, spiritually, emotionally, physically, and professionally. Each team can establish its own norms, but we tend to score on a scale of 1-10, with 1 being completely unbalanced and 10 being completely balanced.
 3. Use the board during scrum to keep it as updated as possible in regards to status and comments.
 
 ## Backlog Refinement
-Backlog refinement sessions are broken out by team. The goal is to prepare enough work to be assigned for at least the immediate next sprint. These sessions are held at least once per sprint and are meant to identify upcoming stories or issues that are not yet in the backlog or haven’t been refined based on:
-1. That quarter’s OKRs and roadmap
+Refinement is held by each team at least once per sprint. The goal is to prepare enough work to be assigned for the next sprint at minimum, and ideally for 2-3 upcoming sprints. Refinement is meant to identify upcoming stories or issues that are not yet in the backlog or haven’t been refined based on:
+1. Quarterly goals
 2. Any change in prioritization from OCTO-DE
 3. Any new information gathered
 
-There may be additional refinement sessions specific to project workstreams (Helpdesk, Training, DevOps) where epics and stories are created and refined to help prepare for the larger group refinement session.
+There may be additional refinement sessions specific to project workstreams (Helpdesk, Training, DevOps) or disciplines (UX, FE, BE) where epics and stories are created and refined to help prepare for the larger group refinement session.
 
 ### Best practices:
-1. All team members and workstreams ought to attend to gain context and help ensure that aspects are not overlooked.
-2. The Product Manager and Delivery Manager will ideally have synced with the Product Owner to clarify priorities for the next sprint(s) based on agreed upon OKRs for the quarter.
+1. All team members and workstreams ought to attend group refinement, to gain context and help ensure that aspects are not overlooked.
+2. The Product Manager and Delivery Manager will ideally have synced with the Product Owner to clarify priorities for the next sprint(s) based on agreed upon quarterly goals.
 3. The definition of done for issues must be clear, including a list of acceptance criteria that can be objectively reviewed by the PO.
 4. User stories should:
-  - Be sized by the full team with the exception of the Product Manager and Scrum Master according to planning poker (see Pointing section below)
+  - Be sized by the full team with the exception of the Product Manager and Scrum Master (see Pointing section below)
     1. Should a disagreement arise, the person showing the lowest point value must justify the point size. Afterwards, those showing higher point values can either agree or raise any risk, scope or complexity the lower point may not have considered. 
   - Have a single owner accountable to drive the story to completion.
   - Be labeled with “PO Review” if the OCTO-DE PO must review and accept the story prior to it being moved to Complete.
   - Be assigned its respective epic (all issues ought to belong to at least one epic).
-  - Be labeled with the planned milestone (we don’t use ZenHub sprints, but milestones instead).
   - Once a user story is refined per above, it may be moved to one of two columns in priority order:
     1. Stretch/Next Sprint - these are stories for the next upcoming sprint.
     2. Refined - This is the ready Backlog for future sprints after the immediate next one.
 
 ## Pointing
-We use a pointing system based on a Fibonacci scale where, as points increase, risk does as well. When talking about estimates, try to avoid using words like “just” or “only” as pointing should be as standardized as possible.
+We use a pointing system based on a Fibonacci scale where, as points increase, risk does as well. Points are a mechanism to discuss that sense of size + risk to complete a task. When talking about estimates, try to avoid using words like “just” or “only”.
 
 Pointing scale:
-- 1: Trivial, an hour or two, not worth debating
-- 2: Half a day, ish
-- 3: A day
-- 5: A couple days
-- 8: Three days to a week
-- 13: The biggest possible task completable within a sprint, but risky
-- 21: Bigger than a sprint
+- 1: The smallest unit of work possible for your team. 1s are rare.
+- 2
+- 3
+- 5
+- 8: The biggest task that can safely complete within a sprint, with room to spare
+- 13: The biggest possible task completable within a sprint, but risky. Likely should be decomposed into smaller task tickets.
+- 21: Bigger than a sprint, and should be decomposed into smaller tickets with a better understanding of size. Tickets this size may become epics.
+
+Points don't correlate directly to time. Each team will norm around what points mean to them. Any two teams will not have the same assessment of points for their work, and velocity cannot be compared apples to apples. Points are a tool for achieving outcomes, not a ruler used to measure teams.
 
 ### Best practices:
 1. If an issue grows or decreases in scope during a sprint, don't change the original estimate as it was meant to reflect the estimate with the known acceptance criteria at the time.
-2. A user story is called a *spike* when the team doesn’t have enough knowledge to estimate the task or choose the best solution. Used infrequently, it’s better to make stories more focused so that any unknowns can be dealt with as information is found.
+2. When the team doesn’t have enough knowledge to estimate the task or choose the best solution, they can create a *spike* user story to help add clarity / reduce risk. Spikes describe the effort / research required to understand a task well enough to estimate it, and are typically timeboxed. 
 
 ## Sprint Goals
 Sprint goals ought to be proposed to the team and OCTO-DE by the team's Product Managers and confirmed at that sprint’s planning session. They are used by OCTO-DE to help measure our progress and success on the project. They should:
 
-1. Align with achieving that quarter’s OKRs.
+1. Align with achieving quarterly goals.
 2. Be limited to no more than five goals per team, per sprint.
-3. Be captured in a Confluence document here.
+3. Be captured in Confluence sprint reports.
 4. Be communicated with OCTO-DE during the sprint with regards to status at the mid-sprint check-in (or earlier if projected to slip).
 5. Be prioritized as the highest priority items for the team that sprint and assigned the “High Priority” status in ZenHub.
 6. If they are not completed, OCTO-DE’s expectation is that they are completed in the following sprint or dropped with an agreed upon justification.
@@ -78,17 +79,16 @@ Sprint goals ought to be proposed to the team and OCTO-DE by the team's Product 
 3. Any cards added to the sprint will have been previously refined with enough detail for someone to understand the issue and its definition of done.
 4. It will have a point estimation and clear acceptance criteria to complete.
 5. Each team member will have a clear idea of their planned and stretch work for the sprint.
-6. All issues added to the sprint will be moved to the “To Do” pipeline and tagged with that sprint’s milestone
+6. All issues added to the sprint will be moved to the “To Do” pipeline and added to the Zenhub Sprint.
 
 ## Planning checklist
 - [ ] Look at what’s left over from Sprint X (previous sprint).
   - [ ] Move unfinished, still prioritized tickets to Sprint Y (current sprint).
-  - [ ] If moved tickets include a High Priority label, add justification to the issue and notes section in Confluence here.
+  - [ ] If moved tickets include a High Priority label, add justification to the issue and notes section in Confluence sprint report.
 - [ ] Check sprint velocity for previous 3 sprints, to include Sprint X.
 - [ ] Set velocity goal for Sprint Y.
 - [ ] Set goals for Sprint Y with an eye towards:
-  - [ ] OKRs
-  - [ ] Roadmap
+  - [ ] Quarterly goals / roadmap
   - [ ] Feature enhancements
   - [ ] Technical debt and defects
   - [ ] Longer term planning 
@@ -100,7 +100,7 @@ Sprint goals ought to be proposed to the team and OCTO-DE by the team's Product 
 ## OCTO-DE mid-sprint check in
 At the middle of each sprint, VFS-CMS Product Managers and Delivery Managers meet with OCTO-DE POs to go over the status of sprint goals and any risks identified that may affect delivery of those goals. The expectation from OCTO-DE is that if any goals need to slip they are delivered in the following sprint. The team should communicate any risks to sprint goal delivery by the scrum before this mid-sprint check in.
 
-## Mid-Sprint adjustments
+### Mid-Sprint adjustments
 As issues are worked on, they will move through the ZenHub pipelines as follows:
 1. When an issue is started, it will be moved to the “In Progress” Pipeline.
 2. When the issue’s respective PR is submitted, or the work product is ready for review, the card will be moved to “Review/QA” Pipeline.
@@ -108,14 +108,14 @@ As issues are worked on, they will move through the ZenHub pipelines as follows:
   - If the issue has a PO review label, it will be moved to the PO review Pipeline for demo in a tugboat preview instance to the respective PO. 
     - Once PO approved, it may be merged and deployed to production .
   - If no PO review label, the issue may be merged and deployed to production .
-4. Any issue moved into the Sprint after Sprint Planning must be assigned an “Unplanned Work” label.
+4. Any issue moved into the Sprint after Sprint Planning must be assigned an “Unplanned Work” (if PO prioritized) or "Stretch" (if pulled in due to capacity) label.
 
 ## Demos
 Demos are held at the end of each sprint for all teams at the same time. Everyone is expected to demo the work that they have completed to the team and stakeholders.
 
 ### Best practices
-1. Every team member should post what they will demo in the sprint’s demo script [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/213024818/Sprint+demos).
-2. Record every demo and post the actual video file into the demo script [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/213024818/Sprint+demos).
+1. Every team member should post what they will demo in the sprint’s demo script [in Confluence](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/213024818/Sprint+demos).
+2. Record every demo and post the actual video file into the demo script [in Confluence](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/213024818/Sprint+demos).
 3. Product Managers will arrange the demo to formulate a coherent message (e.g. DevOps issues first, grouped by product or objective).
 4. Application changes should be demoed from the production environment.
   - If this is not possible and the code will be merged within the next two business days, clearly communicate that the functionality is not in production and when it is expected to be deployed.
@@ -123,7 +123,7 @@ Demos are held at the end of each sprint for all teams at the same time. Everyon
 5. Limit communication to what is being demoed. If questions arise that need further discussion, table them for another time.
 
 ## Retrospectives
-Retros are held at the end of each sprint separately, per team (Core Application, Product Support). The goal is to have a joint, all team retro at least once per quarter. Retros are typically captured in Trello [here](https://trello.com/vacmsteam).
+Retros are held at the end of each sprint separately, per team. The goal is to have a joint, all team retro at least once per quarter. Retros are typically captured in Trello [here](https://trello.com/vacmsteam).
 
 ### Best practices
 1. The retro should feel as celebratory as possible - completing two weeks of good, impactful work is important to lift up.
