@@ -64,7 +64,7 @@
 |Chemistry/hematology|Specimen| Sample tested |
 |Chemistry/hematology|Specific test-name| Test |
 |Chemistry/hematology|Specific test-results| Results |
-|Chemistry/hematology|Specific test-Units| Units |
+|Chemistry/hematology|Specific test-Units| Units | |Can we remove the "Units" field, and add the units to the result and reference range?|
 |Chemistry/hematology|Specific test-Reference range| Normal range |
 |Chemistry/hematology|Specific test-Status| | | What does this mean? |
 |Chemistry/hematology|Specific test-Performing location| Location that did test |
