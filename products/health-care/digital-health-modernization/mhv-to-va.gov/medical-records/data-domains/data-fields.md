@@ -66,7 +66,7 @@
 |Chemistry/hematology|Specific test-results| Results |
 |Chemistry/hematology|Specific test-Units| Units | |Can we remove the "Units" field, and add the units to the result and reference range?|
 |Chemistry/hematology|Specific test-Reference range| Normal range |
-|Chemistry/hematology|Specific test-Status| | | What does this mean? |
+|Chemistry/hematology|Specific test-Status| | | What does this mean? Under what circumstances would "status" be anything other than final? Can we remove this field? |
 |Chemistry/hematology|Specific test-Performing location| Location that did test |
 |Chemistry/hematology|Specific test-Interpretation| | | What types of information does this include? What guidance do providers see for field? |
 |Chemistry/hematology|Ordering provider| Provider who ordered test |
