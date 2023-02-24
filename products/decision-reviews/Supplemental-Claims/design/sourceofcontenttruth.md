@@ -316,13 +316,14 @@ We'll save your application every time you add or update information.
 
 If you’re filing a claim for a condition that we now consider presumptive under a new law or regulation (like the PACT Act), you can submit this form for review.
 
-### Review and acknowledge this notice of evidence needed
+### Review and acknowledge the notice of evidence needed
 
-If you are filing for review of an issue more than one year after VA provided notice of our decision, please visit this page on VA.gov to review the 38 U.S.C. 5103 information regarding evidence necessary to substantiate your claim:
+If you’re filing a Supplemental Claim more than 1 year after you got your decision notice, you’ll need to review and acknowledge our notice of evidence needed for your disability claim.
 
-- Evidence to support a claim for Veterans Disability Compensation and related Compensation benefits: https://www.va.gov/disability/how-to-file-claim/evidence-needed/
+[Review the notice of evidence needed](https://www.va.gov/disability/how-to-file-claim/evidence-needed/)
 
-- [ ] **I certify that** I have reviewed the notice of eviden ce needed. (*Required)
+
+- [ ] **I certify that** I have reviewed the notice of evidence needed. (*Required)
 
 **_BACK_**
 
