@@ -36,6 +36,5 @@ Once I directed participants to the profile link at the top of the screen, they 
 Participants also asked for: branches, awards, accommodations, military academies. Others (up to 6?) said this section of the profile should have all military info or "the entire military 201 files." 
 
 ## Supporting documents
-- [Research plan]
-- [Conversation guide]
-- [Session notes]
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/conversation-guide.md)
