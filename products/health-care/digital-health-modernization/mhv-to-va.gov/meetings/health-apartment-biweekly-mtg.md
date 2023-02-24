@@ -1,5 +1,78 @@
 # Health Apartment Bi-Weekly Team Meetings
 
+
+### Standup/Updates related to work tracks
+- Coulton
+	- Working with ByLight Team
+	- Trying to get some questions answered re: Health Records
+	- Making sure anything needed for landing page is done
+
+- Jonathan
+	- Got the downloadable report designs completed
+	- Adding rationale to decision log re: MVP functionality of downloadable reports
+
+- Robyn
+	- Getting caught up
+	- Starting to formulate plan for research
+
+Leila
+	- Met with ByLight team POs, reviewed everything for Secure Messaging Phase 0
+	- Piecing together logistics of trusted users; about halfway where they want to be
+	- Getting ready for PI planning
+
+Sara
+	- Will be helping with accessibility
+
+Kristin O
+	- IA who will be working on authenticated experience
+	- Getting knowledge from Mikki
+	- Learning about appointment space
+
+Daniel
+	- Trying to get isolated app info from Platform - issue with CI check script
+
+Mark
+	- Got feature toggle into staging
+	- Enabling for this team - let Mark know your email if you want to access it on staging
+
+Patrick
+	- Coordinating on getting scaffolding up
+	- Coordinating on here to launch to production
+
+Stephen
+	- Working on check-in, which will eventually be part of this
+	- Looked at MHV on Prod for AVS and finally found it
+
+Kristin M
+	- Getting up to speed on AVS
+	- Meeting with people at OCTO
+	- Looking at plans with Kay for moving appointments
+
+
+## Other Topics
+
+- Patrick: 
+	- AVS will be delivered outside of the ByLight team working on Medical Records and will likely exist before Medical Records is done, but users will be able to get to it 
+- Coulton - made sure the ByLight team didn't need to account that in their PI planning.
+- Patrick - Authenticated landing page - Mar 16 staging review?
+	- Marci will point Daniel & Mark to the new QA artifact reqs to see if that's feasible.
+	- Artifacts have to be completed four business days before staging review (Mar 10)
+	- Are there other tasks that there aren't tickets for?  Patrick doesn't think so
+	- What tests do we need to run?
+	- CAIA - accessibility tickets would go to that team
+	- Bryan
+- Patrick - can we borrow some trusted users to test the authenticated landing page.  Leila will get with him offline
+
+
+
+
+
+
+
+
+
+
+
 ## 2022-12-15
 
 ### Standup/Updates related to work tracks
