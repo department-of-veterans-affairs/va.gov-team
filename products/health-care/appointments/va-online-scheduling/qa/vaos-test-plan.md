@@ -7,11 +7,22 @@ _Enter brief description of the project_
 - 
 
 ### Use Cases
+ 
+- [ ] Use Case 1
 
-- [ ] Use case #1: 
-- [ ] Use case #2: 
-- [ ] Use case #3: 
-- [ ] Use case #4: 
+* **Description**
+  - lorem ipsum
+
+- [ ] Use Case 2
+
+* **Description**
+  - lorem ipsum
+
+- [ ] Use Case 3
+
+* **Description**
+  - lorem ipsum
+
 
 
 ### User flow
