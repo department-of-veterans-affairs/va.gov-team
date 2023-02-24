@@ -40,5 +40,5 @@ We need to test all 35 test cases across the devices, operating systems, and bro
 | Test case No. |    Finding       | Device  | Operating System| Browser |Reporter | Resolution Ticket(s)|
 |---------------|------------------|---------|-----------------|---------|---------|---------------------|
 |     19        | The "learn about VA debt" link should appear right-aligned on desktop when the user has a copay (or overpayment debt card), but on staging in this scenario it's showing beneath the copay card |  Macbook       |  OS     |   All 4      |    AJ     |                     |
-|     20        |The "manage your VA debt" link appears to sign the user out of their account, experiencing this sporadically| Macbook       |         OS        |  All 4   |     AJ    |                     |
+|               |                  |         |                 |         |         |                     |
 |               |                  |         |                 |         |         |                     |
