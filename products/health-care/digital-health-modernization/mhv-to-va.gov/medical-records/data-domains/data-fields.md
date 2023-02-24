@@ -64,17 +64,17 @@
 |Chemistry/hematology|Specimen| Sample tested |
 |Chemistry/hematology|Specific test-name| Test |
 |Chemistry/hematology|Specific test-results| Results |
-|Chemistry/hematology|Specific test-Units| Units | |Can we remove the "Units" field, and add the units to the result and reference range?|
+|Chemistry/hematology|Specific test-Units| Units | | |Can we remove the "Units" field, and add the units to the result and reference range?|
 |Chemistry/hematology|Specific test-Reference range| Normal range |
-|Chemistry/hematology|Specific test-Status| | | What does this mean? Under what circumstances would "status" be anything other than final? Can we remove this field? |
+|Chemistry/hematology|Specific test-Status| | | What does this mean? |Under what circumstances would "status" be anything other than final? Can we remove this field?|
 |Chemistry/hematology|Specific test-Performing location| Location that did test |
-|Chemistry/hematology|Specific test-Interpretation| | | What types of information does this include? What guidance do providers see for field? Who inputs this and the comments field? Ordering provider? PC? Lab technician? We don't want the user to think they can add their own comments.|
+|Chemistry/hematology|Specific test-Interpretation| | | What types of information does this include? What guidance do providers see for field?| Who inputs this and the comments field? Ordering provider? PC? Lab technician? We don't want the user to think they can add their own comments.|
 |Chemistry/hematology|Ordering provider| Provider who ordered test |
 |Chemistry/hematology|Ordering location| Location that ordered test |
 |Chemistry/hematology|Collected location| Location that collected sample |
 |Chemistry/hematology|Comments| | | How is this different from Interpretation field? |
-|Chemistry/hematology|Performing Location| Location that did test |
-|Microbiology|Lab type | | | What types can you choose from here? |
+|Chemistry/hematology|Performing Location| Location that did test | | |It seems that this field is referring to the overall lab results, and not related to individual tests. If all of the tests were performed in other locations, what is this field referring to?|
+|Microbiology|Lab type | | | What types can you choose from here? A: The value will always be "Microbiology" |
 |Microbiology|Lab test (aka name, not always present)| Test |
 |Microbiology|Date collected| Date collected |
 |Microbiology|Date completed (not always present)| Date completed |
