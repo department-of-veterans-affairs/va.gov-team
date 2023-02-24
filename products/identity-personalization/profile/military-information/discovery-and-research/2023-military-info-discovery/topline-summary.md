@@ -38,3 +38,4 @@ Participants also asked for: branches, awards, accommodations, military academie
 ## Supporting documents
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/conversation-guide.md)
+- [Session notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1675699345423/c1597b053373eb3ce9b455f2a79ea2c0b0047e97?sender=ua604735c5cf1162b042a4310)
