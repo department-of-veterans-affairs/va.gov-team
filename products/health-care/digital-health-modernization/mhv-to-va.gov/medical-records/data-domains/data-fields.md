@@ -97,10 +97,10 @@
 **Category labels for labs and tests**
 |Category | Suggested label | Notes             | Questions           |Related fields |
 |:----------------------|:----------------|:------------------|:--------------------|:--------------|
-|Chemistry/hematology|||Are all tests in this category blood tests?|
-|Pathology |
+|Chemistry/hematology|||Are all tests in this category blood tests? Would "blood tests" or "routine blood tests" be an accurate label here?|
+|Pathology |||
 |Microbiology | |This is a subtype of pathology. It looks for bacteria, viruses, fungi, and parasites.|Would "Tests for infections" be an accurate PL label?|
-|Radiology | 
+|Radiology | X-rays and imaging tests | 
 |EKG |EKG (electrocardiogram) |Historical category |Are new EKGs added to medical records? |
 
 
