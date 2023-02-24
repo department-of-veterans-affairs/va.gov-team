@@ -46,52 +46,52 @@
 **Lab and test results**
 |Category       |Data field  | Description           | Suggested label | Notes             | Questions           |Related fields |
 |:----------------|:-------------|:----------------------|:----------------|:------------------|:--------------------|:--------------|
-|All |Category |
-|All|Title of lab report (if available)|
-|All|Date collected |
-|All|Ordering provider |
-|Radiology|Procedure/test name |
-|Radiology|Date/time exam performed |
-|Radiology|Ordering location|
-|Radiology|Requesting provider|
-|Radiology|Reason for study|
-|Radiology|Performing location|
-|Radiology|Clinical history|
-|Radiology|Radiologist|
-|Radiology|Report|
-|Chemistry/hematology|Lab test name | (if avail)|
-|Chemistry/hematology|Date/time collected|
-|Chemistry/hematology|Specimen|
-|Chemistry/hematology|Specific test-name|
-|Chemistry/hematology|Specific test-results|
-|Chemistry/hematology|Specific test-Units|
-|Chemistry/hematology|Specific test-Reference range|
-|Chemistry/hematology|Specific test-Status|
-|Chemistry/hematology|Specific test-Performing location|
-|Chemistry/hematology|Specific test-Interpretation|
-|Chemistry/hematology|Ordering provider|
-|Chemistry/hematology|Ordering location|
-|Chemistry/hematology|Collected location|
-|Chemistry/hematology|Comments|
-|Chemistry/hematology|Performing Location|
-|Microbiology|Lab type |
-|Microbiology|Lab test (aka name, not always present)|
-|Microbiology|Date collected|
-|Microbiology|Date completed (not always present)|
-|Microbiology|Results|
-|Microbiology|Site/specimen (not always present)|
-|Microbiology|Ordering provider|
-|Microbiology|Ordering location|
-|Microbiology|Collected location|
-|Pathology|Type of report (surgical pathology/cytology)|
-|Pathology|Specimen|
-|Pathology|Date obtained|
-|Pathology|Performing location|
-|Pathology|Date completed|
-|Pathology|Report|
-|EKG|Procedure/test name|
-|EKG|Date/time performed|
-|EKG|Ordering location|
+|All |Category |Type of test |
+|All|Title of lab report (if available)|None (card header in list, H1 in detail) |
+|All|Date collected |Date |
+|All|Ordering provider |Provider |
+|Radiology|Procedure/test name |Test |
+|Radiology|Date/time exam performed |Date of test |
+|Radiology|Ordering location| Location that ordered test |
+|Radiology|Requesting provider| Provider who ordered test |
+|Radiology|Reason for study| Reason for test |
+|Radiology|Performing location| Location that did test |
+|Radiology|Clinical history| | | What does this mean? Is this medical history related to the reason for this test? |
+|Radiology|Radiologist| Provider who did test |
+|Radiology|Report| | | What does this mean? Is this where results are entered? |
+|Chemistry/hematology|Lab test name (if avail)| None (card header in list, H1 in detail) |
+|Chemistry/hematology|Date/time collected| Date and time collected |
+|Chemistry/hematology|Specimen| Sample tested |
+|Chemistry/hematology|Specific test-name| Test |
+|Chemistry/hematology|Specific test-results| Results |
+|Chemistry/hematology|Specific test-Units| Units |
+|Chemistry/hematology|Specific test-Reference range| Normal range |
+|Chemistry/hematology|Specific test-Status| | | What does this mean? |
+|Chemistry/hematology|Specific test-Performing location| Location that did test |
+|Chemistry/hematology|Specific test-Interpretation| | | What types of information does this include? What guidance do providers see for field? |
+|Chemistry/hematology|Ordering provider| Provider who ordered test |
+|Chemistry/hematology|Ordering location| Location that ordered test |
+|Chemistry/hematology|Collected location| Location that collected sample |
+|Chemistry/hematology|Comments| | | How is this different from Interpretation field? |
+|Chemistry/hematology|Performing Location| Location that did test |
+|Microbiology|Lab type | | | What types can you choose from here? |
+|Microbiology|Lab test (aka name, not always present)| Test |
+|Microbiology|Date collected| Date collected |
+|Microbiology|Date completed (not always present)| Date completed |
+|Microbiology|Results| Results |
+|Microbiology|Site/specimen (not always present)| Sample tested |
+|Microbiology|Ordering provider| Provider who ordered test |
+|Microbiology|Ordering location| Location that ordered test |
+|Microbiology|Collected location| Location that collected sample |
+|Pathology|Type of report (surgical pathology/cytology)| Type of pathology test |
+|Pathology|Specimen| Sample tested |
+|Pathology|Date obtained| Date collected |
+|Pathology|Performing location| Location that did test |
+|Pathology|Date completed| Date completed |
+|Pathology|Report| | | What does this mean? Is this where results are entered? |
+|EKG|Procedure/test name| Test | 
+|EKG|Date/time performed| Date and time of test |
+|EKG|Ordering location| Location that ordered test |
 
 
 **Category labels for labs and tests**
