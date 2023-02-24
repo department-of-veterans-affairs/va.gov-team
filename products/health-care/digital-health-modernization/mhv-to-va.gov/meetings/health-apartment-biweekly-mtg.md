@@ -1,5 +1,7 @@
-# Health Apartment Bi-Weekly Team Meetings
+# Health Apartment Weekly Team Meetings
+- Meetings were held bi-weekly initially, then changed to weekly in 2023.
 
+## 2023-02-24 Health Apartment Team Meeting
 
 ### Standup/Updates related to work tracks
 - Coulton
@@ -15,41 +17,41 @@
 	- Getting caught up
 	- Starting to formulate plan for research
 
-Leila
+- Leila
 	- Met with ByLight team POs, reviewed everything for Secure Messaging Phase 0
 	- Piecing together logistics of trusted users; about halfway where they want to be
 	- Getting ready for PI planning
 
-Sara
+- Sara
 	- Will be helping with accessibility
 
-Kristin O
+- Kristin O
 	- IA who will be working on authenticated experience
 	- Getting knowledge from Mikki
 	- Learning about appointment space
 
-Daniel
+- Daniel
 	- Trying to get isolated app info from Platform - issue with CI check script
 
-Mark
+- Mark
 	- Got feature toggle into staging
 	- Enabling for this team - let Mark know your email if you want to access it on staging
 
-Patrick
+- Patrick
 	- Coordinating on getting scaffolding up
 	- Coordinating on here to launch to production
 
-Stephen
+- Stephen
 	- Working on check-in, which will eventually be part of this
 	- Looked at MHV on Prod for AVS and finally found it
 
-Kristin M
+- Kristin M
 	- Getting up to speed on AVS
 	- Meeting with people at OCTO
 	- Looking at plans with Kay for moving appointments
 
 
-## Other Topics
+### Other Topics
 
 - Patrick: 
 	- AVS will be delivered outside of the ByLight team working on Medical Records and will likely exist before Medical Records is done, but users will be able to get to it 
@@ -64,12 +66,159 @@ Kristin M
 - Patrick - can we borrow some trusted users to test the authenticated landing page.  Leila will get with him offline
 
 
+## Health Portal Home Team Meeting 2023-02-02
+
+### Updates
+
+- Jonathan
+  - MHV App migration - labs and tests, now on health conditions list
+
+- Coulton
+  - Medical records - requirements, briefs, looking at designs
+  - Goal is to hand off those designs to ByLight next Wednesday at 1:00 PM
+
+- Ryan
+  - Finished Notes mockups
+  - Haven't started another, but happy to scrub in on any stragglers
+
+- Martha
+   - No updates for this team
+
+- Stephen
+  - Digging through repos, met with an MHV API dev to discuss architecture
+  - Identified places where we need to flesh out architecture diagrams
+  - Also worked on stuff related to Check-in
+
+- Mark
+  - Similar to Stephen's update
+  - Spike stuff on feature toggles
+
+- Patrick
+  - Light gentle cat herding
+
+- Daniel
+  - Getting repos updated
+  - Looking at static page stuff to get set up to build landing page
+
+- Eric 
+  - Working with SM team to debug issues with Vets API and intermittent bugs
+  - Setting up new work laptop
+
+- Mikki
+  - IA presentation planning
+  - Will present to us today
+  - Landing page decisions
+
+- Jenny
+  - Helping on Medical Records
+
+- Jasmine
+  - Organizing documentation
+
+- Marci
+  - Wrapping up no-so-brief on downloadable reports (Blue Button and My VA Health Summary)
+
+- Lauren
+  - Thanks for updates in yesterdays's meeting
+  - "Master Plan" for VA Leadership for this whole effort, including timelines for each phase
+  - Prep for meeting with Intermountain
+
+### My Health IA Tree Test Presentation (Mikki)
+- 2nd test focused on My Health
+- Feedback from Lauren: Mikki - when you give this to broader group beyond us, we may need to explain that sometimes we need to put something in the IA of a tree jack test that may not be in the IA. I can see some folks getting hung up on why we put something in the IA.
+- Anything above 70% is considered a pass
+- Findings details are in Mikki's slide deck
+- Lauren - next piece of this is throwing in a more qualitative way
+- Lauren related comments: 
+  - Met with Office of Community Care, and there are a lot of medical things that a user may need to download.  Medical Records is a big umbrella.  Do we have Download medical records/download CCB with other things to download.
+  - How to disseminate this to the ByLight team - share at a Wed design review meeting so that the stakeholders and ByLight are all there.
+  - Question is how to best present it to the stakeholder group who may not be familiar with tree tests
+  - We're taking a very different tack with records
+
+### Parking Lot
+- How and when do we want to get things rolling for landing page engineering implementation?
+  - Patrick can get with Daniel / Mark / Stephen and anyone else interested async
+- For Lauren to answer: soft retirement of MHV appointment list via landing page launch, or not?
+  - Do the appointment links link to VAOS or to MHV? 
+    - Decision - Lauren - this will herald the soft retirement of VAOS
 
 
+## 2023-01-19 Health Apartment Team Meeting
 
+## Attendees
+- Stephen Barrs
+- Mikki Northuis
+- Eric Voshall
+- Danielle Thierry
+- Jonathan Nelson
+- Lean Bannon
+- Martha Wilkes
+- Ryan Thurlwell
+- Patrick Bateman
+- Leila Rassi
+- Marci McGuire
 
+## Agenda
+Track-specific updates from each team member
+  * MHV app migrations
+  * Where will health apartment live?
+  * Cerner data integration
+  * Support Identity changes
 
+Tech chat - OR - Design & Research Strategy Discussion
 
+## Track-Specific Updates
+- Lauren
+	- New team members from OCTO
+	- Migrations
+		- Major concern on appointments is having a clear track back to MHV during the transition.  We'll need to design that as part of the plan to shut off the MHV version
+		- Records - trying to keep that ball rolling as fast as possible.  Figure out a plan to figure out Low Fi mocks ASAP.   Meeting with Ryan after this meeting.  Once Coulton is back, perhaps Ryan can help. 
+	- Where will Health Apt Live
+		- That will be the next priority after Medical Records
+		- Alicia is scheduling a meeting for Jan 30 or 31 to discuss building the apartment
+	- Cerner integration
+		- Met with Cerner, and is working with COP (Cory Trim) on how to integrate them. Lauren is working to get access to GH, ZH and limited access to Slack and start to cross walk with them the data we will need from Cerner.
+		- Lauren, Stephen, Mark Dewey, Shane Elliot, Leila will be meeting with Intermountain (Gov only meeting)
+- Mikki
+	- Dec tree tests are closed out.  
+	- Looking for time to synthesize
+	- Deep dive - will close out soon
+- Jonathan
+	- MHV migration - met with ByLight team to handoff Immunizations assets
+	- Getting organized to dig into Labs & Tests
+- Danielle
+	- Comms charter & elevator pitch from big meeting - next step is getting folks from other groups joined
+	- Putting together a comms & content matrix to clear up any confusion 
+	- Working with Carnetta on functionality around unified Terms & Conditions
+	- Secure messaging content
+	- Patient safety work
+	- Shift in approach - where content, IA and accessibility feedback can be obtained at the same time.  Considering combined office hours
+- Stephen
+	- Digging into VA Profile API to map data there to existing Blue Button demographic info
+	- Shared how he is doing the mapping to verify that is what we are looking for.
+	- Will do pre-work before Intermountain meeting
+- Martha
+	- Nothing for this team
+	- Working with Danielle on interstitial convo guide
+	- Reshuffling folks; concerns about this team not having its own accessibility folks
+	- Shared support concern - 5 accessibility people to two. 
+- Eric
+	- Questions from Lexi & Bobby about PDF functionality
+	- Been diving into any PDF generation patterns & examples
+	- Reached out to the PHR team about immunization dosage - currently not available via PHR, but doing some digging about if it can be
+	- Collect docs to handoff to Daniel
+- Leila 
+	- Working on setting up infrastructure for Phase 0 on getting feedback
+	- Needs to talk with Marci and Jonathan about next designs
+	- Housekeeping on meetings
+- Leah
+	- Meeting strategy
+	  
+## Other meeting topics
+- None
+
+## Action Items
+- Marci check to see if Daniel is on this meeting,  if not ask Alicia to add
 
 
 
