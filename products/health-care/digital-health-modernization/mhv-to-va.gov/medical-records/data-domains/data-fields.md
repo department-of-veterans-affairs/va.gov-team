@@ -22,11 +22,11 @@
 |Comments |Comments entered by provider | Provider notes | 
 
 **Health conditions**
-|Data field       | Description           | Suggested label | Notes             | Questions           |Related fields |
+|Data field       | Description          | Suggested label | Notes             | Questions           |Related fields |
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|:---------------------|
 |Issue/problem title |Name of the health condition | Health condition |
-|Date/time entered | 
-|Status | 
+|Date/time entered | | | |Why is time important here? Can we display only date?|
+|Status | | | |Are the only options active and inactive?|
 |Location where the issue was entered |Name of facility |Location |
 |Provider's name | |Provider |
 |Comments |Comments entered by provider |Provider notes |
@@ -44,36 +44,54 @@
 |Comments |
 
 **Lab and test results**
-|Data field       | Category     | Description           | Suggested label | Notes             | Questions           |Related fields |
+|Category       |Data field  | Description           | Suggested label | Notes             | Questions           |Related fields |
 |:----------------|:-------------|:----------------------|:----------------|:------------------|:--------------------|:--------------|
-|Category |All |
-|Title of lab report (if available)|All|
-|Date collected |All|
-|Ordering provider |All|
-|Procedure/test name |Radiology|
-|Date/time exam performed |Radiology|
-|Ordering location|Radiology|
-|Requesting provider|Radiology|
-|Reason for study|Radiology|
-|Performing location|Radiology|
-|Clinical history|Radiology|
-|Radiologist|Radiology|
-|Report|Radiology|
-|Lab test name | (if avail)|Chemistry/hematology|
-|Date/time collected|Chemistry/hematology|
-|Specific test-name|Chemistry/hematology|
-|Specific test-results|Chemistry/hematology|
-|Specific test-Units|Chemistry/hematology|
-|Specific test-Reference range|Chemistry/hematology|
-|Specific test-Status|Chemistry/hematology|
-|Specific test-Performing location|Chemistry/hematology|
-|Specific test-Interpretation|Chemistry/hematology|
-|Specimen|Chemistry/hematology|
-|Ordering provider|Chemistry/hematology|
-|Ordering location|Chemistry/hematology|
-|Collected location|Chemistry/hematology|
-|Comments|Chemistry/hematology|
-|Performing Location|Chemistry/hematology|
+|All |Category |
+|All|Title of lab report (if available)|
+|All|Date collected |
+|All|Ordering provider |
+|Radiology|Procedure/test name |
+|Radiology|Date/time exam performed |
+|Radiology|Ordering location|
+|Radiology|Requesting provider|
+|Radiology|Reason for study|
+|Radiology|Performing location|
+|Radiology|Clinical history|
+|Radiology|Radiologist|
+|Radiology|Report|
+|Chemistry/hematology|Lab test name | (if avail)|
+|Chemistry/hematology|Date/time collected|
+|Chemistry/hematology|Specific test-name|
+|Chemistry/hematology|Specific test-results|
+|Chemistry/hematology|Specific test-Units|
+|Chemistry/hematology|Specific test-Reference range|
+|Chemistry/hematology|Specific test-Status|
+|Chemistry/hematology|Specific test-Performing location|
+|Chemistry/hematology|Specific test-Interpretation|
+|Chemistry/hematology|Specimen|
+|Chemistry/hematology|Ordering provider|
+|Chemistry/hematology|Ordering location|
+|Chemistry/hematology|Collected location|
+|Chemistry/hematology|Comments|
+|Chemistry/hematology|Performing Location|
+|Microbiology|Lab type |
+|Microbiology|Lab test (aka name, not always present)|
+|Microbiology|Date collected|
+|Microbiology|Date completed (not always present)|
+|Microbiology|Results|
+|Microbiology|Site/specimen (not always present)|
+|Microbiology|Ordering provider|
+|Microbiology|Ordering location|
+|Microbiology|Collected location|
+|Pathology|Type of report (surgical pathology/cytology)|
+|Pathology|Specimen|
+|Pathology|Date obtained|
+|Pathology|Performing location|
+|Pathology|Date completed|
+|Pathology|Report|
+|EKG|Procedure/test name|
+|EKG|Date/time performed|
+|EKG|Ordering location|
 
 
 **Category labels for labs and tests**
