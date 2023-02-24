@@ -50,6 +50,11 @@
 	- Meeting with people at OCTO
 	- Looking at plans with Kay for moving appointments
 
+- Marci
+	- Updated downloadable reports requirements
+	- Created a PI planning Mural and scheduled prep meeting with team yesterday
+	- Continuing to add stories for Q2
+
 
 ### Other Topics
 
