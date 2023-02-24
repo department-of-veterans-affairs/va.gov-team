@@ -211,7 +211,7 @@ This all depends on Florence having Github access.
 **BE - Tom**
 
 - Province populated on U.S. Territory Addresses #52786
-- Datadog Access Discover #54053
+- Datadog Access Discovery #54053
 
 ### Accessibility
 
