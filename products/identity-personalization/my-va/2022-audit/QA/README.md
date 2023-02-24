@@ -40,5 +40,5 @@ We need to test all 35 test cases across the devices, operating systems, and bro
 | Test case No. |    Finding       | Device  | Operating System| Browser |Reporter | Resolution Ticket(s)|
 |---------------|------------------|---------|-----------------|---------|---------|---------------------|
 |     19        | The "learn about VA debt" link should appear right-aligned on desktop when the user has a copay (or overpayment debt card), but on staging in this scenario it's showing beneath the copay card |  Macbook       |  OS     |   All 4      |    AJ     |                     |
-|               |                  |         |                 |         |         |                     |
+|     21        | Data discrepancy with user 81 (as far as we can tell limited to that test user) and "updated" date on My VA not matching what's in the debt portal. We're showing the date of the second latest statement (April 4 2022) instead of the latest statement date (May 4, 2022)  | Macbook  | OS | All 4 | AJ   |                     |
 |               |                  |         |                 |         |         |                     |
