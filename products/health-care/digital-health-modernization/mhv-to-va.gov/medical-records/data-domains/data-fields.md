@@ -104,6 +104,36 @@
 |EKG |EKG (electrocardiogram) |Historical category |Are new EKGs added to medical records? |
 
 
-**Care notes**
-|Data field       | Description           | Suggested label | Notes             | Questions           |Related fields |
-|:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|:---------------------|
+**Care summaries and notes**
+|Category|Data field       | Description           | Suggested label | Notes             | Questions           |Related fields |
+|:----------------------|:-----------------------|:--------------------|:------------------|:------------------|:--------------------|:---------------------|
+|VA Note|Title|
+|VA Note|Date and time|
+|VA Note|Location|
+|VA Note|Signed by|
+|VA Note|Co-signed by|
+|VA Note|Date and time signed|
+|VA Note|Last updated|
+|VA Note|Note|This is the actual content of the note|
+|Admission & Dishcarge Summary|Title|
+|Admission & Dishcarge Summary|Admission date|
+|Admission & Dishcarge Summary|Location|
+|Admission & Dishcarge Summary|Admitting physician|
+|Admission & Dishcarge Summary|Discharge date|
+|Admission & Dishcarge Summary|Discharge physician|
+|Admission & Dishcarge Summary|Last updated|
+|Admission & Dishcarge Summary|Discharge summary|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
