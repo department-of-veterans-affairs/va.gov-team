@@ -15,7 +15,7 @@
 
 | CDS Application: Precision Oncology | Health | Shane Elliot | TBD |
 
-| CDS Application: STORM Opioid Management | Health | Shane Elliot | TBD |
+| CDS Application: STORM Opioid Management | Health | Shane Elliot | Dr. Jodie Trafton | TBD |
 
 | Clinical Decision Support Program | Health | Shane Elliot | TBD |
 
