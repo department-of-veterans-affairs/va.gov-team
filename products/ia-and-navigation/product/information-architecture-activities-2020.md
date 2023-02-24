@@ -54,4 +54,3 @@ And showing how we can help.
   * How do we identify projects that need IA early on?
   * What's the workflow between product, content, IA, visual design, and dev (Drupal)? 
 
-test
