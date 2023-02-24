@@ -6,9 +6,6 @@ Date: 11/23/2022
 
 Tyler Gindraux [tyler@bluetiger.digital], Kit Casey [kit.casey@frog.co], Samara Watkiss [samara.watkiss@frog.co]
 
-- [Discovery phase readout deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/presentations/sprint%20demos/2022.12.06%20-%20discovery%20sprint%208%20readout.pdf)
-- [VA Platforms Monday research readout deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/discovery/VA%20platforms%20sync_login.gov%20adoption%20discovery%20research%20findings.pdf)
-
 ## Research goals
 There are currently multiple ways to sign in and access My HealtheVet and other VA services. These login options don’t all meet the required security standards and also create frustration and confusion for users.
 
@@ -268,11 +265,11 @@ In the Appendix, we also note which underserved groups this study did not recrui
 
 ## Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/discovery/login.gov%20adoption%20discovery%20research%20plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/discovery/2022-10-Login.gov-Adoption-Discovery-Research/login.gov%20adoption%20discovery%20research%20plan.md)
 
-[Conversation guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/discovery/conversation%20guides)
+[Conversation guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/discovery/2022-10-Login.gov-Adoption-Discovery-Research/conversation%20guides)
 
-[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/discovery/interview%20transcripts)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/discovery/2022-10-Login.gov-Adoption-Discovery-Research/interview%20transcripts/README.md)
 
 ## Synthesis tools used
 
@@ -280,13 +277,13 @@ In the Appendix, we also note which underserved groups this study did not recrui
 
 ## Pages and applications used
 
-[Research stimuli](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/discovery/research%20stimuli)
+[Research stimuli](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/discovery/2022-10-Login.gov-Adoption-Discovery-Research/research%20stimuli)
 
 ## Other supporting documents created
 
-- [Service blueprint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/discovery/service%20blueprint_login.gov%20migration%20pathways.pdf)
+- [Service blueprint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/discovery/2022-10-Login.gov-Adoption-Discovery-Research/service%20blueprint_login.gov%20migration%20pathways.pdf)
 - [Discovery phase readout deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/presentations/sprint%20demos/2022.12.06%20-%20discovery%20sprint%208%20readout.pdf)
-- VA Platforms Monday research readout deck will be added soon
+- [VA Platforms Monday research readout deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/discovery/2022-10-Login.gov-Adoption-Discovery-Research/VA%20platforms%20sync_login.gov%20adoption%20discovery%20research%20findings.pdf)
 
 ## Secondary research
 
