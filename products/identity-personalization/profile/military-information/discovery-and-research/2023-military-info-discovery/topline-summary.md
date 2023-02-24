@@ -1,62 +1,41 @@
-# Profile Notification Settings, Add email channel research, Topline summary
-Liz Lantz
-
-1/25/23
+# Topline Summary: Military info, Profile
 
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is **not the final result of working with the data discovered**. The information in this document may change following a deeper review and analysis of the data gathered. 
 
 **The goal of this document is:**
-
  - To make sure everyone who observed the study is in alignment with the perceived findings
  - To gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
  - To jump start synthesis by quickly organizing high level themes.
 
 ## Initial Findings
 
-### Our current auto-saved pattern worked well with additional channels and notifications, and all* participants preferred it to the read/edit pattern. 
-- ***need to confirm it was indeed all participants.**
-- They were easily able understand and interact with our current auto-save pattern, even with additional notifications and channels.
-- The addition of an email channel, and new notifications didn’t introduce any usability hurdles for 8 of 9 participants.
-	- **Confirm:** 1 participant felt overwhelmed by seeing things that weren’t relevant to them (BVA reminders).
-- Most participants who saw the read/edit variation first suggested auto-save before seeing it.
-- It felt like an extra step to have to click the edit link, and then go to a separate page.
-- 1 participant wasn’t sure if the edit link would take them to edit their settings, or their contact information
+### A copy of discharge paperwork (e.g. DD214) is a requirement for receiving any VA benefit or service.
+Simply memorizing the information on one's DD214 is insufficient. The document itself is needed to prove that one has served in the military, and not only for VA-related benefits. Veterans must also present their DD214 (or other discharge papers) to get a Veteran ID. If they don't have a Veteran ID, the DD214 is a fine substitute for accessing non-VA Veteran-only memberships, discounts, and privileges.
 
-### No one got confused by the lack of a save button.
-- People felt confident that their changes were saved because of the feedback provided by the input message pattern.
-> It said “update saved”— that’s some good information to let somebody with little to no vision what they typed was actually saved. - P10
+### Some Veterans lack easy access to their DD214.
+This is especially true for Veterans experiencing homelessness. One research participant never received a DD214 (or other discharge paperwork) and some quick research on Veteran reddit provides evidence that this is not a rare occurence (to leave the military without receiving discharge paperwork). 
 
-> ’Update saved’ makes me feel like something happened. - P4
+### Most participants had accessed a copy of their DD214 online at some point through the eBenefits and/or MilConnect websites.
+In addition to being able to download a copy of their DD214, participants were able to download other important and helpful documents, such as benefit letters. 
 
-### The level of information provided about each notification was sufficient for most participants to determine whether or not they wanted to update their presence.
-- **Confirm** 2 participants suggested additional information “on hover” to provide more context about notifications for less tech savvy Veterans.
-- **Confirm:** Most notification group names and item names were clear and easily understood. 
-- In both variations, it was clear to people whether or not their notification settings was on or off.
+### Unprompted, five participants brought up confusions about their DD214. (double-check numbers)
+Four participants (double-check this) stated that they did not know what their discharge status code actually meant, or that they were surprised to find out that a Veteran could have a less than honorable discharge but still receive a DD214. Two participants mentioned that there may be multiple versions of a DD214 and in some cases copy A is needed and in others, copy B is needed, but a lack of clarity around how copies A and B differ from one another, and when to use one over the other. 
 
-### Most participants intuitively navigated the path to add their email address. 
-- Going between the notification settings page and email form was intuitive.
-- One participant was surprised there was only one form field. Since the link said “profile” they expected to go to a page with their entire profile information.
-- **Note/Question:** Some participants missed the “update saved” banner at the top of the page- did this impact whether or not they felt like their email had actually been saved? How many participants?
-- **Confirm:** 2 participants expected to be opted in immediately, simply by adding their email address
+### Contexts in which participants needed data from their DD214, but not the actual document itself were less common and less predictable. 
+Participants brought up two use cases: 
+1. Needing information about trainings, education, and completion dates for resumes, job applications, interviews and/or professional certifications.
+2. Needing dates and locations to try to pinpoint (and prove) when and where an event took place, such as an injury or - for one participant - the birth of his son while he was serving.
 
-### Most participants were not bothered by the repetition of the prompt to add an email address.
-- **Confirm:** X of 9 participants didn’t comment on the repetition, and easily navigated the pages.
-- Screenreader users were not bothered by the repetition of the links.
-- **Confirm:** X participants commented that the page had visual clutter, and after adding an email commented that it was “better”. This suggests the repetition was clutter to them.
-- **Confirm**: Some participants were not sure if the links under a notification name would only add the email address for that particular notification.
+### Participants like the idea of being able to access their military info (and especially their DD214) easily online.
+However, all participants also complained about the login experience at VA.gov. Some participants (check number) stated that they try to avoid logging in to VA.gov whenever possible. Clearly, VA.gov does not quite fit into the category of "easy to access."
 
-### Both variations of the design were equally usable on desktop and mobile.
-- A low vision user commented that the green background to the “update saved” alert, which extends the full width of the section, was a “waste of vision time” on desktop because there wasn’t anything on the right side.
-> “It would be better if the highlight didn’t go the full width of this thing and only highlighted the text. when I see it going the full width, I wonder what’s over there and it’s a waste of my vision time.”
+### When asked to show me where they'd expect to find their military info on VA.gov (starting from the My VA screen), participants always (check number) went to the search bar as their first step.
+Once I directed participants to the profile link at the top of the screen, they were able to find "military info" in the side nav of the profile. At this point, it can't be said for certain why participants didn't click on the profile link. For example, is the link not clearly visible? Is the link text not accurately describing what info could be found within profile? Or, are participants trained by previous usage of the site to always use the search bar? (Or some other reason I'm not thinking of now?)
 
-### Some participants were confused about where their notifications were going to go.
-- **Confirm:** X participants didn’t recall the mobile number information at the top of the prototype, and asked about how they could add their mobile number after adding their email address
-- It’s possible this was confusing to participants because it was a prototype that didn’t reflect their own information.
-- One participant thought the phone number at the top was a number to call for help.
-> It has a phone number here I can call. - P9
-
+### Research findings provide evidence that Veterans would benefit from having quick and easy online access to their military information, primarily: dates and locations of service, trainings and certifications (and dates of completion), discharge status, and possibly some educational content about what their status means.
+Participants also asked for: branches, awards, accommodations, military academies. Others (up to 6?) said this section of the profile should have all military info or "the entire military 201 files." 
 
 ## Supporting documents
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/research-plan.md)
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/conversation-guide.md)
-- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/session-notes)
+- [Research plan]
+- [Conversation guide]
+- [Session notes]
