@@ -195,7 +195,7 @@ There was one sugestion of being able to also upload their DD-214 on the review 
 
 ### Finding 4
 
-**Stopping/pausing points for information gathering occured frequently around discharge papers (DD-214) and income or deductible information.**
+**Stopping/pausing points for information gathering occurred frequently around discharge papers (DD-214) and income or deductible information.**
 
 Labels: [DSP: Files], [PRDT: DD-214], [TREND: Content]
 
