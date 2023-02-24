@@ -61,6 +61,7 @@
 |Radiology|Report|
 |Chemistry/hematology|Lab test name | (if avail)|
 |Chemistry/hematology|Date/time collected|
+|Chemistry/hematology|Specimen|
 |Chemistry/hematology|Specific test-name|
 |Chemistry/hematology|Specific test-results|
 |Chemistry/hematology|Specific test-Units|
@@ -68,7 +69,6 @@
 |Chemistry/hematology|Specific test-Status|
 |Chemistry/hematology|Specific test-Performing location|
 |Chemistry/hematology|Specific test-Interpretation|
-|Chemistry/hematology|Specimen|
 |Chemistry/hematology|Ordering provider|
 |Chemistry/hematology|Ordering location|
 |Chemistry/hematology|Collected location|
