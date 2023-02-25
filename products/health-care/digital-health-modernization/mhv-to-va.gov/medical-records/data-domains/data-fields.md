@@ -27,7 +27,7 @@
 |Issue/problem title |Name of the health condition | Health condition |
 |Date/time entered | | | |Why is time important here? Can we display only date?|
 |Status | | | |Are the only options active and inactive?|
-|Location where the issue was entered |Name of facility |Location |
+|Location where the issue was entered |Name of facility |Location | |Is this field only necessary for the user to associate it with a specific appointment they had? What if it were a telehealth appt?|
 |Provider's name | |Provider |
 |Comments |Comments entered by provider |Provider notes |
 
@@ -53,7 +53,7 @@
 |Radiology|Procedure/test name |Test |
 |Radiology|Date/time exam performed |Date of test |
 |Radiology|Ordering location| Location that ordered test |
-|Radiology|Requesting provider| Provider who ordered test |
+|Radiology|Requesting provider| Provider who ordered test | | | In Chem/Hem and Microbio, the field is labeled “Ordering Provider”. Should this change?|
 |Radiology|Reason for study| Reason for test |
 |Radiology|Performing location| Location that did test |
 |Radiology|Clinical history| | | What does this mean? Is this medical history related to the reason for this test? |
@@ -89,7 +89,7 @@
 |Pathology|Performing location| Location that did test |
 |Pathology|Date completed| Date completed |
 |Pathology|Report| | | What does this mean? Is this where results are entered? |
-|EKG|Procedure/test name| Test | 
+|EKG|Procedure/test name| Test | |For this category, this field will always read "Electrocardiogram (EKG)"|
 |EKG|Date/time performed| Date and time of test |
 |EKG|Ordering location| Location that ordered test |
 
