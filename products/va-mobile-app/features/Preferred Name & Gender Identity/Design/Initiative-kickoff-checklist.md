@@ -17,7 +17,7 @@ As a Veteran, I need the capability to view and update my preferred name and gen
 Review current web UX and identify: 
 
 -  How might we update Profile to include 2 new fields Preferred Name & Gender Identification 
-- Make design recommendations for a mobile UX
+- Make design & Content recommendations for a mobile UX
 
 ### Tasks
  
