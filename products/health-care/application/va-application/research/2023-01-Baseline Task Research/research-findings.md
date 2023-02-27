@@ -411,8 +411,6 @@ Observer ratings of start application task completion using rating criteria:
 ## Further research needed
 
 - Assistive technology users
-- Additional research studies 
-- Google analytics evaluation of application paths
 
 
 ## Appendix
@@ -433,6 +431,7 @@ Observer ratings of start application task completion using rating criteria:
 ## Pages and applications used
 
 - 10-10EZ health care application - staging environment
+- [Images of pages during testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-01-Baseline%20Task%20Research/images)
 
 ## Other supporting documents created
 
@@ -442,11 +441,8 @@ Observer ratings of start application task completion using rating criteria:
 
 ## Secondary research
 
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
-
+- [Google analytics dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/gSXa5lOYRyuXpauKyXSYug/a50123418w177519031p184624291/_u.date00=20230201&_u.date01=20230226/)
+- Domo dashboard
 
 
 
