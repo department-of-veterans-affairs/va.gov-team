@@ -333,27 +333,86 @@ Observer ratings of start application task completion using rating criteria:
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+### Recommendation 1
+**Additional research on if any questions can be removed or simplified, plus authenticated flows and how much information can be pre-filled.**
 
-### DRAFT
-* Recommendation 1: Clarify who would benefit from providing household/income information -  
-    * _Supporting evidence_
-* 
-* Recommendation 2: Additional content explanation around use of taxes for calculating income
-    * _Supporting evidence_
+- Utilizing additional “shortened form flows” to allow more applicants to skip household information questions where appropriate.
+- Additional testing with authenticated users/flows to understand how pre-filled information changes the experience and expectations. 
+- What are the downstream implications of not providing financial/household information? Slower time until decision for the Veteran because they have to supply this info anyways? Would this be an initially positive but long-term negative impact to the Veteran?
 
-* Recommendation 3:
-    * _Supporting evidence_
+> Key Finding 1: There was confusion or negative feelings around providing income and insurance information. 
+> Key Finding 4: Stopping/pausing points for information gathering occurred frequently around discharge papers (DD-214) and income or deductible information.
+
+
+### Recommendation 2
+**Additional content explanation around use of taxes for calculating income.**
+
+- Review recent changes to financial disclosure and income pages currently in content review and add these findings for additional consideration.
+- Additional research on this process overall (search for past research done)- automation, integrations, enrollment impact, financial responsibility implications, income tool and/or content.
+
+> Key Finding 1: There was confusion or negative feelings around providing income and insurance information. 
+
+
+### Recommendation 3
+**Clarification around dependents, who qualifies as a dependent and additional questions asked.**
+
+- Implement recent household information section study content updates with additional information content for “Who does VA consider a dependent?”. 
+- Research: can any of these questions be removed or simplified?
+
+> Key Finding 5: Who qualifies as a dependent, that definition and general question confusion existed for participants who answered yes to having dependents.
+
+
+
+### Recommendation 4
+**Explore ways to make the facility selection page easier for participants to answer on that page without leaving and feeling confident they chose the location they will use.**
+
+- Additional discovery on this page and how to best simplify and separate the existing 3 questions: enrolling for Affordable Care Act, Selecting a VA facility, and being contacted regarding scheduling their first appointment.  
+- Leverage learnings and designs from 10-10 CG application of facility selection updates.
+ - [Improve Facility Selection Epic (CG)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19433)
+ - [Initiative brief(10-10CG)(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Improve%20Facility%20Selection%20-%20Initiative%20Brief.md)
+
+> Additional insight 4: Participants generally struggled with some element of the facility selection question in the insurance information step.
+
+
+### Recommendation 5
+**Refinements to content in the military service section, including date clarification and review of the list of military services for accuracy and mapping each to Veteran impact or back-end processing needs.**
+
+- Confirm if there is any missing information with the business/stakeholders for the military service list, refine content on the military service dates page to make it clear the task is for the last service period. 
+- Business and user research on if this content is complete, clear and maps to positive outcomes for the Veteran and downstream for processing applications. 
+- Do any of these situations result in additional short-form flow patterns? Ie. not needing to provide certain information on following sections/questions.
+
+
+> Key Finding 2: There was confusion and missing information around the VA Benefits and Military Service questions.
+
+
+### Recommendation 6
+? How to proceed with birth sex and gender identity questions? On paper SIGI is used for both Veteran and Spouse, and birth sex is used only for Veteran. 
+
+> Additional Insight 3: Participants called out the birth sex question and expectation of having gender identity options to choose from here or on another page.
+
+
+
+### Recommendation 7
+**Additional rounds of research targeting groups missed during this round, include a more holistic perspective of the possible paths that are often taken.**
+
+- In future studies, recruit for participants not represented in this study and conduct studies that are both targeted and more free-form.   
+- And include multiple cohorts/studies as needed when targeting groups to meet focused goals (example; recruit or use a scenario to follow if needing to gather feedback on dependents multiple responses pattern). 
+
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+- Implement recent household information optimization content updates ([in progress now for review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52920) and then FE) and then test in staging/production.
+- Draft research plan for next round of testing, including how to balance targeted and representational user flows.  
+- Content and business review of VA military service section, including clarification wording to dates and missing items in service list. 
+
 
 
 ## Further research needed
 
 - Assistive technology users
+- Additional research studies 
+- Google analytics evaluation of application paths
 
 
 ## Appendix
