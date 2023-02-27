@@ -17,18 +17,22 @@ During previous usability studies on this form (research findings: [February 202
 
 Additional technical and user experience concerns include:
 1. The team wants to update and use an upcoming release of the facility API to manage the list of all community and VA locations and include search by zip code and city in additon to state.
-2. By including both community and VA health care facilities in the search list, this could potentialy add confusion if the process is not made clear to the applicant. 
+2. By including both community and VA health care facilities in the search list, this could potentialy add confusion to the process around where a Caregiver Support Coordinator is located. 
 3. The question content needs to be in plain language as well as make the process clear as to how this answer will impact the caregiver and/or Veteran during their application process. 
 
 
 ### OCTO Objectives 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
-Increase:
+Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? 
+
+Goals
+- Veterans and their families can apply for all benefits online
+
+**Increase**
 - Percent of applications submitted online
 - Completion rate of online transactions
 
-Decrease:
+**Decrease**
 - Time to successful complete and submit online transactions
 - Time to process online applications
 
@@ -52,7 +56,8 @@ The goals of this user research are to:
 3. Determine the accessibility of the facility search and selection process. 
 
 ### Outcome
-The outcome of this study will help aid in decisions around changes to make to this question and and how it can help best minimize applications submitted with facility errors. 
+
+The outcome of this study will help guide this design implementation and future iterations to improve the clarity of the question and selection process, including accessibility testing. 
 
 
 ### Research questions
@@ -65,7 +70,6 @@ The outcome of this study will help aid in decisions around changes to make to t
 - Is the new version easy for the participant to understand why they are selecting a facility and how it impacts the caregiver application process?
 - Does the confirmation screen after selection add any additional confusion or result in clarifying questions?
 
-
 **Goal 3: Search and selection of facilities**
 - Are users able to navigate through the facility selection without difficulty?
 - Do they know what to input in the text search field?
@@ -76,15 +80,18 @@ The outcome of this study will help aid in decisions around changes to make to t
 
 ### Hypothesis
 
-Our hypothesis is that users will understand what they are selecting 
+**Hyphotesis 1**
+- Our hypothesis is that users will understand what they are selecting and how that impacts the caregiver applicaiton process and find the confirmation page to be helpful and informative. 
 
 
-
-Our hypothesis is that users will be able to navigate through the facility selection relatively easily, but may have issues with the following:
+**Hyphotesis 2**
+- Our hypothesis is that users will be able to navigate through the facility selection relatively easily, but may have issues with the following:
 - The amount of results shown
 - Desire to filter results and how
 - Not recognizing the name of the facility they are looking for
 - Understanding the difference between community and VA facilities/Caregiver Support Facilities
+
+
 
 
 ## Methodology	
@@ -102,9 +109,12 @@ A remote task-based usability study will be conducted remotely with Zoom using t
 
 ### Research materials
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Research/conversation-guide.md)
+
 - Designs: 
-- 
-- Testing (TBD if coded prototypes, staging or UXPin will be used]
+
+
+
+> - Testing (TBD if coded prototypes, staging or UXPin will be used]
 
 
 ## Recruitment	
@@ -114,7 +124,7 @@ A remote task-based usability study will be conducted remotely with Zoom using t
 
 ### Recruitment approach
 
-
+Our intended audience for this research is a mix of Veteran's and caregivers. 
 
 
 
@@ -122,7 +132,7 @@ A remote task-based usability study will be conducted remotely with Zoom using t
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|      15       |            10    |2       |  1          |   7      |               | 
+|      15       |            10    |4       |  1          |   5      |               | 
 
 
 **Primary criteria (must-haves)**
@@ -192,7 +202,7 @@ TBD       | TBD EST
 - Project point of contact: Moderator
 - Participant(s) for pilot test: 
 - Note-takers: Perigean, 1010 Team
-- Observers: Heather Justice (heather.justice@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)  
+- Observers: Heather Justice (heather.justice@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us), David Kennedy (david.kennedy@adhocteam.us), Erin Flaherty (erin.flaherty@adhocteam.us) 
 
 
 > **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
@@ -201,7 +211,7 @@ TBD       | TBD EST
 
 ## Resources	
 - Project Brief: TBD
-- Convo Guide: TBD
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Research/conversation-guide.md)
 - Design drafts: [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/D741171D-81BD-4CEF-A7A2-69A548C8D346)
 - Synthesis: TBD
 - Research Findings: TBD
