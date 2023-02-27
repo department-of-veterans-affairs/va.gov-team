@@ -369,7 +369,7 @@ Observer ratings of start application task completion using rating criteria:
 - Additional discovery on this page and how to best simplify and separate the existing 3 questions: enrolling for Affordable Care Act, Selecting a VA facility, and being contacted regarding scheduling their first appointment.  
 - Leverage learnings and designs from 10-10 CG application of facility selection updates.
  - [Improve Facility Selection Epic (CG)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19433)
- - [Initiative brief(10-10CG)(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Improve%20Facility%20Selection%20-%20Initiative%20Brief.md)
+ - [Initiative brief(10-10CG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Improve%20Facility%20Selection%20-%20Initiative%20Brief.md)
 
 > Additional insight 4: Participants generally struggled with some element of the facility selection question in the insurance information step.
 
