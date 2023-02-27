@@ -1,6 +1,10 @@
-## Objective 
+## Objective 1
 
 Enable Veterans the ability to view, add, or update their ‘Preferred Name & Gender Identity’ information via mobile app
+
+## Epic 1
+[4028-Profile: Preferred Name & Gender Identification](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4028)
+
 
 ## User Story
 
@@ -21,6 +25,22 @@ Veteran Need
    - User should be able to select and have the option to add gender identity if it is not displayed
    - User should be able to select and edit gender identity that is on file
    - User should have content of the What to know before deciding to share gender identity
+
+
+## Objective 2
+
+Break out Personal Info and Contact info into their own screens similar to the web experience
+- Create separate sections on Profile (Personal information & Contact information)
+- Create separate detail screens 1 for Personal information & 1 for Contact information
+
+
+## Epic 2
+[4505 - Profile Nav Update - Breakout Personal Info & Contact Info](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4505)
+
+## User Story
+
+As a user of the VA mobile app, I'd like to easily navigate within the app to view my Personal and Contact info, so that I can view and or update the information that the VA has on file for me.
+
 
 ## Points of Contact
 
