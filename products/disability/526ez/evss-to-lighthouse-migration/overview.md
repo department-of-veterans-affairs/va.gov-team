@@ -50,7 +50,7 @@ This list excludes any other endpoints to eVSS that are found during the discove
 #### Endpoint mappings
 |eVSS Endpoints|EVSS URI, Filepath|New API|vets-api Repo Location|Notes|
 |--------|---------------|------------------|------|------|
-|/getpdf|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/getPDF", "evss/disability_form/getPDF"|526 Container|?|same eVSS URI as /submit|
+|/getpdf|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/getPDF", "evss/disability_form/getPDF"|Benefits Document Service API|?|Will be in v2 of Benefits Document Service API|
 |/submit_all_claim|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/submit", "evss/disability_form/form526"|LH Benefits Claims API|modules/claims_api/|[eVSS Docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_526/postSubmitFormV2)|
 |/validate|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/validate", "evss/disability_form/form526_validate"|LH Benefits Claims API|?|same eVSS URI as /submit|
 |/rateddisabilities|"/wss-form526-services-web/rest/form526/v1/ratedDisabilities", "/wss-form526-services-web/rest/form526/v2/ratedDisabilities", "evss/disability_form/rated_disabilities"|Veterans Verification API includes rated_disabilities endpoint|modules/veteran_verification/|Assuming we should just use v2? [eVSS docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_526) are maybe for v2? ([LH docs](https://developer.va.gov/explore/verification/docs/veteran_verification?version=current))?|
