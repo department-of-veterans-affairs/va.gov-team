@@ -41,6 +41,7 @@ Consider booking a doctor’s appointment: One system locates nearby facilities.
 ## Value Propositions
 
 ## KPIs
+(Analytics Playbook)[https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/analytics-playbook]
 
 ---
 
