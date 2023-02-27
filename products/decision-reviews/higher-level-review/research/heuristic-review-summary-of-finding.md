@@ -1,6 +1,6 @@
 ### Topline Summary
 
-# Higher-Level Review Heuristic Review
+# Higher-Level Review Heuristic Evaluation
 Date: January 2023
 
 This is a high-level, top of mind summary of findings from the recent heuristic review to help our team align on the current condition of the experience, potential opportunities, and determine specific directions to pursue.
