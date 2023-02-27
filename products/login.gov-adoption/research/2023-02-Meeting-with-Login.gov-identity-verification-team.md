@@ -18,7 +18,10 @@ Monday, February 27
 ## Discussion
 
 #### Topic
-* 
+*
+
+#### Question we have
+* Does a user know that even if failed IAL2 proofing, they still created an IAL1 account?
 
 ## Next steps
 
