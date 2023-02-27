@@ -34,21 +34,21 @@
 |----------|-------|--------|-----------|
 |All|Team Readme|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/README.md)|Team charter, roster and key team info|
 |All|Humans of VA|Shared in #benefits-onboarding slack channel|Describes the people, organizations(and the mission) that make up VA|
-|All|Veteran's journey map|Link|Map of a veteran's journey through a benefit claim process |
-|All|VSR's journey map|Link|Map of a VSR's(Veterans Service Representative) journey through a benefit claim process|
+|All|Veteran's journey map|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)|Map of a veteran's journey through a benefit claim process |
+
 
 ### Week 2
 |Discipline|Content|Location|Description|
 |----------|-------|--------|-----------|
+|All|VA Organization Map|[Link](https://app.mural.co/t/nava4113/m/nava4113/1675874152774/e3c17c025dfc019434de9a7517d23025721687b0?sender=u17c04e7372f6c8e114602800)|Visual map of VA org and stakeholders |
+|All|Veteran's claim experience|[Link](https://drive.google.com/file/d/1mfigVlDd70gKihsY8T6mE60NhLXlk_z-/view?usp=sharing)||
+|All|Walkthrough of 526ez application|[Link](https://drive.google.com/file/d/1KZ22-UyWOOaD8NDpfpVbHZ1pB1Bj571b/view?usp=sharing)|Video walkthrough|
 
 ### Week 3
 |Discipline|Content|Location|Description|
 |----------|-------|--------|-----------|
+|All|Veteran personas|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf)||
 
-### Week 4
-|Discipline|Content|Location|Description|
-|----------|-------|--------|-----------|
 
 ### Additional information 
-|Discipline|Content|Location|Description|
-|----------|-------|--------|-----------|
+[Quick reference links on Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/quick-links.md)
