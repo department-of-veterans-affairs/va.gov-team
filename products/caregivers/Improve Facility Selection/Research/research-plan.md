@@ -119,7 +119,7 @@ A remote task-based usability study will be conducted remotely with Zoom using t
 
 ## Recruitment	
 
-
+For these remote moderated studies with Veterans and caregivers, we will be using Perigean to recruit participants.
 
 
 ### Recruitment approach
@@ -137,18 +137,16 @@ Our intended audience for this research is a mix of Veteran's and caregivers.
 
 **Primary criteria (must-haves)**
 
-
+- Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
 - At least 3 people over the age of 55
 - At least 4 people who plan to use their mobile device for the session
-- Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
+- At least 4 people who use screen reader assistive technology 
 
-- 
 
 **Secondary criteria (nice-to-haves)**
-
 Participant pool should in diverse in
 - Branch of service
-- Gender (30% or more women)
+- Gender (35% or more women)
 - Disability rating of 50% or higher representative of applicant demographics
 - Education
 - Race
