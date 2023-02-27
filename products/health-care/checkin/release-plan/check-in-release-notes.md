@@ -12,6 +12,12 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 2/24/2023
+- Fixed 2 minor content bugs for the 'Need help' section
+    - [Ticket 53979](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53979)
+- Fixed a bug where the breadcrumb angle bracket is read aloud by Voice Over
+    - [Ticket 53066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53066)
+
 ### 2/22/2023
 - Updated Pre-Check-in so that Veterans will receive a more specific error message when they use an expired link
     - [Ticket 52492](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52492) 
