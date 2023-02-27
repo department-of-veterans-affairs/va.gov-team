@@ -2,6 +2,46 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
+## 3/8/2023 - 3/21/2023 ----------------------TENTATIVE / FUTURE  -------------------
+
+#### SPRINT GOALS
+- **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
+- **GOAL: Make submission of a travel reimbursement claim easier**
+- **GOAL: Increase usage of Pre-Check-in & Check-in**
+- **GOAL: Address tech debt**
+
+#### PLANNED RELEASES 
+
+#### SPRINT TICKETS
+- **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
+   - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
+- **GOAL: Make submission of a travel reimbursement claim easier**
+   - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
+      - Update our tranlations
+      - Address un-handled scenarios        
+      - Implement text solution for BTSSS latency                   
+- **GOAL: Increase usage of Pre-Check-in & Check-in**
+   - **Sub Goal: [Send to Check-in when Pre-Check-in link is accessed inside check-in window](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)**
+      
+  - **Sub Goal: [Show Clear Message when using an expired link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)**
+  
+  - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)**
+  
+   - **Sub Goal: [Send Check-in Text 45 Minutes Before Appointment to encourage use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)**
+  
+   - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
+  
+   - **Sub Goal: Analyze current metrics to see what they tell us**
+      - [Research] Analyze GA Metrics
+      - [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/?????)
+- **GOAL: Address tech debt** 
+ 
+   - **_Optional Tech Debt (these items are not in the current sprint but can be pulled in)_**
+      - [Have an Initial Discussion to Identify Risks & Problems w/ Current Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54034)
+      - [[FE] Create Proposal for an MVP for a Cross-Product Path Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54021)
+      - [[FE] [BE] Review Applications & Identify Areas for Improvement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53713)
+
+
 ## 2/22/2023 - 3/7/2023 
 
 #### SPRINT GOALS
