@@ -21,3 +21,20 @@ Veteran Need
    - User should be able to select and have the option to add gender identity if it is not displayed
    - User should be able to select and edit gender identity that is on file
    - User should have content of the What to know before deciding to share gender identity
+
+## Points of Contact
+
+Name| Role| 
+-- | -- |
+Chris Johnston | VA, Product Owner
+Rachel Han | Va, Product Owner
+Meko Hong | Sr. Product Manager, Ad Hoc
+Misty Milliron-Grant | Content Lead, Ad Hoc
+Brea Blackwelder | UX Designer, Ad Hoc
+Jayson Perkins | BE Engineer - Lead, Ad Hoc
+Jon Bindbeutel | FE Engineer - Lead, Ad Hoc 
+Therese Dickson | QA Lead, Ad Hoc
+
+## Digital Service @ Va Slack Channel
+
+[#va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ)
