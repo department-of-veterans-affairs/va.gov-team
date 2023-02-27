@@ -3,7 +3,7 @@
 ## Sprint 0
 Period - 03/01/2023 - 03/14/2023
 ### Sprint goals
-- [ ] Complete Sprint norming and draft agreements on
+- [ ] Complete sprint team norming and draft agreements on
    - [ ] Cadence for scrum ceremonies 
    - [ ] What to include/exclude for each ceremony
    - [ ] Relative sizing estimates
