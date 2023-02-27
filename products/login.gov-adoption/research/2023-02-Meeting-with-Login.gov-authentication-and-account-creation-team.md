@@ -15,7 +15,7 @@ Wednesday, February 22
 * Aditi (Login.gov Auth and Account Creation a.k.a Team Catherine)
 * Chanan (Login.gov Partnerships)
 * Sierra (Login.gov Partnerships)
-* Gabriel Vorleto (Login.gov Partnerships)
+* Gabe (Login.gov Partnerships)
 
 ## Agenda
 * Intros
