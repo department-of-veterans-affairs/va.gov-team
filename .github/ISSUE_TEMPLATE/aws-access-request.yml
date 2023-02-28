@@ -11,9 +11,8 @@ body:
         2. Change the **Title** to include target individual
         3. Add the label used by the target individual's team (eg: `BAH-526`)
         4. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
-        5. Add additional info as a comment after GitHub issue is created if you select 'Other' for any of the form inputs.
-        6. When the issue is closed you will be notified and can continue with on-boarding setup
-        7. Validate that your E-QIP process has been started with your Vendor Onboarding Representative (listed below in a dropdown). If you have not started your E-QIP process, do NOT put in a request.
+        5. When the issue is closed you will be notified and can continue with on-boarding setup
+        6. Validate that your E-QIP process has been started with your Vendor Onboarding Representative (listed below in a dropdown). If you have not started your E-QIP process, do NOT put in a request.
   - type: dropdown
     id: cor-name
     attributes:

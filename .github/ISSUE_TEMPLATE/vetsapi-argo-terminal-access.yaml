@@ -11,8 +11,16 @@ body:
         2. Change the **Title** to include target individual
         3. Add the label used by the target individual's team (eg: `BAH-526`)
         4. Do not remove any of the existing labels.
-        5. Add additional info as a comment after GitHub issue is created if you select 'Other' for any of the form inputs. ####
+        5. Prod access is highly restricted. If you need prod access, add an explanation in "Additional Notes" section.
         6. Validate that your E-QIP process has been started with your Vendor Onboarding Representative (listed below in a dropdown). If you have not started your E-QIP process, do NOT put in a request.
+  - type: checkboxes
+    attributes:
+      label: E-QIP Transmittal Date
+      description: Have you started your E-QIP process? If not, do not submit this ticket. Ask your Vendor Onboarding Representative to confirm
+      options:
+      - label: Check this box if you have an E-QIP transmittal date.
+    validations:
+      required: true
   - type: input
     id: requestor-name
     attributes:
@@ -24,7 +32,7 @@ body:
   - type: input
     id: email
     attributes:
-      label: Your GitHub handle
+      label: Your GitHub handle (terminal access is managed through GitHub)
       description: Please provide the work GitHub handle of the target individual
       placeholder: "@username"
     validations:
@@ -51,7 +59,7 @@ body:
       required: true
   - type: input
     attributes:
-      label: Your dsvagovcloud AWS user name (if you have one)
+      label: Your dsvagovcloud AWS user name (if applicable)
       description: If you have previously been granted AWS access, list your dsvagovcloud AWS user name
       placeholder: First.Last
   - type: checkboxes
@@ -62,19 +70,11 @@ body:
       - label: dev
       - label: staging
       - label: sandbox
-      - label: production (justify prod access in 'Additional Notes' section)
-  - type: checkboxes
-    attributes:
-      label: E-QIP Transmittal Date
-      description: Have you started your E-QIP process? If not, do not submit this ticket. Ask your Vendor Onboarding Representative to confirm
-      options:
-      - label: Check this box if you have an E-QIP transmittal date.
-    validations:
-      required: true
+      - label: production (if requesting, justify prod access in 'Additional Notes' section)
   - type: dropdown
     id: cor-name
     attributes:
-      label: COR Name (leave blank if you listed an AWS user name above)
+      label: COR Name (leave "None" if you listed an AWS user name above)
       description: The name of the Contracting Officer's Representative (COR) covering the target individual.
       options:
         - Cecila Lee
@@ -88,7 +88,7 @@ body:
   - type: dropdown
     id: vendor
     attributes:
-      label: Vendor Onboarding Representative (VOR) Name (leave blank if you listed an AWS user name above)
+      label: Vendor Onboarding Representative (VOR) Name (leave "None" if you listed an AWS user name above)
       description: This is the person from the contracting company responsible for the onboarding process of the target individual.
       options:
         - Oddball - Amber Malcolm
@@ -127,5 +127,6 @@ body:
       - label: "Search for user on the [VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)"
       - label: "Or search for user on the [Platform Team Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)"
       - label: "If user is on a VFS team but not in the VFS Team Roster, add the 'NOT YET' label and instruct them to start the [Platform orientation process](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html)"
-      - label: "If a user is on a Platform team but not on the Platform Team Roster in Confluence, add the 'NOT YET' label and instruct them to reach out to their Product Manager to be added."
-      - label: "Comment in this issue saying which roster the user is listed in."
+      - label: "If user is on a Platform team but not on the Platform Team Roster in Confluence, add the 'NOT YET' label and instruct them to reach out to their Product Manager to be added"
+      - label: "If they included an AWS user name, check to see if their user name is listed in [iam_users.tf](https://github.com/department-of-veterans-affairs/devops/blob/master/terraform/environments/global/iam_users.tf)"
+      - label: "Comment in this issue saying which roster the user is listed in and confirming their AWS user name (if applicable)"
