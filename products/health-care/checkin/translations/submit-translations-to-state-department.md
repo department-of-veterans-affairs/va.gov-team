@@ -8,3 +8,4 @@
   - 1 pdf file for English & Spanish screenshots
   - 1 pdf file for English & Tagalog screenshots
 - Forward the files and screenshot document to Randi Hecht with a timeline for when the translations are needed
+- Keep track of the files that are sent to and received from the State Department [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/translations)
