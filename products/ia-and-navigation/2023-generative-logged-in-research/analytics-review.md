@@ -16,7 +16,8 @@ For comparing logged in vs. logged out users, I used the following custom segmen
 
 
 ## Signing in to VA.gov
-1. What percentage of users sign in to VA.gov over the last year (2/22-2/23?
+1. What percentage of users sign in to VA.gov over the last year (2/22-2/23)?
+
 10.87%
 
 2. What are the top ten popular pages for people to sign in on? ([View Google Sheets export](https://docs.google.com/spreadsheets/d/10LxJE3j8SCBi8aNL0RaC4wdLGVqwSpuvLDmc3jB1EsU/edit?usp=sharing))
@@ -32,9 +33,11 @@ For comparing logged in vs. logged out users, I used the following custom segmen
    * [www.va.gov/disability/compensation-rates/veteran-rates/](http://www.va.gov/disability/compensation-rates/veteran-rates/) 
 
 3. How many clicks do people usually take/pages do people usually visit before signing in?
+
 Not sure how to figure this one out.
 
 4.  What are peoples’ next clicks **after** signing in?
+
 Behavior flow report?
 
 5. What is the % breakdown of people who click sign in CTAs vs. “Create Account” CTAs?
@@ -53,8 +56,8 @@ Of 33,172,355 total events, 3.13% were “create account” events.
 1. What are the most popular pages overall?
  Top 25 pages from GA:
 
-| URL |   Pageviews|
-| ————— | ————— |
+| URL | Pageviews|
+| -----------  | -----------  |
 | www.va.gov/ | 77,674,202 |
 | www.va.gov/track-claims/your-claims/ |    34,712,069 |
 | www.va.gov/claim-or-appeal-status/ |  24,208,408 |
@@ -85,7 +88,7 @@ Of 33,172,355 total events, 3.13% were “create account” events.
 2. What are the most popular landing pages? ([Report](https://analytics.google.com/analytics/web/#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/))
 
 |Landing Page | Sessions |
-| ————— | ————— | 
+| -----------  | -----------  | 
 | /index.html | 39,826,988 |
 | /sign-in/index.html?application=mhv&to=home | 9,623,232 |
 | /claim-or-appeal-status/index.html |  4,658,540 |
@@ -114,7 +117,7 @@ Of 33,172,355 total events, 3.13% were “create account” events.
 
 4. What are the 25 most popular pages visited while signed in? ([Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q/))
 |Page | Pageviews |
-| ————— | ————— | 
+| -----------  | -----------  | 
 | /index.html|  44,141,374 |
 | (other)|  38,677,534 |
 | /track-claims/your-claims/|   29,340,018 |
@@ -144,7 +147,7 @@ Of 33,172,355 total events, 3.13% were “create account” events.
 6. What are the 25 most popular pages visited while signed out? ([Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/))
 
 |Page | Pageviews |
-| ————— | ————— | 
+| -----------  | -----------  | 
 | /index.html    | 31,861,090 |
 | /facilities/index.html?XXX     | 17,221,456 |
 | /sign-in/index.html?application=mhv&to=home    | 12,947,811 |
@@ -191,7 +194,7 @@ Of 33,172,355 total events, 3.13% were “create account” events.
 
 **Domo Search KPI dashboard report** ([link](https://va-gov.domo.com/page/1964748112/kpis/details/552188912))
 |Search terms|  Searches|
-| ————— | ————— |
+| -----------  | -----------  |
 |travel pay|    82,869|
 |21-526ez|  72,933|
 |dependents|    69,013|
@@ -220,7 +223,7 @@ Of 33,172,355 total events, 3.13% were “create account” events.
 
 **GA Search Terms report** ([link](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=builtin1&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/))
 |Search terms|  Searches|
-| ————— | ————— |
+| -----------  | -----------  |
 |health|    3,063,494|
 |(other)|   1,377,524|
 |urgent_care|   762,369|
