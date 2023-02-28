@@ -1,35 +1,55 @@
 # Research Plan for [1010 Team, Caregiver Application (10-10CG) Baseline Study, March 2023]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+This research is to be conducted on the application for Family Caregiver Benefits (10-10CG) by the 1010 team. This is an existing application and the goal of this study is to get a baseline understanding of the overall usability of the key tasks. 
 
-[Link to product brief](url goes here).
+
+- [Caregivers Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
+
+
 
 ### OCTO Objectives 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) this research supports are:
+
+Increase
+- Completion rate of online transactions
+- Usage of digital, self-service tools
+
+Decrease
+- Time to successful complete and submit online transactions
+
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+This product fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf):
+
+- Taking care of myself
+- Aging
+- Aging moment that matters: Veterans increasingly seeking alternatives to institutional based care and instead wish to stay independent for longer, remaining in their homes and communities. 
+
+
 
 ## Research Goals	
-What are you trying to learn from this research? 
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+- Gain an understanding of the most common pain points encoutered 
+- Discover what is easy or difficult to complete on the form and why
+- Obtain a qualitative baseline to understand the form overall, how this study compares to past research findings and future design iterations  
+
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+This research will provide a qualitative baseline of the overall usability of this application by both Veterans and Caregivers. We will use the findings from this study combined with key insights from previous studies to guide and compare future design iterations. 
+Example: Improve Facility Selection Project Brief
+
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+
+**Gain an understanding of the most common pain points encoutered** 
+- What sections of the form cause the participant the most pause or confusion?
+
+
+
+
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
@@ -129,26 +149,43 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Pilot participant email:
 * Date and time of pilot session: 
 
+
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: **March ## - ##, 2023**
+
+
+
 
 ### Length of sessions
 * Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
 * Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
 * Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
 
+
+
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
-	
+
+Team Availability | Time (EST)
+------------------|--------------
+TBD      | TBD EST
+TBD       | TBD EST
+
+
+
+
+
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+- Moderator: Jessica Stump (jessica.stump@adhocteam.us) 
+- Research guide writing and task development: Moderator	
+- Participant recruiting & screening: Perigean
+- Project point of contact: Moderator
+- Participant(s) for pilot test: 
+- Note-takers: Perigean, 1010 Team
+- Observers: Heather Justice (heather.justice@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us), David Kennedy (david.kennedy@adhocteam.us), Erin Flaherty (erin.flaherty@adhocteam.us) 
+
+> **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+
+
