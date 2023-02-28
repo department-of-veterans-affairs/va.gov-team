@@ -48,7 +48,7 @@ This list excludes any other endpoints to eVSS that are found during the discove
 
 ## Tech Discovery
 #### Endpoint mappings
-|eVSS Endpoints|EVSS URI, Filepath|New API|vets-api Repo Location|Notes|
+|eVSS Endpoints|New API|vets-api Repo Location|Notes|
 |--------|------------------|------|------|
 |/getpdf|Benefits Intake API|?|Will be in v2 of [Benefits Intake API](https://developer.va.gov/explore/benefits/docs/benefits?version=current)|
 |/submit_all_claim|LH Benefits Claims API|modules/claims_api/|[eVSS Docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_526/postSubmitFormV2)|
