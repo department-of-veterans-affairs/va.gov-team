@@ -1,7 +1,7 @@
-name: AWS Access Request
-description: To request access to AWS
-title: AWS access for [individual]
-labels: ['external-request', 'operations', 'ops-access-request']
+name: Vets-api ArgoCD terminal access
+description: To request access to vets-api terminal
+title: Vets-api terminal access for [individual]
+labels: ['external-request', 'platform-tech-team-support', 'ops-access-request']
 body:
   - type: markdown
     attributes:
@@ -10,50 +10,9 @@ body:
         1. Before being granted access, the individual for whom access is requested (the 'target individual') must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started your [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)
         2. Change the **Title** to include target individual
         3. Add the label used by the target individual's team (eg: `BAH-526`)
-        4. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
-        5. Add additional info as a comment after GitHub issue is created if you select 'Other' for any of the form inputs.
-        6. When the issue is closed you will be notified and can continue with on-boarding setup
-        7. Validate that your E-QIP process has been started with your Vendor Onboarding Representative (listed below in a dropdown). If you have not started your E-QIP process, do NOT put in a request.
-  - type: dropdown
-    id: cor-name
-    attributes:
-      label: COR Name
-      description: The name of the Contracting Officer's Representative (COR) covering the target individual.
-      options:
-        - Cecila Lee
-        - Courtney Bethea
-        - Crystal Moultrie
-        - Doris Lin
-        - Vilay Senthep
-        - Eunice Garcia
-        - Delano McVay
-        - Other - please specify in 'Additional Notes'
-    validations:
-      required: true
-  - type: dropdown
-    id: vendor
-    attributes:
-      label: Vendor Onboarding Representative Name
-      description: This is the person from the contracting company responsible for the onboarding process of the target individual.
-      options:
-        - Oddball - Amber Malcolm
-        - Insignia - Kimberly S. Cole
-        - Agile Six - Anthony M. Arashiro
-        - GovernmentCIO - Kimberly O. West
-        - Magnum Opus - Paula G. Mendoza
-        - Liberty IT -  Michael G. Lovejoy
-        - Accenture Federal Services - Alexa Elliot
-        - Other - please specify in 'Additional Notes'
-    validations:
-     required: true
-  - type: checkboxes
-    attributes:
-      label: E-QIP Transmittal Date
-      description: Have you started your E-QIP process? If not, do not submit this ticket. Ask your Vendor Onboarding Representative to confirm
-      options:
-      - label: Check this box if you have an E-QIP transmittal date.
-    validations:
-      required: true
+        4. Do not remove any of the existing labels.
+        5. Add additional info as a comment after GitHub issue is created if you select 'Other' for any of the form inputs. ####
+        6. Validate that your E-QIP process has been started with your Vendor Onboarding Representative (listed below in a dropdown). If you have not started your E-QIP process, do NOT put in a request.
   - type: input
     id: requestor-name
     attributes:
@@ -65,9 +24,9 @@ body:
   - type: input
     id: email
     attributes:
-      label: Your Email
-      description: Please provide the work email for the target individual
-      placeholder: jane.doe@company.com
+      label: Your GitHub handle
+      description: Please provide the work GitHub handle of the target individual
+      placeholder: "@username"
     validations:
       required: true
   - type: input
@@ -90,18 +49,62 @@ body:
       description: Provide the name and email of the Product Owner for the target individual
     validations:
       required: true
-  - type: textarea
-    id: aws-access
+  - type: input
     attributes:
-      label: Desired AWS Access
-      description: Please list which resources (bucket names, parameter store paths, EC2 instance name, etc.) and which type of access is requested. Explicitly list which type(s) of access are needed for which resources and keep these scopes as small/tight as possible. If there is a teammate whose permissions should be copied, please list their name.
-      placeholder: I need access to S3 to read uploaded files from the /tools-team/uploads bucket.
+      label: Your dsvagovcloud AWS user name (if you have one)
+      description: If you have previously been granted AWS access, list your dsvagovcloud AWS user name
+      placeholder: First.Last
+  - type: checkboxes
+    attributes:
+      label: ArgoCD terminal access requested for the following environments
+      description: Only choose the environments you NEED. 
+      options:
+      - label: dev
+      - label: staging
+      - label: sandbox
+      - label: production (justify prod access in 'Additional Notes' section)
+  - type: checkboxes
+    attributes:
+      label: E-QIP Transmittal Date
+      description: Have you started your E-QIP process? If not, do not submit this ticket. Ask your Vendor Onboarding Representative to confirm
+      options:
+      - label: Check this box if you have an E-QIP transmittal date.
+    validations:
+      required: true
+  - type: dropdown
+    id: cor-name
+    attributes:
+      label: COR Name (leave blank if you listed an AWS user name above)
+      description: The name of the Contracting Officer's Representative (COR) covering the target individual.
+      options:
+        - Cecila Lee
+        - Courtney Bethea
+        - Crystal Moultrie
+        - Doris Lin
+        - Vilay Senthep
+        - Eunice Garcia
+        - Delano McVay
+        - Other - please specify in 'Additional Notes'
+  - type: dropdown
+    id: vendor
+    attributes:
+      label: Vendor Onboarding Representative (VOR) Name (leave blank if you listed an AWS user name above)
+      description: This is the person from the contracting company responsible for the onboarding process of the target individual.
+      options:
+        - Oddball - Amber Malcolm
+        - Insignia - Kimberly S. Cole
+        - Agile Six - Anthony M. Arashiro
+        - GovernmentCIO - Kimberly O. West
+        - Magnum Opus - Paula G. Mendoza
+        - Liberty IT -  Michael G. Lovejoy
+        - Accenture Federal Services - Alexa Elliot
+        - Other - please specify in 'Additional Notes'
   - type: input
     id: expiration-date
     attributes:
       label: Access Expiration
       description: The requested access will be revoked at the start of this date. Enter a date (and time if applicable) or 'ongoing' for non-expiring access. If ongoing is selected, add a justification for this to the 'Additional Notes' field.
-      placeholder: timestamp
+      placeholder: DD-MM-YY
     validations:
       required: true
   - type: textarea
@@ -115,12 +118,10 @@ body:
       value: |
         ---
         :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: All done! :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
-        For SOCKS access, open a [SOCKS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=socks-access-request.yml&title=SOCKS+access+for+%5Bindividual%5D).
-        If you need additional infrastructure, please use [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) 
         :x: Don't fill out anything below here :x:
   - type: checkboxes
     attributes:
-      label: User must exist in a roster before AWS access can be granted
+      label: User must exist in a roster before vets-api terminal access can be granted
       description: Don't fill this part out, please
       options:
       - label: "Search for user on the [VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)"
