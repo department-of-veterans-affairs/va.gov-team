@@ -7,10 +7,11 @@ There are currently multiple ways to sign in and access VA services. These sign 
 
 This initiative focuses on one migration pathway: moving select DS Logon users to Login.gov without the need to reverify their identities through “grandfathering” or deferred identity proofing. In this case, Veterans will receive an IAL1 Login.gov account which works “as normal” for VA services, but can’t be used by other government services until it’s upgraded to IAL2. In order to upgrade to an IAL2 Login.gov account, Veterans will have the option of identity proofing at a later date.
 
-We will run a few rounds of testing to review the effectiveness and usability of this grandfathering user flow. Following Round 1, we will include follow-up testing to address any issues that surface. We will also include at least one round of accessibility testing with blind and low vision users. This [Research overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research) has more details on what is upcoming.
+We will run a few rounds of testing to review the effectiveness and usability of this grandfathering user flow. In Round 1, we are doing initial usability testing of two alternate flows. In this round, Round 2, our focus is accessibility testing, including with blind and low vision users. We will build a coded prototype for testing. This [Research overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research) has more details on what is upcoming.
 
 ### Research this builds on
 
+* [2023-02-Grandfathering-Migration-Flow-Round-1 #235](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/235)
 * [2022-10-Research-LoginGovFieldResearch #185](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/185)
 * [2022-07 MHV transition to Login.gov as a single sign-on #157](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/157)
 * [2022-07 Login Self-Service Tool #156](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/156)
