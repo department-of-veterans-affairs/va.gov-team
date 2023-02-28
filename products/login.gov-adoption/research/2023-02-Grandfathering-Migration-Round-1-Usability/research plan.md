@@ -89,7 +89,7 @@ Review whether Veterans know where to get help or what they will do if they enco
 * Veterans will decide and be able to navigate to contact information on the Login.gov or VA.gov websites if they encounter an issue during account creation.
 
 ## Methodology
-This usability study will be conducted remotely on Zoom. We will test on both mobile and desktop.
+This usability study will be conducted remotely on Zoom. We will test on desktop.
 
 We will test two prototypes. In half the sessions, we'll test Prototype #1 and in the other half we'll test Prototype #2. Both flows are nearly identical, but each has an alternative start:
 
