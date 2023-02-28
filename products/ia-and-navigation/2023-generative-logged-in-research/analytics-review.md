@@ -6,7 +6,7 @@ For comparing logged in vs. logged out users, I used the following custom segmen
 - VA.gov - Session - No LOA Present [Veteran Not Logged In]
 
 ## Questions for Analytics team
-- Is the Site Search report in GA accurate?
+- Is the Site Search report in GA accurate? There are some differences between what I see in Domo (e.g. next bullet)
 - What is the difference between the GA “Site Search” report, and the Domo dashboard? The top keywords don’t align.
 	- Are some searches programmatically performed? I noticed some search terms in GA have a `_` instead of a space.
 - How do I determine how many clicks happened, or pages were visited, before a specific event was fired?
