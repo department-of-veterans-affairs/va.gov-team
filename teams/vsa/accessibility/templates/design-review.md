@@ -13,7 +13,7 @@
   - [ ] Annotations (if needed)
 - [ ] Heading order
   - [ ] Annotations (if needed)
-- [ ] [Components](https://design.va.gov/components/) and [patterns](https://design.va.gov/patterns/)follow VA design system guidance
+- [ ] [Components](https://design.va.gov/components/) and [patterns](https://design.va.gov/patterns/) follow VA design system guidance
 
 ## Prototype Link
 
