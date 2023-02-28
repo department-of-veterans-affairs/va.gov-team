@@ -7,13 +7,13 @@ For more on our purpose, check out our [shared learnings from our practice meeti
 Anyone can join, regardless of role, title, or status. There's no "official" way of joining, but we usually recommend to:
 - [ ] Join our slack channel at `#trauma-practice`. Don't have access to slack? Reach out to Josh at josh.kim@adhocteam.us for help.
 - [ ] [Read how we work together and our community guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/community-guidelines.md).
-- [ ] Introduce yourself on slack at `#trauma-practice` or at the next practice meeting (this is 100% optional 💙)
-- [ ] Sign up for the next small group (on slack) or [join our next practice meeting (email invite)](https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=bGZ0djFzdmRhY2s5NGZ1MmY0aDdlOHV1bXZfMjAyMzAyMjBUMjEwMDAwWiBqb3NoLmtpbUBhZGhvY3RlYW0udXM&amp;tmsrc=josh.kim%40adhocteam.us&amp;scp=ALL)
+- [ ] Introduce yourself on slack at `#trauma-practice` or at the next big meeting (this is 100% optional 💙)
+- [ ] Sign up for the next small group (on slack) or [join our next big meeting (email invite)](https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=bGZ0djFzdmRhY2s5NGZ1MmY0aDdlOHV1bXZfMjAyMzAyMjBUMjEwMDAwWiBqb3NoLmtpbUBhZGhvY3RlYW0udXM&amp;tmsrc=josh.kim%40adhocteam.us&amp;scp=ALL)
 - [ ] Check out our [past shared learnings in our notes folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma/notes)
 
 ## Participate and connect with our community
 We value everyone in our community, and encourage _anyone_ who has the time, resources, and comfort to share their talents in the following roles:
-- Participated (including silent participation) in a practice meeting, small group, or on slack as a **community member** 🫀
+- Participated (including silent participation) in a big meeting, small group, or on slack as a **community member** 🫀
 - Guided a meeting as a **facilitator** 👐
 - Shared community learnings as a **scribe** 📝
 
@@ -30,7 +30,7 @@ If you've served in any of these roles, you're welcome to add (or not add) your 
 <hr/>
 
 ### Community members 🫀
-Attended a practice meeting or small group? Lurk on our slack channel? Then you're _one of us_. Every single person, regardless of how they participate, is a valued member of our community. We are nothing without our people 💙
+Attended a big meeting or small group? Lurk on our slack channel? Then you're _one of us_. Every single person, regardless of how they participate, is a valued member of our community. We are nothing without our people 💙
 
 <!--
 **Name**, Role
@@ -53,7 +53,7 @@ Attended a practice meeting or small group? Lurk on our slack channel? Then you'
 <hr/>
 
 ### Facilitators 👐
-Facilitated a practice meeting or small group? You've helped serve as glue for our community 🩹
+Facilitated a big meeting or small group? You've helped serve as glue for our community 🩹
 
 - Rachael Dietkus
 - Martha Wilkes
@@ -62,20 +62,20 @@ Facilitated a practice meeting or small group? You've helped serve as glue for o
 - Josh Kim
 
 #### How do I serve as a facilitator?
-1. Volunteer at our next practice meeting
+1. Volunteer at our next big meeting
 2. [Follow facilitator instructions here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/facilitation-instructions.md)
 3. Reach out to the last meeting's facilitator if you have questions or need guidance
 
 <hr/>
 
 ### Scribes 📝
-Took notes for a practice meeting or small group? You've helped share and grow our learnings 🪴
+Took notes for a big meeting or small group? You've helped share and grow our learnings 🪴
 
 - Martha Wilkes
 - Josh Kim
 
 #### How do I serve as a scribe?
-1. Volunteer at our next practice meeting
+1. Volunteer at our next big meeting
 2. [Follow scribe instructions here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/facilitation-instructions.md)
 3. Reach out to the last meeting's scribe if you have questions or need guidance
 
