@@ -8,8 +8,8 @@ Anyone can join, regardless of role, title, or status. There's no "official" way
 - [ ] Join our slack channel at `#trauma-practice`. Don't have access to slack? Reach out to Josh at josh.kim@adhocteam.us for help.
 - [ ] [Read how we work together and our community guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/community-guidelines.md).
 - [ ] Introduce yourself on slack at `#trauma-practice` or at the next big meeting (this is 100% optional 💙)
-- [ ] Sign up for the next small group (on slack) or [join our next big meeting (email invite)](https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=bGZ0djFzdmRhY2s5NGZ1MmY0aDdlOHV1bXZfMjAyMzAyMjBUMjEwMDAwWiBqb3NoLmtpbUBhZGhvY3RlYW0udXM&amp;tmsrc=josh.kim%40adhocteam.us&amp;scp=ALL)
-- [ ] Check out our [past shared learnings in our notes folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma/notes)
+- [ ] Sign up for the next small group (on slack) or [join our next big meeting (email invite)](https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=bGZ0djFzdmRhY2s5NGZ1MmY0aDdlOHV1bXZfMjAyMzAyMjBUMjEwMDAwWiBqb3NoLmtpbUBhZGhvY3RlYW0udXM&amp;tmsrc=josh.kim%40adhocteam.us&amp;scp=ALL).
+- [ ] If you have time, feel free to check out this [introduction to trauma (and resource list)](https://docs.google.com/document/d/11W66cjxCgguF_ulVOxet-CszfJB3aTBl-OxJTEeloGg/edit?usp=sharing) or skim through our [past shared learnings in our notes folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma/notes)
 
 ## Participate and connect with our community
 We value everyone in our community, and encourage _anyone_ who has the time, resources, and comfort to share their talents in the following roles:
