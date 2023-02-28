@@ -13,11 +13,11 @@
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
 |Allergy name | Thing that caused the allergic reaction, like "penicillin" |Allergy |
 |Date entered | Date provider entered the allergy record | Date entered | 
-|Severity | Level of reaction, like "moderate" or "severe" | 
-|Allergy type | The type of thing that caused the allergy, like "drug" for penicillin | |Need more info to suggest label| Does provider select from a list of types here, or is this field free entry?|
+|Severity | Level of reaction, like "moderate" or "severe" | | |Are there set options to choose from in this field, or is it free entry?|
+|Allergy type | The type of thing that caused the allergy, like "drug" for penicillin | | |Are there set options to choose from in this field, or is it free entry?|
 |VA drug class | | | |What does this mean? Is there a list of classes to choose from?| 
 |Reaction | Description of signs and symptoms, like "rash" |
-|Observed/Historical || |Need more info to suggest label| Does this mean the provider witnessed the reaction (observed) vs entered an allergy record based on patient's account of a previous allergic reaction? |
+|Observed/Historical || | |Does this mean the provider witnessed the reaction (observed) vs entered an allergy record based on patient's account of a previous allergic reaction? |
 |Location |Name of facility where provider entered allergy record | Location | 
 |Comments |Comments entered by provider | Provider notes | 
 
