@@ -29,8 +29,8 @@ Participants brought up two use cases:
 ### Participants like the idea of being able to access their military info (and especially their DD214) easily online.
 However, all participants also complained about the login experience at VA.gov. Some participants (check number) stated that they try to avoid logging in to VA.gov whenever possible. Clearly, VA.gov does not quite fit into the category of "easy to access."
 
-### When asked to show me where they'd expect to find their military info on VA.gov (starting from the My VA screen), participants always (check number) went to the search bar as their first step.
-Once I directed participants to the profile link at the top of the screen, they were able to find "military info" in the side nav of the profile. At this point, it can't be said for certain why participants didn't click on the profile link. For example, is the link not clearly visible? Is the link text not accurately describing what info could be found within profile? Or, are participants trained by previous usage of the site to always use the search bar? (Or some other reason I'm not thinking of now?)
+### When asked to show me where they'd expect to find their military info on VA.gov (starting from the My VA screen), participants mostly went to the search bar as their first step.
+Once I directed participants to the profile link at the top of the screen, they were able to find "military info" in the side nav of the profile. 
 
 ### Research findings provide evidence that Veterans would benefit from having quick and easy online access to their military information, primarily: dates and locations of service, trainings and certifications (and dates of completion), discharge status, and possibly some educational content about what their status means.
 Participants also asked for: branches, awards, accommodations, military academies. Others (up to 6?) said this section of the profile should have all military info or "the entire military 201 files." 
