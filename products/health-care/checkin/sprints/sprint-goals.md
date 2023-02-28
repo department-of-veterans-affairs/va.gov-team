@@ -32,7 +32,7 @@ ________________________________________________________________________________
       - [[BE] Modify PatientCheckIns Controller GET for optional query parameter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53997)   
       - [[BE] CHIP/refresh-appointments Error Handling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53997)
   - **Sub Goal: [Show Clear Message when using an expired link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)**
-      - Do we need some additional ticket?
+      - [[UX] Update GA dashboards to reflect implementation changes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54351)
   - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)**
       - NOTE: Until we get through the VAOS work, we want to turn off the feature flag for moving this action link and hold off on finishing the content change
       - [[Design] Update text of pre check in action link on introduction page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53793)
