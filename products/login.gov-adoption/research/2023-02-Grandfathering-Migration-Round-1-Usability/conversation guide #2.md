@@ -1,4 +1,4 @@
-# Conversation Guide #2: Grandfathering Migration Flow (Round 1: Usability)
+# Conversation Guide #2: Grandfathering Migration (Round 1: Usability)
 *Login.gov Adoption Team, Legacy Credential Migration, February 2023*
 <br>
 
