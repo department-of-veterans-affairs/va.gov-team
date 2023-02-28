@@ -49,13 +49,14 @@ This list excludes any other endpoints to eVSS that are found during the discove
 ## Tech Discovery
 #### Endpoint mappings
 |eVSS Endpoints|EVSS URI, Filepath|New API|vets-api Repo Location|Notes|
-|--------|---------------|------------------|------|------|
-|/getpdf|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/getPDF", "evss/disability_form/getPDF"|Benefits Intake API|?|Will be in v2 of [Benefits Intake API](https://developer.va.gov/explore/benefits/docs/benefits?version=current)|
-|/submit_all_claim|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/submit", "evss/disability_form/form526"|LH Benefits Claims API|modules/claims_api/|[eVSS Docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_526/postSubmitFormV2)|
-|/validate|"/#{Settings.evss.alternate_service_name}/rest/form526/v2/validate", "evss/disability_form/form526_validate"|LH Benefits Claims API|?|same eVSS URI as /submit|
-|/rateddisabilities|"/wss-form526-services-web/rest/form526/v1/ratedDisabilities", "/wss-form526-services-web/rest/form526/v2/ratedDisabilities", "evss/disability_form/rated_disabilities"|Veterans Verification API includes rated_disabilities endpoint|modules/veteran_verification/|Assuming we should just use v2? [eVSS docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_526) are maybe for v2? ([LH docs](https://developer.va.gov/explore/verification/docs/veteran_verification?version=current))?|
-|/benefits_reference_data|"/wss-referencedata-services-web/rest/referencedata/v1/" (also see references to v0, not sure which is right)|Benefits Reference Data API|modules/claims_api/|New API is in production, [eVSS docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/benefits_reference_data/getBenefitsReferenceData), [LH docs](https://developer.va.gov/explore/benefits/docs/benefits_reference_data?version=current)|
+|--------|------------------|------|------|
+|/getpdf|Benefits Intake API|?|Will be in v2 of [Benefits Intake API](https://developer.va.gov/explore/benefits/docs/benefits?version=current)|
+|/submit_all_claim|LH Benefits Claims API|modules/claims_api/|[eVSS Docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_526/postSubmitFormV2)|
+|/validate|LH Benefits Claims API|?|same eVSS URI as /submit|
+|/rateddisabilities|Veterans Verification API includes rated_disabilities endpoint|modules/veteran_verification/|Assuming we should just use v2? [eVSS docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_526) are maybe for v2? ([LH docs](https://developer.va.gov/explore/verification/docs/veteran_verification?version=current))?|
+|/benefits_reference_data|Benefits Reference Data API|modules/claims_api/|New API is in production, [eVSS docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/benefits_reference_data/getBenefitsReferenceData), [LH docs](https://developer.va.gov/explore/benefits/docs/benefits_reference_data?version=current)|
 
+Base path for submit, getPDF, validate, and get_rated_disabilities: `"#{Settings.evss.url}/#{Settings.evss.alternate_service_name}/rest/form526/v2"`
 
 #### Existing Lighthouse Service Implementation
 The service/module architecture used in [lib/lighthouse](https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/lighthouse) might be a good approach. Note they rely on client frameworks established in [Common::Client::Base](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/common/client/base.rb) and more specific client implementations in [/common/client/concerns](https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/common/client/concerns) where applicable.
