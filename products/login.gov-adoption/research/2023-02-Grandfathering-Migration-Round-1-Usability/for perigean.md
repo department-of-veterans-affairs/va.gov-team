@@ -8,7 +8,7 @@ In addition, Tyler might ask to bring along a few colleagues. They will sit quie
 
 ## Why the VA is doing this research
 
-The VA wants to improve the experience for Veterans when they login to VA.gov, eBenefits or My HealtheVet. This research will help them receive feedback and ensure any changes they make work well for Veterans.
+The VA wants to improve the experience for Veterans when they sign in to VA.gov, My HealtheVet or eBenefits. This research will help them receive feedback and ensure any changes they make work well for Veterans.
 
 ## What you will do during the session
 
