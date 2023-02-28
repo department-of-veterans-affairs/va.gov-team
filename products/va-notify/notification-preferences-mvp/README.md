@@ -61,8 +61,14 @@ _____________________________________
 	* VANotify sends the notification.
 	* If false, VEText does not call the VA Notify API
 
-4. Comp & Pen Scheduled Payments (SMS) - Coming Soon
+4. Comp & Pen Scheduled Payments (SMS) - Exists, but isn't live
 	* Explicit Consent
 
-5. eBenefits (Email) - Coming Soon
-6. BVA Appeal and Hearing Status (Email/SMS) - Coming Soon
+5. BVA Appeal and Hearing Status (SMS)
+        * Implicit Consent
+        * When a claim status change occurs
+        * VA Notify checks VA Profile for preferences
+        * If true or null, VA Notify sends the notification
+
+6. eBenefits (Email) - Coming Soon
+
