@@ -1,6 +1,6 @@
 **Vaccines**
-|Data field       | Description           | Suggested label | Notes             | Questions           |Related fields |
-|:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|:---------------------|
+|Data field       | Description           | Suggested label | Notes             | Questions           
+|:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
 |Immunization | Name of the vaccine | Vaccine | 
 |Date received | Date patient got vaccine dose | Date |
 |Location | Name/address/clinic code of facility where they got vaccine dose | Location |
@@ -9,8 +9,8 @@
 |Series | Info about vaccine series, if relevant | Series | May need explanatory text here. <br /> <br /> Vaccines in a series won't be grouped or linked in MVP version. | How does series data display — "COVID booster 1 of 2" or some other format? |
 
 **Allergies**
-|Data field       | Description           | Suggested label | Notes             | Questions           |Related fields |
-|:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|:---------------------|
+|Data field       | Description           | Suggested label | Notes             | Questions|           
+|:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
 |Allergy name | Thing that caused the allergic reaction, like "penicillin" |Allergy |
 |Date entered | Date provider entered the allergy record | Date entered | 
 |Severity | Level of reaction, like "moderate" or "severe" | 
@@ -22,8 +22,8 @@
 |Comments |Comments entered by provider | Provider notes | 
 
 **Health conditions**
-|Data field       | Description          | Suggested label | Notes             | Questions           |Related fields |
-|:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|:---------------------|
+|Data field       | Description          | Suggested label | Notes             | Questions           |
+|:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
 |Issue/problem title |Name of the health condition | Health condition |
 |Date/time entered | | | |Why is time important here? Can we display only date?|
 |Status | | | |Are the only options active and inactive?|
@@ -32,8 +32,8 @@
 |Comments |Comments entered by provider |Provider notes |
 
 **Vitals**
-|Data field       | Description           | Suggested label | Notes             | Questions           |Related fields |
-|:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|:---------------------|
+|Data field       | Description           | Suggested label | Notes             | Questions           |
+|:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
 |Category name | 
 |Latest reading |
 |Date of latest reading |
@@ -44,8 +44,8 @@
 |Comments |
 
 **Lab and test results**
-|Category       |Data field  | Description           | Suggested label | Notes             | Questions           |Related fields |
-|:----------------|:-------------|:----------------------|:----------------|:------------------|:--------------------|:--------------|
+|Category       |Data field  | Description           | Suggested label | Notes             | Questions           |
+|:----------------|:-------------|:----------------------|:----------------|:------------------|:--------------------|
 |All |Category |Type of test |
 |All|Title of lab report (if available)|None (card header in list, H1 in detail) |
 |All|Date collected |Date |
@@ -95,8 +95,8 @@
 
 
 **Category labels for labs and tests**
-|Category | Suggested label | Notes             | Questions           |Related fields |
-|:----------------------|:----------------|:------------------|:--------------------|:--------------|
+|Category | Suggested label | Notes             | Questions           |
+|:----------------------|:----------------|:------------------|:--------------------|
 |Chemistry/hematology|||Are all tests in this category blood tests? Would "blood tests" or "routine blood tests" be an accurate label here?|
 |Pathology |||
 |Microbiology | |This is a subtype of pathology. It looks for bacteria, viruses, fungi, and parasites.|Would "Tests for infections" be an accurate PL label?|
@@ -105,8 +105,8 @@
 
 
 **Care summaries and notes**
-|Category|Data field       | Description           | Suggested label | Notes             | Questions           |Related fields |
-|:----------------------|:-----------------------|:--------------------|:------------------|:------------------|:--------------------|:---------------------|
+|Category|Data field       | Description           | Suggested label | Notes             | Questions           |
+|:----------------------|:-----------------------|:--------------------|:------------------|:------------------|:--------------------|
 |VA Note|Title|
 |VA Note|Date and time|
 |VA Note|Location|
