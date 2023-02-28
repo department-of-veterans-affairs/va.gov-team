@@ -1,4 +1,4 @@
-# Research Plan: Grandfathering Migration Flow (Round 1)
+# Research Plan: Grandfathering Migration Flow (Round 2: Accessibility)
 *Login.gov Adoption Team, Legacy Credential Migration, February 2023*
 
 ## Background
@@ -15,6 +15,7 @@ We will run a few rounds of testing to review the effectiveness and usability of
 * [2022-07 MHV transition to Login.gov as a single sign-on #157](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/157)
 * [2022-07 Login Self-Service Tool #156](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/156)
 * [2022-03 Sign-In Accessibility #93](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/93)
+* [2022-10 VA Health and Benefits Mobile App: Blind and low vision usability #189](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/189)
 
 ### OCTO Objectives 
 
