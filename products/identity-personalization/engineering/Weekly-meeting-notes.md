@@ -25,4 +25,7 @@
   - https://swr.vercel.app
   - Other ways to streamline data fetching and state management?
   - VAProfile transaction request pain, and could this be made a single async call
+
+- Tom has created an epic around API improvements that we can add to
+https://github.com/department-of-veterans-affairs/va.gov-team/issues/54241 	
       
