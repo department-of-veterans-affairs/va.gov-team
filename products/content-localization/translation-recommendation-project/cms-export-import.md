@@ -22,4 +22,6 @@ XLIFF is an XML-based file format that specifies how content to be translated is
 Some specific TMS's augment the XLIFF specification with additions that that TMS uses to provide more robust information and context about the content being translation. Some examples of this might be instructions to the translator ("this content is limited to 255 characters"; "this should be written in a conversational style" etc), context urls (i.e. pointing the translator to the source content so they can see the entire page). 
 
 ## Upcoming plans
-At this time (28 Feburary 2023), VA.gov CMS is intending on partnering with the Department of Defense for our translation needs. Security restrictions at the DoD require that we export XLIFF files manually, email them to the DoD, and import them manually to the CMS upon receipt. 
+At this time (28 Feburary 2023), VA.gov CMS is intending on partnering with the Department of Defense for our translation needs. Security restrictions at the DoD require that we export XLIFF files manually, email them to the DoD, and import them manually to the CMS upon receipt. There will need to be significant amounts of coordination between the translation manager on the VA.gov CMS side and the translation partners at the DoD. 
+
+The DoD uses Trados as its TMS (https://www.trados.com/). There is not currently an extension of TMGMT for Trados. This means that any augmentation of our exported XLIFF files that we want to provide for our translation partners at the DoD will need to be added by the VA.gov CMS team.
