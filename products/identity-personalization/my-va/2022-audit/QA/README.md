@@ -39,6 +39,13 @@ We need to test all 35 test cases across the devices, operating systems, and bro
 ## Findings
 | Test case No. |    Finding       | Device  | Operating System| Browser |Reporter | Resolution Ticket(s)|
 |---------------|------------------|---------|-----------------|---------|---------|---------------------|
-|     19        | The "learn about VA debt" link should appear right-aligned on desktop when the user has a copay (or overpayment debt card), but on staging in this scenario it's showing beneath the copay card |  Macbook       |  OS     |   All 4      |    AJ     |                     |
-|     21        | Data discrepancy with user 81 (as far as we can tell limited to that test user) and "updated" date on My VA not matching what's in the debt portal. We're showing the date of the second latest statement (April 4 2022) instead of the latest statement date (May 4, 2022)  | Macbook  | OS | All 4 | AJ   |                     |
-|     27        | "View your payment history" link should be "Review your payment history" | All        | All     |  All       |    AJ     |                     |
+| 3  | Military branch seal not displaying in nametag | iphone and samsung Galaxy 21 | iOS and Android | all 4, chrome | Berni |  |
+| 10 | Copy update to error message - should read "We can't access your claims or appeals information" | all | both | all | Allison | |
+| 15 | Copy is wrong in error message; secondary links appear when they shouldn't | Macbook & iphone| iOS | Chrome, Edge, Firefox, Safari| Allison | |
+| 15 | Healthcare section disappears | Macbook | iOS | Safari | Allison | |
+| 16 | User sees alert for unread messages, no secondary links display when they should | All | All | All | Allison | |
+| 16 | Secondary links are incorrect when both appointments and message API fail | All | All | All | Allison | |
+| 18 | The "learn about VA debt" link should appear right-aligned on desktop when the user has a copay (or overpayment debt card), but on staging in this scenario it's showing beneath the copay card |  Macbook      |  iOS     |   All 4      |    AJ     |                     |
+|     21        | Data discrepancy with user 81 (as far as we can tell limited to that test user) and "updated" date on My VA not matching what's in the debt portal. We're showing the date of the second latest statement (April 4 2022) instead of the latest statement date (May 4, 2022)  | Macbook  | OS | All 4 | AJ   |       |
+|     27   | "View your payment history" link should be "Review your payment history" | All        | All     |  All       |    AJ     |          |
+
