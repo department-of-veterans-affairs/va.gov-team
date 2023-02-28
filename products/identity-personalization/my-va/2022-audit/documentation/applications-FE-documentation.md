@@ -1,5 +1,5 @@
 # My VA Benefit Application Drafts Frontend Documentation
-Last updated: February 2, 2023
+Last updated: February 28, 2023
 
 ## When to show the ‘Benefit application drafts’ section
 We show this section for every LOA3 user.
@@ -63,6 +63,7 @@ What benefits does VA offer?
 **Visual specs**
 
 - Use the [form status version of the card component](https://design.va.gov/components/card#form-status) in the VA design system.
+- The "Continue your application" link should use the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in the VA design system.
 
 #### **Content**
 
