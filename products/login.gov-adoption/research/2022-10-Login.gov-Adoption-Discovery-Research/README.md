@@ -10,7 +10,7 @@ Currently there are multiple ways to sign on and access My HealtheVet (MHV) and 
 * Understand how setting up and maintaining shared access might work for Veterans and non-Veterans.
 
 ## Recruitment
-We worked with Perigean and were able to recruit 10 Veterans for scheduled interviews. We also used intercept testing to interview a further 27 Veterans, before or after a healthcare or eligibility appointment.
+We worked with Perigean to recruit 10 Veterans for interviews. We also used intercept testing to interview a further 27 Veterans, before or after a healthcare or eligibility appointment.
 
 ## Date
 This research took place from October to December 2022.
