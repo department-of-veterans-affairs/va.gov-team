@@ -1,4 +1,4 @@
-# Research Plan: Grandfathering Migration Flow (Round 1)
+# Research Plan: Grandfathering Migration Flow (Round 1: Usability)
 *Login.gov Adoption Team, Legacy Credential Migration, February 2023*
 
 ## Background
@@ -158,9 +158,9 @@ In addition to demographic and device questions, we’ve provided the following 
 
 |Date|Milestone|
 |:--|:--|
-|Before February 21|Submit prototype for Midpoint Review|
-|Before February 27|Submit artifacts for Research Review|
-|Before March 3|Prototype is ready|
+|March 1|Submit prototype for Midpoint Review|
+|March 1|Submit artifacts for Research Review|
+|March 3|Prototype is ready|
 |March 6-10|Pilot session [Need to update with details]|
 |March 13-22|Research sessions|
 |March 22-24|Analysis|
