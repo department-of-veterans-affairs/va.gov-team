@@ -1,7 +1,7 @@
 # VA Trauma Community
 Welcome to the VA trauma community ✨
 We're a grassroots, volunteer led multi-disciplinary community focused on maturing our approach to trauma from facilitating research to caring for practitioners. 
-For more on our purpose, check out our [shared learnings from our practice meeting in January](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-01-23.md).
+For more on our purpose, check out our [shared learnings from our big meeting in January](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-01-23.md).
 
 ## How do I join?
 Anyone can join, regardless of role, title, or status. There's no "official" way of joining, but we usually recommend to:
