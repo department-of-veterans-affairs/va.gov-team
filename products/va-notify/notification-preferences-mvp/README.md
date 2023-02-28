@@ -5,7 +5,7 @@
 
 1- Explicit Consent: Setting preference on VA.gov, messaging start stop on some number - this will result in a specific setting being written back to VA Profile and reflecting in the radio button in VA.gov relative to that specific communication item
 
-2- Implicit Consent: Communication items may have implicit consent strategies i.e. filling out a VA.gov form and sharing contact information - this will allow VA.gov to send notifications to the user assuming there is no explicit consent preference set that contra-indicts
+2- Implicit Consent (aka default send): Communication items may have implicit consent strategies i.e. filling out a VA.gov form and sharing contact information - this will allow VA.gov to send notifications to the user assuming there is no explicit consent preference set that contra-indicts
  
 If a user expresses their preference, VANotify will always honor and prioritize that. If the user has not expressed a preferences for that specific communication item – we will follow the business rule, which is determined by their consent strategy.
 
