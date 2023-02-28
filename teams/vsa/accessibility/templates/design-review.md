@@ -16,9 +16,9 @@ Based on the development of the prototype, some of the following may or may not 
 - [ ] Heading order
   - [ ] Annotations (if needed)
 - [ ] Alt attributes for images
-- [ ] Text alternative for complex images (charts, graphs, maps, etc.)
+- [ ] Text alternative for complex images such as charts graphs maps etc.
 - [ ] Link text describe the destination
-- [ ] Semantic Considerations: <p> paragraph <ul> for bullets <ol> for numbers
+- [ ] Semantic Consideration for paragraphs ordered lists numbering
 - [ ] Tables (heading rows)
 - [ ] Forms 
 - [ ] [Components](https://design.va.gov/components/) and [patterns](https://design.va.gov/patterns/) follow VA design system guidance
