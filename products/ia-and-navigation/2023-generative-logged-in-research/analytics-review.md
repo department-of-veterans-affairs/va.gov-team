@@ -10,9 +10,13 @@ For comparing logged in vs. logged out users, I used the following custom segmen
 - What is the difference between the GA “Site Search” report, and the Domo dashboard? The top keywords don’t align.
 	- Are some searches programmatically performed? I noticed some search terms in GA have a `_` instead of a space.
 - How do I determine how many clicks happened, or pages were visited, before a specific event was fired?
-- Do we have data about best bets in our search results (“our top recommendations for you”) to better understand engagement with those results?
+- Do we have data about best bets in our search results (“our top recommendations for you”) to better understand engagement with those results? I don't see any specific events firing in the console when I click on those.
+- How do I answer “What are peoples’ next clicks **after** signing in?”
+	- It could be going to a new page, or some other interaction on the page they are on. How do we distinguish?
 - What does `(other)` represent in the Page reports?
-- 
+- [The report shared with me](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D&explorer-table.filter=nav-header-sign-in&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22RE%22,%22nav-header-sign-in%22,0%5D%5D&explorer-table.rowStart=0&explorer-table.rowCount=250/) shows the page people were on when they signed in, if they clicked the header link - I don’t think it includes any CTA buttons that would be within page content.  The question I’m trying to answer is “What are the top ten popular pages for people to sign in on?” 
+	- I think the “login-modal-opened” event would tell us where sign in attempts took place, regardless of what they clicked on to trigger it. correct? [report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=&_r.drilldown=analytics.eventCategory:Sign-on,analytics.eventAction:Login%20-%20vagovprod,analytics.eventLabel:login-modal-opened&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath/)
+	- If we wanted to instead look at pages where people definitely completed the sign in process, would looking at the pages w/ `?postLogin` in the URL tell us that? [report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22%3FpostLogin%22,0%5D%5D&explorer-table.plotKeys=%5B%5D/)
 
 
 ## Signing in to VA.gov
@@ -20,7 +24,13 @@ For comparing logged in vs. logged out users, I used the following custom segmen
 
 10.87%
 
-2. What are the top ten popular pages for people to sign in on? ([View Google Sheets export](https://docs.google.com/spreadsheets/d/10LxJE3j8SCBi8aNL0RaC4wdLGVqwSpuvLDmc3jB1EsU/edit?usp=sharing))
+2. What are the top ten popular pages for people to sign in on? 
+
+Specific numbers depends on if “to sign in on” means “clicked a button to sign in”  ([report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=&_r.drilldown=analytics.eventCategory:Sign-on,analytics.eventAction:Login%20-%20vagovprod,analytics.eventLabel:login-modal-opened&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath/)) or if it means “complete the sign in process” ([report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22%3FpostLogin%22,0%5D%5D&explorer-table.plotKeys=%5B%5D/)).
+
+(Will include table once I confirm I’m thinking about these reports correctly)
+
+([View Google Sheets export](https://docs.google.com/spreadsheets/d/10LxJE3j8SCBi8aNL0RaC4wdLGVqwSpuvLDmc3jB1EsU/edit?usp=sharing))
    * [www.va.gov/](http://www.va.gov/) 
    * [www.va.gov/claim-or-appeal-status/](http://www.va.gov/claim-or-appeal-status/) 
    * [www.va.gov/va-payment-history/](http://www.va.gov/va-payment-history/) 
@@ -116,6 +126,7 @@ Of 33,172,355 total events, 3.13% were “create account” events.
 | /health-care/get-reimbursed-for-travel-pay/index.html |   767,730 |
 
 4. What are the 25 most popular pages visited while signed in? ([Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q/))
+
 |Page | Pageviews |
 | -----------  | -----------  | 
 | /index.html|  44,141,374 |
