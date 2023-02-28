@@ -3,7 +3,7 @@
 [Name here]
 
 ## Design Review
-
+Based on the development of the prototype, some of the following may or may not be applicable. 
 - [ ] Color and contrast checks
   - [ ] WCAG 2.1 AA
   - [ ] WCAG 2.1 AAA
@@ -11,8 +11,16 @@
   - [ ] High Contrast Mode
 - [ ] Keyboard navigation
   - [ ] Annotations (if needed)
+  - [ ] Label Page Regions
+- [ ] Page Title
 - [ ] Heading order
   - [ ] Annotations (if needed)
+- [ ] Alt attributes for images
+- [ ] Text alternative for complex images (charts, graphs, maps, etc.)
+- [ ] Link text describe the destination
+- [ ] Semantic Considerations: <p> paragraph <ul> for bullets <ol> for numbers
+- [ ] Tables (heading rows)
+- [ ] Forms 
 - [ ] [Components](https://design.va.gov/components/) and [patterns](https://design.va.gov/patterns/) follow VA design system guidance
 
 ## Prototype Link
