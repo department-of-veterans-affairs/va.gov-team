@@ -15,27 +15,35 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
+      - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51693)
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
-      - Update our tranlations
-      - Address un-handled scenarios        
-      - Implement text solution for BTSSS latency                   
+      - Update tranlations
+         - [[UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54029)
+      - Address un-handled scenarios    
+         - [[FE] Update. UI for the "can't check you in scenarios"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54280)
+         - [[FE] Update UI to Prioritize Info Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54279)
+      - Implement text solution for BTSSS latency       
+         - [[FE] Text Veteran when Travel Claim Submitted to BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54281)            
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
    - **Sub Goal: [Send to Check-in when Pre-Check-in link is accessed inside check-in window](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)**
-      
+      - [[BE] Store hand-off query parameter in model](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53996)      
+      - [[BE] Modify PatientCheckIns Controller GET for optional query parameter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53997)   
   - **Sub Goal: [Show Clear Message when using an expired link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)**
-  
+      - Have we released?
   - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)**
-  
+      - [[FE] Update action link for pre-check-in A/B test top location](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54250)
+      - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52057)
    - **Sub Goal: [Send Check-in Text 45 Minutes Before Appointment to encourage use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)**
-  
+      - [[UX] Create Content for Text Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53569)
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
-  
+      - [[UX] [Research] Create research plan for moderated research study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)
+      - [[UX] Create prototypes for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)
    - **Sub Goal: Analyze current metrics to see what they tell us**
       - [Research] Analyze GA Metrics
-      - [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/?????)
+      - [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54282)
 - **GOAL: Address tech debt** 
- 
+   - ?????
    - **_Optional Tech Debt (these items are not in the current sprint but can be pulled in)_**
       - [Have an Initial Discussion to Identify Risks & Problems w/ Current Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54034)
       - [[FE] Create Proposal for an MVP for a Cross-Product Path Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54021)
