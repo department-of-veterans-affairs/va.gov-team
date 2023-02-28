@@ -23,35 +23,38 @@ ________________________________________________________________________________
          - [[FE] Update UI to Prioritize Info Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54279)
       - Implement text solution for BTSSS latency    
          - [[TEXT SOLUTION] [BE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
-         - ???????? [[FE] Text Veteran when Travel Claim Submitted to BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54281)
+            - Front end team can investigate VeText endpoint and get started on the sequence diagram         
       - Prepare for Release
          - [[UX] Update Test Cases to Include the Texting Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54346)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
    - **Sub Goal: [Send to Check-in when Pre-Check-in link is accessed inside check-in window](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)**
       - [[BE] Store hand-off query parameter in model](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53996)      
       - [[BE] Modify PatientCheckIns Controller GET for optional query parameter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53997)   
+      - [[BE] CHIP/refresh-appointments Error Handling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53997)
   - **Sub Goal: [Show Clear Message when using an expired link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)**
-      - Have we released?
+      - Do we need some additional ticket?
   - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)**
       - NOTE: Until we get through the VAOS work, we want to turn off the feature flag for moving this action link and hold off on finishing the content change
       - [[Design] Update text of pre check in action link on introduction page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53793)
          - Just need to incorporate the text into Sketch & Absract     
    - **Sub Goal: [Send Check-in Text 45 Minutes Before Appointment to encourage use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)**
-      - No work this sprint
+      - We need to find out where this work is on the VeText roadmap
+      - Should we work on the text content?
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
       - [[UX] [Research] Create research plan for moderated research study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)
       - [[UX] Create prototypes for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)
       - New tickets TBD
+      - [[FE] SPIKE - How might we setup the VA design system in codepen](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54264)
    - **Sub Goal: Analyze current metrics to see what they tell us**
       - [Research] Analyze GA Metrics
       - [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54282)
    - **Sub Goal: Create Cross-Product Veteran Path Analysis**
-      - Next steps???
+      - No work this sprint; we will present MVP proposal to Stephen & decide next steps
 - **GOAL: Address tech debt** 
-   - ?????
+   - [[FE] Remove enable/disable flags for check-in and pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53702)
+   - [[BE] Remove enable/disable flags for check-in and pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53712)
    - **_Optional Tech Debt (these items are not in the current sprint but can be pulled in)_**
       - [Have an Initial Discussion to Identify Risks & Problems w/ Current Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54034)
-      - [[FE] Create Proposal for an MVP for a Cross-Product Path Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54021)
       - [[FE] [BE] Review Applications & Identify Areas for Improvement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53713)
 
 
