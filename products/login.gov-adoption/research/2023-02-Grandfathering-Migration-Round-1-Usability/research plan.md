@@ -9,6 +9,13 @@ This initiative focuses on one migration pathway: moving select DS Logon users t
 
 We will run a few rounds of testing to review the effectiveness and usability of this grandfathering user flow. Following Round 1, we will include follow-up testing to address any issues that surface. We will also include at least one round of accessibility testing with blind and low vision users. This [Research overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research) has more details on what is upcoming.
 
+### Research this builds on
+
+* [2022-10-Research-LoginGovFieldResearch #185](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/185)
+* [2022-07 MHV transition to Login.gov as a single sign-on #157](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/157)
+* [2022-07 Login Self-Service Tool #156](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/156)
+* [2022-03 Sign-In Accessibility #93](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/93)
+
 ### OCTO Objectives 
 
 * Veterans can manage their health services online.
