@@ -6,8 +6,6 @@ Given that I (Samara) will likely be out as this research is planned and happens
 
 ## Research goals
 
-As I see it, these are the goals for user research:
-
 ### Primary
 
 Identify problems with navigating the logged-in experience on VA.gov.
@@ -25,4 +23,4 @@ If possible, it would be helpful to note/capture the following:
 - Please test using the actual website. We should not need a prototype for this.
 - Please test using whatever version of the website shows both the new homepage AND the new health landing page (tbh, I don't know if these will actually be available at the same URL). I belive the new health landing page is supposed to go live mid-March.
 - We've talked about *not* starting people on the website, but they'll obviously need to get there eventually so we can evaluate the navigation. So, where you start people is up to you, but we'll need to make sure to eventually guide them to VA.gov if we opt to start them on a blank browser.
-- 
+- Once people are on the website, I'm sure they will rely on the homepage or My VA to get around, and that's fine if someone says they'd click a link relevant to a particular task. However, we're not here to test links on the homepage or My VA, and we already know people overly rely on these to get around. So, I think if there is a task where someone says they'd just click a link on the homepage or My VA, we should also ask them to demonstrate how they'd do the same thing if they were not allowed to use My VA or the homepage (ie. how would they use the nav/search?).
