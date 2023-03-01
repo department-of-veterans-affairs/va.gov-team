@@ -19,7 +19,7 @@ Are there moments that matter?
 
 ## Research Goals	
 
-1. Understand how we can intervene to ensure that new generations of Veterans use Login.gov or ID.me to access My HealtheVet from the start.
+1. Understand how we can intervene to ensure that new generations of Veterans use Login.gov to access My HealtheVet from the start.
 2. Understand what in-person support will enable Veterans to create and use a Login.gov account to access My HealtheVet.
 3. Understand how the greatest number of Veterans can use multi-factor authentication options, including security keys.
 4. Understand how setting up and maintaining shared access might work for Veterans and non-Veterans. 
