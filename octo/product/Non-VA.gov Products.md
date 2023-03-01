@@ -27,6 +27,6 @@
 
 | Prescription Management | Health | Lauren Alexanderson | [Product Outline](LINK) |
 
-| Rapid Ready for Decision (RRD) | Benefits Delivery | Zach Goldfine | [Product Outline](LINK) |
+| Rapid Ready for Decision (RRD) | Benefits Delivery | Zach Goldfine | Emily Theis | [Product Outline](LINK) |
 
 | Virtual Regional Office | Benefits Delivery | Zach Goldfine | [Product Outline](LINK) |
