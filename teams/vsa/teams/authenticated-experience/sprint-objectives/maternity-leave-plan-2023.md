@@ -75,8 +75,8 @@ We already have a packed quarter for when I am out. If there are requests that c
 
 ### VA Profile work that they might want us to start while I am out
 
-- Notification preferences for "early comms" work (ie. eBenefits prefs that need to move over) -- This will likely be very straightforward. If VA Profile just needs some copy for the new preference(s) and for us to implement a feature toggle, this should be slated in pretty easily. If they need more comprehensive work (I don't think they do), please plan accordingly to other priorities.
-- Telephone number validation -- This will likely require interface and code changes, and I don't know when the team will have bandwidth. We can get to this eventually, but if this needs to wait until I'm back, so be it. Please work with the team to scope this work, and then only put it into planning if there are available people. If not, let VA Profile know we need to hold off for a few sprints.
+- **Notification preferences for "early comms" work (ie. eBenefits prefs that need to move over)** -- This will likely be very straightforward. If VA Profile just needs some copy for the new preference(s) and for us to implement a feature toggle, this should be slated in pretty easily. If they need more comprehensive work (I don't think they do), please plan accordingly to other priorities.
+- **Telephone number validation** -- This will likely require interface and code changes, and I don't know when the team will have bandwidth. We can get to this eventually, but if this needs to wait until I'm back, so be it. Please work with the team to scope this work, and then only put it into planning if there are available people. If not, let VA Profile know we need to hold off for a few sprints.
 
 ## For OCTO
 
