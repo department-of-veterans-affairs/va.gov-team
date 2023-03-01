@@ -11,9 +11,9 @@ In order to set up a Login.gov account, a Veteran will be required to set up mul
 Taking this a step further, there is a particular risk here for Veterans who have limited connectivity and/or limited access to different devices. One hypotheses that the VA would like to explore is whether security keys might be a useful MFA option in these cases, or how else we can support these Veterans.
 
 This research will build on [discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/discovery/2022-10-Login.gov-Adoption-Discovery-Research) and inform recommendations related to MFA set up and use. With this study, in particular, we're aiming to fill a gap in our understanding of how less-digitally connected Veterans set up and use MFA. This might include:
-* Veterans with severe cognitive disabilities
+* Veterans who have limited connectivity or limited access to different devices for a variety of reasons
 * un-housed Veterans
-* Veterans who have limited connectivity or limited access to different devices
+* Veterans with severe cognitive disabilities
 
 ## Research Goals
 We still need to write and agree on research goals for this future study.
