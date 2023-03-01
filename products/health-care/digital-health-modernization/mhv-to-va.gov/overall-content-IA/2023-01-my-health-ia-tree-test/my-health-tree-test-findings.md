@@ -1,16 +1,12 @@
-<br>**This is a template, PLEASE MAKE A COPY**
+# My health IA tree test - Research rindings 
 
----
+**Office of the CTO - Health portfolio, MHV on VA.gov / MHV Integration
 
-# [Study] Research Findings 
+Date: 01/2023
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+Mikki Northuis (michelle.northuis@va.gov)
 
-Date: MM/DD/YYYY
-
-[Designer 1] [email], [Designer 2] [email]
-
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+[Research readout](link here)
 
 <br>
 
@@ -29,31 +25,28 @@ _Once you've presented your research readout to your team, if you have a deck, i
 <br>
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+Based on the previous tree test findings, the team iterated on the information architecture for the health hub and health apartment. As the team considers how to properly include the Health Apartment on VA.gov to ensure Veterans and Caregivers to get and manage their health care benefits, this research will help inform decisions on the information architecture of the health apartment and how it links to the broader VA.gov structure.
 
-_Then, describe your goals for this research_
+Veteran tasks fit in the following key points in the Veteran journey:
+- Primary – Starting up and Taking care of myself
+- Secondary – Putting down roots, Retiring, Aging
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
+The goal of this research is to gather quantitative insights on the findability of more detailed and deeper tasks within the proposed IA of the My health patient portal experience.
 
+In these tree tests, we will aim to:
+- Evaluate the findability of various information within the "My Health" structure
+- Evaluate where participants look for information related to their health records between "Appointments", "Health history", and "Medical records"
 
 
 ## Research Questions
 
-_Research questions here_
+Can Veterans navigate the proposed information architecture of the My health patient portal in order to find information and complete tasks related to managing their health?
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
 
 ## Methodology 
 
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
+Using Optimal Workshop, we conduct an unmoderated study in which participants were invited by email to participate. After accepting the invitation, participants were sent a link to a tree test activity that contained 10 tasks. For each task, the participant will locate in the tree where a specific task can be completed.
+- Tasks 
 
 
 ## Hypotheses and Conclusions
@@ -65,6 +58,19 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 _Hypothesis statement_
 
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+
+Veterans will understand what types of information can be found in the “Test results”, "Health history" and "Medical records" sections.
+- Veterans will easily find the vaccine history under the "Health history" section.
+- Veterans will easily find basic health data within "Health history".
+- Veterans will easily find the option to download their health records under "Medical records".
+- Veterans will easily find information on labs and tests.
+Veterans will understand that the "Medications" section includes all of their prescription information - current and past.
+- Veterans will easily find where to refill their prescriptions in a section labeled "Medications".
+- Veterans will easily find historical prescription information under "Medications".
+Veterans will look for appointment follow-up tasks and information within the "Appointments" section.
+- Veterans will easily find travel pay if it is placed with their past appointment in the "Appointments" section.
+- Veterans will more easily find their after-visit summaries with their past appointments in the "Appointments" section than in the "Health history" section with other types of clinical notes.
+Veterans will easily find general information and tasks related to their VA health benefits within the "My health benefits" grouping.
 
 
 ## Key Findings
