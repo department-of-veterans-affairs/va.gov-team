@@ -54,8 +54,8 @@
 |Comments |
 
 **Lab and test results**
-|Category       |Data field  | Description           | Suggested label | Notes             | Questions           |
-|:----------------|:-------------|:----------------------|:----------------|:------------------|:--------------------|
+|Category       |Data field  | Suggested label | Notes             | Questions           |
+|:----------------|:-------------|:----------------|:------------------|:--------------------|
 |All |Category |Type of test |
 |All|Title of lab report (if available)|None (card header in list, H1 in detail) |
 |All|Date collected |Date |
