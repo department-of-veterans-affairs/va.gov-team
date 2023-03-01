@@ -19,7 +19,8 @@ If possible, it would be helpful to note/capture the following:
 
 - What prompts people to sign-in to the site (eg. do they do it right away? do they wait until they get to a content page with a sign in prompt? do they use the sign in button in the main nav, or on the homepage?)
 - Does the homepage need to exist when users are logged-in? Can My VA replace it?
-- Is there confusion among the homepage vs. My VA vs. the new health hub landing page (note: there is going to be work done on the health apartment team specifically targeting this question, but if you happen to observe anything that could give us insight or be useful to that team, it's worth noting).
+- Is there confusion among the homepage vs. My VA vs. the new health hub landing page? 
+  - Note: there is going to be work done on the health apartment team specifically targeting this question, but if you happen to observe anything that could give us insight or be useful to that team, it's worth noting.
 
 ## Methods
 
