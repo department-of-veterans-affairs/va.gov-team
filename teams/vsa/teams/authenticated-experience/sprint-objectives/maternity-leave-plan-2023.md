@@ -41,7 +41,7 @@ In order to be able to add email as a channel, we need to do two things: add the
 
 Behind the scenes, Samara is coordinating backend implementation of the MHV notification preferences in VA Profile, which use email as a channel. Once those have been implemented in VA Profile and MHV, we should be in good shape to add them to our UI.
 
-### [Support generative logged-in IA/navigation research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ia-and-navigation/2023-generative-logged-in-research)
+### [Generative logged-in IA/navigation research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ia-and-navigation/2023-generative-logged-in-research)
 
 - **OCTO objective**: Refresh the VA.gov homepage and information architecture
 - **Status**: User research planning; User research; Generating a report that summarizes all research activities
