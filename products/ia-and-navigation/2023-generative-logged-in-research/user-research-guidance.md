@@ -8,7 +8,10 @@ Given that I (Samara) will likely be out as this research is planned and happens
 
 ### Primary
 
-Identify problems with navigating the logged-in experience on VA.gov.
+Identify problems and expectations with navigating the logged-in experience on VA.gov.
+
+- Can people find tasks they need to complete? Can they do this without the homepage/My VA links?
+- How can we make the site easier to navigate for logged-in users?
 
 ### Secondary
 
