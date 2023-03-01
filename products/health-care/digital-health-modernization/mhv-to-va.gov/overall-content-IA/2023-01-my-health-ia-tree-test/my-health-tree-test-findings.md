@@ -45,9 +45,11 @@ Can Veterans navigate the proposed information architecture of the My health pat
 
 ## Methodology 
 
-Using Optimal Workshop, we conduct an unmoderated study in which participants were invited by email to participate. After accepting the invitation, participants were sent a link to a tree test activity that contained 10 tasks. For each task, the participant will locate in the tree where a specific task can be completed.
-- Tasks 
-
+- We utilized Optimal Workshop's Treeejack tool to conduct unmoderated sessions with Veterans
+- This tool allows us to collect data on how participants navigate a menu structure to find the answers to questions/tasks
+- Participants were asked to complete 10 tasks by navigating a menu structure and indicating where they would be able to find the answer
+- Participants were started at the top of the menu for each task with the menu fully collapsed
+- Tasks were randomized to avoid bias from learning the tree as the test progressed
 
 ## Hypotheses and Conclusions
 
@@ -79,19 +81,11 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Finding one
-
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
+1. The different sections containing health and medical records information had some overlap in meaning, but were still successful tasks
+2. The “Appointments” section was not the primary place Veterans looked for post-appointment tasks such as travel pay or after-visit summaries 
+3. Veterans looked for both current and past prescription information within the “Medications” section
+4. It is unknown if Veterans understand what to expect within the “My health benefits” section
+5. The placement and labeling of “vitals” is not entirely clear to Veterans
 
 
 ## Details of Findings 
@@ -102,43 +96,74 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
+**Finding 1: The different sections containing health and medical information have some overlap in meaning, but were still successful tasks**
 
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+- We tested 5 items related to health and medical information that were placed within the 3 separate areas – Test results, Health history, and Medical records
+- While most Veterans navigated to and selected answers in the correct section, there was consistently a small number of participants that navigated to the “Medical records” section for these tasks
 
-> _Supporting data: Quote here_
+![image](https://user-images.githubusercontent.com/20994159/222219303-3aea52ab-1b2a-4c1b-b20c-ba77d8a20850.png)
 
-> _Supporting data: Quote here_
+_Highlighted and bold indicates the preferred path; Blank indicates <2%_
+
+**Hypothesis**: Veterans will understand what types of information can be found in the “Test results”, "Health history“, and "Medical records" sections
+
+**Related tasks**:
+2) You saw your primary care provider last month and want to review what was decided for next steps in your care.
+5) You want to find the results of a recent MRI you had done.
+6) You need to know when you had your last tetanus shot.
+7) You want to know what your blood pressure was the last time you had it taken at a VA medical facility.
+8) You want to get a copy of your VA health records for your personal files.
 
 
-**Finding 2**
+
+
+**Finding 2: The “Appointments” section was not the primary place Veterans looked for post-appointment tasks such as travel pay or after-visit summaries**
 
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+- Veterans primarily navigated to and selected answers in areas other than “Appointments”,  however there was still a significant number of Veterans that navigated to “Appointments” for these tasks 
+- Veterans not enrolled in VA health care were twice as likely to look in “Appointments” than Veterans currently enrolled in VA health care
+- For the after-visit summary task, over 50% of Veterans correctly selected the “After-visit summary” option in either “Health history” or “appointments”, indicating there is likely some understanding or familiarity with that label
+- Notes: Travel pay is not available within appointments in today's VA.gov or MHV experience
 
-> _Supporting data: Quote here_
+![image](https://user-images.githubusercontent.com/20994159/222219749-b52f59dd-f346-4737-8703-db8e7666016c.png)
 
-> _Supporting data: Quote here_
+_Bold indicates the majority path_
+
+**Hypothesis**: Veterans will look for appointment follow-up tasks and information within the "Appointments" section – including travel pay and after-visit summaries
+
+**Related tasks**: 
+1. You drove to see your VA primary care physician and want to get paid back for the cost of gas.
+2. You saw your primary care provider last month and want to review what was decided for next steps in your care.
 
 
-**Finding 3**
+
+
+**Finding 3: Veterans looked for both current and past prescription information within the “Medications” section**
 
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+- For this round of testing, the label of the previous “Prescriptions” section was changed to “Medications” to better encompass all of the prescribed and over the counter medications that patients may be taking
+- Over 74% of all Veterans looked to the “Medications” section to find information on both current and past prescriptions
+- There was a small percentage of Veterans that looked in “Health history” for information on an old prescription
 
-> _Supporting data: Quote here_
+![image](https://user-images.githubusercontent.com/20994159/222221491-b425bdac-a700-4caa-b764-f9a26b6734b7.png)
 
-> _Supporting data: Quote here_
+
+**Hypothesis**: Veterans will understand that the "Medications" section includes all prescription information - current and past.
+
+**Related tasks**: 
+3. You need to request a refill for a prescription you get from VA by mail.
+4. You want to know the name of the prescription that you stopped taking last summer for a skin condition.
+
 
 
 ## Additional Insights
