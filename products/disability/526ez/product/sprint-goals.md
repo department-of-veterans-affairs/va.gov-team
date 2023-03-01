@@ -17,4 +17,5 @@ Period - 03/01/2023 - 03/14/2023
    - [ ] Identify ideas for improvement for core submission as identified by existing research 
    - [ ] Work with product/team to priortize these ideas and break them down for future work
    - [ ] Get the ideas as user stories in the product backlog
+   - [ ] Research around 526 form validation problem
    - [ ] Do we think we have time/capacity to start looking at what we need from analytics?
