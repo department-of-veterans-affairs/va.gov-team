@@ -8,43 +8,42 @@ MHV links in the live landing page will take the `/eauth?deeplinking=` form whic
 
 ## Landing Page links
 
-| Link Text | URL | Notes |
-|- |- |- |
-| Schedule and manage appointments | https://eauth.va.gov/mhv-portal-web/eauth?deeplinking=schedule-or-cancel-a-va-appointment-online |   |
-| Your VA appointments | https://eauth.va.gov/mhv-portal-web/eauth?deeplinking=appointments |   |
-| Find VA locations | https://www.va.gov/find-locations |   |
-| Compose message | https://eauth.va.gov/mhv-portal-web/eauth?deeplinking=compose-message |   |
-| Inbox | https://eauth.va.gov/mhv-portal-web/eauth?deeplinking=inbox |   |
-| Manage folders | https://eauth.va.gov/mhv-portal-web/eauth?deeplinking=manage-folders |   |
-| Refill VA prescriptions | https://eauth.va.gov/mhv-portal-web/eauth?deeplinking=prescription_refill |   |
-| Track prescription delivery | https://eauth.va.gov/mhv-portal-web/eauth?deeplinking=prescription-tracking |   |
-| My medications and allergies | https://eauth.va.gov/mhv-portal-web/eauth?deeplinking=my-complete-medications-list |   |
-| Download my medical record (Blue Button) | https://eauth.va.gov/mhv-portal-web/eauth?deeplinking=download_my_data |   |
-| Lab and test results | https://eauth.va.gov/mhv-portal-web/eauth?deeplinking=labs-tests |   |
-| Health history | https://eauth.va.gov/mhv-portal-web/eauth?deeplinking=health-history |   |
-| File a claim for travel reimbursement | https://dvagov-btsss.dynamics365portals.us/signin |   |
-| Pay your copay bill | https://pay.gov/public/form/start/25987221 |   |
-| Order hearing aid batteries and accessories | https://www.va.gov/health-care/order-hearing-aid-batteries-and-accessories |   |
-| Order prosthetic socks | https://www.va.gov/health-care/order-prosthetic-socks/ |   |
-| Current veteran copay rates | https://www.va.gov/manage-va-debt/summary/copay-balances/ |   |
-| Mental health services | https://www.va.gov/my-health/#FIXME-need-link |   |
-| Dental care | https://www.va.gov/my-health/#FIXME-need-link |   |
-| Community Care | https://www.va.gov/my-health/#FIXME-need-link |   |
-| Update my health benefits info (10-10EZR) | https://www.va.gov/my-health/#FIXME-need-link |   |
-| My health information card | https://www.va.gov/my-health/#FIXME-need-link |   |
-| Download my IRS 1095-B form | https://www.va.gov/my-health/#FIXME-need-link |   |
-| The PACT Act and your benefits | https://www.va.gov/my-health/#FIXME-need-link |   |
-| Check your mental health | https://www.va.gov/my-health/#FIXME-need-link |   |
-| Veterans Health Library | https://www.va.gov/my-health/#FIXME-need-link |   |
-| Healthy Living Centers | https://www.va.gov/my-health/#FIXME-need-link |   |
-| The My HealtheVet community | https://www.va.gov/my-health/#FIXME-need-link |   |
-| VA's Whole Health living | https://www.va.gov/my-health/#FIXME-need-link |   |
-| How to use VA Video Connect | https://www.va.gov/my-health/#FIXME-need-link |   |
-| Five Exercises for Balance | https://www.va.gov/my-health/#FIXME-need-link |   |
-| Recognizing a Heart Attack | https://www.va.gov/my-health/#FIXME-need-link |   |
-| Get the New Toxic Exposure Screening | https://www.va.gov/my-health/#FIXME-need-link |   |
-| Need Internet or a Tablet for Appointments? | https://www.va.gov/my-health/#FIXME-need-link |   |
-| Top Five Health Threats to Men | https://www.va.gov/my-health/#FIXME-need-link |   |
+| Link Text                                   | URL                                                                          | Notes |
+| ------------------------------------------- | ---------------------------------------------------------------------------- | ----- |
+| Schedule and manage appointments            | https://www.va.gov/health-care/schedule-view-va-appointments/                |       |
+| Your VA appointments                        | https://www.va.gov/health-care/schedule-view-va-appointments/appointments    |       |
+| Find VA locations                           | https://www.va.gov/find-locations                                            |       |
+| Compose message                             | https://mhv-syst.myhealth.va.gov/mhv-portal-web/compose-message              |       |
+| Inbox                                       | https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging             |       |
+| Manage folders                              | https://mhv-syst.myhealth.va.gov/mhv-portal-web/manage-folders               |       |
+| Refill VA prescriptions                     | https://mhv-syst.myhealth.va.gov/mhv-portal-web/prescription_refill          |       |
+| Track prescription delivery                 | https://mhv-syst.myhealth.va.gov/mhv-portal-web/prescription-tracking        |       |
+| My medications and allergies                | https://mhv-syst.myhealth.va.gov/mhv-portal-web/my-complete-medications-list |       |
+| Download my medical record (Blue Button)    | https://mhv-syst.myhealth.va.gov/mhv-portal-web/download-my-data             |       |
+| Lab and test results                        | https://mhv-syst.myhealth.va.gov/mhv-portal-web/labs-tests                   |       |
+| Health history                              | https://mhv-syst.myhealth.va.gov/mhv-portal-web/health-history               |       |
+| File a claim for travel reimbursement       | https://dvagov-btsss.dynamics365portals.us/signin                            |       |
+| Pay your copay bill                         | https://pay.gov/public/form/start/25987221                                   |       |
+| Order hearing aid batteries and accessories | https://www.va.gov/health-care/order-hearing-aid-batteries-and-accessories   |       |
+| Order prosthetic socks                      | https://www.va.gov/health-care/order-prosthetic-socks/                       |       |
+| Current veteran copay rates                 | https://www.va.gov/manage-va-debt/summary/copay-balances/                    |       |
+| Mental health services                      | https://www.va.gov/health-care/health-needs-conditions/mental-health         |       |
+| Dental care                                 | https://www.va.gov/health-care/about-va-health-benefits/dental-care/         |       |
+| Community Care                              | https://www.va.gov/COMMUNITYCARE/programs/veterans/index.asp                 |       |
+| Update my health benefits info (10-10EZR)   | https://www.va.gov/health-care/update-health-information/                    |       |
+| My health information card                  | https://mhv-syst.myhealth.va.gov/mhv-portal-web/health-information-card      |       |
+| The PACT Act and your benefits              | https://www.va.gov/resources/the-pact-act-and-your-va-benefits/              |       |
+| Check your mental health                    | https://mhv-syst.myhealth.va.gov/mhv-portal-web/check-your-mental-health     |       |
+| Veterans Health Library                     | https://www.veteranshealthlibrary.va.gov/                                    |       |
+| Healthy Living Centers                      | https://www.myhealth.va.gov/healthy-living-centers                           |       |
+| The My HealtheVet community                 | https://www.myhealth.va.gov/mhv-community                                    |       |
+| VA's Whole Health living                    | https://www.va.gov/wholehealth/                                              |       |
+| How to use VA Video Connect                 | https://www.myhealth.va.gov/ss20200320-va-video-connect                      |       |
+| Five Exercises for Balance                  | https://www.va.gov/my-health/#FIXME-need-link                                |       |
+| Recognizing a Heart Attack                  | https://www.va.gov/my-health/#FIXME-need-link                                |       |
+| Get the New Toxic Exposure Screening        | https://www.va.gov/my-health/#FIXME-need-link                                |       |
+| Need Internet or a Tablet for Appointments? | https://www.va.gov/my-health/#FIXME-need-link                                |       |
+| Top Five Health Threats to Men              | https://www.va.gov/my-health/#FIXME-need-link                                |       |
 
 ## Lagniappe
 
@@ -53,8 +52,11 @@ MHV links in the live landing page will take the `/eauth?deeplinking=` form whic
 The following grabs all the links from the Landing Page, updates hrefs to point to prod, and outputs a markdown table. The `copy` method exists in Firefox DevTools; it doesn't appear to work in Chrome.
 
 ```
-links = $$('main a').map(l => {
-  const { textContent, href} = l;
+links = $$('a.mhv-c-navlink, a.mhv-c-link').map(l => {
+  const {
+    textContent,
+    href
+  } = l;
   let prodHref = href.replace('pint.', '').replace('localhost:3001', 'www.va.gov').replace('http:', 'https:');
   return `| ${textContent} | ${prodHref} |   |`;
 });
