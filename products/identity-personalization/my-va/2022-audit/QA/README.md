@@ -1,4 +1,4 @@
-# QA Plan for My VA Audit Improvements
+# My VA Audit Improvements: QA Plan & Findings
 For QA of the My VA Audit Improvements we will be performing QA manually using a spreadsheet to track test cases and findings.
 
 
