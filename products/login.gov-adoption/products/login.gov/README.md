@@ -122,7 +122,7 @@ _Test a small Veteran population to ensure any obvious bugs/edge cases are found
 
 
 * Number of unique users: [FILL_IN]
-* Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the[ Rollout Planning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md#rollout-planning) section
+* Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the[ Rollout Planning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/login.gov/release-plan.md#rollout-planning) section
 * Was any downstream service affected by the change?: [PICK_ONE]: yes | no | N/A
 * Types of errors logged: [FILL_IN]
 * What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN] \
