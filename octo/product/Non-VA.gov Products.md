@@ -13,13 +13,13 @@
 
 | CDS Application: Lung Cancer Screen/Nodule Tracking | Health | Shane Elliot | TBD | 
 
-| CDS Application: Precision Oncology | Health | Shane Elliot | TBD |
+| CDS Application: Precision Oncology | Health | Shane Elliot | [Product Outline](LINK) |
 
-| CDS Application: STORM Opioid Management | Health | Shane Elliot | Dr. Jodie Trafton | TBD |
+| CDS Application: STORM Opioid Management | Health | Shane Elliot | Dr. Jodie Trafton | [Product Outline](LINK) |
 
-| Clinical Decision Support Program | Health | Shane Elliot | TBD |
+| Clinical Decision Support Program | Health | Shane Elliot | [Product Outline](LINK) | 
 
-| Digital Health Platform | Health | Stefany Holguin | TBD |
+| Digital Health Platform | Health | Stefany Holguin | [Product Outline](LINK) |
 
 | Long COVID | Health | Marian Adly | [Product Outline](LINK) |
 
