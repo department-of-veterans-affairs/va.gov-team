@@ -55,14 +55,17 @@ This doesn't align with OCTO objectives, but this is work we have to get done in
 
 ### EVSS > Lighthouse migrations
 
-- **OCTO objective**: None
-- **Team objective**: Maintenance & UX improvements
-
 #### [Update direct deposit for comp & pen section of the profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md)
 
-For Q2, we'll be ready to conduct QA, go through pre-launch activities, and launch the updated integration. 
+- **Status**: Build is almost done; this needs to be thoroughly tested before a monitored, phased launch.
+- [Long-term planning](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=378891642)
+
+For Q2 of the calendar year, we'll be ready to conduct QA, go through pre-launch activities, and launch the updated integration. 
 
 #### Update the claim status section of My VA
+
+- **Status**: Hasn't started yet, but should be ready to start once Derrick is fully onboarded
+- [Long-term planning](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=378891642)
 
 Assuming we have availability, we can leverage the updated claim status integration that now relies on Lighthouse so that My VA pulls data from there instead of EVSS.
 
