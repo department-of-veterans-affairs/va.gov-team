@@ -75,9 +75,6 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
 1. The different sections containing health and medical records information had some overlap in meaning, but were still successful tasks
 2. The “Appointments” section was not the primary place Veterans looked for post-appointment tasks such as travel pay or after-visit summaries 
@@ -89,17 +86,9 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
 
 
 **Finding 1: The different sections containing health and medical information have some overlap in meaning, but were still successful tasks**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 - We tested 5 items related to health and medical information that were placed within the 3 separate areas – Test results, Health history, and Medical records
 - While most Veterans navigated to and selected answers in the correct section, there was consistently a small number of participants that navigated to the “Medical records” section for these tasks
@@ -122,10 +111,6 @@ _Highlighted and bold indicates the preferred path; Blank indicates <2%_
 
 **Finding 2: The “Appointments” section was not the primary place Veterans looked for post-appointment tasks such as travel pay or after-visit summaries**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
 - Veterans primarily navigated to and selected answers in areas other than “Appointments”,  however there was still a significant number of Veterans that navigated to “Appointments” for these tasks 
 - Veterans not enrolled in VA health care were twice as likely to look in “Appointments” than Veterans currently enrolled in VA health care
 - For the after-visit summary task, over 50% of Veterans correctly selected the “After-visit summary” option in either “Health history” or “appointments”, indicating there is likely some understanding or familiarity with that label
@@ -146,10 +131,6 @@ _Bold indicates the majority path_
 
 **Finding 3: Veterans looked for both current and past prescription information within the “Medications” section**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
 - For this round of testing, the label of the previous “Prescriptions” section was changed to “Medications” to better encompass all of the prescribed and over the counter medications that patients may be taking
 - Over 74% of all Veterans looked to the “Medications” section to find information on both current and past prescriptions
 - There was a small percentage of Veterans that looked in “Health history” for information on an old prescription
@@ -166,10 +147,6 @@ _List all labels that apply to this finding from the [research repository label 
 
 
 **Finding 4: It is not clear if Veterans understand what to expect within the “My health benefits” section**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 -There were only 2 tasks – travel pay and veteran health ID card – where a notable number of Veterans navigated to and made selections in the “My health benefits” section (>4% visited or made a selection) 
 - Veteran health ID card was placed in this section, and saw a high success rate
@@ -207,10 +184,6 @@ _List all labels that apply to this finding from the [research repository label 
 
 
 **Finding 6: While most Veterans successfully found vaccine information, Veterans who are current MHV users had slightly more success than those that are not current**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 - Veterans with MHV experience were more successful in this task, possibly due to it being a similar placement and label as the current MHV experience
 - Initial clicks were divided equally between “Health history” and “Medical records” for all Veteran participants
