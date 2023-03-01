@@ -9,7 +9,7 @@
 
 |Product Name| OCTO Crew| OCTO Product Owner| Product Manager| Product Outline |
 --------------------------------------------------------------------------------
-| CDS Application: COVID-19 Patient Manager | Health | Shane Elliot | [Product Outline](LINK) |
+| CDS Application: COVID-19 Patient Manager | Health | Shane Elliot | [Product Outline](LINK). |
 
 | CDS Application: Lung Cancer Screen/Nodule Tracking | Health | Shane Elliot | [Product Outline](LINK) | 
 
