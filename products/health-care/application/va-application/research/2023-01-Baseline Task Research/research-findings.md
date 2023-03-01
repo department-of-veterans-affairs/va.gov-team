@@ -336,9 +336,8 @@ Observer ratings of start application task completion using rating criteria:
 ### Recommendation 1
 **Additional research on if any questions can be removed or simplified, plus authenticated flows and how much information can be pre-filled.**
 
-- Utilizing additional “shortened form flows” to allow more applicants to skip household information questions where appropriate.
+- Research and discovery where utilizing additional “shortened form flows” to allow more applicants to skip providing some information where appropriate.
 - Additional testing with authenticated users/flows to understand how pre-filled information changes the experience and expectations. 
-- What are the downstream implications of not providing financial/household information? Slower time until decision for the Veteran because they have to supply this info anyways? Would this be an initially positive but long-term negative impact to the Veteran?
 
 > Key Finding 1: There was confusion or negative feelings around providing income and insurance information. 
 
@@ -349,7 +348,8 @@ Observer ratings of start application task completion using rating criteria:
 **Additional content explanation around use of taxes for calculating income.**
 
 - Review recent changes to financial disclosure and income pages currently in content review and add these findings for additional consideration.
-- Additional research on this process overall (search for past research done)- automation, integrations, enrollment impact, financial responsibility implications, income tool and/or content.
+- Business/stakeholder questions for follow up: What are the downstream implications of not providing financial/household information? Slower time until decision for the Veteran because they have to supply this info anyways? Would this be an initially positive but long-term negative impact to the Veteran?
+
 
 > Key Finding 1: There was confusion or negative feelings around providing income and insurance information. 
 
@@ -367,7 +367,8 @@ Observer ratings of start application task completion using rating criteria:
 ### Recommendation 4
 **Explore ways to make the facility selection page easier for participants to answer on that page without leaving and feeling confident they chose the location they will use.**
 
-- Additional discovery on this page and how to best simplify and separate the existing 3 questions: enrolling for Affordable Care Act, Selecting a VA facility, and being contacted regarding scheduling their first appointment.  
+- Additional discovery on this page and how to best simplify and separate the existing 3 questions on the page: enrolling for Affordable Care Act, Selecting a VA facility, and being contacted regarding scheduling their first appointment.  
+
 - Leverage learnings and designs from 10-10 CG application of facility selection updates.
  - [Improve Facility Selection Epic (CG)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19433)
  - [Initiative brief(10-10CG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Improve%20Facility%20Selection%20-%20Initiative%20Brief.md)
@@ -387,7 +388,8 @@ Observer ratings of start application task completion using rating criteria:
 
 
 ### Recommendation 6
-? How to proceed with birth sex and gender identity questions? On paper SIGI is used for both Veteran and Spouse, and birth sex is used only for Veteran. 
+How to proceed with birth sex and gender identity questions? 
+- On paper SIGI is used for both Veteran and Spouse, and birth sex is used only for Veteran. 
 
 > Additional Insight 3: Participants called out the birth sex question and expectation of having gender identity options to choose from here or on another page.
 
