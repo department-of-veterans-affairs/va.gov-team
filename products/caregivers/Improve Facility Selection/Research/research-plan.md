@@ -139,8 +139,9 @@ Our intended audience for this research is a mix of Veteran's and caregivers.
 
 - Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
 - At least 3 people over the age of 55
+- At least 3 people with cognitive disability
 - At least 4 people who plan to use their mobile device for the session
-- At least 3 people who use screen reader assistive technology 
+- At least 3 people who plan to use screen reader assistive technology for the session
 
 
 **Secondary criteria (nice-to-haves)**
@@ -155,6 +156,18 @@ Participant pool should in diverse in:
 
 
 ### Screener questions
+
+
+**For recruiting 3 screen reader users**
+- Do you need to use assistive technology to use the internet such as VoiceOver on an Apple device, TalkBack on an Android device, or JAWS on a computer? (Proceed to question 3a if yes, if no, disqualify)
+
+3a. Are you able to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
+
+
+
+**For recuriting 4 mobile users**
+
+- Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. (Answer should be yes to satisfy criteria for 4 mobile users)
 
 
 
