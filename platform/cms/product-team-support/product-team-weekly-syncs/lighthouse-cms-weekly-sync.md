@@ -10,14 +10,34 @@
     - From VAST
     - To Lighthouse
   - Retiring VBA Facilities db, Making CMS source of truth
-- Regular participants: Dave Conlon, James Costa, Joshua Jennings, Adam Stilton, Roger Eagans, David Shannon, Jay Darnell.
+- Regular participants: Dave Conlon, James Costa, Joshua Jennings, Jay Darnell, Joseph Justice, Stephen Smythe, Dotti Cummings, Kamari Patrick, Adam, Christian Burk.
 
 </details>
+## Wednesday, March 1, 2023
+* Review action items from last meeting and other updates
+  * #10869 previously blocked, currently needs refinement, looking at being included next sprint
+  * Joshua sent question to Jay via slack
+  * Jay's last day currently scheduled for March 14 
+  * Published URL updates
+* Today's topic - proposed data model changes
+  * Standard structure for hours of operation?
+    *  In Lighthouse, currently come from VAST
+    *  Is this question specific for VHA?  Yes
+    *  Lighthouse will not manipulate hours of operation will persist what is in the CMS
+    *  Is there a character limit for that field?  Not currently, could add one. 
+  * Phone numbers
+    * FE - appointments section with 2 numbers, assuming there are separate numbers for each section
+    * Facilities uses 4 types of number types
+    * Request - each service delivery location include the payload name 
+  * Default hours and location for each service - can be overrided
+  * Can an editor delete service locations?  Seeing an issue with Richmond Hospital - none of their services have a location
+    *  Jay will review and verify  
+
 
 ## Wednesday, Februrary 15, 2023
 * #11079 status - cannot find the ticket (perhaps this is the wrong ticket number)
   * Dotti to find ticket and prioritize
-* Joshua to send like of questions regarding new service data to Jay
+* Joshua to send list of questions regarding new service data to Jay
 * Jay to look for examples of a VAMC facility health service that has multiple locations and share with Joshua
   * Pittsburgh is an example with more than one clinic being under a service
   * How do we want to prioritize?
