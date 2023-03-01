@@ -8,7 +8,9 @@
 
 - Complete any project-specific setup tasks for this study (List them below)
 
-- [ ] Step 1
+- [ ] Confirm additional notetakers and supply notes template and guidelines
+- [ ] If this is a session with a screen reader, confirm assistive tech support is available 
+- [ ] 
 
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
