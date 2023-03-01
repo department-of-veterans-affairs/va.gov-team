@@ -114,7 +114,7 @@ A remote task-based usability study will be conducted remotely with Zoom using t
 
 
 
-> - Testing (TBD if coded prototypes, staging or UXPin will be used]
+> - Testing: Will be using the [staging environment](https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction) for this study.
 
 
 ## Recruitment	
@@ -140,11 +140,11 @@ Our intended audience for this research is a mix of Veteran's and caregivers.
 - Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
 - At least 3 people over the age of 55
 - At least 4 people who plan to use their mobile device for the session
-- At least 4 people who use screen reader assistive technology 
+- At least 3 people who use screen reader assistive technology 
 
 
 **Secondary criteria (nice-to-haves)**
-Participant pool should in diverse in
+Participant pool should in diverse in:
 - Branch of service
 - Gender (35% or more women)
 - Disability rating of 50% or higher representative of applicant demographics
@@ -152,6 +152,13 @@ Participant pool should in diverse in
 - Race
 - Geography
 - Density (rural)
+
+
+### Screener questions
+
+
+
+
 
 
 
@@ -177,8 +184,8 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 
 ### Length of sessions
-* Session length: 30 minutes
-* Buffer time between sessions: 30 minutes
+* Session length: 45 minutes
+* Buffer time between sessions: 60 minutes
 * Maximum Sessions per day: 4
 
 
@@ -208,7 +215,7 @@ TBD       | TBD EST
 
 
 ## Resources	
-- Project Brief: TBD
+- [Project Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Improve%20Facility%20Selection%20-%20Initiative%20Brief.md)
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Research/conversation-guide.md)
 - Design drafts: [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/D741171D-81BD-4CEF-A7A2-69A548C8D346)
 - Synthesis: TBD
