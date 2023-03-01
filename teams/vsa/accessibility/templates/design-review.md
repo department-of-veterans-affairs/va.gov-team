@@ -45,7 +45,7 @@ Based on the development of the prototype, some of the following may or may not 
 
 #### Recommended solution
 - Try to provide an ideal solution too that explores alternatives should content, design, IA, the broader service, etc can be fixed
-- When possible, point to more research with assistive technology users
+- If no research has been conducted with assistive technology users, it should be a priority
 
 ## Moderate (defect 3)
 
