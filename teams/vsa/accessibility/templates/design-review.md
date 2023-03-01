@@ -16,7 +16,7 @@ Based on the development of the prototype, some of the following may or may not 
   - [ ] Text alternative for complex images such as charts graphs maps etc.
 - [ ] Interactive Elements
   - [ ] [Link](https://design.va.gov/components/link/) text describes the destination
-  - [ ] [Button](https://design.va.gov/components/button/) text describes the destination
+  - [ ] [Button](https://design.va.gov/components/button/) text describes the object and action
   - [ ] [Form](https://design.va.gov/components/form/) field identity operation and state (includes error messages)
 - [ ] Language (ease of reading)
 - [ ] HTML Tags
