@@ -44,5 +44,3 @@ Configuration setup in test environment must include:
 
 ### Code coverage
 - [ ] _Developer to provide a link to the product's code_
-
-
