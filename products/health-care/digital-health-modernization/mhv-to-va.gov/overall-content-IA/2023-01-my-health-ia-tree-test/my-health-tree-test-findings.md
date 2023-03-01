@@ -61,19 +61,17 @@ _Hypothesis statement_
 
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
-Veterans will understand what types of information can be found in the “Test results”, "Health history" and "Medical records" sections.
-- Veterans will easily find the vaccine history under the "Health history" section.
-- Veterans will easily find basic health data within "Health history".
-- Veterans will easily find the option to download their health records under "Medical records".
-- Veterans will easily find information on labs and tests.
-Veterans will understand that the "Medications" section includes all of their prescription information - current and past.
-- Veterans will easily find where to refill their prescriptions in a section labeled "Medications".
-- Veterans will easily find historical prescription information under "Medications".
-Veterans will look for appointment follow-up tasks and information within the "Appointments" section.
-- Veterans will easily find travel pay if it is placed with their past appointment in the "Appointments" section.
-- Veterans will more easily find their after-visit summaries with their past appointments in the "Appointments" section than in the "Health history" section with other types of clinical notes.
-Veterans will easily find general information and tasks related to their VA health benefits within the "My health benefits" grouping.
+**Veterans will understand what types of information can be found in the “Test results”, "Health history" and "Medical records" sections.**
+- Likely true, see finding 1
 
+**Veterans will understand that the "Medications" section includes all of their prescription information - current and past.**
+- Definitely true, see finding 3
+
+**Veterans will look for appointment follow-up tasks and information within the "Appointments" section.**
+- Maybe true, see finding 2
+
+
+**Veterans will easily find general information and tasks related to their VA health benefits within the "My health benefits" grouping.**
 
 ## Key Findings
 
@@ -86,6 +84,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 3. Veterans looked for both current and past prescription information within the “Medications” section
 4. It is unknown if Veterans understand what to expect within the “My health benefits” section
 5. The placement and labeling of “vitals” is not entirely clear to Veterans
+6. While most Veterans successfully found vaccine information, Veterans who are current MHV users had slightly more success than those that are not current
 
 
 ## Details of Findings 
@@ -166,6 +165,67 @@ _List all labels that apply to this finding from the [research repository label 
 
 
 
+**Finding 4: It is not clear if Veterans understand what to expect within the “My health benefits” section**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+-There were only 2 tasks – travel pay and veteran health ID card – where a notable number of Veterans navigated to and made selections in the “My health benefits” section (>4% visited or made a selection) 
+- Veteran health ID card was placed in this section, and saw a high success rate
+- This section also contains general benefit information, which in previous tests also indicated some level of challenge, and will need continued evaluation
+
+![image](https://user-images.githubusercontent.com/20994159/222247940-b7bf0037-d4a7-4aa0-8e0e-8722a0277ba6.png)
+
+
+**Hypothesis**: Veterans will easily find general information and tasks related to their VA health benefits within the "My health benefits" grouping.
+
+**Related tasks**: 
+1. You drove to see your VA primary care physician and want to get paid back for the cost of gas.
+10. You recently lost your ID card for your Veteran health care and need to get a new one.
+
+
+
+**Finding 5: The placement and labeling of “vitals” is not entirely clear to Veterans**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+- Veterans were somewhat divided in where they first looked - “Test results” and “Health history” 
+- Most Veterans selected answers within “Health history”, although 1/3 of them were incorrect indicating that “vitals” may not be entirely clear (i.e. Veterans may not know what is and is not a “vital”)
+- Current MHV has vitals as a separate option from both “Labs and tests” and “Health history”
+- This could be a result of a label, placement, or phrasing of the question and this topic will benefit from gaining qualitative feedback from Veterans
+
+![image](https://user-images.githubusercontent.com/20994159/222248294-e5b29497-2589-48f2-a64d-8c8ec067f2d1.png)
+
+
+**Hypothesis**: Veterans will understand what types of information can be found in the “Test results”, "Health history" and "Medical records" sections
+
+**Related tasks**:
+7. You want to know what your blood pressure was the last time you had it taken at a VA medical facility.
+
+
+**Finding 6: While most Veterans successfully found vaccine information, Veterans who are current MHV users had slightly more success than those that are not current**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+- Veterans with MHV experience were more successful in this task, possibly due to it being a similar placement and label as the current MHV experience
+- Initial clicks were divided equally between “Health history” and “Medical records” for all Veteran participants
+- A small number of Veterans who are not current MHV users navigated to and selected answers in “Medications” and “Test results”
+- There is nothing to indicate that the “vaccines” label was not clear since most Veterans ultimately selected that answer
+
+![image](https://user-images.githubusercontent.com/20994159/222251367-3c002f11-17b1-4d5d-bc89-ff2615835493.png)
+
+
+**Hypothesis**: Veterans will understand what types of information can be found in the “Test results”, "Health history" and "Medical records" sections
+
+**Related tasks**:
+6. You need to know when you had your last tetanus shot.
+
+
 ## Additional Insights
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
@@ -175,15 +235,24 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+- Slot travel pay in a more prominent position within the IA, and continue to crosslink from past appointments
+- Continue to refine the “Care notes and summaries” section as we learn more about the types of clinical notes, and consider an approach similar to labs and tests which doesn’t rely on Veterans to know the types and differences of various documents
+- Continue to refine the options in “Health history” to make them more clear and understandable
+- Move to qualitative research to gain further insights and feedback
+
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+Finalize labeling and structure for core features based on test results and build into designs 
+- In progress and will be worked into ongoing design efforts
+
+Move to qualitative research to gain further insights and feedback and refine 
+–  Additional research will be incorporated into product design cycles for each feature/tool
+
+Continue to build out and test IA to support additional features
+- Methodology and timing TBD based on needs
+
 
 
 ## Further research needed
@@ -193,33 +262,27 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Appendix
 
-[Research plan](link here)
-
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
+[Research plan]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-01-my-health-ia-tree-test/research-plan.md))
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+- All data and synthesis down via web interface of Optimal Workshop
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+- N/A
 
 
 ## Other supporting documents created
 
-e.g. user flows, personas, etc.
+[My health tree structure](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-01-my-health-ia-tree-test/my-health-dee-dive-ia-test.xlsx)
 
 
 ## Secondary research
 
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+- N/A
 
 
 ## Who we talked to 
@@ -228,79 +291,13 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+6 cohorts of 9 Veterans were recruited - 45 completed and were included in results
+- 23 have used MHV in last 12 months
+- 22 have not used MHV in the last 12 months (not required to have VA health care)
+54 attempted,  10 abandoned, 4 were removed from results (1 duplicate, 2 non-participatory, 1 high invalid responses)
 
-We talked to **x participants.**
-
-Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
-
-
-Gender:
-* Male: x 
-* Female: x 
-
-
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
-
-Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
-
-
-Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
-
-
-Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
-
-Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
-
-Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+- Participants recruited represented a diverse sample of Veterans composed of varying ages, races, genders, geographical locations, education levels, and cognitive abilities.
+- Optimal workshop does not currently support assistive screen readers, so participants that utilize assistive tech were not recruited in this test. 
 
 
 ## Underserved groups we haven’t talked to 
