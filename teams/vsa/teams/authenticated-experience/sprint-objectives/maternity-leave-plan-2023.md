@@ -80,13 +80,33 @@ We already have a packed quarter for when I am out. If there are requests that c
 
 ## For OCTO
 
-These are things that I have my eye on that need to be kept up with by whoever my OCTO replacement(s) is/are:
+### The auth experience team
+
+Right now, the auth experience team is roughly divided into two halves: the half that primarily works on the My VA dashboard and onsite notifcations work, and the half that works on all of the products in the VA.gov profile.
+
+However, this is not a strict binary, and some people float between efforts depending on capacity needs. We should staff work while I'm out according to the priority to the portfolio overall, not necessarily which half of the team people are usually on.
+
+#### Team members
+
+- **Ana (AJ) Jakabcin** - PM for the My VA/onsite notifications half of the team. **AJ does not manage profile work, nor does she (or do I expect her to) have familiarity with that half of the portfolio**.
+- **Berni Xiong** - Delivery manager; supports both halves of the team.
+- **Liz Lantz** - Senior designer; Working on the logged-in IA/nav research for now, but has primarily worked on the profile.
+- **Angela Agosto** - Designer primarily supporting My VA and onsite notifications.
+- **Florence McCafferty** - Designer primarily supporting the profile, or floating as needed to other priorities.
+- **Allison Lu** - Frontend developer primarily supporting My VA and onsite notifications.
+- **Adam Whitlock** - Frontend developer primarily supporting the profile.
+- **Tom Harrison** - Backend developer primarily supporting the profile, but has historically pitched in on the My VA half of the portfolio has needed.
+- **Derrick Ellerbie** - Full stack developer, starting out supporting the My VA dashboard, but can float as needed to other priorities. 
+
+Unfortunately, **we are still without a profile PM since the contract switch in December 2022**, which is a huge hole/risk to have that role open while I am out. I imagine someone will start while I am on leave, but truthfully, I don't know who will onboard them to the team without me here. AJ can maybe help with general PM onboarding, but not with profile specifics.
 
 ### MHV: Integrating their interface with VA Profile
 
 In order for VA.gov to incorporate the MHV notification preferences into our interface, MHV has to integrate their interface with the VA Profile backend for both contact information and notification preferences. I need someone on the OCTO side of things to keep up with Carnetta and the VA Profile team (Mike Richards etc) to make sure the MHV side of things is moving along. VA Profile's work on this is easy -- they already support contact info, and they have been able to get the MHV notification preferences in the backend fairly easily. Keeping up on what MHV is doing and making sure that is moving along is the harder part, and is what is a large dependecy for us to update the VA.gov interface.
 
 ### Stakeholders for OCTO replacement(s) to be aware of
+
+
 
 ### Necessary meetings for OCTO replacement(s) to sit in on
 
