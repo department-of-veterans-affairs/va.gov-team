@@ -1,3 +1,13 @@
+**Medical records domains**
+|Blue Button label | Suggested label|
+|:------|:-------|
+|VA Immunizations  |Vaccines|
+|VA Allergies |Allergies|
+|VA Problem List |Health conditions|
+|VA Vitals and Readings|Vitals|
+|VA Laboratory Results <br> VA Pathology Reports <br> VA Radiology Reports <br> VA Electrocardiogram (EKG) Reports |Lab and test results|
+|VA Admissions and Discharges <br> VA Notes|Care notes and summaries|
+
 **Vaccines**
 |Data field       | Description           | Suggested label | Notes             | Questions           
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
