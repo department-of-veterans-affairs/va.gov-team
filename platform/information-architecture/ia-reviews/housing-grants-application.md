@@ -1,9 +1,11 @@
-# IA Design for [Product/page name]
-**STATUS: [In progress/In review/Complete]**
+# IA Design for Form 26-4555
+**STATUS: In progress**
+- Edit history
+     - 3/1/23: Doc created (MN), edits (JM)
 
-**Team:** [Team name]
+**Team:** Digitize Team
 
-**IA Request:** [Link to Sitewide Content and IA intake request]
+**IA Request:** [Link to Sitewide Content and IA intake request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53077)
 
 **On this page:**
 - [User/page flows](#flows)
@@ -15,45 +17,56 @@
 
 
 ## <a name="flows"></a>User/page flows <br>
-*Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
 
 
 ## <a name="map"></a>Page structure<br>
-*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
+The digital form will live next to the 'How to apply' page on the same level. Currently, the eBenefits form is housed under 'How to apply', but we have removed links to this feature from the proposed site map below. This form will need to be retired and redirected accordingly, so we recommend working with stakeholders to ensure this flow is accounted for.
+
+<img width="634" alt="sitemap_image" src="https://user-images.githubusercontent.com/122128479/222255105-215c4776-edc7-4262-a3a0-64612d65e963.png">
+
 
 
 
 ## <a name="url"></a>URLs and breadcrumbs
-*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
-
-**1) [Page name] - [Existing/New]**
-- URL:
-- Breadcrumb: 
-- Notes: 
-
-**2) [Page name] - [Existing/New]**
-- URL:
-- Breadcrumb: 
-- Notes: 
+**1) H1 of page - New**
+- URL: www.va.gov/housing-assistance/disability-housing-grants/apply–grant-form-26-4555
+- Breadcrumb: Home > Housing assistance > Housing grants > H1 of page
+- Notes: We are proposing "grant" in the link as an identifier for this form. In addition, [information on /introduction]
 
 
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
 
 
-1. [Page URL or component name] - [Add/Modify/Remove]
-  - Placement description: 
-  - Link label: 
-  - Link destination: 
-  - Notes: 
+1. Housing assistance hub - Update link
+  - Placement description: The current link titled 'Apply for a Specially Adapted Housing grant' links to the 'How to apply' page. The title for this link will need to be updated so it reflects the page it links to.
+  - Link label: How to apply
+  - Link destination: www.va.gov/housing-assistance/disability-housing-grants/how-to-apply/
+  - Notes: The 'How to apply' page will serve as informational and the 'Apply for' page will be that actual application
+<img width="714" alt="Screenshot 2023-03-01 at 2 44 29 PM" src="https://user-images.githubusercontent.com/122128479/222260801-d24cbd0f-66d2-494c-a906-84a6f4d4effa.png">
 
-2. [Page URL or component name] - [Add/Modify/Remove]
+2. Housing assistance hub - Add
+  - Placement description: Under 'How to apply' (currently titled 'Apply for a Specially Adapted Housing grant')
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply–grant-form-26-4555
+  - Notes: 
+<img width="784" alt="Screenshot 2023-03-01 at 2 49 53 PM" src="https://user-images.githubusercontent.com/122128479/222261887-2ba25b49-5195-4795-8202-42858a6cf040.png">
+
+
+3. Housing assistance left nav - Add
+  - Placement description: Under 'How to apply' and above 'Check appeal status'
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply–grant-form-26-4555
+  - Notes: 
+ <img width="446" alt="Screenshot 2023-03-01 at 2 52 40 PM" src="https://user-images.githubusercontent.com/122128479/222262424-d2ed2ba0-4b82-4d62-9e59-c1dc83481e7e.png">
+
+ 
+4. Housing assistance top nav fly out - Add
   - Placement description: 
   - Link label:
   - Link destination: 
   - Notes: 
- 
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
