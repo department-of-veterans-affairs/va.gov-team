@@ -405,7 +405,7 @@ Observer ratings of start application task completion using rating criteria:
 
 - Implement recent household information optimization content updates ([in progress now for review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52920) and then FE) and then test in staging/production.
 - Draft research plan for next round of testing, including how to balance targeted and representational user flows.  
-- Content and business review of VA military service section, including clarification wording to dates and missing items in service list. 
+- Content and business review of military service section, including clarification wording to dates and missing items in service list. 
 
 
 
