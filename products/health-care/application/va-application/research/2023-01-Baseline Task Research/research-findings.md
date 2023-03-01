@@ -341,6 +341,7 @@ Observer ratings of start application task completion using rating criteria:
 - What are the downstream implications of not providing financial/household information? Slower time until decision for the Veteran because they have to supply this info anyways? Would this be an initially positive but long-term negative impact to the Veteran?
 
 > Key Finding 1: There was confusion or negative feelings around providing income and insurance information. 
+
 > Key Finding 4: Stopping/pausing points for information gathering occurred frequently around discharge papers (DD-214) and income or deductible information.
 
 
