@@ -102,3 +102,5 @@ Of the above categories, the issues that received the most responses were:
 * Search
 * Benefits
 * Travel
+
+The full categorization and responses can be viewed on the [Mural board](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1676311311015/b2f3b67b456d44341ed35a5e461d1868656b58c7?sender=u683996861c7842a72dea8966).
