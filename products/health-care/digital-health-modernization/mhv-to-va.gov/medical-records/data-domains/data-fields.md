@@ -59,7 +59,7 @@
 |All |Category |Type of test | |Is this information useful for patients? Could we remove this from the list view?|
 |All|Title of lab report (if available)|Test (suggest using this without a label as the card header in list, H1 in detail) |If there's no title/test name available, we could conditionally display the type of test as the card header in list, H1 in detail. Hopefully this is rare. |
 |All|Date collected |Date |
-|All|Ordering provider |Provider who ordered the test |
+|All|Ordering provider |Provider |
 |Radiology|Procedure/test name |Test ||Is this the same as "Title of lab report" in the All category above?|
 |Radiology|Date/time exam performed |Date you got the test |
 |Radiology|Ordering location| Where the test order started |
@@ -68,7 +68,7 @@
 |Radiology|Performing location| Where you got the test |
 |Radiology|Clinical history| | | | What does this mean? Is this medical history related to the reason for this test? |
 |Radiology|Radiologist|
-|Radiology|Report| | | |What does this mean? Is this where results are entered? |
+|Radiology|Report| | | |What does this mean? Is this equivalent to "Results" for other categories?|
 |Chemistry/hematology|Lab test name (if avail)| Test (suggest using without label as card header in list, H1 in detail) |
 |Chemistry/hematology|Date/time collected| Date and time you gave the sample |
 |Chemistry/hematology|Specimen| Sample tested |
@@ -77,7 +77,7 @@
 |Chemistry/hematology|Specific test-Units| Units | | Can we remove the "Units" field, and add the units to the result and reference range?|
 |Chemistry/hematology|Specific test-Reference range| Standard range ||Does the reference range adjust based on patient demographics or conditions?|
 |Chemistry/hematology|Specific test-Status| | | Under what circumstances would "status" be anything other than final? Can we remove this field?|
-|Chemistry/hematology|Specific test-Performing location| Lab that analyzed the sample|
+|Chemistry/hematology|Specific test-Performing location| Lab that analyzed the sample||Is this suggested label correct — does "performing location" mean the lab that analyzed the sample? |
 |Chemistry/hematology|Specific test-Interpretation| | | What types of information does this include? What guidance do providers see for field? <br> Who inputs this and the comments field? Ordering provider? PC? Lab technician? We don't want the user to think they can add their own comments.|
 |Chemistry/hematology|Ordering provider| Provider who ordered the test |
 |Chemistry/hematology|Ordering location| Where the test order started |
