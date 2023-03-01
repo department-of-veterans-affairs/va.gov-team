@@ -28,6 +28,6 @@ This directory contains information specific to overall content and IA strategy,
 - Results
 
 ### IA testing focused on My health - January 2023
-- Research and recruiting plan
-- H2 tree and task list
-- Results
+- [Research and recruiting plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-01-my-health-ia-tree-test/research-plan.md)
+- [H2 tree and task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-01-my-health-ia-tree-test/my-health-dee-dive-ia-test.xlsx)
+- [Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-01-my-health-ia-tree-test/my-health-tree-test-findings.md)
