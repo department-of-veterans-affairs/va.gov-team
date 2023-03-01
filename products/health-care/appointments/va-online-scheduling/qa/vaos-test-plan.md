@@ -10,6 +10,9 @@ _Enter brief description of the project_
  
 - [ ] Use Case 1
 
+Configuration setup in test environment must include: 
+  - [ ] _Enter the criteria for the setup to test_
+
 * **Description**
   - lorem ipsum
 
@@ -23,8 +26,6 @@ _Enter brief description of the project_
 * **Description**
   - lorem ipsum
 
-
-
 ### User flow
 - [ ] Figma file 
 
@@ -34,3 +35,14 @@ _Enter brief description of the project_
 
 ### Test Users 
 - Test user .MD file 
+
+### Summary Defect Report
+- [ ] TBD 
+
+### E2E tests 
+- [ ] _Developer to provide a link to the product's code_
+
+### Code coverage
+- [ ] _Developer to provide a link to the product's code_
+
+
