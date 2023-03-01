@@ -12,7 +12,7 @@ Period - 03/01/2023 - 03/14/2023
 - [ ] Complete spike for common framework for eVSS endpoint migration with the following outcome
    - [ ] Working software that can be used to implement a single endpoint migration
    - [ ] Identify what else is needed for endpoint migration framework
-   - [ ] Do we think we have capacity/time to start working on an actual endpoint migration?
+   - [ ] Do we think we have capacity/time to take on the rated disabilities endpoint migration?
  - [ ] Research Discovery
    - [ ] Identify ideas for improvement for core submission as identified by existing research 
    - [ ] Work with product/team to priortize these ideas and break them down for future work
