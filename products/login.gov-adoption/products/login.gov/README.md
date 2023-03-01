@@ -1,27 +1,51 @@
-# Adoption Outline
-
+# Login.gov Adoption Product Outline
 ---
 
-## Overview
-Currently, there are multiple ways to sign on and access VA services. These login options do not all meet required security standards and also create user frustration and confusion. The Login.gov adoption team aims to consolidate the pathways to sign in to VA.gov and provide Login.gov as a credential option while eliminating duplicative and non-compliant legacy credentials. 
-
-- One sign-on to access all products and services. Veteran choice of “public” or “private” credential option for VA.gov (Login.gov or ID.me).
-- All users will be migrated from legacy MHV and DS Logon credentials.
-- Veteran users who can't identity proof online can visit VAMCs to do so or have a remote video option.
-- Veteran users who are already visiting VAMCs regularly will be guided to create a Login.gov account and proof in person with coordinators.
-- Military personnel will be able to proof in person as part of the TAP curriculum and will have a proofed Login.gov account before they transition off active duty.
-
-
 ## Problem Statement
-The fragmented sign-in experience is confusing for Veterans and non-Veterans faced with multiple pathways and credential options. Further, the credential options are insecure, non-compliant, have poor user experience, or are expensive. VA needs a streamlined way for Veterans to sign-in and securely access products and services. 
 
-The External Facing Identity Strategy is focused on consolidating the pathways to sign-in to VA.gov and provide Login.gov as a credential option while eliminating duplicative and non-compliant legacy credentials. 
- 
+The VA currently has a fragmented approach to user authentication, with different systems requiring different login credentials. This can create confusion for users and result in a cumbersome login experience. Moreover, the use of different login systems can pose security risks, making it difficult to maintain robust security measures across all VA products and services.
+
+
+## Proposed Solution
+
+The adoption of Login.gov as a primary Credential Service Provider (CSP) for accessing all VA products and services aims to improve the user experience and reduce the burden on users. This solution will enable users to securely access all VA services with a single set of credentials, eliminating the need for multiple logins and associated complexities. This adoption will also improve security measures and protect users' information, by consolidating the login process and simplifying the process of accessing VA products and services.
+
+
+## User Groups
+
+
+
+* Users of VA digital tools
+
+
+## Key Features
+
+
+
+* Implementation of Login.gov (CSP) as a centralized single sign-on solution for accessing all VA products and services
+* Integration with existing VA digital tools
+* Streamlined login process for users
+* Enhanced security measures to protect users' information
+
+
+## Assumptions
+
+
+
+* Users will be receptive to the adoption of Login.gov as a single sign-on solution
+* The integration of Login.gov with existing VA digital tools will be feasible
+* The adoption of Login.gov will result in improved security measures for VA digital tools
+* Sending targeted comms is effectively the same as organic migration
+* Organic adoption flows already exist. No new functionality would need to be released for the purpose of this experiment.
+* Messaging will not mention urgency or sunsetting. Instead, we’ll rely on the value proposition: it’s more secure.
+* Messaging will be uniform across segments.
+* Depending on whether we want to test for IAL1 only, or full completion: We will be able to send participants down the path to get to IAL1 then stop (the flow won’t force them through identity verification/IAL2 automatically, and therefore won’t consider IAL1 incomplete/failure)
+
+
 ## Desired User Outcomes
 
 - A Veteran user will have more seamless and secure access to not only VA services, but other government agencies that use Login.gov. Their accounts and experience will be more secure and satisfying. 
-- For MHV users, they will be able to receive in-person help for signing up for Login.gov and identity proofing. This will ease the transition from using the legacy MHV credential and maintain their access to services. 
-- For new Veterans transitioning from the Department of Defense, they will not have to create a DS Logon account or deal with the poor user experience, only to be told that they need to transition to a new credential because DS Logon will eventually go away. They will be given a modern, easy to use credential more in line with their expectations and be fully identity proofed before they leave active duty.
+
 
 ## Undesired User Outcomes
 
@@ -37,79 +61,272 @@ The External Facing Identity Strategy is focused on consolidating the pathways t
 ## Undesired Business Outcomes
 
 
+
+## Dependencies
+
+
+
+* Collaboration with VA teams to ensure seamless implementation and integration with existing digital tools
+
+
+## Success Metrics
+
+
+
+* Increased adoption rate of Login.gov CSP
+* Improved user satisfaction with login experience
+* Reduced time spent by users navigating multiple login systems
+* Enhanced security measures and fewer security incidents
+
+
+## Key Performance Indicators (KPIs)
+
+
+
+* Email open rates
+* Interaction rates by segment
+* Conversion rates - IAL1 by segment
+* Conversion rates - IAL2 by segment
+* Abandon rates
+    * And where in the process they abandoned
+* Qualitative feedback on the process from Veterans:
+    * Good/bad experience ratings & related comments (via Feedback button on Drupal pages)
+    * Support tickets / call center reports?
+* Service completion: % of organic Login.gov IAL1 accounts successfully set up by users referred from VA.gov & related comms campaigns
+* Ease of use: Average time elapsed to set up IAL1 account
+* Other relevant data points:
+    * Unsuccessful organic adoption attempts: Dropoff points & reasons
+    * Comms campaign interactions & conversion rates
+
+
+## Launch Plan
+
+The adoption of Login.gov will be rolled out in phases.. The rollout will be communicated to users through various channels, including email, social media, and in-app messaging. User feedback will be collected through surveys and user testing to inform future iterations of the login process. Additionally, training and resources will be provided to VA employees to ensure a smooth rollout and successful adoption by users.
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/login.gov/release-plan.md)
+
+## Stage A: Canary
+
+_Test a small Veteran population to ensure any obvious bugs/edge cases are found._
+
+
+##### **Planning**
+
+
+
+* Length of time: [FILL_IN] (_minimum 2 hours_)
+* Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
+
+
+##### **Results**
+
+
+
+* Number of unique users: [FILL_IN]
+* Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the[ Rollout Planning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md#rollout-planning) section
+* Was any downstream service affected by the change?: [PICK_ONE]: yes | no | N/A
+* Types of errors logged: [FILL_IN]
+* What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN] \
+
+
+
 ---
-## Measuring Success
+
+**Organic adoption - Stage A: Canary**
 
 
-### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* [Login Metrics](https://analytics.google.com/analytics/web/#/dashboard/I6gZ1NVTT6ujnnu4hU1KLA/a50123418w177519031p176188361/_u.dateOption=last30days/)
-* _**Limit 5-6 KPIs per product**__
+<table>
+  <tr>
+   <td>Length of time
+   </td>
+   <td>
+    3-5 days
+   </td>
+  </tr>
+  <tr>
+   <td>Proposed dates
+   </td>
+   <td>
+    Target mid-March \
+Exact dates TBD - discuss with VA & Login help desk
+   </td>
+  </tr>
+  <tr>
+   <td>Percentage/estimated count of users
+   </td>
+   <td>
+    10% / 500 users
+   </td>
+  </tr>
+  <tr>
+   <td>Location(s)
+   </td>
+   <td>
+<ul>
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+<li>(Modal) at application level after sign-in (via DSL, who don’t yet have existing ID.me or Login.gov account)
 
-#### Baseline KPI Values
-* TBD
+<li>Or:
 
-### Objectives and Key Results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
+<li>VA.gov sign-in page:  
+<ul>
+ 
+<li>Intercept users who click on DSL or MHV, show (modal)
+ 
+<li>More disruptive UX, therefore more likely to get dismissed by users?
+</li> 
+</ul>
 
-- Objective:
-  - Key result: Increase Login.gov adoption
-  - Key result: 
+<li>And:
 
+<li>Are you sure? message for users that X out of (modal)
 
----
+<li><del>Tie to inactivity pop-up</del> 
+<ul>
+ 
+<li>Not likely to get lots of interactions in this moment?
+</li> 
+</ul>
 
-## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+<li>Failure message
 
-## Solution Approach
+<li>Confirmation email
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Google Analytics tag(s)
+   </td>
+   <td>lga-organic
+   </td>
+  </tr>
+  <tr>
+   <td>Feature toggle name
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Feature toggle description
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Rollback plan
+   </td>
+   <td>Our PM and PO will monitor analytics. If they see a spike in errors or support tickets, they will contact the engineering team to get the FE engineer to disable the toggle.
+   </td>
+  </tr>
+  <tr>
+   <td>Messaging 
+   </td>
+   <td>(Value prop messages? One credential for everything, safety, security, ease of setup, etc)
+<ul>
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+<li>No urgency messaging
 
-### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
+<p>
+(Consider A/B testing different messages, but not as part of this experiment)
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>CTA
+   </td>
+   <td>Set up your Login.gov account now
+<p>
+(+ Learn more?)
+   </td>
+  </tr>
+  <tr>
+   <td>Links to
+   </td>
+   <td>Account setup - full IAL2
+   </td>
+  </tr>
+  <tr>
+   <td>Metrics at this stage
+   </td>
+   <td>
+<ul>
 
-- Initiative | [Link to Initiative Brief](#)
+<li>CTA clicks
 
---- 
+<li>(If we do “Are you sure:” CTA clicks)
 
-## Launch Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+<li>(If we have a landing page: Landing page CTA clicks)
 
-## Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
+<li>Login.gov account set-up attempts
 
----
+<li>Dropoff points
 
-## Solution Narrative
+<li>Success rate: IAL1 accounts
 
-### Current Status
+<li>Success rate: IAL2 accounts
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Dashboard to track metrics
+   </td>
+   <td><a href="https://docs.google.com/document/d/1X5A69Jqx4xQyJje3Cwbp8e_aOH7EYS2rjmkWe6_kHiA/edit#">Link goes here</a>
+   </td>
+  </tr>
+  <tr>
+   <td>Downstream effects to monitor
+   </td>
+   <td>
+<ul>
 
-### Key Decisions
+<li>Help desk / support ticket volume
 
----
-   
-## Screenshots
+<li>In-person support via USPS, MHV Coordinators
 
-### Before
+<li>Chatbot
 
-### After
+<li>Qualitative feedback via (surveys?)
+
+<li>Discuss (& project) support request volume with support managers during AAR
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Usability & accessibility issues to watch for
+   </td>
+   <td>
+<ul>
+
+<li>IAL1 challenges: 
+<ul>
+ 
+<li>MFA setup
+ 
+<li>MFA setup for screen reader users
+</li> 
+</ul>
+
+<li>IAL2 challenges: 
+<ul>
+ 
+<li>Identity proofing
+</li> 
+</ul>
+</li> 
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Criteria to proceed to next stage
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
 
 ---
 
