@@ -13,14 +13,15 @@ Identify problems and expectations with navigating the logged-in experience on V
 - Can people find tasks they need to complete? Can they do this without the homepage/My VA links?
 - How can we make the site easier to navigate for logged-in users?
 
-### Secondary
+### Things to watch out for, if applicable
 
-If possible, it would be helpful to note/capture the following:
+If possible, it would be helpful to note/capture the following. You do not need to go out of your way to create tasks around these, but we'd definitely want notes on the following if/when they come up:
 
 - What prompts people to sign-in to the site (eg. do they do it right away? do they wait until they get to a content page with a sign in prompt? do they use the sign in button in the main nav, or on the homepage?)
 - Does the homepage need to exist when users are logged-in? Can My VA replace it?
 - Is there confusion among the homepage vs. My VA vs. the new health hub landing page? 
   - Note: there is going to be work done on the health apartment team specifically targeting this question, but if you happen to observe anything that could give us insight or be useful to that team, it's worth noting.
+- Does the layout of content pages that lead to tools affect the user experience of navigating to tools? 
 
 ## Methods
 
@@ -38,6 +39,7 @@ If possible, it would be helpful to note/capture the following:
 
 - We haven't decided if this research is veteran-only, or if we should open to other user types. I think this could go either way, but I would say that veterans should be the main focus.
 - Re: how many people to talk to -- this might depend on different user types. I don't think you need to talk to 10 veterans, but 10 people might be an appropriate number of people to talk to if that's a combo of veterans, dependents, caregivers, etc.
+- We should include assistive tech users, but we can include a combo of people who both do and do not use assistive tech.
 
 ## Stakeholders
 
