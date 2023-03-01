@@ -86,3 +86,8 @@ These are things that I have my eye on that need to be kept up with by whoever m
 
 In order for VA.gov to incorporate the MHV notification preferences into our interface, MHV has to integrate their interface with the VA Profile backend for both contact information and notification preferences. I need someone on the OCTO side of things to keep up with Carnetta and the VA Profile team (Mike Richards etc) to make sure the MHV side of things is moving along. VA Profile's work on this is easy -- they already support contact info, and they have been able to get the MHV notification preferences in the backend fairly easily. Keeping up on what MHV is doing and making sure that is moving along is the harder part, and is what is a large dependecy for us to update the VA.gov interface.
 
+### Stakeholders for OCTO replacement(s) to be aware of
+
+### Necessary meetings for OCTO replacement(s) to sit in on
+
+
