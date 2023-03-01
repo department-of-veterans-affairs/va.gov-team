@@ -15,6 +15,9 @@ This research will build on [discovery research](https://github.com/department-o
 * un-housed Veterans
 * Veterans with severe cognitive disabilities
 
+For reference, here's a quote submitted by a Veteran on the My VA page after sign in (through Medallia):
+> This system assumes that all Veterans have access to the internet or a laptop…it also assumes that all veterans have a smartphone, to which they must receive a call or a text, as an additional requirement to login.,, the system assumes the veteran will connectivity, which does not exist in areas, or assumes the veteran can afford to have a phone or internet, or understands how to navigate the system process physically or mental capable or doing either, These assumptions are from those who have never served or spend too much time, encapsulated in a dream of a perfect world.
+
 ## Research Goals
 We still need to write and agree on research goals for this future study.
 
