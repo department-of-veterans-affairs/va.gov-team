@@ -388,8 +388,10 @@ Observer ratings of start application task completion using rating criteria:
 
 
 ### Recommendation 6
-How to proceed with birth sex and gender identity questions? 
-- On paper SIGI is used for both Veteran and Spouse, and birth sex is used only for Veteran. 
+**Additional discovery on how to proceed with birth sex and gender identity questions.** 
+
+- On paper SIGI is used for both the Veteran and Spouse, and birth sex is used only for the Veteran. 
+- What is needed for enrollment only needs?
 
 > Additional Insight 3: Participants called out the birth sex question and expectation of having gender identity options to choose from here or on another page.
 
