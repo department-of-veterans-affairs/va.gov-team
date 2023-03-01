@@ -106,7 +106,11 @@ In order for VA.gov to incorporate the MHV notification preferences into our int
 
 ### Stakeholders for OCTO replacement(s) to be aware of
 
+#### VA Profile
 
+- Mike Richard (Michael.Richard2@va.gov) -- Mike is a contractor PM for VA Profile, and he's usually the first person I go to re: VA Profile efforts.
+- Barbie Flowers (barbara.flowers3@va.gov) -- VA lead for VA Profile.
+- Joshua Lindsey (jlindsey@meetveracity.com) -- Lead VA Profile architect for technical questions/issues.
 
 ### Necessary meetings for OCTO replacement(s) to sit in on
 
