@@ -54,7 +54,7 @@
 |Comments |
 
 **Lab and test results**
-|Category |Data field| Suggested label | Notes | Questions |
+|Category | Data field | Suggested label | Notes | Questions |
 |:----------------|:-------------|:----------------|:------------------|:--------------------|
 |All |Category |Type of test | |Is this information useful for patients? Could we remove this from the list view?|
 |All|Title of lab report (if available)|Test (suggest using this without a label as the card header in list, H1 in detail) |If there's no title/test name available, we could conditionally display the type of test as the card header in list, H1 in detail. Hopefully this is rare. |
@@ -66,7 +66,7 @@
 |Radiology|Requesting provider| Provider who ordered the test | | | In Chem/Hem and Microbio, the field is labeled “Ordering Provider”. Should this change?|
 |Radiology|Reason for study| Reason for the test |
 |Radiology|Performing location| Where you got the test |
-|Radiology|Clinical history| | | |What does this mean? Is this medical history related to the reason for this test? |
+|Radiology|Clinical history| | | | What does this mean? Is this medical history related to the reason for this test? |
 |Radiology|Radiologist|
 |Radiology|Report| | | |What does this mean? Is this where results are entered? |
 |Chemistry/hematology|Lab test name (if avail)| Test (suggest using without label as card header in list, H1 in detail) |
@@ -74,17 +74,17 @@
 |Chemistry/hematology|Specimen| Sample tested |
 |Chemistry/hematology|Specific test-name| Test |
 |Chemistry/hematology|Specific test-results| Results |
-|Chemistry/hematology|Specific test-Units| Units | | |Can we remove the "Units" field, and add the units to the result and reference range?|
+|Chemistry/hematology|Specific test-Units| Units | | Can we remove the "Units" field, and add the units to the result and reference range?|
 |Chemistry/hematology|Specific test-Reference range| Standard range ||Does the reference range adjust based on patient demographics or conditions?|
-|Chemistry/hematology|Specific test-Status| | | |Under what circumstances would "status" be anything other than final? Can we remove this field?|
+|Chemistry/hematology|Specific test-Status| | | Under what circumstances would "status" be anything other than final? Can we remove this field?|
 |Chemistry/hematology|Specific test-Performing location| Lab that analyzed the sample|
-|Chemistry/hematology|Specific test-Interpretation| | | | What types of information does this include? What guidance do providers see for field? <br> Who inputs this and the comments field? Ordering provider? PC? Lab technician? We don't want the user to think they can add their own comments.|
+|Chemistry/hematology|Specific test-Interpretation| | | What types of information does this include? What guidance do providers see for field? <br> Who inputs this and the comments field? Ordering provider? PC? Lab technician? We don't want the user to think they can add their own comments.|
 |Chemistry/hematology|Ordering provider| Provider who ordered the test |
 |Chemistry/hematology|Ordering location| Where the test order started |
 |Chemistry/hematology|Collected location| Where you gave the sample |
-|Chemistry/hematology|Comments| | | |How is this different from Interpretation field? |
-|Chemistry/hematology|Performing Location| Lab that analyzed the sample | | |It seems that this field is referring to the overall lab results, and not related to individual tests. If all of the tests were performed in other locations, what is this field referring to?|
-|Microbiology|Lab type | | | |What types can you choose from here? A: The value will always be "Microbiology" |
+|Chemistry/hematology|Comments| | |How is this different from Interpretation field? |
+|Chemistry/hematology|Performing Location| Lab that analyzed the sample | | It seems that this field is referring to the overall lab results, and not related to individual tests. If all of the tests were performed in other locations, what is this field referring to?|
+|Microbiology|Lab type | | | What types can you choose from here? A: The value will always be "Microbiology" |
 |Microbiology|Lab test (aka name, not always present)| Test |
 |Microbiology|Date collected| Date you gave the sample |
 |Microbiology|Date completed (not always present)| Date completed |
@@ -98,8 +98,8 @@
 |Pathology|Date obtained| Date you gave the sample | |Does "gave" work in this context? This may happen in the context of surgery, etc, as opposed to going to a lab to give blood|
 |Pathology|Performing location| Lab that analyzed the sample |
 |Pathology|Date completed| Date completed |
-|Pathology|Report| | | |What does this mean? Is this where results are entered? |
-|EKG|Procedure/test name| Test | | |For this category, this field will always read "Electrocardiogram (EKG)"|
+|Pathology|Report| | | What does this mean? Is this where results are entered? |
+|EKG|Procedure/test name| Test | For this category, this field will always read "Electrocardiogram (EKG)"|
 |EKG|Date/time performed| Date and time of the test |
 |EKG|Ordering location| Where the test order started |
 
