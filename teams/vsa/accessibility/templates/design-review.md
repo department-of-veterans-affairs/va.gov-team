@@ -27,7 +27,7 @@ Based on the development of the prototype, some of the following may or may not 
   - [ ] [Tables (heading rows)](https://design.va.gov/components/table)
   - [ ] [Forms](https://design.va.gov/components/form/) 
 - [ ] Size of clickable areas
-- [ ] [Components](https://design.va.gov/components/)follow VA design system guidance.
+- [ ] [Components](https://design.va.gov/components/) follow VA design system guidance.
 - [ ] [Patterns](https://design.va.gov/patterns/) follow VA design system guidance.
 
 ## Prototype Link
