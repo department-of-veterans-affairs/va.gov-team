@@ -1,5 +1,7 @@
 # User research guidance
 
+**Last updated: March 1, 2023**
+
 Given that I (Samara) will likely be out as this research is planned and happens, this is some guidance on how to create a research plan that gets at what we are hoping to capture in this research.
 
 **That being said, Mikki and Chante should also co-sign on this to make sure that we are in alignment**.
