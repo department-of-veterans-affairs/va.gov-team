@@ -41,8 +41,9 @@ If possible, it would be helpful to note/capture the following. You do not need 
 - Re: how many people to talk to -- this might depend on different user types. I don't think you need to talk to 10 veterans, but 10 people might be an appropriate number of people to talk to if that's a combo of veterans, dependents, caregivers, etc.
 - We should include assistive tech users, but we can include a combo of people who both do and do not use assistive tech.
 
-## Stakeholders
+## OCTO & contractor partners
 
-- Assuming I am out while this happens, Mikki and Chante are leading this work from the OCTO perspective.
-- The health apartment team (ie. Lauren & co) have interest in this work too, though this should not turn into something solely focused on health tasks or the new health experience. 
-- Please review the the research plan with Mikki, Chante, Lauren Alexanderson (if she has bandwidth), and Coulton Bunney for feedback/input.
+- Assuming I am out while this happens, Mikki Northuis and Chante Lantos-Swett are leading this work from the OCTO perspective.
+- The health apartment team (ie. Lauren Alexanderson & co) have interest in this work too, though this should not turn into something solely focused on health tasks or the new health experience. 
+- For OCTO: Please review the the research plan with Mikki, Chante, Lauren Alexanderson (if she has bandwidth), and Coulton Bunney for feedback/input.
+- For contractors: Please consult with Robyn Singleton (health apartment; doing research on how to reconcile the homepage/My VA/health landing pages) and Cindy Merrill (research for the sitewide team) to make sure this work compliments research they are doing. Mikki is involved in all efforts, so she can help connect dots as well.
