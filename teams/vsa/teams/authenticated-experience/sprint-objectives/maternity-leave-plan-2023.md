@@ -47,7 +47,11 @@ Behind the scenes, Samara is coordinating backend implementation of the MHV noti
 - **Status**: User research planning; User research; Generating a report that summarizes all research activities
 - [Long-term planning](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=189401760)
 
+**Note: Liz Lantz, who is primarily in the profile half of the portfolio, will be leading this from the auth exp team perspective. However, this is not solely a profile project**.
+
 In Q2 of the calendar year, we'll be running some generative user research to uncover what problems people have navigating the logged-in experience. After research synthesis, we'll work with Mikki and Chante to figure out next steps.
+
+**Note**: Liz Lantz, who is primarily in the profile half of the portfolio, will be leading this from the auth exp team perspective. However, this is not solely a profile project.
 
 ## Necessary maintenance
 
@@ -160,7 +164,9 @@ I've historically been tapped into some transition-related work, but I am only f
 - **MHV on VA.gov weekly standup**: Wednesdays at 11:30 ET.
 - **VA Profile biweekly check-in**: Every other Thursday at 3:30 ET.
 - **VANotify biweekly sync**: Every other Tuesday at 2:00 ET.
+- **Logged-in IA/nav research and project coordination**: Every Wednesday at 10:00 ET with Mikki and Chante (and if Mikki or Chante replaces me in any capacity, they already know about this meeting!).
 
 *Meetings to be aware of*
 
 - **eBenefits "Early Comms" meeting**: Every other Tuesday at 2:30 ET. This has to do with notifications/preferences around notifications that lived in eBenefits. These have been going on for months, and there has been little movement, so I would say my replacement does not need to attend these unless it becomes clear that a new preference needs to be added to the VA.gov profile. I would rely on VANotify (Bev and Melanie) and VA Profile to keep my replacement posted and pull them in if necessary.
+- **VEO transition calls**: One is biweekly every other Tuesday at 3:00 ET; the other is every week on Thursdays at 1:00 ET. I would work with Chris/Steve K/Mike Land to figure out how tapped into this work VA.gov needs to remain, and who should attend any calls.
