@@ -122,7 +122,7 @@ VEO conducted a huge research effort last year around veteran transtion. In the 
 
 #### MHV
 
-- Carnetta Scruggs (carnetta.scruggs@va.gov) -- I've been keeping in touch with Carnetta re: the work MHV needs to do to connect to VA Profile. There's not much we can actually do on this front -- MHV has to do the work -- but it would be helpful to check in with Carnetta periodically on this. VA Profile can also help keep you updated on that effort.
+- Carnetta Scruggs (carnetta.scruggs@va.gov) -- I've been keeping in touch with Carnetta re: the work MHV needs to do to connect to VA Profile. There's not much we can actually do on this front -- MHV has to do the work -- but it would be helpful to check in with Carnetta periodically on this. VA Profile can also help keep my replacement updated on that effort.
 
 #### VANotify
 
