@@ -12,12 +12,8 @@ Additional, specific responsibilities related to these categories are described 
            * Ensure product documentation is accurate, useful, and not out of date 
 
 * The Product Manager is responsible for 
-
            * Ensuring the team understands the product direction and goal and deliver towards it 
-
            * Writing and contributing to product documentation 
-
- 
 
 **Communication:** Foster healthy, open communication and blameless incident responses to continuously improve and grow as a team. Communicate in as open a channel as often as possible so that others may benefit — now or later while searching resources like GitHub or Slack.  
 
