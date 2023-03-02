@@ -9,7 +9,7 @@
 
 |Product Name| OCTO Crew| OCTO Product Owner| Product Manager| Product Outline |
 |---|---|---|---|---|
-| CDS Application: COVID-19 Patient Manager | Health | Shane Elliot | Peter Koutsovitis | [Product Outline](LINK) |
+| CDS Application: COVID-19 Patient Manager | Health | Shane Elliot | Peter Koutsovitis | [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/b5069a80fd6a9b990d263c690f76ff9058f2cae9/products/health-care/clinical-decision-support/covid-patient-manager/README.md) |
 | CDS Application: Lung Cancer Screen/Nodule Tracking | Health | Shane Elliot | Peter Koutsovitis | [Product Outline](LINK) | 
 | CDS Application: Precision Oncology | Health | Shane Elliot | Peter Koutsovitis | [Product Outline](LINK) |
 | CDS Application: STORM Opioid Management | Health | Shane Elliot | Dr. Jodie Trafton | [Product Outline](LINK) |
