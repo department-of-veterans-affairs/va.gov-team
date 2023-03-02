@@ -75,7 +75,7 @@ Assuming we have availability, we can leverage the updated claim status integrat
 
 ## What about other work?
 
-We already have a packed quarter for when I am out. If there are requests that come in, the OCTO lead(s) should work with the PMs to slot those in to planning **if time allows**. If the team is full and does not have bandwidth, do not hesitate to communicate that to stakeholders and work to figure out on what timeline we might be able to get to the work. The auth exp team is very capable, and I trust them to communicate when they do and do not have bandwidth accurately.
+We already have a packed quarter for when I am out. If there are requests that come in, the OCTO lead(s) should work with the PMs to slot those in to planning **if time allows**. If the team is full and does not have bandwidth, do not hesitate to communicate that to stakeholders and figure out on what timeline we might be able to get to the work. The auth exp team is very capable, and I trust them to communicate when they do and do not have bandwidth accurately.
 
 ### VA Profile work that they might want us to start while I am out
 
