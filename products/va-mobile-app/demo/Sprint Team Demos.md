@@ -9,7 +9,11 @@ Agenda
   -  Haptics - Therese
   -  What's New - Dylan
 -  Slides [VA Health and Benefits App Demo 030223.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/10875367/VA.Health.and.Benefits.App.Demo.030223.pdf)
-- Demo Video - to be added soon
+- Demo Video Haptics -  https://user-images.githubusercontent.com/116006847/222553252-402eb233-a432-4527-a5b7-17d75fbf94ce.mp4
+- Demo Video What's New In App UI - https://user-images.githubusercontent.com/116006847/222553307-9a2b9a09-13ca-49ac-bdc6-abf1befdc87c.mp4
+
+
+
 
 
 
