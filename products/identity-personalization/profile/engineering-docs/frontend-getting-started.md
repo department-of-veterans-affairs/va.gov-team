@@ -53,26 +53,47 @@ when run from the main root of the vets-website repo, this will boot a mock serv
 
 ---
 
+open Cypress with the interactive UI application to run individual e2e tests visually. This can be useful to run particular tests, but can also be buggy and lag depending on your setup. For ANY cypress tests (ui or headless) the vets website watch command needs to be running locally in some variation so that the UI loads, but the mock api SHOULD NOT be running when executing e2e tests.
+
 ``` bash
 yarn cy:open
 ``` 
-
-open Cypress with the interactive UI application to run individual e2e tests visually. This can be useful to run particular tests, but can also be buggy and lag depending on your setup. For ANY cypress tests (ui or headless) the vets website watch command needs to be running locally in some variation so that the UI loads, but the mock api SHOULD NOT be running when executing e2e tests.
-
 ---
+
+run all e2e tests in headless mode. This is generally faster than the UI mode, and instead of passing a glob pattern, you could also just pass a path to a single test to run instead. (see vets-website readme for more cypress command examples)
 
 ``` bash
 yarn cy:run --spec "src/applications/personalization/profile/tests/e2e/**/*"
 ```
-
-runs all e2e tests in headless mode. This is generally faster than the UI mode, and instead of passing a glob pattern, you could also just pass a path to a single test to run instead. (see vets-website readme for more cypress command examples)
-
 ---
+
+run all unit tests within the profile. A glob pattern can be substituted for single test file path as well.
 
 ``` bash
 yarn test:unit src/applications/personalization/profile/tests/**/*.unit.spec.js*
 ``` 
-runs all unit tests within the profile. A glob pattern can be substituted for single test file path as well.
+---
+
+run unit test for a particular file, and also generate code coverage for that singular file
+
+``` bash
+NODE_ENV=test npx nyc --all --include="src/applications/claims-status/containers/YourClaimLetters" npm run test:unit -- src/applications/claims-status/tests/components/claim-letters/YourClaimLetters.unit.spec.jsx
+```
+---
+
+generate test coverage for a specific app
+
+``` bash
+yarn test:coverage --app-folder profile
+```
+
+then run
+
+``` bash
+node script/app-coverage-report.js
+```
+
+To view more details, you can open `coverage/coverage-summary.json` after the coverage report is generated
 
 ---
 	
