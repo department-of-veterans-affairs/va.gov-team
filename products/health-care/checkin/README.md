@@ -63,6 +63,10 @@
 - [Staff-Facing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/staff-facing)
 - [Veteran-Facing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing)
 
+## Translations
+- [Main page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/translations)
+- [Process to submit translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/submit-translations-to-state-department.md)
+
 ## Engineering
 - [Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/architecture-diagrams)
 - [QA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/qa)
