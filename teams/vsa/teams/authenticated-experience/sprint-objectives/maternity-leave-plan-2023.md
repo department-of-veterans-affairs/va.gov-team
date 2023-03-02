@@ -155,5 +155,12 @@ I've historically been tapped into some transition-related work, but I am only f
 
 #### Stakeholder meetings
 
+*Required meetings*
+
 - **MHV on VA.gov weekly standup**: Wednesdays at 11:30 ET.
 - **VA Profile biweekly check-in**: Every other Thursday at 3:30 ET.
+- **VANotify biweekly sync**: Every other Tuesday at 2:00 ET.
+
+*Meetings to be aware of*
+
+- **eBenefits "Early Comms" meeting**: Every other Tuesday at 2:30 ET. This has to do with notifications/preferences around notifications that lived in eBenefits. These have been going on for months, and there has been little movement, so I would say my replacement does not need to attend these unless it becomes clear that a new preference needs to be added to the VA.gov profile. I would rely on VANotify (Bev and Melanie) and VA Profile to keep my replacement posted and pull them in if necessary.
