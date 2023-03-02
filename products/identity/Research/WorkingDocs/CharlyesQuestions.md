@@ -1,3 +1,5 @@
+Separate but related to [Research Questions Across Products](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-01-Research-questions-across-products.md)
+
 ## Generic Questions
 ### Communication Options
 * How do Vets learn about VA.gov?  
