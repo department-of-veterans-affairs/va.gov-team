@@ -17,6 +17,7 @@
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Angela Agosto |Designer| angela.agosto@adhocteam.us |
 |Allison Lu| FE Engineer|	allison@cityfriends.tech |
+|Derrick Ellerbie | Full Stack Engineer | derrick.ellerbie@Agile6.com|
 
 
 ### Table of Contents
