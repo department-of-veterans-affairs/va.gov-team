@@ -24,6 +24,7 @@ At the highest level, the core disability experience team is here to own, from t
 | Aurora Hampton | Engineer | aurora.hampton@agile6.com |
 | Cole Voss | Engineer | cole@verdance.co |
 | Eddie Glenn | Engineer | eddieglenn@navapbc.com |
+| Seth Darr | Engineer | seth.darr@agile6.com |
 
 ## Product outline
 
