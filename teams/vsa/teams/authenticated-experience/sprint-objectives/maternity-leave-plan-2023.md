@@ -145,9 +145,7 @@ These are the folks overseeing the EVSS > Lighthouse migration:
 
 #### Other potential people you might hear from
 
-I've historically been tapped into some transition-related work, but I am only following that lightly now. So, you may (or may not) hear from the following:
-
-- Bill Brinley (William.Brinley@va.gov) -- VA lead on something called the "Enhanced Statement of Benefits". He is working with a MITRE team on this, and they have weekly meetings, which I *do not* attend. So, you might hear from him, or the contract lead (Lynn B Jones <lbjones@mitre.org>) on this.
+- Bill Brinley (William.Brinley@va.gov) -- VA lead on something called the "Enhanced Statement of Benefits". They have weekly meetings, which I *do not* attend anymore, but used to be involved in. So, you might hear from him, or the contract lead (Lynn B Jones <lbjones@mitre.org>) on this.
 
 ### Meetings for OCTO replacement(s) 
 
