@@ -85,7 +85,7 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 	
 ## Recruitment
 
-Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions** using the criteria below. 
+Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions** using the criteria below, which are also in this [recruitment intake ticket](). 
 
 ### Required criteria 
 - NONE have VA health care
@@ -112,6 +112,11 @@ Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions**
      1. No  *(RECRUIT)*
      1. Yes *(disqualify)*
      1. I don't know *(disqualify)*
+
+1. Do you receive a pension from the VA? *(RECORD)*
+     1. No  *(RECRUIT 7)*
+     1. Yes 
+     1. I don't know 
 
 1. What time zone are you located in? *(RECORD)*
 
