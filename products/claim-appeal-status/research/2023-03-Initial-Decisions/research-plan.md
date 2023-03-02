@@ -25,7 +25,7 @@ With this research, we are hoping to speak with Veterans who have filed disabili
 
 
 ### Outcome
-This research will include two parts. In one, we will get some foundational qualitative data to strengthen our understanding of decision review options from the Veteran perspective. In the second, we will test a quick concept prototype to see if Veterans find value in this type of digital self-service tool. Based on the findings, we will proceed with our product development to identify ways in which we can address Veteran pain points. 
+We will use this study to get some foundational qualitative data to strengthen our understanding of the initial decision review process from the Veteran perspective. We aim to identify pain points in that process, especially those related to the Claim Status Tool, that our team can can solve for. The scope of the research will be broad, but we will be looking specifically for feedback about CST, evidence submission, and C&P exams. We are hoping to improve CST in ways that will reduce the overall time that initial decisions take.
 
 ### Research questions
 Part 1: General questions
@@ -58,13 +58,10 @@ Part 2: Concept prototype
 - We have a hypothesis that self-service works well for simplified or automated use cases. In this scenario, the simplified PACT Act experience enabled via automation might be the use case that works best in a digital self-service environment.
 
 ## Methodology	
-As mentioned above, the research sessions will be broken into two parts: 
 
-**Part 1: Semi-structured interviews** 
+**Semi-structured interviews** 
 The interviewer will ask the Veterans a series of questions with the goal of learning more about their decision review experience and the pain points they encountered. The goal of this is generative – to try and elecit problems that the team can solve with subsequent design ideation.
 
-**Part 2: Reaction to concept prototype** 
-We will be using a concept prototype for this, meaning we won't be looking for perfect usability. The goal is also generative: to explore whether this type of tool would be useful to Veterans, and also to see if there are any obvious gaps in its content that need to be filled in a subsequent iteration.
 
 ### Location
 Remote on Zoom
@@ -72,7 +69,6 @@ Remote on Zoom
 ### Research materials
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/conversation-guide.md)
-- [Concept prototype](https://www.sketch.com/s/a54a9f34-e844-4d75-a458-502fe4e643e6/p/3D7AE506-1582-440A-807F-56656F277DB9/canvas)
 	
 ## Recruitment	
 
