@@ -6,6 +6,7 @@
 - [Releases](#releases)
 - [Process](#process)
 - [Discovery and Research](#discovery-and-research)
+- [Translations](#translations)
 - [Engineering](#engineering)
 - [Service Now Knowledge Articles for Support](#service-now-knowledge-articles-for-support)
 
