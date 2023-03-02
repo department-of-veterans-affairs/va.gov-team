@@ -51,7 +51,7 @@ In Q2 of the calendar year, we'll be running some generative user research to un
 
 ## Necessary maintenance
 
-This doesn't align with OCTO objectives, but this is work we have to get done in order to continue to support critical existing integrations:
+This doesn't align with OCTO objectives, but this is work we have to get done in order to continue supporting critical existing integrations:
 
 ### EVSS > Lighthouse migrations
 
@@ -100,9 +100,15 @@ However, this is not a strict binary, and some people float between efforts depe
 
 Unfortunately, **we are still without a profile PM since the contract switch in December 2022**, which is a huge hole/risk to have that role open while I am out. I imagine someone will start while I am on leave, but truthfully, I don't know who will onboard them to the team without me here. AJ can maybe help with general PM onboarding, but not with profile specifics.
 
-### MHV: Integrating their interface with VA Profile
+### Efforts I'm tapped into
+
+#### MHV: Integrating their interface with VA Profile
 
 In order for VA.gov to incorporate the MHV notification preferences into our interface, MHV has to integrate their interface with the VA Profile backend for both contact information and notification preferences. I need someone on the OCTO side of things to keep up with Carnetta and the VA Profile team (Mike Richards etc) to make sure the MHV side of things is moving along. VA Profile's work on this is easy -- they already support contact info, and they have been able to get the MHV notification preferences in the backend fairly easily. Keeping up on what MHV is doing and making sure that is moving along is the harder part, and is what is a large dependecy for us to update the VA.gov interface.
+
+#### VEO transition efforts.
+
+VEO conducted a huge research effort last year around veteran transtion. In the fall, they put together a cross-departmental working group to figure out how to improve transition. Their solution is a checklist-based app, and they are trying to figure out how to get someone either at DoD or VA to take this on at the moment. I've been going to these meetings as a rep from VA.gov, but I have let them know I am not available until after my maternity leave at this point. While it is unclear what kind of involvement VA.gov might have going forward, they'll likely want someone from our team tapped into that work. Mike Land might be picking this up, or potentially Steve Kovacs.
 
 ### Stakeholders for OCTO replacement(s) to be aware of
 
@@ -111,6 +117,25 @@ In order for VA.gov to incorporate the MHV notification preferences into our int
 - Mike Richard (Michael.Richard2@va.gov) -- Mike is a contractor PM for VA Profile, and he's usually the first person I go to re: VA Profile efforts.
 - Barbie Flowers (barbara.flowers3@va.gov) -- VA lead for VA Profile.
 - Joshua Lindsey (jlindsey@meetveracity.com) -- Lead VA Profile architect for technical questions/issues.
+
+#### MHV
+
+- Carnetta Scruggs (carnetta.scruggs@va.gov) -- I've been keeping in touch with Carnetta re: the work MHV needs to do to connect to VA Profile. There's not much we can actually do on this front -- MHV has to do the work -- but it would be helpful to check in with Carnetta periodically on this. VA Profile can also help keep you updated on that effort.
+
+#### VANotify
+
+Both halves of the team work a fair bit with VANotify. That's Bev, obviously, and also Melanie Jones (melanie.jones@oddball.io).
+
+#### VEO
+
+- Jon Pruett (Jonathan.pruett@va.gov) -- VEO transition team.
+- Mandy Tepfer (amanda.tepfer@va.gov) -- VEO transition team.
+
+#### Other potential people you might hear from
+
+I've historically been tapped into some transition-related work, but I am only following that lightly now. So, you may (or may not) hear from the following:
+
+- Bill Brinley (William.Brinley@va.gov) -- VA lead on something called the "Enhanced Statement of Benefits". He is working with a MITRE team on this, and they have weekly meetings, which I *do not* attend. So, you might hear from him, or the contract lead (Lynn B Jones <lbjones@mitre.org>) on this.
 
 ### Necessary meetings for OCTO replacement(s) to sit in on
 
