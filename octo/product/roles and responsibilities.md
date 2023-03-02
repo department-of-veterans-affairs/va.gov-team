@@ -33,23 +33,23 @@ Additional, specific responsibilities related to these categories are described 
 
 **Goal and progress tracking** 
 
--Define and track progress against KPIs and OKRs 
+      -Define and track progress against KPIs and OKRs 
 
--Create and share artifacts like roadmaps, product outlines, user stories, sprint goals, and release plans with platform and other impacted teams 
+      -Create and share artifacts like roadmaps, product outlines, user stories, sprint goals, and release plans with platform and other impacted teams 
 
--Share outcomes by participate in Impact Reviews after launches 
-
- 
-
-Quality control 
-
-Ensure the team follows established OCTO product, design, and technical guidelines (for example, Platform Collab Cycles) 
-
-Regularly review product analytics and task completion funnel data to track progress and identify problems 
+      -Share outcomes by participate in Impact Reviews after launches 
 
  
 
-Data Driven 
+**Quality control** 
+
+      -Ensure the team follows established OCTO product, design, and technical guidelines (for example, Platform Collab Cycles) 
+
+      -Regularly review product analytics and task completion funnel data to track progress and identify problems 
+
+ 
+
+**Data Driven** 
 
 Analyze qualitative and quantitative data related to products and services, and be able to speak to that with any audience 
 
