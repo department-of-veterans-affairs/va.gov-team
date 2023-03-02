@@ -11,3 +11,7 @@
   - 1 pdf file for English & Tagalog screenshots
 - Forward the files and screenshot documents via email to Randi Hecht at Randi.Hecht@va.gov with a timeline for when the translations are needed
 - Keep track of the files that are sent to and received from the State Department [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/translations)
+
+# RECORDING OF KNOWLEDGE TRANSFER MEETING
+- [Recording](https://us06web.zoom.us/rec/share/PMfvC0CxnOaSbyQOVbA_-dYQdATFBKOlecOkKqhMAhaPJH166sQlO204V1eT2Wbt.H1guGCl4QHdZ5pFy)
+  - Passcode: @9=rdUGp
