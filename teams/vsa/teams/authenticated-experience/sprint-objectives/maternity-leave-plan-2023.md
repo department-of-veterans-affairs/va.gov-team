@@ -155,7 +155,7 @@ These are the folks overseeing the EVSS > Lighthouse migration:
 
 - **Weekly 1:1 with AJ, My VA PM**: Mondays at 2:00 ET.
 - **My VA standup**: Please attend one of these/week. They are currently Monday and Friday at 3:00 ET and Thursday at 1:45 ET.
-- **My VA planning**: It's optional if my replacement attends this, but this meeting is at 2:00 ET every other Wednesday.
+- **My VA planning**: It's optional if my replacement attends this, but this meeting is at 2:15 ET every other Wednesday.
 
 *Profile*
 
