@@ -167,6 +167,7 @@ I've historically been tapped into some transition-related work, but I am only f
 - **Logged-in IA/nav research and project coordination**: Every Wednesday at 10:00 ET with Mikki and Chante (and if Mikki or Chante replaces me in any capacity, they already know about this meeting!).
 
 *Meetings to be aware of*
-
+ 
+- **VA.gov and Lighthouse sync**: Every other Thursday at 2:00 ET. This meeting is a touchpoint for those of us who are moving integrations from EVSS > Lighthouse. Tom Harrison -- BE developer on auth experience -- usually attends this, so I don't think this is necessary for my replacement unless there are specific issues or questions.
 - **eBenefits "Early Comms" meeting**: Every other Tuesday at 2:30 ET. This has to do with notifications/preferences around notifications that lived in eBenefits. These have been going on for months, and there has been little movement, so I would say my replacement does not need to attend these unless it becomes clear that a new preference needs to be added to the VA.gov profile. I would rely on VANotify (Bev and Melanie) and VA Profile to keep my replacement posted and pull them in if necessary.
 - **VEO transition calls**: One is biweekly every other Tuesday at 3:00 ET; the other is every week on Thursdays at 1:00 ET. I would work with Chris/Steve K/Mike Land to figure out how tapped into this work VA.gov needs to remain, and who should attend any calls.
