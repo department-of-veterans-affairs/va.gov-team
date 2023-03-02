@@ -7,3 +7,4 @@
 | ----------------------------------| ------------------------------------------------------------|
 | Back to today's appointments | The content for this link has changed; the key exists (but has been renamed) in the spanish/tagalog json files but it has the old translation |
 | VA.gov profile | The content for this link has changed from "VA account" to "VA.gov profile" |
+| Need to add this for Tagalog | "some-content-may-be-in-english": "Some content may be in English.",
