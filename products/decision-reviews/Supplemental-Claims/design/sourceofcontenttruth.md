@@ -5,20 +5,25 @@
 
 ## Is this the form I need?
  
-Use this Supplemental Claim form (VA 20-0995) if you disagree with our decision on your claim and have new and relevant evidence to submit. 
+Use this Supplemental Claim form (VA 20-0995) if you disagree with our decision on your claim and you meet at least 1 of these requirements:
 
-Answer this question to get started:
+- You have new and relevant evidence to submit **or**
+- ou would like VA to review your claim based on a new law (such as the [PACT Act]().
 
-**What type of claim are you filing a Supplemental Claim for?** (*Required)
+What are other decision review options? (expand)
+
+If you don't think this is the right form for you, find out about the other decision review options.
+
+[Learn about choosing a decision review option]()
+
+### What type of claim are you filing a Supplemental Claim for? (*Required)
 
 - [ ] Disability compensation claim
 - [ ] Another type of claim (not a disability claim)
 
 **_Continue_**
 
-If you don't think this is the right form for you, find out about the other decision review options.
 
-<< Learn about choosing a decision review option
 
 **Need help?**
 If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
@@ -438,37 +443,9 @@ We'll save your application every time you add or update information.
 
 **We need your authorization to request your medical records**
 
-I voluntarily authorize and request disclosure (including paper, oral, and electronic interchange) of: All my medical records; including information related to my ability to perform tasks of daily living. This includes specific permission to release:
+If you’re filing a Supplemental Claim more than 1 year after you got your decision notice, you’ll need to review and acknowledge our notice of evidence needed for your disability claim.
 
-1. All records and other information   regarding my treatment, hospitalization, and outpatient care for my impairment(s) including, but not limited to:
-
-•  Psychological, psychiatric, or other mental impairment(s) excluding "psychotherapy notes" as defined in 45 C.F.R. §164.501,
-
-•  Drug abuse, alcoholism, or other substance abuse,
-
-•  Sickle cell anemia,
-
-•  Records which may indicate the presence of a communicable or non-communicable disease; and tests for or records of HIV/AIDS,
-
-•  Gene-related impairments (including genetic test results)
-
-2. Information about how my impairment(s) affects my ability to complete tasks and activities of daily living, and affects my ability to work.
-
-3. Information created within 12 months after the date this authorization is signed in Item 11, as well as past information.
-
-You should not complete this form unless you want the VA to obtain private treatment records on your behalf. If you have already provided these records or intend to obtain them yourself, there is no need to fill out this form. Doing so will lengthen your claim processing time.
-
-In accordance with 38 C.F.R. §3.159(c), "VA will not pay any fees charged by a custodian to provide records requested."
-
-I hereby authorize the sources listed in Section IV, to release any information that may have been obtained in connection with a physical, psychological or psychiatric examination or treatment, with the understanding that VA will use this information in determining my eligibility to veterans benefits I have claimed.
-
-I understand that the source being asked to provide the Veterans Benefits Administration with records under this authorization may not require me to execute this authorization before it provides me with treatment, payment for health care, enrollment in a health plan, or eligibility for benefits provided by it.
-
-I understand that once my source sends this information to VA under this authorization, the information will no longer be protected by the HIPAA Privacy Rule, but will be protected by the Federal Privacy Act, 5 USC 552a, and VA may disclose this information as authorized by law.
-
-I also understand that I may revoke this authorization in writing, at any time except to the extent a source of information has already relied on it to take an action. To revoke, I must send a written statement to the VA Regional Office handling my claim or the Board of Veterans' Appeals (if my claim is related to an appeal) and also send a copy directly to any of my sources that I no longer wish to disclose information about me.
-
-I understand that VA may use information disclosed prior to revocation to decide my claim.
+- [Review the notice of evidence needed](https://www.va.gov/disability/how-to-file-claim/evidence-needed/)
 
 - [ ] I acknowledge and authorize this release of information (*Required)
 
