@@ -86,7 +86,7 @@ We already have a packed quarter for when I am out. If there are requests that c
 
 Right now, the auth experience team is roughly divided into two halves: the half that primarily works on the My VA dashboard and onsite notifcations work, and the half that works on all of the products in the VA.gov profile.
 
-However, this is not a strict binary, and some people float between efforts depending on capacity needs. We should staff work while I'm out according to the priority to the portfolio overall, not necessarily which half of the team people are usually on.
+However, this is not a strict binary, and some people float between efforts depending on capacity needs. We should staff work while I'm out according to portfolio priorities overall, not necessarily which half of the team people are usually on.
 
 #### Team members
 
