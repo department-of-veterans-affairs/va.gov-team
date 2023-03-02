@@ -9,15 +9,15 @@ Additional, specific responsibilities related to these categories are described 
 
       -The Product Lead is responsible for working with the product manager, team, and stakeholders to  
 
-      -Determine, communicate, and align the product direction and goals  
+            -Determine, communicate, and align the product direction and goals  
 
-      -Ensure product documentation is accurate, useful, and not out of date 
+            -Ensure product documentation is accurate, useful, and not out of date 
 
       -The Product Manager is responsible for 
 
-      -Ensuring the team understands the product direction and goal and deliver towards it 
+            -Ensuring the team understands the product direction and goal and deliver towards it 
 
-      -Writing and contributing to product documentation 
+            -Writing and contributing to product documentation 
 
  
 
