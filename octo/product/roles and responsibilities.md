@@ -7,13 +7,13 @@ Additional, specific responsibilities related to these categories are described 
 
 **Product documentation** Ensure product documentation — like the Product Outline — is up to date and publicly available on GitHub (or other appropriate locations). Document key decisions and product pivots. Onboard new team members by sharing documentation with them and explaining it. 
 
--The Product Lead is responsible for working with the product manager, team, and stakeholders to  
+      -The Product Lead is responsible for working with the product manager, team, and stakeholders to  
 
       -Determine, communicate, and align the product direction and goals  
 
       -Ensure product documentation is accurate, useful, and not out of date 
 
-  -The Product Manager is responsible for 
+      -The Product Manager is responsible for 
 
       -Ensuring the team understands the product direction and goal and deliver towards it 
 
@@ -23,11 +23,11 @@ Additional, specific responsibilities related to these categories are described 
 
 **Communication:** Foster healthy, open communication and blameless incident responses to continuously improve and grow as a team. Communicate in as open a channel as often as possible so that others may benefit — now or later while searching resources like GitHub or Slack.  
 
--Proactively communicate the status and impact of the team’s work and cross-team dependencies to stakeholders, leadership, and other teams 
+      -Proactively communicate the status and impact of the team’s work and cross-team dependencies to stakeholders, leadership, and other teams 
 
--Provide regular updates to OCTO leadership and VA stakeholders about product development, improvements, challenges, and decisions 
+      -Provide regular updates to OCTO leadership and VA stakeholders about product development, improvements, challenges, and decisions 
 
--Ensure the team understands the product, technical environments, and political environment 
+      -Ensure the team understands the product, technical environments, and political environment 
 
  
 
