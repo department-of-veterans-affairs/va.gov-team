@@ -17,7 +17,7 @@
 Potentially the “apartment” epic but on the generative aspect
 * What is the “value” proposition of Login.gov over other CSPs?  How can we clearly communicate that to Vets when they have so many options?
 	* E.g. Id.me gives vets kickbacks when they go shopping
-### Epics according to priority
+### Epics according to priority (and accompanying documentation)
 * 1: DS Logon Credential “Migration”
   * Binding
   * Flows
