@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 3/1/2023
+- Updated eCheck-in so that Veterans will receive a more specific error message when they use an expired link
+    - [Ticket 52393](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52393)
+
 ### 2/24/2023
 - Fixed 2 minor content bugs for the 'Need help' section
     - [Ticket 53979](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53979)
