@@ -16,7 +16,6 @@
 | Clinical Decision Support Program | Health | Shane Elliot | Jeremy Stitz | [Product Outline](LINK) | 
 | Digital Health Platform | Health | Stefany Holguin | Kimberly Roberts | [Product Outline](LINK) |
 | Long COVID | Health | Marian Adly | Zaheda Haidri | [Product Outline](LINK) |
-| Medallia | Account Experience | Chante Lantos-Swett | TBD | [Product Outline](LINK) |
 | Prescription Management | Health | Lauren Alexanderson | TBD | [Product Outline](LINK) |
 | Rapid Ready for Decision (RRD) | Benefits Delivery | Zach Goldfine | Emily Theis | [Product Outline](LINK) |
 | Virtual Regional Office | Benefits Delivery | Zach Goldfine | [Product Outline](LINK) |
