@@ -130,6 +130,16 @@ VEO conducted a huge research effort last year around veteran transtion. In the 
 
 Both halves of the team work a fair bit with VANotify. That's Bev, obviously, and also Melanie Jones (melanie.jones@oddball.io).
 
+#### Lighthouse
+
+These are the folks overseeing the EVSS > Lighthouse migration:
+
+- Lee Helmer (lee.helmer@adhocteam.us) -- Lead on the entire EVSS > Lighthouse effort.
+- Lorri Glover (glover_Lorri@bah.com) -- Involved with the direct deposit migration.
+- Greg Feliberty (feliberty_gregory@bah.com) -- Involved with the direct deposit migration.
+- Andrew Ramos (ramos_andrew@bah.com) -- Involved with the direct deposit migration.
+- Dana Harris (dana.harris@adhocteam.us) -- Involved with the direct deposit migration.
+ 
 #### VEO
 
 - Jon Pruett (Jonathan.pruett@va.gov) -- VEO transition team.
