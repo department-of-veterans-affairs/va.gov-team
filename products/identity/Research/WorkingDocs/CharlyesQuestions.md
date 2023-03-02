@@ -1,14 +1,14 @@
 ## Generic Questions
-### Communications
+### Communication Options
 * How do Vets learn about VA.gov?  
+* Relationship with DSLogon and messaging to users?
+* Relationship with MHV and messaging to users?
+
+### Other websites
 * Which sites inform Vets about the various CSPs? How can we work together to encourage leveraging Login.gov? 
 	* Finding #1 LGA Discovery research: “Setting up a new credential is frustrating for Veterans if it’s made to seem like a choice or the need is unclear.”
 	* E.g. AccessVA, various VA services?
-* Relationship with DSLogon and messaging to users?
-* Relationship with MHV and messaging to users?
 * What messaging is in place to encourage new users to create Login.gov credentials vs others?
-
-### Other websites
 * Value of AccessVA as a "window" - when users access MHV/other VA websites, what tasks are they wanting to accomplish?  Why would they go to one website versus another?
 
 ## Potential Research Questions
