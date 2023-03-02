@@ -2,6 +2,7 @@
 **STATUS: In progress**
 - Edit history
      - 3/1/23: Doc created (MN), edits (JM)
+     - 3/2/23: Updated site map image so proposed page is in orange
 
 **Team:** Digitize Team
 
@@ -22,8 +23,7 @@
 ## <a name="map"></a>Page structure<br>
 The digital form will live next to the 'How to apply' page on the same level. Currently, the eBenefits form is housed under 'How to apply', but we have removed links to this feature from the proposed site map below. This form will need to be retired and redirected accordingly, so we recommend working with stakeholders to ensure this flow is accounted for.
 
-![Screenshot 2023-03-01 at 6 26 42 PM](https://user-images.githubusercontent.com/122128479/222298367-1e3c28bb-7d12-47e9-ab2f-61002f8a216e.png)
-
+![Screenshot 2023-03-02 at 10 59 54 AM](https://user-images.githubusercontent.com/122128479/222499107-f692b24b-950c-409e-bba1-92c088a08571.png)
 
 
 
