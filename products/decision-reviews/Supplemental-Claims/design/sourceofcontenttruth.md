@@ -284,6 +284,8 @@ Enter the date on your decision notice (the letter you received in the mail from
 
 _Error_
 
+If you are filing a Supplemental Claim within one-year of a decision from the United States Court of Appeals for Veterans Claims, United States Court of Appeals for the Federal Circuit, or Supreme Court of the United States, identify the date of the court decision in item 13B and attach a copy of the decision within this form.
+
 #### You'll need to select an issue
 You must select at least 1 issue before you can continue filling out your request.
 
@@ -830,7 +832,7 @@ Month XX, XXXX
 - Issue
 - Issue
 
-BUTTON: Print this page </br>
+BUTTON: Print this confirmation </br>
 LINK: Download your completed claim (PDF)
 
 ## What to expect next
@@ -838,6 +840,8 @@ LINK: Download your completed claim (PDF)
 If we need more information, we'll contact you to tell you what other information you'll need to submit. We’ll also tell you if we need to schedule an exam for you.
 
 When we've completed your review, we'll mail you a decision packet with the details of our decision. [Learn more about what happens after you request a review](https://www.va.gov/decision-reviews/after-you-request-review/)
+
+You are entitled to a hearing at any time in the claims process. If you wish to have a hearing, you can contact us online through Ask VA or call us at 1-800-827-1000 (TTY:711).
 
 ### What to do if you have questions now
 
