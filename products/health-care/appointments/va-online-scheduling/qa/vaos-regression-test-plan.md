@@ -7,12 +7,30 @@ _Enter brief description of the project_
 - 
 
 ### Use Cases
+ 
+- [ ] Use Case 1
 
-- [ ] Use case #1: 
-- [ ] Use case #2: 
-- [ ] Use case #3: 
-- [ ] Use case #4: 
+Configuration setup in test environment must include: 
+  - [ ] _Enter the criteria for the setup to test_
 
+* **Description**
+  - lorem ipsum
+
+- [ ] Use Case 2
+
+**Configuration setup in test environment must include** 
+  - [ ] _Enter the criteria for the setup to test_
+
+* **Description**
+  - lorem ipsum
+
+- [ ] Use Case 3
+
+**Configuration setup in test environment must include** 
+  - [ ] _Enter the criteria for the setup to test_
+
+* **Description**
+  - lorem ipsum
 
 ### User flow
 - [ ] Figma file 
@@ -23,3 +41,6 @@ _Enter brief description of the project_
 
 ### Test Users 
 - Test user .MD file 
+
+### Summary Defect Report
+- [ ] TBD 
