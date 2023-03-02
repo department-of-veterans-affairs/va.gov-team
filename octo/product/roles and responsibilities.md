@@ -8,9 +8,7 @@ Additional, specific responsibilities related to these categories are described 
 **Product documentation** Ensure product documentation — like the Product Outline — is up to date and publicly available on GitHub (or other appropriate locations). Document key decisions and product pivots. Onboard new team members by sharing documentation with them and explaining it. 
 
 * The Product Lead is responsible for working with the product manager, team, and stakeholders to  
-           
            * Determine, communicate, and align the product direction and goals  
-
            * Ensure product documentation is accurate, useful, and not out of date 
 
 * The Product Manager is responsible for 
