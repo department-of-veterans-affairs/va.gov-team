@@ -17,41 +17,41 @@ Additional, specific responsibilities related to these categories are described 
 
 **Communication:** Foster healthy, open communication and blameless incident responses to continuously improve and grow as a team. Communicate in as open a channel as often as possible so that others may benefit — now or later while searching resources like GitHub or Slack.  
 
-      -Proactively communicate the status and impact of the team’s work and cross-team dependencies to stakeholders, leadership, and other teams 
+      * Proactively communicate the status and impact of the team’s work and cross-team dependencies to stakeholders, leadership, and other teams 
 
-      -Provide regular updates to OCTO leadership and VA stakeholders about product development, improvements, challenges, and decisions 
+      * Provide regular updates to OCTO leadership and VA stakeholders about product development, improvements, challenges, and decisions 
 
-      -Ensure the team understands the product, technical environments, and political environment 
+      * Ensure the team understands the product, technical environments, and political environment 
 
  
 
 **Goal and progress tracking** 
 
-      -Define and track progress against KPIs and OKRs 
+      * Define and track progress against KPIs and OKRs 
 
-      -Create and share artifacts like roadmaps, product outlines, user stories, sprint goals, and release plans with platform and other impacted teams 
+      * Create and share artifacts like roadmaps, product outlines, user stories, sprint goals, and release plans with platform and other impacted teams 
 
-      -Share outcomes by participate in Impact Reviews after launches 
+      * Share outcomes by participate in Impact Reviews after launches 
 
  
 
 **Quality control** 
 
-      -Ensure the team follows established OCTO product, design, and technical guidelines (for example, Platform Collab Cycles) 
+      * Ensure the team follows established OCTO product, design, and technical guidelines (for example, Platform Collab Cycles) 
 
-      -Regularly review product analytics and task completion funnel data to track progress and identify problems 
+      * Regularly review product analytics and task completion funnel data to track progress and identify problems 
 
  
 
 **Data Driven** 
 
-      -Analyze qualitative and quantitative data related to products and services, and be able to speak to that with any audience 
+      * Analyze qualitative and quantitative data related to products and services, and be able to speak to that with any audience 
 
-      -This looks like 
+      * This looks like 
 
-            -Provide feedback on discovery session plans and findings 
+            * Provide feedback on discovery session plans and findings 
 
-            -Approve KPI goals 
+            * Approve KPI goals 
 ## Product Lead
 
 ## Product Manager
