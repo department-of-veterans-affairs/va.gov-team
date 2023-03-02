@@ -47,8 +47,6 @@ Behind the scenes, Samara is coordinating backend implementation of the MHV noti
 - **Status**: User research planning; User research; Generating a report that summarizes all research activities.
 - [Long-term planning](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=189401760)
 
-**Note: Liz Lantz, who is primarily in the profile half of the portfolio, will be leading this from the auth exp team perspective. However, this is not solely a profile project**.
-
 In Q2 of the calendar year, we'll be running some generative user research to uncover what problems people have navigating the logged-in experience. After research synthesis, we'll work with Mikki and Chante to figure out next steps.
 
 **Note**: Liz Lantz, who is primarily in the profile half of the portfolio, will be leading this from the auth exp team perspective. However, this is not solely a profile project.
