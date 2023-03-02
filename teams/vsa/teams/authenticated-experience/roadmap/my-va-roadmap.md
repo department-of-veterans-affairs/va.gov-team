@@ -1,6 +1,6 @@
 # My VA roadmap
 
-**Last updated: March 2, 2023**
+**Last updated: March 2, 2023 - updated current projects**
 
 ## Current projects
 
