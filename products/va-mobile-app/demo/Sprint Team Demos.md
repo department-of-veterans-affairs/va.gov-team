@@ -3,6 +3,16 @@
 Meeting Owner: Adam Bischoff
 Timing: Every 2 Thursdays 2:35 - 3:15pm 
 
+**Demo Sprint 62 3/2/23**
+Agenda
+- Demo Topic(s)
+  -  Haptics - Therese
+  -  What's New - Dylan
+-  Slides [VA Health and Benefits App Demo 030223.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/10875367/VA.Health.and.Benefits.App.Demo.030223.pdf)
+- Demo Video - to be added soon
+
+
+
 
 **Demo Sprint 61 2/16/23**
 
