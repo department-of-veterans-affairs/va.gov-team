@@ -1,6 +1,6 @@
 # Samara's 2023 maternity leave plan
 
-**Last updated: March 1, 2023**
+**Last updated: March 2, 2023**
 
 Roughly, this will be some time between March - June of 2023, depending on when the baby arrives.
 
@@ -137,6 +137,23 @@ I've historically been tapped into some transition-related work, but I am only f
 
 - Bill Brinley (William.Brinley@va.gov) -- VA lead on something called the "Enhanced Statement of Benefits". He is working with a MITRE team on this, and they have weekly meetings, which I *do not* attend. So, you might hear from him, or the contract lead (Lynn B Jones <lbjones@mitre.org>) on this.
 
-### Necessary meetings for OCTO replacement(s) to sit in on
+### Meetings for OCTO replacement(s) 
 
+#### Auth experience team meetings
 
+*My VA and onsite notifications*
+
+- **Weekly 1:1 with AJ, My VA PM**: Mondays at 2:00 ET.
+- **My VA standup**: Please attend one of these/week. They are currently Monday and Friday at 3:00 ET and Thursday at 1:45 ET.
+- **My VA planning**: It's optional if my replacement attends this, but this meeting is at 2:00 ET every other Wednesday.
+
+*Profile*
+
+- **Weekly 1:1 with Berni Xiong, Auth exp delivery manager**: Mondays at 2:30 ET. Feel free to stop having 1:1s with Berni once the profile PM starts. She's been helping with profile efforts while A6 is hiring a profile PM.
+- **Profile standup**: Please attend one of these/week. They are currently Monday and Friday at 3:15 ET and Thursday at 2:30 ET.
+- **Profile planning**: It's optional if my replacement attends this, but this meeting is at 1:00 ET every other Wednesday.
+
+#### Stakeholder meetings
+
+- **MHV on VA.gov weekly standup**: Wednesdays at 11:30 ET.
+- **VA Profile biweekly check-in**: Every other Thursday at 3:30 ET.
