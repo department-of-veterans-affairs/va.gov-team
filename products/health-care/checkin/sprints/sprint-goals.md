@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 #### SPRINT TICKETS
 - **GOAL: Knowledge transfer prior to Adrian's departure**
-   - [Knowledge Transfer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54464)
+   - [[FE]Knowledge Transfer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54464)
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
       - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51693)
