@@ -12,7 +12,7 @@ This was last updated by Samara in February in 2023. It is meant to change, be f
 
 ### [My VA audit updates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#readme)
 
-- **Status**: Pre-launch; Should launch early in April 2023 if everything stays on track
+- **Status**: Pre-launch; Should launch early in April 2023 if everything stays on track.
 - [Long-term planning](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=923468617)
 
 ## Top priorities
@@ -22,7 +22,7 @@ These projects are the top priorities, as they align with the top OCTO objective
 ### [Onsite notifications V2: Scale notifications feature](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/notifications-v2#readme)
 
 - **OCTO objective**: Enhance Veterans' personalized online experience
-- **Status**: Next steps are up in the air, as we are trying to figure out if any of the existing VANotify notifications are good candidates to incorporate into VA.gov
+- **Status**: Next steps are up in the air, as we are trying to figure out if any of the existing VANotify notifications are good candidates to incorporate into VA.gov.
 - [Long-term planning](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=1904788724)
 
 This is very up in the air depending on whether we are more immediately moving forward with adding notifications (dependent on what is in VANotify) or if we are moving forward with notification center research and putting the new notification design through the collab cycle & build.
@@ -32,7 +32,7 @@ That being said, once there are notifications we are sure we want to add to VA.g
 ### [Notification preferences: Updates to add email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/add-email-channel)
 
 - **OCTO objective**: Enhance Veterans' personalized online experience; Support MHV health migration
-- **Status**: Discovery and design complete; Backend and frontend code updates are next
+- **Status**: Discovery and design complete; Backend and frontend code updates are next.
 - [Long-term planning](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=1678753305) -- Note that I have not been able to complete detailed planning because next steps depend on some level of technical discovery and estimation. The team + new profile PM will need to do this.
 
 Why we are adding email as a channel: We need to be able to support email as a channel in order to support MHV notification preferences, and notification preferences from other partners that may require email. This is critical work.
@@ -44,7 +44,7 @@ Behind the scenes, Samara is coordinating backend implementation of the MHV noti
 ### [Generative logged-in IA/navigation research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ia-and-navigation/2023-generative-logged-in-research)
 
 - **OCTO objective**: Refresh the VA.gov homepage and information architecture
-- **Status**: User research planning; User research; Generating a report that summarizes all research activities
+- **Status**: User research planning; User research; Generating a report that summarizes all research activities.
 - [Long-term planning](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=189401760)
 
 **Note: Liz Lantz, who is primarily in the profile half of the portfolio, will be leading this from the auth exp team perspective. However, this is not solely a profile project**.
@@ -68,7 +68,7 @@ For Q2 of the calendar year, we'll be ready to conduct QA, go through pre-launch
 
 #### Update the claim status section of My VA
 
-- **Status**: Hasn't started yet, but should be ready to start once Derrick is fully onboarded
+- **Status**: Hasn't started yet, but should be ready to start once Derrick is fully onboarded.
 - [Long-term planning](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=378891642)
 
 Assuming we have availability, we can leverage the updated claim status integration that now relies on Lighthouse so that My VA pulls data from there instead of EVSS.
