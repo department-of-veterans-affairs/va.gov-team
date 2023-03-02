@@ -2,7 +2,7 @@
 ### Communications
 * How do Vets learn about VA.gov?  
 * Which sites inform Vets about the various CSPs? How can we work together to encourage leveraging Login.gov? 
-* Finding #1 LGA Discovery research: “Setting up a new credential is frustrating for Veterans if it’s made to seem like a choice or the need is unclear.”
+	* Finding #1 LGA Discovery research: “Setting up a new credential is frustrating for Veterans if it’s made to seem like a choice or the need is unclear.”
 	* E.g. AccessVA, various VA services?
 * Relationship with DSLogon and messaging to users?
 * Relationship with MHV and messaging to users?
