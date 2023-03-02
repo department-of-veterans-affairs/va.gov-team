@@ -29,6 +29,8 @@
   - Choose (from your desktop) the Tagalog.json file
   - Enter a name for the output file (e.g. TagalogTranslationsNeeded) [NOTE: .json will get appended automatically)
   - Review the 2 files you generated for any keys that may be obsolete or incorrect
+  - Replace any encoded characters with their text counterpart (see below for example)
+      - "We\u2019re sorry" becomes "We're sorry"
 
 ## VIDEO INSTRUCTIONS
 - [Video instructions](https://us06web.zoom.us/rec/share/Ajv16wilUG8Q6BgC8flhtUFq3tqXkWEPXyIW8eeXlzjAjpD5o-lTrjsr2L5Y7P7x.BYa_LR6iHYSfh78i)
