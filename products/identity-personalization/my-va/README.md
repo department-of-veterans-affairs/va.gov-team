@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: January 24, 2023 - added contact info for each feature**
+**Last updated: March 2, 2023 - updated team roster**
 
 ### Communications
 
