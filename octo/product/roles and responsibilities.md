@@ -51,13 +51,13 @@ Additional, specific responsibilities related to these categories are described 
 
 **Data Driven** 
 
-Analyze qualitative and quantitative data related to products and services, and be able to speak to that with any audience 
+      -Analyze qualitative and quantitative data related to products and services, and be able to speak to that with any audience 
 
-This looks like 
+      -This looks like 
 
-Provide feedback on discovery session plans and findings 
+            -Provide feedback on discovery session plans and findings 
 
-Approve KPI goals 
+            -Approve KPI goals 
 ## Product Lead
 
 ## Product Manager
