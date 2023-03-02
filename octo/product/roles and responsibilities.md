@@ -13,9 +13,9 @@ Additional, specific responsibilities related to these categories are described 
 
 * The Product Manager is responsible for 
 
-            -Ensuring the team understands the product direction and goal and deliver towards it 
+           * Ensuring the team understands the product direction and goal and deliver towards it 
 
-            -Writing and contributing to product documentation 
+           * Writing and contributing to product documentation 
 
  
 
