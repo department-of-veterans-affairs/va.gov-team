@@ -68,7 +68,7 @@ Remote on Zoom
 
 ### Research materials
 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/conversation-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-03-Initial-Decisions/conversation-guide.md)
 	
 ## Recruitment	
 
@@ -109,7 +109,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: Thu, Jan 19
 
 ### Research sessions
-* Planned dates of research: Jan 23 - Feb 3
+* Planned dates of research: March - April 2023
 
 ### Length of sessions
 - 1 hour sessions
@@ -121,10 +121,10 @@ A pilot session is required. Please indicate the date and name of a mock partici
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Skyler Schain
-- Research guide writing and task development (usually but not always same as moderator: Skyler Schain
+- Moderator: Skyler Schain, Ruben Sun
+- Research guide writing and task development (usually but not always same as moderator): Skyler Schain, Ruben Sun
 - Participant recruiting & screening: Perigean
-- Project point of contact:	Skyler Schain, Jacob Worrell
-- Participant(s) for pilot test: Rocio de Santiago	
-- Note-takers:	
-- Observers: Jacob Worrell, Sarah Ortiz Shields, Sam Cormier, Jerek Shoemaker, Jared Cunha, Kevin Duensing, Josh Kim, Eva Floyd, Joe Sokohl
+- Project point of contact:	Skyler Schain, Ruben Sun, Jacob Worrell
+- Participant(s) for pilot test: TBD
+- Note-takers: 
+- Observers: Jacob Worrell, Sarah Ortiz Shields, Sam Cormier, Jerek Shoemaker, Jared Cunha, Kevin Duensing, Josh Kim, Eva Floyd
