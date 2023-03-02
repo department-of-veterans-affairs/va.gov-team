@@ -1,12 +1,13 @@
 # My VA roadmap
 
-**Last updated: December 19, 2022**
+**Last updated: March 2, 2023**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
 |My VA audit|FE build|
+|Claim status EVSS > Lighthouse | Technical discovery |
 
 ### Projected timelines for current projects
 
