@@ -1,4 +1,4 @@
-# Login.gov Adoption Product Outline
+# Login.gov Organic Adoption Product Outline
 ---
 
 ## Problem Statement
