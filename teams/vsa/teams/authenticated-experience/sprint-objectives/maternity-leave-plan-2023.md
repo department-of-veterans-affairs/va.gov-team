@@ -110,7 +110,7 @@ Unfortunately, **we are still without a profile PM since the contract switch in 
 
 In order for VA.gov to incorporate the MHV notification preferences into our interface, MHV has to integrate their interface with the VA Profile backend for both contact information and notification preferences. I need someone on the OCTO side of things to keep up with Carnetta and the VA Profile team (Mike Richards etc) to make sure the MHV side of things is moving along. VA Profile's work on this is easy -- they already support contact info, and they have been able to get the MHV notification preferences in the backend fairly easily. Keeping up on what MHV is doing and making sure that is moving along is the harder part, and is what is a large dependecy for us to update the VA.gov interface.
 
-#### VEO transition efforts.
+#### VEO transition efforts
 
 VEO conducted a huge research effort last year around veteran transtion. In the fall, they put together a cross-departmental working group to figure out how to improve transition. Their solution is a checklist-based app, and they are trying to figure out how to get someone either at DoD or VA to take this on at the moment. I've been going to these meetings as a rep from VA.gov, but I have let them know I am not available until after my maternity leave at this point. While it is unclear what kind of involvement VA.gov might have going forward, they'll likely want someone from our team tapped into that work. Mike Land might be picking this up, or potentially Steve Kovacs.
 
