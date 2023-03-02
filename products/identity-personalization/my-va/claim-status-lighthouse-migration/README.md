@@ -28,7 +28,9 @@
 
 ## Overview
 
-In June 2023, the EVSS API will be deprecated. In order to continue supporting critical existing integrations in our products we need to update our integrations. Specifically for My VA, we need to update the claims status widget to connect to Lighthouse instead of EVSS.
+In June 2023, the EVSS API will be deprecated. In order to continue supporting critical existing integrations in our products we need to update our integrations. This is a continuation of the work done by the claim status team (on slack at `#benefits-claim-appeal-status`), which led the overall migration of the claim status tool to Lighthouse from EVSS.
+
+Specifically for My VA, we need to update the claims status widget to connect to Lighthouse instead of EVSS. This should only involve frontend updates, though we will be thoroughly investigating to rule out additional backend needs.
 
 ## Problem
 
