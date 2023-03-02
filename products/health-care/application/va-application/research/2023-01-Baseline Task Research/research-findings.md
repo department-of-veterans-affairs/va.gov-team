@@ -345,9 +345,10 @@ Observer ratings of start application task completion using rating criteria:
 
 
 ### Recommendation 2
-**Additional content explanation around use of taxes for calculating income.**
+**Improve the usability of the income calculating questions by providing additional content explanation and exploring financial information prefills.**
 
 - Review recent changes to financial disclosure and income pages currently in content review and add these findings for additional consideration.
+- Discovery: what integrations, automations, and prefills can be incorporated for income calculation and how can these questions be aligned with the enrollment system. 
 - Business/stakeholder questions for follow up: What are the downstream implications of not providing financial/household information? Slower time until decision for the Veteran because they have to supply this info anyways? Would this be an initially positive but long-term negative impact to the Veteran?
 
 
