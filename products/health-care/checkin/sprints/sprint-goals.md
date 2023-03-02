@@ -5,6 +5,7 @@ ________________________________________________________________________________
 ## 3/8/2023 - 3/21/2023 ----------------------TENTATIVE / FUTURE  -------------------
 
 #### SPRINT GOALS
+- **GOAL: Knowledge transfer prior to Adrian's departure**
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
 - **GOAL: Make submission of a travel reimbursement claim easier**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
@@ -13,6 +14,8 @@ ________________________________________________________________________________
 #### PLANNED RELEASES 
 
 #### SPRINT TICKETS
+- **GOAL: Knowledge transfer prior to Adrian's departure**
+   - [Knowledge Transfer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54464)
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
       - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51693)
@@ -25,7 +28,7 @@ ________________________________________________________________________________
          - [[TEXT SOLUTION] [BE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
             - Front end team can investigate VeText endpoint and get started on the sequence diagram         
       - Prepare for Release
-         - [[UX] Update Test Cases to Include the Texting Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54346)
+         - [[UX] Update TestRail Test Cases to Include the Texting Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54346)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
    - **Sub Goal: [Send to Check-in when Pre-Check-in link is accessed inside check-in window](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)**
       - [[BE] Store hand-off query parameter in model](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53996)      
