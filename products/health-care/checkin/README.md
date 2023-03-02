@@ -21,7 +21,6 @@
   - [Kelly Smith](https://dsva.slack.com/team/U04427HRK60)
   - [Christina Gednalske](https://dsva.slack.com/team/U02KVPC82VA)
 - Frontend Engineers
-  - [Adrian Rollett](https://dsva.slack.com/team/U01B3JUHLF5)
   - [Brian Seek](https://dsva.slack.com/team/U02FLCLQ6J2)
   - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)
 - Backend Engineers
