@@ -1,4 +1,4 @@
-# Questions
+# Questions? 
 Any questions, please visit the #product-operations channel on Slack 
 ## Product Lead
 ## Product Manager
