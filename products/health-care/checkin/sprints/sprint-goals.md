@@ -12,6 +12,7 @@ ________________________________________________________________________________
 - **GOAL: Address tech debt**
 
 #### PLANNED RELEASES 
+- [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
 
 #### SPRINT TICKETS
 - **GOAL: Knowledge transfer prior to Adrian's departure**
