@@ -18,4 +18,4 @@
 | Long COVID | Health | Marian Adly | Zaheda Haidri | [Product Outline](LINK) |
 | Prescription Management | Health | Lauren Alexanderson | TBD | [Product Outline](LINK) |
 | Rapid Ready for Decision (RRD) | Benefits Delivery | Zach Goldfine | Emily Theis | [Product Outline](LINK) |
-| Virtual Regional Office | Benefits Delivery | Zach Goldfine | [Product Outline](LINK) |
+| Virtual Regional Office | Benefits Delivery | Zach Goldfine | TBD | [Product Outline](LINK) |
