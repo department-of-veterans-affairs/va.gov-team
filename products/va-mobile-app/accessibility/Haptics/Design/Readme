@@ -1,1 +1,29 @@
+Haptics in the VA Health and Benefits App only works if the Veteran's device haptic setting is on
 
+Logic
+  This app, in the long term, wants to use device settings vs having to create it's own 
+    Example be like Dark Mode and less like Notifications 
+    Decided for Haptics to treat it like Dark Mode 
+    So decided to treat it like dark mode now vs having to switch it later 
+      Save dev work/effort now and later 
+  Haptics will be tied to the component level 
+  
+Things to keep in mind
+    Not all devices support haptics
+    Not all device operation system support haptics 
+    Each device and operating system has their own location and verbiage for it's haptic settings 
+    Not all operating systems support the same haptic options - thus used 3 pattern instead of 4 
+      Currently our own library also has limitations as it does not support 4 pattern 
+  
+ Haptic settings in use
+   Component            When haptics occurs       Haptic Pattern
+   Snack Bar            Appearance                3 pattern
+   Toggle               Interaction               Heavy toggle
+   Error Alert Box      Appearance                3 pattern
+   Warning Alert Box    Appearance                3 pattern 
+
+
+Risks
+  Veteran cannot turn on of off haptics just in the app
+  Limited insight into haptic engagement given we do not have our own setting 
+  No proactive awareness outside of Whats New in the app store so may catch the Veteran off guard 
