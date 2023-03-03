@@ -304,12 +304,31 @@ This is dependent on hiring:
 
 Then we are ready to close out this project!!
 
+### Direct deposit: EVSS > Lighthouse migration
+
+**Whole Team**
+
+- Run QA & create bug tickets
+  - Everyone should be part of this.
+
+**BE - Tom**
+
+- Update BE Documentation
+- Make any necessary changes coming out of QA
+
 ### Notification preferences
 
 **FE - Adam**
 
 - Build the new page for the mobile # #53547
 - Rollout, Cleanup of edit mobile phone page #53549
+
+### Logged-in IA/nav research
+
+**Design - Liz**
+
+- Run research
+- Topline summary
 
 ## Sprint 8 (4/12 - 4/25)
 ## Sprint 9 (4/26 - 5/9)
