@@ -137,5 +137,72 @@ Contract management
 ## Product Manager
 Product Managers are usually contractors who are responsible for the delivery strategy and day-to-day work to deliver products and services. (Occasionally, OCTO Product Leads do this work.) 
 
+Product strategy, vision 
+
+* Transform Product Lead’s high-level vision into detailed action plans 
+
+* Ensure the team understands the direction and goals of the product or service so they can deliver towards it 
+
+* Provide feedback to the Product Lead about the viability and accuracy of their strategy, measures of success, when additional user research is needed, and long-term roadmap 
+
+* This looks like 
+
+   * Organize the team to incrementally deliver on product direction and goals  
+
+   * Facilitate workshops, Product Lead check-ins, and other discussions to align the team around priorities, goals, scope, and strategies 
+
+   * Include the Product Lead in agile ceremonies so they can provide their perspectives
+
+Prioritization, planning 
+
+* Create short-term roadmaps by planning and scoping the size of the effort and resources required to achieve goals (2-3 months) 
+
+* Ensure the team is clear on what to work on now and next (in alignment with the roadmaps) 
+
+* Communicate relative priorities of items within each sprint 
+
+* This looks like 
+
+   * Manage the product backlog, board, and associated agile processes 
+
+   * Manage the team on a day-to-day basis, including by leading agile and scrum team meetings and ceremonies 
+
+   * Cross-team planning (like PI planning) with stakeholders, middleware, API, and backend teams 
+
+Managing up, stakeholders 
+
+* Escalate blockers that impede the success of the team to the Product Lead, or directly with stakeholders if agreed with your Product Lead. 
+
+* Summarize the outcomes and impact of product initiatives on Veterans or other users, our tech stack, and VA programs 
+
+* This looks like 
+
+   * Elevate dependencies or other impacts to your team and Product Lead 
+
+   * Represent the team by presenting at impact reviews, Team of Teams, and other cross-team touch points
+
+Product leadership 
+
+* Lead product discovery with a cross-functional team 
+
+* Coordinate and communicate decisions clearly – both in and outside of the team 
+
+* Advocate for the user’s needs and outcomes in collaboration with designers, researchers 
+
+* Define and incorporate relevant KPIs into product decision-making 
+
+* This looks like 
+
+   * Work with research teammates to articulate user research goals 
+
+   * Create actionable and prioritized user stories 
+
+   * Being the eyes and ears of the team and your Product Lead at Team of Teams 
+
+   * Make informed decisions so that the team can continue to move forward 
+
+   * Building pre-launch checklists and ensuring they’re completed 
+
+   * Make sure that individual team members own the portion of the Collab Cycle they best align to. For example, designer for Design Intent Review or engineer for Privacy & Security Review.
 ## Product Owner/Business (VA) Stakeholder
 This section is coming soon
