@@ -135,5 +135,7 @@ Contract management
 
   * Help onboard new contractors and write justifications for computers or software
 ## Product Manager
+Product Managers are usually contractors who are responsible for the delivery strategy and day-to-day work to deliver products and services. (Occasionally, OCTO Product Leads do this work.) 
+
 ## Product Owner/Business (VA) Stakeholder
 This section is coming soon
