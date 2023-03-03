@@ -1139,9 +1139,9 @@ _Warning alert:_
 
 ### We noticed you didn't add new evidence
 
-If you have a presumptive condition, you don’t need to submit new evidence with your claim. You can continue through this form.
-
 If you’re filing a claim based on new evidence, we encourage you to submit the evidence with your claim. But if you don't have the evidence now, you can still file your claim. We'll work with you to get the evidence.
+
+**Note:** If you have a presumptive condition, you don’t need to submit new evidence with your claim.
 
 Action Link: Add more evidence
 
