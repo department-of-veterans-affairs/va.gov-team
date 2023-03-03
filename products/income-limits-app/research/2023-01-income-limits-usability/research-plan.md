@@ -114,8 +114,8 @@ Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions**
      1. I don't know *(disqualify)*
 
 1. Do you receive a pension from the VA? *(RECORD)*
-     1. No  *(RECRUIT 7)*
-     1. Yes *(RECRUIT 3)*
+     1. No  *(RECRUIT at least 7)*
+     1. Yes *(RECRUIT 3 if possible)*
      1. I don't know 
 
 1. What time zone are you located in? *(RECORD)*
