@@ -2,11 +2,11 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Authenticated Experience, My VA**
 
-Last updated: 1/23/2023
+Last updated: 3/3/2023
 
 [Angela Agosto - email](angela.agosto@adhocteam.us)
 
-[Research readout](link TK)
+[Research readout](https://docs.google.com/presentation/d/18n6LX-9sYeBTNmeJvjjCxT_n6IxMWgMOyKfb7LnNtWw/edit#slide=id.ge360b30891_0_527)
 
 <br>
 
