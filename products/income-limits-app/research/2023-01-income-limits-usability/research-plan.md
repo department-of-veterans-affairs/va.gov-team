@@ -161,7 +161,7 @@ Please list the people who will be serving in each role.
 - Moderator: Cindy Merrill (cindy.merrill@adhocteam.us)
 - Research guide writing and task development: Cindy Merrill 
 - Participant recruiting & screening: Perigean	
-- Project point of contact: Cindy Merrill	
+- Project point of contact: Cindy Merrill (not available Mar 27-31 due to PTO)
 - Participant(s) for pilot test: Katie Riddle (katherine.riddle@adhocteam.us) and TBD	
 - Note-takers: Perigean	(in github)
 - Observers: Jordan Wood (jordan.wood@civicactions.com), Dave Conlon (david.conlon@va.gov), Wes Rowe (wesley.rowe@agile6.com). Other observers will need to sign up so we can limit the number of observers per session.
