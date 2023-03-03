@@ -18,7 +18,8 @@ _All team members may also be reached via team slack channel: `#accountexp-authe
 - Team Product Manager: Anastasia Jakabcin, ana@adhocteam.us
 
 ### Outage Contacts:
-- Authenticated Experience My VA team Frontend engineer: Allison Lu, ..... 
+- Authenticated Experience My VA team Frontend engineer: Allison Lu, allison@cityfriends.tech
+- Authenticated Experience My VA team Full Stack engineer: Derrick Ellerbie, Derrick.ellerbie@Agile6.com 
 - Authenticated Experience My VA team Backend engineer : Tom Harrison, tom.harrison@adhocteam.us
 
 
