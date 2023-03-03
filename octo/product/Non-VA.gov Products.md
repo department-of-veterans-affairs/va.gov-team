@@ -17,5 +17,5 @@
 | Digital Health Platform | Health | Stefany Holguin | Kimberly Roberts | [Product Outline](LINK) |
 | Long COVID | Health | Marian Adly | Zaheda Haidri | [Product Outline](LINK) |
 | Rapid Ready for Decision (RRD) | Benefits Delivery | Zach Goldfine | Emily Theis | [Product Outline](LINK) |
-| VeText | Health | Shane Elliot | Justin Wowk | [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/README.md#team) 
+| VeText | Health | Shane Elliot | Justin Wowk | [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vetext/README.md#team) |
 | Virtual Regional Office | Benefits Delivery | Zach Goldfine | TBD | [Product Outline](LINK) |
