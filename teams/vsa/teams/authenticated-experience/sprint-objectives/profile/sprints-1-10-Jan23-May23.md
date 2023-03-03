@@ -330,6 +330,12 @@ Then we are ready to close out this project!!
 - Run research
 - Topline summary
 
+### General
+
+**Design - Florence**
+
+- UX Improvements: Heuristic Review and Analysis of Profile and My VA #53227
+
 ## Sprint 8 (4/12 - 4/25)
 ## Sprint 9 (4/26 - 5/9)
 ## Sprint 10 (5/10 - 5/23)
