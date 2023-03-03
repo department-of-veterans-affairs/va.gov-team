@@ -1,17 +1,33 @@
-# My VA Audit Improvements: QA Plan & Findings
+# My VA Audit Improvements: QA Artifacts 
+
+## Test Scenarios
+QA was performed manually by team members to the best of our ability based on limited resources and access to/knowledge of testing tools. 
+* [Test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md) (Github)
+* Test cases (Github - A11y format)
+* Test case spreadsheet
+
+## Defect report
+- Noted in the findings table below and in the attached spreadsheet above.
+
+## Accessibility Staging Review Prep
+[My VA Audit UX Improvements - Accessibility Staging Review Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/launch-materials/my-va-audit-improvements-a11y-staging-review-prep.md)
+
+## Test URL
+The application can be accessed directly at https://staging.va.gov/my-va
+
+## QA Plan 
 For QA of the My VA Audit Improvements we will be performing QA manually using a spreadsheet to track test cases and findings.
 
-
-## Overview of Devices, Operating Systems & Browser
+### Overview of Devices, Operating Systems & Browser
 
 We need to test all 34 test cases across the devices, operating systems, and browsers  outlined below. 
 
-### General Version-coverage Strategy
+#### General Version-coverage Strategy
 - **Hardware:** cover 2nd-latest models [1 yr back from latest available]
 - **Operating Systems:** Windows 2nd-latest; MacOS/iOS latest
 - **Browsers:** all latest 
 
-#### Device + Operating System + Browser Combinations
+##### Device + Operating System + Browser Combinations
 
 |   |      Device        |  Operating System  | Browser  |
 |---|--------------------|--------------------|----------|
@@ -29,14 +45,13 @@ We need to test all 34 test cases across the devices, operating systems, and bro
 |12.| Samsung Galaxy S21 |      Android       | Chrome   |
 
 
-
-## How We Will Test and Track
-1. Use spreadsheet to document test cases, browser/os/device combos and pass/fail
+### How We Will Test and Track
+1. Use the spreadsheet in Test Scenario section to document test cases, browser/os/device combos and pass/fail
 2. Leverage browserstack for browser/os/device combos we don't have access to
 3. For any findings, team member will fill in a row for each item in the table below. 
 4. AJ will create the needed ticket(s) to resolve finding, mark it in the Findings table below, and link it in the spreadsheet where the corresponding failure occurred.
 
-## Findings
+## Findings Summary
 | Test case No. |    Finding       | Device  | Operating System| Browser |Reporter | Resolution Ticket(s)| Status |
 |---------------|------------------|---------|-----------------|---------|---------|---------------------|--------|
 | 10 | Claims and appeals: Copy update to error message - should read "We can't access your claims or appeals information" | all | both | all | Allison | [54379](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54379) | Sprint 5 |
