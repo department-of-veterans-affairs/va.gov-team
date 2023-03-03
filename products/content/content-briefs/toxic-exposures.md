@@ -55,6 +55,9 @@ If you have a presumptive condition, you don’t need to prove that your service
 
 ## Content considerations specific to toxic exposures
 
+- Here's how we describe having been exposed to a toxic substance: "You have a diagnosed illness or other health condition that’s caused by exposure to a specific toxic hazard in the air, soil, or water"
+- Here's how we describe being in an exposure location: "You served on active duty in a location that exposed you to the hazard"
+
 ## Organic SEO and VA.gov search
 
 ## Content-specific research findings
