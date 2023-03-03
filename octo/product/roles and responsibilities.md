@@ -80,6 +80,60 @@ Prioritization
   * Engage in strategic discussions and agile ceremonies to provide perspective and decisions on strategy, roadmap, scope, desired outcomes 
 
   * Participate in team workshops as requested
+
+Managing up, stakeholders 
+
+* Resolve or escalate blockers that impede the success of the team, involving (or deferring) the team as needed 
+
+* Defend product decisions using evidence gained from research or analysis 
+
+* Lead stakeholder relationship strategy and cultivate key relationships 
+
+* Explain technical concepts to both technical and non-technical audiences 
+
+* Influence without authority 
+
+* This looks like 
+
+  * Participate in user research and invite stakeholders to observe 
+
+  * Make sure each team member and stakeholder are aware of the expectations and are set up to succeed 
+
+  * Gain commitments from leaders and team members who are not direct reports 
+
+Team leadership 
+
+* Motivate individuals to form cohesive teams 
+
+* Lead the team to stay on track for delivery while prioritizing team health 
+
+* Reduce or eliminate unnecessary government bureaucracy to create a healthy and productive environment for teams to focus on shipping products over processes. 
+
+* This looks like 
+
+  * Maintain a bias towards action by understanding the current work and actively anticipating and preparing for future work. 
+
+  * Enable cross-functional teams to work together effectively by empowering them to do their best work and protecting them from unproductive external demands 
+
+  * Continuously ask yourself, “What problem are we trying to solve?” and then ensure the team is focused on delivering a minimum viable product 
+
+  * Don’t make the perfect the enemy of the good 
+
+Contract management 
+
+* Coordinate vendor management with OCTO acquisition team (REQUIRED) 
+
+* Identify and escalate staffing gaps or performance issues with the vendor and then, if not resolved, to OCTO leadership and the OCTO acquisition team 
+
+* Review and recommend that the Contracting Officer's Representative (COR) accepts or rejects that work (REQUIRED) 
+
+* This looks like 
+
+  * Plan for contract period of performance timelines 
+
+  * Approve sprint goals and recommend that the COR accepts or rejects deliverables 
+
+  * Help onboard new contractors and write justifications for computers or software
 ## Product Manager
 ## Product Owner/Business (VA) Stakeholder
 This section is coming soon
