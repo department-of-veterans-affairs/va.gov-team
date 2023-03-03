@@ -68,6 +68,18 @@ Vision, strategy
   * Define and document OKRs with the team 
 
   * Review OKRs against product direction and goals to determine if the product needs to pivot strategy or direction 
+
+Prioritization 
+
+* Set and provide timely guidance on priorities, goals, objectives, and desired outcomes 
+
+* Prioritize what contract team(s) will work on (REQUIRED) 
+
+* This looks like 
+
+  * Engage in strategic discussions and agile ceremonies to provide perspective and decisions on strategy, roadmap, scope, desired outcomes 
+
+  * Participate in team workshops as requested
 ## Product Manager
 ## Product Owner/Business (VA) Stakeholder
 This section is coming soon
