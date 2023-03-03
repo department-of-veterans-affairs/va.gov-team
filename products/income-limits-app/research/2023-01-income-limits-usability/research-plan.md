@@ -6,7 +6,7 @@ An [existing application](https://www.va.gov/healthbenefits/apps/explorer/Annual
 However, there are multiple issues with the existing application, which lacks:
 - Reliably accurate data
 - Plain language
-- Clearly defined use cases, usability design, and testing to ensure that it is aligned to Veteran needs and is intuitive for Veterans to use.
+- Clearly defined use cases, human-centered design, and usability testing to ensure that it is aligned to Veteran needs and is intuitive for Veterans to use.
 
 We are rebuilding and modernizing this application, and would like to get user feedback on our designs.
 
@@ -90,6 +90,7 @@ Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions**
 ### Required criteria 
 - NONE have VA health care
 - NONE receive VA disability compensation for a service-connected disability rating of 50% or higher
+- At least 7 people do NOT receive a pension from the VA
 - ALL have a smartphone to use it for the session and...
   - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen
   - Willing to share over Zoom a web browser window on their smartphone
@@ -124,18 +125,18 @@ Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions**
 
 ### Prepare
 Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. I am available for a kickoff call during any of these times (all in ET): 
-- **Feb 13**: 2-5 pm
-- **Feb 14**: 12-1:30 pm
-- **Feb 15**: 12-1, 3-5 pm
+- **Mar TBD**: TIMES TBD
+- **Mar TBD**: TIMES TBD
+- **Mar TBD**: TIMES TBD
 
 **Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so I can review it beforehand.
 
-I will schedule two **pilot tests** during Feb 15-22.
-- Pilot 1: **Feb TBD at X pm ET** with person (email address)
-- Pilot 2: **Feb TBD at X pm ET** with person (email address)
+I will schedule two **pilot tests** during March 20-23.
+- Pilot 1: **Mar TBD at X pm ET** with person (email address)
+- Pilot 2: **Mar TBD at X pm ET** with person (email address)
 
 ### Research sessions
-* Planned dates of research: **Feb 27 - Mar 3, 2023** 
+* Planned dates of research: **April 3-7, 2023** 
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from a screener question).
 
@@ -145,14 +146,15 @@ We would like to request that **Perigean calls each participant** to remind them
 * Maximum sessions per day: 3
 
 ### Availability
+For slots marked "backup", please schedule ONLY if all other slots don't work.
 
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
-Feb 27, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
-Feb 28, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
-Mar 1, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
-Mar 2, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
-Mar 3, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+April 3, 2023 | 12-1, 2-3, 5-6, 7-8 pm (backup--all day)
+April 4, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+April 5, 2023 | 12-1 (backup), 2-3, 5-6, 7-8 pm 
+April 6, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+April 7, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
