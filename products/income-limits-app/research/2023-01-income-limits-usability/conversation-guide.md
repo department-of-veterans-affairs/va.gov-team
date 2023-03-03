@@ -120,7 +120,7 @@ Can you show me how you would find out if you're eligible for VA health care wit
 
 I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom. It's a prototype that isn't very interactive, and so before clicking anywhere, I'd like you to tell me what you might do.
 
-While you're looking at the prototype, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
+While you're looking at the prototype, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. I'm looking for your feedback! 
 
 I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **bit.ly/3whFCA2**
 - *(If asked, reassure that this is a legitimate link to what I want you to test.)*
@@ -145,17 +145,18 @@ How would you use this? Please talk me through what you would do, but not click 
 - *(when click on an entry field and then see different info)* This prototype isn't interactive enough to let you enter your information, but it will jump to a new screen with some information already filled out. I'd like to you tell me what you would enter for yourself or what questions you have about it.
 
 - *(RECORD all comments and anything confusing re the interactions on each screen of the prototype:)*
+  - *VA pension--*
+  - *# of Dependents--*
   - *Zip code--*
-  - *Dependents--*
-  - *VA Aid and Attendance*
-  - *VA Housebound--*
   - *Back, Continue buttons--*
   - *Review your information screen--*
 
 ### Task 5: [Results screen]
 What are your impressions of this page? *(RECORD what they say)*
 
-- *RECORD: Which accordions did they open? household income / individual income limits / income too high*
+- *RECORD: Which accordions did they open? household income / $29K / 43K / 81K / 90K or less / $90K or more*
+
+Can you explain what this page means to you?
 
 How is your income involved here?
 
@@ -164,7 +165,8 @@ How is your income involved here?
 If your income last year was $40,000, what would that mean for your eligibility for VA health care? *(RECORD)*
 
 Can you tell me what benefits you might get? 
-- *PROBE on meaning of "free" or "no copays"*
+- *PROBE on meaning of "Free VA health care for most types of care"*
+- *PROBE on meaning of "copays"*
 
 If your income last year was $25,000, what would that mean? *(RECORD)*
 
@@ -185,6 +187,8 @@ What do you plan to do next?
 
 How did this tool help or not help you decide what to do?
 
+### If participant HAS a pension, then STOP TASKS here
+
 ### Task 7: [Check info entered]
 Now you want to check whether you entered your location correctly. How could you do that? 
 - *(RECORD: back to review screen / zip code entry screen / ________________)*
@@ -198,7 +202,7 @@ When in this app would you prefer to specify the year?
 
 ## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
-
+Disclaimer: I wanted to let you know that we're still working out some of the details for what I've shown you today, so I'm going to ask you to **not** rely on the accuracy of the information that you've seeing, in case it's not correct.
 1. How or where would you expect to find this app that you just used?
 1. What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
