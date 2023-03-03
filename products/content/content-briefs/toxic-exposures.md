@@ -51,6 +51,8 @@ If you have a presumptive condition, you don’t need to prove that your service
 
 **Project 112 or Project Shipboard Hazard and Defense (SHAD)** / **Project 112/SHAD**
 
+**contaminated**
+
 ## Content considerations specific to toxic exposures
 
 ## Organic SEO and VA.gov search
