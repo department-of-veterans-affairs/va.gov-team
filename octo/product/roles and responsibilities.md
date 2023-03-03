@@ -53,7 +53,21 @@ Additional, specific responsibilities related to these categories are described 
 
        * Approve KPI goals 
 ## Product Lead
+Product Leads are primarily accountable for the outcomes of their products and services. They are sometimes referred to as the OCTO team member, government lead, or Product Owner — although VA stakeholders are also frequently referred to as Product Owners, so this can create some confusion. (Occasionally, contractor Product Managers do some of this work.) 
 
+Vision, strategy 
+
+* Determine the product direction and goals in collaboration with the product manager, team, and stakeholders. Review and update them at least quarterly. 
+
+* Maintain and share a high-level, agile, roadmap that is manageable and realistic 
+
+* This looks like 
+
+  * Collaborate regularly with stakeholders and team members to define roadmap priorities 
+
+  * Define and document OKRs with the team 
+
+  * Review OKRs against product direction and goals to determine if the product needs to pivot strategy or direction 
 ## Product Manager
 ## Product Owner/Business (VA) Stakeholder
 This section is coming soon
