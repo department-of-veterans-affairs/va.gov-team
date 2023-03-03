@@ -234,6 +234,11 @@ Since we know that the prescription notification can't happen right now, we need
 - **Design**: Notification center stakeholder discovery planning
 - **FE**: Based on sprint 5 discovery, start next steps with notification component implementation
 
+### Update claim status integration from EVSS > Lighthouse
+
+- **PM**: Create tickets for project in collaboration with Derrick (Berni can also work with Derrick to do this); If Samara is not here, [update long-term planning](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=378891642) to reflect estimated project timeline and tasks 
+- **BE**: Start implementation
+
 ## Sprint 7 (3/29 - 4/11)
 [#51094](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51094)
 
