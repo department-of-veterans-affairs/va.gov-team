@@ -23,7 +23,7 @@ Created by the sitewide content and IA team for teams working on products relate
 
 - **Service-connected condition:** We define this as "an illness or injury that was caused by—or got worse because of—your active military service." We want to get final confirmation from disability comp SME if this should always be "condition" or "disability" or if there's any nuance.
 
-- **VA disability rating:** We say "VA disability rating" on first mention, then drop the "VA" for subsequent mentions. We don't need to say "service-connected disability rating."
+- **VA disability rating:** We say "VA disability rating" on first mention, then drop the "VA" for subsequent mentions. We don't need to say "service-connected disability rating" by default.
 
 - **Inservice disability claim:** You got sick or injured while serving in the military—and can link this condition to your illness or injury.
 
