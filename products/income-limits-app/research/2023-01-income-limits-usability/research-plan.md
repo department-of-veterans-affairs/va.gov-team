@@ -1,4 +1,4 @@
-# Research Plan for Usability Testing, Income Limits App, February 2023
+# Research Plan for Usability Testing, Income Limits App, March 2023
 
 ## Background
 An [existing application](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits) allows Veterans, their caregivers, family members, and others to look up the income limits for VA National medical benefits and prescriptions based on location and number of dependents. 
@@ -109,13 +109,13 @@ Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions**
      1. I don't know *(disqualify)*
 
 1. Do you receive VA disability compensation for a service-connected disability rating of 50% or higher? 
-     1. No  *(RECRUIT)*
+     1. No  *(ask next screening question)*
      1. Yes *(disqualify)*
      1. I don't know *(disqualify)*
 
 1. Do you receive a pension from the VA? *(RECORD)*
      1. No  *(RECRUIT 7)*
-     1. Yes 
+     1. Yes *(RECRUIT 3)*
      1. I don't know 
 
 1. What time zone are you located in? *(RECORD)*
