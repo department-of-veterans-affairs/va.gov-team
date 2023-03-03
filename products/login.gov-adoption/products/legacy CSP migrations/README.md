@@ -61,7 +61,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Initiatives
 
-https://app.zenhub.com/workspaces/logingov-adoption-team-632280b31e745000136a61fc/issues/department-of-veterans-affairs/va.gov-team/48670
+https://github.com/department-of-veterans-affairs/va.gov-team/issues/52654
 
 --- 
 
