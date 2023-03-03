@@ -38,26 +38,33 @@ Configuration setup in test environment must include:
   - [ ] Test user should have VA and Community Care pending requests including canceled requests. 
 
 * **Description**
-  - Tester will validate that they could view their upcoming appointments (future appts) in VAOS 
+  - Tester will validate that they could view their pending requests in VAOS 
     - [ ] Pending VA request - in person (at a Facility) 
     - [ ] Pending Community Care request
     - [ ] Canceled VA request - in person (at a Facility) 
     - [ ] Canceled Community Care request
 
-- [ ] Use Case 3
+- [ ] Use Case 3 - Validate past appointments in VAOS
 
 * **Description**
-  - lorem ipsum
+  - Tester will validate that they could view their past booked appointments in VAOS 
+    - [ ] Past booked VA appointment - in person (at a Facility) 
+    - [ ] Past booked VA appointment - video connect (at a Facility) 
+    - [ ] Past booked VA appointment - video connect (at an ATLAS location) 
+    - [ ] Past booked VA appointment - video connect (at home, not a VA or ATLAS location) 
+    - [ ] Past booked VA appointment - phone call 
+    - [ ] Past booked Community Care appointment
+ 
 
 ### User flow
-- [ ] Figma file 
+- [X][Figma file] (https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=0%3A1&t=YhZr2QXznYwJ72lf-0) 
 
 ### Reference (if applicable) 
-- [ ] Design file link
-- [ ] Copy doc link 
+- [ ] [Design file]()
+- [X] [Copy doc](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
 
 ### Test Users 
-- Test user .MD file 
+- [X] [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
 
 ### Summary Defect Report
 - [ ] TBD 
