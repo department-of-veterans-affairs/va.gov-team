@@ -1,6 +1,6 @@
 # Samara's 2023 maternity leave plan
 
-**Last updated: March 2, 2023**
+**Last updated: March 3, 2023**
 
 Roughly, this will be some time between March - June of 2023, depending on when the baby arrives.
 
@@ -100,7 +100,7 @@ However, this is not a strict binary, and some people float between efforts depe
 - **Tom Harrison** - Backend developer primarily supporting the profile, but has historically pitched in on the My VA half of the portfolio has needed.
 - **Derrick Ellerbie** - Full stack developer, starting out supporting the My VA dashboard, but can float as needed to other priorities. 
 
-Unfortunately, **we are still without a profile PM since the contract switch in December 2022**, which is a huge hole/risk to have that role open while I am out. I imagine someone will start while I am on leave, but truthfully, I don't know who will onboard them to the team without me here. AJ can maybe help with general PM onboarding, but not with profile specifics.
+Unfortunately, **we are still without a profile PM since the contract switch in December 2022**, which is a huge hole/risk to have that role open while I am out. I imagine someone will start while I am on leave. Berni Xiong (delivery manager) is responsible for onboarding the new PM with the help of the profile team.
 
 ### Efforts I'm tapped into
 
