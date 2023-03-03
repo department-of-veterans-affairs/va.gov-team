@@ -203,6 +203,6 @@ Product leadership
 
    * Building pre-launch checklists and ensuring they’re completed 
 
-   * Make sure that individual team members own the portion of the Collab Cycle they best align to. For example, designer for Design Intent Review or engineer for Privacy & Security Review.
+   * Make sure that individual team members own the portion of the Collab Cycle they best align to. For example, designer for Design Intent Review or engineer for Privacy & Security Review
 ## Product Owner/Business (VA) Stakeholder
 This section is coming soon
