@@ -268,7 +268,7 @@ This all depends on Florence having Github access.
 - Review updates with Tom; determine if we need any analytics changes
 - Integration Testing between FE and BE (Staging)
 
-**BE**
+**BE - Tom**
 
 - Finish build and outstanding tickets!
 - Review changes with Mobile App Team (if not already done)
