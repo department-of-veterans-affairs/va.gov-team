@@ -9,6 +9,9 @@
 |VA Admissions and Discharges <br> VA Notes|Care notes and summaries|
 
 **Vaccines**
+
+USCDI v1 Mapping: [Immunizations](https://www.healthit.gov/isa/uscdi-data-class/immunizations#uscdi-v1)
+
 |Data field       | Description           | Suggested label | Notes             | Questions           
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
 |Immunization | Name of the vaccine | Vaccine | 
@@ -19,6 +22,9 @@
 |Series | Info about vaccine series, if relevant | Series | May need explanatory text here. <br /> <br /> Vaccines in a series won't be grouped or linked in MVP version. | How does series data display — "COVID booster 1 of 2" or some other format? |
 
 **Allergies**
+
+USCDI v1 Mapping: [Allergies and intolerances](https://www.healthit.gov/isa/uscdi-data-class/allergies-and-intolerances#uscdi-v1)
+
 |Data field       | Description           | Suggested label | Notes             | Questions|           
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
 |Allergy name | Thing that caused the allergic reaction, like "penicillin" |Allergy |
@@ -32,6 +38,9 @@
 |Comments |Comments entered by provider | Provider notes | 
 
 **Health conditions**
+
+USCDI v1 Mapping: [Problem](https://www.healthit.gov/isa/uscdi-data-class/problems#uscdi-v1)
+
 |Data field       | Description          | Suggested label | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
 |Issue/problem title |Name of the health condition | Health condition |
@@ -42,6 +51,9 @@
 |Comments |Comments entered by provider |Provider notes |
 
 **Vitals**
+
+USCDI v1 Mapping: [Vital signs](https://www.healthit.gov/isa/uscdi-data-class/vital-signs#uscdi-v1)
+
 |Data field       | Description           | Suggested label | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
 |Category name | 
@@ -54,6 +66,9 @@
 |Comments |
 
 **Lab and test results**
+
+USCDI v1 Mapping: [Laboratory](https://www.healthit.gov/isa/uscdi-data-class/laboratory#uscdi-v1), [Pathology report narrative](https://www.healthit.gov/isa/taxonomy/term/2886/uscdi-v1),   
+
 |Category | Data field | Suggested label | Notes | Questions |
 |:----------------|:-------------|:----------------|:------------------|:--------------------|
 |All |Category |Type of test | |Is this information useful for patients? Could we remove this from the list view?|
