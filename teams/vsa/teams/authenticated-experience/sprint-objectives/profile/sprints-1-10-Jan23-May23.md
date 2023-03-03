@@ -254,8 +254,7 @@ This all depends on Florence having Github access.
 
 **FE - Adam**
 
-- Build the new page for the mobile # #53547
-- Rollout, Cleanup of edit mobile phone page #53549
+- Build editing page for profile PT2 #54434
 
 ## Sprint 7 (3/29 - 4/11)
 
@@ -264,6 +263,21 @@ This all depends on Florence having Github access.
 This is dependent on hiring:
 
 - Onboard new PM [#50955](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50955)
+
+### Accessibility
+
+**FE - Adam**
+
+- Code cleanup; Any bug fixes; Remove feature toggle(s)
+
+Then we are ready to close out this project!!
+
+### Notification preferences
+
+**FE - Adam**
+
+- Build the new page for the mobile # #53547
+- Rollout, Cleanup of edit mobile phone page #53549
 
 ## Sprint 8 (4/12 - 4/25)
 ## Sprint 9 (4/26 - 5/9)
