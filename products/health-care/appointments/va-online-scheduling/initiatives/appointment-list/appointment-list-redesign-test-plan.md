@@ -57,10 +57,10 @@ Configuration setup in test environment must include:
  
 
 ### User flow
-- [X][Figma file] (https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=0%3A1&t=YhZr2QXznYwJ72lf-0) 
+- [X] [Figma file](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=0%3A1&t=YhZr2QXznYwJ72lf-0) 
 
 ### Reference (if applicable) 
-- [ ] [Design file]()
+- [X] [Design file](https://www.figma.com/file/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?node-id=1172%3A81535&t=90yvScbbe8TiN61c-0)
 - [X] [Copy doc](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
 
 ### Test Users 
