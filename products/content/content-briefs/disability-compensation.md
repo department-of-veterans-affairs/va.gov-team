@@ -32,7 +32,11 @@ Created by the sitewide content and IA team for teams working on products relate
 - **Postservice disability claim:** You have a disability related to your active-duty service that didn’t appear until after you ended your service.
 
 - **Loss of range of motion**: Problems moving your body
+
+- **VA disability compensation:** VA disability compensation provides tax-free monthly payments.
+
 ## Content considerations specific to disability compensation
+
 
 ## Organic SEO and VA.gov search
 
