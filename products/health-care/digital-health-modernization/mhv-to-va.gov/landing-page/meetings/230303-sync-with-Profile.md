@@ -31,4 +31,4 @@ Health-specific space:
 In current notifications settings page: 
 	- Some VAMC-specific (e.g., prescription tracker, appointment reminders)
 		○ Not sure if the same in MHV preference (specifically prescription tracker)
-Prototype: https://codepen.io/surfbird/pen/gOjmPyj![image](https://user-images.githubusercontent.com/100814257/222778174-897a9406-ee91-4fa4-bb64-94846edc9748.png)
+Prototype: https://codepen.io/surfbird/pen/gOjmPyj!
