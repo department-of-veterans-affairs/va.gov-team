@@ -221,6 +221,19 @@ Since we know that the prescription notification can't happen right now, we need
 ## Sprint 6 (3/15 - 3/28)
 [#51093](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51093)
 
+### My VA audit updates
+
+- Anything that comes over from sprint 5 (I see you guys have a lot going on!)
+- Staging review
+- Privacy review 
+- UAT recruiting, **but only if everything is together with analytics**
+
+### Onsite notifications
+
+- **PM**: If sprint 5 discovery deems it necessary, collab cycle ticket for the new notification component
+- **Design**: Notification center stakeholder discovery planning
+- **FE**: Based on sprint 5 discovery, start next steps with notification component implementation
+
 ## Sprint 7 (3/29 - 4/11)
 [#51094](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51094)
 
