@@ -202,12 +202,14 @@ When in this app would you prefer to specify the year?
 
 ## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
-Disclaimer: I wanted to let you know that we're still working out some of the details for what I've shown you today, so I'm going to ask you to **not** rely on the accuracy of the information that you've seeing, in case it's not correct.
+
 1. How or where would you expect to find this app that you just used?
 1. What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
 1. Is there anything else that we haven't talked about that you think I should know? 
+
+I want to let you know that we're still working out some of the details for what I've shown you today, so I'm going to ask you to **NOT** *rely on the accuracy of the information that you've seen*, in case it's not correct.
 
 ## Thank You and Closing - 1 minute
 
