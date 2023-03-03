@@ -30,11 +30,11 @@ Errors may occur due to issues connecting to various upstream APIs, such as clai
 
 ### Issue investigation steps
 
-...
+Depending on the errors encountered our team would reach out to contacts with the corresponding upstream connections. A full list of datapoints/features on My VA and corresponding owners and means of contact can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/README.md#my-va-features).
 
 
 ### Flipper Features and Rollback
-- The feature flag for this feature is: ...
+- The feature flag for this feature is: `show_myva_dashboard_2_0`
 
 ## Security
 No PII/PHI involved in this feature, or known/accepted security vulnerabitlities
