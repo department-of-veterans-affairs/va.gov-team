@@ -62,6 +62,9 @@ Configuration setup in test environment must include:
 ### Summary Defect Report
 - [ ] TBD 
 
+### Traceability Report 
+- [X] [VAOS](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/unit-test-coverage-report/)
+
 ### E2E tests 
 - [ ] _Developer to provide a link to the product's code_
 
