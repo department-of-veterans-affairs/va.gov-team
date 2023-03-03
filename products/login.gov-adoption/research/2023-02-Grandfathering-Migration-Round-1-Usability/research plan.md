@@ -185,8 +185,8 @@ In addition to demographic and device questions, we’ve provided the following 
 
 We’re providing the following time slots (30 total) with the aim to book 15 sessions:
 
-|Number|Date|Time slots (EST)|Moderator|Notetaker|Observers|
-|:--|:--|:--|:--|
+|Slot|Date|Time (EST)|Moderator|Notetaker|Observers|
+|:--|:--|:--|:--|:--|:--|
 |1|Monday, March 27th|12-1pm|Tyler|Carolyn||
 |2|Monday, March 27th|3-4pm|Carolyn|Tyler||
 |3|Tuesday, March 28th|9-10am|Tyler|Carl||
@@ -211,12 +211,12 @@ We’re providing the following time slots (30 total) with the aim to book 15 se
 |22|Tuesday, April 4th|11am-12pm|Tyler|Sofia||
 |23|Tuesday, April 4th|1-2pm|Carolyn|Carl||
 |24|Tuesday, April 4th|3-4pm|Carolyn|Sofia||
-|25|Wednesday, April 5th|8-9am|Tyler|Carl|
-|26|Wednesday, April 5th|10-11am|Tyler|Carolyn|
+|25|Wednesday, April 5th|8-9am|Tyler|Carl||
+|26|Wednesday, April 5th|10-11am|Tyler|Carolyn||
 |27|Wednesday, April 5th|12-1pm|Carolyn|Sofia||
-|28|Thursday, April 6th|10-11am|Tyler|Carl|
-|29|Thursday, April 6th|12-1pm|Carolyn|Sofia|
-|30|Thursday, April 6th|2-3pm|Carolyn|Sofia|
+|28|Thursday, April 6th|10-11am|Tyler|Carl||
+|29|Thursday, April 6th|12-1pm|Carolyn|Sofia||
+|30|Thursday, April 6th|2-3pm|Carolyn|Sofia||
 
 ## Team Roles
 
