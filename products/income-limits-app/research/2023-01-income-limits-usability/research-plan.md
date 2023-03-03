@@ -12,7 +12,7 @@ We are rebuilding and modernizing this application, and would like to get user f
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/income-limits-app)
 
-[Link to card in research repo]()
+[Link to card in research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/219)
 
 ### OCTO Objectives 
 
@@ -85,7 +85,7 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 	
 ## Recruitment
 
-Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions** using the criteria below, which are also in this [recruitment intake ticket](). 
+Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions** using the criteria below, which are also in this [recruitment intake ticket](URL TBD). 
 
 ### Required criteria 
 - NONE have VA health care
