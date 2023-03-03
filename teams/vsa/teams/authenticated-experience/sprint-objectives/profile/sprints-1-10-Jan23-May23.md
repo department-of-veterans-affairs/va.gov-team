@@ -250,6 +250,28 @@ This all depends on Florence having Github access.
 
 - Update All Profile pages to new info card component #53632
 
+### Direct deposit: EVSS > Lighthouse migration
+
+**PM**
+
+- QA planning
+
+**Design**
+
+- User acceptance testing (UAT) planning
+
+**FE - Adam**
+
+- Review updates with Tom; determine if we need any analytics changes
+- Integration Testing between FE and BE (Staging)
+
+**BE**
+
+- Finish build and outstanding tickets!
+- Review changes with Mobile App Team (if not already done)
+- Vets-API Review with Adam
+- Integration Testing between FE and BE (Staging)
+
 ### Notification preferences
 
 **FE - Adam**
