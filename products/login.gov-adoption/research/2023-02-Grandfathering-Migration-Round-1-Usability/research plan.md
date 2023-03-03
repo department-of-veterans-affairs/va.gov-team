@@ -160,13 +160,13 @@ In addition to demographic and device questions, we’ve provided the following 
 
 |Date|Milestone|
 |:--|:--|
-|March 1|Submit prototype for Midpoint Review|
-|March 1|Submit artifacts for Research Review|
-|March 3|Prototype is ready|
-|March 6-10|Pilot session [Need to update with details]|
-|March 13-22|Research sessions|
-|March 22-24|Analysis|
-|March 27-29|Share findings|
+|March 8|Submit artifacts for Research Review|
+|March 13|Submit prototype for Midpoint Review|
+|March 17|Prototype is ready|
+|March 20-23|Pilot session [Need to update with details]|
+|March 27 - April 6|Research sessions|
+|April 10-12|Analysis|
+|April 13-19|Share findings|
 
 ### Pilot session
 
@@ -185,30 +185,51 @@ In addition to demographic and device questions, we’ve provided the following 
 
 We’re providing the following time slots (30 total) with the aim to book 15 sessions:
 
-|Date|Time slots (EST)|Number of options per day|
-|:--|:--|:--|
-|Monday, March 13th|10-11am, 12-1pm, 3-4pm, 5-6pm|4 options|
-|Tuesday, March 14th|9-10am, 11am-12pm, 1-2pm, 3-4pm|4 options|
-|Wednesday, March 15th|8-9am, 10-11am, 12pm-1pm, 5-6pm|4 options|
-|Thursday, March 16th|8-9am, 1-2pm, 3-4pm, 5-6pm|4 options|
-|Friday, March 17th|8-9am, 10-11am, 12-1pm, 2-3pm|4 options|
-|Monday, March 13th|10-11am, 12-1pm, 3-4pm|3 options|
-|Tuesday, March 14th|9-10am, 11am-12pm, 1-2pm, 3-4pm|4 options|
-|Wednesday, March 15th|8-9am, 10-11am, 12pm-1pm|3 options|
+|Number|Date|Time slots (EST)|Moderator|Notetaker|Observers|
+|:--|:--|:--|:--|
+|1|Monday, March 27th|12-1pm|Tyler|Carolyn||
+|2|Monday, March 27th|3-4pm|Carolyn|Tyler||
+|3|Tuesday, March 28th|9-10am|Tyler|Carl||
+|4|Tuesday, March 28th|11am-12pm|Tyler|Sofia||
+|5|Tuesday, March 28th|1-2pm|Carolyn|Carl||
+|6|Tuesday, March 28th|3-4pm|Carolyn|Sofia||
+|7|Wednesday, March 29th|8-9am|Tyler|Carl||
+|8|Wednesday, March 29th|10-11am|Tyler|Carolyn||
+|9|Thursday, March 30th|8-9am|Tyler|Carl||
+|10|Thursday, March 30th|11am-12pm|Carolyn|Sofia||
+|11|Thursday, March 30th|1-2pm|Carolyn|Sofia||
+|12|Thursday, March 30th|3-4pm|Tyler|Sofia||
+|13|Friday, March 31st|8-9am|Tyler|Carl||
+|14|Friday, March 31st|10-11am|Carolyn|Tyler||
+|15|Friday, March 31st|12-1pm|Tyler|Sofia||
+|16|Friday, March 31st|2-3pm|Carolyn|Sofia||
+|17|Monday, April 3rd|10-11am|Carolyn|Tyler||
+|18|Monday, April 3rd|12-1pm|Tyler|Sofia||
+|19|Monday, April 3rd|3-4pm|Carolyn|Carl||
+|20|Monday, April 3rd|5-6pm|Tyler|Sofia||
+|21|Tuesday, April 4th|9-10am|Tyler|Carl||
+|22|Tuesday, April 4th|11am-12pm|Tyler|Sofia||
+|23|Tuesday, April 4th|1-2pm|Carolyn|Carl||
+|24|Tuesday, April 4th|3-4pm|Carolyn|Sofia||
+|25|Wednesday, April 5th|8-9am|Tyler|Carl|
+|26|Wednesday, April 5th|10-11am|Tyler|Carolyn|
+|27|Wednesday, April 5th|12-1pm|Carolyn|Sofia||
+|28|Thursday, April 6th|10-11am|Tyler|Carl|
+|29|Thursday, April 6th|12-1pm|Carolyn|Sofia|
+|30|Thursday, April 6th|2-3pm|Carolyn|Sofia|
 
 ## Team Roles
 
 Please list the people who will be serving in each role.
 
-* Moderator: Tyler Gindraux (Phone: 843-593-1835) | Email: tyler@bluetiger.digital)	
+* Moderator: Tyler Gindraux (Phone: 843-593-1835) | Email: tyler@bluetiger.digital), Carolyn Williams
 * Research guide writing and task development: Tyler Gindraux
 * Participant recruiting & screening: Perigean
-* Project point of contact: Elizabeth Koch (elizabeth@bluetiger.digital)
+* Project point of contact: Tyler Gindraux
 * Participant(s) for pilot test: [Need to update with details]
 * Accessibility specialist: [Need to update with details]
-* Note-takers: Carolyn Williams (carolyn@themostudio.com), Carl Dickerson (carl@themostudio.com)
-* Observers: John Rahaghi (john.rahaghi@va.gov), Porta Antiporta (porta@themostudio.com), Jay Tanner (jtanner@pluribusdigital.com), Elizabeth Koch (elizabeth@bluetiger.digital), Anthony Levin-Decanini (anthony@themostudio.com), Steve Dickson (sdickson@greenthreadsllc.com), Carolyn Williams (carolyn@themostudio.com), Carl Dickerson (carl@themostudio.com), Sofia Kirkman (sofia@themostudio.com), Ksenia Coulter (kcoulter@pluribusdigital.com), Melissa Miller (mmiller@pluribusdigital.com)
-* Other observers (where space permits): Clayton Zook (clayton.zook@oddball.io), Amanda Porter (ajohnson@clarityinnovates.com), Charlye Tran (charlye@bluetiger.digital) 
+* Notetakers: Carl Dickerson (carl@themostudio.com), Sofia Kirkman (sofia@themostudio.com)
+* Observers: John Rahaghi (john.rahaghi@va.gov), Porta Antiporta (porta@themostudio.com), Jay Tanner (jtanner@pluribusdigital.com), Elizabeth Koch (elizabeth@bluetiger.digital), Anthony Levin-Decanini (anthony@themostudio.com), Steve Dickson (sdickson@greenthreadsllc.com), Ksenia Coulter (kcoulter@pluribusdigital.com), Melissa Miller (mmiller@pluribusdigital.com), Clayton Zook (clayton.zook@oddball.io), Amanda Porter (ajohnson@clarityinnovates.com), Charlye Tran (charlye@bluetiger.digital)
 
 Each session will include no more than 6 total attendees per session: 1 Veteran participant, 1 moderator, 1-2 notetaker(s), 1-2 observer(s).
 
@@ -217,4 +238,4 @@ Each session will include no more than 6 total attendees per session: 1 Veteran 
 This plan has been reviewed by:
 * John Rahaghi, OCTO
 * Login.gov Adoption Team
-* Clayton Zook, Researcher, Core Identity Product Team (Surge)
+* Clayton Zook, Researcher, Core/Surge Identity Product Team
