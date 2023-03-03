@@ -289,7 +289,7 @@ Enter the date on your decision notice (the letter you received in the mail from
 
 _Error_
 
-If you are filing a Supplemental Claim within one-year of a decision from the United States Court of Appeals for Veterans Claims, United States Court of Appeals for the Federal Circuit, or Supreme Court of the United States, identify the date of the court decision in item 13B and attach a copy of the decision within this form.
+If you're filing a Supplemental Claim within 1 year of receiving your decision notice, provide the date listed on your decision notice. 
 
 #### You'll need to select an issue
 You must select at least 1 issue before you can continue filling out your request.
@@ -305,7 +305,7 @@ We'll save your application every time you add or update information.
 
 **The new decision review process**
 
-If you're filing a Supplemental Claim in response to a Statement of the Case (SOC) or a Supplemental Statement of the Case (SSOC) in the old appeals process, we’ll move your claim from the old appeals process to the new decision review process. By filing a Supplemental Claim, you're opting in to the new decision review process. You’re likely to get a faster decision on your claim when you switch to the new process.
+If you're filing a Supplemental Claim in response to a Statement of the Case (SOC) or a Supplemental Statement of the Case (SSOC) in the old appeals process (for a VA decision you received before February 19, 2019), we’ll move your claim from the old appeals process to the new decision review process. By filing a Supplemental Claim, you're opting in to the new decision review process. You’re likely to get a faster decision on your claim when you switch to the new process.
 
 If you want to continue your claim in the old appeals process, don't submit a Supplemental Claim. Check your decision letter for more details about the appeals process.
 
@@ -818,7 +818,10 @@ If we need more information, we'll contact you to tell you what other informatio
 
 When we've completed your review, we'll mail you a decision packet with the details of our decision. [Learn more about what happens after you request a review](https://www.va.gov/decision-reviews/after-you-request-review/)
 
-You are entitled to a hearing at any time in the claims process. If you wish to have a hearing, you can contact us online through Ask VA or call us at 1-800-827-1000 (TTY:711).
+**Note:** You can choose to have a hearing at any point in the claims process. Contact us online through Ask VA to request a hearing.
+[Contact us through Ask VA]
+
+You can also call us at 1-800-827-1000 (TTY:711).
 
 ### What to do if you have questions now
 
