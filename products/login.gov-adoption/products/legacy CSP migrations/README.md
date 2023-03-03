@@ -2,14 +2,17 @@
 
 ## Overview
 
+ - As a VA.gov user, I want to use modern, secure Credential Service Providers (CSPs) So that I can ensure that my information is safe when accessing VA services.
+ - As a Veteran, I need only one sign-on to access all VA products and services, so that I can have less complication.
+
 
 ## Problem Statement
-**As a** VA.gov user
-**I want** to use modern, secure Credential Service Providers (CSPs)
-**So that** I can ensure that my information is safe when accessing VA services.
+As we continue to evolve the VA.gov ecosystem, legacy Credential Service Providers (CSP's) do not meet customer experience and security objectives prioritized by the administration in the EO on improving customer experience. We need to migrate users to newer CSP's that do meet these objectives. In this specific instance, we are working to move DS Logon users and MyHealtheVet Premium users to Login.gov without the need to reverify their identities.
 
-As we continue to evolve the VA.gov ecosystem, legacy Credential Service Providers (CSP's) do not meet customer experience and security objectives prioritized by the administration in the EO on improving customer experience.  We need to migrate users to newer CSP's that do meet these objectives.  In this specific instance, we are working to move select DS Logon users to Login.gov without the need to reverify their identities.
- 
+Grandfathering lets Veterans migrate without requiring them to re-proof right away. Through this approach, Veterans with Premium DS Logon or Premium My HealtheVet accounts would set up a limited access (IAL1 compliant) Login.gov account. Limited access means Veterans can use their Login.gov account to access VA services. Veterans will need to upgrade (IAL2) by identity proofing in order to use their Login.gov account to access other government services. The limited use of IAL1 accounts across agencies will provide an incentive to upgrade to IAL2. Or, we could set a deadline for when accounts need to be proofed by. Additionally, inherited proofing from MHV would enable users to upgrade to IAL2 accounts without the need for reproofing.
+
+There is an opportunity to bind an LOA2 VA credentials to Login.gov IAL1 so it can at least be used within VA without requiring initial additional identity proofing. The end goal is to simplify the migration process for existing users.
+
 ## Desired User Outcomes
 
 Eligible users should be able to easily move their verified identity from DS Logon to Login.gov.
