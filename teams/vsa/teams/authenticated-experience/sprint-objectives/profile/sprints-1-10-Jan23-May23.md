@@ -255,10 +255,13 @@ This all depends on Florence having Github access.
 **PM**
 
 - QA planning
+  - **We only need to test the comp & pen integration since the education integration was NOT updated**.
+  - I think both Florence and Liz may have some bandwidth this sprint, so they can potentially help with this (not that anyone is a particular expert in this)
+  - [Here is some test case documentation we already have put together](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-direct-deposit.md).  This is a good place to start, but I can almost guarantee it needs to be reviewed and validated, especially for appropriate staging user info.
 
-**Design**
+**Design - Florence**
 
-- User acceptance testing (UAT) planning
+- User acceptance testing (UAT) planning & conversation guide
 
 **FE - Adam**
 
@@ -277,6 +280,13 @@ This all depends on Florence having Github access.
 **FE - Adam**
 
 - Build editing page for profile PT2 #54434
+
+### Logged-in IA/nav research
+
+**Design - Liz**
+
+- User research conversation guide
+- Recruiting
 
 ## Sprint 7 (3/29 - 4/11)
 
