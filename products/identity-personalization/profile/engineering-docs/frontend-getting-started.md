@@ -95,6 +95,14 @@ node script/app-coverage-report.js
 
 To view more details, you can open `coverage/coverage-summary.json` after the coverage report is generated
 
+Note: some engineers may want to look at file by file coverage using an html coverage reporter. The Istanbul package provides such reports, but producing these reports requires some modification to the current unit test node script. Below is a command that can be used to produce a coverage html report in the `./coverage` of vets website.
+
+``` bash
+LOG_LEVEL=debug NODE_ENV=test nyc --all --include 'src/applications/personalization/**' --reporter=html mocha --reporter mocha-multi-reporters --reporter-options configFile=config/mocha-multi-reporter.json --no-color --retries 5 --max-old-space-size=4096 --config config/mocha.json --recursive './src/applications/personalization/**/*.unit.spec.js?(x)'
+```
+
+It's a lengthy command, but if you dissect the `script/run-unit-test.js` node script you can see where it was derived from.
+
 ---
 	
 **Simulating the logged in status on FE:** When running a mock-api you will need to set a local storage value. Running `localStorage.setItem('hasSession', true)` in your browser devtools and then refreshing any `/profile` route, you should see the profile load as a logged in user with the mock api data reflected in the UI.
