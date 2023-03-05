@@ -81,10 +81,10 @@ NODE_ENV=test npx nyc --all --include="src/applications/claims-status/containers
 ```
 ---
 
-generate test coverage for a specific app
+generate test coverage for a specific app folder. The app name passed in needs to be relatice to the root src/applications/ folder, so profile or dashboard are not valid names, so personalization will run coverage for those apps and all other apps in the folder.
 
 ``` bash
-yarn test:coverage --app-folder profile
+yarn test:coverage --app-folder personalization
 ```
 
 then run
