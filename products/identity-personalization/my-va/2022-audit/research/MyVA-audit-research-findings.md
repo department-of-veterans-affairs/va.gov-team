@@ -6,7 +6,7 @@ Last updated: 3/3/2023
 
 [Angela Agosto - email](angela.agosto@adhocteam.us)
 
-[Research readout](https://docs.google.com/presentation/d/18n6LX-9sYeBTNmeJvjjCxT_n6IxMWgMOyKfb7LnNtWw/edit#slide=id.ge360b30891_0_527)
+[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/Monday%20Design%20and%20Research%20Share%20-%20My%20VA%20Audit%20Usability%20Findings.pdf)
 
 <br>
 
