@@ -1,7 +1,9 @@
-Name: VA.gov Authentication Feature Request Template
 
-About: "For feature requests. Please search for existing issues first."
-
+---
+name: VA.gov Authentication Feature Request Template
+about: "For feature requests. Please search for existing issues first."
+title: VA.gov Authentication Feature Request Template
+labels: identity
 ---
 
 **Please Describe The Problem To Be Solved:**
