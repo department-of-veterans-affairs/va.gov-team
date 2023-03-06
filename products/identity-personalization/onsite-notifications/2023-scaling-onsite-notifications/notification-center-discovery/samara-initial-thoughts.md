@@ -8,5 +8,16 @@ Since I likely won't be here for a good portion of this work, I wanted to get so
 
 [Tressa also did usability testing on a potential pattern for the notification center](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md). We don't necessarily have to follow this design or the proposed patterns exactly, but we may be able to leverage aspects of this.
 
-## Stakeholder research
+## Outstanding questions
+
+Currently, more of our outstanding discovery needs revolve around higher-level product thinking, including when/if we should add a notification center in the first place, how we do this iteratively, and how we do this in collaboration with the many other teams that build on and support VA.gov.
+
+### Should we add a notification center?
+
+I think there's enough evidence to continuing to scale onsite notifications in general -- [we've heard repeatedly from years of research that the first thing people want to see when logging in to VA.gov are any necessary action items](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery#overview). 
+
+However, whether we add a notification center or how exactly we implement getting action items in front of people is still up for debate (ie. product and design thinking). There is likely room for thinking and maybe even some research around this, but what I can say for sure is that **the way to get at this answer is NOT by usability testing a prototype like Tressa did**. That can answer design specifics, but doesn't get at the larger product questions. I'm not sure how to tackle this right now, but it's something that's top of mind.
+
+### Stakeholder research
+
 
