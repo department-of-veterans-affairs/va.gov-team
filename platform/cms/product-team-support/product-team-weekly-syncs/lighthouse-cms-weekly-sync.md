@@ -14,6 +14,10 @@
 
 </details>
 
+## Monday, March 6, 2023
+* Today's topic - follow up on previous discussion around data model changes
+* 
+
 ## Wednesday, March 1, 2023
 * Review action items from last meeting and other updates
   * #10869 previously blocked, currently needs refinement, looking at being included next sprint
