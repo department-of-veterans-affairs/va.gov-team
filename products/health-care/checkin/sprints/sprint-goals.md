@@ -33,6 +33,8 @@ ________________________________________________________________________________
          - [[TEXT SOLUTION] [BE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
             - Front end team can investigate VeText endpoint and get started on the sequence diagram         
       - Prepare for Release
+         - [[Design] Migrate unified experience wireframes to 375 width](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54581)
+         - [Add in travel reimbursement into check in wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54572)
          - [[UX] Update TestRail Test Cases to Include the Texting Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54346)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
    - **Sub Goal: [Send to Check-in when Pre-Check-in link is accessed inside check-in window](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)**
