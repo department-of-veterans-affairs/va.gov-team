@@ -80,11 +80,6 @@ For the MVP, we didn't add any indicators that someone has a new notification un
 
 ## Questions
 
-#### General
-
-- What can we get done in 3 months before Samara's maternity leave?
-- What would be appropriate to work on while Samara is on leave?
-
 #### Intake
 
 - What is VANotify's current intake process? Can we piggyback off of this?
