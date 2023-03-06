@@ -203,31 +203,31 @@ We’re providing the following time slots (30 total) with the aim to book 15 se
 |14|Friday, March 31st|10-11am|Carolyn|Tyler||
 |15|Friday, March 31st|12-1pm|Tyler|Sofia||
 |16|Friday, March 31st|2-3pm|Carolyn|Sofia||
-|17|Monday, April 3rd|10-11am|Carolyn|Tyler||
+|17|Monday, April 3rd|10-11am|Carolyn|Carl||
 |18|Monday, April 3rd|12-1pm|Tyler|Sofia||
 |19|Monday, April 3rd|3-4pm|Carolyn|Carl||
 |20|Monday, April 3rd|5-6pm|Tyler|Sofia||
-|21|Tuesday, April 4th|9-10am|Tyler|Carl||
-|22|Tuesday, April 4th|11am-12pm|Tyler|Sofia||
+|21|Tuesday, April 4th|10-11am|Carolyn|Carl||
+|22|Tuesday, April 4th|12-1pm|Tyler|Sofia||
 |23|Tuesday, April 4th|1-2pm|Carolyn|Carl||
-|24|Tuesday, April 4th|3-4pm|Carolyn|Sofia||
-|25|Wednesday, April 5th|8-9am|Tyler|Carl||
-|26|Wednesday, April 5th|10-11am|Tyler|Carolyn||
-|27|Wednesday, April 5th|12-1pm|Carolyn|Sofia||
-|28|Thursday, April 6th|10-11am|Tyler|Carl||
-|29|Thursday, April 6th|12-1pm|Carolyn|Sofia||
-|30|Thursday, April 6th|2-3pm|Carolyn|Sofia||
+|24|Tuesday, April 4th|3-4pm|Tyler|Sofia||
+|25|Wednesday, April 5th|10-11am|Carolyn|Carl||
+|26|Wednesday, April 5th|12-1pm|Carolyn|Sofia||
+|27|Wednesday, April 5th|4-5pm|Tyler|Sofia||
+|28|Thursday, April 6th|10-11am|Carolyn|Carl||
+|29|Thursday, April 6th|2-3pm|Carolyn|Sofia||
+|30|Thursday, April 6th|4-5pm|Tyler|Sofia||
 
 ## Team Roles
 
 Please list the people who will be serving in each role.
 
-* Moderator: Tyler Gindraux (Phone: 843-593-1835) | Email: tyler@bluetiger.digital), Carolyn Williams
+* Project point of contact: Tyler Gindraux (Phone: 843-593-1835) | Email: tyler@bluetiger.digital)
+* Moderator: Tyler Gindraux, Carolyn Williams
 * Research guide writing and task development: Tyler Gindraux
 * Participant recruiting & screening: Perigean
-* Project point of contact: Tyler Gindraux
 * Participant(s) for pilot test: [Need to update with details]
-* Accessibility specialist: [Need to update with details]
+* Accessibility specialist: -
 * Notetakers: Carl Dickerson (carl@themostudio.com), Sofia Kirkman (sofia@themostudio.com)
 * Observers: John Rahaghi (john.rahaghi@va.gov), Porta Antiporta (porta@themostudio.com), Jay Tanner (jtanner@pluribusdigital.com), Elizabeth Koch (elizabeth@bluetiger.digital), Anthony Levin-Decanini (anthony@themostudio.com), Steve Dickson (sdickson@greenthreadsllc.com), Ksenia Coulter (kcoulter@pluribusdigital.com), Melissa Miller (mmiller@pluribusdigital.com), Clayton Zook (clayton.zook@oddball.io), Amanda Porter (ajohnson@clarityinnovates.com), Charlye Tran (charlye@bluetiger.digital)
 
