@@ -32,12 +32,13 @@ Currently, this is where I have the most questions. While obviously we put user 
 
 Pending availability and willingness. I would only book 30 minutes with folks since everyone is super busy.
 
-1. Chris Johnston
-2. Lauren Alexanderson, or whoever she might tap to do this
-3. Dave Conlon
-4. Matt Self
-5. Mikki Northuis
-6. Chante Lantos-Swett
+1. Chris Johnston - Portfolio lead; Currently helping out with the mobile app
+2. Lauren Alexanderson - Health lead
+3. Dave Conlon - Sitewide lead
+4. Matt Self - Benefits lead
+5. Mikki Northuis - IA/Nav lead
+6. Chante Lantos-Swett - Account experience lead; Also leads customer support work
+7. Martha Wilkes - Accessibility lead
 
 #### Questions
 
