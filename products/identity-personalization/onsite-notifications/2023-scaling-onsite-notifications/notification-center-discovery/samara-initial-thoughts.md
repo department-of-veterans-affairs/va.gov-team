@@ -42,8 +42,9 @@ Pending availability and willingness. I would only book 30 minutes with folks si
 
 #### Questions
 
-1. What product line does each stakeholder oversee?
-2. What are their expectations around action-item/user-centric notifications on VA.gov? This could probably go a lot of places and is a pretty broad question, so I'd be prepared for lots of follow-up and discussion on this topic.
-3. Have they talked to their users about notifications? What have they learned? What are their users' needs/expectations?
-4. Where do they expect notifications to be accessible from?
-5. To gauge, but maybe not ask outright -- what is their level of comfort with some type of notification functionality showing in the navigation?
+All of these are basic starter questions and could probably have a lot of follow-up, so I'd be prepared to have opener question and then see where each conversation goes.
+
+1. What are their expectations around action-item/user-centric notifications on VA.gov? 
+2. Have they talked to their users about notifications? What have they learned? What are their users' needs/expectations?
+3. Where do they expect notifications to be accessible from?
+4. To gauge, but maybe not ask outright -- what is their level of comfort with some type of notification functionality showing in the navigation?
