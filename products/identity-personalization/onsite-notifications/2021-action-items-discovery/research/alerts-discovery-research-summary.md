@@ -72,14 +72,9 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 3. Many participants were surprised and excited at the level of personalized content that was provided on the alerts page and My VA (even though it was a prototype and not their real information).
 
 #### Central Alerts Page
-
-<details>
-  <summary>Screenshot</summary>
  
- ![alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization//
-onsite-notifications/2021-action-items-discovery/research/screenshots/Alerts%20page.png)
+ ![alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/screenshots/Alerts%20page.png)
  
-</details>
 
 1. All users were quickly and easily able to find and understand the 'Alerts' link and indicator (red dot) in the navigation.
 2. Users easily understood the purpose of the alerts page and why they were seeing the alerts they were seeing.
@@ -93,12 +88,7 @@ onsite-notifications/2021-action-items-discovery/research/screenshots/Alerts%20p
 
 #### Alerts section on My VA
 
-<details>
-  <summary>Screenshot</summary>
- 
-![My VA View All Alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/screenshots/My%20VA.png)
- 
-</details>
+![My VA View All Alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/screenshots/My%20VA.png)
 
 1. Users expect there to be information about their alerts on My VA, in addition to a separate alerts page.
 2. Users were very confused about *why* specific alerts were shown on My VA. 
@@ -146,7 +136,7 @@ onsite-notifications/2021-action-items-discovery/research/screenshots/Alerts%20p
 
 > "Obviously the alerts at the top, that's helpful. The red dot automatically draws my attention to it because the column header is alerts. Obviously that tells me that something that I need to look at or needs my attention."
 
-![Indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/screenshots/Alerts%20indicator.png)
+![Indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/screenshots/Alerts%20indicator.png)
 
 **2. Users easily understood the purpose of the alerts page and why they were seeing the alerts they were seeing.** Users understood the layout and content of the page, and were easily able to talk to personal experiences where certain alerts would be helpful.
 
@@ -210,7 +200,7 @@ onsite-notifications/2021-action-items-discovery/research/screenshots/Alerts%20p
 
 > "Vets usually have a lot of appointments and a lot of medications... it would be SO cluttered with those that the important things might get lost." 
 
-![alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/screenshots/Alerts%20page.png)
+![alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/screenshots/Alerts%20page.png)
 
 ### Alerts section on My VA
 
@@ -232,7 +222,7 @@ onsite-notifications/2021-action-items-discovery/research/screenshots/Alerts%20p
 
 > "You know where it says 'view all alerts'... I want it to stand out more- it shouldn't just be part of the page like everything else."
  
-![My VA View All Alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/screenshots/My%20VA.png)
+![My VA View All Alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/screenshots/My%20VA.png)
  
 
 ### Prioritization
@@ -285,7 +275,7 @@ onsite-notifications/2021-action-items-discovery/research/screenshots/Alerts%20p
   - Primary care location 
 - Users pointed out the icon in the form alert as something that would make them think it was important.
 
-![icon](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/screenshots/icon.png)
+![icon](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/screenshots/icon.png)
 
 
 ## Recommendations
