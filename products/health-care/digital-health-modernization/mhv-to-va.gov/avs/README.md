@@ -12,8 +12,12 @@
   - Mark Dewey - Engineering
   - Stephen Barrs - Engineering
 - [Kickoff Mural (includes initial decisions, definition of success, and more)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677076638208/77cc850ded3dd4358451f0a42f7a96d9f49a1206?sender=u7c471a43344939c759cb1640)
- 
-- Stakeholders: 
+
+- Partners and SMEs
+  - Shane Elliott
+  - Rob Durkin
+  - Ro Weaver (and MHV AVS group)
+  - Coulton Bunney
 
 ## The Problem
 After Visit Summaries (AVS) serve many purposes*, including:
