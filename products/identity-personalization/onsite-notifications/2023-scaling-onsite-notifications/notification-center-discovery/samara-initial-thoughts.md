@@ -49,7 +49,7 @@ All of these are basic starter questions and could probably have a lot of follow
 ### Next steps
 
 1. Thoroughly review Tressa's research.
-2. Determine if there are **high-level** outstanding questions we still have, or anything we want to update from Tressa's research.
+2. Determine if there are **high-level** outstanding questions we still have, or anything we want to update from Tressa's research, and then how we'd go about getting those answers.
 3. Start stakeholder interview planning.
 4. Schedule/hold/summarize stakeholder interviews.
 5. Determine where we go from here.
