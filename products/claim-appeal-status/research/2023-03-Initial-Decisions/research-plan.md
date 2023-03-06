@@ -33,7 +33,7 @@ With this research, we want to speak to Veterans who are currently waiting for d
 Hopefully by the end of this study we will have a better idea of: 
 - What is missing from the CST experience for Veterans who are awaiting claim decisions. 
 - What is working well in CST for these Veterans. 
-- hoe the various user states affect the UI and its strengths/weaknesses. 
+- How the various user states affect the UI and its strengths/weaknesses. 
 
 ### Research questions
 Part 1: Warm up
