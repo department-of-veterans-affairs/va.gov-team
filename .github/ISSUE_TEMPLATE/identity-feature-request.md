@@ -1,9 +1,11 @@
-Name: Identity Feature Request Template
+Name: VA.gov Authentication Feature Request Template
+
 About: "For feature requests. Please search for existing issues first."
 
 ---
 
-**Please Describe The Problem To Be Solved**
+**Please Describe The Problem To Be Solved:**
+
 **As a** ,
 <!-- Who is the storyteller? -->
 **I want** ,
@@ -12,7 +14,8 @@ About: "For feature requests. Please search for existing issues first."
 <!-- What is the value to the storyteller? -->
 #### Acceptance Criteria
 - [ ] Documentation has been updated
-- [ ] AC?
+- [ ] What are the conditions that the solution must meet to be accepted as resolved or completed?
+
 #### Product notes
 
 
@@ -22,3 +25,7 @@ About: "For feature requests. Please search for existing issues first."
 * Caveats and considerations for the future
 
 If there are multiple solutions, please present each one separately.)
+
+
+## Example
+`As a` **Veteran** `I want` **to be able to login with my login.gov account** `so that` **I can have a faster and more secure login experience when accessing the benefits I've earned and deserve**
