@@ -34,11 +34,14 @@
 
 ### Documentation & Research Findings:
 
+|RX Refill Status | Definition | Comments
+|-------|-------|-------|
+|Foresee Pharmacy Comments|[Qual Analytics](https://docs.google.com/spreadsheets/d/1TKAPLKVZwydy1l2pFuISTKlp9OFDm1SZ/edit?usp=sharing&ouid=100683152886806670032&rtpof=true&sd=true)||
+|Mobile Research Aug 2022| [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022)<br>[Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/research-read-out.pdf)
+|Mobile Research June 2022|[Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/rx-refill/usability-testing/june-2022)<br>[Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/june-2022/research-readout-deck.pdf)
+[Mobile UX Designs]|[Designs-Figma](https://www.figma.com/file/K9hthKiVlGNihyPkyIEq3e/%F0%9F%9A%A2-Health1.0---Shipped---VAMobile?node-id=502%3A19&t=dWccxkJJN4w65qcg-0)
+[RX Refill Documentation: Mobile]|[Figma-Documentaiton](https://www.figma.com/file/zXHemE9WIejYXAM4MvdlVL/%F0%9F%94%8D-Rx-Refill-1.0-Documentation---Working---VAMobile?node-id=0%3A1&t=flfYrsT62odicJbN-1)
 
-
-
-
-### Mobile Screens
 
 
 ### MHV Web Screens
