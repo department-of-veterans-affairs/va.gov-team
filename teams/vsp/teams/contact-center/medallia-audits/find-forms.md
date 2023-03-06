@@ -35,12 +35,12 @@ Medallia responses were exported and analyzed by members of the VA Platform Cont
 4. Feedback survey responses collected from any va.gov page where the respondent mentioned any combination of the terms “find form” and the respondent was unable to complete their task
 
 ### Content
-**Lack of information**
+**Lack of information**<br />
 Many respondents stated trouble determining how to submit their forms, whether that be digitally or through mail. This seemedto be one of the more common responses.
 * “I have completed form 0877 and cannot find out what to do with it to register my business as veteran owned.”
 * “While finding this firm was relatively easy the VA failed, as reliably done, to include where this form is to be sent by either mail, fax or email.”
 
-**Checking Status**
+**Checking Status**<br />
 Respondents also commented on issues checking the status of a previously submitted form or claim.
 * “Where do I find the status on form 21-8940 that the VA rep and I  filled out.?”
 
