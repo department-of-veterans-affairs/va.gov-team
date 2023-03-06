@@ -26,3 +26,23 @@ This is a product question to answer, and I think we can extrapolate insights fr
 
 ### Stakeholder research
 
+Currently, this is where I have the most questions. While obviously we put user needs and insights first, we can't ignore that notifications support all of VA.gov, and that means they support all of the teams that work on VA.gov. While I'm out, I'd like the team to talk to other OCTO stakeholder about their needs and expectations around user-centric notifications on VA.gov.
+
+#### People to talk to 
+
+Pending availability and willingness. I would only book 30 minutes with folks since everyone is super busy.
+
+1. Chris Johnston
+2. Lauren Alexanderson, or whoever she might tap to do this
+3. Dave Conlon
+4. Matt Self
+5. Mikki Northuis
+6. Chante Lantos-Swett
+
+#### Questions
+
+1. What product line does each stakeholder oversee?
+2. What are their expectations around action-item/user-centric notifications on VA.gov? This could probably go a lot of places and is a pretty broad question, so I'd be prepared for lots of follow-up and discussion on this topic.
+3. Have they talked to their users about notifications? What have they learned? What are their users' needs/expectations?
+4. Where do they expect notifications to be accessible from?
+5. To gauge, but maybe not ask outright -- what is their level of comfort with some type of notification functionality showing in the navigation?
