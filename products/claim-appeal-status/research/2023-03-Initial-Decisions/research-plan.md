@@ -40,8 +40,16 @@ Part 2: Initial Decision
 - On a scale of 1-5, how would you rate the process of filing that claim? Why?
 - What were the main challenges in filing the claim?
 - Was there anything that went well, or better than you expected?
+
+Status
+- Did you feel like you understood what was happening while your claim was being reviewed?
+- What information would have been useful to you to help you better understand what was going on with your claim? 
+
+Evidence
 - How did you know what evidence to provide for the claim?
 - Did you provide all your evidence up front, or did you add evidence along the way while the claim was being reviewed?
+
+Exams
 - Did you do a C&P exam as part of the claim process? How was that? 
 - How did you know that you had to do a C&P exam? 
 - How long did that process take, from when you found out about the exam to when you completed it? 
