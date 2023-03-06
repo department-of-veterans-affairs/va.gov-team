@@ -55,7 +55,7 @@ Additional, specific responsibilities related to these categories are described 
 ## Product Lead
 Product Leads are primarily accountable for the outcomes of their products and services. They are sometimes referred to as the OCTO team member, government lead, or Product Owner — although VA stakeholders are also frequently referred to as Product Owners, so this can create some confusion. (Occasionally, contractor Product Managers do some of this work.) 
 
-Vision, strategy 
+**Vision, strategy** 
 
 * Determine the product direction and goals in collaboration with the product manager, team, and stakeholders. Review and update them at least quarterly. 
 
@@ -69,7 +69,7 @@ Vision, strategy
 
   * Review OKRs against product direction and goals to determine if the product needs to pivot strategy or direction 
 
-Prioritization 
+**Prioritization** 
 
 * Set and provide timely guidance on priorities, goals, objectives, and desired outcomes 
 
@@ -81,7 +81,7 @@ Prioritization
 
   * Participate in team workshops as requested
 
-Managing up, stakeholders 
+**Managing up, stakeholders** 
 
 * Resolve or escalate blockers that impede the success of the team, involving (or deferring) the team as needed 
 
@@ -101,7 +101,7 @@ Managing up, stakeholders
 
   * Gain commitments from leaders and team members who are not direct reports 
 
-Team leadership 
+**Team leadership** 
 
 * Motivate individuals to form cohesive teams 
 
@@ -119,7 +119,7 @@ Team leadership
 
   * Don’t make the perfect the enemy of the good 
 
-Contract management 
+**Contract Management** 
 
 * Coordinate vendor management with OCTO acquisition team (REQUIRED) 
 
@@ -137,7 +137,7 @@ Contract management
 ## Product Manager
 Product Managers are usually contractors who are responsible for the delivery strategy and day-to-day work to deliver products and services. (Occasionally, OCTO Product Leads do this work.) 
 
-Product strategy, vision 
+**Product strategy, vision** 
 
 * Transform Product Lead’s high-level vision into detailed action plans 
 
@@ -153,7 +153,7 @@ Product strategy, vision
 
    * Include the Product Lead in agile ceremonies so they can provide their perspectives
 
-Prioritization, planning 
+**Prioritization, planning** 
 
 * Create short-term roadmaps by planning and scoping the size of the effort and resources required to achieve goals (2-3 months) 
 
@@ -169,7 +169,7 @@ Prioritization, planning
 
    * Cross-team planning (like PI planning) with stakeholders, middleware, API, and backend teams 
 
-Managing up, stakeholders 
+**Managing up, stakeholders** 
 
 * Escalate blockers that impede the success of the team to the Product Lead, or directly with stakeholders if agreed with your Product Lead. 
 
@@ -181,7 +181,7 @@ Managing up, stakeholders
 
    * Represent the team by presenting at impact reviews, Team of Teams, and other cross-team touch points
 
-Product leadership 
+**Product leadership** 
 
 * Lead product discovery with a cross-functional team 
 
