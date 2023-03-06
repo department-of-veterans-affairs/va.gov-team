@@ -10,7 +10,7 @@
   
 |Name|Role|Email|
 |----|----|-----|
-|Matthew Self |Product Owner, Gov't Lead| matthew.self2@va.gov |
+|Matthew Self            |Product Owner, Gov't Lead| matthew.self2@va.gov |
 |Sade Ragsdale |Product Manager| sade@coforma.io|
 |Eileen Chi| Research & Design |eileen.chi@coforma.io |
 |Robin Garrison |FE Engineer| robin.garrison@adhocteam.us |
@@ -24,8 +24,9 @@
 |Name|Role|Email|
 |----|----|-----|
 |Alejandro Mendiolaflores |Senior Analyst| alejandro.mendiolaflores@va.gov |
-|Jessica Pierce |Policy, VBA Compensation Service| jessica.pierce@va.gov|
-|Melissa Milenkovic| Role |Melissa.Milenkovic@va.gov |
+|Jessica Pierce |Assistant Director, Policy| jessica.pierce@va.gov|
+|Melissa Milenkovic| Manual Editor |Melissa.Milenkovic@va.gov |
+|Shireen Lackey| Senior Analyst |shireen.lackey@va.gov |
 
 ---
 
