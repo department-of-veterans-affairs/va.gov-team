@@ -19,10 +19,12 @@ ________________________________________________________________________________
    - [[FE]Knowledge Transfer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54464)
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
-      - Address Collab Cycle feedback & release
+      - Address Collab Cycle feedback
          - [[Other - Accessibility] aria-label text string should begin with visible text.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54483)
          - [[Content organization] Content organization and/or information within the user flow doesn't properly support all users. (02.07.1)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54482)
          - [[Components and pattern standards] Design components or patterns don't align with Design System guidelines. (04.07.1)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54481)
+      - Prepare for & Release to production
+         - [[FE] Add GA event on check in now primary button click](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54608)
          - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51693)
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
