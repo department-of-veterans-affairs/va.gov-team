@@ -3,7 +3,7 @@ name: Best Bet Request
 about: Request to creation or change a best bet in VA.gov search results
 title: Best bet request for <topic>
 labels: sitewide content, Sitewide IA
-assignees: jennymayoco
+assignees: jennymayoco, mnorthuis
 
 ---
 
@@ -13,7 +13,7 @@ assignees: jennymayoco
     - [ ] NEW: You would like to create a new best bet
     - [ ] CHANGE: You would like to change an existing best bet
 - Complete the corresponding section below to provide the relevant details  *(Section 1- New Request or Section 2-Change Request)*
-- Post a link to this issue in Slack Channel #va-search with tag for  @Joni Chan
+- Post a link to this issue in Slack Channel #sitewide-content-ia and tag  @Jenny Mayo
 
 # Section 1: New Request
 
