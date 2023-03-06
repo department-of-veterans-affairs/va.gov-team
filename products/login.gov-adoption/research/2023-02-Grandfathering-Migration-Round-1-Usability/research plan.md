@@ -1,7 +1,7 @@
 # Research Plan: Grandfathering Migration (Round 1: Usability)
 *Login.gov Adoption Team, Legacy Credential Migration, February 2023*
 
-Last updated by @tygindraux: February 28, 2023
+Last updated by @tygindraux: March 6, 2023
 
 ## Background
 
