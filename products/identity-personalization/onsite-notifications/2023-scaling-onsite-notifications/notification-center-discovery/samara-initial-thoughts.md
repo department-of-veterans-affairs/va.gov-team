@@ -45,3 +45,11 @@ All of these are basic starter questions and could probably have a lot of follow
 2. Have they talked to users about notifications? What have they learned? What are their users' needs/expectations?
 3. Where do they expect notifications to be accessible from on VA.gov?
 4. To gauge, but maybe not ask outright -- what is their level of comfort with some type of notification functionality showing in the navigation?
+
+### Next steps
+
+1. Thoroughly review Tressa's research.
+2. Determine if there are **high-level** outstanding questions we still have, or anything we want to update from Tressa's research.
+3. Start stakeholder interview planning.
+4. Schedule/hold/summarize stakeholder interviews.
+5. Determine where we go from here.
