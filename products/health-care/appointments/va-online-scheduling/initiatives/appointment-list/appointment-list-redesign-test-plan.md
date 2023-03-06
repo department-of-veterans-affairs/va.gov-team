@@ -8,7 +8,6 @@ On the VAOS homepage, the app displays the following for each status:
 - Upcoming appointments: displays up to 13 months for future booked VA and Community Care appointments including canceled VA booked appointments (note: Community Care booked appointments cannot be canceled in VAOS). 
 - Pending requests: displays pending VA and Community Care appointment requests and prior 120 days of VA and Community Care canceled requests 
 - Past appointments: displays up to 2 years of past VA and Community Care booked appointments (note: it does not display past canceled booked appointments) 
-- 
 
 ### Use Cases
  
