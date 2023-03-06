@@ -20,10 +20,6 @@ I think there's enough evidence to continuing to scale onsite notifications in g
 
 However, whether we add a notification center or how exactly we implement getting action items in front of people is still up for debate (ie. product and design thinking). There is likely room for thinking and maybe even some research around this, but what I can say for sure is that **the way to get at this answer is NOT by usability testing a prototype like Tressa did**. That can answer design specifics, but doesn't get at the larger product questions. I'm not sure how to tackle this right now, but it's something that's top of mind.
 
-### How do we scale onsite notifications iteratively?
-
-This is a product question to answer, and I think we can extrapolate insights from discovery, but ultimately need to do this thinking on our own. With regards to discovery, I'd just watch out for things that help us indicate what is a true MVP, and how we can scale this while maintaining user trust, usability, and without causing jarring changes to VA.gov or other teams' work.
-
 ### Stakeholder research
 
 Currently, this is where I have the most questions. While obviously we put user needs and insights first, we can't ignore that notifications support all of VA.gov, and that means they support all of the teams that work on VA.gov. While I'm out, I'd like the team to talk to other OCTO stakeholder about their needs and expectations around user-centric notifications on VA.gov.
