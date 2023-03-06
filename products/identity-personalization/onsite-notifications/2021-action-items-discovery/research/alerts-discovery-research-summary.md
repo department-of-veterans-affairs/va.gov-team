@@ -76,7 +76,8 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 <details>
   <summary>Screenshot</summary>
  
- ![alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/screenshots/Alerts%20page.png)
+ ![alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization//
+onsite-notifications/2021-action-items-discovery/research/screenshots/Alerts%20page.png)
  
 </details>
 
