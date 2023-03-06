@@ -10,6 +10,8 @@ Since I likely won't be here for a good portion of this work, I wanted to get so
 
 ## Outstanding questions
 
+[List of outstanding questions from the scaling onsite notifications initiative outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications#notification-center)
+
 Currently, more of our outstanding discovery needs revolve around higher-level product thinking, including when/if we should add a notification center in the first place, how we do this iteratively, and how we do this in collaboration with the many other teams that build on and support VA.gov.
 
 ### Should we add a notification center?
@@ -18,6 +20,9 @@ I think there's enough evidence to continuing to scale onsite notifications in g
 
 However, whether we add a notification center or how exactly we implement getting action items in front of people is still up for debate (ie. product and design thinking). There is likely room for thinking and maybe even some research around this, but what I can say for sure is that **the way to get at this answer is NOT by usability testing a prototype like Tressa did**. That can answer design specifics, but doesn't get at the larger product questions. I'm not sure how to tackle this right now, but it's something that's top of mind.
 
-### Stakeholder research
+### How do we scale onsite notifications iteratively?
 
+This is a product question to answer, and I think we can extrapolate insights from discovery, but ultimately need to do this thinking on our own. With regards to discovery, I'd just watch out for things that help us indicate what is a true MVP, and how we can scale this while maintaining user trust, usability, and without causing jarring changes to VA.gov or other teams' work.
+
+### Stakeholder research
 
