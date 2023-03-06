@@ -8,7 +8,7 @@ There are currently multiple ways to sign in and access VA services. These sign 
 
 This initiative focuses on one migration pathway: organic adoption of Login.gov. In this case, we're encouraging Veterans to adopt Login.gov as their primary credential, however we're not providing any specific binding or inheriting of identity data. The [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/login.gov) has more details on this product.
 
-We will run an unmoderated usability test to review the effectiveness and usability of content which encourages the Veteran to set up a Login.gov account. This would take place before running a live test in production. The [research overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research) has more details on what is upcoming.
+We will run this unmoderated usability test to review the effectiveness of content which encourages the Veteran to set up a Login.gov account. This study is part of a staged rollout plan, and will take place ahead of Stage A: Canary where we will run a test with a small Veteran population to ensure any obvious bugs and edge cases are found in production. The [research overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research) has more details on what is upcoming.
 
 ## Research Goals
 We still need to write and agree on research goals for this future study.
