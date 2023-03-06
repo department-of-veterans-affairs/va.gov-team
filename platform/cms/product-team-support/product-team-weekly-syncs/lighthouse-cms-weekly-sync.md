@@ -16,7 +16,14 @@
 
 ## Monday, March 6, 2023
 * Today's topic - follow up on previous discussion around data model changes
-* 
+* Review action items/things from previous meeting
+  * Editors can remove locations, but not the last one, there has to be at least one location
+  * When a service in a facility is split out, discussed adding sub name, Lighthouse needs the additional context
+    *   Should every service delivery location have a title?
+    *   What if they don't supply a title?  Should we create one?
+    *   "Office name" might be the new field to add
+    *   Add this to the PR as this should be the last item/change
+    *   Jay to make the change and add to PR for review
 
 ## Wednesday, March 1, 2023
 * Review action items from last meeting and other updates
