@@ -5,6 +5,7 @@ ________________________________________________________________________________
 ## 3/8/2023 - 3/21/2023 ----------------------TENTATIVE / FUTURE  -------------------
 
 #### SPRINT GOALS
+- **GOAL: Test Vets-API Server to EKS in Staging**
 - **GOAL: Knowledge transfer prior to Adrian's departure**
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
 - **GOAL: Make submission of a travel reimbursement claim easier**
@@ -15,6 +16,10 @@ ________________________________________________________________________________
 - [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
 
 #### SPRINT TICKETS
+- **GOAL: Test Vets-API Server to EKS in Staging**
+   - Load test to ensure new EKS infrastructure handles concurrent transactions.
+      - [[BE] Execute loadtest script using Docker CLI command](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54489)
+      - [[BE] Execute CIE Load Test Script](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54619)
 - **GOAL: Knowledge transfer prior to Adrian's departure**
    - [[FE]Knowledge Transfer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54464)
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
