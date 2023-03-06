@@ -1,12 +1,18 @@
-# (WIP) Research Plan for Benefits Team 1: Initial Decision Research
+# Research Plan for Benefits Team 1: Initial Decision CST Research
 
 ## Background
 
-From the perspective of CST, we want to understand the experience veterans have with requests to provide additional evidence and also experience getting requests to go to C&P exams.
+In [past research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/research-findings.md), we have found that Veterans are not fully satisfied with the claim status tool. In particular, we have heard that it doesn't provide enough detail and that Veterans often feel in the dark while waiting for updates about their claims. 
 
-We want to find opportunities to help veterans provide better evidence in support of their claim and earlier. And also, we want veterans to show up to their C&P exams with the right expectations.
+In this research, we want to dig into this pain point more and find out what exactly about CST could be improved for Veterans while their claim is in review. 
 
-Secondary to that, getting an understanding of what veterans really want to know to stay informed as their claim goes through the initial decision process.
+There are a couple key areas of the experience we are specifically curious about, based on what we've heard in past research: 
+
+- We want to understand what information Veterans specifically want to know to stay informed as their claim goes through the initial decision process.
+
+- We want to understand the experience Veterans have with requests to provide additional evidence. We want to find opportunities to help veterans provide better evidence in support of their, earlier in the process.
+
+- We want to understand the experience Veterans have with requests for C&P exams. We want to find opportunities to set the right expectation for Veterans going to C&P exams.
 
 ### OCTO Objectives 
 
@@ -18,53 +24,45 @@ This work supports the following OCTO Objectives:
 - Logged-in users have a personalized experience, with relevant and time-saving features
 
 ### Veteran Journey
-This work touches on various aspects of the Veteran Journey. Whenever a Veteran is applying for disability compensation benefits, this feature would be relevant. For many Veterans, this can happen at any point along their life journey. 
+This work touches on various aspects of the Veteran Journey. These findings will be relevant to whenever a Veteran is applying for disability compensation benefits, which can happen at any point along their life journey. 
 
 ## Research Goals	
-With this research, we are hoping to speak with Veterans who have filed disability compensation claims or decision reviews. We are hoping to identify pain points in that experience, especially as it relates steps they need to take while the claim is being processed. These steps will be initiated from CST, and so we hope to find ways that we might improve CST to improve this user experience. 
-
+With this research, we want to speak to Veterans who are currently waiting for decisions on disability compensation claims they filed on VA.gov. We want to understand what's working and what's not working about the CST experience while they are waiting for this claim. 
 
 ### Outcome
-We will use this study to get some foundational qualitative data to strengthen our understanding of the initial decision review process from the Veteran perspective. We aim to identify pain points in that process, especially those related to the Claim Status Tool, that our team can can solve for. The scope of the research will be broad, but we will be looking specifically for feedback about CST, evidence submission, and C&P exams. We are hoping to improve CST in ways that will reduce the overall time that initial decisions take.
+Hopefully by the end of this study we will have a better idea of: 
+- What is missing from the CST experience for Veterans who are awaiting claim decisions. 
+- What is working well in CST for these Veterans. 
+- hoe the various user states affect the UI and its strengths/weaknesses. 
 
 ### Research questions
 Part 1: Warm up
-- Have you used VA.gov before? What do you typically use it for?  
+- What do you typically use VA.gov for? 
 - How long have you been using VA.gov?
-- Do you interact with the VA in other ways (in person, on the phone)?
+- Do you interact with the VA in other ways – in person, on the phone?
+- Do you currently have a claim in progress on VA.gov? (They should.)
+- How long ago did you file this claim? 
 
-Part 2: Initial Decision
-- Have you used VA.gov to file a disability compensation claim (526-EZ)?
-- How many disability compensation claims have you filed? When did they start, when did they end?
-- Have those claims been resolved, or are they still in progress?
-- On a scale of 1-5, how would you rate the process of filing that claim? Why?
-- What were the main challenges in filing the claim?
-- Was there anything that went well, or better than you expected?
-
-Status
-- Did you feel like you understood what was happening while your claim was being reviewed?
-- What information would have been useful to you to help you better understand what was going on with your claim? 
-
-Evidence
-- How did you know what evidence to provide for the claim?
-- Did you provide all your evidence up front, or did you add evidence along the way while the claim was being reviewed?
-
-Exams
+Part 2: Login in to VA.gov
+- [Navigating to CST] Tell me what you see here.
+- What do you think is the status of this claim?
+- On a scale of 1-5, how clear would you say the status of this claim is?  
+- Is there any action that you think you need to take here? What makes you think that?
+- Do you have a clear sense of what other actions will be required from you as this claim goes through the review process? Why or why not?
 - Did you do a C&P exam as part of the claim process? How was that? 
 - How did you know that you had to do a C&P exam? 
-- How long did that process take, from when you found out about the exam to when you completed it? 
+- What is the most confusing part of this web page?
+- What is the most helpful part of this web page? 
 
 ### Hypothesis
 
-- There are certain user actions that add time to the claims process, and we can reduce the overall time it takes for a claim to be submitted and reviewed by improving CST in a way that expedites these user actions.
-- There are aspects of the evidence submission process that are confusing and/or laborious, and that this is adds to the overall time it takes for a claim to be filed and processed. 
-- There are aspects of the C&P exam that are confusing and/or laborious, particularly that veterans are not informed about C&P effectively, and that this adds to the overall time it takes for claims to be filed and processed. 
+- The claim status will not be detailed enough for Veterans. This is something we've heard a number of times. We are hoping to tease out which type of information would be useful to include in the claim status. 
+- Besides detailed status, there are other (yet to be identified) parts of CST that make for a confusing or suboptimal experience. 
 
 ## Methodology	
 
 **Semi-structured interviews** 
-The interviewer will ask the Veterans a series of questions with the goal of learning more about their decision review experience and the pain points they encountered. The goal of this is generative – to try and elecit problems that the team can solve with subsequent design ideation.
-
+The interviewer will ask the Veterans a series of questions with the goal of learning more about what they like or dislike in CST. This will give the team more insight about what specifically would be the most valuable UI additions to CST.
 
 ### Location
 Remote on Zoom
@@ -76,19 +74,13 @@ Remote on Zoom
 ## Recruitment	
 
 ### Recruitment approach
-Our intended audience for this research is Veterans who have gone through a decision review, or are in the process of going through a decision review. We would like to recruit (out of 40 total): 
-
-- 20 ppts who have submitted a Supplemental Claim
-- 10 ppts who have submitted a Higher Level Review
-- 10 ppts who have submitted a Notice of Disagreement
+For this study we want to talk to Veterans who **currently have an open disability compensation claim** and who have used VA.gov at some point in the past. We will be reviewing the Veteran's **actual VA.gov signed-in experience** with them to identify challenges and pain points. 
 
 ### Recruitment criteria
 
 **Primary criteria (must-haves)**
 
-We are looking for Veterans who have experience filing disability compensation claims (526-EZ). 
-
-> Question for recruits: "Have you ever submitted a Disability Compensation Claim (Form 526-EZ)?
+We are looking for Veterans who have an open disability compensation claim. 
 
 We would like to recruit 20 veterans. We would like representation from the following underrepresented groups: 
 
