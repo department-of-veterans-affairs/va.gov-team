@@ -39,12 +39,13 @@ Pending availability and willingness. I would only book 30 minutes with folks si
 5. Mikki Northuis - IA/Nav lead
 6. Chante Lantos-Swett - Account experience lead; Also leads customer support work
 7. Martha Wilkes - Accessibility lead
+8. Ryan Thurlwell - Design lead
 
 #### Questions
 
 All of these are basic starter questions and could probably have a lot of follow-up, so I'd be prepared to have opener question and then see where each conversation goes.
 
 1. What are their expectations around action-item/user-centric notifications on VA.gov? 
-2. Have they talked to their users about notifications? What have they learned? What are their users' needs/expectations?
-3. Where do they expect notifications to be accessible from?
+2. Have they talked to users about notifications? What have they learned? What are their users' needs/expectations?
+3. Where do they expect notifications to be accessible from on VA.gov?
 4. To gauge, but maybe not ask outright -- what is their level of comfort with some type of notification functionality showing in the navigation?
