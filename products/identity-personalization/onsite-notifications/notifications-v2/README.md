@@ -1,6 +1,6 @@
 # Project outline: Scaling onsite notifications (Onsite notifications V2)
 
-**Last updated: February 3, 2023**
+**Last updated: March 6, 2023**
 
 ### Communications
 
@@ -144,36 +144,20 @@ TBD
 
 - **Define intake process**: Define and document intake process with VANotify (potentially low lift)
 - **Create onsite notifications backlog**: Inventory existing notifications to figure out what onsite notification backlog looks like
-
-#### To start
-
-- **Add notifications**: Add at least 1 new onsite notifications. Candidates include:
-  - Highest priority: Prescription shipment notification sent from local pharmacies 
-  - BVA appeals hearing reminders, if possible (we may not do this if we can not provide helpful information)
-  - Monthly education enrollment notification (if we can provide helpful links/next steps)
-- A **VERY MVP** notification center (a link to a new page off of My VA; no nav changes) is in scope, if needed
-
-Potentially also, if time:
-
-- Notification center discovery (what questions do we still have? definitely want to talk to stakeholders; plan to scale over time so we can have regular launches)
-  - **Note**: We will need an extra designer to do this.
+- **Notifications discovery**: Determine what we can currently add as an onsite notification, if anything
+  - **Note**: As of March 2023, there is not a good candidate for a new onsite notification right now. [More details in this github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53707#issuecomment-1453689227).
 
 #### Out of scope
 
-- Adding a notification center to the navigation
+- Notification center work
 - Update the notification design (Design done; needs FE build and collab cycle)
 
 ### Q2 CY2023
 
 #### To complete
 
-- **Launch new notifications** - Launch the notifications work we started in Q1 CY2023.
-- **Notification center discovery** - If not started/completed in Q1 CY2023, complete this discovery.
-
-#### To start
-
-- **New notification design** - Put new notification design through collab cycle/build.
-- **New notifications** - Add new notifications, if possible/needed.
+- **Notification center discovery** - Should start towards the end of Q1 CY2023; will continue and likely be completed in Q2.
+- **New notification design** - Put new notification design through collab cycle/build (OK if this ends up launching Q3).
 
 #### Out of scope
 
@@ -183,19 +167,19 @@ Potentially also, if time:
 
 #### To complete
 
-- **New notification design** - Launch new notification design.
-- **New notifications** - Add new notifications, if possible/needed.
+- **New notification design** - Launch new notification design if not launched in Q2.
+- **New notifications** - Add new notifications if there is anything appropriate for us to add.
 
 #### To start
 
-- **Adding notification center to the navigation** - If discovery yields this direction, we should start working across teams to get the navigation updated. **However, this is highly dependent on discovery, so exact approach is not defined yet**. This may manifest in many ways. Exact approach TBD.
-- **New notifications** - Add new notifications, if possible/needed.
+- **Adding a notification center** - This might take a few different forms. An initial MVP could be a page that links from My VA but is not in the nav. Exact approach will be TBD depending on discovery and product/design thinking. 
+
 ### Q4 CY2023
 
 #### To complete
 
-- **Launch notification center** - Launch notification center.
-- **New notifications** - Add new notifications, if possible/needed.
+- **Launch notification center** - Launch notification center MVP.
+- **New notifications** - Add new notifications if there is anything appropriate for us to add.
 
 ## Key deliverables
 
@@ -208,7 +192,8 @@ Potentially also, if time:
 - September 2022: Initial on-site notifications V2 planning
 - October - December 2022: V2 work on hold due to MVP launch and lull due to contract switch-over
 - January 2023: Project discovery; Scope V2
-- February 2023: Technical discovery; Design for Q1 CY2023 notification updates
+- February 2023: Technical discovery; Continued notifications discovery
+- March 2023: Determination that there are no good candidate for immediately adding a new onsite notification; pivoting project to notification center discovery and putting the new notification design through the collab cycle.
 
 ## Backend
 
