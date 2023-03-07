@@ -14,7 +14,7 @@ On the VAOS homepage, the app displays the following for each status:
  
 - [ ] Use Case 1 - Direct schedule an appointment at a VA facility 
 
-Configuration setup in test environment must include: 
+     Configuration setup in test environment must include: 
   - [ ] The type of care for a given facility VATS setting must be configured for direct scheduling 
 
 * **Description**
@@ -22,7 +22,7 @@ Configuration setup in test environment must include:
 
 - [ ] Use Case 2 - Request for an appointment at a VA facility 
 
-Configuration setup in test environment must include: 
+     Configuration setup in test environment must include: 
   - [ ] The type of care for a given facility VATS setting must be configured for requests 
 
 * **Description**
@@ -30,11 +30,11 @@ Configuration setup in test environment must include:
 
 - [ ] Use Case 3 - Request for an appointment at a Community Care provider 
 
-**Configuration setup in test environment must include** 
-  - [ ] Type of care that is set up for Community Care in staging is Podiatry 
-  - [ ] Closet city to select is Dayton, OH 
-  - [ ] Best test user for Community Care: patient999@id.me 
-
+     Configuration setup in test environment must include: 
+     - [ ] Type of care that is set up for Community Care in staging is Podiatry 
+     - [ ] Closet city to select is Dayton, OH 
+     - [ ] Best test user for Community Care: patient999@id.me 
+    
 * **Description**
   - [ ] Submit a health care appointment request at the Community Care provider 
 
@@ -60,7 +60,7 @@ Configuration setup in test environment must include:
 
 * **Description**
   - [ ] A test user must have a Community Care booked appointment 
-  - [ ] View the appointment details for a Community Care request and user should not see a Cancel link
+  - [ ] View the appointment details for a Community Care appointment and user should not see a Cancel link
 
 ### User flow
 - [X] [Figma file](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=0%3A1&t=YhZr2QXznYwJ72lf-0) 
