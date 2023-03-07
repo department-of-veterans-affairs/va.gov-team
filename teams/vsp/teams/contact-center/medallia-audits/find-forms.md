@@ -45,7 +45,7 @@ Respondents also commented on issues checking the status of a previously submitt
 * “Where do I find the status on form 21-8940 that the VA rep and I  filled out.?”
 
 
-### Technicial Issues
+### Technical Issues
 **Unable to verify ID**
 * “Unable to verify my ID, I took multiple pictures of my ID/DL the system does not recognize it.”
 
