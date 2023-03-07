@@ -47,20 +47,22 @@ A moment that matters in the journey is during the aging phase when Veterans inc
 
 
 ## Research Goals	
-
-- Gain an understanding of the most common pain points encoutered 
+- Discover if the facility updates are clear and easy for participants to understand
+- Determine if the facility updates are accessible and the usability to search and select a facility
 - Discover what is easy or difficult to complete on the form and why
 - Obtain a qualitative baseline to understand the form overall, how this study compares to past research findings and future design iterations  
 
 
-
 ### Outcome
-This research will provide a qualitative baseline of the overall usability of this application by both Veterans and Caregivers. We will use the findings from this study combined with key insights from previous studies to guide and compare future design iterations. 
-
-- Example: Improve Facility Selection Project Brief
+This research will test the updates to the VA Facility question content, page flow and search functionality to make sure they are understandable and accessible. Secondly, this research will provide a qualitative baseline of the overall usability of this application by both Veterans and Caregivers. We will use the findings from this study combined with key insights from previous studies to guide and compare future design iterations. 
 
 
 ### Research questions
+
+
+
+**Discover if the facility updates are clear and easy for participants to understand**
+
 
 
 **Gain an understanding of the most common pain points encoutered** 
@@ -90,7 +92,7 @@ Remote via Zoom
 
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/research/2023-03-Baseline%20Task%20Research/conversation-guide.md)
-- [Link to prototype](url goes here)
+- [Link to staging](url goes here)
 
 
 ## Recruitment	
@@ -142,14 +144,13 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 
 ### Research sessions
-* Planned dates of research: **March ## - ##, 2023**
+* Planned dates of research: **April ## - ##, 2023**
 
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
-
+* Session length: 1 hour
+* Buffer time between sessions: 1 hour
+* Maximum Sessions per day: 4
 
 
 ### Availability
@@ -167,10 +168,10 @@ TBD       | TBD EST
 
 
 ## Team Roles	
-- Moderator: Jessica Stump (jessica.stump@adhocteam.us) 
-- Research guide writing and task development: Moderator	
+- Moderator: Jessica Stump (jessica.stump@adhocteam.us) and David Kennedy (david.kennedy@adhocteam.us)
+- Research guide writing and task development: Moderators	
 - Participant recruiting & screening: Perigean
-- Project point of contact: Moderator
+- Project point of contact: Moderators
 - Participant(s) for pilot test: 
 - Note-takers: Perigean, 1010 Team
 - Observers: Heather Justice (heather.justice@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us), David Kennedy (david.kennedy@adhocteam.us), Erin Flaherty (erin.flaherty@adhocteam.us) 
