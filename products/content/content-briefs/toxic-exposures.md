@@ -39,6 +39,7 @@ We consider a condition presumptive when it's established by law or regulation.
 
 If you have a presumptive condition, you don’t need to prove that your service caused the condition. You only need to meet the service requirements for the presumption.
 
+**presumptive location / presumption of exposure:** We base eligibility for VA disability compensation benefits, in part, on whether you served in a location that exposed you to Agent Orange. We call this having a presumption of exposure.
 **specific environmental hazards:** toxic chemicals in the air, water, or soil.
 
 **mustard gas or lewisite**
