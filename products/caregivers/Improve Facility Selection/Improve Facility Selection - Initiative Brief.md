@@ -101,7 +101,14 @@
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective: Make it easier for Veterans with representatives to fill out the online form
-  - Key result: number of applications that are not misrouted or delayed **Where can we get this information??**
+  - Key result: number of applications that are not misrouted or delayed (obtained from CSP leadership)
+|Invalid/Duplicate/Created in error| Baseline (Jan-Feb 2023)| Target | 1 Month after launch|
+|--------|-----------------------|----------|--------------------|
+|Total Apps (rounded) | 960 | TBD | TBD |
+|Total Online Apps (rounded) | 520 | TBD | TBD |
+
+
+
   - Key result: Facilities list is complete, accurate and up to date
        - [JSON static file](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/8cdc5f35ad743af51170adad84b92a8b49504bdf/dist/caregiverProgramFacilities.json) contained 142 facilities
        - Facilities API contains **NUMBER** facilities
