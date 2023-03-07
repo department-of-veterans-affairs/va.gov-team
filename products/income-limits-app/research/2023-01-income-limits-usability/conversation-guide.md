@@ -195,8 +195,8 @@ How did this tool help or not help you decide what to do?
 Now you want to check whether you entered your location correctly. How could you do that? 
 - *(RECORD: back to review screen / zip code entry screen / ________________)*
 
-### Task 8: [Change year]
-Suppose that you’re in the process of appealing a health care claim from 2021, and you want to see the income limits from that year? What could you do?
+### Task 8: [Change year].
+Suppose that you’re in the process of appealing a health care claim from 2021, and you want to see the income limits from that year. What could you do?
 - *(RECORD: click on "past income limits" / _________________________________)*
 
 When in this app would you prefer to specify the year? 
