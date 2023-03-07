@@ -1,6 +1,6 @@
 # Samara's 2023 maternity leave plan
 
-**Last updated: March 3, 2023**
+**Last updated: March 7, 2023**
 
 Roughly, this will be some time between March - June of 2023, depending on when the baby arrives.
 
@@ -25,9 +25,7 @@ These projects are the top priorities, as they align with the top OCTO objective
 - **Status**: Next steps are up in the air, as we are trying to figure out if any of the existing VANotify notifications are good candidates to incorporate into VA.gov.
 - [Long-term planning](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=1904788724)
 
-This is very up in the air depending on whether we are more immediately moving forward with adding notifications (dependent on what is in VANotify) or if we are moving forward with notification center research and putting the new notification design through the collab cycle & build.
-
-That being said, once there are notifications we are sure we want to add to VA.gov, we should start the process of moving that forward.
+Priorities for this quarter are [notification center discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery/samara-initial-thoughts.md) and implementing the new onsite notification design.
 
 ### [Notification preferences: Updates to add email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/add-email-channel)
 
