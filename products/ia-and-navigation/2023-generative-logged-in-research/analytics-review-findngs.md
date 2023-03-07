@@ -11,7 +11,8 @@ We pulled Google Analytics (GA) data from February 1, 2022 - February 1, 2023*, 
 
 We used the **WBC - VA.gov** view, which filters out data on My HealtheVet (MHV) and eBenefits. We focused on events and page views, sometimes with custom segments applied to separate out users who have LOA 1 or 3 present.
 
-**Note:** In many of these reports, we saw instances of Pages containing `/auth/login` and ` ?next=loginmodal` in the top URLs.  
+**Note:** In many of these reports, we saw instances of `(other)`, `/auth/login/` and ` ?next=loginmodal` in the top URLs.  
+- The analytics team is digging into what `(other)` means; we’ll update this report when we learn more if it’s meaningful.
 - The `/auth/login` URL is part of the login redirects that occur. We removed this one from the reports since they’re not helpful in evaluating the IA of the site.
 - `?next=loginmodal` is a parameter added to a the URL to ensure the sign-in modal is displayed, and primarily appears if a user uses their browser back button to go back to VA.gov after engaging in the sign-in process. This helps ensure the user picks up where they left off when they were last on VA.gov.  Since we can’t be sure exactly *why* people are leaving and navigating back, we left this in the report.
 
@@ -27,18 +28,6 @@ We’ve established a confidence rating scale, which can help identify areas whe
 | Low | There are many ways to answer this question and/or we weren’t able to confirm a detail (such as what a specific URL means). We’re fairly confident this data is correct, but another set of eyes would be useful. |
 | Moderate | There are a couple of ways to answer this question, and we’re reasonably confident the way we chose answers the question accurately|
 | High | There is only one way to answer this question, and we’re confident this data is correct. |
-
-## Outstanding questions for Analytics team
-### Pages
-- In the page reports, what are these things:
-	-  `(other)` 
-
-### Search 
-- Do we have data about best bets in our search results (“our top recommendations for you”) to better understand engagement with those results? I don't see any specific events firing in the console when I click on those. 
-	- [analytic reports](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/explorer-segmentExplorer.segmentId=analytics.eventAction&_r.drilldown=analytics.eventCategory:Interactions&explorer-table.plotKeys=%5B%5D&explorer-table.filter=recommended/)
-- There are some differences between what I see in Domo and GA Site Search, for example in the GA “Site Search” report, and the Domo dashboard, the top keywords don’t align.
-	- Which is the source of truth?
-	- Are some searches programmatically performed? I noticed some search terms in GA have a `_` instead of a space.
 
 ## Signing in to VA.gov
 
@@ -76,7 +65,7 @@ GA doesn’t offer a straightforward way to track this. It may be possible to ha
 
 ### What are peoples’ next clicks after signing in?
 -  [Pages with post-login parameter report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_r.tabId=explorer&navigationsummary-keySelector.searchTerm=%3Fpostlogin=true&explorer-table.filter=%3Fpostlogin=true&explorer-table.plotKeys=%5B%5D/)
-- Confidence level: moderate
+- Confidence level: low
 
 This is another metric that isn’t straightforward to track in GA.  The first page a person lands on after signing in contains the `?postlogin=true` parameter, so we can look at the navigation summary on those URLs to see the next page they go.  It’s important to note that the page a person lands on after signing in isn’t necessarily the same page they logged in on.
 
@@ -176,7 +165,7 @@ Not surprisingly, the pages include:
 
 ## Navigating to tasks & tools
 ### What are the most popular pages overall?
-- Confidence leve: high
+- Confidence level: high
 - [Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22~2Fauth~2F%22,1%5D%5D&explorer-table.plotKeys=%5B%5D/)
 
  The top 25 most popular pages include the VA.gov homepage, and:
@@ -338,17 +327,112 @@ The homepage tops this list, which also includes many pages related to:
 
 We looked the popular signed-in pages, and pages people sign in on to arrive at this list. Since we focused our research on the VA.gov GA view (which excludes MHV), there aren’t a lot of health related pages in those reports. 
 	- Tracking/checking the status of claims
-	- Viewing payment history
+	- Viewing payments
 	- Disability related tasks, such as viewing a rating or filing a claim
 	- Downloading letters
 	- Scheduling appointments
 
 	
-8. For the top ten most popular logged in tasks, how many clicks/page visits does it take for people to get to those pages?
-- Navigation summary report
+### For the top ten most popular logged in tasks, how many clicks/page visits does it take for people to get to those pages?
 
-9. For the top ten most popular logged in tasks, what are the top previous pages?
-- Navigation summary report
+GA doesn’t offer a straightforward way to track this. It may be possible to have our analytics team cross-reference GA data with other sources to determine this, but we’d need to do that as a separate effort.
+
+### For the most popular logged in tasks, what are the top previous pages?
+- Confidence level: moderate
+
+We picked the most popular page for each of the 5 tasks listed above, and looked at the navigation summary for each one: 
+
+#### Checking the status of a claim
+`/track-claims/your-claim`
+[Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&explorer-table.plotKeys=%5B%5D&_.useg=user8twPUpCZT8qMEc9RwdXoUg&_r.drilldown=analytics.pagePath:~2Ftrack-claims~2Fyour-claims~2F&_r.tabId=navigationsummary/)
+
+|Previous Page | Pageviews |
+| -----------  | -----------  | 
+| /track-claims/index.html|3,346,567 |
+| /claim-or-appeal-status/index.html|1,032,383 |
+| /claim-or-appeal-status/index.html?postlogin=true|484,780 |
+| /claim-or-appeal-status/index.html?next=loginmodal&postlogin=true|64,723 |
+| /track-claims/your-claim-letters/|63,645 |
+| /index.html|20,461 |
+| /track-claims/|20,158 |
+| /index.html?next=/track-claims/your-claims|9,729 |
+| /my-va/index.html|5,296 |
+| /track-claims/your-claim-letters?postlogin=true|5,246 || 
+
+
+
+#### View payments
+`/va-payment-history/payments/index.html`
+[Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&_.useg=user8twPUpCZT8qMEc9RwdXoUg&_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Fva-payment-history~2Fpayments~2Findex.html&explorer-table.plotKeys=%5B%5D/)
+
+|Previous Page | Pageviews |
+| -----------  | -----------  | 
+| /va-payment-history/index.html|666,100 |
+| /my-va/index.html?postlogin=true|519,505 |
+| /va-payment-history/index.html?postlogin=true|406,421 |
+| /my-va/index.html|250,272 |
+| /profile/direct-deposit/|53,710 |
+| /va-payment-history/index.html?next=loginmodal&postlogin=true|29,113 |
+| /disability/view-disability-rating/rating/|8,030 |
+| /index.html|7,468 |
+| /track-claims/your-claims/|7,365 |
+| /manage-va-debt/summary/debt-balances/index.html|4,103 | 
+
+
+#### Filing a disability claim
+`/disability/file-disability-claim-form-21-526ez/introduction/`
+[Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&_.useg=user8twPUpCZT8qMEc9RwdXoUg&_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Fdisability~2Ffile-disability-claim-form-21-526ez~2Fintroduction~2F&explorer-table.plotKeys=%5B%5D/)
+
+|Previous Page | Pageviews |
+| -----------  | -----------  | 
+| /disability/file-disability-claim-form-21-526ez/index.html|531,821 |
+| /disability/file-disability-claim-form-21-526ez/start/|486,352 |
+| /index.html|86,889 |
+| /disability/file-disability-claim-form-21-526ez/resume/|60,696 |
+| /disability/how-to-file-claim/index.html|32,908 |
+| /resources/the-pact-act-and-your-va-benefits/index.html|30,460 |
+| /disability/file-disability-claim-form-21-526ez/veteran-information/|16,890 |
+| /my-va/index.html?postlogin=true|16,567 |
+| /disability/index.html|15,908 |
+| /my-va/index.html|11,533 |
+
+
+#### Downloading letters
+`/records/download-va-letters/index.html`
+[Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&_.useg=user8twPUpCZT8qMEc9RwdXoUg&_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Frecords~2Fdownload-va-letters~2Findex.html&explorer-table.plotKeys=%5B%5D/)
+
+|Previous Page | Pageviews |
+| -----------  | -----------  | 
+| /index.html| 406,971 |
+| /search/index.html?t=false| 58,802 |
+| /records/download-va-letters/letters/letter-list/| 54,204 |
+| /disability/index.html| 36,069 |
+| /records/index.html| 35,068 |
+| /records/download-va-letters/letters/confirm-address/| 26,901 |
+| /index.html?postlogin=true| 20,924 |
+| /my-va/index.html?postlogin=true| 19,775 |
+| /va-payment-history/payments/index.html| 19,332 |
+| /track-claims/your-claims/| 16,812 | 
+
+
+#### Scheduling appointments
+`/health-care/schedule-view-va-appointments/index.html`
+[Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&_.useg=user8twPUpCZT8qMEc9RwdXoUg&_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Fhealth-care~2Fschedule-view-va-appointments~2Findex.html&explorer-table.plotKeys=%5B%5D/)
+
+|Previous Page | Pageviews |
+| -----------  | -----------  | 
+| /index.html | 172,250 |
+| /sign-in/index.html?application=mhv&to=home&oauth=false | 68,656 |
+| /health-care/schedule-view-va-appointments/appointments/index.html | 33,539 |
+| /my-va/index.html?postlogin=true | 21,999 |
+| /health-care/index.html | 12,270 |
+| /health-care/schedule-view-va-appointments/index.html?postlogin=true | 8,018 |
+| /health-care/refill-track-prescriptions/index.html | 7,922 |
+| /health-care/secure-messaging/index.html | 7,507 |
+| /index.html?postlogin=true | 7,262 |
+| /my-va/index.html | 6,466 |
+
+
 
 ## Search
 ### What are the top search terms?
@@ -417,12 +501,19 @@ The analytics team will dig into the discrepancy. For now, we have two flavors o
 |Jobs   |25,313|
 
 
-2. How often is search used/search button clicked? (Search.gov might need to help us).
+### How often is search used? 
+- [Report](https://analytics.google.com/analytics/web/#/report/content-site-search-overview/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201/)
+- Confidence level: moderate
 
 These metrics were tricky to figure out.  The [Domo dashboard](https://va-gov.domo.com/page/1964748112) the analytics team sent me doesn’t clearly answer this question, so I went to GA and looked at the Site Search report.
 
 GA reports that 7.1% of visits included the use of site search.
 
 
-3. How often are people clicking best bets for search (especially if task-related)?
-- Need help getting these data
+### How often are people clicking best bets for search?
+- [Report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-segmentExplorer.segmentId=analytics.eventAction&_r.drilldown=analytics.eventCategory:Interactions&explorer-table.plotKeys=%5B%5D&explorer-table.filter=recommended/)
+- Confidence level: low
+
+GA has an event to track clicks on best bets (called Recommended Results in the report), and the report shows 2,093,021 total events for the time period. 
+
+However, other search results aren’t tagged in the same way, so we can’t run a comparison for one over the other.  We may be able to get better insights into this question by reaching out to Search.gov, or with further engagement of our analytics team.
