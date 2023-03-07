@@ -6,9 +6,9 @@
 
 - Complete any project-specific setup tasks for this study (List them below)
 
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Confirm additional notetakers and supply notes template and guidelines
+- [ ] If this is a session with a screen reader, confirm assistive tech support is available
+
 
 
 ### Day of the session
@@ -37,7 +37,7 @@ I also have a couple other colleagues in the Zoom waiting room who would like to
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about one hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **You'll be interacting with a demo tool/staging environment.** This is a demo tool that looks and seems to act like the real application. But since it's a demo tool, none of your actions will affect your actual VA information or benefits and you will not be submitting a real application.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
@@ -89,6 +89,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 ### Participant ratings:
 - On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this first page make you feel about the application you are about to begin? Why did you give it that rating?
 
+### Observer rating of task completion
+[Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty
 
 ### Things to watch for:
 - [Does the participant easily locate the apply link?]
@@ -177,6 +184,14 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant notice xyz?]
 - [Etc]
 
+### Observer rating of task completion
+[Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty
+
 
 ## Seventh Task: [Review] - 5 minutes
 
@@ -188,6 +203,15 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
+
+
+### Observer rating of task completion
+[Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty
 
 
 ## Eighth Task: [Confrimation Page] - X minutes
@@ -209,6 +233,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Was there anything that stood out to you?
 - Did you feel the most confident in answering the questions with no additional clarification needed?
 - Do you need any clarifying informaiton about how the answer you provide will be used in the caregiver application process?
+
+
+
 
 ## Thank-You and Closing - X minutes
 
