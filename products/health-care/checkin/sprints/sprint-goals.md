@@ -39,15 +39,14 @@ ________________________________________________________________________________
          - [[FE] Update UI for the "can't check you in scenarios"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54280)
          - [[FE] Update UI to Prioritize Info Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54279)
       - Implement text solution for BTSSS latency    
-         - [[TEXT SOLUTION] [BE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
+         - [[TEXT SOLUTION] [FE][BE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
             - Front end team can investigate VeText endpoint and get started on the sequence diagram         
       - Prepare for Release
          - [[UX] Update TestRail Test Cases to Include the Texting Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54346)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
    - **Sub Goal: [Send to Check-in when Pre-Check-in link is accessed inside check-in window](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)**
       - [[BE] Store hand-off query parameter in model](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53996)      
-      - [[BE] Modify PatientCheckIns Controller GET for optional query parameter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53997)   
-      - [[BE] CHIP/refresh-appointments Error Handling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53997)
+      - [[BE] Modify PatientCheckIns Controller GET for optional query parameter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53997)        
   - **Sub Goal: [Show Clear Message when using an expired link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)**
       - [[UX] Update GA dashboards to reflect implementation changes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54351)
   - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)**
@@ -62,7 +61,6 @@ ________________________________________________________________________________
       - [[FE] Setup codepen templates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54556)
       - [[Design] Migrate unified experience wireframes to 375 width](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54581)
       - [[Design] Add in travel reimbursement into check in wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54572)
-      - [[FE] SPIKE - How might we setup the VA design system in codepen](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54264)
       - Create sitewide/IA ticket & set up meeting
       - Submit midpoint review ticket
       - Complete research review section of collab cycle ticket
@@ -76,8 +74,6 @@ ________________________________________________________________________________
       - No work this sprint; we will present MVP proposal to Stephen & decide next steps
 - **GOAL: Address tech debt** 
    - [[FE] Issue with accordion on pre check in confirmation page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54719)
-   - [[FE] Remove enable/disable flags for check-in and pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53702)
-   - [[BE] Remove enable/disable flags for check-in and pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53712)
    - **_Optional Tech Debt (these items are not in the current sprint but can be pulled in)_**
       - [Have an Initial Discussion to Identify Risks & Problems w/ Current Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54034)
       - [[FE] [BE] Review Applications & Identify Areas for Improvement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53713)
