@@ -94,7 +94,9 @@ Let’s start with a few questions...
 
 1. What have you heard about income eligibility for VA health care? 
 
-1. Do you receive VA disability compensation for a service-connected disability rating of 50% or higher? *(Yes / No / ______________________)*
+1. Do you get a pension from the VA? *(Yes / No / ______________________)*
+
+1. Do you get VA disability compensation for a service-connected disability rating of 50% or higher? *(Yes / No / ______________________)*
 
 
 ## User Tasks
@@ -111,9 +113,12 @@ I would like you first to share your screen with me--a web browser please. You m
 
 *if they have 50% or higher disability rating, do they say that income limits don't apply to them? Y / N / ____________*
 
+*if they have a VA pension, do they say that income limits don't apply to them? Y / N / ____________*
+
 Can you show me how you would find out if you're eligible for VA health care with your current income?
 
 - *RECORD what they do: Google / VA.gov / words looking/searching for: _______________________*
+
 - *RECORD where they go on VA.gov: Cost of care page / Eligibility page / ______________________*
 
 ### Task 2: [Open prototype] 
@@ -145,9 +150,8 @@ How would you use this? Please talk me through what you would do, but not click 
 - *(when click on an entry field and then see different info)* This prototype isn't interactive enough to let you enter your information, but it will jump to a new screen with some information already filled out. I'd like to you tell me what you would enter for yourself or what questions you have about it.
 
 - *(RECORD all comments and anything confusing re the interactions on each screen of the prototype:)*
-  - *VA pension--*
-  - *# of Dependents--*
   - *Zip code--*
+  - *# of Dependents--*
   - *Back, Continue buttons--*
   - *Review your information screen--*
 
@@ -186,8 +190,6 @@ What do you plan to do next?
 - *(RECORD: apply for VA health care / Back / ________________)*
 
 How did this tool help or not help you decide what to do?
-
-### If participant HAS a pension, then STOP TASKS here
 
 ### Task 7: [Check info entered]
 Now you want to check whether you entered your location correctly. How could you do that? 
