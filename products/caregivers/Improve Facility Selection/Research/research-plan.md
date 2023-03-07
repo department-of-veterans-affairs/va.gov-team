@@ -1,5 +1,7 @@
 # [DRAFT] Research Plan: 10-10CG facility selection study, 1010 Team, February 2023
 
+**This study will be combined with an end-to-end baseline study - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/research/2023-04-Facilities%20and%20Baseline%20Task%20Research)**
+
 
 ## Background
 
