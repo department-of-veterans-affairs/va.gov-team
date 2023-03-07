@@ -314,7 +314,7 @@ Use font awesome icon `file-medical` for icon
 ### Error State 3: The messaging API call fails
 
 #### Visual specs
-- When the messaging API call fails, we do not show an error message - we show the [Send a secure message to your heath care team]() link in the list of links in the health care section.
+- When the messaging API call fails, we do not show an error message - we show the [Send a secure message to your heath care team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md#send-a-secure-message-to-your-health-care-team-link) link in the list of links in the health care section.
 - Follow all other specs for when this secondary link shows.
 
 #### Mock-ups
