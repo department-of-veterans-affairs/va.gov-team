@@ -58,9 +58,9 @@ Based on your review of Tressa's work and the stakeholder interviews, determine 
 
 I think there's enough evidence to continue scaling onsite notifications in general -- [we've heard repeatedly from years of research that the first thing people want to see when logging in to VA.gov are any necessary action items](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery#overview). So from a product perspective, I think we are smart to continue pursuing this work.
 
-However, at some point, we do need to start thinking about exactly how this works from a design perspective. What I want, at this point, is to avoid thinking of specific methods of implementation, because we still don't know that a notification center is the exact right approach. Case in point, off the top of my head, these are things we could do:
+However, at some point, we do need to start thinking about exactly how this works from a design perspective. What I want, at this point, is to avoid thinking of specific methods of implementation, because there are a lot of ways we could implement increased notifications functionality. Case in point, off the top of my head, these are things we could do:
 
-1. Add a notification center that's a separate page
+1. Add a notification center that's a separate page, like we've talked about
 2. Change My VA into a "newsfeed"
 3. Add a notification indicator to the nav for My VA, and show notifications on My VA similar to how we do now (show a few, then likely link off to a new page)
 4. Have a drawer of notifications that pop out on My VA
