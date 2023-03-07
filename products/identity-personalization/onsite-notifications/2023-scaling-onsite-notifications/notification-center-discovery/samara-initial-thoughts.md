@@ -1,4 +1,4 @@
-# Samara's pre-maternity leave thoughts
+# Samara's pre-maternity leave thoughts on notification center discovery
 
 Since I likely won't be here for a good portion of this work, I wanted to get some background/thoughts down so the team can execute while I'm out.
 
