@@ -264,7 +264,7 @@ Use font awesome icon `file-medical` for icon
 
 ## Error States
 
-### Error State 1: The health care API call fails (can't tell if user has VA health care or not)
+### Error State 1: The get user call fails (can't tell if user has VA health care or not)
 
 #### Visual specs
 - Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--warning#error) for the error message.
@@ -309,3 +309,14 @@ Use font awesome icon `file-medical` for icon
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1Yjlkj)
+
+
+### Error State 3: The messaging API call fails
+
+#### Visual specs
+- When the messaging API call fails, we do not show an error message - we show the [Send a secure message to your heath care team]() link in the list of links in the health care section.
+- Follow all other specs for when this secondary link shows.
+
+#### Mock-ups
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E1F1890F-BA4D-4726-909B-0055361FDF65)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
