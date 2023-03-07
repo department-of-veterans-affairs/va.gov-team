@@ -17,7 +17,7 @@ Configuration setup in test environment must include:
   - [ ] Test user should have VA (in person, video visit and phone call) and Community Care booked appointments including canceled appointments. 
 
 * **Description**
-  - Tester will validate that they could view their upcoming appointments (future appts) in VAOS 
+  - Tester will validate that they could view the list of their upcoming appointments (future appts) in VAOS 
     - [ ] Booked VA appointment - in person (at a Facility) 
     - [ ] Booked VA appointment - video connect (at a Facility) 
     - [ ] Booked VA appointment - video connect (at an ATLAS location) 
