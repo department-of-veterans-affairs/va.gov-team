@@ -37,7 +37,7 @@ Configuration setup in test environment must include:
   - [ ] Test user should have VA and Community Care pending requests including canceled requests. 
 
 * **Description**
-  - Tester will validate that they could view their pending requests in VAOS 
+  - Tester will validate that they could view the list of their pending requests in VAOS 
     - [ ] Pending VA request - in person (at a Facility) 
     - [ ] Pending Community Care request
     - [ ] Canceled VA request - in person (at a Facility) 
@@ -46,7 +46,7 @@ Configuration setup in test environment must include:
 - [ ] Use Case 3 - Validate past appointments in VAOS
 
 * **Description**
-  - Tester will validate that they could view their past booked appointments in VAOS 
+  - Tester will validate that they could view the list of their past booked appointments in VAOS 
     - [ ] Past booked VA appointment - in person (at a Facility) 
     - [ ] Past booked VA appointment - video connect (at a Facility) 
     - [ ] Past booked VA appointment - video connect (at an ATLAS location) 
