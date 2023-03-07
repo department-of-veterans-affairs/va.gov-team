@@ -67,4 +67,4 @@ However, while we do need to start thinking about exactly how this works from a 
 
 ...and there are likely other things we could do from a design perspective, but not all of them are necessarily having My VA and a notification center. That very well may be what we do, but we just aren't settled on that yet.
 
-I say all of this to drive home this point -- while we may have outstanding questions we want to get answers to, **the way to get answers is NOT by usability testing a prototype like Tressa did**. We're just not there yet.
+I say all of this to drive home this point -- while we may have outstanding questions we want to get answers to, **the way to get answers is NOT by committing to a specific design and usability testing a prototype like Tressa did**. We're just not there yet.
