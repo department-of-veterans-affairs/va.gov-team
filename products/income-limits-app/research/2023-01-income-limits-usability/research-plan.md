@@ -136,7 +136,7 @@ Before recruitment starts, I would like to **request a kickoff call with Perigea
 
 I will schedule the following two **pilot tests**:
 - Pilot 1: **Mar 13 at 4 pm ET** with Katie Riddle (katherine.riddle@adhocteam.us)
-- Pilot 2: **Mar 14 at 5 pm ET** with person TBD (email address)
+- Pilot 2: **Mar 14 at 5 pm ET** with Greg Monahan (greg.monahan@adhocteam.us)
 
 ### Research sessions
 * Planned dates of research: **April 5-12, 2023** 
@@ -165,8 +165,8 @@ Please list the people who will be serving in each role.
 - Moderator: Cindy Merrill (cindy.merrill@adhocteam.us)
 - Research guide writing and task development: Cindy Merrill 
 - Participant recruiting & screening: Perigean	
-- Project point of contact: Cindy Merrill (not available Mar 27-31 due to PTO)
-- Participant(s) for pilot test: Katie Riddle (katherine.riddle@adhocteam.us) and TBD	
+- Project point of contact: Cindy Merrill (unavailable Mar 27-31 due to PTO)
+- Participant(s) for pilot test: Katie Riddle (katherine.riddle@adhocteam.us) and Greg Monahan (greg.monahan@adhocteam.us)	
 - Note-takers: Perigean	(in github)
 - Observers: Jordan Wood (jordan.wood@civicactions.com), Dave Conlon (david.conlon@va.gov), Wes Rowe (wesley.rowe@agile6.com). Other observers will need to sign up so we can limit the number of observers per session.
 
