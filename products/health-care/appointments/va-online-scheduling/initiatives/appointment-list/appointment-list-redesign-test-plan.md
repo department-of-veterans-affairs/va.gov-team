@@ -13,8 +13,8 @@ On the VAOS homepage, the app displays the following for each status:
  
 - [ ] Use Case 1 - Validate upcoming appointments in VAOS 
 
-Configuration setup in test environment must include: 
-  - [ ] Test user should have VA (in person, video visit and phone call) and Community Care booked appointments including canceled appointments. 
+     Configuration setup in test environment must include: 
+  - [ ] Test user should have VA (in person, video visit and phone call) and Community Care booked appointments including canceled appointments
 
 * **Description**
   - Tester will validate that they could view the list of their upcoming appointments (future appts) in VAOS 
@@ -33,8 +33,8 @@ Configuration setup in test environment must include:
 
 - [ ] Use Case 2 - Validate pending requests in VAOS 
 
-Configuration setup in test environment must include: 
-  - [ ] Test user should have VA and Community Care pending requests including canceled requests. 
+     Configuration setup in test environment must include: 
+  - [ ] Test user should have VA and Community Care pending requests including canceled requests
 
 * **Description**
   - Tester will validate that they could view the list of their pending requests in VAOS 
@@ -44,6 +44,9 @@ Configuration setup in test environment must include:
     - [ ] Canceled Community Care request
 
 - [ ] Use Case 3 - Validate past appointments in VAOS
+
+     Configuration setup in test environment must include: 
+  - [ ] Test user should have past booked VA and Community Care appointments 
 
 * **Description**
   - Tester will validate that they could view the list of their past booked appointments in VAOS 
