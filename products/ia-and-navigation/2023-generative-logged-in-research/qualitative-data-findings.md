@@ -49,7 +49,7 @@ We can tell from [this DOMO dashboard](https://va-gov.domo.com/kpis/details/3830
 The two directories with the next highest numbers are the homepage, and `/track-claims`.  Generally, these directories align with what we know are people’s top tasks on VA.gov.
 
 |Directory | Number of feedback submissions between 1/3/22 - 12/31/22 |
-| ————— | ————— | 
+| ----------- | ----------- | 
 | health-care   |96|
 |Homepage   |86|
 |track-claims   |66|
