@@ -1,4 +1,6 @@
 # Logged-in IA research: qualitative data review
+3/6/2023
+
 ## Background 
 As part of our larger logged-in IA research effort, we wanted to understand what feedback we get in through Medallia or call center data around challenges people have navigating/finding tasks and tools on VA.gov.
 
@@ -9,7 +11,7 @@ As part of our larger logged-in IA research effort, we wanted to understand what
 ## Findings
 These findings are based on [the report put together by our Insights team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/contact-center/medallia-audits/IA-navigaion.md),  as well as this [categorization Mural board](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1674577646624/2693da23f431db3fba75552e150b3188c189cdb3?sender=ub868d471cfdb1c56cc0b4512) with sample responses.
 
-The data in the report was collected between 1/1/2022-12/31/2022, and includes data from the intercept Medallia survey, as well as the survey triggered by the feedback bottom at the bottom of every page.
+Data was collected between 1/1/2022-12/31/2022, and includes data from the intercept Medallia survey, as well as the survey triggered by the feedback bottom at the bottom of every page.
 
 **For the intercept survey, the team looked at responses where:**
 - the user selected 1-2 in response to the question *“Please rate your experience with VA.gov today”*, indicating a negative experience
@@ -23,11 +25,11 @@ The team also [pulled some call center data](https://github.com/department-of-ve
 
 ### What do people have trouble finding on VA.gov? 
 
-The Insights team analyzed up to 100 responses for the terms “Navigation”, “can’t find”, and “header”.  
+The Insights team analyzed up to 100 responses for the terms “Navigation”, “can’t find”, and “header”.   These terms were selected by the Insights team for their likelihood of being indicative of having problems while logged in.
 
-We received many submissions expressing frustration about overall navigation or “can’t find what I came here for”, without details about what they were specifically trying to do.  There was not an obvious pattern in the pages people were on when they submitted that type of feedback.
+Many submissions express frustration about overall navigation or “can’t find what I came here for”, without details about what they were specifically trying to do.  There was not an obvious pattern in the pages people were on when they submitted that type of feedback.
 
-When looking at more specific comments, the following categories emerged across all the terms we looked into:
+When looking at more specific comments, the following categories emerged across the terms we looked into:
 * Information related to disability claims, including: 
 	* finding details about an existing claim
 	* understanding eligibility criteria
@@ -42,9 +44,9 @@ When looking at more specific comments, the following categories emerged across 
 
 ### When in a particular flow do people run into trouble with finding information?
 
-We can tell from [this DOMO dashboard](https://va-gov.domo.com/kpis/details/383089856/view/1515952062)* that the `/health-care` directory on VA.gov has the greatest number of feedback responses (96) that include "Can't Find” or “Navigation" and had a poor experience rating (1 or 2).  Of the 96 responses, 33 were submitted in the appointment scheduling flow; the rest of the URLs had less than 10.
+We can tell from [this DOMO dashboard](https://va-gov.domo.com/kpis/details/383089856/view/1515952062)* that pages under the  `/health-care/`   directory on VA.gov have the greatest number of feedback responses (96) that include "Can't Find” or “Navigation" and had a poor experience rating (1 or 2).  Of the 96 responses, 33 were submitted in the appointment scheduling flow; the rest of the URLs had less than 10.
 
-The two directories with the next highest numbers are the homepage, and `/track-claims`.
+The two directories with the next highest numbers are the homepage, and `/track-claims`.  Generally, these directories align with what we know are people’s top tasks on VA.gov.
 
 |Directory | Number of feedback submissions between 1/3/22 - 12/31/22 |
 | ————— | ————— | 
@@ -59,9 +61,9 @@ The two directories with the next highest numbers are the homepage, and `/track-
 |resources  |16|
 |contact-us |15|
 
-VA.gov had [148,125,426 unique sessions during the same period](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20220103&_u.date01=20221231/) , so the 554 submissions that match these filters don’t easily identify a major problem in any particular flow that we should immediately aim to solve.
+While this is somewhat out of scope for our research, a common problem people mentioned in feedback surveys is related to going back and forth between My HealtheVet (MHV), VA.gov, and eBenefits.  Many comments reference being redirected, having to log in multiple times, being logged out automatically and being frustrated by 2FA (this is supported by the Homepage URLs seen in the DOMO dashboard linked above).   
 
-While this is somewhat out of scope for our research, a common problem people mentioned in feedback surveys is related to going back and forth between My HealtheVet (MHV), VA.gov, and eBenefits.  Many comments reference being redirected, having to log in multiple times, being logged out automatically and being frustrated by 2FA.   This confirms that bringing more functionality from MHV and eBenefits to VA.gov, and reducing the number of sites people have to bounce between, will improve the logged in user experience.
+This confirms that bringing more functionality from MHV and eBenefits to VA.gov, and reducing the number of sites people have to bounce between, will improve the logged in user experience.
 
 > It seems like every path you take leads you to another website where you have to login AGAIN
 
@@ -73,10 +75,14 @@ One person specifically called out not being able to tell whether or not they’
 
 > It always takes a while to get signed in. I always have to refresh the page. Eventually I will get in but then I can’t tell that I’m in and it hard to navigate.
 
-## Next steps
-Digging further into this qualitative data could elicit more helpful answers to our research questions if we:
-- Identify specific flows we want to evaluate
-- Cross-reference the flows with analytics, such as bounces, exit rates, or navigation summaries
-- Get more specific with call center data
+## Recommendations
+We should keep this data in mind as we move forward, and dig deeper if we need to supplement or further validate the other research activities that are part of this initiative.  
 
-Each of these activities would be manual and labor-intensive, and ideally have a dedicated resources with expertise in qualitative data analysis to give us the greatest level of confidence in the results.
+Digging further into this qualitative data could be particularly helpful to supplement user research.  
+
+If and when we do further qualitative analysis, we should:
+-  Identify specific flows we want to evaluate (e.g. the top 5 tasks)
+- Cross-reference the flows with analytics, such as bounces, exit rates, or navigation summaries
+- Get more granular with call center data
+- Plan on spending approximately 1.5 sprints on gathering and analyzing the data
+- Request further support from the Insights team with the analysis, since they’re more well-versed in this data than Auth Experience team members
