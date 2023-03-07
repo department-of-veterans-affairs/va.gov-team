@@ -8,6 +8,28 @@ Roughly, this will be some time between March - June of 2023, depending on when 
 
 This was last updated by Samara in early March 2023. It is meant to change, be flexible, and grow over time depending on how things shake out, so please don't take this as an unchangeable plan.
 
+## OCTO replacement
+
+My OCTO replacement will be Chante Lantos-Swett. She is @Chante in Slack, and her email is chante.lantosswett@va.gov.
+
+Mikki Northuis (@Mikki Northuis in Slack; michelle.northuis@va.gov) is running point just on the logged-in IA/nav work. Liz can go to either Mikki or Chante with questions about this.
+
+### Things Chante will/won't be doing
+
+Chante is going to be much more light-touch with our team than I am, given that she's already got a full time job. You can expect her to:
+
+- Meet with PMs on a regular cadence
+- Attend a standup a week
+- Attend high-priority stakeholder meetings
+- Field work requests for our team, and help the team figure out whether or not to purse these requests, as well as if the team has bandwidth
+- Act as a liaison betweent OCTO and the team
+
+Chante will NOT being doing any of the following:
+
+- Attending every team meeting
+- Detailed planning
+- Validating tickets
+
 ## Work we need to wrap up
 
 ### [My VA audit updates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#readme)
@@ -147,6 +169,8 @@ These are the folks overseeing the EVSS > Lighthouse migration:
  
 #### VEO
 
+I believe Mike Land is now point person for this, but including this info here just in case.
+
 - Jon Pruett (Jonathan.pruett@va.gov) -- VEO transition team.
 - Mandy Tepfer (amanda.tepfer@va.gov) -- VEO transition team.
 
@@ -182,5 +206,6 @@ These are the folks overseeing the EVSS > Lighthouse migration:
 *Meetings to be aware of*
  
 - **VA.gov and Lighthouse sync**: Every other Thursday at 2:00 ET. This meeting is a touchpoint for those of us who are moving integrations from EVSS > Lighthouse. Tom Harrison -- BE developer on auth experience -- usually attends this, so I don't think this is necessary for my replacement unless there are specific issues or questions.
-- **eBenefits "Early Comms" meeting**: Every other Tuesday at 2:30 ET. This has to do with notifications/preferences around notifications that lived in eBenefits. These have been going on for months, and there has been little movement, so I would say my replacement does not need to attend these unless it becomes clear that a new preference needs to be added to the VA.gov profile. I would rely on VANotify (Bev and Melanie) and VA Profile to keep my replacement posted and pull them in if necessary.
-- **VEO transition calls**: One is biweekly every other Tuesday at 3:00 ET; the other is every week on Thursdays at 1:00 ET. I would work with Chris/Steve K/Mike Land to figure out how tapped into this work VA.gov needs to remain, and who should attend any calls.
+- **eBenefits "Early Comms" meeting**: Every other Tuesday at 2:30 ET. This has to do with notifications/preferences around notifications that lived in eBenefits. These have been going on for months, and there has been little movement, so I would say my replacement does not need to attend these unless it becomes clear that a new preference needs to be added to the VA.gov profile. **Bev can likely keep you posted on any necessary updates from this meeting.**
+- **VA Profile/QuickSubmit notifications call**: Every Tuesday at 3:30. This has to do with a notification and preference around a platform called "QuickSubmit", which I believe is related to the claims process. **Bev can likely keep you posted on any necessary updates from this meeting.**
+- **VEO transition calls**: One is biweekly every other Tuesday at 3:00 ET; the other is every week on Thursdays at 1:00 ET. **Mike Land is attending this stuff at least while I'm out, potentially long-term, so don't worry about this**.
