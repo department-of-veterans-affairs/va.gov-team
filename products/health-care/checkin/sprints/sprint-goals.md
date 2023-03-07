@@ -99,6 +99,7 @@ ________________________________________________________________________________
       - Prepare for release
          - [[Research] Implement & Track Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51109)
          - Hold Staging Review    
+         - [[FE] Add GA event on check in now primary button click](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54608)
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
       - Update our tranlations
