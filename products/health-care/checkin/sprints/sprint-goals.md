@@ -32,7 +32,7 @@ ________________________________________________________________________________
          - [[FE] Add GA event on check in now primary button click](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54608)
          - [[FE] Add events for phone number on details pages and update event for details page link click](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54720)
          - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51693)
-         - Submit a 508 audit request (for after release)
+         - Submit a 508 audit request (for after release) (see [process](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office))
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
       - Address un-handled scenarios    
