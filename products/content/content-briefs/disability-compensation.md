@@ -35,6 +35,8 @@ Created by the sitewide content and IA team for teams working on products relate
 
 - **VA disability compensation:** VA disability compensation provides tax-free monthly payments.
 
+- **Retroactive payments:** 
+
 ## Content considerations specific to disability compensation
 
 
