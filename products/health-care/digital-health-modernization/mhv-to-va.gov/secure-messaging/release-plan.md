@@ -11,6 +11,8 @@ _This Release Plan Template is intended to help ensure your new VSP product or f
 * _In Phase 3 "MHV nudge", messaging will be added to MHV about the existing MHV messaging feature being retired on a specific date.  Additional communication about the change will start directing and informing users of the change.
 * _In Phase 4 "MHV redirect to apartment", the final redirect of users will occur where all traffic will flow to the new application and the old application will no longer be accessible.
 
+Throughout the phases, a rollout phase checklist is being completed and maintained by the leadership team.
+https://dvagov-my.sharepoint.com/:w:/r/personal/lauren_alexanderson_va_gov/Documents/Patient%20Experience%20-%20Health/Apartment/Phased%20Release%20Planning/MHV%20on%20VA.gov%20Rollout%20Phases.docx?d=w776fccc71ff44b74a8ff5db424bd61fe&csf=1&web=1&e=HxXBAq
 
 _Fill out the **Planning** sections to start, then the **Results** sections as you complete each phase of testing._
 ---
