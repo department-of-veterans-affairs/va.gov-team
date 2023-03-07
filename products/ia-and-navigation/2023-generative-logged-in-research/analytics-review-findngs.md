@@ -2,54 +2,144 @@
 
 `DRAFT`
 
+## Background
+## About this data
+We pulled Google Analytics (GA) data from February 1, 2022 - February 1, 2023*, to understand:
+* patterns and behaviors around logging in.
+* if there are differences in what people intend to do logged in vs. logged out.
+* what the numbers can tell us about how people navigate the site when logged in.
 
-## Questions for Analytics team
+We used the **WBC - VA.gov** view, which filters out data on My HealtheVet (MHV) and eBenefits. We focused on events and page views, sometimes with custom segments applied to separate out users who have LOA 1 or 3 present.
+
+**Note:** In many of these reports, we saw instances of Pages containing `/auth/login` and ` ?next=loginmodal` in the top URLs.  
+- The `/auth/login` URL is part of the login redirects that occur. We removed this one from the reports since they’re not helpful in evaluating the IA of the site.
+- `?next=loginmodal` is a parameter added to a the URL to ensure the sign-in modal is displayed, and primarily appears if a user uses their browser back button to go back to VA.gov after engaging in the sign-in process. This helps ensure the user picks up where they left off when they were last on VA.gov.  Since we can’t be sure exactly *why* people are leaving and navigating back, we left this in the report.
+
+*GA limits the date range for segments where user data is included. For data related to people being logged in or logged out, we used the date range December 3, 2022-March 4 2023 
+
+### Confidence rating
+Our experience level with analytics falls in the intermediate range. This means that the confidence in the numbers represented here varies depending on the complexity of the question.
+
+We’ve established a confidence rating scale, which can help identify areas where we might want to call in the Analytics team if we need further validation or expertise.
+
+| Rating      |  Details | 
+| ----------- | ----------- | 
+| Low | There are many ways to answer this question and/or we weren’t able to confirm a detail (such as what a specific URL means). We’re fairly confident this data is correct, but another set of eyes would be useful. |
+| Moderate | There are a couple of ways to answer this question, and we’re reasonably confident the way we chose answers the question accurately|
+| High | There is only one way to answer this question, and we’re confident this data is correct. |
+
+## Outstanding questions for Analytics team
 ### Pages
 - In the page reports, what are these things:
 	-  `(other)` 
-	- /sign-in/index.html?application=mhv&to=home
-	- /index.html?next=loginmodal (if this is people clicking sign in on the homepage, wouldn’t My VA be the next thing since we have that redirect in place?)
-- [The report shared with me](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D&explorer-table.filter=nav-header-sign-in&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22RE%22,%22nav-header-sign-in%22,0%5D%5D&explorer-table.rowStart=0&explorer-table.rowCount=250/) shows the page people were on when they signed in, if they clicked the header link - I don’t think it includes any CTA buttons that would be within page content.  The question I’m trying to answer is “What are the top ten popular pages for people to sign in on?” 
-	- I think the “login-modal-opened” event would tell us where sign in attempts took place, regardless of what they clicked on to trigger it. correct? [report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=&_r.drilldown=analytics.eventCategory:Sign-on,analytics.eventAction:Login%20-%20vagovprod,analytics.eventLabel:login-modal-opened&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath/)
-	- If we wanted to instead look at pages where people definitely completed the sign in process, would looking at the pages w/ `?postLogin` in the URL tell us that? [report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22%3FpostLogin%22,0%5D%5D&explorer-table.plotKeys=%5B%5D/)
-
-### Events
-- How do I determine how many clicks happened, or pages were visited, before a specific event was fired?
-- How do I answer “What are peoples’ next clicks **after** signing in?”
-	- It could be going to a new page, or some other interaction on the page they are on.  
-	- How do we distinguish between the two?
 
 ### Search 
 - Do we have data about best bets in our search results (“our top recommendations for you”) to better understand engagement with those results? I don't see any specific events firing in the console when I click on those. 
+	- [analytic reports](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/explorer-segmentExplorer.segmentId=analytics.eventAction&_r.drilldown=analytics.eventCategory:Interactions&explorer-table.plotKeys=%5B%5D&explorer-table.filter=recommended/)
 - There are some differences between what I see in Domo and GA Site Search, for example in the GA “Site Search” report, and the Domo dashboard, the top keywords don’t align.
 	- Which is the source of truth?
 	- Are some searches programmatically performed? I noticed some search terms in GA have a `_` instead of a space.
 
-### Custom segments
- - For comparing logged in vs. logged out users, I used the following custom segments in GA. Is this correct?
-	- VA.gov - Session - Authenticated - LOA Present
-	- VA.gov - Session - No LOA Present [Veteran Not Logged In]
--  In [this report](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q,userBgZiUrK9Sieg7jBAnx44OQ/), why don’t the total of the two segments equal 100%, if they are opposites of each other?
-
 ## Signing in to VA.gov
-1. What percentage of users signed in to VA.gov over the last year (2/22-2/23)?
-19.04% of users authenticated in their session. ([Report](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q,builtin1/))
 
+### What percentage of users signed in to VA.gov over the last 93 days (greatest number of days we can pull from GA with user data)?
+- [Report](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&_.useg=user8twPUpCZT8qMEc9RwdXoUg,userbsqza7fOTvy36H-XeVcmLA/)
+- Confidence level: high
+
+18.23% of users signed into VA.gov
 
 ### What are the top ten popular pages for people to sign in on? 
-These are the top 10 pages where sign-in events occurred, excluding va.gov/sign-in. The events we looked at are fired when people click on a sign in CTA, and the header sign-in button. ([Report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22RE%22,%22nav-header-sign-in%7Clogin-link-clicked-cta%22,0%5D%5D&explorer-table.rowCount=250/))
+-  [Report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22RE%22,%22nav-header-sign-in%7Clogin-link-clicked-cta%22,0%5D%5D&explorer-table.rowCount=250/)
+- Confidence level: high
+
+These are the top 10 pages where sign-in events occurred, excluding `/sign-in/index.html` and `session-expired/index.html`. The events we looked at are fired when people click on a sign in CTA, and the header sign-in button.
+
+GA tracks every permutation of the homepage as a separate page; they’ve been consolidated in the table below, but can be seen in the report linked above.
+
+|URL | Number of unique sign in events |
+| ----------- | ----------- | 
+|/index.html| 9,185,967|
+|/claim-or-appeal-status/index.html| 4,877,161|
+|/health-care/schedule-view-va-appointments/index.html| 1,172,235|
+|/va-payment-history/index.html| 1,165,341|
+|/disability/file-disability-claim-form-21-526ez/introduction/| 708,602|
+|/records/download-va-letters/index.html| 687,801|
+|/health-care/refill-track-prescriptions/index.html| 631,084|
+|/health-care/secure-messaging/index.html| 321,036|
+|/records/get-veteran-id-cards/vic/index.html| 308,400|
+|/track-claims/your-claims/| 136,018|
 
 
-3. How many clicks do people usually take/pages do people usually visit before signing in?
+### How many clicks do people usually take/pages do people usually visit before signing in?
 
-Not sure how to figure this one out.
+GA doesn’t offer a straightforward way to track this. It may be possible to have our analytics team cross-reference GA data with other sources to determine this, but we’d need to do that as a separate effort.
 
-4.  What are peoples’ next clicks **after** signing in?
+### What are peoples’ next clicks after signing in?
+-  [Pages with post-login parameter report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_r.tabId=explorer&navigationsummary-keySelector.searchTerm=%3Fpostlogin=true&explorer-table.filter=%3Fpostlogin=true&explorer-table.plotKeys=%5B%5D/)
+- Confidence level: moderate
 
-Behavior flow report?
+This is another metric that isn’t straightforward to track in GA.  The first page a person lands on after signing in contains the `?postlogin=true` parameter, so we can look at the navigation summary on those URLs to see the next page they go.  It’s important to note that the page a person lands on after signing in isn’t necessarily the same page they logged in on.
+
+Each of these has to be run manually, per page, so we limited the results to the top 3 pages with the `?postlogin=true` parameter.  
+
+|Page | Pageviews |
+| -----------  | -----------  | 
+| /my-va/index.html?postlogin=true | 9,219,713 |
+| /claim-or-appeal-status/index.html?postlogin=true | 6,840,624|
+| /index.html?postlogin=true | 2,916,108|
+
+
+On My VA and the homepage we see some similarities suggesting what people want to do next:
+- Track a claim
+- Make a payment
+- Schedule or view an appointment
+
+Interestingly, both My VA and the Claim or appeal status page have links to the homepage or logging in in their navigation summary reports. This suggests people aren’t finding what they’re looking for, and may be using their back button to back away.
+
+|Next page path from My VA | Pageviews |
+| -----------  | -----------  | 
+| /claim-or-appeal-status/index.html | 1,596,977 |
+| /disability/view-disability-rating/rating/ | 713,208 |
+| /va-payment-history/payments/index.html | 700,655 |
+| /profile/ | 563,897 |
+| /index.html | 467,315 |
+| /my-va/index.html | 338,394 |
+| /verify/index.html | 318,489 |
+| /health-care/schedule-view-va-appointments/appointments/ | 271,255 |
+| /index.html?next=/my-va/ | 223,008 |
+| /logout/index.html | 125,528 |
+
+|Next page path from claim or appeal status | Pageviews |
+| -----------  | -----------  | 
+| /track-claims/your-claims/ | 2,163,913 |
+| /verify/index.html | 60,784 |
+| /auth/login/callback?type=verify | 30,796 |
+| /index.html | 24,103 |
+| /claim-or-appeal-status/index.html | 23,638 |
+| /my-va/index.html | 15,871 |
+| /auth/login/callback?type=dslogon | 9,404 |
+| /auth/login/callback?type=idme | 9,102 |
+| /claim-or-appeal-status/index.html?postlogin=true&next=loginmodal | 9,075 |
+
+
+|Next page path from homepage | Pageviews |
+| -----------  | -----------  | 
+| /claim-or-appeal-status/index.html | 1,109,607 |
+| /va-payment-history/index.html | 268,342 |
+| /my-va/index.html | 164,347 |
+| /records/download-va-letters/index.html | 135,218 |
+| /health-care/refill-track-prescriptions/index.html | 103,004 |
+| /index.html?postlogin=true&next=loginmodal | 78,504 |
+| /disability/file-disability-claim-form-21-526ez/index.html | 64,903 |
+| /health-care/schedule-view-va-appointments/index.html | 64,581 |
+| /index.html | 61,788 |
+| /health-care/secure-messaging/index.html | 51,743 |
+
 
 ### What is the % breakdown of people who click sign in CTAs vs. “Create Account” CTAs?
-Of 30,818,378 total events, 3.45% were “create account” events. Note that the CTA events do not include interactions with the sign in button on the header; these represent sign in CTAs within pages.
+- Confidence level: High
+
+Of 30,818,378 total events, 3.45% were “create account” events. Note that the CTA events do not include interactions with the sign in button on the header; these represent sign in CTAs within pages. We’re not sure if there are other call to action buttons tagged with something other than `login-link-clicked-cta`, but this still gives us a good comparison to get a sense of this breakdown.
 
 | Event Label      | Total Events | Report link |
 | ----------- | ----------- | ----------- |
@@ -58,8 +148,10 @@ Of 30,818,378 total events, 3.45% were “create account” events. Note that th
 
 
 ### For people who click “Create Account”, where are they coming from (previous page)?
+- Confidence level: High
+- [Report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22PT%22,%22register-link-clicked-%22,0%5D,%5B0,%22analytics.eventLabel%22,%22PT%22,%22false%22,1%5D%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.rowStart=0&explorer-table.rowCount=50/)
 
-Since the “Create Account” link is contained within the login modal, we looked at the page the person triggered the modal from by looking at the `register-link-clicked-[logingov or idme]` event. [Report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22PT%22,%22register-link-clicked-%22,0%5D,%5B0,%22analytics.eventLabel%22,%22PT%22,%22false%22,1%5D%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.rowStart=0&explorer-table.rowCount=50/)	
+Since the “Create Account” link is contained within the login modal, we looked at the page the person triggered the modal from by looking at the `register-link-clicked-[logingov or idme]` event. 	
 
 Not surprisingly, the pages include:
 - the VA.gov homepage
@@ -84,14 +176,15 @@ Not surprisingly, the pages include:
 
 ## Navigating to tasks & tools
 ### What are the most popular pages overall?
+- Confidence leve: high
+- [Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22~2Fauth~2F%22,1%5D%5D&explorer-table.plotKeys=%5B%5D/)
+
  The top 25 most popular pages include the VA.gov homepage, and:
 	- Pages related to claims
 	- the facility locator
 	- My VA
 	- pages related to payments
 	- Pages related to disability ratings
-	
-There were multiple variations of the `/auth/` redirects that happen in the sign-in process in the initial report, so we filtered those out to land on these results. ([Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22~2Fauth~2F%22,1%5D%5D&explorer-table.plotKeys=%5B%5D/))
 
 | Page | Pageviews|
 | -----------  | -----------  |
@@ -123,9 +216,11 @@ There were multiple variations of the `/auth/` redirects that happen in the sign
 
 
 
-2. What are the most popular landing pages?
+### What are the most popular landing pages?
+ - Confidence level: high
+- [Report](https://analytics.google.com/analytics/web/#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/)
 
- ([Report](https://analytics.google.com/analytics/web/#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/))
+The most popular landing pages, outside of the homepage, tell us users are coming to VA.gov for health and disability related tasks.  As we get deeper into the list, we start to see content related to records and payment history.
 
 |Landing Page | Sessions |
 | -----------  | -----------  | 
@@ -155,74 +250,99 @@ There were multiple variations of the `/auth/` redirects that happen in the sign
 | /sign-in/index.html?application=vaoccmobile&redirect_uri=/rxr/ |  814,196 |
 | /health-care/get-reimbursed-for-travel-pay/index.html |   767,730 |
 
-4. What are the 25 most popular pages visited while signed in? ([Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q/))
+### What are the 25 most popular pages visited while signed in? 
+- Confidence level: high
+- [Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=user8twPUpCZT8qMEc9RwdXoUg/)
+
+The majority of these pages are related to disability, payment history, and records.  We wouldn’t expect to see much health care here, since we’re looking at the WBC view in GA.
 
 |Page | Pageviews |
 | -----------  | -----------  | 
-| /index.html|  44,141,374 |
-| (other)|  38,677,534 |
-| /track-claims/your-claims/|   29,340,018 |
-| /claim-or-appeal-status/index.html|   19,267,773 |
-| /index.html?next=loginmodal|  14,467,958 |
-| /track-claims/index.html|     12,626,673 |
-| /auth/login/callback?type=idme    | 11,581,963 |
-| /my-va/index.html | 10,873,618 |
-| /auth/login/callback?type=custom  | 10,642,914 |
-| /auth/login/callback?type=dslogon | 9,361,986 |
-| /my-va/index.html?postlogin=true|     8,115,723 |
-| /va-payment-history/payments/index.html|  6,620,163 |
-| /index.html?next=loginmodal&postlogin=true    | 6,417,762 |
-| /auth/login/callback?type=mhv|    6,366,107 |
-| /va-payment-history/index.html|   6,275,515 |
-| /claim-or-appeal-status/index.html?postlogin=true | 6,194,059 |
-| /logout/index.html    | 4,979,978 |
-| /disability/view-disability-rating/rating/    | 4,929,436 |
-| /disability/file-disability-claim-form-21-526ez/introduction/ | 4,539,980 |
-| /records/download-va-letters/index.html   | 4,260,424 |
-| /health-care/schedule-view-va-appointments/appointments/index.html|   4,038,070 |
-| /session-expired/index.html   | 3,989,442 |
-| /profile/personal-information/    | 3,879,188 |
-| /records/download-va-letters/letters/letter-list/ | 3,633,688 |
-| /search/index.html?t=false    | 3,594,106 |
+|/index.html| 12,517,076 |
+| (other)| 9,054,080 |
+| /track-claims/your-claims/| 8,311,279 |
+| /claim-or-appeal-status/index.html| 5,723,304 |
+| /index.html?next=loginmodal| 3,682,519 |
+| /track-claims/index.html| 3,448,922 |
+| /session-expired/index.html| 2,985,194 |
+| /index.html?next=loginmodal&postlogin=true| 2,724,146 |
+| /my-va/index.html| 2,572,779 |
+| /va-payment-history/index.html| 2,056,658 |
+| /va-payment-history/payments/index.html| 1,775,924 |
+| /sign-in/index.html?application=mhv&to=home| 1,761,033 |
+| /claim-or-appeal-status/index.html?postlogin=true| 1,730,519 |
+| /records/download-va-letters/index.html| 1,347,479 |
+| /disability/file-disability-claim-form-21-526ez/introduction/| 1,212,173 |
+| /records/download-va-letters/letters/letter-list/| 1,187,199 |
+| /logout/index.html| 1,178,428 |
+| /facilities/index.html?XXX| 1,174,025 |
+| /health-care/schedule-view-va-appointments/appointments/index.html| 1,101,552 |
+| /search/index.html?t=false| 1,090,455 |
+| /disability/view-disability-rating/rating/| 1,065,743 |
+| /records/download-va-letters/letters/confirm-address/| 1,057,765 |
+| /health-care/schedule-view-va-appointments/index.html| 998,488 |
+| /profile/personal-information/| 952,434 |
+| /index.html?postlogin=true| 900,090 |
 
-6. What are the 25 most popular pages visited while signed out? ([Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/))
+
+
+### What are the 25 most popular pages visited while signed out?
+- Confidence level: high
+- [Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/)
+
+The homepage tops this list, which also includes many pages related to:
+- Finding a VA facility
+- Signing in to MHV
+- getting information about Covid-19 screening
+- Search
 
 |Page | Pageviews |
 | -----------  | -----------  | 
-| /index.html    | 31,861,090 |
-| /facilities/index.html?XXX     | 17,221,456 |
-| /sign-in/index.html?application=mhv&to=home    | 12,947,811 |
-| (other)    | 8,507,231 |
-| /search/index.html?t=false     | 5,859,946 |
-| /resources/the-pact-act-and-your-va-benefits/index.html |     5,557,123 |
-| /disability/compensation-rates/veteran-rates/index.html    | 5,505,467 |
-| /index.html?next=loginmodal    | 5,478,655 |
-| /claim-or-appeal-status/index.html     | 4,513,532 |
-| /track-claims/your-claims/     | 4,440,458 |
-| /find-forms/index.html     | 3,288,856 |
-| /find-locations/index.html     | 3,172,691 |
-| /covid19screen/    | 2,822,371 |
-| /session-expired/index.html    | 2,777,240 |
-| /sign-in/index.html?application=mhv&to=home&oauth=false    | 2,606,296 |
-| /contact-us/index.html     | 2,581,410 |
-| /find-locations/   | 2,248,542 |
-| /education/gi-bill-comparison-tool/index.html?search=name&excludedschooltypes[]=public&excludedschooltypes[]=for profit&excludedschooltypes[]=private&excludedschooltypes[]=foreign&excludedschooltypes[]=flight&excludedschooltypes[]=correspondence&excludedschooltypes[]=high school    | 2,170,784 |
-| /my-va/index.html  | 1,971,642 |
-| /disability/file-disability-claim-form-21-526ez/introduction/  | 1,893,108 |
-| /records/get-military-service-records/index.html |    1,745,846 |
-| /search/index.html?t=true |   1,729,275 |
-| /health-care/schedule-view-va-appointments/index.html |   1,667,208 |
-| /health-care/appointment-pre-check-in/index.html |    1,639,173 |
-| /education/gi-bill-comparison-tool/index.html?search=location |   1,593,663 |
+|/index.html| 5,879,328 |
+| /facilities/index.html?XXX| 3,725,724 |
+| /sign-in/index.html?application=mhv&to=home| 2,555,284 |
+| /covid19screen/| 1,637,924 |
+| /search/index.html?t=false| 1,168,507 |
+| /disability/compensation-rates/veteran-rates/index.html| 793,081 |
+| /covid19screen/index.html| 722,923 |
+| /find-forms/index.html| 676,059 |
+| /index.html?next=loginmodal| 654,458 |
+| /find-locations/index.html| 637,711 |
+| /find-locations/| 458,722 |
+| /contact-us/index.html| 448,956 |
+| /claim-or-appeal-status/index.html| 433,071 |
+| /records/get-military-service-records/index.html| 372,310 |
+| /search/index.html?t=true| 364,527 |
+| /search/index.html| 324,837 |
+| /health-care/schedule-view-va-appointments/index.html| 304,278 |
+| /track-claims/your-claims/| 278,642 |
+| /education/gi-bill-comparison-tool/index.html| 276,018 |
+| /education/gi-bill-comparison-tool/index.html?search=location| 246,995 |
+| /education/how-to-apply/index.html| 238,175 |
+| /education/gi-bill-comparison-tool/index.html?search=name&excludedschooltypes[]=public&excludedschooltypes[]=for profit&excludedschooltypes[]=private&excludedschooltypes[]=foreign&excludedschooltypes[]=flight&excludedschooltypes[]=correspondence&excludedschooltypes[]=high school| 233,036 |
+| /education/gi-bill-comparison-tool/index.html?search=name&excludedschooltypes[]=public&excludedschooltypes[]=for profit&excludedschooltypes[]=private&excludedschooltypes[]=foreign&excludedschooltypes[]=flight&excludedschooltypes[]=correspondence| 229,895 |
+| /disability/file-disability-claim-form-21-526ez/introduction/| 221,686 |
+| /records/download-va-letters/index.html| 199,346 |
+
 
 
 ### What are the average number of pages visited on the site in a session?
-* Logged in: 16.95
-* Logged out: 3.53
-- Logged-in users have much longer session durations than logged out: 15:49 compared to 3:08. Logged-in users also have significantly lower bounce rates: .03% compared to 36.78%
+- Confidence level: High
+- [Report](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q,userBgZiUrK9Sieg7jBAnx44OQ/)
+* Logged in: 13.33
+* Logged out: 2.63
+- Logged-in users have much longer session durations than logged out: 13:37 compared to 2:39. 
 
-6. What are the top ten most popular logged in tasks?
-	- How are we defining a task?
+### What are the most popular logged in tasks?
+- Confidence level: moderate
+
+We looked the popular signed-in pages, and pages people sign in on to arrive at this list. Since we focused our research on the VA.gov GA view (which excludes MHV), there aren’t a lot of health related pages in those reports. 
+	- Tracking/checking the status of claims
+	- Viewing payment history
+	- Disability related tasks, such as viewing a rating or filing a claim
+	- Downloading letters
+	- Scheduling appointments
+
 	
 8. For the top ten most popular logged in tasks, how many clicks/page visits does it take for people to get to those pages?
 - Navigation summary report
@@ -231,7 +351,12 @@ There were multiple variations of the `/auth/` redirects that happen in the sign
 - Navigation summary report
 
 ## Search
-1. What are the top search terms?
+### What are the top search terms?
+- Confidence rating: low
+
+We looked at GA and a DOMO search kpi report to evaluate top search terms. There are discrepancies between the two reports, and as of 3/6/23, we’re not sure why. 
+
+The analytics team will dig into the discrepancy. For now, we have two flavors of the same report:
 
 **Domo Search KPI dashboard report** ([link](https://va-gov.domo.com/page/1964748112/kpis/details/552188912))
 |Search terms|  Searches|
