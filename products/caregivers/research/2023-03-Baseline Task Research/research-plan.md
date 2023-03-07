@@ -47,10 +47,10 @@ A moment that matters in the journey is during the aging phase when Veterans inc
 
 
 ## Research Goals	
-- Discover if the facility updates are clear and easy for participants to understand
-- Determine if the facility updates are accessible and the usability to search and select a facility
-- Discover what is easy or difficult to complete on the form and why
-- Obtain a qualitative baseline to understand the form overall, how this study compares to past research findings and future design iterations  
+1. Discover if the facility updates are clear and easy for participants to understand
+2. Determine if the facility updates are accessible and the usability to search and select a facility
+3. Discover what is easy or difficult to complete on the form and why
+4. Obtain a qualitative baseline to understand the form overall, how this study compares to past research findings and future design iterations  
 
 
 ### Outcome
@@ -62,22 +62,44 @@ This research will test the updates to the VA Facility question content, page fl
 
 
 **Discover if the facility updates are clear and easy for participants to understand**
+- Is the new version of this question easy to understand and answer with little confusion?
+- Does this new version result in clarifying questions or additional information needed to complete?
+- Is the new version easy for the participant to understand why they are selecting a facility and how it impacts the caregiver application process?
+- Does the confirmation screen after selection add any additional confusion or result in clarifying questions?
 
 
+**Determine if the facility updates are accessible and the usability to search and select a facility**
+- Are users able to navigate through the facility selection without difficulty?
+- Do participants know what to input in the text search field?
+- Can users easily use the search input and understand what choices are populated from that search?
+- Is it clear how to reselect a facility if one is selected in error?
+- How do screen reader participants respond to the confirmation pages?
 
-**Gain an understanding of the most common pain points encoutered** 
-- What sections of the form cause the participant the most pause or confusion?
+**Discover what is easy or difficult to complete on the form and why** 
+- What questions on the form cause the participant the most pause or confusion?
+- What questions on the form does the participant appear to answer quickly, easily and correctly?
+- At what points in the form do participants ask clarifiying questions 
 
-
+**Obtain a qualitative baseline to understand the form overall, how this study compares to past research findings and future design iterations**
+- What tasks do participants seem to do consistently well on or that the consistently struggle?
+- What are the recurring pain points across participants?
 
 
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+
+**Hyphotesis 1**
+Our hypothesis is that users will understand what they are selecting on the facilities page and how that impacts the caregiver applicaiton process. The participants will find the confirmation page to be helpful and informative and it will not add it more complexity or confusion. 
+
+**Hyphotesis 2**
+Our hypothesis is that users will be able to navigate through the facility selection relatively easily, but may have issues with the following:
+- The number of results shown
+- A desire to filter results and how
+- Not recognizing the name of the facility they are looking for 
+- Understanding the difference between community and VA facilities/Caregiver Support Facilities
+
+
+
 
 ## Method	
 - Moderated usability testing 
@@ -113,7 +135,7 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|               |                  |        |             |          |               | 
+|         30    |       20         |    8   |      4      |  8       |            0  | 
 
 
 
