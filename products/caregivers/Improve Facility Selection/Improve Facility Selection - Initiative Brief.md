@@ -162,13 +162,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Collaboration Cycle
 
 - [Kickoff ticket #51980](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/51980)
-  - Design Intent
-  - Research Review
-  - IA Review
-  - Midpoint Review
-  - Staging Review
-  - Privacy & Security
-  - Contact Center guide review
+  - [ ] Design Intent 3/20/2023
+  - [ ] Research Review
+  - [ ] IA Review
+  - [ ] Midpoint Review
+  - [ ] Staging Review
+  - [ ] Privacy & Security
+  - [ ] Contact Center guide review
 
 ### Incident Response Info
 - The 1010CG form is currently in production
