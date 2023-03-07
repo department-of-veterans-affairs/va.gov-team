@@ -56,36 +56,117 @@ Before we start, a few things I want to mention:
 
 
 
-## Warm-up Questions (Optional) - 5 minutes
+## Warm-up Questions - 7 minutes
 Before we look at the website, let’s start with a few warm-up questions.
 
 
 **For Veterans**
+- What kind of benefits or services do you use the VA for?
+- Do you have a preferred VA facility/location?
 - Do you currently have a caregiver?
 - Does your caregiver receive any benefits from the VA - are you/they part of the Program of Comprehensive Assistance for Family Caregivers?
 - Do you have more than one caregiver?
 
 
 
-**For Caregivers**
-- 
+**For Caregivers/Family Members**
+- Does the Veteran you are a caregiver for receive benefits and services from the VA?
+- Do you receive any benefits from the VA?
+- Are you part of the Program of Comprehensive Assistance for Family Caregivers?
+- Do you or your Veteran have a preferred VA facility/location?
+- Tell me a bit about the caregiver relationship you have with the Veteran.
+- Are they a family member or friend?
+- Does the Veteran have more than one caregiver?
 
 
-**For Family Members**
-- 
+
+
+## First Task: [Introduction page] - 5 minutes
+
+- For this session today, we are going to walk through the scenario that you are applying for caregiver benefits.
+- Review this page and tell me about your impressions and expectations before applying.
+
+### Participant ratings:
+- On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this first page make you feel about the application you are about to begin? Why did you give it that rating?
+
+
+### Things to watch for:
+- [Does the participant easily locate the apply link?]
+- [Does the participant seem to indicate that any of the content is unclear or needs more clarification?]
+- [Does the participant indicate they would need to pause to gather information or would need to coordinate with others to complete the application together?]
+- [Does the participant comment on making changes to existing caregivers?]
 
 
 
 
+## Second Task: [Veteran information] - 5 minutes
 
-## First Task: [Introduction page] - X minutes
+- [Veteran] Complete these first questions about yourself.
+- [Caregiver] Complete these first questions as if you were answering for the Veteran you are caring for.  
+- You can use fake information for sensitive items such as your social or birthdate. 
 
-- Step 1
+### Things to watch for:
+- [Does the participant need additional clarification to complete any of the questions?]
+- [Does the participant comment that any of these questions are not needed/too intrusive?]
+
+
+## Third Task: [VA Facility Selection] - 5 minutes
+
+- Please explain your thoughts and think-aloud as you complete the questions on this page.
+
+- How would you prefer to search for facilities?
+- Was anything on those pages unclear or you would like additional information on?
+- Can you explain to me how your location choice is part of the caregiver application process?
+- Let's imagine you want to change the location you have selected - you are moving soon - by doing a new search. Can you walk me through how you would accomplish that?
+
+
+### Observer rating of task completion
+[Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty
+
+### Things to watch for:
+
+- [Does the participant comment that they would need clarifying information to answer the question?]
+- [Does the participant search by zip code, city or state]
+- [Does the particpant comment or react to the confirmation screen?]
+- [Does the confirmation screen add confusion for the participant?]
+
+
+## Fourth Task: [Primary Caregiver] - 5 minutes
+
+- [Veteran] For this scenario, you are applying with a primary caregiver. Can you please complete the questions on this page. 
+- [Veteran] In completing this application in real life, how would you coordinate getting this information from your caregiver? Would you complete together? 
+
+- [Caregiver] In this scenario, you are the primary caregiver applying for benefits. Can you please complete the questions asked and think aloud about your thought process. 
+
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+
+## Fifth Task: [Secondary Caregivers] - 5 minutes
+
+- What does a secondary caregiver mean to you?
+- How do you think that differs in the application and benefits process to a primary caregiver?
+
+
 - Step 2
 
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
 
 
-## Second Task: [Veteran information] - X minutes
+## Sixth Task: [Representative Documents] - 5 minutes
 
 - Step 1
 - Step 2
@@ -94,56 +175,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
-
-## Third Task: [VA Facility Selection] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Fourth Task: [Primary Caregiver] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Fifth Task: [Secondary Caregivers] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
 - [Etc]
 
 
-## Sixth Task: [Representative Documents] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-
-## Seventh Task: [Review] - X minutes
+## Seventh Task: [Review] - 5 minutes
 
 - Step 1
 - Step 2
@@ -171,9 +206,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
-- Any questions for me? 
+- Was there anything that stood out to you?
+- Did you feel the most confident in answering the questions with no additional clarification needed?
+- Do you need any clarifying informaiton about how the answer you provide will be used in the caregiver application process?
 
 ## Thank-You and Closing - X minutes
 
