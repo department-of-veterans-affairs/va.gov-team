@@ -2,10 +2,7 @@
 
 ## Moderator logistics
 ### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
-
-- Complete any project-specific setup tasks for this study (List them below)
-
+- [ ] Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 - [ ] Confirm additional notetakers and supply notes template and guidelines
 - [ ] If this is a session with a screen reader, confirm assistive tech support is available
 
@@ -89,6 +86,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 ### Participant ratings:
 - On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this first page make you feel about the application you are about to begin and informed about the process? Why did you give it that rating?
 
+
 ### Observer rating of task completion
 [Observer ratings of start application task completion using rating criteria]
 - 0 = No part of the task completed, much difficulty
@@ -120,7 +118,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Third Task: [VA Facility Selection] - 5 minutes
 
 - Please explain your thoughts and think-aloud as you complete the questions on this page.
-
 - How would you prefer to search for facilities?
 - Was anything on those pages unclear or you would like additional information on?
 - Can you explain to me how your location choice is part of the caregiver application process?
@@ -150,6 +147,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - [Caregiver] In this scenario, you are the primary caregiver applying for benefits. Can you please complete the questions asked and think aloud about your thought process. 
 
+### Observer rating of task completion
+[Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty
 
 ### Things to watch for:
 - [Does the participant understand the primary caregiver role for the application?]
@@ -157,10 +161,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 ## Fifth Task: [Secondary Caregivers] - 5 minutes
-
+- For this scenario, complete the questions as you would if you were applying as a secondary caregiver role too. 
 - What does a secondary caregiver mean to you?
 - How do you think that differs in the application and benefits process to a primary caregiver?
-- For this scenario, complete the questions as you would if you were applying as a secondary caregiver too. 
 
 
 ### Things to watch for:
@@ -170,7 +173,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 ## Sixth Task: [Representative Documents] - 5 minutes
-
 - Can you explain what this page is asking and what it means to you?
 - How would you answer this question and what would you expect to happen next?
 - [If selected continue to upload page, instruct to go back and answer The Veteran]
@@ -182,11 +184,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 ## Seventh Task: [Review] - 5 minutes
-
 - Look over this page and tell me about your impressions or expectations?
 - If you see an error, can you show me how you would go about correcting that?
 - Complete this application.
-
 
 ### Things to watch for:
 - [Does the participant have a positive or negative sentiment about the review page?]
@@ -205,20 +205,19 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 ## Eighth Task: [Confrimation Page] - 5 minutes
-
 - Describe to me in your own words what this page is telling you happened and what comes next in this process.
 
 ### Things to watch for:
-
-- [Does the participant understand meaning of the confirmataion page?]
-- [Does the participant notice xyz?]
+- [Does the participant understand the content on the confirmataion page or is additional explanation needed?]
+- [Does the participant have questions about what happens next and the process overall?]
+- [Does the participant express confidence in the confirmation page and the application process?]
 
 
 ## Post-Task Interview - 5 minutes
-
 - Was there anything that stood out to you?
 - Did you feel the most confident in answering the questions with no additional clarification needed?
 - Do you need any clarifying informaiton about how the answer you provide will be used in the caregiver application process?
+- How likely are you to recommend this online application to another Veteran or Caregiver? [Scale of 0 - 10] Why?
 
 
 
