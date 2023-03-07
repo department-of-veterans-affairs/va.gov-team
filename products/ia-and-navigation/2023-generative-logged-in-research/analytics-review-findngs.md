@@ -1,8 +1,8 @@
 # VA.gov Logged in IA Analytics Review
-3/6/2023
+3/7/2023
 
 ## Background
-We pulled Google Analytics (GA) data from February 1, 2022 - February 1, 2023*, to understand:
+We pulled Google Analytics (GA) data:
 * patterns and behaviors around logging in.
 * if there are differences in what people intend to do logged in vs. logged out.
 * what the numbers can tell us about how people navigate the site when logged in.
@@ -14,8 +14,6 @@ In many of these reports, we saw instances of `(other)`, `/auth/login/` and ` ?n
 - The analytics team is digging into what `(other)` means; we’ll update this report when we learn more if it’s meaningful.
 - The `/auth/login` URL is part of the login redirects that occur. We removed this one from the reports since they’re not helpful in evaluating the IA of the site.
 - `?next=loginmodal` is a parameter added to a the URL to ensure the sign-in modal is displayed, and primarily appears if a user uses their browser back button to go back to VA.gov after engaging in the sign-in process. This helps ensure the user picks up where they left off when they were last on VA.gov.  Since we can’t be sure exactly *why* people are leaving and navigating back, we left this in the report.
-
-*GA limits the date range for segments where user data is included. For data related to people being logged in or logged out, we used the date range December 3, 2022 - March 4 2023 
 
 ### Confidence rating
 Our experience level with analytics falls in the intermediate range. This means that the confidence in the numbers represented here varies depending on the complexity of the question.
@@ -31,13 +29,13 @@ We’ve established a confidence rating scale, which can help identify areas whe
 ## Signing in to VA.gov
 
 ### What percentage of users signed in to VA.gov over the last 93 days (greatest number of days we can pull from GA with user data)?
-- [Report](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&_.useg=user8twPUpCZT8qMEc9RwdXoUg,userbsqza7fOTvy36H-XeVcmLA/)
+- [Audience overview report](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&_.useg=user8twPUpCZT8qMEc9RwdXoUg,userbsqza7fOTvy36H-XeVcmLA/), Dec 3, 2022-Mar 5, 2023
 - Confidence level: high
 
 18.23% of users signed into VA.gov
 
 ### What are the top ten popular pages for people to sign in on? 
--  [Report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22RE%22,%22nav-header-sign-in%7Clogin-link-clicked-cta%22,0%5D%5D&explorer-table.rowCount=250/)
+-  [Report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22RE%22,%22nav-header-sign-in%7Clogin-link-clicked-cta%22,0%5D%5D&explorer-table.rowCount=250/), Feb 1, 2022-Feb 1, 2023
 - Confidence level: high
 
 These are the top 10 pages where sign-in events occurred, excluding `/sign-in/index.html` and `session-expired/index.html`. The events we looked at are fired when people click on a sign in CTA, and the header sign-in button.
@@ -63,7 +61,7 @@ GA tracks every permutation of the homepage as a separate page; they’ve been c
 GA doesn’t offer a straightforward way to track this. It may be possible to have our analytics team cross-reference GA data with other sources to determine this, but we’d need to do that as a separate effort.
 
 ### What are peoples’ next clicks after signing in?
--  [Pages with post-login parameter report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_r.tabId=explorer&navigationsummary-keySelector.searchTerm=%3Fpostlogin=true&explorer-table.filter=%3Fpostlogin=true&explorer-table.plotKeys=%5B%5D/)
+-  [Pages with post-login parameter report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_r.tabId=explorer&navigationsummary-keySelector.searchTerm=%3Fpostlogin=true&explorer-table.filter=%3Fpostlogin=true&explorer-table.plotKeys=%5B%5D/), Feb 1, 2022-Feb 1, 2023
 - Confidence level: low
 
 This is another metric that isn’t straightforward to track in GA.  The first page a person lands on after signing in contains the `?postlogin=true` parameter, so we can look at the navigation summary on those URLs to see the next page they go.  It’s important to note that the page a person lands on after signing in isn’t necessarily the same page they logged in on.
@@ -136,8 +134,8 @@ Of 30,818,378 total events, 3.45% were “create account” events. Note that th
 
 
 ### For people who click “Create Account”, where are they coming from (previous page)?
+- [Pages where event triggered report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22PT%22,%22register-link-clicked-%22,0%5D,%5B0,%22analytics.eventLabel%22,%22PT%22,%22false%22,1%5D%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.rowStart=0&explorer-table.rowCount=50/), Feb 1, 2022-Feb 1, 2023
 - Confidence level: High
-- [Report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22PT%22,%22register-link-clicked-%22,0%5D,%5B0,%22analytics.eventLabel%22,%22PT%22,%22false%22,1%5D%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.rowStart=0&explorer-table.rowCount=50/)
 
 Since the “Create Account” link is contained within the login modal, we looked at the page the person triggered the modal from by looking at the `register-link-clicked-[logingov or idme]` event. 	
 
@@ -164,8 +162,8 @@ Not surprisingly, the pages include:
 
 ## Navigating to tasks & tools
 ### What are the most popular pages overall?
+- [Top pages report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22~2Fauth~2F%22,1%5D%5D&explorer-table.plotKeys=%5B%5D/), Feb 1, 2022-Feb 1, 2023
 - Confidence level: high
-- [Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22~2Fauth~2F%22,1%5D%5D&explorer-table.plotKeys=%5B%5D/)
 
  The top 25 most popular pages include the VA.gov homepage, and:
 	- Pages related to claims
@@ -205,9 +203,9 @@ Not surprisingly, the pages include:
 
 
 ### What are the most popular landing pages?
+- [Landing pages report](https://analytics.google.com/analytics/web/#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/), Feb 1, 2022-Feb 1, 2023
  - Confidence level: high
-- [Report](https://analytics.google.com/analytics/web/#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/)
-
+ 
 The most popular landing pages, outside of the homepage, tell us users are coming to VA.gov for health and disability related tasks.  As we get deeper into the list, we start to see content related to records and payment history.
 
 |Landing Page | Sessions |
@@ -239,44 +237,45 @@ The most popular landing pages, outside of the homepage, tell us users are comin
 | /health-care/get-reimbursed-for-travel-pay/index.html |   767,730 |
 
 ### What are the 25 most popular pages visited while signed in? 
+- [Top pages for users signed in](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&_.useg=user8twPUpCZT8qMEc9RwdXoUg/), Dec 3, 2022-Mar 5, 2023
 - Confidence level: high
-- [Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=user8twPUpCZT8qMEc9RwdXoUg/)
 
 The majority of these pages are related to disability, payment history, and records.  We wouldn’t expect to see much health care here, since we’re looking at the WBC view in GA.
 
 |Page | Pageviews |
 | -----------  | -----------  | 
-|/index.html| 12,517,076 |
-| (other)| 9,054,080 |
-| /track-claims/your-claims/| 8,311,279 |
-| /claim-or-appeal-status/index.html| 5,723,304 |
-| /index.html?next=loginmodal| 3,682,519 |
-| /track-claims/index.html| 3,448,922 |
-| /session-expired/index.html| 2,985,194 |
-| /index.html?next=loginmodal&postlogin=true| 2,724,146 |
-| /my-va/index.html| 2,572,779 |
-| /va-payment-history/index.html| 2,056,658 |
-| /va-payment-history/payments/index.html| 1,775,924 |
-| /sign-in/index.html?application=mhv&to=home| 1,761,033 |
-| /claim-or-appeal-status/index.html?postlogin=true| 1,730,519 |
-| /records/download-va-letters/index.html| 1,347,479 |
-| /disability/file-disability-claim-form-21-526ez/introduction/| 1,212,173 |
-| /records/download-va-letters/letters/letter-list/| 1,187,199 |
-| /logout/index.html| 1,178,428 |
-| /facilities/index.html?XXX| 1,174,025 |
-| /health-care/schedule-view-va-appointments/appointments/index.html| 1,101,552 |
-| /search/index.html?t=false| 1,090,455 |
-| /disability/view-disability-rating/rating/| 1,065,743 |
-| /records/download-va-letters/letters/confirm-address/| 1,057,765 |
-| /health-care/schedule-view-va-appointments/index.html| 998,488 |
-| /profile/personal-information/| 952,434 |
-| /index.html?postlogin=true| 900,090 |
+|/index.html|16,661,926|
+|(other)|11,970,259|
+|/track-claims/your-claims/|8,685,840|
+|/my-va/index.html?postlogin=true|6,068,473|
+|/claim-or-appeal-status/index.html|5,577,023|
+|/index.html?next=loginmodal|5,505,422|
+|/auth/login/callback?type=idme|4,198,740|
+|/track-claims/index.html|3,385,883|
+|/my-va/index.html|3,176,046|
+|/sign-in/index.html?application=mhv&to=home|2,713,405|
+|/auth/login/callback?type=dslogon|2,253,593|
+|/auth/login/callback?type=custom|2,243,557|
+|/va-payment-history/payments/index.html|2,168,826|
+|/auth/login/callback?type=mhv|2,147,191|
+|/disability/view-disability-rating/rating/|1,870,908|
+|/search/index.html?t=false|1,698,189|
+|/claim-or-appeal-status/index.html?postlogin=true|1,638,418|
+|/sign-in/index.html?application=mhv&to=home&oauth=false|1,619,939|
+|/logout/index.html|1,606,793|
+|/disability/file-disability-claim-form-21-526ez/introduction/|1,580,934|
+|/va-payment-history/index.html|1,526,520|
+|/auth/login/callback?type=logingov|1,423,376|
+|/facilities/index.html?XXX|1,267,167|
+|/profile/personal-information/|1,254,993|
+|/records/download-va-letters/index.html|1,233,578|
+
 
 
 
 ### What are the 25 most popular pages visited while signed out?
+- [Top pages for users signed out](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&_.useg=userbsqza7fOTvy36H-XeVcmLA&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/), Dec 3, 2022-Mar 5, 2023
 - Confidence level: high
-- [Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/)
 
 The homepage tops this list, which also includes many pages related to:
 - Finding a VA facility
@@ -286,39 +285,41 @@ The homepage tops this list, which also includes many pages related to:
 
 |Page | Pageviews |
 | -----------  | -----------  | 
-|/index.html| 5,879,328 |
-| /facilities/index.html?XXX| 3,725,724 |
-| /sign-in/index.html?application=mhv&to=home| 2,555,284 |
-| /covid19screen/| 1,637,924 |
-| /search/index.html?t=false| 1,168,507 |
-| /disability/compensation-rates/veteran-rates/index.html| 793,081 |
-| /covid19screen/index.html| 722,923 |
-| /find-forms/index.html| 676,059 |
-| /index.html?next=loginmodal| 654,458 |
-| /find-locations/index.html| 637,711 |
-| /find-locations/| 458,722 |
-| /contact-us/index.html| 448,956 |
-| /claim-or-appeal-status/index.html| 433,071 |
-| /records/get-military-service-records/index.html| 372,310 |
-| /search/index.html?t=true| 364,527 |
-| /search/index.html| 324,837 |
-| /health-care/schedule-view-va-appointments/index.html| 304,278 |
-| /track-claims/your-claims/| 278,642 |
-| /education/gi-bill-comparison-tool/index.html| 276,018 |
-| /education/gi-bill-comparison-tool/index.html?search=location| 246,995 |
-| /education/how-to-apply/index.html| 238,175 |
-| /education/gi-bill-comparison-tool/index.html?search=name&excludedschooltypes[]=public&excludedschooltypes[]=for profit&excludedschooltypes[]=private&excludedschooltypes[]=foreign&excludedschooltypes[]=flight&excludedschooltypes[]=correspondence&excludedschooltypes[]=high school| 233,036 |
-| /education/gi-bill-comparison-tool/index.html?search=name&excludedschooltypes[]=public&excludedschooltypes[]=for profit&excludedschooltypes[]=private&excludedschooltypes[]=foreign&excludedschooltypes[]=flight&excludedschooltypes[]=correspondence| 229,895 |
-| /disability/file-disability-claim-form-21-526ez/introduction/| 221,686 |
-| /records/download-va-letters/index.html| 199,346 |
+|/index.html| 4,836,821|
+|/facilities/index.html?XXX| 3,956,450|
+|(other)| 3,802,647|
+|/sign-in/index.html?application=mhv&to=home| 2,328,844|
+|/resources/the-pact-act-and-your-va-benefits/index.html| 2,258,025|
+|/disability/compensation-rates/veteran-rates/index.html| 1,781,716|
+|/sign-in/index.html?application=mhv&to=home&oauth=false| 1,499,395|
+|/search/index.html?t=false| 1,352,567|
+|/find-forms/index.html| 751,692|
+|/find-locations/index.html| 747,577|
+|/index.html?next=loginmodal| 679,652|
+|/sign-in/index.html?application=vaoccmobile&redirect_uri=/rxr/| 677,503|
+|/health-care/appointment-pre-check-in/index.html| 630,369|
+|/contact-us/index.html| 611,639|
+|/health-care/appointment-pre-check-in/verify/| 568,517|
+|/sign-in/index.html?application=vaoccmobile&redirect_uri=/rxr/&oauth=false| 529,303|
+|/health-care/appointment-pre-check-in/introduction/| 521,614|
+|/education/gi-bill-comparison-tool/index.html?search=name&excludedschooltypes[]=public&excludedschooltypes[]=for profit&excludedschooltypes[]=private&excludedschooltypes[]=foreign&excludedschooltypes[]=flight&excludedschooltypes[]=correspondence&excludedschooltypes[]=high school| 486,105|
+|/find-locations/| 479,288|
+|/claim-or-appeal-status/index.html| 414,348|
+|/records/get-military-service-records/index.html| 404,127|
+|/family-member-benefits/index.html| 380,724|
+|/disability/index.html| 374,089|
+|/disability/file-disability-claim-form-21-526ez/introduction/| 370,908|
+|/health-care/appointment-pre-check-in/complete/| 363,603|
+
 
 
 
 ### What are the average number of pages visited on the site in a session?
+- [Audience overview by session LOA](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q,userBgZiUrK9Sieg7jBAnx44OQ/), Feb 1, 2022-Feb 1, 2023
 - Confidence level: High
-- [Report](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q,userBgZiUrK9Sieg7jBAnx44OQ/)
-* Logged in: 13.33
-* Logged out: 2.63
+
+* **Logged in:** 13.33
+* **Logged out:** 2.63
 - Logged-in users have much longer session durations than logged out: 13:37 compared to 2:39. 
 
 ### What are the most popular logged in tasks?
@@ -343,8 +344,8 @@ GA doesn’t offer a straightforward way to track this. It may be possible to ha
 We picked the most popular page for each of the 5 tasks listed above, and looked at the navigation summary for each one: 
 
 #### Checking the status of a claim
-`/track-claims/your-claim`
-[Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&explorer-table.plotKeys=%5B%5D&_.useg=user8twPUpCZT8qMEc9RwdXoUg&_r.drilldown=analytics.pagePath:~2Ftrack-claims~2Fyour-claims~2F&_r.tabId=navigationsummary/)
+- **URL**: `/track-claims/your-claim`
+- [Your claim navigation summary for authenticated users](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&explorer-table.plotKeys=%5B%5D&_.useg=user8twPUpCZT8qMEc9RwdXoUg&_r.drilldown=analytics.pagePath:~2Ftrack-claims~2Fyour-claims~2F&_r.tabId=navigationsummary/), Dec 3, 2022-Mar 5, 2023
 
 |Previous Page | Pageviews |
 | -----------  | -----------  | 
@@ -362,8 +363,8 @@ We picked the most popular page for each of the 5 tasks listed above, and looked
 
 
 #### View payments
-`/va-payment-history/payments/index.html`
-[Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&_.useg=user8twPUpCZT8qMEc9RwdXoUg&_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Fva-payment-history~2Fpayments~2Findex.html&explorer-table.plotKeys=%5B%5D/)
+- **URL**: `/va-payment-history/payments/index.html`
+- [View Payment History navigation summary](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&_.useg=user8twPUpCZT8qMEc9RwdXoUg&_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Fva-payment-history~2Fpayments~2Findex.html&explorer-table.plotKeys=%5B%5D/),  Dec 3, 2022-Mar 5, 2023
 
 |Previous Page | Pageviews |
 | -----------  | -----------  | 
@@ -380,8 +381,8 @@ We picked the most popular page for each of the 5 tasks listed above, and looked
 
 
 #### Filing a disability claim
-`/disability/file-disability-claim-form-21-526ez/introduction/`
-[Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&_.useg=user8twPUpCZT8qMEc9RwdXoUg&_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Fdisability~2Ffile-disability-claim-form-21-526ez~2Fintroduction~2F&explorer-table.plotKeys=%5B%5D/)
+- **URL:** `/disability/file-disability-claim-form-21-526ez/introduction/`
+- [File disability claim navigation summary for authenticated users](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&_.useg=user8twPUpCZT8qMEc9RwdXoUg&_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Fdisability~2Ffile-disability-claim-form-21-526ez~2Fintroduction~2F&explorer-table.plotKeys=%5B%5D/), Dec 3, 2022-Mar 5, 2023
 
 |Previous Page | Pageviews |
 | -----------  | -----------  | 
@@ -398,8 +399,8 @@ We picked the most popular page for each of the 5 tasks listed above, and looked
 
 
 #### Downloading letters
-`/records/download-va-letters/index.html`
-[Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&_.useg=user8twPUpCZT8qMEc9RwdXoUg&_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Frecords~2Fdownload-va-letters~2Findex.html&explorer-table.plotKeys=%5B%5D/)
+- **URL:** `/records/download-va-letters/index.html`
+- [Download VA letters navigation summary for authenticated users](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&_.useg=user8twPUpCZT8qMEc9RwdXoUg&_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Frecords~2Fdownload-va-letters~2Findex.html&explorer-table.plotKeys=%5B%5D/), Dec 3, 2022-Mar 5, 2023
 
 |Previous Page | Pageviews |
 | -----------  | -----------  | 
@@ -416,8 +417,8 @@ We picked the most popular page for each of the 5 tasks listed above, and looked
 
 
 #### Scheduling appointments
-`/health-care/schedule-view-va-appointments/index.html`
-[Report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&_.useg=user8twPUpCZT8qMEc9RwdXoUg&_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Fhealth-care~2Fschedule-view-va-appointments~2Findex.html&explorer-table.plotKeys=%5B%5D/)
+- **URL:** `/health-care/schedule-view-va-appointments/index.html`
+- [Schedule and view appointments navigation summary for authenticated users](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20221203&_u.date01=20230305&_.useg=user8twPUpCZT8qMEc9RwdXoUg&_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Fhealth-care~2Fschedule-view-va-appointments~2Findex.html&explorer-table.plotKeys=%5B%5D/), Dec 3, 2022-Mar 5, 2023
 
 |Previous Page | Pageviews |
 | -----------  | -----------  | 
@@ -442,7 +443,9 @@ We looked at GA and a DOMO search kpi report to evaluate top search terms. There
 
 The analytics team will dig into the discrepancy. For now, we have two flavors of the same report:
 
-**Domo Search KPI dashboard report** ([link](https://va-gov.domo.com/page/1964748112/kpis/details/552188912))
+#### DOMO Search terms for Feb 1, 2022 - Feb 1, 2023
+ - (Review dashboard at this [link](https://va-gov.domo.com/page/1964748112/kpis/details/552188912) and add date range after page loads)
+
 |Search terms|  Searches|
 | -----------  | -----------  |
 |travel pay|    82,869|
@@ -471,7 +474,9 @@ The analytics team will dig into the discrepancy. For now, we have two flavors o
 |travel claim|  |27,193|
 |21-686c|   26,796|
 
-**GA Search Terms report** ([link](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=builtin1&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/))
+#### GA Search Terms
+- ([Search terms report](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&_.useg=builtin1&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/)), Feb 1, 2022-Feb 1, 2023
+
 |Search terms|  Searches|
 | -----------  | -----------  |
 |health|    3,063,494|
@@ -502,7 +507,7 @@ The analytics team will dig into the discrepancy. For now, we have two flavors o
 
 
 ### How often is search used? 
-- [Report](https://analytics.google.com/analytics/web/#/report/content-site-search-overview/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201/)
+- [Site search overview](https://analytics.google.com/analytics/web/#/report/content-site-search-overview/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201/), Feb 1, 2022-Feb 1, 2023
 - Confidence level: moderate
 
 These metrics were tricky to figure out.  The [Domo dashboard](https://va-gov.domo.com/page/1964748112) the analytics team sent me doesn’t clearly answer this question, so I went to GA and looked at the Site Search report.
@@ -511,7 +516,7 @@ GA reports that 7.1% of visits included the use of site search.
 
 
 ### How often are people clicking best bets for search?
-- [Report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-segmentExplorer.segmentId=analytics.eventAction&_r.drilldown=analytics.eventCategory:Interactions&explorer-table.plotKeys=%5B%5D&explorer-table.filter=recommended/)
+- [Search events report](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20220201&_u.date01=20230201&explorer-segmentExplorer.segmentId=analytics.eventAction&_r.drilldown=analytics.eventCategory:Interactions&explorer-table.plotKeys=%5B%5D&explorer-table.filter=recommended/), Feb 1, 2022-Feb 1, 2023
 - Confidence level: low
 
 GA has an event to track clicks on best bets (called Recommended Results in the report), and the report shows 2,093,021 total events for the time period. 
