@@ -1,7 +1,6 @@
-
 ---
 name: VA.gov Authentication Feature Request Template
-about: "For feature requests. Please search for existing issues first."
+about: For feature requests. Please search for existing issues first.
 title: VA.gov Authentication Feature Request Template
 labels: identity, identity-feature-request
 
