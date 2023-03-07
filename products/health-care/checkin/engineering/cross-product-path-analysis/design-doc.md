@@ -34,12 +34,27 @@ Provide a data storage & analysis service for tracing Veteran journeys across di
 
 This document is intended to facilitate review & approval of the project solution by VA technical staff & stakeholders & provide clear implementation guidance to project engineers.
 
-### Background
-
-
-
 ### High Level Design
 
+#### Diagram
+
+```mermaid
+graph LR;
+classDef opsrch fill:#003B5C,stroke:#333,stroke-width:4px,color:#fff;
+classDef ddog fill:#632CA6,stroke:#333,stroke-width:4px,color:#fff;
+classDef vega fill:#652c90,stroke:#333,stroke-width:4px,color:#fff;
+classDef lam fill:#dc6c11,stroke:#333,stroke-width:4px,color:#fff;
+classDef api fill:#8450e1,stroke:#333,stroke-width:4px,color:#fff;
+classDef vse fill:#003F72,stroke:#333,stroke-width:4px,color:#fff;
+
+A01(VEText Datadog):::ddog --> B01[(OpenSearch)]:::opsrch
+A02(Tevi Datadog):::ddog --> B01[(OpenSearch)]:::opsrch
+A03(VaGov Datadog):::ddog --> B01[(OpenSearch)]:::opsrch
+B01 --> C01[Kibana + Vega Visualizations]:::vega
+B01 -.OpenSearch SQL.-> D01(Lambda):::lam
+D01 --> E01(API Gateway):::api
+E01 --> F01[VSE-CS]:::vse
+```
 
 ## Specifics
 
