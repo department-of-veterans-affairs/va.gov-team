@@ -56,7 +56,7 @@ Before we start, a few things I want to mention:
 
 
 
-## Warm-up Questions - 7 minutes
+## Warm-up Questions - 5 minutes
 Before we look at the website, let’s start with a few warm-up questions.
 
 
@@ -153,8 +153,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
+- [Does the participant understand the primary caregiver role for the application?]
+- [Does the participant call out any content or questions as confusing or unclear?]
 - [Etc]
 
 
@@ -162,9 +162,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - What does a secondary caregiver mean to you?
 - How do you think that differs in the application and benefits process to a primary caregiver?
+- For this scenario, complete the questions as you would if you were applying as a secondary caregiver too. 
 
 
-- Step 2
 
 ### Things to watch for:
 
@@ -195,15 +195,17 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Seventh Task: [Review] - 5 minutes
 
-- Step 1
-- Step 2
+- Look over this page and tell me about your impressions or expectations?
+- If you see an error, can you show me how you would go about correcting that?
+- Complete this application.
+
 
 ### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
+- [Does the participant have a positive or negative sentiment about the review page?]
+- [Does the participant give any reason for pause or why they wouldn's submit the application?]
+- [Does the participant interact with any of the accordions or try and edit any information?]
+- [Does the participant mention or pause at how the facility selection is represented on this page?
+- [How does the participant interact or talk about the various signature fields?]
 
 ### Observer rating of task completion
 [Observer ratings of start application task completion using rating criteria]
@@ -214,21 +216,18 @@ Before we look at the website, let’s start with a few warm-up questions.
 - 4 = All parts of the task were completed with no difficulty
 
 
-## Eighth Task: [Confrimation Page] - X minutes
+## Eighth Task: [Confrimation Page] - 5 minutes
 
-- Describe to me in your own words what this page is telling you happened and what comes next in this process
+- Describe to me in your own words what this page is telling you happened and what comes next in this process.
 - 
 
 ### Things to watch for:
 
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
-- [Etc]
 
 
-
-
-## Post-Task Interview - X minutes
+## Post-Task Interview - 5 minutes
 
 - Was there anything that stood out to you?
 - Did you feel the most confident in answering the questions with no additional clarification needed?
