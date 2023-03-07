@@ -1,23 +1,38 @@
-# Research Plan for [1010 Team, Caregiver Application (10-10CG) Baseline Study, March 2023]
+# Research Plan for [1010 Team, Caregiver Application (10-10CG) Facilities and Overall Usability Study, April 2023]
 
 ## Background
-This research is to be conducted on the application for Family Caregiver Benefits (10-10CG) by the 1010 team. This is an existing application and the goal of this study is to get a baseline understanding of the overall usability of the key tasks. 
-
+This research is to be conducted on the application for Family Caregiver Benefits (10-10CG) by the 1010 team. This is an existing application and the goal of this study is to get a baseline understanding of the overall usability of the key tasks as well as test the updated facilities question and selection feature. 
 
 - [Caregivers Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
 
 - [Past research insights](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/eK1L73z)
 
+- [Facilities Initiative Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Improve%20Facility%20Selection%20-%20Initiative%20Brief.md)
+
+### Facilities Overview
+During previous usability studies on this form (research findings: February 2021, April 2021) we have found the VA medical facility selection page caused many users confusion. A few trends include:
+
+- Users are confused why the facility they are familiar with isn't listed. (The current dropdown list only includes facilities with a Caregiver support staff and not all possible facilities.)
+- Users are uncertain which facility to specify (Eg. Primary care, therapist, oncologist, most recent, etc.)
+- Users that live on state borders potentially would have to select a different state from where they live in order to find their preferred facility (located in another state).
+
+Additional technical and user experience concerns include:
+- The team wants to update and use an upcoming release of the facility API to manage the list of all community and VA locations and include search by zip code and city in additon to state.
+- By including both community and VA health care facilities in the search list, this could potentialy add confusion to the process around where a Caregiver Support Coordinator is located.
+- The question content needs to be in plain language as well as make the process clear as to how this answer will impact the caregiver and/or Veteran during their application process.
 
 ### OCTO Objectives 
 
 Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) this research supports are:
 
-Increase
+**Goals**
+- Veterans and their families can apply for all benefits online
+
+**Increase**
 - Completion rate of online transactions
 - Usage of digital, self-service tools
 
-Decrease
+**Decrease**
 - Time to successful complete and submit online transactions
 
 
