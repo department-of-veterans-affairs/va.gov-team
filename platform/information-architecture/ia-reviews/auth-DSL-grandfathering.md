@@ -28,7 +28,7 @@ Latest at this mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/d
 
 
 **1) Link Account Info Page - New**
-- URL:  TBD pending content, but an idea is (va.gov/account-transition)
+- URL:  TBD pending content, but an idea is (va.gov/account-transition). It would be ideal if this page could be reused for the MHV transition too.
 - Breadcrumb: none needed
 - Notes: Becaused we don't want this page discoverable by search enginers, we also need to tag the page as 'no index', and make sure it doesn't go into the xml sitemap. Your engineers should know what this means, but let us know if you have any Qs. 
 
@@ -42,7 +42,6 @@ Latest at this mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/d
 
 1.  TBD, but probably not --> we might need to add something to the SSO page as the Sept 30th deadline approaches, but that is not getting figured out before midpoint.
 
- 
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
