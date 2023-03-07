@@ -1,18 +1,12 @@
 # Research Plan for Benefits Team 1: Initial Decision CST Research
 
+![Artboard](https://user-images.githubusercontent.com/95102058/223499048-193a8848-d8ac-4b22-8a42-9fed6a8c4a81.png)
+
 ## Background
 
 In [past research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/research-findings.md), we have found that Veterans are not fully satisfied with the claim status tool. In particular, we have heard that it doesn't provide enough detail and that Veterans often feel in the dark while waiting for updates about their claims. 
 
-In this research, we want to dig into this pain point more and find out what exactly about CST could be improved for Veterans while their claim is in review. 
-
-There are a couple key areas of the experience we are specifically curious about, based on what we've heard in past research: 
-
-- We want to understand what information Veterans specifically want to know to stay informed as their claim goes through the initial decision process.
-
-- We want to understand the experience Veterans have with requests to provide additional evidence. We want to find opportunities to help veterans provide better evidence in support of their, earlier in the process.
-
-- We want to understand the experience Veterans have with requests for C&P exams. We want to find opportunities to set the right expectation for Veterans going to C&P exams.
+**This research will be a co-design session** where we review the production version of CST with veterans who currently have claims in progress, highlighting pain points and brainstorming possible design changes to improve the overall experience. 
 
 ### OCTO Objectives 
 
@@ -29,11 +23,19 @@ This work touches on various aspects of the Veteran Journey. These findings will
 ## Research Goals	
 With this research, we want to speak to Veterans who are currently waiting for decisions on disability compensation claims they filed on VA.gov. We want to understand what's working and what's not working about the CST experience while they are waiting for this claim. 
 
+There are a couple key areas we are specifically curious about:
+
+- We want to understand what information Veterans specifically want to know to stay informed as their claim goes through the initial decision process.
+
+- We want to understand the experience Veterans have with requests to provide additional evidence. We want to find opportunities to help veterans provide better evidence in support of their, earlier in the process.
+
+- We want to understand the experience Veterans have with requests for C&P exams. We want to find opportunities to set the right expectation for Veterans going to C&P exams.
+
 ### Outcome
 Hopefully by the end of this study we will have a better idea of: 
-- What is missing from the CST experience for Veterans who are awaiting claim decisions. 
+- What is confusing about the CST experience for Veterans who are awaiting claim decisions. 
 - What is working well in CST for these Veterans. 
-- How the various user states affect the UI and its strengths/weaknesses. 
+- What are the top features or product improvements that might make CST more helpful for veterans awaiting claim decisions. 
 
 ### Research questions
 Part 1: Warm up
