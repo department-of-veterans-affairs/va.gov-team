@@ -3,8 +3,12 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 
 | Sprint |Priorities  |Points Planned| Points Accomplished|
 |--|--|--|--|
-| 91 (Jan 10- Jan 24) |[#51820](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/51820) |37 points over 13 issues| TBD points over TBD issues|
-| 90 (Dec 28-Jan 10) |[#51352](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/51352) |15 points over 4 issues| 12 points over 3 issues|
+| 94 (Mar 1-14) |[#54582](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/54582)  |59| TBD|
+| 93 (Feb 15-28) |[#53853](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/53853)  |55| 30|
+| 92 (Feb 1-14) |[#52963](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/52963) |59| 49|
+| 91 (Jan 10- Jan 24) *3wks:this sprint only |[#51820](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/51820) |37| 31|
+| 90 (Dec 28-Jan 10) |[#51352](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/51352) |15| 12|
+|Contract Change: PTEMS > Agile6| --| --|--|
 | 89 (Dec 14-27)  |[#50887](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/50887)  |12 points over 2 issues| 12 points over 2 issues|
 | 88 (Nov 30- Dec 13)  |[#50195](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/50195)  |39 points over 12 issues| 37 points over 10 issues|
 | 87 (Nov 16-29) |[#49791](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/49791) |52 points over 16 issues| 43 points over 12 issues|
