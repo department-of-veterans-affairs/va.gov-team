@@ -2,34 +2,30 @@
 
 Since I likely won't be here for a good portion of this work, I wanted to get some background/thoughts down so the team can execute while I'm out.
 
-## What we already know
+## Step 1: Review Tressa's action items discovery
 
 [Tressa conducted some "action items" discovery back in 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery). We should review this and see what we already know.
 
-[Tressa also did usability testing on a potential pattern for the notification center](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md). We don't necessarily have to follow this design or the proposed patterns exactly, but we may be able to leverage aspects of this.
+[Tressa also did usability testing on a potential pattern for the notification center](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md). We don't necessarily have to follow this design or the proposed patterns exactly, but we may be able to leverage aspects of this, or insights from this effort.
 
-## Outstanding questions
+## Step 2: Determine what outstanding questions we have from Tressa's work
 
-### [List of outstanding questions from the scaling onsite notifications initiative outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications#notification-center)
+Are there **high level** questions that we should explore that Tressa's research didn't fully answer? Or things we want to expand on. To be clear, **these should not be super detailed design questions**. These should be high-level product questions. We should not be doing any usability testing as part of this effort.
 
-Review this list. Some of these questions might have been answered in Tressa's research; some can likely be answered through new research; some may be just be product things we need to think through.
+Additionally, here are [some questions I noted in the scaling onsite notifications initiative outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications#notification-center). You should review this list to be aware of it. Some of these questions might have been answered in Tressa's research; some might need to be answered through new research; some may be just be product things we need to think through.
 
-### Should we add a notification center?
+If there are still questions we need to answer, determine how we should answer those, and incorporate those next steps into planning.
 
-This is probably the question that's hardest to answer, and I'm not 100% sure how we go about answering it.
+## Step 3: Stakeholder research
 
-I think there's enough evidence to continue scaling onsite notifications in general -- [we've heard repeatedly from years of research that the first thing people want to see when logging in to VA.gov are any necessary action items](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery#overview). However, whether we add a notification center or how exactly we implement getting action items in front of people is still up for debate (ie. product and design thinking). There is might be room for research around this, but what I can say for sure is that **the way to get at this answer is NOT by usability testing a prototype like Tressa did**. That can answer design specifics, but doesn't get at the larger product questions. I'm not sure how to tackle this right now, but it's something that's top of mind.
+Currently, this is where I have the most questions. While obviously we put user needs and insights first, we can't ignore that notifications support all of VA.gov, and that means they support all of the teams that work on VA.gov. While I'm out, I'd like the team to talk to other OCTO stakeholders about their needs and expectations around user-centric notifications on VA.gov.
 
-### Stakeholder research
-
-Currently, this is where I have the most questions. While obviously we put user needs and insights first, we can't ignore that notifications support all of VA.gov, and that means they support all of the teams that work on VA.gov. While I'm out, I'd like the team to talk to other OCTO stakeholder about their needs and expectations around user-centric notifications on VA.gov.
-
-#### People to talk to 
+### People to talk to 
 
 Pending availability and willingness. I would only book 30 minutes with folks since everyone is super busy.
 
-1. Chris Johnston - Portfolio lead; Currently helping out with the mobile app
-2. Lauren Alexanderson - Health lead
+1. Chris Johnston - Portfolio lead; Currently helping out with the mobile app (**Note**: Julia Badillo manages Chris's calendar)
+2. Lauren Alexanderson - Health lead (**Note**: Alicia Proctor manages Lauren's calendar)
 3. Dave Conlon - Sitewide lead
 4. Matt Self - Benefits lead
 5. Mikki Northuis - IA/Nav lead
@@ -37,7 +33,7 @@ Pending availability and willingness. I would only book 30 minutes with folks si
 7. Martha Wilkes - Accessibility lead
 8. Ryan Thurlwell - Design lead
 
-#### Questions
+### Questions
 
 All of these are basic starter questions and could probably have a lot of follow-up, so I'd be prepared to have opener question and then see where each conversation goes.
 
@@ -46,10 +42,31 @@ All of these are basic starter questions and could probably have a lot of follow
 3. Where do they expect notifications to be accessible from on VA.gov?
 4. To gauge, but maybe not ask outright -- what is their level of comfort with some type of notification functionality showing in the navigation?
 
-### Next steps
+### Process
 
-1. Thoroughly review Tressa's research.
-2. Determine if there are **high-level** outstanding questions we still have, or anything we want to update from Tressa's research, and then how we'd go about getting those answers.
-3. Start stakeholder interview planning.
-4. Schedule/hold/summarize stakeholder interviews.
-5. Determine where we go from here.
+The process might be a little different since you're not needing to recruit users through Perigean. I think a research plan/convo guide would still be helpful, but you can otherwise reach out to people directly to set up a 30 minute call.
+
+With regards to the research report, you can probably still put together something similar to what you'd do for user research, but you obviously don't need to include the user stats like you usually would.
+
+TL;DR -- feel free to update this process accordingly since you are talking to stakeholders and not users. I trust that whatever amendments you want to make are the right ones.
+
+## Step 4: Determine next steps
+
+Based on your review of Tressa's work and the stakeholder interviews, determine appropropriate next steps. Is that another type of research? Is that some design thinking (again, please do not get too lost in minor details)? Is that putting together a rough plan to review with me when I'm back? I trust you all to determine this.
+
+### A note on implementation: To notification center, or not notification center?
+
+This is the question that's the most important thing to answer, and also hardest to answer.
+
+I think there's enough evidence to continue scaling onsite notifications in general -- [we've heard repeatedly from years of research that the first thing people want to see when logging in to VA.gov are any necessary action items](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery#overview). So from a product perspective, I think we are smart to continue pursuing this work if we think about it more from the mindset of getting important action items/updates in front of people and less in terms of design specifics.
+
+However, at some point, we do need to start thinking about exactly how this works from a design perspective. What I want, at this point, is to avoid thinking of specific methods of implementation, because we still don't know that a notification center is the exact right approach. Case in point, off the top of my head, these are things we could do:
+
+1. Add a notification center that's a separate page
+2. Change My VA into a "newsfeed"
+3. Add a notification indicator to the nav for My VA, and show notifications on My VA similar to how we do now (show a few, then likely link off to a new page)
+4. Have a drawer of notifications that pop out on My VA
+
+...and there are likely other things we could do from a design perspective, but not all of them are necessarily having My VA and a notification center. That very well may be what we do, but we just aren't settled on that yet.
+
+I say all of this to drive home this point -- while we may have outstanding questions we want to get answers to, **the way to get answers is NOT by usability testing a prototype like Tressa did**. We're just not there yet.
