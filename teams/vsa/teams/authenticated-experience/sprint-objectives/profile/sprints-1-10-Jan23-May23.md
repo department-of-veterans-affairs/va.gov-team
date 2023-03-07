@@ -231,7 +231,7 @@ Sprint 5 epic [#53602](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
 
 - Add feature flag for MHV notification preferences #53616
 - START: Build editing page for profile #53545
-  - Should this be broken into smaller tickets? Or pushed entirely back a sprint or two? 
+  - ~Should this be broken into smaller tickets? Or pushed entirely back a sprint or two?~ Done 
 
 ### Logged-in IA/nav research
 
