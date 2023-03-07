@@ -188,6 +188,8 @@ What if your income was $100,000? *(RECORD)*
 
 - *RECORD: any comments about deductions*
 
+- *RECORD: any comments about wanting to see questions answered (zip code, # dependents)*
+
 
 ### Task 6: [What next]
 Please stay on this screen. What do you think about this information and your question of eligibility for VA health care?
@@ -204,7 +206,7 @@ How did this tool help or not help you decide what to do?
 Now you want to check whether you entered your location correctly. How could you do that? 
 - *(RECORD: back to review screen / zip code entry screen / ________________)*
 
-### Task 8: [Change year].
+### Task 8: [Change year]
 Suppose that you’re in the process of appealing a health care claim from 2021, and you want to see the income limits from that year. What could you do?
 - *(RECORD: click on "past income limits" / _________________________________)*
 
