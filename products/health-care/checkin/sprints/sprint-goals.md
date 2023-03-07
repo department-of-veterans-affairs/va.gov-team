@@ -25,12 +25,14 @@ ________________________________________________________________________________
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
       - Address Collab Cycle feedback
-         - [[Other - Accessibility] aria-label text string should begin with visible text.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54483)
-         - [[Content organization] Content organization and/or information within the user flow doesn't properly support all users. (02.07.1)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54482)
-         - [[Components and pattern standards] Design components or patterns don't align with Design System guidelines. (04.07.1)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54481)
+         - [[FE] [Other - Accessibility] aria-label text string should begin with visible text.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54483)
+         - [[FE] [Content organization] Content organization and/or information within the user flow doesn't properly support all users. (02.07.1)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54482)
+         - [[FE] [Components and pattern standards] Design components or patterns don't align with Design System guidelines. (04.07.1)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54481)
       - Prepare for & Release to production
          - [[FE] Add GA event on check in now primary button click](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54608)
+         - [[FE] Add events for phone number on details pages and update event for details page link click](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54720)
          - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51693)
+         - Submit a 508 audit request (for after release)
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
       - Address un-handled scenarios    
@@ -40,8 +42,6 @@ ________________________________________________________________________________
          - [[TEXT SOLUTION] [BE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
             - Front end team can investigate VeText endpoint and get started on the sequence diagram         
       - Prepare for Release
-         - [[Design] Migrate unified experience wireframes to 375 width](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54581)
-         - [[Design] Add in travel reimbursement into check in wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54572)
          - [[UX] Update TestRail Test Cases to Include the Texting Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54346)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
    - **Sub Goal: [Send to Check-in when Pre-Check-in link is accessed inside check-in window](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)**
@@ -58,16 +58,24 @@ ________________________________________________________________________________
       - We need to find out where this work is on the VeText roadmap
       - Should we work on the text content?
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
-      - [[UX] [Research] Create research plan for moderated research study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)
-      - [[UX] Create prototypes for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)
-      - New tickets TBD
+      - [[Design] Create wireframes for app with appointments list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52486)
+      - [[FE] Setup codepen templates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54556)
+      - [[Design] Migrate unified experience wireframes to 375 width](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54581)
+      - [[Design] Add in travel reimbursement into check in wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54572)
       - [[FE] SPIKE - How might we setup the VA design system in codepen](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54264)
+      - Create sitewide/IA ticket & set up meeting
+      - Submit midpoint review ticket
+      - Complete research review section of collab cycle ticket
+      - OPTIONAL, START THESE TIME PERMITTING
+         - [[UX] Create prototypes for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)
+         - [[UX] [Research] Create research plan for moderated research study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)         
    - **Sub Goal: Analyze current metrics to see what they tell us**
       - [Research] Analyze GA Metrics
       - [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54282)
    - **Sub Goal: Create Cross-Product Veteran Path Analysis**
       - No work this sprint; we will present MVP proposal to Stephen & decide next steps
 - **GOAL: Address tech debt** 
+   - [[FE] Issue with accordion on pre check in confirmation page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54719)
    - [[FE] Remove enable/disable flags for check-in and pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53702)
    - [[BE] Remove enable/disable flags for check-in and pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53712)
    - **_Optional Tech Debt (these items are not in the current sprint but can be pulled in)_**
