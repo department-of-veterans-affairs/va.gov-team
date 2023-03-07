@@ -20,6 +20,12 @@
 
 Latest at this mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1676397151510/f4cf4f4187a3d0fd5f2d6d56c9bd2ba3a4376e7a?sender=ua67f17f1c416a96ea04d2476
 
+![User voluntarily starts account transfer process online](https://user-images.githubusercontent.com/122126772/223573083-96df6adc-3d3c-4953-89aa-467e0c63d985.png)
+
+![User interrupted during online task to do optional account transfer](https://user-images.githubusercontent.com/122126772/223573085-425087a4-69ed-4025-8c61-ff5d0a11d845.png)
+
+
+
 ## <a name="url"></a>Page structure
 - any new pages for this flow will be under the Root, and will not be indexable by search engines (at least for this grandfathering flow)
 
