@@ -36,6 +36,10 @@ This document is intended to facilitate review & approval of the project solutio
 
 ### High Level Design
 
+#### Narrative
+
+In a nutshell, the proposed solution is to [forward logs](https://www.datadoghq.com/blog/route-logs-with-datadog-log-forwarding/) from Datadog instances to [OpenSearch](https://opensearch.org) hosted on AWS GovCloud. Once ingested, the data can be rewritten from event-centric log events to entity-centric data using [index transforms](https://opensearch.org/docs/latest/im-plugin/index-transforms/index/). This will facilitate searching and visualizations of various interactions, both Veteran-based and transaction-based. Finally, these data may be queried by external systems such as VSE-CS with a relatively light-weight middleware hosted on AWS lambda and fronted with API Gateway.
+
 #### Diagram
 
 ```mermaid
