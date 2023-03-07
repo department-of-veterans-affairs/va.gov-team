@@ -63,11 +63,34 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information (whether the Veteran has used MyHealtheVet before; whether the Veteran uses VA healthcare) in an encrypted Google Sheet that will be stored on the Ad Hoc Google Drive. 
 
 ## Recruitment criteria
-Describe but also use ticket
+
+**All participants:**
+- Have a VA.gov account and be able to sign on during the session. 
+- Provide an email address associated with their VA.gov account
+
+**Some participants:**
+- Must require screenreader software to use computers and mobile devices (recruit 12 participants total)
+- Must be willing to join from a mobile device (recruit 12 in total)
+- Must currently receive VA healthcare benefits (recruit 12 in total)
+- Must be over the age of 55 (recruit 8 participants in total)
+- Must identify as other than Caucasian (recruit 6 in total)
+- Must identify as a gender other than male (recruit 6 in total)
 
 ### Screener questions
 
+1. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? (_Proceed to question 1a if yes; if no, recruit 12 if meet other criteria_)
 
+1a. Are you able to join the Zoom session using this assistive technology? (_Answer should be yes to satisfy criteria for screen reader_)
+
+1b. Please list the name of the assistive technology or software you will use during the session.
+
+2. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
+	- Yes *(go on to additional Screener question 3)*
+	- No *(recruit 12)*
+
+3. *(If yes to Screener question 2)* Have you signed into the My HealtheVet website at least once (this could be at a VA clinic, hospital, or VA community care provider) in the last 12 months?
+	- Yes *(recruit 12)*
+	- No *(disqualify)*
 
 ## Timeline
 
@@ -75,7 +98,7 @@ Describe but also use ticket
 - Pilot #1:  
 
 ### Research sessions
-* Planned dates of research: **dates**
+* Planned dates of research: **March 22 - March 31**
 
 ### Length of sessions
 * Session length: 1 hour
@@ -85,11 +108,11 @@ Describe but also use ticket
 
 Team Availability | Time Slots (ET)
 ------------------|--------------
-Oct 31, 2022 | 10-11 am; 3-4 pm; 4:30-5:30 pm; 6-7 pm
-Nov. 1, 2022 | 10-11 am; 11:30 am - 12:30 pm; 2-3 pm; 4:30-5:30 pm; 6-7 pm
-Nov. 2, 2022 | 10-11 am; 11:30 am - 12:30 pm; 1-2 pm; 3:30-4:30 pm; 5-6 pm
-Nov. 3, 2022 | 3-4 pm; 5:30-6:30 pm
-Nov. 4, 2022 | 10-11 am; 11:30 am - 12:30 pm; 1-2 pm; 2:30-3:30 pm; 4-5 pm; 5:30-6:30 pm 
+March 22, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 4-5 pm
+March 23, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 3:30-4:30 pm
+March 24, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2-3 pm; 4-5 pm
+March 27, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 3-4 pm; 4:30-5:30 pm
+March 28, 2023 |  
 Nov. 7, 2022 | 10-11 am; 11:30 am - 12:30 pm; 1-2 pm; 6-7 pm
 Nov. 8, 2022 | 10-11 am; 11:30 am - 12:30 pm; 2-3 pm; 3:30-4:30 pm; 5-6 pm
 Nov. 9, 2022 | 10-11 am; 11:30 am - 12:30 pm; 1-2 pm; 2:30-3:30 pm; 4-5 pm; 5:30-6:30 pm
