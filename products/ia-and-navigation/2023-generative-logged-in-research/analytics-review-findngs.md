@@ -1,22 +1,21 @@
 # VA.gov Logged in IA Analytics Review
-
-`DRAFT`
+3/6/2023
 
 ## Background
-## About this data
 We pulled Google Analytics (GA) data from February 1, 2022 - February 1, 2023*, to understand:
 * patterns and behaviors around logging in.
 * if there are differences in what people intend to do logged in vs. logged out.
 * what the numbers can tell us about how people navigate the site when logged in.
 
+## About this data
 We used the **WBC - VA.gov** view, which filters out data on My HealtheVet (MHV) and eBenefits. We focused on events and page views, sometimes with custom segments applied to separate out users who have LOA 1 or 3 present.
 
-**Note:** In many of these reports, we saw instances of `(other)`, `/auth/login/` and ` ?next=loginmodal` in the top URLs.  
+In many of these reports, we saw instances of `(other)`, `/auth/login/` and ` ?next=loginmodal` in the top URLs.  
 - The analytics team is digging into what `(other)` means; we’ll update this report when we learn more if it’s meaningful.
 - The `/auth/login` URL is part of the login redirects that occur. We removed this one from the reports since they’re not helpful in evaluating the IA of the site.
 - `?next=loginmodal` is a parameter added to a the URL to ensure the sign-in modal is displayed, and primarily appears if a user uses their browser back button to go back to VA.gov after engaging in the sign-in process. This helps ensure the user picks up where they left off when they were last on VA.gov.  Since we can’t be sure exactly *why* people are leaving and navigating back, we left this in the report.
 
-*GA limits the date range for segments where user data is included. For data related to people being logged in or logged out, we used the date range December 3, 2022-March 4 2023 
+*GA limits the date range for segments where user data is included. For data related to people being logged in or logged out, we used the date range December 3, 2022 - March 4 2023 
 
 ### Confidence rating
 Our experience level with analytics falls in the intermediate range. This means that the confidence in the numbers represented here varies depending on the complexity of the question.
@@ -325,12 +324,13 @@ The homepage tops this list, which also includes many pages related to:
 ### What are the most popular logged in tasks?
 - Confidence level: moderate
 
-We looked the popular signed-in pages, and pages people sign in on to arrive at this list. Since we focused our research on the VA.gov GA view (which excludes MHV), there aren’t a lot of health related pages in those reports. 
-	- Tracking/checking the status of claims
-	- Viewing payments
-	- Disability related tasks, such as viewing a rating or filing a claim
-	- Downloading letters
-	- Scheduling appointments
+We looked the popular signed-in pages, and pages people sign in on to arrive at the list below. Since we focused our research on the VA.gov GA view (which excludes MHV), there aren’t a lot of health related pages in those reports. 
+
+- Tracking/checking the status of claims
+- Viewing payments
+- Disability related tasks, such as viewing a rating or filing a claim
+- Downloading letters
+- Scheduling appointments
 
 	
 ### For the top ten most popular logged in tasks, how many clicks/page visits does it take for people to get to those pages?
