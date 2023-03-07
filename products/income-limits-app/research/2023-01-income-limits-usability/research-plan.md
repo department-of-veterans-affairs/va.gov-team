@@ -72,8 +72,9 @@ Learnings will help refine the design of the application.
 4. After seeing the summary page with information entered, Veterans will have confidence in the accuracy of the results page.
 5. Veterans understand the difference between the desired year for benefits and the year that they need to use for income (the previous year).
 6. SHOW THIS & TASK 6! Veterans understand that thresholds in the app are not final answers, and only by applying for VA health care can they learn what benefits they're eligible for.
-7. NEW! Veterans don't need to see their answers to the questions while looking at the results page; i.e., having answers only on the Review page before that is enough.
-8. NEW! The results page is an intuitive place for Veterans to seek information about historical income limits (instead of earlier in the interaction flow).
+7. NEW! Veterans don't need to see their answers to the questions while looking at the results page; i.e., having answers only on the Review page before that is enough. **ADD Q to RESULTS page task**
+8. NEW and SHOW TASK 8! The results page is an intuitive place for Veterans to seek information about historical income limits (instead of earlier in the interaction flow).
+9. NEW and SHOW TASK 3! The intro page communicates that income limits apply to only some Veterans.
 
 ## Method	
 We will conduct **usability testing** to guide Veterans through a click-through prototype. 
