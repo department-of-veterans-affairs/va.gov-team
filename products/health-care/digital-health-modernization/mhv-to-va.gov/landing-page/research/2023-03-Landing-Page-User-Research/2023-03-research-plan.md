@@ -40,15 +40,12 @@ This research will inform updates to the MHV on VA.gov landing page, currently i
 ### Hypotheses
 _Hypothesis 1:_ Participants will sign in and then go to the "My Health" tab next to "My VA" in order to get to the new MHV on VA.gov landing page. 
 
-_Hypthesis 2:_ 
-
-_Hypothesis 3:_  
-
-_Hypothesis 4:_ 
+_Hypthesis 2:_ Participants will understand the landing page as a central location to perform common health-related tasks, like sending a secure message, accessing their health records, managing their prescriptions, or booking a healthcare appointment. 
 
 ## Method
 
-### Method type (e.g., interviews). 
+### Interviews
+We will conduct remote interviews with Zoom. These interviews will include questions about users ability to navigate to and within the landing page, their reactions to and understandings of the landing page, and preferences and expectations related to health-specific preferences and notifications. The interviews will consist of a combination of tasks and direct questions. 
 
 
 ### Location
@@ -56,11 +53,14 @@ Data collection will be remote and conducted using Zoom.
 
 ### Research materials
 
+[Conversation guide](link)
 
 ## Recruitment
 
 ### Recruitment approach
-We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information (whether the Veteran has used MyHealtheVet before; whether the Veteran uses VA healthcare) in an encrypted Google Sheet that will be stored on the Ad Hoc Google Drive. 
+We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. At least half of our sample will be with interviewees who use screen readers. 
+
+We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information (whether the Veteran has used MyHealtheVet before; whether the Veteran uses VA healthcare) in an encrypted Google Sheet that will be stored on the Ad Hoc Google Drive. 
 
 ## Recruitment criteria
 Describe but also use ticket
@@ -72,8 +72,7 @@ Describe but also use ticket
 ## Timeline
 
 ### Prepare
-- Pilot #1: 
-- Pilot #2: 
+- Pilot #1:  
 
 ### Research sessions
 * Planned dates of research: **dates**
