@@ -163,7 +163,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 - For this scenario, complete the questions as you would if you were applying as a secondary caregiver too. 
 
 
-
 ### Things to watch for:
 - [Does the participant understand the secondary caregiver role for the application?]
 - [Does the participant mention that they would have two secondary cargeviers?]
@@ -172,22 +171,14 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Sixth Task: [Representative Documents] - 5 minutes
 
-- Step 1
-- Step 2
+- Can you explain what this page is asking and what it means to you?
+- How would you answer this question and what would you expect to happen next?
+- [If selected continue to upload page, instruct to go back and answer The Veteran]
 
 ### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-### Observer rating of task completion
-[Observer ratings of start application task completion using rating criteria]
-- 0 = No part of the task completed, much difficulty
-- 1 = Partial completion, much overlooked or task was difficult
-- 2 = Partial completion, some areas were overlooked or task was slightly difficult
-- 3 = Most of the task was completed with little difficulty
-- 4 = All parts of the task were completed with no difficulty
+- [Does the participant interact with the additional information component about document types?]
+- [Does the particpant seem confused or express that anything on this page is unclear?]
+- [Does the participant proceed to the upload page or initially answer the Veteran would sign?]
 
 
 ## Seventh Task: [Review] - 5 minutes
@@ -216,11 +207,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Eighth Task: [Confrimation Page] - 5 minutes
 
 - Describe to me in your own words what this page is telling you happened and what comes next in this process.
-- 
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
+- [Does the participant understand meaning of the confirmataion page?]
 - [Does the participant notice xyz?]
 
 
@@ -233,7 +223,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 5 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
