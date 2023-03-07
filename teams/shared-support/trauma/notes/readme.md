@@ -1,3 +1,8 @@
+## [February 27, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-02-27.md)
+`Big Meeting` `Research Shareout` `MST`
+- Karen Cutright shared her research process as a social worker on a challenging topic around MST
+- We learned how to set boundaries with stakeholders and create better outcomes of transparency and trust with participants
+
 ## [January 23, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-01-23.md)
 `Big Meeting` `Strategy` 
 
