@@ -4,7 +4,8 @@
 QA was performed manually by team members to the best of our ability based on limited resources and access to/knowledge of testing tools. 
 * [Test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md) (Github)
 * [Test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit-a11y.md) (Github - A11y format)
-* [My VA Audit UX Improvements test cases.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/10885735/My.VA.Audit.UX.Improvements.test.cases.xlsx) (record of QA execution and findings)
+* ([My VA Audit UX Improvements test cases.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/10913514/My.VA.Audit.UX.Improvements.test.cases.xlsx)
+(record of QA execution and findings)
 
 
 ## Defect report
