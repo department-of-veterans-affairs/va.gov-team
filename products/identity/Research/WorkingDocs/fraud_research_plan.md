@@ -3,9 +3,9 @@
 
 ## Background
 Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+- The office of Fraud, Waste and Abuse occasionally reaches out to the identity team to assist with obtaining logs for logins that have been flagged as fraudelent (mostly dealing with direct deposit change requests).  
+- In order to help minimize the instances by which bad actors can gain access to sensitive functions like bank account changes, it is proposed that step up authentication may help.
+- At this time, it is unclear if veterans are familiar with step up authentication for sensitive actions.
 
 [Link to product brief](url goes here).
 
