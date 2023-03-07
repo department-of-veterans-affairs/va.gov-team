@@ -76,9 +76,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 
-For this study we are going to look at 3 different options for a question on the form and want your feedback on what option is the easiet for you to answer and understand the process with confidence.
-
-
 ## First Task - 10 minutes
 
 - You are completing the application for caregiver benefits and after you answer general background questions on the Veteran (like name and address) you arrive at this page. Please explain your thoughts and think-aloud as you complete the questions on this page.
