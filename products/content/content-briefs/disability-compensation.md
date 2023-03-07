@@ -1,6 +1,6 @@
-# VA content brief for VA payments, debts, and copay bills
+# VA content brief for VA disability compensation
 
-Created by the sitewide content and IA team for teams working on products related to VA payments, debts, and copay bills.
+Created by the sitewide content and IA team for teams working on products related to VA disability compensation.
 
 **Have questions or feedback on this brief or want to add something?**
 - Send us a slack in #sitewide-content-ia.
@@ -9,7 +9,7 @@ Created by the sitewide content and IA team for teams working on products relate
 
 - [Overview](#overview)
 - [Related terminology](#related-terminology)
-- [Content considerations specific to payments and debts](#content-considerations-specific-to-payments-and-debts)
+- [Content considerations specific to payments and debts](#content-considerations-specific-to-disability compensation)
 - [Organic SEO and VA.gov search](#organic-seo-and-va.gov-search)
 - [Content-specific research findings](#content-specific-research-findings)
 - [Content pages related to this topic](#content-pages-related-to-this-topic)
