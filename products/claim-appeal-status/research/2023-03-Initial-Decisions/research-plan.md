@@ -47,7 +47,7 @@ Part 1: Warm up
 
 Part 2: Login in to VA.gov
 - [Navigating to CST] Tell me what you see here.
-- What do you think is the status of this claim?
+- What do you think is the status of your claim?
 - On a scale of 1-5, how clear would you say the status of this claim is?  
 - Is there any action that you think you need to take here? What makes you think that?
 - Do you have a clear sense of what other actions will be required from you as this claim goes through the review process? Why or why not?
