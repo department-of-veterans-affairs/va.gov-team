@@ -8,7 +8,7 @@
 **Date range:** Jan. 01, 2022 – Dec. 31, 2022<br>
 **Feedback Submissions:** 945<br>
 **URLs represented:** va.gov/find-forms and all sub-pages<br>
-**Task Completion Percent:** 11.8%<br>
+**Task Completion Percent:** 10.94%<br>
 _Task completion is calculated from the question “Were you able to complete your task today?” from the Medallia feedback form._
 
 
