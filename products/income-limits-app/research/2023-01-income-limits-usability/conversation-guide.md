@@ -141,6 +141,10 @@ Could you try to use this to find out if you're eligible for VA health care with
 Let's talk before you click anywhere...What are your impressions of this page?
 What do you think you can do here?
 
+Do you think this tool would be useful for you or not? Why? 
+
+If not, who would it be useful for?
+
 *click "Get started"*
 - *(RECORD all comments*)
 
@@ -166,19 +170,24 @@ How is your income involved here?
 
 - *RECORD: Understand that it's your previous year's income that's relevant? yes / no*
 
-If your income last year was $40,000, what would that mean for your eligibility for VA health care? *(RECORD)*
+What do you think about this information and your question of eligibility for VA health care?
+
+- *RECORD what they say: definitive answer / only part of the answer / need to apply to know for sure / _____________*
+
+If your income last year was $40,000, what might that mean for your eligibility for VA health care? *(RECORD)*
 
 Can you tell me what benefits you might get? 
 - *PROBE on meaning of "Free VA health care for most types of care"*
 - *PROBE on meaning of "copays"*
 
-If your income last year was $25,000, what would that mean? *(RECORD)*
+If your income last year was $25,000, what might that mean? *(RECORD)*
 
 What if your income was $100,000? *(RECORD)*
 
 - *RECORD: any comments about benefits (in bullets)*
 
 - *RECORD: any comments about deductions*
+
 
 ### Task 6: [What next]
 Please stay on this screen. What do you think about this information and your question of eligibility for VA health care?
