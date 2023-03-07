@@ -56,7 +56,7 @@ Based on your review of Tressa's work and the stakeholder interviews, determine 
 
 ### A note on implementation: To notification center, or not notification center?
 
-I think there's enough evidence to continue scaling onsite notifications in general -- [we've heard repeatedly from years of research that the first thing people want to see when logging in to VA.gov are any necessary action items](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery#overview). So from a product perspective, I think we are smart to continue pursuing this work if we think about it more from the mindset of getting important action items/updates in front of people and less in terms of design specifics.
+I think there's enough evidence to continue scaling onsite notifications in general -- [we've heard repeatedly from years of research that the first thing people want to see when logging in to VA.gov are any necessary action items](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery#overview). So from a product perspective, I think we are smart to continue pursuing this work.
 
 However, at some point, we do need to start thinking about exactly how this works from a design perspective. What I want, at this point, is to avoid thinking of specific methods of implementation, because we still don't know that a notification center is the exact right approach. Case in point, off the top of my head, these are things we could do:
 
