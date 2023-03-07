@@ -23,7 +23,7 @@
 |**Refill in Process**|A refill request is being processed by the VA pharmacy.|When a prescription is in the Refill in Process status, the Fill Date will show when the prescription will be ready for delivery via mail by a VA Mail Order Pharmacy. This term may be shown as a VA Prescription status of 'Active: Susp' on other VA medication lists.||
 |**Submitted**|The refill request has been received by My HealtheVet but has not been processed by the VA Pharmacy yet.||
 |**Refillable**| Prescription is eligible for refill| - In our case (MHV) would be when a checkbox is shown<br> - In the case for mobile if a prescription is refillable the Veteran would have the option to select Refill Request on the Prescription details screen or Request Refill Modal screen|
-|**Not Refillable**| Prescription is NOT eligible for refill||
+|**Not Refillable**| Prescription is NOT eligible for refill| - If a prescription is not eligible for refill the request refill action button will not appear or the prescription will not show on the list of eligible prescriptions avail for refill (mobile)|
 
 
 ### Questions:
