@@ -199,7 +199,7 @@ This all depends on Florence having Github access.
 - Research synthesis #51889
 
 ## Sprint 5 (3/1 - 3/14)
-
+Sprint 5 epic [#53602](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/53602)
 **~Berni -- I have stopped creating sprint epics, so you'll need to create one for sprint 5 and sprints going forward~** << Done, thanks - BX!
 
 ### General
@@ -243,7 +243,7 @@ This all depends on Florence having Github access.
 - Complete research plan $54092
 
 ## Sprint 6 (3/15 - 3/28)
-
+Sprint 6 Epic [#54553](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/54553)
 ### Accessibility
 
 **FE - Adam**
@@ -289,7 +289,7 @@ This all depends on Florence having Github access.
 - Recruiting
 
 ## Sprint 7 (3/29 - 4/11)
-
+Sprint 7 Epic [#54733](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/54733)
 ### Onboarding
 
 This is dependent on hiring:
