@@ -88,9 +88,9 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions** using the criteria below, which are also in this [recruitment intake ticket](URL TBD). 
 
 ### Required criteria 
-- NONE have VA health care
-- NONE receive VA disability compensation for a service-connected disability rating of 50% or higher
-- At least 7 people do NOT receive a pension from the VA
+- ALL do NOT have VA health care
+- ALL do NOT get VA disability compensation for a service-connected disability rating of 50% or higher
+- ALL do NOT get a pension from the VA
 - ALL have a smartphone to use it for the session and...
   - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen
   - Willing to share over Zoom a web browser window on their smartphone
@@ -109,15 +109,15 @@ Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions**
      1. Yes *(disqualify)*
      1. I don't know *(disqualify)*
 
-1. Do you receive VA disability compensation for a service-connected disability rating of 50% or higher? 
+1. Do you get VA disability compensation for a service-connected disability rating of 50% or higher? 
      1. No  *(ask next screening question)*
      1. Yes *(disqualify)*
      1. I don't know *(disqualify)*
 
-1. Do you receive a pension from the VA? *(RECORD)*
-     1. No  *(RECRUIT at least 7)*
-     1. Yes *(RECRUIT 3 if possible)*
-     1. I don't know 
+1. Do you get a pension from the VA? *(RECORD)*
+     1. No  *(RECRUIT 10)*
+     1. Yes *(disqualify)*
+     1. I don't know *(disqualify)*
 
 1. What time zone are you located in? *(RECORD)*
 
@@ -131,12 +131,12 @@ Before recruitment starts, I would like to **request a kickoff call with Perigea
 
 **Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so I can review it beforehand.
 
-I will schedule two **pilot tests** during March 20-23.
-- Pilot 1: **Mar TBD at X pm ET** with person (email address)
-- Pilot 2: **Mar TBD at X pm ET** with person (email address)
+I will schedule two **pilot tests** during March 13-14.
+- Pilot 1: **Mar 13 at X pm ET** with person (email address)
+- Pilot 2: **Mar 14 at X pm ET** with person (email address)
 
 ### Research sessions
-* Planned dates of research: **April 3-7, 2023** 
+* Planned dates of research: **April 5-12, 2023** 
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from a screener question).
 
@@ -146,15 +146,16 @@ We would like to request that **Perigean calls each participant** to remind them
 * Maximum sessions per day: 3
 
 ### Availability
-For slots marked "backup", please schedule ONLY if all other slots don't work.
 
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
-April 3, 2023 | 12-1, 2-3, 5-6, 7-8 pm (backup--all day)
-April 4, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
-April 5, 2023 | 12-1 (backup), 2-3, 5-6, 7-8 pm 
-April 6, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+April 5, 2023 | 2-3, 5-6 pm
+April 6, 2023 | 12-1, 2-3, 5-6 pm 
 April 7, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+April 10, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+April 11, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+April 12, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
