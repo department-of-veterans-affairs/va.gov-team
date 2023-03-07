@@ -83,11 +83,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: [Introduction page] - 5 minutes
 
-- For this session today, we are going to walk through the scenario that you are applying for caregiver benefits.
+- For this session today, we are going to walk through the scenario that you are applying for caregiver benefits. 
 - Review this page and tell me about your impressions and expectations before applying.
 
 ### Participant ratings:
-- On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this first page make you feel about the application you are about to begin? Why did you give it that rating?
+- On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this first page make you feel about the application you are about to begin and informed about the process? Why did you give it that rating?
 
 ### Observer rating of task completion
 [Observer ratings of start application task completion using rating criteria]
@@ -110,7 +110,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - [Veteran] Complete these first questions about yourself.
 - [Caregiver] Complete these first questions as if you were answering for the Veteran you are caring for.  
-- You can use fake information for sensitive items such as your social or birthdate. 
+- Feel free to use fake information for sensitive items such as your social or birthdate that you don't want to share. 
 
 ### Things to watch for:
 - [Does the participant need additional clarification to complete any of the questions?]
@@ -146,16 +146,14 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Fourth Task: [Primary Caregiver] - 5 minutes
 
 - [Veteran] For this scenario, you are applying with a primary caregiver. Can you please complete the questions on this page. 
-- [Veteran] In completing this application in real life, how would you coordinate getting this information from your caregiver? Would you complete together? 
+- [Veteran] In completing this application in real life, how would you coordinate getting this information from your caregiver? Would you complete this application together? 
 
 - [Caregiver] In this scenario, you are the primary caregiver applying for benefits. Can you please complete the questions asked and think aloud about your thought process. 
 
 
 ### Things to watch for:
-
 - [Does the participant understand the primary caregiver role for the application?]
 - [Does the participant call out any content or questions as confusing or unclear?]
-- [Etc]
 
 
 ## Fifth Task: [Secondary Caregivers] - 5 minutes
@@ -167,10 +165,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 ### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Does the participant understand the secondary caregiver role for the application?]
+- [Does the participant mention that they would have two secondary cargeviers?]
+- [Does the participant call out any content or questions as confusing or unclear?]
 
 
 ## Sixth Task: [Representative Documents] - 5 minutes
