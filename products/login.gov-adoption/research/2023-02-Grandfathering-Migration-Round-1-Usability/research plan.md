@@ -117,6 +117,8 @@ We will use Perigean to recruit Veterans for this moderated study, aiming for ma
 
 We've submitted a [Recruitment Request: 2023-02-Grandfathering-Migration-Round-1-Usability #233](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/233).
 
+We have also written a document with [Extra Information for Perigean](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability/for%20perigean.md).
+
 ### Recruitment criteria
 
 We need to recruit 15 Veterans for this study in order to achieve 10 completed sessions.
@@ -171,7 +173,7 @@ In addition to demographic and device questions, we’ve provided the following 
 
 ### Pilot session
 
-* Pilot participant email: [Need to update with details]
+* Pilot participant email: [Need to find a pilot participant]
 * Date and time of pilot session: March 6-10 [Need to update with details]
 
 ### Research sessions
@@ -184,7 +186,9 @@ In addition to demographic and device questions, we’ve provided the following 
 
 #### Availability
 
-We’re providing the following time slots (30 total) with the aim to book 15 sessions:
+We’re providing the following time slots (30 total) with the aim to book 15 sessions.
+
+Note: The moderator assigned to each session is subject to change, please refer to Tyler Gindraux (tyler@bluetiger.digital) as moderator on all sessions and she will assign Carolyn to sessions where applicable.
 
 |Slot|Date|Time (EST)|Moderator|Notetaker|Observers|
 |:--|:--|:--|:--|:--|:--|
