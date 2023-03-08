@@ -818,18 +818,16 @@ If we need more information, we'll contact you to tell you what other informatio
 
 When we've completed your review, we'll mail you a decision packet with the details of our decision. [Learn more about what happens after you request a review](https://www.va.gov/decision-reviews/after-you-request-review/)
 
-**Note:** You can choose to have a hearing at any point in the claims process. Contact us online through Ask VA to request a hearing.
-[Contact us through Ask VA]
+If you requested a decision review and haven’t heard back from us yet, please don’t request another review. Call us instead.
 
-You can also call us at 1-800-827-1000 (TTY:711).
+**Note:** You can choose to have a hearing at any point in the claims process. Contact us online through Ask VA to request a hearing. [Contact us through Ask VA](https://ask.va.gov)
 
-### What to do if you have questions now
-
-You can call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
-
-**Note:** If you requested a decision review and haven’t heard back from us yet, please don’t request another review. Call us instead.
+You can also call us at [1-800-827-1000]() (TTY:711).
 
 [Track the status of your claim](https://staging.va.gov/track-claims/your-claims)
+
+### Need help?
+If you need help with this form, call us at [1-800-827-1000]() (TTY:711). Then select 0. We’re here 24/7.
 
 ---
 
