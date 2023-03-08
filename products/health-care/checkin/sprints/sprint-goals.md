@@ -25,9 +25,9 @@ ________________________________________________________________________________
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
       - Address Collab Cycle feedback
-         - [[FE] [Other - Accessibility] aria-label text string should begin with visible text.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54483)
+         - [[FE][Design] [Other - Accessibility] aria-label text string should begin with visible text.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54483)
          - [[FE] [Content organization] Content organization and/or information within the user flow doesn't properly support all users. (02.07.1)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54482)
-         - [[FE] [Components and pattern standards] Design components or patterns don't align with Design System guidelines. (04.07.1)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54481)
+         - [[FE][Design] [Components and pattern standards] Design components or patterns don't align with Design System guidelines. (04.07.1)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54481)
       - Prepare for & Release to production
          - [[FE] Add GA event on check in now primary button click](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54608)
          - [[FE] Add events for phone number on details pages and update event for details page link click](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54720)
@@ -37,8 +37,9 @@ ________________________________________________________________________________
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
       - Address un-handled scenarios    
          - [[FE] Update UI for the "can't check you in scenarios"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54280)
-         - [[FE] Update UI to Prioritize Info Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54279)
+         - [[FE] Update UI to Prioritize Info Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54279)      
       - Implement text solution for BTSSS latency    
+         - [[TEXT SOLUTION] [Design] Create Content and Final Wireframes for Text Message Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53704)
          - [[TEXT SOLUTION] [FE][BE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
             - Front end team can investigate VeText endpoint and get started on the sequence diagram         
       - Prepare for Release
