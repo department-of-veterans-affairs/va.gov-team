@@ -144,45 +144,59 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-#### Veterans
+- All participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
+
+
+### Veterans
+- At least 3 people over the age of 55
+- At least 3 people with cognitive disability
+- At least 3 people who plan to use screen reader assistive technology for the session (see screener quetions)
+- At least 3 people who plan to use their mobile device for the session (see screener quetions)
 
 
 
+#### Screener questions
 
 **For recruiting 3 screen reader users**
 - (a) Do you need to use assistive technology to use the internet such as VoiceOver on an Apple device, TalkBack on an Android device, or JAWS on a computer? (Proceed to question b if yes, if no, disqualify)
 - (b) Are you able to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
 
-
-
-#### Caregivers / Family Members
-
-
-
-
-
-### Screener questions
-
-
-
-
-
-**For recuriting 4 mobile users**
-
+**For recuriting 3 mobile users**
 - Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. (Answer should be yes to satisfy criteria for 4 mobile users)
 
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+
+### Caregivers / Family Members
+- At least 4 female
+- At least 4 with a GED/High School or Some College
+- At least 4 people using a mobile device (see screener quetions)
+
+
+
+#### Screener questions
+
+**For recuriting 4 mobile users**
+- Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. (Answer should be yes to satisfy criteria for 4 mobile users)
+
 
 
 
 
 **Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+Participant pool should in diverse in:
+- Branch of service
+- Gender (35% or more women)
+- Disability rating of 50% or higher representative of applicant demographics
+- Education
+- Race
+- Geography
+- Density (rural)
+
+
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+
 
 ### Prepare
 We will be testing the existing approved application that is in staging mirroring production. 
@@ -193,7 +207,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 
 ### Research sessions
-* Planned dates of research: **April ## - ##, 2023**
+* Planned dates of research: **April 19 - May 2, 2023**
 
 
 ### Length of sessions
@@ -206,6 +220,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+
 
 Team Availability | Time (EST)
 ------------------|--------------
