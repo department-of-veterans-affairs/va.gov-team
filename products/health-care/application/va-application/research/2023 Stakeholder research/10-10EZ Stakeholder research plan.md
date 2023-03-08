@@ -36,6 +36,7 @@ This data we gather through this research will help our team:
 - What other scenarios, besides >50% disability rating, can allow a Veteran to skip the Household section (financials)?
 - How might we reduce the amount of information needed to determine eligibility and enroll a Veteran into health care? 
 - What is the bare minimum information needed for HEC processing?
+- How does information beyond the bare minimum help make decisions to determine eligibility? 
 
 ##### HEC stakeholders - Military information
 - How is the additional military information used when processing an application?
