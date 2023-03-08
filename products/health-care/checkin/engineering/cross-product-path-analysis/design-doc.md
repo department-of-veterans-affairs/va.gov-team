@@ -261,11 +261,6 @@ The generated visualization:
 
 ![Screenshot 2023-03-07 at 17 23 24](https://user-images.githubusercontent.com/101649/223586898-594a8650-30e1-4fdc-9bf6-3d8c5edb6dbb.png)
 
-
-### Caveats
-
-TBD
-
 ### Privacy Concerns
 
 No PHI needs to be stored to meet the design requirements, and very limited PII. The following mitigations are recommended to limit risk of PII/PHI disclosure:
@@ -314,3 +309,4 @@ No PHI needs to be stored to meet the design requirements, and very limited PII.
 | Date        | Revisions made | Author         |
 | ----------- | -------------- | -------------- |
 | Mar 7, 2023 | Initial Draft  | Adrian Rollett |
+| Mar 8, 2023 | Additions & revisions | Adrian Rollett |
