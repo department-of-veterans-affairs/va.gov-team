@@ -20,4 +20,5 @@ This folder contains informaton around the creation, testing, and evolution of t
 - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/content-placement-criteria/research-findings-r1.md)
 
 ## Roll-out and status
+- [V1 of placement criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/content-placement-criteria/content-placement-criteria-v1.md)
 - [Implementation plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/content-placement-criteria/research-implementation-plan.md)
