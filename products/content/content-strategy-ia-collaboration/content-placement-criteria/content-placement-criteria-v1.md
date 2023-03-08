@@ -14,8 +14,8 @@ Content should be evaluated at a granular level - in other words, content that h
 <br> 
 
 ## Criteria 1: Content must meet both of these requirements
-- Content speaks directly to Veterans, service members, or family members
-- **AND** Content directly supports a Veteran, service member, or family member in discovering, applying for, tracking, managing, or using a VA benefit or service
+- Content speaks directly to Veterans, service members, or family members, **AND** 
+- Content directly supports a Veteran, service member, or family member in discovering, applying for, tracking, managing, or using a VA benefit or service
 
 **Does the content meet both of the above criteria?**
 
@@ -28,10 +28,10 @@ Content should be evaluated at a granular level - in other words, content that h
 
 ## Criteria 2: Content must meet both of these requirements
 
-- A Veteran, service member, or family member must submit an application to receive the specific benefit that the content supports
-- **AND** the content provides an overview with basic, high-level information about one of these topics:
-  - What the person gets with the benefit (including current compensation rates), **or**
-  - Top-level benefit eligibility, **or**
+- A Veteran, service member, or family member must submit an application to receive the specific benefit that the content supports, **AND** 
+- The content provides an overview with basic, high-level information about one of these topics:
+  - What the person gets with the benefit (including current compensation rates), **OR**
+  - Top-level benefit eligibility, **OR**
   - Instructions on how to apply
 
 **Note:** At this time, benefit hubs also include landing pages for authenticated tools that help a Veteran, service member, or family member manage their VA health care, benefits, and personal information. If your content supports a tool directly tied to managing VA health care, benefits, or personal information, contact the VA.gov content team. 
@@ -53,10 +53,10 @@ Content should be evaluated at a granular level - in other words, content that h
 
 **Does the content meet both of the above requirements?**
 
-**No, the content does not meet both of the requirements**
-    - The content's primary home may be in Resources and Support. Continue to criteria 3.
+- **No, the content does not meet both of the requirements**
+ - The content's primary home may be in Resources and Support. Continue to criteria 3.
 
-**Yes, the content does meet both of the requirements** 
+- **Yes, the content does meet both of the requirements** 
 - The content's primary home should be in a VA.gov benefit hub. 
 
 
@@ -71,10 +71,11 @@ Content should be evaluated at a granular level - in other words, content that h
 
 **Does the content meet at least one of the above requirements?**
 
-**Yes, the content meets at least one of the above requirements
-- The content's primary home should be in Resources and Support
-**No, the content does not meet any of the above requirements** 
-- The content needs to be discussed with the VA.gov content team to determine where it should live.
+- **No, the content does not meet any of the above requirements** 
+  - The content needs to be discussed with the VA.gov content team to determine where it should live.
+- **Yes, the content meets at least one of the above requirements
+  - The content's primary home should be in Resources and Support
+
 
 
 
