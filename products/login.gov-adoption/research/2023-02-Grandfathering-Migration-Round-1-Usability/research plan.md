@@ -231,7 +231,7 @@ Please list the people who will be serving in each role.
 * Moderator: Tyler Gindraux, Carolyn Williams
 * Research guide writing and task development: Tyler Gindraux
 * Participant recruiting & screening: Perigean
-* Participant(s) for pilot test: [Asked Jesse James]
+* Participant(s) for pilot test:
 * Accessibility specialist:
 * Notetakers: Carl Dickerson (carl@themostudio.com), Sofia Kirkman (sofia@themostudio.com)
 * Observers: John Rahaghi (john.rahaghi@va.gov), Porta Antiporta (porta@themostudio.com), Jay Tanner (jtanner@pluribusdigital.com), Elizabeth Koch (elizabeth@bluetiger.digital), Anthony Levin-Decanini (anthony@themostudio.com), Steve Dickson (sdickson@greenthreadsllc.com), Ksenia Coulter (kcoulter@pluribusdigital.com), Melissa Miller (mmiller@pluribusdigital.com), Clayton Zook (clayton.zook@oddball.io), Amanda Porter (ajohnson@clarityinnovates.com), Charlye Tran (charlye@bluetiger.digital)
