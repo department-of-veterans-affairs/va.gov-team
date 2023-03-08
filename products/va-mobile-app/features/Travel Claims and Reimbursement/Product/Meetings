@@ -1,87 +1,10 @@
-1/31/23 Sprint 0 reviewed 
-  Details on data, user experience, mail / online, etc 
-  Pulled in research from Octo Path Analysis June 2022 and Check In Team Discovery with Travel Reimbursement which led to learnings such as 
-   Online TR claim process currently has no integration points for the Mobile or any team to use  
-      Submitting, viewing, status, associating to an appointment, seeing reimbursement payments, etc
-      Thus the mobile team can’t develop or plan to develop as there is nothing to work off of 
-  Check-In team since at least 2Q 2022 was preparing a Pre-Check In pilot that includes a single use case for TR they are calling Simple Claim 
-    Check In Team Discovery with Travel Reimbursement
-    Simple Claim = mileage reimbursement only for round trip using their own vehicle
-    They planned to used a proof of concept API to do the TR 
-      API only did simple claims but had 20 second response latency
-      Again proof of concept build, not productionalized 
-    Check-In Team performed research, collaboration and discussion with impacted teams
-    They have created and finalized an entire customer experience journey and UI for the pilot 
-    Pilot was only going to be for a couple VA locations as not all use check in
-  Chris said to work with Octo Mark Dewey for all things related to TR 
-  
-  
-2/6/23 intro meeting with Mark via Slack
-  Aware of the limitations and challenges with BTS3
-  Reconfirmed all that was seen in the Check In Team Discovery with Travel Reimbursement work 
-   Working to improvement TR experience but there is no access currently within the BTS3 walls - APIs are needed
-   POC API for Simple Claim but poor response time 20 seconds - API was never intended for production use, purely a proof of concept 
-  Pilot team reviewing if they want to test with 20 second latency 
-  Octo wants to build additional APIs - eligibility check, claim look up, expand simple claim submission, etc 
-    Said we could help influence this by sharing our top 3 use cases
-  Mark recommended our next steps are 2 asks; outside of this there isn’t anything to do 
-    Add an informational section to the mobile app regarding TR similar to what VA.gov 
-    Provide top 3 ideal use cases to what mobile would do with TR to help Mark in preparing future APIs for RT 
+3/8 Lead Discussion 
+
+Review last week's action items 
 
 
-2/8/23 - Lead Meeting w Lauren, Misty, Liv, Meko
-  Meko recommended this team, as they already had talks about TR during their Check In sprint 0 prep work prior to pulling out TR 
-  Reviewed Mark’s 2 asks but prioritized the 1st - add information to the app about TR like VA.gov 
-   Something we can control and do now, resolves some research findings 
-   Leads felt that an info page in the app is not ideal plus to link user to BTS3 site which is not mobile or accessibility friendly is a poor experience 
-  Created a Slack channel with this group to do async discussion and created a QA doc, per their request, for leads to fill out for future discussion
-  Leads felt more research was needed though there has been 2 associated with it in the past 1 year or at least interview mobile veteran users 
-  Asked for a walkthrough on the user experience - said we can revisit the sprint 0  
 
 
-2/10/23 - TR overview for Ad Hoc leads
-  Re-reviewed parts of the Sprint 0 - user experience flow, problems 
-  Created a QA doc for the leads to add to  
-  Leads are hesitant on the research that exists, mobile may need to do one 
-
-
-2/14/23 - Team of teams Update 
-  Pre-Check In Pilot with TR Simple Claim put on hold 
-
-
-2/14/23 - Sprint 0 
-  Chris asked for update & confirmed their pilot is on hold
-  Reiterated our dependency on APIs(that are not yet built or sustainable) to do TR other than an information page  
-  Chris also felt just adding an info page and connecting to a poor experience is not ideal 
-
-
-2/15/23 Slack message with Mark Dewey
-  Check In Team pivoting from pilot with some short term stress - no additional details, next steps, timing, etc provided - felt they were still figuring it out 
-  Recommend a biweekly async Slack check in until there is more momentum 
-  Still feels there is opportunity to influences what are in future API builds that would be used to incorporate into the mobile app 
-  Said the 3 use cases should be mid-high priority; not needed now but getting them in on the ground floor of the work is best - so not time table 
-
-
-2/15/23 Matt 1:1 - Follow-up on TR 
-  Adam offered to do a write up on status / updates 
-  Discussed what mobile team can do
-    Can we jump the line and get them over the finish line
-      Check-In team has at least 9 months of work on us with an existing pilot just waiting for the API to be usable 
-      They have a working pilot / experiment its just slow cause of the POC API 
-      API is needed - we cannot speed that up; we can influence future APIs with Mark’s ask of the 3 TR use cases in Mobile 
-    Governance play / strategy 
-      Talked about running as an experiment for a product / feature
-        That is what Check-In is doing 
-      Think about strategy on governance
-     Could use this as an example for the basic needs Mobile needs before proceed, if they do not have that what do we do
-  No info on how Check In team is moving forward in regards to the pilot halt
-
-2/28/23 Mark Slack 
-  Reached out for proof of concept API documentation, which he sent
-  Sent the documentations to Jayson to review 
-  Shared that high level use cases are fine. If its a crazy complex idea then maybe lo-fi comps may be needed. just wants enough details to show to team and say this is the stuff they are looking to do, lets peel it back
-  End of March for 3 use cases would work for Mark
-  They are targeting end of March to get the API working in order to restart the check in pilot
 
 3/1 Leads Discussion on Next Steps for 3 use cases 
 Meeting notes: 
@@ -104,3 +27,105 @@ Action Items:
   Review use case document along with what existing research says for priority of use cases - Liz/Lauren
   Have FE assigned to epic - Adam - done 
    Per Binny they should only be included when there are front in design / functionality, given this is not part of our current needs they will not be asked to attend the meetings 
+
+
+
+2/28/23 Mark Slack 
+  Reached out for proof of concept API documentation, which he sent
+  Sent the documentations to Jayson to review 
+  Shared that high level use cases are fine. If its a crazy complex idea then maybe lo-fi comps may be needed. just wants enough details to show to team and say this is the stuff they are looking to do, lets peel it back
+  End of March for 3 use cases would work for Mark
+  They are targeting end of March to get the API working in order to restart the check in pilot
+
+
+
+2/15/23 Matt 1:1 - Follow-up on TR 
+  Adam offered to do a write up on status / updates 
+  Discussed what mobile team can do
+    Can we jump the line and get them over the finish line
+      Check-In team has at least 9 months of work on us with an existing pilot just waiting for the API to be usable 
+      They have a working pilot / experiment its just slow cause of the POC API 
+      API is needed - we cannot speed that up; we can influence future APIs with Mark’s ask of the 3 TR use cases in Mobile 
+    Governance play / strategy 
+      Talked about running as an experiment for a product / feature
+        That is what Check-In is doing 
+      Think about strategy on governance
+     Could use this as an example for the basic needs Mobile needs before proceed, if they do not have that what do we do
+  No info on how Check In team is moving forward in regards to the pilot halt
+
+
+
+2/15/23 Slack message with Mark Dewey
+  Check In Team pivoting from pilot with some short term stress - no additional details, next steps, timing, etc provided - felt they were still figuring it out 
+  Recommend a biweekly async Slack check in until there is more momentum 
+  Still feels there is opportunity to influences what are in future API builds that would be used to incorporate into the mobile app 
+  Said the 3 use cases should be mid-high priority; not needed now but getting them in on the ground floor of the work is best - so not time table 
+
+
+
+2/14/23 - Sprint 0 
+  Chris asked for update & confirmed their pilot is on hold
+  Reiterated our dependency on APIs(that are not yet built or sustainable) to do TR other than an information page  
+  Chris also felt just adding an info page and connecting to a poor experience is not ideal 
+
+
+
+2/14/23 - Team of teams Update 
+  Pre-Check In Pilot with TR Simple Claim put on hold 
+
+
+
+2/10/23 - TR overview for Ad Hoc leads
+  Re-reviewed parts of the Sprint 0 - user experience flow, problems 
+  Created a QA doc for the leads to add to  
+  Leads are hesitant on the research that exists, mobile may need to do one 
+
+
+
+2/8/23 - Lead Meeting w Lauren, Misty, Liv, Meko
+  Meko recommended this team, as they already had talks about TR during their Check In sprint 0 prep work prior to pulling out TR 
+  Reviewed Mark’s 2 asks but prioritized the 1st - add information to the app about TR like VA.gov 
+   Something we can control and do now, resolves some research findings 
+   Leads felt that an info page in the app is not ideal plus to link user to BTS3 site which is not mobile or accessibility friendly is a poor experience 
+  Created a Slack channel with this group to do async discussion and created a QA doc, per their request, for leads to fill out for future discussion
+  Leads felt more research was needed though there has been 2 associated with it in the past 1 year or at least interview mobile veteran users 
+  Asked for a walkthrough on the user experience - said we can revisit the sprint 0  
+
+
+
+2/6/23 intro meeting with Mark via Slack
+  Aware of the limitations and challenges with BTS3
+  Reconfirmed all that was seen in the Check In Team Discovery with Travel Reimbursement work 
+   Working to improvement TR experience but there is no access currently within the BTS3 walls - APIs are needed
+   POC API for Simple Claim but poor response time 20 seconds - API was never intended for production use, purely a proof of concept 
+  Pilot team reviewing if they want to test with 20 second latency 
+  Octo wants to build additional APIs - eligibility check, claim look up, expand simple claim submission, etc 
+    Said we could help influence this by sharing our top 3 use cases
+  Mark recommended our next steps are 2 asks; outside of this there isn’t anything to do 
+    Add an informational section to the mobile app regarding TR similar to what VA.gov 
+    Provide top 3 ideal use cases to what mobile would do with TR to help Mark in preparing future APIs for RT 
+
+
+
+1/31/23 Sprint 0 reviewed 
+  Details on data, user experience, mail / online, etc 
+  Pulled in research from Octo Path Analysis June 2022 and Check In Team Discovery with Travel Reimbursement which led to learnings such as 
+   Online TR claim process currently has no integration points for the Mobile or any team to use  
+      Submitting, viewing, status, associating to an appointment, seeing reimbursement payments, etc
+      Thus the mobile team can’t develop or plan to develop as there is nothing to work off of 
+  Check-In team since at least 2Q 2022 was preparing a Pre-Check In pilot that includes a single use case for TR they are calling Simple Claim 
+    Check In Team Discovery with Travel Reimbursement
+    Simple Claim = mileage reimbursement only for round trip using their own vehicle
+    They planned to used a proof of concept API to do the TR 
+      API only did simple claims but had 20 second response latency
+      Again proof of concept build, not productionalized 
+    Check-In Team performed research, collaboration and discussion with impacted teams
+    They have created and finalized an entire customer experience journey and UI for the pilot 
+    Pilot was only going to be for a couple VA locations as not all use check in
+  Chris said to work with Octo Mark Dewey for all things related to TR 
+  
+  
+
+
+
+
