@@ -277,11 +277,20 @@ If you don’t see your issue or decision listed here, it may not be in our syst
 ## Step 2 of 4: Issues for review
 We'll save your application every time you add or update information.
 
-**Add an issue**
+### Add an issue
 
-You can only add an issue that you’ve received a VA decision notice for. (*Required)
+If you're filing a Supplemental Claim within 1 year of receiving a decision from 1 of these courts, provide the date listed on your decision notice and upload a copy of your decision notice as evidence:
+- The United States Court of Appeals for Veterans Claims
+- The United States Court of Appeals for the Federal Circuit
+- The Supreme Court of the United States
 
-Enter the date on your decision notice (the letter you received in the mail from us).
+Name of issue (*Required)
+
+You can only add an issue that you’ve received a VA decision notice for.
+
+Date of decision (*Required)
+
+Enter the date on your decision notice (the letter you received in the mail from us.)
 
 **_BACK_**
 
