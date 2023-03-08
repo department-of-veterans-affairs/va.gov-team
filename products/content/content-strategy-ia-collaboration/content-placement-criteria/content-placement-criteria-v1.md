@@ -1,6 +1,7 @@
 # Content placement criteria V1
 
 The content placement criteria is used to determine if content belongs in the Veteran benefit content experience. 
+At this time, the options for placement within the Veteran benefit experience include the Veteran benefit hubs (i.e. www.va.gov/health-care) or Resources and support (www.va.gov/resources/).
 
 Content should be evaluated at a granular level - in other words, content that has multiple pieces to it should be broken down and evaluated by each piece of content on its own.
 
@@ -12,25 +13,20 @@ Content should be evaluated at a granular level - in other words, content that h
 
 <br> 
 
-## Criteria for determining if the content belongs in the Veteran benefit experience
-
-### Criteria 1: Content must meet both of these requirements
+## Criteria 1: Content must meet both of these requirements
 - Content speaks directly to Veterans, service members, or family members
 - **AND** Content directly supports a Veteran, service member, or family member in discovering, applying for, tracking, managing, or using a VA benefit or service
 
 **Does the content meet both of the above criteria?**
 
 - **No, the content does not meet both requirements**
-  - The content doesn't belong in the Veteran benefit experience. Your content may belong somewhere else within the VA content ecosystem. [Go to Content outside the Veteran benefit experience](#content-outside-the-Veteran-benefit-experience) for more information about next steps.
+  - The content doesn't belong in the Veteran benefit experience. 
 
 - **Yes, the content meets both requirements** 
-  - The content belongs in the Veteran benefit experience. [Go to Criteria for determining placement in the Veteran benefit experience](criteria-for-determining-placement-in-the-veteran-benefit-experience) to use this additional content criteria question to determine if your content's primary home should be a VA.gov benefit hub or the VA.gov Resources and Support section.
+  - The content belongs in the Veteran benefit experience. Continue to criteria 2.
 
-<br> 
 
-## Criteria for determining where the content belongs in the Veteran benefit experience
-
-### Criteria 2: Content must meet both of these requirements
+## Criteria 2: Content must meet both of these requirements
 
 - A Veteran, service member, or family member must submit an application to receive the specific benefit that the content supports
 - **AND** the content provides an overview with basic, high-level information about one of these topics:
@@ -64,29 +60,21 @@ Content should be evaluated at a granular level - in other words, content that h
 - The content's primary home should be in a VA.gov benefit hub. 
 
 
-### Criteria 3: Content must at least one of these requirements
+## Criteria 3: Content must at least one of these requirements
 
-- Provides supplemental eligibility, evidence information, or application instructions for a benefit, **or**
-- Explains ways to use a VA benefit,**or**
-- Provides more information about a specific program, service, or sub-benefit that a person can use after they apply for a VA benefit, **or**
-- Provides a brief overview and link to more information about a Veteran benefit from another government agency (like DoD), **or**
-- Provides support for signing into and using VA.gov, **or**
+- Provides supplemental eligibility, evidence information, or application instructions for a benefit, **OR**
+- Explains ways to use a VA benefit,**OR**
+- Provides more information about a specific program, service, or sub-benefit that a person can use after they apply for a VA benefit, **OR**
+- Provides a brief overview and link to more information about a Veteran benefit from another government agency (like DoD), **OR**
+- Provides support for signing into and using VA.gov, **OR**
 - Answers a question that Veterans, service members, or family members have about VA benefits and services (based on contact center reports, search data, and user feedback)
 
 **Does the content meet at least one of the above requirements?**
 
-- **If yes,** your content's primary home should be in Resources and Support. Move to **Step 2** in this process.
-- **If no,** contact the VA.gov content team to discuss more about where your content should live.
+**Yes, the content meets at least one of the above requirements
+- The content's primary home should be in Resources and Support
+**No, the content does not meet any of the above requirements** 
+- The content needs to be discussed with the VA.gov content team to determine where it should live.
 
-------
 
-## Content outside the Veteran benefit experience
-
-Choose the audience and type for your content to get more information about next steps.
-
-### Health condition content for Veterans or family members 
-
-Examples:
-- Patient education information on a health condition, such as high blood pressure.
-- A tool to help Veterans manage their sleep
 
