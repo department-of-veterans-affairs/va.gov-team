@@ -173,8 +173,9 @@ In addition to demographic and device questions, we’ve provided the following 
 
 ### Pilot session
 
-* Pilot participant email: [Asked Jesse James]
-* Date and time of pilot session: March 20-21 [Need to update with details]
+* Pilot participant name: Jesse James
+* Pilot participant email: jesse.james@themostudio.com
+* Date and time of pilot session: March 20-21 (Still confirming a time)
 
 ### Research sessions
 
@@ -231,10 +232,10 @@ Please list the people who will be serving in each role.
 * Moderator: Tyler Gindraux, Carolyn Williams
 * Research guide writing and task development: Tyler Gindraux
 * Participant recruiting & screening: Perigean
-* Participant(s) for pilot test:
+* Participant(s) for pilot test: Jesse James
 * Accessibility specialist:
 * Notetakers: Carl Dickerson (carl@themostudio.com), Sofia Kirkman (sofia@themostudio.com)
-* Observers: John Rahaghi (john.rahaghi@va.gov), Porta Antiporta (porta@themostudio.com), Jay Tanner (jtanner@pluribusdigital.com), Elizabeth Koch (elizabeth@bluetiger.digital), Anthony Levin-Decanini (anthony@themostudio.com), Steve Dickson (sdickson@greenthreadsllc.com), Ksenia Coulter (kcoulter@pluribusdigital.com), Melissa Miller (mmiller@pluribusdigital.com), Clayton Zook (clayton.zook@oddball.io), Amanda Porter (ajohnson@clarityinnovates.com), Charlye Tran (charlye@bluetiger.digital)
+* Observers: John Rahaghi (john.rahaghi@va.gov), Porta Antiporta (porta@themostudio.com), Jay Tanner (jtanner@pluribusdigital.com), Elizabeth Koch (elizabeth@bluetiger.digital), Anthony Levin-Decanini (anthony@themostudio.com), Steve Dickson (sdickson@greenthreadsllc.com), Ksenia Coulter (kcoulter@pluribusdigital.com), Melissa Miller (mmiller@pluribusdigital.com), Jesse James (jesse.james@themostudio.com), Clayton Zook (clayton.zook@oddball.io), Amanda Porter (ajohnson@clarityinnovates.com), Charlye Tran (charlye@bluetiger.digital)
 
 Each session will include no more than 6 total attendees per session: 1 Veteran participant, 1 moderator, 1-2 notetaker(s), 1-2 observer(s).
 
