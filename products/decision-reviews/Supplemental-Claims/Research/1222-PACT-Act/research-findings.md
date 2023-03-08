@@ -1,57 +1,405 @@
-# (WIP) Supplemental Claims - MVP - PACT Research Findings
-Office of the CTO - Digital Experience (OCTO-DE), Decision Reviews, Benefits Team 1
+# Supplemental Claims MVP - PACT
 
-Date: 1/2023
+**Office of the CTO - Digital Experience (OCTO-DE), Decision Reviews, Benefits Decision Reviews**
 
-Eileen Chi eileen.chi@coforma.io
+Date: 03/2023
+
+Eileen Chi [eileen.chi@coforma.io](eileen.chi@coforma.io)
+
+
+**Jump to:**
+
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#hypotheses-and-conclusions)
+
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#key-findings)
+
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#recommendations)
+
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#who-we-talked-to)
+
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#further-research-needed)
 
 ## Background
+
 Starting in January 2023, Veterans filing claims for presumptive conditions that are PACT Act eligible are allowed to file a Supplemental Claim without including new evidence to prove service connection. To get a disability rating, Veterans must prove that their time in service caused their condition. For claims that fall under the PACT Act, we remove the burden of proof. Veterans with presumptive conditions can file a Supplemental Claim without providing new evidence for service connection.
 
-[Link to product brief]()
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/readme.md)
 
 This is the second study done for Supplemental Claims. The OCTO Objectives and Veteran Journey are not different from the initial study.
 
-[Research findings for the MVP Prototype]()
+[Research findings for the MVP Prototype](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/MVP%20Usability%20Research/research-findings.md)
 
 ### OCTO Objectives
-- [ ] Increase the usage and throughput of VA services
-- [ ] Decrease the time Veterans spend waiting for an outcome
-- [ ] Increase the quality and reliability of VA services
+
+- [ ]  Increase the usage and throughput of VA services
+- [ ]  Decrease the time Veterans spend waiting for an outcome
+- [ ]  Increase the quality and reliability of VA services
+
 ### Veteran Journey
-Since Veterans can file Supplemental Claims benefits with VA between 180 and 90 days before separating from the military, this work impacts the Veteran journey from serving, to getting out, and all the way to dying as survivors can also file Supplemental Claims on the Veteran’s behalf. This work especially maps to the taking care of myself part of the Veteran journey, as Supplemental Claims for disability compensation supports:
+
+Since Veterans can file Supplemental Claims benefits with VA between 180 and 90 days before separating from the military, this work impacts the Veteran journey from ***serving***, to ***getting out***, and all the way to ***dying*** as survivors can also file Supplemental Claims on the Veteran’s behalf. This work especially maps to the ***taking care of myself*** part of the Veteran journey, as Supplemental Claims for disability compensation supports:
+
 - Recognizing and addressing mental health needs
 - Managing primary care and chronic health issues
 - Maintaining my health
 
 ## Research Goals
+
 1. Determine if the process of filing a PACT-eligible Supplemental Claim is clear and actionable.
+
 2. Determine if the user can understand what presumptive conditions are, and what happens when they submit a claim without evidence.
+
 3. Validate that users can successfully and confidently submit a claim with or without adding evidence.
 
+## Research Questions
+
+- Do Veterans understand if this is the right form for them?
+- Do Veterans understand the requirements for submitting a Supplemental Claim?
+- Do Veterans feel confident enough when submitting a form they think is a PACT-eligible claim?
+
 ## Methodology
-We conducted hour-long remote moderated research sessions via Zoom on February 21 - March 1, 2023. Participants were asked to go through a hypothetical scenario where they were told that they have a presumptive condition covered by PACT, and could file a Supplemental Claim for their previously denied decision. We also tested an optional task where they could upload new evidence to their claim, after they’ve reached the evidence summary.
 
-We opted to test with a [mobile prototype]() to focus on the ability to complete the form in a restricted screen space and to gauge the form length. Further usability on desktop screens is recommended.
+We conducted hour-long remote moderated research sessions via Zoom on February 21 - March 1, 2023. Participants were asked to go through a hypothetical scenario where they were told that they are Hector, a veteran who has a presumptive condition covered by PACT, and could file a Supplemental Claim for their previously denied decision. We also tested an optional task where they could upload new evidence to their claim, after they’ve reached the evidence summary.
 
-## Hypothesis and Conclusions
+We opted to test with a [mobile prototype](https://www.sketch.com/s/d2416db4-9a4f-4919-abe4-20ba4bdcfd89/prototype/a/A4ED99CB-748B-4EED-8F83-5D6733BA9F42) to focus on ability to complete the form in a restricted screen space and to gauge the form length. Further usability on desktop screens is recommended.
+
+## Hypotheses and Conclusions
+
 - We believe that all Veterans will be able to confidently complete a Supplemental Claim. **Maybe True.**
 
-_9 out of 10 rated the form experience 8 and above, but 6 out of 10 rated their confidence in their submission 8 and above. The lower ratings come from the lack of their lack of confidence in the review and not being able to explicitly say that they qualify under PACT._
-- We believe Veterans will understand the decisions they need to make with the content presented to them. **Likely True.** 
+9 out of 10 rated the form experience 8 and above, but 6 out of 10 rated their confidence in  their submission 8 and above. The lower ratings come from the lack of their lack of confidence in the review and not being able to explicitly say that they qualify under PACT.
 
-_Participants understood the content presented to them in the introduction page, especially in the introduction box that highlighted the requirements for submitting a Supplemental Claim. They also understood what the PACT Act and presumptive conditions are. A few participants noted that the content was long, and would require multiple sessions to complete the form. All participants understood what each section of the evidence page allowed them to do, but a few struggled with going back to add evidence because they didn’t remember the sequence of evidence screens._
-- We believe Veterans are more likely to achieve a favorable outcome by submitting a Supplemental Claim via this digital experience. **Maybe True.** 
+- We believe Veterans will understand the decisions they need to make with the content presented to them. **Likely True.**
 
-_All of the participants understood that the Supplemental Claim was submitted, half of the participants wanted a separate method of notification (such as email or text) that confirms the receipt of the Intent to File and form. Participant confidence was also affected by previous experience with the process lowering their expectations that the claim would be processed successfully._
+Participants understood the content presented to them in the introduction page, especially in the introduction box that highlighted the requirements for submitting a Supplemental Claim. They also understood what the PACT Act and presumptive conditions are. A few participants noted that the content was long, and would require multiple sessions to complete the form. All participants understood what each section of the evidence page allows them to do, but a few struggled with going back to add evidence because they didn’t remember the sequence of evidence screens.
+
+- We believe Veterans are more likely to achieve a favorable outcome by submitting a Supplemental Claim via this digital experience. **Maybe True.**
+
+Before applying, all of the participants understood the requirements of a Supplemental Claim, and they were guided through the experience on how to submit the various types of evidence through the online experience. We believe that there will be an increase of successfully submitted Supplemental Claims online, but cannot predict a favorable outcome. Although our content gives examples of various evidence types, it can not predict or suggest the exact evidence needed for a successful outcome since it is on a case-by-case basis.
 
 ## Key Findings
-1. Most participants had a clear understanding of the requirements for filing Supplemental Claims, and what presumptive conditions are.
-2. A few participants were not able to locate the action link to file a Supplemental Claim in the unauthorized site wide introduction page.
+
+1. Most participants had a clear understanding of the requirements for filing Supplemental Claims and what presumptive conditions are.
+2. A few participants were not able to locate the action link to file a Supplemental Claim on the unauthorized site-wide introduction page.
 3. Most participants tried to add evidence to their Supplemental Claims despite not needing to for presumptive conditions.
-4. Most participants thought the ‘Edit’ link in the issue summary page and evidence summary page lets them perform an action different from what they actually do.
-5. Half of the participants were confused by the Appeals Modernization Act, because they didn’t know what the old appeals process was, but still continued with the form.
+4. Most participants thought the 'Edit' link on the issue summary page and evidence summary page would let them perform an action different from what they actually do.
+5. Half of the participants were confused by the Appeals Modernization Act because they didn't know about the old appeals process, but still continued with the form.
 6. Participants understood what the notice of evidence needed is, and more than half clicked the link to view the required external page before certifying.
 7. A few participants experienced confusion when they reached the warning alert on the evidence summary page.
 8. Half of the participants struggled with going back and adding evidence from the evidence summary page.
-9. Most of the participants misunderstood the action for the ‘print this page’ button.
+9. Most of the participants misunderstood the action for the 'print this page' button.
+
+## Details of Findings
+
+### Finding 1
+
+Most participants had a clear understanding of the requirements for filing Supplemental Claims and what presumptive conditions are. They found the information they needed in the blue introduction box, and clearly located the sections that talked about presumptive conditions and PACT.
+
+One participant thought they could use a Supplemental Claim for a worsening condition, and only realized that’s not true when they saw it was for a claim they disagree with.
+
+![sitewide-intro.png](images/sitewide-intro.png)
+
+![sitewide-presumptive.png](images/sitewide-presumptive.png)
+
+> "Ahh that first one. You have new or relevant evidence. A lot of people don't know it. A lot of people don't know you can get more evidence and apply it. When I first started I thought the only way to do it was the HLR then go to the board... well, file a Supplemental. You can't ADD new evidence if it goes to HLR.”
+> 
+
+> "In recent years, this presumptive thing ... is new to me. I'm glad they explain that.”
+> 
+
+> "Oh yea. I like the way you're putting that in there [info alert for presumptive] just to remind them.”
+> 
+
+> “It's clear what a Supplemental Claim is, it can get confusing between this and a higher level review… New and relevant evidence, the information here is clear… It definitely makes the Supplemental Claim easier to understand.”
+> 
+
+### Finding 2
+
+A few participants were not able to locate the action link to file a Supplemental Claim on the unauthorized site-wide introduction page.
+
+For participants who missed the link, they saw they could download and file a Supplemental Claim by mail, but could not locate where they could file a Supplemental Claim *online*. They also didn’t notice the difference between filing for a _disability claim_ vs _all types of claims_.
+
+![claim-CTA.png](images/claim-CTA.png)
+
+![claim-mail.png](images/claim-mail.png)
+
+> "I would've made the file online and put it below file a supplemental claim cuz I look right over it. I didn't see it. It is hidden.”
+> 
+
+> “I see file by mail but not too many people do stuff by mail anymore. File in person, you can go to he VA clinic, if you live near one. but then you’d have to take time off work. I whizzed right past the ‘file online’ button.”
+> 
+
+### Finding 3
+
+Most participants tried to add evidence to their Supplemental Claims despite not needing to for presumptive conditions.
+
+Since the evidence flow was presented to them, participants were inclined to add evidence, even when they understood they didn’t need any to prove service connection. When asked why, participants mentioned that it’s better to include copies of medical records, even when the VA got them in the original claim. Some also mentioned annotating and uploading their own records to ensure it’s being read.
+
+![va-medical-records.png](images/va-medical-records.png)
+
+> “In Hector's [hypothetical Veteran] point of view, I would still say yes [to adding VA medical records] because it's being reviewed under a new law.”
+> 
+
+> “I would say yes, in my evidence, I would submit it just to make sure there's copies in there.”
+> 
+
+### Finding 4
+
+Most participants thought the 'Edit' link on the issue summary page and evidence summary page would let them perform an action different from what they actually do.
+
+Due to proximity, participants thought the ‘Edit’ links were to meant to edit the information that it’s closest to. For the issue summary, it was the decision date. For the evidence summary, it’s the name of the document. In actuality, the edit links would navigate them back to the previous screens where they could select issues or upload evidence.
+
+![issue-summary-edit.png](images/issue-summary-edit.png)
+
+![evidence-summary-edit.png](images/evidence-summary-edit.png)
+
+> “If you don't agree with the decision date, you can edit here.”
+> 
+
+> “If you edit the claim condition you can probably go in and add more information, if it's being filed under the PACT Act, or a new condition. You can put in what it falls under.”
+> 
+
+> “The edit button - maybe if you want to change the name of the file. If you have more buddy statements or anything else, you can add that.”
+> 
+
+### Finding 5
+
+Half of the participants were confused by the Appeals Modernization Act because they didn't know about the old appeals process, but still continued with the form.
+
+This screen is shown conditionally for issues we know fall under the old appeals process, and for issues that we don’t know all under the old appeals process. We tested two sets of copy for this page, one that is completely simplified but didn’t pass OAR requirements, and one that fulfills legal requirements. Both triggered the same level of confusion, but the one with the extra legal language took participants twice a long to read, or required a re-read.
+
+For participants who knew about the old appeals process, they were drawn to the fact that switching over may mean a faster decision. For participants unfamiliar to the old appeals process, they were likely to finish the application later after checking their decision letter or asking a third party for more information.
+
+![new-decision-review.png](images/new-decision-review.png)
+
+![new-decision-review-v2.png](images/new-decision-review-v2.png)
+
+> “I guess that's the only thing that I'd want is more clarification on the old process and what the new process is and what might be advantageous about that.”
+> 
+
+> "Just personally I'd probably ask questions outside of this process. If it were me I'd probably click the [finish this later] link and stop the process to learn about it first.”
+> 
+
+### Finding 6
+
+Participants understood what the notice of evidence needed is, and more than half clicked the link to view the required external page before certifying.
+
+![notice-of-evidence-needed.png](images/notice-of-evidence-needed.png)
+
+> “It's good there's a link here for notice of evidence needed [paused over paragraph that said "to review the 38 USC 5103"]”
+> 
+
+> “I am saying I have looked at this and I have verified that it's in the 1 year period. Then continue.”
+> 
+
+### Finding 7
+
+A few participants experienced confusion when they reached the warning alert on the evidence summary page.
+
+Because of the ambiguous language in the warning alert, a few participants felt that they needed to attach evidence to the claim. They experienced confusion and questioned what type of evidence is needed to support their claim, especially since the introduction told them it wasn’t needed.
+
+![evidence-summary-notice.png](images/evidence-summary-notice.png)
+
+> “Not being Hector I don't know if this would change his mind or not. I think I said before, should I provide anything additional that really shows I was there, but my DD214 would show that I'm in Afghanistan or Iraq, so I would think everything's good.”
+> 
+
+> “Now, I'm puzzled on what evidence I have to submit because before it says I didn't need to submit evidence. That's what the PACT Act said.”
+> 
+
+### Finding 8
+
+Half of the participants struggled with going back and adding evidence from the evidence summary page.
+
+We prompted participants to upload evidence as an optional task, and several participants felt lost when they were brought back to the beginning of the evidence flow. Although they had just gone through the order of evidence, a few struggled getting back to the ‘upload documents’ page (which is third from the cycle). The progress stepper not changing for the section also made it unclear that they had moved backwards in the form.
+
+![va-medical-records.png](images/va-medical-records%201.png)
+
+![private-medical-records.png](images/private-medical-records.png)
+
+![upload-evidence.png](images/upload-evidence.png)
+
+> “Well I know what I was looking for wasn't forward, so I was jumping back.”
+> 
+
+> “I would say some people would think that a buddy statement is consider a medical record sometimes, I don't remember if I submitted it under this. or if there was a separate screen.”
+> 
+
+### Finding 9
+
+Most of the participants misunderstood the action for the 'print this page' button.
+
+Most participants expected a way to download a copy of their completed form when the form was submitted, and applied that expectation to the button. In actuality, the button only prints the confirmation page.
+
+![confirmation-print.png](images/confirmation-print.png)
+
+> "Oh yea, print page. I expect this to print my claim. I expect it to print my supplemental claim. Now, being... a little difficult... I would say I want a copy of the original too. So I want to print the original plus the Supplemental that way I can look at it and compare that I have everything there. You gotta make sure EVERYTHING is there.”
+> 
+
+> “I would say, for me, I would expect that this would print the form.”
+> 
+
+### Additional Insights
+
+- Confidence for form submission and success extends beyond the form itself. It’s bolstered by the information shown before they reach the form, and by the confirmation they receive after they submit the form. Most participants desired a separate notification for submission of the Intent to File and Supplemental Claims form. They expect notifications to be in their email and on mobile
+
+> “Some places have text messages now in addition to email. i hope that gets implemented.”
+> 
+
+> “It would be great to get EMAIL or SMS updates on the claim status versus relying on login into [VA.gov](http://va.gov/) daily.”
+> 
+- Participants are likely (more than half) to skip the second form introduction page, if they enter from the site wide introduction page.
+- Several participants referenced the ease of navigating a tax form when describing their experience with form navigation.
+
+> “It's kind of like how I work. Even when filing taxes, I jump back and forth.”
+> 
+
+> “Like Turbo Tax, if you click on a link it'll open up a box, so you can read the information, but it doesn't take you out of the flow.”
+> 
+- Participants identified themselves as exceptionally adept with technology, and although they found the PDF uploads a familiar process, they are concerned for other Veterans they interact with who may not be as tech savvy.
+
+> “I work with elderly. When they try to upload docs, they never know where they saved things.”
+> 
+
+> “90% of VET will be using their phone, because their grandkids buy it for them. They don't know how to navigate tech much. Unless VETs have an app that converts the image they take with their phone camera to PDF it wouldn't help. if you can allow multiple formats, it will be a big help.”
+> 
+- Several participants mentioned they would ‘finish this application later’ when they need to take a break, do more research, or ask for clarification.
+
+> "If I got frustrated, I'd click finish this application later. I'll be like, I MUST have missed something.”
+> 
+
+> "Just personally I'd probably ask questions outside of this process. If it were me I'd probably click the link and stop the process to learn about it first.”
+> 
+
+## Recommendations
+
+1. Increase visibility of start claim CTA on the site wide introduction (and possibly change language to fit Veteran’s mental models)
+2. Add clarifying language for worsening conditions to decrease the chances of Veterans confusing Supplemental Claim form with a 526 Claims for Increase
+3. Remove redundant edit link from evidence summary page, and associate the edit link to the header, so it’s associated to the right task
+4. Change the language and specificity to the ‘print this page’ button on the confirmation
+5. Provide more explanation about the old appeals process on the new decision reviews process page
+6. Provide more clarity for those applying for presumptive conditions on the evidence summary language
+7. Explore into other possible wayfinding solutions for the form system, and non-linear form experiences. The progress bar does not help Veterans track where they are in the process when navigating back and forth through the form
+
+## Next Steps
+
+1. Work with product and engineering to implement quick fix recommendations before launch
+2. Work with product and engineering to add more complex recommendations to post-launch roadmap
+3. Share results with other teams (legal and content)
+4. Conduct further research to address gaps from this study
+
+## Further research needed
+
+- Future usability with assistive technology, especially magnification/zoom, desktop and mobile screen readers, as well as Veterans who experience arthritis or other dexterity issues. We'd like to understand if scrolling on desktop and mobile devices presents any difficulty.
+- Further research needed with veterans who aren’t familiar with the decision review process, and veterans who are not as comfortable with technology.
+- Possible research needed on the document upload functionality when form is in staging or production.
+
+## Appendix
+
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/f7f135c365c0e2f316b9731e0b1ff8c0b0ebfa26/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-plan.md)
+
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/f7f135c365c0e2f316b9731e0b1ff8c0b0ebfa26/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/conversation-guide.md)
+
+### Tools used for Synthesis
+
+Mural (restricted, please request access)
+
+### Pages and applications used
+
+[Prototype used in testing](https://www.sketch.com/s/d2416db4-9a4f-4919-abe4-20ba4bdcfd89/prototype/a/A4ED99CB-748B-4EED-8F83-5D6733BA9F42)
+
+Iterated prototype with recommendations
+
+### Other supporting documents created
+
+[Sketch file](https://www.sketch.com/s/d2416db4-9a4f-4919-abe4-20ba4bdcfd89/p/9B9A6622-6A03-4151-99B5-AD62020D958B/canvas#About)
+
+### Who we talked to
+
+Intended audience for this research: Veterans. Other claimant types can file a Supplemental Claim, but these use cases have been de-scoped for MVP.
+
+Recruitment strategy: We will test with Veterans only for as that is the scope of our MVP, and specifically focusing on Veterans who have claimed disability in the past. We are testing a prototype, which won't allows testing for assistive technology, but will plan to do that when we have an instance in staging.
+
+We skewed slightly older for this study, to understand how older Veterans who might become eligible via the PACT act would navigate this experience.
+
+**Recruitment criteria**
+
+We talked to **10 participants.**
+
+Audience segment:
+
+- Veterans: 10
+- Caregivers: 0
+- Family members of a Veteran: 0
+
+Gender:
+
+- Male: 6
+- Female: 4
+
+LGBTQ+:
+
+- Transgender: 0
+- Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+- Gay, lesbian, or bisexual: 0
+
+*Devices used during study:* We tested a mobile prototype, so some participants were on desktop, but navigating in a mobile environment.  
+
+- Desktop: 5
+- Tablet: 0
+- Smart phone: 5
+- Assistive Technology: 0
+
+Age:
+
+- 25-34: 1
+- 35-44: 1
+- 45-54: 3
+- 55-64: 5
+- 65+: 0
+- Unknown: x
+
+Education:
+
+- High school degree or equivalent: 4
+- Some college (no degree): 2
+- Associate's degree, trade certificate or vocational training: 2
+- Bachelor's degree: 2
+- Master's degree: 0
+- Doctorate degree: 0
+- Unknown: 0
+
+Geographic location:
+
+- Urban: 7
+- Rural: 3
+- Unknown: 0
+
+Race:
+
+- White: 4
+- Black: 5
+- Hispanic: 1
+- Biracial: 4
+- Asian: 2
+- Native: 3
+
+Disability and Assistive Technology (AT):
+
+- Cognitive: 4
+
+### Underserved groups we haven’t talked to
+
+This research does not include the perspectives of the following marginalized Veteran groups:
+
+- Immigrant origin
+- Other than honorable
+- Transgender
+- AT beginner
+- AT advanced user
+- Desktop screen reader
+- Mobile screen reader
+- Magnification/Zoom
+- [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking
+- Hearing aids
+- Sighted keyboard
+- Captions
