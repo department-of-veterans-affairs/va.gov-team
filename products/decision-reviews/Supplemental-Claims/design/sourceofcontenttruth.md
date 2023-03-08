@@ -314,9 +314,11 @@ We'll save your application every time you add or update information.
 
 **The new decision review process**
 
-If you're filing a Supplemental Claim in response to a Statement of the Case (SOC) or a Supplemental Statement of the Case (SSOC) in the old appeals process (for a VA decision you received before February 19, 2019), we’ll move your claim from the old appeals process to the new decision review process. By filing a Supplemental Claim, you're opting in to the new decision review process. You’re likely to get a faster decision on your claim when you switch to the new process.
+If you're filing a Supplemental Claim in response to a Statement of the Case (SOC) or a Supplemental Statement of the Case (SSOC) in the old appeals process (for a VA decision you received before February 19, 2019), you're opting into the new decision review process. You must opt in within 60 days from the date you received your SOC or SSOC.
 
-If you want to continue your claim in the old appeals process, don't submit a Supplemental Claim. Check your decision letter for more details about the appeals process.
+Once you opt in, we’ll move your claim from the old appeals process to the new decision review process. You won't be able to return to the old appeals process for the issues you have selected. You’re likely to get a faster decision on your claim when you switch to the new process.
+
+If you want to continue your claim in the old appeals process, don't submit a Supplemental Claim. Check your decision notice for more details about the appeals process.
 
 **_BACK_**
 
