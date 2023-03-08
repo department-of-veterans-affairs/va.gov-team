@@ -1,5 +1,3 @@
-# In progress - Do not use yet
-
 # Medical Records Discovery Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Health Apartment, Medical Records**
@@ -9,6 +7,15 @@ Date: 10/3/2022
 Coulton Bunney [coulton.bunney@va.gov], Jenny Wang [yizhen.wang@va.gov]
 
 [See the the report here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/f2249c2985724717a928bbe3013e57df5644c2e1/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-09-informational-interviews/research-report.pdf) 
+
+## Table of contents
+- [Research goals](#research-goals)
+- [Research questions](#research-questions)
+- [Key findings](#key-findings)
+- [Detailed key findings](#details-of-findings)
+- [Additional insights](#additional-insights)
+- [Recommendations](#recommendations)
+- [Appendix](#appendix)
 
 ## Research Goals
 
@@ -81,11 +88,11 @@ There may be more policies that apply to records release.
 
 **Finding 11:** Based on analytics, the most frequently requested data from Blue Button are progress notes, followed by labs, appointments and prescriptions. Whether a user views information in browser or downloads it is dependent on whether they use Blue Button, VA Health Summary, or VA Medical Images and Reports.
 
-# Details of Findings
+## Details of Findings
 
-## Data
+### Data
 
-### Finding 1: There are roughly 13 categories (aka domains) of data included as part of medical records today. A few examples of categories are clinical notes, allergies, and immunizations. Each category's data is pulled individually and possibly from different databases.
+#### Finding 1: There are roughly 13 categories (aka domains) of data included as part of medical records today. A few examples of categories are clinical notes, allergies, and immunizations. Each category's data is pulled individually and possibly from different databases.
 
 Nearly everyone we talked with defined medical records recursively. What is included in the Blue Button report was the most common answer we received. When asked whether patient generated health data was also part of the record most folks said no. PGHD was only considered part of the health record once a provider viewed it and then entered it back into VistA themselves, which would then be available via VA specific categories of Blue Button.
 
@@ -100,7 +107,7 @@ Supporting information:
 - <https://www.myhealth.va.gov/the-va-blue-button-my-download-request-screen>
 
 
-### Finding 2: By VHA policy, some data is not released to patients as soon as it is available. Data from six categories is held for 36 hours after it becomes available and some records must be "signed" before releasing to a patient, such as progress notes
+#### Finding 2: By VHA policy, some data is not released to patients as soon as it is available. Data from six categories is held for 36 hours after it becomes available and some records must be "signed" before releasing to a patient, such as progress notes
 
 The following data categories are held for 36 hours before being released to a patient.
 
@@ -126,9 +133,9 @@ Supporting information:
 - <https://www.myhealth.va.gov/mhv-portal-web/blue-button-availability>.
 - <https://www.navao.org/wp-content/uploads/2020/07/Operational-Memo-2020-06-32-Changes_to_My_HealtheVet_VA_Blue_Button_Data_Hold_Period.pdf>
 
-### Finding 3: We should conduct further technical discovery into which sources of medical records data will best meet the needs of modernized medical records applications in VA.gov. Options uncovered include: (1) PHR Manager, MHV's current API; (2) Lighthouse's Health APIs, (3) Cerner. There are advantages and disadvantages to each. It will be critically important to ensure that Veterans will see the same content regardless of which interface they use (VA.gov web, flagship mobile, MHV, Apple Health, etc.)
+#### Finding 3: We should conduct further technical discovery into which sources of medical records data will best meet the needs of modernized medical records applications in VA.gov. Options uncovered include: (1) PHR Manager, MHV's current API; (2) Lighthouse's Health APIs, (3) Cerner. There are advantages and disadvantages to each. It will be critically important to ensure that Veterans will see the same content regardless of which interface they use (VA.gov web, flagship mobile, MHV, Apple Health, etc.)
 
-#### PHR Manager:
+##### PHR Manager:
 
 PHR Manager is the name of the API that MHV uses to retrieve a patient's medical record data. It was built by Bylight specifically for MHV and pulls data from a variety of sources maintained by teams across the VA. After speaking with technical staff from MHV, we discovered many advantages and disadvantages.
 
@@ -148,7 +155,7 @@ Supporting quotes:
 * “Expecting to have real time results on a browser (which would be the dream) isn’t reasonable or possible because the systems don’t have the ability to scale to that level. Some networks could take 30+ seconds.”
 * “PHR manager, which pulls data from various sources, has a lot of built-in logic for dealing with legacy data.”
 
-#### Lighthouse APIs:
+##### Lighthouse APIs:
 
 Lighthouse APIs are built and maintained by the product engineering group in OIT. The Lighthouse Health APIs were originally built to allow patients to add their VA medical record to Apple Health. There are two Lighthouse Health APIs that are relevant to us: Patient Health API and Clinical Health API. The Patient Health API pulls from the Corporate Data Warehouse (CDW) and is accessible to external parties. The Clinical Health API pulls directly from VistA sources. The Clinical Health API is more similar to how PHR Manager works. After speaking with technical staff from Lighthouse and reviewing developer.va.gov, we discovered many advantages and disadvantages.
 
@@ -173,9 +180,9 @@ Supporting quotes:
 Supporting information:
 - <https://developer.va.gov/explore/health>
 
-## Laws and policy
+### Laws and policy
 
-### Finding 4: We were unable to locate any laws that strictly define what is required to be included as part of a medical record. Laws are primarily focused on keeping PHI safe and secure, and ensuring a patient's access to their own data.
+#### Finding 4: We were unable to locate any laws that strictly define what is required to be included as part of a medical record. Laws are primarily focused on keeping PHI safe and secure, and ensuring a patient's access to their own data.
 
 During our conversations, we uncovered four laws that apply to VA patients' medical records. We attempted to understand how each of these laws affects our work.
 
@@ -198,7 +205,7 @@ Supporting quotes:
 - "We track the right of access because our regulations and statute require a written request. If you want a copy, you HAVE to make a written request. That can be electronic, like the button we offer. It has to be written in such a way. That is why it is tracked."
 
 
-### Finding 5: Because VA policy states that patients own data they have requested and been provided, we must ensure that users retain access to all of the data that lives in their MHV eVault, during and after the transition from MHV to VA.gov.
+#### Finding 5: Because VA policy states that patients own data they have requested and been provided, we must ensure that users retain access to all of the data that lives in their MHV eVault, during and after the transition from MHV to VA.gov.
 
 - As outlined in HIPAA and the Privacy Act, Veterans have a right to access their data.
 - As outlined in VHA Directive 1605.01, Veterans are entitled to their data within 20 days of making a request.
@@ -218,7 +225,7 @@ Supporting quotes:
 - "No different than if they walked in and handed us a piece of paper. Nothing that is stored in the portal is OUR data. They can give us a copy and we can give them a copy. Any release of their data from blue button, etc. -- it is theirs."
 - "I think the biggest thing is realizing that everything in MHV -- the data that is there, not the administrative data for the account -- everything is owned by the Veteran. In the transition to my VA health, they tried to take their data away. Think of the Evault as your iCloud space. And think of apple taking it away. It is unlawful seizure of property if we take it away. They thought they could take away the data in the transition. The Veteran is viewing our record and database real time. MHV was set up like I cloud -- we are giving you space on a server with your data. That is property. The fed government can't take your property. OGC said you can't do that. The fed gov can appropriate citizens property. That is why these things are still very separate."
 
-### Finding 6: VHA Directive 1164 places specific requirements on the review, management, and communication of medication information with patients, caregivers, and their health care teams.
+#### Finding 6: VHA Directive 1164 places specific requirements on the review, management, and communication of medication information with patients, caregivers, and their health care teams.
 
 The only policy we located that placed requirements on data display was VHA Directive 1164, which outlines "Essential Medication Information Standards."
 
@@ -229,9 +236,9 @@ Supporting information:
 - <https://www.va.gov/vhapublications/ViewPublication.asp?pub_ID=3119>
 - [Appendices and Guidance (Soon to be Program Guides)](https://dvagov.sharepoint.com/:f:/r/sites/VHAMedRecon/Essential%20Medication%20Information%20Standards%20Directi/VHA%20Directive%201164/Appendices%20and%20Guidance%20(Soon%20to%20be%20Program%20Guides)?csf=1&web=1&e=U2JwMO)
 
-## Product history
+### Product history
 
-### Finding 7: Blue Button, VA Health Summary, and VA Medical Images and Reports are the primary ways to access medical records. While they are perceived to be similar, they were designed for different purposes.
+#### Finding 7: Blue Button, VA Health Summary, and VA Medical Images and Reports are the primary ways to access medical records. While they are perceived to be similar, they were designed for different purposes.
 
 Blue Button Reports are meant to serve as a way for patients to download and own their complete medical record. The goal of Blue Button is to get as much data to patients as quickly as possible. How the data is made available was of secondary concern. In practice, a user can request their medical data from Blue Button by specifying a date range and which combination of data categories they are interested in. BB requests are processed asynchronously, with the requested data returned as a PDF or txt file. This file can be downloaded or viewed in browser. We were unable to find a way to access previously requested Blue Button reports via the MHV interface.
 
@@ -252,7 +259,7 @@ Supporting information:
 - <https://www.myhealth.va.gov/health-summary-va-ccd-learn-more>
 - <https://www.myhealth.va.gov/va-medical-images-reports-learn-more>
 
-### Finding 8: The branding of Blue Button is not a VA specific choice. It is rather a government-wide initiative to allow citizens easy access and ownership of their personal health information. We did not find any mandate that says we must maintain the Blue Button branding moving forward. We should continue to evaluate how Veterans identify with this brand, and how we can make it clear to them what Blue Button means.
+#### Finding 8: The branding of Blue Button is not a VA specific choice. It is rather a government-wide initiative to allow citizens easy access and ownership of their personal health information. We did not find any mandate that says we must maintain the Blue Button branding moving forward. We should continue to evaluate how Veterans identify with this brand, and how we can make it clear to them what Blue Button means.
 
 Supporting quotes:
 
@@ -266,9 +273,9 @@ Supporting information:
 - <https://www.healthit.gov/topic/health-it-initiatives/blue-button>
 - <https://bluebutton.cms.gov/>
 
-## Medical records usability
+### Medical records usability
 
-### Finding 9: MHV does not provide an easy way to find or view *individual* pieces of medical records data, such as a single lab report or progress note.
+#### Finding 9: MHV does not provide an easy way to find or view *individual* pieces of medical records data, such as a single lab report or progress note.
 
 MHV was designed to request your medical record data from a specific time period, not to browse for and view individual pieces of information.
 
@@ -291,7 +298,7 @@ Supporting quotes:
 - "Veterans hope to find anything that will justify their claim, so they need to see every detail."
 - "We need to find a solution for letting Veterans see their record "live" before downloading and learning that it doesn't contain the information they need.
 
-### Finding 10: There are three ways to share medical records with an outside provider in MHV: printing and sharing by hand, sending via direct message, or opting into the Veteran's Health Information Exchange (VHIE). Each method has significant usability issues, and it is also not clear to users which method to use when.
+#### Finding 10: There are three ways to share medical records with an outside provider in MHV: printing and sharing by hand, sending via direct message, or opting into the Veteran's Health Information Exchange (VHIE). Each method has significant usability issues, and it is also not clear to users which method to use when.
 
 A user can share their record in three ways.
 
@@ -311,7 +318,7 @@ Supporting quotes:
 - "When patients download the whole Blue Button Report, [the patient must] deliver it to someone who's going to help with disability claim."
 - "At the time, we created it, that wasn't enough people using direct exchange. [...]the country wasn't ready for it. What I [would] like va.gov to do [is], "I want to share my data summary", click button, and I can exchange CCDA through direct. [or] I'd like VA to share, it would go to the VA health exchange to send it. I send it *or* VA sends it."
 
-### Finding 11: Based on analytics, the most frequently requested data from Blue Button are progress notes, followed by labs, appointments and prescriptions. Whether a user views information in browser or downloads it is dependent on whether they use Blue Button, VA Health Summary, or VA Medical Images and Reports.
+#### Finding 11: Based on analytics, the most frequently requested data from Blue Button are progress notes, followed by labs, appointments and prescriptions. Whether a user views information in browser or downloads it is dependent on whether they use Blue Button, VA Health Summary, or VA Medical Images and Reports.
 
 Users are more likely to download a Blue Button Report to view offline and to view their VA Health Summary in browser via an .html file that can be opened in a new browser tab outside of MHV. Radiology reports are also widely consulted, but radiology images are seldom requested.
 
@@ -327,7 +334,7 @@ Supporting quotes:
 - "The concept of download and view the comprehensive record indexes much higher at VA than it would elsewhere."
 - "Download comprehensive record is a much-needed feature for Veterans. They print and take it to apply different services."
 
-# Additional insights
+## Additional insights
 
 **Medical records use cases**
 
@@ -364,9 +371,9 @@ A patient's electronic health records must be maintained for 75 years after the 
 Supporting information:
 - <https://www.va.gov/vhapublications/rcs10/rcs10-1.pdf>
 
-# Recommendations
+## Recommendations
 
-## Recommendation 1.1: Design and develop medical records category by category.
+### Recommendation 1.1: Design and develop medical records category by category.
 
 Medical records are not a monolith and our research provides evidence that they should not be treated as such. Working on medical records category by category will allow us to give each type of data the attention it requires to do a good job. Taking a category by category approach will also allow teams to show consistent progress over time in an agile fashion.
 
@@ -399,7 +406,7 @@ Next steps:
 
 _Associated findings: 1, 2, 6, 11_
 
-## Recommendation 1.2: To determine which set of APIs to use, conduct technical discovery to determine which can best support our use cases both in the short term (without Cerner data) and long term (with Cerner data).
+### Recommendation 1.2: To determine which set of APIs to use, conduct technical discovery to determine which can best support our use cases both in the short term (without Cerner data) and long term (with Cerner data).
 
 One of the most important decisions we will make is how we will fetch data for medical records. Making an informed decision now will help accelerate our work in the future by creating a smoother path to integration with Cerner and delivering a more responsive user experience.
 
@@ -418,7 +425,7 @@ Next step:
 
 _Associated findings: 1, 2, 3, 5, 9_
 
-## Recommendation 2.1: Build functionality that enables users to easily view individual records so they can find information without first needing to download it.
+### Recommendation 2.1: Build functionality that enables users to easily view individual records so they can find information without first needing to download it.
 
 Our research provided evidence that finding specific pieces of data is difficult for users. A key part of finding what you are looking for is quickly viewing the results of your search. In MHV today, this requires downloading and opening a PDF, which is anything but quick. Viewing pieces of data quickly will improve users' ability to find what they are looking for, reduce the time it takes to do so, and if done in a web-native way has the potential to improve the accessibility of MHV. Viewing individual pieces of data in a patient record is a modern EHR standard and increasingly, users expect to be able to view their data in a patient portal without first downloading it.
 
@@ -434,7 +441,7 @@ Next steps:
 
 _Associated findings: 7, 9_
 
-## Recommendation 2.2: Reframe Blue Button functionality as "Download your medical record" and downplay Blue Button branding in the information architecture and left navigation in favor of plain language clarity.
+### Recommendation 2.2: Reframe Blue Button functionality as "Download your medical record" and downplay Blue Button branding in the information architecture and left navigation in favor of plain language clarity.
 
 Blue Button was designed to give users a path to own their data by downloading it as a PDF or text file. This should be made clearer to users by making Blue Button branding secondary to describing functionality. For example, it should be "Download your medical record, powered by Blue Button" rather than "Blue Button Report. This will also help differentiate this functionality from viewing your record (Rec 2.1) and sharing your record (Rec 2.3).
 
@@ -443,7 +450,7 @@ Next steps:
 
 _Associated findings: 7, 8_
 
-## Recommendation 2.3: Reframe the VA Health Summary as "Share your medical record with non-VA providers" and more closely associate it with opting into or out of VHIE.
+### Recommendation 2.3: Reframe the VA Health Summary as "Share your medical record with non-VA providers" and more closely associate it with opting into or out of VHIE.
 
 VA Health Summary was designed to give users a way to directly share their health summary with non-VA providers. Opting into VHIE was designed as a way for users indirectly share their health summary with non-VA providers. Today, this set of functionalities is not associated.
 
@@ -454,7 +461,7 @@ Next steps:
 
 _Associated findings: 7, 10_
 
-## Recommendation 2.4: Conduct generative user research with Veterans to better understand how to group medical records information for easy browsing and findability.
+### Recommendation 2.4: Conduct generative user research with Veterans to better understand how to group medical records information for easy browsing and findability.
 
 Our research provided evidence that finding specific pieces of data is difficult for users. As outlined in Finding 9, some of this is due to confusing IA and navigation. By better understanding how users group information, we can design a clearer IA and navigation structure to reduce the effort it takes to find the information you are looking for. Research for the unreleased Search My Record feature indicates that improving findability was well-received by users.
 
@@ -465,7 +472,7 @@ Next steps:
 
 _Associated findings: 7, 9_
 
-## Recommendation 3.1: For each category of medical records, identify and frequently present work to clinical SMEs in that area.
+### Recommendation 3.1: For each category of medical records, identify and frequently present work to clinical SMEs in that area.
 
 Our research provided evidence that for at least some categories of data, namely medications, there are many details that we must get right in the name of patient safety. While medications were the only category we found that had published guidelines for doing so, we did not definitively rule out the possibility that there were not similar considerations for other categories. Designing with clinical SMEs and then testing with users will help our teams proactively incorporate patient safety concerns into our designs.
 
@@ -477,7 +484,7 @@ Next steps:
 
 _Associated findings: 2_
 
-## Recommendation 3.2: Get sign off on designs from VA privacy team at the beginning and midpoint of each collaboration cycle for medical records.
+### Recommendation 3.2: Get sign off on designs from VA privacy team at the beginning and midpoint of each collaboration cycle for medical records.
 
 Our research provided evidence that the primary laws that apply to medical records concern keeping data safe and secure and providing access in a timely manner. To ensure our designs are meeting the requirements set out by these laws, teams should meet with the VA privacy team periodically to get feedback and sign off on our approach.
 
@@ -486,7 +493,7 @@ Next steps:
 
 _Associated findings: 4_
 
-## Recommendation 3.3: Develop a plan for users to maintain access to their historical eVault data on VA.gov.
+### Recommendation 3.3: Develop a plan for users to maintain access to their historical eVault data on VA.gov.
 
 Our research uncovered the notion that Veterans own data they have requested and been provided. Removing access to this data is akin to illegally seizing a private citizen's property. Therefore, we must develop a plan for users to retain access to the information currently stored in their eVault during and after the transition to VA.gov.
 
@@ -495,7 +502,7 @@ Next steps:
 
 _Associated findings: 5_
 
-## Recommendation 4: Integrate medical records with other services provided at the VA, starting with disabilities claims.
+### Recommendation 4: Integrate medical records with other services provided at the VA, starting with disabilities claims.
 
 During our research, we time and again heard that Veterans use medical records as important information for their disability claims. However, to use this data, they must download PDFs, search through them, and then provide them back to the VA when filing a claim. Given that both services are provided by the VA, we recommend exploring ways to reduce the burden on Veterans to make this connection.
 
@@ -504,3 +511,28 @@ Next steps:
 - Conduct interviews with disability claims SMEs to understand what data is most useful from medical records for disability claims.
 
 _Associated findings: 10_
+
+## Appendix
+
+### Documents
+
+- [Research plan] <https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-09-informational-interviews/research-plan.md>
+- [Conversation guide] <https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-09-informational-interviews/conversation-guide-data-focus.md>
+- [Interview transcripts] <https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/2022-09-discovery-research>
+- [Previous medical records research] <https://github.com/department-of-veterans-affairs/va.gov-team/blob/7312c648ff741593535535994cfac64c4cb374ab/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/1-background-research.md>
+
+### Tools used for Synthesis
+
+Mural: [Medical record discovery](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1661955319813?sender=uc3d00e74790ec52e1e689660&key=d09b9b8d-d516-4165-9971-6b64c1b25930)
+
+### Who we talked to
+- 6 experts from Bylight, the contractor responsible for building MHV
+  - 3 engineers
+  - 2 designers
+  - 1 product manager
+- 1 technical expert from OIT, Lighthouse APIs
+- 4 leaders from OCC
+  - 2 MHV Business Line Owners
+  - 2 Executive Leaders
+- 2 privacy experts from VHA Office of Information Access and Privacy
+- 3 pharmacy clinical experts
