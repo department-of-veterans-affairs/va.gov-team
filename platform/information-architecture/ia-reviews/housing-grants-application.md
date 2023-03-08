@@ -3,6 +3,7 @@
 - Edit history
      - 3/1/23: Doc created (MN), edits (JM)
      - 3/2/23: Updated site map image so proposed page is in orange
+     - 3/8/23: Edits (JM)
 
 **Team:** Digitize Team
 
@@ -32,7 +33,9 @@ The digital form will live next to the 'How to apply' page on the same level. Cu
 **1) H1 of page - New**
 - URL: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-26-4555
 - Breadcrumb: Home > Housing assistance > Housing grants > H1 of page
-- Notes: We are proposing "grant" in the link as an identifier for this form. We believe 'housing' may not be specific enough for this form and using acronyms, such as SAH or SHA, may not be easily recognizable by Veterans who are not yet familiar with the different forms. In addition, [information on /introduction]
+- Notes: We are proposing "grant" in the link as an identifier for this form. We believe 'housing' may not be specific enough for this form and using acronyms, such as SAH or SHA, may not be easily recognizable by Veterans who are not yet familiar with the different forms. 
+
+In addition, subsequent pages will add on to the above URL using short and simple labels, i.e. .../introduction/
 
 
 ## <a name="nav"></a>Entry points <br>
