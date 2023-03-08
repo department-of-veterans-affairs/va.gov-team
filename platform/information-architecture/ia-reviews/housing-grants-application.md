@@ -37,6 +37,10 @@ The digital form will live next to the 'How to apply' page on the same level. Cu
 
 In addition, subsequent pages will add on to the above URL using short and simple labels, i.e. .../introduction/
 
+An example of this can be seen in the following link
+
+www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/introduction 
+
 
 ## <a name="nav"></a>Entry points <br>
 
