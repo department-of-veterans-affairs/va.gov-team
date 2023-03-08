@@ -264,7 +264,7 @@ Use font awesome icon `file-medical` for icon
 
 ## Error States
 
-### Error State 1: The get user call fails (can't tell if user has VA health care or not)
+### Error State 1: The `GET/user/` user call fails (can't tell if user has VA health care or not)
 
 #### Visual specs
 - Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--warning#error) for the error message.
