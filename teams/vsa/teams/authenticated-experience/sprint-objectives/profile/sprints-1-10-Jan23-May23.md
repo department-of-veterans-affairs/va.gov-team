@@ -271,9 +271,10 @@ Sprint 6 Epic [#54553](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
 **BE - Tom**
 
 - Finish build and outstanding tickets!
-- Review changes with Mobile App Team (if not already done)
-- Vets-API Review with Adam
-- Integration Testing between FE and BE (Staging)
+- Review changes with Mobile App Team #54763 (2 pts)
+- Update Direct Deposit BE Documentation #54762 (3 pts)
+- Vets-API Review with FE (Adam) #54769 (2 pts)
+- Integration Testing between FE and BE (Staging) #54771 (4 pts)
 
 ### Notification preferences
 
