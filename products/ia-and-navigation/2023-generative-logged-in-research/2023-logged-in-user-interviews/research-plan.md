@@ -25,21 +25,23 @@ As well as the following 2023 objectives:
 The research covers a broad spectrum of VA services, and applies at any stage from Starting Up through Aging.
 
 ## Research Goals	
-What are you trying to learn from this research? 
+Our goal with this research is to identify problems and expectations with navigating the logged-in experience on VA.gov.
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+* How do people find tasks they need to complete? 
+* How do they do this without the homepage/My VA links?
+* How can we make the site easier to navigate for logged-in users?
+* What level of personalization do people expect in the navigation after they’ve logged in?
+* How do navigation needs and expectations differ between user types?
 
 ### Hypothesis
-- People will struggle finding what they’re looking for if they can’t use the homepage or My VA to find it
+- People will struggle finding what they’re looking for if they can’t use the homepage or My VA.
+- People will expect a level of personalization similar to what we have today in the overall main navigation, but will expect more options in the name drop down menu.
+- Navigation needs and expectations will be similar across user types.
 
 ## Methodology	
 This will be a moderated usability study conducted remotely over Zoom.
@@ -48,7 +50,6 @@ This will be a moderated usability study conducted remotely over Zoom.
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/2023-logged-in-user-interviews/conversation-guide.md) 
 	
 ## Recruitment	
-
 OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
 
 Before writing your recruitment criteria, be sure to review the following resources. 
@@ -115,39 +116,3 @@ Please list the people who will be serving in each role.
 	- derrick.ellerbie@agile6.com
 	- ana@adhocteam.us 
 	- allison@cityfriends.tech
-
------
-
-- When do people login in a given flow (eg. right away, after finding a prompt in a content page, etc)?
-
-**Outstanding question**: What sign in CTA(s) do people use (homepage, content page, main nav), and how easily they find these prompts?
-
-**Outstanding question**: Does "sign in" or "create an account" make a difference? How important is it to differentiate between signing in and creating an account in calls to actions?
-
-**Outstanding question**: Do people feel the site is only too generic when they are logged-in (assuming yes)? What level of personalization do they expect in the navigation?
-
-**Outstanding question**: Is the problem with navigation the main nav, lengthy content pages (assume CTA is not on My VA or homepage), or both (or something else)?
-
-**Outstanding question**: Does the homepage need to exist in a logged-in state? Can My VA replace it?
-
-**Outstanding question**: Does this hold up when we add the layer of a visual navigation on top of a tree test? Is the delineation about "Get" and "Manage", or something else?
-
-**Outstanding question**: What other wayfinding methods besides navigational terms should we consider?
-
-**Outstanding question**: Is using the mobile app nav as a model for VA.gov a good idea? Given the inherent difference in these mediums, where is the line between how they should be similar and how they should and need to differ?
-
-
-**Outstanding question**: How do needs and expectations around moving through VA.gov differ between user types (eg. veterans vs. service members vs. families/caregivers/dependents)?
-
-What are peoples expectations from search when they’re already logged in?
-
-When do people login in a given flow (eg. right away, after finding a prompt in a content page, etc)?
-2. What sign in CTA(s) do people use (homepage, content page, main nav), and how easily they find these prompts?
-3. Does "sign in" or "create an account" make a difference?
-4. Do people feel the site is only too generic when they are logged-in (assuming yes)? What level of personalization do they expect in the navigation?
-5. Is the problem with navigation the main nav, lengthy content pages (assume CTA is not on My VA or homepage), or both (or something else)?
-6. Does the homepage need to exist in a logged-in state? Can My VA replace it?
-7. Does "Get" and "Manage" delineation hold up when we add the layer of a visual navigation on top of a tree test? 
-8. What other wayfinding methods besides navigational terms should we consider (eg. alert indicators)?
-9. Is using the mobile app nav as a model for VA.gov a good idea? Given the inherent difference in these mediums, where is the line between how they should be similar and how they should and need to differ?
-10. How do needs and expectations around moving through VA.gov differ between user types (eg. veterans vs. service members vs. families/caregivers/dependents)?
