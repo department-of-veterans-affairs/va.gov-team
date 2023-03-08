@@ -49,3 +49,41 @@ The purpose of this research was
 - What information in medical records do users access most frequently? What is their primary mode of access?
 
 - What parts of medical records cause Veterans the most frustration?
+
+## Key Findings
+
+### Data
+
+**Finding 1:** There are roughly 13 categories (aka domains) of data included as part of medical records today. A few examples of categories are clinical notes, allergies, and immunizations. Each category's data is pulled individually and possibly from different databases.
+
+**Finding 2:** By VHA policy, some data is not released to patients as soon as it is available.
+
+- Data from six domains are held for 36 hours after becoming available 
+
+- Some records must be "signed" before releasing to a patient, such as progress notes
+
+There may be more policies that apply to records release.
+
+**Finding 3:** We should conduct further technical discovery into which sources of medical records data will best meet the needs of modernized medical records applications in VA.gov. Options uncovered include: (1) PHR Manager, MHV's current API; (2) Lighthouse's Health APIs, (3) Cerner. There are advantages and disadvantages to each. It will be critically important to ensure that Veterans will see the same content regardless of which interface they use (VA.gov web, flagship mobile, MHV, Apple Health, etc.)
+
+### Laws and policies
+
+**Finding 4:** We were unable to locate any laws that strictly define what is required to be included as part of a medical record. Laws are primarily focused on keeping PHI safe and secure, and ensuring a patient's access to their own data.
+
+**Finding 5:** Because VA policy states that patients own data they have requested and been provided, we must ensure that users retain access to all of the data that lives in their MHV eVault, during and after the transition from MHV to VA.gov.
+
+**Finding 6:** The only policy we located that placed requirements on data display was VHA Directive 1164, which outlines "Essential Medication Information Standards."
+
+### Product history
+
+**Finding 7:** Blue Button, VA Health Summary, and VA Medical Images and Reports are the primary ways to access medical records. They are similar on the surface but were designed for very different purposes. Blue Button Reports are meant to serve as a way for patients to download and own their complete medical record. VA Health Summary is an HL7 based Clinical Care Document (CCD) that was meant to be shared electronically with non-VA providers. VA Medical Images and Reports were designed to specifically give access to both written reports of prior imaging procedures and the associated actual DICOM image files. 
+
+**Finding 8:**  Blue Button is not a VA specific branding choice. It is a government-wide initiative to allow citizens easy access and ownership of their personal health information. We did not find any mandate that says we must maintain the Blue Button branding moving forward. We should continue to evaluate how Veterans identify with this brand, and how we can make it clear to them what Blue Button means.
+
+### Medical records usability
+
+**Finding 9:** MHV does not provide an easy way to find or view individual pieces of medical records data, such as a single lab report or progress note.
+
+**Finding 10:** There are three ways to share medical records with an outside provider in MHV: printing and sharing by hand, sending via direct message, or opting into the Veteran's Health Information Exchange (VHIE). Each method has significant usability issues, and it is also not clear to users which method to use when. 
+
+**Finding 11:** Based on analytics, the most frequently requested data from Blue Button are progress notes, followed by labs, appointments and prescriptions. Whether a user views information in browser or downloads it is dependent on whether they use Blue Button, VA Health Summary, or VA Medical Images and Reports.
