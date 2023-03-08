@@ -256,5 +256,5 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Debrief to my spreadsheet
 
 ## Approvals
-- Reviewed and approved by Dave Conlon (PO) on Mar 8, 2023
-- Reviewed and approved by Shane Strassberg on date TBD
+- Dave Conlon (PO) on Mar 8, 2023
+- Shane Strassberg on date TBD
