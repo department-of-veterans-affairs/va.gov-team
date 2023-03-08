@@ -57,10 +57,11 @@ ________________________________________________________________________________
       - We need to find out where this work is on the VeText roadmap
       - Should we work on the text content?
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
-      - [[Design] Create wireframes for app with appointments list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52486)
+      - [[Design] Finish initial wireframes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54768)
       - [[FE] Setup codepen templates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54556)
       - [[Design] Migrate unified experience wireframes to 375 width](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54581)
       - [[Design] Add in travel reimbursement into check in wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54572)
+      - [[Design] Pull in additional screens that need to be updated](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54750)
       - Create sitewide/IA ticket & set up meeting
       - Submit midpoint review ticket
       - Complete research review section of collab cycle ticket
