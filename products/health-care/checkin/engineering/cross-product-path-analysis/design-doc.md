@@ -297,6 +297,7 @@ No PHI needs to be stored to meet the design requirements, and very limited PII.
 - [Introduction to Vega Visualizations with Kibana](https://www.elastic.co/blog/getting-started-with-vega-visualizations-in-kibana)
 - [Basic funnel chart in Vega](https://stackoverflow.com/questions/60444288/draw-funnel-chart-in-vega-vega-lite)
 - [ElasticSearch Transforms Tutorial](https://www.elastic.co/guide/en/elasticsearch/reference/master/ecommerce-transforms.html)
+- [Transform examples](https://www.elastic.co/guide/en/elasticsearch/reference/current/transform-examples.html)
 
 ### Future Work
 
