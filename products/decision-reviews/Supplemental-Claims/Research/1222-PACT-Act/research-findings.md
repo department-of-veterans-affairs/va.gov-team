@@ -99,8 +99,6 @@ One participant thought they could use a Supplemental Claim for a worsening cond
 
 ![sitewide-intro.png](images/sitewide-intro.png)
 
-![sitewide-presumptive.png](images/sitewide-presumptive.png)
-
 > "Ahh that first one. You have new or relevant evidence. A lot of people don't know it. A lot of people don't know you can get more evidence and apply it. When I first started I thought the only way to do it was the HLR then go to the board... well, file a Supplemental. You can't ADD new evidence if it goes to HLR.”
 > 
 
