@@ -141,7 +141,8 @@ Could you try to use this to find out if you're eligible for VA health care with
 Let's talk before you click anywhere...What are your impressions of this page?
 What do you think you can do here?
 
-Do you think this tool would be useful for you or not? Why? 
+Do you think this tool would be useful for you or not? WHY?
+*(want to get a sense for HOW useful it might be for them)*
 
 If not, who would it be useful for?
 
@@ -158,6 +159,7 @@ How would you use this? Please talk me through what you would do, but not click 
   - *# of Dependents--*
   - *Back, Continue buttons--*
   - *Review your information screen--*
+  - *The year 2022 vs. 2023--*
 
 ### Task 5: [Results screen]
 What are your impressions of this page? *(RECORD what they say)*
@@ -188,14 +190,15 @@ What if your income was $100,000? *(RECORD)*
 
 *RECORD: any comments about deductions--*
 
-*RECORD: any comments about the year 2022--*
+*RECORD: any comments about the year 2022 vs. 2023--*
 
-- *RECORD: any comments about wanting to see questions answered (zip code, # dependents)--*
+*RECORD: any comments about wanting to see questions answered (zip code, # dependents)--*
 
 
 ### Task 6: [What next]
-Please stay on this screen. What do you think about this information and your question of eligibility for VA health care?
+Please stay on this screen. Based on what you see in this screen, what do you think about this information and your question of eligibility for VA health care?
 - *RECORD what they say: definitive answer / only part of the answer / need to apply to know for sure / _____________*
+- *Make sure that participant is talking about what they're seeing in the app,* not *what they knew before this session!*
 
 How would you decide what to do next? 
 
@@ -251,5 +254,5 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Debrief to my spreadsheet
 
 ## Approvals
-- Reviewed and approved by Dave Conlon (PO) on date TBD
+- Reviewed and approved by Dave Conlon (PO) on Mar 8, 2023
 - Reviewed and approved by Shane Strassberg on date TBD
