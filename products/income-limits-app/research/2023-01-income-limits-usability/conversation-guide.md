@@ -234,6 +234,8 @@ Suppose that you’re in the process of appealing a health care claim from 2021,
 
 I want to let you know that we're still working out some of the details for what I've shown you today, so I'm going to ask you to **NOT** *rely on the accuracy of the information that you've seen*, in case it's not correct.
 
+*(If they ask how to find out more, give them the phone number for... )*
+
 ## Thank You and Closing - 1 minute
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
