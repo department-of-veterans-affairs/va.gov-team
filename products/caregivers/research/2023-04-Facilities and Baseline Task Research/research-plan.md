@@ -37,7 +37,7 @@ Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov
 
 
 ### Veteran Journey
-This product fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf):
+This product fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) during the following stages:
 
 - Taking care of myself
 - Aging
@@ -86,17 +86,24 @@ This research will test the updates to the VA Facility question content, page fl
 
 
 
-### Hypothesis
+### Hypotheses
 
 **Hyphotesis 1**
+
 Our hypothesis is that users will understand what they are selecting on the facilities page and how that impacts the caregiver applicaiton process. The participants will find the confirmation page to be helpful and informative and it will not add it more complexity or confusion. 
 
 **Hyphotesis 2**
-Our hypothesis is that users will be able to navigate through the facility selection relatively easily, but may have issues with the following:
-- The number of results shown
-- A desire to filter results and how
-- Not recognizing the name of the facility they are looking for 
+
+Our hypothesis is that users will be able to navigate through the facility selection relatively easily, but might have issues with the following:
 - Understanding the difference between community and VA facilities/Caregiver Support Facilities
+- The number of results shown
+- A desire to filter results and how to filter
+- Not recognizing the name of the facility they are looking for/overlooking address 
+
+
+**Hyphotesis 3**
+
+Our hypothesis is that participants in this study will also echo previous research findings around confusion about who qualifies as a primary or secondary caregiver and why certain information is asked, such as insurance, or how it impacts the application. 
 
 
 
@@ -114,16 +121,10 @@ Remote via Zoom
 
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/research/2023-03-Baseline%20Task%20Research/conversation-guide.md)
-- [Link to staging](url goes here)
+- [Link to staging](https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg)
 
 
 ## Recruitment	
-
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 
 ### Recruitment approach
@@ -140,14 +141,40 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 
 
 
-
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+
+#### Veterans
+
+
+
+
+**For recruiting 3 screen reader users**
+- (a) Do you need to use assistive technology to use the internet such as VoiceOver on an Apple device, TalkBack on an Android device, or JAWS on a computer? (Proceed to question b if yes, if no, disqualify)
+- (b) Are you able to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
+
+
+
+#### Caregivers / Family Members
+
+
+
+
+
+### Screener questions
+
+
+
+
+
+**For recuriting 4 mobile users**
+
+- Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. (Answer should be yes to satisfy criteria for 4 mobile users)
+
 
 Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
   Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
 
 
 
