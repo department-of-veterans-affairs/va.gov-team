@@ -276,7 +276,7 @@ Most participants expected a way to download a copy of their completed form when
 4. Change the language and specificity to the ‘print this page’ button on the confirmation
 5. Provide more explanation about the old appeals process on the new decision reviews process page
 6. Provide more clarity for those applying for presumptive conditions on the evidence summary language
-7. Explore into other possible wayfinding solutions for the form system, and non-linear form experiences. The progress bar does not help Veterans track where they are in the process when navigating back and forth through the form
+7. Explore into other possible wayfinding solutions for the form system, and non-linear form experiences. The progress bar does not help Veterans track where they are in the process when navigating back and forth through the form. Possibly something simiilar to the [task lisk](https://design-system.service.gov.uk/patterns/task-list-pages/) in the uk.gov system.
 
 ## Next Steps
 
