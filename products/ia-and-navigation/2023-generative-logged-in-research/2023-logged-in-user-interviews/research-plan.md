@@ -63,46 +63,44 @@ We’ll use Perigean to recruit participants.
 
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+Please recruit 15 participants for a total of 10 completed sessions. 
 
-**Primary criteria (must-haves)**
+- 7 participants should be Veterans
+- 4 participants should be Primary Caregivers for a Veteran (OK if they are also Veterans themselves)
+- 4 participants should be dependents of Veterans who receive a benefit through VA (e.g. for example health care or education benefits)
 
 
 
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
-
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
+We’ll be using VA.gov, which is already live and ready to go.
 
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+* Pilot participant email: TBD
+* Date and time of pilot session:  TBD
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: March 30 - April 4
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+* Session length: 30 minutes
+* Buffer time between sessions: 30 minutes
+* Maximum Sessions per day: 4
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+- March 30, 10am-5pm, and 7:30pm-9pm
+- March 31, 7:30am-4pm 
+- April 3, 10am-5pm, and 7:30pm-9pm
+- April 4, 7-7:30am, 10am-5pm, and 7:30pm-9pm
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
 - Moderator: Liz Lantz
 - Research guide writing and task development (usually but not always same as moderator): Liz Lantz
 - Participant recruiting & screening: Perigean
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
+- Project point of contact: Liz Lantz
+- Participant(s) for pilot test:TBD
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	TBD
 - Note-takers: TBD
 - Observers:	
 	- samara.strauss@va.gov
