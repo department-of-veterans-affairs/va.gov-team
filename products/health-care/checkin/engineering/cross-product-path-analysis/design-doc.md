@@ -271,7 +271,7 @@ TBD
 No PHI needs to be stored to meet the design requirements, and very limited PII. The following mitigations are recommended to limit risk of PII/PHI disclosure:
 
 - carefully construct log filters to ensure only required data is forwarded to OpenSearch
-- host OpenSearch within a private VPC, only system access to authorized personnel on the VA Network
+- host OpenSearch within a private VPC, only allowing system access to authorized personnel on the VA Network
 - consider encrypting any unique identifiers like ICNs as necessary
 
 
