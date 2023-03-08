@@ -4,25 +4,34 @@
 
 ### Stand-up
 Check on people and work progress.
-- Daily at 12pm ET
-- 30 min
+- Daily at 12:05pm ET/9:05am PT
+- 25 min
 
-### Backlog Refinement
-Review and estimate backlog items. Review priorities of current and upcoming work.
-- Weekly on Wednesdays at 12pm ET
-- 1 hr
+Attendees: Development team, Product Team, Design Team and Product Owners 
+Optional: VAMF team/Telehealth Scheduling Team 
 
+### User story review and estimation 
+Review and estimate backlog items. R
+- Weekly on Wednesdays at Daily at 12:05pm ET/9:05am PT
+- 30 mins - 1 hr
+
+Attendees: Development team, Product Team, Design Team and Product Owners 
 
 ### Retro
 Reflect on prior cycles: accomplishments, what went well, what can be improved, what questions people have, action items.
-- Every 2 weeks on Tuesdays at 12pm ET
-- 1 hr
+- Every 2 weeks on Tuesdays at 4:05pm ET/1:05 pm PT 
+- 25 mins
 
+Attendees: Development team lead by the engineering lead
+Optional: Product Team and Product Owners
 
 ### Demo
 A safe space for dev team to demo in-progress or completed work.
-- Every 3rd Monday of the month at 2pm ET
+- Every 3rd Monday of the month at 2pm ET/10 am PT
 - 1 hr
+
+Attendees: Development team, Product Team, Design Team and Product Owners 
+Optional: VAMF team/Telehealth Scheduling Team 
 
 ## Issue Etiquette
 
