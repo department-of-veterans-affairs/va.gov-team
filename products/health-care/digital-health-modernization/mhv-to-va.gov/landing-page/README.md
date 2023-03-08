@@ -67,3 +67,4 @@ Consider booking a doctor’s appointment: One system locates nearby facilities.
 
 
 ### After
+<img width="551" alt="image" src="https://user-images.githubusercontent.com/69174644/223727400-c71c0629-61c6-4f03-a029-431c67fedd5f.png">
