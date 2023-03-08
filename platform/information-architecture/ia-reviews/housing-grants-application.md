@@ -24,8 +24,7 @@
 ## <a name="map"></a>Page structure<br>
 The digital form will live next to the 'How to apply' page on the same level. Currently, the eBenefits form is housed under 'How to apply', but we have removed links to this feature from the proposed site map below. This form will need to be retired and redirected accordingly, so we recommend working with stakeholders to ensure this flow is accounted for.
 
-![Screenshot 2023-03-02 at 10 59 54 AM](https://user-images.githubusercontent.com/122128479/222499107-f692b24b-950c-409e-bba1-92c088a08571.png)
-
+<img width="601" alt="Screenshot 2023-03-08 at 4 45 07 PM" src="https://user-images.githubusercontent.com/122128479/223868530-52736140-58bd-44ad-a479-cd07f3e75036.png">
 
 
 ## <a name="url"></a>URLs and breadcrumbs
