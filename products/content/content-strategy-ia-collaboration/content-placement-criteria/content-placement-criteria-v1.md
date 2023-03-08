@@ -43,6 +43,7 @@ Content should be evaluated at a granular level - in other words, content that h
   - **Example 2:** A Veteran must submit an application to get Post-9/11 GI Bill benefits. If the Veteran then wants to extend those benefits through the Edith Nourse Rogers STEM Scholarship, they must submit another  application specifically for the scholarship. Based on this, you would answer "Yes" for both content about the Post 9/11 GI Bill benefits and content about the Edith Nourse Rogers STEM Scholarship.
  </details>
  
+ 
  <details>
  <summary>Read examples of second requirement</summary>
  
@@ -57,7 +58,7 @@ Content should be evaluated at a granular level - in other words, content that h
  - The content's primary home may be in Resources and Support. Continue to criteria 3.
 
 - **Yes, the content does meet both of the requirements** 
-- The content's primary home should be in a VA.gov benefit hub. 
+  - The content's primary home should be in a VA.gov benefit hub. 
 
 
 ## Criteria 3: Content must at least one of these requirements
@@ -73,7 +74,7 @@ Content should be evaluated at a granular level - in other words, content that h
 
 - **No, the content does not meet any of the above requirements** 
   - The content needs to be discussed with the VA.gov content team to determine where it should live.
-- **Yes, the content meets at least one of the above requirements
+- **Yes, the content meets at least one of the above requirements**
   - The content's primary home should be in Resources and Support
 
 
