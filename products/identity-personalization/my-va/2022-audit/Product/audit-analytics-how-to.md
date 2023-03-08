@@ -3,7 +3,7 @@ Last updated: March 7, 2023
 
 This document serves as a guide for Google Analytics tracking on My VA, post-launch of the audit UX improvements implementation.
 
-|  **My VA section**     |  **  Text of link or button as it appears on My VA **  | **Screenshot** |** Google Tag / Event name**| 
+|  **My VA section**     |  **Text of link or button as it appears on My VA**  | **Screenshot** |**Google Tag / Event name**| 
 |--------------------|----------------------------------------------------|------------|-------------------------|
 | Claims and Appeals | Manage all claims and appeals                      |  link      |	Navigation - Link List - Claims and appeals - Manage all claims and appeals |
 | Claims and Appeals | Review details (click into individual claims)      |  link      | Navigation - View Button - View Claim |
