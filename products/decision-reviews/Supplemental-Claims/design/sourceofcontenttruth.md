@@ -462,7 +462,7 @@ If you’re filing a Supplemental Claim more than 1 year after you got your deci
 
 **_CONTINUE_**
 
-_Warning_
+_Error_
 
 #### Authorize your doctor to release your records or upload them yourself
 If you want us to request your private medical records from your doctor, you must authorize the release.
@@ -694,10 +694,13 @@ Remove
 
 **_CONTINUE_**
 
-_Error_
+_Warning alert:_
 
-#### You haven't uploaded any evidence
-You must provide at least 1 type of supporting evidence before you can continue filling out your request.
+### We noticed you didn't add new evidence
+
+If you’re filing a claim based on new evidence, we encourage you to submit the evidence with your claim. But if you don't have the evidence now, you can still file your claim. We'll work with you to get the evidence.
+
+**Note:** If you have a presumptive condition, you don’t need to submit evidence to prove a service connection.
 
 ----------------------------------------------
 
@@ -1102,124 +1105,5 @@ If you need help with this form, call us at <a href="tel:+18006982411" aria-labe
 _Error_
 
 #### We're missing some of your personal information
+
 You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure your Social Security number and date of birth are on file. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
-
----
-
-## STEP 3 of 4: New evidence
-
-We'll save your application every time you add or update information.
-
-_Informational alert:_
-
-### If you have a presumptive condition
-
-If you're filing a claim for a condition that we now consider presumptive under a new law or regulation (like the PACT Act), you don't need to submit new evidence. But you do need to review and acknowledge this notice of evidence needed. 
-
-**Review and acknowledge this notice of evidence needed.**
-
-Unless you're filing a claim for a presumptive condition, we encourage you to submit new evidence. This evidence must be related to the issue you’re claiming, and it must be evidence we haven't reviewed before.
-
-We’ll look for evidence that shows both of these are true:
-
-You have a current physical or mental disability (damage to your body or mind that makes you less able—or totally unable—to do everyday tasks, including meaningful work), **and**
-
-An event, injury, or illness that happened while you were serving in the military caused this disability
-
-You'll need to submit or give us permission to gather medical evidence from a VA medical center, other federal facility, or your private health care provider.
-
-- [ ] I certify that I have reviewed the notice of evidence needed. (*Required)
-
-**_BACK_**
-
-**_CONTINUE_**
-
-_Error_: You need to certify that you've reviewed the notice of evidence needed.
-
----
-
-## STEP 3 of 4: New evidence
-
-We'll save your application every time you add or update information.
-
-_Warning alert:_
-
-### We noticed you didn't add new evidence
-
-If you’re filing a claim based on new evidence, we encourage you to submit the evidence with your claim. But if you don't have the evidence now, you can still file your claim. We'll work with you to get the evidence.
-
-**Note:** If you have a presumptive condition, you don’t need to submit new evidence with your claim.
-
-Action Link: Add more evidence
-
-**_BACK_**
-
-**_CONTINUE_**
-
----
-
-## Step 4 of 4: Review
-
-We’ll save your application every time you add or update information.
-
-**Veteran information**
-
-Contact information
-
-Edit
-
-Home phone number
-
-Mobile phone number
-
-Email address
-
-Street address
-
-City
-
-State
-
-Primary phone number
-
-Edit
-
-Home/Mobile phone number
-
-**Issues for review**
-
-Edit
-
-Issue
-
-Decision date
-
-Opt In
-
-Edit
-
-I understand that if I want any issues reviewed that are currently in the old appeals process, I’m opting them in to the new decision review process.
-
-Yes, I choose to opt in to the new process / No, I choose to stay in the old process
-
-**New and relevant evidence**
-
-Notice of evidence needed
-
-Edit
-
-I certify that I have reviewed the notice of evidence needed.
-
-New evidence
-
-Edit
-
-I didn't add any evidence.
-
-**Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
-
-- [ ] I have read and accepted the privacy policy. (*Required)
-
-**_Submit your claim_**
-
-**_Back_**
