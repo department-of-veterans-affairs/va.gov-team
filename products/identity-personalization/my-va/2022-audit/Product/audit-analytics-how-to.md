@@ -1,4 +1,4 @@
-# My VA Analytics Overview
+# My VA Analytics How-To
 Last updated: March 7, 2023
 
 This document serves as a guide for Google Analytics tracking on My VA, post-launch of the audit UX improvements implementation.
