@@ -290,6 +290,13 @@ No PHI needs to be stored to meet the design requirements, and very limited PII.
 
 ### Alternatives
 
+### References
+
+- Sankey Diagrams with Vega in Kibana/OpenSearch: [link 1](https://www.elastic.co/de/blog/sankey-visualization-with-vega-in-kibana), [link 2](https://gist.github.com/XavierGimenez/82ed6db55ade843c51ee062852b5313e)
+- [Alerting with OpenSearch](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/alerting.html)
+- [Introduction to Vega Visualizations with Kibana](https://www.elastic.co/blog/getting-started-with-vega-visualizations-in-kibana)
+- [Basic funnel chart in Vega](https://stackoverflow.com/questions/60444288/draw-funnel-chart-in-vega-vega-lite)
+- [ElasticSearch Transforms Tutorial](https://www.elastic.co/guide/en/elasticsearch/reference/master/ecommerce-transforms.html)
 
 ### Future Work
 
