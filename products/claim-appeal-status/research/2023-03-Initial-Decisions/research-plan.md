@@ -23,13 +23,13 @@ This work touches on various aspects of the Veteran Journey. These findings will
 ## Research Goals	
 With this research, we want to speak to Veterans who are currently waiting for decisions on disability compensation claims they filed on VA.gov. We want to understand what's working and what's not working about the CST experience while they are waiting for this claim. 
 
-There are a couple key areas we are specifically curious about:
+In particular, there are three areas will be looking at especially carefully: 
 
-- We want to understand what information Veterans specifically want to know to stay informed as their claim goes through the initial decision process.
+- We want to understand **what information Veterans specifically want to know to stay informed** as their claim goes through the initial decision process.
 
-- We want to understand the experience Veterans have with requests to provide additional evidence. We want to find opportunities to help veterans provide better evidence in support of their, earlier in the process.
+- We want to understand **the experience Veterans have with requests to provide additional evidence.** We want to find opportunities to help veterans provide better evidence in support of their, earlier in the process.
 
-- We want to understand the experience Veterans have with requests for C&P exams. We want to find opportunities to set the right expectation for Veterans going to C&P exams.
+- We want to understand **the experience Veterans have with requests for C&P exams.** We want to find opportunities to set the right expectation for Veterans going to C&P exams.
 
 ### Outcome
 Hopefully by the end of this study we will have a better idea of: 
@@ -43,7 +43,7 @@ Part 1: Warm up
 - How long have you been using VA.gov?
 - Do you interact with the VA in other ways – in person, on the phone?
 - Do you currently have a claim in progress on VA.gov? (They should.)
-- How long ago did you file this claim? 
+- About how long ago did you file this claim? 
 
 Part 2: Login in to VA.gov
 - [Navigating to CST] Tell me what you see here.
@@ -51,8 +51,7 @@ Part 2: Login in to VA.gov
 - On a scale of 1-5, how clear would you say the status of this claim is?  
 - Is there any action that you think you need to take here? What makes you think that?
 - Do you have a clear sense of what other actions will be required from you as this claim goes through the review process? Why or why not?
-- Did you do a C&P exam as part of the claim process? How was that? 
-- How did you know that you had to do a C&P exam? 
+- Did you do a C&P exam as part of the claim process? If yes, how did you know that you had to do that? 
 - What is the most confusing part of this web page?
 - What is the most helpful part of this web page? 
 
@@ -63,8 +62,8 @@ Part 2: Login in to VA.gov
 
 ## Methodology	
 
-**Semi-structured interviews** 
-The interviewer will ask the Veterans a series of questions with the goal of learning more about what they like or dislike in CST. This will give the team more insight about what specifically would be the most valuable UI additions to CST.
+**Very loosely semi-structured interviews**
+The primary goal of this research is to get the participants' honest, visceral reaction to a live CST environment with their real claims. As such, there are specific prompts and focus areas that will help guide the discussion (see above) but the format will be highly conversation, and hopefully highly collaborative between moderator and participant. 
 
 ### Location
 Remote on Zoom
