@@ -25,6 +25,8 @@ ________________________________________________________________________________
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
       - Address Collab Cycle feedback
+         - [[FE] Clicked on details link after 15 mins past appt time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53862)
+            - Testing only
          - [[FE][Design] [Other - Accessibility] aria-label text string should begin with visible text.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54483)
          - [[FE] [Content organization] Content organization and/or information within the user flow doesn't properly support all users. (02.07.1)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54482)
          - [[FE][Design] [Components and pattern standards] Design components or patterns don't align with Design System guidelines. (04.07.1)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54481)
@@ -58,7 +60,6 @@ ________________________________________________________________________________
          - Just need to incorporate the text into Sketch & Absract     
    - **Sub Goal: [Send Check-in Text 45 Minutes Before Appointment to encourage use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)**
       - We need to find out where this work is on the VeText roadmap
-      - Should we work on the text content?
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
       - [[Design] Finish initial wireframes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54768)
       - [[FE] Setup codepen templates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54556)
@@ -75,7 +76,8 @@ ________________________________________________________________________________
       - [Research] Analyze GA Metrics
       - [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54282)
    - **Sub Goal: Create Cross-Product Veteran Path Analysis**
-      - No work this sprint; we will present MVP proposal to Stephen & decide next steps
+      - [[FE] Create Proposal for an MVP for a Cross-Product Path Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54021)
+         - Finish proposal and present to Stephen & decide next steps
 - **GOAL: Address tech debt** 
    - [[FE] Issue with accordion on pre check in confirmation page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54719)
    - **_Optional Tech Debt (these items are not in the current sprint but can be pulled in)_**
