@@ -128,13 +128,13 @@ Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions**
 
 ### Prepare
 Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. I am available for a kickoff call during any of these times (all in ET): 
-- **Mar TBD**: TIMES TBD
+- **Mar TBD**: TIMES TBD that work for Cindy AND Wes
 - **Mar TBD**: TIMES TBD
 - **Mar TBD**: TIMES TBD
 
 **Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so I can review it beforehand.
 
-I will schedule the following two **pilot tests**:
+I have scheduled the following two **pilot tests**:
 - Pilot 1: **Mar 13 at 4 pm ET** with Katie Riddle (katherine.riddle@adhocteam.us)
 - Pilot 2: **Mar 14 at 5 pm ET** with Greg Monahan (greg.monahan@adhocteam.us)
 
@@ -165,7 +165,7 @@ Please list the people who will be serving in each role.
 - Moderator: Cindy Merrill (cindy.merrill@adhocteam.us)
 - Research guide writing and task development: Cindy Merrill 
 - Participant recruiting & screening: Perigean	
-- Project point of contact: Cindy Merrill (unavailable Mar 27-31 due to PTO--Wes Rowe will be point of contact so please include in slack channel)
+- Project point of contact: Cindy Merrill (unavailable Mar 27-31 due to PTO; Wes Rowe will be point of contact for this week, so please include him in the study slack channel)
 - Participant(s) for pilot test: Katie Riddle (katherine.riddle@adhocteam.us) and Greg Monahan (greg.monahan@adhocteam.us)	
 - Note-takers: Perigean	(in github)
 - Observers: Jordan Wood (jordan.wood@civicactions.com), Dave Conlon (david.conlon@va.gov), Wes Rowe (wesley.rowe@agile6.com). Other observers will need to sign up so we can limit the number of observers per session.
