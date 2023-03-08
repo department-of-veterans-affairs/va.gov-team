@@ -7,6 +7,8 @@ In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year.
 - Enhance Veterans' personalized online experience
 - Integrate the health portal features into VA.gov
 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/6372446cc08d209e625a399cfc945537d588cd78/products/va-notify/images/objectives%202023.png)
+
 ## 500 foot view: VA Notify team goals 
 Our goals are tied to one or more of our themes:
 * Self Service / Governance
