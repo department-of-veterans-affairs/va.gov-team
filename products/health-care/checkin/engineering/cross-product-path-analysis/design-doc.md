@@ -303,6 +303,12 @@ No PHI needs to be stored to meet the design requirements, and very limited PII.
 - [ElasticSearch Transforms Tutorial](https://www.elastic.co/guide/en/elasticsearch/reference/master/ecommerce-transforms.html)
 - [Transform examples](https://www.elastic.co/guide/en/elasticsearch/reference/current/transform-examples.html)
 
+#### Importing datadog CSV exports to elasticsearch with elasticdump
+
+```bash
+# `NODE_TLS_REJECT_UNAUTHORIZED=01 is only required if you need to skip certificate validation
+NODE_TLS_REJECT_UNAUTHORIZED=0 elasticdump --input=csv:///path/to/file/extract-2023-03-03T18_27_48.189Z.csv --output=https://username:password@localhost:9200/index_name
+```
 
 ## Revision History
 
