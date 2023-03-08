@@ -274,21 +274,30 @@ No PHI needs to be stored to meet the design requirements, and very limited PII.
 - host OpenSearch within a private VPC, only allowing system access to authorized personnel on the VA Network
 - consider encrypting any unique identifiers like ICNs as necessary
 
-
 ### Open Questions and Risks
 
 - Datadog Log Forwarding Release timeline - slated for late Q1/early Q2, but could potentially slip ([ref](https://dsva.slack.com/archives/C01G6J7UGGH/p1677770499238659?thread_ts=1677694697.304329&cid=C01G6J7UGGH))
-- 
-
+- Ongoing hosting costs have not been estimated - it's possible that resource usage could be significant to store and analyze all relevant log events for months at a time
 
 ### Work Estimates
 
-
 | Scope       | Estimate       |
 | ----------- | -------------- |
-
+| OpenSearch setup, VPC configuration, DevOps config | 2 weeks |
+| Configure data transformations for day-of check-in | 1.5 weeks |
+| Build Sankey Visualization for day-of check-in | 1 week | 
+| Configure log forwarding for relevant events on all DataDog instances | 1 week |
+| Build API endpoint to retrieve unified event logs by ICN and date | 2 weeks |
 
 ### Alternatives
+
+#### Dual log shipping
+
+- A tool like [Vector](https://github.com/vectordotdev/vector) could be used to ship logs both to the current datadog instances and the chosen analysis solution (whether OpenSearch or something else) - This would increase effort and configuration tech debt, but provide increased control/visibility into the solution and is actionable without waiting for DataDog to ship log forwarding for Government.
+
+#### Bespoke solution
+
+- Events could be shipped (perhaps again via Vector) via a new API endpoint to a relational database. (likely an RDS instance of some flavor) At that point, analysis could be performed by creating SQL queries and visualizing the data with any tool preferred. This solution would provide the ultimate flexibility, but would require careful structuring to ensure good performance, and require a good deal more implementation and maintenance effort.
 
 ### References
 
@@ -298,10 +307,6 @@ No PHI needs to be stored to meet the design requirements, and very limited PII.
 - [Basic funnel chart in Vega](https://stackoverflow.com/questions/60444288/draw-funnel-chart-in-vega-vega-lite)
 - [ElasticSearch Transforms Tutorial](https://www.elastic.co/guide/en/elasticsearch/reference/master/ecommerce-transforms.html)
 - [Transform examples](https://www.elastic.co/guide/en/elasticsearch/reference/current/transform-examples.html)
-
-### Future Work
-
-* Provide API 
 
 
 ## Revision History
