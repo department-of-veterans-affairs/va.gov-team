@@ -48,6 +48,7 @@ ________________________________________________________________________________
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
    - **Sub Goal: [Send to Check-in when Pre-Check-in link is accessed inside check-in window](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)**
       - [[BE] Store hand-off query parameter in model](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53996)      
+      - [[BE] CHIP/service object changes for initiate-check-in endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53958)
       - [[BE] Modify PatientCheckIns Controller GET for optional query parameter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53997)        
   - **Sub Goal: [Show Clear Message when using an expired link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52392)**
       - [[UX] Update GA dashboards to reflect implementation changes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54351)
