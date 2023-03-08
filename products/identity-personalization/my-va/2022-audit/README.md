@@ -85,6 +85,8 @@ To mitigate each of the problems above, we plan to do the following:
 
 ## Measuring Success
 
+[Analytics how-to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/Product/audit-analytics-how-to.md)
+
 ### Objective: Provide greater consistency and simplification of My VA for users, regardless of where they are in their benefits journey.
 
 **When filling in data -- update dates to be 1 month pre-launch, one month post launch (to 100%), and the second month post-launch (to 100%) based on actual launch dates.**
