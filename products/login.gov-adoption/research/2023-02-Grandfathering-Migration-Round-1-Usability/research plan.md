@@ -166,15 +166,15 @@ In addition to demographic and device questions, we’ve provided the following 
 |March 8|Submit artifacts for Research Review|
 |March 17|Prototype is ready (feedback incorporated)|
 |March 17|Ready documentation is ready (feedback incorporated)|
-|March 20-21|Pilot session - Need to schedule|
+|March 20-21|Pilot session|
 |March 27 - April 6|Research sessions|
 |April 10-12|Analysis|
 |April 13-19|Share findings|
 
 ### Pilot session
 
-* Pilot participant email: [Need to find a pilot participant]
-* Date and time of pilot session: March 6-10 [Need to update with details]
+* Pilot participant email: [Asked Jesse James]
+* Date and time of pilot session: March 20-21 [Need to update with details]
 
 ### Research sessions
 
@@ -231,8 +231,8 @@ Please list the people who will be serving in each role.
 * Moderator: Tyler Gindraux, Carolyn Williams
 * Research guide writing and task development: Tyler Gindraux
 * Participant recruiting & screening: Perigean
-* Participant(s) for pilot test: [Need to update with details]
-* Accessibility specialist: -
+* Participant(s) for pilot test: [Asked Jesse James]
+* Accessibility specialist:
 * Notetakers: Carl Dickerson (carl@themostudio.com), Sofia Kirkman (sofia@themostudio.com)
 * Observers: John Rahaghi (john.rahaghi@va.gov), Porta Antiporta (porta@themostudio.com), Jay Tanner (jtanner@pluribusdigital.com), Elizabeth Koch (elizabeth@bluetiger.digital), Anthony Levin-Decanini (anthony@themostudio.com), Steve Dickson (sdickson@greenthreadsllc.com), Ksenia Coulter (kcoulter@pluribusdigital.com), Melissa Miller (mmiller@pluribusdigital.com), Clayton Zook (clayton.zook@oddball.io), Amanda Porter (ajohnson@clarityinnovates.com), Charlye Tran (charlye@bluetiger.digital)
 
