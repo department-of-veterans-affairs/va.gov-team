@@ -71,13 +71,13 @@ Learnings will help refine the design of the application.
 3. Zip code is sufficient/comfortable for Veterans to specify the location where they live.
 4. After seeing the summary page with information entered, Veterans will have confidence in the accuracy of the results page.
 5. Veterans understand the difference between the desired year for benefits and the year that they need to use for income (the previous year).
-6. SHOW THIS & TASK 6! Veterans understand that thresholds in the app are not final answers, and only by applying for VA health care can they learn what benefits they're eligible for.
-7. NEW and SHOW TASK 5! Veterans don't need to see their answers to the questions while looking at the results page (i.e., having answers only on the review page is enough). 
-8. NEW and SHOW TASK 8! The results page is an intuitive place for Veterans to seek information about historical income limits (vs. earlier in the interaction flow).
-9. NEW and SHOW TASK 3! The intro page communicates that income limits apply to only some Veterans.
+6. Veterans understand that thresholds in the app are not final answers, and only by applying for VA health care can they learn what benefits they're eligible for.
+7. Veterans don't need to see their answers to the questions while looking at the results page (i.e., having answers only on the review page is enough). 
+8. The results page is an intuitive place for Veterans to seek information about historical income limits (vs. earlier in the interaction flow).
+9. The intro page communicates that income limits apply to only some Veterans.
 
 ## Method	
-We will conduct **usability testing** to guide Veterans through a click-through prototype. 
+We will conduct **usability testing** to guide research participants through a click-through prototype. 
 
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
@@ -88,7 +88,7 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 	
 ## Recruitment
 
-Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions** using the criteria below, which are also in this [recruitment intake ticket](URL TBD). 
+Ask Perigean to recruit **7 Veterans and 3 caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](URL TBD). 
 
 ### Required criteria 
 - ALL do NOT have VA health care
@@ -105,6 +105,7 @@ Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions**
 - At least 2 women
 - At least 2 people who don't have any degree or vocational training after high school 
 - At least 2 people who live in a rural or remote area
+- At least 2 people who are LGBTQ+
 
 ### Screening Questions
 1. Do you have VA health care? 
@@ -127,7 +128,7 @@ Ask Perigean to recruit **10 Veterans** in order to get **8 completed sessions**
 ## Timeline
 
 ### Prepare
-Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. I am available for a kickoff call during any of these times (all in ET): 
+Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. Wes and I are available for a kickoff call during any of these times (all in ET): 
 - **Mar TBD**: TIMES TBD that work for Cindy AND Wes
 - **Mar TBD**: TIMES TBD
 - **Mar TBD**: TIMES TBD
@@ -171,5 +172,5 @@ Please list the people who will be serving in each role.
 - Observers: Jordan Wood (jordan.wood@civicactions.com), Dave Conlon (david.conlon@va.gov), Wes Rowe (wesley.rowe@agile6.com). Other observers will need to sign up so we can limit the number of observers per session.
 
 ## Approvals
-- Dave Conlon (PO) on FUTURE DATE TBD
+- Dave Conlon (PO) on Mar 8, 2023
 - Shane Strassberg on FUTURE DATE TBD
