@@ -184,11 +184,13 @@ If your income last year was $25,000, what might that mean? *(RECORD)*
 
 What if your income was $100,000? *(RECORD)*
 
-- *RECORD: any comments about benefits (in bullets)*
+*RECORD: any comments about benefits (in bullets)--*
 
-- *RECORD: any comments about deductions*
+*RECORD: any comments about deductions--*
 
-- *RECORD: any comments about wanting to see questions answered (zip code, # dependents)*
+*RECORD: any comments about the year 2022--*
+
+- *RECORD: any comments about wanting to see questions answered (zip code, # dependents)--*
 
 
 ### Task 6: [What next]
@@ -210,8 +212,13 @@ Now you want to check whether you entered your location correctly. How could you
 Suppose that you’re in the process of appealing a health care claim from 2021, and you want to see the income limits from that year. What could you do?
 - *(RECORD: click on "past income limits" / _________________________________)*
 
-When in this app would you prefer to specify the year? 
-- *(RECORD: as is at end / earlier when answering questions / _________________)*
+- *(RECORD all comments and anything confusing re the interactions on each screen of the prototype:)*
+  - *Zip code--*
+  - *Anything about the year 2020--*
+  - *# of Dependents--*
+  - *Back, Continue buttons--*
+  - *Review your information screen--*
+  - *Results screen--*
 
 ## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
