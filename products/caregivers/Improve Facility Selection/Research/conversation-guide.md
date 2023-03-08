@@ -1,6 +1,8 @@
 # [DRAFT] Conversation Guide: 10-10CG facility selection study, 1010 Team, February 2023
 
---
+**This study will be combined with the end-to-end baseline study; refer to that Research Plan/Convo Guide - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/research/2023-04-Facilities%20and%20Baseline%20Task%20Research)**
+
+
 
 ## Moderator logistics
 ### 2-3 days before the session
