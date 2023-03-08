@@ -65,40 +65,49 @@ We will keep track of participant demographic information (identified gender, ag
 ## Recruitment criteria
 
 **All participants:**
-- Have a VA.gov account and be able to sign on during the session. 
-- Provide an email address associated with their VA.gov account
+- Must have a VA.gov account and be able to sign on during the session. 
+- Must provide an email address associated with their VA.gov account
+- Must currently receive VA healthcare benefits 
 
 **Some participants:**
 - Must require screenreader software to use computers and mobile devices (recruit 12 participants total)
 - Must be willing to join from a mobile device (recruit 12 in total)
-- Must currently receive VA healthcare benefits (recruit 12 in total)
 - Must be over the age of 55 (recruit 8 participants in total)
+- Must have a cognitive disability (recruit 8 in total)
 - Must identify as other than Caucasian (recruit 6 in total)
 - Must identify as a gender other than male (recruit 6 in total)
 
 ### Screener questions
 
-1. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? (_Proceed to question 1a if yes; if no, recruit 12 if meet other criteria_)
+1. Have you been to a VA healthcare facility for a medical appointment in the last 12 months?
+	- Yes *(go onto Screener question 2)*
+	- No *(Disqualify)*
 
-1a. Are you able to join the Zoom session using this assistive technology? (_Answer should be yes to satisfy criteria for screen reader_)
+2. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
+	- Yes *(Proceed to question 3)*
+	- No *(Recruit 12 if meet other criteria)*
 
-1b. Please list the name of the assistive technology or software you will use during the session.
+3. Are you able to join the Zoom session using this assistive technology? 
+	- Yes *(Answer should be yes to satisfy criteria for screen reader)*
+	- No *(Disqualify as screen reader participant; can be recruited based on other criteria)*
 
-2. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
-	- Yes *(go on to additional Screener question 3)*
+4. Please list the name of the assistive technology or software you will use during the session.
+
+5. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
+	- Yes *(go on to additional Screener question 6)*
 	- No *(recruit 12)*
 
-3. *(If yes to Screener question 2)* Have you signed into the My HealtheVet website at least once (this could be at a VA clinic, hospital, or VA community care provider) in the last 12 months?
+6. *(If yes to Screener question 5)* Have you signed into the My HealtheVet website at least once (this could be at home, at a VA clinic, hospital, or VA community care provider) in the last 12 months?
 	- Yes *(recruit 12)*
 	- No *(disqualify)*
 
 ## Timeline
 
 ### Prepare
-- Pilot #1:  
+- Pilot #1: Week of March 13 
 
 ### Research sessions
-* Planned dates of research: **March 22 - March 31**
+* Planned dates of research: **March 22 - April 3**
 
 ### Length of sessions
 * Session length: 1 hour
@@ -108,15 +117,17 @@ We will keep track of participant demographic information (identified gender, ag
 
 Team Availability | Time Slots (ET)
 ------------------|--------------
-March 22, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 4-5 pm
-March 23, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 3:30-4:30 pm
-March 24, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2-3 pm; 4-5 pm
-March 27, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 3-4 pm; 4:30-5:30 pm
-March 28, 2023 |  
-Nov. 7, 2022 | 10-11 am; 11:30 am - 12:30 pm; 1-2 pm; 6-7 pm
-Nov. 8, 2022 | 10-11 am; 11:30 am - 12:30 pm; 2-3 pm; 3:30-4:30 pm; 5-6 pm
-Nov. 9, 2022 | 10-11 am; 11:30 am - 12:30 pm; 1-2 pm; 2:30-3:30 pm; 4-5 pm; 5:30-6:30 pm
-Nov. 11, 2022 | 10-11 am; 11:30 am - 12:30 pm; 1-2 pm; 2:30-3:30 pm; 4-5 pm; 5:30-6:30 pm
+March 22, 2023 | 11 am - 12 pm; 12:30-1:30 pm; 4-5 pm
+March 23, 2023 | 11 am - 12 pm; 12:30-1:30 pm; 3:30-4:30 pm
+March 24, 2023 | 11 am - 12 pm; 12:30-1:30 pm; 2-3 pm; 4-5 pm
+March 27, 2023 | 11 am - 12 pm; 12:30-1:30 pm; 3-4 pm; 4:30-5:30 pm
+March 28, 2023 | 11 am - 12 pm; 1:30-2:30 pm; 4-5 pm 
+March 29, 2023 | 11 am - 12 pm; 12:30-1:30 pm; 2-3 pm
+March 30, 2023 | 11 am - 12 pm; 12:30-1:30 pm; 3-4 pm
+March 31, 2023 | 11 am - 12 pm; 12:30-1:30 pm; 2-3 pm; 3:30-4:30 pm
+April 3, 2023 | 11 am - 12 pm; 12:30-1:30 pm; 3-4 pm; 4:30-5:30 pm
+April 4, 2023 | 11 am - 12 pm; 12:30-1:30 pm; 2-3 pm; 3:30-4:30 pm
+
 
 	
 ## Team Roles	
@@ -126,8 +137,8 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening: Perigean
 - Project point of contact: Robyn Singleton 
 - Participants for pilot test: TBD
-- Note-takers: TBD
-- Observers: Jonathan Nelson (jonathan.nelson@adhocteam.us); Coulton Bunney (coulton.bunney@va.gov); Marci McGuire (marci.mcguire@adhocteam.us), Mikki Northuis (mikki.northuis@va.gov), all others to sign up via sign up list. 
+- Note-takers: Jonathan Nelson (jonathan.nelson@adhocteam.us)
+- Observers: Coulton Bunney (coulton.bunney@va.gov); Marci McGuire (marci.mcguire@adhocteam.us), Mikki Northuis (mikki.northuis@va.gov), all others to sign up via sign up list. 
 
 ## Approvals
 - Reviewed and approved by Coulton Bunney on (date)
