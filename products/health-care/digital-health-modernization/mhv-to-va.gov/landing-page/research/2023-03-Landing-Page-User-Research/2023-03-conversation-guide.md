@@ -76,3 +76,7 @@ Let’s start with a few questions...
 2. *(If using assistive technology:)* How would you rate your level of experience with using [specific assistive technology, such as a screen reader]--beginner, intermediate, advanced, or expert?
 
 	- *(If using assistive technology:)* How long have you been using [specific assistive technology]?
+
+3. What benefits other than healthcare, if any, do you receive from the VA? 
+
+
