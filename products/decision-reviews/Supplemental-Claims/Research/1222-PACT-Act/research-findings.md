@@ -9,15 +9,15 @@ Eileen Chi [eileen.chi@coforma.io](eileen.chi@coforma.io)
 
 **Jump to:**
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#hypotheses-and-conclusions)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#hypotheses-and-conclusions)
 
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#key-findings)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#recommendations)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#recommendations)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#who-we-talked-to)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#who-we-talked-to)
 
-[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#further-research-needed)
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#further-research-needed)
 
 ## Background
 
