@@ -299,13 +299,11 @@ Most participants expected a way to download a copy of their completed form when
 
 ### Tools used for Synthesis
 
-Mural (restricted, please request access)
+[Mural](https://app.mural.co/t/coforma8350/m/coforma8350/1676302103233/c0fe1e04853c9a80ea98dc63c9e6397d071c7617?sender=udbf574074425980f04c55360) (restricted, please request access)
 
 ### Pages and applications used
 
 [Prototype used in testing](https://www.sketch.com/s/d2416db4-9a4f-4919-abe4-20ba4bdcfd89/prototype/a/A4ED99CB-748B-4EED-8F83-5D6733BA9F42)
-
-Iterated prototype with recommendations
 
 ### Other supporting documents created
 
