@@ -4,7 +4,7 @@
 
 ## Background
 
-In [past research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/research-findings.md), we have found that Veterans are not fully satisfied with the claim status tool. In particular, we have heard that it doesn't provide enough detail and that Veterans often feel in the dark while waiting for updates about their claims. 
+In [past research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/research-findings.md), we have found that Veterans are not fully satisfied with the claim status tool. In particular, we have heard that it doesn't provide enough detail and that Veterans often feel like they're in the dark while waiting for updates about their claims. 
 
 **This research will be a co-design session** where we review the production version of CST with veterans who currently have claims in progress, highlighting pain points and brainstorming possible design changes to improve the overall experience. 
 
@@ -21,13 +21,13 @@ This work supports the following OCTO Objectives:
 This work touches on various aspects of the Veteran Journey. These findings will be relevant to whenever a Veteran is applying for disability compensation benefits, which can happen at any point along their life journey. 
 
 ## Research Goals	
-With this research, we want to speak to Veterans who are currently waiting for decisions on disability compensation claims they filed on VA.gov. We want to understand what's working and what's not working about the CST experience while they are waiting for this claim. 
+With this research, we want to speak to Veterans who are currently waiting for decisions on disability compensation claims they filed on VA.gov. We want to understand what's working and what's not working about the CST experience while they are waiting for this claim. The sessions will be used to identify issues with CST and brainstorm possible solutions.
 
-In particular, there are three areas will be looking at especially carefully: 
+There are three areas in particular that we hope to explore:
 
 - We want to understand **what information Veterans specifically want to know to stay informed** as their claim goes through the initial decision process.
 
-- We want to understand **the experience Veterans have with requests to provide additional evidence.** We want to find opportunities to help veterans provide better evidence in support of their, earlier in the process.
+- We want to understand **the experience Veterans have with requests to provide additional evidence.** We want to find opportunities to help Veterans provide better evidence in support of their, earlier in the process.
 
 - We want to understand **the experience Veterans have with requests for C&P exams.** We want to find opportunities to set the right expectation for Veterans going to C&P exams.
 
@@ -45,7 +45,7 @@ Part 1: Warm up
 - Do you currently have a claim in progress on VA.gov? (They should.)
 - About how long ago did you file this claim? 
 
-Part 2: Login in to VA.gov
+Part 2: Log in in to VA.gov
 - [Navigating to CST] Tell me what you see here.
 - What do you think is the status of your claim?
 - On a scale of 1-5, how clear would you say the status of this claim is?  
@@ -57,13 +57,13 @@ Part 2: Login in to VA.gov
 
 ### Hypothesis
 
-- The claim status will not be detailed enough for Veterans. This is something we've heard a number of times. We are hoping to tease out which type of information would be useful to include in the claim status. 
-- Besides detailed status, there are other (yet to be identified) parts of CST that make for a confusing or suboptimal experience. 
+- The claim status information presented in the current CST UI is not informative enough for Veterans.
+- The main issue for Veterans is not the CST UI itself, but the amount of time it takes for the claim to get resolved.  
 
 ## Methodology	
 
-**Very loosely semi-structured interviews**
-The primary goal of this research is to get the participants' honest, visceral reaction to a live CST environment with their real claims. As such, there are specific prompts and focus areas that will help guide the discussion (see above) but the format will be highly conversation, and hopefully highly collaborative between moderator and participant. 
+**Semi-structured interviews**
+The primary goal of this research is to get the participants' honest, visceral reaction to a live CST environment with their real claims. As such, there are specific prompts and focus areas that will help guide the discussion (see above) but the format will be highly conversation, flexible, and hopefully highly collaborative between moderator and participant. 
 
 ### Location
 Remote on Zoom
@@ -75,7 +75,7 @@ Remote on Zoom
 ## Recruitment	
 
 ### Recruitment approach
-For this study we want to talk to Veterans who **currently have an open disability compensation claim** and who have used VA.gov at some point in the past. We will be reviewing the Veteran's **actual VA.gov signed-in experience** with them to identify challenges and pain points. 
+For this study we want to talk to Veterans who **currently have an open disability compensation claim** and who have a valid VA.gov account (we don't want them to have to create one during the session). We will be reviewing the Veteran's **actual VA.gov signed-in experience** with them to identify challenges and pain points. 
 
 ### Recruitment criteria
 
@@ -99,7 +99,7 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: TBD
-* Date and time of pilot session: TBD
+* Date and time of pilot session: March 22
 
 ### Research sessions
 * Planned dates of research: March 27 – 31
