@@ -234,7 +234,8 @@ Suppose that you’re in the process of appealing a health care claim from 2021,
 
 I want to let you know that we're still working out some of the details for what I've shown you today, so I'm going to ask you to **NOT** *rely on the accuracy of the information that you've seen*, in case it's not correct.
 
-*(If they ask how to find out more, give them the phone number for... )*
+*If they ask how to find out more, give them the phone number for the VA health benefits hotline, which can help with enrollment and eligibility questions:* **877-222-8387 (Mon - Fri 8 am - 8 pm ET)**
+
 
 ## Thank You and Closing - 1 minute
 
