@@ -1,6 +1,6 @@
 # Direct deposit: user has set up direct deposit for both payment types
 
-**Last update: June 22, 2022**
+**Last update: March 9, 2023 -- adding users**
 
 If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, navigates to the direct deposit page, and has set up direct deposit for comp+pen and education payment, they will be able to view and edit bank account information for both.
 
@@ -17,5 +17,5 @@ If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, naviga
 TBD
 
 ## How to reproduce
-1. Log in with user vets.gov.user+378
+1. Log in with users 81, 378. There are probably others.
 2. Navigate to Profile > Direct deposit
