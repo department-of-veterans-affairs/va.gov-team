@@ -67,7 +67,7 @@ We opted to test with a [mobile prototype](https://www.sketch.com/s/d2416db4-9a
 
 - We believe that all Veterans will be able to confidently complete a Supplemental Claim. **Maybe True.**
 
-9 out of 10 rated the form experience 8 and above, but 6 out of 10 rated their confidence in  their submission 8 and above. The lower ratings come from the lack of their lack of confidence in the review and not being able to explicitly say that they qualify under PACT.
+9 out of 10 rated the form experience 8 and above, but 6 out of 10 rated their confidence in  their submission 8 and above. The lower ratings come from the lack of their lack of confidence in the review and not being able to explicitly say that they qualify under PACT. Most of the participants thought the form was straightforward, and almost all (with exception of Veterans who normally file through a third-party) said they would use the form once it goes online. Several participants with cognitive disabilities mentioned that although the form seems simple, they'll take a few sessions to go through the information, or apply with help from a family member.
 
 - We believe Veterans will understand the decisions they need to make with the content presented to them. **Likely True.**
 
