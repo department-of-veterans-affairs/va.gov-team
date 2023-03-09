@@ -55,6 +55,10 @@ Part 2: Log in in to VA.gov
 - What is the most confusing part of this web page?
 - What is the most helpful part of this web page? 
 
+Part 3: Co-design exercise 
+- See details in [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/research/2023-03-Initial-Decisions-CST/conversation-guide.md)
+
+
 ### Hypothesis
 
 - The claim status information presented in the current CST UI is not informative enough for Veterans.
