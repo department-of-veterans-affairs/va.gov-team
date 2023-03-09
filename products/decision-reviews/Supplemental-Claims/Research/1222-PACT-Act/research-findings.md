@@ -204,6 +204,8 @@ Half of the participants struggled with going back and uploading evidence from t
 
 We prompted participants to upload evidence as an optional task for 8 of the participants, and several participants felt lost when they were brought back to the VA medical records screen. Although they had just gone through the order of evidence (VA medical, private medical, upload documents), a few struggled getting back to the ‘upload documents’ page (which is third in the flow). The progress bar not changing for the section also made it unclear that they had moved backwards in the form.
 
+![add-evidence-flow.png](images/add-evidence-flow.png)
+
 > “Well I know what I was looking for wasn't forward, so I was jumping back.”
 > 
 
