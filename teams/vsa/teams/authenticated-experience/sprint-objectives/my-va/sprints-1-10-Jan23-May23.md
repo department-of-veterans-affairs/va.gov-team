@@ -224,7 +224,7 @@ Since we know that the prescription notification can't happen right now, we need
 ### My VA audit updates
 
 - Anything that comes over from sprint 5 (I see you guys have a lot going on!)
-- Staging review
+- ~Staging review~ already done!
 - Privacy review 
 - UAT recruiting, **but only if everything is together with analytics**
 
