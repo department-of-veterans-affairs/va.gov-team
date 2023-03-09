@@ -229,29 +229,29 @@ Most participants expected a way to download a copy of their completed form when
 
 ### Additional Insights
 
-- Confidence for form submission and success extends beyond the form itself. It’s bolstered by the information shown before they reach the form, and by the confirmation they receive after they submit the form. Most participants desired a separate notification for submission of the Intent to File and Supplemental Claims form. They expect notifications to be in their email and on mobile
+1. Confidence for form submission and success extends beyond the form itself. It’s bolstered by the information shown before they reach the form, and by the confirmation they receive after they submit the form. Most participants desired a separate notification for submission of the Intent to File and Supplemental Claims form. They expect notifications to be in their email and on mobile
 
 > “Some places have text messages now in addition to email. i hope that gets implemented.”
 > 
 
 > “It would be great to get EMAIL or SMS updates on the claim status versus relying on login into [VA.gov](http://va.gov/) daily.”
 > 
-- Participants are likely (more than half) to skip the second form introduction page, if they enter from the site wide introduction page.
-- Several participants referenced the ease of navigating a tax form when describing their experience with form navigation.
+2. Participants are likely (more than half) to skip the second form introduction page, if they enter from the site wide introduction page.
+3. Several participants referenced the ease of navigating a tax form when describing their experience with form navigation.
 
 > “It's kind of like how I work. Even when filing taxes, I jump back and forth.”
 > 
 
 > “Like Turbo Tax, if you click on a link it'll open up a box, so you can read the information, but it doesn't take you out of the flow.”
 > 
-- Participants identified themselves as exceptionally adept with technology, and although they found the PDF uploads a familiar process, they are concerned for other Veterans they interact with who may not be as tech savvy.
+4. Participants identified themselves as exceptionally adept with technology, and although they found the PDF uploads a familiar process, they are concerned for other Veterans they interact with who may not be as tech savvy.
 
 > “I work with elderly. When they try to upload docs, they never know where they saved things.”
 > 
 
 > “90% of VET will be using their phone, because their grandkids buy it for them. They don't know how to navigate tech much. Unless VETs have an app that converts the image they take with their phone camera to PDF it wouldn't help. if you can allow multiple formats, it will be a big help.”
 > 
-- Several participants mentioned they would ‘finish this application later’ when they need to take a break, do more research, or ask for clarification.
+5. Several participants mentioned they would ‘finish this application later’ when they need to take a break, do more research, or ask for clarification.
 
 > "If I got frustrated, I'd click finish this application later. I'll be like, I MUST have missed something.”
 > 
