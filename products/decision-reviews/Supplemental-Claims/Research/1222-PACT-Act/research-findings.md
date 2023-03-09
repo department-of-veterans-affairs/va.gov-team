@@ -37,7 +37,7 @@ This is the second study done for Supplemental Claims. The OCTO Objectives and V
 
 ### Veteran Journey
 
-Since Veterans can file Supplemental Claims benefits with VA between 180 and 90 days before separating from the military, this work impacts the Veteran journey from ***serving***, to ***getting out***, and all the way to ***dying*** as survivors can also file Supplemental Claims on the Veteran’s behalf. This work especially maps to the ***taking care of myself*** part of the Veteran journey, as Supplemental Claims for disability compensation supports:
+Since Veterans can file Supplemental Claims benefits with VA between 180 and 90 days before separating from the military, this work impacts the Veteran journey from ***serving***, to ***getting out***, and all the way to ***dying***, as survivors can also file Supplemental Claims on the Veteran’s behalf. This work especially maps to the ***taking care of myself*** part of the Veteran journey, as Supplemental Claims for disability compensation supports:
 
 - Recognizing and addressing mental health needs
 - Managing primary care and chronic health issues
@@ -81,7 +81,7 @@ Before applying, all of the participants understood the requirements of a Supple
 
 1. Most participants had a clear understanding of the requirements for filing Supplemental Claims and what presumptive conditions are.
 2. A few participants were not able to locate the action link to file a Supplemental Claim on the unauthorized site-wide introduction page.
-3. Most participants tried to add evidence to their Supplemental Claims despite not needing to for presumptive conditions.
+3. Most participants tried to add evidence to their Supplemental Claims, despite understanding that they don't need evidence to prove service connection for presumptive conditions.
 4. Most participants thought the 'Edit' link on the issue summary page and evidence summary page would let them perform an action different from what they actually do.
 5. Half of the participants were confused by the Appeals Modernization Act because they didn't know about the old appeals process, but still continued with the form.
 6. Participants understood what the notice of evidence needed is, and more than half clicked the link to view the required external page before certifying.
@@ -127,9 +127,9 @@ For participants who missed the link, they saw they could download and file a Su
 
 ### Finding 3
 
-Most participants tried to add evidence to their Supplemental Claims despite not needing to for presumptive conditions.
+Most participants tried to add evidence to their Supplemental Claims, despite understanding that they don't need evidence to prove service connection for presumptive conditions.
 
-Since the evidence flow was presented to them, participants were inclined to add evidence, even when they understood they didn’t need any to prove service connection. When asked why, participants mentioned that it’s better to include copies of medical records, even when the VA got them in the original claim. Some also mentioned annotating and uploading their own records to ensure it’s being read.
+Since the evidence flow was presented to them, participants were inclined to add evidence, even when they understood they didn’t need any to prove service connection. When asked why, participants mentioned that it’s better to include copies of medical records, even if the VA has them from the original claim. Some mentioned annotating and uploading their own records to ensure it’s being read.
 
 ![evidence-flow.png](images/evidence-flow.png)
 
