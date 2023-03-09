@@ -303,6 +303,7 @@ Enter the date on your decision notice (the letter you received in the mail from
 **_BACK_**
 
 **_CONTINUE_**
+
 ----------------------------------------------
 
 ## Step 2 of 4: Issues for review
