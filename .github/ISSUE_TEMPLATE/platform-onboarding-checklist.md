@@ -23,12 +23,14 @@ Note: AWS access can be granted once the EQIP has been submitted _before the PIV
 - [ ] Ensure you're in Google Groups [va-vsp-team](https://groups.google.com/a/oddball.io/g/va-vsp-team) and [va-vsp-engineering](https://groups.google.com/a/oddball.io/g/va-vsp-engineering). Use `/support` in #vfs-platform-support to request access.
 - [ ] Ensure you have access to the Google Drive folder ["VSP team"](https://drive.google.com/drive/u/0/folders/0AJ6yVhfytxhFUk9PVA)
 - [ ] Ensure you're in Github Teams 
-  - [vets-gov-write](https://github.com/orgs/department-of-veterans-affairs/teams/vets-gov-write) 
+  - [vets-gov-write](https://github.com/orgs/department-of-veterans-affairs/teams/vets-gov-write) - Grants access to these repos | [vets-website](https://github.com/department-of-veterans-affairs/vets-website), [content-build](https://github.com/department-of-veterans-affairs/content-build/), [devops](https://github.com/department-of-veterans-affairs/devops), [vets-api](https://github.com/department-of-veterans-affairs/vets-api)
   - [vsp-operations](https://github.com/orgs/department-of-veterans-affairs/teams/vsp-operations) _DevOps Only_
 - [ ] DSVA Slack Workspace
   - [ ] #platform-cop-(frontend? devops?)
   - [ ] #platform-team
   - [ ] #vfs-all-teams
+  - [ ] #vfs-platform-support
+  - [ ] #platform-tech-team-support
 
 **Team coordination**
 - [ ] [Meet the team](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)
