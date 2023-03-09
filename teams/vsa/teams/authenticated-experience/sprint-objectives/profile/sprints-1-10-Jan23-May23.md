@@ -326,6 +326,7 @@ Then we are ready to close out this project!!
 - UX Improvements: Heuristic Review and Analysis of Profile and My VA #53227
 
 ## Sprint 8 (4/12 - 4/25)
+Sprint 8 Epic [#54916](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/54916)
 
 ### Direct deposit: EVSS > Lighthouse migration
 
