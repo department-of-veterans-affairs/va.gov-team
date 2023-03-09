@@ -37,7 +37,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 
 ### General
 
-- [ ] Attend General Orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/general-orientation-for-va-gov-platform?month=2021-11))
+- [ ] Attend the [General Orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Generalorientation) (schedule via Calendly)
 - [ ] Watch [VA.gov overview video](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html#PlatformOrientation-Purpose)
 - [ ] Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-Slack) with Program, Team, Role and Company
 - [ ] Review [Welcome](https://depo-platform-documentation.scrollhelp.site/getting-started/Welcome.1255276574.html) documentation
@@ -67,29 +67,29 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Learn how we do [research at VA](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va)
 - [ ] Get oriented to the [Design System](https://design.va.gov/)
 - [ ] Get oriented to the [Collaboration cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
-- [ ] Attend Design orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/design-orientation-for-va-gov-platform))
-- [ ] Attend Accessibility orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/accessibility-orientation-for-va-gov-platform))
+- [ ] Attend [Design orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Design&researchorientation) (schedule via Calendly)
+- [ ] Attend [Accessibility orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation) (schedule via Calendly)
 
 #### Front-end Engineers
 - [ ] Review [frontend developer documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/Frontend-developer-documentation.687931428.html) on Platform Website
 - [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
-- [ ] Attend Front-end orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/front-end-orientation-for-va-gov-platform))
-- [ ] Attend Analytics orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/analytics-orientation-for-va-gov-platform))
-- [ ] Attend Accessibility orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/accessibility-orientation-for-va-gov-platform))
-- [ ] Attend QA orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/qa-orientation-for-va-gov-platform))
-- [ ] Attend Design System/Forms Library orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/design-system-forms-library-orientation))
+- [ ] Attend [Front-end orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Front-endorientation) (schedule via Calendly)
+- [ ] Attend [Analytics orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Analyticsorientation) (schedule via Calendly)
+- [ ] Attend [Accessibility orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation) (schedule via Calendly)
+- [ ] Attend [QA orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation) (schedule via Calendly)
+- [ ] Attend [Design System/Forms Library orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Designsystem/formslibraryorientation) (schedule via Calendly)
 
 #### Back-end Engineers
 - [ ] Review [backend developer documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/Backend-developer-documentation.1886289964.html) on Platform Website
 - [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
-- [ ] Attend Back-end orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/back-end-orientation-for-va-gov-platform))
-- [ ] Attend QA orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/qa-orientation-for-va-gov-platform))
+- [ ] Attend [Back-end orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Back-endorientation) (schedule via Calendly)
+- [ ] Attend [QA orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation) (schedule via Calendly)
 
 #### Product Managers
 - [ ] Request PM intro with @ Shira Goodman in Slack
-- [ ] Attend Analytics orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/analytics-orientation-for-va-gov-platform))
-- [ ] Attend Accessibility orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/accessibility-orientation-for-va-gov-platform))
-- [ ] Attend QA orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/qa-orientation-for-va-gov-platform))
+- [ ] Attend [Analytics orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Analyticsorientation) (schedule via Calendly)
+- [ ] Attend [Accessibility orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation) (schedule via Calendly)
+- [ ] Attend [QA orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation) (schedule via Calendly)
 
 ### Off-boarding of teammates
 - [ ] Review [process for when a teammate leaves](https://depo-platform-documentation.scrollhelp.site/getting-started/offboarding)
