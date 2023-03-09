@@ -1,4 +1,4 @@
-# (WIP) Conversation Guide 
+# Conversation Guide 
 
 ## Moderator logistics
 
