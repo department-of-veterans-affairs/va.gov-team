@@ -117,9 +117,7 @@ A few participants were not able to locate the action link to file a Supplementa
 
 For participants who missed the link, they saw they could download and file a Supplemental Claim by mail, but could not locate where they could file a Supplemental Claim *online*. They also didn’t notice the difference between filing for a _disability claim_ vs _all types of claims_.
 
-![claim-CTA.png](images/claim-CTA.png)
-
-![claim-mail.png](images/claim-mail.png)
+![sitewide-claims-cta.png](images/sitewide-claims-cta.png)
 
 > "I would've made the file online and put it below file a supplemental claim cuz I look right over it. I didn't see it. It is hidden.”
 > 
@@ -147,9 +145,7 @@ Most participants thought the 'Edit' link on the issue summary page and evidence
 
 Due to proximity, participants thought the ‘Edit’ links were to meant to edit the information that it’s closest to. For the issue summary, it was the decision date. For the evidence summary, it’s the name of the document. In actuality, the edit links would navigate them back to the previous screens where they could select issues or upload evidence.
 
-![issue-summary-edit.png](images/issue-summary-edit.png)
-
-![evidence-summary-edit.png](images/evidence-summary-edit.png)
+![edit-links.png](images/edit-links.png)
 
 > “If you don't agree with the decision date, you can edit here.”
 > 
@@ -168,9 +164,7 @@ This screen is shown conditionally for issues we know fall under the old appeals
 
 For participants who knew about the old appeals process, they were drawn to the fact that switching over may mean a faster decision. For participants unfamiliar to the old appeals process, they were likely to finish the application later after checking their decision letter or asking a third party for more information.
 
-![new-decision-review.png](images/new-decision-review.png)
-
-![new-decision-review-v2.png](images/new-decision-review-v2.png)
+![ama-new-decision-review.png](images/ama-new-decision-review.png)
 
 > “I guess that's the only thing that I'd want is more clarification on the old process and what the new process is and what might be advantageous about that.”
 > 
@@ -209,12 +203,6 @@ Because of the ambiguous language in the warning alert, a few participants felt 
 Half of the participants struggled with going back and adding evidence from the evidence summary page.
 
 We prompted participants to upload evidence as an optional task, and several participants felt lost when they were brought back to the beginning of the evidence flow. Although they had just gone through the order of evidence, a few struggled getting back to the ‘upload documents’ page (which is third from the cycle). The progress stepper not changing for the section also made it unclear that they had moved backwards in the form.
-
-![va-medical-records.png](images/va-medical-records%201.png)
-
-![private-medical-records.png](images/private-medical-records.png)
-
-![upload-evidence.png](images/upload-evidence.png)
 
 > “Well I know what I was looking for wasn't forward, so I was jumping back.”
 > 
