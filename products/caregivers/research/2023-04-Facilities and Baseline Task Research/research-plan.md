@@ -88,11 +88,11 @@ This research will test the updates to the VA Facility question content, page fl
 
 ### Hypotheses
 
-**Hyphotesis 1**
+**Hypothesis 1**
 
 Our hypothesis is that users will understand what they are selecting on the facilities page and how that impacts the caregiver applicaiton process. The participants will find the confirmation page to be helpful and informative and it will not add it more complexity or confusion. 
 
-**Hyphotesis 2**
+**Hypothesis 2**
 
 Our hypothesis is that users will be able to navigate through the facility selection relatively easily, but might have issues with the following:
 - Understanding the difference between community and VA facilities/Caregiver Support Facilities
@@ -101,7 +101,7 @@ Our hypothesis is that users will be able to navigate through the facility selec
 - Not recognizing the name of the facility they are looking for/overlooking address 
 
 
-**Hyphotesis 3**
+**Hypothesis 3**
 
 Our hypothesis is that participants in this study will also echo previous research findings around confusion about who qualifies as a primary or secondary caregiver and why certain information is asked, such as insurance, or how it impacts the application. 
 
