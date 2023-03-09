@@ -93,9 +93,9 @@ Before applying, all of the participants understood the requirements of a Supple
 
 ### Finding 1
 
-Most participants had a clear understanding of the requirements for filing Supplemental Claims and what presumptive conditions are. They found the information they needed in the blue introduction box, and clearly located the sections that talked about presumptive conditions and PACT.
-
 Labels: BNFT: Disability, INTIVE: PACT Act, DSC: Featured content
+
+Most participants had a clear understanding of the requirements for filing Supplemental Claims and what presumptive conditions are. They found the information they needed in the blue introduction box, and clearly located the sections that talked about presumptive conditions and PACT.
 
 One participant thought they could use a Supplemental Claim for a worsening condition, and only realized that’s not true when they saw it was for a claim they disagree with.
 
@@ -115,9 +115,9 @@ One participant thought they could use a Supplemental Claim for a worsening cond
 
 ### Finding 2
 
-A few participants were not able to locate the action link to file a Supplemental Claim on the unauthorized site-wide introduction page.
-
 Labels: BNFT: Disability, DSC: Action Link, PRDT: Content
+
+A few participants were not able to locate the action link to file a Supplemental Claim on the unauthorized site-wide introduction page.
 
 For participants who missed the link, they saw they could download and file a Supplemental Claim by mail, but could not locate where they could file a Supplemental Claim *online*. They also didn’t notice the difference between filing for a _disability claim_ vs _all types of claims_.
 
@@ -131,9 +131,9 @@ For participants who missed the link, they saw they could download and file a Su
 
 ### Finding 3
 
-Most participants tried to add evidence to their Supplemental Claims, despite understanding that they don't need evidence to prove service connection for presumptive conditions.
-
 Labels: BNFT: Disability, INTIVE: PACT Act
+
+Most participants tried to add evidence to their Supplemental Claims, despite understanding that they don't need evidence to prove service connection for presumptive conditions.
 
 Since the evidence flow was presented to them, participants were inclined to add evidence, even when they understood they didn’t need any to prove service connection. When asked why, participants mentioned that it’s better to include copies of medical records, even if the VA has them from the original claim. Some mentioned annotating and uploading their own records to ensure it’s being read.
 
@@ -147,9 +147,9 @@ Since the evidence flow was presented to them, participants were inclined to add
 
 ### Finding 4
 
-Most participants thought the 'Edit' link on the issue summary page and evidence summary page would let them perform an action different from what they actually do.
-
 Labels: BNFT: Disability, DSC: Form controls
+
+Most participants thought the 'Edit' link on the issue summary page and evidence summary page would let them perform an action different from what they actually do.
 
 Due to proximity, participants thought the ‘Edit’ links were to meant to edit the information that it’s closest to. For the issue summary, it was the decision date. For the evidence summary, it’s the name of the document. In actuality, the edit links would navigate them back to the previous screens where they could select issues or upload evidence.
 
@@ -166,9 +166,9 @@ Due to proximity, participants thought the ‘Edit’ links were to meant to edi
 
 ### Finding 5
 
-Half of the participants were confused by the Appeals Modernization Act because they didn't know about the old appeals process, but still continued with the form.
-
 Labels: BNFT: Disability, DSP: Contextual help
+
+Half of the participants were confused by the Appeals Modernization Act because they didn't know about the old appeals process, but still continued with the form.
 
 This screen is shown conditionally for issues we know fall under the old appeals process, and for issues that we don’t know fall under the old appeals process. We tested two sets of copy for this page, one that was simplified for plain language but didn’t pass legal requirements, and one that fulfills legal requirements. Both triggered the same level of concern over what the old appeals process was, but the content with the extra legal language took participants twice as long to read, and for some to re-read.
 
@@ -184,9 +184,9 @@ For participants who knew about the old appeals process, they were drawn to the 
 
 ### Finding 6
 
-Participants understood what the notice of evidence needed is, and more than half clicked the link to view the required external page before certifying.
-
 Labels: BNFT: Disability, DSC: Link
+
+Participants understood what the notice of evidence needed is, and more than half clicked the link to view the required external page before certifying.
 
 ![notice-of-evidence-needed.png](images/notice-of-evidence-needed.png)
 
@@ -198,9 +198,9 @@ Labels: BNFT: Disability, DSC: Link
 
 ### Finding 7
 
-A few participants experienced confusion when they reached the warning alert on the evidence summary page.
-
 Labels: BNFT: Disability, DSC: Alert boxes
+
+A few participants experienced confusion when they reached the warning alert on the evidence summary page.
 
 Because of the ambiguous language in the warning alert, a few participants felt that they needed to attach evidence to the claim. They experienced confusion and questioned what type of evidence is needed to support their claim, especially since the introduction told them it wasn’t needed.
 
@@ -214,9 +214,9 @@ Because of the ambiguous language in the warning alert, a few participants felt 
 
 ### Finding 8
 
-Half of the participants struggled with going back and uploading evidence from the evidence summary page.
-
 Labels: BNFT: Disability, DSC: Action Link, DSC: Progress bars, DSP: Experimental
+
+Half of the participants struggled with going back and uploading evidence from the evidence summary page.
 
 We prompted participants to upload evidence as an optional task for 8 of the participants, and several participants felt lost when they were brought back to the VA medical records screen. Although they had just gone through the order of evidence (VA medical, private medical, upload documents), a few struggled getting back to the ‘upload documents’ page (which is third in the flow). They had the expectation that since they wanted to upload evidence, the add evidence button would lead them straight to the upload screen, and didn't expect to have to click through. The progress bar not changing for the section also makes it unclear that they moved backwards in the form.
 
@@ -231,9 +231,9 @@ We prompted participants to upload evidence as an optional task for 8 of the par
 
 ### Finding 9
 
-Most of the participants misunderstood the action for the 'print this page' button.
-
 Labels: BNFT: Disability, DSC: Buttons
+
+Most of the participants misunderstood the action for the 'print this page' button.
 
 Most participants expected a way to download a copy of their completed form when the form was submitted, and applied that expectation to the button. In actuality, the button only prints the confirmation page.
 
