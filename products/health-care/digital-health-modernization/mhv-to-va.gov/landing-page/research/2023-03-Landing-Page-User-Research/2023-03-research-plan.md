@@ -60,16 +60,28 @@ Data collection will be remote and conducted using Zoom.
 ### Recruitment approach
 We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. At least half of our sample will be with interviewees who use screen readers. 
 
+Given the logistical complexities of this study, and given the fact misunderstandings on the part of participants could keep them from being logistically able to participate, we request the following: 
+	(1) To have a kickoff meeting with Perigean to confirm that everyone is on the same page regarding the recruitment criteria; and 
+	(2) That Perigean personnel call participants ahead of time to confirm that they (a) have never received care at any of the healthcare facilities listed, (b) use login.gov or ID.me to log into VA.gov, and (c) are providing the email associated with those accounts to study staff. 
+
 We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information (whether the Veteran has used MyHealtheVet before; whether the Veteran uses VA healthcare) in an encrypted Google Sheet that will be stored on the Ad Hoc Google Drive. 
 
 ## Recruitment criteria
 
 **All participants:**
-- Must have a VA.gov account and be able to sign on during the session. 
+- Must have a VA.gov account and be able to sign on during the session
+- Must use either login.gov or ID.me to sign in 
 - Must provide an email address associated with their VA.gov account
 - Must currently receive VA healthcare benefits 
+- Must NOT HAVE EVER received healthcare at any of the following Cerner facilities: 
+	1. Manns-Grandstaff Department of Veterans Affairs Medical Center in Spokane, WA
+	2. Jonathan M. Wainwright Memorial VA Medical Center in Walla Walla, WA
+	3. Chalmers P. Wylie Veterans Outpatient Clinic in Columbus, OH
+	4. Roseburg VA Medical Center in Roseburg, OR
+	5. White City VA Medical Center in White City, OR
 
 **Some participants:**
+- Must have a MyHealtheVet account and have signed into it in the past 12 months (recruit 16 participants total)
 - Must require screenreader software to use computers and mobile devices (recruit 12 participants total)
 - Must be willing to join from a mobile device (recruit 12 in total)
 - Must be over the age of 55 (recruit 8 participants in total)
@@ -83,23 +95,33 @@ We will keep track of participant demographic information (identified gender, ag
 	- Yes *(go onto Screener question 2)*
 	- No *(Disqualify)*
 
-2. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
-	- Yes *(Proceed to question 3)*
-	- No *(Recruit 12 if meet other criteria)*
+2. Have you EVER received healthcare at any of the following facilities: 
+		1. Manns-Grandstaff Department of Veterans Affairs Medical Center in Spokane, WA
+		2. Jonathan M. Wainwright Memorial VA Medical Center in Walla Walla, WA
+		3. Chalmers P. Wylie Veterans Outpatient Clinic in Columbus, OH
+		4. Roseburg VA Medical Center in Roseburg, OR
+		5. White City VA Medical Center in White City, OR
+	- Yes *(Disqualify)*
+	- No *(Go onto screener question 3)*
 
-3. Are you able to join the Zoom session using this assistive technology? 
-	- Yes *(Answer should be yes to satisfy criteria for screen reader)*
+3. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
+	- Yes *(go on to additional Screener question 4)*
+	- No *(recruit 8)*
+
+4. *(If yes to Screener question 3)* Have you signed into the My HealtheVet website at least once (this could be at home, at a VA clinic, hospital, or VA community care provider) in the last 12 months?
+	- Yes *(recruit 16)*
+	- No *(disqualify)*
+
+5. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
+	- Yes *(Go onto screener question 4)*
+	- No *(Recruit 12 if meet other criteria; go onto screener question 6)*
+
+6. Are you able to join the Zoom session using this assistive technology? 
+	- Yes *(Recruit 12)*
 	- No *(Disqualify as screen reader participant; can be recruited based on other criteria)*
 
-4. Please list the name of the assistive technology or software you will use during the session.
+7. Please list the name of the assistive technology or software you will use during the session.
 
-5. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
-	- Yes *(go on to additional Screener question 6)*
-	- No *(recruit 12)*
-
-6. *(If yes to Screener question 5)* Have you signed into the My HealtheVet website at least once (this could be at home, at a VA clinic, hospital, or VA community care provider) in the last 12 months?
-	- Yes *(recruit 12)*
-	- No *(disqualify)*
 
 ## Timeline
 
