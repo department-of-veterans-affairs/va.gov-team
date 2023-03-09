@@ -57,28 +57,75 @@ Live interview sessions were conducted remotely via Zoom, and at the end of inte
 
 ## Details of Findings 
 
-### Most participants (at least 6/10) believe that they needed their DD214 (not just the information on it) to apply for any VA benefit or service.
-Those that thought they needed a copy of their DD214 to apply for a VA benefit had applied for disability (3 participants), healthcare (1 participant), a home loan (1 participant said the bank needed the DD214), and education benefits (1 participant seemed to need it when starting to apply online, but then ultimately didn't seem to need it when he went to a VSO for application help). 
+### Most participants (at least 6/10) believe that they need their DD214 (not just the information on it) to apply for any VA benefit or service.
+"If you're applying for something, like veterans' services, you have to show your DD214 to prove that you're a Veteran."
+
+Participants that stated they needed a copy of their DD214 to apply for a VA benefit had applied for the following specific VA benefits: disability (3 participants), healthcare (1 participant), a home loan (1 participant said the bank needed the DD214), and education benefits (1 participant seemed to need it when starting to apply online, but then ultimately didn't seem to need it when he went to a VSO for application help). 
 
 The other participants (4/10) that did not bring up needing their DD214 to apply for benefits included those that did not mention applying for any VA benefits (2 participants), and those that applied for VA benefits but did so without their DD214 (2 participants). Of those that applied for benefits without their DD214, 1 participant never received a DD214 or any other discharge paperwork when she left the navy. When she applied for healthcare benefits, she went in person and got help with her application, and she was able to do that without requesting a copy of her DD214. The other participant who applied for benefits without a DD214 had applied for an increase in coverage from the VA and used a benefits letter found on eBenefits (not her DD214) to prove that she had been in the military. 
 
 ### Depending on how Veterans apply for VA benefits and services, they may or may not need to provide information about their service history and/or a copy of their DD214.
-Based on the two accounts from participants of applying for VA benefits without a DD214 and some searching through common forms used to apply for benefits (specifically, VA form 21-526EZ used for applying for disability, VA form 28-1900 used for applying for VR&E/education benefits, and VA form 21P-527EZ used for applying for Veterans' pension), I can confidently assert that Veterans are not required in every case of applying for VA benefits to supply a copy of their DD214. That being said, proving one's military service in some way is a requirement for all benefits, and that may be done in some cases simply by giving the VA permission to gather that evidence on a Veteran's behalf. 
+Based on the two accounts from participants of applying for VA benefits without a DD214 and some searching through common forms used to apply for benefits (specifically, VA form 21-526EZ used for applying for disability, VA form 28-1900 used for applying for VR&E/education benefits, and VA form 21P-527EZ used for applying for Veterans' pension), I can confidently assert that Veterans are not required in every case of applying for VA benefits to supply a copy of their DD214. That being said, proving one's military service in some way is a requirement for all benefits, and that may be done in some cases simply by granting permission to a VSO to gather that evidence on the Veteran's behalf. 
 
-For common VA benefits such as healthcare, disability, education: If Veterans are able to supply their DD214 and/or service history information on their own without seeking help from a VAMC or VSO, the Veteran may be able to complete the benefits application process quickly online, from their own home. If they are lacking this information, they will need to take extra steps that may be time-consuming. The process of requesting a copy of one's DD214, for example, could take a month. Not supplying the information or document needed could result in the application moving much more slowly through the VA's review process. In other words, even if a Veteran can apply for a benefit without a DD214, having that one document does facilitate and expedite the process of applying for a VA benefit, as well as receiving a decision the application, and potentially eventually receiving that benefit.
+"When you go to school or say for instance, when you're trying to buy a car or something [...] just to verify that you actually were in the military. That's the main thing, that [VA benefits] letter [...] You can use [your DD214] too but I find that benefits letter like, that's a big help."
 
-### Though they may not *need* their DD214, having a copy of it facilitates application for VA benefits and for other non-VA veterans' privileges, memberships, and discounts. 
-The finding just above this one provides some context for why it can be helpful to provide one's DD214 as part of the application process for VA benefits. There are other reasons why an easily accessible DD214 can be very helpful to Veterans. 
+### Though they may not *need* their DD214 in all cases to apply for VA benefits, having a copy of it facilitates the benefit application process and helps Veterans access non-VA privileges, memberships, and discounts. 
+For common VA benefits such as healthcare, disability, education: If Veterans are able to supply their DD214 and/or service history information on their own without seeking help from a VAMC or VSO, the Veteran may be able to complete the benefits application process quickly online, from their own home. If they are lacking this information, they will need to take extra steps that may be time-consuming. The process of requesting a copy of one's DD214, for example, could take a month. Not supplying the information or document needed could result in the application moving much more slowly through the VA's review process. In other words, even if a Veteran can apply for a benefit without a DD214, having that one document does facilitate and expedite the process of applying for a VA benefit, as well as receiving a decision on the application, and potentially eventually receiving that benefit.
 
-One reason is for those Veterans that have limited memory capabilities due to injury, as well as those Veterans that for non-injury related reasons may be unable to remember the exact dates of their service start and end, and other similar details about their service. When recruiting for this study, I did not ask Perigean to purposely recruit any Veterans with disabilities pertaining to memory. 2/10 of the participants interviewed mentioned as part of the interview that they had injury-related memory problems and had trouble remembering details such as service dates. Even though they didn't volunteer information about problems with their memory, a good number of participants said they had trouble remembering their exact service dates.  Another 2/10 participants discussed having their dates and other service history information memorized, but even those that believe they've memorized some of their information could benefit from some reminders: ""Some of the information, dates of service, are pretty much memorized. Awards I've received are pretty much memorized but training dates, those are not memorized. Different assignments that I've had over 26 years... [trails off]"
+A DD214 is one document that Veterans can use to prove that they served in the military. For this reason, Veterans can use their DD214 not only in the process of applying for VA benefits, but also for many non-VA privileges including membership to Veterans' groups and clubs such as the VFW, a Veteran driver's license, or to get Veteran-only discounts at stores:
+
+"Well obviously, 214s are, occasionally you need to present them to different like, I'm a member of the VFW now [...] so they need my 214 to verify my service in Vietnam."
+
+"Well doing Veterans' things, you know, they always have these free meals and a lot of establishments want to see either you know your ID card or your 214. So what I did I just pretty much when I renewed my license I just had them add it. I showed them my DD214 for them to add Veteran on my tags and also on my driver's license. And then when I go to celebrate Veterans Day, I can pretty much just show them that."
+
+"Sometimes you can get discounts on things if you can prove you're a veteran like, [...] if I go somewhere that offers a Veteran discount [...] I can get that discount. Makes life a little bit easier that way."
+
+### Veterans use their service information, whether from a DD214 or not, for reasons other than proving that they served in the military.
+A common use case for needing one's service information is career-related. 4/10 participants mentioned that service history information is important for buildng out a resume or otherwise showing one's professional experience for the sake of getting a job or getting credit for a special skill at work. For this purpose, Veterans could make use of military job descriptions, military educaton, as well as decorations, medals, badges and awards:
+
+"In the past, when I was employed as a social worker, yeah I had to, you know, put down dates of service and things like that, to have that information for jobs or you know what not."
+
+"If someone says I need to see your DD214 for like a job interview like as an example, I give them a copy."
+
+Participants (3/10) also mentioned using service dates and locations to piece together a timeline of their military experience. One reason Veterans do this is to help them remember the details around particular events to build a case for service-related injuries and/or trauma that may help them secure more VA benefits:
+
+"I was out of the service for, let's see, I got out in '89. So it wasn't until, like I said, 2006 when you know I started having issues and everything and correlating that to it being more brain related and then looking back, to be able to look at my service records to say, well I had a head injury when was in the service. [...] and then being able to utilize that to then put together, you know, a claim against the VA to be able to say, hey I have all these records here from when I was in the service."
+
+Or, in the case of one participant, this information was used to piece together exactly where his son was born when he was on active duty in Germany:
+
+"I wanted to see [...] exactly my tour time that I spent in Nuremburg, Germany because my son was born there and he actually doesn't have a birth certificate. So I actually had to go back and show them I was in the military and I was stationed [laughs] so [now] he pretty much has dual citizenship for Germany."
+
+### Veterans are not able to memorize all the information they'd need from their DD214 (if they have one).
+One reason is for those Veterans that have limited memory capabilities due to injury, as well as those Veterans that for non-injury related reasons may be unable to remember the exact dates of their service start and end, and other similar details about their service. When recruiting for this study, I did not ask Perigean to purposely recruit any Veterans with disabilities pertaining to memory. Regardless, 2/10 of the participants interviewed mentioned that they had injury-related memory problems and had trouble remembering details such as their own service dates. While they didn't disclose any issues with memory generally, another 2/10 participants said they had trouble remembering their exact service dates, let alone other service history details.
+
+"I reference my DD214 for everything. [...] Like I said my memory, I'm not gonna say shot...[trails off]."
+
+"I never know those dates by heart. I know the year."
+
+Another 2/10 participants discussed having their dates and other service history information memorized, but even those that believe they've memorized some of their information would benefit from some reminders: "Some of the information, dates of service, are pretty much memorized. Awards I've received are pretty much memorized but training dates, those are not memorized. Different assignments that I've had over 26 years ago... [trails off]"
+
+Remembering service history details becomes harder with age, as memory declines and the time of one's service recedes further into the past.
 
 ### The most common service history related fields that participants recalled when applying for VA benefits were branch of service and service dates.
 
 ### Veterans use service history information such as dates and locations to piece together timelines, which assist with applying for benefits to cover service-related injuries or to piece together the dates and locations of other events.
+Participants (3/10) also mentioned using service dates and locations to piece together a timeline of their military experience. One reason Veterans do this is to help them remember the details around particular events to build a case for service-related injuries and/or trauma that may help them secure more VA benefits:
+
+"I was out of the service for, let's see, I got out in '89. So it wasn't until, like I said, 2006 when you know I started having issues and everything and correlating that to it being more brain related and then looking back, to be able to look at my service records to say, well I had a head injury when was in the service. [...] and then being able to utilize that to then put together, you know, a claim against the VA to be able to say, hey I have all these records here from when I was in the service."
+
+Or, in the case of one participant, this information was used to piece together exactly where his son was born when he was on active duty in Germany:
+
+"I wanted to see [...] exactly my tour time that I spent in Nuremburg, Germany because my son was born there and he actually doesn't have a birth certificate. So I actually had to go back and show them I was in the military and I was stationed [laughs] so [now] he pretty much has dual citizenship for Germany."
 
 ### Veterans use service history information such as trainings, commendations, and position descriptions for professional reasons after the military, whether that is building out a resume or otherwise demonstrating qualifications for a role.
+4/10 participants mentioned that service history information is important for buildng out a resume or otherwise showing one's professional experience for the sake of getting a job or getting credit for a special skill at work. For this purpose, Veterans could make use of military job descriptions, military educaton, as well as decorations, medals, badges and awards:
+
+"In the past, when I was employed as a social worker, yeah I had to, you know, put down dates of service and things like that, to have that information for jobs or you know what not."
+
+"If someone says I need to see your DD214 for like a job interview like as an example, I give them a copy."
 
 ### Some Veterans lack easy access to their original DD214. 
+"Some people have a DD214, I don't have one. But if you had that, you'd be able to look on there to see your dates of service. Or you can email the archives in DC."
 
 ### Participants like the idea of being able to access service history information AND their DD214 easily online. 
 
