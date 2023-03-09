@@ -202,7 +202,7 @@ Because of the ambiguous language in the warning alert, a few participants felt 
 
 Half of the participants struggled with going back and uploading evidence from the evidence summary page.
 
-We prompted participants to upload evidence as an optional task for 8 of the participants, and several participants felt lost when they were brought back to the VA medical records screen. Although they had just gone through the order of evidence (VA medical, private medical, upload documents), a few struggled getting back to the ‘upload documents’ page (which is third in the flow). The progress bar not changing for the section also made it unclear that they had moved backwards in the form.
+We prompted participants to upload evidence as an optional task for 8 of the participants, and several participants felt lost when they were brought back to the VA medical records screen. Although they had just gone through the order of evidence (VA medical, private medical, upload documents), a few struggled getting back to the ‘upload documents’ page (which is third in the flow). They had the expectation that since they wanted to upload evidence, the add evidence button would lead them straight to the upload screen, and didn't expect to have to click through. The progress bar not changing for the section also makes it unclear that they moved backwards in the form.
 
 ![add-evidence-flow.png](images/add-evidence-flow.png)
 
@@ -210,7 +210,8 @@ We prompted participants to upload evidence as an optional task for 8 of the par
 > 
 
 > “I would say some people would think that a buddy statement is consider a medical record sometimes, I don't remember if I submitted it under this. or if there was a separate screen.”
-> 
+
+> "*do you want to upload your records* ummm yea... maybe someone will be patient enough to click to it... that was like two clicks before I got to here. Hmm... what were you expecting for evidence on previous page... I was expecting an option on the previous page... I was expecting to see um... another option other than... but... you can always... put something in there... I don't know... maybe a direct link to this? so they don't have to click through two things?"
 
 ### Finding 9
 
