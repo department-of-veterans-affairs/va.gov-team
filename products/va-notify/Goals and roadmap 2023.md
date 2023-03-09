@@ -157,21 +157,8 @@ As VA Notify continues to onboard business lines and notification suites are exp
 
 **Expected launch date**: March 2023
 
-* 22-10203 (Application for Edith Nourse Rogers STEM Scholarship)
 
-**Expected launch date**: March 2023 (This one may be more complicated because it already has a notification)
 
-* 22-5495 (Dependents’ Request for Change of Program or Place of Training)
-
-**Expected launch date**: April 2023
-
-* 22-1995 (Request for Change of Program or Place of Training)
-
-**Expected launch date**: April 2023
-
-* 22-0994 (Application for Veteran Employment Through Technology Education Courses (VET TEC).
-
-**Expected launch date**: May 2023
 
 ## The rest of the year
 
@@ -207,6 +194,23 @@ To keep our platform performing at its best, we plan to execute the following:
 **Expected launch date**: June 2023
 
 ### Strike Team
+
+#### VA.gov Forms
+* 22-5495 (Dependents’ Request for Change of Program or Place of Training)
+
+**Expected launch date**: April 2023
+
+* 22-1995 (Request for Change of Program or Place of Training)
+
+**Expected launch date**: April 2023
+
+* 22-0994 (Application for Veteran Employment Through Technology Education Courses (VET TEC).
+
+**Expected launch date**: May 2023
+
+* 22-10203 (Application for Edith Nourse Rogers STEM Scholarship)
+
+**Expected launch date**: March 2023 (This one may be more complicated because it already has a notification)
 
 #### User Roles - SSUI
 Defining permission-based roles within the Self-Service Portal helps business lines maintain higher security practices in line with VA standards when establishing and maintaining teams, especially when team members can turn over frequently.  Business lines will be able to define who within their team can create and edit notifications, customize service details, and publish notifications from staging to production. 
