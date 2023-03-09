@@ -123,7 +123,7 @@ We will keep track of participant demographic information (identified gender, ag
 	- No *(Recruit 12 if meet other criteria)*
 
 8. Are you able to join the Zoom session using this assistive technology? 
-	- Yes *(Recruit 12, go onto Screener question 7)*
+	- Yes *(Recruit 12, go onto Screener question 9)*
 	- No *(Disqualify as screenreader participant; can be recruited based on other criteria)*
 
 9. Please list the name of the assistive technology or software you will use during the session.
