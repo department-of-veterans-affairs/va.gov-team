@@ -2,7 +2,7 @@
 
 ## 1,000 foot view: Support the 2023 OCTO objectives
 
-In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year. The VA Notify team will primarily support the following objectives:
+In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year. The VA Notify team will support any objective that requires a notification, our primary focus is on the following objectives:
 
 - Enhance Veterans' personalized online experience
 - Integrate the health portal features into VA.gov
