@@ -95,6 +95,8 @@ Before applying, all of the participants understood the requirements of a Supple
 
 Most participants had a clear understanding of the requirements for filing Supplemental Claims and what presumptive conditions are. They found the information they needed in the blue introduction box, and clearly located the sections that talked about presumptive conditions and PACT.
 
+Labels: BNFT: Disability, INTIVE: PACT Act, DSC: Featured content
+
 One participant thought they could use a Supplemental Claim for a worsening condition, and only realized that’s not true when they saw it was for a claim they disagree with.
 
 ![sitewide-intro.png](images/sitewide-intro.png)
@@ -115,6 +117,8 @@ One participant thought they could use a Supplemental Claim for a worsening cond
 
 A few participants were not able to locate the action link to file a Supplemental Claim on the unauthorized site-wide introduction page.
 
+Labels: BNFT: Disability, DSC: Action Link, PRDT: Content
+
 For participants who missed the link, they saw they could download and file a Supplemental Claim by mail, but could not locate where they could file a Supplemental Claim *online*. They also didn’t notice the difference between filing for a _disability claim_ vs _all types of claims_.
 
 ![sitewide-claims-cta.png](images/sitewide-claims-cta.png)
@@ -129,6 +133,8 @@ For participants who missed the link, they saw they could download and file a Su
 
 Most participants tried to add evidence to their Supplemental Claims, despite understanding that they don't need evidence to prove service connection for presumptive conditions.
 
+Labels: BNFT: Disability, INTIVE: PACT Act
+
 Since the evidence flow was presented to them, participants were inclined to add evidence, even when they understood they didn’t need any to prove service connection. When asked why, participants mentioned that it’s better to include copies of medical records, even if the VA has them from the original claim. Some mentioned annotating and uploading their own records to ensure it’s being read.
 
 ![evidence-flow.png](images/evidence-flow.png)
@@ -142,6 +148,8 @@ Since the evidence flow was presented to them, participants were inclined to add
 ### Finding 4
 
 Most participants thought the 'Edit' link on the issue summary page and evidence summary page would let them perform an action different from what they actually do.
+
+Labels: BNFT: Disability, DSC: Form controls
 
 Due to proximity, participants thought the ‘Edit’ links were to meant to edit the information that it’s closest to. For the issue summary, it was the decision date. For the evidence summary, it’s the name of the document. In actuality, the edit links would navigate them back to the previous screens where they could select issues or upload evidence.
 
@@ -160,6 +168,8 @@ Due to proximity, participants thought the ‘Edit’ links were to meant to edi
 
 Half of the participants were confused by the Appeals Modernization Act because they didn't know about the old appeals process, but still continued with the form.
 
+Labels: BNFT: Disability, DSP: Contextual help
+
 This screen is shown conditionally for issues we know fall under the old appeals process, and for issues that we don’t know fall under the old appeals process. We tested two sets of copy for this page, one that was simplified for plain language but didn’t pass legal requirements, and one that fulfills legal requirements. Both triggered the same level of concern over what the old appeals process was, but the content with the extra legal language took participants twice as long to read, and for some to re-read.
 
 For participants who knew about the old appeals process, they were drawn to the fact that switching over may mean a faster decision. For participants unfamiliar to the old appeals process, they were likely to finish the application later after checking their decision letter or asking a third party for more information.
@@ -176,6 +186,8 @@ For participants who knew about the old appeals process, they were drawn to the 
 
 Participants understood what the notice of evidence needed is, and more than half clicked the link to view the required external page before certifying.
 
+Labels: BNFT: Disability, DSC: Link
+
 ![notice-of-evidence-needed.png](images/notice-of-evidence-needed.png)
 
 > “It's good there's a link here for notice of evidence needed [paused over paragraph that said "to review the 38 USC 5103"]”
@@ -187,6 +199,8 @@ Participants understood what the notice of evidence needed is, and more than hal
 ### Finding 7
 
 A few participants experienced confusion when they reached the warning alert on the evidence summary page.
+
+Labels: BNFT: Disability, DSC: Alert boxes
 
 Because of the ambiguous language in the warning alert, a few participants felt that they needed to attach evidence to the claim. They experienced confusion and questioned what type of evidence is needed to support their claim, especially since the introduction told them it wasn’t needed.
 
@@ -202,6 +216,8 @@ Because of the ambiguous language in the warning alert, a few participants felt 
 
 Half of the participants struggled with going back and uploading evidence from the evidence summary page.
 
+Labels: BNFT: Disability, DSC: Action Link, DSC: Progress bars, DSP: Experimental
+
 We prompted participants to upload evidence as an optional task for 8 of the participants, and several participants felt lost when they were brought back to the VA medical records screen. Although they had just gone through the order of evidence (VA medical, private medical, upload documents), a few struggled getting back to the ‘upload documents’ page (which is third in the flow). They had the expectation that since they wanted to upload evidence, the add evidence button would lead them straight to the upload screen, and didn't expect to have to click through. The progress bar not changing for the section also makes it unclear that they moved backwards in the form.
 
 ![add-evidence-flow.png](images/add-evidence-flow.png)
@@ -216,6 +232,8 @@ We prompted participants to upload evidence as an optional task for 8 of the par
 ### Finding 9
 
 Most of the participants misunderstood the action for the 'print this page' button.
+
+Labels: BNFT: Disability, DSC: Buttons
 
 Most participants expected a way to download a copy of their completed form when the form was submitted, and applied that expectation to the button. In actuality, the button only prints the confirmation page.
 
@@ -288,19 +306,23 @@ Most participants expected a way to download a copy of their completed form when
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/f7f135c365c0e2f316b9731e0b1ff8c0b0ebfa26/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/conversation-guide.md)
 
-### Tools used for Synthesis
+## Tools used for Synthesis
 
 [Mural](https://app.mural.co/t/coforma8350/m/coforma8350/1676302103233/c0fe1e04853c9a80ea98dc63c9e6397d071c7617?sender=udbf574074425980f04c55360) (restricted, please request access)
 
-### Pages and applications used
+## Pages and applications used
 
 [Prototype used in testing](https://www.sketch.com/s/d2416db4-9a4f-4919-abe4-20ba4bdcfd89/prototype/a/A4ED99CB-748B-4EED-8F83-5D6733BA9F42)
 
-### Other supporting documents created
+## Other supporting documents created
 
 [Sketch file](https://www.sketch.com/s/d2416db4-9a4f-4919-abe4-20ba4bdcfd89/p/9B9A6622-6A03-4151-99B5-AD62020D958B/canvas#About)
 
-### Who we talked to
+## Secondary research
+- [Initial Supplemental Claims MVP Prototype Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/MVP%20Usability%20Research/research-findings.md)
+- [Supplemental Claims PACT Desk Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/desk-research-pact-Act.md)
+
+## Who we talked to
 
 Intended audience for this research: Veterans. Other claimant types can file a Supplemental Claim, but these use cases have been de-scoped for MVP.
 
@@ -380,15 +402,8 @@ This research does not include the perspectives of the following marginalized Ve
 
 - Immigrant origin
 - Other than honorable
+- Gay, lesbian, or bisexual
 - Transgender
-- AT beginner
-- AT advanced user
-- Desktop screen reader
-- Mobile screen reader
-- Magnification/Zoom
-- [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking
-- Hearing aids
-- Sighted keyboard
-- Captions
+- Nonbinary, gender fluid
 
 [VA recruitment tracker for equality](VA-recruitment-tracker-for-equality-2023-01-Supplemental-Claims-PACT.pdf)
