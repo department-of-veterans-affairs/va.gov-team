@@ -274,12 +274,6 @@ Sprint 6 Epic [#54553](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
 - QA -- figure out how to locally test outlier use cases #54879 (3 pts)
 - Review changes with Mobile App Team #54763 (2 pts)
 
-### Notification preferences
-
-**FE - Adam**
-
-- Build editing page for profile PT2 #54434
-
 ### Logged-in IA/nav research
 
 **Design - Liz**
@@ -318,13 +312,6 @@ Then we are ready to close out this project!!
 - Integration Testing between FE and BE (Staging) #54771 (4 pts)
 - Update Direct Deposit BE Documentation #54762 (3 pts)
 
-### Notification preferences
-
-**FE - Adam**
-
-- Build the new page for the mobile # #53547
-- Rollout, Cleanup of edit mobile phone page #53549
-
 ### Logged-in IA/nav research
 
 **Design - Liz**
@@ -350,7 +337,21 @@ Then we are ready to close out this project!!
 **BE -- Tom**
 
 - If time, start on fixes from QA
+
+### Notification preferences
+
+**FE - Adam**
+
+- Build editing page for profile PT2 #54434
+- Build the new page for the mobile # #53547
  
 ## Sprint 9 (4/26 - 5/9)
+
+### Notification preferences
+
+**FE - Adam**
+
+- Rollout, Cleanup of edit mobile phone page #53549
+
 ## Sprint 10 (5/10 - 5/23)
 
