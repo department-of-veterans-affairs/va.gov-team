@@ -157,12 +157,13 @@ See [Detailed analysis of existing functionality](#detailed-analysis-of-existing
 
 
 ## Questions to answer
-- How can we make the selection process on the BB download page as efficient and intuitive as possible?
+- What options are available for customizing each of these reports? Should we include all customization options off the bat or can we include those post-MVP?
+- What information will the MVP version of BB download include? If we aren't including self-entered data as part of the MVP portal, should we include it as part of the MVP BB report?
+
 - How closely do users associate the more comprehensive health report with the Blue Button name/brand? Is there a name that would be more intuitive?
-- Are users able to easily discern the differences between a My VA Summary report vs. a VA Blue Button report?
+- Are users able to easily discern the differences between a My VA Summary report vs a VA Blue Button report?
 - What information can we provide up front to help users quickly identify the type of report best fits their needs?  Possible examples - a comparison matrix showing which option can be customized, which has the option to download XML, which contains DoD information, etc.
 - Is it necessary to have extensive user documentation if our usability testing finds that the tools are intuitive?
-- What options are available for customizing the layout of each of these reports?
 - Who do we need to get feedback from? 
    - Dr. Lorainne Josephs, Dr. Neil Evans, Theresa Hancock
 
