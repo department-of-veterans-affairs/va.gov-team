@@ -63,6 +63,14 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 Given the logistical complexities of this study, and given the fact misunderstandings on the part of participants could keep them from being logistically able to participate, we request the following: 
 	(1) To have a kickoff meeting with Perigean to confirm that everyone is on the same page regarding the recruitment criteria; and 
 	(2) That Perigean personnel call participants ahead of time to confirm that they (a) have never received care at any of the healthcare facilities listed, (b) use login.gov or ID.me to log into VA.gov, and (c) are providing the email associated with those accounts to study staff. 
+	
+**Availability for potential kickoff meeting times with Perigean, depending on their availability. Anticipate KO meeting lasting 30 minutes**
+- Friday, March 10: Any time after 10 am ET
+- Monday, March 13: Any time 10 am - 2 pm ET, or after 3:30 ET
+- Tuesday, March 14: 10 am - 12:30 pm ET; 3-5 pm ET
+- Wednesday, March 15: 10 am - 3 pm
+- Thursday, March 16: 10 am - 1:30 pm; 3 - 4:30 pm
+- Friday, March 17: Any time after 10 am ET
 
 We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information (whether the Veteran has used MyHealtheVet before; whether the Veteran uses VA healthcare) in an encrypted Google Sheet that will be stored on the Ad Hoc Google Drive. 
 
