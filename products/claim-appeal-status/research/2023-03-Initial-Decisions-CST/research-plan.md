@@ -81,6 +81,10 @@ Remote on Zoom
 ### Recruitment approach
 For this study we want to talk to Veterans who **currently have an open disability compensation claim** and who have a valid VA.gov account (we don't want them to have to create one during the session). We will be reviewing the Veteran's **actual VA.gov signed-in experience** with them to identify challenges and pain points. 
 
+> Are you currently waiting on the result of a disability compensation claim? 
+
+- Participants should respond "Yes" to this.
+
 ### Recruitment criteria
 
 ** **KICKOFF CALL WITH PERIGEAN REQUESTED** **
