@@ -308,8 +308,9 @@ Then we are ready to close out this project!!
 
 **FE - Adam**
 
-- Review updates with Tom; determine if we need any analytics changes
-- Integration Testing between FE and BE (Staging)
+- Do we need any analytics updates?
+- Vets-API Review with FE (Adam) #54769 (2 pts)
+- Integration Testing between FE and BE (Staging) #54771 (4 pts)
 
 **BE - Tom**
 
