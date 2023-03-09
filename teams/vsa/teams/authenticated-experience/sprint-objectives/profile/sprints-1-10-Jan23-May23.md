@@ -270,11 +270,10 @@ Sprint 6 Epic [#54553](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
 
 **BE - Tom**
 
-- Finish build and outstanding tickets!
+- Look into/account for outlier contact information/direct deposit dependency #54883 (3 pts)
+- Look into/account for fraud use case #54887 (3 pts)
+- QA -- figure out how to locally test outlier use cases #54879 (3 pts)
 - Review changes with Mobile App Team #54763 (2 pts)
-- Update Direct Deposit BE Documentation #54762 (3 pts)
-- Vets-API Review with FE (Adam) #54769 (2 pts)
-- Integration Testing between FE and BE (Staging) #54771 (4 pts)
 
 ### Notification preferences
 
@@ -342,6 +341,10 @@ Then we are ready to close out this project!!
 
 - Run QA & create bug tickets
   - Everyone should be part of this.
+
+**BE -- Tom**
+
+- If time, start on fixes from QA
  
 ## Sprint 9 (4/26 - 5/9)
 ## Sprint 10 (5/10 - 5/23)
