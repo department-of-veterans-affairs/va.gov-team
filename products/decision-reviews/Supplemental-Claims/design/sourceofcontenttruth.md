@@ -272,6 +272,14 @@ If you don’t see your issue or decision listed here, it may not be in our syst
 
 **_CONTINUE_**
 
+_Error_
+
+#### You'll need to select an issue
+You must select at least 1 issue before you can continue filling out your request.
+
+#### Sorry, we couldn’t find any eligible issues
+If you’d like to add an issue for review, please select “Add a new issue” to get started.
+
 ----------------------------------------------
 
 ## Step 2 of 4: Issues for review
@@ -295,17 +303,6 @@ Enter the date on your decision notice (the letter you received in the mail from
 **_BACK_**
 
 **_CONTINUE_**
-
-_Error_
-
-If you're filing a Supplemental Claim within 1 year of receiving your decision notice, provide the date listed on your decision notice. 
-
-#### You'll need to select an issue
-You must select at least 1 issue before you can continue filling out your request.
-
-#### Sorry, we couldn’t find any eligible issues
-If you’d like to add an issue for review, please select “Add a new issue” to get started.
-
 ----------------------------------------------
 
 ## Step 2 of 4: Issues for review
