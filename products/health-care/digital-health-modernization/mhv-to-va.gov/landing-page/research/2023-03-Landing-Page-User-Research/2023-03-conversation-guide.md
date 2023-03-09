@@ -117,4 +117,34 @@ Let’s start with a few questions...
 17. What about if you wanted to sign up for the MHV newsletter - where would you go to do that? 
 	- _Probe for whether this should be in Profile or somewhere health-specific._ 
 
-18. 
+18. Are there specific statuses or notifications that you would want to see immediately after signing in? (For example, being notified that you have an unread message or need to refill a prescription.)
+	- _If yes:_ What are they? 
+	- _If no:_ Why not?
+
+19. Where would you expect that information _(the specific statuses or notfications)_ to pop up? 
+
+20. When you have been notified of changes to VA.gov, where have you received that information? 
+
+21. Is there anything else that we haven't talked about that you think I should know? 
+
+## Thank You and Closing - 1 minute
+
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
+
+If you know any other Veterans, caregivers, or service members who might be willing to participate in a future research session like this one, you can pass along the web link that you'll receive in your email from our team. 
+
+Thank you so much again, and I hope that you enjoy the rest of your day!
+
+*In the Transcript window, click **Save Transcript**, open in Finder and then save*
+
+*End meeting for all*
+
+## Language in event participant needs mental health resources
+
+I want to remind you that VA can help connect you to mental health services--even if you're not enrolled in VA health care. To access services right away, call or go to any VA medical center at any time 24/7 or any Vet Center during clinic hours. You can also call 877-222-8387, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. That's 877-222-8387.
+
+**If the participant looks like they need help right now...**
+
+Would you like to stop this session now?
+
+If you find that you're in crisis and need to talk to someone right away, you can reach out to the Veterans Crisis line via phone call, text, or chat anytime day or night. You can call 800-273-8255 or text 838255.
