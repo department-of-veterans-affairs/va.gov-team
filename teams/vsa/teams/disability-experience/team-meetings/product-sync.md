@@ -3,10 +3,20 @@
 ### Date: March 9 2023
 ### Items to be discussed:
 - Goal-ideas alignment on the idea board
+   - Matt to review the board and add ideas/comments as needed
+   - Matt to discuss the upcoming prioritization effort with VBA stakeholders
 - Plan for next steps in prioritization
+   - Schedule a value conversation with stakeholders middle of next week (week of March 13th) - Rakshinda
+   - Schedule a effort/complexity conversation with the team and Matt later next week (week of March 13th) - Rakshinda
+   - Schedule a prioritization meeting with the stakeholders and team to review the ideas on value/effort matrix and agree on what ideas to pursue (week of March 13th or 21st) - Rakshinda
 - Handling incoming bugs
+   - The bugs for all of va.gov are reported together
+   - Matt to do the initial intake for 526 bugs and forward them to the us - manual
+   - Matt ( transition to Anneliese) follow-up on updates/completed bugs with the reporter, as needed
+   - Later - look at possible automation of updates via SNOW/github 
 - Handling incoming improvement requests
-- 
+   - Schedule intake with the reporter with Matt and team
+   - Prioritize and next steps BAU
 
 ### Date: Feb 15 2023
 ### Items to be discussed:
