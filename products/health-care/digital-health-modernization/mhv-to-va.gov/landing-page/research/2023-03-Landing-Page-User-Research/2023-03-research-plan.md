@@ -161,7 +161,7 @@ Please list the people who will be serving in each role.
 - Project point of contact: Robyn Singleton 
 - Participants for pilot test: TBD
 - Note-takers: Jonathan Nelson (jonathan.nelson@adhocteam.us)
-- Observers: Coulton Bunney (coulton.bunney@va.gov); Marci McGuire (marci.mcguire@adhocteam.us), Mikki Northuis (mikki.northuis@va.gov), all others to sign up via sign up list. 
+- Observers: Marci McGuire (marci.mcguire@adhocteam.us), all others to sign up via sign up list. 
 
 ## Approvals
 - Reviewed and approved by Coulton Bunney on 3/9/2023
