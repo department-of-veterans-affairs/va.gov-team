@@ -21,8 +21,8 @@ Slack for real-time feedback from observers.
 
 
 ### Starting the session
-- In the Attendees section, make sure everyone except the participant is on mute.
-- When the participant is ready, begin the session with the following intro*
+- [ ] In the Attendees section, make sure everyone except the participant is on mute.
+- [ ] When the participant is ready, begin the session with the following intro*
 
 
 ## Intro - 5-10 minutes
@@ -82,7 +82,7 @@ Let’s start with a few questions...
 4. _Starting from [new home page](https://www.va.gov/new-home-page/):_ Using VA.gov, if you wanted to send a message to your doctor to follow up about a question you had in a previous appointment, how would you go about doing that? 
 	- _Nudge and probe as appropriate. If get totally lost, help them out. Ultimately, need them to sign in._
 
-_Optional alternative approach:_ There is a new section where you can find all of your personal health information, like your messages with your doctor and your personal health records. _(If person is MHV user, let them know that we are moving MHV onto VA.gov.)_ 
+	- _Optional alternative approach:_ There is a new section where you can find all of your personal health information, like your messages with your doctor and your personal health records. _(If person is MHV user, let them know that we are moving MHV onto VA.gov.)_ 
 	- Starting from this home page, how would you find this new page with all your personal health information?
 
 5. _Once the person arrives at landing page:_ Why don't you spend a little time getting to know this page. 
@@ -112,9 +112,9 @@ _Optional alternative approach:_ There is a new section where you can find all o
 15. _Optional question:_ What do you want to be able to do on this page? How would you go about trying to do that?
 
 16. If you wanted to be reminded that you have an appointment, that would require setting that up as a "preference." How would you go about doing that? 
-	- _Probe for whether this should be in Profile or somewhere health-specific. 
+	- _Probe for whether this should be in Profile or somewhere health-specific._ 
 
 17. What about if you wanted to sign up for the MHV newsletter - where would you go to do that? 
-	- _Probe for whether this should be in Profile or somewhere health-specific. 
+	- _Probe for whether this should be in Profile or somewhere health-specific._ 
 
 18. 
