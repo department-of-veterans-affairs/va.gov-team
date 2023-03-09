@@ -1,5 +1,13 @@
 # Benefits Disability Experience - Product sync
 
+### Date: March 9 2023
+### Items to be discussed:
+- Goal-ideas alignment on the idea board
+- Plan for next steps in prioritization
+- Handling incoming bugs
+- Handling incoming improvement requests
+- 
+
 ### Date: Feb 15 2023
 ### Items to be discussed:
 - Review github organization
