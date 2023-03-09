@@ -53,7 +53,7 @@ Data collection will be remote and conducted using Zoom.
 
 ### Research materials
 
-[Conversation guide](link)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research/2023-03-conversation-guide.md)
 
 ## Recruitment
 
