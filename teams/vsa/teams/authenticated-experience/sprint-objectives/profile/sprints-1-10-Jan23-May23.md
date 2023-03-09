@@ -265,8 +265,7 @@ Sprint 6 Epic [#54553](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
 
 **FE - Adam**
 
-- Review updates with Tom; determine if we need any analytics changes
-- Integration Testing between FE and BE (Staging)
+- QA -- figure out how to locally test outlier use cases #54879
 
 **BE - Tom**
 
@@ -306,6 +305,11 @@ This is dependent on hiring:
 Then we are ready to close out this project!!
 
 ### Direct deposit: EVSS > Lighthouse migration
+
+**FE - Adam**
+
+- Review updates with Tom; determine if we need any analytics changes
+- Integration Testing between FE and BE (Staging)
 
 **BE - Tom**
 
