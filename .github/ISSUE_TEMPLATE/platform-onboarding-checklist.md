@@ -20,24 +20,24 @@ Note: AWS access can be granted once the EQIP has been submitted _before the PIV
 
 **Platform coordination**
 - [ ] Share your calendar with VSP teams: va-vsp-team@oddball.io and  vsp-team.group@adhocteam.us
-- [ ] Ensure you're in Google Groups [va-vsp-team](https://groups.google.com/a/oddball.io/g/va-vsp-team) and [va-vsp-engineering](https://groups.google.com/a/oddball.io/g/va-vsp-engineering). 
-- [ ] Use `/support` in #vfs-platform-support to request access.
+- [ ] Ensure you're in Google Groups [va-vsp-team](https://groups.google.com/a/oddball.io/g/va-vsp-team) and [va-vsp-engineering](https://groups.google.com/a/oddball.io/g/va-vsp-engineering). Use `/support` in #vfs-platform-support to request access.
 - [ ] Ensure you have access to the Google Drive folder ["VSP team"](https://drive.google.com/drive/u/0/folders/0AJ6yVhfytxhFUk9PVA)
+- [ ] Ensure you're in Github Teams 
+  - [vets-gov-write](https://github.com/orgs/department-of-veterans-affairs/teams/vets-gov-write) 
+  - [vsp-operations](https://github.com/orgs/department-of-veterans-affairs/teams/vsp-operations) _DevOps Only_
 - [ ] DSVA Slack Workspace
   - [ ] #platform-cop-(frontend? devops?)
   - [ ] #platform-team
   - [ ] #vfs-all-teams
 
 **Team coordination**
-- [ ] [Meet the team](https://vfs.atlassian.net/wiki/spaces/TT2/pages/2401796102/Team+Charter+WIP#Meet-the-team)
-- [ ] [How we work](https://vfs.atlassian.net/wiki/spaces/TT2/pages/2401796102/Team+Charter+WIP#How-we-work-together)
-- [ ] [Current project](https://app.zenhub.com/workspaces/platform-tech-team-2-633efe4ca5a428e5294d7ade/issues/department-of-veterans-affairs/va.gov-team/47043)
-- [ ] [ZenHub Kanban Board](https://app.zenhub.com/workspaces/platform-tech-team-2-633efe4ca5a428e5294d7ade/board?repos=133843125,194202180) for Platform Tech Team 2
+- [ ] [Meet the team](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)
+- [ ] [How we work](https://vfs.atlassian.net/wiki/spaces/AP/overview)
+- [ ] [ZenHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub.md) 
 
 ### Documentation
 - [ ] [Request access to tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html) documentation on the Platform Website
 - [ ] [Confluence](https://vfs.atlassian.net/wiki/home)
-  - [ ] [Platform Tech Team 2 space](https://vfs.atlassian.net/wiki/spaces/TT2/)
   - [ ] [VA.Gov Platform Manual](https://vfs.atlassian.net/wiki/spaces/OT/pages/2354315287/Platform+Infrastructure+Manual+WIP)
 
 **Platform overview and design**
@@ -59,7 +59,7 @@ Note: AWS access can be granted once the EQIP has been submitted _before the PIV
 - [ ] [Keybase](https://keybase.io/)
 - [ ] [Datadog](https://vfs.atlassian.net/wiki/spaces/OT/pages/2233598117/Get+access+to+Datadog) - _ask your PM or TL to submit a request on your behalf_
 - [ ]  [AWS access request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=Access+for+%5Bindividual%5D) - _can be submitted early, but won't be approved until EQIP submission is verified_
-- [ ] [Venafi](https://vfs.atlassian.net/wiki/spaces/OT/pages/1719009302/Venafi+Gain+access+to+manage+internal+TLS+certificates) (Once PIV card has been obtained)
 
 _Once your PIV card has been obtained:_ 
 - [ ] [Citrix Access Gateway (CAG)](https://citrixaccess.va.gov/vpn/index_citrix_splash.html)
+- [ ] [Venafi](https://vfs.atlassian.net/wiki/spaces/OT/pages/1719009302/Venafi+Gain+access+to+manage+internal+TLS+certificates) _DevOps Only_
