@@ -29,7 +29,7 @@ This research will inform updates to the MHV on VA.gov landing page, currently i
 
 ### Research questions
 
-1. What are users reactions to and expectations from the new landing page? What do they understand this new landing page to be and how do they understand it in relation to VA.gov and the legacy MyHealtheVet? 
+1. What are users reactions to and expectations from the new landing page? What do they understand this new landing page to be and how do they understand it in relation to VA.gov and the current version of MyHealtheVet? 
 
 2. Are users able to navigate to the new landing page from an unauthenticated state, navigate and use the tools available there, and ultimately achieve their goals using the current wayfinding tactics? 
 
@@ -163,5 +163,5 @@ Please list the people who will be serving in each role.
 - Observers: Coulton Bunney (coulton.bunney@va.gov); Marci McGuire (marci.mcguire@adhocteam.us), Mikki Northuis (mikki.northuis@va.gov), all others to sign up via sign up list. 
 
 ## Approvals
-- Reviewed and approved by Coulton Bunney on (date)
+- Reviewed and approved by Coulton Bunney on 3/9/2023
 - Reviewed and approved by Shane Strassberg on (date)
