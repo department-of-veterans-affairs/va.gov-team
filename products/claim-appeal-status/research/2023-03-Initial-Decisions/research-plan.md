@@ -98,8 +98,8 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 ### Prepare
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: TBD
-* Date and time of pilot session: March 22
+* Pilot participant email: rocio@coforma.io
+* Date and time of pilot session: March 22, 4 PM EST
 
 ### Research sessions
 * Planned dates of research: March 27 – 31
