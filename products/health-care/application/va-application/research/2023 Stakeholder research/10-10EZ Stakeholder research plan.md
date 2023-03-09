@@ -47,6 +47,10 @@ This data we gather through this research will help our team:
 #### Secondary goal 
 ##### Integrations
 - What outside sources (apart from the application) are used to verify Veteran information?
+- Do any integrations exist today?
+- How is the data from outside sources used?
+- Does the data from these outside sources supercede the Veteran application input?
+- 
 
 ##### Pain Points
 - What are some of the main reasons a Veteran is denied eligibility and/or enrollment?
@@ -56,7 +60,7 @@ This data we gather through this research will help our team:
 ### Methodology
 We’ll conduct semi-structured, moderated 30-60 minute interviews.  This will allow our team to speak directly with the stakeholders and get answers to specific questions, while leaving the conversation open for follow-up questions and discussion around information as we learn it.
 
-Since VA prefers Teams over Zoom, we’ll conduct these interviews using Teams.
+Since VA prefers Teams over Zoom, we’ll conduct these interviews using Teams. - TBD
 
 If we find that people are not able to join an interview, we will turn our conversation guide into a survey they can complete asynchronously. 
 
