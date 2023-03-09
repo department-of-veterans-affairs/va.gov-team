@@ -164,7 +164,7 @@ This screen is shown conditionally for issues we know fall under the old appeals
 
 For participants who knew about the old appeals process, they were drawn to the fact that switching over may mean a faster decision. For participants unfamiliar to the old appeals process, they were likely to finish the application later after checking their decision letter or asking a third party for more information.
 
-![ama-new-decision-review.png](images/ama-new-decision-review.png)
+![ama-new-decision-review-2.png](images/ama-new-decision-review-2.png)
 
 > “I guess that's the only thing that I'd want is more clarification on the old process and what the new process is and what might be advantageous about that.”
 > 
