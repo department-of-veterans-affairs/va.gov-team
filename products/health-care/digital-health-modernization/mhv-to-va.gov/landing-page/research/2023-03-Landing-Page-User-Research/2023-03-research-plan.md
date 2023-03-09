@@ -102,23 +102,24 @@ We will keep track of participant demographic information (identified gender, ag
 		4. Roseburg VA Medical Center in Roseburg, OR
 		5. White City VA Medical Center in White City, OR
 	- Yes *(Disqualify)*
-	- No *(Go onto screener question 3)*
+	- No *(Go onto Screener question 3)*
+
 
 3. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
 	- Yes *(go on to additional Screener question 4)*
-	- No *(recruit 8)*
+	- No *(recruit 8, and go onto Screener question 5 in event participant meets screenreader criteria)*
 
 4. *(If yes to Screener question 3)* Have you signed into the My HealtheVet website at least once (this could be at home, at a VA clinic, hospital, or VA community care provider) in the last 12 months?
 	- Yes *(recruit 16)*
 	- No *(disqualify)*
 
 5. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
-	- Yes *(Go onto screener question 4)*
-	- No *(Recruit 12 if meet other criteria; go onto screener question 6)*
+	- Yes *(Go onto Screener question 6)*
+	- No *(Recruit 12 if meet other criteria; go onto Screener question 6)*
 
 6. Are you able to join the Zoom session using this assistive technology? 
-	- Yes *(Recruit 12)*
-	- No *(Disqualify as screen reader participant; can be recruited based on other criteria)*
+	- Yes *(Recruit 12, go onto Screener question 7)*
+	- No *(Disqualify as screenreader participant; can be recruited based on other criteria)*
 
 7. Please list the name of the assistive technology or software you will use during the session.
 
