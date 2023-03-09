@@ -81,7 +81,7 @@ For this study we want to talk to Veterans who **currently have an open disabili
 
 **Primary criteria (must-haves)**
 
-We are looking for Veterans who have an open disability compensation claim. 
+We are looking for Veterans who have an open disability compensation claim. They must be willing to log in and share screen, which may contain personal information. They must have an authenticated account that they can log into.
 
 We would like to recruit 20 veterans. We would like representation from the following underrepresented groups: 
 
