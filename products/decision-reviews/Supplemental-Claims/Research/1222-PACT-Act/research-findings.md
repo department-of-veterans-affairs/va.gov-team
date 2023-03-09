@@ -86,7 +86,7 @@ Before applying, all of the participants understood the requirements of a Supple
 5. Half of the participants were confused by the Appeals Modernization Act because they didn't know about the old appeals process, but still continued with the form.
 6. Participants understood what the notice of evidence needed is, and more than half clicked the link to view the required external page before certifying.
 7. A few participants experienced confusion when they reached the warning alert on the evidence summary page.
-8. Half of the participants struggled with going back and adding evidence from the evidence summary page.
+8. Half of the participants struggled with going back and uploading evidence from the evidence summary page.
 9. Most of the participants misunderstood the action for the 'print this page' button.
 
 ## Details of Findings
@@ -160,7 +160,7 @@ Due to proximity, participants thought the ‘Edit’ links were to meant to edi
 
 Half of the participants were confused by the Appeals Modernization Act because they didn't know about the old appeals process, but still continued with the form.
 
-This screen is shown conditionally for issues we know fall under the old appeals process, and for issues that we don’t know all under the old appeals process. We tested two sets of copy for this page, one that is completely simplified but didn’t pass OAR requirements, and one that fulfills legal requirements. Both triggered the same level of confusion, but the one with the extra legal language took participants twice a long to read, or required a re-read.
+This screen is shown conditionally for issues we know fall under the old appeals process, and for issues that we don’t know fall under the old appeals process. We tested two sets of copy for this page, one that was simplified for plain language but didn’t pass legal requirements, and one that fulfills legal requirements. Both triggered the same level of concern over what the old appeals process was, but the content with the extra legal language took participants twice as long to read, and for some to re-read.
 
 For participants who knew about the old appeals process, they were drawn to the fact that switching over may mean a faster decision. For participants unfamiliar to the old appeals process, they were likely to finish the application later after checking their decision letter or asking a third party for more information.
 
@@ -200,9 +200,9 @@ Because of the ambiguous language in the warning alert, a few participants felt 
 
 ### Finding 8
 
-Half of the participants struggled with going back and adding evidence from the evidence summary page.
+Half of the participants struggled with going back and uploading evidence from the evidence summary page.
 
-We prompted participants to upload evidence as an optional task, and several participants felt lost when they were brought back to the beginning of the evidence flow. Although they had just gone through the order of evidence, a few struggled getting back to the ‘upload documents’ page (which is third from the cycle). The progress stepper not changing for the section also made it unclear that they had moved backwards in the form.
+We prompted participants to upload evidence as an optional task for 8 of the participants, and several participants felt lost when they were brought back to the VA medical records screen. Although they had just gone through the order of evidence (VA medical, private medical, upload documents), a few struggled getting back to the ‘upload documents’ page (which is third in the flow). The progress bar not changing for the section also made it unclear that they had moved backwards in the form.
 
 > “Well I know what I was looking for wasn't forward, so I was jumping back.”
 > 
