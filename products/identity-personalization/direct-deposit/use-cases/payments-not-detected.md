@@ -13,5 +13,5 @@ If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, naviga
 TBD
 
 ## How to reproduce
-1. Log in with user 10, 228, 175 (there are likely many others)
+1. Log in with user 10, 175, 204, 228 (there are likely many others)
 2. Navigate to Profile > Direct deposit
