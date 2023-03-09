@@ -1,5 +1,5 @@
 # My VA Health Care Frontend Documentation
-Last updated: March 8, 2023
+Last updated: March 9, 2023
 
 ## When to show the ‘Health care’ section
 We show this section for every LOA3 user.
@@ -296,17 +296,25 @@ Use font awesome icon `file-medical` for icon
 
 **Positioning**
 - This should appear under the 'Health care' header on the lefthand side on desktop.
+- If the user has unread messages, then this error appears below the unread messages alert and all secondary links appear on the right on desktop.
 
 **Secondary links**
-- When this error shows, the following secondary links should appear on the lefthand side on desktop:
+- When this error shows and the user doesn't have unread messages, the following secondary links should appear on the lefthand side on desktop:
   - [Send a secure message to your health care team](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging)
   - [Refill and track your prescriptions](https://mhv-syst.myhealth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
   - [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/)
   - [Get your VA medical records and lab and test results](https://mhv-syst.myhealth.va.gov/mhv-portal-web/download-my-data)
 
+- When this error shows and the user has unread messages, the following secondary links should appear on the righthand side on desktop:
+  - [Refill and track your prescriptions](https://mhv-syst.myhealth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
+  - [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/)
+  - [Get your VA medical records and lab and test results](https://mhv-syst.myhealth.va.gov/mhv-portal-web/download-my-data)
+
 #### Mock-ups
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1Yjlkj)
+- [Desktop without messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
+- [Mobile without messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1Yjlkj)
+- [Desktop with messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C19F6AA0-62CE-4F92-89BD-65680DE67F60)
+- [Mobile with messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/0C2845E1-A9E9-412C-B653-11B292A822A0)
 
 
 ### Error State 3: The messaging API call fails
