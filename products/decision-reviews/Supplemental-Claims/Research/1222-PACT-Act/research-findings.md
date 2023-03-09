@@ -391,4 +391,4 @@ This research does not include the perspectives of the following marginalized Ve
 - Sighted keyboard
 - Captions
 
-[VA recruitment tracker for equality]()
+[VA recruitment tracker for equality](VA-recruitment-tracker-for-equality-2023-01-Supplemental-Claims-PACT.pdf)
