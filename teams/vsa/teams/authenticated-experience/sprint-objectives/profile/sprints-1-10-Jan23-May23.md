@@ -291,6 +291,7 @@ Sprint 6 Epic [#54553](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
 
 ## Sprint 7 (3/29 - 4/11)
 Sprint 7 Epic [#54733](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/54733)
+
 ### Onboarding
 
 This is dependent on hiring:
@@ -307,15 +308,11 @@ Then we are ready to close out this project!!
 
 ### Direct deposit: EVSS > Lighthouse migration
 
-**Whole Team**
-
-- Run QA & create bug tickets
-  - Everyone should be part of this.
-
 **BE - Tom**
 
-- Update BE Documentation
-- Make any necessary changes coming out of QA
+- Vets-API Review with FE (Adam) #54769 (2 pts)
+- Integration Testing between FE and BE (Staging) #54771 (4 pts)
+- Update Direct Deposit BE Documentation #54762 (3 pts)
 
 ### Notification preferences
 
@@ -338,6 +335,14 @@ Then we are ready to close out this project!!
 - UX Improvements: Heuristic Review and Analysis of Profile and My VA #53227
 
 ## Sprint 8 (4/12 - 4/25)
+
+### Direct deposit: EVSS > Lighthouse migration
+
+**Whole Team**
+
+- Run QA & create bug tickets
+  - Everyone should be part of this.
+ 
 ## Sprint 9 (4/26 - 5/9)
 ## Sprint 10 (5/10 - 5/23)
 
