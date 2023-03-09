@@ -24,13 +24,12 @@ Slack for real-time feedback from observers.
 Thanks for joining us today! My name is Skyler and I'll be facilitating the session today.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about decision review options on VA.gov.
+Today we're going to talk about disability compensation claims in VA.gov. 
 
 Before we start, a few things I want to mention:
 
 - **This entire session should take about [1 hour].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **This session will be broken into two parts.** In the first part, I'm just going to ask you some questions about your experience with VA claims. There are no right or wrong answers here, we just want to hear about your experience. In the second part, I'm going to show you a concept prototype. This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **In this session, we want to hear your honest opinions.** We are not testing your ability, and I did not design what we are looking at today. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
@@ -48,50 +47,35 @@ Before we start, a few things I want to mention:
 
 Ok, we're going to start with a few warm-up questions.
 
-- Have you used VA.gov before?
-- If yes, could you briefly describe the last time you used it? Do you tend to go there for a specific use?
-- If no, how do you generally interact with the VA, if at all?
-- Have you ever filed an application for disability compensation (Form 526EZ) with the VA?
-- Have you ever pursued a decision review for a claim with the VA? This could have been a supplemental claim, a higher level review, or a board appeal?
-- Have you done either of these tasks on VA.gov? If not, how did you do it?
+- What do you typically use VA.gov for? 
+- How long have you been using VA.gov?
+- Do you interact with the VA in other ways – in person, on the phone?
+- Do you currently have a claim in progress on VA.gov? (They should.)
+- About how long ago did you file this claim?
 
-## First Task: General questions - 20 minutes
+## CST Analysis - 30-40 minutes
 
-_"Decision review option" will be different for each participant, depending on which one they have experience with. If multiple, moderator will ask about the one they have the clearest recollection of._
-
-- Did you use VA.gov to file your (decision review option)?
-- What were your main reasons for filing the (decision review option)?
-- Did you consult a third party (Veteran rep, lawyer) when filing your initial claim? Did you consult a third party when filing a (decision review option)? 
-- If yes, how did you get in touch with that third party?
-- On a scale of 1-5, how would you rate your experience submitting a (decision review option)?
-- What were your biggest challenges with the process?
-- Was there anything about the process that worked particularly well?
-- Knowing what you know now, how would you advise a Veteran friend? Would you recommend that they try this process themselves, or seek representation right away?  
-- If you could wave a magic wand and improve VA.gov in one way, what would it be? 
-- How did you feel about the end result (or how do you feel so far, if it’s underway)?
+- [Logging into CST] Are you familiar with this page?
+- Tell me what you see here.
+- What do you think is the status of your claim?
+- On a scale of 1-5, how clear would you say the status of this claim is?  
+- Is there any action that you think you need to take here? What makes you think that?
+- Do you have a clear sense of what other actions will be required from you as this claim goes through the review process? Why or why not?
+- Did you do a C&P exam as part of the claim process? If yes, how did you know that you had to do that? 
+- What is the most confusing part of this web page?
+- What is the most helpful part of this web page? 
 
 ### Things to watch for:
 
-- What were the biggest pain points in the decision review process for the participant?
-- What type of third party consultation did the participant engage in? 
-- What other insights emerge about the decision review process?
-
-## Second Task: Concept design review - 20 minutes
-
-- [Send link to concept prototype]
-- Let’s say you just received a decision for this claim here. And let's say you’re unhappy with the result. What would you do next?
-- [View decision review options page] Does this page provide you with enough information to proceed?
-- What would you do next?
-- What would you expect to happen if you filed a (decision review option) in this way?
-- [Direct them to the "Connect with representative" link] Let's say you wanted some help deciding which decision review option to pursue. What do you think of this page?
-- Is there anything else you would do at this point, either on VA.gov or elsewhere?
+- Is the participant familiar with CST? 
+- Do they seem to recognize what CST is trying to tell them about the status of their claim?
+- What are the biggest frustrations or concerns demonstrated by the participant when interacting with CST?
 
 ### Things to watch for:
 
 - How helpful is the abbreviated version of the decision review options screen vs. the longer format page?
 - How comfortable do participants feel pursuing a decision review option at this point? How informed do they feel?
 - Do participants understand the differences between the decision review options? Do they understand which is most appropriate for their situation? 
-
 
 ## Thank-You and Closing - 5 minutes
 
