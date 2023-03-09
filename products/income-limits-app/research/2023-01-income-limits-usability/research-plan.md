@@ -128,10 +128,9 @@ Ask Perigean to recruit **7 Veterans and 3 caregivers** of Veterans who meet the
 ## Timeline
 
 ### Prepare
-Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. Wes and I are available for a kickoff call during any of these times (all in ET): 
-- **Mar TBD**: TIMES TBD that work for Cindy AND Wes
-- **Mar TBD**: TIMES TBD
-- **Mar TBD**: TIMES TBD
+Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. Wes and I are available for a kickoff call during any of these times: 
+- **Mar 15 11:30-12:30 or 3:30-4:30 pm ET**
+- **Mar 16 12-2 or 3-5 pm ET**
 
 **Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so I can review it beforehand.
 
