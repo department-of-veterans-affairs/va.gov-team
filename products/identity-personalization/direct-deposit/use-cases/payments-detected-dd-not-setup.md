@@ -27,6 +27,6 @@ N/A
 
 **PLEASE DO NOT SAVE DIRECT DEPOSIT INFORMATION FOR THESE USERS. There is no way to delete it, so once it's added, we no longer have users where we can check this use case.**
 
-1. Log into staging with users 80 or 82. 
+1. Log into staging with users 80, 82, 230. 
 2. Navigate to Profile > Direct deposit
 3. Do not save any account information for this user.
