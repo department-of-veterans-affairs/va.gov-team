@@ -79,6 +79,8 @@ Let’s start with a few questions...
 
 3. What benefits other than healthcare, if any, do you receive from the VA? 
 
+## Usability testing - 40-50 minutes
+
 4. _Starting from [new home page](https://www.va.gov/new-home-page/):_ Using VA.gov, if you wanted to send a message to your doctor to follow up about a question you had in a previous appointment, how would you go about doing that? 
 	- _Nudge and probe as appropriate. If get totally lost, help them out. Ultimately, need them to sign in._
 
