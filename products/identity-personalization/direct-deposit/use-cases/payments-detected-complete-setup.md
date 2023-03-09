@@ -17,5 +17,11 @@ If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, naviga
 TBD
 
 ## How to reproduce
-1. Log in with users 81, 378. There are probably others.
+1. Log in with one of the following users
 2. Navigate to Profile > Direct deposit
+
+|User| Direct deposit types|
+|----|---------------------|
+|81| Comp & pen only|
+|226| Comp & pen only|
+|378| Both comp & pen and education|
