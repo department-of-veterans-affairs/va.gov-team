@@ -53,7 +53,7 @@ Ok, we're going to start with a few warm-up questions.
 - Do you currently have a claim in progress on VA.gov? (They should.)
 - About how long ago did you file this claim?
 
-## CST Analysis - 30-40 minutes
+## CST Review - 30 minutes
 
 - [Logging into CST] Are you familiar with this page?
 - Tell me what you see here.
@@ -64,6 +64,14 @@ Ok, we're going to start with a few warm-up questions.
 - Did you do a C&P exam as part of the claim process? If yes, how did you know that you had to do that? 
 - What is the most confusing part of this web page?
 - What is the most helpful part of this web page? 
+
+## Co-Design Exercise - 15 minutes
+
+- [Share Mural board] Let's take a look at this Mural board. You can see here we have a blank slate of the screens we just saw. 
+- Here you can see some sticky notes. Looking at this page, can you tell me what information you would most want to see on this page?
+- [Repeat for all 4 pages of CST]
+- Now that we have these ideas, let's rearrange them in order of importance. Which of these would be the most important, or the one that you would want to be near the top? Second? Third?
+- [Repeat for all 4 pages of CST]
 
 ### Things to watch for:
 
