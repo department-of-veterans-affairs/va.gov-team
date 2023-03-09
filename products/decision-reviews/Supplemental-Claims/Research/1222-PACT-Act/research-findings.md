@@ -131,7 +131,7 @@ Most participants tried to add evidence to their Supplemental Claims despite not
 
 Since the evidence flow was presented to them, participants were inclined to add evidence, even when they understood they didn’t need any to prove service connection. When asked why, participants mentioned that it’s better to include copies of medical records, even when the VA got them in the original claim. Some also mentioned annotating and uploading their own records to ensure it’s being read.
 
-![va-medical-records.png](images/va-medical-records.png)
+![evidence-flow.png](images/evidence-flow.png)
 
 > “In Hector's [hypothetical Veteran] point of view, I would still say yes [to adding VA medical records] because it's being reviewed under a new law.”
 > 
