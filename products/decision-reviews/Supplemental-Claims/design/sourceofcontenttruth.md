@@ -290,7 +290,7 @@ You can only add an issue that you’ve received a VA decision notice for.
 
 Date of decision (*Required)
 
-Enter the date on your decision notice (the letter you received in the mail from us.)
+Enter the date on your decision notice (the letter you received in the mail from us).
 
 **_BACK_**
 
