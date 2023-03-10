@@ -1,3 +1,12 @@
+---
+name: Identity Frontend
+about: For writing frontend tickets
+title: ''
+labels: Identity, Identity-Frontend
+assignees: ''
+
+---
+
 ## Issue Description
 _Insert issue details here_
 
