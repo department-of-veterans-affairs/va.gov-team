@@ -39,14 +39,14 @@ Before we look at the website, I'd like to get a little background information f
 
 3. Let's talk about the website - do you use VA.gov at all? If so, what do you use it for?
 
-- Do you know your username and password to log in to VA.gov?
+4. Do you know your username and password to log in to VA.gov?
 	* If the user cannot remember or retrieve their login credentials, **end the session.** Without login credentials, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
-Okay, great. Please open a new tab in your chosen browser and go to VA.gov. Once you're there and before you log in, please share your screen with me. Let me know if you need any help doing that. 
+	Okay, great. Please open a new tab in your chosen browser and go to VA.gov. Once you're there and before you log in, please share your screen with me. Let me know if you need any help doing that. 
 
-*Once they are sharing their screen* Okay great, thank you! I'm going to pause the recording while you log in. *Pause the recordinng* You can go ahead and log in now.
+	*Once they are sharing their screen* Okay great, thank you! I'm going to pause the recording while you log in. *Pause the recordinng* You can go ahead and log in now.
 
-*Once they are past the login screen, restart the recording.*
+	*Once they are past the login screen, restart the recording.*
 
 ## 1. Are Veterans able to take action on ther top tasks without any usability hurdles? - 10 minutes
 
