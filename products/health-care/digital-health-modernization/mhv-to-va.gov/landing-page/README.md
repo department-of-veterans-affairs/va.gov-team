@@ -75,7 +75,7 @@ While MHV applications are in the process of being integrated into VA.gov, links
 ## Status
 The application is launched in Production behind a feature flag. During Phase 0 of the landing page rollout, a handful of trusted users will have access via an allow list.
 
-After the initial smoke testing by the trusted user group, access will be restricted to 5% of daily MyHealtheVet users who have health benefits and have never received care at a Cerner VA Medical Center.
+After the initial smoke testing by the trusted user group, access will be restricted to 5% of daily MyHealtheVet users who log in via Login.gov or ID.me, have health benefits and have never received care at a Cerner VA Medical Center.
 
 
 
