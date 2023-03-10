@@ -24,20 +24,20 @@ USCDI mapping concerns: v1 has only 1 data element: Immunizations
 
 **Allergies**
 
-USCDI v1 Mapping: [Allergies and intolerances](https://www.healthit.gov/isa/uscdi-data-class/allergies-and-intolerances#uscdi-v1) <br>
-USCDI mapping concerns: v1 has only 3 data elements: Substance (Medication), Substance (Drug Class), Reaction
+USCDI v1 Data Class: [Allergies and intolerances](https://www.healthit.gov/isa/uscdi-data-class/allergies-and-intolerances#uscdi-v1) <br>
+USCDI mapping concerns: v1 has only 3 data elements: Substance (Medication), Substance (Drug Class), Reaction. It does not include non-medication based allergies.
 
-|Data field       | Description           | Suggested label | Notes             | Questions|           
-|:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
-|Allergy name | Thing that caused the allergic reaction, like "penicillin" |Allergy |
-|Date entered | Date provider entered the allergy record | Date entered | 
-|Severity | Level of reaction, like "moderate" or "severe" | | |Are there set options to choose from in this field, or is it free entry?|
-|Allergy type | The type of thing that caused the allergy, like "drug" for penicillin | | |Are there set options to choose from in this field, or is it free entry?|
-|VA drug class | | | |What does this mean? Is there a list of classes to choose from?| 
-|Reaction | Description of signs and symptoms, like "rash" |
-|Observed/Historical || | |Does this mean the provider witnessed the reaction (observed) vs entered an allergy record based on patient's account of a previous allergic reaction? |
-|Location |Name of facility where provider entered allergy record | Location | 
-|Comments |Comments entered by provider | Provider notes | 
+|Data field       | Description           | Suggested label | USCDI v1 data element mapping| Notes    | Questions|           
+|:------------------------|:-----------------------|:-----------------------|:-----------------|:---------------------|:---------------------|
+|Allergy name | Thing that caused the allergic reaction, like "penicillin" |Allergy | [Substance (Medication)](https://www.healthit.gov/isa/taxonomy/term/896/uscdi-v1)|
+|Date entered | Date provider entered the allergy record | Date entered |_None_|
+|Severity | Level of reaction, like "moderate" or "severe" | | _None_||Are there set options to choose from in this field, or is it free entry?|
+|Allergy type | The type of thing that caused the allergy, like "drug" for penicillin | | _None_||Are there set options to choose from in this field, or is it free entry?|
+|VA drug class | ||[Substance (Drug Class)](https://www.healthit.gov/isa/taxonomy/term/901/uscdi-v1) | |What does this mean? Is there a list of classes to choose from?| 
+|Reaction | Description of signs and symptoms, like "rash" | |[Reaction](https://www.healthit.gov/isa/taxonomy/term/906/uscdi-v1) |
+|Observed/Historical || | _None_|Does this mean the provider witnessed the reaction (observed) vs entered an allergy record based on patient's account of a previous allergic reaction? |
+|Location |Name of facility where provider entered allergy record | Location | _None_|
+|Comments |Comments entered by provider | Provider notes | _None_|
 
 **Health conditions**
 
