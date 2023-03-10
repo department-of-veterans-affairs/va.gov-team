@@ -1,3 +1,12 @@
+---
+name: Identity Bugfix
+about: For writing bugfix tickets
+title: ''
+labels: Identity, Identity-Bugfix
+assignees: ''
+
+---
+
 #### What I expected to happen
 <!-- Please provide a step by step summary of what the expected behavior is. -->
 1. 
