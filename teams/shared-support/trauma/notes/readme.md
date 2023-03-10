@@ -1,3 +1,8 @@
+## [March 6, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-03-06.md)
+`Big Meeting` `Research Shareout` `MST`
+- Karen Cutright's part 2 of her shareout on her research on MST
+- We learned about the care and intention required to set up sessions, the delivery of those sessions, and trauma-responsive methods which might be seen as “atypical” 
+
 ## [February 27, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-02-27.md)
 `Big Meeting` `Research Shareout` `MST`
 - Karen Cutright shared her research process as a social worker on a challenging topic around MST
