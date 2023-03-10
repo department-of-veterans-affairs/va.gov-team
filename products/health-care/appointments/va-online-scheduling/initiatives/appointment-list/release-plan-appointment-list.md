@@ -1,18 +1,12 @@
-# Release Plan Template
-
-So! You're thinking about how you want to launch your product. You know you'll perform usability testing and you'll QA the heck out of it in staging, which are both very critical components of product development. But they don't tell you how people will naturally use your product when you're not there to guide them to it, how any submitted data will get to VA, whether that data will be easy or difficult for VA to process, whether people will be likely to submit duplicates, abandon partway through, or encounter bugs unique to the production environment. All of which could be very detrimental to users, which is the antithesis of what we're here to do. 
-
-So: **how might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how it'll actually be used, and what problems it actually might have or create, and then fix/adjust prior to going live to millions of VA.gov users?**
-
-That's what this Release Plan Template is for!
+# VAOS Appointment List Redesign Release Plan
 
 ---
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: [date - date] or [duration]
-- Desired number of users: x
+- Desired date range or test duration: 1 week
+- Desired number of users: 3
 - How you'll recruit the right production test users: lorem ipsum
 - How you'll conduct the testing: lorem ipsum
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
@@ -49,13 +43,13 @@ That's what this Release Plan Template is for!
 
 #### Exceptions
 
-Right now, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
+Feature Toggle: 
 
 | Feature type | Possible with feature toggles? |
 | --- | --- |
 | New feature in existing application | Yes |
-| New application | Yes |
-| Static content changes | Doable but tricky |
+| New application | No |
+| Static content changes | N/A |
 | URL redirects | No |
 
 Other exceptions to this requirement can be approved by DEPO VSP leads.
