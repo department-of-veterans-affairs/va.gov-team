@@ -191,38 +191,40 @@ We’re providing the following time slots (30 total) with the aim to book 15 se
 
 Note: The moderator assigned to each session is subject to change, please refer to Tyler Gindraux (tyler@bluetiger.digital) as moderator on all sessions and she will assign Carolyn to sessions where applicable.
 
+*Note for Tyler: Carl PTO March 29 - April 4, Carolyn PTO March 31 – April 4*
+
 |Slot|Date|Time (EST)|Moderator|Notetaker|Observers|
 |:--|:--|:--|:--|:--|:--|
 |1|Monday, March 27th|12-1pm|Tyler|Carolyn||
-|2|Monday, March 27th|3-4pm|Carolyn|Tyler||
+|2|Monday, March 27th|3-4pm|Tyler|Carolyn||
 |3|Tuesday, March 28th|9-10am|Tyler|Carl||
-|4|Tuesday, March 28th|11am-12pm|Tyler|Sofia||
-|5|Tuesday, March 28th|1-2pm|Carolyn|Carl||
-|6|Tuesday, March 28th|3-4pm|Carolyn|Sofia||
-|7|Wednesday, March 29th|8-9am|Tyler|Carl||
-|8|Wednesday, March 29th|10-11am|Tyler|Carolyn||
-|9|Thursday, March 30th|8-9am|Tyler|Carl||
+|4|Tuesday, March 28th|11am-12pm|Carolyn|Tyler||
+|5|Tuesday, March 28th|1-2pm|Tyler|Carl||
+|6|Tuesday, March 28th|3-4pm|Carolyn|Tyler||
+|7|Wednesday, March 29th|10-11am|Tyler|Carolyn||
+|8|Wednesday, March 29th|2-3pm|Carolyn|Tyler||
+|9|Thursday, March 30th|8-9am|Tyler| ||
 |10|Thursday, March 30th|11am-12pm|Carolyn|Sofia||
 |11|Thursday, March 30th|1-2pm|Carolyn|Sofia||
 |12|Thursday, March 30th|3-4pm|Tyler|Sofia||
-|13|Friday, March 31st|8-9am|Tyler|Carl||
-|14|Friday, March 31st|10-11am|Carolyn|Tyler||
+|13|Friday, March 31st|8-9am|Tyler|||
+|14|Friday, March 31st|10-11am|Tyler|||
 |15|Friday, March 31st|12-1pm|Tyler|Sofia||
-|16|Friday, March 31st|2-3pm|Carolyn|Sofia||
-|17|Monday, April 3rd|10-11am|Carolyn|Carl||
-|18|Monday, April 3rd|12-1pm|Tyler|Sofia||
-|19|Monday, April 3rd|3-4pm|Carolyn|Carl||
-|20|Monday, April 3rd|5-6pm|Tyler|Sofia||
-|21|Tuesday, April 4th|10-11am|Carolyn|Carl||
-|22|Tuesday, April 4th|12-1pm|Tyler|Sofia||
-|23|Tuesday, April 4th|1-2pm|Carolyn|Carl||
-|24|Tuesday, April 4th|3-4pm|Tyler|Sofia||
-|25|Wednesday, April 5th|10-11am|Carolyn|Carl||
-|26|Wednesday, April 5th|12-1pm|Carolyn|Sofia||
-|27|Wednesday, April 5th|4-5pm|Tyler|Sofia||
+|16|Friday, March 31st|2-3pm|Tyler|Sofia||
+|17|Monday, April 3rd|12-1pm|Tyler|Sofia||
+|18|Monday, April 3rd|3-4pm|Tyler|Sofia||
+|19|Monday, April 3rd|5-6pm|Tyler|Sofia||
+|20|Monday, April 3rd|7-8pm|Tyler|Sofia||
+|21|Tuesday, April 4th|12-1pm|Tyler|Sofia||
+|22|Tuesday, April 4th|1-2pm|Tyler|Sofia||
+|23|Tuesday, April 4th|3-4pm|Tyler|Sofia||
+|24|Tuesday, April 4th|7-8pm|Tyler|Sofia||
+|25|Wednesday, April 5th|12-1pm|Tyler|Carl||
+|26|Wednesday, April 5th|4-5pm|Carolyn|Tyler||
+|27|Wednesday, April 5th|6-7pm|Carolyn|Tyler||
 |28|Thursday, April 6th|10-11am|Carolyn|Carl||
-|29|Thursday, April 6th|2-3pm|Carolyn|Sofia||
-|30|Thursday, April 6th|4-5pm|Tyler|Sofia||
+|29|Thursday, April 6th|2-3pm|Carolyn|Tyler||
+|30|Thursday, April 6th|4-5pm|Carolyn|Sofia||
 
 ## Team Roles
 
