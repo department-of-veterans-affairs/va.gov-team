@@ -1,4 +1,4 @@
-# Research Plan for Usability Testing, Income Limits App, March 2023
+# Research Plan for Usability Testing, Income Limits App, April 2023
 
 ## Background
 An [existing application](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits) allows Veterans, their caregivers, family members, and others to look up the income limits for VA National medical benefits and prescriptions based on location and number of dependents. 
