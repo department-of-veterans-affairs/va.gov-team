@@ -108,17 +108,17 @@ Ask Perigean to recruit **8 Veterans and 3 caregivers** of Veterans who meet the
 - At least 2 people who are LGBTQ+
 
 ### Screening Questions
-1. Do you have VA health care? 
+1. Do you (or the Veteran that you're a caregiver for) have VA health care? 
      1. No  *(ask next screening question)*
      1. Yes *(disqualify)*
      1. I don't know *(disqualify)*
 
-1. Do you get VA disability compensation for a service-connected disability rating of 50% or higher? 
+1. Do you (or the Veteran that you're a caregiver for) get VA disability compensation for a service-connected disability rating of 50% or higher? 
      1. No  *(ask next screening question)*
      1. Yes *(disqualify)*
      1. I don't know *(disqualify)*
 
-1. Do you get a pension from the VA? *(RECORD)*
+1. Do you (or the Veteran that you're a caregiver for) get a pension from the VA? *(RECORD)*
      1. No  *(RECRUIT 11)*
      1. Yes *(disqualify)*
      1. I don't know *(disqualify)*
