@@ -1,3 +1,12 @@
+---
+name: Identity UX Template
+about: For writing UX tickets
+title: ''
+labels: Identity, Identity-UX
+assignees: ''
+
+---
+
 ###Description of UX Tasks
 
 #### Acceptance Criteria
