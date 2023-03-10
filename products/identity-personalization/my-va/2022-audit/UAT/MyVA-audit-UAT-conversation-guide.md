@@ -48,7 +48,7 @@ Before we look at the website, I'd like to get a little background information f
 
 	*Once they are past the login screen, restart the recording.*
 
-## 1. Are Veterans able to take action on ther top tasks without any usability hurdles? - 10 minutes
+## 1. Are Veterans able to take action on their top tasks without any usability hurdles? - 10 minutes
 
 - Feel free to share any initial thoughts about this page. Does the information on this page look accurate to your current benefits situation?
 - You said you go online to check X. Can you tell me how you'd go about doing/looking into that from here?
