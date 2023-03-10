@@ -7,13 +7,14 @@ As a result, we conducted an audit of [My VA in Mural](https://app.mural.co/t/de
 - Whether all states are necessary
 - Where we can simplify without losing important personalization
 - How we can bring greater consistency between sections
+- How we can highlight VA benefits on My VA for users who might be interested in them
 
 The design updates we are testing in this study will bring greater consistency to how each section loads, handles errors, and shows conditional information, resulting in a page that is easier to manage and scale. We hypothesize that this will improve the end user experience by highlighting benefits that may be of interest to logged in Veterans, as well as by making it easier for us to continue to add features we know people expect.
 
 [Link to project brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit).
 
 ### OCTO-DE Objectives 
-Especially since My VA is now the next destination when a Veteran logs into VA.gov due to the [recent redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect), it is critical that we present the most relevant updates as quickly and clearly as possible while also highlighting benefits a Veteran may be interested in that they may have previously found on the homepage. Accomplishing these things will fulfill our north star objective of being a single, authoritative source of information that is personalized to the logged in user.
+Especially since My VA is now the next destination when a Veteran logs into VA.gov from the homepage, it is critical that we present the most relevant updates as quickly and clearly as possible while also highlighting benefits a Veteran may be interested in that they may have previously found on the homepage. Accomplishing these things will fulfill our north star objective of being a single, authoritative source of information that is personalized to the logged in user.
 
 ### Veteran Journey
 Since Veterans can apply for and manage their benefits any time after getting out of the military, this work impacts the Veteran journey from Starting Up and beyond.
@@ -22,9 +23,9 @@ Since Veterans can apply for and manage their benefits any time after getting ou
 The primary goal of our UAT is to confirm that functionality works as expected with these audit updates.
 
 As secondary goals, we’ll follow up on [our last usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md):
-- We would like to verify that the updates content in the Education and Training section resonates better with Veterans now that we've changed the termiololgy to reference the Post-9/11 GI Bill.
-- We would like to verify that the title change for the Benefit application drafts section has made it clear that only saved, in-progress applications will show in that section and that applications refers to benefit applications that are filled out on VA.gov as opposed to computer applications.
-
+- We would like to verify that the updated content in the Education and Training section resonates better with Veterans now that we've changed the termiololgy to reference the Post-9/11 GI Bill.
+- We would like to verify that the title change for the Benefit application drafts section has made it clear that only saved, in-progress applications will show in that section and that applications refers to benefit applications that are filled out on VA.gov.
+- 
 ### Outcome
 Based on the outcome of this research study, we will either release the audit updates to production and/or update our design to correct any significant usability hurdles people encounter. 
 
@@ -33,7 +34,7 @@ If Veterans are still confused about the Benefit application drafts section, we 
 ### Research questions
 - Does the functionality work as expected?
 - Are Veterans able to take action on ther top tasks without any usability hurdles?
-- Do Veterans with education benefits know how to find out what their remaining education benefits are?
+- Do Veterans with education benefits know how to find info about their remaining education benefits from My VA?
 - Do Veterans know how to find and continue a saved application from My VA?
 
 ### Hypothesis
@@ -102,4 +103,4 @@ Please list the people who will be serving in each role.
   - ana@adhocteam.us
   - berni.xiong@agile6.com
   - allison@cityfriends.tech
-  - Derrick.ellerbie@Agile6.com
+  - derrick.ellerbie@agile6.com
