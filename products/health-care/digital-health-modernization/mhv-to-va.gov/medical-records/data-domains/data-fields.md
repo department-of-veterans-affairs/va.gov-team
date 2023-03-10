@@ -79,8 +79,8 @@ Similar to other domains, all relevant categories have far fewer data elements t
 |:----------------|:-------------|:----------------|:------------------|:--------------------|
 |All |Category |Type of test | |Is this information useful for patients? Could we remove this from the list view?|
 |All|Title of lab report (if available)|Test (suggest using this without a label as the card header in list, H1 in detail) |If there's no title/test name available, we could conditionally display the type of test as the card header in list, H1 in detail. Hopefully this is rare. |
-|All|Date collected |Date |
-|All|Ordering provider |Provider |
+|All|Date collected |Date |Challenging to find a single date label that works for all categories. "Date collected" or "Date you gave the sample" doesn't make sense for radiology or EKG. "Date you got the test" doesn't quite make sense for pathology. A shorter field label is also better for the card format in list view.| Would we want to map several fields from different categories into a single "Date" field for the list view, but label them differently in the detail views where we have additional date fields? So all "Date collected" "Date obtained" "Date performed" fields would map to "Date" in list view. Or would we want the labels to stay consistent between list and detail views, even if this means several longer "Date" labels on cards in the list?|
+|All|Ordering provider |Provider|Similar to previous line about dates — for space on the cards, "Provider" works better in list view. But we need to differentiate provider type in detail view.| Is this different mapping for list and detail view acceptable?|
 |Radiology|Procedure/test name |Test ||Is this the same as "Title of lab report" in the All category above?|
 |Radiology|Date/time exam performed |Date you got the test |
 |Radiology|Ordering location| Where the test order started |
@@ -158,17 +158,3 @@ USCDI mapping concerns:
 |Admission & Dishcarge Summary|Discharge physician|
 |Admission & Dishcarge Summary|Last updated|
 |Admission & Dishcarge Summary|Discharge summary|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
