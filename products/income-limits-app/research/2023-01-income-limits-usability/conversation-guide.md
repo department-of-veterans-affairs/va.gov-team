@@ -216,7 +216,7 @@ Now you want to check whether you entered your location correctly. How could you
 - *(RECORD: back to review screen / zip code entry screen / ________________)*
 
 ### Task 8: [Change year]
-Suppose that you’re in the process of appealing a health care claim from 2021, and you want to see the income limits from that year. What could you do?
+Suppose that you’re in the process of appealing a health care claim from 2021, and you want to see the income limits from that year. What could you do? Again, please tell me where you want to click before doing it.
 - *(RECORD: click on "past income limits" / _________________________________)*
 
 - *(RECORD all comments and anything confusing re the interactions on each screen of the prototype:)*
