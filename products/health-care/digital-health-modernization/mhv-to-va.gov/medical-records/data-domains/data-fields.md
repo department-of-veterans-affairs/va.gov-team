@@ -71,8 +71,9 @@ USCDI mapping concerns: v1 maps the actual vital signs, not the data elements fo
 
 **Lab and test results**
 
-USCDI v1 Mapping: [Laboratory](https://www.healthit.gov/isa/uscdi-data-class/laboratory#uscdi-v1), [Pathology report narrative](https://www.healthit.gov/isa/taxonomy/term/2886/uscdi-v1),   
-USCDI mapping concerns:
+USCDI v1 Mapping: [Laboratory](https://www.healthit.gov/isa/uscdi-data-class/laboratory#uscdi-v1), [Pathology report narrative](https://www.healthit.gov/isa/taxonomy/term/2886/uscdi-v1), [Clinical tests](https://www.healthit.gov/isa/uscdi-data-class/clinical-tests#uscdi-v1), [Diagnostic imaging](https://www.healthit.gov/isa/uscdi-data-class/diagnostic-imaging#uscdi-v1) <br>
+USCDI mapping concerns: Does Procedures also apply here? See commentary about confusion around this term in v1: https://www.healthit.gov/isa/uscdi-data-class/procedures#uscdi-v1 <br>
+Similar to other domains, all relevant categories have far fewer data elements than we have in our list
 
 |Category | Data field | Suggested label | Notes | Questions |
 |:----------------|:-------------|:----------------|:------------------|:--------------------|
