@@ -33,7 +33,7 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, I'd like to get a little background information from you:
 
-- First, can you tell me what benefits you currently have through VA, if any?
+- According to my notes, you use XYZ benefits through VA, is that correct? Are there any others?
   
 - What online or manual tools do you currently use to manage these benefits? *(VA.gov, MHV, eBenefits, phone, email, etc.)* Which of these tools or methods is the most useful to you and why?
 
