@@ -96,7 +96,7 @@ Ask Perigean to recruit **8 Veterans and 3 caregivers** of Veterans who meet the
 - ALL do NOT get a pension from the VA
 - ALL have a smartphone to use it for the session and...
   - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen
-  - Willing to share over Zoom a web browser window on their smartphone
+  - Be willing to share over Zoom a web browser window on their smartphone
   - Have a working microphone on their smartphone
 - At least 4 people with a cognitive disability (e.g., TBI)
 - At least 4 people who are age 55 or older
