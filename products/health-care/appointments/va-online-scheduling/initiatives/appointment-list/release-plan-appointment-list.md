@@ -22,8 +22,7 @@
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
 
 ### Do I need a staged rollout?
-
-Yes
+ - Yes
 
 Feature Toggle: `va_online_scheduling_appointment_list`
 
