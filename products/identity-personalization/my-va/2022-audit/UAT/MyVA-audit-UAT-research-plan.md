@@ -104,3 +104,4 @@ Please list the people who will be serving in each role.
   - berni.xiong@agile6.com
   - allison@cityfriends.tech
   - derrick.ellerbie@agile6.com
+  - liz.lantz@adhocteam.us
