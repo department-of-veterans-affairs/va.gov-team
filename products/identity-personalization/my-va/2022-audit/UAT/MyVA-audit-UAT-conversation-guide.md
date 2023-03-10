@@ -29,7 +29,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## Task goal: Confirm they qualify for the study, learn what they use VA.gov for if at all, and how it's meeting their needs as of now. - 5 minutes
+## 1: Confirm they qualify for the study, what kind of VA benefits they use, and how they currently manage their benefits. - 5 minutes
 
 Before we look at the website, I'd like to get a little background information from you:
 
@@ -48,7 +48,7 @@ Before we look at the website, I'd like to get a little background information f
 
 	*Once they are past the login screen, restart the recording.*
 
-## 1. Are Veterans able to take action on their top tasks without any usability hurdles? - 10 minutes
+## 1. Are Veterans able to take action on their top tasks without any usability hurdles? - 5 minutes
 
 - Feel free to share any initial thoughts about this page. Does the information on this page look accurate to your current benefits situation?
 - You said you go online to check X. Can you tell me how you'd go about doing/looking into that from here?
@@ -57,7 +57,7 @@ Before we look at the website, I'd like to get a little background information f
 - [ ] **Usability**: Confirm that users are able to find relevant benefit info and act on it if applicable.
 
 
-## 2. Do Veterans with education benefits know how to find info about their remaining education benefits from My VA? - 10 minutes
+## 2. Do Veterans with education benefits know how to find info about their remaining education benefits from My VA? - 5 minutes
 
 *Skip this section if they have never used education benefits*
 
@@ -67,20 +67,20 @@ Before we look at the website, I'd like to get a little background information f
 - [ ] **UAT TASK:** Confirm that Veterans who are familiar with education benefits find the links useful in the Education and training section and know that the third link is where they could find out aout their remaining benefits.
 - [ ] **Usability**: Confirm that Veterans are familiar with the term "Post-9/11 GI Bill."
 
-## 3. Do Veterans know how to find and continue a saved application from My VA? - 10 minutes
+## 3. Do Veterans know how to find and continue a saved application from My VA? - 5 minutes
 
 - Let's scroll down to the Benefit application drafts section. What do you think this section is for?
 - If you filled out an application for benefits and submitted it to VA, would you expect to see that application here or somewhere else?
 
 - [ ] **UAT TASK:** Determine whether the title of the section has made it more clear that the section if for benefit applications that have been started but not submitted.
 
-## 2. Confirm links - 5-7 minutes
+## 2. Confirm links - 15 minutes
 *There are many links on the page so I'l make sure they are all clicked by at least one user but am more concerned with data being pulled correctly, so I'll likely ask users to click on links where I want to see if the dynamic content on My VA matches the page it takes them to.*
 
 - Now lastly, I want to make sure the links on this page are functioning as expected so I'll have you click on some of them.
   - *Select some links to test; prioritizing ones that have dyamic content we want to verify the accuracy of.*
 
-## Post-Task Interview - 5 minutes
+## Post-Task Interview - 3 minutes
 - Thank you so much! That concludes our session for today. This has been so helpful for our team. Do you have any feedback on what we looked at in this session or questions for me?
 
 ## Thank-You and Closing - 1 minute
