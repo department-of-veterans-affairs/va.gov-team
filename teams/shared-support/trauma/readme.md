@@ -73,6 +73,7 @@ Took notes for a big meeting or small group? You've helped share and grow our le
 
 - Martha Wilkes
 - Josh Kim
+- Liz Straghalis
 
 #### How do I serve as a scribe?
 1. Volunteer at our next big meeting
