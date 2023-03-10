@@ -33,7 +33,7 @@ If Veterans are still confused about the Benefit application drafts section, we 
 
 ### Research questions
 - Does the functionality work as expected?
-- Are Veterans able to take action on ther top tasks without any usability hurdles?
+- Are Veterans able to take action on their top tasks without any usability hurdles?
 - Do Veterans with education benefits know how to find info about their remaining education benefits from My VA?
 - Do Veterans know how to find and continue a saved application from My VA?
 
