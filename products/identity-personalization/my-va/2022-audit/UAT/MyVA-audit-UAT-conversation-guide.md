@@ -33,48 +33,50 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, I'd like to get a little background information from you:
 
-1. First, can you tell me what benefits you currently have through VA, if any?
+- First, can you tell me what benefits you currently have through VA, if any?
   
-2. What online or manual tools do you currently use to manage these benefits? *(VA.gov, MHV, eBenefits, phone, email, etc.)* Which of these tools or methods is the most useful to you and why?
+- What online or manual tools do you currently use to manage these benefits? *(VA.gov, MHV, eBenefits, phone, email, etc.)* Which of these tools or methods is the most useful to you and why?
 
-3. Let's talk about the website - do you use VA.gov at all? If so, what do you use it for?
+- Let's talk about the website - do you use VA.gov at all? If so, what do you use it for?
 
-4. Do you know your username and password to log in to VA.gov?
-	* If the user cannot remember or retrieve their login credentials, **end the session.** Without login credentials, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
+- Do you know your username and password to log in to VA.gov?
+	- *If the user cannot remember or retrieve their login credentials, **end the session.*** Without login credentials, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
-	Okay, great. Please open a new tab in your chosen browser and go to VA.gov. Once you're there and before you log in, please share your screen with me. Let me know if you need any help doing that. 
+	- Okay, great. Please open a new tab in your chosen browser and go to VA.gov. Once you're there and before you log in, please share your screen with me. Let me know if you need any help doing that. 
 
-	*Once they are sharing their screen* Okay great, thank you! I'm going to pause the recording while you log in. *Pause the recordinng* You can go ahead and log in now.
+	- *Once they are sharing their screen* Okay great, thank you! I'm going to pause the recording while you log in. *Pause the recordinng* You can go ahead and log in now.
 
-	*Once they are past the login screen, restart the recording.*
+	- *Once they are past the login screen, restart the recording.*
 
-## 1. Are Veterans able to take action on their top tasks without any usability hurdles? - 5 minutes
+## 2. Are Veterans able to take action on their top tasks without any usability hurdles? - 5 minutes
 
-- Feel free to share any initial thoughts about this page. Does the information on this page look accurate to your current benefits situation?
+- Feel free to share any initial thoughts about this page and scroll around a bit.
+- Does this information look accurate to your current benefits situation? Is there anything you're surprised to see or expecting to see that you don't?
 - You said you go online to check X. Can you tell me how you'd go about doing/looking into that from here?
 
 - [ ] **UAT TASK:** Confirm that all sections are showing for the user.
+- [ ] **Usability**: Confirm that there aren't any top tasks still missing from My VA, or note if users mention anything we've heard before, like VA documents and/or VSO info.
 - [ ] **Usability**: Confirm that users are able to find relevant benefit info and act on it if applicable.
 
 
-## 2. Do Veterans with education benefits know how to find info about their remaining education benefits from My VA? - 5 minutes
+## 3. Do Veterans with education benefits know how to find info about their remaining education benefits from My VA? - 5 minutes
 
 *Skip this section if they have never used education benefits*
 
 - You said you have education benefits through VA (or have in the past). How do you think you could go about finding information on this page about your remaining benefits?
 - Is the term "Post-9/11 GI bill" familiar to you?
 
-- [ ] **UAT TASK:** Confirm that Veterans who are familiar with education benefits find the links useful in the Education and training section and know that the third link is where they could find out aout their remaining benefits.
+- [ ] **UAT TASK:** Confirm that Veterans who are familiar with education benefits find the links useful in the Education and training section and know that the third link is where they could find out about their remaining benefits.
 - [ ] **Usability**: Confirm that Veterans are familiar with the term "Post-9/11 GI Bill."
 
-## 3. Do Veterans know how to find and continue a saved application from My VA? - 5 minutes
+## 4. Do Veterans know how to find and continue a saved application from My VA? - 5 minutes
 
 - Let's scroll down to the Benefit application drafts section. What do you think this section is for?
 - If you filled out an application for benefits and submitted it to VA, would you expect to see that application here or somewhere else?
 
 - [ ] **UAT TASK:** Determine whether the title of the section has made it more clear that the section if for benefit applications that have been started but not submitted.
 
-## 2. Confirm links - 15 minutes
+## 5. Confirm links - 15 minutes
 *There are many links on the page so I'l make sure they are all clicked by at least one user but am more concerned with data being pulled correctly, so I'll likely ask users to click on links where I want to see if the dynamic content on My VA matches the page it takes them to.*
 
 - Now lastly, I want to make sure the links on this page are functioning as expected so I'll have you click on some of them.
