@@ -165,7 +165,7 @@ In addition to demographic and device questions, we’ve provided the following 
 |March 8|Submit prototype for Midpoint Review|
 |March 8|Submit artifacts for Research Review|
 |March 9|Ready documentation is ready (feedback incorporated)|
-|March 17|Prototype is ready (feedback incorporated)|
+|March 17|Prototypes are ready (feedback incorporated)|
 |March 20|Pilot session at 12:00pm EST|
 |March 27 - April 6|Research sessions|
 |April 10-12|Analysis|
