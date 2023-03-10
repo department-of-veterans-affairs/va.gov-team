@@ -205,13 +205,13 @@ Please stay on this screen. Based on what you see in this screen, what do you th
 How would you decide what to do next? 
 
 What do you plan to do next? 
-- *(RECORD: apply for VA health care / Back / ________________)*
+- *(RECORD: apply for VA health care / Review info entered / Back in browser / ________________)*
 
 How did this tool help or not help you decide what to do?
 
 ### Task 7: [Check info entered]
 Now you want to check whether you entered your location correctly. How could you do that? 
-- *(RECORD: back to review screen / zip code entry screen / ________________)*
+- *(RECORD: Review info entered / Back in browser / zip code entry screen / ________________)*
 
 ### Task 8: [Change year]
 Suppose that you’re in the process of appealing a health care claim from 2021, and you want to see the income limits from that year. What could you do? Again, please tell me where you want to click before doing it.
