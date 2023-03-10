@@ -29,7 +29,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## 1: Confirm they qualify for the study, what kind of VA benefits they use, and how they currently manage their benefits. - 5 minutes
+## 1: Confirm they qualify for the study; Discuss what kind of VA benefits they use and how they currently manage them. - 5 minutes
 
 Before we look at the website, I'd like to get a little background information from you:
 
