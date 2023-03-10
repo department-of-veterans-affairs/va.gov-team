@@ -202,7 +202,7 @@ What if your income was $100,000? *(RECORD)*
 ### Task 6: [What next]
 Please stay on this screen. Based on what you see in this screen, what do you think about this information and your question of eligibility for VA health care?
 - *RECORD what they say: definitive answer / only part of the answer / need to apply to know for sure / _____________*
-- *Make sure that participant is talking about what they're seeing in the app,* not *what they knew before this session!*
+- *Make sure that participant is talking about what they're seeing in the app,* and NOT *what they knew before this session!*
 
 How would you decide what to do next? 
 
