@@ -79,6 +79,7 @@ TBD
 
 ### Length of sessions
 Sessions will be 45 minutes with 30 minutes in between sessions. Please schedule no more than 4 sessions per day.
+For the screen reader session, please schedule it for 75 minutes.
 
 ### Availability
 
