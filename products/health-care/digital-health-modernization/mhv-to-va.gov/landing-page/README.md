@@ -13,6 +13,7 @@
 - Stakeholders: 
    - Theresa Hancock
    - Patricia Henry
+   - Bresha Lipscomb
    - Carnetta Scruggs
 
 
