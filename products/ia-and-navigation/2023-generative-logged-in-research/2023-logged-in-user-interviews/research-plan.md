@@ -3,7 +3,7 @@
 ## Background
 While we’ve observed some high-level problems people have navigating VA.gov’s logged-in experience (eg. people are reliant on homepage and My VA links), we’ve never conducted research that is solely dedicated to this topic. To remedy this, we’re conducting a variety of research activities, including user interviews, to help us clarify exactly what problems exist with the logged-in navigation, where we are not meeting users’ expectations, and what we might do to improve the overall experience. 
 
-This insights we learn from people during these interviews will guide meaningful improvements to the logged-in IA and navigation in the coming year.
+The insights we learn from people during these interviews will guide meaningful improvements to the logged-in IA and navigation in the coming year.
 
 [Research brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/README.md).
 
