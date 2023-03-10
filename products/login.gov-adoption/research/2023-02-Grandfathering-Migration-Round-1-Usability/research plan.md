@@ -203,10 +203,10 @@ Note: The moderator assigned to each session is subject to change, please refer 
 |6|Tuesday, March 28th|3-4pm|Carolyn|Tyler||
 |7|Wednesday, March 29th|10-11am|Tyler|Carolyn||
 |8|Wednesday, March 29th|2-3pm|Carolyn|Tyler||
-|9|Thursday, March 30th|8-9am|Tyler| ||
-|10|Thursday, March 30th|11am-12pm|Carolyn|Sofia||
-|11|Thursday, March 30th|1-2pm|Carolyn|Sofia||
-|12|Thursday, March 30th|3-4pm|Tyler|Sofia||
+|9|Thursday, March 30th|8-9am|Tyler|||
+|10|Thursday, March 30th|11am-12pm|Tyler|Carolyn||
+|11|Thursday, March 30th|1-2pm|Carolyn|Tyler||
+|12|Thursday, March 30th|3-4pm|Carolyn|Tyler||
 |13|Friday, March 31st|8-9am|Tyler|||
 |14|Friday, March 31st|10-11am|Tyler|||
 |15|Friday, March 31st|12-1pm|Tyler|Sofia||
@@ -222,9 +222,9 @@ Note: The moderator assigned to each session is subject to change, please refer 
 |25|Wednesday, April 5th|12-1pm|Tyler|Carl||
 |26|Wednesday, April 5th|4-5pm|Carolyn|Tyler||
 |27|Wednesday, April 5th|6-7pm|Carolyn|Tyler||
-|28|Thursday, April 6th|10-11am|Carolyn|Carl||
+|28|Thursday, April 6th|10-11am|Carolyn|Tyler||
 |29|Thursday, April 6th|2-3pm|Carolyn|Tyler||
-|30|Thursday, April 6th|4-5pm|Carolyn|Sofia||
+|30|Thursday, April 6th|4-5pm|Carolyn|Tyler||
 
 ## Team Roles
 
