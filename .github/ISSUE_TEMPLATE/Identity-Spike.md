@@ -1,3 +1,12 @@
+---
+name: Identity Spike
+about: For writing spike tickets
+title: ''
+labels: Identity, Identity-Spike
+assignees: ''
+
+---
+
 ###Description of Spike
 
 **In order to** GOAL,
