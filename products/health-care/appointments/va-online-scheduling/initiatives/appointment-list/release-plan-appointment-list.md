@@ -23,27 +23,9 @@
 
 ### Do I need a staged rollout?
 
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
+Yes
 
-* This change does not add substantial new functionality to VA.gov
-* This change does not impact user flows through tasks
-* This change does not affect traffic to backend services
-
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
-
-#### Exceptions
-
-Feature Toggle: 
+Feature Toggle: `va_online_scheduling_appointment_list`
 
 | Feature type | Possible with feature toggles? |
 | --- | --- |
@@ -56,12 +38,15 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
 
 ### Planning
 
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
-- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
-- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
-
-_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
+- Desired date range: 
+   - 04/24/23 - 04/28/23
+- How will you make the product available in production while limiting the number of users who can find/access it: 
+   - VA.gov feature flag `va_online_scheduling_appointment_list`
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
+   - Increase number of users viewing their appointments in VAOS 
+- Links to dashboard(s) showing "success criteria" metrics: 
+   - KPI Dashboard: https://va-gov.domo.com/page/1769944412
+   - Performance Dashboard: https://va-gov.domo.com/page/1315231862
 
 ### Stage A: Canary
 
@@ -69,8 +54,8 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 
 #### Planning
 
-- Length of time: x (_minimum 2 hours_)
-- Percentage of Users (and roughly how many users do you expect this to be): x% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
+- Length of time: 4 hours to 1 day
+- Percentage of Users 5% (## users) to 10% (## users) 
 
 #### Results:
 - Number of unique users: x
@@ -85,8 +70,8 @@ _Test a larger population of users to make sure there are no issues exposed by l
 
 #### Planning
 
-- Length of time: x (_minimum 1 day_)
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (x users)
+- Length of time: 1 week
+- Percentage of Users (and roughly how many users do you expect this to be): 20% (x users)
 
 #### Results:
 - Number of unique users: x
@@ -100,7 +85,7 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 ## Go Live!
 
 ### Planning:
-- Desired date: mm/dd/yy
+- Desired date: 04/24/23
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
