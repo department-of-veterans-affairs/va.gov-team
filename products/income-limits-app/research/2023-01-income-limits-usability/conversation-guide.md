@@ -190,14 +190,12 @@ If your income last year was $65,000, what might that mean? *(RECORD)*
 
 What if your income was $100,000? *(RECORD)*
 
-*RECORD: any comments about benefits (in bullets)--*
-
-*RECORD: any comments about deductions--*
-
-*RECORD: any comments about the year 2022 vs. 2023--*
-
-*RECORD: any comments about wanting to see questions answered (zip code, # dependents)--*
-
+*RECORD any comments about...*
+- *benefits (in bullets)--*
+- *deductions--*
+- *the year 2022 vs. 2023--*
+- *wanting to see questions answered (zip code, # dependents)--*
+- *about the word "Select"*
 
 ### Task 6: [What next]
 Please stay on this screen. Based on what you see in this screen, what do you think about this information and your question of eligibility for VA health care?
@@ -217,7 +215,8 @@ Now you want to check whether you entered your location correctly. How could you
 
 ### Task 8: [Change year]
 Suppose that you’re in the process of appealing a health care claim from 2021, and you want to see the income limits from that year. What could you do? Again, please tell me where you want to click before doing it.
-- *(RECORD: click on "past income limits" / _________________________________)*
+- *(RECORD: click on "Get past income limits" / _________________________________)*
+  - *any comments about the wording "get past"?*
 
 - *(RECORD all comments and anything confusing re the interactions on each screen of the prototype:)*
   - *Zip code--*
