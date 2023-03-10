@@ -1,12 +1,12 @@
 **Medical records domains**
-|Blue Button label | Suggested label|
-|:------|:-------|
-|VA Immunizations  |Vaccines|
-|VA Allergies |Allergies|
-|VA Problem List |Health conditions|
-|VA Vitals and Readings|Vitals|
-|VA Laboratory Results <br> VA Pathology Reports <br> VA Radiology Reports <br> VA Electrocardiogram (EKG) Reports |Lab and test results|
-|VA Admissions and Discharges <br> VA Notes|Care notes and summaries|
+|Blue Button label | AVS label | Suggested label|
+|:------|:-------|:-------|
+|VA Immunizations  |Immunizations | Vaccines|
+|VA Allergies |Allergies and adverse drug reactions (signs / symptoms) <br/> My VA Allergies |Allergies|
+|VA Problem List |You were diagnosed with |Health conditions|
+|VA Vitals and Readings| Vitals as of this visit | Vitals|
+|VA Laboratory Results <br> VA Pathology Reports <br> VA Radiology Reports <br> VA Electrocardiogram (EKG) Reports |Lab tests <br/> Recent lab results |Lab and test results|
+|VA Admissions and Discharges <br> VA Notes| Visit Notes <br/> My treatment plan <br/> Other instructions | Care notes and summaries|
 
 **Vaccines**
 
