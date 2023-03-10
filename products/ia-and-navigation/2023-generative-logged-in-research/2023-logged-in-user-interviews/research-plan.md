@@ -57,7 +57,7 @@ Before writing your recruitment criteria, be sure to review the following resour
 - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-The audience for our research will be a mix of Veterans, dependents, caregivers, and VSOs.
+The audience for our research will be a mix of Veterans, dependents, and caregivers.
 
 We’ll use Perigean to recruit participants.
 
