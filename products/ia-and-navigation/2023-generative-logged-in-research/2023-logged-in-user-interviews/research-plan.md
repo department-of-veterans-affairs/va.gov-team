@@ -66,7 +66,7 @@ We’ll use Perigean to recruit participants.
 Please recruit 15 participants for a total of 10 completed sessions. 
 
 #### All participants 
-- Must have a smartphone, desktop, laptop, or tablet and are willing to complete their interview that device. 
+- Must have a smartphone, desktop, laptop, or tablet and are willing to complete their interview with that device. 
 * Have an identify-verified VA.gov account.
 * Be willing to log into their VA.gov account and share their screen over Zoom in a web browser window on their device (please include device info in the tracker information)
 * Provide the email that they use to log in to VA.gov prior to the session (please include this email address in the tracker information)
