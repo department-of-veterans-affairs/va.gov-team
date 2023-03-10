@@ -7,10 +7,14 @@
 - Product POCs: 
   - Lauren Alexanderson - OCTO Sponsor
   - Leila Rassi - OCTO Product Owner
-  - Patrick Bateman - OCTO 
+  - Patrick Bateman - OCTO Technology Expert
   - Coulton Bunney - OCTO UX Lead
  
 - Stakeholders: 
+   - Theresa Hancock
+   - Patricia Henry
+   - Carnetta Scruggs
+
 
 ## The Problem
 To get the health care they need, Veterans must find, register for, and learn to use a number of different websites and software products. Our generative research from 2018, repeated in late 2020, shows that Veterans find it extremely difficult to navigate commonplace interactions with VA health care. The VA ecosystem is so complex that Veterans feel discouraged to apply for, manage, and maximize their benefits.
@@ -25,18 +29,39 @@ Consider booking a doctor’s appointment: One system locates nearby facilities.
 
 
 ### Business Goals
+- Create a landing page that will serve as a seamless bridge between VA.gov and MyHealtheVet (MHV) and evolve transparently while MHV applications are being integrated into VA.gov
+- Provide a single sign-on authenticated experience between VA.gov and MHV
+- Offer an intuitive and accessible front door to health benefits and information 
 
 
 ## Assumptions
+- The new MyHeatheVet on VA.gov landing page will initially launch with links to existing applications and content on MyHealtheVet
+- As applications are integrated into VA.gov and reach the appropriate rollout stage, links will be updated to point to the new experience 
+- The navigation and content on the landing page may change between initial rollout and full release based on the outcome of user feedback 
 
 ## Questions
+- Will users find it easier or more difficult to access their health information from the new landing page?
+- Will users be confused to see this new page instead of MyHealtheVet's landing page?
+- Will changes to labels and navigation to make the page more intuitive than MHV to new users cause confusion for existing users?
+
 
 ## Requirements
 #### In Scope 
+- A new landing page that initially links to existing health applications and content on MHV and VA.gov
+- Usability testing to determine what improvements may be needed 
+- Incremental enhancements to the landing page navigation and content based on user feedback 
+- Updating links as MHV applications are migrated into VA.gov 
+- Analytics to evaluate user behavior and measure success 
+
 
 #### Out of Scope
+- Content management in the landing page MVP release 
+
 
 ## Solution Approach
+The MyHealtheVet on VA.gov will utilize a single sign-on approach to allow users logged into VA.gov to seamlessly move to MyHealtheVet without having to log in a second time.  It will be the first component of the new MyHealtheVet in VA.gov experience to go live. Content on the page will explain why users are seeing this new page, and will provide a link to Resources and Support content.
+
+While MHV applications are in the process of being integrated into VA.gov, links on the landing page will point to existing applications and content.  Once an application reaches Phase 2 of its rollout, the relevant landing page links will be updated to point to the new experience.
 
 ## Value Propositions
 
@@ -48,17 +73,25 @@ Consider booking a doctor’s appointment: One system locates nearby facilities.
 # Implementation Info
 
 ## Status
+The application is launched in Production behind a feature flag. During Phase 0 of the landing page rollout, a handful of trusted users will have access via an allow list.
+
+After the initial smoke testing by the trusted user group, access will be restricted to 5% of daily MyHealtheVet users who have health benefits and have never received care at a Cerner VA Medical Center.
+
+
 
 ## Technical Decisions
+- Please refer to the decision log
 
 ## Product Decisions
+- Please refer to the decision log
 
 ## Team
 
-- Product Manager: Marci McGuire 
-- Design Lead: 
-- Eng Lead: 
-- Engineers: Mark Dewey, Stephen Barrs, Daniel Cloud
+- Product Manager: Marci McGuire (Ad Hoc)
+- Research: Robyn Singleton
+- Design Lead: Jonathan Nelson (Ad Hoc)
+- Eng Lead: Daniel Cloud (Ad Hoc)
+- Engineers: Mark Dewey, Stephen Barrs, Eric Voshall (Ad Hoc)
    
 ## Screenshots
 
