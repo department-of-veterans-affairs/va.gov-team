@@ -184,6 +184,10 @@ Can you tell me what benefits you might get?
 
 If your income last year was $25,000, what might that mean? *(RECORD)*
 
+If your income last year was $85,000, what might that mean? *(RECORD)*
+
+If your income last year was $65,000, what might that mean? *(RECORD)*
+
 What if your income was $100,000? *(RECORD)*
 
 *RECORD: any comments about benefits (in bullets)--*
