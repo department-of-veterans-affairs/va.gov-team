@@ -50,12 +50,6 @@ This will be a moderated usability study conducted remotely over Zoom.
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/2023-logged-in-user-interviews/conversation-guide.md) 
 	
 ## Recruitment	
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
 The audience for our research will be a mix of Veterans, dependents, and caregivers.
 
