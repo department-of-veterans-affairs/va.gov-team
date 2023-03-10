@@ -25,7 +25,7 @@ The primary goal of our UAT is to confirm that functionality works as expected w
 As secondary goals, we’ll follow up on [our last usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md):
 - We would like to verify that the updated content in the Education and Training section resonates better with Veterans now that we've changed the termiololgy to reference the Post-9/11 GI Bill.
 - We would like to verify that the title change for the Benefit application drafts section has made it clear that only saved, in-progress applications will show in that section and that applications refers to benefit applications that are filled out on VA.gov.
-- 
+
 ### Outcome
 Based on the outcome of this research study, we will either release the audit updates to production and/or update our design to correct any significant usability hurdles people encounter. 
 
@@ -50,7 +50,7 @@ We'll have participants go through a list of specific tasks for UAT and ask foll
 Remote, via Zoom
 
 ### Research materials
-[Conversation guide](TK) 
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/MyVA-audit-UAT-conversation-guide.md) 
 
 ## Recruitment	
 We are recruiting Veterans who use various VA benefits and specifically some who use or have used education benefits since we want feedback specific to that type of benefit. We are focusing our other recruitment criteria on the marginalized groups we didn't speak with during [our last usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md). This includes Veterans living in rural areas, mobile users, and Veterans with no college degree. We'll use Perigean to recruit them.
