@@ -35,7 +35,7 @@
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
 |Humans of VA|Overview of the organizations in which our teams and collaborators sit, as well as an introduction to key stakeholders in benefits service delivery|[Link](https://docs.google.com/presentation/d/1YAFq_Cx82sH_mPFPRbVxFMWp1Vtz6vykROYxrSeka0Q/edit?usp=sharing)|Jan 2023|
-|VA Organization Map|VA org diagram with stakeholders|[Link](https://app.mural.co/t/nava4113/m/nava4113/1675874152774/e3c17c025dfc019434de9a7517d23025721687b0?sender=u17c04e7372f6c8e114602800)|Feb 2023|
+|VA Organization Map|VA org diagram with stakeholders|[Link](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1678236223248?sender=ua42f7003779134a5bd576137&key=d60dc394-a502-47db-9ac8-)|Feb 2023|
 |Journeys of Veterans Map|Ten life stages any Veteran may encounter from pre-service to end of life|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)||
 |Veteran’s Claim Experience|Veteran's journey map for filing diability claim process developed by VEO<br>New journey map developed by VEO</br>|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20-%20Disability%20Claim%20-%2011x17%20-%20%209.4.17.pdf)<br>[Link](https://drive.google.com/file/d/1mfigVlDd70gKihsY8T6mE60NhLXlk_z-/view?usp=sharing)</br>|2016-2017 <br>Jan 2023</br>|
 |Walkthrough of 526ez application|Video walkthrough|[Link](https://drive.google.com/file/d/1KZ22-UyWOOaD8NDpfpVbHZ1pB1Bj571b/view?usp=sharing)||
