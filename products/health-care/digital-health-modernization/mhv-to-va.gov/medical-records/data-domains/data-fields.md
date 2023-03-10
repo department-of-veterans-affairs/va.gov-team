@@ -10,8 +10,8 @@
 
 **Vaccines**
 
-USCDI v1 Mapping: [Immunizations](https://www.healthit.gov/isa/uscdi-data-class/immunizations#uscdi-v1)
-USCDI mapping concerns: None
+USCDI v1 Mapping: [Immunizations](https://www.healthit.gov/isa/uscdi-data-class/immunizations#uscdi-v1) <br>
+USCDI mapping concerns: v1 has only 1 data element: Immunizations
 
 |Data field       | Description           | Suggested label | Notes             | Questions           
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
@@ -24,8 +24,8 @@ USCDI mapping concerns: None
 
 **Allergies**
 
-USCDI v1 Mapping: [Allergies and intolerances](https://www.healthit.gov/isa/uscdi-data-class/allergies-and-intolerances#uscdi-v1)
-USCDI mapping concerns:
+USCDI v1 Mapping: [Allergies and intolerances](https://www.healthit.gov/isa/uscdi-data-class/allergies-and-intolerances#uscdi-v1) <br>
+USCDI mapping concerns: v1 has only 3 data elements: Substance (Medication), Substance (Drug Class), Reaction
 
 |Data field       | Description           | Suggested label | Notes             | Questions|           
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
@@ -41,8 +41,8 @@ USCDI mapping concerns:
 
 **Health conditions**
 
-USCDI v1 Mapping: [Problem](https://www.healthit.gov/isa/uscdi-data-class/problems#uscdi-v1)
-USCDI mapping concerns:
+USCDI v1 Mapping: [Problem](https://www.healthit.gov/isa/uscdi-data-class/problems#uscdi-v1) <br>
+USCDI mapping concerns: v1 has only 1 data element: Problems
 
 |Data field       | Description          | Suggested label | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
@@ -55,8 +55,8 @@ USCDI mapping concerns:
 
 **Vitals**
 
-USCDI v1 Mapping: [Vital signs](https://www.healthit.gov/isa/uscdi-data-class/vital-signs#uscdi-v1)
-USCDI mapping concerns:
+USCDI v1 Mapping: [Vital signs](https://www.healthit.gov/isa/uscdi-data-class/vital-signs#uscdi-v1) <br>
+USCDI mapping concerns: v1 maps the actual vital signs, not the data elements for each vital sign — adding table below to capture this
 
 |Data field       | Description           | Suggested label | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
