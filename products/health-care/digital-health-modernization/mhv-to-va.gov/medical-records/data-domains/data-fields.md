@@ -10,17 +10,17 @@
 
 **Vaccines**
 
-USCDI v1 Mapping: [Immunizations](https://www.healthit.gov/isa/uscdi-data-class/immunizations#uscdi-v1) <br>
+USCDI v1 Data Class: [Immunizations](https://www.healthit.gov/isa/uscdi-data-class/immunizations#uscdi-v1) <br>
 USCDI mapping concerns: v1 has only 1 data element: Immunizations
 
-|Data field       | Description           | Suggested label | Notes             | Questions           
-|:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
-|Immunization | Name of the vaccine | Vaccine | 
-|Date received | Date patient got vaccine dose | Date |
-|Location | Name/address/clinic code of facility where they got vaccine dose | Location |
-|Reaction | Reactions or side effects to the vaccine recorded by provider | Reaction | Vaccine reactions may also be stored in allergies list and self-entered data |How often does a vaccine reaction appear in allergy list instead of this field? Do we need any type of note here about reviewing your allergy list?|
-|Comments | Comments entered by provider | Provider notes | 
-|Series | Info about vaccine series, if relevant | Series | May need explanatory text here. <br /> <br /> Vaccines in a series won't be grouped or linked in phase 0. | How does series data display — "COVID booster 1 of 2" or some other format? |
+|Data field       | Description           | Suggested label |USCDI v1 data element mapping| Notes             | Questions           
+|:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|-------|
+|Immunization | Name of the vaccine | Vaccine |[Immunization](https://www.healthit.gov/isa/taxonomy/term/666/uscdi-v1)|
+|Date received | Date patient got vaccine dose | Date | _None_ |
+|Location | Name/address/clinic code of facility where they got vaccine dose | Location | _None_ |
+|Reaction | Reactions or side effects to the vaccine recorded by provider | Reaction | _None_ | Vaccine reactions may also be stored in allergies list and self-entered data |How often does a vaccine reaction appear in allergy list instead of this field? Do we need any type of note here about reviewing your allergy list?|
+|Comments | Comments entered by provider | Provider notes |  _None_ |
+|Series | Info about vaccine series, if relevant | Series | _None_ | May need explanatory text here. <br /> <br /> Vaccines in a series won't be grouped or linked in phase 0. | How does series data display — "COVID booster 1 of 2" or some other format? |_None_ |
 
 **Allergies**
 
