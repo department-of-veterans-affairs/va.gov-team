@@ -74,13 +74,13 @@ Before we look at the website, I'd like to get a little background information f
 - Let's scroll down to the Benefit application drafts section. What do you think this section is for?
 - If you filled out an application for benefits and submitted it to VA, would you expect to see that application here or somewhere else?
 
-- [ ] **UAT TASK:** Determine whether the title of the section has made it more clear that the section if for benefit applications that have been started but not submitted.
+- [ ] **UAT TASK:** Determine whether the title of the section has made it more clear that the section is for benefit applications that have been started but not submitted.
 
 ## 5. Confirm links - 15 minutes
-*There are many links on the page so I'l make sure they are all clicked by at least one user but am more concerned with data being pulled correctly, so I'll likely ask users to click on links where I want to see if the dynamic content on My VA matches the page it takes them to.*
+*There are many links on the page so I'll make sure they are all clicked by at least one user but am more concerned with data being pulled correctly, so I'll likely ask users to click on links where I want to see if the dynamic content on My VA matches the page it takes them to.*
 
 - Now lastly, I want to make sure the links on this page are functioning as expected so I'll have you click on some of them.
-  - *Select some links to test; prioritizing ones that have dyamic content we want to verify the accuracy of.*
+  - *Select some links to test; prioritizing ones that have dynamic content we want to verify the accuracy of.*
 
 ## Post-Task Interview - 3 minutes
 - Thank you so much! That concludes our session for today. This has been so helpful for our team. Do you have any feedback on what we looked at in this session or questions for me?
