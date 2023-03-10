@@ -1,7 +1,5 @@
 # Research plan for logged-in IA and navigation, Account Experience, March 2023
 
-`DRAFT`
-
 ## Background
 While we’ve observed some high-level problems people have navigating VA.gov’s logged-in experience (eg. people are reliant on homepage and My VA links), we’ve never conducted research that is solely dedicated to this topic. To remedy this, we’re conducting a variety of research activities, including user interviews, to help us clarify exactly what problems exist with the logged-in navigation, where we are not meeting users’ expectations, and what we might do to improve the overall experience. 
 
@@ -34,12 +32,14 @@ How will this research advance your product to the next phase in the design proc
 ### Research questions
 * How do people find tasks they need to complete? 
 * How do they do this without the homepage/My VA links?
+* If they can’t find what they need, where do they go for help?
 * How can we make the site easier to navigate for logged-in users?
 * What level of personalization do people expect in the navigation after they’ve logged in?
 * How do navigation needs and expectations differ between user types?
 
 ### Hypothesis
 - People will struggle finding what they’re looking for if they can’t use the homepage or My VA.
+- People will give up or call VA if they can’t find what they need on the VA.gov.
 - People will expect a level of personalization similar to what we have today in the overall main navigation, but will expect more options in the name drop down menu.
 - Navigation needs and expectations will be similar across user types.
 
@@ -65,25 +65,101 @@ We’ll use Perigean to recruit participants.
 ### Recruitment criteria
 Please recruit 15 participants for a total of 10 completed sessions. 
 
+#### All participants 
+- Must have a smartphone, desktop, laptop, or tablet and are willing to complete their interview that device. 
+* Have an identify-verified VA.gov account.
+* Be willing to log into their VA.gov account and share their screen over Zoom in a web browser window on their device (please include device info in the tracker information)
+* Provide the email that they use to log in to VA.gov prior to the session (please include this email address in the tracker information)
+* Have a working microphone on their device
+* Have Zoom downloaded to their device prior to the session
+
+#### Some participants
+
+##### Veteran status
 - 7 participants should be Veterans
 - 4 participants should be Primary Caregivers for a Veteran (OK if they are also Veterans themselves)
-- 4 participants should be dependents of Veterans who receive a benefit through VA (e.g. for example health care or education benefits)
+- 4 participants should be family members of Veterans who receive a benefit through VA (e.g. for example health care or education benefits)
 
+##### Demographics
+- 6 participants should be over 55
+- 10 participants should identify as other than Caucasian
+- 8 participants should identify as a gender other than male
+- 5 participants should have no college degree
+- No more than 5 participants should have a Master’s degree or higher
+- 5 participants should identify as belonging to the LGBTQ+ community
 
+##### Accessibility and inclusion
+- 8 participants should identify as having a cognitive impairment
+- 8 participants should be able to join the session from a mobile device
+- 7 participants should be able to join the session from a desktop device
+- 6 participants should use a screenreader on a desktop or mobile device
 
+#### Screener questions
+1. We’d like you to review parts of the VA website that require you to log in to an identity-verified account.  **Do you have an identify-verified account on VA.gov?** 
+
+You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified.
+
+Response options: yes or no
+(Answering yes would qualify the participant.)
+
+2. Do you have trouble remembering things, learning new things, concentrating, or making decisions?
+
+**Note:** We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+
+Response options: yes or no
+(Answering yes would qualify the participant to meet criteria for cognitive impairments)
+
+3. Do you need to use screen reader technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? 
+
+**Note:** We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
+
+Response options: yes or no
+
+(Proceed to question 3a if yes)
+
+	3a.  We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader:
+
+Response options:  Beginner, Intermediate, Advanced, Expert
+
+(This answer won’t influence whether or not they qualify, but will be helpful to have on the tracker)
+
+         3b. Are you willing to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
+
+Response options: yes or no
+	
+	3b. Please list the name of the screen reader technology you will use during the session.
+
+Response option: text box
+
+4. Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. (Answer should be yes to satisfy criteria for 6 mobile users)
+
+Response options: yes or no
+
+5. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure our feedback sessions include representative sample populations.
+
+Response options: yes or no (Answer should be yes to satisfy criteria for LGBTQ+)
 
 ## Timeline
 ### Prepare
+**We would like to request a 15 minute kick-off call with Perigean before recruiting begins.**
+
+Availability for a kick-off call: 
+- March 20 between 10-4:30pm
+- March 21 between 10am-4pm
+
 We’ll be using VA.gov, which is already live and ready to go.
 
-* Pilot participant email: TBD
-* Date and time of pilot session:  TBD
+### Pilot session
+* Pilot participant email:  Mike.King@oddball.io 
+* Date and time of pilot session:  3/24, 2pm EST (please schedule 1 hour for team debrief)
 
 ### Research sessions
 * Planned dates of research: March 30 - April 4
 
 ### Length of sessions
-* Session length: 30 minutes
+* Session length: 
+	* 30 minutes for non-screenreader sessions
+	* 60 minutes for screenreader sessions
 * Buffer time between sessions: 30 minutes
 * Maximum Sessions per day: 4
 
@@ -99,8 +175,10 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development (usually but not always same as moderator): Liz Lantz
 - Participant recruiting & screening: Perigean
 - Project point of contact: Liz Lantz
-- Participant(s) for pilot test:TBD
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	TBD
+- Participant(s) for pilot test: Mike King
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	
+	- March 31 and April 4 [Sara.Smith@oddball.io](mailto:Sara.Smith@oddball.io)  
+	- March 30 and April 3: TBD
 - Note-takers: TBD
 - Observers:	
 	- samara.strauss@va.gov
@@ -114,3 +192,5 @@ Please list the people who will be serving in each role.
 	- derrick.ellerbie@agile6.com
 	- ana@adhocteam.us 
 	- allison@cityfriends.tech
+	- robyn.singleton@adhocteam.us
+	- Cindy.merrill@adhocteam.us
