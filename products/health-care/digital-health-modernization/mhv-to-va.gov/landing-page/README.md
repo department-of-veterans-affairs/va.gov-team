@@ -80,10 +80,10 @@ After the initial smoke testing by the trusted user group, access will be restri
 
 
 ## Technical Decisions
-- Please refer to the decision log
+- Please refer to the [decision log](/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/decision-log.md)
 
 ## Product Decisions
-- Please refer to the decision log
+- Please refer to the [decision log](/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/decision-log.md)
 
 ## Team
 
