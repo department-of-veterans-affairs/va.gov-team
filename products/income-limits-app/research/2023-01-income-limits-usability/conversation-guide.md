@@ -135,7 +135,7 @@ Do you see the link?
 What are your impressions of what you're looking at? *(RECORD)*
 
 Could you try to use this to find out if you're eligible for VA health care with your current income? Please explain what you want to do before clicking anywhere.
-- *(Click to start income limits app)*
+- *(Click to start income limits app--under "Will I need to pay..." or "Does VA verify...")*
 
 ### Task 3: [Intro page of app] 
 Let's talk before you click anywhere...What are your impressions of this page?
