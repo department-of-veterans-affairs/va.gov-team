@@ -11,19 +11,21 @@
 **Vaccines**
 
 USCDI v1 Mapping: [Immunizations](https://www.healthit.gov/isa/uscdi-data-class/immunizations#uscdi-v1)
+USCDI mapping concerns: None
 
 |Data field       | Description           | Suggested label | Notes             | Questions           
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
 |Immunization | Name of the vaccine | Vaccine | 
 |Date received | Date patient got vaccine dose | Date |
 |Location | Name/address/clinic code of facility where they got vaccine dose | Location |
-|Reaction | Reactions or side effects to the vaccine recorded by provider | | Vaccine reactions may also be stored in allergies list and self-entered data |How often does a vaccine reaction appear in allergy list instead of this field? |
+|Reaction | Reactions or side effects to the vaccine recorded by provider | Reaction | Vaccine reactions may also be stored in allergies list and self-entered data |How often does a vaccine reaction appear in allergy list instead of this field? Do we need any type of note here about reviewing your allergy list?|
 |Comments | Comments entered by provider | Provider notes | 
-|Series | Info about vaccine series, if relevant | Series | May need explanatory text here. <br /> <br /> Vaccines in a series won't be grouped or linked in MVP version. | How does series data display — "COVID booster 1 of 2" or some other format? |
+|Series | Info about vaccine series, if relevant | Series | May need explanatory text here. <br /> <br /> Vaccines in a series won't be grouped or linked in phase 0. | How does series data display — "COVID booster 1 of 2" or some other format? |
 
 **Allergies**
 
 USCDI v1 Mapping: [Allergies and intolerances](https://www.healthit.gov/isa/uscdi-data-class/allergies-and-intolerances#uscdi-v1)
+USCDI mapping concerns:
 
 |Data field       | Description           | Suggested label | Notes             | Questions|           
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
@@ -40,6 +42,7 @@ USCDI v1 Mapping: [Allergies and intolerances](https://www.healthit.gov/isa/uscd
 **Health conditions**
 
 USCDI v1 Mapping: [Problem](https://www.healthit.gov/isa/uscdi-data-class/problems#uscdi-v1)
+USCDI mapping concerns:
 
 |Data field       | Description          | Suggested label | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
@@ -53,6 +56,7 @@ USCDI v1 Mapping: [Problem](https://www.healthit.gov/isa/uscdi-data-class/proble
 **Vitals**
 
 USCDI v1 Mapping: [Vital signs](https://www.healthit.gov/isa/uscdi-data-class/vital-signs#uscdi-v1)
+USCDI mapping concerns:
 
 |Data field       | Description           | Suggested label | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
@@ -68,6 +72,7 @@ USCDI v1 Mapping: [Vital signs](https://www.healthit.gov/isa/uscdi-data-class/vi
 **Lab and test results**
 
 USCDI v1 Mapping: [Laboratory](https://www.healthit.gov/isa/uscdi-data-class/laboratory#uscdi-v1), [Pathology report narrative](https://www.healthit.gov/isa/taxonomy/term/2886/uscdi-v1),   
+USCDI mapping concerns:
 
 |Category | Data field | Suggested label | Notes | Questions |
 |:----------------|:-------------|:----------------|:------------------|:--------------------|
@@ -130,6 +135,10 @@ USCDI v1 Mapping: [Laboratory](https://www.healthit.gov/isa/uscdi-data-class/lab
 
 
 **Care summaries and notes**
+
+USCDI v1 Mapping: 
+USCDI mapping concerns:
+
 |Category|Data field       | Description           | Suggested label | Notes             | Questions           |
 |:----------------------|:-----------------------|:--------------------|:------------------|:------------------|:--------------------|
 |VA Note|Title|
