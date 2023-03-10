@@ -111,17 +111,17 @@ Response options: yes or no
 
 (Proceed to question 3a if yes)
 
-	3a.  We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader:
+3a.  We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader:
 
 Response options:  Beginner, Intermediate, Advanced, Expert
 
 (This answer won’t influence whether or not they qualify, but will be helpful to have on the tracker)
 
-         3b. Are you willing to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
+3b. Are you willing to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
 
 Response options: yes or no
 	
-	3b. Please list the name of the screen reader technology you will use during the session.
+3b. Please list the name of the screen reader technology you will use during the session.
 
 Response option: text box
 
