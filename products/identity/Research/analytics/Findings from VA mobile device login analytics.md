@@ -9,7 +9,9 @@ Analytics support:
 Joe Niquette - joe.niquette@oddball.io,
 Alex Garcia - alexander.garcia@oddball.io
 
-skip ahead to findings
+
+**Jump to:**
+[Key findings](#key-findings)
 
 
 ## Background
@@ -54,14 +56,8 @@ Our team captured analytics from Google Analytics during the one month period fr
 We found that 92% of all mobile device logins used a verified account. Most Apple phones are lumped together here, like with Datadog. Almost 95% of Apple devices logged in using a verified account.
 Looking specifically at tablets, we found that 30,994 devices logged in over the stated time period. Tablets accounted for 21 of the 25 devices that have cameras under the 8 MP requirement. Tablets represent 3,740 of the 4,117 logins made by devices that don’t meet the 8 MP requirement. Even though these devices aren’t able to verify an account, almost 89% of these devices were used to log in with a verified account. Still this is a statistically significant reduction from the average, meaning that tablet users are slightly less likely to log in with a verified account.
 
-## Key Findings - Overview
-1. The top logged in mobile devices have cameras that meet login.gov’s requirements. This is true for both the Datadog and Google Analytics datasets.
-2. In the Google Analytics dataset, we found several mobile devices with cameras not meeting login.gov’s requirements. 
-3. Still, the majority of the 25 devices that don’t meet the requirements are logging in with a verified account.
-4. Devices with cameras that don’t meet login.gov’s recruitment are statistically less likely to log in with a verified account
-5. Google Analytics data shows that VA.gov’s mobile users are most likely to be Apple devices. A slight majority of unverified account logins are also made from Apple devices.
 
-## Key Findings - Details
+## Key Findings
 
 **1. The top logged in mobile devices have cameras that meet login.gov’s requirements. This is true for both the Datadog and Google Analytics datasets.**
 
