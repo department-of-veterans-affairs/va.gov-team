@@ -19,7 +19,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to web page:* **bit.ly/TBD** ()
+- *Open a standalone browser window to web page:* **[bit.ly/41Yy7wz](https://www.figma.com/proto/pqSQOl4IodScHhobr0GkbD/Income-Limits-Prototype?page-id=0%3A1&node-id=5%3A1001&viewport=1731%2C1829%2C0.48&scaling=min-zoom&starting-point-node-id=5%3A1001&hotspot-hints=0&hide-ui=1)**
 - *Paste link into Slack so ready to paste into Zoom chat*
 
 - *Do Not Disturb ON so no notifications*
@@ -127,7 +127,7 @@ I have a web page that I'd like you to look at while you're sharing your screen 
 
 While you're looking at the prototype, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. I'm looking for your feedback! 
 
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **bit.ly/TBD**
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **bit.ly/41Yy7wz**
 - *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
