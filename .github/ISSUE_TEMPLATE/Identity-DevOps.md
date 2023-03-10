@@ -1,3 +1,12 @@
+---
+name: Identity DevOps
+about: For writing DevOps tickets
+title: ''
+labels: Identity, Identity-DevOps
+assignees: ''
+
+---
+
 ## Issue Description
 _Insert issue details here_
 
