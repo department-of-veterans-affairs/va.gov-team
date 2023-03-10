@@ -164,10 +164,10 @@ We’ll be using VA.gov, which is already live and ready to go.
 * Maximum Sessions per day: 4
 
 ### Availability
-- March 30, 10am-5pm, and 7:30pm-9pm
-- March 31, 7:30am-4pm 
-- April 3, 10am-5pm, and 7:30pm-9pm
-- April 4, 7-7:30am, 10am-5pm, and 7:30pm-9pm
+- March 30, 10am-5pm, and 7:30pm-9pm (screenreader sessions only between 10am-5pm)
+- March 31, 7:30am-4pm (screenreader sessions only between 10am-4pm)
+- April 3, 10am-5pm, and 7:30pm-9pm 
+- April 4, 7-7:30am, 10am-5pm, and 7:30pm-9pm (screenreader sessions only between 10am-5pm)
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
@@ -179,7 +179,7 @@ Please list the people who will be serving in each role.
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
 	- March 31 and April 4 [Sara.Smith@oddball.io](mailto:Sara.Smith@oddball.io)  
 	- March 30 and April 3: TBD
-- Note-takers: TBD
+- Note-takers: Perigean
 - Observers:	
 	- samara.strauss@va.gov
 	- Michelle.Northuis@va.gov 
