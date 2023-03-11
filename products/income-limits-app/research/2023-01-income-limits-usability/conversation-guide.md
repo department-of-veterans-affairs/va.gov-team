@@ -105,6 +105,7 @@ Now I'm going to ask you to do some things...
 ### Screen sharing
 I would like you first to share your screen with me--a web browser please. You might want to close any apps that you don’t want me to see.
 - *(refer to Screen sharing instructions above, if needed)*
+- *STOP TECH TROUBLESHOOTING **< 20 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
 
 ### Task 1: [Wayfinding] 
 *(if they DON'T have VA health care)* Let's say that you're wondering if you're eligible for VA health care with your current income.
@@ -125,7 +126,7 @@ Can you show me how you would find out if you're eligible for VA health care wit
 
 I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom. It's a prototype that isn't very interactive, and so before clicking anywhere, I'd like you to tell me what you might do.
 
-While you're looking at the prototype, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. I'm looking for your feedback! 
+While you're looking at the prototype, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. I'm looking for **your feedback**, including any issues that you see or questions that you have. 
 
 I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **bit.ly/41Yy7wz**
 - *(If asked, reassure that this is a legitimate link to what I want you to test.)*
