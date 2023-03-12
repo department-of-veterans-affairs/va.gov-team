@@ -9,7 +9,7 @@ Florence McCafferty, florence.mccafferty@agile6.com
 [Research readout PDF]
 
 **Jump to:**
-- [Hypotheses and conclusions](#hypotheses-and-conclusions)
+* [Hypotheses and conclusions](#hypotheses-and-conclusions)
 * [Key findings](#key-findings)
 * [Recommendations](#recommendations)
 * [Research process insights](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#research-process-insights)
@@ -30,44 +30,74 @@ Determine which information would be most helpful for Veterans to have surfaced 
 Live interview sessions were conducted remotely via Zoom, and at the end of interviews, participants were asked to share their screen (any device) to locate and review the military information section of the profile together.
 
 ## Hypotheses and Conclusions
-1. Military information often (always?) must be provided when Veterans apply for various VA benefits. This product could play a helpful role in the benefit application process.
+1. Military information must be provided when Veterans apply for various VA benefits. 
+*Mostly true* 
+Depending on how a Veteran applies for benefits, they may have more or less flexibility around what service history information and/or documents the Veteran must supply as part of the application. Participants that applied for benefits with the assistance of a VSO did so without complete information. Participants that applied by themselves believed they needed the complete service information requested on the forms they filled out, plus their DD214. For more information on what participants believe is needed vs. what actually is needed to apply for VA benefits, read key findings 3 and 4 below.
 
-*Mostly true* Most participants believed they needed to provide their DD214 to apply for VA benefits, but the type of benefit they're applying for and how they apply will determine whether a copy of their DD214 is actually completely necessary. Participants who applied with the help of a VSO most commonly remembered dates of service and branch of service as the service-related form fields that needed to be filled out as part of applying for VA benefits. There were mixed beliefs and/or experiences around whether one would need to provide a copy of one's DD214 to apply for VA benefits. 
-
-2. Veterans receive form DD214 - which includes all the information that this product could possibly include - when they leave the service. Surfacing DD214 information in this product could be helpful in the case of a missing or destroyed DD214.
-
-*Not always true* 1 participant out of the 10 interviewed has never received a dd214 and a review of Veteran Reddit confirms that some Veterans leave the survice without receiving discharge papers. 
-
-3. This product - Military Information in the Profile - could help Veterans determine if their military information is correct or incorrect, if their discharge status could be upgraded, or if their discharge status has successfully been upgraded.
-
-*True* Upon viewing the Military Information section of the Profile, 1 participant out of the 10 interviewed mentioned noticing a discrepancy in service dates and wondered if that could be getting in the way of receiving health records they had requested. In addition, participants mentioned confusions about their dd214s that could be clarified using this product, if the product is able to survace the pertinent information (especially as related to discharge codes and different versions of dd214).
+2. Veterans receive form DD214 when they leave the service. Surfacing DD214 information in this product could be helpful in the case of a missing or destroyed DD214.
+*Not always true* 1 participant out of the 10 interviewed has never received a DD214 and a review of Veteran Reddit confirms that some Veterans leave the service without receiving discharge papers. 
 
 ## Key Findings
-1. Most participants (at least 6/10) believe that they needed their DD214 (not just the information on it) to apply for any VA benefit or service.
-2. Depending on how Veterans apply for VA benefits and services, they may or may not need to provide information about their service history and/or a copy of their DD214.
-3. Though they may not *need* their DD214, having a copy of it facilitates application for VA benefits and for other non-VA veterans' privileges, memberships, and discounts. 
-4. The most common service history related fields that participants recalled when applying for VA benefits were branch of service and service dates.
-5. Veterans use service history information such as dates and locations to piece together timelines, which assist with applying for benefits to cover service-related injuries or to piece together the dates and locations of other events.
-6. Veterans use service history information such as trainings, commendations, and position descriptions for professional reasons after the military, whether that is building out a resume or otherwise demonstrating qualifications for a role.
-7. Some Veterans lack easy access to their original DD214. 
-8. Participants like the idea of being able to access service history information AND their DD214 easily online. 
-9. Unprompted, four participants brought up confusions they had about their DD214.
-10. Participants do not think of the VA Profile as a way to access any information about their service history.
-11. Participants are confused about the service dates that show up in the Military Information section of their Profile. 
+1. The most common service history related fields that participants recalled when applying for VA benefits were branch of service and service dates, but those are not the only fields repeating on common digitized and non-digitized VA forms.
+2. Veterans are not able to memorize all the service history information they'd need to apply for common VA benefits.
+3. Most participants (at least 6/10) believe that they need their DD214 (not just the information on it) to apply for any VA benefit or service.
+4. Depending on how Veterans apply for VA benefits and services, they may or may not need to provide information about their service history and/or a copy of their DD214.
+5. Though they may not *need* their DD214, having a copy of it facilitates application for VA benefits and for other non-VA veterans' privileges, memberships, and discounts. 
+6. Veterans use their service history information, whether from a DD214 or not, for reasons other than proving that they served in the military.
+7. Veterans use service history information such as dates and locations to piece together timelines, which assist with applying for benefits to cover service-related injuries or to piece together the dates and locations of other events.
+8. Veterans use service history information such as trainings, commendations, and position descriptions for professional reasons after the military, whether that is building out a resume or otherwise demonstrating qualifications for a role.
+9. It's not rare for Veterans to lack easy access to their DD214.
+10. 4/10 participants raised confusions about the DD214.
+11. Participants like the idea of being able to access service history information AND their DD214 easily online. 
+12. Participants do not think of the VA Profile as a potential place to access their service history information.
+13. Participants are confused about the service dates that show up in the Military Information section of their Profile. 
+14. Military Information means a broad range of things to participants.
 
 ## Details of Findings 
 
+### The most common service history related fields that participants recalled when applying for VA benefits were branch of service and service dates, but those are not the only fields repeating on common digitized and non-digitized VA forms.
+Based on a review of some common digitized VA forms (specifically, VA form 10-10EZ used for applying for healthcare, VA form 21-526EZ used for applying for disability, VA form 28-1900 used for applying for VR&E/education benefits, and VA form 21P-527EZ used for applying for Veterans' pension), as well as a [review of Jeana Clark's (Senior UX Accessibility Designer for VA.gov Forms) consolidation of fields on so-far non-digitized forms](https://docs.google.com/spreadsheets/d/1ycMCdzicG_-neSKJQztFQTOmB2f-pRP_7BG26MJhgDg/edit#gid=763999618), other fields that commonly repeat in VA forms include:
+
+* Service number
+* Place of last or anticipated separation from service
+* Other names served under
+* Have you ever been a prisoner of war? (sometimes with dates of confinement)
+* Are you a valor or purple heart award recipient?
+
+Other themes (as opposed to specific fields) that repeat in VA benefits forms include:
+* Specific questions about service times and locations, e.g. Did you serve in a combat zone sine 9/11/2001? Which wars did you serve in? Did you serve in an agent orange location between January 9, 1962 and July 31, 1980? Did you serve on active duty at least 309 days at Camp LeJeune from August 1, 1953 through December 31, 1987?
+* Questions about National Guard/Reserve duty, e.g. Was the Veteran activated to federal/active duty under authority of Title 10, U.S.C.? Component: Active, Reserves or National Guard? Address of Veteran's Reserve/National Guard Unit? Phone number for Veteran's Reserve/National Guard Unit?
+
+### Veterans are not able to memorize all the service history information they'd need to apply for common VA benefits.
+2/10 of the participants interviewed mentioned that they had injury-related memory problems and had trouble remembering details such as their own service dates. While they didn't disclose any issues with memory generally, another 2/10 participants said they had trouble remembering their exact service dates, let alone other service history details:
+
+"I reference my DD214 for everything. [...] Like I said my memory is, I'm not gonna say shot...[trails off]."
+
+"I never know those dates by heart. I know the year."
+
+"Your history in terms of your schooling and your awards are something you want to keep track of and, as your memory matures, you don't always remember those things."
+
+Another 2/10 participants discussed having their dates and other service history information memorized, but even those that believe they've memorized some of their information would benefit from some reminders: 
+
+"Some of the information, dates of service, are pretty much memorized. Awards I've received are pretty much memorized but training dates, those are not memorized. Different assignments that I've had over 26 years ago... [trails off]"
+
 ### Most participants (at least 6/10) believe that they need their DD214 (not just the information on it) to apply for any VA benefit or service.
-"If you're applying for something, like veterans' services, you have to show your DD214 to prove that you're a Veteran."
+The common sentiment among most participants was: "If you're applying for something, like veterans' services, you have to show your DD214 to prove that you're a Veteran."
 
-Participants that stated they needed a copy of their DD214 to apply for a VA benefit had applied for the following specific VA benefits: disability (3 participants), healthcare (1 participant), a home loan (1 participant said the bank needed the DD214), and education benefits (1 participant seemed to need it when starting to apply online, but then ultimately didn't seem to need it when he went to a VSO for application help). 
+Participants that stated they needed a copy of their DD214 to apply for a VA benefit had applied for the following specific VA benefits: 
+- disability (3 participants)
+- healthcare (1 participant)
+- a home loan (1 participant said the bank needed the DD214)
+- and education benefits (1 participant said he needed it when trying to apply online)
 
-The other participants (4/10) that did not bring up needing their DD214 to apply for benefits included those that did not mention applying for any VA benefits (2 participants), and those that applied for VA benefits but did so without their DD214 (2 participants). Of those that applied for benefits without their DD214, 1 participant never received a DD214 or any other discharge paperwork when she left the navy. When she applied for healthcare benefits, she went in person and got help with her application, and she was able to do that without requesting a copy of her DD214. The other participant who applied for benefits without a DD214 had applied for an increase in coverage from the VA and used a benefits letter found on eBenefits (not her DD214) to prove that she had been in the military. 
+The other participants (4/10) that did not bring up needing their DD214 to apply for benefits included those that did not mention applying for any VA benefits (2 participants), and those that applied for VA benefits but did so without their DD214 (2 participants). 
 
 ### Depending on how Veterans apply for VA benefits and services, they may or may not need to provide information about their service history and/or a copy of their DD214.
-Based on the two accounts from participants of applying for VA benefits without a DD214 and some searching through common forms used to apply for benefits (specifically, VA form 21-526EZ used for applying for disability, VA form 28-1900 used for applying for VR&E/education benefits, and VA form 21P-527EZ used for applying for Veterans' pension), I can confidently assert that Veterans are not required in every case of applying for VA benefits to supply a copy of their DD214. That being said, proving one's military service in some way is a requirement for all benefits, and that may be done in some cases simply by granting permission to a VSO to gather that evidence on the Veteran's behalf. 
+Of those that applied for benefits without their DD214 (2/10), 1 participant never received a DD214 or any other discharge paperwork when she left the navy. When she applied for healthcare benefits, she went in person and got help with her application, and she was able to do that without requesting a copy of her DD214. The other participant who applied for benefits without a DD214 had applied for an increase in coverage from the VA and used a benefits letter found on eBenefits (not her DD214) to prove that she had been in the military:
 
 "When you go to school or say for instance, when you're trying to buy a car or something [...] just to verify that you actually were in the military. That's the main thing, that [VA benefits] letter [...] You can use [your DD214] too but I find that benefits letter like, that's a big help."
+
+Based on the two accounts from participants of applying for VA benefits without a DD214 and some searching through common forms used to apply for benefits (specifically, VA form 10-10EZ used for applying for healthcare, VA form 21-526EZ used for applying for disability, VA form 28-1900 used for applying for VR&E/education benefits, and VA form 21P-527EZ used for applying for Veterans' pension), I can confidently assert that Veterans are not required in every case of applying for VA benefits to supply a copy of their DD214. That being said, proving one's military service in some way is a requirement for all benefits, though that may be done in some cases simply by granting permission to a VSO to gather that evidence on the Veteran's behalf. 
 
 ### Though they may not *need* their DD214 in all cases to apply for VA benefits, having a copy of it facilitates the benefit application process and helps Veterans access non-VA privileges, memberships, and discounts. 
 For common VA benefits such as healthcare, disability, education: If Veterans are able to supply their DD214 and/or service history information on their own without seeking help from a VAMC or VSO, the Veteran may be able to complete the benefits application process quickly online, from their own home. If they are lacking this information, they will need to take extra steps that may be time-consuming. The process of requesting a copy of one's DD214, for example, could take a month. Not supplying the information or document needed could result in the application moving much more slowly through the VA's review process. In other words, even if a Veteran can apply for a benefit without a DD214, having that one document does facilitate and expedite the process of applying for a VA benefit, as well as receiving a decision on the application, and potentially eventually receiving that benefit.
@@ -79,34 +109,6 @@ A DD214 is one document that Veterans can use to prove that they served in the m
 "Well doing Veterans' things, you know, they always have these free meals and a lot of establishments want to see either you know your ID card or your 214. So what I did I just pretty much when I renewed my license I just had them add it. I showed them my DD214 for them to add Veteran on my tags and also on my driver's license. And then when I go to celebrate Veterans Day, I can pretty much just show them that."
 
 "Sometimes you can get discounts on things if you can prove you're a veteran like, [...] if I go somewhere that offers a Veteran discount [...] I can get that discount. Makes life a little bit easier that way."
-
-### Veterans use their service information, whether from a DD214 or not, for reasons other than proving that they served in the military.
-A common use case for needing one's service information is career-related. 4/10 participants mentioned that service history information is important for buildng out a resume or otherwise showing one's professional experience for the sake of getting a job or getting credit for a special skill at work. For this purpose, Veterans could make use of military job descriptions, military educaton, as well as decorations, medals, badges and awards:
-
-"In the past, when I was employed as a social worker, yeah I had to, you know, put down dates of service and things like that, to have that information for jobs or you know what not."
-
-"If someone says I need to see your DD214 for like a job interview like as an example, I give them a copy."
-
-Participants (3/10) also mentioned using service dates and locations to piece together a timeline of their military experience. One reason Veterans do this is to help them remember the details around particular events to build a case for service-related injuries and/or trauma that may help them secure more VA benefits:
-
-"I was out of the service for, let's see, I got out in '89. So it wasn't until, like I said, 2006 when you know I started having issues and everything and correlating that to it being more brain related and then looking back, to be able to look at my service records to say, well I had a head injury when was in the service. [...] and then being able to utilize that to then put together, you know, a claim against the VA to be able to say, hey I have all these records here from when I was in the service."
-
-Or, in the case of one participant, this information was used to piece together exactly where his son was born when he was on active duty in Germany:
-
-"I wanted to see [...] exactly my tour time that I spent in Nuremburg, Germany because my son was born there and he actually doesn't have a birth certificate. So I actually had to go back and show them I was in the military and I was stationed [laughs] so [now] he pretty much has dual citizenship for Germany."
-
-### Veterans are not able to memorize all the information they'd need from their DD214 (if they have one).
-One reason is for those Veterans that have limited memory capabilities due to injury, as well as those Veterans that for non-injury related reasons may be unable to remember the exact dates of their service start and end, and other similar details about their service. When recruiting for this study, I did not ask Perigean to purposely recruit any Veterans with disabilities pertaining to memory. Regardless, 2/10 of the participants interviewed mentioned that they had injury-related memory problems and had trouble remembering details such as their own service dates. While they didn't disclose any issues with memory generally, another 2/10 participants said they had trouble remembering their exact service dates, let alone other service history details.
-
-"I reference my DD214 for everything. [...] Like I said my memory, I'm not gonna say shot...[trails off]."
-
-"I never know those dates by heart. I know the year."
-
-Another 2/10 participants discussed having their dates and other service history information memorized, but even those that believe they've memorized some of their information would benefit from some reminders: "Some of the information, dates of service, are pretty much memorized. Awards I've received are pretty much memorized but training dates, those are not memorized. Different assignments that I've had over 26 years ago... [trails off]"
-
-Remembering service history details becomes harder with age, as memory declines and the time of one's service recedes further into the past.
-
-### The most common service history related fields that participants recalled when applying for VA benefits were branch of service and service dates.
 
 ### Veterans use service history information such as dates and locations to piece together timelines, which assist with applying for benefits to cover service-related injuries or to piece together the dates and locations of other events.
 Participants (3/10) also mentioned using service dates and locations to piece together a timeline of their military experience. One reason Veterans do this is to help them remember the details around particular events to build a case for service-related injuries and/or trauma that may help them secure more VA benefits:
@@ -124,178 +126,162 @@ Or, in the case of one participant, this information was used to piece together 
 
 "If someone says I need to see your DD214 for like a job interview like as an example, I give them a copy."
 
-### Some Veterans lack easy access to their original DD214. 
-"Some people have a DD214, I don't have one. But if you had that, you'd be able to look on there to see your dates of service. Or you can email the archives in DC."
+### It's not rare for Veterans to lack easy access to their original DD214.
+1/10 participant had simply never received a DD214 or other discharge papers after her service: "Some people have a DD214, I don't have one. But if you had that, you'd be able to look on there to see your dates of service. Or you can email the archives in DC."
+
+Other participants lacked temporary (or more permanent) access to their DD214 for a myriad of other reasons, including the document being destroyed or lost due to homelessness, a house fire, or the process of relocation/moving to a new place:
+
+"The bank or the mortgage servicing place said they needed a copy of my DD214, which I was sure that I had, but I couldn't find it. You know because I was moving and I had pretty much forgotten to label the box."
+
+"My father-in-law, he was in the service [...] He had a house fire a couple of years ago and everything was, all those records and everything were destroyed. So we filed for that [his dd214]. Everything with the military takes forever. It took quite awhile to get that but we did get that on file."
+
+"I do have my DD214 registered in my hometown, but I don't live in my hometown." 
+
+"I think I've actually lost it 2-3 different times and had to request it because I've been homeless a lot, and have had my stuff thrown out."
+
+For 3/10 participants, they realized that they lacked the correct copy or version of their DD214 when they were trying to use the document to apply for a benefit. 
+
+"I think I have copy B and she needed to see copy A. I didn't know different copies had different information on them. But one of the doesn't deal with the re-enlistment code."
+
+### 4/10 participants raised confusions about the DD214.
+2/10 participants brought up that they had been confused about the meaning of the discharge code on their DD214:
+
+"There's some two-digit code or something that only like the military understands. [...] Somebody finally told me, you know you're coded for ineligible. What do you mean coded?"
+
+The other 2/10 participants reported that, at the point of trying to apply for VA benefits, they learned that there was more than one version of their DD214 (and in their case, they had the wrong version):
+
+"I think I have copy B and she needed to see copy A. I didn't know different copies had different information on them. But one of the doesn't deal with the re-enlistment code."
 
 ### Participants like the idea of being able to access service history information AND their DD214 easily online. 
+All participants reacted either positively or neutrally to the concept of accessing their service history information easily online. In addition to dates of service, which are already populated on the Military Information page of the Profile, participants stated they'd like to see awards, decorations, and commendations (mentioned by 5/10 participants), coursework and/or trainings (mentioned by 4/10 participants), and all tour locations with dates (mentioned by 3/10 participants). 2/10 participants stated they'd like to see simply everything in the military file: "The more you add, the more you have accessible, I think would be convenient."
 
-### Unprompted, four participants brought up confusions they had about their DD214.
+After viewing the Military Information section of the Profile, and having seen the link for requesting one's DD214, 4/10 participants stated that that one affordance was the most important thing on the Military Information page:
 
-### Participants do not think of the VA Profile as a way to access any information about their service history.
+"I think I would reverse the order and put request your [214] up top [...] because that's probably why I'd be there."
 
-### Participants are confused about the service dates that show up in the Military Information section of their Profile. 
+"Request your DD214 right there, that's perfect. And that's what most guys are commonly doing."
 
+### Participants do not think of the VA Profile as a potential place to access their service history information.
+3/10 participants said that they might expect to find their DD214 on eBenefits. At least 2/10 participants would start with the VA.gov search bar to find information about their service history. 
+
+### Participants are confused about the service dates that show up in the Military Information section of their Profile.
+All participants that were able to access their Profile and look at the Military Information had two sets of dates under "Period of service" and these two sets of dates always caused confusion: 
+
+"I was held over. I was supposed to get out in February when the first Gulf incident happened, so I don't know if that's the reason why I have two different [sets of service dates]. [...] So I believe that top one is accurate. I don't know what that bottom one is."
+
+"It's a little confusing because it's cut up in my case, this June 16th to June 17th, that must be my training. [...] It's like not continuous so it's weird."
+
+"Those are the two times I got deployed. [...] Well actually, these are not the two times I got deployed. The two times I got deployed would actually be beneficial. Because actually I got out and got back in, don't ask me why I did that, but I did. I thought this was the time I got deployed, but actually it's not. It's my dates of service, that I was in."
+
+### Military Information means a broad range of things to participants.
+Some participants believed "Military Information" would primarily include information about their service history, but these participants were actually in the minority. It was more common for participants to think that "Military Information" would also include more personal details, such as a social security number. Here are just a few participant opinions about what "Military Information is referring to:
+
+"Particulars, like what branch I served in, the length of service, maybe my duty stations. Maybe like my personal demographic information?"
+
+"Active duty, medical, disability, medication, all that."
+
+"Anything from my medical records to my service in the military. Awards, duty stations, that type of thing."
+
+"Anything that can be beneficial to me as a veteran. Anything that I can apply for that can help my quality of life."
 	
 ## Recommendations
-### Use the pattern in the auto-save prototype for notification settings as we add channels and notification options.
-- The auto-save approach worked well for all participants. 
-- The prototype replaced the radio buttons we have today with checkboxes. This was easily understood by participants and allows us to cut the number of inputs in half, resulting in a cleaner user interface.
+### Add fields to Military Information with the purpose of facilitating common Veteran use cases for needing this information.
+I especially recommend including the information needed to support the following use cases: applying for VA benefits, putting together timelines of their service history (where they were and when), and demonstrating acquisition of professional knowledge and experience.
 
-### Learn more about content of My HealtheVet notifications, and update content accordingly to set clear expectations about what they are.
-At this point, we don’t know exactly what each notification contains. We should get a better understanding of that, and update the names of notifications accordingly. For example: 
-- “Medical images and reports” might set more clear expectations if it were called “New medical images and reports available”.    
-- The My HealtheVet newsletter email notification channel may be more clear as “Subscribe to weekly newsletter” than “Notify by email”
--  Supported by finding “People were not totally clear on what to expect from notifications we’ll be bringing over from My HealtheVet.”
+### Surface information that may benefit Veterans alongside their service history information within Military Information.
+For example, if the Military Information section can provide specifics such as dates and locations throughout one's history of service, then it would be helpful to also surface when those contexts render Veterans potentially eligible for VA benefits.
 
-### Reconsider how we are encouraging people to add their email address to their profile.
-We have an opportunity to reduce clutter in the UI and set clearer expectations about the 2 step process of adding missing contact information. It’s worth exploring how we might present this important call to action in a clearer way. 
+### Educate Veterans with the answers to common questions about one's DD214 within Military Information.
+This would include information about what one's discharge code means, both semantically and for the sake of benefit eligibility. This would also include information about the different versions and purposes of DD214s. 
 
-### Explore how we might make the input message pattern more accessible.
-The input message pattern design caused some problems people using magnification. We should look into how we might improve the pattern to reduce that friction and make the design more accessible for all.  Two ideas are to remove the checkmark icon, and reduce the width of the green background.
+### If possible, allow Veterans to download their DD214 directly from Military Information. 
+This research makes a clear case for the DD214 being potentially the most important service information that could be offered in Military Information, as Veterans use it to apply for VA benefits and secure a wide range of other privileges. 
 
-### Explore how we might surface meaningful and relevant links to people in the notification settings section.
-We know that claim status is incredibly important to Veterans who have a claim or appeal in progress.  How might we give them easier access to that information from profile? 
+### Find opportunities on VA.gov and eBenefits to point to Military Information.
+Participants who claimed to have found their DD214 online in the past, said they got it from eBenefits. This affordance should be moved over to VA.gov as part of sunsetting eBenefits, eBenefits links should redirect to Military Information, and different VA.gov pages that mention how to request a DD214 should also point to Military Information.
 
-As we expand the prescription shipping notification options, we should also explore if there’s a way we can make it easier for people to check whether or not the notification is relevant to them based on their pharmacy.
+### Change "Military Information" to "Service History Information."
+This will align with VA form headings that either refer to this type of information as "Military Service Information," "Service Information," or "Veteran Service Information."
 
 ## Research Process Insights
-### Our latest screener questions for assistive tech users and people with cognitive considerations were more successful than previous versions, but we still have room to improve.
-We asked for 4 participants who require screenreader software to use the internet, and were able to recruit 3 who satisfied the criteria we outlined.
-
-Once we got into the sessions, 1 of the 3 participants didn’t use screenreader software, but rather used built in Windows assistive technology. While this was useful to see, and we learned a lot from this participant, it didn’t quite meet the criteria we outlined.
-
-Another participant stated that they checked “yes” to indicate they had a cognitive consideration simply because there was not a no option.  We later saw that the screener form offered participants a single radio button input for this question, instead of a yes or no.
-
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/screener-questions.png" alt="Screenshot of a form where the first question is do you have an identified cognitive impairment, and the only option is a radio button labeled yes, which is circled in red." width="500" />
-
-*Above: the form used to recruit participants for this study. The first question is "Do you have an identified cognitive impairment", and has with a single radio button option labeled "yes".*
-
-In our next study, we’ll provide people with multiple, clearly labeled options for special criteria may get us closer to talking to the folks who can answer our research questions.  We’ll include a “no” or something to negate the other options, as well as an “other” where people can type what they
-
-### CodePen worked well as a tool for accessible HTML prototypes, and we learned ways to use it more effectively for future studies.
-We set up our CodePen prototypes to mirror the accessible HTML we’d use on VA.gov, and found it to be a very successful way to get the research insights we hoped for across a variety of devices, assistive technologies, and skill level:
-- 5 desktop participants
-- 2 mobile participants
-- 1 tablet participant
-- 2 screenreader participants, one advanced, and one beginner
-- 1 participant using Windows Adaptive technology and 400% zoom magnification
-
-> I’m just impressed. As a screen reader, I’m going to say this form is very accessible. This definitely would be something that would be user friendly for anyone who is visually impaired. - P10, extremely low vision screenreader user.
-
-We also learned ways we can improve the experience for future studies, and [captured them in this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/codepen-prototyping.md).
+### 
 
 ## Further research needed
-### We need to re-evaluate the use of the background-only banner to confirm a save at the top of a page, once people can use their real information.
-This was the first time we tested our new pattern of having a dedicated page for updating contact information.  Most people didn’t acknowledge the update, and that may be OK if they see their own information reflected back to them once it’s saved.  We should re-test the existing pattern in a future study, with people’s actual information to get a sense of how important it is for them to read this confirmation banner.
-
-### We should recruit for the underserved groups we didn’t get to talk to in this round in our next study.
-Including these people in our next round of research will help our team get a diverse group of perspectives.
+### 
 
 ## Next Steps
 - Review with product team and align on recommendations we’ll take action on.
-- Share findings with the VA Notify and My HealtheVet teams.
-- Create tickets for our backlog based on the recommendations.
 
 ## Appendix
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/research-plan.md)
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/conversation-guide.md)
-- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/session-notes)
-- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/topline-summary.md)
-
+- Research plan
+- Conversation guide
+- Session notes
+- Topline summary
 
 ## Tools used for Synthesis
-- [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/vsa8243/1673373506463/1612803cf5440529246a69f92f6bc1b00742f336?sender=ub868d471cfdb1c56cc0b4512)
-- [Topline summary cross-check](https://docs.google.com/spreadsheets/d/1pukrgmkz_VRMxw-o98pBy35LEF8wnrWbMSFGWokvuw4/edit?usp=sharing)
+- Mural board
 
 ## Pages and applications used
-- [Auto-save prototype](https://codepen.io/surfbird/full/gOjmPyj)
-- [Read/edit prototype](https://codepen.io/surfbird/full/PoBpwzO)
+- Military Information, Profile
 
 ## Secondary research
-This study didn’t include any secondary research.
+- [Jeana Clark's (Senior UX Accessibility Designer for VA.gov Forms) consolidation of fields on so-far non-digitized forms](https://docs.google.com/spreadsheets/d/1ycMCdzicG_-neSKJQztFQTOmB2f-pRP_7BG26MJhgDg/edit#gid=763999618)
+- VA form 10-10EZ used for applying for healthcare
+- VA form 21-526EZ used for applying for disability
+- VA form 28-1900 used for applying for VR&E/education benefits
+- VA form 21P-527EZ used for applying for Veterans' pension
 
 ## Who we talked to 
- [Recruitment criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/research-plan.md#recruitment-criteria)
-
-We talked to 9 participants, but one participant had such profound difficulty using Zoom with their screenreader that we were not able to get answers to the majority of our research questions.  That participants data was not included in these findings.
+- [10 participants](https://perigeantechnologies.knack.com/dsva-perigean-project-tracker#dsva-projects-/?view_103_filters=%5B%7B%22field_name%22%3A%22Active%22%2C%22value%22%3A%22Yes%22%2C%22operator%22%3A%22is%22%2C%22field%22%3A%22field_118%22%7D%5D)
+- Recruitment criteria
 
 **Audience segment:**
-* Veterans: 8 
+* Veterans: 10
 * Caregivers: 0 
 * Family members of a Veteran: 0  
 
 **Gender:**
 * Male: 4 
-* Female: 4 
-
+* Female: 6
 
 **LGBTQ+:**
-We didn’t ask participants to disclose any LBGTQ+ information
+Participants were not asked to disclose any LBGTQ+ information.
 
 **Devices used during study:** 
-* Desktop: 5 
-* Tablet: 1 
-* Smart phone: 2 
-* Assistive Technology: 2
+Participants were not asked to disclose any device information.
 
 **Age:**
 * 25-34: 0
-* 35-44: 2
+* 35-44: 1
 * 45-54: 2
-* 55-64: 3
-* 65+: 1
+* 55-64: 4
+* 65+: 2
 
 **Education:**
 * High school degree or equivalent: 0
 * Some college (no degree): 2
 * Associate's degree, trade certificate or vocational training: 2
 * Bachelor's degree: 2
-* Master's degree: 2
-* Doctorate degree: 0
+* Master's degree: 3
+* Doctorate degree: 1
 * Unknown: 0
 
 **Geographic location:**
-* Urban: 5
-* Rural: 3
-* Unknown: 0
+Participants were not asked to disclose whether they were living in a rural or urban environment.
 
 **Race:**
-* White: 4
-* Black: 3
-* Hispanic: 1*
-* Biracial: 1*
-* Asian: 0
-* Native: 1*
-* *A single participant identified with all of these races
+* White: 1
+* Black: 6
+* Hispanic: 1
+* Biracial: 1 (Asian & Black or African American)
+* Asian: 1
+* Native: 0
 
 **Disability and Assistive Technology (AT):**
-* Cognitive: 7
-* AT beginner: 0
-* AT advanced user: 2
-* Desktop screen reader: 0
-* Mobile screen reader: 1
-* Magnification/Zoom: 1
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
-* Hearing aids: 0
-* Sighted keyboard: 0
-* Captions: 0
+Participants were not asked to disclose whether they had any disabilities or used assistive technology, but 2 participants did disclose that they have cognitive difficulties related to injuries from their time in the military.
 
-
-## Underserved groups we haven’t talked to 
-This research does not include the perspectives of the following marginalized Veteran groups:
-* Other than honorable 
-* Immigrant origin 
-* Expat
-* Asian
-* Gay, lesbian, or bisexual
-* Transgender
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman
-* Speech input technology users
-* Hearing Aids
-* Sighted Keyboard
-* Captions
-* Switch Device
-* Braille Reader
+**Discharge type:**
+Participants were not asked to disclose their discharge, but 2 participants did disclose that they have discharge statuses that fall under the category of "other than honorable."
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/2023-notifications-add-email-recruitment-checker.png" alt="Screenshot from the recruitment checker spreadsheet, linked below." width="500" />
 
