@@ -34,7 +34,7 @@ Live interview sessions were conducted remotely via Zoom, and at the end of inte
 *Mostly true* 
 Depending on how a Veteran applies for benefits, they may have more or less flexibility around what service history information and/or documents the Veteran must supply as part of the application. Participants that applied for benefits with the assistance of a VSO did so without complete information. Participants that applied by themselves believed they needed the complete service information requested on the forms they filled out, plus their DD214. For more information on what participants believe is needed vs. what actually is needed to apply for VA benefits, read key findings 3 and 4 below.
 
-2. Veterans receive form DD214 when they leave the service. Surfacing DD214 information in this product could be helpful in the case of a missing or destroyed DD214.
+2. Veterans receive form DD214 when they leave the service.
 *Not always true* 1 participant out of the 10 interviewed has never received a DD214 and a review of Veteran Reddit confirms that some Veterans leave the service without receiving discharge papers. 
 
 ## Key Findings
@@ -57,7 +57,6 @@ Depending on how a Veteran applies for benefits, they may have more or less flex
 
 ### The most common service history related fields that participants recalled when applying for VA benefits were branch of service and service dates, but those are not the only fields repeating on common digitized and non-digitized VA forms.
 Based on a review of some common digitized VA forms (specifically, VA form 10-10EZ used for applying for healthcare, VA form 21-526EZ used for applying for disability, VA form 28-1900 used for applying for VR&E/education benefits, and VA form 21P-527EZ used for applying for Veterans' pension), as well as a [review of Jeana Clark's (Senior UX Accessibility Designer for VA.gov Forms) consolidation of fields on so-far non-digitized forms](https://docs.google.com/spreadsheets/d/1ycMCdzicG_-neSKJQztFQTOmB2f-pRP_7BG26MJhgDg/edit#gid=763999618), other fields that commonly repeat in VA forms include:
-
 * Service number
 * Place of last or anticipated separation from service
 * Other names served under
