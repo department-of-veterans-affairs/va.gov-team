@@ -1,5 +1,4 @@
-# Research Plan for Research Plan for The Debt Resolution Team (Benefits Team 2), Combined Financial Status Report  (VA Form 5655)
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for Research Plan for The Debt Resolution Team (Benefits Team 2), Enhanced Financial Status Report  (VA Form 5655)
 
 ## Background
 
@@ -96,10 +95,10 @@ How will this research advance your product to the next phase in the design proc
 2.  Compile a new list of possible updates for future iterations of FSR.
 
 ### Research questions
-*Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)*
+*Consider bucketing research questions under research goals. For each question, think about:*
+- *What will I do with what I learn from this question?*
+- *Does this question serve the goals of my study?*
+- *Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)*
 
 1.  Do Veterans know what this form is for – do they understand it is for benefits overpayment and medical copays?  (comprehension)
     
@@ -185,108 +184,69 @@ Before writing your recruitment criteria, be sure to review the following resour
 - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
+*Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?*
 
   
-We are aiming to have at least 6 Veteran participants complete usability testing sessions. We will recruit double, to account for no shows. We will be asking Perigean to recruit 12 participants.
+We are aiming to have at least **6** Veteran participants complete usability testing sessions. We will recruit double, to account for no shows. We will be asking Perigean to recruit **12** participants.
 
-Recruiting for this study will prioritize inclusivity. We aim to highlight voices that have been underrepresented and excluded in qualitative research, thus we will be using maximum variation sampling (MVS). Moreover, we will be recruiting users to account for edge cases in usability.
-
-Required:
-
--   50% assistive technology
-    
--   [50% aged 55-64+](https://www.va.gov/VETDATA/docs/SurveysAndStudies/VETPOP.pdf)
-    
--   [50% with an identified cognitive disability](https://www.census.gov/content/dam/Census/library/working-papers/2016/demo/Holder-2016-01.pdf)
-    
--   4[0% people of color](https://www.va.gov/HEALTHEQUITY/Race_Ethnicity.asp)
-    
--   [25% without a degree](https://www.luminafoundation.org/wp-content/uploads/2019/10/veterans-without-degrees.pdf)
-    
--   20[% with immigrant origins](https://www.migrationpolicy.org/article/immigrant-veterans-united-states-2018)
-    
--   40[% women](https://www.womenshealth.va.gov/womenshealth/latestinformation/facts.asp#:~:text=Women%20Veterans%20Health%20Care,-Facts%20and%20Statistics&text=The%20current%20projected%20percentage%20of,years%20for%20their%20male%20counterparts.)  (increased from 10% since the number of women Veterans is set to increase)
-    
--   30% who identify as gay, lesbian, bisexual, or transgender
-    
-
-Nice to have:
-
--   [20% in a rural area](https://www.ruralhealth.va.gov/aboutus/ruralvets.asp)(anecdotally [quoted at 45% by David Shulkin)](https://ldi.upenn.edu/news/david-shulkin-looks-back-his-tenure-veterans-affairs-secretary)
-    
--   [50% primarily mobile users](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125614/#:~:text=The%20rate%20of%20smartphone%20ownership,low%20levels%20of%20current%20engagement.)
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
--   #### At least 6-8 Veterans interviewed, please recruit 12-14 Veterans
     
 -   #### All participants must be Veterans
     
 -   #### All have a computer or smartphone and be willing to be complete their session on one of those devices
     
+	-   #### During the session, be willing to share a web browser window on their device
+    
+	-   #### Have a working microphone on their device
+    
+	-   #### Have Zoom downloaded to their device prior to the session and know how to share their screen
 
--   #### During the session, be willing to share a web browser window on their device
+-   [Half of participants should complete the session on a smartphone.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125614/#:~:text=The%20rate%20of%20smartphone%20ownership,low%20levels%20of%20current%20engagement.)
     
--   #### Have a working microphone on their device
-    
--   #### Have Zoom downloaded to their device prior to the session and know how to share their screen
-    
-
--   50% of participants should complete the session on a smartphone.
-    
--   50% of participants should complete the session on a desktop computer.
-    
+-   Half of participants should complete the session on a desktop computer.
     
 -   #### All participants must be LOA3 (identity verified) on VA.gov. Participants will likely not know what this means, so please confirm this prior to testing. This can be confirmed by having users sign into VA.gov and having them go to the VA.gov profile. If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. If they can see the profile, they are LOA3 and can participate in testing.
     
 -   #### All participants must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the tool in production.
     
--   All participants must have either unpaid VA debt (overpayment from VA) OR a copay that was accrued within the last 6 months.  
-    Participants should have:
-    
+- **Participants should have either:**
 
--   At least 1 unpaid medical copay within the last 6 months AND/OR
+	-   **At least 1 unpaid medical copay within the last 6 months** AND/OR
     
--   Unpaid VA debt (overpayment) that has occurred anytime
-    
+	-   **Unpaid VA debt (overpayment) that has occurred anytime**
 
 -   While the FSR asks for financial information, we won't be asking our participants to provide exact financial information. However, we want to simulate a real experience as much as we can to ensure the experience is intuitive for Veterans.  
     Please confirm participants are comfortable providing an estimate of financial figures such as their monthly household income and expenses.
     
 
 #### Demographic must-haves
+Recruiting for this study will prioritize inclusivity. We aim to highlight voices that have been underrepresented and excluded in qualitative research, thus we will be using maximum variation sampling (MVS). Moreover, we will be recruiting users to account for edge cases in usability.
 
 Note: The following demographic criteria is our goal, but we understand that historically it's been challenging to recruit participants with VA debt.
 
--   At least 3 of 12 people who use a screen reader
+-   At least 6 of 12 people who use a assistive technology (screen reader, hearing aids, use of magnification)
+-   [At least 5 of 12 people must identify as having a cognitive consideration](https://www.census.gov/content/dam/Census/library/working-papers/2016/demo/Holder-2016-01.pdf)  
     
--   At least 5 of 12 people must identify as Black, Hispanic/Latina/Latinx, or Native
+-   [At least 5 of 12 people must identify as Black, Hispanic, Biracial, Asian, Native](https://www.va.gov/HEALTHEQUITY/Race_Ethnicity.asp)
     
--   At least 5 of 12 people must identify as having a cognitive consideration
-    
--   At least 5 of 12 people must identify as other than male
-    
--   At least 3 of 12 people are without a degree or professional certificate
-    
--   At least 3 of 12 people are under 35
-    
--   At least 5 of 12 people are over 55
-    
+-   [At least 5 of 12 people must identify as other than male](https://www.womenshealth.va.gov/womenshealth/latestinformation/facts.asp#:~:text=Women%20Veterans%20Health%20Care,-Facts%20and%20Statistics&text=The%20current%20projected%20percentage%20of,years%20for%20their%20male%20counterparts.)
 -   At least 4 of 12 people who identify as gay, lesbian, bisexual, or transgender
     
+-   [At least 3 of 12 people are without a degree or professional certificate](https://www.luminafoundation.org/wp-content/uploads/2019/10/veterans-without-degrees.pdf)
+        
+-   [At least 6 of 12 people are over 55](https://www.va.gov/VETDATA/docs/SurveysAndStudies/VETPOP.pdf)
+     
 
 #### Secondary criteria (nice-to-haves)
 
--   At least 2 of 12 people who live in a rural or remote area
+-   At least 3 of 12 people who live in a rural or remote area
     
--   At least 2 of 12 people who live in a major metropolitan area
     
--   At least 3 of 12 non-native English speakers
-
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
@@ -304,35 +264,34 @@ A pilot session is required. Please indicate the date and name of a mock partici
 **Planned dates of research: begin moderating sessions 4/3/2023 - 4/10/2023**
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
--   Session length: 60 minutes (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
+
+-   Session length: 60 minutes
     
--   Buffer time between sessions: 60 minutes (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)
+-   Buffer time between sessions: 60 minutes 
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 	
-	Monday - Friday begin sessions at 8 am PT / end at 11 am ET - 2 pm PT / 5 pm ET
+	Monday - Friday begin sessions at 10am ET and end sessions at 6pm ET
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 -   Moderator: [Charlotte Cesana](mailto:charlotte@cityfriends.tech)
     
--   Research guide writing and task development (usually but not always same as moderator): [megan.gayle@govcio.com](mailto:megan.gayle@govcio.com)  [Charlotte Cesana](mailto:charlotte@cityfriends.tech)
+-   Research guide writing and task development (usually but not always same as moderator): [Megan Gayle](mailto:megan.gayle@govcio.com)  [Charlotte Cesana](mailto:charlotte@cityfriends.tech)
     
--   Participant recruiting & screening: [Charlotte Cesana](mailto:charlotte@cityfriends.tech)  [megan.gayle@govcio.com](mailto:megan.gayle@govcio.com)
+-   Participant recruiting & screening: [Charlotte Cesana](mailto:charlotte@cityfriends.tech)  [Megan Gayle](mailto:megan.gayle@govcio.com)
     
--   Project point of contact: [Charlotte Cesana](mailto:charlotte@cityfriends.tech)  [megan.gayle@gcio.com](mailto:megan.gayle@gcio.com)
+-   Project point of contact: [Charlotte Cesana](mailto:charlotte@cityfriends.tech)  [Megan Gayle](mailto:megan.gayle@gcio.com)
     
 -   Participant(s) for pilot test: TBD
     
--   Note-takers: [megan.gayle@govcio.com](mailto:megan.gayle@govcio.com)  [Joseph Lee](mailto:joseph@cityfriends.tech)
+-   Note-takers: [Megan Gayle](mailto:megan.gayle@govcio.com)  [Joseph Lee](mailto:joseph@cityfriends.tech)
     
 -   Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
     
 
-[megan.gayle@gcio.com](mailto:megan.gayle@gcio.com)  [Joseph Lee](mailto:joseph@cityfriends.tech)
+megan.gayle@gcio.com, joseph@cityfriends.tech, charlotte@cityfriends.tech, denise.coveyduc@govcio.com, heather.rienks@va.gov, matthew.self2@va.gov, jill.anderson3@va.gov
 
