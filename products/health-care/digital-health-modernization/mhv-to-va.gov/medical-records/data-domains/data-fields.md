@@ -41,7 +41,7 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |Radiology|Clinical history| |_None_| | What does this mean? Is this medical history related to the reason for this test? |
 |Radiology|Radiologist||_None_|
 |Radiology|Report| |[Diagnostic imaging report](https://www.healthit.gov/isa/taxonomy/term/2471/uscdi-v2)| || |What does this mean? Is this equivalent to "Results" for other categories?|
-| | | |[Imaging Narrative](https://www.healthit.gov/isa/taxonomy/term/2876/uscdi-v1) |USCDI groups this under Clinical Notes|Is this an additional field we need to add in Radiology, in addition to "Report"? Or is the narrative included in the report?|
+|Radiology| | |[Imaging Narrative](https://www.healthit.gov/isa/taxonomy/term/2876/uscdi-v1) |USCDI groups this under Clinical Notes|Is this an additional field we need to add in Radiology, in addition to "Report"? Or is the narrative included in the report?|
 |Chemistry/hematology|Lab test| Lab test (suggest using without label as card header in list, H1 in detail) |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|Chem/Hem includes subtests or specific tests within a test panel. This seems to be the panel field like "complete blood count" with specific tests like "white blood cells" nested in each panel.|Does USCDI include a panel element anywhere? Or do we map both the panel and the subtests to "Tests" in USCDI?|
 |Chemistry/hematology|Date/time collected| Date and time you gave the sample |_None_|
 |Chemistry/hematology|Specimen| Sample tested |_None_|
@@ -72,9 +72,9 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |Pathology|Performing location| Lab that analyzed the sample |_None_|
 |Pathology|Date completed| Date completed |_None_|
 |Pathology|Report| |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|| Does pathology report map to Values/Results in the USCDI Laboratory category? Or is "Pathology Report Narrative" the correct mapping?|
-| | | |[Pathology Report Narrative](https://www.healthit.gov/isa/taxonomy/term/2886/uscdi-v1)|USCDI groups this in Clinical Notes|
+|Pathology | | |[Pathology Report Narrative](https://www.healthit.gov/isa/taxonomy/term/2886/uscdi-v1)|USCDI groups this in Clinical Notes|
 |EKG|Procedure/test name| Test |[Clinical test](https://www.healthit.gov/isa/taxonomy/term/2456/uscdi-v2) |For this category, this field will always read "Electrocardiogram (EKG)"|
-| | | |[Clinical test result/report](https://www.healthit.gov/isa/taxonomy/term/3166/uscdi-v2)||Do our EKG records include results/reports as in USCDI? Are there any other types of "clinical tests" besides EKGs we need to account for that are **not** lab or imaging tests?|
+|EKG| | |[Clinical test result/report](https://www.healthit.gov/isa/taxonomy/term/3166/uscdi-v2)||Do our EKG records include results/reports as in USCDI? Are there any other types of "clinical tests" besides EKGs we need to account for that are **not** lab or imaging tests?|
 |EKG|Date/time performed| Date and time of the test |_None_|
 |EKG|Ordering location| Where the test order started |_None_|
 
