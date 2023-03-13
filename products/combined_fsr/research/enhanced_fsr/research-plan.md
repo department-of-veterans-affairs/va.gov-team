@@ -215,16 +215,16 @@ Recruiting for this study will prioritize inclusivity. We aim to highlight voice
 Note: The following demographic criteria is our goal, but we understand that historically it's been challenging to recruit participants with VA debt.
 
 -   At least 2 of 12 people who use a assistive technology (screen reader)
--   
+
 -   [At least 5 of 12 people must identify as having a cognitive consideration](https://www.census.gov/content/dam/Census/library/working-papers/2016/demo/Holder-2016-01.pdf)  
     
 -   [At least 5 of 12 people must identify as Black, Hispanic, Biracial, Asian, Native](https://www.va.gov/HEALTHEQUITY/Race_Ethnicity.asp)
     
 -   [At least 5 of 12 people must identify as women](https://www.womenshealth.va.gov/womenshealth/latestinformation/facts.asp#:~:text=Women%20Veterans%20Health%20Care,-Facts%20and%20Statistics&text=The%20current%20projected%20percentage%20of,years%20for%20their%20male%20counterparts.)
+
 -   At least 4 of 12 people who identify as gay, lesbian, bisexual, or transgender
 
 -   At least 2 of 12 people who identify  as non binary or other
-
     
 -   [At least 3 of 12 people are without a degree or professional certificate](https://www.luminafoundation.org/wp-content/uploads/2019/10/veterans-without-degrees.pdf)
         
