@@ -11,7 +11,7 @@
 
 
 ## Domains
-|Blue Button label | AVS label | Suggested label|
+|Blue Button label | After Visit Summary label | Suggested label|
 |:------|:-------|:-------|
 |VA Immunizations  |Immunizations | Vaccines|
 |VA Allergies |Allergies and adverse drug reactions (signs / symptoms) <br/> My VA Allergies |Allergies|
