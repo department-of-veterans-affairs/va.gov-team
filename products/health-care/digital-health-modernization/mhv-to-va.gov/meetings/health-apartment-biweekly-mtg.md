@@ -3,6 +3,95 @@
 
 ## 2023-02-24 Health Apartment Team Meeting
 
+### Updates
+
+- Patrick
+	- Shepherding users through Prod testing
+	- Writing up phases doc
+	- Swirl around launch
+  
+- Robyn
+	- Research plan mostly finished
+	- Putting together conversation guide
+	- Goal is to get them in by EOD today to have interviews scheduled on the 22nd
+
+- Sara
+	- No updates
+
+- Kristin
+	- Discussed some data in AVS vs. other 
+
+- Daniel
+	- UI tweaks PR merge
+	- Looking at access and DataDog
+
+- Mark
+	- Working on disabling the new landing page for Cerner patients and getting some DataDog stuff.  
+	- A couple of PRs waiting on PW team
+
+- Jonathan
+	- Preferences discovery
+	- Reviewing Liz's info and doc from Coulton
+
+- Coulton
+	- Medical Records - working with ByLight designers, getting ready for design intent and work toward midpoint review
+
+- Mikki
+	- Met work Leila and Danielle to finalize the stages for Secure Messaging phases
+	- Will share out today
+	- Will loop back with the appointments crew to see where things are 
+
+- Jenny
+	- Synced with Coulton on Meds 
+
+- Danielle
+	- Secure Messaging and Landing page - content on the page and comms for Phase 0
+	- Working with Comms team to schedule time to present to MHV coordinators
+	- Medical REcords - reviewing content team's questions re: data fields
+	- Working with identity team around the broader identity content
+	- Prescriptions - starting to look at it from overall content perspective
+
+- Lauren
+	- Hand-holding and anxiety maint
+	- Preparing for meetings next week
+  
+- Marci
+	- Staging issues
+	- Prep for Staging Review
+
+### Discussion Topics
+
+- Patrick
+	- Working with Identity team to see if it's possible to know if a user has an active MHV account. 
+	- Current state is that it would take someone someplace else if they did not have a MHV account
+	- Might be useful to know if the user has a MHV account before we offer them the opportunity to use a tool that they don't know how to use.
+
+#### Staging Review Round up 
+
+- Open items
+	- Accessibility tests
+	- IA artifacts
+	- Content artifacts
+	- Mark is working on some toggles
+	- PR for the MyHealtheVet
+
+### Launch
+
+- MHV Coordinator briefing
+- Danielle and Coulton will meet with the coordinators
+- Danielle is sending out email to Coordinators and Champions
+- Explainer content for resources page - screen shot for Contact Center doc
+	- We won't have that for Staging that is fine
+
+### Other
+
+- In the Spotlight  links -- are we doing that before Staging?  It's in Liferay (MHV's CMS and backend) - they are used as newsletter and unauth content.  Not meant to be evergreen content
+- Danielle can reach out to MHV's content person
+- Phases doc that Theresa and Treva wanted to see - does Lauren want to spend some 1-1 Lauren time with that?
+
+
+## 2023-02-24 Health Apartment Team Meeting
+
 ### Standup/Updates related to work tracks
 - Coulton
 	- Working with ByLight Team
