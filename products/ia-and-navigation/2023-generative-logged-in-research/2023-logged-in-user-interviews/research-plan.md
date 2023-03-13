@@ -32,7 +32,12 @@ How will this research advance your product to the next phase in the design proc
 ### Research questions
 * How do people find tasks they need to complete? 
 * How do they do this without the homepage/My VA links?
-* If they can’t find what they need, where do they go for help?
+* If they can’t find what they need, what do they do?
+- What do people do when they:
+	- have trouble with the website
+	- feel information is inaccurate
+	- need help with something
+	- have questions in general
 * How can we make the site easier to navigate for logged-in users?
 * What level of personalization do people expect in the navigation after they’ve logged in?
 * How do navigation needs and expectations differ between user types?
@@ -50,6 +55,12 @@ This will be a moderated usability study conducted remotely over Zoom.
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/2023-logged-in-user-interviews/conversation-guide.md) 
 	
 ## Recruitment	
+OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
+
+Before writing your recruitment criteria, be sure to review the following resources. 
+- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
+- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
+
 ### Recruitment approach
 The audience for our research will be a mix of Veterans, dependents, and caregivers.
 
@@ -115,13 +126,13 @@ Response options: yes or no
 
 Response options:  Beginner, Intermediate, Advanced, Expert
 
-(This answer won’t influence whether or not they qualify, but will be helpful to have on the tracker)
+(This answer won’t influence whether or not they qualify, but will be helpful to have on the tracker and for scheduling)
 
 3b. Are you willing to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
 
 Response options: yes or no
 	
-3b. Please list the name of the screen reader technology you will use during the session.
+3c. Please list the name of the screen reader technology you will use during the session.
 
 Response option: text box
 
@@ -158,10 +169,13 @@ We’ll be using VA.gov, which is already live and ready to go.
 * Maximum Sessions per day: 4
 
 ### Availability
-- March 30, 10am-5pm, and 7:30pm-9pm (screenreader sessions only between 10am-5pm)
-- March 31, 7:30am-4pm (screenreader sessions only between 10am-4pm)
-- April 3, 10am-5pm, and 7:30pm-9pm 
-- April 4, 7-7:30am, 10am-5pm, and 7:30pm-9pm (screenreader sessions only between 10am-5pm)
+
+|Date | Time (Eastern) | Screenreader session notes |
+| -----------  | -----------  | -----------  | 
+|March 30 | 10am-5pm, and 7:30pm-9pm | Screenreaders between 10-5pm, support by Sarah.Koomson@oddball.io |
+|March 31 | 7:30am-4pm | Screenreader sessions all day, support by Sarah.Koomson@oddball.io and Sara.Smith@oddball.io |
+| April 3 | 10am-5pm, and 7:30pm-9pm | No screenreader support; OK to schedule advanced screenreader users only |
+| April 4 | 7-7:30am, 10am-5pm, and 7:30pm-9pm | screenreader sessions only between 10am-5pm, support by Sara.Smith@oddball.io |
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
@@ -170,9 +184,7 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening: Perigean
 - Project point of contact: Liz Lantz
 - Participant(s) for pilot test: Mike King
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-	- March 31 and April 4 [Sara.Smith@oddball.io](mailto:Sara.Smith@oddball.io)  
-	- March 30 and April 3: TBD
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	refer to table above
 - Note-takers: Perigean
 - Observers:	
 	- samara.strauss@va.gov
