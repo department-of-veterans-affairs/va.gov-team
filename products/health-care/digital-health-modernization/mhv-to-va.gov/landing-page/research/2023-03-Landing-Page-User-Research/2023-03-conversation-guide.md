@@ -103,7 +103,9 @@ Let’s start with a few questions...
 
 11. _For users who are familiar with MHV:_ How is this site different than MHV? 
 
-12. _For users who receive other benefits from the VA:_ Would you expect to access your other benefits from this page or somewhere else on the VA.gov website? 
+12. _For users who receive other benefits from the VA:_ Where do you currently go to access and manager your benefits? (_If user does not use the VA.gov website to access and manage their benefits:_ If you were to access and manage your benefits on VA.gov, where would you go?) 
+	- Would you expect to access your other benefits from this page or somewhere else on the VA.gov website? 
+	
 	- _For users who do not receive other benefits from the VA:_ If you had benefits, would you expect to access those benefits from this page or somewhere else on the VA.gov website? 
 
 13. What information would you expect to see on this landing page but don't? 
