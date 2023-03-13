@@ -30,9 +30,7 @@ Slack for real-time feedback from observers.
 Thanks for joining us today! My name is Robyn/Jonathan and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them, I'll talk a little bit about what we'll be asking you today.  
 
-We are part of a team working on the health sections of VA.gov. We’d like to get your feedback on some changes we have made to how you can access your personal health information and benefits on VA.gov. 
-
-(More info about what we'll be asking them.)
+We are part of a team working on the health sections of VA.gov. We’d like to get your feedback on some changes we have made to how you can access your personal health information and benefits on VA.gov. Specifically, we'll be asking you to perform a set of tasks that show how you would navigate the VA.gov website to access and manage health-related information and benenfits. Most of what we'll be asking you is about your reactions to what you see on the website and where you might expect things to be. We won't ask you for personal information about your own benefits - we'll focus on your thoughts on the changes we've made to the VA.gov website. 
 
 **For screenreader or mobile sessions:** Before we start, I want to confirm a few pieces of information that were shared with me when you signed up for the study:
 - **For screenreader sessions:** I understand you use screenreader software to navigate the internet, and that you typically use SOFTWARE NAME.  Can you confirm you’ll be using that in today’s session?
@@ -103,7 +101,7 @@ Let’s start with a few questions...
 
 11. _For users who are familiar with MHV:_ How is this site different than MHV? 
 
-12. _For users who receive other benefits from the VA:_ Where do you currently go to access and manager your benefits? (_If user does not use the VA.gov website to access and manage their benefits:_ If you were to access and manage your benefits on VA.gov, where would you go?) 
+12. _For users who receive other benefits from the VA:_ Where do you currently go to access and manage your benefits? (_If user does not use the VA.gov website to access and manage their benefits:_ If you were to access and manage your benefits on VA.gov, where would you go?) 
 	- Would you expect to access your other benefits from this page or somewhere else on the VA.gov website? 
 	
 	- _For users who do not receive other benefits from the VA:_ If you had benefits, would you expect to access those benefits from this page or somewhere else on the VA.gov website? 
