@@ -48,7 +48,7 @@ Before we look at the website, I'd like to get a little background information f
 
 	- *Once they are past the login screen, restart the recording.*
 
-## 2. Are Veterans able to take action on their top tasks without any usability hurdles? - 5 minutes
+## 2. Is the dynamic content on My VA accurate and useful in the sections we've updated for this audit? - 5 minutes
 
 - Does this information look accurate to your current benefits situation? Is there anything you're surprised to see or expecting to see that you don't?
 - You said you go online to check X. Can you tell me how you'd go about doing/looking into that from here?
@@ -57,7 +57,7 @@ Before we look at the website, I'd like to get a little background information f
 - [ ] **Usability**: Confirm that users are able to find relevant benefit info and act on it if applicable.
 
 
-## 3. Do Veterans with education benefits know how to find info about their remaining education benefits from My VA? - 5 minutes
+## 3. Do Veterans with education benefits know how to find info about their remaining education benefits from My VA? - 3 minutes
 
 *Skip this section if they have never used education benefits*
 
@@ -67,7 +67,7 @@ Before we look at the website, I'd like to get a little background information f
 - [ ] **UAT TASK:** Confirm that Veterans who are familiar with education benefits find the links useful in the Education and training section and know that the third link is where they could find out about their remaining benefits.
 - [ ] **Usability**: Confirm that Veterans are familiar with the term "Post-9/11 GI Bill."
 
-## 4. Do Veterans know how to find and continue a saved application from My VA? - 5 minutes
+## 4. Do Veterans know how to find and continue a saved application from My VA? - 3 minutes
 
 - Let's scroll down to the Benefit application drafts section. What do you think this section is for?
 - If you filled out an application for benefits and submitted it to VA, would you expect to see that application here or somewhere else?
