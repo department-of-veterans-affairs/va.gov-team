@@ -214,7 +214,8 @@ Recruiting for this study will prioritize inclusivity. We aim to highlight voice
 
 Note: The following demographic criteria is our goal, but we understand that historically it's been challenging to recruit participants with VA debt.
 
--   At least 6 of 12 people who use a assistive technology (screen reader, hearing aids, use of magnification)
+-   At least 2 of 12 people who use a assistive technology (screen reader)
+-   
 -   [At least 5 of 12 people must identify as having a cognitive consideration](https://www.census.gov/content/dam/Census/library/working-papers/2016/demo/Holder-2016-01.pdf)  
     
 -   [At least 5 of 12 people must identify as Black, Hispanic, Biracial, Asian, Native](https://www.va.gov/HEALTHEQUITY/Race_Ethnicity.asp)
