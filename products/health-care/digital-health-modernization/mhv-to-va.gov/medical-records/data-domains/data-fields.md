@@ -1,4 +1,15 @@
-**Medical records domains**
+
+## Table of Contents
+- [Domains](#domains)
+- [Vaccines](#vaccines)
+- [Allergies](#allergies)
+- [Health conditions](#health-conditions)
+- [Vitals](#vitals)
+- [Lab and test results](#lab-and-test-results)
+- [Lab types](#lab-types)
+- [Care notes and summaries](#care-notes-and-summaries)
+
+## Domains
 |Blue Button label | AVS label | Suggested label|
 |:------|:-------|:-------|
 |VA Immunizations  |Immunizations | Vaccines|
@@ -8,7 +19,7 @@
 |VA Laboratory Results <br> VA Pathology Reports <br> VA Radiology Reports <br> VA Electrocardiogram (EKG) Reports |Lab tests <br/> Recent lab results |Lab and test results|
 |VA Admissions and Discharges <br> VA Notes| Visit Notes <br/> My treatment plan <br/> Other instructions | Care notes and summaries|
 
-**Vaccines**
+## Vaccines
 
 USCDI v1 Data Class: [Immunizations](https://www.healthit.gov/isa/uscdi-data-class/immunizations#uscdi-v1) <br>
 USCDI mapping concerns: v1 has only 1 data element: Immunizations
@@ -22,7 +33,7 @@ USCDI mapping concerns: v1 has only 1 data element: Immunizations
 |Comments | Comments entered by provider | Provider notes |  _None_ |
 |Series | Info about vaccine series, if relevant | Series | _None_ | May need explanatory text here. <br /> <br /> Vaccines in a series won't be grouped or linked in phase 0. | How does series data display — "COVID booster 1 of 2" or some other format? |_None_ |
 
-**Allergies**
+## Allergies
 
 USCDI v1 Data Class: [Allergies and intolerances](https://www.healthit.gov/isa/uscdi-data-class/allergies-and-intolerances#uscdi-v1) <br>
 USCDI mapping concerns: v1 has only 3 data elements: Substance (Medication), Substance (Drug Class), Reaction. It does not include non-medication based allergies.
@@ -39,7 +50,7 @@ USCDI mapping concerns: v1 has only 3 data elements: Substance (Medication), Sub
 |Location |Name of facility where provider entered allergy record | Location | _None_|
 |Comments |Comments entered by provider | Provider notes | _None_|
 
-**Health conditions**
+## Health conditions
 
 USCDI v1 Mapping: [Problem](https://www.healthit.gov/isa/uscdi-data-class/problems#uscdi-v1) <br>
 USCDI mapping concerns: v1 has only 1 data element: Problems
@@ -53,7 +64,7 @@ USCDI mapping concerns: v1 has only 1 data element: Problems
 |Provider's name | |Provider |_None_|
 |Comments |Comments entered by provider |Provider notes |_None_|
 
-**Vitals**
+## Vitals
 
 USCDI v1 Mapping: [Vital signs](https://www.healthit.gov/isa/uscdi-data-class/vital-signs#uscdi-v1) <br>
 USCDI mapping concerns: v1 maps the actual vital signs, not the data elements for each vital sign — adding table below to capture this
@@ -69,7 +80,7 @@ USCDI mapping concerns: v1 maps the actual vital signs, not the data elements fo
 |Location of entry |
 |Comments |
 
-**Lab and test results**
+## Lab and test results
 
 USCDI v1 Mapping: [Laboratory](https://www.healthit.gov/isa/uscdi-data-class/laboratory#uscdi-v1), [Pathology report narrative](https://www.healthit.gov/isa/taxonomy/term/2886/uscdi-v1), [Clinical tests](https://www.healthit.gov/isa/uscdi-data-class/clinical-tests#uscdi-v1), [Diagnostic imaging](https://www.healthit.gov/isa/uscdi-data-class/diagnostic-imaging#uscdi-v1) <br>
 USCDI mapping concerns: Does Procedures also apply here? See commentary about confusion around this term in v1: https://www.healthit.gov/isa/uscdi-data-class/procedures#uscdi-v1 <br>
@@ -125,8 +136,8 @@ Similar to other domains, all relevant categories have far fewer data elements t
 |EKG|Ordering location| Where the test order started |
 
 
-**Category labels for labs and tests**
-|Category | Suggested label | Notes             | Questions           |
+## Lab types
+|Lab type | Suggested label | Notes             | Questions           |
 |:----------------------|:----------------|:------------------|:--------------------|
 |Chemistry/hematology|||Are all tests in this category blood tests? Would "blood tests" or "routine blood tests" be an accurate label here?|
 |Pathology |||
@@ -135,7 +146,7 @@ Similar to other domains, all relevant categories have far fewer data elements t
 |EKG |EKG (electrocardiogram) |Historical category |Are new EKGs added to medical records? |
 
 
-**Care summaries and notes**
+## Care notes and summaries
 
 USCDI v1 Mapping: 
 USCDI mapping concerns:
