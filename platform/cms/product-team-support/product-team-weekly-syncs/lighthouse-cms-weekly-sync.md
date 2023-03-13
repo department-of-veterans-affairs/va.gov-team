@@ -14,6 +14,12 @@
 
 </details>
 
+## Monday, March 13, 2023
+* Topics
+  * Data Model Changes
+  * Other updates
+  * UX question 
+
 ## Monday, March 6, 2023
 * Today's topic - follow up on previous discussion around data model changes
 * Review action items/things from previous meeting
