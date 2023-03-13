@@ -16,9 +16,14 @@
 
 ## Monday, March 13, 2023
 * Topics
-  * Data Model Changes
-  * Other updates
-  * UX question 
+  * Data Model Changes 
+    * (Jay is out, we will revist in our next session, extend current session to an hour in order to work through the data model, invite Steve Wirt)
+  * Share historical decisions made in regards to UX 
+    * (data, research studies informing current taxonomy design)(content model created by Dave C.)
+  * Need to circle back on mental health 
+    * get a knowledge dump from Jay to Christian, Dave C. and Steve Wirt (all of the phone numbers were captured, issue now is that there are multiple  phone numbers, tracking the legislation that requires that per facility)(multiple phone numbers requires a structural change)
+  
+
 
 ## Monday, March 6, 2023
 * Today's topic - follow up on previous discussion around data model changes
