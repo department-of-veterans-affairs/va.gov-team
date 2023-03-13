@@ -172,7 +172,7 @@ Provide a link to any materials you need to run your study, including any materi
   
 -  [FSR form on VA.gov](http://va.gov/manage-va-debt/request-debt-help-form-5655/)
   
--   [UXPin prototype (backup in case participant is unable to use VA.gov]([https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4](https://preview.uxpin.com/f43733391f52c409c4d3152e9a4b101a392e29df#/pages/161460688/simulate/sitemap?mode=f))
+-   [UXPin prototype -backup in case participant is unable to use VA.gov](https://preview.uxpin.com/f43733391f52c409c4d3152e9a4b101a392e29df#/pages/161460688/simulate/sitemap?mode=f)
 	
 ## Recruitment	
 
@@ -265,18 +265,17 @@ Please request enough dates and at ***least double the amount of time slots for 
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 -   Moderator: [Charlotte Cesana](mailto:charlotte@cityfriends.tech)
     
--   Research guide writing and task development (usually but not always same as moderator): [Megan Gayle](mailto:megan.gayle@govcio.com)  [Charlotte Cesana](mailto:charlotte@cityfriends.tech)
+-   Research guide writing and task development (usually but not always same as moderator): [Megan Gayle](mailto:megan.gayle@govcio.com), [Charlotte Cesana](mailto:charlotte@cityfriends.tech)
     
--   Participant recruiting & screening: [Charlotte Cesana](mailto:charlotte@cityfriends.tech)  [Megan Gayle](mailto:megan.gayle@govcio.com)
+-   Participant recruiting & screening: [Charlotte Cesana](mailto:charlotte@cityfriends.tech), [Megan Gayle](mailto:megan.gayle@govcio.com)
     
--   Project point of contact: [Charlotte Cesana](mailto:charlotte@cityfriends.tech)  [Megan Gayle](mailto:megan.gayle@gcio.com)
+-   Project point of contact: [Charlotte Cesana](mailto:charlotte@cityfriends.tech), [Megan Gayle](mailto:megan.gayle@gcio.com)
     
 -   Participant(s) for pilot test: TBD
     
--   Note-takers: [Megan Gayle](mailto:megan.gayle@govcio.com)  [Joseph Lee](mailto:joseph@cityfriends.tech)
+-   Note-takers: Perigean, [Megan Gayle](mailto:megan.gayle@govcio.com), [Joseph Lee](mailto:joseph@cityfriends.tech)
     
 -   Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
-    
 
-megan.gayle@gcio.com, joseph@cityfriends.tech, charlotte@cityfriends.tech, denise.coveyduc@govcio.com, heather.rienks@va.gov, matthew.self2@va.gov, jill.anderson3@va.gov
+	megan.gayle@gcio.com, joseph@cityfriends.tech, charlotte@cityfriends.tech, denise.coveyduc@govcio.com, heather.rienks@va.gov, matthew.self2@va.gov, jill.anderson3@va.gov
 
