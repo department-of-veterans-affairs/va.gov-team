@@ -44,14 +44,14 @@ USCDI mapping concerns: v1 has only 3 data elements: Substance (Medication), Sub
 USCDI v1 Mapping: [Problem](https://www.healthit.gov/isa/uscdi-data-class/problems#uscdi-v1) <br>
 USCDI mapping concerns: v1 has only 1 data element: Problems
 
-|Data field       | Description          | Suggested label | Notes             | Questions           |
-|:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
-|Issue/problem title |Name of the health condition | Health condition |
-|Date/time entered | | | |Why is time important here? Can we display only date?|
-|Status | | | |Are the only options active and inactive?|
-|Location where the issue was entered |Name of facility |Location | |Is this field only necessary for the user to associate it with a specific appointment they had? What if it were a telehealth appt?|
-|Provider's name | |Provider |
-|Comments |Comments entered by provider |Provider notes |
+|Data field       | Description          | Suggested label | USCDI v1 data element mapping | Notes             | Questions           |
+|:------------------------|:-----------------------|:-----------------------|:-----------|:-------------------|:---------------------|
+|Issue/problem title |Name of the health condition | Health condition | [Problems](https://www.healthit.gov/isa/uscdi-data-class/problems#uscdi-v1) |
+|Date/time entered | | |_None_| |Why is time important here? Can we display only date?|
+|Status | | |_None_| |Are the only options active and inactive?|
+|Location where the issue was entered |Name of facility |Location |_None_| |Is this field only necessary for the user to associate it with a specific appointment they had? What if it were a telehealth appt?|
+|Provider's name | |Provider |_None_|
+|Comments |Comments entered by provider |Provider notes |_None_|
 
 **Vitals**
 
@@ -130,7 +130,7 @@ Similar to other domains, all relevant categories have far fewer data elements t
 |:----------------------|:----------------|:------------------|:--------------------|
 |Chemistry/hematology|||Are all tests in this category blood tests? Would "blood tests" or "routine blood tests" be an accurate label here?|
 |Pathology |||
-|Microbiology | |This is a subtype of pathology. It looks for bacteria, viruses, fungi, and parasites.|Would "Tests for infections" be an accurate PL label?|
+|Microbiology | |This is a subtype of pathology. It seems to include tests for bacteria, viruses, fungi, and parasites.|Would "Tests for infections" be an accurate PL label?|
 |Radiology | X-rays and imaging tests | 
 |EKG |EKG (electrocardiogram) |Historical category |Are new EKGs added to medical records? |
 
