@@ -56,6 +56,16 @@ On the VAOS homepage, the app displays the following for each status:
     - [ ] Past booked VA appointment - video connect (at home, not a VA or ATLAS location) 
     - [ ] Past booked VA appointment - phone call 
     - [ ] Past booked Community Care appointment
+    
+- [ ] Use Case 4 - Validate appointment list for mobile devices.
+      
+      Configuration setup in test environment must include: 
+  - [ ] Test user should have past booked, upcoming and pending VA and Community Care appointments
+
+* **Description**
+  - Tester will validate that the list of their past booked, upcoming and pending VA and Community Care appointments in VAOS looks as expected on mobile
+    - [ ] Past booked, upcoming and pending VA and Community Care appointments - iOS devices
+    - [ ] Past booked, upcoming and pending VA and Community Care appointments - Android devices
  
 
 ### User flow
