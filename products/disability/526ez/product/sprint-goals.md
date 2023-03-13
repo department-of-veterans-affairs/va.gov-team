@@ -10,7 +10,7 @@ Period - 03/15/2023 - 03/28/2023
    - [ ] EKS migration endpoint testing in staging 
    - [ ] Pull a report for recent validation errors
    - [ ] rated disabilities endpoint migration
-   - [ ] Intent to file endpoint migration - can this be included? Do we need a discovery ticket?
+   - [ ] Intent to file endpoint migration - not sure if we have capacity to include this. Do we need a discovery ticket first?
  - [ ] Research Discovery
    - [ ] Work with product/team to priortize these ideas and break them down for future work 
    - [ ] Get the ideas as user stories in the product backlog
