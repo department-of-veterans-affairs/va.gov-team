@@ -130,7 +130,7 @@ How will this research advance your product to the next phase in the design proc
 	-   Are Veterans overwhelmed by the amount of pages on this form?
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
+*What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.*
 
 1.  Veterans will understand the purpose of the form and why they need to fill out
     
@@ -160,7 +160,6 @@ What do you intend to learn and measure from this study? Think through these pro
 This moderated usability study will be conducted remotely via Zoom with some participants that are sighted, visually impaired, and use assistive technology.
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
 Remote - on Zoom. 
 
@@ -177,38 +176,24 @@ Provide a link to any materials you need to run your study, including any materi
 	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
-### Recruitment approach
-*Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?*
-
-  
 We are aiming to have at least **6** Veteran participants complete usability testing sessions. We will recruit double, to account for no shows. We will be asking Perigean to recruit **12** participants.
-
-
-### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
     
--   #### All participants must be Veterans
+-   All participants must be Veterans
     
--   #### All have a computer or smartphone and be willing to be complete their session on one of those devices
+-   All have a computer or smartphone and be willing to be complete their session on one of those devices
     
-	-   #### During the session, be willing to share a web browser window on their device
+	-   During the session, be willing to share a web browser window on their device
     
-	-   #### Have a working microphone on their device
+	-   Have a working microphone on their device
     
-	-   #### Have Zoom downloaded to their device prior to the session and know how to share their screen
+	-   Have Zoom downloaded to their device prior to the session and know how to share their screen
 
--   [Half of participants should complete the session on a smartphone.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125614/#:~:text=The%20rate%20of%20smartphone%20ownership,low%20levels%20of%20current%20engagement.)
+-   [6 of 12 of participants should complete the session on a smartphone.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125614/#:~:text=The%20rate%20of%20smartphone%20ownership,low%20levels%20of%20current%20engagement.)
     
--   Half of participants should complete the session on a desktop computer.
+-   6 of 12 of participants should complete the session on a desktop computer.
     
 -   #### All participants must be LOA3 (identity verified) on VA.gov. Participants will likely not know what this means, so please confirm this prior to testing. This can be confirmed by having users sign into VA.gov and having them go to the VA.gov profile. If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. If they can see the profile, they are LOA3 and can participate in testing.
     
