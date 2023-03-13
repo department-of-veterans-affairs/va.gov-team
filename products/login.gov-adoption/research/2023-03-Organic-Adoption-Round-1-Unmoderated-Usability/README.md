@@ -11,7 +11,11 @@ This initiative focuses on one migration pathway: the organic adoption of Login.
 This study is part of a [staged rollout plan](https://docs.google.com/document/d/1X5A69Jqx4xQyJje3Cwbp8e_aOH7EYS2rjmkWe6_kHiA/edit#heading=h.g5j35d7r1ip0) and will take place ahead of Stage A: Canary where we will run a test with a small Veteran population to ensure any obvious bugs and edge cases are found in production. The [research overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research) has more details on what is upcoming.
 
 ## Research Goals
-We still need to write and agree on research goals for this future study.
+These research goals still need to be agreed upon. They are based on this [staged rollout plan](https://docs.google.com/document/d/1X5A69Jqx4xQyJje3Cwbp8e_aOH7EYS2rjmkWe6_kHiA/edit#heading=h.g5j35d7r1ip0).
+
+- Review whether Veterans need help through account setup and where they go for support
+- Review whether Veterans face issues during IAL2 account setup
+- Review whether Veterans who use screen readers can complete IAL2 account setup
 
 ## Date
-This research will likely take place in March-April 2023.
+This research will likely take place in March 2023.
