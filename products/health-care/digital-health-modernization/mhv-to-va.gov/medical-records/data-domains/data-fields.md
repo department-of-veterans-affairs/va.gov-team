@@ -23,7 +23,7 @@
 
 ## Lab and test results
 
-USCDI v1 Mapping: [Laboratory](https://www.healthit.gov/isa/uscdi-data-class/laboratory#uscdi-v1), [Pathology report narrative](https://www.healthit.gov/isa/taxonomy/term/2886/uscdi-v1), [Clinical tests](https://www.healthit.gov/isa/uscdi-data-class/clinical-tests#uscdi-v1), [Diagnostic imaging](https://www.healthit.gov/isa/uscdi-data-class/diagnostic-imaging#uscdi-v1) <br>
+USCDI v1 Mapping: [Laboratory](https://www.healthit.gov/isa/uscdi-data-class/laboratory#uscdi-v1), [Clinical notes](https://www.healthit.gov/isa/uscdi-data-class/clinical-notes), [Clinical tests](https://www.healthit.gov/isa/uscdi-data-class/clinical-tests#uscdi-v1), [Diagnostic imaging](https://www.healthit.gov/isa/uscdi-data-class/diagnostic-imaging#uscdi-v1) <br>
 USCDI mapping concerns: Fewer data elements than we have in our lists. Does Procedures category also apply here? See [commentary about confusion around this term in v1](https://www.healthit.gov/isa/uscdi-data-class/procedures#uscdi-v1) <br>
 
 |Category | Data field | Suggested label | USCDI v1 data element mapping|Notes | Questions |
@@ -41,16 +41,17 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |Radiology|Clinical history| || | | What does this mean? Is this medical history related to the reason for this test? |
 |Radiology|Radiologist|
 |Radiology|Report| [Diagnostic imaging report](https://www.healthit.gov/isa/taxonomy/term/2471/uscdi-v2)| || |What does this mean? Is this equivalent to "Results" for other categories?|
+| | | |[Imaging Narrative](https://www.healthit.gov/isa/taxonomy/term/2876/uscdi-v1) |USCDI groups this under Clinical Notes|Is this an additional field we need to add in Radiology, in addition to "Report"? Or is the narrative included in the report?|
 |Chemistry/hematology|Lab test name (if avail)| Test (suggest using without label as card header in list, H1 in detail) |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
 |Chemistry/hematology|Date/time collected| Date and time you gave the sample |
 |Chemistry/hematology|Specimen| Sample tested |
-|Chemistry/hematology|Specific test-name| Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
-|Chemistry/hematology|Specific test-results| Results |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|
-|Chemistry/hematology|Specific test-Units| Units | || Can we remove the "Units" field, and add the units to the result and reference range?|
-|Chemistry/hematology|Specific test-Reference range| Standard range |||Does the reference range adjust based on patient demographics or conditions?|
-|Chemistry/hematology|Specific test-Status| | || Under what circumstances would "status" be anything other than final? Can we remove this field?|
-|Chemistry/hematology|Specific test-Performing location| Lab that analyzed the sample|||Is this suggested label correct — does "performing location" mean the lab that analyzed the sample? |
-|Chemistry/hematology|Specific test-Interpretation| | || What types of information does this include? What guidance do providers see for field? <br> Who inputs this and the comments field? Ordering provider? PC? Lab technician? We don't want the user to think they can add their own comments.|
+|Chemistry/hematology|Test-name| Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
+|Chemistry/hematology|Test-results| Results |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|
+|Chemistry/hematology|Test-Units| Units | || Can we remove the "Units" field, and add the units to the result and reference range?|
+|Chemistry/hematology|Test-Reference range| Standard range |||Does the reference range adjust based on patient demographics or conditions?|
+|Chemistry/hematology|Test-Status| | || Under what circumstances would "status" be anything other than final? Can we remove this field?|
+|Chemistry/hematology|Test-Performing location| Lab that analyzed the sample|||Is this suggested label correct — does "performing location" mean the lab that analyzed the sample? |
+|Chemistry/hematology|Test-Interpretation| | || What types of information does this include? What guidance do providers see for field? <br> Who inputs this and the comments field? Ordering provider? PC? Lab technician? We don't want the user to think they can add their own comments.|
 |Chemistry/hematology|Ordering provider| Provider who ordered the test |
 |Chemistry/hematology|Ordering location| Where the test order started |
 |Chemistry/hematology|Collected location| Where you gave the sample |
@@ -71,6 +72,7 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |Pathology|Performing location| Lab that analyzed the sample |
 |Pathology|Date completed| Date completed |
 |Pathology|Report| | || What does this mean? Is this where results are entered? |
+| | | |[Pathology Report Narrative](https://www.healthit.gov/isa/taxonomy/term/2886/uscdi-v1)|USCDI groups this in Clinical Notes|
 |EKG|Procedure/test name| Test |[Clinical test](https://www.healthit.gov/isa/taxonomy/term/2456/uscdi-v2) |For this category, this field will always read "Electrocardiogram (EKG)". This USCDI data element applies to "non-imaging and non-laboratory tests." USCDI also includes [Clinical test result/report](https://www.healthit.gov/isa/taxonomy/term/3166/uscdi-v2). This seems to be missing from our EKG fields.|
 |EKG|Date/time performed| Date and time of the test |
 |EKG|Ordering location| Where the test order started |
