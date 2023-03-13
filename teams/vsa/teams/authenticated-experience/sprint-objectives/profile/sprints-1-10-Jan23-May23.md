@@ -345,6 +345,16 @@ Sprint 8 Epic [#54916](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
 
 - Build editing page for profile PT2 #54434
 - Build the new page for the mobile # #53547
+
+### Logged-in IA/nav research
+
+**Design - Liz**
+
+- User research write-up
+- Start consolidated report on all research efforts
+  - This should highlight the main problems with navigating the logged-in experience, as supported by our research review, analytics, and user research. 
+  - It does not need to be overly redundant of the user research report.
+  - It does NOT need to pose immediate solutions, though it can provide high-level recommendations on next steps (eg. more research in specific areas; elevating XYZ; etc).
  
 ## Sprint 9 (4/26 - 5/9)
 
@@ -353,6 +363,13 @@ Sprint 8 Epic [#54916](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
 **FE - Adam**
 
 - Rollout, Cleanup of edit mobile phone page #53549
+
+### Logged-in IA/nav research
+
+**Design - Liz**
+
+- Finish consolidated report on all research efforts
+- Talk about next steps with Mikki and Chante (this could be anything from more work in this area to putting this on hold until Samara is back from leave)
 
 ## Sprint 10 (5/10 - 5/23)
 
