@@ -24,8 +24,7 @@
 ## Lab and test results
 
 USCDI v1 Mapping: [Laboratory](https://www.healthit.gov/isa/uscdi-data-class/laboratory#uscdi-v1), [Pathology report narrative](https://www.healthit.gov/isa/taxonomy/term/2886/uscdi-v1), [Clinical tests](https://www.healthit.gov/isa/uscdi-data-class/clinical-tests#uscdi-v1), [Diagnostic imaging](https://www.healthit.gov/isa/uscdi-data-class/diagnostic-imaging#uscdi-v1) <br>
-USCDI mapping concerns: Does Procedures also apply here? See commentary about confusion around this term in v1: https://www.healthit.gov/isa/uscdi-data-class/procedures#uscdi-v1 <br>
-Similar to other domains, all relevant categories have far fewer data elements than we have in our list
+USCDI mapping concerns: Fewer data elements than we have in our lists. Does Procedures category also apply here? See [commentary about confusion around this term in v1](https://www.healthit.gov/isa/uscdi-data-class/procedures#uscdi-v1) <br>
 
 |Category | Data field | Suggested label | USCDI v1 data element mapping|Notes | Questions |
 |:----------------|:-------------|:----------------|:--------|:------------------|:--------------------|
@@ -33,7 +32,7 @@ Similar to other domains, all relevant categories have far fewer data elements t
 |All|Title of lab report (if available)|Test (suggest using this without a label as the card header in list, H1 in detail) |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|If there's no title/test name available, we could conditionally display the type of test as the card header in list, H1 in detail. Hopefully this is rare. |
 |All|Date collected |Date ||Challenging to find a single date label that works for all categories. "Date collected" or "Date you gave the sample" doesn't make sense for radiology or EKG. "Date you got the test" doesn't quite make sense for pathology. A shorter field label is also better for the card format in list view.| Would we want to map several fields from different categories into a single "Date" field for the list view, but label them differently in the detail views where we have additional date fields? So all "Date collected" "Date obtained" "Date performed" fields would map to "Date" in list view. Or would we want the labels to stay consistent between list and detail views, even if this means several longer "Date" labels on cards in the list?|
 |All|Ordering provider |Provider||Similar to previous line about dates — for space on the cards, "Provider" works better in list view. But we need to differentiate provider type in detail view.| Is this different mapping for list and detail view acceptable?|
-|Radiology|Procedure/test name |Test |||Is this the same as "Title of lab report" in the All category above?|
+|Radiology|Procedure/test name |Test |[Diagnostic imaging test](https://www.healthit.gov/isa/taxonomy/term/2466/uscdi-v2)||Is this the same as "Title of lab report" in the All category above?|
 |Radiology|Date/time exam performed |Date you got the test ||
 |Radiology|Ordering location| Where the test order started ||
 |Radiology|Requesting provider| Provider who ordered the test | || | In Chem/Hem and Microbio, the field is labeled “Ordering Provider”. Should this change?|
@@ -41,7 +40,7 @@ Similar to other domains, all relevant categories have far fewer data elements t
 |Radiology|Performing location| Where you got the test ||
 |Radiology|Clinical history| || | | What does this mean? Is this medical history related to the reason for this test? |
 |Radiology|Radiologist|
-|Radiology|Report| | || |What does this mean? Is this equivalent to "Results" for other categories?|
+|Radiology|Report| [Diagnostic imaging report](https://www.healthit.gov/isa/taxonomy/term/2471/uscdi-v2)| || |What does this mean? Is this equivalent to "Results" for other categories?|
 |Chemistry/hematology|Lab test name (if avail)| Test (suggest using without label as card header in list, H1 in detail) |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
 |Chemistry/hematology|Date/time collected| Date and time you gave the sample |
 |Chemistry/hematology|Specimen| Sample tested |
@@ -72,7 +71,7 @@ Similar to other domains, all relevant categories have far fewer data elements t
 |Pathology|Performing location| Lab that analyzed the sample |
 |Pathology|Date completed| Date completed |
 |Pathology|Report| | || What does this mean? Is this where results are entered? |
-|EKG|Procedure/test name| Test | |For this category, this field will always read "Electrocardiogram (EKG)"|
+|EKG|Procedure/test name| Test |[Clinical test](https://www.healthit.gov/isa/taxonomy/term/2456/uscdi-v2) |For this category, this field will always read "Electrocardiogram (EKG)". This USCDI data element applies to "non-imaging and non-laboratory tests." USCDI also includes [Clinical test result/report](https://www.healthit.gov/isa/taxonomy/term/3166/uscdi-v2). This seems to be missing from our EKG fields.|
 |EKG|Date/time performed| Date and time of the test |
 |EKG|Ordering location| Where the test order started |
 
