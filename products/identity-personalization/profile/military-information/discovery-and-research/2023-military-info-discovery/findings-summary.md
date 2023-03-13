@@ -70,18 +70,18 @@ Other themes (as opposed to specific fields) that repeat in VA benefits forms in
 ### Veterans are not able to memorize all the service history information they'd need to apply for common VA benefits.
 2/10 of the participants interviewed mentioned that they had injury-related memory problems and had trouble remembering details such as their own service dates. While they didn't disclose any issues with memory generally, another 2/10 participants said they had trouble remembering their exact service dates, let alone other service history details:
 
-"I reference my DD214 for everything. [...] Like I said my memory is, I'm not gonna say shot...[trails off]."
+>"I reference my DD214 for everything. [...] Like I said my memory is, I'm not gonna say shot...[trails off]."
 
-"I never know those dates by heart. I know the year."
+>"I never know those dates by heart. I know the year."
 
-"Your history in terms of your schooling and your awards are something you want to keep track of and, as your memory matures, you don't always remember those things."
+>"Your history in terms of your schooling and your awards are something you want to keep track of and, as your memory matures, you don't always remember those things."
 
 Another 2/10 participants discussed having their dates and other service history information memorized, but even those that believe they've memorized some of their information would benefit from some reminders: 
 
-"Some of the information, dates of service, are pretty much memorized. Awards I've received are pretty much memorized but training dates, those are not memorized. Different assignments that I've had over 26 years ago... [trails off]"
+>"Some of the information, dates of service, are pretty much memorized. Awards I've received are pretty much memorized but training dates, those are not memorized. Different assignments that I've had over 26 years ago... [trails off]"
 
 ### Most participants (at least 6/10) believe that they need their DD214 (not just the information on it) to apply for any VA benefit or service.
-The common sentiment among most participants was: "If you're applying for something, like veterans' services, you have to show your DD214 to prove that you're a Veteran."
+The common sentiment among most participants was: >"If you're applying for something, like veterans' services, you have to show your DD214 to prove that you're a Veteran."
 
 Participants that stated they needed a copy of their DD214 to apply for a VA benefit had applied for the following specific VA benefits: 
 - disability (3 participants)
@@ -94,7 +94,7 @@ The other participants (4/10) that did not bring up needing their DD214 to apply
 ### Depending on how Veterans apply for VA benefits and services, they may or may not need to provide information about their service history and/or a copy of their DD214.
 Of those that applied for benefits without their DD214 (2/10), 1 participant never received a DD214 or any other discharge paperwork when she left the navy. When she applied for healthcare benefits, she went in person and got help with her application, and she was able to do that without requesting a copy of her DD214. The other participant who applied for benefits without a DD214 had applied for an increase in coverage from the VA and used a benefits letter found on eBenefits (not her DD214) to prove that she had been in the military:
 
-"When you go to school or say for instance, when you're trying to buy a car or something [...] just to verify that you actually were in the military. That's the main thing, that [VA benefits] letter [...] You can use [your DD214] too but I find that benefits letter like, that's a big help."
+>"When you go to school or say for instance, when you're trying to buy a car or something [...] just to verify that you actually were in the military. That's the main thing, that [VA benefits] letter [...] You can use [your DD214] too but I find that benefits letter like, that's a big help."
 
 Based on the two accounts from participants of applying for VA benefits without a DD214 and some searching through common forms used to apply for benefits (specifically, VA form 10-10EZ used for applying for healthcare, VA form 21-526EZ used for applying for disability, VA form 28-1900 used for applying for VR&E/education benefits, and VA form 21P-527EZ used for applying for Veterans' pension), I can confidently assert that Veterans are not required in every case of applying for VA benefits to supply a copy of their DD214. That being said, proving one's military service in some way is a requirement for all benefits, though that may be done in some cases simply by granting permission to a VSO to gather that evidence on the Veteran's behalf. 
 
@@ -103,62 +103,62 @@ For common VA benefits such as healthcare, disability, education: If Veterans ar
 
 A DD214 is one document that Veterans can use to prove that they served in the military. For this reason, Veterans can use their DD214 not only in the process of applying for VA benefits, but also for many non-VA privileges including membership to Veterans' groups and clubs such as the VFW, a Veteran driver's license, or to get Veteran-only discounts at stores:
 
-"Well obviously, 214s are, occasionally you need to present them to different like, I'm a member of the VFW now [...] so they need my 214 to verify my service in Vietnam."
+>"Well obviously, 214s are, occasionally you need to present them to different like, I'm a member of the VFW now [...] so they need my 214 to verify my service in Vietnam."
 
-"Well doing Veterans' things, you know, they always have these free meals and a lot of establishments want to see either you know your ID card or your 214. So what I did I just pretty much when I renewed my license I just had them add it. I showed them my DD214 for them to add Veteran on my tags and also on my driver's license. And then when I go to celebrate Veterans Day, I can pretty much just show them that."
+>"Well doing Veterans' things, you know, they always have these free meals and a lot of establishments want to see either you know your ID card or your 214. So what I did I just pretty much when I renewed my license I just had them add it. I showed them my DD214 for them to add Veteran on my tags and also on my driver's license. And then when I go to celebrate Veterans Day, I can pretty much just show them that."
 
-"Sometimes you can get discounts on things if you can prove you're a veteran like, [...] if I go somewhere that offers a Veteran discount [...] I can get that discount. Makes life a little bit easier that way."
+>"Sometimes you can get discounts on things if you can prove you're a veteran like, [...] if I go somewhere that offers a Veteran discount [...] I can get that discount. Makes life a little bit easier that way."
 
 ### Veterans use service history information such as dates and locations to piece together timelines, which assist with applying for benefits to cover service-related injuries or to piece together the dates and locations of other events.
 Participants (3/10) also mentioned using service dates and locations to piece together a timeline of their military experience. One reason Veterans do this is to help them remember the details around particular events to build a case for service-related injuries and/or trauma that may help them secure more VA benefits:
 
-"I was out of the service for, let's see, I got out in '89. So it wasn't until, like I said, 2006 when you know I started having issues and everything and correlating that to it being more brain related and then looking back, to be able to look at my service records to say, well I had a head injury when was in the service. [...] and then being able to utilize that to then put together, you know, a claim against the VA to be able to say, hey I have all these records here from when I was in the service."
+>"I was out of the service for, let's see, I got out in '89. So it wasn't until, like I said, 2006 when you know I started having issues and everything and correlating that to it being more brain related and then looking back, to be able to look at my service records to say, well I had a head injury when was in the service. [...] and then being able to utilize that to then put together, you know, a claim against the VA to be able to say, hey I have all these records here from when I was in the service."
 
 Or, in the case of one participant, this information was used to piece together exactly where his son was born when he was on active duty in Germany:
 
-"I wanted to see [...] exactly my tour time that I spent in Nuremburg, Germany because my son was born there and he actually doesn't have a birth certificate. So I actually had to go back and show them I was in the military and I was stationed [laughs] so [now] he pretty much has dual citizenship for Germany."
+>"I wanted to see [...] exactly my tour time that I spent in Nuremburg, Germany because my son was born there and he actually doesn't have a birth certificate. So I actually had to go back and show them I was in the military and I was stationed [laughs] so [now] he pretty much has dual citizenship for Germany."
 
 ### Veterans use service history information such as trainings, commendations, and position descriptions for professional reasons after the military, whether that is building out a resume or otherwise demonstrating qualifications for a role.
 4/10 participants mentioned that service history information is important for buildng out a resume or otherwise showing one's professional experience for the sake of getting a job or getting credit for a special skill at work. For this purpose, Veterans could make use of military job descriptions, military educaton, as well as decorations, medals, badges and awards:
 
-"In the past, when I was employed as a social worker, yeah I had to, you know, put down dates of service and things like that, to have that information for jobs or you know what not."
+>"In the past, when I was employed as a social worker, yeah I had to, you know, put down dates of service and things like that, to have that information for jobs or you know what not."
 
-"If someone says I need to see your DD214 for like a job interview like as an example, I give them a copy."
+>"If someone says I need to see your DD214 for like a job interview like as an example, I give them a copy."
 
 ### It's not rare for Veterans to lack easy access to their original DD214.
 1/10 participant had simply never received a DD214 or other discharge papers after her service: "Some people have a DD214, I don't have one. But if you had that, you'd be able to look on there to see your dates of service. Or you can email the archives in DC."
 
 Other participants lacked temporary (or more permanent) access to their DD214 for a myriad of other reasons, including the document being destroyed or lost due to homelessness, a house fire, or the process of relocation/moving to a new place:
 
-"The bank or the mortgage servicing place said they needed a copy of my DD214, which I was sure that I had, but I couldn't find it. You know because I was moving and I had pretty much forgotten to label the box."
+>"The bank or the mortgage servicing place said they needed a copy of my DD214, which I was sure that I had, but I couldn't find it. You know because I was moving and I had pretty much forgotten to label the box."
 
-"My father-in-law, he was in the service [...] He had a house fire a couple of years ago and everything was, all those records and everything were destroyed. So we filed for that [his dd214]. Everything with the military takes forever. It took quite awhile to get that but we did get that on file."
+>"My father-in-law, he was in the service [...] He had a house fire a couple of years ago and everything was, all those records and everything were destroyed. So we filed for that [his dd214]. Everything with the military takes forever. It took quite awhile to get that but we did get that on file."
 
-"I do have my DD214 registered in my hometown, but I don't live in my hometown." 
+>"I do have my DD214 registered in my hometown, but I don't live in my hometown." 
 
-"I think I've actually lost it 2-3 different times and had to request it because I've been homeless a lot, and have had my stuff thrown out."
+>"I think I've actually lost it 2-3 different times and had to request it because I've been homeless a lot, and have had my stuff thrown out."
 
 For 3/10 participants, they realized that they lacked the correct copy or version of their DD214 when they were trying to use the document to apply for a benefit. 
 
-"I think I have copy B and she needed to see copy A. I didn't know different copies had different information on them. But one of the doesn't deal with the re-enlistment code."
+>"I think I have copy B and she needed to see copy A. I didn't know different copies had different information on them. But one of the doesn't deal with the re-enlistment code."
 
 ### 4/10 participants raised confusions about the DD214.
 2/10 participants brought up that they had been confused about the meaning of the discharge code on their DD214:
 
-"There's some two-digit code or something that only like the military understands. [...] Somebody finally told me, you know you're coded for ineligible. What do you mean coded?"
+>"There's some two-digit code or something that only like the military understands. [...] Somebody finally told me, you know you're coded for ineligible. What do you mean coded?"
 
 The other 2/10 participants reported that, at the point of trying to apply for VA benefits, they learned that there was more than one version of their DD214 (and in their case, they had the wrong version):
 
-"I think I have copy B and she needed to see copy A. I didn't know different copies had different information on them. But one of the doesn't deal with the re-enlistment code."
+>"I think I have copy B and she needed to see copy A. I didn't know different copies had different information on them. But one of the doesn't deal with the re-enlistment code."
 
 ### Participants like the idea of being able to access service history information AND their DD214 easily online. 
-All participants reacted either positively or neutrally to the concept of accessing their service history information easily online. In addition to dates of service, which are already populated on the Military Information page of the Profile, participants stated they'd like to see awards, decorations, and commendations (mentioned by 5/10 participants), coursework and/or trainings (mentioned by 4/10 participants), and all tour locations with dates (mentioned by 3/10 participants). 2/10 participants stated they'd like to see simply everything in the military file: "The more you add, the more you have accessible, I think would be convenient."
+All participants reacted either positively or neutrally to the concept of accessing their service history information easily online. In addition to dates of service, which are already populated on the Military Information page of the Profile, participants stated they'd like to see awards, decorations, and commendations (mentioned by 5/10 participants), coursework and/or trainings (mentioned by 4/10 participants), and all tour locations with dates (mentioned by 3/10 participants). 2/10 participants stated they'd like to see simply everything in the military file: >"The more you add, the more you have accessible, I think would be convenient."
 
 After viewing the Military Information section of the Profile, and having seen the link for requesting one's DD214, 4/10 participants stated that that one affordance was the most important thing on the Military Information page:
 
-"I think I would reverse the order and put request your [214] up top [...] because that's probably why I'd be there."
+>"I think I would reverse the order and put request your [214] up top [...] because that's probably why I'd be there."
 
-"Request your DD214 right there, that's perfect. And that's what most guys are commonly doing."
+>"Request your DD214 right there, that's perfect. And that's what most guys are commonly doing."
 
 ### Participants do not think of the VA.gov Profile as a potential place to access their service history information.
 3/10 participants said that they might expect to find their DD214 on eBenefits. At least 2/10 participants would start with the VA.gov search bar to find information about their service history. 
@@ -166,22 +166,22 @@ After viewing the Military Information section of the Profile, and having seen t
 ### Participants are confused about the service dates that show up in the Military Information section of their Profile.
 All participants that were able to access their Profile and look at the Military Information had two sets of dates under "Period of service" and these two sets of dates always caused confusion: 
 
-"I was held over. I was supposed to get out in February when the first Gulf incident happened, so I don't know if that's the reason why I have two different [sets of service dates]. [...] So I believe that top one is accurate. I don't know what that bottom one is."
+>"I was held over. I was supposed to get out in February when the first Gulf incident happened, so I don't know if that's the reason why I have two different [sets of service dates]. [...] So I believe that top one is accurate. I don't know what that bottom one is."
 
-"It's a little confusing because it's cut up in my case, this June 16th to June 17th, that must be my training. [...] It's like not continuous so it's weird."
+>"It's a little confusing because it's cut up in my case, this June 16th to June 17th, that must be my training. [...] It's like not continuous so it's weird."
 
-"Those are the two times I got deployed. [...] Well actually, these are not the two times I got deployed. The two times I got deployed would actually be beneficial. Because actually I got out and got back in, don't ask me why I did that, but I did. I thought this was the time I got deployed, but actually it's not. It's my dates of service, that I was in."
+>"Those are the two times I got deployed. [...] Well actually, these are not the two times I got deployed. The two times I got deployed would actually be beneficial. Because actually I got out and got back in, don't ask me why I did that, but I did. I thought this was the time I got deployed, but actually it's not. It's my dates of service, that I was in."
 
 ### Military Information means a broad range of things to participants.
 Some participants believed "Military Information" would primarily include information about their service history, but these participants were actually in the minority. It was more common for participants to think that "Military Information" would also include more personal details, such as a social security number. Here are just a few participant opinions about what "Military Information is referring to:
 
-"Particulars, like what branch I served in, the length of service, maybe my duty stations. Maybe like my personal demographic information?"
+>"Particulars, like what branch I served in, the length of service, maybe my duty stations. Maybe like my personal demographic information?"
 
-"Active duty, medical, disability, medication, all that."
+>"Active duty, medical, disability, medication, all that."
 
-"Anything from my medical records to my service in the military. Awards, duty stations, that type of thing."
+>"Anything from my medical records to my service in the military. Awards, duty stations, that type of thing."
 
-"Anything that can be beneficial to me as a veteran. Anything that I can apply for that can help my quality of life."
+>"Anything that can be beneficial to me as a veteran. Anything that I can apply for that can help my quality of life."
 	
 ## Recommendations
 ### Add fields to Military Information with the purpose of facilitating common Veteran use cases for needing this information.
