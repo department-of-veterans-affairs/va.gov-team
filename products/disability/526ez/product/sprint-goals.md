@@ -14,7 +14,7 @@ Period - 03/15/2023 - 03/28/2023
  - [ ] Research Discovery
    - [ ] Work with product/team to priortize these ideas and break them down for future work 
    - [ ] Get the ideas as user stories in the product backlog
-   - [ ] Identify analytics needs?
+   - [ ] Identify analytics needs? - Need to check capacity and what can be done
 
 
 ## Sprint 0
