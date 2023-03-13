@@ -133,5 +133,5 @@ Please list the people who will be serving in each role. **Include the primary p
 - Research guide writing and task development (usually but not always same as moderator): Skyler Schain, Ruben Sun
 - Participant recruiting & screening: Perigean
 - Project point of contact:	Skyler Schain, Ruben Sun, Jacob Worrell
-- Participant(s) for pilot test: TBD 
+- Participant(s) for pilot test: Rocio de Santiago (rocio@coforma.io) 
 - Observers: Jacob Worrell (jacob.worrell@adhocteam.us), Sarah Ortiz Shields (sarah.shield@coforma.io) , Sam Cormier (sam.cormier@coforma.io), Jerek Shoemaker (jerek.shoemaker@adhocteam.us), Jared Cunha (jared@coforma.io), Kevin Duensing (kevin.duensing@adhocteam.us), Josh Kim (josh.kim@adhocteam.us), Eva Floyd (eva@coforma.io)
