@@ -1,4 +1,21 @@
 # Sprint goals for Benefits Disability Experience Team 
+## Sprint 1
+Period - 03/15/2023 - 03/28/2023
+### Sprint goals
+- [ ] Engineering work
+   - [ ] Technical discovery on the future date of claim bug
+   - [ ] Spike for common framework for eVSS endpoint migration with the following outcome <br>
+         -  What's left for working software that can be used to implement a single endpoint migration <br>
+         -  What else is needed for endpoint migration framework <br>
+   - [ ] EKS migration endpoint testing in staging 
+   - [ ] Pull a report for recent validation errors
+   - [ ] rated disabilities endpoint migration
+   - [ ] Intent to file endpoint migration - can we include this?
+ - [ ] Research Discovery
+   - [ ] Work with product/team to priortize these ideas and break them down for future work 
+   - [ ] Get the ideas as user stories in the product backlog
+   - [ ] Identify analytics needs?
+
 
 ## Sprint 0
 Period - 03/01/2023 - 03/14/2023
