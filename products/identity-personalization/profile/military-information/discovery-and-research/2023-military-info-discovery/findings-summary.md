@@ -203,25 +203,28 @@ Participants who claimed to have found their DD214 online in the past, said they
 This will align with VA form headings that either refer to this type of information as "Military Service Information," "Service Information," or "Veteran Service Information."
 
 ## Research Process Insights
-### 
+### Consider a more consistent approach for future usability sessions
+The research sessions with participants combined about 30 minutes of interview time with a short usability test/site exploration where the participant shared their screen while they viewed the Military Information section of the Profile. I think we got what was needed from these sessions, but if we wanted a more consistent and methodological usability review of the Military Information section, I would want to recruit participants based on additional criteria, including device type, and ensure that I'm giving participants a consistent starting point, with the exact same prompts, from sessions to session. 
 
-## Further research needed
-### 
+### Consider excluding participants with trouble remembering from generative research
+The 2 participants that had memory problems due to injuries they had sustained while serving in the military struggled to answer questions that I posed in the interviews. For more generative research that asks participants to "recall a time that..." it seems more humane to exclude participants that are unlikely to be able to recall mundane events.
+
+## Further Research Needed
+### Understand source(s) of data on Military Information
+To address the confusion that participants were expressing while looking at their own Military Information, we need to uncover the source of the dates that populate on that screen. 
 
 ## Next Steps
-- Review with product team and align on recommendations we’ll take action on.
+- Review with product team and align on recommendations we’ll take action on
+- Create tickets in backlog
 
 ## Appendix
-- Research plan
-- Conversation guide
-- Session notes
-- Topline summary
-
-## Tools used for Synthesis
-- Mural board
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/conversation-guide.md)
+- [Mural board for notes and synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1675699345423/c1597b053373eb3ce9b455f2a79ea2c0b0047e97?sender=ua604735c5cf1162b042a4310)
+- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/topline-summary.md)
 
 ## Pages and applications used
-- Military Information, Profile
+- Military Information section/page of Profile
 
 ## Secondary research
 - [Jeana Clark's (Senior UX Accessibility Designer for VA.gov Forms) consolidation of fields on so-far non-digitized forms](https://docs.google.com/spreadsheets/d/1ycMCdzicG_-neSKJQztFQTOmB2f-pRP_7BG26MJhgDg/edit#gid=763999618)
@@ -232,7 +235,6 @@ This will align with VA form headings that either refer to this type of informat
 
 ## Who we talked to 
 - [10 participants](https://perigeantechnologies.knack.com/dsva-perigean-project-tracker#dsva-projects-/?view_103_filters=%5B%7B%22field_name%22%3A%22Active%22%2C%22value%22%3A%22Yes%22%2C%22operator%22%3A%22is%22%2C%22field%22%3A%22field_118%22%7D%5D)
-- Recruitment criteria
 
 **Audience segment:**
 * Veterans: 10
@@ -281,7 +283,3 @@ Participants were not asked to disclose whether they had any disabilities or use
 
 **Discharge type:**
 Participants were not asked to disclose their discharge, but 2 participants did disclose that they have discharge statuses that fall under the category of "other than honorable."
-
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/2023-notifications-add-email-recruitment-checker.png" alt="Screenshot from the recruitment checker spreadsheet, linked below." width="500" />
-
-[VA recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=2136433331)
