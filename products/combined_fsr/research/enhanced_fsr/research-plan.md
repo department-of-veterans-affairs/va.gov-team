@@ -220,8 +220,11 @@ Note: The following demographic criteria is our goal, but we understand that his
     
 -   [At least 5 of 12 people must identify as Black, Hispanic, Biracial, Asian, Native](https://www.va.gov/HEALTHEQUITY/Race_Ethnicity.asp)
     
--   [At least 5 of 12 people must identify as other than male](https://www.womenshealth.va.gov/womenshealth/latestinformation/facts.asp#:~:text=Women%20Veterans%20Health%20Care,-Facts%20and%20Statistics&text=The%20current%20projected%20percentage%20of,years%20for%20their%20male%20counterparts.)
+-   [At least 5 of 12 people must identify as women](https://www.womenshealth.va.gov/womenshealth/latestinformation/facts.asp#:~:text=Women%20Veterans%20Health%20Care,-Facts%20and%20Statistics&text=The%20current%20projected%20percentage%20of,years%20for%20their%20male%20counterparts.)
 -   At least 4 of 12 people who identify as gay, lesbian, bisexual, or transgender
+
+-   At least 2 of 12 people who identify  as non binary or other
+
     
 -   [At least 3 of 12 people are without a degree or professional certificate](https://www.luminafoundation.org/wp-content/uploads/2019/10/veterans-without-degrees.pdf)
         
@@ -231,7 +234,6 @@ Note: The following demographic criteria is our goal, but we understand that his
 #### Secondary criteria (nice-to-haves)
 
 -   At least 3 of 12 people who live in a rural or remote area
-    
     
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
