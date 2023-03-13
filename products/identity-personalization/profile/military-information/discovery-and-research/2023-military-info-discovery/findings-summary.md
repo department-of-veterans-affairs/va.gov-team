@@ -151,7 +151,8 @@ The other 2/10 participants reported that, at the point of trying to apply for V
 >"I think I have copy B and she needed to see copy A. I didn't know different copies had different information on them. But one of the doesn't deal with the re-enlistment code."
 
 ### Participants like the idea of being able to access service history information AND their DD214 easily online. 
-All participants reacted either positively or neutrally to the concept of accessing their service history information easily online. In addition to dates of service, which are already populated on the Military Information page of the Profile, participants stated they'd like to see awards, decorations, and commendations (mentioned by 5/10 participants), coursework and/or trainings (mentioned by 4/10 participants), and all tour locations with dates (mentioned by 3/10 participants). 2/10 participants stated they'd like to see simply everything in the military file: >"The more you add, the more you have accessible, I think would be convenient."
+All participants reacted either positively or neutrally to the concept of accessing their service history information easily online. In addition to dates of service, which are already populated on the Military Information page of the Profile, participants stated they'd like to see awards, decorations, and commendations (mentioned by 5/10 participants), coursework and/or trainings (mentioned by 4/10 participants), and all tour locations with dates (mentioned by 3/10 participants). 2/10 participants stated they'd like to see simply everything in the military file: 
+>"The more you add, the more you have accessible, I think would be convenient."
 
 After viewing the Military Information section of the Profile, and having seen the link for requesting one's DD214, 4/10 participants stated that that one affordance was the most important thing on the Military Information page:
 
