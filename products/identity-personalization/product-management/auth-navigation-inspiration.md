@@ -2,8 +2,23 @@
 
 In the event we eventually do a comparative analysis on authenticated IA or navigation patterns, these are some sites that might be worth looking at:
 
+## Without login
+
 - [Kansas City Missouri](https://www.kcmo.gov/home)
   - "I want to..." nav
+
+## With login
+
+### Questions for sites with login:
+
+- How different are the logged-out/logged-in navs?
+- In the logged-in state, how easy is it to find (what you would assume to be) top tasks?
+- What can you do logged-in that you can not do logged out?
+- If you needed something in the logged-out state, how would you get back to it? How easy/hard does that feel?
+
+### Examples
+
 - [Github](https://github.com/)
   - Personalized menu
   - Left nav in the profile (via "Your Organizations")
+- [California DMV](https://www.dmv.ca.gov/portal/)
