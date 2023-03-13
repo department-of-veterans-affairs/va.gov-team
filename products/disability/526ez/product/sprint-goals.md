@@ -3,20 +3,35 @@
 ## Sprint 0
 Period - 03/01/2023 - 03/14/2023
 ### Sprint goals
-- [ ] Complete sprint team norming and draft agreements on
-   - [ ] Cadence for scrum ceremonies 
-   - [ ] What to include/exclude for each ceremony
-   - [ ] Relative sizing estimates
-   - [ ] Definition of Ready(DoR) and Definition of Done(DoD)
-   - [ ] Team communication norms
-- [ ] Complete spike for common framework for eVSS endpoint migration with the following outcome
-   - [ ] Working software that can be used to implement a single endpoint migration
-   - [ ] Identify what else is needed for endpoint migration framework
-   - [ ] Starting technical discovery on the date of claim bug
-   - [ ] Do we think we have capacity/time to take on the rated disabilities endpoint migration?
+- [x] Complete sprint team norming and draft agreements on
+   - [x] Cadence for scrum ceremonies 
+   - [x] What to include/exclude for each ceremony
+   - [x] Relative sizing estimates
+   - [x] Definition of Ready(DoR) and Definition of Done(DoD)
+   - [x] Team communication norms
+   - [Team norms mural board link](https://app.mural.co/t/agilesixapplications0942/m/agilesixapplications0942/1676581509383/4d94293dcf22719dc7ba6267740466fb2f172c93?sender=u1dc3a1dc47390e0b38d61593)
+- [ ] Engineering work
+   - [ ] Complete spike for common framework for eVSS endpoint migration with the following outcome
+    - [ ] Working software that can be used to implement a single endpoint migration <br>
+          -  
+    - [ ] Identify what else is needed for endpoint migration framework <br>
+          -  
+    - [ ] Starting technical discovery on the date of claim bug <br>
+          -  Not started 
+          -  EKS migration effort was discovered mid-sprint and took priority over working on this issue
+    - [ ] Do we think we have capacity/time to take on the rated disabilities endpoint migration? <br>
+          -  Was not started due lack of time
+    - [ ] Work taken on mid-sprint  <br>
+          - EKS Migration endpoint testing in staging  <br>
+              -  
  - [ ] Research Discovery
    - [ ] Identify ideas for improvement for core submission as identified by existing research 
-   - [ ] Work with product/team to priortize these ideas and break them down for future work
-   - [ ] Get the ideas as user stories in the product backlog
    - [ ] Research around 526 form validation problem
-   - [ ] Do we think we have time/capacity to start looking at what we need from analytics?
+   - [ ] Work with product/team to priortize these ideas and break them down for future work <br>
+         - Not started  <br>
+         - Blocker - not able to meet with PO and stakeholders to review 
+   - [ ] Get the ideas as user stories in the product backlog  <br>
+         - Not started  <br>
+         - Dependency - Review ideas from reserach dicsovery with PO and stakeholders  <br>
+   - [ ] Do we think we have time/capacity to start looking at what we need from analytics?  <br>
+         - Not started
