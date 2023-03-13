@@ -28,54 +28,54 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 
 |Category | Data field | Suggested label | USCDI v1 data element mapping|Notes | Questions |
 |:----------------|:-------------|:----------------|:--------|:------------------|:--------------------|
-|All |Category |Type of test | ||Do patients need the type in addition to the specific test name in the list view? Or could we remove this?|
+|All |Lab type |Type of test | _None_||Do patients need the type in addition to the specific test name in the list view? Or could we remove this?|
 |All|Title of lab report (if available)|Test (suggest using this without a label as the card header in list, H1 in detail) |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|If there's no title/test name available, we could conditionally display the type of test as the card header in list, H1 in detail. Hopefully this is rare. |
-|All|Date collected |Date ||Challenging to find a single date label that works for all categories. "Date collected" or "Date you gave the sample" doesn't make sense for radiology or EKG. "Date you got the test" doesn't quite make sense for pathology. A shorter field label is also better for the card format in list view.| Would we want to map several fields from different categories into a single "Date" field for the list view, but label them differently in the detail views where we have additional date fields? So all "Date collected" "Date obtained" "Date performed" fields would map to "Date" in list view. Or would we want the labels to stay consistent between list and detail views, even if this means several longer "Date" labels on cards in the list?|
-|All|Ordering provider |Provider||Similar to previous line about dates — for space on the cards, "Provider" works better in list view. But we need to differentiate provider type in detail view.| Is this different mapping for list and detail view acceptable?|
+|All|Date collected |Date |_None_|Challenging to find a single date label that works for all categories. "Date collected" or "Date you gave the sample" doesn't make sense for radiology or EKG. "Date you got the test" doesn't quite make sense for pathology. A shorter field label is also better for the card format in list view.| Would we want to map several fields from different categories into a single "Date" field for the list view, but label them differently in the detail views where we have additional date fields? So all "Date collected" "Date obtained" "Date performed" fields would map to "Date" in list view. Or would we want the labels to stay consistent between list and detail views, even if this means several longer "Date" labels on cards in the list?|
+|All|Ordering provider |Provider|_None_|Similar to previous line about dates — for space on the cards, "Provider" works better in list view. But we need to differentiate provider type in detail view.| Is this different mapping for list and detail view acceptable?|
 |Radiology|Procedure/test name |Test |[Diagnostic imaging test](https://www.healthit.gov/isa/taxonomy/term/2466/uscdi-v2)||Is this the same as "Title of lab report" in the All category above?|
-|Radiology|Date/time exam performed |Date you got the test ||
-|Radiology|Ordering location| Where the test order started ||
-|Radiology|Requesting provider| Provider who ordered the test | || | In Chem/Hem and Microbio, the field is labeled “Ordering Provider”. Should this change?|
-|Radiology|Reason for study| Reason for the test ||
-|Radiology|Performing location| Where you got the test ||
-|Radiology|Clinical history| || | | What does this mean? Is this medical history related to the reason for this test? |
-|Radiology|Radiologist|
+|Radiology|Date/time exam performed |Date you got the test |_None_|
+|Radiology|Ordering location| Where the test order started |_None_|
+|Radiology|Requesting provider| Provider who ordered the test | _None_| | In Chem/Hem and Microbio, the field is labeled “Ordering Provider”. Should this change?|
+|Radiology|Reason for study| Reason for the test |_None_|
+|Radiology|Performing location| Where you got the test |_None_|
+|Radiology|Clinical history| |_None_| | What does this mean? Is this medical history related to the reason for this test? |
+|Radiology|Radiologist||_None_|
 |Radiology|Report| |[Diagnostic imaging report](https://www.healthit.gov/isa/taxonomy/term/2471/uscdi-v2)| || |What does this mean? Is this equivalent to "Results" for other categories?|
 | | | |[Imaging Narrative](https://www.healthit.gov/isa/taxonomy/term/2876/uscdi-v1) |USCDI groups this under Clinical Notes|Is this an additional field we need to add in Radiology, in addition to "Report"? Or is the narrative included in the report?|
-|Chemistry/hematology|Lab test name (if avail)| Test (suggest using without label as card header in list, H1 in detail) |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|Chem/Hem includes subtests or specific tests within a test panel. This seems to be the panel field like "complete blood count" with specific tests like "white blood cells" nested in each panel.|Does USCDI include a panel element anywhere? Or do we map both the panel and the subtests to "Tests" in USCDI?|
-|Chemistry/hematology|Date/time collected| Date and time you gave the sample |
-|Chemistry/hematology|Specimen| Sample tested |
-|Chemistry/hematology|Test-name| Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
-|Chemistry/hematology|Test-results| Results |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|
-|Chemistry/hematology|Test-Units| Units | || Can we remove the "Units" field, and add the units to the result and reference range?|
-|Chemistry/hematology|Test-Reference range| Standard range |||Does the reference range adjust based on patient demographics or conditions?|
-|Chemistry/hematology|Test-Status| | || Under what circumstances would "status" be anything other than final? Can we remove this field?|
-|Chemistry/hematology|Test-Performing location| Lab that analyzed the sample|||Is this suggested label correct — does "performing location" mean the lab that analyzed the sample? |
-|Chemistry/hematology|Test-Interpretation| | || What types of information does this include? What guidance do providers see for field? <br> Who inputs this and the comments field? Ordering provider? PC? Lab technician? We don't want the user to think they can add their own comments.|
-|Chemistry/hematology|Ordering provider| Provider who ordered the test |
-|Chemistry/hematology|Ordering location| Where the test order started |
-|Chemistry/hematology|Collected location| Where you gave the sample |
-|Chemistry/hematology|Comments| | ||How is this different from Interpretation field? |
-|Chemistry/hematology|Performing Location| Lab that analyzed the sample | || It seems that this field is referring to the overall lab results, and not related to individual tests. If all of the tests were performed in other locations, what is this field referring to?|
-|Microbiology|Lab type | | || What types can you choose from here? A: The value will always be "Microbiology" |
+|Chemistry/hematology|Lab test| Lab test (suggest using without label as card header in list, H1 in detail) |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|Chem/Hem includes subtests or specific tests within a test panel. This seems to be the panel field like "complete blood count" with specific tests like "white blood cells" nested in each panel.|Does USCDI include a panel element anywhere? Or do we map both the panel and the subtests to "Tests" in USCDI?|
+|Chemistry/hematology|Date/time collected| Date and time you gave the sample |_None_|
+|Chemistry/hematology|Specimen| Sample tested |_None_|
+|Chemistry/hematology|Test name [for specific test]| Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
+|Chemistry/hematology|Results [for specific test]| Results |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|
+|Chemistry/hematology|Units [for specific test]| Units | _None_|| Can we remove the "Units" field, and add the units to the result and reference range?|
+|Chemistry/hematology|Reference range [for specific test]| Standard range |_None_||Does the reference range adjust based on patient demographics or conditions?|
+|Chemistry/hematology|Status [for specific test]| |_None_ || Under what circumstances would "status" be anything other than final? Can we remove this field?|
+|Chemistry/hematology|Performing location [for specific test]| Lab that analyzed the sample|_None_||Is this suggested label correct — does "performing location" mean the lab that analyzed the sample? |
+|Chemistry/hematology|Interpretation [for specific test]| |_None_ || What types of information does this include? What guidance do providers see for field? <br> Who inputs this and the comments field? Ordering provider? PC? Lab technician? We don't want the user to think they can add their own comments.<br> Is interpretation of lab results included in the Values/Results USCDI field?|
+|Chemistry/hematology|Ordering provider| Provider who ordered the test |_None_|
+|Chemistry/hematology|Ordering location| Where the test order started |_None_|
+|Chemistry/hematology|Collected location| Where you gave the sample |_None_|
+|Chemistry/hematology|Comments| | _None_||How is this different from Interpretation field? |
+|Chemistry/hematology|Performing Location| Lab that analyzed the sample |_None_ || It seems that this field is referring to the overall lab results, and not related to individual tests. If all of the tests were performed in other locations, what is this field referring to?|
+|Microbiology|Lab type | |_None_ || What types can you choose from here? A: The value will always be "Microbiology" |
 |Microbiology|Lab test (aka name, not always present)| Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
-|Microbiology|Date collected| Date you gave the sample |
-|Microbiology|Date completed (not always present)| Date completed |
+|Microbiology|Date collected| Date you gave the sample |_None_|
+|Microbiology|Date completed (not always present)| Date completed |_None_|
 |Microbiology|Results| Results |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|
-|Microbiology|Site/specimen (not always present)| Sample tested |
-|Microbiology|Ordering provider| Provider who ordered the test |
-|Microbiology|Ordering location| Where the test order started|
-|Microbiology|Collected location| Where you gave the sample |
+|Microbiology|Site/specimen (not always present)| Sample tested |_None_|
+|Microbiology|Ordering provider| Provider who ordered the test |_None_|
+|Microbiology|Ordering location| Where the test order started|_None_|
+|Microbiology|Collected location| Where you gave the sample |_None_|
 |Pathology|Type of report (surgical pathology/cytology)| Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
 |Pathology|Specimen| Sample tested ||
-|Pathology|Date obtained| Date you gave the sample | ||Does "gave" work in this context? This may happen in the context of surgery, etc, as opposed to going to a lab to give blood|
-|Pathology|Performing location| Lab that analyzed the sample |
-|Pathology|Date completed| Date completed |
+|Pathology|Date obtained| Date you gave the sample | _None_||Does "gave" work in this context? This may happen in the context of surgery, etc, as opposed to going to a lab to give blood|
+|Pathology|Performing location| Lab that analyzed the sample |_None_|
+|Pathology|Date completed| Date completed |_None_|
 |Pathology|Report| |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|| Does pathology report map to Values/Results in the USCDI Laboratory category? Or is "Pathology Report Narrative" the correct mapping?|
 | | | |[Pathology Report Narrative](https://www.healthit.gov/isa/taxonomy/term/2886/uscdi-v1)|USCDI groups this in Clinical Notes|
 |EKG|Procedure/test name| Test |[Clinical test](https://www.healthit.gov/isa/taxonomy/term/2456/uscdi-v2) |For this category, this field will always read "Electrocardiogram (EKG)". This USCDI data element applies to "non-imaging and non-laboratory tests." USCDI also includes [Clinical test result/report](https://www.healthit.gov/isa/taxonomy/term/3166/uscdi-v2). This seems to be missing from our EKG fields.|
-|EKG|Date/time performed| Date and time of the test |
-|EKG|Ordering location| Where the test order started |
+|EKG|Date/time performed| Date and time of the test |_None_|
+|EKG|Ordering location| Where the test order started |_None_|
 
 ## Lab types
 |Lab type | Suggested label | Notes             | Questions           |
