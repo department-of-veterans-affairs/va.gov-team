@@ -569,6 +569,7 @@ Veterans are eligible for benefits based on a complex matrix of factors includin
 * Current income limits information (that will be handled by the new web app): [https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits)
 
 **More info:**
+* [Income Limits App product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/income-limits-app) in Github
 * A6 program GDrive folder: [Benefits Eligibility Tool](https://drive.google.com/drive/u/1/folders/1FvuprvP7-6tpn8jrctRrms8MTOqPvuAL)
 * A6 program GDrive folder: [Income limits](https://drive.google.com/drive/u/1/folders/1uwHUEe8UBHST-didMR68Xfaud-BaI0iJ)
 * **Q3 2022 project:** [Income limits web app: Discovery, Design, prototype, user research #9626](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9626)  
