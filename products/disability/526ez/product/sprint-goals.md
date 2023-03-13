@@ -26,12 +26,16 @@ Period - 03/01/2023 - 03/14/2023
               -  
  - [ ] Research Discovery
    - [ ] Identify ideas for improvement for core submission as identified by existing research 
-   - [ ] Research around 526 form validation problem
+   - [ ] Research around 526 form validation problem <br>
+         - Researched top 5 errors based on # of occurances  <br>
+         - Identified potential causes of errors and whether they are in this team's control for remediation <br>
+         - Will require current data pull to understand what error types are still an issue <br>
+         - Will need tickets for researching/fixing individual error types based on the new report <br>
    - [ ] Work with product/team to priortize these ideas and break them down for future work <br>
          - Not started  <br>
-         - Blocker - not able to meet with PO and stakeholders to review 
+         - Blocker - not able to meet with PO and stakeholders to review  <br>
    - [ ] Get the ideas as user stories in the product backlog  <br>
          - Not started  <br>
          - Dependency - Review ideas from reserach dicsovery with PO and stakeholders  <br>
    - [ ] Do we think we have time/capacity to start looking at what we need from analytics?  <br>
-         - Not started
+         - Did not pull in this work 
