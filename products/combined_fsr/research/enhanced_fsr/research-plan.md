@@ -1,4 +1,4 @@
-# Research Plan for Research Plan for The Debt Resolution Team (Benefits Team 2), Enhanced Financial Status Report  (VA Form 5655)
+# Research Plan for The Debt Resolution Team (Benefits Team 2), Enhanced Financial Status Report (VA Form 5655)
 
 ## Background
 
