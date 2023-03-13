@@ -25,6 +25,7 @@ Note: AWS access can be granted once the EQIP has been submitted _before the PIV
 - [ ] Ensure you're in Github Teams 
   - [vets-gov-write](https://github.com/orgs/department-of-veterans-affairs/teams/vets-gov-write) - Grants access to these repos | [vets-website](https://github.com/department-of-veterans-affairs/vets-website), [content-build](https://github.com/department-of-veterans-affairs/content-build/), [devops](https://github.com/department-of-veterans-affairs/devops), [vets-api](https://github.com/department-of-veterans-affairs/vets-api)
   - [vsp-operations](https://github.com/orgs/department-of-veterans-affairs/teams/vsp-operations) _DevOps Only_
+  - Check with your PM for any specific GH teams you may need to be added to
 - [ ] DSVA Slack Workspace
   - [ ] #platform-cop-(frontend? devops?)
   - [ ] #platform-team
