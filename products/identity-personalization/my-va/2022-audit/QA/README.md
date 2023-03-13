@@ -57,7 +57,7 @@ We need to test all 34 test cases across the devices, operating systems, and bro
 ## Findings Summary
 | Test case No. |    Finding       | Device  | Operating System| Browser |Reporter | Resolution Ticket(s)| Status |
 |---------------|------------------|---------|-----------------|---------|---------|---------------------|--------|
-| 10 | Claims and appeals: Copy update to error message - should read "We can't access your claims or appeals information" | all | both | all | Allison | [54379](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54379) | Sprint 5 |
+| 10 | Claims and appeals: Copy update to error message - should read "We can't access your claims or appeals information" | all | both | all | Allison | [54379](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54379) | Sprint 5 - resolved |
 | 15 | Health care: Copy is wrong in error message; secondary links appear when they shouldn't | Macbook & iphone| iOS | Chrome, Edge, Firefox, Safari| Allison | [54384](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54384) | Sprint 5 |
 | 15 | Health care: section disappears | Macbook | iOS | Safari | Allison | [54386](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54386) | Sprint 5 - closed |
 | 16 | Health care: Appointments API error with unread messages: User sees alert for unread messages, error, but no secondary links display when they should | All | All | All | Allison | [54437](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54437) | Sprint 5 |
