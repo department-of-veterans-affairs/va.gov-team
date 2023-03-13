@@ -6,8 +6,6 @@ Date: March 6, 2023
 
 Florence McCafferty, florence.mccafferty@agile6.com
 
-[Research readout PDF]
-
 **Jump to:**
 * [Hypotheses and conclusions](#hypotheses-and-conclusions)
 * [Key findings](#key-findings)
