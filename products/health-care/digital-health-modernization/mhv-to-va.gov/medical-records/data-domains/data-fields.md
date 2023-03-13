@@ -160,7 +160,7 @@ USCDI mapping concerns: v1 maps the actual vital signs, not the data elements fo
 
 |Data field       | Description           | Suggested label | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
-|Category name | 
+|Vital sign | 
 |Latest reading |
 |Date of latest reading |
 |Location of latest reading |
@@ -168,3 +168,16 @@ USCDI mapping concerns: v1 maps the actual vital signs, not the data elements fo
 |Date of entry |
 |Location of entry |
 |Comments |
+
+## Vital sign types
+
+|Vital sign       | Suggested label           | USCDI v1 data element mapping | Notes             | Questions           |
+|:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
+| | |[Systolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/836/uscdi-v1)|||
+| | |[Diastolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/831/uscdi-v1)| | |
+| | |[Respiratory rate](https://www.healthit.gov/isa/taxonomy/term/856/uscdi-v1)| | |
+| | |[Body temperature](https://www.healthit.gov/isa/taxonomy/term/861/uscdi-v1)| | |
+| | |[Body height](https://www.healthit.gov/isa/taxonomy/term/841/uscdi-v1)| | |
+| | |[Body weight](https://www.healthit.gov/isa/taxonomy/term/846/uscdi-v1)| | |
+| | |[Pulse oximetry](https://www.healthit.gov/isa/taxonomy/term/866/uscdi-v1)| | |
+
