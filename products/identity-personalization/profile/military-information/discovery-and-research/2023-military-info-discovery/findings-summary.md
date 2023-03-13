@@ -79,7 +79,8 @@ Another 2/10 participants discussed having their dates and other service history
 >"Some of the information, dates of service, are pretty much memorized. Awards I've received are pretty much memorized but training dates, those are not memorized. Different assignments that I've had over 26 years ago... [trails off]"
 
 ### Most participants (at least 6/10) believe that they need their DD214 (not just the information on it) to apply for any VA benefit or service.
-The common sentiment among most participants was: >"If you're applying for something, like veterans' services, you have to show your DD214 to prove that you're a Veteran."
+The common sentiment among most participants was: 
+>"If you're applying for something, like veterans' services, you have to show your DD214 to prove that you're a Veteran."
 
 Participants that stated they needed a copy of their DD214 to apply for a VA benefit had applied for the following specific VA benefits: 
 - disability (3 participants)
