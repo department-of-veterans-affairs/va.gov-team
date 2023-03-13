@@ -28,9 +28,9 @@ Period - 03/01/2023 - 03/14/2023
    - [x] Team communication norms
    - [Team norms mural board link](https://app.mural.co/t/agilesixapplications0942/m/agilesixapplications0942/1676581509383/4d94293dcf22719dc7ba6267740466fb2f172c93?sender=u1dc3a1dc47390e0b38d61593)
 - [ ] Engineering work
-   - [ ] Complete spike for common framework for eVSS endpoint migration with the following outcome
-    - [ ] Working software that can be used to implement a single endpoint migration <br>
-          -  
+   - [ ] Complete spike for common framework for eVSS endpoint migration with the following outcome <br>
+         - Working software that can be used to implement a single endpoint migration <br>
+         - 
     - [ ] Identify what else is needed for endpoint migration framework <br>
           -  
     - [ ] Starting technical discovery on the date of claim bug <br>
