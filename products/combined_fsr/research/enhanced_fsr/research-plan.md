@@ -2,44 +2,31 @@
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-*Previous Research:  [Financial Status Report MVP Usability Test Readout - March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/research/mar-2021/readout.md) 
-
-*Previous Research: [Financial Status Report MVP Usability Test Readout - March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/research/mar-2021/readout.md)
-
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/FSR-Product-Outline.md)
 
 There are multiple resolution pathways a Veteran can select when resolving their benefit debt and now copay payments, including: requesting an extended payment plan, submitting a compromise offer, or asking for a waiver. All of these options require the submission of a Financial Status Report (VA Form 5655), which captures a monthly snapshot of the Veteran's household income and expenses. Veterans often struggle to include all the information needed to accurately represent their financial situation, including duplicating information.
 
 The Enhanced FSR addresses issues that were mainly found during the last usability study and since the initial VBA launch on November 16, 2021 include the following:
 
 -   Switching from card format to a more minimalist and easy to understand format when presenting debt/copay bills to users.  
-    [Select debt/copay: after | before](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/images/debt-cards-update.png?raw=true)
+    -   [Select debt/copay: after | before](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/images/debt-cards-update.png?raw=true)
     
 -   Allow Veterans to update phone number and address in addition to mailing address.  
-    [Contact info: after | before](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/images/contact-info-update.png?raw=true)
+    -   [Contact info: after | before](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/images/contact-info-update.png?raw=true)
     
 -   Improvements were made to list loops as the previous usability study showcased how Veterans had difficulty utilizing the list loop when it was presented as a dropdown. The updates also address accessibility issues that the dropdown version of the list loop had. List loops appear when entering employment and other income for themselves and their spouse, dependents, household assets, household expenses.  
       
-    [Employment: after | before  
-      
-    ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/images/job-listloops-update.png?raw=true)[Dependents: after | before  
-      
-    ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/images/dependents-update.png?raw=true)
+    -   [Employment: after | before](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/images/job-listloops-update.png?raw=true)
     
-Ensure resolution options are easier for Veterans to understand.  
-  
-[Resolution options: after | before](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/images/resolution-updates.png?raw=true)
+    -   [Dependents: after | before](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/images/dependents-update.png?raw=true)
+    
+-   Ensure resolution options are easier for Veterans to understand.  
+	-   [Resolution options: after | before](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/images/resolution-updates.png?raw=true)
 
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+Previous Research:  [Financial Status Report MVP Usability Test Readout - March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/research/mar-2021/readout.md) 
 
-[Link to product brief](url goes here).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/FSR-Product-Outline.md)
 
 ### OCTO Objectives 
-
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) 
 
 This research supports these main [OCTO objectives and goals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme):
 
@@ -80,57 +67,24 @@ What are you trying to learn from this research?
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
--   Are Veterans able to easily edit their [contact information](https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4#/pages/147887481/comment/no-panels?mode=i) on FSR?
-    
+- **Confirm that enhanced FSR updates are easy to use:**
+	-   Are Veterans able to easily edit their contact information on FSR?
 
--   Do they understand updates will only be applied to this request?
-    
+	-   Are Veterans able to easily select a debt/copay bill?
 
--   Are Veterans able to easily select a debt/copay bill?
+	-   Are Veterans able to update their VA Benefits information?
     
--   Do Veterans understand the resolution options?
+	-   Do Veterans understand the resolution options?
     
--   Is the [new list & loop](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/25881) design easy for Veterans to utilize?
+	-   **Is the [new list & loop](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/25881) design easy for Veterans to utilize?**
     
+		##### Definition: List loops as we are defining them:
 
--   List of updated screens:
-    
--   [Veteran's employment history](https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4#/pages/145842695/comment/no-panels?mode=i)
-    
--   [Veteran's other income](https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4#/pages/146220344/comment/no-panels?mode=i)
-    
--   [Spouse's employment history](https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4#/pages/145868493/comment/no-panels?mode=i)
-    
--   [Dependents](https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4#/pages/145022114/comment/no-panels?mode=i)
-    
--   [Financial assets](https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4#/pages/145084977/comment/no-panels?mode=i)
-    
--   [Real estate](https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4#/pages/146385053/comment/no-panels?mode=i)
-    
--   [Vehicles](https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4#/pages/145354965/comment/no-panels?mode=i)
-    
--   [Trailers, campers, boats](https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4#/pages/145355886/comment/no-panels?mode=i)
-    
--   [Other assets](https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4#/pages/145084980/comment/no-panels?mode=i)
-    
--   [Household expenses](https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4#/pages/145022052/comment/no-panels?mode=i)
-    
--   [Utility bills](https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4#/pages/145111152/comment/no-panels?mode=i)
-    
--   [Credit card bills](https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4#/pages/145377491/comment/no-panels?mode=i)
-    
--   [Other debts](https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4#/pages/145482543/comment/no-panels?mode=i)
-    
--   [Other living expenses](https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4#/pages/146358669/comment/no-panels?mode=i)
-
-##### Definition: List loops as we are defining them:
-
-The selection process by which a Veteran selects sub-categories of an overall category and sees screens that reflect their selection.
+		The selection process by which a Veteran selects sub-categories of an overall category and sees screens that reflect their selection.
 
 ### Secondary research goals:
 
-
-1.  Understand Veterans subjective experience with the form and the amount of effort (satisfaction)
+-   Understand Veterans subjective experience with the form and the amount of effort (satisfaction)
 
 -   Veterans feel confident and comfortable with the form (subjective experience)
 
@@ -142,48 +96,39 @@ How will this research advance your product to the next phase in the design proc
 2.  Compile a new list of possible updates for future iterations of FSR.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
+*Consider bucketing research questions under research goals. For each question, think about:
 - What will I do with what I learn from this question?
 - Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)*
 
-1.    
-    Do Veterans know what this form is for – do they understand it is for benefits overpayment and medical copays?  (comprehension)
+1.  Do Veterans know what this form is for – do they understand it is for benefits overpayment and medical copays?  (comprehension)
     
 2.  Do Veterans understand each resolution option? (comprehension)
     
 3.  What do Veterans expect to happen after they submit/complete their request? (comprehension)
-    
-
--   What communications do Veterans expect to receive about their request?
+    	-   What communications do Veterans expect to receive about their request?
     
 
 4.  Do Veterans understand what assets and expenses to include in each section? (comprehension)
-    
-
--   Does clarifying content in the “Real Estate” and “Vehicle” section help Veterans understand what kind of property and vehicles to include?
+    	-   Does clarifying content in the “Real Estate” and “Vehicle” section help Veterans understand what kind of property and vehicles to include?
     
 
 5.  How understandable is the new list loop format, UI, and UX? (usability)
+    	-   How learnable is it?
     
-
--   How learnable is it?
+	-   What do Veterans think of the options (presented as checkmarks) on the new list loop?
     
--   What do Veterans think of the options (presented as checkmarks) on the new list loop?
-    
--   Are Veterans able to add custom items using the “Add additional …” action link?
+	-   Are Veterans able to add custom items using the “Add additional …” action link?
     
 
 6.  How understandable are other non-list loop specific changes? (usability)
     
-
--   Do Veterans prefer entering income as monthly, biweekly, weekly?
+	-   Do Veterans prefer entering income as monthly, biweekly, weekly?
     
 
 7.  How do Veterans feel about the amount of effort this form requires? (satisfaction)
     
-
--   Are Veterans overwhelmed by the amount of pages on this form?
+	-   Are Veterans overwhelmed by the amount of pages on this form?
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
@@ -211,7 +156,7 @@ What do you intend to learn and measure from this study? Think through these pro
 11.  Veterans will understand the resolution options but will have questions on how their selection is handled
 
 ## Method	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+*Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*
 
 This moderated usability study will be conducted remotely via Zoom with some participants that are sighted, visually impaired, and use assistive technology.
 
@@ -226,8 +171,10 @@ Remote - on Zoom.
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 -   [Conversation guide](https://docs.google.com/document/d/1mzaBaPrwa6o5QDTtJhxJhetDYZ7x8WhRQZ10yCSt8mM/edit#)
-    
--   [prototype](https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4)
+  
+-  [FSR form on VA.gov](http://va.gov/manage-va-debt/request-debt-help-form-5655/)
+  
+-   [UXPin prototype (backup in case participant is unable to use VA.gov]([https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4](https://preview.uxpin.com/f43733391f52c409c4d3152e9a4b101a392e29df#/pages/161460688/simulate/sitemap?mode=f))
 	
 ## Recruitment	
 
@@ -279,7 +226,7 @@ What demographics, experience, and scenarios do you need participants to meet to
     
 -   #### All participants must be Veterans
     
--   #### All have a computer, tablet, or smartphone and be willing to be complete their session on one of those devices
+-   #### All have a computer or smartphone and be willing to be complete their session on one of those devices
     
 
 -   #### During the session, be willing to share a web browser window on their device
@@ -293,7 +240,6 @@ What demographics, experience, and scenarios do you need participants to meet to
     
 -   50% of participants should complete the session on a desktop computer.
     
--   At least 1-2 assistive technology users (user with low vision, or user of hearing aide, user who uses voice over)
     
 -   #### All participants must be LOA3 (identity verified) on VA.gov. Participants will likely not know what this means, so please confirm this prior to testing. This can be confirmed by having users sign into VA.gov and having them go to the VA.gov profile. If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. If they can see the profile, they are LOA3 and can participate in testing.
     
