@@ -90,7 +90,7 @@ Let’s start with a few questions...
 
 6. What do you believe you are supposed to be able to do here? 
 
-7. What would you expect to be able to do or find if you clicked on the link "Download my. medical record (Blue Button)"? _(Read Health Records section options aloud for participants using screenreaders to save them having to find the section.)_
+7. What would you expect to be able to do or find if you clicked on the link "Download my medical record (Blue Button)"? _(Read Health Records section options aloud for participants using screenreaders to save them having to find the section.)_
 
 8. What about "Health history" - what do you think you would find if you clicked on that link?
 
