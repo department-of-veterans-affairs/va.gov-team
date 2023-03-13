@@ -160,7 +160,7 @@ After viewing the Military Information section of the Profile, and having seen t
 
 "Request your DD214 right there, that's perfect. And that's what most guys are commonly doing."
 
-### Participants do not think of the VA Profile as a potential place to access their service history information.
+### Participants do not think of the VA.gov Profile as a potential place to access their service history information.
 3/10 participants said that they might expect to find their DD214 on eBenefits. At least 2/10 participants would start with the VA.gov search bar to find information about their service history. 
 
 ### Participants are confused about the service dates that show up in the Military Information section of their Profile.
