@@ -50,6 +50,10 @@ Attended a big meeting or small group? Lurk on our slack channel? Then you're _o
 - lydia.hooper@agile6.com, [LinkedIn](https://www.linkedin.com/in/lydiahooper)
 - I want to be part of mutual care and mutual growth, to contribute to cultivating spaces that reduce harm and foster repair, and to center and uplift the voices and experiences of folks who are most impacted by design outcomes.
 
+**Brittany Iannuzzi**, Researcher, VES Eligibility & Enrollment
+- bri.iannuz@gmail.com, [LinkedIn](https://www.linkedin.com/in/brittanyiannuzzi/)
+- Veterans deserve services that acknowledge the trauma they've been through - not only in service, but in their separation from service, life since separation, and relationship to the VA. I'm hoping that this community will help me better support Veterans in difficult interviews, and help me support my team through challenging research sprints.
+
 <hr/>
 
 ### Facilitators 👐
