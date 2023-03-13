@@ -73,7 +73,8 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |Pathology|Date completed| Date completed |_None_|
 |Pathology|Report| |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|| Does pathology report map to Values/Results in the USCDI Laboratory category? Or is "Pathology Report Narrative" the correct mapping?|
 | | | |[Pathology Report Narrative](https://www.healthit.gov/isa/taxonomy/term/2886/uscdi-v1)|USCDI groups this in Clinical Notes|
-|EKG|Procedure/test name| Test |[Clinical test](https://www.healthit.gov/isa/taxonomy/term/2456/uscdi-v2) |For this category, this field will always read "Electrocardiogram (EKG)". This USCDI data element applies to "non-imaging and non-laboratory tests." USCDI also includes [Clinical test result/report](https://www.healthit.gov/isa/taxonomy/term/3166/uscdi-v2). This seems to be missing from our EKG fields.|
+|EKG|Procedure/test name| Test |[Clinical test](https://www.healthit.gov/isa/taxonomy/term/2456/uscdi-v2) |For this category, this field will always read "Electrocardiogram (EKG)"|
+| | | |[Clinical test result/report](https://www.healthit.gov/isa/taxonomy/term/3166/uscdi-v2)||Do our EKG records include results/reports as in USCDI? Are there any other types of "clinical tests" besides EKGs we need to account for that are **not** lab or imaging tests?|
 |EKG|Date/time performed| Date and time of the test |_None_|
 |EKG|Ordering location| Where the test order started |_None_|
 
