@@ -109,7 +109,9 @@ We're going to run through a series of tasks related to managing your health car
 
 ## Task 1: Find the appointments list.
 
-Say you wanted to find out what health appointments you have scheduled for the next month. Show me how you would find that from here.
+STARTING POINT: staging.va.gov
+
+PROMPT: Say you wanted to find out what health appointments you have scheduled for the next month. Show me how you would find that from here.
 
 ## Task 2: Log in to VA.gov
 
