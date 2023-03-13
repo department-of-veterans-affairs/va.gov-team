@@ -125,6 +125,11 @@ Ask Perigean to recruit **8 Veterans and 3 caregivers** of Veterans who meet the
 
 1. What time zone are you located in? *(RECORD)*
 
+1. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure our feedback sessions include representative sample populations.
+     1. No  
+     1. Yes *(RECRUIT 2)*
+
+
 ## Timeline
 
 ### Prepare
