@@ -19,6 +19,5 @@ In the event we eventually do a comparative analysis on authenticated IA or navi
 ### Examples
 
 - [Github](https://github.com/)
-  - Personalized menu
-  - Left nav in the profile (via "Your Organizations")
 - [California DMV](https://www.dmv.ca.gov/portal/)
+- [IRS](https://www.irs.gov/)
