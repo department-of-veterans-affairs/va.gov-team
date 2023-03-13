@@ -135,8 +135,8 @@ Before recruitment starts, I would like to **request a kickoff call with Perigea
 **Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so I can review it beforehand.
 
 I have scheduled the following two **pilot tests**:
-- Pilot 1: **Mar 13 at 4 pm ET** with Katie Riddle (katherine.riddle@adhocteam.us)
-- Pilot 2: **Mar 14 at 5 pm ET** with Greg Monahan (greg.monahan@adhocteam.us)
+- Pilot 1: **Mar 14 at 5 pm ET** with Greg Monahan (greg.monahan@adhocteam.us)
+- Pilot 2: **Mar 15 at 11:30 am ET** with Katie Riddle (katherine.riddle@adhocteam.us)
 
 ### Research sessions
 * Planned dates of research: **April 5-12, 2023** 
