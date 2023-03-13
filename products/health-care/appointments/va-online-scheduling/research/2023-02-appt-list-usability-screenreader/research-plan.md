@@ -63,15 +63,12 @@ We will use the findings to:
 
 ### Hypotheses
 
-<!-- "The appointment list screenreader" I'm not sure what you mean here. Maybe "When a Veteran uses a screenreader to navigate the appointments list"? -->
 When Veterans use a screenreader on the appointment list:
 
--   They will be able to easily navigate their appointments easily.
--   They will be able to find the information they need to attend/join their appointments
+-   They will be able to easily navigate their appointments.
+-   They will be able to find the information they need to attend/join their appointments.
 
 ### Research Questions
-
-<!-- These questions are all focused on usability. If you want to get at value, maybe add one at the end like, "have you/would you ever use this tool to manage or view your appointments?" -->
 
 **Evaluate screenreader usability and value of the appointment list redesign.**
 
@@ -96,7 +93,7 @@ Remote, over Zoom.
 For moderated usability test 
 - [Conversation guide](conversation-guide.md)
 
-- [Staging Link]() TBA
+- [Staging Link]() [TBD]
 
 
 Recruitment
@@ -150,11 +147,12 @@ No more than 3 sessions per day
 Team roles
 ----------
 
--   Moderator: Peter Russo and Ciera Maddox
+-   Moderator: Ciera Maddox
+-   Backup moderator: Peter Russo
 -   Research guide writing and task development (usually but not always same as moderator): Peter Russo and Ciera Maddox
 -   Participant recruiting & screening: Perigean
 -   Project point of contact: Ciera Maddox
 -   Participant(s) for pilot test: TBD
--   Note-takers: Gayathri Radhakrishnan, Peter Russo
+-   Note-takers: Peter Russo
 -   Observers: TBD
 
