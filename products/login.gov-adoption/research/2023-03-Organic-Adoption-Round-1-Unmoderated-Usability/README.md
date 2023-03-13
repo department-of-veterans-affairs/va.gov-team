@@ -13,7 +13,7 @@ This study is part of a [staged rollout plan](https://docs.google.com/document/d
 ## Research Goals
 These research goals still need to be agreed upon. They are based on this [staged rollout plan](https://docs.google.com/document/d/1X5A69Jqx4xQyJje3Cwbp8e_aOH7EYS2rjmkWe6_kHiA/edit#heading=h.g5j35d7r1ip0).
 
-- Review whether Veterans need help through account setup and where they go for support
+- Review where Veterans go for support when they face an issue during account setup
 - Review which issues Veterans face during IAL2 account setup and how they describe them to the help desk
 - Review whether Veterans who use screen readers can complete IAL2 account setup
 
