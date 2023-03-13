@@ -89,6 +89,11 @@ For this study we want to talk to Veterans who **currently have an open disabili
 
 ** **KICKOFF CALL WITH PERIGEAN REQUESTED** **
 
+Possible dates/times for kickoff call:
+- Tue, March 14th: 11 AM - 12 PM
+- Wed, March 15th: 2 - 3 PM
+- Thu, March 16th: 10 - 11 AM or 11 AM - 12 PM
+
 **Primary criteria (must-haves)**
 
 We are looking for Veterans who have an open disability compensation claim. They must be willing to log in and share screen, which may contain personal information. They must have an authenticated account that they can log into.
