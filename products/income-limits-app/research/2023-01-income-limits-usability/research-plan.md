@@ -125,6 +125,15 @@ Ask Perigean to recruit **8 Veterans and 3 caregivers** of Veterans who meet the
 
 1. What time zone are you located in? *(RECORD)*
 
+1. Do you have an identified cognitive impairment? 
+     1. No
+     2. Yes *(RECRUIT 4)*
+
+1. I want ALL participants to...
+- Have Zoom downloaded to their smartphone prior to the session and know how to share their screen
+- Be willing to share over Zoom a web browser window on their smartphone
+- Have a working microphone on their smartphone
+
 1. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure our feedback sessions include representative sample populations.
      1. No  
      1. Yes *(RECRUIT 2)*
