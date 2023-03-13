@@ -12,7 +12,7 @@ Time 2-3:00 ET
 
 Sprint Planning Review deck used: Review Sprint Objectives
 
-Zenhub boards used: [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823), Team Boards (FE, BE, QA, Product)
+Zenhub boards used: [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823), [Team Boards](https://github.com/department-of-veterans-affairs/va-mobile-app#workspaces/va-mobile-product-view-610035bc5395bb000e62e529/board) (FE, BE, QA, Product)
 
 
 | Sprint | Date | Sprint Goals/Accomplishments | 
