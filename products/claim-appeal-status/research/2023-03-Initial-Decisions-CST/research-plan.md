@@ -129,9 +129,9 @@ A pilot session is required. Please indicate the date and name of a mock partici
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Skyler Schain, Ruben Sun
+- Moderator: Skyler Schain (skyler@coforma.io) , Ruben Sun (ruben@coforma.io)
 - Research guide writing and task development (usually but not always same as moderator): Skyler Schain, Ruben Sun
 - Participant recruiting & screening: Perigean
 - Project point of contact:	Skyler Schain, Ruben Sun, Jacob Worrell
 - Participant(s) for pilot test: TBD 
-- Observers: Jacob Worrell, Sarah Ortiz Shields, Sam Cormier, Jerek Shoemaker, Jared Cunha, Kevin Duensing, Josh Kim, Eva Floyd
+- Observers: Jacob Worrell (jacob.worrell@adhocteam.us), Sarah Ortiz Shields (sarah.shield@coforma.io) , Sam Cormier (sam.cormier@coforma.io), Jerek Shoemaker (jerek.shoemaker@adhocteam.us), Jared Cunha (jared@coforma.io), Kevin Duensing (kevin.duensing@adhocteam.us), Josh Kim (josh.kim@adhocteam.us), Eva Floyd (eva@coforma.io)
