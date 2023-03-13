@@ -186,4 +186,4 @@ Please list the people who will be serving in each role.
 
 ## Approvals
 - Dave Conlon (PO) on Mar 8, 2023
-- Shane Strassberg on FUTURE DATE TBD
+- Shane Strassberg on Mar 13, 2023
