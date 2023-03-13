@@ -8,6 +8,7 @@
 - [Allergies](#allergies)
 - [Health conditions](#health-conditions)
 - [Vitals](#vitals)
+- [Vital sign types](#vital-sign-types)
 
 
 ## Domains
@@ -171,6 +172,8 @@ USCDI mapping concerns: v1 maps the actual vital signs, not the data elements fo
 
 ## Vital sign types
 
+Note: USCDI also includes 3 vitals for babies and children: BMI (2-20 years), weight-for-length percentile (birth to 36 months), and head circumference (birth to 36 months)
+
 |Vital sign       | Suggested label           | USCDI v1 data element mapping | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
 | | |[Systolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/836/uscdi-v1)|||
@@ -180,4 +183,6 @@ USCDI mapping concerns: v1 maps the actual vital signs, not the data elements fo
 | | |[Body height](https://www.healthit.gov/isa/taxonomy/term/841/uscdi-v1)| | |
 | | |[Body weight](https://www.healthit.gov/isa/taxonomy/term/846/uscdi-v1)| | |
 | | |[Pulse oximetry](https://www.healthit.gov/isa/taxonomy/term/866/uscdi-v1)| | |
+| | |[Inhaled oxygen concentration](https://www.healthit.gov/isa/taxonomy/term/871/uscdi-v1)| | |
+
 
