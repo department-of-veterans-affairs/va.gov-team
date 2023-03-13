@@ -90,7 +90,7 @@
 - Phases doc that Theresa and Treva wanted to see - does Lauren want to spend some 1-1 Lauren time with that?
 
 ## 2023-03-02 
-Meetingcancelled due to PI Planning.
+Meeting cancelled due to PI Planning.
 
 ## 2023-02-24 Health Apartment Team Meeting
 
