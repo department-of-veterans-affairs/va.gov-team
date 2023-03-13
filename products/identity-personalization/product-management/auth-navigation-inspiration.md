@@ -9,6 +9,8 @@ In the event we eventually do a comparative analysis on authenticated IA or navi
 
 ## With login
 
+[Liz already did some work on this](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/personalization-profile-comparative-analytsis.pdf).
+
 ### Questions for sites with login:
 
 - How different are the logged-out/logged-in navs?
