@@ -34,8 +34,8 @@ Before we start, a few things I want to mention:
 Before we look at the website, I'd like to get a little background information from you:
 
 - According to my notes, you use XYZ benefits through VA, is that correct? Are there any others?
-  
-- What online or manual tools do you currently use to manage these benefits? *(VA.gov, MHV, eBenefits, phone, email, etc.)* Which of these tools or methods is the most useful to you and why?
+
+- Do you currently use any online tools to manage your VA benefits?
 
 - Let's talk about the website - do you use VA.gov at all? If so, what do you use it for?
 
@@ -50,12 +50,10 @@ Before we look at the website, I'd like to get a little background information f
 
 ## 2. Are Veterans able to take action on their top tasks without any usability hurdles? - 5 minutes
 
-- Feel free to share any initial thoughts about this page and scroll around a bit.
 - Does this information look accurate to your current benefits situation? Is there anything you're surprised to see or expecting to see that you don't?
 - You said you go online to check X. Can you tell me how you'd go about doing/looking into that from here?
 
-- [ ] **UAT TASK:** Confirm that all sections are showing for the user.
-- [ ] **Usability**: Confirm that there aren't any top tasks still missing from My VA, or note if users mention anything we've heard before, like VA documents and/or VSO info.
+- [ ] **UAT TASK:** Confirm that all sections are showing for the user and the dynamic content seems to line up with their expectations of their current benefits situation.
 - [ ] **Usability**: Confirm that users are able to find relevant benefit info and act on it if applicable.
 
 
