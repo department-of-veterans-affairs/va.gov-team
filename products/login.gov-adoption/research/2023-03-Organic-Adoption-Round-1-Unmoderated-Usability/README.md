@@ -15,7 +15,7 @@ These research goals still need to be agreed upon. They are based on this [stage
 
 - Review where Veterans go for support when they face an issue during account setup
 - Review how Veterans describe issues they face to the help desk
-- Review whether Veterans who use screen readers can complete IAL2 account setup
+- Review how the help desk supports queries that Veterans face
 
 ## Date
 This research will likely take place in March 2023.
