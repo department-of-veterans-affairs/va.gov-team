@@ -219,11 +219,11 @@ Following is the list of all fields in the dataset and any unique characteristic
    </td>
    <td>nullable
    </td>
-   <td>“DSL”, “CAC”, or “DFAS” or null
+   <td>“DSL”, “CAC”, “DFAS”, "VACAC, or null
+   </td>
+   <td>That some records have VACAC highlights that IAM data focuses on underlying credential versus CSP, e.g. DS Logon. This may be the only instance where that distinction is manifested. This nuance is important as the intent of this dataset is to provide insight into CSP usage, e.g. DS Logon abandonment and Login.gov adoption, versus any alternate means that a user may have used their CAC to authenticate.  This field tracks the last usage so a value of VACAC indicates that user last used their CAC directly with AccessVA. For these records, it can't be determined from the data if the user ever used DS Logon and when last used.
    </td>
    <td>
-   </td>
-   <td>That some records have VACAC may be an anomaly (see Data Lineage).
 <p>
 This value is null for some recently used credentials.
    </td>
