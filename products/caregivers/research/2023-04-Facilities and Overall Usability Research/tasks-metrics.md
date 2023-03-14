@@ -12,7 +12,7 @@
 
 **Other data metrics:**
 - GA: event tracking - click to apply
-- GA: Exit %
+- GA: Exit page
 - GA: previous page visited and/or traffic source
 
 
@@ -24,7 +24,7 @@
 
 **Other data metrics:**
 - GA: Time on page
-- GA: Exit page/%
+- GA: Exit page
 
 
 ## Third Task: [VA Facility selection] 
