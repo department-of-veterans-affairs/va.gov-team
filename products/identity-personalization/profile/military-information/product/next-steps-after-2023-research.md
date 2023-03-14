@@ -25,3 +25,9 @@ Overall, retrieving military information is a low-priority action compared to ot
   - About 27% of visits to this page happen in a logged-in state. 
 - [Military info in the profile](https://www.va.gov/profile/military-information) ranks #195 in the last 6 months.
   - About 90% of visits to this URL happen in a logged-in state, which makes sense since the profile requires users to be logged-in and identity-verified. 
+
+[Interactions from "Request your military service records (including DD214)": September 13, 2023 - March 13, 2023](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/_u.date00=20220913&_u.date01=20230313&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Frecords~2Fget-military-service-records~2F,analytics.eventCategory:Interactions/)
+
+- Unsurprisingly, the main thing people want to do from here is go to MilConnect to get their DD214. There's not a lot people can do from this page, and the prompt to go to MilConnect is the main CTA. 
+
+[Interactions from the Military Info section of the profile: September 13, 2023 - March 13, 2023](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/_u.date00=20220913&_u.date01=20230313&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fprofile~2Fmilitary-information~2F,analytics.eventCategory:Interactions/)
