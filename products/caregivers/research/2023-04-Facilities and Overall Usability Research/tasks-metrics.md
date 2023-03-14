@@ -36,7 +36,7 @@
 
 **Other data metrics:**
 - GA: Time on page
-- GA: Exit page/%
+- GA: Exit page
 
 
 ## Fourth Task: [Primary Caregiver]
@@ -47,7 +47,7 @@
 
 **Other data metrics:**
 - GA: Time on page
-- GA: Exit page/%
+- GA: Exit page 
 
 
 
@@ -56,7 +56,8 @@
 **Data gathered from studies:**
 - Quotes
 
-
+**Other data metrics:**
+- GA: Exit page
 
 
 
@@ -66,6 +67,9 @@
 - Quotes
 - Observer Rating
 
+**Other data metrics:**
+- GA: Exit page
+
 
 ## Seventh Task: [Review]
 
@@ -73,6 +77,8 @@
 - Quotes
 - Observer Rating
 
+**Other data metrics:**
+- GA: Exit page
 
 
 ## Eighth Task: [Confrimation Page]
@@ -80,5 +86,8 @@
 **Data gathered from studies:**
 - Quotes
 
+**Other data metrics:**
+- GA: Unique pageviews
+- Business metrics of compelted/approved/denied
 
 
