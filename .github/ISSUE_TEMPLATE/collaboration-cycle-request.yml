@@ -145,7 +145,7 @@ body:
       options:
         - label: I have provided all relevant links, screenshots, images, designs, etc. of the as-is version of the product
           required: true
-  type: markdown
+  - type: markdown
     attributes:
       value: "## Next steps"
   - type: checkboxes
