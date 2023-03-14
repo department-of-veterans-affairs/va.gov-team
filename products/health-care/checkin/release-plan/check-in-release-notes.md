@@ -12,6 +12,11 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 3/14/2023
+- Makes the display of appointment information consistent with VAOS and adds a details page to Pre-Check-in and Check-in to display additional appointment information. Initially released to 20% of Veterans but will increase availability daily while monitoring usage metrics.
+    - [Epic 49261](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/45315)
+    - [Screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/appointment-info.md)
+
 ### 3/1/2023
 - Updated eCheck-in so that Veterans will receive a more specific error message when they use an expired link
     - [Ticket 52393](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52393)
