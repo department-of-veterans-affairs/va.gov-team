@@ -17,8 +17,6 @@ So, I decided to check out the analytics to see what they say, and how they supp
 
 [Pageviews: September 13, 2023 - March 13, 2023, Segmented by logged-in and logged-out users](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20220913&_u.date01=20230313&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=500&_.useg=builtin1,useri0ZvPaPpQKyUHGrYCFPigw,userXZpoGov_R4K1a1Biwj2YNg/)
 
-What we can see from this report:
-
 Overall, retrieving military information is a low-priority action compared to other tasks on VA.gov.
 
 - The content page for [Request your military service records (including DD214)](https://www.va.gov/records/get-military-service-records/) ranks #89 in the last 6 months.
@@ -31,3 +29,13 @@ Overall, retrieving military information is a low-priority action compared to ot
 - Unsurprisingly, the main thing people want to do from here is go to MilConnect to get their DD214. There's not a lot people can do from this page, and the prompt to go to MilConnect is the main CTA. 
 
 [Interactions from the Military Info section of the profile: September 13, 2023 - March 13, 2023](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/_u.date00=20220913&_u.date01=20230313&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fprofile~2Fmilitary-information~2F,analytics.eventCategory:Interactions/)
+
+- Somewhat surprisingly, the top interaction on this page in the last 6 months is actually info on what to do if your military service history doesn't look right.
+- Second, of course, is requesting a DD214.
+- There's not a lot users can do from this page, so it's not surprising necessarily that the new CTAs are the top actions. 
+
+---
+
+Basically, the numbers support what we heard in research -- the thing people want most is their DD214. But the question this doesn't answer is this: **if we had better/more military info visible on VA.gov, would that reduce the need for DD214 requests, or not**? The DD214 is an essential document, so it's possible that even with all the military info in the world on VA.gov, we wouldn't be changing people's needs or behavior. However, it's also possible that people could use the military info on VA.gov to help fill out applications and verify records, and that this might be useful regardless. It's hard to tell just by looking at the numbers, or even from the research we did.
+
+## Next steps
