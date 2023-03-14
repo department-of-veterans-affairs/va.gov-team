@@ -23,21 +23,27 @@ The research covers a broad spectrum of VA services, and applies at any stage fr
 ## Research Goals	
 Our goal with this research is to identify problems and expectations with navigating the logged-in experience on VA.gov.
 
-
 ### Outcome
 The insights we learn from people during these interviews will guide meaningful improvements to the logged-in IA and navigation in the coming year.
 
 ### Research questions
+
+#### Navigation and wayfinding
 * How do people navigate to tasks they came to VA.gov to complete? 
-	* How do they do this if they can’t use the homepage/My VA links?
-* If they can’t find what they need, what do they do?
+	* How do they navigate to those tasks without relying on homepage/My VA links?
+* How do people navigate to personalized information?
 - What do people do when they:
 	- have trouble with the website
 	- feel information is inaccurate
 	- need help with something
+	- can’t find what they need
 	- have questions in general
 * How can we make the site easier to navigate for logged-in users?
-* What level of personalization do people expect in the navigation after they’ve logged in?
+
+#### Logged-in mental model and expectations
+* What are people’s expectations of the website experience after they’ve logged in?
+* How do people differentiate “logged in / authenticated” parts of the website, and “unauthenticated” parts of the website? 
+* Does the current experience cause confusion?
 * How do navigation needs and expectations differ between user types?
 
 ### Hypothesis
