@@ -142,6 +142,7 @@ body:
   - type: checkboxes
     id: artifact-links-checkbox
     attributes:
+      label: Verify all relevant materials provided to Governance Team
       options:
         - label: I have provided all relevant links, screenshots, images, designs, etc. of the as-is version of the product
           required: true
