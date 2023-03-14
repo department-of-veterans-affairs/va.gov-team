@@ -1,5 +1,5 @@
 # Content status update for Core Identity Team
-Last updated by @tygindraux: March 14, 2023
+Last updated by @CarlDickerson and @tygindraux: March 14, 2023
 
 ## Who we’re working with
 |Stakeholder|Role or involvement|
