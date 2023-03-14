@@ -5,9 +5,13 @@ This research is to be conducted on the application for Family Caregiver Benefit
 
 - [Caregivers Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
 
-- [Past research insights](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/eK1L73z)
-
 - [Facilities Initiative Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Improve%20Facility%20Selection%20-%20Initiative%20Brief.md)
+
+- [Past research insights wireflow](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/eK1L73z)
+
+
+- [Key tasks wireflow](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/agdoOoP)
+
 
 ### Facilities Overview
 During previous usability studies on this form (research findings: February 2021, April 2021) we have found the VA medical facility selection page caused many users confusion. A few trends include:
@@ -50,15 +54,14 @@ A moment that matters in the journey is during the aging phase when Veterans inc
 1. Discover if the facility updates are clear and easy for participants to understand
 2. Determine if the facility updates are accessible and the usability to search and select a facility
 3. Discover what is easy or difficult to complete on the form and why
-4. Obtain a qualitative baseline to understand the form overall, how this study compares to past research findings and future design iterations  
+4. Obtain an understanding of the usability of the form overall, how tasks from this study compares to past research findings and future design iterations  
 
 
 ### Outcome
-This research will test the updates to the VA Facility question content, page flow and search functionality to make sure they are understandable and accessible. Secondly, this research will provide a qualitative baseline of the overall usability of this application by both Veterans and Caregivers. We will use the findings from this study combined with key insights from previous studies to guide and compare future design iterations. 
+This research will test the updates to the VA Facility question content, page flow and search functionality to make sure they are understandable and accessible. Secondly, this research will provide a qualitative understanding of the overall usability of this application by both Veterans and Caregivers. We will use the findings from this study combined with key insights from previous studies to guide and compare future design iterations. 
 
 
 ### Research questions
-
 
 
 **Discover if the facility updates are clear and easy for participants to understand**
@@ -80,7 +83,7 @@ This research will test the updates to the VA Facility question content, page fl
 - What questions on the form does the participant appear to answer quickly, easily and correctly?
 - At what points in the form do participants ask clarifiying questions 
 
-**Obtain a qualitative baseline to understand the form overall, how this study compares to past research findings and future design iterations**
+**Obtain an understanding of the usability of the form overall, how tasks from this study compares to past research findings and future design iterations**
 - What tasks do participants seem to do consistently well on or that the consistently struggle?
 - What are the recurring pain points across participants?
 
