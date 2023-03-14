@@ -167,7 +167,7 @@ The column/field naming convention is: [CSP Identifier Code][-IAM data column na
   </tr>
 </table>
 
-
+Following is the list of all fields in the dataset and any unique characteristics in addition to the above common descriptions: 
 
 <table>
   <tr>
