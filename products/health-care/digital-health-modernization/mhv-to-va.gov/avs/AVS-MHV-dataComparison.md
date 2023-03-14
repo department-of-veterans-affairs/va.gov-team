@@ -166,6 +166,8 @@ Comparison of section labels are found on a different [GitHub](https://github.co
 
 
 ### Historical Vital readings
+| Data Field | MHV on VA.gov | AVS |
+|:-----------|:---------|:----------|
 | Reading | Yes | Yes |
 | Date of entry | Yes | Yes |
 | Location of entry | Yes | No |
