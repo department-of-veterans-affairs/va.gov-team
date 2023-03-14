@@ -139,7 +139,7 @@ Since the evidence flow was presented to them, participants were inclined to add
 
 ![evidence-flow.png](images/evidence-flow.png)
 
-> “I would still say yes [to adding VA medical records] because it's being reviewed under a new law.”
+> “Well you don't NEED evidence BUT if I've been going to the VA for asthma tests I'll be like yea they got additional evidence, so yeaaa get the additional evidence. BUT it does say you don't NEED evidence right? So it's like you have an option. I'm going to give you ALL you need before you turn me down again.”
 > 
 
 > “I would submit it just to make sure there's copies in there.”
@@ -178,10 +178,13 @@ For participants who knew about the old appeals process, they were drawn to the 
 ![ama-new-decision-review-2.png](images/ama-new-decision-review-2.png)
 
 > “I guess that's the only thing that I'd want is more clarification on the old process and what the new process is and what might be advantageous about that.”
-> 
+
+> “I would still hit continue but  would still like to see what my options were for the older process.”
 
 > "Just personally I'd probably ask questions outside of this process. If it were me I'd probably click the [finish this later] link and stop the process to learn about it first.”
-> 
+
+> “In the past when we appeal something, they told us it takes 3-5 yrs. So with this saying it will be switch to a new process... OMG, it's a big help. We are happy you guys changed the verbiage”
+
 
 ### Finding 6
 
@@ -195,7 +198,8 @@ Participants understood what the notice of evidence needed is, and more than hal
 > 
 
 > “I am saying I have looked at this and I have verified that it's in the 1 year period.”
-> 
+
+> “This is asking me about evidence. Oh yeaaaa. They say you gotta file a supplemental you should do it in a certain timeframe, but alot of people don't."
 
 ### Finding 7
 
@@ -207,7 +211,7 @@ Because of the ambiguous language in the warning alert, a few participants felt 
 
 ![evidence-summary-notice.png](images/evidence-summary-notice.png)
 
-> “Not being Hector I don't know if this would change his mind or not. I think I said before, should I provide anything additional that really shows I was there, but my DD214 would show that I'm in Afghanistan or Iraq, so I would think everything's good.”
+> “Should I provide anything additional that really shows I was there? But my DD214 would show that I'm there, so I would think everything's good.”
 > 
 
 > “Now, I'm puzzled on what evidence I have to submit because before it says I didn't need to submit evidence. That's what the PACT Act said.”
@@ -243,7 +247,7 @@ Most participants expected a way to download a copy of their completed form when
 > "Oh yea, print page. I expect this to print my claim. I expect it to print my supplemental claim. Now, being... a little difficult... I would say I want a copy of the original too. So I want to print the original plus the Supplemental that way I can look at it and compare that I have everything there. You gotta make sure EVERYTHING is there.”
 > 
 
-> “I would say, for me, I would expect that this would print the form.”
+> “I would expect that this would print the form.”
 > 
 
 ### Additional Insights
@@ -269,6 +273,10 @@ Most participants expected a way to download a copy of their completed form when
 > 
 
 > “90% of VET will be using their phone, because their grandkids buy it for them. They don't know how to navigate tech much. Unless VETs have an app that converts the image they take with their phone camera to PDF it wouldn't help. if you can allow multiple formats, it will be a big help.”
+
+> “I'm 50 yrs and consider myself tech savvy, I would have to go to app store and use google drive app and it would involve a lot of stuff”
+
+> "I don't think this would be helpful to VETs between ages of 40-70, they're not going to understand: file upload limitation, resolution, pdf formats etc"
 > 
 5. Several participants mentioned they would ‘finish this application later’ when they need to take a break, do more research, or ask for clarification.
 
