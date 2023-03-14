@@ -42,57 +42,57 @@ Comparison of section labels are found on a different [GitHub](https://github.co
 
 | Data Field | MHV on VA.gov | AVS |
 |:-----------|:---------|:----------|
-| Category (e.g. Pathology, Microbiology, etc) |  |  |
-| Title of the lab result |  |  |
-| Date collected |  |  | 
-| Ordering provider |  |  |
+| Category (e.g. Pathology, Microbiology, etc) | Yes | No |
+| Title of the lab result | Yes | Yes |
+| Date collected | Yes | Yes | 
+| Ordering provider | Yes | No |
 
 ### Radiology reports
 | Data Field | MHV on VA.gov | AVS |
 |:-----------|:---------|:----------|
-| Procedure/test name |  |  |
-| Date/time exam performed |  |  |
-| Ordering location |  |  |
-| Requesting provider |  |  |
-| Reason for study |  |  |
-| Performing location |  |  |
-| Clinical history |  |  |
-| Radiologist |  |  |
-| Report |  |  |
+| Procedure/test name | Yes | ? |
+| Date/time exam performed | Yes | ? |
+| Ordering location | Yes | ? |
+| Requesting provider | Yes | ? |
+| Reason for study | Yes | ? |
+| Performing location | Yes |? |
+| Clinical history | Yes | ? |
+| Radiologist | Yes | ? |
+| Report | Yes | ? |
 
 ### Chemistry, Hematology
 | Data Field | MHV on VA.gov | AVS |
 |:-----------|:---------|:----------|
-| Lab type (chemistry/hematology) |  |  |
-| Lab test (aka name, not always present |  |  |
-| Date/time collected |  |  |
-| Specimen |  |  |
-| Ordering provider |  |  |
-| Ordering location |  |  |
-| Collected location |  |  |
-| Comments |  |  |
-| Performing location |  |  |
+| Lab type (chemistry/hematology) | Yes | No |
+| Lab test (aka name, not always present | Yes | Yes |
+| Date/time collected | Yes | Yes |
+| Specimen | Yes | Yes |
+| Ordering provider | Yes | No |
+| Ordering location | Yes | No |
+| Collected location | Yes | No |
+| Comments | Yes | No |
+| Performing location | Yes | No |
 
 #### Tests
 | Data Field | MHV on VA.gov | AVS |
 |:-----------|:---------|:----------|
-| Test name |  |  |
-| Results |  |  |
-| Units |  |  |
-| Reference range |  |  |
-| Status |  |  |
-| Performing location |  |  |
-| Interpretation |  |  |
+| Test name | Yes | Yes |
+| Results | Yes | Yes |
+| Units | Yes | Yes |
+| Reference range | Yes | Yes |
+| Status | Yes | ? |
+| Performing location | Yes | No |
+| Interpretation | Yes | ? Is this the abnormal flag?|
 
 ### Pathology report
-| Type of report (surgical pathology/cytology |  |  |
-| Specimen |  |  |
-| Date obtained |  |  |
-| Performing location |  |  |
-| Date completed |  |  |
-| Report |  |  |
+| Type of report (surgical pathology/cytology | Yes | Yes |
+| Specimen | Yes | Yes |
+| Date obtained | Yes | Yes |
+| Performing location | Yes | ? |
+| Date completed | Yes | ? |
+| Report | Yes | ? |
 
 ### EKG
-| Procedure/test name |  |  |
-| Date/time performed |  |  |
-| Ordering location |  |  |
+| Procedure/test name | Yes | Yes |
+| Date/time performed | Yes | Yes |
+| Ordering location | Yes | ? |
