@@ -177,19 +177,22 @@ What do you think about this information and your question of eligibility for VA
 
 - *RECORD what they say: definitive answer / only part of the answer / need to apply to know for sure / _____________*
 
-If your income last year was $40,000, what might that mean for your eligibility for VA health care? *(RECORD)*
+If your salary last year was around $40,000, what might that mean for your eligibility for VA health care? *(RECORD)*
 
 Can you tell me what benefits you might get? 
 - *PROBE on meaning of "Free VA health care for most types of care"*
 - *PROBE on meaning of "copays"*
 
-If your income last year was $25,000, what might that mean? *(RECORD)*
+If your salary last year was around $28,000, what might that mean? *(RECORD)*
 
-If your income last year was $85,000, what might that mean? *(RECORD)*
+If your salary last year was around $83,000, what might that mean? *(RECORD)*
 
-If your income last year was $65,000, what might that mean? *(RECORD)*
+If your salary last year was around $90,000, what might that mean? *(RECORD)*
 
-What if your income was $100,000? *(RECORD)*
+How sure are you that these benefits would apply if your salary was around $90,000?
+*(Could probe)* How certain are you that you *don't qualify for more benefits*? 
+
+What if your salary was around $100,000? *(RECORD)*
 
 *RECORD any comments about...*
 - *benefits (in bullets)--*
