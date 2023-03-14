@@ -80,7 +80,7 @@ Please recruit 15 participants for a total of 10 completed sessions.
 #### Some participants
 
 ##### Veteran status and experience with VA
-- All participants should receive at least 1 VA benefit or service
+- All participants should receive at least 1 VA benefit or service (please include their benefit and/or service in tracker information)
 - 7 participants should be Veterans
 - 4 participants should be Primary Caregivers for a Veteran (OK if they are also Veterans themselves)
 - 4 participants should be family members of Veterans who receive a benefit through VA (e.g. for example health care or education benefits)
