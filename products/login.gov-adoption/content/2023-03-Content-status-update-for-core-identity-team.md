@@ -17,7 +17,7 @@ Last updated by @CarlDickerson and @tygindraux: March 14, 2023
 
 ## What we’re working on
 * [Migration comms strategy]()
-* []()
+* [Content for grandfathering/binding migration from DSL to Login.gov flows](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability)
 
 ## Replying to queries from the Core team
 |Touchpoint|Status or question|
