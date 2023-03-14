@@ -15,4 +15,4 @@ This study is part of a [staged rollout plan](https://docs.google.com/document/d
 - Review how Veterans are supported by the help desk when they face an issue
 
 ## Date
-This research will likely take place in March 2023.
+This research will likely take place in March-April 2023.
