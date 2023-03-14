@@ -12,7 +12,7 @@ This study is part of a staged rollout plan. The [research overview](https://git
 
 ## Research Goals
 
-- Understand whether Veterans are motivated to set up a Login.gov account based on messaging
+- Review whether Veterans are motivated to set up a Login.gov account based on messaging
 - Review whether Veterans understand what we're asking them to do and why
 
 ## Date
