@@ -49,7 +49,7 @@ The insights we learn from people during these interviews will guide meaningful 
 ### Hypothesis
 - People will struggle finding what they’re looking for if they can’t use the homepage or My VA.
 - People will give up or call VA if they can’t find what they need on the VA.gov.
-- People’s expectations of a logged-in navigation will not be much different than what we have today.
+- People’s expectations of a logged-in VA.gov experience will not be much different than the current experience.
 - Navigation needs and expectations will be similar across user types.
 
 ## Methodology	
