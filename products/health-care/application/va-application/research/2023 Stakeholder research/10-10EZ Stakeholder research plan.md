@@ -51,7 +51,9 @@ This data we gather through this research will help our team:
 - Do any integrations exist today?
 - How is the data from outside sources used?
 - Does the data from these outside sources supercede the Veteran application input?
-- 
+- What is the process for confirming income information with the IRS?  (as mentioned in the on-page content).
+- Is there a general timeline for this during the enrollment process?
+- Can any of this burden be automated or front-lifted to help add speed to decision for the Veteran?
 
 ##### Pain Points
 - What are some of the main reasons a Veteran is denied eligibility and/or enrollment?
