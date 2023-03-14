@@ -31,7 +31,7 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |**All** |Lab type |Type of test | _None_||Do patients need the type in addition to the specific test name in the list view? Or could we remove this?|
 |All|Title of lab report|Test|[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|Suggest using this as the card header in list view, H1 in detail view. If there's no title/test name available, we could pull in the type of test as the card header in list, H1 in detail. |
 |All|Date collected |Date |_None_|Hard to find single date label for all types — "collected" doesn't work for Radiology or EKG| Can we map date fields from different types into a single "Date" field for list view, but use different "Date" labels in detail views? Or do we need all labels to stay consistent between list and detail views?|
-|All|Ordering provider |Provider|_None_|Similar to previous line about dates — "Provider" works better in list view. But we may need to use "Provider who ordered test" in detail view.| Same Q as previous row|
+|All|Ordering provider |Provider|_None_||Is there a need to specify "provider who ordered test"? Or is it clear that this is what "provider" means in this context?|
 |**Chemistry/hematology**|Lab test|Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|Some Chem/Hem tests include subtests in a panel — like lipid panel with LDL, HDL, etc. Suggest using this panel-level "Test" field as card header in list, H1 in detail)|Does USCDI include a panel-level element? Or do we map both the panel and the subtests to "Tests" in USCDI?|
 |Chemistry/hematology|Date/time collected| Date and time we took sample |_None_|
 |Chemistry/hematology|Specimen| Sample tested |_None_|
@@ -42,7 +42,7 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |Chemistry/hematology|Status [for specific test]| |_None_ || Under what circumstances would "status" be anything other than final? Can we remove this field?|
 |Chemistry/hematology|Performing location [for specific test]| Lab that did test|_None_||Is this suggested label correct — does "performing location" mean the lab that analyzed the sample? |
 |Chemistry/hematology|Interpretation [for specific test]| |_None_ || What types of information does this include? What guidance do providers see for field? <br> Who inputs this and the comments field? Ordering provider? PC? Lab technician? We don't want the user to think they can add their own comments.<br> Is interpretation of lab results included in the Values/Results USCDI field?|
-|Chemistry/hematology|Ordering provider| Provider who ordered test |_None_|
+|Chemistry/hematology|Ordering provider| Provider |_None_|
 |Chemistry/hematology|Ordering location| Where test order started |_None_|
 |Chemistry/hematology|Collected location| Where we took sample |_None_|
 |Chemistry/hematology|Comments| | _None_||How is this different from Interpretation field? |
@@ -53,7 +53,7 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |Microbiology|Date completed (not always present)| Date completed |_None_|
 |Microbiology|Results| Results |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|
 |Microbiology|Site/specimen (not always present)| Sample tested |_None_|
-|Microbiology|Ordering provider| Provider who ordered test |_None_|
+|Microbiology|Ordering provider| Provider |_None_|
 |Microbiology|Ordering location| Where test order started|_None_|
 |Microbiology|Collected location| Where we took sample |_None_|
 |**Pathology**|Type of report (surgical pathology/cytology)| Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
@@ -67,7 +67,7 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |**Radiology**|Procedure/test name |Test |[Diagnostic imaging test](https://www.healthit.gov/isa/taxonomy/term/2466/uscdi-v2)||Is this the same as "Title of lab report" in the All category above?|
 |Radiology|Date/time exam performed |Date you got test |_None_|
 |Radiology|Ordering location| Where test order started |_None_|
-|Radiology|Requesting provider| Provider who ordered test | _None_| | In Chem/Hem and Microbio, the field is labeled “Ordering Provider”. Should this change? A from content: Let's pick a consistent order/request label.|
+|Radiology|Requesting provider| Provider | _None_| | In Chem/Hem and Microbio, the field is labeled “Ordering Provider”. Should this change? A from content: Let's pick a consistent order/request label, if needed. But "Provider" may be enough here.|
 |Radiology|Reason for study| Reason for test |_None_|
 |Radiology|Performing location| Where you got test |_None_|
 |Radiology|Clinical history| |_None_| | What does this mean? Is this medical history related to the reason for this test? |
