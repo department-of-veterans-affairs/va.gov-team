@@ -11,9 +11,9 @@
 |**Expired**|A prescription which is too old to fill. This does not refer to the expiration date of the medication in the container. Contact your VA healthcare team when you need more of this VA prescription.||
 |**Non-VA**| A medication that came from someplace other than a VA pharmacy. This may be a prescription from either the VA or other providers that was filled outside the VA. Or, it may be an over the counter (OTC), herbal, dietary supplement or sample medication.||
 |**Pending**|This VA Prescription order has been sent to the Pharmacy for review and is not ready yet.||
-|**Transferred** ||||
-|**Unknown**||||
-|**Non-verified**||||
+|**Transferred** |A prescription moved to VA’s new electronic health record. This prescription may also be described as “Discontinued” on medication lists from your health care team.|||
+|**Unknown**|The status cannot be determined. Contact your VA care team when you need more of this VA prescription. A prescription stopped by a VA provider. It is no longer available to be filled.|||
+|**Non-verified**|A VA pharmacist is verifying this prescription.|||
 
 
 ### RX Refill Status
@@ -25,10 +25,16 @@
 |**Refillable**| Prescription is eligible for refill| - In our case (MHV) would be when a checkbox is shown<br> - In the case for mobile if a prescription is refillable the Veteran would have the option to select Refill Request on the Prescription details screen or Request Refill Modal screen|
 |**Not Refillable**| Prescription is NOT eligible for refill| - If a prescription is not eligible for refill the request refill action button will not appear or the prescription will not show on the list of eligible prescriptions avail for refill (mobile)|
 
+### Combined Prescriptions/Refill Statuses Shown on mobile
+|RX Refill Status | Definition | 
+|-------|-------|
+|Active: On Hold|An active prescription that will not be filled until pharmacy resolves the issue. Contact your VA pharmacy when you need more of this VA prescription.|
+|Active: Parked|A VA Prescription that is on file at VA Pharmacy and available for you to submit a fill request. This prescription may or may not have been previously filled. This prescription has been ordered by your VA provider but will not be sent to you until you request that it is filled. You may request this medication using MyHealtheVet, Rx Refill mobile app, VA phone service or mail in refills.|
+|Active: Refill in Process|A refill request is being processed by the VA pharmacy. When a prescription is in the Refill in Process status, the Fill Date will show when the prescription will be ready for delivery via mail by a VA Mail Order Pharmacy.|
+|Active: Submitted|The refill request has been received by My HealtheVet but has not been processed by the VA Pharmacy yet.|
+|Active: Suspended|An active VA Prescription that is not scheduled to be filled yet.|
 
 ### Questions:
-
-1. API Sourced Fields?  Is there a separate sourced field for Prescription Status?  "refillStatus": "submitted",
 
 
 
