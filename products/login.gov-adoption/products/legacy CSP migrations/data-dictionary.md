@@ -13,7 +13,7 @@ This dataset is created by ETL from following sources
 
 This data set is formatted to facilitate visualizations. Each row represents a user, all the identity-verified credentials that IAM is tracking, and whether they have a Primary ID on file.
 
-Each user credential in IAM has a CSPID, although it is more apt to refer to it as the CSP’s User ID.  The CSPIDs have a prefix, a CSP identifier code, that identifies the CSP which the CSPID belongs to.  (It would be more appropriate to call this prefix the CSP ID, but since that term is already in (arguable mis)use, the term “CSP identifier code” will be used in this document instead. The term “CSP identifier code” is just used within this document.)  The CSP identifier codes have occasionally changed over time and for various historical reasons, e.g. data cleanup efforts.  The CSPs and their corresponding CSP identifier codes which are included in this dataset are:
+Each user credential in IAM has a CSPID, although it may be more apt to refer to it as the User's Credential ID for a couple reasons.  Foremost, this is because it identifies one user's credential versus the Credential Service Provider (CSP).  The other reason is that the IAM export data focuses more on the credential versus the CSP, a nuance which is discussed below in the context of DS Logon.  The CSPIDs have a prefix, a CSP identifier code, that identifies the CSP which the CSPID belongs to.  (It would be more appropriate to call this prefix the CSP ID, but since that term is already in (arguable mis)use, the term “CSP identifier code” will be used in this document instead. The term “CSP identifier code” is just used within this document.)  The CSP identifier codes have occasionally changed over time and for various historical reasons, e.g. data cleanup efforts.  The CSPs and their corresponding CSP identifier codes which are included in this dataset are:
 
 
 <table>
@@ -125,7 +125,7 @@ VACAC - DOD CAC card
 </table>
 
 
-It may have been more apt if the “CSP Method” was instead called “Authentication Method”, because in some instances, the CSP Methods don’t align with the CSP.  VACAC is the notable exception.  
+It may have been more apt if the “CSP Method” was instead called “Authentication Method”, because in some instances, the CSP Methods don’t align with the CSP.  VACAC is the notable exception and highlights that the IAM data is focused on credentials, e.g. a DOD credential, rather than CSP, e.g. DS Logon.
 
 The CSP Methods IDME_MHV, IDME_DSL (and IDME_VETS) are used solely by VA.gov Unified Sign-in Page and is used within an authentication request to instruct SSOe to use ID.me as an MFA wrapper for MHV or DS Logon.  In the case of these CSP Methods, although two CSPs are used for authentication, the credential is tracked with an ID.me CSP Identifier Code. In the case that a user has a ID.me ID-verified credential and also used ID.me as MFA for MHV and/or DS Logon, IAM will track each of these as distinct CSPIDs, all with the IDME CSP Identifier Code.
 
