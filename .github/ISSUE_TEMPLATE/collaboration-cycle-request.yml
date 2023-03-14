@@ -139,6 +139,10 @@ body:
       description: Please enter a URL for your product outline. See the [product outline template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md).
     validations:
       required: true
+  - type: checkboxes
+     id: artifact-links-checkbox
+     attributes:
+       label: I have provided all relevant links, screenshots, images, designs, etc. of the as-is version of the product
   - type: markdown
     attributes:
       value: "## Next steps"
