@@ -1,5 +1,5 @@
 # My VA Health Care Frontend Documentation
-Last updated: March 9, 2023
+Last updated: March 14, 2023
 
 ## When to show the ‘Health care’ section
 We show this section for every LOA3 user.
@@ -189,9 +189,9 @@ Use font awesome icon `comments` for icon
 
 ### Schedule and manage your appointments link
 
-![Screen Shot 2022-09-30 at 1 50 51 PM](https://user-images.githubusercontent.com/97965610/193330557-10078363-ce30-4d6d-91db-0c1182ae99c1.png)
+<img width="474" alt="Screenshot 2023-03-14 at 1 42 37 PM" src="https://user-images.githubusercontent.com/97965610/225092377-f59681f3-bcf2-402d-a76c-7aece775f547.png">
 
-Use font awesome icon `calendar-check` for icon
+Use font awesome icon `calendar` for icon
 
 **Show**
 - For users who have VA health care but do not have any upcoming appointments.
