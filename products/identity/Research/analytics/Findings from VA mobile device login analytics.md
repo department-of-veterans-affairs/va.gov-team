@@ -54,7 +54,7 @@ Overall this data represents 102,130 flow completions on mobile devices. Apple d
 | Android OS | Samsung SM-S908U1 Galaxy S22 Ultra | met | 3,870 |
 
 ### Google Analytics
-Our team captured analytics from Google Analytics during the one month period from January 25th to February 24th, 2023. This data is for logins from unique mobile devices, and allows us to compare by account verification status. This dataset includes 1,828 models of devices, and 600,385 unique devices. We looked up many of the individual device’s camera specifications, using gsmarena.com or the manufacturer's website. We did this for the top 100 devices, and for devices that had at least 100 logins but less than 80% of logins used a verified account. Finally camera data was pulled for a random sampling of other devices. We logged camera specifications for 255 devices.
+Our team captured analytics from Google Analytics during the one month period from January 25th to February 24th, 2023. This data is for logins from unique mobile devices, and allows us to compare by account verification status. This dataset includes 1,827 models of devices, and 721,907 unique devices. We looked up many of the individual device’s camera specifications, using gsmarena.com or the manufacturer's website. We did this for the top 100 devices, and for devices that had at least 100 logins but less than 80% of logins used a verified account. Finally camera data was pulled for a random sampling of other devices. We logged camera specifications for 255 devices.
 
 We found that 92% of all mobile device logins used a verified account. Most Apple phones are lumped together here, like with Datadog. Almost 95% of Apple devices logged in using a verified account.
 
