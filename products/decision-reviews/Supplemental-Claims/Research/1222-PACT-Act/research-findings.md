@@ -230,7 +230,7 @@ We prompted participants to upload evidence as an optional task for 8 of the par
 
 > “I would say some people would think that a buddy statement is consider a medical record sometimes, I don't remember if I submitted it under this. or if there was a separate screen.”
 
-> "*do you want to upload your records* ummm yea... maybe someone will be patient enough to click to it... that was like two clicks before I got to here. Hmm... what were you expecting for evidence on previous page... I was expecting an option on the previous page... I was expecting to see um... another option other than... but... you can always... put something in there... I don't know... maybe a direct link to this? so they don't have to click through two things?"
+> "_Do you want to upload your records?_ Yeah. Maybe someone will be patient enough to click to it... that was like two clicks before I got to here. I was expecting to see another option other than... but... you can always... put something in there... maybe a direct link to this? so they don't have to click through two things.""
 
 ### Finding 9
 
@@ -332,7 +332,7 @@ Intended audience for this research: Veterans. Other claimant types can file a S
 
 Recruitment strategy: We will test with Veterans only for as that is the scope of our MVP, and specifically focusing on Veterans who have claimed disability in the past. We are testing a prototype, which won't allows testing for assistive technology, but will plan to do that when we have an instance in staging.
 
-We skewed slightly older for this study, to understand how older Veterans who might become eligible via the PACT act would navigate this experience.
+We recruited for more older veterans in this study, to understand how Veterans who might be eligible via the PACT act would navigate this experience.
 
 **Recruitment criteria**
 
