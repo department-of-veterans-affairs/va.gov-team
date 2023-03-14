@@ -39,3 +39,11 @@ Overall, retrieving military information is a low-priority action compared to ot
 Basically, the numbers support what we heard in research -- the thing people want most is their DD214. But the question this doesn't answer is this: **if we had better/more military info visible on VA.gov, would that reduce the need for DD214 requests, or not**? The DD214 is an essential document, so it's possible that even with all the military info in the world on VA.gov, we wouldn't be changing people's needs or behavior. However, it's also possible that people could use the military info on VA.gov to help fill out applications and verify records, and that this might be useful regardless. It's hard to tell just by looking at the numbers, or even from the research we did.
 
 ## Next steps
+
+Because of the low-usage overall of trying to retrieve military info on VA.gov, and because the main thing people want is their DD214 (which we can't access for them), I don't think we should invest a ton of time into this work right now.
+
+However, that doesn't mean we should ignore this forever, especially given that it's likely the MHV health apartment team is going to come to us at some point and ask us to add more military information to the profile (this is based on conversations Samara has had at the OCTO level). If that happens, we should be ready with a smart approach that ensures we're investing time in the right veteran priorities. 
+
+### Should we, or should we not, invest time in elevating military info on VA.gov?
+
+This is the million dollar question, and something that I think we could run a few experiments on to see if updates change user behavior.
