@@ -16,7 +16,7 @@ Last updated by @CarlDickerson @tygindraux: March 14, 2023
 |Identity Working Group|OCTO, LGA, Core/Surge, MHV, eBenefits, VBA, VHA|Weekly status update about wider identity efforts (not limited to just comms)|
 
 ## What we’re working on
-* [Migration comms strategy]()
+* [Migration comms strategy](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1671639294160/310bb329a9a4d9f172c29530ba7a351d2ad2a44f?sender=u397f6dbbaed1b5b67b956658)
 * [Content for grandfathering/binding migration from DSL to Login.gov flows](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability)
 
 ## Replying to queries from the Core team
