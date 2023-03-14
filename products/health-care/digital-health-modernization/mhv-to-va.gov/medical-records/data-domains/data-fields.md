@@ -29,20 +29,20 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |Category | Data field | Suggested label | USCDI v1 data element mapping|Notes | Questions |
 |:----------------|:-------------|:----------------|:--------|:------------------|:--------------------|
 |All |Lab type |Type of test | _None_||Do patients need the type in addition to the specific test name in the list view? Or could we remove this?|
-|All|Title of lab report (if available)|Test (suggest using this without a label as the card header in list, H1 in detail) |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|If there's no title/test name available, we could conditionally display the type of test as the card header in list, H1 in detail. Hopefully this is rare. |
-|All|Date collected |Date |_None_|Challenging to find a single date label that works for all categories. "Date collected" or "Date you gave the sample" doesn't make sense for radiology or EKG. "Date you got the test" doesn't quite make sense for pathology. A shorter field label is also better for the card format in list view.| Would we want to map several fields from different categories into a single "Date" field for the list view, but label them differently in the detail views where we have additional date fields? So all "Date collected" "Date obtained" "Date performed" fields would map to "Date" in list view. Or would we want the labels to stay consistent between list and detail views, even if this means several longer "Date" labels on cards in the list?|
-|All|Ordering provider |Provider|_None_|Similar to previous line about dates — for space on the cards, "Provider" works better in list view. But we need to differentiate provider type in detail view.| Is this different mapping for list and detail view acceptable?|
+|All|Title of lab report|Test|[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|Suggest using this as the card header in list view, H1 in detail view. If there's no title/test name available, we could pull in the type of test as the card header in list, H1 in detail. |
+|All|Date collected |Date |_None_|Challenging to find a single date label that works for all categories. "Date collected" or "Date you gave the sample" doesn't make sense for radiology or EKG. "Date you got the test" doesn't quite make sense for pathology. A shorter field label is also better for the card format in list view.| Would we want to map several fields from different categories into a single "Date" field for the list view, but label them differently in the detail views where we have additional date fields? So all "Date collected" "Date obtained" "Date performed" fields would map to "Date" in list view. Or do we need the labels to stay consistent between list and detail views, even if this means several longer "Date" labels on different cards in the list?|
+|All|Ordering provider |Provider|_None_|Similar to previous line about dates — for space on the cards, "Provider" works better in list view. But we need to differentiate provider type in detail view.| Same Q as previous row about different labels in list and detail view|
 |Radiology|Procedure/test name |Test |[Diagnostic imaging test](https://www.healthit.gov/isa/taxonomy/term/2466/uscdi-v2)||Is this the same as "Title of lab report" in the All category above?|
 |Radiology|Date/time exam performed |Date you got test |_None_|
 |Radiology|Ordering location| Where test order started |_None_|
-|Radiology|Requesting provider| Provider who ordered test | _None_| | In Chem/Hem and Microbio, the field is labeled “Ordering Provider”. Should this change?|
+|Radiology|Requesting provider| Provider who ordered test | _None_| | In Chem/Hem and Microbio, the field is labeled “Ordering Provider”. Should this change? A from content: Let's pick a consistent order/request label.|
 |Radiology|Reason for study| Reason for test |_None_|
 |Radiology|Performing location| Where you got test |_None_|
 |Radiology|Clinical history| |_None_| | What does this mean? Is this medical history related to the reason for this test? |
 |Radiology|Radiologist||_None_|
-|Radiology|Report| |[Diagnostic imaging report](https://www.healthit.gov/isa/taxonomy/term/2471/uscdi-v2)| || |What does this mean? Is this equivalent to "Results" for other categories?|
+|Radiology|Report| |[Diagnostic imaging report](https://www.healthit.gov/isa/taxonomy/term/2471/uscdi-v2)| || |Is "Report" equivalent to "Results" for other categories?|
 |Radiology| | |[Imaging Narrative](https://www.healthit.gov/isa/taxonomy/term/2876/uscdi-v1) |USCDI groups this under Clinical Notes|Is this an additional field we need to add in Radiology, in addition to "Report"? Or is the narrative included in the report?|
-|Chemistry/hematology|Lab test|(suggest using without label as card header in list, H1 in detail) |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|Chem/Hem includes subtests or specific tests within a test panel. This seems to be the panel field like "complete blood count" with specific tests like "white blood cells" nested in each panel.|Does USCDI include a panel element anywhere? Or do we map both the panel and the subtests to "Tests" in USCDI? <br> |
+|Chemistry/hematology|Lab test|Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|Some Chem/Hem tests include subtests within a this a test panel — like a lipid panel might show total cholesterol, LDL, and HDL. Suggest using this panel-level "Test" field as card header in list, H1 in detail)|Does USCDI include a panel element anywhere? Or do we map both the panel and the subtests to "Tests" in USCDI? <br> |
 |Chemistry/hematology|Date/time collected| Date and time we took sample |_None_|
 |Chemistry/hematology|Specimen| Sample tested |_None_|
 |Chemistry/hematology|Test name [for specific test]| Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
@@ -133,13 +133,13 @@ USCDI mapping concerns: v1 has only 3 data elements: Substance (Medication), Sub
 |Data field       | Description           | Suggested label | USCDI v1 data element mapping| Notes    | Questions|           
 |:------------------------|:-----------------------|:-----------------------|:-----------------|:---------------------|:---------------------|
 |Allergy name | Thing that caused the allergic reaction, like "penicillin" |Allergy | [Substance (Medication)](https://www.healthit.gov/isa/taxonomy/term/896/uscdi-v1)|
-|Date entered | Date provider entered the allergy record | Date entered |_None_|
+|Date entered |  | Date entered |_None_|
 |Severity | Level of reaction, like "moderate" or "severe" | | _None_||Are there set options to choose from in this field, or is it free entry?|
 |Allergy type | The type of thing that caused the allergy, like "drug" for penicillin | | _None_||Are there set options to choose from in this field, or is it free entry?|
-|VA drug class | ||[Substance (Drug Class)](https://www.healthit.gov/isa/taxonomy/term/901/uscdi-v1) | |What does this mean? Is there a list of classes to choose from?| 
+|VA drug class | ||[Substance (Drug Class)](https://www.healthit.gov/isa/taxonomy/term/901/uscdi-v1) | |Does this field appear on non-medication allergies (like latex)?| 
 |Reaction | Description of signs and symptoms, like "rash" | |[Reaction](https://www.healthit.gov/isa/taxonomy/term/906/uscdi-v1) |
 |Observed/Historical || | _None_|Does this mean the provider witnessed the reaction (observed) vs entered an allergy record based on patient's account of a previous allergic reaction? |
-|Location |Name of facility where provider entered allergy record | Location | _None_|
+|Location |Facility where provider entered allergy record | Location | _None_|
 |Comments |Comments entered by provider | Provider notes | _None_|
 
 ## Health conditions
