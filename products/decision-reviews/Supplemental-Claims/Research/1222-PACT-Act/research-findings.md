@@ -309,7 +309,7 @@ Most participants expected a way to download a copy of their completed form when
 - Future usability with assistive technology, especially magnification/zoom, desktop and mobile screen readers, as well as Veterans who experience arthritis or other dexterity issues. We'd like to understand if scrolling on desktop and mobile devices presents any difficulty.
 - Further research needed with veterans who aren’t familiar with the decision review process, and veterans who are not as comfortable with technology.
 - Possible research needed on the document upload functionality when form is in staging or production.
- - Multiple veterans mentioned that they would upload their own documents to the claim. They also voiced concern over the PDF limitations and specific upload process being too difficult for less tech saavy and older veterans.
+  - Multiple veterans mentioned that they would upload their own documents to the claim. They also voiced concern over the PDF limitations and specific upload process being too difficult for less tech saavy and older veterans.
 
 ## Appendix
 
