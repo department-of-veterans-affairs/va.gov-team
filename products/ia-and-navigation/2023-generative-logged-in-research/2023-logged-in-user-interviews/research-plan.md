@@ -164,8 +164,8 @@ We’ll be using VA.gov, which is already live and ready to go.
 
 ### Length of sessions
 * Session length: 
-	* 30 minutes for non-screenreader sessions
-	* 60 minutes for screenreader sessions
+	* 45 minutes for non-screenreader sessions
+	* 75 minutes for screenreader sessions
 * Buffer time between sessions: 30 minutes
 * Maximum Sessions per day: 4
 
