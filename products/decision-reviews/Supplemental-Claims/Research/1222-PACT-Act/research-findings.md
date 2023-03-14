@@ -139,11 +139,14 @@ Since the evidence flow was presented to them, participants were inclined to add
 
 ![evidence-flow.png](images/evidence-flow.png)
 
-> “In Hector's [hypothetical Veteran] point of view, I would still say yes [to adding VA medical records] because it's being reviewed under a new law.”
+> “I would still say yes [to adding VA medical records] because it's being reviewed under a new law.”
 > 
 
-> “I would say yes, in my evidence, I would submit it just to make sure there's copies in there.”
+> “I would say yes [to addint VA medical records], in my evidence, I would submit it just to make sure there's copies in there.”
+
+> “I would submit it just to make sure there's copies in there.”
 > 
+> “If I were applying for PACT I would upload my private medical records. A lot of veterans don't trust the VA. I would upload only anything that is new.”
 
 ### Finding 4
 
@@ -190,10 +193,10 @@ Participants understood what the notice of evidence needed is, and more than hal
 
 ![notice-of-evidence-needed.png](images/notice-of-evidence-needed.png)
 
-> “It's good there's a link here for notice of evidence needed [paused over paragraph that said "to review the 38 USC 5103"]”
+> “It's good there's a link here for notice of evidence needed.”
 > 
 
-> “I am saying I have looked at this and I have verified that it's in the 1 year period. Then continue.”
+> “I am saying I have looked at this and I have verified that it's in the 1 year period.”
 > 
 
 ### Finding 7
@@ -282,7 +285,7 @@ Most participants expected a way to download a copy of their completed form when
 1. Increase visibility of start claim CTA on the site wide introduction (and possibly change language to fit Veteran’s mental models)
 2. Add clarifying language for worsening conditions to decrease the chances of Veterans confusing Supplemental Claim form with a 526 Claims for Increase
 3. Remove redundant edit link from evidence summary page, and associate the edit link to the header, so it’s associated to the right task
-4. Change the language and specificity to the ‘print this page’ button on the confirmation
+4. Either meet veteran expectations of the ‘print this page’ button on the confirmationpage, or clarify the language
 5. Provide more explanation about the old appeals process on the new decision reviews process page
 6. Provide more clarity for those applying for presumptive conditions on the evidence summary language
 7. Explore into other possible wayfinding solutions for the form system, and non-linear form experiences. The progress bar does not help Veterans track where they are in the process when navigating back and forth through the form. Possibly something simiilar to the [task lisk](https://design-system.service.gov.uk/patterns/task-list-pages/) in the uk.gov system.
