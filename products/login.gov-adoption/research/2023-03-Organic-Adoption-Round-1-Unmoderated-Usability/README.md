@@ -15,8 +15,7 @@ These research goals still need to be agreed upon. They are based on this [stage
 
 - Understand whether Veterans are motivated to set up an account based on messaging > This is something we could test first in a round of moderated research with Veterans.
 - Review where Veterans specifically fail during IAL2 account setup > This is something we track in Login.gov's monthly reports.
-- Review where Veterans go for support when they face an issue during account setup
-- Review how the help desk supports queries that Veterans face
+- Review how Veterans are supported by the help desk when they face an issue
 
 ## Date
 This research will likely take place in March 2023.
