@@ -18,6 +18,8 @@ ________________________________________________________________________________
          - [[TEXT SOLUTION] [FE][BE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
          - [[FE] Update Message that a Text is Being Sent when Submitting Travel Claim](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54281)
          - [[BE] Text Veteran when Travel Claim Submitted to BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54348)
+      - Resolve questions about error pages
+         - [[SPIKE] [FE] [FE] Answer remaining questions around "error=no-token"](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/55097)
       - Prepare for Release
           - [[UX] Submit Translations to the State Department ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54029)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
