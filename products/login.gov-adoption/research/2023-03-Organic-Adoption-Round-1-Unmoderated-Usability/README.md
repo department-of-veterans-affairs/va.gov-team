@@ -11,7 +11,6 @@ This initiative focuses on one migration pathway: the organic adoption of Login.
 This study is part of a [staged rollout plan](https://docs.google.com/document/d/1X5A69Jqx4xQyJje3Cwbp8e_aOH7EYS2rjmkWe6_kHiA/edit#heading=h.g5j35d7r1ip0)  which will start with Stage A: Canary, where we will run a test with a small Veteran population to ensure any obvious bugs and edge cases are found in production.
 
 ## Research Goals
-These research goals still need to be agreed upon. They are based on this [staged rollout plan](https://docs.google.com/document/d/1X5A69Jqx4xQyJje3Cwbp8e_aOH7EYS2rjmkWe6_kHiA/edit#heading=h.g5j35d7r1ip0).
 
 - Understand whether Veterans are motivated to set up an account based on messaging
 - Review whether Veterans understand what we're asking them to do and why
