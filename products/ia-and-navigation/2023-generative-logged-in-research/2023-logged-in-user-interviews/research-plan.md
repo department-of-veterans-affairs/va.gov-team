@@ -79,7 +79,8 @@ Please recruit 15 participants for a total of 10 completed sessions.
 
 #### Some participants
 
-##### Veteran status
+##### Veteran status and experience with VA
+- All participants should receive at least 1 VA benefit or service
 - 7 participants should be Veterans
 - 4 participants should be Primary Caregivers for a Veteran (OK if they are also Veterans themselves)
 - 4 participants should be family members of Veterans who receive a benefit through VA (e.g. for example health care or education benefits)
@@ -148,8 +149,9 @@ Response options: yes or no (Answer should be yes to satisfy criteria for LGBTQ+
 **We would like to request a 15 minute kick-off call with Perigean before recruiting begins.**
 
 Availability for a kick-off call: 
-- March 20 between 10-4:30pm
 - March 21 between 10am-4pm
+- March 22 between 11am-3pm
+- March 23 between 11:30am-12:30pm, or between 3:30pm-4pm
 
 We’ll be using VA.gov, which is already live and ready to go.
 
