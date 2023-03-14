@@ -847,27 +847,13 @@ null for uncorrelated MHV rows.
    </td>
    <td>Number
    </td>
-   <td>
+   <td>nullable
    </td>
    <td>1 or 0 or null
    </td>
    <td>True if 1.  This is a convenience field for reports and reports true for the 200VLGN or 200VIDM-IDME.  The latter is true when either “IDME” or null CSP method is present.
 <p>
 null for uncorrelated MHV rows.
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
    </td>
    <td>
    </td>
