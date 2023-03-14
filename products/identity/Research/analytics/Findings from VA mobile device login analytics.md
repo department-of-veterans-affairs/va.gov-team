@@ -35,7 +35,7 @@ Our team captured analytics from Datadog during a one month period from January 
 
 Datadog records this with user agents, which we parsed with a user agent lookup app from whatismyip.net. The parsed user agent contains the user's OS and browser. For Android phones, it also has the device model, but Apple phones are lumped together. We took the top 100 user agents, and then only considered the 40 from mobile devices. Unfortunately Apple phones are lumped together, so we cannot say how many types of devices are represented. However since each OS only supports phones that are so old, we at least have a range of possible device models. This data also includes Apple iPad devices, again all models are lumped together. Finally, we found eight models of Android devices. In all cases these devices meet the login.gov camera requirements, see table below.
 
-Overall this data represents 490,684 flow completions on mobile devices. Apple devices represent 88,283 flow completions. Android devices represent 13,847 flow completions.
+Overall this data represents 102,130 flow completions on mobile devices. Apple devices represent 88,283 flow completions. Android devices represent 13,847 flow completions.
 
 **Login flow analytics from Datadog**
 
