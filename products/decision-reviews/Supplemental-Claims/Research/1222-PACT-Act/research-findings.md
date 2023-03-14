@@ -142,10 +142,8 @@ Since the evidence flow was presented to them, participants were inclined to add
 > “I would still say yes [to adding VA medical records] because it's being reviewed under a new law.”
 > 
 
-> “I would say yes [to addint VA medical records], in my evidence, I would submit it just to make sure there's copies in there.”
-
 > “I would submit it just to make sure there's copies in there.”
-> 
+
 > “If I were applying for PACT I would upload my private medical records. A lot of veterans don't trust the VA. I would upload only anything that is new.”
 
 ### Finding 4
