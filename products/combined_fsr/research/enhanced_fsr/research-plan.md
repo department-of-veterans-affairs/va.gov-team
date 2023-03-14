@@ -244,7 +244,7 @@ When will the thing you are testing be finalized? Ideally it's ready a week befo
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 -   Pilot participant email: We will contact a VA employee who is a Veteran.
   
--   Date and time of pilot session: 2/29/2023
+-   Date and time of pilot session: 
 
 ### Research sessions
 **Planned dates of research: begin moderating sessions 4/3/2023 - 4/10/2023**
@@ -278,5 +278,5 @@ Please list the people who will be serving in each role. **Include the primary p
     
 -   Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
 
-	megan.gayle@gcio.com, joseph@cityfriends.tech, charlotte@cityfriends.tech, denise.coveyduc@govcio.com, heather.rienks@va.gov, matthew.self2@va.gov, jill.anderson3@va.gov
+	megan.gayle@gcio.com, joseph@cityfriends.tech, charlotte@cityfriends.tech, denise.coveyduc@govcio.com, heather.rienks@va.gov, matthew.self2@va.gov, jill.anderson3@va.gov, andrew.rodiek@govcio.com, brandyn.sullins@govcio.com, aaron.ponce@agile6.com, scott.james@govcio.com
 
