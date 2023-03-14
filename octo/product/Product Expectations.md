@@ -1,7 +1,7 @@
 # Questions? 
 Any questions, please visit our #product-operations channel on Slack 
 # Overview
-This document outlines the unique and shared responsibilities of the Product Lead (OCTO government staff, sometimes referred to as Product Owner) and the Product Manager (usually a contractor). Please review this document together when starting work and then periodically as a check in — it will improve your communication and reduce stress.
+This document outlines the unique and shared expectations of the Product Lead (OCTO government staff, sometimes referred to as Product Owner) and the Product Manager (usually a contractor). Please review this document together when starting work and then periodically as a check in — it will improve your communication and reduce stress.
 # Shared Responsibilities
 Additional, specific responsibilities related to these categories are described in the following PO/PM-specific sections. 
 
