@@ -36,7 +36,7 @@ Overall, retrieving military information is a low-priority action compared to ot
 
 - Somewhat surprisingly, the top interaction on this page in the last 6 months is actually info on what to do if your military service history doesn't look right.
 - Second, of course, is requesting a DD214.
-- There's not a lot users can do from this page, so it's not surprising necessarily that the new CTAs are the top actions. 
+- There's not a lot users can do from this page, so it's not surprising necessarily that these CTAs are the top actions. 
 
 ---
 
