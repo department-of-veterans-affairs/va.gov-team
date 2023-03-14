@@ -1,4 +1,4 @@
-# Data Dictionary for Datasets Supporting the Login.gov Adoption Dashboard 
+# Data Dictionary for Datasets in DOMO which are Supporting the Login.gov Adoption Dashboard 
 
 This document contains a data dictionary of the transformed datasets within Domo.  See also the _(tobe)_ companion documentation for _Data and Data Model Lineage_.
 
