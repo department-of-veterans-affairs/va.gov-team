@@ -16,4 +16,4 @@ This study is part of a [staged rollout plan](https://docs.google.com/document/d
 - Review whether Veterans understand what we're asking them to do and why
 
 ## Date
-This research will likely take place in March 2023.
+This research will likely take place in March-April 2023.
