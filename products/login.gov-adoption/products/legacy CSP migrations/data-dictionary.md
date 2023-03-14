@@ -63,7 +63,7 @@ In May 2018, IAM MPI began tracking a “CSP Method” parameter which is used t
   <tr>
    <td><strong>Authentication Method</strong>
    </td>
-   <td><strong>CSP Method(s) Codes</strong>
+   <td><strong>CSP Method Code(s)</strong>
    </td>
    <td><strong>Credential Identifier Code</strong>
    </td>
