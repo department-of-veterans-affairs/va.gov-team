@@ -57,7 +57,7 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |Microbiology|Ordering location| Where test order started|_None_|
 |Microbiology|Collected location| Where we took sample |_None_|
 |**Pathology**|Type of report (surgical pathology/cytology)| Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
-|Pathology|Specimen| Sample tested ||
+|Pathology|Specimen| Sample tested |_None_|
 |Pathology|Date obtained| Date we took sample | _None_||Does "gave" work in this context? This may happen in the context of surgery, etc, as opposed to going to a lab to give blood|
 |Pathology|Performing location| Lab that did test|_None_|
 |Pathology|Date completed| Date completed |_None_|
