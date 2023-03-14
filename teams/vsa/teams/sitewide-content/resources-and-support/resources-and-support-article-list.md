@@ -84,3 +84,4 @@
 | 82 | [Creating an account for VA.gov](https://www.va.gov/resources/creating-an-account-for-vagov) | VA account and profile | 12/19/22 |
 | 83 | [VA tier 1 medication list](https://www.va.gov/resources/va-tier-1-copay-medication-list) | Health care | 12/22/22 |
 | 84 | [VEText for VA health care reminders and updates](https://www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates) | Health care | 2/10/23 |
+| 85 | [Verify school enrollment for DEA benefits](https://www.va.gov/resources/verify-school-enrollment-for-dea-benefits) | Education | 3/14/23
