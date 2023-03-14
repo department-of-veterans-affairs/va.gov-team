@@ -13,10 +13,12 @@ This study is part of a [staged rollout plan](https://docs.google.com/document/d
 ## Research Goals
 These research goals still need to be agreed upon. They are based on this [staged rollout plan](https://docs.google.com/document/d/1X5A69Jqx4xQyJje3Cwbp8e_aOH7EYS2rjmkWe6_kHiA/edit#heading=h.g5j35d7r1ip0).
 
-- Review where Veterans specifically fail during IAL2 account setup
+- Review where Veterans specifically fail during IAL2 account setup*
 - Review where Veterans go for support when they face an issue during account setup
 - Review how Veterans describe issues they face to the help desk
 - Review how the help desk supports queries that Veterans face
+
+*This is something we track in Login.gov's monthly reports.
 
 ## Date
 This research will likely take place in March 2023.
