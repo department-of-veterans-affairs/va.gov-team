@@ -40,7 +40,7 @@ Overall, retrieving military information is a low-priority action compared to ot
 
 ---
 
-Basically, the numbers support what we heard in research -- the thing people want most is their DD214. But the question this doesn't answer is this: **if we had better/more military info visible on VA.gov, would that reduce the need for DD214 requests, or not**? The DD214 is an essential document, so it's possible that even with all the military info in the world on VA.gov, we wouldn't be changing people's needs or behavior. However, it's also possible that people could use the military info on VA.gov to help fill out applications and verify records, and that this might be useful regardless. It's hard to tell just by looking at the numbers, or even from the research we did.
+Basically, the numbers support what we heard in research -- the thing people want most is their DD214. But the question this doesn't answer is this: **if we had better/more military info visible on VA.gov, would that be useful to veterans**? The DD214 is an essential document, so it's possible that even with all the military info in the world on VA.gov, we wouldn't be changing people's needs or behavior. However, it's also possible that people could use the military info on VA.gov to help fill out applications and verify records, and that this might be useful regardless. It's hard to tell just by looking at the numbers, or even from the research we did.
 
 ## Next steps
 
