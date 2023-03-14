@@ -1,7 +1,7 @@
 # Research Plan for [1010 Team, Caregiver Application (10-10CG) Facilities and Overall Usability Study, April 2023]
 
 ## Background
-This research is to be conducted on the application for Family Caregiver Benefits (10-10CG) by the 1010 team. This is an existing application and the goal of this study is to get a baseline understanding of the overall usability of the key tasks as well as test the updated facilities question and selection feature. 
+This research is to be conducted on the application for Family Caregiver Benefits (10-10CG) by the 1010 team. This is an existing application and the goal of this study is to get an overall understanding of the usability for key tasks as well as test the updated facilities question and selection feature. 
 
 - [Caregivers Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
 
