@@ -286,6 +286,7 @@ Most participants expected a way to download a copy of their completed form when
 5. Provide more explanation about the old appeals process on the new decision reviews process page
 6. Provide more clarity for those applying for presumptive conditions on the evidence summary language
 7. Explore into other possible wayfinding solutions for the form system, and non-linear form experiences. The progress bar does not help Veterans track where they are in the process when navigating back and forth through the form. Possibly something simiilar to the [task lisk](https://design-system.service.gov.uk/patterns/task-list-pages/) in the uk.gov system.
+8. Simplify the document upload functionality, which affects all forms with uploads
 
 ## Next Steps
 
