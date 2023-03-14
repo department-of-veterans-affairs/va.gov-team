@@ -283,10 +283,10 @@ Sprint 6 Epic [#54553](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
 - Recruiting #54777
 
 ### Notification Preferences
-**Design - Florence**
+**~Design - Florence~**
 
-**This is time sensitive, and we need to get this completed in Sprint 6 so we can get the necessary info back to VA Profile.**
-- #54973
+~This is time sensitive, and we need to get this completed in Sprint 6 so we can get the necessary info back to VA Profile.~**
+- ~#54973~ Closed by SS -- no longer need to do this work
 
 ### General
 **Design - Florence**
