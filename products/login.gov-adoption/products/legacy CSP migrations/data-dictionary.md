@@ -13,7 +13,9 @@ The “Login.gov Adoption Data (all)” DOMO dataset is created by ETL from foll
 
 This data set is formatted to facilitate visualizations. Each row represents a user, all the identity-verified credentials that IAM is tracking, and whether they have a Primary ID on file.
 
-Each user credential in IAM has a CSPID, although it may be more apt to refer to it as the User's Credential ID for a couple reasons.  Foremost, this is because it identifies one user's credential versus the Credential Service Provider (CSP).  The other reason is that the IAM export data focuses more on the credential versus the CSP, a nuance which is discussed below in the context of DS Logon.  The CSPIDs have a prefix, a Credential Identifier Code, that identifies the CSP which the CSPID belongs to.  (It would be more appropriate to call just the prefix a "CSP ID" or "Credential Type ID", but since CSPID is already in (arguable mis)use, the term “credential identifier code” will be used in this document instead.)  The credential identifier codes have occasionally changed over time and for various historical reasons, e.g. data cleanup efforts.  The CSPs and their corresponding CSP identifier codes which are included in this dataset are:
+Each user credential in IAM has a CSPID, although it may be more apt to refer to it as the User's Credential ID for a couple reasons.  Foremost, this is because it identifies one user's credential versus an ID of the Credential Service Provider (CSP).  The other reason is that the IAM export data focuses more on the credential versus the CSP used to authenticate it, a nuanced distinction that is really only apparent with CAC, which can be authenticated on DS Logon or AccessVA. In other words, records with CSPID containing 200DOD don't guarantee a DS Logon account or usage, although more 97% of applicable 200DOD records do have DS Logon as verified last use.
+
+The CSPIDs have a prefix, a credential identifier code, that identifies the CSP which the CSPID belongs to.  (It would be more appropriate to call just the prefix a "CSP ID" or "Credential Type ID", but since CSPID is already in (arguable mis)use, the term “credential identifier code” will be used in this document instead.)  The credential identifier codes have occasionally changed over time and for various historical reasons, e.g. data cleanup efforts.  The CSPs and their corresponding CSP identifier codes which are included in this dataset are:
 
 
 <table>
@@ -63,19 +65,31 @@ In May 2018, IAM MPI began tracking a “CSP Method” parameter which is used t
   <tr>
    <td><strong>Authentication Method</strong>
    </td>
-   <td><strong>CSP Method Code(s)</strong>
+   <td><strong>CSPMethod Code(s)</strong>
    </td>
    <td><strong>Credential Identifier Code</strong>
    </td>
   </tr>
   <tr>
-   <td>DS Logon
+   <td>DS Logon with Username/Password
    </td>
-   <td>DSL - Username/Password
-<p>
-CAC - DOD CAC card
-<p>
-DFAS
+   <td>DSL
+   </td>
+   <td>200DOD
+   </td>
+  </tr>
+  <tr>
+   <td>DS Logon with CAC
+   </td>
+   <td>CAC
+   </td>
+   <td>200DOD
+   </td>
+  </tr>
+  <tr>
+   <td>DS Logon with DFAS
+   </td>
+   <td>DFAS
    </td>
    <td>200DOD
    </td>
@@ -100,27 +114,51 @@ DFAS
    <td>ID.me
    </td>
    <td>IDME
-<p>
-IDME_MHV - ID.me as an MFA wrapper to MHV CSP
-<p>
-IDME_DSL - ID.me as an MFA wrapper to DS Logon
-<p>
-IDME_VETS
    </td>
    <td>200VIDM, idme
    </td>
   </tr>
   <tr>
-   <td>PKI via AccessVA
+   <td>DS Logon using ID.me for MFA
    </td>
-   <td>VAPIV
-<p>
-VACAC - DOD CAC card
+   <td>IDME_DSL
    </td>
-   <td>200PUSA, 200PIV 
-     <p>200DOD
+   <td>200VIDM, idme
    </td>
   </tr>
+  <tr>
+   <td>MHV CSP using ID.me for MFA
+   </td>
+   <td>IDME_MHV
+   </td>
+   <td>200VIDM, idme
+   </td>
+  </tr>
+  <tr>
+   <td>AccessVA with PIV
+   </td>
+   <td>VAPIV
+   </td>
+   <td>200PIV
+   </td>
+  </tr>
+    <tr>
+   <td>AccessVA with USAccess PIV
+   </td>
+   <td>VAPIV
+   </td>
+   <td>200PUSA
+   </td>
+  </tr>
+  <tr>
+   <td>AccessVA with DOD CAC
+   </td>
+   <td>VACAC
+   </td>
+   <td>200DOD
+   </td>
+  </tr>
+
 </table>
 
 
