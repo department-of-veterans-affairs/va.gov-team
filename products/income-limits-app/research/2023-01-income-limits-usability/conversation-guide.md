@@ -173,10 +173,6 @@ How is your income involved here?
 
 - *RECORD: Understand that it's your previous year's income that's relevant? yes / no*
 
-What do you think about this information and your question of eligibility for VA health care?
-
-- *RECORD what they say: definitive answer / only part of the answer / need to apply to know for sure / _____________*
-
 If your salary last year was around $40,000, what might that mean for your eligibility for VA health care? *(RECORD)*
 
 Can you tell me what benefits you might get? 
@@ -189,8 +185,9 @@ If your salary last year was around $83,000, what might that mean? *(RECORD)*
 
 If your salary last year was around $90,000, what might that mean? *(RECORD)*
 
-How sure are you that these benefits would apply if your salary was around $90,000?
-*(Could probe)* How certain are you that you *don't qualify for more benefits*? 
+How sure are you that these benefits *would apply* if your salary was around $90,000?
+
+- *(Could probe)* How certain are you that you *don't qualify for more benefits*? 
 
 What if your salary was around $100,000? *(RECORD)*
 
@@ -202,13 +199,13 @@ What if your salary was around $100,000? *(RECORD)*
 - *about the word "Select"*
 
 ### Task 6: [What next]
-Please stay on this screen. Based on what you see in this screen, what do you think about this information and your question of eligibility for VA health care?
+Please stay on this screen. Based on what you see in this screen, what do you think about this information and the question of eligibility for VA health care?
 - *RECORD what they say: definitive answer / only part of the answer / need to apply to know for sure / _____________*
 - *Make sure that participant is talking about what they're seeing in the app,* and NOT *what they knew before this session!*
 
 How would you decide what to do next? 
 
-What do you plan to do next? 
+What would you do next? 
 - *(RECORD: apply for VA health care / Review info entered / Back in browser / ________________)*
 
 How did this tool help or not help you decide what to do?
