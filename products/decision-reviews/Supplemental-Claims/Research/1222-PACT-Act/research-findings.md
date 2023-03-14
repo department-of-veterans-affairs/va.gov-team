@@ -291,7 +291,7 @@ Most participants expected a way to download a copy of their completed form when
 1. Increase visibility of start claim CTA on the site wide introduction (and possibly change language to fit Veteran’s mental models)
 2. Add clarifying language for worsening conditions to decrease the chances of Veterans confusing Supplemental Claim form with a 526 Claims for Increase
 3. Remove redundant edit link from evidence summary page, and associate the edit link to the header, so it’s associated to the right task
-4. Either meet veteran expectations of the ‘print this page’ button on the confirmationpage, or clarify the language
+4. Either meet veteran expectations of the ‘print this page’ button on the confirmation page, or clarify the language
 5. Provide more explanation about the old appeals process on the new decision reviews process page
 6. Provide more clarity for those applying for presumptive conditions on the evidence summary language
 7. Explore into other possible wayfinding solutions for the form system, and non-linear form experiences. The progress bar does not help Veterans track where they are in the process when navigating back and forth through the form. Possibly something simiilar to the [task lisk](https://design-system.service.gov.uk/patterns/task-list-pages/) in the uk.gov system.
@@ -309,6 +309,7 @@ Most participants expected a way to download a copy of their completed form when
 - Future usability with assistive technology, especially magnification/zoom, desktop and mobile screen readers, as well as Veterans who experience arthritis or other dexterity issues. We'd like to understand if scrolling on desktop and mobile devices presents any difficulty.
 - Further research needed with veterans who aren’t familiar with the decision review process, and veterans who are not as comfortable with technology.
 - Possible research needed on the document upload functionality when form is in staging or production.
+ - Multiple veterans mentioned that they would upload their own documents to the claim. They also voiced concern over the PDF limitations and specific upload process being too difficult for less tech saavy and older veterans.
 
 ## Appendix
 
