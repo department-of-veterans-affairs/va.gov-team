@@ -103,7 +103,7 @@ Let’s start with a few questions...
 Now I'm going to ask you to do some things... 
 
 ### Screen sharing
-I would like you first to share your screen with me--a web browser please. You might want to close any apps that you don’t want me to see.
+I would like you to share your phone screen with me so that I can see what you do during this session. You might want to first close any apps that you don’t want me to see.
 - *(refer to Screen sharing instructions above, if needed)*
 - *STOP TECH TROUBLESHOOTING **< 20 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
 
@@ -136,7 +136,7 @@ Do you see the link?
 What are your impressions of what you're looking at? *(RECORD)*
 
 Could you try to use this to find out if you're eligible for VA health care with your current income? Please explain what you want to do before clicking anywhere.
-- *(Click to start income limits app--under "Will I need to pay..." or "Does VA verify...")*
+- *(Click: income limits--under "Will I need to pay..." or "Does VA verify..."?)*
 
 ### Task 3: [Intro page of app] 
 Let's talk before you click anywhere...What are your impressions of this page?
@@ -212,7 +212,7 @@ How did this tool help or not help you decide what to do?
 
 ### Task 7: [Check info entered]
 Now you want to check whether you entered your location correctly. How could you do that? 
-- *(RECORD: Review info entered / Back in browser / zip code entry screen / ________________)*
+- *(RECORD: Review info entered / Back in browser to review page or zip code screen / ________________)*
 
 ### Task 8: [Change year]
 Suppose that you’re in the process of appealing a health care claim from 2021, and you want to see the income limits from that year. What could you do? Again, please tell me where you want to click before doing it.
