@@ -39,5 +39,38 @@
 - GA: Exit page/%
 
 
+## Task: [Primary Caregiver]
+
+**Data gathered from studies:**
+- Quotes
+- Observer Rating
+
+**Other data metrics:**
+- GA: Time on page
+- GA: Exit page/%
+
+
+
+## Task: [Secondary Caregivers]
+
+
+
+
+
+
+
+## Task: [Representative Documents]
+
+
+
+
+## Task: [Review/Sign]
+
+
+
+
+
+## Task: [Confirmation]
+
 
 
