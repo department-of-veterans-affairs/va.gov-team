@@ -54,7 +54,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 #### Planning
 
 - Length of time: 4 hours to 1 day
-- Percentage of Users 5% (## users) to 10% (## users) 
+- Percentage of Users 5% (11,509 users) to 10% (23,019 users) 
 
 #### Results:
 - Number of unique users: x
@@ -70,7 +70,7 @@ _Test a larger population of users to make sure there are no issues exposed by l
 #### Planning
 
 - Length of time: 1 week
-- Percentage of Users (and roughly how many users do you expect this to be): 20% (x users)
+- Percentage of Users (and roughly how many users do you expect this to be): 20% (46,037 users)
 
 #### Results:
 - Number of unique users: x
