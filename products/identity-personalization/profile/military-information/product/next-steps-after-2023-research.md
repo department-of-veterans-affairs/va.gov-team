@@ -4,9 +4,9 @@
 
 ## Top insights from the research
 
-1. People would love to be able to view/download the DD214 online.
+1. [People would love to be able to view/download the DD214 online](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#participants-like-the-idea-of-being-able-to-access-service-history-information-and-their-dd214-easily-online)
 - I believe this was a known insight prior to this research, but it's always good reaffirm these things and validate that they are still true. Unfortunately, because the DD214 is in the purview of DoD, and because I'm genuinely unsure whether digital copies of it exist or not, this is not something that our team can implement. In fact, I think VA getting access to the DD214 at all would be a major effort well above the level of just our team, and could take a significant amount of time. 
-2. People can not find their military info on VA.gov without guidance.
+2. [People can not find their military info on VA.gov without guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#participants-do-not-think-of-the-vagov-profile-as-a-potential-place-to-access-their-service-history-information).
 3. [The most important things we could potentially add to military info in the profile are](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#participants-like-the-idea-of-being-able-to-access-service-history-information-and-their-dd214-easily-online):
 -  Awards
 -  Education/training info
