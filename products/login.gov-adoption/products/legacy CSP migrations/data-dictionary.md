@@ -52,7 +52,7 @@ The CSPIDs have a prefix, a credential identifier code, that identifies the CSP 
   <tr>
    <td>PIV
    </td>
-   <td>200PUSA (current - US Access Program) and 200PIV (legacy) and 33 (legacy)
+   <td>200PUSA (current - US Access Program) and 200PIV (legacy?) and 33 (legacy)
    </td>
   </tr>
 </table>
