@@ -142,8 +142,10 @@ body:
   - type: checkboxes
     id: artifact-links-checkbox
     attributes:
-      label: I have provided all relevant links, screenshots, images, designs, etc. of the as-is version of the product
-  - type: markdown
+      options:
+        - label: I have provided all relevant links, screenshots, images, designs, etc. of the as-is version of the product
+          required: true
+  type: markdown
     attributes:
       value: "## Next steps"
   - type: checkboxes
