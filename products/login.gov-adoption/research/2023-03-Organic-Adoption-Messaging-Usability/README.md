@@ -8,15 +8,12 @@ There are currently multiple ways to sign in and access VA services. These sign 
 
 This initiative focuses on one migration pathway: the organic adoption of Login.gov. In this case, we're encouraging Veterans to adopt Login.gov as their primary credential, however we're not providing any specific binding or inheriting of identity data. We're essentially encouraging Veterans to set up an account from scratch, including identity verification. This [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/login.gov) has more details on this product.
 
-This study is part of a [staged rollout plan](https://docs.google.com/document/d/1X5A69Jqx4xQyJje3Cwbp8e_aOH7EYS2rjmkWe6_kHiA/edit#heading=h.g5j35d7r1ip0)  which will start with Stage A: Canary, where we will run a test with a small Veteran population to ensure any obvious bugs and edge cases are found in production.
+This study is part of a [staged rollout plan](https://docs.google.com/document/d/1X5A69Jqx4xQyJje3Cwbp8e_aOH7EYS2rjmkWe6_kHiA/edit#heading=h.g5j35d7r1ip0).
 
 ## Research Goals
 
 - Understand whether Veterans are motivated to set up an account based on messaging
 - Review whether Veterans understand what we're asking them to do and why
-- Review how Veterans are supported by the help desk when they face an issue
-
-We also want to review where Veterans fail during IAL2 account setup but we can learn this from Login.gov's monthly drop-off rates.
 
 ## Date
 This research will likely take place in March 2023.
