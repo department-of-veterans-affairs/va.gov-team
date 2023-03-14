@@ -164,7 +164,7 @@ In May 2018, IAM MPI began tracking a “CSP Method” parameter which is used t
 
 It may have been more apt if the “CSP Method” was instead called “Authentication Method”, because in some instances, the CSP Methods don’t align with the CSP.  VACAC is the notable exception and highlights that the IAM data is focused on credentials, e.g. a DOD credential, rather than CSP, e.g. DS Logon.
 
-The CSP Methods IDME_MHV, IDME_DSL (and IDME_VETS) are used solely by VA.gov Unified Sign-in Page and is used within an authentication request to instruct SSOe to use ID.me as an MFA wrapper for MHV or DS Logon.  In the case of these CSP Methods, although two CSPs are used for authentication, the credential is tracked with an ID.me credential identifier code. In the case that a user has a ID.me ID-verified credential and also used ID.me as MFA for MHV and/or DS Logon, IAM will track each of these as distinct CSPIDs, all with the _IDME_ credential identifier code.
+The CSP Methods IDME_MHV, IDME_DSL (and IDME_VETS) are used solely by VA.gov Unified Sign-in Page and is used within an authentication request to instruct SSOe to use ID.me as an MFA wrapper for MHV or DS Logon.  In the case of these CSP Methods, although two CSPs are used for authentication, the credential is tracked with an ID.me credential identifier code. In the case that a user has a ID.me ID-verified credential and also used ID.me as MFA for MHV and/or DS Logon, IAM will track each of these as distinct CSPIDs, all with the _200VIDM_ credential identifier code.
 
 **The “Login.gov Adoption Data (all)” Dataset Data Dictionary**
 
