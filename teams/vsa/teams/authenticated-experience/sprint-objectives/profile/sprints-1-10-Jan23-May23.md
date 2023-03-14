@@ -252,16 +252,17 @@ Sprint 6 Epic [#54553](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
 
 ### Direct deposit: EVSS > Lighthouse migration
 
-**PM**
+**PM - Berni**
 
-- QA planning
+- QA planning #54870
   - **We only need to test the comp & pen integration since the education integration was NOT updated**.
   - I think both Florence and Liz may have some bandwidth this sprint, so they can potentially help with this (not that anyone is a particular expert in this)
   - [Here is some test case documentation we already have put together](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-direct-deposit.md).  This is a good place to start, but I can almost guarantee it needs to be reviewed and validated, especially for appropriate staging user info.
 
 **Design - Florence**
 
-- User acceptance testing (UAT) planning & conversation guide
+- User acceptance testing (UAT) planning #54999
+- Conversation guide #55000
 
 **FE - Adam**
 
@@ -278,8 +279,20 @@ Sprint 6 Epic [#54553](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
 
 **Design - Liz**
 
-- User research conversation guide
-- Recruiting
+- User research conversation guide #54776
+- Recruiting #54777
+
+### Notification Preferences
+**Design - Florence**
+
+**This is time sensitive, and we need to get this completed in Sprint 6 so we can get the necessary info back to VA Profile.**
+- #54973
+
+### General
+**Design - Florence**
+- #54938
+Only complete this if you have time. This can get moved back if needed.
+
 
 ## Sprint 7 (3/29 - 4/11)
 Sprint 7 Epic [#54733](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/54733)
