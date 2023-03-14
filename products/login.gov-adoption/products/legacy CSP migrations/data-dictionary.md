@@ -832,7 +832,7 @@ See notes above about ID.me and DS Logon accounts.
    </td>
    <td>1 or 0 or null
    </td>
-   <td>True if 1.  This is a convenience field for reports and only reports true for the 200DOD and DSLogon CSP IDs.  
+   <td>True if 1.  This is a convenience field for reports and only reports true for 200DOD and DSLogon credential identifier codes, where there is also a last used date. The test for last used is needed because everyone with DoD correlation gets a 200DOD record, so last used will indicate if the user ever logged in with the credential.
 <p>
 It is not including the IDME_DSL to support reporting direct versus ID.me wrapper.  Future considerations may include something like: hasDSLdirect and hasDSL.
 <p>
