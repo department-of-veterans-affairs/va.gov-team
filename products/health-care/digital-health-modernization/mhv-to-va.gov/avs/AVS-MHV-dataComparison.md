@@ -85,6 +85,8 @@ Comparison of section labels are found on a different [GitHub](https://github.co
 | Interpretation | Yes | ? Is this the abnormal flag?|
 
 ### Pathology report
+| Data Field | MHV on VA.gov | AVS |
+|:-----------|:---------|:----------|
 | Type of report (surgical pathology/cytology | Yes | Yes |
 | Specimen | Yes | Yes |
 | Date obtained | Yes | Yes |
@@ -93,6 +95,8 @@ Comparison of section labels are found on a different [GitHub](https://github.co
 | Report | Yes | ? |
 
 ### EKG
+| Data Field | MHV on VA.gov | AVS |
+|:-----------|:---------|:----------|
 | Procedure/test name | Yes | Yes |
 | Date/time performed | Yes | Yes |
 | Ordering location | Yes | ? |
