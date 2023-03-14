@@ -19,7 +19,7 @@ So, I decided to check out the analytics to see what they say, and how they supp
 
 Overall, retrieving military information is a low-priority action compared to other tasks on VA.gov.
 
-- The content page for [Request your military service records (including DD214)](https://www.va.gov/records/get-military-service-records/) ranks #89 in the last 6 months.
+- The content page for [Request your military service records (including DD214)](https://www.va.gov/records/get-military-service-records/) ranks #89 in the last 6 months. This is semi-surprising, since there is currently a link to this page from the homepage.
   - About 27% of visits to this page happen in a logged-in state. 
 - [Military info in the profile](https://www.va.gov/profile/military-information) ranks #195 in the last 6 months.
   - About 90% of visits to this URL happen in a logged-in state, which makes sense since the profile requires users to be logged-in and identity-verified. 
@@ -46,4 +46,7 @@ However, that doesn't mean we should ignore this forever, especially given that 
 
 ### Should we, or should we not, invest time in elevating military info on VA.gov?
 
-This is the million dollar question, and something that I think we could run a few experiments on to see if updates change user behavior.
+This is the million dollar question, and something that I think we could run a few experiments on to see if updates change user behavior. These should be low-level efforts to see if we move the needle on behavior. Some potential ideas:
+
+- Elevating the link to military info in the profile in some way.
+- Add one field (eg. discharge status or something else) to the profile, and see if that changes behavior.
