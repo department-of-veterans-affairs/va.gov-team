@@ -1,4 +1,4 @@
-# Comparison of Data Fields Displayed on MHV on VA.gov versus AVS
+# Comparison of Data Fields Displayed on MHV on VA.gov, Mobile App and AVS
 
 Comparison of section labels are found on a different [GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/data-fields.md) page.
 
@@ -16,16 +16,9 @@ Comparison of section labels are found on a different [GitHub](https://github.co
 | Location | Yes | No |
 | Comments | Yes | No |
 
-## [Health Issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/health-issues-brief.md)
-
+## Appointments
 | Data Field | MHV on VA.gov | AVS |
 |:-----------|:---------|:----------|
-| Issue/problem title | Yes | Yes |
-| Date/time entered | Yes | Yes |
-| Status | Yes | No |
-| Location where the issue was entered | Yes | No |
-| Provider's name | Yes | Yes |
-| Comments | Yes | No |
 
 ## [Immunizations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations/immunizations-brief.md)
 
@@ -37,6 +30,17 @@ Comparison of section labels are found on a different [GitHub](https://github.co
 | Reaction | Yes | ? No, in the immunization section. Do these show up in the allergy section of AVS? |
 | Comments | Yes | No |
 | Series | Yes | Yes? |
+
+## [Health Issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/health-issues/health-issues-brief.md)
+
+| Data Field | MHV on VA.gov | AVS |
+|:-----------|:---------|:----------|
+| Issue/problem title | Yes | Yes |
+| Date/time entered | Yes | Yes |
+| Status | Yes | No |
+| Location where the issue was entered | Yes | No |
+| Provider's name | Yes | Yes |
+| Comments | Yes | No |
 
 ## [Lab/test results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/labs-and-tests/labs-and-tests-brief.md)
 
@@ -100,3 +104,69 @@ Comparison of section labels are found on a different [GitHub](https://github.co
 | Procedure/test name | Yes | Yes |
 | Date/time performed | Yes | Yes |
 | Ordering location | Yes | ? |
+
+## Medications
+| Data Field | MHV on VA.gov | AVS |
+|:-----------|:---------|:----------|
+| Name |  | Yes |
+| Dose |  | Yes |
+| Unit |  | Yes |
+| Directions/instructions |  | Yes |
+| Description |  | Yes |
+| Rx # |  | Yes |
+| Notes |  | Yes |
+| Facility name |  | Yes |
+| Facility phone # |  | Yes |
+| Ordering provider |  | Yes |
+| Prescription status |  | Yes |
+| Quantity |  | Yes |
+| Refills remaining |  | Yes |
+| Expires |  | Yes |
+| Last filled |  | Yes |
+
+### Supplies
+| Data Field | MHV on VA.gov | AVS |
+|:-----------|:---------|:----------|
+| Name |  | Yes |
+| Directions/instructions |  | Yes |
+| Description |  | Yes |
+| Rx # |  | Yes |
+| Notes |  | Yes |
+| Facility name |  | Yes |
+| Facility phone # |  | Yes |
+| Ordering provider |  | Yes |
+| Prescription status |  | Yes |
+| Quantity |  | Yes |
+| Refills remaining |  | Yes |
+| Expires |  | Yes |
+| Last filled |  | Yes |
+
+## Orders
+| Data Field | MHV on VA.gov | AVS |
+|:-----------|:---------|:----------|
+| Consultation Department (Rheumatology, etc) |  |  |
+| Consultation Instructions |  | Yes |
+| Imaging Test Name |  | Yes |
+| Imaging instructions |  | Yes |
+| Lab name |  | Yes |
+| Lab date |  | Yes |
+| Lab instructions |  | Yes |
+| Medications Name with Dose/Unit |  | Yes |
+| Other order name |  | Yes |
+| Other order date |  | Yes |
+
+## Vitals
+| Data Field | MHV on VA.gov | AVS |
+|:-----------|:---------|:----------|
+| Category name | Yes | Yes |
+| Latest reading | Yes | Yes |
+| Date of latest reading | Yes | Yes |
+| Location of latest reading | Yes | No |
+| Method of taking reading | No | Yes |
+
+
+### Historical Vital readings
+| Reading | Yes | Yes |
+| Date of entry | Yes | Yes |
+| Location of entry | Yes | No |
+| Comments | Yes | No |
