@@ -13,14 +13,14 @@ This dataset is created by ETL from following sources
 
 This data set is formatted to facilitate visualizations. Each row represents a user, all the identity-verified credentials that IAM is tracking, and whether they have a Primary ID on file.
 
-Each user credential in IAM has a CSPID, although it may be more apt to refer to it as the User's Credential ID for a couple reasons.  Foremost, this is because it identifies one user's credential versus the Credential Service Provider (CSP).  The other reason is that the IAM export data focuses more on the credential versus the CSP, a nuance which is discussed below in the context of DS Logon.  The CSPIDs have a prefix, a CSP identifier code, that identifies the CSP which the CSPID belongs to.  (It would be more appropriate to call this prefix the CSP ID, but since that term is already in (arguable mis)use, the term “CSP identifier code” will be used in this document instead. The term “CSP identifier code” is just used within this document.)  The CSP identifier codes have occasionally changed over time and for various historical reasons, e.g. data cleanup efforts.  The CSPs and their corresponding CSP identifier codes which are included in this dataset are:
+Each user credential in IAM has a CSPID, although it may be more apt to refer to it as the User's Credential ID for a couple reasons.  Foremost, this is because it identifies one user's credential versus the Credential Service Provider (CSP).  The other reason is that the IAM export data focuses more on the credential versus the CSP, a nuance which is discussed below in the context of DS Logon.  The CSPIDs have a prefix, a Credential Identifier Code, that identifies the CSP which the CSPID belongs to.  (It would be more appropriate to call just the prefix a "CSP ID" or "Credential Type ID", but since CSPID is already in (arguable mis)use, the term “credential identifier code” will be used in this document instead.)  The credential identifier codes have occasionally changed over time and for various historical reasons, e.g. data cleanup efforts.  The CSPs and their corresponding CSP identifier codes which are included in this dataset are:
 
 
 <table>
   <tr>
    <td><strong>CSP</strong>
    </td>
-   <td><strong>CSP Identifier Code(s)</strong>
+   <td><strong>Credential Identifier Code(s)</strong>
    </td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ In May 2018, IAM MPI began tracking a “CSP Method” parameter which is used t
    </td>
    <td><strong>CSP Method(s) Codes</strong>
    </td>
-   <td><strong>CSP Identifier Code</strong>
+   <td><strong>Credential Identifier Code</strong>
    </td>
   </tr>
   <tr>
@@ -126,11 +126,11 @@ VACAC - DOD CAC card
 
 It may have been more apt if the “CSP Method” was instead called “Authentication Method”, because in some instances, the CSP Methods don’t align with the CSP.  VACAC is the notable exception and highlights that the IAM data is focused on credentials, e.g. a DOD credential, rather than CSP, e.g. DS Logon.
 
-The CSP Methods IDME_MHV, IDME_DSL (and IDME_VETS) are used solely by VA.gov Unified Sign-in Page and is used within an authentication request to instruct SSOe to use ID.me as an MFA wrapper for MHV or DS Logon.  In the case of these CSP Methods, although two CSPs are used for authentication, the credential is tracked with an ID.me CSP Identifier Code. In the case that a user has a ID.me ID-verified credential and also used ID.me as MFA for MHV and/or DS Logon, IAM will track each of these as distinct CSPIDs, all with the IDME CSP Identifier Code.
+The CSP Methods IDME_MHV, IDME_DSL (and IDME_VETS) are used solely by VA.gov Unified Sign-in Page and is used within an authentication request to instruct SSOe to use ID.me as an MFA wrapper for MHV or DS Logon.  In the case of these CSP Methods, although two CSPs are used for authentication, the credential is tracked with an ID.me credential identifier code. In the case that a user has a ID.me ID-verified credential and also used ID.me as MFA for MHV and/or DS Logon, IAM will track each of these as distinct CSPIDs, all with the _IDME_ credential identifier code.
 
 **The “Login.gov Adoption Data (all)” Dataset Data Dictionary**
 
-The column/field naming convention is: [CSP Identifier Code][-IAM data column name].  The CSPMethod and LastUsed have more complex data lineage and are not as reliable as the credential flag and RecordCreated dates.
+The column/field naming convention is: [Credential Identifier Code][-IAM data column name].  The CSPMethod and LastUsed have more complex data lineage and are not as reliable as the credential flag and RecordCreated dates.
 
 
 <table>
@@ -141,25 +141,25 @@ The column/field naming convention is: [CSP Identifier Code][-IAM data column na
    </td>
   </tr>
   <tr>
-   <td>[CSP Identifier Code], e.g. 200DOD
+   <td>[Credential Identifier Code], e.g. 200DOD
    </td>
-   <td>Flagged with 1 to indicate true if the user has a credential with a given CSP Identifier Code
+   <td>Flagged with 1 to indicate true if the user has a credential with a given credential identifier code
    </td>
   </tr>
   <tr>
-   <td>[CSP Identifier Code]-CSPMethod
+   <td>[Credential Identifier Code]-CSPMethod
    </td>
    <td>For rows where the associate credential flag is 1/true, this value represents the <em>last recorded </em>authentication method for this credential.  IAM MPI began tracking this about May 2018. Prior to then, this value will be null.
    </td>
   </tr>
   <tr>
-   <td>[CSP Identifier Code]-LastUsed
+   <td>[Credential Identifier Code]-LastUsed
    </td>
    <td>For rows where the associate credential flag is 1/true, this value represents the <em>last recorded </em>usage date<em> </em>for this credential.  IAM MPI began tracking this about May 2018. Prior to then, this value will be null.
    </td>
   </tr>
   <tr>
-   <td>[CSP Identifier Code]-RecordCreated
+   <td>[Credential Identifier Code]-RecordCreated
    </td>
    <td>For rows where the associate credential flag is 1/true, this value should not be null and represents when IAM began tracking this credential for the user.
    </td>
