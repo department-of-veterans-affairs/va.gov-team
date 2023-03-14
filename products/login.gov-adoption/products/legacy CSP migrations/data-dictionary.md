@@ -50,9 +50,7 @@ Each user credential in IAM has a CSPID, although it may be more apt to refer to
   <tr>
    <td>PIV
    </td>
-   <td>200PUSA (current) and 200PIV (legacy) and 33 (legacy)
-<p>
-TODO: confirm these
+   <td>200PUSA (current - PIV compliant with US Access Program) and 200PIV (legacy) and 33 (legacy)
    </td>
   </tr>
 </table>
