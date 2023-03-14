@@ -17,7 +17,7 @@ These research goals still need to be agreed upon. They are based on this [stage
 - Review whether Veterans understand what we're asking them to do and why
 - Review how Veterans are supported by the help desk when they face an issue
 
-Review where Veterans specifically fail during IAL2 account setup
+We also want to review where Veterans fail during IAL2 account setup but we can learn this from Login.gov's monthly drop-off rates.
 
 ## Date
 This research will likely take place in March 2023.
