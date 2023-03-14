@@ -4,7 +4,7 @@ This document contains a data dictionary of the transformed datasets within Domo
 
 **About the Data**
 
-This dataset is created by ETL from following sources 
+The “Login.gov Adoption Data (all)” DOMO dataset is created by ETL from following sources 
 
 
 
