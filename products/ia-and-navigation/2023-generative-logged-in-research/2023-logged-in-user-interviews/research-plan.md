@@ -3,17 +3,15 @@
 ## Background
 While we’ve observed some high-level problems people have navigating VA.gov’s logged-in experience (eg. people are reliant on homepage and My VA links), we’ve never conducted research that is solely dedicated to this topic. To remedy this, we’re conducting a variety of research activities, including user interviews, to help us clarify exactly what problems exist with the logged-in navigation, where we are not meeting users’ expectations, and what we might do to improve the overall experience. 
 
-The insights we learn from people during these interviews will guide meaningful improvements to the logged-in IA and navigation in the coming year.
-
-[Research brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/README.md).
+[Research brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/README.md)
 
 ### OCTO Objectives 
-This research will directly support all of the OCTO north stars:
+**This research will directly support all of the OCTO north stars:**
  1. Increase the usage and throughput of VA services
  2. Decrease the time Veterans spend waiting for an outcome
  3. Increase the quality and reliability of VA services
 
-As well as the following 2023 objectives:
+**As well as the following 2023 objectives:**
 1. Enhance veterans’ personalized online experience
 2. Refresh the VA.gov homepage and information architecture
 3. Integrate the health portal features into VA.gov
@@ -27,11 +25,11 @@ Our goal with this research is to identify problems and expectations with naviga
 
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+The insights we learn from people during these interviews will guide meaningful improvements to the logged-in IA and navigation in the coming year.
 
 ### Research questions
-* How do people find tasks they need to complete? 
-* How do they do this without the homepage/My VA links?
+* How do people navigate to tasks they came to VA.gov to complete? 
+	* How do they do this if they can’t use the homepage/My VA links?
 * If they can’t find what they need, what do they do?
 - What do people do when they:
 	- have trouble with the website
@@ -45,11 +43,12 @@ How will this research advance your product to the next phase in the design proc
 ### Hypothesis
 - People will struggle finding what they’re looking for if they can’t use the homepage or My VA.
 - People will give up or call VA if they can’t find what they need on the VA.gov.
-- People will expect a level of personalization similar to what we have today in the overall main navigation, but will expect more options in the name drop down menu.
+- People’s expectations of a logged-in navigation will not be much different than what we have today.
 - Navigation needs and expectations will be similar across user types.
 
 ## Methodology	
-This will be a moderated usability study conducted remotely over Zoom.
+This will be a moderated wayfinding study conducted remotely over Zoom.
+
 
 ### Research materials
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/2023-logged-in-user-interviews/conversation-guide.md) 
