@@ -1,4 +1,4 @@
-# Comparison of Data Fields Displayed on MHV on VA.gov, Mobile App and AVS
+# Comparison of Data Fields Displayed on MHV on VA.gov, Mobile App, and AVS
 
 Comparison of section labels are found on a different [GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/data-fields.md) page.
 
