@@ -225,7 +225,7 @@ Following is the list of all fields in the dataset and any unique characteristic
    </td>
    <td>
 <p>
-This value is null for some recently used credentials.
+This value is null, and is not expected to be null, for some recent usage.
    </td>
   </tr>
   <tr>
