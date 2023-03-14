@@ -46,3 +46,53 @@ Comparison of section labels are found on a different [GitHub](https://github.co
 | Title of the lab result |  |  |
 | Date collected |  |  | 
 | Ordering provider |  |  |
+
+### Radiology reports
+| Data Field | MHV on VA.gov | AVS |
+|:-----------|:---------|:----------|
+| Procedure/test name |  |  |
+| Date/time exam performed |  |  |
+| Ordering location |  |  |
+| Requesting provider |  |  |
+| Reason for study |  |  |
+| Performing location |  |  |
+| Clinical history |  |  |
+| Radiologist |  |  |
+| Report |  |  |
+
+### Chemistry, Hematology
+| Data Field | MHV on VA.gov | AVS |
+|:-----------|:---------|:----------|
+| Lab type (chemistry/hematology) |  |  |
+| Lab test (aka name, not always present |  |  |
+| Date/time collected |  |  |
+| Specimen |  |  |
+| Ordering provider |  |  |
+| Ordering location |  |  |
+| Collected location |  |  |
+| Comments |  |  |
+| Performing location |  |  |
+
+#### Tests
+| Data Field | MHV on VA.gov | AVS |
+|:-----------|:---------|:----------|
+| Test name |  |  |
+| Results |  |  |
+| Units |  |  |
+| Reference range |  |  |
+| Status |  |  |
+| Performing location |  |  |
+| Interpretation |  |  |
+
+### Pathology report
+| Type of report (surgical pathology/cytology |  |  |
+| Specimen |  |  |
+| Date obtained |  |  |
+| Performing location |  |  |
+| Date completed |  |  |
+| Report |  |  |
+
+### EKG
+| Procedure/test name |  |  |
+| Date/time performed |  |  |
+| Ordering location |  |  |
