@@ -3,7 +3,7 @@
 
 
 
-## Task: [Intro Page - Start Application]
+## First Task: [Introduction page]
 
 **Data gathered from studies:**
 - Partipant Prepared Rating & Why 
@@ -17,7 +17,7 @@
 
 
 
-## Task: [Veteran Information]
+## Second Task: [Veteran information]
 
 **Data gathered from studies:**
 - Quotes
@@ -27,50 +27,58 @@
 - GA: Exit page/%
 
 
-## Task: [Facilities Question]
+## Third Task: [VA Facility selection] 
+
+**Data gathered from studies:**
+- Quotes
+- Observer Rating
+
+
+**Other data metrics:**
+- GA: Time on page
+- GA: Exit page/%
+
+
+## Fourth Task: [Primary Caregiver]
+
+**Data gathered from studies:**
+- Quotes
+- Observer Rating
+
+**Other data metrics:**
+- GA: Time on page
+- GA: Exit page/%
+
+
+
+## Fifth Task: [Secondary Caregivers]
+
+**Data gathered from studies:**
+- Quotes
+
+
+
+
+
+## Sixth Task: [Representative Documents]
 
 **Data gathered from studies:**
 - Quotes
 - Observer Rating
 
 
-**Other data metrics:**
-- GA: Time on page
-- GA: Exit page/%
-
-
-## Task: [Primary Caregiver]
+## Seventh Task: [Review]
 
 **Data gathered from studies:**
 - Quotes
 - Observer Rating
 
-**Other data metrics:**
-- GA: Time on page
-- GA: Exit page/%
 
 
+## Eighth Task: [Confrimation Page]
 
-## Task: [Secondary Caregivers]
-
-
-
-
-
-
-
-## Task: [Representative Documents]
-
-
-
-
-## Task: [Review/Sign]
-
-
-
-
-
-## Task: [Confirmation]
+**Data gathered from studies:**
+- Quotes
 
 
 
