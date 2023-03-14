@@ -117,7 +117,8 @@ IDME_VETS
 <p>
 VACAC - DOD CAC card
    </td>
-   <td>200PUSA, 200PIV 200DOD
+   <td>200PUSA, 200PIV 
+     <p>200DOD
    </td>
   </tr>
 </table>
