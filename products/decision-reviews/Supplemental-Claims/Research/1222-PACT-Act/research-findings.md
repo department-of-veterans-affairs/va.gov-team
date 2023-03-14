@@ -250,7 +250,7 @@ Most participants expected a way to download a copy of their completed form when
 
 ### Additional Insights
 
-1. Confidence for form submission and success extends beyond the form itself. It’s bolstered by the information shown before they reach the form, and by the confirmation they receive after they submit the form. Most participants desired a separate notification for submission of the Intent to File and Supplemental Claims form. They expect notifications to be in their email and on mobile
+1. Most participants desired a separate notification for submission of the Intent to File and Supplemental Claims form. They expect notifications to be in their email and on mobile
 
 > “Some places have text messages now in addition to email. i hope that gets implemented.”
 > 
