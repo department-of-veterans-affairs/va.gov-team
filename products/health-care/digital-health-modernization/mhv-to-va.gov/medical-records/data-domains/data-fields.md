@@ -54,7 +54,7 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |Chemistry/hematology|Interpretation [for specific test]| |_None_ || What types of information does this include? What guidance do providers see for field? <br> Who inputs this and the comments field? Ordering provider? PC? Lab technician? We don't want the user to think they can add their own comments.<br> Is interpretation of lab results included in the Values/Results USCDI field?|
 |Chemistry/hematology|Ordering provider| Provider who ordered test |_None_|
 |Chemistry/hematology|Ordering location| Where test order started |_None_|
-|Chemistry/hematology|Collected location| Where you got test |_None_|
+|Chemistry/hematology|Collected location| Where we took sample |_None_|
 |Chemistry/hematology|Comments| | _None_||How is this different from Interpretation field? |
 |Chemistry/hematology|Performing Location| Lab that did test |_None_ || It seems that this field is referring to the overall lab results, and not related to individual tests. If all of the tests were performed in other locations, what is this field referring to?|
 |Microbiology|Lab type | |_None_ || What types can you choose from here? A: The value will always be "Microbiology" |
