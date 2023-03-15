@@ -79,15 +79,15 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |EKG|Ordering location| |_None_|
 
 ## Lab types
-**Overall note:** Could we use "Lab" as the type for chem/hem, pathology, and microbiology?
+**Overall question:** Can we use "Labs" as the type for chem/hem, pathology, and microbiology? Is there a reason these must be different on the front end?
 
 |Lab type | Suggested label | Notes             | Questions           |
 |:----------------------|:----------------|:------------------|:--------------------|
-|Chemistry/hematology||||
-|Pathology |||
-|Microbiology | ||
-|Radiology | X-rays and imaging tests | 
-|EKG |EKG (electrocardiogram) |Historical category |Are new EKGs added to medical records? |
+|Chemistry/hematology|Labs|||
+|Pathology |Labs||
+|Microbiology |Labs||
+|Radiology |X-rays and imaging tests | 
+|EKG |EKGs (electrocardiograms) |Historical category |Are new EKGs added to medical records? |
 
 ## Care notes and summaries
 
