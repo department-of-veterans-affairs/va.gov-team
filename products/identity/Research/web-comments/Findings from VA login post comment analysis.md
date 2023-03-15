@@ -74,7 +74,7 @@ Although the categories listed here don’t claim to be exhaustive or exclusiona
 - “When I finally got through I could not receive a text with a stupid code to continue. I tried many many times. I tried again days later. Not without a ton of effort did I finally get through.”
 - “Every time it has me enter a verification code, I go back to retrieve it from my phone and I go back to enter it , it makes me start all over in an endless loop”
 
-**7. Technology proficiency and accessibility concerts**
+**7. Technology proficiency and accessibility concerns**
 - Several commenters mentioned that other veterans or themselves have technology proficiency concerns.
 - “You have no idea what some people have to go through just to use tech. It is not easy.”
 - “Many of our veterans can not keep up with the constant change of todays technology. I’m in my seventies and I struggle with my flip phone.”
