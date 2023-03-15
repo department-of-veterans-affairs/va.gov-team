@@ -46,9 +46,8 @@ Before we start looking at the website, I want to learn a more about you.  When 
 	- *If needed:* what website do you use to do that?
 
 - In order to join today’s session, you needed to confirm you have a VA.gov account - tell me about the last time you logged into the account. 
-	* What did you want to do?
-	* How did you get started?
-	* What did you do next?
+	* Why did you log on?
+	* What did you end up doing while logged on?
 
 
 ### Things to note:
@@ -67,7 +66,7 @@ Thanks for sharing all of that with me. Now I’ll have you share your screen in
 I can see your screen, great! We can get start looking at websites now.
 
 **If participant clearly stated a benefit or service you can pull a task from:**
-Thinking about your [benefit or service], and how you said the last time you logged in you [thing they did], can you show me how you did that? It’ll help if you can think out loud as much as possible.
+Now that you’re logged in, can you show me how you  (use their language for what they ended up doing while logged in)? It’ll help if you can think out loud as much as possible.
 
 **If participant does not have any recent experience with VA to pull from, pull logged-in task from Cindy’s top task research findings:**
 Imagine you wanted to get your VA medical records. Show me how you’d go about doing that. It’ll help if you can think out loud as much as possible.
@@ -102,8 +101,8 @@ Thanks, that is helpful to see. Before we move on, I’m curious to get your tho
 - If they couldn’t navigate to their task, what did they do?
 - How does the logged-in experience line up with what they expected?
 
-## Second Task: Complete second benefit related task - 8 min / 16 min for screenreader sessions
-Now I’d like to see how you go about finding a something else on the website.  *Ok for participant to start wherever they are on the website.*
+## Task 2: Complete second benefit related task - 8 min / 16 min for screenreader sessions
+Now I’d like to see how you go about finding a something else on the website.  *Ok for participant to start wherever they are on the website, or from a fresh browser if that’s what they’d do.*
 
 **If participant clearly stated a benefit or service you can pull a task from:**
 Thinking about your [benefit or service], are there other related things you need to do online, or that you had to do in the past? Show me how you’d go about doing that, and please continue thinking out loud. You’re doing a great job with that.
@@ -130,7 +129,7 @@ Thank you for showing that to me!
 - Where did the person go if they couldn’t use My VA or the Homepage?
 - If they couldn’t navigate to their task, what did they do?
 
-## Third Task: Update contact information - 5 min / 10 min for screen reader session
+##Task: Update contact information - 5 min / 10 min for screen reader session
 Now I’d like to for you to show me one last thing - how would you update the address you have on file with VA?
 	
 **! Stop the participant before they change their actual information !**
@@ -148,7 +147,10 @@ Thank you for showing that to me!
 
 ## Post-Task Interview - 10 minutes
 Those are all the things I wanted you to show me on the website. Thanks for going through that with me! I have just a few more questions.
-- If you can’t find what you’re looking for on the VA website, what do you do?
+- If you can’t find what you’re looking for on the VA website, what else do you try?
+- What are other websites that you use a username and password to log on?
+	- What do you expect to change when you log on to _____?
+	- What on the site indicates that change to you?
 - I’d like for you to take a moment and review the top portion of the website (header). Considering the fact that you’re logged into the website, how does what you see line up with your expectations?
 
 ## Thank-You and Closing - 2 minutes
