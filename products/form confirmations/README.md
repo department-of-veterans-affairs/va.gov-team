@@ -35,21 +35,6 @@ _Describe, in a few sentences and/or bullet points, what you plan to build, and 
 
 _For non-trivial technical solutions, an [engineering design doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/design-docs) should be written to deeply explain **How** this product will be built._
 
---- 
-
-## Launch Dates
-- *Launch Date*: TBD
-
----
-
-## Screenshots
-
-_Include before/after screenshots, if applicable. Delete this section otherwise._
-
-### Before
-
-### After
-
 ---
 
 ## Reference Material
