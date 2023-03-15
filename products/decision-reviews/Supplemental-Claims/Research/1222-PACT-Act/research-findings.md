@@ -111,7 +111,8 @@ One participant thought they could use a Supplemental Claim for a worsening cond
 > 
 
 > “It's clear what a Supplemental Claim is, it can get confusing between this and a higher level review… New and relevant evidence, the information here is clear… It definitely makes the Supplemental Claim easier to understand.”
-> 
+
+>"If you do have a presumptive condition, you don't need prove that your service caused the condition. That was a big confusion among veterans."
 
 ### Finding 2
 
