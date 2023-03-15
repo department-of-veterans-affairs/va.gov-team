@@ -16,7 +16,7 @@ Determine go-forward strategy for getting MHV preferences onto  VA.gov
 
 - Welcome (back) to Joni!
 - Jonathan shared a [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677775946971/1e8d73d4013ecec84b932c699ce1cf8584cb7e35?invited=true&sender=u71ad98f94f5263595f9a4390) where he has gathered preferences information from various sources.
-	- Another [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/vsa8243/1645732777530/3b75[…]c58f4463823ac9476e4e25dc1240f?sender=u24af215c7d9bf806b8545488) showing the information Liz researched in 2022.
+	- Another [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/vsa8243/1645732777530/3b75[…]c58f4463823ac9476e4e25dc1240f?sender=u24af215c7d9bf806b8545488) showing the information Liz Lantz on the VA.gov Profile team researched in 2022.
 - Jonathan did the most digging into Profile
 - Daniel agrees that Profile is probably a good place to start
 - Coulton thinks this is great.  There are some Word and Excel docs that contains some of this info, but not all.  It's helpful to see this in this format
