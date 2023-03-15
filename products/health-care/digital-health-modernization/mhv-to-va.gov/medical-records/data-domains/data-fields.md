@@ -79,11 +79,13 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |EKG|Ordering location| Where test order started |_None_|
 
 ## Lab types
+**Overall note:** Could we use "Lab" as the type for chem/hem, pathology, and microbiology?
+
 |Lab type | Suggested label | Notes             | Questions           |
 |:----------------------|:----------------|:------------------|:--------------------|
-|Chemistry/hematology|||Are all tests in this category blood tests? Would "blood tests" or "routine blood tests" be an accurate label here?|
+|Chemistry/hematology||||
 |Pathology |||
-|Microbiology | |This is a subtype of pathology. It seems to include tests for bacteria, viruses, fungi, and parasites.|Would "Tests for infections" be an accurate PL label?|
+|Microbiology | ||
 |Radiology | X-rays and imaging tests | 
 |EKG |EKG (electrocardiogram) |Historical category |Are new EKGs added to medical records? |
 
