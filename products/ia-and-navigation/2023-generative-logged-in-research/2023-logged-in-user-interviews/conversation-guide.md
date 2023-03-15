@@ -76,7 +76,7 @@ Imagine you wanted to get your VA medical records. Show me how you’d go about 
 QUESTION FOR TEAM: Does the new homepage redirect to My VA if you sign in from there?
 
 - *If needed,*
-	- tell them to open a browser
+	- Tell them to open a browser
 	- Can you show me how you’d do that on the VA website?
 	- Guide away from MHV or eBenefits to VA.gov 
 	- Share the new homepage or health hub page with them when they land on current versions (need links)
@@ -102,9 +102,8 @@ Thanks, that is helpful to see. Before we move on, I’m curious to get your tho
 - If they couldn’t navigate to their task, what did they do?
 - How does the logged-in experience line up with what they expected?
 
-
 ## Second Task: Complete second benefit related task - 8 min / 16 min for screenreader sessions
-Now I’d like to see how you go about finding a something else on the website.  *Ok to for participant to start wherever they are on the website.*
+Now I’d like to see how you go about finding a something else on the website.  *Ok for participant to start wherever they are on the website.*
 
 **If participant clearly stated a benefit or service you can pull a task from:**
 Thinking about your [benefit or service], are there other related things you need to do online, or that you had to do in the past? Show me how you’d go about doing that, and please continue thinking out loud. You’re doing a great job with that.
@@ -148,7 +147,7 @@ Thank you for showing that to me!
 - If they couldn’t navigate to profile, what did they do?
 
 ## Post-Task Interview - 10 minutes
-Those are all the things I wanted you to show me on the website. Thanks for going through that with me! I have just a few more questions
+Those are all the things I wanted you to show me on the website. Thanks for going through that with me! I have just a few more questions.
 - If you can’t find what you’re looking for on the VA website, what do you do?
 - I’d like for you to take a moment and review the top portion of the website (header). Considering the fact that you’re logged into the website, how does what you see line up with your expectations?
 
