@@ -230,7 +230,7 @@ Following is the list of all fields in the dataset and any unique characteristic
    </td>
    <td>Ten digits, starting with 1000000000
    </td>
-   <td>A synthetic ID, using Data Tokenization, in place of a natural ID, e.g. SECID or ICN, for removal of PII. May consider a hash in the future.
+   <td>A synthetic ID, using _data tokenization_, in place of SECID or ICN, for removal of PII. May consider a hash in the future.
    </td>
    <td>
    </td>
@@ -370,7 +370,7 @@ This value is null, and is not expected to be null, for some recent usage.
    </td>
    <td>nullable
    </td>
-   <td>MHV or null
+   <td>"MHV" or null
    </td>
    <td>Transactions represent MHV Sign-in Option 3 or via AccessVA.
    </td>
@@ -426,7 +426,7 @@ This value is null, and is not expected to be null, for some recent usage.
    </td>
    <td>nullable
    </td>
-   <td>LOGINGOV or null
+   <td>"LOGINGOV" or null
    </td>
    <td>
    </td>
