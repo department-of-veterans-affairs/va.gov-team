@@ -290,8 +290,7 @@ Sprint 6 Epic [#54553](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
 
 ### General
 **Design - Florence**
-- #54938
-Only complete this if you have time. This can get moved back if needed.
+- ~#54938 Only complete this if you have time. This can get moved back if needed.~ Push out to Sprint 7 per BX
 
 
 ## Sprint 7 (3/29 - 4/11)
@@ -336,7 +335,8 @@ Then we are ready to close out this project!!
 
 **Design - Florence**
 
-- UX Improvements: Heuristic Review and Analysis of Profile and My VA #53227
+- UX Improvements: Heuristic Review and Analysis of Profile and My VA #53227 (finish up 3 points left IF unable to get to in Sprint 6) - per BX
+- #54938 updated Sketch files / added by BX
 
 ## Sprint 8 (4/12 - 4/25)
 Sprint 8 Epic [#54916](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/54916)
