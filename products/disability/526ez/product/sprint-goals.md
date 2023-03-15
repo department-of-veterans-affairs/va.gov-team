@@ -25,22 +25,19 @@ Period - 03/01/2023 - 03/14/2023
    - [x] Team communication norms
    - [Team norms mural board link](https://app.mural.co/t/agilesixapplications0942/m/agilesixapplications0942/1676581509383/4d94293dcf22719dc7ba6267740466fb2f172c93?sender=u1dc3a1dc47390e0b38d61593)
 - [ ] Engineering work
-   - [ ] Complete spike for common framework for eVSS endpoint migration with the following outcome <br>
+   - [x] Complete spike for common framework for eVSS endpoint migration with the following outcome <br>
          - Working software that can be used to implement a single endpoint migration <br>
-         - 
-    - [ ] Identify what else is needed for endpoint migration framework <br>
-          -  
+    - [x] Identify what else is needed for endpoint migration framework <br>
     - [ ] Starting technical discovery on the date of claim bug <br>
           -  Not started 
           -  EKS migration effort was discovered mid-sprint and took priority over working on this issue
     - [ ] Do we think we have capacity/time to take on the rated disabilities endpoint migration? <br>
-          -  Was not started due lack of time
-    - [ ] Work taken on mid-sprint  <br>
+          -  Was a stretch goal and not pulled in
+    - [x] Work taken on mid-sprint  <br>
           - EKS Migration endpoint testing in staging  <br>
-              -  
  - [ ] Research Discovery
-   - [ ] Identify ideas for improvement for core submission as identified by existing research 
-   - [ ] Research around 526 form validation problem <br>
+   - [x] Identify ideas for improvement for core submission as identified by existing research 
+   - [x] Research around 526 form validation problem <br>
          - Researched top 5 errors based on # of occurances  <br>
          - Identified potential causes of errors and whether they are in this team's control for remediation <br>
          - Will require current data pull to understand what error types are still an issue <br>
