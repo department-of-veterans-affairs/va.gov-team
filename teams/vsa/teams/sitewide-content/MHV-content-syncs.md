@@ -2,7 +2,12 @@
 -
 
 **Agenda**
+Downloadable reports screen — working content draft for discussion
 
+Questions for discussion:
+- Does organizing by "share" and "get for personal files" make sense? Does Health Summary map neatly to "Share" and BB & complete record to "Get for personal files"?
+- If phase 0 BB doesn't include self-entered data or custom date range/domain options, why would Veteran choose this over Health Summary?
+- How do we diffentiate the "download records" feature here from the "download" feature on html list and detail screens? Can we talk about completeness or portability of records?
 
 **February 15, 2023 — Biweekly sync**
 -
