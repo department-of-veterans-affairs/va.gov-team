@@ -40,7 +40,7 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |Chemistry/hematology|Units [for specific test]| | _None_|| Can we remove the "Units" field, and add the units to the result and reference range?|
 |Chemistry/hematology|Reference range [for specific test]| Standard range |_None_||Does the reference range adjust based on patient demographics or conditions?|
 |Chemistry/hematology|Status [for specific test]| |_None_ || Under what circumstances would "status" be anything other than final? Can we remove this field?|
-|Chemistry/hematology|Performing location [for specific test]| _None_||Is this suggested label correct — does "performing location" mean the lab that analyzed the sample? |
+|Chemistry/hematology|Performing location [for specific test]| |_None_||Is this suggested label correct — does "performing location" mean the lab that analyzed the sample? |
 |Chemistry/hematology|Interpretation [for specific test]| |_None_ || What types of information does this include? What guidance do providers see for field? <br> Who inputs this and the comments field? Ordering provider? PC? Lab technician? We don't want the user to think they can add their own comments.<br> Is interpretation of lab results included in the Values/Results USCDI field?|
 |Chemistry/hematology|Ordering provider| Provider |_None_|
 |Chemistry/hematology|Ordering location|  |_None_|
