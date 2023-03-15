@@ -58,7 +58,7 @@ Before we start looking at the website, I want to learn a more about you.  When 
 - What did they last do on VA.gov?
 
 ## Task 1: Complete benefit related task - 12 minutes / 24 min for screen reader sessions
-**Task goal:** *See how they go about navigating to their task, ultimately on VA.gov. They may start with Google searching or something else, which is fine. Eventually, we’ll need to guide them to logging in on VA.gov if they don’t go there on their own. We’ll also want to evaluate how they’d get to this task if they couldn’t use the homepage or My VA*
+**Task goal:** *See how they go about navigating to their task, ultimately on VA.gov. They may start with Google searching or something else, which is fine. Eventually, we’ll need to guide them to logging in on VA.gov if they don’t go there on their own. We’ll also want to evaluate how they’d get to this task if they couldn’t use the homepage or My VA*.
 
 Thanks for sharing all of that with me. Now I’ll have you share your screen in zoom. Do you know how to do that? If not, I can help you.
 
