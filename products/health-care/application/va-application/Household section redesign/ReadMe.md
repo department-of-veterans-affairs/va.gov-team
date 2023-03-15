@@ -141,7 +141,7 @@ Data source - Call Center team/TBD
 - How to access and test
     - [Staging env](https://staging.va.gov/health-care/apply/application/introduction)
     - Testing documentation - TestRail
-    - [Household section test/use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Staging%20Review_QA/Household%20section%20optimization%20-%20Use%20Cases.md)
+    - [Household section test/use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Staging%20Review_QA/Household%20Section%20Optimization%20Use%20Cases.md)
     - Household section a11y test case documentation
 - Release plan
 - [Production env](https://www.va.gov/health-care/apply/application/introduction)
