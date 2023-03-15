@@ -14,11 +14,11 @@ This document serves as initial definitions of each of the capabilities the [VA.
     2. SPA for authentication broker: For single page applications we can provide frontend redirect authentication with our hosted USiP (instead of the application hosting their own login page we can do it for them).
 4. [Sign-in-Service (SiS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/readme.md)
     1. Mocked auth: enables engineers and product testers to click through authentication without needing to enter credentials to test an authenticated endpoint on VA.gov. This doesn't mock login.gov’s interaction, it simply creates a session on [localhost](http://localhost) or dev to enable testing.
-    2. OAuth - Mobile
-    3. OAuth - Web
-5. Inherited Proofing (IP)
-    1. DSLogon Grandfathering
-    2. MHV in person proofed
+    2. [OAuth - Mobile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/Sign-in-service_Mobile-OAuth.md): The VA Mobile App integration is an example of our API based PKCE OAuth integration.
+    3. [OAuth - Web](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/Sign-in-service_Web-OAuth.md): The [VA.gov](http://VA.gov) application is an example of our cookie based PKCE OAuth integration.
+5. Inherited Proofing (IP): The general concept of accepting known information regarding an individual who is attempting to access sensitive information on a VA application from a different credential provider than the one the person is currently attempting to use.
+    1. DSLogon Grandfathering: A solution that is still being developed however the initial plan is to label an IAL1 [Login.gov](http://Login.gov) account as IAL2 if we determine the user has an LOA2 DSLogon credential within VA. This will allow the user to access sensitive information about the DSLogon user without needing to go through the user verification process on Login.gov. The benefit will only be felt within the VA space and not at other agencies that use Login.gov.
+    2. [MHV in person proofed](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Inherited%20Proofing/MHV%20Inherited%20Proofing): An API was created within [VA.gov](http://VA.gov) that interacts with an MHV API that will provide information about currently logged in MHV users. This information includes how the MHV user on VA.gov provided proof of who they are to MHV. This information would be passed on to [login.gov](http://login.gov) in order to not prompt the MHV users for the same information they had provided before, in hopes of streamlining the verified login.gov verification process.
 6. Usermodel
     1. [VA.gov](http://VA.gov) integration
     2. Mobile integration
