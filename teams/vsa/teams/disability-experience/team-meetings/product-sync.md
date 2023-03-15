@@ -1,5 +1,13 @@
 # Benefits Disability Experience - Product sync
 
+### Date: March 15 2023
+### Items to be discussed:
+- Value matrix debrief
+- Value matrix follow-up with Stakeholders
+- Potential x-team overview from previous 526 team
+- 
+
+
 ### Date: March 9 2023
 ### Items to be discussed:
 - Goal-ideas alignment on the idea board
