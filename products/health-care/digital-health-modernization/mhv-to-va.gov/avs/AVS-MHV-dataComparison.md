@@ -17,15 +17,15 @@ Comparison of section labels are found on a different [GitHub](https://github.co
 | Comments | Yes | No |
 
 ## Appointments
-| Data Field | MHV on VA.gov | AVS |
-|:-----------|:---------|:----------|
-| Scheduled upcoming in-person appointments |  | Yes |
-| Scheduled upcoming remote appointments |  | Yes |
-| Recall appointments |  | Yes |
-| Recall instructions |  | Yes |
-| Date |  | Yes |
-| Clinic name |  | Yes |
-| Physical location |  | Yes |
+| Data Field | MHV on VA.gov | Mobile App | AVS |
+|:-----------|:---------|:----------|:----------|
+| Scheduled upcoming in-person appointments |  |  | Yes |
+| Scheduled upcoming remote appointments |  |  | Yes |
+| Recall appointments |  |  | Yes |
+| Recall instructions |  |  | Yes |
+| Date |  |  | Yes |
+| Clinic name |  |  | Yes |
+| Physical location |  |  | Yes |
 
 ## [Immunizations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/immunizations/immunizations-brief.md)
 
