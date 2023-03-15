@@ -213,6 +213,7 @@ How did this tool help or not help you decide what to do?
 ### Task 7: [Check info entered]
 Now you want to check whether you entered your location correctly. How could you do that? 
 - *(RECORD: Review info entered / Back in browser to review page or zip code screen / ________________)*
+- *If surprised by dependents screen, ask what they expected to see (Continue button --> Review page?)*
 
 ### Task 8: [Change year]
 Suppose that you’re in the process of appealing a health care claim from 2021, and you want to see the income limits from that year. What could you do? Again, please tell me where you want to click before doing it.
