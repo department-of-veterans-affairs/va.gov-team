@@ -125,7 +125,9 @@ Or, in the case of one participant, this information was used to piece together 
 >"If someone says I need to see your DD214 for like a job interview like as an example, I give them a copy."
 
 ### It's not rare for Veterans to lack easy access to their original DD214.
-1/10 participant had simply never received a DD214 or other discharge papers after her service: "Some people have a DD214, I don't have one. But if you had that, you'd be able to look on there to see your dates of service. Or you can email the archives in DC."
+1/10 participant had simply never received a DD214 or other discharge papers after her service: 
+
+>"Some people have a DD214, I don't have one. But if you had that, you'd be able to look on there to see your dates of service. Or you can email the archives in DC."
 
 Other participants lacked temporary (or more permanent) access to their DD214 for a myriad of other reasons, including the document being destroyed or lost due to homelessness, a house fire, or the process of relocation/moving to a new place:
 
