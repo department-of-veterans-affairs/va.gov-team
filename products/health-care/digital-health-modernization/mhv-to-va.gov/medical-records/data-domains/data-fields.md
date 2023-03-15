@@ -1,3 +1,6 @@
+## Data fields for medical records
+
+**Status: Draft**
 
 ## Table of Contents
 - [Domains](#domains)
