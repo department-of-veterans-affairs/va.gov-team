@@ -55,7 +55,7 @@ Before we start looking at the website, I want to learn a more about you.  When 
 - What benefits/services does the veteran have?
 - Do they already use VA.gov to manage or access that benefit?
 - If they don’t use VA.gov but they use the internet in another way, what is that other way?
-- What did they last do on VA.gov
+- What did they last do on VA.gov?
 
 ## Task 1: Complete benefit related task - 12 minutes / 24 min for screen reader sessions
 **Task goal:** *See how they go about navigating to their task, ultimately on VA.gov. They may start with Google searching or something else, which is fine. Eventually, we’ll need to guide them to logging in on VA.gov if they don’t go there on their own. We’ll also want to evaluate how they’d get to this task if they couldn’t use the homepage or My VA*
