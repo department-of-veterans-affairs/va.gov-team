@@ -36,16 +36,20 @@ Great, thank you. We have an accessibility specialist in the session, standing b
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
 ## Warm-up Questions (Optional) - X minutes
-Before we get going, I want to learn more a little more about you.
+Before we start looking at the website, I want to learn a more about you.  When the session was scheduled you provided some information. 
 
-I understand that you have [list services/benefits from tracker] through VA. Is that correct?
+- I understand you are a [*Veteran / Caregiver / Family member )* Is that right? *If Caregiver, confirm:* Are you a caregiver for a Veteran? Are you a Veteran?
 
-Thanks for confirming that. Are there any other benefits or services that you receive?
+- And, according to my notes you have [services/benefits from Perigean participant tracker] through VA. Is that correct? 
+- Thanks for confirming that. Are there any other benefits or services that you receive?
+- Do you manage or access that benefit or service online at all? Tell me more about that.
+	- *If needed:* what website do you use to do that?
 
-Do you manage or access that benefit or service online at all? Tell me more about that.
-- *If needed:* what website do you use to do that?
+- In order to join today’s session, you needed to confirm you have a VA.gov account - tell me about the last time you logged into the account. 
+	* What did you want to do?
+	* How did you get started?
+	* What did you do next?
 
-I know you have a VA.gov account - tell me about the last time you logged into the website. What did you do?
 
 ### Things to note:
 - What benefits/services does the veteran have?
@@ -53,10 +57,10 @@ I know you have a VA.gov account - tell me about the last time you logged into t
 - If they don’t use VA.gov but they use the internet in another way, what is that other way?
 - What did they last do on VA.gov
 
-## First Task: Complete first benefit related task - 12 minutes / 24 min for screen reader sessions
+## Task 1: Complete benefit related task - 12 minutes / 24 min for screen reader sessions
 **Task goal:** *See how they go about navigating to their task, ultimately on VA.gov. They may start with Google searching or something else, which is fine. Eventually, we’ll need to guide them to logging in on VA.gov if they don’t go there on their own. We’ll also want to evaluate how they’d get to this task if they couldn’t use the homepage or My VA*
 
-Thanks for sharing all of that with me. Now I’ll have you share your screen in zoom. Do you know how to do that?
+Thanks for sharing all of that with me. Now I’ll have you share your screen in zoom. Do you know how to do that? If not, I can help you.
 
 *Guide with screen sharing if needed*
 
@@ -83,6 +87,8 @@ Thank you for showing that to me!
 
 **If participant used a link from homepage or My VA:** Can you show me how you’d do that if the link wasn’t on the [homepage or My VA]? Where would you go?
 
+Thanks, that is helpful to see. Before we move on, I’m curious to get your thoughts on the website now that you’re signed in to your account.  How does it line up with what you’d expect?
+
 ### Things to watch for:
 - If we were able to pull from participant experience, what task did they need to complete?
 - Where does the participant start? VA.gov or somewhere else?
@@ -94,6 +100,7 @@ Thank you for showing that to me!
 - What, if anything did the participant find confusing?
 - Where did the person go if they couldn’t use My VA or the Homepage?
 - If they couldn’t navigate to their task, what did they do?
+- How does the logged-in experience line up with what they expected?
 
 
 ## Second Task: Complete second benefit related task - 8 min / 16 min for screenreader sessions
