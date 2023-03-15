@@ -24,6 +24,9 @@ Comparison of section labels are found on a different [GitHub](https://github.co
 | Recall appointments |  |  | Yes |
 | Recall instructions |  |  | Yes |
 | Date |  |  | Yes |
+| Time |  | Yes | No |
+| Type of care | Yes | No | No |
+| Modality | Yes | Yes | Yes (Remote vs. In-person) |
 | Clinic name |  |  | Yes |
 | Physical location |  |  | Yes |
 
