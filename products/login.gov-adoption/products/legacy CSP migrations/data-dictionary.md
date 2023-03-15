@@ -187,13 +187,13 @@ The column/field naming convention is: [Credential Identifier Code][-IAM data co
   <tr>
    <td>[Credential Identifier Code]-CSPMethod
    </td>
-   <td>For rows where the associate credential flag is 1/true, this value represents the <em>last recorded </em>authentication method for this credential.  IAM MPI began tracking this about May 2018. Prior to then, this value will be null.
+   <td>For rows where the associate credential flag is 1/true, this value represents the <em>last recorded </em>authentication method for this credential.  There is typically a day lag with updating IAM with access events.  IAM MPI began tracking this about May 2018. Prior to then, this value will be null.
    </td>
   </tr>
   <tr>
    <td>[Credential Identifier Code]-LastUsed
    </td>
-   <td>For rows where the associate credential flag is 1/true, this value represents the <em>last recorded </em>usage date<em> </em>for this credential.  IAM MPI began tracking this about May 2018. Prior to then, this value will be null.
+   <td>For rows where the associate credential flag is 1/true, this value represents the <em>last recorded </em>usage date<em> </em>for this credential.  There is typically a day lag with updating IAM with access events.  IAM MPI began tracking this about May 2018. Prior to then, this value will be null.
    </td>
   </tr>
   <tr>
