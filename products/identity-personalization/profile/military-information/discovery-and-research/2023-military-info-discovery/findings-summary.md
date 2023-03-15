@@ -118,7 +118,7 @@ Or, in the case of one participant, this information was used to piece together 
 >"I wanted to see [...] exactly my tour time that I spent in Nuremburg, Germany because my son was born there and he actually doesn't have a birth certificate. So I actually had to go back and show them I was in the military and I was stationed [laughs] so [now] he pretty much has dual citizenship for Germany."
 
 ### Veterans use service history information such as trainings, commendations, and position descriptions for professional reasons after the military, whether that is building out a resume or otherwise demonstrating qualifications for a role.
-4/10 participants mentioned that service history information is important for buildng out a resume or otherwise showing one's professional experience for the sake of getting a job or getting credit for a special skill at work. For this purpose, Veterans could make use of military job descriptions, military educaton, as well as decorations, medals, badges and awards:
+4/10 participants mentioned that service history information is important for building out a resume or otherwise showing one's professional experience for the sake of getting a job or getting credit for a special skill at work. For this purpose, Veterans could make use of military job descriptions, military educaton, as well as decorations, medals, badges and awards:
 
 >"In the past, when I was employed as a social worker, yeah I had to, you know, put down dates of service and things like that, to have that information for jobs or you know what not."
 
