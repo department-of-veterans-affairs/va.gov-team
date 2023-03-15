@@ -33,7 +33,7 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |All|Date collected |Date |_None_|Hard to find single date label for all types — "collected" doesn't work for Radiology or EKG| Can we map date fields from different types into a single "Date" field for list view, but use different "Date" labels in detail views? Or do we need all labels to stay consistent between list and detail views?|
 |All|Ordering provider |Provider|_None_||Is there a need to specify "provider who ordered test"? Or is it clear that this is what "provider" means in this context?|
 |**Chemistry/hematology**|Lab test|Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|Some Chem/Hem tests include subtests in a panel — like lipid panel with LDL, HDL, etc. Suggest using this panel-level "Test" field as card header in list, H1 in detail)|Does USCDI include a panel-level element? Or do we map both the panel and the subtests to "Tests" in USCDI?|
-|Chemistry/hematology|Date/time collected| Date and time we took sample |_None_|
+|Chemistry/hematology|Date/time collected| Date and time |_None_|
 |Chemistry/hematology|Specimen| Sample tested |_None_|
 |Chemistry/hematology|Test name [for specific test]| Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
 |Chemistry/hematology|Results [for specific test]| Results |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|
