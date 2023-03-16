@@ -1,6 +1,156 @@
 # Health Apartment Weekly Team Meetings
 - Meetings were held bi-weekly initially, then changed to weekly in 2023.
 
+
+## 2023-03-09 Health Apartment Team Meeting
+
+
+### Updates
+
+- Lauren
+	- Good meetings, insights into some EHRM ideas
+	- Plans of attack for each of the apps; better way forward
+- Jonathan
+	- Went over preference research yesterday
+	- Will be attending pilot session t his afternoon
+- Robyn
+	- Data collection begin next Wed
+	- Four folks have screen readers
+	- Will try to have Angela Fowler there to help troubleshoot
+	- Piloting with Angela today
+	- Will confirm
+- Joni
+	- Still catching up and getting up to speed
+	- Transition meeting with Mikki is Tuesday
+- Patrick
+	- Code got merged in
+	- Phases doc finalized and shared out with leadership
+	- Set up to do call
+	- Kickoff for AVS tomorrow
+- Daniel
+	- Put up a draft PR for newsletter sign up
+	- Looking into making sure that it will actually work
+	- Copied from another location; hopefully good to go
+	- Can do the two 
+- Kay
+	- Working on appointment list - may need to convene with Patrick
+	- Had a few blockers with getting data in staging
+	- Lauren and Kay chatted with Medication
+- Sara
+	- Worked on landing page QA review
+	- Worked with Joel on Staging review questions
+	- MHV meetings
+- Mikki
+	- Meeting with appointments crew tomorrow to talk about phased rollout plan
+	- Started working on Medical Records
+
+
+Research with Cerner Patients
+
+- There is some confusion currently with people who 
+- Current recruitment criteria are leaving out Cerner patients
+- What do we need to 
+- Lauren - people came across the new home page, and even though My VA has been around for a while, and that means nothing to some folks, and they thought we left "Health" off the link.  In modals now, if you're authenticated, they have the option to go to My VA Health for health are, else go to MHV.  
+- We have introduced some confusion in the transition period for people who are at My VA Health.  This is more for the landing page wayfinding research and not the home page.  How are we going to get people to My VA Health during the transition?  We don't want to pick where they should go.  We don't need to immediately change anything or do anything with the research, but need to consider the wayfinding
+- Patrick - has there been any research with "dual" patients?  That number will grow, so it's not an edge case.  At one point
+- Kay - how are we defining a Cerner patient?  If you have Cerner care. It could also mean you did a virtual consult at a Cerner facility five years ago.
+- Lauren - that's one of the reason we want to always give people the option.  We don't want to drive you to Cerner if you need MHV stuff.   That was a decision that was made by Charles, Neil, etc. to drive people to MHV
+
+
+Launch Punch List
+
+- MHV Coordinator briefing
+- Danielle and Coulton will meet with the coordinators
+- Danielle is sending out email to Coordinators and Champions
+- Explainer content for resources page - screen shot for Contact Center doc
+	- We won't have that for Staging that is fine
+- Outstanding
+- Privacy/security review - submitted; probably a non-issue
+  Submitted, unknown status
+  Usability study
+- Content for landing page
+  Danielle coordinating
+  Resources page
+  Draft in preview
+  Outstanding PRs
+  Explainer text and link #55234
+- Nice to haves:
+  A11y
+- Newsletter sign up #54502
+- Datadog custom actions #54506
+  Contact center documentation (waiting for explainer text/link)
+- HRC
+- Clinical contact centers (via Theresa)
+1. Done
+	- Finalize phases document
+	- Staging review
+	- Accessibility review
+	- MHV Coordinator call briefing scheduling
+	- MHV Coordinator/Champion email sent
+	- PRs
+	- Cerner
+	- No facilities
+	- Datadog
+	- My Health —> My HealtheVet link text
+	- Spotlight links
+
+
+Testing
+
+- In the last day, a change was made so that a user NOT registered a facility will automatically be redirected to the "classic" MHV
+- Kay Lawyer suggested using the Judy account - will get the credentials over to Robyn.
+
+
+
+
+Saved Chat Text
+
+
+14:09:02 From Lauren Alexanderson to Everyone:
+	Jonathan: Has that list of folks you’re talking to including Kristen McConnell/Kay Lawyer?
+14:09:43 From Jonathan Nelson to Everyone:
+	Kay but not Kristen! I can certainly sync with her though.
+14:10:43 From Sara Smith to Everyone:
+	Sorry, not feeling 100% so keeping camera off, due to coughing. :(
+14:12:14 From Robyn Singleton to Everyone:
+	Anything you discussed that should inform our convo guide?
+14:12:18 From Robyn Singleton to Everyone:
+	^Patric
+14:13:01 From Patrick to Everyone:
+	I went back and forth on this — I feel l like we’re already overburdening this study. But certainly can discuss more here.
+14:13:08 From Lauren Alexanderson to Everyone:
+	When did you have time to cook up secrets with Ryan?
+14:13:11 From Lauren Alexanderson to Everyone:
+	;)
+14:13:29 From Patrick to Everyone:
+	It was a very productive Monday.
+14:13:41 From Lauren Alexanderson to Everyone:
+	lol
+14:14:33 From Robyn Singleton to Everyone:
+	Current notifications-related questions: Are there specific statuses or notifications that you would want to see immediately after signing in? (For example, being notified that you have an unread message or need to refill a prescription.)
+	
+	If yes: What are they?
+	If no: Why not?
+	Where would you expect that information (the specific statuses or notfications) to pop up?
+	
+	When you have been notified of changes to VA.gov, where have you received that information?
+14:14:47 From Robyn Singleton to Everyone:
+	Anything you should suggest changing there?
+14:16:44 From Patrick to Everyone:
+	Only incredibly minor thing I would suggest changing is the words “pop up” to “appear” (or something similar) in the follow up question. But as far as covering the subject matter, I think this is plenty.
+14:16:56 From Robyn Singleton to Everyone:
+	Gotcha
+14:17:59 From Kay Lawyer to Everyone:
+	Will you be defining to the participants what "notifications" mean? Or leave it open and they will tell you?
+14:21:03 From Robyn Singleton to Everyone:
+	The second - gonna feel out how that word is. Can adapt the guide if people are confused by the question.
+14:21:21 From Lauren Alexanderson to Everyone:
+	On the last question, I’m wondering if people will think about “changes to va.gov” meaning technical changes, versus "a change to your benefits”
+14:21:47 From Robyn Singleton to Everyone:
+	Mmm, good point.
+14:23:58 From Lauren Alexanderson to Everyone:
+	When you have received notifications about your VA benefits in the past, where have you received that information?
+
 ## 2023-03-09 Health Apartment Team Meeting
 
 ### Updates
