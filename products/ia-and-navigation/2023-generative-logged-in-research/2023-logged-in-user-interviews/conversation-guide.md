@@ -35,7 +35,7 @@ Great, thank you. We have an accessibility specialist in the session, standing b
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions - 5 minutes
 Before we start looking at the website, I want to learn a more about you.  When the session was scheduled you provided some information. 
 
 - I understand you are a [*Veteran / Caregiver / Family member )* Is that right? 
