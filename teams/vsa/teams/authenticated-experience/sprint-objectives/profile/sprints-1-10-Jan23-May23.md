@@ -305,7 +305,7 @@ This is dependent on hiring:
 ### Accessibility
 
 **FE - Adam**
-
+- #55296 info table accessibility updates / miitary info, acct security pages to new info card component)(this ticket was broken out of Sprint 6 ticket 53632 to make the work more manageable)
 - Code cleanup; Any bug fixes; Remove feature toggle(s)
 
 Then we are ready to close out this project!!
