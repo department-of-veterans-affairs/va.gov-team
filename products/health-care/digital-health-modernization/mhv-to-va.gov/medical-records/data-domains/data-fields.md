@@ -1,4 +1,4 @@
-## Data fields for medical records
+# Data fields for medical records
 
 **Status: Draft**
 
