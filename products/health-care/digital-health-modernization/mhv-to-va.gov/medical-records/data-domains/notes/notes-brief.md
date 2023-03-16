@@ -14,9 +14,29 @@ Last updated: Feb 6, 2023 | [Change Log](#change-log)
 ## Description of domain
 
 ### Notes
-This is called VA Notes today when selecting categories in MHV Blue Button. 
+A user can see their notes MHV Blue Button by including the category called VA Notes.
 
-VA Notes pull in all notes dating back to 2013 of VistA/TIU type Progress Note (PN) and Consult Result (CR). The titles of notes can vary wildly, meaning that a Progres Note could have a title like Procedure Note, or even Consult Note. These note titles can sometimes be quite confusing, although they also have a chance of being quite helpful. **A note's title does not necessarily indicate what type of note (PN or CR) it is under the hood.** 
+#### Progress notes
+VA Notes pull in all notes of type Progress Note (PN) dating back to 2013. Progress notes are written by clinical staff and describe a patient's status during a hospitalization, outpatient visit, or other healthcare encounter.
+
+#### Consult notes
+VA Notes pull in all notes of type Consult Result (CR) dating back to 2013. Consult result notes are assosciated with consult requests. One provider makes a request for another provider to provide a consultation for a patient for a particular issue. Once that consultation has been completed, an associated consult result is written, signed, and placed in the patient's notes.
+
+More info: https://www.va.gov/vdl/documents/clinical/cprs-consult_request_tracking/consum.pdf
+
+#### Encounter notes
+Encounter notes are not currently pulled into MHV.
+
+Encounter notes result from a provider entering encounter information about a particular patient visit. This information is used to give workload credit to the provider and is also used for billing purposes. Encounter infromation is also tied to a particular progress note.
+
+More info: https://www.va.gov/vdl/documents/Clinical/Comp_Patient_Recrd_Sys_(CPRS)/cprsguium.pdf
+
+#### Procedure notes
+Procedure notes are not currently pulled into MHV.
+
+
+#### About note titles
+The titles of notes can vary wildly, meaning that a Progress Note could have a title like Procedure Note, or even Consult Note. These note titles can sometimes be quite confusing, although they also have a chance of being quite helpful. **A note's title does not necessarily indicate what type of note (PN or CR) it is under the hood.** 
 
 Any clinical notes in VistA that are not of type PN or CR are not currently pulled into MHV. Therefore, procedure and encounter notes are not, unless they are of type PN and CR, pulled into MHV today.
 
