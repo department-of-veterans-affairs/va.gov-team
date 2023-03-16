@@ -1,5 +1,8 @@
 # AVC_IVC Docs
 
+- AVC: Acceptable Verified Credential - A verified IAL2 Login.gov account
+- IVC: IDme Verified Credential - A verified LOA3 ID.me account
+
 ## User AVC Updated 
 
 ### StatsD Keys:
