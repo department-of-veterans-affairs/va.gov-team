@@ -1,4 +1,4 @@
-# Medical records content brief
+# VA content brief for medical records
 
 Created by the sitewide content and IA team for teams working on products related to medical records.
 
