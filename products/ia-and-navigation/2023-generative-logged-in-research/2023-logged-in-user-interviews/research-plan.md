@@ -97,7 +97,7 @@ Please recruit 15 participants for a total of 10 completed sessions.
 - 8 participants should identify as a gender other than male
 - 5 participants should have no college degree
 - No more than 5 participants should have a Master’s degree or higher
-- 5 participants should identify as belonging to the LGBTQ+ community
+- 5 participants should identify as belonging to the LGBTQIA+ community
 
 ##### Accessibility and inclusion
 - 8 participants should identify as having a cognitive impairment
@@ -113,7 +113,7 @@ You can check on this by logging into VA.gov. If you see a prompt to verify your
 Response options: yes or no
 (Answering yes would qualify the participant.)
 
-2. Do you have trouble remembering things, learning new things, concentrating, or making decisions?
+2. Do you find it difficult to remember or learn new things, focus on a task, or make decisions?
 
 **Note:** We ask this question because we want to make sure that our tools work for people who live with challenges like these.
 
@@ -146,9 +146,9 @@ Response option: text box
 
 Response options: yes or no
 
-5. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure our feedback sessions include representative sample populations.
+5. Do you identify as a member of the LGBTQIA+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
 
-Response options: yes or no (Answer should be yes to satisfy criteria for LGBTQ+)
+Response options: yes or no (Answer should be yes to satisfy criteria for LGBTQIA+)
 
 ## Timeline
 ### Prepare
@@ -181,7 +181,7 @@ We’ll be using VA.gov, which is already live and ready to go.
 | -----------  | -----------  | -----------  | 
 |March 30 | 10am-5pm, and 7:30pm-9pm | Screenreaders between 10-5pm, support by Sarah.Koomson@oddball.io |
 |March 31 | 7:30am-4pm | Screenreader sessions all day, support by Sarah.Koomson@oddball.io and Sara.Smith@oddball.io |
-| April 3 | 10am-5pm, and 7:30pm-9pm | No screenreader support; OK to schedule advanced screenreader users only |
+| April 3 | 10am-5pm, and 7:30pm-9pm | screenreader sessions only between 10am-5pm, support by @josh.kim@adhocteam.us |
 | April 4 | 7-7:30am, 10am-5pm, and 7:30pm-9pm | screenreader sessions only between 10am-5pm, support by Sara.Smith@oddball.io |
 	
 ## Team Roles	
