@@ -69,7 +69,7 @@ I can see your screen, great! We can get start looking at websites now.
 Now that you’re logged in, can you show me how you  (use their language for what they ended up doing while logged in)? It’ll help if you can think out loud as much as possible.
 
 **If participant does not have any recent experience with VA to pull from, pull logged-in task from Cindy’s top task research findings:**
-Imagine you wanted to get your VA medical records. Show me how you’d go about doing that. It’ll help if you can think out loud as much as possible.
+Imagine you wanted to get your VA medical history. Show me how you’d go about doing that. It’ll help if you can think out loud as much as possible.
 
 **Stop participant before they click on the homepage, and send the link to the new version of the homepage via chat before they hit VA.gov** 
 QUESTION FOR TEAM: Does the new homepage redirect to My VA if you sign in from there?
@@ -108,7 +108,7 @@ Now I’d like to see how you go about finding a something else on the website. 
 Thinking about your [benefit or service], are there other related things you need to do online, or that you had to do in the past? Show me how you’d go about doing that, and please continue thinking out loud. You’re doing a great job with that.
 
 **If participant does not have any additional experience with VA to pull from, pull logged-in task from Cindy’s top task research findings:**
-Now imagine you wanted to file for a disability increase. Show me how you’d go about doing that, and please continue thinking out loud. You’re doing a great job with that.
+Now imagine you have a hearing problem that has recently gotten worse, and you wanted to increase your disability rating. Show me how you’d go about doing that, and please continue thinking out loud. You’re doing a great job with that.
 
 - *If needed,*
 	- Guide away from MHV or eBenefits to VA.gov 
@@ -129,7 +129,7 @@ Thank you for showing that to me!
 - Where did the person go if they couldn’t use My VA or the Homepage?
 - If they couldn’t navigate to their task, what did they do?
 
-##Task: Update contact information - 5 min / 10 min for screen reader session
+## Task 3: Update contact information - 5 min / 10 min for screen reader session
 Now I’d like to for you to show me one last thing - how would you update the address you have on file with VA?
 	
 **! Stop the participant before they change their actual information !**
@@ -147,7 +147,8 @@ Thank you for showing that to me!
 
 ## Post-Task Interview - 10 minutes
 Those are all the things I wanted you to show me on the website. Thanks for going through that with me! I have just a few more questions.
-- If you can’t find what you’re looking for on the VA website, what else do you try?
+- I noticed when you couldn’t find what you were looking for, you did XYZ.  Can you share more about why you did that?
+	- Was there anything else you wanted to do, but couldn’t? 
 - What are other websites that you use a username and password to log on?
 	- What do you expect to change when you log on to _____?
 	- What on the site indicates that change to you?
