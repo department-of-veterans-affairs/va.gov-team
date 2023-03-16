@@ -1,7 +1,8 @@
 # [DRAFT] Conversation Guide: 10-10CG facility selection study, 1010 Team, February 2023
 
-**This study will be combined with the end-to-end usability study; refer to that Research Plan/Convo Guide - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/research/2023-04-Facilities%20and%20Overall%20Usability%20Research)**
+**!This study will be combined with the overall usability study; refer to that Research Plan/Convo Guide - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/research/2023-04-Facilities%20and%20Overall%20Usability%20Research)**
 
+##
 
 
 ## Moderator logistics
