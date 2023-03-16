@@ -1,6 +1,6 @@
 
 # My VA Dashboard Product Guide Versions
-_Last updated November 21, 2022 - added version 5 of the guide._
+_Last updated March 16, 2023 - added details about version 6 of the guide._
 
 |File|Version Number|Date| Call center GH Ticket | Notes |
 |----------|--------|---------|-------------|--------|
