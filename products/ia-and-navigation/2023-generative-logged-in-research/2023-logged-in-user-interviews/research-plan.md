@@ -97,7 +97,7 @@ Please recruit 15 participants for a total of 10 completed sessions.
 - 8 participants should identify as a gender other than male
 - 5 participants should have no college degree
 - No more than 5 participants should have a Master’s degree or higher
-- 5 participants should identify as belonging to the LGBTQIA+ community
+- 5 participants should identify as belonging to the LGBTQ+ community
 
 ##### Accessibility and inclusion
 - 8 participants should identify as having a cognitive impairment
@@ -146,9 +146,9 @@ Response option: text box
 
 Response options: yes or no
 
-5. Do you identify as a member of the LGBTQIA+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
+5. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
 
-Response options: yes or no (Answer should be yes to satisfy criteria for LGBTQIA+)
+Response options: yes or no (Answer should be yes to satisfy criteria for LGBTQ+)
 
 ## Timeline
 ### Prepare
