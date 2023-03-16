@@ -8,13 +8,13 @@
 Use this Supplemental Claim form (VA 20-0995) if you disagree with our decision on your claim and you meet at least 1 of these requirements:
 
 - You have new and relevant evidence to submit **or**
-- ou would like VA to review your claim based on a new law (such as the [PACT Act]().
+- ou would like VA to review your claim based on a new law (such as the [PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)).
 
 What are other decision review options? (expand)
 
 If you don't think this is the right form for you, find out about the other decision review options.
 
-[Learn about choosing a decision review option]()
+[Learn about choosing a decision review option](https://www.va.gov/resources/choosing-a-decision-review-option/)
 
 ### What type of claim are you filing a Supplemental Claim for? (*Required)
 
@@ -22,8 +22,6 @@ If you don't think this is the right form for you, find out about the other deci
 - [ ] Another type of claim (not a disability claim)
 
 **_Continue_**
-
-
 
 **Need help?**
 If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
@@ -39,23 +37,26 @@ Find the address for mailing your form (text link)
 
 [Download VA Form 20-0995 (PDF)](https://www.va.gov/find-forms/about-form-20-0995/)
 
+**_Back_**
+
+**Need help?**
+If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
+
 ---
 
 ## File a Supplemental Claim
 VA Form 20-0995
 
-When you file a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying new evidence you want us to gather for you. A reviewer will determine whether the new evidence changes the decision.
+If you disagree with our decision on your claim, a Supplemental Claim may be an option for you.
+
+Action Link: Start your claim
 
 ### Follow these steps to get started
 
-If you don’t think this is the right form for you, you can go back to answer the questions again.
-
-<< Go back to the questions
-
 #### 1. Check your eligibility
-Make sure you meet our eligibility requirements for Supplemental Claims before you file.
-
-What are the eligibility requirements to file a Supplemental Claim? (Expand) \
+You can file a Supplemental Claim if you meet at least 1 of these requirements: 
+- You have new and relevant evidence that we didn’t consider before, or
+- You have a condition that we now consider presumptive (such as under the PACT Act)
 
 You can file a Supplemental Claim if you have new and relevant evidence that we didn't have when we reviewed your case before. You can file your claim anytime, but we recommend you file within 1 year from the date on your decision letter.
 
@@ -65,17 +66,33 @@ You can file a Supplemental Claim if you have new and relevant evidence that we 
 
 [Learn more about contested claims](https://www.va.gov/decision-reviews/contested-claims/)
 
+If you don’t think this is the right form for you, you can go back to answer the questions again.
+
+[Go back to the questions]()
+
+What's a presumptive condition? (expand)
+
+For some conditions, we automatically assume (or “presume”) that your service caused your condition. We call these “presumptive conditions.”
+
+If you have a presumptive condition, you don’t need to prove that your service caused the condition. You only need to meet the service requirements for the presumption.
+
+[Learn more about the PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
+
 #### 2. Gather your information
 Here’s what you’ll need to apply: 
 
-- New and relevant evidence. You can either submit new evidence (supporting documents) or identify new evidence you want us to gather for you. 
+- New evidence. You can either submit new evidence (supporting documents) or identify new evidence you want us to gather for you. **Note:** If you have a condition that we consider presumptive under a new law or regulation (such as the PACT Act), you don't need to submit evidence to prove that your service caused the condition.
 - The decision date of any issue you want us to review. You can ask us to review more than 1 issue.
-- The name and address of any medical facility you'd like us to request your records from. 
+- The name and address of any private medical facility you’d like us to request your records from.
 - The dates you were treated at that private medical facility. 
 
 Types of Evidence (expand) \
-- Medical records from a VA medical center, another federal health facility, or your private health care provider that relate to your claimed condition or how it has gotten worse.
-- Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel who know how and when your illness or injury happened or how it has gotten worse.
+
+VA medical records and hospital records that relate to your claimed condition or that show your rated disability or how it has gotten worse
+
+Private medical records and hospital reports that relate to your claimed condition or show that your disability has gotten worse
+
+Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel with knowledge about how and when your disability happened or how it has gotten worse
 
 #### 3. Start your Supplemental Claim
 We’ll take you through each step of the process. It should take about 15 minutes.
@@ -108,14 +125,21 @@ If you need help with this form, call us at <a href="tel:+18006982411" aria-labe
 
 **_SIGNED IN_**
 
+## File a Supplemental Claim
+VA Form 20-0995
+
+If you disagree with our decision on your claim, a Supplemental Claim may be an option for you.
+
+Information alert: Note: Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your application in progress and come back later to finish filling it out.
+
+Action Link: Start your claim
+
 ### Follow these steps to get started
 
-If you don’t think this is the right form for you, find out about the other decision review options.
-
 #### 1. Check your eligibility
-Make sure you meet our eligibility requirements for Supplemental Claims before you file.
-
-What are the eligibility requirements to file a Supplemental Claim? (Expand) \
+You can file a Supplemental Claim if you meet at least 1 of these requirements: 
+- You have new and relevant evidence that we didn’t consider before, or
+- You have a condition that we now consider presumptive (such as under the PACT Act)
 
 You can file a Supplemental Claim if you have new and relevant evidence that we didn't have when we reviewed your case before. You can file your claim anytime, but we recommend you file within 1 year from the date on your decision letter.
 
@@ -125,18 +149,33 @@ You can file a Supplemental Claim if you have new and relevant evidence that we 
 
 [Learn more about contested claims](https://www.va.gov/decision-reviews/contested-claims/)
 
+If you don’t think this is the right form for you, you can go back to answer the questions again.
+
+[Go back to the questions]()
+
+What's a presumptive condition? (expand)
+
+For some conditions, we automatically assume (or “presume”) that your service caused your condition. We call these “presumptive conditions.”
+
+If you have a presumptive condition, you don’t need to prove that your service caused the condition. You only need to meet the service requirements for the presumption.
+
+[Learn more about the PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
+
 #### 2. Gather your information
 Here’s what you’ll need to apply: 
 
-- New and relevant evidence. You can either submit new evidence (supporting documents) or identify new evidence you want us to gather for you. 
+- New evidence. You can either submit new evidence (supporting documents) or identify new evidence you want us to gather for you. **Note:** If you have a condition that we consider presumptive under a new law or regulation (such as the PACT Act), you don't need to submit evidence to prove that your service caused the condition.
 - The decision date of any issue you want us to review. You can ask us to review more than 1 issue.
-- The name and address of any medical facility you'd like us to request your records from. 
+- The name and address of any private medical facility you’d like us to request your records from.
 - The dates you were treated at that private medical facility. 
 
 Types of Evidence (expand) \
 
-- Medical records from a VA medical center, another federal health facility, or your private health care provider that relate to your claimed condition or how it has gotten worse
-- Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel who know how and when your illness or injury happened or how it has gotten worse
+VA medical records and hospital records that relate to your claimed condition or that show your rated disability or how it has gotten worse
+
+Private medical records and hospital reports that relate to your claimed condition or show that your disability has gotten worse
+
+Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel with knowledge about how and when your disability happened or how it has gotten worse
 
 #### 3. Start your Supplemental Claim
 We’ll take you through each step of the process. It should take about 15 minutes.
@@ -177,16 +216,16 @@ This is the personal information we have on file for you.
 
 **Note:** If you need to update your personal information, you can call us at 800-827-1000. We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
-**_BACK_**
+[Finish this application later]()
 
-**_CONTINUE_**
+**_BACK_** | **_CONTINUE_**
 
-_Error_
-
-#### We are missing some personal information
-You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure your Social Security number and date of birth are on file. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
+**Need help?**
+If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
 
 ---
+*If veteran does not have an Intent to File*
+
 ## You submitted an Intent to File
 By starting this Supplemental Claim request, you automatically submitted an Intent to File. Your Intent to File will expire on February 7, 2024.
 
@@ -198,7 +237,12 @@ When you submit an Intent to File, you're telling us that you plan to file a cla
 
 **_CONTINUE_**
 
+**Need help?**
+If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
+
 ---
+*If a veteran has an Intent to File already*
+
 ## You already submitted an Intent to File
 Our records show that you already submitted an Intent to File for disability compensation. Your Intent to File will expire on July 7, 2023. You’ll need to file your claim by this date to receive payments starting from your effective date.
 
@@ -208,11 +252,14 @@ When you submit an Intent to File, you're telling us that you plan to file a cla
 
 **_CONTINUE_**
 
+**Need help?**
+If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
+
 ---
 ## Step 1 of 4: Veteran information
 We'll save your application every time you add or update information.
 
-**Contact information**
+### Contact information
 
 This is the contact information we have on file for you. We’ll send any updates or information about your Supplemental Claim to this address. 
 
@@ -226,16 +273,86 @@ Note: Any changes you make here will also update your VA.gov profile
 
 *Mailing address (edit)*
 
+**_BACK_** | **_CONTINUE_**
 
-**_BACK_**
+**Need help?**
+If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
 
-**_CONTINUE_**
+---
+## Step 1 of 4: Veteran information
+We'll save your application every time you add or update information.
+
+### Change phone number
+Mobile phone number (U.S. numbers only) (*Required)
+
+**_UPDATE_** | **_CANCEL_**
+
+**Need help?**
+If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
+
+---
+## Step 1 of 4: Veteran information
+We'll save your application every time you add or update information.
+
+### Change mailing address
+- [] I live on a United States military base outside of the United States
+
+Country (*Required)
+
+Street address
+
+Street address line 2
+
+Street address line 3
+
+City (*Required)
+
+State (*Required)
+
+Postal code (*Required)
+
+**_UPDATE_** | **_CANCEL_**
+
+**Need help?**
+If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
+
+---
+_If the veteran checks the 'I live on a United States militar base outside o teh United States'_
+
+## Step 1 of 4: Veteran information
+We'll save your application every time you add or update information.
+
+### Change mailing address
+- [] I live on a United States military base outside of the United States
+
+U.S. military bases are considered a domestic address and a part of the United States
+
+Country (*Required)
+
+Street address
+
+Street address line 2
+
+Street address line 3
+
+APO/FPO/DPO (*Required) 
+
+City (*Required)
+
+State (*Required)
+
+Postal code (*Required)
+
+**_UPDATE_** | **_CANCEL_**
+
+**Need help?**
+If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
 
 ---
 ## STEP 1 of 4: Veteran Information
 We'll save your application every time you add or update information.
  
-**What's your primary phone number?**
+### What's your primary phone number?
 
 We may need to contact you if we have questions about your Supplemental Claim. (*Required)
 
@@ -243,9 +360,7 @@ We may need to contact you if we have questions about your Supplemental Claim. (
 
 - [ ] Mobile phone number
 
-**_BACK_**
-
-**_CONTINUE_**
+**_BACK_** | **_CONTINUE_**
 
 ----------------------------------------------
 
