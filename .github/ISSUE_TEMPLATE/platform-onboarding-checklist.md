@@ -1,3 +1,11 @@
+---
+name: Platform Onboarding Checklist
+about: Onboarding checklist for members of the Platform team
+title: Onboarding checklist for <topic>
+labels: 
+assignees: 
+---
+
 ## Overview
 Welcome to the VA.Gov Platform.  This ticket is a checklist and guide to help you get access to communications, documentation, and tools used by technical project teams. 
 
