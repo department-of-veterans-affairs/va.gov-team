@@ -87,11 +87,11 @@ For this study we want to talk to Veterans who **currently have an open disabili
 
 > Have you received requests from the VA to provide additional evidence for your disability compensation claim? 
 
-- Experience with additional evidence requests is not manditory, but preferred for participation.
+- Experience with additional evidence requests is not mandatory but preferred for participation.
 
-> As a part of your claims process did you have to undergo a claim exam? These might also be called a C&P exam or a compensation and pension exam.
+> As a part of your claims process, did you have to undergo a claim exam? These might also be called a C&P exam or a compensation and pension exam.
 
-- Experience with C&P exams are not manditory, but preferred for participation.
+- Experience with C&P exams are not mandatory but preferred for participation.
 
 ### Recruitment criteria
 
@@ -115,7 +115,7 @@ We would like to recruit 20 veterans. We would like representation from the foll
 
 **Secondary criteria**
 
-Experience with C&P exams and receiving requests for additional claims evidence are preferred. Ideally, 12-16 of study participants will have experiences with receiving requests for additional evidence or C&P exams, or both.
+Participant experience with C&P exams and receiving requests for additional claims evidence are preferred. Ideally, 12-16 of study participants will have experiences with receiving requests for additional evidence or C&P exams, or both.
 
 ## Timeline
 March - April 2023
