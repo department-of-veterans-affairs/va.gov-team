@@ -53,18 +53,6 @@ Thank you for confirming these things! Now, I have a few things about today I wa
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Screen sharing instructions (if needed)
-- In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a green button that says Share (phone) or Share Screen (computer). 
-  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
-  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
-
-- Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" (phone) or your web browser.
-- Great, now I can see your screen! Thank you for your patience in figuring this out.
-
-- iPad: Broadcast screen
-
-- *Backup plan if they cannot figure out how to share screen:*
-  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
  
 ## Warm-up Questions - 5-10 minutes
 Let’s start with a few questions... 
@@ -77,6 +65,22 @@ Let’s start with a few questions...
 
 3. What benefits other than healthcare, if any, do you receive from the VA? 
 
+## Screen sharing instructions
+
+I'm going to ask you to do a couple things on the VA website, VA.gov, and to share your screen so I can see how you navigate on the website. Do you know how to share your screen? 
+
+- In the Zoom application on your computer/phone/tablet, there is a row of buttons at the bottom. In the center is a (green) button that says Share (phone) or Share Screen (computer). 
+  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
+
+- Now I'd like you to share your screen with me. Tap on the (green) button that says Share. Options should be provided for what to share. Please choose "Screen" (phone) or your web browser.
+- Great, now I can see your screen! Thank you for your patience in figuring this out.
+
+- iPad: Broadcast screen
+
+- *Backup plan if they cannot figure out how to share screen:*
+  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
+
 ## Usability testing - 40-50 minutes
 
 4. _Starting from [new home page](https://www.va.gov/new-home-page/):_ Using VA.gov, if you wanted to send a message to your doctor to follow up about a question you had in a previous appointment, how would you go about doing that? 
@@ -85,7 +89,7 @@ Let’s start with a few questions...
 	- _Optional alternative approach:_ There is a new section where you can find all of your personal health information, like your messages with your doctor and your personal health records. _(If person is MHV user, let them know that we are moving MHV onto VA.gov.)_ 
 	- Starting from this home page, how would you find this new page with all your personal health information?
 
-5. _Once the person arrives at landing page:_ Why don't you spend a little time getting to know this page. 
+5. _Once the person arrives at landing page:_ Why don't you spend a little time getting to know this page. Please think out loud and let me know what your thoughts are about the page, the information here, and how everything is organized. 
  	- _After they've moseyed about:_ What do you think this space is? 
 
 6. What do you believe you are supposed to be able to do here? 
@@ -106,7 +110,7 @@ Let’s start with a few questions...
 	
 	- _For users who do not receive other benefits from the VA:_ If you had benefits, would you expect to access those benefits from this page or somewhere else on the VA.gov website? 
 
-13. What information would you expect to see on this landing page but don't? 
+13. What information did you expect to see on this landing page but don't? 
 
 14. Many of these links take you elsewhere, like back to MHV. Is that what you expected? How do you feel about that? 
 	- Would you have expected to be told if a link took you out of this area? 
