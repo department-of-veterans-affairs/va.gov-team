@@ -123,9 +123,9 @@ Let’s start with a few questions...
 	- _If yes:_ What are they? 
 	- _If no:_ Why not?
 
-19. Where would you expect that information _(the specific statuses or notfications)_ to pop up? 
+19. Where would you expect that information _(the specific statuses or notfications)_ to appear? 
 
-20. When you have been notified of changes to VA.gov, where have you received that information? 
+20. When you have been notified of changes to your benefits or any other changes that affect you directly on VA.gov, where have you received that information? 
 
 21. Is there anything else that we haven't talked about that you think I should know? 
 
