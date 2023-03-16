@@ -119,15 +119,7 @@ Let’s start with a few questions...
 17. What about if you wanted to sign up for the MHV newsletter - where would you go to do that? 
 	- _Probe for whether this should be in Profile or somewhere health-specific._ 
 
-18. Are there specific statuses or notifications that you would want to see immediately after signing in? (For example, being notified that you have an unread message or need to refill a prescription.)
-	- _If yes:_ What are they? 
-	- _If no:_ Why not?
-
-19. Where would you expect that information _(the specific statuses or notfications)_ to appear? 
-
-20. When you have been notified of changes to your benefits or any other changes that affect you directly on VA.gov, where have you received that information? 
-
-21. Is there anything else that we haven't talked about that you think I should know? 
+18. Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 1 minute
 
