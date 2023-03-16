@@ -133,6 +133,8 @@ I'll have you start from a URL that I'm going to *[dictate/put into the Zoom cha
 
 Do you see the link? 
 
+*If prototype doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)*
+
 What are your impressions of what you're looking at? *(RECORD)*
 
 Could you try to use this to find out if you're eligible for VA health care with your current income? Please explain what you want to do before clicking anywhere.
@@ -165,7 +167,7 @@ How would you use this? Please talk me through what you would do, but **do not**
 ### Task 5: [Results screen]
 What are your impressions of this page? *(RECORD what they say)*
 
-- *RECORD: Which accordions did they open? household income / $29K / 43K / 81K / 90K or less / $90K or more*
+- *RECORD: Which accordions did they open? How to estimate income / $29K / $29-43K / $43-81K / $81-90K / $90K or more*
 
 Can you explain what this page means to you?
 
@@ -193,7 +195,7 @@ What if your salary was around $100,000? *(RECORD)*
 
 *RECORD any comments about...*
 - *benefits (in bullets)--*
-- *deductions--*
+- *income/deductions--*
 - *the year 2022 vs. 2023--*
 - *wanting to see questions answered (zip code, # dependents)--*
 - *about the word "Select"*
@@ -212,7 +214,7 @@ How did this tool help or not help you decide what to do?
 
 ### Task 7: [Check info entered]
 Now you want to check whether you entered your location correctly. How could you do that? 
-- *(RECORD: Review info entered / Back in browser to review page or zip code screen / ________________)*
+- *(RECORD: Review info link / Back in browser to review page or zip code screen / ________________)*
 - *If surprised by dependents screen, ask what they expected to see (Continue button --> Review page?)*
 
 ### Task 8: [Change year]
