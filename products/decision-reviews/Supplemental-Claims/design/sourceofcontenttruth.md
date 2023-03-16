@@ -2,13 +2,12 @@
 
 **_SIGNED OUT_**
 
-
 ## Is this the form I need?
  
 Use this Supplemental Claim form (VA 20-0995) if you disagree with our decision on your claim and you meet at least 1 of these requirements:
 
 - You have new and relevant evidence to submit **or**
-- ou would like VA to review your claim based on a new law (such as the [PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)).
+- You would like VA to review your claim based on a new law (such as the [PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)).
 
 What are other decision review options? (expand)
 
