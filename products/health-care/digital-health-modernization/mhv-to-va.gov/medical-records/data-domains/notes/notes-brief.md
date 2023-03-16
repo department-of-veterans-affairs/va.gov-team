@@ -13,24 +13,21 @@ Last updated: Feb 6, 2023 | [Change Log](#change-log)
 
 ## Description of domain
 
-This is called VA Notes today on MHV Blue Button and VA Health Summary. They include all completed VA progress, telehealth, and consult notes including primary care, specialty care, mental health, social work, nursing notes, and Secure Messaging interactions that have been saved as notes. Physicians, nurses, consultants, therapists and other members of the health care team record their notes in your medical record. 
+### Notes
+This is called VA Notes today when selecting categories in MHV Blue Button. 
 
-Members of the health care team may use VA Notes to record your health condition and the care provided to you. The notes may include medical facts, clinical findings, health progress, opinions and treatment plans. It may also track your response to the care that was provided. Most importantly, it serves as a way for members of your health care team to share information about you.
+VA Notes pull in all notes dating back to 2013 of VistA/TIU type Progress Note (PN) and Consult Result (CR). The titles of notes can vary wildly, meaning that a Progres Note could have a title like Procedure Note, or even Consult Note. These note titles can sometimes be quite confusing, although they also have a chance of being quite helpful. **A note's title does not necessarily indicate what type of note (PN or CR) it is under the hood.** 
 
-There are also clinican notes, which includes progress note, procedure note, and encounter note. Things like Admission and discharge summary are also notes from doctors. We need to define what should go in to notes and what to label this domain. 
+Any clinical notes in VistA that are not of type PN or CR are not currently pulled into MHV. Therefore, procedure and encounter notes are not, unless they are of type PN and CR, pulled into MHV today.
 
-**What is a clinical or progress notes? [Source](https://www.gfcounty.nd.gov/home/showpublisheddocument/660/637248972518830000#:~:text=What%20is%20VA%20OpenNotes%3F,document%20care%20and%20services%20performed.)**
+### Care summaries
 
-After an appointment or hospital stay, your provider and health care team write a note about that visit in your VA EHR. The note is a summary of important issues about your health. Notes have several parts, and may include: 
-- A list of medical problems or symptoms 
-- What you told your provider, also called the "history"
-- Vital signs and physical observations or measurements, such as blood pressure, weight, or heart and lung exams
-- Test results such as blood or urine tests, or X-ray reports
-- Your provider's views of your health problems, called "Assessment" or "Impression" 
-- The recommended treatment plan, called "Plan"
-- Suggested follow up needed, such as tests or referrals to a specialist
-- Notes about your hospital admission, such as the condition that resulted in an admission, treatment provided.
-- Notes about your hospital discharge, such as instructions related to work, physical activity, and follow-up appointments.
+#### Discharge summaries
+This is called Admission and Discharge Summaries when selecting categories in MHV Blue Button. Admission and Discharge Summaries pulls in all notes of type Discharge Summary.
+
+#### After-visit summaries
+Today, MHV Blue Button does not directly include after-visit summaries. An AVS is included as part of appointments as a PDF download today. For every AVS generated, an AVS Progress Note is generated and included in VA Notes. AVS Progress Notes more or less say  "the AVS was printed and given to the patient and is linked to the AVS in VistA Imaging."
+
 
 ## Use Cases
 
@@ -205,6 +202,19 @@ _Admission summary or Discharge summary:_ Only four participants were probed on 
 
 - Notes from Jenny: On BB, this is called "VA Notes", which includes all notes (progress notes, visit summary, procedure messages...). In CCDA, encounter notes, consultation notes and procedure notes are all separated.
   - So this means we need to decide if we separate them out or keep them together and linked with the healthcare interaction/ occurrence to which they pertain. E.g., link notes with clinic visit, surgery/ procedure, etc. OR if we do it some other way? Has backend implications - need to liaise w/ both Jenny and Eric to understand better. 
+
+**What is a clinical or progress notes? [Source](https://www.gfcounty.nd.gov/home/showpublisheddocument/660/637248972518830000#:~:text=What%20is%20VA%20OpenNotes%3F,document%20care%20and%20services%20performed.)**
+
+After an appointment or hospital stay, your provider and health care team write a note about that visit in your VA EHR. The note is a summary of important issues about your health. Notes have several parts, and may include: 
+- A list of medical problems or symptoms 
+- What you told your provider, also called the "history"
+- Vital signs and physical observations or measurements, such as blood pressure, weight, or heart and lung exams
+- Test results such as blood or urine tests, or X-ray reports
+- Your provider's views of your health problems, called "Assessment" or "Impression" 
+- The recommended treatment plan, called "Plan"
+- Suggested follow up needed, such as tests or referrals to a specialist
+- Notes about your hospital admission, such as the condition that resulted in an admission, treatment provided.
+- Notes about your hospital discharge, such as instructions related to work, physical activity, and follow-up appointments.
 
 
 ## Change Log
