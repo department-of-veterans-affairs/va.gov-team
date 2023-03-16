@@ -38,7 +38,7 @@ Let’s start with a few questions...
 
 
 
-5. _Once the person arrives at landing page:_ Why don't you spend a little time getting to know this page. 
+5. _Once the person arrives at landing page:_ **Why don't you spend a little time getting to know this page.**
  	- _After they've moseyed about:_ **What do you think this space is?**
 
 
@@ -52,7 +52,7 @@ Let’s start with a few questions...
 
 
 
-7. **What would you expect to be able to do or find if you clicked on the link "Download my medical record (Blue Button)"? _(Read Health Records section options aloud for participants using screenreaders to save them having to find the section.)_
+7. **What would you expect to be able to do or find if you clicked on the link "Download my medical record (Blue Button)?** _(Read Health Records section options aloud for participants using screenreaders to save them having to find the section.)_
 
 
 
