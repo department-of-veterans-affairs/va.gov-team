@@ -162,7 +162,7 @@ In May 2018, IAM MPI began tracking a “CSP Method” parameter which is used t
 </table>
 
 
-It may have been more apt if the “CSP Method” was instead called “Authentication Method” to include the CAC authentication options. To create an SSOe session, users can authenticate with their CAC either via DS Logon or AccessVA. Either way, the user is tracked to the same credential within IAM. IAM tracks the credential, i.e. 200DOD, and the authentication method, i.e. DSL, CAC, DFAS or VACAC.  
+It may have been more apt if the “CSP Method” was instead called “Authentication Method”. To highlight the disctinction, consider CAC and that users can authenticate with their CAC either via DS Logon or AccessVA to create an SSOe session. Both authentication methods will map the user to the same credential within IAM, i.e. usage of a 200DOD credential does not imply DS Logon was used. 
 
 The CSP Methods IDME_MHV, IDME_DSL (and IDME_VETS) are used solely by VA.gov Unified Sign-in Page and is used within an authentication request to instruct SSOe to use ID.me as an MFA wrapper for MHV or DS Logon.  In the case of these CSP Methods, although two CSPs are used for authentication, the credential is tracked with an ID.me credential identifier code. In the case that a user has a ID.me ID-verified credential and also used ID.me as MFA for MHV and/or DS Logon, IAM will track each of these as distinct CSPIDs, all with the _200VIDM_ credential identifier code.
 
