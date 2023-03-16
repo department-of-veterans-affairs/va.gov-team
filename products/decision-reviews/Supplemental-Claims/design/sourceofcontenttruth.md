@@ -837,7 +837,7 @@ If you’re filing a claim based on new evidence, we encourage you to submit the
 
 We’ll save your application every time you add or update information.
 
-**Veteran information**
+### Veteran information
 
 Contact information
 
@@ -861,7 +861,7 @@ Edit
 
 Home/Mobile phone number
 
-**Issues for review**
+### Issues for review
 
 Edit
 
@@ -875,7 +875,7 @@ Edit
 
 I understand that if I want any issues reviewed that are currently in the old appeals process, I’m opting them in to the new decision review process.
 
-**New and relevant evidence**
+### New and relevant evidence
 
 Notice of Acknowledgment
 
