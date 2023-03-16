@@ -1,1 +1,0 @@
-## Landing Page Team Meetings
