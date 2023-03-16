@@ -76,7 +76,7 @@ Data collection will be remote. We will use Zoom.
 
 **Research materials**
 
-[Conversation guide]
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/patient-portal/mhv/2023-03-notification-center-usability-testing/conversation-guide.md)
 
 Desktop prototype to be tested
 
