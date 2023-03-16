@@ -51,8 +51,8 @@ A moment that matters in the journey is during the aging phase when Veterans inc
 
 
 ## Research Goals	
-1. Discover if the facility updates are clear and easy for participants to understand
-2. Determine if the facility updates are accessible and the usability to search and select a facility
+1. Discover if the facility content updates are clear and understandable for participants
+2. Determine if the facility search functionality is easy to use and accessible
 3. Discover what is easy or difficult to complete on the form and why
 4. Obtain an understanding of the usability of the form overall, how tasks from this study compares to past research findings and future design iterations  
 
@@ -64,14 +64,14 @@ This research will test the updates to the VA Facility question content, page fl
 ### Research questions
 
 
-**Discover if the facility updates are clear and easy for participants to understand**
+**Discover if the facility content updates are clear and understandable for participants**
 - Is the new version of this question easy to understand and answer with little confusion?
 - Does this new version result in clarifying questions or additional information needed to complete?
 - Is the new version easy for the participant to understand why they are selecting a facility and how it impacts the caregiver application process?
 - Does the confirmation screen after selection add any additional confusion or result in clarifying questions?
 
 
-**Determine if the facility updates are accessible and the usability to search and select a facility**
+**Determine if the facility search functionality is easy to use and accessible**
 - Are users able to navigate through the facility selection without difficulty?
 - Do participants know what to input in the text search field?
 - Can users easily use the search input and understand what choices are populated from that search?
@@ -139,7 +139,7 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|         30    |       20         |    8   |      4      |  8       |            0  | 
+|         30    |       20         |    9   |      2      |  9       |            0  | 
 
 
 
@@ -210,7 +210,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 
 ### Research sessions
-* Planned dates of research: **April 19 - May 2, 2023**
+* Planned dates of research: **TBD 2023**
 
 
 ### Length of sessions
