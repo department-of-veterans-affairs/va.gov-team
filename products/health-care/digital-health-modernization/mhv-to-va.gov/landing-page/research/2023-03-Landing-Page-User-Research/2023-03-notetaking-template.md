@@ -74,8 +74,8 @@ Let’s start with a few questions...
 
 
 
-10. **If you needed to see a healthcare provider outside of the VA and you wanted to see if that would still be covered by your VA benefits, how would you figure that out? 
-	- What do you think the My VA health enefits section includes? What is this section "about"?**
+10. **If you needed to see a healthcare provider outside of the VA and you wanted to see if that would still be covered by your VA benefits, how would you figure that out?**
+	- **What do you think the My VA health enefits section includes? What is this section "about"?**
 
 
 
@@ -107,8 +107,8 @@ Let’s start with a few questions...
 
 
 
-14. **Many of these links take you elsewhere, like back to MHV. Is that what you expected? How do you feel about that? 
-	- Would you have expected to be told if a link took you out of this area?**
+14. **Many of these links take you elsewhere, like back to MHV. Is that what you expected? How do you feel about that?** 
+	- **Would you have expected to be told if a link took you out of this area?**
 
 
 
