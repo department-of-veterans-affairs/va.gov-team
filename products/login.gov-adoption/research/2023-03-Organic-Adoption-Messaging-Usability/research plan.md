@@ -75,7 +75,7 @@ This usability study will be conducted remotely on Zoom. We will test on desktop
 ### Research materials
 
 - *Conversation Guide*
-- Research stimuli: [Content modal](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=154-1300&scaling=min-zoom&page-id=154%3A1296&starting-point-node-id=154%3A1310)
+- [Content to test](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=154-1300&scaling=min-zoom&page-id=154%3A1296&starting-point-node-id=154%3A1310)
 
 ## Recruitment	
 
