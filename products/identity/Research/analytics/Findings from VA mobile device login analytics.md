@@ -95,9 +95,9 @@ Almost 85% of these logged in devices, which can’t be used to verify an accoun
 
 **4. Devices with cameras that don’t meet, or just meet, login.gov’s requirement are statistically less likely to log in with a verified account.**
 
-Of the devices that don’t meet the 8MP camera requirement 3,477, or almost 85%, logged in with a verified account. While this is still a majority, it is a statistically significant amount lower than the total verified login of 92%. We can say with 99% confidence, having a device that doesn’t meet the camera requirements correlates to a reduction in logging in with a verified account. Note, this doesn’t mean one causes the other.
+4,117 devices don’t meet the 8MP camera requirement. 3,477 of those, or almost 85%, logged in with a verified account. While this is still a majority, it is a statistically significant amount lower than the total mobile loggins using a verified account at 92%. We can say with 99% confidence, having a device that doesn’t meet the camera requirements correlates to a reduction in logging in with a verified account. Note, this doesn’t mean one causes the other.
 
-Interestingly, this also holds true with devices that just meet the minimum 8MP requirement. A total of 3,760 device logins were made with devices that have a 8MP camera. Of those, 3,239 logged in with a verified account. That’s 86% and is also a statistically significant reduction from the average with a 99% confidence. This still doesn't imply a cause, but it’s interesting that devices that just meet the minimum requirements are also less likely to log in with a verified account.
+Interestingly, this also holds true with devices that just meet the minimum 8MP requirement. We found a total of 3,760 device logins were made with devices that have a 8MP camera. Of those, 3,239 logged in with a verified account. That’s 86% and is also a statistically significant reduction from the average with a 99% confidence. This still doesn't imply a cause, but it’s interesting that devices that just meet the minimum requirements are also less likely to log in with a verified account.
 
 
 ## Further research possibilities
