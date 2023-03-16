@@ -89,8 +89,8 @@ Let’s start with a few questions...
 
 
 
-12. _For users who receive other benefits from the VA:_ **Where do you currently go to access and manage your benefits?** (_If user does not use the VA.gov website to access and manage their benefits:_ **If you were to access and manage your benefits on VA.gov, where would you go?)
-	- Would you expect to access your other benefits from this page or somewhere else on the VA.gov website?**
+12. _For users who receive other benefits from the VA:_ **Where do you currently go to access and manage your benefits?** (_If user does not use the VA.gov website to access and manage their benefits:_ **If you were to access and manage your benefits on VA.gov, where would you go?)**
+	- **Would you expect to access your other benefits from this page or somewhere else on the VA.gov website?**
 	
   
   
