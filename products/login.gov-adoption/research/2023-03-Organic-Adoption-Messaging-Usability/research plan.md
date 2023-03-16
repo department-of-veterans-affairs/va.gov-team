@@ -133,7 +133,7 @@ We need to update timeline with dates.
 |TBD|Submit artifacts for Research Review|
 |TBD|Ready documentation is ready (feedback incorporated)|
 |TBD|Prototypes are ready (feedback incorporated)|
-|TBD|Pilot session at 12:00pm EST|
+|TBD|Pilot session at TBD|
 |TBD|Research sessions|
 |TBD|Analysis|
 |TBD|Share findings|
