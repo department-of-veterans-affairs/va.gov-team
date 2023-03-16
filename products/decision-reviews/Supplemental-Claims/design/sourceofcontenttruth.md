@@ -446,7 +446,7 @@ If you need help with this form, call us at <a href="tel:+18006982411" aria-labe
 
 We'll save your application every time you add or update information.
 
-**The new decision review process**
+### The new decision review process
 
 If you're filing a Supplemental Claim in response to a Statement of the Case (SOC) or a Supplemental Statement of the Case (SSOC) in the old appeals process (for a VA decision you received before February 19, 2019), you're opting into the new decision review process. You must opt in within 60 days from the date you received your SOC or SSOC.
 
@@ -552,10 +552,9 @@ We'll save your application every time you add or update information.
 - [ ] Yes
 - [ ] No
 
-How do I know if I have private medical records / expand
+How do I know if I have private medical records (expand)
 
 If you were treated by a private doctor, including a Veteran’s Choice doctor, you’ll have private medical records. We’ll need to see those records to make a decision on your claim. A Disability Benefits Questionnaire is an example of a private medical record.
-
 
 **_Back_** | **_Continue_**
 
