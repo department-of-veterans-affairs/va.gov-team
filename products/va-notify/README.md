@@ -1,7 +1,7 @@
 # VANotify Platform
 
 ## Our Mission
-Improve the overall experience and quality of communications with veterans using modern digital technology, by building a centralized and self-service platform through which business lines and development teams can send communications to veterans.
+To provide Veterans with the information they need to get the services/outcomes they desire in the manner that is most convenient to them.
 
 
 ## Services We Offer
