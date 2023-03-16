@@ -5,14 +5,49 @@
 ## Upcoming Appointments
 
 
-#### VVS (Vista Scheduling Services) is down and in person apppointents are not available in VAOS app
+#### Generic message if any of the systems are unavailabe (VSP, VVS and HSRM) 
+
+```diff
+- (H1) We can't display in person-VA appointments
+
+- (H2) We're working to resolve this issue. To manage those appointments, contact the facility where they are scheduled 
+
+- {link} Facility locator 
+
++ (H1)
+
++ (H2) 
+
++ {link} Facility locator 
+@@ GH55068 @@
 ```
-(H1) We can't display in-person VA appointments
 
-(H2) We're working to resolve this issue. To manage those appointments, contact the facility where they are scheduled 
+## Pending Appointments
 
-{link} Facility locator 
 
+#### Generic message if any of the systems are unavailabe (VSP, VVS and HSRM) 
+```diff
++ (H1)
+
++ (H2) 
+
++ {link} Facility locator 
+@@ GH55068 @@
+@@ GH55068 @@
+```
+
+## Past Appointments
+
+
+#### Generic message if any of the systems are unavailabe (VSP, VVS and HSRM) 
+
+```diff
++ (H1)
+
++ (H2) 
+
++ {link} Facility locator 
+@@ GH55068 @@
 ```
 ---
 
