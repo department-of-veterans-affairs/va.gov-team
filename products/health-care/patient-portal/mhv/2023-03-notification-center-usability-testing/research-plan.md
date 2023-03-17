@@ -149,7 +149,7 @@ Note: For recruitment purposes, users can use either a Desktop or Laptop interch
 
 **Prepare**
 
-- Pilots from 3/15 - 3/17, TBD
+- Pilots from 3/21 - 3/23, TBD
 
 **Research sessions**
 
