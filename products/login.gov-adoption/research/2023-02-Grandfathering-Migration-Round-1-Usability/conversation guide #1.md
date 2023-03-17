@@ -22,8 +22,13 @@ Note: This Conversation Guide will be used to test [Prototype #1](https://www.fi
 - [ ] Review goals and research questions for this study in the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability/research%20plan.md)
 
 ### Starting the session
+- [ ] If the participant doesn't show up in the first few minutes, reach out to Perigean on Slack.
+- [ ] Turn your camera on, but don't require the Veteran to turn their camera on, it's up to them. If they choose to have their camera off, ask if they'd prefer you turn your's off.
+- [ ] Where applicable, confirm the participant is able to hear and see you.
+- [ ] Go through the consent process slowly and intentionally. Remind the participant of their autonomy and choice.
+- [ ] You can only record the session if the participant gives you permission to record. Once you start recording, you must let the participant know they're being recorded and have them acknowledge that they give permission. Remember to hit record to cloud.
+- [ ] Ask if participants are okay with notetakers and observers joining the session. If they are, add them to the meeting and ensure they are on camera with their name visible on the screen. Introduce them to the participant. Then, ask all third parties to turn off their cameras so you can begin.
 - [ ] Ensure everyone except the participant is on mute.
-- [ ] Where necessary, confirm the participant is able to hear and see you.
 
 ## Agenda - 60 minutes
 
