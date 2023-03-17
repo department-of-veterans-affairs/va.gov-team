@@ -98,23 +98,21 @@ Participants: Internal subject matter experts (# total interviews)
 *For data transfering and technical knowledge on medications, we should sync up with VA flagship mobile team engineers.*
 
 **Team responsibilities**
-Moderators: Coulton, Jenny
-Research guide writing and task development: Coulton, Jenny
-Project point of contact: Coulton
-Notetakers: Volunteers from team
-Observers: 
+- Moderators: Coulton, Jenny
+- Research guide writing and task development: Coulton, Jenny
+- Project point of contact: Coulton, Jenny 
+- Notetakers: Volunteers from team
+- Observers: 
 
 ## Round 2: Usability testing with Veterans
-Description: Conduct usability testing with 5-10 Veterans using prototypes developed in response to recommendations from semi-structured interviews. 
-Timing: 
-Location: Zoom
-Participants: 
+- Description: Conduct usability testing with 5-10 Veterans using prototypes developed in response to recommendations from semi-structured interviews. 
+- Timing: 
+- Location: Zoom
+- Participants: 
 
 Team responsibilities
-Moderators: 
-Research guide writing and task development:  
-Project point of contact: 
-Notetakers: 
-Observers: 
-
-## Additional research: 
+- Moderators: 
+- Research guide writing and task development:  
+- Project point of contact: 
+- Notetakers: 
+- Observers: 
