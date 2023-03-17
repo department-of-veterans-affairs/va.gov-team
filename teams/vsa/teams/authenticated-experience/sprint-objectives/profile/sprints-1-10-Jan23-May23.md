@@ -407,6 +407,16 @@ This assumes QA is done, and any fixes from QA have been implemented. If not, pl
 **FE - Adam**
 
 - Rollout, Cleanup of edit mobile phone page #53549
+- Technical discovery on adding email as a channel
+
+**BE - Tom**
+
+**This assumes Tom is mostly off of direct deposit work. If that is backed up and still going, please prioritize it accordingly**
+
+- Default send technical discovery
+  - What is required to consume default opt-in indicator?
+  - While the UI may not change, does this require any FE changes in terms of how FE connects to BE, or is this entirely BE work? 
+  - Confirm whether default send work needs to happen before Adam can start on FE updates based on Liz's designs.
 
 ### Logged-in IA/nav research
 
@@ -425,3 +435,9 @@ This assumes we are ready to launch. If not, push back tasks accordingly.
   - Please fill out the [launch go/no-go doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md), add it to the [project folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration), and conduct meeting with team.
 - **IF READY** Launch to 10% and monitor for a week
 - Launch to 25% pending no issues at 10% and monitor for a week. If there are issues at 10%, resolve those before increasing % for phased launch.
+
+### Notification preferences
+
+- Assuming technical discovery happened last sprint, PM to scope out work for both default send indicator and adding email as a channel. Please account for required collab cycle milestones.
+- FE/BE work dependent on technical discovery for both default send indicator and adding email as a channel.
+- Design: When new mobile phone number flow is launched in production, update documentation (ticket already exists).
