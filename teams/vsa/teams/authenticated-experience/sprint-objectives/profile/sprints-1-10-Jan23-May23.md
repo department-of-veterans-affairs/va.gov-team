@@ -292,7 +292,6 @@ Sprint 6 Epic [#54553](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
 **Design - Florence**
 - ~#54938 Only complete this if you have time. This can get moved back if needed.~ Push out to Sprint 7 per BX
 
-
 ## Sprint 7 (3/29 - 4/11)
 Sprint 7 Epic [#54733](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/54733)
 
@@ -306,9 +305,6 @@ This is dependent on hiring:
 
 **FE - Adam**
 - #55296 info table accessibility updates / miitary info, acct security pages to new info card component)(this ticket was broken out of Sprint 6 ticket 53632 to make the work more manageable)
-- Code cleanup; Any bug fixes; Remove feature toggle(s)
-
-Then we are ready to close out this project!!
 
 ### Direct deposit: EVSS > Lighthouse migration
 
@@ -340,6 +336,12 @@ Then we are ready to close out this project!!
 
 ## Sprint 8 (4/12 - 4/25)
 Sprint 8 Epic [#54916](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/54916)
+
+### Accessibility
+
+**FE - Adam**
+- Code cleanup; Any bug fixes; Remove feature toggle(s)
+- Assuming all work is done, we can close out this project! If not, extend into sprint 9.
 
 ### Direct deposit: EVSS > Lighthouse migration
 
