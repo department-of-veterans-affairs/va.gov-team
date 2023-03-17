@@ -51,47 +51,42 @@ Conversation Guide
 Perigean will perform recruiting for a total of 
 
 ### Recruitment criteria
-We will aim for at least 5 completed sessions for each user type:
+We will aim for at least **5 completed sessions** for each user type:
 * LOA1 user
 * Fiduciary user
 * MHV user
-* LOA3 user that is not eligible for direct deposit for comp & pen
-* LOA3 user that is eligible for direct deposit for comp & pen but hasn't set it up yet
-* LOA3 user that is eligible for direct deposit for comp & pen and has set it up
-* 
+* LOA3 user that is not eligible for direct deposit for Comp & Pen (LOA3 user A)
+* LOA3 user that is eligible for direct deposit for Comp & Pen but hasn't set it up yet (LOA3 user B)
+* LOA3 user that is eligible for direct deposit for Comp & Pen and has set it up (LOA3 user C)
+* Login.gov user
+
+**To get at least 5 completed sessions for each of the above user types, we'll recruit 7 of each for a total of 49 users.**
 
 The following use cases will not be specifically recruited for, and we'll roll in their testing as part of testing with other user types:
-* 
+* Logged out user
 
 #### Primary criteria (must-haves)
 
 **All participants**
-
-- must be LOA3 (identity verified) on VA.gov.
-- must be able to screenshare via Zoom.
-- must be comfortable providing the email address they use to sign into VA.gov.
-
-## Timeline
-When will the thing you are testing be finalized? 
-- September 2022 (tentative)
+- Must be able to screenshare via Zoom
+- Must be comfortable providing the email address they use to sign into VA.gov
+- 
 
 ### Research sessions
 What dates do you plan to do research? 
-- TBD
+- Tentative: April 2023
 
 ### Length of sessions
-1 hour-long session for all 6 participants 
+1 hour-long session for all  participants 
 
 ## Team Roles	
-Please list the people who will be serving in each role. 
-
-- Moderator: Christina Gednalske, christina.gednalske@adhocteam.us
-- Research guide writing and task development (usually but not always same as moderator): Christina Gednalske
-- Participant recruiting & screening:	Christina Gednalske
-- Observers/Participants:	
+- Moderator: Florence McCafferty, florence.mccafferty@agile6.com
+- Research guide writing and task development (usually but not always same as moderator): Florence McCafferty
+- Participant recruiting & screening: Perigean
+- Note-taker: Perigean
+- Observers/Participants:
+  -  <adam.whitlock@adhocteam.us>
+  -  <berni.xiong@agile6.com>
+  -  <liz.lantz@adhocteam.us>
   -  <samara.strauss@va.gov>
-	-   <liz.lantz@adhocteam.us>
-	-   <sharon.kasimow@gcio.com>
-	-   <adam.whitlock@adhocteam.us>
-	-   <tom.harrison@adhocteam.us> - Tom will correct/manage BAI flags if not displaying correctly on production accounts
-	-   **Note:** If Tom is not permitted to manage BAI flag on his own, we’ll need someone from VA Profile standing by in case assistance is needed
+  -  <tom.harrison@adhocteam.us>
