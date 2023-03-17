@@ -58,8 +58,8 @@ Before we start, a few things I want to mention:
 - Perigean did ask for your consent to allow people to observe today, but I'd like to confirm. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers.
-    - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. 
-    - Then, ask notetaker and observers to turn off their cameras for the rest of the session.
+    - Then, briefly introduce all observers while they keep their cameras on and microphones off. If you have time and prefer to, you can ask the observers and notetakers to introduce themselves instead.
+    - Then, ask all observers to turn off their cameras for the rest of the session.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we finish analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
