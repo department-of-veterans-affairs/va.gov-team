@@ -8,18 +8,27 @@ Note: This Conversation Guide will be used to test [Prototype #2](https://www.fi
 
 ## Moderator logistics
 ### 2-3 days before the session
-- [ ] Send instructions to observers (such as using the #feedback-backchannel for observer comments, joining the waiting room, having their cameras and microphones muted)
+- [ ] Review [guidelines for moderators](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/Guidelines/Guide%20to%20moderating.md)
+- [ ] Send [guidelines for notetakers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/Guidelines/Guide%20to%20notetaking.md)
+- [ ] Send [guidelines for observers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/Guidelines/Guide%20for%20observing.md)
 - [ ] Ensure prototype(s) are prepared and Perigean will share them with participants
 
 ### Day of the session
 - [ ] Prepare prototype on your device and be ready for screen sharing if necessary
-- [ ] Mute Slack and email notifications
-- [ ] Use #feedback-backchannel to interact with observers (including asking for 'observer instructions' from the Slackbot)
+- [ ] Log into the Perigean Zoom meeting (you will be the host).
+- [ ] Turn on transcriptions by clicking the LIVE TRANSCRIPT button in the bottom toolbar, then, in the Live Transcription section, click the ENABLE button.
+- [ ] Prepare yourself and your space for a video interview by clearing clutter (on screen and around you), ensuring you have good lighting, and muting distractions like Slack notifications.
+- [ ] Use headphones.
 - [ ] Review goals and research questions for this study in the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability/research%20plan.md)
 
 ### Starting the session
-- [ ] Ensure everyone except the participant is on mute
-- [ ] Where necessary, confirm the participant is able to hear and see you
+- [ ] If the participant doesn't show up in the first few minutes, reach out to Perigean on Slack.
+- [ ] Turn your camera on, but don't require the Veteran to turn their camera on, it's up to them. If they choose to have their camera off, ask if they'd prefer you turn your's off.
+- [ ] Where applicable, confirm the participant is able to hear and see you.
+- [ ] Go through the consent process slowly and intentionally. Remind the participant of their autonomy and choice.
+- [ ] You can only record the session if the participant gives you permission to record. Once you start recording, you must let the participant know they're being recorded and have them acknowledge that they give permission. Remember to hit record to cloud.
+- [ ] Ask if participants are okay with notetakers and observers joining the session. If they are, add them to the meeting and ensure they are on camera with their name visible on the screen. Introduce them to the participant. Then, ask all third parties to turn off their cameras so you can begin.
+- [ ] Ensure everyone except the participant is on mute.
 
 ## Agenda - 60 minutes
 
@@ -35,9 +44,9 @@ Note: This Conversation Guide will be used to test [Prototype #2](https://www.fi
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Tyler and [NOTETAKER'S NAME] is taking notes.
+Thanks for joining us today! My name is [YOUR NAME] and I'm a researcher at the VA.
 
-I also have a few other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
+I also have a few colleagues in the Zoom waiting room who would like to observe and take notes. But before we invite them, I'd like to tell you more about what we're doing today.
 
 Today we're going to talk about how you sign in to access and manage your VA benefits and health care.
 
@@ -50,8 +59,8 @@ Before we start, a few things I want to mention:
 - Perigean did ask for your consent to allow people to observe today, but I'd like to confirm. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers.
-    - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. 
-    - Then, ask notetaker and observers to turn off their cameras for the rest of the session.
+    - Then, briefly introduce all observers while they keep their cameras on and microphones off. If you have time and prefer to, you can ask the observers and notetakers to introduce themselves instead.
+    - Then, ask all observers to turn off their cameras for the rest of the session.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we finish analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
