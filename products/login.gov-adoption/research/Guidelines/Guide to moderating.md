@@ -44,6 +44,7 @@ This guide is based:
 * If someone asks you how something works or what happens when they click on something, remember that we're here to learn from them, not to give them advice or onboard them to a new product. It can help to say something like, "I'm wondering, how would you expect it to work?" instead of answering the question.
 * When a Veteran shares a tough experience with you, show compassion but avoid unpacking trauma (which, as researchers, we're not prepared to do safely). It often helps to say something like, "I'm so sorry that happened to you" or "that sounds very frustrating," and then redirect back to your script. Remember that keeping to our [scope of practice](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma) helps us avoid causing additional harm to the Veteran.
 * If you don't know the answer to something you can say something like, "I'm not sure. But I'll ask Perigean to share a link to the support line on VA.gov so you can contact the right person at the VA." It helps to remind the participant of your role and what you can or can't help them with.
+* Keep an eye on the #feedback-backchannel when you have a moment, while the particpiant is reading, for example.
 
 ### If something goes wrong
 
@@ -57,10 +58,11 @@ This guide is based:
 
 * Say thank you with intention. Remind the Veteran that our team couldn't do this work without their wisdom and help.
 * Ask them how they are feeling. Give them time to debrief and use this time to transition out of the session.
-* Inform participants of what they can expect next, including payment and further contact from you or Perigean.
+* Try to have a quick look at the #feedback-backchannel in case there is anything that needs to be addressed before you finish.
+* Inform the participant of what they can expect next, including information about payment and further contact from you or Perigean.
 
 ## After the session
 
 * We have scheduled debriefs throughout the research schedule. But if you need to debrief more immeditately, reach out to your research lead. It can help to reflect, particularly if you have a difficult conversation during a session.
-* After the session, you can review notes and observations and add your own reflections while they're still fresh.
+* After the session, you can review the #feedback-backchannel and Mural board. It can be helpful to add your own reflections while they're still fresh.
 * Perigean will keep the recordings for up to 1 week following the study, your research lead will download any recordings needed and follow [these guidelines](https://depo-platform-documentation.scrollhelp.site/research-design/recording-user-research-sessions) to handle recordings safely.
