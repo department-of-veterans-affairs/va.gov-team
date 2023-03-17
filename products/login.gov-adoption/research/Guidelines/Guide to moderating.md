@@ -14,7 +14,8 @@ This guide is based on the VA Platform’s guidance:
 * Mute Slack notifications.
 
 ## During the session
- 
+
+* If the participant doesn't show up in the first few minutes, reach out to Perigean on Slack.
 * We don’t require the Veteran to turn their camera on, but you should have your camera on as moderator.
 * Remember to hit **record to cloud** after you confirmed the participant’s consent to being recorded.
 * Leave space for the Veteran to share their questions, reactions and experiences. Don't be afraid to ask why and probe, to learn more.
