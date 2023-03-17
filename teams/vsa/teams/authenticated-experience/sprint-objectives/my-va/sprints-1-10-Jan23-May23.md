@@ -249,6 +249,22 @@ This assumes all work was done from last sprint, and we were able to kickoff UAT
 - UAT
 - Launch to 25%
   - [Use Domo dashboard to monitor](https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F1167851935%3FuserId%3D1322887837)
+  - Make sure all links are populating activity as expected
+
+### Onsite notifications
+
+**PM**
+
+- Plan the rest of the component build engagement based on what comes out of the collab cycle recommendations
+  - [Use long-term planning spreadsheet](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=1904788724)
+
+**Design**
+
+- Next steps for stakeholder discovery, whether that is an outline of goals (a plan) and/or a light convo guide, or scheduling and conducting calls with stakeholders. This is dependent on what came out of #55245 and what you all determine needs to happen next.
+
+**FE**
+
+- Component implementation
 
 ## Sprint 8 (4/12 - 4/25)
 [#51095](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51095)
@@ -263,12 +279,31 @@ This assumes all work was done from last sprint, and we were able to kickoff UAT
 - Updates from staging review
   - These are things that came up but were not launch-blocking 
 
+### Onsite notifications
+
+**PM**
+
+- Continue with component build work per what came out of collab cycle.
+
+**Design**
+
+- Continue with next steps in stakeholder discovery
+
+**FE**
+
+- Continue with component build work per what came out of collab cycle.
+
 ## Sprint 9 (4/26 - 5/9)
 [#51096](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51096)
 
 ### My VA audit updates
 
 - FE: Update tests and test coverage for My VA (extend an additional sprint if needed)
+
+### Onsite notifications
+
+- Determine next steps for notification center discovery.
+- Continue with component build work per what came out of collab cycle.
 
 ## Sprint 10 (5/10 - 5/23)
 [#51098](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51098)
