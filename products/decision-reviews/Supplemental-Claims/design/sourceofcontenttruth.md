@@ -294,7 +294,7 @@ If you need help with this form, call us at <a href="tel:+18006982411" aria-labe
 We'll save your application every time you add or update information.
 
 ### Change mailing address
-- [] I live on a United States military base outside of the United States
+- [ ] I live on a United States military base outside of the United States
 
 Country (*Required)
 
@@ -322,7 +322,7 @@ _If the veteran checks the 'I live on a United States militar base outside o teh
 We'll save your application every time you add or update information.
 
 ### Change mailing address
-- [] I live on a United States military base outside of the United States
+- [ ] I live on a United States military base outside of the United States
 
 U.S. military bases are considered a domestic address and a part of the United States
 
@@ -428,13 +428,11 @@ If you need help with this form, call us at <a href="tel:+18006982411" aria-labe
 
 We'll save your application every time you add or update information.
  
-### You've selected the following issues to review:
+### You've selected the following issues for review:
 
 Issue
 
 Decision date
-
-Edit | Remove
 
 **_Back_** | **_Continue_**
 
