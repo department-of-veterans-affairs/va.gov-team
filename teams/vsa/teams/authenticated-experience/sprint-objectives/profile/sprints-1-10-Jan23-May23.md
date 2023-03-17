@@ -441,3 +441,7 @@ This assumes we are ready to launch. If not, push back tasks accordingly.
 - Assuming technical discovery happened last sprint, PM to scope out work for both default send indicator and adding email as a channel. Please account for required collab cycle milestones.
 - FE/BE work dependent on technical discovery for both default send indicator and adding email as a channel.
 - Design: When new mobile phone number flow is launched in production, update documentation (ticket already exists).
+
+### Logged-in IA/nav research
+
+- Liz: TBD; If there are immediate next steps, please keep Liz on this effort
