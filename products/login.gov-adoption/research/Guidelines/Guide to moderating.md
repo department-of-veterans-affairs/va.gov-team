@@ -15,14 +15,18 @@ This guide is based:
 * Prepare yourself by clearing your space and muting distractions like Slack notifications. Find your headphones.
 * Log into the Perigean Zoom meeting (you will be the host). Change the display name to your first name.
 * Turn on transcriptions by clicking the LIVE TRANSCRIPT button in the bottom toolbar, then, in the Live Transcription section, click the ENABLE button.
-* Open (or join) the #feedback-backchannel on DSVA Slack. Start a thread based on this template, "P# - Study Name starts in 10 minutes :thread:" and comment with:
+* Open the #feedback-backchannel on DSVA Slack. Start a thread:
 
-How to observe or take notes for this session:
-* I’ll let you in from the Zoom waiting room if or once the participant agrees to have you join.
-* Please review [these guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/Guidelines) before you join the session.
-* If you're a notetaker, please use this Notetaker spreadsheet [add link] to capture your notes.
-* If you're an observer, please use this Observer spreadsheet [add link] to capture your takeaways.
-* If you have questions for the participant, add them here and I’ll do my best to work them in.
+      "P2 - Grandfathering Migration Usability (1) starts in 10 minutes :thread:"
+* Copy these instructions and comment in the thread:
+
+      How to observe or take notes for this session:
+      
+      * I’ll let you in from the Zoom waiting room if or once the participant agrees to have you join.
+      * Please review [these guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/Guidelines) before you join the session.
+      * If you're a notetaker, please use this Notetaker spreadsheet [add link] to capture your notes.
+      * If you're an observer, please use this Observer spreadsheet [add link] to capture your takeaways.
+      * If you have questions for the participant, add them here and I’ll do my best to work them in.
 
 ## At the start of the session
 
