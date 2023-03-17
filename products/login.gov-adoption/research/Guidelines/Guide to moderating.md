@@ -1,5 +1,5 @@
 # Guide to moderating research
-*[Login.gov Adoption Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption)*
+[Login.gov Adoption Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption)
 
 Last updated by @tygindraux: March 17, 2023
 
