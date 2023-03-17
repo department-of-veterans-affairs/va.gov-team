@@ -43,28 +43,29 @@ By the end of this research effort, we will be able to:
  
 # Research questions 
 
-## Data:
-* Do the Health Summary and Blue Button sections pull data from the same place? (internal interviews)
-* How will medical records data be affected when a facility migrates to Cerner? (internal interviews)
-* How can the VA Health Summary and Blue Button sections be combined? Should they be combined? (internal interviews)
-* Why is self entered data managed separately from other health data? (internal interviews)
-
-## Policies, laws, and product history:
-* In what ways do laws and policies affect what is included in a medical records and how it must be accessed? (internal interviews)
-* Why is the information in medical records grouped in the way it is? (internal interviews)
-* Should VA Health Summary and Blue Button sections be combined? (external interviews, internal interviews)
-* Why was Search My Record created? (internal interviews)
-* Why are medical records designed to primarily be downloaded and then viewed, rather than viewed and then downloaded? (internal interviews)
-* What regulations and policies do we need to comply if we want to condense the output when a Veteran downloads records? (internal interviews)
+## Clinical:
+- What are the limitations of medication data on MHV from a clinical POV? 
+- What are all the use cases for medications data, such as viewing, refilling, and renewing?  
+- Are there limitations to how a patient can renew a prescription?  
+- How does this apply to different types of drugs (e.g., controlled vs not controlled substances)?  
+- How do these limitations impact the user experience? 
+- Why do allergies have to be shown on the same page as medications? 
+- What is the difference between a medications list and a medications treatment plan? 
+- Why don’t users have access to a medication treatment plan? 
+- Is there anything Veterans need do to receive correct medications when they move or switch facilities? 
+- What are the medications requirements for CHAMPVA patients?  
+- What are the differences between medications for refills and medications for renewal?  
+- Can a medication be refillable and renewable?  
+- Does refillable medication require providers’ approval to refill? 
+- How long before medications expire or discontinue a user should be notified?  
 
 ## Usability:
-* Who are the primary user groups for medical records today? (survey, internal interviews)
-* How do veterans interact with medical records today? (analytics, internal interview)
-* What information in medical records do Veterans access the most? What actions do they perform the most? (analytics)
-* What problems was Search My Record created to address? (internal interview)
-* What parts of medical records cause veterans the most frustration? (external interview, internal interview)
-* What accessibility issues exist in the way medical records works today? (external interview, internal audit)
-* Why would Veterans need to filter medical records data? Why would Veterans need to download information? (external interview, internal interview)
+- How do Veterans access their medication data today? 
+- What actions can Veterans take on their medication list today (e.g., request a refill)? 
+- How do Veterans track the status of their medications? 
+- How do Veterans learn when a medication has been shipped that they requested a refill for? 
+- How do Veterans request changes to their medication list or enter medications that aren’t present?  
+- What are the use cases for Veterans to download medication data that’s 180 days past dispense date? 
 
 # Hypotheses 
 
@@ -93,6 +94,8 @@ Participants: Internal subject matter experts (# total interviews)
 - Arienne Walters and Harrison Amelang, MHV pharmacy designers from ByLight
 - Raqual and Tanner, ByLight product owners
 - Meko Hong, Flagship mobile app PM
+
+*For data transfering and technical knowledge on medications, we should sync up with VA flagship mobile team engineers.*
 
 **Team responsibilities**
 Moderators: Coulton, Jenny
