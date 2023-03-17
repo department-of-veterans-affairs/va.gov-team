@@ -2,10 +2,11 @@
 
 Last updated by @tygindraux: March 17, 2023
 
-This guide is based on the VA Platform’s guidance:
-* [Conducting research sessions](https://depo-platform-documentation.scrollhelp.site/research-design/conducting-research-sessions#ConductingResearchSessions-Moderatingtips)
-* [Research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#ResearchSafetyandEmergencyExitStrategies-Creatingasafespaceforparticipants)
-* [Recording user research sessions](https://depo-platform-documentation.scrollhelp.site/research-design/Recording-User-Research-Sessions.2050949305.html)
+This guide is based:
+* [VA Platform's guide to conducting research sessions](https://depo-platform-documentation.scrollhelp.site/research-design/conducting-research-sessions#ConductingResearchSessions-Moderatingtips)
+* [VA Platform's research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#ResearchSafetyandEmergencyExitStrategies-Creatingasafespaceforparticipants)
+* [VA Platform's guide to recording user research sessions](https://depo-platform-documentation.scrollhelp.site/research-design/Recording-User-Research-Sessions.2050949305.html)
+* [Learnings from the VA trauma community of practice](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-03-06.md)
 
 ## Before the session
 
