@@ -75,7 +75,7 @@ By the end of this research effort, we will be able to:
 - It's challenging for users who take lots of medications to keep track which medications need to refill or renewal on time. 
 - There are a lot of different prescription statuses, and users might not know what all those mean and what actions they should or shouldn’t take regarding their medications’ status. 
 - There is no clear reason on why Veterans need to access active and inactive medication data separately from MyHealtheVet and Blue Button report. 
-- Users don’t manage their self-reported medications often.   
+- Users don’t regularly manage their self-reported medications.   
 
 # Methodology, Recruitment, and Next Steps
 
