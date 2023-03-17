@@ -4,7 +4,7 @@
 
 ### Communications
 
-- **GitHub Label**: vsa-authenticated-exp; notifications
+- **GitHub Label**: vsa-authenticated-exp; onsite-notifications
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
 
 ### Roles
