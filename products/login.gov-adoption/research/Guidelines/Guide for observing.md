@@ -29,9 +29,9 @@ This guide is based:
 
 ## Throughout the session
 
-* Don't send messages in the Zoom chat. If you need to send a message to your team, use the study's specific DSVA Slack channel.
-* Don't worry about taking perfect notes. We have people assigned to take notes, and we'll also receive a transcript after the call.
-* Take note of things that you find particularly interesting, insightful, surprising or confusing.
+* Don't send messages in the Zoom chat. If you would like to message the team during the session, use the study's DSVA Slack channel. (The name of the Slack channel is in the meeting invitation). Keep in mind, the moderator will be distracted and might not see your message right away or at all.
+* As an observer, don't worry about taking comprehensive notes. There are people on the team who have been assigned to take notes, and we'll also receive a transcript after the call.
+* Although your job is just to observe, you can feel free to use the Google sheet to take note of things that you find particularly interesting, insightful, surprising or confusing.
 
 ### If something goes wrong
 
@@ -39,7 +39,7 @@ This guide is based:
 * If a Veteran appears distressed, they will take a moment to check in with them, offer to move on and skip the question or topic, or they'll suggest taking a short break.
 * If a Veteran continues to give signs of distress, the researcher will follow an emergency exit strategy that they have prepared for.
 * If a Veteran experiences a medical or psychological emergency, then the researcher will follow [a protocol](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#Researchsafetyandemergencyexitstrategies-Requestingemergencyassistance) to request assistance.
-* As an observer, it's also important to look after yourself during research. If you no longer feel safe or capable to continue taking notes, you should feel empowered to exit the call. The moderator will likely be distracted, but you can message to let them know you left. They will get in touch with you after the session finishes to check in.
+* As an observer, it's also important to look after yourself during research. If you no longer feel safe or capable to continue observing, you should feel empowered to exit the call. The moderator will likely be distracted, but you can message to let them know you left. They will get in touch with you after the session finishes to check in.
 
 ## At the end of the session
 
