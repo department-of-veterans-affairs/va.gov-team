@@ -44,20 +44,19 @@ By the end of this research effort, we will be able to:
 # Research questions 
 
 ## Clinical:
-- What are the limitations of medication data on MHV from a clinical POV? 
+- What are the limitations of medication data on MHV from a clinical point of view? 
 - What are all the use cases for medications data, such as viewing, refilling, and renewing?  
 - Are there limitations to how a patient can renew a prescription?  
-- How does this apply to different types of drugs (e.g., controlled vs not controlled substances)?  
-- How do these limitations impact the user experience? 
-- Why do allergies have to be shown on the same page as medications? 
+  - How does this apply to different types of drugs (e.g., controlled vs not controlled substances)?  
+  - How do these limitations impact the user experience? 
+- Why do allergies need to be shown on the same page as medications? 
 - What is the difference between a medications list and a medications treatment plan? 
-- Why don’t users have access to a medication treatment plan? 
+  - Do users have access to a medication treatment plan, why or why not? 
 - Is there anything Veterans need do to receive correct medications when they move or switch facilities? 
 - What are the medications requirements for CHAMPVA patients?  
-- What are the differences between medications for refills and medications for renewal?  
-- Can a medication be refillable and renewable?  
-- Does refillable medication require providers’ approval to refill? 
-- How long before medications expire or discontinue a user should be notified?  
+- What are the differences in requirements between medications for refills and medications for renewal?  
+- How long before medications expire or discontinue a user should be notified? 
+- How is pre-visit summary currently used?  
 
 ## Usability:
 - How do Veterans access their medication data today? 
