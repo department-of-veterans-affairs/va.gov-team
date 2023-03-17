@@ -18,6 +18,7 @@
 |Berni Xiong| Delivery Manager | berni.xiong@agile6.com |
 |Angela Agosto |Designer| angela.agosto@adhocteam.us |
 |Allison Lu| FE Engineer|	allison@cityfriends.tech |
+|Derrick Ellerbie| Derrick.ellerbie@Agile6.com|
 
 
 #### Partners
