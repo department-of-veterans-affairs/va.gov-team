@@ -156,10 +156,7 @@ Response options: yes or no (Answer should be yes to satisfy criteria for LGBTQ+
 
 Availability for a kick-off call: 
 - March 21 between 10am-4pm
-- March 22 between 11am-3pm
-- March 23 between 11:30am-12:30pm, or between 3:30pm-4pm
-
-We’ll be using VA.gov, which is already live and ready to go.
+- March 22 between 11am-11:30am, 12-1pm, and 2-3:30pm
 
 ### Pilot session
 * Pilot participant email:  Mike.King@oddball.io 
