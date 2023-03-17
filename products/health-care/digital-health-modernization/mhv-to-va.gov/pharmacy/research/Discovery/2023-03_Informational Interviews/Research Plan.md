@@ -67,45 +67,32 @@ By the end of this research effort, we will be able to:
 * Why would Veterans need to filter medical records data? Why would Veterans need to download information? (external interview, internal interview)
 
 # Hypotheses 
-* Legal and policy considerations will not noticeably constrain how we are able to redesign medical records.
-* Medical records can be split up into discrete sections, such as 
-  * Health summary
-  * Recently added information
-  * Lab results
-  * Pathology results
-  * Medical imaging results
-  * Procedures
-  * Previous visits
-  * Medications
-  * Allergies
-  * Vaccines
-  * Documents
-* The primary user experience can be viewing information through each of the above sections, and downloading will be secondary functionality. 
-* The Blue Button section and branding can be deprecated.
-* The EHR migration will create significant medical record data conflicts for patients receiving care at both VistA and Cerner VAMCs.
-* Blue Button Report and VA Health Summary and Search My Record can be combined.
+
+- Allergies on MHV pharmacy page might not be useful or important information for users. 
+- Users might not know the differences between RxRefill app and VA mobile app and MHV medication on VA.gov.
+- It's challenging for users who take lots of medications to keep track which medications need to refill or renewal on time. 
+- There are a lot of different prescription statuses, and users might not know what all those mean and what actions they should or shouldn’t take regarding their medications’ status. 
+- There is no clear reason on why Veterans need to access active and inactive medication data separately from MyHealtheVet and Blue Button report. 
+- Users don’t enter self-report medications regularly.  
+- Users don’t manage their self-reported medications often.   
 
 # Methodology, Recruitment, and Next Steps
 
 ## Round 1: Semi-structured interviews with internal subject matter experts**
-Description: Conduct semi-structured interviews with internal subject matters experts using conversation guides. Synthesize findings, develop recommendations, and deliver to MHV team to develop designs in Q4. 
-Timing: By end of Q3
+Description: Conduct semi-structured interviews with internal subject matters experts using conversation guides. Synthesize findings, develop recommendations and requirements.
+Timing: 
 Location: Zoom 
-Participants: Internal subject matter experts (10-12 total interviews, start with bolded names, then talk to more people on the list if we have time)
-
-**Data focus:**
-* 1-2 engineers and technical staff from MHV team 
-  * MHV engineering lead: Barry Egbert (barry.egbert@blueguardianit.com)
-  * PHR lead dev: Muazzam Khan 
-  * Tech lead/API experts: Patrick Vinograd and Dave Mazik
-  * Health APIs team at Lighthouse: Bryan Schoefield (tech lead)  
-  * (maybe) VHIE (veterans health information exchange): Glen Crandall, Marie Swall - working on data interoperability issues between VA & DoD
-* 1-2 engineers and technical staff who understand the Cerner data migration and upkeep plan
-  * pending - need to find this person
+Participants: Internal subject matter experts (# total interviews)
 
 **Clinical:**
 - Maureen Layden (maureen.layden@va.gov), Physician - Director, VA Medication Reconciliation Initiative
-- 
+- Eric Spahn (eric.spahn@va.gov), Clinical analyst - Pharmacy Benefits Management, OCC business line owner 
+- Margo Kabel (margo.kabel@va.gov) VHA Health informatics, program analyst, HCD
+
+**Usability:**
+- Arienne Walters and Harrison Amelang, MHV pharmacy designers from ByLight
+- Raqual and Tanner, ByLight product owners
+- Meko Hong, Flagship mobile app PM
 
 **Team responsibilities**
 Moderators: Coulton, Jenny
