@@ -197,13 +197,13 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 - Danielle Thierry | danielle.thierry@va.gov - Content writer
 
 **HEC (Health Eligibility Center) Program Team**
-- TBD (main point of contact between the program and VA.gov)
+- Jennifer Mdoe | jennifer.mdoe@va.gov -- Program Analyst, ESO - Main POC
+- Ambroja Watson | ambroja.watson@va.gov -- Veteran Experience Officer, HEC - 2nd POC
 - Stacey Echols  | stacey.echols@va.gov  --  Deputy Director, HEC
 - Christopher Hawkins  | christopher.hawkins2@va.gov  -- Supervisory Management Analyst
 - Zachariah Bell  | zachariah.bell@va.gov  -- Acting ECM Supervisory Program Specialist
 - Cheylanda Griffith  | cheylanda.griffith@va.gov  --  Supervisory Program Specialist
 - Kimberly Bostic | Kimberly.Bostic@va.gov -- Associate Director, QA division HEC
-- Christopher Froehlich | Christopher.Froehlich@va.gov -- Digital Services Expert, IT
 - Lindsey Peace | Lindsey.Peace@va.gov -- Assistant Associate Director, Income Verification division
 - Jessica Soza | Jessica.Soza@va.gov -- Management & Program Analyst, BSO Business Policy (Paper forms)
 - Annie Rice | Annie.Rice@va.gov -- Contact Representative office
