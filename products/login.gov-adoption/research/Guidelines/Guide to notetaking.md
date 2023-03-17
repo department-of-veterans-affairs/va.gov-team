@@ -15,8 +15,8 @@ This guide is based:
 * Review the conversation guide and prototype to prepare.
 * Prepare yourself by clearing your space and muting distractions like Slack notifications.
 * Log into your Zoom account. You can change your display name to just your first or preferred name.
-* Open the **Notetaker spreadsheet**. This is linked in the meeting invitation.
-* Find the correct tab in the sheet based on the participant number, date and time of your session.
+* Open the **Mural board** and familiarize yourself with the space. This is linked in the meeting invitation.
+* Find the relevant session on the board, based on the participant number, date and time of your session.
 * Open (or join) the #feedback-backchannel on DSVA Slack. Your moderator will start a thread for the session.
 
 ## At the start of the session
@@ -33,8 +33,7 @@ This guide is based:
 * Please don't use the Zoom chat. If you would like to message during the session, use the thread in the #feedback-backchannel. Remember that the moderator will be distracted, but they will try and look out for your messages.
 * As notetaker, you should aim to take (as close to as possible) verbatim notes. This means literally transcribing what the participant and moderator says and does. Something that seems unimportant could surface as a pattern after a couple of interviews, so it's best to capture everything.
 * You should delay interpreting what's happening or jumping to solutions in your notes. For example, write, "The participant typed 'science fiction' in the search box." Instead of, "The participant can't find the task in the menu. We need to make it easier to find."
-* Time stamp your notes every so often.
-* Use a new line for each observation or moment.
+* Use a new sticky note for each observation or moment.
 * Don't worry about typos or mistakes. If you miss something, don't stress. We can watch the recordings to fill in missing details as needed.
 
 ### If something goes wrong
