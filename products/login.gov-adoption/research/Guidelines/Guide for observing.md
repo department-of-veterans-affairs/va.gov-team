@@ -12,26 +12,27 @@ This guide is based:
 
 ## Before the session
 
-* Review the conversation guide to prepare. (This is linked in the meeting invitation).
-* Log into your Zoom account. You may change your video conference display name to be just your first or preferred name. 
-* Prepare yourself and your space for a video interview by clearing clutter (on screen and around you) and muting distractions like Slack notifications.
-* Open the **observer Google Sheet**. (This is linked in the meeting invitation).
-* Find the correct tab in the sheet, with the participant number, date and time of your session. (The participant number is in the title of the meeting invitation).
+* Review the conversation guide and prototype to prepare.
+* Prepare yourself by clearing your space and muting distractions like Slack notifications.
+* Log into your Zoom account. You can change your display name to just your first or preferred name.
+* Open the **Observer spreadsheet**. This is linked in the meeting invitation.
+* Find the correct tab in the sheet based on the participant number, date and time of your session.
+* Open (or join) the #feedback-backchannel on DSVA Slack. Your moderator will start a thread for the session.
 
 ## At the start of the session
 
-* Sign into the meeting and join the waiting room. During this time, the moderator will ask for the participant's consent to have you join the session. If the participant says no, the moderator will send you a message on Slack letting you know that you can leave.
-* If the participant consents to you (and other observers) joining, the moderator will admit you to the meeting.
+* Join the Zoom waiting room. Before you're admitted, the moderator will ask for the participant's consent to have you and other observers join the session.
+  * If they say no, the moderator will message on #feedback-backchannel and you can leave the call.
+  * If they say yes, the moderator will admit you to the meeting.
 * Join the meeting with your **camera on** and **microphone muted**.
-* The moderator will verbally introduce you and other observers, you can wave. If there's time, the moderator will ask you to say hello. Otherwise you can keep your **microphone muted**.
-* Turn your **camera off** when the moderator says so.
-* You will be a silent viewer the rest of the session with your **camera off** and **microphone muted**.
+* The moderator will verbally introduce you and the other observers. If there's time, the moderator will ask you to say hello. Otherwise you can keep your **microphone muted**.
+* Turn your **camera off** when the moderator says so. For the rest of the session you should keep your **camera off** and **microphone muted**.
 
 ## Throughout the session
 
-* Don't send messages in the Zoom chat. If you would like to message the team during the session, use the study's DSVA Slack channel. (The name of the Slack channel is in the meeting invitation). Keep in mind, the moderator will be distracted and might not see your message right away or at all.
+* Please don't use the Zoom chat. If you would like to message during the session, use the thread in the #feedback-backchannel. Remember that the moderator will be distracted, but they will try and look out for your messages.
 * As an observer, don't worry about taking comprehensive notes. There are people on the team who have been assigned to take notes, and we'll also receive a transcript after the call.
-* Although your job is just to observe, you can feel free to use the Google sheet to take note of things that you find particularly interesting, insightful, surprising or confusing.
+* Although your job is just to observe, you can feel free to use the Observer spreadsheet to take note of things that you find particularly interesting, insightful, surprising or confusing. Or, you can write them in the Slack thread.
 
 ### If something goes wrong
 
@@ -39,7 +40,7 @@ This guide is based:
 * If a Veteran appears distressed, they will take a moment to check in with them, offer to move on and skip the question or topic, or they'll suggest taking a short break.
 * If a Veteran continues to give signs of distress, the researcher will follow an emergency exit strategy that they have prepared for.
 * If a Veteran experiences a medical or psychological emergency, then the researcher will follow [a protocol](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#Researchsafetyandemergencyexitstrategies-Requestingemergencyassistance) to request assistance.
-* As an observer, it's also important to look after yourself during research. If you no longer feel safe or capable to continue observing, you should feel empowered to exit the call. The moderator will likely be distracted, but you can message to let them know you left. They will get in touch with you after the session finishes to check in.
+* As an observer, it's also important to look after yourself during research. If you no longer feel safe or capable to continue observing, you should feel empowered to exit the call. The moderator will likely be distracted, but you can message them (directly or using #feedback-backchannel to let them know you left). They will check in with you after the session finishes.
 
 ## At the end of the session
 
@@ -47,5 +48,5 @@ This guide is based:
 
 ## After the session
 
-* After the session, spend a couple minutes adding any other reflections or questions to your notes.
+* After the session, write your top 3-5 key takeaways if you haven't already. This might be something you find interesting, insightful or surprising.
 * Feel free to reach out to the researcher if you need to debrief further.
