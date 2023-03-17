@@ -77,8 +77,7 @@ Experimental Design submission: [#1181](https://github.com/department-of-veteran
 - Add Sketch files
 
 ### Before
-
-TBD
+<img width="462" alt="Screenshot 2023-03-17 at 2 32 30 PM" src="https://user-images.githubusercontent.com/45603961/225989350-54e0a132-23f6-44e1-b3f0-fee9bdf70e53.png">
 
 ### After
 
