@@ -33,18 +33,16 @@ Health Products
 ## Who we are
 
 ### Team Members:
-- Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
-- Patrick Bateman | patrick.bateman@va.gov - Product Owner
-- Katherine Lawyer | katherine.lawyer@va.gov - Product Owner
-- Mark Dewey | mark.dewey@va.gov - Engineering Product Owner
-- Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
-- Danielle Thierry | danielle.thierry@va.gov - Content writer
 - Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us - Product manager
+- Alex Seelig | alexander.seelig@va.gov / alex.seelig@agile6.com -- Product manager
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us - Sr UX Design/Research
 - David "DK" Kennedy | david.kennedy@va.gov / david.kennedy@adhocteam.us - UX Designer
 - Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
 - Erin Flaherty | erin.flaherty@va.gov / erin.flaherty@adhocteam.us - Sr Frontend/QA Engineer
 - Lihan Li | han.li@va.gov / lihan@adhocteam.us - Backend Engineer
+- Joshua Drumm | joshua.drumm@agile6.com - Backend Engineer
+- Luis Simauchi | luis.simauchi@adhocteam.us -- Sr Data Analyst
+- 
 
 ---
 
