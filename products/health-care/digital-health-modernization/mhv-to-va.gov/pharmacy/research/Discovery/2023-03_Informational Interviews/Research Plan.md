@@ -30,6 +30,7 @@ By the end of this research effort, we will be able to:
 - Deliver task flows for an optimized user experience of renewing and refilling medications. 
 - Deliver wireframes to present the changes for improving the user experience of pharmacy functionlity for Veterans. 
 - Deliver recommendations for implementing medication treatment plan and pre-visit summary on VA.gov in the near future. 
+- Document what medication treatment plan and pre-visit summary are to better inform post-MVP work.
 
 # Timeline & Activities 
 
@@ -39,7 +40,8 @@ By the end of this research effort, we will be able to:
 - 3/24: Send out interview scheduling emails
 - 3/27-4/5: Conduct interviews 
 - 4/7: Organize notes and synthesize findings (continue interviews if it's not done by 4/7) 
-- 4/12: Finalize summary report 
+- 4/12: Finalize summary report that includes requirements, comparison analysis, and task flows 
+- 4/24: Complete lo-fi wireframes
  
 # Research questions 
 
@@ -64,7 +66,7 @@ By the end of this research effort, we will be able to:
 - How do Veterans track the status of their medications? 
 - How do Veterans learn when a medication has been shipped that they requested a refill for? 
 - How do Veterans request changes to their medication list or enter medications that aren’t present?  
-- What are the use cases for Veterans to download medication data that’s 180 days past dispense date? 
+- What are the use cases for Veterans to review and download data for medications that have been discontinued, expired, or otherwise inactivated?
 
 # Hypotheses 
 
@@ -78,15 +80,17 @@ By the end of this research effort, we will be able to:
 # Methodology, Recruitment, and Next Steps
 
 ## Round 1: Semi-structured interviews with internal subject matter experts**
-Description: Conduct semi-structured interviews with internal subject matters experts using conversation guides. Synthesize findings, develop recommendations and requirements.
+Description: Conduct semi-structured interviews with internal subject matters experts using conversation guides. Synthesize findings, develop requirements and other deliverables.
 Timing: 
 Location: Zoom 
-Participants: Internal subject matter experts (# total interviews)
+Participants: Internal subject matter experts (#? total interviews)
 
 **Clinical:**
 - Maureen Layden (maureen.layden@va.gov), Physician - Director, VA Medication Reconciliation Initiative
 - Eric Spahn (eric.spahn@va.gov), Clinical analyst - Pharmacy Benefits Management, OCC business line owner 
 - Margo Kabel (margo.kabel@va.gov) VHA Health informatics, program analyst, HCD
+- Chris Ray, contractor PM on Rx Refill app
+- Nancy Wilck,? 
 
 **Usability:**
 - Arienne Walters and Harrison Amelang, MHV pharmacy designers from ByLight
@@ -100,17 +104,4 @@ Participants: Internal subject matter experts (# total interviews)
 - Research guide writing and task development: Coulton, Jenny
 - Project point of contact: Coulton, Jenny 
 - Notetakers: Volunteers from team
-- Observers: 
-
-## Round 2: Usability testing with Veterans
-- Description: Conduct usability testing with 5-10 Veterans using prototypes developed in response to recommendations from semi-structured interviews. 
-- Timing: 
-- Location: Zoom
-- Participants: 
-
-Team responsibilities
-- Moderators: 
-- Research guide writing and task development:  
-- Project point of contact: 
-- Notetakers: 
 - Observers: 
