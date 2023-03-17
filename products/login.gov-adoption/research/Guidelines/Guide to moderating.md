@@ -9,6 +9,7 @@ This guide is based on the VA Platform’s guidance:
 
 ## Before the session
 
+* Review the conversation guide and prototypes (or other stimuli) to prepare.
 * Log into the Perigean Zoom meeting (you will be the host).
 * Turn on transcriptions by clicking the LIVE TRANSCRIPT button in the bottom toolbar, then, in the Live Transcription section, click the ENABLE button.
 * Mute Slack notifications.
