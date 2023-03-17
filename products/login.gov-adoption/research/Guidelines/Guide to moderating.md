@@ -17,8 +17,8 @@ Last updated by @tygindraux: March 17, 2023
 
 ## During the session
 
-* We don’t require the Veteran to turn their camera on, but you should have your camera on
-* Remember to hit **record to cloud** after you confirmed the participant’s consent to being recorded
+* We don’t require the Veteran to turn their camera on, but you should have your camera on as moderator.
+* Remember to hit **record to cloud** after you confirmed the participant’s consent to being recorded.
 * Leave space for the Veteran to share their questions, reactions and experiences. Don't be afraid to ask why and probe, to learn more.
 * If someone asks you how something works or what happens when they click on something, remember that we're here to learn from them, not to teach or onboard them to a new product. It can help to say something like, "I'm wondering, how would you expect it to work?" instead of answering the question.
 * We can show compassion without unpacking trauma (which we're not prepared to do). It often helps to say something like, "I'm so sorry that happened to you" or "that sounds very frustrating," and then redirect back to your script or the purpose of the study.
