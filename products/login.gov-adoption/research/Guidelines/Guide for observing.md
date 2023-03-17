@@ -15,8 +15,8 @@ This guide is based:
 * Review the conversation guide and prototype to prepare.
 * Prepare yourself by clearing your space and muting distractions like Slack notifications.
 * Log into your Zoom account. You can change your display name to just your first or preferred name.
-* Open the **Observer spreadsheet**. This is linked in the meeting invitation.
-* Find the correct tab in the sheet based on the participant number, date and time of your session.
+* Open the **Mural board** and familiarize yourself with the space. This is linked in the meeting invitation.
+* Find the relevant session on the board, based on the participant number, date and time of your session.
 * Open (or join) the #feedback-backchannel on DSVA Slack. Your moderator will start a thread for the session.
 
 ## At the start of the session
@@ -32,7 +32,6 @@ This guide is based:
 
 * Please don't use the Zoom chat. If you would like to message during the session, use the thread in the #feedback-backchannel. Remember that the moderator will be distracted, but they will try and look out for your messages.
 * As an observer, don't worry about taking comprehensive notes. There are people on the team who have been assigned to take notes, and we'll also receive a transcript after the call.
-* Although your job is just to observe, you can feel free to use the Observer spreadsheet to take note of things that you find particularly interesting, insightful, surprising or confusing. Or, you can write them in the Slack thread.
 
 ### If something goes wrong
 
@@ -48,5 +47,5 @@ This guide is based:
 
 ## After the session
 
-* After the session, write your top 3-5 key takeaways if you haven't already. This might be something you find interesting, insightful or surprising.
+* After the session, write your top 3-5 key takeaways in Mural if you haven't already. This might be something you find interesting, insightful or surprising.
 * Feel free to reach out to the researcher if you need to debrief further.
