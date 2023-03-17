@@ -2,13 +2,15 @@
 *Login.gov Adoption Team, Legacy Credential Migration, February 2023*
 <br>
 
-Last updated by @tygindraux: February 28, 2023
+Last updated by @tygindraux: March 17, 2023
 
 Note: This Conversation Guide will be used to test [Prototype #1](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=41-1311&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=41%3A1311), where after the Veterans signs in to VA.gov, a modal pops up asking them to set up a Login.gov account. Review [Conversation Guide #2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability/conversation%20guide%20%232.md) for testing related to [Prototype #2](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=241%3A1369&scaling=min-zoom&page-id=241%3A1368&starting-point-node-id=234%3A1848).
 
 ## Moderator logistics
 ### 2-3 days before the session
-- [ ] Send instructions to observers (such as using the #feedback-backchannel for observer comments, joining the waiting room, having their cameras and microphones muted)
+- [ ] Review [guidelines for moderators](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/Guidelines/Guide%20to%20moderating.md)
+- [ ] Send [guidelines for notetakers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/Guidelines/Guide%20to%20notetaking.md)
+- [ ] Send [guidelines for observers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/Guidelines/Guide%20for%20observing.md)
 - [ ] Ensure prototype(s) are prepared and Perigean will share them with participants
 
 ### Day of the session
