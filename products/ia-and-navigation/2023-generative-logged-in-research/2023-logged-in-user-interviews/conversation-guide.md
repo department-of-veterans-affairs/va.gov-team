@@ -136,21 +136,20 @@ Thank you for showing that to me!
 - Where did the person go if they couldn’t use My VA or the Homepage?
 - If they couldn’t navigate to their task, what did they do?
 
-## Task 3: Update contact information - 5 min / 10 min for screen reader session
-Now I’d like to for you to show me one last thing - how would you update the phone number you have on file with VA?
+## Task 3: View dependents - 5 min / 10 min for screen reader session
+Now I’d like to for you to show me one last thing - how would you double check any dependents you have on file with VA?
 	
-**! Stop the participant before they change their actual information !**
+*Goal is to get them to this page: [https://www.va.gov/view-change-dependents/view](https://www.va.gov/view-change-dependents/view)*
 
 Thank you for showing that to me! 
 
-**If participant used the link from My VA to get to profile:** Can you show me how you’d do that if the link to profile wasn’t on My VA? Where would you go?
 
 ### Things to watch for:
-- What is the navigation path the person took to get to the profile?
+- What is the navigation path the person took ?
+- Did the participant use search?
 - Was the person able to complete their task?
 - What, if anything did the participant find confusing?
-- Where did the person go if they couldn’t use My VA?
-- If they couldn’t navigate to profile, what did they do?
+- If they couldn’t navigate to the task, what did they do?
 
 ## Post-Task Interview - 10 minutes
 Those are all the things I wanted you to show me on the website. Thanks for going through that with me! I have just a few more questions.
