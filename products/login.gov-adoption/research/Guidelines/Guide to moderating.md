@@ -6,7 +6,7 @@ This guide is based:
 * [VA Platform's guide to conducting research sessions](https://depo-platform-documentation.scrollhelp.site/research-design/conducting-research-sessions#ConductingResearchSessions-Moderatingtips)
 * [VA Platform's research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#ResearchSafetyandEmergencyExitStrategies-Creatingasafespaceforparticipants)
 * [VA Platform's guide to recording user research sessions](https://depo-platform-documentation.scrollhelp.site/research-design/Recording-User-Research-Sessions.2050949305.html)
-* [Trauma Practice guidelines](https://docs.google.com/document/d/1bu8wg2_WVFGDwoYK-uSqzapq915FJsvnEpNA_ifr_bU/edit#heading=h.ch01ngov5g66)
+* [Trauma practice guidelines](https://docs.google.com/document/d/1bu8wg2_WVFGDwoYK-uSqzapq915FJsvnEpNA_ifr_bU/edit#heading=h.ch01ngov5g66)
 * [Learnings from the VA trauma community of practice](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-03-06.md)
 
 ## Before the session
