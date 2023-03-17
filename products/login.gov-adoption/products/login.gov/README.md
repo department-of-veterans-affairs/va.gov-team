@@ -36,7 +36,7 @@ The adoption of Login.gov as a primary Credential Service Provider (CSP) for acc
 * The integration of Login.gov with existing VA digital tools will be feasible
 * The adoption of Login.gov will result in improved security measures for VA digital tools
 * Sending targeted comms is effectively the same as organic migration
-* Organic adoption flows already exist. No new functionality would need to be released for the purpose of this experiment.
+* Organic adoption flows already exist. No new functionality would need to be released for the purpose of this research.
 * Messaging will not mention urgency or sunsetting. Instead, we’ll rely on the value proposition: it’s more secure.
 * Messaging will be uniform across segments.
 * Depending on whether we want to test for IAL1 only, or full completion: We will be able to send participants down the path to get to IAL1 then stop (the flow won’t force them through identity verification/IAL2 automatically, and therefore won’t consider IAL1 incomplete/failure)
