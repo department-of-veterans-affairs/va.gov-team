@@ -116,20 +116,34 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18-20
 
 **Screener for all participants**
 
-1. Please make sure that ALL participants are willing to complete their interview on the device they specified when recruited and:
-  1. During the session, are willing to control a shared screen
-  2. Have a working microphone and camera on their device
-2. If using a mobile device, what brand do you have?
-  1. Android
-  2. Apple
-3. Do you have a My HealtheVet (MHV) account?
-  1. Yes (go on to additional Screener question 3)
-  2. No
-4. Are you comfortable allowing observers into the session?
-  1. Yes (recruit 12)
-  2. No (recruit 12 from "No" on question 2)
+During the session, are you willing to control a shared screen?
+
+- Yes [include as participant]
+- No [exclude as participant]
+
+Do you have a working microphone and camera on your device?
+
+- Yes [include as participant]
+- No [exclude as participant]
+
+If using a mobile device, what brand do you have?
+
+- Android
+
+- Apple
+
+Do you have a My HealtheVet (MHV) account?
+
+- Yes [include as participant]
+- No [exclude as participant]
+
+Are you comfortable allowing observers into the session?
+
+- Yes [include as participant]
+- No [exclude as participant]
 
 Note: For recruitment purposes, users can use either a Desktop or Laptop interchangeably, as long as they have a camera on it.
+
 
 **Timeline**
 
