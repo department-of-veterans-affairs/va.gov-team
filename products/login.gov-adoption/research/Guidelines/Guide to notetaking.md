@@ -51,6 +51,6 @@ This guide is based:
 
 ## After the session
 
-* Go back through your notes and add details as needed.
+* Spend a couple minutes going back through your notes and add details as needed.
 * Write your top 3-5 key takeaways. This might be something you find interesting, insightful or surprising.
 * If you have questions or comments for the researcher, feel free to message in the #feedback-backchannel thread, or, reach out to them directly.
