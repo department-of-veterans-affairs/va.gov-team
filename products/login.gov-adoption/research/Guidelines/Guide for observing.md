@@ -15,7 +15,7 @@ This guide is based:
 * Review the conversation guide to prepare. (This is linked in the meeting invitation).
 * Log into your Zoom account. You may change your video conference display name to be just your first or preferred name. 
 * Prepare yourself and your space for a video interview by clearing clutter (on screen and around you) and muting distractions like Slack notifications.
-* Open the shared **observer Google Sheet** that was shared with you. (This is linked in the meeting invitation).
+* Open the **observer Google Sheet** that was shared with you. (This is linked in the meeting invitation).
 * Find the correct tab in the sheet, with the participant number, date and time of your session. (The participant number is in the title of the meeting invitation).
 
 ## At the start of the session
