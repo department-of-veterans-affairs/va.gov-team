@@ -266,6 +266,10 @@ This assumes all work was done from last sprint, and we were able to kickoff UAT
 
 - Component implementation
 
+### Update claim status integration from EVSS > Lighthouse
+
+- On hold
+
 ## Sprint 8 (4/12 - 4/25)
 [#51095](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51095)
 
@@ -276,7 +280,7 @@ This assumes all work was done from last sprint, and we were able to kickoff UAT
   - Update all design use cases
   - Update FE documentation
   - Update [My VA product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#product-outline-my-va) as needed 
-- Updates from staging review
+- **FE**: Updates from staging review
   - These are things that came up but were not launch-blocking 
 
 ### Onsite notifications
@@ -292,6 +296,14 @@ This assumes all work was done from last sprint, and we were able to kickoff UAT
 **FE**
 
 - Continue with component build work per what came out of collab cycle.
+
+### Update claim status integration from EVSS > Lighthouse
+
+**PM**
+
+- Check in with Jacob -- are we ready to resume this work?
+  - If yes, have Derrick conduct technical discovery, and work with him to scope the project
+  - If no, punt to whenever Jacob indicates they'll be ready
 
 ## Sprint 9 (4/26 - 5/9)
 [#51096](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51096)
