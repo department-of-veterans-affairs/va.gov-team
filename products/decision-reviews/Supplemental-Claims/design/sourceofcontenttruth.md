@@ -428,12 +428,13 @@ If you need help with this form, call us at <a href="tel:+18006982411" aria-labe
 
 We'll save your application every time you add or update information.
  
-### Select the issues you’d like us to review
-These are your issues you're asking us to review.
+### You've selected the following issues to review:
 
 Issue
 
 Decision date
+
+Edit | Remove
 
 **_Back_** | **_Continue_**
 
