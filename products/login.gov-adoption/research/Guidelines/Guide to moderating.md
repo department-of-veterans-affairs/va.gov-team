@@ -1,7 +1,7 @@
 # Guide to moderating research on the Login.gov Adoption Team
 
 Last updated by @tygindraux: March 17, 2023
-
+ 
 This guide is based:
 * [VA Platform's guide to conducting research sessions](https://depo-platform-documentation.scrollhelp.site/research-design/conducting-research-sessions#ConductingResearchSessions-Moderatingtips)
 * [VA Platform's research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#ResearchSafetyandEmergencyExitStrategies-Creatingasafespaceforparticipants)
