@@ -44,10 +44,12 @@ This guide is based:
 
 ## At the end of the session
 
-* Say thank you, and mean it. Remind the Veteran 
+* Say thank you with intention. Remind the Veteran that our team couldn't do this work without their wisdom and help.
+* Ask them how they are feeling. Give them time to debrief and use this time to transition out of the session.
+* Inform participants of what they can expect next, including payment and further contact from you or Perigean.
 
 ## After the session
 
-* We have scheduled debriefs throughout the research schedule. If you need to debrief more immeditately, reach out to your research lead.
+* We have scheduled debriefs throughout the research schedule. But if you need to debrief more immeditately, reach out to your research lead. It can help to reflect, particularly if you have a difficult conversation during a session.
 * After the session, you can review notes and observations and add your own reflections while they're still fresh.
 * Perigean will keep the recordings for up to 1 week following the study, your research lead will download any recordings needed and follow [these guidelines](https://depo-platform-documentation.scrollhelp.site/research-design/recording-user-research-sessions) to handle recordings safely.
