@@ -28,6 +28,7 @@ This guide is based on the VA Platform’s guidance:
 * If a Veteran appears distressed, you can take a moment to check in, offer to move on and skip the question or topic, or suggest taking a short break.
 * If they continue to give signs of distress, follow the emergency exit strategies in our conversation guide.
 * If you find yourself in a session with a Veteran experiencing a medical or psychological emergency, then you need to follow [this protocol](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies) to request assistance.
+* Remember that as well as looking at for the participant, you also need to look after yourself. If you, as the moderator, no longer feel safe or capable to continue, pause the session, get in touch with Perigean to describe the situation, and feel empowered to use an exit strategy from our conversation guide. After the incident, follow [this protocol](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#Researchsafetyandemergencyexitstrategies-Creatingasafespaceforresearchmoderators) and reach out to your research lead to debrief.
 
 ## After the session
 
