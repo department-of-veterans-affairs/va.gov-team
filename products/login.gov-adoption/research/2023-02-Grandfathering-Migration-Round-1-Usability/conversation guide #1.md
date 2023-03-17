@@ -15,13 +15,15 @@ Note: This Conversation Guide will be used to test [Prototype #1](https://www.fi
 
 ### Day of the session
 - [ ] Prepare prototype on your device and be ready for screen sharing if necessary
-- [ ] Mute Slack and email notifications
-- [ ] Use #feedback-backchannel to interact with observers (including asking for 'observer instructions' from the Slackbot)
+- [ ] Log into the Perigean Zoom meeting (you will be the host).
+- [ ] Turn on transcriptions by clicking the LIVE TRANSCRIPT button in the bottom toolbar, then, in the Live Transcription section, click the ENABLE button.
+- [ ] Prepare yourself and your space for a video interview by clearing clutter (on screen and around you), ensuring you have good lighting, and muting distractions like Slack notifications.
+- [ ] Use headphones.
 - [ ] Review goals and research questions for this study in the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability/research%20plan.md)
 
 ### Starting the session
-- [ ] Ensure everyone except the participant is on mute
-- [ ] Where necessary, confirm the participant is able to hear and see you
+- [ ] Ensure everyone except the participant is on mute.
+- [ ] Where necessary, confirm the participant is able to hear and see you.
 
 ## Agenda - 60 minutes
 
