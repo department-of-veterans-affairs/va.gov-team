@@ -59,7 +59,7 @@ Before we look at the design, let's start with a few warm-up questions.
 
 Ok, now we will start looking at the site. I am going to share my screen and have you take control.
 
-I'm going to ask you to perform a series of tasks, even though this is a prototype with fake information. For the purpose of these tasks, pretend you are going to open the new "Notification Center" feature.
+I'm going to ask you to perform a series of tasks, even though this is a prototype with fake information. For the purpose of these tasks, please show me how you would navigate to view notifications and narrate how you would do this.
 
 - Step 1: Participant will click/tap on either the blue banner or "What's new" link to get to the main page.
 
@@ -76,11 +76,11 @@ I'm going to ask you to perform a series of tasks, even though this is a prototy
 
 - How do you feel about the placement of the Notification Center Links? Is this where you would have expected them to be?
 
-- Do you feel that having both the blue banner and "what's new" link was necessary in order for you to find the notification center main page?
+- Did you notice the path that you didn't take to get to notifications?
 
 - How do you feel about the location of the "what's new" link?
 
-**Second Task: You are now in the Notification Center main page. You want to see your personalized notifications. Please take the next steps you would take to do that without using the traditional sign in button. - 8 minutes**
+**Second Task: You are now in the Notification Center main page. Please take the next steps you would take to see your personalized notifications. - 8 minutes**
 
 - Step 1: Participant will click/tap on the log in link to access personalized notifications.
 
@@ -110,6 +110,7 @@ I'm going to ask you to perform a series of tasks, even though this is a prototy
 
 - On a scale of 1-5 what is the level of difficulty to complete the task? 1 being very difficult, 2 being difficult, 3 being neutral, 4 being easy, 5 being very easy. What made you choose [that number]? Why [X] and not [Y]?
 
+- What would be good indicators of a time sensitive alert?
 - Did you feel the color for the time sensitive alert was appropriate?
 
 **Fourth Task: Now that you've dealt with the alert, please show me confirmation that it is no longer a time sensitive issue. - 8 minutes**
