@@ -113,40 +113,44 @@ You can check on this by logging into VA.gov. If you see a prompt to verify your
 Response options: yes or no
 (Answering yes would qualify the participant.)
 
-2. Do you find it difficult to remember or learn new things, focus on a task, or make decisions?
+2. Please provide the email address you use to log in with your VA.gov identity-verified account. We’ll use this to give you access to the version of the website we’d like to get your feedback on.
+
+Response: text box
+
+3. Do you find it difficult to remember or learn new things, focus on a task, or make decisions?
 
 **Note:** We ask this question because we want to make sure that our tools work for people who live with challenges like these.
 
 Response options: yes or no
 (Answering yes would qualify the participant to meet criteria for cognitive impairments)
 
-3. Do you need to use screen reader technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? 
+4. Do you need to use screen reader technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? 
 
 **Note:** We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
 
 Response options: yes or no
 
-(Proceed to question 3a if yes)
+(Proceed to question 4a if yes)
 
-3a.  We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader:
+4a.  We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader:
 
 Response options:  Beginner, Intermediate, Advanced, Expert
 
 (This answer won’t influence whether or not they qualify, but will be helpful to have on the tracker and for scheduling)
 
-3b. Are you willing to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
+4b. Are you willing to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
 
 Response options: yes or no
 	
-3c. Please list the name of the screen reader technology you will use during the session.
+4c. Please list the name of the screen reader technology you will use during the session.
 
 Response option: text box
 
-4. Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. (Answer should be yes to satisfy criteria for 6 mobile users)
+5. Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. (Answer should be yes to satisfy criteria for 6 mobile users)
 
 Response options: yes or no
 
-5. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
+6. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
 
 Response options: yes or no (Answer should be yes to satisfy criteria for LGBTQ+)
 
@@ -204,3 +208,4 @@ Please list the people who will be serving in each role.
 	- allison@cityfriends.tech
 	- robyn.singleton@adhocteam.us
 	- Cindy.merrill@adhocteam.us
+	- kristin.o.m@coforma.io 
