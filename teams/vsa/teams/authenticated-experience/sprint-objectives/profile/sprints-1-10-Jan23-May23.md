@@ -320,6 +320,8 @@ This is dependent on hiring:
 - Integration Testing between FE and BE (Staging) #54771 (4 pts)
 - Update Direct Deposit BE Documentation #54762 (3 pts)
 
+**Is backend/frontend work done at this point? If so, we are ready to move on to QA tasks next sprint**
+
 ### Logged-in IA/nav research
 
 **Design - Liz**
@@ -344,6 +346,16 @@ Sprint 8 Epic [#54916](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
 - Assuming all work is done, we can close out this project! If not, extend into sprint 9.
 
 ### Direct deposit: EVSS > Lighthouse migration
+
+**Is backend/frontend work done at this point? If so, we are ready to move on to QA.**
+
+Things that need to be true for us to move on to QA:
+
+- All BE work is done.
+- All FE work is done.
+- Tom has validated that Lighthouse is connecting downstream to staging user data accordingly, so we're able to validate things on staging through QA.
+
+If anything is not done, move QA back a sprint.
 
 **Whole Team**
 
@@ -373,6 +385,23 @@ Sprint 8 Epic [#54916](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
  
 ## Sprint 9 (4/26 - 5/9)
 
+### Direct deposit: EVSS > Lighthouse migration
+
+This assumes QA is done, and any fixes from QA have been implemented. If not, please adjust the plan accordingly.
+
+**PM**
+- Fill out [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) and add it to [project folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration)
+- Submit ticket for privacy and security review
+
+**Design**
+
+- Recruit for UAT -- **Only do this if QA is complete, fixes have been implemented, and the privacy and security review is complete and does not recommend any changes**
+- Run sessions
+
+**BE**
+
+- Assist with privacy and security review submission
+
 ### Notification preferences
 
 **FE - Adam**
@@ -388,3 +417,11 @@ Sprint 8 Epic [#54916](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
 
 ## Sprint 10 (5/10 - 5/23)
 
+### Direct deposit: EVSS > Lighthouse migration
+
+This assumes we are ready to launch. If not, push back tasks accordingly.
+
+- Launch go/no-go
+  - Please fill out the [launch go/no-go doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md), add it to the [project folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration), and conduct meeting with team.
+- **IF READY** Launch to 10% and monitor for a week
+- Launch to 25% pending no issues at 10% and monitor for a week. If there are issues at 10%, resolve those before increasing % for phased launch.
