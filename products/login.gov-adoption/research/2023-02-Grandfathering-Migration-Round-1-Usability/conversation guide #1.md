@@ -43,9 +43,9 @@ Note: This Conversation Guide will be used to test [Prototype #1](https://www.fi
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [YOUR NAME] and [NOTETAKER'S NAME(s)] is/are taking notes.
+Thanks for joining us today! My name is [YOUR NAME] and I'm a researcher at the VA.
 
-I also have a few other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
+I also have a few colleagues in the Zoom waiting room who would like to observe and take notes. But before we invite them, I'd like to tell you more about what we're doing today.
 
 Today we're going to talk about how you sign in to access and manage your VA benefits and health care.
 
