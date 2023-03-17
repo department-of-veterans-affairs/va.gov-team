@@ -25,6 +25,8 @@ Created by the sitewide content and IA team for teams working on products relate
 
 **Korean Demilitarized Zone (Korean DMZ)**
 
+**Mustard gas and lewisite** These 2 chemicals go together when describing the exposure. We refer to these as both "chemicals" and "blistering agents."
+
 **Vietnam War era** / **Vietnam era**
 
 **Republic of Vietnam**
