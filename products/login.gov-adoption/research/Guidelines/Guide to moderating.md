@@ -24,7 +24,7 @@ This guide is based:
       
       * I’ll let you in from the Zoom waiting room if or once the participant agrees to have you join.
       * Please review [these guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/Guidelines) before you join the session.
-      * Please capture your notes or observations in this [Mural board](add link)
+      * Please capture your notes or observations in this [Mural board](add link).
       * If you have questions for the participant, add them here and I’ll do my best to work them in.
       * If you have concerns or questions for me, add them here and I'll do my best to read this during the session.
 
