@@ -255,6 +255,8 @@ A pilot session is required. Please indicate the date and name of a mock partici
     
 -   Buffer time between sessions: 60 minutes 
 
+-   Max number of sessions per day: 2
+
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
