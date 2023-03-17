@@ -15,7 +15,6 @@
 
 - [Overview](#overview)
 - [Problems](#problems)
-- [Questions](#questions)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
@@ -74,7 +73,7 @@ Experimental Design submission: [#1181](https://github.com/department-of-veteran
 
 ## Design
 
-- Add Sketch files
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/ygvmgOq)
 
 ### Before
 <img width="462" alt="Screenshot 2023-03-17 at 2 32 30 PM" src="https://user-images.githubusercontent.com/45603961/225989350-54e0a132-23f6-44e1-b3f0-fee9bdf70e53.png">
