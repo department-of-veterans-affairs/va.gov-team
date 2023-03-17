@@ -16,7 +16,7 @@ This guide is based:
 * Log into your Zoom account.
 * Prepare yourself and your space for a video interview by clearing clutter (on screen and around you), ensuring you have good lighting, and muting distractions like Slack notifications.
 * Open the shared notetaking Google Sheet that your research lead shared with you. (It's also in the meeting invitation).
-* Find the correct tab with the participant number, date and time of your session. (The participant number should be in the title of the invitation sent to your calendar.)
+* Find the correct tab with the participant number, date and time of your session. (The participant number is in the title of the meeting invitation).
 
 ## At the start of the session
 
@@ -49,18 +49,6 @@ This guide is based:
 
 ## After the session
 
-* After the session you can go back through your notes and add details or decode acronyms, as needed.
-* At the end of your notes, write your top 3-5 takeaways. These can be thing you found most interesting, insightful or surprising.
-* If you have questions or comments for the researcher, add these after your key takeaways. Feel free to reach out to the researcher if you need to.
-
-## At the end of the session
-
-* Say thank you with intention. Remind the Veteran that our team couldn't do this work without their wisdom and help.
-* Ask them how they are feeling. Give them time to debrief and use this time to transition out of the session.
-* Inform participants of what they can expect next, including payment and further contact from you or Perigean.
-
-## After the session
-
-* We have scheduled debriefs throughout the research schedule. But if you need to debrief more immeditately, reach out to your research lead. It can help to reflect, particularly if you have a difficult conversation during a session.
-* After the session, you can review notes and observations and add your own reflections while they're still fresh.
-* Perigean will keep the recordings for up to 1 week following the study, your research lead will download any recordings needed and follow [these guidelines](https://depo-platform-documentation.scrollhelp.site/research-design/recording-user-research-sessions) to handle recordings safely.
+* After the session, spend 10 minutes going back through your notes and adding details as needed.
+* Then, spend 10 minutes writing your top 3-5 key takeaways. These can be thing you found most interesting, insightful or surprising.
+* If you have questions or comments for the researcher, add these too. Feel free to reach out to the researcher if you need to debrief further.
