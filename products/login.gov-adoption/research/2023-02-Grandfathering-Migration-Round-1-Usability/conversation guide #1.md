@@ -43,7 +43,7 @@ Note: This Conversation Guide will be used to test [Prototype #1](https://www.fi
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Tyler and [NOTETAKER'S NAME] is taking notes.
+Thanks for joining us today! My name is [YOUR NAME] and [NOTETAKER'S NAME(s)] is/are taking notes.
 
 I also have a few other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
