@@ -96,7 +96,7 @@ Okay, I've just sent you a link in the chat. [Help them open it and share their 
 
 > *Screen: VA.gov homepage*
 
-Now that you have this open, I'd like you to start by imagining that you've just went online to [reference a task they do online with the VA]. First, you need to sign in.
+Now that you have this open, I'd like you to start by imagining that you've just went online to [reference a task they do online with the VA or say 'refill your prescription']. First, you need to sign in.
 
 - Can you tell me what you would do first, to sign in?
 
