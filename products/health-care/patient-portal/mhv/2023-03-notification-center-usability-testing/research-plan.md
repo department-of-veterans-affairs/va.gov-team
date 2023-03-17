@@ -185,9 +185,9 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening: Perigean
 - Project point of contact: Bob Lewis
 - Participant(s) for pilot test: TBD
-- Note-takers: TBD
-- Observers: TBD
+- Note-takers: Merry Green ([merry.green@bylight.com](mailto:merry.green@bylight.com)), Harrison Amelang ([harrison.amelang@bylight.com](mailto:harrison.amelang@bylight.com)), Arienne Walters ([arienne.walters@bylight.com](mailto:arienne.walters@bylight.com))
+- Observers: Merry Green ([merry.green@bylight.com](mailto:merry.green@bylight.com)), Harrison Amelang ([harrison.amelang@bylight.com](mailto:harrison.amelang@bylight.com)), Arienne Walters ([arienne.walters@bylight.com](mailto:arienne.walters@bylight.com))
 
 **Approvals**
 
-Reviewed and approved by TBD on (under review)
+Reviewed and approved by Shane Strassberg on 3/17/2023
