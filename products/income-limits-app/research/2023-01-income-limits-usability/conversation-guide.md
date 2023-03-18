@@ -90,7 +90,7 @@ Let’s start with a few questions...
 
 1. What kind of device are you using today? *(Computer / Tablet / Smartphone)*
 
-1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat. *NOTE how to share URL: dictate / Zoom chat* 
+1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat. *(NOTE how to share URL: dictate / Zoom chat)* 
 
 1. How do you typically get information and benefits from the VA? *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)*
 
