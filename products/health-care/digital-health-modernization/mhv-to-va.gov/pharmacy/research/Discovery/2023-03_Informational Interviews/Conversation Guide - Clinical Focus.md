@@ -12,9 +12,9 @@
 
 Thank you for joining us today! My name is <>. I am a user researcher with the VA within the office of the CTO. I have some colleagues on the line observing and taking notes. 
 
-I work primarily on VA.gov and currently I’m part of a team exploring what it would take to bring MHV products to VA.gov. I work with Coulton, Lauren, and Kay on this project. You might have heard or worked with them before. For this meeting, we will primarily focus on MHV pharmacy. The purpose of this work is to integrate MHV more tightly with VA.gov so that we are able to deliver a more unified and complete product and service experience to Veterans.
+I work primarily on VA.gov and currently I’m part of a team exploring what it would take to bring MHV products to VA.gov. I work with Coulton, Lauren, and Kay on this project, who you might have heard or worked with them before. We are aware that you have worked with the VA flagship mobile team on the Rx refill project recently, and we definitely plan to sync with them and learn what they know. For this meeting, we will primarily focus on MHV pharmacy and deep dive into the clinical knowledge behind the tool. The purpose of this work is to integrate MHV more tightly with VA.gov so that we are able to deliver a more unified and complete product and service experience to Veterans.
 
-We had a brief meeting last November. Now that we plan to kick off the medication project officially this quarter, we want to continue working closely with you on this work to make sure we are not only designing the best pharmacy experience for Veterans, but also incorporate you all's knowledge on the requirements of medication data. 
+We had a brief preliminary meeting last November. Now that we plan to officially start the medication project, we want to continue working closely with you on this work to make sure we are not only designing the best pharmacy experience for Veterans, but also incorporate you all's knowledge on the requirements of medication data. 
 
 Lastly, a few things I want to mention before we dive in:
 
