@@ -84,6 +84,10 @@ Before we start, I want to go over a few things:
 ## Warm-up Questions - 5 minutes
 Let’s start with a few questions... 
 
+1. I understand you are a (*Veteran / Caregiver).* Is that right? 
+	- *(If Caregiver, confirm:)* Are you a caregiver for a Veteran? Are you a Veteran?
+	- Thanks for confirming that.
+
 1. What kind of device are you using today? *(Computer / Tablet / Smartphone)*
 
 1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat. *NOTE how to share URL: dictate / Zoom chat* 
