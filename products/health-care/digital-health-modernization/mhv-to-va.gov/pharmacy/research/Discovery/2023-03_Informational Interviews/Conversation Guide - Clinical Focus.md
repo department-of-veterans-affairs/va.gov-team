@@ -68,7 +68,7 @@ Before we dig into some detailed questions, I will start with general questions,
 - Is there any policy that governs what information from these two docs we need to show to users?
 - Can we get a complete copy of the medication treatment plan and pre-vist summary?
 
-## Closing
+### Closing
 
 - What do you think the biggest challenges are for medication?
 - What changes do you think would improve Veterans' pharmacy experience?
