@@ -108,7 +108,7 @@ Great, now I can see your screen! Thank you for your patience in figuring this o
 9. If you needed to get paid back by the VA for having to drive a long distance to a VA medical center for an appointment, where would you go to submit the receipts to be paid back? 
 
 10. If you needed to see a healthcare provider outside of the VA and you wanted to see if that would still be covered by your VA benefits, how would you figure that out? 
-	- What do you think the My VA health enefits section includes? What is this section "about"?
+	- What do you think the My VA health benefits section includes? What is this section "about"?
 
 11. _For users who are familiar with MHV:_ How is this site different than MHV? 
 
