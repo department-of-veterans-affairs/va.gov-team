@@ -68,6 +68,7 @@ Facilitated a big meeting or small group? You've helped serve as glue for our co
 - Lydia Hooper
 - Liz Straghalis
 - Josh Kim
+- Cindy Merrill
 
 #### How do I serve as a facilitator?
 1. Volunteer at our next big meeting
