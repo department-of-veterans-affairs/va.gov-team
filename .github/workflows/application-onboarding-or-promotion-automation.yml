@@ -16,6 +16,7 @@ on:
           - staging
           - sandbox
           - prod
+          - utility
       maintainer_github_user:
         description: Maintainer GitHub username
         required: true
