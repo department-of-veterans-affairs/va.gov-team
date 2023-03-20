@@ -29,4 +29,5 @@ Last updated: March 20, 2023
 - Tested both My VA and a high fidelity prototype of an action items page
 - > All users mentioned redundancy as a welcomed and important feature.
   - This supports our hypothesis that having notifications for things that are present elsewhere on My VA is OK and welcomed.
-
+- > 5 out of 8 users mentioned perceiving the categories of alerts would be helpful (like on the homepage or on My VA). 3 out of 8 mentioned wanting the ability to customize what alerts they see on their alerts page. This included the ability to filter alerts by category or date.
+  - A future feature of the notification center might be adding filtering functionality.
