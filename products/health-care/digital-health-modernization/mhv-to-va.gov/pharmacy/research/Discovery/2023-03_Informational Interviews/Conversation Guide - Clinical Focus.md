@@ -20,7 +20,7 @@ Lastly, a few things I want to mention before we dive in:
 
 This entire session should take about an hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. If for any reason and at any time you want to stop the session, please let me know. It's not a problem. 
 
-Does that all make sense, and sound okay to you? Great! Any questions before we get started? 
+Does that all make sense, and sound okay to you? Great! Any questions before we get started?  
 
 ## General
 
