@@ -1,6 +1,18 @@
 ## Overview
 This document provides guidance about how to respond to incidents such as outages, widespread crashes, or security breaches.
 
+### Points of Contact 
+
+|Name|Role|Email|
+|----|----|-----|
+|Matthew Self            |Product Owner, Gov't Lead| matthew.self2@va.gov |
+|Sade Ragsdale |Product Manager| sade@coforma.io|
+|Robin Garrison |FE Engineer| robin.garrison@adhocteam.us |
+|Kyle Soskin | BE Engineer | kyle.soskin@adhocteam.us |
+|Rocio de Santiago | BE Engineer | rocio@coforma.io |
+|Michael Hobson | Product Manager, Lighthouse | michael.hobson@adhocteam.us |
+|Drew Fisher | Engineer, Lighthouse | drew.fisher@adhocteam.us |
+
 ## Incident Response Rubric
 This rubric acts as a high-level decision tree for how urgently to respond to an incident, whether to escalate, and if so, to whom. 
 
