@@ -67,8 +67,7 @@ TBD
 |Deliverable|Date completed|
 |-----------|--------------|
 |[User testing of new component](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/june-2022-research/research-findings.md#1-users-will-be-able-to-clearly-see-and-read-the-notification-at-the-top-of-the-page-and-will-know-how-to-act-on-it-if-they-wished-to-see-more-details-or-resolve-a-debt)| August 2022|
-|[Experimental design submission](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/1181)
-|September 2022|
+|[Experimental design submission](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/1181)|September 2022|
 
 ## Key dates
 
