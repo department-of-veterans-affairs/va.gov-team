@@ -27,7 +27,7 @@
 
 ## Overview
 
-[The onsite notification MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp#readme) launched in October 2022. As part of this work, we submitted a new design for a notification to the design system, and it was approved for build. We need to build the component, have it added to the library, and update our notification styling on My VA to use the new component.
+[The onsite notification MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp#readme) launched in October 2022. As part of this work, we submitted a new notifcation design to the design system, and it was approved for build. We now need to build the component, have it added to the design system library, and update our notification styling on My VA.
 
 ## Problems
 
