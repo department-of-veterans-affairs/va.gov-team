@@ -182,6 +182,7 @@ TBD
 |-----------|--------------|
 |[Existing notifications review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/notifications-v2/product/shared-notes-existing-notifications-to-review.md)| January 2023|
 |[Update design component project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/README.md)| N/A|
+|[Notification center discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery)| N/A|
 
 
 ## Key dates
