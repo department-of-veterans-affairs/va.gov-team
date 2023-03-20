@@ -42,13 +42,13 @@
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
 
 
-1. [Page URL or component name] - [Add/Modify/Remove]
+1. **[Page URL or component name]** - [Add/Modify/Remove]
   - Placement description: 
   - Link label: 
   - Link destination: 
   - Notes: 
 
-2. [Page URL or component name] - [Add/Modify/Remove]
+2. **[Page URL or component name]** - [Add/Modify/Remove]
   - Placement description: 
   - Link label:
   - Link destination: 
