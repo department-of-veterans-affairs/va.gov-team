@@ -43,6 +43,7 @@ body:
         - staging
         - sandbox
         - prod
+        - utility
     validations:
       required: true
   - type: input
