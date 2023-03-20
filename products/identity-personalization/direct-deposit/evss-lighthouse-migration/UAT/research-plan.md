@@ -32,7 +32,7 @@ Based on the outcome of this research study, we will either release this work to
 - Are errors working correctly to protect Veterans and other users from entering incorrect direct deposit information?
 
 ### Hypothesis
-- Veterans will see the correct messaging based on their logged in method and status (whether that is logged out, MHV, Login.gov or ID.me).
+- Veterans will see the correct messaging based on their logged in method and status (whether that is logged out, MHV, DS Login, Login.gov or ID.me).
 - Veterans will see the correct messaging based on whether or not they are eligible for direct deposit for comp & pen.
 - Veterans will be able to edit and save direct deposit information (or edit and cancel to retain previous direct deposit information).
 - Veterans will be protected from submitting false direct deposit information through errors that prevent them from saving edits.
