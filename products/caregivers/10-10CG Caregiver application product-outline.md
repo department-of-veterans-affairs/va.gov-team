@@ -114,25 +114,32 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 - *Key result 1: Increase the number of successful online applications to the PCAFC*
    - As of 10/2022, we have seen a 7 month overall increasing trend of the number of applications started and subsequently submitted
 
-|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
-|-------|----|----|----|----|----|----|----|
-|10-10 CG|65.83%|66.01%	|70.23%	|67.06%	|67.88%	|72.64%| 79.26%|
+|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|Nov|Dec|Jan|Feb|Mar|
+|-------|----|----|----|----|----|----|----|----|----|----|----|----|
+|10-10 CG|65.83%|66.01%	|70.23%	|67.06%	|67.88%	|72.64%| 79.26%|71.97%|68.89%|67.23%|66.70%|66.63%|
 
 
 - *Key result 2: Increase % of caregivers who obtain approval for benefits* - **TBD from CG Team**
+
+|Metric| Jan|	Feb|Mar|Apr|May|
+|-------|----|----|----|----|----|
+|Apps Approved| 1,800|1,800|TBD|TBD|TBD|
+|Online Apps Approved|1,200|1,140|TBD|TBD|TBD|
+|Apps Denied|8,000|7,000|TBD|TBD|TBD|
+|Online Apps Denied|6,000|5,200|TBD|TBD|TBD|
 
 #### Objective 2: Decrease time from submission to decision
 
 - *Key result 1: Increase number of application completions in a single session*
    - As of 10/2022, we have seen a 6-month increasing trend for the percentage of applications completed in a single session
 
-|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
-|-------|----|----|----|----|----|----|----|
-|10-10 EZ - Average sessons to complete|	1.60|	1.56|	1.52|	1.44|	1.46|	1.63|1.41|
-|% of 1 session|	67.20%|	67.85%|	68.50%|	74.08%|	73.51%|	63.48%|76.50%|
-|% of 2 sessions|	19.67%|	21.13%|	20.65%|	18.02%|	18.57%|	23.35%|17.13%|
-|% of 3 sessions|	13.13%| 11.02%| 10.85%| 7.90% | 7.91% | 13.17%|6.37%|
-|Totals	|4,644	|4,423	|5,061	|4,620	|5,501	|6,767	|14,440|
+|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|Nov|Dec|Jan|Feb|Mar|
+|-------|----|----|----|----|----|----|----|----|----|----|----|----|
+|Average sessons to complete|	1.60|	1.56|	1.52|	1.44|	1.46|	1.63|1.41|1.44|1.41|
+|% of 1 session|	67.20%|	67.85%|	68.50%|	74.08%|	73.51%|	63.48%|76.50%|74.19%|74.87%|
+|% of 2 sessions|	19.67%|	21.13%|	20.65%|	18.02%|	18.57%|	23.35%|17.13%|18.76%|18.51%|
+|% of 3 sessions|	13.13%| 11.02%| 10.85%| 7.90% | 7.91% | 13.17%|6.37%|7.04%|6.62%|
+|Totals	|4,644	|4,423	|5,061	|4,620	|5,501	|6,767	|14,440|6,472|5,388|6,250|5,512|3,900|
 
 - *Key result 2: Decrease application processing time and follow-ups by customer support* - **TBD from CG Team**
 - *Key result 3: Decrease number of status update calls to customer support* - **TBD from CG Team**
