@@ -98,6 +98,7 @@ To mitigate each of the problems above, we plan to do the following:
 |Clicks into "Manage all claims and appeals"|TBD|TBD|TBD|
 |Clicks into individual claims, "View claim"|TBD|TBD|TBD|
 |Clicks into "Learn how to file a claim"|TBD|TBD|TBD|
+|Clicks into "Apply for VA health care"|TBD|TBD|TBD|
 |Clicks into "Manage and schedule your appointments"|TBD|TBD|TBD|
 |Clicks into "Send a secure message to your health care team"|TBD|TBD|TBD|
 |Clicks into "Refill and track your prescriptions"|TBD|TBD|TBD|
