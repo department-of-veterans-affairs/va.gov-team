@@ -63,7 +63,7 @@ Experimental Design submission: [#1181](https://github.com/department-of-veteran
 
 |Deliverable|Date completed|
 |-----------|--------------|
-|[Existing notifications review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/notifications-v2/product/shared-notes-existing-notifications-to-review.md)| January 2023|
+|||
 
 ## Key dates
 
