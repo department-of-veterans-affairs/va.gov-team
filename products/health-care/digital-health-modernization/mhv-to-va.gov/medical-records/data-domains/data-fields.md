@@ -141,7 +141,7 @@ Lab and test results include the following information
 |Data field       | Description           | Suggested label |USCDI v1 data element mapping| Notes             | Questions           
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|-------|
 |Immunization | Name of the vaccine | Vaccine |[Immunization](https://www.healthit.gov/isa/taxonomy/term/666/uscdi-v1)|
-|Date received | Date patient got vaccine dose | Date | _None_ |
+|Date received | Date patient got vaccine dose | Date |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1) |
 |Location | Name/address/clinic code of facility where they got vaccine dose | Location | _None_ |
 |Reaction | Reactions or side effects to the vaccine recorded by provider | Reaction | _None_ | Vaccine reactions may also be stored in allergies list and self-entered data |How often does a vaccine reaction appear in allergy list instead of this field? Do we need any type of note here about reviewing your allergy list?|
 |Comments | Comments entered by provider | Provider notes |  _None_ |
@@ -155,7 +155,7 @@ Lab and test results include the following information
 |Data field       | Description           | Suggested label | USCDI v1 data element mapping| Notes    | Questions|           
 |:------------------------|:-----------------------|:-----------------------|:-----------------|:---------------------|:---------------------|
 |Allergy name | Thing that caused the allergic reaction, like "penicillin" |Allergy | [Substance (Medication)](https://www.healthit.gov/isa/taxonomy/term/896/uscdi-v1)|
-|Date entered |  | Date entered |_None_|
+|Date entered |  | Date entered |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
 |Severity | Level of reaction, like "moderate" or "severe" | | _None_||Are there set options to choose from in this field, or is it free entry?|
 |Allergy type | The type of thing that caused the allergy, like "drug" for penicillin | | _None_||Are there set options to choose from in this field, or is it free entry?|
 |VA drug class | ||[Substance (Drug Class)](https://www.healthit.gov/isa/taxonomy/term/901/uscdi-v1) | |Does this field appear on non-medication allergies (like latex)?| 
@@ -172,7 +172,7 @@ Lab and test results include the following information
 |Data field       | Description          | Suggested label | USCDI v1 data element mapping | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-----------|:-------------------|:---------------------|
 |Issue/problem title |Name of the health condition | Health condition | [Problems](https://www.healthit.gov/isa/uscdi-data-class/problems#uscdi-v1) |
-|Date/time entered | | |_None_| |Why is time important here? Can we display only date?|
+|Date/time entered | | |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)| |Why is time important here? Can we display only date?|
 |Status | | |_None_| |Are the only options active and inactive?|
 |Location where the issue was entered |Name of facility |Location |_None_| |Is this field only necessary for the user to associate it with a specific appointment they had? What if it were a telehealth appt?|
 |Provider's name | |Provider |_None_|
@@ -186,14 +186,19 @@ Note: USCDI also includes 3 vitals for babies and children: BMI (2-20 years), we
 
 |Vital sign       | Suggested label           | USCDI v1 data element mapping | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
-| | |[Systolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/836/uscdi-v1)|||
-| | |[Diastolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/831/uscdi-v1)| | |
-| | |[Respiratory rate](https://www.healthit.gov/isa/taxonomy/term/856/uscdi-v1)| | |
-| | |[Body temperature](https://www.healthit.gov/isa/taxonomy/term/861/uscdi-v1)| | |
-| | |[Body height](https://www.healthit.gov/isa/taxonomy/term/841/uscdi-v1)| | |
-| | |[Body weight](https://www.healthit.gov/isa/taxonomy/term/846/uscdi-v1)| | |
-| | |[Pulse oximetry](https://www.healthit.gov/isa/taxonomy/term/866/uscdi-v1)| | |
-| | |[Inhaled oxygen concentration](https://www.healthit.gov/isa/taxonomy/term/871/uscdi-v1)| | |
+|Blood pressure | |[Systolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/836/uscdi-v1)|||
+|Blood pressure | |[Diastolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/831/uscdi-v1)| | |
+|Respiration| |[Respiratory rate](https://www.healthit.gov/isa/taxonomy/term/856/uscdi-v1)| | |
+|Temperature | |[Body temperature](https://www.healthit.gov/isa/taxonomy/term/861/uscdi-v1)| | |
+|Height| |[Body height](https://www.healthit.gov/isa/taxonomy/term/841/uscdi-v1)| | |
+|Weight | |[Body weight](https://www.healthit.gov/isa/taxonomy/term/846/uscdi-v1)| | |
+|Pulse oximetry | |[Pulse oximetry](https://www.healthit.gov/isa/taxonomy/term/866/uscdi-v1)| | |
+|Pain||_None_|
+| | |[Inhaled oxygen concentration](https://www.healthit.gov/isa/taxonomy/term/871/uscdi-v1)|Not currently included in MHV | |
+| | |BMI Percentile (2-20 years)|Not currently included in MHV | |
+|||Weight-for-length Percentile (Birth - 36 Months)|Not currently included in MHV | |
+|||Head Occipital-frontal Circumference Percentile (Birth - 36 Months)|Not currently included in MHV | |
+
 
 
 #### Vital signs data
@@ -201,15 +206,14 @@ Note: USCDI also includes 3 vitals for babies and children: BMI (2-20 years), we
 * USCDI v1 Mapping: [Vital signs](https://www.healthit.gov/isa/uscdi-data-class/vital-signs#uscdi-v1) <br>
 * USCDI mapping concerns: v1 maps the actual vital signs, not the data elements for each vital sign — adding table below to capture this
 
-|Data field       | Description           | Suggested label | Notes             | Questions           |
-|:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
-|Vital sign | 
-|Latest reading |
-|Date of latest reading |
-|Location of latest reading |
-|Reading |
-|Date of entry |
-|Location of entry |
-|Comments |
+|Data field       | Description           | Suggested label | USCDI v1 data element mapping | Notes             | Questions           |
+|:------------------------|:-----------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
+|Latest reading ||| [List of vital signs](https://www.healthit.gov/isa/uscdi-data-class/vital-signs#uscdi-v1) ||Each vital sign listed includes both the vital sign and specification for measurement|
+|Date of latest reading|| |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
+|Location of latest reading|| |
+|Reading|| |
+|Date of entry |||
+|Location of entry|| |
+|Comments |||
 
 
