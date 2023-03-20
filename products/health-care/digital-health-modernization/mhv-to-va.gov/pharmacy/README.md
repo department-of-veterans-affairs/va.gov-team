@@ -2,34 +2,34 @@
 ---
 
 ## Overview
-Medications on VA.gov will provide Veterans with the ability to view, renew, refill, and track their VA based medications regardless of which VA facility they seek care at, as well as the ability to view and confirm non-VA medications. The new application will employ modern technology and user-centered design to ensure that the tool is accessible, straightforward, and simple to use. Moving this product into the VA.gov landscape will also provide a more seamless and consistent experience for the Veteran’s overall health care needs.
+Medications on MHV on VA.gov will provide Veterans with the ability to view, renew, refill, and track their VA based medications regardless of which VA facility they seek care at, as well as the ability to view and confirm non-VA medications. The new application will employ modern technology and user-centered design to ensure that the tool is accessible, straightforward, and simple to use. Moving this product onto the VA.gov platform will also provide a more seamless and consistent experience for the Veteran’s overall health care needs.
 
 ## Problem Statement
-This is part of a larger initiative to move all Veteran transactions around managing their healthcare to a central portal, rather than having multiple websites and mobile applications to do the same Medication transactions. The current application is associated with prescriptions and prescription refills, but the goal is for Veterans to think of Medications they take holistically and give them information they can use to discuss with their provider. The first iteration will just take what is available today in the “Prescriptions” part of MHV, but will not include self-entered medication as there is not a direct connection for VA providers to see that information. 
+This is part of a larger initiative to move all Veteran transactions around managing their health care to a central portal, rather than having multiple websites and mobile applications to do the same medication transactions. The current application is associated with prescriptions and prescription refills, but the goal is for Veterans to think of medications they take holistically and give them information they can use to discuss with their provider. The first iteration will take what is available today in the “Prescriptions” part of MHV, but will not include self-entered medication, while VHA resolves a parallel effort looking at clinical screeners and resolving patient-entered data to the health record. 
 
- How might we provide a singular web-based portal for Veterans to: 
-- View all medications- including VA prescribed medications with all the information about medications (images, descriptions, name, etc. 
-- Renew VA prescribed medications
-- Refill and trach VA prescribed medications
-- View, download, and print all EHR-based medications and allergies for a Veteran
-- Complete medication reconciliation digitally
+ ### Users should be able to: 
+- View all medications they are taking from VA, community, and private providers? 
+ - View relevent information about medications as available, including name, images (or a11y equivalent), descriptions.)  
+- Refill eligible VA prescribed medications
+ - Track shipments of medication refills
+ - Receive notifications of shipments (VA Notify) 
+- Renew medications via secure message 
+- View, download, and print all EHR-based medications and allergies
+- Complete medication reconciliation digitally (possibly via a clinical screener) 
+ -  View a pre-visit medications summary that outlines the medications on file for them, and that they can communicate with their provider at their visit about changes to that medication or eventually communicate digtally.
 
 ## Desired User Outcomes
-The Medications application will provide an easy way to see all medications that are on record for them at the VA in the Electronic Health Record (EHR). It will allow them to reference that information for outside care, point out any issues/questions/anomalies to their provider, request refills and renewals for medications, and align new medications to an episode of care (appointment). 
+- Improve transparency / reduce confusion around medications a Veteran is taking (VA and non-VA): Veterans know how to find a complete list of medications they are prescribed, as well as any relevant details about those medications. 
+- Veterans are well informed about the process to refill and renew any VA medications and are able to independently take medication-related actions (refill, track, renew) online. 
+- Veterans are well-informed about the status of their medications (when something needs to be refilled or renewed, shipment tracking updates, etc.) 
 
-*We want users to be able to:*
-- See the list of their medications that are on file at the VA. This includes VA based medications, and if there are non-VA based meds on file, show those. Do not show self-entered meds that the EHR does not know about.
-- Renew, refill, and track VA based meds.
-- View a pre-visit medications summary that outlines the medications on file for them, and that they can communicate with their provider at their visit about changes to that medication or eventually communicate digtally.
 ## Undesired User Outcomes
-- Medication section doesn’t provide the user with the same function that they have today- causing frustration and dissatisfaction. 
-- Avoid Veteran confusion about medications they are taking. 
+- Medication section doesn’t provide the user with the same functionality that they have today- causing frustration and dissatisfaction. 
+- Veterans are confused about medications they are taking. 
 - Misalignment in data and functionality on VA Health and Benefits Application and MHV on va.gov. 
 
 ## Desired Business Outcomes
-
-*Why would your business want this to exist?*
-Allowing users to understand and self-service medication needs leads to more timely care, reduces burden on clinical staff, and increases patient safety.
+- Enabling users to understand and self-service medication needs leads to more timely care, reduces burden on clinical staff, and increases patient safety.
 *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 - Have one web-based patient portal to enhance and improve for Veterans- rather than spending time and effort with other teams to do the same things in multiple places. 
 - Easily accessible and identifiable medications list will alleviate congressional and patient safety questions. 
@@ -62,18 +62,32 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions
-- MVP will include all the functionality available today in MHV Pharmacy- View and Refill Medications
-- MVP doesn’t include renewal of prescriptions
+- MVP will likely draw medication list from AVS 
+- MVP will include the functionality available today in MHV Pharmacy- View and Refill Medications
+- Renewal of prescriptions requires an integration with the new secure message app.
 - Other “Prescriptions” applications have done research that shows what features most Veterans look for in a Medications space
+- There is an acceptable alternate a11y pathway for medication images 
 
 
 ## Solution Approach
-Provide a Medications section of the new portal on va.gov and that will allow Veterans to view medications in the EHR, communicate about medications with provider team, and print meds and allergies list. 
 
+### MVP
 Specific solution is dependent on Research and Discovery of the Medications section.
 
+- Medications List (VA and non-VA meds) including relevant medication details & statuses that can be downloaded and printed
+- Cross-link/pull content from Allergies list 
+- Content: Short-term pathway for updating the medication list if needed. 
+- Medication refill (current funcionality available on MHV/RX Refill App)
+- Medication refill tracking 
+- Connection to VA Notify for medication refill notifications 
+- Connection to Secure Message App for medication renewal 
 
-### Initiatives
+### Post MVP 
+- Digital Medication reconciliation 
+- Pre-filling secure messages 
+- Cerner integration 
+
+### Research & Discovery Phase to be completed by May 2023
 
 - Research and Discovery of Medications Section | [Link to Initiative Brief](#)
 - Define MVP and initiatives
@@ -89,7 +103,7 @@ Specific solution is dependent on Research and Discovery of the Medications sect
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - Phase 0 by October 2023 
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
@@ -117,11 +131,13 @@ Specific solution is dependent on Research and Discovery of the Medications sect
 
 <details>
 
-- Team Name: MHV on va.gov Medications
+- Team Name: MHV on VA.gov Medications
 - GitHub Label: Pharmacy
 - Slack channel: #mhv-medications-rx- https://dsva.slack.com/archives/C04PRFEJQTY/p1679032489446729
-- Product POCs:Kay Lawyer
-- Stakeholders: 
+- Product POCs:
+  - OCTO Product: Kay Lawyer
+
+ 
 
 </details>
 
@@ -131,14 +147,18 @@ Specific solution is dependent on Research and Discovery of the Medications sect
  
  - OCTO Product Leads: Kay Lawyer and Lauren Alexanderson
  - PM: Kay Lawyer
+ - Bylight PM: Raquel & Tanner 
  - Engineering: Mark Dewey and Stephen Barrs
- - Research/Design: Coulton Bunney and Jenny Wang
+ - Research/Design: Coulton Bunney, Jenny Wang, Harrison A. 
  
 </details>
 
 
 #### Stakeholders
 - Dr. Maureen Layden- Office of Pharmacy Benefits Management
-- Dr. Eric Spahn- Office of Pharmacy Benefits Management
+- **Dr. Eric Spahn- Office of Pharmacy Benefits Management** - Decision maker
 - Margo Kabel- Human Factors Office
+- Dr. Rob Silverman
+- Carnetta Scruggs
+- Ro Weaver 
 
