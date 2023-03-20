@@ -13,7 +13,7 @@ Here are some related links and documents about this effort:
 ## How do we know it's a problem?
 
 1. Sporadic feedback reflecting confusion on how to complete the 10-10CG, specifically around the differences between the Primary and Secondary caregiver roles, responsibilities and benefits.
-2. Feedback from stakeholders that data
+2. Feedback from stakeholders that data comes in as duplicate when the form gets submitted in some situations.
 
 ## Questions to answer
 
