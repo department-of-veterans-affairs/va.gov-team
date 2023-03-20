@@ -54,6 +54,10 @@ Attended a big meeting or small group? Lurk on our slack channel? Then you're _o
 - bri.iannuz@gmail.com, [LinkedIn](https://www.linkedin.com/in/brittanyiannuzzi/)
 - Veterans deserve services that acknowledge the trauma they've been through - not only in service, but in their separation from service, life since separation, and relationship to the VA. I'm hoping that this community will help me better support Veterans in difficult interviews, and help me support my team through challenging research sprints.
 
+**Cindy Merrill**, Researcher, Sitewide Public Websites
+- cindy.merrill@adhocteam.us, [LinkedIn](https://www.linkedin.com/in/cindymerrill/)
+- I enjoy connecting with research participants, and I want research to be as comfortable of an experience as possible for participants and researchers, even when potentially traumatic topics or experiences may come up.
+
 <hr/>
 
 ### Facilitators 👐
