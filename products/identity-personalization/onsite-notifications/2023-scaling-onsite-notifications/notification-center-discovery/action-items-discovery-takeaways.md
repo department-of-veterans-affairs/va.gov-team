@@ -26,8 +26,19 @@ Last updated: March 20, 2023
 
 [Tressa's 2021 My VA - Action Items Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md)
 
-- Tested both My VA and a high fidelity prototype of an action items page
+- Tested both My VA and a high fidelity prototype of an action items page on mobile only
+- The "alerts" use the gray card component that we currently use within sections
+- 
 - > All users mentioned redundancy as a welcomed and important feature.
   - This supports our hypothesis that having notifications for things that are present elsewhere on My VA is OK and welcomed.
 - > 5 out of 8 users mentioned perceiving the categories of alerts would be helpful (like on the homepage or on My VA). 3 out of 8 mentioned wanting the ability to customize what alerts they see on their alerts page. This included the ability to filter alerts by category or date.
   - A future feature of the notification center might be adding filtering functionality.
+- > Users made a clear distinction between an 'action item' (something that the Veteran needs to DO) and a 'notification' (something that the Veteran should know).
+  - This tells me we're on the right track with the two types of notifications we've already defined.
+- > 7 out of 8 users missed the 'View all alerts' link completely. Many users mentioned wanting it to be further up on the page and called out. Almost all users scrolled right past this link, and if asked to go back to the alerts page they would use the link in the navigation.
+  - In the prototype, the view all link is the same style as our secondary links and is listed after the notifications which were using the gray card component, so I can see why it was easily missed. This is something I'd want to test in a different style on My VA or wherever the link to view al notifications ends up living.
+- [Link to things Veterans have said they would want to see as notifications/alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md#things-veterans-mentioned-theyd-want-to-see-as-an-alert)
+  - We may not need to do any additional research on this since we have these findings and we are limited by what's available from VA Notify anyway
+- > Pick a title. I recommend naming this feature either 'Notifications' or 'Alerts'. We need to align with the similarly titled 'Notification Preferences' feature, as that will be built and launched first.
+  - This is still an outstanding question even though we've gone with "notifications" for now. 
+
