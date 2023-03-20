@@ -35,8 +35,6 @@ This research will inform updates to the MHV on VA.gov landing page, currently i
 
 3. How do users expect to update their health-specific preferences in the new experience? 
 
-4. How do users expect to receive timely statuses or notifications in the new experience? 
-
 ### Hypotheses
 _Hypothesis 1:_ Participants will sign in and then go to the "My Health" tab next to "My VA" in order to get to the new MHV on VA.gov landing page. 
 
