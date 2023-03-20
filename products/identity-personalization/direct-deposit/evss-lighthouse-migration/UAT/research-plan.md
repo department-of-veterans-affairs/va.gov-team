@@ -19,9 +19,9 @@ The primary goal of our UAT is to confirm that the Direct Deposit section of the
 - Eligible but not yet set up for direct deposit LOA3 users see Direct Deposit section of the Profile and see a prompt to set it up.
 - Eligible and set up for direct deposit LOA3 users see Direct Deposit section of the Profile and when they edit and save new info, they receive a confirmation email.
 - Eligible and set up for direct deposit LOA3 users that open the edit modal and click cancel will see modal close and previously-saved direct deposit information will still be saved.
-- Eligible and set up for direct deposit LOA3 users that click to edit Direct Deposit information cannot submit the form with errors.
-- Eligible and set up for direct deposit LOA3 users that click to edit Direct Deposit information will get an error if they input a bogus routing number.
-- Eligible Login.gov user can see Direct Deposit section of the profile and can update direct deposit information.
+- Eligible and set up for direct deposit LOA3 users that click to edit direct deposit information cannot submit the form with errors.
+- Eligible and set up for direct deposit LOA3 users that click to edit direct deposit information will get an error if they input a bogus routing number.
+- Eligible Login.gov user can see Direct Deposit section of the Profile and can update direct deposit information.
 
 ### Outcome
 Based on the outcome of this research study, we will either release this work to production, or make updates to correct any bugs or significant usability hurdles.
