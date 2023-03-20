@@ -19,6 +19,16 @@
 
 ## Step 3: Production rollout
 
+### Launch communications
+
+Internal
+- Early May: VBA (Shireen Lackey) will release internal communications via the "HLR and Supplemental Claim Campaign Fact Sheet".
+
+External
+- Timeline TBD (two weeks after release): Fact sheet & How to video 
+- Mid April: Letters to VSO, congressional members, etc.
+- Timeline TBD (Q3 or Q4): Update VA Form 0998 to reflect new supplemental claim link on VA.gov.
+
 ### Define the Rollback process
 
 Rollback will be considered in the following scenarios:
@@ -32,7 +42,7 @@ To initiate and execute rollback, we'll follow these steps:
 - If there is a spike in errors or unexpected behavior, communication will be sent to the VA Product Owner, Decision Review team, and LH Banana Peels team.
 - The Decision Review team and/or LH Banana Peels team will diagnose the issue and recommend either A) rollback the feature, or B) prioritize it as a bug ticket, in coordination with the VA Product Owner (Matt Self).
 - In the event of a rollback, the PO and teams will agree upon criteria for re-release, including but not limited to design or code changes, full system testing, and reduction of release percentage. 
-- The PO and teams will conduct a go/no-go before re-releaseing to production.
+- The PO and teams will conduct a go/no-go before re-releasing to production.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
@@ -65,10 +75,25 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Desired date range: [3/27/2023 - 5/8/2023]
 - How will you make the product available in production while limiting the number of users who can find/access it: [feature toggle].
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?
-  - Abandonment rate
-  - 0 API errors
-  - No Contact Center calls due to inability to complete the form caused by technical error
-- Links to the dashboard(s) showing "success criteria" metrics: Google Analytics, Domo, Sentry (will add soon)
+  - Abandonment rate <20%
+  - Contact Center calls due to inability to complete the form caused by technical error <2 calls
+
+API "gate check" metrics:
+Green - "everything is going smooth" -  < 0.1%
+Yellow - "we should give this a look" - 0.1% - 0.5%
+Red - "stop everything, we need to check this out" -  > 0.5%
+
+Evidence "gate check" metrics (thresholds will be higher - LH is used to a higher error rate through the Benefits Intake API):
+Green - "everything is going smooth" -  < 2.5%
+Yellow - "we should give this a look" - 2.5% - 4%
+Red - "stop everything, we need to check this out" -  > 4% (edited) 
+
+Links to the dashboard(s) showing "success criteria" metrics: 
+Google Analytics
+Domo
+[Grafana - Claims and Appeals](https://grafana.vfs.va.gov/d/WxQ9lkUGz/claims-and-appeals-alerts?orgId=1&from=now-7d&to=now)
+[Grafana - Supplemental Claims](https://grafana.vfs.va.gov/d/ejdUuxTVk/sc-supplemental-claims-dashboard?orgId=1)
+[Sentry](http://sentry.vfs.va.gov/organizations/vsp/dashboard/10/?project=4&statsPeriod=7d)
 - Who is monitoring the dashboard(s)?: Decision Review Team, Lighthouse Team
 
 ### Stage A: Canary
@@ -181,3 +206,5 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 1. Which assumptions you listed in your product outline were/were not validated?
 1. How might your product evolve now or in the future based on these results?
 1. What technical tasks are needed to clean up (i.e., removal of feature toggles)?
+
+
