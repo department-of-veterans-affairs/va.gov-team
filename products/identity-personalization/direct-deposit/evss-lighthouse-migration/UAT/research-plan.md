@@ -60,6 +60,7 @@ We will aim for at least **5 completed sessions** for each user type:
 The following use cases will not be specifically recruited for, and we'll roll in their testing as part of testing with other user types:
 * Logged out user
 * MHV user
+* DS Logon user
 
 ### Primary criteria (must-haves)
 
