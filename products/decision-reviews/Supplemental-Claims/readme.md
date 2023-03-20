@@ -18,6 +18,8 @@
 |Kyle Soskin | BE Engineer | kyle.soskin@adhocteam.us |
 |Rocio de Santiago | BE Engineer | rocio@coforma.io |
 |Josh Kim | A11y lead | josh.kim@adhocteam.us |
+|Michael Hobson | Product Manager, Lighthouse | michael.hobson@adhocteam.us |
+|Drew Fisher | Engineer, Lighthouse | drew.fisher@adhocteam.us |
 
 ### VBA Subject Matter Experts  
 
