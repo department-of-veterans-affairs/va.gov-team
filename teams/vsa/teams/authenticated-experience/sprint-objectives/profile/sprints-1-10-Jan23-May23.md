@@ -334,7 +334,7 @@ This is dependent on hiring:
 **Design - Florence**
 
 - UX Improvements: Heuristic Review and Analysis of Profile and My VA #53227 (finish up 3 points left IF unable to get to in Sprint 6) - per BX
-- #54938 updated Sketch files / added by BX
+
 
 ## Sprint 8 (4/12 - 4/25)
 Sprint 8 Epic [#54916](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/54916)
