@@ -6,7 +6,7 @@ Roughly, this will be some time between March - June of 2023, depending on when 
 
 ## [Long-term planning spreadsheet](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=1487111095)
 
-This was last updated by Samara in early March 2023. It is meant to change, be flexible, and grow over time depending on how things shake out, so please don't take this as an unchangeable plan.
+This was last updated by Samara in March 2023. It is meant to change, be flexible, and grow over time depending on how things shake out, so please don't take this as an unchangeable plan.
 
 ## OCTO replacement
 
