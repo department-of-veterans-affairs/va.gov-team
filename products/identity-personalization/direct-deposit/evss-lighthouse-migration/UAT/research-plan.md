@@ -67,6 +67,13 @@ The following use cases will not be specifically recruited for, and we'll roll i
 - Must be able to screenshare via Zoom
 - Must be able to login to VA.gov with either ID.me or Login.gov
 
+**Screener question to find participants with necessary login credentials**
+We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?**
+You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified.
+Response options: yes or no
+- Answering "yes" qualifies the participant
+- Answering "no" disqualifies the participant
+
 ### Research sessions
 What dates do you plan to do research? 
 - Tentative: April 2023
