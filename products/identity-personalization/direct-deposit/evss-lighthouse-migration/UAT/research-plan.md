@@ -47,7 +47,7 @@ Remote via Zoom
 Conversation Guide
 
 ## Recruitment
-Perigean will perform recruiting for a total of 
+Perigean will perform recruiting for a total of 18 participants.
 
 ### Recruitment criteria
 We will aim for at least **5 completed sessions** for each user type:
