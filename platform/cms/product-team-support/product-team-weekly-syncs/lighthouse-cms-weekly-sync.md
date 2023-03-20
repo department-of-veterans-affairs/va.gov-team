@@ -3,8 +3,8 @@
 <details><summary>About this meeting</summary>
 
 - Mondays 3-3:30pm ET 
-- Meeting owner: David Shannon
-- Facilitator: David Shannon
+- Meeting owner:
+- Facilitator: 
 - Standing agenda: 
   - Migrations
     - From VAST
@@ -13,6 +13,9 @@
 - Regular participants: Dave Conlon, James Costa, Joshua Jennings, Jay Darnell, Joseph Justice, Stephen Smythe, Dotti Cummings, Kamari Patrick, Adam, Christian Burk.
 
 </details>
+
+## Monday, March 20, 2023
+*
 
 ## Monday, March 13, 2023
 * Topics
