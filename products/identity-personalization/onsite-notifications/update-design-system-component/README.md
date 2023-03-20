@@ -56,14 +56,17 @@ The design system does not have a style for user notifications that is different
 TBD
 
 ## Solution approach
-Experimental Design submission: [#1181](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/1181)
 
+- Designed new component, discussed with design system team, and submitted experimental design submission (approved)
+- Tested this design in (did we test this design??)
+- Building out component and updating My VA
 
 ## Key deliverables
 
 |Deliverable|Date completed|
 |-----------|--------------|
-|||
+|[Experimental design submission](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/1181)
+|September 2022|
 
 ## Key dates
 
