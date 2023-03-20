@@ -1,6 +1,7 @@
 ## 526ez URL List
 Here is a rough list of the URLs that operate within the 526ez Form. I did not attempt to exhaust all branching possibilities so there are likely some pages that I missed.
 
+1. /disability/file-disability-claim-form-21-526ez
 1. /disability/file-disability-claim-form-21-526ez/introduction
 1. /disability/file-disability-claim-form-21-526ez/start
 1. /disability/file-disability-claim-form-21-526ez/veteran-information
