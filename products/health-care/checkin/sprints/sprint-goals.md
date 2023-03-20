@@ -37,7 +37,8 @@ ________________________________________________________________________________
        - [[UX] Update the wireframes that were identified in 54750](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54810)
        - [[UX] Initial prototype tasks for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)
        - [[UX] [Research] Create research plan for moderated research study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)      
-       - [[UX] [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964)         
+       - [[UX] [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964)      
+       - Complete research review section of collab cycle ticket   
    - **Sub Goal: Analyze current metrics to see what they tell us**
       - [Research] Analyze GA Metrics
       - [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55090)
@@ -111,11 +112,8 @@ ________________________________________________________________________________
       - [[Design] Add in travel reimbursement into check in wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54572)
       - [[Design] Pull in additional screens that need to be updated](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/54750)
       - Create sitewide/IA ticket & set up meeting
-      - Submit midpoint review ticket
-      - Complete research review section of collab cycle ticket
-      - OPTIONAL, START THESE TIME PERMITTING
-         - [[UX] Create prototypes for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)
-         - [[UX] [Research] Create research plan for moderated research study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)         
+      - ~~Submit midpoint review ticket~~
+      - ~~Complete research review section of collab cycle ticket~~       
    - **Sub Goal: Analyze current metrics to see what they tell us**
       - [Research] Analyze GA Metrics
       - [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54282)
