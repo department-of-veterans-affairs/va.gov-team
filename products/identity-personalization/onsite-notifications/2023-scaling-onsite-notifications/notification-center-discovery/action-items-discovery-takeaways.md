@@ -1,6 +1,6 @@
 # 2023 Scaling On-site Notifications: Action Items Discovery Takeaways
 
-Last updated: March 17, 2023
+Last updated: March 20, 2023
 
 ## Key takeaways from comparative analysis
 
@@ -18,4 +18,7 @@ Last updated: March 17, 2023
   - This tracks with our assumption that 3 or so notifications should be the max before linking users to anther page
 - > Language is important when helping users take action - if it's time sensitive then the language needs to be more actionable.
   - This is huge and I think we could do a better job of it moving forward
+- > State farm has an interesting 'user navigation' that is separate from the main navigation. This seems like a very clear way to elevate top tasks while also elevating action items (the alert bell icon + red dot indicator) If clicked, it opens a right hand menu with a list of action items for the user.
+  - Interesting option to explore since we have the name tag present on My VA and profile
+  - <img width="1013" alt="Screenshot 2023-03-20 at 11 35 05 AM" src="https://user-images.githubusercontent.com/97965610/226390332-eb27cf04-5d5e-466c-bd47-c87619178f64.png">
 - 
