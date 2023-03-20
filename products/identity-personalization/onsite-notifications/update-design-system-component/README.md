@@ -31,7 +31,7 @@
 
 ## Problems
 
-The design system does not have a style for user notifications that is different from system alert or warning styles. This makes it hard to differentiate between personalized notifications and system alerts.
+The design system does not have a style for user notifications that is different from system alert or warning styles. This makes it hard to differentiate between the two.
 
 ## User outcomes
 
