@@ -7,20 +7,24 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Make submission of a travel reimbursement claim easier**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
+- **GOAL: Address tech & design debt** 
 
 #### PLANNED RELEASES 
 - None
 
 #### SPRINT TICKETS
+- **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
+   - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
+      - Submit 508 Audit request
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
-      - Implement text solution for BTSSS latency    
-          - [[FE] Remove the Error Handling from BTSSS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54281)
+      - Implement text solution for BTSSS latency             
+         - [[FE] Remove the Error Handling from BTSSS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54281)
          - [[TEXT SOLUTION] [FE][BE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
          - [[BE] Text Veteran when Travel Claim Submitted to BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54348)
-      - Resolve questions about error pages
-         - [[SPIKE] [FE] Answer remaining questions around "error=no-token"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55097)
-            - Only work on this if all other engineering work is complete and we still have time in the sprint
+      - Prepare for release
+         - [[UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54029)
+         - [Recheck GA Events due to text solution change ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53966)      
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
    - **Sub Goal: [Send to Check-in when Pre-Check-in link is accessed inside check-in window](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)**
        - PAUSED: We will pause as we need BE folks to focus on Travel    
@@ -31,12 +35,16 @@ ________________________________________________________________________________
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
        - [SPIKE: [FE] [BE] Explore Architecture Changes Necessary to Support Unified Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55019)
        - [[UX] Update the wireframes that were identified in 54750](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54810)
-       - [[UX] Create prototypes for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)
+       - [[UX] Initial prototype tasks for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)
        - [[UX] [Research] Create research plan for moderated research study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)      
-       - [[Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964)         
+       - [[UX] [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964)         
    - **Sub Goal: Analyze current metrics to see what they tell us**
       - [Research] Analyze GA Metrics
       - [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55090)
+- **GOAL: Address tech & design debt** 
+   - **Sub Goal: Resolve questions about error pages**
+      - [[SPIKE] [FE] Answer remaining questions around "error=no-token"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55097)
+         - Only work on this if all other engineering work is complete and we still have time in the sprint
 
 ## 3/8/2023 - 3/21/2023 
 
