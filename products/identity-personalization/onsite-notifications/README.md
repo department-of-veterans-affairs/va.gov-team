@@ -1,4 +1,4 @@
-# Product outline: On-site Notifications (ie. personalized notifications that show on VA.gov)
+# Product outline: Onsite Notifications (ie. personalized notifications that show on VA.gov)
 
 **Last updated: February 13, 2023 -- added link to "adding a new notification" doc**
 
