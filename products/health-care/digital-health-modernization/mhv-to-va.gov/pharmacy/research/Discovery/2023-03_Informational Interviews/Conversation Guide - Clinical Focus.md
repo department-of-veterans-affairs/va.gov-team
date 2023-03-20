@@ -37,31 +37,31 @@ Before we dig into some detailed questions, I will start with general questions,
 - Can Veterans expedite the refill and renewal process for urgent medications?
 - What type of medications Veterans can refill and renew online?
 - What are the differences in requirements between medications for refills and medications for renewal?
-  - Do refill and renewal have the same prescription statuses?
+  - Do refill and renewal have the same prescription statuses?
 - How long before medications expire or discontinue a user should be notified?
 - How long should medication data be available for on MHV? What considers start date and end date?
 - Can you list all the use cases for medication data?
 - What is the reason for allergies shown on the same page as medications list?
 - Is the allergies show on the medication list page medication allergies only, or all allergies?
 - What are the medication requirements for CHAMPVA patients?
-  - What are the similiarities and differences in MHV pharmacy functionality that CHAMPVA patients have access to compare to Veterans?
+  - What are the similiarities and differences in MHV pharmacy functionality that CHAMPVA patients have access to compare to Veterans?
 - When Veterans move or switch facilities, is there anything they need to do to receive correct medications?
-  - If so, how would Veterans know that information?
+  - If so, how would Veterans know that information?
 
 ## Constrains
 
 - From a clinical point of view, what are the constraints of medication data on MHV?
 - What about any limitations for a patient?
   - Are there limitations to how a patient can renew a prescription?
-  - Does the limitations for renewal apply to different types of drugs (e.g. controlled vs. not controlled substances)?
-  - Are there limitations on other functionalities?
-  - How do you think the limitations impact the user experience? Can you give an example?
+  - Does the limitations for renewal apply to different types of drugs (e.g. controlled vs. not controlled substances)?
+  - Are there limitations on other functionalities?
+  - How do you think the limitations impact the user experience? Can you give an example?
 
 ## Treatment Plan & Pre-visit Summary 
 
 - What is medication treatment plan?
-  - What are the use cases?
-  - Can patients view and download it on MHV?
+  - What are the use cases?
+  - Can patients view and download it on MHV?
 - What is pre-visit summary?
   - What are the use cases?
   - Can patients view and download it on MHV?
