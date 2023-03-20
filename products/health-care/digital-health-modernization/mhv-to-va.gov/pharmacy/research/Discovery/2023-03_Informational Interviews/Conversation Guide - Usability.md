@@ -24,16 +24,21 @@ Does that all make sense, and sound okay to you? Great! Any questions before we 
 
 Before we dig into some detailed questions, I will start with general questions, then we will go from there:
 
-- Can you tell me a bit about what you work on for MHV pharmacy? 
+- Can you tell me a bit about what you work on for MHV pharmacy (or other medication related tools)? 
+- What tasks do Veterans use MHV pharmacy or other medication tools to complete most often today? 
+- What feedback have you heard about the MHV pharmacy or other medication tools functionality today from users, or from VA staff?
+- Are caregivers considered as a user group? 
+- Are there any functionality on MHV pharmacy or other medication related tools for CHAMPVA patients only? 
 
-How do Veterans access their medication data today?
-What actions can Veterans take on their medication list today (e.g., request a refill)?
-What are all the different ways Veterans can learn about the status of a medication?
-Meds that are eligible to be refilled
-Meds that have been shipped
-Medications expiring / being discontinued
-How do Veterans request changes to their medication list or correct in the EMR medications that aren’t showing up on their medication list?
-What are the use cases for Veterans to review and download data for medications that they are no longer taking, or that have been discontinued, expired, or otherwise deactivated?
+- How do Veterans access their medication data today?
+- What actions can Veterans take on their medication list today (e.g., request a refill)?
+- What are all the different ways Veterans can learn about the status of a medication?
+  - For medications that are eligible to be refilled
+  - For medications that have been shipped
+  - For medications that are expiring and being discontinued
+- How do Veterans request changes to their medication list or add medications in the EMR that aren’t showing up on their medication list?
+- What are the use cases for Veterans to review and download data for medications that they are no longer taking, or that have been discontinued, expired, or otherwise deactivated?
+- Do CHAMPVA patients use medication same 
 
 ### Closing
 
