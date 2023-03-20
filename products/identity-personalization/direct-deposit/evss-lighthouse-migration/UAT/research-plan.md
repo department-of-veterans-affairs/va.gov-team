@@ -44,7 +44,7 @@ While sharing their screen in remote (Zoom) interviews, participants will comple
 Remote via Zoom
 
 ### Research materials
-Conversation Guide
+[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/UAT/conversation-guide.md)
 
 ## Recruitment
 Perigean will perform recruiting for a total of 18 participants.
@@ -72,7 +72,7 @@ What dates do you plan to do research?
 - Tentative: April 2023
 
 ### Length of sessions
-1 hour-long session for all  participants 
+1 hour-long session for all participants 
 
 ## Team Roles	
 - Moderator: Florence McCafferty, florence.mccafferty@agile6.com
