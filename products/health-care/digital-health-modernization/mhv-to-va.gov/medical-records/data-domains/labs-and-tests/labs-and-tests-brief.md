@@ -1,6 +1,6 @@
 # Lab and test results: Domain brief
 
-Last updated: Feb 6, 2023 | [Change Log](#change-log)
+Last updated: Mar 20, 2023 | [Change Log](#change-log)
 
 ## Table of Contents
 - [Description of domain](#description-of-domain)
@@ -193,7 +193,7 @@ Q: Do users expect to find imaging (X-rays, MRI, CT scan) in labs and tests?
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
 | 2023/02/03      | Marci McGuire    | Updated data sources for Cardiology reports and added screen shot of relevant email thread                          |
 | 2023/02/06      |Coulton Bunney    |Combined requirements and brief                                                                                      |
-| 2023/02/06      |Coulton Bunney    | Clarified use cases                                                                                                                     |
+| 2023/03/20      |Coulton Bunney    | Clarified use cases                                                                                                                     |
 |                 |                  |                                                                                                                     |
 
 # Appendix
