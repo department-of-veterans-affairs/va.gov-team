@@ -9,7 +9,8 @@ body:
     attributes:
       value: |
         :warning: **Please read before continuing** :warning:
-        This issue form is to request promotion of an application to EKS in higher environments.
+        - This issue form is to request promotion of an application to EKS in higher environments.
+        - The Utility cluster is for DevOps utilities. Unless explicitly asked do deploy to Utility, do not.
         
         Once completed, the following will be provided:
           - `AppProject` in ArgoCD
@@ -43,6 +44,7 @@ body:
         - staging
         - sandbox
         - prod
+        - utility
     validations:
       required: true
   - type: input
