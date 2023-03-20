@@ -14,7 +14,7 @@ The goals for the EVSS > Lighthouse migration are to limit service disruptions f
 ## Research Goals	
 The primary goal of our UAT is to confirm that the Direct Deposit section of the Profile functions as intended for various user types:
 - Users that are logged out see the sign in modal when arrive at the Direct Deposit section of the Profile. 
-- MHV users see Direct Deposit section of the Profile, and also see prompt to login with ID.me or Login.gov.
+- MHV and DS Logon users see Direct Deposit section of the Profile, and also see prompt to login with ID.me or Login.gov.
 - Ineligible LOA3 users see Direct Deposit section of the Profile, and see messaging that they are not eligible for direct deposit for comp & pen.
 - Eligible but not yet set up for direct deposit LOA3 users see Direct Deposit section of the Profile and see a prompt to set it up.
 - Eligible and set up for direct deposit LOA3 users see Direct Deposit section of the Profile and when they edit and save new info, they receive a confirmation email.
