@@ -5,29 +5,48 @@
 ## Table of Contents
 - [Domains](#domains)
 - [Lab and test results](#lab-and-test-results)
-- [Lab types](#lab-types)
-- [Care notes and summaries](#care-notes-and-summaries)
-- [Vaccines](#vaccines)
-- [Allergies](#allergies)
-- [Health conditions](#health-conditions)
-- [Vitals](#vitals)
-- [Vital sign types](#vital-sign-types)
-
+- [Health history](#health-history)
+  - [Care notes and summaries](#care-notes-and-summaries)
+  - [Vaccines](#vaccines)
+  - [Allergies](#allergies)
+  - [Health conditions](#health-conditions)
+  - [Vitals](#vitals)
 
 ## Domains
-|Blue Button label | After Visit Summary label | Suggested label|
+Medical records includes different types of information. You will hear these referred to as medical record "domains."
+
+|Domain/Blue Button label | After Visit Summary label | Suggested label|
 |:------|:-------|:-------|
+|VA Laboratory Results <br> VA Pathology Reports <br> VA Radiology Reports <br> VA Electrocardiogram (EKG) Reports |Lab tests <br/> Recent lab results |Lab and test results|
 |VA Immunizations  |Immunizations | Vaccines|
 |VA Allergies |Allergies and adverse drug reactions (signs / symptoms) <br/> My VA Allergies |Allergies|
 |VA Problem List |You were diagnosed with |Health conditions|
 |VA Vitals and Readings| Vitals as of this visit | Vitals|
-|VA Laboratory Results <br> VA Pathology Reports <br> VA Radiology Reports <br> VA Electrocardiogram (EKG) Reports |Lab tests <br/> Recent lab results |Lab and test results|
 |VA Admissions and Discharges <br> VA Notes| Visit Notes <br/> My treatment plan <br/> Other instructions | Care notes and summaries|
 
 ## Lab and test results
 
-USCDI v1 Mapping: [Laboratory](https://www.healthit.gov/isa/uscdi-data-class/laboratory#uscdi-v1), [Clinical notes](https://www.healthit.gov/isa/uscdi-data-class/clinical-notes), [Clinical tests](https://www.healthit.gov/isa/uscdi-data-class/clinical-tests#uscdi-v1), [Diagnostic imaging](https://www.healthit.gov/isa/uscdi-data-class/diagnostic-imaging#uscdi-v1) <br>
-USCDI mapping concerns: Fewer data elements than we have in our lists. Does Procedures category also apply here? See [commentary about confusion around this term in v1](https://www.healthit.gov/isa/uscdi-data-class/procedures#uscdi-v1) <br>
+### Included lab and test types
+The lab and test result section includes the following types of labs and tests. 
+
+**Overall question:** Can we use "Labs" as the type for chem/hem, pathology, and microbiology? Is there a reason these must be different on the front end?
+
+|Lab type | Suggested label | Notes             | Questions           |
+|:----------------------|:----------------|:------------------|:--------------------|
+|Chemistry/hematology|Labs|||
+|Pathology |Labs||
+|Microbiology |Labs||
+|Radiology |X-rays and imaging tests | 
+|EKG |EKGs (electrocardiograms) |Historical category |Are new EKGs added to medical records? |
+
+
+### Results
+Lab and test results include the following information  
+
+
+* USCDI v1 Mapping: [Laboratory](https://www.healthit.gov/isa/uscdi-data-class/laboratory#uscdi-v1), [Clinical notes](https://www.healthit.gov/isa/uscdi-data-class/clinical-notes), [Clinical tests](https://www.healthit.gov/isa/uscdi-data-class/clinical-tests#uscdi-v1), [Diagnostic imaging](https://www.healthit.gov/isa/uscdi-data-class/diagnostic-imaging#uscdi-v1) <br>
+* USCDI mapping concerns: Fewer data elements than we have in our lists. Does Procedures category also apply here? See [commentary about confusion around this term in v1](https://www.healthit.gov/isa/uscdi-data-class/procedures#uscdi-v1) <br>
+
 
 |Category | Data field | Suggested label | USCDI v1 data element mapping|Notes | Questions |
 |:----------------|:-------------|:----------------|:--------|:------------------|:--------------------|
@@ -87,21 +106,11 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |EKG|Date/time performed| Date and time |_None_|
 |EKG|Ordering location| |_None_|
 
-## Lab types
-**Overall question:** Can we use "Labs" as the type for chem/hem, pathology, and microbiology? Is there a reason these must be different on the front end?
+## Health history
+### Care notes and summaries
 
-|Lab type | Suggested label | Notes             | Questions           |
-|:----------------------|:----------------|:------------------|:--------------------|
-|Chemistry/hematology|Labs|||
-|Pathology |Labs||
-|Microbiology |Labs||
-|Radiology |X-rays and imaging tests | 
-|EKG |EKGs (electrocardiograms) |Historical category |Are new EKGs added to medical records? |
-
-## Care notes and summaries
-
-USCDI v1 Mapping: 
-USCDI mapping concerns:
+* USCDI v1 Mapping: 
+* USCDI mapping concerns:
 
 |Category|Data field       | Description           | Suggested label | Notes             | Questions           |
 |:----------------------|:-----------------------|:--------------------|:------------------|:------------------|:--------------------|
@@ -122,10 +131,10 @@ USCDI mapping concerns:
 |Admission & Dishcarge Summary|Last updated|
 |Admission & Dishcarge Summary|Discharge summary|
 
-## Vaccines
+### Vaccines
 
-USCDI v1 Data Class: [Immunizations](https://www.healthit.gov/isa/uscdi-data-class/immunizations#uscdi-v1) <br>
-USCDI mapping concerns: v1 has only 1 data element: Immunizations
+* USCDI v1 Data Class: [Immunizations](https://www.healthit.gov/isa/uscdi-data-class/immunizations#uscdi-v1) <br>
+* USCDI mapping concerns: v1 has only 1 data element: Immunizations
 
 |Data field       | Description           | Suggested label |USCDI v1 data element mapping| Notes             | Questions           
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|-------|
@@ -136,10 +145,10 @@ USCDI mapping concerns: v1 has only 1 data element: Immunizations
 |Comments | Comments entered by provider | Provider notes |  _None_ |
 |Series | Info about vaccine series, if relevant | Series | _None_ | May need explanatory text here. <br /> <br /> Vaccines in a series won't be grouped or linked in phase 0. | How does series data display — "COVID booster 1 of 2" or some other format? |_None_ |
 
-## Allergies
+### Allergies
 
-USCDI v1 Data Class: [Allergies and intolerances](https://www.healthit.gov/isa/uscdi-data-class/allergies-and-intolerances#uscdi-v1) <br>
-USCDI mapping concerns: v1 has only 3 data elements: Substance (Medication), Substance (Drug Class), Reaction. It does not include non-medication based allergies.
+* USCDI v1 Data Class: [Allergies and intolerances](https://www.healthit.gov/isa/uscdi-data-class/allergies-and-intolerances#uscdi-v1) <br>
+* USCDI mapping concerns: v1 has only 3 data elements: Substance (Medication), Substance (Drug Class), Reaction. It does not include non-medication based allergies.
 
 |Data field       | Description           | Suggested label | USCDI v1 data element mapping| Notes    | Questions|           
 |:------------------------|:-----------------------|:-----------------------|:-----------------|:---------------------|:---------------------|
@@ -153,10 +162,10 @@ USCDI mapping concerns: v1 has only 3 data elements: Substance (Medication), Sub
 |Location |Facility where provider entered allergy record | Location | _None_|
 |Comments |Comments entered by provider | Provider notes | _None_|
 
-## Health conditions
+### Health conditions
 
-USCDI v1 Mapping: [Problem](https://www.healthit.gov/isa/uscdi-data-class/problems#uscdi-v1) <br>
-USCDI mapping concerns: v1 has only 1 data element: Problems
+* USCDI v1 Mapping: [Problem](https://www.healthit.gov/isa/uscdi-data-class/problems#uscdi-v1) <br>
+* USCDI mapping concerns: v1 has only 1 data element: Problems
 
 |Data field       | Description          | Suggested label | USCDI v1 data element mapping | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-----------|:-------------------|:---------------------|
@@ -167,23 +176,9 @@ USCDI mapping concerns: v1 has only 1 data element: Problems
 |Provider's name | |Provider |_None_|
 |Comments |Comments entered by provider |Provider notes |_None_|
 
-## Vitals
+### Vitals
 
-USCDI v1 Mapping: [Vital signs](https://www.healthit.gov/isa/uscdi-data-class/vital-signs#uscdi-v1) <br>
-USCDI mapping concerns: v1 maps the actual vital signs, not the data elements for each vital sign — adding table below to capture this
-
-|Data field       | Description           | Suggested label | Notes             | Questions           |
-|:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
-|Vital sign | 
-|Latest reading |
-|Date of latest reading |
-|Location of latest reading |
-|Reading |
-|Date of entry |
-|Location of entry |
-|Comments |
-
-## Vital sign types
+#### Vital sign types
 
 Note: USCDI also includes 3 vitals for babies and children: BMI (2-20 years), weight-for-length percentile (birth to 36 months), and head circumference (birth to 36 months)
 
@@ -197,5 +192,22 @@ Note: USCDI also includes 3 vitals for babies and children: BMI (2-20 years), we
 | | |[Body weight](https://www.healthit.gov/isa/taxonomy/term/846/uscdi-v1)| | |
 | | |[Pulse oximetry](https://www.healthit.gov/isa/taxonomy/term/866/uscdi-v1)| | |
 | | |[Inhaled oxygen concentration](https://www.healthit.gov/isa/taxonomy/term/871/uscdi-v1)| | |
+
+
+#### Vital signs data
+
+* USCDI v1 Mapping: [Vital signs](https://www.healthit.gov/isa/uscdi-data-class/vital-signs#uscdi-v1) <br>
+* USCDI mapping concerns: v1 maps the actual vital signs, not the data elements for each vital sign — adding table below to capture this
+
+|Data field       | Description           | Suggested label | Notes             | Questions           |
+|:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
+|Vital sign | 
+|Latest reading |
+|Date of latest reading |
+|Location of latest reading |
+|Reading |
+|Date of entry |
+|Location of entry |
+|Comments |
 
 
