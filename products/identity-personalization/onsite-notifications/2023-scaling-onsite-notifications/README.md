@@ -1,6 +1,6 @@
 # Initiative outline: Scaling onsite notifications
 
-**Last updated: March 6, 2023**
+**Last updated: March 20, 2023**
 
 ### Communications
 
@@ -181,6 +181,7 @@ TBD
 |Deliverable|Date completed|
 |-----------|--------------|
 |[Existing notifications review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/notifications-v2/product/shared-notes-existing-notifications-to-review.md)| January 2023|
+|[Update design component project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/README.md)| N/A|
 
 ## Key dates
 
