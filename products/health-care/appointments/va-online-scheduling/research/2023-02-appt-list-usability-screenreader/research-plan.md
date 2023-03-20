@@ -77,7 +77,7 @@ When Veterans use a screenreader on the appointment list:
 * Can Veterans differentiate between appointments?
 * Can Veterans navigate to Past appointments?
 * Can Veterans navigate to Pending appointments?
-* What can Veterans do on the pages?
+* What would your next steps be?
 
 Method
 ------
@@ -123,10 +123,10 @@ Timeline
 
 ### Prepare
 
-Test materials will be finalized by TBD
+Test materials will be finalized by Monday March, 20th 2023
 
 Pilot participant email: TBD
-Date and time of pilot session: TBD
+Date and time of pilot session: TBD 
 
 ### Research sessions
 
@@ -154,5 +154,5 @@ Team roles
 -   Project point of contact: Ciera Maddox
 -   Participant(s) for pilot test: TBD
 -   Note-takers: Peter Russo
--   Observers: TBD
+-   Observers: Kristen Mcconnell kristen.mcconnell@va.gov
 
