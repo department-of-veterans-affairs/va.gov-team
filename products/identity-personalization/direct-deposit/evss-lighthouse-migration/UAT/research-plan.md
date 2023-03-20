@@ -1,4 +1,4 @@
-# Research Plan for Profile, Direct depost for compensation & pension EVSS > Lighthouse migration UAT, March 2023
+# Research Plan: Direct deposit for compensation & pension EVSS > Lighthouse migration UAT, March 2023
 
 ## Background  
 EVSS -- the VA backend that stores direct deposit for comp & pen, disability ratings, and more -- is being retired in favor of the Lighthouse platform. Lighthouse has been working hard to migrate data from EVSS to their platform, and they have successfully done so with direct deposit for comp & pen information. This means that we need to reintegrate the VA.gov profile to point to Lighthouse instead of EVSS.
@@ -14,7 +14,6 @@ The goals for the EVSS > Lighthouse migration are to limit service disruptions f
 ## Research Goals	
 The primary goal of our UAT is to confirm that the Direct Deposit section of the Profile functions as intended for various user types:
 - Users that are logged out see the sign in modal when arrive at the Direct Deposit section of the Profile. 
-- LOI 1 and fiduciary users can only see Account Security section of the Profile.
 - MHV users see Direct Deposit section of the Profile, and also see prompt to login with ID.me or Login.gov.
 - Ineligible LOA3 users see Direct Deposit section of the Profile, and see messaging that they are not eligible for direct deposit for Comp & Pen.
 - Eligible but not yet set up for direct deposit LOA3 users see Direct Deposit section of the Profile and see a prompt to set it up.
@@ -52,25 +51,21 @@ Perigean will perform recruiting for a total of
 
 ### Recruitment criteria
 We will aim for at least **5 completed sessions** for each user type:
-* LOA1 user
-* Fiduciary user
-* MHV user
-* LOA3 user that is not eligible for direct deposit for Comp & Pen (LOA3 user A)
-* LOA3 user that is eligible for direct deposit for Comp & Pen but hasn't set it up yet (LOA3 user B)
-* LOA3 user that is eligible for direct deposit for Comp & Pen and has set it up (LOA3 user C)
-* Login.gov user
+* LOA3 (ID.me or Login.gov) user that is not eligible for direct deposit for Comp & Pen (LOA3 user A)
+* LOA3 (ID.me or Login.gov) user that is eligible for direct deposit for Comp & Pen but hasn't set it up yet (LOA3 user B)
+* LOA3 (ID.me or Login.gov) user that is eligible for direct deposit for Comp & Pen and has set it up (LOA3 user C)
 
-**To get at least 5 completed sessions for each of the above user types, we'll recruit 7 of each for a total of 49 users.**
+**To get at least 5 completed sessions for each of the above user types, we'll recruit 6 of each for a total of 18 users.**
 
 The following use cases will not be specifically recruited for, and we'll roll in their testing as part of testing with other user types:
 * Logged out user
+* MHV user
 
 #### Primary criteria (must-haves)
 
 **All participants**
 - Must be able to screenshare via Zoom
-- Must be comfortable providing the email address they use to sign into VA.gov
-- 
+- Must be able to login to VA.gov with either ID.me or Login.gov
 
 ### Research sessions
 What dates do you plan to do research? 
