@@ -125,6 +125,7 @@ To mitigate each of the problems above, we plan to do the following:
 
 |Deliverables| Date completed|
 |------------|-----|
+|[Initial audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/vsa8243/1648129585496/d22080eb307aac8bda5ba1153e013a386b7f1396)| Spring 2022|
 |[Usability testing findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md)| January 2023|
 |[QA documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit/QA)| February 2023|
 |[Analytics -- new and updated tags](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/Product/audit-analytics-how-to.md)|March 2023|
