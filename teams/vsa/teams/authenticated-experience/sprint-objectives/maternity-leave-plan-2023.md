@@ -1,6 +1,6 @@
 # Samara's 2023 maternity leave plan
 
-**Last updated: March 7, 2023**
+**Last updated: March 20, 2023**
 
 Roughly, this will be some time between March - June of 2023, depending on when the baby arrives.
 
@@ -90,6 +90,11 @@ For Q2 of the calendar year, we'll be ready to conduct QA, go through pre-launch
 - [Long-term planning](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=378891642)
 
 Assuming we have availability, we can leverage the updated claim status integration that now relies on Lighthouse so that My VA pulls data from there instead of EVSS.
+
+#### Update the disability rating section of the nametag and VA.gov profile
+
+- **Status**: The backend migration will be done by the [benefits disability experience team](https://dsva.slack.com/channels/benefits-disability-experience). As of March 2023, Matt Self says they are still in discovery, but it's possible they'll begin work while I am on leave. Our team needs to keep up on this work, as we will need to migrate our frontend connections for the nametag and the profile as soon as they are done.
+- [Long-term planning](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=378891642)
 
 ## What about other work?
 
