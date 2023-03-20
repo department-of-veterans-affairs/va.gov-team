@@ -15,7 +15,7 @@ The goals for the EVSS > Lighthouse migration are to limit service disruptions f
 The primary goal of our UAT is to confirm that the Direct Deposit section of the Profile functions as intended for various user types:
 - Users that are logged out see the sign in modal when arrive at the Direct Deposit section of the Profile. 
 - MHV users see Direct Deposit section of the Profile, and also see prompt to login with ID.me or Login.gov.
-- Ineligible LOA3 users see Direct Deposit section of the Profile, and see messaging that they are not eligible for direct deposit for Comp & Pen.
+- Ineligible LOA3 users see Direct Deposit section of the Profile, and see messaging that they are not eligible for direct deposit for comp & pen.
 - Eligible but not yet set up for direct deposit LOA3 users see Direct Deposit section of the Profile and see a prompt to set it up.
 - Eligible and set up for direct deposit LOA3 users see Direct Deposit section of the Profile and when they edit and save new info, they receive a confirmation email.
 - Eligible and set up for direct deposit LOA3 users that open the edit modal and click cancel will see modal close and previously-saved direct deposit information will still be saved.
@@ -28,13 +28,13 @@ Based on the outcome of this research study, we will either release this work to
 
 ### Research questions
 - Are Veterans and other users able to update direct deposit information?
-- Are different user types seeing the correct information and messaging based on whether they are eligible for Comp & Pen direct deposit and whether they have the section of Profile set up?
+- Are different user types seeing the correct information and messaging based on whether they are eligible for comp & pen direct deposit and whether they have the Direct Deposit section of Profile set up?
 - Are errors working correctly to protect Veterans and other users from entering incorrect direct deposit information?
 
 ### Hypothesis
 - Veterans will see the correct messaging based on their logged in method and status (whether that is logged out, MHV, Login.gov or ID.me).
-- Veterans will see the correct messaging based on whether or not they are eligible for direct deposit for Comp & Pen.
-- Veterans will be able to edit and save direct deposit information (or edit and cancel to retain previous Direct Deposit information).
+- Veterans will see the correct messaging based on whether or not they are eligible for direct deposit for comp & pen.
+- Veterans will be able to edit and save direct deposit information (or edit and cancel to retain previous direct deposit information).
 - Veterans will be protected from submitting false direct deposit information through errors that prevent them from saving edits.
 
 ## Method	
@@ -51,9 +51,9 @@ Perigean will perform recruiting for a total of 18 participants.
 
 ### Recruitment criteria
 We will aim for at least **5 completed sessions** for each user type:
-* LOA3 (ID.me or Login.gov) user that is not eligible for direct deposit for Comp & Pen (LOA3 user A)
-* LOA3 (ID.me or Login.gov) user that is eligible for direct deposit for Comp & Pen but hasn't set it up yet (LOA3 user B)
-* LOA3 (ID.me or Login.gov) user that is eligible for direct deposit for Comp & Pen and has set it up (LOA3 user C)
+* LOA3 (ID.me or Login.gov) user that is not eligible for direct deposit for comp & pen (LOA3 user A)
+* LOA3 (ID.me or Login.gov) user that is eligible for direct deposit for comp & pen but hasn't set it up yet (LOA3 user B)
+* LOA3 (ID.me or Login.gov) user that is eligible for direct deposit for comp & pen and has set it up (LOA3 user C)
 
 **To get at least 5 completed sessions for each of the above user types, we'll recruit 6 of each for a total of 18 users.**
 
