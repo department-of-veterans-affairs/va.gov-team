@@ -73,52 +73,36 @@
 - *Key result 1: Increase % of Veterans who successfully apply for benefits online*
    - As of 10/2022, we have seen a 6 month overall increasing trend of the number of applications started and subsequently submitted.  We are noticing a significant drop from September to October, and will continue to monitor for the cause.
 
-|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
-|-------|----|----|----|----|----|----|----|
-|10-10 EZ	|53.87%	|71.97%	|66.33%	|86.51%	|89.46%	|91.87%|63.40%|
+|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|Nov|Dec|Jan|Feb|Mar|
+|-------|----|----|----|----|----|----|----|----|----|----|----|----|
+|10-10 EZ	|53.87%	|71.97%	|66.33%	|86.51%	|89.46%	|91.87%|63.40%|62.13%|68.39%|67.33%|68.14%|TBD|
 
-![image](https://user-images.githubusercontent.com/92328831/203115282-7e121e44-1516-41ab-9801-ade0a6f43d5f.png)
 
 
 #### Objective 2: Increase trust and satisfaction with the VA Health Care application process
 - *Key result 1: Increase number of application completions across multiple devices for ease of use*
      - As of 10/2022, the percentage of device use across desktop, mobile and tablet devices have held steady for 7 months
 
-|Device	|Apr	|May	|Jun	|Jul	|Aug	|Sep	|Oct|
-|-------|----|----|----|----|----|----|----|
-|Desktop	|71.0%	|70.30%	|70.7%	|71.3%	|73.5%	|72.3%	|72.3%|
-|Mobile|	27.6%	|28.10%	|27.9%	|27.0%	|24.9%	|26.2%|	26.3%|
-|Tablet|	1.4%	|1.50%	|1.4%|	1.6%	|1.6%	|1.5%	|1.4%|
+|Device	|Apr	|May	|Jun	|Jul	|Aug	|Sep	|Oct|Nov|Dec|Jan|Feb|Mar|
+|-------|----|----|----|----|----|----|----|----|----|----|----|----|
+|Desktop	|71.0%	|70.30%	|70.7%	|71.3%	|73.5%	|72.3%	|72.3%|70.8%|70.2%|----|----|TBD|
+|Mobile|	27.6%	|28.10%	|27.9%	|27.0%	|24.9%	|26.2%|	26.3%|27.6%|28.4%|----|----|TBD|
+|Tablet|	1.4%	|1.50%	|1.4%|	1.6%	|1.6%	|1.5%	|1.4%|1.5%|1.4%|----|----|TBD|
 
-![image](https://user-images.githubusercontent.com/92328831/204040574-122b928a-5d9d-418a-bb5b-8fe4e72f755c.png)
-
-
-- *Key result 2: Decrease number of drop-off/exit rates while completing the application*
-
-     - As of 10/2022, the percentage of exit rates have been trending downward.  We are noticing a significant increase in October, and will continue to monitor.
-
-|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
-|-------|----|----|----|----|----|----|----|
-|10-10 EZ	|47.37%	|28.03%	|33.37%	|13.49%	|10.54%	|8.13%	|36.60%|
-
-![image](https://user-images.githubusercontent.com/92328831/203131451-e2dad96b-792f-44bc-a706-e154586d91a8.png)
 
 
 #### Objective 3: Provide an effortless application completion process
 - *Key result 1: Increase number of application completions in a single session*
    - As of 10/2022, we have seen a 6-month increasing trend for the percentage of applications completed in a single session
 
-|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
-|-------|----|----|----|----|----|----|----|
-|10-10 EZ - Average sessons to complete|	1.80|	1.61|	1.52|	1.43|	1.45|	1.45|1.48|
-|% of 1 session|	59.20%|	65.44%|	67.88%|	72.45%|	71.74%|	71.76%|71.59%|
-|% of 2 sessions|	22.89%|	21.93%|	21.27%|	19.74%|	20.32%|	19.97%|19.76%|
-|% of 3 sessions|	17.91%	|12.63%|	10.85%|	7.81%	|7.94%	|8.27%|8.65%|
-|Totals	|11,903	|14,737	|14,065	|11,548	|10,673	|9,391	|10,277|
+|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|Nov|Dec|Jan|Feb|Mar|
+|-------|----|----|----|----|----|----|----|----|----|----|----|----|
+|10-10 EZ - Average sessons to complete|	1.80|	1.61|	1.52|	1.43|	1.45|	1.45|1.48|1.44|1.43|1.46|1.44|TBD|
+|% of 1 session|	59.20%|	65.44%|	67.88%|	72.45%|	71.74%|	71.76%|71.59%|72.50%|72.88|70.93%|72.51%|TBD|
+|% of 2 sessions|	22.89%|	21.93%|	21.27%|	19.74%|	20.32%|	19.97%|19.76%|19.74%|19.27%|20.50%|19.54%|TBD|
+|% of 3 sessions|	17.91%	|12.63%|	10.85%|	7.81%	|7.94%	|8.27%|8.65%|7.76%|7.85%|8.57%|7.95%|TBD|
+|Totals	|11,903	|14,737	|14,065	|11,548	|10,673	|9,391	|10,277|9,829|9,341|11,537|9,815|TBD|
 
-![image](https://user-images.githubusercontent.com/92328831/203114564-29182e4a-56c4-45ff-933a-35a3f6906e89.png)
-
-![image](https://user-images.githubusercontent.com/92328831/203114674-ae09aff9-2c07-4552-a55a-d17ae81abffc.png)
 
 ---
 
