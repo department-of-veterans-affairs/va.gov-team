@@ -57,8 +57,9 @@ TBD
 
 ## Solution approach
 
-- Designed new component, discussed with design system team, and submitted experimental design submission (approved)
-- Tested this design in (did we test this design??)
+- Designed new component and discussed with design system team, and 
+- [Tested this design in payments V2 testing, August 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/june-2022-research/research-findings.md#1-users-will-be-able-to-clearly-see-and-read-the-notification-at-the-top-of-the-page-and-will-know-how-to-act-on-it-if-they-wished-to-see-more-details-or-resolve-a-debt)
+- [Submitted experimental design submission, and received approval](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/1181)
 - Building out component and updating My VA
 
 ## Key deliverables
@@ -67,6 +68,7 @@ TBD
 |-----------|--------------|
 |[Experimental design submission](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/1181)
 |September 2022|
+|[User testing of new component](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/june-2022-research/research-findings.md#1-users-will-be-able-to-clearly-see-and-read-the-notification-at-the-top-of-the-page-and-will-know-how-to-act-on-it-if-they-wished-to-see-more-details-or-resolve-a-debt)| August 2022|
 
 ## Key dates
 
