@@ -28,6 +28,7 @@ Chante will NOT being doing any of the following:
 
 - Attending every team meeting
 - Detailed planning
+- Writing tickets
 - Validating tickets
 
 ## Work we need to wrap up
