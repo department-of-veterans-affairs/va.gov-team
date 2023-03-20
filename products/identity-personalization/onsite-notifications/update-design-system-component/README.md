@@ -1,6 +1,6 @@
 # Project outline: Update Design System Component
 
-**Last updated: March 17, 2023**
+**Last updated: March 20, 2023**
 
 ### Communications
 
