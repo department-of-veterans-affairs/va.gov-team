@@ -1,6 +1,6 @@
 # Project outline: My VA audit, updates, and documentation
 
-Last updated October 3, 2022
+**Last updated: March 20, 2023**
 
 ### Communications
 
@@ -127,7 +127,13 @@ To mitigate each of the problems above, we plan to do the following:
 ### Key Dates
 
 - March 2022: Audit begins
-   
+- January 2023: Usability testing & write up
+- February 2023: QA
+- March 2023: Pre-launch activities
+- April X, 2023: Launch to 25%
+- April X, 2023: Launch to 50%
+- April or May X, 2023: Launch to 100%
+
 ## Screenshots
 
 ### Before
