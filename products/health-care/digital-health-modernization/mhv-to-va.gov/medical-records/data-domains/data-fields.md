@@ -36,7 +36,7 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |All|Date collected |Date |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|Hard to find single date label for all types — "collected" doesn't work for Radiology or EKG| Can we map date fields from different types into a single "Date" field for list view, but use different "Date" labels in detail views? Or do we need all labels to stay consistent between list and detail views?|
 |All|Ordering provider |Provider|_None_||Is there a need to specify "provider who ordered test"? Or is it clear that this is what "provider" means in this context?|
 |**Chemistry/hematology**|Lab test|Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|Some Chem/Hem tests include subtests in a panel — like lipid panel with LDL, HDL, etc. Suggest using this panel-level "Test" field as card header in list, H1 in detail)|Does USCDI include a panel-level element? Or do we map both the panel and the subtests to "Tests" in USCDI?|
-|Chemistry/hematology|Date/time collected| Date and time |_None_|
+|Chemistry/hematology|Date/time collected| Date and time |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
 |Chemistry/hematology|Specimen| Sample tested |_None_|
 |Chemistry/hematology|Test name [for specific test]| Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
 |Chemistry/hematology|Results [for specific test]| Results |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|
@@ -53,7 +53,7 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |**Microbiology**|Lab type | |_None_ || What types can you choose from here? A: The value will always be "Microbiology" |
 |Microbiology|Lab test (aka name, not always present)| Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
 |Microbiology|Date collected| |_None_|
-|Microbiology|Date completed (not always present)| |_None_|
+|Microbiology|Date completed (not always present)| |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
 |Microbiology|Results| Results |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|
 |Microbiology|Site/specimen (not always present)| Sample tested |_None_|
 |Microbiology|Ordering provider| Provider |_None_|
@@ -63,11 +63,11 @@ USCDI mapping concerns: Fewer data elements than we have in our lists. Does Proc
 |Pathology|Specimen| Sample tested |_None_|
 |Pathology|Date obtained| | _None_||Does "gave" work in this context? This may happen in the context of surgery, etc, as opposed to going to a lab to give blood|
 |Pathology|Performing location||_None_|
-|Pathology|Date completed| Date completed |_None_|
+|Pathology|Date completed| Date completed |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
 |Pathology|Report| |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|| Does pathology report map to Values/Results in the USCDI Laboratory category? Or is "Pathology Report Narrative" the correct mapping?|
 |Pathology | | |[Pathology Report Narrative](https://www.healthit.gov/isa/taxonomy/term/2886/uscdi-v1)|USCDI groups this in Clinical Notes|
 |**Radiology**|Procedure/test name |Test |[Diagnostic imaging test](https://www.healthit.gov/isa/taxonomy/term/2466/uscdi-v2)||Is this the same as "Title of lab report" in the All category above?|
-|Radiology|Date/time exam performed |Date and time |_None_|
+|Radiology|Date/time exam performed |Date and time |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
 |Radiology|Ordering location| |_None_|
 |Radiology|Requesting provider| Provider | _None_| | In Chem/Hem and Microbio, the field is labeled “Ordering Provider”. Should this change? A from content: Let's pick a consistent order/request label, if needed. But "Provider" may be enough here.|
 |Radiology|Reason for study| Reason for test |_None_|
