@@ -27,23 +27,27 @@
 
 ## Overview
 
-[The onsite notification MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp#readme) launched in October 2022. As part of this work, we submitted a new design for a notification to the design system, and it was approved for build. We need to actually build the component now and have it added to the library, then update our onsite-notifications on My VA to use the new component.
+[The onsite notification MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp#readme) launched in October 2022. As part of this work, we submitted a new design for a notification to the design system, and it was approved for build. We need to build the component, have it added to the library, and update our notification styling on My VA to use the new component.
 
 ## Problems
 
-The current design system does not have a solution for an onsite notification that is not used currently as an alert or warning. 
+The design system does not have a style for user notifications that is different from system alert or warning styles. This makes it hard to differentiate between personalized notifications and system alerts.
 
 ## User outcomes
 
 ### Desired User Outcomes
-Create a design that visually stands out from other cards and content on the page so that the user knows it is the most important thing to pay attention to.
+
+- Easily be able to identify any required actions for me on VA.gov. 
 
 ### Undesired User Outcomes
 
 ## Business outcomes
 
 ### Desired Business Outcomes
-Design further encourages user interaction with time-sensitive and action-oriented features on the page
+
+- Encourage interactions with time-sensitive and action-oriented tasks.
+- Scale onsite notifications functionality.
+- Create a notification style that is different from our existing system alerts.
 
 ### Undesired Business Outcomes
 
