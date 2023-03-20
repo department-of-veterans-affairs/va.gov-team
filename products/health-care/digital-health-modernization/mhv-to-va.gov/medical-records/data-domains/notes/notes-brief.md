@@ -14,7 +14,7 @@ Last updated: Feb 6, 2023 | [Change Log](#change-log)
 ## Description of domain
 
 ### Notes
-A user can see their notes MHV Blue Button by including the category called VA Notes.
+Today, a user can review their notes as part of an MHV Blue Button reporting by choosing to include the category called VA Notes.
 
 #### Progress notes
 VA Notes pull in all notes of type Progress Note (PN) dating back to 2013. Progress notes are written by clinical staff and describe a patient's status during a hospitalization, outpatient visit, or other healthcare encounter.
