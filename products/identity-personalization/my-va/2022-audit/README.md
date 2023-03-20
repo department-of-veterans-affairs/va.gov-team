@@ -122,11 +122,18 @@ To mitigate each of the problems above, we plan to do the following:
 
 ## Key deliverables
 
-- Angela's audits
+|Deliverables| Date completed|
+|------------|-----|
+|[Usability testing findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md)| January 2023|
+|[QA documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit/QA)| February 2023|
+|[Analytics -- new and updated tags](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/Product/audit-analytics-how-to.md)|March 2023|
+|[Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/launch-materials/my-va-audit-improvements-release-plan.md)| March 2023|
 
 ### Key Dates
 
 - March 2022: Audit begins
+- Summer 2022: Design
+- Fall 2022: Frontend build
 - January 2023: Usability testing & write up
 - February 2023: QA
 - March 2023: Pre-launch activities
