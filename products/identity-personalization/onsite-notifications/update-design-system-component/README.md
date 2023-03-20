@@ -1,4 +1,4 @@
-# Project outline: Onsite Notification Design System Component
+# Project outline: Update Design System Component
 
 **Last updated: March 17, 2023**
 
