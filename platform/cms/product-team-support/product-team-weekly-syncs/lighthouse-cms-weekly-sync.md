@@ -15,7 +15,14 @@
 </details>
 
 ## Monday, March 20, 2023
-*
+* Open Data Model Needs:
+*   Need to agree on what we (CMS) are sending and what lighthouse is accpeting 
+*   After this is complete we can push a sample data set 
+*   
+* Mental Health Numbers
+*   This topic is still open, currently only show one phone number 
+*   Need to confirm legislation to confirm need to show multiple phone numbers at top level AND/OR if a primary number needs to be identified 
+*   Propsed is one main number at the top level and the service level has the other multiple phone numbers 
 
 ## Monday, March 13, 2023
 * Topics
