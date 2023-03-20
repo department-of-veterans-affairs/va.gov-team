@@ -94,3 +94,191 @@ We are going to go through a form and ask you to fill it out, as you would norma
 Remember, there are no right or wrong answers, we just want to learn from your experience with the early version of this digital form so that we can make improvements, as needed.
 
 We ask that you think out loud as you are going through the form. You may use fake information to fill out the form.
+
+
+## [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md#first-task-task-name---x-minutes)First Task: [Form comprehension questions] - 10 minutes
+**Form comprehension questions**
+
+*Screen: [Wizard]*
+
+-   Please pause here.
+    
+-   Based on what you read, what is the FSR form for?
+
+#### Success criteria:
+
+***-   Complete success:***  Veteran must say:
+-   The Financial Status Report form (FSR) is for debt related to VA disability compensation, education, or pension benefits AND/OR
+-   VA health copays  
+
+***-   Success with one minor issue:***
+-   Veteran mentions one of the following but not both
+-   The Financial Status Report form (FSR) is for debt related to VA disability compensation, education, or pension benefits
+-   VA health copays
+    
+***-   Success with a major issue:***
+-   Veteran mentions debt form is for one of the above AND the wrong type of debt
+
+***-   Failure:*** Veteran mentions:
+-   FSR form is for any type of debt
+-   Veteran does not understand the form is related to debt resolution
+
+#### Testing: Comprehension
+
+***Screen: FSR intro page describing the steps***
+  
+-   What would you do here?
+    Testing: Would they actually read the page?
+If they read through the page, ask:
+
+-   What are your impressions of this page?
+    
+-   How are you feeling at this point in the form? [understand motivation level]
+    
+-   Is there anything that you’re unsure about?
+    
+-   How would you describe this section, in a few words?
+    
+-   Do you have any additional thoughts on this section?
+  
+**Testing: Qualitative feedback/ satisfaction**
+
+
+**Debt Selection Question**
+
+***Screen: [Debt selection screen]***
+
+-   What would you do here?
+   Rate each field individually for pass/fail (binary)
+	-  Complete success: Participant completes task without any issues (can select a debt)
+	-   Failure: Participant isn’t able to complete task (cannot select a debt)
+  
+#### Testing: Usability of debt selection UI
+
+### Sub-Task [Step 1 of 7: Editing contact info]
+
+##### Research goal addressed: Are Veterans able to easily edit their [contact information](https://preview.uxpin.com/552e9ad135f7d7ee943a92576feab45190b069f4#/pages/147887481/comment/no-panels?mode=i) on FSR?
+  -   Please pause here.
+    ***[SCREEN NAME: Contact Information]***
+-   Can you show me how you would edit your mailing address?
+   Rate each field individually for pass/fail (binary)
+	-   Complete success: Participant completes task without any issues (can edit the above fields)
+	 -   Failure: Participant isn’t able to complete task (cannot edit the above fields)
+   
+#### Testing: Usability of editing contact info UI
+Research question addressed:
+
+-   ##### Do they understand updates will only be applied to this request?
+    
+-   Now that you edited your contact information, where do you think the updates will be applied? (if confused, clarify: do you think the new contact info you entered will be applied only for this form, or for your VA services in general?)
+    
+
+Rate each field individually for pass/fail (binary)
+*   Complete success: Participant says the contact info update will only be applied to this request, and that it will not be updated in other areas of the VA.
+    
+-   Failure: Participant says the contact info update will be applied to all areas of the VA.
+
+#### Testing: Comprehension
+###   
+### Observational Task - usability of list loops [Step 2 to 7: Household income - Work history]
+### (long task broken into sub-tasks)
+
+##### Research goal addressed: Is the [new list loop](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/25881) design easy for Veterans to utilize?
+  Researcher note:
+
+Veteran/user should hopefully build proficiency as they complete more list loops - look out for areas of confusion. 
+  -   Please fill out the form as you would normally. You may use fake information to fill out the form. Please remember to think out loud and comment if anything is unclear. Pause once you get to the additional job screen.
+Observe participants as they fill out each list loop section. Ask them to pause at the end of each major list loop section Step and ask a few of the following questions for qualitative feedback:
+	- What are your impressions of this section?
+	- How are you feeling at this point in the form?
+	- What is your level of motivation for continuing the form at this point?
+	- Was there anything that you were unsure about?
+	- Was there anything missing that you expected to see?
+	- How would you describe this section, in a few words?
+	- Do you have any additional thoughts on this section?
+**[Testing: satisfaction]**
+
+**Success criteria:**
+- Notetaker Rate success for loop step 2 (Household income/Veteran employment), and loop step 4 (Household expenses) only - all other sections, only qualitative feedback
+
+
+— End of List Loop Testing —
+
+Resolution options comprehension question
+
+-   Which resolution option would you prefer? Why?
+    
+
+  
+  
+
+Bankruptcy options comprehension question
+
+-   If you have ever declared bankruptcy, please go ahead and say yes, and fill out the information with fake information.
+    
+
+### Review page usability question
+
+  
+
+What are your impressions of this section?
+
+Is there anything that you are unsure about on this page?
+
+Is there anything missing that you expected to see?
+
+Do you have any additional thoughts on this section?
+
+  
+
+[Testing: satisfaction]
+
+### Review page editing usability question
+
+  
+
+[SCREEN NAME: Review page]
+
+  
+
+-   Can you show me what you would do if you wanted to edit a section?
+    
+
+  
+
+Rate each field individually for pass/fail (binary)
+
+  
+
+-   Complete success: Participant completes task without any issues (can edit the above fields)
+    
+-   Failure: Participant isn’t able to complete task (cannot edit the above fields)
+    
+
+#### Testing: Usability of editing info from review page
+
+## Post-task Interview
+
+-   What was your overall experience with the FSR Form like?
+    
+-   What would you change, if anything?
+    
+-   Overall, how difficult or easy was the form to complete?
+    
+
+-   1 being very difficult and 7 being very easy.
+    
+
+-   If you had a magic wand, what would you change about this experience?
+    
+
+Those are all the questions that I had for you today.
+
+-   Do you have any questions for me or is there anything else that you think that I should know?
+    
+
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it works well for Veterans.
+
+## Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+
+## Thank you so much again, and enjoy the rest of your day!
