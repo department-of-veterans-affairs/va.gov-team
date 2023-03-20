@@ -289,8 +289,8 @@ Sprint 6 Epic [#54553](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
 - ~#54973~ Closed by SS -- no longer need to do this work
 
 ### General
-**Design - Florence**
-- ~#54938 Only complete this if you have time. This can get moved back if needed.~ Push out to Sprint 7 per BX
+**Design - Liz**
+- #54938 
 
 ## Sprint 7 (3/29 - 4/11)
 Sprint 7 Epic [#54733](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/54733)
