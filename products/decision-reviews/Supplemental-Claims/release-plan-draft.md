@@ -89,12 +89,14 @@ Yellow - "we should give this a look" - 2.5% - 4%
 Red - "stop everything, we need to check this out" -  > 4% (edited) 
 
 Links to the dashboard(s) showing "success criteria" metrics: 
-Google Analytics
-Domo
-[Grafana - Claims and Appeals](https://grafana.vfs.va.gov/d/WxQ9lkUGz/claims-and-appeals-alerts?orgId=1&from=now-7d&to=now)
-[Grafana - Supplemental Claims](https://grafana.vfs.va.gov/d/ejdUuxTVk/sc-supplemental-claims-dashboard?orgId=1)
-[Sentry](http://sentry.vfs.va.gov/organizations/vsp/dashboard/10/?project=4&statsPeriod=7d)
-- Who is monitoring the dashboard(s)?: Decision Review Team, Lighthouse Team
+
+- Google Analytics
+- Domo
+- [Grafana - Claims and Appeals](https://grafana.vfs.va.gov/d/WxQ9lkUGz/claims-and-appeals-alerts?orgId=1&from=now-7d&to=now)
+- [Grafana - Supplemental Claims](https://grafana.vfs.va.gov/d/ejdUuxTVk/sc-supplemental-claims-dashboard?orgId=1)
+- [Sentry](http://sentry.vfs.va.gov/organizations/vsp/dashboard/10/?project=4&statsPeriod=7d)
+
+Who is monitoring the dashboard(s)?: Decision Review Team, Lighthouse Team
 
 ### Stage A: Canary
 
