@@ -79,14 +79,14 @@ We recommend that the rollout plan has five stages, each increasing the number o
   - Contact Center calls due to inability to complete the form caused by technical error <2 calls
 
 API "gate check" metrics:
-Green - "everything is going smooth" -  < 0.1%
-Yellow - "we should give this a look" - 0.1% - 0.5%
-Red - "stop everything, we need to check this out" -  > 0.5%
+- Green: "everything is going smooth" -  < 0.1%
+- Yellow: "we should give this a look" - 0.1% - 0.5%
+- Red: "stop everything, we need to check this out" -  > 0.5%
 
 Evidence "gate check" metrics (thresholds will be higher - LH is used to a higher error rate through the Benefits Intake API):
-Green - "everything is going smooth" -  < 2.5%
-Yellow - "we should give this a look" - 2.5% - 4%
-Red - "stop everything, we need to check this out" -  > 4% (edited) 
+- Green: "everything is going smooth" -  < 2.5%
+- Yellow: "we should give this a look" - 2.5% - 4%
+- Red: "stop everything, we need to check this out" -  > 4% (edited) 
 
 Links to the dashboard(s) showing "success criteria" metrics: 
 
