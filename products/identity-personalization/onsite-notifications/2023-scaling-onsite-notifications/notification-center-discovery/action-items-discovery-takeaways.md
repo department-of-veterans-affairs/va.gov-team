@@ -21,4 +21,12 @@ Last updated: March 20, 2023
 - > State farm has an interesting 'user navigation' that is separate from the main navigation. This seems like a very clear way to elevate top tasks while also elevating action items (the alert bell icon + red dot indicator) If clicked, it opens a right hand menu with a list of action items for the user.
   - Interesting option to explore since we have the name tag present on My VA and profile
   - <img width="1013" alt="Screenshot 2023-03-20 at 11 35 05 AM" src="https://user-images.githubusercontent.com/97965610/226390332-eb27cf04-5d5e-466c-bd47-c87619178f64.png">
-- 
+
+## Key takeaways from Action Items Research
+
+[Tressa's 2021 My VA - Action Items Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md)
+
+- Tested both My VA and a high fidelity prototype of an action items page
+- > All users mentioned redundancy as a welcomed and important feature.
+  - This supports our hypothesis that having notifications for things that are present elsewhere on My VA is OK and welcomed.
+
