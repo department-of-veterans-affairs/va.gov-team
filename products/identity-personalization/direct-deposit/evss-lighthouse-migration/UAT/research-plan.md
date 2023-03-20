@@ -71,15 +71,19 @@ The following use cases will not be specifically recruited for, and we'll roll i
 ### Additional screener questions
 
 **Verification level screener question**
+
 We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?**
 You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified.
 Response options: yes or no.
 - Answering "yes" qualifies the participant
 - Answering "no" disqualifies the participant
 
-***Login method screener question***
+**Login method screener question**
+
 Do you have a working login and password for any of the following VA.gov login methods? (Select 1-4 options). **You will need your login credentials for the research session, so please make sure your credentials work before answering this question.**
 Response options: DS Logon, MyHealtheVet, Login.gov, ID.me, None of the above
+- If participant answers **only** DS Logon or MyHealtheVet, they are disqualified.
+- If participant's answer includes either (or both) Login.gov or ID.me, they are qualified.
 
 ### Research sessions
 What dates do you plan to do research? 
