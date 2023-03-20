@@ -1,5 +1,5 @@
 # My VA Analytics How-To
-Last updated: March 16, 2023 - added columns to indicate new event tags for this iteration
+Last updated: March 20, 2023 - added row for learn how to apply for VA health care link.
 
 This document serves as a guide for Google Analytics tracking on My VA, post-launch of the audit UX improvements implementation.
 
