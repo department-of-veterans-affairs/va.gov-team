@@ -52,16 +52,16 @@ Before we dig into some detailed questions, I will start with general questions,
 
 - From a clinical point of view, what are the constraints of medication data on MHV?
 - What about any limitations for a patient?
-  - Are there limitations to how a patient can renew a prescription?
-  - Does the limitations for renewal apply to different types of drugs (e.g. controlled vs. not controlled substances)?
-  - Are there limitations on other functionalities?
-  - How do you think the limitations impact the user experience? Can you give an example?
+  - Are there limitations to how a patient can renew a prescription?
+  - Does the limitations for renewal apply to different types of drugs (e.g. controlled vs. not controlled substances)?
+  - Are there limitations on other functionalities?
+  - How do you think the limitations impact the user experience? Can you give an example?
 
 ## Treatment Plan & Pre-visit Summary 
 
 - What is medication treatment plan?
-  - What are the use cases?
-  - Can patients view and download it on MHV?
+  - What are the use cases?
+  - Can patients view and download it on MHV?
 - What is pre-visit summary?
   - What are the use cases?
   - Can patients view and download it on MHV?
