@@ -72,6 +72,8 @@ TBD
 
 ## Key dates
 
+- Summer 2022: Designed new component in partnership with the design system team
+- August 2022: Tested the new component in payments V2 research
 - March 2023: Collab cycle and development kick-off
 
 ## Backend
