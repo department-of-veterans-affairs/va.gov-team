@@ -1,95 +1,84 @@
-Conversation Guide: Direct deposit for compensation & pension EVSS > Lighthouse migration UAT, March 2023
-============================================
+# Conversation Guide: Direct deposit for compensation & pension EVSS > Lighthouse migration UAT, March 2023
 
--   _Make sure VA Profile team has turned on feature for user's account_
--   _Discuss if session should be recorded_
+### Project-specific setup
+- Check participant information to see what types of login(s) credentials they may have (Login.gov, ID.me, DS Logon, MyHealtheVet), whether or not they are eligible for direct deposit, and whether or not they have direct deposit set up.
+- Note: These sessions will not be recorded.
 
-Intro - 2 minutes
------------------
+## Introduction - 2 minutes
+Thanks for joining us today. My name is Florence and I have some colleagues on the line observing and taking notes. Today we're going to look at the Profile at VA.gov together to make sure everything is working as intended.
 
-As you know, we’ll be trying out this new feature that helps Veterans update incorrect contact information. The purpose of our session today is to make sure the feature is working as expected in your account and that you're able to interact with it as intended.
+- This entire session should take about x minutes.
+- We're testing the website, not you.
+- We may be able to see some of your real information today as we will be viewing the Direct Deposit section of your VA Profile. 
+- You may end the session at any point if you feel uncomfortable with this (or for any other reason).
+- Any questions for me?
 
--   **This should take about 10 minutes or less**. 
+ ## Screen questions - 3 minutes
+ 1. Can you confirm for me that you have a username and password for VA.gov?
+ 2. When you login at VA.gov, what is the type of login you tend to use (options are: Login.gov, ID.me, DS Logon, MyHealtheVet)
+ 3. Besides that, do you have logins for any of the other options?
+ 4. Okay and then, it looks like you reported that: you regularly receive a check in the mail from the VA (user B) OR you regularly receive direct deposits into a bank account from the VA (user C), OR you don't currently receive a check in the mail OR a direct deposit from the VA (user A). Is that right?
 
--   **We will be able to see some of your real information today**. 
+## Share screen and login to LOA3 account (either Login.gov or ID.me) - 5 minutes
+Great, thanks for providing that information. I think we're good to move ahead. For the next step, I'll have you share you screen so we can look at VA.gov together. 
+_Once can see their screen:_ Could you now open a browser and go to VA.gov? 
+_Once they arrive at VA.gov:_ Next, could you login using -------? (either Login.gov or ID.me)
 
-Login and share screen - 1 minute
+## UAT Task #1: Review Direct Deposit with LOA3 account - 2 minutes
+_Direct user to Direct Deposit section of Profile_
+
+- [ ] **UAT TASK:** Confirm that they are LOA3. If they are not, they should see a "Verify your identity" prompt. If they are not LOA3, end the session.
+- [ ] **UAT TASK:** Confirm that based on user type, the correct view of profile is visible:
+	* For user A: See messaging that they are not eligible for direct deposit. **Once complete, move to task #6**
+	* For user B: See a prompt to set up direct deposit. **Once complete, move to task #6**
+	* For user C: See their direct deposit info in read-only view. **Continue on to task #2 directly below**
+
+## UAT Task #2: Cancel an edit to direct deposit info - 2 minutes
+Next, I'll have you click to edit your direct deposit info. Don't worry, we won't change your information. Now click cancel, and let's see what happens. 
+
+- [ ] **UAT TASK:** When user clicks edit and cancel, their direct deposit info remains the same.
+
+## UAT Task #3: Edit and try to save with bogus routing number - 3 minutes
+Okay, go ahead and click edit again, and this time let's add a few zeros to the end of your routing number. Again, this shouldn't change your information, so don't worry about that. Click save and let's see what happens.
+
+- [ ] **UAT TASK:** When user clicks save, they cannot submit the form due to the bogus routing number.
+
+## UAT Task #4: Edit and try to save with errors - 3 minutes
+Now you can delete those zeros added to your routing number and let's try something else. Click on the account type dropdown and un-select the option you have selected there. Now click save and let's see what happens.
+
+- [ ] **UAT TASK:** When user clicks save, they cannot submit the form due to error(s).
+
+## UAT Task #5: Edit and try to save with errors - 10 minutes
+
+After that, I want you to click edit again, and this time click save. That action should cause a confirmation email to get sent to your email address. Can you check and see if you've received an email?
+
+- [ ] **UAT TASK:** When user clicks edit and save, they receive a confirmation email.
+
+**End of session for user C**
+If time allows, can move on to tasks below.
+ 
 ----------------------------------------
 
--   OK, go ahead and log in to va.gov and then share your screen once you've logged in. <https://www.va.gov/>. _Send link to va.gov via chat if needed_
+## UAT Task #6: Switch to Login.gov or ID.me - 10 minutes
+Okay now I'll have you log out of your VA.gov account and I want you to try to login using your ------ account (Login.gov or ID.me).
 
-_Participant shares screen_
+Now, navigate once again to the Direct Deposit section of your Profile and let's see what's there. 
 
-_Start recording_
+- [ ] **UAT TASK:** Confirm that this account is also LOA3. If they are not, they should see a "Verify your identity" prompt.
+- [ ] **UAT TASK:** Confirm that based on user type, the correct view of profile is visible:
+	* For user A: See messaging that they are not eligible for direct deposit. **Once complete, move to task #**
+	* For user B: See a prompt to set up direct deposit. **Once complete, move to task #**
+	* For user C: See their direct deposit info in read-only view. **Continue on to task #2 directly below**
 
----------------------------------------------------------------
 
-## Task #1: Review Personal information page and alert - 1 minute
+## UAT Task #7: MHV or DS Logon user - 10 minutes
+Okay now I'll have you log out of your VA.gov account and I want you to try to login using your ------ account (MyHealtheVet or DS Logon).
 
+Now, navigate once again to the Direct Deposit section of your Profile and let's see what's there. 
 
-**Task goal: Make sure the alert is easy to find and understand, and quickly prompts participants to take action and update their information.**
+- [ ] **UAT TASK:** User sees the Direct Deposit section of Profile and a prompt to sign in using ID.me or Login.gov.
 
--   Ok, now we'll go through this step by step.
--   First, please go to your Profile. 
+----------------------------------------
 
-#### UAT
-- [ ] **UAT TASK:** _Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, end the session._
-- [ ] **UAT TASK:** Confirm the Profile lands on the Personal information section and is showing the BAI alert accurately.
-
----------------------------------------------------------------
-
-Task #2: Navigate to Contact information page / Mailing address field - 1 minute
----------------------------------------------------------
-
-**Task goal: Make sure the participant can easily navigate to the Mailing address field in Contact information using the link.**
--   Go ahead and select the link to review your mailing address.
-
-#### UAT
-- [ ] **UAT TASK:** Confirm the link functions as intended and brings the user to the Mailing address field.
-- [ ] **UAT TASK:** Confirm the alert is displayed in the Mailing address field as expected.
-
----------------------------------------------------------------
-
-Task #3
----------------------------------------------------------
-
-### _OPTION 1:_ Update Mailing address - 2 minutes
-
-**Task goal: Make sure the participant can easily UPDATE their mailing address.**
-
-- Now we'll pretend you're reviewing your mailing address and your zip code is incorrect like the alert says, so you need to make a change to your zip code.
-- Go ahead and select edit.
-- Then make a small change to your zip code.
-- Then select Update.
-
-#### UAT
-- [ ] **UAT TASK:** Confirm an update can be made and saved without an error message.
-- [ ] **UAT TASK:** Confirm the success message appears when an update is made.
-- [ ] **UAT TASK:** Confirm the BAI alert disappears when an update is made.
-- [ ] **UAT TASK:** Confirm the BAI flag is properly cleared in VA Profile when an update is made.
-
-### _OPTION 2:_ Confirm Mailing address - 2 minutes
-
-**Task goal: Make sure the participant can easily CONFIRM a mailing address.**
-
-- Ok, we'll imagine that you came to this page and found this alert, but when you checked your mailing address you didn't find any errors - everything was correct. 
-- So I’ll have you confirm that your address is correct.
-- Go ahead and select edit.
-- And without changing anything, select Update.
-
-#### UAT
-- [ ] **UAT TASK:** Confirm the address can be confirmed and saved without an error message.
-- [ ] **UAT TASK:** Confirm the success message appears when an address is confirmed.
-- [ ] **UAT TASK:** Confirm the BAI alert disappears when an address is confirmed.
-- [ ] **UAT TASK:** Confirm the BAI flag is properly cleared in VA Profile when an address is confirmed.
-
----------------------------------------------------------------
-
-## Task 4: Reset Address (If UPDATING address) and Closing - 2 minutes
--   That’s everything we needed to go through.
--   Let's make sure all of your information is correct, since we made one small change to your zip code. 
-	-   Could you please take a moment to double check your zip code and change it back if it's incorrect?
-  	-   Does everything seem correct here?
--   Great! That's everything. Thank you so much!
-
-_Go to next participant_
+## Closing - 1 minute
+Okay, that's everything we were hoping to look at with you today. Thank you for taking the time to help us improve the VA.gov site.
