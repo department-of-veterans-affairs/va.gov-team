@@ -1,8 +1,8 @@
 ---
-name: Sitewide Content and IA Intake Form
-about: To request support with content or IA from Sitewide Content and IA team
+name: Sitewide Content, Accessibility, and IA Intake Form
+about: To request support with content, accessibility, or IA from Sitewide Content, Accessibility, and IA team
 title: "<Type of Request> from <Team>"
-labels: sitewide CAIA, sitewide content-product support, Sitewide IA, sitewide content
+labels: sitewide CAIA, sitewide content-product support, Sitewide IA, sitewide content, sitewide accessibility
 assignees: RLHecht, coforma-terry
 
 ---
@@ -39,7 +39,7 @@ assignees: RLHecht, coforma-terry
 ## When does this work need to be done?
 - Estimated launch date:
 - Estimated staging review date:
-- Content and IA work needed by: 
+- Content, Accessibility, and IA work needed by: 
 
 ## Do you plan to bring this to an upcoming content office hours session?
 - [ ] Yes, benefit content office hours (Thursdays, 3:00 p.m. to 3:45 p.m. ET)
