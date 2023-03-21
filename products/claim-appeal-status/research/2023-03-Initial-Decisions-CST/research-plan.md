@@ -56,7 +56,7 @@ Part 2: Log in in to VA.gov
 - What is the most helpful part of this web page? 
 
 Part 3: Co-design exercise 
-- See details in [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/research/2023-03-Initial-Decisions-CST/conversation-guide.md)
+- See details in [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-03-Initial-Decisions-CST/conversation-guide.md)
 
 
 ### Hypothesis
@@ -74,7 +74,7 @@ Remote on Zoom
 
 ### Research materials
 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-03-Initial-Decisions/conversation-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-03-Initial-Decisions-CST/conversation-guide.md)
 	
 ## Recruitment	
 
