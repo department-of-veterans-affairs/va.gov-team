@@ -51,7 +51,7 @@ Before we dig into some detailed questions, I will start with general questions,
 
 ## Constrains
 
-- From a clinical point of view, what are the constraints of medication data on MHV?
+- From a clinical point of view, what are the constraints of medication data on MHV and on My VA?
 - What about any limitations for a patient?
   - Are there limitations to how a patient can renew a prescription?
   - Does the limitations for renewal apply to different types of drugs (e.g. controlled vs. not controlled substances)?
