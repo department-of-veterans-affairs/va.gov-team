@@ -16,7 +16,7 @@ Feature toggle
 Before enabling your feature toggle in production, you'll need to:
 
 - [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-  - [ ] Link to Test cases/Test Rail
+  - [ ] [Link to Test cases/Test Rail](https://dsvavsp.testrail.io/index.php?/runs/view/4540&group_by=cases:section_id&group_order=asc)
 - [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
    - [ ] Link to validation confirmation 
 - [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
@@ -32,15 +32,15 @@ Before enabling your feature toggle in production, you'll need to:
 
 - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
 
-### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT) - Can we have UAT in Production for this?
 
 #### Planning
 
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
+- Desired date range or test duration: 2 weeks - End of May
+- Desired number of users: 10
+- How you'll recruit the right production test users: Perigean recruiting
+- How you'll conduct the testing: Moderated
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: Feature Toggle using email address (Authenticated?)
 
 #### Results
 
@@ -60,16 +60,36 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: [FILL_IN]
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
+- Desired date range: June
+- How will you make the product available in production while limiting the number of users who can find/access it: Feature Toggle limiting % of traffic to the application
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN] : KPIs
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: [FILL_IN]
 
-*The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
+### Objective: Update the 10-10EZ, so it is easier for applicants to understand and complete without having to exit the application.
+#### **Key Result #1:** Reduce drop-off/exit rate for the Household section pages by a third.
+
+| Product KPI | 2021| 2022 | Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |---------|-------|-------------- |-------------- |-------------- |
+|Total Apps started |173,669|231,725 |N/A | TBD |TBD |
+|Household section |13.7% (23,803)|9.1% (21,074) |7% | TBD |TBD |
+|Financial Disclosure |4% (1,464)|0.3% (477) | no change |TBD |TBD |
+|Spouse Info |%|% | TBD |TBD |TBD |
+|Dependent info |%|% |% | TBD |TBD |
+|Annual Income |26.3% (40,791) |11.4% (14,772) | 8% |TBD |TBD |
+|Deductible Expenses |6.2% (9,704)|7% (9,116) | 5% |TBD |TBD |
+
+
+#### **Key Result #2:** Increase application submissions by 5%, and submissions within a single session by 5%
+This is based on a third of current exit rates converting to successful submissions
+
+| Product KPI | 2022 Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |---------|-------|-------------- |-------------- |
+|Application Submissions | 58% (137.5k)  | 63% | TBD|TBD|
+|Single-session Submissions | 67% (92k) | 72% | TBD|TBD|
+
+- Links to the dashboard(s) showing "success criteria" metrics: Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+- Who is monitoring the dashboard(s)?: Product Manager
+
+
 
 ### Stage A: Canary
 
@@ -77,8 +97,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: select a percentage that targets ~500 users, or at most 10%*)
+- Length of time: 2 days
+- Percentage of Users (and roughly how many users do you expect this to be): 10%
 
 #### Results
 
@@ -94,7 +114,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 2-3 days
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
@@ -111,7 +131,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 2-3 days
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
@@ -128,7 +148,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 2-3 days
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 #### Results
@@ -143,7 +163,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 2-3 days
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
