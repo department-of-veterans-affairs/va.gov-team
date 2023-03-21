@@ -184,6 +184,15 @@ From [Heather's research](https://github.com/department-of-veterans-affairs/va.g
 
 These are the preceding pages to the application from the past year to date, numbers rounded in unique visits. More exist, but listed the ones that got the most traffic.
 
+Another view of this from [Heather's additional research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38119#issuecomment-1474220352).
+
+![225984373-6eb7715e-a00c-4b06-8a7c-c1e85a610926](https://user-images.githubusercontent.com/1473618/226652782-11eef68e-b1f2-40a5-b958-3bb11d322d4d.png)
+
+This shows the majority of traffic coming from:
+
+1. https://va.gov/family-member-benefits/
+2. https:/va.gov/health-care/family-caregiver-benefits/
+
 ## Other ideas considered
 
 Idea: Add content to the page informing users they only need to enter Caregivers again if it's a new caregiver or they're changing the caregiver. This could solve the duplicative data issue, but puts the burden on the Veteran/Caregiver to read that information, understand it and follow it.
