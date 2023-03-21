@@ -114,24 +114,24 @@ Lab and test results include the following information
 * USCDI v1 Mapping: 
 * USCDI mapping concerns:
 
-|Category|Data field       | Description           | Suggested label | Notes             | Questions           |
-|:----------------------|:-----------------------|:--------------------|:------------------|:------------------|:--------------------|
+|Category|Data field       |  Suggested label | Notes             | Questions           |
+|:----------------------|:--------------------|:------------------|:------------------|:--------------------|
 |VA Note|Title|
-|VA Note|Date and time|
+|VA Note|Date and time|_Need more info_||If "Date and time signed" is a different field, what is this date and time?|
 |VA Note|Location|
 |VA Note|Signed by|
 |VA Note|Co-signed by|
 |VA Note|Date and time signed|
 |VA Note|Last updated|
-|VA Note|Note|This is the actual content of the note|
-|Admission & Dishcarge Summary|Title|
-|Admission & Dishcarge Summary|Admission date|
-|Admission & Dishcarge Summary|Location|
-|Admission & Dishcarge Summary|Admitting physician|
-|Admission & Dishcarge Summary|Discharge date|
-|Admission & Dishcarge Summary|Discharge physician|
-|Admission & Dishcarge Summary|Last updated|
-|Admission & Dishcarge Summary|Discharge summary|
+|VA Note|Note|Provider notes|
+|Admission & Discharge Summary|
+|Admission & Discharge Summary|Admission date|
+|Admission & Discharge Summary|Location|Location|
+|Admission & Discharge Summary|Admitting physician|Provider who admitted you|
+|Admission & Discharge Summary|Discharge date|
+|Admission & Discharge Summary|Discharge physician|Provider who discharged you|
+|Admission & Discharge Summary|Last updated|
+|Admission & Discharge Summary|Discharge summary|
 
 ### Vaccines
 
