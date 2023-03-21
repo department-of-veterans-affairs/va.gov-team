@@ -46,7 +46,7 @@ Remote via Zoom
 [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/UAT/conversation-guide.md)
 
 ## Recruitment
-Perigean will perform recruiting for a total of 18 participants.
+Perigean will perform recruiting for a total of 18 participants. Before recruitment begins, a meeting is needed between Perigean and Florence to get on the same page.
 
 ### Recruitment criteria
 We will aim for at least **5 completed sessions** for each user type:
