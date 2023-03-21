@@ -25,9 +25,11 @@ No. We could approach them together. That may only make sense if we try to tackl
 
 ### What other opportunities and solutions might exist beyond the previous work done?
 
-This is for the Primary and Secondary caregiver roles, responsibilities and benefits problem :
+## Primary and Secondary caregiver roles, responsibilities and benefits
 
-#### Idea one: Expanded additional info content
+This is for the Primary and Secondary caregiver roles, responsibilities and benefits problem:
+
+### Idea: Expanded additional info content
 
 Add new/updated content in the existing additional info components in the form. The content should address not just who can be a caregiver, but what the differences are between a primary and secondary caregiver and what the benefits are for each of them.
 
@@ -36,17 +38,17 @@ We'd also want to update the introductory page:
 * The information should be more detailed than what's in the additional info component since we'd have less space there.
 * Focused more on what the differences are between a primary and secondary caregiver and what the benefits are for each of them.
 
-Benefits
+Benefits:
 
 * Mostly copy changes.
 * No impact to existing flow.
 
-Drawbacks
+Drawbacks:
 
 * Would likely need to have multiple paragraphs in there, which breaks best practices for the additional info component.
 * Statistics show that users do engage with Additional info components, but is burying the reason people are applying (using the form) a good idea? Probably not.
 
-#### Idea two: Expanded content in a  featured content component or accordions
+### Idea: Expanded content in a  featured content component or accordions
 
 Similar to the first idea, this would add new/updates content in either a featured content component, accordion component or other custom component.  The content should address not just who can be a caregiver, but what the differences are between a primary and secondary caregiver and what the benefits are for each of them.
 
@@ -55,18 +57,18 @@ We'd also want to update the introductory page:
 * The information should introduce the topics needed, but we could get details in either of these components on the related page, putting it where the user needs it.
 * Focused more on what the differences are between a primary and secondary caregiver and what the benefits are for each of them.
 
-Benefits
+Benefits:
 
 * Mostly copy changes.
 * No impact to existing flow.
 * The addition of the featured content component or accordion component could draw more attention to the extra information.
 
-Drawbacks
+Drawbacks:
 
 * Using an accordion component still buries the information.
 * Using the featured content component may call too much attention to the information.
 
-#### Idea three: Full page of info with question on next page
+### Idea: Full page of info with question on next page
 
 With this idea, we'd add content directly to a new page within the flow, putting focus on information about primary and secondary caregivers. It would come before the primary/secondary questions. The content should address not just wh can be a caregiver, but what the differences are between a primary and secondary caregiver and what the benefits are for each of them.
 
@@ -75,16 +77,55 @@ We'd also want to update the introductory page:
 * The information should introduce the topics needed, but we could get details in either of these components on the related page, putting it where the user needs it.
 * Focused more on what the differences are between a primary and secondary caregiver and what the benefits are for each of them.
 
-Benefits
+Benefits:
 
 * Would allow users to focus on the information before answering questions about it.
 
-Drawbacks
+Drawbacks:
 
 * The new information pushes the question to the next  page.
 * Lengthens the form, and may puts too much weight on the information
 
-### What questions are we missing?
+### Idea: Store Caregiver information in the profile section
+
+Storing the information in the profile section would allow the Veteran to see who is their assigned caregiver, and make updates from there. Depending on the updates made, the user would need to take additional steps to complete an application.
+
+A MVP of this could be a "read-only" version where Veterans can see the information in the profile, and it links to the 1010CG form.
+
+Benefits:
+
+* The Veteran would be able to look up who their caregiver(s) are at any time without a phone call or finding paperwork.
+* Further establishing the Profile as a hub for Veteran information and benefits.
+
+Drawbacks:
+
+* We probably need to enable the progressive flow before we could do this, so the Veteran doesn't have to fill out anything unneeded.
+* Once the Veteran updates the information in the profile, we'd need to make sure we have the other information needed to process the application.
+
+Questions:
+
+* What would happen after an update?
+* Would we need the progressive flow to make this work?
+* Do Veterans need to check this information regularly?
+
+## Duplicative data problem
+
+This is for the duplicative data problem:
+
+### Idea: New, progressive flow depending on if applicant is new to the program or returning to change/add a caregiver
+
+This is the work, and recommendation from Dené in the linked Sketch files in the ticket. It turns the form into a progressive flow depending on if the user is new or an existing applicant and what they need to do.
+
+Benefits:
+
+* Likely could tackle both the duplicative data issue and the primary and secondary caregiver roles, responsibilities and benefits problem.
+* Likely would lessen the amount of information needed on the form in some cases.
+
+Drawbacks:
+
+* Large work, with change of flows in the form.
+
+## What questions are we missing?
 
 **How is the data processed? Does a new "application" not override an existing one?** A new application does not really override the existing information.  An application is needed to add new Caregivers to the existing list of caregivers for the Veteran.  However, if a Caregiver is going to be replaced, the existing Caregiver must be discharged (there is a process and the Veteran must call or visit the CG=supported facility to do this), then a new application with the new Caregiver information must be submitted.  Here is an example the Business provided:
 
@@ -125,43 +166,6 @@ These two screenshots show how the additional info components are the most popul
 **Where is the caregiver information stored on VA.gov?** Currently, it looks like it's unavailable.
 
 **Can Veterans access their decision letter about the Caregiver program?** Still researching this.
-
-#### Idea Five: Store Caregiver information in the profile section
-
-Storing the information in the profile section would allow the Veteran to see who is their assigned caregiver, and make updates from there. Depending on the updates made, the user would need to take additional steps to complete an application.
-
-A MVP of this could be a "read-only" version where Veterans can see the information in the profile, and it links to the 1010CG form.
-
-Benefits
-
-* The Veteran would be able to look up who their caregiver(s) are at any time without a phone call or finding paperwork.
-* Further establishing the Profile as a hub for Veteran information and benefits.
-
-Drawbacks
-
-* We probably need to enable the progressive flow before we could do this, so the Veteran doesn't have to fill out anything unneeded.
-* Once the Veteran updates the information in the profile, we'd need to make sure we have the other information needed to process the application.
-
-Questions:
-
-* What would happen after an update?
-* Would we need the progressive flow to make this work?
-* Do Veterans need to check this information regularly?
-
-This is for the duplicative data problem:
-
-#### Idea four: New, progressive flow depending on if applicant is new to the program or returning to change/add a caregiver
-
-This is the work, and recommendation from Dené in the linked Sketch files in the ticket. It turns the form into a progressive flow depending on if the user is new or an existing applicant and what they need to do.
-
-Benefits
-
-* Likely could tackle both the duplicative data issue and the primary and secondary caregiver roles, responsibilities and benefits problem.
-* Likely would lessen the amount of information needed on the form in some cases.
-
-Drawbacks
-
-* Large work, with change of flows in the form.
 
 ## Other ideas considered
 
