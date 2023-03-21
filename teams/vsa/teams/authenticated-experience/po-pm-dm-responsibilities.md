@@ -37,7 +37,7 @@
 
 **Main objective**: Prioritize the health and happiness of the team so that we have what we need to succeed in order to deliver value for our customer. This includes:
 
-My responsibilities to the customer:
+_My responsibilities to the customer:_
 
 1. Program management and delivery support:
 -	Delivery and monitoring reports to VA and Agile Six
@@ -45,7 +45,7 @@ My responsibilities to the customer:
 -	Assist with high-level stakeholder relationships
 -	Attend account meetings
 
-My responsibilities to the team:
+_My responsibilities to the team:_
 
 2. Facilitator of Scrum:
 - Ensure all scrum events take place and are positive, productive and within the timebox (work closely with Product to tag team this effort, DM does not have to faciliate all ceremonies)
