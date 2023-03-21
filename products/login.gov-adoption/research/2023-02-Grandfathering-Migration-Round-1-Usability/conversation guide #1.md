@@ -281,7 +281,6 @@ I'm going to give you a second to read this screen now. Then, I'd like you to su
 Now, you'll remember that when we started today, we imagined you were online to [reference the task they're doing today on VA.gov]. 
 
 - Do you have any concerns about your ability to [do that task] now?
-- If you logged out of the VA right now, and you needed to log back in tomorrow, how would you login? What account would you use? Why?
 
 ### Things to watch for:
 
@@ -297,13 +296,31 @@ Now, you'll remember that when we started today, we imagined you were online to 
 
 We're nearly done today, thank you for answering so many of my questions already.
 
-Next, please click anywhere up at the top part of this screen [dark blue navigation bar]. This is just so we can move on the last part of testing.
+Next, please close this pop-up. And we'll move on the last task.
 
-Now, I'd like you to imagine that it's been a couple months since you set up your Login.gov account. You're signing back into the VA, using Login.gov. And now you see this screen pop-up.
+> *Screen: VA.gov homepage (not signed in)*
 
-You can click anywhere up at the top part of this screen [dark blue navigation bar] again.
+I'd now like you to imagine that it's been a couple months since you set up your Login.gov account. So you come back to your computer and you're going to sign in to VA.gov.
+
+- Can you show me how you would sign in to VA.gov this time?
+
+(You can go ahead and click "Sign in" now.)
+
+> *Screen: Sign in pop-up window*
+
+- Which sign in method would you use this time? Why?
+
+(You can go ahead and click "Login.gov" now.)
+
+> *Screen: Login.gov sign in*
+
+- What would you do here?
+
+You can go ahead and click sign in and we'll imagine that you signed in today.
 
 > *Screen: Modal recommending upgrade to IAL2*
+
+Okay so you've signed using Login.gov. And now you see this screen.
 
 - Before we read this in detail, can you describe to me what you're looking at, now?
 - Why do you think this has appeared on your screen?
@@ -319,6 +336,7 @@ I'm going to give you a second to read this more closely now. When you're finish
 
 ### Things to watch for:
 
+- Does the Veteran that they have set up a Login.gov account to use in place of DS Logon moving forward?
 - Does the Veteran appear motivated to upgrade to an IAL2 Login.gov account?
 - Does the Veteran understand why they're being asked to upgrade (based on how well they understand their current account)?
 - Does the Veteran have any concerns about their ability to continue accessing VA services, after seeing this screen?
