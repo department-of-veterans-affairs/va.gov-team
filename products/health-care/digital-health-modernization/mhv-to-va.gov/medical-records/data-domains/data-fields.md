@@ -71,7 +71,7 @@ Lab and test results include the following information
 |Chemistry/hematology|Collected location| Collecting location |_None_|
 |Chemistry/hematology|Comments|Provider notes | _None_||How is this different from Interpretation field? |
 |Chemistry/hematology|Performing Location|Lab location |_None_ || It seems that this field is referring to the overall lab results, and not related to individual tests. If all of the tests were performed in other locations, what is this field referring to?|
-|Chemistry/hematology |_Confirm if field exists in tool_ | |[Laboratory Report Narrative](https://www.healthit.gov/isa/taxonomy/term/2881/uscdi-v1)|USCDI v1 includes this as a type under Clinical Notes. In USCDI v2+, this clinical note type was removed.|Does this field exist in tool?|
+|Chemistry/hematology | | _Confirm if field exists in tool_|[Laboratory Report Narrative](https://www.healthit.gov/isa/taxonomy/term/2881/uscdi-v1)|USCDI v1 includes this as a type under Clinical Notes. In USCDI v2+, this clinical note type was removed.|Does this field exist in tool?|
 |:test_tube: **MICROBIOLOGY**|
 |Microbiology|Lab type |Type of test |_None_ || What types can you choose from here? A: The value will always be "Microbiology" |
 |Microbiology|Lab test (aka name, not always present)| Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
