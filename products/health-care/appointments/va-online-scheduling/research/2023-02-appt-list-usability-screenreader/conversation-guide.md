@@ -29,11 +29,11 @@
 
 ### When the participant joins:
 
-- Thanks for joining us today! My name is Ciera I will be walking you through this session today. [Notetaker] Is also here to take notes and make sure I don't miss anything.
+- Thanks for joining us today! My name is Ciera I will be walking you through this session today. We also have a Peter here to take notes and make sure I don't miss anything.
 
 - Today we're going to talk about managing appointments on VA.gov, and how that experience works when using a screenreader. 
 
-- I have a few people on the team who are interested in listening in to our session as observers. They’re in the virtual waiting room right now. It’s completely fine if you choose to have the session without observers, so let me know what you’d prefer. If it’s ok with you, I’ll have them join. 
+- I have a few people on the team who are interested in listening in to our session as observers. They’re in the virtual waiting room right now. It’s completely fine if you choose to have the session without observers, so let me know what you’d prefer. Is it okay with you if they join us? 
 
 _If no_ In the [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) let observers know that the participant does not want them observing. 
 
@@ -41,9 +41,9 @@ _If yes_ Thank you. I'll admit them now.
 
  - [ ] Let observers join with their video on. Each observer should come off mute and introduce themselves, and then go back on mute with video off.
 
-A few things I want to mention about how today's session:
+There are a few things I want to mention about today's session:
 
-   - There are no right or wrong answers, and I won’t be offended by any opinions you express. We just want to hear your opinions, so that we can improve the appointments feature and make it work better for everyone.
+   - There are no right or wrong answers, and I won’t be offended by any opinions you express. We just want to hear your thoughts, so that we can improve the appointment features and make it work better for everyone.
     
    - There’s no expectation to provide any personal information. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
     
@@ -82,14 +82,13 @@ You will be interacting with a prototype on the web. In order to do that I'll ne
 
    - I have a link to the tool I'll ask you to navigate using the screenreader. **Would you prefer that I send that in the Zoom chat, to your email, or by another method?**
    - If another method, confirm their contact number/email address.
-   - Send user [Staging Link]() 
+   - Send user [Staging Link](staging.va.gov) 
    - Send user Login credentials
     
 - Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
 
 - If participant can share their screen, walk them through screen sharing.
     -  [Screenreader Screen Share Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-checklist)
-    -  Make
 
 
 ### If they can't share their screen
@@ -117,7 +116,7 @@ PROMPT: Say you wanted to find out what health appointments you have scheduled f
 
 PROMPT: Next, you'll need to login using a test user. I've sent the test user login credentials to (your email/phone/the chat)
 
-You'll use Login.gov to sign in 
+You'll use ID.me to sign in 
   - Email address is [TBA] 
   - Password is [TBA]
 
