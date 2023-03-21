@@ -15,14 +15,14 @@ This document serves as an overview of the in-take process (in partnership with 
 _How do we determine if a notification (email or text) should be an onsite notification?_
 
 My VA's top priorities:
-- Action items: items that require a veteran to take action in order to advance a process
+- Action items: requires a veteran to do somehting in order to advance a process (or prevent a process from stalling)
 - Communicate high-priority benefit status/updates that don't necessarily require action
 
 For more details, see [Onsite Notification Criteria](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications#onsite-notification-criteria).
 
-### Questions to Consider
+### Criteria
+_Criteria assumes all notifications are personalized to the user (i.e. no blasts or blanket announcements._
 
 1. **Is the notification in question a confirmation or success message?**
-2. **Is the notification in question personalized to the user? (i.e. it is _not_ a general blast/blanket announcement)**
-3. **Is the notification actionable?**
-4. **If non-personalized and non-actionable, is the notification in question a high priority status update?**
+2. **Is the notification actionable?**
+3. **If not-actionable, is the notification in question a high priority status update?**
