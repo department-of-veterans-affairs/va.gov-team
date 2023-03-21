@@ -1,16 +1,16 @@
 # Conversation Guide for Logged-in IA and Nav Wayfinding Study
-`DRAFT` 
 
 ## Moderator logistics
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 - Share the [Mural board for observers](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1678753731006/614653b3452e25e9e2a8236cab13644d0875b66f?sender=ub868d471cfdb1c56cc0b4512) in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/)
 - Mute your Slack notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type “observer instructions” into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+- Make sure participant's email address has been added to the feature toggle
 
-## Intro - 5 minutes
-Thanks for joining us today! My name is Liz and [NOTETAKER NAME] is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them, I’d like to go over some basic logistics for today.
+## Intro - 2 minutes
+Thanks for joining us today! My name is Liz, and Shannon is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them, I’d like to go over some basic logistics for today.
 
-Today we're going to talk about how you do things related to benefits and services you receive from VA online. You will need to log into your VA.gov  account, and share your screen, which means we might see some of your personal information. Are you comfortable with that?
+Today we're going to talk about how you do things related to benefits and services you receive from VA. You will need to log into your VA.gov  account, and share your screen, which means we might see some of your personal information. Are you comfortable with that?
 
 **If participant declines, end the session.** That’s ok, I understand. Unfortunately, to complete the session today we would need you to do that. We can go ahead and end the session now; we really appreciate your time and willingness to be here today.
 
@@ -36,7 +36,7 @@ Great, thank you. We have an accessibility specialist in the session, standing b
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
 ## Warm-up Questions - 5 minutes
-Before we start looking at the website, I want to learn a more about you.  When the session was scheduled you provided some information. 
+Before we start looking at the website, I want to learn more about you.  When the session was scheduled you provided some information. 
 
 - I understand you are a [*Veteran / Caregiver / Family member )* Is that right? 
 	- *If Caregiver, confirm:* Are you a caregiver for a Veteran? Are you a Veteran?
@@ -66,7 +66,9 @@ Thanks for sharing all of that with me. Now I’ll have you share your screen in
 I can see your screen, great! We can get start looking at websites now.
 
 **If participant clearly stated a benefit or service you can pull a task from:**
-Now that you’re logged in, can you show me how you  [*use their language for what they ended up doing while logged in*]? It’ll help if you can think out loud as much as possible.
+Now that you’re logged in, can you show me how you  [*use their language for what they ended up doing while logged in*]? 
+
+It’ll help if you can think out loud as much as possible.
 
 **If participant does not have any recent experience with VA to pull from, pull logged-in task from Cindy’s top task research findings:**
 Imagine you wanted to get your VA medical history. Show me how you’d go about doing that. It’ll help if you can think out loud as much as possible.
@@ -74,10 +76,8 @@ Imagine you wanted to get your VA medical history. Show me how you’d go about 
 - *If needed,*
 	- Tell them to open a browser
 	- Can you show me how you’d do that on the VA website?
-	- Guide away from MHV or eBenefits to VA.gov 
-	- Share the new health hub page with them if they land on current versions, and they have health care
-		- va.gov/my-health/
-	
+	- Tell them to decline the pop-up asking them to preview the new home page.
+		
 **! Stop the participant before they submit any applications or change their actual information !**
 
 Thank you for showing that to me! 
@@ -104,7 +104,7 @@ Thanks, that is helpful to see.
 - If they couldn’t navigate to their task, what did they do?
 - How does the logged-in experience line up with what they expected?
 
-## Task 2: Complete second benefit related task - 8 min / 16 min for screenreader sessions
+## Task 2: Complete second benefit related task - 5 min / 10 min for screenreader sessions
 Now I’d like to see how you go about finding a something else on the website.  *Ok for participant to start wherever they are on the website, or from a fresh browser if that’s what they’d do.*
 
 **If participant clearly stated a benefit or service you can pull a task from:**
@@ -112,6 +112,8 @@ Thinking about your [*benefit or service*], are there other related things you n
 
 **If participant does not have any additional experience with VA to pull from, pull logged-in task from Cindy’s top task research findings:**
 Now imagine you have a hearing problem that has recently gotten worse, and you want to increase your disability rating. Show me how you’d go about doing that, and please continue thinking out loud. You’re doing a great job with that.
+
+*task success: land on [https://www.va.gov/disability/file-disability-claim-form-21-526ez/](https://www.va.gov/disability/file-disability-claim-form-21-526ez/)*
 
 - *If needed,*
 	- Guide away from MHV or eBenefits to VA.gov 
@@ -137,7 +139,9 @@ Thank you for showing that to me!
 - If they couldn’t navigate to their task, what did they do?
 
 ## Task 3: View dependents - 5 min / 10 min for screen reader session
-Now I’d like to for you to show me one last thing - how would you double check any dependents you have on file with VA?
+This is so helpful to see how you go about doing this - thank you. I’ve got 1-2 more things I’d like to see.
+
+Can you please show me how would you double check any dependents you have on file with VA?
 	
 *Goal is to get them to this page: [https://www.va.gov/view-change-dependents/view](https://www.va.gov/view-change-dependents/view)*
 
@@ -150,6 +154,9 @@ Thank you for showing that to me!
 - Was the person able to complete their task?
 - What, if anything did the participant find confusing?
 - If they couldn’t navigate to the task, what did they do?
+
+## Task 4: Review logged-out content - 5 min / 10 min for screen reader session
+This will be the last thing I’ll have you show me - imagine you wanted to learn about any options you have to get the VA to pay for school, either for yourself or your dependent. How would you do that?
 
 ## Post-Task Interview - 10 minutes
 Those are all the things I wanted you to show me on the website. Thanks for going through that with me! I have just a few more questions.
