@@ -169,14 +169,14 @@ Lab and test results include the following information
 * USCDI v1 Mapping: [Problem](https://www.healthit.gov/isa/uscdi-data-class/problems#uscdi-v1) <br>
 * USCDI mapping concerns: v1 has only 1 data element: Problems
 
-|Data field       | Description          | Suggested label | USCDI v1 data element mapping | Notes             | Questions           |
-|:------------------------|:-----------------------|:-----------------------|:-----------|:-------------------|:---------------------|
-|Issue/problem title |Name of the health condition | Health condition | [Problems](https://www.healthit.gov/isa/uscdi-data-class/problems#uscdi-v1) |
-|Date/time entered | | |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)| |Why is time important here? Can we display only date?|
-|Status | | |_None_| |Are the only options active and inactive?|
-|Location where the issue was entered |Name of facility |Location |_None_| |Is this field only necessary for the user to associate it with a specific appointment they had? What if it were a telehealth appt?|
-|Provider's name | |Provider |_None_|
-|Comments |Comments entered by provider |Provider notes |_None_|
+|Data field       | Suggested label | USCDI v1 data element mapping | Notes             | Questions           |
+|:------------------------|:-----------------------|:-----------|:-------------------|:---------------------|
+|Issue/problem title | Health condition | [Problems](https://www.healthit.gov/isa/uscdi-data-class/problems#uscdi-v1) |
+|Date/time entered | |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)| |Why is time important here? Can we display only date?|
+|Status | |_None_| |Are the only options active and inactive?|
+|Location where the issue was entered |Location |_None_| |Is this field only necessary for the user to associate it with a specific appointment they had? What if it were a telehealth appt?|
+|Provider's name |Provider |_None_|
+|Comments |Provider notes |_None_|
 
 ### Vitals
 
