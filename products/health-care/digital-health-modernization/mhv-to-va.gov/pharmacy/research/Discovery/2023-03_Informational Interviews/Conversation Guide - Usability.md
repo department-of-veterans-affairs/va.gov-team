@@ -55,7 +55,7 @@ Before we dig into some detailed questions, I will start with general questions,
 
 - How are AVS and PVS used today for Veterans and Clinians? 
 - How can AVS and PVS help Veterans to have a better experience in their medication management journey? 
-- Is there any legal requirement or policy about medication data we have to show in AVS and PVS? 
+- Is there any legal requirement or policy about AVS and PVS we have to show for medication data on VA.gov? 
 
 
 ### Closing
