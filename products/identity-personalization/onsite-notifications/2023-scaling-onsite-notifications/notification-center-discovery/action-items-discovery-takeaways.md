@@ -45,3 +45,9 @@ Last updated: March 21, 2023
 
 ## Outstanding Questions
 
+- Is "Notifications" the right name for this feature? Should we still consider something like "Alerts" to avoid confusion with profile notification settings?
+- Should we show a certain number of notifications on My VA and provide a link to a "view all" page? How many notifications would that be if so?
+- Where should notifications be surfaced within the navigation of VA.gov? 
+- How should we indicate that a user has new notifications in the navigation, on My VA, and in the notification center (if we create opt to create one)?
+- Do notifications need to be coded so that they disappear from My VA (and/or a notification center) once they are no longer relevant? (Example: an upcoming appointment that has passed; a message that has been read)
+- Should actionable notifications be surfaced before newer notifications that may be more informative, or should they always go in chronological order?
