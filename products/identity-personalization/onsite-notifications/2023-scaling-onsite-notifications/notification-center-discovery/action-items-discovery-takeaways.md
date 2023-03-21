@@ -1,6 +1,6 @@
 # 2023 Scaling On-site Notifications: Action Items Discovery Takeaways
 
-Last updated: March 20, 2023
+Last updated: March 21, 2023
 
 ## Key takeaways from comparative analysis
 
@@ -26,9 +26,10 @@ Last updated: March 20, 2023
 
 [Tressa's 2021 My VA - Action Items Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md)
 
-- Tested both My VA and a high fidelity prototype of an action items page on mobile only
+- Tested a high fidelity prototype of My VA with a link to an alerts page at the top and an alerts page on mobile only
 - The "alerts" use the gray card component that we currently use within sections
-- 
+- Prototype also had an "Alerts" link added to the mobile nav (not in hamburger nav) with a red dot to indicate new alerts
+  - <img width="414" alt="Screenshot 2023-03-21 at 10 22 58 AM" src="https://user-images.githubusercontent.com/97965610/226636253-24bd9be2-4f30-462e-94da-413b389e5e11.png">
 - > All users mentioned redundancy as a welcomed and important feature.
   - This supports our hypothesis that having notifications for things that are present elsewhere on My VA is OK and welcomed.
 - > 5 out of 8 users mentioned perceiving the categories of alerts would be helpful (like on the homepage or on My VA). 3 out of 8 mentioned wanting the ability to customize what alerts they see on their alerts page. This included the ability to filter alerts by category or date.
@@ -41,4 +42,6 @@ Last updated: March 20, 2023
   - We may not need to do any additional research on this since we have these findings and we are limited by what's available from VA Notify anyway
 - > Pick a title. I recommend naming this feature either 'Notifications' or 'Alerts'. We need to align with the similarly titled 'Notification Preferences' feature, as that will be built and launched first.
   - This is still an outstanding question even though we've gone with "notifications" for now. 
+
+## Outstanding Questions
 
