@@ -20,8 +20,9 @@ My VA's top priorities:
 
 For more details, see [Onsite Notification Criteria](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications#onsite-notification-criteria).
 
-### Questions
+### Questions to Consider
 
-1. **Is the notification in question a confirmation or success message?** If yes, not a good candidate for an onsite notification. If no, proceed to question 2.
-2. **Is the notification in question personalized to the user? (i.e. it is not a general blast/blanket announcement)** If not, this is not a good candidate for an onsite notification. However, is it actionable? _May still be worth a conversation._ If yes (it is personalized), this is a candidate for onsite notifications.
-3. **For the non-personalized, but still actionable, notification in question - is it a high priority status update?** If yes, this is a good candidate for an onsite notification. If not, not a good candidate.
+1. **Is the notification in question a confirmation or success message?**
+2. **Is the notification in question personalized to the user? (i.e. it is _not_ a general blast/blanket announcement)**
+3. **Is the notification actionable?**
+4. **If non-personalized and non-actionable, is the notification in question a high priority status update?**
