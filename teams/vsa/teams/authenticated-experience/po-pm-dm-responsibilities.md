@@ -30,6 +30,7 @@
 - Connecting dots between our work and work across OCTO 
   - This is a shared responsibility between PO & PM. The PM should serve as a critical set of eyes and ears for the team, and should be able to spot and bring up relevant dependencies, blockers, and issues that would affect our work.
 - Collaborating with other VA.gov teams and PMs 
+- Running and managing sprint ceremonies, or dividing this responsibility with delivery manager
 - Maintaining team documentation
 
 ## Delivery manager responsibilities
@@ -38,5 +39,5 @@
 
 - Writing tickets
 - Validating work
-- Running sprint ceremonies
+- Dividing running/managing of sprint ceremonies with PMs, if applicable
 - Managing team onboarding
