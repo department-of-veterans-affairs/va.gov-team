@@ -1,8 +1,8 @@
 # Onsite Notifications In-take Process
 
-This document serves as an overview of the in-take process (in partnership with VA Notify) for new onsite notifications on My VA. This assumes VA Notify has already evaluated that a candidate already meets criteria to be a notification of _some kind._
+This document serves as an overview of the in-take process (in partnership with VA Notify) for new onsite notifications on My VA. This assumes VA Notify has already evaluated that a candidate meets criteria to be a notification of _some kind._
 
-## General Process
+## General Process Overview
 
 1. Team A comes to VA Notify to work with them on establishing email and/or text notification.
 2. Team A works with VA Notify through their existing intake and discovery process.
@@ -18,11 +18,14 @@ My VA's top priorities:
 - Action items: requires a veteran to do somehting in order to advance a process (or prevent a process from stalling)
 - Communicate high-priority benefit status/updates that don't necessarily require action
 
-For more details, see [Onsite Notification Criteria](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications#onsite-notification-criteria).
+For more details, see [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications#onsite-notification-criteria).
 
-### Criteria
+### Onsite Notifications Criteria 
 _Criteria assumes all notifications are personalized to the user (i.e. no blasts or blanket announcements._
 
 1. **Is the notification in question a confirmation or success message?**
 2. **Is the notification actionable?**
 3. **If not-actionable, is the notification in question a high priority status update?**
+
+### VA Notify Technical Criteria
+...
