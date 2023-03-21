@@ -48,10 +48,10 @@ My responsibilities to the customer:
 My responsibilities to the team:
 
 2. Facilitator of Scrum:
-- Ensure all scrum events take place and are positive, productive and within the timebox
+- Ensure all scrum events take place and are positive, productive and within the timebox (work closely with Product to tag team this effort, DM does not have to faciliate all ceremonies)
 - Help team focus priorities set by Product
 - Conduct Sprint capacity planning to provide estimates for how much work the team can take on each sprint.
-- Facilitate collaborations and meetings with stakeholders as needed (work closely with Product to tag team this effort, DM does not have to faciliate all ceremonies)
+- Facilitate collaborations and meetings with stakeholders as needed (much of this is currently handled by Product, but the DM can also assist)
 
 3. Impediment Remover:
 -	Address issues and blocks within team, cross-teams, etc. as needed (much of this is currently handled by Product, but the DM can also assist)
@@ -71,6 +71,6 @@ My responsibilities to the team:
 - Encourage and facilitate continuous improvement to streamline the team’s effectiveness and processes 
 
 6. Other tasks / shared tasks
-- Assist with creeating tickets
+- Assist with creating tickets
 - Assist with validating work
 - Assist with Product tasks, if backfill needed
