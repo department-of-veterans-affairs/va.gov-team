@@ -82,7 +82,7 @@ These sessions will be remote via zoom.
 ### 
 **Research materials**
 
-Link to conversation guide
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/rx-post-launch/conversation-guide.md)
 
  
 **Recruitment approach**
