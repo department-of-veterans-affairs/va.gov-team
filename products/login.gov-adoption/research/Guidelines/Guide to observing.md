@@ -47,5 +47,5 @@ This guide is based:
 
 ## After the session
 
-* After the session, write your top 3-5 key takeaways in Mural if you haven't already. This might be something you find interesting, insightful or surprising.
+* After the session, write your top 3-5 key takeaways in Mural. This might be something you find interesting, insightful or surprising.
 * Feel free to reach out to the researcher if you need to debrief further.
