@@ -46,7 +46,7 @@ Remote via Zoom
 [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/UAT/conversation-guide.md)
 
 ## Recruitment
-Perigean will perform recruiting for a total of 18 participants. Before recruitment begins, a meeting is needed between Perigean and Florence to get on the same page.
+Perigean will perform recruiting for a total of 21 participants. Before recruitment begins, a meeting is needed between Perigean and Florence to get on the same page.
 
 ### Recruitment criteria
 We will aim for at least **5 completed sessions** for each user type:
@@ -54,7 +54,7 @@ We will aim for at least **5 completed sessions** for each user type:
 * LOA3 (ID.me or Login.gov) user that is eligible for direct deposit for comp & pen but hasn't set it up yet (LOA3 user B)
 * LOA3 (ID.me or Login.gov) user that is eligible for direct deposit for comp & pen and has set it up (LOA3 user C)
 
-**To get at least 5 completed sessions for each of the above user types, we'll recruit 6 of each for a total of 18 users.**
+**To get at least 5 completed sessions for each of the above user types, we'll recruit 7 of each for a total of 21 users.**
 
 The following use cases will not be specifically recruited for, and we'll roll in their testing as part of testing with other user types:
 * Logged out user
@@ -97,7 +97,7 @@ What dates do you plan to do research?
 - Tentative: April 2023
 
 ### Length of sessions
-1 hour-long session for all participants 
+45 minute session for all participants 
 
 ## Team Roles	
 - Moderator: Florence McCafferty, florence.mccafferty@agile6.com
