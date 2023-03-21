@@ -48,7 +48,7 @@ _My responsibilities to the customer:_
 _My responsibilities to the team:_
 
 2. Facilitator of Scrum:
-- Ensure all scrum events take place and are positive, productive and within the timebox (work closely with Product to tag team this effort, DM does not have to faciliate all ceremonies)
+- Ensure all scrum events take place and are positive, productive and within the timebox (work closely with Product to tag team this effort, DM does not have to facilitate all ceremonies)
 - Help team focus priorities set by Product
 - Conduct Sprint capacity planning to provide estimates for how much work the team can take on each sprint
 - Facilitate collaborations and meetings with stakeholders as needed (much of this is currently handled by Product, but the DM can also assist)
