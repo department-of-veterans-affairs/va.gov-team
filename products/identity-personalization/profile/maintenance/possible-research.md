@@ -1,42 +1,46 @@
 # Profile: potential research
 
-Last updated: July 14, 2022
+Last updated: March 21, 2023
 
 This document serves to capture smaller updates we've made to profile that don't warrant their own research study, but should be evaluated as we have the opportunity in larger studies.
 
-## Improving clarity of content for email addresses
+## Profile wide
 
-- **Release date**: 9/18/21
-- **Impacted pages:** personal and contact information
-- **Device:** mobile or desktop
-- GH issue [28425](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28425)
+### Test left nav, now that it's grown and we have more items
 
-### Research questions
-
-- Do people understand the difference between sign-in and contact email addresses?
-- Do people hesitate to update/remove their contact email address because they think they won't be able to sign in?
-
-## Test left nav, now that it's grown and we have more items
-
-- **Release date**: notification settings to be added Nov 2021
+- **Release date**: notification settings were added in Nov 2021
 - **Impacted pages:** profile 
 - **Device:** mobile or desktop
 
-### Research questions
+#### Research questions
 
 - Are people able to easily navigate profile using the side nav?
 - Do the navigation labels make sense to people?
 - Do we need to think about grouping some labels?
 - More to come...
 
-## Adding DD214 link
+### Learn how our new "update info as sub-task pattern" works for people
 
-- **Release date**: TBD
-- **Impacted pages:** military history
+This was incorporated in the code-pen prototypes for [notification settings research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023), but it would be helpful to get another round of research to validate it when people are on the actual website.
+
+#### Research questions
+- Do people understand the update was made if we continue using the background only alert banner?
+- Does this work across different parts of profile (I think we only currently have a use case for it for contact info > notification settings)?
+- Does this pattern work for updating profile information in the middle of a form flow?
+
+## Contact information
+
+### Improving clarity of content for email addresses
+
+- **Release date**: 9/18/21
+- **Impacted pages:** personal and contact information
 - **Device:** mobile or desktop
-- GH Issue [#11053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11053)
+- GH issue [28425](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28425)
 
-### Research questions
+#### Research questions
 
-- Is it helpful to people to have this link?
-- Is this sufficient?
+- Do people understand the difference between sign-in and contact email addresses?
+- Do people hesitate to update/remove their contact email address because they think they won't be able to sign in?
+
+## Military information
+TBD
