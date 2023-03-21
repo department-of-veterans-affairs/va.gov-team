@@ -68,6 +68,7 @@ My responsibilities to the team:
 5. Change agent
 - Encourage experiments
 - Shield and advocate for team (handled on an account level)
+- Encourage and facilitate continuous improvement to streamline the team’s effectiveness and processes 
 
 6. Other tasks / shared tasks
 - Assist with creeating tickets
