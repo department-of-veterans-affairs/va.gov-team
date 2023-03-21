@@ -30,3 +30,6 @@
 
 ## Delivery manager responsibilities
 
+- Assist the team's product managers as needed
+- Run sprint ceremonies
+- Manage team onboarding
