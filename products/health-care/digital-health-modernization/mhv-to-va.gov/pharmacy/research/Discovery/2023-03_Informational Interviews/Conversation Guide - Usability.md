@@ -44,8 +44,11 @@ Before we dig into some detailed questions, I will start with general questions,
 ## Design
 
 - What are the biggest user pain points? 
-- What are the biggest pain points of clinicians with their patients using MHV pharmacy or any other medications? 
-- What accessibility issues are you aware of that exist in the way MHV pharmacy functionality works today?
+- What are the biggest pain points of clinicians with their patients using <>? 
+- What accessibility issues are you aware of that exist in the way <> functionality works today?
+- What are the functionalities the app currently provides and plan to in the future? 
+- Can you send us any user research and usability testing reports on <>?
+
 
 ## AVS & PVS
 
