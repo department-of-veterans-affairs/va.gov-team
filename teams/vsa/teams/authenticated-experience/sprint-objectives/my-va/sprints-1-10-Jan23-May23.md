@@ -270,6 +270,12 @@ This assumes all work was done from last sprint, and we were able to kickoff UAT
 
 - On hold
 
+### General
+
+**PM/DM**
+
+- Review list of PO/PM/DM responsibilities and update as necessary #55499
+
 ## Sprint 8 (4/12 - 4/25)
 [#51095](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51095)
 
