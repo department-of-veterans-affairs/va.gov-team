@@ -85,6 +85,14 @@ Response options: DS Logon, MyHealtheVet, Login.gov, ID.me, None of the above
 - If participant answers **only** DS Logon or MyHealtheVet, they are disqualified.
 - If participant's answer includes either (or both) Login.gov or ID.me, they are qualified.
 
+**Eligibility for direct deposit screener question**
+
+Select all that are true for you:
+- I regularly receive a check in the mail from the VA. (qualifies participant as user B)
+- I regularly receive direct deposits into my bank account from the VA. (qualifies participant as user C)
+- I currently receive VA benefits, but not in the form of check or deposit. (qualifies participant as user A)
+- None of the above is true for me. (qualifies participant as user A)
+
 ### Research sessions
 What dates do you plan to do research? 
 - Tentative: April 2023
