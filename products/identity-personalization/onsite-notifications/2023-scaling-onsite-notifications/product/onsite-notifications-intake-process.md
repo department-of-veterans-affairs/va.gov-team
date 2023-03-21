@@ -1,6 +1,6 @@
 # Onsite Notifications In-take Process
 
-This document serves as an overview of the in-take process (in partnership with VA Notify) for new onsite notifications on My VA.
+This document serves as an overview of the in-take process (in partnership with VA Notify) for new onsite notifications on My VA. This assumes VA Notify has already evaluated that a candidate already meets criteria to be a notification of _some kind._
 
 ## General Process
 
