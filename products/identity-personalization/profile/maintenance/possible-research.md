@@ -2,7 +2,7 @@
 
 Last updated: March 21, 2023
 
-This document serves to capture smaller updates we've made to profile that don't warrant their own research study, but should be evaluated as we have the opportunity in larger studies.
+This document serves to capture smaller updates we've made to profile that probably don't warrant their own research study, but should be evaluated as we have the opportunity in larger studies.
 
 ## Profile wide
 
