@@ -1,6 +1,6 @@
 # Authenticated experience at a glance
 
-**Last updated: January 23, 2023**
+**Last updated: March 21, 2023**
 
 ## Where to find us 
 
@@ -24,6 +24,7 @@
 |Angela Agosto|	Designer|	angela.agosto@adhocteam.us|
 |Allison Lu | FE Engineer| allison@cityfriends.tech |
 |Adam Whitlock | FE Engineer |adam.whitlock@adhocteam.us|
+|Derrick Ellerbie| Full Stack Engineer|Derrick.ellerbie@Agile6.com|
 |Tom Harrison| BE Engineer | tom.harrison@adhocteam.us|
 
 ## [Roadmaps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience/roadmap)
