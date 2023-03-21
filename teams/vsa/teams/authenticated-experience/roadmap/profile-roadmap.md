@@ -1,32 +1,30 @@
 # VA.gov profile roadmap
 
-**Last updated: February 2, 2023**
+**Last updated: March 21, 2023**
 
 ## Current projects & enhancements
 
 |Project|Status|
 |----|----|
-|Notification preferences: Integration MHV prefs| Planning |
 |Accessibility audit| FE build |
-|Notification preferences: Adding email as a channel| Research|
-|Direct deposit for comp & pen EVSS > Lighthouse migration| Discovery|
-
+|Direct deposit for comp & pen EVSS > Lighthouse migration| Build|
+|Notification preferences: Adding email as a channel| On hold -- waiting for team bandwidth to open up|
 
 ### Projected timelines for current projects & enhancements
 
 Quarters are by calendar year, not fiscal year.
 
-|Project| Q4 2022| Q1 2023|Q2 2023|Q3 2023|Q4 2023|
-|----|----|----|----|----|----|
-|**Notification preferences: Integration MHV prefs**| Define needs with MHV |VA Profile intake; Determine next steps|TBD|TBD|TBD|
-|**Accessibility audit and updates**| Design & frontend build |Frontend to finish last updates|-|-|-|
-|**Notification preferences: Adding email as a channel**| - |Research & finalizing design|TBD|TBD|TBD|
-|**Direct deposit for comp & pen EVSS > Lighthouse migration**| - |Discovery| BE build|Launch|-|-|
+|Project| CYQ1 2023|CYQ2 2023|CYQ3 2023|CYQ4 2023|
+|----|----|----|----|----|
+|**Accessibility audit and updates**|Frontend to finish last updates|-|-|-|
+|**Notification preferences: Adding email as a channel**|Research & finalizing design|Discovery; build|Targeted launch|-|
+|**Direct deposit for comp & pen EVSS > Lighthouse migration**|Discovery| BE build|Launch|-|
 
 ## Completed projects & enhancements
 
 |Project or enhancement|Launch/Completion date|
 |----|----|
+|[Semantic list improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19618)|March 2023|
 |[Account Security: Update designs to support 508 updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51085)|Launched February 2, 2023|
 |[Personal Info page: Add full name and disability rating fields](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49651)| Launched January 19, 2023|
 |[Add BVS status update notification preference](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47441)|Live to 100% December 19, 2022|
