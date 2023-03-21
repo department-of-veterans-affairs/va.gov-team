@@ -186,14 +186,14 @@ Note: USCDI also includes 3 vitals for babies and children: BMI (2-20 years), we
 
 |Vital sign       | Suggested label           | USCDI v1 data element mapping | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
-|Blood pressure | |[Systolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/836/uscdi-v1)|||
-|Blood pressure | |[Diastolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/831/uscdi-v1)| | |
-|Respiration| |[Respiratory rate](https://www.healthit.gov/isa/taxonomy/term/856/uscdi-v1)| | |
-|Temperature | |[Body temperature](https://www.healthit.gov/isa/taxonomy/term/861/uscdi-v1)| | |
-|Height| |[Body height](https://www.healthit.gov/isa/taxonomy/term/841/uscdi-v1)| | |
-|Weight | |[Body weight](https://www.healthit.gov/isa/taxonomy/term/846/uscdi-v1)| | |
-|Pulse oximetry | |[Pulse oximetry](https://www.healthit.gov/isa/taxonomy/term/866/uscdi-v1)| | |
-|Pain||_None_|
+|Blood pressure |Blood pressure |[Systolic blood pressure]Diastolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/831/uscdi-v1)(https://www.healthit.gov/isa/taxonomy/term/836/uscdi-v1)|||Do we receive BP data as 1 field or 2?|
+|Respiration|Breathing rate|[Respiratory rate](https://www.healthit.gov/isa/taxonomy/term/856/uscdi-v1)| | |
+|Pulse rate|Heart rate|[Heart rate](https://www.healthit.gov/isa/taxonomy/term/851/uscdi-v1)|
+|Temperature |Temperature |[Body temperature](https://www.healthit.gov/isa/taxonomy/term/861/uscdi-v1)| | |
+|Height|Height|[Body height](https://www.healthit.gov/isa/taxonomy/term/841/uscdi-v1)| | |
+|Weight |Weight |[Body weight](https://www.healthit.gov/isa/taxonomy/term/846/uscdi-v1)| | |
+|Pulse oximetry |Blood oxygen level |[Pulse oximetry](https://www.healthit.gov/isa/taxonomy/term/866/uscdi-v1)| | |
+|Pain|Pain level|_None_|
 | | |[Inhaled oxygen concentration](https://www.healthit.gov/isa/taxonomy/term/871/uscdi-v1)|Not currently included in MHV | |
 | | |BMI Percentile (2-20 years)|Not currently included in MHV | |
 |||Weight-for-length Percentile (Birth - 36 Months)|Not currently included in MHV | |
