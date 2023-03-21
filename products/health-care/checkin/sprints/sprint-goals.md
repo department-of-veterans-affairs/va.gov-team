@@ -47,9 +47,12 @@ ________________________________________________________________________________
       - [Research] Analyze GA Metrics
       - [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55090)
 - **GOAL: Address tech & design debt** 
+   - **NOTE: Only work on debt if all other engineering work is complete**
+   - **Sub Goal: Prepare for other applications using vets-api**
+      - [[SPIKE] [BE] How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
    - **Sub Goal: Resolve questions about error pages**
       - [[SPIKE] [FE] Answer remaining questions around "error=no-token"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55097)
-         - Only work on this if all other engineering work is complete and we still have time in the sprint
+          
 
 ## 3/8/2023 - 3/21/2023 
 
