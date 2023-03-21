@@ -171,6 +171,19 @@ These two screenshots show how the additional info components are the most popul
 
 **Can Veterans access their decision letter about the Caregiver program?** Still researching this.
 
+**What pages lead into the 1010CG form? Where do people filling it out come from?**
+
+![225982364-96f5b4f6-0b60-4a54-b5c8-a53a15735c9c](https://user-images.githubusercontent.com/1473618/226648672-fc7e9097-8238-4e29-9dcf-888413d42bbc.png)
+
+From [Heather's research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38119#issuecomment-1474209633). This image shows that the top pages are:
+
+1. https://va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/i - 18,000 unique visits
+2. https://va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/vet-3-json 14,000 unique visits
+3. https://caregiver.va.gov/ 2,100 unique visits
+4. https://caregiver.va.gov/support/support_benefits.asp 1,800 unique visits
+
+These are the preceding pages to the application from the past year to date, numbers rounded in unique visits. More exist, but listed the ones that got the most traffic.
+
 ## Other ideas considered
 
 Idea: Add content to the page informing users they only need to enter Caregivers again if it's a new caregiver or they're changing the caregiver. This could solve the duplicative data issue, but puts the burden on the Veteran/Caregiver to read that information, understand it and follow it.
