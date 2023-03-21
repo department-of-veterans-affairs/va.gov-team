@@ -17,7 +17,7 @@
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|Anastasia (AJ) Jakabcin |Product Manager -- My VA team| ana@adhocteam.us |
+|Anastasia (AJ) Jakabcin |Product Manager -- My VA & onsite notifications portfolio| ana@adhocteam.us |
 |Berni Xiong | Delivery manager | berni.xiong@agile6.com |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
 |Florence McCafferty| Designer | Florence.McCafferty@agile6.com |
