@@ -39,6 +39,7 @@ ________________________________________________________________________________
        - [[UX] Initial prototype tasks for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)
        - [[UX] [Research] Create research plan for moderated research study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)      
        - [[UX] [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964)      
+       - [[Design] Remove dupes and organize symbols in unified experience sketch file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55456)
        - Complete research review section of collab cycle ticket   
    - **Sub Goal: Analyze current metrics to see what they tell us**
       - [Research] Analyze GA Metrics
