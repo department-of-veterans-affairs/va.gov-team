@@ -27,8 +27,9 @@ Before we dig into some detailed questions, I will start with general questions,
 - Can you tell me a bit about what you work on for MHV pharmacy (or other medication related tools)? 
 - What tasks do Veterans use MHV pharmacy or other medication tools to complete most often today? 
 - What feedback have you heard about the MHV pharmacy or other medication tools functionality today from users, or from VA staff?
-- Are caregivers considered as a user group? 
-- Are there any functionality on MHV pharmacy or other medication related tools for CHAMPVA patients only? 
+- For the previous research or usability testings you have done, did you speak with Veterans and caregivers? 
+
+## Product functionality
 
 - How do Veterans access their medication data today?
 - What actions can Veterans take on their medication list today (e.g., request a refill)?
@@ -38,10 +39,25 @@ Before we dig into some detailed questions, I will start with general questions,
   - For medications that are expiring and being discontinued
 - How do Veterans request changes to their medication list or add medications in the EMR that aren’t showing up on their medication list?
 - What are the use cases for Veterans to review and download data for medications that they are no longer taking, or that have been discontinued, expired, or otherwise deactivated?
-- Do CHAMPVA patients use medication same 
+- Is there any functionality on MHV pharmacy or other medication related tools for CHAMPVA patients only? 
+
+## Design
+
+- What are the biggest user pain points? 
+- What are the biggest pain points of clinicians with their patients using MHV pharmacy or any other medications? 
+- What accessibility issues are you aware of that exist in the way MHV pharmacy functionality works today?
+
+## AVS & PVS
+
+- How are AVS and PVS used today for Veterans and Clinians? 
+- How can AVS and PVS help Veterans to have a better experience in their medication management journey? 
+- Is there any legal requirement or policy about medication data we have to show in AVS and PVS? 
+
 
 ### Closing
 
+- What are the constraints of medication data you're aware of we should know about? 
+- What about legal or policy-based constraints? 
 - What do you think the biggest challenges are for medication?
 - What changes do you think would improve Veterans' pharmacy experience?
 - If you could change any one thing about MHV pharmacy right now, what would it be?
