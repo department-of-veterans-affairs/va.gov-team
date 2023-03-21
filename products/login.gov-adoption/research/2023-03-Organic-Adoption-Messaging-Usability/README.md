@@ -10,6 +10,8 @@ This initiative focuses on one migration pathway: the organic adoption of Login.
 
 This study is part of a staged rollout plan. The [research overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research) has more details on what is upcoming and related.
 
+We're interested in testing this in mobile, because it's an identified gap (and commonly used for VA applications) and we hypothesize the length of the content could be a problem on mobile.
+
 ## Research Goals
 
 - Review whether Veterans are motivated to set up a Login.gov account based on messaging
