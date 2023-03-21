@@ -22,6 +22,7 @@ ________________________________________________________________________________
          - [[FE] Remove the Error Handling from BTSSS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54281)
          - [[TEXT SOLUTION] [FE][BE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
          - [[BE] Text Veteran when Travel Claim Submitted to BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54348)
+            - This one mostly likely will be broken up into multiple tickets
       - Prepare for release
          - [[UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54029)
          - [Recheck GA Events due to text solution change ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53966)      
