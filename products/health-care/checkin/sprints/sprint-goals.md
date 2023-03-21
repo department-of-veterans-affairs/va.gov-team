@@ -35,23 +35,26 @@ ________________________________________________________________________________
       - PAUSED: We have a meeting with the VeText folks on 4/3 to discuss their part
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
        - [SPIKE: [FE] [BE] Explore Architecture Changes Necessary to Support Unified Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55019)
+       - [[UX] Pull in additional screens that need to be updated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54810)
        - [[UX] Update the wireframes that were identified in 54750](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54810)
        - [[UX] Initial prototype tasks for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)
        - [[UX] [Research] Create research plan for moderated research study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)      
        - [[UX] [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964)      
        - [Add in user flow components for the alternative path wireframes in unified experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55460)
-       - [[Design] Remove dupes and organize symbols in unified experience sketch file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55456)
-       - [[SPIKE] [Design] Best method to document specifications to engineers])(https://github.com/department-of-veterans-affairs/va.gov-team/issues/55457)
+       - [[Design] Remove dupes and organize symbols in unified experience sketch file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55456)          - [[SPIKE] [Design] Best method to document specifications to engineers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55457)
+       - [[SPIKE] [Design] Best method to document specifications to engineers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55457)
        - Complete research review section of collab cycle ticket   
    - **Sub Goal: Analyze current metrics to see what they tell us**
       - [Research] Analyze GA Metrics
+      - [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54282)
       - [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55090)
 - **GOAL: Address tech & design debt** 
+   - [[Design] Change heading style in all Sketch files to use the mobile versions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55506)
    - **NOTE: Only work on debt if all other engineering work is complete**
-   - **Sub Goal: Prepare for other applications using vets-api**
-      - [[SPIKE] [BE] How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
-   - **Sub Goal: Resolve questions about error pages**
-      - [[SPIKE] [FE] Answer remaining questions around "error=no-token"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55097)
+      - **Sub Goal: Prepare for other applications using vets-api**
+         - [[SPIKE] [BE] How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
+      - **Sub Goal: Resolve questions about error pages**
+         - [[SPIKE] [FE] Answer remaining questions around "error=no-token"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55097)
           
 
 ## 3/8/2023 - 3/21/2023 
