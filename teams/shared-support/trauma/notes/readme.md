@@ -1,3 +1,8 @@
+## [March 21, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-03-21.md)
+`Big Meeting` `Strategy` `Community Guidelines`
+- Talked about how to maintain and protect our community guidelines and people
+- Discussed ways we can measure trauma informed design's impact and value
+
 ## [March 6, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-03-06.md)
 `Big Meeting` `Research Shareout` `MST`
 - Karen Cutright's part 2 of her shareout on her research on MST
