@@ -65,12 +65,12 @@ _My responsibilities to the team:_
 -	Help team members understand scrum, goals, and product backlog items
 -	Help team members as a resource on communication styles, work styles, teaming, if needed
 
-5. Change agent
+5. Change agent:
 - Encourage experiments
 - Shield and advocate for team (handled on an account level)
 - Encourage and facilitate continuous improvement to streamline the team’s effectiveness and processes 
 
-6. Other tasks / shared tasks
+6. Other tasks / shared tasks:
 - Assist with creating tickets
 - Assist with validating work
 - Assist with Product tasks, if backfill needed
