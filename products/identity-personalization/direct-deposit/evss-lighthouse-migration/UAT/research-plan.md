@@ -43,7 +43,7 @@ While sharing their screen in remote (Zoom) interviews, participants will comple
 Remote via Zoom
 
 ### Research materials
-[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/UAT/conversation-guide.md)
+[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/UAT/conversation-guide.md)
 
 ## Recruitment
 Perigean will perform recruiting for a total of 21 participants. Before recruitment begins, a meeting is needed between Perigean and Florence to get on the same page.
