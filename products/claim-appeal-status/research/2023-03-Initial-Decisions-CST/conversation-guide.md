@@ -21,7 +21,7 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Skyler and I'll be facilitating the session today.
+Thanks for joining us today! My name is Ruben and I'll be facilitating the session today.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
 Today we're going to talk about disability compensation claims in VA.gov. 
