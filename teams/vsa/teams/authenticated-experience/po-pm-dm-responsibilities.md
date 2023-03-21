@@ -35,9 +35,41 @@
 
 ## Delivery manager responsibilities
 
-**Main objective**: Assist the team's product managers as needed. This includes:
+**Main objective**: Prioritize the health and happiness of the team so that we have what we need to succeed in order to deliver value for our customer. This includes:
 
-- Writing tickets
-- Validating work
-- Dividing running/managing of sprint ceremonies with PMs, if applicable
-- Managing team onboarding
+My responsibilities to the customer:
+
+1. Program management and delivery support:
+-	Delivery and monitoring reports to VA and Agile Six
+-	Assist with recruiting, hiring, and onboarding team members
+-	Assist with high-level stakeholder relationships
+-	Attend account meetings
+
+My responsibilities to the team:
+
+2. Facilitator of Scrum:
+- Ensure all scrum events take place and are positive, productive and within the timebox
+- Help team focus priorities set by Product
+- Conduct Sprint capacity planning to provide estimates for how much work the team can take on each sprint.
+- Facilitate collaborations and meetings with stakeholders as needed (work closely with Product to tag team this effort, DM does not have to faciliate all ceremonies)
+
+3. Impediment Remover:
+-	Address issues and blocks within team, cross-teams, etc. as needed (much of this is currently handled by Product, but the DM can also assist)
+-	Understand what’s happening on the team, on the board, etc. to mitigate risks and address concerns before they become blocks 
+-	Speak on behalf of team, or escalate issues to stakeholders as needed (mostly done on an account level)
+
+4. Coach on Scrum, Self-management, etc.:
+- Mentor, coach and assist all members of team to understand product vision, desired outcomes, and achieve goal (Product, Engineering, and Design)
+-	Promote team culture and environment that is supportive, empowering, uplifting and positive
+-	Encourage wellness and self-care for all team members (work/life balance, etc.)
+-	Help team members understand scrum, goals, and product backlog items
+-	Help team members as a resource on communication styles, work styles, teaming, if needed
+
+5. Change agent
+- Encourage experiments
+- Shield and advocate for team (handled on an account level)
+
+6. Other tasks / shared tasks
+- Assist with creeating tickets
+- Assist with validating work
+- Assist with Product tasks, if backfill needed
