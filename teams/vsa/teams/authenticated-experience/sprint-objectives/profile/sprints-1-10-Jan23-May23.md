@@ -297,9 +297,18 @@ Sprint 7 Epic [#54733](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3
 
 ### Onboarding
 
-This is dependent on hiring:
-
+New PM starts on April 3rd. Some of these tickets might continue to Sprint 8 if unable to complete in this sprint.
+**PM - Travis**
 - Onboard new PM [#50955](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50955)
+
+**Profile Team - at grooming, we'll ask team member to assign themselvees to the demo/s of preferencee**
+- Personal info demo #55475
+- Contact info demo #55476
+- Military info demo #55477
+- Direct deposit demo #55478
+- Notification settings demo #55479
+- Account security demo #55480
+- Connected apps demo #55482
 
 ### Accessibility
 
