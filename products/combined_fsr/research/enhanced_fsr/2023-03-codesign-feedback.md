@@ -1,6 +1,8 @@
 
 ## Co-design Feedback Summary and Insights
-We spoke to 6 Veterans who work for the VA. Some Veterans worked directly with debt management. Veterans were asked about their service history, thoughts on debt management, and to interact with a shortened Financial Status Report form prototype.
+We spoke to 6 Veterans who work for the VA. Some Veterans worked directly with debt management. Veterans were asked about their service history, thoughts on debt management, and to interact with a shortened Financial Status Report form prototype. The Veterans we spoke to are a special sample, and not representative of the diversity of all Veterans. 
+The purpose of the interviews was to get feedback from Veterans on the FSR enhancements before launching them into a formalized usability study, and verify that the enhanced FSR design changes are ready to share in the upcoming usability study. The interviews were a conversational walk through of a design prototype. This was not a formal evaluation. 
+
 The sessions took place from 03/13/2023⁠–03/15/2023.
 
 ### The Prototype
