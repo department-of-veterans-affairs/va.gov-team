@@ -17,13 +17,15 @@
 
 ## Product manager responsibilities
 
-- Manage respectives portfolios to which they are assigned
+- Manage respectives portfolios, including tickets and backlogs, to which they are assigned
 - Convert high-level sprint plan to detailed sprint plan
-- Write tickets
-- Validate work once its complete
+- Create project and sprint epics, manage them, and close them out upon completion
+- Write tickets, in partnership with the team
+- Validate work for the team once its complete
 - Submit all work through entirety of [platform collaboration cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/), and be able to manage all steps of this process
 - Connect dots between our work and work across OCTO 
-  - This is a shared responsibility between PO & PM
+  - This is a shared responsibility between PO & PM. The PM should serve as another set of eyes and ears for the team, and should be able to spot and bring up relevant dependencies that would affect our work.
+- Collaborate with other VA.gov teams and PMs 
 - Help maintain team documentation
 
 ## Delivery manager responsibilities
