@@ -27,20 +27,21 @@ Does that all make sense, and sound okay to you? Great! Any questions before we 
 Before we dig into some detailed questions, I will start with general questions, then we go from there:
 
 - Can you tell me a bit about what you do at the Office of Pharmacy Benefits Management?
-- When I say medication data, what does that mean to you?
 - Where do you expect the complete medication data list live (on MHV and backend storage)?
 - Where do patients find their complete list of medications today?
 
 ## Requirements
 
 - Rx refill status, prescription status, refill status, what does each of them mean and how they differ from each other? 
+- What are the most important statuses for Veterans to see and why? 
 - Can Veterans expedite the refill and renewal process for urgent medications?
-- What type of medications Veterans can refill and renew online?
+- What type of medications Veterans can refill and renew online vs. onsite? 
+  - Is medication filled or renewed at the same time? If not, what's the different in time? 
 - What are the differences in requirements between medications for refills and medications for renewal?
   - Do refill and renewal have the same prescription statuses?
 - How long before medications expire or discontinue a user should be notified?
 - How long should medication data be available for on MHV? What considers start date and end date?
-- Can you list all the use cases for medication data?
+- Can you list all the use cases for medication data? (e.g. refilling, tracking, revewing)
 - What is the reason for allergies shown on the same page as medications list?
 - Is the allergies show on the medication list page medication allergies only, or all allergies?
 - What are the medication requirements for CHAMPVA patients?
