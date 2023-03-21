@@ -107,6 +107,10 @@ Questions:
 * What would happen after an update?
 * Would we need the progressive flow to make this work?
 * Do Veterans need to check this information regularly?
+* Would the Veteran have to complete their information on the application still if going this route?
+* Would this be populated since they are authenticated or would it still be manual entry?
+* Or would this be a progressive flow in that this can be filled behind the scenes?
+* What about Veteran signing?
 
 ## Duplicative data problem
 
@@ -173,9 +177,35 @@ Idea: Add content to the page informing users they only need to enter Caregivers
 
 ## Research questions
 
+Overall, this work really could benefit from some additional exploratory research:
+
+* Interviews with dyads (Veteran / Caregiver pair) to explore all of these possible directions by asking questions and maybe review content examples.
+* Timing for overall usability/facilities study so we can use those findings to build off of here.
+
+
 A list of potential, future research questions to ask people that would help with this work:
 
 1. Better understanding the user's mental model on the caregiver levels/names : Do Veterans/Caregivers refer to the Primary / Secondary terms or do they think about the caregivers collectively as a team supporting the Veteran? Is the primary/secondary terms more of a program/business requirement?
 2. The introductory page information : What information is most important here for users?
 3. Updates : How would Veterans want to update their caregivers?
 4. Updates :How often do Veterans update their caregivers? (maybe get this from data)
+
+---
+
+## Reference material
+
+From: https://www.caregiver.va.gov/support/support_benefits.asp
+
+> What services does this program offer?
+> Veterans can designate one (1) Primary Family Caregiver and up to two (2) Secondary Family Caregivers on the application. Secondary Family Caregivers serve as a backup support to the Primary Family Caregiver when needed. Services will depend on whether you are the Primary Family Caregiver or a Secondary Family Caregiver.
+
+> If you are the primary caregiver, you may receive:
+> * A monthly stipend (paid directly to you as the caregiver.)
+> * Access to health care insurance through Civilian Health and Medical Program of the Department of Veterans Affairs ([CHAMPVA](https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/index.asp)), if you do not already have health insurance.
+> * Mental health counseling.
+> * Certain beneficiary travel benefits when traveling with the Veteran to appointments. For specific details, please contact your CSP Team.
+> * At least 30 days of respite care per year, for the Veteran. Respite is short term relief for someone else to care for the Veteran while you take a break.
+
+> If you are the secondary caregiver, you may receive:
+> * Mental health counseling.
+> * Certain [beneficiary travel benefits](https://www.va.gov/health-care/get-reimbursed-for-travel-pay/) when traveling with the Veteran to appointments. For specific details, please contact your local [CSP Team](https://www.caregiver.va.gov/support/New_CSC_Page.asp).
