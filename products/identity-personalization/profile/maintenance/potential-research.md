@@ -6,19 +6,6 @@ This document serves to capture smaller updates we've made to profile that proba
 
 ## Profile wide
 
-### Test left nav, now that it's grown and we have more items
-
-- **Release date**: notification settings were added in Nov 2021
-- **Impacted pages:** profile 
-- **Device:** mobile or desktop
-
-#### Research questions
-
-- Are people able to easily navigate profile using the side nav?
-- Do the navigation labels make sense to people?
-- Do we need to think about grouping some labels?
-- More to come...
-
 ### Learn how our new "update info as sub-task pattern" works for people
 
 This was incorporated in the code-pen prototypes for [notification settings research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023), but it would be helpful to get another round of research to validate it when people are on the actual website.
