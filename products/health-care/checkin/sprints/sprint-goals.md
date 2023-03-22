@@ -5,18 +5,15 @@ ________________________________________________________________________________
 ## 3/22/2023 - 4/4/2023 -------------------------- TENTATIVE / FUTURE ----------------------
 
 #### SPRINT GOALS
-- **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
 - **GOAL: Make submission of a travel reimbursement claim easier**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
+- **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
 - **GOAL: Address tech & design debt** 
 
 #### PLANNED RELEASES 
 - None
 
 #### SPRINT TICKETS
-- **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
-   - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
-      - [![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] Remove Feature Flag checkInExperienceUpdatedApptPresentation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55515)      
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
       - Implement text solution for BTSSS latency             
@@ -48,6 +45,9 @@ ________________________________________________________________________________
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
       - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54282)
       - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55090)
+- **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
+   - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
+      - [![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] Remove Feature Flag checkInExperienceUpdatedApptPresentation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55515)  
 - **GOAL: Address tech & design debt** 
    - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Clicked on details link after 15 mins past appt time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53862)
    - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Design] Change heading style in all Sketch files to use the mobile versions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55506)
