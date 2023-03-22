@@ -215,16 +215,16 @@ Great. Let's click 'continue.'
 - Any concerns?
 - If there was an issue on this page, what would you do?
 
-Great, thanks. Today, we're going to imagine that you choose to 'set up text or voice message.' We'll continue and set that up.
+Great, thanks. You can go ahead and choose [whichever option they lean towards, or, suggest text message]. We'll continue and set that up.
 
-> *Screen: Text message MFA set up*
+> *Screen: MFA set up screen(s)*
 
 - What would you do next?
 - What do you think will happen if we click 'send code'?
 - Any concerns?
 - If there was an issue on this page, what would you do?
 
-Great. Let's click 'send code,' and imagine you are sent a code.
+Great. [If applicable: Let's click 'send code,' and imagine you are sent a code.]
 
 > *Screen: Enter your security code*
 
@@ -273,14 +273,6 @@ Great. Let's click 'agree and continue.'
 
 Great. Let's click 'agree and continue.'
 
-> *Screen: VA is using Login.gov*
-
-- What does this screen mean to you?
-- What do you expect to happen next?
-- If there was an issue on this page, what would you do?
-
-Great. Let's click 'continue.'
-
 > *Screen: (Back on VA.gov) You've successfully signed in with Login.gov
 
 Okay. Before we talk about this screen, I'd like to reflect on what just happened.
@@ -299,7 +291,6 @@ I'm going to give you a second to read this screen now. Then, I'd like you to su
 Now, you'll remember that when we started today, we imagined you were online to [reference the task they're doing today on VA.gov]. 
 
 - Do you have any concerns about your ability to [do that task] now?
-- If you logged out of the VA right now, and you needed to log back in tomorrow, how would you login? What account would you use? Why?
 
 ### Things to watch for:
 
@@ -313,11 +304,13 @@ Now, you'll remember that when we started today, we imagined you were online to 
 
 ## Task 5: Upgrade to IAL2
 
-## Task 4: Upgrade to IAL2
-
 We're nearly done today, thank you for answering so many of my questions already.
 
-Next, please close this pop-up. And we'll move on the last task.
+Next, please close this pop-up [click 'close' or anywhere outside of modal]. 
+
+> *Screen: VA.gov homepage (signed in)*
+
+Now, please click anywhere on your screen. And we'll move on the last task.
 
 > *Screen: VA.gov homepage (not signed in)*
 
@@ -337,11 +330,11 @@ I'd now like you to imagine that it's been a couple months since you set up your
 
 - What would you do here?
 
-You can go ahead and click sign in and we'll imagine that you signed in today.
+We'll imagine that you enter in your username and password, and you can go ahead and click sign in.
 
 > *Screen: Modal recommending upgrade to IAL2*
 
-Okay so you've signed using Login.gov. And now you see this screen.
+Okay, now you see this screen.
 
 - Before we read this in detail, can you describe to me what you're looking at, now?
 - Why do you think this has appeared on your screen?
