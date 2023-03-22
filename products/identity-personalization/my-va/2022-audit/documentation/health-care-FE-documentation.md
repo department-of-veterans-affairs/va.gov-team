@@ -1,5 +1,5 @@
 # My VA Health Care Frontend Documentation
-Last updated: March 14, 2023
+Last updated: March 22, 2023
 
 ## When to show the ‘Health care’ section
 We show this section for every LOA3 user.
@@ -89,15 +89,15 @@ You have no upcoming appointments to show.
 
 **Show**
 
-- If a user has unread messages in the [My HealtheVet secure messaging portal](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging).
+- If a user has unread messages in the [My HealtheVet secure messaging portal](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging).
 
 #### **Content**
 
-You have # unread messages. [Review your messages](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging)
+You have # unread messages. [Review your messages](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging)
 
 **Content specs**
 
-- The notification should contain the number of unread messages that a user has in the [secure messaging portal](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging).
+- The notification should contain the number of unread messages that a user has in the [secure messaging portal](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging).
 - If a user has multiple unread messages, the word "messages" should appear as plural.
 - If a user has one unread message, the word "message" should appear as singular.
 
@@ -134,7 +134,7 @@ Your care team may now use our new My VA Health portal. Choose your portal based
 
 For (**Health care facility name**), (**Health care facility name**), or (**Health care facility name**): [Use My VA Health (opens in new tab)](https://patientportal.myhealth.va.gov/clear-session?to=https%3A%2F%2Fstaging-patientportal.myhealth.va.gov%3Fauthenticated%3Dtrue)
 
-For **any other VA health facility:** [Use My HealtheVet](https://mhv-syst.myhealth.va.gov/mhv-portal-web/home)
+For **any other VA health facility:** [Use My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)
 
 If you have trouble accessing the portal, make sure to disable your pop-up blocker. If you’re prompted to sign in again, use the same account you used to sign in to VA.gov.
 
@@ -183,7 +183,7 @@ Use font awesome icon `comments` for icon
 
 #### Content
 
-[Send a secure message to your health care team](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging)
+[Send a secure message to your health care team](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging)
 
 ---
 
@@ -220,7 +220,7 @@ Use font awesome icon `prescription-bottle` for icon
 
 #### Content
 
-[Refill and track your prescriptions](https://mhv-syst.myhealth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
+[Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
 
 ---
 
@@ -256,7 +256,7 @@ Use font awesome icon `file-medical` for icon
 
 #### Content
 
-[Get your VA medical records and lab and test results](https://mhv-syst.myhealth.va.gov/mhv-portal-web/download-my-data)
+[Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data)
 
 ---
 
@@ -300,15 +300,15 @@ Use font awesome icon `file-medical` for icon
 
 **Secondary links**
 - When this error shows and the user doesn't have unread messages, the following secondary links should appear on the lefthand side on desktop:
-  - [Send a secure message to your health care team](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging)
-  - [Refill and track your prescriptions](https://mhv-syst.myhealth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
+  - [Send a secure message to your health care team](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging)
+  - [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
   - [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/)
-  - [Get your VA medical records and lab and test results](https://mhv-syst.myhealth.va.gov/mhv-portal-web/download-my-data)
+  - [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data)
 
 - When this error shows and the user has unread messages, the following secondary links should appear on the righthand side on desktop:
-  - [Refill and track your prescriptions](https://mhv-syst.myhealth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
+  - [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
   - [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/)
-  - [Get your VA medical records and lab and test results](https://mhv-syst.myhealth.va.gov/mhv-portal-web/download-my-data)
+  - [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data)
 
 #### Mock-ups
 - [Desktop without messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
