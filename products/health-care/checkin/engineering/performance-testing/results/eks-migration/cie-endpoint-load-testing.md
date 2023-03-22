@@ -35,3 +35,5 @@ CIE vets-api endpoints were load tested for requests per mins as mentioned below
 - 500 Requests per Minute for 30 mins
 ![500 RPM for 30 mins](500_RPM_30mins.png)
 ![500 RPM Error Rate](500_RPM_ErrorRate.png)
+
+By comparing the latency observed in production from [here](https://vagov.ddog-gov.com/dashboard/zps-5fk-azw/check-in-vets-api?from_ts=1679357276960&to_ts=1679443676960&live=true) for CIE endpoints, there is no impact noticed in CIE endpoints from user's perspective with EKS migration.  Also, CIE APIs succeeded in responding with 200 status code without any exception from server with increase in traffic.
