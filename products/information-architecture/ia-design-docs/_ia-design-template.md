@@ -39,7 +39,7 @@
 
 
 ## <a name="nav"></a>Entry points <br>
-*A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
+*A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
 
 
 1. **[Page URL or component name]** - [Add/Modify/Remove]
