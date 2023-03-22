@@ -2,7 +2,7 @@
 - GitHub Label: 1010-team
 - Slack channel: #1010-health-apps
 - VA.gov link: https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction
-- Product POCs: Heather Justice, Mark Fallows
+- Product POCs: Heather Justice
 ---
 
 ### Table of Contents
@@ -191,6 +191,7 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 ## Resources and Documentation
 
 - Discovery and Research: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers
+- [Sketch file](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8) with wireflows and page designs (including proposals and experiments)
 
 ### Screenshots
 #### Before: 
