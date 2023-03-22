@@ -163,7 +163,7 @@ Exact dates TBD - discuss with VA & Login help desk
    <td>
 <ul>
 
-<li>(Modal) at application level after sign-in (via DSL, who don’t yet have existing ID.me or Login.gov account)
+<li>(Modal) at application level after sign-in (via DSL or MHV, who don’t yet have existing ID.me or Login.gov account)
 
 <li>Or:
 
