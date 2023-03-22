@@ -34,6 +34,48 @@ This is part of a larger initiative to move all Veteran transactions around mana
 - Have one web-based patient portal to enhance and improve for Veterans- rather than spending time and effort with other teams to do the same things in multiple places. 
 - Easily accessible and identifiable medications list will alleviate congressional and patient safety questions. 
 
+## Project Timeline & Activities
+
+### Week of 3/20 Project Kick-Off
+- OCTO & OCC roles & responsbilities 
+- OCC Teams onboarding to VA.gov
+- Develop research plan & conversation guides (Jenny, Coulton) 
+- Review draft of product outline (Kay, Lauren, Tanner, Raquel) 
+- Ensure all teams are in Slack/GH /ZH (lauren/Kay)
+- Set up agile ceremonies / meetings (Raquel/Kay) 
+
+### Weeks of 3/27, 4/2, 4/9
+- OCC Teams Onboarding to VA.gov (Raquel, Tanner, Harrison, + + + )
+- Conversations with Eric, Maureen, Margo, identified SMEs (Coulton, Jenny, Kay, Harrison) 
+- Set up weekly agile ceremonies, get meds added to Design review on Wednesdays (Raquel, Tanner, Kay, Bryan Riley)
+- Finalize comparative analysis (Jenny, Coulton, Harrison, Ryan T.) 
+
+### Week of 4/16
+- OCC Teams Onboarding to VA.gov (engineers should be setting up their dev envts) 
+- Finalze synthesis from research (Jenny, Coulton, Harrison) 
+- Develop task flows for refills, renewal, etc.  (Jenny, Harrison, with support from Tanner, Kay, Raquel) 
+
+### Week of 4/23
+- OCC Teams Onboarding to VA.gov (engineers should be setting up their dev envts)  
+- Present synthesis from research to Eric et al, OCTO/OCC Leadership group 
+- Get feedback & iterate on task flows (Jenny, Harrison, Coulton + product, SMEs)
+- Update product outline (Read me file in GH) and definition of MVP functionality requirements - (Kay, Tanner, Raquel, Lauren) 
+- Start on low-fi prototypes
+
+### Week of 4/30 
+- OCTO team may be unavailable 
+- Iteration on low-fi prototypes (Jenny, Harrison) 
+- Iteration on synthesis/submit to research repo 
+- Teams should be fully onboarded to VA.gov and get ready for design intent (Raquel, Kay, Tanner, Lauren) 
+
+### Week of 5/8 
+- Finalize low-fi prototypes
+- Finalize synthesis 
+- Finalize user flows
+- Finalize product outline
+- Finalizee MVP outline
+- Submit for design intent meeting 
+
 ---
 ## Measuring Success-TBD
 
