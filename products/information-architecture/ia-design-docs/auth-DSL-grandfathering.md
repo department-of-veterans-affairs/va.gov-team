@@ -13,8 +13,9 @@
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
+- [Risks](#risks)
 - [Redirects](#redirects)
-- [Meeting notes](#notes)
+- [Open Questions](#openQs)
 
 
 ## <a name="flows"></a>User/page flows <br>
@@ -24,7 +25,6 @@ Latest at this mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/d
 ![User voluntarily starts account transfer process online](https://user-images.githubusercontent.com/122126772/227029813-02a4b7dd-709d-41bd-be38-a5d67eaa77d7.png)
 
 ![User interrupted during online task to do optional account transfer](https://user-images.githubusercontent.com/122126772/227029830-f54c5b19-4bd0-49f0-9c7d-7cfb9e53ff55.png)
-
 
 
 ## <a name="url"></a>Page structure
@@ -46,12 +46,18 @@ Latest at this mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/d
 
 ## <a name="nav"></a>Entry points <br>
 
-1.  TBD, but probably not --> we might need to add something to the SSO page as the Sept 30th deadline approaches, but that is not getting figured out before midpoint.
+1.  TBD, but probably not --> we might need to add something to the SSO page as the Sept 30th deadline approaches.
+
+## <a name="risks"></a>Risks
+The biggest risk we should consider is how the post-login modals will work with one another and other products as the login.gov transition becomes more complex. 
+
+If there are multiple modals being triggered off of login (ex: grandafthering, organic adoption, accepting unififed terms and conditions, retiring MHV login...), we need to figure out how they should be prioritized over one another.
+
+We should also make sure to think about how users could become blind to the post-login modal if it is a constant presence for several years while the login.gov transition work is complete. How can we either make sure that doesn't happen, or mitigate the risk?
 
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
-
 
 Current URL | Redirect to | Notes
 
@@ -59,7 +65,7 @@ TBD
 
 <hr>
 
-## <a name="notes"></a>Open Questions
+## <a name="OpenQs"></a>Open Questions
 1. Ask the other auth team: whether we can send the user directly to the DSL sign-in page, rather than the SSO modal, so that the user doesn't accidentally exit the flow. Also recognition vs recall --> if we send them to SSO from the email, we're asking them to remember what they were supposed to do on this page. Sending them directly from the email to the DSL login page could prevent workflow dropout.
 2. User test: experience of going directly to DSL sign-in vs SSO modal --> if we do the above, are there any risks for the user?
 3. Figure out: What should we do if the user is logged out of VA.gov while they are on Login.gov/ID.me?
