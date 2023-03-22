@@ -2,7 +2,7 @@
 **STATUS: Draft**
 - Edit history:
   - 3/7/23 - KO draft
-  - 3/22/23 - KO revision
+  - 3/22/23 - KO revision #2
 
 **Team:** [Login.gov Adoption](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption)
 
