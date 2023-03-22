@@ -42,7 +42,7 @@ This is part of a larger initiative to move all Veteran transactions around mana
 - Develop research plan & conversation guides (Jenny, Coulton) 
 - Review draft of product outline (Kay, Lauren, Tanner, Raquel) 
 - Ensure all teams are in Slack/GH /ZH (lauren/Kay)
-- Set up agile ceremonies / meetings (Raquel/Kay) 
+- Set up agile ceremonies / meetings / design collaboration weekly (Raquel/Kay/Coulton) 
 
 ### Weeks of 3/27, 4/2, 4/9
 - OCC Teams Onboarding to VA.gov (Raquel, Tanner, Harrison, + + + )
