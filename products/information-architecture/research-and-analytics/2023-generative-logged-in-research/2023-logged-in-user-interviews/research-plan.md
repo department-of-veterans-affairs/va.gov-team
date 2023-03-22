@@ -3,7 +3,7 @@
 ## Background
 While we’ve observed some high-level problems people have navigating VA.gov’s logged-in experience (eg. people are reliant on homepage and My VA links), we’ve never conducted research that is solely dedicated to this topic. To remedy this, we’re conducting a variety of research activities, including user interviews, to help us clarify exactly what problems exist with the logged-in navigation, where we are not meeting users’ expectations, and what we might do to improve the overall experience. 
 
-[Research brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/README.md)
+[Research brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/README.md)
 
 ### OCTO Objectives 
 **This research will directly support all of the OCTO north stars:**
@@ -57,7 +57,7 @@ This will be a moderated wayfinding study conducted remotely over Zoom.
 
 
 ### Research materials
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/2023-generative-logged-in-research/2023-logged-in-user-interviews/conversation-guide.md) 
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/conversation-guide.md) 
 	
 ## Recruitment	
 OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
