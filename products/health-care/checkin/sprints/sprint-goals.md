@@ -35,7 +35,6 @@ ________________________________________________________________________________
    - **Sub Goal: [Send Check-in Text 45 Minutes Before Appointment to encourage use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)**
       - PAUSED: We have a meeting with the VeText folks on 4/3 to discuss their part
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**   
-      -  [![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] Setup codepen templates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54556)   
       - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Pull in additional screens that need to be updated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54810)
        - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Update the wireframes that were identified in 54750](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54810)
        - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Initial prototype tasks for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)       
