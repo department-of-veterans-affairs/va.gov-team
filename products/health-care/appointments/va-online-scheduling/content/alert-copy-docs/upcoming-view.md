@@ -14,9 +14,9 @@
 
 - {link} Facility locator 
 
-+ (H1)
++ (H1) We can't display all your appointments.
 
-+ (H2) 
++ (H2) We're working to resolve this issue.  To manage an appointment that is not shown in this list, contact the facility at which it was scheduled.
 
 + {link} Facility locator 
 @@ GH55068 @@
@@ -27,12 +27,11 @@
 
 #### Generic message if any of the systems are unavailabe (VSP, VVS and HSRM) 
 ```diff
-+ (H1)
++ (H1) We can't display all your requests.
 
-+ (H2) 
++ (H2) We're working to resolve this issue.  To manage an appointment that is not shown in this list, contact the facility at which it was scheduled.
 
 + {link} Facility locator 
-@@ GH55068 @@
 @@ GH55068 @@
 ```
 
@@ -42,9 +41,9 @@
 #### Generic message if any of the systems are unavailabe (VSP, VVS and HSRM) 
 
 ```diff
-+ (H1)
++ (H1) We can't display all your appointments.
 
-+ (H2) 
++ (H2) We're working to resolve this issue.  To manage an appointment that is not shown in this list, contact the facility at which it was scheduled.
 
 + {link} Facility locator 
 @@ GH55068 @@
