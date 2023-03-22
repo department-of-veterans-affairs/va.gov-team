@@ -10,7 +10,7 @@
 *Veterans or their caregivers that are completing forms/applications.*
 
 ## Launched Form Notifications 
-|Form Number  |Forms Title |Status  |Launch Date |
+|Form Number  |Form Title |Status  |Launch Date |
 | ------------- | ------------- | ------------- | ------------- |
 | 22-1990  | Application for VA Education Benefits  | Launched to 100%  | March 2023  |
 | 22-5490  | Dependents' Application for VA Education Benefits  | Launched to 100%  | February 2023  | 
