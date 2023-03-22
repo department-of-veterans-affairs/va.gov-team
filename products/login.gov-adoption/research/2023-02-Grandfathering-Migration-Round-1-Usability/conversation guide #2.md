@@ -154,7 +154,7 @@ I'm going to give you a second to read this more closely now. When you're finish
 - Does the Veteran appear confused at all throughout the sign-in flow?
 - Does the Veteran know where or how to get help if they encounter an issue?
 
-## Task 3: Create an IAL1 Login.gov Account - 20 minutes
+## Task 3: Create an IAL1 Login.gov Account - 15 minutes
 
 Okay great. For today, let's imagine that you are going to set up a Login.gov account.
 
@@ -302,7 +302,7 @@ Now, you'll remember that when we started today, we imagined you were online to 
 - How does the Veteran understand what type of account they have set up with Login.gov (and its limitations)?
 - Does the Veteran know where or how to get help if they encounter an issue?
 
-## Task 5: Upgrade to IAL2
+## Task 5: Upgrade to IAL2 - 10 minutes
 
 We're nearly done today, thank you for answering so many of my questions already.
 
