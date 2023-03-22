@@ -34,10 +34,9 @@ Latest at this mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/d
 ## <a name="url"></a>URLs and breadcrumbs
 
 
-**1) Link Account Info Page - New**
-- URL:  TBD pending content, but an idea is (va.gov/account-transition). It would be ideal if this page could be reused for the MHV transition too.
-- Breadcrumb: none needed
-- Notes: Becaused we don't want this page discoverable by search enginers, we also need to tag the page as 'no index', and make sure it doesn't go into the xml sitemap. Your engineers should know what this means, but let us know if you have any Qs. 
+**1) Redirecting Away from VA Page - New**
+- URL:  TBD pending content, but an idea is (va.gov/leaving-va) or (va.gov/redirecting)
+- Notes: Becaused we don't want this page discoverable by search engines, we also need to tag the page as 'no index', and make sure it doesn't go into the xml sitemap. Your engineers should know what this means, but let us know if you have any Qs. 
 
 **2) Account Linking Error Page - New**
 - URL:  TBD pending content
