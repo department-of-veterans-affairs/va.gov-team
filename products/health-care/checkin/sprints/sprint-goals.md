@@ -36,20 +36,17 @@ ________________________________________________________________________________
        - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Update the wireframes that were identified in 54750](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54810)
        - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Initial prototype tasks for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)       
        - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Design] Add in user flow components for the alternative path wireframes in unified experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55460)
-       - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Design] Remove dupes and organize symbols in unified experience sketch file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55456)          - [[Design] SPIKE: Best method to document specifications to engineers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55457)       
+       - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Design] Remove dupes and organize symbols in unified experience sketch file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55456)          
        - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Create research plan for moderated research study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)      
-       - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964)      
        - Complete research review section of collab cycle ticket   
    - **Sub Goal: Analyze current metrics to see what they tell us**
       - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Create filters in GA for unique page urls](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/55223)
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
-      - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54282)
       - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55090)
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
       - [![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] Remove Feature Flag checkInExperienceUpdatedApptPresentation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55515)  
-- **GOAL: Address tech & design debt** 
-   - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Clicked on details link after 15 mins past appt time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53862)
+- **GOAL: Address tech & design debt**   
    - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Design] Change heading style in all Sketch files to use the mobile versions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55506)
    - [![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] [TECH DEBT] - Add utils for unit test boiler plate](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47229)
    - [![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] [TECH DEBT] - Refactor our api initializers and mock data creation for e2e ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55004)   
