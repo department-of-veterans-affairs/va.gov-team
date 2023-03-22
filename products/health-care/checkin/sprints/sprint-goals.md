@@ -41,7 +41,7 @@ ________________________________________________________________________________
        - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964)      
        - Complete research review section of collab cycle ticket   
    - **Sub Goal: Analyze current metrics to see what they tell us**
-      - [[Research] Create filters in GA for unique page urls](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/55223)
+      - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Create filters in GA for unique page urls](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/55223)
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
       - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54282)
       - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55090)
