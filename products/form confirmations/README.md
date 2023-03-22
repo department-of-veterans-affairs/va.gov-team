@@ -22,7 +22,6 @@
 | 28-1900  | Application for Veteran Readiness and Employment for Claimants with Service-Connected Disabilities (Chapter 31)  | Launched to 100%  | July 2022  |
 | 21P-530  | Application for Burial Benefits  | Launched to 100%  | July 2022  |
 | 21-686c   | Application Request to Add and/or Remove Dependents  | Launched to 100%  | May 2022  |
-<---forms tracker: https://github.com/department-of-veterans-affairs/digital-experience-products/issues/503--->
 
 ## Measuring Success
 
