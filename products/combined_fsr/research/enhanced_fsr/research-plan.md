@@ -247,7 +247,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 -   Date and time of pilot session: 
 
 ### Research sessions
-**Planned dates of research: begin moderating sessions 4/3/2023 - 4/10/2023**
+**Planned dates of research: begin moderating sessions 4/26/2023 - 5/4/2023**
 
 ### Length of sessions
 
