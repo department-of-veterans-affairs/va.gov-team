@@ -47,7 +47,7 @@ How will this research advance your product to the next phase in the design proc
 - What motivated them to start the process? Are they glad they went through it?
 - What do they think needs the most improvement?
 
-Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](department-of-veterans-affairs/va.gov-team/products/disability/abd-vro/Research/2023-04-DCSiteVisit/Veteran-discussion-guide) 
+Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2023-04-site-visit/veteran-claims-exp-discussion-guide.md)
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
