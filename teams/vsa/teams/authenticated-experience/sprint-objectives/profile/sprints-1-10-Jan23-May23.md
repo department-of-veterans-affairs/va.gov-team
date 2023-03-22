@@ -427,6 +427,10 @@ This assumes QA is done, and any fixes from QA have been implemented. If not, pl
   - While the UI may not change, does this require any FE changes in terms of how FE connects to BE, or is this entirely BE work? 
   - Confirm whether default send work needs to happen before Adam can start on FE updates based on Liz's designs.
 
+### General
+**Design**
+- #48952 - Research Recommendations | Update Documentation on Mobile Number Flow (should be unblocked by Sprint 9)
+
 ### Logged-in IA/nav research
 
 **Design - Liz**
