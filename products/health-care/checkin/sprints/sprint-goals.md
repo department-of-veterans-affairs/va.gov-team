@@ -16,17 +16,17 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
-      - [[FE] Remove Feature Flag checkInExperienceUpdatedApptPresentation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55515)      
+      - [![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] Remove Feature Flag checkInExperienceUpdatedApptPresentation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55515)      
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
       - Implement text solution for BTSSS latency             
-         - [[BE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
-         - [[BE] Text Veteran when Travel Claim Submitted to BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54348)
+         - [![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [BE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
+         - [![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [BE] Text Veteran when Travel Claim Submitted to BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54348)
             - This one mostly likely will be broken up into multiple tickets after the spike
-         - [[FE] Remove BTSSS call and the Error Handling from day-of check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54281)         
+         - [![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] Remove BTSSS call and the Error Handling from day-of check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54281)         
       - Prepare for release
-         - [[UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54029)
-         - [[UX] Recheck GA Events due to text solution change ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53966)      
+         - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54029)
+         - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Recheck GA Events due to text solution change ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53966)      
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
    - **Sub Goal: [Send to Check-in when Pre-Check-in link is accessed inside check-in window](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)**
        - PAUSED: We will pause as we need BE folks to focus on Travel    
@@ -34,26 +34,27 @@ ________________________________________________________________________________
       - PAUSED: We will finish this work after the VAOS work is released and monitored for a period of time
    - **Sub Goal: [Send Check-in Text 45 Minutes Before Appointment to encourage use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)**
       - PAUSED: We have a meeting with the VeText folks on 4/3 to discuss their part
-   - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**          - [[FE] Setup codepen templates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54556)
-   -   - [[UX] Pull in additional screens that need to be updated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54810)
-       - [[UX] Update the wireframes that were identified in 54750](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54810)
-       - [[UX] Initial prototype tasks for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)       
-       - [[Design] Add in user flow components for the alternative path wireframes in unified experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55460)
-       - [[Design] Remove dupes and organize symbols in unified experience sketch file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55456)          - [[Design] SPIKE: Best method to document specifications to engineers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55457)       
-       - [[Research] Create research plan for moderated research study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)      
-       - [[Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964)      
+   - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**   
+      -  [![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] Setup codepen templates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54556)   
+      - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Pull in additional screens that need to be updated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54810)
+       - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Update the wireframes that were identified in 54750](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54810)
+       - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Initial prototype tasks for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)       
+       - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Design] Add in user flow components for the alternative path wireframes in unified experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55460)
+       - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Design] Remove dupes and organize symbols in unified experience sketch file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55456)          - [[Design] SPIKE: Best method to document specifications to engineers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55457)       
+       - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Create research plan for moderated research study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)      
+       - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964)      
        - Complete research review section of collab cycle ticket   
    - **Sub Goal: Analyze current metrics to see what they tell us**
       - [[Research] Create filters in GA for unique page urls](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/55223)
-      - [Research] Analyze GA Metrics
-      - [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54282)
-      - [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55090)
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
+      - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54282)
+      - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55090)
 - **GOAL: Address tech & design debt** 
-   - [[UX] Clicked on details link after 15 mins past appt time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53862)
-   - [[Design] Change heading style in all Sketch files to use the mobile versions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55506)
-   - [[FE] [TECH DEBT] - Add utils for unit test boiler plate](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47229)
-   - [[FE] [TECH DEBT] - Refactor our api initializers and mock data creation for e2e ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55004)   
-   - [[FE] SPIKE: Answer remaining questions around "error=no-token"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55097)          
+   - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Clicked on details link after 15 mins past appt time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53862)
+   - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Design] Change heading style in all Sketch files to use the mobile versions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55506)
+   - [![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] [TECH DEBT] - Add utils for unit test boiler plate](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47229)
+   - [![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] [TECH DEBT] - Refactor our api initializers and mock data creation for e2e ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55004)   
+   - [![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] SPIKE: Answer remaining questions around "error=no-token"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55097)          
 
 ## 3/8/2023 - 3/21/2023 
 
