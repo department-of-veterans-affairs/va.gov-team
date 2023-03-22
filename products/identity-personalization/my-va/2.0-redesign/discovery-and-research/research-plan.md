@@ -78,7 +78,7 @@
 - Project Brief: 	
   Coming soon
 - Convo Guide	
-  [Stakeholder Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/conversation-guide-stakeholders.md)	
+  [Stakeholder Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/stakeholder-interviews/conversation-guide-stakeholders.md)	
 - [Mural board mapping research goals to research methods](https://app.mural.co/t/vsa8243/m/vsa8243/1584898521775/64383bc2873e8c81bdd84190e16726e20855818e)
 - Synthesis	
   Coming soon	
