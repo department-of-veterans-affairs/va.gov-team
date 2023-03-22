@@ -123,14 +123,14 @@ Timeline
 
 ### Prepare
 
-Test materials will be finalized by Monday March, 20th 2023
+Test materials will be finalized by Monday, March 20th 2023
 
-Pilot participant email: TBD
-Date and time of pilot session: TBD 
+Pilot participant email: Angela Fowler
+Date and time of pilot session: Friday, March 24th 2023 at 3pm EST 
 
 ### Research sessions
 
-Research session will begin on ar after TBD
+Research session will begin on ar after Tuesday, March 28th 2023
 
 ### Length of sessions
 
@@ -142,7 +142,7 @@ Monday - Friday, 12:00 pm - 8:00 pm EST
 
 15 minute buffer between sessions
 
-No more than 3 sessions per day
+No more than 2 sessions per day
 
 Team roles
 ----------
@@ -152,7 +152,7 @@ Team roles
 -   Research guide writing and task development (usually but not always same as moderator): Peter Russo and Ciera Maddox
 -   Participant recruiting & screening: Perigean
 -   Project point of contact: Ciera Maddox
--   Participant(s) for pilot test: TBD
+-   Participant(s) for pilot test: Angela Fowler
 -   Note-takers: Peter Russo
 -   Observers: Kristen Mcconnell kristen.mcconnell@va.gov
 
