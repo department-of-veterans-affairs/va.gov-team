@@ -20,9 +20,9 @@
 
 Latest at this mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1676397151510/f4cf4f4187a3d0fd5f2d6d56c9bd2ba3a4376e7a?sender=ua67f17f1c416a96ea04d2476
 
-![User voluntarily starts account transfer process online](https://user-images.githubusercontent.com/122126772/223573083-96df6adc-3d3c-4953-89aa-467e0c63d985.png)
+![User voluntarily starts account transfer process online](https://user-images.githubusercontent.com/122126772/227029813-02a4b7dd-709d-41bd-be38-a5d67eaa77d7.png)
 
-![User interrupted during online task to do optional account transfer](https://user-images.githubusercontent.com/122126772/223573085-425087a4-69ed-4025-8c61-ff5d0a11d845.png)
+![User interrupted during online task to do optional account transfer](https://user-images.githubusercontent.com/122126772/227029830-f54c5b19-4bd0-49f0-9c7d-7cfb9e53ff55.png)
 
 
 
