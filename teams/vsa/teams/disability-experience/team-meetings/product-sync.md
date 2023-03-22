@@ -1,12 +1,19 @@
 # Benefits Disability Experience - Product sync
 
+### Date: March 22 2023
+### Items to be discussed:
+- Value Effort matrix review with stakeholders - prep and expectations
+- Review data for Value Effort matrix review
+- New tickets for evaluating value
+- BDD Requests 
+   - Are these all covered by the BDE team for 526 flow?  
+- Logistics for 526ez overview with Matt/Sade/Robin/Kyle
+
 ### Date: March 15 2023
 ### Items to be discussed:
 - Value matrix debrief
 - Value matrix follow-up with Stakeholders
 - Potential x-team overview from previous 526 team
-- 
-
 
 ### Date: March 9 2023
 ### Items to be discussed:
