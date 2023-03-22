@@ -20,10 +20,10 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
       - Implement text solution for BTSSS latency             
-         - [[FE] Remove the Error Handling from BTSSS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54281)
          - [[BE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
          - [[BE] Text Veteran when Travel Claim Submitted to BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54348)
             - This one mostly likely will be broken up into multiple tickets after the spike
+         - [[FE] Remove BTSSS call and the Error Handling from day-of check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54281)         
       - Prepare for release
          - [[UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54029)
          - [[UX] Recheck GA Events due to text solution change ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53966)      
@@ -34,13 +34,14 @@ ________________________________________________________________________________
       - PAUSED: We will finish this work after the VAOS work is released and monitored for a period of time
    - **Sub Goal: [Send Check-in Text 45 Minutes Before Appointment to encourage use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)**
       - PAUSED: We have a meeting with the VeText folks on 4/3 to discuss their part
-   - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**          - [[UX] Pull in additional screens that need to be updated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54810)
+   - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**          - [[FE] Setup codepen templates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54556)
+   -   - [[UX] Pull in additional screens that need to be updated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54810)
        - [[UX] Update the wireframes that were identified in 54750](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54810)
-       - [[UX] Initial prototype tasks for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)
-       - [[Research] Create research plan for moderated research study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)      
-       - [[Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964)      
+       - [[UX] Initial prototype tasks for testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53067)       
        - [[Design] Add in user flow components for the alternative path wireframes in unified experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55460)
        - [[Design] Remove dupes and organize symbols in unified experience sketch file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55456)          - [[Design] SPIKE: Best method to document specifications to engineers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55457)       
+       - [[Research] Create research plan for moderated research study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51183)      
+       - [[Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964)      
        - Complete research review section of collab cycle ticket   
    - **Sub Goal: Analyze current metrics to see what they tell us**
       - [[Research] Create filters in GA for unique page urls](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/55223)
