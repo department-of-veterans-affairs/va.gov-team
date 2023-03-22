@@ -99,7 +99,7 @@ Which inclusive research strategies are you leveraging for this study? Maximum v
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
-- 4 Veterans (recruit extra))
+- 4 Veterans (recruit 1 extra for 5 total))
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
@@ -113,7 +113,7 @@ What demographics, experience, and scenarios do you need participants to meet to
     - 2 Veterans should have completed this application in the past 7-18 months
 
 **Demographics:**
-- Even mix of rural and urban (prefer Eastern time zone)
+- Even mix of rural and urban (prefer East/Southeast but not required)
 - Even mix of genders
 - At least 3 participants are persons of color
 - All persons are under age 55
@@ -125,7 +125,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 2. When did you complete that application? [READ OPTIONS; Veteran may answer more than one option, but must answer either a or b to CONTINUE]
     - a. In the past 6 months (since Oct 1, 2022) [RECRUIT 2]
     - b. In the past 7-18 months (Between Apr 1, 2021 and Sep 30, 2022) [RECRUIT 2]
-    - c. Between 18 and 24 months ago (between Oct 1, 2020 and Mar 30, 2021) [HOLD if needed to fill the study]
+    - c. Between 18 and 24 months ago (between Oct 1, 2020 and Mar 30, 2021) [HOLD, may accept if needed to fill the study]
     - d. More than 24 months ago (Before Oct 1, 2020) [If only answer, thank and DISCONTINUE]
 
 3. In that application, did you claim at least one NEW condition? A new condition is one that you have never claimed before and was not already service connected or denied. [answer YES to CONTINUE]
@@ -154,18 +154,21 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Daylight Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-- Between 12:00pm EDT - 7:00 pm EDT on Tuesday 4/11/23
-- Prefer 12-1; 1:30-2:30, 3:00-4:00, 4:30-5:30, or 6:00-7:00. Fill 4 slots to account for a no show.  
+- **Note We want to run sessions in parallel - we have two moderators and two notetakers.**
+Tuesday 4/11/23 (all times EDT)
+- Team 1 (moderator: Zach Goldfine) 2:00-3:00, 3:30-4:30, or 5:00-6:00. 
+- Team 2 (moderator: Shannon Ford) 2:00-3:00, 3:30-4:30, or 5:00-6:00. 
+- Fill 5 slots to account for 1-2 no shows.  
 
     
 ## Team Roles   
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker**     
-- Moderator: TBD (Zach Goldfine or Shannon Ford)
+- Moderator: Zach Goldfine (zachary.goldfine@va.gov and Shannon Ford (shannon.ford1@va.gov - 847-372-4519)
 - Research guide writing and task development (usually but not always same as moderator):   Zach Goldfine / Shannon Ford
 - Participant recruiting & screening:   Perigean
 - Project point of contact: Zach Goldfine
 - Participant(s) for pilot test: Julie.Strothman@va.gov
-- Note-takers: Steve Albers (Steve.Albers@va.gov), Shannon Ford (shannon.ford1@va.gov)
-- Observers:    Matt Self (matthew.self2@va.gov), Emily Theis (emily.theis@va.gov), Premal Shah (premal.shah@va.gov), Lesley Ropp (leslie.ropp@va.gov), Julie Strothman (Julie.Strothman@va.gov)
+- Note-takers: Steve Albers (Steve.Albers@va.gov), Emily Theis (emily.theis@va.gov)
+- Observers: Matt Self (matthew.self2@va.gov), Premal Shah (premal.shah@va.gov), Lesley Ropp (leslie.ropp@va.gov), Julie Strothman (Julie.Strothman@va.gov)
 
 
