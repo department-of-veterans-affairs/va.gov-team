@@ -7,17 +7,12 @@
 - New tickets for evaluating value
 - Feedback Survey
 - BDD Requests 
-   - Separation Health Assessment - Part A Self-Assessment - 
-         - Questions to consider
-             - MVP and target state?
-             - Define MVP - Does this require a change to the flow of 526ez form or just a content change? 
+   - Separation Health Assessment - Part A Self-Assessment  <br>
+         - Questions to consider:  <br>
+             - MVP and target state? <br>
+             - Define MVP - Does this require a change to the flow of 526ez form or just a content change?  <br>
              - What's the end state we want to target?
-    - Separation Health Assessment - Part A Self-Assessment - 
-          - Questions to consider
-             - MVP and target state?
-             - Define MVP - Does this require a change to the flow of 526ez form or just a content change? 
-             - What's the end state we want to target?
-     - Are the 2nd set of requests all covered by the BDE team for 526 flow? 
+    - Are the 2nd set of requests all covered by the BDE team for 526 flow? 
 - Logistics for 526ez overview with Matt/Sade/Robin/Kyle
 
 ### Date: March 15 2023
