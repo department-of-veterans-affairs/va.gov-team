@@ -55,6 +55,8 @@ If there are multiple modals being triggered off of login (ex: grandafthering, o
 
 We should also make sure to think about how users could become blind to the post-login modal if it is a constant presence for several years while the login.gov transition work is complete. How can we either make sure that doesn't happen, or mitigate the risk?
 
+![Communication plan by login types](https://user-images.githubusercontent.com/122126772/227040218-51d040ed-b360-49f3-b297-697c9d5b3bfc.png)
+
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
