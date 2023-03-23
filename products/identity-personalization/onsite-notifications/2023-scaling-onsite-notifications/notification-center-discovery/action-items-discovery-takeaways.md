@@ -1,4 +1,4 @@
-# 2023 Scaling On-site Notifications: Action Items Discovery Takeaways
+# 2023 Scaling Onsite Notifications: Action Items Discovery Takeaways
 
 Last updated: March 21, 2023
 
