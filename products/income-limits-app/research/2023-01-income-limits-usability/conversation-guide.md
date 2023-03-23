@@ -230,6 +230,9 @@ Suppose that you’re in the process of appealing a health care claim from 2021,
   - *any comments about the wording "get past"?*
 
 - *(RECORD all comments and anything confusing re the interactions on each screen of the prototype:)*
+  - *Pension--*  
+  - *A&A--*
+  - *Housebound--*
   - *Zip code--*
   - *Anything about the year 2020--*
   - *# of Dependents--*
