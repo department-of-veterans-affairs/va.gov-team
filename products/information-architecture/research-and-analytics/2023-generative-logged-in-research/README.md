@@ -10,6 +10,7 @@
 - [Project risks & challenges](#project-risks--challenges)
 - [Questions](#questions)
 - [Scope](#scope)
+- [Key deliverables](#key-deliverables)
 - [Key dates](#key-dates)
 - [Research activities](#research-activities)
 
@@ -17,7 +18,7 @@
 
 ### Roles & communications
 
-- **Slack channel**: [#sitewide-content-ia](https://dsva.slack.com/channels/sitewide-content-ia)
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
   
 **Main team** 
   
@@ -32,9 +33,10 @@
 
 |Name|Role|Email|
 |----|----|-----|
-|Dave Conlon|OCTO lead for sitewide portfolio|david.conlon@va.gov|
-|Danielle Thierry| OCTO content lead|danielle.theirry@va.gov|
+|Coulton Bunney| OCTON design lead for health care portfolio|coulton.bunney@va.gov|
 |Lauren Alexanderson|OCTO lead for health care portfolio|lauren.alexanderson@va.gov|
+|Danielle Thierry| OCTO content lead|danielle.theirry@va.gov|
+|Dave Conlon|OCTO lead for sitewide portfolio|david.conlon@va.gov|
 
 ---
 
