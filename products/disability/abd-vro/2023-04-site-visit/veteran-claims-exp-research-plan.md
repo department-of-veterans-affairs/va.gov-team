@@ -99,7 +99,7 @@ Which inclusive research strategies are you leveraging for this study? Maximum v
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
-- 4 Veterans (recruit 1 extra for 5 total))
+- 4 Veterans
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
@@ -150,15 +150,14 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ### Length of sessions
 * Session length: 45min-1 hour
 * Buffer time between sessions: 30 minutes
-* Maximum Sessions per day: 3
+* Maximum Sessions per day: 4
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Daylight Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-- **Note We want to run sessions in parallel - we have two moderators and two notetakers.**
+
 Tuesday 4/11/23 (all times EDT)
-- Team 1 (moderator: Zach Goldfine) 2:00-3:00, 3:30-4:30, or 5:00-6:00. 
-- Team 2 (moderator: Shannon Ford) 2:00-3:00, 3:30-4:30, or 5:00-6:00. 
-- Fill 5 slots to account for 1-2 no shows.  
+- 12:30-1:30, 2:00-3:00, 3:30-4:30, or 5:00-6:00. 
+ 
 
     
 ## Team Roles   
