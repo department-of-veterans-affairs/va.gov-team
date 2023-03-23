@@ -127,7 +127,7 @@ Ask Perigean to recruit **8 Veterans and 3 caregivers** of Veterans who meet the
 
 1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these. 
      1. No
-     2. Yes *(RECRUIT 4)*
+     2. Yes *(RECRUIT 4 and RECORD as having a cognitive disability)*
 
 1. Have you downloaded the Zoom app to your smartphone, do you know how to screen share, and do you have a working microphone on your phone?
      1. No *(disqualify)*
