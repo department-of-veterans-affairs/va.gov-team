@@ -6,7 +6,7 @@
 
 |Project|Status|
 |----|----|
-|My VA audit|FE build|
+|My VA audit|Pre-launch|
 |Claim status EVSS > Lighthouse | Technical discovery |
 
 ### Projected timelines for current projects
