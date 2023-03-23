@@ -31,7 +31,7 @@ Based on the outcome of this research study, we will either release this work to
 - Are users prevented from submitting the direct deposit form with errors or a bogus routing number?
 
 ### Hypothesis
-Direct Deposit will function as expected, answering affirmatively to all three research questions.
+Direct Deposit will function as expected, answering affirmatively to all four research questions.
 
 ## Method	
 While sharing their screen in remote (Zoom) interviews, participants will complete specific tasks as part of UAT to either demonstrate that Direct Deposit, Profile is functioning as expected.
