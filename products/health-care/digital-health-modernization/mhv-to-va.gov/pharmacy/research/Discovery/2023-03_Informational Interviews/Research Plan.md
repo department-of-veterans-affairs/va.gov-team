@@ -121,7 +121,7 @@ Timing:
 Location: Zoom and Slack
 Participants: Internal subject matter experts (#? total interviews)
 
-**Week 1: Demo (AVS, Flagship Mobile App, RxRefill App) and Q&As**
+### Week 1: Demo (AVS, Flagship Mobile App, RxRefill App) and Q&A
 - Shane Elliott and Rob Durkin - AVS & PVS Product managers
 - Chris Ray, Rx Refill App Product managers 
 - Meko Hong, Flagship mobile app PM
@@ -130,7 +130,7 @@ Participants: Internal subject matter experts (#? total interviews)
 - Arienne Walters and Harrison Amelang, MHV pharmacy designers from ByLight
 - Raquel and Tanner, ByLight product owners
 
-**Week 2: Deep Dive into Clinical**
+### Week 2: Deep Dive into Clinical
 - Maureen Layden (maureen.layden@va.gov), Physician - Director, VA Medication Reconciliation Initiative
 - Eric Spahn (eric.spahn@va.gov), Clinical analyst - Pharmacy Benefits Management, OCC business line owner 
 - Margo Kabel (margo.kabel@va.gov) VHA Health informatics, program analyst, HCD
