@@ -25,6 +25,7 @@ Specifically, this research will be looking to validate the following use cases:
 Based on the outcome of this research study, we will either release this work to production, or make updates to correct any bugs or significant usability hurdles.
 
 ### Research questions
+- Are eligible users able to successfully view and save their bank information?
 - When users update their direct deposit information, do they receive a confirmation email?
 - Are users able to open the edit modal, click cancel, and see the previously-saved directly deposit information still saved in their Profile?
 - Are users prevented from submitting the direct deposit form with errors or a bogus routing number?
