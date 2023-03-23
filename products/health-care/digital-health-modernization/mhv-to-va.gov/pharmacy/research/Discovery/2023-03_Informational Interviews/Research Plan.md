@@ -115,7 +115,7 @@ By the end of this research effort, we will be able to:
 
 # Methodology, Recruitment, and Next Steps
 
-## Semi-structured interviews with internal subject matter experts**
+## Semi-structured interviews with internal subject matter experts
 Description: Conduct semi-structured interviews with internal subject matters experts using conversation guides. Synthesize findings, develop requirements and other deliverables.
 Timing: 
 Location: Zoom and Slack
