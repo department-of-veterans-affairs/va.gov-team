@@ -1,6 +1,123 @@
 # Health Apartment Weekly Team Meetings
 - Meetings were held bi-weekly initially, then changed to weekly in 2023.
 
+## 2023-03-23 Team Meeting
+
+### Attendees
+
+- Lauren Alexanderson
+- Leila Rassi
+- Patrick Bateman
+- Coulton Bunney
+- Robyn Singleton
+- Martha Wilkes
+- Jonathan Nelson
+- Daniel Cloud
+- Mark Dewey
+- Jenny Wang
+- Kristen McConnell
+- Mikki Northuis
+- Sara Smith
+- Stephen Barrs
+- Ryan Thurlwell
+- Marci McGuire
+
+### Updates
+
+- Robyn 
+	- We've done four research sessions - CodePen prototype is working
+	- Liaising with Perigian to find some additional blind/low vision
+- Lauren
+	- Addressing concern with Google Analytics in auth space
+	- According to Federal CIO, we are expected to use GA and have to be careful we are stripping any PII
+	- Do all due diligence to instrument in a way that will not pass along private info
+	- Last minute accessibility stuff 
+- Martha
+	- Talking with Center of Practice; they are worried about SM, team  to have a swarm session to really exercise SM from an accessibility perspective
+- Coulton
+	- SM accessibility
+	- Blue Button vs. VA Health Summary
+	- MR accessibility
+- Jonathan
+	- Research sessions
+	- Preferences - meeting tomorrow
+- Daniel
+	- CodePen
+	- Reviewing content PRs
+	- Deep links
+- Patrick
+	- Deep links
+	- Waiting on Theresa to confirm she sent info to Contact Center
+	- Landing page notifications
+- Mark
+	- SM accessibility
+	- Supporting landing
+- Jenny
+	- Working on medications work
+	- Getting convo guides ready; working with Kay
+	- Research starts next week
+- Kristen
+	- After visit summary
+	- Talked through appointment phases with Kay
+	- Will be in preferences call tomorrow
+- Leila
+	- SM accessibility
+	- Keeping launch on time for Phase 0
+	- Looking ahead to get processes in place for launches
+- Mikki
+	- Phased rollout plan
+	- Walked through appointments again this week
+	- Identified need for messaging in each of the tools come Phase 2 with a link to the Cerner Portal
+	- Pulled Marci into Phased Mural and spreadsheet
+	- Walking through SM with several people tomorrow
+- Sara
+	- Have all the MR intake tickets from Lexi
+	- Accessibility testing with me tomorrow
+	- Swarm 
+- Stephen
+	- Help out using Prod account to test
+	- Push on getting access to Cerner appointments
+	- Working with 
+- Ryan
+	- Notifications 
+	- Secure messages
+- Marci
+	- Sent updated landing page documentation to Contact Center
+	- Sent to Theresa, Carnetta, Patti, Gwen, Treva this morning; waiting for confirmation that Theresa is sending to Clinical Contact Centers
+	- Fleshing out rollout beyond IA
+
+### Other Topics
+
+- Patrick
+	- Idea:  when you're online and you get a notification - he believes that they are not configurable.  You can dismiss, but can't make it go away permanently
+	- Ryan - how is this different from mobile?  Patrick - we're not sending those out (pull vs push)
+		- Mikki seconds the mention of the word "notifications" and we need to handle similarly to the mobile team
+	- Mikki - do we have an inventory of what those notifications will be?
+		- Appointments
+		- Cancelled appts
+		- Refills
+		- [Not a complete list yet]
+	- Patrick - "onscreen reminder" is not a notification
+	- We may do design and research spring/summer, maybe implement in the fall
+	- Coulton - it's directing you to the part of the app that most needs your attention.  Do appointments fall into the list of "what's new in your record"
+	- Ryan - if you get an email, would that also be in onscreen notifications
+	- If someone is on the portal should it show there too? Consensus is yes. All avenues should be consistent
+	- Patrick - there is a distinction between the notifications that annoy us vs. an onscreen reminder.  To Coulton's point - should it be used in a different way?
+	- Should we have onscreen reminders for each section?  Initially it will be just one section
+	- Ryan - from an MVP, it's fine to be super rigid, that's fine.  If they are helpful, stitching them into other things that Veterans use (push vs. pull) - it should be unified data, but for MVP that's fine.
+- Lauren - onboarding Craig and other new people
+	- Helping new people learn about this new project and not be disruptive
+- Marci
+	- I want to make sure we're being respectful of our stakeholders in not only how we interact with them but also in the way that we document our findings. 
+	- Let's make sure we are taking a "seek to learn" approach while doing discovery and documenting our findings.  
+	- Our default should be to assume good intent when we are learning the rationale behind the way something works.   
+	- If we're interviewing someone who doesn't remember exactly why something is the way it is, it's fine to document that more discovery is needed to understand, but we shouldn't assume that nobody knows the reasoning behind it. 
+	- If that particular person isn't sure, it's OK to ask them if they are aware of any documentation, or if there's someone else who may recall. 
+	- At the end of the day, we are all on the same team.
+- Landing Page
+	- Submit to 508 Office - Marci (in Staging)
+	- Coulton - testing SM will be a little more complex; setting up users.  Leila already has it on the list.
+
 
 ## 2023-03-09 Health Apartment Team Meeting
 
