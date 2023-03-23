@@ -84,7 +84,7 @@ Before we start, I want to go over a few things:
 ## Warm-up Questions - 5 minutes
 Let’s start with a few questions... 
 
-1. I understand you are a (*Veteran / Caregiver).* Is that right? 
+1. I understand you are a (*Veteran / Caregiver / Family member).* Is that right? 
 	- *(If Caregiver, confirm:)* Are you a caregiver for a Veteran? Are you a Veteran?
 	- Thanks for confirming that.
 
