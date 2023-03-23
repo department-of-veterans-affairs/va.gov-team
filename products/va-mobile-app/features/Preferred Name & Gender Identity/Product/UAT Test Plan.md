@@ -21,14 +21,14 @@
 
 This document specifically focuses on the testing to be done by Veterans with Production accounts as part of UAT
 
-**Test Scenarios **
+**Test Scenarios**
 
 
 
-* User is able to **view **current information pertaining to
+* User is able to **view** current information pertaining to
     * Preferred Name (empty state or already existing)
     * Gender Identity  (empty state or already existing)
-* User is able to **Update **current information pertaining to
+* User is able to **Update** current information pertaining to
     * Preferred Name
     * Gender Identity
 
