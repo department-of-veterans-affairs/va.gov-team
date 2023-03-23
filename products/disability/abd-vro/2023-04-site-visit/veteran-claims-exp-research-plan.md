@@ -148,15 +148,15 @@ A pilot session is required. Please indicate the date and name of a mock partici
 - Tuesday, April 11, 2023
 
 ### Length of sessions
-* Session length: 45min-1 hour
-* Buffer time between sessions: 30 minutes
+* Session length: 45mins
+* Buffer time between sessions: 15 minutes
 * Maximum Sessions per day: 4
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Daylight Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
 Tuesday 4/11/23 (all times EDT)
-- 12:30-1:30, 2:00-3:00, 3:30-4:30, or 5:00-6:00. 
+- 10:00-10:45, 11:00-11:45, 12:00-12:45, 1:00-1:45, 2:00-2:45, 3:00-3:45, 4:00-4:45, 5:00-5:45
  
 
     
