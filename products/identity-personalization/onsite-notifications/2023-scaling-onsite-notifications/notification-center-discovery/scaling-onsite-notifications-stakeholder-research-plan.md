@@ -1,12 +1,12 @@
 # Research Plan for Authenticated Experience, Scaling Onsite Notifications Stakeholder Research 2023
 
 ## Background
-The [onsite notification MVP] launched in October 2022. This functionality does the following:
+The [onsite notification MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp#readme) launched in October 2022. This functionality does the following:
 
 - Integrates VA.gov and VANotify, so that VA Notify can tell VA.gov when to show an on-site alert to a user.
 - Elevates a single, action-oriented alert on My VA for when a user has had a new debt added to their account. Users can click for more information or dismiss the alert.
-- 
-Now that we've established the initial infrastructure for VA.gov to leverage VANotify's functionality, we are ready to determine next steps for scaling this feature.
+
+Now that we've established the initial infrastructure for VA.gov to leverage VA Notify's functionality, we are ready to determine next steps for scaling this feature.
 
 [Link to project brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications).
 
