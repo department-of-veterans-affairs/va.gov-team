@@ -21,14 +21,19 @@ Since Veterans can apply for and manage their benefits on VA.gov any time after 
 
 ### 1. Gather insights about action items from product owners and identify trends.
 
-- Have other teams talked to users about how they expect to see notifications or action items on VA.gov?
+- Have other teams talked to users about how they expect to see notifications or action items represented on VA.gov?
 - What relevant studies or data should we reference outside of the authenticated experience team as part of this discovery work?
 
 ### 2. Determine if there's a clear consensus on the vision for notifications on VA.gov.
 
-- Bullets here
+- What are OCTO stakeholders expectations around how we elevate notifications on VA.gov? How strong are their opinions about the outcome of this work?
+- Where should notifications be surfaced within the navigation of VA.gov, if at all?
+- How should we indicate that a user has new notifications in the navigation, on My VA, and in the notification center (if we create opt to create one)?
 
 ### 3. Identify any challenges or things to consider that we were not already aware of on the Authenticated Experience team.
+
+- If users don't see common notifications in a notification center yet because VA Notify does not yet support them (eg. new message from your doctor, or a prescription shipping), will users trust the feature?
+- Are there any important factors to consider that we haven't already addressed in this study?
 
 ### Outcome
 Based on our findings, we will meet as a team to discuss and write up findings and recommendations before determining any next steps. We will not be testing any prototypes with users until we have a clear path forward and consensus from all OCTO leads.
