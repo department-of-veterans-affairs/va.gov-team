@@ -139,9 +139,9 @@ Participants: Internal subject matter experts (#? total interviews)
 
 *For data transfering and technical knowledge on medications, we should sync up with VA flagship mobile team engineers.*
 
-**Team responsibilities**
+#### Team responsibilities
 - Moderators: Coulton, Jenny
 - Research guide writing and task development: Coulton, Jenny
 - Project point of contact: Kay, Lauren, Coulton, Jenny, Raquel, Tanner
 - Notetakers: Volunteers from team
-- Observers: 
+- Observers:  
