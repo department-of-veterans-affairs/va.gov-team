@@ -12,10 +12,10 @@ Now that we've established the initial infrastructure for VA.gov to leverage VAN
 
 ### OCTO Objectives 
 
-Especially since My VA is now the next destination when a Veteran logs into VA.gov due to the [recent redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect), it is critical that we present the most relevant updates as quickly and clearly as possible while also highlighting benefits a Veteran may be interested in that they may have previously found on the homepage. Accomplishing these things will fulfill our north star objective of being a single, authoritative source of information that is personalized to the logged in user.
+Scaling onsite notifications will ensure that logged-in users have a personalized experience, with relevant and time-saving features. By surfacing the most important updates and action items upon login, we can increase usage of digital, self-service tools and decrease call center volume, wait time, and time to resolution. Accomplishing these things will fulfill our north star objective of being a single, authoritative source of information that is personalized to the logged in user.
 
 ### Veteran Journey
-Since Veterans can apply for and manage their benefits any time after getting out of the military, this work impacts the Veteran journey from Starting Up and beyond.
+Since Veterans can apply for and manage their benefits on VA.gov any time after getting out of the military, this work impacts the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from Starting Up and beyond.
 
 ## Research Goals	
 ### **1. Goal 1**
