@@ -57,7 +57,7 @@ Before we dig into some detailed questions, I will start with general questions,
 - What does a pre-visit summary (PVS) help patients and their providers accomplish?
 - What does an after-visit summary (AVS) help patients and their providers accomplish?
 - ~~How is the PVS used today for Veterans and Clinians? ~~
-- ~~How can AVS and PVS help Veterans to have a better experience in their medication management journey? ~~
+- ~~How can AVS and PVS help Veterans to have a better experience in their medication management journey?~~
 - Is there any legal requirement or policy about AVS and PVS we have to show for medication data on VA.gov? 
 - How could we make the PVS better?
 - How could we make the AVS better?
