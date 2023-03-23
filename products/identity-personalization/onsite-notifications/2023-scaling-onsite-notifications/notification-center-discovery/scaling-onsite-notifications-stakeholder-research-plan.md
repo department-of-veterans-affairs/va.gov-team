@@ -36,7 +36,7 @@ Since Veterans can apply for and manage their benefits on VA.gov any time after 
 - Are there any important factors to consider that we haven't already addressed in this study?
 
 ### Outcome
-Based on our findings, we will meet as a team to discuss and write up findings and recommendations before determining any next steps. We will not be testing any prototypes with users until we have a clear path forward and consensus from all OCTO leads.
+Based on our findings, we will meet as a team to discuss and write up findings and recommendations before determining any next steps. We will not be testing any prototypes with users until we have a clear path (or potential paths) forward and consensus from all OCTO leads.
 
 ## Method	
 We will conduct one-on-one stakeholder interviews via Zoom with OCTO product owners:
