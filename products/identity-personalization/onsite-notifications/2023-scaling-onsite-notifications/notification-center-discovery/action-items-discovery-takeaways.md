@@ -1,6 +1,6 @@
 # 2023 Scaling Onsite Notifications: Action Items Discovery Takeaways
 
-Last updated: March 21, 2023
+Last updated: March 23, 2023
 
 ## Key takeaways from comparative analysis
 
@@ -45,9 +45,18 @@ Last updated: March 21, 2023
 
 ## Outstanding Questions
 
+### High level questions
+
+- What are OCTO stakeholders expectations around how we elevate notifications on VA.gov?
 - Is "Notifications" the right name for this feature? Should we still consider something like "Alerts" to avoid confusion with profile notification settings?
+- If users don't see common notifications in a notification center yet because VA Notify does not yet support them (eg. new message from your doctor, or a prescription shipping), will users trust the feature?
+- How would a notification center affect the navigation? How would this affect other teams?
+- Have other teams talked to users about how they expect to see notifications on VA.gov (eg. has this come up through health apartment research at all? Or VAOS? Or the mobile app? etc.
 - Should we show a certain number of notifications on My VA and provide a link to a "view all" page? How many notifications would that be if so?
 - Where should notifications be surfaced within the navigation of VA.gov, if at all?
 - How should we indicate that a user has new notifications in the navigation, on My VA, and in the notification center (if we create opt to create one)?
+
+### Detail questions (for later)
+- What would increase interactions with the notifications feature? And is this important enough to tackle in V2?
 - Do notifications need to be coded so that they disappear from My VA (and/or a notification center) once they are no longer relevant? (Example: an upcoming appointment that has passed; a message that has been read)
 - Should actionable notifications be surfaced before newer notifications that may be more informative, or should they always go in chronological order?
