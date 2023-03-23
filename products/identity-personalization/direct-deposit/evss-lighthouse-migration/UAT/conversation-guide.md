@@ -1,8 +1,7 @@
 # Conversation Guide: Direct deposit for compensation & pension EVSS > Lighthouse migration UAT, March 2023
 
 ### Project-specific setup
-- Check participant information to see what types of login(s) credentials they may have (Login.gov, ID.me, DS Logon, MyHealtheVet), whether or not they are eligible for direct deposit, and whether or not they have direct deposit set up.
-- Note: These sessions will not be recorded.
+- Check participant information to see what types of login(s) credentials they may have (Login.gov, ID.me, DS Logon, MyHealtheVet).
 
 ## Introduction - 2 minutes
 Thanks for joining us today. My name is Florence and I have some colleagues on the line observing and taking notes. Today we're going to look at the Profile at VA.gov together to make sure everything is working as intended.
@@ -28,10 +27,9 @@ _Once they arrive at VA.gov:_ Next, could you login using -------? (either Login
 _Direct user to Direct Deposit section of Profile_
 
 - [ ] **UAT TASK:** Confirm that they are LOA3. If they are not, they should see a "Verify your identity" prompt. If they are not LOA3, end the session.
-- [ ] **UAT TASK:** Confirm that based on user type, the correct view of profile is visible:
-	* For user A: See messaging that they are not eligible for direct deposit. **Once complete, move to optional task #6**
-	* For user B: See a prompt to set up direct deposit. **Once complete, move to optional task #6**
-	* For user C: See their direct deposit info in read-only view. **Continue on to task #2 directly below**
+- [ ] **UAT TASK:** Confirm that their direct deposit information is visible in the Profile (read-only view).
+	* If see messaging that they are not eligible for direct deposit, then they likely do not receive disability compensation from the VA. If this is the case, end the session.
+	* If see prompt to set up direct deposit, then they likely receive disability compensation via check, as opposed to direct deposit. If that's the case, move to optional task 6.
 
 ## UAT Task #2: Cancel an edit to direct deposit info - 2 minutes
 Next, I'll have you click to edit your direct deposit info. Don't worry, we won't change your information. Now click cancel, and let's see what happens. 
@@ -54,8 +52,8 @@ After that, I want you to click edit again, and this time click save. That actio
 
 - [ ] **UAT TASK:** When user clicks edit and save, they receive a confirmation email.
 
-**End of session for user C**
-If time allows, can move on to tasks below.
+**If out of time, end session**
+If time allows (and user has other VA logins), can move on to optional tasks below.
  
 ----------------------------------------
 ## Optional Tasks
@@ -67,10 +65,7 @@ Okay now I'll have you log out of your VA.gov account and I want you to try to l
 Now, navigate once again to the Direct Deposit section of your Profile and let's see what's there. 
 
 - [ ] **UAT TASK:** Confirm that this account is also LOA3. If they are not, they should see a "Verify your identity" prompt.
-- [ ] **UAT TASK:** Confirm that based on user type, the correct view of profile is visible:
-	* For user A: See messaging that they are not eligible for direct deposit.
-	* For user B: See a prompt to set up direct deposit.
-	* For user C: See their direct deposit info in read-only view.
+- [ ] **UAT TASK:** Confirm that their direct deposit information is visible in the Profile (read-only view).
 
 ## UAT Task #7: MHV or DS Logon user - 10 minutes
 Okay now I'll have you log out of your VA.gov account and I want you to try to login using your ------ account (MyHealtheVet or DS Logon).
