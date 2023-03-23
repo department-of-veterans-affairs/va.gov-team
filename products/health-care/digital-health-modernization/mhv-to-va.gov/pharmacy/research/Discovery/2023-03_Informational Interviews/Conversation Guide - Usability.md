@@ -25,9 +25,8 @@ Does that all make sense, and sound okay to you? Great! Any questions before we 
 Before we dig into some detailed questions, I will start with general questions, then we will go from there:
 
 - Can you tell me a bit about what you work on for MHV pharmacy (or other medication related tools)? 
-- ~~What tasks do Veterans use MHV pharmacy or other medication tools to complete most often today? ~~
-- What feedback have you heard about the MHV pharmacy or other medication tools functionality today from users, or from VA staff?
-- ~~For the previous research or usability testings you have done, did you speak with Veterans and caregivers? ~~
+- ~~What tasks do Veterans use MHV pharmacy or other medication tools to complete most often today?~~
+- ~~For the previous research or usability testings you have done, did you speak with Veterans and caregivers?~~
 
 ## Product functionality
 
@@ -38,13 +37,12 @@ Before we dig into some detailed questions, I will start with general questions,
   - ~~For medications that have been shipped~~
   - ~~For medications that are expiring and being discontinued~~
 - How do Veterans request changes to their medication list today?
-- How do Veterans communicate to their providers that some medications aren’t showing up on their medication list?
+- How do Veterans communicate to their providers that some medications aren’t showing up or are wrong on their medication list?
 - ~~What are the use cases for Veterans to review and download data for medications that they are no longer taking, or that have been discontinued, expired, or otherwise deactivated?~~
-- Is there any functionality on MHV pharmacy or other medication related tools that are specific to CHAMPVA patients? 
 
 ## Design
 
-- What are the biggest issues that users have with using the various medication-related tools available today?
+- What are the biggest issues that patients have with using the various medication-related tools available today?
 - What are the biggest issues that clinicians have with the medication tools their patients use at the VA? 
 - ~~What accessibility issues are you aware of that exist in the way <> functionality works today?~~
 - What are the biggest issues that VA pharmacists have with the medication tools patients are use at the VA? 
@@ -66,7 +64,7 @@ Before we dig into some detailed questions, I will start with general questions,
 
 
 ### Closing
-
+- Is there any functionality on MHV pharmacy or other medication related tools that are specific to CHAMPVA patients? 
 - What are the constraints of medication data you're aware of we should know about? 
 - What about legal or policy-based constraints? 
 - Help us see around the corner. What do you think is the biggest challenges we will face as we develop medication functionality on VA.gov?
