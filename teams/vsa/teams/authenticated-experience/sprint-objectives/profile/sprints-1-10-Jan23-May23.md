@@ -331,6 +331,13 @@ New PM starts on April 3rd. Some of these tickets might continue to Sprint 8 if 
 
 **Is backend/frontend work done at this point? If so, we are ready to move on to QA tasks next sprint**
 
+### Notification preferences
+
+**FE - Adam**
+
+- Update notification preferences so that the feature flag can filter by channel (email/text) #55657
+- Update notification preferences so that it filters out the new QuickSubmit group #55658
+
 ### Logged-in IA/nav research
 
 **Design - Liz**
@@ -343,7 +350,6 @@ New PM starts on April 3rd. Some of these tickets might continue to Sprint 8 if 
 **Design - Florence**
 
 - UX Improvements: Heuristic Review and Analysis of Profile and My VA #53227 (finish up 3 points left IF unable to get to in Sprint 6) - per BX
-
 
 ## Sprint 8 (4/12 - 4/25)
 Sprint 8 Epic [#54916](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/54916)
