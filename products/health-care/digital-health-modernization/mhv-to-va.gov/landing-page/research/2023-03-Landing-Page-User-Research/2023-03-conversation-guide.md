@@ -127,7 +127,7 @@ Great, now I can see your screen! Thank you for your patience in figuring this o
 16. If you wanted to be reminded that you have an appointment, that would require setting that up as a "preference." How would you go about doing that? 
 	- _Probe for whether this should be in Profile or somewhere health-specific._ 
 
-17. What about if you wanted to sign up for the MHV newsletter - where would you go to do that? 
+17. What about if you wanted to sign up to track you prescription refills, like you can on Amazon - where would you go to sign up to do that? 
 	- _Probe for whether this should be in Profile or somewhere health-specific._ 
 
 18. Is there anything else that we haven't talked about that you think I should know? 
