@@ -82,7 +82,7 @@ What dates do you plan to do research?
 - Tentative: April 2023
 
 ### Length of sessions
-45 minute session for all participants 
+30 minute session for all participants 
 
 ## Team Roles	
 - Moderator: Florence McCafferty, florence.mccafferty@agile6.com
