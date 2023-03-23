@@ -47,7 +47,7 @@ Before we dig into some detailed questions, I will start with general questions,
 - ~~What accessibility issues are you aware of that exist in the way <> functionality works today?~~
 - What are the biggest issues that VA pharmacists have with the medication tools patients are use at the VA? 
 - Of the three applications available (MHV, Rx Refill, Mobile), which do you think is the best and why?
-- ~~What are the functionalities the app currently provides and plan to in the future? ~~
+- ~~What are the functionalities the app currently provides and plan to in the future?~~
 - ~~Can you send us any user research and usability testing reports on <>?~~
 - ~~What gap was Flagship Mobile app trying to fill for RxRefill app?~~
 
