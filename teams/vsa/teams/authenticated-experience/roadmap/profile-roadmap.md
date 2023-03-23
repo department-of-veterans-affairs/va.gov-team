@@ -1,6 +1,6 @@
 # VA.gov profile roadmap
 
-**Last updated: March 21, 2023**
+**Last updated: March 23, 2023**
 
 ## Current projects & enhancements
 
@@ -69,6 +69,7 @@ Quarters are by calendar year, not fiscal year.
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
+|Upgrade to contact info V2 and address validation V3| VA Profile| Initial heads-up 3.23.23| Mike Richard mentioned we'll need to update our contact information and address validation functionality to the next level of service, but says that while the updates will likely be available between April and June, there is no set timeline for sunsetting the versions we are on now.|
 |Telephone verification functionality| VA Profile| 1.26.23| Karisa Strickland brought this up on our 1.26.23 call, and that they would like to pilot something with us during Q2 CY2023|
 | Integrate emergency contact, next of kin, and insurance information into the VA.gov profile | Ming/Caregivers/Check-in experience| 5.4.21 | Ming reached out about adding this info into the profile as part of the check-in experience work, but we agreed that it probably doesn't need to reflect in the profile for their MVP. However it likely should show and be updatable from there at some point in time.|
 |Remove extension for non-work phone numbers | VA Profile |September 2020| We had some initial conversations about this with VA Profile, but it still hasn't gone anywhere|
