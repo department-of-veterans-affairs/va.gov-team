@@ -28,8 +28,9 @@
 - [Goals](#goals)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
-- [Solution Approach](#solution-approach)
 - [Measuring Success](#measuring-success)
+- [Key deliverables](#key-deliverables)
+- [Key dates](#key-dates)
 - [Backend](#backend)
 
 ## Overview
@@ -66,11 +67,24 @@ As a person that receives payments from VA, I want to be able to easily view and
 
 - There are disruptions or issues as a result of the migration from EVSS > Lighthouse.
 
-## Solution approach
+## Measuring success
 
-**Anticipated launch date**: tbd
+**Objective 1: Improve save success rates by migrating to Lighthouse**.
 
-### Key dates
+|Save success rate 1 month pre-launch [dates]|Save success rate 1 month post-launch to 100% of users [dates]|Save success rate 2 months post-launch to 100% of users [dates]|
+|------|------|-----|
+|TBD|TBD|TBD|
+
+## Key deliverables
+
+|Deliverable|Date completed|
+|-----------|--------------|
+|[Project epic: #51900](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/51900)| N/A|
+|[QA spreadsheet](https://docs.google.com/spreadsheets/d/12gvlkGnwt206BBYY89gDIYG1AtD6j9uCYMr5x99Nzns/edit#gid=0)| TBD|
+|UAT results|TBD|
+|Release plan|TBD|
+
+## Key dates
 
 - Early 2022: Support Lighthouse's discovery
 - December 2022: Lighthouse is ready for us to begin integration
@@ -82,21 +96,12 @@ As a person that receives payments from VA, I want to be able to easily view and
 - June 2023: On hold while Samara is on maternity leave
 - July 2023: Launch
 
-## Measuring success
-
-**Objective 1: Improve save success rates by migrating to Lighthouse**.
-
-|Save success rate 1 month pre-launch [dates]|Save success rate 1 month post-launch to 100% of users [dates]|Save success rate 2 months post-launch to 100% of users [dates]|
-|------|------|-----|
-|TBD|TBD|TBD|
-
 ## Backend
 
 - We need to request OAuth credentials to sandbox. We'll also need production credentials.
 
-### Key documentation
+### Documentation
 
-- [Project epic: #51900](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/51900)
 - [Developer.va.gov documents](https://developer.va.gov/explore/benefits/docs/direct-deposit-management?version=current)
 - [Request Sandbox Access](https://developer.va.gov/onboarding/request-sandbox-access)
 - [Max.gov API docs](https://community.max.gov/pages/viewpage.action?pageId=2286748585)
