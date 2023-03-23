@@ -105,6 +105,11 @@ Great, now I can see your screen! Thank you for your patience in figuring this o
 
 8. What about "Health history" - what do you think you would find if you clicked on that link?
 
+_Optional questions to try out:_
+	- Where would you go to find a record of your vaccines?
+	- Where would you go to find a progress note that your doctor wrote during a recent visit?
+	- How would you get a copy of your entire medical record?
+
 9. If you needed to get paid back by the VA for having to drive a long distance to a VA medical center for an appointment, where would you go to submit the receipts to be paid back? 
 
 10. If you needed to see a healthcare provider outside of the VA and you wanted to see if that would still be covered by your VA benefits, how would you figure that out? 
