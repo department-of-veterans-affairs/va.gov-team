@@ -1,6 +1,6 @@
 # Research outline: Identifying issues and challenges people have finding tasks when they are signed in to VA.gov
 
-**Last Updated: March 22, 2023**
+**Last Updated: March 23, 2023**
 
 ## Table of Contents
 
@@ -134,10 +134,23 @@ Though we are focusing research on issues people have once they are signed in to
 - Mocking up new navigation updates or patterns as part of our findings.
 - Capturing specific problems with individual products (eg. login credentials, claim status tool, etc).
 
+## Key deliverables
+
+|Deliverable|Date completed|
+|-----------|----|
+|[Previous research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/research-review-findings.md)| January 2023|
+|[Medallia/Call center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/qualitative-data-findings.md)| February 2023|
+|[Analytics review](https://docs.google.com/spreadsheets/d/12gvlkGnwt206BBYY89gDIYG1AtD6j9uCYMr5x99Nzns/edit#gid=0)| March 2023|
+|[User research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/research-plan.md)| March 2023|
+|[User research conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/conversation-guide.md)| March 2023|
+
+
 ## Key dates
 
 - January 2023: Define scope of project; conduct research review
-- February 2023: Call center and Medallia data review; Analytics review
+- February 2023: Call center and Medallia data review; Analytics review; Effort temporarily on hold while waiting for team availability
+- March 2023: User research prep
+- April 2023: User research sessions + write up; Final research summary
 
 ## Research activities
 
