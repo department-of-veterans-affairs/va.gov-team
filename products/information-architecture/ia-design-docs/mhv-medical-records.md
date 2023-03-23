@@ -18,7 +18,8 @@ Last Updated 3/23/23 -- KO edits
 ## <a name="flows"></a>User/page flows <br>
 *Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
 
-ADD SCREENSHOT OF WORKFLOW
+![Workflow for sharing medical records](https://user-images.githubusercontent.com/122126772/227365555-5c623289-fa7c-45d9-9cf1-c2094b467840.png)
+
 
 User Flow Notes:
 
@@ -41,8 +42,7 @@ User Flow Open Quetions:
 <br>
 - The medical records features will be organized into 3 separate groups within the MHV on VA.gov experience: lab and test resutls, health history, and medical records - represented by the oranged dashed outlines in the below diagram
 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/39f2c201-c5e2-48cd-89ad-ddb8d731482a)
-
+![Medical Records on MyHealth on VA.gov sitemap](https://user-images.githubusercontent.com/122126772/227365672-b4f97010-8783-49f4-a07f-e017f9e3fe60.png)
 
 
 ## <a name="url"></a>URLs and breadcrumbs
@@ -74,7 +74,7 @@ Share Medical records page  | www.va.gov/my-health/medical-records | Desktop:  V
 *Secondary navigation needs within this feature.*
 
 - Secondary/left navigation order
-  - About VA Medical Records
+  - About VA medical records
   - Lab and test results
   - Health history
     - Care notes and summaries
@@ -83,7 +83,6 @@ Share Medical records page  | www.va.gov/my-health/medical-records | Desktop:  V
     - Health conditions
     - Vitals
   - Share medical records
-
 
 <hr>
 <hr>
@@ -101,7 +100,7 @@ Open issues:
   - In phase 2, the landing page will move to R+S.
   - Other changes to the left nav are pending user research and syncing with other MHV tools.
 - identify where existing medical records and lab and test results link on My VA links to
-  - ADD SCREENSHOT
+  - ![Destination of medical recods link on va.gov](https://user-images.githubusercontent.com/122126772/227366022-7095ff05-a69f-421c-b919-ea67b42ffde3.png)
 - identify what changes are needed to health care hub, inlcuding the existing get medical records page and lab an tests results page
   - Currently, we have a static page for lab and tests and for getting medical records, but not for health history. 
   - Do we need to broaden page to include access to lab and tests as well as health history, or do we keep individual pages (health history page does not exist)
