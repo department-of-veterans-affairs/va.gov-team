@@ -1,4 +1,4 @@
-# Research Plan for OCTO Benefits Portfolio Support Team, April X to X, 2023
+# Research Plan for OCTO Benefits Portfolio Support Team, April 11, 2023
 
 ## Background
 - What problem is your product trying to solve?
