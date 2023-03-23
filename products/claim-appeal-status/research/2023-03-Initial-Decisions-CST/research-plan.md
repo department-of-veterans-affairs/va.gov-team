@@ -27,7 +27,7 @@ There are three areas in particular that we hope to explore:
 
 - We want to understand **what information Veterans specifically want to know to stay informed** as their claim goes through the initial decision process.
 
-- We want to understand **the experience Veterans have with requests to provide additional evidence.** We want to find opportunities to help Veterans provide better evidence in support of their, earlier in the process.
+- We want to understand **the experience Veterans have with requests to provide additional evidence.** We want to find opportunities to help Veterans provide better evidence in support of their claims, earlier in the process.
 
 - We want to understand **the experience Veterans have with requests for C&P exams.** We want to find opportunities to set the right expectation for Veterans going to C&P exams.
 
