@@ -155,11 +155,11 @@ Lab and test results include the following information
 |Data field       | Suggested label | USCDI v1 data element mapping| Notes    | Questions|           
 |:------------------------|:-----------------------|:-----------------|:---------------------|:---------------------|
 |Allergy name | Allergy | [Substance (Medication)](https://www.healthit.gov/isa/taxonomy/term/896/uscdi-v1)|Thing that caused the allergic reaction, like "penicillin" |
-|Date entered |  | Date entered |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
-|Severity  |Severity | _None_|| Level of reaction, like "moderate" or "severe"|Are there set options to choose from in this field, or is it free entry?|
+|Date entered | Date entered |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
+|Severity  |Severity | _None_|Level of reaction, like "moderate" or "severe"|Are there set options to choose from in this field, or is it free entry?|
 |Allergy type |Type of allergy | _None_|The type of thing that caused the allergy, like "drug" for penicillin | |Are there set options to choose from in this field, or is it free entry?|
-|VA drug class | ||[Substance (Drug Class)](https://www.healthit.gov/isa/taxonomy/term/901/uscdi-v1) | |Does this field appear on non-medication allergies (like latex)?| 
-|Reaction  |Reaction |[Reaction](https://www.healthit.gov/isa/taxonomy/term/906/uscdi-v1) || Description of signs and symptoms, like "rash"|
+|VA drug class | |[Substance (Drug Class)](https://www.healthit.gov/isa/taxonomy/term/901/uscdi-v1) | |Does this field appear on non-medication allergies (like latex)?| 
+|Reaction  |Reaction |[Reaction](https://www.healthit.gov/isa/taxonomy/term/906/uscdi-v1) | Description of signs and symptoms, like "rash"|
 |Observed/Historical |Observed or reported| _None_|We'll need to either add explanatory text here or adjust the data to read "Provider observed the reaction" or "You reported the reaction to your provider"||
 |Location |Location | _None_|
 |Comments |Provider notes | _None_|
@@ -208,8 +208,8 @@ Note: USCDI also includes 3 vitals for babies and children: BMI (2-20 years), we
 
 |Data field       | Suggested label | USCDI v1 data element mapping | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
-|Latest reading ||| [List of vital signs](https://www.healthit.gov/isa/uscdi-data-class/vital-signs#uscdi-v1) ||Each vital sign listed includes both the vital sign and specification for measurement|
-|Date of latest reading|| |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
+|Latest reading ||[List of vital signs](https://www.healthit.gov/isa/uscdi-data-class/vital-signs#uscdi-v1) ||Each vital sign listed includes both the vital sign and specification for measurement|
+|Date of latest reading||[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
 |Location of latest reading|| |
 |Reading|| |
 |Date of entry |Date entered||
