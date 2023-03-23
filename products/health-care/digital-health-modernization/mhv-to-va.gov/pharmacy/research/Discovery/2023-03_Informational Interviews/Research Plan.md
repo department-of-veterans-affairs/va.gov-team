@@ -115,27 +115,27 @@ By the end of this research effort, we will be able to:
 
 # Methodology, Recruitment, and Next Steps
 
-## Round 1: Semi-structured interviews with internal subject matter experts**
+## Semi-structured interviews with internal subject matter experts**
 Description: Conduct semi-structured interviews with internal subject matters experts using conversation guides. Synthesize findings, develop requirements and other deliverables.
 Timing: 
-Location: Zoom 
+Location: Zoom and Slack
 Participants: Internal subject matter experts (#? total interviews)
 
-**Clinical:**
+**Week 1: Demo (AVS, Flagship Mobile App, RxRefill App) and Q&As**
+- Shane Elliott and Rob Durkin - AVS & PVS Product managers
+- Chris Ray, Rx Refill App Product managers 
+- Meko Hong, Flagship mobile app PM
+
+**Slack communicate any usability questions about MHV Pharmacy**
+- Arienne Walters and Harrison Amelang, MHV pharmacy designers from ByLight
+- Raquel and Tanner, ByLight product owners
+
+**Week 2: Deep Dive into Clinical**
 - Maureen Layden (maureen.layden@va.gov), Physician - Director, VA Medication Reconciliation Initiative
 - Eric Spahn (eric.spahn@va.gov), Clinical analyst - Pharmacy Benefits Management, OCC business line owner 
 - Margo Kabel (margo.kabel@va.gov) VHA Health informatics, program analyst, HCD
-- Chris Ray, contractor PM on Rx Refill app
 - Rob Silverman 
 - Other pharmacists? 
-
-**Usability:**
-- Arienne Walters and Harrison Amelang, MHV pharmacy designers from ByLight
-- Raquel and Tanner, ByLight product owners
-- Meko Hong, Flagship mobile app PM
-- Rx Refill App Product managers 
-- Rick Ross - My VA Health 
-- Shane Elliott and Rob Durkin - AVS & PVS Product managers
 
 *For data transfering and technical knowledge on medications, we should sync up with VA flagship mobile team engineers.*
 
