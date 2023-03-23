@@ -106,6 +106,7 @@ Great, now I can see your screen! Thank you for your patience in figuring this o
 8. What about "Health history" - what do you think you would find if you clicked on that link?
 
 _Optional questions to try out:_
+
 	- Where would you go to find a record of your vaccines?
 	- Where would you go to find a progress note that your doctor wrote during a recent visit?
 	- How would you get a copy of your entire medical record?
