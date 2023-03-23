@@ -49,7 +49,7 @@ Before we dig into some detailed questions, I will start with general questions,
 - Of the three applications available (MHV, Rx Refill, Mobile), which do you think is the best and why?
 - ~~What are the functionalities the app currently provides and plan to in the future? ~~
 - ~~Can you send us any user research and usability testing reports on <>?~~
-- ~~What gap was Flagship Mobile app trying to fill for RxRefill app? ~~
+- ~~What gap was Flagship Mobile app trying to fill for RxRefill app?~~
 
 
 ## AVS & PVS
