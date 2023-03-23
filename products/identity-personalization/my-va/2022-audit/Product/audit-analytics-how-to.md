@@ -5,7 +5,7 @@ This document serves as a guide for Google Analytics tracking on My VA, post-lau
 
 |  **My VA section**     |  **Text of link or button as it appears on My VA**  | **Screenshot** |**Google Event Tag**|**New in this iteration?**| **Previous event tag (if applicable)** |
 |--------------------|----------------------------------------------------|------------|-------------------------|-----------|-------------------------|
-| Claims and Appeals | Manage all claims and appeals                      |            |	`Navigation - Link List - Claims and appeals - Manage all claims and appeals` | Yes | `Navigation - Link List - Claims and appeals - Check your claim or appeal status`|
+| Claims and Appeals | Manage all claims and appeals                      |![Claims and appeals  Manage all claims and appeals](https://user-images.githubusercontent.com/45603961/227317522-c08523a9-a3fe-470c-9433-adbf0bec90ab.png)|	`Navigation - Link List - Claims and appeals - Manage all claims and appeals` | Yes | `Navigation - Link List - Claims and appeals - Check your claim or appeal status`|
 | Claims and Appeals | Review details (click into individual claims)      |            | `Navigation - View Button - View Claim` | No | Not applicable - no change|
 | Claims and Appeals | Learn how to file a claim	                        |            | `Navigation - Link List - Claims and appeals - Learn how to file a claim`| Yes | Not applicable - new link |
 | Health Care        | Schedule and manage your appointments (appts card) |	           |       | Yes (once corrected should match below)|       |
