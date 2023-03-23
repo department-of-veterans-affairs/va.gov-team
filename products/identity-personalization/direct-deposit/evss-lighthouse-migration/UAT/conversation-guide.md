@@ -16,9 +16,9 @@ Thanks for joining us today. My name is Florence and I have some colleagues on t
  ## Screen questions - 3 minutes
  1. Can you confirm for me that you have a username and password for VA.gov?
  2. When you login at VA.gov, what is the type of login you tend to use (options are: Login.gov, ID.me, DS Logon, MyHealtheVet)
+	- If participant has neither a Login.gov account nor an ID.me account, end the session.
  3. Besides that, do you have logins for any of the other options?
- 4. Okay and then, it looks like you reported that: you regularly receive a check in the mail from the VA (user B) OR you regularly receive direct deposits into a bank account from the VA (user C), OR you don't currently receive a check in the mail OR a direct deposit from the VA (user A). Is that right?
-
+ 
 ## Share screen and login to LOA3 account (either Login.gov or ID.me) - 5 minutes
 Great, thanks for providing that information. I think we're good to move ahead. For the next step, I'll have you share you screen so we can look at VA.gov together. 
 _Once can see their screen:_ Could you now open a browser and go to VA.gov? 
@@ -29,8 +29,8 @@ _Direct user to Direct Deposit section of Profile_
 
 - [ ] **UAT TASK:** Confirm that they are LOA3. If they are not, they should see a "Verify your identity" prompt. If they are not LOA3, end the session.
 - [ ] **UAT TASK:** Confirm that based on user type, the correct view of profile is visible:
-	* For user A: See messaging that they are not eligible for direct deposit. **Once complete, move to task #6**
-	* For user B: See a prompt to set up direct deposit. **Once complete, move to task #6**
+	* For user A: See messaging that they are not eligible for direct deposit. **Once complete, move to optional task #6**
+	* For user B: See a prompt to set up direct deposit. **Once complete, move to optional task #6**
 	* For user C: See their direct deposit info in read-only view. **Continue on to task #2 directly below**
 
 ## UAT Task #2: Cancel an edit to direct deposit info - 2 minutes
@@ -58,6 +58,8 @@ After that, I want you to click edit again, and this time click save. That actio
 If time allows, can move on to tasks below.
  
 ----------------------------------------
+## Optional Tasks
+_Ask the participant to complete these tasks if they stated at the beginning of the session that they have additional accounts on VA.gov.
 
 ## UAT Task #6: Switch to Login.gov or ID.me - 10 minutes
 Okay now I'll have you log out of your VA.gov account and I want you to try to login using your ------ account (Login.gov or ID.me).
@@ -66,10 +68,9 @@ Now, navigate once again to the Direct Deposit section of your Profile and let's
 
 - [ ] **UAT TASK:** Confirm that this account is also LOA3. If they are not, they should see a "Verify your identity" prompt.
 - [ ] **UAT TASK:** Confirm that based on user type, the correct view of profile is visible:
-	* For user A: See messaging that they are not eligible for direct deposit. **Once complete, move to task #**
-	* For user B: See a prompt to set up direct deposit. **Once complete, move to task #**
-	* For user C: See their direct deposit info in read-only view. **Continue on to task #2 directly below**
-
+	* For user A: See messaging that they are not eligible for direct deposit.
+	* For user B: See a prompt to set up direct deposit.
+	* For user C: See their direct deposit info in read-only view.
 
 ## UAT Task #7: MHV or DS Logon user - 10 minutes
 Okay now I'll have you log out of your VA.gov account and I want you to try to login using your ------ account (MyHealtheVet or DS Logon).
