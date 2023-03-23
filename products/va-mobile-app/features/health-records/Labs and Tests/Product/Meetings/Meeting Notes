@@ -1,0 +1,5 @@
+3/22/23 Slack with Bryan Riley 
+  These are just new APIs, any previous ones that don't use message threads should continue to work.  Even our legacy MHV SM application still uses those (They are not updating the UI to include threads
+  The new APIs are in prod already, I believe they went in about 5-6 weeks ago.  We are still updating our front end in VA.gov to use them.
+  For VA.gov SM we are still working to get our product out to Phase 0.  We are working on some design updates (to get our development to match the most updated designs).  We also are working on about 2-3 accessibility issues that came up from Midpoint review or after.  For example one of them is to correct tab order issues.  Another is to ensure that as users are expanding messages that we have the right aria (screenreader) message get announced...
+  For API questions reach out to Oleksii Morgun
