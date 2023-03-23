@@ -54,11 +54,11 @@ LOA3 (ID.me or Login.gov) user that is eligible for direct deposit for comp & pe
 **All participants**
 - Must be able to screenshare via Zoom
 - Must be able to login to VA.gov with either ID.me or Login.gov
+- Must have a disability rating
 
 ### Additional screener questions
 
 **Verification level screener question**
-
 We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?**
 You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified.
 Response options: yes or no.
@@ -66,7 +66,6 @@ Response options: yes or no.
 - Answering "no" disqualifies the participant
 
 **Login method screener question**
-
 Do you have a working login and password for any of the following VA.gov login methods? (Select 1-4 options). **You will need your login credentials for the research session, so please make sure your credentials work before answering this question.**
 Response options: DS Logon, MyHealtheVet, Login.gov, ID.me, None of the above
 - If participant answers **only** DS Logon or MyHealtheVet, they are disqualified.
@@ -74,7 +73,6 @@ Response options: DS Logon, MyHealtheVet, Login.gov, ID.me, None of the above
 - If participant answers None of the above, they are disqualified.
 
 **What email address(es) do you use to login to VA.gov?**
-
 This is a fill in the blank question, no character limit, and is not qualifying or disqualifying.
 
 ### Research sessions
