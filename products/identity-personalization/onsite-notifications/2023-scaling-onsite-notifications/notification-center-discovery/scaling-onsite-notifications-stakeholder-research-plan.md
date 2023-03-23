@@ -18,7 +18,7 @@ Scaling onsite notifications will ensure that logged-in users have a personalize
 Since Veterans can apply for and manage their benefits on VA.gov any time after getting out of the military, this work impacts the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from Starting Up and beyond.
 
 ## Research Goals	
-### **1. Gather insights about action items from product owners and identify trends. **
+### **1. Gather insights about action items from product owners and identify trends.**
 
 - Have other teams talked to users about how they expect to see notifications or action items on VA.gov?
 - What relevant studies or data should we reference outside of the authenticated experience team as part of this discovery work?
