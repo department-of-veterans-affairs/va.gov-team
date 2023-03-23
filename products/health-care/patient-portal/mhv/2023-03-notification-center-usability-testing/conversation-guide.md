@@ -50,10 +50,9 @@ _Start recording._
 
 Before we look at the design, let's start with a few warm-up questions.
 
-1. Tell me about yourself: for example your job title? How long have you worked at the organization? Etc.
-2. When you think of a My HeatheVet notification center, what are the first things that come to mind? What would you expect from that feature?
-3. How often would you say you log into My HealtheVet?
-4. What are some ways you look for site updates? How do you find out about site changes?
+1. When you think of a My HeatheVet notification center, what are the first things that come to mind? What would you expect from that feature?
+2. How often would you say you log into My HealtheVet?
+3. What are some ways you look for site updates? How do you find out about site changes?
 
 **First Task: You are logged out of your account on My HealtheVet and want to check the Notification Center. Please go to the Notification Center main page. - 8 minutes**
 
@@ -70,15 +69,13 @@ I'm going to ask you to perform a series of tasks, even though this is a prototy
 
 **Post-Task Question:**
 
-- What thoughts do you have about this page?
-
 - On a scale of 1-5 what is the level of difficulty to complete the task? 1 being very difficult, 2 being difficult, 3 being neutral, 4 being easy, 5 being very easy. What made you choose [that number]? Why [X] and not [Y]?
 
 - How do you feel about the placement of the Notification Center Links? Is this where you would have expected them to be?
 
 - Did you notice the path that you didn't take to get to notifications?
-
-- How do you feel about the location of the "what's new" link?
+- How did you feel about having both the banner and the "what's new" link?
+- What thoughts do you have about the current page?
 
 **Second Task: You are now in the Notification Center main page. Please take the next steps you would take to see your personalized notifications. - 8 minutes**
 
@@ -90,9 +87,8 @@ I'm going to ask you to perform a series of tasks, even though this is a prototy
 
 **Post-Task Question:**
 
-- What thoughts do you have about this page?
-
 - On a scale of 1-5 what is the level of difficulty to complete the task? 1 being very difficult, 2 being difficult, 3 being neutral, 4 being easy, 5 being very easy. What made you choose [that number]? Why [X] and not [Y]?
+- What thoughts do you have about the current page?
 
 **Third Task: Now that you are logged in, you have access to your personalized notifications. Please go to the time sensitive alert in your feed and deal with the issue. - 8 minutes**
 
@@ -106,34 +102,14 @@ I'm going to ask you to perform a series of tasks, even though this is a prototy
 
 **Post-Task Question:**
 
-- What thoughts do you have about this page?
-
 - On a scale of 1-5 what is the level of difficulty to complete the task? 1 being very difficult, 2 being difficult, 3 being neutral, 4 being easy, 5 being very easy. What made you choose [that number]? Why [X] and not [Y]?
 
 - What would be good indicators of a time sensitive alert?
 - Did you feel the color for the time sensitive alert was appropriate?
+- On this page, can you confirm that your sign in credentials have been verified?
+- What thoughts do you have about the current page?
 
-**Fourth Task: Now that you've dealt with the alert, please show me confirmation that it is no longer a time sensitive issue. - 8 minutes**
-
-- Step 1: Participant will scroll down to find the completed notification card.
-
-**Things to watch for:**
-
-- Does the participant notice the card at the bottom?
-
-- Is the blank card at the bottom a good indicator of a completed time sensitive notification?
-
-- Does the participant find the new format helpful?
-
-**Post-Task Question:**
-
-- What thoughts do you have about this page?
-
-- On a scale of 1-5 what is the level of difficulty to complete the task? 1 being very difficult, 2 being difficult, 3 being neutral, 4 being easy, 5 being very easy. What made you choose [that number]? Why [X] and not [Y]?
-
-- Do you think having the ability to close the notification after it's been dealt with is helpful to you?
-
-**Fifth Task (Desktop only): Please go back to the homepage. Please show me how you'd look at the notifications without going directly to the notification center main page. - 8 minutes**
+**Fourth Task (Desktop only): Please go back to the homepage. Please show me the different ways to view notifications without going directly to the notification center page. - 8 minutes**
 
 - Step 1: Participant will hover (or click the arrow) over the "what's new" link to see the drop-down menu.
 
@@ -145,11 +121,11 @@ I'm going to ask you to perform a series of tasks, even though this is a prototy
 
 **Post-Task Question:**
 
-- What thoughts do you have about this page?
-
 - On a scale of 1-5 what is the level of difficulty to complete the task? 1 being very difficult, 2 being difficult, 3 being neutral, 4 being easy, 5 being very easy. What made you choose [that number]? Why [X] and not [Y]?
 
 - What use would you have for a drop-down preview like this?
+- What do you expect to happen if you hover on this while signed out?
+- What thoughts do you have about the current page?
 
 **Post-Task Interview - 8 minutes**
 
@@ -159,17 +135,14 @@ Look at notification center main page (once again). I would like you to scroll a
 
 - If you were to put a log/archive of older notifications, where would you put it? What would you expect it to look like?
 
-- Do you have any additional comments, questions or feedback for us?
-
+- If you could have a magic wand to make this new notification center feature better, what would you do?
 - Is there anything I didn't ask, and you were expecting me to ask you?
 
-- If you could have a magic wand to make this new notification center feature better, what would you do?
-
-- Any questions for me?
+- Any questions, comments or feedback for me?
 
 **Thank-You and Closing - 1 minutes**
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
