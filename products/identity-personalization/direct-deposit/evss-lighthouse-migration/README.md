@@ -1,6 +1,6 @@
 # Project outline: Migrate direct deposit for comp & pen from EVSS > Lighthouse
 
-**Last Updated: February 7, 2023**
+**Last Updated: March 23, 2023**
 
 ### Communications
 
@@ -15,7 +15,11 @@
 
 |Name|Role|Email|
 |----|----|-----|
-|Nichole Harris|Lighthouse PM|harris_nichole@bah.com or Nichole.Harris@va.gov|
+|Lee Helmer| Lead on the entire EVSS > Lighthouse effort| lee.helmer@adhocteam.us|
+|Lorri Glover | Involved with the direct deposit migration|glover_Lorri@bah.com|
+|Greg Feliberty |Involved with the direct deposit migration|feliberty_gregory@bah.com|
+|Andrew Ramos | Involved with the direct deposit migration| ramos_andrew@bah.com|
+|Dana Harris | Involved with the direct deposit migration|dana.harris@adhocteam.us|
 
 ### Table of Contents
 
@@ -72,6 +76,11 @@ As a person that receives payments from VA, I want to be able to easily view and
 - December 2022: Lighthouse is ready for us to begin integration
 - January 2023: Profile team begins discovery
 - February 2023: Backend migration
+- March 2023: Backend migration continues; FE + BE updates; QA planning
+- April 2023: QA & Pre-launch activities
+- May 2023: On hold while Samara is on maternity leave
+- June 2023: On hold while Samara is on maternity leave
+- July 2023: Launch
 
 ## Measuring success
 
