@@ -3,19 +3,19 @@
 Disability compensation, disability benefits, intent to file, ITF
 
 ## Resources
-- [ITF directory](/Products/Disability/Disability%20526EZ/engineering/itf)
+- [ITF directory](/Products/disability/526ez/archive/engineering/itf)
 
 ## Points of contact
-See [Team](/Products/Disability/Disability%20526EZ/README.md#team).
+See [Team](/Products/disability/526ez/README.md).
 
 ## History
-See the [Discovery documentation](/Products/Disability/Disability%20526EZ/engineering/itf/itf_discovery.md)
+See the [Discovery documentation](/Products/disability/526ez/archive/engineering/itf/itf_discovery.md)
 
 ## Current status
 `vets-website` uses an [ITF wrapper component](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/disability-benefits/all-claims/containers/ITFWrapper.jsx) to gate starting or continuing the form. The wrapper checks for current ITF status and, if an active ITF isn't found, makes the call to create a new one.
 
 ## How to test
-See [the README](/Products/Disability) for the application URL and test users.
+See [the README](/Products/disability/526ez/README.md) for the application URL and test users.
 
 To test ITF, simply start or continue the form.
 
@@ -32,4 +32,4 @@ To test ITF, simply start or continue the form.
 
 
 ## Error handling
-See the section in [`vets-website` error handling](/Products/Disability/Disability%20526EZ/Errors/vets-website.md#itf-fetch-error).
+See the section in [`vets-website` error handling](/Products/disability/526ez/Errors/vets-website.md#itf-fetch-error).
