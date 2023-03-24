@@ -1,7 +1,7 @@
 ## Travel Claims Submission - Async
 
 
-Here are the implementation details of Travel Claim submissions using background processing, rather than synchronous calls. This allows us to show the check-in status to the veterans quickly (~2 seconds average response time), rather than waiting 15-40 seconds for the claim submission call. The travel claim will be submitted in the background, and Veterans will be notified of the status of filing via a text message.
+Here are the implementation details of Travel Claim submissions using background processing, rather than synchronous calls. This allows us to show the check-in status to the veterans as soon as check-in is completed (~2 seconds average response time), rather than waiting 15-40 seconds for the claim submission call. The travel claim will be submitted in the background, and Veterans will be notified of the status of filing via a text message.
 
 The async implementation requires us to enqueue a job in [Sidekiq](https://sidekiq.org/) and respond to the website with a `HTTP 202 Accepted`. This indicates that we have enqueued the request, but no processing has been done.
 
