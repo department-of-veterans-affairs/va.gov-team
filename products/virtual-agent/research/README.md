@@ -1,5 +1,8 @@
 # Research
 
+## 2023 Research
+| Date                 | Activity                 | Description         | Output        |
+| :-------------              | :-------------              |:-------------         |:-------------|
 
 ## Phase 3 Research Activites and Output
 | Date                 | Activity                 | Description         | Output        |
