@@ -904,6 +904,34 @@ See notes above about ID.me and DS Logon accounts.
    </td>
   </tr>
   <tr>
+   <td>hasPrimaryIdOnFile
+   </td>
+   <td>Number
+   </td>
+   <td>not null
+   </td>
+   <td>1 or 0
+   </td>
+   <td>This is a convenience field for reports and reports true if the record is associated with a user that did MHV In-Person proofing and thus would have a Primary ID on file.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>isCorrelated
+   </td>
+   <td>Number
+   </td>
+   <td>not null
+   </td>
+   <td>1 or 0
+   </td>
+   <td>This is a convenience field for reports whether the MHV users with primary ID on file correlate to a user in the IAM export. Correlation is based on ICN.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
    <td>hasDSLDirect
    </td>
    <td>Number
@@ -946,6 +974,20 @@ See notes above about ID.me and DS Logon accounts.
    </td>
   </tr>
   <tr>
+   <td>hasMHV
+   </td>
+   <td>Number
+   </td>
+   <td>
+   </td>
+   <td>1 or 0
+   </td>
+   <td>True if 1.  This is a convenience field for reports and reports true for the 200MH or 200VIDM-IDME_MHV.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
    <td>dsl-direct-recordCreated
    </td>
    <td>Date
@@ -954,9 +996,9 @@ See notes above about ID.me and DS Logon accounts.
    </td>
    <td>
    </td>
-   <td>
-   </td>
    <td>The more recent of recordCreated date associated with either DSLogon or 200DOD CSP Identifier Codes
+   </td>
+   <td>
    </td>
   </tr>
   <tr>
@@ -968,10 +1010,10 @@ See notes above about ID.me and DS Logon accounts.
    </td>
    <td>
    </td>
-   <td>
-   </td>
    <td>The more recent of recordCreated date associated with either dsl-direct-recordCreated or ID.me credential with IDME_DSL csp method
    </td> 
+   <td>
+   </td>
   </tr>
   <tr>
    <td>dsl-direct-lastUsed
@@ -982,9 +1024,9 @@ See notes above about ID.me and DS Logon accounts.
    </td>
    <td>
    </td>
-   <td>
-   </td>
    <td>The more recent of lastUsed date associated with either DSLogon or 200DOD CSP Identifier Codes
+   </td>
+   <td>
    </td>
   </tr>
   <tr>
@@ -996,35 +1038,147 @@ See notes above about ID.me and DS Logon accounts.
    </td>
    <td>
    </td>
-   <td>
-   </td>
    <td>The more recent of lastUsed date associated with either dsl-direct-recordCreated or ID.me credential with IDME_DSL csp method
    </td> 
+   <td>
+   </td>
   </tr>
   <tr>
-   <td>hasPrimaryIdOnFile
+   <td>lgnAndIDmeSegments
    </td>
-   <td>Number
+   <td>Text
    </td>
-   <td>not null
+   <td>nullable
    </td>
-   <td>1 or 0
+   <td>
    </td>
-   <td>This is a convenience field for reports and reports true if the record is associated with a user that did MHV In-Person proofing and thus would have a Primary ID on file.
+   <td>Indicates if user has both, either or neither of ID.me or Login.gov, based on presence of 200VLGN or 200VIDM CSP Identifier Codes. And for 200VIDM, only including the set with either IDME or null CSP Method.
    </td>
    <td>
    </td>
   </tr>
   <tr>
-   <td>isCorrelated
+   <td>ufHasDSL
    </td>
-   <td>Number
+   <td>Text
    </td>
    <td>not null
    </td>
-   <td>1 or 0
+   <td>yes or no
    </td>
-   <td>This is a convenience field for reports whether the MHV users with primary ID on file correlate to a user in the IAM export. Correlation is based on ICN.
+   <td>User friendly for filters. Yes if hasDSL = 1.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>ufHasLGN
+   </td>
+   <td>Text
+   </td>
+   <td>not null
+   </td>
+   <td>yes or no
+   </td>
+   <td>User friendly for filters. Yes if 200VLGN = 1.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>ufHasIDme
+   </td>
+   <td>Text
+   </td>
+   <td>not null
+   </td>
+   <td>yes or no
+   </td>
+   <td>User friendly for filters. Yes if 200VIDM-IDME = 1.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>ufHasMHV
+   </td>
+   <td>Text
+   </td>
+   <td>not null
+   </td>
+   <td>yes or no
+   </td>
+   <td>User friendly for filters. Yes if hasMHV = 1.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>ufHasDSLDirect
+   </td>
+   <td>Text
+   </td>
+   <td>not null
+   </td>
+   <td>yes or no
+   </td>
+   <td>User friendly for filters. Yes if hasDSLDirect = 1.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>ufHasDSLIDmeMFA
+   </td>
+   <td>Text
+   </td>
+   <td>not null
+   </td>
+   <td>yes or no
+   </td>
+   <td>User friendly for filters. Yes if 200VIDM-IDME_DSL = 1.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>ufHasMHVIDmeMFA
+   </td>
+   <td>Text
+   </td>
+   <td>not null
+   </td>
+   <td>yes or no
+   </td>
+   <td>User friendly for filters. Yes if 200VIDM-IDME_MHV = 1.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>ufHasMHVDirect
+   </td>
+   <td>Text
+   </td>
+   <td>not null
+   </td>
+   <td>yes or no
+   </td>
+   <td>User friendly for filters. Yes if 200MH = 1.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>ufHasMHVPrimaryIdOnFile
+   </td>
+   <td>Text
+   </td>
+   <td>not null
+   </td>
+   <td>yes or no
+   </td>
+   <td>User friendly for filters. Yes if hasPrimaryIdOnFile = 1.
    </td>
    <td>
    </td>
