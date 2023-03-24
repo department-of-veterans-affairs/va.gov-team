@@ -125,12 +125,13 @@ Timeline
 
 Test materials will be finalized by Monday, March 20th 2023
 
-Pilot participant email: Angela Fowler
-Date and time of pilot session: Friday, March 24th 2023 at 3pm EST 
+We will not need Perigean to coordinate the Pilot session:
+- Pilot participant: Angela Fowler
+- Date and time of pilot session: Friday, March 24th 2023 at 3pm EST 
 
 ### Research sessions
 
-Research session will begin on ar after Thursday, March 30th 2023
+Research session will begin on or after Thursday, March 30th 2023 and end on Thursday, April 13th.
 
 ### Length of sessions
 
