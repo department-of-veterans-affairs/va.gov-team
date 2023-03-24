@@ -38,8 +38,8 @@ Great, thank you. We have an accessibility specialist in the session, standing b
 ## Warm-up Questions - 5 minutes
 Before we start looking at the website, I want to learn more about you.  When the session was scheduled you provided some information. 
 
-- I understand you are a [*Veteran / Caregiver / Family member )* Is that right? 
-	- *If Caregiver, confirm:* Are you a caregiver for a Veteran? Are you a Veteran?
+- I understand you are a [*Veteran / Caregiver for a Veteran / Family member*] Is that right? 
+	- *If Caregiver, confirm:* Are you a Veteran?
 - And, according to my notes you have [*services/benefits from Perigean participant tracker*] through VA. Is that correct? 
 - Thanks for confirming that. Are there any other benefits or services that you receive?
 - Do you manage or access that benefit or service online at all? Tell me more about that.
@@ -73,12 +73,14 @@ It’ll help if you can think out loud as much as possible.
 **If participant does not have any recent experience with VA to pull from, pull logged-in task from Cindy’s top task research findings:**
 Imagine you wanted to get your VA medical history. Show me how you’d go about doing that. It’ll help if you can think out loud as much as possible.
 
+*Task success: find a secure messaging CTA*
+
 - *If needed,*
 	- Tell them to open a browser
 	- Can you show me how you’d do that on the VA website?
 	- Tell them to decline the pop-up asking them to preview the new home page.
 		
-**! Stop the participant before they submit any applications or change their actual information !**
+**! Stop the participant before they submit any applications, change their actual information, or go to MHV!**
 
 Thank you for showing that to me! 
 
@@ -113,7 +115,7 @@ Thinking about your [*benefit or service*], are there other related things you n
 **If participant does not have any additional experience with VA to pull from, pull logged-in task from Cindy’s top task research findings:**
 Now imagine you have a hearing problem that has recently gotten worse, and you want to increase your disability rating. Show me how you’d go about doing that, and please continue thinking out loud. You’re doing a great job with that.
 
-*task success: land on [https://www.va.gov/disability/file-disability-claim-form-21-526ez/](https://www.va.gov/disability/file-disability-claim-form-21-526ez/)*
+*task success: land on* [https://www.va.gov/disability/file-disability-claim-form-21-526ez/](https://www.va.gov/disability/file-disability-claim-form-21-526ez/)
 
 - *If needed,*
 	- Guide away from MHV or eBenefits to VA.gov 
@@ -143,7 +145,7 @@ This is so helpful to see how you go about doing this - thank you. I’ve got 1-
 
 Can you please show me how would you double check any dependents you have on file with VA?
 	
-*Goal is to get them to this page: [https://www.va.gov/view-change-dependents/view](https://www.va.gov/view-change-dependents/view)*
+*Goal is to get them to this page:* [https://www.va.gov/view-change-dependents/view](https://www.va.gov/view-change-dependents/view)
 
 Thank you for showing that to me! 
 
@@ -156,7 +158,17 @@ Thank you for showing that to me!
 - If they couldn’t navigate to the task, what did they do?
 
 ## Task 4: Review logged-out content - 5 min / 10 min for screen reader session
-This will be the last thing I’ll have you show me - imagine you wanted to learn about any options you have to get the VA to pay for school, either for yourself or your dependent. How would you do that?
+This will be the last thing I’ll have you show me - imagine you wanted to learn about any options offered by VA to pay for you or your family member to take college courses. How would you do that?
+
+*Once participant finds eligibility page* ([https://www.va.gov/education/eligibility/](https://www.va.gov/education/eligibility/))
+
+- What are your thoughts on what you see here?
+
+### Things to watch for:
+- What is the navigation path the person took ?
+- Did the participant use search?
+- Was the person able to complete their task?
+- What was the participant’s reaction to non-personalized content alongside personalized content?
 
 ## Post-Task Interview - 10 minutes
 Those are all the things I wanted you to show me on the website. Thanks for going through that with me! I have just a few more questions.
@@ -179,4 +191,3 @@ Thank you so much again, and enjoy the rest of your day!
 In case of an emergency, refer to the [emergency guidance.](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). 
 
 Sample exit strategy:  **Out of questions**: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
-
