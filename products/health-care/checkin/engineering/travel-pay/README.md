@@ -1,3 +1,4 @@
-# Travel pay Details [WIP]
+## Travel Claims Submission during Check-in
 
-## All DOCS MOVED TO products/health-care/checkin/discovery/travel-reimbursement
+- Discovery docs: [travel-reimbursement](../../discovery/travel-reimbursement)
+- [Async Claims Submission](async-travel-claim-submission.md)
