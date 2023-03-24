@@ -46,7 +46,7 @@ Now you can delete those zeros added to your routing number and let's try someth
 
 - [ ] **UAT TASK:** When user clicks save, they cannot submit the form due to error(s).
 
-## UAT Task #5: Edit and try to save with errors - 10 minutes
+## UAT Task #5: Edit and save (with no changes) - 10 minutes
 
 After that, I want you to click edit again, and this time click save. That action should cause a confirmation email to get sent to your email address. Can you check and see if you've received an email?
 
