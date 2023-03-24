@@ -1269,7 +1269,35 @@ The result sets return a dataset with repetetive results of the value.  Domo ETL
    </td>
    <td>
    </td>
-   <td>The prior day/week/month which applies to the given metric
+   <td>The first day of the day/week/month period for which the metric applies
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>weekOfYear
+   </td>
+   <td>Number
+   </td>
+   <td>not null
+   </td>
+   <td>
+   </td>
+   <td>A number indicating the week of the year for which the metric applies. Only in the Week dataset.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>monthOfYear
+   </td>
+   <td>Number
+   </td>
+   <td>not null
+   </td>
+   <td>
+   </td>
+   <td>A number indicating the month of the year for which the metric applies. Only in the Month dataset.
    </td>
    <td>
    </td>
