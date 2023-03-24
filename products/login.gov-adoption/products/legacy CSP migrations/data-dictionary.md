@@ -6,10 +6,10 @@ This document contains a data dictionary of the transformed datasets within Domo
 
 The “Login.gov Adoption Data (all)” DOMO dataset is created by ETL from following sources 
 
-
-
 * IAM MPI - set of all _identity-verified_ credentials, i.e. LOA2/3 or IAL2/3, associated with users tracked in IAM.  Some legacy credentials, e.g. Symantec, were omitted.
 * MHV Primary ID on File report - set of users who did MHV In-Person proofing and have a primary proofing ID on file.
+
+**About the IAM MPI Data**
 
 This data set is formatted to facilitate visualizations. Each row represents a user, all the identity-verified credentials that IAM is tracking, and whether they have a Primary ID on file.
 
@@ -67,7 +67,7 @@ In May 2018, IAM MPI began tracking a “CSP Method” parameter which is used t
    </td>
    <td><strong>CSPMethod Code(s)</strong>
    </td>
-   <td><strong>Credential Identifier Code</strong>
+   <td><strong>Credential Identifier Code(s)</strong>
    </td>
   </tr>
   <tr>
@@ -168,6 +168,8 @@ The CSP Methods IDME_MHV, IDME_DSL (and IDME_VETS) are used solely by VA.gov Uni
 
 **The “Login.gov Adoption Data (all)” Dataset Data Dictionary**
 
+This is the primary dataset in Domo that drives most of the dashboard cards. It is created by joining the above datasets. 
+
 The column/field naming convention is: [Credential Identifier Code][-IAM data column name].  The CSPMethod and LastUsed have more complex data lineage and are not as reliable as the credential flag and RecordCreated dates.
 
 
@@ -219,6 +221,10 @@ Following is the list of all fields in the dataset and any unique characteristic
    <td><strong>Description</strong>
    </td>
    <td><strong>Data Quality</strong>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="6" >Following fields are from IAM MPI.
    </td>
   </tr>
   <tr>
@@ -862,40 +868,6 @@ See notes above about ID.me and DS Logon accounts.
    </td>
   </tr>
   <tr>
-   <td>hasDSL
-   </td>
-   <td>Number
-   </td>
-   <td>nullable
-   </td>
-   <td>1 or 0 or null
-   </td>
-   <td>True if 1.  This is a convenience field for reports and only reports true for 200DOD and DSLogon credential identifier codes, where there is also a last used date. The test for last used is needed because everyone with DoD correlation gets a 200DOD record, so last used will indicate if the user ever logged in with the credential.
-<p>
-It is not including the IDME_DSL to support reporting direct versus ID.me wrapper.  Future considerations may include something like: hasDSLdirect and hasDSL.
-<p>
-null for uncorrelated MHV rows.
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>hasIDMEorLGN
-   </td>
-   <td>Number
-   </td>
-   <td>nullable
-   </td>
-   <td>1 or 0 or null
-   </td>
-   <td>True if 1.  This is a convenience field for reports and reports true for the 200VLGN or 200VIDM-IDME.  The latter is true when either “IDME” or null CSP method is present.
-<p>
-null for uncorrelated MHV rows.
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
    <td colspan="6" >Following fields are from the MHV Primary ID on File dataset
    </td>
   </tr>
@@ -926,6 +898,108 @@ null for uncorrelated MHV rows.
    </td>
    <td>
    </td>
+  </tr>
+  <tr>
+   <td colspan="6" >Following fields were added in the Domo ETL to support dashboard filters.
+   </td>
+  </tr>
+  <tr>
+   <td>hasDSLDirect
+   </td>
+   <td>Number
+   </td>
+   <td>
+   </td>
+   <td>1 or 0
+   </td>
+   <td>True if 1.  This is a convenience field for reports and only reports true for 200DOD and DSLogon credential identifier codes, where there is also a last used date. The test for last used is needed because everyone with DoD correlation gets a 200DOD record, so last used will indicate if the user ever logged in with the credential.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>hasDSL
+   </td>
+   <td>Number
+   </td>
+   <td>
+   </td>
+   <td>1 or 0
+   </td>
+   <td>True if 1.  This is a convenience field for reports and only reports true if hasDSLDirect is true or the user has a ID.me credential with IDME_DSL csp method.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>hasIDMEorLGN
+   </td>
+   <td>Number
+   </td>
+   <td>
+   </td>
+   <td>1 or 0
+   </td>
+   <td>True if 1.  This is a convenience field for reports and reports true for the 200VLGN or 200VIDM-IDME.  The latter is true when either “IDME” or null CSP method is present.  This does not include ID.me credentials with any other CSP Method.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>dsl-direct-recordCreated
+   </td>
+   <td>Date
+   </td>
+   <td>nullable
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>The more recent of recordCreated date associated with either DSLogon or 200DOD CSP Identifier Codes
+   </td>
+  </tr>
+  <tr>
+   <td>dsl-all-recordCreated
+   </td>
+   <td>Date
+   </td>
+   <td>nullable
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>The more recent of recordCreated date associated with either dsl-direct-recordCreated or ID.me credential with IDME_DSL csp method
+   </td> 
+  </tr>
+  <tr>
+   <td>dsl-direct-lastUsed
+   </td>
+   <td>Date
+   </td>
+   <td>nullable
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>The more recent of lastUsed date associated with either DSLogon or 200DOD CSP Identifier Codes
+   </td>
+  </tr>
+  <tr>
+   <td>dsl-all-lastUsed
+   </td>
+   <td>Date
+   </td>
+   <td>nullable
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>The more recent of lastUsed date associated with either dsl-direct-recordCreated or ID.me credential with IDME_DSL csp method
+   </td> 
   </tr>
   <tr>
    <td>hasPrimaryIdOnFile
