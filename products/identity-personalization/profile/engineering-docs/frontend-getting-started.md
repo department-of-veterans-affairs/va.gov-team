@@ -108,13 +108,6 @@ A glob pattern can be substituted for single test file path as well, for when yo
 
 ---
 
-### Run unit test for a particular file, and also generate code coverage for that singular file
-
-``` bash
-NODE_ENV=test npx nyc --all --include="src/applications/claims-status/containers/YourClaimLetters" npm run test:unit -- src/applications/claims-status/tests/components/claim-letters/YourClaimLetters.unit.spec.jsx
-```
----
-
 ### Generate test coverage for a specific app folder.
 
 ``` bash
