@@ -46,21 +46,21 @@ A supplemental claim is a claim type filed for a benefit when the claimant disag
 
 ### The PACT Act
 
-The Honoring Our Promise To Address Comprehensive Toxics Act Of 2021 is a $208 billion measure that has expanded the list of disabilities that are presumed service-connected based on toxic exposure during military service. As a result, the VA anticipates an increase in supplemental claims of this nature and aims prioritize presumptive conditions in this category.
+The Honoring Our Promise To Address Comprehensive Toxics Act Of 2021 is a $208 billion measure that has expanded the list of disabilities that are presumed service-connected based on toxic exposure during military service. As a result, the VA anticipates an increase in supplemental claims of this nature and aims to prioritize presumptive conditions in this category.
 
 ## The Problem Space
 
-Research indicates that the supplemental claim process is oftern misunderstood and misused. A common problem is that claimants don't know when to file a supplemental claim versus a claim for increase (which is filed using the 526ez form). The impact is that the Veteran enters a decision review process that is less likely to result in a favorable decision. 
+Research indicates that the supplemental claim process is often misunderstood and misused. A common problem is that claimants don't know when to file a supplemental claim versus a claim for increase (which is filed using the 526ez form). The impact is that the Veteran enters a decision review process that is less likely to result in a favorable decision. 
 
 Generally, claimants find the process unclear and are "put off" and confused by the language used in the form's instructions. As a result, many claimants submit errors that cause delays or result in unfavorable outcomes. This requires the claimant to do their own research or rely on someone with prior experience (like another Veteran or an accredited representative) to help them with the form. If a claimant works with an attorney to file a supplemental claim, the attorney can charge a fee, which introduces a conflict of interest.
 
-- **Legal content**: The legal language and VA systems mentioned in the form are unfamiliar topics to many claimants.Various fields and checkboxes open the potential for actions that can negatively affect the timeline and the decision.  Without this background knowledge, claimants may take actions that have unclear consequences for the claim.
+- **Legal content**: The legal language and VA systems mentioned in the form are unfamiliar topics to many claimants. Various fields and checkboxes open the potential for actions that can negatively affect the timeline and the decision.  Without this background knowledge, claimants may take actions that have unclear consequences for the claim.
 
 - **Evidence requirements**: The form does not define what constitutes new and relevant evidence in a way that resonates with claimants. Further, the current process requires the claimant to either manually cross-reference previous and new evidence, or wait until post-submission to find out if they meet the requirement. 
 
 - **Task management**: The current available services and processes that support supplemental claims are primarily manual and spread responsibility across the claimant, VA services, accredited representatives, and adjudicators. Claimants have no central location to manage tasks related to completing a supplemental claim unless they work through services offered by accredited representatives.
 
-- **Transparency**: Claimants do not have visibility into the claim status once it enters the adjudication process. They rely on accredited representatives for status updates. The data that representatives see wasn't intended for this, so representatives are interpret the data in ways that may be inaccurate or misleading.
+- **Transparency**: Claimants do not have visibility into the claim status once it enters the adjudication process. They rely on accredited representatives for status updates. The data that representatives see wasn't intended for this, so representatives may interpret the data in ways that may be inaccurate or misleading.
 
 - **Claim processing challenges**: Claim processors rely on updated field guidance to understand how to interpret claims. The field guidance for supplemental claims has changed due to the PACT Act, 
 
