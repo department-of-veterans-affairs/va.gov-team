@@ -11,6 +11,7 @@
 |Name|Role|Email|
 |----|----|-----|
 |Matthew Self            |Product Owner, Gov't Lead| matthew.self2@va.gov |
+|Julie Strothman|Design Lead, VA| julie.strothman@va.gov|
 |Sade Ragsdale |Product Manager| sade@coforma.io|
 |Eileen Chi| Research & Design |eileen.chi@coforma.io |
 |Robin Garrison |FE Engineer| robin.garrison@adhocteam.us |
