@@ -123,7 +123,7 @@ Participants: Internal subject matter experts (#? total interviews)
 
 ### Week 1: Demo (AVS, Flagship Mobile App, RxRefill App) and Q&A
 - Shane Elliott and Rob Durkin - AVS & PVS Product managers
-- Chris Ray, Rx Refill App Product managers 
+- Chris Ray, Nancy Wilck, Hugo Padilla, Rx Refill App Product managers 
 - Meko Hong, Flagship mobile app PM
 
 **Slack communicate any usability questions about MHV Pharmacy**
@@ -134,8 +134,7 @@ Participants: Internal subject matter experts (#? total interviews)
 - Maureen Layden (maureen.layden@va.gov), Physician - Director, VA Medication Reconciliation Initiative
 - Eric Spahn (eric.spahn@va.gov), Clinical analyst - Pharmacy Benefits Management, OCC business line owner 
 - Margo Kabel (margo.kabel@va.gov) VHA Health informatics, program analyst, HCD
-- Rob Silverman 
-- Other pharmacists? 
+- Rob Silverman, a government SME in Pharmacy Benefits Management
 
 *For data transfering and technical knowledge on medications, we should sync up with VA flagship mobile team engineers.*
 
