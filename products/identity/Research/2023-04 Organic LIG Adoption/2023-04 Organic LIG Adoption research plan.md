@@ -1,7 +1,7 @@
 # WIP - the research plan template will be filled in as we plan 
 
-# Research Plan for [Identity, Organic Login.gov Adoption, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for Identity, Organic Login.gov Adoption, [Date]
+ 
 
 ## Background
 Briefly describe the background of your product. Consider:
@@ -9,15 +9,25 @@ Briefly describe the background of your product. Consider:
 - Where is your product situated on VA.gov? (ex: auth vs. unauth)
 - What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
+
 [Link to product brief](url goes here).
 
 ### OCTO Objectives 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+- Veterans and their families can apply for all benefits online
+- Veterans can manage their health services online
+- Veterans and their families trust the security accuracy and relevancy of VA.gov
+- Decrease: Call center volume, wait time, and time to resolution
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
+
+Account creation, account verification, and securly accessing information and benefits online matter throughout the veteran journey.
+Specifically for organic adoption of login.gov accounts, key points likely inlcude
+- Getting out - engaging VA to access benefits and services
+- Starting up - finding something to do
+- Taking care of myself
 
 ## Research Goals	
 What are you trying to learn from this research? 
