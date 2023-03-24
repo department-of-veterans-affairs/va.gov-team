@@ -35,7 +35,7 @@ VA has a responsibility to provide accurate VA facilities and VA services inform
 
 > Our VA.gov facilities and services products are powered by Drupal and the Facilities API.
 
-- [VA facility product sitemaps](https://app.moqups.com/Rnc4BDEKrA/view/page/a9e1a59e9)
+- [VA facility product sitemaps](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1674779377050?sender=u2aba00c97ab77c6ec1573123&key=3024f3ae-613d-4244-abf0-844be1f68cca)
 
 **Facilities products**
 
