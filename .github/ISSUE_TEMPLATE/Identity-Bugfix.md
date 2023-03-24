@@ -2,7 +2,7 @@
 name: Identity Bugfix
 about: For writing bugfix tickets
 title: ''
-labels: Identity, Identity-Bugfix
+labels: Identity, Identity-Bug
 assignees: ''
 
 ---
