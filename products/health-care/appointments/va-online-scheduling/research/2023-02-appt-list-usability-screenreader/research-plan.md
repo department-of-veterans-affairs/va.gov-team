@@ -72,12 +72,12 @@ When Veterans use a screenreader on the appointment list:
 
 **Evaluate screenreader usability and value of the appointment list redesign.**
 
-* How do Veterans typically manage their appointments?
-* Does the information for each appointment make sense?
-* Can Veterans differentiate between appointments?
-* Can Veterans navigate to Past appointments?
-* Can Veterans navigate to Pending appointments?
-* What would your next steps be?
+- How do Veterans typically manage their appointments?
+- Does the information for each appointment make sense?
+- Can Veterans differentiate between appointments?
+- Can Veterans navigate to Past appointments?
+- Can Veterans navigate to Pending appointments?
+- What would Veterans' next steps be?
 
 Method
 ------
@@ -106,16 +106,13 @@ Perigean will recruit 12 total participants for this study.
 **Primary criteria**
 
 -  12 participants that regularly use a screenreader.
-  - A mix of advanced and beginner screenreader users.
+  
+**Secondary criteria**  
+
+- A mix of advanced and beginner screenreader users.
+
  
- Screener Question: 
- 
- - Do you use a screenreader to assist with webpage navigation? (Yes/No)
-    - If Yes: What type of screenreader do you use?
- - Do you consider yourself an advanced or beginner screenreader user? (Advanced/Beginner)
- - What device will you use to join the session? (Open text input for answer)
- 
- Screener questions
+**Screener questions**
  
 1. Have you been to a VA healthcare facility for a medical appointment in the last 12 months?
 
@@ -127,7 +124,7 @@ Perigean will recruit 12 total participants for this study.
    - Yes (Go onto Screener question 3)
    - No (Disqualify)
 
-3. Please provide the email you use for either Login.gov or ID.me that you use to sign into VA.gov.
+3. Please provide the email address you use for either Login.gov or ID.me that you use to sign into VA.gov.
 
 4. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
 
@@ -140,6 +137,8 @@ Perigean will recruit 12 total participants for this study.
    - No (Disqualify)
 
 6. Please list the name of the assistive technology or software you will use during the session.
+
+7. Do you consider yourself an advanced or beginner screenreader user? (Advanced/Beginner)
 
 Timeline
 --------
@@ -184,12 +183,15 @@ No more than 2 sessions per day
 Team roles
 ----------
 
--   Moderator: Ciera Maddox
--   Backup moderator: Peter Russo
--   Research guide writing and task development (usually but not always same as moderator): Peter Russo and Ciera Maddox
+-   Moderator: Ciera Maddox - ciera.maddox@adhocteam.us
+-   Backup moderator: Peter Russo - peter.russo@adhocteam.us
+-   Research guide writing and task development: Peter Russo and Ciera Maddox
 -   Participant recruiting & screening: Perigean
--   Project point of contact: Ciera Maddox
+-   Project point of contact: Ciera Maddox - ciera.maddox@adhocteam.us
 -   Participant(s) for pilot test: Angela Fowler
--   Note-takers: Peter Russo
--   Observers: Kristen Mcconnell kristen.mcconnell@va.gov
-
+-   Note-takers: Peter Russo - peter.russo@adhocteam.us
+-   Observers: 
+    -   Kristen McConnell: kristen.mcconnell@va.gov
+    -   Jeff Roof: jeff.roof@adhocteam.us
+    -   Leah De La Costa: leah.delacosta@adhocteam.us
+   
