@@ -5,7 +5,7 @@ Staging: https://staging.va.gov/education/yellow-ribbon-participating-schools/
 
 ## POCs
 
-- Slack channel: [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
+- Slack channel: [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
 
   
 
