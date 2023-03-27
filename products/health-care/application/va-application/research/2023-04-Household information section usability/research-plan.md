@@ -10,7 +10,7 @@ The household information section includes questions on:
 - Annual income
 - Deductible expenses
 
-This optimization effort has gone through colloboration cycle (ticket number) and this study will happen post-staging review. This research study is focusing on an iteration of one specific section - the household financial information - including the ability to add multiple dependents using the new experimental pattern (and components). 
+This optimization effort has gone through colloboration cycle (ticket number) and this study will happen post-staging review. This research study is focusing on an iteration of one specific section - the household financial information - including the ability to add multiple dependents using the new experimental pattern (and components) for mutliple responses. 
 
 
 We will focus on testing for the following use cases during this study: 
@@ -25,14 +25,14 @@ We will focus on testing for the following use cases during this study:
 
 ### OCTO Objectives 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+The [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) that this research supports are:
 
-Increase: 
+Increase 
 - Completion rate of online transactions
-- Usage of digital, self- service tools
+- Usage of digital, self-service tools
 - Percent of applications submitted online (vs. paper)
 
-Decrease:
+Decrease
 - Time to successful complete and submit online transactions
 
 
@@ -45,9 +45,9 @@ Are there moments that matter?
 ## Research Goals	
 What are you trying to learn from this research? 
 
-- Goal 1: Test the usability and how accessible the experimental pattern is for adding multiple dependents to the household financial information section.
-- Goal 2: Determine if the updated content is clear and understandable or if any points of confusion remain.
-- Goal 3: 
+- Goal 1: Test the usability of the experimental pattern for adding multiple dependents to the household financial information section.
+- Goal 2: Determine if the there are any issues for assistive tech users when they add multiple dependents to the application.
+- Goal 3: Determine if the updated content for the household information section is clear and understandable or if any points of confusion remain.
 
 
 
@@ -56,18 +56,20 @@ These learnings will allow us to evaluate for additional gaps prior to launching
 
 
 ### Research questions
-**Goal 1: Test the usability and how accessible the experimental pattern is for adding multiple dependents to the household financial information section.**
+**Goal 1: Test the usability of the experimental pattern for adding multiple dependents to the household financial information section.**
 - When arriving at the dependent questions, is there any confusion on who the user should add here? (Who does the VA consider a dependent)
 - Are any of the content/questions unclear or cause the user to pause?
 - Can users easily move through the pages of dependent questions? 
 - Are the questions grouped by topic (one-thing-per-page) as it would make sense to the user?  
 - After adding their first dependent, do users know how to make changes or remove a dependent from the application?
-
-- Are there any accessibility issues when navigating through the multiple responses flow? 
 - Do users comment on the progress bar during this process?
 
 
-**Goal 2: **
+
+**Goal 2: Determine if the there are any issues for assistive tech users when they add multiple dependents to the application.**
+- Are there any accessibility issues when navigating through the multiple responses flow? 
+- Is there any confusion with the tab order or how questions are presented?
+- Does the progress bar or other form elements make it more challenging for assistive tech users?
 
 
 ### Hypothesis
