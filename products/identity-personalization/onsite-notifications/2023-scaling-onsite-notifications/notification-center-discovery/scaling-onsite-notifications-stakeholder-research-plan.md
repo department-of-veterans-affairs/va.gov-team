@@ -27,8 +27,7 @@ Since Veterans can apply for and manage their benefits on VA.gov any time after 
 ### 2. Determine if there's a clear consensus on the vision for notifications on VA.gov.
 
 - What are OCTO stakeholders expectations around how we elevate notifications on VA.gov? How strong are their opinions about the outcome of this work?
-- Where should notifications be surfaced within the navigation of VA.gov, if at all?
-- How should we indicate that a user has new notifications in the navigation, on My VA, and in the notification center (if we create opt to create one)?
+- Should notifications be surfaced within the navigation of VA.gov? If so, how?
 
 ### 3. Identify any challenges or things to consider that we were not already aware of on the Authenticated Experience team.
 
