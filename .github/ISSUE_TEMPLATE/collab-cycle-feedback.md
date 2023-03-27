@@ -8,32 +8,19 @@ assignees: ''
 
 ---
 
-## VFS acceptance criteria
-- [ ] Let Platform know when the **Must** feedback has been incorporated 
-- [ ] Leave any comments for feedback you decide _not_ to take
-- [ ] VFS team closes the ticket
+## VFS actions
+- [ ] Assign this ticket to the team member(s) responsible for addressing feedback provided by Platform.
+- [ ] Comment on this ticket:
+  - [ ] If the Platform reviewer has any **Thoughts/Questions** that require responses.
+  - [ ] When **Must** feedback has been incorporated. As appropriate, link to any other GitHub issues or PRs related to this feedback.
+  - [ ] When **Should/Consider** feedback has been incorporated, or if any feedback will not be addressed. As appropriate, link to any other GitHub issues or PRs related to this feedback.
+- [ ] Close the ticket when all feedback has been addressed.
 
 ## Thoughts/questions
+
 -
 
 ## Feedback
-- Practice areas will document their feedback following the [Must, Should, and Consider Framework](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/must-should-and-consider-framework-for-feedback).
+Practice areas will document their feedback on the VFS-provided artifacts following the [Must, Should, and Consider Framework](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/must-should-and-consider-framework-for-feedback). Platform reviewers may also provide additional notes that don’t comment on the artifacts themselves but are important for implementation (eg. engineering/coding notes).
 
-**Must:**
-
-
-**Should:**
-
-
-**Consider:**
-
-## Platform directions
-- Remove the governance-team label
-- Update "Issue Title"
-- Link to collab cycle Request epic
-- Add your feedback
-- Remove the CC-Request label (only if you created the ticket using the New Issue link from the Collaboration Cycle Reviews board)
-- Add assignees based on collab cycle touchpoint
-  - **Design Intent**: VFS designer, VFS PM (optional), yourself (optional)
-  - **Midpoint Review**: VFS PM, yourself (optional)
-  - **Staging Review QA Only**: VFS PM, yourself (optional)
+- 
