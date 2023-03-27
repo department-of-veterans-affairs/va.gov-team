@@ -31,10 +31,15 @@ Are there moments that matter?
 ## Research Goals	
 What are you trying to learn from this research? 
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+- Goal 1: Test the usability and how accessible the experimental pattern is for adding multiple dependents to the household financial information section.
+- Goal 2: Determine if the updated content is clear and understandable or if any points of confusion remain.
+- Goal 3: 
+
+
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+These learnings will allow us to evaluate for additional gaps prior to launching these updates to production. The findings and recommendations will be categorized as to if there are any blockers and what can be addressed in future interations.
+
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
@@ -69,14 +74,8 @@ Additional resources:
 - In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+Remote, via Zoom.
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
