@@ -1,7 +1,7 @@
 # Research Plan for [1010 Team, 10-10EZ, Household financial information section usability/UAT]
 
 ## Background
-The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. The household information section/step has been observed as a section of the applicaiton with high drop-offs and being a pain point, resulting it this section being a focus of a recent optimization effort (Epic # ). 
+The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. The household information section/step has been observed as a section of the applicaiton with high drop-off rates and being a pain point in research, resulting it this section being a focus of a recent optimization effort (Epic # ). 
 
 The household information section includes questions on:
 - Financial disclosure
@@ -12,8 +12,11 @@ The household information section includes questions on:
 
 This optimization effort has gone through colloboration cycle (ticket number) and this study will happen post-staging review. This research study is focusing on an iteration of one specific section - the household financial information - including the ability to add multiple dependents using the new experimental pattern (and components). 
 
-We will focus on testing for the following use cases during this study? 
+
+We will focus on testing for the following use cases during this study: 
 - Applicant is married with 2 dependents
+- Applicant is divorced with 2 dependents
+- Applicant is single with 2 dependents
 
 
 - Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
@@ -24,9 +27,20 @@ We will focus on testing for the following use cases during this study?
 
 Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
 
+Increase: 
+- Completion rate of online transactions
+- Usage of digital, self- service tools
+- Percent of applications submitted online (vs. paper)
+
+Decrease:
+- Time to successful complete and submit online transactions
+
+
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
+
+
 
 ## Research Goals	
 What are you trying to learn from this research? 
@@ -42,10 +56,19 @@ These learnings will allow us to evaluate for additional gaps prior to launching
 
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+**Goal 1: Test the usability and how accessible the experimental pattern is for adding multiple dependents to the household financial information section.**
+- When arriving at the dependent questions, is there any confusion on who the user should add here? (Who does the VA consider a dependent)
+- Are any of the content/questions unclear or cause the user to pause?
+- Can users easily move through the pages of dependent questions? 
+- Are the questions grouped by topic (one-thing-per-page) as it would make sense to the user?  
+- After adding their first dependent, do users know how to make changes or remove a dependent from the application?
+
+- Are there any accessibility issues when navigating through the multiple responses flow? 
+- Do users comment on the progress bar during this process?
+
+
+**Goal 2: **
+
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
