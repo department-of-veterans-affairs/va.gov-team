@@ -13,11 +13,11 @@ The household information section includes questions on:
 This optimization effort has gone through colloboration cycle (ticket number link) and this study will happen post-staging review. This research study is focusing on an iteration of one specific section - the household financial information - including the ability to add multiple dependents using the new experimental pattern (and components) for mutliple responses. 
 
 We will focus on testing for the following use cases during this study: 
-- Applicant is married with 2 dependents
-- Applicant is divorced with 2 dependents
-- Applicant is single with 2 dependents
+- Applicant is married with 2 dependents.
+- Applicant is divorced with 2 dependents.
+- Applicant is single with 2 dependents.
 
-
+- [All use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Staging%20Review_QA/Household%20Section%20Optimization%20Use%20Cases.md)
 
 - Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
@@ -85,8 +85,10 @@ These learnings will allow us to evaluate for additional gaps prior to launching
 
 ### Hypothesis
 
-- Users will easily be able to add multiple dependents and 
+- Users will easily be able to add multiple dependents and move through the pages of questions
 - Users will call out the edit flow for dependents as they have to go through all the pages and can't direcly edit.
+
+
 
 
 ## Methodology	
