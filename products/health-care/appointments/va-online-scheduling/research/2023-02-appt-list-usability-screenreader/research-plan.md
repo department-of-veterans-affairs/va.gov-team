@@ -191,7 +191,8 @@ Team roles
 -   Participant(s) for pilot test: Angela Fowler
 -   Note-takers: Peter Russo - peter.russo@adhocteam.us
 -   Observers: 
-    -   Kristen McConnell: kristen.mcconnell@va.gov
-    -   Jeff Roof: jeff.roof@adhocteam.us
-    -   Leah De La Costa: leah.delacosta@adhocteam.us
+    -   Kristen McConnell - kristen.mcconnell@va.gov
+    -   Jeff Roof - jeff.roof@adhocteam.us
+    -   Leah De La Costa - leah.delacosta@adhocteam.us
+    -   Simi Abedowale - simi.adebowale@adhocteam.us
    
