@@ -2,27 +2,46 @@
 
 ## Intro
 
-Thanks for joining us today! I'm Angela and [attendees] are also here from the Authenticated Experience team. As you probably know, we're in the discovery phase for scaling notifications on VA.gov.  We're excited to learn about your perspective on this work.
+Thanks for joining us today! I'm Angela I am the desigbner and researcher for the authenticated experience My VA team. We also have (attendees) with us here from the Authenticated Experience team. As you probably know, we're here today because we're doing some high-level discovery work to scale the notifications feature on VA.gov, and we'd like to learn about your perspective on this work. 
 
 ## Background
-1. Tell me about your role and what you do in your work on VA.gov
+1. Tell me about your role and what you do in your work on VA.gov.
 2. How long have you been in this role?
 3. Who are the people and teams you work most closely with?
 
-## Logged in homepage
-1. How were you involved with the vets.gov to va.gov transition, as it pertains to the logged in homepage/myVA experience ?
-2. What problems have you noticed about the current logged in homepage and myVA experiences?
-3. How would an update to the logged in homepage experience impact your work?
-4. What are your goals for a new logged in homepage experience?
-5. What does success look like to you? How would you know this project has succeeded?
-6. What metrics would you be interested in seeing around a logged in homepage?
-7. What logged in homepage/dashboard experiences have you come across that work well, and not so well? How about notifications?
-8. What might make this project easier or harder in any specific ways, as it relates to your role on va.gov, or your team?
-9. What concerns do you have about this project? What do you imagine going wrong? 
-10. Is there anyone else you think we should talk to?
+## Scaling Onsite Notifications (All)
+1. How familiar are you with the current state of onsite notifications on My VA? (If necessary) *Screen share and explain the current debt notification and integration with VA Notify.*
+2. I'm curious if you know of any studies your team has conducted where they've heard feedback from users about how they expect to see notifications or action items represented on VA.gov. Does anything come to mind that we might want to reference as part of this work?
+3. Do you have any expectations or opinions around how we elevate notifications on VA.gov that you'd like to share?
 
-## Practice Specific
+## Practice-specific
 
-### Design
-1. Can you show me some of your designs and talk about why you made some of those decisions?
-2. Have you worked on anything similar to this on other (non-VA) projects? What worked/didn't work?
+### Chris Johnston - Portfolio lead
+- Questions here
+
+### Lauren Alexanderson - Health lead
+- Questions here
+
+### Dave Conlon - Sitewide lead
+- Questions here
+
+### Matt Self - Benefits lead
+- Questions here
+
+### Mikki Northuis - IA/Nav lead
+- Questions here
+
+### Chante Lantos-Swett - Account experience and customer support lead
+- Questions here
+
+### Martha Wilkes - Accessibility lead
+- Questions here
+
+### Ryan Thurlwell - Design lead
+- Questions here
+
+## Challenges (All)
+
+There are some challenges we can already foresee with scaling onsite notifications.
+1. Since the feature currently integrates with VA Notify, we can only present notifications that are supported by VA Notify. If users don't see common notifications in a notification center yet because VA Notify does not yet support them (eg. new message from your doctor, or a prescription shipping), what are your thoughts about whether users will trust the feature?
+2. Can you think of any important factors to consider or potential challenges that we haven't already disussed today?
