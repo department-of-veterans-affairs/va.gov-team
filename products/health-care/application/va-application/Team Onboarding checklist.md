@@ -20,13 +20,17 @@ Reference the [VA Platform Tools site](https://depo-platform-documentation.scrol
      - [ ] vfs-all-teams
      - [ ] (PMs) team-of-teams-slide-collection
 
+
 - [ ] Design/Research
      - [ ] Add to Mural - OCTO PO to submit [DOTS request](https://login.max.gov/cas/login?service=https%3A%2F%2Fvajira.max.gov%2Fservicedesk%2Fcustomer%2Fportal%2F1%2Fcreate%2F18)
+     - [ ] Add to Sketch
+          - To access Sketch for Teams, contact Kevin Hoffman in the #design Slack channel. 
 
 
 - [ ] Analitics
      - [ ] Google Analytics/Domo ([same request ticket for both](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+access-request&template=analytics-request-google-analytics-domo-access.md&title=Request+access+to+Google+Analytics+and%2For+Domo))
      - [ ] Datadog - [directions for access](https://depo-platform-documentation.scrollhelp.site/developer-docs/get-access-to-datadog)
+
 
 - [ ] Development
      - [ ] [SOCKS](https://depo-platform-documentation.scrollhelp.site/getting-started/accessing-internal-tools-via-socks-proxy) (confirm with PM on pre-reqs before requesting)
@@ -35,6 +39,7 @@ Reference the [VA Platform Tools site](https://depo-platform-documentation.scrol
      - [ ] [Grafana](http://grafana.vfs.va.gov/login) (used with SOCKS proxy running)
      - [ ] AWS Console - [Request Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose)
           - If you aren't sure you need AWS Access, don't request it until you determine that you do need it.
+
 
 - [ ] Testing
      - [ ] [TestRail](https://dsvavsp.testrail.io/index.php?/auth/login/)
