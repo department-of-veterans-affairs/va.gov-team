@@ -1,12 +1,13 @@
 # Sprint Team Demo
 
-Meeting Owner: Adam Bischoff
+Meeting Owner: Stacy Blackwood
 Timing: Every 2 Thursdays 2:35 - 3:15pm 
 
-**Demo Sprint 64 3/14/23**
+**Demo Sprint 64 3/30/23**
 Agenda
 - Demo Topic(s)
-  -  Reddit Screen Scraper - Jason, Chika, Andrew
+  -  Reddit Screen Scraper - Jason Conigliari, Chika Adibemma, Andrew Herzberg
+  -  UI Automation - Rachael Bontrager 
 -  Slides - tbd 
 - Demo Video - tbd  
 
