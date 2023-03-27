@@ -1,13 +1,24 @@
-# Research Plan for [1010 Team, 10-10EZ, Household financial information section usability]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for [1010 Team, 10-10EZ, Household financial information section usability/UAT]
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. The household information section/step has been observed as a section of the applicaiton with high drop-offs and being a pain point, resulting it this section being a focus of a recent optimization effort (Epic # ). 
 
-[Link to product brief](url goes here).
+The household information section includes questions on:
+- Financial disclosure
+- Marital status & spouse information
+- Dependents
+- Annual income
+- Deductible expenses
+
+This optimization effort has gone through colloboration cycle (ticket number) and this study will happen post-staging review. This research study is focusing on an iteration of one specific section - the household financial information - including the ability to add multiple dependents using the new experimental pattern (and components). 
+
+We will focus on testing for the following use cases during this study? 
+- Applicant is married with 2 dependents
+
+
+- Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
+
+
 
 ### OCTO Objectives 
 
