@@ -10,7 +10,7 @@ The household information section includes questions on:
 - Annual income
 - Deductible expenses
 
-This optimization effort has gone through colloboration cycle (ticket number) and this study will happen post-staging review. This research study is focusing on an iteration of one specific section - the household financial information - including the ability to add multiple dependents using the new experimental pattern (and components) for mutliple responses. 
+This optimization effort has gone through colloboration cycle (ticket number link) and this study will happen post-staging review. This research study is focusing on an iteration of one specific section - the household financial information - including the ability to add multiple dependents using the new experimental pattern (and components) for mutliple responses. 
 
 We will focus on testing for the following use cases during this study: 
 - Applicant is married with 2 dependents
@@ -69,23 +69,24 @@ These learnings will allow us to evaluate for additional gaps prior to launching
 - Are there any accessibility issues when navigating through the multiple responses flow? 
 - Is there any confusion with the tab order or how questions are presented?
 - Do users struggle on the dependent 'review' page where it lists the first dependent added and the yes/no question to add additional dependents?
-- How d
+- Can users easily edit and make changes or is this process a pain point?
 - Do users using screen magnification have any issues with the action button placement on the dependent cards or the confirmation modals?
 - Does the progress bar or other form elements make it more challenging for assistive tech users?
 
 
-**Goal 3: Determine if the updated content for the household information section is clear and understandable or if any points of confusion remain.**
+**Goal 3: Determine if the updated content for the household information section is clear and understandable or if any areas of confusion remain.**
+- Do users seem to struggle or question any of the content revisions on the onboarding page?
+- Do users seem frustrated or appreciative of the extra pages with information (onboarding and documents needed)?
+- Do users interact with the additional info components to learn more? Which ones? Do they feel confident or confused after reading that information?
 
 
 
 
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+
+- Users will easily be able to add multiple dependents and 
+- Users will call out the edit flow for dependents as they have to go through all the pages and can't direcly edit.
 
 
 ## Methodology	
