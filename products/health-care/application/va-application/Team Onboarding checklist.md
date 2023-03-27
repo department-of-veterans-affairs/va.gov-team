@@ -32,7 +32,7 @@ Reference the [VA Platform Tools site](https://depo-platform-documentation.scrol
 
 
 
-- [ ] Analitics
+- [ ] Analytics
      - [ ] Google Analytics/Domo ([same request ticket for both](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+access-request&template=analytics-request-google-analytics-domo-access.md&title=Request+access+to+Google+Analytics+and%2For+Domo))
      - [ ] Datadog - [directions for access](https://depo-platform-documentation.scrollhelp.site/developer-docs/get-access-to-datadog)
 
