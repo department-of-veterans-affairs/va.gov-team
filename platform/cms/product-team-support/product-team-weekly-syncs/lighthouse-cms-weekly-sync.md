@@ -16,10 +16,11 @@
 ## Monday, March 27, 2023
 
 Standing Topics: 
+
 Open Data Model Needs:
 *     update data model and send dummy payload 
 *    get data into lower environment (should be apparent that it's synthetic but NOT prod data) (discuss when James is present) 
-*       UX follow up on mural (3 weeks from now in this meeting)
+*         UX follow up on mural (3 weeks from now in this meeting)
 
 
 * CAPS (Community Access Point Sites):
