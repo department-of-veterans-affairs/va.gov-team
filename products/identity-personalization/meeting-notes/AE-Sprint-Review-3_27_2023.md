@@ -17,4 +17,4 @@
 	- In active development. The page is built and is ready behind a feature toggle, but the next step is to add the form information to allow editing.
 	- URL structure:  /edit?fieldName=mobilePhone&returnUrl=/notification-settings
 - Remove redundent error alert when not all information is present from APIs
-	  https://user-images.githubusercontent.com/8332986/217052929-f4fadb09-de11-425a-af42-4829d02f727e.png
+	  ![](https://user-images.githubusercontent.com/8332986/217052929-f4fadb09-de11-425a-af42-4829d02f727e.png)
