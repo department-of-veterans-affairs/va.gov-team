@@ -2,7 +2,6 @@
 
 Staging: https://staging.va.gov/education/yellow-ribbon-participating-schools/
 
-Last updated February 19, 2020
 
 ## POCs
 
