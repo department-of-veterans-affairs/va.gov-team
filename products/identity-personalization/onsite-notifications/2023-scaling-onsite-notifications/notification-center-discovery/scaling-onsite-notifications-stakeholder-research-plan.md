@@ -49,7 +49,7 @@ We will conduct one-on-one stakeholder interviews via Zoom with OCTO product own
 - Ryan Thurlwell - Design lead
 
 ### Research materials
-[Link to conversation guide](TK)
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery/scaling-onsite-notifications-stakeholder-convo-guide.md)
 
 ## Timeline
 
