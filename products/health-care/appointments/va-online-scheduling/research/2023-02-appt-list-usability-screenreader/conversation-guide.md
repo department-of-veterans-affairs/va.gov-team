@@ -78,14 +78,12 @@ Next, I want to get our tech set up.
 
 - Does the device you're using have a screen to share?
 
-You will be interacting with a prototype on the web. In order to do that I'll need you to navigate to a link, then log in with a test user.
-
-   - I have a link to the tool I'll ask you to navigate using the screenreader. **Would you prefer that I send that in the Zoom chat, to your email, or by another method?**
-   - If another method, confirm their contact number/email address.
-   - Send user [Staging Link](staging.va.gov) 
-   - Send user Login credentials
+You will be interacting with your VA.gov account today. We are going to enable this new feature on your account so that you can see it. Just know that this is live and while anything you do here could affect your account, we will not be asking you to make any changes today.
     
 - Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
+**Would you prefer that I send that in the Zoom chat, to your email, or by another method?**
+- If another method, confirm their contact number/email address.
+- Send user [Link](https://www.va.gov/health-care/schedule-view-va-appointments) 
 
 - If participant can share their screen, walk them through screen sharing.
     -  [Screenreader Screen Share Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-checklist)
@@ -105,20 +103,15 @@ Thanks!
 
 We're going to run through a series of tasks related to managing your health care appointments at VA. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
-
 ## Task 1: Find the appointments list.
 
-STARTING POINT: staging.va.gov
+STARTING POINT: [va.gov appointment list](https://www.va.gov/health-care/schedule-view-va-appointments)
 
-PROMPT: Say you wanted to find out what health appointments you have scheduled for the next month. Show me how you would find that from here.
+PROMPT: Go ahead and login to your account using your email address and password. 
 
 ## Task 2: Log in to VA.gov
 
-PROMPT: Next, you'll need to login using a test user. I've sent the test user login credentials to (your email/phone/the chat)
-
-You'll use ID.me to sign in 
-  - Email address is [TBA] 
-  - Password is [TBA]
+PROMPT: Next, say you wanted to find out what health appointments you have scheduled for the next month. Show me how you would find that from here.
 
 #### Things to watch for:
 
@@ -156,7 +149,7 @@ Tell me about some of the appointments you have requested.
 
 **Follow up:** 
 - If they didn't navigate to the details page during the initial search: 
-    - If no longer needed an appointment and wanted to cancel one of these requests, how would you do that from here?
+    - If you no longer needed an appointment and wanted to cancel one of these requests, how would you do that from here?
 
 ### Things to watch for:
 - How did they talk about requests? Have they experienced them before?
