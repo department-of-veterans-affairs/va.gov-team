@@ -1,6 +1,6 @@
 # Benefits Disability Experience Team
 
-Last Updated - 02/06/2023
+Last Updated - 03/27/2023
 
 ## Where to find us
 - GitHub Label: disability-experience
@@ -25,8 +25,9 @@ At the highest level, the core disability experience team is here to own, from t
 | Cole Voss | Engineer | cole@verdance.co |
 | Eddie Glenn | Engineer | eddieglenn@navapbc.com |
 | Seth Darr | Engineer | seth.darr@agile6.com |
-| Anneliese LaTempa | Delivery Manager | anneliese.latempa@agile6.com
-| Christine Cereca | Engineer | christine@cityfriends.tech
+| Anneliese LaTempa | Delivery Manager | anneliese.latempa@agile6.com |
+| Christine Cereca | Engineer | christine@cityfriends.tech |
+| Mark Chae | Engineer | markchae@navapbc.com |
 
 ## Product outline
 
