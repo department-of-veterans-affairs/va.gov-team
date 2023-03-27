@@ -8,6 +8,8 @@ The `product operations` directory contains standards, templates, and other reso
 ## Content
 
 - **[Terms & Definitions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/octo/product/terms%20and%20definitions.md)**  articulates our understanding of an OCTO product, feature, and initiative.
+- **[Product Expectations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/octo/product/Product%20Expectations.md)** provides some insight into the duties and roles a Product Lead and Manager should be partaking in
+- **[Non-VA.gov Products](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/octo/product/Non-VA.gov%20Products.md)** this list consists of Non-VA.gov products that are not managed by VFS Teams 
 
 ---
 
