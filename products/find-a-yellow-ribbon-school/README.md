@@ -12,11 +12,8 @@ Last updated February 19, 2020
 
 | Name          | Role                                          |
 | ------------- | --------------------------------------------- |
-| Jennifer Lee  | Public Websites Product Owner                 |
-| Liz Lantz     | Designer/Researcher                           |
-| Nick Sullivan | FE Engineer                                   |
-| Kelson Adams  | FE Engineer                                   |
-| Anne Hurley   | Content                                       |
+| Dave Conlon   | Public Websites Product Owner                 |
+| Wes Rowe      | Public Websites Product manager               |
 | Luke Tickner  | Education/GI Bill Comparison Tool SME Contact |
 | Tammy Hurley  | Yellow Ribbon SME Contact                     |
 | Darrell Neel  | GI Data Service Tech SME Contact              |
