@@ -85,3 +85,6 @@
 | 83 | [VA tier 1 medication list](https://www.va.gov/resources/va-tier-1-copay-medication-list) | Health care | 12/22/22 |
 | 84 | [VEText for VA health care reminders and updates](https://www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates) | Health care | 2/10/23 |
 | 85 | [Verify school enrollment for DEA benefits](https://www.va.gov/resources/verify-school-enrollment-for-dea-benefits) | Education | 3/14/23
+| 86 | [My HealtheVet on VA.gov: What to know](https://www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates) | Health care | 3/21/23
+| 87 | [Presumptive cancers related to burn pit exposure]([https://www.va.gov/resources/presumptive-cancers-related-to-burn-pit-exposure)) | Health care | 3/27/23
+| 88 | [How to report the death of a Veteran to VA](https://www.va.gov/resources/how-to-report-the-death-of-a-veteran-to-va) | Burials and memorials | 3/27/23
