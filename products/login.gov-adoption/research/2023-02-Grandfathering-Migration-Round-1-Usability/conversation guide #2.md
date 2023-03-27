@@ -109,7 +109,7 @@ I'm going to give you a second to read this more closely now. When you're finish
 - Why do you think the VA is recommending that you set up a Login.gov account?
 - If you had a question about anything you read here, what would you do?
 
-Great, we're going to imagine you decide to continue today. You can click 'set up a Login.gov account' now.
+Great, we're going to imagine you decide to continue today. You can click 'go to VA.gov to create an account' now.
 
 ### Things to watch for:
 
