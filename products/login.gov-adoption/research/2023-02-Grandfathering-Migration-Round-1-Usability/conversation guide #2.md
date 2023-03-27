@@ -99,8 +99,6 @@ Okay, I've just sent you a link in the chat. [Help them open it and share their 
 
 Now that you have this open, I'd like you to start by imagining that you've just received this email from the VA.
 
-## Task 1: Email - 10 minutes
-
 I'm going to give you a second to read this more closely now. When you're finished, I'd like you to summarize what you read.
 
 - Can you summarize what you just read, for me?
