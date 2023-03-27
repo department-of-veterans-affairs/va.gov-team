@@ -40,6 +40,9 @@ Decrease
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
 
+- Getting out
+- Starting up
+- Taking care of myself
 
 
 ## Research Goals	
@@ -81,13 +84,13 @@ These learnings will allow us to evaluate for additional gaps prior to launching
 
 
 
-
-
 ### Hypothesis
 
-- Users will easily be able to add multiple dependents and move through the pages of questions
-- Users will call out the edit flow for dependents as they have to go through all the pages and can't direcly edit.
-
+- Users will easily be able to add multiple dependents and move through the pages of questions.
+- Users will appreciate the confirmation when destructive actions - such as remove or cancel - are initiated. (modals)
+- Users will call out the edit flow for dependents as they have to go through all the pages and can't direcly edit, would suggest they would appreciate a more direct route to edit. 
+- The onboarding/documents page is well received as being clear and informational leading to a more positive perception about sharing this information.
+- The content helps the user answer questions confidently and accuratley. 
 
 
 
@@ -99,18 +102,16 @@ Describe the method you’re planning. You should be able to explain why this me
 
 ### Location
 
-Remote, via Zoom.
+Remote, moderated via Zoom.
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-04-Household%20information%20section%20usability/conversation-guide.md)
 - [Link to staging (once development / staging review complete)](url goes here)
-
 
 	
 ## Recruitment	
@@ -122,17 +123,17 @@ Before writing your recruitment criteria, be sure to review the following resour
 - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
+Our intended audience for this reasearch are Veterans and we will be using and leveraging Perigean to recruit participants.
 
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+
+Veterans: completed 10; requested 15
+
+
+
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
