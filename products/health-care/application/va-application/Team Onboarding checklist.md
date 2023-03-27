@@ -33,7 +33,7 @@ Reference the [VA Platform Tools site](https://depo-platform-documentation.scrol
 
 
 - [ ] Development
-     - [ ] [SOCKS](https://depo-platform-documentation.scrollhelp.site/getting-started/accessing-internal-tools-via-socks-proxy) (confirm with PM on pre-reqs before requesting)
+     - [ ] [SOCKS](https://depo-platform-documentation.scrollhelp.site/getting-started/accessing-internal-tools-via-socks-proxy) (confirm with PM on pre-reqs before requesting, must have e-QIP transmittal date)
      - [ ] [Jenkins](http://jenkins.vfs.va.gov/) (used with SOCKS proxy running)
      - [ ] [Sentry](http://sentry.vfs.va.gov/) (used with SOCKS proxy running)
      - [ ] [Grafana](http://grafana.vfs.va.gov/login) (used with SOCKS proxy running)
