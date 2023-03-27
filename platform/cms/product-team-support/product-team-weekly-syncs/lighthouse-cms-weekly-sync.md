@@ -13,6 +13,30 @@
 - Regular participants: Dave Conlon, James Costa, Joshua Jennings, Jay Darnell, Joseph Justice, Stephen Smythe, Dotti Cummings, Kamari Patrick, Adam, Christian Burk.
 
 </details>
+## Monday, March 27, 2023
+
+Standing Topics: 
+* Open Data Model Needs:
+*   update data model and send dummy payload 
+*   get data into lower environment (should be apparent that it's synthetic but NOT prod data) (discuss when James is present) 
+*   UX follow up on mural (3 weeks from now in this meeting)
+
+
+* CAPS (Community Access Point Sites):
+*   post v1 effort 
+
+* Mental Health Numbers: Kamari to talk to VHA Digital Media about potential changes needed
+
+* Articles documentation for editors after v1 goes live: 
+*   make VHA digital media
+*   Joshua Jennings to send existing documentation 
+
+* VBA Services Data Model: no update this week 
+
+One Off Topics
+* Joshua Jennings moving out of PM position - Branden Winn 
+* Add Dana Harris and Branden Winn
+
 
 ## Monday, March 20, 2023
 * Open Data Model Needs:
