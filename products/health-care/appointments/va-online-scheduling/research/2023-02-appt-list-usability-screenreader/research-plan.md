@@ -117,6 +117,31 @@ Perigean will recruit 12 total participants for this study.
  - Do you consider yourself an advanced or beginner screenreader user? (Advanced/Beginner)
  - What device will you use to join the session? (Open text input for answer)
  
+ Screener questions
+ 
+1. Have you been to a VA healthcare facility for a medical appointment in the last 12 months?
+
+   - Yes (Go onto Screener question 2)
+   - No (Disqualify)
+
+2. Do you have an email and password for either Login.gov or ID.me that you use to sign into VA.gov?
+
+   - Yes (Go onto Screener question 3)
+   - No (Disqualify)
+
+3. Please provide the email you use for either Login.gov or ID.me that you use to sign into VA.gov.
+
+4. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
+
+   - Yes (Go onto Screener question 5)
+   - No (Disqualify)
+
+5. Are you able to join the Zoom session using this assistive technology?
+
+   - Yes (Go onto Screener question 6)
+   - No (Disqualify)
+
+6. Please list the name of the assistive technology or software you will use during the session.
 
 Timeline
 --------
@@ -127,7 +152,7 @@ Test materials will be finalized by Monday, March 20th 2023
 
 We will not need Perigean to coordinate the Pilot session:
 - Pilot participant: Angela Fowler
-- Date and time of pilot session: Friday, March 24th 2023 at 3pm EST 
+- Date and time of pilot session: Tuesday, March 28th 2023 at 2:30pm EST 
 
 ### Research sessions
 
@@ -139,7 +164,20 @@ Research session will begin on or after Thursday, March 30th 2023 and end on Thu
 
 ### Availability
 
-Monday - Friday, 12:00 pm - 8:00 pm EST
+Team Availability | Time Slots (ET)
+------------------|--------------
+March 30, 2023 | 11 am - 3 pm; 3:30-7 pm
+March 31, 2023 | 11 am - 3 pm; 3:30-7 pm
+April 3, 2023 | 12 am - 3 pm; 3:30-8 pm
+April 4, 2023 | 12 am - 3 pm; 3:30-5 pm
+April 5, 2023 | 12 am - 3 pm; 3:30-5 pm
+April 6, 2023 | 12 am - 3 pm; 3:30-5 pm
+April 7, 2023 | 12 am - 3 pm; 3:30-8 pm
+April 10, 2023 | 12 am - 3 pm; 3:30-8 pm
+April 11, 2023 | Not Available
+April 12, 2023 | Not Available
+April 13, 2023 | 12 am - 3 pm; 3:30-5 pm
+April 14, 2023 | 12 am - 3 pm; 3:30-8 pm
 
 15 minute buffer between sessions
 
