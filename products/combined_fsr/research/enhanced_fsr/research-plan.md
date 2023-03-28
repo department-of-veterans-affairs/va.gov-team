@@ -121,9 +121,7 @@ How will this research advance your product to the next phase in the design proc
     
 
 6.  How understandable are other non-list loop specific changes? (usability)
-    
-	-   Do Veterans prefer entering income as monthly, biweekly, weekly?
-    
+        
 
 7.  How do Veterans feel about the amount of effort this form requires? (satisfaction)
     
