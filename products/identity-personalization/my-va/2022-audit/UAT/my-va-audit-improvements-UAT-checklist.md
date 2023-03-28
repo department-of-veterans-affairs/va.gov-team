@@ -1,6 +1,6 @@
 # My VA Audit UX Improvements UAT Readiness Checklist
 
-### Go/No-Go: mm/dd/yyyy
+### Go/No-Go: 03/29/2023
 
 ### Decision: _____ 
 
