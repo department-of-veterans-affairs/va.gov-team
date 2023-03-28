@@ -11,7 +11,7 @@ Thanks for joining us today! I'm Angela and I am the designer and researcher for
 
 ## General Notification Discussion (All)
 1. Who are your team's users? What do they need to do? What common actions do they take on VA.gov?
-2. Has your team talked to users at all about notifications? If so, do you have anything of note to share or studies you would recomnend that we reference?
+2. Has your team talked to users at all about notifications? If so, do you have anything of note to share or studies you would recommend that we reference?
 3. What are your expectations around how we elevate notifications on VA.gov?
 4. Are there any near-term needs that you're aware of for your portfolio regarding notifications?
 
