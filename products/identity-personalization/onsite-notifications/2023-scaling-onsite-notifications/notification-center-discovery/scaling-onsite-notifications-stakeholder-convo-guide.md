@@ -2,7 +2,7 @@
 
 ## Intro
 
-Thanks for joining us today! I'm Angela I am the desigbner and researcher for the authenticated experience My VA team. We also have (attendees) with us here from the Authenticated Experience team. As you probably know, we're here today because we're doing some high-level discovery work to scale the notifications feature on VA.gov, and we'd like to learn about your perspective on this work. 
+Thanks for joining us today! I'm Angela and I am the designer and researcher for the authenticated experience My VA team. We also have (attendees) with us here from the Authenticated Experience team. As you probably know, we're here today because we're doing some high-level discovery to scale the notifications feature on VA.gov, and we'd like to learn about your perspective on this work. 
 
 ## Background
 1. Tell me about your role and what you do in your work on VA.gov.
@@ -19,7 +19,10 @@ Thanks for joining us today! I'm Angela I am the desigbner and researcher for th
 ### Chris Johnston - Portfolio lead
 - Questions here
 
-### Lauren Alexanderson - Health lead
+### Rachel Han - Mobile app lead)
+- Questions here
+
+### Lauren Alexanderson, Coulton Bunney, and Patrick Bateman - Health portfolio
 - Questions here
 
 ### Dave Conlon - Sitewide lead
@@ -37,7 +40,10 @@ Thanks for joining us today! I'm Angela I am the desigbner and researcher for th
 ### Martha Wilkes - Accessibility lead
 - Questions here
 
-### Ryan Thurlwell - Design lead
+### Matt Dingee - Design lead
+- Questions here
+
+### Ray Wang - Platform lead
 - Questions here
 
 ## Challenges (All)
