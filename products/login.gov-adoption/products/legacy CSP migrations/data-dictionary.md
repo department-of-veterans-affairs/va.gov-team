@@ -1243,7 +1243,7 @@ The result sets return a dataset with repetetive results of the value.  Domo ETL
    </td>
    <td>Contains the most recent value from the result set for each query.  Assumption based on testing is that the values will always be the same when referencing the same prior period.
    </td>
-   <td>
+   <td>An instance exists (3/26 and 3/27) where prior day metric is repeated.
    </td>
   </tr>
   <tr>
