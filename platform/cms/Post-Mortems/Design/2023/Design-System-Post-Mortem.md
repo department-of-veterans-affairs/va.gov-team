@@ -233,7 +233,7 @@ As the CMS team is planning to join the Platform team and as other VA teams coul
     *   Try setting up a monthly meeting with Agile Coach to discuss ways to better involve the UX team.
     *   Try meeting 1-1 with Devs for UX team members to learn more about how Drupal works.
     *   Don’t have UX and Dev happen in the same sprint, if possible.
-    *   Bring the UX team in early on in the project. Have them start the process and collaborate with the Dev team instead of having decisions be led by the Dev team.
+    *   Bring the UX team in early on in the project. Have them start the process and collaborate with the Dev team instead of having design decisions be led by the Dev team.
     *   The Dev team should be responsible for implementing the agreed-upon design in a way that makes sense within our current tech infrastructure.
     *   It’s up to the Developer to determine what developer tools (theme, widgets, storybook) need to be updated to ensure that the design system is implemented as intended by the designer.
     *   Before a Developer installs a new Drupal Module, Developers MUST collaborate with the Designer to ensure that the chosen module meets UI/UX standards.
