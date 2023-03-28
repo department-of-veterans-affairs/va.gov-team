@@ -1,4 +1,24 @@
 # Sprint goals for Benefits Disability Experience Team 
+## Sprint 2
+Period - 03/292023 - 04/11/2023
+### Sprint goals
+- [ ] Expedited
+   - [ ] Discovery and iterative plan for adding Self-Assessment Part A to BDD 526 claims
+- [ ] Non-negotiable
+   - [ ] eVSS to Lighthouse Migration 
+        - [ ] BRD endpoint migration
+            - [ ] Technical Discovery - Relationship between PCIU Address and BRD
+        - [ ] Intent to File endpoint migration
+            - [ ] Technical Discovery 
+        - [ ] Common API Migration
+            - [ ] Technical Discovery 
+   - [ ] Deprecating React-based components
+ - [ ] Prioritized goals
+   - [ ] Synthesis of call center feedback submitting claims using for 526ez form
+   - [ ] Discovery for error messaging/validation
+ - [ ] Stretch goals
+   - [ ] Remediation of future Date of Claim(DOC) bug 
+
 ## Sprint 1
 Period - 03/15/2023 - 03/28/2023
 ### Sprint goals
