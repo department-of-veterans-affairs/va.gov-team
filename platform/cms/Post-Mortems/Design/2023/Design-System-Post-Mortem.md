@@ -226,7 +226,7 @@ As the CMS team is planning to join the Platform team and as other VA teams coul
     *   It’s up to the Developer to determine what developer tools (theme, widgets, storybook) need to be updated to ensure that the design system is implemented as intended by the designer.
     *   Before a Developer installs a new Drupal Module, Developers MUST collaborate with the Designer to ensure that the chosen module meets UI/UX standards.
 
-## SUMMARY
+## CONCLUSION
 
 *   A crucial UX role on the CMS team (Design System Specialist) was cut when PTEMS funding was cut.
 *   This role should have been part of the VFS CMS contract, not funded separately through a different contract.
