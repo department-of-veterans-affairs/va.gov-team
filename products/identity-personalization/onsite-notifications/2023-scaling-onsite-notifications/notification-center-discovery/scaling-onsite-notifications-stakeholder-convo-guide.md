@@ -10,9 +10,10 @@ Thanks for joining us today! I'm Angela and I am the designer and researcher for
 3. Who are the people and teams you work most closely with?
 
 ## Scaling Onsite Notifications (All)
-1. How familiar are you with the current state of onsite notifications on My VA? (If necessary) *Screen share and explain the current debt notification and integration with VA Notify.*
-2. I'm curious if you know of any studies your team has conducted where they've heard feedback from users about how they expect to see notifications or action items represented on VA.gov. Does anything come to mind that we might want to reference as part of this work?
+1. Who are your team's users? What do they need to do? What are common actions do they take on VA.gov?
+2. Has your team talked to users at all about notifications? If so, do you have anything of note to share or studies you would recomnend that we reference?
 3. Do you have any expectations or opinions around how we elevate notifications on VA.gov that you'd like to share? *(Can skip this question if there is a more practice-specific question along the same lines below.)*
+4. Are there any near-term needs that you're aware of for your portfolio regarding notifications?
 
 ## Practice-specific
 
