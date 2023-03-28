@@ -78,9 +78,10 @@ Next, I want to get our tech set up.
 
 - Does the device you're using have a screen to share?
 
-You will be interacting with your VA.gov account today. We are going to enable this new feature on your account so that you can see it. Just know that this is live and while anything you do here could affect your account, we will not be asking you to make any changes today.
+You will be interacting with your VA.gov account today. We are going to enable this new feature on your account for this session. Just know that this is live and while anything you do here could affect your account, we will not be asking you to make any changes today.
     
-- Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
+- Now I'm going to have you share your screen so that we can go over it together.
+
 **Would you prefer that I send that in the Zoom chat, to your email, or by another method?**
 - If another method, confirm their contact number/email address.
 - Send user [Link](https://www.va.gov/health-care/schedule-view-va-appointments) 
@@ -169,11 +170,19 @@ Tell me about some of the appointments you have had in the past.
 
 - Does anything you saw today reflect how you manage your health care appointments? 
 
+- What tools do you use to track and manage your appointments.
+
+- What are some of the easiest-to use online tools for scheduling and managing appointment?
+
+- Thinking about all your scheduling activities (not just for health care) do you prefer to schedule online, over the phone, or some other way?
+
 - Of everything you saw today, what was the most confusing, or challenging?
 
 - What worked well?
 
 - What could we do better?
+
+
 
 ## Thank-You and Closing
 
