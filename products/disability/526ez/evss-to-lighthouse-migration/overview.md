@@ -7,10 +7,12 @@ eVSS platform is being migrated to the modern Lighthouse platform being built fo
 ## Scope
 The scope of this work for the Disability Experience team is to replace all calls on the form 526 from eVSS endpoints to Lighthouse endpoints. As of Feb 17, 2023, these are the endpoints currently in scope:
 - /submit
-- /validate
-- getPDF
+- /validate - is not used today so migration is not required
+- /intenttofile
+- /getPDF
 - /rateddisabilities
 - Benefits Reference Data API
+- Common API
 
 https://dsva.slack.com/archives/C02CQP3RFFX/p1676572637697879?thread_ts=1676496299.623819&cid=C02CQP3RFFX
 
