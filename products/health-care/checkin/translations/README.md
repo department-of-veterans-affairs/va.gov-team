@@ -5,5 +5,5 @@
 
 | CONTENT | NOTES |
 | ----------------------------------| ------------------------------------------------------------|
-| VA.gov profile | The content for this link has changed from "VA account" to "VA.gov profile" |
-| Need to add this for Tagalog | "some-content-may-be-in-english": "Some content may be in English.",
+
+
