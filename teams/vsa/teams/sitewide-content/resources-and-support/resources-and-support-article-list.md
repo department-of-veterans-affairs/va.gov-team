@@ -87,4 +87,4 @@
 | 85 | [Verify school enrollment for DEA benefits](https://www.va.gov/resources/verify-school-enrollment-for-dea-benefits) | Education | 3/14/23
 | 86 | [My HealtheVet on VA.gov: What to know](https://www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates) | Health care | 3/21/23
 | 87 | [Presumptive cancers related to burn pit exposure](https://www.va.gov/resources/presumptive-cancers-related-to-burn-pit-exposure) | Health care | 3/27/23
-| 88 | [How to report the death of a Veteran to VA](https://www.va.gov/resources/how-to-report-the-death-of-a-veteran-to-va) | Burials and memorials | 3/27/23
+| 88 | [How to report the death of a Veteran to VA](https://www.va.gov/resources/how-to-report-the-death-of-a-veteran-to-va) | Other topics and questions | 3/27/23
