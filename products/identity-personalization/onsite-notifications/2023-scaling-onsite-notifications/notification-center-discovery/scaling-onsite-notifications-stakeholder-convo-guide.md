@@ -12,7 +12,7 @@ Thanks for joining us today! I'm Angela and I am the designer and researcher for
 ## Scaling Onsite Notifications (All)
 1. How familiar are you with the current state of onsite notifications on My VA? (If necessary) *Screen share and explain the current debt notification and integration with VA Notify.*
 2. I'm curious if you know of any studies your team has conducted where they've heard feedback from users about how they expect to see notifications or action items represented on VA.gov. Does anything come to mind that we might want to reference as part of this work?
-3. Do you have any expectations or opinions around how we elevate notifications on VA.gov that you'd like to share?
+3. Do you have any expectations or opinions around how we elevate notifications on VA.gov that you'd like to share? *(Can skip this question if there is a more practice-specific question along the same lines below.)*
 
 ## Practice-specific
 
