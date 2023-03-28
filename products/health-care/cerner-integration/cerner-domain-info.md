@@ -7,6 +7,7 @@ Timeout Settings
 
 ## Cerner Domain View
 
+![image](https://user-images.githubusercontent.com/113546229/228277455-ac2169b6-0384-4c5d-aabc-16037e1927f8.png)
 
 
 ## Timeout Settings
