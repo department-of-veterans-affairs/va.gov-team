@@ -1,6 +1,6 @@
 # Data Lineage of Datasets supporting the Login.gov Migration Dashboard 
 
-Refer to the Data Dictionary for more details.
+See also the <a href="./data-dictionary.md">Data Dictionary</a>.
 
 **IAM MPI Dataset**
 
@@ -148,7 +148,7 @@ The IAM data export is processed to:
 
 4. Output aggregated CSV
 
-Refer the data dictionary and the table with recurring fields in for details of the output format.
+Refer the <a href="./data-dictionary.md">Data Dictionary</a> and the table with recurring fields in for details of the output format.
 
 **Load**
 
