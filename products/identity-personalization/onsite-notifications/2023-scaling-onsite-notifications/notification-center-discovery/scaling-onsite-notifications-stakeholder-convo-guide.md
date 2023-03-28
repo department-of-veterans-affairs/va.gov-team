@@ -5,7 +5,7 @@
 Thanks for joining us today! I'm Angela and I am the designer and researcher for the Authenticated Experience My VA team. We also have (attendees) with us here from the Authenticated Experience team. As you probably know, we're here today because we're doing some high-level discovery to scale the notifications feature on VA.gov, and we'd like to learn about your perspective on this work. 
 
 ## Background
-1. First, could you tell me about your role and what you do in your work on VA.gov?
+1. First, could you tell me about your role and what you do in your work on VFS?
 2. How long have you been in this role?
 3. Who are the people and teams you work most closely with?
 
