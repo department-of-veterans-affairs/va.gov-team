@@ -20,7 +20,7 @@
 
 00:00:22.000 --> 00:00:36.000
 
-> How long have you been a veteran, [participant 2]?
+> How long have you been a Veteran?
 
 00:00:36.000 --> 00:00:40.000
 
