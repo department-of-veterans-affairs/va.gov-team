@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: March 2, 2023 - updated team roster**
+**Last updated: March 28, 2023 - added Getting started md file to Frontend section**
 
 ### Communications
 
@@ -180,7 +180,7 @@ _Why would your business want this to exist?_
 
 ## Front End
 
-- placeholder
+- [Getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend-getting-started.md)
 
 ## Back End
 
