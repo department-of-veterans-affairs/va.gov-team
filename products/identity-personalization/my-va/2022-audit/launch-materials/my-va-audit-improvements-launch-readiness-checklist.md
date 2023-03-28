@@ -15,7 +15,7 @@
 **Angela & AJ**: Is UAT complete?
 - Answer:
 
-**Allison and Tom**: are there any Sev1 bugs or accessibility issues outstanding?
+**Allison and Derrick**: are there any Sev1 bugs or accessibility issues outstanding?
 - Answer: 
 
 **Allison**: are you ready to turn the feature on to 25% of users?
