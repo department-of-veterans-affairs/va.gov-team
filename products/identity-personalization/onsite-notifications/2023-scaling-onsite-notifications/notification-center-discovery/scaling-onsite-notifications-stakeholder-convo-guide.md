@@ -12,14 +12,14 @@ Thanks for joining us today! I'm Angela and I am the designer and researcher for
 ## Scaling Onsite Notifications (All)
 1. Who are your team's users? What do they need to do? What are common actions do they take on VA.gov?
 2. Has your team talked to users at all about notifications? If so, do you have anything of note to share or studies you would recomnend that we reference?
-3. Do you have any expectations or opinions around how we elevate notifications on VA.gov that you'd like to share? *(Can skip this question if there is a more practice-specific question along the same lines below.)*
+3. What are your expectation around how we elevate notifications on VA.gov?
 4. Are there any near-term needs that you're aware of for your portfolio regarding notifications?
 
 ## Challenges (All)
 
-There are some challenges we can already foresee with scaling onsite notifications.
-1. Since the feature currently integrates with VA Notify, we can only present notifications that are supported by VA Notify. If users don't see common notifications in a notification center yet because VA Notify does not yet support them (eg. new message from your doctor, or a prescription shipping), what are your thoughts about whether users will trust the feature?
-2. Can you think of any important factors to consider or potential challenges that we haven't already disussed today?
+There are some challenges we can already foresee with scaling onsite notifications but we're curious to get your take on it.
+1. *If not already discussed:* Do you have any thoughts around scaling the notifications feature over time?
+2. How do you think we can build veteran trust as we scale this feature? What would make or break trust when it comes to notifications?
 
 ## Practice-specific
 
@@ -45,13 +45,13 @@ There are some challenges we can already foresee with scaling onsite notificatio
 
 ### Mikki Northuis - IA/Nav lead
 - Do you have thoughts about how we might want to consider surfacing notifications within the logged in experience?
-- What IA timelines should we be aware of that will impact the overall VA.gov navigation?
+- What IA considerations should we be aware of as part of our work to scale notifications on VA.gov?
 
 ### Chante Lantos-Swett - Account experience and customer support lead
 - Are there customer support issues that you see an opportunity to alleviate with the use of notifications on VA.gov?
 
 ### Martha Wilkes - Accessibility lead
-- Is there any advice you have about the most accessible approach to notification patterns? Have you seen any sites that are doing it particularly well?
+- Is there any advice you have about the most accessible approach to notification patterns? Have you come across any sites that are doing it particularly well?
 - Is there anything we should do differently than we typically do to engage with a11y folks early and often as part of this work?
 
 ### Matt Dingee - Design lead
@@ -62,4 +62,4 @@ There are some challenges we can already foresee with scaling onsite notificatio
 
 ## Closing
 
-Thank you so much for your time today; we know you're very busy! What questions do you have for us before we wrap up?
+Thank you so much for your time today; we know you're busy and really appreciate your input! What questions do you have for us before we wrap up?
