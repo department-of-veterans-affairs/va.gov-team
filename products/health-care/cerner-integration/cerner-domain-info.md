@@ -2,8 +2,8 @@
 
 ### Table of Contents
 
-Cerner Domain View
-Timeout Settings
++ [Cerner Domain View](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/cerner-integration/cerner-domain-info.md#cerner-domain-view)
++ [Timeout Settings](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/cerner-integration/cerner-domain-info.md#timeout-settings)
 
 ## Cerner Domain View
 
