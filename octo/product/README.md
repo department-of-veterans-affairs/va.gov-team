@@ -2,7 +2,7 @@
 The `product operations` directory contains standards, templates, and other resources specific to the product management discipline that help teams maintain high-quality product development practices. 
 
 
-
+Any questions, please visit our #product-operations channel on Slack
 
 
 ## Content
