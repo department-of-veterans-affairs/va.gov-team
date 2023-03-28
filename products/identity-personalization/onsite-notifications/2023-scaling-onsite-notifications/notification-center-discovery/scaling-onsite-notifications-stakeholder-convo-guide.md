@@ -15,6 +15,12 @@ Thanks for joining us today! I'm Angela and I am the designer and researcher for
 3. Do you have any expectations or opinions around how we elevate notifications on VA.gov that you'd like to share? *(Can skip this question if there is a more practice-specific question along the same lines below.)*
 4. Are there any near-term needs that you're aware of for your portfolio regarding notifications?
 
+## Challenges (All)
+
+There are some challenges we can already foresee with scaling onsite notifications.
+1. Since the feature currently integrates with VA Notify, we can only present notifications that are supported by VA Notify. If users don't see common notifications in a notification center yet because VA Notify does not yet support them (eg. new message from your doctor, or a prescription shipping), what are your thoughts about whether users will trust the feature?
+2. Can you think of any important factors to consider or potential challenges that we haven't already disussed today?
+
 ## Practice-specific
 
 ### Chris Johnston - Portfolio lead
@@ -52,10 +58,8 @@ Thanks for joining us today! I'm Angela and I am the designer and researcher for
 - What thoughts or concerns do you have about the representation of notifications on VA.gov as we scale this feature?
 
 ### Ray Wang - Platform lead
-- 
+- How is the collab cycle process different for changes that can affect the entire site versus just our page that we own? Are there any specific challenges we should expect?
 
-## Challenges (All)
+## Closing
 
-There are some challenges we can already foresee with scaling onsite notifications.
-1. Since the feature currently integrates with VA Notify, we can only present notifications that are supported by VA Notify. If users don't see common notifications in a notification center yet because VA Notify does not yet support them (eg. new message from your doctor, or a prescription shipping), what are your thoughts about whether users will trust the feature?
-2. Can you think of any important factors to consider or potential challenges that we haven't already disussed today?
+Thank you so much for your time today; we know you're very busy! What questions do you have for us before we wrap up?
