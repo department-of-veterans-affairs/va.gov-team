@@ -5,6 +5,8 @@ The purpose of the interviews was to get feedback from Veterans on the FSR enhan
 
 The sessions took place from 03/13/2023⁠–03/15/2023.
 
+- [Mural link to session notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677854999549/fbc6db6c07e1d1fe44d5f02ba35b9a268e3811e7?wid=0-1680013477325)
+
 ### The Prototype
 All 6 Veterans looked at a shortened version of the enhanced Financial Status Report form. This was a prototype created in UXPin and contained the following items: 
 
