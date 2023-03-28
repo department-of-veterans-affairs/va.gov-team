@@ -1,5 +1,17 @@
 # Design System Post-mortem, 3/28/2023
 
+## INDEX
+
+*   [Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/Post-Mortems/Design/2023/Design-System-Post-Mortem.md#summary)
+*   [Root Cause Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/Post-Mortems/Design/2023/Design-System-Post-Mortem.md#root-cause-analysis)
+*   [Ownership](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/Post-Mortems/Design/2023/Design-System-Post-Mortem.md#ownership)
+*   [Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/Post-Mortems/Design/2023/Design-System-Post-Mortem.md#timeline)
+*   [Problem Statements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/Post-Mortems/Design/2023/Design-System-Post-Mortem.md#problem-statements)
+*   [Resulting Issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/Post-Mortems/Design/2023/Design-System-Post-Mortem.md#resulting-issues)
+*   [Why it's important](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/Post-Mortems/Design/2023/Design-System-Post-Mortem.md#why-its-important)
+*   [Solutions & Action Items](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/Post-Mortems/Design/2023/Design-System-Post-Mortem.md#solutions--action-items)
+*   [Conclusion](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/Post-Mortems/Design/2023/Design-System-Post-Mortem.md#conclusion)
+
 ## SUMMARY
 
 A multitude of factors ranging from workstreams crossing contract boundaries during PTEMS funding cuts to low UX team maturity on the CMS team has resulted in UX Design Debt and Operational Design Debt that needs to be addressed. Resolving these issues is going to be an ongoing process as we balance addressing adding new functionality to the CMS with paying off design debt.
