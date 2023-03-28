@@ -19,17 +19,20 @@ Thanks for joining us today! I'm Angela and I am the designer and researcher for
 ### Chris Johnston - Portfolio lead
 - Questions here
 
-### Rachel Han - Mobile app lead)
+### Rachel Han - Mobile app lead
 - Questions here
 
 ### Lauren Alexanderson, Coulton Bunney, and Patrick Bateman - Health portfolio
-- Questions here
+- Are there any timelines for the My HealtheVet to VA.gov transition that we should be aware of? 
+- Are there health-specific notifications that come to mind that would be good candidates for notifications on VA.gov? 
 
 ### Dave Conlon - Sitewide lead
-- Questions here
+- Do you have thoughts about how we might want to consider surfacing notifications within the logged in navigation?
+- We know you've talked with Samara before about notifications that are in the gray space between general and personalized, like if a user's VAMC was closed for emergency purposes, for example. Do you have any thoughts to share about those types of notifications?
 
 ### Matt Self - Benefits lead
-- Questions here
+- How do you see notifications on VA.gov elevating the benefits work that your teams are doing?
+- Are there opportunities to surface important benefit notifications that you're particularly interested in putting on our roadmap, even if they're not immediately technically feasible?
 
 ### Mikki Northuis - IA/Nav lead
 - Questions here
