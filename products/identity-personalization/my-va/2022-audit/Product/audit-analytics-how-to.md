@@ -1,7 +1,7 @@
 # My VA Analytics How-To
 Last updated: March 28, 2023 - added corrected "schedule and manage your appointments (appts card)" link.
 
-This document serves as a guide for Google Analytics tracking on My VA, post-launch of the audit UX improvements implementation.
+This document serves as a guide for Google Analytics tracking on My VA, post-launch of the audit UX improvements implementation. To view results once live, view the [My VA Domo dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837).
 
 | |  **My VA section**     |  **Text of link or button as it appears on My VA**  | **Screenshot** |**Google Event Tag**|**New in this iteration?**| **Previous event tag (if applicable)** |
 |---|--------------------|-----------------------------------------------|------------|-------------------------|-----------|-------------------------|
