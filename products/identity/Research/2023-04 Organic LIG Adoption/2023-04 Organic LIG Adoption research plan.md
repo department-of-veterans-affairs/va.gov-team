@@ -33,6 +33,7 @@ Specifically for organic adoption of login.gov accounts, key points likely inlcu
 What are you trying to learn from this research? 
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+- Identify which term resonatotes most when describing an ID proofed account
 - Find out how to encourage more veterans to create ID proofed accounts now, even before sunsetting of legacy accounts(s)
 
 ### Outcome
