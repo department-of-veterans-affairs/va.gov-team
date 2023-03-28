@@ -11,10 +11,10 @@
 ### Planning:
 - **UAT Go/No go**
   - _Completed mm/dd/yyyy_
-  - UAT readiness ticket:[#51823](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51823)
+  - UAT readiness ticket: [#51823](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51823)
   - [UAT readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/my-va-audit-improvements-UAT-checklist.md)
 - **Desired date range or test duration:**
-     - Weeks of _mm/dd - mm/dd_
+     - Weeks of 4/3 - 4/10
 - **Desired number of users:** 
      - Recruiting n participants with a target of completeing _n_ sessions
 - **How you'll recruit the right production test users:** 
@@ -24,8 +24,8 @@
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** 
      - The feature will be behind a feature flag. 
 - **Link to Research plan for UAT**: 
-   - _LINK UAT plan_
-   - _LINK conversation guide_
+   - [UAT plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/MyVA-audit-UAT-research-plan.md)
+   - [UAT Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/MyVA-audit-UAT-conversation-guide.md)
 
 ### Results:
 - **Number of users:**
@@ -54,7 +54,7 @@
 
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
-_Success metrics link TK_
+[Success metrics](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#measuring-success)
 
 ## Go Live!
 
