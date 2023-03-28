@@ -7,6 +7,11 @@ The React/Redux frontend for the VA.gov MyVA. Modeled after [Profile's README](h
 - [Purpose and overview](#purpose-and-overview)
 - [Developing locally](#developing-locally)
 - [Testing](#testing)
+  - [Unit tests](#unit-tests)
+  - [e2e tests](#e2e-tests)
+    - [Open Cypress UI](#open-cypress-ui)
+    - [Run Cypress from command line](#run-cypress-from-command-line)
+  - [Test coverage](#test-coverage)
 - [Troubleshooting](#troubleshooting)
 - [Resources](#resources)
 
@@ -54,13 +59,50 @@ Visit [https://localhost:3001/my-va](https://localhost:3001/my-va).
 
 ## Unit tests
 
+Run all unit tests for My VA:
+```
+yarn test:unit src/applications/personalization/dashboard/tests/**/*.unit.spec.js*                 
+```
+
 ## e2e tests
 
+**Before running any Cypress tests**, first make sure that:
+1. `vets-website` is being served locally on port 3001
+2. any mock server is **NOT** running
+   - this includes `vets-api` or our local mock server 
+
+### Open Cypress UI
+Caveat: can be buggy and laggy
+```
+yarn cy:open
+```
+### Run Cypress from command line
+Run all e2e tests for My VA:
+```
+yarn cy:run --spec "src/applications/personalization/dashboard/tests/e2e/**/*"
+```
+
+Run specific test:
+```
+yarn cy:run --spec "path/to/test-file.cypress.spec.js"
+```
+
 ## Test coverage
+Adam from Profile team wrote [a command to output a test coverage report](https://github.com/department-of-veterans-affairs/vets-website/pull/23751) in HTML format (currently in PR as of 3/28/23).
+
+Once this gets approved and merged, we can run the following:
+```
+yarn test:unit --app-folder personalization --coverage --coverage-html
+```
+Then navigate to **coverage/index.html** and serve it on any live server.
 
 # Troubleshooting
+
+🚧
 
 # Resources
 
 - [Authenticated Experience team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md)
 - [Product outline: My VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/README.md)
+- [`vets-website` README.md](https://github.com/department-of-veterans-affairs/vets-website)
+- [Istabul - JavaScript test coverage tool](https://istanbul.js.org/)
