@@ -36,6 +36,6 @@ This is a folder for the Cerner integration work.
 - Create CPM FHIR app deployed as a Cerner mPage component 
 - Integrated CPM within Provider Workflow mPages
 - Reads Cerner vital signs, specific labs, imaging using FHIR Observation 
-- Writes to Cerner proprietary event codes using FHIR Observation
+- Writes to Cerner proprietary event codes using FHIR Observation ([link](https://github.com/department-of-veterans-affairs/covid-patient-manager/wiki/Developer-Resources#cerner-writeback-and-resources))
 - Created auto-text (commonly referred to as "dot-phrases") natively in Cerner using proprietary event codes
 - CPM Team documentation re: [Cerner Integration ](https://github.com/department-of-veterans-affairs/covid-patient-manager/wiki/Cerner-Integration)
