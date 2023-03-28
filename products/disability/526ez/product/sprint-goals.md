@@ -15,8 +15,6 @@ Period - 03/292023 - 04/11/2023
  - [ ] Prioritized goals
    - [ ] Synthesis of call center feedback submitting claims using for 526ez form
    - [ ] Discovery for error messaging/validation
- - [ ] Tech debt
-   - [ ] Discovery for deprecating React-based components
 
 ## Sprint 1
 Period - 03/15/2023 - 03/28/2023
