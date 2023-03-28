@@ -165,16 +165,16 @@ Team Availability | Time Slots (ET)
 ------------------|--------------
 March 30, 2023 | 11 am - 3 pm; 3:30-7 pm
 March 31, 2023 | 11 am - 3 pm; 3:30-7 pm
-April 3, 2023 | 12 am - 3 pm; 3:30-8 pm
-April 4, 2023 | 12 am - 3 pm; 3:30-5 pm
-April 5, 2023 | 12 am - 3 pm; 3:30-5 pm
-April 6, 2023 | 12 am - 3 pm; 3:30-5 pm
-April 7, 2023 | 12 am - 3 pm; 3:30-8 pm
-April 10, 2023 | 12 am - 3 pm; 3:30-8 pm
+April 3, 2023 | 12 pm - 3 pm; 3:30-8 pm
+April 4, 2023 | 12 pm - 3 pm; 3:30-5 pm
+April 5, 2023 | 12 pm - 3 pm; 3:30-5 pm
+April 6, 2023 | 12 pm - 3 pm; 3:30-5 pm
+April 7, 2023 | 12 pm - 3 pm; 3:30-8 pm
+April 10, 2023 | 12 pm - 3 pm; 3:30-8 pm
 April 11, 2023 | Not Available
 April 12, 2023 | Not Available
-April 13, 2023 | 12 am - 3 pm; 3:30-5 pm
-April 14, 2023 | 12 am - 3 pm; 3:30-8 pm
+April 13, 2023 | 12 pm - 3 pm; 3:30-5 pm
+April 14, 2023 | 12 pm - 3 pm; 3:30-8 pm
 
 15 minute buffer between sessions
 
