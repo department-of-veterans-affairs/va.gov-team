@@ -1,4 +1,4 @@
-### Prescription Status
+## Prescription Status
 
 |Prescription Status | Definition | Notes/Comments |
 |-------|-------|-------|
@@ -16,7 +16,7 @@
 |**Non-verified**|A VA pharmacist is verifying this prescription.|||
 
 
-### RX Refill Status
+## RX Refill Status
 
 |RX Refill Status | Definition | Notes/Comments |
 |-------|-------|-------|
@@ -34,11 +34,8 @@
 |Active: Submitted|The refill request has been received by My HealtheVet but has not been processed by the VA Pharmacy yet.|
 |Active: Suspended|An active VA Prescription that is not scheduled to be filled yet.|
 
-### Questions:
 
-
-
-### Documentation & Research Findings:
+## Documentation & Research Findings:
 
 |RX Refill Status | Definition | Comments
 |-------|-------|-------|
@@ -50,11 +47,11 @@
 
 
 
-### MHV Web Screens
+## MHV Web Screens
 
-### Mobile Screens for showing Status examples: 
+## Mobile Screens for showing Status examples: 
 
 <img width="188" alt="Screenshot 2023-03-07 at 2 18 37 PM" src="https://user-images.githubusercontent.com/90273080/223528157-d7d16d98-abc4-406e-84a8-e2704f6709f5.png"> <img width="185" alt="Screenshot 2023-03-07 at 2 19 52 PM" src="https://user-images.githubusercontent.com/90273080/223528432-d6219b20-8935-479b-9de1-0dc50b98ca9a.png"> <img width="188" alt="Screenshot 2023-03-07 at 2 20 33 PM" src="https://user-images.githubusercontent.com/90273080/223528955-dd3e364f-ae2b-4838-9a20-088c53d8d0ef.png"> <img width="188" alt="Screenshot 2023-03-07 at 2 21 55 PM" src="https://user-images.githubusercontent.com/90273080/223529234-c37f2756-54cb-4af0-8b07-ba6d2cf5bbf5.png">
 
 
-
+## Questions:
