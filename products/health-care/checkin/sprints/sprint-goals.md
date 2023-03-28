@@ -40,6 +40,10 @@ ________________________________________________________________________________
       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Fix appointment details unit tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53769)
       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Display Facility Address with Other Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132)
 - **GOAL: Address tech & design debt**   
+   - **[Remove QR Code Instructions from All Posters](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Brainstorm New Poster Designs that Excludes the QR Code Instructions ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55834)
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Design] Create New Design that Excludes the QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55833)
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Update All Posters to the New Design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55832)
 
 ------------------------- END FUTURE / TENTATIVE ----------------------------
 
