@@ -30,6 +30,7 @@
 - [ ] The content is free of ability-focused language (view, walk, see, hear)
 - [ ] Relevant terms from page are in content brief and any relevant backlog work is noted
 - [ ] "Who's covered?" section is removed (if applicable) 
+- [ ] 
 
 ## Grade level score using Flesh-Kincaid with no prep
 - Before edits: 
@@ -38,3 +39,16 @@
 - [ ] Backlog ticket for further review created if needed
 
 
+## SME audit
+
+- [Y/N] Is all information on the page still accurate and timely?
+
+  - **Notes:** 
+
+- [Y/N] Are there any gaps in information that Veterans or other beneficiaries need to know?
+
+  - **Notes:** 
+
+- [Y/N] Are there any potential or known changes in a law, policy, regulation, or program that you think may result in needing to update this information within the next year?
+
+  - **Notes:** 
