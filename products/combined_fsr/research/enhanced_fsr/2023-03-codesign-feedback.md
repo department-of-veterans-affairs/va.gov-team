@@ -21,17 +21,19 @@ All 6 Veterans looked at a shortened version of the enhanced Financial Status Re
 
 ### Emergent Themes in Feedback
 
--   Intuitiveness is important
+-   The ability to see all debts in one place is very appreciated (1 participant spoke about the delay they experience when paying a debt, and receiving multiple notices that it has not been paid, even when they know the have paid it)
+-   Intuitiveness is important (like using an iPhone, "you know how use it without any instruction" - P6)
 -   Ease of use is important
-	-  Ease of use for less tech savvy vets (P5)
+	- Ease of use for less tech savvy vets P5
 	- Thinks form must be **digestible** P6
 -  Accessibility: Start your request now button needs to be bigger _(2 participants said this without prompting)_
+-  One participant would have liked the ability to download the FSR they have filled out before submitting the form
 
 
 ### Perceptions, mindset, mental models
 
- -   Language sensitivity
--   Some very logical, analytical mindsets, expect copy to be this way too. Opinionated about wording, verbiage structured around priority insider knowledge about DMC _(one participant's comment about resolution option waiver option, suggested as last option (VA/business centered vs user centered)_
+ -  Language sensitivity
+-   Some very logical, analytical mindsets, expect copy and directions to be this way too. Opinionated about wording, verbiage structured around priority insider knowledge about DMC _(one participant's comment about resolution option waiver option, suggested as last option (VA/business centered vs user centered)_
 - Participant said they would only ask for debt forgiveness if they really have to (P3)
 (personal opinions on finance and money, larger picture than just resolution process)
 -   Have to jump through a lot of hoops with the VA for requests, paperwork, confirmations
@@ -64,7 +66,7 @@ All 6 Veterans looked at a shortened version of the enhanced Financial Status Re
  - Intro/Steps page:
 	 - VSO link - does it go where users expect it to?
 	-   Thoughts on "Start your request now" button 
--   Summary cards - one participant suggested making delete smaller as less tech-savvy father might accidentally select it
+-   Summary cards - one participant suggested making delete smaller as less tech-savvy father might accidentally select it and feel frustrated
 -   Do users consider insurance expense other than housing insurance? Add car insurance to expenses suggestion?
 
 ### Updates made to the formal research as a result of this feedback
