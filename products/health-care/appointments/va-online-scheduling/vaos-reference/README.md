@@ -26,7 +26,7 @@ Booked appointments through VA or CC facilities
 
 | Feature | Description | Supported |
 |---|---|---|
-| (VA In person)[appointment-types/va-booked-in-person.md]  | | |
+| [VA In person](appointment-types/va-booked-in-person.md)  | | |
 | VA In person Vaccine | | |
 | VA Video Care at Home | | |
 | VA Video Care at a VA location | | | 
