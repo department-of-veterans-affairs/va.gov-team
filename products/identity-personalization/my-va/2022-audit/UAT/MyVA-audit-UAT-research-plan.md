@@ -62,6 +62,7 @@ We are recruiting Veterans who use various VA benefits and specifically some who
 ### Prepare
 
 When will the thing you are testing be finalized? 
+
 April 2023
 
 Please indicate the date and name of a mock participant for a pilot session. 
@@ -71,6 +72,7 @@ Please indicate the date and name of a mock participant for a pilot session.
 
 ### Research sessions
 What dates do you plan to do research? 
+
 April 5-7, 2023
 
 ### Length of sessions
