@@ -15,9 +15,9 @@ See also:
 
 | Feature | Usage | 
 |---|---|
-| [Upcoming appointments](/appointment-lists/upcoming-list.md) | View all future and in progress appointments |
-| [Past appointments](/appointment-lists/past-list.md) | View all appointments from the last two years |  
-| [Pending appointments](/appointment-lists/upcoming-list.md) | View all pending and canceled requests | 
+| [Upcoming appointments](appointment-lists/upcoming-list.md) | View all future and in progress appointments |
+| [Past appointments](appointment-lists/past-list.md) | View all appointments from the last two years |  
+| [Pending appointments](appointment-lists/upcoming-list.md) | View all pending and canceled requests | 
 
 ### Appointment types
 Booked appointments through VA or CC facilities
