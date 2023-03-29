@@ -5,32 +5,40 @@ Period - 03/292023 - 04/11/2023
 - [ ] Expedited
    - [ ] Discovery and iterative plan for adding Self-Assessment Part A to BDD 526 claims
 - [ ] Non-negotiable
+   - [ ] React component deprecation 
+        - [ ] Technical Discovery for a migration plan 
    - [ ] eVSS to Lighthouse Migration 
-        - [ ] BRD endpoint migration
+        - [ ] BRD endpoint 
             - [ ] Technical Discovery - Relationship between PCIU Address and BRD
-        - [ ] Intent to File endpoint migration
+            - [ ] Continue migration work 
+        - [ ] rated disailities endpoint
+            - [ ] Complete migration work - from sprint 1 
+        - [ ] Intent to File endpoint 
             - [ ] Technical Discovery 
         - [ ] Common API Migration
             - [ ] Technical Discovery 
-   - [ ] React component deprecation 
-        - [ ] Technical Discovery for a migration plan 
  - [ ] Prioritized goals
    - [ ] Synthesis of call center feedback submitting claims using for 526ez form
    - [ ] Discovery for error messaging/validation
+   - [ ] Epic-stories breakdown for prioritized ideas
 
 ## Sprint 1
 Period - 03/15/2023 - 03/28/2023
 ### Sprint goals
 - [ ] Engineering work
-   - [ ] Technical discovery on the future date of claim bug
-   - [ ] Pull a report for recent validation errors
+   - [x] Technical discovery on the future date of claim bug
+   - [x] Pull a report for recent validation errors
    - [ ] rated disabilities endpoint migration
-   - [ ] start work on BRD endpoint migration to Lighthouse
+   - [x] start work on BRD endpoint migration to Lighthouse
  - [ ] Research Discovery
-   - [ ] Work with product/team to priortize these ideas and add them as user stories in the product backlog 
-   - [ ] Analyze low ratings on 526 form from Domo dashboard
-   - [ ] Seek written responses to survery on 526ez form
-   - [ ] Start discovery on making 526ez and supplemental forms on va.gov current with paper version of the form
+   - [ ] Work with product/team to and 
+      - [x] Priortize ideas
+      - [ ] Add them as user stories in the product backlog 
+          -  Moved to sprint 2 as prioritization was completed by end of sprint    
+   - [x] Analyze low ratings on 526 form from Domo dashboard
+         -  Captured analytics not relevant to 526ez form
+   - [x] Seek written responses to survery on 526ez form
+   - [x] Start discovery on making 526ez and supplemental forms on va.gov current with paper version of the form
 
 
 ## Sprint 0
