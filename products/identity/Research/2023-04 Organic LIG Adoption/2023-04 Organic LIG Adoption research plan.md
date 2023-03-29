@@ -35,6 +35,7 @@ What are you trying to learn from this research?
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 - Identify which term resonatotes most when describing an ID proofed account
 - Find out how to encourage more veterans to create ID proofed accounts now, even before sunsetting of legacy accounts(s)
+- Test the usability of modal prototype that encourages veterans to signup for a login.gov account
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
@@ -159,11 +160,15 @@ Please request enough dates and at ***least double the amount of time slots for 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
+- Research guide writing and task development (usually but not always same as moderator): Clayton Zook	
 - Participant recruiting & screening:	
-- Project point of contact:	
+- Project point of contact: Clayton Zook
 - Participant(s) for pilot test:
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
 - Note-takers:	
 - Observers:	
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+
+## Previous relateed research
+
+- [2022-07 MHV transition to Login.gov as a single sign-on](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/157)
