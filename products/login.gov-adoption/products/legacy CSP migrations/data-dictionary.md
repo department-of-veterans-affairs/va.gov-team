@@ -1192,6 +1192,8 @@ See notes above about ID.me and DS Logon accounts.
 
 **About the DataDog Unique Authentications Data**
 
+Metrics in DataDog inlclude unique authentications over given time periods, i.e. count of users who have logged in during the time period versus the number of times that users have logged in during that time period. Traffice throught the Unified Sign-in Page accounts for about 60% of the total SSOe authentications.  
+
 A scheduled job is configured in Domo to pull metrics from DataDog using the following query:
 ```
 min:vets_api.statsd.account_login_stats_dslogon_past_[day|week|month]_{deployment_env:vagov-prod},
