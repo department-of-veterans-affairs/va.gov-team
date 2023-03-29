@@ -1,5 +1,21 @@
 # Benefits Disability Experience - Product sync
 
+### Date: March 28 2023
+### Items to be discussed:
+- Value Effort matrix review with stakeholders - prioritization prep for 4-6 ideas
+- 526 Lighthouse migration timeline 
+   - Needs discovery
+   - Prioritize discovery for the next few sprints as needed so we can come up with a timeline for the program  
+- Review sprint 2 goals
+- Future Date of Claim findings 
+   - Write-up of the findings to communicate with the stakeholders and identify next steps
+   - Ask for erroneous claims to debug further, if nedeed 
+- Ancillary forms 
+   - Reviewed high level outcome of meetings with Forms Digitization team
+   - Will schedule detailed Product/UX discussion for next steps
+- Product Profile
+  - There are 3 product profiles for 526ez. We can delete/archive the BDD and Original Claims profiles after the 526ez has been updated.
+  
 ### Date: March 22 2023
 ### Items to be discussed:
 - Value Effort matrix review with stakeholders - prep and expectations
