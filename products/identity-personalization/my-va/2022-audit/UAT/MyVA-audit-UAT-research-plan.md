@@ -60,10 +60,6 @@ We are recruiting Veterans who use various VA benefits and specifically some who
 
 ## Timeline
 ### Prepare
-**We would like to request a 15 minute kick-off call with Perigean before recruiting begins.**
-
-Availability for kick-off call:
-TBD
 
 When will the thing you are testing be finalized? 
 April 2023
