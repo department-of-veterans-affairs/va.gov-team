@@ -5,11 +5,13 @@
 
 Product, business, and technical documentation of VAOS' features.
 
+<!-- 
 See also:
 - [Business rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md#vaos-product-and-business-rules)
 - [User flows](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=267-19369&t=jIup4zOCLhBYNOvO-4)
 - [Copy docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/content)
 - [Page templates](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?node-id=0-2&t=vycMTsKnfBPu5MKo-4)
+-->
 
 ## Appointment lists
 
