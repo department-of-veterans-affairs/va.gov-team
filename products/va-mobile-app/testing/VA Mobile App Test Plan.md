@@ -92,7 +92,7 @@ All issue tickets should be written using the [issue ticket template](https://gi
 
 | **Impact** | **Definition** | **Examples** |
 | --- | --- | --- |
-| High impact |  Prevents a user from completing a task | Crashes, system hangs, file/data corruption, errors with no discoverable workaround, etc |
+| High impact |  Prevents a user from completing a task | Crashes, system hangs, file/data corruption, errors with no discoverable workaround, component doesn't function (ex: link broken, button can't receive screen reader focus), etc |
 | Low impact |  Does not prevent a user from completing a task | Typos, unclear messaging, repetitive information, errors with an easily discoverable workaround, etc |
 
 #### Frequency definitions
