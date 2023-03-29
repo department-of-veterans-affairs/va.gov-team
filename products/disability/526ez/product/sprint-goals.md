@@ -12,6 +12,8 @@ Period - 03/292023 - 04/11/2023
             - [ ] Technical Discovery 
         - [ ] Common API Migration
             - [ ] Technical Discovery 
+   - [ ] React component deprecation 
+        - [ ] Technical Discovery for a migration plan 
  - [ ] Prioritized goals
    - [ ] Synthesis of call center feedback submitting claims using for 526ez form
    - [ ] Discovery for error messaging/validation
