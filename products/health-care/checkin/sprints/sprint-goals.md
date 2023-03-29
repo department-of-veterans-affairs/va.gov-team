@@ -31,7 +31,7 @@ ________________________________________________________________________________
    - **Sub Goal: [Send Check-in Text 45 Minutes Before Appointment to encourage use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)**
       - PAUSED: We have a meeting with the VeText folks on 4/3 to discuss their part
    - **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Brainstorm New Poster Designs that Excludes the QR Code Instructions ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55834)
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Brainstorm New Poster Design that Excludes the QR Code Instructions ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55834)
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] SPIKE: Determine how we could do a quick study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55903)
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Design] Create New Design that Excludes the QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55833)
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
