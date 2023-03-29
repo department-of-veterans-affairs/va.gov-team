@@ -38,7 +38,8 @@
 - Product Profile
   - There are 3 product profiles for 526ez. 
   - **Action item** - Delete/archive BDD and Original Claims product profiles after 526ez product profile has been updated.
-  
+- Later- **Action item** - establish a continuous idea intake process once the intial roadmap and epics have been drafted
+
 ### Date: March 28 2023
 ### Topics covered:
 - Value Effort matrix review with stakeholders - prioritization prep for 4-6 ideas
