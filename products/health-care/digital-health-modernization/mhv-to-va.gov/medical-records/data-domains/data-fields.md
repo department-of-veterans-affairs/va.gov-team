@@ -208,12 +208,9 @@ Note: USCDI also includes 3 vitals for babies and children: BMI (2-20 years), we
 
 |Data field       | Suggested label | USCDI v1 data element mapping | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
-|Latest reading |Last result|[List of vital signs](https://www.healthit.gov/isa/uscdi-data-class/vital-signs#uscdi-v1) |Each vital sign listed includes both the vital sign and specification for measurement|
-|Date of latest reading|Date|[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
-|Location of latest reading|Location| |
-|Reading|Result| |
-|Date of entry |Date entered||
-|Location of entry|Location| |
+|Measurement ||[List of vital signs](https://www.healthit.gov/isa/uscdi-data-class/vital-signs#uscdi-v1) |Each vital sign listed includes both the vital sign and specification for measurement|
+|Date/time collected|Date|[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
+|Location|| |
 |Comments |Provider notes||
 
 
