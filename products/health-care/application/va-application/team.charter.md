@@ -36,13 +36,14 @@ Health Products
 - Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us - Product manager
 - Alex Seelig | alexander.seelig@va.gov / alex.seelig@agile6.com -- Product manager
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us - Sr UX Design/Research
-- David "DK" Kennedy | david.kennedy@va.gov / david.kennedy@adhocteam.us - UX Designer
+- David "DK" Kennedy | david.kennedy@va.gov / david.kennedy@adhocteam.us - UX Design/Research
+- Katelyn Caillouet | katelyn.caillouet@va.gov / katelyn.caillouet@agile6.com - UX Design/Research
 - Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
 - Erin Flaherty | erin.flaherty@va.gov / erin.flaherty@adhocteam.us - Sr Frontend/QA Engineer
+- Chapley Watson | chapley.watson@va.gov / chapley.watson@agile6.com - Full Stack Engineer
 - Lihan Li | han.li@va.gov / lihan@adhocteam.us - Backend Engineer
-- Joshua Drumm | joshua.drumm@agile6.com - Backend Engineer
+- Joshua Drumm | joshua.drumm@agile6.com - Backend/Full Stack Engineer
 - Luis Simauchi | luis.simauchi@adhocteam.us -- Sr Data Analyst
-- 
 
 ---
 
@@ -183,7 +184,7 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
-- Extra time? Explore the "Ready to pickup" column in [ZenHub](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/board).
+- Extra time? Explore the "Ready to pickup" column on our [Team Board](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/board).
 
 ## VA relationships
 
