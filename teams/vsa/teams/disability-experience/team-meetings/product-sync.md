@@ -16,10 +16,11 @@
       - Expect to be able to share the migration roadmap/timeline by end of April(sprint end date of April 26th)
       - **Action Item** - Communicate the timeline to Janet Cutinho
 - Cadence for Matt meeting with the team
-   - Review next week on how to best engage Matt, cadence and expectation from these meetings 
+   - Open to whatever frequency is best for the team, given calendar constraints
+   - Review next week on how to best engage Matt, cadence and expectations from these meetings 
 - Product/UX meeting scheduled on April 4th to review portfolio goals
 
-### Date: March 29 2023
+### Date: March 28 2023
 ### Topics covered:
 - Value Effort matrix review with stakeholders - prioritization prep for 4-6 ideas
 - 526 Lighthouse migration timeline 
