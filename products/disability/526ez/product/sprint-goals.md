@@ -27,20 +27,27 @@ Period - 03/15/2023 - 03/28/2023
 ### Sprint goals
 - [ ] Engineering work
    - [x] Technical discovery on the future date of claim bug
+         - Did not find a root cause in 526 flow
+         - Identified a validation flow that would prevent future exit dates being sent for veterans
+         - Need a write-up for stakeholders
    - [x] Pull a report for recent validation errors
    - [ ] rated disabilities endpoint migration
    - [x] start work on BRD endpoint migration to Lighthouse
  - [ ] Research Discovery
-   - [ ] Work with product/team to and 
+   - [ ] Work with stakeholders/product/team to and 
       - [x] Priortize ideas
       - [ ] Add them as user stories in the product backlog 
           -  Moved to sprint 2 as prioritization was completed by end of sprint    
    - [x] Analyze low ratings on 526 form from Domo dashboard
          -  Captured analytics not relevant to 526ez form
    - [x] Seek written responses to survery on 526ez form
-   - [x] Start discovery on making 526ez and supplemental forms on va.gov current with paper version of the form
-
-
+         -  Got Medallia written response data from the contact center in an excel worksheet
+   - [x] Start discovery on making 526ez and ancillary forms on va.gov current with paper version of the form
+         -  Notes about locations that need changes
+         -  Recommendations on which ancillary forms to keep in 526 flow based on discussions with IA and Forms Digitization
+- [ ] Work taken on mid-work
+   - [x] Front-end bug where an icon was hiding some text - Spacing/css broken on an icon
+   
 ## Sprint 0
 Period - 03/01/2023 - 03/14/2023
 ### Sprint goals
