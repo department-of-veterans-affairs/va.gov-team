@@ -2,6 +2,17 @@
 Any questions, please visit our #product-operations channel on Slack 
 # Overview
 This document outlines the unique and shared expectations of the Product Lead (OCTO government staff, sometimes referred to as Product Owner) and the Product Manager (usually a contractor). Please review this document together when starting work and then periodically as a check in — it will improve your communication and reduce stress.
+
+The intention is to use this as a framework for communication and expectation setting between our ourselves and our teams.  The hypothesis is that this contributes to reducing stress and workload Creating a “one team” environment is the goal.  Consider the elements outlined here as a guideline, a list of jobs to be done.  Have the conversations about who is going to do them, what good looks like, and how you’ll communicate as a team overall.  Document the outcomes so that everyone is aware and on the same page. There is no replacement for a conversation.  
+
+There are three key trigger points for when to have these conversations – outside of just setting up good practices.  
+
+  * A whole new team is being formed 
+
+  * Existing team is sufficiently changing its member makeup 
+
+  * Existing team is taking on a new initiative that warrants revisiting existing expectations 
+
 # Shared Expectations
 Additional, specific expectations related to these categories are described in the following PO/PM-specific sections. 
 
