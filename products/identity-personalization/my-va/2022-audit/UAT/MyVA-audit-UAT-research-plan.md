@@ -1,4 +1,4 @@
-# Research Plan for Authenticated Experience, My VA Audit UAT, March 2023
+# Research Plan for Authenticated Experience, My VA Audit UAT, March/April 2023
 ## Background
 My VA had some inconsistencies between its five sections -- the "nametag", Claims and appeals, Health care, Benefit payments and debts, and Apply for benefits. This is making the page hard to manage and hard to scale.
 
@@ -75,7 +75,7 @@ Please indicate the date and name of a mock participant for a pilot session.
 
 ### Research sessions
 What dates do you plan to do research? 
-TBD
+April 4-6, 2023
 
 ### Length of sessions
 Sessions will be 45 minutes with 30 minutes in between sessions. Please schedule no more than 4 sessions per day.
@@ -85,18 +85,17 @@ For the screen reader session, please schedule it for 75 minutes.
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-|  | 9am-5pm |	
-|  | 9am-5pm |
-|  | 9am-5pm |
-|  | 9am-5pm |
+| Tuesday, April 4, 2023 | 9am-5pm |	
+| Wednesday, April 5, 2023 | 9am-2pm; 3:30pm-5pm |
+| Thursday, April 6, 2023 | 9am-5pm |
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
 
-- Moderator: Angela Agosto, angela.agosto@adhocteam.us
+- Moderator: Angela Agosto, angela.agosto@adhocteam.us; Florence McCafferty, florence.mccafferty@agile6.com
 - Research guide writing and task development: Angela Agosto
 - Participant recruiting & screening: Perigean
-- Project point of contact: Angela Agosto
+- Project point of contact: Angela Agosto, Florence McCafferty
 - Participant(s) for pilot test: TBD
 - Note-takers: None (will use Zoom transcription)
 - Observers:	
