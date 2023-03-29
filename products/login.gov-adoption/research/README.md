@@ -1,5 +1,5 @@
 # Login.gov Adoption Team: Research overview
-Last updated by @tygindraux: March 14, 2023
+Last updated by @tygindraux: March 28, 2023
 
 <br>
 
@@ -9,9 +9,9 @@ Last updated by @tygindraux: March 14, 2023
 |[Legacy Credential Migration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/legacy%20CSP%20migrations)|[Grandfathering Migration Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability)|Usability|Mar-Apr 2023|[#235](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/235)|
 |[Organic Adoption](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/login.gov)|[Organic Adoption Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-03-Organic-Adoption-Messaging-Usability)|Usability|Mar-Apr 2023 (TBC)||
 |[Organic Adoption](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/login.gov)|[Login.gov Help Desk](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-03-Login.gov-Help-Desk-Discovery)|Discovery|Mar-Apr 2023 (TBC)||
+|[In-Person Support](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/in-person%20support)|In-Person Proofing|Concept testing|Apr-May 2023 (TBC)||
 |[Organic Adoption](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/login.gov)|Organic Adoption Canary (Experiment)|In Production|May 2023 (TBC)||
 |[Legacy Credential Migration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/legacy%20CSP%20migrations)|[Grandfathering Migration Round 2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-04-Grandfathering-Migration-Round-2-Accessibility)|Accessibility|May 2023 (TBC)||
-|[In-Person Support](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/in-person%20support)|In-Person Proofing|Concept testing|Jun 2023 (TBC)||
 |[Legacy Credential Migration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/legacy%20CSP%20migrations)|Grandfathering Migration Round 3 (TBC)|Usability|Jun 2023 (TBC)||
 |[Legacy Credential Migration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/legacy%20CSP%20migrations)|Grandfathering Migration Round 4 (TBC)|Accessibility|Jun 2023 (TBC)||
 |[Legacy Credential Migration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/legacy%20CSP%20migrations), <br> [MFA and Security Keys](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/mfa%20security%20keys%20pilot)|[MFA for Less-Digitally Connected Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-06-MFA-for-Less-Digitally-Connected-Veterans)|Concept testing|Jul 2023 (TBC)||
