@@ -17,13 +17,13 @@ As a Veteran, I want an overview of my health care appointments so I can plan my
 
 ## User interface design
 
-User flows [Link TBD]
+**Staging URL:** 
+
+[User flows](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4) 
 
 [Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?node-id=182%3A18201&t=VF6bPXzS8n4lnB6O-4)
 
-[Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/homepage.md#appointment-list-cards)
-
-[Page logic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md#upcoming-appointments)
+[Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/homepage.md#appointment-list-cards)
 
 ## Technical design
 
