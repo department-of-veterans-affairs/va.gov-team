@@ -1,7 +1,26 @@
 # Benefits Disability Experience - Product sync
 
 ### Date: March 29 2023
-### Items covered:
+### Topics covered:
+- How do we want to share outcome of priortization with stakeholders
+   - Iterative approach
+   - Mural board is the preferred medium
+   - Start with epics
+   - Break down work
+   - Roadmap
+   - Fetaure Brief for each idea, as applicable
+- 526 Lighthouse migration timeline 
+   - 4 endpoints need technical doscovery before being able to estimate the work on actual migration
+      - intenttofile, common API, submit, getpdf
+      - Frontloading all the discovery work will take 2 sprints 
+      - Expect to be able to share the migration roadmap/timeline by end of April(sprint end date of April 26th)
+      - **Action Item** - Communicate the timeline to Janet Cutinho
+- Cadence for Matt meeting with the team
+   - Review next week on how to best engage Matt, cadence and expectation from these meetings 
+- Product/UX meeting scheduled on April 4th to review portfolio goals
+
+### Date: March 29 2023
+### Topics covered:
 - Value Effort matrix review with stakeholders - prioritization prep for 4-6 ideas
 - 526 Lighthouse migration timeline 
    - Needs discovery
@@ -17,10 +36,10 @@
    - **Action Item** - Will schedule detailed Product/UX discussion for next steps
 - Product Profile
   - There are 3 product profiles for 526ez. 
-  - **Action item** - Delete/archive the BDD and Original Claims profiles after the 526ez has been updated.
+  - **Action item** - Delete/archive BDD and Original Claims product profiles after 526ez product profile has been updated.
   
 ### Date: March 28 2023
-### Items covered:
+### Topics covered:
 - Value Effort matrix review with stakeholders - prioritization prep for 4-6 ideas
 - 526 Lighthouse migration timeline 
    - Needs discovery
@@ -36,7 +55,7 @@
   - There are 3 product profiles for 526ez. We can delete/archive the BDD and Original Claims profiles after the 526ez has been updated.
   
 ### Date: March 22 2023
-### Items to be discussed:
+### Topics covered:
 - Value Effort matrix review with stakeholders - prep and expectations
 - Review data for Value Effort matrix review
 - New tickets for evaluating value
@@ -51,13 +70,13 @@
 - Logistics for 526ez overview with Matt/Sade/Robin/Kyle
 
 ### Date: March 15 2023
-### Items to be discussed:
+### Topics covered:
 - Value matrix debrief
 - Value matrix follow-up with Stakeholders
 - Potential x-team overview from previous 526 team
 
 ### Date: March 9 2023
-### Items to be discussed:
+### Topics covered:
 - Goal-ideas alignment on the idea board
    - Matt to review the board and add ideas/comments as needed
    - Matt to discuss the upcoming prioritization effort with VBA stakeholders
@@ -75,7 +94,7 @@
    - Prioritize and next steps BAU
 
 ### Date: Feb 15 2023
-### Items to be discussed:
+### Topics covered:
 - Review github organization
 - Ongoing discovery work
 - Pre-prioritization work
@@ -89,7 +108,7 @@
    - Stakeholder introductions - needs to be scheduled
    
 ### Date: Feb 6' 2023
-### Items to be discussed:
+### Topics covered:
 - Does this time work for our weekly sync? - Mornings
 - Kick-off ideas 
    - Introductions
