@@ -2,13 +2,13 @@
 
 ### Date: March 29 2023
 ### Topics covered:
-- How do we want to share outcome of priortization with stakeholders
+- How do we want to share the outcome and continued progress after priortization with stakeholders
    - Iterative approach
    - Mural board is the preferred medium
    - Start with epics
    - Break down work
    - Roadmap
-   - Fetaure Brief for each idea, as applicable
+   - Feature Brief for each idea, as applicable
 - 526 Lighthouse migration timeline 
    - 4 endpoints need technical doscovery before being able to estimate the work on actual migration
       - intenttofile, common API, submit, getpdf
