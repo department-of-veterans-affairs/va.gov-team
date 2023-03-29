@@ -4,6 +4,8 @@
 
 Veterans use this list to get a quick understanding of their upcoming appointments. 
 
+**Staging URL:** staging.va.gov/health-care/schedule-view-va-appointments/appointments
+
 ## User stories
 
 As a Veteran, I want an overview of my health care appointments so I can plan my day.
@@ -17,9 +19,7 @@ As a Veteran, I want an overview of my health care appointments so I can plan my
 
 ## User interface design
 
-**Staging URL:** 
-
-[User flows](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4) 
+[User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4) 
 
 [Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?node-id=182%3A18201&t=VF6bPXzS8n4lnB6O-4)
 
@@ -27,10 +27,18 @@ As a Veteran, I want an overview of my health care appointments so I can plan my
 
 ## Technical design
 
+[FE architecture choices specific to this page]
+
 ## Metrics
+
+[Goals we track, and how we track them through analytics]
 
 ## Dependencies
 
+[Systems that can trigger different states, like alerts, and how we handle them]
+
 ## Testing
+
+[Testing specific to this page]
 
 
