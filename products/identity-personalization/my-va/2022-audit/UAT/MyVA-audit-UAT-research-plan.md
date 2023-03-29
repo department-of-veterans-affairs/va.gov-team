@@ -65,13 +65,13 @@ When will the thing you are testing be finalized?
 April 2023
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: TBD
+* Pilot participant email: heather@adhocteam.us
 * Date and time of pilot session: 
-  * TBD
+  * Friday, March 31, 2023 at 
 
 ### Research sessions
 What dates do you plan to do research? 
-April 4-6, 2023
+April 5-7, 2023
 
 ### Length of sessions
 Sessions will be 45 minutes with 30 minutes in between sessions. Please schedule no more than 4 sessions per day.
@@ -81,9 +81,9 @@ For the screen reader session, please schedule it for 75 minutes.
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-| Tuesday, April 4, 2023 | 9am-5pm |	
-| Wednesday, April 5, 2023 | 9am-2pm; 3:30pm-5pm |
+| Wednesday, April 5, 2023 | 9am-2pm; 3-5pm |
 | Thursday, April 6, 2023 | 9am-5pm |
+| Friday, April 7, 2023 | 9am-5pm |	
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
