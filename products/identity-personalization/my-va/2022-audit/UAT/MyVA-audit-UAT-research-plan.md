@@ -94,7 +94,7 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Angela Agosto
 - Participant recruiting & screening: Perigean
 - Project point of contact: Angela Agosto, Florence McCafferty
-- Participant(s) for pilot test: TBD
+- Participant(s) for pilot test: heather@adhocteam.us
 - Note-takers: None (will use Zoom transcription)
 - Observers:	
   - samara.strauss@va.gov
