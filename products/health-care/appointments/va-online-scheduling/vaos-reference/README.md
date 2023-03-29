@@ -20,18 +20,19 @@ See also:
 | [Pending appointments](/appointment-lists/upcoming-list.md) | View all pending and canceled requests | 
 
 ### Appointment types
-VAOS supports displaying 8 types of appointments.
+Booked appointments through VA or CC facilities
 
-| Feature | Description | 
-|---|---|
-| VA In person  | |
-| VA In person Vaccine | | 
-| VA Video Care at Home | | 
-| VA Video Care at a VA location | | 
-| VA Video Care on GFE | | 
-| VA Video Care at an ATLAS location | | 
-| VA Phone Appointment | | 
-| Community Care Appointment | | 
+| Feature | Description | Supported |
+|---|---|---|
+| VA In person  | | |
+| VA In person Vaccine | | |
+| VA Video Care at Home | | |
+| VA Video Care at a VA location | | | 
+| VA Video Care on GFE | | |
+| VA Video Care at an ATLAS location | | |
+| VA Phone Appointment | | |
+| Community Care Appointment | | | 
+| Compensation and Pension appointment | | |
 
 ### Request types
 Appointments that Veterans have requested but VA has not booked.
@@ -45,7 +46,7 @@ Appointments that Veterans have requested but VA has not booked.
 Tools Veterans can use to manage their appointments and requests.
 
 | Feature | Description | 
-|---|---|---|
+|---|---|
 | Cancel appointment/request | | 
 | Add to calendar | | 
 | Print | | 
