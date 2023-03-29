@@ -12,12 +12,12 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 You can use one of the following test patients.
 | Last Name | Date of Birth |
 |----------------| ------------ |
-| Fortyfour | 1935-04-07	| 
-| Fortyfive | 1935-04-07	| 
-| Fortysix | 1935-04-07	| 
-| Fortyseven | 1935-04-07	| 
-| Fortyeight | 1935-04-07	| 
-| Fortyeight | 1935-04-07	| 
+| Fortyfour | 04-07-1935	| 
+| Fortyfive | 04-07-1935	| 
+| Fortysix | 04-07-1935	| 
+| Fortyseven | 04-07-1935	| 
+| Fortyeight | 04-07-1935	| 
+| Fortyeight | 04-07-1935	| 
 
 ### Reset Your Confirmations
 - Navigate to the [Staging Tool](https://vigilant-couscous-ab7fb4a4.pages.github.io/)
