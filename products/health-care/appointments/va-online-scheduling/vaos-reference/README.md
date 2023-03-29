@@ -26,23 +26,23 @@ Booked appointments through VA or CC facilities
 
 | Feature | Description | Supported |
 |---|---|---|
-| [VA In person](appointment-types/va-booked-in-person.md)  | | |
-| VA In person Vaccine | | |
-| VA Video Care at Home | | |
-| VA Video Care at a VA location | | | 
-| VA Video Care on GFE | | |
-| VA Video Care at an ATLAS location | | |
-| VA Phone Appointment | | |
-| Community Care Appointment | | | 
-| Compensation and Pension appointment | | |
+| [VA In-person](appointment-types/va-booked-in-person.md)  | Scheduled, in person appointments at a VA facility | Yes |
+| VA In-person Vaccine | Scheduled, in person appointments at a VA facility for a COVID-19 vaccine | Yes |
+| VA Video Care at Home | Scheduled telehealth appointments over VA Video Care | Yes |
+| VA Video Care at a VA location |  Scheduled telehealth appointments over VA Video Care that a Veteran joins at a VA facility | Yes | 
+| VA Video Care on GFE |  Scheduled telehealth appointments over VA Video Care that a Veteran joins over a GFE provided by a VA facility | Yes |
+| VA Video Care at an ATLAS location |  Scheduled telehealth appointments that a Veteran joins at an ATLAS facility  | Yes |
+| VA Phone |  Scheduled telehealth appointments that a Veteran joins over the phone. | Yes |
+| Community Care |  Scheduled appointment that a Veteran joins at a community care provider | Yes | 
+| Compensation and Pension appointment | Scheduled appointment for a Compensation and Pension exam | No |
 
 ### Request types
 Appointments that Veterans have requested but VA has not booked.
 
 | Feature | Description | Supported |
 |---|---|---|
-| VA Appointment Request  | | |
-| Community Care Appointment request | | |
+| VA Appointment Request  | Request for a VA appointment | |
+| Community Care Appointment request | Request for a community care appointment | |
 
 ### Manage appointments and requests
 Tools Veterans can use to manage their appointments and requests.
