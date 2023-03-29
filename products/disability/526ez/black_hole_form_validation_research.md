@@ -42,3 +42,23 @@ This issue happens because we query and store the result, of the veterans rated 
 01/20/2023 - Vet abandons form half way
 06/01/2023 - Vet comes back to complete the form, previously saved in-progress values populate so they can pickup where they left-off
 06/01/2023 - Vet completes form and presses "Submit", the value for the rated disabilty string is "Leg Pain", however, in the time from when they started (01/20/2023), to now (06/01/2023), their rated disability was changed from "Leg Pain" to "Lower Leg Pain", IN THE VA's system, so it gives that error
+
+
+### Script for gathering recent 6 months research
+```
+id = "<redacted id from 6 months ago, id is indexed, created_at is not, so this is faster>"
+errors = []
+count = 0
+Form526Submission.where("id >= #{id}").where('submitted_claim_id IS NULL').pluck(:id).each do |id|
+  puts "#{Time.now} - #{id}"
+  claim = Form526Submission.find(id)
+  begin
+    EVSS::DisabilityCompensationForm::NonBreakeredService.new(claim.auth_headers)
+      .validate_form526(JSON.parse(claim.form_json)['form526'].to_json)
+  rescue => e
+    errors << e
+  end
+end
+```
+
+## Results of Kyle's Initial Data Pull (5 Year Span)
