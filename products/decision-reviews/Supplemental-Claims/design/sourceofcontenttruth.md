@@ -766,7 +766,9 @@ Dropdown
 
 We'll save your application every time you add or update information.
 
-### We’re requesting records from these VA locations:
+### Review the evidence you're submitting
+
+#### We’re requesting records from these VA locations:
 
 Edit
 
@@ -778,7 +780,7 @@ Date – Date
 
 Remove
 
-### We’re requesting records from these private medical providers:
+#### We’re requesting records from these private medical providers:
 
 Edit
 
@@ -798,7 +800,7 @@ Yes, I want to limit the information requested / No, I don't want to limit the i
 
 Remove
 
-### You uploaded these documents:
+#### You uploaded these documents:
 
 Edit
 
