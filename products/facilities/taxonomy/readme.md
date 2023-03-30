@@ -25,7 +25,7 @@
 
 ## What to know about the product 
 
-The service taxonomy was originally designed as the _**VHA health service taxonomy**_ and intended to be the official, customer-facing list of services offered across VA's 1,200 health care facilities. It was designed to create a consistent naming system for patients enrolled in VA health care and used by all VA digital health products. Over time, the taxonomy is evolving into the **_VA service taxonomy**_ which extends beyond purely health services and supports Vet Centers and other VA business lines, such as VBA. 
+The service taxonomy was originally designed as the _**VHA health service taxonomy**_ and intended to be the official, customer-facing list of services offered across VA's 1,200 health care facilities. It was designed to create a consistent naming system for patients enrolled in VA health care and used by all VA digital health products. Over time, the taxonomy is evolving into the **_VA service taxonomy_** which extends beyond purely health services and supports Vet Centers and other VA business lines, such as VBA. 
 
 The creation of an inclusive taxonomy representing a range of benefits and services allows for naming consistency plus the ability to map overlapping services delivered by different types of facilities. For example, counseling services are offered at VA medical facilities _and_ Vet Centers. Some readjustment services are delivered at Vet Centers _and_ VBA locations _plus_ by VBA representatives inside VA medical facilities. 
 
