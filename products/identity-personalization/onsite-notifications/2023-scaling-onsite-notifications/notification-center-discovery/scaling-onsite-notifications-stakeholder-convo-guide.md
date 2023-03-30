@@ -35,7 +35,7 @@ There are some challenges we can already foresee with scaling onsite notificatio
 - What is your overall vision for how the mobile app and the logged in experience on VA.gov should be alike and different?
 - We try to work closely with the mobile app team to align on features and language when we make updates to the authenticated experience on VA.gov since the two are so closely related. Do you have any thoughts about the correlation between VA.gov notifications and the mobile app?
 
-### Lauren Alexanderson, Coulton Bunney, and Patrick Bateman - Health portfolio
+### Lauren Alexanderson, Coulton Bunney, Patrick Bateman, Kay Lawyer, and Kristen McConnell - Health portfolio
 - Are there any timelines for the My HealtheVet to VA.gov transition that we should be aware of? 
 - As your team moves My HeatheVet functionality over to VA.gov, what opportunities do you see to use notifications to elevate that work?
 
