@@ -39,6 +39,9 @@ As a Veteran, I want to find and manage my scheduled appointments.
 
 [Systems that can trigger different states, like alerts, and how we handle them]
 
+Facilities API:
+- Address information
+
 ## Testing
 
 [Testing specific to this page]
