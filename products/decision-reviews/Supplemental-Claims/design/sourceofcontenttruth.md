@@ -975,43 +975,43 @@ If you need help with this form, call us at [1-800-827-1000]() (TTY:711). Then s
 
 Not enough PII to proceed with form:
 
-#### We’re missing some of your personal information
-You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure your Social Security number and date of birth are on file. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
+    #### We’re missing some of your personal information
+    You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure your Social Security number and date of birth are on file. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
 
 PDF upload errors (be sure we help them recover):
 
-#### We couldn't upload your PDF
+    #### We couldn't upload your PDF
 
-Your PDF is too large to upload. You'll need to create smaller PDFs that have fewer pages. Or you can use a PDF reader to optimize (reduce the size of) your PDF. Then try again.
+    Your PDF is too large to upload. You'll need to create smaller PDFs that have fewer pages. Or you can use a PDF reader to optimize (reduce the size of) your PDF. Then try again.
 
 Not adding an issue:
 
-#### You'll need to select an issue
+    #### You'll need to select an issue
 
-You must select at least 1 issue before you can continue filling out your request.
+    You must select at least 1 issue before you can continue filling out your request.
 
 Not adding any evidence:
 
-#### You'll need to add supporting evidence
+    #### You'll need to add supporting evidence
 
-You must provide at least 1 type of supporting evidence before you can continue filling out your request.
+    You must provide at least 1 type of supporting evidence before you can continue filling out your request.
 
 Not authorizing release of medical records:
 
-#### Authorize your doctor to release your records or upload them yourself
-If you want us to request your private medical records from your doctor, you must authorize the release.
+    #### Authorize your doctor to release your records or upload them yourself
+    If you want us to request your private medical records from your doctor, you must authorize the release.
 [Check the box to authorize the release] JUMP LINK
 
-Or, go back a page and select No where we ask about private medical records. Then you can upload your records.
+    Or, go back a page and select No where we ask about private medical records. Then you can upload your records.
 [Go back to upload records]
 
 Form submission error:
 
-#### Your decision review request didn’t go through
+    #### Your decision review request didn’t go through
 
-We’re sorry. We’re working to fix the problem, but it may take us a while. Please try again tomorrow. Don't worry, we've saved your in-progress request. 
+    We’re sorry. We’re working to fix the problem, but it may take us a while. Please try again tomorrow. Don't worry, we've saved your in-progress request. 
 
-If you're still having trouble tomorrow submitting your request, please call us at 800-698-2411 (TTY: 711). We’re here 24/7. Your in-progress ID is [InProgressForm]. 
+    If you're still having trouble tomorrow submitting your request, please call us at 800-698-2411 (TTY: 711). We’re here 24/7. Your in-progress ID is [InProgressForm]. 
 
 ### Inline errors
 
