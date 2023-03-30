@@ -4,13 +4,19 @@
  
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+There are currently multiple ways to sign in and access VA services. These Credential Service Providers (CSPs) don't all meet required security standards and so many choices creates user frustration and confusion. We need to migrate Veterans from legacy credential service providers (DS Logon and My HealtheVet) to Login.gov as a first choice or ID.me. During discovery research, the LGA team defined different pathways for the migration.
+
+The pathway this research focuses on is to promote Organic Adoption of login.gov - encouraging veterans to migrate to a modern CSP now, ahead of sunsetting.
 
 
 [Link to product brief](url goes here).
+
+### Previous related research
+* [2022-10-Research-LoginGovFieldResearch #185](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/185)
+* [2022-07 MHV transition to Login.gov as a single sign-on #157](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/157)
+* [2022-07 Login Self-Service Tool #156](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/156)
+* [2022-03 Sign-In Accessibility #93](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/93)
+
 
 ### OCTO Objectives 
 
@@ -20,25 +26,23 @@ Briefly describe the background of your product. Consider:
 - Decrease: Call center volume, wait time, and time to resolution
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
 
-Account creation, account verification, and securly accessing information and benefits online matter throughout the veteran journey.
-Specifically for organic adoption of login.gov accounts, key points likely inlcude
-- Getting out - engaging VA to access benefits and services
-- Starting up - finding something to do
-- Taking care of myself
+Securely accessing VA digital services can happen at any stage in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf).
+This initiative focuses on Veterans who are using either DS Logon or MHV as their CSP. To help Veterans keep access to their information and benefits as VA prepares to sunset legacy CSPs, this study seeks ways to encourage veterans and others with accounts to proceed with migration before being forced to.
 
-## Research Goals	
-What are you trying to learn from this research? 
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
-- Identify which term resonatotes most when describing an ID proofed account
-- Find out how to encourage more veterans to create ID proofed accounts now, even before sunsetting of legacy accounts(s)
-- Test the usability of modal prototype that encourages veterans to signup for a login.gov account
+## Research Goals
+
+- Identify which term is understandable and resonates most when describing an ID proofed account
+- Find out best ways to encourage more veterans to migrate CSPs now, even before sunsetting of legacy accounts(s)
+- Test the usability of a modal prototype that encourages veterans to signup for a login.gov account
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+
+We hope to learn the best words or phrases to use so that veterans and others accessing va.gov understand the difference between their current CSP and what we are asking them to migrate to.
+We’ll also validate a modal prototype to learn if it makes sense to move forward with it as is or even at all
+
+From both of these we’ll gain understanding about how to encourage va.gov legacy account holders to migrate to one of the modern CSPs early but on their own timeline, before they encounter stress of possible disruption of service.
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
@@ -77,10 +81,6 @@ Where will you be holding the research sessions? Be sure to include whether this
 
 If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
 
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
@@ -94,14 +94,7 @@ For moderated usability tests:
 - [Link to conversation guide](url goes here)
 - [Link to prototype](url goes here)
 
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
 
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
-	
 ## Recruitment	
 
 OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
