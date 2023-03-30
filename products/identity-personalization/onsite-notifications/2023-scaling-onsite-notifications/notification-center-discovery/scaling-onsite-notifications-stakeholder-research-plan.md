@@ -75,3 +75,5 @@ Please list the people who will be serving in each role.
   - allison@cityfriends.tech
   - derrick.ellerbie@Agile6.com
   - liz.lantz@adhocteam.us
+  - Beverly.Nelson@va.gov
+  - melanie.jones@oddball.io
