@@ -1,4 +1,4 @@
-# Taxonomy README 
+# VA Service Taxonomy Product Brief
 
 [Key resources](#key-resources) 
 
