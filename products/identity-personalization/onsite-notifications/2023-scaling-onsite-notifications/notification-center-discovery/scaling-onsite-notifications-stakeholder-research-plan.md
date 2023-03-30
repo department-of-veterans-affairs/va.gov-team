@@ -40,13 +40,15 @@ Based on our findings, we will meet as a team to discuss and write up findings a
 ## Method	
 We will conduct one-on-one stakeholder interviews via Zoom with OCTO product owners:
 - Chris Johnston - Portfolio lead; Currently helping out with the mobile app (Note: Julia Badillo manages Chris's calendar)
-- Lauren Alexanderson - Health lead (Note: Alicia Proctor manages Lauren's calendar)
+- Rachel Han - Mobile app lead
+- Lauren Alexanderson, Coulton Bunney, Patrick Bateman, Kay Lawyer, and Kristen McConnell - Health leads (Note: Alicia Proctor manages Lauren's calendar)
 - Dave Conlon - Sitewide lead
 - Matt Self - Benefits lead
 - Mikki Northuis - IA/Nav lead
 - Chante Lantos-Swett - Account experience lead; Also leads customer support work
 - Martha Wilkes - Accessibility lead
-- Ryan Thurlwell - Design lead
+- Matt Dingee - Design lead
+- Ray Wang - Platform lead
 
 ### Research materials
 [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery/scaling-onsite-notifications-stakeholder-convo-guide.md)
