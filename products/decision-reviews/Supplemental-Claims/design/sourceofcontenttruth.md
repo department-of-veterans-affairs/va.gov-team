@@ -13,9 +13,9 @@ Use this Supplemental Claim form (VA 20-0995) if you disagree with our decision 
 
 What are other decision review options? (expand)
 
-If you don't think this is the right form for you, find out about the other decision review options.
-
-[Learn about choosing a decision review option](https://www.va.gov/resources/choosing-a-decision-review-option/)
+>If you don't think this is the right form for you, find out about the other decision review options.
+>
+>[Learn about choosing a decision review option](https://www.va.gov/resources/choosing-a-decision-review-option/)
 
 ### What type of claim are you filing a Supplemental Claim for? (*Required)
 
@@ -73,11 +73,11 @@ If you don’t think this is the right form for you, you can go back to answer t
 
 What's a presumptive condition? (expand)
 
-For some conditions, we automatically assume (or “presume”) that your service caused your condition. We call these “presumptive conditions.”
-
-If you have a presumptive condition, you don’t need to prove that your service caused the condition. You only need to meet the service requirements for the presumption.
-
-[Learn more about the PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
+>For some conditions, we automatically assume (or “presume”) that your service caused your condition. We call these “presumptive conditions.”
+>
+>If you have a presumptive condition, you don’t need to prove that your service caused the condition. You only need to meet the service requirements for the presumption.
+>
+>[Learn more about the PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
 
 #### 2. Gather your information
 Here’s what you’ll need to apply: 
@@ -89,18 +89,18 @@ Here’s what you’ll need to apply:
 
 Types of Evidence (expand) \
 
-VA medical records and hospital records that relate to your claimed condition or that show your rated disability or how it has gotten worse
-
-Private medical records and hospital reports that relate to your claimed condition or show that your disability has gotten worse
-
-Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel with knowledge about how and when your disability happened or how it has gotten worse
+>VA medical records and hospital records that relate to your claimed condition or that show your rated disability or how it has gotten worse
+>
+>Private medical records and hospital reports that relate to your claimed condition or show that your disability has gotten worse
+>
+>Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel with knowledge about how and when your disability happened or how it has gotten worse
 
 #### 3. Start your Supplemental Claim
 We’ll take you through each step of the process. It should take about 15 minutes.
 
 What happens after I apply? (expand) \
 
-You don’t need to do anything while you’re waiting unless we contact you to ask for more information. If we schedule exams for you, be sure not to miss them.
+>You don’t need to do anything while you’re waiting unless we contact you to ask for more information. If we schedule exams for you, be sure not to miss them.
 
 *Save time and save your work in progress*
 
@@ -156,11 +156,11 @@ If you don’t think this is the right form for you, you can go back to answer t
 
 What's a presumptive condition? (expand)
 
-For some conditions, we automatically assume (or “presume”) that your service caused your condition. We call these “presumptive conditions.”
-
-If you have a presumptive condition, you don’t need to prove that your service caused the condition. You only need to meet the service requirements for the presumption.
-
-[Learn more about the PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
+>For some conditions, we automatically assume (or “presume”) that your service caused your condition. We call these “presumptive conditions.”
+>
+>If you have a presumptive condition, you don’t need to prove that your service caused the condition. You only need to meet the service requirements for the presumption.
+>
+>[Learn more about the PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
 
 #### 2. Gather your information
 Here’s what you’ll need to apply: 
@@ -172,18 +172,18 @@ Here’s what you’ll need to apply:
 
 Types of Evidence (expand) \
 
-VA medical records and hospital records that relate to your claimed condition or that show your rated disability or how it has gotten worse
-
-Private medical records and hospital reports that relate to your claimed condition or show that your disability has gotten worse
-
-Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel with knowledge about how and when your disability happened or how it has gotten worse
+>VA medical records and hospital records that relate to your claimed condition or that show your rated disability or how it has gotten worse
+>
+>Private medical records and hospital reports that relate to your claimed condition or show that your disability has gotten worse
+>
+>Supporting statements from family, friends, coworkers, clergy, or law enforcement personnel with knowledge about how and when your disability happened or how it has gotten worse
 
 #### 3. Start your Supplemental Claim
 We’ll take you through each step of the process. It should take about 15 minutes.
 
 What happens after I apply? (expand) \
 
-You don’t need to do anything while you’re waiting unless we contact you to ask for more information. If we schedule exams for you, be sure not to miss them.
+>You don’t need to do anything while you’re waiting unless we contact you to ask for more information. If we schedule exams for you, be sure not to miss them.
 
 How long this form may take: 15 minutes
 
@@ -234,7 +234,7 @@ By starting this Supplemental Claim request, you automatically submitted an Inte
 
 What's an Intent to File? (expand) \
 
-When you submit an Intent to File, you're telling us that you plan to file a claim. This sets a potential start date (called an effective date) for when you could start getting benefits. It gives you time to prepare your claim and gather supporting documents. And it means that your start date for benefits may be earlier than the date you file your claim.
+>When you submit an Intent to File, you're telling us that you plan to file a claim. This sets a potential start date (called an effective date) for when you could start getting benefits. It gives you time to prepare your claim and gather supporting documents. And it means that your start date for benefits may be earlier than the date you file your claim.
 
 **_CONTINUE_**
 
@@ -249,7 +249,7 @@ Our records show that you already submitted an Intent to File for disability com
 
 What's an Intent to File? (expand) \
 
-When you submit an Intent to File, you're telling us that you plan to file a claim. This sets a potential start date (called an effective date) for when you could start getting benefits. It gives you time to prepare your claim and gather supporting documents. And it means that your start date for benefits may be earlier than the date you file your claim.
+>When you submit an Intent to File, you're telling us that you plan to file a claim. This sets a potential start date (called an effective date) for when you could start getting benefits. It gives you time to prepare your claim and gather supporting documents. And it means that your start date for benefits may be earlier than the date you file your claim.
 
 **_CONTINUE_**
 
@@ -384,7 +384,7 @@ These are the issues we have on file for you. If an issue is missing from the li
 
 Why aren’t all my issues listed here (expand)
 
-If you don’t see your issue or decision listed here, it may not be in our system yet. This can happen if it’s a more recent claim decision. We may still be processing it.
+>If you don’t see your issue or decision listed here, it may not be in our system yet. This can happen if it’s a more recent claim decision. We may still be processing it.
 
 **_Back_** | **_Continue_**
 
@@ -555,7 +555,7 @@ We'll save your application every time you add or update information.
 
 How do I know if I have private medical records (expand)
 
-If you were treated by a private doctor, including a Veteran’s Choice doctor, you’ll have private medical records. We’ll need to see those records to make a decision on your claim. A Disability Benefits Questionnaire is an example of a private medical record.
+>If you were treated by a private doctor, including a Veteran’s Choice doctor, you’ll have private medical records. We’ll need to see those records to make a decision on your claim. A Disability Benefits Questionnaire is an example of a private medical record.
 
 **_Back_** | **_Continue_**
 
@@ -673,7 +673,7 @@ If you want to limit what we can request from your private medical provider(s), 
 
 What does "limiting consent" mean? (expand)
 
-If you choose to limit consent, you’re limiting the type or amount of information that your doctor or medical facility can release to us. It may take us longer to get your private medical records if you limit consent.
+>If you choose to limit consent, you’re limiting the type or amount of information that your doctor or medical facility can release to us. It may take us longer to get your private medical records if you limit consent.
 
 **_Back_** | **_Continue_**
 
@@ -690,7 +690,7 @@ We'll save your application every time you add or update information.
  
 Types of supporting evidence (expand)
 
-Supporting evidence can include private medical records or a buddy/lay statement. A buddy/lay statement is a written statement from family, friends, or coworkers to help support your claim. 
+>Supporting evidence can include private medical records or a buddy/lay statement. A buddy/lay statement is a written statement from family, friends, or coworkers to help support your claim. 
 
 **_Back_** | **_Continue_**
 
@@ -708,11 +708,11 @@ You’ll need to upload new and relevant evidence for your Supplemental Claim. T
 
 Document upload instructions (expand)
 
-You can do this one of 2 ways:
+>You can do this one of 2 ways:
 
-If you have access to a computer connected to a scanner, you can scan each document onto the computer. Save the file as a PDF.
+>If you have access to a computer connected to a scanner, you can scan each document onto the computer. Save the file as a PDF.
 
-If you have access to a smartphone, you can download or use the Notes app (for an iPhone) or the Google Drive app (for an Android phone) to scan each document onto the phone. The file will automatically save as a PDF when you’re done scanning.
+>If you have access to a smartphone, you can download or use the Notes app (for an iPhone) or the Google Drive app (for an Android phone) to scan each document onto the phone. The file will automatically save as a PDF when you’re done scanning.
 
 - File types you can upload: PDF
 - Maximum file size: 100MB
