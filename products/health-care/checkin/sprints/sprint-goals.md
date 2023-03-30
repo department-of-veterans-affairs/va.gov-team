@@ -64,6 +64,7 @@ ________________________________________________________________________________
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
       - Implement text solution for BTSSS latency             
          - [![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [BE] SPIKE: What is involved in our sending a text message for travel claim submission status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53763)
+         - [![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [BE] Add a method to send text message to VANotify library in vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56098)
          - [![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [BE] Text Veteran when Travel Claim Submitted to BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54348)
             - This one mostly likely will be broken up into multiple tickets after the spike
          - [![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] Remove BTSSS call and the Error Handling from day-of check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54281)         
