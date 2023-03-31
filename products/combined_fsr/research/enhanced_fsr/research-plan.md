@@ -106,12 +106,10 @@ How will this research advance your product to the next phase in the design proc
     
 3.  What do Veterans expect to happen after they submit/complete their request? (comprehension)
     	-   What communications do Veterans expect to receive about their request?
-    
 
 4.  Do Veterans understand what assets and expenses to include in each section? (comprehension)
     	-   Does clarifying content in the “Real Estate” and “Vehicle” section help Veterans understand what kind of property and vehicles to include?
     
-
 5.  How understandable is the new list loop format, UI, and UX? (usability)
     	-   How learnable is it?
     
@@ -119,9 +117,7 @@ How will this research advance your product to the next phase in the design proc
     
 	-   Are Veterans able to add custom items using the “Add additional …” action link?
     
-
-6.  How understandable are other non-list loop specific changes? (usability)
-        
+6.  How understandable are other non-list loop specific changes (contact info, resolution options)? (usability)
 
 7.  How do Veterans feel about the amount of effort this form requires? (satisfaction)
     
@@ -131,26 +127,20 @@ How will this research advance your product to the next phase in the design proc
 *What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.*
 
 1.  Veterans will understand the purpose of the form and why they need to fill out
-    
-2.  Veterans will be able to easily edit their contact information
-    
-3.  Veterans will be able to easily select their VA benefit information
-    
-4.  Veterans will be able to easily use the new list & loop pattern
-    
-5.  Veterans will have questions regarding what assets and expenses to include
-    
-6.  Veterans will need to gather information to fill out certain sections *
-    
-7.  Some Veterans may need help to fill out the form and will need assistance in finding information and filling out the form
-    
-8.  Veterans satisfaction with the form will exceed what they would expect based on their past experience filling out government forms
-    
-9.  Veterans will say there are too many pages on the form
-    
-10.  Veterans will want to see their progress in a meaningful way
-    
-11.  Veterans will understand the resolution options but will have questions on how their selection is handled
+
+**Assumptions**: 
+- They have co-pay or benefit overpayment debt or both 
+- They need/want to fill out the FSR form because of financial need/hardship
+- They are already engaged with the VA in some form (receiving care from VHA,receiving benefits VBA)
+
+Primary Hypothesis
+
+Veterans will be able to easily understand and fill out the form given the new list & loop pattern, be able to edit their contact information, view and edit their VA benefits, and easily view and understand the resolution options. 
+
+Secondary Hypothesis
+
+The enhanced FSR format and language will be easy to digest, and most will be able to fill out the form independently (accessibility). 
+
 
 ## Method	
 *Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*
