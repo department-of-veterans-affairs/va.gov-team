@@ -1,7 +1,6 @@
 # Conversation Guide for My VA Audit UAT
 
 - [ ] Make sure feature is turned on for user
-- [ ] Review the roster to see what benefits the participant has
 - [ ] Start a thread in #feedback-backchannel
 - [ ] Turn on closed captions in the session so that Zoom generates a transcript of the recording
 
