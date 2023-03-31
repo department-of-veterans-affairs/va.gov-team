@@ -21,6 +21,8 @@
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
 |Veteran personas|From Veteran Experience Office includes ten personas and additional tools|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf)|May 2016, current as of 2022|
+|Veteran personas and 526 use cases|Connects VA veteran personas with 526 use cases and experiences|[Link]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/personausecases.md))|March 2023|
+|526 ancillary forms|List of additional forms mentioned on paper version of 526, and recommendations for future inclusion in digital 526 flows|[Link](https://docs.google.com/spreadsheets/d/1gYOQFXQxfacFIf5B0qb4-NGUDLvzVQ3oEMMNjvxk86I/edit?usp=sharing)|March 2023|
 
 ## Analytics
 |Title|Description|Link|Version|
