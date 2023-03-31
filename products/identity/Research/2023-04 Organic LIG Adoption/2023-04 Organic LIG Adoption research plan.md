@@ -79,8 +79,8 @@ Additional resources:
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0e986a82fb2358cc50ce6c6f8d933913c645aacb/products/identity/Research/2023-04%20Organic%20LIG%20Adoption/2023-04%20Organic%20LIG%20Adoption%20conversation%20guide.md)
+- [Prototype](url goes here)
 
 
 ## Recruitment	
