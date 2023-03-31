@@ -1,8 +1,10 @@
 # Mocked Authentication
 
+<aside><em>💡 Note: Mocked authentication, is only available in the development and localhost environments.</em></aside>
+
 ## Overview
 
-Mocked authentication was created to provide developers, designers, QA testers, and others an easier way to use a local or development build of VA.gov without the need for real authentication with a Credential Service Provider (CSP) using test user credentials.
+Mocked authentication was created to solve pain points Engineers, Designers, Product Owners, QA Testers, and other users of VA.gov all face surrounding authentication. Most of the time these people do not care about how they authenticate with a Credential Service Provider (CSP) and would rather just be in a logged in state in order to continue with their tasks. Mocked authentication is an easier way to test features on a local or development build of VA.gov without the need for real authentication with using test user credentials.
 
 ### How Mocked Authentication works
 
@@ -10,18 +12,19 @@ VA.gov mocked authentication interacts with the [Sign-in Service](https://github
 
 ## Using Mocked Authentication
 
-### Previously Mocked Users
+### Server-side 
+#### Previously Mocked Users
 
 If you have already mocked your chosen user before and have your `credential_info` & `state` encoded parameters saved, then you can skip to step #6 and call `mocked_authentication/authorize`. Steps #1-5 are for obtaining & preparing the mocked CSP response data that is to be passed to the mocked authentication route.
 
-### Generate a `state` code & ACR
+#### Generate a `state` code & ACR
 
 1. Make sure you are on either a localhost (`localhost:3000`) or development (`dev-api.va.gov`) environment.
 
 2. Select a [mocked user that you would like to authenticate as](https://github.com/department-of-veterans-affairs/vets-api-mockdata/tree/master/mvi). Determine whether they are an ID.me or Login.gov user.
 
 3. Make a cURL request to [the SiS `/authorize`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/authorize.md) endpoint:
-    ```
+    ```bash
     curl 'localhost:3000/v0/sign_in/authorize?type=logingov&code_challenge_method=S256&acr=ial2&client_id=vamock&code_challenge=1BUpxy37SoIPmKw96wbd6MDcvayOYm3ptT-zbe6L_zM='
     ```
     Note the following parameters:
@@ -42,119 +45,162 @@ If you have already mocked your chosen user before and have your `credential_inf
   id="acr_values" value="http://idmanagement.gov/ns/assurance/ial/2"
   ```
 
-### Create & Encode User Credential Info
+#### Create & Encode User Credential Info
 
 5. SiS communicates directly with 4 different CSP providers, each with a different user data response format to return the identifying attributes `vets-api` uses to look up the user in MPI and obtain their full attributes. As such, the user credential struct that you create will be different depending on which CSP authentication you are mocking. Build the credential struct within a Ruby console, populating the identifying attributes from the `vets-api-mockdata` mocked MPI response, and then cast the struct to JSON before calling `Base64.encode64` on it so that it can be passed as a URL parameter.
 
-#### Login.gov
+Note: 💡 Make sure the `acr` value copied from the `/authorize` `acr` response matches the `:ial` value in the User Credential struct.
 
-- Make sure the `acr` value copied from the `/authorize` `acr` response matches the `:ial` value in the User Credential struct.
+<details>
+  <summary>Login.gov</summary>
 
-```
-rails c
-credential_info = OpenStruct.new(
-  :sub=>"logingov_uuid",
-  :iss=>"https://idp.int.identitysandbox.gov/",
-  :email=>"test@email.com",
-  :email_verified=>true,
-  :given_name=>"ABRAHAM",
-  :family_name=>"LINCOLN",
-  :birthdate=>"1900-01-01",
-  :social_security_number=>"123456789",
-  :address=>
-    { :formatted=>"1600 Pennsylvania Ave\nWashington, DC 12345",
-      :street_address=>"1600 Pennsylvania Ave",
-      :locality=>"Washington",
-      :region=>"DC",
-      :postal_code=>"12345" },
-  :verified_at=>1636478785,
-  :ial=>"http://idmanagement.gov/ns/assurance/ial/2",
-  :aal=>"urn:gov:gsa:ac:classes:sp:PasswordProtectedTransport:duo"
-)
-Base64.encode64(credential_info.to_json)
-```
+  ```ruby
+  rails c
+  credential_info = OpenStruct.new(
+    :sub=>"logingov_uuid",
+    :iss=>"https://idp.int.identitysandbox.gov/",
+    :email=>"test@email.com",
+    :email_verified=>true,
+    :given_name=>"ABRAHAM",
+    :family_name=>"LINCOLN",
+    :birthdate=>"1900-01-01",
+    :social_security_number=>"123456789",
+    :address=>
+      { :formatted=>"1600 Pennsylvania Ave\nWashington, DC 12345",
+        :street_address=>"1600 Pennsylvania Ave",
+        :locality=>"Washington",
+        :region=>"DC",
+        :postal_code=>"12345" },
+    :verified_at=>1636478785,
+    :ial=>"http://idmanagement.gov/ns/assurance/ial/2",
+    :aal=>"urn:gov:gsa:ac:classes:sp:PasswordProtectedTransport:duo"
+  )
+  Base64.encode64(credential_info.to_json)
+  ```
+</details>
 
-#### ID.me
+<details>
+  <summary>ID.me</summary>
 
-```
-rails c
-credential_info = OpenStruct.new(
-  :iss => "https://api.idmelabs.com/oidc",
-  :sub => "85c50aa76934460c8736f687a6a30546", 
-  :aud => "ef7f1237ed3c396e4b4a2b04b608a7b1",
-  :exp => 1679359052,
-  :iat => 1679341051,
-  :credential_aal_highest => 2,
-  :credential_ial_highest => "classic_loa3",
-  :email => "test@email.com",
-  :fname => "ABRAHAM",
-  :lname => "LINCOLN",
-  :level_of_assurance => 3,
-  :multifactor => true,
-  :credential_aal => 2,
-  :credential_ial => 1,
-  :uuid="idme_uuid"
-)
-Base64.encode64(credential_info.to_json)
-```
+  ```ruby
+  rails c
+  credential_info = OpenStruct.new(
+    :iss => "https://api.idmelabs.com/oidc",
+    :sub => "85c50aa76934460c8736f687a6a30546", 
+    :aud => "ef7f1237ed3c396e4b4a2b04b608a7b1",
+    :exp => 1679359052,
+    :iat => 1679341051,
+    :credential_aal_highest => 2,
+    :credential_ial_highest => "classic_loa3",
+    :email => "test@email.com",
+    :fname => "ABRAHAM",
+    :lname => "LINCOLN",
+    :level_of_assurance => 3,
+    :multifactor => true,
+    :credential_aal => 2,
+    :credential_ial => 1,
+    :uuid="idme_uuid"
+  )
+  Base64.encode64(credential_info.to_json)
+  ```
+</details>
 
-#### DSLogon
+<details>
+  <summary>DS Logon</summary>
 
-```
-rails c
-credential_info = OpenStruct.new(
-  :iss => "https://api.idmelabs.com/oidc",
-  :sub => "40e5bbdb6d2044ec89aad782c97d1faa",
-  :aud => "ef7f1237ed3c396e4b4a2b04b608a7b1",
-  :exp => 1652842354,
-  :iat => 1652824354,
-  :credential_aal_highest => 2,
-  :credential_ial_highest => "classic_loa3",
-  :dslogon_birth_date => "1968-09-11",
-  :dslogon_deceased => "false",
-  :dslogon_fname => "Abraham",
-  :dslogon_gender => "male",
-  :dslogon_idvalue => "123456789",
-  :dslogon_idtype => "ssn",
-  :dslogon_lname => "Lincoln",
-  :dslogon_assurance => "2",
-  :dslogon_mname => "George",
-  :dslogon_status => "SPONSOR",
-  :dslogon_uuid => "edipi",
-  :email => "test@email.com",
-  :level_of_assurance => 3,
-  :multifactor => true,
-  :credential_aal => 2,
-  :credential_ial => "classic_loa3",
-  :uuid => "idme_uuid"
-)
-Base64.encode64(credential_info.to_json)
-```
+  ```ruby
+  rails c
+  credential_info = OpenStruct.new(
+    :iss => "https://api.idmelabs.com/oidc",
+    :sub => "40e5bbdb6d2044ec89aad782c97d1faa",
+    :aud => "ef7f1237ed3c396e4b4a2b04b608a7b1",
+    :exp => 1652842354,
+    :iat => 1652824354,
+    :credential_aal_highest => 2,
+    :credential_ial_highest => "classic_loa3",
+    :dslogon_birth_date => "1968-09-11",
+    :dslogon_deceased => "false",
+    :dslogon_fname => "Abraham",
+    :dslogon_gender => "male",
+    :dslogon_idvalue => "123456789",
+    :dslogon_idtype => "ssn",
+    :dslogon_lname => "Lincoln",
+    :dslogon_assurance => "2",
+    :dslogon_mname => "George",
+    :dslogon_status => "SPONSOR",
+    :dslogon_uuid => "edipi",
+    :email => "test@email.com",
+    :level_of_assurance => 3,
+    :multifactor => true,
+    :credential_aal => 2,
+    :credential_ial => "classic_loa3",
+    :uuid => "idme_uuid"
+  )
+  Base64.encode64(credential_info.to_json)
+  ```
+</details>
 
-#### MHV
+<details>
+  <summary>My HealtheVet (MHV)</summary>
 
-```
-rails c
-credential_info = OpenStruct.new(
-  :mhv_icn => ['1012853550V207686'],
-  :mhv_profile => 
-    ['{"accountType":"Premium",
-       "availableServices":{"21":"VA Medications","4":"Secure Messaging","3":"VA Allergies","2":"Rx Refill","12":"Blue Button (all VA data)","1":"Blue Button self entered data.","11":"Blue Button (DoD) Military Service Information"}}'],
-  :mhv_uuid => ['12345748'],
-  :email => [test@email.com],
-  :multifactor => ['false'],
-  :uuid => [idme_uuid],
-  :level_of_assurance' => []
-)
-Base64.encode64(credential_info.to_json)
-```
+ ```ruby
+  rails c
+  credential_info = OpenStruct.new(
+    :mhv_icn => ['1012853550V207686'],
+    :mhv_profile => 
+      ['{"accountType":"Premium",
+        "availableServices":{"21":"VA Medications","4":"Secure Messaging","3":"VA Allergies","2":"Rx Refill","12":"Blue Button (all VA data)","1":"Blue Button self entered data.","11":"Blue Button (DoD) Military Service Information"}}'],
+    :mhv_uuid => ['12345748'],
+    :email => [test@email.com],
+    :multifactor => ['false'],
+    :uuid => [idme_uuid],
+    :level_of_assurance' => []
+  )
+  Base64.encode64(credential_info.to_json)
+  ```
+</details>
 
-### Calling the Mocked Authentication Route
+
+#### Calling the Mocked Authentication Route
 
 6. Take the `state` value returned in step #4 and the encoded `credential_info` information generated in step #5, and use them to call the `/mocked_authentication/authorize` function:
 
-```
+```bash
 curl 'localhost:3000/mocked_authentication/authorize?credential_info=eyJzdWIiOiJlYmYyZTZlZC01M2I2LTQwOWQtYTMwYS1jYzk4YWUyYWRjMDEiLCJpc3MiOiJodHRwczovL2lkcC5pbnQuaWRlbnRpdHlzYW5kYm94Lmdvdi8iLCJlbWFpbCI6ImpvZS5uaXF1ZXR0ZStsZ292aWFsMkBvZGRiYWxsLmlvIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImdpdmVuX25hbWUiOiJqb2VpYWwyIiwiZmFtaWx5X25hbWUiOiJ0ZXN0bGFzdG5hbWUiLCJiaXJ0aGRhdGUiOiIxOTgwLTA4LTE2Iiwic29jaWFsX3NlY3VyaXR5X251bWJlciI6IjEwMjk5ODc3NSIsImFkZHJlc3MiOnsiZm9ybWF0dGVkIjoiMjI4IE4gU3BlbmNlciBSZFxuUGF4dG9uLCBNQSAwMTYxMiIsInN0cmVldF9hZGRyZXNzIjoiMjI4IE4gU3BlbmNlciBSZCIsImxvY2FsaXR5IjoiUGF4dG9uIiwicmVnaW9uIjoiTUEiLCJwb3N0YWxfY29kZSI6IjAxNjEyIn0sInZlcmlmaWVkX2F0IjoxNjM2NDc4Nzg1LCJpYWwiOiJodHRwOi8vaWRtYW5hZ2VtZW50Lmdvdi9ucy9hc3N1cmFuY2UvaWFsLzIiLCJhYWwiOiJ1cm46Z292OmdzYTphYzpjbGFzc2VzOnNwOlBhc3N3b3JkUHJvdGVjdGVkVHJhbnNwb3J0OmR1byJ9&state=eyJhbGciOiJSUzI1NiJ9.eyJhY3IiOiJpYWwyIiwidHlwZSI6ImxvZ2luZ292IiwiY2xpZW50X2lkIjoidmFtb2NrIiwiY29kZV9jaGFsbGVuZ2UiOiIxQlVweHkzN1NvSVBtS3c5NndiZDZNRGN2YXlPWW0zcHRULXpiZTZMX3pNIiwiY2xpZW50X3N0YXRlIjpudWxsLCJjb2RlIjoiMTkyNGE3ZDExOWQ5NTUzNWFjYmY0NDQzOGU1OWM2MDEifQ.LpB18SdiC5uuuTBSfFpNQYAobS5OnuRGVhIqI5Teu5D2a_Ie3hzUXkS1vbJPEN1npeYvcxkHwyvmYOm7hVzPy-Y21SiyibHIuMibXciqozcdzWaql3-eTR-jppUhu_TTWUjsphF2qiEEqbvv31xs-DiEzlkVi3Xoj_OxxZSRaUtZI-cSn05sgT9nOReARBaC7QG3s7F94GJiguyrX1FL0EKbq6p5v83LxlGW_BMtqSAeFqPfxkubnatlrSh9JihIChVBHj7ep-_bpIg5soQbS-I32pdiyC8IXgS70WaeGubsQWOfpRZ1k1vt5dm-JJuAYjzC2acsx2i5u7jo4wDF3g' -L
 ```
 
 The Mocked Authentication controller should take this information and redirect to a successful Sign-in Service `/callback` function, which will result in a redirect to the VA.gov frontend with a `code` parameter that can be [used to obtain session tokens](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/token.md).
+
+### Client-side
+
+#### Using mocked authentication
+To use mocked authentication you need to navigate to the mocked authentication route on vets-website located at
+
+- [http://localhost:3001/sign-in/mocked-auth](http://localhost:3001/sign-in/mocked-auth) or,
+- [http://dev.va.gov/sign-in/mocked-auth](http://dev.va.gov/sign-in/mocked-auth)
+
+**User flow**
+
+![mock-auth](https://user-images.githubusercontent.com/67602137/228640745-4014f7e9-632c-4459-9c1d-79d6573bae9e.png)
+
+1. Navigate to your preferred environments route (see above)
+2. Using the dropdown select a Credential Service Provider (CSP) to use mock authentication with (either Login.gov, ID.me, DS Logon, or My HealtheVet)
+3. Clicking the **Mocked Authentication** button will cause the `mockLogin` authentication utility to fire.
+4. The `mockLogin` utility will generate the proper URL for the mocked authentication route with OAuth + PKCE integration for the vets-api (backend) to consume:
+    
+    ```javascript
+    // Example of route generation with PKCE
+    window.location = `https://dev-api.va.gov/v0/sign_in/
+      ?client_id=vamock
+      &response_type=code
+      &type=<dropdown_selected_credential>
+      &state=<random_hash_stored>
+      &code_challenge=<random_hash_stored>
+      &code_challenge_method=S256`
+    
+    ```
+    
+5. You will land on the server's UI (`/mocked_auth_ui/`) that displays a prefilled credential
+6. Use the dropdown to select a mocked user (available users can be created in the [vets-api-mockdata repo](#))
+6. Click **Continue** to continue with mocked authentication
+7. Land back on your client-side environment in an authenticated state
