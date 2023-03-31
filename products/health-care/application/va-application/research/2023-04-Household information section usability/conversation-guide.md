@@ -2,13 +2,10 @@
 
 ## Moderator logistics
 ### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
+- [ ] Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
+- [ ] Confirm additional notetakers and supply notes template and guidelines
+- [ ]  If this is a session with a screen reader, confirm assistive tech support is available
 
-- Complete any project-specific setup tasks for this study (List them below)
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
 
 
 ### Day of the session
@@ -33,7 +30,7 @@ Slack for real-time feedback from observers.
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about [description of your project].
+Today we're going to talk about online application for health care.
 
 Before we start, a few things I want to mention:
 
@@ -59,7 +56,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
-## First Task: [Start Application] - 5 minutes
+## Task: [Start Application] - 5 minutes
 
 - For this session today, we are going to work through the scenario that you are interested in applying for VA health care.
 - You arrive at this page. Please explain what the content on this page means to you and what you would do next.
@@ -75,14 +72,14 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the partipant sign in as a next action or do they say they would complete the application without signing in?]
 
 
-## Second Task: [Step 1: Veteran Information] - 7 minutes
+## Task: [Step 1: Veteran Information] - 7 minutes
 - Could you please complete this section of the form and talk aloud about what you would need to do as you go.
 
 ### Things to watch for:
 - [Does the participant comment on the first 4 following pages and that they show the same questions with info prefilled if they go the non-sign in route?]
 - [If the participant comments on this, is it positive or negative?]
 
-## Third Task: [TASK NAME] - X minutes
+## Task: [Step 2: VA Benefits] - X minutes
 
 - Step 1
 - Step 2
@@ -92,6 +89,67 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
+
+
+
+## Task: [Step 3: Military Service] - X minutes
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+
+## Task: [Step 3: Military Service / Upload Document] - X minutes
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+
+## Task: [Step 4: Household Information / Financial Disclosure] - X minutes
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+## Task: [Step 4: Household Information / Spouse Information] - X minutes
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Post-Task Interview - X minutes
 
