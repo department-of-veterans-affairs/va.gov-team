@@ -1,4 +1,4 @@
-# Phase 0 Readiness
+# Secure Messaging Phase 0 Readiness
 
 ### Phase 0 Overview 
 
