@@ -428,11 +428,7 @@
 
 00:17:01.000 --> 00:17:06.000
 
-**** check video ****
-
 > P2: Yeah. I thought I was just back to Login.gov. But that wasn't so. I was just you know, like going back and forth so that was a little bit... I did read it a couple of times, just to understand.
-
-**** end ****
 
 00:17:19.000 --> 00:17:24.000
 
