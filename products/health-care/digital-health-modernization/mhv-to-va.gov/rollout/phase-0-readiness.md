@@ -32,8 +32,6 @@ For an application to enter rollout Phase 0, the following must be true:
      - [ ] After readiness & staging review 
      - [ ] Accessibility is included  
 
-- [ ] Phase 0: Pre-Rollout Readiness Checklist is complete  
-
 - [ ] Team members and go/no-go decisions are added to the product decision log  
 
 - [ ] Exit criteria for Phase 0 and entrance criteria for phase 1 agreed to by leadership 
