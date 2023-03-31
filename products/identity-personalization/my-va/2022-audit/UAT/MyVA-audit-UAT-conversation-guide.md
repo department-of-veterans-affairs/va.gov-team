@@ -32,7 +32,7 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, I'd like to get a little background information from you:
 
-- According to my notes, you use XYZ benefits through VA, is that correct? Are there any others?
+- Can you tell me what benefits you currently have through VA?
 
 - Do you currently use any online tools to manage your VA benefits?
 
