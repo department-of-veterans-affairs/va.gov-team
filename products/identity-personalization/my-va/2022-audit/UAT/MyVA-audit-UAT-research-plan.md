@@ -20,7 +20,7 @@ Especially since My VA is now the next destination when a Veteran logs into VA.g
 Since Veterans can apply for and manage their benefits any time after getting out of the military, this work impacts the Veteran journey from Starting Up and beyond.
 
 ## Research Goals	
-The primary goal of our UAT is to confirm that functionality works as expected with these audit updates.
+The primary goal of our UAT is to confirm that functionality works as expected with these audit updates and that all links are being tracked in Google analytics.
 
 As secondary goals, we’ll follow up on [our last usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md):
 - We would like to verify that the updated content in the Education and Training section resonates better with Veterans now that we've changed the termiololgy to reference the Post-9/11 GI Bill.
