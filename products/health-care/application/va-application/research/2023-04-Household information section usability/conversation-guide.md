@@ -81,8 +81,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Task: [Step 2: VA Benefits] - X minutes
 
-- Step 1
-- Step 2
+- Continue completing the questions in the section of the form.
 
 ### Things to watch for:
 
