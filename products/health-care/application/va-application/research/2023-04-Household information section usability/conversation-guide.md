@@ -59,28 +59,28 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
-## First Task: [TASK NAME] - X minutes
+## First Task: [Start Application] - 5 minutes
 
-- Step 1
-- Step 2
+- For this session today, we are going to work through the scenario that you are interested in applying for VA health care.
+- You arrive at this page. Please explain what the content on this page means to you and what you would do next.
 
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
-
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+**Participant questions:**
+- On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this page make you feel about the application you are about to begin? - Why did you give it that rating?
+- Can you tell us more about what you would have to do in preparation for filling out this application?
+- [If participant says they would sign in] What method/login would you use to sign in? How often do you sign in to VA.gov?
 
 ### Things to watch for:
+- [Quotes from participant about any content on the intro page that makes them feel uneasy, confused or not prepared to complete the application.]
+- [Comments about time and/or actions to gather information mentioned on intro page.]
+- [Does the partipant sign in as a next action or do they say they would complete the application without signing in?]
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+
+## Second Task: [Step 1: Veteran Information] - 7 minutes
+- Could you please complete this section of the form and talk aloud about what you would need to do as you go.
+
+### Things to watch for:
+- [Does the participant comment on the first 4 following pages and that they show the same questions with info prefilled if they go the non-sign in route?]
+- [If the participant comments on this, is it positive or negative?]
 
 ## Third Task: [TASK NAME] - X minutes
 
