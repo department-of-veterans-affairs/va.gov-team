@@ -51,184 +51,160 @@ For an application to enter rollout Phase 0, the following must be true:
 
  
 
-Go/No-Go Team 
+### Go/No-Go Team 
 
-[] Go-no-go team established 
+- [ ] Go-no-go team established 
+     
+- [ ] Review established definition of done for MVP 
 
-Bryan, Patti, Lauren, Greg Kirk, Leila, Oleksii + Dr Josephs, Theresa, Carnetta  
+- [ ] Go-no-go meeting(s) scheduled 
+     - [ ] After readiness & staging review 
+     - [ ] Accessibility is included  
 
-Review established definition of done for MVP 
+- [ ] Phase 0: Pre-Rollout Readiness Checklist is complete  
 
-AI: draft Acceptance Criteria  
+- [ ] Team members and go/no-go decisions are added to the product decision log  
 
-Go-no-go meeting(s) scheduled 
+- [ ] Exit criteria for Phase 0 and entrance criteria for phase 1 agreed to by leadership 
+ 
 
-After readiness & staging review 
+### Communication  
 
-Accessibility is included  
+- [ ] “Try this feature” email to “trusted users” is written, approved by leadership, and set up in Gov delivery 
 
-Phase 0: Pre-Rollout Readiness Checklist is complete  
+- [ ] Email to trusted users is shared with contact center teams and coordinators  
 
-Team members and go/no-go decisions are added to the product decision log  
-
-Exit criteria for Phase 0 and entrance criteria for phase 1 agreed to by leadership 
-
-AI: review dashboard  
+- [ ] MHV SharePoint page announcing this shift is updated with information about phase 0 
 
  
 
-Communication  
+### Change management  
 
-“Try this feature” email to “trusted users” is written, approved by leadership, and set up in Gov delivery 
+-  Product guides developed and shared with: 
 
-Email to trusted users is shared with contact center teams and coordinators  
+      - [ ] Contact Centers 
 
-MHV SharePoint page announcing this shift is updated with information about phase 0 
+      - [ ] MHV Coordinators  
 
- 
+      - [ ] Facility POCs 
 
-Change management  
+- [ ] Demo of new tool for audiences who will be affected by Phase 0 completed  
 
-Product guides developed and shared with: 
+- [ ] Support staff trained
 
-Contact Centers 
-
-MHV Coordinators  
-
-Facility POCs 
-
-Demo of new tool for audiences who will be affected by Phase 0 completed  
-
-Support staff trained – tier 3 for MHV?  
-
-Process for handling technical / customer support issues exists 
+- [ ] Process for handling technical / customer support issues exists 
 
  
 
-Product 
+### Product 
 
-Intended product outcomes are documented and broadly communicated 
+- [ ] Intended product outcomes are documented and broadly communicated 
 
-Technical instrumentation is in place to track GA 
+- [ ] Technical instrumentation is in place to track GA 
 
-All steps of the collaboration cycle are complete  
+- [ ] All steps of the collaboration cycle are complete  
 
-All the MUST feedback complete 
+- [ ] All the MUST feedback complete 
 
-Product documentation is reviewed by OCTO/OCC product managers & leads and determined to be complete and up-to-date 
+- [ ] Product documentation is reviewed by OCTO/OCC product managers & leads and determined to be complete and up-to-date 
 
-Establish email box for the feedback loop 
+- [ ] Establish email box for the feedback loop 
  
    
+# Confirm with the following teams that they are ready for rollout: 
 
-Confirm with the following teams that they are ready for rollout: 
+### User feedback / research  
 
-   
+- [ ] QA / user acceptance testing completed  
+- [ ] Research documented in Github 
 
-User feedback / research  
 
-QA / user acceptance testing completed  
 
-Uat by go/no-go team members  
+### Accessibility 
 
-Research documented in Github 
-
- 
-
-Accessibility 
-
-Testing with complex cases (assistive tech users, cognitive disabilities, etc.) completed 
+- [ ] Testing with complex cases (assistive tech users, cognitive disabilities, etc.) completed 
 
  
 
-UX/UI  
+### UX/UI  
 
-Key design decisions added to decision log 
+- [ ] Key design decisions added to decision log 
 
-Design documentation & briefs are up-to-date and linked in product Github 
+- [ ] Design documentation & briefs are up-to-date and linked in product Github 
 
-Breadcrumb suppressed during this phase, excluding the "Back" links when in sub-tasks - those should remain so users can return to their previous view 
+- [ ] Breadcrumb suppressed during this phase, excluding the "Back" links when in sub-tasks
 
-Feedback link is in place in design and engaged, clicking it will open a link to send a feedback email. 
+- [ ] Feedback link is in place in design and engaged, clicking it will open a link to send a feedback email. 
 
-Product content approved and QAd/copy edited  
-
- 
-
-Engineering  
-
-Sign-in loads over the home page and pass next page parameter to send visitor directly to the tool after completing a successful sign on  
-
-All pages/components have latest content: 
-
-Unit test coverage is sufficient 
-
-Accessibility test coverage is sufficient 
-
-End-to-end test coverage is sufficient 
-
-Functional issues resolved 
-
-Engineering information documented and stored in GitHub 
-
-A temporary redirect is available at va.gov/my-health/ back to the tool until the My health landing page is launched to prevent 404s for URL hackers 
+- [ ] Product content approved and QAd/copy edited  
 
  
 
-Performance and Monitoring  
+### Engineering  
 
-Application performance SLOs exist 
+- [ ] Sign-in loads over the home page and pass next page parameter to send visitor directly to the tool after completing a successful sign on  
 
-Downstream services tested at 2x average load for prior 12 months 
+- [ ] All pages/components have latest content: 
 
-DataDog monitors exist 
+- [ ] Unit test coverage is sufficient 
 
-Alerts exist 
+- [ ] Accessibility test coverage is sufficient 
 
-PagerDuty 
+- [ ] End-to-end test coverage is sufficient 
 
-Slack 
+- [ ] Functional issues resolved 
 
-On-call rotation exists 
+- [ ] Engineering information documented and stored in GitHub 
 
-Technical support escalation policy exists 
+- [ ] A temporary redirect is available at va.gov/my-health/ back to the tool until the My health landing page
+ 
+
+### Performance and Monitoring  
+
+- [ ] Application performance SLOs exist 
+
+- [ ] Downstream services tested at 2x average load for prior 12 months 
+
+- [ ] DataDog monitors exist 
+
+- [ ] Alerts exist 
+
+   - PagerDuty 
+
+    - Slack 
+
+- [ ] On-call rotation exists 
+
+- [ ] Technical support escalation policy exists 
+
+ 
+### Analytics & Metrics  
+
+- [ ] Google Analytics 
+
+    - Event tags exist 
+
+    - Access 
+
+    - Dashboard exists 
+
+- [ ] Domo 
+    - Access 
+
+    - Dashboard exists 
+- [ ] Datadog 
+     - Access 
+
+     - Dashboard exists 
+
+     - RUM code implemented
 
  
 
-Analytics & Metrics  
+### Legal & Policy  
 
-Google Analytics 
+- [ ] Application reviewed for potential legal implications 
 
-Event tags exist 
+- [ ] Application reviewed for adherence to policies 
 
-Access 
-
-Dashboard exists 
-
-Domo 
-
-Access 
-
-Dashboard  existsDashboard 
-
-Datadog 
-
-Access 
-
-Dashboard exists 
-
-RUM code implemented 
-
-Requested custom tags created 
-
-Plan for Medallia feedback for Phase 0 
-
- 
-
-Legal & Policy  
-
-Application reviewed for potential legal implications 
-
-Application reviewed for adherence to policies 
-
-Application reviewed for information accuracy and patient safety 
+- [ ] Application reviewed for information accuracy and patient safety 
