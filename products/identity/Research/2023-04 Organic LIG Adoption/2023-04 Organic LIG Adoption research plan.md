@@ -12,7 +12,7 @@ The pathway this research focuses on is to promote Organic Adoption of login.gov
 
 ### Previous related research
 
-* [2022-10-Research-LoginGovFieldResearch #185](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/185)
+* [2022-10 Research LoginGov Field Research #185](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/185)
 * [2022-07 MHV transition to Login.gov as a single sign-on #157](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/157)
 * [2022-07 Login Self-Service Tool #156](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/156)
 * [2022-03 Sign-In Accessibility #93](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/93)
@@ -134,7 +134,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Research sessions
 - Planned dates of research: 2023 April TBD
-- Session length: **60-minute** sessions 
+- Session length: **-minute** sessions 
 - Session buffer: **60-minute breaks** in between
 - Max sessions per day: 4
 
@@ -162,12 +162,12 @@ Please request enough dates and at ***least double the amount of time slots for 
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Clayton Zook
+- Moderator: Clayton Zook, +?
 - Research guide writing and task development (usually but not always same as moderator): Clayton Zook	
 - Participant recruiting & screening: Perigean
 - Project point of contact: Clayton Zook
 - Participant(s) for pilot test: 
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers: 
+- Note-takers:
 - Observers: 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
