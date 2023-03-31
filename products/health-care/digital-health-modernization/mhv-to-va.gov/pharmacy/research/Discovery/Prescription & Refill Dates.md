@@ -37,6 +37,9 @@
 
 **A: [Eric]: it should only be 'Active: Refill in Process' but MHV continues to show this date even after the prescription was 'released' (filled) which may occur before, on, or after the 'Fill Date' which can mislead users. I'm currently asking MHV to reevaluate the logic so that this is ONLY shown when in an 'Active: Refill In Process' status**
   
+## Fill Date
+  
+Q: In consideration for field update, would it be fair to have logic: If RX Status = Refill In Process or Submitted display date as 'Estimated Fill Date'  
 
 ## Expiration Date
 
@@ -63,8 +66,6 @@
  **A: [Eric]: this is mapped to the 'released date/time' in VistA which is when the 'fill' or 'refill' was actually verified by a pharmacist and placed into a bag (either to the pharmacy window or mail) for dispensing. It is the closest date we have for showing when the medication was 'dispensed'**
   
 **Q10:** Does it mean the date on which the pharmacist physically put pills in a bottle? 
-  
-**A: [Eric]: this is mapped to the 'released date/time' in VistA which is when the 'fill' or 'refill' was actually verified by a pharmacist and placed into a bag (either to the pharmacy window or mail) for dispensing. It is the closest date we have for showing when the medication was 'dispensed'**
   
 **Q11:** Why is this date important to Veterans? How are they using this date? 
 
