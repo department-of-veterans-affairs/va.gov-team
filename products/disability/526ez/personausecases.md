@@ -1,4 +1,4 @@
-# 21-526EZ Application for Disability Compensation and Related Compensation Benefits
+# Veteran personas and 526 use cases
 
 ## VA Customer Personas List
 From Veteran Experience Office, May 2016 (current as of 2022)
