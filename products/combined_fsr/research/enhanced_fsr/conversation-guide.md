@@ -1,3 +1,4 @@
+
 # Conversation Guide
 ## [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md#moderator-logistics)Moderator logistics
 
@@ -68,11 +69,8 @@ Start recording.
 
 **-   I have started recording. I'd like to confirm: Are you comfortable if I record my screen, the video, and the audio as we talk today?**
 
-    > Enabling for account, do they need to have debt in order to turn on the FSR?
-they will need either an unpaid overpayment (debt) OR an unpaid copay bill (copay needs to be within past 6 months
-
-
 ## [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md#warm-up-questions-optional---x-minutes)Warm-up Questions (Optional) - 5-10 minutes
+
 
 Before we look at the form, let’s start with a few warm-up questions so that I can get to know you.
 
@@ -84,7 +82,8 @@ Background about their service history
 -   What has been your past experience with VA debt? [establish baseline]
 -   What are your hopes for the process of getting help with this debt? Why? [establish hopes/desires]
 -   What are your expectations? [establish expectations]
-
+    > Enabling for account, do they need to have debt in order to turn on the FSR?
+they will need either an unpaid overpayment (debt) OR an unpaid copay bill (copay needs to be within past 6 months
 
 ## [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md#first-task-task-name---x-minutes)Scenario and Overall Task: 
 Imagine you have some VA debt that you would like help with.
@@ -95,7 +94,6 @@ Remember, there are no right or wrong answers, we just want to learn from your e
 
 We ask that you think out loud as you are going through the form. You may use fake information to fill out the form.
 
-
 ## [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md#first-task-task-name---x-minutes)First Task: [Form comprehension questions] - 10 minutes
 **Form comprehension questions**
 
@@ -105,23 +103,7 @@ We ask that you think out loud as you are going through the form. You may use fa
     
 -   Based on what you read, what is the FSR form for?
 
-#### Success criteria:
-
-***-   Complete success:***  Veteran must say:
--   The Financial Status Report form (FSR) is for debt related to VA disability compensation, education, or pension benefits AND/OR
--   VA health copays  
-
-***-   Success with one minor issue:***
--   Veteran mentions one of the following but not both
--   The Financial Status Report form (FSR) is for debt related to VA disability compensation, education, or pension benefits
--   VA health copays
-    
-***-   Success with a major issue:***
--   Veteran mentions debt form is for one of the above AND the wrong type of debt
-
-***-   Failure:*** Veteran mentions:
--   FSR form is for any type of debt
--   Veteran does not understand the form is related to debt resolution
+#### [Notetaker fills out success criteria] 
 
 #### Testing: Comprehension
 
@@ -129,6 +111,7 @@ We ask that you think out loud as you are going through the form. You may use fa
   
 -   What would you do here?
     Testing: Would they actually read the page?
+    
 If they read through the page, ask:
 
 -   What are your impressions of this page?
@@ -142,7 +125,6 @@ If they read through the page, ask:
 -   Do you have any additional thoughts on this section?
   
 **Testing: Qualitative feedback/ satisfaction**
-
 
 **Debt Selection Question**
 
@@ -209,7 +191,7 @@ Resolution options comprehension question
 -   Which resolution option would you prefer? Why?
     
 
-  
+
   
 
 Bankruptcy options comprehension question
@@ -248,12 +230,7 @@ Do you have any additional thoughts on this section?
 
 Rate each field individually for pass/fail (binary)
 
-  
 
--   Complete success: Participant completes task without any issues (can edit the above fields)
-    
--   Failure: Participant isn’t able to complete task (cannot edit the above fields)
-    
 
 #### Testing: Usability of editing info from review page
 
