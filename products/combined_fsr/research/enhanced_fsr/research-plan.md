@@ -126,8 +126,6 @@ How will this research advance your product to the next phase in the design proc
 ### Hypothesis
 *What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.*
 
-1.  Veterans will understand the purpose of the form and why they need to fill out
-
 **Assumptions**: 
 - They have co-pay or benefit overpayment debt or both 
 - They need/want to fill out the FSR form because of financial need/hardship
