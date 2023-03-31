@@ -33,6 +33,7 @@ If Veterans are still confused about the Benefit application drafts section, we 
 
 ### Research questions
 - Does the functionality work as expected?
+- Is Google analytics tracking all links as expected?
 - Is the dynamic content on My VA accurate and useful in the sections we've updated for this audit?
 - Do Veterans with education benefits know how to find info about their remaining education benefits from My VA?
 - Do Veterans know how to find and continue a saved application from My VA?
