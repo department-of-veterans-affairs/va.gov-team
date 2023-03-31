@@ -8,10 +8,10 @@ There are currently multiple ways to sign in and access VA services. These Crede
 
 The pathway this research focuses on is to promote Organic Adoption of login.gov - encouraging veterans to migrate to a modern CSP now, ahead of sunsetting.
 
-
-[Link to product brief](url goes here).
+[Link to product brief](url goes here) 
 
 ### Previous related research
+
 * [2022-10-Research-LoginGovFieldResearch #185](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/185)
 * [2022-07 MHV transition to Login.gov as a single sign-on #157](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/157)
 * [2022-07 Login Self-Service Tool #156](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/156)
@@ -33,9 +33,10 @@ This initiative focuses on Veterans who are using either DS Logon or MHV as thei
 
 ## Research Goals
 
-- Identify which term is understandable and resonates most when describing an ID proofed account
-- Find out best ways to encourage more veterans to migrate CSPs now, even before sunsetting of legacy accounts(s)
 - Test the usability of a modal prototype that encourages veterans to signup for a login.gov account
+- Identify which term is most understandable and resonates most when describing an ID proofed account
+- Find out best ways to encourage more veterans to migrate CSPs now, even before sunsetting of legacy accounts(s)
+
 
 ### Outcome
 
@@ -45,28 +46,24 @@ We’ll also validate a modal prototype to learn if it makes sense to move forwa
 From both of these we’ll gain understanding about how to encourage va.gov legacy account holders to migrate to one of the modern CSPs early but on their own timeline, before they encounter stress of possible disruption of service.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+- Is the modal useful in encouraging organic adoption of a modern CSP?
+- Would any changes make the modal more helpful or more encouraging?
+- What word or phrase will best convey to veterans the concept of “ID proof” or “verified account”?
+- How might we encourage more veterans to migrate their CSP now, on their own, before sunsetting forces it?
+
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+
+- Some veterans will be motivated to migrate from a legacy CSP with some encouragement, like the modal prototype
+- Most veterans will choose to ignore the modal their first time seeing it
+- Veterans will have a term or phrase for “verified account” that we can use to better speak to the process.
+
 
 ## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+Remote usability testing will evaluate the modal prototype on **[mobile/desktop/TBD]**. This will be paired with interview questions to evaluate use of words and phrases we can use to best convey these concepts to veterans.
+We’ll use Perigean’s Zoom account for these remote sessions
 
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
@@ -76,28 +73,17 @@ Additional resources:
 - If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
 - In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
-### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
 - [Link to conversation guide](url goes here)
 - [Link to prototype](url goes here)
 
 
 ## Recruitment	
-
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
 
 Before writing your recruitment criteria, be sure to review the following resources. 
 - [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
