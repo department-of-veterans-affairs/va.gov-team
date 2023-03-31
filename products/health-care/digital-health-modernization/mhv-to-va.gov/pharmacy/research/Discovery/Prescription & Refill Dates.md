@@ -75,6 +75,8 @@ Q: In consideration for field update, would it be fair to have logic: If RX Stat
 
 **A: [Eric]: see attached refill user guide**
 
+Meko asked why we couldn't just call this field "Last fill date" on the UI but Eric mentioned that we already use the terms "Last fill date" in the "backend" or how the data is mapped and that would cause confusion.
+
   ## Cancel Date
    
 **Q12:** Who cancels a prescription (doctor, pharmacist)? 
