@@ -13,7 +13,6 @@ Veterans who serve in active duty, Reserves, or National Guard and navigate comp
 
 **Fast tracker**
 Veterans who seek best-in-class services, often from non-VA providers
--
 
 **Day by day**
 High-need, low-income Veterans struggling with addiction, homelessness, incarceration, or long-term unemployment
@@ -26,16 +25,14 @@ Resilient, self-sufficient Veterans who have life-planning and health needs rela
 
 **Proud patriot**
 Veterans, often low-income or in poor health, who identify as Veterans and have positive feelings about VA’s comprehensive care
-- 
+
 
 **In transition**
 Veterans separated from service, but still strongly connected to military friends and culture and not yet on a firm civilian footing
-- 
+
 
 **Unaffiliated**
 Veterans who have little interaction with, awareness of, or interest in VA services or Veteran issues
-- 
 
-**Unaffiliated**
-Veterans who have little interaction with, awareness of, or interest in VA services or Veteran issues
-- 
+
+
