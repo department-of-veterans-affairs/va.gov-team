@@ -1082,7 +1082,7 @@
 
 00:59:12.000 --> 00:59:13.000
 
-> P2:Yeah, same here, thanks. Guys, have a good day.
+> P2: Yeah, same here, thanks. Guys, have a good day.
 
 00:59:13.000 --> 00:59:18.000
 
