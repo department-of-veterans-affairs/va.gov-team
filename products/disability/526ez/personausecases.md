@@ -9,10 +9,12 @@ Includes ten personas (veterans and supporters) and ideation cards
 
 **Still serving**
 Veterans who serve in active duty, Reserves, or National Guard and navigate competing civilian and military systems, cultures, and providers
-- Use 526 to apply for BDD (Benefits Delivery at Discharge) - eligibility for BDD is determined in 526 based on user's indication of whether they are active duty or not
+- Service members can use 526 to apply for BDD (Benefits Delivery at Discharge) - eligibility for BDD is determined in 526 based on user's indication of whether they are active duty or not
+- Service members cannot use 526 to apply for or indicate participation in IDES (Integrated Disability Evaluation System) since IDES participants do not apply or elect to participate in IDES. (If they are referred by their branch of service, they are assigned a dedicated military Physical Evaluation Board Liaison Officer (PEBLO) and a VA Military Services Coordinator (MSC) to assist and advise). [More info here](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/752).
 
 **Fast tracker**
 Veterans who seek best-in-class services, often from non-VA providers
+- Veterans who wish to file a claim in the FDC Program (Optional Expedited Process) must submit 526 at the same time that they submit any and all required info and ancillary forms. This may include relevant private treatment records, specifications about relevant VA treatment records (and completed VA Form 21-4142 which is conditionally included in 526 flow), specifics about personnel and service treatment records, additional evidence if they had a disability before entering service that was made worse by service, and if claiming PTSD a completed VA Form 21-0781 which is included in 526 flow.
 
 **Day by day**
 High-need, low-income Veterans struggling with addiction, homelessness, incarceration, or long-term unemployment
