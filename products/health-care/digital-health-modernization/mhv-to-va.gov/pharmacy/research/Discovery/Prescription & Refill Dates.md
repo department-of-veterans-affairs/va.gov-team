@@ -97,4 +97,4 @@ Q: In consideration for field update, would it be fair to have logic: If RX Stat
   
 **Q18:** What is the difference between Issue Date and Ordered Date?  Why is this date important to Veterans? How are they using this date? 
   
-**A: [Eric] it the date the prescription was ordered by their doctor; gives them some inclination as to when to expect it
+**A:** [Eric] it the date the prescription was ordered by their doctor; gives them some inclination as to when to expect it
