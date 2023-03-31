@@ -1,8 +1,5 @@
 # Phase 0 Readiness
 
-
-## Phase 0: Trusted Users 
-
 ### Phase 0 Overview 
 
 Application exists on VA.gov in a published, authenticated state, but can only be found if users know the URL.  
