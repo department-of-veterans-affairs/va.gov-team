@@ -1,4 +1,4 @@
-# Phase 0 Readiness Checklist 
+# Phase 0 Readiness
 
 This document is intended to align all impacted decision-makers, stakeholders, and product delivery teams on the phases for rolling out My HealtheVet tools on VA.gov, and to facilitate a shared understanding of activities that should occur before and after moving to Phase 0. 
 
@@ -26,14 +26,6 @@ OCTO
 
 leila.rassi@va.gov 
 
- 
-
-Mural Documentation for Secure Messaging 
-
- 
-
-
- 
 
 ## Phase 0: Trusted Users 
 
@@ -51,14 +43,9 @@ Application exists on VA.gov in a published, authenticated state, but can only b
 
 - Public websites, My VA continue to point users to the MHV application. 
 
- 
 
- 
 
-Page Break
- 
-
-Phase 0: Pre-Rollout Readiness Checklist 
+## Phase 0: Pre-Rollout Readiness Checklist 
 
 For an application to enter rollout Phase 0, the following must be true: 
 
@@ -66,7 +53,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 Go/No-Go Team 
 
-Go-no-go team established 
+[] Go-no-go team established 
 
 Bryan, Patti, Lauren, Greg Kirk, Leila, Oleksii + Dr Josephs, Theresa, Carnetta  
 
