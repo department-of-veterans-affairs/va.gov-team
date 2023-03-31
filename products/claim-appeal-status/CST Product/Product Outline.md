@@ -72,7 +72,6 @@ Average number of days it takes for the VA to arrive at claims and appeals decis
 ## User actions
 - Number of successful submissions for requests for additional evidence
 - Average # of days between request for additional evidence and evidence submitted by veteran
-- Number of conversions from CST to VAOS for appointment scheduling
 - Average # of days between requests for exam scheduling and exam scheduled by veteran
 
 ## Call Center
