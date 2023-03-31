@@ -2,663 +2,417 @@
 
 - Date: March 28, 2023
 - Time: 11am-12pm
-- Facilitator: Tyler Gindraux
+- Moderator: Tyler Gindraux
 
 ### Transcript
 
 00:00:02.000 --> 00:00:06.000
 
-> Awesome. So [participant 2], I just wanna confirm, are you comfortable if I record this session?
+> M: Awesome. So [participant 2], I just wanna confirm, are you comfortable if I record this session?
 
 00:00:08.000 --> 00:00:18.000
 
-> Yes, I am.
+> P2: Yes, I am.
 
 00:00:19.000 --> 00:00:21.000
 
-> Thanks so much. Alright, I think we can get started now, if that works for you, [participant 2]. Awesome so I just want to start by learning a little bit more about you and your experience with the VA. And particularly with using some of our online services. So I'm going to just ask you a couple questions.
+> M: Thanks so much. Alright, I think we can get started now, if that works for you, [participant 2]. Awesome so I just want to start by learning a little bit more about you and your experience with the VA. And particularly with using some of our online services. So I'm going to just ask you a couple questions.
 
 00:00:22.000 --> 00:00:36.000
 
-> How long have you been a Veteran?
+> M: How long have you been a Veteran?
 
 00:00:36.000 --> 00:00:40.000
 
-> I got out of the service in '94.
+> P2: I got out of the service in '94.
 
 00:00:41.000 --> 00:00:53.000
 
-> Okay so quite a while. And how often would you say that you go online to manage VA benefits or healthcare, or look up some information?
+> M: Okay so quite a while. And how often would you say that you go online to manage VA benefits or healthcare, or look up some information?
 
 00:00:53.000 --> 00:00:58.000
 
-> This year a lot more than I did in the past to be honest. Yeah.
+> P2: This year a lot more than I did in the past to be honest. Yeah.
 
 00:00:58.000 --> 00:01:04.000
 
-> Okay. And what does a lot look like is that a couple of times a month?
+> M: Okay. And what does a lot look like is that a couple of times a month?
 
 00:01:04.000 --> 00:01:06.000
 
-> Probably 3 to 4 times a month. Yeah.
+> P2: Probably 3 to 4 times a month. Yeah.
 
 00:01:06.000 --> 00:01:13.000
 
-> Okay? And when you're going online, do you know which website you're usually going to?
+> M: Okay. And when you're going online, do you know which website you're usually going to?
 
 00:01:13.000 --> 00:01:20.000
 
-> Hmm what is it? MyHealtheVet [MHV]. Yeah, that would be MHV. That one!
+> P2: Hmm what is it? MyHealtheVet [MHV]. Yeah, that would be MHV. That one!
 
 00:01:21.000 --> 00:01:22.000
 
-> MHV okay. Great. Yeah. That's helpful.
+> M: MHV okay. Great. Yeah. That's helpful.
 
 00:01:22.000 --> 00:01:23.000
 
-> And are you usually going to MHV and just like kind of looking for some information or are you usually signing in?
+> M: And are you usually going to MHV and just like kind of looking for some information or are you usually signing in?
 
 00:01:30.000 --> 00:01:31.000
 
-> Looking for information.
+> P2: Looking for information.
 
 00:01:31.000 --> 00:01:37.000
 
-> Okay, and how often do you? Would you say you are actually signing in?
-
-00:01:37.000 --> 00:01:42.000
-
-> So you're entering your username and your password when you go to MHV.
+> M: Okay, and how often do you? Would you say you are actually signing in? So you're entering your username and your password when you go to MHV.
 
 00:01:42.000 --> 00:01:47.000
 
-> Well, every time I log on in, so that'd be 3 to 4 times a month.
+> P2: Well, every time I log on in, so that'd be 3 to 4 times a month.
 
 00:01:47.000 --> 00:01:48.000
 
-> Yeah.
-
-00:01:48.000 --> 00:01:55.000
-
-> Okay. Do you remember? I'm gonna test your memory a little bit but we'll do that a little bit throughout the hour, so you'll have to bear with me.
-
-00:01:55.000 --> 00:02:04.000
-
-> Do you remember which way that you're signing into my healthy bet? There's a couple different options when triggering any memory?
+> M: Yeah. Okay. Do you remember – I'm gonna test your memory a little bit here – do you remember which way that you're signing into My HealtheVet? There's a couple different options.
 
 00:02:04.000 --> 00:02:12.000
 
-> I got it as a favorite, and then I click on that, and then it drops on down, and then there's like 4 choices.
-
-00:02:12.000 --> 00:02:15.000
-
-> I think. Then I click on on my health. That, yeah.
+> P2: I got it as a favorite, and then I click on that, and then it drops on down, and then there's like 4 choices. I think I click on My HealtheVet. That, yeah.
 
 00:02:15.000 --> 00:02:23.000
 
-> Okay, okay, so it sounds like, you're on the my healthy that website. And then you're choosing my healthy bat as your sign in option. Awesome.
+> M: Okay, okay, so it sounds like, you're on the MHV website. And then you're choosing MHV as your sign in option.
 
 00:02:23.000 --> 00:02:25.000
 
-> Right.
+> P2: Right.
 
 00:02:25.000 --> 00:02:26.000
 
-> That's really helpful. And that's usually how you would sign in.
-
-00:02:26.000 --> 00:02:32.000
-
-> Is there ever a time when you're choosing a different side?
+> M: That's really helpful. And that's usually how you would sign in? Is there ever a time when you're choosing a different side?
 
 00:02:32.000 --> 00:02:33.000
 
-> No. Nope!
+> P2: Nope.
 
 00:02:33.000 --> 00:02:41.000
 
-> Okay, that's really helpful. So the next step we're gonna do, [participant 2], I mentioned that I'm gonna show you a prototype today.
-
-00:02:41.000 --> 00:02:51.000
-
-> So that's that kind of pretend version of the website.
-
-00:02:51.000 --> 00:02:52.000
-
-> Okay.
-
-00:02:52.000 --> 00:02:53.000
-
-> And this is so that we can get your feedback. This is for, you know, a time for you to share your opinions about what we're looking at.
-
-00:02:53.000 --> 00:03:01.000
-
-> So I'm gonna send you a link into the zoom. And I just like you to open the link on your computer. And then, are you familiar with sharing your screen?
+> M: Okay, that's really helpful. So next, I mentioned that I'm gonna show you a prototype today. So that's that kind of pretend version of the website. And this is so that we can get your feedback. This is for, you know, a time for you to share your opinions about what we're looking at. So I'm gonna send you a link into the zoom. And I'd just like you to open the link on your computer. And then, are you familiar with sharing your screen?
 
 00:03:01.000 --> 00:03:02.000
 
-> Not really?
+> P2: Not really?
 
 00:03:02.000 --> 00:03:04.000
 
-> Okay, that's okay. I'm gonna talk you through it.
-
-00:03:04.000 --> 00:03:07.000
-
-> So I've sent you a link in the chat.
+> M: Okay, that's okay. I'm gonna talk you through it. So I've sent you a link in the chat.
 
 00:03:07.000 --> 00:03:09.000
 
-> Yup!
+> P2: Got it.
 
 00:03:09.000 --> 00:03:15.000
 
-> And so if you go ahead and open that link, you might not be able to see me for a second.
+> M: And so if you go ahead and open that link, you might not be able to see me for a second.
 
 00:03:15.000 --> 00:03:18.000
 
-> Okay. Let me click on that link then.
+> P2: Okay. Let me click on that link then.
 
 00:03:25.000 --> 00:03:28.000
 
-> Okay. So you see that opening up?
+> M: Okay. So you see that opening up?
 
 00:03:30.000 --> 00:03:32.000
 
-> Yes.
+> P2: Yes.
 
 00:03:32.000 --> 00:03:37.000
 
-> Alrighty! So once that opens up, you're gonna try and find zoom again.
-
-00:03:37.000 --> 00:03:45.000
-
-> So come back to.
+> M: Alrighty. So once that opens up, you're gonna try and find Zoom again.
 
 00:03:45.000 --> 00:03:46.000
 
-> Yup, see yup.
+> P2: Yup, I see you.
 
 00:03:46.000 --> 00:03:50.000
 
-> Okay, perfect. And then at the bottom of the zoom window, we were talking about this earlier.
-
-00:03:50.000 --> 00:03:53.000
-
-> It says a couple of different things, and there's one in the middle.
-
-00:03:53.000 --> 00:03:56.000
-
-> It's green, it says, share screen. You see that? Okay, perfect.
-
-00:03:56.000 --> 00:04:08.000
-
-> So if you click on that, it's gonna give you a couple of options, and you can go ahead and try and find that window that you just opened.
+> M: Okay, perfect. And then at the bottom of the zoom window, we were talking about this earlier. It says a couple of different things, and there's one in the middle. It's green, it says, share screen. You see that? Okay, perfect. So if you click on that, it's gonna give you a couple of options, and you can go ahead and try and find that window that you just opened.
 
 00:04:08.000 --> 00:04:13.000
 
-> This one?
-
-00:04:13.000 --> 00:04:14.000
-
-> Okay.
+> P2: This one? Okay.
 
 00:04:14.000 --> 00:04:19.000
 
-> Perfect, alrighty. It's just loading and I'll let you know what I can see. Once it comes up.
-
-00:04:19.000 --> 00:04:24.000
-
-> Okay, that's so [participant 2], just for your familiarity.
+> M: Perfect, alrighty. It's just loading and I'll let you know what I can see. Once it comes up.
 
 00:04:24.000 --> 00:04:33.000
 
-> Now, what I'm seeing is basically what you're looking at on your screen so that Va email that's coming up on your end.
+> M: Now, what I'm seeing is basically what you're looking at on your screen so that VA email that's coming up on your end.
 
 00:04:33.000 --> 00:04:45.000
 
-> Okay.
-
-00:04:45.000 --> 00:04:46.000
-
-> Alright!
+> P2: Okay.
 
 00:04:46.000 --> 00:04:47.000
 
-> Okay, okay, great. So we're gonna keep this prototype opened throughout a lot of the conversation you can always come back to the zoom window if it's feeling a little funny talking to the Internet. Alright.
+> M: Okay, great. So we're gonna keep this prototype opened throughout a lot of the conversation you can always come back to the Zoom window if it's feeling a little funny talking to the computer. Alright.
 
 00:04:47.000 --> 00:04:52.000
 
-> So what I'd like us to start with is just imagining that this is an email that you've received.
-
-00:04:52.000 --> 00:04:58.000
-
-> So it says, dear Martha, like so you received this email from the Va.
-
-00:04:58.000 --> 00:05:01.000
-
-> I'm gonna give you a second now to read the email more closely.
-
-00:05:01.000 --> 00:05:31.000
-
-> And when you finish, what I'd like is, if you can summarize what you reallyve read for me.
+> M: So what I'd like us to start with is just imagining that this is an email that you've received. So it says, Dear Martha, so you received this email from the VA. I'm gonna give you a second now to read the email more closely. And when you finish, what I'd like is, if you can summarize what you've read for me.
 
 00:05:52.000 --> 00:05:54.000
 
-> Okay.
+> P2: Okay.
 
 00:05:54.000 --> 00:05:59.000
 
-> Okay. So just to start, can you tell me a little bit about what you just read?
+> M: Okay. So just to start, can you tell me a little bit about what you just read?
 
 00:05:59.000 --> 00:06:00.000
 
-> Is that my login for the Ds login is that's gonna be no longer available.
-
-00:06:00.000 --> 00:06:07.000
-
-> I'm gonna have to create a new account@login.gov.
+> P2: It says that my login for the DS Logon – that's gonna be no longer available. I'm gonna have to create a new account at Login.gov.
 
 00:06:07.000 --> 00:06:22.000
 
-> What does what does that mean to you?
+> M: What does what does that mean to you?
 
 00:06:22.000 --> 00:06:31.000
 
-> I don't know more or less they have to create another account, create a new password and user.
-
-00:06:31.000 --> 00:06:32.000
-
-> Okay.
-
-00:06:32.000 --> 00:06:34.000
-
-> Id for another area. Yeah.
+> P2: I don't know, more or less that I have to create another account, create a new password and user ID for another area.
 
 00:06:34.000 --> 00:06:38.000
 
-> And I'm sensing a little bit of confusion like it's not feeling super clear yet.
-
-00:06:38.000 --> 00:06:39.000
-
-> Is that true?
+> M: And I'm sensing a little bit of confusion like it's not feeling super clear yet. Is that true?
 
 00:06:39.000 --> 00:06:49.000
 
-> Correct. Yeah, I'm not real sure what the Ds login site is off it.
-
-00:06:49.000 --> 00:06:50.000
-
-> Yeah.
-
-00:06:50.000 --> 00:06:51.000
-
-> Top. My head. Okay, that's where the confusion is.
-
-00:06:51.000 --> 00:06:55.000
-
-> And I'm like, okay, if that's the original login site.
-
-00:06:55.000 --> 00:07:00.000
-
-> That's fine. And I'm used to creating other usernames and passwords.
-
-00:07:00.000 --> 00:07:10.000
-
-> And other accounts for thanks.
-
-00:07:10.000 --> 00:07:16.000
-
-> No!
-
-00:07:16.000 --> 00:07:17.000
-
-> Correct.
+> P2: Correct. Yeah, I'm not real sure what the DS Logon site is off the top of my head. That's where the confusion is. And I'm like, okay, if that's the original login site, that's fine. And I'm used to creating other usernames and passwords. And other accounts for things.
 
 00:07:17.000 --> 00:07:19.000
 
-> Okay, that makes sense. So it's not so much confusing that you'd have to set up another account but it's but it's quite confusing that you're not really sure what Ds log on is okay, that's helpful.
+> M: Okay, that makes sense. So it's not so much confusing that you'd have to set up another account but it's quite confusing that you're not really sure what DS Logon is. Okay, that's helpful.
 
 00:07:19.000 --> 00:07:24.000
 
-> And so what is this email asking you to do?
+> M: And so what is this email asking you to do?
 
 00:07:24.000 --> 00:07:31.000
 
-> I'll go to logging.gov and create an account, you know, so I can access.
-
-00:07:31.000 --> 00:07:33.000
-
-> You guys, my records.
+> P2: I'll go to Login.gov and create an account, you know, so I can access my records.
 
 00:07:33.000 --> 00:07:35.000
-Uhhuh. And when you read this email, let's say you decided.
 
-00:07:35.000 --> 00:07:46.000
-I don't want to set up an account. What do you think would happen if you didn't set up an account?
+> M: And when you read this email, let's say you decided not to set up an account. What do you think would happen if you didn't set up an account?
 
 00:07:46.000 --> 00:07:48.000
-I won't be able to access anything on the Internet.
+
+> P2: I won't be able to access anything on the internet.
 
 00:07:48.000 --> 00:07:51.000
-Okay.
 
-00:07:51.000 --> 00:07:54.000
-Yeah.
-
-00:07:54.000 --> 00:08:11.000
-And so, if you were someone who was reading this and wasn't completely sure what Ds log on was, but knew that you'd receive this and it's telling you to set up an account, otherwise you might not be able to access anything on the Internet what would you do next and you'll have to try and imagine you
-
-00:08:11.000 --> 00:08:16.000
-know this kind of hypothetical scenario.
+> M: Okay. And so, if you were someone who was reading this and wasn't completely sure what DS Logon was, but knew that you'd receive this and it's telling you to set up an account, otherwise you might not be able to access anything on the internet, what would you do next?
 
 00:08:16.000 --> 00:08:21.000
-I wouldn't say if I did not recognize the Ds Login account information.
 
-00:08:21.000 --> 00:08:24.000
-Haven't just deleted.
+> P2: I would say if I did not recognize the DS Logon account information, I'd just delete the email.
 
 00:08:24.000 --> 00:08:30.000
-Okay, yeah. So it feels like it might not be relevant for you, or you're not exactly sure what it is.
 
-00:08:30.000 --> 00:08:31.000
-And so you might ignore the email.
+> M: Okay, yeah. So it feels like it might not be relevant for you, or you're not exactly sure what it is. And so you might ignore the email.
 
 00:08:31.000 --> 00:08:38.000
-Oh, yeah, I just the way things are with fishing and scams and stuff like that.
 
-00:08:38.000 --> 00:08:45.000
-If I don't, if people don't recognize the site off, you know, right off the top of their head, they're gonna delete it.
-
-00:08:45.000 --> 00:08:46.000
-Or not even open it up.
+> P2: Oh, yeah, just the way things are with phishing and scams and stuff like that. If I don't recognize the site right off the top of my head, I'm gonna delete it. Or not even open it up.
 
 00:08:46.000 --> 00:08:50.000
-Yeah, I think that makes a lot of sense. Right? Yeah, that makes sense.
+
+> M: Yeah, I think that makes a lot of sense.
 
 00:08:50.000 --> 00:09:03.000
-So if I told you you needed to set up a login.gov account, what comes to mind any sort of reaction to that?
+
+> M: So if I told you you needed to set up a Login.gov account, what comes to mind? Any sort of reaction to that?
 
 00:09:03.000 --> 00:09:05.000
-Not really no, no, I.
+
+> P2: Not really no.
 
 00:09:05.000 --> 00:09:09.000
-Okay, it. Sounds like you've set up some accounts in the past.
 
-00:09:09.000 --> 00:09:10.000
-Oh, yeah.
-
-00:09:10.000 --> 00:09:13.000
-So!
-
-00:09:13.000 --> 00:09:14.000
-Okay.
+> M: Okay, it. Sounds like you've set up some accounts in the past.
 
 00:09:14.000 --> 00:09:17.000
-Yeah, that's what I was doing this morning. I've been doing about 6 of them.
+
+> P2: Yeah, that's what I was doing this morning. I've been doing about 6 of them.
 
 00:09:17.000 --> 00:09:26.000
-6 of them. Oh, gosh, okay, yeah. So it sounds like something you're used to being asked to do.
+
+> M: 6 of them. Oh, gosh, okay, yeah. So it sounds like something you're used to being asked to do.
 
 00:09:26.000 --> 00:09:35.000
-Maybe, okay. So for the purpose of the rest of our conversation, [participant 2], and I'm gonna explain a little bit about Ds log on now.
 
-00:09:35.000 --> 00:09:39.000
-So Ds logon is another way that you can sign into Va. Services.
-
-00:09:39.000 --> 00:09:42.000
-So we were talking about how you use my healthy vet.
-
-00:09:42.000 --> 00:10:00.000
-You choose that sign in Ds. Logon is another sign in option that you can use, and so I can see how it's slightly confusing, because you're used to using my healthy vet, so what we can do is maybe just imagine that this email said you know my healthy bet will stop working soon and we
-
-00:10:00.000 --> 00:10:02.000
-need you to set up a login.gov account.
+> M: Okay. So for the purpose of the rest of our conversation, and I'm gonna explain a little bit about DS Logon now. DS Logon is another way that you can sign into VA services. So we were talking about how you use MHV to sign in. DS Logon is another sign in option that you can use. And so I can see how it's slightly confusing, because you're used to using MHV. So what we can do for today is try to imagine that this email said you know MHV will stop working soon and we need you to set up a Login.gov account.
 
 00:10:02.000 --> 00:10:07.000
-How would that may be change? How you reacted to the email.
+
+> M: How would that may be change how you reacted to the email?
 
 00:10:07.000 --> 00:10:10.000
-Well, I know I'm I'm familiar with the site.
 
-00:10:10.000 --> 00:10:18.000
-Then I would take the proper. I would take the proper steps to create the new account. There.
-
-00:10:18.000 --> 00:10:19.000
-Yeah.
+> P2: Well, I know I'm familiar with the MHV site. So then I would take the proper steps to create the new account.
 
 00:10:19.000 --> 00:10:24.000
-Okay, yeah. So you'd feel less kind of hesitant or like, this might be phishing because you recognize the name.
+
+> M: Okay, yeah. So you'd feel less hesitant or like this might be phishing because you recognize the name, MHV.
 
 00:10:24.000 --> 00:10:26.000
-Correct.
+
+> P2: Correct.
 
 00:10:26.000 --> 00:10:33.000
-Okay, yeah, I think that makes sense. And again, imagining this, said, my healthy, that will stop working soon.
 
-00:10:33.000 --> 00:10:41.000
-If you had any questions about what you were reading in this email, what would you do?
+> M: Okay yeah, that makes sense. And again, imagining this, said, MHV will stop working soon, if you had any questions about what you were reading in this email, what would you do?
 
 00:10:41.000 --> 00:10:51.000
-Let's see here. I'll look for a phone number for for a support group.
 
-00:10:51.000 --> 00:10:52.000
-Yeah, is that phone number.
-
-00:10:52.000 --> 00:10:56.000
-There's support, help line so I could contact them. Make sure that Yup, to make sure that this is legit.
+> P2: Let's see here. I'll look for a phone number for a support group. [sees phone number] Yeah, that phone number. There's a support help line so I could contact them. To make sure that this is legit.
 
 00:10:56.000 --> 00:10:59.000
-Okay, so that might be the question you have is a phone number.
 
-00:10:59.000 --> 00:11:06.000
-Yet your preference when you're trying to contact the vendor, or really any kind of service.
+> M: Okay, so that might be the question you have. Is a phone number your preference when you're trying to contact the VA, or any type of service?
 
 00:11:06.000 --> 00:11:08.000
-Talk to a live person. Yes.
+
+> P2: Talk to a live person. Yes.
 
 00:11:08.000 --> 00:11:19.000
-Okay. Yeah, that's helpful. So what we're gonna do next, [participant 2] is, we're gonna imagine that you decided to continue today to set up this account.
 
-00:11:19.000 --> 00:11:24.000
-Okay. So if you wanted to set up the account, what would you do next?
+> M: Okay. Yeah, that's helpful. So what we're gonna do next is imagine that you decided to continue today to set up this account. Okay. So if you wanted to set up the account, what would you do next?
 
 00:11:24.000 --> 00:11:27.000
-Of one thing I would print off this email, so that I can rough it.
 
-00:11:27.000 --> 00:11:31.000
-Yeah.
-
-00:11:31.000 --> 00:11:35.000
-It's just me. I can't remember things, and I can't go back and forth.
+> P2: Well one thing I would print off this email, so that I can reference it. It's just me. I can't remember things, and I can't go back and forth.
 
 00:11:35.000 --> 00:11:44.000
-Yeah. Can you tell me more about that? So when you say you know you wouldn't want to print the email, and you don't want to go back and forth.
 
-00:11:44.000 --> 00:11:45.000
-Is that? Are you kind of speaking to like wanting to have one thing open on the computer at a time?
+> M: Yeah. Can you tell me more about that? So when you say you know you wouldn't want to print the email, and you don't want to go back and forth. Are you kind of speaking to like wanting to have one thing open on the computer at a time?
 
 00:11:45.000 --> 00:11:48.000
-I just get, yeah.
+
+> P2: I just get, yeah.
 
 00:11:48.000 --> 00:11:51.000
-And so you'd rather have the printout next to you.
+
+> M: And so you'd rather have the printout next to you.
 
 00:11:51.000 --> 00:11:52.000
-Correct. Yup.
+
+> P2: Correct. Yup.
 
 00:11:52.000 --> 00:11:57.000
-That's helpful. Okay?
 
-00:11:57.000 --> 00:11:58.000
-Yeah.
+> M: That's helpful. Okay.
 
 00:11:58.000 --> 00:11:59.000
-That's just me, you know, I just for yeah.
 
-00:11:59.000 --> 00:12:05.000
-But yeah, then I will walk. Look at the email and make sure that go through the steps.
-
-00:12:05.000 --> 00:12:13.000
-And yeah, go to Va dot Cov and sign in with my login and account and follow that instructions.
+> P2: That's just me, you know. But yeah, then I will look at the email and make sure that go through the steps. And yeah, go to VA.gov and sign in with my login and account and follow the instructions.
 
 00:12:13.000 --> 00:12:15.000
-Okay, perfect. So yeah, that makes sense. So it sounds kind of straightforward.
 
-00:12:15.000 --> 00:12:24.000
-If you decided to set up an account. So let's go ahead and click on that blue button that you see there.
+> M: Okay, perfect. So yeah, that makes sense. So it sounds kind of straightforward if you decided to set up an account. So let's go ahead and click on that blue button that you see there.
 
 00:12:24.000 --> 00:12:26.000
-Go to the Da.
+
+> P2: Go to the VA?
 
 00:12:26.000 --> 00:12:31.000
-Yeah, that's perfect.
+
+> M: Yeah, that's perfect.
 
 00:12:31.000 --> 00:12:36.000
-Okay. So I think, it might be loading. It looks a little blurry.
+
+> M: Okay. So I think, it might be loading. It looks a little blurry. Okay, we'll give it a second.
 
 00:12:36.000 --> 00:12:37.000
-Yup!
 
-00:12:37.000 --> 00:12:39.000
-Does it look a little blurry for you? Okay, we'll give it a second.
+> P2: Yup!
 
 00:12:39.000 --> 00:12:47.000
-So we can kind of see it. It's a little blurry, but it's a sign in screen, right?
 
-00:12:47.000 --> 00:12:51.000
-And it's showing us a couple of different options, is it?
-
-00:12:51.000 --> 00:12:56.000
-Does this look familiar?
-
-00:12:56.000 --> 00:12:58.000
-Not off the top. My head! No!
-
-00:12:58.000 --> 00:12:59.000
-Yeah.
-
-00:12:59.000 --> 00:13:07.000
-Well it might. The 4 choices!
-
-00:13:07.000 --> 00:13:09.000
-Oh, yeah, but I can't make them out. So maybe like.
-
-00:13:09.000 --> 00:13:12.000
-Yeah, that's not part of the test. The blur.
-
-00:13:12.000 --> 00:13:13.000
-No!
-
-00:13:13.000 --> 00:13:16.000
-Why don't we? Let's try and refresh the page.
-
-00:13:16.000 --> 00:13:30.000
-So, Dean, how to refresh the page. Yeah, up there, let's try that and see if it makes it a little less blurry.
+> M: Let's try to refresh the page. Yeah, up there, let's try that and see if it makes it a little less blurry.
 
 00:13:30.000 --> 00:13:31.000
-Oh! There we go! Perfect!
+
+> M: Oh! There we go! Perfect!
 
 00:13:31.000 --> 00:13:35.000
-Ariel, yeah, this. Okay, yeah, yeah, that recognizes. Yeah.
 
-00:13:35.000 --> 00:13:38.000
-Like, I said, Yeah, then I usually go down to my my health.
-
-00:13:38.000 --> 00:13:40.000
-Vet.
+> P2: Okay, yeah, yeah, that I recognize. Yeah. Like, I said, then I usually go down to MHV.
 
 00:13:40.000 --> 00:13:42.000
-Okay, so this looks familiar. Yeah, usually, you'd click my healthy.
+
+> M: Okay, so this looks familiar. Usually, you'd click MHV.
 
 00:13:42.000 --> 00:13:43.000
-Oh, yeah.
+
+> P2: Oh, yeah.
 
 00:13:43.000 --> 00:13:51.000
-That, okay, perfect. So after reading that email, we had decided we were gonna set up this login.gov account.
+
+> M: That, okay, perfect. So after reading that email, we had decided we were gonna set up this Login.gov account.
 
 00:13:51.000 --> 00:13:56.000
-So we open the sign in screen. And what are we going to do next?
+
+> M: So we open the sign in screen. And what are we going to do next?
 
 00:13:56.000 --> 00:14:05.000
-The login. Gov, click on that one, or actually, or create an account.
 
-00:14:05.000 --> 00:14:09.000
-Pro create an account, since I would assume I don't have one.
-
-00:14:09.000 --> 00:14:10.000
-Yeah.
+> P2: The Login.gov, click on that one, or actually, or create an account [link below sign in options]. I would create an account, since I would assume I don't have one.
 
 00:14:10.000 --> 00:14:11.000
-Okay, so you've gotten an email telling you to set up login.
 
-00:14:11.000 --> 00:14:18.000
-Gov. And so you open va.gov, and you're like, Okay, I've got a setup login.gov.
+> M: Okay, so you've gotten an email telling you to set up Loging.gov and so you open VA.gov, and you're like, okay, I've got to setup Login.gov.
 
 00:14:18.000 --> 00:14:19.000
-Yup!
+
+> P2: Yup!
 
 00:14:19.000 --> 00:14:24.000
-That makes sense alright. So I'm gonna throw a like a curveball at you.
 
-00:14:24.000 --> 00:14:30.000
-Now, so the next thing that we're actually gonna do now is sign in with Ds log on.
-
-00:14:30.000 --> 00:14:31.000
-If I tell you we're gonna sign in with Ds log on.
-
-00:14:31.000 --> 00:14:36.000
-Remember that email said, you have a Ds log on account it's going away soon.
-
-00:14:36.000 --> 00:14:38.000
-We need you to set up login. Gov. And now I'm telling you to sign in with Ds.
-
-00:14:38.000 --> 00:14:44.000
-Log on. How do you react to that?
+> M: That makes sense alright. So I'm gonna throw a curveball at you. So the next thing that we're actually gonna do now is sign in with DS Logon. If I tell you we're gonna sign in with DS Logon – remember that email said, you have a DSL account it's going away soon and we need you to set up Login.gov – and now I'm telling you to sign in with DSL. How do you react to that?
 
 00:14:44.000 --> 00:14:48.000
-Little confused, and ask, why?
+
+> P2: Little confused, and ask, why?
 
 00:14:48.000 --> 00:14:54.000
-Yeah. What if you wanted to ask someone, why, right now, do you know what you would do?
+
+> M: Yeah. What if you wanted to ask someone, why, right now, do you know what you would do?
 
 00:14:54.000 --> 00:14:56.000
-Call that number.
+
+> P2: Call that number.
 
 00:14:56.000 --> 00:15:04.000
-Yeah. Okay. Do you think of yourself as a patient enough person that you might decide to call that number?
+
+> M: Yeah. Okay. Do you think of yourself as a patient enough person that you might decide to call that number?
 
 00:15:04.000 --> 00:15:07.000
-Oh, yeah, I'll call him and sit. Yeah.
+
+> P2:Oh, yeah, I'll call them. Yeah.
 
 00:15:07.000 --> 00:15:12.000
-Okay, yeah, that's helpful. So I'm gonna let us continue.
+
+> M: Okay, yeah, that's helpful. So I'm gonna let us continue.
 
 00:15:12.000 --> 00:15:15.000
-Now, [participant 2], and I know that you use my healthy vet to sign in.
 
-00:15:15.000 --> 00:15:18.000
-So you're gonna have to use a little bit of an imagination today.
-
-00:15:18.000 --> 00:15:21.000
-And we're going to pretend like you use Ds log on.
-
-00:15:21.000 --> 00:15:22.000
-Hey!
-
-00:15:22.000 --> 00:15:32.000
-Okay. So if you click on Ds log on next and then we're just gonna continue as if you're signing in with Ds log on today, so we won't have you put in a username and password again, this is just a prototype.
-
-00:15:32.000 --> 00:15:41.000
-So it's not real. We're gonna have you just click login. Now.
-
-00:15:41.000 --> 00:15:45.000
-Do you see a lot in? Yeah, that's perfect. Alright.
+> M: Now, [participant 2], and I know that you use MHV to sign in. So you're gonna have to use a little bit of an imagination today. And we're going to pretend like you use DSL. Okay. So if you click on DSL next, and then we're just gonna continue as if you're signing in with DSL today, so we won't have you put in a username and password again, this is just a prototype. We're gonna have you just click login now. Yeah, that's perfect. Alright.
 
 00:15:45.000 --> 00:15:48.000
-So we're gonna stay on this page for a minute. Now.
 
-00:15:48.000 --> 00:15:53.000
-Okay, so I'm gonna give you a minute to read this more closely.
+> M: So we're gonna stay on this page for a minute now. Okay, so I'm gonna give you a minute to read this more closely.
 
 00:15:53.000 --> 00:16:23.000
 And then, same thing. I'll ask you to summarize what you've read to me.
