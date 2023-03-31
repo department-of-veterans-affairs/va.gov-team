@@ -46,6 +46,10 @@ Q: In consideration for field update, would it be fair to have logic: If RX Stat
 **Q5:** Does "no longer fillable" mean "renewable" or "refillable?" 
   
 **A: [Eric]: neither; it means 'not fillable/refillable' and it may or may not be renewable. NOTE: MHV does not have a 'renewal request' path, only a user-initiated secure messaging that is not directly associated with the pharmacy module (we're working to create this experience).**
+
+**Q5a:** What's the difference between fillable and refillable? (And these are different than renewable.)
+
+**A: [Eric]: Fillable is related to the Parked status. That is when a provider writes a Veteran a prescription but it's not filled yet. It's on the Veteran to take action on it. That's why it's called fillable. Refillable is related to actually refilling a prescription that has previously been filled.
   
 **Q6:** Can we confirm this doesn't relate to the pills expiration use? 
   
