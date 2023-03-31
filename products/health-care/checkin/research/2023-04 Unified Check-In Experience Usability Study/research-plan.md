@@ -139,13 +139,13 @@ Maximum sessions per day:
 
 ## Team Roles
 
-Moderator: Ben Brasso
-Research guide writing and task development: Ben Brasso, Christina Gednalske
-Participant recruiting & screening: Perigean 
-Project point of contact: Ben Brasso
-Participants for pilot test: 
-Accessibility specialist: 
-Note-takers: Perigean
+Moderator: Ben Brasso </br>
+Research guide writing and task development: Ben Brasso, Christina Gednalske</br>
+Participant recruiting & screening: Perigean </br>
+Project point of contact: Ben Brasso</br>
+Participants for pilot test: </br>
+Accessibility specialist: </br>
+Note-takers: Perigean</br>
 Observers: 
 - Stephen Barrs
 - Patrick Bateman
