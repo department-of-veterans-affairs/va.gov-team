@@ -1,7 +1,10 @@
-Date|Description|MHV/Tracking API Field|MHV Database|Vista Field?|Displayed on Web as| Displayed on Mobile as|Comment/Notes|
-|-------|----|-------|-------|-------|-------|-------|--------|
+### Date Definitions
+
+
+| Date | Description | MHV/Tracking API Field | MHV Database | Vista Field? | Displayed on Web as | Displayed on Mobile as| Comment/Notes|
+| :---| :-------------------------| :-----| :-------| :-------| :--------| :--------| :-----------------|
 |~~**Last Fill Date**~~|~~This field is used to indicate the last date the prescription was filled. The dates in this field will be the date of the last renew from a previous rx, and any subsequent fills. VistA field name is FILL DATE.~~||||
-|**Fill Date**|This date is the estimated RX fill date|refilldate|PRESCRIPTIONS.LAST_FILL_DATE|RX-52,FILLDATE(22), RF-52.1,REFILL DATE(.01), PR-52.2,PARTIAL DATE(.01) *shown in ICD as 'Last Fill Date' but that is inaccurate||Prescription History List& Details Screen: Fill date|
+|**Fill Date**| This date is the estimated RX fill date|refilldate|PRESCRIPTIONS.LAST_FILL_DATE|RX-52,FILLDATE(22), RF-52.1,REFILL DATE(.01), PR-52.2,PARTIAL DATE(.01) *shown in ICD as 'Last Fill Date' but that is inaccurate||Prescription History List& Details Screen: Fill date|
 |**Expiration Date**|This date is the date on which the prescription is no longer fillable. VistA will always have an expiration date ( unless the RX is pending)|expirationDate |PRESCRIPTIONS.EXPIRATION_CANCEL_DATE|||Prescription History List& Details Screen: Expires on|
 |**Dispensed Date**|This field will be used to show the actual date the medication was dispensed.|dispensedDate|PRESCRIPTIONS.RELEASE_DATE_TIME|||Currently do not show
 |**Cancel Date**|This date is used to indicate when the medication was cancelled.( Value exists only if the medication was cancelled)||||
