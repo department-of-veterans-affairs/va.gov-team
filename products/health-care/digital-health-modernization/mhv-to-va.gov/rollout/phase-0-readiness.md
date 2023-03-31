@@ -1,39 +1,13 @@
 # Phase 0 Readiness
 
-This document is intended to align all impacted decision-makers, stakeholders, and product delivery teams on the phases for rolling out My HealtheVet tools on VA.gov, and to facilitate a shared understanding of activities that should occur before and after moving to Phase 0. 
-
- 
-
-If you have suggestions, questions, or concerns about this document, please contact: 
-
- 
-
-Lauren Alexanderson 
-
-Deputy Chief Technology Officer - Health Delivery 
-
-OCTO 
-
-lauren.alexanderson@va.gov 
-
- 
-
-Leila Rassi 
-
-Health Apartment Product Lead,  
-
-OCTO 
-
-leila.rassi@va.gov 
-
 
 ## Phase 0: Trusted Users 
 
-## Phase 0 Overview 
+### Phase 0 Overview 
 
 Application exists on VA.gov in a published, authenticated state, but can only be found if users know the URL.  
 
-## Phase 0 User Access:
+### Phase 0 User Access:
 
 - User links directly to new VA.gov tool via link provided in email. 
 
