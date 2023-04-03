@@ -175,14 +175,23 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Task: [Step 4: Household Information / Dependents / Experimental Pattern] - 5 minutes
 
-- Step 1
-- Step 2
+- For this scenario, we would like you to answer as if you have 2 dependents.
+- Please answer the questions on this page and proceed through that scenario. You can use fake information for fields like SSN and I can help prompt you with information if needed. 
+
+- [Once added the first dependent] Now can you add that second dependent.
+- [Once both are added] Okay, now let's say you need to make changes to your first dependent - you need to correct their birthdate. Can you please walk me through how you would go about doing that?
+- Can you show me how you could take a dependent off of this application? 
+
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Does the participant need to use the additional info of "Who does VA consider a dependent" to answer the question?]
+- [Does the participant struggle with adding a second dependent?]
+- [Does the participant pause or are they confused by any of the dependent information questions?]
+- [Does the participant easily edit and make changes through the dependent edit flow? Do they comment on wanting to see all their answers on a single screen?]
+- [Does the participant comment on the modals when cancel a flow or going to remove a dependent from the application?]
+
+
 
 ## Task: [Step 4: Household Information / Income and Deductibles] - 5 minutes
 
