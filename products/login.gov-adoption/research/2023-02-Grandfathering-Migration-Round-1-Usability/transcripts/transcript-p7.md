@@ -7,535 +7,346 @@
 ### Transcript
 
 00:00:02.000 --> 00:00:06.000
-Okay, I started recording. I'd like to confirm, are you comfortable?
 
-00:00:06.000 --> 00:00:10.000
-If I record my screen and audio as we talk today.
+> Okay, I started recording. I'd like to confirm, are you comfortable if I record my screen and audio as we talk today?
 
 00:00:10.000 --> 00:00:12.000
-Yes.
+
+> Yes.
 
 00:00:12.000 --> 00:00:13.000
-Great. I'd like to start by learning a little bit more about your experience with the Va.
 
-00:00:13.000 --> 00:00:24.000
-And some of our online services. How long have you been a veteran?
-
-00:00:24.000 --> 00:00:27.000
-Oh, you just beated yourself! I can't hear you.
+> Great. I'd like to start by learning a little bit more about your experience with the VA and some of our online services. How long have you been a Veteran?
 
 00:00:27.000 --> 00:00:33.000
-I was medically retired in December of 2015.
 
-00:00:33.000 --> 00:00:37.000
-Okay. Can you repeat that again?
-
-00:00:37.000 --> 00:00:42.000
-Yup. I was medically retired, and December 2015.
+> I was medically retired in December of 2015.
 
 00:00:42.000 --> 00:00:52.000
-Okay, Gotcha. And how often do you go online to access and manage your Va benefits and healthcare?
+
+> Okay, gotcha. And how often do you go online to access and manage your VA benefits and healthcare?
 
 00:00:52.000 --> 00:00:54.000
-Definitely okay. A couple of times a week for sure.
+
+> Definitely a couple of times a week for sure.
 
 00:00:54.000 --> 00:00:59.000
-Okay, yeah, pretty frequently. Do you remember the last time that you signed into the Va.
 
-00:00:59.000 --> 00:01:02.000
-To Va online.
+> Okay, yeah, pretty frequently. Do you remember the last time that you signed into the VA online?
 
 00:01:02.000 --> 00:01:03.000
-Last night.
+
+> Last night.
 
 00:01:03.000 --> 00:01:08.000
-Oh, wow! Great! And why were you signing in last night?
+
+> Oh, wow! Great! And why were you signing in last night?
 
 00:01:08.000 --> 00:01:14.000
-I have a appeal going, and I just was checking status to see if anything had been updated. And I update.
+
+> I have an appeal going, and I just was checking status to see if anything had been updated.
 
 00:01:14.000 --> 00:01:15.000
-Gotcha!
+
+> Gotcha!
 
 00:01:15.000 --> 00:01:22.000
-And I also oh, no, I did that. Friday, Friday I renewed my prescriptions online as well.
+
+> And also on Friday I renewed my prescriptions online as well.
 
 00:01:22.000 --> 00:01:32.000
-Oh, fantastic! Do you remember how you sign into the Va.
+
+> Oh, fantastic! Do you remember how you sign into the VA?
 
 00:01:32.000 --> 00:01:46.000
-Yes, I use the. I have the Va app on my phone, and so I use the Va app, and I think it uses Login Gov as my login procedure.
+
+> Yes, I have the VA app on my phone, and so I use the VA app, and I think it uses Login.gov as my login procedure.
 
 00:01:46.000 --> 00:01:52.000
-Okay, great. And why do you use Login Daca to sign in?
+
+> Okay, great. And why do you use Login.gov to sign in?
 
 00:01:52.000 --> 00:01:57.000
-I know I used to use like Ds log on, or something like that, was what it was called. But once.
 
-00:01:57.000 --> 00:02:04.000
-Once it updated it said there was a more streamlined process, and I had done it.
-
-00:02:04.000 --> 00:02:13.000
-Survey kind of like this with the Va. From and they said it was an easier login, and they walked me through it when I was doing that survey thing, and it was way easier.
-
-00:02:13.000 --> 00:02:15.000
-So I just been using that one.
+> I know I used to use like DS Logon, or something like that, was what it was called? But once it updated it said there was a more streamlined process, and I had done a survey kind of like this with the VA. And they said it was an easier login, and they walked me through it when I was doing that survey thing, and it was way easier. So I just been using that one.
 
 00:02:15.000 --> 00:02:26.000
-Oh, great, great! So you used to use Dslog on, but being able to being introduced to login, you found that it was, you discover that it was easier.
 
-00:02:26.000 --> 00:02:27.000
-So you now use that one.
+> Oh, great, great! So you used to use DS Logon, but being able to be introduced to Login.gov you discovered that it was easier. So you now use that one.
 
 00:02:27.000 --> 00:02:31.000
-Yeah, and I, I think now I can use with the S or with the login.
 
-00:02:31.000 --> 00:02:36.000
-Gov, I can use my fingerprint, so I fingerprint login on the Va.
-
-00:02:36.000 --> 00:02:37.000
-With!
+> Yeah, and I think now I can use – with the Login.gov – I can use my fingerprint, so I fingerprint login with the VA.
 
 00:02:37.000 --> 00:02:40.000
-Okay, that's great.
+
+> Okay, that's great.
 
 00:02:40.000 --> 00:02:49.000
-Is there anything else you want to share with me about signing in before we move on?
+
+> Is there anything else you want to share with me about signing in before we move on?
 
 00:02:49.000 --> 00:02:50.000
-I don't think so.
+
+> I don't think so.
 
 00:02:50.000 --> 00:02:56.000
-Okay, so next, I'd like to share some ideas with you, so we can get your feedback in a minute.
 
-00:02:56.000 --> 00:02:59.000
-I'm gonna send you a link to a prototype.
-
-00:02:59.000 --> 00:03:04.000
-I mentioned earlier that a prototype is like a pretend version of an email or a website.
-
-00:03:04.000 --> 00:03:15.000
-So it's going to look similar. But it won't work as you might expect, because it's not a real email or a website. Are you dialing in from a phone?
+> Okay, so next, I'd like to share some ideas with you, so we can get your feedback in a minute. I'm gonna send you a link to a prototype. I mentioned earlier that a prototype is like a pretend version of an email or a website. So it's going to look similar. But it won't work as you might expect, because it's not a real email or a website. Are you dialing in from a phone?
 
 00:03:15.000 --> 00:03:16.000
-I am. Yes!
+
+> I am. Yes!
 
 00:03:16.000 --> 00:03:26.000
-Okay, actually, I'm gonna need you to call in on your computer.
+
+> Okay, actually, I'm gonna need you to call in on your computer.
 
 00:03:26.000 --> 00:03:28.000
-Oh, you're just muted!
 
-00:03:28.000 --> 00:03:30.000
-Let me go into my office now. We'll do that real quick.
+> Let me go into my office now. We'll do that real quick.
 
 00:03:30.000 --> 00:04:00.000
-Okay, thank you so much.
 
-00:04:20.000 --> 00:04:23.000
-Are you Chris Martinez?
-
-00:04:23.000 --> 00:04:25.000
-Yeah, I don't know why it says that, but yes.
+> Okay, thank you so much.
 
 00:04:25.000 --> 00:04:31.000
-That's okay, I assume. Okay, so I'm gonna meet you here.
 
-00:04:31.000 --> 00:04:34.000
-Okay. Great.
-
-00:04:34.000 --> 00:04:36.000
-Perfect. Okay? So I'm gonna share that prototype with you in the chat.
-
-00:04:36.000 --> 00:04:47.000
-I'm gonna say.
-
-00:04:47.000 --> 00:04:50.000
-There we go!
-
-00:04:50.000 --> 00:05:01.000
-If you can open up that link on your computer. And are you familiar with sharing your screen in Zoom?
+> Perfect. Okay? So I'm gonna share that prototype with you in the chat. If you can open up that link on your computer. And are you familiar with sharing your screen in Zoom?
 
 00:05:01.000 --> 00:05:06.000
-Oh, I'm getting you to unmute yourself on, either on your phone or on your laptop.
 
-00:05:06.000 --> 00:05:08.000
-I think I am. I see here real quick.
+> I think I am. I see here real quick.
 
 00:05:08.000 --> 00:05:20.000
-Okay. I can walk you through it, if not.
+
+> Okay. I can walk you through it, if not.
 
 00:05:20.000 --> 00:05:22.000
-Okay, maybe I do need help. So.
+
+> Okay, maybe I do need help. So.
 
 00:05:22.000 --> 00:05:28.000
-Okay, sure. So if you come back to. So you've opened up that link in a browser.
+
+> Okay, sure. So you've opened up that link in a browser.
 
 00:05:28.000 --> 00:05:42.000
-Yes.
+
+> Yes.
 
 00:05:42.000 --> 00:05:43.000
-Oh, yeah, got it?
 
-00:05:43.000 --> 00:05:47.000
-Great. So if you come back to the zoom application on your laptop. Down at the bottom of the screen of the zoom window there should be a green button that says, share screen great.
-
-00:05:47.000 --> 00:06:00.000
-Perfect, and I can see what you're looking at. If you want to make that a little bit bigger, then I can I can get a better look.
-
-00:06:00.000 --> 00:06:01.000
-So!
-
-00:06:01.000 --> 00:06:07.000
-Make that perfect wonderful. Okay, so now that you have this open, I'd like to I'd like you to start by imagining that you've just received and I'm gonna give you a second to read this more closely now.
-
-00:06:07.000 --> 00:06:37.000
-And when you're finished I'd like you to summarize what you've read.
+> Great. So if you come back to the zoom application on your laptop. Down at the bottom of the screen of the zoom window there should be a green button that says, share screen. Great. Perfect, and I can see what you're looking at. If you want to make that a little bit bigger, then I can get a better look. Okay, so now that you have this open, I'd like you to start by imagining that you've just received this email, and I'm gonna give you a second to read this more closely now. And when you're finished I'd like you to summarize what you've read.
 
 00:06:58.000 --> 00:06:59.000
-Okay.
 
-00:06:59.000 --> 00:07:05.000
-Okay, so it just looks like, it's telling me that the Ds log on will soon stop working.
-
-00:07:05.000 --> 00:07:07.000
-So it's want me to create the Login Dot.
+> Okay. So it just looks like, it's telling me that the DS Logon will soon stop working. So it's want me to create the Login.gov.
 
 00:07:07.000 --> 00:07:09.000
-Gov, okay.
 
-00:07:09.000 --> 00:07:14.000
-Okay? And do you have any initial questions? After reading this email?
+> And do you have any initial questions? After reading this email?
 
 00:07:14.000 --> 00:07:18.000
-I don't think so. It's pretty straightforward.
+
+> I don't think so. It's pretty straightforward.
 
 00:07:18.000 --> 00:07:21.000
-And what is the email asking you to do?
+
+> And what is the email asking you to do?
 
 00:07:21.000 --> 00:07:26.000
-There's a blue link that says, Go to va.gov. To create an account.
+
+> There's a blue link that says, go to VA.gov to create an account.
 
 00:07:26.000 --> 00:07:31.000
-Okay. And in this scenario you've just received this this email.
 
-00:07:31.000 --> 00:07:39.000
-And would you be interested in sending up a login account right now?
+> Okay. And in this scenario you've just received this this email. And would you be interested in sending up a Login.gov account right now?
 
 00:07:39.000 --> 00:07:49.000
-Yeah, because I'd want to continue being able to get my Va, I just want to continue to be able to view my account.
+
+> Yeah, because I'd want to continue being able to get my VA, I just want to continue to be able to view my account.
 
 00:07:49.000 --> 00:08:01.000
-Do you have any hesitations about setting up a login account?
+
+> Do you have any hesitations about setting up a Login.gov account?
 
 00:08:01.000 --> 00:08:02.000
-Right.
 
-00:08:02.000 --> 00:08:09.000
-No, I mean like, I said. I already have one, but I I didn't see when I initially, when I got the email from the Web sort of thing that I did. It was pretty straight.
-
-00:08:09.000 --> 00:08:12.000
-I mean, it was kind of straightforward like pretty straightforward like this, and it was just, you know, saying, Hey, it's still secure.
-
-00:08:12.000 --> 00:08:16.000
-This is a login, that government we're just going away.
-
-00:08:16.000 --> 00:08:17.000
-And so I get, you know, things change and times change things.
-
-00:08:17.000 --> 00:08:24.000
-So I don't think it would be any issue at all.
+> No, I mean like, I said, I already have one, but I didn't see when I initially, when I got the email from the web sort of thing that I did. It was kind of straightforward – like pretty straightforward – and it was just, you know, saying, hey, it's still secure. This is a login, the DS Logon is going away. And so I get, you know, things change and times change things. So I don't think it would be any issue at all.
 
 00:08:24.000 --> 00:08:31.000
-Great. Why do you think the Va. Is recommending that you set up a long and Gov. Account?
+
+> Great. Why do you think the VA is recommending that you set up a Login.gov account?
 
 00:08:31.000 --> 00:08:40.000
-That I don't know I'm guessing that stuff, just, you know, gets out of date, and you just it's time for upgrades and migrations and stuff like that.
 
-00:08:40.000 --> 00:08:42.000
-So that's.
+> That, I don't know. I'm guessing that stuff, just, you know, gets out of date, and it's time for upgrades and migrations and stuff like that.
 
 00:08:42.000 --> 00:08:48.000
-If you had a question about that email, what would you do?
+
+> If you had a question about that email, what would you do?
 
 00:08:48.000 --> 00:08:57.000
-Honestly, I probably reach out to other retrofit, gotten the same thing, or had any questions.
 
-00:08:57.000 --> 00:09:02.000
-Otherwise I'd probably I'd go to the bottom, and I know usually the bottom of the page.
-
-00:09:02.000 --> 00:09:06.000
-You can say contact us, or whatever, and kind of get some questions answered.
-
-00:09:06.000 --> 00:09:08.000
-So that's probably what go to.
+> Honestly, I probably reach out to other Veterans, gotten the same thing, or had any questions. Otherwise I'd probably I'd go to the bottom, and I know usually the bottom of the page. You can say contact us, or whatever, and kind of get some questions answered. So that's probably what I'd go to.
 
 00:09:08.000 --> 00:09:14.000
-Gotcha. Okay? Well, yeah. So we've already clicked ahead on that button.
 
-00:09:14.000 --> 00:09:24.000
-And is this page what you expected to see after after seeing that email? This is where you thought you'd end up.
+> Gotcha. Okay? Well, yeah. So we've already clicked ahead on that button. And is this page what you expected to see after after seeing that email? This is where you thought you'd end up.
 
 00:09:24.000 --> 00:09:33.000
-Yeah, I figure it would take me to a login account, and I did say it did say the login that I could log in with my Ds log on. Still, I didn't say that it was completely shut down.
 
-00:09:33.000 --> 00:09:37.000
-Yet, so I see that I can do that or I can go to my healthy business.
-
-00:09:37.000 --> 00:09:40.000
-Id me or login that gov so.
+> Yeah, I figure it would take me to a login account, and I did say it did say the login that I could log in with my DS Logon. Still, I didn't say that it was completely shut down yet, so I see that I can do that or I can go to My HealtheVet, ID.me or Login.gov.
 
 00:09:40.000 --> 00:09:44.000
-Okay. And can you tell me what you would do next?
+
+> Okay. And can you tell me what you would do next?
 
 00:09:44.000 --> 00:09:47.000
-For me. I would, I guess, since I already have one.
 
-00:09:47.000 --> 00:09:57.000
-It's kinda different. But because of the email, I I would click on, create an account with login dugup. Cause that's what the email was at.
+> For me. I would, I guess, since I already have one it's kinda different. But because of the email, I would click on, create an account with Login.gov. Cause that's what the email was about.
 
 00:09:57.000 --> 00:09:59.000
-Okay.
 
-00:09:59.000 --> 00:10:13.000
-Okay. Earlier, you mentioned that the email said that you needed to log in with Ds log on with.
+> Okay. Earlier, you mentioned that the email said that you needed to log in with DS Logon.
 
 00:10:13.000 --> 00:10:17.000
-I would probably jump because the email was saying that they were gonna go away from Ds. Logon.
 
-00:10:17.000 --> 00:10:21.000
-I would probably create, go to create an account with logit.gov.
+> I would probably jump because the email was saying that they were gonna go away from DS Logon. I would probably go to create an account with Login.gov.
 
 00:10:21.000 --> 00:10:29.000
-Okay, okay, well, today, we're going to imagine that you're gonna sign in with Ds logon.
 
-00:10:29.000 --> 00:10:36.000
-So you can click and we're gonna pretend that you've entered in your username and password.
-
-00:10:36.000 --> 00:10:44.000
-Yup, and before we read in detail, can you describe to me what we're looking at?
+> Okay, okay, well, today, we're going to imagine that you're gonna sign in with DS Logon. So you can click and we're gonna pretend that you've entered in your username and password. Yup, and before we read in detail, can you describe to me what we're looking at?
 
 00:10:44.000 --> 00:10:45.000
-So it looks like once I got logged in, it's saying that it's taking me.
 
-00:10:45.000 --> 00:10:56.000
-Away, taking me away from the Vg.
-
-00:10:56.000 --> 00:11:03.000
-So it looks to me like it's gonna automatically take me to login.gov, or I can click to stay here if I wanna not do it right there.
+> So it looks like once I got logged in, it's saying that it's taking me away, taking me away from the VA. So it looks to me like it's gonna automatically take me to Login.gov, or I can click to stay here if I wanna not do it right now.
 
 00:11:03.000 --> 00:11:08.000
-Okay. And why do you think this appeared on your screen?
+
+> Okay. And why do you think this appeared on your screen?
 
 00:11:08.000 --> 00:11:19.000
-I'm guessing. It's just because the email where it stated that login was gonna be required after the Dsloga went away.
 
-00:11:19.000 --> 00:11:25.000
-And so I'm just guessing it's trended now to get you that way, to get you to take care of it. Now.
+> I'm guessing it's just because the email, where it stated that Login.gov was gonna be required after the DS Logon went away. And so I'm just guessing it's trended now to get you that way, to get you to take care of it now.
 
 00:11:25.000 --> 00:11:31.000
-Okay? And do you have any initial questions after?
+
+> Okay? And do you have any initial questions after?
 
 00:11:31.000 --> 00:11:33.000
-I don't think so.
+
+> I don't think so.
 
 00:11:33.000 --> 00:11:37.000
-What do you expect to happen next?
+
+> What do you expect to happen next?
 
 00:11:37.000 --> 00:11:42.000
-I mean at this point, just to get done. I'd probably click on. Continue to login.
 
-00:11:42.000 --> 00:11:49.000
-. Gov. And go through that process to create the new account.
+> I mean at this point, just to get done. I'd probably click on continue to Login.gov. And go through that process to create the new account.
 
 00:11:49.000 --> 00:11:54.000
-Okay.
 
-00:11:54.000 --> 00:11:59.000
-Okay, so let's go ahead and setup login.gov.
-
-00:11:59.000 --> 00:12:09.000
-And on the next couple of screens I'd like for you to describe out loud what you would do next.
+> Okay. Okay, so let's go ahead and setup Login.gov. And on the next couple of screens I'd like for you to describe out loud what you would do next.
 
 00:12:09.000 --> 00:12:10.000
-Okay.
 
-00:12:10.000 --> 00:12:13.000
-If you have a question. So what we would do on this page.
+> So what we would do on this page?
 
 00:12:13.000 --> 00:12:23.000
-So on this page. It looks like if I already had a login.gov, I would sign in with username or email password and if I didn't, it does say, first time, user create an account.
 
-00:12:23.000 --> 00:12:29.000
-So as a first time user, I could create an account and click, create account.
+> So on this page, it looks like if I already had a Login.gov, I would sign in with username or email and password. And if I didn't, it does say, first time, user create an account. So as a first time user, I could click create an account.
 
 00:12:29.000 --> 00:12:34.000
-Do you have any concerns about this page?
+
+> Do you have any concerns about this page?
 
 00:12:34.000 --> 00:12:36.000
-I don't think so. It looks pretty straightforward to me.
+
+> I don't think so. It looks pretty straightforward to me.
 
 00:12:36.000 --> 00:12:43.000
-Okay, so let's so in this scenario, remember, the email wanted you to create an account.
 
-00:12:43.000 --> 00:12:50.000
-So we're gonna click, create.
-
-00:12:50.000 --> 00:12:52.000
-And what would you do on this screen?
+> Okay, so let's so in this scenario, remember, the email wanted you to create an account. So we're gonna click, create. And what would you do on this screen?
 
 00:12:52.000 --> 00:12:56.000
-So it's just asking me for Microsoft.
 
-00:12:56.000 --> 00:13:00.000
-So it enter my email, then my language preference, and then there's a rules of view.
-
-00:13:00.000 --> 00:13:11.000
-So opening that and remaining, and then clicking, I read, I read, I read an accept, and then looks like, continue to continue on the front.
+> So it's just asking me to enter my email, then my language preference, and then there's a rules of use. So opening that and reading, and then clicking, I read an accept, and then looks like, continue.
 
 00:13:11.000 --> 00:13:12.000
-Great. Let's imagine that you've done just that and press.
 
-00:13:12.000 --> 00:13:21.000
-Continue!
-
-00:13:21.000 --> 00:13:25.000
-And what would you do here?
+> Great. Let's imagine that you've done just that and press continue. And what would you do here?
 
 00:13:25.000 --> 00:13:29.000
-So it looks like. According to this, it sent me an email.
 
-00:13:29.000 --> 00:13:32.000
-Was a link to confirm that I entered the current email.
-
-00:13:32.000 --> 00:13:39.000
-So I go back to my email and confirm that link.
-
-00:13:39.000 --> 00:13:48.000
-And then, and it's this check email so I'm guessing this link will take me.
-
-00:13:48.000 --> 00:13:52.000
-I don't know. Receive an email.
-
-00:13:52.000 --> 00:14:00.000
-So I guess if I probably if I I'm guessing, like most websites, go to email, confirm it.
-
-00:14:00.000 --> 00:14:16.000
-This maybe goes away like some with you, confirm or automatically confirms for you on the screens are on waiting. And then if it didn't, if I didn't receive that email, then I can resend it or I can try a different email address, if that, didn't work, I can enter a different email.
+> So it looks like, according to this, it sent me an email with a link to confirm that I entered the current email. So I go back to my email and confirm that link. And then, and it's this check email so I'm guessing this link will take me. I don't know. Receive an email. So I guess if – I'm guessing, like most websites, go to email, confirm it. This maybe goes away like some with you, confirm or automatically confirms for you on the screens are on waiting. And then if it didn't, if I didn't receive that email, then I can resend it or I can try a different email address, if that, didn't work, I can enter a different email.
 
 00:14:16.000 --> 00:14:24.000
-How would you check your email if, like, what device would you use?
+
+> How would you check your email if, like, what device would you use?
 
 00:14:24.000 --> 00:14:30.000
-I mean, I have a laptop at home, but use my phone more than I use anything, so probably might be.
+
+> I mean, I have a laptop at home, but use my phone more than I use anything, so probably might be.
 
 00:14:30.000 --> 00:14:39.000
-Okay, so let's click check email and pretend that you've gone to go check your email.
+
+> Okay, so let's click check email and pretend that you've gone to go check your email.
 
 00:14:39.000 --> 00:14:50.000
-And you can go ahead and read this page and tell me what you would do next.
+
+> And you can go ahead and read this page and tell me what you would do next.
 
 00:14:50.000 --> 00:14:55.000
-So it took me my email, it brought me to the email to confirm it.
 
-00:14:55.000 --> 00:15:02.000
-So looks like if I just click confirm email address, it'll confirm me.
-
-00:15:02.000 --> 00:15:06.000
-So I'll put the I will click to come from email address link in the box.
+> So it took me my email, it brought me to the email to confirm it. So looks like if I just click confirm email address, it'll confirm me. So I'll put the I will click to come from email address link in the box.
 
 00:15:06.000 --> 00:15:13.000
-Okay, let's go ahead and confirm.
 
-00:15:13.000 --> 00:15:17.000
-And what would you do here?
+> Okay, let's go ahead and confirm. And what would you do here?
 
 00:15:17.000 --> 00:15:18.000
-So it's asking me to create a password.
 
-00:15:18.000 --> 00:15:38.000
-It has to be at least 12 characters, so I could create it, and that looks like it has the strength bar here is kind of show me if it's a good password, if it has enough characters and stuff in it, and then just click continue and if I have any questions, of my
-
-00:15:38.000 --> 00:15:43.000
-password. It looks like there's the quick link Tips.
-
-00:15:43.000 --> 00:15:48.000
-To check, answer those questions which is nice?
+> So it's asking me to create a password. It has to be at least 12 characters, so I could create it, and that looks like it has the strength bar here is kind of show me if it's a good password, if it has enough characters and stuff in it, and then just click continue and if I have any questions, of my password. It looks like there's the quick link tips to check, answer those questions which is nice?
 
 00:15:48.000 --> 00:15:57.000
-Thanks. Yes. So let's pretend that you've entered in a password and click control.
 
-00:15:57.000 --> 00:16:09.000
-And can you describe this page to me?
+> Thanks. Yes. So let's pretend that you've entered in a password and click continue. And can you describe this page to me?
 
 00:16:09.000 --> 00:16:19.000
-So it looks like it's just trying to set up another option for security to get into login numbers, which is what I did, that.
 
-00:16:19.000 --> 00:16:26.000
-So I have. I have the touch unlocked the fingerprint unlocked, but it gives other options.
-
-00:16:26.000 --> 00:16:34.000
-A government id are they authentication, application, text or voice, or the list of codes?
-
-00:16:34.000 --> 00:16:38.000
-I'm sorry. It looks like I would just click one of those and then click, continue.
+> So it looks like it's just trying to set up another option for security to get into login numbers, which is what I did, that. So I have. I have the touch unlocked the fingerprint unlocked, but it gives other options. A government id are they authentication, application, text or voice, or the list of codes. It looks like I would just click one of those and then click, continue.
 
 00:16:38.000 --> 00:16:41.000
-And which option would you choose?
+
+> And which option would you choose?
 
 00:16:41.000 --> 00:16:44.000
-I went with the face or touch of mock, so probably, that one.
+
+> I went with the face or touch of mock, so probably, that one.
 
 00:16:44.000 --> 00:16:49.000
-Okay, yeah. So let's click on that one.
 
-00:16:49.000 --> 00:16:54.000
-And then imagine they've set this up.
-
-00:16:54.000 --> 00:16:55.000
-So press, continue!
-
-00:16:55.000 --> 00:16:59.000
-Okay.
-
-00:16:59.000 --> 00:17:07.000
-Okay, so what about this page? Can you describe?
-
-00:17:07.000 --> 00:17:09.000
-The screen that you're seeing.
+> Okay, yeah. So let's click on that one. And then imagine you've set this up. Okay, so what about this page? Can you describe?
 
 00:17:09.000 --> 00:17:14.000
-So it looks like it set up the touch code for me.
 
-00:17:14.000 --> 00:17:18.000
-And then it's give me an option if I wanna add another one.
-
-00:17:18.000 --> 00:17:21.000
-Another method, I'm I'm guessing it'd be one of the other 4.
-
-00:17:21.000 --> 00:17:24.000
-Or 5 options that were on the last page I'm guessing I would click on one another option to give me another backup.
-
-00:17:24.000 --> 00:17:32.000
-One in case, or I could skip it and move on to the next.
+> So it looks like it set up the touch code for me. And then it's give me an option if I want to add another one. Another method, I'm guessing it'd be one of the other 4 or 5 options that were on the last page I'm guessing I would click on one another option to give me another backup one in case, or I could skip it and move on to the next.
 
 00:17:32.000 --> 00:17:36.000
-Okay? And what would you do on this screen?
+
+> Okay? And what would you do on this screen?
 
 00:17:36.000 --> 00:17:45.000
-I would probably just skip a, since I already have a password in my subprint that would probably just skip, for now.
+
+> I would probably just skip, since I already have a password and my fingerprint, I would probably just skip, for now.
 
 00:17:45.000 --> 00:17:49.000
-Okay.
 
-00:17:49.000 --> 00:17:50.000
-Okay.
+> Okay. Well, today, we are going to skip for now. So tell me about this screen that you're seeing. What do you think this means?
 
-00:17:50.000 --> 00:17:57.000
-Well, today, we are going to skip for now. So tell me about this screen that you're seeing.
-
-00:17:57.000 --> 00:18:06.000
-What do you think this means?
+*** here ***
 
 00:18:06.000 --> 00:18:11.000
 So it looks like it's basically confirming my email and just making sure this is the email.
