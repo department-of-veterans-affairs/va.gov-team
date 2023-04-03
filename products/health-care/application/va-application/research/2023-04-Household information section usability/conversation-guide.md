@@ -90,8 +90,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant comment on the first 4 following pages and that they show the same questions with info prefilled if they go the non-sign in route?]
 - [If the participant comments on this, is it positive or negative?]
 
-
-
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty 
 
 
 
@@ -134,7 +139,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 - 2 = Partial completion, some areas were overlooked or task was slightly difficult
 - 3 = Most of the task was completed with little difficulty
 - 4 = All parts of the task were completed with no difficulty 
-
 
 
 ## Task: [Step 4: Household Information / Financial Disclosure] - 3 minutes
@@ -193,6 +197,16 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty 
+
+
+
 ## Task: [Step 4: Household Information / Income and Deductibles] - 5 minutes
 
 - Complete the questions asked on this page. Please talk aloud about the questions and information presented to you here.
@@ -210,24 +224,19 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Task: [Step 5: Insurance Information] - 3 minutes
 
 - Please explain what this section of the form means to you as you work through answering the questions.
-- Step 2
 
 ### Things to watch for:
-[Does the participant understand this question or are they confused and need additional context?]
-[Do the medicaid and medicare questions cause pause or confuse the participant?]
-[How does the participant prefer to search and/or sort facilities?]
-[Does the participant interact with the additional links on the facilities page?]
+- [Does the participant understand this question or are they confused and need additional context?]
+- [Do the medicaid and medicare questions cause pause or confuse the participant?]
 
 
 ## Task: [Step 5: Insurance Information / Facilities] - 2 minutes
 
 - Step 1
-- Step 2
 
 ### Things to watch for:
-
+- [How does the participant prefer to search and/or sort facilities?]
 - [Does the participant interact with the additional links on the facilities page?]
-
 
 
 ## Task: [Step 6: Review] - 3 minutes
