@@ -131,8 +131,8 @@ Planned dates of research:
 
 #### Length of sessions
 
-Session length: < 1 hour for non AT users, < 90 minutes for AT users
-Buffer time between sessions: 30 minutes  
+Session length: < 1 hour for non AT users, < 90 minutes for AT users</br>
+Buffer time between sessions: 30 minutes </br>
 Maximum sessions per day: 
 
 #### Availability 
