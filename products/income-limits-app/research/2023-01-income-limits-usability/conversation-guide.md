@@ -159,7 +159,7 @@ If not, who would it be useful for?
 ### Task 4: [Answer questions in app] 
 How would you use this? Please talk me through what you would do, but **do not** click anywhere yet.
 
-- *(when click on an entry field and then see different info)* This prototype isn't interactive enough to let you enter your own information, but it will jump to a new screen with some information already filled out. I'd like to you tell me what you would enter for yourself or what questions you have about it.
+- *(when click on an entry field and then see different info)* This prototype isn't interactive enough to let you enter your own information, but it will jump to a new screen with some information already filled out. I'd like you to tell me what you would enter for yourself or what questions you have about it.
 
 - *(RECORD all comments and anything confusing re the interactions on each screen of the prototype:)*
   - *Pension--*  
