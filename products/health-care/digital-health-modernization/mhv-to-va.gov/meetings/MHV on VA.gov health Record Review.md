@@ -1,13 +1,10 @@
 ﻿# MHV on VA.gov health Record Review
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
-
 # Meeting Details
- - Meeting Date: 4/3/2023 07:00 AM
+ - Meeting Date: 4/3/2023 07:00 AM Pacific
  - Location: Microsoft Teams Meeting
- - Participants (8
-	 -[Josephs, Meredith S. (she/her/hers)](mailto:Meredith.Josephs@va.gov)
+ - Participants (8 )
+	 - [Josephs, Meredith S. (she/her/hers)](mailto:Meredith.Josephs@va.gov)
 	 - [Alexia Wunder](mailto:alexia.wunder@bylight.com)
 	 - [Bobby M Bailey](mailto:robert.m.bailey@bylight.com)
 	 - [Bunney, Coulton A.](mailto:Coulton.Bunney@va.gov)
@@ -92,7 +89,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 	-   Coulton: We don’t a couple get measurements, but one is for infants.
 	-   Dr. Josephs: You also need to include BMI.
 	-   Coulton: Pain level is in MHV today, but isn't in USCDI. So do we want to continue making pain level available? We have some things that are available in MHV but are not part of the USCDI standard.
-	-   Coulton: I think there is a consistent scale across the VA for pain levels [the Dr.. Shah nods in agreement].
+	-   Coulton: I think there is a consistent scale across the VA for pain levels [Dr. Shah nods in agreement].
 	-   Dr. Josephs: USCDI doesn’t even have pain level in the draft Version 4 which I'm surprised by.
 	-   Dr. Shah: Pain was added as the fifth vital sign by The Joint Commission in 1994 partially in response to the opioid crisis, so it's somewhat controversial. I personally don’t think it's very necessary to keep it, but I'm not the decision maker for this.
 	-   Dr. Josephs: We need to figure out what fields we want to include by asking the right SMEs. By only making the decision on the program level, we risk excluding the field clinician input and expanding the timeline when they do ultimately provide feedback. And if we only include field agents, then we risk straying from policy standards. We need to strategically put together the sweet spot of SMEs.
