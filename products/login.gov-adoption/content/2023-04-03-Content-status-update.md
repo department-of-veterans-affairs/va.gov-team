@@ -3,7 +3,7 @@ Last updated by @tygindraux: April 3, 2023
 
 ## List of engagements
 |Date|Frequency|Engagement|Attendees|
-|:--|:--|
+|:--|:--|:--|:--|
 |Tuesdays|Weekly|Login.gov Sync|Login.gov Partnerships Team|
 |Wednesdays|Bi-weekly|Identity Comms Meeting|OCTO, OCC/MHV, VEO, VBA, VHA, eBenefits|
 |Thursdays|Weekly|Sign In and Identity Content Sync|VA.gov Sitewide Content|
