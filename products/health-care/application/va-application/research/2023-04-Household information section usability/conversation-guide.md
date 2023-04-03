@@ -195,25 +195,29 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Task: [Step 4: Household Information / Income and Deductibles] - 5 minutes
 
-- Step 1
-- Step 2
+- Complete the questions asked on this page. Please talk aloud about the questions and information presented to you here.
+- [Continue clicked by participant and they answered married/separated] Complete your spouse's income information.
+- In real life, how long would it take you to gather and make sure you were entering the correct information here?
+
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Does the participant seem confused by any of the content or help text provided?]
+- [Does the participant comment that they would not want to provide this information?]
+- [Does the participant indicate it would take a significant amount of time and delay the application to answer any of these questions?]
+
 
 ## Task: [Step 5: Insurance Information] - 3 minutes
 
-- Step 1
+- Please explain what this section of the form means to you as you work through answering the questions.
 - Step 2
 
 ### Things to watch for:
+[Does the participant understand this question or are they confused and need additional context?]
+[Do the medicaid and medicare questions cause pause or confuse the participant?]
+[How does the participant prefer to search and/or sort facilities?]
+[Does the participant interact with the additional links on the facilities page?]
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
 
 ## Task: [Step 5: Insurance Information / Facilities] - 2 minutes
 
@@ -222,15 +226,18 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Does the participant interact with the additional links on the facilities page?]
+
 
 
 ## Task: [Step 6: Review] - 3 minutes
 
-- Step 1
-- Step 2
+- Explain what you would do on this page and complete the application.
+
+**Participant questions:**
+
+On a scale of 1-5 (1 being non very poorly and 5 being very well) - how prepared does this page make you feel to submit this application? Why?
+Is there any reason you wouldn't submit the application at this step?
 
 ### Things to watch for:
 
