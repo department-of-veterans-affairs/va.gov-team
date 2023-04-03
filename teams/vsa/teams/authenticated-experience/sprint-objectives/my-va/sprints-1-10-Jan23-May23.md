@@ -327,6 +327,7 @@ This assumes all work was done from last sprint, and we were able to kickoff UAT
   - It would not need any indicators in the nav. 
   - This page also should not be a sub-page of My VA, at least as far as the URL goes. We'll want to link to this page from other pages (eg. health landing page) that might surface notifications.
   - If there is not time for this during sprint 9, that's fine! Move to sprint 10 or 11 or as soon as we have availability to get started on this. We'll want this page ready for when we have new onsite notifications that we are ready to add.
+  - Once technical discovery is complete, get this into planning (collab cycle, design phase, research, build, etc).
 
 ## Sprint 10 (5/10 - 5/23)
 [#51098](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51098)
