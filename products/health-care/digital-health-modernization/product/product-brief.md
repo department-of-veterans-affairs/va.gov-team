@@ -13,12 +13,14 @@ Throughout our agile development cycles, we will validate and refine My HealtheV
 We have defined four work streams, or tracks, that will afford ample opportunities for us to elicit Veteran feedback while building a smooth, seamless rollout.
 
 **Track 1** will focus on migrating the core My HealtheVet applications to va.gov.  As of April 2023, the My HealtheVet on VA.gov landing page has launched, Secure Messaging is close to entering Phase 0 of its rollout, Appointments work is underway, Medical Records is in the build phase, and Medications is in discovery. Applications will move to VA.gov in a phased approach. 
-	- Appointments is covered by the health applications team, who are building out the unified appointment experience.
-	- ByLight teams are building the applications on VA.gov, and are navigating the VA.gov platform collaboration cycle to do so. 
-	- The CTO Health team is focused on the landing page, preferences and notification integration, monitoring the rollout phases of each MHV product, and determing how to maintain the Spotlight information on the landing page, and how to give support teams a way to train on the My HealtheVet applications in a lower environment. 
+
+- Appointments is covered by the health applications team, who are building out the unified appointment experience.
+- ByLight teams are building the applications on VA.gov, and are navigating the VA.gov platform collaboration cycle to do so. 
+- The CTO Health team is focused on the landing page, preferences and notification integration, monitoring the rollout phases of each MHV product,  determing how to maintain the Spotlight information on the landing page, and determining how to give support teams a way to train on the My HealtheVet on VA.gov applications in a lower environment. 
 
 **Track 2** will answer the question of how My HealtheVet as a whole fits into va.gov and the impact that will have on the information architecture and navigation of VA.gov and My HealtheVet on VA.gov itself. This work is being conducted in partnership with VA.gov content & information architect strategists, the public websites team, sitewide content team, account experience team, the platform team, and the mobile team. 
-	- In October 2022, we made the decision to not use the authenticate-in-place strategy on VA.gov, and focus on developing an authenticated experience for My HealtheVet on VA.gov. We also made the decision to leave the health hub as it is for now, with the understanding that it will need to change to accommodate the My HealtheVet as it takes shape. 
+
+- In October 2022, we made the decision to not use the authenticate-in-place strategy on VA.gov, and focus on developing an authenticated experience for My HealtheVet on VA.gov. We also made the decision to leave the health hub as it is for now, with the understanding that it will need to change to accommodate the My HealtheVet as it takes shape. 
 
 **Track 3** will integrate Cerner (and potentially Community Care) data into VA.gov alongside VistA and DoD data.  This "mashup" of data from various sources is, in fact, one of the main purposes for this initiative. -- it provides Veterans a consistent and comprehensive VA health experience regardless of whether their VA health facility uses VistA or has already been migrated to Cerner.  This consistent experience will be especially valuable to veterans who visit more than one facility that are on different systems.
 	- We are modeling this experience off of Intermountain Health's success. They currently have an untethered patient portal with a Cerner backend. 
@@ -26,10 +28,11 @@ We have defined four work streams, or tracks, that will afford ample opportuniti
 	- Medical records data is expected to be obtained through a Patient Health Record API that is in the process of being written in a FHIR format  compatible with Cerner. 
 
 **Track 4** will support identity changes intented to eliminate the need for veterans to create and manage multiple sets of credentials in order to apply for health benefits, access their health inforation and communicate with their providers.
-	- Migrating MHV credentials to Login.gov is a big piece of this work. 
-	- In addition, the identity team is working on a delegate model. 
-	- OCTO is advocating a single Terms & Conditions approach to allow veterans to sign just one terms and conditions for VA digital properties. We are planning to use the sign-up service created for Cerner for this purpose. 
-	- "Classic" MHV is updating account creation APIs to enable Veterans to access their MHV applications w/o needing a MHV account. 
+
+- Migrating MHV credentials to Login.gov is a big piece of this work. 
+- In addition, the identity team is working on a delegate model. 
+- OCTO is advocating a single Terms & Conditions approach to allow veterans to sign just one terms and conditions for VA digital properties. We are planning to use the sign-up service created for Cerner for this purpose. 
+- "Classic" MHV is updating account creation APIs to enable Veterans to access their MHV applications w/o needing a MHV account. 
 
 **In the short term,** the ByLight teams will begin rollout of Secure Messaging, followed soon after by the rollout of Appointments. A key aspect of designing and building the MVP will be devising a linking strategy between My HealtheVet on VA.gov, "classic" My HealtheVet, parts of VA.gov related to health, and the VA.gov flagship mobile app. There will be a slow ramp up to bring veterans from "classic" My HealtheVet to the My HealtheVet on VA.gov to ensure the change is not abrupt for veterans.
 
@@ -39,17 +42,17 @@ We have defined four work streams, or tracks, that will afford ample opportuniti
 We aim to reduce the number of websites, products, and interfaces Veterans must use in order to get health care and manage their health — and we aim to make those experiences easy and intuitive. In a single place on VA.gov, Veterans will be able to manage all interactions with VA related to health, plus learn about health conditions and health news. Interactions that cross VA.gov, the VA.gov flagship mobile app, email, text messages, and VA facilities will be seamless.
 
 
-
 ## Team
 
 ### MHV on VA.gov CTO Health Team
 
 **Federal employees** 
-- 	Portfolio: Lauren Alexanderson
--	Product: Leila Rassi
--	Design: Coulton Bunney
--	Design: Jenny Wang, Digital Corps Fellow
--	Product: Jasmine Yohannan, Digital Corps Fellow
+- Portfolio: Lauren Alexanderson
+- Product: Leila Rassi
+- Design: Coulton Bunney
+- Design: Ryan Thurlwell
+- Design: Jenny Wang, Digital Corps Fellow
+- Product: Jasmine Yohannan, Digital Corps Fellow
 
 **Contractors (Agile Six)**
 - Delivery Manager: Lynne Johnson
@@ -58,13 +61,15 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 - Delivery Coach: Stephen Smythe
 
 **Contractors (Ad Hoc)** 
--	Product: Marci McGuire
--	Design: Jonathan Nelson
--	Research Lead: Cara Frissell
--	Engineering: Eric Voshall
--	Engineering Lead: Daniel Cloud
--	QA Engineer: Erin Flaherty
+- Product: Marci McGuire
+- Design: Jonathan Nelson
+- Research Lead: Cara Frissell
+- Engineering: Eric Voshall
+- Engineering Lead: Daniel Cloud
+- QA Engineer: Erin Flaherty
 
+**Contractors (Oddball)
+- 508 Accessibility Specialist: Sara Smith
 
 ## Business Partners
 
@@ -89,7 +94,8 @@ Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 
 -	10-10EZ application for health care (Patrick Bateman)
 -	COVID (Lauren Alexanderson, Danielle Thierry - content strategist and plain language writer)
 -	After-visit and pre-visit summary (Shane Elliott & Rob Durkin)
--	PGD (Stefany Holguin)
+-	Patient-Generated Health Data (PGHD) (Stefany Holguin)
+
 
 ### Benefits
 - Debt Resolution (Matt Self)
@@ -100,17 +106,21 @@ Crew chief: Dave Conlon
 -	Health Care benefit hub (Danielle Thierry - content strategist and plain language writer who manages all health care content)
 -	Sitewide navigation and IA (Mikki Northuis, information architect)
 -	Facilities (Dave Conlon, Michelle Middaugh)
+-	Laura Willwerth (content)
 
 ### OCC 
 **Bylight contract team**
 -	Barry Egbert (engineer)
 -	Bryan Riley (product)
+-	Lichelle Bain (product)
 -	Mike Moyer (engineer)
+-	Oleksii Morgun (QA)
 -	Arienne Walters (design)
 -	Anne Costello (design)
 -	Bobby Bailey (design)
 -	Lexi Wunder (design) 
--	
+-	Jessica Robertson (design)
+-	Anne Costello (research)
 
 **Federal employees**
 -	Head of OCC and Acting Dept. of Veterans Affairs CIO: Dr. Neil Evans
