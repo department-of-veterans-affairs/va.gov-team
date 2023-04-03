@@ -2,9 +2,9 @@
 
 ## Who you’ll meet with
 
-You will meet with Tyler. She’s a designer and researcher for the U.S. Department of Veterans Affairs.
+You will meet with Tyler or Carolyn. They're designers and researchers for the U.S. Department of Veterans Affairs.
 
-In addition, Tyler might ask to bring along a few colleagues. They will sit quietly, listening and taking notes. They'd like to join because it helps them learn from the research, too. But, it's up to you whether they are allowed to join. At the start of your session, Tyler will again ask you if it's okay for others to join.
+In addition, Tyler or Carolyn might ask to bring along a few colleagues. They will sit quietly, listening and taking notes. They'd like to join because it helps them learn from the research, too. But, it's up to you whether they are allowed to join. At the start of your session, Tyler or Carolyn will again ask you if it's okay for others to join.
 
 ## Why the VA is doing this research
 
@@ -14,4 +14,4 @@ The VA wants to improve the experience for Veterans when they sign in to VA.gov,
 
 This research session will last up to 1 hour on Zoom. 
 
-You’ll be asked to use a prototype, which is like a test version of the VA.gov website. While you click through the prototype, Tyler will ask you questions about your experience and receive your feedback.
+You’ll be asked to use a prototype, which is like a test version of the VA.gov website. While you click through the prototype, Tyler or Carolyn will ask you questions about your experience and receive your feedback.
