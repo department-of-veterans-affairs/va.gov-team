@@ -241,29 +241,35 @@ Is there any reason you wouldn't submit the application at this step?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Does the participant have a positive or negative sentiment about the review page?]
+- [Does the participant give any reason for pause or why they wouldn's submit the application?]
+- [Does the participant interact with any of the accordions or try and edit any information?]
 
 
 ## Task: [Step 6: Confirmation] - 3 minutes
 
-- Step 1
-- Step 2
+- What are your thoughts on this page after you submitted your application?
+- Is this what you would expect or if not, what are your expectations of what you would see here or what would happen next?
+
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Does the participant seem unclear on what happens next?]
+- [Does the participant feel confident that they know what the next steps in the process are?]
+- [Does the participant have positive or negative reaction to the confirmation page?]
 
 
 
 ## Post-Task Interview - 5 minutes
 
-- Question 1
-- Question 2
-- Any questions for me? 
+- [NPS Question]
+- How likely are you to recommend this online application to another Veteran? [Scale of 0 - 10]
+
+
+- Did any of the questions stand out to you as unnecessary?
+- Did anything seem to be missing?
+- Any questions for me?
+
 
 ## Thank-You and Closing - 2 minutes
 
