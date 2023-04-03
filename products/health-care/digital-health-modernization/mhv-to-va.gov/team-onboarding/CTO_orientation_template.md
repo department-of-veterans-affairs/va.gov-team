@@ -27,10 +27,9 @@ Here are some helpful documents to review on the MHV to VA.gov initiative.
 - [ ] [MHV to VA.gov Top-Level View Zenhub board](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125)
 - [ ] [CTO Health Team PI planning board](https://app.zenhub.com/workspaces/mhv-to-vagov-cto-team-pi-10-integration-planning-board-63a31dce3fe3310026840f42/board) - this is updated before each PI Planning to reflect the upcoming Product Increment. 
 
-#### Profile products
-Here  are the product outlines for each of the 7 Profile products. There's a lot to consume and it may take some time to get acclimated to each product. Bookmark these and come back often as you dive deeper into to each product. 
+#### MHV on VA.gov products
+Here are the product outlines for each of the products under development. There's a lot to consume and it may take some time to get acclimated to each product. Bookmark these and come back often as you dive deeper into to each product. 
 
- - [MHV on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md) (overall initiative)
   - [Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product)
   - [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
   - [Pharmacy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/pharmacy)
