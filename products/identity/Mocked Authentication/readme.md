@@ -199,7 +199,7 @@ Note: 💡 Make sure the `acr` value copied from the `/authorize` `acr` response
     multifactor: true,
     credential_aal: 2,
     credential_ial: "classic_loa3",
-    uuid: "85c50aa76934460c8736f687a6a30546"
+    uuid: "40e5bbdb6d2044ec89aad782c97d1faa"
   }
   Base64.encode64(credential_info.to_json)
   ```
@@ -211,15 +211,25 @@ Note: 💡 Make sure the `acr` value copied from the `/authorize` `acr` response
  ```ruby
   rails c
   credential_info = {
-    :mhv_icn: ['1012853550V207686'],
-    :mhv_profile:
+    iss: ["https://api.idmelabs.com/oidc"],
+    sub: ["85c50aa76934460c8736f687a6a30546"],
+    aud: ["ef7f1237ed3c396e4b4a2b04b608a7b1"],
+    exp: [1679459269],
+    iat: [1679441269],
+    credential_aal_highest: [2],
+    credential_ial_highest: [1],
+    mhv_icn: ['1012853550V207686'],
+    mhv_profile:
       ['{"accountType":"Premium",
         "availableServices":{"21":"VA Medications","4":"Secure Messaging","3":"VA Allergies","2":"Rx Refill","12":"Blue Button (all VA data)","1":"Blue Button self entered data.","11":"Blue Button (DoD) Military Service Information"}}'],
+    mhv_assurance: ["Premium"],
     mhv_uuid: ['12345748'],
     email: ['test@email.com'],
+    level_of_assurance: [0],
     multifactor: ['false'],
-    uuid: ['85c50aa76934460c8736f687a6a30546'],
-    level_of_assurance: []
+    credential_aal: [2],
+    credential_ial: [1],
+    uuid: ['85c50aa76934460c8736f687a6a30546']
   }
   Base64.encode64(credential_info.to_json)
   ```
