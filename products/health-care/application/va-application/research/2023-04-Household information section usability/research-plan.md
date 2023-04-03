@@ -132,22 +132,28 @@ Veterans: completed 10; requested 15
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
+- At least **4 out of the ## completed sessions** are with a screen reader
+- At least **4 out of the ##** are mobile users
+- At least **4 out of ##** are female
+- At least **2 out of ##** are currently living abroad
+- At least **2 out of the ##** are of immigrant origin
+  
 
-- At least **4 out of the ## completed sessions** are with a 
 
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
 
+- 
 
 ### Screener questions
 
 For recruiting 4 screen reader users
-
 - (a) Do you need to use assistive technology to use the internet such as VoiceOver on an Apple device, TalkBack on an Android device, or JAWS on a computer? (Proceed to question b if yes, if no, disqualify)
 - (b) Are you able to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
 
-
+For recuriting 3 mobile users
+- Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. (Answer should be yes to satisfy criteria for 4 mobile users)
 
 
 ## Timeline
@@ -163,7 +169,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: **TBD - end April/early May**
 
 ### Length of sessions
 * Session length: 1 hour
