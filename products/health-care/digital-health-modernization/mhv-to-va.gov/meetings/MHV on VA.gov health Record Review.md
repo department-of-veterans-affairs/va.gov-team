@@ -45,14 +45,13 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 		-   Coulton: We're still working out the details, but in Phase 2, we can start connecting them. We will probably start getting feedback asking for the tools to work together better and that will prompt us to work faster.
 
 -   Coulton: Framing Labs and Tests like this because it will include non-lab and non-imaging tests, like EKGs. Right now MHV doesn’t include any other non-lab and non-imaging tests other than EKGs, but we are unsure what the other possibilities are. For the first iteration, we want to get the data in, and then add the optimizations in later.
-
-		-   Dr. Josephs: For phase 0 it will be in reverse chronological order and it goes back as far as they have records for?
-		-   Coulton: Yes. One of the issues with current MHV is that they have to load everything at once, but now were going to load 10 at a time and paginate them so we are able to offer them all at once.
-		-   Dr. Shah: There can be other procedures that have results, like endoscopies.
-		-   Dr. Josephs: You say hem or chem, but there should be a lot of others, like ESRs (?). We'd need to check with lab to see if antibodies are laboratory for example.
-		-   Dr. Shah: The national director of Labs should be your SME for this.
-		-   Dr. Josephs: There are procedures like echos, Holters, stress tests, etc., we should talk about where we're putting procedures.
-		-   Coulton: I wanted to talk about notes too, which includes procedures, but later.
+	-   Dr. Josephs: For phase 0 it will be in reverse chronological order and it goes back as far as they have records for?
+	-   Coulton: Yes. One of the issues with current MHV is that they have to load everything at once, but now were going to load 10 at a time and paginate them so we are able to offer them all at once.
+	-   Dr. Shah: There can be other procedures that have results, like endoscopies.
+	-   Dr. Josephs: You say hem or chem, but there should be a lot of others, like ESRs (?). We'd need to check with lab to see if antibodies are laboratory for example.
+	-   Dr. Shah: The national director of Labs should be your SME for this.
+	-   Dr. Josephs: There are procedures like echos, Holters, stress tests, etc., we should talk about where we're putting procedures.
+	-   Coulton: I wanted to talk about notes too, which includes procedures, but later.
 
 -   [Coulton continues walking through prototype] Health History tested sort of ok. I don’t love it. We're going to do further testing. The IA might flatten out, and all the categories will appear on the left.
 -   'Share your medical record' includes functionality that compensates for the primary functionality of what MHV has today, but we want to encourage going to the HTML version instead of this section because it's faster, more accessible, etc.
