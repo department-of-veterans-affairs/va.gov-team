@@ -23,7 +23,7 @@ Here are some helpful documents to review on the MHV to VA.gov initiative.
 
 - [ ] [Product brief for My HealtheVet on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md)
 - [ ] [My HealtheVet on VA.gov initiative outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/README.md)
-- [ ] [Project roadmap]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/2023-goals-roadmap.md#profile-team](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/roadmap))
+- [ ] [Project roadmap](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/roadmap)
 - [ ] [MHV to VA.gov Top-Level View Zenhub board](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125)
 - [ ] [CTO Health Team PI planning board](https://app.zenhub.com/workspaces/mhv-to-vagov-cto-team-pi-10-integration-planning-board-63a31dce3fe3310026840f42/board) - this is updated before each PI Planning to reflect the upcoming Product Increment. 
 
