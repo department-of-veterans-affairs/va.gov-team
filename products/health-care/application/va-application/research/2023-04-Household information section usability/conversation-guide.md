@@ -127,17 +127,39 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant understand the use of upload file/document?]
 - [Does the participant enter a discharge date that is in the future or that was very recent?]
 
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty 
+
+
 
 ## Task: [Step 4: Household Information / Financial Disclosure] - 3 minutes
 
-- Step 1
-- Step 2
+- Begin completing this section of the health care application. 
+- Talk through what what the content means to you and what you would do.
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Does the participant understand the financial disclosure page?]
+- [Does the participant open the additional info on qualifying eligibility factors?]
+- [Does the participant click yes or no on the financial disclosure page and express any negative sentiment towards this ask?]
+
+
+
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty 
+
+
+
 
 ## Task: [Step 4: Household Information / Spouse Information] - 5 minutes
 
