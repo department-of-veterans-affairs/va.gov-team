@@ -1,4 +1,4 @@
-# My Health*e*Vet to VA.gov Initiative Outline
+# My Health*e*Vet on VA.gov Initiative Outline
 The MHV to VA.gov Initiative consists of several different products, each with their own discrete product outlines:
   - [Health Apartment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md) - working name for the area of VA.gov that will ultimately house the tools being incorporated from MyHealth*e*Vet.
   - [Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product)
@@ -16,10 +16,8 @@ The MHV to VA.gov Initiative consists of several different products, each with t
 - [Top Level View (all MHV to VA.gov teams)](https://app.zenhub.com/workspaces/mhv-to-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125)
 - [Secure Messaging - ByLight Team](https://app.zenhub.com/workspaces/myhealth-secure-messaging-migration-625d8e7aa8f28c002003aefe/board?repos=133843125)
 - [Medical Records - ByLight Team](https://app.zenhub.com/workspaces/myhealth-medical-records-mhv-team-6329b3f89e197c9e1bcce22d/board)
-- Medications
-- Appointments - VAOS Team, Check-In team
-- Newsletter - Core Team
-- Community Care - Core Team
+- [Medications](https://app.zenhub.com/workspaces/mhv-to-vagov-medications-board-62ffb09ba292f80015dfa433/board)
+- [Appointments  - VAOS Team, Check-In team](https://app.zenhub.com/workspaces/mhv-to-vagov-appointments-63d9ef2effd69b002641127b/board)
 
 
 # Planning and Resources
