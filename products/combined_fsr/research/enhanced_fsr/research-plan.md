@@ -154,7 +154,7 @@ Remote - on Zoom.
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
--   [Conversation guide](https://docs.google.com/document/d/1mzaBaPrwa6o5QDTtJhxJhetDYZ7x8WhRQZ10yCSt8mM/edit#)
+-   [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/conversation-guide.md)
   
 -  [FSR form on VA.gov](http://va.gov/manage-va-debt/request-debt-help-form-5655/)
   
