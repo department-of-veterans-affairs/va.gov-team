@@ -124,13 +124,16 @@ Which inclusive research strategies are you leveraging for this study? OCTO reco
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
-Veterans: completed 10; requested 15
+Veterans: completed 12; requested 20
 
 
 
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+
+- All must have a disability rating of 40% or below 
+- All must currently or in the past claimed dependents (on their tax returns?)
 
 - At least **4 out of the ## completed sessions** are with a screen reader
 - At least **4 out of the ##** are mobile users
@@ -148,11 +151,12 @@ What criteria would strengthen your results?
 
 ### Screener questions
 
+
 For recruiting 4 screen reader users
 - (a) Do you need to use assistive technology to use the internet such as VoiceOver on an Apple device, TalkBack on an Android device, or JAWS on a computer? (Proceed to question b if yes, if no, disqualify)
 - (b) Are you able to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
 
-For recuriting 3 mobile users
+For recuriting 4 mobile users
 - Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. (Answer should be yes to satisfy criteria for 4 mobile users)
 
 
