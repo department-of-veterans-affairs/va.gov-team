@@ -7,124 +7,78 @@
 ### Transcript
 
 00:00:00.000 --> 00:00:04.000
-And once I record, I'll ask you again just to confirm.
 
-00:00:04.000 --> 00:00:06.000
-I've started recording I'd like to confirm.
-
-00:00:06.000 --> 00:00:10.000
-Are you comfortable if I record my screen and audio as we talk today?
+> I've started recording I'd like to confirm. Are you comfortable if I record my screen and audio as we talk today?
 
 00:00:10.000 --> 00:00:11.000
-Yeah.
+
+> Yeah.
 
 00:00:11.000 --> 00:00:16.000
-Great. I'd like to start by learning a little bit more about your experience with the Va.
 
-00:00:16.000 --> 00:00:22.000
-And some of our online services. How long have you been a veteran?
+> Great. I'd like to start by learning a little bit more about your experience with the VA. And some of our online services. How long have you been a Veteran?
 
 00:00:22.000 --> 00:00:29.000
-I'm in a veteran now, hey? I hope it's 38 years of service.
+
+> I've been a Veteran now... I think it's 38 years of service.
 
 00:00:29.000 --> 00:00:35.000
-Wow! That's incredible. How often do you go on line to access and management your BA.
 
-00:00:35.000 --> 00:00:41.000
-Benefits and healthcare.
-
-00:00:41.000 --> 00:00:42.000
-Okay.
+> Wow! That's incredible. How often do you go online to access and management your VA benefits and healthcare?
 
 00:00:42.000 --> 00:00:47.000
-At least, maybe once or twice a month. When I go to the Va.
 
-00:00:47.000 --> 00:00:48.000
-Hmm!
-
-00:00:48.000 --> 00:00:49.000
-I use the site to input my knowledge, go in and check.
-
-00:00:49.000 --> 00:00:57.000
-My hit! My head, my heels! There, I go in there to communicate with my primary position.
-
-00:00:57.000 --> 00:00:59.000
-What about twice a month?
+> At least, maybe once or twice a month, I go to the VA. I use the site to input my knowledge, go in and check MHV. I go in there to communicate with my primary physician about twice a month.
 
 00:00:59.000 --> 00:01:05.000
-Yeah, okay, that's great. Do you remember the last time you signed into the Va online?
+
+> Yeah, okay, that's great. Do you remember the last time you signed into the VA online?
 
 00:01:05.000 --> 00:01:11.000
-I was getting ready to sign in. I went in yesterday with my computer. Hey? Wow!
 
-00:01:11.000 --> 00:01:17.000
-So I came out I but about 2 weeks ago I have to go in and put some money in.
+> I was getting ready to sign in. I went in yesterday with my computer. About 2 weeks ago I had to go in and put some money in.
 
 00:01:17.000 --> 00:01:27.000
-Okay, yeah, so yesterday, okay, you're trying to put in some mileage to get reimbursed.
 
-00:01:27.000 --> 00:01:28.000
-Okay. And how do you?
+> Okay, so yesterday you we're trying to put in some mileage to get reimbursed.
 
 00:01:28.000 --> 00:01:32.000
-Yes, and the only thing the only thing about that thing when you go in and put your mind again. Hi!
 
-00:01:32.000 --> 00:01:36.000
-Have issues with putting your toes in.
+> Yes, and the only thing the only thing about that – when you go in and put your mileage in. You have issues with putting your totals in.
 
 00:01:36.000 --> 00:01:39.000
-Okay. Yeah.
 
-00:01:39.000 --> 00:01:43.000
-How do you sign into Va when you're trying to cook me?
+> Okay. Yeah. How do you sign into VA?
 
 00:01:43.000 --> 00:01:47.000
-My heel to my event.
 
-00:01:47.000 --> 00:01:50.000
-Okay. Use the myhealthy. That sign in.
-
-00:01:50.000 --> 00:01:53.000
-The updated version.
-
-00:01:53.000 --> 00:01:54.000
-I'm sorry.
-
-00:01:54.000 --> 00:01:57.000
-A new version. I'm gonna update it.
-
-00:01:57.000 --> 00:02:00.000
-Okay.
+> I use MHV. The updated version. A new version.
 
 00:02:00.000 --> 00:02:04.000
-Do with the updated version? Do you mean premium?
+
+> When you say the updated version? Do you mean premium?
 
 00:02:04.000 --> 00:02:06.000
-Yeah. Premium. Yes. Yes, it's premium.
+
+> Yeah. Premium. Yes. Yes, it's premium.
 
 00:02:06.000 --> 00:02:07.000
-Yeah, okay, yeah.
 
-00:02:07.000 --> 00:02:08.000
-And I didn't. I didn't. I didn't.
+> Yeah, okay.
 
 00:02:08.000 --> 00:02:16.000
-A locked in my information. So it's pretty easy when I go in and download it.
 
-00:02:16.000 --> 00:02:21.000
-When I get to decide, it just prompt me, and then pull up my days, and I go in.
+> A locked in my information. So it's pretty easy when I go in. When I get decide to, it just prompts me, and then pulls up my data, and I go in.
 
 00:02:21.000 --> 00:02:27.000
-That's great. Great. So how does it usually work when you sign into Va dot?
 
-00:02:27.000 --> 00:02:31.000
-Gov, what do you do first?
+> That's great. Great. So how does it usually work when you sign into VA.gov? What do you do first?
 
 00:02:31.000 --> 00:02:35.000
-First I go to decide my house there then it is so now I think.
 
-00:02:35.000 --> 00:02:41.000
-Give me a selection of which one to go into.
+*** watch video from here ***
+
+> First I got to decide my house there then it is so now I think. Give me a selection of which one to go into.
 
 00:02:41.000 --> 00:02:42.000
 Yeah.
