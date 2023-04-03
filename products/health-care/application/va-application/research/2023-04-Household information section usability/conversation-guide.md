@@ -173,27 +173,69 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant notice xyz?]
 - [Etc]
 
+## Task: [Step 5: Insurance Information] - 3 minutes
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+## Task: [Step 5: Insurance Information / Facilities] - 2 minutes
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+
+## Task: [Step 6: Review] - 3 minutes
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+
+## Task: [Step 6: Confirmation] - 3 minutes
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
 
 
 
-
-
-
-
-
-## Post-Task Interview - X minutes
+## Post-Task Interview - 5 minutes
 
 - Question 1
 - Question 2
 - Any questions for me? 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
 Thank you so much again, and enjoy the rest of your day!
+
+
 
 ##
 
