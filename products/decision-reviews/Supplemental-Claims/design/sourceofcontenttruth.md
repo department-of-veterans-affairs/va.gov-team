@@ -555,7 +555,7 @@ We'll save your application every time you add or update information.
 
 How do I know if I have private medical records (expand)
 
->If you were treated by a private doctor, including a Veteran’s Choice doctor, you’ll have private medical records. We’ll need to see those records to make a decision on your claim. A Disability Benefits Questionnaire is an example of a private medical record.
+>You have private medical records If you were treated by a private doctor, including a Veteran’s Choice doctor. We’ll need to see those records to make a decision on your claim. A Disability Benefits Questionnaire is an example of a private medical record.
 
 **_Back_** | **_Continue_**
 
