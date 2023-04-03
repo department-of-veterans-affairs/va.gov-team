@@ -346,305 +346,183 @@
 
 > Okay. Well, today, we are going to skip for now. So tell me about this screen that you're seeing. What do you think this means?
 
-*** here ***
-
 00:18:06.000 --> 00:18:11.000
-So it looks like it's basically confirming my email and just making sure this is the email.
 
-00:18:11.000 --> 00:18:19.000
-It's going to v, 8, so that they can user to connect my account.
+> So it looks like it's basically confirming my email and just making sure this is the email. It's going to the VA so that they can use it to connect my account.
 
 00:18:19.000 --> 00:18:30.000
-Okay? And before you click on anything, what do you expect to happen when you click, agree and continue?
+
+> Okay. And before you click on anything, what do you expect to happen when you click, agree and continue?
 
 00:18:30.000 --> 00:18:46.000
-I'm guessing. It'll probably take me to the login screen to actually login. But I'm not sure.
+
+> I'm guessing it'll probably take me to the login screen to actually login. But I'm not sure.
 
 00:18:46.000 --> 00:18:57.000
-Okay, let's click a green. Continue and see where we end up.
+
+> Okay, let's click agree and continue and see where we end up.
 
 00:18:57.000 --> 00:19:02.000
-Now, before we talk about the screen, I'd like to reflect on what just happened in your own words.
+
+> Now, before we talk about the screen, I'd like to reflect on what just happened in your own words.
 
 00:19:02.000 --> 00:19:05.000
-Can you tell me what you just did?
+
+> Can you tell me what you just did?
 
 00:19:05.000 --> 00:19:17.000
-So it looks like, because I I went through this whole process, and I set up my and password and all that stuff and I've confirmed my email this is actually the login page.
 
-00:19:17.000 --> 00:19:22.000
-So this is the homepage from my when I log in.
-
-00:19:22.000 --> 00:19:32.000
-This is what I see with, you know, with my information. So it looks like it actually just took me right to the login screen, which is awesome. I don't want to go back and re type. It all in.
+> So it looks like, because I went through this whole process, and I set up my and password and all that stuff and I've confirmed my email this is actually the login page. So this is the homepage from my when I login. This is what I see with, you know, with my information. So it looks like it actually just took me right to the login screen, which is awesome. I don't want to go back and re-type it all in.
 
 00:19:32.000 --> 00:19:35.000
-Which Login screen.
+
+> Which Login screen?
 
 00:19:35.000 --> 00:19:38.000
-Via va.com. It looks like.
+
+> VA.com it looks like.
 
 00:19:38.000 --> 00:19:42.000
-Okay.
 
-00:19:42.000 --> 00:19:47.000
-Do you have any concerns about what just happened?
+> Okay. Do you have any concerns about what just happened?
 
 00:19:47.000 --> 00:19:59.000
-Hmm, Nope, I actually like it since, like I said on usually once you set up an account, wasn't you know, any entity you save your account, and you still have to go back in and type everything into a gate logged in once?
 
-00:19:59.000 --> 00:20:04.000
-It says your. So this is kind of nice that it actually just takes you there email to go back and.
+> Nope, I actually like it since, like I said on usually once you set up an account and there wasn't anyway to save your account, you still have to go back in and type everything in to login. It says you're logged in. So this is kind of nice that it actually just takes you there.
 
 00:20:04.000 --> 00:20:13.000
-Okay, okay, yeah. So like, so you like that. After that whole process, it already brought you back, signed it.
+
+> Okay, yeah. So after that whole process, it already brought you back, signed it.
 
 00:20:13.000 --> 00:20:15.000
-Yeah.
+
+> Yeah.
 
 00:20:15.000 --> 00:20:17.000
-Great.
 
-00:20:17.000 --> 00:20:46.000
-So I'm gonna give you a a second to read through this screen, and I'd like you to summarize to me.
+> Great. So I'm gonna give you a a second to read through this screen, and I'd like you to summarize it to me.
 
 00:20:46.000 --> 00:20:51.000
-So it looks like the login that I created works only on the Va website.
 
-00:20:51.000 --> 00:20:59.000
-If I'm trying to go government website, I had to go back in and verify my identity with login.gov.
+> So it looks like the login that I created works only on the VA website. If I'm trying to go to another government website, I had to go back in and verify my identity with Login.gov.
 
 00:20:59.000 --> 00:21:03.000
-Okay.
 
-00:21:03.000 --> 00:21:08.000
-If there was an issue on this page, what would you do?
+> Okay. If there was an issue on this page, what would you do?
 
 00:21:08.000 --> 00:21:09.000
-Looks like there's a.
 
-00:21:09.000 --> 00:21:12.000
-If you had a yeah, if you had a question.
-
-00:21:12.000 --> 00:21:17.000
-Looks like there's a link in blue underline that says that I can verify.
-
-00:21:17.000 --> 00:21:19.000
-I can learn more on verify. My journey with Login Dup.
-
-00:21:19.000 --> 00:21:27.000
-So just click the link and go to that page and see what it said.
+> Looks like there's a link in blue underline that says that I can verify. I can learn more about verifying my identity with Login.gov. So just click the link and go to that page and see what it said.
 
 00:21:27.000 --> 00:21:30.000
-Okay.
 
-00:21:30.000 --> 00:21:37.000
-We're nearly done so. Thank you so much for answering so many of my questions today.
-
-00:21:37.000 --> 00:21:44.000
-So next we're going to close this popup.
-
-00:21:44.000 --> 00:21:57.000
-And click anywhere in the top. Blue section. We're gonna pretend that you've signed out and now I'm gonna ask you to imagine that it's been a couple of months since you've set up your login gov account.
-
-00:21:57.000 --> 00:22:02.000
-But you've come back to your computer since then, and you're going to sign into login.
-
-00:22:02.000 --> 00:22:12.000
-Gov, can you show me how you would sign into Login duck this time?
+> Okay. We're nearly done so. Thank you so much for answering so many of my questions today. So next we're going to close this popup. And click anywhere in the top blue section. We're gonna pretend that you've signed out and now I'm gonna ask you to imagine that it's been a couple of months since you've set up your Login.gov account. But you've come back to your computer since then, and you're going to sign in to Login.gov. Can you show me how you would sign into Login.gov this time?
 
 00:22:12.000 --> 00:22:13.000
-Yeah, so it sounds like you would go straight to login, Dot.
 
-00:22:13.000 --> 00:22:17.000
-Gov.
+> Yeah, so it sounds like you would go straight to Login.gov.
 
 00:22:17.000 --> 00:22:20.000
-Okay. Great.
 
-00:22:20.000 --> 00:22:28.000
-Let's imagine that you've enter in your that username and password that you've set up.
-
-00:22:28.000 --> 00:22:32.000
-Click, sign, in.
-
-00:22:32.000 --> 00:22:46.000
-So before we read this in detail. Can you describe to me what we're looking at now?
+> Let's imagine that you've enter in your that username and password that you've set up. Click, sign, in. So before we read this in detail. Can you describe to me what we're looking at now?
 
 00:22:46.000 --> 00:22:59.000
-So it looks like there's not. It's allowing me to verify, verify my identity for use of logins outside of Thea.
+
+> So it looks like it's allowing me to verify my identity for use of Login.gov outside the VA.
 
 00:22:59.000 --> 00:23:06.000
-Okay. And why do you think this screen appeared? This has appeared on your screen.
+
+> Okay. And why do you think this screen appeared?
 
 00:23:06.000 --> 00:23:18.000
-I mean, it was the last thing that was said before that if I wanted to log into sites other than va.gov, I'd have to go back in a verify. My Denny.
 
-00:23:18.000 --> 00:23:21.000
-So it's just asking me to verify that identity.
-
-00:23:21.000 --> 00:23:37.000
-Now, which is awesome cause I see that I can do so like so security benefits or fed your job application. So that's kind of nice that it the next time I log in it'll just ask me to do that and get that done with on the Va website I won't try to go to another website.
-
-00:23:37.000 --> 00:23:42.000
-And go through all the processes already. Got my stuff saved right here, so I can just do it.
+> I mean, it was the last thing that was said before that if I wanted to log into sites other than VA.gov, I'd have to go back in a verify my identity. So it's just asking me to verify that identity now, which is awesome cause I see that I can do so [to access] like social security benefits or federal job applications. So that's kind of nice that the next time I log in it'll just ask me to do that and get that done with on the VA website, I won't try to go to another website. And go through all the processes already. Got my stuff saved right here, so I can just do it.
 
 00:23:42.000 --> 00:23:51.000
-Okay, do you have any initial questions? After reading this page?
+
+> Okay, do you have any initial questions? After reading this page?
 
 00:23:51.000 --> 00:23:53.000
-I don't think so. Mean I was. I was wondering how long it was.
 
-00:23:53.000 --> 00:23:57.000
-Gonna take where it tells me right here, about 20 min it tells me stuff I need to have.
-
-00:23:57.000 --> 00:24:08.000
-So I can gather those things before I continue. Then I can either continue or not continue so as long as I had on my documents.
-
-00:24:08.000 --> 00:24:13.000
-I would just continue and go and verify.
+> I don't think so. I was wondering how long it was gonna take where it tells me right here, about 20 min. It tells me stuff I need to have so I can gather those things before I continue. Then I can either continue or not continue. So as long as I had on my documents, I would just continue and go and verify.
 
 00:24:13.000 --> 00:24:21.000
-Okay. So it sounds like you would be interested in upgrading your account today.
+
+> Okay. So it sounds like you would be interested in upgrading your account today.
 
 00:24:21.000 --> 00:24:23.000
-Yeah.
 
-00:24:23.000 --> 00:24:29.000
-And why do you think the Va. Is recommending that you upgrade your login?
+> Yeah. And why do you think the VA is recommending that you upgrade your login?
 
 00:24:29.000 --> 00:24:41.000
-I mean, since it's asking me, since the same things like social security benefits or Frederikov vacations, I'm guessing any Government websites seems to me like login.
 
-00:24:41.000 --> 00:24:45.000
-Dot gov will be the go to login for that.
-
-00:24:45.000 --> 00:24:50.000
-So it's just gonna make it easier if I already have it done for any other.
-
-00:24:50.000 --> 00:24:55.000
-Any other options that I go to for any other government websites.
+> I mean, since it's asking me, since the same things like social security benefits or federal job applications, I'm guessing any government websites, seems to me like Login.gov will be the go-to login for that. So it's just gonna make it easier if I already have it done for any other options that I go to for any other government websites.
 
 00:24:55.000 --> 00:25:02.000
-Okay, yeah. So this would be the way that you would log in to those other websites.
 
-00:25:02.000 --> 00:25:07.000
-It sounds like, okay, great.
-
-00:25:07.000 --> 00:25:16.000
-If you chose not to upgrade your logging.com account. What do you think will happen?
+> Okay, yeah. So this would be the way that you would log in to those other websites it sounds like, okay, great. If you chose not to upgrade your logging.com account. What do you think will happen?
 
 00:25:16.000 --> 00:25:23.000
-Well, no man. There's a link to click it. I guess if I didn't want to, I could just click it and see where it took me.
 
-00:25:23.000 --> 00:25:26.000
-I'm guessing I could probably still log in. It would just be Va.
-
-00:25:26.000 --> 00:25:35.000
-Only, and it wouldn't let me go any other government websites like I said before.
+> Well, there's a link to click it. I guess if I didn't want to, I could just click it and see where it took me. I'm guessing I could probably still log in. It would just be VA only, and it wouldn't let me go any other government websites like I said before.
 
 00:25:35.000 --> 00:25:49.000
-Okay, if you had a question about this screen, what would you do?
+
+> Okay, if you had a question about this screen, what would you do?
 
 00:25:49.000 --> 00:25:58.000
-I would definitely click to learn more about verifying and see if that took me to.
 
-00:25:58.000 --> 00:26:01.000
-A page, or I could close this out and go to the contact.
-
-00:26:01.000 --> 00:26:08.000
-Us. Page up here on the Va website. Go through those channels.
+> I would definitely click to learn more about verifying and see if that took me to a page, or I could close this out and go to the contact us page up here on the VA website. Go through those channels.
 
 00:26:08.000 --> 00:26:10.000
-Okay.
 
-00:26:10.000 --> 00:26:16.000
-That sounds good. Okay. So we've covered a lot today.
-
-00:26:16.000 --> 00:26:18.000
-And I just want to spend a couple of minutes now reflecting before we wrap up.
-
-00:26:18.000 --> 00:26:25.000
-Can you summarize what it is that you did today as you click through that prototype?
+> Okay. That sounds good. Okay. So we've covered a lot today. And I just want to spend a couple of minutes now reflecting before we wrap up. Can you summarize what it is that you did today as you click through that prototype?
 
 00:26:25.000 --> 00:26:34.000
-Yes, I created login.gov account pretty straightforward. A step by step.
 
-00:26:34.000 --> 00:26:42.000
-Walkthrough, and then I went through the verification process, verifying my identity what's Login and Gov?
-
-00:26:42.000 --> 00:26:58.000
-And was able to get all signed in, and then we got to the point where I was asking me about verifying for a non va login.gov account and going through that process.
+> Yes, I created a Login.gov account. It was pretty straightforward. A step by step walkthrough, and then I went through the verification process, verifying my identity with Login.gov. And I was able to get all signed in, and then we got to the point where I was asking me about verifying for a non-VA Login.gov account and going through that process.
 
 00:26:58.000 --> 00:27:01.000
-Okay, thanks for that. Out of everything that you looked at today.
 
-00:27:01.000 --> 00:27:09.000
-Is there anything that sticks out to you? Something that may have been confusing or interesting?
+> Okay, thanks for that. Out of everything that you looked at today is there anything that sticks out to you? Something that may have been confusing or interesting?
 
 00:27:09.000 --> 00:27:11.000
-No, I mean like I said before, I like that one.
 
-00:27:11.000 --> 00:27:18.000
-I create the account. I didn't have to go and enter all those credentials, you know, into a login bar again.
-
-00:27:18.000 --> 00:27:24.000
-I was just cause. If I go to try to log into something, and then I have to create an account.
-
-00:27:24.000 --> 00:27:29.000
-Sometimes I get frustrated. That I have to go and enter everything I just entered, just to get logged in.
-
-00:27:29.000 --> 00:27:35.000
-I like that. This took me, and just let me log right in I was already logged in once I entered that went through the verification process.
-
-00:27:35.000 --> 00:27:38.000
-I was where I wanted to go. In the first place.
+> No, I mean like I said before, I like that I created the account and I didn't have to go and enter all those credentials, you know, into a login bar again. If I go to try to log into something, and then I have to create an account sometimes I get frustrated. That I have to go and enter everything I just entered, just to get logged in. I like that. This took me, and just let me log right in I was already logged in once I entered that went through the verification process. I was where I wanted to go. In the first place.
 
 00:27:38.000 --> 00:27:46.000
-Okay, that's great. Is there anything that we could do to make it easier for you to set up a login account to use with the Va.
 
-00:27:46.000 --> 00:27:50.000
-You already have one. But imagine, if you.
+> Okay, that's great. Is there anything that we could do to make it easier for you to set up a login account to use with the VA?
 
 00:27:50.000 --> 00:28:02.000
-I don't think so. I mean, this is pretty straightforward I mean, what's the with the tabs to be able to the links to be able to ask questions or learn more?
 
-00:28:02.000 --> 00:28:07.000
-Those are nice to have those on each page. So if I do run into an issue, I just quit those.
-
-00:28:07.000 --> 00:28:13.000
-I think it would be pretty, self-explanatory, explanatory, straightforward.
+> I don't think so. I mean, this is pretty straightforward. I mean, what's the with the tabs to be able to the links to be able to ask questions or learn more Those are nice to have those on each page. So if I do run into an issue, I just click those. I think it would be pretty self-explanatory, straightforward.
 
 00:28:13.000 --> 00:28:20.000
-Okay, cool. That's great. Thank you for that. Those are all the questions that I have for you today.
 
-00:28:20.000 --> 00:28:22.000
-Do you have any questions for me?
+> Okay, cool. That's great. Thank you for that. Those are all the questions that I have for you today. Do you have any questions for me?
 
 00:28:22.000 --> 00:28:23.000
-I don't think so.
+
+> I don't think so.
 
 00:28:23.000 --> 00:28:24.000
-Okay, cool. Well, we really appreciate you taking the time to share your thoughts with us today.
+
+> Okay, cool. Well, we really appreciate you taking the time to share your thoughts with us today.
 
 00:28:24.000 --> 00:28:34.000
-Your feedback is so helpful as we continue to work on this site and make sure it really works for veterans before you go.
 
-00:28:34.000 --> 00:28:47.000
-I would do, wanted to make sure. It's clear that everything that we did today wasn't real. So you haven't actually set up an an additional login dug of account that you already have.
-
-00:28:47.000 --> 00:28:50.000
-And you can continue signing in, as you normally do.
+> Your feedback is so helpful as we continue to work on this site and make sure it really works for Veterans. Before you go I wanted to make sure it's clear that everything that we did today wasn't real. So you haven't actually set up an an additional Login.gov account – that you already have. And you can continue signing in, as you normally do.
 
 00:28:50.000 --> 00:29:02.000
-And lastly, perigee will be sending a thank you with a Thank you. Note with little blurbs that you can pass along to any other veterans that you may know to provide them with the chance to participate in feature. Research studies they'll also be in touch about payment as well thank you so
+
+> And lastly, Perigean will be sending a thank you note with little blurbs that you can pass along to any other Veterans that you may know to provide them with the chance to participate in future research studies. They'll also be in touch about payment as well.
 
 00:29:02.000 --> 00:29:04.000
-much again, and enjoy the rest of your day.
+
+> Thank you so much again, and enjoy the rest of your day.
 
 00:29:04.000 --> 00:29:06.000
-You as well. Thank you so much.
 
-00:29:06.000 --> 00:29:10.000
-Yeah.How are you too.
+> You as well. Thank you so much.
 
