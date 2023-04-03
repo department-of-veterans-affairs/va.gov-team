@@ -50,6 +50,8 @@ In addition, well-organized content that utilizes clear and relevant labeling al
 
 ## Standards and documentation
 
+[Standards and general documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/standards)
+
 **Site maps**
 - Visual Site Maps - A visual diagram representing the high level IA and structure of VA.gov (goes to Mural)
   - [Root level](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1672351995789/71a5b7ba07995735d458df39e07a696f48a9be48?wid=7-1676676077721)
@@ -64,27 +66,9 @@ In addition, well-organized content that utilizes clear and relevant labeling al
   - [Records hub](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1674779202419/2c84b6f0db7fc6ce1f20a0ff66f66c3afd46c04f?wid=12-1675464978959&sender=u2aba00c97ab77c6ec1573123)
   - [Decision reviews](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1674779345909/639c121deb1a751c01a2ddad6ba65417aaf23a70?wid=15-1675719086191)
   - [Facilities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1674779377050/04377db23cd64177d3e90e2c216a5d9bc14c8878?wid=24-1676064961383)
-- [VA.gov Master URL Spreadsheet](https://docs.google.com/spreadsheets/d/1YucOtYihweNPI1gYtCgdsinKQmH4DMuSgPaSgJMfyYk/edit?usp=sharing)
-  - This file contains a list, by benefit area, of live URLs and any legacy URLs that have been redirected, to them
-  - This is a working docoument managed in Google Sheets that is continually updated. 
-  - Exported versions coming soon...
-- [XML Sitemap](https://www.va.gov/sitemap.xml)
-  - An XML sitemap is an SEO tool that helps Search Engines find and index pages on the site faster and allows them to use our "crawl budget" effectively. 
 
 
-**Standard components in the VA.gov design system**
-- [URL standards](https://design.va.gov/content-style-guide/url-standards)
-- [Breadcrumbs](https://design.va.gov/components/breadcrumbs)
-- [Secondary nav (aka side nav)](https://design.va.gov/components/sidenav)
-- [Pagination](https://design.va.gov/components/pagination) 
-- Additional IA standards to come...
 
-**VA.gov experience standards**
-- [Platform Governance experience standards](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards) - Utilized by the Governance team, and includes core standards for nav components, content organization, URLs, user flows, etc.
-
-**Controlled vocabularies**
-- [Content briefs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/content-briefs) - Provides background and omni-channel direction on terminology specific to various key features and topic areas 
-- [Word list](https://design.va.gov/content-style-guide/word-list)
 
 
 
