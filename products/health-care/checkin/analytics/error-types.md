@@ -17,8 +17,7 @@
 | | www.va.gov/health-care/appointment-pre-check-in/error?error=pre-check-in-past-appointment |A LoROTA entry exists but it is the day of the appointment and before your check-in window ends.  | Active | after | ![image](https://user-images.githubusercontent.com/86678742/229579333-e14208f1-6473-4254-bb48-d651e03a75cd.png) |
 | | www.va.gov/health-care/appointment-pre-check-in/error?error=reload-data-error  | Happens when you reload any page from an old inactive session or if you re-load and vets-api dies for any reason | Active | after |![image](https://user-images.githubusercontent.com/86678742/229579446-a570eb77-791b-40e7-afe0-2779429cca75.png) |
 | | www.va.gov/health-care/appointment-pre-check-in/error/  | | | after |![image](https://user-images.githubusercontent.com/86678742/229579475-6c45cac6-509e-4194-8cdb-4a298d6bf577.png) |
-| | www.va.gov/health-care/appointment-pre-check-in/error?error=uuid-not-found | Happens when there is a UUID supplied that we cannot find | Active |after | ![Screen Shot 2023-04-03 at 4 43 27 PM](https://user-images.githubusercontent.com/2982977/229623487-e65fc780-56fc-417d-b8e6-11d0e8577042.png)
- |
+| | www.va.gov/health-care/appointment-pre-check-in/error?error=uuid-not-found | Happens when there is a UUID supplied that we cannot find | Active |after | ![Screen Shot 2023-04-03 at 4 43 27 PM](https://user-images.githubusercontent.com/2982977/229623487-e65fc780-56fc-417d-b8e6-11d0e8577042.png) |
 
 
 Source: [Direct link to Google Analytics](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.dateOption=last7days&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22RE%22,%22appointment-pre-check-in~2Ferror%22,0%5D%5D/)
