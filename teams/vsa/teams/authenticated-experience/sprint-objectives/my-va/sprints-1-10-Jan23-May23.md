@@ -322,6 +322,11 @@ This assumes all work was done from last sprint, and we were able to kickoff UAT
 
 - Determine next steps for notification center discovery.
 - Continue with component build work per what came out of collab cycle.
+- **If possible/bandwidth**: Start technical discovery on VERY MVP notification center
+  - This would be a page we could link to if people have more than 3 notifications showing on My VA. 
+  - It would not need any indicators in the nav. 
+  - This page also should not be a sub-page of My VA, at least as far as the URL goes. We'll want to link to this page from other pages (eg. health landing page) that might surface notifications.
+  - If there is not time for this during sprint 9, that's fine! Move to sprint 10 or 11 or as soon as we have availability to get started on this. We'll want this page ready for when we have new onsite notifications that we are ready to add.
 
 ## Sprint 10 (5/10 - 5/23)
 [#51098](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51098)
