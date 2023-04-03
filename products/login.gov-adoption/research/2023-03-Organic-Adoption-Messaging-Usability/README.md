@@ -12,10 +12,12 @@ This study is part of a staged rollout plan. The [research overview](https://git
 
 We're interested in testing this in mobile, because it's an identified gap (and commonly used for VA applications) and we hypothesize the length of the content could be a problem on mobile.
 
+This research will be conducted in partnership with the Core Identity team. They will lead this study. Their [documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2023-04%20Organic%20LIG%20Adoption) includes more details.
+
 ## Research Goals
 
 - Review whether Veterans are motivated to set up a Login.gov account based on messaging
 - Review whether Veterans understand what we're asking them to do and why
 
 ## Date
-This research will likely take place in March-April 2023.
+This research will take place in April 2023.
