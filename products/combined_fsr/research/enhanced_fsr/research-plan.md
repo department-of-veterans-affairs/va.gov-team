@@ -233,7 +233,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 -   Date and time of pilot session: 
 
 ### Research sessions
-**Planned dates of research: begin moderating sessions 4/26/2023 - 5/4/2023**
+**Planned dates of research: begin moderating sessions 4/26/2023 - 5/5/2023**
 
 ### Length of sessions
 
@@ -246,9 +246,21 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 participants recruited, 18 time slots available, for 6 participants minimum***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 	
 	Monday - Friday begin sessions at 10am ET and end sessions at 6pm ET
+	
+	2 Max per day
+	
+	Wednesday, April 26 - 10am ET - 6pm ET
+	Thursday, April 27 - 10am ET - 6pm ET
+	Friday, April 28 - 10am ET - 6pm ET
+	Monday, May 1st - 10am ET - 6pm ET
+	Tuesday, May 2nd - 10am ET - 6pm ET
+	Wednesday, May 3rd - 10am ET - 6pm ET
+	Thursday, May 4th - 10am ET - 6pm ET
+	Friday, May 5th - 10am ET - 6pm ET
+	As needed if minimum number of participants not attained: Monday, May 8th and Tuesday May 9th - 10am ET - 6pm ET
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
