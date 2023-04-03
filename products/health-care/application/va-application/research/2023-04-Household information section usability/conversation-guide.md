@@ -1,10 +1,10 @@
-# Conversation Guide 
+# Conversation Guide for [1010 Team, 10-10EZ, Household financial information section usability/UAT]
 
 ## Moderator logistics
 ### 2-3 days before the session
 - [ ] Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 - [ ] Confirm additional notetakers and supply notes template and guidelines
-- [ ]  If this is a session with a screen reader, confirm assistive tech support is available
+- [ ] If this is a session with a screen reader, confirm assistive tech support is available
 
 
 
@@ -50,6 +50,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
+
 ## Warm-up Questions (Optional) - X minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
@@ -71,27 +72,74 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Comments about time and/or actions to gather information mentioned on intro page.]
 - [Does the partipant sign in as a next action or do they say they would complete the application without signing in?]
 
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty 
 
-## Task: [Step 1: Veteran Information] - 7 minutes
+
+
+
+## Task: [Step 1: Veteran Information] - 5 minutes
 - Could you please complete this section of the form and talk aloud about what you would need to do as you go.
 
 ### Things to watch for:
 - [Does the participant comment on the first 4 following pages and that they show the same questions with info prefilled if they go the non-sign in route?]
 - [If the participant comments on this, is it positive or negative?]
 
-## Task: [Step 2: VA Benefits] - X minutes
 
+
+
+
+
+## Task: [Step 2: VA Benefits] - 3 minutes
 - Continue completing the questions in the section of the form.
 
+
+### Things to watch for:
+- [Does the participant understand the questions and content through these sections?]
+- [Does the participant comment that the questions are too intrusive?]
+- [Does the participant select a disability rating that results in the short form flow?]
+- [Does the particpant select an option that results in the VA pension question page?]
+
+
+## Task: [Step 3: Military Service] - 2 minutes
+
+- Continue completing the application and answer the fileds about your military service information.
+
+
+### Things to watch for:
+- [Does the participant understand the questions and content through these sections?]
+- [Does the participant comment that the questions are too intrusive or the VA should have this information?]
+- [Does the particpant comment that there is something missing from the list]
+
+
+
+## Task: [Step 3: Military Service / Upload Document] - 3 minutes
+
+- Can you please explain the instruction on this page. We won't actually be uploading a file today but walk me through your process if you were to complete this question.
+- Can you tell me more about what you would have to do to get this document and complete this tas
+
+### Things to watch for:
+- [Does the participant understand the use of upload file/document?]
+- [Does the participant enter a discharge date that is in the future or that was very recent?]
+
+
+## Task: [Step 4: Household Information / Financial Disclosure] - 3 minutes
+
+- Step 1
+- Step 2
+
 ### Things to watch for:
 
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
 
-
-
-## Task: [Step 3: Military Service] - X minutes
+## Task: [Step 4: Household Information / Spouse Information] - 5 minutes
 
 - Step 1
 - Step 2
@@ -103,7 +151,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Etc]
 
 
-## Task: [Step 3: Military Service / Upload Document] - X minutes
+## Task: [Step 4: Household Information / Dependents / Experimental Pattern] - 5 minutes
 
 - Step 1
 - Step 2
@@ -114,19 +162,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant notice xyz?]
 - [Etc]
 
-
-## Task: [Step 4: Household Information / Financial Disclosure] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Task: [Step 4: Household Information / Spouse Information] - X minutes
+## Task: [Step 4: Household Information / Income and Deductibles] - 5 minutes
 
 - Step 1
 - Step 2
@@ -136,11 +172,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
-
-
-
-
-
 
 
 
