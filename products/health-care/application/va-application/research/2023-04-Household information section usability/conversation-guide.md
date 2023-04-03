@@ -162,15 +162,15 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 ## Task: [Step 4: Household Information / Spouse Information] - 5 minutes
-
-- Step 1
-- Step 2
+- Proceed with the application with answering the next question. 
+- [If selected Married/Separated for Marital Status] Continue completing all the questions about your spouse and please remember to think aloud.  
 
 ### Things to watch for:
+- [Does the participant make any comments about this page happening after the financial disclosure page?]
+- [Does the participant comment on or interact with the additional info component - "why we ask this information"?]
+- [Does the participant comment on the second spouse page with the two lived with/address questions?]
+- [Does the participant comment the question is intrusive or that they would skip and/or answer untruthfully?]
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
 
 
 ## Task: [Step 4: Household Information / Dependents / Experimental Pattern] - 5 minutes
