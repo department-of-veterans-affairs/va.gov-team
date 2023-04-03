@@ -232,7 +232,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Task: [Step 5: Insurance Information / Facilities] - 2 minutes
 
-- Step 1
+- What are your impressions of what this page is asking for and why it is needed for this application?
 
 ### Things to watch for:
 - [How does the participant prefer to search and/or sort facilities?]
@@ -244,9 +244,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Explain what you would do on this page and complete the application.
 
 **Participant questions:**
-
-On a scale of 1-5 (1 being non very poorly and 5 being very well) - how prepared does this page make you feel to submit this application? Why?
-Is there any reason you wouldn't submit the application at this step?
+- On a scale of 1-5 (1 being non very poorly and 5 being very well) - how prepared does this page make you feel to submit this application? Why?
+- Is there any reason you wouldn't submit the application at this step?
 
 ### Things to watch for:
 
@@ -273,7 +272,6 @@ Is there any reason you wouldn't submit the application at this step?
 
 - [NPS Question]
 - How likely are you to recommend this online application to another Veteran? [Scale of 0 - 10]
-
 
 - Did any of the questions stand out to you as unnecessary?
 - Did anything seem to be missing?
