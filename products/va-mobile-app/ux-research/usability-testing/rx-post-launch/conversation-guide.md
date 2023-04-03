@@ -80,7 +80,7 @@ Research moderator will mostly be in observation mode for this portion of the st
 Once prompted by the participant, here are some questions:
 
 * What important information do you need when requesting a refill?
-    * Have you eer missed a indow to get a refill?
+    * Have you ever missed a window to get a refill?
 * Let's talk about what you’re seeing at the top of the screen. 
     * Have you ever used the ‘Filter by’ button? 
     * What do you think that means?
