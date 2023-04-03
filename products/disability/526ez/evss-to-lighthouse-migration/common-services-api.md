@@ -7,7 +7,7 @@ Janet asked us to investigate if we need to work on Common Services API as part 
 
 ---
 
-Common Services API apparently referes to a service or collection of APIs within EVSS. I hear different names for these things from different people, so I'm not sure if everyone is on the same page as to which endpoitns are included in this service/catogorization.
+Common Services API apparently refers to a service or collection of APIs within EVSS. I hear different names for these things from different people, so I'm not sure if everyone is on the same page as to which endpoitns are included in this service/catogorization.
 
 Either way, there is one class/service in `vets-api` called `EVSS::CommonService` that seems to hold Common Services API endpoints within it. `EVSS:CommonService` includes the 2 of the 3 URLs (as hardcoded strings) that Janet calls out in her message: "/getCurrentInfo" and "/findRatingInfoPID". The third url referenced in Janet's message is "/ratedDisabilities".
 
