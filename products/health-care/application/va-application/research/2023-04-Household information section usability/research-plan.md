@@ -133,9 +133,20 @@ Veterans: completed 10; requested 15
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
 
+- At least **4 out of the ## completed sessions** are with a 
+
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
+
+
+### Screener questions
+
+For recruiting 4 screen reader users
+
+- (a) Do you need to use assistive technology to use the internet such as VoiceOver on an Apple device, TalkBack on an Android device, or JAWS on a computer? (Proceed to question b if yes, if no, disqualify)
+- (b) Are you able to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
+
 
 
 
