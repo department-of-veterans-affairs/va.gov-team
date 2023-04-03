@@ -3,7 +3,7 @@
 # Meeting Details
  - Meeting Date: 4/3/2023 07:00 AM Pacific
  - Location: Microsoft Teams Meeting
- - Participants (8 )
+ - Participants (8)
 	 - [Josephs, Meredith S. (she/her/hers)](mailto:Meredith.Josephs@va.gov)
 	 - [Alexia Wunder](mailto:alexia.wunder@bylight.com)
 	 - [Bobby M Bailey](mailto:robert.m.bailey@bylight.com)
