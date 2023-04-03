@@ -36,7 +36,15 @@ ________________________________________________________________________________
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Design] Create New Design that Excludes the QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55833)
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964)  
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Finish CodePen prototype](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56144)  
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update pre-check-in text message](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/56176)  
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Finish CodePen prototype](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/56144)  
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] [Design] Best method to document specifications to engineers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/55457)  
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add additional screens into unified check-in experience sketch page with user flows](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/56181) 
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Address or implement feedback from sitewide content review](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/56182)  
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Document unified experience specifications to engineers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/55458)       
       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [SPIKE: [FE] Explore Architecture Changes Necessary to Support Unified Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55019) 
+      - Schedule Midpoint Review
    - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55830)
@@ -44,6 +52,7 @@ ________________________________________________________________________________
    - **Sub Goal: [Add Facility Address to Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54865)**     
       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Fix appointment details unit tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53769)      
 - **GOAL: Address tech & design debt**   
+    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] Determine how artboards should be named in sketch](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/56179)    
    - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Migrate Check-in Dashboard to monitor EKS vets-api in Staging/Prod](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55019) 
 
 ------------------------- END FUTURE / TENTATIVE ----------------------------
