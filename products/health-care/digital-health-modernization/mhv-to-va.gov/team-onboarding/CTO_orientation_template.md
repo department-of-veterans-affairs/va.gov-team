@@ -15,7 +15,7 @@ Please schedule a short chat with each of these folks, either individually or in
 - [ ] Jonathan Nelson (Designer)
 - [ ] Carlos Felix (Technical Architect)
 - [ ] Daniel Cloud (Engineering lead, filling in for Eric Voshall)
-- [ ] Eric Voshall (Full stack developer, returning April 11
+- [ ] Eric Voshall (Full stack developer, returning April 11)
 
 ### Review documentation and project information
 
