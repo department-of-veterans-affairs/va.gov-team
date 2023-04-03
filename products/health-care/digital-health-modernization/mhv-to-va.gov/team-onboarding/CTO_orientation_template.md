@@ -9,7 +9,7 @@ Welcome [Name] ! We can use this ticket to track your onboarding activities to t
 Please schedule a short chat with each of these folks, either individually or in groups.
 
 - [ ] Lauren Alexanderson (OCTO Product Sponsor)
-// - [ ] Lynne Johnson (Delivery Manager - April 3
+- [ ] Lynne Johnson (Delivery Manager - starting April 4)
 - [ ] Marci McGuire (Product Manager)
 - [ ] Cara Frissell (Research Lead)
 - [ ] Jonathan Nelson (Designer)
