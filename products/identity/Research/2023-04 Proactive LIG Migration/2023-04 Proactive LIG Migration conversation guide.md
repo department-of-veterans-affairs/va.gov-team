@@ -1,4 +1,4 @@
-# Conversation Guide for Identity, Organic Login.gov Adoption
+# Conversation Guide for Identity, Proactive LIG Migration
 
 ## Moderator logistics
 
