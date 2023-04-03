@@ -1,8 +1,8 @@
 # Content status update request
 Last updated by @tygindraux: April 3, 2023
 
-## Who we’re working with
-|Stakeholder|Engagement|
+## Who we're working with
+|Stakeholder|How we're working together|
 |:--|:--|
 |Sitewide Content|Their role is to manage content on VA.gov Drupal landing pages. We've been working a closely with them to audit and update existing migration related content on VA.gov and receive product content suggestions and feedback. We have a weekly content sync with their leads and our content strategist.|
 |VEO|They own VA news (blog and newsletter). We've worked with Tim Hudak, the Customer Experience Comms Lead to publish a blog in January about Login.gov. We communicate with the VEO regularly through attending and updating at a bi-weekly identity comms meeting.|
@@ -11,6 +11,12 @@ Last updated by @tygindraux: April 3, 2023
 |eBenefits||
 |VBA||
 |VHA||
+
+## List of engagements
+|Date|Frequency|Engagement|Attendees|
+|:--|:--|
+|Wednesdays|Bi-weekly|Identity Comms Meeting|OCTO, OCC/MHV, VBA, VHA, eBenefits|
+|Thursdays|Weekly|Sign In and Identity Content Sync|VA.gov Sitewide Content|
 
 ## Replying to queries from the Core team
 |Touchpoint|Status or question|
