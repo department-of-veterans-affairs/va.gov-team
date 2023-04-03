@@ -1,6 +1,6 @@
 # WIP - the research plan template will be filled in as we plan 
 
-# Research Plan for Identity, Organic Login.gov Adoption, [Date]
+# Research Plan for Identity, Proactive Login.gov Migration, [Date]
  
 
 ## Background
@@ -10,12 +10,25 @@ The pathway this research focuses on is to promote Organic Adoption of login.gov
 
 [Link to product brief](url goes here) 
 
+### In scope for this research
+- verbiage for what veterans call a "verified account"
+- veterans who use a legacy CSP
+- self-directed migration to a modern CSP
+
+### Out of scope for this research
+- Support for account creation or proofing
+   - like potential VA integrations with login.gov account creation process
+   - like potential VA work to help veterans through the current login.gov (or ID.me) account creation process
+- Pathway for Grandfathering accounts from legacy CSP
+   - like binding to login.gov verified accounts based off legacy proofing
+- Pathway for organic adoption of login.gov (those who are creating an account for the first times)  
+
 ### Previous related research
 
-* [2022-10 Research LoginGov Field Research #185](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/185)
-* [2022-07 MHV transition to Login.gov as a single sign-on #157](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/157)
-* [2022-07 Login Self-Service Tool #156](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/156)
-* [2022-03 Sign-In Accessibility #93](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/93)
+- [2022-10 Research LoginGov Field Research #185](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/185)
+- [2022-07 MHV transition to Login.gov as a single sign-on #157](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/157)
+- [2022-07 Login Self-Service Tool #156](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/156)
+- [2022-03 Sign-In Accessibility #93](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/93)
 
 
 ### OCTO Objectives 
