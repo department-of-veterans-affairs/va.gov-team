@@ -19,7 +19,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to web page:* **[bit.ly/41Yy7wz](https://www.figma.com/proto/pqSQOl4IodScHhobr0GkbD/Income-Limits-Prototype?page-id=0%3A1&node-id=5%3A1001&viewport=1731%2C1829%2C0.48&scaling=min-zoom&starting-point-node-id=5%3A1001&hotspot-hints=0&hide-ui=1)**
+- *Open a standalone browser window to web page:* **[bit.ly/41Yy7wz](https://www.figma.com/proto/pqSQOl4IodScHhobr0GkbD/Income-Limits-Prototype?page-id=201%3A1943&node-id=202-4360&viewport=1270%2C1287%2C0.36&scaling=min-zoom&starting-point-node-id=202%3A3001&hotspot-hints=0)**
 - *Paste link into Slack so ready to paste into Zoom chat*
 
 - *Do Not Disturb ON so no notifications*
