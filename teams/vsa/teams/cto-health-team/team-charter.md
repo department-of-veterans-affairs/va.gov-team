@@ -1,5 +1,4 @@
 # CTO Health Team - Team Charter
----
 
 ## Why we're here
 
