@@ -1,6 +1,6 @@
 # Samara's 2023 maternity leave plan
 
-**Last updated: March 20, 2023**
+**Last updated: April 4, 2023**
 
 Roughly, this will be some time between March - June of 2023, depending on when the baby arrives.
 
@@ -45,10 +45,31 @@ These projects are the top priorities, as they align with the top OCTO objective
 ### [Onsite notifications V2: Scale notifications feature](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications#readme)
 
 - **OCTO objective**: Enhance Veterans' personalized online experience
-- **Status**: Next steps are up in the air, as we are trying to figure out if any of the existing VANotify notifications are good candidates to incorporate into VA.gov.
+- **Status**: Updating design of notification styling; Notification center stakeholder discovery
 - [Long-term planning](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=1904788724)
 
 Priorities for this quarter are [notification center discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery/samara-initial-thoughts.md) and [implementing the new onsite notification design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/README.md).
+
+**If there is time**, I would like the team to start on a very, VERY MVP notification center. 
+
+**Why**
+
+We had anticipated waiting on this until we had a new notification to add. However, [after a discussion with the MHV health apartment team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/meeting-notes/mhv-authexp-vanotify-4.3.23.md), it's clear we might need to move quickly on this once a new notification is ready. We don't want to be in a position where a new notification is ready and we have to wait to launch it until we've updated the notification dunctionality to accomodate this.
+
+**What this is**
+
+At most, this would be a page we could link to from My VA/the health apartment/anywhere on the site to view all notifications.
+
+**What this is not**
+
+- This does not involve any changes to the nav or any notification indicators to start (though this is likely to happen eventually).
+- This is not a sub-page of My VA, at least URL-wise. It should be treated as something that can be linked to from anywhere, or eventually grow into a global tool.
+
+**Steps involved**
+
+- Technical discovery to determine scope
+- Design/research
+- The rest of the collab cycle
 
 ### [Notification preferences: Updates to add email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/add-email-channel)
 
