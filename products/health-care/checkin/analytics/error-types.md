@@ -35,7 +35,7 @@ Source: [Direct link to Google Analytics](https://analytics.google.com/analytics
 | Malformed Token | www.va.gov/health-care/appointment-pre-check-in/error?error=bad-token | | ||  ![image](https://user-images.githubusercontent.com/86678742/229581260-25a406db-5112-4435-8e22-a2391e1a83bf.png) |
 | Session Error | www.va.gov/health-care/appointment-check-in/error?error=session-error |  |  ||  ![image](https://user-images.githubusercontent.com/86678742/229581337-ecb9cf09-678b-488f-98d6-9ea8b52bcf5f.png) |
 |System | www.va.gov/health-care/appointment-check-in/error/ | | ||   |
-|System | www.va.gov/health-care/appointment-check-in/error?error=reload-data-error | | ||   |
+|System | www.va.gov/health-care/appointment-check-in/error?error=reload-data-error | | || ![Screen Shot 2023-04-04 at 10 55 04 AM](https://user-images.githubusercontent.com/2982977/229832820-5855fa3e-3352-44ae-ad43-8a7d09c36b6c.png) |
 |System | www.va.gov/health-care/appointment-check-in/error?error=refresh-on-details | | ||  |
 |System | www.va.gov/health-care/appointment-check-in/error?error=no-next-of-kin | | ||  |
 |System | www.va.gov/health-care/appointment-check-in/error?error=error-fromlocation-landing | | ||  |
