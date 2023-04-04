@@ -11,18 +11,29 @@ Common Services API apparently refers to a service or collection of APIs within 
 
 Either way, there is one class/service in `vets-api` called `EVSS::CommonService` that seems to hold Common Services API endpoints within it. `EVSS:CommonService` includes the 2 of the 3 URLs (as hardcoded strings) that Janet calls out in her message: "/getCurrentInfo" and "/findRatingInfoPID". The third url referenced in Janet's message is "/ratedDisabilities".
 
+
 **get_current_info**: 
 - EVSS::CommonService uses the "/getCurrentInfo" URL in the [get_current_info](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/evss/common_service.rb#L16) method.
 	- The URL is separately used in a similar class/method with the same/similar name under the [VSO Search](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/evss/vso_search/service.rb#L23) namespace. But I don't think that changes anything for 526. Just noting it here for comprehensiveness.
-- **I do not see this method/url used in 526ez**
 - I see the `get_current_info` method used only for [Power of Attorney](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/user.rb#L412) and/or STEM Scholarship stuff which Matt said he'd shift to another team.
-**- Conclusion: I don't think we have to do anything with this**
+- To do:
+	- Verify nothing to do in `form_profiles` dir.
+	- Check for Form_ID = "21-526EZ" throughout project
+	- Confirm Breaker is not making a call to EVSS
 
 **get_rating_info**:
 - EVSS::CommonService uses the "/findRatingInfoPID" URL in the [get_rating_info](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/evss/common_service.rb#L20) method.
 - I see `get_rating_info` used only in one place that could be 526 related. It's called by a [method](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/disability_compensation_forms_controller.rb#L67) within the `DisabilityCompensationFormsController`. However, I don't see that controller method used anywhere. It seems this functionality was removed from 526 but the controller method was not cleaned up/removed in that process.
 - I see `get_rating_info` used in other parts of the codebase (e.g.: `HealthCareApplication` and `Mobile::V0::DisabilityRating::Proxy`), but those seem outside of our realm of influence and responsibility.
-- **Conclusion: I don't think we have to do anything with this**
+- Note "wss-common-services-web-11.6/rest/ratingInfoService/11.6/findRatingInfoPID = 31,680,780" suggests this URL is hit millions of times within 90 days. [Original Slack message](https://dsva.slack.com/archives/C02CQP3RFFX/p1678393631109879).
+- To do:
+	- check `vets-website`
+		- is it hitting the "/v0/disability_compensation_form/rating_info" endpoint
+		- Understand how `vets-website` is making calls to the backend
+			- .../hca/utils/actions.js
+			- .../forms/save-in-progress/actions.js
+	- Is mobile using this?
+	- Are we responsible for HealthCareApplication?
 
 **/ratedDisabilities**
 - This is Seth and Aurora's work, right?
