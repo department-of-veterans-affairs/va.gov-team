@@ -11,11 +11,11 @@ Focus area | Last audit | URLs reviewed | Results
 Health care hub | | | 
 Disability hub | | | 
 Education and training hub | | | 
-Careers and employment | | | 
-Pension | | | 
-Housing assistance| | | 
-Life insurance| | | 
-Burials and memorials | | | 
-Records | | | 
-Decision reviews | | | 
+Careers and employment hub | | | 
+Pension hub| | | 
+Housing assistance hub| | | 
+Life insurance hub| | | 
+Burials and memorials hub| | | 
+Records hub | | | 
+Decision reviews hub| | | 
 Root level | | | 
