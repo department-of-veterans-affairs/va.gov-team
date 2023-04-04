@@ -1,0 +1,21 @@
+## IA Audits
+
+VA.gov is constantly launching new content and tools, as well as continually updating content to ensure accuracy.  As a result of this constant growth and evolution, the organization of pages and features on the site, as well as implementation of key navigation components, can fall out of sync with standards.   
+
+The purpose of the annual IA audit is to quickly review all pages and features within the unauth benefit hub space to identify IA debt that needs to be corrected to ensure proper site structure and accurate navigation and flow.
+
+[Auditing checklist](
+
+Focus area | Last audit | URLs reviewed | Results
+--- | --- | --- | ---
+Health care hub | | | 
+Disability hub | | | 
+Education and training hub | | | 
+Careers and employment | | | 
+Pension | | | 
+Housing assistance| | | 
+Life insurance| | | 
+Burials and memorials | | | 
+Records | | | 
+Decision reviews | | | 
+Root level | | | 
