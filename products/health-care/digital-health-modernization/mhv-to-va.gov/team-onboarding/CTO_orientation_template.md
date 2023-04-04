@@ -22,6 +22,19 @@ More details about the team and our business partners can be found in the [Produ
 ## Learn about our team
 - [ ] Our [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/cto-health-team/team-charter.md) provides information on our mission, vision, who we are, and how we work.
 
+### Helpful terminology
+- Cerner - generally used to refer to Oracle Cerner's electronic health care product (EHR) that runs on their Millennium platform.  This system started being implemented in VA healthcare facilities in 2018, but was temporarily halted after five facilities due to issues.  That rollout is anticipated to resume in June 2023.
+- My HealtheVet - often abbreviated MHV - refers to the "classic" My HealtheVet portal whose core tools are currently being integrated into VA.gov.  Note that there is always a space after "My".
+- My HealtheVet on VA.gov - the new MHV experience on VA.gov.  This initiative has also had a few other working names that you may run across in older documents, labels in ZenHub, etc -- Digital Health Modernization, Health Modernization Initiative, Health Apartment, My Health.
+- FHIR (pronounced "fire") - Fast Healthcare Interoperability Resources is a standard defines how healthcare information can be exchanged between different computer systems regardless of how it is stored in those systems.
+- "The memo" - in the context of My HealtheVet on VA.gov, this likely refers to (the memorandum)[https://dsva.slack.com/files/U772MC9BQ/F049D5Q3WG2/depsec_signed_views___8149650.pdf] signed by Donald Remy, Deputy Secretary of the VA on 11/2/2022, officially marking the start of the My HealtheVet on VA.gov integration work.  We were given a two-year timeline.
+- OCTO - VA's Office of the Chief Technology Officer
+- OCC - Office of Connected Care
+- PGHD - Patient-Generated Health Data - health data that is self-entered by the patient
+- PHR - Patient Health Record - often used to refer to an API used to retrieve data stored in VisTA
+- VistA - The Veterans Health Information Systems and Technology Architecture (VISTA) is a health information system deployed across all veteran care sites in the United States.
+- WTF bot - an acronym bot in the DSVA Slack workspace.  Enter the command `/WTF` followed by the abbreviation in question to find out what it used to refer to.
+
 ### Review documentation and project information
 
 We currently store our project documentation in markdown files in GitHub.  Here are some helpful documents to review on the MHV to VA.gov initiative. 
@@ -35,7 +48,7 @@ We currently store our project documentation in markdown files in GitHub.  Here 
 - [ ] [Digital Health Modernization directory on GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization) - contains the research and prototypes that preceded the MHV on VA.gov MVP
 - [ ] [MHV on VA.gov Mural room](https://app.mural.co/t/departmentofveteransaffairs9999/r/1646265288521) - requires VA.gov email address and invitation to join
 
-#### MHV on VA.gov tools
+### Get familiar with the MHV on VA.gov work
 Product outlines for the tools, integration efforts, and rollout info related to this initiative. There's a lot to consume and it may take some time to get acclimated. Bookmark these and come back often as you dive deeper into to each area. 
 
  - [Landing page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page)
@@ -48,6 +61,9 @@ Product outlines for the tools, integration efforts, and rollout info related to
   - [Health Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/health-resources) (not yet started)
 - [Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page) 
 - [Rollout information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/rollout) - Rollout gates, phases, and readiness checklists
+
+### Learn a little about GitHub documentation
+- 
 
 ### Log into staging and check out the landing page (requires access to the VA network)
 Follow the steps below to find user credentials for logging in:
