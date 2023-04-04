@@ -33,6 +33,7 @@ We currently store our project documentation in markdown files in GitHub.  Here 
 - [ ] [CTO Health Team PI planning board](https://app.zenhub.com/workspaces/mhv-to-vagov-cto-team-pi-10-integration-planning-board-63a31dce3fe3310026840f42/board) - this is updated before each PI Planning to reflect the upcoming Product Increment. 
 - [ ] 9MHV to VA.gov product directory on GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov) - contains directories for the various parts that make up My HealtheVet on VA.gov
 - [ ] [Digital Health Modernization directory on GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization) - contains the research and prototypes that preceded the MHV on VA.gov MVP
+- [ ] [MHV on VA.gov Mural room](https://app.mural.co/t/departmentofveteransaffairs9999/r/1646265288521) - requires VA.gov email address and invitation to join
 
 #### MHV on VA.gov tools
 Product outlines for the tools, integration efforts, and rollout info related to this initiative. There's a lot to consume and it may take some time to get acclimated. Bookmark these and come back often as you dive deeper into to each area. 
