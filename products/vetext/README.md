@@ -146,7 +146,7 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 ### Future / Proposed Uses
 |**Use Case**|**Description**|
 |--|--|
-|[**Cerner Integration**]()|Adds support for utilizing VEText at sites that have migrated from VistA to Cerner.
+|[**Cerner Integration**]|Adds support for utilizing VEText at sites that have migrated from VistA to Cerner.
 |[**Call to Schedule**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/gh/department-of-veterans-affairs/va.gov-team/36721)|Sends text message to Veteran asking them to call a number to schedule their appointment.
 |[**Prevention of Readmission**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/gh/department-of-veterans-affairs/va.gov-team/56241)|Sends follow up messages after discharge to check on patient status in hopes of preventing re-admission. 
 |[**Appointment Reminder Rescheduling**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/gh/department-of-veterans-affairs/va.gov-team/49201)|When Veteran's recieve an appointment reminder, they will have a new option to communicate their desire to reschedule vs. cancel.
