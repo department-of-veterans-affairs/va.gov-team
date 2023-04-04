@@ -62,10 +62,13 @@ Product outlines for the tools, integration efforts, and rollout info related to
 - [Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page) 
 - [Rollout information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/rollout) - Rollout gates, phases, and readiness checklists
 
-### Learn a little about GitHub documentation
-- 
+### Learn a little about GitHub and documentation in markdown files
+- [VA Platform GitHub guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md#using-the-vagov-team-repo) - provides info on where to put your files, file naming standards, file types.
+- [GitLFS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/documentation/how-to-use-git-lfs-with-github-desktop-app.md) - GitHub desktop add-on for uploading large files
+- [LaTex table generator tool](https://tablesgenerator.com/)
+- [Mermaid diagramming tool](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 
-### Log into staging and check out the landing page (requires access to the VA network)
+### Log into staging and check out the MyHealtheVet on VA.gov landing page (requires access to the VA network)
 Follow the steps below to find user credentials for logging in:
 
 - Log into the VA network 
