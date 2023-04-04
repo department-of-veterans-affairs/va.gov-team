@@ -12,18 +12,32 @@
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
 * How does this initiative help further OCTO-DE's mission and goals?
 
+- Veterans do not want to provide their income details for various reasons
+     - Fear of benefits denial based on income level
+     - Fear of taking benefits away from other deserving Veterans because of income level
+     - Fear of benefits denial because last year's earnings do not reflect this year's income level
+     - Do not want VA to have this kind of information, believe it to be unnecessary
+     - Do not want to take the time to find the income data
+     - Veteran is not the primary financials handler, and needs to consult spouse/significant other
 <!--
 ## Desired User Outcomes
 - *Why would a user want to use this?*
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Veterans will opt-in to allow VA.gov to pull last year's income from IRS
+- Veterans will feel less burden to locate/calculate the income data themselves
 
 ## Undesired User Outcomes
-## Desired Business Outcomes
+- Veterans will feel this is too much of a violation of privacy
+- Veterans will not opt-in to allow IRS to send the income details and will also not provide their income details themselves
 
+## Desired Business Outcomes
 - *Why would your business want this to exist?*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- More accurate income reporting being received directly from IRS
+- Less burden on processing, since the income verification step would be unnecessary
 
 ## Undesired Business Outcomes
+- 
 -->
 
 ---
@@ -43,17 +57,18 @@
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Veterans may not like the idea of VA obtaining data directly from IRS
+  - Veterans may not know or understand where the Income value comes from (what field, what document from IRS)
+  
 - **Usability Risks** (can people figure out how to use it):
   - .
+  
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+  - May need to build additional technology to integrate with IRS systems, including additonal security
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+  - VA stakeholder End-to-end testing
+  - Compliance concerns on obtaining this data from IRS, will most likely require explicit Opt-In language 
 
 ### What're you building
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
