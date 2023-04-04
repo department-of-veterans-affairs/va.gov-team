@@ -154,11 +154,28 @@ TBD
 - **Notification center discovery** - Should start towards the end of Q1 CY2023; will continue and likely be completed in Q2.
 - **New notification design** - Put new notification design through collab cycle/build (OK if this ends up launching Q3).
 
-#### To start, if time
+#### To start, if time: Notification center MVP
 
 [Notes are also in Samara's maternity leave plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/maternity-leave-plan-2023.md#onsite-notifications-v2-scale-notifications-feature)
 
+**Why**
 
+This was initially slated for Q3 CY2023, but I am moving this up. We had anticipated waiting on this until we had a new notification to add; however, [after a discussion with the MHV health apartment team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/meeting-notes/mhv-authexp-vanotify-4.3.23.md), it's clear we might need to move quickly on this once a new notification is ready. We don't want to be in a position where a new notification is ready and we have to wait to launch it until we've updated the notification dunctionality to accomodate this.
+
+**What this is**
+
+At most, this would be a page we could link to from My VA/the health apartment/anywhere on the site to view all notifications.
+
+**What this is not**
+
+- This does not involve any changes to the nav or any notification indicators to start (though this is likely to happen eventually).
+- This is not a sub-page of My VA, at least URL-wise. It should be treated as something that can be linked to from anywhere, or eventually grow into a global tool.
+
+**Steps involved**
+
+- Technical discovery to determine scope
+- Design/research
+- The rest of the collab cycle
 
 ### Q3 CY2023
 
@@ -166,14 +183,13 @@ TBD
 
 - **New notification design** - Launch new notification design if not launched in Q2.
 - **New notifications** - Add new notifications if there is anything appropriate for us to add.
-
-
+- **If possible**: Launch notification center MVP.
 
 ### Q4 CY2023
 
 #### To complete
 
-- **Launch notification center** - Launch notification center MVP.
+- **Launch notification center** - If not done in Q3 CY2023.
 - **New notifications** - Add new notifications if there is anything appropriate for us to add.
 
 ## Key deliverables
