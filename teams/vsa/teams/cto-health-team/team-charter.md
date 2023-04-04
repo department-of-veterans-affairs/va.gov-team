@@ -110,8 +110,11 @@ Review accomplishments from prior sprint, what went well, what can be improved, 
 - When planning meetings, we check others' calendars for availability.  If a time cannot be found, we ask folks to provide their availability using [When2meet](https://www.when2meet.com/), or if there are only a few time slots to choose from, we put it to a vote in Slack using reaction emojies - [example](https://dsva.slack.com/archives/C03ECSBGSKX/p1660768928334879).
 
 #### Slack:
-- Slack is the primary form of communication for the team outside meetings.  Please thread replies, and @ the folks you need to provide info to, or need feedback from. [#mhv-on-vagov-portal-home](https://dsva.slack.com/archives/C04GDQSHD1R)
+- Slack is the primary form of communication for the team outside meetings.  It is encouraged that we communicate in public channels rather than private channels or direct messages, except when necessary.  Please thread your replies, and @ whoever you need to specifically provide info to, or need feedback from.  Channels:
+  -  [#mhv-on-vagov-portal-home](https://dsva.slack.com/archives/C04GDQSHD1R) - Discovery & architectural discovery, development of auth & unauth "MHV on VA.gov" landing page.
+  -  [#health-portal-backchannel](https://dsva.slack.com/archives/C02TKHQCF9U)- Private invitation-only channel for discussing topics that are not yet ready for public disclosure.
+  -  [#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV) - A space for any gov or contract team member working on or adjacent to the MHV portal on va.gov (aka apartment) to ask questions, coordinate across teams, or openly discuss a topic of interest.
+  -  [#health-care-products-all-teams](https://dsva.slack.com/archives/C02BTDTEPNH) - Let’s connect the dots across VA’s digital health products so Veterans, doctors, and staff don’t have to.
 
 #### GitHub
-- [products/healthcare/questionnaires/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire)
 - [Github/Zenhub labels - my-health-INTEGRATION + my-health](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125) -- all work related to MHV on VA.gov needs the `my-health` label, and `my-health-INTEGRATION` label denotes the work being done by the CTO Health Team
