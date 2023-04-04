@@ -156,8 +156,9 @@ However, this is not a strict binary, and some people float between efforts depe
 
 #### Team members
 
-- **Ana (AJ) Jakabcin** - PM for the My VA/onsite notifications half of the team. **AJ does not manage profile work, nor does she (or do I expect her to) have familiarity with that half of the portfolio**.
-- **Berni Xiong** - Delivery manager; supports both halves of the team.
+- **Ana (AJ) Jakabcin** - PM for the My VA/onsite notifications half of the team. 
+- **Travis Cahill** - PM for the profile half of the team; Just started April 3, so he'll be very much onboarding throughout my entire leave.
+- **Berni Xiong** - Delivery manager; supports both halves of the team. Can help with profile-related PM work as Travis onboards.
 - **Liz Lantz** - Senior designer; Working on the logged-in IA/nav research for now, but has primarily worked on the profile.
 - **Angela Agosto** - Designer primarily supporting My VA and onsite notifications.
 - **Florence McCafferty** - Designer primarily supporting the profile, or floating as needed to other priorities.
@@ -165,8 +166,6 @@ However, this is not a strict binary, and some people float between efforts depe
 - **Adam Whitlock** - Frontend developer primarily supporting the profile.
 - **Tom Harrison** - Backend developer primarily supporting the profile, but has historically pitched in on the My VA half of the portfolio has needed.
 - **Derrick Ellerbie** - Full stack developer, starting out supporting the My VA dashboard, but can float as needed to other priorities. 
-
-Unfortunately, **we are still without a profile PM since the contract switch in December 2022**, which is a huge hole/risk to have that role open while I am out. I imagine someone will start while I am on leave. Berni Xiong (delivery manager) is responsible for onboarding the new PM with the help of the profile team.
 
 ### Efforts I'm tapped into
 
