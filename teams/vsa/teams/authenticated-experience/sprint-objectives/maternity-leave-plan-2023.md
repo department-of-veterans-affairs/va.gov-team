@@ -42,7 +42,7 @@ Chante will NOT being doing any of the following:
 
 These projects are the top priorities, as they align with the top OCTO objectives for the year:
 
-### [Onsite notifications V2: Scale notifications feature](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/notifications-v2#readme)
+### [Onsite notifications V2: Scale notifications feature](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications#readme)
 
 - **OCTO objective**: Enhance Veterans' personalized online experience
 - **Status**: Next steps are up in the air, as we are trying to figure out if any of the existing VANotify notifications are good candidates to incorporate into VA.gov.
