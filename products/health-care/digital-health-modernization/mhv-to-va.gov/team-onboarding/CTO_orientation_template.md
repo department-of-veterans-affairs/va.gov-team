@@ -9,7 +9,7 @@ Welcome [Name] ! We can use this ticket to track your onboarding activities to t
 Please schedule a short chat with each of these folks, either individually or in groups.
 
 - [ ] Lauren Alexanderson (OCTO Product Sponsor) - please work with [Alicia Proctor](https://dsva.slack.com/team/U022MUJ2NAJ), Lauren's executive assistant to schedule a meeting.
-- [ ] Lynne Johnson (Delivery Manager - starting April 4)
+- [ ] Lynne Johnson (Delivery Manager)
 - [ ] Marci McGuire (Product Manager)
 - [ ] Cara Frissell (Research Lead)
 - [ ] Jonathan Nelson (Designer)
