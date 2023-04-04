@@ -23,10 +23,10 @@
 **Detail page**
 - [ ] Content placement
   - This is a placeholder for capturing any concerns over the overall placement of the page within the IA 
-- Page structure
+- [ ] Key IA elements of page are in place
   - [ ] H1 includes most critical keywords and accurately captures the context of the page
   - [ ] Meta description is 55 characters or less
-  - [ ] Page includes an OTP component if helpful, and it functions correctly
+  - [ ] Page includes an on this page component if helpful, and it functions correctly
   - [ ] Primary CTAs - Eligibility and How to apply pages should have a primary CTA to either an online or PDF application
     - Would be good to log how we label these CTAs, and what type of page they go to (online form, form detail page, pdf)
 - [ ] URL follows all [VA.gov URL standards](https://design.va.gov/content-style-guide/url-standards)
@@ -55,7 +55,7 @@
   - [ ] When on a translated page, the appropriate breadcrumb segments are also translated
   - [ ] When on a translated page, the appropriate left nav options are also translated
 - [ ] Related content at bottom of page (if applicable)
-  - [ ] If there is a related content box at the bottom of the page, it is using the proper component
+  - [ ] Proper component is being used to offset it from core page content
   - [ ] Links are in correct order
     - Need to determine and document approach to order of these links
   - [ ] Links go to correct destination page
