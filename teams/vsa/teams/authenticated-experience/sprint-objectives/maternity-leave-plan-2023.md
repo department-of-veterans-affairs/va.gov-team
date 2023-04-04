@@ -35,7 +35,7 @@ Chante will NOT being doing any of the following:
 
 ### [My VA audit updates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#readme)
 
-- **Status**: Pre-launch; Should launch early in April 2023 if everything stays on track.
+- **Status**: UAT; Should launch early in April 2023 if everything stays on track.
 - [Long-term planning](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=923468617)
 
 ## Top priorities
@@ -50,7 +50,7 @@ These projects are the top priorities, as they align with the top OCTO objective
 
 Priorities for this quarter are [notification center discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery/samara-initial-thoughts.md) and [implementing the new onsite notification design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/README.md).
 
-**If there is time**, I would like the team to start on a very, VERY MVP notification center. 
+#### If there is time: I would like the team to start on a very, VERY MVP notification center.
 
 **Why**
 
