@@ -6,9 +6,9 @@
 
 - Complete any project-specific setup tasks for this study (List them below)
 
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Run pilot session
+- [ ] Refine the questions, if needed
+- [ ] Meet up with the Observers
 
 
 ### Day of the session
@@ -68,7 +68,7 @@ Before we start, a few things I want to mention:
 
 ## Refill Process
 
-Research moderator will mostly be in observation mode for this portion of the study. The moderator will invite the participant to speak aloud as they refill a prescription in the app. If the participant does not have an Active prescription to work with, they will walk through their recent experience refilling a prescription in the app. 
+_Research moderator will mostly be in observation mode for this portion of the study. The moderator will invite the participant to speak aloud as they refill a prescription in the app. If the participant does not have an Active prescription to work with, they will walk through their recent experience refilling a prescription in the app._ 
 
 * Pick a med that you need, walk us through the refill. Remind to speak aloud thoughts
 
