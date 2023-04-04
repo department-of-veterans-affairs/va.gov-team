@@ -28,7 +28,7 @@ More details about the team and our business partners can be found in the [Produ
 - My HealtheVet - often abbreviated MHV - refers to the "classic" My HealtheVet portal whose core tools are currently being integrated into VA.gov.  Note that there is always a space after "My".
 - My HealtheVet on VA.gov - the new MHV experience on VA.gov.  This initiative has also had a few other working names that you may run across in older documents, labels in ZenHub, etc -- Digital Health Modernization, Health Modernization Initiative, Health Apartment, My Health.
 - FHIR (pronounced "fire") - Fast Healthcare Interoperability Resources is a standard defines how healthcare information can be exchanged between different computer systems regardless of how it is stored in those systems.
-- "The memo" - in the context of My HealtheVet on VA.gov, this likely refers to [the memorandum](https://dsva.slack.com/files/U772MC9BQ/F049D5Q3WG2/depsec_signed_views___8149650.pdf) signed by Donald Remy, Deputy Secretary of the VA on 11/2/2022, officially marking the start of the My HealtheVet on VA.gov integration work.  We were given a two-year timeline.
+- "The memo" - in the context of My HealtheVet on VA.gov, this likely refers to [the memorandum](https://dsva.slack.com/files/U772MC9BQ/F049D5Q3WG2/depsec_signed_views___8149650.pdf) signed by Donald Remy, Deputy Secretary of the VA on 11/2/2022, officially marking the start of the two years to complete My HealtheVet on VA.gov integration work.  
 - OCTO - VA's Office of the Chief Technology Officer
 - OCC - Office of Connected Care
 - PGHD - Patient-Generated Health Data - health data that is self-entered by the patient
