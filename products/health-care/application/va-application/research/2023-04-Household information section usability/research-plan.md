@@ -119,14 +119,10 @@ For moderated usability tests:
 ### Recruitment approach
 Our intended audience for this reasearch are Veterans and we will be using and leveraging Perigean to recruit participants.
 
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
-
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
 Veterans: completed 12; requested 20
-
-
 
 
 **Primary criteria (must-haves)**
@@ -135,21 +131,24 @@ What demographics, experience, and scenarios do you need participants to meet to
 - All must have a disability rating of 40% or below 
 - All must currently or in the past claimed dependents (on their tax returns?)
 
-- At least **4 out of the ## completed sessions** are with a screen reader
-- At least **4 out of the ##** are mobile users
-- At least **4 out of ##** are female
-- At least **2 out of ##** are currently living abroad
-- At least **2 out of the ##** are of immigrant origin
+- At least **4 out of the 12 completed sessions** are with a screen reader
+- At least **4 out of the 12** are mobile users
+- At least **2 out of 12** are currently living abroad
+- At least **2 out of the 12** are of immigrant origin
   
 
 
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
-
 - 
 
 ### Screener questions
+
+
+For all: 
+- Do you have a disability rating of over 50%? (Proceed if no, if yes, disqualify)
+- Do you currently or in the past claimed dependents on your tax return? (Proceed if yes, if no, disqualify)
 
 
 For recruiting 4 screen reader users
@@ -158,6 +157,9 @@ For recruiting 4 screen reader users
 
 For recuriting 4 mobile users
 - Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. (Answer should be yes to satisfy criteria for 4 mobile users)
+
+
+
 
 
 ## Timeline
