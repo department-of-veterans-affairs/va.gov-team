@@ -1,5 +1,16 @@
 # MHV health apartment/Auth experience/VANotify call -- 4.3.23
 
+## In attendance
+
+- Patrick Bateman (Health apartment team)
+- Coulton Bunney (Health apartment team)
+- Matt Dingee (Design system lead)
+- Beverly Nelson (VANotify)
+- Samara Strauss (Auth exp)
+- Allison Lu (Auth exp)
+- Angela Agosto (Auth exp)
+- Berni Xiong (Auth exp)
+
 ## New notification styling/design
 
 - Angela and Ryan's iteration of the notification styling is near-identical already.
