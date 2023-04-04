@@ -1,49 +1,37 @@
-
-
 # CTO Health Team - Team Charter
-
 ---
 
 ## Why we're here
 
 ### Executive Summary:
-Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows. 
-
+Our mission to simplify Veterans’ health experience on the web by consolidating all health things into a single health “home” on VA.gov. As we consolidate the health experience, we will work closely with the "classic" My HealtheVet / Office of Connected Care (OCC) and with teams throughout OCTO.
 
 ### Mission:
 
 ... is to deliver personalized experiences that support collaboration and create a seamless health and well-being journey
 
-### Vision:
+### Vision
 
 ... to meet users where they are and empower them with tools that exceed expectations
   1. accessibility
   2. partner in collaboration
   3. be delightful 
 
-[Mission/Vision/North Star Ideas Explored](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/mission-statement.md)
-
-
-### Product Suite (if applicable): 
-Healthcare Experience - Veteran (person/consumer of health) 
-
-
-### Product Portfolio:
- 1. Healthecare - Questionnaires/Intake forms
- 	- [Roadmap 2020 Feature Availability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md)
- 2. Check-in Experience
+### North Star
+Reduce the time it takes for a Veteran to achieve an outcome through self-service means.
 
 ---
 
 ## Who we are
-
-Healthcare Experience Team | name ⋅   role  
------ | --------- |
- [Ming Ligh](#) ⋅ OCTO-DE Lead, Product Owner   |     [Patrick Bateman](#)    ⋅ DEPO, Product Owner
- [Lauren Alexanderson](#)  ⋅   DEPO, Product Owner |  [Stephen Barrs](#) ⋅ DEPO, Engineering owner
- [Amanda Buckley](#) ⋅ VSA, Sr. Product Manager    |   [Kristen McConnell](#) ⋅ VSA, Designer/Researcher
- [Mark Dewey](#)  ⋅  VSA, Front End Engineer   |    [Dillo Raju](#m)⋅   VSA, BE Engineer 
-
+CTO Health Team
+- [ ] Lauren Alexanderson (OCTO Product Sponsor) - please work with [Alicia Proctor](https://dsva.slack.com/team/U022MUJ2NAJ), Lauren's executive assistant to schedule a meeting.
+- [ ] Lynne Johnson (Delivery Manager - starting April 4)
+- [ ] Marci McGuire (Product Manager)
+- [ ] Cara Frissell (Research Lead)
+- [ ] Jonathan Nelson (Designer)
+- [ ] Carlos Felix (Technical Architect)
+- [ ] Daniel Cloud (Engineering lead, filling in for Eric Voshall)
+- [ ] Eric Voshall (Full stack developer, returning April 11)
 
 ---
 
@@ -55,8 +43,8 @@ Healthcare Experience Team | name ⋅   role
 - Check in on people and product progress
 - 3 Question Format: What I did yesterday? What will I do today? Any blockers?
 
-##### Zoom Stand-up | Slack-up
-- MWF @ 11:15 time |  TR @ 11:15 time
+##### Zoom Stand-up 
+- TU,W,F @ 3:30 PM ET
 - 15 min 
 
 <br/>
@@ -73,24 +61,29 @@ As of 08/25/2020, the current columns on our sprint board columns are
 |**Ready**|	Ready tickets are tickets that come from the backlog. Once a Backlog ticket is estimated, it gets moved into the Ready column. These tickets are ready to go (well defined, estimated, approved by the team), but not in any current sprint.|
 |**Current Sprint**	|These tickets are taken from the Ready column and are queued to be completed in the current sprint. This is the "to do" column for the current sprint.|
 |**In Progress**|	These tickets represent the work that is going on currently. Active work (development, documentation, etc) should be reflected in a ticket in this column. This is one of the few columns that every ticket should be in at one point. A ticket's assignee should be putting notes and updates on currently worked on tickets.|
-|**Validate**|	This column represents tickets that no longer being actively worked on, but are going through some review process. This review process can be, but not limited to, meetings or code reviews.|
 |**Blocked**|	Tickets in the blocked column can not be worked on for some reason. That reason should be documented on the ticket, and if a ticket exists that fixes that blocker, that ticket should be linked.|
+|**Validate**|	This column represents tickets that no longer being actively worked on, but are going through some review process. This review process can be, but not limited to, meetings or code reviews.|
 |**Closed**|	These tickets are complete and are confirmed to be completed.|
 
 <br/>
 
+#### Program Increment Planning
+We participate in PI planning with the "classic" My HealtheVet teams doing work for OCC.  These are 3.5 day sessions typically held in March, June, September, and December.  The organizer for that group will send out invitations several weeks prior.  
+
+We have created a [PI Planning board in ZenHub](https://app.zenhub.com/workspaces/mhv-to-vagov-cto-team-pi-10-integration-planning-board-63a31dce3fe3310026840f42/board) on which we list each person's capacity for a given sprint, and use to plan work out for the PI.  This board can filtered by assignee to compare assigned work to capacity.  It can be re-used for each new PI by updating the PI number, dates, sprint numbers, team members, and their capacity.
+
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
-- Monday before the start of each sprint @10AM cst
+- Monday before the start of each sprint @2PM ET
 - 1 hour
 
-#### Grooming
+#### Backlog Refinement
 Assess and update workload for remainder of sprint
 
-- 2nd Wednesday of every sprint
+- 2nd Monday of every sprint @ 2PM ET
 - 1 hour
-- [Zenhub: vsa-healthcare-exp](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=33202667,133843125&showPipelineDescriptions=false)
+- [Zenhub: MHV on VA.gov Top-Level View](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125)
 
 ##### Issue Estimates
 
@@ -107,20 +100,17 @@ Assess and update workload for remainder of sprint
 Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action items
 
 - Following Sprint Planning each sprint 
-- 30 min
-- [Retro meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/README.MD)
-- [FunRetro board](https://funretro.io/publicboard/4jDNHWIHteeHmFUUN8G6lt30KuJ3/8f06df19-f2a4-491f-bc56-7b678c4f53f7)
-- [Zenhub: vsa-healthcare-exp](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=33202667,133843125&showPipelineDescriptions=false)
+- [Mural retro meeting notes](https://app.mural.co/t/departmentofveteransaffairs9999/r/1646265288521?folderUuid=71665ae5-6949-4418-b43e-4c15ff8977fa)(requires VA.gov email + invitation to join room)
+- [Mural retro template](https://app.mural.co/template/26d527db-4983-4417-acd5-9e1ff43dec5a/1028a2d5-6844-442a-876b-c24d727d5b53)(requires VA.gov email + invitation to join)
+- [Zenhub: MHV on VA.gov Top-Level View](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125)
 
 
 #### Team Norms
-- Team Zoom Happy Hour - Monthly, Wednesdays @3:30-4:30PM cst.
-- Team crosses Central and Eastern Time zones so typical business/meeting hours are 9AM-4PM cst.
-
+- Team crosses all US time zones so core business/meeting hours are 12-4PM ET.
 
 #### Slack:
-[#vsa-clipboard](https://dsva.slack.com/archives/C0136TS768M)
+- Slack is the primary form of communication for the team outside meetings.  Please thread replies, and @ the folks you need to provide info to, or need feedback from. [#mhv-on-vagov-portal-home](https://dsva.slack.com/archives/C04GDQSHD1R)
 
 #### GitHub
 - [products/healthcare/questionnaires/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire)
-- [Zenhub label - vsa-healthcare-exp](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=33202667,133843125&showPipelineDescriptions=false)
+- [Github/Zenhub labels - my-health-INTEGRATION + my-health](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125) -- all work related to MHV on VA.gov needs the `my-health` label, and `my-health-INTEGRATION` label denotes the work being done by the CTO Health Team
