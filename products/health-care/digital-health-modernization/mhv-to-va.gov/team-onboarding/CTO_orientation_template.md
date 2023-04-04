@@ -23,6 +23,7 @@ More details about the team and our business partners can be found in the [Produ
 - [ ] Our [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/cto-health-team/team-charter.md) provides information on our mission, vision, who we are, and how we work.
 
 ### Helpful terminology
+- a11y - an abbreviation for accessibility coined by the a11y project.  The 11 in the middle represents 11 letters in the middle of the word accessibility.
 - Cerner - generally used to refer to Oracle Cerner's electronic health care product (EHR) that runs on their Millennium platform.  This system started being implemented in VA healthcare facilities in 2018, but was temporarily halted after five facilities due to issues.  That rollout is anticipated to resume in June 2023.
 - My HealtheVet - often abbreviated MHV - refers to the "classic" My HealtheVet portal whose core tools are currently being integrated into VA.gov.  Note that there is always a space after "My".
 - My HealtheVet on VA.gov - the new MHV experience on VA.gov.  This initiative has also had a few other working names that you may run across in older documents, labels in ZenHub, etc -- Digital Health Modernization, Health Modernization Initiative, Health Apartment, My Health.
