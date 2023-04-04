@@ -104,13 +104,13 @@ Thanks!
 
 We're going to run through a series of tasks related to managing your health care appointments at VA. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
-## Task 1: Find the appointments list.
+## Task 1: Log in to VA.gov
 
 STARTING POINT: [va.gov appointment list](https://www.va.gov/health-care/schedule-view-va-appointments)
 
 PROMPT: Go ahead and login to your account using your email address and password. 
 
-## Task 2: Log in to VA.gov
+## Task 2: Find the appointments list.
 
 PROMPT: Next, say you wanted to find out what health appointments you have scheduled for the next month. Show me how you would find that from here.
 
