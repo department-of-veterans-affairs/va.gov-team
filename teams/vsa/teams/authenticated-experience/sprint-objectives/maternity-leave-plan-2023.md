@@ -54,7 +54,7 @@ Priorities for this quarter are [notification center discovery](https://github.c
 
 **Why**
 
-We had anticipated waiting on this until we had a new notification to add. However, [after a discussion with the MHV health apartment team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/meeting-notes/mhv-authexp-vanotify-4.3.23.md), it's clear we might need to move quickly on this once a new notification is ready. We don't want to be in a position where a new notification is ready and we have to wait to launch it until we've updated the notification dunctionality to accomodate this.
+We had anticipated waiting on this until we had a new notification to add. However, [after a discussion with the MHV health apartment team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/meeting-notes/mhv-authexp-vanotify-4.3.23.md), it's clear we might need to move quickly on this once a new notification is ready. We don't want to be in a position where a new notification is ready and we have to wait to launch it until we've updated the notification functionality to accommodate this.
 
 **What this is**
 
