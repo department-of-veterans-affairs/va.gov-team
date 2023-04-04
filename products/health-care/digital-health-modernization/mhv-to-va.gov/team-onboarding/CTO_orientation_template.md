@@ -19,11 +19,16 @@ Please schedule a short chat with each of these folks, either individually or in
 
 More details about the team and our business partners can be found in the [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md#team). 
 
-## Learn about our team
+## Learn more about our team
 - [ ] Our [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/cto-health-team/team-charter.md) provides information on our mission, vision, who we are, and how we work.
 
 ### Helpful terminology
 - a11y - an abbreviation for accessibility coined by the a11y project.  The 11 in the middle represents 11 letters in the middle of the word accessibility.
+- CAG - Citrix Access Gateway - gets you access to the VA virtual desktop.  Will need your PIV card to authenticate.
+- CPRS - Computerized Patient Record System - clinician-facing view of VistA
+- Millennium is the electronic equivalent of Vista.  Any PAMPI - Problems, Allergies, Medications, Procedures and Immunizations - are stored there
+- Healthy Intent is the longitudinal patient record store. 
+- Healthy Life is the equivalent of MyHealtheVet in the Cerner world.
 - Cerner - generally used to refer to Oracle Cerner's electronic health care product (EHR) that runs on their Millennium platform.  This system started being implemented in VA healthcare facilities in 2018, but was temporarily halted after five facilities due to issues.  That rollout is anticipated to resume in June 2023.
 - My HealtheVet - often abbreviated MHV - refers to the "classic" My HealtheVet portal whose core tools are currently being integrated into VA.gov.  Note that there is always a space after "My".
 - My HealtheVet on VA.gov - the new MHV experience on VA.gov.  This initiative has also had a few other working names that you may run across in older documents, labels in ZenHub, etc -- Digital Health Modernization, Health Modernization Initiative, Health Apartment, My Health.
@@ -33,8 +38,27 @@ More details about the team and our business partners can be found in the [Produ
 - OCC - Office of Connected Care
 - PGHD - Patient-Generated Health Data - health data that is self-entered by the patient
 - PHR - Patient Health Record - often used to refer to an API used to retrieve data stored in VisTA
-- VistA - The Veterans Health Information Systems and Technology Architecture (VISTA) is a health information system deployed across all veteran care sites in the United States.
+- VistA - The Veterans Health Information Systems and Technology Architecture (VISTA) is an Electronic Health Record (EHR), one of the first in the country, and one of the only open source EHRs.  There are 147 different installations for each of the VA medical centers (VISN). 
 - WTF bot - an acronym bot in the DSVA Slack workspace.  Enter the command `/WTF` followed by the abbreviation in question to find out what it used to refer to.
+
+### Some background history 
+
+- Early 1970s - the National Center for Health Services Research and Development, a component of the U.S. Public Health Service, began planning for development of what would become Electronic Health Records (EHR). 
+- 1977 - VA Massachusetts General Hospital Utility Multi-Programming System (MUMPS), a precursor to VistA, was developed by the Computer Assisted System Staff (CASS) Team
+- Early 1980s -  VA made its software available without restriction in the public domain to other government and private sector organizations, in compliance with the Freedom of Information Act. VA recognized this opportunity to support widespread EHR adoption and offered use of VistA as the standard-bearer for EHR implementation around the world
+- June 1981 - VA MUMPS was renamed the Decentralized Hospital Computer Program (DHCP), and VA Administrator Robert Nimmo joined Rep. G.V. "Sonny" Montgomery to establish DHCP as VA's Medical Information System Development Program to formalize its organization and management.
+- December 1981 - Congressman Sonny Montgomery arranges for the DHCP to be written into law as VA's medical-information systems development program. VA Administrator Robert P. Nimmo followed up on February 18, 1982 with an Executive Order describing how the DHCP was to be organized and managed within VA's Department of Medicine and Surgery.
+- 1990 - VistA, VA's first image management system, provided VA physicians with immediate access to patient medical images, regardless of location. VistA first became operational at the Washington, D.C. VA Medical Center (VAMC) to manage radiologic, pathology, gastroenterology, and laparoscopic images, as well as electrocardiograms.
+- 1994 - VA's Under Secretary for Health, Kenneth W. Kizer, M.D., renames DHCP as VistA, the Veterans Health Information Systems and Technology Architecture.
+- 2003 - VA launches My HealtheVet nationwide on Veterans Day 2003. The personal health record portal now has over 2.5 million registered users.
+- 2015 - DOD awarded a $3.4 billion contract to Cerner Corporation for new electronic health record system.
+- 2017 - VA decides to acquire the same Cerner system as DOD
+- 2018 - VA awards contract to Cerner
+- 2021 - Cerner deployed at Spokane Washington VA Medical Center (VAMC)
+- Mar - Jun 2022 - Cerner deployed at four more VAMCs (Walla Walla, WA; Columbus, OH; Roseburg, OR; White City, OR)
+- Oct 2022 - VA announced it would delay upcoming deployments of its new EHR until June 2023 to address challenges with the system and make sure it is functioning optimally for Veterans and VA health care personnel. 
+- 
+Sources: [History of IT at VA](https://www.oit.va.gov/about/history.cfm), [US Congress' Timeline - VA's Electronic Health Record History](https://www.congress.gov/116/meeting/house/110555/documents/HHRG-116-AP18-20200227-SD001.pdf)
 
 ### Review documentation and project information
 
