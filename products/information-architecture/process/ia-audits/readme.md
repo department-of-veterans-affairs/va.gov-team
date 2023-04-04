@@ -4,7 +4,7 @@ VA.gov is constantly launching new content and tools, as well as continually upd
 
 The purpose of the annual IA audit is to quickly review all pages and features within the unauth benefit hub space to identify IA debt that needs to be corrected to ensure proper site structure and accurate navigation and flow.
 
-[Auditing checklist](
+[Auditing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/audit-checklist.md)
 
 Focus area | Last audit | URLs reviewed | Results
 --- | --- | --- | ---
