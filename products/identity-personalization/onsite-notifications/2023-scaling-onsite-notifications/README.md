@@ -1,6 +1,6 @@
 # Initiative outline: Scaling onsite notifications
 
-**Last updated: March 20, 2023**
+**Last updated: April 4, 2023**
 
 ### Communications
 
@@ -154,9 +154,11 @@ TBD
 - **Notification center discovery** - Should start towards the end of Q1 CY2023; will continue and likely be completed in Q2.
 - **New notification design** - Put new notification design through collab cycle/build (OK if this ends up launching Q3).
 
-#### Out of scope
+#### To start, if time
 
-- Adding a notification center to the navigation
+[Notes are also in Samara's maternity leave plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/maternity-leave-plan-2023.md#onsite-notifications-v2-scale-notifications-feature)
+
+
 
 ### Q3 CY2023
 
@@ -165,9 +167,7 @@ TBD
 - **New notification design** - Launch new notification design if not launched in Q2.
 - **New notifications** - Add new notifications if there is anything appropriate for us to add.
 
-#### To start
 
-- **Adding a notification center** - This might take a few different forms. An initial MVP could be a page that links from My VA but is not in the nav. Exact approach will be TBD depending on discovery and product/design thinking. 
 
 ### Q4 CY2023
 
