@@ -243,6 +243,12 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 -   Max number of sessions per day: 2
 
+### Kickoff Call with Perigean: Availability
+
+Friday 4/7/23: window 8am PT / 11am ET - 12pm PT / 3pm ET, 
+
+Monday 4/10: window 1pm PT / 4pm ET - 2pm PT / 5pm ET
+
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
