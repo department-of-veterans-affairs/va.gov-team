@@ -83,7 +83,7 @@ In order to be able to add email as a channel, we need to do two things: add the
 
 Behind the scenes, Samara is coordinating backend implementation of the MHV notification preferences in VA Profile. Once those have been implemented in VA Profile and MHV, we should be in good shape to add them to our UI.
 
-**A note on the collab cycle**: The team can put the default send functionality and the new design updates through the collab cycle together. However, I believe Liz's design and user research have already been through the collab cycle. If that is the case, you should mention this to the platform team so you're not wasting time on design intent or an extra round of research we don't need.
+**A note on the collab cycle**: The team can put the default send functionality and the new design updates through the collab cycle together. Liz's designs also need to go through a design intent review, but she's already conducted usability testing on these designs, and we should let the platform team know that. You should not need to conduct user research again since it's already been done.
 
 ### [Generative logged-in IA/navigation research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ia-and-navigation/2023-generative-logged-in-research)
 
