@@ -45,18 +45,19 @@ CTO Health Team
 ##### Zoom Stand-up 
 - TU,W,F @ 3:30 PM ET
 - 15 min 
+- We sometimes opt to have a Slack-up if most of the team unavailable, and we cancel our ceremonies during PI planning.
 
 <br/>
 
 ### Sprint board columns
 
-As of 08/25/2020, the current columns on our sprint board columns are 
+As of 4/4/2023, the current columns on our sprint board columns are:
 
 | Column |Description| 
 |:--:| :-- |
 |**Icebox**	|Tasks here are nice to haves, blue sky ideas, or ideas that need more thought. These tasks may or may not be well defined and not estimated. Usually, big idea task will start here|
 |**Epics**|	Epics are high-level tasks. These have details, and. are usually well defined. Epics have subtasks that run through the process. An epic is closed when all the subtasks are closed|
-|**Backlog**|	The backlog is the holding pen for tasks. This column contains tickets that are a granular task that is well defined, but may or may not be estimated yet. A new task is usually created and stored here. Even if pointed we should use backlog to hold pointed tickets until sprint planning or we are confident that it should go in upcoming sprint.  |
+|**Backlog**|	The backlog is the holding pen for tasks. This column contains tickets that are a granular task that is well defined, but may or may not be estimated yet. A new task is usually created and stored here. Even if pointed we should use backlog to hold pointed tickets until sprint planning or we are confident that it should go in upcoming sprint. Before being estimated or worked on, all tickets must have tasks and acceptance criteria defined. |
 |**Ready**|	Ready tickets are tickets that come from the backlog. Once a Backlog ticket is estimated, it gets moved into the Ready column. These tickets are ready to go (well defined, estimated, approved by the team), but not in any current sprint.|
 |**Current Sprint**	|These tickets are taken from the Ready column and are queued to be completed in the current sprint. This is the "to do" column for the current sprint.|
 |**In Progress**|	These tickets represent the work that is going on currently. Active work (development, documentation, etc) should be reflected in a ticket in this column. This is one of the few columns that every ticket should be in at one point. A ticket's assignee should be putting notes and updates on currently worked on tickets.|
@@ -67,9 +68,9 @@ As of 08/25/2020, the current columns on our sprint board columns are
 <br/>
 
 #### Program Increment Planning
-We participate in PI planning with the "classic" My HealtheVet teams doing work for OCC.  These are 3.5 day sessions typically held in March, June, September, and December.  The organizer for that group will send out invitations several weeks prior.  
+Since our work is closely realted, we have been participating in PI planning with the "classic" My HealtheVet teams doing work for OCC.  These are 3.5 day sessions typically held in March, June, September, and December.  The organizer for that activity will send out invitations several weeks prior.  As our team members shift, the PO or PM should let the organizer know to add/remove people.
 
-We have created a [PI Planning board in ZenHub](https://app.zenhub.com/workspaces/mhv-to-vagov-cto-team-pi-10-integration-planning-board-63a31dce3fe3310026840f42/board) on which we list each person's capacity for a given sprint, and use to plan work out for the PI.  This board can filtered by assignee to compare assigned work to capacity.  It can be re-used for each new PI by updating the PI number, dates, sprint numbers, team members, and their capacity.
+We have created a [PI Planning board in ZenHub](https://app.zenhub.com/workspaces/mhv-to-vagov-cto-team-pi-10-integration-planning-board-63a31dce3fe3310026840f42/board) on which we list each person's capacity for a given sprint, then use it to plan work out for the PI.  This board can filtered by assignee to compare assigned work to their capacity.  This board can be re-used for each new PI by updating the PI number, dates, sprint numbers, team members, and their capacity (typically calculated as 8 points per sprint minus one point for each day of planned time off).
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
