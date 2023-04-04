@@ -1,6 +1,6 @@
 # Authenticated experience at a glance
 
-**Last updated: March 21, 2023**
+**Last updated: April 4, 2023**
 
 ## Where to find us 
 
@@ -18,6 +18,7 @@
 |----|----|-----|
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Anastasia (AJ) Jakabcin |Product Manager -- My VA & onsite notifications portfolio| ana@adhocteam.us |
+|Travis Cahill|Product Manager -- Profile portfolio|travis.cahill@agile6.com|
 |Berni Xiong | Delivery manager | berni.xiong@agile6.com |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
 |Florence McCafferty| Designer | Florence.McCafferty@agile6.com |
