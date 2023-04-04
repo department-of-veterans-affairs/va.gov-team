@@ -17,7 +17,7 @@ Please schedule a short chat with each of these folks, either individually or in
 - [ ] Daniel Cloud (Engineering lead, filling in for Eric Voshall)
 - [ ] Eric Voshall (Full stack developer, returning April 11)
 
-- More details about the team and our business partners can be found in the [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md#team). 
+More details about the team and our business partners can be found in the [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md#team). 
 
 ## Learn about our team
 - [ ] Our [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/cto-health-team/team-charter.md) provides information on our mission, vision, who we are, and how we work.
