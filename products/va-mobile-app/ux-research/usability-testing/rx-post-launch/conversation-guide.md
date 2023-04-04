@@ -6,9 +6,9 @@
 
 - Complete any project-specific setup tasks for this study (List them below)
 
-- [ ] Run pilot session
-- [ ] Refine the questions, if needed
-- [ ] Meet up with the Observers
+- [x] Run pilot session
+- [x] Refine the questions, if needed
+- [x] Meet up with the Observers to discuss research protocol
 
 
 ### Day of the session
