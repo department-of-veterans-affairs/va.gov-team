@@ -86,12 +86,18 @@ Behind the scenes, Samara is coordinating backend implementation of the MHV noti
 ### [Generative logged-in IA/navigation research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ia-and-navigation/2023-generative-logged-in-research)
 
 - **OCTO objective**: Refresh the VA.gov homepage and information architecture
-- **Status**: User research planning; User research; Generating a report that summarizes all research activities.
+- **Status**: User research; Generating a report that summarizes all research activities.
 - [Long-term planning](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=189401760)
 
-In Q2 of the calendar year, we'll be running some generative user research to uncover what problems people have navigating the logged-in experience. After research synthesis, we'll work with Mikki and Chante to figure out next steps.
+Liz Lantz will have completed research before Samara goes on leave. While Samara is on leave, Liz will synthesize research and work with Mikki and Chante to figure out next steps.
 
-**Note**: Liz Lantz, who is primarily in the profile half of the portfolio, will be leading this from the auth exp team perspective. However, this is not solely a profile project. This work is more holistic and sits outside of the My VA and Profile division.
+**Samara's thoughts on potential next steps**
+
+These are just some initial thoughts based on the sessions I was able to observe. These are ideas -- NOT mandates -- and next steps should be determined once all research is done and data is synthesized. Based on what I observed, these are areas for improvement:
+
+- **Profile IA**: Some sessions took us to the profile, and there were different thoughts on what should/should not be in the profile. Based on past development, it can sometimes seem like we put new sections in the profile because we're not sure where else they should go based on the overall structure of the site. Based on this research, should we do IA/nav research around what should be in profile? This would be something like a card sort to validate or suggest areas for improvement in our current structure.
+- **Personalized menu (the "name" menu after people sign in)**: We saw people use this menu if they couldn't find a link on the homepage or My VA. We haven't actually changed this menu since its launch 5 years ago, and we've never really asked questions around what makes sense to show in it? We only show links to the profile, My VA, and MHV right now, but there is a lot more personalized content on VA.gov than there was 5 years ago. How can we use this menu to enhance the personalized experience and get people to tools? Potential activities include conducting a card sort; other research activities; or making some educated guesses and launching updates, observing analytics, and going from there.
+- **Personalized info on content pages**: In at least a couple of the sessions I observed, people expected the site to be "smarter" when it came to content pages if they were logged in. For example, we asked people to look up education benefit eligibility, and while people found the information pretty easily, they also expected the site to know whether they did or did not have edu benefits instead of showing them a generic page. I'm not sure what next steps are here, but this is an area we could explore further for improvements.
 
 ## Necessary maintenance
 
