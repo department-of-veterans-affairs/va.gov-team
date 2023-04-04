@@ -24,7 +24,7 @@ Reduce the time it takes for a Veteran to achieve an outcome through self-servic
 
 ## Who we are
 CTO Health Team
-- [ ] Lauren Alexanderson (OCTO Product Sponsor) - please work with [Alicia Proctor](https://dsva.slack.com/team/U022MUJ2NAJ), Lauren's executive assistant to schedule a meeting.
+- [ ] Lauren Alexanderson (OCTO Product Sponsor) - please work with [Alicia Proctor](https://dsva.slack.com/team/U022MUJ2NAJ), Lauren's executive assistant to schedule meetings.
 - [ ] Lynne Johnson (Delivery Manager - starting April 4)
 - [ ] Marci McGuire (Product Manager)
 - [ ] Cara Frissell (Research Lead)
@@ -107,6 +107,7 @@ Review accomplishments from prior sprint, what went well, what can be improved, 
 
 #### Team Norms
 - Team crosses all US time zones so core business/meeting hours are 12-4PM ET.
+- When planning meetings, we check others' calendars for availability.  If a time cannot be found, we ask folks to provide their availability using [When2meet](https://www.when2meet.com/), or if there are only a few time slots to choose from, we put it to a [vote in Slack using reaction emojies](https://dsva.slack.com/archives/C03ECSBGSKX/p1660768928334879).
 
 #### Slack:
 - Slack is the primary form of communication for the team outside meetings.  Please thread replies, and @ the folks you need to provide info to, or need feedback from. [#mhv-on-vagov-portal-home](https://dsva.slack.com/archives/C04GDQSHD1R)
