@@ -9,7 +9,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ## Initial Findings
 
-### A copy of discharge paperwork (e.g. DD214) is a requirement for receiving any VA benefit or service. *While reviewing recordings as part of synthesis, I realized this is actually not always true. However, almost all participants believe this to be true so for them, it is in a way. 1/10 participants has never had a DD214, and has successfully applied for benefits.*
+### A copy of discharge paperwork (e.g. DD214) is a requirement for receiving any VA benefit or service. *While reviewing recordings as part of synthesis, I realized this is actually not always true. However, almost all participants believe this to be true (which does make it true for them, as not having a copy ends up causing them to put off application). 1/10 participants has never had a DD214, and has successfully applied for benefits.*
 Simply memorizing the information on one's DD214 is insufficient. The document itself is needed to prove that one has served in the military, and not only for VA-related benefits. Veterans must also present their DD214 (or other discharge papers) to get a Veteran ID. If they don't have a Veteran ID, the DD214 is a fine substitute for accessing non-VA Veteran-only memberships, discounts, and privileges.
 
 ### Some Veterans lack easy access to their DD214.
