@@ -51,56 +51,45 @@ Before we start, a few things I want to mention:
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 
-## Warm Up - 8 minutes
-- What motivated you to download the VA health and benefits app?
-- How long have you used it?
-- What are the main things that you do in the app?
-
-#### Optional (may need to cut for timing):
-- How frequently do you use it? Daily, weekly, monthly?
-- What do you like best? What do you wish you could change?
+## Warm-up
+* When did you download the app?
+    * What was the motivation?
+* How frequently do you use it (daily, weekly, monthly)?
+    * What do you use it for?
 
 
-## General - 15 minutes
-* What did you do the last time you had to fill a prescription?
-    * Is this your first time using an app or website to order prescriptions? (ok to skip)
-    * First time doing it with the VA Health + Benefits app? (ok to skip)
-* Do you take any medications that you don’t get through VA? 
-    * How do you manage those? 
-* Are there meds that are not represented here that you still get through VA?
-    * (feel out, ok to skip) What about things that aren’t pills?
+## General (Rx at VA)
+* How do you manage meds today?
+    * Manage any non-VA?
+* How did you fill a prescription the last time?
+* First time doing it in the app?
+    * If no, tell me abt the other time?
 
 
-#### Transition: Invite the participant to open the app and share screen
+## Refill Process
 
-
-## Process - 15 minutes
 Research moderator will mostly be in observation mode for this portion of the study. The moderator will invite the participant to speak aloud as they refill a prescription in the app. If the participant does not have an Active prescription to work with, they will walk through their recent experience refilling a prescription in the app. 
 
-Once prompted by the participant, here are some questions:
+* Pick a med that you need, walk us through the refill. Remind to speak aloud thoughts
 
-* What important information do you need when requesting a refill?
-    * Have you ever missed a window to get a refill?
-* Let's talk about what you’re seeing at the top of the screen. 
-    * Have you ever used the ‘Filter by’ button? 
-    * What do you think that means?
-* Tap into **Filter by.** Reviewing the list on the screen, can you walk through each of the words and one by one, let me know what you think they mean?
-* What do you expect to happen after you submit the request?
+#### General prompts
+* Notice any issues?
+    * How would you resolve these issues?
 
-
-## List Detail - 5 minutes
-* Is there anything missing or confusing here?
-    * If so, what is it, and how would you get unstuck?
+#### If they do not bring up Filters
+* Filters: What do you think each of those mean?
 
 
-## Individual Prescription Detail - 3 minutes
-* Can you describe what the dates listed here mean to you?
-    * Fill date, Expires on, Ordered on
+## Detail Screen
+* Talk to me about what you’re seeing?
+* Any other areas in Rx we haven't touched on?
 
 
-## Closing - 3 minutes
+## Closing
+#### Recall the Rx Refill process
+* What do you expect to happen after submission?
+* Wave magic wand on the app, what would you change?
 * Your feedback is an important step in our work on the app, and we appreciate your time today. Your voice matters! It helps us understand what you go through, so we can continue to improve the experience with these tools.
 * Thank you!
-
 
 ###
