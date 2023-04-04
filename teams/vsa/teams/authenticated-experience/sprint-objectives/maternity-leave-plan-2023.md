@@ -88,7 +88,7 @@ Behind the scenes, Samara is coordinating backend implementation of the MHV noti
 ### [Generative logged-in IA/navigation research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ia-and-navigation/2023-generative-logged-in-research)
 
 - **OCTO objective**: Refresh the VA.gov homepage and information architecture
-- **Status**: User research; Generating a report that summarizes all research activities.
+- **Status**: User research synthesis; Generating a report that summarizes all research activities; Determine next steps.
 - [Long-term planning](https://docs.google.com/spreadsheets/d/1EN2Z0MPLZ-6qAS3S4q6uiwCekSU1daysJkykDs5bPCs/edit#gid=189401760)
 
 Liz Lantz will have completed research before Samara goes on leave. While Samara is on leave, Liz will synthesize research and work with Mikki and Chante to figure out next steps.
