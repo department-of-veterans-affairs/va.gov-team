@@ -44,7 +44,7 @@ More details about the team and our business partners can be found in the [Produ
 - My HealtheVet - often abbreviated MHV - refers to the "classic" My HealtheVet portal, originated in 2003.  Note that there is always a space after "My". It has been in its current iteration for roughly six years, and its core tools are currently being integrated into VA.gov.  
 - My HealtheVet on VA.gov - the new MHV experience on VA.gov.  This initiative has also had a few other working names that you may run across in older documents, labels in ZenHub, etc -- Digital Health Modernization, Health Modernization Initiative, Health Apartment, My Health.
 - OCTO - Department of Veterans Affairs Office of the Chief Technology Officer
-- OCC - Office of Connected Care
+- OCC - Office of Connected Care.  This includes the 
 - PAMPI - Problems, Allergies, Medications, Procedures and Immunizations
 - PGHD - Patient-Generated Health Data - health data that is self-entered by the patient
 - PHR - Patient Health Record - often used to refer to an API used to retrieve data stored in VisTA
@@ -61,27 +61,29 @@ More details about the team and our business partners can be found in the [Produ
 - _1990_ - VistA, VA's first image management system, provided VA physicians with immediate access to patient medical images, regardless of location. VistA first became operational at the Washington, D.C. VA Medical Center (VAMC) to manage radiologic, pathology, gastroenterology, and laparoscopic images, as well as electrocardiograms.
 - _1994_ - VA's Under Secretary for Health, Kenneth W. Kizer, M.D., renames DHCP as VistA, the Veterans Health Information Systems and Technology Architecture.
 - _2003_ - VA launches My HealtheVet nationwide on Veterans Day 2003. The personal health record portal now has over 2.5 million registered users.
-- _2015_ - DOD awarded a $3.4 billion contract to Cerner Corporation for new electronic health record system.
+- _2015_ - DOD awards a $3.4 billion contract to Cerner Corporation for new electronic health record system.
 - _2017_ - VA decides to acquire the same Cerner system as DOD
 - _April 2018_ - the Department of Veterans Affairs introduces the VA Digital Modernization Strategy, which includes a plan for updating VA.gov, shared credentails across all VA services, personalization, mobile access, self-service tool standardization, and API consolidation.
 - _May 2018_ - VA awards a contract to Cerner for an Electronic Health Record System
-- _October 2020_ - After several delays related to the Covid-19 pandemic and infrastructure problems, Cerner's EHR is partially deployed at the Spokane Washington VA Medical Center (VAMC)
+- October 1, 2020 - VA announces plan to launch Cerner's patient portal alongside My HealtheVet
+- _October 24, 2020_ - After several delays related to the Covid-19 pandemic and infrastructure problems, Cerner's EHR is partially deployed at the Spokane Washington VA Medical Center (VAMC)
 - _April - July 2021_ - A series of OCTO-OCC Digital Health Modernization Workshops is held, and the concept previously referred to as "Health Home" becomes "Health Apartment," which is in reference to a concept that describes it as an apartment within the "building" of VA.gov.
 - _December 2021_ - President Biden signs [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) stating that, in part, The Secretary of Veterans Affairs shall "provide digital services through a single, integrated, and equitable digital platform on VA.gov and the VA mobile app". 
 - _March 2022_ - The Office of Inspector General (OIG) conducted two inspections and identified deficiencies in data migration, medication orders, and medication reconciliation.
 - _Mar - Jun 2022_ - Cerner deployed at four more VAMCs (Walla Walla, WA; Columbus, OH; Roseburg, OR; White City, OR) 
 - _Oct 2022_ - VA announced it would delay upcoming deployments of its new EHR until June 2023 to address challenges with the system and make sure it is functioning optimally for Veterans and VA health care personnel
-- 
 - _Nov 2022_ - a memorandum was signed by Donald Remy, Deputy Secretary of the VA that officially gave approval for My HealtheVet on VA.gov as an untethered patient portal instead of Cerner's patient portal.
 
-Sources: [History of IT at VA](https://www.oit.va.gov/about/history.cfm), [US Congress' Timeline - VA's Electronic Health Record History](https://www.congress.gov/116/meeting/house/110555/documents/HHRG-116-AP18-20200227-SD001.pdf)
+#### Sources: 
+- [History of IT at VA](https://www.oit.va.gov/about/history.cfm)
+-  [US Congress' Timeline - VA's Electronic Health Record History](https://www.congress.gov/116/meeting/house/110555/documents/HHRG-116-AP18-20200227-SD001.pdf)
 
 ### Team Dynamics
-We are working very closely with the some of the very business partners and teams that were instrumental in designing and building "classic" My HealtheVet in 2003.  Others on the team have maintained it and added features for the last 20 years. They are extremely knowledgeable in their respective areas, and like us, thoroughly vested in doing what's best for our Veterans.
+We are working very closely with the very same Office of Connected Care (OCC) stakeholders who were instrumental in designing and building "classic" My HealtheVet in 2003.  Their contract IT teams have been responsible for maintaining and enhancing it over the last 20 years. They are all extremely knowledgeable in their respective areas, understand the dependencies between their teams and products, and like us, are thoroughly vested in doing what's best for our Veterans.
 
-Throughout this endeavor, it will be crucial that we collaborate closely with our partners, maintain a respectful and professional rapport. In years past, a different team outside OCC came in and said they were going to take over and shut down MHV, which ruffled a lot of feathers and soured the relationship between OCC stakeholders and outside organizations.  With that in mind, it is important that we understand and respect those sensitivies.  We must demonstrate our expertise and earn their trust in our ability to get this work over the finish line with them, not instead of them.  At the end of this initiative, the teams employed by OCC will ultimately own and maintain these tools, 
+Throughout this endeavor, it will be crucial that we collaborate closely with our OCC partners and maintain a professional, mutually respectful rapport. In years past, a different team external to OCC came in and said they were going to take over and shut down MHV.  Understandably, that approach generated a great deal of stress and eroded trust between OCC stakeholders and external organizations.  With that history in mind, it is important that our team be mindful of those sensitivities in our daily interactions.
 
-
+We should use every interaction with our business partners as an opporunity to demonstrate our expertise and commitment to helping them succeed in geting this work across the finish line.  We want to earn their trust by reinforcing that we are on the same team, and are partnering _with_ them, versus activing trying to replace them.  At the end of this initiative, the expectation is that OCC and their respective tech teams will continue to own and maintain their products long-term.
 
 ### Review documentation and project information
 
