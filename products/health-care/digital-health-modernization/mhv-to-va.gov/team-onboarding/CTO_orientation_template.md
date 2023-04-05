@@ -32,24 +32,21 @@ More details about the team and our business partners can be found in the [Produ
 - [ ] Our [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/cto-health-team/team-charter.md) provides information on our mission, vision, who we are, and how we work.
 
 ### Helpful terminology
-- a11y - an abbreviation for accessibility coined by the a11y project.  The 11 in the middle represents eleven letters in the middle of the word accessibility.
-- CAG - Citrix Access Gateway - gets you access to the VA virtual desktop.  Will need your PIV card to authenticate.
-- CPRS - Computerized Patient Record System - clinician-facing view of VistA
-- Millennium is the electronic equivalent of Vista.  Any  - are stored there
-- Healthy Intent is the longitudinal patient record store. 
-- Healthy Life is the equivalent of MyHealtheVet in the Cerner world.
-- Cerner - generally used to refer to Oracle Cerner's electronic health care product (EHR) that runs on their Millennium platform.  This system started being implemented in VA healthcare facilities in 2018, but was temporarily halted after five facilities due to issues.  That rollout is anticipated to resume in June 2023.
-- FHIR (pronounced "fire") - Fast Healthcare Interoperability Resources is a standard defines how healthcare information can be exchanged between different computer systems regardless of how it is stored in those systems.
-- Memo - in the context of My HealtheVet on VA.gov, "the memo" refers to [the memorandum](https://dsva.slack.com/files/U772MC9BQ/F049D5Q3WG2/depsec_signed_views___8149650.pdf) signed by Donald Remy, Deputy Secretary of the VA on 11/2/2022, officially marking the start of the two years to complete My HealtheVet on VA.gov integration work.  
-- My HealtheVet - often abbreviated MHV - refers to the "classic" My HealtheVet portal, originated in 2003.  Note that there is always a space after "My". It has been in its current iteration for roughly six years, and its core tools are currently being integrated into VA.gov.  
-- My HealtheVet on VA.gov - the new MHV experience on VA.gov.  This initiative has also had a few other working names that you may run across in older documents, labels in ZenHub, etc -- Digital Health Modernization, Health Modernization Initiative, Health Apartment, My Health.
-- OCTO - Department of Veterans Affairs Office of the Chief Technology Officer
-- OCC - Office of Connected Care.  This includes the 
-- PAMPI - Problems, Allergies, Medications, Procedures and Immunizations
-- PGHD - Patient-Generated Health Data - health data that is self-entered by the patient
-- PHR - Patient Health Record - often used to refer to an API used to retrieve data stored in VisTA
-- VistA - The Veterans Health Information Systems and Technology Architecture (VISTA) is an Electronic Health Record (EHR), one of the first in the country, and one of the only open source EHRs.  There are 147 different installations for each of the VA medical centers (VISN). 
-- WTF bot - a bot in the DSVA Slack workspace that can be used to look up the meaning of acronyms.  Enter the command `/WTF` followed by the abbreviation in question.
+- _a11y_ - an abbreviation for accessibility coined by the a11y project.  The 11 in the middle represents eleven letters in the middle of the word accessibility.
+- _CAG_ - Citrix Access Gateway - gets you access to the VA virtual desktop.  Will need your PIV card to authenticate.
+- _CPRS_ - Computerized Patient Record System - clinician-facing view of VistA
+- _Cerner_ - generally used to refer to Oracle Cerner's electronic health care product (EHR) that runs on their Millennium platform.  This system started being implemented in VA healthcare facilities in 2018, but was temporarily halted after five facilities due to issues.  That rollout is anticipated to resume in June 2023.  Cerner also owns a patient-facing portal called My Healthy Life.
+- _FHIR_ (pronounced "fire") - Fast Healthcare Interoperability Resources is a standard defines how healthcare information can be exchanged between different computer systems regardless of how it is stored in those systems.
+- _Memo_ - in the context of My HealtheVet on VA.gov, "the memo" refers to [the memorandum](https://dsva.slack.com/files/U772MC9BQ/F049D5Q3WG2/depsec_signed_views___8149650.pdf) signed by Donald Remy, Deputy Secretary of the VA on 11/2/2022, officially marking the start of the two years to complete My HealtheVet on VA.gov integration work.  
+- _My HealtheVet_ - often abbreviated MHV - refers to the "classic" My HealtheVet portal, originated in 2003.  Note that there is always a space after "My". It has been in its current iteration for roughly six years, and its core tools are currently being integrated into VA.gov.  
+- _My HealtheVet on VA.gov_ - the new MHV experience on VA.gov.  This initiative has also had a few other working names that you may run across in older documents, labels in ZenHub, etc -- Digital Health Modernization, Health Modernization Initiative, Health Apartment, My Health.
+- _OCTO_ - Department of Veterans Affairs Office of the Chief Technology Officer
+- _OCC_ - Office of Connected Care.  This includes the 
+- _PAMPI_ - Problems, Allergies, Medications, Procedures and Immunizations
+- _PGHD _- Patient-Generated Health Data - health data that is self-entered by the patient
+- _PHR_ - Patient Health Record - often used to refer to an API used to retrieve data stored in VisTA
+- _VistA_ - The Veterans Health Information Systems and Technology Architecture (VISTA) is an Electronic Health Record (EHR), one of the first in the country, and one of the only open source EHRs.  There are 147 different installations for each of the VA medical centers (VISN). 
+- _WTF bot_ - a bot in the DSVA Slack workspace that can be used to look up the meaning of acronyms.  Enter the command `/WTF` followed by the abbreviation in question.
 
 ### Background history 
 
@@ -67,11 +64,11 @@ More details about the team and our business partners can be found in the [Produ
 - _May 2018_ - VA awards a contract to Cerner for an Electronic Health Record System
 - October 1, 2020 - VA announces plan to launch Cerner's patient portal alongside My HealtheVet
 - _October 24, 2020_ - After several delays related to the Covid-19 pandemic and infrastructure problems, Cerner's EHR is partially deployed at the Spokane Washington VA Medical Center (VAMC)
-- October 2020 - April 2020 - It becomes evident that having two disparate systems running in parallel during the Cerner rollout is a poor experience for Veterans.  Veterans who have received care at sites where Cerner has been integrated must access Cerner's patient portal (now referred to as "My VA Health" when accessed through My HealtheVet) for Cerner data, and continue using My HealtheVet for information related to other facilities.
-- _April - July 2021_ - A series of OCTO-OCC Digital Health Modernization Workshops is held, and the concept previously referred to as "Health Home" becomes "Health Apartment," which is in reference to a concept that describes it as an apartment within the "building" of VA.gov.
+- October 2020 - April 2020 - It becomes evident that having two disparate systems running in parallel during the Cerner rollout is a poor experience for Veterans.  Veterans who have received care at sites where Cerner has been integrated must access Cerner's _My Healty Life_ patient portal (referred to as _My VA Health_ when accessed through My HealtheVet) for Cerner data, and continue using My HealtheVet for information related to other facilities.
+- _April - July 2021_ - A series of OCTO-OCC Digital Health Modernization Workshops is held, and the concept of bringing My HealtheVet into VA.gov, previously referred to as _Health Home_ becomes the _Health Apartment_, in reference to a metaphor describing it as an apartment within the larger "building" of VA.gov.
 - _December 2021_ - President Biden signs an [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) stating that, in part, The Secretary of Veterans Affairs shall "provide digital services through a single, integrated, and equitable digital platform on VA.gov and the VA mobile app". 
 - _March 2022_ - The Office of Inspector General (OIG) conducted two inspections and identified deficiencies in data migration, medication orders, and medication reconciliation.
-- _Mar - Jun 2022_ - Cerner was deployed at four more VAMCs (Walla Walla, WA; Columbus, OH; Roseburg, OR; White City, OR) 
+- _Mar - Jun 2022_ - Cerner's EHR and patient portal deployed at four more VAMCs (Walla Walla, WA; Columbus, OH; Roseburg, OR; White City, OR) 
 - _Oct 2022_ - VA announced it would delay upcoming deployments of its new EHR until June 2023 to address challenges with the system and make sure it is functioning optimally for Veterans and VA health care personnel
 - _Nov 2022_ - a memorandum was signed by Donald Remy, Deputy Secretary of the VA that officially gave approval for My HealtheVet to be integrated into VA.gov as an untethered patient portal versus using Cerner's patient portal.
 
