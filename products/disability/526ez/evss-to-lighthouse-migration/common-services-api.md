@@ -25,7 +25,7 @@ Either way, there is one class/service in `vets-api` called `EVSS::CommonService
 
 **get_rating_info**:
 - EVSS::CommonService uses the "/findRatingInfoPID" URL in the [get_rating_info](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/evss/common_service.rb#L20) method.
-- I see `get_rating_info` used only in one place that could be 526 related. It's called by a [method](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/disability_compensation_forms_controller.rb#L67) within the `DisabilityCompensationFormsController`. However, I don't see that controller method used anywhere. It seems this functionality was removed from 526 but the controller method was not cleaned up/removed in that process.
+- I see `get_rating_info` used only in one place that could be 526 related. It's called by a [method](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/disability_compensation_forms_controller.rb#L67) within the `DisabilityCompensationFormsController`. This method is exposed via Rails routes. To do: See if `vets-website` is calling this endpoint.
 - I see `get_rating_info` used in other parts of the codebase (e.g.: `HealthCareApplication` and `Mobile::V0::DisabilityRating::Proxy`), but those seem outside of our realm of influence and responsibility.
 - Note "wss-common-services-web-11.6/rest/ratingInfoService/11.6/findRatingInfoPID = 31,680,780" suggests this URL is hit millions of times within 90 days. [Original Slack message](https://dsva.slack.com/archives/C02CQP3RFFX/p1678393631109879).
 - The HealthCare Application code will be covered by a different team. Matt Self said the 1010 Team will take care of it.
