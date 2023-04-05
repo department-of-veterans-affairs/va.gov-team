@@ -14,12 +14,12 @@ Our goals are tied to one or more of our themes:
 * Self Service / Governance
 * Quality / Personal Experience
 * Platform Capabilites
-* Performance, Monitoring & Security
+* Performance, Monitoring, Maintainability & Security
 
 ### Notify Team
 
 #### VEText SMS Migration - Twilio Provider Support
-##### Theme: Performance, Monitoring & Security, Platform Capabilities
+##### Theme: Performance, Monitoring, Maintainability & Security, Platform Capabilities
 ##### OCTO Objective(s): Enhance Veterans' personalized online experience; Integrate the health portal features into VA.gov
 
 VEText reaches millions of Veterans with pertinent health-related SMS notifications like appointment reminders, open appointment slot management, I am here, etc. VA Notify is working to support these existing notifications and will support multiple notification providers.
@@ -69,7 +69,7 @@ Uncertainty around the claims review process is a significant pain point for Vet
 VA Notify currently supports automated, individualized notification events. However, other use cases may be ad-hoc or one-time and should send to a defined list of recipients. VA Notify will  research these opportunities within the VA and build functionality to support these one-off notifications.
 
 #### Email Encryption
-##### Theme(s): Platform Capabilities, Quality / Personal Experience, Performance, Monitoring, & Security
+##### Theme(s): Platform Capabilities, Quality / Personal Experience, Performance, Monitoring, Maintainability & Security
 ##### OCTO Objective(s): Enhance Veterans' personalized online experience
 
 Some notification use cases include sensitive information like PII or PHI. We cannot send this through non-encrypted or non-authenticated channels like email or SMS. We will investigate options to address this problem so Veterans can get the information they need through a secure, digital solution. 
@@ -123,7 +123,7 @@ As we wrap up the Twilio status integration work, we have some room to re-engage
 
 **Expected launch date**: July 2023
 
-#### Performance, Monitoring and Security 
+#### Performance, Monitoring, Maintainability and Security 
 To keep our platform performing at its best, we plan to execute the following:
 * Platform Upgrades (Flask, Celery, etc.)
 * Adding enhanced Datadog Monitoring
@@ -185,7 +185,7 @@ We are working with eBenefits, VADIR, and EVSS to migrate their early comm notif
 
 **Expected launch date**: May 2023
 
-#### Performance, Monitoring and Security
+#### Performance, Monitoring, Maintainability and Security
 To keep our platform performing at its best, we plan to execute the following:
 * Performance Testing
 * Continued implementation of Notification Microservices
