@@ -74,6 +74,7 @@ Please list the people who will be serving in each role.
   - berni.xiong@agile6.com
   - allison@cityfriends.tech
   - derrick.ellerbie@Agile6.com
+  - florence.mccafferty@agile6.com
   - liz.lantz@adhocteam.us
   - Beverly.Nelson@va.gov
   - melanie.jones@oddball.io
