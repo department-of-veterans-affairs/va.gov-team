@@ -60,11 +60,11 @@ More details about the team and our business partners can be found in the [Produ
 - _2003_ - VA launches My HealtheVet nationwide on Veterans Day 2003. The personal health record portal now has over 2.5 million registered users.
 - _2015_ - DOD awards a $3.4 billion contract to Cerner Corporation for new electronic health record system.
 - _2017_ - VA decides to acquire the same Cerner system as DOD
-- _April 2018_ - the Department of Veterans Affairs introduces the VA Digital Modernization Strategy, which includes a plan for updating VA.gov, shared credentails across all VA services, personalization, mobile access, self-service tool standardization, and API consolidation.
+- _April 2018_ - the Department of Veterans Affairs introduces the VA Digital Modernization Strategy, which includes a plan for updating VA.gov, shared credentials across all VA services, personalization, mobile access, self-service tool standardization, and API consolidation.
 - _May 2018_ - VA awards a contract to Cerner for an Electronic Health Record System
 - October 1, 2020 - VA announces plan to launch Cerner's patient portal alongside My HealtheVet
 - _October 24, 2020_ - After several delays related to the Covid-19 pandemic and infrastructure problems, Cerner's EHR is partially deployed at the Spokane Washington VA Medical Center (VAMC)
-- October 2020 - April 2020 - It becomes evident that having two disparate systems running in parallel during the Cerner rollout is a poor experience for Veterans.  Veterans who have received care at sites where Cerner has been integrated must access Cerner's _My Healty Life_ patient portal (referred to as _My VA Health_ when accessed through My HealtheVet) for Cerner data, and continue using My HealtheVet for information related to other facilities.
+- October 2020 - April 2020 - It becomes evident that having two disparate systems running in parallel during the Cerner rollout is a poor experience for Veterans.  Veterans who have received care at sites where Cerner has been integrated must access Cerner's _My Healthy Life_ patient portal (referred to as _My VA Health_ when accessed through My HealtheVet) for Cerner data, and continue using My HealtheVet for information related to other facilities.
 - _April - July 2021_ - A series of OCTO-OCC Digital Health Modernization Workshops is held, and the concept of bringing My HealtheVet into VA.gov, previously referred to as _Health Home_ becomes the _Health Apartment_, in reference to a metaphor describing it as an apartment within the larger "building" of VA.gov.
 - _December 2021_ - President Biden signs an [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) stating that, in part, The Secretary of Veterans Affairs shall "provide digital services through a single, integrated, and equitable digital platform on VA.gov and the VA mobile app". 
 - _March 2022_ - The Office of Inspector General (OIG) conducted two inspections and identified deficiencies in data migration, medication orders, and medication reconciliation.
@@ -81,7 +81,7 @@ We are working very closely with the very same Office of Connected Care (OCC) st
 
 Throughout this endeavor, it will be crucial that we collaborate closely with our OCC partners and maintain a professional, mutually respectful rapport. In years past, a different team external to OCC came in and said they were going to take over and shut down MHV.  Understandably, that approach generated a great deal of stress and eroded trust between OCC stakeholders and external organizations.  With that history in mind, it is important that our team be mindful of those sensitivities in our daily interactions.
 
-We should use every interaction with our business partners as an opporunity to demonstrate our expertise and commitment to helping them succeed in geting this work across the finish line.  We want to earn their trust by reinforcing that we are on the same team, and are partnering _with_ them, versus activing trying to replace them.  At the end of this initiative, the expectation is that OCC and their respective tech teams will continue to own and maintain their products long-term.
+We should use every interaction with our business partners as an opportunity to demonstrate our expertise and commitment to helping them succeed in getting this work across the finish line.  We want to earn their trust by reinforcing that we are on the same team, and are partnering _with_ them, versus actively trying to replace them.  At the end of this initiative, the expectation is that OCC and their respective product teams will continue to own and maintain their products long-term.
 
 ### Review documentation and project information
 
@@ -126,7 +126,7 @@ Follow the steps below to find user credentials for logging in:
 - Filter the results to show users with Healthcare and ID Type ID.me.
 - Find user whose email contains 377
 - Go to https://staging.va.gov
-- Clik _Sign In_ in the main nav
+- Click _Sign In_ in the main nav
 - Select the ID.me option
 - Enter the test user's email address and password
 - When prompted to receive a code by phone:
