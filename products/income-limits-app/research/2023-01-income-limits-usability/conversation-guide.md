@@ -133,7 +133,8 @@ I have a web page that I'd like you to look at while you're sharing your screen 
 While you're looking at the prototype, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. I'm looking for **your feedback**, including any issues that you see or questions that you have. 
 
 I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **bit.ly/3zuL4Be**
-- *(If asked, reassure that this is a legitimate link to what I want you to test.)*
+- *(If asked, reassure that this is a legitimate link to what I want you to test)*
+- *(If see “unsupported browser” error, ask to try a different browser or device, or share my screen and mouse control)*
 
 Do you see the link? 
 
@@ -142,7 +143,7 @@ Do you see the link?
 What are your impressions of what you're looking at? *(RECORD)*
 
 Could you try to use this to find out if you're eligible for VA health care with your current income? Please explain what you want to do before clicking anywhere.
-- *(Click: income limits--under "Will I need to pay..." or "Does VA verify..."?)*
+- *(Click: income limits--under "Will I need to pay..." (w/other links) or "Does VA verify..." (lone link)?)*
 
 ### Task 3: [Intro page of app] 
 Let's talk before you click anywhere...What are your impressions of this page?
