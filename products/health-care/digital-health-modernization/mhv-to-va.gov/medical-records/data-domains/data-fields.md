@@ -54,7 +54,7 @@ Lab and test results include the following information
 |All|Lab type |Type of test | _None_||Do patients need the type in addition to the specific test name in the list view? Or could we remove this?|
 |All|Title of lab report|Test|[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|Suggest using this as the card header in list view, H1 in detail view. If there's no title/test name available, we could pull in the type of test as the card header in list, H1 in detail. |
 |All|Date collected |Date |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|Hard to find single date label for all types — "collected" doesn't work for Radiology or EKG| Can we map date fields from different types into a single "Date" field for list view, but use different "Date" labels in detail views? Or do we need all labels to stay consistent between list and detail views?|
-|All|Ordering provider |Provider|_None_||Is there a need to specify "provider who ordered test"? Or is it clear that this is what "provider" means in this context?|
+|All|Ordering provider |Ordered by|_None_|||
 |:test_tube: **CHEMISTRY / HEMATOLOGY**|
 |Chemistry/hematology|Lab test| |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|Some Chem/Hem tests include subtests in a panel — like lipid panel with LDL, HDL, etc. If there's a panel-level test name, suggest using this as card header in list, H1 in detail. Not all tests will have this panel-level name|Does USCDI include a panel-level element? Or do we map both the panel and the subtests to "Tests" in USCDI?|
 |Chemistry/hematology > Specific test |Test name | Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
@@ -66,7 +66,7 @@ Lab and test results include the following information
 |Chemistry/hematology > Specific test |Interpretation |_Need more info <br> Depending on answers to questions, this could be "Provider explanation" or something similar_  |_None_ || What types of information does this include? What guidance do providers see for field? <br> Who inputs this and the comments field? Ordering provider? PC? Lab technician? We don't want the user to think they can add their own comments.<br> Is interpretation of lab results included in the Values/Results USCDI field?|
 |Chemistry/hematology|Date/time collected| Date and time collected |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
 |Chemistry/hematology|Specimen| Sample tested |_None_|
-|Chemistry/hematology|Ordering provider| Provider |_None_|
+|Chemistry/hematology|Ordering provider| Ordered by |_None_|
 |Chemistry/hematology|Ordering location| Ordering location |_None_|
 |Chemistry/hematology|Collected location| Collecting location |_None_|
 |Chemistry/hematology|Comments|Provider notes | _None_||How is this different from Interpretation field? |
@@ -79,7 +79,7 @@ Lab and test results include the following information
 |Microbiology|Date completed|Date completed |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
 |Microbiology|Results| Results |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|
 |Microbiology|Site/specimen| Sample tested |_None_|
-|Microbiology|Ordering provider| Provider |_None_|
+|Microbiology|Ordering provider|Ordered by |_None_|
 |Microbiology|Ordering location|Ordering location|_None_|
 |Microbiology|Collected location|Collecting location |_None_|
 |Microbiology| | _Confirm if field exists in tool_|[Laboratory Report Narrative](https://www.healthit.gov/isa/taxonomy/term/2881/uscdi-v1)|USCDI v1 includes this as a type under Clinical Notes. In USCDI v2+, this clinical note type was removed.|Does this field exist in tool?|
@@ -95,7 +95,7 @@ Lab and test results include the following information
 |Radiology|Procedure/test name |Test |[Diagnostic imaging test](https://www.healthit.gov/isa/taxonomy/term/2466/uscdi-v2)|From USCDI v2|Is this the same as "Title of lab report" in the All category above?|
 |Radiology|Date/time exam performed |Date and time |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
 |Radiology|Ordering location|Ordering location |_None_|
-|Radiology|Requesting provider| Provider | _None_| | In Chem/Hem and Microbio, the field is labeled “Ordering Provider”. Should this change? A from content: Let's pick a consistent order/request label, if needed. But "Provider" may be enough here.|
+|Radiology|Requesting provider| Ordered by | _None_| | In Chem/Hem and Microbio, the field is labeled “Ordering Provider”. Should this change? A from content: Let's pick a consistent order/request label.|
 |Radiology|Reason for study| Reason for test |_None_|
 |Radiology|Performing location|Imaging location |_None_|
 |Radiology|Clinical history|_Need more info <br> Depending on answer to questions, could be "Related health history"_ |_None_| | What does this mean? Is this medical history related to the reason for this test? |
