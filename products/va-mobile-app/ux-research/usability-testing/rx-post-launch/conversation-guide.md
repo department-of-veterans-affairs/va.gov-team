@@ -52,6 +52,7 @@ Before we start, a few things I want to mention:
 
 
 ## Warm-up
+* Screener questions?
 * When did you download the app?
     * What was the motivation?
 * How frequently do you use it (daily, weekly, monthly)?
@@ -64,6 +65,7 @@ Before we start, a few things I want to mention:
 * How did you fill a prescription the last time?
 * First time doing it in the app?
     * If no, tell me abt the other time?
+* Who else helps you manage these?
 
 
 ## Refill Process
