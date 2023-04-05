@@ -67,12 +67,13 @@ More details about the team and our business partners can be found in the [Produ
 - _May 2018_ - VA awards a contract to Cerner for an Electronic Health Record System
 - October 1, 2020 - VA announces plan to launch Cerner's patient portal alongside My HealtheVet
 - _October 24, 2020_ - After several delays related to the Covid-19 pandemic and infrastructure problems, Cerner's EHR is partially deployed at the Spokane Washington VA Medical Center (VAMC)
+- October 2020 - April 2020 - It becomes evident that having two disparate systems running in parallel during the Cerner rollout is a poor experience for Veterans.  Veterans who have received care at sites where Cerner has been integrated must access Cerner's patient portal (now referred to as "My VA Health" when accessed through My HealtheVet) for Cerner data, and continue using My HealtheVet for information related to other facilities.
 - _April - July 2021_ - A series of OCTO-OCC Digital Health Modernization Workshops is held, and the concept previously referred to as "Health Home" becomes "Health Apartment," which is in reference to a concept that describes it as an apartment within the "building" of VA.gov.
 - _December 2021_ - President Biden signs an [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/) stating that, in part, The Secretary of Veterans Affairs shall "provide digital services through a single, integrated, and equitable digital platform on VA.gov and the VA mobile app". 
 - _March 2022_ - The Office of Inspector General (OIG) conducted two inspections and identified deficiencies in data migration, medication orders, and medication reconciliation.
-- _Mar - Jun 2022_ - Cerner deployed at four more VAMCs (Walla Walla, WA; Columbus, OH; Roseburg, OR; White City, OR) 
+- _Mar - Jun 2022_ - Cerner was deployed at four more VAMCs (Walla Walla, WA; Columbus, OH; Roseburg, OR; White City, OR) 
 - _Oct 2022_ - VA announced it would delay upcoming deployments of its new EHR until June 2023 to address challenges with the system and make sure it is functioning optimally for Veterans and VA health care personnel
-- _Nov 2022_ - a memorandum was signed by Donald Remy, Deputy Secretary of the VA that officially gave approval for My HealtheVet on VA.gov as an untethered patient portal instead of Cerner's patient portal.
+- _Nov 2022_ - a memorandum was signed by Donald Remy, Deputy Secretary of the VA that officially gave approval for My HealtheVet to be integrated into VA.gov as an untethered patient portal versus using Cerner's patient portal.
 
 #### Sources: 
 - [History of IT at VA](https://www.oit.va.gov/about/history.cfm)
