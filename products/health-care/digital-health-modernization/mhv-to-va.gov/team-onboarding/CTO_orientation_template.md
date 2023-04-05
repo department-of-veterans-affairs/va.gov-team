@@ -39,7 +39,7 @@ More details about the team and our business partners can be found in the [Produ
 - _FHIR_ (pronounced "fire") - Fast Healthcare Interoperability Resources is a standard defines how healthcare information can be exchanged between different computer systems regardless of how it is stored in those systems.
 - _Memo_ - in the context of My HealtheVet on VA.gov, "the memo" refers to [the memorandum](https://dsva.slack.com/files/U772MC9BQ/F049D5Q3WG2/depsec_signed_views___8149650.pdf) signed by Donald Remy, Deputy Secretary of the VA on 11/2/2022, officially marking the start of the two years to complete My HealtheVet on VA.gov integration work.  
 - _My HealtheVet_ - often abbreviated MHV - refers to the "classic" My HealtheVet portal, originated in 2003.  Note that there is always a space after "My". It has been in its current iteration for roughly six years, and its core tools are currently being integrated into VA.gov.  
-- _My HealtheVet on VA.gov_ - the new MHV experience on VA.gov.  This initiative has also had a few other working names that you may run across in older documents, labels in ZenHub, etc -- Digital Health Modernization, Health Modernization Initiative, Health Apartment, My Health.
+- _My HealtheVet on VA.gov_ - the new MHV experience on VA.gov.  This initiative has had a few working names that you may run across in older documents, labels in ZenHub, etc -- Digital Health Modernization, Health Modernization Initiative, Health Home, Health Apartment, My Health.
 - _OCTO_ - Department of Veterans Affairs Office of the Chief Technology Officer
 - _OCC_ - Office of Connected Care.  This includes the 
 - _PAMPI_ - Problems, Allergies, Medications, Procedures and Immunizations
