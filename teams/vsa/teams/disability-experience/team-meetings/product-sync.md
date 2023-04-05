@@ -2,10 +2,26 @@
 
 ### Date: March 29 2023
 ### Topics covered:
-- 6 weekly portfolio goals prep
-- BDD Self Assessment with stakeholders
-- off site next week
-   
+- 6 weekly portfolio goals prep - no prep required
+- off site next week - availability for syncs and meetings with stakeholders?
+- BDD Self Assessment - review plan with stakeholders
+   - ETA to complete design plan by end of this week
+   - When can we review with Kevin Hillegas and Barrett Cooper? 
+- Validation for future DOC bug 
+   - Are we expediting it over other work? Yes, include it to start in the next sprint. Talk to collab cycle office hours
+- Who owns HCA 10 10? (Healthcare Application)
+   - HCA is using evss common API services and we are not sure who should own the migration - Patrick Bateman
+   - We do not need to migrate this
+- Bug - Documents not reaching efolder
+   - Matt is checking with conforma 
+Matt 
+   - An evss service PCIU that contains personal contact info and potentially military service history - Is it being used by 526ez?
+      - Is currently being included with BRD migration
+   - rateddisabilities on ebenefits and va.gov are pulling info from two different sources
+      - Melissa Webstock from ebenefits
+      - ebenefits source is the better source per VBA
+      - Get LH team involved ifo from 
+     
 ### Date: March 29 2023
 ### Topics covered:
 - How do we want to share the outcome and continued progress after priortization with stakeholders
