@@ -14,9 +14,9 @@
   - UAT readiness ticket: [#51823](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51823)
   - [UAT readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/my-va-audit-improvements-UAT-checklist.md)
 - **Desired date range or test duration:**
-     - Weeks of 4/3 - 4/10
+     - Week of 4/3
 - **Desired number of users:** 
-     - Recruiting n participants with a target of completeing _n_ sessions
+     - Recruiting 8 participants with a target of completing 6 sessions
 - **How you'll recruit the right production test users:** 
      - We will recruit users via Perigean. 
 - **How you'll conduct the testing:** 
@@ -29,11 +29,11 @@
 
 ### Results:
 - **Number of users:**
-     - _n_ scheduled, _n_ completed 
+     - 9 scheduled, _n_ completed 
 - **Number of bugs identified / fixed:**
      - _n_
 - **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
-     - _..._
+     - Update url for "Check your Post-9/11 GI Bill benefits" [56336](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56336)
 
 ## Phase II: Staged Rollout
 
