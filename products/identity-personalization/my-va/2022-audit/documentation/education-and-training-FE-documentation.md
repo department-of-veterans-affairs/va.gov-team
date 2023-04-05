@@ -60,4 +60,4 @@ Use font awesome icon `dollar-sign` for icon
 
 #### Content
 
-[Check your Post-9/11 GI Bill benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/status)
+[Check your Post-9/11 GI Bill benefits](https://va.gov/education/gi-bill/post-9-11/ch-33-benefit/status)
