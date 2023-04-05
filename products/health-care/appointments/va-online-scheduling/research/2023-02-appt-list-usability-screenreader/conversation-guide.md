@@ -45,7 +45,7 @@ There are a few things I want to mention about today's session:
 
    - There are no right or wrong answers, and I won’t be offended by any opinions you express. We just want to hear your thoughts, so that we can improve the appointment features and make it work better for everyone.
     
-   - There’s no expectation to provide any personal information. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
+   - You will be interacting with your VA.gov account today, so this is live and while anything you do here could affect your account, we will not be asking you to make any changes today.
     
    - This entire session should take about 90 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
     
