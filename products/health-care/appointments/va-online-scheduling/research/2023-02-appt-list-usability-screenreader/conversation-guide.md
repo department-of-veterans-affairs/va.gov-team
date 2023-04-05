@@ -45,7 +45,9 @@ There are a few things I want to mention about today's session:
 
    - There are no right or wrong answers, and I won’t be offended by any opinions you express. We just want to hear your thoughts, so that we can improve the appointment features and make it work better for everyone.
     
-   - You will be interacting with your VA.gov account today, so this is live and while anything you do here could affect your account, we will not be asking you to make any changes today.
+   - You will be interacting with your VA.gov account today. We would like to enable the updated appointments feature and have you browse it. This means anything you do here could affect your account, but we will not be asking you to make any changes today. We will want to look at your appointments list, so we may see your upcoming appointments and history. We won't share this with anyone outside of the session.
+   **Just to confirm**: Would you be comfortable sharing this information during this session? If not, that is completely fine.
+       - If no: would you be comfortable with logging in and describing what you see?
     
    - This entire session should take about 90 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
     
@@ -113,6 +115,8 @@ PROMPT: Go ahead and login to your account using your email address and password
 ## Task 2: Find the appointments list.
 
 PROMPT: Next, say you wanted to find out what health appointments you have scheduled for the next month. Show me how you would find that from here.
+
+And just to confirm, are you okay sharing your health appointment info during this session?
 
 #### Things to watch for:
 
