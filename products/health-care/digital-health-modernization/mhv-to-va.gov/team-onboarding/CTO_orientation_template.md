@@ -92,7 +92,7 @@ We currently store our project documentation in markdown files in GitHub.  Here 
 - [ ] [Project roadmap](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/roadmap) - includes work being done by all teams involved in the MHV on VA.gov
 - [ ] [MHV on VA.gov Top-Level View Zenhub board](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125)
 - [ ] [CTO Health Team PI planning board](https://app.zenhub.com/workspaces/mhv-to-vagov-cto-team-pi-10-integration-planning-board-63a31dce3fe3310026840f42/board) - this is updated before each PI Planning to reflect the upcoming Product Increment. 
-- [ ] 9MHV to VA.gov product directory on GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov) - contains directories for the various parts that make up My HealtheVet on VA.gov
+- [ ] [MHV to VA.gov product directory on GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov) - contains directories for the various parts that make up My HealtheVet on VA.gov
 - [ ] [Digital Health Modernization directory on GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization) - contains the research and prototypes that preceded the MHV on VA.gov MVP
 - [ ] [MHV on VA.gov Mural room](https://app.mural.co/t/departmentofveteransaffairs9999/r/1646265288521) - requires VA.gov email address and invitation to join
 
@@ -106,8 +106,7 @@ Product outlines for the tools, integration efforts, and rollout info related to
 - [ ]  [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling) - VAOS team will be doing the work to integrate this into the health portal.
 - [ ] [Newsletter](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/newsletter) (not yet started)
 - [ ]  [Community Care](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/community-care) (not yet started)
-- [ ]  [Health Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/health-resources) (not yet started)
-- [ ]  [Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page) 
+- [ ]  [Health Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/health-resources) (not yet started) 
 - [ ]  [Rollout information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/rollout) - Rollout gates, phases, and readiness checklists
 
 ### Learn a little about GitHub and documentation in markdown files
