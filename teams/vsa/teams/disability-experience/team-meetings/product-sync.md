@@ -2,6 +2,12 @@
 
 ### Date: March 29 2023
 ### Topics covered:
+- 6 weekly portfolio goals prep
+- BDD Self Assessment with stakeholders
+- off site next week
+   
+### Date: March 29 2023
+### Topics covered:
 - How do we want to share the outcome and continued progress after priortization with stakeholders
    - Iterative approach
    - Mural board is the preferred medium
