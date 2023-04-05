@@ -12,7 +12,7 @@ This study is part of a staged rollout plan. The [research overview](https://git
 
 We're interested in testing this in mobile, because it's an identified gap (and commonly used for VA applications) and we hypothesize the length of the content could be a problem on mobile.
 
-This research will be conducted in partnership with the Core Identity team. They will lead this study. Their [documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2023-04%20Organic%20LIG%20Adoption) includes more details.
+This research will be conducted in partnership with the Core Identity team. They will lead this study. Their [documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2023-04%20Proactive%20LIG%20Migration) includes more details.
 
 ## Research Goals
 
