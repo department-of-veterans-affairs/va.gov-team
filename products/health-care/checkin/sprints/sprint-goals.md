@@ -46,14 +46,14 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55830)
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
-   - **Sub Goal: [Add Facility Address to Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54865)**     
+   - **Sub Goal: [Add Facility Address to Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54865)**2    
       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Fix appointment details unit tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53769)      
 - **GOAL: Address tech & design debt**        
     - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Design] Change heading style in all Sketch files to use the mobile versions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55506)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [SPIKE] Determine how artboards should be named in sketch](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/56179)   
-    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Display Clinic Phone Number or Facility Phone Number if Clinic Phone is Not Available](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56186)    
+    - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Migrate Check-in Dashboard to monitor EKS vets-api in Staging/Prod](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55916) 
+   - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Display Clinic Phone Number or Facility Phone Number if Clinic Phone is Not Available](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56186)    
     - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE][TECH DEBT] - Refactor our api initializers and mock data creation for e2e](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55004)
-    - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Migrate Check-in Dashboard to monitor EKS vets-api in Staging/Prod](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55019) 
     - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Audit Cypress Screenshots & Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56279)
     - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [SPIKE: Explore Link Expired Logic for Pre-Check-in on Day-of](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56280)
 
