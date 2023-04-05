@@ -43,7 +43,7 @@ More details about the team and our business partners can be found in the [Produ
 - _OCTO_ - Department of Veterans Affairs Office of the Chief Technology Officer
 - _OCC_ - Office of Connected Care.  This includes the 
 - _PAMPI_ - Problems, Allergies, Medications, Procedures and Immunizations
-- _PGHD _- Patient-Generated Health Data - health data that is self-entered by the patient
+- _PGHD_ - Patient-Generated Health Data - health data that is self-entered by the patient
 - _PHR_ - Patient Health Record - often used to refer to an API used to retrieve data stored in VisTA
 - _VistA_ - The Veterans Health Information Systems and Technology Architecture (VISTA) is an Electronic Health Record (EHR), one of the first in the country, and one of the only open source EHRs.  There are 147 different installations for each of the VA medical centers (VISN). 
 - _WTF bot_ - a bot in the DSVA Slack workspace that can be used to look up the meaning of acronyms.  Enter the command `/WTF` followed by the abbreviation in question.
