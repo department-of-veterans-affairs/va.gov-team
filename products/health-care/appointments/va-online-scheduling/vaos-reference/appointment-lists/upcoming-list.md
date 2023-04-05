@@ -26,19 +26,19 @@ As a Veteran, I want an overview of my health care appointments so I can plan my
 [Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/homepage.md#appointment-list-cards)
 
 ## Technical design
+[Endpoints and sample responses]
 
-[FE architecture choices specific to this page]
+```html 
+
+```
 
 ## Metrics
 
 [Goals we track, and how we track them through analytics]
 
-## Dependencies
+## Alerts
 
-[Systems that can trigger different states, like alerts, and how we handle them]
+[Alerts, how they're triggered, and how we handle them]
 
-## Testing
-
-[Testing specific to this page]
-
-
+## Development testing
+[Unit tests, API tests]

@@ -37,6 +37,8 @@ As a Veteran, I want to find and manage my scheduled appointments.
 
 ## Dependencies
 
+- [VA Facilities API](https://developer.va.gov/explore/facilities/docs/facilities?version=current)
+
 [Systems that can trigger different states, like alerts, and how we handle them]
 
 Facilities API:
