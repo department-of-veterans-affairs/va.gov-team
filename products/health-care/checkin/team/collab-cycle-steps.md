@@ -32,7 +32,7 @@ This is a high-level summary of the Collaboration Cycle process. Please refer to
     - Analytics
     - Research
 - If requested artifacts are not available or relevant, we will explain that in the ticket
-- Any collab cycle or other tickets that are created should contain our team's HCE-Checkin GItHub label and be associated to the relevant Epic in our team's Product Backlog
+- Any collab cycle or feedback tickets that are created should contain our team's HCE-Checkin GItHub label and be associated to the relevant Epic in our team's Product Backlog
 
 ## DESIGN PHASE
 
