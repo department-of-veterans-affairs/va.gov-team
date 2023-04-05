@@ -14,7 +14,7 @@ Please schedule a short chat with each of these folks, either individually or in
 - [ ] Patrick Bateman (OCTO Product)
 - [ ] Stephen Barrs (OCTO Engineer)
 - [ ] Mark Dewey (OCTO Engineer)
-- [ ] Mark Thurlwell (OCTO Design)
+- [ ] Ryan Thurlwell (OCTO Design)
 - [ ] Martha Wilkes (OCTO Accessibility)
 - [ ] Lynne Johnson (Delivery Manager)
 - [ ] Marci McGuire (Product Manager)
