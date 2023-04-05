@@ -6,47 +6,33 @@
 
 ### Transcript
 
-00:00:00.000 --> 00:00:02.000
-But I'm gonna ask one more time. Let's see record.
-
-00:00:02.000 --> 00:00:03.000
-Yup!
-
 00:00:03.000 --> 00:00:06.000
-Okay, great. So are you comfortable? If I record this session today.
+
+> Okay, great. So are you comfortable if I record this session today?
 
 00:00:06.000 --> 00:00:08.000
-Yes.
+
+> Yes.
 
 00:00:08.000 --> 00:00:10.000
-Awesome, alrighty! Well, let's start by learning a little bit more about your experience with the Va.
 
-00:00:10.000 --> 00:00:19.000
-And some of our online services. How long have you been a veteran?
+> Awesome, alrighty! Well, let's start by learning a little bit more about your experience with the VA and some of our online services. How long have you been a Veteran?
 
 00:00:19.000 --> 00:00:25.000
-Over 30 years.
+
+> Over 30 years.
 
 00:00:25.000 --> 00:00:26.000
-Yeah.
 
-00:00:26.000 --> 00:00:32.000
-Okay, so quite a while. And how often would you say you go online to access or manage anything related to the Va.
+> Okay, so quite a while. And how often would you say you go online to access or manage anything related to the VA?
 
 00:00:32.000 --> 00:00:33.000
-Maybe once or twice a month I go on for different things.
 
-00:00:33.000 --> 00:00:42.000
-Maybe check benefits. But so I worked on transitioning over to healthcare.
-
-00:00:42.000 --> 00:00:48.000
-I kinda go in that way through to get to my healthy that, too, and talk to my doctor.
+> Maybe once or twice a month I go on for different things. Maybe check benefits. But since I worked on transitioning over to healthcare, I kinda go in that way to get to my healthy vet, too, and talk to my doctor.
 
 00:00:48.000 --> 00:00:53.000
-Okay, gotcha. So it sounds like you're starting you're sometimes starting on my healthy vet.
 
-00:00:53.000 --> 00:00:59.000
-And then, when when you're looking at your benefits, do you know which website that you start from to going to look at that?
+> Okay, gotcha. So it sounds like you're starting you're sometimes starting on my healthy vet. And then, when when you're looking at your benefits, do you know which website that you start from to going to look at that?
 
 00:00:59.000 --> 00:01:09.000
 So I go into the old, my E-bits website because that will, it will transition over to the new website without me having to do it.
