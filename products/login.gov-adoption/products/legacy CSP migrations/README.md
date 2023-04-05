@@ -1,4 +1,4 @@
-# DS Logon Grandfathering outline
+# Legacy CSP grandfathering outline
 
 ## Overview
 
