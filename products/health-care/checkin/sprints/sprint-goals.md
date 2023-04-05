@@ -41,7 +41,7 @@ ________________________________________________________________________________
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] [SPIKE] Best method to document specifications to engineers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/55457)  
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Add additional screens into unified check-in experience sketch page with user flows](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/56181) 
       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [SPIKE: [FE] Explore Architecture Changes Necessary to Support Unified Experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55019) 
-      - Schedule & Hold the Midpoint Review
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Schedule & Hold the Midpoint Review
    - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55830)
