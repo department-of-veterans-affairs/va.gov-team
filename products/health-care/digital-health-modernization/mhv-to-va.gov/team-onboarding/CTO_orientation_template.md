@@ -70,7 +70,7 @@ More details about the team and our business partners can be found in the [Produ
 - _March 2022_ - The Office of Inspector General (OIG) conducted two inspections and identified deficiencies in data migration, medication orders, and medication reconciliation.
 - _Mar - Jun 2022_ - Cerner's EHR and patient portal deployed at four more VAMCs (Walla Walla, WA; Columbus, OH; Roseburg, OR; White City, OR) 
 - _Oct 2022_ - VA announced it would delay upcoming deployments of its new EHR until June 2023 to address challenges with the system and make sure it is functioning optimally for Veterans and VA health care personnel
-- _Nov 2022_ - a memorandum was signed by Donald Remy, Deputy Secretary of the VA that officially gave approval for My HealtheVet to be integrated into VA.gov as an untethered patient portal versus using Cerner's patient portal.
+- _Nov 2022_ - a memorandum was signed by Donald Remy, Deputy Secretary of the VA, that officially gave approval for My HealtheVet to be integrated into VA.gov as an untethered patient portal versus using Cerner's patient portal.
 
 #### Sources: 
 - [History of IT at VA](https://www.oit.va.gov/about/history.cfm)
