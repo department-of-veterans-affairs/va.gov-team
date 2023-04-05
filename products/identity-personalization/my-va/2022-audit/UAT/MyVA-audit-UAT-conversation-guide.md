@@ -57,6 +57,7 @@ Before we look at the website, I'd like to get a little background information f
 
 
 ## 3. Do Veterans with education benefits know how to find info about their remaining education benefits from My VA? - 3 minutes
+P2, P3, P4, P6
 
 *Skip this section if they have never used education benefits*
 
