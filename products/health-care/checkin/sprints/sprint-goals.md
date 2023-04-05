@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Backend [BE]  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Frontend [FE]  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) User Experience [UX]
 
-## 4/5/2023 - 4/18/2023 ------------------------- FUTURE / TENTATIVE -------------------------
+## 4/5/2023 - 4/18/2023 
 
 #### SPRINT GOALS
 - **GOAL: Make submission of a travel reimbursement claim easier**
