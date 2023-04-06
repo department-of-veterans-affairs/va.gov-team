@@ -1,7 +1,7 @@
 # Initiative Brief - Compensation and Pension Appointments
 ## Overview
 
-Looking to display the Compensation and Pension Appointments in VAOS. This feature would allow Veterans to view their upcoming and past Compensation and Penesion appointments. 
+Looking to display the Compensation and Pension Appointments in VAOS. This feature would allow Veterans to view their upcoming and past Compensation and Penesion exam appointments. 
  
 ---
 
@@ -23,10 +23,10 @@ A user can view their C&P appointments in VAOS
 
 
 ## Desired Outcomes
-- 
+- User can view the appointment details for their Compensation and Pension exam
 
 ## Undesired Outcomes
-- 
+- User cannot view their C&P appointment details in VAOS 
 
 ## Key Decisions
 - 
