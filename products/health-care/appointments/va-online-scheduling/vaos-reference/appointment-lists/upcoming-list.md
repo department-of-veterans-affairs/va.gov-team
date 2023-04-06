@@ -190,6 +190,8 @@ As a Veteran, I want an overview of my health care appointments so I can plan my
 
 ### Get appointments call
 
+[How to use the VCR test framework](https://www.rubydoc.info/gems/vcr/VCR)
+  
 <details>
   <summary><b>VCR cassette</b></summary>
 
