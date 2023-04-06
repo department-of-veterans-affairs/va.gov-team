@@ -14,7 +14,7 @@
   - There is one template for all new team members 
         - Enter “Disability Experience” for VFS Team
   - Another template for PO/PMs for establishing a new team in VFS, if necessary
-- Get added to slack channels 
+- Get added to slack channels in DSVA Slack
    - benefits-onboarding
     - This initiates VA onboarding with buddy assignments
   - benefits-disability-experience
@@ -25,6 +25,7 @@
   - design
 - Ask your DM/team-member to request access to Github [sample ticket # 14451](https://github.com/department-of-veterans-affairs/github-user-requests/issues/14451)
 - Get access to VA mural space - poc - Matt Self?
+- For [Zenhub access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub.md)
 
 
 ## VA Benefits Orientation 
