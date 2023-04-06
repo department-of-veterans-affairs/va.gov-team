@@ -19,8 +19,8 @@ This research focuses on a modification of one of those migration pathways. We'r
 
 This study is part of a body of research work that is taking place across multiple Identity teams.
 
-See also [LGA team's pre-wrok related to this research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-03-Organic-Adoption-Messaging-Usability)
-See also [LGA team's research overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research)
+- See also [LGA team's pre-wrok related to this research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-03-Organic-Adoption-Messaging-Usability)
+- See also [LGA team's research overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research)
 
 ## Research Goals
 
