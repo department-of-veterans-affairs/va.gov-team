@@ -1,6 +1,6 @@
 # About this Research
 
-## Planned Timeline
+## Planned timeline
 
 | Stage | Dates |
 | --- | ---|
@@ -22,10 +22,18 @@ This study is part of a body of research work that is taking place across multip
 - See also [LGA team's pre-wrok related to this research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-03-Organic-Adoption-Messaging-Usability)
 - See also [LGA team's research overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research)
 
-## Research Goals
+## Research goals
 
 - Identify which terms helps veterans undersand account creation, migration, verification, and authentication so the call to action for those will be better understood 
 - Find out best ways to encourage more veterans to migrate CSPs now, even before sunsetting of legacy accounts(s)
 - Test the usability of a modal prototype that encourages veterans to signup for a login.gov account
+
+## Not specifically included in this research
+There is a lot of related identity research, so it might be helpful to consider what is specifically not included in this study. Keep in mind that some findings may still be relevant across areas of interest
+- veterans who never have a legacy CSP account
+- work speficically in regards to [grandfathering efforts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability)
+- account creation/verification/migration support
+
+![Screenshot 2023-04-06 at 5 31 24 PM](https://user-images.githubusercontent.com/97549241/230497795-b53f24d1-f3c2-4e24-a036-1b73f02ad223.png)
 
 
