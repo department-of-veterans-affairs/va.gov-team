@@ -1,4 +1,4 @@
-# Initiative Brief - Appointment List Improvements
+# Initiative Brief - Compensation and Pensions Appointments
 ## Overview
 
 
