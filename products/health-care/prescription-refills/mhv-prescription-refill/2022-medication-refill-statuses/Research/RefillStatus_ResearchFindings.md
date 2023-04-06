@@ -154,4 +154,3 @@ No further research is needed at this time.
 
 **WHO WE TALKED TO**
 
-![](RackMultipart20230406-1-be6jl2_html_a893e4c164535798.png)
