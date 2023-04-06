@@ -114,10 +114,10 @@ The `credential_list` route will include the credential_list encoded, allowing y
 
 You can also build your mocked credential object manually using the templates below.
 
-Note: 💡 Make sure the `acr` value copied from the `/authorize` `acr` response matches the `:ial` value in the User Credential struct.
-
 <details>
   <summary>Login.gov</summary>
+    
+  Note: 💡 Make sure the `acr` value copied from the `/authorize` `acr` response matches the `:ial` value in the credential_info payload below.
 
   ```ruby
   rails c
