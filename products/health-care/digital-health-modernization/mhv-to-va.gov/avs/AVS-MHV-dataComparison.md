@@ -22,7 +22,7 @@ Comparison of section labels are found on a different [GitHub](https://github.co
 * Vista broker source: https://github.com/department-of-veterans-affairs/octo-vista-broker/blob/4fc09ffa5fd97d0bdeac403be346e1e8f6c67fd9/ll-vistabroker-ejb3/src/main/java/gov/va/med/lom/vistabroker/dao/impl/AllergiesReactantsDaoImpl.java#L20
 * https://vivian.worldvista.org/dox/Remote_Procedure_ORQQAL_LIST.html
 
-## Appointments
+## Appointments (WIP)
 | Data Field | MHV on VA.gov | Mobile App | AVS |
 |:-----------|:---------|:----------|:----------|
 | Scheduled upcoming in-person appointments |  |  | Yes |
