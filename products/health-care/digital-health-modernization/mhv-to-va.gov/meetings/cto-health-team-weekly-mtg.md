@@ -1,5 +1,5 @@
 # CTO Health Team Weekly Team Meetings
-- Team meetings were initially held bi-weekly initially, then changed to weekly in 2023.
+**Note**: Team meetings were initially held bi-weekly initially, then changed to weekly in 2023.
 
 ## 2023-04-06 Team Meeting
 
