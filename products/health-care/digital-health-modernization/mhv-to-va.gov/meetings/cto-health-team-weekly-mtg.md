@@ -1,5 +1,100 @@
 # CTO Health Team Weekly Team Meetings
-- Meetings were held bi-weekly initially, then changed to weekly in 2023.
+- Team meetings were initially held bi-weekly initially, then changed to weekly in 2023.
+
+## 2023-04-06 Team Meeting
+
+### Attendees
+
+- Lauren Alexanderson
+- Patrick Bateman
+- Coulton Bunney
+- Daniel Cloud
+- Cara Frissell
+- Kristen McConnel
+- Martha Wilkes
+- Mikki Northuis
+- Jenny Wang
+- Ryan Thurlwell
+- Stephen Barrs
+- Sara Smith	
+- Kay Lawyer
+- Leila Rassi
+
+### New Team Member Introductions & Team Introductions
+
+- Carlos Felix - Technical Architect
+- Cara Frissell - Research Lead
+
+
+### Updates
+
+- Cara
+   - Onboarding
+- Lauren
+	- Disruptive behavior flag
+	- RX flag
+	- SM into phase 0
+- Kristen
+	- Working with VAOS on user flows
+- Carlos
+	- Onboarding
+- Coulton
+	- Clinical review of lab & test results with Dr. Josephs
+- Martha/Sara
+	- Working on MR to prepare for Midpoint Review
+	- PDF
+	- SM with Alex & Mark 
+- Mikki
+	- Met with appointments
+- Patrick
+	- Aligning on-screen notifications
+- Jenny
+	- Working on journey map with Medications team
+	- Next meeting next Thursday
+- Stephen
+	- Looking at PDF accessibility issues
+	- Wanted to POC a thing, but haven't had time
+	- Strategy for getting Cerner-based appointments
+- Kay
+	- Working with Kristen to get VAOS flows in place
+	- Medications stuff with Jenny
+- Leila
+	- Secure Messaging - Phase 0
+	- Research triage solutions 
+- Marci
+
+
+## Discussion 
+
+### MHV API documentation
+- Lauren has asked Barry to document the MHV APIs 
+- Stephen is making requests for people to get access to things
+- Validating impact of account creation API on apps & phases
+- Jason Boire said that Carnetta cleared 6 months to do the account creation API
+- The API is supposed to create an "underground" 
+- This has been held up by the Terms and Conditions
+- MHV will not allow a user to authenticate unless they agree to T&C
+- We have tried to surface a unified T&C
+- Lauren was done that the account experience API would be done in Jan, but for Phase 0 we didn't really care.  Phase 1 and 2, if we don't have that account creation API
+- Daniel - there is an account creation API
+- Lauren will start [a thread in the channel](https://dsva.slack.com/archives/C04DRS3L9NV/p1680806464294609).  If we put a sign on MHV to the app, if this isn't set up, a Veteran won't be able to access their data if they don't have an MHV account
+- Coulton - does the lack of this lead to the problem of people having to log in again?
+- Lauren - this assumes that at some point, someone is not going to start on MHV.  They are going to create an ID.me account.  If you go to MHV in that scenario, it will not direct you to MHV APIs for that data
+
+## Does anyone have anything specific to ask of the mobile team?
+- MHV on VA.gov has threaded messages, and mobile works differently.
+- Mobile team is looking into using the new threading part of the messaging API
+- Vaccines and the data being displayed are pulling from two different APIs
+- Mobile is pulling from Lighthouse Health for vaccinations and MHV is pulling from the FHIR, and will not be pulling from Lighthouse
+- Nobody seems to know what is being displayed on which platform
+- Ryan is going to write down what mobile displays vs. what MHV on VA.gov displays
+- API documenation - this is what we want to get to for the MHV APIs: https://developer.va.gov/explore
+- Table to show which field comes from X data source
+- Do we think this is the place to connect the lab type to the source data?
+- Do we know anyone who has authority to do direct queries against the source databases?  That way we could compare the records to what we are seeing and try to deduce what fields is coming from which source(s).
+
+### Disruptive behavior flag
+- Patrick - pre-fetching data when the application loads - has that been embarked on anywhere?
 
 ## 2023-03-23 Team Meeting
 
