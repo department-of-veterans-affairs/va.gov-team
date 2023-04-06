@@ -1,9 +1,7 @@
 # Research on Common Services API Level of Effort
 
-##### TL:DR: We have to migrate `get_rating_info`
 
-### Migration Work todo:
-- migrate 
+
 
 ### Background:
 Janet asked us to investigate if we need to work on Common Services API as part of the EVSS to Lighthouse migration: https://dsva.slack.com/archives/C02CQP3RFFX/p1676574262007819
@@ -51,3 +49,24 @@ Either way, there is one class/service in `vets-api` called `EVSS::CommonService
 
 ### Extra Credit:
 I also looked around the code and VA's documentation base more for "common services" in general and didn't see a sign of anything we'd need to do there. I want to acknowledge there could still be something I don't know about this part of EVSS, so if other people see a lead or reason to be suspicious, let me know. But otherwise I think we can close this chapter.
+
+
+
+# LOE Research Round 2 - `vets-website` review
+**disability-benefits**
+526ez form functionality appears to be contained within `src/applications/disability-benefits`. Nothing within that directory makes any reference to "rating_info", "ratingInfo", or any other deriviative of the `vets-api` route that would trigger `vets-api`'s Common Services API call.
+
+**familiar URLS**
+There are a handful of URLs that I know `vets-website` is sending to `vets-api`, so I surveyed those for a pattern of where/how these external APIs are established, but I didn't find much of a pattern.
+- I found where the `submit_all_claims` ULR is [defined](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/disability-benefits/all-claims/config/form.js#L136) in the aforementioned `/disability-benefits/` directory which makes a lot of sense. 
+- `intent_to_file` URL is also [defined](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/disability-benefits/all-claims/actions/index.js#L17) in the `/disability-benefits/` directory.
+- I have some clues as to where `in_progress_forms` URL(s) are [defined](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/forms/constants.js#L49) (or maybe [here](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/forms/helpers.js#L5)) in a `/platform/` directory which I guess implies it is used by multiple apps/services across the repository. There are many forms using that functionality so I cannot be certain if I found the one or more used by 526ez. Based on this discovery, I also checked the `/platform/` directory for more references to "rating_info" (or "ratingInfo"), in case it's another URL that's used across different apps, but found none in there.
+
+**hca**
+Ther are many references to "rating_info" within hca directory. Many of them arise from tests and stuff, but seems like [this reference](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/hca/utils/actions.js#L35) in an actions.js file is where the Redux Action Types give a hint as to what HCA is using the endpoint for. 
+
+**personalization**
+I see references to "[ratingInfo](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/common/constants.js#L20)" and "[rating_info]()" in this `/personalization/common/` directory and in a [`Dashboard` component](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/Dashboard.jsx) but I couldn't discern which app/product uses that code. The "common" name in the personalization stuff might suggest its a shared service/utility like the things in the `/platform/` directory. The most informative example is actually in a [mock file](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/mocks/server.js#L52) which presents "GET /v0/disability_compensation_form/rating_info" as one of the mocked endpoints for testing.
+
+**Manual Testing**
+While this isn't dispositive by itself, it seems informative to me that I placed breakpoints in the [`rating_info` method](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/disability_compensation_forms_controller.rb#L67) where I presume execution would pause if we called that method and I stepped through the form front to back a few times. It never caught the breakpoint. I don't fully understand what `rating_info` would provide to the frontend and how to pinpoint where in the form that would be used, but this adds a little more confidence for me that 526ez is no longer using it. It probably used it at one point (latest commit on that method is 4 years ago), so someone built that method, but then 526 stopped using it and it was never removed.
