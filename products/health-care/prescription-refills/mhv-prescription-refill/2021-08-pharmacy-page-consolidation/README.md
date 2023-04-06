@@ -1,175 +1,74 @@
-# Pharmacy Page Consolidation Research
+# My Medications List Consolidation Overview
 
-**My HealtheVet,  My Medication List, UCD Team**
+Last updated: 10/2021
 
-Date: 10/2021
+- By Light UCD Team: research@bylight.com
 
-- Gavin Quinn  gavin.quinn@bylight.com
-- Lexi Wunder  alexia.wunder@bylight.com
+### Initial Product Overview
+Repetitive pages and information in MHV Pharmacy are causing confusion and extra steps for Veterans trying to complete tasks.
 
-[Research Report]()
+### The Solution Overview
+Consolidating the repetitive pages and information into one comprehensive page (My Medication List), will help Veterans complete their pharmacy tasks in one place. Also, including a way to communicate any updates to the pharmacy module.
 
-**Jump to:**
+### Problem Statement
+My HealtheVet users who utilize the pharmacy site to access their medication related data find the process of viewing and interacting with their medications confusing, cumbersome and time consuming, often resulting in page abandonment and help desk calls.
 
-- [Research goals](#research-goals)
-- [Research questions](#research-questions)
-- [Methodology](#methodology)
-- [Hypotheses and conclusions](#hypo)
-- [Key findings](#key-findings)
-- [Recommendations](#recommend)
-- [Who we talked to](#talked-to)
-- [Appendix](#appendix)
+## Desired Outcomes
 
-## <a id="research-goals"></a>Research Goals
-Build understanding of what users want to see on the pharmacy page redesign, including the necessity of page consolidation, how users would like to be notified of the upcoming changes, and how users interact with the Pharmacy site overall.  
--   Test methods of notifying the users about the changes to the site  
--   Increase overall user satisfaction and understanding while meeting business requirements
-    
-## <a id="research-questions"></a>Research Questions
--   Does the user need a visual que or content to help them understand the change?
--   Is the new consolidated page usable and desirable?
--   Are there any other things we are not considering in the  new design, such as the ability to search prescriptions, or the flow into the prescription refill process?
+**For Users:**
+-   Veterans should be able to view all their medications in one place.
+-   Veterans should be able to refill their medications from the My Medications list page and table.
+-   Veterans will be able to understand pharmacy terminology using the updated glossary of terms.
     
 
-## <a id="methodology"></a>Methodology
-We performed user testing with eight Veterans to assess the proposed  consolidated  medication list that allows users to complete an array of pharmacy related tasks. Our research concluded that the new information architecture improved participants’  time on task and overall satisfaction with the My HealtheVet pharmacy.
-
-## <a id="hypo"></a>Hypotheses and Conclusions
-
-We predict that the new site will have a satisfactory task completion time, success rate, and ease of use. We also anticipate that the user will understand most of the terms used within the site, but we may have to reevaluate some terms to provide better comprehension and overall pharmacy usability.
-
-## <a id="key-findings"></a>Key Findings
-1.  Terminology: Overall, participants did not have a clear understanding of the terminology used for medication source and statuses.
-2.  Refilling Prescriptions: Veterans did not understand why they could not fill prescriptions from the "My Medications" page and did not understand the difference between the refill page and medication list page.
-3.  Add A Medication: Self entered medications are typically confusing for Veterans. They do not know why they would use it or why it is there.
-4.  Table Design: Veterans overall liked the new consolidation table (aside from not being able to refill from the my medications list page).
+**For Business/Stakeholders:**
+-   Consolidate duplicative pages such as VA Prescription History, and VA Medications List without disrupting the user. The system shall keep the navigation (left-hand and menu dropdown) intact and re-direct users to My Medications List.
+-   Users with a Basic MHV Account: User will receive existing user-friendly error message when they select a page that includes VA data explaining that an Advanced or Premium Account is needed.
+-   Users with an Advanced Account – Not VA Patient: User will receive existing user-friendly error message when they select a page that includes VA data explaining that the user must be a VA patient.
+-   Because Veterans will be  able to find information and complete tasks on their own, there will be  less calls to the help desk.
+-   Because the new model will be less confusing, cumbersome and time consuming, user satisfaction scores will increase, and bounce rate will decrease.
     
 
-### Details of Findings
+## Measuring Success
 
-### Terminology
-All (7 of 7) Veterans struggled with current terminology. Veterans struggled most with terms such as, “Non-VA,”  “Source,”  “Category,” and “Self-Entered”  among others. Veterans  commented  they were not used to seeing these terms and found them very confusing. Because users didn’t understand terminology that makes up the majority of the new information we are including in the proposed solution, confidence levels declined and frustration levels increased. Two Veterans were familiar with the glossary and utilized it to look up certain terms. Unfortunately, participants found the glossary  to be repetitive, confusing, and missing  information they hoped to find. The majority of all pain points uncovered during testing stemmed from a lack of understanding MHV pharmacy terminology.
+**Objective:**
 
-"I have never seen Non-VA  - what is that? Is Non-VA something you enter yourself?"
-
-“Multiple definitions of "Active" threw me for a curveball; It seems repetitive."
-
-### Refilling Prescriptions
-All (7 of 7) Veterans commented that they are used to being able to refill their prescription directly from the medication table and column associated with that specific medication. Veterans who did not notice the “Refill Prescription” button at the top of the table struggled with the task associated with refilling medications. All Veterans also searched for the action  or mentioned they would look in the “view details” page if they did not see it in the table. These findings suggest that it will be helpful to  provide a link to refill prescriptions  in both places.
-
-“I normally would check the box for the refill [hovers cursor over center column in the summary table], which would be here in the middle of the table, and I would select which one I wanted to refill. Here, I have to hunt for it, which is annoying and frustrating.”
-
-### Add A Medication
-
-Most (6 of 7) Veterans had never used this feature or knew it existed. Some thought it was for doctors and they were not allowed to use it. Only one Veteran  remarked they had tried to use this feature “a very long time ago” and was still unsure and confused by it. Testing uncovered the central issue of the “Add a Medication” feature was the unfamiliar terminology on the form. Users struggled and were  frustrated when asked to explain their thoughts and walk through how they would fill out the form. Confidence levels decreased with each field term they did not know.
-
-“I thought this was for my doctor…”
-
-“I used it once a long time ago but I didn’t understand it., I will not use it again and I don’t understand why it’s here.”
-
-### Table Design
-Overall, the design of the consolidated table was praised, and Veterans were able to complete most tasks directly from it (excluding “Add Medication” and “Refill Medication”). The proposed drop  down filter was highly preferred over the radio button alternative,  and received positive feedback from majority of Veterans. Veterans gave feedback that they were excited about the proposed changes and felt it would positively benefit them.
-
-### Additional Insights
-
-Veterans felt they had been using a “broken” product for so long because there was no alternative. Many commented that they have experienced  many changes within MHV, but unfortunately not all of them were beneficial.
-
-“I’m not going to say I don’t like changes, but the way that changes in a lot of organizations  (military included) are done, the Veteran or the person on the other end is frustrated and left to figure it out.”
-
-## <a id="recommend"></a>Recommendations
-
-### Incorporated Changes:
-1. Consolidated table
-2. Added refill buttons on table
-3. Updated filter/sort method
-4. Added “I want to” column.
-
-### Suggested Changes:
-Reevaluate the refill link/button placement (if not now), add pop-up notification, filter option (if not now), change “Tracking Details” button to “order history” link; add “Refill this Prescription” button on details pages.
-
-### Recommend For Next Iteration:
-1. Update glossary and allergies tables
-2. Allow all actions available from table
-3. Conduct “Add A Medication” research
-4. Conduct additional testing
-5. Evaluate tracking details flow (one veteran saw “Tracking Details” and thought her order was already on its way, so she didn’t need to bother refilling).
-
-### Next Steps
-Design goes into production then we reassess next steps/goals
-
-### Further research needed
-Currently there is no further  research or design scheduled. Once the product launches on MHV, we will determine the success and overall satisfaction with My Medication List and reassess our standing and goals for future iterations.
+Decrease Veteran confusion when searching multiple pages for prescription and medication information. 
 
 
-## <a id="talked-to"></a>Who we talked to
-
-We talked to 7 participants.
-
-**Audience segment:**
--   Veterans: 7
--   Caregivers: 0
--   Family members of a Veteran: 0
-
-**Gender:**
--   Male: 5
--   Female: 1
--   Did Not Disclose: 1
+**Key Results**
+-   Less help desk calls
+-   Less time on task
+-   Less bounce rate
     
-**LGBTQ+:**
--   Transgender: 0 
--   Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
--   Gay, lesbian, or bisexual: 0
+## Solution Approach
 
-**Devices used during study:**
--   Desktop: 7
--   Tablet: 0
--   Smart phone: 0
--   Assistive Technology: 0
-    
-**Age:**
--   25-34: 2
--   35-44: 0
--   45-54: 0
--   55-64: 1
--   65+: 4
--   Unknown: 0
-    
-**Education:**
--   High school degree or equivalent: 1
--   Some college (no degree): 1
--   Associate's degree, trade certificate or vocational training: 0
--   Bachelor's degree: 3
--   Master's degree: 2
--   Doctorate degree: 0
--   Unknown: 0
- 
-**Race:**
--   White: 5
--   Black: 0
--   Hispanic: 0
--   Biracial: 0
--   Asian: 1
--   Native: 0
--   Did Not Disclose: 1
+-   A new table design was implemented to include all medications removed from repetitive pages.
+-   All prescription label information is now located in the table, allowing Veterans to easily distinguish multiple medications.
+-   Because there was a clear lack of terminology understanding during user testing,  the UCD team suggests updating the glossary of terms, thus making it more accessible for Veterans.
+-   Because Veterans wanted to be able to refill prescriptions from the same page, a new column was added to the table to accommodate hyperlinks, where Veterans can perform actions, such as refilling prescriptions.
+-   During testing, Veterans voiced they would like to be notified of any changes surrounding the location where their medications will be listed. When prompted with a selection of notification options, Veterans unanimously agreed that a popup would be the best solution to this problem.
+-   During testing it was determined that Veterans preferred to have a drop down to sort their medications rather than the radio buttons currently used on the page.
 
-Underserved groups we haven’t talked to
 
-**This research does not include the perspectives of the following marginalized Veteran groups:** 
+## Screenshots
 
--   Mobile
--   Rural
--   Other Than Honorable
--   Immigrant
--   Expat
--   Black
--   Hispanic
--   Biracial
--   Native
--   LGBTQ+
--   Switch Device
--   Captions
+**Before**
 
-##  <a id="appendix"></a>Appendix
-- [Research Plan]()
-- [Conversation Guide]()
-- [Prototype](https://xd.adobe.com/view/737566aa-bed5-4641-9c19-7885ce466c80-2626/?fullscreen&hints=off)
+![before - MHV My Medications list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-prescription-refill/2021-08-pharmacy-page-consolidation/Before-screenshot.png)
+
+**After**
+
+![after - MHV My Medications list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-prescription-refill/2021-08-pharmacy-page-consolidation/After-screenshot.png)
+
+## Latest Production Status
+- All prescriptions and medications are viewable on the My Medications list page.
+- The ability to refill prescriptions from the My Medications list page has NOT been added (the refill checkboxes column), instead a button at the top of the page will take Veterans to the Prescription Refill page.
+- The "I want to" column was added to the My Medications List table.
+- A source filter dropdown was added to filter by medication type and another dropdown for medication status. (radio buttons were removed)
+- Business decided to leave old pages on for 6 months with content explaining where they can go to see what was once on that page. After 6 months those pages will be removed.
+
+
+## Research and Design Initiatives
+
+[Research Summary - Presentation & Final Design ](https://xd.adobe.com/view/d4183ede-dfef-4f60-bcf6-33bfda5d7102-814b/)
