@@ -87,7 +87,7 @@ Base64.encode64(credential_info.to_json)
 
 #### **Query existing mocked CSP Attribute Responses**
 
-The Mocked Authentication module hosts a `credential_list` endpoint to serve mocked CSP attribute response payloads as JSON.
+The Mocked Authentication module hosts a `credential_list` endpoint to serve mocked CSP attribute response payloads as JSON. Most of these responses are recorded from the CSP response logging method above; the two features are intended for use in tandem to make capturing and using CSP data for any test user as seamless as possible.
 
 Navigate to the following endpoint through your web browser or cURL; the `type` parameter must be one of `logingov`, `idme`, `dslogon`, or `mhv`, and should match the `type` chosen for the `sign_in_service/authorize` call.
 
