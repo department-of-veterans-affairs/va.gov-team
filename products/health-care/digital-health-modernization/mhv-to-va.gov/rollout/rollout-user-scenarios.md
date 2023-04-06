@@ -30,6 +30,15 @@ The scenarios below describes the various user experiences that can occur when t
 - User has an MHV account
 - User does not have health benefits
 
+*User experience*
+1. User logs into VA.gov using ID.me or Login.gov
+2. User is presented with the authenticated VA.gov landing page and the My HealtheVet link is visible in the main nav
+3. User clicks the My HealtheVet link
+4. User is presented with a version of the "classic" My HealtheVet landing page that seems to be missing a CSS file and has numerous broken images displayed. Screen shot below (click to enlarge).
+
+<img width="500" alt="Screen shot of classic My HealtheVet landing page with missing CSS and images" src="https://user-images.githubusercontent.com/69174644/230492286-06477603-ec48-4fe7-919e-85547bb2b2f5.png" >
+
+
 ### Secure Messaging
 
 #### Scenario 1
