@@ -1,1 +1,38 @@
 # Rollout User Scenarios
+
+## Table of Contents
+- #scenarios-without-a-new-account-creation-api
+  - #landing-page
+
+
+## Scenarios without a new account creation API
+The scenarios below describes the various user experiences that can occur when there is no new account creation API to create a MHV "classic" account in the background. 
+
+### Landing Page
+
+#### Scenario 1
+*Pre-conditions*
+- User has ID.me or Login.gov account
+- User does not have a MHV account
+
+*User experience*
+1. User logs into VA.gov using ID.me or Login.gov
+2. User is presented with the authenticated VA.gov landing page and the My HealtheVet link is visible in the main nav
+3. User clicks the My HealtheVet link
+4. User is presented with the pre-filled registration page that uses the CSP traits and does not result in a MHV User ID and Password - see example screen shot below (click image to enlarge).
+<img width="500" alt="Screen shot of pre-filled My HealtheVet registration page" src="https://user-images.githubusercontent.com/69174644/230490489-be82a8bb-ffd8-4435-ae75-46a94df249f5.png" >
+
+
+#### Scenario 2 
+*Pre-conditions*
+- User has ID.me or Login.gov account
+- User has an MHV account
+- User does not have health benefits
+
+### Secure Messaging
+
+
+### Medical Records
+
+
+### 
