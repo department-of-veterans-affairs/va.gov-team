@@ -154,3 +154,4 @@ No further research is needed at this time.
 
 **WHO WE TALKED TO**
 
+![Participant Tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-prescription-refill/2022-medication-refill-statuses/Research/Participant%20Tracker.png)
