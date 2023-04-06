@@ -1,4 +1,4 @@
-# Health Apartment Weekly Team Meetings
+# CTO Health Team Weekly Team Meetings
 - Meetings were held bi-weekly initially, then changed to weekly in 2023.
 
 ## 2023-03-23 Team Meeting
