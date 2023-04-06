@@ -4,8 +4,6 @@
 
 Veterans use this list to get a quick understanding of their upcoming appointments. 
 
-**Staging URL:** staging.va.gov/health-care/schedule-view-va-appointments/appointments
-
 ## User stories
 
 As a Veteran, I want an overview of my health care appointments so I can plan my day.
@@ -36,9 +34,11 @@ As a Veteran, I want an overview of my health care appointments so I can plan my
 ## Technical design
 [Endpoints and sample responses]
 
-**Staging base url:** https://staging-api.va.gov/
+**Staging URL:** https://staging.va.gov/health-care/schedule-view-va-appointments/appointments
 
-**Prod base url:** https://api.va.gov/
+**Staging base URL:** https://staging-api.va.gov/
+
+**Prod base URL:** https://api.va.gov/
 
 **Endpoint**
 `vaos/v2/appointments?_include=facilities,clinics&start={startDate}&end={endDate}&statuses[]=booked&statuses[]=arrived&statuses[]=fulfilled&statuses[]=cancelled`
