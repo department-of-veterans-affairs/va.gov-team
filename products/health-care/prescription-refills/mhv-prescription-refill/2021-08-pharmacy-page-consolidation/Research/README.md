@@ -170,7 +170,12 @@ Underserved groups we haven’t talked to
 -   Switch Device
 -   Captions
 
+![Pharmacy Consolidation Participant Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-prescription-refill/2021-08-pharmacy-page-consolidation/Research/Rx-consolidation-demographics.png)
+
 ##  <a id="appendix"></a>Appendix
-- [Research Plan]()
-- [Conversation Guide]()
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-prescription-refill/2021-08-pharmacy-page-consolidation/Research/PharmacyConsolidation-ResearchPlan-2021Aug-Final.pdf)
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-prescription-refill/2021-08-pharmacy-page-consolidation/Research/PharmacyConsolidation-ConversationGuide-2021Aug-Final.pdf)
+- [Participant Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-prescription-refill/2021-08-pharmacy-page-consolidation/Research/Usability%20Test%20Data%20Log_Pharmacy%20Consolidation.xlsx)
 - [Prototype](https://xd.adobe.com/view/737566aa-bed5-4641-9c19-7885ce466c80-2626/?fullscreen&hints=off)
+- [Miro Board - Synthesis](https://miro.com/app/board/o9J_l1CBjqM=/?share_link_id=40253669223)
+
