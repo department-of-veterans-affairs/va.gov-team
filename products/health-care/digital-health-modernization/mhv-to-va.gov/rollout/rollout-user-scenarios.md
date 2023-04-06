@@ -4,6 +4,7 @@
 - [Scenarios without a new account creation API](#scenarios-without-a-new-account-creation-api)
   - [Landing page](#landing-page)
      - [Scenario 1 - User has ID.me or Login.gov account, but no MHV account](#scenario-1)
+     - [Scenario 2 - User has ID.me or Login.gov account, has MHV account, does not have health benefits](#scenario-2)
 
 
 ## Scenarios without a new account creation API
