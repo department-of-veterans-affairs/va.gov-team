@@ -1,8 +1,9 @@
 # Rollout User Scenarios
 
 ## Table of Contents
-- #scenarios-without-a-new-account-creation-api
-  - #landing-page
+- [Scenarios without a new account creation API](#scenarios-without-a-new-account-creation-api)
+  - [Landing page](#landing-page)
+     - [Scenario 1 - User has ID.me or Login.gov account, but no MHV account](#scenario-1)
 
 
 ## Scenarios without a new account creation API
@@ -31,8 +32,109 @@ The scenarios below describes the various user experiences that can occur when t
 
 ### Secure Messaging
 
+#### Scenario 1
+*Pre-conditions*
+- Condition 1
+- Condition 2
+
+*User Experience*
+1. Step 1
+2. Step 2
+3. Step 3
+4. Step 4
+Provide screen shots as warranted.
+
+
+#### Scenario 2
+*Pre-conditions*
+- Condition 1
+- Condition 2
+
+*User Experience*
+1. Step 1
+2. Step 2
+3. Step 3
+4. Step 4
+Provide screen shots as warranted.
+
+
+### Appointments
+
+#### Scenario 1
+*Pre-conditions*
+- Condition 1
+- Condition 2
+
+*User Experience*
+1. Step 1
+2. Step 2
+3. Step 3
+4. Step 4
+Provide screen shots as warranted.
+
+
+#### Scenario 2
+*Pre-conditions*
+- Condition 1
+- Condition 2
+
+*User Experience*
+1. Step 1
+2. Step 2
+3. Step 3
+4. Step 4
+Provide screen shots as warranted.
 
 ### Medical Records
 
+#### Scenario 1
+*Pre-conditions*
+- Condition 1
+- Condition 2
 
-### 
+*User Experience*
+1. Step 1
+2. Step 2
+3. Step 3
+4. Step 4
+Provide screen shots as warranted.
+
+
+#### Scenario 2
+*Pre-conditions*
+- Condition 1
+- Condition 2
+
+*User Experience*
+1. Step 1
+2. Step 2
+3. Step 3
+4. Step 4
+Provide screen shots as warranted.
+
+### Medications
+
+#### Scenario 1
+*Pre-conditions*
+- Condition 1
+- Condition 2
+
+*User Experience*
+1. Step 1
+2. Step 2
+3. Step 3
+4. Step 4
+Provide screen shots as warranted.
+
+
+#### Scenario 2
+*Pre-conditions*
+- Condition 1
+- Condition 2
+
+*User Experience*
+1. Step 1
+2. Step 2
+3. Step 3
+4. Step 4
+Provide screen shots as warranted.
