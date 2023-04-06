@@ -96,6 +96,103 @@
 ### Disruptive behavior flag
 - Patrick - pre-fetching data when the application loads - has that been embarked on anywhere?
 
+## 2023-03-30 Team Meeting
+
+## Attendees
+
+- Lauren Alexanderson
+- Patrick Bateman
+- Mikki Northuis
+- Kristen McConnell
+- Leila Rassi
+- Mark Dewey
+- Martha Wilkes
+- Jonathan Nelson
+- Coulton Bunney
+- Daniel Cloud
+- Robyn Singleton
+
+## Updates
+
+- Daniel
+	- Put up the PR for the newsletter sign up.
+- Coulton
+	- Focused on MR - have time with Dr. Josephs to review some of the designs
+	- Hopeful there won't be a ton of changes since they haven't strayed too far from the existing.
+	- Jenny has started some research discovery on Medications
+	- Hoping to learn about pre-visit summary and existing functionality
+	- Goal is to get to low-fi design by end of April
+	- Working with SM to get ready for accessibility and staging review
+- Kristen
+	- Will be in pre-visit summary meeting 
+	- Will be writing up documentation on after visit summary
+	- New to OCTO engineer (Adrien) with whom she met earlier
+- Robyn
+	- Continuing with research
+	- Noticed they got no non-MHV users; going t o work with Perigean on that
+- Martha
+	- Accessibility feedback from the team
+- Patrick
+	- Launched landing page
+	- Briefed the coordinators
+	- Quietly obsessing on what to deliver next
+- Jonathan
+	- Data collection for usability
+	- Needs to circle back around on Preferences and see where Kay is re: the spreadsheet
+- Lauren
+	- Trying to connect some dots with the Veterans experience product line 
+	- Getting Terry access to systems
+- Leila
+	- Getting ready to launch SM
+	- Talked with Coulton about some opportunities for improvement on how we 
+	- Discussion with Patty on renaming triage groups
+- Mark
+	- Working on SM stuff with Coulton
+	- Chasing down a bug in the accordion
+
+
+## Other Discussion Topics
+
+- Why we can't incorporate the new landing page into SM phase 0
+	- SM will be a standalone, no breadcrumb
+	- Leila prefers leaving the process as-is; wants to make sure users can understand how to send a message
+- Is there a smaller piece of landing page reminders that we might be able to deliver sooner rather than later?
+	- Does the notion of a notification for one thing seem feasible?
+	- Kristen - we need to consider notifications in MyVA vs. these 
+	- Marci - is it possible users might overlook other notifications if they thing the ones we are showing initially are the only ones
+	- Coulton - prefers we try to prove out some use cases; wants to learn as fast as we can.
+	- Patrick - may not have patience to wait for Auth; we may be able to dip a toe in to gather data to inform a larger strategy
+- Right to access/when can we pre-fetch data on behalf of the Veteran - is this in writing (policy)?
+	- There is "right to access" data vs. data you have to have an official request to get.
+	- VA logs that request.  Veteran used to have to fill out a form; they now log the BB request.
+	- Might warrant another conversation with Stephanie Griffith
+	- VA has some type of responsibility of getting you the data or telling you why they can't get it to you.
+	- We have to make sure that when they make those requests that it is being logged
+	- It may be in the Terms and Conditions what constitutes a request
+	- Is the act of moving data from VistA to eVault also related to the right to access?
+	- Can we run a query against the system and let it sit in the wings and wait for the user to request it?
+	- Is the act of fetching that data an access request, and if so, are we logging that as a request?
+- Who are the stakeholders for the details about a previous appointment?  Is this a different concept from AVS? 
+	- AVS is messy; Veterans don't know to ask for After Visit Summary.  What's the most valuable thing we could do incrementally?
+		- Lauren is up for an AVS MVP.  We shouldn't try to design an AVS that goes around Maureen and Eric
+		- It is 50-75% of what the current AVS is
+		- Kristen proposes that an engineer gets a view next
+- Secure Messaging Staging Review
+	- They have to have done the self-assessment for SM yet, which is a predecessor to Staging Review
+	- The ByLight team is a ways from being able to do their accessibility review
+	- Martha brought up the idea of doing a swarm on it
+	- They are concerned that an assessment at this point may reflect where they currently are (some of their changes are not on Staging yet)
+	- When would the accessibility swarm happen?
+	- Sara Smith sent a list of accessibility issues, but Mark is not sure how far this has been distributed
+	- Swarm concept started  because Sara has this all to review on her own
+	- The long list was from a 30 minute review; there are some basic things in the code.
+	- Preventing duplicate work
+	- Mark and Oleskii work on the accordion fix
+	- Push up any reviews that they have done
+	- If there are concerns with them running the tests, maybe someone can walk them through it.
+	- Not sure what the timeline is, but we want to make sure it can be done efficiently
+
+
 ## 2023-03-23 Team Meeting
 
 ### Attendees
