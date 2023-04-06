@@ -4,11 +4,9 @@
 
 Date: 10/2021
 
-- Gavin Quinn  gavin.quinn@bylight.com
-- Lexi Wunder  alexia.wunder@bylight.com
 - By Light UCD Team: research@bylight.com
 
-[Research Report]()
+[Research Summary and Final Presentation](https://xd.adobe.com/view/d4183ede-dfef-4f60-bcf6-33bfda5d7102-814b/)
 
 **Jump to:**
 
@@ -51,22 +49,22 @@ We predict that the new site will have a satisfactory task completion time, succ
 ### Terminology
 All (7 of 7) Veterans struggled with current terminology. Veterans struggled most with terms such as, “Non-VA,”  “Source,”  “Category,” and “Self-Entered”  among others. Veterans  commented  they were not used to seeing these terms and found them very confusing. Because users didn’t understand terminology that makes up the majority of the new information we are including in the proposed solution, confidence levels declined and frustration levels increased. Two Veterans were familiar with the glossary and utilized it to look up certain terms. Unfortunately, participants found the glossary  to be repetitive, confusing, and missing  information they hoped to find. The majority of all pain points uncovered during testing stemmed from a lack of understanding MHV pharmacy terminology.
 
-"I have never seen Non-VA  - what is that? Is Non-VA something you enter yourself?"
+> "I have never seen Non-VA  - what is that? Is Non-VA something you enter yourself?"
 
-“Multiple definitions of "Active" threw me for a curveball; It seems repetitive."
+> “Multiple definitions of "Active" threw me for a curveball; It seems repetitive."
 
 ### Refilling Prescriptions
 All (7 of 7) Veterans commented that they are used to being able to refill their prescription directly from the medication table and column associated with that specific medication. Veterans who did not notice the “Refill Prescription” button at the top of the table struggled with the task associated with refilling medications. All Veterans also searched for the action  or mentioned they would look in the “view details” page if they did not see it in the table. These findings suggest that it will be helpful to  provide a link to refill prescriptions  in both places.
 
-“I normally would check the box for the refill [hovers cursor over center column in the summary table], which would be here in the middle of the table, and I would select which one I wanted to refill. Here, I have to hunt for it, which is annoying and frustrating.”
+> “I normally would check the box for the refill [hovers cursor over center column in the summary table], which would be here in the middle of the table, and I would select which one I wanted to refill. Here, I have to hunt for it, which is annoying and frustrating.”
 
 ### Add A Medication
 
 Most (6 of 7) Veterans had never used this feature or knew it existed. Some thought it was for doctors and they were not allowed to use it. Only one Veteran  remarked they had tried to use this feature “a very long time ago” and was still unsure and confused by it. Testing uncovered the central issue of the “Add a Medication” feature was the unfamiliar terminology on the form. Users struggled and were  frustrated when asked to explain their thoughts and walk through how they would fill out the form. Confidence levels decreased with each field term they did not know.
 
-“I thought this was for my doctor…”
+> “I thought this was for my doctor…”
 
-“I used it once a long time ago but I didn’t understand it., I will not use it again and I don’t understand why it’s here.”
+> “I used it once a long time ago but I didn’t understand it., I will not use it again and I don’t understand why it’s here.”
 
 ### Table Design
 Overall, the design of the consolidated table was praised, and Veterans were able to complete most tasks directly from it (excluding “Add Medication” and “Refill Medication”). The proposed drop  down filter was highly preferred over the radio button alternative,  and received positive feedback from majority of Veterans. Veterans gave feedback that they were excited about the proposed changes and felt it would positively benefit them.
@@ -75,7 +73,16 @@ Overall, the design of the consolidated table was praised, and Veterans were abl
 
 Veterans felt they had been using a “broken” product for so long because there was no alternative. Many commented that they have experienced  many changes within MHV, but unfortunately not all of them were beneficial.
 
-“I’m not going to say I don’t like changes, but the way that changes in a lot of organizations  (military included) are done, the Veteran or the person on the other end is frustrated and left to figure it out.”
+> “I’m not going to say I don’t like changes, but the way that changes in a lot of organizations  (military included) are done, the Veteran or the person on the other end is frustrated and left to figure it out.”
+
+### Key Quotes
+1. "I have never seen non-va what is that? Is non-va something you enter yourself?" 
+2. “I guess I’m not used to seeing the Non-VA meds mixed in. I guess that is what you would do if you added other medications on.” 
+3. 'Multiple definitions of "Active" threw me for a curveball, It seems repetitive"  
+4. "simple is better" 
+5. “I hated 2 and 3. The word bureaucratic comes to mind when I see these; this is the way a bureaucrat would look at it.” (referring to notification options) 
+6. “I normally would check the box for the refill [hovers cursor over center column in the summary table], which would be here in the middle of the table, and I would select which one I wanted to refill. Here I have to hunt for it, which is annoying and frustrating.” 
+7. “I’m not going to say I don’t like changes, but the way that changes in a lot of organizations, military included, are done, the veteran or the person on the other end is frustrated and left to figure it out.” 
 
 ## <a id="recommend"></a>Recommendations
 
@@ -178,4 +185,5 @@ Underserved groups we haven’t talked to
 - [Participant Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-prescription-refill/2021-08-pharmacy-page-consolidation/Research/Usability%20Test%20Data%20Log_Pharmacy%20Consolidation.xlsx)
 - [Prototype](https://xd.adobe.com/view/737566aa-bed5-4641-9c19-7885ce466c80-2626/?fullscreen&hints=off)
 - [Miro Board - Synthesis](https://miro.com/app/board/o9J_l1CBjqM=/?share_link_id=40253669223)
+- [Research Summary and Final Presentation](https://xd.adobe.com/view/d4183ede-dfef-4f60-bcf6-33bfda5d7102-814b/)
 
