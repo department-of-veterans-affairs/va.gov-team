@@ -1,7 +1,7 @@
-# Initiative Brief - Compensation and Pensions Appointments
+# Initiative Brief - Compensation and Pension Appointments
 ## Overview
 
-
+Looking to display the Compensation and Pension Appointments in VAOS. This feature would allow Veterans to view their upcoming and past Compensation and Penesion appointments. 
  
 ---
 
@@ -14,13 +14,12 @@ A user can view their C&P appointments in VAOS
 
 ## Problem
 * What is the problem and who is affected? And, what evidence do we have of the problem?
-  - 
+  - Since we moved to the VAOS v2 services, the Compensation and Pension appointments are being fetched to VAOS. The VAOS app displays the Compensation and Pensions appointments as health appointments and may be confusing to the Veteran it is actually their Compensation and Pension exam. 
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
-  - Current functionality
-  - 
+  - Current functionality 
 * How does this initiative help further OCTO-DE's mission and goals?
   - Improve user satisfaction
-  - Meet user expectations of available online transactions
+  - Meet user expectations 
 
 
 ## Desired Outcomes
