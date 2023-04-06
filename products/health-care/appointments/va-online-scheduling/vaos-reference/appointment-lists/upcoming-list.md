@@ -85,7 +85,7 @@ As a Veteran, I want an overview of my health care appointments so I can plan my
             "text": "REGULAR"
           }
         ],
-        "patientIcn": "1012845331V153043",
+        "patientIcn": "<ICN>",
         "locationId": "983",
         "clinic": "437",
         "start": "2023-03-15T20:00:00Z",
