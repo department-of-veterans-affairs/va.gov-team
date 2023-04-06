@@ -18,6 +18,9 @@ _This should be replaced with a reference to or copy of the spreadsheet that UX/
 | My Secure Messaging List |  | List of Name and yes/no pairs | Enables Veterans to send messages to selections of groups. Current implementation like having entire contact list put on `to:` field of email by default. |
 | My VA Treating Facilities |  | Checklist of VAMC locations. | On "Profile Information" page on MHV Classic. List may be restricted to locations where Veteran has had an appointment? |
 | Subscribe to Email Notifications and Reminders | VA.gov Notify? | List of on/off toggles for emails on Rx Refill, appointment reminder, Bi-weekly email newsletter, etc. | Unclear if newsletter is same one managed via GovDelivery (would need API to sub/unsub). Appointment reminders would be VAOS-related. This is where other teams are leading efforts |
-
-
- 
+| My HealtheVet Welcome Bar – How would you like to be addressed |  | Personalizes MHV Classic welcome bar | Free text, so could be anything: name, rank, etc |
+|  My HealtheVet Welcome Bar – Which Military Branches |  | Personalizes MHV Classic welcome bar | VA should have service branches, but this allows user to make selections |
+| SM Manage Folders |  | SM App setting. Allows user to CRUD folders to store messages | More application-specific than others? |
+|  |  |  |  |
+|  |  |  |  |
+     
