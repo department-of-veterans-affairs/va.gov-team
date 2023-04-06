@@ -65,15 +65,39 @@ Thank you for joining this session today! I first want to make sure that we are 
 
 ---
 
-## Starter Questions - 10 minutes
+## Questions Round 1 - Mobile internet use | 5 minutes
 
-- I’d like to start with a few questions to get to know your interactions with VA online
-- If I asked you to sign into your VA account online, where would you go to do that?
-   - [PROMPT: let’s say what web address]
-   - [EXTRA PROMPT: maybe MHV? Or VA.gov? Or eBenefits?]
-   - Is [ANOTHER VA PORTAL] something you ever go to?
-   - When you go there do you think of it as going to your VA account online or do you think of it differently than that? 
-- How often would you say that you go online to manage your VA benefits or VA healthcare?
+I’d like to start with a few questions to get to know how you use your phone online…
+
+- I’d like to ask what devices you generally use to go online:
+   - Do you regularly use a computer to go online?
+      - [could be desktop or laptop, one you own or one you borrow]
+   - Do you regularly use a mobile phone to go online?
+   - Do you regularly use a tablet to go online?
+   - Which of these would you say you use the most when going online?
+      - Why do you tend to use [THAT DEVICE] the most?
+- Have you accessed a bank account or health account or another account with important personal information on your phone in the past?
+   - [IF YES] Do you have a preference on where you access an account like that - either on your phone or computer?
+   - Have you created a new account for a website or service on your mobile phone?
+   - [IF NO] Is that something you would consider doing from a phone?
+      - Why or why not?
+   - For an account you already have, let’s say you need to update the phone number or password for that. Have you done something like that using a phone in - the past?
+   - [PROMPT] That could be either on the VA or another website
+   - [IF YES] Could you walk me through an experience you’ve had with that in the past?
+   - [IF NO] Would you only do something like that from a desktop or laptop computer?
+      - Could you tell me a little more about that?
+
+## Questions Round 2 - VA account use | 10 minutes
+
+Let’s think more specifically about accessing the VA on your phone
+
+- How often would you say that you use a phone to go online to manage your VA benefits or VA healthcare?
+   - [IF SPLIT mobile/desktop] Are there certain things you do online with the VA that you are more likely to do on your phone or tablet?
+   - Are there things you’re more likely to do on a computer - desktop or laptop?
+- If I asked you to sign into your VA account online, what website or web address would you go to?
+   - [PROMPT: maybe MHV? Or VA.gov? Or eBenefits? Or the VA phone app?]
+   - Is [ANOTHER VA PORTAL] a place you visit?
+      - Do you ever sign in there?
 - When was the last time you remember signing into your [VA account online]?
    - And are you comfortable telling me why you signed in that day? Like what were you trying to do then?
    - Do you remember what webpage or web address you used?
@@ -82,31 +106,31 @@ Thank you for joining this session today! I first want to make sure that we are 
       - [PROMPT or screen share for MHV - there are 3 options…]
       - [PROMPT or screen share for VA.gov - there are 4 options…]
    - Do you have a particular reason that you use this sign in method?
-- When logging into VA.gov which of the log in choices do you use most often 
-   - [PROMPT or screen share DS login, My HealtheVet login, Login.gov, or ID.me]
-- Do you ever use another option?
-   - [IF YES] Can you tell me about when you would choose to log in this way?
-- Have you ever experienced difficulty getting logged into your account?
+- [IF recent login was MHV]
+   - Are there times when you log into VA.gov?
+   - [IF YES] Which of the log in choices do you use most often
+      - [PROMPT or screen share DS login, My HealtheVet login, Login.gov, or ID.me]
+   - Do you ever use another option?
+      - [IF YES] Can you tell me about when you would choose to log in this way?
+- Do you use the same option for VA.gov, MHV, and eBenefits?
+   - Have you ever experienced difficulty getting logged into your account?
    - [IF YES] How often would you say this happens?
    - [IF YES] Can you tell me about what issue or issues you experience?
       - [OR] Can you tell me about a time that you experienced difficulty logging into the VA online?
-- What do you tend to do the most when signing into the VA online?
+- What do you tend to do the most often when signing into the VA online?
 - Is there anything else you want to share with me about signing in, before we move on?
 
 
-## First Task: [TASK NAME] - X minutes
 
-- Step 1
-- Step 2
 
-### Things to watch for:
+## Questions Round 3: Account terms | 10 minutes
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+I’d like to take a few minutes to think about a few more words or phrases that the VA might use when talking about online accounts. I want to remind you that this isn’t a test of you or your vocabulary. Instead we are interested in understanding what you and other veterans call things so we can make instructions more clear and understandable. 
 
-## Second Task: [TASK NAME] - X minutes
+- 
+
+
+## Task 1: Modal - 5 minutes
 
 - Step 1
 - Step 2
@@ -147,4 +171,9 @@ Thank you so much again, and enjoy the rest of your day!
 ## Emergency Exit
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
+
+- I really appreciate you taking some time with us today. I have now covered all the questions we have for you. Thank you so much for your time and feedback.
+
+OR
+- I am so sorry, but the prototype we wanted to test with you today is having a glitch and we aren’t going to be able to use that. Unfortunately, we’ll need to end the session. I apologize for that, but I appreciate your willingness to help us on this.
 
