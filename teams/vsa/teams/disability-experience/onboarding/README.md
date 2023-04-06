@@ -24,7 +24,7 @@
   - vfs-platform-support
   - design
 - Ask your DM/team-member to request access to Github [sample ticket # 14451](https://github.com/department-of-veterans-affairs/github-user-requests/issues/14451)
-- Get access to VA mural space - poc - Matt Self?
+- You must have access to your va.gov email address to obtain a Mural license. As long as one person on the team has a VA mural license the rest of the team can contribute as visitors. Licenses have associated cost and are limited. The team's PO is the POC.
 - For [Zenhub access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub.md)
 
 
