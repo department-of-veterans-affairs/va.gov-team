@@ -36,12 +36,19 @@ As a Veteran, I want an overview of my health care appointments so I can plan my
 ## Technical design
 [Endpoints and sample responses]
 
+
+
+
 **Staging base url:** https://staging-api.va.gov/
 
 **Prod base url:** https://api.va.gov/
 
-**Endpoint:**
+**Endpoints**
 `vaos/v2/appointments?_include=facilities,clinics&start={startDate}&end={endDate}&statuses[]=booked&statuses[]=arrived&statuses[]=fulfilled&statuses[]=cancelled`
+
+To see the current api responses:
+- Navigate to the [vets-api swagger](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/)
+- Search for `https://api.va.gov/vaos/v2/apidocs`
 
 <details>
   <summary>Sample response</summary>
