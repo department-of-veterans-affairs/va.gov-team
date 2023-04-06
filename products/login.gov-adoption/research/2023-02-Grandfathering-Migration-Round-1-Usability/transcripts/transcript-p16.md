@@ -28,506 +28,321 @@
 
 00:00:32.000 --> 00:00:33.000
 
-> Maybe once or twice a month I go on for different things. Maybe check benefits. But since I worked on transitioning over to healthcare, I kinda go in that way to get to my healthy vet, too, and talk to my doctor.
+> Maybe once or twice a month I go on for different things. Maybe to check benefits. But since I worked on transitioning over to healthcare, I kinda go in that way to get to my healthy vet, too, and talk to my doctor.
 
 00:00:48.000 --> 00:00:53.000
 
-> Okay, gotcha. So it sounds like you're starting you're sometimes starting on my healthy vet. And then, when when you're looking at your benefits, do you know which website that you start from to going to look at that?
+> Okay, gotcha. So it sounds like sometimes you're starting on my healthy vet. And then, when when you're looking at your benefits, do you know which website that you start from to going to look at that?
 
 00:00:59.000 --> 00:01:09.000
-So I go into the old, my E-bits website because that will, it will transition over to the new website without me having to do it.
 
-00:01:09.000 --> 00:01:12.000
-Extra layer of authentication.
+> So I go into the eBenefits website because it will transition over to the new website without me having to do the extra layer of authentication.
 
 00:01:12.000 --> 00:01:16.000
-Okay. Okay, so tell me more about that. What's it like when you start the process?
 
-00:01:16.000 --> 00:01:18.000
-If you can kind of walk me through that.
+> Okay. Okay, so tell me more about that. What's it like when you start the process? If you can kind of walk me through that.
 
 00:01:18.000 --> 00:01:26.000
-So, go to my e-bits. And then, when I have the main screen on, I'm usually looking at disabilities to check the status of things.
 
-00:01:26.000 --> 00:01:32.000
-I have ongoing. I click on disabilities, and then it it will bring up what I have.
-
-00:01:32.000 --> 00:01:34.000
-That's currently in the queue. Then I will just select one of those items.
-
-00:01:34.000 --> 00:01:35.000
-Okay.
-
-00:01:35.000 --> 00:01:39.000
-One of the disability claims that I have there.
-
-00:01:39.000 --> 00:01:44.000
-I click on that and then it will bring up the status, whether it's a gathering evidence.
-
-00:01:44.000 --> 00:02:02.000
-Reviewing, evidence. Whatever the case may be, and it will say at the top there will be a blue layer that said, Try our new website, and I'll go there because that gives it almost get that other website.
-
-00:02:02.000 --> 00:02:03.000
-Okay.
-
-00:02:03.000 --> 00:02:05.000
-Almost gives me a different level of detail that's that's easier to read.
-
-00:02:05.000 --> 00:02:06.000
-Gotcha. Okay.
-
-00:02:06.000 --> 00:02:14.000
-But I mean I don't usually go right to the new website because there is an extra layer of authentication that's kind of a pain, and I don't have to do it.
-
-00:02:14.000 --> 00:02:17.000
-If I go through, he benefits first.
+> So, I go to my eBenefits. And then, when I have the main screen on, I'm usually looking at disabilities to check the status of things. I have ongoing. I click on disabilities, and then it it will bring up what I have. That's currently in the queue. Then I will just select one of those items. One of the disability claims that I have there. I click on that and then it will bring up the status, whether it's a gathering evidence. Reviewing, evidence. Whatever the case may be, and it will say at the top there will be a blue layer that says, 'Try our new website,' and I'll go there because that lets me get to that other website. And that almost gives me a different level of detail that's easier to read. But I mean I don't usually go right to the new website because there is an extra layer of authentication that's kind of a pain, and I don't have to do it if I go through eBenefits first.
 
 00:02:17.000 --> 00:02:19.000
-Right? Okay, that's really helpful. I think I'm following.
 
-00:02:19.000 --> 00:02:21.000
-So it sounds like you're going in through benefits.
-
-00:02:21.000 --> 00:02:24.000
-Do you know which sign in method you use when you're on the E benefits website?
+> Okay, that's really helpful. I think I'm following. So it sounds like you're going in through ebenefits. Do you know which sign in method you use when you're on the E benefits website?
 
 00:02:24.000 --> 00:02:27.000
-Yeah, I use, yeah, ds, login.
+
+> Yeah, I use, yeah, DS Logon.
 
 00:02:27.000 --> 00:02:34.000
-Okay, great. So it sounds like you start any benefits you sign in with thes log on, and then eventually, you probably end up at Va Dot.
 
-00:02:34.000 --> 00:02:35.000
-Yeah.
-
-00:02:35.000 --> 00:02:37.000
-Gov, it sounds like that might be the new website. Okay? Great.
-
-00:02:37.000 --> 00:02:43.000
-And that's a bit easier for you. You find, rather than starting on va.gov.
+> Okay, great. So it sounds like you start any benefits you sign in with the DS logon, and then eventually, you probably end up at VA.gov. It sounds like that might be the new website? Okay, great. And that's a bit easier for you, you find, rather than starting on va.gov.
 
 00:02:43.000 --> 00:02:44.000
-Yes. Yeah.
+
+> Yes. Yeah.
 
 00:02:44.000 --> 00:02:45.000
-And signing in there. Great. Okay. That makes sense. That's really helpful.
 
-00:02:45.000 --> 00:02:49.000
-Do you remember the last time that you signed in?
+> And signing in there. Great. Okay. That makes sense. That's really helpful. Do you remember the last time that you signed in?
 
 00:02:49.000 --> 00:02:58.000
-Probably let me see, would have been about a week ago, when I did a refill on my medications.
+
+> Probably would have been about a week ago when I did a refill on my medications.
 
 00:02:58.000 --> 00:03:00.000
-Okay. So that would have been probably on my healthy bet.
+
+> Okay. So that would have been probably on my healthy vet?
 
 00:03:00.000 --> 00:03:06.000
-Yeah. Yeah. But but I go into the the Va portal first to get there.
+
+> Yeah. But I go into the the VA portal first to get there.
 
 00:03:06.000 --> 00:03:07.000
-Okay, okay, Gotcha. So there's a couple of different places that you're kind of comfortable. Starting from.
 
-00:03:07.000 --> 00:03:18.000
-And when you went into the Va portal, do you know which sign in method you would use to refill your prescription?
+> Okay, gotcha. So there's a couple of different places that you're comfortable starting from. And when you went into the VA portal, do you know which sign in method you would use to refill your prescription?
 
 00:03:18.000 --> 00:03:20.000
-Yeah, so I use Ds.
+
+> Yeah, so I use DS.
 
 00:03:20.000 --> 00:03:24.000
-Okay. Gotcha, that makes sense. So that's really helpful.
 
-00:03:24.000 --> 00:03:25.000
-I think we'll talk a little bit more about that.
-
-00:03:25.000 --> 00:03:39.000
-Throughout our conversation today but I think we can get started with looking at that prototype that I mentioned so what I'm going to do is send you a link in the Zoom chat and I'll send that right now and then.
+> Okay. Gotcha, that makes sense. So that's really helpful. I think we'll talk a little bit more about that throughout our conversation today but I think we can get started with looking at that prototype that I mentioned so what I'm going to do is send you a link in the Zoom chat and I'll send that right now and then.
 
 00:03:39.000 --> 00:03:52.000
-I'm just gonna ask you to open this up on your ipad. And then, once that's opened up, I'm gonna ask for you to share your screen. So I'll give you a second to open the link and then let me know if you're comfortable or you're familiar with sharing your screen.
+
+> I'm just gonna ask you to open this up on your iPad. And then, once that's opened up, I'm gonna ask for you to share your screen. So I'll give you a second to open the link and then let me know if you're comfortable or you're familiar with sharing your screen.
 
 00:03:52.000 --> 00:03:56.000
-Yeah. The link just disappeared.
+
+> Yeah. The link just disappeared.
 
 00:03:56.000 --> 00:03:59.000
-Okay, might be a little bit funny on the ipad.
 
-00:03:59.000 --> 00:04:04.000
-Let me think where it might show up.
-
-00:04:04.000 --> 00:04:09.000
-I'll send it again, and we'll see.
+> Okay, might be a little bit funny on the ipad. Let me think where it might show up. I'll send it again, and we'll see.
 
 00:04:09.000 --> 00:04:10.000
-Okay, yeah, I got it. There.
+
+> Okay, yeah, I got it. There.
 
 00:04:10.000 --> 00:04:19.000
-If it comes up you got it. Okay.
 
-00:04:19.000 --> 00:04:22.000
-Alrighty. So is that opening up now on your side?
+> So is that opening up now on your side?
 
 00:04:22.000 --> 00:04:23.000
-Yes.
+
+> Yes.
 
 00:04:23.000 --> 00:04:29.000
-Okay, awesome. And then I think, to share your screen on the ipad. And is that something you've done before?
+
+> Okay, awesome. And then I think, to share your screen on the ipad. And is that something you've done before?
 
 00:04:29.000 --> 00:04:32.000
-I have!
+
+> I have!
 
 00:04:32.000 --> 00:04:57.000
-Okay, let me know if you need any support, and I can help walk us through it.
+
+> Okay, let me know if you need any support, and I can help walk us through it.
 
 00:04:57.000 --> 00:05:01.000
-So so far, I don't think I'm seeing your screen.
+
+> So far, I don't think I'm seeing your screen.
 
 00:05:01.000 --> 00:05:05.000
-Are you still on the zoom window? Are you on the?
+
+> Are you still on the zoom window? Are you on the?
 
 00:05:05.000 --> 00:05:09.000
-I'm on the zoom window. I hit share content in the zoom window.
 
-00:05:09.000 --> 00:05:15.000
-Okay. Okay.
+> I'm on the zoom window. I hit share content in the zoom window.
 
 00:05:15.000 --> 00:05:17.000
-And you can see that.
+
+> And you can see that?
 
 00:05:17.000 --> 00:05:23.000
-No, I'm not seeing it yet, so let's think, does it look like they're at the top of your screen.
 
-00:05:23.000 --> 00:05:32.000
-Maybe does it say something like, stop sharing?
-
-00:05:32.000 --> 00:05:35.000
-I think, if not, it might not have started yet.
+> No, I'm not seeing it yet, so let's think, at the top of your screen does it say something like 'sharing screen'? I think, if not, it might not have started yet.
 
 00:05:35.000 --> 00:05:41.000
-Okay, yeah. Cause, the website is still not up.
 
-00:05:41.000 --> 00:05:42.000
-Okay.
-
-00:05:42.000 --> 00:06:05.000
-Let me try something here. I wonder if it's that browser?
-
-00:06:05.000 --> 00:06:06.000
-Okay. So I got the screen up. Now, I just need to.
-
-00:06:06.000 --> 00:06:14.000
-I the link that you send me. Now we just need to figure out why this sharing is over.
+> Okay, yeah. Cause, the website is still not up. Let me try something here. I wonder if it's that browser? Okay. So I got the screen up. Now, I just need to. I the link that you send me. Now we just need to figure out why this sharing is over.
 
 00:06:14.000 --> 00:06:18.000
-Okay, perfect. Let's think it is a little funny on my end.
+
+> Okay, perfect. Let's think it is a little funny on my end.
 
 00:06:18.000 --> 00:06:22.000
-Sometimes you disappear, so if you're on the zoom window, do you see?
+
+> Sometimes you disappear, so if you're on the zoom window, do you see?
 
 00:06:22.000 --> 00:06:26.000
-Kind of like a a bunch of different options, like muting.
+
+> Kind of like a a bunch of different options, like muting.
 
 00:06:26.000 --> 00:06:30.000
-And you know, chat. Oh, there we go!
+
+> And you know, chat. Oh, there we go!
 
 00:06:30.000 --> 00:06:32.000
-Yup, I just I found something.
+
+> Yup, I just I found something.
 
 00:06:32.000 --> 00:06:34.000
-Alright, I'm gonna give it a second to load.
+
+> Alright, I'm gonna give it a second to load.
 
 00:06:34.000 --> 00:06:41.000
-Okay, it, looks like you're sharing your screen now, so I can see the zoom window.
+
+> Okay, it, looks like you're sharing your screen now, so I can see the zoom window.
 
 00:06:41.000 --> 00:06:48.000
-And then, yeah, perfect. That's great. Okay? So I'm guessing that you can see exactly what I'm looking at.
+
+> And then, yeah, perfect. That's great. Okay? So I'm guessing that you can see exactly what I'm looking at.
 
 00:06:48.000 --> 00:06:53.000
-You've got this email on your screen, and then maybe me in the upper right hand corner. Okay, perfect.
+
+> You've got this email on your screen, and then maybe me in the upper right hand corner. Okay, perfect.
 
 00:06:53.000 --> 00:06:54.000
-Right.
+
+> Right.
 
 00:06:54.000 --> 00:06:58.000
-So this, this should work. So this is an email.
 
-00:06:58.000 --> 00:07:03.000
-It's let's pretend that it's addressed to yourself, and what I want you to do as we start our conversation today is to imagine that this was received to you.
-
-00:07:03.000 --> 00:07:16.000
-You got in this email from the Va and I'm gonna give you a second to read this more closely.
-
-00:07:16.000 --> 00:07:33.000
-And what I would like for you to do is just summarize to me what this email is telling you.
+> So this is an email. Let's pretend that it's addressed to yourself, and what I want you to do as we start our conversation today is to imagine that this was received to you. You got in this email from the Va and I'm gonna give you a second to read this more closely. And what I would like for you to do is just summarize to me what this email is telling you.
 
 00:07:33.000 --> 00:07:39.000
-Ds log on will no longer work, and you have to do login.gov.
 
-00:07:39.000 --> 00:07:44.000
-If you wanna access your the benefits, healthcare, etc.
+> Ds logon will no longer work, and you have to do login.gov if you wanna access your the benefits, healthcare, etc.
 
 00:07:44.000 --> 00:07:48.000
-Okay. And I know that you use Ds log on right now.
 
-00:07:48.000 --> 00:07:50.000
-So as someone who's using Ds log on.
-
-00:07:50.000 --> 00:07:55.000
-When you read something like this, what's your reaction?
+> Okay. And I know that you use Ds log on right now. So as someone who's using Ds log on. When you read something like this, what's your reaction?
 
 00:07:55.000 --> 00:08:03.000
-My reaction is that the Va. Is continuing to vend out their services to private contractors.
 
-00:08:03.000 --> 00:08:04.000
-Okay.
-
-00:08:04.000 --> 00:08:08.000
-And and they're moving it out from under the Department of Defense.
+> My reaction is that the VA i continuing to vend out their services to private contractors. And and they're moving it out from under the Department of Defense.
 
 00:08:08.000 --> 00:08:15.000
-Okay. So you I sent maybe a little bit of frustration with with realizing that.
+
+> Okay. So you I sent maybe a little bit of frustration with with realizing that.
 
 00:08:15.000 --> 00:08:25.000
-There's frustration there, there's frustration, and you know I've tried to get a login back before, but they want you to do this really funky authentication.
 
-00:08:25.000 --> 00:08:32.000
-Where you have a video within. And I am just not interested in doing that.
+> There's frustration there, and, I've tried to get a Login.gov account before, but they want you to do this authentication where you have a video with them. And I am just not interested in doing that.
 
 00:08:32.000 --> 00:08:42.000
-Yeah, okay, that makes sense. So part of it is that your you're kind of like, oh, okay, they're contracting out to a private contractor.
 
-00:08:42.000 --> 00:08:48.000
-And then the other part of your reaction is actually to do with your experience with Login. Gov.
+> Yeah, okay, that makes sense. So part of it is that your you're kind of like, oh, okay, they're contracting out to a private contractor. And then the other part of your reaction is actually to do with your experience with Login. Gov.
 
 00:08:48.000 --> 00:08:49.000
-Yeah.
 
-00:08:49.000 --> 00:08:51.000
-Already! Go ahead!
-
-00:08:51.000 --> 00:08:52.000
-And that is, and I'm also the familiarity with Ds log on.
-
-00:08:52.000 --> 00:09:05.000
-So that's something that I would use in the service to access different Dod websites it's just it's kind of frustrating with the change.
-
-00:09:05.000 --> 00:09:06.000
-And you know it's frustrating when you log on to va.gov, and they are like 4 different options.
-
-00:09:06.000 --> 00:09:13.000
-There? Why?
+> Yeah. And also the familiarity with DS Logon. So that's something that I would use in the service to access different DoD websites it's just it's kind of frustrating with the change. And it's frustrating when you log on to VA.gov, and they are like 4 different options there.
 
 00:09:13.000 --> 00:09:18.000
-Yeah, okay, that makes total sense. So you've been using Ds log on for probably quite a while as well.
+
+> Yeah, okay, that makes total sense. So you've been using Ds log on for probably quite a while as well.
 
 00:09:18.000 --> 00:09:19.000
-I have. Yes!
+
+> I have. Yes.
 
 00:09:19.000 --> 00:09:33.000
-Okay, yeah. So that makes sense. And then when you talked about the login, gov, you're kind of hesitancy with login.gov, and needing to maybe do a video, can you tell me a little bit more about your experience with login gov so far or your understanding?
+
+> Okay, yeah. So that makes sense. And then when you talked about your hesitancy with login.gov, and needing to maybe do a video, can you tell me a little bit more about your experience with login gov so far or your understanding?
 
 00:09:33.000 --> 00:09:41.000
-Well, I was, yeah, quite probably a couple of years ago I was using login, Daca attempting to use it.
 
-00:09:41.000 --> 00:09:42.000
-I was gonna apply for Federal civilian jobs through U.S.A.
-
-00:09:42.000 --> 00:09:48.000
-Jobs. And that's site uses the login dot go.
-
-00:09:48.000 --> 00:10:05.000
-But they wanted me, you know you do this thing where you take a picture of your Id or your scan your id, and then, for whatever reason they can't read it, and then they require they want to do a video conference with you, a short video conference, to authenticate who
-
-00:10:05.000 --> 00:10:11.000
-you are, to me. That's that's just too interested.
-
-00:10:11.000 --> 00:10:12.000
-Okay.
-
-00:10:12.000 --> 00:10:17.000
-And I know they don't work for the Government either, so I don't have a real high level of trust.
+> Well, it was probably a couple of years ago I was using Login.gov, attempting to use it. I was gonna apply for federal civilian jobs through U.S.A. Jobs, and that site uses Login.gov. But they wanted me to do this thing where you take a picture of your ID, or your scan your ID, and then, if for whatever reason they can't read it, then they want to do a video conference with you, a short video conference, to authenticate who you are. To me, that's that's just too intrusive. And I know they don't work for the government either, so I don't have a real high level of trust.
 
 00:10:17.000 --> 00:10:23.000
-Yeah, that makes sense. Okay? So you don't it's not even just maybe the hassle of having to do something like that.
 
-00:10:23.000 --> 00:10:28.000
-It's actually like you don't. You might not feel comfortable with having to do something like that.
+> Yeah, that makes sense. Okay. So it's not even just the hassle of having to do something like that. It's actually like you don't. You might not feel comfortable with having to do something like that.
 
 00:10:28.000 --> 00:10:29.000
-Yes.
+
+> Yes.
 
 00:10:29.000 --> 00:10:34.000
-Yeah, that's really helpful. I'm gonna give you just a second to look at this email once more.
 
-00:10:34.000 --> 00:10:36.000
-Is there anything else that's jumping out at you?
-
-00:10:36.000 --> 00:10:46.000
-We've covered quite a bit already, but.
+> Yeah, that's really helpful. I'm gonna give you just a second to look at this email once more. Is there anything else that's jumping out at you?
 
 00:10:46.000 --> 00:10:52.000
-Well, it says it's a Us. Government account.
 
-00:10:52.000 --> 00:10:54.000
-Yes.
-
-00:10:54.000 --> 00:11:00.000
-This account will only work for Va, digital tools.
+> Well, it says it's a US government account. And this account will only work for VA digital tools.
 
 00:11:00.000 --> 00:11:13.000
-Oh, yeah, okay. So the note, if I want to use login Daca for other sites, and I need to log out and log back in.
+
+> Oh, yeah, okay. So the note says, if I want to use Login.gov for other sites I need to log out and log back in.
 
 00:11:13.000 --> 00:11:20.000
-So tell me more about you've kind of noted a couple of things the first one you said allowed was secure. Us government account.
 
-00:11:20.000 --> 00:11:22.000
-What does that mean for you when it's saying got it?
+> So tell me more about you've kind of noted a couple of things the first one you said outload was secure US government account. What does that mean for you when it's saying got it?
 
 00:11:22.000 --> 00:11:29.000
-To me. It makes it sound as if it's it is a.
 
-00:11:29.000 --> 00:11:35.000
-Government. The Government account. It resides on a government server.
+> It makes it sound as if it's a government account. It resides on a government server.
 
 00:11:35.000 --> 00:11:42.000
-Okay, does that change how you feel at all about it? Based on what we were talking about?
+
+> Okay, does that change how you feel at all about it? Based on what we were talking about?
 
 00:11:42.000 --> 00:11:45.000
-If it's true. Yes, it may. Yeah.
+
+> If it's true. Yes, it may. Yeah.
 
 00:11:45.000 --> 00:11:50.000
-Okay, but still not completely confident that that might. That is the case.
+
+> Okay, but still not completely confident that that might. That is the case.
 
 00:11:50.000 --> 00:11:52.000
-No!
+
+> No.
 
 00:11:52.000 --> 00:11:55.000
-Okay. And then you also picked up on Va digital tools.
 
-00:11:55.000 --> 00:11:58.000
-What is the digital tools mean to you?
+> Okay. And then you also picked up on VA digital tools. What is the digital tools mean to you?
 
 00:11:58.000 --> 00:12:06.000
-I assume the tools are the the different things I can do@theva.gov website.
 
-00:12:06.000 --> 00:12:20.000
-Or when I log into it, whether it's going to my healthy vet, whether it's filing a claim, checking the status of a claim, sending messages, refills, things like that.
-
-00:12:20.000 --> 00:12:23.000
-I assume that's what they mean by digital tools.
+> I assume the tools are the the different things I can do on the VA website. Or when I log into it, whether it's going to my healthy vet, whether it's filing a claim, checking the status of a claim, sending messages, refills, things like that. I assume that's what they mean by digital tools.
 
 00:12:23.000 --> 00:12:34.000
-Okay, yeah, that makes sense. And the last thing that I think you mentioned was uhing to potentially log back out and log in again.
 
-00:12:34.000 --> 00:12:38.000
-If you were gonna use this with other government websites. Can you tell me more about that note?
-
-00:12:38.000 --> 00:12:43.000
-What does what does that mean for you? How would you assume that this works?
+> Okay, yeah, that makes sense. And the last thing that I think you mentioned was uhing to potentially log back out and log in again if you were gonna use this with other government websites. Can you tell me more about that note? What does what does that mean for you? How would you assume that this works?
 
 00:12:43.000 --> 00:12:58.000
-What it sounds like to me is that it's even though it's it's a login, dot govica or login.gov account that it's kind of somehow.
 
-00:12:58.000 --> 00:13:10.000
-Still piped into one channel at a time. In other words, you need to log out you close down your browser to clear the cash, to allow it to go into another government site.
+> What it sounds like to me is that it's even though it's a Login.gov account, that it's kind of somehow still piped into one channel at a time. In other words, you need to log out you, close down your browser to clear the cache, to allow it to go into another government site.
 
-00:13:10.000 --> 00:13:11.000
-Okay.
-
-00:13:11.000 --> 00:13:17.000
-That's well, so it's not like you could if if you're logged in there, you can go to all these different other government websites that require a login account.
+> So it's not like you could, if you're logged in there, you can go to all these different other government websites that require a login account?
 
 00:13:17.000 --> 00:13:19.000
-No, you need manually close and go back in and go through the site.
 
-00:13:19.000 --> 00:13:27.000
-One process, again.
-
-00:13:27.000 --> 00:13:33.000
-Right? Okay. Gotcha. So you can't kind of go into login.
-
-00:13:33.000 --> 00:13:34.000
-Right. So it's yeah. It's not seamless. It's not.
-
-00:13:34.000 --> 00:13:35.000
-Dot gov, and then you have access to all the things you actually have to do it for each one.
-
-00:13:35.000 --> 00:13:40.000
-And I I guess to a certain I certain extent, I guess well, I don't know.
-
-00:13:40.000 --> 00:13:44.000
-I don't know if Ds log on that way or not, because I don't really use it that way.
+> No, you need manually close and go back in and go through the site. It's not seamless. To have access to all the things you actually have to do it for each one. I don't know if DS Logon is that way or not, because I don't really use it that way.
 
 00:13:44.000 --> 00:13:57.000
-Yeah, okay, that makes sense. So it sounds like, maybe, well, let's let's actually, I'll ask you about one more thing in the email.
 
-00:13:57.000 --> 00:13:58.000
-So one thing that it does say in here is you're creating a Va.
-
-00:13:58.000 --> 00:14:06.000
-Only login.gov account. What does that mean?
+> Yeah, okay, that makes sense.So one thing that it does say in here is you're creating a VA only Login.gov account. What does that mean?
 
 00:14:06.000 --> 00:14:07.000
-Yeah, okay.
 
-00:14:07.000 --> 00:14:11.000
-Means I've got another account. I've got to manage, and it's I mean, it's how are you use password?
-
-00:14:11.000 --> 00:14:16.000
-But I use a password keeper already. I don't.
-
-00:14:16.000 --> 00:14:19.000
-I couldn't manage my passwords without it, and this is just another. Okay.
-
-00:14:19.000 --> 00:14:24.000
-So va login.gov. All other government agencies, login dot cov.
-
-00:14:24.000 --> 00:14:30.000
-It's just yeah.
+> It means I've got another account. I've got to manage. I use a password keeper already, I couldn't manage my passwords without it, and this is just another to manage. So VA login.gov, all other government agencies Login.gov.
 
 00:14:30.000 --> 00:14:31.000
-Yeah.
 
-00:14:31.000 --> 00:14:32.000
-Another thing to remember and to keep track of. Yeah, that makes sense.
-
-00:14:32.000 --> 00:14:41.000
-Okay. So you know, if this was an email that you received as somebody who uses Ds log on right now, how do you think you would?
-
-00:14:41.000 --> 00:14:44.000
-What do you think you would do if you received this email?
+> It's just another thing to remember and to keep track of? Yeah, that makes sense. Okay. So you know, if this was an email that you received as somebody who uses DS Logon right now, how do you think you would? What do you think you would do if you received this email?
 
 00:14:44.000 --> 00:14:46.000
-It doesn't seem like I have much of a choice.
 
-00:14:46.000 --> 00:14:53.000
-I'd have to comply with what it says, otherwise I I lose, you know.
-
-00:14:53.000 --> 00:14:58.000
-Access to the, you know, access to what I want information I need digitally.
+> It doesn't seem like I have much of a choice. I'd have to comply with what it says, otherwise I lose access to what I want, the information I need digitally.
 
 00:14:58.000 --> 00:15:08.000
-Right okay, so because you're using quite a few different Va services, you would, I feel like you're kind of forced to set up this login to account.
+
+> Right okay, so because you're using quite a few different VA services, you would feel like you're kind of forced to set up this login to account.
 
 00:15:08.000 --> 00:15:09.000
-Yeah.
+
+> Yeah.
 
 00:15:09.000 --> 00:15:17.000
-Okay. Alright. Well, that's been really helpful. I think what we'll do is we're gonna continue through this, and I'm sure we'll have a similar conversation.
 
-00:15:17.000 --> 00:15:26.000
-So I'm gonna let you just click on. Go to va.gov to create an account.
+> Okay. Alright. Well, that's been really helpful. I think what we'll do is we're gonna continue through this. So I'm gonna let you just click on. Go to va.gov to create an account.
 
 00:15:26.000 --> 00:15:29.000
-Alright, and then tell me what we're seeing here.
+
+> Alright, and then tell me what we're seeing here.
 
 00:15:29.000 --> 00:15:33.000
-That's the screen. You see, if you go to v.gov right now.
+
+> That's the screen you see if you go to VA.gov right now.
 
 00:15:33.000 --> 00:15:36.000
-Umhm. Okay? So looks familiar. And we've got a couple of different options like you mentioned that at the start.
 
-00:15:36.000 --> 00:15:42.000
-Usually you would probably click on Ds log on here. Okay.
+> So it looks familiar? And we've got a couple of different options like you mentioned that at the start. Usually you would probably click on Ds log on here. Okay.
 
 00:15:42.000 --> 00:15:44.000
 Yes.
