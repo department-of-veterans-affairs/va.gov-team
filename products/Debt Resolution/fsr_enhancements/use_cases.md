@@ -1,4 +1,4 @@
-# Financial Status Report (FSR) - Use Cases - FSR Enhancement Release March 2023
+# Financial Status Report (FSR) - Use Cases - FSR Enhancements
 (Adapted and updated from Febaurary 2021 Use Case document found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/fsr-use-cases.md)  
 
 
@@ -8,7 +8,7 @@ _Track and maintain the various use cases that exist for a given product and is 
 
 _The purpose of this document is for designers, PMs, and engineers to align early on on potential use cases and edge cases so these things aren't coming up randomly and late in the process. We recommend the team schedule a 30 minute meeting to brainstorm all use cases/edge cases early on.  Examples of cases that could be captured here include: "Veteran logs in but is not LOA3ed.", "Veteran searches and gets no results." etc etc_
 
-Link to product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/FSR-Product-Outline.md
+Link to product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/fsr_enhancements/product_outline.md
 
 ## Contents
 <details>
@@ -34,7 +34,7 @@ Link to product outline: https://github.com/department-of-veterans-affairs/va.go
   - Login on Staging **[homepage](https://staging.va.gov)** first, then sign-in via ID.me as **`vets.gov.user+228@gmail.com` (Colder)**.
   - Go to **[Request help with VA debt...](https://staging.va.gov/manage-va-debt/request-debt-help-5655/)**.
 
-* **TestRail test case**: [C4182](https://dsvavsp.testrail.io/index.php?/cases/view/4182) [This is the "Main flow" test-case, and includes ALL form-internal flows that are common across all use-cases]
+
 
 ## Use Case B - No benefits on-record
 
@@ -48,7 +48,7 @@ Link to product outline: https://github.com/department-of-veterans-affairs/va.go
   - Login on Staging **[homepage](https://staging.va.gov)** first, then sign-in via ID.me as **`vets.gov.user+42@gmail.com` (Russell)**.
   - Go to **[Request help with VA debt...](https://staging.va.gov/manage-va-debt/request-debt-help-5655/)**.
 
-* **TestRail test case**: [C4350](https://dsvavsp.testrail.io/index.php?/cases/view/4350) [This is a truncated test-case, covering ONLY flow-deviations for this use-case data-scenario; all other (common) flows are covered in test-case above for Use Case A (Has benefits prefilled)]
+
 
 ## Use Case C - One debt on-record
 
@@ -62,7 +62,7 @@ Link to product outline: https://github.com/department-of-veterans-affairs/va.go
   - Login on Staging **[homepage](https://staging.va.gov)** first, then sign-in via ID.me as **`vets.gov.user+14@gmail.com` (Jerry)**.
   - Go to **[Request help with VA debt...](https://staging.va.gov/manage-va-debt/request-debt-help-5655/)**.
 
-* **TestRail test case**: [C4354](https://dsvavsp.testrail.io/index.php?/cases/view/4354) [This is a truncated test-case, covering ONLY flow-deviations for this use-case data-scenario; all other (common) flows are covered in test-case above for Use Case A (Has benefits prefilled)]
+* 
 
 ## Use Case D - 2+ debts on-record
 
@@ -87,4 +87,4 @@ Link to product outline: https://github.com/department-of-veterans-affairs/va.go
   - Login on Staging **[homepage](https://staging.va.gov)** first, then sign-in via ID.me as **`vets.gov.user+1@gmail.com` (Greg)**.
   - Go to **[Request help with VA debt...](https://staging.va.gov/manage-va-debt/request-debt-help-5655/)**.
 
-* **TestRail test case**: [C4355](https://dsvavsp.testrail.io/index.php?/cases/view/4355) [This is a truncated test-case, covering ONLY flow-deviations for this use-case data-scenario; all other (common) flows are covered in test-case above for Use Case A (Has benefits prefilled)]
+
