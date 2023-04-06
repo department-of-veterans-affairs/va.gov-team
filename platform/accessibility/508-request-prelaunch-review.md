@@ -1,4 +1,4 @@
-> Note: this review is no longer being used. Please see the **[VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#vsp-collaboration-cycle)** for the lastest reviews.
+> Note: this review is no longer being used. Please see the [VSP Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/) for the lastest reviews.
 
 # Request a Pre-launch 508 Review
 
