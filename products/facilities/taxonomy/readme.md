@@ -33,12 +33,14 @@ The content structure of the taxonomy accommodates the nuances of certain servic
 
 By using a universal, inclusive taxonomy, we allow searchability, improve findability, and reduce the cognitive load on Veterans. 
 
-## Contacts
+## Contacts / Content Governance
 Person | Email | Role |
 ---| --- | --- |
 Dave Conlon | david.conlon@va.gov | Product owner
 Jenny Heiland-Luedtke |jennifer.heiland-luedtke@va.gov | Deputy Director, VHA Digital Media
 Jessica Schiefer | Jessica.Schiefer@va.gov | Communications, RCS (Vet Center POC) 
+
+Changes to Taxonomy should be reviewed by these stakeholders, including changing categories or heirarchy.
 
 ## Taxonomy structure
 
