@@ -22,6 +22,8 @@ Based on the development of the prototype, some of the following may or may not 
   - [ ] Semantic Consideration for paragraphs ordered lists numbering
   - [ ] [Tables (heading rows)](https://design.va.gov/components/table)
 - [ ] Size of clickable areas
+
+### As Time Allows
 - [ ] [Components](https://design.va.gov/components/) follow VA design system guidance.
 - [ ] [Patterns](https://design.va.gov/patterns/) follow VA design system guidance.
 
