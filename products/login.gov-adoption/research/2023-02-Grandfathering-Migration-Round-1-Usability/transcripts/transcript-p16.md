@@ -858,251 +858,88 @@
 
 00:40:02.000 --> 00:40:06.000
 
-> Yeah, I mean, it's depending on where am I going to do it? The thing with this is – you take it to take a picture of your state ID and if the for some reason, when you submit the email to them with the attachment, or however you send it to them, if the text isn't rendable, and that's when you get the feedback, hey?
-
-00:40:29.000 --> 00:40:30.000
-Gotcha!
-
-00:40:30.000 --> 00:40:31.000
-You need to get on a call with us to, so we can do it in person.
-
-00:40:31.000 --> 00:40:37.000
-So I just I mean, but then again, so I mean all 3 of those things to verify my identity so that's kind of sounds like the same path.
-
-00:40:37.000 --> 00:40:42.000
-It's going down.
+> Yeah, I mean, it's depending on where am I going to do it? The thing with this is – you take it to take a picture of your state ID and if the for some reason, when you submit the email to them with the attachment, or however you send it to them, if the text isn't rendable, and that's when you get the feedback, that you need to get on a call with us to, so we can do it in person. So I mean all 3 of those things to verify my identity so that's kind of sounds like the same path. It's going down.
 
 00:40:42.000 --> 00:40:49.000
-Gotcha. Okay? So from your experience, like, you would first have to maybe take a picture or enter these things in.
 
-00:40:49.000 --> 00:40:54.000
-And then, if they couldn't access it, or for whatever reason, then, you might have to get on a call with somebody.
+> Okay. So from your experience, you would first have to maybe take a picture or enter these things in. And then, if they couldn't access it, or for whatever reason, then, you might have to get on a call with somebody.
 
 00:40:54.000 --> 00:40:55.000
-Correct.
+
+> Correct.
 
 00:40:55.000 --> 00:40:58.000
-Okay. Gotcha at at the, you know.
 
-00:40:58.000 --> 00:41:02.000
-Start. We didn't ask you to verify your identity.
-
-00:41:02.000 --> 00:41:15.000
-We kind of let you set up the login gov account, and then later on, we're asking, you know, if you want to verify your identity, you can access other government websites, and you noted that you know may why didn't they just kind of ask me to do this?
-
-00:41:15.000 --> 00:41:16.000
-From the beginning.
-
-00:41:16.000 --> 00:41:20.000
-Can you tell me a little bit more about that? I think it's a.
-
-00:41:20.000 --> 00:41:37.000
-Interesting.
-
-00:41:37.000 --> 00:41:40.000
-The thing that you've come upon.
+> Okay. Gotcha. At the start, we didn't ask you to verify your identity. We let you set up the login gov account, and then later on, we're asking, you know, if you want to verify your identity, you can access other government websites, and you noted that you know may why didn't they just kind of ask me to do this from the beginning. Can you tell me a little bit more about that?
 
 00:41:40.000 --> 00:41:49.000
-Well, to me it seems it's almost like a switch invade because all the messaging upfront was okay.
 
-00:41:49.000 --> 00:41:56.000
-You need to set up this account to use Va digital tools, and it's only good for that purpose.
+> Well, to me it seems it's almost like a switch and bait, because all the messaging upfront was okay, 'You need to set up this account to use VA digital tools, and it's only good for that purpose.' Then we go through this entire – call it elongated, whatever for some people it's longer than others – setup process, and then you go back to, it looks like, the first time I've freshly logged into the VA.gov website. And then it's like, 'Oh, by the way, you could do this.'
 
-00:41:56.000 --> 00:41:57.000
-Yeah.
+> So this is actually where I initially gave up on this a while back, was what I got to this point, and they couldn't read my ID. I said, forget it. I just I don't have time for it.
 
-00:41:57.000 --> 00:41:58.000
-Then we go through this entire, this.
-
-00:41:58.000 --> 00:41:59.000
-Call it elongated, whatever for some people it's longer than others.
-
-00:41:59.000 --> 00:42:00.000
-Setup process, and then you go back to. And this looks like.
-
-00:42:00.000 --> 00:42:01.000
-The first time I've freshly logged into the Va dot go website.
-
-00:42:01.000 --> 00:42:16.000
-After I said everything, and then it's like, Oh, by the way, you know, we we could do this.
-
-00:42:16.000 --> 00:42:17.000
-Right.
-
-00:42:17.000 --> 00:42:21.000
-It's like, so, okay, so and this is actually where I initially gave up on this a while back was what I got to this point, and they couldn't read my idea.
-
-00:42:21.000 --> 00:42:22.000
-Yeah.
-
-00:42:22.000 --> 00:42:27.000
-I said, forget it. I just I don't have time for it, so it seems like you're doing.
-
-00:42:27.000 --> 00:42:38.000
-You're doing twice the effort for the same result. But we've also planted a seat in someone's mind that that lock in dock is only good for the da digital tools.
+> So it seems like you're doing twice the effort for the same result. But you've also planted a seat in someone's mind that Login.gov is only good for the VA digital tools.
 
 00:42:38.000 --> 00:42:39.000
-Yeah, yeah, that makes a lot of sense. So it's like, maybe over complicating things a little bit.
 
-00:42:39.000 --> 00:42:46.000
-And also I think you use the term switch in bait.
-
-00:42:46.000 --> 00:42:47.000
-So we've kind of changed what we're saying.
-
-00:42:47.000 --> 00:42:49.000
-It feels like on the screen. From what we said previously, yeah, that's really, really helpful.
+> Yeah, yeah, that makes a lot of sense. So it's like, maybe over complicating things a little bit. And also I think you use the term switch in bait. So we've kind of changed what we're saying. It feels like on the screen. From what we said previously, yeah, that's really, really helpful.
 
 00:42:49.000 --> 00:42:54.000
-Yup correct. Right.
+
+> Yup correct. Right.
 
 00:42:54.000 --> 00:43:01.000
-What if you know this process started from your interaction with the Va.
 
-00:43:01.000 --> 00:43:03.000
-So let's say you were going into a Va healthcare facility, and someone said, You know you need to set up a login.
-
-00:43:03.000 --> 00:43:06.000
-Gov. Account. We can do it right now, and we can.
-
-00:43:06.000 --> 00:43:16.000
-We can check your Id. What would your reaction be? And you know we have to be a little bit hypothetical here.
-
-00:43:16.000 --> 00:43:21.000
-But what do you think you would realistically respond if someone had offered you?
+> What if you know this process started from your interaction with the VA. So let's say you were going into a Va healthcare facility, and someone said, You know you need to set up a login.gov account, we can do it right now, and we can check your ID. What would your reaction be? And you know we have to be a little bit hypothetical here. But what do you think you would realistically respond if someone had offered you?
 
 00:43:21.000 --> 00:43:32.000
-Oh, that'd be great, especially if you had a self service terminal or something on the way way into the clinic or the hospital or whatnot and you could kind of go through the process there, if that's what it needed.
 
-00:43:32.000 --> 00:43:40.000
-But that especially when you're talking about a veteran population may not be as savvy with technology.
-
-00:43:40.000 --> 00:43:44.000
-I'm somewhat savvy you're gonna there, me a lot of people who will really struggle.
-
-00:43:44.000 --> 00:43:46.000
-Getting to this point.
+> Oh, that'd be great, especially if you had a self service terminal or something on the way into the clinic or the hospital or what not and you could go through the process there. But that, especially when you're talking about a Veteran population that may not be as savvy with technology, I'm somewhat savvy but you're going to have a lot of people who will really struggle getting to this point.
 
 00:43:46.000 --> 00:43:53.000
-Okay. Gotcha. So you think it would maybe avoid some of the like technical complications of having to try this on your own.
+
+> Okay. Gotcha. So you think it would maybe avoid some of the like technical complications of having to try this on your own.
 
 00:43:53.000 --> 00:43:54.000
-Correct.
+
+> Correct.
 
 00:43:54.000 --> 00:43:58.000
-Yeah, that makes sense. Well, that's been really helpful.
 
-00:43:58.000 --> 00:43:59.000
-I don't know if there's anything else on this screen that that I needed to ask you about.
-
-00:43:59.000 --> 00:44:05.000
-But is there anything else you wanted to talk about here?
+> Yeah, that makes sense. Well, that's been really helpful. I don't know if there's anything else on this screen that that I needed to ask you about. But is there anything else you wanted to talk about here?
 
 00:44:05.000 --> 00:44:09.000
-No, no, that's pretty straightforward.
+
+> No, no, that's pretty straightforward.
 
 00:44:09.000 --> 00:44:13.000
-Okay. Great. Well, you can go ahead and stop sharing your screen hopefully.
 
-00:44:13.000 --> 00:44:17.000
-That's simple enough on zoom.
-
-00:44:17.000 --> 00:44:22.000
-Yeah, perfect.
-
-00:44:22.000 --> 00:44:23.000
-There we go. So we're almost finished. So we're about to wrap up.
-
-00:44:23.000 --> 00:44:32.000
-It sounds like you had a pretty good understanding of what we were trying to do today.
-
-00:44:32.000 --> 00:44:38.000
-And as a Ds log on user, it was really interesting to understand how you might react to receiving an email like that.
-
-00:44:38.000 --> 00:44:42.000
-I think I've covered, you know, all my questions for today.
-
-00:44:42.000 --> 00:44:43.000
-But was there anything else that you wanted to add about anything we talked about?
-
-00:44:43.000 --> 00:44:49.000
-From our conversation.
+> Okay. Great. Well, you can go ahead and stop sharing your screen hopefully that's simple enough on zoom. Yeah, perfect. There we go. So we're almost finished. So we're about to wrap up. It sounds like you had a pretty good understanding of what we were trying to do today. And as a DSL user, it was really interesting to understand how you might react to receiving an email like that. I think I've covered, you know, all my questions for today. But was there anything else that you wanted to add about anything we talked about?
 
 00:44:49.000 --> 00:44:53.000
-No, not really. I mean, I think it's moving in the right direction.
 
-00:44:53.000 --> 00:45:02.000
-I just say keep the messaging as simple as possible, because I guess we we developed these things.
-
-00:45:02.000 --> 00:45:07.000
-You have to develop them for the person who has the smallest knowledge base.
+> No, not really. I mean, I think it's moving in the right direction. I just say keep the messaging as simple as possible, because you have to develop these htings for the person who has the smallest knowledge base.
 
 00:45:07.000 --> 00:45:08.000
-So, yeah.
 
-00:45:08.000 --> 00:45:09.000
-For sure. Yeah, yeah, I think that makes a lot of sense.
-
-00:45:09.000 --> 00:45:19.000
-And it's really helpful to know where things have gotten overly complicated or could have been a little bit more simple.
-
-00:45:19.000 --> 00:45:20.000
-Yeah.
-
-00:45:20.000 --> 00:45:22.000
-So I appreciate that a lot from our conversation. Well, I think those are all my questions.
-
-00:45:22.000 --> 00:45:26.000
-And did you? Wanna did you have any other questions for me?
+> For sure. Yeah, yeah, I think that makes a lot of sense. And it's really helpful to know where things have gotten overly complicated or could have been a little bit more simple. So I appreciate that a lot from our conversation. Well, I think those are all my questions. And did you? Wanna did you have any other questions for me?
 
 00:45:26.000 --> 00:45:29.000
-No, no, I don't. Pretty straightforward. I appreciate the time.
+
+> No, no, I don't. Pretty straightforward. I appreciate the time.
 
 00:45:29.000 --> 00:45:37.000
-Okay. Well, I appreciate your time. It's been really helpful, like I said we could not do the work that we do without getting feedback.
 
-00:45:37.000 --> 00:45:40.000
-And you know, having these conversations with veterans like yourself.
-
-00:45:40.000 --> 00:45:45.000
-So been really helpful, there's a couple of things I wanted to cover before we wrap up.
-
-00:45:45.000 --> 00:45:49.000
-So Parian or Parian. The folks who set up this interview they're going to send you a thank you.
-
-00:45:49.000 --> 00:45:56.000
-Note after the interviews finished, and it's just going to have a little blurb which you're welcome to share with other veterans if they wanted to get involved.
-
-00:45:56.000 --> 00:45:57.000
-Okay.
-
-00:45:57.000 --> 00:46:02.000
-In something like this, and then they're also going to be the ones that manage your payment.
-
-00:46:02.000 --> 00:46:05.000
-So if you have any questions about that, you just let them know.
+> Okay. Well, I appreciate your time. It's been really helpful, like I said we could not do the work that we do without getting feedback. And you know, having these conversations with Veterans like yourself. So been really helpful, there's a couple of things I wanted to cover before we wrap up. So Perigean, the folks who set up this interview they're going to send you a thank you note after the interviews finished, and it's just going to have a little blurb which you're welcome to share with other veterans if they wanted to get involved in something like this. And then they're also going to be the ones that manage your payment. So if you have any questions about that, you just let them know.
 
 00:46:05.000 --> 00:46:08.000
-I also wanted to just kind of clear up.
 
-00:46:08.000 --> 00:46:12.000
-I know you're using Dslog on right now to sign in with the Va.
-
-00:46:12.000 --> 00:46:15.000
-And everything that we were looking at right now is not real.
-
-00:46:15.000 --> 00:46:16.000
-So you can continue to access your Va. Services.
-
-00:46:16.000 --> 00:46:23.000
-Has, how you have been. And yeah, I think that's everything.
-
-00:46:23.000 --> 00:46:26.000
-Thank you so much again.
+> I also wanted to just kind of clear up. I know you're using Dslog on right now to sign in with the Va. And everything that we were looking at right now is not real. So you can continue to access your VA services as you have been. And yeah, I think that's everything. Thank you so much again.
 
 00:46:26.000 --> 00:46:28.000
-Okay, yeah, I appreciate those comments. Thank you.
+
+> Okay, yeah, I appreciate those comments. Thank you.
 
 00:46:28.000 --> 00:46:28.000
-Yeah, thank.You too.
 
+> Yeah, thanks. You too.
