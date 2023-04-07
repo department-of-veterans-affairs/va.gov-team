@@ -377,1036 +377,398 @@
 
 00:27:56.000 --> 00:28:02.000
 
-> Okay, that's really helpful. So what we're gonna do is we're gonna pretend like we're creating a login Gov account now. So what would you do if you were gonna create the Login Gov account?
-
-
-
-#h2 paused here
-
-
-
-
-
-00:28:06.000 --> 00:28:09.000
-You can show me on your screen.
+> Okay, that's really helpful. So what we're gonna do is we're gonna pretend like we're creating a login Gov account now. So what would you do if you were gonna create the Login Gov account? You can show me on your screen.
 
 00:28:09.000 --> 00:28:13.000
-I would click on create login.gov account.
+
+> I would click on create login.gov account.
 
 00:28:13.000 --> 00:28:15.000
-Okay, perfect. And then what are we looking at here?
+
+> Okay, perfect. And then what are we looking at here?
 
 00:28:15.000 --> 00:28:22.000
-And then it's asked. It's asking you to answer your email address and your password.
 
-00:28:22.000 --> 00:28:25.000
-And then sign in.
+> And then it's asking you to answer your email address and your password. And then sign in.
 
 00:28:25.000 --> 00:28:27.000
-Okay.
 
-00:28:27.000 --> 00:28:29.000
-Is this something that you'd be able to sign into?
-
-00:28:29.000 --> 00:28:30.000
-You know, we're not gonna make you put in any information.
-
-00:28:30.000 --> 00:28:37.000
-But this is something that you think you have an account for.
+> Okay. Is this something that you'd be able to sign into? You know, we're not gonna make you put in any information. But this is something that you think you have an account for?
 
 00:28:37.000 --> 00:28:40.000
-Not if it's under login.gov.
+
+> Not if it's under login.gov.
 
 00:28:40.000 --> 00:28:46.000
-Okay. And so would what would you do on this page?
 
-00:28:46.000 --> 00:28:48.000
-If that's the case.
+> Okay. And so would what would you do on this page? If that's the case.
 
 00:28:48.000 --> 00:28:52.000
-Then I would click on, create an account.
+
+> Then I would click on create an account.
 
 00:28:52.000 --> 00:29:03.000
-Okay, great. And for the next couple of screens, if you can do the same thing, just tell me all loud what you would be doing when you're looking at this page, and then we can keep clicking through.
+
+> Okay, great. And for the next couple of screens, if you can do the same thing, just tell me all loud what you would be doing when you're looking at this page, and then we can keep clicking through.
 
 00:29:03.000 --> 00:29:10.000
-Okay. So it's asking for you to create your account so I would enter my email address then it's asking you to select your email language preference.
 
-00:29:10.000 --> 00:29:19.000
-I would put. It's already highlighted as English, and then I would put a check mark or X where it's asking me to read and accept the login.
-
-00:29:19.000 --> 00:29:28.000
-Government rules or use. Then I would press, continue.
+> Okay. So it's asking for you to create your account so I would enter my email address then it's asking you to select your email language preference.
+I would put, it's already highlighted as English, and then I would put a check mark or X where it's asking me to read and accept the login Government rules or use. Then I would press, continue.
 
 00:29:28.000 --> 00:29:31.000
-Perfect, let's go ahead and do that. You can click.
 
-00:29:31.000 --> 00:29:37.000
-I read and accept, and then we'll click, continue.
+> Perfect, let's go ahead and do that. You can click I read and accept, and then we'll click, continue.
 
 00:29:37.000 --> 00:29:42.000
-Okay, now is telling me they sent an email to my address with the link because they're wanting to confirm.
 
-00:29:42.000 --> 00:29:47.000
-It's my email address, and then follow the link, too.
-
-00:29:47.000 --> 00:29:56.000
-Continue creating your account. If I want you me to check my email, once I check my email, if I check it.
-
-00:29:56.000 --> 00:30:01.000
-And I don't see any information. Then I would say I didn't receive an email to Resend.
-
-00:30:01.000 --> 00:30:06.000
-I'd have to wait for them to resend it, and for some reason there's a problem with my email address.
-
-00:30:06.000 --> 00:30:14.000
-They're asking me by have a different email address to use.
+> Okay, now is telling me they sent an email to my address with the link because they're wanting to confirm It's my email address, and then follow the link, too. Continue creating your account. If I want you me to check my email, once I check my email, if I check it. And I don't see any information. Then I would say I didn't receive an email to Resend. I'd have to wait for them to resend it, and for some reason there's a problem with my email address. They're asking me by have a different email address to use.
 
 00:30:14.000 --> 00:30:17.000
-Gotcha. Okay. That's really helpful. Is this something you've done before?
 
-00:30:17.000 --> 00:30:21.000
-Is this, for to you this process.
+> Gotcha. Okay. That's really helpful. Is this something you've done before?
 
 00:30:21.000 --> 00:30:23.000
-Yes, I've had to do it before. I know it's all for security.
 
-00:30:23.000 --> 00:30:24.000
-Okay, right? So.
-
-00:30:24.000 --> 00:30:25.000
-Reasons, but I'm like, Oh, my God! Why do I have to do this?
-
-00:30:25.000 --> 00:30:33.000
-Again. But anyway, I know it's for my own security.
+> Yes, I've had to do it before. I know it's all for security reasons, but I'm like, Oh, my God. Why do I have to do this again? But anyway, I know it's for my own security.
 
 00:30:33.000 --> 00:30:34.000
-Okay, great. So it's a little bit of a nuisance.
 
-00:30:34.000 --> 00:30:39.000
-But you kind of understand why you have to do it. That's helpful.
+> Okay, great. So it's a little bit of a nuisance. But you kind of understand why you have to do it. That's helpful.
 
 00:30:39.000 --> 00:30:40.000
-Correct.
+
+> Correct.
 
 00:30:40.000 --> 00:30:44.000
-So let's click, check email and we're not gonna obviously go check your email. Now.
 
-00:30:44.000 --> 00:30:47.000
-But we're gonna pretend like you got sent this email. Now.
-
-00:30:47.000 --> 00:30:48.000
-But we're going to pretend like you got sent this email.
-
-00:30:48.000 --> 00:30:49.000
-It says, confirm your email and let me know what you're seeing here. And same thing.
-
-00:30:49.000 --> 00:30:54.000
-You were doing before.
+> So let's click, check email and we're not gonna obviously go check your email. Now. But we're gonna pretend like you got sent this email. Now. It says, confirm your email and let me know what you're seeing here. And same thing you were doing before...
 
 00:30:54.000 --> 00:31:08.000
-It says, thank you for submitting your email address. Please click the link below or copy and paste the entire link into your browser, telling you that if you don't do it within 24 h it will expire.
 
-00:31:08.000 --> 00:31:12.000
-Then you click on confirm email address.
+> It says, thank you for submitting your email address. Please click the link below or copy and paste the entire link into your browser, telling you that if you don't do it within 24 h it will expire. Then you click on confirm email address.
 
 00:31:12.000 --> 00:31:17.000
-Perfect. Let's go ahead and do that.
+
+> Perfect. Let's go ahead and do that.
 
 00:31:17.000 --> 00:31:28.000
-So now a once you 2 create a strong password, and it must be 12 characters long and not be commonly used.
 
-00:31:28.000 --> 00:31:56.000
-Password, and this can be tricky at times, because I have, like a systematic system that I use, and normally it would be like 3 a capital letter, 2 characters, then a couple of numbers, then add sign, and then it would be a couple of more letters.
-
-00:31:56.000 --> 00:31:57.000
-Okay.
-
-00:31:57.000 --> 00:32:01.000
-Numbers, and then a pound sign, then a slash, then asterisk, and then a one, and even with doing that, and they show you the password.
-
-00:32:01.000 --> 00:32:07.000
-When you click, continue, for whatever reason it'll say doesn't accept.
-
-00:32:07.000 --> 00:32:08.000
-Sometimes it'll say there's no capital letter. Okay, that's a easy fix.
-
-00:32:08.000 --> 00:32:16.000
-So after you've corrected and put the capital letter and you hit, continue.
-
-00:32:16.000 --> 00:32:27.000
-It's still giving you air. So then you have to say, Okay, maybe it doesn't like the add sign or the pound sign, or the asterisk, or the slash.
-
-00:32:27.000 --> 00:32:29.000
-So you're going back and forth trying to figure out what is wrong with the past that you've selected.
-
-00:32:29.000 --> 00:32:46.000
-And normally, sometimes I can get it the first time, sometime it takes 2 or 3, and then it's gonna tell me if the password is strong enough or is weak, or it's acceptable.
+> So now a once you 2 create a strong password, and it must be 12 characters long and not be commonly used. Password, and this can be tricky at times, because I have, like a systematic system that I use, and normally it would be like XXXX and then it would be a couple of more letters XXXX and then show you the password. Even then, when you click, continue, for whatever reason it'll say doesn't accept. Sometimes it'll say there's no capital letter. Okay, that's a easy fix. So after you've corrected and put the capital letter and you hit, continue. It's still giving you error. So then you have to say, Okay, maybe it doesn't like the XXXX. So you're going back and forth trying to figure out what is wrong with the password that you've selected. And normally, sometimes I can get it the first time, sometime it takes 2 or 3, and then it's gonna tell me if the password is strong enough or is weak, or it's acceptable.
 
 00:32:46.000 --> 00:32:47.000
-Okay, gotcha, that's really helpful.
 
-00:32:47.000 --> 00:32:55.000
-So you definitely have a system and you kind of know what to expect even while you're like troubleshooting with like an error message or anything like that.
-
-00:32:55.000 --> 00:33:01.000
-You kind of have experience with working through that. That's that's really helpful.
-
-00:33:01.000 --> 00:33:04.000
-So on this page. It's it sounds like you'd kind of know where you would start.
-
-00:33:04.000 --> 00:33:13.000
-And then if it came back, saying, You know you didn't put up a capital letter, you would go and fix that that's really helpful, so we won't have you create a password for real today.
-
-00:33:13.000 --> 00:33:20.000
-So you can click, continue, I mean, we're just gonna keep going through these this setup.
+> Okay, gotcha, that's really helpful. So you definitely have a system and you kind of know what to expect even while you're like troubleshooting with like an error message or anything like that. You kind of have experience with working through that. That's that's really helpful. So on this page. It's it sounds like you'd kind of know where you would start. And then if it came back, saying, You know you didn't put up a capital letter, you would go and fix that that's really helpful, so we won't have you create a password for real today. So you can click, continue, I mean, we're just gonna keep going through these this setup.
 
 00:33:20.000 --> 00:33:24.000
-So let me know what you're seeing on this page.
+
+> So let me know what you're seeing on this page.
 
 00:33:24.000 --> 00:33:54.000
-It's asking me for authentication methods setup to add more security to the authentication options below and they're asking, do you want face our touch, unlock a security key government employee id which that's not applicable to me authentication application not sure
 
-00:33:57.000 --> 00:34:04.000
-about that one, and then text or voice message are the options.
+> It's asking me for authentication methods setup to add more security to the authentication options below and they're asking, do you want face our touch, unlock a security key government employee id which that's not applicable to me. authentication application not sure about that one, and then text or voice message are the options.
 
 00:34:04.000 --> 00:34:19.000
-Okay, great. So that was really helpful already, just going through the list. Which option do you think that you would choose?
+
+> Okay, great. So that was really helpful already, just going through the list. Which option do you think that you would choose?
 
 00:34:19.000 --> 00:34:23.000
-Personally, I don't use Facebook, Twitter, Instagram.
 
-00:34:23.000 --> 00:34:31.000
-None of that stuff, because I don't want my face flattered all over the place.
-
-00:34:31.000 --> 00:34:32.000
-Yeah.
-
-00:34:32.000 --> 00:34:39.000
-I'm just not comfortable. So that wouldn't be something that I would use the security key I've heard about.
-
-00:34:39.000 --> 00:34:46.000
-And for me that might be the best option, and then either text or voice, message.
+> Personally, I don't use Facebook, Twitter, Instagram. None of that stuff, because I don't want my face splattered all over the place. I'm just not comfortable. So that wouldn't be something that I would use. The security key I've heard about. And for me that might be the best option, and then either text or voice message.
 
 00:34:46.000 --> 00:34:50.000
-Okay. Gotcha, that's really helpful.
 
-00:34:50.000 --> 00:34:55.000
-So why don't you go ahead and click whichever option you want to set up?
+> Okay. Gotcha, that's really helpful. o why don't you go ahead and click whichever option you want to set up?
 
-00:34:55.000 --> 00:34:59.000
-And then I think you'll just need to scroll down after you.
-
-00:34:59.000 --> 00:35:09.000
-Click, yeah, perfect. So if you scroll down on a little bit, I think we might have a button at the bottom of the page.
-
-00:35:09.000 --> 00:35:11.000
-Not letting me scroll down. Hmm!
-
-00:35:11.000 --> 00:35:14.000
-Hmm! Sometimes it's a bit funny. It gets a bit slow.
-
-00:35:14.000 --> 00:35:19.000
-You can try and click the down key on your keyboard.
-
-00:35:19.000 --> 00:35:20.000
-Yeah, I did. But oh, here we go. Okay. But now.
-
-00:35:20.000 --> 00:35:26.000
-Okay. Alright. Let's try. Okay? Well, this one, let's go back.
-
-00:35:26.000 --> 00:35:30.000
-But now I don't know. I had it.
-
-00:35:30.000 --> 00:35:33.000
-I had it on face or touch, for whatever reason, I don't know.
-
-00:35:33.000 --> 00:35:35.000
-I can go back, I guess. Let me see. Okay. So.
-
-00:35:35.000 --> 00:35:39.000
-Yeah. Let's go back. And if Security key is not working, that might just be a problem with the prototype.
-
-00:35:39.000 --> 00:35:49.000
-We'll try it one more time. Try and scroll down. Maybe.
-
-00:35:49.000 --> 00:35:50.000
-Is that not working?
-
-00:35:50.000 --> 00:35:52.000
-Not working. Okay, that's okay. Well, then, why don't we click text message?
-
-00:35:52.000 --> 00:35:56.000
-Because that seem like that might be an option you choose right?
-
-00:35:56.000 --> 00:36:07.000
-If you couldn't get security key to work. Okay? And then we'll I think we'll need to click the arrow on your keyboard.
-
-00:36:07.000 --> 00:36:08.000
-Oh, there we go! There's a little arrow pop up!
-
-00:36:08.000 --> 00:36:16.000
-Every time I hit the every time I hit the the page down key.
-
-00:36:16.000 --> 00:36:19.000
-Let me check it. It keeps going back, no matter what I press.
-
-00:36:19.000 --> 00:36:20.000
-Yeah.
-
-00:36:20.000 --> 00:36:23.000
-If it keeps going back to face or touch, unlock. I don't know what.
-
-00:36:23.000 --> 00:36:27.000
-Okay, yeah, it looks like, it's yeah. It's going a bit funny.
-
-00:36:27.000 --> 00:36:31.000
-I think if you move your mouse around, there's going to be a little bit of a black.
-
-00:36:31.000 --> 00:36:35.000
-No. Okay. It doesn't want to play.
-
-00:36:35.000 --> 00:36:36.000
-Oh, there we go. Okay.
-
-00:36:36.000 --> 00:36:40.000
-Oh, wait! Wait. Wait! Wait! Wait! Wait. Okay, now it's doing it.
-
-00:36:40.000 --> 00:36:46.000
-Okay? And then under text or voicemail message, it has.
-
-00:36:46.000 --> 00:36:47.000
-Oh no!
-
-00:36:47.000 --> 00:36:49.000
-What in the world? What happened? Oh, gosh! Let me see what happened.
-
-00:36:49.000 --> 00:36:52.000
-We lost it.
-
-00:36:52.000 --> 00:37:01.000
-Let me click!
-
-00:37:01.000 --> 00:37:02.000
-Hmm!
-
-00:37:02.000 --> 00:37:03.000
-It looks like maybe it closed, which is okay. A little bit of a little bit of a bummer.
-
-00:37:03.000 --> 00:37:05.000
-But what I'll try and do is while you're still sharing your screen.
-
-00:37:05.000 --> 00:37:14.000
-I'm gonna send you the link again. So if you go back to Zoom window.
-
-00:37:14.000 --> 00:37:15.000
-Oh, actually, and looks like, maybe on your screen, I can still see if you go to the last tab.
-
-00:37:15.000 --> 00:37:20.000
-Okay.
-
-00:37:20.000 --> 00:37:27.000
-You know all those little tabs at the top. So those little boxes just above where your arrow is.
-
-00:37:27.000 --> 00:37:28.000
-So it's like, I can see, your email is opened and your zoom's opened.
-
-00:37:28.000 --> 00:37:42.000
-If you go all the way to the end, it says, flow number one.
-
-00:37:42.000 --> 00:37:45.000
-Are you seeing what I mean? I can talk you through it.
-
-00:37:45.000 --> 00:37:46.000
-I'm looking just 1 s.
-
-00:37:46.000 --> 00:38:00.000
-Otherwise. So go up to the yeah. Okay.
-
-00:38:00.000 --> 00:38:13.000
-I saw it before.
-
-00:38:13.000 --> 00:38:22.000
-Of this time. I don't see it.
-
-00:38:22.000 --> 00:38:27.000
-Yeah, so, can you move your mouse around? I'm not sure where. Oh, there it is.
-
-00:38:27.000 --> 00:38:31.000
-I see it's on on the Nba right?
-
-00:38:31.000 --> 00:38:32.000
-Yeah, it was.
-
-00:38:32.000 --> 00:38:39.000
-Okay, cool. So if you just move your mouse up, just go up a little bit further.
-
-00:38:39.000 --> 00:38:49.000
-So kind of like the top of the screen. So all the way up.
-
-00:38:49.000 --> 00:38:53.000
-Doesn't look like the mouse is moving.
-
-00:38:53.000 --> 00:38:54.000
-It's at the top.
-
-00:38:54.000 --> 00:39:01.000
-Oh, there it is, okay. And then we've got to move a little bit to the right.
-
-00:39:01.000 --> 00:39:10.000
-So we can find all those. Yeah, okay, perfect. So even a little higher, a little higher.
-
-00:39:10.000 --> 00:39:13.000
-Yeah, a little bit higher.
-
-00:39:13.000 --> 00:39:14.000
-Oh, I see. Oh, God, I'm blind. Okay, okay.
-
-00:39:14.000 --> 00:39:20.000
-Perfect. There we go. We found it sorry about that alrighty.
-
-00:39:20.000 --> 00:39:22.000
-So this is where we were. We were having trouble with the scrolling, which I think is my fault with the the prototype.
-
-00:39:22.000 --> 00:39:35.000
-So sorry about that. But let's try and click security key.
-
-00:39:35.000 --> 00:39:37.000
-Why is that open?
-
-00:39:37.000 --> 00:39:41.000
-I think you're on the page.
-
-00:39:41.000 --> 00:39:48.000
-Hey! Hold on!
-
-00:39:48.000 --> 00:39:57.000
-Hmm! Why isn't it not opening?
-
-00:39:57.000 --> 00:40:01.000
-I think. Let me do this. Hold on. I think I see it alright.
-
-00:40:01.000 --> 00:40:02.000
-Here we go, okay.
-
-00:40:02.000 --> 00:40:08.000
-There we go, I think. Perfect, alrighty. So let's let's try and click on security key.
-
-00:40:08.000 --> 00:40:13.000
-Are you seeing security key? There? Yeah, perfect. And then hopefully, this time it lets us scroll down.
-
-00:40:13.000 --> 00:40:18.000
-Let's see, are you able to kind of move the mouse down a little bit?
-
-00:40:18.000 --> 00:40:25.000
-Nope, it's not working. Okay. See if that little black box at the bottom.
-
-00:40:25.000 --> 00:40:33.000
-Alright! It's just disappeared.
-
-00:40:33.000 --> 00:40:34.000
-Okay.
-
-00:40:34.000 --> 00:40:37.000
-Hmm! There we go. Continue bys. Perfect. Sorry about that.
-
-00:40:37.000 --> 00:40:38.000
-Okay.
+[troubleshooting issues finding tab]
 
 00:40:38.000 --> 00:40:42.000
-Perfect. Alrighty. Okay, so we're back here. Thanks for working through that with me.
 
-00:40:42.000 --> 00:40:46.000
-So what is the screen showing you?
+> Perfect. Alrighty. Okay, so we're back here. Thanks for working through that with me. So what is the screen showing you?
 
 00:40:46.000 --> 00:40:53.000
-It's telling me, okay, to add a security key that meets whatever F.
 
-00:40:53.000 --> 00:41:02.000
-Ido stands for, as your often authentication method.
-
-00:41:02.000 --> 00:41:08.000
-You can add as many security keys as you want. So get started first.
-
-00:41:08.000 --> 00:41:12.000
-Give your security Key a nickname.
-
-00:41:12.000 --> 00:41:14.000
-Okay, and.
-
-00:41:14.000 --> 00:41:16.000
-I would just say v e.
+> It's telling me, okay, to add a security key that meets whatever FIDO stands for, as your often authentication method. You can add as many security keys as you want. So get started first. Give your security Key a nickname. Okay, and. I would just say VE.
 
 00:41:16.000 --> 00:41:23.000
-Okay, great. And what made you want to choose security key as an option?
+
+> Okay, great. And what made you want to choose security key as an option?
 
 00:41:23.000 --> 00:41:26.000
-Well, there was another study, and they were explaining to me.
 
-00:41:26.000 --> 00:41:56.000
-You know how secure it is, and would I prefer a security key than other methods, and I thought about it because they said, You can use it, you know, on your your laptop, and you could set it up where you would just put it into the port on your computer and you know keep it there or
-
-00:42:05.000 --> 00:42:06.000
-Gotcha!
-
-00:42:06.000 --> 00:42:08.000
-carry it with you, and I believe they said if even if I carried it with me, if I were to go to the library or someone else, I or somewhere else, I would be able to use it, because that's my own personal security, key, so I like that, I like that, Option.
+> Well, there was another study, and they were explaining to me how secure it is, and would I prefer a security key than other methods, and I thought about it because they said, You can use it, you know, on your your laptop, and you could set it up where you would just put it into the port on your computer and you know keep it there or carry it with you, and I believe they said if even if I carried it with me, if I were to go to the library or someone else, I or somewhere else, I would be able to use it, because that's my own personal security, key, so I like that, I like that, option.
 
 00:42:08.000 --> 00:42:15.000
-Okay? And have you tried that before since you heard about it?
+
+> Okay. And have you tried that before since you heard about it?
 
 00:42:15.000 --> 00:42:16.000
-Okay.
 
-00:42:16.000 --> 00:42:24.000
-No, I haven't, because I thought they said they were still doing the study, and I guess it was still in the preemptive stages, cause I thought they were.
-
-00:42:24.000 --> 00:42:35.000
-Gonna send me a key. So I can actually try it. But when I got home I have all these gadgets in my my art room.
-
-00:42:35.000 --> 00:42:44.000
-I'm always trying to figure out. What is this for?
-
-00:42:44.000 --> 00:42:45.000
-Okay.
-
-00:42:45.000 --> 00:42:47.000
-What is this for? So I actually may have one, I think, in my art studio, but I've never done anything with it.
+> No, I haven't, because I thought they said they were still doing the study, and I guess it was still in the preemptive stages, cause I thought they were gonna send me a key. So I can actually try it. But when I got home I have all these gadgets in my my art room. I'm always trying to figure out. What is this for? What is this for? So I actually may have one, I think, in my art studio, but I've never done anything with it.
 
 00:42:47.000 --> 00:42:48.000
-Okay. Gotcha.
+
+> Okay. Gotcha.
 
 00:42:48.000 --> 00:43:03.000
-I, I need direction, because automation for me can be a little bit scary at times, and I only go to websites that I actually use. I'm not.
 
-00:43:03.000 --> 00:43:10.000
-I guess I'm not normal because everybody goes into base time, and Facebook and Twitter and all that stuff.
-
-00:43:10.000 --> 00:43:11.000
-I'm not comfortable using all of those specific entities.
-
-00:43:11.000 --> 00:43:15.000
-This is not for me.
+> I need direction, because automation for me can be a little bit scary at times, and I only go to websites that I actually use. I'm not. I guess I'm not normal because everybody goes into Facebook and Twitter and all that stuff. I'm not comfortable using all of those specific entities. This is not for me.
 
 00:43:15.000 --> 00:43:17.000
-Yeah, yeah, that makes a lot of sense. So if you were gonna use something like that, you do seem to have some interest.
 
-00:43:17.000 --> 00:43:29.000
-Do you think you might even have a security key? But you would need someone to help walk you through exactly what the like setup process looks like that makes sense.
+> Yeah, yeah, that makes a lot of sense. So if you were gonna use something like that, you do seem to have some interest, you think you might even have a security key. But you would need someone to help walk you through exactly what the like setup process looks like that makes sense.
 
 00:43:29.000 --> 00:43:32.000
-Right cause. Like, I think I do have one. Yeah.
+
+> Right cause. Like, I think I do have one. Yeah.
 
 00:43:32.000 --> 00:43:37.000
-Okay, well, let's click on. Continue, we're not gonna actually set up the security key today.
 
-00:43:37.000 --> 00:43:41.000
-But that's been really helpful to chat through.
+> Okay, well, let's click on. Continue, we're not gonna actually set up the security key today. But that's been really helpful to chat through.
 
 00:43:41.000 --> 00:43:52.000
-If you were using your security key, then you might enter in this code and then we're just gonna click, submit we're just gonna move on so we can get your feedback on a couple more things.
 
-00:43:52.000 --> 00:43:57.000
-So what does this screen telling you?
+> If you were using your security key, then you might enter in this code and then we're just gonna click, submit we're just gonna move on so we can get your feedback on a couple more things. So what does this screen telling you?
 
 00:43:57.000 --> 00:44:04.000
-That they've added my authentication method. Now they want me to add a second method as a backup.
+
+> That they've added my authentication method. Now they want me to add a second method as a backup.
 
 00:44:04.000 --> 00:44:11.000
-Okay, what do you think you would do on this screen?
+
+> Okay, what do you think you would do on this screen?
 
 00:44:11.000 --> 00:44:18.000
-Hello! If I was actually going to do this I probably would have sold.
 
-00:44:18.000 --> 00:44:25.000
-Voice or text, and have the authentication. I would have the security key as the backup.
-
-00:44:25.000 --> 00:44:26.000
-I would have reversed it.
+> If I was actually going to do this, I probably would have selected voice or text as my authentication. I would have the security key as the backup. I would have reversed it.
 
 00:44:26.000 --> 00:44:34.000
-Okay. Gotcha. Okay. Gotcha. That's helpful.
 
-00:44:34.000 --> 00:44:35.000
-Yes.
-
-00:44:35.000 --> 00:44:37.000
-So you would probably want to have the backup, and you'd want security key to be your backup, and you would probably usually use the text message.
+> Okay. Gotcha. Okay. Gotcha. That's helpful. So you would probably want to have the backup, and you'd want security key to be your backup, and you would probably usually use the text message.
 
 00:44:37.000 --> 00:44:38.000
-Bye, that's correct.
 
-00:44:38.000 --> 00:44:45.000
-That's really helpful. Alright. Well, today, we're gonna skip setting up a backup method.
-
-00:44:45.000 --> 00:44:46.000
-Okay.
-
-00:44:46.000 --> 00:44:50.000
-So let's click, skip for now and then we're gonna continue to the next screen.
+> That's correct. That's really helpful. Alright. Well, today, we're gonna skip setting up a backup method. So let's click, skip for now and then we're gonna continue to the next screen.
 
 00:44:50.000 --> 00:44:58.000
-So what is the screen telling us?
+
+> So what is the screen telling us?
 
 00:44:58.000 --> 00:45:02.000
-It's basically telling me that they've set up my account.
 
-00:45:02.000 --> 00:45:06.000
-They have my email. And I have been linked to the Va system.
-
-00:45:06.000 --> 00:45:14.000
-But it's only 4 information regarding Va. As it pertains to my account.
+> It's basically telling me that they've set up my account. They have my email. And I have been linked to the VA system. But it's only for information regarding VA, as it pertains to my account.
 
 00:45:14.000 --> 00:45:19.000
-Okay, great. So you've set up the account. It's only for the Va.
 
-00:45:19.000 --> 00:45:24.000
-And that's why it's telling you they're going to share the information with the Va.
+> Okay, great. So you've set up the account. It's only for the Va. And that's why it's telling you they're going to share the information with the Va.
 
 00:45:24.000 --> 00:45:25.000
-Correct.
+
+> Correct.
 
 00:45:25.000 --> 00:45:26.000
-Okay. What do you expect to see when you click?
 
-00:45:26.000 --> 00:45:39.000
-Agree and continue.
+> Okay. What do you expect to see when you click agree and continue.
 
 00:45:39.000 --> 00:45:40.000
-That!
 
-00:45:40.000 --> 00:45:43.000
-I'm not sure. Hi! Kiss! I'll find out when I.
+> I'm not sure. I guess I'll find out!
 
 00:45:43.000 --> 00:45:48.000
-Okay, that's fair. Let's go ahead and do that. We'll click a green, continue, and we'll see what comes up alright.
+
+> Okay, that's fair. Let's go ahead and do that. We'll click agree and continue, and we'll see what comes up alright.
 
 00:45:48.000 --> 00:45:59.000
-Okay, so it's telling me that I've signed in with login.
 
-00:45:59.000 --> 00:46:13.000
-Dot gov, that's again, and that I can use the login.gov for all my va digital tools.
-
-00:46:13.000 --> 00:46:24.000
-And then I currently have a Va login.gov account, and if I wanna use my account on other government websites I'll need to go back to login.
-
-00:46:24.000 --> 00:46:33.000
-Got that go to verify my identity.
+> Okay, so it's telling me that I've signed in with login.gov and that I can use the login.gov for all my va digital tools. And then I currently have a Va login.gov account, and if I wanna use my account on other government websites I'll need to go back to login.gov to verify my identity.
 
 00:46:33.000 --> 00:46:35.000
-H okay.
 
-00:46:35.000 --> 00:46:45.000
-Okay, so is anything you're reading here, surprising to you or something you haven't learned already.
+> Okay, so is anything you're reading here, surprising to you or something you haven't learned already.
 
 00:46:45.000 --> 00:46:47.000
-No, not really!
+
+> No, not really!
 
 00:46:47.000 --> 00:46:49.000
-Okay. And so why is it telling you that you've signed in with login?
 
-00:46:49.000 --> 00:46:55.000
-Gov.
+> Okay. And so why is it telling you that you've signed in with login.gov?
 
 00:46:55.000 --> 00:47:03.000
-Because all of those steps previously got me to this point.
+
+> Because all of those steps previously got me to this point.
 
 00:47:03.000 --> 00:47:13.000
-That makes sense. And there's a link here that says, Learn more about verifying your identity with login and this might feel a little repetitive.
 
-00:47:13.000 --> 00:47:21.000
-But can you tell me what you think that link is about?
+> That makes sense. And there's a link here that says, Learn more about verifying your identity with login and this might feel a little repetitive. But can you tell me what you think that link is about?
 
 00:47:21.000 --> 00:47:33.000
-Well to me what would mean? It would give you a breakdown of all the different ways that you can verify your identity, and just go into more depth about each one.
+
+> It would give you a breakdown of all the different ways that you can verify your identity, and just go into more depth about each one.
 
 00:47:33.000 --> 00:47:41.000
-Okay? And what's like an example of one of the ways that you might verify your identity.
+
+> Okay. And what's an example of one of the ways that you might verify your identity?
 
 00:47:41.000 --> 00:47:42.000
-Voice, for text.
+
+> Voice or text.
 
 00:47:42.000 --> 00:47:45.000
-Okay. And so earlier on, when we chose those like voice or text message.
 
-00:47:45.000 --> 00:47:51.000
-Or we talked about security keys are those ways of verifying your identity?
+> Okay. And so earlier on, when we chose those like voice or text message, and we talked about security keys. Are those ways of verifying your identity?
+
+> Yes.
 
 00:47:51.000 --> 00:47:54.000
-Okay, that makes sense. That's been really helpful.
 
-00:47:54.000 --> 00:47:55.000
-And we're kind of getting to the end of the session.
-
-00:47:55.000 --> 00:48:06.000
-So one thing I'm curious about is when we started this, we said, you know, you were coming to the Va website because you needed to change your address.
-
-00:48:06.000 --> 00:48:11.000
-But when you tried to go in, it said, you need to set up a login. Gov.
-
-00:48:11.000 --> 00:48:12.000
-Account right? So we went and set up that account, and then.
-
-00:48:12.000 --> 00:48:27.000
-Now we've finished. And so, if right now you wanted to go and I change your address, what would you do on this screen?
+> Okay, that makes sense. That's been really helpful. And we're kind of getting to the end of the session. So one thing I'm curious about is when we started this, we said, you know, you were coming to the Va website because you needed to change your address. But when you tried to go in, it said, you need to set up a login.gov acocunt right? So we went and set up that account, and now we've finished. And so, if right now you wanted to go and I change your address, what would you do on this screen?
 
 00:48:27.000 --> 00:48:33.000
-Well, if I close this screen out, what's underneath that it says, my Va.
 
-00:48:33.000 --> 00:48:40.000
-Got to your profile, and oh, I can't move it right right right.
+> Well, if I close this screen out, what's underneath that it says, my VA. Got to your profile, and oh, I can't move it right...
 
 00:48:40.000 --> 00:48:47.000
-Yeah, it won't move. That's actually perfect. I just wanted to confirm that it was easy enough to close the popup.
 
-00:48:47.000 --> 00:48:48.000
-That's perfect. That's okay. Let's let's stay here for a second.
+> Yeah, it won't move. That's actually perfect. I just wanted to confirm that it was easy enough to close the popup. That's perfect. That's okay. Let's let's stay here for a second.
 
 00:48:48.000 --> 00:48:51.000
-Oh, oh, gosh! I'm sorry!
+
+> Oh, oh, gosh! I'm sorry!
 
 00:48:51.000 --> 00:49:02.000
-That's perfect. So it was. It was easy to close the pop up, and you would have probably went and searched around the website and been able to change your address.
 
-00:49:02.000 --> 00:49:03.000
-Okay.
-
-00:49:03.000 --> 00:49:05.000
-So that's help. We're gonna do one more thing before we finish. Okay.
-
-00:49:05.000 --> 00:49:06.000
-Okay.
-
-00:49:06.000 --> 00:49:08.000
-So we were just pretending we'd signed in right.
-
-00:49:08.000 --> 00:49:10.000
-And then let's pretend like we signed out.
-
-00:49:10.000 --> 00:49:20.000
-So we finished that session. And now we're a couple of weeks have passed, and you wanted to come back into your account because you needed to change something let's say you needed to.
-
-00:49:20.000 --> 00:49:23.000
-You know. Update your mailing address.
-
-00:49:23.000 --> 00:49:31.000
-You just changed again. And so let's say that you were gonna sign in what?
-
-00:49:31.000 --> 00:49:36.000
-How are we gonna sign in now?
+> That's okay. That's perfect. So it was easy to close the pop up, and you would have probably went and searched around the website and been able to change your address. We're gonna do one more thing before we finish. Okay. So we were just pretending we'd signed in right. And then let's pretend like we signed out.So we finished that session. And now we're a couple of weeks have passed, and you wanted to come back into your account because you needed to change something let's say you needed to update your mailing address again. And so let's say that you were gonna sign in. How are we gonna sign in now?
 
 00:49:36.000 --> 00:49:46.000
-Well, since we went through that process, I should be able to either use my healthy vet or login.gov.
+
+> Well, since we went through that process, I should be able to either use my healthy vet or login.gov.
 
 00:49:46.000 --> 00:49:51.000
-Okay, and how are you? Gonna decide?
 
-00:49:51.000 --> 00:49:56.000
-Which one of those to use.
+> Okay, and how are you gonna decide which one of those to use?
 
 00:49:56.000 --> 00:49:59.000
-Hi, I would probably revert back to my healthy that because I'm the most familiar with that one.
 
-00:49:59.000 --> 00:50:02.000
-Okay, that makes sense.
-
-00:50:02.000 --> 00:50:13.000
-And I, and then and then, when I had in my spare time, I would try to go in on login.gov, just to become familiar.
-
-00:50:13.000 --> 00:50:25.000
-But I have to be familiar with the site in order to use it over and over again. And right now that's my healthy vet, because I know how to maneuver around to get to the information and make changes that I need to change.
+> I would probably revert back to my healthy vet because I'm the most familiar with that one. Adn then in my spare time, I would try to go in on login.gov, just to become familiar. But I have to be familiar with the site in order to use it over and over again. And right now that's my healthy vet, because I know how to maneuver around to get to the information and make changes that I need to change.
 
 00:50:25.000 --> 00:50:33.000
-Okay, yeah, so you know how to get to things like messaging your doctor, or whatever else you need to do in my healthy bats.
 
-00:50:33.000 --> 00:50:38.000
-So you feel more familiar with that. Okay, that makes a lot of sense.
+> Okay, yeah, so you know how to get to things like messaging your doctor, or whatever else you need to do in my healthy vet. So you feel more familiar with that. Okay, that makes a lot of sense.
 
 00:50:38.000 --> 00:50:41.000
-And why did we set up login.gov?
 
-00:50:41.000 --> 00:50:50.000
-In the first place, if you can remember, back to that first part of the call.
+> And why did we set up login.gov? In the first place, if you can remember, back to that first part of the call.
 
 00:50:50.000 --> 00:51:07.000
-I think it has something to do with security, and also not having to be too repetitive in logging in, because you're already verified because you have that premium account.
+
+> I think it has something to do with security, and also not having to be too repetitive in logging in, because you're already verified because you have that premium account.
 
 00:51:07.000 --> 00:51:09.000
-Gotcha. Okay, that's really helpful. So what we're gonna do now is we're gonna pretend like we're signing in with login.
 
-00:51:09.000 --> 00:51:19.000
-Gov. So we're just gonna click login.gov.
-
-00:51:19.000 --> 00:51:23.000
-And then we're just gonna click sign in. We're gonna pretend like we put in our email address and password.
-
-00:51:23.000 --> 00:51:53.000
-And we're going to click sign in perfect. And then we're, I'm gonna give you a second to read this screen. Okay?
+> Gotcha. Okay, that's really helpful. So what we're gonna do now is we're gonna pretend like we're signing in with login.Gov. So we're just gonna click login.gov. And then we're just gonna click sign in. We're gonna pretend like we put in our email address and password. And we're going to click sign in perfect. And then we're, I'm gonna give you a second to read this screen. Okay?
 
 00:52:00.000 --> 00:52:02.000
-Okay.
 
-00:52:02.000 --> 00:52:07.000
-Alrighty. So what is this telling you?
+> Alrighty. So what is this telling you?
 
 00:52:07.000 --> 00:52:17.000
-Yeah, I was talking about being able to access Va and using the login.gov for outside.
 
-00:52:17.000 --> 00:52:31.000
-Outside of the Va Fema Calsa security. Whatever other Government agencies that you need assistance with.
+> It was talking about being able to access VA and using the login.gov for outside of the VA, FEMA, social security. Whatever other Government agencies that you need assistance with.
 
 00:52:31.000 --> 00:52:32.000
-Yeah, okay, perfect. So we talked a little bit about that earlier.
 
-00:52:32.000 --> 00:52:47.000
-Right, so how you might use your login account with things like Fema. And if you wanted to use your login.gov account with Fema, what would you do next?
+> Yeah, okay, perfect. So we talked a little bit about that earlier. Right, so how you might use your login account with things like FEMA. And if you wanted to use your login.gov account with FEMA, what would you do next?
 
 00:52:47.000 --> 00:52:54.000
-Well, I would have to be into the Fema website, and of course they're still gonna need to identify me.
 
-00:52:54.000 --> 00:53:04.000
-You know, with the basic information. And then, after they verified that information, and they should just take me right into the famous site, or I can take care and make changes.
-
-00:53:04.000 --> 00:53:09.000
-Send a message. Whatever I wanna do.
+> Well, I would have to be into the FEMA website, and of course they're still gonna need to identify me. You know, with the basic information. And then, after they verified that information, and they should just take me right into the FEMA site, or I can take care and make changes. Send a message. Whatever I wanna do.
 
 00:53:09.000 --> 00:53:12.000
-Gotcha alright. So we'll go to Fema, the website.
 
-00:53:12.000 --> 00:53:19.000
-And it's gonna tell you, okay, you need to verify your identity now with Fema, and then you can go on and use this login.
+> Gotcha alright. So we'll go to FEMA, the website. And it's gonna tell you, okay, you need to verify your identity now with FEMA, and then you can go on and use this login there.
 
-00:53:19.000 --> 00:53:33.000
-There. And when you're doing that, is that what is that going to be similar to what we did today when we set it up with the Va.
+> And when you're doing that, is that what is that going to be similar to what we did today when we set it up with the VA?
 
 00:53:33.000 --> 00:53:37.000
-Hmm!
 
-00:53:37.000 --> 00:53:44.000
-No, I don't think so, because they already have most of my information already in the system.
-
-00:53:44.000 --> 00:53:50.000
-I would think I would do this more. So when it's outside of the Va.
+> No, I don't think so, because they already have most of my information already in the system. I would think I would do more, when it's outside of the VA.
 
 00:53:50.000 --> 00:53:59.000
-Okay, got it. So the Va. Already has some of your a lot of your information in the system and so you'd have to do it. You'd have to.
+
+> Okay, got it. So the Va. Already has some of your a lot of your information in the system and so you'd have to do it. You'd have to.
 
 00:53:59.000 --> 00:54:00.000
-Maybe add.
 
-00:54:00.000 --> 00:54:04.000
-Yeah. The only only time that I've had to do that.
-
-00:54:04.000 --> 00:54:17.000
-If, for whatever reason, I had a brain freeze, and I couldn't remember my password, it would ask me to for either my username, and then it would ask me the last 4 of my social or my complete social my date.
-
-00:54:17.000 --> 00:54:25.000
-Of birth phone number information like that. And then it would send me a link to change my password.
-
-00:54:25.000 --> 00:54:26.000
-After I happen to verify.
+> The only only time that I've had to do that is for whatever reason, I had a brain freeze, and I couldn't remember my password, it would ask me to for either my username, and then it would ask me the last 4 of my social or my complete social my date or birth phone number information like that. And then it would send me a link to change my password. After I happen to verify.
 
 00:54:26.000 --> 00:54:34.000
-Gotcha. Okay, that's really helpful. So that's kind of what you're expecting to do when you try and use this with Fema.
+
+> Gotcha. Okay, that's really helpful. So that's kind of what you're expecting to do when you try and use this with FEMA?
 
 00:54:34.000 --> 00:54:35.000
-Hmm!
+
+> Yes.
 
 00:54:35.000 --> 00:54:37.000
-And if you said no thanks, I don't want to verify.
 
-00:54:37.000 --> 00:54:42.000
-Do you think anything would happen?
+> And if you said no thanks, I don't want to verify. Do you think anything would happen?
 
 00:54:42.000 --> 00:54:48.000
-Well, I could think of the possible possible solutions in my ask me another question.
 
-00:54:48.000 --> 00:54:54.000
-Why I didn't want to, or it would just say, Okay, thank you.
+> Well, it might ask me another question. Why I didn't want to, or it would just say, 'Okay, thank you.'
 
 00:54:54.000 --> 00:55:03.000
-Okay. And and you could kinda continue on using this account with the Va.
+
+> Okay. And and you could kinda continue on using this account with the VA?
+
+> Yes.
 
 00:55:03.000 --> 00:55:07.000
-Okay, that's helpful. Well, I see we're nearly finished here.
 
-00:55:07.000 --> 00:55:12.000
-So if you want to stop sharing your screen, you are welcome to.
-
-00:55:12.000 --> 00:55:13.000
-Okay.
-
-00:55:13.000 --> 00:55:22.000
-I think somewhere on the top of your screen, if you move your mouse up there, it might say, stop sharing but I'm not gonna be able to see it.
+> Okay, that's helpful. Well, I see we're nearly finished here. So if you want to stop sharing your screen, you are welcome to. I think somewhere on the top of your screen, if you move your mouse up there, it might say, stop sharing but I'm not gonna be able to see it.
 
 00:55:22.000 --> 00:55:23.000
-Okay. I'm back.
 
-00:55:23.000 --> 00:55:30.000
-So there you go easy. Well, we talked about a lot of things today, and I asked you a lot of questions.
-
-00:55:30.000 --> 00:55:37.000
-So that was really helpful for me, I think. Was there anything that stuck out out to you?
-
-00:55:37.000 --> 00:55:41.000
-If there was any last thing you wanted to comment on before we wrapped up.
+> So there you go. Well, we talked about a lot of things today, and I asked you a lot of questions. So that was really helpful for me, I think. Was there anything that stuck out out to you? If there was any last thing you wanted to comment on before we wrapped up.
 
 00:55:41.000 --> 00:55:53.000
-Yeah, when when these surveys come up and you, you know, interview and talk with the veteran, how is this information being used to better serve us?
+
+> Yeah, when when these surveys come up and you, you know, interview and talk with the Veteran, how is this information being used to better serve us?
 
 00:55:53.000 --> 00:56:00.000
-Yeah, that's a great question. So what? We're looking at right now is how we we can.
 
-00:56:00.000 --> 00:56:08.000
-Get veterans to adopt a different type of login method and we don't really know exactly what that process is going to look like.
-
-00:56:08.000 --> 00:56:13.000
-But we do know it's going to be a little complicated for veterans, and we want to figure out how we can make it easier.
-
-00:56:13.000 --> 00:56:18.000
-So some of the things we talked about today. I'm asking you questions to understand.
-
-00:56:18.000 --> 00:56:19.000
-Like, where things that we've written are not clear enough.
-
-00:56:19.000 --> 00:56:25.000
-And so then it's making it harder on you, and we'll see your feedback as well as other veterans.
-
-00:56:25.000 --> 00:56:31.000
-So we'll, you know, this week we've we've spoken to 10 veterans.
-
-00:56:31.000 --> 00:56:35.000
-We have a really similar conversation, and we'll take all the feedback.
-
-00:56:35.000 --> 00:56:36.000
-And we'll say, Okay, this is what we're noticing on this page.
-
-00:56:36.000 --> 00:56:42.000
-This button needs to be here we're not able to find this button needs to be here. We're not able to find this, and we'll start to change things and then we'll do this again.
-
-00:56:42.000 --> 00:56:46.000
-So we'll talk to veterans again, and we'll see if it's working better.
-
-00:56:46.000 --> 00:56:56.000
-So it's it helps us make like little changes over time before we make a ton of veterans see something or use something that doesn't really work that well for them.
-
-00:56:56.000 --> 00:56:57.000
-Does that make sense?
+> Yeah, that's a great question. So what we're looking at right now is how we we can get Veterans to adopt a different type of login method and we don't really know exactly what that process is going to look like. But we do know it's going to be a little complicated for Veterans, and we want to figure out how we can make it easier. So some of the things we talked about today – I'm asking you questions to understand, like, where things that we've written are not clear enough. And so then it's making it harder on you. And we'll see your feedback as well as other veterans. So this week we've spoken to 10 Veterans. We have a really similar conversation, and we'll take all the feedback. And we'll say, Okay, this is what we're noticing on this page. This button needs to be here we're not able to find this button needs to be here. We're not able to find this, and we'll start to change things and then we'll do this again. So we'll talk to veterans again, and we'll see if it's working better. So it's it helps us make like little changes over time before we make a ton of Veterans see something or use something that doesn't really work that well for them. Does that make sense?
 
 00:56:57.000 --> 00:57:17.000
-Yeah, because I know that security is a really big issue. And even though there are a lot of different information in the dropdown box, even, still, you still have to call the A.
 
-00:57:17.000 --> 00:57:18.000
-Yeah.
-
-00:57:18.000 --> 00:57:19.000
-Or they have to send you a document because you can't do it online and I'm like, Well, well, why do you have part of the information online?
-
-00:57:19.000 --> 00:57:28.000
-But you don't have the rest of the information online, and then you still have to call, or you still have to submit a paper form.
-
-00:57:28.000 --> 00:57:32.000
-And then once you get the paper form and send it back to them.
-
-00:57:32.000 --> 00:57:38.000
-Then they input the information, and then they still send you paper verifying that they have made the changes.
-
-00:57:38.000 --> 00:57:48.000
-I don't know why it can't be simplified where you can just do everything online, whether it's your banking information, your address, whatever it is.
-
-00:57:48.000 --> 00:57:53.000
-So they're not multiple multiple steps, because that can get frustrating.
-
-00:57:53.000 --> 00:57:58.000
-After a while. You're just like, Okay, take a deep breath.
-
-00:57:58.000 --> 00:57:59.000
-Let me try this again.
+> Yeah, because I know that security is a really big issue. And even though there are a lot of different information in the dropdown box, even, still, you still have to call the VA. Or they have to send you a document because you can't do it online and I'm like, Well, well, why do you have part of the information online? But you don't have the rest of the information online, and then you still have to call, or you still have to submit a paper form. And then once you get the paper form and send it back to them. Then they input the information, and then they still send you paper verifying that they have made the changes. I don't know why it can't be simplified where you can just do everything online, whether it's your banking information, your address, whatever it is. So they're not multiple multiple steps, because that can get frustrating. After a while. You're just like, Okay, take a deep breath. Let me try this again.
 
 00:57:59.000 --> 00:58:04.000
-Totally. Yeah, totally. No. I definitely understand that. I mean the Va.
 
-00:58:04.000 --> 00:58:07.000
-Like any government kind of service is complex. There's a lot of different people working on a lot of different things.
-
-00:58:07.000 --> 00:58:11.000
-So I think as like over time, things will become more streamlined.
-
-00:58:11.000 --> 00:58:21.000
-Let's say, and some of the services that are online that people want to be able to do in person.
-
-00:58:21.000 --> 00:58:30.000
-Maybe that will become easier and similarly, like, there's some things that we're doing, you know, in paper that we could actually be doing online. And it would make things easier.
-
-00:58:30.000 --> 00:58:36.000
-So I think that's a fresh frustrating experience right now, when there's not a change to be made.
-
-00:58:36.000 --> 00:58:39.000
-But I do think that there's a lot of folks at the Va.
-
-00:58:39.000 --> 00:58:52.000
-Who are thinking about these things right now. I don't know which individuals would be the ones to help with this, but hopefully, there's some reassurance that there's a lot of us doing things like this to try and make small changes and yeah that's kind of what we're we're here.
-
-00:58:52.000 --> 00:58:54.000
-To do, and why we need to have conversations with folks like yourself.
-
-00:58:54.000 --> 00:59:02.000
-Because it's really really valuable to have your feedback to.
+> Totally. Yeah, totally. No. I definitely understand that. I mean the VA, like any government service is complex. There's a lot of different people working on a lot of different things. I think over time things will become more streamlined. I do think that there's a lot of folks at the VA who are thinking about these things right now. I don't know which individuals would be the ones to help with this, but hopefully, there's some reassurance that there's a lot of us doing things like this to try and make small changes and yeah that's kind of what we're we're here to do, and why we need to have conversations with folks like yourself. Because it's really really valuable to have your feedback to.
 
 00:59:02.000 --> 00:59:04.000
-Okay, well, you're welcome.
+
+> Okay, well, you're welcome.
 
 00:59:04.000 --> 00:59:09.000
-Well, thanks so much. It's it's been a pleasure we've taken up the whole hour.
 
-00:59:09.000 --> 00:59:11.000
-So I'm gonna let you go. So I don't take too much of your time.
-
-00:59:11.000 --> 00:59:12.000
-But I do. Wanna let you know that Perjian, the people who sent up this interview.
-
-00:59:12.000 --> 00:59:20.000
-They're gonna be the ones that manage paying you for your time.
-
-00:59:20.000 --> 00:59:28.000
-And so, if you have any questions about that, you let them know, and I think that's everything to do. You have any other questions for me?
+> Well, thanks so much. It's it's been a pleasure we've taken up the whole hour. So I'm gonna let you go. So I don't take too much of your time. But I do. Wanna let you know that Perigean, the people who sent up this interview, they're gonna be the ones that manage paying you for your time. And so, if you have any questions about that, you let them know, and I think that's everything to do. You have any other questions for me?
 
 00:59:28.000 --> 00:59:29.000
-No, that's it. I'm just looking for better choice.
 
-00:59:29.000 --> 00:59:39.000
-Okay. Okay.
-
-00:59:39.000 --> 00:59:51.000
-Yeah.
-
-00:59:51.000 --> 00:59:52.000
-Yeah.
-
-00:59:52.000 --> 00:59:57.000
-Down the road, more simplistic because I, for one, like things that are easy, because when it comes to automation, if I spend a whole hour trying to do the same process when that hour is done, I am done, and then I'm on the phone you know, calling and as you know, then you could be on hold for the
-
-00:59:57.000 --> 01:00:04.000
-3 min, 30 min, 45 min, and then, when you think you have the right person they're like, what we have to transfer, you.
-
-01:00:04.000 --> 01:00:14.000
-And I'm just sitting there, and if I could see myself as I'm waiting on the phone, it would probably be a really comical event.
+> No, that's it. I'm just looking for better choices down the road, more simplistic because I, for one, like things that are easy, because when it comes to automation, if I spend a whole hour trying to do the same process when that hour is done, I am done, and then I'm on the phone you know, calling and as you know, then you could be on hold for the 3 min, 30 min, 45 min, and then, when you think you have the right person they're like, what we have to transfer, you. And I'm just sitting there, and if I could see myself as I'm waiting on the phone, it would probably be a really comical event.
 
 01:00:14.000 --> 01:00:20.000
-Yeah, yeah, no. I hear you. I definitely hear you.
 
-01:00:20.000 --> 01:00:21.000
-And I think we're all hopeful.
-
-01:00:21.000 --> 01:00:28.000
-Well, I know that Va. Is constantly making sure changes to make it better for veterans, and I do appreciate that.
-
-01:00:28.000 --> 01:00:32.000
-Well, we appreciate your time a lot today. So I'm gonna let you go.
+> Yeah, yeah, no. I hear you. I definitely hear you.  I know the VA is constantly making changes to make it better for Veterans. Well, we appreciate your time a lot today. So I'm gonna let you go.
 
 01:00:32.000 --> 01:00:35.000
-I hope you have a good rest of your day, or your day, or your evening, and thanks so much for chatting today.
+
+> I hope you have a good rest of your day, or your day, or your evening, and thanks so much for chatting today.
 
 01:00:35.000 --> 01:00:41.000
-Bye.
+
+> Bye.
 
