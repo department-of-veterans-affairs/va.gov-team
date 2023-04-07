@@ -31,11 +31,15 @@ The lab and test result section includes the following types of labs and tests.
 
 **Overall question:** Can we use "Labs" as the type for chem/hem, pathology, and microbiology? Is there a reason these must be different on the front end?
 
+**Note:** We figured out that "Pathology" is parallel to "Labs & tests" in Blue Button. So we replaced it in this table with the types grouped under pathology in BB.
+
 |Lab type | Suggested label | Notes             | Questions           |
 |:----------------------|:----------------|:------------------|:--------------------|
-|Chemistry/hematology|Labs|||
-|Pathology |Labs||
-|Microbiology |Labs||
+|Chemistry/hematology|Chemistry and hematology| |Are these types helpful? These terms are not plain language and difficult to replace or explain in this context. Can we change all non-radiology non-EKG tests to "labs"?|
+|Surgical pathology |Pathology||
+|Cytology|Pathology||
+|Electronic microscopy|Pathology||
+|Microbiology |Microbiology||
 |Radiology |X-rays and imaging tests | 
 |EKG |EKGs (electrocardiograms) |Historical category |Are new EKGs added to medical records? |
 
@@ -56,8 +60,8 @@ Lab and test results include the following information
 |All|Date collected |Date |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|Hard to find single date label for all types — "collected" doesn't work for Radiology or EKG| Can we map date fields from different types into a single "Date" field for list view, but use different "Date" labels in detail views? Or do we need all labels to stay consistent between list and detail views?|
 |All|Ordering provider |Ordered by|_None_|||
 |:test_tube: **CHEMISTRY / HEMATOLOGY**|
-|Chemistry/hematology|Lab test| |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|Some Chem/Hem tests include subtests in a panel — like lipid panel with LDL, HDL, etc. If there's a panel-level test name, suggest using this as card header in list, H1 in detail. Not all tests will have this panel-level name|Does USCDI include a panel-level element? Or do we map both the panel and the subtests to "Tests" in USCDI?|
-|Chemistry/hematology > Specific test |Test name | Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
+|Chemistry/hematology|Lab test| _None, header without label_|[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|Some Chem/Hem tests include subtests in a panel — like lipid panel with LDL, HDL, etc. If there's a panel-level test name, suggest using this as card header in list, H1 in detail. Not all tests will have this panel-level name|Does USCDI include a panel-level element? Or do we map both the panel and the subtests to "Tests" in USCDI?|
+|Chemistry/hematology > Specific test |Test name | _None, header without label_ |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
 |Chemistry/hematology > Specific test|Results| Results |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|
 |Chemistry/hematology > Specific test|Units |_Confirm if field needed_| _None_|| Can we remove the "Units" field, and add the units to the result and reference range?|
 |Chemistry/hematology > Specific test|Reference range | Standard range |_None_||Does the reference range adjust based on patient demographics or conditions?|
@@ -117,8 +121,8 @@ Lab and test results include the following information
 
 |Category|Data field       |  Suggested label | Notes             | Questions           |
 |:----------------------|:--------------------|:------------------|:------------------|:--------------------|
-|VA Note|Title|
-|VA Note|Date and time|_Need more info_||If "Date and time signed" is a different field, what is this date and time?|
+|VA Note|Title|_None, header without label_|
+|VA Note|Date and time|_Need more info_|This field doesn't appear in designs|If "Date and time signed" is a different field, what is this date and time?|
 |VA Note|Location|Location|
 |VA Note|Signed by|Signed by|
 |VA Note|Co-signed by|Co-signed by|
@@ -193,8 +197,8 @@ Note: USCDI also includes 3 vitals for babies and children: BMI (2-20 years), we
 |Temperature |Temperature |[Body temperature](https://www.healthit.gov/isa/taxonomy/term/861/uscdi-v1)| | |
 |Height|Height|[Body height](https://www.healthit.gov/isa/taxonomy/term/841/uscdi-v1)|Suggested units label "X feet, X inches" | |
 |Weight |Weight |[Body weight](https://www.healthit.gov/isa/taxonomy/term/846/uscdi-v1)|Suggested units label "pounds" | |
-|Pulse oximetry |Blood oxygen level |[Pulse oximetry](https://www.healthit.gov/isa/taxonomy/term/866/uscdi-v1)| | |
 |Pain|Pain level|_None_||Is pain always on a scale of 1 to 10? <br> Can we offer more detail about what the pain level refers to? Is it the patient's overall perceived level of pain at the moment?|
+| ||[Pulse oximetry](https://www.healthit.gov/isa/taxonomy/term/866/uscdi-v1)|Not currently included in MHV | |
 | | |[Inhaled oxygen concentration](https://www.healthit.gov/isa/taxonomy/term/871/uscdi-v1)|Not currently included in MHV | |
 | | |BMI Percentile (2-20 years)|Not currently included in MHV | |
 |||Weight-for-length Percentile (Birth - 36 Months)|Not currently included in MHV | |
