@@ -7,964 +7,385 @@
 ### Transcript
 
 00:00:00.000 --> 00:00:03.000
-So okay, great. So I'll start the recording. And then, after I start the recording, I'm gonna actually have to ask you that to confirm one more time.
 
-00:00:03.000 --> 00:00:07.000
-Great. So I started recording. And I just wanna confirm, are you comfortable?
-
-00:00:07.000 --> 00:00:11.000
-If I record my screen and the audio as we talk today.
+> So I started recording. And I just wanna confirm, are you comfortable if I record my screen and the audio as we talk today?
 
 00:00:11.000 --> 00:00:12.000
-That's fine!
+
+> That's fine!
 
 00:00:12.000 --> 00:00:17.000
-Okay, thanks. So much. Alright. So we've gotten through that kind of introduction.
-
-00:00:17.000 --> 00:00:21.000
-Do you have any questions for me at this point?
+> Okay, thanks. So much. Alright. So we've gotten through the introduction. Do you have any questions for me at this point?
 
 00:00:21.000 --> 00:00:22.000
-No!
+
+> No!
 
 00:00:22.000 --> 00:00:27.000
-Okay.
 
-00:00:27.000 --> 00:00:28.000
-Okay.
-
-00:00:28.000 --> 00:00:34.000
-Awesome. Well, I like I mentioned. We're here to learn a little bit more about how you use some of the Va's online services, and specifically how you sign in to them.
-
-00:00:34.000 --> 00:00:42.000
-So I'm gonna ask you some questions just to get to know a little bit more about your experience before we start looking at that prototype that I mentioned.
+> Awesome. Well, like I mentioned. We're here to learn a little bit more about how you use some of the Va's online services, and specifically how you sign in to them. So I'm gonna ask you some questions just to get to know a little bit more about your experience before we start looking at that prototype that I mentioned.
 
 00:00:42.000 --> 00:00:43.000
-Okay.
 
-00:00:43.000 --> 00:00:47.000
-Okay to start. How long have you been a veteran?
+> Okay to start. How long have you been a Veteran?
 
 00:00:47.000 --> 00:00:51.000
-Since 1990.
+
+> Since 1990.
 
 00:00:51.000 --> 00:00:55.000
-Okay, a little while.
+
+> Okay, a little while.
 
 00:00:55.000 --> 00:00:56.000
-And what about going online to access Va services?
 
-00:00:56.000 --> 00:01:02.000
-Have you been doing that since the nineties, or a little more recently?
+> And what about going online to access Va services? Have you been doing that since the nineties, or a little more recently?
 
 00:01:02.000 --> 00:01:06.000
-No, no, it's probably just been in the last couple of years, you know.
 
-00:01:06.000 --> 00:01:13.000
-As technology advances, there's always changes. So.
+> No, no, it's probably just been in the last couple of years, as technology advances, there's always changes.
 
 00:01:13.000 --> 00:01:18.000
-Umhm, yeah. Do you remember what kinda introduced you to?
 
-00:01:18.000 --> 00:01:24.000
-Some of the Va's online services. When you first started going online.
+> Yeah. Do you remember what kinda introduced you to some of the VA's online services. When you first started going online.
 
 00:01:24.000 --> 00:01:31.000
-Mike, do you know, basically explain that you can go online to contact them?
 
-00:01:31.000 --> 00:01:33.000
-If you have questions to briefly your prescriptions, look at any test results.
+> They were like explaining that you can go online to contact them if you have questions, to refill your prescriptions, look at any test results.
 
 00:01:33.000 --> 00:01:41.000
-So get started. There.
 
-00:01:41.000 --> 00:01:45.000
-Okay, great, yeah, that makes sense. So you were talking to your doctors.
-
-00:01:45.000 --> 00:01:49.000
-And were they telling you about Mit that? Does that sound familiar?
+> Okay, great, yeah, that makes sense. So you were talking to your doctors. And were they telling you about my healthy vet that? Does that sound familiar?
 
 00:01:49.000 --> 00:01:56.000
-Yeah, that's what I normally use. They do offer 2 options, but I have to.
 
-00:01:56.000 --> 00:02:04.000
-The second option with id me, or whatever it says. But I've not been able to get through.
-
-00:02:04.000 --> 00:02:07.000
-So I just continue with my healthy bit.
+> Yeah, that's what I normally use. They do offer 2 options, but I have tried the second option with ID.me, or whatever it says. But I've not been able to get through. So I just continue with my healthy vet.
 
 00:02:07.000 --> 00:02:14.000
-Gotcha alrighty. So when you're when you're signing in, it sounds like you're using my healthy bet to sign in id dot.
 
-00:02:14.000 --> 00:02:22.000
-Me is not really working for you. Do you know which website you're on when you're when you're going online to access to talk to your doctor, for example.
+> Gotcha alrighty. So when you're when you're signing in, it sounds like you're using my healthy vet to sign in. And ID.me is not really working for you. Do you know which website you're on when you're when you're going online to access to talk to your doctor, for example?
 
 00:02:22.000 --> 00:02:28.000
-Do you mean like windows, or something, or chrome? Is that what you referring to?
+
+> Do you mean like windows, or something, or chrome? Is that what you referring to?
 
 00:02:28.000 --> 00:02:35.000
-Not so much so, I guess I mean, what would you type in if you were gonna go online to talk to your doctor?
 
-00:02:35.000 --> 00:02:36.000
-What would you start with?
+> What would you type in if you were gonna go online to talk to your doctor?
 
 00:02:36.000 --> 00:02:38.000
-Okay. Oh, I just put in my healthy bit.
+
+> I just put in my healthy vet.
 
 00:02:38.000 --> 00:02:43.000
-Okay, so you're on the myhealthy, that website.
+
+> Okay, so you're on the my healthy vet website.
 
 00:02:43.000 --> 00:02:44.000
-Correct.
+
+> Correct.
 
 00:02:44.000 --> 00:02:46.000
-And then you use my healthy that to sign in. Okay, that's helpful.
 
-00:02:46.000 --> 00:02:49.000
-And so when was the last time you signed into my healthy bet?
-
-00:02:49.000 --> 00:02:50.000
-Do you remember?
+> And then you use my healthy vet to sign in. Okay, that's helpful. And so when was the last time you signed into my healthy vet? Do you remember?
 
 00:02:50.000 --> 00:02:52.000
-Yesterday.
+
+> Yesterday.
 
 00:02:52.000 --> 00:02:57.000
-Okay, how often do you feel like you're signing into my healthy that?
+
+> Okay, how often do you feel like you're signing into my healthy vet?
 
 00:02:57.000 --> 00:03:17.000
-Well, lately I've been using it a lot because I have missed a couple of appointments and it's very frustrating because I live in Apollo Beach and when I have to travel to Tampa missing an appointment is upsetting and I called
 
-00:03:17.000 --> 00:03:33.000
-acupuncture yesterday, because I had received a message that they had tried to call me wondering why wasn't at my appointment, and I said, My point is not to the 11.
-
-00:03:33.000 --> 00:03:34.000
-Oh no!
-
-00:03:34.000 --> 00:03:41.000
-She's like. No, dear, it was just today. I'm like, Oh, my God!
-
-00:03:41.000 --> 00:03:42.000
-Oh, gotcha!
-
-00:03:42.000 --> 00:03:47.000
-And now I don't have an appointment until May thirty-first, so I'm not happy because my acupuncture and physical therapy they go hand in hand.
-
-00:03:47.000 --> 00:03:59.000
-So I went on there to double check, to make sure that all the appointments that were in the system or in my phone.
-
-00:03:59.000 --> 00:04:00.000
-Hmm!
-
-00:04:00.000 --> 00:04:09.000
-So I didn't have any other issues. And then there was medication that I had try to refill.
-
-00:04:09.000 --> 00:04:18.000
-I never got any medication. Oh, I had to actually go to the Va pharmacy in Tampa to find out why, and they said, Well, you don't have any more refills.
-
-00:04:18.000 --> 00:04:30.000
-I'm like what so then I had to come back home and go into my healthy bed.
-
-00:04:30.000 --> 00:04:31.000
-Right? Okay.
-
-00:04:31.000 --> 00:04:40.000
-Send a message to my doctor in order for her to refill the prescription, so I could get my medicine so it's it's been a little frustrating, because there were times when I would go into the system, and there was nothing there. There.
-
-00:04:40.000 --> 00:04:41.000
-Right.
-
-00:04:41.000 --> 00:04:43.000
-Were no doctors, I couldn't access the pharmacy, and I was having to call.
-
-00:04:43.000 --> 00:04:55.000
-So I go. What is wrong with my healthy vet, because I'm not able to see any information at all, so I don't know if the system was down or they were working on it.
-
-00:04:55.000 --> 00:04:59.000
-I really don't know, but that was kind of aggravating.
+> Well, lately I've been using it a lot because I have missed a couple of appointments and it's very frustrating because I live in XXXX and when I have to travel to XXXX, missing an appointment is upsetting and I called acupuncture yesterday, because I had received a message that they had tried to call me wondering why wasn't at my appointment, and I said, my appointment is not until the 11th. She's like. No, dear, it was just today. I'm like, Oh, my God! And now I don't have an appointment until May 31, so I'm not happy because my acupuncture and physical therapy they go hand in hand. So I went on there to double check, to make sure that all the appointments that were in the system or in my phone. So I didn't have any other issues. And then there was medication that I had try to refill. I never got any medication. Oh, I had to actually go to the Va pharmacy in XXXX to find out why, and they said, Well, you don't have any more refills. I'm like what so then I had to come back home and go into my healthy vet, send a message to my doctor in order for her to refill the prescription, so I could get my medicine so it's it's been a little frustrating, because there were times when I would go into the system, and there was nothing there. There were no doctors, I couldn't access the pharmacy, and I was having to call. So I go. What is wrong with my healthy vet, because I'm not able to see any information at all, so I don't know if the system was down or they were working on it. I really don't know, but that was kind of aggravating.
 
 00:04:59.000 --> 00:05:01.000
-Yeah, okay, so it sounds like a couple of moments that we're aggravating for you in the last couple of weeks.
 
-00:05:01.000 --> 00:05:12.000
-Maybe so. That sounds a little bit frustrating. And you mentioned that you are using myheldy vet on your computer at home.
-
-00:05:12.000 --> 00:05:17.000
-Do you ever access my help? You bet, from your phone?
+> Yeah, okay, so it sounds like a couple of moments that we're aggravating for you in the last couple of weeks. That sounds a frustrating. And you mentioned that you are using my healtyh vet on your computer at home. Do you ever access MHV from your phone?
 
 00:05:17.000 --> 00:05:18.000
-Sometimes.
+
+> Sometimes.
 
 00:05:18.000 --> 00:05:23.000
-Okay. Well, that's really helpful. And what about other?
 
-00:05:23.000 --> 00:05:24.000
-Va, websites. Have you been to any other Va websites besides my healthy?
+> Okay. Well, that's really helpful. And what about other VA websites. Have you been to any other Va websites besides my healthy vet?
 
 00:05:24.000 --> 00:05:30.000
-That!
 
-00:05:30.000 --> 00:05:37.000
-Do you mean, as far as like going into Va administration?
+> Do you mean, as far as like going into VA administration?
 
 00:05:37.000 --> 00:05:38.000
-Yeah, that might be one.
+
+> Yeah, that might be one.
 
 00:05:38.000 --> 00:05:47.000
-Okay, up in the regional office. I've used it for that, and I've also had to.
 
-00:05:47.000 --> 00:06:02.000
-Well, everything, I guess, would basically be under Va.
-
-00:06:02.000 --> 00:06:03.000
-Gotcha!
-
-00:06:03.000 --> 00:06:05.000
-Administration where I've had to update my banking, information, address or contact them because of fraud, or ask questions about my home.
-
-00:06:05.000 --> 00:06:11.000
-You know, varies different parts of Va. Administration.
+> Okay, up in the regional office. I've used it for that, and I've also had to update my banking, information, address or contact them because of fraud, or ask questions about my home. Various different parts of VA Administration.
 
 00:06:11.000 --> 00:06:15.000
-Gotcha. Okay, that's really helpful. And when you're on the Va.
 
-00:06:15.000 --> 00:06:23.000
-Administration website? Are you usually signing in as well?
-
-00:06:23.000 --> 00:06:24.000
-Okay.
+> Gotcha. Okay, that's really helpful. And when you're on the Va administration website? Are you usually signing in as well?
 
 00:06:24.000 --> 00:06:27.000
-Yes, sometimes it works, sometimes it doesn't.
 
-00:06:27.000 --> 00:06:30.000
-Okay, tell me more about that.
-
-00:06:30.000 --> 00:06:34.000
-I don't know.
-
-00:06:34.000 --> 00:06:46.000
-I have so many passwords, and when I change them I always write them down and say, I went into the website today with the password that I wrote down tomorrow.
-
-00:06:46.000 --> 00:06:49.000
-It doesn't work.
-
-00:06:49.000 --> 00:06:54.000
-And then then I have to call, and they're like, well, you know.
-
-00:06:54.000 --> 00:06:58.000
-Try to reset it and go other these extra steps. I mean, you're trying to do something.
-
-00:06:58.000 --> 00:07:02.000
-You just want it to work, so I don't know why a password work one day, and then it doesn't work.
-
-00:07:02.000 --> 00:07:05.000
-The next day. So that's been a really big issue.
+> Yes, sometimes it works, sometimes it doesn't. I don't know. I have so many passwords, and when I change them I always write them down and say, I went into the website today with the password that I wrote down tomorrow, it doesn't work. And then then I have to call, and they're like, well, you know, try to reset it and go other these extra steps. I mean, you're trying to do something. You just want it to work, so I don't know why a password work one day, and then it doesn't work the next day. So that's been a really big issue.
 
 00:07:05.000 --> 00:07:16.000
-Right? Yeah, that makes sense. Okay, Gotcha. And when you're on the Va administration website, how are you signing in?
 
-00:07:16.000 --> 00:07:20.000
-Do you remember which kind of method you're using to sign in?
+> Right? Yeah, that makes sense. Okay, Gotcha. And when you're on the Va administration website, how are you signing in? Do you remember which kind of method you're using to sign in?
 
 00:07:20.000 --> 00:07:23.000
-No, I can sign in through my healthy vet.
+
+> I can sign in through my healthy vet.
 
 00:07:23.000 --> 00:07:30.000
-Gotcha. Okay? So you'll use my healthy vet when you're on the my healthy, dot website, or when you're on the Va.
 
-00:07:30.000 --> 00:07:31.000
-That's correct.
+> Gotcha. Okay? So you'll use my healthy vet when you're on the MHV website, or when you're on the VA administration website, Gotcha. Okay, that's really helpful.
 
-00:07:31.000 --> 00:07:33.000
-Administration website, Gotcha. Okay, that's really helpful.
+> That's correct.
 
 00:07:33.000 --> 00:07:42.000
-Is there anything else that you want to share with me more generally about signing in before we move on?
+
+> Is there anything else that you want to share with me more generally about signing in before we move on?
 
 00:07:42.000 --> 00:07:56.000
-I don't know if the other option under id me would be better than signing into my healthy vet, but I can't comment because I can't get in it.
+
+> I don't know if the other option under ID.me would be better than signing into my healthy vet, but I can't comment because I can't get in it.
 
 00:07:56.000 --> 00:07:58.000
-Yeah, yeah, that sounds like, so you've tried.
 
-00:07:58.000 --> 00:08:01.000
-And you've not been able to set it up.
-
-00:08:01.000 --> 00:08:02.000
-No!
-
-00:08:02.000 --> 00:08:08.000
-Yeah, okay, that's really helpful to know. And I think, actually, we're gonna talk about that a little bit more throughout the rest of the conversation.
-
-00:08:08.000 --> 00:08:09.000
-So I'll ask you a couple more questions about Id.
-
-00:08:09.000 --> 00:08:12.000
-Dot me in a little bit. So that's very helpful.
+> Yeah, yeah, that sounds like, so you've tried. And you've not been able to set it up. That's really helpful to know. So I'll ask you a couple more questions about ID.me in a little bit. So that's very helpful.
 
 00:08:12.000 --> 00:08:24.000
-So I mentioned a prototype when we first got on the call, and so I'm gonna send you a link in the chat on Zoom, and what I'd like for you to do is just open up this link on your computer.
 
-00:08:24.000 --> 00:08:35.000
-Once you open up the link, I'm gonna ask you to share your screen. Is that something you're familiar with doing?
+> So I mentioned a prototype when we first got on the call, and so I'm gonna send you a link in the chat on Zoom, and what I'd like for you to do is just open up this link on your computer. Once you open up the link, I'm gonna ask you to share your screen. Is that something you're familiar with doing?
 
-00:08:35.000 --> 00:08:36.000
-I think so. We'll see.
-
-00:08:36.000 --> 00:08:42.000
-Okay. Okay. Well, I'm gonna talk you through it. If not.
-
-00:08:42.000 --> 00:08:43.000
-Okay.
-
-00:08:43.000 --> 00:08:52.000
-So I sent the link in the chat. If you can just open that up, and then once you open it up, let me know what it looks like that you're seeing on your computer.
-
-00:08:52.000 --> 00:08:56.000
-Do you want me to open up the link because it says, Tyler, do you want me to click on that cause?
-
-00:08:56.000 --> 00:08:57.000
-That's what I did. Excellent!
-
-00:08:57.000 --> 00:09:02.000
-Yes, please. Yeah, that's perfect.
-
-00:09:02.000 --> 00:09:10.000
-And then let me know if that link loads, and then what it looks like when it loads.
-
-00:09:10.000 --> 00:09:24.000
-Okay, it. Shows v a. U. S. Department of veteran affairs. Va.
-
-00:09:24.000 --> 00:09:25.000
-Okay, that's.
-
-00:09:25.000 --> 00:09:28.000
-Benefits and health care about Va. And then each one has a dropdown box, and it shows healthcare disability. Education records.
-
-00:09:28.000 --> 00:09:34.000
-Okay, that's helpful. So what I'm gonna have you do now is I'm gonna help you with sharing your screen.
-
-00:09:34.000 --> 00:09:38.000
-So if you come back to the zoom window, where you can see my face.
-
-00:09:38.000 --> 00:09:43.000
-Okay, 1, s.
-
-00:09:43.000 --> 00:09:45.000
-Okay.
-
-00:09:45.000 --> 00:09:50.000
-Okay. So on the zoom window all the way at the bottom there's a couple of different icons we're just gonna look for the one in the middle.
-
-00:09:50.000 --> 00:09:56.000
-That's green, and it says, Share, screen.
-
-00:09:56.000 --> 00:10:01.000
-Let me know if you're finding that one.
-
-00:10:01.000 --> 00:10:02.000
-Okay.
-
-00:10:02.000 --> 00:10:10.000
-Okay. 1 s. What did I do?
-
-00:10:10.000 --> 00:10:14.000
-So. Are you still able to see me, or do you think you're somewhere else now?
-
-00:10:14.000 --> 00:10:19.000
-Well, I was somewhere else, but I'm getting ready to.
-
-00:10:19.000 --> 00:10:22.000
-Oh, good! Hold on 1 s!
-
-00:10:22.000 --> 00:10:29.000
-Okay, just let me know if you need a hand.
-
-00:10:29.000 --> 00:10:32.000
-Okay.
-
-00:10:32.000 --> 00:10:33.000
-Okay, perfect.
-
-00:10:33.000 --> 00:10:45.000
-Okay, I can see you, and the chat window is still open and at the bottom see mutes that participants share screen so click on that.
-
-00:10:45.000 --> 00:10:46.000
-Okay.
-
-00:10:46.000 --> 00:10:55.000
-Yeah, perfect click on that. And then it's gonna open another window with a couple of different options. So you're just gonna look for the screen that you just opened that link, you just opened.
-
-00:10:55.000 --> 00:10:58.000
-Are you seeing that option?
-
-00:10:58.000 --> 00:11:05.000
-I see a whiteboard iphone pad.
-
-00:11:05.000 --> 00:11:15.000
-Low model model, and then I see a lot of my creative writing work.
-
-00:11:15.000 --> 00:11:16.000
-Okay. Well, I wish we could talk about your creative writing work instead.
-
-00:11:16.000 --> 00:11:17.000
-Let me see!
-
-00:11:17.000 --> 00:11:20.000
-But I think we'll have to talk about the Va.
-
-00:11:20.000 --> 00:11:32.000
-It should that says show all windows. So I'm gonna go down to see if I can see.
-
-00:11:32.000 --> 00:11:33.000
-Hmm!
-
-00:11:33.000 --> 00:11:40.000
-Yeah, so.
-
-00:11:40.000 --> 00:11:41.000
-Okay.
-
-00:11:41.000 --> 00:11:42.000
-It's not showing the window that you sent me. I don't know why.
-
-00:11:42.000 --> 00:11:46.000
-That's okay. So the other option is, you can choose the first option.
-
-00:11:46.000 --> 00:11:52.000
-It might say something like desktop. It should be the first one when you opened up that new window.
-
-00:11:52.000 --> 00:11:54.000
-Are you seeing that one?
-
-00:11:54.000 --> 00:11:59.000
-No, I see the screen where you are, and then, next to that, it shows at the top.
-
-00:11:59.000 --> 00:12:02.000
-Whiteboard.
-
-00:12:02.000 --> 00:12:03.000
-Uhhuh.
-
-00:12:03.000 --> 00:12:09.000
-It shows basic advanced in files. And then it just shows whiteboard iphone.
-
-00:12:09.000 --> 00:12:10.000
-Okay.
-
-00:12:10.000 --> 00:12:14.000
-Maybe it's this one that's I don't know.
-
-00:12:14.000 --> 00:12:15.000
-That sounds right. Let's try and click. Yeah, let's try that one.
-
-00:12:15.000 --> 00:12:20.000
-It just says, flow number one. That's it. Okay, okay.
-
-00:12:20.000 --> 00:12:25.000
-It's always a little tricky at the beginning. Yeah, that's perfect.
-
-00:12:25.000 --> 00:12:29.000
-Okay. But this is asking for Ds logon. I don't have one.
-
-00:12:29.000 --> 00:12:32.000
-Yeah, so, we're in a little bit of a funny place.
-
-00:12:32.000 --> 00:12:44.000
-For some reason. So why don't we? If you can just click on your keyboard if you click the back button to that left arrow key.
-
-00:12:44.000 --> 00:12:45.000
-No!
-
-00:12:45.000 --> 00:12:48.000
-Did that do anything? Nope, what about the back button on the browser?
-
-00:12:48.000 --> 00:12:55.000
-So on this web page that you're looking at over here, where there's a little arrow let's try and click that.
-
-00:12:55.000 --> 00:12:56.000
-Okay. Now, okay.
-
-00:12:56.000 --> 00:12:58.000
-Yeah, okay. And so we'll click back one more time.
-
-00:12:58.000 --> 00:13:02.000
-Okay, click back one more time. That's fine. Okay.
-
-00:13:02.000 --> 00:13:08.000
-Yes, Paul. Alright, that's perfect. So we're gonna stay here for a second.
-
-00:13:08.000 --> 00:13:11.000
-Okay.
-
-00:13:11.000 --> 00:13:12.000
-Okay.
+[screen sharing troubleshooting]
 
 00:13:12.000 --> 00:13:26.000
-Alright. Thank you for working through that with me. So now we're looking@theva.gov home, page, and what I'd like you to do for kind of the rest of our conversation is we're gonna imagine that you've come online because you needed to update your
 
-00:13:26.000 --> 00:13:27.000
-address okay? So you're on the Va administration website, you need to update your address.
-
-00:13:27.000 --> 00:13:40.000
-So the first thing that you need to do is sign in, so can you show me where you would find the sign in option on this page?
+> Alright. Thank you for working through that with me. So now we're looking at the va.gov home, page, and what I'd like you to do for kind of the rest of our conversation is we're gonna imagine that you've come online because you needed to update your address okay? So you're on the Va administration website, you need to update your address. So the first thing that you need to do is sign in, so can you show me where you would find the sign in option on this page?
 
 00:13:40.000 --> 00:13:44.000
-It's on the top right hand, right works in blue sign in.
+
+> It's on the top right hand, right works in blue sign in.
 
 00:13:44.000 --> 00:13:48.000
-Perfect. Yeah, let's click on that.
+
+> Perfect. Yeah, let's click on that.
 
 00:13:48.000 --> 00:13:49.000
-Oh, hold on! I gotta run and get my cable before my battery.
 
-00:13:49.000 --> 00:13:53.000
-Dies. Hold on, please!
+> Oh, hold on! I gotta run and get my cable before my battery dies. Hold on, please!
 
 00:13:53.000 --> 00:14:23.000
-Okay. Okay.
+
+> Okay. Okay.
 
 00:15:01.000 --> 00:15:05.000
-Always moving my computer from my art room to all over the house.
 
-00:15:05.000 --> 00:15:12.000
-Anyway. Okay, so you I'm gonna click sign in.
+>  Okay, so you I'm gonna click sign in.
 
 00:15:12.000 --> 00:15:14.000
-Okay. And then I would.
 
-00:15:14.000 --> 00:15:16.000
-Oh, nice! Sorry! I just realized I was on mute. But that's perfect.
-
-00:15:16.000 --> 00:15:27.000
-If if we just stay on this page for a second before we click anything, it sounds like normally you would click my healthy bet on this page right?
+> Okay. If if we just stay on this page for a second before we click anything, it sounds like normally you would click my healthy vet on this page right?
 
 00:15:27.000 --> 00:15:28.000
-Correct.
+
+> Correct.
 
 00:15:28.000 --> 00:15:34.000
-Okay. And these other options are any of the other ones looking familiar to you?
+
+> Okay. And these other options are any of the other ones looking familiar to you?
 
 00:15:34.000 --> 00:15:40.000
-I mean, I recognize all of them, but I'm not able to access any of them.
+
+> I mean, I recognize all of them, but I'm not able to access any of them.
 
 00:15:40.000 --> 00:15:46.000
-Okay, so you recognize them because you've seen them, probably on a page like this before.
 
-00:15:46.000 --> 00:15:47.000
-Okay. No.
-
-00:15:47.000 --> 00:15:52.000
-But you don't have access to any of them. And you mentioned that you've tried to use id dot me, but it's not worked for you.
+> Okay, so you recognize them because you've seen them, probably on a page like this before. But you don't have access to any of them. And you mentioned that you've tried to use id dot me, but it's not worked for you.
 
 00:15:52.000 --> 00:15:53.000
-No!
 
-00:15:53.000 --> 00:15:54.000
-Yeah, and we'll talk a little bit more about that.
-
-00:15:54.000 --> 00:15:59.000
-In a second. But what about these other 2? login.gov.
-
-00:15:59.000 --> 00:16:02.000
-And Ds log on. Have you ever tried those ones?
+> what about these other 2? login.gov And Ds log on. Have you ever tried those ones?
 
 00:16:02.000 --> 00:16:06.000
-I've tried Ds log on, but I don't have a d yet.
 
-00:16:06.000 --> 00:16:12.000
-I don't have a Ds log on so.
-
-00:16:12.000 --> 00:16:14.000
-I don't know how to access it.
+> I've tried DS log on, but I don't know how to access it.
 
 00:16:14.000 --> 00:16:16.000
-Gotcha. Okay, that's okay. And so whenever you're coming online, you're always choosing my healthy bet.
 
-00:16:16.000 --> 00:16:23.000
-And it seems to work well for you most of the time.
+> Gotcha. Okay, that's okay. And so whenever you're coming online, you're always choosing my healthy bet. And it seems to work well for you most of the time.
 
 00:16:23.000 --> 00:16:24.000
-Yeah. It's the easiest one.
+
+> Yeah. It's the easiest one.
 
 00:16:24.000 --> 00:16:32.000
-Okay, so I'm gonna throw a little bit of a curve ball at you right now.
 
-00:16:32.000 --> 00:16:37.000
-And what we're gonna do today is we're gonna pretend like we're signing in with Ds log on.
-
-00:16:37.000 --> 00:16:39.000
-So I know you're not using Ds logon.
-
-00:16:39.000 --> 00:16:43.000
-We'll talk a little bit more in a second about why, that's why that's what I'm asking you to do.
+> Okay, so I'm gonna throw a little bit of a curve ball at you right now. And what we're gonna do today is we're gonna pretend like we're signing in with Ds log on. So I know you're not using Ds logon. We'll talk a little bit more in a second about why, that's why that's what I'm asking you to do.
 
 00:16:43.000 --> 00:16:49.000
-But for now let's just click Ds log on so you can go ahead and click on that button.
 
-00:16:49.000 --> 00:16:53.000
-Perfect. And then we're not gonna enter any information throughout our conversation today.
-
-00:16:53.000 --> 00:16:59.000
-So you're just gonna click login here and we're gonna pretend like you put in your username.
-
-00:16:59.000 --> 00:17:02.000
-And you put in your password, and then you click login.
-
-00:17:02.000 --> 00:17:06.000
-So whenever you're ready you're welcome to click that button.
-
-00:17:06.000 --> 00:17:07.000
-I'm sorry.
-
-00:17:07.000 --> 00:17:09.000
-That's okay.
-
-00:17:09.000 --> 00:17:16.000
-I had it on mute.
-
-00:17:16.000 --> 00:17:23.000
-It's probably a marketer, anyway.
-
-00:17:23.000 --> 00:17:28.000
-Okay, I'm just waiting for them to hang up so so I can put it on mute.
-
-00:17:28.000 --> 00:17:37.000
-Okay. No worries.
-
-00:17:37.000 --> 00:17:41.000
-It's important. I always say they'll leave a message if me okay.
+> But for now let's just click Ds log on so you can go ahead and click on that button. Perfect. And then we're not gonna enter any information throughout our conversation today. So you're just gonna click login here and we're gonna pretend like you put in your username. And you put in your password, and then you click login. So whenever you're ready you're welcome to click that button.
 
 00:17:41.000 --> 00:17:47.000
-Perfect. So we know you don't have a Ds log on account right now.
 
-00:17:47.000 --> 00:17:48.000
-But we're gonna pretend like you put in your username and password.
-
-00:17:48.000 --> 00:17:54.000
-And we're gonna click login. So you can click on that grade button.
-
-00:17:54.000 --> 00:18:00.000
-There on your screen. Perfect. Okay. So now we're on this page.
-
-00:18:00.000 --> 00:18:07.000
-And what are we seeing on this page? Right now? You describe that to me.
+> Perfect. So we know you don't have a Ds log on account right now. But we're gonna pretend like you put in your username and password. And we're gonna click login. So you can click on that grade button. There on your screen. Perfect. Okay. So now we're on this page. And what are we seeing on this page? Right now? You describe that to me.
 
 00:18:07.000 --> 00:18:22.000
-It's just showing you how to create a login.gov account you know the Ds login will stop working for via digital tool soon, and it has a little paragraph there and then at the bottom it says note this account will only work for va digital tools.
 
-00:18:22.000 --> 00:18:23.000
-And the features you may need to verify your identity.
-
-00:18:23.000 --> 00:18:32.000
-Again to use login.gov on other government websites.
-
-00:18:32.000 --> 00:18:38.000
-Create your login and continue with the Ds Login, for now.
+> It's just showing you how to create a login.gov account you know the DS login will stop working for VA digital tool soon, and it has a little paragraph there and then at the bottom it says note this account will only work for VA digital tools. And the features you may need to verify your identity again to use login.gov on other government websites. Create your login and continue with the Ds Login, for now.
 
 00:18:38.000 --> 00:18:39.000
-Okay. Gotcha. So we're gonna talk a little bit more about what we're reading here.
 
-00:18:39.000 --> 00:18:52.000
-But just to start, we've imagined that you've signed into the Va administration website because you needed to change your address and then you're seeing this.
+> Okay. Gotcha. So we're gonna talk a little bit more about what we're reading here. But just to start, we've imagined that you've signed into the Va administration website because you needed to change your address and then you're seeing this.
 
 00:18:52.000 --> 00:18:58.000
-So. What do you think you would do if you saw something like this when you were trying to change your address?
+
+> So. What do you think you would do if you saw something like this when you were trying to change your address?
 
 00:18:58.000 --> 00:19:03.000
-Well, I would first have to create a login dot a login.
 
-00:19:03.000 --> 00:19:09.000
-To access the website to as a starting point.
+> Well, I would first have to create a Login.gov to access the website, as a starting point.
 
 00:19:09.000 --> 00:19:18.000
-Okay. So first off, you'd think if I wanna continue and access the website, I need to set up this account.
+
+> Okay. So first off, you'd think if I wanna continue and access the website, I need to set up this account.
 
 00:19:18.000 --> 00:19:20.000
-That's sounds logical to me.
+
+> That's sounds logical to me.
 
 00:19:20.000 --> 00:19:26.000
-Yeah, that sounds logical to me. And then you read through some of the things you were noticing here.
 
-00:19:26.000 --> 00:19:29.000
-You said this was about creating a Login Gov. Account.
-
-00:19:29.000 --> 00:19:34.000
-Why is it recommending that you create a login.gov account?
+> Yeah, that sounds logical to me. And then you read through some of the things you were noticing here you said this was about creating a Login Gov. Account. Why is it recommending that you create a login.gov account?
 
 00:19:34.000 --> 00:19:48.000
-Well, in order to access any information, you're gonna have to be able to create a login in order to advance forward to.
 
-00:19:48.000 --> 00:19:58.000
-To enter or enter the information that you need to make changes, or any other information without that you're not gonna be able to continue forward cause, even though it's so, continue with Ds Login.
-
-00:19:58.000 --> 00:20:06.000
-Now, if you don't have a login account, you're not gonna be able to move forward.
+> Well, in order to access any information, you're gonna have to be able to create a login in order to advance forward to enter the information that you need to make changes, or any other information without that you're not gonna be able to continue forward cause even though it says continue with Ds Login. Now, if you don't have a login account, you're not gonna be able to move forward.
 
 00:20:06.000 --> 00:20:12.000
-Gotcha. Okay? So you need to have a login Gov account in order to move forward and access the website.
 
-00:20:12.000 --> 00:20:17.000
-So that's why it's telling you to create an account that makes sense.
-
-00:20:17.000 --> 00:20:26.000
-And what about here? It says you can create a Va only login Gov account without needing to verify your identity.
-
-00:20:26.000 --> 00:20:36.000
-Again. What is that talking about?
+> Gotcha. Okay? So you need to have a login Gov account in order to move forward and access the website. So that's why it's telling you to create an account? that makes sense. And what about here? It says you can create a Va only login Gov account without needing to verify your identity again. What is that talking about?
 
 00:20:36.000 --> 00:20:46.000
-To me once again. It's stating that you have a premium Dslog Login account.
 
-00:20:46.000 --> 00:20:47.000
-And then it's saying you can create a Va login.
-
-00:20:47.000 --> 00:20:54.000
-Gov. Account with, without needing to verify your identity.
-
-00:20:54.000 --> 00:20:55.000
-Okay.
-
-00:20:55.000 --> 00:21:10.000
-But even though it's saying, if there's a if they're talking about a premium Ds log account, it's really not gonna make any difference.
-
-00:21:10.000 --> 00:21:11.000
-Right? Okay.
-
-00:21:11.000 --> 00:21:20.000
-If you don't have access to Ds login website, I mean, I know I have a premium account under my healthy that. But I'm sure that's different than a premium ds log on logon account.
-
-00:21:20.000 --> 00:21:21.000
-Those are 2 separate entities.
+> It's stating that you have a premium Dslog Login account. And then it's saying you can create a Va login.Gov. Account with, without needing to verify your identity. But even though it's saying, if there's a if they're talking about a premium Ds log account, it's really not gonna make any difference. If you don't have access to Ds login website, I mean, I know I have a premium account under my healthy that. But I'm sure that's different than a premium ds log on logon account. Those are 2 separate entities.
 
 00:21:21.000 --> 00:21:29.000
-Right? Yeah, yeah, okay, and so is, is it a little bit odd that they're mentioning that you have a premium?
 
-00:21:29.000 --> 00:21:34.000
-Ds logon account, if they're also telling you that you can't use it anymore.
-
-00:21:34.000 --> 00:21:39.000
-Is that what's confusing?
+> Right? Yeah, yeah, okay, and so is, is it a little bit odd that they're mentioning that you have a premium Ds logon account, if they're also telling you that you can't use it anymore. Is that what's confusing?
 
 00:21:39.000 --> 00:21:43.000
-What's good? Well!
 
-00:21:43.000 --> 00:21:49.000
-Logically, I'm not understanding, because you would have to have a premium.
-
-00:21:49.000 --> 00:21:55.000
-Ds. Login account.
-
-00:21:55.000 --> 00:22:00.000
-In order to do anything to me.
-
-00:22:00.000 --> 00:22:08.000
-And if you don't have that, it doesn't really matter if there's saying, if you.
-
-00:22:08.000 --> 00:22:13.000
-You can create a Va log of accounts without needing to identify without needing to verify your identity.
-
-00:22:13.000 --> 00:22:26.000
-Again. But if they don't have any information about me in the Ds Login system, all of this is just a mute point.
+> Logically, I'm not understanding, because you would have to have a premium Ds Login account In order to do anything to me. And if you don't have that, it doesn't really matter if there's saying, if You can create a Va log of accounts without needing to identify without needing to verify your identity. Again. But if they don't have any information about me in the Ds Login system, all of this is just a mute point.
 
 00:22:26.000 --> 00:22:27.000
-Gotcha. Okay? Because you're somebody who has premium.
 
-00:22:27.000 --> 00:22:34.000
-Mhb. Or sorry, my healthy, that then they don't have. They?
-
-00:22:34.000 --> 00:22:38.000
-This is kind of irrelevant. Is that what you mean?
+> Gotcha. Okay? Because you're somebody who has premium my healthy vet, then, this is kind of irrelevant. Is that what you mean?
 
 00:22:38.000 --> 00:22:39.000
-If that makes logical sense to me.
+
+> That makes logical sense to me.
 
 00:22:39.000 --> 00:22:49.000
-Yeah, that makes sense that makes logical sense to me as well what we'll do is we'll imagine that this is saying because you have a premium.
 
-00:22:49.000 --> 00:22:53.000
-My healthy. That login account. You can create a Va only login.
-
-00:22:53.000 --> 00:23:06.000
-Gov. Account. Does that change? How you might interpret what it's saying to you?
+> Yeah, that makes sense that makes logical sense to me as well. what we'll do is we'll imagine that this is saying because you have a premium. My healthy. That login account. You can create a Va only login. Gov. Account. Does that change? How you might interpret what it's saying to you?
 
 00:23:06.000 --> 00:23:12.000
-Once again!
 
-00:23:12.000 --> 00:23:19.000
-If it's saying that I no, no, no!
-
-00:23:19.000 --> 00:23:20.000
-Okay.
-
-00:23:20.000 --> 00:23:25.000
-Because yet still you would have to have a premium.
-
-00:23:25.000 --> 00:23:41.000
-Ds log account first, that would be the first part of it, and because you do have a premium Ds login account, then I would be able to go in and create a Va.
-
-00:23:41.000 --> 00:23:45.000
-Only login account, but that's only if I'm already a premium.
-
-00:23:45.000 --> 00:23:49.000
-Yeah, you have to.
-
-00:23:49.000 --> 00:23:51.000
-Ds login user. So no, to me it's the same.
+> Because you would have to have a premium Ds log account first, that would be the first part of it, and because you do have a premium Ds login account, then I would be able to go in and create a Va Only login account, but that's only if I'm already a premium. Yeah, you have to. Ds login user. So no, to me it's the same.
 
 00:23:51.000 --> 00:23:56.000
-Gotcha? Yeah, yeah, I definitely get that. Okay, I get that.
 
-00:23:56.000 --> 00:24:04.000
-If it was saying, you know, let's pretend the screen looked different, and it said, Because you have a premium, my healthy bed account.
-
-00:24:04.000 --> 00:24:08.000
-You can create a Va only login.gov account.
+> Gotcha? Yeah, yeah, I definitely get that. Okay, I get that. If it was saying, you know, let's pretend the screen looked different, and it said, Because you have a premium, my healthy bed account. You can create a Va only login.gov account.
 
 00:24:08.000 --> 00:24:09.000
-What is that? Yeah.
 
-00:24:09.000 --> 00:24:13.000
-Well, that makes sense that makes sense to me. It would be easy, because I'm already a premium, healthy.
-
-00:24:13.000 --> 00:24:20.000
-That user and so then the next step would be to just create my Va.
-
-00:24:20.000 --> 00:24:21.000
-Only login gov account, and I wouldn't have to.
-
-00:24:21.000 --> 00:24:26.000
-I wouldn't need to be verified each.
+> Well, that makes sense that makes sense to me. It would be easy, because I'm already a premium my healthy vet user and so then the next step would be to just create my Va only login gov account, and I wouldn't need to be verified each time.
 
 00:24:26.000 --> 00:24:27.000
-Gotcha. Okay? Yeah, that makes a lot of sense. And thank you for working with me.
 
-00:24:27.000 --> 00:24:32.000
-Cause. I know you don't use Ds log on, and I know this, says Ds log on. So it makes it kind of confusing.
-
-00:24:32.000 --> 00:24:38.000
-But that's really helpful. Everything you said so far.
+> Gotcha. Okay? Yeah, that makes a lot of sense. And thank you for working with me because I know you don't use Ds log on, and I know this, says Ds log on. So it makes it kind of confusing. But that's really helpful. Everything you said so far.
 
 00:24:38.000 --> 00:24:41.000
-What about verifying your identity? Can you tell me what that means?
 
-00:24:41.000 --> 00:24:44.000
-What is verifying your identity?
+> What about verifying your identity? Can you tell me what that means? What is verifying your identity?
 
 00:24:44.000 --> 00:24:48.000
-Well, to me it would mean that they would want to see your name.
 
-00:24:48.000 --> 00:24:53.000
-They probably want you to verify your date of birth, and maybe the last score of your social.
+> They would want to see your name. They probably want you to verify your date of birth, and maybe the last four of your social.
 
 00:24:53.000 --> 00:24:54.000
-Okay? And is that something that you would do one time?
 
-00:24:54.000 --> 00:25:01.000
-Is that something you would do every time, or sometimes.
+> Okay? And is that something that you would do one time? Is that something you would do every time, or sometimes?
 
 00:25:01.000 --> 00:25:05.000
-Well, I would think, if there, if you're setting up for the Va.
 
-00:25:05.000 --> 00:25:08.000
-Only login that you'd only have to do it one time.
+> Well, I would think, if there, if you're setting up for the VA only login that you'd only have to do it one time.
 
 00:25:08.000 --> 00:25:16.000
-Okay, gotcha. Okay? And then why is it saying, Va, only login, what does that mean?
+
+> Okay, gotcha. Okay? And then why is it saying, Va, only login, what does that mean?
 
 00:25:16.000 --> 00:25:20.000
-I would assume that it's only for veterans.
 
-00:25:20.000 --> 00:25:21.000
-To use.
+> I would assume that it's only for veterans to use.
 
 00:25:21.000 --> 00:25:24.000
-Okay, so it's a login. Yeah, it's a login account.
 
-00:25:24.000 --> 00:25:31.000
-That is specifically for veterans to set up and to use with the Va.
+> Okay, so it's a login. Yeah, it's a login account that is specifically for veterans to set up and to use with the Va.
 
 00:25:31.000 --> 00:25:32.000
-All this automation.
+
+> All this automation.
 
 00:25:32.000 --> 00:25:35.000
-Yeah, okay, yeah, it's this is all a little bit of a mind.
 
-00:25:35.000 --> 00:25:44.000
-A brain twister, or whatever. So thank you for working through the questions with me.
-
-00:25:44.000 --> 00:25:51.000
-At the bottom of this it says, note, this account will only work for Va digital tools.
-
-00:25:51.000 --> 00:26:01.000
-What are va, digital tools?
+> Yeah, okay, yeah, it's this is all a little bit of a brain twister. So thank you for working through the questions with me. At the bottom of this it says, note, this account will only work for Va digital tools. What are VA digital tools?
 
 00:26:01.000 --> 00:26:06.000
-Well!
 
-00:26:06.000 --> 00:26:21.000
-I could only assume that it would be something that would be with in a dropdown box, but without having.
-
-00:26:21.000 --> 00:26:24.000
-Hi!
-
-00:26:24.000 --> 00:26:30.000
-I don't know. You kind of stuck me there because I'm not really clear as what they mean by digital tools.
+> I could only assume that it would be something that would be with in a dropdown box, but without having... I don't know. You kind of stuck me there because I'm not really clear as to what they mean by digital tools.
 
 00:26:30.000 --> 00:26:34.000
-Yeah, that's that's a fair answer. That's really helpful.
 
-00:26:34.000 --> 00:26:39.000
-Alrighty, and then the last sentence I'm gonna ask you about on this page.
-
-00:26:39.000 --> 00:26:40.000
-It says in the future you may need to verify your identity again, to use login.
-
-00:26:40.000 --> 00:26:48.000
-Gov. On other government websites.
+> Yeah, that's that's a fair answer. That's really helpful. Alrighty, and then the last sentence I'm gonna ask you about on this page. It says in the future you may need to verify your identity again, to use login.Gov on other government websites.
 
 00:26:48.000 --> 00:26:51.000
-Well, that's make sense, because I do he used fema ever since Hurricane in.
 
-00:26:51.000 --> 00:27:00.000
-So that makes perfectly logical sense to me, because it's a different.
+> Well, that's make sense, because I do use FEMA, ever since Hurricane Ian. So that makes perfectly logical sense to me, because it's a different. It's a totally different entity. It's not the VA. It's another government system.
 
-00:27:00.000 --> 00:27:05.000
-It's a totally different entity. It's not the acceleration. It's another government system.
-
-00:27:05.000 --> 00:27:13.000
-Okay. So it's telling you that you could use this login with another government system.
-
-00:27:13.000 --> 00:27:14.000
-That's what it's saying.
-
-00:27:14.000 --> 00:27:19.000
-Okay, and what would you need to do if you wanted to use this login with another government system?
+> So it's telling you that you could use this login with another government system? Okay, and what would you need to do if you wanted to use this login with another government system?
 
 00:27:19.000 --> 00:27:24.000
-So not with the Vs.
 
-00:27:24.000 --> 00:27:32.000
-If I understand you correctly, I would have to log in to that other site.
-
-00:27:32.000 --> 00:27:36.000
-I mean, I know with Fema I do have a different username and password.
-
-00:27:36.000 --> 00:27:41.000
-Then I do then what I use on my healthy bit.
+> If I understand you correctly, I would have to log in to that other site. I mean, I know with FEMA I do have a different username and password then I do then what I use on my healthy vet.
 
 00:27:41.000 --> 00:27:55.000
-Gotcha. Okay, that's really helpful. So if you wanted to use your login that you're setting up right now with Fema, you would just need to log in on the Fema website with that username.
+
+> Gotcha. Okay, that's really helpful. So if you wanted to use your login that you're setting up right now with Fema, you would just need to log in on the Fema website with that username.
 
 00:27:55.000 --> 00:27:56.000
-That's correct.
+
+> That's correct.
 
 00:27:56.000 --> 00:28:02.000
-Okay, that's really helpful. So what we're gonna do is we're gonna pretend like we're creating a login Gov account.
 
-00:28:02.000 --> 00:28:06.000
-Now. So what would you do if you were gonna create the Login Gov account?
+> Okay, that's really helpful. So what we're gonna do is we're gonna pretend like we're creating a login Gov account now. So what would you do if you were gonna create the Login Gov account?
+
+
+
+#h2 paused here
+
+
+
+
 
 00:28:06.000 --> 00:28:09.000
 You can show me on your screen.
