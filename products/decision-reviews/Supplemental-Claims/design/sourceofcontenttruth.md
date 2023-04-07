@@ -236,7 +236,7 @@ What's an Intent to File? (expand) \
 
 >When you submit an Intent to File, you're telling us that you plan to file a claim. This sets a potential start date (called an effective date) for when you could start getting benefits. It gives you time to prepare your claim and gather supporting documents. And it means that your start date for benefits may be earlier than the date you file your claim.
 
-**_CONTINUE_**
+**_Back_** | **_Continue_**
 
 **Need help?**
 If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
@@ -251,7 +251,7 @@ What's an Intent to File? (expand) \
 
 >When you submit an Intent to File, you're telling us that you plan to file a claim. This sets a potential start date (called an effective date) for when you could start getting benefits. It gives you time to prepare your claim and gather supporting documents. And it means that your start date for benefits may be earlier than the date you file your claim.
 
-**_CONTINUE_**
+**_Back_** | **_Continue_**
 
 **Need help?**
 If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
