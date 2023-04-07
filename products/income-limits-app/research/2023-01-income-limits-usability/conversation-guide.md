@@ -149,6 +149,8 @@ Could you try to use this to find out if you're eligible for VA health care with
 Let's talk before you click anywhere...What are your impressions of this page?
 What do you think you can do here?
 
+*(does p think this tool will ask about disability rating and other factors, or income limits?)*
+
 Do you think this tool would be useful for you or not? WHY?
 *(want to get a sense for HOW useful it might be for them)*
 
