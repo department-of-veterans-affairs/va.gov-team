@@ -33,7 +33,7 @@
 - Make sure everyone is muted except moderator (me) and the participant
 - Mute your Slack notifications.
 
-## Starting the Session
+## Starting the Session | 5 minutes
 
 - If the participant doesn't show up in the first few minutes, reach out to Perigean on Slack.
 - Have your camera on
@@ -50,45 +50,22 @@ We have a couple other team members in the waiting room who would like to observ
 - The subject of our research today is the login and account process.
 - Today we're going to talk about how you sign in to access and manage your VA benefits and health care.
 - In this session, we want to hear your honest opinions. We are not testing your ability. The goal is to improve this process to better meet veterans needs. I will not be offended by any opinions you express, and I welcome your candid feedback.
-- In this session, I’ll also ask you to interact with a prototype. It will look like the VA.gov site, but it isn’t the real version of the website. It might not work exactly how you expect. For example, you'll be able to click on some things on the screen, but not all of them. We use prototypes to help us test things before we decide what to make real.
-- This entire session should take about 1 hour. In order to stay in the timeframe, I may occasionally move us along to a new topic so we can cover everything we're hoping to talk to you about today.
+- In this session, I’ll also ask you to interact with a prototype. It will look like the VA.gov site, but it isn’t the real version of the website. It might not work exactly how you expect. For example, some links or buttons may not work. We use prototypes to help us test things before we decide what to make real.
+- This entire session should take about **1 hour - update time**.
 - I do want you to be as comfortable as possible, so if for any reason and at any time you want to pause or stop the session, please let me know.
-- Perigean did previously ask for your consent to allow other people to observe today, but I know things can change, so I'd like to confirm with you. Are you okay with a couple of additional observers joining us during this session?
+- Perigean did previously ask for your consent to allow other people to observe today, but I know things can change. I'd like to confirm with you - are you okay with a couple of additional observers joining us during this session?
    - [If NO]: Use Slack to kindly ask the observers to leave the Zoom.
    - [If YES]: Admit observers.
       - Let’s have each of our observers quickly go around and introduce themselves with cameras on, please. 
       - [PAUSE for observers to introduce themselves]
       - Ok and now I’ll ask our notetakers and observers to mute themselves and turn off their cameras for the remainder of the sessions to save on distractions and to save Zoom bandwidth.
-- I want to ask your permission for another item now. We do like to record these sessions. This helps us if we need to look back for clarifications like to make sure we noted your opinions correctly. We delete recordings after we finish analysis, which usually takes a couple weeks. Also we sometimes use written quotes to help others at the VA understand why we want to make certain changes, but your name will not be directly linked to any of your comments.
+- One last item I want to ask your permission for. We do like to record these sessions. This helps us so we can look back for clarifications like to make sure we noted your opinions correctly. We delete recordings after we finish analysis, which usually takes a couple weeks. Also we sometimes write quotes down to help others at the VA understand why we want to make certain changes, but your name will not be directly linked to any of your comments.
 - Knowing that, are you comfortable if I record my screen and our audio as we talk today?
    - [IF YES - RECORD TO CLOUD] 
-   - Now that we are recording, I am going to confirm once more are you are ok if I record my screen and the audio as we talk today?
+   - Now that we are recording, I have to confirm once more - are you are ok if I record my screen and the audio as we talk today?
 - [WAIT FOR RESPONSE]
 - Ok, we are ready to go
 
----
-### Screen sharing instructions (if needed)
-- In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. In the center is a green button that says **Share** (phone) or **Share Screen** (computer). 
-  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
-  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
-
-- Now I'd like you to share your screen with me. Tap on the green button that says **Share**. You will then see options for what to share. Please choose "Screen" or your web browser.
-  - *(on a phone)* You will be asked to select what you'd like to share. Please choose "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help _(give permission > accessibility settings > find Zoom > check box)_.
-  - Great, now I can see your screen! Thank you for your patience in figuring this out.
-
-- iPad: Broadcast screen
-
-- *Backup plan if they cannot figure out how to share screen:*
-  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
-
-### Instructions for finding Zoom chat (if needed)
-- In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
-  - Computer: Just to the left of center is a conversation bubble that says **Chat**. 
-    - *If don't see chat, ASK:* Do you see the red **Stop Share** button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the **Chat** button in the center of the Zoom controls.
-  - Phone: On the far right is a **More** button or **3 dots**. Tap that and then on Chat or the conversation bubble. 
-  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
-
----
 
 ## Questions Round 1 - Mobile internet use | 5 minutes
 
@@ -101,14 +78,14 @@ I’d like to start with a few questions to get to know how you use your phone o
    - Do you regularly use a tablet to go online?
    - Which of these would you say you use the most when going online?
       - Why do you tend to use [THAT DEVICE] the most?
-- Have you accessed a bank account or health account or another account with important personal information on your phone in the past?
-   - [IF YES] Do you have a preference on where you access an account like that - either on your phone or computer?
-   - Have you created a new account for a website or service on your mobile phone?
+- Have you ever useed your phone to access a website for a bank account or health account or another account with private and important personal information?
+   - [IF YES] Do you have a preference on how you access an account like that - either on your phone or computer?
+   - In the past, have you ever used your phone to create a new account for a website or service?
    - [IF NO] Is that something you would consider doing from a phone?
       - Why or why not?
-   - For an account you already have, let’s say you need to update the phone number or password for that. Have you done something like that using a phone in - the past?
+   - For an account you already have, let’s say you need to update the phone number or password for that. Have you ever used a phone for something like that?
    - [PROMPT] That could be either on the VA or another website
-   - [IF YES] Could you walk me through an experience you’ve had with that in the past?
+   - [IF YES] Could you walk me through an experience you’ve had with doing that from your phone?
    - [IF NO] Would you only do something like that from a desktop or laptop computer?
       - Could you tell me a little more about that?
 
@@ -230,7 +207,29 @@ Thanks! Lastly, Perigean will be sending you a thank you note with a little blur
 
 Thank you so much again, and enjoy the rest of your day!
 
-##
+---
+### Screen sharing instructions (if needed)
+- In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. In the center is a green button that says **Share** (phone) or **Share Screen** (computer). 
+  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
+
+- Now I'd like you to share your screen with me. Tap on the green button that says **Share**. You will then see options for what to share. Please choose "Screen" or your web browser.
+  - *(on a phone)* You will be asked to select what you'd like to share. Please choose "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help _(give permission > accessibility settings > find Zoom > check box)_.
+  - Great, now I can see your screen! Thank you for your patience in figuring this out.
+
+- iPad: Broadcast screen
+
+- *Backup plan if they cannot figure out how to share screen:*
+  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
+
+### Instructions for finding Zoom chat (if needed)
+- In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
+  - Computer: Just to the left of center is a conversation bubble that says **Chat**. 
+    - *If don't see chat, ASK:* Do you see the red **Stop Share** button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the **Chat** button in the center of the Zoom controls.
+  - Phone: On the far right is a **More** button or **3 dots**. Tap that and then on Chat or the conversation bubble. 
+  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+
+---
 
 ## Emergency Exit
 
