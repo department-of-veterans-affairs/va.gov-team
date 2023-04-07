@@ -41,6 +41,31 @@
 Thank you for joining this session today! I first want to make sure that we are able to hear each other.
 [wait for response] if can’t hear [troubleshoot](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr#Troubleshootingresearchsessions-Problem:Usercannothearyou/youcan'thearthemonZoom) otherwise...
 
+Great! I’m [YOUR NAME] and I’m a researcher for VA.gov. 
+I also have [NOTE TAKER NAME] here today, who I’ll now ask to introduce themself.
+
+[PAUSE FOR NOTE TAKER to introduce themself]
+
+We have a couple other team members in the waiting room who would like to observe and help take notes. But before we invite them, I'd like to tell you more about what we're doing today.
+- The subject of our research today is the login and account process.
+- Today we're going to talk about how you sign in to access and manage your VA benefits and health care.
+- In this session, we want to hear your honest opinions. We are not testing your ability. The goal is to improve this process to better meet veterans needs. I will not be offended by any opinions you express, and I welcome your candid feedback.
+- In this session, I’ll also ask you to interact with a prototype. It will look like the VA.gov site, but it isn’t the real version of the website. It might not work exactly how you expect. For example, you'll be able to click on some things on the screen, but not all of them. We use prototypes to help us test things before we decide what to make real.
+- This entire session should take about 1 hour. In order to stay in the timeframe, I may occasionally move us along to a new topic so we can cover everything we're hoping to talk to you about today.
+- I do want you to be as comfortable as possible, so if for any reason and at any time you want to pause or stop the session, please let me know.
+- Perigean did previously ask for your consent to allow other people to observe today, but I know things can change, so I'd like to confirm with you. Are you okay with a couple of additional observers joining us during this session?
+   - [If NO]: Use Slack to kindly ask the observers to leave the Zoom.
+   - [If YES]: Admit observers.
+      - Let’s have each of our observers quickly go around and introduce themselves with cameras on, please. 
+      - [PAUSE for observers to introduce themselves]
+      - Ok and now I’ll ask our notetakers and observers to mute themselves and turn off their cameras for the remainder of the sessions to save on distractions and to save Zoom bandwidth.
+- I want to ask your permission for another item now. We do like to record these sessions. This helps us if we need to look back for clarifications like to make sure we noted your opinions correctly. We delete recordings after we finish analysis, which usually takes a couple weeks. Also we sometimes use written quotes to help others at the VA understand why we want to make certain changes, but your name will not be directly linked to any of your comments.
+- Knowing that, are you comfortable if I record my screen and our audio as we talk today?
+   - [IF YES - RECORD TO CLOUD] 
+   - Now that we are recording, I am going to confirm once more are you are ok if I record my screen and the audio as we talk today?
+- [WAIT FOR RESPONSE]
+- Ok, we are ready to go
+
 ---
 ### Screen sharing instructions (if needed)
 - In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. In the center is a green button that says **Share** (phone) or **Share Screen** (computer). 
@@ -127,13 +152,52 @@ Let’s think more specifically about accessing the VA on your phone
 
 I’d like to take a few minutes to think about a few more words or phrases that the VA might use when talking about online accounts. I want to remind you that this isn’t a test of you or your vocabulary. Instead we are interested in understanding what you and other veterans call things so we can make instructions more clear and understandable. 
 
-- 
+- This section TBD until after meeting with folks on Tue 11 April. Some terms up for consideration to explore:
+
+| Terms | Descriptions |
+| --- | ---|
+|authentication or multifactor authentication|proving you are the account owner when trying to access an account or certain tasks like getting a 6-digit number to your email or text|
+| create an account | first time on a website, you need to do this so the site knows who you are and what information to show you |
+| verify your account| proving you are who you say you are like by answering questions about your credit history or sending a picture of your state or government ID |
+| VA digital tools or VA portals | MHV, VA.gov, eBenefits, VA mobile app - all the places you might access to manage your VA benefits and healthcare |
+| "Upgrade" to LIG account | needing to not use the DS Login account anymore and set up a new account that is more secure |
+| personal key vs security key | |
+
+- example question about terms: What action would you expect to take if instructions said _____
+- example question about description: What might you call it when you _____
+
+## Task 1: Modal - 10 minutes
+
+Now, I’d like for us to take a look at a prototype. This is a website design that we are thinking about using. It will look like VA.gov but this is not real, and everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
+
+[SEND LINK IN ZOOM CHAT >>>
+https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979 ]
+
+I just sent a link in the zoom chat, do you see it?
+	[IF NEEDED: Help them open the link and share their screen] >>>link to screen share help section<<<
+
+Hopefully this looks familiar like what you would see on VA.gov. 
+So let's say you were going to sign into your account to [PRIOR MENTIONED TASK or “refill a prescription”].
+
+- If this popped up at here while you were actually signing in, what would you do next? 
+   - [PROMPT: maybe close it right away? Or read through it?]
+   - [IF READ] How closely do you usually read a pop up like this?
+- [IF NOT CLOSE right away] Does anything catch your attention immediately here?
+   - Do any questions immediately come to your mind? Or maybe none, that’s fine too?
+- I’ll give you some time to look through this now. Try to spend only as much time as you would if you were actually signing into your account. Let me know when you are good.
+
+[WAIT AS NEEDED]
+- Do any questions come to your mind now that you’ve looked through it a little more?
+- If you were describing this to a friend or family member, what would you tell them this means?
+- Now that you’ve read this, what would you do?
+   - [PROMPT: close it out? Or would you get a new account?]
+   - Is getting a new account something you would consider doing after reading this?
+   - Thinking about your If this came up again the next time you logged in, what would you do?
+- How do you feel about having one account option?
+- If instead of showing one account option here, if instead we said something like “The VA has two account options that meet our security standards” and showed you both choices, what would you think?
+   - How would you choose if you saw two option listed here?
 
 
-## Task 1: Modal - 5 minutes
-
-- Step 1
-- Step 2
 
 ### Things to watch for:
 
