@@ -1,4 +1,10 @@
-WEBVTT
+# Participant 17
+
+- Date: Thursday, April 6
+- Time: 4-5pm
+- Moderator: Tyler Gindraux
+
+### Transcript
 
 00:00:00.000 --> 00:00:03.000
 So okay, great. So I'll start the recording. And then, after I start the recording, I'm gonna actually have to ask you that to confirm one more time.
