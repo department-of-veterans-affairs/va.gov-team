@@ -134,11 +134,11 @@ While you're looking at the prototype, I would like you to *talk aloud* as much 
 
 I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **bit.ly/3zuL4Be**
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
-- *(If see “unsupported browser” error, ask to try a different browser or device, or share my screen and mouse control)*
 
 Do you see the link? 
 
-*If prototype doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)*
+- *If see “unsupported browser” error, ask to try a different browser or device, or share my screen and mouse control*
+- *If prototype doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)*
 
 What are your impressions of what you're looking at? *(RECORD)*
 
@@ -245,7 +245,7 @@ Suppose that you’re in the process of appealing a health care claim from 2021,
 ## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-1. How or where would you expect to find this app that you just used?
+1. How or where would you expect to find this tool that you just used?
 1. What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
