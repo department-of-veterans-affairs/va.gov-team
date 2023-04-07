@@ -9,7 +9,7 @@ Includes ten personas (veterans and supporters) and ideation cards
 
 **Still serving**
 Veterans who serve in active duty, Reserves, or National Guard and navigate competing civilian and military systems, cultures, and providers
-- Service members can use 526 to apply for BDD (Benefits Delivery at Discharge). Eligibility for BDD is determined in 526 based on user's indication of whether they are active duty and if so when their anticipated date of release from active duty is. If they indicate this on the /start page, they will enter a BDD-specific flow in 526, and subsequent page title will show BDD (the pages will have the same URLs as original claims flow). They can also indicate this within the service history section within the 526 original claim flow. These users must submit copies of service treatment records and a [Seperation Health  Assessment Part A](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) for the current period of service and provide an anticipated release from active duty date within the 526 form. 
+- Service members can use 526 to apply for BDD (Benefits Delivery at Discharge). Eligibility for BDD is determined in 526 based on user's indication of whether they are active duty and if so when their anticipated date of release from active duty is. If they indicate this on the /start page, they will enter a [BDD-specific flow in 526](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/526-overall-flow.md), and subsequent page title will show BDD (the pages will have the same URLs as original claims flow). They can also indicate this within the service history section within the 526 original claim flow. These users must submit copies of service treatment records and a [Seperation Health  Assessment Part A](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) for the current period of service and provide an anticipated release from active duty date within the 526 form. 
 - Service members cannot use 526 to apply for or indicate participation in IDES (Integrated Disability Evaluation System) since IDES participants do not apply or elect to participate in IDES, and doing so could also cause downstream problems. (If service members are eligible for medical discharge they are referred by their branch of service, they are assigned a dedicated military Physical Evaluation Board Liaison Officer (PEBLO) and a VA Military Services Coordinator (MSC) to assist and advise). [More info here](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/752).
 
 **Fast tracker**
@@ -24,18 +24,19 @@ High-need, low-income Veterans struggling with addiction, homelessness, incarcer
 
 **Forging ahead**
 Resilient, self-sufficient Veterans who have life-planning and health needs related to mental, physical, and/or sexual trauma
-- Users can complete Form 21-0781, Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder, within the 526 flow
+- Users can complete Form 21-0781, Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder, within the 526 flow ([PTSD flow is documented here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/526-overall-flow.md))
 
 **Proud patriot**
 Veterans, often low-income or in poor health, who identify as Veterans and have positive feelings about VA’s comprehensive care
-
+- Veterans who receive retirement pay must indicate this pay in 526. These vets may worry about reduced pay as a result of disability compensation.
 
 **In transition**
 Veterans separated from service, but still strongly connected to military friends and culture and not yet on a firm civilian footing
+- Veterans who receive separation and/or training pay must indicate this pay in 526.
 - Fellow veterans may support users in understanding how to best complete the 526, including advising them to work or to not work with a VSO instead of self-service via va.gov or paper
 
 **Unaffiliated**
 Veterans who have little interaction with, awareness of, or interest in VA services or Veteran issues
-
+- Veterans who do not use VA medical centers can upload private medical records in 526, complete Form 21-4142 Authorization to Disclose Information to the VA, and upload Form 21-4142a General Release for Medical Provider Information to VA
 
 
