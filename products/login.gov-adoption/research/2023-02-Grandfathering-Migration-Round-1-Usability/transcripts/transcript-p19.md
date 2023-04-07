@@ -1,6 +1,6 @@
 # Participant 19
 
-- Date: Thursday, April 6th
+- Date: Thursday, April 6
 - Time: 2-3pm
 - Moderator: Tyler Gindraux
 
