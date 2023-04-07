@@ -2,18 +2,21 @@
 
 ## Background
 After Visit Summaries (AVS) serve many purposes*, including:
--	Promote patient-center, outpatient care
+-	Promote patient-centered, outpatient care
 -	Summarize medications, appointments, tests, patient education material and other instructions
 -	Enhance communication
 -	Engage patients in their care
 -	Improve recall of medical instructions
 -	Meet electronic health record Meaningful Use criteria
+
 Within VA today, Veterans at certain clinics are handed a printed AVS when leaving their appointment, providers can review an AVS with them during their appointment from CPRS, and select Veterans can view a PDF version of AVS on My HealtheVet. Now, we want to create an AVS experience on VA.gov. 
 
 Past user research on [the existing PDF AVS]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/research/AVS%20UT%20presentation%20%209-15-16%20final.pdf), helpdesk feedback on MHV legacy’s AVS, health apartment discovery studies that included AVS, and medical journal articles were reviewed to understand:
 -	Veteran expectations on what constitutes an AVS
 -	AVS’s value to a Veteran
+
 *Purposes copied from [AVS User Guide]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/0eebafe247417bf1249b8b1917a69d180ccf69fe/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/After-Visit-Summary-User%20Guide-1.2.pdf)
+
 ### OCTO Objectives
 This research supports the following OCTO objectives: 
 1. Veterans can manage their health services online
@@ -55,9 +58,7 @@ _Hypothesis 3:_ Some Veterans and Caregivers will use different terms than those
 
 _Hypothesis 4:_ Some Veterans and Caregivers will not understand all of the medical terms without support. 
 
-_Hypothesis 5:_ Some Veterans and Caregivers will not understand all of the medical terms without support. 
-
-_Hypothesis 6:_ Some Veterans and Caregivers will have clear insights into what notifications and information within each notification would be beneficial to them.
+_Hypothesis 5:_ Some Veterans and Caregivers will have clear insights into what notifications and information within each notification would be beneficial to them.
 
 ## Method
 
