@@ -1,6 +1,6 @@
 # My VA Audit UX Improvements: Launch Readiness Checklist
 
-### Launch Go / No Go | mm/dd/yyyy
+### Launch Go / No Go | 04/07/2023
 
 ## Decision: Good to go 
 
