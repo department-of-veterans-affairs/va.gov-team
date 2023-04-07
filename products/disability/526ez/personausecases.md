@@ -37,6 +37,6 @@ Veterans separated from service, but still strongly connected to military friend
 
 **Unaffiliated**
 Veterans who have little interaction with, awareness of, or interest in VA services or Veteran issues
-- Veterans who do not use VA medical centers can upload private medical records in 526, complete Form 21-4142 Authorization to Disclose Information to the VA, and upload Form 21-4142a General Release for Medical Provider Information to VA
+- Veterans who do not use VA medical centers can reference private medical records in 526. They can indicate they want the VA to get the records (and subsequently complete Form 21-4142 Authorization to Disclose Information to the VA), or they can indicate they want to upload evidence themselves (this includes an option to also upload Form 21-4142a General Release for Medical Provider Information to VA). They can also upload either/both of these forms if they indicate they have supporting/other evidence they want VA to review.
 
 
