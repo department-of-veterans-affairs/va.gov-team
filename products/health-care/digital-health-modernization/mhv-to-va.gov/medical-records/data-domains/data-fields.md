@@ -78,7 +78,8 @@ Lab and test results include the following information
 |Microbiology|Date collected|Date collected |_None_|
 |Microbiology|Date completed|Date completed |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
 |Microbiology|Results| Results |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|
-|Microbiology|Site/specimen| Sample tested |_None_|
+|Microbiology|Site/specimen| Sample from|_None_|May reference a structure; e.g., FOOT or a substance; e.g., BLOOD VENOUS|
+|Microbiology|Collection sample| Sample tested |_None_|Examples: URINE or SWAB|
 |Microbiology|Ordering provider|Ordered by |_None_|
 |Microbiology|Ordering location|Ordering location|_None_|
 |Microbiology|Collected location|Collecting location |_None_|
