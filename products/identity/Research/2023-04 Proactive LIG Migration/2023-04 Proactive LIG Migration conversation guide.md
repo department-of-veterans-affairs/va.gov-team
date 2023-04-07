@@ -33,7 +33,7 @@
 - Make sure everyone is muted except moderator (me) and the participant
 - Mute your Slack notifications.
 
-**Starting the Session**
+## Starting the Session
 
 - If the participant doesn't show up in the first few minutes, reach out to Perigean on Slack.
 - Have your camera on
@@ -179,7 +179,7 @@ I just sent a link in the zoom chat, do you see it?
 Hopefully this looks familiar like what you would see on VA.gov. 
 So let's say you were going to sign into your account to [PRIOR MENTIONED TASK or “refill a prescription”].
 
-- If this popped up at here while you were actually signing in, what would you do next? 
+- If this popped up here while you were actually signing in, what would you do next? 
    - [PROMPT: maybe close it right away? Or read through it?]
    - [IF READ] How closely do you usually read a pop up like this?
 - [IF NOT CLOSE right away] Does anything catch your attention immediately here?
