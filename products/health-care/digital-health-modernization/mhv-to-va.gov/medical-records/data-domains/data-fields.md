@@ -125,11 +125,11 @@ Lab and test results include the following information
 |VA Note|Last updated|Last updated|
 |VA Note|Note|Provider notes|
 |Admission & Discharge Summary|Admission and discharge summary|
-|Admission & Discharge Summary|Admission date|
+|Admission & Discharge Summary|Admission date|Admission date|
 |Admission & Discharge Summary|Location|Location|
-|Admission & Discharge Summary|Admitting physician|Admitting provider|
-|Admission & Discharge Summary|Discharge date|Discharge date (date you left the hospital)|
-|Admission & Discharge Summary|Discharge physician|Discharging provider|
+|Admission & Discharge Summary|Admitting physician|Admission provider|
+|Admission & Discharge Summary|Discharge date|Discharge date|
+|Admission & Discharge Summary|Discharge physician|Discharge provider|
 |Admission & Discharge Summary|Last updated|Last updated|
 |Admission & Discharge Summary|Discharge summary|Discharge summary||
 
