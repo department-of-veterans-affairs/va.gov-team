@@ -187,14 +187,14 @@ Note: USCDI also includes 3 vitals for babies and children: BMI (2-20 years), we
 
 |Vital sign       | Suggested label           | USCDI v1 data element mapping | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
-|Blood pressure |Blood pressure |[Systolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/836/uscdi-v1)<br>[Diastolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/831/uscdi-v1)||USCDI has separate elements for systolic and diastolic. Do we receive BP data as 1 field or 2?|
-|Respiration|Breathing rate|[Respiratory rate](https://www.healthit.gov/isa/taxonomy/term/856/uscdi-v1)| | |
-|Pulse rate|Heart rate|[Heart rate](https://www.healthit.gov/isa/taxonomy/term/851/uscdi-v1)|
+|Blood pressure |Blood pressure |[Systolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/836/uscdi-v1)<br>[Diastolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/831/uscdi-v1)|Noting we're suggesting no units on BP — 2 numbers separated by a slash is the most familiar way to present this data|USCDI has separate elements for systolic and diastolic. Do we receive BP data as 1 field or 2?|
+|Respiration|Breathing rate|[Respiratory rate](https://www.healthit.gov/isa/taxonomy/term/856/uscdi-v1)|Suggested units label "breaths per minute"| |
+|Pulse rate|Heart rate|[Heart rate](https://www.healthit.gov/isa/taxonomy/term/851/uscdi-v1)|Suggested units label "beats per minute"|
 |Temperature |Temperature |[Body temperature](https://www.healthit.gov/isa/taxonomy/term/861/uscdi-v1)| | |
-|Height|Height|[Body height](https://www.healthit.gov/isa/taxonomy/term/841/uscdi-v1)| | |
-|Weight |Weight |[Body weight](https://www.healthit.gov/isa/taxonomy/term/846/uscdi-v1)| | |
+|Height|Height|[Body height](https://www.healthit.gov/isa/taxonomy/term/841/uscdi-v1)|Suggested units label "X feet, X inches" | |
+|Weight |Weight |[Body weight](https://www.healthit.gov/isa/taxonomy/term/846/uscdi-v1)|Suggested units label "pounds" | |
 |Pulse oximetry |Blood oxygen level |[Pulse oximetry](https://www.healthit.gov/isa/taxonomy/term/866/uscdi-v1)| | |
-|Pain|Pain level|_None_|
+|Pain|Pain level|_None_||Is pain always on a scale of 1 to 10? <br> Can we offer more detail about what the pain level refers to? Is it the patient's overall perceived level of pain at the moment?|
 | | |[Inhaled oxygen concentration](https://www.healthit.gov/isa/taxonomy/term/871/uscdi-v1)|Not currently included in MHV | |
 | | |BMI Percentile (2-20 years)|Not currently included in MHV | |
 |||Weight-for-length Percentile (Birth - 36 Months)|Not currently included in MHV | |
@@ -209,9 +209,9 @@ Note: USCDI also includes 3 vitals for babies and children: BMI (2-20 years), we
 
 |Data field       | Suggested label | USCDI v1 data element mapping | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
-|Measurement ||[List of vital signs](https://www.healthit.gov/isa/uscdi-data-class/vital-signs#uscdi-v1) |Each vital sign listed includes both the vital sign and specification for measurement|
+|Measurement |Result|[List of vital signs](https://www.healthit.gov/isa/uscdi-data-class/vital-signs#uscdi-v1) |Each vital sign listed includes both the vital sign and specification for measurement|
 |Date/time collected|Date|[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
-|Location|| |
+|Location||Location|
 |Comments |Provider notes||
 
 
