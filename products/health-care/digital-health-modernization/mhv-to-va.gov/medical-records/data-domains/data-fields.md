@@ -118,20 +118,20 @@ Lab and test results include the following information
 |:----------------------|:--------------------|:------------------|:------------------|:--------------------|
 |VA Note|Title|
 |VA Note|Date and time|_Need more info_||If "Date and time signed" is a different field, what is this date and time?|
-|VA Note|Location|
-|VA Note|Signed by|
-|VA Note|Co-signed by|
-|VA Note|Date and time signed|
-|VA Note|Last updated|
+|VA Note|Location|Location|
+|VA Note|Signed by|Signed by|
+|VA Note|Co-signed by|Co-signed by|
+|VA Note|Date and time signed|Date and time signed|
+|VA Note|Last updated|Last updated|
 |VA Note|Note|Provider notes|
-|Admission & Discharge Summary|
+|Admission & Discharge Summary|Admission and discharge summary|
 |Admission & Discharge Summary|Admission date|
 |Admission & Discharge Summary|Location|Location|
-|Admission & Discharge Summary|Admitting physician|Provider who admitted you|
-|Admission & Discharge Summary|Discharge date|
-|Admission & Discharge Summary|Discharge physician|Provider who discharged you|
-|Admission & Discharge Summary|Last updated|
-|Admission & Discharge Summary|Discharge summary|
+|Admission & Discharge Summary|Admitting physician|Admitting provider|
+|Admission & Discharge Summary|Discharge date|Discharge date (date you left the hospital)|
+|Admission & Discharge Summary|Discharge physician|Discharging provider|
+|Admission & Discharge Summary|Last updated|Last updated|
+|Admission & Discharge Summary|Discharge summary|Discharge summary||
 
 ### Vaccines
 
