@@ -6,7 +6,10 @@ Veterans use this list to get a quick understanding of their upcoming appointmen
 
 ## User stories
 
-As a Veteran, I want an overview of my health care appointments so I can plan my day.
+- As a Veteran, I want an overview of my health care appointments so I can plan my day.
+- As a Veteran, I want to be able to schedule new health care appointments online so I can save time.
+- As a Veteran, I want to be able to easily find my past appointments so I can review my history when planning new appointments.
+- As a Veteran, I want to be able to easily find any appointments I've requested so I can follow up if they haven't been scheduled.
 
 ## Requirements
 
@@ -24,15 +27,58 @@ As a Veteran, I want an overview of my health care appointments so I can plan my
 [Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/homepage.md#appointment-list-cards)
 
 ## Metrics
+<!--Goals for this feature, and how we track them through analytics-->
 
-[Goals we track, and how we track them through analytics]
+- Goal 1
+- Goal 2
 
-## Alerts and dead ends
+**Events tracked**
+<!-- Descriptions of events tracked on this page to meet those goals -->
 
-[Alert UI/content, how they're triggered, and how we handle them]
+- `vaos-get-future-appointments-failed`
+- `vaos-get-future-appointments-retrieved`
+- `vaos-get-future-appointments-started`
+
+- `vaos-status-past-link-clicked`
+- `vaos-status-pending-link-clicked`
+
+- `vaos-schedule-new-appointment-started`
+- `vaos-schedule-appointment-button-clicked`
+- `vaos-direct-path-started`
+
+[All events VAOS tracks](Link TBD)
+
+## Alerts and other states
+<!-- Any alerts that could display for this feature and what triggers them. -->
+
+See also: [VAOS app alerts](Link TBD)
+
+### Empty state
+<!-- Add a new section for each alert -->
+
+**Alert trigger**
+Veteran doesn't have any upcoming appointments
+
+**Alert UI**
+- [User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2085-20069&t=lasCaTGBEErIAfm4-4)
+- [Page template](Add link)
+- [Page content](Add link)
+
+### Generic alert
+<!-- Add a new section for each alert -->
+
+**Alert trigger**
+Generic error when appointment list can't be displayed due to:
+- FE bug causing errors
+- Response error in backend services
+
+**Alert UI**
+- [User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2251-20039&t=lasCaTGBEErIAfm4-4)
+- [Page template](Add link)
+- [Page content](Add link)
 
 ## Technical design
-[Endpoints and sample responses]
+<!-- Endpoints and sample responses -->
 
 **Staging URL:** https://staging.va.gov/health-care/schedule-view-va-appointments/appointments
 
@@ -190,7 +236,7 @@ To see the current api responses:
 </details>
 
 ## Development testing
-[Unit tests, API tests]
+<!-- Unit tests, API tests -->
 
 ### Get appointments call
 
