@@ -4,11 +4,11 @@ Comparison of section labels are found on a different [GitHub](https://github.co
 
 ## [Allergies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/allergies/allergies-brief.md)
 
-| Data Field | MHV on VA.gov | AVS | RPC |
+| Data Field | MHV on VA.gov | AVS | Vista Field |
 |:-----------|:---------|:---------|:----|
-| Allergy name | Yes | Yes | `ORQQAL LIST` |
+| Allergy name | Yes | Yes | [PATIENT ALLERGIES](https://vivian.worldvista.org/dox/Global_XkdNUigxMjAuOA==.html) -> REACTANT |
 | Date entered | Yes | No ||
-| Severity | Yes | No ||
+| Severity | Yes | No | [PATIENT ALLERGIES](https://vivian.worldvista.org/dox/Global_XkdNUigxMjAuOA==.html) -> HISTORICAL SEVERITY |
 | Allergy type | Yes | No ||
 | VA drug class | Yes | No ||
 | Reaction | Yes | Yes ||
