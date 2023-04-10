@@ -1,26 +1,55 @@
 # Sprint goals for Benefits Disability Experience Team 
-## Sprint 2
-Period - 03/292023 - 04/11/2023
+## Sprint 3
+Period - 04/12/2023 - 04/25/2023
 ### Sprint goals
-- [ ] Expedited
-   - [ ] Discovery and iterative plan for adding Self-Assessment Part A to BDD 526 claims
-- [ ] Non-negotiable
-   - [ ] React component deprecation 
-        - [ ] Technical Discovery for a migration plan 
-   - [ ] eVSS to Lighthouse Migration 
-        - [ ] BRD endpoint 
+- **Expedited**
+   - [ ] Content and Design changes for adding Self-Assessment Part A to BDD 526 claims
+- **Non-negotiable**
+   - React component deprecation 
+        - [ ] Migration for OMB component 
+   - eVSS to Lighthouse Migration 
+        - rated disailities endpoint
+            - [ ] Testing in staging environment  
+        - Intent to File endpoint 
+            - [ ] Technical Discovery 
+        - Submit endpoint
+            - [ ] Technical Discovery 
+        - 526 workflow 
+            - [ ] Technical Discovery for any other endpoint not yet identified
+ - **Features**
+   - Error messaging/validation 
+      - [ ] Complete Discovery
+      - [ ] Start content changes for existing errors and validation messages
+   - 526ez current with paper form
+      - [ ] Content only changes
+   - Landing page changes
+      - [ ] Research proposal
+
+## Sprint 2
+Period - 03/29/2023 - 04/11/2023
+### Sprint goals
+- Expedited
+   - [x] Discovery and iterative plan for adding Self-Assessment Part A to BDD 526 claims
+- Non-negotiable
+   - React component deprecation 
+        - [x] Technical Discovery for a migration plan 
+   - eVSS to Lighthouse Migration 
+        - BRD endpoint -> **pulled back from sprint as Cole is OOO**
             - [ ] Technical Discovery - Relationship between PCIU Address and BRD
             - [ ] Continue migration work 
-        - [ ] rated disailities endpoint
+        - rated disailities endpoint
             - [ ] Complete migration work - from sprint 1 
-        - [ ] Intent to File endpoint 
+        - Intent to File endpoint 
             - [ ] Technical Discovery 
-        - [ ] Common API Migration
-            - [ ] Technical Discovery 
- - [ ] Features 
+        - [x] Common API Migration
+            - [x] Technical Discovery 
+            - No migration work required for 526ez flow
+ - Features 
    - [ ] Synthesis of call center feedback submitting claims using for 526ez form
    - [ ] Discovery for error messaging/validation
-   - [ ] Epic-stories breakdown for prioritized ideas
+   - [x] Epic-stories breakdown for prioritized ideas
+      - Started entering stories in the product backlog
+      - This will be work in progress 
 
 ## Sprint 1
 Period - 03/15/2023 - 03/28/2023
