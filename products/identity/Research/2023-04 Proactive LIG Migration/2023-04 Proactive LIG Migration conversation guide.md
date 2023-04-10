@@ -177,7 +177,7 @@ So let's say you were going to sign into your account to [PRIOR MENTIONED TASK o
    - Is getting a new account something you would consider doing after reading this?
    - Thinking about your If this came up again the next time you logged in, what would you do?
 
-**Design option with only LIG**
+#### Design option with only LIG
 - How do you feel about this information?
    - How likely are you to take the action listed here?
    - How do you feel about this account option listed?
@@ -186,7 +186,7 @@ So let's say you were going to sign into your account to [PRIOR MENTIONED TASK o
 - If instead of showing one account option here, if instead we said something like “The VA has two account options that meet our security standards” and showed you both choices, what would you think?
    - How would you choose which to go with?
 
-**Design option with only LIG + IDme**
+#### Design option with only LIG + IDme
 - How do you feel about this information?
    - How likely are you to take the action listed here?
    - How do you feel about the account options listed?
