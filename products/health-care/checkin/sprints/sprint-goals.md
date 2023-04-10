@@ -2,10 +2,11 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Backend [BE]  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Frontend [FE]  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) User Experience [UX]
+![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Backend [BE]  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Frontend [FE]  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) User Experience [UX] ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) Product
 
 ## 4/19/2023 - 5/2/2023 ------------ FUTURE / TENTATIVE ---------------------
 #### SPRINT GOALS
+- **GOAL: Knowledge Transfer for CHIP & LoROTA API**
 - **GOAL: Make submission of a travel reimbursement claim easier**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
@@ -15,21 +16,35 @@ ________________________________________________________________________________
 - None
 
 #### SPRINT TICKETS
+- **GOAL: Knowledge Transfer for CHIP & LoROTA API**
+    - [[FE] [BE] Knowledge Transfer for CHIP & LoROTA APIs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56628)
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
-      - [Send Veteran an SMS Text with Travel Claim Submission Success/Failure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55874)
+      - **Implement Text Solution**
+         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] VANotify - Add text templates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55878)
+         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] vets-api: Update configs to store template info](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55879)
+      - **Prepare for Release**
+         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56613)
+         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56556)
+         - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [[Product] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56614)
+         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Recheck GA Events due to text solution change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53966)
+         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Schedule staging review
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
+    - **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**   
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] SPIKE: Determine how we could do a quick study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55903)
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Update All Posters to the New Design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55832)
+   - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Address or implement feedback from sitewide content review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56182)
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Conduct Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56624)
+   - **Sub Goal: Analyze current metrics to see what they tell us**
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56626)
    - **Sub Goal: [Send to Check-in when Pre-Check-in link is accessed inside check-in window](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)**
        - PAUSED: We will pause as we need BE folks to focus on Travel    
   - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)**
       - PAUSED: We will finish this work after the VAOS work is released and monitored for a period of time
    - **Sub Goal: [Send Check-in Text 45 Minutes Before Appointment to encourage use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)**
-      - PAUSED: We have a meeting with the VeText folks on 4/3 to discuss their part
-   - **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**      -
-   - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
-   - **Sub Goal: Analyze current metrics to see what they tell us**
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
-       - [![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55830)
+      - PAUSED: We have a meeting with the VeText folks on 4/3 to discuss their part  
 - **GOAL: Address tech & design debt**  
 
 ------------ END FUTURE / TENTATIVE ---------------------
