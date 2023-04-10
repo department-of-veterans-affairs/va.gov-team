@@ -10,8 +10,6 @@
 
 The current navigation and Information Architecture of the app were created as needed as part of the MVP and initial following features. In order to properly scale the app over time, we want to ensure we put thought into the way the app is organized. Through research with Veterans, we have determined a way of organizing the app to achieve the following goals:
 
-
-
 * Make moving within the app and finding specific content easier and simpler
 * Allow for easier app scaling for future features
 * Create a better space to add personalized content in the future, such as a more robust Homepage
