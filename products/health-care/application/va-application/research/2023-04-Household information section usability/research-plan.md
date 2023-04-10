@@ -1,7 +1,7 @@
 # Research Plan for [1010 Team, 10-10EZ, Household financial information section usability/UAT]
 
 ## Background
-The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. The household information section/step has been observed as a section of the applicaiton with high drop-off rates and being a pain point in research, resulting in this section being a focus of a recent optimization effort ([Epic #41403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41403). 
+The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. The household information section/step has been observed as a section of the applicaiton with high drop-off rates and being a pain point in research, resulting in this section being a focus of a recent optimization effort ([Epic #41403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41403)). 
 
 The household information section includes questions on:
 - Financial disclosure
@@ -10,7 +10,7 @@ The household information section includes questions on:
 - Annual income
 - Deductible expenses
 
-This optimization effort has gone through colloboration cycle (ticket number link) and this study will happen post-staging review. This research study is focusing on an iteration of one specific section - the household financial information - including the ability to add multiple dependents using the new experimental pattern (and components) for mutliple responses. 
+This optimization effort has gone through [colloboration cycle](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47766) and this study will happen post-staging review. This research study is focusing on an iteration of one specific section - the household financial information - including the ability to add multiple dependents using the new experimental pattern (and components) for mutliple responses with a multi-page response. 
 
 We will focus on testing for the following use cases during this study: 
 - Applicant is married with 2 dependents.
@@ -85,12 +85,11 @@ These learnings will allow us to evaluate for additional gaps prior to launching
 
 
 ### Hypothesis
-
-- Users will easily be able to add multiple dependents and move through the pages of questions.
-- Users will appreciate the confirmation when destructive actions - such as remove or cancel - are initiated. (modals)
-- Users will call out the edit flow for dependents as they have to go through all the pages and can't direcly edit, would suggest they would appreciate a more direct route to edit. 
+- Partipants will easily be able to add multiple dependents and move through the pages of questions.
+- Partipants will appreciate the confirmation when destructive actions - such as remove or cancel - are initiated. (modals)
+- Partipants will call out the edit flow for dependents as they have to go through all the pages and can't direcly edit, would suggest they would appreciate a more direct route to edit. 
 - The onboarding/documents page is well received as being clear and informational leading to a more positive perception about sharing this information.
-- The content helps the user answer questions confidently and accuratley. 
+- The content helps the participant answer questions confidently and accuratley. 
 
 
 
@@ -107,12 +106,10 @@ Remote, moderated via Zoom.
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-04-Household%20information%20section%20usability/conversation-guide.md)
 - [Link to staging (once development / staging review complete)](url goes here)
-
+- [Link to recruitment ticket](url here)
 	
 ## Recruitment	
 
@@ -130,6 +127,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 - All must have a disability rating of 40% or below 
 - All must currently or in the past claimed dependents (on their tax returns?)
+
 
 - At least **4 out of the 12 completed sessions** are with a screen reader
 - At least **4 out of the 12** are mobile users
