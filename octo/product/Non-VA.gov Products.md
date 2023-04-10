@@ -1,5 +1,5 @@
 ## Overview
-This list comprises products that are not built on VA.gov, but provide value in terms of research and design. It provides a way for team members and OCTO Stakeholders to view the data currently associated with these products and serves as a reference for identifying what data needs to be updated. If you see any errors that need to be fixed, changes to these fields can be made by reaching out in the #product-operations Slack channel. 
+This list comprises products that are not built on VA.gov, but provide value in terms of research and design. It provides a way for team members and OCTO Stakeholders to view the data currently associated with these products and serves as a reference for identifying what data needs to be updated. If you see any errors that need to be fixed, changes to these fields can be made by reaching out in the #product Slack channel. 
 
 *Looking for a list of Veteran Facing Service (VFS) Products? Please visit [here](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory)* 
 
