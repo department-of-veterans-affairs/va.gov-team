@@ -1,7 +1,7 @@
 # Research Plan for [1010 Team, 10-10EZ, Household financial information section usability/UAT]
 
 ## Background
-The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. The household information section/step has been observed as a section of the applicaiton with high drop-off rates and being a pain point in research, resulting it this section being a focus of a recent optimization effort (Epic # ). 
+The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. The household information section/step has been observed as a section of the applicaiton with high drop-off rates and being a pain point in research, resulting in this section being a focus of a recent optimization effort ([Epic #41403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41403). 
 
 The household information section includes questions on:
 - Financial disclosure
