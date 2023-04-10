@@ -2,7 +2,7 @@
 The product operations directory contains standards, templates, and other resources specific to the product management discipline that help teams maintain high-quality product development practices. Below are links to the documents we're been working on and will be updated accordingly. 
 
 
-Any questions, please visit our #product-operations channel on Slack or [OCTOPUS Product CoP Page](https://dvagov.sharepoint.com/sites/oitocto1/SitePages/Product-CoP.aspx?csf=1&web=1&e=j1AmHz)
+Any questions, please visit our #product channel on Slack (starting on April 14th) or [OCTOPUS Product CoP Page](https://dvagov.sharepoint.com/sites/oitocto1/SitePages/Product-CoP.aspx?csf=1&web=1&e=j1AmHz)
 
 
 ## Content
