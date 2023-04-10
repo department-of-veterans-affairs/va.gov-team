@@ -16,6 +16,7 @@
 ## Monday, March 27, 2023
 
 Standing Topics: 
+* where are you keeping this number? Tuesday morning we may have an answer
 
 Open Data Model Needs:
 *     update data model and send dummy payload 
