@@ -6,9 +6,8 @@ Nearly 40% of all traffic to VA.gov comes from users on their mobile devices. Th
 ## Team
 
 ### VA Product Owners
-- Chris Johnston
 - Rachel Han
-- Martha Wilkes (part time design and accessibility)
+- Ryan Thurlwell (Design)
 
 ### Program Management
 - Seth Eheart - Program Manager
