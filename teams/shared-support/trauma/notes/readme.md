@@ -1,3 +1,8 @@
+## [April 3, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-03-20.md)
+`Big Meeting` `Strategy` `Community Guidelines`
+- Discussed how to push for trauma-informed work as contractors against the inertia of non-trauma informed practices
+- Figured out next steps for determining our community guidelines
+
 ## [March 20, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-03-20.md)
 `Big Meeting` `Strategy` `Community Guidelines`
 - Talked about how to maintain and protect our community guidelines and people
