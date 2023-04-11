@@ -143,6 +143,9 @@ Please return to the Labs and test results page.
 
 ## **Second Task: Lab and test results: Radiology + images - 5 minutes**
 
+For part of this task, there will be x-rays on the screen. This may be triggering for some and we want to be mindful of your comfort. Are you comfortable viewing x-rays?
+_[if no]_ Thank you for letting me know. We will skip that part.
+
 - Can you describe to me what is on this page?
 - Is this how you would expect the labs and test results to be listed?
   - _[if no]_ What would be more helpful?
