@@ -10,7 +10,7 @@ During the transition of MHV products to VA.gov, there will be a period where MH
 
 There are already systems external to VA.gov that serve as systems of record for certain information about Veterans. Many of these are listed on the ["External Integrations" page of the Platform docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations). One such system is Master Person Index (MPI), which is "authoritative identity service within the VA, establishing, maintaining and synchronizing identities for VA clients, Veterans and beneficiaries."
 
-Another external system is called "VA Profile" (formerly Vet360), and not to be confused with [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md).
+Another external system is called "VA Profile" (formerly Vet360), and not to be confused with [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md). [Here is an explanation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile#is-va-profile-the-same-thing-as-the-vagov-profile) of the difference between the two.
 
 ## Existing MHV Preferences
 
