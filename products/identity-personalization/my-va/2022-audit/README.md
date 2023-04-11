@@ -85,7 +85,8 @@ To mitigate each of the problems above, we plan to do the following:
 
 ## Measuring Success
 
-[Analytics how-to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/Product/audit-analytics-how-to.md)
+- [Analytics how-to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/Product/audit-analytics-how-to.md)
+- [My VA domo dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837)
 
 ### Objective: Provide greater consistency and simplification of My VA for users, regardless of where they are in their benefits journey.
 
