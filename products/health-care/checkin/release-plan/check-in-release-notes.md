@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 4/10/2023
+- Updated Pre-Check-in to hide the "What if I have questions about my appointment?" accordion when there is no clinic phone number available to display.
+    - [Ticket 56186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56186)
+
 ### 3/14/2023
 - Changes made to Pre-Check-in and eCheck-in to standardize how appointment information is displayed across Veteran-facing applications. Initially released to 20% of Veterans but will increase availability daily while monitoring usage metrics.
     - [Epic 49261](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/45315)
