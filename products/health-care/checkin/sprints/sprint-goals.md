@@ -31,15 +31,14 @@ ________________________________________________________________________________
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**   
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Update All Posters to the New Design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55832)
+          - NOTE: ask Stephen before we pull this is
         - Question: are we waiting for the study results before we make the poster changes?
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Address or implement feedback from sitewide content review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56182)
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Conduct Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56624)
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Set-up for Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56624)
   - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)**
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Add New Action Link Text to Abstract & Sketch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55572)
-      - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Update action link for pre-check-in A/B test top location](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54250)          
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52057)
-         - NOTE: only need to push product guides & sketch files to production
+      - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Update action link for pre-check-in A/B test top location](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54250) 
+        - NOTE: we will need to turn on FF w/ stepped increase in %                
    - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56626)
