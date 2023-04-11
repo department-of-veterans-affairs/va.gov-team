@@ -60,8 +60,9 @@ The OCTO audit will identify and create tickets to fix issues with these items f
 
 - [ ] Header levels are hierarchical
 - [ ] The page has no broken links
+- [ ] Link labels are clear with target (for external sites) and purpose
 - [ ] The intro paragraph has no more than 2 to 4 sentences and is within 200 to 400 characters with spaces
 - [ ] The content is free of ability-focused language
-- [ ] Content aligns with relevant content brief (create or update brief as needed)
+- [ ] Terms are consistent and content aligns with relevant content brief (create or update brief as needed)
 
 **Note:** Run and record grade level checks of each page for documentation. Flag any pages with higher than 8th grade scores (with no content prep) and put in backlog for further review.
