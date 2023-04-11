@@ -111,8 +111,8 @@ To mitigate each of the problems above, we plan to do the following:
 
 |KPI/metric|Baseline: <br />1 month pre-launch to 25% <br />(3/10/23 - 4/10/23)|1 month post-launch to 100% <br />(mm/dd/yy - mm/dd/yy)| 2 months post-launch to 100% <br />(mm/dd/yy - mm/dd/yy)|
 |----------|-------------|---------------|-------------------|
-|Search rank for "gi bill” or similar from My VA (whichever comes first)|TBD|TBD|TBD|
-|Search rank for "coe” or "certificate of eligibility" (whichever comes first)|TBD|TBD|TBD|
+|Search rank for "gi bill” or similar from My VA (whichever comes first)|#28 (282 instances)|TBD|TBD|
+|Search rank for "coe” or "certificate of eligibility" (whichever comes first)|#4 (970 instances)|TBD|TBD|
 
 **KPI: Establish baseline metrics for clicks into new links from My VA.**
 
