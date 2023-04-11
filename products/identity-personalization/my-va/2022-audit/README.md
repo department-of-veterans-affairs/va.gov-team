@@ -93,16 +93,16 @@ To mitigate each of the problems above, we plan to do the following:
 
 **KPI: We will see at least a 10% increase in key interactions on My VA, since each section now shows persistently.**
 
-|KPI/metric|Baseline: [One month pre-launch to 25%]|Post-launch: [One month post-launch to 100%]| Post-launch: [Second month post-launch to 100%]|
+|KPI/metric|Baseline: [One month pre-launch to 25%] (3/10/23 - 4/10/23)|Post-launch: [One month post-launch to 100%]| Post-launch: [Second month post-launch to 100%]|
 |----------|-------------|---------------|-------------------|
-|Clicks into "Manage all claims and appeals"|417,914|TBD|TBD|
-|Clicks into individual claims, "Review claim"|305,445|TBD|TBD|
+|Clicks into "Manage all claims and appeals"|437,862|TBD|TBD|
+|Clicks into individual claims, "Review claim"|319,878|TBD|TBD|
 |Clicks into "Learn how to file a claim"|Not applicable - new link to My VA|TBD|TBD|
 |Clicks into "Apply for VA health care"|Not applicable - new link to My VA|TBD|TBD|
-|Clicks into "Manage and schedule your appointments"|TBD|TBD|TBD|
-|Clicks into "Send a secure message to your health care team"|100,893|TBD|TBD|
-|Clicks into "Refill and track your prescriptions"|77,825|TBD|TBD|
-|Clicks into "Manage your VA debt"|25,830|TBD|TBD|
+|Clicks into "Schedule and manage your appointments"|16,606|TBD|TBD|
+|Clicks into "Send a secure message to your health care team"|105,359|TBD|TBD|
+|Clicks into "Refill and track your prescriptions"|80,919|TBD|TBD|
+|Clicks into "Manage your VA debt"|26,888|TBD|TBD|
 |Clicks into "Review your payment history"|1,492|TBD|TBD|
 
 **KPI: We will see a reduction in searches for terms related to new links added to My VA.**
