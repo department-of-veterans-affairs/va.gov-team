@@ -12,7 +12,11 @@ Lighthouse Team: Dash
 	    - `create_intent_to_file(itf_type)`
 -  intent_to_files_controller.rb  
     - uses a standard Rails controller, calls on the service's methods
-- All references to an Intent to File's `type` in 526ez seem to use "compensation". Other types would only be used by other forms.
+-  lib/evss/intent_to_file/intent_to_file_response.rb
+    - helps shape it for the front end to consume? 	
+-  lib/evss/intent_to_file/response_strategy.rb
+    - for communicaiton with Redis?
+-  All references to an Intent to File's `type` in 526ez seem to use "compensation". I presume other types are used by other forms.
 
 ### Basic structure of how `vets-api` is currently sending/recieving via EVSS:
 - `V0/IntentToFilesController#index`
