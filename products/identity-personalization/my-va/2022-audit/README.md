@@ -93,7 +93,7 @@ To mitigate each of the problems above, we plan to do the following:
 
 **KPI: We will see at least a 10% increase in key interactions on My VA, since each section now shows persistently.**
 
-|KPI/metric|Baseline: [One month pre-launch to 25%]  <br />(3/10/23 - 4/10/23)|Post-launch: [One month post-launch to 100%] <br />(mm/dd/yy - mm/dd/yy)| Post-launch: [Second month post-launch to 100%] <br />(mm/dd/yy - mm/dd/yy)|
+|KPI/metric|Baseline: [One month pre-launch to 25%]  <br />(3/10/23 - 4/10/23)|[One month post-launch to 100%] <br />(mm/dd/yy - mm/dd/yy)| [Second month post-launch to 100%] <br />(mm/dd/yy - mm/dd/yy)|
 |----------|-------------|---------------|-------------------|
 |Clicks into "Manage all claims and appeals"|437,862|TBD|TBD|
 |Clicks into individual claims, "Review claim"|319,878|TBD|TBD|
@@ -109,7 +109,7 @@ To mitigate each of the problems above, we plan to do the following:
 
 **Note**: Certificates of eligibility apply to both education benefits and home loans.
 
-|KPI/metric|Baseline: [One month pre-launch to 25%]|Post-launch: [One month post-launch to 100%]| Post-launch: [Second month post-launch to 100%]|
+|KPI/metric|Baseline: [One month pre-launch to 25%] <br />(3/10/23 - 4/10/23)|[One month post-launch to 100%] <br />(mm/dd/yy - mm/dd/yy)| Second month post-launch to 100%] <br />(mm/dd/yy - mm/dd/yy)|
 |----------|-------------|---------------|-------------------|
 |Search rank for "gi bill” or similar from My VA (whichever comes first)|TBD|TBD|TBD|
 |Search rank for "coe” or "certificate of eligibility" (whichever comes first)|TBD|TBD|TBD|
