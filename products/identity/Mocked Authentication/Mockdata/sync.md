@@ -12,6 +12,14 @@ The `mpi_mockdata` endpoint is used to retrieve user attributes from MPI by `icn
 ### API key
 The key is stored in parameter store -  `/dsva-vagov/vets-api/staging/mockdata_sync_api_key`
 
+#### Inject the api_key into the workflow:
+```yml
+- uses: marvinpinto/action-inject-ssm-secrets@v1.1.1
+  with:
+    ssm_parameter: /dsva-vagov/vets-api/staging/mockdata_sync_api_key
+    env_variable_name: MOCKDATA_API_KEY
+```
+
 ### Request
 `mpi/mockdata`
 
