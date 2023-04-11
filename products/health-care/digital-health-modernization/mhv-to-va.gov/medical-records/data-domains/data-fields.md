@@ -132,9 +132,9 @@ Lab and test results include the following information
 |Admission & Discharge Summary|Admission and discharge summary|
 |Admission & Discharge Summary|Admission date|Admission date|
 |Admission & Discharge Summary|Location|Location|
-|Admission & Discharge Summary|Admitting physician|Admitted by|
+|Admission & Discharge Summary|Admitting physician|Admitted by |
 |Admission & Discharge Summary|Discharge date|Discharge date|
-|Admission & Discharge Summary|Discharge physician|Discharged by|
+|Admission & Discharge Summary|Discharge physician|Discharged by |
 |Admission & Discharge Summary|Last updated|Last updated|
 |Admission & Discharge Summary|Discharge summary|Discharge summary||
 
