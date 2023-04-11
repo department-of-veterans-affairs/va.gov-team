@@ -61,7 +61,7 @@
 ### Planning:
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 25% | 04/10/2023 | _mm/dd/yyyy_ |
+| Launch to 25% | 04/10/2023 | _04/11/2023_ |
 | Launch to 50% | 04/17/2023 | _mm/dd/yyyy_|
 | Launch to 100% | 04/24/2023 | _1mm/dd/yyyy_ |
 
