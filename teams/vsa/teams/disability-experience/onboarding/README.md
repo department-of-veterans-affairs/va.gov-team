@@ -49,7 +49,7 @@
 |Discipline|Content|Location|Description|
 |----------|-------|--------|-----------|
 |All|Veteran personas|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf)||
-
+|All|Persona use cases for 526|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/personausecases.md)||
 
 ### Additional information 
 [Quick reference links on Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/quick-links.md)
