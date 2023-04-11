@@ -56,9 +56,9 @@ Before we start, I want to go over a few things:
 
 *Start recording to the cloud.*
 
-*Click Live Transcript and **Enable**, or Show Captions*. 
+*Click Live Transcript and **Enable**, or **Show Captions**.* 
 
-*Click Live Transcript > View Full Transcript*
+*Click **Live Transcript > View Full Transcript***
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
@@ -67,10 +67,10 @@ Before we start, I want to go over a few things:
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
-- Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" (phone) or your web browser.
+- Now I'd like you to share your screen with me. Tap on the green button that says **Share**. You will then see options for what to share. Please choose **"Screen"** (phone) or your web browser.
 - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
-- iPad: Broadcast screen
+- iPad: **Broadcast screen**
 
 - *Backup plan if they cannot figure out how to share screen:*
   - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
@@ -104,7 +104,7 @@ Let’s start with a few questions...
 
 
 ## User Tasks
-Now I'm going to ask you to do some things... 
+Now I'm going to ask you to do some things... ***Reassure if p nervous or says they feel dumb or embarrassed***
 
 ### Screen sharing
 I would like you to share your phone screen with me so that I can see what you do during this session. You might want to first close any apps that you don’t want me to see.
@@ -200,6 +200,7 @@ If your salary last year was around $90,000, what might that mean? *(RECORD)*
 How sure are you that these benefits *would apply* if your salary was around $90,000?
 
 - *(Could probe)* How certain are you that you *don't qualify for more benefits*? 
+- Is there anything that might change the income number that you use here? *(e.g., deductions)*
 
 What if your salary was around $100,000? *(RECORD)*
 
