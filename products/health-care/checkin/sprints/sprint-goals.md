@@ -9,7 +9,6 @@ ________________________________________________________________________________
 - **GOAL: Knowledge Transfer for CHIP & LoROTA API**
 - **GOAL: Make submission of a travel reimbursement claim easier**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
-- **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
 - **GOAL: Address tech & design debt** 
 
 #### PLANNED RELEASES 
@@ -31,24 +30,21 @@ ________________________________________________________________________________
          - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Schedule staging review
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**   
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] SPIKE: Determine how we could do a quick study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55903)
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Update All Posters to the New Design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55832)
+        - Question: are we waiting for the study results before we make the poster changes?
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Address or implement feedback from sitewide content review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56182)
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Conduct Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56624)
+  - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)**
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Add New Action Link Text to Abstract & Sketch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55572)
+      - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Update action link for pre-check-in A/B test top location](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54250)          
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52057)
+         - NOTE: only need to push product guides & sketch files to production
    - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56626)
-   - **Sub Goal: [Send to Check-in when Pre-Check-in link is accessed inside check-in window](https://app.zenhub.com/workspaces/pci-api-6149f6401b0b3c001219802f/issues/gh/department-of-veterans-affairs/chip/1330)**
-       - PAUSED: We will pause as we need BE folks to focus on Travel    
-  - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)**
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Add New Action Link Text to Abstract & Sketch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55572)
-      - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Update action link for pre-check-in A/B test top location](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54250)
-          - Question: do we still want to do this work in light of the fact that it will change agains with unified experience?
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52057)
-         - NOTE: only need to push product guides & sketch files to production
    - **Sub Goal: [Send Check-in Text 45 Minutes Before Appointment to encourage use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)**
-      - BLOCKED: Waiting on VeText team
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create Content for Text Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53569)
 - **GOAL: Address tech & design debt**  
 
 ------------ END FUTURE / TENTATIVE ---------------------
