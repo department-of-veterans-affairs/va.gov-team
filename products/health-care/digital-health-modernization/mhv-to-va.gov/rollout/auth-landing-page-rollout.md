@@ -17,58 +17,63 @@ The authenticated landing page will follow the phased rollout approach followed 
 
 ### Phase 0
 During this phase, a trusted group of existing MHV users will be granted access to the authenticated landing page in production and asked to complete a basic set of functionality tests.
-Entry criteria
-Page matches initial design
-Successful functional testing lower environments
-Access to page is fully gated
-Exit criteria
-Trusted users have completed functionality tests
-Issues encountered during functionality testing have been documented
-Implementation of analytical tools has been tested and validated
-Phase 1 
+#### Entry criteria
+- Page matches initial design
+- Successful functional testing lower environments
+- Access to page is fully gated
+#### Exit criteria
+- Trusted users have completed functionality tests
+- Issues encountered during functionality testing have been documented
+- Implementation of analytical tools has been tested and validated
+
+### Phase 1 
 The authenticated landing page is made available to a small increment of daily production traffic (1 – 5%, or <500 users per day). Individual sessions are monitored closely for errors and unexpected or unintended behavior.
-Entry criteria
-Issues identified in previous phase have been remediated or otherwise resolved
-All critical accessibility findings have been addressed 
-Explainer content is located on or linked from the page
-My HealtheVet Coordinators and Champions have been briefed
-Contact center documentation has been distributed
-Exit criteria
-At least 10,000 sessions have been observed
-Issues have been documented
-Qualitative moderated usability testing has started
-Product success metrics have been defined
-Phase 2
+#### Entry criteria
+- Issues identified in previous phase have been remediated or otherwise resolved
+- All critical accessibility findings have been addressed 
+- Explainer content is located on or linked from the page
+- My HealtheVet Coordinators and Champions have been briefed
+- Contact center documentation has been distributed
+#### Exit criteria
+- At least 10,000 sessions have been observed
+- Issues have been documented
+- Qualitative moderated usability testing has started
+- Product success metrics have been defined
+
+### Phase 2
 The authenticated landing page is made available to 10% of daily users (<3,000 users per day). 
-Entry criteria
+#### Entry criteria
 Issues identified in previous phase have been remediated or otherwise resolved
 Automated monitors and related alerts have been established
 Product success metrics have been implemented in a dashboard
-Exit criteria
+#### Exit criteria
 At least 50,000 additional sessions have been observed
 Issues have been documented
 Qualitative moderated usability testing has completed
-Phase 3
+
+### Phase 3
 The authenticated landing page is made available to 25% of daily users (<10,000 users per day).
-Entry criteria
+#### Entry criteria
 Issues identified in previous phase have been remediated or otherwise resolved
 Monitors have been updated, if applicable
 Recommendations derived from usability testing have been ticketed
-Exit criteria
+#### Exit criteria
 At least 100,000 additional sessions have been observed
 Issues have been documented
 Usability testing recommendations have been implemented or otherwise resolved
-Phase 4
+
+### Phase 4
 The authenticated landing page is made available to 50% of daily users (<20,000 users per day).
-Entry criteria
+#### Entry criteria
 Issues identified in previous phase have been remediated or otherwise resolved
 Monitors have been updated, if applicable
-Exit criteria
+#### Exit criteria
 At least 100,000 additional sessions have been observed
 Issues have been documented
-General availability
+
+### General availability
 The authenticated landing page is available to all users.
-Entry criteria
+### Entry criteria
 Issues identified in previous phase have been remediated or otherwise resolved
 Monitors have been updated, if applicable
 OCC and OCIO leadership approval
