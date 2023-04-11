@@ -42,9 +42,12 @@ ________________________________________________________________________________
    - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56626)
+   - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
+       - [[FE] Display Facility Address with Other Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132)
    - **Sub Goal: [Send Check-in Text 45 Minutes Before Appointment to encourage use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)**
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create Content for Text Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53569)
 - **GOAL: Address tech & design debt**  
+   - [[FE] Change alert content shown when Veteran is too early to check in within check in app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54511)
 
 ------------ END FUTURE / TENTATIVE ---------------------
 
@@ -79,6 +82,8 @@ ________________________________________________________________________________
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Design] Create New Design that Excludes the QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55833)
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
       - [Implement axe in CodePen (MVP)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56277)
+      - [[FE] Create Memorable Date Field for CodePen](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56671)
+        - NOTE: pulled in halfway through sprint
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964)  
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Finish CodePen prototype](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56144)  
       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Create Memorable Date Field for CodePen #56671](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56671)
