@@ -19,7 +19,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to web page:* **[bit.ly/3zuL4Be](https://www.figma.com/proto/pqSQOl4IodScHhobr0GkbD/Income-Limits-Prototype?page-id=201%3A1943&node-id=202-4360&viewport=1270%2C1287%2C0.36&scaling=min-zoom&starting-point-node-id=202%3A3001&hotspot-hints=0)**
+- *Open a standalone browser window to web page:* **[https://bit.ly/3zuL4Be](https://www.figma.com/proto/pqSQOl4IodScHhobr0GkbD/Income-Limits-Prototype?page-id=201%3A1943&node-id=202-4360&viewport=1270%2C1287%2C0.36&scaling=min-zoom&starting-point-node-id=202%3A3001&hotspot-hints=0)**
 - *Paste link into Slack so ready to paste into Zoom chat*
 
 - *Do Not Disturb ON so no notifications*
@@ -36,7 +36,7 @@ Thank you for joining us today! My name is Cindy. How are you doing today?
 
 I have a colleague with us in this session who will be taking notes. 
 
-There are a few of my teammates who would like to observe this session and take notes. **Would it be OK with you if I invited them to join us?**
+There are a few of my teammates who would like to observe this session as well. **Would it be OK with you if I invited them to join us?**
 - *(If yes, let them in--3-4 MAX. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
 
 - *(NOTETAKER & OBSERVERS JOIN w/cameras ON )* We have a few people from the team listening in today: there's [NAME] *(wave or say "hi")*, [NAME] *(wave or say "hi")*, etc. *(If I don't know the name of one of the observers, ask them to please turn on their camera and say their name aloud)*
@@ -120,6 +120,8 @@ I would like you to share your phone screen with me so that I can see what you d
 
 *if they have a VA pension, do they say that income limits don't apply to them? Y / N / ____________*
 
+I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. I'm looking for **your feedback**, including any issues that you see or questions that you have. 
+
 Can you show me how you would find out if you're eligible for VA health care with your current income?
 
 - *RECORD what they do: Google / VA.gov / words looking/searching for: _______________________*
@@ -128,11 +130,9 @@ Can you show me how you would find out if you're eligible for VA health care wit
 
 ### Task 2: [Open prototype] 
 
-I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom. It's a prototype that isn't very interactive, and so before clicking anywhere, I'd like you to tell me what you might do.
+I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom. It's a prototype that isn't very interactive–some things work, and many things do not. I'd like you to talk to me about what you want to do BEFORE you click anything.
 
-While you're looking at the prototype, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. I'm looking for **your feedback**, including any issues that you see or questions that you have. 
-
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **bit.ly/3zuL4Be**
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **https://bit.ly/3zuL4Be**
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
 Do you see the link? 
@@ -200,7 +200,7 @@ If your salary last year was around $90,000, what might that mean? *(RECORD)*
 How sure are you that these benefits *would apply* if your salary was around $90,000?
 
 - *(Could probe)* How certain are you that you *don't qualify for more benefits*? 
-- Is there anything that might change the income number that you use here? *(e.g., deductions)*
+- Is there anything that might affect the income number that you use here? *(e.g., deductions)*
 
 What if your salary was around $100,000? *(RECORD)*
 
