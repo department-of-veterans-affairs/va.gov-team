@@ -5,8 +5,6 @@ Period - 04/12/2023 - 04/25/2023
 - **Expedited**
    - [ ] Content and Design changes for adding Self-Assessment Part A to BDD 526 claims
 - **Non-negotiable**
-   - React component deprecation 
-        - [ ] Migration for OMB component 
    - eVSS to Lighthouse Migration - complete tech discovery 
         - rated disailities endpoint
             - [ ] Testing in staging environment  
@@ -16,14 +14,21 @@ Period - 04/12/2023 - 04/25/2023
             - [ ] Technical Discovery 
         - 526 workflow 
             - [ ] Technical Discovery for any other endpoint not yet identified
- - **Features**
+   - React component deprecation 
+        - [ ] Migration for OMB component 
+- **Features**
    - Error messaging/validation 
       - [ ] Complete Discovery
       - [ ] Start content changes for existing errors and validation messages
    - 526ez current with paper form
-      - [ ] Content only changes
+      - [ ] Design and Content changes for items not requiring research
    - Landing page changes
       - [ ] Research proposal
+   - [ ] Analytics
+      - [ ] Baseline measurement recommendations based on Medallia survey data synthesis
+      - [ ] Understanding Key metric calculations
+         - [ ] Number of sessions to complete
+         - [ ] Satisfaction ratings
 
 ## Sprint 2
 Period - 03/29/2023 - 04/11/2023
