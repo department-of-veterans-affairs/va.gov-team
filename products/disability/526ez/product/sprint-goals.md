@@ -7,7 +7,7 @@ Period - 04/12/2023 - 04/25/2023
 - **Non-negotiable**
    - React component deprecation 
         - [ ] Migration for OMB component 
-   - eVSS to Lighthouse Migration 
+   - eVSS to Lighthouse Migration - complete tech discovery 
         - rated disailities endpoint
             - [ ] Testing in staging environment  
         - Intent to File endpoint 
