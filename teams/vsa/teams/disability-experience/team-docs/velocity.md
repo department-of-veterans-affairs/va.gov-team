@@ -4,7 +4,7 @@ Velocity is used to help teams predict how much work can be accomplished during 
 
 | Sprint | Sprint Dates | Engineering | Design/Research | Total |
 | --- | --- | --- | --- | --- |
-| 2 | 3/29-4/11/23 | 13 | 8 | 21 |
+| 2 | 3/29-4/11/23 | 21 | 11 | 32 |
 | 1 | 3/15-3/28/23 | 11 | 12 | 23 |
 
 ##
