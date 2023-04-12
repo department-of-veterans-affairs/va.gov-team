@@ -38,3 +38,19 @@
 - After edits: NA
 
 - [X] Backlog ticket for further review created if needed
+
+## SME review
+
+### Tracking details
+
+- **SME** Paul Shute
+- **Date response received:** April 9, 2023
+
+### Responses
+
+- **Is all information on the page still accurate and timely? (If no, please note issues and we’ll work together to address)**
+  - **Response:** Yes, the information on this page is still accurate and timely. 
+- **Are there any gaps in information that Veterans or other beneficiaries need to know? (If yes, please note and we’ll work together to address)**
+  - **Response:** No, I’m not seeing any gaps that need to be addressed. 
+- **Are there any potential or known changes in a law, policy, regulation, or program that you think may result in needing to update this information within the next year? (If yes, please note change, related law/policy/regulation/program change, and estimated timing if possible. We’ll reach out to learn more about how we can best support the change.)**
+  - **Response:** No, there aren’t any changes to law, policy, regulation, or program change that should impact this content within the next year. 
