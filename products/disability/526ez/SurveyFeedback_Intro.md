@@ -4,7 +4,7 @@
 
 # 526 Qualitative Survey Feedback White Paper 
 
-- Data collectiond date: 
+- Data collection date: 
 - Number of total responses for Introduction/Start pages: 
 
 ---
