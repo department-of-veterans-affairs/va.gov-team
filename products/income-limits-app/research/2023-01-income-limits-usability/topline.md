@@ -17,24 +17,24 @@ The purpose of this research was to **get user feedback on the redesigned income
 
 ## Participants
 We talked to **8 Veterans**, one of whom was also a Veteran's family member (spouse). 
-- 6 of 8 used a smartphone during the session.
+- *Most (6 of 8) used a smartphone* during the session.
 - *None* of them had VA health care, a VA pension, or disability compensation of 50% or higher.
 
 
 ## Preliminary Findings
 ### Usability Successes
-1. All participants understood the purpose of the app--to find out if they might be eligible for VA health care based on their income before applying
-2. All participants found it easy to answer one question at a time (the subtask design pattern).
-4. All participants understood the income ranges and figured out which one to open.
-3. All participants used the *Continue* button without any hesitation, and some used the *Back* button, too (others didn't need to).
+1. All participants **understood the purpose of the app**--to find out if they might be eligible for VA health care based on their income before applying.
+2. All participants found it **easy to answer the questions**, which were posted one question at a time (the subtask design pattern).
+4. All participants **understood the income ranges** and figured out which one to open.
+3. All participants **used the *Continue* button without any hesitation**, and some used the *Back* button, too (others didn't need to).
 
 ### Usability Issues
-4. Participants found the landing page in the prototype ([Your health care costs](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) to be very long (especially on a phone) and found it difficult to locate the Income Limits link in it (which was in two places).
-3. Participants had different interpretations for the dependents question. Some said that they would enter what they put on their income taxes, and others remembered this information incorrectly or were thinking of the VA's definition of dependents, which includes your spouse.
-2. Most participants didn't open the "How to estimate your income for this tool" accordion and didn't mention any deductions. They simply used the salary number from the moderator to select an income range to open. 
-1. Participants found parts of the benefit descriptions under each income range to be unclear and had wanted more details (e.g., "most types of care", "full copays").
-2. Most participants believed the results they got from the app and weren't inclined to apply for health care if their income was in the highest bracket.
-3. Some participants had difficulty navigating back from the _results page_ to the _review information_ page.
+5. Participants found the **landing page** in the prototype [Your health care costs](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) to be **very long**--especially on a phone--and it was difficult to locate the Income Limits link in it (which was in two places).
+3. Participants had **different interpretations for the dependents question**. Some said that they would enter what they put on their income taxes, and others remembered this information incorrectly or were thinking of the VA's definition of dependents, which includes your spouse.
+2. Most participants **didn't open the "How to estimate your income for this tool"** accordion and didn't mention any deductions. They simply used the salary number from the moderator to select an income range to open. 
+1. Participants found **parts of the benefit descriptions under each income range to be unclear** and had wanted more details (e.g., "most types of care", "full copays").
+2. Most participants believed the results they got from the app and **weren't inclined to apply for health care** if their income was in the highest bracket.
+3. Some participants had **difficulty navigating back to the _Review information_ page** from the _Results page_.
 
 ## Next Steps
 - Synthesize data
