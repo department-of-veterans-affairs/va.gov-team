@@ -113,3 +113,7 @@ Creating a cohesive logged-in experience will:
 - TBD
 - Increase completion percentage of the sign in flow.
 - We can measure we have moved in the right direction by measuring logins on VA.gov, Success rate for MFA, CSP usage, and Login.gov adoption counts.
+
+
+
+## [#4 - In-person proofing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/in-person%20support/product-brief.md)
