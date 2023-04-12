@@ -7,10 +7,8 @@ Period - 04/12/2023 - 04/25/2023
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - complete tech discovery 
         - rated disailities endpoint
-            - [ ] Testing in staging environment  
+            - 
         - Intent to File endpoint 
-            - [ ] Technical Discovery 
-        - Submit endpoint
             - [ ] Technical Discovery 
         - 526 workflow 
             - [ ] Technical Discovery for any other endpoint not yet identified
@@ -42,15 +40,28 @@ Period - 03/29/2023 - 04/11/2023
         - BRD endpoint -> **pulled back from sprint as Cole is OOO**
             - [ ] Technical Discovery - Relationship between PCIU Address and BRD
             - [ ] Continue migration work 
+            - Cole was 
         - rated disailities endpoint
-            - [ ] Complete migration work - from sprint 1 
+             - [ ] Continue migration work  
+            - Successfully code complete to the best of our knowledge
+            - New ticket for testing in sandbox, staging and prod
+            - Working on getting credentials for the other environments - dependency on platform team
+            - Issues with LH 
         - Intent to File endpoint 
-            - [ ] Technical Discovery 
+            - [x] Technical Discovery 
+            - Discovery complete
+            - Identified 2 calls to evss, requires 2 new migration tickets
         - [x] Common API Migration
             - [x] Technical Discovery 
             - No migration work required for 526ez flow
  - Features 
    - [ ] Synthesis of call center feedback submitting claims using for 526ez form
+      - Over 700 responses
+      - Reviewed introduction and start page comments - about 400 responses
+      - Identification error - 
+         - 68 users when starting the form
+         - some users saw it close to ITF expiry team
+         - Created a ticket for discovery   
    - [ ] Discovery for error messaging/validation
    - [x] Epic-stories breakdown for prioritized ideas
       - Started entering stories in the product backlog
