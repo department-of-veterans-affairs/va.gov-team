@@ -18,7 +18,7 @@ Agenda
   -  UI Automation - Rachael Bontrager 
 -  Slides - [VA Mobile App Demo Slides March 30th.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11212441/VA.Mobile.App.Demo.Slides.March.30th.pdf)
 - Videos   
-  - Reddit API Scrraper - https://user-images.githubusercontent.com/116006847/231488541-f748f886-0ba7-4dcc-8af9-00b5c3135c43.mp4
+  - Reddit API Scraper - https://user-images.githubusercontent.com/116006847/231488541-f748f886-0ba7-4dcc-8af9-00b5c3135c43.mp4
   - Preferred Name and Gender - https://user-images.githubusercontent.com/116006847/231489712-6ef4e480-e691-4e8f-910b-97e8eac4caac.mp4
   - UI Automation - https://user-images.githubusercontent.com/116006847/231490369-c7040093-7af6-4f72-b834-f75641907902.mp4
 
