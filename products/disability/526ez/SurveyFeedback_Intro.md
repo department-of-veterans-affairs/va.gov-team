@@ -4,6 +4,7 @@
 
 # 526 Qualitative Survey Feedback White Paper 
 
+- Purpose: to summarize insights gained from written survey data captured from feedback survey on Introduction/Start pages by Contact Center and discover painpoints
 - Data collection date: 
 - Number of total responses for Introduction/Start pages: 
 
