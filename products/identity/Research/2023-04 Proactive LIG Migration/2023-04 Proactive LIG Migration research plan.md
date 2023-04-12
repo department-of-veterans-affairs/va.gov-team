@@ -1,6 +1,4 @@
-# WIP - the research plan template will be filled in as we plan 
-
-# Research Plan for Identity, Proactive Login.gov Migration, [Date]
+# Research Plan for Identity, Proactive Login.gov Migration, [2023-04]
  
 
 ## Background
@@ -8,7 +6,7 @@ There are currently multiple ways to sign in and access VA services. These Crede
 
 The pathway this research focuses on is to promote Organic Adoption of login.gov - encouraging veterans to migrate to a modern CSP now, ahead of sunsetting.
 
-[Link to product brief](url goes here) 
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/login.gov) 
 
 ### In scope for this research
 - verbiage for what veterans call a "verified account"
