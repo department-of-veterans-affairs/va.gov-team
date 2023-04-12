@@ -2,11 +2,9 @@
 
 ## Moderator logistics
 
-- Review VA Platform's Research Checklist.
+- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
 - Complete any project-specific setup tasks for this study (List them below)
-- Step 1
-- Step 2
-- Step 3
+   - Set up note-taking in Mural
 
 
 ### 10-15 min before session: 
