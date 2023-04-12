@@ -30,7 +30,9 @@ We talked to **8 Veterans**, one of whom was also a Veteran's family member (spo
 
 ### Usability Issues
 1. Participants found parts of the benefit descriptions under each income range to be unclear and had questions about them.
-2. Participants found the landing page in the prototype ([Your health care costs](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) to be very long (especially on a phone) and found it difficult to locate the Income Limits link in it (which was included in two places).
+2. Most participants didn't open the "How to estimate your income for this tool" accordion and didn't mention any deductions. They simply used the salary number from the moderator to select an income range to open. 
+3. Participants had different interpretations for the dependents question. Some said that they would enter what they put on their income taxes, and others remembered this incorrectly or perhaps were thinking of the VA's definition of dependents, which includes spouse.
+4. Participants found the landing page in the prototype ([Your health care costs](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) to be very long (especially on a phone) and found it difficult to locate the Income Limits link in it (which was included in two places).
 
 ## Next Steps
 - Synthesize data
