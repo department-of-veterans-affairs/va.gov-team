@@ -12,11 +12,11 @@
 
 ## Background
 
-There are currently multiple ways to sign in and access VA services. These sign in options don't all meet required security standards. Having so many also create user frustration and confusion. The goal is to migrate Veterans from legacy credential service providers (DS Logon and My HealtheVet) to [Login.gov](http://login.gov/). Discovery research by related teams defined several pathways for the migration.
+There are currently multiple ways to sign in and access VA services. These Credential Service Providers (CSPs) don't all meet required security standards. Having so many also frustrates and confuses users. The goal of this product is to migrate Veterans from legacy credential service providers (DS Logon and My HealtheVet log in) to a modern CSP, ideally to [Login.gov](http://login.gov/) or to [ID.me](http://id.me/) for those who don't meet login.gov's ID requirments.
 
-This research focuses on a modification of one of those migration pathways. We're seeking ways to encourage Veterans to adopt a modern CSP as their primary credential on their own, and preemptive to any announcement about sunsetting legacy credentials.
+This research will consider terms or phases that will help us better speak to veterans about the migration. We're seeking ways to encourage Veterans to migrate to a modern CSP on their own, proactively, even prior to any announcement about sunsetting legacy credentials.
 
-This study is part of a body of research work that is taking place across multiple Identity teams.
+This study is part of a body of research work that is taking place across multiple Identity teams
 
 - See also [LGA team's pre-work related to this research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-03-Organic-Adoption-Messaging-Usability)
 - See also [LGA team's research overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research)
