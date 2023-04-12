@@ -16,7 +16,7 @@
 
 There are currently multiple ways to sign in and access VA services. These Credential Service Providers (CSPs) don't all meet required security standards. Having so many also frustrates and confuses users. The goal of this product is to migrate Veterans from legacy credential service providers (DS Logon and My HealtheVet log in) to a modern CSP, ideally to [Login.gov](http://login.gov/) or to [ID.me](http://id.me/) for those who don't meet login.gov's ID requirments.
 
-This research will consider terms or phases that will help us better speak to veterans about the migration. We're seeking ways to encourage Veterans to migrate to a modern CSP on their own, proactively, even prior to any announcement about sunsetting legacy credentials.
+This research will consider terms anad phrases that will help us better speak to veterans about the migration. We're seeking ways to encourage Veterans to migrate to a modern CSP on their own, proactively, even prior to any announcement about sunsetting legacy credentials.
 
 This study is part of a body of research work that is taking place across multiple Identity teams
 
