@@ -22,17 +22,22 @@
 - Disovery to define the problem: converation with Aurora, Kyle, Robin, vsp-identity.
   - [Link to Slack Thread here]([https://pages.github.com/](https://dsva.slack.com/archives/CSFV4QTKN/p1680720909972049))
   - Link to Zenhub ticket here 
-- Discovery to determine whether there are UI/content changes that can be impactful but low lift (do not require development).For example:
+- Discovery to determine whether there are UI/content changes that can be impactful but low lift for dev. For example:
   - Provided number does not route users directly to the department needed; Meet with Contact center to discuss whether to surface a different number, e.g. Help Desk number or DEERS number instead. User quote:
+  
   
   > Website stated "more ID information was needed for my account. Please call 800-827-1000. Tell representative that you may be missing your EDIPI number or BRLS ID." I called as directed multiple times and was transferred to DEERS. I was given my EDIPI number by DEERS and told that I must call back VA and provide this number so VA can update my account. I have now spoken to numerous reps at VA through 5 separate phone calls and have nobody has been able to help me to update this information so I can begin a BDD claim.
 
  - Another possible solution is including content on the form landing page(s) that set expectations around errors 
- - Or linking to the VA page that details how vets can change their profile information themselved for smaller errors 
+ - Or linking to the VA page that details how vets can change their profile/account information themselved for smaller errors - address, service, discharge dates etc. info that is prefilled into the form
+ - Discovery with profile team/Robin about this issue 
     - See page on profile updates here 
 
 ## Other findings 
 
+- Veterans have trouble updating account information (address, service, discharge dates etc.) in general, this account information is pulled into the form and not usually entered into the form manually and can also cause error messages to pop up
+- Several users who tried to complete/update/submit form too close to ITF  expiration get a "something went wrong error"
+- A few users mentioned wanting to be returned to the exact spot where they were when they return to the form instead of the beginning or pre-submission edit page. 
 
 
 
