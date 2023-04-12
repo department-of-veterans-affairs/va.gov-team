@@ -1,5 +1,7 @@
-# L ogged-in Wayfinding Study Research Findings 
+# Logged-in Wayfinding Study Research Findings 
 **Office of the CTO - Digital Experience (OCTO-DE), Profile, Account Experience**
+
+`DRAFT`
 
 Date: April XX, 2023
 
