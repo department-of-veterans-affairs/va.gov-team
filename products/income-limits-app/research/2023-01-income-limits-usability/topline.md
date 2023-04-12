@@ -25,8 +25,9 @@ We talked to **8 Veterans**, one of whom was also a Veteran's family member (spo
 ### Usability Successes
 1. All participants **understood the purpose of the app**--to find out if they might be eligible for VA health care based on their income before applying.
 2. All participants found it **easy to answer the questions**, which were posed one question at a time (the subtask design pattern).
-4. All participants **understood the income ranges** and figured out which one to open.
 3. All participants **used the *Continue* button without any hesitation**, and some used the *Back* button, too (others didn't need to).
+4. All participants **understood the income ranges** and figured out which one to open.
+
 
 ### Usability Issues
 5. Participants found the **landing page** in the prototype ([Your health care costs](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/)) to be **very long**--especially on a phone--and it was difficult to locate the "Check our current income limits" link in it (which was in two places).
