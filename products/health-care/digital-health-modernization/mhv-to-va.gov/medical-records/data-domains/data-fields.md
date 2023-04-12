@@ -130,13 +130,13 @@ Lab and test results include the following information
 |VA Note|Last updated|Last updated|
 |VA Note|Note|Provider notes|
 |Admission & Discharge Summary|Admission and discharge summary|
-|Admission & Discharge Summary|Admission date|Admission date|
+|Admission & Discharge Summary|Admission date|Admission date (date you entered the hospital)|Added parenthetical definitions for admission date and discharge date — these can either go in the field label itself or just beneath it|
 |Admission & Discharge Summary|Location|Location|
 |Admission & Discharge Summary|Admitting physician|Admitted by |
-|Admission & Discharge Summary|Discharge date|Discharge date|
+|Admission & Discharge Summary|Discharge date|Discharge date (date you left the hospital)|
 |Admission & Discharge Summary|Discharge physician|Discharged by |
 |Admission & Discharge Summary|Last updated|Last updated|
-|Admission & Discharge Summary|Discharge summary|Discharge summary||
+|Admission & Discharge Summary|Discharge summary||If the whole thing is called "Admission and discharge summary," why is this field only "Discharge summary"?|
 
 ### Vaccines
 
