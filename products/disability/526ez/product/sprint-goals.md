@@ -23,7 +23,7 @@ Period - 04/12/2023 - 04/25/2023
    - 526ez current with paper form
       - [ ] Design and Content changes for items not requiring research
    - Landing page changes
-      - [ ] Research proposal
+      - [ ] Design and Content changes - start
    - [ ] Analytics
       - [ ] Baseline measurement recommendations based on Medallia survey data synthesis
       - [ ] Understanding Key metric calculations
