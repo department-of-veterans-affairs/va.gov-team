@@ -78,9 +78,9 @@ I'd like to get to know how you use your phone online…
    - [PROMPT] Do you regularly use a tablet to go online?
 - Which of these would you say you use the most when going online?
    - Why do you tend to use [THAT DEVICE] the most?
-- Have you ever useed your phone to access a website for a bank account or health account or another account with private and important personal information?
-   - [IF YES] Do you have a preference for accessing an account like that, maybe on your phone or on a computer?
-   - In the past, have you ever used your phone to create a new account for a website or service?
+Have you accessed a bank account or health account on your phone in the past?
+   - [IF YES] Do you have a preference for accessing an account like that, either on your phone or on a computer?
+   - Have you ever used your phone to create a new account for a website or service?
    - [IF NO] Is that something you would consider doing from a phone?
       - Why or why not?
    - [IF YES] How did that go?
@@ -102,7 +102,9 @@ Let’s think more specifically about accessing the VA on your phone
    - [PROMPT: maybe MHV? Or VA.gov? Or eBenefits? Or the VA phone app?]
    - Is [ANOTHER VA PORTAL] a place you visit?
       - Do you ever sign in there?
-      - Would you go to different places for different things, or is there another reason you go to several places?
+      - Would you tell me about why you [DO or DON’T] go to different places for the VA online?
+      - Is there a word or phrase that you might use to call all these different VA places online?
+         - [NOTE: DON’T specifically say “VA digital tools” here, save further discussion about this for Task 1]
 - When was the last time you remember signing into your [VA account online]?
    - And are you comfortable telling me why you signed in that day? Like what were you trying to do then?
    - Do you remember what webpage or web address you used at that time?
@@ -112,19 +114,18 @@ Let’s think more specifically about accessing the VA on your phone
       - [PROMPT or screen share for VA.gov - there are 4 options…]
    - Do you have a particular reason that you use this sign in method?
 - [IF recent login was MHV]
-   - Are there times when you log into VA.gov?
-   - [IF YES] Which of the log in choices do you use most often
+   - Are there times when you go to VA.gov to sign into your account?
+   - [IF YES] Which of the sign in choices would you say use most often
       - [PROMPT or screen share DS login, My HealtheVet login, Login.gov, or ID.me]
    - Do you ever use another option?
       - [IF YES] Can you tell me about when you would choose to log in this way?
-- Do you use the same sign in option for VA.gov, MHV, and eBenefits?
+- [IF USES MULTIPLE PORTALS] Do you use the same sign in option for VA.gov, MHV, and eBenefits?
    - Have you ever experienced difficulty getting logged into your account?
    - [IF YES] How often would you say this happens?
    - [IF YES] Can you tell me about what issue or issues you experience?
       - [OR] Can you tell me about a time that you experienced difficulty logging into the VA online?
 - What do you tend to do the most often when signing into the VA online?
-- Is there anything else you want to share with me about signing in, before we move on?
-
+- Is there anything else you want to share with me about signing into your VA account online, before we move on?
 
 
 
@@ -132,52 +133,56 @@ Let’s think more specifically about accessing the VA on your phone
 
 I’d like to take some time to think about a few more words or phrases that the VA might use when talking about online accounts. I want to remind you that this isn’t a test of you or your vocabulary. Instead we are interested in understanding what you and other veterans call things so we can make instructions more clear and understandable. 
 
-- This section TBD until after meeting with folks on Tue 11 April. Some terms up for consideration to explore:
+- When you go to a website and want to access your personal information, you probably have to type in your username, which sometimes is your email address, and then your password. What would you call that process?
+   - Do you have any accounts with personal information, like a bank account or health provider account that has more to the sign in process than username or email and password?
+   - [PROMPT] What if while signing in, a site said they were going to text you a 6 digit number - have you ever had to do something like that?
+      - Do you have a word or phrase you might call that?
+      - Do you consider the 6 digit number to be part of signing in? Or is it different?
+         - Can you tell me a bit more about your thoughts on this?
+- Let’s think about the process of creating an account for a site like a bank or health care organization that has important personal information about you. Sometimes they’ll ask you to prove who you are. For example, they might have you answer questions about your credit history, or where you’ve lived in the past. Some sites might ask you to send a picture of your ID. Have you ever done anything like this before while creating an account?
+   - Do you have a word or phrase you might call this process?
+- If your bank [IF THEY PREVIOUSLY MENTIONED ONLINE BANKING, otherwise use “the VA”],said that you needed to set up a new sign in that would be more secure, would you consider that new sign in to be an “upgrade”?
+   - If you were asked to upgrade your sign in, what does that make you think of?
+   - [PROMPT] If you were working for the [BANK or VA] and trying to tell someone about this new type of sign in that would be more secure, what might you call it? Or how might you describe it in a few words?[OTHER THAN UPGRADE]
+- Let’s switch it up a little. I’d like for you to think about two specific words. “Authenticate” and “verify”. What similarities or differences do you think about with these two words?
+   - [PROMPT] Do they mean different things to you? Or would you use them to talk about the same kind of thing?
 
-| Terms | Descriptions |
-| --- | ---|
-|authentication or multifactor authentication|proving you are the account owner when trying to access an account or certain tasks like getting a 6-digit number to your email or text|
-| create an account | first time on a website, you need to do this so the site knows who you are and what information to show you |
-| verify your account| proving you are who you say you are like by answering questions about your credit history or sending a picture of your state or government ID |
-| VA digital tools or VA portals | MHV, VA.gov, eBenefits, VA mobile app - all the places you might access to manage your VA benefits and healthcare |
-| "Upgrade" to LIG account | needing to not use the DS Login account anymore and set up a new account that is more secure |
-| personal key vs security key | |
+### Things to watch for:
+- How the participant thinks about these terms
+- Are there any nuances?
+- Is there any confusion?
 
-- example question about terms: What action would you expect to take if instructions said _____
-- example question about description: What might you call it when you _____
-
-**Possible Questions**
->
 
 ## Task 1: Modal - 10 minutes
 
 I’d like for us to now take a look at a prototype. This is a website design that we are thinking about using. It will look like VA.gov but this is not real, and everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
 
-[SEND LINK IN ZOOM CHAT >>>
-https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979 ]
+I’m going to share my screen to show this design to you, but I’ll ask that you direct where I go or what I click on
 
-I just sent a link in the zoom chat, do you see it?
-	[IF NEEDED: Help them open the link and share their screen] >>>link to screen share help section<<<
+[SCREEN SHARE, [the prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979) at this point, from your phone if possible]
 
-Hopefully this looks familiar like what you would see on VA.gov. 
-So let's say you were going to sign into your account to [PRIOR MENTIONED TASK or “refill a prescription”].
 
-- If this popped up here while you were actually signing in, what would you do next? 
+- Hopefully this looks familiar like what you would see on VA.gov from your phone
+- Let's say you were going to sign into your account to [PRIOR MENTIONED TASK or “refill a prescription”].
+   - What would you do next
+   - And which option would you select here?
+- If this popped up here while you were actually signing in, what would you do next?
+   - [STOP SCREEN SHARE or otherwise hide the modal while answering]
+   - I’m hiding it from view for a moment, because right now I’m mostly interested in your first immediate thought
    - [PROMPT: maybe close it right away? Or read through it?]
    - [IF READ] How closely do you usually read a pop up like this?
-- [IF NOT CLOSE right away] hen I don’t want you to read it too closely right now. ButDoes anything catch your attention immediately here?
-   - Do any questions immediately come to your mind? Or maybe none, that’s fine too?
+      - [IF NOT CLOSE right away] Then I don’t want you to read it too closely right now. But does anything catch your attention immediately here?
+      - Do any questions immediately come to your mind? Or maybe none, that’s fine too?
 - I’ll give you some time to look through this now. Try to spend only as much time as you would if you were actually signing into your account. Let me know when you are good.
 
 [WAIT AS NEEDED]
+
 - Do any questions come to your mind now that you’ve looked through it a little more?
 - If you were describing this to a friend or family member, what would you tell them this means?
 - Now that you’ve read this, what would you do?
    - [PROMPT: close it out? Or would you get a new account?]
    - Is getting a new account something you would consider doing after reading this?
    - Thinking about your If this came up again the next time you logged in, what would you do?
-
-#### Design option with only LIG
 - How do you feel about this information?
    - How likely are you to take the action listed here?
    - How do you feel about this account option listed?
@@ -185,50 +190,21 @@ So let's say you were going to sign into your account to [PRIOR MENTIONED TASK o
    - How would you feel signing in this way
 - If instead of showing one account option here, if instead we said something like “The VA has two account options that meet our security standards” and showed you both choices, what would you think?
    - How would you choose which to go with?
-
-#### Design option with only LIG + IDme
-- How do you feel about this information?
-   - How likely are you to take the action listed here?
-   - How do you feel about the account options listed?
-   - Have you heard of either of these?
-   - How would you feel signing in using one of these options?
-   - How would you choose between these two options?
-- If instead of showing two account options here, if instead we said something like “The VA recommends this one option as the best option for signing in” and only shows one option, what would you think?
-   - How would you feel being directed to a single option?
-      - [PROMPT] Perhaps you would find it preferable? Or perhaps you might find it more restrictive?
-
-
-
-
+- Do you have any questions for me at this point?
+- Do you have any questions about any of these questions or tasks that we’ve worked through today?
 
 ### Things to watch for:
+- Is the participant compelled to leave their legacy credential?
+- Is there confusion around any terms?
+- Are there any nuances?
+- Is there any confusion?
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
 
-## Third Task: [TASK NAME] - X minutes
+## Thank-You and Closing - 5 minutes
 
-- Step 1
-- Step 2
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on VA.gov to make sure it works for Veterans.
 
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Post-Task Interview - X minutes
-
-- Question 1
-- Question 2
-- Any questions for me? 
-
-## Thank-You and Closing - X minutes
-
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
-
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+Lastly, Perigean is who set up the scheduling with you - they will get you set up with the thank you stipend. They will also send you information that you can pass along to other Veterans you may know to give them the chance to participate in future research.
 
 Thank you so much again, and enjoy the rest of your day!
 
