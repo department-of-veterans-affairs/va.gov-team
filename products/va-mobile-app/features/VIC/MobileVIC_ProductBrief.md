@@ -84,7 +84,7 @@ TBD
         * Location of where/when it is accessed in wallet?
 * Impact:
     * An increase in app downloads that correlates with VIC card usage
-    * An increase in app usage that correlates with VIC card usage
+    * An increase in overall app usage that correlates with VIC card usage
 	
 
 #### Stakeholders
