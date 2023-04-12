@@ -4,7 +4,7 @@
 
 Date: 04/13/2023
 
-[Cindy Merrill] [cindy.merrill@adhocteam.us]
+**Cindy Merrill** [cindy.merrill@adhocteam.us]
 
 [Research readout](link here)
 
