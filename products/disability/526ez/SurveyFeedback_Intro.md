@@ -15,7 +15,7 @@
 
   >  We need more information from you before you can file a Benefits Delivery at Discharge claim with VA Form 21-526EZ. Please call Veterans Benefits Assistance at 800-827-1000 (TTY: 711), Monday through Friday, 8:00 a.m. to 9:00 p.m. ET to update your account"
   
--  Upon calling the provided number, these users experience long hold times and become frustrated. 
+- Upon calling the provided number, these users experience long hold times and become frustrated. 
 
 
 
