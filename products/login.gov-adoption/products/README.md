@@ -10,7 +10,7 @@
 - [KPIs](#kpis) 
 
 ## Overview
-The Login.gov Adopion team aims to drive adoption for safer, more secure sign in options to VA services. This will be achieved through multiple initiatives.
+Mission: The Login.gov adoption team aims to streamline the sign-in process on VA.gov by offering Login.gov as a preferred credential option while phasing out duplicative and non-compliant legacy credentials.
 
 ## Priorities
 Top-level strategic priorities:
