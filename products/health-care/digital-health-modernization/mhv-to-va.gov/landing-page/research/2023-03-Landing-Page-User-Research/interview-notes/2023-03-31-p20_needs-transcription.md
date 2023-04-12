@@ -1,3 +1,5 @@
+**This was the interview that Lauren was supposed to take more for. Need to review the video and add notes here.**
+
 ## Warm-up Questions - 5-10 minutes
 Let’s start with a few questions... 
 
