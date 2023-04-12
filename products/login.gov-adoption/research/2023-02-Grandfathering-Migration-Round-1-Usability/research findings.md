@@ -22,40 +22,6 @@ Tyler Gindraux [tyler@bluetiger.digital]
 
 <br>
 
-## Background
-
-There are currently multiple ways to sign in and access VA services. These sign in options don't all meet required security standards and also create user frustration and confusion. We need to migrate Veterans from legacy credential service providers (DS Logon and My HealtheVet) to Login.gov. During [discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/discovery/2022-10-Login.gov-Adoption-Discovery-Research), we defined different pathways for the migration.
-
-This initiative focuses on one migration pathway: moving select DS Logon users to Login.gov without the need to reverify their identities through “grandfathering” or deferred identity proofing. In this case, Veterans will receive an IAL1 Login.gov account which works “as normal” for VA services, but can’t be used by other government services until it’s upgraded to IAL2. In order to upgrade to an IAL2 Login.gov account, Veterans will have the option of identity proofing at a later date. The [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/legacy%20CSP%20migrations) has more details on this product.
-
-We will run a few rounds of testing to review the effectiveness and usability of this grandfathering user flow. Following Round 1, we will include follow-up testing to address any issues that surface. We will also include at least one round of accessibility testing with blind and low vision users. The [research overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research) has more details on what is upcoming.
-
-### OCTO Objectives 
-
-* Veterans can manage their health services online.
-* Veterans and their families trust the security accuracy and relevancy of VA.gov.
-
-### How this research maps to the Veteran journey
-
-Signing to securely access VA services can happen at any stage in the [Veteran’s journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf). With this migration pathway, however, we're particularly focused on the stages that occur later on in the journey. Other migration initiatives will focus on reaching Veterans who are just getting out and starting up, aiming to ensure Veterans proactively set up Login.gov (instead of another credential service provider) from the start.
-
-This initiative is focused on Veterans who have set up a DS Logon account already. In order for Veterans to not lose access to their information and benefits when DS Logon is sunset by the VA, we need to ensure there is a clear and technically-feasible pathway for their migration.
-
-These stages include:
-* Taking care of myself
-* Putting down roots
-* Retiring
-* Aging
-
-### Research this builds on
-
-* [2022-10-Research-LoginGovFieldResearch #185](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/185)
-* [2022-07 MHV transition to Login.gov as a single sign-on #157](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/157)
-* [2022-07 Login Self-Service Tool #156](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/156)
-* [2022-03 Sign-In Accessibility #93](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/93)
-
-## Goals and questions
-
 ## Research goals
 
 The key goals of this study are to:
@@ -91,3 +57,36 @@ Review whether Veterans know where to get help or what they will do if they enco
 * Do Veterans know where or how to get help if they encounter an issue?
 
 ## Methodology
+
+This usability study will be conducted remotely on Zoom. We will test on desktop.
+
+We will test two prototypes. In half the sessions, we'll test Prototype #1 and in the other half we'll test Prototype #2. Both flows are nearly identical, but each has an alternative start:
+
+Prototype #1: After signing in to VA.gov, a modal pops up asking Veteran to set up a Login.gov account.
+Prototype #2: Veteran receives an email asking them to sign in to VA.gov to start Login.gov account set up.
+
+## Hypotheses and conclusions
+
+## Key findings
+
+## Details of findings
+
+## Additional insights
+
+## Recommendations
+
+## Next steps
+
+## Further research needed
+
+## Appendix
+
+## Tools used for synthesis
+
+## Pages and applications used
+
+## Other supporting documents created
+
+## Secondary research
+
+## Who we talked to
