@@ -8,6 +8,8 @@ Tyler Gindraux [tyler@bluetiger.digital]
 
 [Research readout deck](link)
 
+<br>
+
 **Jump to:**
 
 [Hypotheses and conclusions](#hypotheses-and-conclusions)
