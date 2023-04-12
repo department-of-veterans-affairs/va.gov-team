@@ -1,0 +1,39 @@
+name: "Accessibility Audit Epic"
+description: "Create an epic for an a11y audit outside of the collaboration cycle"
+title: "[A11y Audit]: "
+labels: ["508/Accessibility, Epic"]
+assignees: []
+body:
+- type: markdown
+  attributes:
+    value: "## Details and Definition of done"
+- type: markdown
+  attributes:
+    value: |
+      1. Dashboards set up
+      2. Link made available to people
+- type: input
+  id: teamName
+  attributes:
+    label: Team Name
+  validations:
+    required: true
+- type: markdown
+  attributes:
+    value: "## Feature Endpoints"
+- type: textarea
+  id: endpoints
+  attributes:
+    label: Feature Endpoints
+- type: checkboxes
+  id: checklist
+  attributes:
+    label: Checklist
+    options:
+      - label: Dashboard created
+      - label: Things done
+      - label: Stuff accomplished
+      - label: Celebrations ensued
+
+      
+      
