@@ -6,7 +6,7 @@ Date: 04/12/2023
 
 Tyler Gindraux [tyler@bluetiger.digital]
 
-[Research readout deck](link)
+Research readout: [Deck](link)
 
 <br>
 
