@@ -47,9 +47,17 @@
 
 > File for TDIU online but I could not find a way to complete the application online (21-8940) despite being told I could do so.
 
+> Complete my in-progress Application for VA Disability Compensation. I logged in repeatedly and selected "Continue Application...." then I repeatedly got an error message saying "Oops, Something went wrong on our end. Today was the deadline to file before my Intent to File Expired. I tried two different devices and two browsers. 
+
 > Apply for the BDD program for my va disability claims. When I click the information for my separation date it goes to a screen where it says my account needs to be updated. Would have done it sooner had I knew that would happen. Todays the last day I’m eligible for the program and the site was down the day before when I tried to file.
 
 > I tried to sign up for disabilities. However because I live in England the site asked for a U.S. driver license to prove who I was. I have not lived in America since 1990 so don't have a State License. I'm shocked the system not designed to serve veterans who live outside America
+
+> When clicking the "continue my application" button, it reset my intent to file date to today. I lost 8 months.
+
+> Why does the form ask if you want to continue your application and then takes you to the start to re-enter questions instead of going to where you left off, or an index of pages that can be edited.
+
+>Submit a claim for disability from burn pit registry. Was denied claim in 2013. Don’t have supporting docs that were used in 2013
 
 
 
