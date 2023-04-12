@@ -6,8 +6,9 @@ ________________________________________________________________________________
 
 ## 4/19/2023 - 5/2/2023 ------------ FUTURE / TENTATIVE ---------------------
 #### SPRINT GOALS
-- **GOAL: Knowledge Transfer for CHIP & LoROTA API**
+- **GOAL: Assume Control of CHIP & LoROTA APIs**
 - **GOAL: Make submission of a travel reimbursement claim easier**
+- **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
 - **GOAL: Address tech & design debt** 
 
@@ -15,24 +16,28 @@ ________________________________________________________________________________
 - None
 
 #### SPRINT TICKETS
-- **GOAL: Knowledge Transfer for CHIP & LoROTA API**
-    - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] [BE] Knowledge Transfer for CHIP & LoROTA APIs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56628)
+- **GOAL: Assume Control of CHIP & LoROTA APIs**
+    - **Sub Goal: Attend knolwedge transfer sessions**
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] [BE] Knowledge Transfer for CHIP & LoROTA APIs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56628)
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
       - **Implement Text Solution**
          - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] VANotify - Add text templates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55878)
          - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] vets-api: Update configs to store template info](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55879)
-      - **Prepare for Release**
+      - **Prepare for Staging Review**
          - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56613)
          - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56556)
          - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [[Product] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56614)
-         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Recheck GA Events due to text solution change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53966)
          - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Schedule staging review
+     - **Prepare for release**
+         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Recheck GA Events due to text solution change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53966) 
+- **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
+   - **Sub Goal: [Add Facility Address to Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54865)**  
+       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Display Facility Address with Other Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**   
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Update All Posters to the New Design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55832)
-          - NOTE: ask Stephen before we pull this is
-        - Question: are we waiting for the study results before we make the poster changes?
+          - NOTE: ask Stephen before we pull this is (i.e. do now or wait for study)
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Set-up for Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56624)
   - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)**
@@ -42,12 +47,10 @@ ________________________________________________________________________________
    - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56626)
-   - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
-       - [[FE] Display Facility Address with Other Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132)
-   - **Sub Goal: [Send Check-in Text 45 Minutes Before Appointment to encourage use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)**
+    - **Sub Goal: [Send Check-in Text 45 Minutes Before Appointment to encourage use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53560)**
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create Content for Text Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53569)
 - **GOAL: Address tech & design debt**  
-   - [[FE] Change alert content shown when Veteran is too early to check in within check in app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54511)
+   - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Change alert content shown when Veteran is too early to check in within check in app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54511)
 
 ------------ END FUTURE / TENTATIVE ---------------------
 
