@@ -20,7 +20,7 @@
 ## Recommendations
 
 - Disovery to define the problem: converation with Aurora, Kyle, Robin, vsp-identity.
-  - [Link to Slack Thread here]([https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ](https://dsva.slack.com/archives/CSFV4QTKN/p1680720909972049)
+  - [Link to Slack Thread here]([https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ](https://dsva.slack.com/archives/CSFV4QTKN/p1680720909972049))
   - Link to Zenhub ticket here 
 - Discovery to determine whether there are UI/content changes that can be impactful but low lift (do not require development). For example:
   - Provided number does not route users directly to the department needed; Meet with Contact center to discuss whether to surface a different number, e.g. Help Desk number or DEERS number instead. User quote:
