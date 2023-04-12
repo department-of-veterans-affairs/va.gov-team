@@ -1,4 +1,4 @@
-# Grandfathering Migration Usability (Round 1) Research Findings
+# Grandfathering Migration (Round 1: Usability) Research Findings
 
 Office of the CTO - Digital Experience (OCTO-DE), Login.gov Adoption Team
 
@@ -69,15 +69,91 @@ We tested two prototypes. In half the sessions, we tested Prototype #1 and in th
 
 ## Hypotheses and conclusions
 
-
+|Hypotheses|Concusions|
+|:--|:--|
+|Veterans will be motivated to set up a Login.gov account if they understand they will no longer be able to use DS Logon at some point in the future.|Likely True|
+|Veterans who receive an email will be more motivated to set up a Login.gov account than those who see a modal pop-up; because they won't be interrupted while completing another VA task.|Likely True|
+|Veterans will be able to set up an IAL1 Login.gov account, which is less risky and burdensome than setting up an IAL2 Login.gov account.|Likely True|
+|Most Veterans will be able to set up one multi-factor authentication method without issue.|Likely True|
+|Most Veterans will choose to set up text or voice message as their multi-factor authentication method.|Definitely True|
+|Veterans will be motivated to continue to use their Login.gov account moving forward if they understand they should stop using their DS Logon account.|Likely True|
+|Veterans will be motivated to upgrade to an IAL2 account through identity proofing if they understand what an IAL2 account will let them do (access other government websites).|Likely True|
+|Veterans will decide and be able to navigate to contact information on the Login.gov or VA.gov websites if they encounter an issue during account creation.|Definitely True|
 
 ## Key findings
 
-
+1. Most Veterans are motivated to set up a Login.gov account because they’re concerned about losing access to their benefits and healthcare.
+2. Veterans are likely to ignore messaging about migrating to Login.gov if it comes at the wrong time, on the wrong device, or without additional context and information for those who need it.
+3. Veterans didn’t recognize a relationship between their verified DS Logon account and their ability to create a Login.gov without identity verifying right away.
+4. Veterans are unfamiliar with the term ‘VA Digital Tools’ which causes confusion and demotivates them, because they’re not sure what they’re losing or gaining access to.
+5. Not understanding the difference between authentication and verification makes it difficult to know the limitations of an unverified Login.gov account, and how verification works.
+6. Veterans prefer when they’re giving more information about the account, what to expect, and where to get help from VA.
 
 ## Details of findings
 
+**1. Most Veterans are motivated to set up a Login.gov account because they’re concerned about losing access to their benefits and healthcare.**
+
+Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
+Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
+
+> Quote
+
+<br>
+
+**2. Veterans are likely to ignore messaging about migrating to Login.gov if it comes at the wrong time, on the wrong device, or without additional context and information for those who need it.**
+
+Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
+Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
+
+> Quote
+
+<br>
+
+**3. Veterans didn’t recognize a relationship between their verified DS Logon account and their ability to create a Login.gov without identity verifying right away.**
+
+Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
+Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
+
+> Quote
+
+<br>
+
+**4. Veterans are unfamiliar with the term ‘VA Digital Tools’ which causes confusion and demotivates them, because they’re not sure what they’re losing or gaining access to.**
+
+Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
+Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
+
+> Quote
+
+<br>
+
+**5. Not understanding the difference between authentication and verification makes it difficult to know the limitations of an unverified Login.gov account, and how verification works.**
+
+Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
+Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
+
+> Quote
+
+<br>
+
+**6. Veterans prefer when they’re giving more information about the account, what to expect, and where to get help from VA.**
+
+Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
+Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
+
+> Quote
+
+<br>
+
 ## Additional insights
+
+1. Many Veterans benefit from password managers, whether they’re using a password manager application or an in-browser password manager that auto fills their details for them.
+
+2. Veterans found it straightforward to close the modal and most Veterans understood that was all they needed to do in order to navigate to another task they would like to complete on VA.gov.
+
+3. Most Veterans will choose to set up SMS, and are familiar with it. We found this during discovery research and it’s further confirmed by data from Login.gov.
+
+4. Most Veterans will not choose to set up a backup multi-factor authentication method. Those that would choose to set up a backup method tend to have experience with losing their phone, or understand there might be circumstances when they’re unable to access one method.
 
 ## Recommendations
 
