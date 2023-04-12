@@ -126,6 +126,8 @@ Demographic goals:
 * At least 20% of people must be non-native English speakers
 * At least 20% of people must identify as gay, lesbian, bisexual, or transgender
 
+### Recruitment outcomes
+
 We talked to 10 participants. More information about the participants recruited for this study is in the [VA Recruitment Checker for Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=589451186).
 
 Audience segment:
