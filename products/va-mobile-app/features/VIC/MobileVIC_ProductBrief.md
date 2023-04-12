@@ -84,7 +84,7 @@ TBD
         * Location of where/when it is accessed in wallet?
 * Impact:
     * An increase in app downloads that correlates with VIC card usage
-
+    * An increase in app usage that correlates with VIC card usage
 	
 
 #### Stakeholders
@@ -121,8 +121,6 @@ TBD
     * Vaccine ‘card’?
 
 #### Important Links
-
-
 - Google Wallet: [Google Wallet](https://wallet.google/#identity)
 - iOS Wallet: [IDs in Wallet](https://learn.wallet.apple/id)
 - [How To Apply For A Veteran ID Card](https://www.va.gov/records/get-veteran-id-cards/vic/)
