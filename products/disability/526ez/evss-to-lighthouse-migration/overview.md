@@ -1,4 +1,4 @@
-## Overview of eVSS Migration to Lighhouse platform for 526ez form
+## Overview of eVSS Migration to Lighthouse platform for 526ez form
 
 
 ## Purpose
