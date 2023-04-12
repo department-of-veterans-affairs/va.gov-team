@@ -35,9 +35,9 @@
 
 ## Other findings 
 
-- Veterans have trouble updating account information (address, service, discharge dates etc.) in general, this account information is pulled into the form and not usually entered into the form manually and can also cause error messages to pop up
-- Several users who tried to complete/update/submit form too close to ITF  expiration get a "something went wrong error"
-- A few users mentioned wanting to be returned to the exact spot where they were when they return to the form instead of the beginning or pre-submission edit page. 
+-Veterans have trouble updating account information (address, service, discharge dates etc.) in general, this account information is pulled into the form and not usually entered into the form manually and can also cause error messages to pop up
+-Several users who tried to complete/update/submit form too close to ITF  expiration get a "something went wrong error"
+-A few users mentioned wanting to be returned to the exact spot where they were when they return to the form instead of the beginning or pre-submission edit page. 
 
 
 
