@@ -30,7 +30,7 @@
   > "Website stated "more ID information was needed for my account. Please call 800-827-1000. Tell representative that you may be missing your EDIPI number or BRLS ID." I called as directed multiple times and was transferred to DEERS. I was given my EDIPI number by DEERS and told that I must call back VA and provide this number so VA can update my account. I have now spoken to numerous reps at VA through 5 separate phone calls and have nobody has been able to help me to update this information so I can begin a BDD claim."
 
    - Another possible solution is including content on the form landing page(s) that set expectations around errors 
-   - Or linking to the VA page that details how vets can change their profile/account information themselved for smaller errors - address, service, discharge dates etc. info that is prefilled into the form
+   - Or linking to [the VA page that details how vets can change their profile/account information themselves](https://www.va.gov/resources/managing-your-vagov-profile/) for smaller errors - address, service, discharge dates etc. info that is prefilled into the form
    - Discovery with profile team/Robin about this issue 
         - See page on profile updates here 
 
