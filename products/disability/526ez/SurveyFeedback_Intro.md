@@ -43,7 +43,13 @@
 
 ## User quotes
 
-> 
+> I started a form 21-526ez. That fact is acknowledged on my MyVA page; however, the resume link (https://www.va.gov/disability/file-disability-claim-form-21-526ez/resume) defaults to the start link (https://www.va.gov/disability/file-disability-claim-form-21-526ez/start) and I am unable to resume.
+
+> File for TDIU online but I could not find a way to complete the application online (21-8940) despite being told I could do so.
+
+> Apply for the BDD program for my va disability claims. When I click the information for my separation date it goes to a screen where it says my account needs to be updated. Would have done it sooner had I knew that would happen. Todays the last day I’m eligible for the program and the site was down the day before when I tried to file.
+
+> I tried to sign up for disabilities. However because I live in England the site asked for a U.S. driver license to prove who I was. I have not lived in America since 1990 so don't have a State License. I'm shocked the system not designed to serve veterans who live outside America
 
 
 
