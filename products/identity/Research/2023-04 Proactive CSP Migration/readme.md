@@ -1,5 +1,7 @@
 # About this Research
 
+[Research Repo Ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/280)
+
 ## Planned timeline
 
 | Stage | Dates |
