@@ -1,20 +1,15 @@
-<h2>Veteran Identification Card (VIC)</h2>
+## Veteran Identification Card (VIC)
 
 
-<p>Sprint 0
+### Sprint 0
 
-<h4>Problem Statement</h4>
+#### Problem Statement
+Veterans would benefit from an easy-to-access official Veteran ID card to use for receiving discounts and other private-sector benefits.  There is currently no simple way to attain an ID like this.  The current processes are cumbersome and long and not well known by Veterans.  A widely accepted Veteran ID within the mobile app could prove a very useful feature for Veterans and greatly increase usage of the app.
 
-
-
-    Veterans would benefit from an easy-to-access official Veteran ID card to use for receiving discounts and other private-sector benefits.  There is currently no simple way to attain an ID like this.  The current processes are cumbersome and long and not well known by Veterans.  A widely accepted Veteran ID within the mobile app could prove a very useful feature for Veterans and greatly increase usage of the app.
-
-**Current Experience**
+#### Current Experience
 
 From VA.gov: 
-
-
-    “A Veteran ID Card (VIC) is a digital photo ID you can use to get discounts for Veterans at many stores, businesses, and restaurants. When you have this card, you won’t need to carry around your military discharge papers or share sensitive personal information to get discounts. And you don’t need to request another type of photo ID card to prove you’re a Veteran or to get retail or business discounts.”
+“A Veteran ID Card (VIC) is a digital photo ID you can use to get discounts for Veterans at many stores, businesses, and restaurants. When you have this card, you won’t need to carry around your military discharge papers or share sensitive personal information to get discounts. And you don’t need to request another type of photo ID card to prove you’re a Veteran or to get retail or business discounts.”
 
 
 
