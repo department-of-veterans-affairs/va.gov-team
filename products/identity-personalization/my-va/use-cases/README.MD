@@ -20,4 +20,4 @@
 
 ### System can't connect to MPI
 
-- [There's an error because the system can't connect to MPI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/system-cant-connect-to-MPI)
+- [There's an error because the system can't connect to MPI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/system-cant-connect-to-MPI.md)
