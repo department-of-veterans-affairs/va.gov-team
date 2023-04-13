@@ -20,10 +20,9 @@
  
 
 - 1010EZR Online
-
      - MS will provide data on
-     - Call volume for 1010EZR updates
-     - Number of paper 1010EZRs received
+          - Call volume for 1010EZR updates
+          - Number of paper 1010EZRs received
  
 
 - Please fee free to contact our team at VHAMS1010Team@va.gov.
