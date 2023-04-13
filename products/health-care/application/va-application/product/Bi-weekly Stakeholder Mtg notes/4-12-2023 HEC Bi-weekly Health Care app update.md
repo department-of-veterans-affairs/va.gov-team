@@ -20,7 +20,7 @@
  
 
 - 1010EZR Online
-     - Problem - Mail, In person, call
+     - Problem - Currently can only submit by Mail, In person, call
      - If can enroll online, should be able to update online
           - Lots of EZRs with PACT Act expanding eligibility
           - Done yearly for those that need to re-register with their updatedr financial info
