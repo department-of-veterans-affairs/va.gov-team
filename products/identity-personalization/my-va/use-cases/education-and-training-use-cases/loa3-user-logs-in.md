@@ -1,5 +1,7 @@
 # My VA Education and Training Use Case: LOA3 user logs in
 
+**Last updated:** April 13, 2023
+
 For LOA3 users who sign in from the home page, they will see an Education and training section on My VA with three useful education links.
 
 ## UX
