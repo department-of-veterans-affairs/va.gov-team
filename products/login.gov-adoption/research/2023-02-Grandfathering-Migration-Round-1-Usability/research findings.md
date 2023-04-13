@@ -171,8 +171,6 @@ Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 
 > “In my spare time, I would try to go in on Login.gov, just to become familiar. But I have to be familiar with the site in order to use it over and over again.” Participant 20
 
-<br>
-
 ## Additional insights
 
 1. Many Veterans benefit from password managers, whether they’re using a password manager application or an in-browser password manager that auto fills their details for them.
@@ -359,8 +357,6 @@ They also to come back to reference information about the migration in case they
 > “I was wondering how long it was gonna take where it tells me right here, about 20 min. It tells me stuff I need to have so I can gather those things before I continue.” Participant 7
 
 > “I would print off this email, so that I can reference it. It's just me. I can't remember things, and I can't go back and forth [between tabs].” Participant 2
-
-<br>
 
 ## Recommendations
 
