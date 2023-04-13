@@ -8,9 +8,9 @@
 - [LOA1 users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases) will not see this section on My VA.
 
 ## Common use cases
-- [User has an open claim or appeal]()
-- [User has a claim or appeal that has been closed in the last 60 days]()
-- [User does not have an open claim or appeal, or one that has been closed in the last 60 days]()
+- [User has an open claim or appeal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/claims-and-appeals-use-cases/user-has-open-claim-or-appeal.md)
+- [User has a claim or appeal that has been closed in the last 60 days](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/claims-and-appeals-use-cases/user-has-recently-closed-claim.md)
+- [User does not have an open claim or appeal, or one that has been closed in the last 60 days](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/claims-and-appeals-use-cases/user-has-no-claims-or-appeals.md)
 
 ## Edge cases
 
