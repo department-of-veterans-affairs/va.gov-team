@@ -5,7 +5,9 @@ This is a living document to capture findings around LH API access. If you see s
 ## Veteran Verification
 ### Links
 Platform docs (*dev*): https://dev-developer.va.gov/explore/verification/docs/veteran_verification?version=current
+
 Platform docs (*staging*):  https://staging-developer.va.gov/explore/verification/docs/veteran_verification?version=current
+
 Platform docs (*prod?*): https://developer.va.gov/explore/verification/docs/veteran_verification?version=current|
 
 Auth: https://staging-developer.va.gov/explore/authorization/docs/client-credentials?api=claims
