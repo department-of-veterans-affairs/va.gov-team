@@ -35,12 +35,14 @@ Health Products
 ### Team Members:
 - Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us - Product manager
 - Alex Seelig | alexander.seelig@va.gov / alex.seelig@agile6.com -- Product manager
+- Emily Brown | emily.brown@agile6.com - Delivery Lead
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us - Sr UX Design/Research
 - David "DK" Kennedy | david.kennedy@va.gov / david.kennedy@adhocteam.us - UX Design/Research
 - Katelyn Caillouet | katelyn.caillouet@va.gov / katelyn.caillouet@agile6.com - UX Design/Research
+- Hieu Vo | hieu.vo@agile6.com - UX Design/Research
 - Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
-- Erin Flaherty | erin.flaherty@va.gov / erin.flaherty@adhocteam.us - Sr Frontend/QA Engineer
-- Chapley Watson | chapley.watson@va.gov / chapley.watson@agile6.com - Full Stack Engineer
+- Matt Kerns | matt.kerns@agile6.com - Frontend Engineer
+- Chapley Watson | chapley.watson@agile6.com - Full Stack Engineer
 - Lihan Li | han.li@va.gov / lihan@adhocteam.us - Backend Engineer
 - Joshua Drumm | joshua.drumm@agile6.com - Backend/Full Stack Engineer
 - Luis Simauchi | luis.simauchi@adhocteam.us -- Sr Data Analyst
