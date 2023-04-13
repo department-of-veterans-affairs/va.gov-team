@@ -1,5 +1,7 @@
 # My VA Health Care Use Case: The messaging API is down and we can’t tell if the user has any unread messages
 
+**Last updated:** April 13, 2023
+
 For LOA3 users who sign in and the messaging API is down, if they have VA health care, they will see a secondary link to send a secure message to their health care team.
 
 ## UX
