@@ -18,7 +18,7 @@
 There are no flags associated with this feature.
 
 ### System
-- [The claims API is down and we can’t display any claims or appeals information](Link)
+- [The claims API is down and we can’t display any claims or appeals information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/claims-and-appeals-use-cases/claims-api-down.md)
 
 ## Flow diagrams
 - [User flow for claims and appeals on My VA](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/4444BC2A-797F-4000-A125-31B83F7E817F/canvas)
