@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Income Limits, Sitewide Public Websites**
 
-Date: 04/13/2023
+Date: 04/20/2023
 
 **Cindy Merrill** [cindy.merrill@adhocteam.us]
 
@@ -191,94 +191,81 @@ e.g. user flows, personas, etc.
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+In order to find research participants for whom the income limits app would be relevant, we talked only with Veterans who 
+- Do NOT have VA health care
+- Do NOT get VA disability compensation for a service-connected disability rating of 50% or higher
+- Do NOT get a pension from the VA
 
-We talked to **x participants.**
+We talked to **8 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 8 
+* Caregivers: 0 
+* Family members of a Veteran: 1 (also a Veteran)  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 6 
+* Female: 1
+* Non-binary: 1 
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: 0 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
+* Gay, lesbian, or bisexual: 2
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 2 
+* Tablet: 0 
+* Smart phone: 6 
+* Assistive Technology: 0
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 1
+* 35-44: 2
+* 45-54: 1
+* 55-64: 2
+* 65+: 2
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
+* High school degree or equivalent: 0
+* Some college (no degree): 2
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 0
+* Master's degree: 4
+* Doctorate degree: 0
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
+* Urban: 7
+* Rural: 1
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 8
+* Black: 0
+* Hispanic: 1
+* Biracial: 1
+* Asian: 0
+* Native: 0
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
-
+* Cognitive: 4
+* AT user: 0
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+- Identify as Black, Asian, Native, or Transgender
+- Other than honorable discharge
+- Immigrant origin
+- Expat (living abroad)
+- Users of Assistive Technology 
 
 ![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/VA-recruitment-checker.png)
