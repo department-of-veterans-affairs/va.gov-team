@@ -6,10 +6,8 @@ assignees: []
 body:
 - type: markdown
   attributes:
-    value: "## Details and Definition of done"
-- type: markdown
-  attributes:
     value: |
+      ## Description
       This issue template will help walk you through a recommended approach to logging and monitoring and will generate a testing artifact you can submit as part of your staging review. Try to resolve as many issues as you're able to before your staging review, and update this artifact with that progress. Anything you're not able to resolve on your own can be discussed as part of the staging review.
 
       It's okay if you can't complete all of the steps, or if you identify problems but aren't able to fix them. Try to do as much as you can. Tell us what you're able to do, what you found, and if you have any questions or concerns heading into your review.
