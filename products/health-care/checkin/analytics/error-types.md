@@ -34,7 +34,7 @@ Source: [Direct link to Google Analytics](https://analytics.google.com/analytics
 | No Token | www.va.gov/health-care/appointment-check-in/error?error=no-token | Veteran attempted to access eCheck-in without a UUID. | Active ||   ![image](https://user-images.githubusercontent.com/86678742/228847775-466ee3f8-2518-45ac-99b9-8b5607788926.png) | | |
 | Malformed Token | www.va.gov/health-care/appointment-pre-check-in/error?error=bad-token | Veteran attempted to access eCheck-in with a badly formatted UUID | ||  ![image](https://user-images.githubusercontent.com/86678742/229581260-25a406db-5112-4435-8e22-a2391e1a83bf.png) |
 | Session Error | www.va.gov/health-care/appointment-check-in/error?error=session-error | Happens when there is a problem from the API. Vets-api returns an error or we get a 500 error. |  ||  ![image](https://user-images.githubusercontent.com/86678742/229581337-ecb9cf09-678b-488f-98d6-9ea8b52bcf5f.png) |
-|System | www.va.gov/health-care/appointment-check-in/error/ | | ||   |
+|System | www.va.gov/health-care/appointment-check-in/error/ | | inactive ||   |
 |System | www.va.gov/health-care/appointment-check-in/error?error=reload-data-error | | || ![Screen Shot 2023-04-04 at 10 55 04 AM](https://user-images.githubusercontent.com/2982977/229832820-5855fa3e-3352-44ae-ad43-8a7d09c36b6c.png) |
 |System | www.va.gov/health-care/appointment-check-in/error?error=refresh-on-details | | || ![Screen Shot 2023-04-04 at 10 55 04 AM](https://user-images.githubusercontent.com/2982977/229833833-bcf9bce0-c5e0-4356-aa66-c4ea43b836ec.png) |
 |System | www.va.gov/health-care/appointment-check-in/error?error=no-next-of-kin | NO LONGER USED | ||  |
