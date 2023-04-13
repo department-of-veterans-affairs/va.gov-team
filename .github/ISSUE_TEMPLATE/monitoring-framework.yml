@@ -23,23 +23,96 @@ body:
   attributes:
     label: Team Name
   validations:
+  required: true
+- type: input
+  id: productName
+  attributes:
+    label: Product Name
+  validations:
     required: true
 - type: markdown
   attributes:
     value: "## Feature Endpoints"
 - type: textarea
-  id: endpoints
+  id: currentEndpoints
   attributes:
-    label: Feature Endpoints
+    label: Existing Endpoints
+- type: textarea
+  id: newEndpoints
+  attributes:
+    label: New Endpoints
+- type: markdown
+  attributes:
+    value: "## Logging"
+- type: markdown
+  attributes:
+    value: |
+      ### Logged Data
+      
+      Here are some links to log messages that show best practices
+      - [Concise](#)
+      - [Complete](#)
+      - [Traceable](#)
+- type: textarea
+  id: loggedData
+  attributes:
+    label: Logged Data
+    description: What type of data do you log? Why?
+- type: markdown
+  attributes:
+    value: |
+      ### Capturing Sufficient Information
+      It is important for all logging and monitoring to capture enough
+      information that any team can read the logs and be able to take
+      the necessary actions to remedy the issue. Logs should _NOT_ capture
+      PII or other sensitive information.
 - type: checkboxes
-  id: checklist
+  id: sufficientLoggingChecklist
   attributes:
     label: Checklist
     options:
-      - label: Dashboard created
-      - label: Things done
-      - label: Stuff accomplished
-      - label: Celebrations ensued
-
-      
-      
+      - label: All logs have enough information to troubleshoot issues
+      - label: All logs have enough information to tie an entire end-to-end transaction together
+      - label: All logs have enough information to tie back to any database records
+      - label: All logs are sanitized of any PII that would otherwise be captured
+- type: textarea
+  id: confidence
+  attributes:
+    label: Confidence in Logs
+    description: Estimate the confidence you have in your logging solution from 1 (low) - 10 (high). What made you choose that number?
+- type: markdown
+  attributes:
+    value: "## Troubleshooting"
+- type: textarea
+  id: method
+  attributes:
+    label: Troubleshooting method
+    description: |
+      Explain your process for troubleshooting issues that arise. Include information
+      about how you would come to realize there's an issue, and what features of your
+      logging and monitoring solution you could leverage to address the issue quickly.
+- type: textarea
+  id: firstToKnow
+  attributes:
+    label: First To Know
+    description: What allows your team to be the first to know when there's an incident in your application?
+- type: markdown
+  attributes:
+    value: "## External Services"
+- type: textarea
+  id: externalServices
+  attributes:
+    label: Troubleshooting method
+    description: |
+      Explain your process for troubleshooting issues that arise. Include information
+      about how you would come to realize there's an issue, and what features of your
+      logging and monitoring solution you could leverage to address the issue quickly.
+- type: checkboxes
+  id: sufficientLoggingChecklist
+  attributes:
+    label: Checklist
+    options:
+      - label: All logs have enough information to troubleshoot issues
+      - label: All logs have enough information to tie an entire end-to-end transaction together
+      - label: All logs have enough information to tie back to any database records
+      - label: All logs are sanitized of any PII that would otherwise be captured
