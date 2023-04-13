@@ -11,8 +11,8 @@
 
 ## Common use cases:
 
-[User has a benefit application draft saved but not yet submitted]()
-[User has no benefit application drafts saved]()
+- [User has a benefit application draft saved but not yet submitted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/saved-applications-use-cases/user-has-application-draft.md)
+- [User has no benefit application drafts saved]()
 
 ## Edge cases:
 
