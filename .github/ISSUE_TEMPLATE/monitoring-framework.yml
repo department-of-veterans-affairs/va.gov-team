@@ -51,7 +51,7 @@ body:
 - type: textarea
   id: loggedData
   attributes:
-    label: Logged Data
+    label: Type of Data Logged
     description: What type of data do you log? Why?
 - type: markdown
   attributes:
