@@ -87,7 +87,8 @@ We tested two prototypes. In half the sessions, we tested Prototype #1 and in th
 3. Veterans didn’t recognize a relationship between their verified DS Logon account and their ability to create a Login.gov without identity verifying right away.
 4. Veterans are unfamiliar with the term ‘VA Digital Tools’ which causes confusion and demotivates them, because they’re not sure what they’re losing or gaining access to.
 5. Not understanding the difference between authentication and verification makes it difficult to know the limitations of an unverified Login.gov account, and how verification works.
-6. Veterans prefer when they’re giving more information about the account, what to expect, and where to get help from VA.
+6. Veterans prefer when they’re given more information about their account, what to expect, and where to get help from VA.
+7. If Veterans don't remember that their previous credential is going away or don't feel a sense of urgency to start getting familiar with Login.gov, they may to continue to use DS Logon.
 
 ## Details of findings
 
@@ -96,7 +97,11 @@ We tested two prototypes. In half the sessions, we tested Prototype #1 and in th
 Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 
-> Quote
+> “It doesn't seem like I have much of a choice. I'd have to comply with what it says, otherwise I lose access to what I want, the information I need digitally.” Participant 16
+
+> “It looks like it's telling me that the DS Logon will soon stop working. So it wants me to create the Login.gov.” Participant 7
+
+> "My original [login] is going to get chucked, so I would use Login.gov now.” Participant 15
 
 <br>
 
@@ -105,7 +110,9 @@ Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 
-> Quote
+> “Initially when it said this is going away, you need to create some other stuff for the systems or whatever, I was like yeah, okay, I don't need that right now. I just need to go in and get my stuff. I don't have time.” Participant 4
+
+> “If I saw this I’d be like, I'll just do it later. And especially if I'm on the go, I'm on my mobile. I'm just trying to get a message or send something.” Participant 5
 
 <br>
 
@@ -114,7 +121,7 @@ Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 
-> Quote
+> “At the beginning, it seems like there could be a note there saying, ‘if you click on DS Logon you will be asked to create a Login.gov account.’ There was no purpose at all to signing in with DS Logon.” Participant 16
 
 <br>
 
@@ -123,7 +130,9 @@ Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 
-> Quote
+> “I have no idea what a VA digital tool is to be honest with you, I mean I would be thinking it's a mouse that I'm moving around and being able to touch a link and press the button. I don't know.” Participant 17
+
+> “I'm not really sure. Digital, it means that there's some type of electronic process. And then I guess the tools part – some type of resource to help me get into my information. That was the thing that slowed me down the most. How that language connected to what I was trying to do.” Participant 4
 
 <br>
 
@@ -132,16 +141,35 @@ Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 
-> Quote
+> “To verify my identity I would choose voice or text.” Participant 20
+
+> “I've tried to get a Login.gov account before, but they want you to do this authentication where you have a video with them.” Participant 5
+
+> “When you get in, it [will] say, ‘okay, so to verify your identity we're gonna send you this code to a text number.’” Participant 15
 
 <br>
 
-**6. Veterans prefer when they’re giving more information about the account, what to expect, and where to get help from VA.**
+**6. Veterans prefer when they’re given more information about their account, what to expect, and where to get help from VA.**
 
 Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 
-> Quote
+> “I was wondering how long it was gonna take where it tells me right here, about 20 min. It tells me stuff I need to have so I can gather those things before I continue.” Participant 7
+
+> “I would print off this email, so that I can reference it. It's just me. I can't remember things, and I can't go back and forth [between tabs].” Participant 2
+
+> “If I had any questions I would probably call the VA. I'd telephone. I'd go to that website and try to get your phone number for support from the VA.” Participant 6
+
+<br>
+
+**7. If Veterans don't remember that their previous credential is going away or don't feel a sense of urgency to start getting familiar with Login.gov, they may to continue to use DS Logon.**
+
+Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
+Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
+
+> “But you can use Login.gov and still keep the same one I have, MHV Premium, right? You can have both, right? Because I want to keep my security blanket until I get used to other sites.” Participant 6
+
+> “In my spare time, I would try to go in on Login.gov, just to become familiar. But I have to be familiar with the site in order to use it over and over again.” Participant 20
 
 <br>
 
@@ -149,27 +177,241 @@ Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 
 1. Many Veterans benefit from password managers, whether they’re using a password manager application or an in-browser password manager that auto fills their details for them.
 
-2. Veterans found it straightforward to close the modal and most Veterans understood that was all they needed to do in order to navigate to another task they would like to complete on VA.gov.
+2. Veterans found it straightforward to close the modal and understood that was all they needed to do in order to navigate to another task they would like to complete on VA.gov.
 
 3. Most Veterans will choose to set up SMS, and are familiar with it. We found this during discovery research and it’s further confirmed by data from Login.gov.
 
 4. Most Veterans will not choose to set up a backup multi-factor authentication method. Those that would choose to set up a backup method tend to have experience with losing their phone, or understand there might be circumstances when they’re unable to access one method.
 
+## Insights described
+
+**Themes**
+
+1. Benefits of grandfathering aren’t clear
+2. Easy to ignore
+3. Confusion between credentials and applications
+4. Authentication ≠ verification
+5. Transitions take time
+6. Help from VA
+
+### Benefits of grandfathering aren’t clear
+
+As expected, most Veterans meet messaging about the need to adopt a new credential with concern or, at least, frustration.
+
+When you’ve established a routine for how to sign in, it’s frustrating to think of starting over. And Veterans are quickly fearful of losing access to their benefits and healthcare.
+
+> “If the login that I’ve used for the last 14 years is discontinued then I’m just going to call the VA and leave old fashioned messages with my provider.” Participant 19
+
+This concern, however, can be a motivating factor, urging Veterans to set up a new credential as soon as possible so they continue to have access.
+
+If a Veteran recognizes DS Logon as their sign in method and learns they won’t be able to use it at some point in the future, they will often choose to take action.
+
+> “It looks like it’s telling me that the DS Logon will soon stop working. So it wants me to create the Login.gov.” Participant 7
+
+> “It doesn't seem like I have much of a choice. I'd have to comply with what it says, otherwise I lose access to what I want, the information I need digitally.” Participant 16
+
+The benefits of migrating through grandfathering, and deferring identity verification, weren’t clear. And not recognizing a relationship between DS Logon and Login.gov makes it difficult to understand:
+* why you must start by signing in to DS Logon
+* why you don’t need to verify your identity at first,     but later on it’s recommended
+* why you have access to the VA, but not other government websites for now
+* why to verify and how it works
+
+> “At the beginning, it seems like there could be a note there saying, ‘if you click on DS Logon you will be asked to create a Login.gov account.’ There was no purpose at all to signing in with DS Logon.” Participant 16
+
+### Easy to ignore
+
+Veterans who saw a modal appear right after signing in to VA.gov, went to close it right away, or admitted that they would usually, out of habit.
+
+> “Initially when it said this is going away, you need to create some other stuff, I was like yeah, okay, I don't need that right now. I just need to go in and get my stuff. I don't have time.” Participant 4
+
+Veterans seemed to read through the email more closely. They’re hesitance, due to concerns about scams, do lead them to pay closer attention. This tendency to ignore a pop-up or modal also depends on whether the message comes at the wrong time or on the wrong device.
+
+While about 50% of VA.gov traffic is on mobile, Veterans prefer to set up a new credential or account on their desktop or laptop computer.
+
+> “If I saw this I’d be like, I'll just do it later. And especially if I'm on the go, I'm on my mobile. I'm just trying to get a message or send something.” Participant 5
+
+Unfamiliar language can also impede a Veteran’s motivation to set up a Login.gov account. 
+
+Most Veterans were not sure what they were at risk of losing access to, because the term VA Digital Tools was unclear and unfamiliar. This misunderstanding leads to confusion about the relationship between Login.gov and the VA later on.
+
+> “I have no idea what a VA digital tool is to be honest with you, I mean I would be thinking it's a mouse that I'm moving around and being able to touch a link and press the button. I don't know.” Participant 17
+
+> “I'm not really sure. Digital, it means that there's some type of electronic process. And then I guess the tools part – some type of resource to help me get into my information. That was the thing that slowed me down the most. How that language connected to what I was trying to do.” Participant 4
+
+Some Veterans may struggle to remember the name of the credential they use, which can make it easy to ignore an important message about DS Logon.
+
+And Veterans who do remember which credential they use, may not be aware of, or remember, the names of those they don’t use.
+
+This makes it difficult to understand that Login.gov is a sign in option. Referring to it as “VA only Login.gov” account, further complicates things.
+
+> “I know I used to use like DS, or something like that, what was it called?” Participant 7
+
+> “This is basically saying that DS Logon, it's gonna stop working. And you can create a VA healthcare login.” Participant 5
+
+### Confusion between credentials and applications
+
+At first, most Veterans don’t understand that Login.gov is a credential, not a new application.
+
+This confusion between credentials and applications also leads some Veterans to believe that Login.gov will consolidate all VA applications into one place, like a ‘one stop shop’ portal.
+
+> “I would imagine that [I'm going to set up] a one stop shop for all things VA … Just a login that allows you to access all things VA without having to go to multiple different pages or sites.” Participant 5
+
+> “I don't wanna have to log into something, do one thing and then log out of it and log into something else, and then I can do something else. I wanna be able to do all of those things at one time.” Participant 4
+
+At the end of account creation, most Veterans weren’t sure why Login.gov was sharing their information with the VA.
+
+This is partly because Veterans aren’t certain which account they’ve created, and because many Veterans assume they are creating an account on a VA website, not on Login.gov.
+
+Some referred to their account as a “VA login,” “Login for the VA”, “Login” or, in a few cases, “DS Logon.”
+
+> “You know, I was under the mistaken idea that this was the VA that I was working on? And it's not. It is, I guess, a group that is working either for or in connection with the VA.” Participant 17
+
+> “I think it might be a little bit helpful if it said your 'DS Logon' account set up is complete.” Participant 19
+
+This confusion also makes it difficult for Veterans to understand how to use Login.gov on other sites, and therefore, how verification works.
+
+After setting up their account, many Veterans assume that they’ve now ‘verified’ with the VA. And in order to use Login.gov with other government agencies, they’d follow a similar process on each agencies’ website.
+
+Veterans also found this ‘out of place’ because they would expect to be asked to verify their identity when they’re on another government website, not on VA.gov.
+
+> “I've got another account I've got to manage. So VA Login.gov, and all other government agencies Login.gov.” Participant 16
+
+> "I created a Login.gov account. It was pretty straightforward. A step by step walkthrough, and then I went through the verification process, verifying my identity with Login.gov. And I was able to get all signed in." Participant 7
+
+### Authentication ≠ verification
+
+With changing security requirements, Veterans expect sign in may require an additional step after username and password.
+
+So although it’s common to feel overwhelmed at the start of MFA set up, once you find a familiar option it’s straightforward.
+
+Most Veterans, like most people who use Login.gov, will choose SMS as their MFA option, because of previous experience with it.
+
+> “Text or voice message, I do that all the time, so that's what I would do.” Participant 17
+
+> “I usually have my cell phone on me. So the text is easiest. I can click on that button. Look at my phone, get the 6 digit code, or whatever it is, type it in, and then continue.” Participant 5
+
+But familiarity, which comes from repetitive use over time, doesn’t build an understanding of the difference between standard authentication, multi-factor authentication and identity verification.
+
+Terms, like, authenticate, sign in, two-factor, login and verify jumble together, with many Veterans using ‘authenticate’ and ‘verify’ interchangeably.
+
+This makes it difficult to understand the limitations of a Login.gov account that hasn’t been verified.
+
+> “To verify my identity I would choose voice or text.” Participant 20
+
+> “I've tried to get a Login.gov account before, but they want you to do this authentication where you have a video with them.” Participant 5
+
+> “It sends me a verification, a confirmation code, sometimes I get that.” Participant 6
+
+> “I set my email up, and then the next screen was to decide how I wanted to verify my identity, and that's when I chose text.” Participant 4
+
+> “When you get in, it [will] say, ‘okay, so to verify your identity we're gonna send you this code to a text number.’” Participant 15
+
+> "This is like a double verification. So authentication.” Participant 15
+
+> “[We were] logging in, verifying your account and validating your account.” Participant 6
+
+Some Veterans assume they are being asked to verify their identity in order to recover their account.
+
+Those who understand that verification allows you to access other government websites – and find it useful to know a timeframe and what to bring – still aren’t sure how it actually works or what to do next.
+
+A few Veterans reminded us that a timeframe can be misinterpreted as a session timeout, or, unlikely to represent your personal experience.
+
+> “If they don't recognize the first sign in, then I have to verify.” Participant 17
+
+> “I think I would expect to do a process very similar to the Login.gov for the VA. But it sounds like I'd set up an entirely new Login.gov account for another government or entity? Or can I use the same credentials? And then I just need to verify my identity. And I'm not really clear what that means.” Participant 16
+
+### Transitions take time
+
+After setting up Login.gov, Veterans are confident they can continue using VA services as usual.
+
+If they remember why they were asked to set up a Login.gov account – because DS Logon is going away soon – they’re more likely to remember to use Login.gov in future sessions.
+
+> “My original [login] is going to get chucked, so I would use Login.gov now.” Participant 15
+
+> “Not DS Logon, so I would click on Login.gov.” Participant 16
+
+But if Veterans don't remember that their previous credential is going away, they may to continue to use DS Logon,  even after they set up Login.gov.
+
+Or they might use Login.gov, but for less robust reasons, like, ‘it’s first in the list,’ or ‘I’ll give it a try.’
+
+And because there’s no deadline for when to stop using DS Logon, Veterans are more likely to continue using their legacy credential, which they feel more comfortable with. Not having a deadline also makes Veterans more likely to dismiss the modal.
+
+> “In my spare time, I would try to go in on Login.gov, just to become familiar. But I have to be familiar with the site in order to use it over and over again.” Participant 20
+
+> “But you can use Login.gov and still keep the same one I have, MHV Premium, right? You can have both, right? Because I want to keep my security blanket until I get used to other sites.” Participant 6
+
+### Help from VA
+
+Most Veterans will reach out to the VA for support with Login.gov or concerns about migrating. Veterans prefer to get help over the phone.
+
+Veterans might also choose to contact their VA healthcare provider or other Veterans they know.
+
+Only one Veteran mentioned getting support from Login.gov while they were setting up their account, but, this might be a result of Veterans’ misunderstanding what account they’re setting up.
+
+> “If I had any questions I would probably call the VA. I'd telephone. I'd go to that website and try to get your phone number for support from the VA.” Participant 6
+
+> “I would call my doctor, my main provider, and they've been pretty good about responding to questions I had. They would get back to me on the phone.” Participant 17
+
+Throughout account creation, many Veterans mention getting help or looking for more information about what they are being asked to do.
+
+Before embarking on setting up an account, Veterans may want to learn more about the process and what to expect, before jumping straight in.
+
+They also to come back to reference information about the migration in case they have questions or need help, which makes an email helpful.
+
+> “I was wondering how long it was gonna take where it tells me right here, about 20 min. It tells me stuff I need to have so I can gather those things before I continue.” Participant 7
+
+> “I would print off this email, so that I can reference it. It's just me. I can't remember things, and I can't go back and forth [between tabs].” Participant 2
+
+<br>
+
 ## Recommendations
+
+We're in the process of coming up with recommendations based on this research.
 
 ## Next steps
 
+We're in the process of coming up with next steps based on this research.
+
 ## Further research needed
+
+We're in the process of coming up with further research recmomendations based on this research.
 
 ## Appendix
 
-## Tools used for synthesis
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability/research%20plan.md)
 
-## Pages and applications used
+[Conversation guide #1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability/conversation%20guide%20%231.md)
 
-## Other supporting documents created
+[Conversation guide #2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability/conversation%20guide%20%232.md)
 
-## Secondary research
+[Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability/transcripts)
+
+### Tools used for synthesis
+
+[Mural](https://app.mural.co/invitation/mural/innovationboards1199/1679084805455?sender=u397f6dbbaed1b5b67b956658&key=8448ba4f-de5b-4aa7-960b-1d215808c652)
+
+### Pages and applications used
+
+[Prototype #1](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=41%3A1311&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=41%3A1311) 
+
+[Prototype #2](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Migration%3A-Grandfathering-IAL1-Flow?node-id=241%3A1369&scaling=min-zoom&page-id=241%3A1368&starting-point-node-id=234%3A1848) 
+
+### Other supporting documents created
+
+[Demo Readout Deck: Need to add link]()
+
+[VA Monday Design Readout: Need to add link]()
+
+### Secondary research
+
+This research builds on:
+
+* [2022-10-Research-LoginGovFieldResearch #185](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/185)
+* [2022-07 MHV transition to Login.gov as a single sign-on #157](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/157)
+* [2022-07 Login Self-Service Tool #156](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/156)
+* [2022-03 Sign-In Accessibility #93](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/93)
+
+As well as research conducted by Login.gov's product teams.
 
 ## Who we talked to
 
