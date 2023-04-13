@@ -184,7 +184,7 @@ And the front-end of the Find a Form product will show:
 
 ### Contact Platform support
 - Visit #vfs-platform-support, use the Platform support workflow, to request assistance, e.g. https://dsva.slack.com/archives/CBU0KDSB1/p1660066854784409
-- Ask them to explore vets-api latency. Ask them to explore whether the `VAForms::FormReloader` sidekiq job has failed, and rerun if so.
+- Ask them to explore vets-api latency. Ask them to explore whether the `VAForms::FetchLatest` sidekiq job has failed, and rerun if so.
 
 --- 
 ## Symptom: Reports of Bad PDF link emails
