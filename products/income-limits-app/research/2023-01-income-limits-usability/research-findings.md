@@ -281,5 +281,4 @@ _List all groups in red from the spreadsheet_
 * Group 2
 * Group 3
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/VA-recruitment-checker.png)
