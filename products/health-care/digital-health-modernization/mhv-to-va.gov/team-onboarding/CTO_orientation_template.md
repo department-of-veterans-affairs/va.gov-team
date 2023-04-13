@@ -21,8 +21,8 @@ Please schedule a short chat with each of these folks, either individually or in
 - [ ] Cara Frissell (Research Lead)
 - [ ] Jonathan Nelson (Designer)
 - [ ] Carlos Felix (Technical Architect)
-- [ ] Daniel Cloud (Engineering lead, filling in for Eric Voshall)
-- [ ] Eric Voshall (Full stack developer, returning April 11)
+- [ ] Daniel Cloud (Engineering lead)
+- [ ] Eric Voshall (Engineer)
 - [ ] Sara Smith (Accessibility)
 - [ ] Erin Flaherty (QA)
 
