@@ -172,7 +172,7 @@ Tell me about some of the appointments you have had in the past.
 
 ## Post-Task Interview
 
-- Does anything you saw today reflect how you manage your health care appointments? 
+- Does anything we went over today reflect how you manage your health care appointments? 
 
 - What tools do you use to track and manage your appointments.
 
