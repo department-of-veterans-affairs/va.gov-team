@@ -3,30 +3,29 @@
 Period - 04/12/2023 - 04/25/2023
 ### Sprint goals
 - **Expedited**
-   - [ ] Content and Design changes for adding Self-Assessment Part A to BDD 526 claims
+   - [ ] Implement content and design changes for adding Self-Assessment Part A to BDD 526 claims
 - **Non-negotiable**
-   - eVSS to Lighthouse Migration - complete tech discovery 
+   - eVSS to Lighthouse Migration 
         - rated disailities endpoint
-            - 
+            - Get our Veteran Verification API credentials pushed to the higher environment
         - Intent to File endpoint 
-            - [ ] Technical Discovery 
-        - 526 workflow 
-            - [ ] Technical Discovery for any other endpoint not yet identified
-   - React component deprecation 
-        - [ ] Migration for OMB component 
+            - [ ] Start migration - Abstract provider calls for GET and POST
+        - 526 submit workflow 
+            - [ ] Technical discovery for any other endpoint not yet identified
 - **Features**
    - Error messaging/validation 
       - [ ] Complete Discovery
-      - [ ] Start content changes for existing errors and validation messages
    - 526ez current with paper form
       - [ ] Design and Content changes for items not requiring research
    - Landing page changes
+      - [ ] Review of existing content research
       - [ ] Design and Content changes - start
+      - Content and Design for landing page (Is this the form I need?)
    - [ ] Analytics
-      - [ ] Baseline measurement recommendations based on Medallia survey data synthesis
       - [ ] Understanding Key metric calculations
          - [ ] Number of sessions to complete
          - [ ] Satisfaction ratings
+         - [ ] Others identified as useful metric for our goals
 
 ## Sprint 2
 Period - 03/29/2023 - 04/11/2023
@@ -40,7 +39,6 @@ Period - 03/29/2023 - 04/11/2023
         - BRD endpoint -> **pulled back from sprint as Cole is OOO**
             - [ ] Technical Discovery - Relationship between PCIU Address and BRD
             - [ ] Continue migration work 
-            - Cole was 
         - rated disailities endpoint
              - [ ] Continue migration work  
             - Successfully code complete to the best of our knowledge
@@ -55,16 +53,18 @@ Period - 03/29/2023 - 04/11/2023
             - [x] Technical Discovery 
             - No migration work required for 526ez flow
  - Features 
-   - [ ] Synthesis of call center feedback submitting claims using for 526ez form
+   - [x] Synthesis of call center feedback submitting claims using for 526ez form
       - Over 700 responses
       - Reviewed introduction and start page comments - about 400 responses
       - Identification error - 
          - 68 users when starting the form
          - some users saw it close to ITF expiry team
-         - Created a ticket for discovery   
+         - Created a ticket for discovery for this error
    - [ ] Discovery for error messaging/validation
+      - Needs to continue into the next sprint
    - [x] Epic-stories breakdown for prioritized ideas
       - Started entering stories in the product backlog
+      - Enough epics / tickets created to start a roadmap draft 
       - This will be work in progress 
 
 ## Sprint 1
