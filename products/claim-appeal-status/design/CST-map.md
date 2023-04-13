@@ -1,6 +1,6 @@
-#### The App Map is an overview of the current CST UI.
+### The CST App Map is an overview of the current CST UI.
 
-[CST App Map](https://www.sketch.com/s/d8594ef0-5efd-4a48-aa7a-baa3cb056482) in Sketch
+[App Map](https://www.sketch.com/s/d8594ef0-5efd-4a48-aa7a-baa3cb056482) in Sketch
 
 CST is `va.gov/track-claims` and related pages. 
 
