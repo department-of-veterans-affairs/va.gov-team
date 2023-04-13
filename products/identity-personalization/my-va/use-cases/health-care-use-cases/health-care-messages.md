@@ -1,5 +1,7 @@
 # My VA Health Care Use Case: User has VA health care and does or does not have unread messages
 
+**Last updated:** April 13, 2023
+
 For LOA3 users who sign in and have VA health care and unread messages, we will show an alert for their unread message(s) in the Health care section of My VA, as well as other useful health care links. When a user does not have any unread messages, they will see a link to send a secure message to their health care provider in this section of My VA.
 
 ## UX
