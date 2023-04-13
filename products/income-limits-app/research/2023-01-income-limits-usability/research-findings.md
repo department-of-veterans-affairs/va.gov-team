@@ -25,7 +25,7 @@ Date: 04/13/2023
 <br>
 
 ## Research Goals
-The new Income Limits application enables Veterans, their caregivers, family members, and others to look up the income limits for VA health care benefits by answering several questions.
+The new Income Limits application enables Veterans, their caregivers, family members, and others to **look up the income limits for VA health care benefits** by answering several questions.
 
 There are many potential touchpoints between the Veteran and this application throughout the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) when they might want to know whether they may be eligible for VA health care with their current income:
 - Getting out (Engaging VA to access benefits and services)
@@ -35,12 +35,6 @@ There are many potential touchpoints between the Veteran and this application th
 - Aging (Managing my declining health)
 
 The purpose of this research is to **get user feedback on the newly redesigned income limits application**. Learnings will help refine the design of the application before launch.
-
-_Then, describe your goals for this research_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
-
-
 
 ## Research Questions
 1. What are Veterans' expectations of income eligibility for VA health care? (ask before showing app)
@@ -56,22 +50,8 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 1. Do Veterans understand that they can use this to find the income limits for a previous year (not 2023)? Reaction to it not being part of the flow?
 
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
-
 ## Methodology 
-We will conduct **usability testing** to guide research participants through a click-through prototype. 
-
-Sessions will be conducted over Zoom,
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
+We will conduct **usability testing** to guide research participants through a click-through prototype. Sessions will be conducted over Zoom.
 
 
 ## Hypotheses and Conclusions
@@ -85,7 +65,6 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 8. The results page is an intuitive place for Veterans to seek information about historical income limits (vs. earlier in the interaction flow).
 9. The intro page communicates that income limits apply to only some Veterans.
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
 
