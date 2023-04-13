@@ -20,9 +20,9 @@
 There are no flags associated with this feature.
 
 ### System
-- [The main user call fails and the system can’t tell if the user has VA health care]()
-- [The appointments API is down and the system can't tell if the user has appointments scheduled but can tell they have VA health care]()
-- [The messaging API is down and we can’t tell if the user has any unread messages]()
+- [The main user call fails and the system can’t tell if the user has VA health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/main-user-call-fails.md)
+- [The appointments API is down and the system can't tell if the user has appointments scheduled but can tell they have VA health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/appointments-api-down.md)
+- [The messaging API is down and we can’t tell if the user has any unread messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/messaging-api-down.md)
 
 
 ## Flow diagrams
