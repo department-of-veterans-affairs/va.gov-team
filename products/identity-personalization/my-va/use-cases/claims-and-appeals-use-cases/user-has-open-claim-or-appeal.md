@@ -1,5 +1,7 @@
 # My VA Claims and Appeals Use Case: User has an open claim or appeal
 
+**Last updated:** April 13, 2023
+
 For LOA3 users who sign in and have an open claim or appeal, we will show a card for their most recently updated claim or appeal with the current status in the Claims and Appeals section on My VA.
 
 ## UX
