@@ -1,5 +1,7 @@
 # My VA Health Care Use Case: The main user call fails and the system can’t tell if the user has VA health care
 
+**Last updated:** April 13, 2023
+
 For LOA3 users who sign in and the main user call fails, they will likely see an error for the entire page but in rare cases the page may load and they will see an error in the Health care section on My VA.
 
 ## UX
