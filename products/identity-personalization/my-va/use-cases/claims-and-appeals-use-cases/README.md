@@ -8,9 +8,9 @@
 - [LOA1 users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases) will not see this section on My VA.
 
 ## Common use cases
-- [Use case](Link)
-- [Use case](Link)
-- [Use case](Link)
+- [User has an open claim or appeal]
+- [User has a claim or appeal that has been closed in the last 60 days]
+- [User does not have an open claim or appeal, or one that has been closed in the last 60 days]
 
 ## Edge cases
 
@@ -18,7 +18,7 @@
 There are no flags associated with this feature.
 
 ### System
-- [Title of system error](Link)
+- [The claims API is down and we can’t display any claims or appeals information](Link)
 
 ## Flow diagrams
-- [Title of flow diagram](Link)
+- [User flow for claims and appeals on My VA](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/4444BC2A-797F-4000-A125-31B83F7E817F/canvas)
