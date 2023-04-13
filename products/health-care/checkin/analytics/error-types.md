@@ -40,7 +40,7 @@ Source: [Direct link to Google Analytics](https://analytics.google.com/analytics
 |System | www.va.gov/health-care/appointment-check-in/error?error=no-next-of-kin | NO LONGER USED | ||  |
 |System | www.va.gov/health-care/appointment-check-in/error?error=error-fromlocation-landing | Happens when the veteran has a session locally and revisits the check in link but an error is returned validating the session. | active | before | ![Screen Shot 2023-04-04 at 10 55 04 AM](https://user-images.githubusercontent.com/2982977/229835316-83aedab4-bacf-47ba-9325-4129a731420f.png) |
 |System | www.va.gov/health-care/appointment-check-in/error?error=error-completing-check-in | Veteran hits check in button but there was a problem with vets-api | active | after |![Screen Shot 2023-04-04 at 11 10 21 AM](https://user-images.githubusercontent.com/2982977/229837807-480ca354-4603-4161-aee9-f714ea85368b.png) |
-| System | www.va.gov/health-care/appointment-check-in/error?error=validation | NO LONGER USED | Not active | |  |
+| System | www.va.gov/health-care/appointment-check-in/error?error=validation | NO LONGER USED | inactive | |  |
 
 
 Source: [Direct link to Google Analytics](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.dateOption=last7days&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22RE%22,%22appointment-check-in~2Ferror%22,0%5D%5D/) 
