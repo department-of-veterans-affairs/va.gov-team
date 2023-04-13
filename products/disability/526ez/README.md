@@ -7,6 +7,7 @@
 - GitHub Label: disability-experience
 - Slack channel: #benefits-disability-experience
 - VA.gov link: /disability/file-disability-claim-form-21-526ez/introduction
+- Product Roadmap: [link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=0-1680617210045)
 - Demo video link: n/a
 - [Test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-claims.md)
 - Keywords: disability compensation, 21-526EZ, all claims, increase only
