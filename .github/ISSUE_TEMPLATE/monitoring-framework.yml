@@ -18,7 +18,7 @@ body:
   attributes:
     label: Team Name
   validations:
-  required: true
+    required: true
 - type: input
   id: productName
   attributes:
