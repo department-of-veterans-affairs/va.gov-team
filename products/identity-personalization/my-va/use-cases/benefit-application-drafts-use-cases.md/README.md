@@ -11,8 +11,8 @@
 
 ## Common use cases:
 
-- [User has a benefit application draft saved but not yet submitted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/saved-applications-use-cases/user-has-application-draft.md)
-- [User has no benefit application drafts saved]()
+- [User has a benefit application draft saved but not yet submitted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-application-drafts-use-cases.md/user-has-applications-drafts.md)
+- [User has no benefit application drafts saved](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-application-drafts-use-cases.md/user-has-no-application-drafts.md)
 
 ## Edge cases:
 
