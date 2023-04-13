@@ -29,6 +29,11 @@
      - MS will provide data on
           - Call volume for 1010EZR updates
           - Number of paper 1010EZRs received
- 
 
 - Please fee free to contact our team at VHAMS1010Team@va.gov.
+
+
+---
+10-10EZR Data pulled in March
+- Average of 10,400 EZR doc downloads per month for the last 13 months
+- 8,785 average unique events
