@@ -507,8 +507,8 @@ Disability and Assistive Technology (AT):
 ### Underserved groups we haven’t talked to
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-Asian Veterans
-LGBTQ+ Veterans
+* Asian Veterans
+* LGBTQ+ Veterans
 
 We weren't given data on whether participants were other than honorably discharged, of immigrant origin, or expats (living abroad).
 
