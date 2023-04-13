@@ -1,6 +1,6 @@
 # My Health*e*Vet on VA.gov Initiative Outline
 The MHV to VA.gov Initiative consists of several different products, each with their own discrete product outlines:
-  - [MHV on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md) (overall initiative)
+  - [MHV on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md) (overall initiative, team members, business partners)
   - [Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product)
   - [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
   - [Pharmacy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/pharmacy)
@@ -19,7 +19,7 @@ The MHV to VA.gov Initiative consists of several different products, each with t
 - [Medications](https://app.zenhub.com/workspaces/mhv-to-vagov-medications-board-62ffb09ba292f80015dfa433/board)
 - [Appointments  - VAOS Team, Check-In team](https://app.zenhub.com/workspaces/mhv-to-vagov-appointments-63d9ef2effd69b002641127b/board)
 
-
 # Planning and Resources
+
 - [Roadmap 2022-2024](https://app.zenhub.com/workspaces/mhv-to-vagov-top-level-view-62619a987d74510018ecc546/roadmap)
 
