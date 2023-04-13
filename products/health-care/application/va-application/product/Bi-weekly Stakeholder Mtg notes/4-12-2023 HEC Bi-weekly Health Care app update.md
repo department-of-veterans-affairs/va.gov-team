@@ -5,13 +5,13 @@
 - Disclosure – high priority
      - Recommendation:  See slide 4 attached
      - Your team will discuss with the va.gov governance team the following:
-     - Design of the disclosure
-     - Content view
-     - Consistency of the form
-     - Accessibility
-     - Determine if the disclosure will be linked similar to the privacy policy
-     - Develop
-     - UAT testing
+          - Design of the disclosure
+          - Content view
+          - Consistency of the form
+          - Accessibility
+          - Determine if the disclosure will be linked similar to the privacy policy
+          - Develop
+          - UAT testing
      - Turn-around-time (unsure at this time)
      - Take away for MS is to consider plain language review
 
@@ -20,6 +20,12 @@
  
 
 - 1010EZR Online
+     - Problem - Mail, In person, call
+     - If can enroll online, should be able to update online
+          - Lots of EZRs with PACT Act expanding eligibility
+          - Done yearly for those that need to re-register with their updatedr financial info
+               - Must be filled out in entirety each time
+               - Omitted information from the form may be considered as no longer being valid for the Veteran
      - MS will provide data on
           - Call volume for 1010EZR updates
           - Number of paper 1010EZRs received
