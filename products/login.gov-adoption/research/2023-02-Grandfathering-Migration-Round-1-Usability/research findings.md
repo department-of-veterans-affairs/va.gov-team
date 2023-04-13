@@ -183,9 +183,7 @@ Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 
 4. Most Veterans will not choose to set up a backup multi-factor authentication method. Those that would choose to set up a backup method tend to have experience with losing their phone, or understand there might be circumstances when they’re unable to access one method.
 
-## Insights described
-
-**Themes**
+## Key themes
 
 1. Benefits of grandfathering aren’t clear
 2. Easy to ignore
