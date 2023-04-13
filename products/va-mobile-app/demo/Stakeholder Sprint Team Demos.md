@@ -4,7 +4,7 @@ Meeting Owner: Kelly Lein
 Timing: Every 2 Thursdays 2:35 - 3:15pm 
 
 ---  
-**Demo Sprint 66 4/27/23** - cancelled 
+**Demo Sprint 66 4/27/23** 
 Agenda
 - Demo Topic(s)
   -  New QA Test Environement - Jon Bindbeutel
