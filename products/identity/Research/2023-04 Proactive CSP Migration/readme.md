@@ -1,8 +1,8 @@
 # About this Research
 
-[Research Repo Ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/280)
-[Research Session Guest List Planning](https://docs.google.com/spreadsheets/d/1y6D2_ItNX9Tch5-nlOFw4Te1ycQMxTqCh09-w-iluWQ/edit#gid=0)
-Future link to Mural board for note taking
+- [Research Repo Ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/280)
+- [Research Session Guest List Planning](https://docs.google.com/spreadsheets/d/1y6D2_ItNX9Tch5-nlOFw4Te1ycQMxTqCh09-w-iluWQ/edit#gid=0)
+- Future link to Mural board for note taking
 
 
 ## Planned timeline
