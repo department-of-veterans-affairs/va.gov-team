@@ -112,8 +112,9 @@ A Drupal content type that can be used for short-lived marketing campaigns. Inte
 
 **More info:**
 * A6 program GDrive folder:[ Campaign Landing Page](https://drive.google.com/drive/u/1/folders/1pyvDhf6ZdvBehFs3lFzyAF2kMeGkazX6)
-* [campaign-landing-page-templates & Docs - Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates) 
-* [CLP runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/campaign-landing-pages/campaign-landing-pages.md) - team runbook for managing CLP requests
+* [Product launch docs: tier 2 content IA & Design > Campaign Landing Page Templates - Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates) 
+* [Public Websites team documentation: Campaign Landing Pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/campaign-landing-pages/campaign-landing-pages.md) - 
+* [PW team runbook for managing CLP requests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/campaign-landing-pages/campaign-landing-pages.md#runbook-for-clp-creation)
 * [VFS Product Directory: Campaign Landing Page](https://depo-platform-documentation.scrollhelp.site/getting-started/campaign-landing-page)
 
 
