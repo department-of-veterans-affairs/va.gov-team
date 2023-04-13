@@ -24,13 +24,13 @@ Reduce the time it takes for a Veteran to achieve an outcome through self-servic
 ## Who we are
 CTO Health Team
 - [ ] Lauren Alexanderson (OCTO Product Sponsor) - please work with [Alicia Proctor](https://dsva.slack.com/team/U022MUJ2NAJ), Lauren's executive assistant to schedule meetings.
-- [ ] Lynne Johnson (Delivery Manager - starting April 4)
+- [ ] Lynne Johnson (Delivery Manager)
 - [ ] Marci McGuire (Product Manager)
 - [ ] Cara Frissell (Research Lead)
 - [ ] Jonathan Nelson (Designer)
 - [ ] Carlos Felix (Technical Architect)
-- [ ] Daniel Cloud (Engineering lead, filling in for Eric Voshall)
-- [ ] Eric Voshall (Full stack developer, returning April 11)
+- [ ] Daniel Cloud (Engineering lead)
+- [ ] Eric Voshall (Full stack developer)
 
 ---
 
