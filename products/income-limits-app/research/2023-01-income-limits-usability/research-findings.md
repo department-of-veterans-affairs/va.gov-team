@@ -27,15 +27,14 @@ Date: 04/13/2023
 ## Research Goals
 The new Income Limits application enables Veterans, their caregivers, family members, and others to look up the income limits for VA health care benefits by answering several questions.
 
-There are many potential touchpoints between the Veteran and this application throughout the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf):
+There are many potential touchpoints between the Veteran and this application throughout the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) when they might want to know whether they may be eligible for VA health care with their current income:
 - Getting out (Engaging VA to access benefits and services)
 - Starting up (Attending to health needs)
 - Taking care of myself (Recognizing and addressing mental health needs, Managing primary care and chronic health issues, Seeking support for an acute health event, Maintaining my health)
 - Retiring (Taking care of my health)
 - Aging (Managing my declining health)
 
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+The purpose of this research is to **get user feedback on the newly redesigned income limits application**. Learnings will help refine the design of the application before launch.
 
 _Then, describe your goals for this research_
 
