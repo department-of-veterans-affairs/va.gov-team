@@ -102,17 +102,32 @@ body:
 - type: textarea
   id: externalServices
   attributes:
-    label: Troubleshooting method
+    label: Downstream Service Integration
     description: |
-      Explain your process for troubleshooting issues that arise. Include information
-      about how you would come to realize there's an issue, and what features of your
-      logging and monitoring solution you could leverage to address the issue quickly.
+      Most VA.gov features use downstream services in some capacity. If they are experiencing degraded states, 
+      we should be the first to know about how our apps are impacted.
 - type: checkboxes
-  id: sufficientLoggingChecklist
+  id: externalServicesChecklist
   attributes:
     label: Checklist
     options:
-      - label: All logs have enough information to troubleshoot issues
-      - label: All logs have enough information to tie an entire end-to-end transaction together
-      - label: All logs have enough information to tie back to any database records
-      - label: All logs are sanitized of any PII that would otherwise be captured
+      - label: All external call (failures and successes) are logged with pertinent information
+      - label: All external calls are logged with StatsD counters and/or a Sentry tag
+- type: textarea
+  id: consistency
+  attributes:
+    label: How do you know if your services are working?
+- type: textarea
+  id: rateTracking
+  attributes:
+    label: How do you track failures and successes over time?
+- type: textarea
+  id: missingFeatures
+  attributes:
+    label: Is there anything missing from your monitoring/logging/alerting solution?
+    description: This could include access to certain tooling, integrations, or pie-in-the-sky ideas.
+- type: textarea
+  id: other
+  attributes:
+    label: What other questions do you have for the Platform team?
+
