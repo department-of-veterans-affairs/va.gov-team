@@ -88,7 +88,7 @@ We tested two prototypes. In half the sessions, we tested Prototype #1 and in th
 4. Veterans are unfamiliar with the term ‘VA Digital Tools’ which causes confusion and demotivates them, because they’re not sure what they’re losing or gaining access to.
 5. Not understanding the difference between authentication and verification makes it difficult to know the limitations of an unverified Login.gov account, and how verification works.
 6. Veterans prefer when they’re given more information about their account, what to expect, and where to get help from VA.
-7. If Veterans don't remember that their previous credential is going away or don't feel a sense of urgency to start getting familiar with Login.gov, they may to continue to use DS Logon.
+7. If Veterans don't remember that their previous credential is going away, or don't feel a sense of urgency to start using Login.gov, it's likely that they'll continue to use DS Logon.
 
 ## Details of findings
 
@@ -162,7 +162,7 @@ Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 
 <br>
 
-**7. If Veterans don't remember that their previous credential is going away or don't feel a sense of urgency to start getting familiar with Login.gov, they may to continue to use DS Logon.**
+**7. If Veterans don't remember that their previous credential is going away, or don't feel a sense of urgency to start using Login.gov, it's likely that they'll continue to use DS Logon.**
 
 Labels: `AUD: Veterans`, `PRDT: Login.gov`, `PRDT: Login`, `BNFT: Healthcare`, `VETJNY: Taking care of themselves
 Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
