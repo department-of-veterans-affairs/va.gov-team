@@ -4,6 +4,8 @@
 April 2022: Public Websites products are currently maintained by the [Sitewide Public Websites team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/sitewide/public-websites). 
 (Previously by [VSA Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites).)
 
+VA Product Owner = Dave Conlon (@davidconlon)
+
 ### Slack
 - [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
 
@@ -14,9 +16,8 @@ April 2022: Public Websites products are currently maintained by the [Sitewide P
 
 # Products we support
 
-[Sitewide Public Websites purview mural](https://app.mural.co/t/vagov6717/m/vagov6717/1658961045082/cedcb1c5c42489e47be37733c73890ef890070ae?sender=u252e7152800e3981889d1910)
+[Sitewide Public Websites purview mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/vagov6717/1658961045082/cedcb1c5c42489e47be37733c73890ef890070ae?sender=4546ef8b-a453-424d-a34c-01d90db04d5f)
 
-Additional inforrmation: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites
 
 | [CMS content / functionality](#cms-content--functionality) | [Non-CMS content / products](#non-cms-content--products) | [Previous PW Projects](#previous-pw-projects) |
 | ------------- | ------------- | ------------- |
