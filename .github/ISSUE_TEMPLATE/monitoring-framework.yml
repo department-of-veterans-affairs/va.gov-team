@@ -13,11 +13,6 @@ body:
       It's okay if you can't complete all of the steps, or if you identify problems but aren't able to fix them. Try to do as much as you can. Tell us what you're able to do, what you found, and if you have any questions or concerns heading into your review.
 
       For information on how to set up logging and monitoring, check out the [logging and monitoring guide] (Links to section in this document titled Setting up logging and monitoring).
-- type: markdown
-  attributes:
-    value: |
-      1. Dashboards set up
-      2. Link made available to people
 - type: input
   id: teamName
   attributes:
