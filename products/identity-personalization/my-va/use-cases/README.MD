@@ -1,5 +1,5 @@
 # My VA Use Cases
-**Last updated:** Februay 2, 2023 (updated name of benefit application drafts section)
+**Last updated:** April 13, 2023
 
 ## Common Use Cases
 
@@ -9,7 +9,7 @@
 
 ### User logs in with LOA3 account
 
-- Claims and appeals use cases (content and link to come in April 2023)
+- [Claims and appeals use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/claims-and-appeals-use-cases)
 - Health care use cases (content and link to come in April 2023)
 - [Outstanding debts use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases)
 - [Benefit payments use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases)
