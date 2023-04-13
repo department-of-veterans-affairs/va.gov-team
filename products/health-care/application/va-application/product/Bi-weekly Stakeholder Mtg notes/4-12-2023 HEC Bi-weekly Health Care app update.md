@@ -23,7 +23,7 @@
 
      - MS will provide data on
      - Call volume for 1010EZR updates
-     - # of paper 1010EZRs received
+     - Number of paper 1010EZRs received
  
 
 - Please fee free to contact our team at VHAMS1010Team@va.gov.
