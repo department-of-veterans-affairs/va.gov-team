@@ -132,7 +132,24 @@ Participants had different interpretations for the **dependents** question. Some
 - REC: Delete the text "from VBA" in the pension question (or if this must be kept in, write out "Veterans Beefits Administration") because it's confusing as is.
 - REC: Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean.
 
-### Participants found the **landing page** in the prototype ([Your health care costs](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/)) to be **very long**--especially on a phone--and it was **difficult to locate the "Check our current income limits" link** in it (which was in two places).
+### The landing page was very long to read on a phone, and difficult to find one of the two "Check our current income limits" links 
+The **landing page** in the prototype was a static version of the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) on which the only working links were two copies of "Check our current income limits". When the participant clicked on one of those two links, they saw the prototype screens for the income limits tool.
+
+Scrolling down this very long landing page on a phone took a while, especially for the 3 participants who were reading everything on that page. The two income limits links were several scroll distances down the page, and there was more to the page below these links. 
+- 2 participants seemed lost in the long page while scrolling. 
+- 1 participant never found either of the income limits links. 
+- Another participant found one of them but continued reading down the page, and when they scrolled back up, they had trouble finding the link again. 
+- 2 other participants missed both links on their first look through the page but found one later. 
+- 6 participants clicked on the first income limits link (in the section "Will I need to pay for any of my care, tests or medications?").
+- Only 1 participant clicked on the second income limits link (in the section "Does VA verify the information I provide?"), and they remarked:
+> *"Kind of far down on the page" (p9)*
+.
+While looking at the landing page, 3 participants said that VA health care eligibility isn't relevant for them.
+ 
+
+- REC: Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move the income limits app link closer to the top of page.
+
+to be **very long**--especially on a phone--and it was **difficult to locate the "Check our current income limits" link** in it (which was in two places).
 
 
 
