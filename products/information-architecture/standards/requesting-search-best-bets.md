@@ -1,4 +1,4 @@
-# Requesting search best bets for a VA.gov page
+# Requesting Search Best Bets for a VA.gov Page
 ## Search best bets
 Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. These suggestions are selected for specific terms and are intended to help veterans and their beneficiaries find relevant results quickly.
 
