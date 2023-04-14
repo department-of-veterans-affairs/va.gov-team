@@ -7,9 +7,9 @@ Last updated by @tygindraux: March 9, 2023
 
 There are currently multiple ways to sign in and access VA services. These sign in options don't all meet required security standards and also create user frustration and confusion. We need to migrate Veterans from legacy credential service providers (DS Logon and My HealtheVet) to Login.gov. During [discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/discovery/2022-10-Login.gov-Adoption-Discovery-Research), we defined different pathways for the migration.
 
-This initiative focuses on one migration pathway: moving select DS Logon users to Login.gov without the need to reverify their identities through “grandfathering” or deferred identity proofing. In this case, Veterans will receive an IAL1 Login.gov account which works “as normal” for VA services, but can’t be used by other government services until it’s upgraded to IAL2. In order to upgrade to an IAL2 Login.gov account, Veterans will have the option of identity proofing at a later date. The [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/legacy%20CSP%20migrations) has more details on this product.
+This initiative focuses on one migration pathway: moving select DS Logon users to Login.gov without the need to reverify their identities through deferred identity proofing. In this case, Veterans will receive an IAL1 Login.gov account which works “as normal” for VA services, but can’t be used by other government services until it’s upgraded to IAL2. In order to upgrade to an IAL2 Login.gov account, Veterans will have the option of identity proofing at a later date. The [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/legacy%20CSP%20migrations) has more details on this product.
 
-We will run a few rounds of testing to review the effectiveness and usability of this grandfathering user flow. Following Round 1, we will include follow-up testing to address any issues that surface. We will also include at least one round of accessibility testing with blind and low vision users. The [research overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research) has more details on what is upcoming.
+We will run a few rounds of testing to review the effectiveness and usability of this deferred identity proofing user flow. Following Round 1, we will include follow-up testing to address any issues that surface. We will also include at least one round of accessibility testing with blind and low vision users. The [research overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research) has more details on what is upcoming.
 
 ### Research this builds on
 
@@ -45,7 +45,7 @@ The key goals of this study are to:
 
 ### Outcome
 
-This research will validate and refine a user flow that lets Veterans migrate from DS Logon to Login.gov through grandfathering. We are aiming to test two different flows; each with an alternate trigger. We will aim to make a decision about whether to move forward with one or both potential triggers, based on findings.
+This research will validate and refine a user flow that lets Veterans migrate from DS Logon to Login.gov through deferred identity proofing. We are aiming to test two different flows; each with an alternate trigger. We will aim to make a decision about whether to move forward with one or both potential triggers, based on findings.
 
 We will aim to find solutions to any issues that are surfaced through testing. If we uncover issues within the Login.gov flow, we will make recommendations to our partners at Login.gov.
 
