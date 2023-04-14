@@ -132,7 +132,7 @@ Participants had different interpretations for the **dependents** question. Some
 - REC: Delete the text "from VBA" in the pension question (or if this must be kept in, write out "Veterans Beefits Administration") because it's confusing as is.
 - REC: Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean.
 
-### The landing page was very long to read on a phone, and difficult to find one of the two "Check our current income limits" links 
+### The landing page was very long to read on a phone, and participants found it difficult to find one of the two "Check our current income limits" links 
 The **landing page** in the prototype was a static version of the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) on which the only working links were two copies of "Check our current income limits". When the participant clicked on one of those two links, they saw the prototype screens for the income limits tool.
 
 Scrolling down this very long landing page on a phone took a while, especially for the 3 participants who were reading everything on that page. The two income limits links were several scroll distances down the page, and there was more to the page below these links. 
@@ -144,13 +144,13 @@ Scrolling down this very long landing page on a phone took a while, especially f
 - Only 1 participant clicked on the second income limits link (in the section "Does VA verify the information I provide?"), and they remarked:
 > *"Kind of far down on the page" (p9).*
 
-While looking at the landing page, 3 participants said that VA health care eligibility isn't relevant for them.
- 
-
 - REC: Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move the income limits app link closer to the top of page.
 
-to be **very long**--especially on a phone--and it was **difficult to locate the "Check our current income limits" link** in it (which was in two places).
+While looking at the landing page, 3 participants said that VA health care eligibility isn't relevant for them. One of them is covered by Tricare for Life, another already has good benefits from the government job that they retired from, and the third assumes that her household income is too high and thus she would need a disability rating (like her husband has and gets VA health care). 
 
+> *"From what I read I would not be able to receive healthcare unless I have a disability" (p7)*.
+ 
+- REC: Consider clarifying in the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page that if your income is too high, applying for disability may not be what you should do next.
 
 
 **Finding 1**
