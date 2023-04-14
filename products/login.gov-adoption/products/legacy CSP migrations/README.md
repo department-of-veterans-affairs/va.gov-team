@@ -1,4 +1,4 @@
-# Legacy CSP grandfathering outline
+# Legacy CSP deferred identity proofing outline
 
 ## Overview
 
@@ -9,7 +9,7 @@
 ## Problem Statement
 As we continue to evolve the VA.gov ecosystem, legacy Credential Service Providers (CSP's) do not meet customer experience and security objectives prioritized by the administration in the EO on improving customer experience. We need to migrate users to newer CSP's that do meet these objectives. In this specific instance, we are working to move DS Logon users and MyHealtheVet Premium users to Login.gov without the need to reverify their identities.
 
-Grandfathering lets Veterans migrate without requiring them to re-proof right away. Through this approach, Veterans with Premium DS Logon or Premium My HealtheVet accounts would set up a limited access (IAL1 compliant) Login.gov account. Limited access means Veterans can use their Login.gov account to access VA services. Veterans will need to upgrade (IAL2) by identity proofing in order to use their Login.gov account to access other government services. The limited use of IAL1 accounts across agencies will provide an incentive to upgrade to IAL2. Or, we could set a deadline for when accounts need to be proofed by. Additionally, inherited proofing from MHV would enable users to upgrade to IAL2 accounts without the need for reproofing.
+Deferred identity proofing lets Veterans migrate without requiring them to re-proof right away. Through this approach, Veterans with Premium DS Logon or Premium My HealtheVet accounts would set up a limited access (IAL1 compliant) Login.gov account. Limited access means Veterans can use their Login.gov account to access VA services. Veterans will need to upgrade (IAL2) by identity proofing in order to use their Login.gov account to access other government services. The limited use of IAL1 accounts across agencies will provide an incentive to upgrade to IAL2. Or, we could set a deadline for when accounts need to be proofed by. Additionally, inherited proofing from MHV would enable users to upgrade to IAL2 accounts without the need for reproofing.
 
 There is an opportunity to bind an LOA2 VA credentials to Login.gov IAL1 so it can at least be used within VA without requiring initial additional identity proofing. The end goal is to simplify the migration process for existing users.
 
