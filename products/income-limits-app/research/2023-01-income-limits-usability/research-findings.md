@@ -146,7 +146,17 @@ Scrolling down this very long landing page on a phone took a while, especially f
 
 - REC: Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move the income limits app link closer to the top of page.
 
-While looking at the landing page, 3 participants said that VA health care eligibility isn't relevant for them. One of them is covered by Tricare for Life, another already has good benefits from the government job that they retired from, and the third assumes that her household income is too high and thus she would need a disability rating (like her husband has and gets VA health care). 
+### Many participants said that they may not be eligible for VA health care, based on what they read on the landing page, the app intro page, or the app results page
+
+#### From landing page
+> *"From what I read I would not be able to receive healthcare unless I have a disability" (p7)*.
+ 
+- REC: Consider clarifying in the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page that if your income is too high, applying for disability may not be what you should do next.
+
+#### From app intro page
+
+
+#### From app results page
 
 > *"From what I read I would not be able to receive healthcare unless I have a disability" (p7)*.
  
