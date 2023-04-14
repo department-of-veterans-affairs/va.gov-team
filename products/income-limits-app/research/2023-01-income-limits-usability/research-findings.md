@@ -101,6 +101,20 @@ _For each finding, list details with supporting quotes and images when possible.
 
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
+### Participants had difficulty understanding some of the benefit descriptions under the income ranges
+Participants found some of the text to be ambiguous, which made it difficult for them to understand the specific benefits and compare them across income ranges. Each of the phrases below was questioned by 3 of 8 participants (but not the same participants for each): 
+- **"VA health care"**--medical? dental? vision? only at a VA hospital?
+- **"most types of care"**--outpatient office visits for routine appointments and for illness? lab work and screenings? inpatient care? surgery? dental? vision? for dependents, too?
+- **"copays" *vs.* "full copays"**--dollar amounts? how much for surgery and is there a limit? 
+
+> *"I don't understand. I would have to ask someone or look it up" (p8)*
+
+- REC: Add more description to the benefits and/or provide links to details for "VA health care", "most types of care", "copays", and "full copays".
+- REC (move to other section): Consider standardizing the bullets for each benefit so it's easier to compare them across income ranges: 
+  - Outpatient and inpatient visits
+  - Prescriptions
+  - Travel pay (if applicable)
+
 
 **Finding 1**
 
@@ -153,9 +167,12 @@ Brief description
 6. Some participants were **confused by the mention of cases where income limits don't apply**, wondered whether income limits applied to them, and thought the app might help them figure this out. 
 7. Participants had **different interpretations for the dependents question**. Some said they would enter what they put on their income taxes, and others remembered this information incorrectly or might have been thinking of the VA's definition of dependents, which includes your spouse.
 8. Most participants **didn't open the "How to estimate your income for this tool"** accordion and didn't mention any deductions. They simply used the salary number from the moderator to select an income range to open. 
-9. Participants found **parts of the benefit descriptions under each income range to be unclear** and wanted more details (e.g., "most types of care", "full copays").
-10. Most participants believed the results they got from the app and **weren't inclined to apply for health care** if their income was in the highest bracket.
-11. Some participants had **difficulty navigating back to the _Review information_ page** from the _Results page_.
+
+
+
+
+11. Most participants believed the results they got from the app and **weren't inclined to apply for health care** if their income was in the highest bracket.
+12. Some participants had **difficulty navigating back to the _Review information_ page** from the _Results page_.
 
 
 
