@@ -142,8 +142,8 @@ Scrolling down this very long landing page on a phone took a while, especially f
 - 2 other participants missed both links on their first look through the page but found one later. 
 - 6 participants clicked on the first income limits link (in the section "Will I need to pay for any of my care, tests or medications?").
 - Only 1 participant clicked on the second income limits link (in the section "Does VA verify the information I provide?"), and they remarked:
-> *"Kind of far down on the page" (p9)*
-.
+> *"Kind of far down on the page" (p9).*
+
 While looking at the landing page, 3 participants said that VA health care eligibility isn't relevant for them.
  
 
