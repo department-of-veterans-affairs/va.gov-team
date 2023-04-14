@@ -1,28 +1,24 @@
-# Research Plan for Identity, Proactive Login.gov Migration, [2023-04]
+# Research Plan for Identity, Proactive CSP Migration, 2023-04
  
 
 ## Background
-There are currently multiple ways to sign in and access VA services. These Credential Service Providers (CSPs) don't all meet required security standards and so many choices creates user frustration and confusion. We need to migrate Veterans from legacy credential service providers (DS Logon and My HealtheVet) to Login.gov as a first choice or ID.me. During discovery research, the LGA team defined different pathways for the migration.
+There are currently multiple ways to sign in and access VA services. These Credential Service Providers (CSPs) don't meet required security standards and so many choices create user frustration and confusion. We need to migrate Veterans from legacy credential service providers (DS Logon and My HealtheVet) to Login.gov as a first choice or ID.me. During discovery research, the LGA team defined different pathways for the migration.
 
-The pathway this research focuses on is to promote Organic Adoption of login.gov - encouraging veterans to migrate to a modern CSP now, ahead of sunsetting.
+The pathway this research focuses on is promoting Organic Adoption of login.gov - specifically in encouraging veterans to migrate to a modern CSP now, ahead of sunsetting.
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/login.gov) 
 
-### In scope for this research
-- verbiage for what veterans call a "verified account"
-- veterans who use a legacy CSP
-- self-directed migration to a modern CSP
-
 ### Out of scope for this research
 - Support for account creation or proofing
-   - like potential VA integrations with login.gov account creation process
-   - like potential VA work to help veterans through the current login.gov (or ID.me) account creation process
+   - potential VA integrations with login.gov account creation process
+   - potential VA work to help veterans through the current login.gov (or ID.me) account creation process
 - Pathway for Grandfathering accounts from legacy CSP
-   - like binding to login.gov verified accounts based off legacy proofing
-- Pathway for organic adoption of login.gov (those who are creating an account for the first times)  
+   - binding to login.gov verified accounts based off legacy proofing
+- Pathway(s) for adoption of login.gov for those who are creating an VA account for the first time  
 
 ### Previous related research
 
+- [2023-02-Grandfathering-Migration-Round-1-Usability #235](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/235)
 - [2022-10 Research LoginGov Field Research #185](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/185)
 - [2022-07 MHV transition to Login.gov as a single sign-on #157](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/157)
 - [2022-07 Login Self-Service Tool #156](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/156)
@@ -44,17 +40,19 @@ This initiative focuses on Veterans who are using either DS Logon or MHV as thei
 
 ## Research Goals
 
-- Test the usability of a modal prototype that encourages veterans to signup for a login.gov account
-- Identify which term is most understandable and resonates most when describing an ID proofed account
+- Test the usability of a [modal prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979) that encourages veterans to signup for a login.gov account
+- Identify which terms are most understandable and resonates most when describing identity concepts like verified (ID prooded) account and authentication.
 - Find out best ways to encourage more veterans to migrate CSPs now, even before sunsetting of legacy accounts(s)
 
 
 ### Outcome
 
-We hope to learn the best words or phrases to use so that veterans and others accessing va.gov understand the difference between their current CSP and what we are asking them to migrate to.
-We’ll also validate a modal prototype to learn if it makes sense to move forward with it as is or even at all
+We hope to learn the best words or phrases to use so that veterans and others accessing va.gov understand the difference between their current CSP and the CSP we are asking them to migrate to. 
+
+Previous Identity research found that after sign in, veterans tend to close a modal without closely looking at it. But since it is a tool we can leverage to encourage migration for some veterans, this research will also validate a modal prototype’s wording to learn if it resonates with veterans. We’ll also explore if there is a better time or place to present the modal than right at sign in.
 
 From both of these we’ll gain understanding about how to encourage va.gov legacy account holders to migrate to one of the modern CSPs early but on their own timeline, before they encounter stress of possible disruption of service.
+
 
 ### Research questions
 
@@ -66,29 +64,21 @@ From both of these we’ll gain understanding about how to encourage va.gov lega
 
 ### Hypothesis
 
+- Veterans will have a term or phrase for concepts like “verified account” that we can use to better speak to the process.
+- Most veterans will not understand how CSPs are different from their account
 - Some veterans will be motivated to migrate from a legacy CSP with some encouragement, like the modal prototype
 - Most veterans will choose to ignore the modal their first time seeing it
-- Veterans will have a term or phrase for “verified account” that we can use to better speak to the process.
+- Veterans will be more likely to choose not to set up a Login.gov account from their mobile device
+- Veterans will choose to continue to use their current (legacy) credential unless they are given a deadline or told that their credential is going away soon
 
 
 ## Methodology	
 
-Remote usability testing will evaluate the modal prototype on **[mobile/desktop/TBD]**. This will be paired with interview questions to evaluate use of words and phrases we can use to best convey these concepts to veterans.
+Remote usability testing will evaluate the modal prototype with participants who access VA.gov via mobile devices. We will not ask veterans to use their mobile devices for these sessions, since the prototype will be more of a guided tour. This will be paired with interview questions to evaluate the use of words and phrases to best convey account and sign in concepts to veterans. 
 We’ll use Perigean’s Zoom account for these remote sessions
 
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
-
-### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
+### Research materials 
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0e986a82fb2358cc50ce6c6f8d933913c645aacb/products/identity/Research/2023-04%20Organic%20LIG%20Adoption/2023-04%20Organic%20LIG%20Adoption%20conversation%20guide.md)
 - [Prototype](url goes here)
@@ -99,9 +89,20 @@ Provide a link to any materials you need to run your study, including any materi
 
 ### Recruitment approach
 
-We will use Perigean to recruit Veterans for this moderated study. Since this study builds on previous research looking at the same or substantially similar topics, this research will consider any gaps in the representation from previous research and aim to target underrepresented groups from this body of work.
+We will request the Perigean recruitment team to recruit Veterans for this moderated study. Since this study builds on previous research looking at the same or substantially similar topics, this research will consider any gaps in the representation from previous research and aim to target undermet diversity goals from the larger body Identity work.
 
+Under represented groups from recent Identity research includes:
+- Mobile users
+- Cognitive disability
+- Immigrant origin
+- Other than honorable discharge
+- Expat
+- LGBTQ+
+- Assistive Tech
+
+See also
 - [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing)
+- [Identity body of research recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1Vpw9r2P50yQLC-8SAu1M91KnMxdCm0ImF82RzMvAW-k/edit#gid=1468815489)
 
 ### Recruitment criteria
 
@@ -117,35 +118,46 @@ All participants:
 
 In addition our Primary criteria includes
 - Must be Veterans
-- Must have signed into a VA application (including VA.gov, My HealtheVet or eBenefits) in the last 6 months (see screener q's below)
-- Must sign into VA applications using either the DSLogon or My HealtheVet login methods (see screener q's below)
-- Must NOT log into VA applications using ID.me or Login.gov credentials (see screener q's below)
-- **Currently waiting for the completion of Grandfathering research to figure out any gaps in representation over recent identity related research before deciding which groups to target for this research**
+- Must have signed into a VA application (including VA.gov, My HealtheVet, eBenefits, or VA mobile app) in the last 6 months (_see screener q's below_)
+- Must sign into VA applications using either the DSLogon or My HealtheVet login methods (_see screener q's below_)
+- Must NOT log into VA applications using Login.gov or ID.me credentials (_see screener q's below_)
 
 
 ### Screener questions
 
-To support the above criteria, we’ve provided the following screener questions:
-1. Have you signed in to VA.gov, My HealtheVet or eBenefits in the last 6 months?
-   - [answer must be yes to qualify]
-2. Which method do you use to sign in? [options 1. DS Logon, 2. My HealtheVet, 3. ID.me or 4. Login.gov] it may be helpful to reference [the sign in page](https://www.va.gov/?next=loginModal)
-   - [Answer must be either DS Logon or My HealtheVet to qualify]
+Include in the email to participants:
 
+- Prior to selecting a date/time for your session, please visit the [VA.gov sign in page](https://www.va.gov/?next=loginModal) to determine which method you use to sign in to VA.gov.
+
+Screener questions:
+- Do you ever access and manage your VA benefits and health care from a mobile phone?
+   - [1. yes, 2. no - answer must be yes to qualify]
+- Have you signed in to VA.gov, My HealtheVet, eBenefits, or the VA mobile app in the last 6 months?
+   - [1. yes, 2. no - answer must be yes to qualify]
+- Do you sign in to the VA online with Login.gov? 
+   - [1. yes, 2. no - answer must be no to qualify]
+- Do you sign in to the VA online with ID.me
+   - [1. yes, 2. no - answer must be no to qualify]
 
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+- See [planned timeline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2023-04%20Proactive%20LIG%20Migration)
+- Recruiting: April 17 - 21
+- Pilot: TBD; week of April 17 -21
+- Sessions: April 24 - May 5
+
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
+- The prototype went through [Midpoint review]() on Apr 14, 2023
 
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+Pilot Session details are TBD:
+- Pilot participant email:
+- Date and time of pilot session:
+
 
 ### Research sessions
 - Planned dates of research: 2023 April TBD
-- Session length: **-minute** sessions 
+- Session length: **60-minute** sessions 
 - Session buffer: **60-minute breaks** in between
 - Max sessions per day: 4
 
@@ -169,16 +181,31 @@ Pilot Session | Time (EST)
 TBD | TBD 
 
 
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Clayton Zook, +?
-- Research guide writing and task development (usually but not always same as moderator): Clayton Zook	
+- Moderator: Clayton Zook, , Amanda Porter, Charlye Tran
+- Research guide writing and task development (usually but not always same as moderator): Clayton Zook
 - Participant recruiting & screening: Perigean
 - Project point of contact: Clayton Zook
-- Participant(s) for pilot test: 
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:
-- Observers: 
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+- Participant(s) for pilot test: TBD 
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	N/A
+- Note-takers: Clayton Zook, Amanda Porter, Charlye Tran
+- Observers: Tom Black, Matt Conway, Mike King, Amber Parsley, Tyler Gindraux, Carl Dickerson, Sofia Kirkman
+- Team member emails:
+   - clayton.zook@oddball.io
+   - ajohnson@clarityinnovates.com
+   - charlye@bluetiger.digital
+   - tyler@bluetiger.digital
+   - thomas.black2@va.gov
+   - mconway@clarityinnovates.com
+   - Mike.King@oddball.io
+   - aparsley@clarityinnovates.com
+   - carl@themostudio.com
+   - sofia@themostudio.com
+
+## Reviewers
+This plan has been reviewed by:
+Identity, Core/Surge UX team (Amanda Porter, Charlye Tran)
+Identity, Login.gov Adoption Team UX researcher (Tyler Gindraux)
+VA PO for Identity, Core/Surge UX team - Tom Black
