@@ -146,7 +146,10 @@ Scrolling down this very long landing page on a phone took a while, especially f
 
 - REC: Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move the income limits app link closer to the top of page.
 
-### Many participants said that they may not be eligible for VA health care, based on what they read on the landing page, the app intro page, or the app results page
+### Participants used the salary numbers provided by the moderator to decide which income limit accordion to open on the results page, and most didn't mention their household income or deductions
+
+### Many participants said that they may not be eligible for VA health care, based on what they read on the landing page
+, the app intro page, or the app results page
 
 #### From landing page
 > *"From what I read I would not be able to receive healthcare unless I have a disability" (p7)*.
@@ -158,9 +161,7 @@ Scrolling down this very long landing page on a phone took a while, especially f
 
 #### From app results page
 
-> *"From what I read I would not be able to receive healthcare unless I have a disability" (p7)*.
- 
-- REC: Consider clarifying in the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page that if your income is too high, applying for disability may not be what you should do next.
+
 
 
 **Finding 1**
