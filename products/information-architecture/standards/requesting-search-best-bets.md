@@ -3,7 +3,7 @@
 Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. These suggestions are selected for specific terms and are intended to help veterans and their beneficiaries find relevant results quickly.
 
 ### Examples
-<img width="771" alt="Screenshot 2023-04-14 at 3 05 13 PM" src="https://user-images.githubusercontent.com/122128479/232144625-ad79aed0-0897-46ff-8be0-354d72616d89.png">
+<img width="500" alt="Screenshot 2023-04-14 at 3 05 13 PM" src="https://user-images.githubusercontent.com/122128479/232144625-ad79aed0-0897-46ff-8be0-354d72616d89.png">
 
 ## Usage
 ### When to use a search best bet
