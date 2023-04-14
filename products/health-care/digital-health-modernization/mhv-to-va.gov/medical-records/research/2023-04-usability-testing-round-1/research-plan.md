@@ -1,4 +1,4 @@
-# **Research Plan for HMI, Medical Records, April – May 2023**
+# **Research Plan for MHV on VA.gov, Medical Records, April – May 2023**
 
 ## **Background**
 
@@ -45,7 +45,7 @@ The results of this study will help us determine if our designs provide the best
      c) Does the ordering of the categories in list views and on the navigation make sense to Veterans and help them in way finding?
 2) What information is the most helpful to Veterans looking for a specific record?
      
-     a) Does some of the information cause pain points?
+     a) Are the medical terms, measurements, and acronyms obstacles to Veterans finding information?
 3) Do Veterans know how to print/download their records?
 
      a) Do the look and placement of the print and download action links match the Veterans' expectations?
@@ -106,8 +106,8 @@ We will schedule a total of 32 Veterans for an expected completion rate of 24 - 
       - (4) Associates degree (occupational or academic)
       - (6) Bachelor's degree
       - (4) Masters degree or higher
-4. (9) frequent MHV user, (9) never used MHV
-5. (9) mobile users, (9) desktop/laptop/tablet
+4. (16) frequent MHV user, (16) never used MHV (see screener question)
+5. (16) mobile users, (16) desktop/laptop/tablet
 
 **Secondary criteria (nice-to-haves)**
 
@@ -120,9 +120,19 @@ We will schedule a total of 32 Veterans for an expected completion rate of 24 - 
 
 **Screening questions for recruitment**
 
-1. Are you comfortable allowing observers into the session? _Must be "yes" for all participants._
-2. Are you comfortable having your camera on during the session? _Must be "yes" for desktop/laptop users._
-3. What type of device will you be using to connect to Zoom?
+1) How often have you used My HealtheVet in the past 3 months? _Must choose "c" or "d" to be considered a frequent MHV user._
+
+     a) not at all
+
+     b) 1 - 4 times
+
+     c) 5 - 10 times
+
+     d) more than 10 times
+
+2. Are you comfortable allowing observers into the session? _Must be "yes" for all participants._
+4. Are you comfortable having your camera on during the session? _Must be "yes" for desktop/laptop users._
+5. What type of device will you be using to connect to Zoom?
 
 - Desktop/Laptop?
 - Smartphone: Android or iPhone?
