@@ -34,18 +34,21 @@ Thanks for joining us today! May I call you [first name]?
 
 My name is Anne. I'm a usability researcher, and I work as part of a team that is improving VA's websites and other resources for Veterans. We reach out to Veterans as we design these resources to get their input so we can help make sure we meet their needs.
 
+I want to give you an idea of what this session will be like:
+
+- **This entire session should take about 60 minutes.**  I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **In this session, we want to hear your honest opinions.**  We are not testing your ability. We just want to improve these tools to better meet Veterans' needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **You'll be interacting with a prototype.**  This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be selectable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **If for any reason and at any time you want to stop the session, please let me know.**
+
 Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call. I have one teammate who will be taking notes to make sure that we accurately represent your feedback. We won't link any notes to your name or other personal information. The others are just here to observe. Do I have your permission to let them into the session?
 
 _[If yes: ]_ Thank you. When they are connected, I will ask them to make a quick introduction.
 
 _[If no:]_  I appreciate you letting me know. Please give me a quick moment to let them know.
 
-_[If yes:]_  Thank you! We very much appreciate you talking with us today. Before we start, I want to give you an idea of what this session will be like:
+_[If yes:]_  Thank you! We very much appreciate you talking with us today. 
 
-- **This entire session should take about 60 minutes.**  I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.**  We are not testing your ability. We just want to improve these tools to better meet Veterans' needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be interacting with a prototype.**  This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be selectable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
-- **If for any reason and at any time you want to stop the session, please let me know.**
 
 - **Are you comfortable if I record my screen and audio as we talk today?**   We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
 
@@ -57,7 +60,7 @@ _[Start recording.]_
 
 ## **Warm-up Questions - 5 minutes**
 
-- Do you use My Health_e_Vet?
+- Do you use My HealtheVet?
 
 _[If yes]_
 
