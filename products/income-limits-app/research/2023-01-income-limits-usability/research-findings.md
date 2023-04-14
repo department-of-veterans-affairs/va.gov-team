@@ -148,6 +148,10 @@ Scrolling down this very long landing page on a phone took a while, especially f
 
 ### Participants used the salary numbers provided by the moderator to decide which income limit accordion to open on the results page, and most didn't mention their household income or deductions
 
+Most participants (7 of 8) didn't open the "How to estimate your income for this tool" accordion, which describes household income and deductions that apply.
+
+
+
 ### Many participants said that they may not be eligible for VA health care, based on what they read on the landing page
 , the app intro page, or the app results page
 
