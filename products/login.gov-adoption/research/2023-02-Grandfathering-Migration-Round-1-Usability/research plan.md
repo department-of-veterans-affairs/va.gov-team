@@ -1,4 +1,4 @@
-# Research Plan: Grandfathering Migration (Round 1: Usability)
+# Research Plan: Deferred Identity Proofing Migration (Round 1: Usability)
 *Login.gov Adoption Team, Legacy Credential Migration, February 2023*
 
 Last updated by @tygindraux: March 9, 2023
