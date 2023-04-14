@@ -1,3 +1,4 @@
+
 # Intent to File Tech Discovery
 
 Lighthouse Team: Dash
@@ -23,13 +24,63 @@ Lighthouse Team: Dash
 	- method: :get
 	- body: ''
 	- performs a get fetching from EVSS.
-	- Sometimes the response triggers a redirect to the `submit` action
+	- Sometimes the response triggers a redirect to the `submit` actiona
+	- All the information that index is sending to EVSS is in the Headers
+	- EVSS sends back an array of IntentToFiles in the `body` of the JSON response:
+```
+{
+	"intent_to_file" => [
+		{
+			"creation_date"=>"2014-07-28719:53:45.810+0000"
+			"expiration_date"=>"2015-08-28719:47:52.786+0000"
+			"id"=>"1"
+			"participant_id"=>"1",
+			"source"=>"EBN"
+			"status"=>"active"
+			"type"=>"compensation"
+		},
+		{
+			"creation_date"=>"2014-07-28719:53:45.810+0000"
+			"expiration_date"=>"2015-08-28719:47:52.786+0000"
+			"id"=>"1"
+			"participant_id"=>"1",
+			"source"=>"EBN"
+			"status"=>"claim_received"
+			"type"=>"compensation"
+		},
+		{
+			"creation_date"=>"2014-07-28719:53:45.810+0000"
+			"expiration_date"=>"2015-08-28719:47:52.786+0000"
+			"id"=>"1"
+			"participant_id"=>"1",
+			"source"=>"EBN"
+			"status"=>"expired"
+			"type"=>"compensation"
+		}
+	]
+}
+```
+
 - `V0/IntentToFilesController#active`
 	- filtered on the frontend ([code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/disability-benefits/all-claims/reducers/itf.js))?
 	- Looking at the route in `vets-api` (`'intent_to_file/:type/active'`), I don't see this route exercised on the frontend.
 - `V0/IntentToFilesController#submit`
 	- method: :post
 	- body: **"**{**\"**source**\"**:**\"**VETS.GOV**\"**}**"**
+	- EVSS sends back a single "intent_to_file" object in the `body` of the JSON response:
+```
+{
+	"intent_to_file"=>{
+		"creation_date"=>"2014-07-28T19:53:45.810+0000",
+		"expiration_date"=>"2015-08-28T19:52:25.601+0000",
+		"id"=>"1",
+		"participant_id"=>1,
+		"source"=>"EBN",
+		"status"=>"active",
+		"type"=>"compensation"
+	}
+}
+```
 
 ### What I guess we'll send/receive via Lighthouse:
 - Warning, I think [Lighthouse docs](https://developer.va.gov/explore/benefits/docs/claims?version=current) are source of truth
@@ -82,3 +133,15 @@ pry(#<EVSS::DisabilityCompensationForm::Service>)> @headers.to_h
 	 ...
 }
 ```
+
+## Engineer Meeting Questions
+-   In the VA docs, there are three endpoints listed for ITF; Were we using three in the vets-api?
+	- **One URL, "#{Settings.evss.url}/wss-intenttofile-services-web/rest/intenttofile/v1"**
+		- [source](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/evss/intent_to_file/configuration.rb)
+	- **Different REST methods used with that URL (GET, POST)**
+		- [source](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/evss/intent_to_file/service.rb)
+-   Should we use an abstraction layer vs full-blown lighthouse? **Yes**
+-   Is `participant_id` important?
+	-   Shows up in docs for `/intenttofile/{type}`, but not in code
+	-   **I don't see it used in vets-api's implementation of intent to file.**
+-   Is this eVSS service being used anywhere else in the application (`service.get_intent_to_file`)? **No**
