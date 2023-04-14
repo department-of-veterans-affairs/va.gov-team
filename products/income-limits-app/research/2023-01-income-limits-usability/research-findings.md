@@ -115,15 +115,14 @@ Participants found some of the text to be ambiguous, which made it difficult for
   - Prescriptions
   - Travel pay (if applicable)
 
-### Participants had some confusion with terminology used in the questions
+### Participants had some confusion with terminology used in the questions, including the word "dependents"
 3 of 8 participants didn't know what **"Aid and Attendance benefits"** were but assumed that they didn't have it.
 1 participant didn't know what **"Housebound allowance"** meant, but assumed they didn't have it.
 In the question *Did you get a VA pension from VBA last year?*, 1 participant didn't know what **"VBA"** meant and said that they felt embarrassed about it and also distracted from the task at hand.
 
 > *"I get embarrassed when I don’t know what things mean when they are asked. It also makes me start questioning if I should be receiving these other things, and it gets me off track. Makes me want to look into those things." (p7)*
 
-Participants had different interpretations for the **dependents** question.
-Some said they would enter what they put on their income taxes, and others remembered this information incorrectly or might have been thinking of the VA's definition of dependents, which may include your spouse and others who live with you.
+Participants had different interpretations for the **dependents** question. Some said they would enter what they put on their income taxes, and others remembered this information incorrectly or might have been thinking of the VA's definition of dependents, which includes your spouse and others who live with you.
 - Half of the participants entered what they put on their income taxes, though one said that he'd ask his wife what that was because she does their taxes. 
 - Two participants wanted to enter 1 for their wife, with whom they file taxes jointly.
 - One participant entered 2 for his grown kids, which are likely not dependents in the income tax sense.
@@ -132,6 +131,10 @@ Some said they would enter what they put on their income taxes, and others remem
 - REC: Clarify the meaning of "dependents" in this question per the IRS income tax sense or VA, and add details to the question so people know how to answer.
 - REC: Delete the text "from VBA" in the pension question (or if this must be kept in, write out "Veterans Beefits Administration") because it's confusing as is.
 - REC: Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean.
+
+### Participants found the **landing page** in the prototype ([Your health care costs](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/)) to be **very long**--especially on a phone--and it was **difficult to locate the "Check our current income limits" link** in it (which was in two places).
+
+
 
 **Finding 1**
 
@@ -180,7 +183,7 @@ Brief description
 5. Once they found the "Get past income limits" link, participants didn't have any difficulties doing the **Past Income limits task**.
 
 ### Usability Issues
-6. Participants found the **landing page** in the prototype ([Your health care costs](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/)) to be **very long**--especially on a phone--and it was **difficult to locate the "Check our current income limits" link** in it (which was in two places).
+
 6. Some participants were **confused by the mention of cases where income limits don't apply**, wondered whether income limits applied to them, and thought the app might help them figure this out. 
 
 8. Most participants **didn't open the "How to estimate your income for this tool"** accordion and didn't mention any deductions. They simply used the salary number from the moderator to select an income range to open. 
