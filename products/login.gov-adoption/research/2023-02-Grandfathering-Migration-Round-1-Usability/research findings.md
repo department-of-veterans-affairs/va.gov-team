@@ -1,4 +1,4 @@
-# Deferred Identity Proofing Migration (Round 1: Usability) Research Findings
+# Deferred Identity Proofing (Round 1: Usability) Research Findings
 
 Office of the CTO - Digital Experience (OCTO-DE), Login.gov Adoption Team
 
