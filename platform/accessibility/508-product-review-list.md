@@ -147,7 +147,7 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### Sitewide
+### Sitewide ✔️
 
 **Maintainer:** VSP & VSA<br/>
 **Audit Status:** _Not applicable. Issues should be completed as soon as possible._<br/>
