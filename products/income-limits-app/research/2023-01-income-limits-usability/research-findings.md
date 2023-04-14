@@ -115,9 +115,23 @@ Participants found some of the text to be ambiguous, which made it difficult for
   - Prescriptions
   - Travel pay (if applicable)
 
-### There was some confusion with terminology used in the questions
-5 of 8 participants weren't sure what to answer for the dependents question. 
-7. Participants had **different interpretations for the dependents question**. Some said they would enter what they put on their income taxes, and others remembered this information incorrectly or might have been thinking of the VA's definition of dependents, which includes your spouse.
+### Participants had some confusion with terminology used in the questions
+3 of 8 participants didn't know what **"Aid and Attendance benefits"** were but assumed that they didn't have it.
+1 participant didn't know what **"Housebound allowance"** meant, but assumed they didn't have it.
+In the question *Did you get a VA pension from VBA last year?*, 1 participant didn't know what **"VBA"** meant and said that they felt embarrassed about it and also distracted from the task at hand.
+
+> *"I get embarrassed when I don’t know what things mean when they are asked. It also makes me start questioning if I should be receiving these other things, and it gets me off track. Makes me want to look into those things." (p7)*
+
+Participants had different interpretations for the **dependents** question.
+Some said they would enter what they put on their income taxes, and others remembered this information incorrectly or might have been thinking of the VA's definition of dependents, which may include your spouse and others who live with you.
+- Half of the participants entered what they put on their income taxes, though one said that he'd ask his wife what that was because she does their taxes. 
+- Two participants wanted to enter 1 for their wife, with whom they file taxes jointly.
+- One participant entered 2 for his grown kids, which are likely not dependents in the income tax sense.
+- One participant wanted to enter 1 for himself. Was he maybe thinking of income tax exemptions?
+
+- REC: Clarify the meaning of "dependents" in this question per the IRS income tax sense or VA, and add details to the question so people know how to answer.
+- REC: Delete the text "from VBA" in the pension question (or if this must be kept in, write out "Veterans Beefits Administration") because it's confusing as is.
+- REC: Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean.
 
 **Finding 1**
 
