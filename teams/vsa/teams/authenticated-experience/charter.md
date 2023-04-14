@@ -40,27 +40,45 @@ To move us towards this vision, our current mission is to create a logged in exp
 ## Workflow + Cadence
 
 ### Stand-up: people & product check-ins
+(This subsection updated 4.14.2023)
+* **My VA Team**: 
+Mon 11:30am-12pm ET
+Tues (Slack-Up)
+Wed (replaced by Sprint Retro/Planning during Week 1, and Backlog Refinement/Grooming during Week 2 of Sprint)
+Thu 12:30-12:45pm ET
+Fri (Slack-Up)
 
-* **My VA Team**: Daily @ 3pm ET (except Tuesdays) 
-* **Profile Team**: Daily @ 3:15pm ET (except Tuesdays) 
+* **Profile Team**: 
+Mon 12:15pm-12:30pm ET
+Tues (Slack-Up)
+Wed (replaced by Sprint Retro/Planning during Week 1, and Backlog Refinement/Grooming during Week 2 of Sprint)
+Thu 11:30am-11:45am ET
+Fri (Slack-Up)
+
   
 1. Team update
-  - What I did yesterday? 
-  -  What will I do today? 
-  - Any blockers?
-2. General discussion
+  - what was worked on yesterday towards sprint goal
+  - what is being worked on today towards sprint goal
+  - what blocks could prevent us from meeting sprint goal
+
+2. General discussion (aka Meet After, 16th Minute)
+  - if blockers can't be addressed during this huddle, ensure team members get support beyond stand up
+
 
 ### Sprint Planning
+(This subsection updated 4.14.2023)
 Outline team and member focus, goals for sprint:  
 - 1st Wednesday of every sprint  
-- 1-2 hour(s) 
+- 1 hour 
 
 ### Retro
+(This subsection updated 4.14.2023)
 Review accomplishments from prior sprint, what went well, areas for improvement, what to start doing:   
 - 1st Wednesday of every sprint, right before planning   
 - 30 min
 
 ### Grooming
+(This subsection updated 4.14.2023)
 Assess and update workload for remainder of sprint and loosely discuss next/future sprint(s):  
 - 2nd Wednesday of every sprint for one-hour
 
