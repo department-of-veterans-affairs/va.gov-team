@@ -24,7 +24,7 @@ The key is stored in parameter store -  `/dsva-vagov/vets-api/staging/mockdata_s
 `mpi/mockdata`
 
 ```
-GET https://api-staging.va.gov/mocked_authentication/mpi/mockdata/:icn
+GET https://staging-api.va.gov/mocked_authentication/mpi/mockdata/:icn
 ```
 
 #### Parameters
