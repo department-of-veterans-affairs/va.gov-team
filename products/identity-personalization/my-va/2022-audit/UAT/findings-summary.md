@@ -5,7 +5,7 @@
 	* 73yo white man, mobile device, urban, uses magnification, text-to-speech, reverse video to increase contrast, and program called Merlin 
 	* 46yo black woman, desktop, rural, no AT
 	* 36yo black woman, desktop, urban, no AT
-	* 37yo asian woman, desktop, rural, screen reader user
+	* 37yo asian woman, desktop, rural, no AT
 	* 57yo black woman, desktop, urban, no AT
 	* 67yo white man, mobile device (tablet), rural, no AT
 * 6 out of 9 were completed sessions (one participant - which would make the total 7 - was unable to access the screen we wanted to test, likely due to some issues with cookies in her mobile device).
