@@ -1,6 +1,6 @@
 # Search Best Bet Evaluation and Implementation Process
 ## Using Search.gov
-Search "best bets" are implemented in Search.gov by the IA team and consist of the page title, description and any keywords of a specific page. Keywords are vetted words or phrases that aren't already in the title or description.
+Search "best bets" are implemented in Search.gov by the IA team and consist of the page title, description and any keywords. Keywords are vetted words or phrases that aren't already in the title or description.
 
 ### Example
 <img width="600" alt="Screenshot 2023-04-14 at 4 48 08 PM" src="https://user-images.githubusercontent.com/122128479/232160689-fe907ffe-28e2-41af-be6f-1ab0f6f13955.png">
