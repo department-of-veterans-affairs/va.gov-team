@@ -148,7 +148,12 @@ Scrolling down this very long landing page on a phone took a while, especially f
 
 ### Participants used the salary numbers provided by the moderator to decide which income limit accordion to open on the results page, and most didn't mention their household income or deductions
 
-Most participants (7 of 8) didn't open the "How to estimate your income for this tool" accordion, which describes household income and deductions that apply.
+Most participants (7 of 8) **didn't open the "How to estimate your income for this tool" accordion**, which describes household income and deductions that may apply. Two of them later opened it during the past limits task.
+3 participants said they expected to use the AGI (Adjusted Gross Income) number from last year's income taxes, assuming household income but no additional deductions. 
+
+> *"I automatically went to the numbers" (p6)*.
+
+- REC: Be more explicit about household income and deductions on the results page, without needing to open any accordions. For example, consider changing the first sentence from "We use your last year's income to determine..." to "We use your last year's _household_ income _minus deductions (such as out-of-pocket medical expenses, education costs, and funeral/burial expenses for a spouse or child)_ to determine..."
 
 
 
