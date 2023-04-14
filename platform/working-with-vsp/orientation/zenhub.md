@@ -9,7 +9,10 @@ The difference between a github issue and a Zenhub issue is further described in
 ## Zenhub onboarding
 
 To start using Zenhub, you can follow the onboarding process described here:
-* [Zenhub onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf)
+1. [Zenhub orientation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf)
+2. Zenhub admins are in Slack, @admins-zenhub.
+3. User should connect to Zenhub using their agency mail (Github connect is no longer supported), then request a license. Zenhub admins will see the license request and can grant the license.
+4. If a user isn't prompted to request a license, we don't know how to fix that yet, working with Zenhub support.
 
 ### Requesting a Zenhub license
 
