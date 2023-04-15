@@ -4,7 +4,7 @@
 
 Last updated by @tygindraux: March 17, 2023
 
-Note: This Conversation Guide will be used to test [Prototype #1](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=41-1311&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=41%3A1311), where after the Veterans signs in to VA.gov, a modal pops up asking them to set up a Login.gov account.
+Note: This Conversation Guide will be used to test [Prototype #1](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=41-1311&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=41%3A1311), where after a Veterans signs in to VA.gov, a modal appears asking them to set up a Login.gov account.
 
 ## Moderator logistics
 ### 2-3 days before the session
