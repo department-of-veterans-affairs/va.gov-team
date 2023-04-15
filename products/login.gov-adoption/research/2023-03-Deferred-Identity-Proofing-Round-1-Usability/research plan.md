@@ -115,7 +115,7 @@ Before defining our recruitment strategy, we reviewed:
 
 We will use Perigean to recruit Veterans for this moderated study, aiming for maximum variation sampling (MVS). Doing sequential rounds of research will not only let us iterate on the product, it will help us reach (or get closer to) MVS, as we'll aim to fill underrepresented gaps with each subsequent round.
 
-We've submitted a [Recruitment Request: 2023-02-Grandfathering-Migration-Round-1-Usability #233](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/233).
+We've submitted a [Recruitment Request: 2023-03-Deferred-Identity-Proofing-Round-1-Usability #233](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/233).
 
 We have also written a document with [Extra Information for Perigean](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability/for%20perigean.md).
 
