@@ -183,14 +183,14 @@ Veteran`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 
 ## Key themes
 
-1. Benefits of grandfathering aren’t clear
+1. Benefits of deferring identity proofing aren’t clear
 2. Easy to ignore
 3. Confusion between credentials and applications
 4. Authentication ≠ verification
 5. Transitions take time
 6. Help from VA
 
-### Benefits of grandfathering aren’t clear
+### Benefits of deferring identity proofing aren’t clear
 
 As expected, most Veterans meet messaging about the need to adopt a new credential with concern or, at least, frustration.
 
@@ -206,7 +206,7 @@ If a Veteran recognizes DS Logon as their sign in method and learns they won’t
 
 > “It doesn't seem like I have much of a choice. I'd have to comply with what it says, otherwise I lose access to what I want, the information I need digitally.” Participant 16
 
-The benefits of migrating through grandfathering, and deferring identity verification, weren’t clear. And not recognizing a relationship between DS Logon and Login.gov makes it difficult to understand:
+The benefits of migrating deferring identity verification weren’t clear. And not recognizing a relationship between DS Logon and Login.gov makes it difficult to understand:
 * why you must start by signing in to DS Logon
 * why you don’t need to verify your identity at first,     but later on it’s recommended
 * why you have access to the VA, but not other government websites for now
