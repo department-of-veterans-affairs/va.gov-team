@@ -16,4 +16,4 @@ We will run a few rounds of testing to review the effectiveness and usability of
 * Review whether Veterans know where to get help or what they will do if they encounter an issue during or after account setup.
 
 ## Date
-This research will take place in March-April 2023.
+This research took place in March-April 2023.
