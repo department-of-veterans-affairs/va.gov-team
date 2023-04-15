@@ -4,7 +4,7 @@ This document serves as the start of a voicebot section of the VA.gov content st
 
 ## Tone and voice notes
 
-### Small phrases that add to the robotic tone with recommended alternatives
+### Small phrases that add to a robotic tone with recommended alternatives
 
 - "Such as": Replace with "like"
 - "Followed by the pound key": Replace with "Then select pound"
