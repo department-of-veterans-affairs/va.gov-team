@@ -1,4 +1,4 @@
-# Legacy CSP deferred identity proofing outline
+# Deferred identity proofing outline
 
 ## Overview
 
