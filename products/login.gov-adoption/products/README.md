@@ -70,7 +70,7 @@ Currently there is not a unified definition for each of the non-Veteran customer
 - As a Veteran, I want to be able to give others differing levels of access to my account, so I can empower them to provide greater care and support to me.
 ###
 
-### [Account Migration (Deferred identity proofing)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/legacy%20CSP%20migrations)
+### [Deferred identity proofing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/deferred-identity-proofing)
 As we continue to evolve the VA.gov ecosystem, legacy Credential Service Providers (CSP's) do not meet customer experience and security objectives prioritized by the administration in the EO on improving customer experience. We need to migrate users to newer CSP's that do meet these objectives. In this specific instance, we are working to move select DS Logon users to Login.gov without the need to reverify their identities.
 
 Deferred identity proofing lets Veterans migrate without requiring them to re-proof right away.
