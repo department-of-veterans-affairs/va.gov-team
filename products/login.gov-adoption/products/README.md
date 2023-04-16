@@ -25,7 +25,7 @@ For more on our product vision and mission, see the [team charter](https://githu
 ## Initiatives
 
 ## [#1 - Pro-active login.gov adoption](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/login.gov)
-## [#2 - Account Migration (Deferred identity proofing)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/legacy%20CSP%20migrations)
+## [#2 - Deferred identity proofing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/deferred-identity-proofing)
 ## [#3 - In-person proofing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/in-person%20support/product-brief.md)
 ## [#4 - The NVURending story](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/nvur) 
 
