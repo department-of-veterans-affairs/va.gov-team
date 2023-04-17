@@ -4,7 +4,7 @@
 ### Sprint 0
 
 #### Problem Statement
-There are a variety of siutations in which Veterans need to prove their Veteran status in order to receive a particular benefit (inlcuding but not limted to receiving discounts and other private-sector benefits). Veterans would benefit from an easy-to-access official Veteran ID card to use in these contexts. Because there is currently no simple way to attain an ID like this, a widely accepted Veteran ID within the mobile app could prove a very useful feature for Veterans and greatly increase usage of the app.
+There are a variety of situations in which Veterans need to prove their Veteran status in order to receive a particular benefit (inlcuding but not limted to receiving discounts and other private-sector benefits). Veterans would benefit from an easy-to-access official Veteran ID card to use in these contexts. Because there is currently no simple way to attain an ID like this, a widely accepted Veteran ID within the mobile app could prove a very useful feature for Veterans and greatly increase usage of the app.
 
 #### Current Experience
 - Currently,the processes for acquiring a VIC card are cumbersome and long and not well known by Veterans.
