@@ -56,7 +56,7 @@ We don’t want to replace the VIC, but want something that can serve the same p
 ### Pain Points
 * Acquiring a VIC is time consuming
 * Veterans need to pay to print the card
-* Veterans need to remember to have VIC (or soe other form of accepted Veteran ID) with them to receive benefits
+* Veterans need to remember to have VIC (or some other form of accepted Veteran ID) with them to receive benefits
 
 ### Assumptions and Level of Confidence
 TBD
