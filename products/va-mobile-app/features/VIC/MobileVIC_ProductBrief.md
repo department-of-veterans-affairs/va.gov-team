@@ -97,12 +97,12 @@ a state-issued driver’s license or ID with a Veterans designation), and Vetera
 * Must have non-dishonarable discharge
 
 ### Measuring success
-*** Usefulness of VIC:**
+#### Usefulness of VIC:
     * Track number/% of Users that access the ID in the app
     * Track number/% of users that regularly access the ID in the app over time
     * OS Wallet metrics for how often IDs in the Wallets are accessed?  
         * Location of where/when it is accessed in wallet?
-*** Impact of launching VIC:**
+#### Impact of launching VIC:
     * An increase in app downloads that correlates with the launch of VIC card
     * An increase in the overall number of active app users
        * An increase in usage of the app by users who do not currently use Health tools
