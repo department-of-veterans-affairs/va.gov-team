@@ -134,7 +134,7 @@ a state-issued driver’s license or ID with a Veterans designation), and Vetera
          3. How do we guarantee that outside orgs will take the ID? - not sure, should talk to them
 
 ### Open Questions
-*** Questions for existing VIC:**
+**Questions for existing VIC:**
 * Is there an API to find which Veterans have a VIC?  
 * Can we access the VIC PDF and surface it (or ideally the data used in the PDF) in the app?
 * Who would we work with in VA for this?
@@ -144,7 +144,7 @@ a state-issued driver’s license or ID with a Veterans designation), and Vetera
     * What are the discounts and other private-sector benefits Veterans would have access to with their VIC?
     * How frequently do Veterans need to use some form of Veteran ID?
     * Do we have contacts at Home Depot, Lowes, etc. to ensure they would accept any ID card we make that is separate from the VIC?
-** * Questions for creating our own digital VIC:**
+** Questions for creating our own digital VIC:**
 * Is there a way to make a digital VIC ‘official’ with the VA, and therefore would be accepted by 3rd parties?
 * What sort of outside communications and coordination would be required to ensure that digital VIC is an accepted form of Veteran identification?
 * Are there other VA stakeholders we should work with if we create our own?
