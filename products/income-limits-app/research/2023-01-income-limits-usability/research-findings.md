@@ -113,6 +113,8 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 - Once they found the "Get past income limits" link, participants didn't have any difficulties doing the **Past Income limits task**.
 
 ### There were a few navigation issues within the app
+-**Review the information you entered** link -- Two participants did _not_ use this link to go back from the results page to the summary page. They used the Back button in their browser instead, though one participant was concerned that this might exit them out of the app (it didn't). A different participant thought that this link would take them to information that they filled out previously on VA forms (which is incorrect).
+- RECOMMENDATION: Make the link more prominent in location and/or visual treatment/layout (e.g., top of page or button). Maybe see how other websites enable you to view/edit previous information provided.
 
 
 ### Participants had difficulty understanding some of the benefit descriptions under the income ranges
