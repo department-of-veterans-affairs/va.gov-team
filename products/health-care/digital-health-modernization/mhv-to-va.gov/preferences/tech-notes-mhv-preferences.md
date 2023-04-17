@@ -16,6 +16,33 @@ Another external system is called "VA Profile" (formerly Vet360), and not to be 
 
 See [MHV and New Profile and Preferences.xlsx (Sharepoint)](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/General/Preferences%20and%20Notifications/MHV%20and%20New%20Profile%20and%20Preferences.xlsx?d=wd9e64dc034eb48d7ae03abb11b731c78&csf=1&web=1&e=P5ZBMQ) for a listing of profile, preferences and some miscellaneous settings.
 
+## Data sync decision tree
+
+Briefly, we are asking for each preference/profile item if we keep it and so need to sync it, if we disregard it, or if it comes from another system of record (e.g. MPI stores person name information) that we pull it from and treat it as read-only data.
+
+```mermaid
+---
+title: MHV Preferences Decision Tree
+---
+flowchart TD
+	exists --Yes--> editable
+	exists --No--> disregard
+	editable --No--> external
+	external --Yes--> externalread
+	external --No--> mystery
+	editable --Yes--> futuristic
+	futuristic --Yes--> classicsync
+	futuristic --No--> disregard
+	exists[Is it in MHV Classic?]
+	editable[Is it editable in Classic?]
+	external[Is it also stored in \nan external system?]
+	futuristic[Will we use it \nin the future?]
+	disregard[We can disregard it]
+	classicsync[It should be synced \nwith MHV Classic]
+	externalread[Read it from the \nexternal system, \nand cache it]
+	mystery[???]
+```
+
 ## Architecture
 
 MHV Classic and VA.gov currently exist in different system contexts, with communications between contexts enabled by the VA.gov forward proxy. Any syncing between systems would depend on the Forward Proxy, in the VA.gov/OCTO context, to mediate.
@@ -45,6 +72,14 @@ flowchart LR
 		etc(["etc."])
 	end
 ```
+
+## Architecture Thoughts
+
+If MHV Classic APIs and `vets-api` provide authenticated endpoints that allow both systems to send updates to preferences/profile information, we can store of editable MHV preferences in both systems and sync them. Both systems will need to implement side effects to those values being updated in their system that trigger API calls to the other system.
+
+For `vets-api`, that could mean that any time an mhv preference is saved, an asynchronous job would be added to the Sidekiq job scheduler that would call the appropriate API endpoint on MHV Classic. "Preferences sync" jobs should be performed as soon as possible.
+- Timestamps: Changes should be timestamped, and APIs should only update if the incoming timestamp is newer
+- Batch changes: It may be more performant if APIs handled all sync changes as batches, so multiple changes could be sent in one request.
 
 ## Questions/Challenges
 
