@@ -81,7 +81,7 @@ We’ll use Perigean’s Zoom account for these remote sessions
 ### Research materials 
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0e986a82fb2358cc50ce6c6f8d933913c645aacb/products/identity/Research/2023-04%20Organic%20LIG%20Adoption/2023-04%20Organic%20LIG%20Adoption%20conversation%20guide.md)
-- [Prototype](url goes here)
+- [modal prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979)
 
 
 ## Recruitment	
@@ -89,7 +89,7 @@ We’ll use Perigean’s Zoom account for these remote sessions
 
 ### Recruitment approach
 
-We will request the Perigean recruitment team to recruit Veterans for this moderated study. Since this study builds on previous research looking at the same or substantially similar topics, this research will consider any gaps in the representation from previous research and aim to target undermet diversity goals from the larger body Identity work.
+We will ustilize the Perigean recruitment team to recruit Veterans for this moderated study. Since this study builds on previous research looking at the same or substantially similar topics, this research will consider any gaps in the representation from previous research and aim to target undermet diversity goals from the larger body Identity work.
 
 Under represented groups from recent Identity research includes:
 - Mobile users
@@ -106,7 +106,7 @@ See also
 
 ### Recruitment criteria
 
-13 Veterans for at least 10 completed sessions
+15 Veterans for at least 10 completed sessions
 
 **Primary criteria (must-haves)**
 
@@ -121,6 +121,11 @@ In addition our Primary criteria includes
 - Must have signed into a VA application (including VA.gov, My HealtheVet, eBenefits, or VA mobile app) in the last 6 months (_see screener q's below_)
 - Must sign into VA applications using either the DSLogon or My HealtheVet login methods (_see screener q's below_)
 - Must NOT log into VA applications using Login.gov or ID.me credentials (_see screener q's below_)
+
+Our primary diversity and inclusion criteria:
+- Cognitive Disability - 5 participants
+- LGBTQ+ - 2 participants
+- Immigrant origin - 2 participants
 
 
 ### Screener questions
@@ -141,14 +146,14 @@ Screener questions:
 
 
 ## Timeline
-- See [planned timeline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2023-04%20Proactive%20LIG%20Migration)
 - Recruiting: April 17 - 21
 - Pilot: TBD; week of April 17 -21
 - Sessions: April 24 - May 5
+- See also [planned timeline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2023-04%20Proactive%20LIG%20Migration)
 
 
 ### Prepare
-- The prototype went through [Midpoint review]() on Apr 14, 2023
+- The prototype went through [Midpoint review](https://app.zenhub.com/workspaces/collaboration-cycle-reviews-61d89e9e5f4c120011a0ad37/issues/gh/department-of-veterans-affairs/va.gov-team/54326) on Apr 14, 2023
 
 Pilot Session details are TBD:
 - Pilot participant email:
@@ -161,19 +166,16 @@ Pilot Session details are TBD:
 - Session buffer: **60-minute breaks** in between
 - Max sessions per day: 4
 
-## Timeline
-
-Desired Timeline: 2023 April TBD
-
 
 ### Availability
+**April 24 - May 5**
 
 Team Availability | Time (EST)
 ------------------|--------------
 Mon | 8am - Noon, 2 - 7 pm
 Tue | 8am - Noon, 2 - 7 pm
-Wed | 8am - 3pm,  4 - 7 pm << note to self check if it's sprint cerremony week
-Thur| 8am - Noon, 2 - 7 pm << note to self check the rando Thurs evening meetings
+Wed | 8am - 3pm,  4 - 7 pm
+Thur| 8am - Noon, 2 - 7 pm
 Fri | 8am - Noon, 1 - 5 pm
 
 Pilot Session | Time (EST)
@@ -183,8 +185,7 @@ TBD | TBD
 
 	
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Clayton Zook, , Amanda Porter, Charlye Tran
+- Moderator: Clayton Zook (410-541-6768), Amanda Porter, Charlye Tran
 - Research guide writing and task development (usually but not always same as moderator): Clayton Zook
 - Participant recruiting & screening: Perigean
 - Project point of contact: Clayton Zook
