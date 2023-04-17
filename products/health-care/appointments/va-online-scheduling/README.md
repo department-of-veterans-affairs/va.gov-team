@@ -1,5 +1,5 @@
 # MHV on VA.gov: Appointments
-VA online scheduling (VAOS) is a Veteran-facing healthcare appointment scheduling tool on VA.gov.
+MHV on Va.gov: Appointments is a Veteran-facing healthcare appointment scheduling tool on VA.gov.
 
 ## About the Product
 
