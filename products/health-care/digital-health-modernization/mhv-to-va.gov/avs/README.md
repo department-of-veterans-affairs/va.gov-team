@@ -38,7 +38,7 @@ According to [Centers for Medicare & Medicaid Services Meaningful Use guidelines
   - We will make edits to the HTML generates upon printing within the CPRS AVS system, so the HTML is semantic and accessible.
     - Apply VA design system styling.
     - Finalize a plan on where to access the AVS HTML version. Mongo and TIU Notes (in Vista) have been discussed.
-- _Why this solution/approach over other solutions/approaches?
+- _Why this solution/approach over other solutions/approaches?_
   - We evaluated other technical solutions, including:
     - Creating custom JSON
     - Providing structure CCDA data
