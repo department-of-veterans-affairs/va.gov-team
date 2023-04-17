@@ -32,24 +32,34 @@ According to [Centers for Medicare & Medicaid Services Meaningful Use guidelines
 - Support receives more support requests related to users' inability to locate or use the new tool
 - The new tool does not perform as well as the old one, and users become frustrated and lose confidence in the VA
 
+## Solution Approach
+- _What are you going to build now, and why have you decided to start here?_
+  - Since the CPRS AVS system already generates HTML. We are going to leverage that for our MVP, in order to hit a summer 2023 release date. 
+  - We will make edits to the HTML generates upon printing within the CPRS AVS system, so the HTML is semantic and accessible.
+    - Apply VA design system styling.
+    - Finalize a plan on where to access the AVS HTML version. Mongo and TIU Notes (in Vista) have been discussed.
+- _Why this solution/approach over other solutions/approaches?
+  - We evaluated other technical solutions, including:
+    - Creating custom JSON
+    - Providing structure CCDA data
+    - Using MHV APIs for Ongoing Care sections
+    - Creating our own connections/APIs to VistA
+  - We decided against these approaches due due to the resourcing available and summer launch timelines. 
+
 ## Requirements
 #### In Scope 
-- AVSs available for appointments occurring on or after launch date. Past appointment After Visit Summaries will not be available.
+- AVSs available for appointments occurring on or after launch date. Past appointment AVSs will not be available.
 - Data and sections displayed will be similar to the printed PDF that the VA currently offers (minus the patient education articles and clinical graphs sections).
 - AVsS will only be available for appointments where a site batch prints or a provider prints an AVS within the CPRS AVS system.
 - Only appointments at VA facilities will be possible to display.
 
 #### Out of Scope
 - Patient education articles and clinical graphs will not be displayed in the MVP.
+  - In order to pull in images that are part of patient education articles and clinical charts, a location to store the image files needs to be identified.
+  - We also need to make sure the current Kramer Staywell licensing allows for imaging to be shared through a patient portal.
 - Past appointment AVSs will not be shown.
 - These AVSs will not follow the rest of MHV on VA.gov notes. It will require future work to create a consistent experience (UX and data continuity) with Cerner and other MHV on VA.gov sections.
 - Community care and Cerner appointments will not have AVSs.
-
-## Solution Approach
-- MVP
-  - Make edits to the HTML generates upon printing within the CPRS AVS system, so the HTML is semantic and accessible.
-  - Apply VA design system styling.
-  - Finalize a plan on where to access the AVS HTML version. Mongo and TIU Notes (in Vista) have been discussed.
 
 ## Value Propositions
 After Visit Summaries (AVS) serve many purposes*, including:
@@ -65,23 +75,48 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 
 ## KPIs
 (Analytics Playbook)[https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/analytics-playbook]
+- Ease of Use: VA.gov After Visit Summary traffic vs. MHV After Visit Summary traffic
+- Trust/Satisfaction: Medallia score and VSignals feedback
+
+**Baseline KPI Values**
+- MHV AVS traffic before go-live
+- Medallia score and VSignals feedback after go-live
+
+**Objectives and Key results (OKRs)
+- Objective: Ensure users can find their After Visit Summary on VA.gov
+  - Key result: Traffic to VA.gov After Visit Summary is equal or greater than previous MHV After Visit Summary metrics
+- Objective: Ensure the After Visit Summary is intuitive and easy to use
+  - Key result: Traffic to VA.gov After Visit Summary is equal or greater than previous MHV After Visit Summary metrics
+- Objective: Ensure users are satisfied witht the After Visit Summary
+  - Key result: Medallia scores equal to or greater than comparable satisfaction scores on MHV 
+    - Open question: Since this released in January 2023, does MHV have satisfaction scores.
+- Objective: Ensure product functions properly
+  - Key result: 99% success rate for viewing the After Visit Summary
+    - Open question: What % should be used here?
 
 ---
 
 # Implementation Info
 
 ## Status
+- Collab cycle kickoff -TBD
 
 ## Technical Decisions
 
 ## Product Decisions
+- Prior to April 17 
+  - We are building an HTML version of the AVS and not just giving Veterans access to a PDF.
+  - Longer-term (non MVP goal): Data parity across MHV on VA.gov sections.
+  - MVP information architecture location: connect AVS within the appointments section.
+  - Longer-term informaiton architecture location: connect AVS within the Care Summaries and Notes (a subsection of Health History)
+
+## Outstanding Questions
 
 ## Screenshots
 
 ### Before
 - [CPRS AVS Sample](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0eebafe247417bf1249b8b1917a69d180ccf69fe/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/AVS-Sample-White-Redacted.pdf)
 - [CPRS AVS User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0eebafe247417bf1249b8b1917a69d180ccf69fe/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/After-Visit-Summary-User%20Guide-1.2.pdf)
-
 
 ### After
 
