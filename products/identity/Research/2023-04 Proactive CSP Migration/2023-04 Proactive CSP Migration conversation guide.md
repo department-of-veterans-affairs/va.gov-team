@@ -1,4 +1,4 @@
-# Conversation Guide for Identity, Proactive LIG Migration
+# Conversation Guide for Identity, Proactive CSP Migration
 
 ## Moderator logistics
 
