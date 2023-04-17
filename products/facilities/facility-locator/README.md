@@ -1,17 +1,14 @@
 # Facility Locator README 
 
-[Key resources](#key-resources) 
-
-[Facility Locator resources](#facility-locator-resources)
-
-[Practice specific](#practice-specific-resources)
-- [Product](#product)
-- [Engineering](#engineering)
-- [Design/research](#design-research)
-
-[What to know about the product](#what-to-know-about-the-product)
-
-[Legacy info about the Facility Locator](#legacy-info-about-the-facility-locator)
+## Table of Contents
+* [Key resources](#key-resources) 
+* [Facility Locator resources](#facility-locator-resources)
+* [Practice specific](#practice-specific-resources)
+  - [Product](#product)
+  - [Engineering](#engineering)
+  - [Design/research](#design-research)
+* [What to know about the product](#what-to-know-about-the-product)
+* [Legacy info about the Facility Locator](#legacy-info-about-the-facility-locator)
 
 ## Key resources 
 
