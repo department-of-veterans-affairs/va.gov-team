@@ -46,7 +46,6 @@ Currently,the processes for acquiring a VIC card are cumbersome and long and not
 We don’t want to replace the VIC, but want something that can serve the same purpose in the app.
 
 
-
 1. Process for applying is long and opaque.  Long process and then you get a PDF to be printed.  Previously sent to Office Depot to be printed but that was too expensive
     1. Email from VA has 2 PDFs, one of the front of the card and one of the back.
 2. The VIC law is prescriptive and doesn’t include funding so Veterans need to pay to print the card which is not worth it.
@@ -63,7 +62,6 @@ TBD
 
 
 ### Risks
-
 1. Creating a ‘competitor’ to the VIC could anger certain stakeholders (?) 
     1. Need to ensure creating an ID card that is not technically the VIC does not interfere with the VIC law
 2. Surfacing current VIC may not be technically possible and the owning group may not have interest in working with us
@@ -84,7 +82,7 @@ a state-issued driver’s license or ID with a Veterans designation), and Vetera
 
 
 
-#### Roadmap
+### Roadmap
 
 #### V1
 * 
@@ -99,23 +97,25 @@ a state-issued driver’s license or ID with a Veterans designation), and Vetera
 * Must have non-dishonarable discharge
 
 ### Measuring success
-* Usefulness of VIC:
+*** Usefulness of VIC:**
     * Track number/% of Users that access the ID in the app
     * Track number/% of users that regularly access the ID in the app over time
     * OS Wallet metrics for how often IDs in the Wallets are accessed?  
         * Location of where/when it is accessed in wallet?
-* Impact of launching VIC:
+*** Impact of launching VIC:**
     * An increase in app downloads that correlates with the launch of VIC card
     * An increase in the overall number of active app users
        * An increase in usage of the app by users who do not currently use Health tools
        * An increase in overall usage of the app by users that correlates with the usage of VIC card in the app
-    * An increase in Veteran satisfaction with VA that correlates with VIC card usage and/or the presence of VIC card in the app
-* Requests for ability to provide proof of service decreases in [need to understand where these requests are happening now] 
+    * An increase in Veteran satisfaction with VA that correlates with VIC card usage and/or the presence of VIC card  in the app.
+    * Requests for ability to provide proof of service decreases in [need to understand where these requests are happening now].
+   
 
 ### Stakeholders
 * Melisa Rebstock (VEO)
 * Joe Valentine (with Angela Gant-Curtis)
 * Chris to do email introduction for Kelly to these stakeholders
+
 
 ### Potential Solutions
 1. Surface official VIC within the app
@@ -134,7 +134,7 @@ a state-issued driver’s license or ID with a Veterans designation), and Vetera
          3. How do we guarantee that outside orgs will take the ID? - not sure, should talk to them
 
 ### Open Questions
-* Questions for existing VIC
+*** Questions for existing VIC:**
     * Is there an API to find which Veterans have a VIC?  
     * Can we access the VIC PDF and surface it (or ideally the data used in the PDF) in the app?
     * Who would we work with in VA for this?
@@ -144,7 +144,7 @@ a state-issued driver’s license or ID with a Veterans designation), and Vetera
         * What are the discounts and other private-sector benefits Veterans would have access to with their VIC?
         * How frequently do Veterans need to use some form of Veteran ID?
         * Do we have contacts at Home Depot, Lowes, etc. to ensure they would accept any ID card we make that is separate from the VIC?
- * Questions for creating our own digital VIC:
+** * Questions for creating our own digital VIC:**
     * Is there a way to make a digital VIC ‘official’ with the VA, and therefore would be accepted by 3rd parties?
     * What sort of outside communications and coordination would be required to ensure that digital VIC is an accepted form of Veteran identification?
     * Are there other VA stakeholders we should work with if we create our own?
