@@ -34,7 +34,7 @@ According to [Centers for Medicare & Medicaid Services Meaningful Use guidelines
 
 ## Solution Approach
 - _What are you going to build now, and why have you decided to start here?_
-  - Since the CPRS AVS system already generates HTML. We are going to leverage that for our MVP, in order to hit a summer 2023 release date. 
+  - Since the CPRS AVS system already generates HTML, we are going to leverage that for our MVP, in order to hit a summer 2023 release date. 
   - We will make edits to the HTML generates upon printing within the CPRS AVS system, so the HTML is semantic and accessible.
     - Apply VA design system styling.
     - Finalize a plan on where to access the AVS HTML version. Mongo and TIU Notes (in Vista) have been discussed.
