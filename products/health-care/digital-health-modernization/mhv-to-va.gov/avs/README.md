@@ -1,16 +1,5 @@
 # After Visit Summary (AVS) Product Outline
 
-## Communications
-- [Super Epic](https://app.zenhub.com/workspaces/mhv-to-vagov-appointments-63d9ef2effd69b002641127b/issues/gh/department-of-veterans-affairs/va.gov-team/54140)
-  - Github labels: my-health; my-health-APPOINTMENTS; AVS
-- Slack channel: [#after-visit-summary](https://dsva.slack.com/archives/C04UBETRY8N)
-- [Kickoff Mural (includes initial decisions, definition of success, and more)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677076638208/77cc850ded3dd4358451f0a42f7a96d9f49a1206?sender=u7c471a43344939c759cb1640)
-
-### Team
-- Lauren Alexanderson - OCTO Lead, [lauren.alexanderson@va.gov](mailto:lauren.alexanderson@va.gov)
-- Kristen McConnell - OCTO UX Lead, [kristen.mcconnell@va.gov](mailto:kristen.mcconnell@va.gov)
-- Adrian Rollett - OCTO Engineering Lead, [adrian.rollett@va.gov](mailto:adrian.rollett@va.gov)
-
 ## The Problem
 Today, select Veterans and caregivers receive After Visit Symmaries following their medical appointment. This group can receive a printed copies as they are leaving the provider's office or they can access them on My HealtheVet. Within the MHV on VA.gov work, we now want to offer AVSs on VA.gov too. The new application will employ modern technology and user-centered design to ensure that the AVS is accessible, straightforward, and simple to use. Moving this product out of MyHealtheVet and into the VA.gov landscape will also provide a more seamless and consistent experience than was possible on two distinct web sites.
 
@@ -122,9 +111,39 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 ### Initial Designs
 ![AVS-MVP-Happy-Path-UserFlow](https://user-images.githubusercontent.com/66287082/232537966-4330ee46-a1f0-4caf-a158-304b33e03b9f.jpg)
 
+- [Kickoff Mural (includes initial decisions, definition of success, and more)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677076638208/77cc850ded3dd4358451f0a42f7a96d9f49a1206?sender=u7c471a43344939c759cb1640)
+
 ### After
 
-## Partners, SMES, and Stakeholders
+#### Communications
+
+<details>
+
+- Github labels: my-health; my-health-APPOINTMENTS; AVS
+- Slack channel: [#after-visit-summary](https://dsva.slack.com/archives/C04UBETRY8N)
+- Product POCs: 
+  - Lauren Alexanderson - OCTO Health Lead, [lauren.alexanderson@va.gov](mailto:lauren.alexanderson@va.gov)
+  - Kristen McConnell - OCTO UX Lead, [kristen.mcconnell@va.gov](mailto:kristen.mcconnell@va.gov)
+  - Adrian Rollett - OCTO Engineering Lead, [adrian.rollett@va.gov](mailto:adrian.rollett@va.gov)
+- [Super Epic](https://app.zenhub.com/workspaces/mhv-to-vagov-appointments-63d9ef2effd69b002641127b/issues/gh/department-of-veterans-affairs/va.gov-team/54140)
+
+</details>
+
+#### Team Members
+
+<details>
+ 
+  - Lauren Alexanderson - OCTO Health Lead, [lauren.alexanderson@va.gov](mailto:lauren.alexanderson@va.gov)
+  - Kristen McConnell - OCTO UX Lead, [kristen.mcconnell@va.gov](mailto:kristen.mcconnell@va.gov)
+  - Adrian Rollett - OCTO Engineering Lead, [adrian.rollett@va.gov](mailto:adrian.rollett@va.gov)
+ 
+</details>
+
+
+#### Stakeholders
+
+<details>
+ 
 - OCTO Health Apps
   - Patrick Bateman
   - Kay Laywer
@@ -144,3 +163,5 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
   - Dr. Layden
   - Dr. Nilesh Shah
   - Dr. Josephs
+ 
+</details>
