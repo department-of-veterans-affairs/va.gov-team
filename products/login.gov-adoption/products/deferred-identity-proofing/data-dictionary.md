@@ -1204,7 +1204,7 @@ min:vets_api.statsd.account_login_stats_myhealthevet_past_[day|week|month]{deplo
 
 The result sets return a dataset with repetetive results of the value.  Domo ETL is configure to remove repetetive results and add a friendly name field indicating: DS Logon, Login.gov, ID.me or MHV.
 
-Based on the usage trend, the "prior" day appears to be 2 days prior.  Same values are returned when tested later in the day, so apparently not a timimg/timezone issue.
+Based on the usage trend, the "prior" day appears to be 2 days prior.  Same values are returned when tested later in the day, so apparently not a timimg/timezone issue.  There is a gap in data from 4/6/23 to 4/12/23 from where no results were returned.
 
 
 <table>
