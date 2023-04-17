@@ -107,7 +107,9 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 > *"See if I qualify or not based on income" (p9)*.
 - All participants found it **easy to answer the questions**, which were posed one question at a time (the subtask design pattern). A few participants commented that it was really easy to answer the questions on their phone. 
 - All participants **used the *Continue* button without any hesitation**, and some used the *Back* button, too (others didn't need to).
-- All participants **understood the income ranges** and figured out which one to open.
+- All participants **understood the income ranges** and figured out which one to open. One participant did say that they expected to have ranges with even thousands of dollars (i.e., _$82,000 - $89,999, $90,000 or more_ instead of _$81,900 - $90,089, $90,090 or more_).
+> *"Not a lot of reading, not a lot of choices...As your income goes down, the more benefits you would receive" (p7)*.
+
 - Once they found the "Get past income limits" link, participants didn't have any difficulties doing the **Past Income limits task**.
 
 ### There were a few navigation issues within the app
@@ -224,26 +226,16 @@ Brief description
 > _Supporting data: Quote here_
 
 **FROM TOPLINE...**
-### Usability Successes
-1. All participants **understood the purpose of the app**--to find out if they might be eligible for VA health care based on their income before applying.
-2. All participants found it **easy to answer the questions**, which were posed one question at a time (the subtask design pattern). A few participants commented that it was really easy to answer the questions on their phone. 
-3. All participants **used the *Continue* button without any hesitation**, and some used the *Back* button, too (others didn't need to).
-4. All participants **understood the income ranges** and figured out which one to open.
-5. Once they found the "Get past income limits" link, participants didn't have any difficulties doing the **Past Income limits task**.
-
-### Usability Issues
 
 6. Some participants were **confused by the mention of cases where income limits don't apply**, wondered whether income limits applied to them, and thought the app might help them figure this out. 
 11. Most participants believed the results they got from the app and **weren't inclined to apply for health care** if their income was in the highest bracket.
 12. Some participants had **difficulty navigating back to the _Review information_ page** from the _Results page_.
 
-
-
 ## Additional Insights
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
-We heard additional feedback on the app intro page from individual participants. Each of the comments below is from only one participant, but could be used to potentially tweak the content copy on the page.
+We heard **additional feedback on the app intro page from individual participants**. Each of the comments below is from only one participant, but could be used to potentially tweak the content copy on the page.
 - Based on the first sentence ("You may be eligible for VA health care based on your VA disability rating, service history, or other factors"), 1 participant **expected to be asked about their disability rating and service history**, but those are actually reasons that you would NOT need the app.
   - RECOMMENDATION: Lead with a clearer distinction between income limits and what factors make them relevant or not (e.g., "_Not everyone is affected by income limits._ You may be _automatically_ eligible for VA health care based on your VA disability rating, service history, or other factors. If you're not eligible based on these factors, you may still qualify if your income is within our limit.")
 
@@ -253,7 +245,6 @@ We heard additional feedback on the app intro page from individual participants.
   
 - 1 participant who had a cognitive disability said that the block of **text was too much to read and understand**. There are already 
 > *"Too much text and not enough separation [formatting-wise] of it. Want a tldr" (p1)*.
-
 
 
 ## Recommendations
