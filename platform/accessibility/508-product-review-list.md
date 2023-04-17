@@ -118,7 +118,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
 
 Each application or logical section of the site will have a heading and a detailed list of issues included. This is a transition from a data table approach, where rows will be removed from the table and added as list entries.
 
-### Design System ✔️
+### Design System 
 
 **Maintainer:** VSP<br/>
 **Audit Status:** _[Audit completed by VSP as of June 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8351)_<br/>
@@ -133,7 +133,7 @@ Each application or logical section of the site will have a heading and a detail
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### Forms Library ✔️
+### Forms Library 
 
 **Maintainer:** VSP<br/>
 **Audit Status:** _Engineering review underway by VSP as of May 2020._<br/>
@@ -147,7 +147,7 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### Sitewide ✔️
+### Sitewide 
 
 **Maintainer:** VSP & VSA<br/>
 **Audit Status:** _Not applicable. Issues should be completed as soon as possible._<br/>
@@ -213,7 +213,7 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### Sitewide TTY Review ✔️
+### Sitewide TTY Review 
 
 **Maintainer:** VSP & VSA<br/>
 **Audit Status:** _Not applicable. Issues should be completed as soon as possible._<br/>
@@ -587,7 +587,7 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### VFS Education
+### VFS Education 🔖
 
 #### Colmery Act Opt Out
 
