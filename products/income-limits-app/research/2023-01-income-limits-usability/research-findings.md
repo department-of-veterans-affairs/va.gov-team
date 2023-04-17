@@ -231,6 +231,12 @@ Brief description
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
+We heard additional feedback on the app intro page from individual participants. Each of the comments below is from only one participant, but could be used to potentially tweak the content.
+- Based on the first sentence ("You may be eligible for VA health care based on your VA disability rating, service history, or other factors"), 1 participant expected to be asked about their disability rating and service history, but those are actually reasons that you would NOT need the app.
+- concerned about how long this will take--to create a password, etc. also what info might be needed--investments, W2s, DD214
+a lot of text/words and not enough differences. wants a tldr
+
+
 
 ## Recommendations
 
