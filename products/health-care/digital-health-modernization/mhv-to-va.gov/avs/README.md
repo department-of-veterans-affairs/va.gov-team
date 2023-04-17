@@ -119,6 +119,7 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 - [CPRS AVS User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0eebafe247417bf1249b8b1917a69d180ccf69fe/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/After-Visit-Summary-User%20Guide-1.2.pdf)
 
 ### After
+![AVS-MVP-Happy-Path-UserFlow](https://user-images.githubusercontent.com/66287082/232537966-4330ee46-a1f0-4caf-a158-304b33e03b9f.jpg)
 
 ## Partners, SMES, and Stakeholders
 - Patrick Bateman
