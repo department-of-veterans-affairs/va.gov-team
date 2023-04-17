@@ -118,7 +118,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
 
 Each application or logical section of the site will have a heading and a detailed list of issues included. This is a transition from a data table approach, where rows will be removed from the table and added as list entries.
 
-### Design System
+### Design System ✔️
 
 **Maintainer:** VSP<br/>
 **Audit Status:** _[Audit completed by VSP as of June 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8351)_<br/>
