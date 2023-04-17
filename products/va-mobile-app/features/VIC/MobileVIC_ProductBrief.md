@@ -58,9 +58,11 @@ TBD
 
 #### Business Goals
 - Increase app downloads
-- Increase app usage
+- Increase app Active Users
 - Relates to [OCTO-DE goals:](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme)
    - Logged-in users have a personalized experience, with relevant and time-saving features
+- Allow Veterans to have a digital ID which is highly desired 
+- Bring Users into the app that do not have Health
 
 
 #### Roadmap
@@ -111,8 +113,9 @@ TBD
 #### Open Questions
 * Questions for existing VIC
     * Is there an API to find which Veterans have a VIC?  
-    * Can we access the VIC PDF and surface it in the app?
+    * Can we access the VIC PDF and surface it (or ideally the data used in the PDF) in the app?
     * Who would we work with in VA for this?
+    * What does their audience look like now?  How many Veterans have a VIC?
 * Questions for creating our own:
     * Do we have contacts at Home Depot, Lowes, etc. to ensure they would accept any ID card we make that is separate from the VIC?
     * Is there a way to make it ‘official’ with the VA, and therefore would be accepted by 3rd parties?
