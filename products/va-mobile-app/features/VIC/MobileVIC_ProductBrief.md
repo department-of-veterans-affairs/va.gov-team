@@ -144,6 +144,7 @@ a state-issued driver’s license or ID with a Veterans designation), and Vetera
     * What are the discounts and other private-sector benefits Veterans would have access to with their VIC?
     * How frequently do Veterans need to use some form of Veteran ID?
     * Do we have contacts at Home Depot, Lowes, etc. to ensure they would accept any ID card we make that is separate from the VIC?
+
 **Questions for creating our own digital VIC:**
 * Is there a way to make a digital VIC ‘official’ with the VA, and therefore would be accepted by 3rd parties?
 * What sort of outside communications and coordination would be required to ensure that digital VIC is an accepted form of Veteran identification?
