@@ -117,7 +117,7 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 
 ### After
 
-#### Communications
+## Communications
 
 <details>
 
@@ -131,7 +131,7 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 
 </details>
 
-#### Team Members
+## Team Members
 
 <details>
  
@@ -142,7 +142,7 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 </details>
 
 
-#### Stakeholders
+## Stakeholders
 
 <details>
  
