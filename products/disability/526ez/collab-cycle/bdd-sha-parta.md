@@ -1,7 +1,7 @@
 ## Collab-cyle Design Intent Review Outcome
 
 ### Feedback
-| Feedback Type | Priority | Feedback                     | Stakeholder| Status  | Comment                     |
+| Feedback Type | Priority | Feedback                     | Stakeholder| Status  | Comments                     |
 | ------------- |:--------:|:----------------------------:|:-----------:|:-----------:|:---------------------------:|
 | Design        |Must      |The wizard is deprecated, instead try 1 question per page|         | To be addressed later as part of wizard deprecation|  |
 | Design        |Must      |Follow the intro template|         | | What are the changes? - @Lydia |
