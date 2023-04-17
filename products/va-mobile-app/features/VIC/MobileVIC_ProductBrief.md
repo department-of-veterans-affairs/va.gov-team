@@ -4,9 +4,12 @@
 ### Sprint 0
 
 #### Problem Statement
-Veterans would benefit from an easy-to-access official Veteran ID card to use for receiving discounts and other private-sector benefits.  There is currently no simple way to attain an ID like this.  The current processes are cumbersome and long and not well known by Veterans.  A widely accepted Veteran ID within the mobile app could prove a very useful feature for Veterans and greatly increase usage of the app.
+There are a variety of siutations in which Veterans need to prove their Veteran status in order to receive a particular benefit (inlcuding but not limted to receiving discounts and other private-sector benefits). Veterans would benefit from an easy-to-access official Veteran ID card to use in these contexts. Because there is currently no simple way to attain an ID like this, a widely accepted Veteran ID within the mobile app could prove a very useful feature for Veterans and greatly increase usage of the app.
 
 #### Current Experience
+- Currently,the processes for acquiring a VIC card are cumbersome and long and not well known by Veterans.
+- While VIC card is not currently present in the VA Mobile app, Veterans occasionally report using letters in the VA Letters section of the VA mobile app as proof of service. 
+- Recent research findings indicate that having [a way to prove Veteran status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#though-they-may-not-need-their-dd214-in-all-cases-to-apply-for-va-benefits-having-a-copy-of-it-facilitates-the-benefit-application-process-and-helps-veterans-access-non-va-privileges-memberships-and-discounts) helps Veterans access non-VA privileges, memberships, and discounts.
 
 From VA.gov: 
 “A Veteran ID Card (VIC) is a digital photo ID you can use to get discounts for Veterans at many stores, businesses, and restaurants. When you have this card, you won’t need to carry around your military discharge papers or share sensitive personal information to get discounts. And you don’t need to request another type of photo ID card to prove you’re a Veteran or to get retail or business discounts.”
@@ -15,7 +18,6 @@ From VA.gov:
 
 
 Notes:
-
 
 
 * VIC
