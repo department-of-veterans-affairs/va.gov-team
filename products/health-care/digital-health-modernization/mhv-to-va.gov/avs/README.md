@@ -46,7 +46,7 @@ According to [Centers for Medicare & Medicaid Services Meaningful Use guidelines
     - Creating our own connections/APIs to VistA
   - We decided against these approaches due due to the resourcing available and summer launch timelines. 
 
-## Requirements
+## MVP Requirements
 #### In Scope 
 - AVSs available for appointments occurring on or after launch date. Past appointment AVSs will not be available.
 - Data and sections displayed will be similar to the printed PDF that the VA currently offers (minus the patient education articles and clinical graphs sections).
@@ -69,6 +69,7 @@ After Visit Summaries (AVS) serve many purposes*, including:
 -	Engage patients in their care
 -	Improve recall of medical instructions
 -	Meet electronic health record Meaningful Use criteria
+
 Within the VA today, Veterans can be handed a printed AVS when leaving their appointment, providers can review an AVS with them during their appointment, and Veterans can view a PDF version of AVS on My HealtheVet. Now, we want to create an AVS experience on VA.gov. 
 
 *Purpose copied from [AVS User Guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0eebafe247417bf1249b8b1917a69d180ccf69fe/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/After-Visit-Summary-User%20Guide-1.2.pdf)
@@ -107,8 +108,8 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 - Prior to April 17 
   - We are building an HTML version of the AVS and not just giving Veterans access to a PDF.
   - Longer-term (non MVP goal): Data parity across MHV on VA.gov sections.
-  - MVP information architecture location: connect AVS within the appointments section.
-  - Longer-term informaiton architecture location: connect AVS within the Care Summaries and Notes (a subsection of Health History)
+  - For the MVP, access AVS within the appointments section.
+  - Longer-term information architecture location: AVSs will live within the Care Summaries and Notes (a subsection of Health History)
 
 ## Outstanding Questions
 
