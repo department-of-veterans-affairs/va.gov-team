@@ -82,7 +82,7 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 - MHV AVS traffic before go-live
 - Medallia score and VSignals feedback after go-live
 
-**Objectives and Key results (OKRs)
+**Objectives and Key results (OKRs)**
 - Objective: Ensure users can find their After Visit Summary on VA.gov
   - Key result: Traffic to VA.gov After Visit Summary is equal or greater than previous MHV After Visit Summary metrics
 - Objective: Ensure the After Visit Summary is intuitive and easy to use
@@ -118,16 +118,28 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 - [CPRS AVS Sample](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0eebafe247417bf1249b8b1917a69d180ccf69fe/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/AVS-Sample-White-Redacted.pdf)
 - [CPRS AVS User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0eebafe247417bf1249b8b1917a69d180ccf69fe/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/After-Visit-Summary-User%20Guide-1.2.pdf)
 
-### After
+### Initial Designs
 ![AVS-MVP-Happy-Path-UserFlow](https://user-images.githubusercontent.com/66287082/232537966-4330ee46-a1f0-4caf-a158-304b33e03b9f.jpg)
 
+### After
+
 ## Partners, SMES, and Stakeholders
-- Patrick Bateman
-- Kay Laywer
-- Mark Dewey
-- Stephen Barrs 
-- Shane Elliott
-- Rob Durkin
-- Ro Weaver (and MHV AVS group)
-- Bresha Lipscomb
-- Coulton Bunney
+- OCTO Health Apps
+  - Patrick Bateman
+  - Kay Laywer
+  - Mark Dewey
+  - Stephen Barrs 
+- CPRS AVS
+  - Shane Elliott
+  - Rob Durkin
+- MHV
+  - Ro Weaver
+  - Bresha Lipscomb (Appointments Product Owner)
+- MHV on VA.gov
+  - Coulton Bunney
+- Stakeholders
+  - Dr. Harzand
+  - Dr. Spahn
+  - Dr. Layden
+  - Dr. Nilesh Shah
+  - Dr. Josephs
