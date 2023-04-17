@@ -74,7 +74,7 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 *Purpose copied from [AVS User Guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0eebafe247417bf1249b8b1917a69d180ccf69fe/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/After-Visit-Summary-User%20Guide-1.2.pdf)
 
 ## KPIs
-(Analytics Playbook)[https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/analytics-playbook]
+[Analytics Playbook](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/analytics-playbook)
 - Ease of Use: VA.gov After Visit Summary traffic vs. MHV After Visit Summary traffic
 - Trust/Satisfaction: Medallia score and VSignals feedback
 
