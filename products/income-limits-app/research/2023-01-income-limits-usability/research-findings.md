@@ -101,6 +101,18 @@ _For each finding, list details with supporting quotes and images when possible.
 
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
+### All participants understood the purpose of the app and found it easy to use
+- All participants understood what the app was for--to find out if they might be eligible for VA health care based on their income before applying.
+> *"Figure out even if I'm eligible by income before I continue on to do further research" (p8)*.
+> *"See if I qualify or not based on income" (p9)*.
+- All participants found it **easy to answer the questions**, which were posed one question at a time (the subtask design pattern). A few participants commented that it was really easy to answer the questions on their phone. 
+- All participants **used the *Continue* button without any hesitation**, and some used the *Back* button, too (others didn't need to).
+- All participants **understood the income ranges** and figured out which one to open.
+- Once they found the "Get past income limits" link, participants didn't have any difficulties doing the **Past Income limits task**.
+
+### There were a few navigation issues within the app
+
+
 ### Participants had difficulty understanding some of the benefit descriptions under the income ranges
 Participants found some of the text to be ambiguous, which made it difficult for them to understand the specific benefits and compare them across income ranges. Each of the phrases below was questioned by 3 of 8 participants (but not the same participants for each): 
 - **"VA health care"**--medical? dental? vision? only at a VA hospital?
@@ -235,11 +247,11 @@ We heard additional feedback on the app intro page from individual participants.
 - Based on the first sentence ("You may be eligible for VA health care based on your VA disability rating, service history, or other factors"), 1 participant **expected to be asked about their disability rating and service history**, but those are actually reasons that you would NOT need the app.
   - RECOMMENDATION: Lead with a clearer distinction between income limits and what factors make them relevant or not (e.g., "_Not everyone is affected by income limits._ You may be _automatically_ eligible for VA health care based on your VA disability rating, service history, or other factors. If you're not eligible based on these factors, you may still qualify if your income is within our limit.")
 
-- 1 participant was concerned about how long this income limits app will take to do because they'll probably need to create a password and gather a lot of documents (e.g., investments, W2s, DD214). After going through the app pages, this participant was relieved.
+- 1 participant was **concerned about how long this income limits app will take to go through** because they'll probably need to create a password and gather a lot of documents (e.g., investments, W2s, DD214). After going through the app pages, this participant was relieved.
 >  *"Wasn't overwhelming with requiring a ton of info, such as finding a DD214, and creating a new password. It was quick. that's important" (p7)*.
 - RECOMMENDATION: Add to the intro page how long to expect and what's needed so people know it's quick and easy (e.g., "Here’s what you’ll need to apply: your household income and number of dependents from the last year...", "It should take about 3 minutes."
   
-- 1 participant who had a cognitive disability said that the block of text was too much to read and understand.
+- 1 participant who had a cognitive disability said that the block of **text was too much to read and understand**. There are already 
 > *"Too much text and not enough separation [formatting-wise] of it. Want a tldr" (p1)*.
 
 
