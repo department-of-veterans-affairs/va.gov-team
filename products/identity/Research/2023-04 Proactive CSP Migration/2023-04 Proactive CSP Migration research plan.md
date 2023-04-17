@@ -153,11 +153,14 @@ Screener questions:
 
 
 ### Prepare
+
+- Before recruitment starts, I would like to request a kickoff call with Perigean to align on recruitment criteria and terminology for screener questions. Available times listed in the recruitment ticket
+
 - The prototype went through [Midpoint review](https://app.zenhub.com/workspaces/collaboration-cycle-reviews-61d89e9e5f4c120011a0ad37/issues/gh/department-of-veterans-affairs/va.gov-team/54326) on Apr 14, 2023
 
-Pilot Session details are TBD:
-- Pilot participant email:
-- Date and time of pilot session:
+- Pilot Session details are TBD:
+   - Pilot participant email:
+   - Date and time of pilot session:
 
 
 ### Research sessions
