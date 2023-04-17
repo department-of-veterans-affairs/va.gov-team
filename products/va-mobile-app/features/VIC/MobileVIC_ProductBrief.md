@@ -98,17 +98,17 @@ a state-issued driver’s license or ID with a Veterans designation), and Vetera
 
 ### Measuring success
 #### Usefulness of VIC:
-    * Track number/% of Users that access the ID in the app
-    * Track number/% of users that regularly access the ID in the app over time
-    * OS Wallet metrics for how often IDs in the Wallets are accessed?  
-        * Location of where/when it is accessed in wallet?
+* Track number/% of Users that access the ID in the app
+* Track number/% of users that regularly access the ID in the app over time
+* OS Wallet metrics for how often IDs in the Wallets are accessed?  
+   * Location of where/when it is accessed in wallet?
 #### Impact of launching VIC:
-    * An increase in app downloads that correlates with the launch of VIC card
-    * An increase in the overall number of active app users
-       * An increase in usage of the app by users who do not currently use Health tools
-       * An increase in overall usage of the app by users that correlates with the usage of VIC card in the app
-    * An increase in Veteran satisfaction with VA that correlates with VIC card usage and/or the presence of VIC card  in the app.
-    * Requests for ability to provide proof of service decreases in [need to understand where these requests are happening now].
+* An increase in app downloads that correlates with the launch of VIC card
+* An increase in the overall number of active app users
+    * An increase in usage of the app by users who do not currently use Health tools
+    * An increase in overall usage of the app by users that correlates with the usage of VIC card in the app
+* An increase in Veteran satisfaction with VA that correlates with VIC card usage and/or the presence of VIC card  in the app.
+* Requests for ability to provide proof of service decreases in [need to understand where these requests are happening now].
    
 
 ### Stakeholders
@@ -135,19 +135,19 @@ a state-issued driver’s license or ID with a Veterans designation), and Vetera
 
 ### Open Questions
 *** Questions for existing VIC:**
-    * Is there an API to find which Veterans have a VIC?  
-    * Can we access the VIC PDF and surface it (or ideally the data used in the PDF) in the app?
-    * Who would we work with in VA for this?
-    * What does their audience look like now?  How many Veterans have a VIC?
-    * Can Veterans print the card on their own, at home? Or does it have to be printed a specific way?
-    * In what specific real-life situations does the VIC card get used today?
-        * What are the discounts and other private-sector benefits Veterans would have access to with their VIC?
-        * How frequently do Veterans need to use some form of Veteran ID?
-        * Do we have contacts at Home Depot, Lowes, etc. to ensure they would accept any ID card we make that is separate from the VIC?
+* Is there an API to find which Veterans have a VIC?  
+* Can we access the VIC PDF and surface it (or ideally the data used in the PDF) in the app?
+* Who would we work with in VA for this?
+* What does their audience look like now?  How many Veterans have a VIC?
+* Can Veterans print the card on their own, at home? Or does it have to be printed a specific way?
+* In what specific real-life situations does the VIC card get used today?
+    * What are the discounts and other private-sector benefits Veterans would have access to with their VIC?
+    * How frequently do Veterans need to use some form of Veteran ID?
+    * Do we have contacts at Home Depot, Lowes, etc. to ensure they would accept any ID card we make that is separate from the VIC?
 ** * Questions for creating our own digital VIC:**
-    * Is there a way to make a digital VIC ‘official’ with the VA, and therefore would be accepted by 3rd parties?
-    * What sort of outside communications and coordination would be required to ensure that digital VIC is an accepted form of Veteran identification?
-    * Are there other VA stakeholders we should work with if we create our own?
+* Is there a way to make a digital VIC ‘official’ with the VA, and therefore would be accepted by 3rd parties?
+* What sort of outside communications and coordination would be required to ensure that digital VIC is an accepted form of Veteran identification?
+* Are there other VA stakeholders we should work with if we create our own?
 * Are there any other VA cards we could add to the OS Mobile Wallet?  VHA card, etc.?
     * Vaccine ‘card’?
 
