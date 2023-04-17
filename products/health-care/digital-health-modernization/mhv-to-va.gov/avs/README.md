@@ -1,12 +1,14 @@
 # After Visit Summary (AVS) Product Outline
 
-## The Problem
-Today, select Veterans and caregivers receive After Visit Symmaries following their medical appointment. This group can receive a printed copies as they are leaving the provider's office or they can access them on My HealtheVet. Within the MHV on VA.gov work, we now want to offer AVSs on VA.gov too. The new application will employ modern technology and user-centered design to ensure that the AVS is accessible, straightforward, and simple to use. Moving this product out of MyHealtheVet and into the VA.gov landscape will also provide a more seamless and consistent experience than was possible on two distinct web sites.
+## Overview and Problem Statement
+Today, select Veterans and caregivers receive After Visit Summaries following their medical appointment. This group can receive printed copies as they leave their provider's office or they can access a PDF version on My HealtheVet. We now want to offer an AVS on VA.gov too. The new application will employ modern technology and user-centered design to ensure that the AVS is accessible, straightforward, and simple to use. Moving this product out of MyHealtheVet and into the VA.gov landscape will also provide a more seamless and consistent experience than was possible on two distinct web sites.
 
 **What is an After Visit Summary?**
 According to [Centers for Medicare & Medicaid Services Meaningful Use guidelines](https://www.cms.gov/Regulations-and-Guidance/Legislation/EHRIncentivePrograms/Downloads/13_Clinical_Summaries.pdf), "an after-visit summary...provides a patient with relevant and actionable information and instructions containing the patient name, provider’s office contact information, date and location of visit, an updated medication list, updated vitals, reason(s) for visit, procedures and other instructions based on clinical discussions that took place during the office visit, any updates to a problem list, immunizations or medications administered during visit, summary of topics covered/considered during visit, time and location of next appointment/testing if scheduled, or a recommended appointment time if not scheduled, list of other appointments and tests that the patient needs to schedule with contact information, recommended patient decision aids, laboratory and other diagnostic test orders, test/laboratory results (if received before 24 hours after visit), and symptoms."
 
 ### User Goals
+
+#### Desired User Goals
 - As a Veteran or caregiver, I want access to a summary of what was discussed and decided at my appointment.
 - As a Veteran who utilizes assistive technology, such as a screen reader, I am able to easily review my After Visit Summary.
 
@@ -102,7 +104,7 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 
 ## Outstanding Questions
 
-## Screenshots
+## Screenshots/Design
 
 ### Before
 - [CPRS AVS Sample](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0eebafe247417bf1249b8b1917a69d180ccf69fe/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/AVS-Sample-White-Redacted.pdf)
