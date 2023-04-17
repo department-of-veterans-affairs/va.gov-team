@@ -213,7 +213,7 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### Sitewide TTY Review
+### Sitewide TTY Review ✔️
 
 **Maintainer:** VSP & VSA<br/>
 **Audit Status:** _Not applicable. Issues should be completed as soon as possible._<br/>
