@@ -20,15 +20,17 @@ assignees: jennymayoco
 ### Description
 Please provide a description and supporting information for the new best bet, or the existing best bet you want to change. Include any research or data you have to support the request. 
 
+ - 
 
 ###  Target Dates
 Do you have any target dates we should be aware of?
 
+ - 
  
 ### Specify the target page for the Best Bet 
 What is the destination page for the best bet?
        
-
+- 
 
 
 
