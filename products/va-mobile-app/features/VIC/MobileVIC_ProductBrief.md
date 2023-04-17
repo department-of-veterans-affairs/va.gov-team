@@ -80,7 +80,7 @@ a state-issued driver’s license or ID with a Veterans designation), and Vetera
   - Give non-Health users a reason to return to the app
 - Relates to [OCTO-DE goals:](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme)
    - Logged-in users have a personalized experience, with relevant and time-saving features
-- Increase Veteran satisfaction with VA (Allowing Veterans to have a digital ID, which is highly requested and desired)
+   - Increase Veteran satisfaction with VA (Allowing Veterans to have a digital ID, which is highly requested and desired)
 
 
 
