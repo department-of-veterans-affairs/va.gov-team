@@ -48,7 +48,9 @@ We conducted sessions remotely via Zoom, using screen sharing to observe partici
 
 **Note:** During this testing, VA.gov was piloting a new version of the homepage, and a new health landing page.  Our participants were not exposed to either of these during our study. We tested with the current version of the homepage, and the My HealtheVet links on the site pointed to the My HealtheVet website.
 
-TK: homepage screenshot
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/images/april2023-homepage.png" alt="VA.gov homepage screenshot" width="400" />
+
+_Above: image of the VA.gov homepage as of April 2023_
 
 ## Hypotheses and Conclusions
 1. People will struggle finding what they’re looking for if they can’t use the homepage or My VA.
@@ -84,7 +86,10 @@ Everyone expected to have to log in to see personalized information, and 7 of 9 
 8 of 9 participants were asked to complete a task that was linked from the homepage or My VA, so it was no surprise that they used that link to quickly get to their task.  When we asked them to find another way to get to the same information, we saw variations in how people navigated the website.
 
 For subsequent tasks, 4 of 9 primarily used the mega menu to navigate, with site search as a back-up for tasks that were hard to find, like viewing dependents.  The ease with which people navigated with the menu depended on the context they had around their task, and if the task was surfaced in the second layer of the menu. 
-TK open mega menu screenshot
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/images/open-mega-menu.png" alt="VA.gov health and benefits menu expanded" width="400" />
+
+_Above: image of the VA.gov Healthcare navigation menu open, with a focus ring around a link in the center column_
 
 - When participants clearly understood the category for their task, they had no problem using the navigation menus.
 - Participants had a harder time finding what they needed via the menu when: 
