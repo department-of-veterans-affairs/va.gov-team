@@ -222,8 +222,6 @@ Brief description
 ### Usability Issues
 
 6. Some participants were **confused by the mention of cases where income limits don't apply**, wondered whether income limits applied to them, and thought the app might help them figure this out. 
-
-8. Most participants **didn't open the "How to estimate your income for this tool"** accordion and didn't mention any deductions. They simply used the salary number from the moderator to select an income range to open. 
 11. Most participants believed the results they got from the app and **weren't inclined to apply for health care** if their income was in the highest bracket.
 12. Some participants had **difficulty navigating back to the _Review information_ page** from the _Results page_.
 
