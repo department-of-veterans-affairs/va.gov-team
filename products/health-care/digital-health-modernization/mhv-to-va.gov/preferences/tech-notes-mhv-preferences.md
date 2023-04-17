@@ -16,6 +16,36 @@ Another external system is called "VA Profile" (formerly Vet360), and not to be 
 
 See [MHV and New Profile and Preferences.xlsx (Sharepoint)](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/General/Preferences%20and%20Notifications/MHV%20and%20New%20Profile%20and%20Preferences.xlsx?d=wd9e64dc034eb48d7ae03abb11b731c78&csf=1&web=1&e=P5ZBMQ) for a listing of profile, preferences and some miscellaneous settings.
 
+## Architecture
+
+MHV Classic and VA.gov currently exist in different system contexts, with communications between contexts enabled by the VA.gov forward proxy. Any syncing between systems would depend on the Forward Proxy, in the VA.gov/OCTO context, to mediate.
+
+```mermaid
+---
+title: MHV Preferences – System Context
+---
+flowchart LR
+	style fwdproxy stroke-width:2px,stroke-dasharray: 6 3;
+	fwdproxy <---> mhvapi
+	vetsapi <--> fwdproxy
+	fwdproxy <---> mpi & etc
+
+
+	subgraph A["VA.gov (OCTO)"]
+		vetsapi[vets-api] <--> vetsw[vets-website]
+		fwdproxy{{"FWD Proxy"}}
+	end
+
+	subgraph B["MHV Classic (???)"]
+		mhvapi["MHV Classic API(s)"]
+	end
+
+	subgraph C["External Systems"]
+		mpi["MPI - Master Person Index"]
+		etc(["etc."])
+	end
+```
+
 ## Questions/Challenges
 
 During the transition of MHV products to VA.gov, there will
