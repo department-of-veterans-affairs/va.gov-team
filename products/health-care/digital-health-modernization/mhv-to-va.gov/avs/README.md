@@ -50,7 +50,7 @@ According to [Centers for Medicare & Medicaid Services Meaningful Use guidelines
 #### In Scope 
 - AVSs available for appointments occurring on or after launch date. Past appointment AVSs will not be available.
 - Data and sections displayed will be similar to the printed PDF that the VA currently offers (minus the patient education articles and clinical graphs sections).
-- AVsS will only be available for appointments where a site batch prints or a provider prints an AVS within the CPRS AVS system.
+- AVSs will only be available for appointments where a site batch prints or a provider prints an AVS within the CPRS AVS system.
 - Only appointments at VA facilities will be possible to display.
 
 #### Out of Scope
