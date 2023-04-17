@@ -1,6 +1,6 @@
 # Voicebot
 
-This document serves as the start of a voicebot section of the VA.gov content style guide.
+This document serves as the start of a voicebot section of the VA.gov content style guide. This is a working document and is not meant to be final guidance.
 
 ## Tone and voice notes
 
