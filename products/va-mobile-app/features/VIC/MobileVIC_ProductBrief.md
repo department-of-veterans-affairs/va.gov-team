@@ -58,11 +58,13 @@ TBD
 
 #### Business Goals
 - Increase app downloads
-- Increase app Active Users
+  - Bring users into the app that do not use VA Health
+- Increase app active users
+  - Give non-Health users a reason to return to the app
 - Relates to [OCTO-DE goals:](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme)
    - Logged-in users have a personalized experience, with relevant and time-saving features
-- Allow Veterans to have a digital ID which is highly desired 
-- Bring Users into the app that do not have Health
+- Increase Veteran satisfaction with VA (Allowing Veterans to have a digital ID, which is highly requested and desired)
+
 
 
 #### Roadmap
@@ -80,17 +82,21 @@ TBD
 * Must have non-dishonarable discharge
 
 #### Measuring success
-* Tool:
+* Usefulness of VIC:
     * Track number/% of Users that access the ID in the app
+    * Track number/% of users that regularly access the ID in the app over time
     * OS Wallet metrics for how often IDs in the Wallets are accessed?  
         * Location of where/when it is accessed in wallet?
-* Impact:
-    * An increase in app downloads that correlates with VIC card usage
-    * An increase in overall app usage that correlates with VIC card usage
-	
+* Impact of launching VIC:
+    * An increase in app downloads that correlates with the launch of VIC card
+    * An increase in the overall number of active app users
+       * An increase in usage of the app by users who do not currently use Health tools
+       * An increase in overall usage of the app by users that correlates with the usage of VIC card in the app
+    * An increase in Veteran satisfaction with VA that correlates with VIC card usage and/or the presence of VIC card in the app
+* Requests for ability to provide proof of service decreases in [need to understand where these requests are happening now] 
 
 #### Stakeholders
-* Melisa rebstock (VEO)
+* Melisa Rebstock (VEO)
 * Joe Valentine (with Angela Gant-Curtis)
 * Chris to do email introduction for Kelly to these stakeholders
 
@@ -117,7 +123,10 @@ TBD
     * Who would we work with in VA for this?
     * What does their audience look like now?  How many Veterans have a VIC?
 * Questions for creating our own:
-    * Do we have contacts at Home Depot, Lowes, etc. to ensure they would accept any ID card we make that is separate from the VIC?
+    * In what specific real-life situations does the VIC card get used today?
+        * What are the discounts and other private-sector benefits Veterans would have access to with their VIC?
+        * How frequently do Veterans need to use some form of Veteran ID?
+        * Do we have contacts at Home Depot, Lowes, etc. to ensure they would accept any ID card we make that is separate from the VIC?
     * Is there a way to make it ‘official’ with the VA, and therefore would be accepted by 3rd parties?
     * Are there other VA stakeholders we should work with if we create our own?
 * Are there any other VA cards we could add to the OS Mobile Wallet?  VHA card, etc.?
@@ -128,3 +137,4 @@ TBD
 - iOS Wallet: [IDs in Wallet](https://learn.wallet.apple/id)
 - [How To Apply For A Veteran ID Card](https://www.va.gov/records/get-veteran-id-cards/vic/)
 - [H.R.91 - 114th Congress (2015-2016): Veterans Identification Card Act 2015](https://www.congress.gov/bill/114th-congress/house-bill/91) 
+- [Military Info, Profile Research Findings - Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience - 03/20203](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#military-info-profile-research-findings)
