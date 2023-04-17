@@ -109,8 +109,8 @@ Participants found some of the text to be ambiguous, which made it difficult for
 
 > *"I don't understand. I would have to ask someone or look it up" (p8)*
 
-- REC: Add more description to the benefits and/or provide links to details for "VA health care", "most types of care", "copays", and "full copays".
-- REC (move to other section): Consider standardizing the bullets for each benefit so it's easier to compare them across income ranges: 
+- RECOMMENDATION: Add more description to the benefits and/or provide links to details for "VA health care", "most types of care", "copays", and "full copays".
+- RECOMMENDATION: Consider standardizing the bullets for each benefit so it's easier to compare them across income ranges: 
   - Outpatient and inpatient visits
   - Prescriptions
   - Travel pay (if applicable)
@@ -128,9 +128,9 @@ Participants had different interpretations for the **dependents** question. Some
 - One participant entered 2 for his grown kids, which are likely not dependents in the income tax sense.
 - One participant wanted to enter 1 for himself. Was he maybe thinking of income tax exemptions?
 
-- REC: Clarify the meaning of "dependents" in this question per income taxes or VA rules, and add details to the question so people know how to answer. According to a VA subject-matter expert (in an email dated 4/17/2023), dependents include *your spouse*, unmarried children under 18 (or 18-23 if attending school full-time or disabled prior to reaching age 18), and parents if in the Veteran's direct care and whose net worth and income are below a fixed limit.
-- REC: Delete the text "from VBA" in the pension question (or if this must be kept in, write out "Veterans Beefits Administration") because it's confusing as is.
-- REC: Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean.
+- RECOMMENDATION: Clarify the meaning of "dependents" in this question per income taxes or VA rules, and add details to the question so people know how to answer. According to a VA subject-matter expert (in an email dated 4/17/2023), dependents include *your spouse*, unmarried children under 18 (or 18-23 if attending school full-time or disabled prior to reaching age 18), and parents if in the Veteran's direct care and whose net worth and income are below a fixed limit.
+- RECOMMENDATION: Delete the text "from VBA" in the pension question (or if this must be kept in, write out "Veterans Beefits Administration") because it's confusing as is.
+- RECOMMENDATION: Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean.
 
 ### The landing page was very long to read on a phone, and participants found it difficult to find one of the two "Check our current income limits" links 
 The **landing page** in the prototype was a static version of the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) on which the only working links were two copies of "Check our current income limits". When the participant clicked on one of those two links, they saw the prototype screens for the income limits tool.
@@ -144,7 +144,7 @@ Scrolling down this very long landing page on a phone took a while, especially f
 - Only 1 participant clicked on the second income limits link (in the section "Does VA verify the information I provide?"), and they remarked:
 > *"Kind of far down on the page" (p9).*
 
-- REC: Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move the income limits app link closer to the top of page.
+- RECOMMENDATION: Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move the income limits app link closer to the top of page.
 
 ### Participants used the salary numbers provided by the moderator to decide which income limit accordion to open on the results page, and most didn't mention their household income or deductions
 
@@ -153,7 +153,7 @@ Most participants (7 of 8) **didn't open the "How to estimate your income for th
 
 > *"I automatically went to the numbers" (p6)*.
 
-- REC: Be more explicit about household income and deductions on the results page, without needing to open any accordions. For example, consider changing the first sentence from "We use your last year's income to determine..." to "We use your last year's _household_ income _minus deductions (such as out-of-pocket medical expenses, education costs, and funeral/burial expenses for a spouse or child)_ to determine..."
+- RECOMMENDATION: Be more explicit about household income and deductions on the results page, without needing to open any accordions. For example, consider changing the first sentence from "We use your last year's income to determine..." to "We use your last year's _household_ income _minus deductions (such as out-of-pocket medical expenses, education costs, and funeral/burial expenses for a spouse or child)_ to determine..."
 
 
 
@@ -163,7 +163,7 @@ Most participants (7 of 8) **didn't open the "How to estimate your income for th
 #### From landing page
 > *"From what I read I would not be able to receive healthcare unless I have a disability" (p7)*.
  
-- REC: Consider clarifying in the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page that if your income is too high, applying for disability may not be what you should do next.
+- RECOMMENDATION: Consider clarifying in the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page that if your income is too high, applying for disability may not be what you should do next.
 
 #### From app intro page
 
@@ -231,10 +231,16 @@ Brief description
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
-We heard additional feedback on the app intro page from individual participants. Each of the comments below is from only one participant, but could be used to potentially tweak the content.
-- Based on the first sentence ("You may be eligible for VA health care based on your VA disability rating, service history, or other factors"), 1 participant expected to be asked about their disability rating and service history, but those are actually reasons that you would NOT need the app.
-- concerned about how long this will take--to create a password, etc. also what info might be needed--investments, W2s, DD214
-a lot of text/words and not enough differences. wants a tldr
+We heard additional feedback on the app intro page from individual participants. Each of the comments below is from only one participant, but could be used to potentially tweak the content copy on the page.
+- Based on the first sentence ("You may be eligible for VA health care based on your VA disability rating, service history, or other factors"), 1 participant **expected to be asked about their disability rating and service history**, but those are actually reasons that you would NOT need the app.
+  - RECOMMENDATION: Lead with a clearer distinction between income limits and what factors make them relevant or not (e.g., "_Not everyone is affected by income limits._ You may be _automatically_ eligible for VA health care based on your VA disability rating, service history, or other factors. If you're not eligible based on these factors, you may still qualify if your income is within our limit.")
+
+- 1 participant was concerned about how long this income limits app will take to do because they'll probably need to create a password and gather a lot of documents (e.g., investments, W2s, DD214). After going through the app pages, this participant was relieved.
+>  *"Wasn't overwhelming with requiring a ton of info, such as finding a DD214, and creating a new password. It was quick. that's important" (p7)*.
+- RECOMMENDATION: Add to the intro page how long to expect and what's needed so people know it's quick and easy (e.g., "Here’s what you’ll need to apply: your household income and number of dependents from the last year...", "It should take about 3 minutes."
+  
+- 1 participant who had a cognitive disability said that the block of text was too much to read and understand.
+> *"Too much text and not enough separation [formatting-wise] of it. Want a tldr" (p1)*.
 
 
 
