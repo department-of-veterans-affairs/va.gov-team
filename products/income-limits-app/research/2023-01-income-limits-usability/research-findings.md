@@ -122,13 +122,13 @@ In the question *Did you get a VA pension from VBA last year?*, 1 participant di
 
 > *"I get embarrassed when I don’t know what things mean when they are asked. It also makes me start questioning if I should be receiving these other things, and it gets me off track. Makes me want to look into those things." (p7)*
 
-Participants had different interpretations for the **dependents** question. Some said they would enter what they put on their income taxes, and others remembered this information incorrectly or might have been thinking of the VA's definition of dependents, which includes your spouse and others who live with you.
+Participants had different interpretations for the **dependents** question. Some said they would enter what they put on their income taxes, and others remembered this information incorrectly or might have been thinking of the VA's definition of dependents, which includes your spouse.
 - Half of the participants entered what they put on their income taxes, though one said that he'd ask his wife what that was because she does their taxes. 
 - Two participants wanted to enter 1 for their wife, with whom they file taxes jointly.
 - One participant entered 2 for his grown kids, which are likely not dependents in the income tax sense.
 - One participant wanted to enter 1 for himself. Was he maybe thinking of income tax exemptions?
 
-- REC: Clarify the meaning of "dependents" in this question per the IRS income tax sense or VA, and add details to the question so people know how to answer.
+- REC: Clarify the meaning of "dependents" in this question per income taxes or VA rules, and add details to the question so people know how to answer. According to a VA subject-matter expert (in an email dated 4/17/2023), dependents include *your spouse*, unmarried children under 18 (or 18-23 if attending school full-time or disabled prior to reaching age 18), and parents if in the Veteran's direct care and whose net worth and income are below a fixed limit.
 - REC: Delete the text "from VBA" in the pension question (or if this must be kept in, write out "Veterans Beefits Administration") because it's confusing as is.
 - REC: Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean.
 
