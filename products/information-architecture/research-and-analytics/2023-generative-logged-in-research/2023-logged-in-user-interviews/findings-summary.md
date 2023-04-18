@@ -222,14 +222,8 @@ Participants felt My VA gave them more direct
 ### Consider how we can improve direct access to personalized content throughout VA.gov.
 Participants had a hard time finding personalized information that wasn’t already surfaced on My VA or in the profile, especially viewing their dependents.  
 
-### how we might surface personalized links on content pages 
 
-- **There is a sentiment that the unauth homepage needs to remain available even when you are logged into the site.**
-	- Does prove or disprove that?
-	- Interesting when one man clicked to see the new homepage; he didn’t know how to use it
 	
-
-
 	
 ## Research Process Insights
 ## Further research needed
