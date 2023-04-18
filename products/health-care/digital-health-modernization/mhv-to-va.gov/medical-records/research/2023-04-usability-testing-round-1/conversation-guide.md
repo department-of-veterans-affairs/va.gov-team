@@ -157,8 +157,7 @@ _[when details page is open]:_
 
 - Please describe this page and share your thoughts about it.
 
-- What might someone do if they needed help understanding these results?
--Is there anything here that can help?
+- There is a result here called "ACK." We made it up, so it's not a real test. If it were and you came upon this unfamiliar result that happens to be marked as high, what would you do to try to understand it?
 
 _Download:_
 
@@ -166,12 +165,10 @@ _Download:_
 
 _[when participant returns to report screen]_
 
-- How would you know if your file downloaded?
 - How did you know to choose "download as PDF" rather than "download as TXT"?
 _[or visa versa if they chose txt]_
 
--What might a Veteran do if they were unsure?
-- Is there anything here that might help with that?
+- What might a Veteran do if they were unsure about which to choose?
 
 **Things to watch for:**
 - Did the participant get confused by multiple bloodwork results?
@@ -182,9 +179,9 @@ _[or visa versa if they chose txt]_
 
 ## **Third Task: Health history + print – 10 minutes**
 
-- Let's say you spent time in the hospital on April 6th and 7th. You have questions you want to ask your primary care doctor at your upcoming visit, but you don't have the paperwork the nurse gave you when you were discharged.  Can you walk me through what you would do in this system to get another copy?
+- Let's say you spent time in the hospital on April 6th and 7th. You have questions you want to ask your primary care doctor at your upcoming visit, but you don't have the discharge papers the nurse gave you when you left.  Can you walk me through what you would do in this system to get another copy?
 
-- What if you were filling out some paperwork and need to include the date you were first diagnosed with high blood pressure?
+- What if you were filling out some paperwork and needed to include the date you were first diagnosed with high blood pressure?
 
 - You think you have had your blood pressure under control, but you are curious about the past few readings taken during office visits. How might you review those?
 
@@ -200,7 +197,7 @@ You decide to print out all of your vaccines so you have a record handy in your 
 - What would be the best way to do that?
 
 _[if the participant says they would print each individual record, ask:]_
--is there a way you could print the whole list as one document?
+- is there a way you could print the whole list as one document?
 
 **Things to watch for:**
 
@@ -208,7 +205,7 @@ _[if the participant says they would print each individual record, ask:]_
 - Did the participant know to search in vitals for blood pressure?
 - Did the participant know that they could print the entire vaccine list?
 
-## **Fourth Task: Health history: Participant choice + Vitals +Vaccines – 10 minutes**
+## **Fourth Task: Health history: Allergies – 5 minutes**
 
 Let's review Allergies.
 
@@ -221,7 +218,7 @@ I would like to ask you some questions about the print and download options here
 
 These are the only 2 sections that allow you to print the whole list while other records, such as the admission and discharge summary we looked at earlier, only allow you to print the page.
 
- - Do you have any thoughts on why only Vaccines and Allergies would allow you to print or download the whole list?
+ - Can you think of any other items we have reviewed today that a Veteran might want a list printed rather than just a page?
 
 **Things to watch for:**
 
@@ -241,31 +238,6 @@ These are the only 2 sections that allow you to print the whole list while other
 - Did the participant understand the difference between VHIE and Blue Button?
 - Did the participant understand "Blue Button"?
 - Did the participant understand how to share medical records with a VA provider?
-
-## **Sixth Task: PDF vs. Web Layout [Desktop only] – 5 minutes**
-
-This is the PDF that would be generated if we were to print or download the bloodwork report from earlier.
-
-- Can you describe to me what is on this PDF?
-- Is this what you would have expected?
-  - _[if no]_ What would make it more helpful?
-
-_[MHV users only]_
-
-- Have you downloaded or printed any medical records on My Health_e_Vet?
-
-_[if yes]_
-
-- How does this compare?
-
-Now I am going to place the PDF next to the web version.
-
-- Compare the two and when you are ready, please share what thoughts you have.
-
-**Things to watch for:**
-
-- Was the participant able to understand the contents of the PDF report?
-- How did the participant react to the differences between the web layout and the PDF?
 
 ## **Post-Task Interview - 2 minutes**
 
