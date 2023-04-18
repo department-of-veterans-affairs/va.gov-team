@@ -116,7 +116,7 @@ yarn test:coverage --app-folder personalization --coverage-html
 
 The app name passed in needs to be relatice to the root src/applications/ folder, so profile or dashboard are not valid names, so personalization will run coverage for those apps and all other apps in the folder.
 
-Then open the `coverage/index.html` in you browser to view the coverage report application.
+Then open the `coverage/index.html` file in your browser to view the coverage report application.
 
 
 ## Other tips and resources for working on the VA Profile front end application
