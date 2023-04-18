@@ -59,7 +59,7 @@ We have a couple other team members in the waiting room who would like to observ
       - Let’s have each of our observers quickly go around and introduce themselves with cameras on, please. 
       - [PAUSE for observers to introduce themselves]
       - Ok and now I’ll ask our notetakers and observers to mute themselves and turn off their cameras for the remainder of the sessions to save on distractions and to save Zoom bandwidth.
-- I want to ask your permission for another iten now. We do like to record these sessions. This helps us so we can look back for clarifications like to make sure we noted your opinions correctly. We delete recordings after we finish analysis, which usually takes a couple weeks. Also we sometimes write quotes down to help others at the VA understand why we want to make certain changes, but your name will not be directly linked to any of your comments.
+- I want to ask your permission for another item now. We do like to record these sessions. This helps us so we can look back for clarifications like to make sure we noted your opinions correctly. We delete recordings after we finish analysis, which usually takes a couple weeks. Also we sometimes write quotes down to help others at the VA understand why we want to make certain changes, but your name will not be directly linked to any of your comments.
 - Knowing that, are you comfortable if I record my screen and our audio as we talk today?
    - [IF YES - RECORD TO CLOUD] 
    - Now that we are recording, I have to confirm once more - are you are ok if I record my screen and the audio as we talk today?
