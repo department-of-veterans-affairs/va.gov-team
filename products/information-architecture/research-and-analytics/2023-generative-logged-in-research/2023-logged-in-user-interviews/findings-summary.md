@@ -163,15 +163,13 @@ We asked 8 of 9 participants to show us how they would double check if VA had an
 
 ### My VA contributed to a sense of ease and personalization for participants who used it during their session.
 
-At the conclusion of our session, we asked participants to reflect their VA.gov experience compared to another website they log into regularly to complete tasks; many referred to their banking website (e-commerce and insurance websites came up too).
+At the conclusion of our session, we asked participants to reflect their VA.gov experience compared to another website they log into regularly to complete tasks; many referred to their banking website (e-commerce and insurance websites came up too). Participants described private sector websites as being focused on them, since they listed recent transactions, accounts, and other personalized information.
 
-Participants immediately described private sector websites as focused on them, listing their transactions, accounts, profile, and links to complete other tasks.
-
-Participants who were redirected to My VA after logging in felt that VA.gov provided a similar level of personalization. Although they still wished for links to personalized content on unauthenticated pages, My VA helped them get directly to their most important tasks.
+Participants who were redirected to My VA after logging in felt they experienced a similar level of personalization. Although they still wished for links to personalized content on unauthenticated pages, My VA helped them get directly to their most important tasks.
 
 > I’m glad it’s [claim status] on the first page without me having to navigate it. - P5
 
-> With My VA, I like that kind of dashboard thing, and you can see the most important stuff right there. - P7
+> I wish the My VA page was the homepage. Under healthcare [on homepage], it has refill and track prescriptions, but the My VA page also shows my next appointment.  - P7
 
 However, participants who didn’t see My VA until the moderator prompted them at the end of the session, felt like they didn’t have the same kind of personalized experience they have elsewhere.
 
@@ -184,9 +182,18 @@ The participants who hadn’t seen My VA during their session reacted positively
 > I like this My VA right here, it is better than what I was doing before. And I know if I click My Health it’ll take me back to my familiar setting [MHV], but this is much better right here, and I didn’t have to log in twice. - P9
 
 
-### When asked to compare the logged-in experience of VA.gov to private sector websites, participants talked having immediate access to personalized information, and fewer navigation items.
-
 ## Additional Insights
+### Streamlining the existing logged-in navigation structure could improve navigation UX for screenreader users.
+The 2 screenreader users we interviewed talked about how simplifying the logged-in navigation would make it easier to navigate the site.
+
+One of these participants completely avoided using the navigation based on previous experiences on the website.
+
+> It [navigation menu] is nicely organized. I’m not faulting the VA on that. You could strip away a couple of the layers to streamline things a little bit…but when it comes to the screenreader there’s a whole lot up there you need to navigate through. - P2
+
+The other screenreader user talked about preferring a streamlined menu after logging in, where priority would be given to personalized items, with a single jumping off point to more general information.
+
+> Thinking about being a person that uses a screenreader, I do wish that some of these menus were a little more streamlined and more straightforward. So if there was a way - if you’re not logged in, you see the general menu, but then if you are logged in, [accessing] the more general information just from the personalized menu. - P15
+ 
 ### Authenticating across multiple sites created a fractured, depersonalized experience, and made some participants feel frustrated or hesitant.
 - Multiple participants shared frustration and/or confusion during the log in process, especially those who started on My HealtheVet and logged in with a MHV credential.
 - We observed participants having to log in multiple times while searching for personalized information.
