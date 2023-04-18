@@ -2,7 +2,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Backend [BE]  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Frontend [FE]  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) User Experience [UX] ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) Product
+![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Backend [BE]  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Frontend [FE]  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) User Experience [UX] ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) Product ![#7c2ac9](https://placehold.co/15x15/7c2ac9/7c2ac9.png) Delivery
 
 ## 4/19/2023 - 5/2/2023 ------------ FUTURE / TENTATIVE ---------------------
 #### SPRINT GOALS
@@ -55,6 +55,7 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56626)
 - **GOAL: Address tech & design debt**  
    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Change alert content shown when Veteran is too early to check in within check in app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54511)
+   - ![#7c2ac9](https://placehold.co/15x15/7c2ac9/7c2ac9.png) [Platform Orientation Template [Anita Halici]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57050)
 
 ------------ END FUTURE / TENTATIVE ---------------------
 
