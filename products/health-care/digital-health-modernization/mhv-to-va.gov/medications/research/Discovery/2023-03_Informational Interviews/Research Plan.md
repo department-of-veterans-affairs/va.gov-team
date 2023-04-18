@@ -61,8 +61,8 @@ By the end of this research effort, we will be able to:
 - 3/24: Send out interview scheduling emails
 - 3/27-4/5: Conduct interviews 
 - 4/7: Organize notes and synthesize findings (continue interviews if it's not done by 4/7) 
-- 4/12: Finalize summary report that includes requirements, comparison analysis, and task flows 
-- 4/24: Complete lo-fi wireframes
+- 4/14: Finalize summary report that includes requirements, comparison analysis, and task flows 
+- 4/28: Complete lo-fi wireframes
  
 # Research questions 
 
