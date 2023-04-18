@@ -201,6 +201,7 @@ I’m going to sign into this Zoom call from my phone, so I can share the design
       - [PROMPT] Would you expect all the information you want to see online with VA remain the same?
 - If instead of showing one account option here, if instead we said something like “The VA has two account options that meet our security standards” and showed you both choices, what would you think?
    - How would you choose which to go with?
+- At the bottom, where it says "no thanks remind me later" what would you expect that to do?
 - Do you have any questions for me at this point?
 - Do you have any questions about any of these questions or tasks that we’ve worked through today?
 
