@@ -143,7 +143,9 @@ We asked participants to complete two tasks that required them to be logged in, 
 
 > When I went to education and employment. It talked about GI Bill, but they should know if I’ve already redeemed such and what other educational benefits I might be entitled to. - P5, reflecting on education pages
 
-> It’s explaining eligibility, but if I want to go to *mine*, it would be nice if there was a link if you want to see your benefits. - P7, on education eligibility content page
+One participant shared sentiments about how important it is for Veterans to have access to general and personalized information at the same time:
+
+> VA is not trying to be a seller of new customers; it’s a tool for people who are eligible to their entitlement to be able to access and get into it. Those are two completely different types of situations and paradigms. We’re consumers of the services, we’re not customers…if we have two extremely separate sides of the VA, internal vs external…it gets hard to figure out where you’re trying to go because you’re looking at two completely different portals, and that does become confusing. That’s where it becomes kind of nice to have similar structures in place. - P2
 
 ### Participants struggled to find dependent information, which wasn’t linked from the homepage, My VA, or the mega menu links.
 
@@ -181,12 +183,18 @@ The participants who hadn’t seen My VA during their session reacted positively
 
 > I like this My VA right here, it is better than what I was doing before. And I know if I click My Health it’ll take me back to my familiar setting [MHV], but this is much better right here, and I didn’t have to log in twice. - P9
 
+> That [My VA] was a whole lot easier, I didn’t have to go through all that stuff and log in from site to site. - P1
+
 
 ## Additional Insights
-### Streamlining the existing logged-in navigation structure could improve navigation UX for screenreader users.
-The 2 screenreader users we interviewed talked about how simplifying the logged-in navigation would make it easier to navigate the site.
+### Streamlining the current navigation structure could improve the logged-in user experience.
+5 of 9 participants talked about redundancies and complexities while navigating the VA website after logging-in.
 
-One of these participants completely avoided using the navigation based on previous experiences on the website.
+When reviewing the personalized menu, 2 participants called out the redundancy of having My VA and My HealtheVet linked there, and in the global header. They didn’t have a preference about where the links should live if they were only shown once.
+
+> Just have the sign out button here and get rid of all these other options [in personalized menu], Or get rid of all these other buttons [in global header], and make this [personalized menu] worth something. I don’t know.  There’s not a lot of choices there. - P7
+
+2 screenreader users we interviewed talked about how simplifying the logged-in navigation would make it easier to navigate the site. One completely avoided using the navigation based on previous experiences on the website.
 
 > It [navigation menu] is nicely organized. I’m not faulting the VA on that. You could strip away a couple of the layers to streamline things a little bit…but when it comes to the screenreader there’s a whole lot up there you need to navigate through. - P2
 
@@ -194,12 +202,27 @@ The other screenreader user talked about preferring a streamlined menu after log
 
 > Thinking about being a person that uses a screenreader, I do wish that some of these menus were a little more streamlined and more straightforward. So if there was a way - if you’re not logged in, you see the general menu, but then if you are logged in, [accessing] the more general information just from the personalized menu. - P15
  
-### Authenticating across multiple sites created a fractured, depersonalized experience, and made some participants feel frustrated or hesitant.
-- Multiple participants shared frustration and/or confusion during the log in process, especially those who started on My HealtheVet and logged in with a MHV credential.
-- We observed participants having to log in multiple times while searching for personalized information.
-- One participant didn’t use the site navigation at all during the session.  When asked why, they stated it partially because they didn’t want to “click anything up there because it might sign me out again”
+### Having to authenticate across multiple sites created a confusing, depersonalized experience.
+
+5 of 9 participants experienced frustration and/or confusion during the log in process. It took an advanced screenreader user nearly 10 minutes to complete the login process. Users who logged in on MHV and then had to log in again on VA.gov were particularly frustrated. One participant didn’t use the site navigation at all during the session because they were afraid they’d have to sign in again.
+
+> I was about ready to quit. It seems like it takes a long time, and then it also seems to me like you are duplicating steps. - P9
+
+> I was actually afraid that if I clicked everything outside of this *mouses 4 boxes on homepage* I would get signed out.  - P6
+
+### Requesting travel reimbursement is a pain point.
+Although it wasn’t the focus of our research, challenges around requesting travel reimbursement organically came up in multiple sessions. It’s clear this is a negative experience for Veterans.
+
+> You really have to be a computer wiz to upload a travel letter. He says he goes to a provider outside of the VA and he does for his back. But trying to get that letter, that he went to the appt, upload it so he can get travel benefits for it, is almost impossible. - P1’s caregiver
 
 ## Recommendations
+### Consider making My VA the logged in homepage.
+Participants felt My VA gave them more direct
+
+### Consider how we can improve direct access to personalized content throughout VA.gov.
+Participants had a hard time finding personalized information that wasn’t already surfaced on My VA or in the profile, especially viewing their dependents.  
+
+### how we might surface personalized links on content pages 
 
 - **There is a sentiment that the unauth homepage needs to remain available even when you are logged into the site.**
 	- Does prove or disprove that?
@@ -210,8 +233,12 @@ The other screenreader user talked about preferring a streamlined menu after log
 	
 ## Research Process Insights
 ## Further research needed
+### We should do more research with non-Veteran users of VA.gov to better understand what they need from VA.gov.
+
 ### We should recruit for the underserved groups we didn’t get to talk to in this round in our next study.
 Including these people in our next round of research will help our team get a diverse group of perspectives.
+
+
 
 ## Next Steps
 - Review with product team and align on recommendations we’ll take action on.
