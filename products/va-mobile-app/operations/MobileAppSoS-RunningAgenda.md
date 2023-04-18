@@ -15,7 +15,7 @@
 
 | Syntax | PM | Status |
 | ----------- | ----------- | ----------- |
-| [Rx](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4109) | Meko | GREEN |
+| [Rx](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5091) | Meko | GREEN |
 | [Preferred Name & Gender Identification](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4028) | Meko | GREEN |
 | [Secure Messaging - Realignment with MHV](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4718) | Adam | GREEN |
 | [Digital Decision Letters ](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4290)| Kelly | GREEN |
