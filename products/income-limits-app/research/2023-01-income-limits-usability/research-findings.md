@@ -178,7 +178,8 @@ Most participants (7 of 8) **didn't open the "How to estimate your income for th
 
 ### After seeing the benefits data on the results page, participants had varying interpretations of it and what to do next
 We have data from only 6 of 8 participants because the other 2 participants didn't get to that task (due to arriving to the session late or dropping off the internet during the session). 
-- 4 of 6 participants thought that the **benefits were not certain because of the phrase "may be eligible"** above each of the lists of benefits. None of these participats had opened the "How to estimate your income for this tool" accordion, so they were guessing based on the phrasing. 
+- 4 of 6 participants thought that the **benefits were not certain because of the phrase "may be eligible"** above each of the lists of benefits. None of these participants had opened the "How to estimate your income for this tool" accordion, so they were guessing based on the phrasing. 
+
 
 - **After seeing the app results, here's what participants planned to do next**:
   - Click on "Find out if you may be eligible" link (4 participants), though this didn't work in the prototype
@@ -278,8 +279,17 @@ We heard **additional feedback on the app intro page**. Each of the comments bel
 > *"Maybe there is some small wording that you can put in that encourages Veterans to get these benefits if you need them...I don't want to take away from someone else who needs it more. 'Hey, we encourage you to do this. Let's find out if you're eligible'--like selling it to me. You really want me to find out if I'm eligible. A little positive affirmation. Just don’t add  a lot more reading. It's very cut and dry...not warm and welcoming" (p7).
 - RECOMMENDATION: Consider adding to the intro page some friendly encouragement to use this tool to find out if you're eligible for VA health care.
 
-### How participants looked for income limits without the new app
+### Awareness of income limits for VA health care eligibility
+- **Half of the participants (4 of 8) hadn't heard anything about income eligibility for VA health care**. One of these participants assumed that income wasn't relevant because her husband receives VA health care because of his service-connected disability (and so probably not subject to income limits).
 
+### How participants looked for income limits without the new app
+Before showing participants the design prototype for the new income limits app, we asked how they would find out if they are eligible for VA health care with their current income.
+- **7 of 8 participants started with a search**--6 of them from Google, and 1 from their phone home screen. 
+  - 5 of the 7 who searched found the [Annual Income Limits table](https://www.va.gov/healthbenefits/annual_income_limits_health_benefits.asp). 
+  - 2 participants couldn't find anything relevant after several google searches. They kept landing on the [non-modernized benefits.va.gov page](https://benefits.va.gov/benefits/) and not finding anything about income limits there.
+- 1 participant went straight to VA.gov, looked in the Health care box of links, but couldn't find anything relevant. Then they used site search, and found the [Annual Income Limits table](https://www.va.gov/healthbenefits/annual_income_limits_health_benefits.asp).
+- 1 participant who found the [Annual Income Limits table](https://www.va.gov/healthbenefits/annual_income_limits_health_benefits.asp) said that they would contact an attorney to find out which group they're in.
+> *"Better to ask a professional, rather than spin your wheels" (p1)*.
 
 ## Recommendations
 
