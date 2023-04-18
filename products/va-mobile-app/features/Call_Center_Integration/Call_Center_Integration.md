@@ -1,4 +1,4 @@
-# Sprint 0 Product Brief Template - Copy this
+# Call Center Integration - Sprint 0 Product Brief Template 
 
 [Link to Epic]
 
