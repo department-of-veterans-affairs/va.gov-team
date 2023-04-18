@@ -35,6 +35,7 @@ ________________________________________________________________________________
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Update All Posters to the New Design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55832)
           - NOTE: ask Stephen before we pull this is (i.e. do now or wait for study)
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964#issuecomment-1512100240)
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Set-up for Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56624)
   - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)**
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Add New Action Link Text to Abstract & Sketch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55572)
