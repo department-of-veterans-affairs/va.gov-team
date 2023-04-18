@@ -91,7 +91,7 @@ _[for MHV users]_ This is going to look slightly familiar, but please remember t
 
 Are you ready to dive in?
 
-## **First Task: Lab and tests: CBC + download – 7-10 minutes**
+## **First Task: Lab and tests: EKG + Radiology – 7-10 minutes**
 
 _Electrocardiogram_
 
@@ -111,18 +111,51 @@ _[help the participant navigate back to About VA medical records if necessary]_
 
 _[when the participant finds the date]:_
 
-- How do you know that this is the most recent electrocardiogram? What makes you say that?
+- How do you know that this is the most recent electrocardiogram? 
+
+_[if participant is on details screen]:_
+Please return to Lab and test results.
+
+_Radiology_
+
+For the next part of this task, there will be x-rays on the screen. This may be triggering for some and we want to be mindful of your comfort. Are you comfortable viewing x-rays?
+_[if no]_ Thank you for letting me know. We will skip that part.
+
+- Can you describe to me what is on this page?
+- Is this how you would expect the labs and test results to be listed?
+  - _[if no]_ What would be more helpful?
+
+- Let's say you had x-rays taken of your ankle and you wanted to review the results.
+- How would you do that?
+
+_[when report opened]_
+- What information do you find helpful here?
+- Would you expect the actual x-ray images to be here?
+- Is there a place on this page where you can find them?
+
+_[images screen]_
+
+- Is access to images helpful to you? Is there any information it provides that the report does not?
+
+Please return to About VA medical records.
+
+
+**Things to watch for:**
+
+-
+
+## **Second Task: Lab and test results: Bloodwork + download - 5 minutes**
 
 _Bloodwork:_
 
-- Can you tell me when the most recent blood work was done?
-- What would you expect to see if you were to open that? What makes you say that?
+- Let's say you wanted to review your bloodwork from October 26, 2021. Walk me through how you would do that.
 
 _[when details page is open]:_
 
 - Please describe this page and share your thoughts about it.
-- How does this compare to what you expected?
-- What information do you find helpful here?
+
+- What might someone do if they needed help understanding these results?
+-Is there anything here that can help?
 
 _Download:_
 
@@ -131,212 +164,59 @@ _Download:_
 _[when participant returns to report screen]_
 
 - How would you know if your file downloaded?
-- What would you expect the PDF version of this data to look like?
-
-Please return to the Labs and test results page.
 
 **Things to watch for:**
 
-- Does the participant recognize that the results are listed in reverse chronological order?
-- Does the participant click on the Details link or the whole card?
-- Does the participant have difficulty with the acronyms?
-- Does the participant have issues with the layout and long scroll?
-- Does the participant understand the difference between PDF and TXT?
-- Does the participant understand the risk of downloading on a public computer?
 
-## **Second Task: Lab and test results: Radiology + images - 5 minutes**
+## **Third Task: Health history + print – 10 minutes**
 
-For part of this task, there will be x-rays on the screen. This may be triggering for some and we want to be mindful of your comfort. Are you comfortable viewing x-rays?
-_[if no]_ Thank you for letting me know. We will skip that part.
+- Let's say you spent time in the hospital on April 6th and 7th. You have questions you want to ask your primary care doctor at your upcoming visit, but you don't have the paperwork the nurse gave you when you were discharged.  Can you walk me through what you would do in this system to get another copy?
 
-- Can you describe to me what is on this page?
-- Is this how you would expect the labs and test results to be listed?
+- What if you were filling out some paperwork and need to include the date you were first diagnosed with high blood pressure?
+
+- You think you have had your blood pressure under control, but you are curious about the past few readings taken during office visits. How might you review those?
+
+Please return to the Vitals page.
+- Is this how you would expect the Vitals to be listed?
   - _[if no]_ What would be more helpful?
+- Which of these do you feel is most important for managing your health?
 
-- Let's say you had x-rays taken of your ankle and you wanted to review the results. What would you expect the report to contain?
-- How would you view those results?
+You know you had your flu shot last fall, but you can't remember the date.
+- How would you find it?
 
-_[when report opened]_
+You decide to print out all of your vaccines so you have a record handy in your files.
+- What would be the best way to do that?
 
-- How does this compare to what you expected?
-- What information do you find helpful here?
-
-- Would you expect the actual x-ray images to be here?
-- Is there a place on this page where you can find them?
-
-_[images screen]_
-
-- Is access to images helpful to you? Is there any information it provides that the report does not?
-
-Please return to the main page where we started today.
+_[if the participant says they would print each individual record, ask:]_
+-is there a way you could print the whole list as one document?
 
 **Things to watch for:**
 
-- How does the participant react to the medical terminology in the written report?
-  - Does the participant recognize that the results are listed in reverse chronological order?
-  - Does the participant click on the Details link or the whole card?
-- Is the participant able to navigate back to the About VA medical records?
-
-## **Third Task: Health history: Care summaries and notes – 5 minutes**
-
-- Let's say you had a consultation with a surgeon last week and now you want to read the notes from the visit. In which of these three areas would you expect to find them? What makes you say that?
-
-I would like to talk about Health history, but we are going to stay on this screen for just a minute. It says we can review allergies, care summaries and notes, health conditions, vaccines, and vitals.
-
-- What would you expect to find in Care summaries and notes? What makes you say that?
-- What would you expect to find in Vitals? What makes you say that?
-
-Please select Health history.
-
-- How does the description under Care summaries and notes match your expectation?
-- How does the description for Vitals match your expectation?
-
-Please select Care summaries and notes.
-
-- Can you describe to me what is on this page?
-- Is this how you would expect Care summaries and notes to be listed?
-  - _[if no]_ What would make it more helpful to you?
-
-- What would you expect to find in a Primary care progress note?
-
-Please select that one from April 1st.
-
-_[when detail is open]_
-
-- What information do you find helpful here?
-
-Please return to Health history
-
-**Things to watch for:**
-
-- Does the participant know where to find a consultation note?
-- What does the participant expect to find in Care summaries and notes?
-  - What does the participant consider a vital?
-  - How does the participant navigate back to Health history?
+-
 
 ## **Fourth Task: Health history: Participant choice + Vitals +Vaccines – 10 minutes**
 
-- Of the five categories offered here, which would be the most helpful to you? What makes you say that?
+Let's review Allergies.
 
-_[if participant chose Vaccines or Vitals as one of their most helpful, start there, otherwise say:]_
+- What if a Veteran developed a sudden allergy to eggs and were treated at a community hospital. How would they go about getting that allergy added to this list? Is there anything here that might help with that?
 
-Please choose one of these options.
+I would like to ask you some questions about the print and download options here. The button says, "print or download list."
 
-_[jump to participant's choice]_
+- Why do you think a Veteran might want to print or download their list of Allergies?
+- The same option is available for Vaccines as well. Why do you think a Veteran might want to print or download their list of Vaccines?
 
-**_Allergies_**
+These are the only 2 sections that allow you to print the whole list while other records, such as the admission and discharge summary we looked at earlier, only allow you to print the page.
 
-- Why did you choose this as (one of) the most helpful to you? What makes you say that?
-
-Please select Penicillin.
-
-_[when on details screen]_
-
-- Share your thoughts on what is on this screen.
-- What information here is helpful to you? What makes you say that?
-
-I would like to ask you about vaccines next. Could you take us there?
-
-**_Health Conditions_**
-
-- Why did you choose this as (one of) the most helpful to you? What makes you say that?
-
-Please select Hypertension.
-
-_[when on details screen]_
-
-- Share your thoughts on what is on this screen.
-- What information here is helpful to you? What makes you say that?
-
-I would like to ask you about vaccines next. Could you take us there?
-
-**_Vaccines_**
-
-_[if the participant chose Vaccines as one of most helpful]_
-
-- Why did you choose this as (one of) the most helpful to you? What makes you say that?
-
-_[start here if coming from another category]_
-
-- Is this how you would expect the vaccines to be listed?
-  - _[if no]_ What would be more helpful?
-
-Can you walk me through how you would review your flu shot from October 20, 2020?
-
-- Share your thoughts on what is on this screen.
-- What information here is helpful to you? What makes you say that?
-
-_[if the participant hasn't been to Vitals yet]_
-
-I would like to ask you about vitals next. Could you take us there?
-
-_[if the participant has been to Vitals, continue to List print/download]_
-
-**_Vitals_**
-
-_[if the participant chose Vitals as one of most helpful]_
-
-- Why did you choose this as (one of) the most helpful to you? What makes you say that?
-
-_[start here if coming from another category]_
-
-- Is this how you would expect the Vitals to be listed?
-  - _[if no]_ What would be more helpful?
-- Which of these do you feel is most important for managing your health? What makes you say that?
-- Are there other measurements that you would expect to be included here?
-
-Can you walk me through how you would find your blood pressure from January 15, 2021?
-
-_[after participant has found blood pressure]_
-
-- Share your thoughts on what is on this screen.
-- What information here is helpful to you? What makes you say that?
-- Is this how you would expect the blood pressure readings to be listed?
-  - _[if no]_ What would be more helpful?
-
-_[if the participant hasn't been to Vaccines yet]_
-
-I would like to ask you about vaccines next. Could you take us there?
-
-_[if the participant has been to Vaccines, continue to List print/download]_
-
-**_List print/download_**
-
-_[if participant is in Vitals, say:]_
-
-Please take us to Vaccines.
-
-I would like to ask you some questions about the print and download options here. The links say, "print list" and "download list."
-
-- Why do you think a Veteran might want to print or download their list of Vaccines? What makes you say that?
-- The same option is available for Allergies as well. Why do you think a Veteran might want to print or download their list of Allergies? What makes you say that?
-
-Please take us to the Primary care progress note we discussed earlier.
-
-_[help the participant navigate if they get stuck]_
-
-Here the print and download options say, "print page" and "download page."
-
-- Why do you think there is only an option to print or download this page rather than all your care summaries and notes?
-
-Health conditions and vitals are set up the same way.
-
-- Do you have any thoughts on why only Vaccines and Allergies would allow you to print or download the whole list?
+ - Do you have any thoughts on why only Vaccines and Allergies would allow you to print or download the whole list?
 
 **Things to watch for:**
 
-- Which category/categories did the participant find most helpful?
-- Did the participant have difficulty finding the blood pressure reading and flu vaccine?
-  - How does the participant react to the limited print/download list options?
-  - How does the participant navigate to each page?
-
+- 
 ## **Fifth Task: Share your medical records – 5 minutes**
 
 - If you had an upcoming appointment with a new community provider and wanted to take a copy of your medical records, what would you do?
 - What do you think is meant by "Blue Button"?
 - How would you share your medical records with a new VA provider?
-
-I am going to take over screen sharing now for our last task today.
 
 **Things to watch for:**
 
