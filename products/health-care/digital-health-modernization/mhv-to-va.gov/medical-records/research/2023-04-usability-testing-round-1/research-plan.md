@@ -1,4 +1,4 @@
-# **Research Plan for MHV on VA.gov, Medical Records, April – May 2023**
+# **Research Plan for MHV on VA.gov, Medical Records, May 2023**
 
 ## **Background**
 
@@ -28,7 +28,7 @@ This research fits into these points of a Veteran's Journey:
 1. Understand if Veterans can locate their medical records.
 2. Identify any usability issues Veterans may experience with accessing their medical records.
 3. Identify what information is helpful to Veterans in finding their medical records.
-4. Identify any language-specific pain points.
+4. Evaluate the usability of the print and download functions.
 
 ## **Outcome**
 
@@ -37,7 +37,7 @@ The results of this study will help us determine if our designs provide the best
 ## **Research questions**
 1) Can Veterans find the information they need to manage their health?
 2) Do Veterans know how to access information that will help them understand their medical records?
-3) Do Veterans know how to print/download both an individual record or list and their entire medical record?
+3) Do Veterans know how to print/download both an individual record or list as well as their entire medical record?
 
 ## **Hypotheses**
 
@@ -45,11 +45,9 @@ _Hypothesis 1:_ Veterans will be able to find most of the information they need 
 
 _Hypothesis 2:_ Veterans will understand how to print or download their medical records.
 
-_Hypothesis 3:_ Some of the information provided in both list and details views will not be considered valuable by Veterans.
+_Hypothesis 3:_ Some of the H1s will be a barrier to some Veterans' finding their medical records.
 
-_Hypothesis 4:_ Some of the H1s will be a barrier to some Veterans' finding their medical records.
-
-_Hypothesis 5:_ Some of the medical terminology and acronyms will be a barrier to some Veterans' understanding and/or interpreting their medical records.
+_Hypothesis 4:_ Some of the medical terminology and acronyms will be a barrier to some Veterans' understanding and/or interpreting their medical records.
 
 ## **Methodology**
 
