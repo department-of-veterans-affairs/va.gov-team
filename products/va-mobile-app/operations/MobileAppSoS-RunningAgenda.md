@@ -32,3 +32,4 @@
 
 ## Notes
 4/18/23
+* Resource constraints on FE team have caused concerns for both DDL and WCAG features being wrapped up this Sprint
