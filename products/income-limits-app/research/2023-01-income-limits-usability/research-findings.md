@@ -115,9 +115,11 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 ### There were a few navigation issues within the app
 - **Review the information you entered** link--Two participants did _not_ use this link to go back from the results page to the summary page. They used the Back button in their browser instead, though one participant was concerned that this might exit them out of the app (it didn't). A different participant thought that this link would take them to information that they filled out previously on VA forms (which is incorrect).
 - RECOMMENDATION: Make the link more prominent in location and/or visual treatment/layout (e.g., top of page or button). Maybe see how other websites enable you to view/edit previous information provided.
-- **Get past income limits** link--Two participants had difficulty finding this link on the results page. One of them looked in the "How to estimate your income for this tool" accordion, but this wasn't relevant. They also wanted to click the "Expand all" accordion above the salary ranges.
+- **Get past income limits** link--Two participants had difficulty finding this link on the results page. One of them looked in the "How to estimate your income for this tool" accordion, but this wasn't relevant. They also wanted to click the "Expand all" accordion above the salary ranges. One of the participants said that he was looking for a search tool at various points, but he never found one.
 - RECOMMENDATION: If we want the "Get past income limits" link to be easier to find, consider moving it up higher on the results page.
  
+- After 1 participant used the Review Info page to return to the zip code page and then clicked the _Continue_ button, they said they were surprised to see the Dependents page. They expected to see the Review Info page again. Other participants saw this, too, and said that they must be going back through all the screens.
+- RECOMMENDATION: If someone navigates from the Review Info page to another page, consider having the Continue button take you back to the Review Info page instead of the next question.
 
 
 ### Participants had difficulty understanding some of the benefit descriptions under the income ranges
