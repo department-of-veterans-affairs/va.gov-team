@@ -21,3 +21,26 @@
 
 - change `<div id="group-address" class="group">` to `<section>` element
 - no other changes (will be hidden on va.gov)
+
+## Today's visit section
+
+- change enclosing `<div>` to `<section>` element
+
+### Enclosed sections (diagnoses, vitals, etc)
+
+- change enclosing `<div>` to `<section>` element
+- remove `<br>`s in h3 element
+- remove div wrapper below h3 element, leaving content
+- remove wrapping single column `<table>`s, leaving just unordered lists
+- (if possible) remove wrapping `<a>` elements (like for clinic names)
+
+## My treatment plan section
+
+- change enclosing `<div>` to `<section>` element
+
+### Enclosed sections (new orders, health reminders, etc)
+
+- change enclosing `<div>` to `<section>` element
+- remove `<br>`s in h3 element
+- remove wrapping single column `<table>`s and consolidate multiple `<ul>` lists into one list
+- (if possible) remove wrapping `<a>` elements (like for clinic names)
