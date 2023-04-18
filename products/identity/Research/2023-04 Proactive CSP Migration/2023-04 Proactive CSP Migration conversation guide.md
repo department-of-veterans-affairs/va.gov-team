@@ -69,7 +69,7 @@ We have a couple other team members in the waiting room who would like to observ
 
 ## Round 1: Mobile internet use questions| 5 minutes
 
-I'd like to start with a few questions to get to know how you use your phone online…
+I'd like to start with a few questions to get to know how you go online…
 
 - Would you mind telling me what devices do you generally use to go online?
    - [PROMPT] Do you regularly use a computer to go online?
