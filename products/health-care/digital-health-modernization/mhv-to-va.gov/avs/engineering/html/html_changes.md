@@ -44,3 +44,4 @@
 - remove `<br>`s in h3 element
 - remove wrapping single column `<table>`s and consolidate multiple `<ul>` lists into one list
 - (if possible) remove wrapping `<a>` elements (like for clinic names)
+- "Patient education" and "Other instructions" both have the id `section-instructions`, one should be changed so they are unique.
