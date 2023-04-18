@@ -44,6 +44,10 @@ We’ll take you through each step of the process. It should take about 30 minut
 
 What happens after you apply (expand)
 
+> After you submit your request for a Board Appeal, you’ll get a confirmation message. You can print this for your records.
+> 
+> A Veterans Law Judge at the Board of Veterans’ Appeals will review your case. The amount of time it takes the Board to complete its review depends on which review option you choose. Read about the 3 Board Appeal options
+
 Primary Button: **Sign in to start your request**
 
 ### **What if I need help filling out my application?**
@@ -118,9 +122,9 @@ We’ll take you through each step of the process. It should take about 30 minut
 
 - What happens after you apply (expand)
     
-    After you submit your request for a Board Appeal, you’ll get a confirmation message. You can print this for your records.
-    
-    A Veterans Law Judge at the Board of Veterans’ Appeals will review your case. The amount of time it takes the Board to complete its review depends on which review option you choose. [Read about the 3 Board Appeal options](https://staging.va.gov/decision-reviews/board-appeal/#what-are-my-board-appeal-optio)
+> After you submit your request for a Board Appeal, you’ll get a confirmation message. You can print this for your records.
+>   
+> A Veterans Law Judge at the Board of Veterans’ Appeals will review your case. The amount of time it takes the Board to complete its review depends on which review option you choose. [Read about the 3 Board Appeal options](https://staging.va.gov/decision-reviews/board-appeal/#what-are-my-board-appeal-optio)
     
 
 Action link: **[Sign in to start your request](https://staging.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182/introduction?postLogin=true#start)**
@@ -303,9 +307,9 @@ If you’d like to add an issue for review, please select "Add a new issue" to g
 
 [Add a new issue](https://staging.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182/add-issue?index=0)
 
-- Why isn’t my issue listed here?
+- Why isn’t my issue listed here? (expand)
     
-    If you don’t see your issue or decision listed here, it may not be in our system yet. This can happen if it’s a more recent claim decision. We may still be processing it.
+> If you don’t see your issue or decision listed here, it may not be in our system yet. This can happen if it’s a more recent claim decision. We may still be processing it.
     
 
 Finish this request later
@@ -370,8 +374,8 @@ Change | Remove
 [Add a new issue](https://staging.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182/add-issue?index=0)
 
 - Why isn’t my issue listed here?
-    
-    If you don’t see your issue or decision listed here, it may not be in our system yet. This can happen if it’s a more recent claim decision. We may still be processing it.
+
+> If you don’t see your issue or decision listed here, it may not be in our system yet. This can happen if it’s a more recent claim decision. We may still be processing it.
     
 
 Finish this request later
