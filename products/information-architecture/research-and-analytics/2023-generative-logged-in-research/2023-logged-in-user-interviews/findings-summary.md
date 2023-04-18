@@ -63,7 +63,10 @@ a. **Maybe false:** Most participants shared a sentiment that their logged-in ex
 a. **Likely false:** 2 participants were totally unfamiliar with VA.gov and were not able to find task-related information on the website. 7 participants had previous experience and were able to find the same information much more easily.
 
 ## Key Findings
-TK
+1. Though participants had different approaches to starting their journey, everyone logged in as a first step when they got to the website
+2. People relied on the homepage and My VA to navigate less than we expected; instead they used mixed methods to get to their tasks.
+3. Participants who were not able to find what they were looking for stated they would contact VA to get help.
+4. 
 
 ## Details of Findings 
 ### Though participants had different approaches to starting their journey, everyone logged in as a first step when they got to the website.
@@ -81,59 +84,86 @@ Everyone expected to have to log in to see personalized information, and 7 of 9 
 - No one had to be prompted to sign in. 
 - 2 participants were already logged in when screen sharing began, so we could not tell what the clicked to log in.
 
-### Once they got to VA.gov, participants used mixed methods to navigate to their tasks; the less familiar they were with VA.gov, the more they relied on the homepage or My VA.
+### Participants relied on the homepage and My VA to navigate less than we expected; instead they used a variety of methods to get to their tasks.
 
-8 of 9 participants were asked to complete a task that was linked from the homepage or My VA, so it was no surprise that they used that link to quickly get to their task.  When we asked them to find another way to get to the same information, we saw variations in how people navigated the website.
+8 of 9 participants started their session with a task that was linked from the homepage or My VA, and it was no surprise that they used that link to quickly get to where they wanted to go.  When we asked them to find another way to get to the same information, and to complete other tasks later in the session, we saw variations in how people navigated the website.
 
-For subsequent tasks, 4 of 9 primarily used the mega menu to navigate, with site search as a back-up for tasks that were hard to find, like viewing dependents.  The ease with which people navigated with the menu depended on the context they had around their task, and if the task was surfaced in the second layer of the menu. 
+4 of 9 primarily used the mega menu to navigate, with site search as a back-up for tasks that were hard to find, like viewing dependents.  The ease with which people navigated with the menu depended on the context they had around their task, and if the task was surfaced in the second layer of the menu. 
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/images/open-mega-menu.png" alt="VA.gov health and benefits menu expanded" width="400" />
 
 _Above: image of the VA.gov Healthcare navigation menu open, with a focus ring around a link in the center column_
 
-- When participants clearly understood the category for their task, they had no problem using the navigation menus.
-- Participants had a harder time finding what they needed via the menu when: 
-	- there could be multiple related categories (e.g. downloading benefit letters), or 
-	- they didn't have enough context around (e.g. viewing dependents) 
-- Participants had a 50% success rate finding what they needed via search; in some cases they struggled to find a keyword so their search produced no helpful results.
-
-4 of 9 participants repeatedly returned to the homepage or My VA as a way to get to their tasks.
+Based on what we observed, the less familiar a person was with VA.gov, the more they relied on the homepage or My VA to navigate. 4 of 9 participants repeatedly returned to the homepage or My VA as a way to get to their tasks.
 - P9 returned to the homepage via breadcrumbs or their back button
 - P7 and P3 used the My VA link in the global heading, though P3 confused My VA and MHV, and did not intend to go to My VA.
-- P6 continued to return to the VA.gov homepage through the “Benefits” link on the MHV homepage
+- P6 continued to return to the VA.gov homepage through the “Benefits” link on the MHV homepage.
 - P3 and P6 were very unfamiliar with VA.gov, as well as any services other than health care. They moved around the site with a lot of hesitation, or not at all.
 
-> Moderator: How would you find that information without the link on this page?
-> P3:  I wouldn’t do anything. I would immediately say to myself check up here *in heading, clicks personalized menu,* where it takes me to my VA [participant used the phrase “My VA” to refer to My HealtheVet], and no other thought would come to my mind. I would never go on this site.
+> Moderator: How would you find that information without the link on [My VA]? 
+> 
+> P3: I wouldn’t do anything. I would immediately say to myself check up here *clicks personalized menu,* where it takes me to [My HealtheVet], and no other thought would come to my mind. I would never go on this site [VA.gov].
 
-> Moderator: I noticed when you were on this website, and you couldn’t find what you were looking for, you didn’t use the navigation items, or search, up in the header.
-> P6: No, I didn’t notice them *laughs.* I was actually afraid that if I clicked anything outside of this *mouses over 4 boxes on homepage* I would get signed out.
+The 2 participants who relied on the homepage didn’t see My VA until the end of their session, when directed by the moderator. Both had positive reactions and felt My VA would have gotten them to where they wanted to go.
 
+> I’d probably be able to find exactly what I was looking for [on My VA], without going through all these different things down here *mouses over links on homepage* - P6
 
-1 of 9 participants, a screenreader user, used Google searches to find tasks on VA.gov. The keywords they used pulled up VA.gov as the first or second result each time (they did not include va.gov in their search query), allowing them to efficiently get to where they wanted to go.
+1 of 9 participants, a screenreader user, preferred to use Google searches over other navigation methods. 
 > There's a lot of stuff up there in the header that I try to avoid, like the headings and the menu, as much as possible, because of the amount of detail that's up there. A lot of times, it's just easier to do a search for it and get around that area. Otherwise, I’m not sure if I'll be clicking two or three levels past the initial heading point to find the item. - P2
 
-### Participants who were not able to find what they were looking for stated they would call VA to get help.
-3 of 10 participants were not able to find what they were looking for (view dependents), and stated they would call VA to complete their task.
 
-> Well, I guess we failed, because I don’t know how we’d check that… Many times when I can’t find something, I’ll use secure messaging or call my VIST coordinator. He’s good on the computer and he’ll point me in the right direction. - P1
+### Navigating to tasks was challenging for participants who weren’t sure how their task was categorized within VA. 
+Participants had a harder time finding what they needed via the navigation menu when: 
+	- there could be multiple related categories (e.g. downloading benefit letters), or 
+	- they didn't have enough context around the task (e.g. viewing dependents) 
 
-### Most participants clearly understood that “logged in / authenticated” parts of the website were all about them, and the unauthenticated parts of the website were generic and targeted toward everyone.
-- Multiple participants referred the personalized menu, My VA, and My HealtheVet as “my stuff” or “everything about me”.
-- Participants understood that content available via the navigation menus was for all Veterans or potential VA beneficiaries. Most felt it was appropriate to have that content, and that it should be a accessible even though they were logged in.
-- One participant stated they the menus were personalized because they used the word “your” in the links.
-- Most did not differentiate or comment on the homepage content being personalized or not. One participant referred to the homepage as a “dashboard” and felt it was personalized because it used the word “your”.
-- No one expressed frustration or confusion by encountering content that wasn’t personalized to them, though some did get frustrated when they didn’t find personalized content where they expected it. They commented that it would be nice to have a link to personalized content, or that the link “should” be there.
-- **There is a sentiment that the unauth homepage needs to remain available even when you are logged into the site.**
-	- Does prove or disprove that?
-	- Interesting when one man clicked to see the new homepage; he didn’t know how to use it
+Participants who tried to search for content had a 50% success rate finding what they needed; in some cases they struggled to find a keyword so their search produced no helpful results.
+
+When participants clearly understood the category for their task, they had no problem using the navigation menus or generating helpful search results.
+
+### Participants who were not able to find what they were looking for stated they would contact VA to get help.
+3 of 10 participants were not able to find what they were looking for (view dependents), and stated they would contact VA to complete their task. As a secondary approach, one of the 3 said they might try google searching, and another said they might try again another time.
+
+> Caregiver: I guess we failed, because I don’t know how we’d check that.
+> 
+> P1: Many times when I can’t find something, I’ll use secure messaging or call my VIST [Visual Impairment Services Team] coordinator. He’s good on the computer and he’ll point me in the right direction.
+
+### Participants perceived authenticated parts of VA.gov as being personalized to them, and unauthenticated parts of the website as general information for anyone visiting the site.
+
+All participants understood authenticated parts of VA.gov (My VA, profile, and various tools they encountered) were personalized to them. They called out specific things such as their claim status, appointments, the name tag content, and name in the global header as signifiers that they were logged-in and seeing personalized information.
+
+> This is *my* VA. This is stuff that the VA is giving me, how the VA cares for me, the benefits that I get. - P7
+
+> I’m looking for whether it’s my name, my disability percentage, my medications, my physicians name, I’m looking for that familiar thing to say, ‘ok you’re in the right place’. - P9
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/images/my-va-staging-account.png" alt="Screenshot of My VA with personalized menu open and personalized content highlighted in red" width="400" />
+
+*Above: Screenshot of a test user’s My VA page, showing their name, disability rating, personalized menu, and claim status.*
+
+We asked participants to complete two tasks that required them to be logged in, and would take them to pages that don’t require authentication. Participants understood that content available via the navigation menus  was for all Veterans or potential VA beneficiaries, and wanted to have access to that content when logged in. However, they felt that more personalized information or links on those content pages would be helpful.
+
+> I would like to be specific when I’m applying for anything. I felt that, ‘does this really apply to me as well’? Even though I fall into the spectrum of disability, how does that interact with my caregiver benefit? That is where, it was just not giving me that specific information, and that’s why I didn’t feel confident. - P15, trying to understand how other benefits apply to a participant in the VA Caregiver Program
+
+> When I went to education and employment. It talked about GI Bill, but they should know if I’ve already redeemed such and what other educational benefits I might be entitled to. - P5, reflecting on education pages
+
+> It’s explaining eligibility, but if I want to go to *mine*, it would be nice if there was a link if you want to see your benefits. - P7, on education eligibility content page
 
 ### Participants struggled to find dependent information, which wasn’t linked from the homepage, My VA, or the mega menu links.
-- About half of the participants expected to find it in the profile, and navigated there via the personalized menu.
-- Participants who had dependents for their compensation understood dependents were related to disability benefits, so they were less sure about whether it would be in a personalized page (they checked the My VA Payments section) or somewhere under the disability section of the benefit hub.
-- 3 participants were not able to find the information.
-- 7 participants found it by using search.
-- 2 participants were looking for the term DEERS to help them verify dependents on file with VA.
+
+We asked 8 of 9 participants to show us how they would double check if VA had any dependents on file for them (1 participant did not have time for this task in their session). All 8 struggled to find this information, and 4 were not able to complete the task.
+
+- 3 confidently checked their profile first, expecting to find their dependents listed there. These 3 participants had varying levels of familiarity with the website. They also all receive disability compensation from VA, so are more likely to correlate dependents with disability than Veterans who do not receive this benefit.
+- 2 participants tried looking under “Family member benefits”
+- 1 looked under “Service member benefits”
+- 2 participants were scanning pages for the term DEERS, thinking that would help them find the information
+- 2 successfully used search because they weren’t sure how else to find it.
+
+> That should be under my profile, or in one of these things here *mousing over My VA sections* because it is basic information about who is loaded. For me, *hesitates,* for disability I get it for my spouse… I don’t know if it would be under disability. *Scrolling up and down My VA* Yeah, I don’t know. 
+> 
+> *Eventually finds View Dependents page via search*
+> 
+> That was very painful, and it should not be that hard to find. - P7
+
 
 ### When asked how the logged-in experience of VA.gov compared to other websites they log in to, most participants said it was “okay”.
 - Participants considered their banking website as an example when we asked this question.
@@ -148,7 +178,13 @@ _Above: image of the VA.gov Healthcare navigation menu open, with a focus ring a
 
 
 ## Additional Insights
+
 ## Recommendations
+
+- **There is a sentiment that the unauth homepage needs to remain available even when you are logged into the site.**
+	- Does prove or disprove that?
+	- Interesting when one man clicked to see the new homepage; he didn’t know how to use it
+	
 ## Research Process Insights
 ## Further research needed
 ### We should recruit for the underserved groups we didn’t get to talk to in this round in our next study.
