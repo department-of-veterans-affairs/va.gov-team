@@ -197,7 +197,7 @@ You decide to print out all of your vaccines so you have a record handy in your 
 - What would be the best way to do that?
 
 _[if the participant says they would print each individual record, ask:]_
-- is there a way you could print the whole list as one document?
+- Is there a way you could print the whole list as one document?
 
 **Things to watch for:**
 
