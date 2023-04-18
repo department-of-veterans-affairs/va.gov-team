@@ -186,8 +186,9 @@ We have data from only 6 of 8 participants because the other 2 participants didn
   - Do more research to find specific coverages (e.g., copay amounts) before applying for health care, though if income is over 90K, wouldn't do too much more research (1)
   - Call or visit a nearby VA facility (1)
   - Apply for disability because probably won't qualify based on income limits (1)
+  > *"I am thinking I may need to figure out if I would have a disability rating unless I may not get anything from the VA in terms of healthcare on my own based off income" (p7)*.
   > *"I didn't apply for disability because I feel bad. Other people came back missing limbs, and I'm pretty OK compared to them. But now my hearing is bad, and I'm wondering if it's because of the firing ranges. How do I prove that?" (p7)*.
-"I am thinking I may need to figure out if I would have a disability rating unless I may not get anything from the VA in terms of healthcare on my own based off income." (p7)
+
 
 - Most participants (5 of 6) **didn't realize that you needed to apply for VA health care** in order to find out for sure if you qualify. 
 - 2 participants figured out later in the session that they needed to apply--only after they opened the "How to estimate your income for this tool" accordion in the "past year" task.
@@ -261,7 +262,8 @@ Brief description
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
-We heard **additional feedback on the app intro page from individual participants**. Each of the comments below is from only one participant, but could be used to potentially tweak the content copy on the page.
+### Feedback on the app intro page
+We heard **additional feedback on the app intro page**. Each of the comments below is from only one participant, but could be used to potentially tweak the content copy on the page.
 - Based on the first sentence ("You may be eligible for VA health care based on your VA disability rating, service history, or other factors"), 1 participant **expected to be asked about their disability rating and service history**, but those are actually reasons that you would NOT need the app.
   - RECOMMENDATION: Lead with a clearer distinction between income limits and what factors make them relevant or not (e.g., "_Not everyone is affected by income limits._ You may be _automatically_ eligible for VA health care based on your VA disability rating, service history, or other factors. If you're not eligible based on these factors, you may still qualify if your income is within our limit.")
 
@@ -271,6 +273,12 @@ We heard **additional feedback on the app intro page from individual participant
   
 - 1 participant who had a cognitive disability said that the block of **text was too much to read and understand**. There are already 
 > *"Too much text and not enough separation [formatting-wise] of it. Want a tldr" (p1)*.
+
+- 1 participant suggested adding a little more text to **encourage Veterans to try to get these benefits** if they need them.
+> *"Maybe there is some small wording that you can put in that encourages Veterans to get these benefits if you need them...I don't want to take away from someone else who needs it more. 'Hey, we encourage you to do this. Let's find out if you're eligible'--like selling it to me. You really want me to find out if I'm eligible. A little positive affirmation. Just don’t add  a lot more reading. It's very cut and dry...not warm and welcoming" (p7).
+- RECOMMENDATION: Consider adding to the intro page some friendly encouragement to use this tool to find out if you're eligible for VA health care.
+
+### How participants looked for income limits without the new app
 
 
 ## Recommendations
