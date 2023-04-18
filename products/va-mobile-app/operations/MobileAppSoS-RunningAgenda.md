@@ -33,3 +33,9 @@
 ## Notes
 4/18/23
 * Resource constraints on FE team have caused concerns for both DDL and WCAG features being wrapped up this Sprint
+  * Should be more cognizant of capacities in Sprint Planning
+* RX - MHV team making a change tonight related to tracking prescriptions
+  * Rachel & Ryan - we need help understanding if this requires changes for us.  If so, we need to discuss timing as we can't match their release (tonight)
+  * Currently we get tracking info from CMOP - not sure if this change is adding to this or something different
+  * New content disclosure needs to be displayed?
+* RX Research concluded, findings and recommendations to come
