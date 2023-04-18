@@ -141,7 +141,7 @@ To mitigate each of the problems above, we plan to do the following:
 - February 2023: QA
 - March 2023: Pre-launch activities
 - April 11, 2023: Launch to 25%
-- April X, 2023: Launch to 50%
+- April 18, 2023: Launch to 50%
 - April or May X, 2023: Launch to 100%
 
 ## Screenshots
