@@ -1,5 +1,7 @@
 \*This page will no longer be maintained as of 4/29/2021. Another work product is in progress for tracking and reporting accessibility health for products across VA.gov. Please contact Platform team if you have any questions.
 
+⚠️ @joshkimux has went through all remaining tickets and added labels for them to be tracked in the [new a11y product health dashboard here](https://docs.google.com/spreadsheets/d/1lgzMiZZ-0rBPDuB2gRupBAjsyF0WTe005VvEHYrMxww/edit?usp=sharing)
+
 # Product list for 508 testing
 
 This list is the current record of 508 issues in the `va.gov-team` repo. It will be updated weekly for accuracy.
