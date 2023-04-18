@@ -1,6 +1,6 @@
 # Project outline: My VA audit, updates, and documentation
 
-**Last updated: March 20, 2023**
+**Last updated: April 18, 2023 - updated key dates, added 'after' screenshot**
 
 ### Communications
 
@@ -151,4 +151,5 @@ To mitigate each of the problems above, we plan to do the following:
 ![My VA with benefits payments and debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/My%20VA_April%202022.jpeg)
 
 ### After
-
+April 2023
+![My VA Audit Updates](https://user-images.githubusercontent.com/45603961/232817009-ce52c3e6-cd28-4c80-a3f5-756ed18f8282.jpg)
