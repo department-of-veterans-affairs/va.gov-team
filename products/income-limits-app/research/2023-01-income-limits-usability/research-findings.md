@@ -110,11 +110,14 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 - All participants **understood the income ranges** and figured out which one to open. One participant did say that they expected to have ranges with even thousands of dollars (i.e., _$82,000 - $89,999, $90,000 or more_ instead of _$81,900 - $90,089, $90,090 or more_).
 > *"Not a lot of reading, not a lot of choices...As your income goes down, the more benefits you would receive" (p7)*.
 
-- Once they found the "Get past income limits" link, participants didn't have any difficulties doing the **Past Income limits task**.
+- Once they found the "Get past income limits" link, participants didn't have any difficulties doing the **Past Income limits task**. One participant wanted to try a different zip code for the city he's considering moving to in order to learn if he would be eligible for VA health care there. Another participant said they might look at past income limits to see if there was a pattern of increases each year so they could get a sense of what they might pay for copays in the future.
 
 ### There were a few navigation issues within the app
--**Review the information you entered** link -- Two participants did _not_ use this link to go back from the results page to the summary page. They used the Back button in their browser instead, though one participant was concerned that this might exit them out of the app (it didn't). A different participant thought that this link would take them to information that they filled out previously on VA forms (which is incorrect).
+- **Review the information you entered** link--Two participants did _not_ use this link to go back from the results page to the summary page. They used the Back button in their browser instead, though one participant was concerned that this might exit them out of the app (it didn't). A different participant thought that this link would take them to information that they filled out previously on VA forms (which is incorrect).
 - RECOMMENDATION: Make the link more prominent in location and/or visual treatment/layout (e.g., top of page or button). Maybe see how other websites enable you to view/edit previous information provided.
+- **Get past income limits** link--Two participants had difficulty finding this link on the results page. One of them looked in the "How to estimate your income for this tool" accordion, but this wasn't relevant. They also wanted to click the "Expand all" accordion above the salary ranges.
+- RECOMMENDATION: If we want the "Get past income limits" link to be easier to find, consider moving it up higher on the results page.
+ 
 
 
 ### Participants had difficulty understanding some of the benefit descriptions under the income ranges
@@ -176,6 +179,10 @@ Most participants (7 of 8) **didn't open the "How to estimate your income for th
 ### Many participants said that they may not be eligible for VA health care, based on what they read on the landing page
 , the app intro page, or the app results page
 
+**FROM TOPLINE...**
+
+11. Most participants believed the results they got from the app and **weren't inclined to apply for health care** if their income was in the highest bracket.
+
 #### From landing page
 > *"From what I read I would not be able to receive healthcare unless I have a disability" (p7)*.
  
@@ -227,11 +234,8 @@ Brief description
 
 > _Supporting data: Quote here_
 
-**FROM TOPLINE...**
 
-6. Some participants were **confused by the mention of cases where income limits don't apply**, wondered whether income limits applied to them, and thought the app might help them figure this out. 
-11. Most participants believed the results they got from the app and **weren't inclined to apply for health care** if their income was in the highest bracket.
-12. Some participants had **difficulty navigating back to the _Review information_ page** from the _Results page_.
+
 
 ## Additional Insights
 
