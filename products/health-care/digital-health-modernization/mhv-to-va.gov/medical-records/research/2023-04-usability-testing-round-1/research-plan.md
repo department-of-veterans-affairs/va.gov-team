@@ -35,25 +35,9 @@ This research fits into these points of a Veteran's Journey:
 The results of this study will help us determine if our designs provide the best user experience for Veterans to access their medical records and help to identify any pain points. This will inform later iterations of the design.
 
 ## **Research questions**
-
 1) Can Veterans find the information they need to manage their health?
-     
-     a) What pain points do they experience?
-     
-     b) Do the categories/labels help them find their medical records?
-     
-     c) Does the ordering of the categories in list views and on the navigation make sense to Veterans and help them in way finding?
-2) What information is the most helpful to Veterans looking for a specific record?
-     
-     a) Are the medical terms, measurements, and acronyms obstacles to Veterans finding information?
-3) Do Veterans know how to print/download their records?
-
-     a) Do the look and placement of the print and download action links match the Veterans' expectations?
-    
-     b) Do Veterans understand the best use case for printing individual records versus their full medical record?
-  
-     c) Do the differences between the web layout and PDF layout cause confusion?
-4. Can Veterans identify the helpful information in their medical records?
+2) Do Veterans know how to access information that will help them understand their medical records?
+3) Do Veterans know how to print/download both an individual record or list and their entire medical record?
 
 ## **Hypotheses**
 
