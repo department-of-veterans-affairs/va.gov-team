@@ -11,9 +11,10 @@ From VA.gov:
 *Veterans must have an honorable discharge to get the ID*
 
 ### Current Experience
-**In app:** While VIC card is not currently present in the VA Mobile app, Veterans occasionally report using letters in the VA Letters section of the VA mobile app as proof of service. 
+#### In app:
+While VIC card is not currently present in the VA Mobile app, Veterans occasionally report using letters in the VA Letters section of the VA mobile app as proof of service. 
 
-**Outside the app:**
+#### Outside the app:
 Currently,the processes for acquiring a VIC card are cumbersome and long and not well known by Veterans. 
 
 **Getting a VIC**(From [How To Apply For A Veteran ID Card](https://www.va.gov/records/get-veteran-id-cards/vic/)):
@@ -27,30 +28,26 @@ Currently,the processes for acquiring a VIC card are cumbersome and long and not
 - Veteran needs to remember to have VIC card with them when it's needed to prove Veteran status.
 
 
-#### Notes:
-* **VIC**
-    * Veteran identification card (Veterans love it)
-        * Identify themselves as a veteran at businesses
-        * Intended to be printed
-        * Must include a photo
-            * Uploading/approving/printing a photo is the key part of this
-            * **This is something to investigate if we can do a photo-less version**
-        * Super expensive, single point of failure
-        * Can be digital now
-            * Emailed to you
-        * Possible approaches
-            * Ignore the photo requirement and automate it in the app, like letters
-            * Perfect for a mobile app
-            * Consider as part of apple wallet
-
-We don’t want to replace the VIC, but want something that can serve the same purpose in the app.
-
-
-1. Process for applying is long and opaque.  Long process and then you get a PDF to be printed.  Previously sent to Office Depot to be printed but that was too expensive
-    1. Email from VA has 2 PDFs, one of the front of the card and one of the back.
-2. The VIC law is prescriptive and doesn’t include funding so Veterans need to pay to print the card which is not worth it.
-3. The photo is the hardest part, needs to be approved and holds up the process.  The photo is part of the law.  We may be able to bypass that if we do something that isn’t technically the VIC but serves the same purpose but could be automated.
-    2. There is an ID # on the card
+### Notes:
+* VIC =  Veteran identification card (Veterans love it)
+  * Identify themselves as a veteran at businesses
+  * Intended to be printed
+  * Must include a photo
+       * Uploading/approving/printing a photo is the key part of this
+       * **This is something to investigate if we can do a photo-less version**
+  * Super expensive, single point of failure
+  * Can be digital now
+       * Emailed to you
+  * Possible approaches
+       * Ignore the photo requirement and automate it in the app, like letters
+       * Perfect for a mobile app
+       * Consider as part of apple wallet
+* We don’t want to replace the VIC, but want something that can serve the same purpose in the app.
+* Process for applying is long and opaque.  Long process and then you get a PDF to be printed.  Previously sent to Office Depot to be printed but that was too expensive
+  * Email from VA has 2 PDFs, one of the front of the card and one of the back.
+  * The VIC law is prescriptive and doesn’t include funding so Veterans need to pay to print the card which is not worth it.
+  * The photo is the hardest part, needs to be approved and holds up the process.  The photo is part of the law.  We may be able to bypass that if we do something that isn’t technically the VIC but serves the same purpose but could be automated.
+  * There is an ID # on the card
 
 ### Pain Points
 * Acquiring a VIC is time consuming
@@ -67,14 +64,12 @@ TBD
 2. Surfacing current VIC may not be technically possible and the owning group may not have interest in working with us
 3. If we aren't able to let the 3rd parties who currently accept VIC as a form of proof of Veteran status know that the digital VIC is an official form of Veteran ID, they may not accept it (and Veterans will be angry/disappointed/inconveniences in that moment, but it might also erode trust in VA & the app).
 4. We don't currently coordinate with VA comms team when we launch features.
-5. There are [several other forms of ID that are currently accepted and used to get discounts](https://www.va.gov/records/get-veteran-id-cards/vic/)(A Veteran Health Identification Card (VHIC), a
-Department of Defense (DoD) Identification Card—either a Common Access Card (CAC) or Uniformed Services ID Card, or
-a state-issued driver’s license or ID with a Veterans designation), and Veterans may find it easier to use those instead.
+5. There are [several other forms of ID that are currently accepted and used to get discounts](https://www.va.gov/records/get-veteran-id-cards/vic/)(Veteran Health Identification Card (VHIC), Department of Defense (DoD) Identification Card—either a Common Access Card (CAC) or Uniformed Services ID Card, or a state-issued driver’s license or ID with a Veterans designation), and Veterans may find it easier to use those instead.
 
 ### Business Goals
-- Increase app downloads
+- Increase app downloads overall
   - Bring users into the app that do not use VA Health
-- Increase app active users
+- Increase overall number of app active users
   - Give non-Health users a reason to return to the app
 - Relates to [OCTO-DE goals:](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme)
    - Logged-in users have a personalized experience, with relevant and time-saving features
@@ -106,9 +101,9 @@ a state-issued driver’s license or ID with a Veterans designation), and Vetera
 * An increase in app downloads that correlates with the launch of VIC card
 * An increase in the overall number of active app users
     * An increase in usage of the app by users who do not currently use Health tools
-    * An increase in overall usage of the app by users that correlates with the usage of VIC card in the app
-* An increase in Veteran satisfaction with VA that correlates with VIC card usage and/or the presence of VIC card  in the app.
-* Requests for ability to provide proof of service decreases in [need to understand where these requests are happening now].
+    * An increase in overall usage of the app that correlates with the usage of VIC card in the app
+* An increase in Veteran's satisfaction with VA that correlates with VIC card usage and/or the presence of VIC card  in the app
+* Requests for ability to provide proof of service decreases in [need to understand where these requests are happening now]
    
 
 ### Stakeholders
