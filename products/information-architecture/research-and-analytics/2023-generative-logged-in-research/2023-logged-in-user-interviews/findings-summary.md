@@ -63,10 +63,7 @@ a. **Maybe false:** Most participants shared a sentiment that their logged-in ex
 a. **Likely false:** 2 participants were totally unfamiliar with VA.gov and were not able to find task-related information on the website. 7 participants had previous experience and were able to find the same information much more easily.
 
 ## Key Findings
-1. Though participants had different approaches to starting their journey, everyone logged in as a first step when they got to the website
-2. People relied on the homepage and My VA to navigate less than we expected; instead they used mixed methods to get to their tasks.
-3. Participants who were not able to find what they were looking for stated they would contact VA to get help.
-4. 
+To come when details are complete. 
 
 ## Details of Findings 
 ### Though participants had different approaches to starting their journey, everyone logged in as a first step when they got to the website.
