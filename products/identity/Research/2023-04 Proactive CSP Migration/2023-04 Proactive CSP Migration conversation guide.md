@@ -78,7 +78,7 @@ I'd like to start with a few questions to get to know how you go online…
    - [PROMPT] Do you regularly use a tablet to go online?
 - Which of these would you say you use the most when going online?
    - Could you tell me about why you tend to use [THAT DEVICE] the most?
-Have you accessed a bank account or health account on your phone in the past?
+- Have you accessed a bank account or health account on your phone in the past?
    - [IF YES] Do you have a preference for accessing an account like that, either on your phone or on a computer?
    - Have you ever used your phone to create a new account for a website or service?
    - [IF YES] How did that go?
