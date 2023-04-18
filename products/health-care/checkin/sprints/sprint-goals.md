@@ -22,11 +22,12 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
       - **Implement Text Solution**
+         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create sidekiq worker to call BTSSS in the background](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55883)
          - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Implement phone_number method in TravelClaim/RedisClient](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56976)
          - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Modify Appointment Data Serializer to Cache Phone number](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56975)
          - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Call VANotify in the background with the worker](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55908)
+         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Modify Appointment Data Serializer to Cache Phone number](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56975)
          - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] VANotify - Add text templates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55878)
-         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] vets-api: Update configs to store template info](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55879)
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Add Facility Address to Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54865)**  
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Display Facility Address with Other Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132)
