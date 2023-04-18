@@ -48,7 +48,7 @@ We conducted sessions remotely via Zoom, using screen sharing to observe partici
 
 **Note:** During this testing, VA.gov was piloting a new version of the homepage, and a new health landing page.  Our participants were not exposed to either of these during our study. We tested with the current version of the homepage, and the My HealtheVet links on the site pointed to the My HealtheVet website.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/images/april2023-homepage.png" alt="VA.gov homepage screenshot" width="400" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/images/april2023-homepage.png" alt="VA.gov homepage screenshot" width=“500" />
 
 _Above: image of the VA.gov homepage as of April 2023_
 
@@ -63,7 +63,10 @@ a. **Maybe false:** Most participants shared a sentiment that their logged-in ex
 a. **Likely false:** 2 participants were totally unfamiliar with VA.gov and were not able to find task-related information on the website. 7 participants had previous experience and were able to find the same information much more easily.
 
 ## Key Findings
-To come when details are complete. 
+1. Though participants had different approaches to starting their journey, everyone logged in as a first step when they got to the website
+2. People relied on the homepage and My VA to navigate less than we expected; instead they used mixed methods to get to their tasks.
+3. Participants who were not able to find what they were looking for stated they would contact VA to get help.
+4. 
 
 ## Details of Findings 
 ### Though participants had different approaches to starting their journey, everyone logged in as a first step when they got to the website.
@@ -87,7 +90,7 @@ Everyone expected to have to log in to see personalized information, and 7 of 9 
 
 4 of 9 primarily used the mega menu to navigate, with site search as a back-up for tasks that were hard to find, like viewing dependents.  The ease with which people navigated with the menu depended on the context they had around their task, and if the task was surfaced in the second layer of the menu. 
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/images/open-mega-menu.png" alt="VA.gov health and benefits menu expanded" width="400" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/images/open-mega-menu.png" alt="VA.gov health and benefits menu expanded" width="500" />
 
 _Above: image of the VA.gov Healthcare navigation menu open, with a focus ring around a link in the center column_
 
@@ -133,7 +136,7 @@ All participants understood authenticated parts of VA.gov (My VA, profile, and v
 
 > I’m looking for whether it’s my name, my disability percentage, my medications, my physicians name, I’m looking for that familiar thing to say, ‘ok you’re in the right place’. - P9
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/images/my-va-staging-account.png" alt="Screenshot of My VA with personalized menu open and personalized content highlighted in red" width="400" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/images/my-va-staging-account.png" alt=“Screenshot of My VA with personalized menu open and personalized content highlighted in red" width="500" />
 
 *Above: Screenshot of a test user’s My VA page, showing their name, disability rating, personalized menu, and claim status.*
 
