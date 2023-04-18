@@ -195,7 +195,7 @@ TBD | TBD
 - Participant(s) for pilot test: TBD 
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	N/A
 - Note-takers: Clayton Zook, Amanda Porter, Charlye Tran
-- Observers: Tom Black, Matt Conway, Mike King, Amber Parsley, Tyler Gindraux, Carl Dickerson, Sofia Kirkman
+- Observers: Tom Black, Matt Conway, Mike King, Amber Parsley, Tyler Gindraux, Carl Dickerson, Sofia Kirkman, Carolyn Williams
 - Team member emails:
    - clayton.zook@oddball.io
    - ajohnson@clarityinnovates.com
@@ -207,6 +207,7 @@ TBD | TBD
    - aparsley@clarityinnovates.com
    - carl@themostudio.com
    - sofia@themostudio.com
+   - carolyn@themostudio.com
 
 ## Reviewers
 This plan has been reviewed by:
