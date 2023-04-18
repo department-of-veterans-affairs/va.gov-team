@@ -65,7 +65,6 @@ a. **Likely false:** 2 participants were totally unfamiliar with VA.gov and were
 ## Key Findings
 To come when details are finalized.
 
-
 ## Details of Findings 
 ### Though participants had different approaches to starting their journey, everyone logged in as a first step when they got to the website.
 - 5 participants started directly on VA.gov.
@@ -162,26 +161,45 @@ We asked 8 of 9 participants to show us how they would double check if VA had an
 > 
 > That was very painful, and it should not be that hard to find. - P7
 
+### My VA contributed to a sense of ease and personalization for participants who used it during their session.
 
-### When asked how the logged-in experience of VA.gov compared to other websites they log in to, most participants said it was “okay”.
-- Participants considered their banking website as an example when we asked this question.
-- They commented that other websites they log into are more personalized, and all about them as soon as they’re logged in.
-- 2 participants described the VA.gov logged-in experience as “cumbersome”
-- We can do better than “okay”.
+At the conclusion of our session, we asked participants to reflect their VA.gov experience compared to another website they log into regularly to complete tasks; many referred to their banking website (e-commerce and insurance websites came up too).
 
-### Authenticating across multiple sites created a fractured experience, and made some participants feel frustrated or hesitant.
+Participants immediately described private sector websites as focused on them, listing their transactions, accounts, profile, and links to complete other tasks.
+
+Participants who were redirected to My VA after logging in felt that VA.gov provided a level of personalization. Although they still wished for links to personalized content on unauthenticated pages, My VA helped them get directly to their most important tasks.
+
+> I’m glad it’s [claim status] on the first page without me having to navigate it. - P5
+
+> With My VA, I like that kind of dashboard thing, and you can see the most important stuff right there. - P7
+
+However, participants who didn’t see My VA until the moderator prompted them at the end of the session, felt like they didn’t have the same kind of personalized experience they have elsewhere.
+
+> VA.gov is much more cumbersome than Wells Fargo Banking…still, going to look at his benefits I think is the most, I guess the word is “cumbersome”. Complicated, cumbersome whatever. - P1’s caregiver
+
+> Thinking about banking, I do see more personal information up front than with the VA site. You have access to personal information [on VA.gov], but you have to click a menu, then a link. With the bank once you are logged you see it immediately on your dashboard. - P15
+
+The participants who hadn’t seen My VA during their session reacted positively once the moderator directed them to it.
+
+> I like this My VA right here, it is better than what I was doing before. And I know if I click My Health it’ll take me back to my familiar setting [MHV], but this is much better right here, and I didn’t have to log in twice. - P9
+
+
+### When asked to compare the logged-in experience of VA.gov to private sector websites, participants talked having immediate access to personalized information, and fewer navigation items.
+
+## Additional Insights
+### Authenticating across multiple sites created a fractured, depersonalized experience, and made some participants feel frustrated or hesitant.
 - Multiple participants shared frustration and/or confusion during the log in process, especially those who started on My HealtheVet and logged in with a MHV credential.
 - We observed participants having to log in multiple times while searching for personalized information.
 - One participant didn’t use the site navigation at all during the session.  When asked why, they stated it partially because they didn’t want to “click anything up there because it might sign me out again”
-
-
-## Additional Insights
 
 ## Recommendations
 
 - **There is a sentiment that the unauth homepage needs to remain available even when you are logged into the site.**
 	- Does prove or disprove that?
 	- Interesting when one man clicked to see the new homepage; he didn’t know how to use it
+	
+
+
 	
 ## Research Process Insights
 ## Further research needed
