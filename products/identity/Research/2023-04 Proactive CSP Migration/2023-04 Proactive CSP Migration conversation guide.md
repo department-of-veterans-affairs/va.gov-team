@@ -27,7 +27,7 @@
 - Check Settings > Meeting > In Meeting (Basic) 
    - > Sound notification when someone joins or leaves: OFF
    - > Who can share > All Participants
-- Open standalone browser tab to prototype (URL TBD) and save link in slack so ready to paste
+- Open standalone browser tab to [the modal prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979) and save link in slack so ready to paste
 - Do Not Disturb ON so no notifications
 - Make sure everyone is muted except moderator (me) and the participant
 - Mute your Slack notifications.
