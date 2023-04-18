@@ -167,7 +167,7 @@ At the conclusion of our session, we asked participants to reflect their VA.gov 
 
 Participants immediately described private sector websites as focused on them, listing their transactions, accounts, profile, and links to complete other tasks.
 
-Participants who were redirected to My VA after logging in felt that VA.gov provided a level of personalization. Although they still wished for links to personalized content on unauthenticated pages, My VA helped them get directly to their most important tasks.
+Participants who were redirected to My VA after logging in felt that VA.gov provided a similar level of personalization. Although they still wished for links to personalized content on unauthenticated pages, My VA helped them get directly to their most important tasks.
 
 > I’m glad it’s [claim status] on the first page without me having to navigate it. - P5
 
