@@ -1,4 +1,4 @@
-# **Conversation Guide: MHV on VA.gov team, Medical Records, April - May 2023**
+# **Conversation Guide: MHV on VA.gov team, Medical Records, May 2023**
 
 ## **Moderator logistics**
 
@@ -142,7 +142,10 @@ Please return to About VA medical records.
 
 **Things to watch for:**
 
--
+- Did the participant know to look in lab and test results?
+- Did the participant notice that EKG's are historical only?
+- Did the participant notice that labs and tests are listed in reverse chronological order?
+
 
 ## **Second Task: Lab and test results: Bloodwork + download - 5 minutes**
 
@@ -164,9 +167,18 @@ _Download:_
 _[when participant returns to report screen]_
 
 - How would you know if your file downloaded?
+- How did you know to choose "download as PDF" rather than "download as TXT"?
+_[or visa versa if they chose txt]_
+
+-What might a Veteran do if they were unsure?
+- Is there anything here that might help with that?
 
 **Things to watch for:**
-
+- Did the participant get confused by multiple bloodwork results?
+- Did the participant get confused by the acronyms?
+- Did the participant notice the informational dropdowns?
+- Was the participant able to download?
+- Which format did the participant choose?
 
 ## **Third Task: Health history + print – 10 minutes**
 
@@ -192,7 +204,9 @@ _[if the participant says they would print each individual record, ask:]_
 
 **Things to watch for:**
 
--
+- Did the participant know that hypertension is high blood pressure?
+- Did the participant know to search in vitals for blood pressure?
+- Did the participant know that they could print the entire vaccine list?
 
 ## **Fourth Task: Health history: Participant choice + Vitals +Vaccines – 10 minutes**
 
@@ -211,7 +225,10 @@ These are the only 2 sections that allow you to print the whole list while other
 
 **Things to watch for:**
 
-- 
+- Does the participant understand that they cannot add allergies?
+- Did the participant notice the informational dropdown?
+- Did the participant understand why only allergies and vaccines can be printed as whole lists?
+
 ## **Fifth Task: Share your medical records – 5 minutes**
 
 - If you had an upcoming appointment with a new community provider and wanted to take a copy of your medical records, what would you do?
@@ -220,6 +237,7 @@ These are the only 2 sections that allow you to print the whole list while other
 
 **Things to watch for:**
 
+- Did the participant know to go to Share your medical records?
 - Did the participant understand the difference between VHIE and Blue Button?
 - Did the participant understand "Blue Button"?
 - Did the participant understand how to share medical records with a VA provider?
