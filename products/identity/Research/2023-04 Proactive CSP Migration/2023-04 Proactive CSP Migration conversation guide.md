@@ -80,12 +80,12 @@ I'd like to start with a few questions to get to know how you go online…
    - Could you tell me about why you tend to use [THAT DEVICE] the most?
 - Have you accessed a bank account or health account on your phone in the past?
    - [IF YES] Do you have a preference for accessing an account like that, either on your phone or on a computer?
-   - Have you ever used your phone to create a new account for a website or service?
+- Have you ever used your phone to create a new account for a website or service?
    - [IF YES] How did that go?
       - [PROMPT] Did you find any issues or difficulties when doing that?
    - [IF NO] Is that something you would consider doing from a phone?
       - Could you explain that a bit more?
-   - For an account you already have, let’s say that you need to update the phone number or password for that. Have you ever used a phone for doing something like that?
+- For an account you already have, let’s say that you need to update the phone number or password for that. Have you ever used a phone for doing something like that?
    - [PROMPT] That could be either on the VA or another website
    - [IF YES] Could you walk me through an experience you’ve had with doing that from your phone?
    - [IF NO] Would you only do something like that from a desktop or laptop computer?
@@ -119,6 +119,7 @@ I’d like to take some time to think about a few words or phrases that the VA m
 
 Let’s think more specifically about accessing the VA on your phone
 
+- What do you tend to do the most often when signing into the VA online?
 - How often would you say that you use a phone to go online to manage your VA benefits or VA healthcare?
    - [IF SPLIT mobile/desktop] Are there certain things you are more likely to do on your phone?
    - Are there things you’re more likely to do on a computer?
@@ -147,7 +148,6 @@ Let’s think more specifically about accessing the VA on your phone
    - Do you ever use another option?
       - [IF YES] Can you tell me about when you would choose to log in this way?
 - [IF USES MULTIPLE PORTALS] Do you use the same sign in option for VA.gov, MHV, and eBenefits?
-- What do you tend to do the most often when signing into the VA online?
 - Is there anything else you want to share with me about signing into your VA account online, before we move on?
 
 
@@ -187,6 +187,9 @@ I’m going to sign into this Zoom call from my phone, so I can share the design
 [WAIT AS NEEDED]
 
 - Do any questions come to your mind now that you’ve looked through it a little more?
+- There are a few terms on this page that I'd like to think more about
+   - What does the word "upgrade" at the top make you think about?
+   - In that first paragraph is the phrase "VA digital tools" what is your understanding of what that might mean?
 - If you were describing this to a friend or family member, what would you tell them this information means?
 - Now that you’ve read this, what would you do?
    - Is getting a new sign in something you would consider doing after reading this?
