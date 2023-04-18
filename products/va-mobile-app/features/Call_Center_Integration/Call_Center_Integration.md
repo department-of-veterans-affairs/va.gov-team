@@ -24,6 +24,8 @@
 ## Business Goals
 * How would this benefit VA?
 * Which OCTO and Program goals does this tie to?
+* Increase usage of the app
+* 
 
 ## Roadmap
 
@@ -46,6 +48,16 @@
 ## Stakeholders
 
 * Who within VA do we need to ensure we work with?  Who has ‘veto’ power?
+* Andrea Schnieder -Dir Veteran Exp
+* Klay  - Chief Architect for Communications Branch?
+* Fernando Gonzalez
+* Mark Ennis - Chatbot team
+* Yevgeny (Gene) Dreyband 
+* Luciana Morais - Chatbot team
+* Chloe Brown
+* Chanteclaire Lantos-swett - Account Exp for OCTO, works with Contact Center
+* Alex Taylor
+* 
 
 ## Open Questions
 
@@ -53,3 +65,14 @@
 * What can they do with this information?
 
 ## Important Links
+
+## Notes
+- specifically from Claims Status page
+-  Send Veteran ID info 
+-  Send info about what the Veteran just experienced in the app
+-  Send Info about what part of the app the Veteran called from
+-  Send Veteran to the correct group in the Call Center directly, skip first layer of phone tree
+-  Allowing VA to call the Veteran back if the hold time is long (more about Call Center ability than mobile app)
+
+Need to hear from Klay more about the technical details of how the mobile app would integrate with systems.
+
