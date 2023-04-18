@@ -38,3 +38,6 @@ Add new field Gender Identity
 Product Brief: [Preferred Name and Gender - Product Brief.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/10757035/Preferred.Name.and.Gender.-.Product.Brief.pdf)
 
 Design Files: [Figma](https://www.figma.com/file/Wjq9DkQ3ulXlHhbMrpNHME/%F0%9F%94%8D-Profile2.0---Working---VAMobile?node-id=133%3A1850&t=3bUpfOQjtudnJMYC-0)
+
+Product Canvas: [Preferred Name & Gender Identification Product Canvas.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11264119/Preferred.Name.Gender.Identification.Product.Canvas.pdf)
+
