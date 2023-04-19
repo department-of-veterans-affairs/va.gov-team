@@ -31,6 +31,7 @@ CTO Health Team
 - [ ] Carlos Felix (Technical Architect)
 - [ ] Daniel Cloud (Engineering lead)
 - [ ] Eric Voshall (Full stack developer)
+- [ ] Angela Fowler (Accessibilty Specialist)
 
 ---
 
