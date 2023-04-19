@@ -49,7 +49,7 @@ n/a
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+This appointment occurred in the past.
 ```
 
 **PAGE DESCRIPTION**
