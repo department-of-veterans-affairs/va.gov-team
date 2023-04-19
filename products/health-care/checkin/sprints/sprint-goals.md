@@ -4,7 +4,10 @@ ________________________________________________________________________________
 
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Backend [BE]  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Frontend [FE]  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) User Experience [UX] ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) Product ![#7c2ac9](https://placehold.co/15x15/7c2ac9/7c2ac9.png) Delivery
 
-## 4/19/2023 - 5/2/2023 ------------ FUTURE / TENTATIVE ---------------------
+![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) Indicates ticket is done
+
+
+## 4/19/2023 - 5/2/2023 
 #### SPRINT GOALS
 - **GOAL: Assume Control of CHIP & LoROTA APIs**
 - **GOAL: Make submission of a travel reimbursement claim easier**
@@ -62,7 +65,6 @@ ________________________________________________________________________________
    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Change alert content shown when Veteran is too early to check in within check in app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54511)
    - ![#7c2ac9](https://placehold.co/15x15/7c2ac9/7c2ac9.png) [Platform Orientation Template [Anita Halici]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57050)
 
------------- END FUTURE / TENTATIVE ---------------------
 
 ## 4/5/2023 - 4/18/2023 
 
