@@ -112,6 +112,7 @@ ________________________________________________________________________________
     - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Migrate Check-in Dashboard to monitor EKS vets-api in Staging/Prod](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55916) 
    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Display Clinic Phone Number or Facility Phone Number if Clinic Phone is Not Available](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56186)    
     - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Audit Cypress Screenshots & Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56279)
+    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[ONGOING] Increase Unit Test Coverage with an Ultimate Goal of > 75% #54475](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54475)
     - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [SPIKE: Explore Link Expired Logic for Pre-Check-in on Day-of](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56280)
     - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] SPIKE: Explore How a VVC Appointment Got Displayed as a Phone Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56581)
       - This one was added on 4/10, after Sprint Planning
