@@ -47,6 +47,7 @@ CTO Health Team
 - TU,W,F @ 3:30 PM ET
 - 15 min 
 - We sometimes opt to have a Slack-up if most of the team unavailable, and we cancel our ceremonies during PI planning.
+- Parking lot immediately following to discuss non-stand up topics, problem solve, etc.
 
 <br/>
 
