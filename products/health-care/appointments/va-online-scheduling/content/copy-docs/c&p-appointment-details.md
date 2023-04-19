@@ -49,13 +49,13 @@ n/a
 **PAGE HEADER**
 
 ```
-This appointment occurred in the past.
+{appointment date} at {appointment time}
 ```
 
 **PAGE DESCRIPTION**
 
 ```
-Compensation and pension exam
+This appointment occurred in the past.
 ```
 
 **PAGE CONTENT**
