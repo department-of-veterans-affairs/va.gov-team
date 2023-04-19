@@ -113,6 +113,17 @@ Review accomplishments from prior sprint, what went well, what can be improved, 
 - Team crosses all US time zones so core business/meeting hours are 12-4PM ET.
 - When planning meetings, we check others' calendars for availability.  If a time cannot be found, we ask folks to provide their availability using [When2meet](https://www.when2meet.com/), or if there are only a few time slots to choose from, we put it to a vote in Slack using reaction emojies - [example](https://dsva.slack.com/archives/C03ECSBGSKX/p1660768928334879).
 
+##### Program Meetings
+
+| Meeting | Date | Purpose | Presenter/Lead |
+|-|-|-|-|
+| MHV Scrum of Scrums | Mondays | Includes MHV classic and MHV on VA.gov teams. Purpose is to inform what's coming with the new MHV | Lynne; new PM |
+| 2 | Small | ~2-3 days / ~16-24 hrs | Work is known, and can be completed with minimal hours |
+| 3 | Medium | ~3-4 days / ~24-48 hrs | Work is known, and can be completed in a couple days |
+| 5 | Large  | ~5 days / ~40 hrs | Work is known and can be completed in half a sprint | 
+| 8 | XLarge | ~6-8 days/ ~40-60 hrs | Work is complex and/or there might be unknown factors that need to be discussed prior to planning. Once further information is known, attempt to brake down into smaller tasks that can be completed in a sprint with certantity. |
+| 13 | XXLarge |  | Very complex, needs discovery or prototype before it can be planned for a sprint. |
+
 #### Slack:
 - Slack is our primary form of communication outside meetings.  It is encouraged that we communicate in public channels rather than private channels or direct messages, except when necessary.  Please thread your replies, and @ whoever you need to specifically provide info to, or need feedback from.  Channels:
   -  [#mhv-on-vagov-portal-home](https://dsva.slack.com/archives/C04GDQSHD1R) - Discovery & architectural discovery, development of auth & unauth "MHV on VA.gov" landing page.
