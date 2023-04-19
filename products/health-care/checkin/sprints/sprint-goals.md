@@ -36,14 +36,18 @@ ________________________________________________________________________________
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Update All Posters to the New Design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55832)
           - NOTE: ask Stephen before we pull this is (i.e. do now or wait for study)
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Finish CodePen prototype](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56144)
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add additional screens into unified check-in experience sketch page with user flows](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56181)
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)[Address IA/Content/A11y Feedback in the CodePen Prototype & Sketch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57039)
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Migrate Prototype to the new Account ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/570388)
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964#issuecomment-1512100240)
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Set-up for Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56624)
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Set up Annotations/Design Specs Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55458)
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  Schedule & hold the midpoint review
+      - Research
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Finish CodePen prototype](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56144)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add additional screens into unified check-in experience sketch page with user flows](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56181)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)[Address IA/Content/A11y Feedback in the CodePen Prototype & Sketch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57039)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Migrate Prototype to the new Account ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/570388)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964#issuecomment-1512100240)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Set-up for Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56624)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Set up Annotations/Design Specs Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55458)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  Schedule & hold the midpoint review
+      - New Infrastructure Preparations
+        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] - Setup new application for unified experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57068)
+        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] - Unified app feature based routing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57069)
   - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)**
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Add New Action Link Text to Abstract & Sketch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55572)
       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Update action link for pre-check-in A/B test top location](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54250) 
