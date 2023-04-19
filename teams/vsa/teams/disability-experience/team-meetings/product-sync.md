@@ -1,5 +1,15 @@
 # Benefits Disability Experience - Product sync
 
+### Date: April 19 2023
+### Topics covered:
+- Review road-map
+- Bugs/Defects priortization
+   -  Future DOC 
+   -  Identification issue - Survey feedback has revealed that a number of 526 users receive an error stating "We need more information from you before you can file a Benefits Delivery at Discharge claim 
+   -  508 blocker - potentially a very small FE change
+ 
+
+
 ### Date: March 29 2023
 ### Topics covered:
 - 6 weekly portfolio goals prep - no prep required
