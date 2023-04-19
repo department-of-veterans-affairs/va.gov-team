@@ -51,15 +51,15 @@ The purpose of this research is to **get user feedback on the newly redesigned i
 
 
 ## Methodology 
-We conducted **usability testing** on April 5-11 to get feedback from research participants using a click-through prototype over Zoom. Perigean recruited the participants.
+We conducted **usability testing** on April 5-11, 2023 to get feedback from research participants using a click-through prototype over Zoom. Perigean recruited the participants.
 
 **We talked to 8 Veterans**, one of whom was also a Veteran's family member.
-- 8 used a smartphone for the session and 2 used a computer
+- 6 of 8 used a smartphone for the session, and 2 used a computer
 - ALL did NOT have VA health care
 - ALL do NOT receive a pension from the VA
 - ALL do NOT get VA disability compensation for a service-connected disability rating of 50% or higher
 
-6 of the 8 participants used their smartphone for the session, and the other 2 used a computer. For more details, see [Who we talked to](#who-we-talked-to).
+For more details, see [Who we talked to](#who-we-talked-to).
 
 
 ## Hypotheses and Conclusions
