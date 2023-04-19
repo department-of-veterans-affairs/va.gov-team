@@ -162,6 +162,7 @@ I’m going to sign into this Zoom call from my phone, so I can share the design
 [IF ANY ISSUE WITH PHONE SHARE - screen share the mobile design from computer]
 
 - Hopefully this looks familiar like what you would see on VA.gov from your phone?
+- As we move through these pages, I'll ask that you guide or direct me where to go.
 - Let's say you were going to sign into your account to [PRIOR MENTIONED TASK or “refill a prescription”].
    - What would you do next
    - And which option would you select here?
