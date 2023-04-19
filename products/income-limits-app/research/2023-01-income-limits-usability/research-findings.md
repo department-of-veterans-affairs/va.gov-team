@@ -183,26 +183,27 @@ Most participants (7 of 8) **didn't open the _How to estimate your income for th
 
 > *"I automatically went to the numbers"* [without opening the _How to estimate your income for this tool_ accordion] *(p6)*.
 
-- RECOMMENDATION: Be more explicit about household income and deductions on the results page, without using any accordions (since they're weren't opened by most participants). For example, consider changing the first sentence from "We use your last year's income to determine..." to "We use your last year's _household_ income _minus deductions (such as out-of-pocket medical expenses, education costs, and funeral/burial expenses for a spouse or child)_ to determine..."
+- RECOMMENDATION: Be more explicit about household income and deductions on the results page, without using any accordions (since they weren't opened by most participants). For example, consider changing the first sentence from "We use your last year's income to determine..." to "We use your last year's _household_ income _minus deductions (such as out-of-pocket medical expenses, education costs, and funeral/burial expenses for a spouse or child)_ to determine..."
 
 ### After seeing the benefits information on the results page, participants had varying interpretations of it and what to do next
 We have data from only 6 of 8 participants because the other 2 participants didn't get to that task (due to arriving to the session late or dropping off the internet during the session). 
-- 4 of 6 participants thought that the **benefits were not certain because of the phrase "may be eligible"** above each of the lists of benefits. None of these participants had opened the "How to estimate your income for this tool" accordion, so they were guessing based on the phrasing. 
+- 4 of 6 participants thought that the **benefits were not certain because of the phrase "may be eligible"** above each of the lists of benefits. None of these participants had opened the _How to estimate your income for this tool_ accordion, so they were guessing based on the phrasing. 
 
 - **After seeing the app results, here's what participants planned to do next**:
   - Click on _Find out if you may be eligible_ link (4 participants), though this didn't work in the prototype
-  - Apply for VA health care (1 participant)
-  - Do more research to find specific coverages (e.g., copay amounts) before applying for health care, though if income is over 90K, wouldn't do too much more research (1)
+  - Apply for VA health care (1 participant) = what we wanted people to do
+  - Do more research to find specific coverages (e.g., copay amounts) before applying for health care, though if income is over $90,000, wouldn't do too much more research (1)
   - Call or visit a nearby VA facility (1)
   - Apply for disability because probably won't qualify based on income limits (1)
   > *"From what I read, I would not be able to receive health care unless I have a disability...I may need to figure out if I would have a disability rating because I may not get anything from the VA in terms of healthcare on my own based off income" (p7)*.
+  
   > *"I didn't apply for disability because I feel bad. Other people came back missing limbs, and I'm pretty OK compared to them. But now my hearing is bad, and I'm wondering if it's because of the firing ranges. How do I prove that?" (p7)*.
 
-- RECOMMENDATION: Consider clarifying in the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page that if your income is too high, applying for disability may not be what you should do next.
+- RECOMMENDATION: Consider clarifying in the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page that if your income is too high, applying for disability isn't necessarily the next step.
 
 
 - Most participants (5 of 6) **didn't realize that you needed to apply for VA health care** in order to find out for sure if you qualify. 
-- 2 participants figured out later in the session that they needed to apply--only after they opened the "How to estimate your income for this tool" accordion in the "past year" task.
+- 2 participants figured out later in the session that they needed to apply--only after they opened the _How to estimate your income for this tool_ accordion in the Past Year task.
 > *"Oh! You need to apply. So not take this information at face value" (p1)*.
 - RECOMMENDATION: Make the text "To find out if you're eligible, apply now" more visually prominent on the results page because as it is now, participants ignored it. 
 
@@ -218,34 +219,6 @@ Brief description
 > _Supporting data: Quote here_
 
 > _Supporting data: Quote here_
-
-
-**Finding 2**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 3**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
 
 
 ## Additional Insights
