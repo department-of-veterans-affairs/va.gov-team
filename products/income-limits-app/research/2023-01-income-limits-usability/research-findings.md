@@ -110,7 +110,7 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 ### All participants understood the purpose of the app and found it easy to use
-- All participants understood what the app was for--to find out  before applying if they might be eligible for VA health care based on their income.
+- All participants understood what the app was for--to find out before applying if they might be eligible for VA health care based on their income.
 > *"Figure out even if I'm eligible by income before I continue on to do further research" (p8)*.
 
 > *"See if I qualify or not based on income" (p9)*.
@@ -119,16 +119,16 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 - All participants **understood the income ranges** and figured out which one to open. One participant did say that they expected to have ranges with even thousands of dollars (i.e., _$82,000 - $89,999, $90,000 or more_ instead of _$81,900 - $90,089, $90,090 or more_).
 > *"Not a lot of reading, not a lot of choices...As your income goes down, the more benefits you would receive" (p7)*.
 
-- Once they found the "Get past income limits" link, participants didn't have any difficulties doing the **Past Income limits task**. One participant wanted to try a different zip code for the city he's considering moving to in order to learn if he would be eligible for VA health care there. Another participant said they might look at past income limits to see if there was a pattern of increases each year so they could get a sense of what they might pay for copays in the future.
+- Once they found the _Get past income limits_ link, participants didn't have any difficulties doing the **Past Income limits task**. One participant wanted to try a different zip code for the city he's considering moving to in order to learn if he would be eligible for VA health care there. Another participant said they might look at past income limits to see if there was a pattern of increases each year so they could get a sense of what they might pay for copays in the future.
 
 ### There were a few navigation issues within the app
-- **Review the information you entered** link--Two participants did _not_ use this link to go back from the results page to the summary page. They used the Back button in their browser instead, though one participant was concerned that this might exit them out of the app (it didn't). A different participant thought that this link would take them to information that they filled out previously on VA forms (which is incorrect).
-- RECOMMENDATION: Make the link more prominent in location and/or visual treatment/layout (e.g., top of page or button). Maybe see how other websites enable you to view/edit previous information provided.
-- **Get past income limits** link--Two participants had difficulty finding this link on the results page. One of them looked in the "How to estimate your income for this tool" accordion, but this wasn't relevant. They also wanted to click the "Expand all" accordion above the salary ranges. One of the participants said that he was looking for a search tool at various points, but he never found one.
-- RECOMMENDATION: If we want the "Get past income limits" link to be easier to find, consider moving it up higher on the results page.
+- ***Review the information you entered*** link--Two participants did _not_ use this link to go back from the results page to the summary page. They used the _Back_ button in their browser instead, though one participant was concerned that this might exit them out of the app (it didn't). A different participant thought that this link would take them to information that they filled out previously on VA forms (which is incorrect).
+- RECOMMENDATION: Make the *Review the information you entered* link more prominent in location and/or visual treatment/layout (e.g., top of page or button). Maybe see how other websites enable you to view/edit previous information provided.
+- **_Get past income limits_** link--Two participants had difficulty finding this link on the results page. One of them looked in the _How to estimate your income for this tool_ accordion, but this wasn't relevant. They also wanted to click the _Expand all_ accordion above the salary ranges. One of the participants said that he was looking for a search tool at various points, but he never found one.
+- RECOMMENDATION: If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page.
  
-- After 1 participant used the Review Info page to return to the zip code page and then clicked the _Continue_ button, they said they were surprised to see the Dependents page. They expected to see the Review Info page again. Other participants saw this, too, and said that they must be going back through all the screens.
-- RECOMMENDATION: If someone navigates from the Review Info page to another page, consider having the Continue button take you back to the Review Info page instead of the next question.
+- After 1 participant used the _Review Info_ page to return to the zip code page and then clicked the _Continue_ button, they said they were surprised to see the _Dependents_ page. They expected to see the _Review Info_ page again. Other participants saw this, too, and said that they must be going back through all the screens.
+- RECOMMENDATION: If someone navigates from the _Review Info_ page to another page, consider having the _Continue_ button take you back to the _Review Info_ page instead of the next question.
 
 
 ### Participants had difficulty understanding some of the benefit descriptions under the income ranges
@@ -162,7 +162,7 @@ Participants had different interpretations for the **dependents** question. Some
 - RECOMMENDATION: Delete the text "from VBA" in the pension question (or if this must be kept in, write out "Veterans Beefits Administration") because it's confusing as is.
 - RECOMMENDATION: Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean and want to understand.
 
-### The landing page was very long to read on a phone, and participants found it difficult to find one of the two "Check our current income limits" links 
+### The landing page was very long to read on a phone, and participants found it difficult to find one of the two _Check our current income limits_ links 
 The **landing page** in the prototype was a static version of the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) on which the only working links were two copies of "Check our current income limits". When the participant clicked on one of those two links, they saw the prototype screens for the income limits tool.
 
 Scrolling down this very long landing page on a phone took a while, especially for the 3 participants who were reading everything on that page. The two income limits links were several scroll distances down the page, and there was more to the page below these links. 
@@ -170,7 +170,7 @@ Scrolling down this very long landing page on a phone took a while, especially f
 - 1 participant never found either of the income limits links. 
 - Another participant found one of them but continued reading down the page, and when they scrolled back up, they had trouble finding the link again. 
 - 2 other participants missed both links on their first look through the page but found one later. 
-- 6 participants clicked on the first income limits link (in the section "Will I need to pay for any of my care, tests or medications?").
+- 6 participants clicked on the first income limits link (in the section _Will I need to pay for any of my care, tests or medications?_).
 - Only 1 participant clicked on the second income limits link (in the section "Does VA verify the information I provide?"), and they remarked:
 > *"Kind of far down on the page" (p9).*
 
@@ -178,7 +178,7 @@ Scrolling down this very long landing page on a phone took a while, especially f
 
 ### Participants used the salary numbers provided by the moderator to decide which income limit accordion to open on the results page, and most didn't mention their household income or deductions
 
-Most participants (7 of 8) **didn't open the "How to estimate your income for this tool" accordion**, which describes household income and deductions that may apply. Two of them later opened it during the past limits task.
+Most participants (7 of 8) **didn't open the _How to estimate your income for this tool" accordion_**, which describes household income and deductions that may apply. Two of them later opened it during the past limits task.
 3 participants said they expected to use the AGI (Adjusted Gross Income) number from last year's income taxes, assuming household income but no additional deductions. 
 
 > *"I automatically went to the numbers" (p6)*.
@@ -190,7 +190,7 @@ We have data from only 6 of 8 participants because the other 2 participants didn
 - 4 of 6 participants thought that the **benefits were not certain because of the phrase "may be eligible"** above each of the lists of benefits. None of these participants had opened the "How to estimate your income for this tool" accordion, so they were guessing based on the phrasing. 
 
 - **After seeing the app results, here's what participants planned to do next**:
-  - Click on "Find out if you may be eligible" link (4 participants), though this didn't work in the prototype
+  - Click on _Find out if you may be eligible_ link (4 participants), though this didn't work in the prototype
   - Apply for VA health care (1 participant)
   - Do more research to find specific coverages (e.g., copay amounts) before applying for health care, though if income is over 90K, wouldn't do too much more research (1)
   - Call or visit a nearby VA facility (1)
