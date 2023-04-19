@@ -158,34 +158,34 @@ Participants had different interpretations for the **dependents** question. Some
 - One participant entered 2 for his grown kids, which are likely not dependents in the income tax sense.
 - One participant wanted to enter 1 for himself. Was he maybe thinking of income tax exemptions?
 
-- RECOMMENDATION: Clarify the meaning of "dependents" in this question per income taxes or VA rules, and add details to the question so people know how to answer. According to a VA subject-matter expert (in an email dated 4/17/2023), dependents include *your spouse*, unmarried children under 18 (or 18-23 if attending school full-time or disabled prior to reaching age 18), and parents if in the Veteran's direct care and whose net worth and income are below a fixed limit.
-- RECOMMENDATION: Delete the text "from VBA" in the pension question (or if this must be kept in, write out "Veterans Beefits Administration") because it's confusing as is.
-- RECOMMENDATION: Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean and want to understand.
+- RECOMMENDATION: Clarify the meaning of "dependents" in this question per income taxes or VA rules, and add details to the question so people will know how to answer. According to a VA subject-matter expert (in an email dated 4/17/2023), dependents include *your spouse*, unmarried children under 18 (or 18-23 if attending school full-time or disabled prior to reaching age 18), and parents if in the Veteran's direct care and whose net worth and income are below a fixed limit.
+- RECOMMENDATION: Delete the text "from VBA" in the pension question (or if this must be kept in, write out "Veterans Benefits Administration") because it's confusing as is.
+- RECOMMENDATION: Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean and want to understand before answering the question.
 
 ### The landing page was very long to read on a phone, and participants found it difficult to find one of the two _Check our current income limits_ links 
-The **landing page** in the prototype was a static version of the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) on which the only working links were two copies of "Check our current income limits". When the participant clicked on one of those two links, they saw the prototype screens for the income limits tool.
+The **landing page** in the prototype was a static version of the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) on which the only working links were _Check our current income limits_ in two different places on the page. When the participant clicked on one of those two links, they saw the income limits intro page.
 
 Scrolling down this very long landing page on a phone took a while, especially for the 3 participants who were reading everything on that page. The two income limits links were several scroll distances down the page, and there was more to the page below these links. 
 - 2 participants seemed lost in the long page while scrolling. 
 - 1 participant never found either of the income limits links. 
-- Another participant found one of them but continued reading down the page, and when they scrolled back up, they had trouble finding the link again. 
+- Another participant found one of them but continued reading down the page, and when they scrolled back up, had trouble finding the link again. 
 - 2 other participants missed both links on their first look through the page but found one later. 
 - 6 participants clicked on the first income limits link (in the section _Will I need to pay for any of my care, tests or medications?_).
-- Only 1 participant clicked on the second income limits link (in the section "Does VA verify the information I provide?"), and they remarked:
+- Only 1 participant clicked on the second income limits link (in the section _Does VA verify the information I provide?_), and they remarked:
 > *"Kind of far down on the page" (p9).*
 
-- RECOMMENDATION: Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move the income limits app link closer to the top of page.
+- RECOMMENDATION: Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move one of the income limits app links closer to the top of page.
 
 ### Participants used the salary numbers provided by the moderator to decide which income limit accordion to open on the results page, and most didn't mention their household income or deductions
 
 Most participants (7 of 8) **didn't open the _How to estimate your income for this tool" accordion_**, which describes household income and deductions that may apply. Two of them later opened it during the past limits task.
 3 participants said they expected to use the AGI (Adjusted Gross Income) number from last year's income taxes, assuming household income but no additional deductions. 
 
-> *"I automatically went to the numbers" (p6)*.
+> *"I automatically went to the numbers"* [without opening the _How to estimate your income for this tool_ accordion] *(p6)*.
 
-- RECOMMENDATION: Be more explicit about household income and deductions on the results page, without needing to open any accordions. For example, consider changing the first sentence from "We use your last year's income to determine..." to "We use your last year's _household_ income _minus deductions (such as out-of-pocket medical expenses, education costs, and funeral/burial expenses for a spouse or child)_ to determine..."
+- RECOMMENDATION: Be more explicit about household income and deductions on the results page, without using any accordions (since they're weren't opened by most participants). For example, consider changing the first sentence from "We use your last year's income to determine..." to "We use your last year's _household_ income _minus deductions (such as out-of-pocket medical expenses, education costs, and funeral/burial expenses for a spouse or child)_ to determine..."
 
-### After seeing the benefits data on the results page, participants had varying interpretations of it and what to do next
+### After seeing the benefits information on the results page, participants had varying interpretations of it and what to do next
 We have data from only 6 of 8 participants because the other 2 participants didn't get to that task (due to arriving to the session late or dropping off the internet during the session). 
 - 4 of 6 participants thought that the **benefits were not certain because of the phrase "may be eligible"** above each of the lists of benefits. None of these participants had opened the "How to estimate your income for this tool" accordion, so they were guessing based on the phrasing. 
 
