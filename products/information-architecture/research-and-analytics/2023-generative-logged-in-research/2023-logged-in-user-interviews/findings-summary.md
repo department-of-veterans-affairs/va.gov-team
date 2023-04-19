@@ -1,9 +1,7 @@
 # Logged-in Wayfinding Study Research Findings 
 **Office of the CTO - Digital Experience (OCTO-DE), Profile, Account Experience**
 
-`DRAFT`
-
-Date: April 18, 2023
+Date: April 19, 2023
 
 Liz Lantz, liz.lantz@adhocteam.us
 
@@ -135,23 +133,24 @@ All participants understood authenticated parts of VA.gov (My VA, profile, and v
 
 *Above: Screenshot of a test user’s My VA page, showing their name, disability rating, personalized menu, and claim status.*
 
-We asked participants to complete two tasks that required them to be logged in, and would take them to pages that don’t require authentication. Participants understood that content available via the navigation menus  was for all Veterans or potential VA beneficiaries, and wanted to have access to that content when logged in. However, they felt that more personalized information or links on those content pages would be helpful.
+We asked participants to complete two tasks that required them to be logged in, and would take them to pages that don’t require authentication. Participants understood that navigation menus led to content for all Veterans or potential VA beneficiaries, and a few talked about the value in having access to that general information to learn about benefits. 
+
+> VA is not trying to be a seller of new customers; it’s a tool for people who are eligible to their entitlement to be able to access and get into it. Those are two completely different types of situations and paradigms. We’re consumers of the services, we’re not customers…if we have two extremely separate sides of the VA, internal vs external…it gets hard to figure out where you’re trying to go because you’re looking at two completely different portals, and that does become confusing. That’s where it becomes kind of nice to have similar structures in place. - P2
+
+However, as they tried to complete tasks, they wanted more specific, personalized information or links on those content pages.
 
 > I would like to be specific when I’m applying for anything. I felt that, ‘does this really apply to me as well’? Even though I fall into the spectrum of disability, how does that interact with my caregiver benefit? That is where, it was just not giving me that specific information, and that’s why I didn’t feel confident. - P15, trying to understand how other benefits apply to a participant in the VA Caregiver Program
 
 > When I went to education and employment. It talked about GI Bill, but they should know if I’ve already redeemed such and what other educational benefits I might be entitled to. - P5, reflecting on education pages
 
-One participant shared sentiments about how important it is for Veterans to have access to general and personalized information at the same time:
-
-> VA is not trying to be a seller of new customers; it’s a tool for people who are eligible to their entitlement to be able to access and get into it. Those are two completely different types of situations and paradigms. We’re consumers of the services, we’re not customers…if we have two extremely separate sides of the VA, internal vs external…it gets hard to figure out where you’re trying to go because you’re looking at two completely different portals, and that does become confusing. That’s where it becomes kind of nice to have similar structures in place. - P2
 
 ### Participants struggled to find dependent information, which wasn’t linked from the homepage, My VA, or the mega menu links.
 We asked 8 of 9 participants to show us how they would double check if VA had any dependents on file for them (1 participant did not have time for this task in their session). All 8 struggled to find this information, and 4 were not able to complete the task.
 
 - 3 confidently checked their profile first, expecting to find their dependents listed there. These 3 participants had varying levels of familiarity with the website. They also all receive disability compensation from VA, so are more likely to correlate dependents with disability than Veterans who do not receive this benefit.
-- 2 participants tried looking under “Family member benefits”
-- 1 looked under “Service member benefits”
-- 2 participants were scanning pages for the term DEERS, thinking that would help them find the information
+- 2 participants tried looking under “Family member benefits”.
+- 1 looked under “Service member benefits”.
+- 2 participants were scanning pages for the term DEERS (Defense Enrollment Eligibility Reporting System, a system used for Tricare beneficiaries), thinking that would help them find the information.
 - 2 successfully used search because they weren’t sure how else to find it.
 
 > That should be under my profile, or in one of these things here *mousing over My VA sections* because it is basic information about who is loaded. For me, *hesitates,* for disability I get it for my spouse… I don’t know if it would be under disability. *Scrolling up and down My VA* Yeah, I don’t know. 
@@ -269,7 +268,7 @@ Each of these participants had a unique set of needs and challenges finding thei
 ### Conduct research with people who require magnification, to further evaluate usability problems introduced by multi-column layouts in navigation and on content pages.
 This study included one user who needed ZoomText software and someone by their side to use VA.gov. We should conduct more research to better understand challenges people encounter as a first step to improving usability on the site.
 
-### We should recruit for the underserved groups we didn’t get to talk to in this round in our next study.
+### We should recruit for the underserved groups we didn’t get to talk to in this round for our next study.
 Including these people in our next round of research will help our team get a diverse group of perspectives.
 
 
