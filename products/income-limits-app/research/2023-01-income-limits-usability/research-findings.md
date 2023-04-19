@@ -38,16 +38,17 @@ The purpose of this research is to **get user feedback on the newly redesigned i
 
 ## Research Questions
 1. What are Veterans' expectations of income eligibility for VA health care? (ask before showing app)
-1. Where do Veterans expect to find this app? (i.e., Costs of Care page, Eligibility page, etc.)
-1. Do Veterans understand the questions in the app? Is anything unclear or confusing?
-1. Do Veterans find a summary page helpful for verifying the information entered?
-1. Do Veterans understand the income limits presented in the app results page?  Is anything unclear or confusing?
-1. Do Veterans understand the relevant year of income for their eligibility? 
-1. Do Veterans understand the health care benefits shown in the app results page?  Is anything unclear or confusing?
-1. How far do Veterans scroll down the app results page?
-1. Do Veterans understand deductions and how that affects their income? (Did they see the details about this?)
-1. After seeing the information presented in the app results page, what do Veterans want to do next? 
-1. Do Veterans understand that they can use this to find the income limits for a previous year (not 2023)? Reaction to it not being part of the flow?
+     1. **Half of the participants (4 of 8) hadn't heard anything about income eligibility for VA health care**. One of these participants assumed that income wasn't relevant because her husband receives VA health care with his service-connected disability (and so probably not subject to income limits).
+3. Where do Veterans expect to find this app? (i.e., Costs of Care page, Eligibility page, etc.)
+4. Do Veterans understand the questions in the app? Is anything unclear or confusing?
+5. Do Veterans find a summary page helpful for verifying the information entered?
+6. Do Veterans understand the income limits presented in the app results page?  Is anything unclear or confusing?
+7. Do Veterans understand the relevant year of income for their eligibility? 
+8. Do Veterans understand the health care benefits shown in the app results page?  Is anything unclear or confusing?
+9. How far do Veterans scroll down the app results page?
+10. Do Veterans understand deductions and how that affects their income? (Did they see the details about this?)
+11. After seeing the information presented in the app results page, what do Veterans want to do next? 
+12. Do Veterans understand that they can use this to find the income limits for a previous year (not 2023)? Reaction to it not being part of the flow?
 
 
 ## Methodology 
@@ -241,10 +242,7 @@ We heard **additional feedback on the app intro page**. Each of the comments bel
 > *"Maybe there is some small wording that you can put in that encourages Veterans to get these benefits if you need them...I don't want to take away from someone else who needs it more. 'Hey, we encourage you to do this. Let's find out if you're eligible'--like selling it to me. You really want me to find out if I'm eligible. A little positive affirmation. Just don’t add  a lot more reading. It's very cut and dry...not warm and welcoming" (p7)."
 - RECOMMENDATION: Consider adding to the intro page some friendly encouragement/affirmation to use this tool to find out if you're eligible for VA health care.
 
-### Awareness of income limits for VA health care eligibility
-- **Half of the participants (4 of 8) hadn't heard anything about income eligibility for VA health care**. One of these participants assumed that income wasn't relevant because her husband receives VA health care with his service-connected disability (and so probably not subject to income limits).
-
-### How participants looked for income limits without the new app
+### How participants looked for income limits before seeing the new app
 Before showing participants the design prototype for the income limits app, we asked how they would find out if they are eligible for VA health care with their current income.
 - **7 of 8 participants started with a search**--6 of them from Google, and 1 from their phone home screen. 
   - 5 of the 7 who searched sucessfully found the [Annual Income Limits table](https://www.va.gov/healthbenefits/annual_income_limits_health_benefits.asp). 
