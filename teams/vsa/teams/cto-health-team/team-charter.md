@@ -121,4 +121,4 @@ Review accomplishments from prior sprint, what went well, what can be improved, 
   -  [#health-care-products-all-teams](https://dsva.slack.com/archives/C02BTDTEPNH) - Let’s connect the dots across VA’s digital health products so Veterans, doctors, and staff don’t have to.
 
 #### GitHub
-- [Github/Zenhub labels - my-health-INTEGRATION + my-health](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125) -- all work related to MHV on VA.gov needs the `my-health` label, and `my-health-INTEGRATION` label denotes the work being done by the CTO Health Team
+- [Github/Zenhub labels - my-health-INTEGRATION + my-health](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125) -- all work related to MHV on VA.gov needs the `my-health` label, my-health-CTO-HEALTH-TEAM, and `my-health-INTEGRATION` label denotes the work being done by the CTO Health Team
