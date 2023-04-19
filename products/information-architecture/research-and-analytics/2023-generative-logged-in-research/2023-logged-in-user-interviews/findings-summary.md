@@ -5,15 +5,14 @@ Date: April 19, 2023
 
 Liz Lantz, liz.lantz@adhocteam.us
 
-Research readout Link to come
-
 **Jump to:**
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
 * [Key findings](#key-findings)
 * [Recommendations](#recommendations)
 * [Research process insights](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#research-process-insights)
-* [Who we talked to](#who-we-talked-to)
 * [Further research needed](#further-research-needed)
+* [Who we talked to](#who-we-talked-to)
+
 
 ## Research Goals
 Our goal with this research was to identify problems and expectations with navigating the logged-in experience on VA.gov.
