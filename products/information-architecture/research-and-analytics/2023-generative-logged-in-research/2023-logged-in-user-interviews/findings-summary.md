@@ -273,6 +273,10 @@ We’ve been iterating on screen reader recruitment questions, and for this stud
 P1 unexpectedly joined with their caregiver, and we were able to interview both people during the session. This yielded insights we wouldn’t have been able to get otherwise, and we recommend this approach for future studies when we want to better understand the experience of people who have a caregiver or work closely with someone else to navigate VA, or the internet.
 
 ## Further research needed
+
+### Conduct research to validate any changes we make based on recommendations above.
+We’ll need to conduct more research to support any changes we make as a result of the recommendations above.  
+
 ### Conduct research with non-Veterans, and people who are brand new to the site, to better understand what they need from VA.gov.
 This study included some perspectives we haven’t done a lot of research with:
 - A family member who is totally unfamiliar with VA.gov
