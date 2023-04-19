@@ -108,8 +108,9 @@ TBD
 
 ### Stakeholders
 * Melisa Rebstock (VEO)
-* Joe Valentine (with Angela Gant-Curtis)
-* Chris to do email introduction for Kelly to these stakeholders
+* Joe Valentine (with Angela Gant-Curtis) - Technical contact for VIC
+* Molly Burlage - VIC Lead
+* John Lundy - division cheif VEO
 
 
 ### Potential Solutions
@@ -130,7 +131,16 @@ TBD
 
 ### Open Questions
 **Questions for existing VIC:**
-* Is there an API to find which Veterans have a VIC?  
+* Is there an API to find which Veterans have a VIC?
+* Applying for VIC:  
+  * 2 ways to apply, AccessVA or VA.gov but VA.gov isn't working right now
+  * apply online, login.gov doesn't work yet but 
+  * upload gov ID and photo and maybe DD214
+  * Mobile version might not need the photo
+    * Have asked Congress to remove requirement for photo
+  * once 'approved' they are sent an image
+    * Confirming Gov ID, approve photo
+  * There is an ID #
 * Can we access the VIC PDF and surface it (or ideally the data used in the PDF) in the app?
 * Who would we work with in VA for this?
 * What does their audience look like now?  How many Veterans have a VIC?
@@ -139,6 +149,10 @@ TBD
     * What are the discounts and other private-sector benefits Veterans would have access to with their VIC?
     * How frequently do Veterans need to use some form of Veteran ID?
     * Do we have contacts at Home Depot, Lowes, etc. to ensure they would accept any ID card we make that is separate from the VIC?
+      * They had to do Comms to get stores to accept it.  Many do their own credentialing. 
+      * Not TSA standards, VHIC can be
+      * VHIC used to be called VIC so there is naming confusion - VA Employees still call VHIC VIC sometimes
+      * Just stopped doing physical cards last October
 
 **Questions for creating our own digital VIC:**
 * Is there a way to make a digital VIC ‘official’ with the VA, and therefore would be accepted by 3rd parties?
@@ -153,3 +167,14 @@ TBD
 - [How To Apply For A Veteran ID Card](https://www.va.gov/records/get-veteran-id-cards/vic/)
 - [H.R.91 - 114th Congress (2015-2016): Veterans Identification Card Act 2015](https://www.congress.gov/bill/114th-congress/house-bill/91) 
 - [Military Info, Profile Research Findings - Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience - 03/20203](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#military-info-profile-research-findings)
+
+
+### Notes from VIC Meeting
+- Melissa to send Research they did and metrics from last 3 years
+  - existing process and pain points
+  - How many applications are rejected
+  - Confusion with VIC and VHIC
+
+- Don't call it VIC 
+- Average 350 cards a day, Veterans Day has as many applications as month
+- They had done their own research on who gives Veteran Discounts and just called them to tell them to take the ID
