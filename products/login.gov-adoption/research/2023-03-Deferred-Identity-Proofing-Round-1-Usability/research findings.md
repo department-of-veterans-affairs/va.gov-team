@@ -6,7 +6,7 @@ Date: 04/12/2023
 
 Tyler Gindraux [tyler@bluetiger.digital]
 
-[Readout Deck: Need to add link](link)
+[Demo Readout Deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/presentations/sprint%20demos/Login.gov_Adoption_Team_Sprint_17_Demo_04122023.pdf)
 
 <br>
 
@@ -360,15 +360,153 @@ They also to come back to reference information about the migration in case they
 
 ## Recommendations
 
-We're in the process of coming up with recommendations based on this research.
+1. Keep continued access front of mind
+2. Better communicate the urgency of the situation
+3. Use familiar words rather than trying to educate right now
+4. Build greater awareness of Login.gov
+5. Consider how the unauthenticated experience fits in
+6. Share more up front so Veterans know what to expect
+7. Leverage emails to provide detail to Veterans who need it
+8. Explore more touchpoints in the authenticated experience
+
+## Details of recommendations
+
+**1. Keep continued access front of mind**
+
+Veterans prioritize ease of use, which comes from familiarity, when it comes to credentials. The pain of switching accounts usually outweighs the fact that Login.gov is secure or recommended.
+
+When we suggest that Veterans create a new account we should stress the importance of maintaining access to VA services. 
+
+When it gets closer to the sunset deadline, we should urge Veterans to set up a new account by letting them know they’re at risk of losing access.
+
+We recommend:
+- emphasizing continued access to VA benefits and healthcare
+- increasing the number of channels and notifications as we get closer to the sunset deadline
+
+<br>
+
+**2. Better communicate the urgency of the situation**
+
+Even Veterans who understand that they will lose access are unsure how soon they need to act.
+
+This lack of urgency means they may delay setting up an account, or, choose to set up an account but take their time transitioning over while they continue to use their legacy credential.
+
+We should make it clear that this situation is urgent so that Veterans choose to act soon.
+
+We recommend:
+- adding a deadline for DS Logon being sunset
+- updating H1 with a more urgent call to action
+- increasing the number of channels and notifications as we get closer to the deadline
+- requiring Veterans to acknowledge they’ve read something as we get closer to the deadline
+
+<br>
+
+**3. Use familiar words rather than trying to educate right now**
+
+Veterans' focus should be on creating a Login.gov account so they can maintain access to VA services.
+
+With this in mind, now is not the right time to introduce new terms to Veterans, such as VA Digital tools.
+
+Instead of educating Veterans on new terminology right now, we should explain what they need to do in their own words.
+
+We recommend:
+- testing to identify which terms resonate most
+- using descriptive language to describe what Veterans need to do, rather than jargon or new terminology such as ‘verify your identity’
+- removing ‘VA Digital tools’ and replacing it with something Veterans know or say already
+- if we let Veterans defer identity proofing, remove the term ‘VA only Login.gov account’
+
+<br>
+
+**4. Build greater awareness of Login.gov**
+
+Veterans who don't currently use Login.gov tend to be unfamiliar with the credential.
+
+We can use different communication channels to help build a greater awareness of Login.gov. This should help Veterans understand what Login.gov is, how it works with the VA and how to set up an account.
+
+Using familiar visual cues, such as the sign in screen which shows Login.gov, will help further contextualize Login.gov for Veterans.
+
+We recommend:
+- creating a campaign page and video content in collaboration with VEO
+- creating additional blog posts
+- adding a banner about Login.gov 
+- including visual references, for example a screenshot of the sign in screen, when communicating about Login.gov
+
+<br>
+
+**5. Consider how the unauthenticated experience fits in**
+
+Focusing on the authenticated experience lets us directly target Veterans who are at risk of losing access to their benefits and healthcare.
+
+But there's an opportunity to communicate with Veterans in the unauthenticated experience, too.
+
+Without alarming current ID.me or Login.gov users, we can still build awareness of Login.gov and let Veterans know that DS Logon is going away soon.
+
+We recommend:
+- adding a banner about DS Logon sunset
+- elevating Login.gov and ID.me on the sign in screen
+- adding an alert about DS Logon on the sign in screen
+- building greater awareness that you can create an account on the sign in screen
+
+<br>
+
+**6. Share more up front so Veterans know what to expect**
+
+Veterans find it helpful to have more information before they set up an account.
+
+We should explain what’s involved in setting up a Login.gov account, such as, setting up multi-factor authentication and uploading a picture of a state-issued ID.
+
+If we leverage examples that are familiar to Veterans, such as receiving a 6-digit code via text, they’ll be more likely to understand what to expect.
+
+We recommend:
+- explaining what account creation involves including how long it will take
+- creating content that can be referenced later, for example, via email or in outreach materials
+- letting Veterans know where to get help
+- testing with Veterans to better understand issues with remote identity verification
+
+<br>
+
+**7. Leverage emails to provide detail to Veterans who need it**
+
+Email provides an opportunity to offer more information to Veterans with legacy credentials.
+
+Over email Veterans can learn more while they're not distracted by another task.
+
+If they need to, they’ll also be able to come back to the information for reference later on.
+
+This will help prime Veterans when they receive other direct communications within the authenticated experience.
+
+We recommend:
+- developing a comprehensive email campaign to eligible Veterans
+- testing subject headlines for phishing or scamming concerns
+- email Veterans after they set up an account to remind them of what they just did
+- letting Veterans know where to get help
+
+**8. Explore more touchpoints in the authenticated experience**
+
+When Veterans are signed in to VA.gov with DS Logon, we should explore additional ways of reminding Veterans to create a Login.gov account, besides just a modal.
+
+This will help increase awareness through additional channels while also promoting a greater sense of urgency willing Veterans to take action.
+
+We recommend:
+- sending notifications in VA profile
+- testing alternative ways of using a modal, including how soon after sign in it appears
+- letting Veterans click ‘remind me later’ for reassurance they’ll have another chance
 
 ## Next steps
 
-We're in the process of coming up with next steps based on this research.
+We are adding research, design and content tasks to our Login.gov Adoption Team backlog with the aim to pick this up in the coming sprints. We will also update our product outlines based on this additional product context.
 
 ## Further research needed
 
-We're in the process of coming up with further research recmomendations based on this research.
+We recommend:
+- testing to identify which terms resonate most
+- testing subject headlines for phishing or scamming concerns
+- testing alternative ways of using a modal, including how soon after sign in it appears
+- testing with Veterans to better understand issues with remote identity verification
+
+We've partnered with the Identity Core Team on an [upcoming research study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2023-04%20Proactive%20CSP%20Migration) that will address these first 3 recommendations (among other research questions).
+
+We're continuing discussions with Login.gov to learn more about issues with remote identity verification, before we make further recommendations on this.
 
 ## Appendix
 
@@ -392,9 +530,7 @@ We're in the process of coming up with further research recmomendations based on
 
 ### Other supporting documents created
 
-[Demo Readout Deck: Need to add link]()
-
-[VA Monday Design Readout: Need to add link]()
+[Demo Readout Deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/presentations/sprint%20demos/Login.gov_Adoption_Team_Sprint_17_Demo_04122023.pdf)
 
 ### Secondary research
 
