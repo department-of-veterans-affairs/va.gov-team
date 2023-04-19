@@ -301,47 +301,47 @@ We talked to 9 participants in total.
 * Family members of a Veteran: 1  
 
 **Gender:**
-* Male: X 
-* Female: X 
-
+* Male: 5 
+* Female: 3 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
 
 **LGBTQ+:**
-X
+- 1 participant self-identified as belonging to this community
 
 **Devices used during study:** 
-* Desktop: X 
+* Desktop: 7 
 * Tablet: 0 
-* Smart phone: X 
+* Smart phone: 2 
 * Assistive Technology: 3
 
 **Age:**
-* 25-34: X
-* 35-44: X
-* 45-54: X
-* 55-64: X
-* 65+: X
+* 25-34: 1
+* 35-44: 3
+* 45-54: 0
+* 55-64: 3
+* 65+: 2
 
 **Education:**
-* High school degree or equivalent: X
-* Some college (no degree): X
+* High school degree or equivalent: 2
+* Some college (no degree): 2
 * Associate's degree, trade certificate or vocational training: X
-* Bachelor's degree: X
-* Master's degree: X
-* Doctorate degree: X
-* Unknown: X
+* Bachelor's degree: 3
+* Master's degree: 2
+* Doctorate degree: 0
+* Unknown: 0
 
 **Geographic location:**
-* Urban: X
-* Rural: X
-* Unknown: X
+* Urban: 4
+* Rural: 4
+* Unknown: 1
 
 **Race:**
-* White: X
+* White: 5
 * Black: 2
 * Hispanic: 1
-* Biracial: 2
+* Biracial: 2 (these are also counted under other categories, where participants marked more than one option)
 * Asian: 1
-* Native: X
+* Native: 0
 
 **Disability and Assistive Technology (AT):**
 * Cognitive: 4
@@ -356,17 +356,19 @@ X
 * Sighted keyboard: 0
 * Captions: 0
 
-
 ## Underserved groups we haven’t talked to 
 This research does not include the perspectives of the following marginalized Veteran groups:
 * Other than honorable 
 * Immigrant origin 
 * Expat
 * Gay, lesbian, or bisexual
-* Transgender
 * Speech input technology users
 * Hearing Aids
 * Sighted Keyboard
 * Captions
 * Switch Device
 * Braille Reader
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/images/logged-in-ia-equality-checker.png" alt="Screenshot of spreadsheet detailing the participant information above" width="500" />
+
+*Above: screenshot from the VA Recruitment Checker for Equality spreadsheet, which visualizes the demographic information for marginalized groups listed above*
