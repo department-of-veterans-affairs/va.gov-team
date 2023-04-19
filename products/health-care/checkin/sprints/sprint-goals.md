@@ -13,7 +13,9 @@ ________________________________________________________________________________
 - **GOAL: Address tech & design debt** 
 
 #### PLANNED RELEASES 
-- None
+- [Add Facility Address to Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54865)
+- [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)
+    - A/B test only
 
 #### SPRINT TICKETS
 - **GOAL: Assume Control of CHIP & LoROTA APIs**
