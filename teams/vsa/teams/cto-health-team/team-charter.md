@@ -117,12 +117,13 @@ Review accomplishments from prior sprint, what went well, what can be improved, 
 
 | Meeting | Date | Purpose | Presenter/Lead |
 |-|-|-|-|
-| MHV Scrum of Scrums | Mondays | Includes MHV classic and MHV on VA.gov teams. Purpose is to inform what's coming with the new MHV | Lynne; new PM |
-| 2 | Small | ~2-3 days / ~16-24 hrs | Work is known, and can be completed with minimal hours |
-| 3 | Medium | ~3-4 days / ~24-48 hrs | Work is known, and can be completed in a couple days |
-| 5 | Large  | ~5 days / ~40 hrs | Work is known and can be completed in half a sprint | 
-| 8 | XLarge | ~6-8 days/ ~40-60 hrs | Work is complex and/or there might be unknown factors that need to be discussed prior to planning. Once further information is known, attempt to brake down into smaller tasks that can be completed in a sprint with certantity. |
-| 13 | XXLarge |  | Very complex, needs discovery or prototype before it can be planned for a sprint. |
+| MHV Scrum of Scrums | Monday (weekly) | Provide MHV on VA.gov updates to all MHV and MHV classic teams. | Lynne; new PM |
+| VFS Team od Teams | Tuesday (weekly) | Provide MHV on VA.gov updates to all VFS teams | Lynne |
+| MHV on VA.gov Weekly Stand Up | Wednesday (weekly) | Provide MHV on VA.gov updates to all MHV on VA.gov adjacent teams | Patrick, Lynne back up |
+| MHV Weekly Design Review | Wednesday (weekly) | Provide MHV on VA.gov updates (UCD/UX, Developers, Testers, Product, and Stakeholder updates) | Team round robin as needed | 
+| MHV Scrum of Scrums | Thursday (weekly) | Provide MHV on VA.gov updates to all MHV and MHV classic teams. | Lynne; new PM |
+| Health Apt Team Track Updates | Thursday (weekly) | Attendee updates (stand up format), topic specific discussion as needed | Lynne |
+| Roadmap Alignment | Monthly | Review Roadmap, clarify priorities, ask questions, make adjustments  | Lynne, Team as needed |
 
 #### Slack:
 - Slack is our primary form of communication outside meetings.  It is encouraged that we communicate in public channels rather than private channels or direct messages, except when necessary.  Please thread your replies, and @ whoever you need to specifically provide info to, or need feedback from.  Channels:
