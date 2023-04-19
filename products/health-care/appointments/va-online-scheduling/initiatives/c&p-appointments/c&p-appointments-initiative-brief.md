@@ -1,31 +1,33 @@
 # Initiative Brief - Compensation and Pension Appointments
 ## Overview
 
-Looking to display the Compensation and Pension Appointments in VAOS. This feature would allow Veterans to view their upcoming and past Compensation and Penesion exam appointments. 
+Looking to display the Compensation and Pension Appointments in VAOS. This feature would allow Veterans to view their upcoming and past Compensation and Pension exam appointments. 
  
 ---
 
 ## Outcome Summary
 
-A user can view their C&P appointments in VAOS 
+Compensation and Pension exams appear in the upcoming and past appointment lists for users.
 
 **Related/Associated product(s)**
 - 
 
 ## Problem
 * What is the problem and who is affected? And, what evidence do we have of the problem?
-  - Since we moved to the VAOS v2 services, the Compensation and Pension appointments are being fetched to VAOS. The VAOS app displays the Compensation and Pensions appointments as health appointments and may be confusing to the Veteran it is actually their Compensation and Pension exam. 
+  - Since we moved to the VAOS v2 services, the Compensation and Pension appointments are being passed to VAOS. The upcoming and past appointment list displays the Compensation and Pensions appointments as health appointments and may be confusing to the Veteran if it is actually their Compensation and Pension exam.  A same issue appears when viewing the details of an appointment. 
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
-  - Current functionality 
+  - Current functionality was not designed to look for C&P appointments and display them differently from regular health appointments
 * How does this initiative help further OCTO-DE's mission and goals?
   - Improve user satisfaction
   - Meet user expectations 
 
 
 ## Desired Outcomes
+- C&P appointments are displayed as Compensation and pension exam instead of showing type of care
 - User can view the appointment details for their Compensation and Pension exam
 
 ## Undesired Outcomes
+- C&P appointments are listed showing type of care
 - User cannot view their C&P appointment details in VAOS 
 
 ## Key Decisions
