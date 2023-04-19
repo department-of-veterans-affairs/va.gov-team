@@ -38,7 +38,7 @@ The purpose of this research is to **get user feedback on the newly redesigned i
 
 ## Research Questions
 1. What are Veterans' expectations of income eligibility for VA health care? (ask before showing app)
-     1. **Half of the participants (4 of 8) hadn't heard anything about income eligibility for VA health care**. One of these participants assumed that income wasn't relevant because her husband receives VA health care with his service-connected disability (and so probably not subject to income limits).
+     1. **Half of the participants (4 of 8) hadn't heard of income eligibility for VA health care**. One of these participants assumed that income wasn't relevant because her husband receives VA health care with his service-connected disability (and so probably not subject to income limits).
 3. Where do Veterans expect to find this app? (i.e., Costs of Care page, Eligibility page, etc.)
 4. Do Veterans understand the questions in the app? Is anything unclear or confusing?
 5. Do Veterans find a summary page helpful for verifying the information entered?
