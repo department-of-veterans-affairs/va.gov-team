@@ -132,12 +132,12 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 
 ### Participants had difficulty understanding some of the benefit descriptions under the income ranges
-Participants found some of the text to be ambiguous, which made it difficult for them to understand the specific benefits and compare them across income ranges. Each of the phrases below was questioned by 3 of 8 participants (but not the same participants for each): 
+Participants found some of the text to be confusing and/or ambiguous, which made it difficult for them to understand the specific benefits and compare them across income ranges. Each of the phrases below generated questions by 3 of 8 participants (but not the same participants for each): 
 - **"VA health care"**--medical? dental? vision? only at a VA hospital?
-- **"most types of care"**--outpatient office visits for routine appointments and for illness? lab work and screenings? inpatient care? surgery? dental? vision? for dependents, too?
+- **"most types of care"**--outpatient office visits for routine appointments? appointments for illness? lab work and screenings? inpatient care? surgery? dental? vision? for dependents, too?
 - **"copays" *vs.* "full copays"**--dollar amounts? how much for surgery and is there a limit? 
 
-> *"I don't understand. I would have to ask someone or look it up" (p8)*
+> *"I don't understand. I would have to ask someone or look it up" (p8)*.
 
 - RECOMMENDATION: Add more description to the benefits and/or provide links to details for "VA health care", "most types of care", "copays", and "full copays".
 - RECOMMENDATION: Consider standardizing the bullets for each benefit so it's easier to compare them across income ranges: 
@@ -150,7 +150,7 @@ Participants found some of the text to be ambiguous, which made it difficult for
 1 participant didn't know what **"Housebound allowance"** meant, but assumed they didn't have it.
 In the question *Did you get a VA pension from VBA last year?*, 1 participant didn't know what **"VBA"** meant and said that they felt embarrassed about it and also distracted from the task at hand.
 
-> *"I get embarrassed when I don’t know what things mean when they are asked. It also makes me start questioning if I should be receiving these other things, and it gets me off track. Makes me want to look into those things." (p7)*
+> *"I get embarrassed when I don’t know what things mean when they are asked. It also makes me start questioning if I should be receiving these other things, and it gets me off track. Makes me want to look into those things" (p7)*.
 
 Participants had different interpretations for the **dependents** question. Some said they would enter what they put on their income taxes, and others remembered this information incorrectly or might have been thinking of the VA's definition of dependents, which includes your spouse.
 - Half of the participants entered what they put on their income taxes, though one said that he'd ask his wife what that was because she does their taxes. 
