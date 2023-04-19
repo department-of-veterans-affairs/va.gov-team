@@ -24,8 +24,8 @@ Reduce the time it takes for a Veteran to achieve an outcome through self-servic
 ## Who we are
 CTO Health Team
 - [ ] Lauren Alexanderson (OCTO Product Sponsor) - please work with [Alicia Proctor](https://dsva.slack.com/team/U022MUJ2NAJ), Lauren's executive assistant to schedule meetings.
+- [ ] Leila Rassi (OCTO Product Lead)
 - [ ] Lynne Johnson (Delivery Manager)
-- [ ] Marci McGuire (Product Manager)
 - [ ] Cara Frissell (Research Lead)
 - [ ] Jonathan Nelson (Designer)
 - [ ] Carlos Felix (Technical Architect)
@@ -38,6 +38,8 @@ CTO Health Team
 ## How we work
 
 ### Workflow + Cadence
+ - 2 week sprints (start every other Wednesday)
+ - Quarterly plans broken down into sprint plans
 
 #### Stand-up
 - Check in on people and product progress
@@ -75,10 +77,10 @@ Since our work is closely realted, we have been participating in PI planning wit
 We have created a [PI Planning board in ZenHub](https://app.zenhub.com/workspaces/mhv-to-vagov-cto-team-pi-10-integration-planning-board-63a31dce3fe3310026840f42/board) on which we list each person's capacity for a given sprint, then use it to plan work out for the PI.  This board can filtered by assignee to compare assigned work to their capacity.  This board can be re-used for each new PI by updating the PI number, dates, sprint numbers, team members, and their capacity (typically calculated as 8 points per sprint minus one point for each day of planned time off).
 
 #### Sprint Planning
-Outline work to be done this sprint in order to accomplish the team's goals
+Outline work to be done this sprint in order to accomplish the team's goals.
 
 - Monday before the start of each sprint @2PM ET
-- 1 hour
+- 75 minutes
 
 #### Backlog Refinement
 Assess and update workload for remainder of sprint
@@ -99,7 +101,7 @@ Assess and update workload for remainder of sprint
 | 13 | XXLarge |  | Very complex, needs discovery or prototype before it can be planned for a sprint. |
 
 #### Retro
-Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action items
+Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action/improvement items
 
 - Following Sprint Planning each sprint 
 - [Mural retro meeting notes](https://app.mural.co/t/departmentofveteransaffairs9999/r/1646265288521?folderUuid=71665ae5-6949-4418-b43e-4c15ff8977fa)(requires VA.gov email + invitation to join room)
