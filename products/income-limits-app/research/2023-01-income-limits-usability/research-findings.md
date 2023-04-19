@@ -245,9 +245,9 @@ We heard **additional feedback on the app intro page**. Each of the comments bel
 - **Half of the participants (4 of 8) hadn't heard anything about income eligibility for VA health care**. One of these participants assumed that income wasn't relevant because her husband receives VA health care with his service-connected disability (and so probably not subject to income limits).
 
 ### How participants looked for income limits without the new app
-Before showing participants the design prototype for the new income limits app, we asked how they would find out if they are eligible for VA health care with their current income.
+Before showing participants the design prototype for the income limits app, we asked how they would find out if they are eligible for VA health care with their current income.
 - **7 of 8 participants started with a search**--6 of them from Google, and 1 from their phone home screen. 
-  - 5 of the 7 who searched found the [Annual Income Limits table](https://www.va.gov/healthbenefits/annual_income_limits_health_benefits.asp). 
+  - 5 of the 7 who searched sucessfully found the [Annual Income Limits table](https://www.va.gov/healthbenefits/annual_income_limits_health_benefits.asp). 
   - 2 participants couldn't find anything relevant after several google searches. They kept landing on the [non-modernized benefits.va.gov page](https://benefits.va.gov/benefits/) and not finding anything about income limits there.
 - 1 participant went straight to VA.gov, looked in the Health care box of links, but couldn't find anything relevant. Then they used site search, and found the [Annual Income Limits table](https://www.va.gov/healthbenefits/annual_income_limits_health_benefits.asp).
 - 1 participant who found the [Annual Income Limits table](https://www.va.gov/healthbenefits/annual_income_limits_health_benefits.asp) said that they would contact an attorney to find out which group they're in.
@@ -290,11 +290,6 @@ e.g. mural boards, etc.
 ## Pages and applications used
 
 [Prototype](https://www.figma.com/proto/pqSQOl4IodScHhobr0GkbD/Income-Limits-Prototype?page-id=201%3A1943&node-id=202-3001&viewport=1270%2C1287%2C0.36&scaling=min-zoom&starting-point-node-id=202%3A3001&hotspot-hints=0)
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
 
 
 ## Who we talked to 
