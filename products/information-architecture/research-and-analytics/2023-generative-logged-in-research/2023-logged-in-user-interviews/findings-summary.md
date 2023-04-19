@@ -37,7 +37,7 @@ Our goal with this research was to identify problems and expectations with navig
 * What are people’s expectations of the website experience after they’ve logged in?
 * How do people differentiate “logged in / authenticated” parts of the website, and “unauthenticated” parts of the website? 
 * Does the current experience cause confusion?
-* How do navigation needs and expectations differ between user types?
+* How do navigation needs and expectations differ between user types (Veterans, caregivers, and family members)?
 
 ## Methodology 
 We conducted sessions remotely via Zoom, using screen sharing to observe participants completing tasks related to their VA benefits. 
@@ -78,11 +78,10 @@ To come when details are finalized.
 	- They had to be directed to VA.gov by the moderator.
 	
 Everyone expected to have to log in to see personalized information, and 7 of 9 did so via the sign-in button in the header.  
-- No one had to be prompted to sign in. 
-- 2 participants were already logged in when screen sharing began, so we could not tell what the clicked to log in.
+- No one had to be prompted by the moderator to sign in.
+- To prepare for the session, 2 participants had already logged in when screen sharing began, so we could not tell what the clicked to log in.
 
 ### Participants relied on the homepage and My VA to navigate less than we expected; instead they used a variety of methods to get to their tasks.
-
 8 of 9 participants started their session with a task that was linked from the homepage or My VA, and it was no surprise that they used that link to quickly get to where they wanted to go.  When we asked them to find another way to get to the same information, and to complete other tasks later in the session, we saw variations in how people navigated the website.
 
 4 of 9 primarily used the mega menu to navigate, with site search as a back-up for tasks that were hard to find, like viewing dependents.  The ease with which people navigated with the menu depended on the context they had around their task, and if the task was surfaced in the second layer of the menu. 
@@ -126,7 +125,6 @@ When participants clearly understood the category for their task, they had no pr
 > P1: Many times when I can’t find something, I’ll use secure messaging or call my VIST [Visual Impairment Services Team] coordinator. He’s good on the computer and he’ll point me in the right direction.
 
 ### Participants perceived authenticated parts of VA.gov as being personalized to them, and unauthenticated parts of the website as general information for anyone visiting the site.
-
 All participants understood authenticated parts of VA.gov (My VA, profile, and various tools they encountered) were personalized to them. They called out specific things such as their claim status, appointments, the name tag content, and name in the global header as signifiers that they were logged-in and seeing personalized information.
 
 > This is *my* VA. This is stuff that the VA is giving me, how the VA cares for me, the benefits that I get. - P7
@@ -148,7 +146,6 @@ One participant shared sentiments about how important it is for Veterans to have
 > VA is not trying to be a seller of new customers; it’s a tool for people who are eligible to their entitlement to be able to access and get into it. Those are two completely different types of situations and paradigms. We’re consumers of the services, we’re not customers…if we have two extremely separate sides of the VA, internal vs external…it gets hard to figure out where you’re trying to go because you’re looking at two completely different portals, and that does become confusing. That’s where it becomes kind of nice to have similar structures in place. - P2
 
 ### Participants struggled to find dependent information, which wasn’t linked from the homepage, My VA, or the mega menu links.
-
 We asked 8 of 9 participants to show us how they would double check if VA had any dependents on file for them (1 participant did not have time for this task in their session). All 8 struggled to find this information, and 4 were not able to complete the task.
 
 - 3 confidently checked their profile first, expecting to find their dependents listed there. These 3 participants had varying levels of familiarity with the website. They also all receive disability compensation from VA, so are more likely to correlate dependents with disability than Veterans who do not receive this benefit.
@@ -163,8 +160,20 @@ We asked 8 of 9 participants to show us how they would double check if VA had an
 > 
 > That was very painful, and it should not be that hard to find. - P7
 
-### My VA contributed to a sense of ease and personalization for participants who used it during their session.
+### 5 of 9 participants talked about redundancies and complexities while navigating the VA website after logging-in.
+When reviewing the personalized menu, 2 participants called out the redundancy of having My VA and My HealtheVet linked there, and in the global header. They didn’t have a preference about where the links should live if they were only shown once.
 
+> Just have the sign out button here and get rid of all these other options [in personalized menu], Or get rid of all these other buttons [in global header], and make this [personalized menu] worth something. I don’t know.  There’s not a lot of choices there. - P7
+
+2 screenreader users we interviewed talked about how simplifying the logged-in navigation would make it easier to navigate the site. One completely avoided using the navigation based on previous experiences on the website.
+
+> It [navigation menu] is nicely organized. I’m not faulting the VA on that. You could strip away a couple of the layers to streamline things a little bit…but when it comes to the screenreader there’s a whole lot up there you need to navigate through. - P2
+
+The other screenreader user talked about preferring a streamlined menu after logging in, where priority would be given to personalized items, with a single jumping off point to more general information.
+
+> Thinking about being a person that uses a screenreader, I do wish that some of these menus were a little more streamlined and more straightforward. So if there was a way - if you’re not logged in, you see the general menu, but then if you are logged in, [accessing] the more general information just from the personalized menu. - P15
+
+### My VA contributed to a sense of ease and personalization for participants who used it during their session.
 At the conclusion of our session, we asked participants to reflect their VA.gov experience compared to another website they log into regularly to complete tasks; many referred to their banking website (e-commerce and insurance websites came up too). Participants described private sector websites as being focused on them, since they listed recent transactions, accounts, and other personalized information.
 
 Participants who were redirected to My VA after logging in felt they experienced a similar level of personalization. Although they still wished for links to personalized content on unauthenticated pages, My VA helped them get directly to their most important tasks.
@@ -187,47 +196,78 @@ The participants who hadn’t seen My VA during their session reacted positively
 
 
 ## Additional Insights
-### Streamlining the current navigation structure could improve the logged-in user experience.
-5 of 9 participants talked about redundancies and complexities while navigating the VA website after logging-in.
-
-When reviewing the personalized menu, 2 participants called out the redundancy of having My VA and My HealtheVet linked there, and in the global header. They didn’t have a preference about where the links should live if they were only shown once.
-
-> Just have the sign out button here and get rid of all these other options [in personalized menu], Or get rid of all these other buttons [in global header], and make this [personalized menu] worth something. I don’t know.  There’s not a lot of choices there. - P7
-
-2 screenreader users we interviewed talked about how simplifying the logged-in navigation would make it easier to navigate the site. One completely avoided using the navigation based on previous experiences on the website.
-
-> It [navigation menu] is nicely organized. I’m not faulting the VA on that. You could strip away a couple of the layers to streamline things a little bit…but when it comes to the screenreader there’s a whole lot up there you need to navigate through. - P2
-
-The other screenreader user talked about preferring a streamlined menu after logging in, where priority would be given to personalized items, with a single jumping off point to more general information.
-
-> Thinking about being a person that uses a screenreader, I do wish that some of these menus were a little more streamlined and more straightforward. So if there was a way - if you’re not logged in, you see the general menu, but then if you are logged in, [accessing] the more general information just from the personalized menu. - P15
- 
 ### Having to authenticate across multiple sites created a confusing, depersonalized experience.
-
-5 of 9 participants experienced frustration and/or confusion during the log in process. It took an advanced screenreader user nearly 10 minutes to complete the login process. Users who logged in on MHV and then had to log in again on VA.gov were particularly frustrated. One participant didn’t use the site navigation at all during the session because they were afraid they’d have to sign in again.
+5 of 9 participants experienced frustration and/or confusion while logging in. It took an advanced screenreader user nearly 10 minutes to complete the login process. Users who logged in on MHV and then had to log in again on VA.gov were particularly frustrated. One participant didn’t use the site navigation at all during the session because they were afraid they’d have to sign in again.
 
 > I was about ready to quit. It seems like it takes a long time, and then it also seems to me like you are duplicating steps. - P9
 
 > I was actually afraid that if I clicked everything outside of this *mouses 4 boxes on homepage* I would get signed out.  - P6
 
-### Requesting travel reimbursement is a pain point.
-Although it wasn’t the focus of our research, challenges around requesting travel reimbursement organically came up in multiple sessions. It’s clear this is a negative experience for Veterans.
+### Modals and opening links in new tabs created usability hurdles for some users, especially those without full vision.
+Multiple participants were unexpectedly presented with modals or links opening in new tabs during their session, causing them to become flustered or make mistakes.
+
+> Ok y’all need to get rid of that stupid pop up thingy. I don’t want to go to the new homepage. - P2, after dismissing the “try the new homepage” modal multiple times
+
+> Those [modals], for him, are really distracting, because he has the screen enlarged and if an ad pops up, the screen will moves over to the ad. The screen is constantly changing for him. - P1’s caregiver
+
+> Can he X out of all these tabs, so he doesn’t have so many open? - P1’s caregiver
+
+- A screenreader participant accidentally closed out of the tab where they were logged in, and had to restart the browser to start over.
+- Sighted participants were caught off guard when links opened in new tabs, and and had to revisit multiple open tabs to figure out how to get back to where they wanted to be.
+
+### People using magnification struggle with multi-column layouts.
+One participant in our study used ZoomText, and needed anywhere from 4-7x magnification, depending on the page.  They repeatedly shared frustrations and challenges with multi-column layouts on VA.gov.
+
+> Because of his vision loss, if all the choices were on one side of the screen, like on the far left hand side of the screen, and you just went there, and even search could be one of the choices. But it would just list all the choices for that site, and you either found it or clicked on the search… moving all over the screen, it’s difficult for him. - P1’s caregiver
+
+> If all of this was in one column… you always read left to right… if I’m on the left side of the page instead of trying to go across the page, across 2-3 different [columns]… it would make it a lot easier for me. - P1
+
+The navigation menu also presented some challenges:
+
+> I can only see 2 [columns] on the screen at a time. And then to get this one, manage your benefits and the comparison tool, I have to move my magnifier over….and I’d have to have it a little bigger than this for it to actually be comfortable to read. - P1
+
+### The process of requesting travel reimbursement is a pain point.
+Although it wasn’t the focus of our research, challenges around requesting travel reimbursement organically came up in multiple sessions. 
+- 2 participants were pleasantly surprised to come across the link on My VA, and talked about how that would make it easier to find the place to upload their travel letter.
+- 1 participant and their caregiver shared frustrations with every aspect of the process, especially navigating the website using magnification tools. They stated this is the number one problem they want to talk about when they participate in research sessions, in hopes of it being fixed someday.
 
 > You really have to be a computer wiz to upload a travel letter. He says he goes to a provider outside of the VA and he does for his back. But trying to get that letter, that he went to the appt, upload it so he can get travel benefits for it, is almost impossible. - P1’s caregiver
 
+We’ve heard about this pain point in other research sessions too. It’s clear this is a negative experience for Veterans.
+
+
 ## Recommendations
-### Consider making My VA the logged in homepage.
-Participants felt My VA gave them more direct
+### Make My VA the true logged-in homepage.
+Based on what we saw in this study, the current homepage isn’t useful for people who are logged-in to VA.gov.
+- Participants felt My VA gave them direct access to their most important tasks, and recognized the redundancy of those links on the homepage. This aligns with their expectations of a modern digital experience, based on private sector websites.
+- Participants who used the homepage to navigate, instead of My VA, only did so because they were unfamiliar with the site. Once they saw My VA, they preferred it to the homepage.
+- The new homepage design does not elevate top tasks for logged-in users in the same way My VA or the current homepage does, which may make it significantly less useful than My VA once it launches.
 
-### Consider how we can improve direct access to personalized content throughout VA.gov.
-Participants had a hard time finding personalized information that wasn’t already surfaced on My VA or in the profile, especially viewing their dependents.  
+### Reconsider the logged-in navigation, including the personalized menu.
+Links in the personalized menu are duplicated in the global navigation, and many links in the mega menu are repeated on My VA.  The personalized menu hasn’t been revisited in the 5 years since it’s launched, and we now have many more personalized tools on VA.gov. We should identify ways we can streamline and improve navigation options, while maintaining ease-of-access to top tasks from anywhere on the website.
 
+### Explore how we can increase access to personalized content throughout VA.gov.
+Participants had a hard time finding personalized information that wasn’t already surfaced on My VA or in the profile.  We should identify what we might be able to surface throughout the site that don’t currently have personalized information people have to hunt for.  This exploration should include:
+- Identifying pages in the benefit hubs where it makes sense to surface or link to personalized content when a person is logged in.
+- Identifying what we might be able to surface in profile and My VA that we aren’t already showing, like dependents and benefit letters. 
+- Consider if there are ways we can display information, rather than link to it, to give Veterans more direct access to their tasks.
 
-	
+### Cross-reference these findings with previous research we did to identify issues with the logged-in IA and navigation.
+We conducted 3 other research activities ([research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research)) to answer questions about logged-in IA and navigation. Now we need to take a holistic view across all findings, and make a plan for next steps.	
 	
 ## Research Process Insights
 ## Further research needed
-### We should do more research with non-Veteran users of VA.gov to better understand what they need from VA.gov.
+### Conduct research with non-Veterans, and people who are brand new to the site, to better understand what they need from VA.gov.
+This study included some perspectives we haven’t done a lot of research with:
+- A family member who is totally unfamiliar with VA.gov
+- A caregiver/family member who was moderately familiar with VA.gov
+- A participant in the Caregiver program who was very familiar with VA.gov
+- A Veteran who was totally unfamiliar with VA.gov
+
+Each of these participants had a unique set of needs and challenges finding their way around the site. It would be helpful to better understand how we can improve the experience for them, especially as we scale the site to add non-veteran user roles ([previous research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/user-roles/discovery)).
+
+### Conduct research with people who require magnification, to further evaluate usability problems introduced by multi-column layouts in navigation and on content pages.
+This study included one user who needed ZoomText software and someone by their side to use VA.gov. We should conduct more research to better understand challenges people encounter as a first step to improving usability on the site.
 
 ### We should recruit for the underserved groups we didn’t get to talk to in this round in our next study.
 Including these people in our next round of research will help our team get a diverse group of perspectives.
