@@ -264,6 +264,15 @@ Multiple participants in our study became confused and/or frustrated by these un
 We conducted 3 other research activities ([research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research)) to answer questions about logged-in IA and navigation. Now we need to take a holistic view across all findings, and make a plan for next steps.	
 	
 ## Research Process Insights
+### We had to sacrifice some of our recruitment criteria due to the order in which participants were recruited. 
+There were 3 spots left open for multiple days leading up to the study: Perigean was looking for participants who were family members or caregivers, had a cognitive impairment, *and* used screen readers. Our criteria didn’t specify that one person had to meet all of these criteria, but due to the order which the spots were filled, this is what remained. We wonder if a more strategic recruiting approach would have mitigated this, and will discuss this for future studies during the recruitment kick-off call.
+
+### Our screener questions for screen reader users worked well.
+We’ve been iterating on screen reader recruitment questions, and for this study ([screener questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/research-plan.md#screener-questions)), all participants who showed up for their sessions used their screenreader during the session as they described during recruitment.  This has not been the case in the past.
+
+### We can learn a lot from sessions that include participants and their caregivers.
+P1 unexpectedly joined with their caregiver, and we were able to interview both people during the session. This yielded insights we wouldn’t have been able to get otherwise, and we recommend this approach for future studies when we want to better understand the experience of people who have a caregiver or work closely with someone else to navigate VA, or the internet.
+
 ## Further research needed
 ### Conduct research with non-Veterans, and people who are brand new to the site, to better understand what they need from VA.gov.
 This study included some perspectives we haven’t done a lot of research with:
