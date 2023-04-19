@@ -430,6 +430,7 @@ We recommend:
 - creating additional blog posts
 - adding a banner about Login.gov 
 - including visual references, for example a screenshot of the sign in screen, when communicating about Login.gov
+- considering how MHV coordinators can be empowered to introduce Login.gov to more Veterans
 
 <br>
 
