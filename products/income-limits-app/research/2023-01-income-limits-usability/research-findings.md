@@ -51,7 +51,15 @@ The purpose of this research is to **get user feedback on the newly redesigned i
 
 
 ## Methodology 
-We will conduct **usability testing** to guide research participants through a click-through prototype. Sessions will be conducted over Zoom.
+We conducted **usability testing** on April 5-11 to get feedback from research participants using a click-through prototype over Zoom. Perigean recruited the participants.
+
+**We talked to 8 Veterans**, one of whom was also a Veteran's family member.
+- 8 used a smartphone for the session and 2 used a computer
+- ALL did NOT have VA health care
+- ALL do NOT receive a pension from the VA
+- ALL do NOT get VA disability compensation for a service-connected disability rating of 50% or higher
+
+6 of the 8 participants used their smartphone for the session, and the other 2 used a computer. For more details, see [Who we talked to](#who-we-talked-to).
 
 
 ## Hypotheses and Conclusions
@@ -102,8 +110,9 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 ### All participants understood the purpose of the app and found it easy to use
-- All participants understood what the app was for--to find out if they might be eligible for VA health care based on their income before applying.
+- All participants understood what the app was for--to find out  before applying if they might be eligible for VA health care based on their income.
 > *"Figure out even if I'm eligible by income before I continue on to do further research" (p8)*.
+
 > *"See if I qualify or not based on income" (p9)*.
 - All participants found it **easy to answer the questions**, which were posed one question at a time (the subtask design pattern). A few participants commented that it was really easy to answer the questions on their phone. 
 - All participants **used the *Continue* button without any hesitation**, and some used the *Back* button, too (others didn't need to).
