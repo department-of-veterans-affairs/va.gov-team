@@ -10,7 +10,7 @@
  
 
 
-### Date: March 29 2023
+### Date: April 5 2023
 ### Topics covered:
 - 6 weekly portfolio goals prep - no prep required
 - off site next week - availability for syncs and meetings with stakeholders?
