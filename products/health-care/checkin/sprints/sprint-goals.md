@@ -94,8 +94,9 @@ ________________________________________________________________________________
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Brainstorm New Poster Design that Excludes the QR Code Instructions ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55834)
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Design] Create New Design that Excludes the QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55833)
    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
-      - [Implement axe in CodePen (MVP)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56277)
-      - [[FE] Create Memorable Date Field for CodePen](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56671)
+      - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Implement axe in CodePen (MVP)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56277)
+      - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] CodePen accessibility remediation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56416)
+      - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Create Memorable Date Field for CodePen](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56671)
         - NOTE: pulled in halfway through sprint
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964)  
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Finish CodePen prototype](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56144)  
