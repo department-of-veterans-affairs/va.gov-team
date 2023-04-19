@@ -3,11 +3,12 @@
 ### Date: April 19 2023
 ### Topics covered:
 - Review road-map
+- Collab cycle expectations
 - Bugs/Defects priortization
    -  Future DOC 
    -  Identification issue - Survey feedback has revealed that a number of 526 users receive an error stating "We need more information from you before you can file a Benefits Delivery at Discharge claim 
    -  508 blocker - potentially a very small FE change
- 
+- How can the BDEX team help Team 2
 
 
 ### Date: April 5 2023
