@@ -636,7 +636,7 @@ for NAME
 
 Month Day, Year
 
-**Issue(s) for review**
+**Issue(s) submitted**
 
 Issue
 
@@ -646,12 +646,14 @@ Button: **Print this for your records**
 
 ### **After you request a decision review**
 
-When we've completed your review, we'll mail you a decision packet that includes details about our decision. Learn more about what happens after you request a review
+When we've completed your review, we'll mail you a decision packet that includes details about our decision. [Learn more about what happens after you request a review]().
 
 ### **What should I do while I wait?**
 
-You don’t need to do anything unless we send you a letter asking for more information. If we schedule any exams for you, be sure not to miss them.
+You don't need to do anything unless we send you a letter asking for more information. If we schedule any exams for you, be sure not to miss them.
 
-If you requested a decision review, and haven’t heard back from us yet, please don’t request another review. Call us at 800-827-1000.
+If you requested an appeal and haven't heard back from us yet, please don't request another appeal. Call us at 800-827-1000.
 
-Button: **Track the status of your claim or appeal**
+Button: **Check the status of your appeal**
+
+**Note:** Please allow some time for your appeal to process through our system. It could take 7 to 10 days for it to show up in our claim status tool.
