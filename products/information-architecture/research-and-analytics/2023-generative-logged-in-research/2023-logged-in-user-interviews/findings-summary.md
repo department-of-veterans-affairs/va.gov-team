@@ -61,7 +61,14 @@ a. **Maybe false:** Most participants shared a sentiment that their logged-in ex
 a. **Likely false:** 2 participants were totally unfamiliar with VA.gov and were not able to find task-related information on the website. 7 participants had previous experience and were able to find the same information much more easily.
 
 ## Key Findings
-To come when details are finalized.
+1. Though participants had different approaches to starting their journey, everyone logged in as a first step when they got to the website. ([Link](#though-participants-had-different-approaches-to-starting-their-journey-everyone-logged-in-as-a-first-step-when-they-got-to-the-website))
+2. Participants relied on the homepage and My VA to navigate less than we expected; instead they used a variety of methods to get to their tasks. ([Link](#participants-relied-on-the-homepage-and-my-va-to-navigate-less-than-we-expected-instead-they-used-a-variety-of-methods-to-get-to-their-tasks))
+3. Navigating to tasks was challenging for participants who weren’t sure how their task was categorized within VA. ([Link](#navigating-to-tasks-was-challenging-for-participants-who-werent-sure-how-their-task-was-categorized-within-va))
+4. Participants who were not able to find what they were looking for stated they would contact VA to get help. ([Link](#participants-who-were-not-able-to-find-what-they-were-looking-for-stated-they-would-contact-va-to-get-help))
+5. Participants perceived authenticated parts of VA.gov as being personalized to them, and unauthenticated parts of the website as general information for anyone visiting the site. ([Link](#participants-perceived-authenticated-parts-of-vagov-as-being-personalized-to-them-and-unauthenticated-parts-of-the-website-as-general-information-for-anyone-visiting-the-site))
+6. Participants struggled to find dependent information, which wasn’t linked from the homepage, My VA, or the mega menu links. ([Link](#participants-struggled-to-find-dependent-information-which-wasnt-linked-from-the-homepage-my-va-or-the-mega-menu-links))
+7. 5 of 9 participants talked about redundancies and complexities while navigating the VA website after logging-in. ([Link](#5-of-9-participants-talked-about-redundancies-and-complexities-while-navigating-the-va-website-after-logging-in))
+8. My VA contributed to a sense of ease and personalization for participants who used it during their session. ([Link](#my-va-contributed-to-a-sense-of-ease-and-personalization-for-participants-who-used-it-during-their-session))
 
 ## Details of Findings 
 ### Though participants had different approaches to starting their journey, everyone logged in as a first step when they got to the website.
@@ -234,7 +241,6 @@ Although it wasn’t the focus of our research, challenges around requesting tra
 
 We’ve heard about this pain point in other research sessions too. It’s clear this is a negative experience for Veterans.
 
-
 ## Recommendations
 ### Make My VA the true logged-in homepage.
 Based on what we saw in this study, the current homepage isn’t useful for people who are logged-in to VA.gov.
@@ -250,6 +256,9 @@ Participants had a hard time finding personalized information that wasn’t alre
 - Identifying pages in the benefit hubs where it makes sense to surface or link to personalized content when a person is logged in.
 - Identifying what we might be able to surface in profile and My VA that we aren’t already showing, like dependents and benefit letters. 
 - Consider if there are ways we can display information, rather than link to it, to give Veterans more direct access to their tasks.
+
+### Reconsider our current approach to modals, and links that open in new tabs.
+Multiple participants in our study became confused and/or frustrated by these unexpected interactions on the website. We should consider if there is another approach we can take to improve accessibility and UX, while still getting people to the content they need.
 
 ### Cross-reference these findings with previous research we did to identify issues with the logged-in IA and navigation.
 We conducted 3 other research activities ([research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research)) to answer questions about logged-in IA and navigation. Now we need to take a holistic view across all findings, and make a plan for next steps.	
@@ -271,8 +280,6 @@ This study included one user who needed ZoomText software and someone by their s
 ### We should recruit for the underserved groups we didn’t get to talk to in this round for our next study.
 Including these people in our next round of research will help our team get a diverse group of perspectives.
 
-
-
 ## Next Steps
 - Review with product team and align on recommendations we’ll take action on.
 - Share findings with OCTO stakeholders
@@ -282,7 +289,6 @@ Including these people in our next round of research will help our team get a di
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/conversation-guide.md)
 - [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/topline-summary.md)
-
 
 ## Tools used for Synthesis
 - [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1678753731006/614653b3452e25e9e2a8236cab13644d0875b66f?sender=ub868d471cfdb1c56cc0b4512)
