@@ -152,7 +152,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Team Name: Debt Resolution
 - GitHub Label: StreamlinedWaiver
 - Slack channel: #benefits-debt-resolution
-- Product POCs: Denise Coveyduc, Heather Rienks
+- Product POCs: Denise Coveyduc, Heather Rienks, Tom Davis
 - Stakeholders: Jill Anderson (DMC)
 
 </details>
@@ -162,9 +162,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 <details>
  
  - OCTO Lead: Matt Self
- - PM: Denise Coveyduc
+ - PO: Denise Coveyduc 
+ - PM: Tom Davis
  - DM: Heather Rienks
- - Engineering: Scott James, Andrew Rodiek, Brandyn Sullins
+ - Engineering: Scott James, Andrew Rodiek, Brandyn Sullins, Aaron Ponce, Kevin Suarez
  - Research/Design: Megan Gayle, Joseph Lee, Charlotte Cesana
  
 </details>
