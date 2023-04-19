@@ -481,6 +481,8 @@ We recommend:
 - email Veterans after they set up an account to remind them of what they just did
 - letting Veterans know where to get help
 
+<br>
+
 **8. Explore more touchpoints in the authenticated experience**
 
 When Veterans are signed in to VA.gov with DS Logon, we should explore additional ways of reminding Veterans to create a Login.gov account, besides just a modal.
