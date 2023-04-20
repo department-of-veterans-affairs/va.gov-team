@@ -1,6 +1,6 @@
 # Research outline: Identifying issues and challenges people have finding tasks when they are signed in to VA.gov
 
-**Last Updated: March 23, 2023**
+**Last Updated: April 20, 2023**
 
 ## Table of Contents
 
@@ -143,9 +143,8 @@ Though we are focusing research on issues people have once they are signed in to
 |[Mikki's old task/tool inventory](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1673304943122/96f35046d9074d5672c49cfc203bfc5cde1c60f0?sender=u2aba00c97ab77c6ec1573123)|N/A|
 |[Previous research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/research-review-findings.md)| January 2023|
 |[Medallia/Call center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/qualitative-data-findings.md)| February 2023|
-|[Analytics review](https://docs.google.com/spreadsheets/d/12gvlkGnwt206BBYY89gDIYG1AtD6j9uCYMr5x99Nzns/edit#gid=0)| March 2023|
-|[User research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/research-plan.md)| March 2023|
-|[User research conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/conversation-guide.md)| March 2023|
+|[Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/analytics-review-findings.md)| March 2023|
+|[User research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md)| April 2023|
 
 
 ## Key dates
