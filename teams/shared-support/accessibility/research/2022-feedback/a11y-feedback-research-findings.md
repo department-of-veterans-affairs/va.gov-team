@@ -1,8 +1,38 @@
-# Research Findings
+# Research Findings, 2022 Disabled Veteran Accessibility Feedback
+
+## Goals
+Our goal is to establish a process to collect a11y feedback from the public. In order to accomplish this goal, we need to…
+- determine whether disabled Veterans are providing feedback through existing feedback mechanisms (and if not, why not?), and
+- start to gain preliminary insight or determine next steps on how to gain insights into disabled Veteran's behaviors, feelings, perspectives, and expectations on providing a11y feedback
+
+## Focus areas
+- How accessible (and to a degree usable) are current feedback methods on VA.gov? 
+- Where do disabled Veterans currently provide or expect to be able to provide a11y feedback on VA.gov (if at all)?
+- What are all the current existing mechanisms (accessible or not)?
+- What kind of a11y feedback do disabled Veterans provide (or want to provide) on VA.gov? 
+- Do some subgroups (or individuals) among disabled Veterans have a greater need (if at all) for providing and resolving accessibility feedback more than others?
+- How is a11y feedback for VA.gov currently processed?
+- What mental models do disabled Veterans have of the a11y feedback process on VA.gov?
+
+## Constraints, Assumptions, and Risks
+This is bootstrapped research with little to no formal funding (yet), we currently cannot conduct an independent qualitative study. We can however add on or append to existing studies with disabled Veterans, interview key informants (who aren’t Veterans from the public), and investigate existing processes.
+As we can only append to existing studies or rely on secondary research and key informants, we are limited in who and how we sample. In other words, any insights from this research cannot be established as broader, representative patterns. They can only be interpreted as localized events. For example, if we hear that several Veterans are using the Medallia feedback button, we cannot assume that it is representative of all disabled Veterans, but we can conclude that some Veterans are using it and fund more time into investigating it further.
+
+### Assumptions
+- Disabled Veterans have an interest in providing feedback in the first place (we’ll look to prove/disprove this) 
+- Disabled Veterans are actively accessing and using VA.gov 
+
+#### Disabled Veterans are a big tent, so we’ll need to be strategic with sampling
+- When we refer to “disabled” in disabled Veteran, we are referring to any Veteran that either identifies with or has been diagnosed with a disability. This may range from Veterans with minor temporary disabilities like migraines, to Veterans with acquired permanent disabilities like TBI or blindness, and Veterans with congenital (from birth) disabilities.
+- As a starting point, we may be interested in determining through secondary research (e.g., SME interview with Tim Hornik from the Blinded Veterans Association) if there are any particular subgroups (if at all) that are more likely to provide or need a response from accessibility feedback.
+- We’ll want to pay close attention to patterns and differences between different types of disabilities while also acknowledging that no one disabled person is alike. 
 
 ## Key insights (WIP, post member checking)
+1. x
+2. y
+3. z
 
-## Full research findings
+## Full, unorganized research findings
 
 ### Contact Center Surveys
 We submitted 4 qualitative data requests for .CSV exports of feedback from Veterans through the intercept survey and feedback button.
