@@ -95,3 +95,73 @@ Known unknowns
 ### Outstanding tasks and questions ⁉️
 - WCAG 2.1+ (not 508) accessibility audits and usability testing with disabled Veterans using a variety of assistive technology should be conducted for methods we still don’t have access to (or are unaware of) including the IVR survey, facility QR codes, email, and more.
 - More research is needed to understand the disabled Veteran experience of calling My VA 411 as it is currently the only known usable method for disabled Veterans to provide accessibility feedback beyond the Section 508 email.
+
+## Appended interview questions with Veterans
+Although we couldn’t conduct an independent study, we aimed to append questions to existing studies with disabled Veterans. Cindy Merrill and Brea Blackwelder piloted this by asking disabled participants the following questions at the end of their studies (homepage usability study and mobile app screen reader user research):
+- If you wanted to share your thoughts on this web page with the VA, how would you do it?
+- Have you ever done this before?
+- If so, how and when?
+
+### Key insights 🧭
+- In Brea's mobile study, out of 6 participants who responded:
+  - One participant did not know how to provide feedback, one would look for a "contact us" area, one would attempt to call the VA, and another would self-advocate through the Blinded Veterans Association (BVA)
+  - Going to a physical location, like a VAMC, was a common fallback should preferred methods not work for 4 out of the 6 participants 
+- Screen magnification users on desktop (2/2 in total) didn’t notice the VA.gov feedback button. This is likely due to screen magnification showing only part of the screen at any given time. As there’s no indication that the feedback exists on the bottom right side of the page, it may be missed by magnification users who scan the page left to right with a limited view. For example, consider the simulated image below.
+
+https://user-images.githubusercontent.com/14154792/233375218-e8291f1e-aabc-4b71-842c-3699ea140c2c.mov
+
+
+### Unknowns, risks, and limitations 🤔
+- Insights are based on a significantly limited convenience sample of data. Given these were appended onto interviews with different facilitators, the manner in which questions were posed were inconsistent. As such, the above insights should be interpreted as a strong call to do more research instead of a factual or permanent representation of all disabled Veterans.
+- This research only covered the needs of Veterans with low vision or blindness with zoomtext and screen readers; it does not address the needs of Veterans using other types of assistive technologies
+
+### Outstanding tasks and questions ⁉️
+- [x] Inform ian.mccullough@oddball.io of issues to be resolved
+- [ ] We recommend conducting generative research to explore the full _service_ experience for blinded Veterans; given the limited scope of this research, there may be larger unanswered priorities beyond the reach of the digital VA.gov experience itself
+
+
+## Key informant interviews
+We conducted several key informant interviews with folks who may have expert knowledge or lived experience with this topic. This was not meant to act as a substitute for actual research with disabled Veterans but as a starting point for finding signals of interest to dig deeper into.
+
+### Contact Center Panel Interview ✔️
+
+**Ask.va.gov** receives a11y tickets from folks communicating on behalf of someone else. It’s likely inaccessible as it doesn’t follow the VA design system and Aubrey’s team’s recommendations were unresolved due to platform limitations with the dynamic 365 portal. It was likely not tested for Section 508 compliance.
+
+**Medallia feedback button and intercept survey** [were tested last year](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/medallia/research/CY21-Q1), but screen reader users did not participate despite Ian making a request to Perigean. This may be easier this year with new partnerships with blinded Veteran organizations.
+
+**The primary call center is My VA 411 (800-698-2411).** There’s also a White House national hotline. When a Veteran calls the number and reaches an operator, they’ve reached tier 1 support. If their issue cannot be resolved, it is escalated to tier 2 which is the contact center team. If it cannot be resolved there, it becomes tier 3 which is often for technical issues like editing the markup of the website.
+- We’re not sure how the TTY number is handled nor how accessibility issues are triaged.
+- Tier 1 agents can log calls in salesforce, but the interface is difficult to search.
+Many issues found within salesforce at a glance appear to be home related accessibility issues (as opposed to digital website issues). 
+- jkwon@thesocompany.com noted there’s a possibility a11y feedback may stop at a tier 1 agent as the surface level problem may be addressed over call (reading out a data table) while still leaving the source of the issue unresolved (the data table itself is still inaccessible). Jae also asked…
+  - How far (if at all) do disabled Veterans go to solve accessibility issues more permanently?
+  - What is VA.gov doing to make it easy for users to submit issues?
+  - Do agents try to investigate the reason for the user’s issues or do calls end at the point assistance is rendered complete?
+  - Ian thought about what kind of training or processes could help call center agents.
+
+**[Medallia feedback has not yet been tested with disabled Veterans using assistive technology](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/medallia/research).** Previous usability testing focused on (1) the initial feedback button and (2) an updated version of that feedback button which demonstrated significant usability improvements for able-bodied Veterans. Conducting research in the future with assistive tech users may unveil key usability insights related to more complex cases and lead to data-driven inclusive enhancements.
+
+#### Action items
+- [ ] Josh to follow back with the contact center team about insights (if any) from the Medallia survey data
+- [ ] ian.mccullough@oddball.io to reach out to Kimberly to see how she handles and works with tier 3 escalation. Specifically if she’s encountered any a11y issues which have come through.
+- [ ] starlow@thesocompany.com to dig into accessibility requests in microsoft dynamics (the back end for EVA); VA health queues may re-route cases for medical aids and related devices (including hearing aids). 
+
+#### Completed ✅ 
+- [ ] ian.mccullough@oddball.io to follow up to see if anyone has conducted accessibility testing for ask.va.gov
+- [ ] ian.mccullough@oddball.io to share any usability studies conducted with ask.va.gov
+- [ ] Josh KIM to request shared support a11y team to do a cursory audit of ask.va.gov, the medallia feedback button, and the medallia intercept survey to determine if they meet or don’t meet Section 508 compliance
+- [ ] Ian to send Josh code and instructions for intercept survey testing
+- [ ] ian.mccullough@oddball.io to dig into salesforce data to examine for digital accessibility complaints or feedback regarding VA.gov.
+
+#### Blocked ❌
+- [ ] Josh KIM to reach out to Laura to connect with Marlee (who trains call center agents) to ask about a11y, training docs, and if call center agents know how to reply to a11y requests.
+- [ ] Waiting for response from Laura to set up a call with Marlee
+
+### Mike Manalo Interview
+**No interviews were conducted with disabled Veterans using assistive technology.** This was due to Perigean wanting more specific guidance on what “assistive technology” meant. In this case, they got older Veterans using iPads (as opposed to technologies explicitly used for a disability like a screen reader or keyboard). 
+
+**The more complex the issue, the more likely Veterans will call.** There were forming patterns of older Veterans being associated with doctor appointments and facilities which could generally be resolved via tier 1 support, but any issue requiring more complex topics like verifying a GI Bill payment often went to tier 2 support. There’s an open question of what is effective communication: SMS? Phone? Etc?
+
+**Unsure if there are any particular groups using or not using 411.** Salesforce may help answer that. The vast majority of issues are related to authentication. The contact center team is creating a service map of how tier 1 issues are escalated to tier 2, how long those issues sit, and how they are resolved.
+
+
