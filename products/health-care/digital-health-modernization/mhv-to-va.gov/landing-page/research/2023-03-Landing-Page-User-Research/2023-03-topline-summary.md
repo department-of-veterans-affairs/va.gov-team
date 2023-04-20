@@ -1,6 +1,6 @@
 
 
-# [Landing page user research] Topline Summary
+# [Landing Page User Research] Topline Summary
 
 
 [link research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research)
