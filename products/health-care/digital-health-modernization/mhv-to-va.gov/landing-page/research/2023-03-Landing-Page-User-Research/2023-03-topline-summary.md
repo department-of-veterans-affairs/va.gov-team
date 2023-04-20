@@ -36,21 +36,26 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 
 >“...the type is bigger, that is good for a person my age....There’s a lot of worthwhile information on this page, and **it’s much larger, it’s much easier to read**.” - P9
 
-**Finding #2**
+**Finding #2** Overall, participants - the majority of them current users of My HealtheVet Classic - see the new landing page as an updated My HealtheVet Classic, which they conflate with VA.gov.  Therefore, they interpret the new landing page as an update of their known experience [My HealtheVet Classic] rather than a new, separate experience.
 
-- More details on Finding #2
-- These details could be key words, actions, or test outcomes
+- Note for future: this is why it is so important to have more non-MHV  in future studies to incorporate users who do NOT have that brand recognition
+- Notes/question for DHM team: Jonathan and Cara are still fleshing this insight out further.
 
-> Quote (if relevant)
+- - - 
 
+**Additional question:** How do participants understand "Download medical records (Blue Button)"  vs. "Health History"? 
 
-**Finding #3**
+**Finding #3**Participants did not clearly distinguish between Download medical records (Blue Button) and Health history as mutually exclusive of each other. 
+- Participants often perceived Health History as a “snapshot” of their health
+- Download medical records (Blue Button) as having their complete medical records [test results, x-rays, notes from doctors, etc]
 
-- More details on Finding #3
-- These details could be key words, actions, or test outcomes
+>“Expect [Medical records] to have the entire medical record downloaded. That's how it reads to me. That would be a whole heck of a lot of medical records.” - P12
 
-> Quote (if relevant)
+>“I thought that would've been the same thing. Or, maybe bullet points, with Blue Button being all the data.” - P4
 
+>“[Health] History would be a chronological overview of health issues and diagnoses.” - P28
+
+- - -
 
 **Finding #4**
 
