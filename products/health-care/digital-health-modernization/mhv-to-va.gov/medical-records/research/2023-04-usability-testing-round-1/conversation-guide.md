@@ -64,12 +64,12 @@ _[Start recording.]_
 
 _[If yes]_
 
-- How often? How do you feel about it?
+- How often? 
 - Do you use it to access your medical records?
 
 _[If yes]_
 
-How often? How do you feel about it?
+How often? 
 
 - What type of device are you using today?
 
@@ -93,21 +93,23 @@ Are you ready to dive in?
 
 ## **First Task: Lab and tests: EKG + Radiology – 7-10 minutes**
 
+[About VA medical records]
+
 _Electrocardiogram_
 
 - Can you walk me through how you would find the date of your most recent electrocardiogram?
 
-_[if the participant selects Share your medical record]:_
+  _[if the participant selects Share your medical record]:_
 
-- Can you tell me about why Share your medical record was your first choice for this task?
-- What would you do on this page to find the date of your most recent electrocardiogram?
+  - Can you tell me about why Share your medical record was your first choice for this task?
+  - What would you do on this page to find the date of your most recent electrocardiogram?
 
-_[if the participant states they would download/print BB ask]_
+  _[if the participant states they would download/print BB ask]_
 
-- Once you had access to that report, how quickly and easily do you feel you could find that information?
-- Could there be another way to find that information without running a report?
+  - Once you had access to that report, how quickly and easily do you feel you could find that information?
+  - Could there be another way to find that information without running a report?
 
-_[help the participant navigate back to About VA medical records if necessary]_
+  _[help the participant navigate back to About VA medical records if necessary]_
 
 _[when the participant finds the date]:_
 
@@ -143,21 +145,31 @@ Please return to About VA medical records.
 **Things to watch for:**
 
 - Did the participant know to look in lab and test results?
+- If the participant clicked on details did they choose the link or the whole card?
 - Did the participant notice that EKG's are historical only?
 - Did the participant notice that labs and tests are listed in reverse chronological order?
 
 
 ## **Second Task: Lab and test results: Bloodwork + download - 5 minutes**
 
+[About VA medical records]
+
 _Bloodwork:_
 
-- Let's say you wanted to review your bloodwork from October 26, 2021. Walk me through how you would do that.
+- Let's say you wanted to review your bloodwork from October 26, 2021. Walk me through how you would do that. 
+_[if participant can't find the record in the list ask:]_ 
+- Do you notice a pattern in how these results are listed?
+
+_[if the participant finds the record, but doesn't realize they can open it, ask:]_ 
+- How could we get more information on this particular result?
+
+_[provide additional help as necessary]_
 
 _[when details page is open]:_
 
 - Please describe this page and share your thoughts about it.
 
-- There is a result here called "ACK." We made it up, so it's not a real test. If it were and you came upon this unfamiliar result that happens to be marked as high, what would you do to try to understand it?
+- There is a result here called "ACK." We made it up, so it's not a real test. If it were and you came upon this unfamiliar result that happens to be marked as high, what would you do within this website to try to understand it?
 
 _Download:_
 
@@ -168,20 +180,50 @@ _[when participant returns to report screen]_
 - How did you know to choose "download as PDF" rather than "download as TXT"?
 _[or visa versa if they chose txt]_
 
-- What might a Veteran do if they were unsure about which to choose?
+- What could you do if you were unsure about which to choose?
+
+Please return to About Va medical records.
 
 **Things to watch for:**
 - Did the participant get confused by multiple bloodwork results?
 - Did the participant get confused by the acronyms?
+- Did the participant click on the details link or the whole card?
 - Did the participant notice the informational dropdowns?
 - Was the participant able to download?
 - Which format did the participant choose?
 
 ## **Third Task: Health history + print – 10 minutes**
 
+[About VA medical records]
+
+For our first question, I just need you to answer. You don't need to go and find the record.
+- Let's say you had a consultation with a surgeon last week and now you want to read the notes from the visit. In which of the three areas under "What you can do with this tool" would you expect to find them? 
+
 - Let's say you spent time in the hospital on April 6th and 7th. You have questions you want to ask your primary care doctor at your upcoming visit, but you don't have the discharge papers the nurse gave you when you left.  Can you walk me through what you would do in this system to get another copy?
 
-- What if you were filling out some paperwork and needed to include the date you were first diagnosed with high blood pressure?
+  _[if the participant selects Share your medical record]:_
+
+  - Can you tell me about why Share your medical record was your first choice for this task?
+  - What would you do on this page to find those discharge papers?
+
+  _[if the participant states they would download/print BB ask]_
+
+  - Once you had access to that report, how quickly and easily do you feel you could find just that discharge information?
+  - Could there be another way to print what you need without running a report of your full medical records?
+
+  _[help the participant navigate back to About VA medical records and assist them in finding the record if necessary]_
+  
+  
+[Care summaries and notes/Progress note]
+
+On the left there is a category called Vitals.
+- What would type of information would you expect to find there?
+
+Please return to About VA medical records.
+
+[About VA medical records]
+
+- What if you were filling out some paperwork and needed to include the date you were first diagnosed with high blood pressure? How would you find that?
 
 - You think you have had your blood pressure under control, but you are curious about the past few readings taken during office visits. How might you review those?
 
@@ -199,6 +241,8 @@ You decide to print out all of your vaccines so you have a record handy in your 
 _[if the participant says they would print each individual record, ask:]_
 - Is there a way you could print the whole list as one document?
 
+Please return to About VA medical records.
+
 **Things to watch for:**
 
 - Did the participant know that hypertension is high blood pressure?
@@ -207,30 +251,36 @@ _[if the participant says they would print each individual record, ask:]_
 
 ## **Fourth Task: Health history: Allergies – 5 minutes**
 
+[About VA medical records]
+
 Let's review Allergies.
 
 - What if a Veteran developed a sudden allergy to eggs and were treated at a community hospital. How would they go about getting that allergy added to this list? Is there anything here that might help with that?
 
 I would like to ask you some questions about the print and download options here. The button says, "print or download list."
 
-- Why do you think a Veteran might want to print or download their list of Allergies?
-- The same option is available for Vaccines as well. Why do you think a Veteran might want to print or download their list of Vaccines?
+- What if you wanted to print out just the Penicillin allergy?
 
-These are the only 2 sections that allow you to print the whole list while other records, such as the admission and discharge summary we looked at earlier, only allow you to print the page.
+The same option to print a list is also available for Vaccines. These are the only 2 sections that allow you to print the whole list while other records, such as the admission and discharge summary we looked at earlier, only allow you to print the page. 
 
- - Can you think of any other items we have reviewed today that a Veteran might want a list printed rather than just a page?
+ - Can you think of any other items we have reviewed today that you would need a list printed rather than individual pages?
+
+Please return to About VA medical records
 
 **Things to watch for:**
 
 - Does the participant understand that they cannot add allergies?
 - Did the participant notice the informational dropdown?
-- Did the participant understand why only allergies and vaccines can be printed as whole lists?
+- Did the participant understand that allergies pages and as whole lists?
 
 ## **Fifth Task: Share your medical records – 5 minutes**
 
+[About VA medical records]
+
 - If you had an upcoming appointment with a new community provider and wanted to take a copy of your medical records, what would you do?
+
 - What do you think is meant by "Blue Button"?
-- How would you share your medical records with a new VA provider?
+- How would you share your medical records with a new VA provider using this website?
 
 **Things to watch for:**
 
