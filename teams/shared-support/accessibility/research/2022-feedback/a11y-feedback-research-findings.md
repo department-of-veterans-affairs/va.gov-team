@@ -174,7 +174,6 @@ Many issues found within salesforce at a glance appear to be home related access
 #### Action items
 - [ ] Josh to follow back with the contact center team about insights (if any) from the Medallia survey data
 - [ ] ian.mccullough@oddball.io to reach out to Kimberly to see how she handles and works with tier 3 escalation. Specifically if she’s encountered any a11y issues which have come through.
-- [ ] starlow@thesocompany.com to dig into accessibility requests in microsoft dynamics (the back end for EVA); VA health queues may re-route cases for medical aids and related devices (including hearing aids). 
 
 #### Completed ✅ 
 - [x] ian.mccullough@oddball.io to follow up to see if anyone has conducted accessibility testing for ask.va.gov
