@@ -172,3 +172,137 @@ Overall, was there anything you would recommend changing or adding?
 
 And, now that this upcoming appointment has been confirmed, where might you go to find out if you have any other upcoming appointments that also need to be confirmed? 
 
+Great. And, on a scale from 1 to 5, where 1 is difficult and 5 is easy, how would you rate the ease of understanding that some of your other upcoming medical appointments may require your attention?    
+
+And, why did you choose this rating? 
+
+Is there anything you would recommend changing or adding to make this more clear?
+
+Great. Now, let’s go ahead and view your upcoming appointments that may require your attention. 
+
+Now, once more, I’d like you to review the information on this screen, and as you’re reviewing, I’d like for you to let me know if there’s anything different on this page compared to the first time we visited it. So please, go ahead and start reviewing and let me know what you’re noticing.
+
+So, I’d like to ask, on a scale from 1 to 5, where 1 is it did not meet your expectation and 5 is it does meet your expectation, is this what you expected to find when navigating here from the previous page? (1 is it did not meet your expectation and 5 is it does meet your expectation.)
+
+And, why did you choose this rating? 
+
+Is there anything you would recommend changing or adding?
+
+Great. And also, knowing that you finished the process for confirming your upcoming medical appointment that’s scheduled for Monday, February 2nd at 8:00 a.m., does the information on this page meet your expectations? 
+
+Is there anything else that you might have expected to see? 
+
+Great. Now, once again, I’d like for you to go ahead and confirm the upcoming phone appointment that’s scheduled for Monday, February 9th at 9:30 a.m.
+
+And, you can stop here for a moment. So, once more, on a scale from 1 to 5, where 1 is difficult and 5 is easy, how would you rate the ease of finding how to confirm your appointment from the last screen?  
+
+And, why did you choose this rating? 
+
+And again, this page is the final step of the process for confirming your upcoming medical appointment.  
+
+And, once more, after reviewing the information on this page, is the information on this page what you expected to find?
+
+Is there anything you would recommend changing or adding on this page? 
+
+And again, overall, is there anything you would recommend changing or adding about the steps to confirm an upcoming medical appointment?
+
+Great. Thank you. 
+
+### Check In Tasks - 15 Minutes
+ 
+Now, I’d like for us to change gears a bit and we’ll now review the process for checking in to an appointment from your smartphone on the day of your appointment. So, now, let’s pretend that you’ve just arrived at the clinic for your appointment and you’re walking inside. Then, you get a text message on your smartphone from VA and it reads, “Time to check in for your 1:00 p.m. appointment. Click on the link to check in and let us know that you’ve arrived.” And, what I’d like for you to do is imagine you’ve just received that text message and you’ve tapped on the link to check in and let the staff know that you’ve arrived.  
+
+So, to complete this process, we need to navigate to this prototype. So, I’d like for you to navigate down towards the bottom of this page and select the “Jump to Check-in start” link. This is going to jump us to the check-in prototype. That link is not part of this actual process; it was just a way for me to quickly get you to where you needed to be to view this prototype.  
+
+Perfect. So, similar to the process for confirming your upcoming medical appointment on your smartphone, the process for checking in to an appointment on your smartphone once you arrive requires Veterans to confirm their identity using their last name and date of birth. And, again, as a reminder, some things in this prototype you can click, some things you can’t, nothing in here is your actual information and you’re not actually filing for anything with the VA. So, again, for this session today, we don’t need you to provide your actual last name and date of birth. So, please go ahead and select the “continue” button to advance to the next page.
+
+Great. Now, on this page, review the information on the screen, and as you’re reviewing, I would like you to talk aloud as much as possible so that you share what you’re thinking about and what, if anything, you’re unsure about before advancing to the next page. So, please start reviewing, but remember, don’t advance to the next page yet. And remember, nothing in here is your information; it’s just pretend. 
+
+Great. Now, I’d like for you to go ahead and check in to your 1:00 p.m. appointment, which is on February 2nd. We’re pretending that today is February 2nd. 
+
+Great. And, you can stop here for a moment. So, on a scale from 1 to 5, where 1 is difficult and 5 is easy, how would you rate the ease of finding how to check in for your appointment on the last screen?
+
+And, why did you choose this rating? 
+
+Now, for these next four pages, read through the information on the screen and then select “Yes” at the bottom of each page to advance to the next. If you’re unsure about anything, please talk aloud so that you share with me what you're thinking about. And remember, nothing in here is your actual information and you’re not filing for anything with the VA; it’s just pretend. 
+
+Perfect. So, again, on this page, please go ahead and review the information on the screen, and remember to talk aloud as much as possible so that you share what you’re thinking about and what, if anything, you’re unsure about before advancing to the next page. Please go ahead and start reviewing, but remember, don’t advance to the next page yet. 
+
+Great. So, this is the final step of the process for checking in to a medical appointment. Could you tell me if this is the information that you expected to find on this final step?  
+
+Is there anything unclear to you on this page? 
+
+Would you order anything differently? 
+
+Is there anything missing? 
+
+Is there anything you would recommend changing or adding?
+
+And, now that you’re checked in to your appointment, where might you go to find out if you have other upcoming appointments that might need your attention? 
+
+Great. And, on a scale from 1 to 5, where 1 is difficult and 5 is easy, how would you rate the ease of understanding that some of your other upcoming medical appointments may require attention?    
+
+And, why did you choose this rating? 
+
+Is there anything you would recommend changing or adding to make this more clear?
+
+Great. Now, let’s go ahead and view your upcoming appointments that may require your attention. 
+
+Now, once more, I’d like you to review the information on this screen, but as you’re reviewing, I’d like for you to let me know if there’s anything different on this page compared to when we viewed it just a moment ago. So please, go ahead and start reviewing and let me know what you’re noticing.
+
+So, I’d like to ask, on a scale from 1 to 5, where 1 is it did not meet your expectation and 5 is it does meet your expectation, is this what you expected to find when navigating here from the previous page? (1 is it did not meet your expectation and 5 is it does meet your expectation.)
+
+And, why did you choose this rating? 
+
+Is there anything you would recommend changing or adding?
+
+Great. And also, knowing that you just finished the process for checking in to your appointment that’s scheduled for Monday, February 2nd at 1:00 p.m., does the information on this page meet your expectations? 
+
+Is there anything else that you might have expected to see? 
+
+Great. Now, this time, I’d like for you to go ahead and confirm the upcoming in person appointment that’s scheduled for Monday, February 9th at 1:00 p.m.
+
+And, you can stop here for a moment. So, did you find it easy or difficult to differentiate when you were confirming an upcoming appointment versus checking in to an appointment? 
+
+So, once more, on a scale from 1 to 5, where 1 is difficult and 5 is easy, how would you rate the ease of understanding when you need to confirm an upcoming appointment versus check in? 
+
+And, why did you choose this rating? 
+
+And, on a scale from 1 to 5, where 1 is very unhelpful and 5 is very helpful, how would you rate how helpful it is to be able to confirm other upcoming appointments after you’ve checked in to the appointment that you’re waiting to see the doctor (or provider) for? 
+
+And, why did you choose this rating?   
+
+And again, this page is the final step of the process for checking in to your medical appointment. 
+
+And again, overall, is there anything you would recommend changing or adding about the steps to check in to a medical appointment from your smartphone? 
+
+### Post-Tasks Questions - 2 Minutes
+
+And, overall, on a scale from 1 to 5, where 1 is difficult and 5 is easy, how would you rate the ease of understanding the difference between the two steps of confirming an upcoming appointment and checking in to an appointment? 
+
+And, why did you choose this rating?   
+
+And, overall, on a scale from 1 to 5, where 1 is very unhelpful and 5 is very helpful, how would you rate how helpful it is to be able to review the rest of your upcoming appointments when you’re confirming an upcoming appointment or check in to an appointment?  
+
+And, why did you choose this rating?   
+
+And, the way that checking in to an appointment with your smartphone works today, Veterans arrive at a clinic and find the check-in instructions on a poster somewhere in the clinic, which ask them to text the words “check in” to the phone number 53079 or scan a QR code. That starts the online check in process. So, instead of finding and reviewing a poster at the clinic, would you find it helpful if, instead, the VA sends you a text message when it’s time for you to check in for your appointment?  
+
+And, why do you think that? 
+
+Great. Now, imagine you had a few appointments scheduled in one day. Would you prefer to receive one text message in the morning with instructions on how to check in on your smartphone for each of your appointments or receive separate text messages before each appointment when it’s time to check in for each?  
+
+And, why do you think that? 
+
+## Closing - 1 Minute
+
+Great. Thank you. Well, that is all the questions I have for you today. Is there anything else that we haven’t talked about that you’d like to share with me?  
+
+Great. Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the check in process and make sure it really works for Veterans.
+
+Thank you for your feedback and thank you again so much for joining us today. 
+
+Have a great rest of your day. 
+
+
+
