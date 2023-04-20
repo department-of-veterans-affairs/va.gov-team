@@ -45,7 +45,7 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 
 **Additional question:** How do participants understand "Download medical records (Blue Button)"  vs. "Health History"? 
 
-**Finding #3**Participants did not clearly distinguish between Download medical records (Blue Button) and Health history as mutually exclusive of each other. 
+**Finding #3** Participants did not clearly distinguish between Download medical records (Blue Button) and Health history as mutually exclusive of each other. 
 - Participants often perceived Health History as a “snapshot” of their health
 - Download medical records (Blue Button) as having their complete medical records [test results, x-rays, notes from doctors, etc]
 
@@ -57,17 +57,33 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 
 - - -
 
-**Finding #4**
-
-- More details on Finding #4
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
+**Research Question #2:** Are users able to navigate to the new landing page from an unauthenticated state, navigate and use the tools available there, and ultimately achieve their goals using the current wayfinding tactics?
 
 
-**Finding #5**
+**Finding #4** Starting from the unauthenticated state, participants expected that they would **need to log in** in order to send a message to their doctor and the **majority were able to recognize and articulate how they would start that process**.
 
-- More details on Finding #5
-- These details could be key words, actions, or test outcomes
+>“I couldn’t send a message without signing in…” - P19
 
-> Quote (if relevant)
+>“And I’m not signed in so it’s not going to recognize me as wanting to talk to a particular doctor…” - P28
+
+>“I would sign first, then go to My Healthevet or I forgot the exact name...then send a secure message… I do that quite a bit actually.” - P22
+
+- Study participants ran into multiple errors logging in - roughly 1 in 4 participants - had to be sent the CodePen prototype.  Potential feature flag issue. 
+
+**Finding #5**Participants relied on familiar terminology and design standards when completing certain tasks (i.e., submit for travel reimbursement, send a message) but did not readily understand VA bespoke terms (i.e., Community Care).
+
+- Participants were confident in how to submit for travel reimbursement, but skeptical based on past experience with the VA.
+
+>“Ooooh ‘file a claim for travel reimbursement’ I like that being there!...The VA owes me a lot of money because I keep getting denied [but] cannot talk to anyone …. so I’ve stopped submitting" - Participant 26
+
+- Participants associated certain terms related to messaging a doctor, which helped them locate the secure messaging functionality
+
+>[scanning new landing page] “...normally it would be at the top [of the page] but let’s see here… I would go to healthcare… schedule an appointment… I would click on the box where it says Healthcare where it says ‘send a secure message” - P19 
+ 
+- Participants who already knew what Community Care is were drawn to it, while those who were not already familiar with the service Community Care - the majority of participants - did not recognize the term and instead sought another way to communicate with the VA team.
+
+>“Maybe, uh, compose a message?” [Interviewer: So you would ask your doctor?] Yeah - P25
+
+>"I would probably go here under My VA health benefits… maybe Community Care or My HealtheVet community…I think I would find resources here [bottom of screen]." - P10
+
+- - -
