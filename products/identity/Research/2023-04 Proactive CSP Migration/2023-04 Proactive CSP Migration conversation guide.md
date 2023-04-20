@@ -24,13 +24,15 @@
 
 - Sign onto Perigean Zoom session
 - Admit the session’s notetaker
-- Check Settings > Meeting > In Meeting (Basic) 
-   - > Sound notification when someone joins or leaves: OFF
-   - > Who can share > All Participants
+- Check Settings > Meeting > In Meeting (Basic) >
+   - Sound notification when someone joins or leaves: OFF
+   - Who can share > All Participants
 - Open standalone browser tab to [the modal prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979) and save link in slack so ready to paste
 - Do Not Disturb ON so no notifications
 - Make sure everyone is muted except moderator (me) and the participant
-- Mute your Slack notifications.
+- Mute your Slack notifications
+- Have Zoom meeting ID handy for phone join later in session
+- Have link to prototype handy for phone join later in session
 
 ## Starting the Session | 5 minutes
 
@@ -155,22 +157,27 @@ Let’s think more specifically about accessing the VA on your phone
 
 I’d like for us to now take a look at a prototype. This is a website design that we are thinking about using. It will look like VA.gov but this is not real, and everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
 
-I’m going to sign into this Zoom call from my phone, so I can share the design as you might see it from a phone. It will look like another person is joining this session, but it’s just me.
+I’m going to sign into this Zoom call from my phone, so I can share the design as you might see it from a phone. It will look like another person is joining this session, but it’s just me. Is that ok?
+
+[JOIN ZOOM session from phone, be logged out of zoom on your phone, seelect "Join Meeting" and enter meeting ID]
 
 [SCREEN SHARE, [the prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979) at this point, from your phone]
 
 [IF ANY ISSUE WITH PHONE SHARE - screen share the mobile design from computer]
 
 - Hopefully this looks familiar like what you would see on VA.gov from your phone?
-- As we move through these pages, I'll ask that you guide or direct me where to go.
+- As we move through these pages, please feel free to guide or direct me where to go on the page
 - Let's say you were going to sign into your account to [PRIOR MENTIONED TASK or “refill a prescription”].
-   - What would you do next
-   - And which option would you select here?
-- Can you describe for me what you see now?
-   - If this popped up here while you were actually signing in, what would you do next?
-      - [PROMPT: maybe close it right away? Or read through it?]
+   - Would you normally select the "sign in" button?
+   - [ADAVANCE to the sign in options page]
+   - Ok and then which option would you select here?
+   - Before we move on, this will be one part we will pretending. We'll skip the part where we put in your username and password. Let's pretend that we've done that.
+   - [ADVANCE to modal page]
+- So we're signed in. Can you describe for me what you see now?
    - [STOP SCREEN SHARE or otherwise hide the modal while answering]
    - I’m hiding that screen from view for a moment, because right now I’m mostly interested in your first immediate thought.
+   - If this popped up here while you were actually signing in, what would you do next?
+      - [PROMPT: maybe close it right away? Or read through it?]
    - Did you get a chance to see any words on the last screen that was up?
    - Do any questions or thoughts immediately come to your mind with what you had time to see of the text? 
       - If none, that's fine too
