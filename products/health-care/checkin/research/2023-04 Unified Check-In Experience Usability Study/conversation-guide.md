@@ -278,7 +278,7 @@ And again, this page is the final step of the process for checking in to your me
 
 And again, overall, is there anything you would recommend changing or adding about the steps to check in to a medical appointment from your smartphone? 
 
-### Post-Tasks Questions - 2 Minutes
+## Post-Tasks Questions - 2 Minutes
 
 And, overall, on a scale from 1 to 5, where 1 is difficult and 5 is easy, how would you rate the ease of understanding the difference between the two steps of confirming an upcoming appointment and checking in to an appointment? 
 
