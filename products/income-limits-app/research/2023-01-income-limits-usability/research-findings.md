@@ -91,19 +91,24 @@ Participants were asked about the following:
 
 ## Hypotheses and Conclusions
 1. Veterans will be able to answer the questions in the app for themselves.
-2. From the information presented in the app results page, Veterans will understand how the different income thresholds affect the health care benefits they might qualify for, including if their income is higher than all of the thresholds.
-3. Zip code is sufficient/comfortable for Veterans to specify the location where they live.
-4. After seeing the summary page with information entered, Veterans will have confidence in the accuracy of the results page.
-5. Veterans understand the difference between the desired year for benefits and the year that they need to use for income (the previous year).
-6. Veterans understand that thresholds in the app are not final answers, and only by applying for VA health care can they learn what benefits they're eligible for.
-7. Veterans don't need to see their answers to the questions while looking at the results page (i.e., having answers only on the review page is enough). 
-8. The results page is an intuitive place for Veterans to seek information about historical income limits (vs. earlier in the interaction flow).
-9. The intro page communicates that income limits apply to only some Veterans.
+     1. LIKELY TRUE: Participants were able to answer the questions, but some terminology clarifications would be helpful.
+3. From the information presented in the app results page, Veterans will understand how the different income thresholds affect the health care benefits they might qualify for, including if their income is higher than all of the thresholds.
+     1. 
+5. Zip code is sufficient/comfortable for Veterans to specify the location where they live.
+     1. 
+6. After seeing the summary page with information entered, Veterans will have confidence in the accuracy of the results page.
+     1. 
+7. Veterans understand the difference between the desired year for benefits and the year that they need to use for income (the previous year).
+     1. 
+8. Veterans understand that thresholds in the app are not final answers, and only by applying for VA health care can they learn what benefits they're eligible for.
+     1. 
+9. Veterans don't need to see their answers to the questions while looking at the results page (i.e., having answers only on the review page is enough). 
+     1. 
+10. The results page is an intuitive place for Veterans to seek information about historical income limits (vs. earlier in the interaction flow).
+     1. 
+11. The intro page communicates that income limits apply to only some Veterans.
+     1. 
 
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
 
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
