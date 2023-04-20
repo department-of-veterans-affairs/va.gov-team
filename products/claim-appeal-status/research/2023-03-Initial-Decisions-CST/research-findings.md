@@ -6,7 +6,7 @@ Date: 4/19/2023
 
 Ruben Sun • ruben@coforma.io , Skyler Schain • skyler@coforma.io
 
-[Research readout](link here) • [Recording]()
+[2023-04_CST-Initial-Decision-Findings.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11278520/2023-04_CST-Initial-Decision-Findings.pdf)
 
 **Jump to:**
 - [Key findings](#key-findings)
@@ -251,11 +251,10 @@ There are a handful of actions we can pursue based on the current pieces of data
 ### To address pain points relating to duplicative, inconsistent, and out-of-date content
 We recommend restructuring and consolidating content in claim detail pages to reduce the amount of redundant information presented.
 
-This might take shape as:
-- Revising request information displayed the claim detail status tab to include details from the file tab.
+> This might take shape as:
+> - Revising request information displayed the claim detail status tab to include details from the file tab.
 	eg. Revise closed request events in the status tab to display the request details shown in the file tab. Rather than displaying “We closed the notice for Request 8”, display  “Request for Exam Request Completed”.
-
-- Ensure the title displayed on the detail page and the corresponding item in listing page match for appeals and supplemental claims    
+> - Ensure the title displayed on the detail page and the corresponding item in listing page match for appeals and supplemental claims    
 
 ### To address pain points relating to lack of clarity and confusion in claim status terminology
 We recommend reviewing and revising claim status content to ensure that information is presented with clarity and serves to inform, direct and set expectations for claimants. Where possible, provide adjustments and context to tonal concerns regarding the feelings of a lack of reciprocity and Veteran mistrust.
@@ -364,9 +363,6 @@ Disability and Assistive Technology (AT):
 
 
 ## Underserved groups we haven’t talked to 
-
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
 * **
 
@@ -377,3 +373,5 @@ This research does not include the perspectives of the following marginalized Ve
 - Biracial   
 - Asian
 - Assistive tech users
+
+<img width="915" alt="cst-initial-decision-tracker" src="https://user-images.githubusercontent.com/1550830/233227914-eb047ec4-9074-4b33-aa0b-9b5b84779845.png">
