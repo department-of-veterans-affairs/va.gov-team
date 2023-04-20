@@ -85,6 +85,8 @@ Then, tap (or select) "Screen." Then, tap the words, “Start Broadcast." Now, t
 
 Well, I am sorry we are having trouble with the screen share today. But, we would like to try to continue this session anyways. Would you be open to verbally walking me through what you’re doing on your screen?  
 
+## Veteran Tasks 
+
 ### Pre-Check-In Text Message Tasks - 5 Minutes
 
 So, now we’ll review the prototype. The prototype is for the process of confirming your upcoming medical appointment on your smartphone, which typically happens a few days before your appointment, and checking in to an appointment using your smartphone once you arrive at the clinic. So, two different tasks that you would typically complete on different days. 
