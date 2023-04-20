@@ -1,40 +1,27 @@
 # Initiative Brief Template
 #### Overview
 
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
 
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
+
 ---
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
 * .
 
+OFCIO’s goals with this work:
+- Global header and footer, and global menus and navigation, code can be copy/pasted and used on other federal .gov websites
+- Veterans have provided positive feedback about the VA seal, USA brand mark, and other usability updates as part of the overall design (especially mobile navigation and signed in menus, and larger font sizes)
+- USWDS team can copy/paste the code and design parameters, and refactor as necessary, to codify these updates in the design system
+
+
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- VA.gov header and footer | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/README.md
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+* How might OFCIO unify a Federal brand
+* How might VA.gov migrate intent, design, and needs into the guardrails provided by this revised design with guardrails.
 
 <!--
 ## Desired User Outcomes
