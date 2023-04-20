@@ -35,9 +35,15 @@ This research fits into these points of a Veteran's Journey:
 The results of this study will help us determine if our designs provide the best user experience for Veterans to access their medical records and help to identify any pain points. This will inform later iterations of the design.
 
 ## **Research questions**
-1) Can Veterans find the information they need to manage their health?
-2) Do Veterans know how to access information that will help them understand their medical records?
-3) Do Veterans know how to print/download both an individual record or list as well as their entire medical record?
+1) Can Veterans find the information they need to manage their health related to:
+  - Labs and test results
+  - Care summaries and notes
+  - Allergies
+  - Vaccines
+  - Vitals
+  - Health conditions
+3) Do Veterans know how to access information within the tool that will help them understand their medical records?
+4) Do Veterans know how to print/download both an individual record or list as well as their entire medical record?
 
 ## **Hypotheses**
 
