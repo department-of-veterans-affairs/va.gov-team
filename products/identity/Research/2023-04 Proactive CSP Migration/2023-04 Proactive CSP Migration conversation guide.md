@@ -5,7 +5,7 @@
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
 - Complete any project-specific setup tasks for this study (List them below)
    - Set up note-taking in Mural
-   - Check that the prototype is working
+   - Check that [the prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979) is working
 
 
 ### 10-15 min before session: 
@@ -31,8 +31,10 @@
 - Do Not Disturb ON so no notifications
 - Make sure everyone is muted except moderator (me) and the participant
 - Mute your Slack notifications
-- Have Zoom meeting ID handy for phone join later in session
-- Have link to prototype handy for phone join later in session
+- Check you are logged out of Zoom on your phone
+- Have the Zoom meeting ID handy for phone join later in session (it can be found in the cal invite!)
+- Have link to [prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979) handy for phone join later in session
+
 
 ## Starting the Session | 5 minutes
 
@@ -160,9 +162,9 @@ I’d like for us to now take a look at a prototype. This is a website design th
 
 I’m going to sign into this Zoom call from my phone, so I can share the design as you might see it from a phone. It will look like another person is joining this session, but it’s just me. Is that ok?
 
-[JOIN ZOOM session from phone, be logged out of zoom on your phone, seelect "Join Meeting" and enter meeting ID]
+[JOIN ZOOM session from phone - be logged out of zoom on your phone]
 
-[SCREEN SHARE, [the prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979) at this point, from your phone]
+[Select "Join Meeting", enter Zoom meeting ID, join without audio, Share > Website URL ([the prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979))]
 
 [IF ANY ISSUE WITH PHONE SHARE - screen share the mobile design from computer]
 
@@ -230,19 +232,6 @@ Lastly, Perigean is who set up the scheduling with you - they will get you set u
 Thank you so much again, and enjoy the rest of your day!
 
 ---
-### Screen sharing instructions (if needed)
-- In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. In the center is a green button that says **Share** (phone) or **Share Screen** (computer). 
-  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
-  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
-
-- Now I'd like you to share your screen with me. Tap on the green button that says **Share**. You will then see options for what to share. Please choose "Screen" or your web browser.
-  - *(on a phone)* You will be asked to select what you'd like to share. Please choose "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help _(give permission > accessibility settings > find Zoom > check box)_.
-  - Great, now I can see your screen! Thank you for your patience in figuring this out.
-
-- iPad: Broadcast screen
-
-- *Backup plan if they cannot figure out how to share screen:*
-  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
 
 ### Instructions for finding Zoom chat (if needed)
 - In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
