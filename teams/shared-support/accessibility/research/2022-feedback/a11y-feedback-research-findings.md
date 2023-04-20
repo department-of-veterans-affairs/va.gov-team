@@ -116,7 +116,7 @@ Known unknowns
 ### Key insights 🧭
 - All of the methods of providing feedback to VA.gov that we audited have confirmed major accessibility issues which may prevent disabled people from submitting accessibility feedback.
 - 2 of the methods we audited have confirmed severe major accessibility issues which likely completely bars access to providing feedback.
-- Many of these methods were audited in the past based on outdated standards (Section 508 follows WCAG 2.0 AA which does not critically cover responsive, mobile, and cognitive considerations). Little (if any) maintenance is conducted post-audit by the Section 508 office, even with the introduction of updated standards.
+- Many of these methods were audited in the past based on Section 508 standards (as opposed to WCAG 2.1 AA) which does not cover responsive, mobile, and cognitive considerations). Maintenance historically has not often been conducted post-audit, even with the introduction of updated standards.
 
 ### Unknowns, risks, and limitations 🤔
 - Audits were cursory in nature. They will likely not capture all potential accessibility or usability issues for disabled Veterans. We should consider the existence of issues as a sign that further testing and usability testing with disabled Veterans should be strongly considered.
