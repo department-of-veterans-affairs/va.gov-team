@@ -56,11 +56,11 @@ Connect with and interview groups and people involved in existing feedback mecha
 
 ## Research Questions
 
-- **How accessible (and to a degree, usable) are current feedback methods on VA.gov? **
+- **How accessible (and to a degree, usable) are current feedback methods on VA.gov?**
   - From secondary research, is a11y feedback being received at all?
   - Have prior audits been conducted? When were they conducted? Were they maintained?
   - If not, can we determine how legally compliant and usable existing tools are (to a subjective degree)?
-- **Where do disabled Veterans currently provide or expect to provide a11y feedback on VA.gov (if at all)? **
+- **Where do disabled Veterans currently provide or expect to provide a11y feedback on VA.gov (if at all)?**
   - What were failed attempts at providing feedback like? (if any)
   - Where do Veterans go first to provide feedback?
   - Is their feedback active or reactive?
