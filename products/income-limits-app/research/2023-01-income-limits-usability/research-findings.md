@@ -128,11 +128,6 @@ Participants were asked about the following:
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
 ### 1. All participants understood the purpose of the app and found it easy to use
 - All participants understood what the app was for--to find out before applying if they might be eligible for VA health care based on their income.
 > *"Figure out even if I'm eligible by income before I continue on to do further research" (p8)*.
@@ -231,19 +226,6 @@ Scrolling down this very long landing page on a phone took a while, especially f
 - RECOMMENDATION: Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move one of the income limits app links closer to the top of page.
 
 
-**Finding 1**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
 ## Additional Insights
 
 ### Content feedback on the app intro page
@@ -272,23 +254,21 @@ Before showing participants the design prototype for the income limits app, we a
 > *"Better to ask a professional, rather than spin your wheels" (p1)*.
 
 ## Recommendations
+### For the app design and functionality
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
 
+### For content in the app
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+- Discuss findings and recommendations with the Sitewide Public Websites team
+- Share content recommendations with Danielle Thierry
 
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+None at this time
 
 
 ## Appendix
