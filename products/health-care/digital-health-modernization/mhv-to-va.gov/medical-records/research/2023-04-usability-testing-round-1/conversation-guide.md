@@ -182,7 +182,7 @@ _[or visa versa if they chose txt]_
 
 - What could you do if you were unsure about which to choose?
 
-Please return to About Va medical records.
+Please return to About VA medical records.
 
 **Things to watch for:**
 - Did the participant get confused by multiple bloodwork results?
