@@ -245,6 +245,7 @@ Future research and work should explore:
 #### Action Items
 - [ ] Josh to reach out to blind rehab service centers to learn more about how they handle and respond to accessibility issues (if at all).
 - [ ] Josh to interview more Veterans from BVA
+- [ ] Josh to continue conversations with contact center team to explore ways of reducing friction for disabled Veterans to provide accessibility specific feedback based on Tim's ideas
 
 #### Completed ✅ 
 - [x] Josh to reach out to Danielle to discuss the Section 508 page, its current experience, its purpose, and strategies to modernize it.
