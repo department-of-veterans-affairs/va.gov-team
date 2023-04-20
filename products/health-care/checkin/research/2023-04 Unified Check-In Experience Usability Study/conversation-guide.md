@@ -1,4 +1,4 @@
-# Patient Check In (PCI) Conversation Guide for Unified Check-In Experience Usability Study 
+# Patient Check In (PCI) Conversation Guide for Unified Check-In Generative Research Usability Study 
 
 Last modified: April 19, 2023
 
