@@ -40,15 +40,31 @@ The purpose of this research is to **get user feedback on the newly redesigned i
 1. What are Veterans' expectations of income eligibility for VA health care? (ask before showing app)
      1. **Half of the participants (4 of 8) hadn't heard of income eligibility for VA health care**. One of these participants assumed that income wasn't relevant because her husband receives VA health care with his service-connected disability (and so probably not subject to income limits).
 3. Where do Veterans expect to find this app? (i.e., Costs of Care page, Eligibility page, etc.)
-4. Do Veterans understand the questions in the app? Is anything unclear or confusing?
-5. Do Veterans find a summary page helpful for verifying the information entered?
-6. Do Veterans understand the income limits presented in the app results page?  Is anything unclear or confusing?
-7. Do Veterans understand the relevant year of income for their eligibility? 
-8. Do Veterans understand the health care benefits shown in the app results page?  Is anything unclear or confusing?
-9. How far do Veterans scroll down the app results page?
-10. Do Veterans understand deductions and how that affects their income? (Did they see the details about this?)
-11. After seeing the information presented in the app results page, what do Veterans want to do next? 
-12. Do Veterans understand that they can use this to find the income limits for a previous year (not 2023)? Reaction to it not being part of the flow?
+     1. VA.gov (5 participants; 3 of whom said under health care > income eligibility)
+     2. VA mobile app under benefits (1 participant), 
+     3. VBA site (1)
+5. Do Veterans understand the questions in the app? Is anything unclear or confusing?
+     1. Yes, but some terminology unclear: VBA, dependents, Aid and Attendance, Housebound allowance 
+7. Do Veterans find a summary page helpful for verifying the information entered?
+     1. Yes
+8. Do Veterans understand the income limits presented in the app results page?  Is anything unclear or confusing?
+     1. Yes, but one participant expected the range breaks to be at even thousands of dollars
+10. Do Veterans understand the relevant year of income for their eligibility? 
+     1. Only one participant mentioned understanding it. No one else commented.
+12. Do Veterans understand the health care benefits shown in the app results page?  Is anything unclear or confusing?
+     1. Confusion around "VA health care", "most types of care", "copays" vs. "full copays", and the lack of consistent bullets across the different ranges.
+14. How far do Veterans scroll down the app results page?
+     1. Most participants scrolled all the way to the bottom, but 2 did not.
+16. Do Veterans understand deductions and how that affects their income? (Did they see the details about this?)
+     1. Only 1 participant mentioned this. No other participants said anything about it and may not have known about deductions because they didn't open the _How to estimate your income for this tool_ accordion. 
+18. After seeing the information presented in the app results page, what do Veterans want to do next? 
+     1. Click on _Find out if you may be eligible_ link (4 participants), though this didn't work in the prototype
+     1. Apply for VA health care (2 participants) = what we wanted people to do
+     1. Call or visit a nearby VA facility (2)
+     1. Do more research to find specific coverages (1)
+     1. Apply for disability because probably won't qualify based on income limits (1)
+20. Do Veterans understand that they can use this to find the income limits for a previous year (not 2023)? Reaction to it not being part of the flow?
+     1. Yes. No comments about accessing from the results page.
 
 
 ## Methodology 
