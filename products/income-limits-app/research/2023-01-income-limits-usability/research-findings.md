@@ -101,17 +101,13 @@ Participants were asked about the following:
 7. Veterans understand the difference between the desired year for benefits and the year that they need to use for income (the previous year).
      1. NOT ENOUGH INFORMATION: Only 2 participants talked about this explicitly, and we don't know whether the others didn't understand or did and just didn't talk about it.
 8. Veterans understand that thresholds in the app are not final answers, and only by applying for VA health care can they learn what benefits they're eligible for.
-     1. MAYBE TRUE: 4 of 6 participants thought that the benefits were not certain because of the phrase "may be eligible" above each of the lists of benefits. However, only 2 of 6 participants said that they would apply for health care,. 
+     1. MAYBE TRUE: 4 of 6 participants thought that the benefits were not certain because of the phrase "may be eligible" above each of the lists of benefits. However, only 2 of 6 participants said that they would apply for health care. 
 9. Veterans don't need to see their answers to the questions while looking at the results page (i.e., having answers only on the review page is enough). 
      1. DEFINITELY TRUE: None of the participants tried to look back at what they entered while reading the results.
-10. The results page is an intuitive place for Veterans to seek information about historical income limits (vs. earlier in the interaction flow).
-     1. 
+10. The results page is an intuitive place for Veterans to seek information about historical income limits (_vs._ earlier in the interaction flow).
+     1. LIKELY FALSE: Two participants had difficulty finding this link on the results page. 
 11. The intro page communicates that income limits apply to only some Veterans.
-     1. 
-
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
+     1. LIKELY TRUE: Some participants mentioned disability being a factor.
 
 ## Key Findings
 
