@@ -40,7 +40,7 @@ The purpose of this research is to **get user feedback on the newly redesigned i
 1. What are Veterans' expectations of income eligibility for VA health care? (ask before showing app)
      1. **Half of the participants (4 of 8) hadn't heard of income eligibility for VA health care**. One of these participants assumed that income wasn't relevant because her husband receives VA health care with his service-connected disability (and so probably not subject to income limits).
 3. Where do Veterans expect to find this app? (i.e., Costs of Care page, Eligibility page, etc.)
-     1. VA.gov (5 participants; 3 of whom said under health care > income eligibility)
+     1. **VA.gov** (5 participants; 3 of whom said under health care > income eligibility)
      2. VA mobile app under benefits (1 participant), 
      3. VBA site (1)
 5. Do Veterans understand the questions in the app? Is anything unclear or confusing?
@@ -77,6 +77,16 @@ We conducted **usability testing** on April 5-11, 2023 to get feedback from rese
 - ALL do NOT get VA disability compensation for a service-connected disability rating of 50% or higher
 
 For more details, see [Who we talked to](#who-we-talked-to).
+
+Participants were asked about the following:
+1. Wayfinding--Find out if you're eligible for VA health care with your current income, with no guidance for where to start
+2. The landing page in the prototype, which you can use to get to the income limits app
+3. The intro page in the app
+4. The question pages in the app
+5. The results page
+6. What they would do next
+7. How to check whether they entered their location correctly
+8. How to see the income limits for a previous year
 
 
 ## Hypotheses and Conclusions
