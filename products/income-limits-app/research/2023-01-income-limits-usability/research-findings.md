@@ -255,10 +255,28 @@ Before showing participants the design prototype for the income limits app, we a
 
 ## Recommendations
 ### For the app design and functionality
-
-
+1. Make the text "To find out if you're eligible, apply now" more visually prominent on the results page because as it is now, participants ignored it. 
+1. Make the *Review the information you entered* link more prominent in location and/or visual treatment/layout (e.g., top of page or maybe look like a button like the _Continue_ button). Maybe explore how other VA.gov pages enable you to navigate to view/edit previous information.
+2. If someone navigates from the _Review Info_ page to another page, consider having the _Continue_ button take you back to the _Review Info_ page instead of the next question.
+6. If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page.
 
 ### For content in the app
+5. Clarify the meaning of "dependents" in this question per income taxes or VA rules, and add details to the question so people will know how to answer. According to a VA subject-matter expert (in an email dated 4/17/2023), dependents include *your spouse*, unmarried children under 18 (or 18-23 if attending school full-time or disabled prior to reaching age 18), and parents if in the Veteran's direct care and whose net worth and income are below a fixed limit.
+2. Delete the text "from VBA" in the pension question (or if this must be kept in, write out "Veterans Benefits Administration") because it's confusing as is.
+3. Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean and want to understand before answering the question.
+4. Be more explicit about household income and deductions on the results page, without using any accordions (since they weren't opened by most participants). For example, consider changing the first sentence from "We use your last year's income to determine..." to "We use your last year's _household_ income _minus deductions (such as out-of-pocket medical expenses, education costs, and funeral/burial expenses for a spouse or child)_ to determine..."
+5. Add more description to the benefits and/or provide links to details for "VA health care", "most types of care", "copays", and "full copays".
+6. Consider standardizing the bullets for each benefit so it's easier to compare them across income ranges: 
+     1. Outpatient and inpatient visits
+     1. Prescriptions
+     1. Travel pay (if applicable)
+7. Lead with a clearer distinction between income limits and what factors make them relevant or not (e.g., "_Not everyone is affected by income limits._ You may be _automatically_ eligible for VA health care based on your VA disability rating, service history, or other factors. If you're not eligible based on these factors, you may still qualify if your income is within our limit.")
+4. Add to the intro page how long to expect and what's needed so people know it's quick and easy (e.g., "Here’s what you’ll need to apply: your household income and number of dependents from the last year...", "It should take about 3 minutes."
+5. Consider adding to the intro page some friendly encouragement/affirmation to use this tool to find out if you're eligible for VA health care.
+1. Consider clarifying in the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page that if your income is too high, applying for disability isn't necessarily the next step.
+2. Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move one of the income limits app links closer to the top of page.
+
+
 
 ## Next Steps
 
