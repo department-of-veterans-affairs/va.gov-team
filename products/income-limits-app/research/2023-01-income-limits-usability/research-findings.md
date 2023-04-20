@@ -113,17 +113,17 @@ Participants were asked about the following:
 
 1. All participants understood the purpose of the app and found it easy to use.
 
-1. There were a few navigation issues within the app
+1. There were a few navigation issues within the app.
 
-1. Participants had some confusion with terminology used in the questions, including the word "dependents"
+1. Participants had some confusion with terminology used in the questions, including the word "dependents".
 
-1. Participants used the salary numbers provided by the moderator to decide which income limit accordion to open on the results page, and most didn't mention their household income or deductions
+1. Participants used the salary numbers provided by the moderator to decide which income limit accordion to open on the results page, and most didn't mention their household income or deductions.
 
-1. Participants had difficulty understanding some of the benefit descriptions under the income ranges
+1. Participants had difficulty understanding some of the benefit descriptions under the income ranges.
 
-1. After seeing the benefits information on the results page, participants had varying interpretations of it and what to do next
+1. After seeing the benefits information on the results page, participants had varying interpretations of it and what to do next.
 
-1. The landing page was very long to read on a phone, and participants found it difficult to find one of the two _Check our current income limits_ links
+1. The landing page was very long to read on a phone, and participants found it difficult to find one of the two _Check our current income limits_ links.
 
 
 ## Details of Findings 
@@ -133,7 +133,7 @@ _For each finding, list details with supporting quotes and images when possible.
 
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
-### All participants understood the purpose of the app and found it easy to use
+### 1. All participants understood the purpose of the app and found it easy to use
 - All participants understood what the app was for--to find out before applying if they might be eligible for VA health care based on their income.
 > *"Figure out even if I'm eligible by income before I continue on to do further research" (p8)*.
 
@@ -145,7 +145,7 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 - Once they found the _Get past income limits_ link, participants didn't have any difficulties doing the **Past Income limits task**. One participant wanted to try a different zip code for the city he's considering moving to in order to learn if he would be eligible for VA health care there. Another participant said they might look at past income limits to see if there was a pattern of increases each year so they could get a sense of what they might pay for copays in the future.
 
-### There were a few navigation issues within the app
+### 2. There were a few navigation issues within the app
 - ***Review the information you entered*** link--Two participants did _not_ use this link to go back from the results page to the summary page. They used the _Back_ button in their browser instead, though one participant was concerned that this might exit them out of the app (it didn't). A different participant thought that this link would take them to information that they filled out previously on VA forms (which is incorrect).
 - RECOMMENDATION: Make the *Review the information you entered* link more prominent in location and/or visual treatment/layout (e.g., top of page or maybe look like a button like the _Continue_ button). Maybe explore how other VA.gov pages enable you to navigate to view/edit previous information.
 - **_Get past income limits_** link--Two participants had difficulty finding this link on the results page. One of them looked in the _How to estimate your income for this tool_ accordion, but this wasn't relevant. They also wanted to click the _Expand all_ accordion above the salary ranges. One of the participants was looking for a search tool but never found one.
@@ -154,22 +154,7 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 - After 1 participant used the _Review Info_ page to return to the zip code page and then clicked the _Continue_ button, they said they were surprised to see the _Dependents_ page. They expected to see the _Review Info_ page again. Other participants saw this, too, and said that they must be going back through all the screens.
 - RECOMMENDATION: If someone navigates from the _Review Info_ page to another page, consider having the _Continue_ button take you back to the _Review Info_ page instead of the next question.
 
-
-### Participants had difficulty understanding some of the benefit descriptions under the income ranges
-Participants found some of the text to be confusing and/or ambiguous, which made it difficult for them to understand the specific benefits and compare them across income ranges. Each of the phrases below generated questions by 3 of 8 participants (but not the same participants for each): 
-- **"VA health care"**--medical? dental? vision? only at a VA hospital?
-- **"most types of care"**--outpatient office visits for routine appointments? appointments for illness? lab work and screenings? inpatient care? surgery? dental? vision? for dependents, too?
-- **"copays" *vs.* "full copays"**--dollar amounts? how much for surgery and is there a limit? 
-
-> *"I don't understand. I would have to ask someone or look it up" (p8)*.
-
-- RECOMMENDATION: Add more description to the benefits and/or provide links to details for "VA health care", "most types of care", "copays", and "full copays".
-- RECOMMENDATION: Consider standardizing the bullets for each benefit so it's easier to compare them across income ranges: 
-  - Outpatient and inpatient visits
-  - Prescriptions
-  - Travel pay (if applicable)
-
-### Participants had some confusion with terminology used in the questions, including the word "dependents"
+### 3. Participants had some confusion with terminology used in the questions, including the word "dependents"
 3 of 8 participants didn't know what **"Aid and Attendance benefits"** were but assumed that they didn't have it.
 1 participant didn't know what **"Housebound allowance"** meant, but assumed they didn't have it.
 In the question *Did you get a VA pension from VBA last year?*, 1 participant didn't know what **"VBA"** meant and said that they felt embarrassed about it and also distracted from the task at hand.
@@ -186,21 +171,7 @@ Participants had different interpretations for the **dependents** question. Some
 - RECOMMENDATION: Delete the text "from VBA" in the pension question (or if this must be kept in, write out "Veterans Benefits Administration") because it's confusing as is.
 - RECOMMENDATION: Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean and want to understand before answering the question.
 
-### The landing page was very long to read on a phone, and participants found it difficult to find one of the two _Check our current income limits_ links 
-The **landing page** in the prototype was a static version of the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) on which the only working links were _Check our current income limits_ in two different places on the page. When the participant clicked on one of those two links, they saw the income limits intro page.
-
-Scrolling down this very long landing page on a phone took a while, especially for the 3 participants who were reading everything on that page. The two income limits links were several scroll distances down the page, and there was more to the page below these links. 
-- 2 participants seemed lost in the long page while scrolling. 
-- 1 participant never found either of the income limits links. 
-- Another participant found one of them but continued reading down the page, and when they scrolled back up, had trouble finding the link again. 
-- 2 other participants missed both links on their first look through the page but found one later. 
-- 6 participants clicked on the first income limits link (in the section _Will I need to pay for any of my care, tests or medications?_).
-- Only 1 participant clicked on the second income limits link (in the section _Does VA verify the information I provide?_), and they remarked:
-> *"Kind of far down on the page" (p9).*
-
-- RECOMMENDATION: Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move one of the income limits app links closer to the top of page.
-
-### Participants used the salary numbers provided by the moderator to decide which income limit accordion to open on the results page, and most didn't mention their household income or deductions
+### 4. Participants used the salary numbers provided by the moderator to decide which income limit accordion to open on the results page, and most didn't mention their household income or deductions
 
 Most participants (7 of 8) **didn't open the _How to estimate your income for this tool_ accordion**, which describes household income and deductions that may apply. Two of them later opened it during the past limits task.
 3 participants said they expected to use the AGI (Adjusted Gross Income) number from last year's income taxes, assuming household income but no additional deductions. 
@@ -209,7 +180,22 @@ Most participants (7 of 8) **didn't open the _How to estimate your income for th
 
 - RECOMMENDATION: Be more explicit about household income and deductions on the results page, without using any accordions (since they weren't opened by most participants). For example, consider changing the first sentence from "We use your last year's income to determine..." to "We use your last year's _household_ income _minus deductions (such as out-of-pocket medical expenses, education costs, and funeral/burial expenses for a spouse or child)_ to determine..."
 
-### After seeing the benefits information on the results page, participants had varying interpretations of it and what to do next
+
+### 5. Participants had difficulty understanding some of the benefit descriptions under the income ranges
+Participants found some of the text to be confusing and/or ambiguous, which made it difficult for them to understand the specific benefits and compare them across income ranges. Each of the phrases below generated questions by 3 of 8 participants (but not the same participants for each): 
+- **"VA health care"**--medical? dental? vision? only at a VA hospital?
+- **"most types of care"**--outpatient office visits for routine appointments? appointments for illness? lab work and screenings? inpatient care? surgery? dental? vision? for dependents, too?
+- **"copays" *vs.* "full copays"**--dollar amounts? how much for surgery and is there a limit? 
+
+> *"I don't understand. I would have to ask someone or look it up" (p8)*.
+
+- RECOMMENDATION: Add more description to the benefits and/or provide links to details for "VA health care", "most types of care", "copays", and "full copays".
+- RECOMMENDATION: Consider standardizing the bullets for each benefit so it's easier to compare them across income ranges: 
+  - Outpatient and inpatient visits
+  - Prescriptions
+  - Travel pay (if applicable)
+
+### 6. After seeing the benefits information on the results page, participants had varying interpretations of it and what to do next
 We have data from only 6 of 8 participants because the other 2 participants didn't get to that task (due to arriving to the session late or dropping off the internet during the session). 
 - 4 of 6 participants thought that the **benefits were not certain because of the phrase "may be eligible"** above each of the lists of benefits. None of these participants had opened the _How to estimate your income for this tool_ accordion, so they were guessing based on the phrasing. 
 
@@ -230,6 +216,20 @@ We have data from only 6 of 8 participants because the other 2 participants didn
 > *"Oh! You need to apply. So not take this information at face value" (p1)*.
 - RECOMMENDATION: Make the text "To find out if you're eligible, apply now" more visually prominent on the results page because as it is now, participants ignored it. 
 
+### 7. The landing page was very long to read on a phone, and participants found it difficult to find one of the two _Check our current income limits_ links 
+The **landing page** in the prototype was a static version of the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) on which the only working links were _Check our current income limits_ in two different places on the page. When the participant clicked on one of those two links, they saw the income limits intro page.
+
+Scrolling down this very long landing page on a phone took a while, especially for the 3 participants who were reading everything on that page. The two income limits links were several scroll distances down the page, and there was more to the page below these links. 
+- 2 participants seemed lost in the long page while scrolling. 
+- 1 participant never found either of the income limits links. 
+- Another participant found one of them but continued reading down the page, and when they scrolled back up, had trouble finding the link again. 
+- 2 other participants missed both links on their first look through the page but found one later. 
+- 6 participants clicked on the first income limits link (in the section _Will I need to pay for any of my care, tests or medications?_).
+- Only 1 participant clicked on the second income limits link (in the section _Does VA verify the information I provide?_), and they remarked:
+> *"Kind of far down on the page" (p9).*
+
+- RECOMMENDATION: Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move one of the income limits app links closer to the top of page.
+
 
 **Finding 1**
 
@@ -245,8 +245,6 @@ Brief description
 
 
 ## Additional Insights
-
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
 ### Content feedback on the app intro page
 We heard **additional feedback on the app intro page**. Each of the comments below is from only one participant, but could be used to potentially tweak the content copy on the page.
