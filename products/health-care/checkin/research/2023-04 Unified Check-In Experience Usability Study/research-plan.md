@@ -1,4 +1,4 @@
-# Patient Check In (PCI) Research Plan for Unified Check-In Experience Usability Study  
+# Patient Check In (PCI) Research Plan for Unified Check-In Generative Research Usability Study  
 
 Last modified: March 31, 2023
 
