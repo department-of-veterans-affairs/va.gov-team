@@ -69,7 +69,7 @@ We have a couple other team members in the waiting room who would like to observ
 - Ok, we are ready to go
 
 
-## Round 1: Mobile internet use questions| 5 minutes
+## Round 1: Mobile internet use questions | 5 minutes
 
 I'd like to start with a few questions to get to know how you go online…
 
@@ -96,9 +96,10 @@ I'd like to start with a few questions to get to know how you go online…
 
 ## Round 2: Account terms questions | 10 minutes
 
-I’d like to take some time to think about a few words or phrases that the VA might use when talking about online accounts. I want to remind you that this isn’t a test of you or your vocabulary. Instead we are interested in understanding what you and other veterans call things so we can make instructions more clear and understandable.
+I’d like to take some time to think about a few words or phrases that the VA or a bank website might use when talking about online accounts. I want to remind you that this isn’t a test of you or your vocabulary. Instead we are interested in understanding what you and other veterans call things so we can make instructions more clear and understandable.
 
-- When you go to a website and want to access your personal information, you probably have to type in your username, which sometimes is your email address, and then your password. What would you call that process?
+- Do you access your banking online?
+- When you go to [your bank OR the VA] online and want to access your personal information, you probably have to type in your username, which sometimes is your email address, and then your password. What would you call that process?
    - Do you have any accounts with personal information, like a bank account or health provider account that has more steps to the sign in process than username and password?
    - [PROMPT] Let's say that while signing in, a site said they were going to text you a 6 digit number - have you ever had to do something like that?
       - Do you have a word or phrase you might call that?
@@ -106,8 +107,8 @@ I’d like to take some time to think about a few words or phrases that the VA m
          - Can you tell me a bit more about your thoughts on this?
 - Let’s think about the process of creating an account for a site like a bank or health care organization that has important personal information about you. Sometimes they’ll ask you to prove who you are. For example, they might have you answer questions about your credit history, or where you’ve lived in the past. Some sites might ask you to send a picture of your ID. Have you ever done anything like this before while creating an account?
    - Do you have a word or phrase you might call this process?
-- Imagine that your bank [IF THEY PREVIOUSLY MENTIONED ONLINE BANKING, otherwise use “the VA”],said that you needed to set up a new sign in that would be more secure.
-   - If you were working for the [BANK or VA] and trying to tell someone about this new type of sign in, what might you call it? Or how might you describe it in a few words?
+- Imagine that your bank [IF THEY PREVIOUSLY MENTIONED ONLINE BANKING, otherwise use “the VA”], said that you needed to set up a new sign in that would be more secure.
+   - If you were working for the [BANK or VA] and trying to tell someone about this new type of sign in, how might you describe it in a few words?
    - [PROMPT] Would you think of this as an upgraded account?
 - Let’s switch it up a little. I’d like for you to think about two specific words. “Authenticate” and “verify”. What similarities or differences do you think about with these two words?
    - [PROMPT] Do they mean different things to you? Or would you use them to talk about the same kind of thing?
@@ -153,7 +154,7 @@ Let’s think more specifically about accessing the VA on your phone
 - Is there anything else you want to share with me about signing into your VA account online, before we move on?
 
 
-## Round 4: Modal task - 10 minutes
+## Round 4: Modal task | 10 minutes
 
 I’d like for us to now take a look at a prototype. This is a website design that we are thinking about using. It will look like VA.gov but this is not real, and everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
 
@@ -220,7 +221,7 @@ I’m going to sign into this Zoom call from my phone, so I can share the design
 - Is there any confusion?
 
 
-## Thank-You and Closing - 5 minutes
+## Thank-You and Closing | 5 minutes
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on VA.gov to make sure it works for Veterans.
 
