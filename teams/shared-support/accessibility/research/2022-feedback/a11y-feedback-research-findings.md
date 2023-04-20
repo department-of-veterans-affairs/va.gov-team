@@ -217,9 +217,17 @@ Many issues found within salesforce at a glance appear to be home related access
 #### Outcomes
 Based on feedback from the Section 508 office and Tim Hornik from BVA, the [VA.gov team launched a new Veteran-centered accessibility page](https://www.va.gov/accessibility-at-va/) to replace the Section 508 feedback page in the footer.
 
-<img width="1199" alt="Screenshot 2023-04-20 at 9 22 08 AM" src="https://user-images.githubusercontent.com/14154792/233379476-14ceb744-8e27-444a-a011-568213c2cd4d.png">
+<img width="1199" alt="The new VA accessibility statement provides more direct access to the Section 508 email" src="https://user-images.githubusercontent.com/14154792/233379476-14ceb744-8e27-444a-a011-568213c2cd4d.png">
 
-Further research and maintenance should be conducted to adjust based on Veteran feedback.
+Further research and maintenance should be conducted to adjust based on Veteran feedback. In a recent conversation with a BVA representative, we heard the following:
+
+> "That's another thing. When you call the VA on a11y issues. Nobody picks up the phone. What is it, section 508? You go to call them, leave a message, nobody gets back to you. Sorry I'm throwing them under the bus. I've made certain recommendations on certain things... you can talk to anyone at the BVA... there's... we know there's been issues for years with this website. Even USA jobs... to try and get a JOB at the VA... it is not accessible for the blind user."
+
+> *audible laughter while reading the disclaimer* "'We're commited to providing access to our websites and digital applications' Yea that's all find and dandy what Section 508 is... but nothing ever gets accomplished. I probably called and sent emails a dozen times. Especially after I was trying to get employment on USA jobs... I have to have someone sighted to insert documentation there."
+
+Future research and work should explore:
+- Mismatches between the Veteran's mental model and the Section 508 office. For example, in the above case, the participant did not hear back about feedback related to an issue related to USA Jobs. From our conversation with the Section 508 office, we know that they can audit and inform other agencies of issues, but they aren't equipped to implement those fixes. 
+- What might the now, next, later look like to mediate this gulf in expectations, provide plain language transparency, or explore service level solutions?
 
 ### Tim Hornik (BVA)
 **Some disabled Veterans are providing feedback, but Tim hypothesizes many more may be sitting with inaccessible products.** Tim shared an anecdote of a social care worker who sent an email to the Section 508 office about the cerner patient portal. Without that social care worker’s relationship with the disabled Veteran and their intervention, the issue may have never been highlighted.
