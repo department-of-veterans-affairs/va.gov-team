@@ -36,12 +36,12 @@ The results of this study will help us determine if our designs provide the best
 
 ## **Research questions**
 1) Can Veterans find the information they need to manage their health related to:
-  - Labs and test results
-  - Care summaries and notes
-  - Allergies
-  - Vaccines
-  - Vitals
-  - Health conditions
+   - Labs and test results
+   - Care summaries and notes
+   - Allergies
+   - Vaccines
+   - Vitals
+   - Health conditions
 3) Do Veterans know how to access information within the tool that will help them understand their medical records?
 4) Do Veterans know how to print/download both an individual record or list as well as their entire medical record?
 
