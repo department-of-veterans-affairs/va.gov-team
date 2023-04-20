@@ -521,6 +521,56 @@ We're continuing discussions with Login.gov to learn more about issues with remo
 
 [Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability/transcripts)
 
+### Addendum shared with Login.gov
+
+This research tested the Login.gov authenticated flow, aiming to understand whether Veterans are able to set up authenticated (not verified) accounts and any pain points they experience. (This does not cover identity verification).
+
+While our focus at the VA is on implications related to VA applications, we did uncover further detail about the Login.gov authenticated flow that weʼve compiled to share with Login.gov. 
+
+**Summary**
+
+1. Starting account creation and confirming an email address is familiar
+2. Multi-factor authentication is overwhelming at first
+3. Veterans who understand risks may add a backup method
+
+**1. Starting account creation and confirming an email address is familiar**
+
+The sign in and create an account page is familiar and well understood by those who have used their email addresses to set up an account before.
+
+> “I would just go to each box enter your email address, password. Wait a minute. No, I would go to create an account.” Veteran (P15)
+
+Similarly, Veterans are used to confirming their email address when they set up an account. When confirming their email address, Veterans might choose to switch devices. For example, it would be common for a Veteran to set up an account from their desktop or laptop, but confirm their email address on their phone.
+
+At this point, we have no recommendations for these steps in Login.govʼs account creation.
+
+**2. Multi-factor authentication is overwhelming at first**
+
+When Veterans first see a long list of MFA options, theyʼre overwhelmed (often sighing out loud).
+
+Veterans, like most users of Login.gov, were most comfortable setting up text message MFA. Once they see this option in the list, theyʼre more comfortable and know what they will do next.
+
+> “It's just the way it looks. That's too much to read.” Veteran (P4)
+
+> “Oh good lord! Iʼm seeing a lot of two-factor authentication options.” Veteran (P16)
+
+We recommend:
+- elevating text message or phone call to the top of the multi-factor authentication menu
+- letting users know that they can choose 2 MFA options earlier on
+- giving users an example of an authenticator application they can use, like Authy
+
+**3. Veterans who understand risks may add a backup method**
+
+Those who have familiarity with MFA may have experience no longer being able to access their MFA. They may choose to setup a backup option.
+
+But, if itʼs not mandatory, most Veterans will not choose to setup a backup method. And many donʼt see an option that would work for them, if they did want to set up a second MFA.
+
+> “It says, the second method. I guess it would have to be my email. Send it to my email. I'd rather not get a phone call.” Veteran (P17) who chose text message as their 1st MFA
+
+We recommend:
+- letting users know that they can choose 2 MFA options earlier on
+- helping users know why it can be helpful to set up a second MFA option
+- considering how to make it clear that thereʼs no hierarchy to your 1st and 2nd MFA options
+
 ### Tools used for synthesis
 
 [Mural](https://app.mural.co/invitation/mural/innovationboards1199/1679084805455?sender=u397f6dbbaed1b5b67b956658&key=8448ba4f-de5b-4aa7-960b-1d215808c652)
