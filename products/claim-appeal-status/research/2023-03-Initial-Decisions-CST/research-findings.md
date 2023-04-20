@@ -2,13 +2,14 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Claim Status Tool, VA Benefits Team 1**
 
-Date: 4/19/2023
+Date: 04/19/2023
 
 Ruben Sun • ruben@coforma.io , Skyler Schain • skyler@coforma.io
 
-[Research findings presentation](https://github.com/department-of-veterans-affairs/va.gov-team/files/11278520/2023-04_CST-Initial-Decision-Findings.pdf)
-[Notes • Mural](https://app.mural.co/t/coforma8350/m/coforma8350/1678215343644/a4feaca153f8c25bb39140cdd522131c94cfe171?sender=u054d6e3523e97ba3fbdf2448)
-[Research Synthesis • Mural](https://app.mural.co/t/coforma8350/m/coforma8350/1678215343644/a4feaca153f8c25bb39140cdd522131c94cfe171?wid=0-1681311431331)
+**Artifacts**
+- [Research findings presentation](https://github.com/department-of-veterans-affairs/va.gov-team/files/11278520/2023-04_CST-Initial-Decision-Findings.pdf)
+- [Notes • Mural](https://app.mural.co/t/coforma8350/m/coforma8350/1678215343644/a4feaca153f8c25bb39140cdd522131c94cfe171?sender=u054d6e3523e97ba3fbdf2448)
+- [Research Synthesis • Mural](https://app.mural.co/t/coforma8350/m/coforma8350/1678215343644/a4feaca153f8c25bb39140cdd522131c94cfe171?wid=0-1681311431331)
 
 **Jump to:**
 - [Key findings](#key-findings)
