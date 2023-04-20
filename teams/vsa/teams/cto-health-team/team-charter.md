@@ -118,7 +118,7 @@ Review accomplishments from prior sprint, what went well, what can be improved, 
 | Meeting | Date | Purpose | Presenter/Lead |
 |-|-|-|-|
 | MHV Scrum of Scrums | Monday (weekly) | Provide MHV on VA.gov updates to all MHV and MHV classic teams. | Lynne; new PM |
-| VFS Team od Teams | Tuesday (weekly) | Provide MHV on VA.gov updates to all VFS teams | Lynne |
+| VFS Team of Teams | Tuesday (weekly) | Provide MHV on VA.gov updates to all VFS teams | Lynne |
 | MHV on VA.gov Weekly Stand Up | Wednesday (weekly) | Provide MHV on VA.gov updates to all MHV on VA.gov adjacent teams | Patrick, Lynne back up |
 | MHV Weekly Design Review | Wednesday (weekly) | Provide MHV on VA.gov updates (UCD/UX, Developers, Testers, Product, and Stakeholder updates) | Team round robin as needed | 
 | MHV Scrum of Scrums | Thursday (weekly) | Provide MHV on VA.gov updates to all MHV and MHV classic teams. | Lynne; new PM |
