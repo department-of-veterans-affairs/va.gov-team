@@ -111,23 +111,19 @@ Participants were asked about the following:
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+1. All participants understood the purpose of the app and found it easy to use.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+1. There were a few navigation issues within the app
 
-1. Finding one
+1. Participants had some confusion with terminology used in the questions, including the word "dependents"
 
-2. Finding two
+1. Participants used the salary numbers provided by the moderator to decide which income limit accordion to open on the results page, and most didn't mention their household income or deductions
 
-3. Finding three
+1. Participants had difficulty understanding some of the benefit descriptions under the income ranges
 
-4. Finding four
+1. After seeing the benefits information on the results page, participants had varying interpretations of it and what to do next
 
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
+1. The landing page was very long to read on a phone, and participants found it difficult to find one of the two _Check our current income limits_ links
 
 
 ## Details of Findings 
