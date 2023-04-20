@@ -93,17 +93,17 @@ Participants were asked about the following:
 1. Veterans will be able to answer the questions in the app for themselves.
      1. LIKELY TRUE: Participants were able to answer the questions, but some terminology clarifications would be helpful.
 3. From the information presented in the app results page, Veterans will understand how the different income thresholds affect the health care benefits they might qualify for, including if their income is higher than all of the thresholds.
-     1. 
+     1. LIKELY TRUE: Participants talked about the benefits in each income threshold but had some questions about them.
 5. Zip code is sufficient/comfortable for Veterans to specify the location where they live.
-     1. 
+     1. MAYBE TRUE: Participants didn't comment explicitly on this, but also weren't able to enter their own zip code due to the nature of the click-through prototype.
 6. After seeing the summary page with information entered, Veterans will have confidence in the accuracy of the results page.
-     1. 
+     1. LIKELY TRUE: All participants verified that the information entered was correct and then talked about the information on the results page as if it was true.
 7. Veterans understand the difference between the desired year for benefits and the year that they need to use for income (the previous year).
-     1. 
+     1. NOT ENOUGH INFORMATION: Only 2 participants talked about this explicitly, and we don't know whether the others didn't understand or did and just didn't talk about it.
 8. Veterans understand that thresholds in the app are not final answers, and only by applying for VA health care can they learn what benefits they're eligible for.
-     1. 
+     1. MAYBE TRUE: 4 of 6 participants thought that the benefits were not certain because of the phrase "may be eligible" above each of the lists of benefits. However, only 2 of 6 participants said that they would apply for health care,. 
 9. Veterans don't need to see their answers to the questions while looking at the results page (i.e., having answers only on the review page is enough). 
-     1. 
+     1. DEFINITELY TRUE: None of the participants tried to look back at what they entered while reading the results.
 10. The results page is an intuitive place for Veterans to seek information about historical income limits (vs. earlier in the interaction flow).
      1. 
 11. The intro page communicates that income limits apply to only some Veterans.
@@ -233,7 +233,7 @@ We have data from only 6 of 8 participants because the other 2 participants didn
 
 - RECOMMENDATION: Consider clarifying in the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page that if your income is too high, applying for disability isn't necessarily the next step.
 
-- Most participants (5 of 6) **didn't realize that you needed to apply for VA health care** in order to find out for sure if you qualify. 
+- Many participants (4 of 6) **didn't realize that you needed to apply for VA health care** in order to find out for sure if you qualify. 
 - 2 participants figured out later in the session that they needed to apply--only after they opened the _How to estimate your income for this tool_ accordion in the Past Year task.
 > *"Oh! You need to apply. So not take this information at face value" (p1)*.
 - RECOMMENDATION: Make the text "To find out if you're eligible, apply now" more visually prominent on the results page because as it is now, participants ignored it. 
