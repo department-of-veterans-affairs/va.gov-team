@@ -70,7 +70,7 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 
 - Study participants ran into multiple errors logging in - roughly 1 in 4 participants - had to be sent the CodePen prototype.  Potential feature flag issue. 
 
-**Finding #5**Participants relied on familiar terminology and design standards when completing certain tasks (i.e., submit for travel reimbursement, send a message) but did not readily understand VA bespoke terms (i.e., Community Care).
+**Finding #5** Participants relied on familiar terminology and design standards when completing certain tasks (i.e., submit for travel reimbursement, send a message) but did not readily understand VA bespoke terms (i.e., Community Care).
 
 - Participants were confident in how to submit for travel reimbursement, but skeptical based on past experience with the VA.
 
@@ -87,3 +87,19 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 >"I would probably go here under My VA health benefits… maybe Community Care or My HealtheVet community…I think I would find resources here [bottom of screen]." - P10
 
 - - -
+
+**Research question #3:** How do users expect to update their health-specific preferences in the new experience? 
+
+**Finding #6** Participants attempted to update their health-specific “preferences” under the Appointments or Medications sections of the landing page. 
+
+- 10 out of the 15 participants tasked with setting up appointment reminders looked under the Appointment section of the landing page. 
+
+>“You'd go under schedule and manage your appointments.” - P19 
+
+>“In my experience, if you're in their system, supplied with email address, you just get automatic notification once a VA scheduled appt has been made.” - P18
+
+- All 10 participants asked to track their prescription refills navigated to the Medications section of the landing page. 
+
+>“Would click on ‘Track prescription delivery’...Huh, that's nice” [regarding locating tracking number]. - P12 
+
+**Note:** not all participants were asked. Unclear if this was a result of the wording of the question, nesting
