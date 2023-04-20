@@ -1,8 +1,8 @@
 # Research Findings
 
-## Key insights
+## Key insights (WIP, post member checking)
 
-## More details
+## Full research findings
 
 ### Contact Center Surveys
 We submitted 4 qualitative data requests for .CSV exports of feedback from Veterans through the intercept survey and feedback button.
@@ -147,11 +147,11 @@ Many issues found within salesforce at a glance appear to be home related access
 - [ ] starlow@thesocompany.com to dig into accessibility requests in microsoft dynamics (the back end for EVA); VA health queues may re-route cases for medical aids and related devices (including hearing aids). 
 
 #### Completed ✅ 
-- [ ] ian.mccullough@oddball.io to follow up to see if anyone has conducted accessibility testing for ask.va.gov
-- [ ] ian.mccullough@oddball.io to share any usability studies conducted with ask.va.gov
-- [ ] Josh KIM to request shared support a11y team to do a cursory audit of ask.va.gov, the medallia feedback button, and the medallia intercept survey to determine if they meet or don’t meet Section 508 compliance
-- [ ] Ian to send Josh code and instructions for intercept survey testing
-- [ ] ian.mccullough@oddball.io to dig into salesforce data to examine for digital accessibility complaints or feedback regarding VA.gov.
+- [x] ian.mccullough@oddball.io to follow up to see if anyone has conducted accessibility testing for ask.va.gov
+- [x] ian.mccullough@oddball.io to share any usability studies conducted with ask.va.gov
+- [x] Josh KIM to request shared support a11y team to do a cursory audit of ask.va.gov, the medallia feedback button, and the medallia intercept survey to determine if they meet or don’t meet Section 508 compliance
+- [x] Ian to send Josh code and instructions for intercept survey testing
+- [x] ian.mccullough@oddball.io to dig into salesforce data to examine for digital accessibility complaints or feedback regarding VA.gov.
 
 #### Blocked ❌
 - [ ] Josh KIM to reach out to Laura to connect with Marlee (who trains call center agents) to ask about a11y, training docs, and if call center agents know how to reply to a11y requests.
@@ -164,4 +164,67 @@ Many issues found within salesforce at a glance appear to be home related access
 
 **Unsure if there are any particular groups using or not using 411.** Salesforce may help answer that. The vast majority of issues are related to authentication. The contact center team is creating a service map of how tier 1 issues are escalated to tier 2, how long those issues sit, and how they are resolved.
 
+### Section 508 Office ✔
+**VA.gov team to draft modernized accessibility statement.** Team acknowledged that the Section 508 page was 15 years old and that a modernized accessibility statement in Veteran-facing plain language would be a welcome improvement in hopes of gathering more feedback through the Section 508 email address. 
+- “Shouldn’t be a commercial for OCTO”
+- Should provide clear expectations and transparency on how feedback is handled and responded to (if ever)
+- Should be accessibility focused, not usability focused (part of setting expectations on what the Section 508 email can handle vs. say the Medallia feedback button)
 
+**Veterans are frustrated they don’t hear back when they provide feedback.** “Biggest complaint from peers is when they do complain they don’t ever hear anything. So someone needs to respond with details so they know they’re heard. Veterans feel like they complained but I never heard anything. So why should I mess with it.”
+
+**Managing who tickets go to and how they’re resolved is a complex process.** When the Section 508 office receives feedback from Veterans through their email, they first determine if it is (or isn’t) an issue they can address. If they can address it, they create a servicenow ticket for their team. If they can’t, they find the appropriate team to forward it to. A pain point here is that when they forward tickets, there’s no guarantee the team it is forwarded to will provide a response back confirming a fix. Even if they do, it’s often too late for the Veteran who may have to sit on an unresolved issue for 6+ weeks.
+
+**Section 508 office is interested in the potential of ask.va.gov, but haven’t been included yet.** The office is looking for a way to reduce the number of feedback ticketing systems and looking into ways to follow up on tickets with Veterans. Ask.va.gov may fill in that gap, but it’s inaccessible and the Section 508 office (to their knowledge) has not been included in auditing it.
+
+**It may be difficult to track data on usage of the Section 508 email.** Currently, there are no analytics, and it may be a manual intensive process.
+
+**Veterans who prefer analog methods feel excluded.** “I don’t use tech. Everything you do pushes guys like me further and further out. My wife is good with tech but she’s not a Veteran. Never seems to get anywhere. I don’t do it.” “What Pat said, someone on the phone. Neither AIRA or BeMyEyes is accessible through a regular phone. For me, logging into VA.gov, not a Veteran, they can’t get to the things Brad needs to get to.”
+
+#### Action Items
+- [x] martha.wilkes@va.gov to connect Chris with the ask.va.gov team
+- [x] Josh KIM to work with Danielle to kickstart drafting a modernized VA.gov accessibility statement
+- [x] Josh KIM and martha.wilkes@va.gov to reach out to laura.fortner-monegan@va.gov to talk about the opportunity to kickstart a VEO project around better understanding the disabled Veteran experience.
+
+#### Outcomes
+Based on feedback from the Section 508 office and Tim Hornik from BVA, the [VA.gov team launched a new Veteran-centered accessibility page](https://www.va.gov/accessibility-at-va/) to replace the Section 508 feedback page in the footer.
+
+<img width="1199" alt="Screenshot 2023-04-20 at 9 22 08 AM" src="https://user-images.githubusercontent.com/14154792/233379476-14ceb744-8e27-444a-a011-568213c2cd4d.png">
+
+Further research and maintenance should be conducted to adjust based on Veteran feedback.
+
+### Tim Hornik (BVA)
+**Some disabled Veterans are providing feedback, but Tim hypothesizes many more may be sitting with inaccessible products.** Tim shared an anecdote of a social care worker who sent an email to the Section 508 office about the cerner patient portal. Without that social care worker’s relationship with the disabled Veteran and their intervention, the issue may have never been highlighted.
+
+**VEO historically has not considered the disabled Veteran experience**, but is critical to collecting feedback. As an advocate, Tim requested VEO to have mechanisms and pathways for feedback both virtually and physically at VA centers in the past. This doesn’t appear to have been implemented.
+411 may be too overwhelmed to help. Tim noted that 411 call center employees may not have the time, training, and space to record accessibility feedback and forward it to the appropriate places to be fixed.
+
+**The Section 508 page needs an update and more research.** The page has existed for 15 years and includes content on both internal department information and Veteran facing services. It’s linked to from the footer on all VA.gov pages as “Accessibility” which may be misleading. Tim is worried that it won’t be discoverable as a footer item. He knows that people use it (including VA staffers) because we direct them to go there from this external site. 
+
+**We should explore paths of least resistance for improving Medallia feedback.** Tim noted it may be easier to just include a link that acts as an offramp to another form for accessibility feedback within the Medallia feedback options.
+- SSA has a plain language a11y page we can reference. We should find other pages as well to make a case for modernizing VA.gov’s accessibility page (currently Section 508 page).
+
+**In past work with rehab centers, people didn’t deliver feedback.** Tim noted that people would complain about accessibility issues in meetings, but wouldn’t formally report on it.
+
+#### Action Items
+- [ ] Josh to reach out to blind rehab service centers to learn more about how they handle and respond to accessibility issues (if at all).
+- [ ] Josh to interview more Veterans from BVA
+
+#### Completed ✅ 
+- [x] Josh to reach out to Danielle to discuss the Section 508 page, its current experience, its purpose, and strategies to modernize it.
+- [x] danielle.thierry@va.gov to place the Section 508 page on the content migration roadmap for prioritization
+Josh to explore analytics on interaction with the accessibility link in the footer.
+
+### Djilan Yao (VEO)
+**Uncertain if any VEO projects have specifically addressed accessibility or disabled Veterans.** It doesn’t seem to be something the measurement team has investigated yet, but could be an area of interest. Evan and Dan may be the next people to talk to (if possible).
+
+**There are 4 main methods of sending out surveys.** Most (if not all) are powered by Medallia. This includes (1) surveys on VA.gov (feedback button and intercept survey), (2) QR codes in facilities that link to surveys, (3) IVR surveys over phone which are then input into Medallia, and (4) surveys sent out to sampled individuals by email which link to surveys. 
+
+**We know some of those surveys (on VA.gov) have accessibility issues documented in Tiffany’s audit.** But we’re uncertain if those issues exist on other Medallia surveys too. For example, if other surveys aren’t within a modal, they likely won’t share the same major issues related to magnification.
+
+**The base survey template is 508 compliant (WCAG 2.0), but may not cover issues beyond that scope.** Surveys are developed for 508 compliance and tested internally through the 508 office. If a survey taker is using a software or technology outside of the 508 boundaries, we are not able to ensure it will work properly. 
+
+#### Action Items
+- [ ] Djilan or Laura (if possible) to forward accessibility issues documented in Tiffany’s audit to Medallia (or whoever can address them).
+- [ ] Laura to connect with Erin to discuss a short term research effort on the disabled Veteran experience and how they provide feedback to the VA. 
+- [ ] Djilan or Laura (if possible) to send Josh sample surveys sent through email. I’d love to test them to determine what issues are consistent with VA.gov. Ideally, we would be able to test these with Veterans with disabilities, but we likely lack the budget/time to do so. 
+- [ ] Josh to introduce Tim Hornik to Laura. I think this connection may help accelerate our efforts.
