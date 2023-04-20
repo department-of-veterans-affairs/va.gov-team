@@ -3,12 +3,12 @@
 ### Date: April 19 2023
 ### Topics covered:
 - Review road-map
-- Collab cycle expectations
+- Collab cycle expectations - While the timelines are expectations for normal tickets, we may be able to get some things expedited for urgent work.
 - Bugs/Defects priortization
-   -  Future DOC 
+   -  Future DOC - pending data from Matt B on how many claims are being established with this issue
    -  Identification issue - Survey feedback has revealed that a number of 526 users receive an error stating "We need more information from you before you can file a Benefits Delivery at Discharge claim 
    -  508 blocker - potentially a very small FE change
-- How can the BDEX team help Team 2
+
 
 
 ### Date: April 5 2023
