@@ -31,11 +31,11 @@ The Modernized Check-In Experience Team has received feedback from Veterans and 
 
 ![unnamed (1)](https://user-images.githubusercontent.com/101129355/229234518-b46ac49e-2710-4200-abd5-9614a1cb4d13.png)
 
-To mitigate these concerns, the Modernized Check-In Experience Team has decided to merge our two applications into one (i.e., a unified check-in experience) to remove the confusion between pre-check-in and check-in. 
+To mitigate these concerns, the Modernized Check-In Experience Team has decided to do some generative research around merging our two applications into one (i.e., a unified check-in experience) to remove the confusion between pre-check-in and check-in.
 
-When Veterans access the new PCI web app, an appointment card notification will be used to highlight the upcoming appointment that requires immediate attention. For example, the appointment needs to be confirmed or checked into. 
+In this scenario, when Veterans access the new PCI web app, an appointment card component will be used to highlight the upcoming appointment that requires immediate attention. For example, the appointment needs to be confirmed or checked into.
 
-In addition, we will start showing Veterans all of their upcoming appointments as a solution for making their health appointment information more accessible and creating better consistency among other apps and web experiences across VA that provide appointment information. 
+In addition, we will start showing Veterans all of their upcoming appointments as a solution for making their health appointment information more accessible, creating better consistency among other apps and web experiences across VA that provide health appointment information and enabling them to complete other related actions during a single interaction. 
 
 ### OCTO Objectives 
 
