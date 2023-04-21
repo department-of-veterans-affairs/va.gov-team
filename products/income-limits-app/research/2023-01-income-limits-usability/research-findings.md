@@ -314,7 +314,9 @@ None at this time
   ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg3.png)
   ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg4.png)
   ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg5.png)
-  
+  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg6.png)
+   ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg7.png)    
+     
 </details>
 
 <details>
