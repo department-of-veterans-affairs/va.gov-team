@@ -18,9 +18,9 @@ Date: 04/21/2023
 
 [Recommendations](#recommendations)
 
-[Who we talked to](#who-we-talked-to)
+[Appendix (including screenshots of prototype)](#appendix)
 
-[Further research needed](#further-research-needed)
+[Who we talked to](#who-we-talked-to)
 
 <br>
 
