@@ -105,22 +105,22 @@ The mobile app open card sort ([finding 1](https://github.com/department-of-vete
 
 **Outstanding question**: Does this hold up when we add the layer of a visual navigation on top of a tree test? Is the delineation about "Get" and "Manage", or something else?
 
-4. Users want multiple ways of getting to the same information.
+3. Users want multiple ways of getting to the same information.
 	- [Health Hub Tree Test Finding 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/HH_ResearchFindings.pdf)	
 	- [My VA 2.0 Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#veterans-want-new-information-to-be-clear-to-them-when-they-log-in-and-expect-to-receive-new-information-through-multiple-channels)
 	- [Action items discovery, Central Alerts finding 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#central-alerts-page-1)
 	- [Mobile App Open Card Sort, Finding 8](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md)
 	- In the homepage redesign usability testing ([round 1, finding 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md#3-of-the-20-top-tasks-tested-9-tasks-were-completed-successfully-by-everyone-and-4-were-completed-by-only-half-of-those-who-tried-them)), we saw participants take very different paths to complete the same thing. The study also [recommends that we ensure all top tasks can be accomplished via searching *and* browsing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md#beyond-the-home-page-out-of-scope-but-can-discuss-with-other-teams)
-5. Increased depth of hierarchy (ex: Claims being under Benefits) does not necessarily negatively impact people’s perception of ease of use/navigation. In fact, subcategories may improve clarity and better align to Veteran’s mental models.
+4. Increased depth of hierarchy (ex: Claims being under Benefits) does not necessarily negatively impact people’s perception of ease of use/navigation. In fact, subcategories may improve clarity and better align to Veteran’s mental models.
 	- [Mobile App IA Usability, Finding 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md#study-tasks) 
 	- [Mobile app closed card sort, recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#we-recommend-the-following-changes-to-the-high-level-ia-to-improve-clarity-between-categories-and-better-match-participants-mental-models)
 	- [2023 VA mobile app IA and Navigation project summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/2023%20VA%20Mobile%20App%20-%20IA%20%26%20Navigation%20Project%20Summary.pdf)
-6. Visual indicators, such as a red dot for alerts, combined with clear labeling make it easy for people to understand something needs their attention.
+5. Visual indicators, such as a red dot for alerts, combined with clear labeling make it easy for people to understand something needs their attention.
 	- [Action items discovery, Central Alerts finding 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#central-alerts-page-1)
 
 **Outstanding question**: What other wayfinding methods besides navigational terms should we consider?
 
-7. The mobile app IA (which is similar to VA.gov) is easy and intuitive for people to navigate and learn, even when they’re brand-new to the app.
+6. The mobile app IA (which is similar to VA.gov) is easy and intuitive for people to navigate and learn, even when they’re brand-new to the app.
 	- [Mobile App IA Usability, Key Findings 1 and 3, and Detailed Findings, Question 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md#study-tasks)
 	- [2023 VA mobile app IA and Navigation project summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/2023%20VA%20Mobile%20App%20-%20IA%20%26%20Navigation%20Project%20Summary.pdf)
 
