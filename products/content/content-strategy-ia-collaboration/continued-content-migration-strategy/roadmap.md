@@ -28,8 +28,13 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
 - Education rates content
 - VEText FAQs (va.gov/health/vetext_faqs.asp)
 - Dental program (va.gov/healthbenefits/vadip/)
+- Some persona pages on main TeamSite nav (others need more extensive work/planning)
   
 ## Currently in progress
+
+### Veteran persona page
+
+- In planning for strategy for a "getting started as a Veteran" resources page
 
 ### Community care content for Veteran and other beneficiary pages (R&S pilot partner)
 - Costs and billings section migrated in September 2022.
