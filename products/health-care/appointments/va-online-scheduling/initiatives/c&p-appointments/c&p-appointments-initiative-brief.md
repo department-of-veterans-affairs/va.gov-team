@@ -58,15 +58,33 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 ### Relevant studies
 
- 
+- [Whiteboard with initial internal discovery.](https://www.figma.com/file/wpu8ihC3ps2gjAd37lPkrs/Compensation-and-Pension-(C%26P)-Exam---initial-discovery?node-id=0%3A1&t=ScDo9r4KoGJeKwfS-1)
 
+### Assumptions
 
-### Assumptions/Risks
+**List**
+- C&P appts will show in Upcoming and Past lists
+- C&P appts canceled by the facility will show in the Upcoming list
+- Type of care column will display “Compensation and pension exam” followed by provider if available
+- Veterans with C&P appts will be able to start the scheduling process as normal.
+
+**Details**
+- No option to cancel. Appointment will display facility contact info instead
+- A link back to the Ebenefits portal will be available.
+- Upcoming appointments that aren't canceled will have an option to add to calendar
+- All will have the print option
+
+### Risks
 
 - **Value Risks** (will people use it): 
-  - 
+  - We won't be showing all compensation and pension exams, since some may be scheduled outside of VistA. Veterans may not trust the data in the list.
+
+
 - **Usability Risks** (can people figure out how to use it):
-  - 
+  - Veterans won't be able to cancel compensation and pension exams online.
+      - Veterans may miss compensation and pension exams that aren't listed.
+
+
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - 
   
