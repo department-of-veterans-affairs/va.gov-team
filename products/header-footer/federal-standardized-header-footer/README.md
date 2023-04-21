@@ -3,14 +3,12 @@
 
 This initiative will work to solve three problems:
 1. Use web components - The VA.gov header needs to be migrated to use web components in order to allow the update of the VA.gov Design System to USWDS 3.0. 
-2. Decrease payload size - The payload size of the header should be reviewed and optimized as much as possible to better support Veterans and beneficiaries accessing VA.gov on low-bandwidth connected devices.
+2. Increase performance - The performance of the header should be reviewed and optimized as much as possible to better support Veterans and beneficiaries accessing VA.gov on low-bandwidth connected devices.
 3. Prototype OFCIO's new global header and footer layout - attempt to adopt OFCIO's new experimental global header and footer and test with Veterans and beneficiaries to validate that it can be successfully adopted with minimal negative impact to site visitors.
 
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
 
 OFCIO’s goals with this work:
 - Global header and footer, and global menus and navigation, code can be copy/pasted and used on other federal .gov websites
