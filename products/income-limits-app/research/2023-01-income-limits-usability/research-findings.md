@@ -299,12 +299,16 @@ None at this time
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/analysis/Income%20limits%20usab%20notes%20%26%20data%20analysis.xlsx)
+
+[Mural board](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1674859150912?sender=uff8fa85716c1796ccf022668&key=dbd99364-9dbc-4051-8ba4-bc31c7c5aad3)
 
 
 ## Pages and applications used
 
 [Prototype](https://www.figma.com/proto/pqSQOl4IodScHhobr0GkbD/Income-Limits-Prototype?page-id=201%3A1943&node-id=202-3001&viewport=1270%2C1287%2C0.36&scaling=min-zoom&starting-point-node-id=202%3A3001&hotspot-hints=0)
+
+### Screenshots of the prototype screens
 
 
 ## Who we talked to 
