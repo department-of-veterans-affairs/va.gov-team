@@ -25,7 +25,7 @@ These are the specific things we wanted to gain insights on through this work:
 
 ### How can we apply what we’ve learned to logged-out flows?
 
-## Problems with the logged-in experience
+## Problems we’ve identified with the logged-in experience
 
 ## Recommendations
 
