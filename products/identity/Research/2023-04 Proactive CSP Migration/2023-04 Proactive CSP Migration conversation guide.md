@@ -38,23 +38,30 @@
 
 ## Starting the Session | 5 minutes
 
-- If the participant doesn't show up in the first few minutes, reach out to Perigean on Slack.
-- Have your camera on
+[Have your camera on]
 
-Thank you for joining this session today! I first want to make sure that we are able to hear each other.
+[If the participant doesn't show up in the first few minutes, reach out to Perigean on Slack.]
+
+
+- Thank you for joining this session today! I first want to make sure that we are able to hear each other.
 
 [WAIT FOR RESPONSE - if can’t hear, [troubleshoot](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr#Troubleshootingresearchsessions-Problem:Usercannothearyou/youcan'thearthemonZoom) otherwise...]
 
-Great! I’m [YOUR NAME] and I’m a researcher for VA.gov. 
-I also have [NOTE TAKER NAME] here today, who I’ll now ask to introduce themself.
+- Great! I’m [YOUR NAME] and I’m a researcher for VA.gov. 
+- I also have [NOTE TAKER NAME] here today to take some notes. I’ll ask them to introduce themself.
 
 [PAUSE FOR NOTE TAKER to introduce themself]
 
-We have a couple other team members in the waiting room who would like to observe and help take notes. But before we invite them, I'd like to tell you more about what we're doing today.
-- The subject of our research today is the login and account process.
+- I'd also love for you to tell us a little about yourself.
+
+[PAUSE FOR PARTICIPANT to introduce themself]
+
+- Nice to meet you!
+- We have a couple other team members in the waiting room who would like to observe and help take notes. But before we invite them, I'd like to tell you more about what we're doing today.
+- The subject of our research today is the login and account process. We are not testing your ability.
 - Today we're going to talk about how you sign in to access and manage your VA benefits and health care.
-- In this session, we want to hear your honest opinions. We are not testing your ability. The goal is to improve this process to better meet veterans needs. I will not be offended by any opinions you express, and I welcome your candid feedback.
-- In this session, I’ll also ask you to interact with a prototype. It will look real, but it isn’t, and we won’t be accessing your account or real information. We use prototypes to help us test things before we decide what to make real.
+- In this session, we want to hear your honest opinions. The goal is to improve this process to better meet veterans needs. We will not be offended by any opinions you express, and we welcome your candid feedback.
+- In this session, later on, I’ll ask you to interact with a prototype. It will look real, but it isn’t, and we won’t be accessing your account or real information. We use prototypes to help us test things before we decide what to make real.
 - This entire session will take no more than 1 hour.
 - I do want you to be as comfortable as possible, so if for any reason and at any time you want to pause or even stop the session, please let me know.
 - Perigean did previously ask for your consent to allow other people to observe today, but I know things can change. So I'd like to confirm with you now - are you okay with a couple of additional observers joining us during this session?
@@ -100,7 +107,7 @@ I'd like to start with a few questions to get to know how you go online…
 
 I’d like to take some time to think about a few words or phrases that the VA or a bank website might use when talking about online accounts. I want to remind you that this isn’t a test of you or your vocabulary. Instead we are interested in understanding what you and other veterans call things so we can make instructions more clear and understandable.
 
-- Do you access your banking online?
+- Do you access any banking online, either from a phone or computer [or tablet IF MENTIONED PREVIOUSLY]?
 - When you go to [your bank OR the VA] online and want to access your personal information, you probably have to type in your username, which sometimes is your email address, and then your password. What would you call that process?
    - Do you have any accounts with personal information, like a bank account or health provider account that has more steps to the sign in process than username and password?
    - [PROMPT] Let's say that while signing in, a site said they were going to text you a 6 digit number - have you ever had to do something like that?
@@ -122,11 +129,12 @@ I’d like to take some time to think about a few words or phrases that the VA o
 
 ## Round 3: VA account use questions | 10 minutes
 
-Let’s think more specifically about accessing the VA on your phone
+Let’s think more specifically about accessing the VA
 
 - What do you tend to do the most often when signing into the VA online?
-- How often would you say that you use a phone to go online to manage your VA benefits or VA healthcare?
-   - [IF SPLIT mobile/desktop] Are there certain things you are more likely to do on your phone?
+- How often would you say that you go online to manage your VA benefits or VA healthcare using your phone?
+   - [IF SPLIT mobile/desktop] 
+   - Are there certain things you are more likely to do with the VA online using a phone?
    - Are there things you’re more likely to do on a computer?
       - [either desktop or laptop]
 - If I asked you to use your phone to sign into your VA account online, how would you get there?
@@ -138,7 +146,7 @@ Let’s think more specifically about accessing the VA on your phone
    - I’m interested in why you [DO or DON’T] go to different places for the VA online.
    - Is there a word or phrase that you might use to call all these different VA places online?
       - [NOTE: DON’T specifically say “VA digital tools” here, save further discussion about this in Round 4]
-- When was the last time you remember signing into your [VA account online]?
+- When was the last time you remember signing into your [VA account online], either with a phone, tablet, or computer?
    - And are you comfortable telling me why you signed in that day? Like what were you trying to do then?
    - Do you remember what webpage or web address you used at that time?
       - [PROMPT: maybe VA.gov or maybe My HealtheVet (myhealth.va.gov) or the VA app?]
@@ -168,7 +176,7 @@ I’m going to sign into this Zoom call from my phone, so I can share the design
 
 [IF ANY ISSUE WITH PHONE SHARE - screen share the mobile design from computer]
 
-- Hopefully this looks familiar like what you would see on VA.gov from your phone?
+- This should look like what you would see on VA.gov from your phone - does it look familiar?
 - As we move through these pages, please feel free to guide or direct me where to go on the page
 - Let's say you were going to sign into your account to [PRIOR MENTIONED TASK or “refill a prescription”].
    - Would you normally select the "sign in" button?
@@ -178,6 +186,7 @@ I’m going to sign into this Zoom call from my phone, so I can share the design
    - [ADVANCE to modal page]
 - So we're signed in. Can you describe for me what you see now?
    - [STOP SCREEN SHARE or otherwise hide the modal while answering]
+   - [NOTE if cognative disability/decline/ or participant is seems more slow and methodical, leave up a few more seconds]
    - I’m hiding that screen from view for a moment, because right now I’m mostly interested in your first immediate thought.
    - If this popped up here while you were actually signing in, what would you do next?
       - [PROMPT: maybe close it right away? Or read through it?]
@@ -194,6 +203,9 @@ I’m going to sign into this Zoom call from my phone, so I can share the design
      - Other than right as you sign in, would there be a better place or time for this to come up for you?
         - Why would this be a point for you to see this?
 - I’ll give you some time to look through this now. Try to spend as much time as you would if you were actually signing into your account here. Let me know when you are good.
+   - [IF WOULD CLOSE IMMEDIATELY - imagine that something about this caught your eye and you were intested in learning more. Spend a few moments to read through this page]
+
+[FROM PHONE - Zoom > Share > Website URL - the URL should be saved if the phone never left the session]
 
 [WAIT AS NEEDED]
 
@@ -205,7 +217,7 @@ I’m going to sign into this Zoom call from my phone, so I can share the design
 - Now that you’ve read this, what would you do?
    - Is getting a new sign in something you would consider doing after reading this?
 - How do you feel about the information that's presented here, on this screen?
-   - How do you feel about this account option listed?
+   - How do you feel about the option listed?
    - Have you heard of it?
    - What would you expect to happen if you go through with signing up for Login.gov?
       - [PROMPT] What is your understanding of what this change means for you
@@ -232,7 +244,7 @@ Lastly, Perigean is who set up the scheduling with you - they will get you set u
 Thank you so much again, and enjoy the rest of your day!
 
 ---
-
+## Session Helps
 ### Instructions for finding Zoom chat (if needed)
 - In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
   - Computer: Just to the left of center is a conversation bubble that says **Chat**. 
@@ -242,7 +254,7 @@ Thank you so much again, and enjoy the rest of your day!
 
 ---
 
-## Emergency Exit
+### Emergency Exit
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
 
