@@ -72,9 +72,9 @@ We conducted **usability testing** on April 5-11, 2023 to get feedback from rese
 
 **We talked to 8 Veterans**, one of whom was also a Veteran's family member.
 - 6 of 8 used a smartphone for the session, and 2 used a computer
-- ALL did NOT have VA health care
-- ALL do NOT receive a pension from the VA
-- ALL do NOT get VA disability compensation for a service-connected disability rating of 50% or higher
+- NONE have VA health care
+- NONE receive a pension from the VA
+- NONE get VA disability compensation for a service-connected disability rating of 50% or higher
 
 For more details, see [Who we talked to](#who-we-talked-to).
 
@@ -83,8 +83,8 @@ Participants were asked about the following:
 2. The landing page in the prototype, which you can use to get to the income limits app
 3. The intro page in the app
 4. The question pages in the app
-5. The results page
-6. What they would do next
+5. The results page in the app
+6. What they would do next after seeing the results
 7. How to check whether they entered their location correctly
 8. How to see the income limits for a previous year
 
