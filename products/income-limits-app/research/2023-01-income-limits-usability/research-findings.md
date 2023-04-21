@@ -275,13 +275,10 @@ Before showing participants the design prototype for the income limits app, we a
 1. Consider clarifying in the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page that if your income is too high, applying for disability isn't necessarily the next step.
 2. Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move one of the income limits app links closer to the top of page.
 
-
-
 ## Next Steps
 
 - Discuss findings and recommendations with the Sitewide Public Websites team
 - Share content recommendations with Danielle Thierry
-
 
 ## Further research needed
 
@@ -309,6 +306,16 @@ None at this time
 [Prototype](https://www.figma.com/proto/pqSQOl4IodScHhobr0GkbD/Income-Limits-Prototype?page-id=201%3A1943&node-id=202-3001&viewport=1270%2C1287%2C0.36&scaling=min-zoom&starting-point-node-id=202%3A3001&hotspot-hints=0)
 
 ### Screenshots of the prototype screens
+#### Landing page
+<img src="[https://your-image-url.type](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg1.png)" width="50%" height="50%">
+<img src="[https://your-image-url.type](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg2.png)" width="50%" height="50%">
+<img src="[https://your-image-url.type](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg3.png)" width="50%" height="50%">
+<img src="[https://your-image-url.type](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg4.png)" width="50%" height="50%">
+<img src="[https://your-image-url.type](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg5.png)" width="50%" height="50%">
+
+
+#### Intro page
+
 
 
 ## Who we talked to 
