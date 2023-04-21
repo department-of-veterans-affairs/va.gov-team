@@ -55,7 +55,15 @@ OFCIO’s goals with this work:
 * Overall satisfaction score
 * VA.gov experience rating
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+| Product KPI | Baseline as of **DATE** | Target | Link to data source (e.g. GA, Domo) |
+| ----------- |  ----------- |  ----------- |  ----------- | 
+| VA.gov homepage performance |   |   |   | 
+| VA.gov health hub page performance |   |   |   | 
+| Legacy Teamsite page performance |   |   |   | 
+| Online form performance |   |   |   | 
+| VA.gov Overall Satisfaction |   |   |   | 
+| VA.gov Experience rating |   |   |   | 
+
 
 ---
 
@@ -108,34 +116,27 @@ OFCIO’s goals with this work:
    
 ## Screenshots
 
-### Before
-
-### After
+See initiative design folder
 
 ---
 
 #### Communications
-*Where will you discuss this initiative?*
 
-<details>
-
-- Team Name: 
+- Team Name: Public Websites
 - GitHub Label(s): 
-- Slack channel: 
+- Slack channel: #sitewide-public-websites
 - Product POCs:
-
-</details>
+  - VA Product Owner: Dave Conlon
+  - Product Manager: Wes Rowe
+  - Delivery Manager: Jill Adams
 
 
 #### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
-
-<details>
   
-- Office/Department:
-- Contact(s): 
- 
-</details>
+- Andy Lewandowski, Office of the Federal CIO
+- Matt Dingee, OCTO Platform
+- Web governance board
+
 
 ---
 <sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
