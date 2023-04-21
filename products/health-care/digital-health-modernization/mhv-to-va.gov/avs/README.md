@@ -114,6 +114,7 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 ![AVS-MVP-Happy-Path-UserFlow](https://user-images.githubusercontent.com/66287082/232537966-4330ee46-a1f0-4caf-a158-304b33e03b9f.jpg)
 
 - [Kickoff Mural (includes initial decisions, definition of success, and more)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677076638208/77cc850ded3dd4358451f0a42f7a96d9f49a1206?sender=u7c471a43344939c759cb1640)
+- [WIP Sketch](https://www.sketch.com/s/05d5a740-4fc7-4380-8d83-e7acfbab201b)
 
 ### After
 
