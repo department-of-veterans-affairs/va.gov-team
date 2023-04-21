@@ -104,3 +104,33 @@ Of the above categories, the issues that received the most responses were:
 * Travel
 
 The full categorization and responses can be viewed on the [Mural board](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1676311311015/b2f3b67b456d44341ed35a5e461d1868656b58c7?sender=u683996861c7842a72dea8966).
+
+## Observations
+### Observation 1
+**Veteran Feedback**<br /> 
+“I am a CVSO VA accredited and I needed the updated VA form 21-0845 since we are suppose to use the "updated" forms in 2023”
+
+**Summary Statement**<br />
+Their needs to be a system put in place to have the updated forms properly added to the site. May need to have a separate feedback for incorrect forms submissions on the site.
+<img width="1051" alt="Screen Shot 2023-04-21 at 4 32 05 PM" src="https://user-images.githubusercontent.com/73119703/233729448-0749cd6e-a0ae-4686-b990-71f74e343c7f.png">
+
+### Observaton 2
+**Veteran Feedback**<br />
+* “I can't find how to (upload) submit a form 20-0995 online.”
+* “Difficulty in finding where to electronically file forms for disagreement with VA decision and uploading new evidence as requested because the decision closed the case”
+* “Tried filling out the VA Form 10-10EZR. I want to be able to fill it out online and send it electronically. To find a printer, sign it, and then mail it out is more of a hassle.”
+
+**Summary Statement**<br />
+Most forms on the Find a Form page lack the Online Tool option to submit the forms online. The need for online submissions would greatly aid veterans to submit their forms efficiently and stress free.
+
+<img width="1053" alt="Screen Shot 2023-04-21 at 4 33 21 PM" src="https://user-images.githubusercontent.com/73119703/233729689-b5dcd890-6dfc-4876-92cb-820045ec5386.png">
+
+### Observaton 3
+**Veteran Feedback**<br />
+* “i was trying to open the VA Form 10-10EZR form to fill out and submit. was unable to do so. it only gave me the option to download the form, which i already have.”
+* “Trying to edit-fill in the required information to complete form, however, Form is ‘Read Only’ per Adobe Acrobat.”
+
+**Summary Statement**<br />
+Many veterans are trying to fill out these forms using their computers. The site does inform the veteran to download and use adobe acrobat, but most of the common browsers and Windows/Mac settings are set to default to using the browsers Tab to load the document instead of saving/opening the document to the Adobe application. Which leads to the confusion of the veteran thinking they are using the Adobe application when filling it out. Will need to have clearer instructions on how to download the forms as well as set to default Adobe Acrobat as their primary pdf application.
+
+<img width="1049" alt="Screen Shot 2023-04-21 at 4 35 10 PM" src="https://user-images.githubusercontent.com/73119703/233729891-d1a90152-1070-4e37-bedd-068d4b35a3df.png">
