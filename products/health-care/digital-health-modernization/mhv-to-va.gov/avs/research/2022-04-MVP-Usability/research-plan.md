@@ -41,7 +41,6 @@ We will apply insights from this research to improve and iterate on the VA.gov A
 
 ### Research questions
 - Can Veterans/caregivers easily find the AVS within the Appointments section?
-- Can Veterans/caregivers easily find the AVS within the Care Summaries and Notes section?
 - Are any sections or terms displayed within the AVS confusing to Veterans/caregivers?
 - Is there any information missing that Veterans/caregivers expect to see in an AVS?
 - What notifications about AVS are helpful to Veterans?
@@ -52,18 +51,16 @@ We will apply insights from this research to improve and iterate on the VA.gov A
 ### Hypotheses
 _Hypothesis 1:_ Veterans and caregivers will be able to locate the AVS within the Appointments section.
 
-_Hypothesis 2:_ Veterans and caregivers will be able to distinguish AVS from the other health summaries listed in the Care Summaries and Notes section. 
+_Hypothesis 2:_ Some Veterans and Caregivers will use different terms than those displayed in the AVS for at least some of the medical terms. 
 
-_Hypothesis 3:_ Some Veterans and Caregivers will use different terms than those displayed in the AVS for at least some of the medical terms. 
+_Hypothesis 3:_ Some Veterans and Caregivers will not understand all of the medical terms without support. 
 
-_Hypothesis 4:_ Some Veterans and Caregivers will not understand all of the medical terms without support. 
-
-_Hypothesis 5:_ Some Veterans and Caregivers will have clear insights into what notifications and information within each notification would be beneficial to them.
+_Hypothesis 4:_ Some Veterans and Caregivers will have clear insights into what notifications and information within each notification would be beneficial to them.
 
 ## Method
 
 ### Interviews
-This research will be conducted as a remote moderated user research study that utilizes a prototype (TBD on details of the prototype type) built for mobile devices (and desktop?). Participants will be asked to complete specific tasks for usability testing and asked follow-up questions to gain understanding of expectations and satisfaction.
+This research will be conducted as a remote moderated user research study that utilizes a prototype (TBD on details of the prototype type) built for mobile devices. Participants will be asked to complete specific tasks for usability testing and asked follow-up questions to gain understanding of expectations and satisfaction.
 
 ### Location
 Data collection will be remote and conducted using Zoom. 
@@ -150,6 +147,12 @@ Please list the people who will be serving in each role.
 - Participants for pilot test:	TBD
 - Note-takers: TBD
 - Observers:	Adrian Rollett (adrian.rollett@va.gov)
+  - Adrian Rollett (adrian.rollett@va.gov)
+  - Peter Russo (peter.russo@adhocteam.us)
+  - Ciera Maddox (ciera.maddox@adhocteam.us)
+  - Jeff Roof (jeff.roof@adhocteam.us)
+  - Leah De La Costa (leah.delacosta@adhocteam.us)
+  - Kay Laywer (katherine.lawyer@va.gov)
 
 ## Approvals
 - Reviewed and approved by Shane Strassberg on ?
