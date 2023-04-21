@@ -166,7 +166,11 @@ Let’s think more specifically about accessing the VA online
 
 I’d like for us to now take a look at a prototype. This is a website design that we are thinking about using. It will look like VA.gov but this is not real, and everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
 
-I’m going to sign into this Zoom call from my phone, so I can share the design as you might see it from a phone. It will look like another person is joining this session, but it’s just me. Is that ok?
+I’m going to sign into this Zoom call from my phone, so I can share the design as you might see it from a phone. It'll look like another person is joining this session, but it’s just me. Is that ok? [IF NO - share from desktop... ok instead of that, I'll share my desktop screen]
+
+Ok give me a few moments to get set up.
+
+[If P doesn't use VA.gov or MHV.DSL CSPs, then... while I spend a few moments to set this up, I'd like for you to prepare yourself to pretend like you do go to VA.gov and that you use the DSLogin option to sign in.]
 
 [JOIN ZOOM session from phone - be logged out of zoom on your phone]
 
@@ -174,8 +178,9 @@ I’m going to sign into this Zoom call from my phone, so I can share the design
 
 [IF ANY ISSUE WITH PHONE SHARE - screen share the mobile design from computer]
 
+---
 - This should look like what you would see on VA.gov from your phone - does it look familiar?
-- As we move through these pages, please feel free to guide or direct me where to go on the page
+- I'm going to move through a couple pages. I want you to feel free to guide or direct me where to go on the page
 - Let's say you were going to sign into your account to [PRIOR MENTIONED TASK or “refill a prescription”].
    - Would you normally select the "sign in" button?
    - [ADAVANCE to the sign in options page]
