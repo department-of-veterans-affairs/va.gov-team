@@ -59,14 +59,16 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 - Technical Architect: Carlos Felix
 - Team Coach: Dotti Cummings
 - Delivery Coach: Stephen Smythe
+- Design Lead:
+- Product Manager:
 
 **Contractors (Ad Hoc)** 
-- Product: Marci McGuire
 - Design: Jonathan Nelson
 - Research Lead: Cara Frissell
 - Engineering: Eric Voshall
 - Engineering Lead: Daniel Cloud
 - QA Engineer: Erin Flaherty
+- Accessibility: Angela Fowler
 
 **Contractors (Oddball)
 - 508 Accessibility Specialist: Sara Smith
