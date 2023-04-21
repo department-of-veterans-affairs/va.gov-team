@@ -76,9 +76,9 @@ Labels:
 ..
 
 ### Appendix
-[Research plan]()
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/rx-post-launch/Research%20Plan.md)
 
-[Conversation guide]()
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/rx-post-launch/Conversation%20Guide.md)
 
 
 ### Applications used
