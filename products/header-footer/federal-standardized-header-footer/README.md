@@ -25,7 +25,7 @@ OFCIO’s goals with this work:
 * How might OFCIO unify a Federal brand
 * How might VA.gov migrate intent, design, and needs into the guardrails provided by this revised design with guardrails.
 
-<!--
+
 ## Desired User Outcomes
 * Faster page load time/interaction with page elements
 * Increased trust in website
@@ -58,7 +58,7 @@ OFCIO’s goals with this work:
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
 ---
-
+<!--
 ## Discovery
 ### Assumptions/Risks
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
