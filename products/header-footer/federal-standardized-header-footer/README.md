@@ -20,30 +20,40 @@ OFCIO’s goals with this work:
 - VA.gov header and footer | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/README.md
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
+* How might we better support Veterans and beneficiaries on low-bandwidth devices?
+* How might we modernize the header to 'unblock' the work on the VA.gov Design System move to USWDS 3.0
 * How might OFCIO unify a Federal brand
 * How might VA.gov migrate intent, design, and needs into the guardrails provided by this revised design with guardrails.
 
 <!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+* Faster page load time/interaction with page elements
+* Increased trust in website
 
 ## Undesired User Outcomes
-## Desired Business Outcomes
+* Frustration/confusion
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+## Desired Business Outcomes
+* Use of web components to better align with VA.gov Design System
+* Fewer breaks of the injected header experience
+* Ability to unify a Federal brand
+
 
 ## Undesired Business Outcomes
--->
+* Decreased user satisfaction
 
 ---
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
+
+* Performance of header on various page types:
+  * VA.gov homepage
+  * VA.gov health hub page
+  * Injected performance on legacy teamsite page (e.g. https://www.va.gov/health/)
+  * 10-10EZ form?
+* Overall satisfaction score
+* VA.gov experience rating
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
