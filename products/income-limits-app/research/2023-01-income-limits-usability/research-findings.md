@@ -147,7 +147,7 @@ Participants were asked about the following:
 - RECOMMENDATION: If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page.
  
 - After 1 participant used the _Review Info_ page to return to the zip code page and then clicked the _Continue_ button, they said they were surprised to see the _Dependents_ page. They expected to see the _Review Info_ page again. Other participants saw this, too, and said that they must be going back through all the screens.
-- RECOMMENDATION: If someone navigates from the _Review Info_ page to another page, consider having the _Continue_ button take you back to the _Review Info_ page instead of the next question.
+- RECOMMENDATION: If someone navigates from the _Review Info_ page to another page, consider having the _Continue_ button take you back to the _Review Info_ page instead of to the next question.
 
 ### 3. Participants had some confusion with terminology used in the questions, including the word "dependents"
 3 of 8 participants didn't know what **"Aid and Attendance benefits"** were but assumed that they didn't have it.
@@ -185,14 +185,14 @@ Participants found some of the text to be confusing and/or ambiguous, which made
 > *"I don't understand. I would have to ask someone or look it up" (p8)*.
 
 - RECOMMENDATION: Add more description to the benefits and/or provide links to details for "VA health care", "most types of care", "copays", and "full copays".
-- RECOMMENDATION: Consider standardizing the bullets for each benefit so it's easier to compare them across income ranges: 
+- RECOMMENDATION: Consider standardizing the bullets for each benefit so it's easier to compare them across income thresholds: 
   - Outpatient and inpatient visits
   - Prescriptions
   - Travel pay (if applicable)
 
 ### 6. After seeing the benefits information on the results page, participants had varying interpretations of it and what to do next
 We have data from only 6 of 8 participants because the other 2 participants didn't get to that task (due to arriving to the session late or dropping off the internet during the session). 
-- 4 of 6 participants thought that the **benefits were not certain because of the phrase "may be eligible"** above each of the lists of benefits. None of these participants had opened the _How to estimate your income for this tool_ accordion, so they were guessing based on the phrasing. 
+- 4 of 6 participants thought that the **benefits were not certain because of the phrase "may be eligible"** above each of the lists of benefits. None of these participants had opened the _How to estimate your income for this tool_ accordion, so they were guessing based on the content on the page. 
 
 - **After seeing the app results, here's what participants planned to do next** (some participants said multiple things):
   - Click on _Find out if you may be eligible_ link (4 participants), though this didn't work in the prototype
@@ -219,8 +219,7 @@ Scrolling down this very long landing page on a phone took a while, especially f
 - 1 participant never found either of the income limits links. 
 - Another participant found one of them but continued reading down the page, and when they scrolled back up, had trouble finding the link again. 
 - 2 other participants missed both links on their first look through the page but found one later. 
-- 6 participants clicked on the first income limits link (in the section _Will I need to pay for any of my care, tests or medications?_).
-- Only 1 participant clicked on the second income limits link (in the section _Does VA verify the information I provide?_), and they remarked:
+- 6 participants clicked on the first income limits link (in the section _Will I need to pay for any of my care, tests or medications?_), and only 1 participant clicked on the second income limits link (in the section _Does VA verify the information I provide?_) and remarked:
 > *"Kind of far down on the page" (p9).*
 
 - RECOMMENDATION: Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move one of the income limits app links closer to the top of page.
@@ -229,19 +228,19 @@ Scrolling down this very long landing page on a phone took a while, especially f
 ## Additional Insights
 
 ### Content feedback on the app intro page
-We heard **additional feedback on the app intro page**. Each of the comments below is from only one participant, but could be used to potentially tweak the content copy on the page.
+We heard **additional feedback on the app intro page**. Each of the comments below is from only one participant, but could still be helpful to potentially tweak the content on the page.
 - Based on the first sentence ("You may be eligible for VA health care based on your VA disability rating, service history, or other factors"), 1 participant **expected to be asked about their disability rating and service history**, but those are actually reasons that you would NOT need the app.
-  - RECOMMENDATION: Lead with a clearer distinction between income limits and what factors make them relevant or not (e.g., "_Not everyone is affected by income limits._ You may be _automatically_ eligible for VA health care based on your VA disability rating, service history, or other factors. If you're not eligible based on these factors, you may still qualify if your income is within our limit.")
+  - RECOMMENDATION: On the intro page, lead with a clearer distinction between income limits and what factors make them relevant or not (e.g., "_Not everyone is affected by income limits._ You may be _automatically_ eligible for VA health care based on your VA disability rating, service history, or other factors. If you're not eligible based on these factors, you may still qualify if your income is within our limit.")
 
 - 1 participant was **concerned about how long this income limits app will take to go through** because they'll probably need to create a password and gather a lot of documents (e.g., investments, W2s, DD214). After going through the app pages, this participant was relieved.
 >  *"Wasn't overwhelming with requiring a ton of info, such as finding a DD214, and creating a new password. It was quick--that's important" (p7)*.
-- RECOMMENDATION: Add to the intro page how long to expect and what's needed so people know it's quick and easy (e.g., "Here’s what you’ll need to apply: your household income and number of dependents from the last year...", "It should take about 3 minutes."
+- RECOMMENDATION: Add to the intro page how long to expect and what's needed so people know it's quick and easy (e.g., "Here’s what you’ll need to apply: your household income and number of dependents from the last year...", "It should take about 3 minutes.")
   
 - 1 participant who had a cognitive disability said that the block of **text was too much to read and understand**.  
 > *"Too much text and not enough separation of it [with formatting]. Want a TL;DR" (p1)*.
 
 - 1 participant suggested adding a little more text to **encourage Veterans to try to get these benefits** if they need them.
-> *"Maybe there is some small wording that you can put in that encourages Veterans to get these benefits if you need them...I don't want to take away from someone else who needs it more. 'Hey, we encourage you to do this. Let's find out if you're eligible'--like selling it to me. You really want me to find out if I'm eligible. A little positive affirmation. Just don’t add  a lot more reading. It's very cut and dry...not warm and welcoming" (p7)."
+> *"Maybe there is some small wording that you can put in that encourages Veterans to get these benefits if you need them...I don't want to take away from someone else who needs it more. 'Hey, we encourage you to do this. Let's find out if you're eligible'--like selling it to me. You really want me to find out if I'm eligible. A little positive affirmation. Just don’t add  a lot more reading. It's very cut and dry...not warm and welcoming" (p7)."*
 - RECOMMENDATION: Consider adding to the intro page some friendly encouragement/affirmation to use this tool to find out if you're eligible for VA health care.
 
 ### How participants looked for income limits before seeing the new app
@@ -257,7 +256,7 @@ Before showing participants the design prototype for the income limits app, we a
 ### For the app design and functionality
 1. Make the text "To find out if you're eligible, apply now" more visually prominent on the results page because as it is now, participants ignored it. 
 1. Make the *Review the information you entered* link more prominent in location and/or visual treatment/layout (e.g., top of page or maybe look like a button like the _Continue_ button). Maybe explore how other VA.gov pages enable you to navigate to view/edit previous information.
-2. If someone navigates from the _Review Info_ page to another page, consider having the _Continue_ button take you back to the _Review Info_ page instead of the next question.
+2. If someone navigates from the _Review Info_ page to another page, consider having the _Continue_ button take you back to the _Review Info_ page instead of to the next question.
 6. If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page.
 
 ### For content in the app
@@ -266,12 +265,12 @@ Before showing participants the design prototype for the income limits app, we a
 3. Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean and want to understand before answering the question.
 4. Be more explicit about household income and deductions on the results page, without using any accordions (since they weren't opened by most participants). For example, consider changing the first sentence from "We use your last year's income to determine..." to "We use your last year's _household_ income _minus deductions (such as out-of-pocket medical expenses, education costs, and funeral/burial expenses for a spouse or child)_ to determine..."
 5. Add more description to the benefits and/or provide links to details for "VA health care", "most types of care", "copays", and "full copays".
-6. Consider standardizing the bullets for each benefit so it's easier to compare them across income ranges: 
+6. Consider standardizing the bullets for each benefit so it's easier to compare them across income thresholds: 
      1. Outpatient and inpatient visits
      1. Prescriptions
      1. Travel pay (if applicable)
-7. Lead with a clearer distinction between income limits and what factors make them relevant or not (e.g., "_Not everyone is affected by income limits._ You may be _automatically_ eligible for VA health care based on your VA disability rating, service history, or other factors. If you're not eligible based on these factors, you may still qualify if your income is within our limit.")
-4. Add to the intro page how long to expect and what's needed so people know it's quick and easy (e.g., "Here’s what you’ll need to apply: your household income and number of dependents from the last year...", "It should take about 3 minutes."
+7. On the intro page, lead with a clearer distinction between income limits and what factors make them relevant or not (e.g., "_Not everyone is affected by income limits._ You may be _automatically_ eligible for VA health care based on your VA disability rating, service history, or other factors. If you're not eligible based on these factors, you may still qualify if your income is within our limit.")
+4. Add to the intro page how long to expect and what's needed so people know it's quick and easy (e.g., "Here’s what you’ll need to apply: your household income and number of dependents from the last year...", "It should take about 3 minutes.")
 5. Consider adding to the intro page some friendly encouragement/affirmation to use this tool to find out if you're eligible for VA health care.
 1. Consider clarifying in the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page that if your income is too high, applying for disability isn't necessarily the next step.
 2. Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move one of the income limits app links closer to the top of page.
