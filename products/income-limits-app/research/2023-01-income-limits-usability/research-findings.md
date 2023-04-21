@@ -144,10 +144,10 @@ Participants were asked about the following:
 - ***Review the information you entered*** link--Two participants did _not_ use this link to go back from the results page to the summary page. They used the _Back_ button in their browser instead, though one participant was concerned that this might exit them out of the app (it didn't). A different participant thought that this link would take them to information that they filled out previously on VA forms (which is incorrect).
 - RECOMMENDATION: Make the *Review the information you entered* link more prominent in location and/or visual treatment/layout (e.g., top of page or maybe look like a button like the _Continue_ button). Maybe explore how other VA.gov pages enable you to navigate to view/edit previous information.
 - **_Get past income limits_** link--Two participants had difficulty finding this link on the results page. One of them looked in the _How to estimate your income for this tool_ accordion, but this wasn't relevant. They also wanted to click the _Expand all_ accordion above the salary ranges. One of the participants was looking for a search tool but never found one.
-- RECOMMENDATION: If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page.
+- RECOMMENDATION: If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page, or possibly add a year selector to the app flow right before asking any questions.
  
 - After 1 participant used the _Review Info_ page to return to the zip code page and then clicked the _Continue_ button, they said they were surprised to see the _Dependents_ page. They expected to see the _Review Info_ page again. Other participants saw this, too, and said that they must be going back through all the screens.
-- RECOMMENDATION: If someone navigates from the _Review Info_ page to another page, consider having the _Continue_ button take you back to the _Review Info_ page instead of to the next question.
+- RECOMMENDATION: If someone navigates from the _Review Info_ page to another page, consider having the _Continue_ button take you back to the _Review Info_ page instead of to the next question (which was intended as the design but wasn't implemented in the click-through prototype).
 
 ### 3. Participants had some confusion with terminology used in the questions, including the word "dependents"
 3 of 8 participants didn't know what **"Aid and Attendance benefits"** were but assumed that they didn't have it.
@@ -256,8 +256,8 @@ Before showing participants the design prototype for the income limits app, we a
 ### For the app design and functionality
 1. Make the text "To find out if you're eligible, apply now" more visually prominent on the results page because as it is now, participants ignored it. 
 1. Make the *Review the information you entered* link more prominent in location and/or visual treatment/layout (e.g., top of page or maybe look like a button like the _Continue_ button). Maybe explore how other VA.gov pages enable you to navigate to view/edit previous information.
-2. If someone navigates from the _Review Info_ page to another page, consider having the _Continue_ button take you back to the _Review Info_ page instead of to the next question.
-6. If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page.
+2. If someone navigates from the _Review Info_ page to another page, consider having the _Continue_ button take you back to the _Review Info_ page instead of to the next question (which was intended as the design but wasn't implemented in the click-through prototype).
+6. If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page, or possibly add a year selector to the app flow right before asking any questions.
 
 ### For content in the app
 5. Clarify the meaning of "dependents" in this question per income taxes or VA rules, and add details to the question so people will know how to answer. According to a VA subject-matter expert (in an email dated 4/17/2023), dependents include *your spouse*, unmarried children under 18 (or 18-23 if attending school full-time or disabled prior to reaching age 18), and parents if in the Veteran's direct care and whose net worth and income are below a fixed limit.
