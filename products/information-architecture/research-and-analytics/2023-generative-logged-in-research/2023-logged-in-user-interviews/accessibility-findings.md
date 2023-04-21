@@ -1,5 +1,7 @@
 # Accessibility Findings
 
+## Coverage
+
 ## Key takeaways and recommendations
 
 ## List of caught defects
