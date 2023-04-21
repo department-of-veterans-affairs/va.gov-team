@@ -11,7 +11,7 @@ After Visit Summaries (AVS) serve many purposes*, including:
 
 Within VA today, Veterans at certain clinics are handed a printed AVS when leaving their appointment, providers can review an AVS with them during their appointment from CPRS, and select Veterans can view a PDF version of AVS on My HealtheVet. Now, we want to create an AVS experience on VA.gov. 
 
-Past user research on [the existing PDF AVS]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/research/AVS%20UT%20presentation%20%209-15-16%20final.pdf), helpdesk feedback on MHV legacy’s AVS, health apartment discovery studies that included AVS, and medical journal articles were reviewed to understand:
+Past user research on [the existing PDF AVS]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/research/AVS%20UT%20presentation%20%209-15-16%20final.pdf), helpdesk feedback on MHV Liferay’s AVS, health apartment discovery studies that included AVS, and medical journal articles were reviewed to understand:
 -	Veteran expectations on what constitutes an AVS
 -	AVS’s value to a Veteran
 
