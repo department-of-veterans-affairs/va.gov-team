@@ -17,8 +17,16 @@ These are the specific things we wanted to gain insights on through this work:
 ## Answers to core questions
 ### What motivates people to log in? When and where do they log in during their flow?
 
-### 
+### What issues do people have navigating to tools and tasks when they are logged in to VA.gov?
 
-## Problems to solve
+### What are people’s expectations are for navigating to tools and tasks when they are logged in to VA.gov?
+
+### Is there a difference between what people do logged-in vs logged out?
+
+### How can we apply what we’ve learned to logged-out flows?
+
+## Problems with the logged-in experience
+
+## Recommendations
 
 ## Outstanding questions
