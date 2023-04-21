@@ -58,7 +58,7 @@ OFCIO’s goals with this work:
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
 ---
-<!--
+
 ## Discovery
 ### Assumptions/Risks
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
