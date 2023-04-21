@@ -38,32 +38,46 @@
 ### Details of Findings
 
 **Finding 1**
+
 Labels: 
+
 1. Participants recognized and understood their prescriptions based on the names and dosage. Most participants used this information as the main cue for which medications were available to refill.
-    1. When prompted why else they knew they could refill it, they referred to a conversation they had with a provider through secure messaging, or seeing the Active label tag that’s displayed on each prescription.
+    
+    1a. When prompted why else they knew they could refill it, they referred to a conversation they had with a provider through secure messaging, or seeing the Active label tag that’s displayed on each prescription.
 
 
 **Finding 2**
+
 Labels:
+
 2. All participants, except for one, scrolled the list to locate a specific medication. They only used filter and sort functionality once the moderator pointed it out.
-    2. After they completed the refill request, we discussed their desired interaction. All participants preferred to only see Active prescriptions. One noted they would use “the website” [MyHealtheVet] to gather more details, if needed. Nobody expressed the need for those details. Rather, some tried to imagine scenarios where seeing all of the data would be useful–all were hypothetical.
+    
+    2a. After they completed the refill request, we discussed their desired interaction. All participants preferred to only see Active prescriptions. One noted they would use “the website” [MyHealtheVet] to gather more details, if needed. Nobody expressed the need for those details. Rather, some tried to imagine scenarios where seeing all of the data would be useful–all were hypothetical.
 
 
 **Finding 3**
+
 Labels:
+
 3. Some participants noticed they could not tap the entire card to go to the detail screen, only the [Get prescription details] link. One participant mentioned that this made it difficult to go to the detail screen, and referenced other areas in the app where the whole row is tappable. 
 
 
 **Finding 4**
+
 Labels:
+
 4. Participants did not understand the statuses when looking at them on both the list and the Filter options. Some commented that there were statuses that either they have never seen, or simply did not apply to their situation.
-    3. The moderator asked participants to describe each status on the list. Some participants attempted to describe all of them, while others only spoke to the ones they had experienced. In most cases, the way participants interpreted the definitions did not match with what VA pharmacy intends to communicate.
+    
+    4a. The moderator asked participants to describe each status on the list. Some participants attempted to describe all of them, while others only spoke to the ones they had experienced. In most cases, the way participants interpreted the definitions did not match with what VA pharmacy intends to communicate.
 
 
 **Finding 5**
+
 Labels:
+
 5. Participants did not use the interface to look up status definitions, even with the information icon present on the statuses.
-    4. When asked how they would determine the meaning of a definition they did not know about, most participants said they would contact their provider. The method varied between secure messaging or calling the pharmacy.
+    
+    5a. When asked how they would determine the meaning of a definition they did not know about, most participants said they would contact their provider. The method varied between secure messaging or calling the pharmacy.
 
 
 ### Additional Insights
