@@ -11,7 +11,7 @@
 ### 10-15 min before session: 
 
 - Post in #feedback-backchannel @ team members joining
-   - “p# | Identity, Organic Login.gov Adoption starts in 15 minutes
+   - “p# | Identity, Proactive CSP Migration starts in 15 minutes
    - In thread post:
 > How to observe or take notes for this session:
 > - Wait in the Zoom waiting room until the participant agrees you may join
@@ -19,6 +19,7 @@
 > - Please capture your notes or observations in this Mural board.
 > - Do not use Zoom chat - post questions for the participant, concerns or questions for the moderator here in Slack, but don’t expect me to see them right away.
 > - Please review [these guidelines](https://depo-platform-documentation.scrollhelp.site/research-design/observer-guidelines) if you haven't recently.
+> - Please use this [note taking document](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1681396854554/ff9d23f8eef22907cccb8d45cf46f81f5686684d?sender=u6c46f747a0483ea836054483)
 
 ### 5-10 min before session:
 
@@ -182,16 +183,22 @@ I’m going to sign into this Zoom call from my phone, so I can share the design
    - Would you normally select the "sign in" button?
    - [ADAVANCE to the sign in options page]
    - Ok and then which option would you select here?
-   - Before we move on, this will be one part we will pretending. We'll skip the part where we put in your username and password. Let's pretend that we've done that.
-   - [ADVANCE to modal page]
-- So we're signed in. Can you describe for me what you see now?
-   - [STOP SCREEN SHARE or otherwise hide the modal while answering]
-   - [NOTE if cognative disability/decline/ or participant is seems more slow and methodical, leave up a few more seconds]
-   - I’m hiding that screen from view for a moment, because right now I’m mostly interested in your first immediate thought.
-   - If this popped up here while you were actually signing in, what would you do next?
+   - [IF THEY USE Login.gov or ID.me - ok I understand that is how you'd sign in. Today let's pretend that you're a veteran who uses the DSLogin option. Are you ok with that?]
+   - Before we move on, when I select the sign in option we'll skip the part where we actually put in your username and password and we'll move right to the next page.
+   - Also I will warn you that I'll only leave the next page up breifly. It can be jarring when I hide it, but it's a technique that helps us get your first impression. Again we aren't testing you you don't have to do anything special, but we can understand how well the page works by the first impression it leaves on you.
+   - [Brief pause]
+   - Ok so, let's pretend that you're putting in your username and password for [MHV or DSLogin]. 
+   - [ADVANCE to modal]
+- So now you're signed in. Can you start to describe for me what you see or what you might do here?
+   - [STOP SCREEN SHARE or otherwise hide the modal while they answer]
+   - [NOTE if cognative disability/decline or participant seems more slow and methodical, leave up a few more seconds]
+   - What did you expect to see when we signed in?
+      - How did the page you saw compare to what you expected?
+   - If you saw that pop up while you were actually signing in, what would you do next?
       - [PROMPT: maybe close it right away? Or read through it?]
-   - Did you get a chance to see any words on the last screen that was up?
-   - Do any questions or thoughts immediately come to your mind with what you had time to see of the text? 
+   - It was really quick, but could you tell me about anything on the last screen that stood out to you?
+      - [PROMPT - what words do you remember from that quick look?] 
+   - Do any other questions or thoughts immediately come to your mind? 
       - If none, that's fine too
 - Would you expect anything to happen if you ignore this particular popup?
    - [PROMPT] could you miss out on something? Would you get more notifications about this if it’s important? Would those notifications come in different places?
