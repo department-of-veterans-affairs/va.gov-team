@@ -1,7 +1,10 @@
-# Initiative Brief Template
+# Federal standardized header and footer
 #### Overview
 
-
+This initiative will work to solve three problems:
+1. Use web components - The VA.gov header needs to be migrated to use web components in order to allow the update of the VA.gov Design System to USWDS 3.0. 
+2. Decrease payload size - The payload size of the header should be reviewed and optimized as much as possible to better support Veterans and beneficiaries accessing VA.gov on low-bandwidth connected devices.
+3. Prototype OFCIO's new global header and footer layout - attempt to adopt OFCIO's new experimental global header and footer and test with Veterans and beneficiaries to validate that it can be successfully adopted with minimal negative impact to site visitors.
 
 ---
 
