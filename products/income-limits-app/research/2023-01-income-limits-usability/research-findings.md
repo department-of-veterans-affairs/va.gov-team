@@ -306,17 +306,35 @@ None at this time
 [Prototype](https://www.figma.com/proto/pqSQOl4IodScHhobr0GkbD/Income-Limits-Prototype?page-id=201%3A1943&node-id=202-3001&viewport=1270%2C1287%2C0.36&scaling=min-zoom&starting-point-node-id=202%3A3001&hotspot-hints=0)
 
 ### Screenshots of the prototype screens
-#### Landing page
-<img src="[https://your-image-url.type](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg1.png)" width="50%" height="50%">
-<img src="[https://your-image-url.type](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg2.png)" width="50%" height="50%">
-<img src="[https://your-image-url.type](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg3.png)" width="50%" height="50%">
-<img src="[https://your-image-url.type](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg4.png)" width="50%" height="50%">
-<img src="[https://your-image-url.type](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg5.png)" width="50%" height="50%">
+<details>
+  <summary>Landing page (Click to show screenshots)</summary>
 
+  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg1.png)
+  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg2.png)
+  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg3.png)
+  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg4.png)
+  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg5.png)
+  
+</details>
 
-#### Intro page
+<details>
+  <summary>Intro page (Click to show screenshot)</summary>
 
+  ![intro-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/intro-pg.png)
+  
+</details>
 
+<details>
+  <summary>Questions (Click to show screenshots)</summary>
+
+  ![question-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/q-pension.png)
+  ![question-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/q-aid&attendance.png)
+  ![question-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/q-housebound.png)
+  ![question-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/q-zip.png)
+  ![question-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/q-dependents.png)
+     
+  
+</details>
 
 ## Who we talked to 
 
