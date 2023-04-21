@@ -83,25 +83,21 @@
 
 I'd like to start with a few questions to get to know how you go online…
 
-- Would you mind telling me what devices do you generally use to go online?
-   - [PROMPT] Do you regularly use a computer to go online?
-      - [It could be desktop or laptop, one you own or one you borrow]
+- Can you tell me about how you normally go online?
    - [PROMPT] Do you regularly use a mobile phone to go online?
    - [PROMPT] Do you regularly use a tablet to go online?
-- Which of these would you say you use the most when going online?
+- Between a phone, tablet, or computer, which would you say you use the most to go online?
    - Could you tell me about why you tend to use [THAT DEVICE] the most?
-- Have you accessed a bank account or health account on your phone in the past?
+- Have you accessed a bank account on your phone in the past?
    - [IF YES] Do you have a preference for accessing an account like that, either on your phone or on a computer?
-- Have you ever used your phone to create a new account for a website or service?
-   - [IF YES] How did that go?
-      - [PROMPT] Did you find any issues or difficulties when doing that?
-   - [IF NO] Is that something you would consider doing from a phone?
-      - Could you explain that a bit more?
-- For an account you already have, let’s say that you need to update the phone number or password for that. Have you ever used a phone for doing something like that?
+- Can you tell me about a time when you created a new account for a site from your phone?
+   - [PROMPT] Did you find any issues or difficulties when doing that?
+   - [IF NEVER] Is that something you would consider doing from a phone?
+      - Could you tell me more about that?
+- For an account you already have, let’s say that you need to update the phone number or password for that. Is that something you've done from a phone?
    - [PROMPT] That could be either on the VA or another website
    - [IF YES] Could you walk me through an experience you’ve had with doing that from your phone?
-   - [IF NO] Would you only do something like that from a desktop or laptop computer?
-      - Could you tell me a little more about why?
+   - [IF NO] Could you tell me a little more about why you don't use a phone for that?
 
 
 ## Round 2: Account terms questions | 10 minutes
@@ -109,19 +105,20 @@ I'd like to start with a few questions to get to know how you go online…
 I’d like to take some time to think about a few words or phrases that the VA or a bank website might use when talking about online accounts. I want to remind you that this isn’t a test of you or your vocabulary. Instead we are interested in understanding what you and other veterans call things so we can make instructions more clear and understandable.
 
 - Do you access any banking online, either from a phone or computer [or tablet IF MENTIONED PREVIOUSLY]?
-- When you go to [your bank OR the VA] online and want to access your personal information, you probably have to type in your username, which sometimes is your email address, and then your password. What would you call that process?
-   - Do you have any accounts with personal information, like a bank account or health provider account that has more steps to the sign in process than username and password?
-   - [PROMPT] Let's say that while signing in, a site said they were going to text you a 6 digit number - have you ever had to do something like that?
-      - Do you have a word or phrase you might call that?
-      - Do you consider the 6 digit number to be part of signing in? Or is it different?
-         - Can you tell me a bit more about your thoughts on this?
-- Let’s think about the process of creating an account for a site like a bank or health care organization that has important personal information about you. Sometimes they’ll ask you to prove who you are. For example, they might have you answer questions about your credit history, or where you’ve lived in the past. Some sites might ask you to send a picture of your ID. Have you ever done anything like this before while creating an account?
+- I'm going to set up a scenario here. Let's say that you need to access your [bank OR the VA] online. Before they will show your information, they have you type in your username and password. What might you call that process?
+- Let's now think about an account that requires you to put in your username and password, but then after that they text you a 6-digit number that they need back from you.
+   - Can you tell me about an experience you've had with that?
+   - Do you have a word or phrase you might call that?
+   - Do you consider the 6 digit number to be part of signing in? Or is it different?
+      - Can you tell me a bit more about your thoughts on this?
+- Now let's think about the process of creating an account. A site like a bank or health care organization that has important personal information about you might ask you to prove who you are. For example, they might have you answer questions about your credit history, or where you’ve lived in the past. Some sites might ask you to send a picture of your ID. Can you tell me about a time that you've done this while creating an account?
    - Do you have a word or phrase you might call this process?
-- Imagine that your bank [IF THEY PREVIOUSLY MENTIONED ONLINE BANKING, otherwise use “the VA”], said that you needed to set up a new sign in that would be more secure.
-   - If you were working for the [BANK or VA] and trying to tell someone about this new type of sign in, how might you describe it in a few words?
+- Imagine that a bank [IF THEY PREVIOUSLY MENTIONED ONLINE BANKING, otherwise use “the VA”] wanted people to set up a new way to sign in that would be more secure than how they currently sign in.
+   - If you were working for the [BANK or VA] and trying to tell someone about this new type of sign in, how might you describe it?
    - [PROMPT] Would you think of this as an upgraded account?
 - Let’s switch it up a little. I’d like for you to think about two specific words. “Authenticate” and “verify”. What similarities or differences do you think about with these two words?
    - [PROMPT] Do they mean different things to you? Or would you use them to talk about the same kind of thing?
+- Are there any terms you've seen or heard when talking about signing in or creating an account that you often find confusing or a bad fit?
 
 ### Things to watch for:
 - How the participant thinks about these terms
@@ -130,9 +127,9 @@ I’d like to take some time to think about a few words or phrases that the VA o
 
 ## Round 3: VA account use questions | 10 minutes
 
-Let’s think more specifically about accessing the VA
+Let’s think more specifically about accessing the VA online
 
-- What do you tend to do the most often when signing into the VA online?
+- Why do you tend to sign into the VA online?
 - How often would you say that you go online to manage your VA benefits or VA healthcare using your phone?
    - [IF SPLIT mobile/desktop] 
    - Are there certain things you are more likely to do with the VA online using a phone?
@@ -146,7 +143,7 @@ Let’s think more specifically about accessing the VA
       - [IF YES] When you go to the VA online while on your mobile phone, would you say you tend to use the VA app more or the web version more?
    - I’m interested in why you [DO or DON’T] go to different places for the VA online.
    - Is there a word or phrase that you might use to call all these different VA places online?
-      - [NOTE: DON’T specifically say “VA digital tools” here, save further discussion about this in Round 4]
+      - [NOTE: DON’T say “VA digital tools” here, save further discussion about this in Round 4]
 - When was the last time you remember signing into your [VA account online], either with a phone, tablet, or computer?
    - And are you comfortable telling me why you signed in that day? Like what were you trying to do then?
    - Do you remember what webpage or web address you used at that time?
@@ -155,7 +152,7 @@ Let’s think more specifically about accessing the VA
       - [PROMPT or screen share for MHV - there are 3 options…]
       - [PROMPT or screen share for VA.gov - there are 4 options…]
    - Do you have a particular reason that you use this sign in method?
-- [IF recent sign in was into MHV]
+- [IF recent sign in was into the MHV site]
    - Are there times when you go to VA.gov to sign into your account?
    - [IF YES] Which of the sign in choices would you say use most often
       - [PROMPT or screen share DS login, My HealtheVet login, Login.gov, or ID.me]
