@@ -1,6 +1,6 @@
 # Accessibility Findings
 
-## Key takeaways
+## Key takeaways and recommendations
 
 ## List of caught defects
 
