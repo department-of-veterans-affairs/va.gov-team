@@ -6,7 +6,7 @@ Date: 04/12/2023
 
 Tyler Gindraux [tyler@bluetiger.digital]
 
-[Demo Readout Deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/presentations/sprint%20demos/Login.gov_Adoption_Team_Sprint_17_Demo_04122023.pdf)
+[Research report deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-03-Deferred-Identity-Proofing-Round-1-Usability/2023-03-Deferred-Identity-Proofing-Research-Report.pptx.pdf)
 
 <br>
 
@@ -583,7 +583,7 @@ We recommend:
 
 ### Other supporting documents created
 
-[Demo Readout Deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/presentations/sprint%20demos/Login.gov_Adoption_Team_Sprint_17_Demo_04122023.pdf)
+[Research report deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-03-Deferred-Identity-Proofing-Round-1-Usability/2023-03-Deferred-Identity-Proofing-Research-Report.pptx.pdf)
 
 ### Secondary research
 
