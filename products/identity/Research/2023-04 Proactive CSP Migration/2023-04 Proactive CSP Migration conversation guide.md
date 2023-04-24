@@ -105,10 +105,10 @@ I'd like to start with a few questions to get to know how you go online…
 I’d like to take some time to think about a few words or phrases that the VA or a bank website might use when talking about online accounts. I want to remind you that this isn’t a test of you or your vocabulary. Instead we are interested in understanding what you and other veterans call things so we can make instructions more clear and understandable.
 
 - I'm going to set up a scenario here. Let's say that you need to access your bank online [IF THEY PREVIOUSLY MENTIONED ONLINE BANKING, otherwise use “the VA”]. Before they will show your information, they have you type in your username, which is often your email address, and password. What might you call that process?
-- Let's now think about an account that requires you to put in your username and password, but then after that they text you a 6-digit number that they need back from you.
-   - Can you tell me about an experience you've had with that?
+- Now a bank might require you to put in your username and password, and then after that they might text you a 6-digit number that they need back from you.
+   - Can you tell me about an experience you've had with something like that?
    - Do you have a word or phrase you might call that?
-   - Do you consider the 6 digit number to be part of signing in? Or is it different?
+   - Do you consider the 6-digit number to be part of signing in? Or is it different?
       - Can you tell me a bit more about your thoughts on this?
 - Now let's think about the process of creating an account. A site like a bank or health care organization that has important and private personal information about you might ask you to prove who you are. For example, they might have you answer questions about your credit history, or where you’ve lived in the past. Some sites might ask you to send a picture of your ID. Can you tell me about a time that you've done this while creating an account?
    - Do you have a word or phrase you might call this process?
@@ -130,7 +130,7 @@ Let’s think more specifically about accessing the VA online
 
 - Why do you tend to sign into the VA online?
 - How often would you say that you go online to manage your VA benefits or VA healthcare using your phone?
-   - [IF SPLIT mobile/desktop] 
+   - [IF SPLIT mobile/computer] 
    - Are there certain things you are more likely to do with the VA online using a phone?
    - Are there things you’re more likely to do on a computer?
       - [either desktop or laptop]
