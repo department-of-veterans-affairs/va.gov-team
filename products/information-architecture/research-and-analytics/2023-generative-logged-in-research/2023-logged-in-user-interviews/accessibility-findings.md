@@ -18,7 +18,8 @@ This research fufilled 50% (3/6) of its original request. Given the limited amou
 
 ### Conduct more research on ZoomText with VSOs, Rehab Centers, and Veterans to be...
  - Strategic about inclusive research and design decisions (e.g. What zoom levels are most prevalent or have the most pain points? What compounded disabilities should we be accounting for?)
- - Mitigate and identify exclusion by scale in design system patterns and components (e.g. what patterns have/haven't been tested with ZoomText users?) 
+ - Mitigate and identify exclusion by scale in design system patterns and components (e.g. what patterns have/haven't been tested with ZoomText users?)
+ - The new homepage _may_ benefit from testing with ZoomText users (see below)
 
 ### Opening links in a new tab/window without a warning is a known usability issue with WCAG documentation
 - Design system and platform guidance improvements can mitigate future issues
@@ -43,7 +44,21 @@ This research fufilled 50% (3/6) of its original request. Given the limited amou
 - This _shouldn't_ be used to negate the need to test with other assistive technologies, which may still be utilized by caregivers, family members, or Veterans who have not gone through blind rehab center training.
 
 **Further discovery research could save time for and better empower future research efforts**
-In this study, the Veteran mentioned their own preferences being between 4-7x magnification and the preferences of other Veterans they knew being among higher magnitudes. 
+In this study, the Veteran mentioned their own preferences being between 4-7x magnification and the preferences of other Veterans they knew being among higher magnitudes.
+
+#### Simulation of potential ZoomText issues
+
+To illustrate potential issues, we've created a simulation of what a ZoomText user might see while navigating to the VA.gov homepage based on behaviors observed in P1's session.
+
+https://user-images.githubusercontent.com/14154792/234052795-e567569b-7cc5-48bd-9dc9-48551e7ac2e9.mov
+
+- It _may_ be unclear that a modal has appeared on this page and is blocking immediate actions (needs more testing)
+- P1's caregiver, in reference to the navigation's right aligned elements, noted that "if you have one screen with so many different areas to look at... with him and his vision loss.. it's difficult for him"
+  - Note how in this simulation, it's not immediately clear that there are elements to the right side of the page e.g. MyVA
+
+This simulation does not address the following anecdote, which was stated in reference to pop up behavior on other websites.
+
+> Those [modals], for him, are really distracting, because he has the screen enlarged and if an ad pops up, the screen will moves over to the ad. The screen is constantly changing for him. - P1’s caregiver
 
 #### We don't have enough data or research to know...
 - If there are trends in usage between Veterans (e.g. common magnification levels or behaviors when switching between magnification levels)
@@ -109,8 +124,16 @@ Some possibilities may include:
 ### More inclusive research with disabled Veterans using assistive technology is needed for the logged in IA and navigation experience (and in all studies)
 [Include video here on issue]
 
+## Other considerations and findings 
+
 ## List of caught defects
 [List all defects caught in spreadsheet along with the teams they belong to]
+
+### The new VA.gov homepage _may_ benefit from being stress tested with ZoomText users
+
+![image](https://user-images.githubusercontent.com/14154792/234062209-df5a9405-301d-4fb6-8392-abff29bdcf97.png)
+
+https://user-images.githubusercontent.com/14154792/234063847-611f07e6-58a0-4236-b389-fddc61c8af06.mov
 
 ## References
 <a id="1">[1]</a> 
