@@ -100,8 +100,6 @@ The Request for Board Appeal form was released in April 2022 and is overdue for 
 
 ### **Quality Assurance Questions**
 
-Beginning by asking John Gosnell in a call; meeting week of April 24th.
-
 - Is there a BVA role responsible for gathering feedback from board attorneys, hearing operations, and judges?
 - How is the health of the appeals service assessed?
 - How is feedback from board attorneys, hearing operations, and judges collected?
@@ -115,8 +113,6 @@ Beginning by asking John Gosnell in a call; meeting week of April 24th.
 - How does the content team receive feedback and updates for static sitewide pages?
 
 ### **Technical Questions**
-
-Melinda Bernardo Cuerda(?), Get input from Kyle and Robin
 
 - How does the NoD currently route in the backend? Is it all through central mail? Any opportunity in VBMS?
 - Are all claims available online through VBMS or is it only disability claims?
