@@ -1,4 +1,5 @@
 # Accessibility Findings
+`ZoomText` `JAWs` `iOS-VO`
 
 ## Coverage
 This research fufilled 50% (3/6) of its original request. Given the limited amount and variety of types of screen readers, no conclusive behavioral patterns can be determined locally in this study alone. However, we can draw future research considerations and document caught accessibility issues.
