@@ -28,7 +28,8 @@ This research fufilled 50% (3/6) of its original request. Given the limited amou
 - While we don't have enough data to have full confidence on this issue, we should consider it as a risk to prioritize further research into
 
 ### More inclusive research with disabled Veterans using assistive technology is needed for the logged in IA and navigation experience (and in all studies)
-- To be more confident on behavioral patterns and common issues, we should aim to test with at least 4 per user group (or test until saturation)
+- To be more confident on behavioral patterns and common issues, we should aim to test with at least 4 per user group (or test until saturation) 
+- [[1]](#1)
 - Inclusive research guidance and strategy should be updated to reflect this as we become more capable of recruiting Veterans who use assistive technologies
 
 ## Details of findings and recommendations
@@ -107,3 +108,7 @@ Some possibilities may include:
 
 ## List of caught defects
 [List all defects caught in spreadsheet along with the teams they belong to]
+
+## References
+<a id="1">[1]</a> 
+Goodwin, K. (2009). Planning User Research. In Designing for the digital age: How to create human-centered products and services (pp. 87–91). essay, Wiley. 
