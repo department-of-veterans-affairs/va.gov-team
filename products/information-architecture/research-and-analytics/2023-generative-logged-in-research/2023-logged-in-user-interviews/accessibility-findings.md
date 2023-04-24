@@ -30,8 +30,7 @@ This research fufilled 50% (3/6) of its original request. Given the limited amou
 - While we don't have enough data to have full confidence on this issue, we should consider it as a risk to prioritize further research into
 
 ### More inclusive research with disabled Veterans using assistive technology is needed for the logged in IA and navigation experience (and in all studies)
-- To be more confident on behavioral patterns and common issues, we should aim to test with at least 4 per user group (or test until saturation) 
-- [[1]](#1)
+- To be more confident on behavioral patterns and common issues, we should aim to test with at least 4 per user group (or test until saturation) [[1]](#1)
 - Inclusive research guidance and strategy should be updated to reflect this as we become more capable of recruiting Veterans who use assistive technologies
 
 ## Details of findings and recommendations
@@ -118,8 +117,21 @@ Some possibilities may include:
 - Conducting maintenance audits on products that were audited before the most recent platform experience standards using the a11y dashboard
 - [Conducting an interface inventory of link variations across VA.gov](https://bradfrost.com/blog/post/interface-inventory/)-- unsure if this could be automatically collected?
 
-### Unprompted modals should be further stress tested with Veterans using ZoomText
-[Include video here on issue]
+### Unprompted modals should be further stress tested with Veterans, especially those using screen readers and ZoomText
+
+We don't have enough data to have full confidence on this issue, but we may want to consider it as a risk to prioritize further research into given the following anecdotes:
+
+> Ok y’all need to get rid of that stupid pop up thingy. I don’t want to go to the new homepage. - P2, after dismissing the “try the new homepage” modal multiple times
+
+> Those [modals], for him, are really distracting, because he has the screen enlarged and if an ad pops up, the screen will moves over to the ad. The screen is constantly changing for him. - P1’s caregiver
+
+https://user-images.githubusercontent.com/14154792/234065565-dd3524d7-6a70-4d2a-abd0-2bc18fa540f1.mov
+
+> A possible case to test is how long it takes for ZoomText users to (a) notice a modal has appeared on the page and (b) find said modal and take action on it.
+
+<img width="1108" alt="Screenshot 2023-04-24 at 1 03 10 PM" src="https://user-images.githubusercontent.com/14154792/234066284-4aff8a74-8615-435a-9e63-dd8d173edabd.png">
+
+> Setting vertical-align to "top" as opposed to "middle" could potentially improve usability, but would require more research (and updates to USWDS, which also centers the modal)
 
 ### More inclusive research with disabled Veterans using assistive technology is needed for the logged in IA and navigation experience (and in all studies)
 [Include video here on issue]
