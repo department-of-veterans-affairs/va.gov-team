@@ -119,8 +119,8 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18 us
      d) more than 10 times
 
 2. Are you comfortable allowing observers into the session? _Must be "yes" for all participants._
-4. Are you comfortable having your camera on during the session? _Must be "yes" for desktop/laptop users._
-5. What type of device will you be using to connect to Zoom?
+3. Are you comfortable having your camera on during the session? _Must be "yes" for desktop/laptop users._
+4. What type of device will you be using to connect to Zoom?
 
 - Desktop/Laptop?
 - Smartphone: Android or iPhone?
@@ -128,7 +128,7 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18 us
 
 _Please provide response on roster._
 
-6. Have you shared your screen on Zoom using this device before?
+5. Have you shared your screen on Zoom using this device before?
 
 _Please provide response on roster._
 
