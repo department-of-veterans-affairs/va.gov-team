@@ -128,7 +128,7 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18 us
 
 _Please provide response on roster._
 
-1. Have you shared your screen on Zoom using this device before?
+6. Have you shared your screen on Zoom using this device before?
 
 _Please provide response on roster._
 
