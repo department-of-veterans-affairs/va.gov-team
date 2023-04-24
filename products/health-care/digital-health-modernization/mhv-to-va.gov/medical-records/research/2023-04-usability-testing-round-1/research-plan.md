@@ -77,34 +77,34 @@ We will partner with Perigean to recruit Veterans.
 
 **Recruitment criteria**
 
-We will schedule a total of 32 Veterans for an expected completion rate of 24 - 27 usability tests.
+We will schedule a total of 24 Veterans for an expected completion rate of 18 usability tests.
 
 **Primary criteria (must-haves)**
 
-1. (24) Veterans, (8) Veteran's caregivers
+1. (18) Veterans, (6) Veteran's caregivers
 2. Age distribution:
-      - (7) 75+
-      - (11) 65 – 74
-      - (5) 55 – 64
-      - (7) 35 – 54
+      - (5) 75+
+      - (8) 65 – 74
+      - (4) 55 – 64
+      - (5) 35 – 54
       - (2) 18 – 34
 3. Education distribution:
-      - (10) High School graduate or equivalent or less
-      - (8) Some college, no degree
-      - (4) Associates degree (occupational or academic)
-      - (6) Bachelor's degree
-      - (4) Masters degree or higher
-4. (16) frequent MHV user, (16) never used MHV (see screener question)
-5. (16) mobile users, (16) desktop/laptop/tablet
+      - (7) High School graduate or equivalent or less
+      - (6) Some college, no degree
+      - (3) Associates degree (occupational or academic)
+      - (5) Bachelor's degree
+      - (3) Masters degree or higher
+4. (12) frequent MHV user, (12) never used MHV (see screener question)
+5. (12) mobile users, (12) desktop/laptop/tablet
 
 **Secondary criteria (nice-to-haves)**
 
 1. Demographic distribution:
     - (1) American Indian or Alaska Native
     - (1) Asian
-    - (5) Black or African American
-    - (4) Hispanic, Latino, or Spanish origin
-    - (21) White or Caucasian
+    - (4) Black or African American
+    - (3) Hispanic, Latino, or Spanish origin
+    - (16) White or Caucasian
 
 **Screening questions for recruitment**
 
@@ -160,4 +160,4 @@ _Please provide response on roster._
 - Participant(s) for pilot test: TBD – we will handle this on our own, thank you
 - Accessibility specialist (for sessions where support for assistive technology may be needed):
 - Note-takers: Lexi Wunder (alexia.wunder@bylight.com)
-- Observers: Coulton Bunney (Coulton.bunney@va.gov)
+- Observers: Coulton Bunney (Coulton.bunney@va.gov), Robyn Singleton (robyn.singleton@va.gov)
