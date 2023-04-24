@@ -82,6 +82,8 @@ A screenreader participant accidentally closed out of the tab where they were lo
 Sighted participants were caught off guard when links opened in new tabs, and and had to revisit multiple open tabs to figure out how to get back to where they wanted to be.
 
 #### Design system and platform improvements can mitigate future issues
+[While prior conversations on this topic have existed](https://docs.google.com/document/d/1KCPSXmCyh2D9UfCloffjSjyRiivTH0vY7ZHxTwj5WeA/edit?usp=sharing), they have often excluded the sighted ZoomText user experience which conflicts with 
+
 - [ ] Submit a [design system documentation request ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/new?assignees=&labels=vsp-design-system-team&template=2_documentation_request_form.yml) to improve guidance on opening links in a new tab/window.
   - [ ] Reference [WCAG G200 guidance (Opening new windows and tabs from a link only when necessary)](https://www.w3.org/TR/WCAG20-TECHS/G200.html)
   - [ ] Provide `like this` and `not this` examples
