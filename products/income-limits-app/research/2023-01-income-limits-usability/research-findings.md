@@ -72,7 +72,7 @@ We conducted **usability testing** on April 5-11, 2023 to get feedback from rese
 
 **We talked to 8 Veterans**, one of whom was also a Veteran's family member.
 - 6 of 8 used a smartphone for the session, and 2 used a computer
-- NONE have VA health care
+- NONE use VA health care
 - NONE receive a pension from the VA
 - NONE get VA disability compensation for a service-connected disability rating of 50% or higher
 
