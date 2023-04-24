@@ -19,9 +19,11 @@
 - State
 - Zip
 
-## Clinics visited (list)
+## Today's Visit
 
-### Fields
+### Clinics visited (list)
+
+#### Fields
 - Physical Location
 - Patient-friendly name
 - Provider
@@ -30,23 +32,38 @@
 - Site
 - Clinic
 
-## Diagnoses (list)
+### Providers
+#### Fields
 
-### Fields
+### Reason for Visit
+
+### Diagnoses (list)
+
+#### Fields
 - Code
 - Diagnosis
 
-## Vitals (list)
+### Clinical/health reminders (list)
 
-### Fields
+#### Fields
+
+- Date when due
+- Patient DFN
+- Reminder IEN
+- Last occurence
+- Name
+
+### Vitals (list)
+
+#### Fields
 - Type
 - Value
 - Qualifiers
 - Date
 
-## Procedures (list)
+### Procedures (list)
 
-### Fields
+#### Fields
 
 - Station name
 - Station number
@@ -54,17 +71,15 @@
 - Name
 - Code
 
-## Medications
+### Medications
+####
 
-## Clinical/health reminders (list)
 
-### Fields
+## (End Today's Visit)
 
-- Date when due
-- Patient DFN
-- Reminder IEN
-- Last occurence
-- Name
+
+
+
 
 ## Primary care team
 ### Fields
