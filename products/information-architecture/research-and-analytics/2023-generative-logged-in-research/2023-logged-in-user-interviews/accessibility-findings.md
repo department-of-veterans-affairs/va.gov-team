@@ -16,7 +16,7 @@ This research fufilled 50% (3/6) of its original request. Given the limited amou
 
 ## Key findings and recommendations
 
-### Conduct more research on ZoomText with VSOs, Rehab Centers, and Veterans to be...
+### [Conduct more research on ZoomText with VSOs, Rehab Centers, and Veterans to be...](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/accessibility-findings.md#conduct-more-research-on-zoomtext-usage-with-vsos-rehab-centers-and-veterans)
  - Strategic about inclusive research and design decisions (e.g. What zoom levels are most prevalent or have the most pain points? What compounded disabilities should we be accounting for?)
  - Mitigate and identify exclusion by scale in design system patterns and components (e.g. what patterns have/haven't been tested with ZoomText users?)
  - The new homepage _may_ benefit from testing with ZoomText users (see below)
