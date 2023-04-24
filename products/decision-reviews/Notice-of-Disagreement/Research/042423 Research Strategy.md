@@ -27,11 +27,12 @@ The Request for Board Appeal form was released in April 2022 and is overdue for 
 ### **Metrics**
 
 - Improve data capture and transmission for NOD submissions.
-    - Claims forms are submitted with less validation errors or data issues that block or inhibit establishment.
-    - Veterans are not blocked from submitting evidence due to system limitations.
-    - Duplicate evidence is not submitted.
-    - [VA.gov](http://va.gov/) submission failures are reduced.
-- TBD
+   - Claim submission / establishment failure at 0% 
+- Increase the number of hearings scheduled using VA.gov
+   - Reduction of form abandonment when selecting board hearing type
+- Increase the number of veterans choosing the right hearing
+  - Reduction in the number of hearing rejections caused by hearing type
+
 
 ### **Tasks**
 
