@@ -28,7 +28,7 @@ ________________________________________________________________________________
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
       - **[Implement Text Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55874)**
          - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create sidekiq worker to call BTSSS in the background](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55883)
-         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Implement phone_number method in TravelClaim/RedisClient](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56976)
+         - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Implement phone_number method in TravelClaim/RedisClient](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56976)
          - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Modify Appointment Data Serializer to Cache Phone number](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56975)
          - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Call VANotify in the background with the worker](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55908)
          - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] VANotify - Add text templates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55878)
@@ -64,6 +64,7 @@ ________________________________________________________________________________
 - **GOAL: Address tech & design debt**  
    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Change alert content shown when Veteran is too early to check in within check in app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54511)
    - ![#7c2ac9](https://placehold.co/15x15/7c2ac9/7c2ac9.png) [Platform Orientation Template [Anita Halici]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57050)
+   - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Add period on h1 for error pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55214)
 
 
 ## 4/5/2023 - 4/18/2023 
