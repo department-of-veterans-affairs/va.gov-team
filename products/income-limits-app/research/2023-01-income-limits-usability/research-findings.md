@@ -149,7 +149,7 @@ a. ***Review the information you entered*** link--Two participants did _not_ use
 b. **_Get past income limits_** link--Two participants had difficulty finding this link on the results page. One of them looked in the _How to estimate your income for this tool_ accordion, but this wasn't relevant. They also wanted to click the _Expand all_ accordion above the salary ranges. One of the participants was looking for a search tool but never found one.
 - RECOMMENDATION: If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page, or possibly add a year selector to the app flow right before asking any questions.
  
-c. After 1 participant used the **_Review Info_ page** to return to the zip code page and **then clicked the _Continue_ button**, they said they were surprised to see the _Dependents_ page. They expected to see the _Review Info_ page again. Other participants saw this, too, and said that they must be going back through all the screens.
+c. After one participant used the **_Review Info_ page** to return to the zip code page and **then clicked the _Continue_ button**, they said they were surprised to see the _Dependents_ page. They expected to see the _Review Info_ page again. Other participants saw this, too, and said that they must be going back through all the screens.
 - RECOMMENDATION: If someone navigates from the _Review Info_ page to another page, consider having the _Continue_ button take you back to the _Review Info_ page instead of to the next question (which was intended as the design but wasn't implemented in the click-through prototype).
 
 ### 3. Participants had some confusion with terminology used in the questions, including the word "dependents"
