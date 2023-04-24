@@ -80,7 +80,7 @@ For more details, see [Who we talked to](#who-we-talked-to).
 
 Participants were asked about the following:
 1. Wayfinding--Find out if you're eligible for VA health care with your current income, with no guidance for where to start
-2. The landing page in the prototype, which you can use to get to the income limits app
+2. The landing page in the prototype, which you can use to get to the income limits app (Note: The landing page is a screenshot of the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page on VA.gov)
 3. The intro page in the app
 4. The question pages in the app
 5. The results page in the app
@@ -204,8 +204,6 @@ We have data from only 6 of 8 participants because the other 2 participants didn
   
   > *"I didn't apply for disability because I feel bad. Other people came back missing limbs, and I'm pretty OK compared to them. But now my hearing is bad, and I'm wondering if it's because of the firing ranges. How do I prove that?" (p7)*.
 
-- RECOMMENDATION: Consider clarifying in the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page that if your income is too high, applying for disability isn't necessarily the next step.
-
 - Many participants (4 of 6) **didn't realize that you needed to apply for VA health care** in order to find out for sure if you qualify. 
 - 2 participants figured out later in the session that they needed to apply--only after they opened the _How to estimate your income for this tool_ accordion in the Past Year task.
 > *"Oh! You need to apply. So not take this information at face value" (p1)*.
@@ -230,7 +228,7 @@ Scrolling down this very long landing page on a phone took a while, especially f
 ### Content feedback on the app intro page
 We heard **additional feedback on the app intro page**. Each of the comments below is from only one participant, but could still be helpful to potentially tweak the content on the page.
 - Based on the first sentence ("You may be eligible for VA health care based on your VA disability rating, service history, or other factors"), 1 participant **expected to be asked about their disability rating and service history**, but those are actually reasons that you would NOT need the app.
-  - RECOMMENDATION: On the intro page, lead with a clearer distinction between income limits and what factors make them relevant or not (e.g., "_Not everyone is affected by income limits._ You may be _automatically_ eligible for VA health care based on your VA disability rating, service history, or other factors. If you're not eligible based on these factors, you may still qualify if your income is within our limit.")
+  - RECOMMENDATION: On the intro page, lead with a clearer distinction between income limits and what factors make them relevant or not (e.g., "_Not everyone is affected by income limits._ You may be _automatically_ eligible for VA health care based on your VA disability rating, service history, or other factors. If you're not eligible based on these factors, you may still qualify if your income is within our limit.") More details may be needed, and this information should probably be in the app because the landing page is too long to understand, and Veterans may find this app via another path (i.e., google or sidebar link).
   - RECOMMENDATION: Consider adding a qualifying question to the beginning of the income limits app to screen out people who have a service-connected disability rating of at least 50%. 
 
 - 1 participant was **concerned about how long this income limits app will take to go through** because they'll probably need to create a password and gather a lot of documents (e.g., investments, W2s, DD214). After going through the app pages, this participant was relieved.
@@ -270,11 +268,10 @@ Before showing participants the design prototype for the income limits app, we a
      1. Outpatient and inpatient visits
      1. Prescriptions
      1. Travel pay (if applicable)
-7. On the intro page, lead with a clearer distinction between income limits and what factors make them relevant or not (e.g., "_Not everyone is affected by income limits._ You may be _automatically_ eligible for VA health care based on your VA disability rating, service history, or other factors. If you're not eligible based on these factors, you may still qualify if your income is within our limit.")
+7. On the intro page, lead with a clearer distinction between income limits and what factors make them relevant or not (e.g., "_Not everyone is affected by income limits._ You may be _automatically_ eligible for VA health care based on your VA disability rating, service history, or other factors. If you're not eligible based on these factors, you may still qualify if your income is within our limit.") More details may be needed, and this information should probably be in the app because the landing page is too long to understand, and Veterans may find this app via another path (i.e., google or sidebar link).
 7. Consider adding a qualifying question to the beginning of the income limits app to screen out people who have a service-connected disability rating of at least 50%. Given the long list of common and less-common reasons for income to not be a factor, should any of them be communicated within the app experience and/or added as a question?
 4. Add to the intro page how long to expect and what's needed so people know it's quick and easy (e.g., "Here’s what you’ll need to apply: your household income and number of dependents from the last year...", "It should take about 3 minutes.")
 5. Consider adding to the intro page some friendly encouragement/affirmation to use this tool to find out if you're eligible for VA health care.
-1. Consider clarifying in the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page that if your income is too high, applying for disability isn't necessarily the next step.
 2. Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move one of the income limits app links closer to the top of page.
 
 ## Next Steps
