@@ -2,7 +2,7 @@
 
 - [Research Repo Ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/280)
 - [Research Session Guest List Planning](https://docs.google.com/spreadsheets/d/1y6D2_ItNX9Tch5-nlOFw4Te1ycQMxTqCh09-w-iluWQ/edit#gid=0)
-- To link - Mural board for note taking
+- [Mural board for note taking](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1681396854554/ff9d23f8eef22907cccb8d45cf46f81f5686684d?sender=u6c46f747a0483ea836054483)
 - To link - recruitment diversity checker spreadsheet
 
 
@@ -11,9 +11,9 @@
 | Stage | Dates |
 | --- | --- |
 | Planning | Complete by April 14 |
-| Recruiting | April 17 - 21 |
-| Pilot | TBD: week of April 17 -21 |
-| Sessions | April 24 - May 5 |
+| Recruiting | April 19 - 21 |
+| Pilot | April 21 |
+| Sessions | April 26 - May 5 |
 | Analysis | May |
 
 ## Background
