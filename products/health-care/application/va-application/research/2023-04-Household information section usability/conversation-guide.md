@@ -242,6 +242,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Task: [Step 6: Review] - 3 minutes
 
 - Explain what you would do on this page and complete the application.
+- Before submitting, let's say you wanted to review what you entered for your dependents and correct some informaiton there. Can you walk me through how you would do that? 
 
 **Participant questions:**
 - On a scale of 1-5 (1 being non very poorly and 5 being very well) - how prepared does this page make you feel to submit this application? Why?
