@@ -8,33 +8,6 @@
 - SSN
 - Age
 
-## Clinics visited
-
-### Fields
-
-
-
-## Basic Demographics
-
-### Fields 
-
-- ICN
-- Home phone
-- Cell phone
-- Date of birth
-- Name
-- Sex
-- SSN
-- Age
-- Deceased date
-- Is Veteran
-- Service Percentage
-- Location
-- Room/bed
-- Is Inpatient
-- Primary care team
-- Primary care providers
-
 ## Patient Address
 
 ### Fields
@@ -46,7 +19,109 @@
 - State
 - Zip
 
-## Medication orders (list)
+## Clinics visited (list)
+
+### Fields
+- Physical Location
+- Patient-friendly name
+- Provider
+- Date
+- Time
+- Site
+- Clinic
+
+## Diagnoses (list)
+
+### Fields
+- Code
+- Diagnosis
+
+## Vitals (list)
+
+### Fields
+- Type
+- Value
+- Qualifiers
+- Date
+
+## Procedures (list)
+
+### Fields
+
+- Station name
+- Station number
+- Date
+- Name
+- Code
+
+## Medications
+
+## Clinical/health reminders (list)
+
+### Fields
+
+- Date when due
+- Patient DFN
+- Reminder IEN
+- Last occurence
+- Name
+
+## Primary care team
+### Fields
+
+## Primary care providers
+### Fields
+
+## Problem list
+
+### Fields
+
+- String consisting of problem description and date
+
+## Appointments (list)
+
+### Fields
+
+- Date & time
+- Location
+- Clinic IEN
+- IFN
+- Other Comment
+- Data entry clerk
+- Date made
+- Consult Ien
+- Appointment length
+- Is Cancelled
+- Checked in date/time
+- Checked in by user
+- Checked out date/time
+- Checked out by user
+- Status
+- Follow up
+- Current status
+
+## Immunizations (list)
+
+### Fields
+
+- Name
+- Series
+- Date
+- Facility
+
+## Allergies & Reactants (list)
+
+### Fields
+
+- Allergen name
+- Site
+- Station Number
+- Severity
+- Reactions
+- Type
+- Verified date
+
+## Medications 
 
 ### Fields
 
@@ -74,49 +149,6 @@
 - Filling pharmacy
 - Pharmacy phone number
 
-## Appointments (list)
-
-### Fields
-
-- Date & time
-- Location
-- Clinic IEN
-- IFN
-- Other Comment
-- Data entry clerk
-- Date made
-- Consult Ien
-- Appointment length
-- Is Cancelled
-- Checked in date/time
-- Checked in by user
-- Checked out date/time
-- Checked out by user
-- Status
-- Follow up
-- Current status
-
-## Allergies & Reactants (list)
-
-### Fields
-
-- Allergen name
-- Site
-- Station Number
-- Severity
-- Reactions
-- Type
-- Verified date
-
-## Immunizations (list)
-
-### Fields
-
-- Name
-- Series
-- Date
-- Facility
-
 ## Non-VA Medications (list)
 
 ### Fields
@@ -134,15 +166,44 @@
 - Comment
 - Signature
 
-## Procedures (list)
+
+
+## Reason for visit
 
 ### Fields
 
-- Station name
-- Station number
-- Date
+
+## Patient Instructions
+
+## Patient Education
+
+
+
+
+
+
+
+## Basic Demographics
+
+### Fields 
+
+- ICN
+- Home phone
+- Cell phone
+- Date of birth
 - Name
-- Code
+- Sex
+- SSN
+- Age
+- Deceased date
+- Is Veteran
+- Service Percentage
+- Location
+- Room/bed
+- Is Inpatient
+
+
+
 
 ## Radiology Reports (list)
 
@@ -150,15 +211,6 @@
 
 - Report text
 
-## Clinical reminders (list)
-
-### Fields
-
-- Date when due
-- Patient DFN
-- Reminder IEN
-- Last occurence
-- Name
 
 ## Encounter notes (list)
 
@@ -187,24 +239,3 @@
 - Units
 - Reference Range
 
-## Vitals (list)
-
-### Fields
-- Type
-- Value
-- Qualifiers
-- Date
-
-## Problem list
-
-### Fields
-
-- String consisting of problem description and date
-
-## Reason for visit
-
-### Fields
-
-## Diagnoses
-
-### Fields
