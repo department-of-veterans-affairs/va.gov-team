@@ -201,7 +201,7 @@ Applicants can be either authenticated or unauthenticated to access this applica
   31. Applicant clicks the **Continue** button and proceeds through the rest of the application.
 
 ### Use Case H
-**Applicant wants to disclose their financial information, is married, and has at least one dependent; does not live with spouse, does provide financial support**
+**Applicant wants to disclose their financial information, is married, and has at least one dependent; does not live with spouse, does provide financial support, does not live with dependent, does provide financial support**
   1. Applicant reviews the page explaining how the VA will use their financial information.
   2. Applicant clicks the **Continue** button.
   3. Applicant selects **Yes** radio button, indicating they wish to share their financial information.
@@ -226,14 +226,16 @@ Applicants can be either authenticated or unauthenticated to access this applica
   22. Applicant clicks the **Continue** button.
   23. Applicant reviews the *Dependent's support* page and provides the necessary information.
   24. Applicant clicks the **Continue** button.
-  25. If the applicant has another dependent, they select the **Yes** radio button.  If the applicant does not have another dependent, they select the **No** radio button.
-  26. Applicant clicks the **Continue** button.  If the **Yes** radio option was selected, repeat from Step 19.  If the **No** radio option was selected, move on to Step 27.
-  27. Applicant reviews the *Your annual income* page and provides the necesary information.
-  28. Applicant clicks the **Continue** button.
-  29. Applicant reviews the *Spouse's financial income* page and provides the necessary information.
+  25. Applicant reviews the *Dependent's income* page and provides the necessary information.
+  26. Applicant clicks the **Continue** button.
+  27. If the applicant has another dependent, they select the **Yes** radio button.  If the applicant does not have another dependent, they select the **No** radio button.
+  28. Applicant clicks the **Continue** button.  If the **Yes** radio option was selected, repeat from Step 19.  If the **No** radio option was selected, move on to Step 29.
+  29. Applicant reviews the *Your annual income* page and provides the necesary information.
   30. Applicant clicks the **Continue** button.
-  31. Applicant reviews the *Last year's deductible expenses* page and provides the necessary information.
-  32. Applicant clicks the **Continue** button and proceeds through the rest of the application.
+  31. Applicant reviews the *Spouse's financial income* page and provides the necessary information.
+  32. Applicant clicks the **Continue** button.
+  33. Applicant reviews the *Last year's deductible expenses* page and provides the necessary information.
+  34. Applicant clicks the **Continue** button and proceeds through the rest of the application.
 
 ### Use Case I
 **Applicant wants to disclose their financial information, is not married, and has at least one dependent**
@@ -253,9 +255,11 @@ Applicants can be either authenticated or unauthenticated to access this applica
 14. Applicant clicks the **Continue** button.
 15. Applicant reviews the *Dependent's support* page and provides the necessary information.
 16. Applicant clicks the **Continue** button.
-17. If the applicant has another dependent, they select the **Yes** radio button.  If the applicant does not have another dependent, they select the **No** radio button.
-18. Applicant clicks the **Continue** button.  If the **Yes** radio option was selected, repeat from Step 11.  If the **No** radio option was selected, move on to Step 19.
-19. Applicant reviews the *Your annual income* page and provides the necesary information.
- 18. Applicant clicks the **Continue** button.
-20. Applicant reviews the *Last year's deductible expenses* page and provides the necessary information.
-21. Applicant clicks the **Continue** button and proceeds through the rest of the application.
+17. Applicant reviews the *Dependent's income* page and provides the necessary information.
+18. Applicant clicks the **Continue** button.
+19. If the applicant has another dependent, they select the **Yes** radio button.  If the applicant does not have another dependent, they select the **No** radio button.
+20. Applicant clicks the **Continue** button.  If the **Yes** radio option was selected, repeat from Step 11.  If the **No** radio option was selected, move on to Step 21.
+21. Applicant reviews the *Your annual income* page and provides the necesary information.
+22. Applicant clicks the **Continue** button.
+23. Applicant reviews the *Last year's deductible expenses* page and provides the necessary information.
+24. Applicant clicks the **Continue** button and proceeds through the rest of the application.
