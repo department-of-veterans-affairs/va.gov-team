@@ -2,27 +2,26 @@
 #### Overview
 
 Currently there is limited marketing of the VA.gov mobile app from within the benefit hubs. Using patterns created by Apple and others e.g. [Smart App Banners](https://developer.apple.com/documentation/webkit/promoting_apps_with_smart_app_banners) we can increase the adoption and overall use of the VA.gov mobile app by placing the banners on the appropriate tool landing pages that map to features/functions available in the mobile app.
- 
+
 ---
 
 ## Outcome Summary
-Increase the download/use of the VA.gov mobile app
+Increase the download/use/adoption of the VA.gov mobile app.
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- [Benefit hub product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Benefit%20Hub)
+- [ VA.gov Mobile app](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app) 
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+* How might we use the VA.gov website to encourage use of native mobile apps as it aligns with specific features on VA.gov.
 
-<!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Using the mobile app allows users to access tools more readily
 
 ## Undesired User Outcomes
+- Frustration because the app 
+
+
 ## Desired Business Outcomes
 
 - *Why would your business want this to exist?*
@@ -38,7 +37,13 @@ Increase the download/use of the VA.gov mobile app
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+| Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo) | 
+| ----- | ----- | ----- | ----- |
+| Downloads of VA.gov Mobile App (aggregate) | ----- | ----- | ----- | ----- |
+| Downloads of VA.gov Mobile App via SmartApp banner | N/A | ----- | ----- | ----- |
+| Use of VA.gov app instead of VA.gov web via SmartApp banner | N/A | ----- | ----- | ----- |
+| iOS use of VA.gov product landing pages | ----- | ----- | ----- | ----- |
+| Apple Store app rating | ----- | ----- | ----- | ----- |
 
 ---
 
@@ -61,12 +66,28 @@ Increase the download/use of the VA.gov mobile app
     - VA stakeholder testing, marketing, compliance requirements 
 
 ### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-> *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
+
+MVP will be to:
+* Use Apple's Smart App Banners only, because this is COTS OOB behavior requiring no design and leveraging existing user-expected patterns.
+* Create a means by which we specify the specific URLs app promotion happens
+* Place the Smart banner on the following pages mapped to the following functions. (Note, we cannot deep-link into the App at this time)
+
+| Category | App Function | VA.gov URL | 
+| ------ | ------ | ----- |
+| Health care tools | Refill and track your VA prescriptions | https://www.va.gov/health-care/refill-track-prescriptions/ | 
+| Health care tools | Send and receive secure messages from your VA health care team | https://www.va.gov/health-care/secure-messaging/  |
+| Health care tools | Get your records for VA vaccines, such as COVID-19 | https://www.va.gov/health-care/get-medical-records/ |
+| Benefits tools | Check your disability rating | https://www.va.gov/disability/view-disability-rating/ |
+| Benefits tools | Review your claim or appeal status | https://www.va.gov/claim-or-appeal-status/ | 
+| Benefits tools | Submit evidence for your claim or appeal | https://www.va.gov/disability/upload-supporting-evidence/ | 
+| Benefits tools | Download common VA letters | https://www.va.gov/records/download-va-letters/ |
+| Payment tools | Review payments we’ve sent you | https://www.va.gov/va-payment-history/ | 
+| Payment tools | Update your direct deposit information | https://www.va.gov/change-direct-deposit/ | 
+| Sitewide tools | Find VA facilities and services near you | https://www.va.gov/find-locations | 
+
 
 #### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+This is (part of) the marketing strategy for mobile. Rolling out to Apple users first due to OOB patterns and analytics.
 
 --- 
 
@@ -98,28 +119,15 @@ Increase the download/use of the VA.gov mobile app
 ---
 
 #### Communications
-*Where will you discuss this initiative?*
 
-<details>
-
-- Team Name: 
+- Team Name: Public Websites
 - GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Slack channel: #Sitewide-Public-Websites
+- Product POCs: 
 
-</details>
 
 
 #### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
 
-<details>
-  
-- Office/Department:
-- Contact(s): 
- 
-</details>
+N/A
 
----
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
