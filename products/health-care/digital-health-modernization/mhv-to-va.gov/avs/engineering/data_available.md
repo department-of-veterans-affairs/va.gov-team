@@ -40,7 +40,7 @@
 - State
 - Zip
 
-## Medication orders
+## Medication orders (list)
 
 ### Fields
 
@@ -110,3 +110,48 @@
 - Series
 - Date
 - Facility
+
+## Non-VA Medications (list)
+
+### Fields
+
+- Order ID
+- Is Outpatient
+- Station name
+- Station number
+- Name
+- Status
+- Start date
+- Date Documented
+- Documenter
+- Stop date
+- Comment
+- Signature
+
+## Procedures (list)
+
+### Fields
+
+- Station name
+- Station number
+- Date
+- Name
+- Code
+
+## Radiology Reports (list)
+
+### Fields
+
+- Report text
+
+## Clinical reminders (list)
+
+### Fields
+
+- Date when due
+- Patient DFN
+- Reminder IEN
+- Last occurence
+- Name
+
+
