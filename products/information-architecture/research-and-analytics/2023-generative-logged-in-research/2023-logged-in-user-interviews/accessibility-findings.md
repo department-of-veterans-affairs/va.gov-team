@@ -21,7 +21,7 @@ This research fufilled 50% (3/6) of its original request. Given the limited amou
  - Mitigate and identify exclusion by scale in design system patterns and components (e.g. what patterns have/haven't been tested with ZoomText users?)
  - The new homepage _may_ benefit from testing with ZoomText users (see below)
 
-### Opening links in a new tab/window without a warning is a known usability issue with WCAG documentation
+### [Opening links in a new tab/window without a warning is a known usability issue with WCAG documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/accessibility-findings.md#opening-links-in-a-new-tabwindow-without-a-warning-is-a-known-usability-issue-with-wcag-documentation-1)
 - Design system and platform guidance improvements can mitigate future issues
 - A strategy is needed to identify and mitigate remaining issues in production
 
