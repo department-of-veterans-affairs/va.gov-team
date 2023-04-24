@@ -279,7 +279,9 @@ Please return to About VA medical records
 
 - If you had an upcoming appointment with a new community provider and wanted to take a copy of your medical records, what would you do?
 
-- What do you think is meant by "Blue Button"?
+_[if the participant is struggling, ask:]_ What do you think is meant by "Blue Button"?
+
+
 - How would you share your medical records with a new VA provider using this website?
 
 **Things to watch for:**
