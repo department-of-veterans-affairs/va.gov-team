@@ -58,7 +58,7 @@ The purpose of this research is to **get user feedback on the newly redesigned i
 16. Do Veterans understand deductions and how that affects their income? (Did they see the details about this?)
      1. No. Only 1 participant mentioned deductions. No other participants said anything about it and may not have known they were relevant because they didn't open the _How to estimate your income for this tool_ accordion. 
 18. After seeing the information presented in the app results page, what do Veterans want to do next? 
-     1. Click on _Find out if you may be eligible_ link (4 participants), though this didn't work in the prototype
+     1. Click on _Find out if you may be eligible for VA health care_ link in the _$90,090 or more_ accordion (4 participants), though this didn't work in the prototype. It was intended to link to the [current Eligibility page](https://www.va.gov/health-care/eligibility/).
      1. Apply for VA health care (2 participants) = what we wanted people to do
      1. Call or visit a nearby VA facility (2)
      1. Do more research to find specific coverages (1)
