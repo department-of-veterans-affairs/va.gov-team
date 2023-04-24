@@ -75,27 +75,55 @@
 ####
 
 
-## (End Today's Visit)
+## Treatment Plan
+
+### Orders
+
+### Clinical/health reminders (list)
+
+#### Fields
+
+- Date when due
+- Patient DFN
+- Reminder IEN
+- Last occurence
+- Name
+
+### Patient Education
+
+### Comments
+
+### Med Changes
 
 
 
 
 
-## Primary care team
-### Fields
 
-## Primary care providers
-### Fields
 
-## Problem list
 
-### Fields
+
+
+
+
+## Ongoing Care
+
+
+### Primary care providers
+#### Fields
+
+### Primary care team
+#### Fields
+
+### Problem list
+
+#### Fields
 
 - String consisting of problem description and date
 
-## Appointments (list)
+### Appointments (list)
 
-### Fields
+#### Fields
 
 - Date & time
 - Location
@@ -115,18 +143,24 @@
 - Follow up
 - Current status
 
-## Immunizations (list)
+### Immunizations (list)
 
-### Fields
+#### Fields
 
 - Name
 - Series
 - Date
 - Facility
 
-## Allergies & Reactants (list)
+### Radiology Reports (list)
 
-### Fields
+#### Fields
+
+- Report text
+
+### Allergies & Reactants (list)
+
+#### Fields
 
 - Allergen name
 - Site
@@ -136,9 +170,29 @@
 - Type
 - Verified date
 
-## Medications 
+### Lab results (list)
 
-### Fields
+#### Fields
+
+- Specimen
+- Ordering Provider
+- Collection Date/Time
+- Performing lab (not always present)
+- Values (list)
+
+##### Values (list)
+
+###### Fields
+
+- Test
+- Result
+- Flag
+- Units
+- Reference Range
+
+### Medications 
+
+#### Fields
 
 - Type
 - NDC (National Drug Code)
@@ -149,7 +203,7 @@
 - Ordering provider
 - Rx Type
 
-#### Fields available once filled
+##### Fields available once filled
 
 - Status IEN
 - Status
@@ -164,9 +218,9 @@
 - Filling pharmacy
 - Pharmacy phone number
 
-## Non-VA Medications (list)
+### Non-VA Medications (list)
 
-### Fields
+#### Fields
 
 - Order ID
 - Is Outpatient
@@ -181,16 +235,16 @@
 - Comment
 - Signature
 
+### Clinical Charts
 
 
-## Reason for visit
-
-### Fields
 
 
-## Patient Instructions
 
-## Patient Education
+
+
+
+
 
 
 
@@ -220,12 +274,6 @@
 
 
 
-## Radiology Reports (list)
-
-### Fields
-
-- Report text
-
 
 ## Encounter notes (list)
 
@@ -233,24 +281,4 @@
 - Patient instructions
 - Discharge Diagnoses Comments
 - Medications notes
-
-## Lab results (list)
-
-### Fields
-
-- Specimen
-- Ordering Provider
-- Collection Date/Time
-- Performing lab (not always present)
-- Values (list)
-
-#### Values (list)
-
-##### Fields
-
-- Test
-- Result
-- Flag
-- Units
-- Reference Range
 
