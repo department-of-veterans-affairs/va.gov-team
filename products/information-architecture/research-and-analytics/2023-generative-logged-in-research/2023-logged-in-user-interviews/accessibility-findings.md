@@ -25,7 +25,7 @@ This research fufilled 50% (3/6) of its original request. Given the limited amou
 - Design system and platform guidance improvements can mitigate future issues
 - A strategy is needed to identify and mitigate remaining issues in production
 
-### Unprompted modals should be further stress tested with Veterans using ZoomText
+### [Unprompted modals should be further stress tested with Veterans using assistive technologies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/accessibility-findings.md#unprompted-modals-should-be-further-stress-tested-with-veterans-especially-those-using-screen-readers-and-zoomtext)
 - Anecdotes in our study with P1 hinted at pop ups being a pain point
 - While we don't have enough data to have full confidence on this issue, we should consider it as a risk to prioritize further research into
 
