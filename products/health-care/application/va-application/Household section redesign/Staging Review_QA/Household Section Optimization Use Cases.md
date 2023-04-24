@@ -2,7 +2,7 @@
 
 - Link to product outline: [10-10EZ Veteran Healthcare application](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
 - Link to Initiative: [Household Section Optimization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/ReadMe.md)
-- Link to form flow: [Household section form flow](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/208CCE1E-DC03-457F-B2FA-1232663983CF/canvas)
+- Link to form flow: [Household section form flow](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/12B7255E-72F6-4C6A-83C3-81BF9A1CEBDE/canvas)
 - Link to Epic: [Household section optimization epic #41403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41403)
 - Link to [TestRail Test Run](https://dsvavsp.testrail.io/index.php?/runs/view/4540&group_by=cases:section_id&group_order=asc)
 
