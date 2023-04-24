@@ -40,7 +40,7 @@ Applicants can be either authenticated or unauthenticated to access this applica
   5. Applicant reviews the page confirming that they do not want to provide their financial information
   6. Applicant clicks the **Continue** button.
   7. Applicant chooses the correct option from the *Marital Status* dropdown.  The selection does not impact the form.
-  8. Applicant clicks the **Continue** buton and proceeds through the rest of the application.
+  8. Applicant clicks the **Continue** button and proceeds through the rest of the application.
 
 ### Use Case B
 **Applicant wants to diclose their financial information, is not married, and has no dependents**
