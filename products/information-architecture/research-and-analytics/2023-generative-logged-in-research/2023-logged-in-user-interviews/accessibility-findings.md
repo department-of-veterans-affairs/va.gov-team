@@ -29,9 +29,6 @@ This research fufilled 50% (3/6) of its original request. Given the limited amou
 - Anecdotes in our study with P1 hinted at pop ups being a pain point
 - While we don't have enough data to have full confidence on this issue, we should consider it as a risk to prioritize further research into
 
-### More inclusive research with disabled Veterans using assistive technology is needed for the logged in IA and navigation experience (and in all studies)
-- To be more confident on behavioral patterns and common issues, we should aim to test with at least 4 per user group (or test until saturation) [[1]](#1)
-- Inclusive research guidance and strategy should be updated to reflect this as we become more capable of recruiting Veterans who use assistive technologies
 
 ## Details of findings and recommendations
 
@@ -133,8 +130,6 @@ https://user-images.githubusercontent.com/14154792/234065565-dd3524d7-6a70-4d2a-
 
 > Setting vertical-align to "top" as opposed to "middle" could potentially improve usability, but would require more research (and updates to USWDS, which also centers the modal)
 
-### More inclusive research with disabled Veterans using assistive technology is needed for the logged in IA and navigation experience (and in all studies)
-[Include video here on issue]
 
 ## Other considerations and findings 
 
@@ -146,6 +141,11 @@ https://user-images.githubusercontent.com/14154792/234065565-dd3524d7-6a70-4d2a-
 ![image](https://user-images.githubusercontent.com/14154792/234062209-df5a9405-301d-4fb6-8392-abff29bdcf97.png)
 
 https://user-images.githubusercontent.com/14154792/234063847-611f07e6-58a0-4236-b389-fddc61c8af06.mov
+
+### More inclusive research with disabled Veterans using assistive technology is needed for the logged in IA and navigation experience (and in all studies)
+
+- To be more confident on behavioral patterns and common issues, we should aim to test with at least 4 per user group (or test until saturation) [[1]](#1)
+- Inclusive research guidance and strategy should be updated to reflect this as we become more capable of recruiting Veterans who use assistive technologies
 
 ## References
 <a id="1">[1]</a> 
