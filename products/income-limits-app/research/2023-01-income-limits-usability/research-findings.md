@@ -2,11 +2,11 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Income Limits, Sitewide Public Websites**
 
-Date: 04/21/2023
+Date: 04/24/2023
 
 **Cindy Merrill** [cindy.merrill@adhocteam.us]
 
-[Research readout](link here)
+[Research readout](TBD link here)
 
 <br>
 
@@ -141,12 +141,15 @@ Participants were asked about the following:
 - Once they found the _Get past income limits_ link, participants didn't have any difficulties doing the **Past Income limits task**. One participant wanted to try a different zip code for the city he's considering moving to in order to learn if he would be eligible for VA health care there. Another participant said they might look at past income limits to see if there was a pattern of increases each year so they could get a sense of what they might pay for copays in the future.
 
 ### 2. There were a few navigation issues within the app
-- ***Review the information you entered*** link--Two participants did _not_ use this link to go back from the results page to the summary page. They used the _Back_ button in their browser instead, though one participant was concerned that this might exit them out of the app (it didn't). A different participant thought that this link would take them to information that they filled out previously on VA forms (which is incorrect).
+Participants were able to navigate through the design prototype fairly smoothly, except for the following three interactions:
+
+a. ***Review the information you entered*** link--Two participants did _not_ use this link to go back from the results page to the summary page. They used the _Back_ button in their browser instead, though one participant was concerned that this might exit them out of the app (it didn't). A different participant thought that this link would take them to information that they filled out previously on VA forms (which is incorrect).
 - RECOMMENDATION: Make the *Review the information you entered* link more prominent in location and/or visual treatment/layout (e.g., top of page or maybe look like a button like the _Continue_ button). Maybe explore how other VA.gov pages enable you to navigate to view/edit previous information.
-- **_Get past income limits_** link--Two participants had difficulty finding this link on the results page. One of them looked in the _How to estimate your income for this tool_ accordion, but this wasn't relevant. They also wanted to click the _Expand all_ accordion above the salary ranges. One of the participants was looking for a search tool but never found one.
+
+b. **_Get past income limits_** link--Two participants had difficulty finding this link on the results page. One of them looked in the _How to estimate your income for this tool_ accordion, but this wasn't relevant. They also wanted to click the _Expand all_ accordion above the salary ranges. One of the participants was looking for a search tool but never found one.
 - RECOMMENDATION: If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page, or possibly add a year selector to the app flow right before asking any questions.
  
-- After 1 participant used the _Review Info_ page to return to the zip code page and then clicked the _Continue_ button, they said they were surprised to see the _Dependents_ page. They expected to see the _Review Info_ page again. Other participants saw this, too, and said that they must be going back through all the screens.
+c. After 1 participant used the **_Review Info_ page** to return to the zip code page and **then clicked the _Continue_ button**, they said they were surprised to see the _Dependents_ page. They expected to see the _Review Info_ page again. Other participants saw this, too, and said that they must be going back through all the screens.
 - RECOMMENDATION: If someone navigates from the _Review Info_ page to another page, consider having the _Continue_ button take you back to the _Review Info_ page instead of to the next question (which was intended as the design but wasn't implemented in the click-through prototype).
 
 ### 3. Participants had some confusion with terminology used in the questions, including the word "dependents"
@@ -156,6 +159,9 @@ In the question *Did you get a VA pension from VBA last year?*, 1 participant di
 
 > *"I get embarrassed when I don’t know what things mean when they are asked. It also makes me start questioning if I should be receiving these other things, and it gets me off track. Makes me want to look into those things" (p7)*.
 
+- RECOMMENDATION: Delete the text "from VBA" in the pension question (or if this must be kept in, write out "Veterans Benefits Administration") because it's confusing as is.
+- RECOMMENDATION: Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean and want to understand before answering the question.
+
 Participants had different interpretations for the **dependents** question. Some said they would enter what they put on their income taxes, and others remembered this information incorrectly or might have been thinking of the VA's definition of dependents, which includes your spouse.
 - Half of the participants entered what they put on their income taxes, though one said that he'd ask his wife what that was because she does their taxes. 
 - Two participants wanted to enter 1 for their wife, with whom they file taxes jointly.
@@ -163,8 +169,6 @@ Participants had different interpretations for the **dependents** question. Some
 - One participant wanted to enter 1 for himself. Was he maybe thinking of income tax exemptions?
 
 - RECOMMENDATION: Clarify the meaning of "dependents" in this question per income taxes or VA rules, and add details to the question so people will know how to answer. According to a VA subject-matter expert (in an email dated 4/17/2023), dependents include *your spouse*, unmarried children under 18 (or 18-23 if attending school full-time or disabled prior to reaching age 18), and parents if in the Veteran's direct care and whose net worth and income are below a fixed limit.
-- RECOMMENDATION: Delete the text "from VBA" in the pension question (or if this must be kept in, write out "Veterans Benefits Administration") because it's confusing as is.
-- RECOMMENDATION: Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean and want to understand before answering the question.
 
 ### 4. Participants used the salary numbers provided by the moderator to decide which income limit accordion to open on the results page, and most didn't mention their household income or deductions
 
