@@ -39,7 +39,7 @@
 - Several users who tried to complete/update/submit form too close to ITF  expiration get a "something went wrong error"
 - A few users mentioned wanting to be returned to the exact spot where they were when they return to the form instead of the beginning or pre-submission edit page. In general, several users had trouble returning to the form they had begun. 
 - Veterans may not understand that ancilliary forms are contained within the 526 digital form. There is a link embedded on the introduction page that explains this but they may not be clicking that link
-- 526 does not currently support international Vets; Veterans who live abroad don't understand why they can't file. 
+- This report previously stated that the 526 does not support international vets but it does. Vets can establish their location, however they are not able to enter foreign numbers into the form. 
 
 
 ## User quotes
