@@ -154,4 +154,42 @@
 - Last occurence
 - Name
 
+## Encounter notes (list)
+
+### Fields
+- Patient instructions
+- Discharge Diagnoses Comments
+- Medications notes
+
+## Lab results (list)
+
+### Fields
+
+- Specimen
+- Ordering Provider
+- Collection Date/Time
+- Values (list)
+- Performing lab (not always present)
+
+#### Values (list)
+
+##### Fields
+
+- Test
+- Result
+- Flag
+- Units
+- Reference Range
+
+## Vitals (list)
+
+
+### Fields
+
+
+## Problem list
+
+### Fields
+
+
 
