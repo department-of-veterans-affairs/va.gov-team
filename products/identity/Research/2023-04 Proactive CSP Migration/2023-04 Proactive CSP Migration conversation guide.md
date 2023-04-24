@@ -44,7 +44,7 @@
 [If the participant doesn't show up in the first few minutes, reach out to Perigean on Slack.]
 
 
-- Thank you for joining this session today! I first want to make sure that we are able to hear each other.
+- Thank you for joining this session today! I first want to make sure that we're able to hear each other.
 
 [WAIT FOR RESPONSE - if can’t hear, [troubleshoot](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr#Troubleshootingresearchsessions-Problem:Usercannothearyou/youcan'thearthemonZoom) otherwise...]
 
@@ -59,7 +59,7 @@
 
 - Nice to meet you!
 - We have a couple other team members in the waiting room who would like to observe and help take notes. But before we invite them, I'd like to tell you more about what we're doing today.
-- The subject of our research today is the login and account process. We are not testing your ability.
+- The subject of our research today is the login and account process. We're not testing your ability.
 - Today we're going to talk about how you sign in to access and manage your VA benefits and health care.
 - In this session, we want to hear your honest opinions. The goal is to improve this process to better meet veterans needs. We will not be offended by any opinions you express, and we welcome your candid feedback.
 - In this session, later on, I’ll ask you to interact with a prototype. It will look real, but it isn’t, and we won’t be accessing your account or real information. We use prototypes to help us test things before we decide what to make real.
@@ -74,9 +74,9 @@
 - I want to ask your permission for another item now. We do like to record these sessions. This helps us so we can look back for clarifications like to make sure we noted your opinions correctly. We delete recordings after we finish analysis, which usually takes a couple weeks. Also we sometimes write quotes down to help others at the VA understand why we want to make certain changes, but your name will not be directly linked to any of your comments.
 - Knowing that, are you comfortable if I record my screen and our audio as we talk today?
    - [IF YES - RECORD TO CLOUD] 
-   - Now that we are recording, I have to confirm once more - are you are ok if I record my screen and the audio as we talk today?
+   - Now that we're recording, I have to confirm once more - are you are ok if I record my screen and the audio as we talk today?
 - [WAIT FOR RESPONSE]
-- Ok, we are ready to go
+- Ok, that's it for set up! Do you have any questions before we get started?
 
 
 ## Round 1: Mobile internet use questions | 5 minutes
@@ -102,7 +102,7 @@ I'd like to start with a few questions to get to know how you go online…
 
 ## Round 2: Account terms questions | 10 minutes
 
-I’d like to take some time to think about a few words or phrases that the VA or a bank website might use when talking about online accounts. I want to remind you that this isn’t a test of you or your vocabulary. Instead we are interested in understanding what you and other veterans call things so we can make instructions more clear and understandable.
+I’d like to take some time to think about a few words or phrases that the VA or a bank website might use when talking about online accounts. I want to remind you that this isn’t a test of you or your vocabulary. Instead we're interested in understanding what you and other veterans call things so we can make instructions more clear and understandable.
 
 - I'm going to set up a scenario here. Let's say that you need to access your bank online [IF THEY PREVIOUSLY MENTIONED ONLINE BANKING, otherwise use “the VA”]. Before they will show your information, they have you type in your username, which is often your email address, and password. What might you call that process?
 - Now a bank might require you to put in your username and password, and then after that they might text you a 6-digit number that they need back from you.
@@ -163,7 +163,7 @@ Let’s think more specifically about accessing the VA online
 
 ## Round 4: Modal task | 10 minutes
 
-I’d like for us to now take a look at a prototype. This is a website design that we are thinking about using. It will look like VA.gov but this is not real, and everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
+I’d like for us to now take a look at a prototype. This is a website design that we're thinking about using. It will look like VA.gov but this is not real, and everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
 
 I’m going to sign into this Zoom call from my phone, so I can share the design as you might see it from a phone. It'll look like another person is joining this session, but it’s just me. Is that ok? [IF NO - share from desktop... ok instead of that, I'll share my desktop screen]
 
@@ -187,7 +187,7 @@ Ok give me a few moments to get set up.
    - [IF Login.gov or ID.me - ok I understand that's how you'd sign in. Today let's pretend that you're a veteran who uses the DSLogin option. Are you ok with that?]
    - Before we move on, when I select the sign in option we'll skip the part where we actually put in a username and password and we'll move right to the next page.
       - What would you expect to see just after the sign in page?
-   - Also I will warn you that I'll only leave the next page up breifly. It can be jarring when I hide it, but it's a technique that helps us get your first impression. I want to remind you that we aren't testing you, but we can understand how well the page works by the first impression it leaves on you.
+   - Also I'll warn you that I'll only leave the next page up breifly. It can be jarring when I hide it, but it's a technique that helps us get your first impression. I want to remind you that we aren't testing you, but we can understand how well the page works by the first impression it leaves on you.
    - Ok, so if we're ready to go... [BRIEF PAUSE]
    - ...let's pretend that you're putting in your username and password for [DSLogin OR MHV]. 
    - [ADVANCE to modal]
@@ -220,20 +220,22 @@ Ok give me a few moments to get set up.
 - Do any questions come to your mind now that you’ve looked through it a little more?
 - There are a few terms on this page that I'd like to think more about
    - What does the word "upgrade" at the top make you think about?
-   - In that first paragraph is the phrase "VA digital tools" what is your understanding of what that might mean?
-- If you were describing this to a friend or family member, what would you tell them this information means?
-- Now that you’ve read this, what would you do?
-   - Is getting a new sign in something you would consider doing after reading this?
-- How do you feel about the information that's presented here, on this screen?
+   - The first paragraph uses the phrase "VA digital tools," what is your understanding of what that might mean?
+   - Where it says "here's what you'll need" - walk me through your thoughts about this part
+     - [PROMPT] What do you think about with State ID?
+  - At the bottom, where it says "no thanks remind me later" what would you expect that to do?
+     - [PROMPT] Would it close out this popup?
+- If you were describing this information to a friend or family member, what would you tell them this page means?
+- How do you feel about the information that's presented on this screen?
    - How do you feel about the option listed?
    - Have you heard of it?
+   - Does this make you to think aobut the way you sign in?
    - What would you expect to happen if you go through with signing up for Login.gov?
       - [PROMPT] What is your understanding of what this change means for you
       - [PROMPT] Would you expect all the information you want to see online with VA remain the same?
 - If instead of showing one account option here, if instead we said something like “The VA has two account options that meet our security standards” and showed you both choices, what would you think?
    - How would you choose which to go with?
-- At the bottom, where it says "no thanks remind me later" what would you expect that to do?
-- Do you have any questions for me at this point?
+- Do you have any questions for me about this screen?
 - Do you have any questions about any of these questions or tasks that we’ve worked through today?
 
 ### Things to watch for:
