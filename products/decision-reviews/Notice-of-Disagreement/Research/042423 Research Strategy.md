@@ -53,7 +53,6 @@ The Request for Board Appeal form was released in April 2022 and is overdue for 
 ### **Quantitative questions**
 
 - What critical points along the Board Appeal online form journey currently have the highest drop-off rate?
-    - GA:
 - What opportunities have been captured in the Medallia survey?
 - What is the baseline satisfaction rating for Board Appeal?
 - Does the digital form improve user satisfaction?
