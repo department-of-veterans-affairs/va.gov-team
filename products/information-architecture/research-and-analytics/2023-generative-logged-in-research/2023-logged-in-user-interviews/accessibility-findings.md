@@ -14,7 +14,7 @@ This research fufilled 50% (3/6) of its original request. Given the limited amou
 - [1 desktop zoom text reader user (magnification, screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p1.md)
 
 ## Key findings and recommendations
-1. **Conduct more research on ZoomText with VSOs, Rehab Centers, and Veterans** to be...
+1. **Conduct more research on ZoomText with VSOs, Rehab Centers, and Veterans to be...** 
   - Strategic about inclusive research and design decisions (e.g. What zoom levels are most prevalent or have the most pain points? What compounded disabilities should we be accounting for?)
   - Mitigate and identify exclusion by scale in design system patterns and components (e.g. what patterns have/haven't been tested with ZoomText users?) 
 3. y
