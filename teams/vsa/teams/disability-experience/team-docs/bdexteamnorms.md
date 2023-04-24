@@ -33,6 +33,7 @@ We are a cross-functional team spread across multiple time zones. The team is ge
    - [ ] Meet the team Definition of Ready
    - [ ] Include an estimate
    - [ ] At the end of the sprint, they should meet the team Definition of Done
+- [ ] When ad hoc requests / bug fix requests come in, we will determine urgency and priority before working on these requests mid-sprint. As a rule, we will give ourselves ~3 story points to handle incoming requests as needed.
 
 ## Definition of Ready
  - [ ] I know where to start
