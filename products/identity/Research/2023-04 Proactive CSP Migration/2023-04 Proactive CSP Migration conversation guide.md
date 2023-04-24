@@ -178,23 +178,23 @@ Ok give me a few moments to get set up.
 [IF ANY ISSUE WITH PHONE SHARE - screen share the mobile design from computer]
 
 ---
-- This should look like what you would see on VA.gov from your phone - does it look familiar?
+- This should look like what you'd see on VA.gov from your phone - does it look familiar?
 - I'm going to move through a couple pages. I want you to feel free to guide or direct me where to go on the page
 - Let's say you were going to sign into your account to [PRIOR MENTIONED TASK or “refill a prescription”].
    - Would you normally select the "sign in" button?
    - [ADAVANCE to the sign in options page]
    - Ok and then which option would you select here?
-   - [IF THEY USE Login.gov or ID.me - ok I understand that is how you'd sign in. Today let's pretend that you're a veteran who uses the DSLogin option. Are you ok with that?]
-   - Before we move on, when I select the sign in option we'll skip the part where we actually put in your username and password and we'll move right to the next page.
-   - Also I will warn you that I'll only leave the next page up breifly. It can be jarring when I hide it, but it's a technique that helps us get your first impression. Again we aren't testing you you don't have to do anything special, but we can understand how well the page works by the first impression it leaves on you.
-   - [Brief pause]
-   - Ok so, let's pretend that you're putting in your username and password for [MHV or DSLogin]. 
+   - [IF Login.gov or ID.me - ok I understand that's how you'd sign in. Today let's pretend that you're a veteran who uses the DSLogin option. Are you ok with that?]
+   - Before we move on, when I select the sign in option we'll skip the part where we actually put in a username and password and we'll move right to the next page.
+      - What would you expect to see just after the sign in page?
+   - Also I will warn you that I'll only leave the next page up breifly. It can be jarring when I hide it, but it's a technique that helps us get your first impression. I want to remind you that we aren't testing you, but we can understand how well the page works by the first impression it leaves on you.
+   - Ok, so if we're ready to go... [BRIEF PAUSE]
+   - ...let's pretend that you're putting in your username and password for [DSLogin OR MHV]. 
    - [ADVANCE to modal]
 - So now you're signed in. Can you start to describe for me what you see or what you might do here?
    - [STOP SCREEN SHARE or otherwise hide the modal while they answer]
    - [NOTE if cognative disability/decline or participant seems more slow and methodical, leave up a few more seconds]
-   - What did you expect to see when we signed in?
-      - How did the page you saw compare to what you expected?
+   - How did the page you saw compare to what you expected?
    - If you saw that pop up while you were actually signing in, what would you do next?
       - [PROMPT: maybe close it right away? Or read through it?]
    - It was really quick, but could you tell me about anything on the last screen that stood out to you?
