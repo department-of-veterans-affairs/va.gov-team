@@ -8,6 +8,12 @@
 - SSN
 - Age
 
+## Clinics visited
+
+### Fields
+
+
+
 ## Basic Demographics
 
 ### Fields 
@@ -195,3 +201,10 @@
 
 - String consisting of problem description and date
 
+## Reason for visit
+
+### Fields
+
+## Diagnoses
+
+### Fields
