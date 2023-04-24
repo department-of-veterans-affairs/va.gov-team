@@ -126,7 +126,7 @@ Some possibilities may include:
 
 ## Other considerations and findings 
 
-## List of caught defects
+### List of caught defects
 [List all defects caught in spreadsheet along with the teams they belong to]
 
 ### The new VA.gov homepage _may_ benefit from being stress tested with ZoomText users
