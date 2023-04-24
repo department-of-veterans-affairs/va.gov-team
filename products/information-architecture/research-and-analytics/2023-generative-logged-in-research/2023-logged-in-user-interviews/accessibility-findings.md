@@ -99,10 +99,11 @@ Some possibilities may include:
 - Conducting maintenance audits on products that were audited before the most recent platform experience standards using the a11y dashboard
 - [Conducting an interface inventory of link variations across VA.gov](https://bradfrost.com/blog/post/interface-inventory/)-- unsure if this could be automatically collected?
 
+### Unprompted modals should be further stress tested with Veterans using ZoomText
+[Include video here on issue]
+
 ### More inclusive research with disabled Veterans using assistive technology is needed for the logged in IA and navigation experience (and in all studies)
+[Include video here on issue]
 
 ## List of caught defects
-
-### Within study's scope
-
-### To be forwarded to relevant teams
+[List all defects caught in spreadsheet along with the teams they belong to]
