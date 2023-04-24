@@ -1,3 +1,8 @@
+## [April 17, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-04-17.md)
+`Big Meeting` `Participant Safety` `Community Guidelines`
+- We'll be meeting on May 1 for a community guidelines activity, be there (or if not, no worries, we'll have async stuff prepared!)
+- We had a conversation about participant safety in the Perigean recruitment process
+
 ## [April 3, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-04-03.md)
 `Big Meeting` `Strategy` `Community Guidelines`
 - Discussed how to push for trauma-informed work as contractors against the inertia of non-trauma informed practices
