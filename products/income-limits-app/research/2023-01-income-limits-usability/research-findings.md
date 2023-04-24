@@ -34,7 +34,7 @@ There are many potential touchpoints between the Veteran and this application th
 - Retiring (Taking care of my health)
 - Aging (Managing my declining health)
 
-The purpose of this research is to **get user feedback on the newly redesigned income limits application**. Learnings will help refine the design of the application before launch.
+The purpose of this research is to **get user feedback on the newly designed income limits application**. Learnings will help refine the design of the application before launch.
 
 ## Research Questions
 1. What are Veterans' expectations of income eligibility for VA health care? (ask before showing app)
