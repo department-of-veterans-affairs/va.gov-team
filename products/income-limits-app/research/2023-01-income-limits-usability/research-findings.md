@@ -64,7 +64,7 @@ The purpose of this research is to **get user feedback on the newly redesigned i
      1. Do more research to find specific coverages (1)
      1. Apply for disability because probably won't qualify based on income limits (1)
 20. Do Veterans understand that they can use this to find the income limits for a previous year (not 2023)? Reaction to it not being part of the flow?
-     1. Yes. No comments about accessing from the results page.
+     1. Participants completed the task using the "past income limits" link they found on the app results page, but not sure whether they really understood the use case. No comments about accessing from the results page.
 
 
 ## Methodology 
@@ -107,7 +107,7 @@ Participants were asked about the following:
 10. The results page is an intuitive place for Veterans to seek information about historical income limits (_vs._ earlier in the interaction flow).
      1. LIKELY FALSE: Two participants had difficulty finding this link on the results page. 
 11. The intro page communicates that income limits apply to only some Veterans.
-     1. LIKELY TRUE: Some participants mentioned disability being a factor.
+     1. MAYBE TRUE: Some participants mentioned disability being a factor; however, one participant expected to be asked about their disability and service history in the income limits app, which doesn't happen because those kinds of qualifications are what make income limits irrelevant.
 
 ## Key Findings
 
@@ -231,6 +231,7 @@ Scrolling down this very long landing page on a phone took a while, especially f
 We heard **additional feedback on the app intro page**. Each of the comments below is from only one participant, but could still be helpful to potentially tweak the content on the page.
 - Based on the first sentence ("You may be eligible for VA health care based on your VA disability rating, service history, or other factors"), 1 participant **expected to be asked about their disability rating and service history**, but those are actually reasons that you would NOT need the app.
   - RECOMMENDATION: On the intro page, lead with a clearer distinction between income limits and what factors make them relevant or not (e.g., "_Not everyone is affected by income limits._ You may be _automatically_ eligible for VA health care based on your VA disability rating, service history, or other factors. If you're not eligible based on these factors, you may still qualify if your income is within our limit.")
+  - RECOMMENDATION: Consider adding a qualifying question to the beginning of the income limits app to screen out people who have a service-connected disability rating of at least 50%. 
 
 - 1 participant was **concerned about how long this income limits app will take to go through** because they'll probably need to create a password and gather a lot of documents (e.g., investments, W2s, DD214). After going through the app pages, this participant was relieved.
 >  *"Wasn't overwhelming with requiring a ton of info, such as finding a DD214, and creating a new password. It was quick--that's important" (p7)*.
@@ -258,9 +259,10 @@ Before showing participants the design prototype for the income limits app, we a
 1. Make the *Review the information you entered* link more prominent in location and/or visual treatment/layout (e.g., top of page or maybe look like a button like the _Continue_ button). Maybe explore how other VA.gov pages enable you to navigate to view/edit previous information.
 2. If someone navigates from the _Review Info_ page to another page, consider having the _Continue_ button take you back to the _Review Info_ page instead of to the next question (which was intended as the design but wasn't implemented in the click-through prototype).
 6. If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page, or possibly add a year selector to the app flow right before asking any questions.
+7. Consider adding a qualifying question to the beginning of the income limits app to screen out people who have a service-connected disability rating of at least 50%. 
 
 ### For content in the app
-5. Clarify the meaning of "dependents" in this question per income taxes or VA rules, and add details to the question so people will know how to answer. According to a VA subject-matter expert (in an email dated 4/17/2023), dependents include *your spouse*, unmarried children under 18 (or 18-23 if attending school full-time or disabled prior to reaching age 18), and parents if in the Veteran's direct care and whose net worth and income are below a fixed limit.
+6. Clarify the meaning of "dependents" in this question per income taxes or VA rules, and add details to the question so people will know how to answer. According to a VA subject-matter expert (in an email dated 4/17/2023), dependents include *your spouse*, unmarried children under 18 (or 18-23 if attending school full-time or disabled prior to reaching age 18), and parents if in the Veteran's direct care and whose net worth and income are below a fixed limit.
 2. Delete the text "from VBA" in the pension question (or if this must be kept in, write out "Veterans Benefits Administration") because it's confusing as is.
 3. Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean and want to understand before answering the question.
 4. Be more explicit about household income and deductions on the results page, without using any accordions (since they weren't opened by most participants). For example, consider changing the first sentence from "We use your last year's income to determine..." to "We use your last year's _household_ income _minus deductions (such as out-of-pocket medical expenses, education costs, and funeral/burial expenses for a spouse or child)_ to determine..."
