@@ -168,8 +168,8 @@
 - Specimen
 - Ordering Provider
 - Collection Date/Time
-- Values (list)
 - Performing lab (not always present)
+- Values (list)
 
 #### Values (list)
 
@@ -183,13 +183,15 @@
 
 ## Vitals (list)
 
-
 ### Fields
-
+- Type
+- Value
+- Qualifiers
+- Date
 
 ## Problem list
 
 ### Fields
 
-
+- String consisting of problem description and date
 
