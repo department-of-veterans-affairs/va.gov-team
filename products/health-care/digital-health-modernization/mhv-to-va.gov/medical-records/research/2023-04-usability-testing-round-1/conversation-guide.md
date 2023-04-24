@@ -127,8 +127,7 @@ _[if no]_ Thank you for letting me know. We will skip that part.
 - Is this how you would expect the labs and test results to be listed?
   - _[if no]_ What would be more helpful?
 
-- Let's say you had x-rays taken of your ankle and you wanted to review the results.
-- How would you do that?
+- Let's say you had x-rays taken of your ankle and you wanted to review the results. How would you do that?
 
 _[when report opened]_
 - What information do you find helpful here?
