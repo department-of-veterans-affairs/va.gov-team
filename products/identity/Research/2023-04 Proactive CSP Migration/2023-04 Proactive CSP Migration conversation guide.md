@@ -169,7 +169,7 @@ I’m going to sign into this Zoom call from my phone, so I can share the design
 
 Ok give me a few moments to get set up.
 
-[If P doesn't use VA.gov or MHV.DSL CSPs, then... while I spend a few moments to set this up, I'd like for you to prepare yourself to pretend like you do go to VA.gov and that you use the DSLogin option to sign in.]
+[IF DOESN'T use VA.gov or the MHV/DSL CSPs, then... while I spend a few moments to set this up, I'd like for you to prepare yourself to pretend like you do go to VA.gov and that you use the DSLogin option to sign in.]
 
 [JOIN ZOOM session from phone - be logged out of zoom on your phone]
 
