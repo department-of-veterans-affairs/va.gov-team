@@ -2,6 +2,10 @@
 
 This document serves as the start of a voicebot section of the VA.gov content style guide. This is a working document and is not meant to be final guidance.
 
+## Introduction and welcome content
+-Highlight the service areas the bot can answer (claims status and PACT Act) so users know what topics the bot can handle.
+-Explain benefits and advantages of bot interaction so callers understand what they can gain from a conversation with the bot rather than speaking with an agent. Ex: No wait time; quick answers
+
 ## Tone and voice notes
 
 ### Small phrases that add to a robotic tone with recommended alternatives
@@ -20,3 +24,11 @@ This document serves as the start of a voicebot section of the VA.gov content st
 
 ## Technology considerations and limitations
 -Voicebot copy doesn't include dash marks (-) since the voice interface pronounces '-' as a word. Therefore, "post-9/11" becomes "post 9/11," "PACT Act-related benefits" becomes "PACT Act related benefits," etc.
+
+## Plain language
+
+### Use active voice
+-"Would you like to be connected now?": Replace with "Would you like me to connect you now?
+
+### Content structure
+-Since people are more likely to remember the information they hear last, include main points or takeaways in the last sentence of a bot response.
