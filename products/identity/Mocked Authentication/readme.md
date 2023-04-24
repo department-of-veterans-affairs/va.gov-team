@@ -254,6 +254,8 @@ To use mocked authentication you need to navigate to the mocked authentication r
 - [http://localhost:3001/sign-in/mocked-auth](http://localhost:3001/sign-in/mocked-auth) or,
 - [http://dev.va.gov/sign-in/mocked-auth](http://dev.va.gov/sign-in/mocked-auth)
 
+> ℹ️ Note: You must add [mocked credentials JSON](https://github.com/department-of-veterans-affairs/vets-api-mockdata/tree/master/credentials) in the vets-api-mockdata repository in order for mocked authentication to work. See above instructions on how to do that.
+
 **User flow**
 
 ![mock-auth](https://user-images.githubusercontent.com/67602137/228640745-4014f7e9-632c-4459-9c1d-79d6573bae9e.png)
@@ -275,7 +277,9 @@ To use mocked authentication you need to navigate to the mocked authentication r
     
     ```
     
-5. You will land on the server's UI (`/mocked_auth_ui/`) that displays a prefilled credential
-6. Use the dropdown to select a mocked user (available users can be created in the [vets-api-mockdata repo](#))
-6. Click **Continue** to continue with mocked authentication
-7. Land back on your client-side environment in an authenticated state
+5. You will land on the server's UI (`/mocked_authentication/profiles`) page that displays a dropdown select box to select a preferred credential
+6. Use the dropdown to select a mocked user (available users can be created in the [vets-api-mockdata repo](https://github.com/department-of-veterans-affairs/vets-api-mockdata))
+![Screenshot 2023-04-24 at 3 00 11 PM](https://user-images.githubusercontent.com/67602137/234090965-1ccadeb8-fef1-4944-9060-e942128f9f24.png)
+
+7. Click **Continue signing in** to continue with mocked authentication
+8. Land back on your client-side environment in an authenticated state
