@@ -51,6 +51,7 @@ https://user-images.githubusercontent.com/14154792/234052795-e567569b-7cc5-48bd-
 - It _may_ be unclear that a modal has appeared on this page and is blocking immediate actions (needs more testing)
 - P1's caregiver, in reference to the navigation's right aligned elements, noted that "if you have one screen with so many different areas to look at... with him and his vision loss.. it's difficult for him"
   - Note how in this simulation, it's not immediately clear that there are elements to the right side of the page e.g. MyVA
+  - Further research may uncover a need to left align items
 
 This simulation does not address the following anecdote, which was stated in reference to pop up behavior on other websites.
 
@@ -132,9 +133,6 @@ https://user-images.githubusercontent.com/14154792/234065565-dd3524d7-6a70-4d2a-
 
 
 ## Other considerations and findings 
-
-### List of caught defects
-[List all defects caught in spreadsheet along with the teams they belong to]
 
 ### The new VA.gov homepage _may_ benefit from being stress tested with ZoomText users
 
