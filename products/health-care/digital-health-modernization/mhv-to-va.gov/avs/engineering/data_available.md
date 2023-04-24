@@ -32,10 +32,16 @@
 - Site
 - Clinic
 
-### Providers
+### Provider (list)
 #### Fields
+- Name
+- Title
+- Is Primary Provider
 
 ### Reason for Visit
+#### Field
+- Code
+- Diagnosis
 
 ### Diagnoses (list)
 
@@ -72,7 +78,15 @@
 - Code
 
 ### Medications
-####
+#### Fields
+- Type
+- NDC (National Drug Code)
+- Total number of refills
+- Reason
+- Quantity
+- Days supply
+- Ordering provider
+- Rx Type
 
 
 ## Treatment Plan
