@@ -136,12 +136,12 @@ _Please provide response on roster._
 
 **Prepare**
 
-- Pilot participant email: TBD – we will handle on our own, thank you
+- Pilot participant email: We will handle on our own, thank you
 - Date and time of pilot session: TBD – we will handle on our own, thank you
 
 **Research sessions**
 
-- Planned dates of research:
+- Planned dates of research: May 9 - May 16, 2023
 
 **Length of sessions**
 
@@ -151,13 +151,15 @@ _Please provide response on roster._
 
 ## **Availability**
 
+
+
 ## **Team Roles**
 
 - Moderator: Anne Costello ([anne.costello@bylight.com](mailto:anne.costello@bylight.com))
-- Research guide writing and task development (usually but not always same as moderator): Anne Costello
+- Research guide writing and task development: Anne Costello
 - Participant recruiting & screening: Perigean
 - Project point of contact: Anne Costello
-- Participant(s) for pilot test: TBD – we will handle this on our own, thank you
-- Accessibility specialist (for sessions where support for assistive technology may be needed):
+- Participant(s) for pilot test: JB Walters, Melinda LaTona, Steve LaTona
+- Accessibility specialist:N/A
 - Note-takers: Lexi Wunder (alexia.wunder@bylight.com)
 - Observers: Coulton Bunney (Coulton.bunney@va.gov), Robyn Singleton (robyn.singleton@va.gov)
