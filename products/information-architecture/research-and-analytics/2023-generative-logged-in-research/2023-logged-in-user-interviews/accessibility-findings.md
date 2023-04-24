@@ -85,12 +85,12 @@ Sighted participants were caught off guard when links opened in new tabs, and an
 #### Design system and platform improvements can mitigate future issues
 [While prior conversations on this topic have existed](https://docs.google.com/document/d/1KCPSXmCyh2D9UfCloffjSjyRiivTH0vY7ZHxTwj5WeA/edit?usp=sharing), they have often excluded the sighted ZoomText user experience which conflicts with 
 
-- [ ] Submit a [design system documentation request ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/new?assignees=&labels=vsp-design-system-team&template=2_documentation_request_form.yml) to improve guidance on opening links in a new tab/window.
+- [ ] [Submit a design system documentation request ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/new?assignees=&labels=vsp-design-system-team&template=2_documentation_request_form.yml) to improve guidance on opening links in a new tab/window.
   - [ ] Reference [WCAG G200 guidance (Opening new windows and tabs from a link only when necessary)](https://www.w3.org/TR/WCAG20-TECHS/G200.html)
   - [ ] Provide `like this` and `not this` examples
   - [ ] Require including `(opens in new tab)` within the link text in the rare scenario a link must open in a new tab or window based on G200 exceptions
   - [ ] When including `(opens in new tab)` is too redundant or causes usability issues, provide alternative content or design fixes (as opposed to attempting to solve the local link itself in isolation)-- this will likely require more conversation and a specialist (which can be requested through CAIA)
-- [ ] [Include checking and/or annotating link behavior in foundational testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-Foundationalaccessibilitytests(required)foundational-testing)
+- [ ] [Submit a platform issue ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=vbellissimo%2C+ssimmorins%2C+amygoldman&labels=documentation-support%2C+pw-footer-feedback&template=platform-website-footer-feedback.md&title=) to [update foundation testing to include checking and/or annotating link behavior](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-Foundationalaccessibilitytests(required)foundational-testing)
 
 #### A strategy is needed to identify and mitigate remaining issues in production
 While we are fairly confident we can catch and remediate this issue through the collaboration cycle, we don't have an existing strategy or method to do the following at scale:
