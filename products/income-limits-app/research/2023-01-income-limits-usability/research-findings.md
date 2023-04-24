@@ -195,7 +195,7 @@ We have data from only 6 of 8 participants because the other 2 participants didn
 - 4 of 6 participants thought that the **benefits were not certain because of the phrase "may be eligible"** above each of the lists of benefits. None of these participants had opened the _How to estimate your income for this tool_ accordion, so they were guessing based on the content on the page. 
 
 - **After seeing the app results, here's what participants planned to do next** (some participants said multiple things):
-  - Click on _Find out if you may be eligible_ link (4 participants), though this didn't work in the prototype
+  - Click on _Find out if you may be eligible for VA health care_ link in the _$90,090 or more_ accordion (4 participants), though this didn't work in the prototype. It was intended to link to the [current Eligibility page](https://www.va.gov/health-care/eligibility/).  
   - Apply for VA health care (2 participants) = what we wanted people to do
   - Call or visit a nearby VA facility (2)
   - Do more research to find specific coverages (e.g., copay amounts), though if income is over $90,000, wouldn't do too much more research (1)
