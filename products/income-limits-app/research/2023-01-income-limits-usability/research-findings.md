@@ -278,7 +278,7 @@ Before showing participants the design prototype for the income limits app, we a
 
 ## Next Steps
 
-- Discuss findings and recommendations with the Sitewide Public Websites team and other stakeholders who were invited to observe sessions.
+- Discuss findings and recommendations with the Sitewide Public Websites team and stakeholders who were invited to observe sessions.
 - Share content recommendations with Danielle Thierry.
 
 ## Further research needed
