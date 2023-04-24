@@ -31,6 +31,13 @@
 
 
 ## Notes
+4/25/23
+Discussion Items 
+* Sprint Status 
+  * Staffing constaints felt during most of the Sprint due to Spring Break and others 
+  * Secure Messaging content updates (10 points) expected to rollover into the next sprint along with some bug tickets 
+
+
 4/18/23
 * Resource constraints on FE team have caused concerns for both DDL and WCAG features being wrapped up this Sprint
   * Should be more cognizant of capacities in Sprint Planning
