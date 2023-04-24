@@ -68,6 +68,17 @@ Point out the gaps too
 ### A finding that may not be relevant to the study, but worth talking about
 Add images and stuff to back itup
 
+## List of caught defects and issues
+
+### Relevant to this team
+- [ ] Description of issue and how to replicate
+
+### Belongs to other teams
+- [ ] Description of issue and how to replicate
+
+### Design system
+- [ ] Description of issue and how to replicate
+
 ## References
 <a id="1">[1]</a> 
 Citations if needed 
