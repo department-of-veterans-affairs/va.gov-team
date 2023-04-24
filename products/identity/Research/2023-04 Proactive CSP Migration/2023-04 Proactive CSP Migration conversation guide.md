@@ -86,34 +86,33 @@ I'd like to start with a few questions to get to know how you go online…
 - Can you tell me about how you normally go online?
    - [PROMPT] Do you regularly use a mobile phone to go online?
    - [PROMPT] Do you regularly use a tablet to go online?
+   - [IF APPLICABLE] Do you happen to know the brand or model of your phone [and/or tablet]
 - Between a phone, tablet, or computer, which would you say you use the most to go online?
    - Could you tell me about why you tend to use [THAT DEVICE] the most?
-- Have you accessed a bank account on your phone in the past?
-   - [IF YES] Do you have a preference for accessing an account like that, either on your phone or on a computer?
+- How often would you say you access a bank account from your phone?
+   - [IF ANY] When accessing a bank account, do you have a prefence of doing that either from a phone or on a computer?
 - Can you tell me about a time when you created a new account for a site from your phone?
    - [PROMPT] Did you find any issues or difficulties when doing that?
    - [IF NEVER] Is that something you would consider doing from a phone?
       - Could you tell me more about that?
-- For an account you already have, let’s say that you need to update the phone number or password for that. Is that something you've done from a phone?
+- For an account you already have, let’s say that you need to update the phone number or password for that. Can you tell me about a time that you've done that from your phone?
    - [PROMPT] That could be either on the VA or another website
-   - [IF YES] Could you walk me through an experience you’ve had with doing that from your phone?
-   - [IF NO] Could you tell me a little more about why you don't use a phone for that?
+   - [IF DOESN'T] Could you tell me a little more about why you don't use a phone for that?
 
 
 ## Round 2: Account terms questions | 10 minutes
 
 I’d like to take some time to think about a few words or phrases that the VA or a bank website might use when talking about online accounts. I want to remind you that this isn’t a test of you or your vocabulary. Instead we are interested in understanding what you and other veterans call things so we can make instructions more clear and understandable.
 
-- Do you access any banking online, either from a phone or computer [or tablet IF MENTIONED PREVIOUSLY]?
-- I'm going to set up a scenario here. Let's say that you need to access your [bank OR the VA] online. Before they will show your information, they have you type in your username and password. What might you call that process?
+- I'm going to set up a scenario here. Let's say that you need to access your bank online [IF THEY PREVIOUSLY MENTIONED ONLINE BANKING, otherwise use “the VA”]. Before they will show your information, they have you type in your username, which is often your email address, and password. What might you call that process?
 - Let's now think about an account that requires you to put in your username and password, but then after that they text you a 6-digit number that they need back from you.
    - Can you tell me about an experience you've had with that?
    - Do you have a word or phrase you might call that?
    - Do you consider the 6 digit number to be part of signing in? Or is it different?
       - Can you tell me a bit more about your thoughts on this?
-- Now let's think about the process of creating an account. A site like a bank or health care organization that has important personal information about you might ask you to prove who you are. For example, they might have you answer questions about your credit history, or where you’ve lived in the past. Some sites might ask you to send a picture of your ID. Can you tell me about a time that you've done this while creating an account?
+- Now let's think about the process of creating an account. A site like a bank or health care organization that has important and private personal information about you might ask you to prove who you are. For example, they might have you answer questions about your credit history, or where you’ve lived in the past. Some sites might ask you to send a picture of your ID. Can you tell me about a time that you've done this while creating an account?
    - Do you have a word or phrase you might call this process?
-- Imagine that a bank [IF THEY PREVIOUSLY MENTIONED ONLINE BANKING, otherwise use “the VA”] wanted people to set up a new way to sign in that would be more secure than how they currently sign in.
+- Imagine that a bank [OR the VA] wanted people to set up a new way to sign in that would be more secure than how they currently sign in.
    - If you were working for the [BANK or VA] and trying to tell someone about this new type of sign in, how might you describe it?
    - [PROMPT] Would you think of this as an upgraded account?
 - Let’s switch it up a little. I’d like for you to think about two specific words. “Authenticate” and “verify”. What similarities or differences do you think about with these two words?
