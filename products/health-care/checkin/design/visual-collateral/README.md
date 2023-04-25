@@ -5,13 +5,14 @@
 Latest Release (PDF)
 - Release Notes
   - 4/25/2023 - Removed QR Code and related first footer content (The content is updated to "After you check in, we'll come get you"). <br><br>
-- 8.5" X 11" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8542776/8.5x11-v1.1.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8995377/8.5x11-v1.1.Philippines.pdf)
+    - 8.5" X 11" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11326859/8.5x11-lowvision-noqrcode-fin.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11326863/8.5x11-lowvision-noqrcode-philippines-fin.pdf)
 
 
-- 11" x 17" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8542774/11x17-v1.1.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8995380/11x17-v1.1.Philippines.pdf)
+
+    - 11" x 17" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8542774/11x17-v1.1.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8995380/11x17-v1.1.Philippines.pdf)
 
 
-- 24" x 36" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8474826/24x36-lv-v1.5.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8995382/24x36-lowvision-v1.5.Philippines.pdf) <br><br>
+    - 24" x 36" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8474826/24x36-lv-v1.5.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8995382/24x36-lowvision-v1.5.Philippines.pdf) <br><br>
 
  
  
