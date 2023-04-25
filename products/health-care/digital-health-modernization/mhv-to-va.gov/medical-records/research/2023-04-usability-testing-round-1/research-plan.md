@@ -26,8 +26,8 @@ This research fits into these points of a Veteran's Journey:
 ## **Research Goals**
 
 1. Understand if Veterans can locate their medical records.
-2. Identify any usability issues Veterans may experience with accessing their medical records.
-3. Identify what information is helpful to Veterans in finding their medical records.
+2. Identify any usability issues Veterans may experience with accessing different parts of their medical records.
+3. Identify what information is helpful to Veterans in finding different parts of their medical records.
 4. Evaluate the usability of the print and download functions.
 
 ## **Outcome**
@@ -104,7 +104,7 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18 us
     - (1) Asian
     - (4) Black or African American
     - (3) Hispanic, Latino, or Spanish origin
-    - (16) White or Caucasian
+    - (15) White or Caucasian
 
 **Screening questions for recruitment**
 
@@ -118,9 +118,7 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18 us
 
      d) more than 10 times
 
-2. Are you comfortable allowing observers into the session? _Must be "yes" for all participants._
-3. Are you comfortable having your camera on during the session? _Must be "yes" for desktop/laptop users._
-4. What type of device will you be using to connect to Zoom?
+3. What type of device will you be using to connect to Zoom?
 
 - Desktop/Laptop?
 - Smartphone: Android or iPhone?
@@ -128,7 +126,7 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18 us
 
 _Please provide response on roster._
 
-5. Have you shared your screen on Zoom using this device before?
+4. Have you shared your screen on Zoom using this device before?
 
 _Please provide response on roster._
 
