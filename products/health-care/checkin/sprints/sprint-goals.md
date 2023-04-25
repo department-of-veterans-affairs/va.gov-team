@@ -30,16 +30,16 @@ ________________________________________________________________________________
             - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Product] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56614)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Recheck GA Events due to text solution change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53966) 
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Wilkes-Barre Planning [PLACEHOLDER]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51110)
-            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Schedule & hold Staging Review
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Schedule Staging Review
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
-        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[SPIKE] [BE] How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[SPIKE] [BE] How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
     - **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**   
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Get feedback from Bay Pines
     - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Monitor GA & make decision on releasing    
     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Execute Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56700)
+        - TBD
    - **Sub Goal: [PCI: Support Other Appointment Modalities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56550)**
        - ?????
    - **Sub Goal: Analyze current metrics to see what they tell us**
@@ -48,7 +48,9 @@ ________________________________________________________________________________
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Add Facility Address to Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54865)**  
         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [BE] Update API Documentation/Spcs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51694)
+            - Should we just add this to our tech debt????
 - **GOAL: Address tech & design debt**
+   - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] Evaluate transition back to sketch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57125)
    - ![#7c2ac9](https://placehold.co/15x15/7c2ac9/7c2ac9.png) [Platform Orientation Template [Anita Halici]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57050)
 
 --------------------- END FUTURE / TENTATIVE ------------------------
