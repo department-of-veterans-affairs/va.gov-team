@@ -84,6 +84,7 @@ OKRs and KPIs TBD.
 - Usability Research: [findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md)
 
 **Design high-fidelity mock-ups - February/March 2023**
+- Liz's designs need to go through a "Design Intent Review since usability testing on these designs were completed previously: [Design Files]
 
 **Frontend Development - Februrary/March/April 2023**
 - Add feature flag for new mobile editing page
