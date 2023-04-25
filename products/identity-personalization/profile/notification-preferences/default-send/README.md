@@ -95,7 +95,7 @@ Liz
 
 ### Design artifacts
 
-- Add link to use cases
+- Completed research from usability testing on the designs: [findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md)
 - Sketch files: [desktop](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c_), [mobile](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/p/B5792AF8-87F2-496D-AE7A-DAD1448A6018/canvas)
 
 
