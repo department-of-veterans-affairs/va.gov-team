@@ -141,7 +141,7 @@ Let’s think more specifically about accessing the VA online
       - [IF YES] When you go to the VA online while on your mobile phone, would you say you tend to use the VA app more or the web version more?
    - I’m interested in why you [DO or DON’T] go to different places for the VA online.
    - Is there a word or phrase that you might use to call all these different VA places online?
-      - [NOTE: DON’T say “VA digital tools” here, save further discussion about this in Round 4]
+      - [NOTE: DON’T say “VA digital tools” or "VA online tools" here, save further discussion about this in Round 4]
 - When was the last time you remember signing into your [VA account online], either with a phone, tablet, or computer?
    - And are you comfortable telling me why you signed in that day? Like what were you trying to do then?
    - Do you remember what webpage or web address you used at that time?
@@ -191,8 +191,8 @@ Ok give me a few moments to get set up.
    - ...let's pretend that you're putting in your username and password for [DSLogin OR MHV]. 
    - [ADVANCE to modal]
 - So now you're signed in. Can you start to describe for me what you see or what you might do here?
-   - [STOP SCREEN SHARE or otherwise hide the modal while they answer]
-   - [NOTE if cognative disability/decline or participant seems more slow and methodical, leave up a few more seconds]
+   - [STOP SCREEN SHARE AFTER 15-20 seconds, usually about when they start to answer the above question]
+   - [NOTE if cognative disability/decline or participant seems more slow and methodical, leave up for 5 or more additional seconds]
    - How did the page you saw compare to what you expected?
    - If you saw that pop up while you were actually signing in, what would you do next?
       - [PROMPT: maybe close it right away? Or read through it?]
@@ -219,7 +219,7 @@ Ok give me a few moments to get set up.
 - Do any questions come to your mind now that you’ve looked through it a little more?
 - There are a few terms on this page that I'd like to think more about
    - What does the word "upgrade" at the top make you think about?
-   - The first paragraph uses the phrase "VA digital tools," what is your understanding of what that might mean?
+   - The first paragraph uses the phrase "other VA online tools," what is your understanding of what that might mean?
    - Where it says "here's what you'll need" - walk me through your thoughts about this part
      - [PROMPT] What do you think about with State ID?
   - At the bottom, where it says "no thanks remind me later" what would you expect that to do?
