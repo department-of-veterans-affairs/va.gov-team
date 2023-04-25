@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/14154792/234052795-e567569b-7cc5-48bd-
   - Note how in this simulation, it's not immediately clear that there are elements to the right side of the page e.g. MyVA
   - Further research may uncover if this is a repeat issue (or an outlier), and better inform actionable next steps for the future
 
-This simulation does not address the following anecdote, which was stated in reference to pop up behavior on other websites.
+This simulation does not address the following anecdote, which was stated in reference to pop up behavior on all websites.
 
 > Those [modals], for him, are really distracting, because he has the screen enlarged and if an ad pops up, the screen will moves over to the ad. The screen is constantly changing for him. - P1’s caregiver
 
