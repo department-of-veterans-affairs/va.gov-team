@@ -33,9 +33,9 @@
 ## Notes
 4/25/23
 Discussion Items 
-
-
-
+* Experience and worked through resource constraints in Sprint 69 
+  * Positive team work to overcome this challenge 
+-----------------
 4/18/23
 * Resource constraints on FE team have caused concerns for both DDL and WCAG features being wrapped up this Sprint
   * Should be more cognizant of capacities in Sprint Planning
