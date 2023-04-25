@@ -157,7 +157,7 @@ Crew chief: Dave Conlon
 
 Notes: 
 - PoC: This is not quantitative, but if need to measure, do survey with concept test and assess preference at end. Would need large sample size. Show concept versus MHV+VA.gov now.
-- Findabililty: Test and prove this. If have empirical evidence to say X% of people go to MHV on VA.gov nav for health things. What to compare this to? Maybe compare something like appointments on each site. 
+- Findability: Test and prove this. If we have empirical evidence to say X% of people go to MHV on VA.gov nav for health things. What to compare this to? Maybe compare something like appointments on each site. 
 
 ## Risks
 
