@@ -96,6 +96,6 @@ Liz
 ### Design artifacts
 
 - Add link to use cases
-- Sketch files: [desktop](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c_, [mobile](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/p/B5792AF8-87F2-496D-AE7A-DAD1448A6018/canvas)
+- Sketch files: [desktop](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c_), [mobile](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/p/B5792AF8-87F2-496D-AE7A-DAD1448A6018/canvas)
 
 
