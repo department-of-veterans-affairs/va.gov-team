@@ -6,6 +6,49 @@ ________________________________________________________________________________
 
 ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) Indicates ticket is done
 
+## 5/3/2023 - 5/16/2023 ---------------- FUTURE / TENTATIVE ---------------
+#### SPRINT GOALS
+- **GOAL: Assume Control of CHIP & LoROTA APIs**
+- **GOAL: Make submission of a travel reimbursement claim easier**
+- **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
+- **GOAL: Increase usage of Pre-Check-in & Check-in**
+- **GOAL: Address tech & design debt** 
+
+#### PLANNED RELEASES 
+- None
+
+#### SPRINT TICKETS
+- **GOAL: Assume Control of CHIP & LoROTA APIs**
+    - ???
+- **GOAL: Make submission of a travel reimbursement claim easier**
+   - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
+       - **[Implement Text Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55874)**
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [BE] vets-api: Update configs to store template info](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55879)
+        - Prepare for research study
+            -  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56613)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56556)
+            - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Product] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56614)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Recheck GA Events due to text solution change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53966) 
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Wilkes-Barre Planning [PLACEHOLDER]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51110)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Schedule & hold Staging Review
+- **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
+   - **Sub Goal: [Add Facility Address to Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54865)**  
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [BE] Update API Documentation/Spcs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51694)
+- **GOAL: Increase usage of Pre-Check-in & Check-in**
+    - **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**   
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Get feedback from Bay Pines
+- **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
+      - Research 
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Execute Remote Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56700)
+   - **Sub Goal: [PCI: Support Other Appointment Modalities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56550)**
+       - ?????
+   - **Sub Goal: Analyze current metrics to see what they tell us**
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57336)
+- **GOAL: Address tech & design debt**
+   - ![#7c2ac9](https://placehold.co/15x15/7c2ac9/7c2ac9.png) [Platform Orientation Template [Anita Halici]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57050)
+
+--------------------- END FUTURE / TENTATIVE ------------------------
 
 ## 4/19/2023 - 5/2/2023 
 #### SPRINT GOALS
