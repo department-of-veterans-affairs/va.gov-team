@@ -30,7 +30,7 @@ body:
     required: true
 - type: input
   id: date
-  attribute:
+  attributes:
     label: When do you need this support by?
     description: This helps us prioritize requests as they come in 
   validations:
