@@ -29,15 +29,29 @@ These are the specific things we wanted to gain insights on through this work:
 	* Supported by [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/research-review-findings.md#what-are-the-known-challenges-do-people-have-navigating-the-logged-in-experience-eg-reliance-on-homepagemy-va-links) and in our [user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#participants-perceived-authenticated-parts-of-vagov-as-being-personalized-to-them-and-unauthenticated-parts-of-the-website-as-general-information-for-anyone-visiting-the-site)
 * People called out redundancies and complexities in navigation options when logged in ( [user interview finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#5-of-9-participants-talked-about-redundancies-and-complexities-while-navigating-the-va-website-after-logging-in) )
 
-
-	
 ### What are people’s expectations are for navigating to tools and tasks when they are logged in to VA.gov?
+Based on our [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/research-review-findings.md#what-are-other-known-insights-around-navigating-the-site-overall) and  [user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#participants-perceived-authenticated-parts-of-vagov-as-being-personalized-to-them-and-unauthenticated-parts-of-the-website-as-general-information-for-anyone-visiting-the-site), we know people expect:
+- personalized links and content to be surfaced throughout the VA website if they are logged in
+- to be able to be able to navigate to content about benefits and eligibility (broader, generic information) even when they’re logged in
+
+We also know that people find it helpful and have an increased sense of personalization when they have access to all their tasks in one place, especially immediately after logging in.
+	- This is supported by [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/research-review-findings.md#what-are-other-known-insights-around-navigating-the-logged-in-experiencetasks-you-have-to-log-into-to-do) and our [user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#my-va-contributed-to-a-sense-of-ease-and-personalization-for-participants-who-used-it-during-their-session)	
+	- My VA ranks within the top 10 pages for logged-in sessions, even without the redirect parameter appended to the URL ([analytics report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/analytics-review-findings.md#what-are-the-25-most-popular-pages-visited-while-signed-in))
 
 ### Is there a difference between what people do logged-in vs logged out?
 
+The qualitative research included in this effort didn’t specifically ask users about a logged out state. Based on analytics, we can infer when people are logged out, they’re in learning or research mode. The facility locator, content pages about the PACT Act and COVID-19, and search are in the top pages.  When logged-in they’re focused on completing personalized tasks, though still expect to be able to research more generic information ([user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#participants-perceived-authenticated-parts-of-vagov-as-being-personalized-to-them-and-unauthenticated-parts-of-the-website-as-general-information-for-anyone-visiting-the-site)).
+- [25 popular pages when signed in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/analytics-review-findings.md#what-are-the-25-most-popular-pages-visited-while-signed-in)
+- [25 popular pages when signed out](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/analytics-review-findings.md#what-are-the-25-most-popular-pages-visited-while-signed-out)
+
 ### How can we apply what we’ve learned to logged-out flows?
+- Identify opportunities to surface personalized links or information in the benefit hubs
 
 ## Problems we’ve identified with the logged-in experience
+### It’s hard to find personalized content when it’s buried in the benefit hub
+
+### My VA, and possibly profile, are missing some personalized content people expect to find there
+
 ### Logging-in to different websites to complete personalized tasks is challenging and frustrating.
 
 ### Having 4 options to sign in with is confusing for people.
@@ -47,4 +61,5 @@ These are the specific things we wanted to gain insights on through this work:
 ## Recommendations
 
 ## Outstanding questions
-What is the balance between the my va and my health?
+- What is the balance between the my va and my health?
+- 
