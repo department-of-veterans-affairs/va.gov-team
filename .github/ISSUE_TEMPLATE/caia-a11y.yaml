@@ -60,7 +60,7 @@ body:
   validations:
     required: true
 - type: textarea
-  id: artifacts
+  id: team
   attributes:
     label: Tell us about your team
     description: This will help us reach out to you if needed
