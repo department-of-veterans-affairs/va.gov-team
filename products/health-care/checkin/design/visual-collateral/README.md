@@ -21,14 +21,14 @@ Previous Release/Version (PDF)
   - 6/27/2022 - Updated file name and QR codes for Philippines only posters
   - 6/02/2022 - Added Philippines only posters
   - 4/12/2022 - Updated background colors 
-  - 8.5" X 11" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8542776/8.5x11-v1.1.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8995377/8.5x11-v1.1.Philippines.pdf)
-  - 11" x 17" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8542774/11x17-v1.1.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8995380/11x17-v1.1.Philippines.pdf)
-  - 24" x 36" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8474826/24x36-lv-v1.5.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8995382/24x36-lowvision-v1.5.Philippines.pdf) <br><br>
+    - 8.5" X 11" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8542776/8.5x11-v1.1.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8995377/8.5x11-v1.1.Philippines.pdf)
+    - 11" x 17" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8542774/11x17-v1.1.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8995380/11x17-v1.1.Philippines.pdf)
+    - 24" x 36" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8474826/24x36-lv-v1.5.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8995382/24x36-lowvision-v1.5.Philippines.pdf) <br><br>
 
   - 10/20/2021 - As of 4/19/2022, still in facilities that haven't replaced their posters with lastest release<br><br>
-  - [8.5" x 11"](https://github.com/department-of-veterans-affairs/va.gov-team/files/7899242/8.5x11-v1.pdf)
-  - [11" x 17"](https://github.com/department-of-veterans-affairs/va.gov-team/files/8834448/11x17-v1.1.pdf)
-  - [24" x 36"](https://github.com/department-of-veterans-affairs/va.gov-team/files/8834453/24x36-lv-v1.5.pdf)
+    - [8.5" x 11"](https://github.com/department-of-veterans-affairs/va.gov-team/files/7899242/8.5x11-v1.pdf)
+    - [11" x 17"](https://github.com/department-of-veterans-affairs/va.gov-team/files/8834448/11x17-v1.1.pdf)
+    - [24" x 36"](https://github.com/department-of-veterans-affairs/va.gov-team/files/8834453/24x36-lv-v1.5.pdf)
 
 
 ### Sketch file
