@@ -150,7 +150,7 @@ b. **_Get past income limits_** link--Two participants had difficulty finding th
 - RECOMMENDATION: If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page, or possibly add a year selector to the app flow right before asking any questions.
  
 c. After one participant used the **_Review Info_ page** to return to the zip code page and **then clicked the _Continue_ button**, they said they were surprised to see the _Dependents_ page. They expected to see the _Review Info_ page again. Other participants saw this, too, and said that they must be going back through all the screens.
-- RECOMMENDATION: If someone navigates from the _Review Info_ page to another page, consider having the _Continue_ button take you back to the _Review Info_ page instead of to the next question (which was intended as the design but wasn't implemented in the click-through prototype).
+- RECOMMENDATION: If someone navigates from the _Review Info_ page to another page, the _Continue_ button should take you back to the _Review Info_ page instead of to the next question (which was intended as the design but wasn't implemented in the click-through prototype).
 
 ### 3. Participants had some confusion with terminology used in the questions, including the word "dependents"
 3 of 8 participants didn't know what **"Aid and Attendance benefits"** were but assumed that they didn't have it.
@@ -259,7 +259,7 @@ Before showing participants the design prototype for the income limits app, we a
 ### For the app design and functionality
 1. Make the text "To find out if you're eligible, apply now" more visually prominent on the results page because as it is now, participants ignored it. 
 1. Make the *Review the information you entered* link more prominent in location and/or visual treatment/layout (e.g., top of page or maybe look like a button like the _Continue_ button). Maybe explore how other VA.gov pages enable you to navigate to view/edit previous information.
-2. If someone navigates from the _Review Info_ page to another page, consider having the _Continue_ button take you back to the _Review Info_ page instead of to the next question (which was intended as the design but wasn't implemented in the click-through prototype).
+2. If someone navigates from the _Review Info_ page to another page, the _Continue_ button should take you back to the _Review Info_ page instead of to the next question (which was intended as the design but wasn't implemented in the click-through prototype).
 6. If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page, or possibly add a year selector to the app flow right before asking any questions.
 7. Make the _Apply for VA health care_ link more visually prominent on the results page because as it is now, many participants ignored it. Also consider the wording "To find out if you're eligible, apply now for VA health care" in order to increase relevance for higher-income Veterans who are unsure about whether they qualify (included as content recommendation #9 below).
 
