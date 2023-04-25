@@ -39,7 +39,7 @@ Discussion Items
 * Pulling in Check-In Discover into Sprint 70 
   * This work was not planned for Sprint 70 so pulling it in means we need to remove work to compensate for the infusion of capacity to perform this work 
   * Likely need to pull out Secure Messaging Alignment work and Claims Step 2 
-  * Is this related to Patrick Bateman's thread about work and timelines in the check-in experience Slack (https://dsva.slack.com/archives/C022AC2STBM/p1682438155059689)
+
 -----------------
 4/18/23
 * Resource constraints on FE team have caused concerns for both DDL and WCAG features being wrapped up this Sprint
