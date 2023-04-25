@@ -18,12 +18,12 @@
   
 - Upon calling the provided number, these users experience long hold times and become frustrated. 
 
-a way to repro this in the dev environment is as such:
-sign in to dev.va.gov as id.me user vets.gov.user+226@gmail.com
-browse to https://dev.va.gov/disability/file-disability-claim-form-21-526ez/introduction
-if it puts you back to "[...]/start", click on "If you know VA Form 21-526EZ is right, apply now"
-the aforementioned error shows up
-a user that this does not show up for is vets.gov.user+228@gmail.com
+       > a way to repro this in the dev environment is as such:
+        sign in to dev.va.gov as id.me user vets.gov.user+226@gmail.com
+        browse to https://dev.va.gov/disability/file-disability-claim-form-21-526ez/introduction
+        if it puts you back to "[...]/start", click on "If you know VA Form 21-526EZ is right, apply now"
+        the aforementioned error shows up
+        a user that this does not show up for is vets.gov.user+228@gmail.com
 
 ## Recommendations
 
@@ -39,7 +39,7 @@ a user that this does not show up for is vets.gov.user+228@gmail.com
    - Another possible solution is including content on the form landing page(s) that set expectations around errors 
    - Or linking to [the VA page that details how vets can change their profile/account information themselves](https://www.va.gov/resources/managing-your-vagov-profile/) for smaller errors - address, service, discharge dates etc. info that is prefilled into the form
    - Discovery with profile team/Robin about this issue 
-        - See page on profile updates here 
+       
 
 ## Other findings 
 - Veterans have trouble updating account information (address, service, discharge dates etc.) in general, this account information is pulled into the form and not usually entered into the form manually and can also cause error messages to pop up
@@ -67,5 +67,7 @@ a user that this does not show up for is vets.gov.user+228@gmail.com
 
 > "Submit a claim for disability from burn pit registry. Was denied claim in 2013. Don’t have supporting docs that were used in 2013"
 
+       
+       
 
 
