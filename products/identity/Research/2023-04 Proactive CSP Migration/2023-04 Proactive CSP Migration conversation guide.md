@@ -4,7 +4,7 @@
 
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
 - Complete any project-specific setup tasks for this study (List them below)
-   - Set up note-taking in Mural
+   - Set up note-taking [in Mural](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1681396854554/ff9d23f8eef22907cccb8d45cf46f81f5686684d?sender=u6c46f747a0483ea836054483)
    - Check that [the prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979) is working
 
 
@@ -16,10 +16,9 @@
 > How to observe or take notes for this session:
 > - Wait in the Zoom waiting room until the participant agrees you may join
 > - Enter with your mic MUTED and video ON - be prepared to give a quick introduction like “Hi my name is Clayton, I’m a researcher for VA.gov”
-> - Please capture your notes or observations in this Mural board.
+> - Please capture your notes and observations in [this Mural board](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1681396854554/ff9d23f8eef22907cccb8d45cf46f81f5686684d?sender=u6c46f747a0483ea836054483)
 > - Do not use Zoom chat - post questions for the participant, concerns or questions for the moderator here in Slack, but don’t expect me to see them right away.
 > - Please review [these guidelines](https://depo-platform-documentation.scrollhelp.site/research-design/observer-guidelines) if you haven't recently.
-> - Please use this [note taking document](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1681396854554/ff9d23f8eef22907cccb8d45cf46f81f5686684d?sender=u6c46f747a0483ea836054483)
 
 ### 5-10 min before session:
 
