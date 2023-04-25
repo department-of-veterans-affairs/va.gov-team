@@ -26,8 +26,18 @@ body:
       - Research support
       - Foundational testing tutorial
       - Hands on office hours
+      - Something else
   validations:
     required: true
+- type: textarea
+  id: something-else
+  attributes:
+    label: If something else, what do you need support with?
+    value: |
+      ...
+    render: bash
+  validations:
+    required: false  
 - type: input
   id: date
   attributes:
