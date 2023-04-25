@@ -17,6 +17,10 @@ Our goal is to establish a process to collect a11y feedback from the public. In 
 #### 1. Increase the accessibility, reliability, and security of Veteran's digital services
 Establishing an effective (and accessible) process to collect accessibility feedback from the public would create a more connected line of communication between our Veterans, caregivers, and family members and VFS teams. VFS teams would be able to prioritize accessibility work beyond the bounds of launch and maintenance through more reactive, public responsive efforts. 
 
+In the same way teams use and rely on feedback through VSignal surveys, we vision similar outcomes through:
+- Improving the accessibility and usability of existing feedback channels (All of the methods of providing feedback to VA.gov that we audited have confirmed major accessibility issues which may prevent disabled people from submitting accessibility feedback.)
+- Envisioning new feedback methods centered and designed around the _disabled_ Veteran experience
+
 #### 2. Reduce the time it takes for Veterans to find, use, and receive Veteran services
 Disabled Veterans using assitive technologies may not be able to use Section 508 compliant products if they are not easy to use. We hypothesize due to the historical absence of usability testing with disabled Veterans using assistive technologies, a significant percentage of them may not be able to access their benefits without a steep time cost due to:
 - having to rely on accommodations or VSOs to complete their applications
