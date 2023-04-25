@@ -138,7 +138,7 @@ _Please provide response on roster._
 
 **Research sessions**
 
-- Planned dates of research: May 9 - May 16, 2023
+- Planned dates of research: May 8 - June 1, 2023
 
 **Length of sessions**
 
@@ -148,7 +148,16 @@ _Please provide response on roster._
 
 ## **Availability**
 
-
+Team Availability | Time Slots (ET)
+------------------|--------------
+May 8, 2023       | 5:30 - 8:00 pm
+May 9, 2023       | 8:00 am - 9:00 am; 10:00 - 11:00 am; 1:00 - 8:00 pm
+May 11, 2023      | 8:00 am - 9:00 am; 10:00 - 12:30 pm; 1:00 - 8:00 pm
+May 15, 2023      | 10:00 - 11:00 am; 11:30 - 4:00 pm
+May 16, 2023      | 8:00 am - 9:00 am; 10:00 - 11:00 am; 1:00 - 8:00 pm
+May 18, 2023      | 8:00 am - 9:00 am; 10:00 - 12:30 pm; 1:00 - 8:00 pm
+May 30, 2023      | 8:00 am - 9:00 am; 10:00 - 11:00 am; 1:00 - 4:00 pm
+Jun 1, 2023       | 8:00 am - 9:00 am; 10:00 - 12:30 pm; 1:00 - 8:00 pm
 
 ## **Team Roles**
 
