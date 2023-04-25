@@ -68,6 +68,8 @@ We
 
 OKRs and KPIs TBD.
 
+- We are not currently measuring any OKRs or KPIs for notification settings. For previous OKRs/KPIs: [Notification settings MVP project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/product/mvp-project-outline.md#measuring-success)
+
 ## Solution approach
 
 **Discovery - when?? 2022**
