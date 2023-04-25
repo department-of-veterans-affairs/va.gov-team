@@ -4,6 +4,7 @@
 
 Latest Release (PDF)
 - Release Notes
+  - 4/25/2023 - Removed QR Code and related first footer content. The content is updated to "After you check in, we'll come get you".  
   - 6/27/2022 - Updated file name and QR codes for Philippines only posters
   - 6/02/2022 - Added Philippines only posters
   - 4/12/2022 - Updated background colors<br><br>
