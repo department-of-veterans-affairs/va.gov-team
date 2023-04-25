@@ -5,6 +5,30 @@ Our goal is to establish a process to collect a11y feedback from the public. In 
 - determine whether disabled Veterans are providing feedback through existing feedback mechanisms (and if not, why not?), and
 - start to gain preliminary insight or determine next steps on how to gain insights into disabled Veteran's behaviors, feelings, perspectives, and expectations on providing a11y feedback
 
+## OCTO Objectives
+
+### This research will directly support all of the OCTO north stars:
+
+- Increase the usage and throughput of VA services
+- Increase the quality and reliability of VA services
+
+### As well as the following 2023 objectives:
+
+#### 1. Increase the accessibility, reliability, and security of Veteran's digital services
+Establishing an effective (and accessible) process to collect accessibility feedback from the public would create a more connected line of communication between our Veterans, caregivers, and family members and VFS teams. VFS teams would be able to prioritize accessibility work beyond the bounds of launch and maintenance through more reactive, public responsive efforts. 
+
+#### 2. Reduce the time it takes for Veterans to find, use, and receive Veteran services
+Disabled Veterans using assitive technologies may not be able to use Section 508 compliant products if they are not easy to use. We hypothesize due to the historical absence of usability testing with disabled Veterans using assistive technologies, a significant percentage of them may not be able to access their benefits without a steep time cost due to:
+- having to rely on accommodations or VSOs to complete their applications
+- failing to log in to access their personal information and pre-filled form features
+- and more
+
+Establishing accessible and usable methods for disabled Veterans to provide accessibility feedback to the VA may help address or uncover key issues and ultimately, upon fixing them, significantly reduce the time it takes for disabled Veterans to find, use, and receive Veteran services.
+
+### This research also supports the [VA.gov a11y vision statement](https://depo-platform-documentation.scrollhelp.site/getting-started/modernized-va-gov-accessibility-strategy)
+
+> Every disabled Veteran and caregiver has guaranteed access to equitable, easy to use, self-service tools without needing to request accommodations.
+
 ## Focus areas
 - How accessible (and to a degree usable) are current feedback methods on VA.gov? 
 - Where do disabled Veterans currently provide or expect to be able to provide a11y feedback on VA.gov (if at all)?
