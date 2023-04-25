@@ -4,7 +4,7 @@ Liz Lantz, Authenticated Experience
 
 Additional updates and notes by Samara Strauss, Auth experience PO
 
-Last updated: March 7, 2023
+Last updated: April 25, 2023
 
 ## Background
 We’re aware of some high-level problems people have navigating the logged in experience on VA.gov — eg. if a link isn’t on the homepage or My VA, people tend to have trouble finding what they need. However, we’ve never conducted more holistic research that evaluates navigating the logged in experience. 
