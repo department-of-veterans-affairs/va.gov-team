@@ -228,11 +228,11 @@ Ok give me a few moments to get set up.
 - How do you feel about the information that's presented on this screen?
    - How do you feel about the option listed?
    - Have you heard of it?
-   - Does this make you to think aobut the way you sign in?
+   - Does this make you to think about the way you sign in?
    - What would you expect to happen if you go through with signing up for Login.gov?
       - [PROMPT] What is your understanding of what this change means for you
       - [PROMPT] Would you expect all the information you want to see online with VA remain the same?
-- If instead of showing one account option here, if instead we said something like “The VA has two account options that meet our security standards” and showed you both choices, what would you think?
+- If instead of showing one sign in option here, if instead we said something like “The VA has two options that meet our security standards” and showed you both choices, what would you think?
    - How would you choose which to go with?
 - Do you have any questions for me about this screen?
 - Do you have any questions about any of these questions or tasks that we’ve worked through today?
