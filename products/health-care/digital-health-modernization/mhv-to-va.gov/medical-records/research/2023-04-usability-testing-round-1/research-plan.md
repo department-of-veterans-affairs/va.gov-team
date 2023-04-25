@@ -66,8 +66,8 @@ Data collection will be remote. We will use Zoom.
 . **Research materials**
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2023-04-usability-testing-round-1/conversation-guide.md)
-- [Link to mobile prototype](url goes here)
-- [Link to desktop prototype](url goes here)
+- [Link to mobile prototype](https://www.sketch.com/s/f6118ebb-966d-4f83-afba-f9e987b65eac/prototype/a/A4F3BED9-A319-442F-9A8C-7105FB7E01AB)
+- [Link to desktop prototype](https://www.sketch.com/s/f6118ebb-966d-4f83-afba-f9e987b65eac/prototype/a/E9F3F0B1-5C09-4E1D-8659-4822D08164CE)
 
 ## **Recruitment**
 
