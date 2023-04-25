@@ -159,7 +159,7 @@ In the question *Did you get a VA pension from VBA last year?*, 1 participant di
 
 > *"I get embarrassed when I don’t know what things mean when they are asked. It also makes me start questioning if I should be receiving these other things, and it gets me off track. Makes me want to look into those things" (p7)*.
 
-- RECOMMENDATION: Delete the text "from VBA" in the pension question (or if this must be kept in, write out "Veterans Benefits Administration") because it's confusing as is.
+- RECOMMENDATION: Delete the text "from VBA" in the pension question because it's confusing. Also, this wording didn't get approved by Content and will be removed because it goes against current Content standards. Potential revision: "Did you get a VA Veterans pension?”
 - RECOMMENDATION: Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean and want to understand before answering the question.
 
 Participants had different interpretations for the **dependents** question. Some said they would enter what they put on their income taxes, and others remembered this information incorrectly or might have been thinking of the VA's definition of dependents, which includes your spouse.
@@ -265,20 +265,20 @@ Before showing participants the design prototype for the income limits app, we a
 
 ### For content in the app
 6. Clarify the meaning of "dependents" in this question per income taxes or VA rules, and add details to the question so people will know how to answer. According to a VA subject-matter expert (in an email dated 4/17/2023), dependents include *your spouse*, unmarried children under 18 (or 18-23 if attending school full-time or disabled prior to reaching age 18), and parents if in the Veteran's direct care and whose net worth and income are below a fixed limit.
-2. Delete the text "from VBA" in the pension question (or if this must be kept in, write out "Veterans Benefits Administration") because it's confusing as is.
-3. Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean and want to understand before answering the question.
+3. Delete the text "from VBA" in the pension question because it's confusing. Also, this wording didn't get approved by Content and will be removed because it goes against current Content standards. Potential revision: "Did you get a VA Veterans pension?”
+4. Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean and want to understand before answering the question.
 7. Consider rewording the _Apply for VA health care_ link on the results page to "To find out if you're eligible, apply now for VA health care" in order to increase relevance for higher-income Veterans who are unsure about whether they qualify.
-5. Be more explicit about household income and deductions on the results page, without using any accordions (since they weren't opened by most participants). For example, consider changing the first sentence from "We use your last year's income to determine..." to "We use your last year's _household_ income _minus deductions (such as out-of-pocket medical expenses, education costs, and funeral/burial expenses for a spouse or child)_ to determine..."
-6. Add more description to the benefits and/or provide links to details for "VA health care", "most types of care", "copays", and "full copays".
-7. Consider standardizing the bullets for each benefit so it's easier to compare them across income thresholds: 
+6. Be more explicit about household income and deductions on the results page, without using any accordions (since they weren't opened by most participants). For example, consider changing the first sentence from "We use your last year's income to determine..." to "We use your last year's _household_ income _minus deductions (such as out-of-pocket medical expenses, education costs, and funeral/burial expenses for a spouse or child)_ to determine..."
+7. Add more description to the benefits and/or provide links to details for "VA health care", "most types of care", "copays", and "full copays".
+8. Consider standardizing the bullets for each benefit so it's easier to compare them across income thresholds: 
      1. Outpatient and inpatient visits
      1. Prescriptions
      1. Travel pay (if applicable)
-8. On the intro page, lead with a clearer distinction between income limits and what factors make them relevant or not (e.g., "_Not everyone is affected by income limits._ You may be _automatically_ eligible for VA health care based on your VA disability rating, service history, or other factors. If you're not eligible based on these factors, you may still qualify if your income is within our limit.") More details may be needed, and this information should probably be in the app because the landing page is too long to understand, and Veterans may find this app via another path (i.e., google or sidebar link).
-9. Consider adding a qualifying question to the beginning of the income limits app to screen out people who have a service-connected disability rating of at least 50%. Given the long list of common and less-common reasons for income to not be a factor, should any of them be communicated within the app experience and/or added as a question?
-10. Add to the intro page how long to expect and what's needed so people know it's quick and easy (e.g., "Here’s what you’ll need to apply: your household income and number of dependents from the last year...", "It should take about 3 minutes.")
-11. Consider adding to the intro page some friendly encouragement/affirmation to use this tool to find out if you're eligible for VA health care.
-12. Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move one of the income limits app links closer to the top of page.
+9. On the intro page, lead with a clearer distinction between income limits and what factors make them relevant or not (e.g., "_Not everyone is affected by income limits._ You may be _automatically_ eligible for VA health care based on your VA disability rating, service history, or other factors. If you're not eligible based on these factors, you may still qualify if your income is within our limit.") More details may be needed, and this information should probably be in the app because the landing page is too long to understand, and Veterans may find this app via another path (i.e., google or sidebar link).
+10. Consider adding a qualifying question to the beginning of the income limits app to screen out people who have a service-connected disability rating of at least 50%. Given the long list of common and less-common reasons for income to not be a factor, should any of them be communicated within the app experience and/or added as a question?
+11. Add to the intro page how long to expect and what's needed so people know it's quick and easy (e.g., "Here’s what you’ll need to apply: your household income and number of dependents from the last year...", "It should take about 3 minutes.")
+12. Consider adding to the intro page some friendly encouragement/affirmation to use this tool to find out if you're eligible for VA health care.
+13. Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move one of the income limits app links closer to the top of page.
 
 ## Next Steps
 
