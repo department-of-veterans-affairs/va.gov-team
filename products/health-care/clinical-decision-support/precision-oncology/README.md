@@ -25,21 +25,21 @@ OCTO-DE/DEPO:
 - Peter Koutsovitis (Business Owner at CDS Apps Level)
 
 Project Management:
-- Adrian Carroll (Coforma)
+- Adrian Carroll
  
 Product Management:
-- Maurice Debeary (Coforma)
+- Maurice Debeary
 
 Design & Research:
-- Sierra Nelmes (Coforma)
-- Julie Kim (Coforma)
+- Sierra Nelmes (Research)
+- Julie Kim (Design)
 
 Engineering:
-- Autumn Summers (Coforma)
-- Vaibhav Paneri (Coforma)
-- Angela Hsu (Coforma)
-- Dale Durham (Coforma)
-- Pratap Singh (Coforma)
+- Autumn Summers (Tech Lead)
+- Vaibhav Paneri
+- Angela Hsu
+- Dale Durham
+- Pratap Singh (QA)
 
 ### What We're Working On
 
