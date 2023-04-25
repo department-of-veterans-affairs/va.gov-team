@@ -81,6 +81,7 @@ body:
       Designer:
       FE engineer:
       Product/team Slack channel:
+      Accessibility champion:
       ...
     render: bash
   validations:
