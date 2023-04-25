@@ -99,8 +99,10 @@ OKRs and KPIs TBD.
 Q2 goals:
 - Add default sent functionality
 - Start updating frontend UI to move from radio button design to checkbox design
+
 Q3 goals:
 - Launch frontend UI updates to move from radio button to checkbox design
+
 Q4 goals:
 - TBD (when Samara returns from maternity leave)
 
