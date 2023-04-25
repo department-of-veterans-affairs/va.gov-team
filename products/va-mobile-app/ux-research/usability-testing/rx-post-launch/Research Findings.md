@@ -34,6 +34,18 @@
 5. Participants did not use the interface to look up status definitions, even with the information icon present on the statuses.
 
 
+#### Collaborating data from app users
+From February 1 (the first full day of all user access to Rx refills) to March 31:
+1. Over 494K users who were authorized for pharmacy had sessions in the app.
+2. 11% (55k) of those users navigated to the PrescriptionDetails screen.
+3. 7% (34K) of those users navigated to to the Refill screen.
+
+Of users who navigated to the Refill screen: 
+1. 7.4% of those users clicked on the sort function, and 5% made a sort selection.
+2. 12.1% of users clicked the filter function, and 10.5% made a filter selection.
+
+<i>Note: current tracking does not include tracking which specific filter or sort criteria were used. It also does not capture clicks on the [Get prescription details] link or status definitions icons.</i>
+
 
 ### Details of Findings
 
