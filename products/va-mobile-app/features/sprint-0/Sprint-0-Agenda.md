@@ -51,7 +51,7 @@ The Sprint 0 meeting is a time to do the following:
 
 
 
-* [Sprint 0: Display Zoom on Android](https://docs.google.com/document/d/1zJ1efdJNzZx9KutF0i8yC0KnXk4rV8E2JrlR8Xwqar0/edit?usp=sharing)
+* 
 
 <table>
   <tr>
@@ -91,9 +91,8 @@ The Sprint 0 meeting is a time to do the following:
 
 ## 4/26/23
 
+* [Sprint 0: Display Zoom on Android](https://docs.google.com/document/d/1zJ1efdJNzZx9KutF0i8yC0KnXk4rV8E2JrlR8Xwqar0/edit?usp=sharing)
 
-
-* 
 
 ## 4/12/23
 
