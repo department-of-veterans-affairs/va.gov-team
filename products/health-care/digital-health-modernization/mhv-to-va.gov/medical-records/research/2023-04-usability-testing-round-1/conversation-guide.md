@@ -171,7 +171,7 @@ _[when details page is open]:_
 
 _Download:_
 
-- Can you walk me through what you would do if you wanted to save a copy of this report?
+- Can you walk me through what you would do if you wanted to save a copy of these complete blood count results?
 
 _[when participant returns to report screen]_
 
