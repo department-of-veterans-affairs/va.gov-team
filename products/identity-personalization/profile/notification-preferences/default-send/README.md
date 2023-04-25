@@ -1,1 +1,99 @@
-# Notifications Settings - Default Send Functionality
+# Project outline: Notifications Settings - Default Send Functionality
+
+**Updating in progress....: April 25, 2023**
+
+### Communications
+
+- **Github labels**: authenticated-exp
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
+
+### Roles
+
+#### OCTO team
+
+[This is managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
+
+#### Stakeholders & Partners
+
+|Name|Role|Email|
+|----|----|-----|
+|Beverly Nelson| OCTO lead for VANotify| beverly.nelson@va.gov |
+|Melanie Jones | VANotify PM | melanie.jones@oddball.io |
+
+### Table of Contents
+
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [User Outcomes](#user-outcomes)
+- [Business Outcomes](#business-outcomes)
+- [Measuring Success](#measuring-success)
+- [Solution Approach](#solution-approach)
+- [Backend](#backend)
+- [Frontend](#frontend)
+- [Design](#design)
+
+## Overview
+
+Whil
+
+### Problems we'll tackle
+
+We
+
+## Problem Statement
+
+- As a VA health care recipient, I want t
+
+## User outcomes
+
+### Desired User Outcomes
+
+- Users can
+
+### Undesired User Outcomes
+
+- Users are
+
+## Business outcomes
+
+### Desired Business Outcomes
+
+- VA.gov supports
+
+### Undesired Business Outcomes
+
+- (For VA.gov) We are
+
+## Measuring success
+
+OKRs and KPIs TBD.
+
+## Solution approach
+
+**Discovery - when?? 2022**
+Liz
+
+**Definition, scoping, and planning - when??? 2022**
+
+- We
+
+### Key dates
+
+- February 2022: Begin MHV profile audit
+
+## Backend
+
+## Frontend
+
+## Design
+
+### Previous research
+
+- [Initial
+
+### Design artifacts
+
+- Add link to use cases
+- Add link to Sketch files
+
+
