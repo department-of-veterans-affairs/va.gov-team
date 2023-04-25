@@ -106,7 +106,6 @@ _Electrocardiogram_
 
   _[if the participant states they would download/print BB ask]_
 
-  - Once you had access to that report, how quickly and easily do you feel you could find that information?
   - Could there be another way to find that information without running a report?
 
   _[help the participant navigate back to About VA medical records if necessary]_
@@ -138,8 +137,6 @@ _[images screen]_
 
 - Is access to images helpful to you? Is there any information it provides that the report does not?
 
-Please return to About VA medical records.
-
 
 **Things to watch for:**
 
@@ -150,6 +147,8 @@ Please return to About VA medical records.
 
 
 ## **Second Task: Lab and test results: Bloodwork + download - 5 minutes**
+
+Please return to About VA medical records.
 
 [About VA medical records]
 
@@ -181,7 +180,6 @@ _[or visa versa if they chose txt]_
 
 - What could you do if you were unsure about which to choose?
 
-Please return to About VA medical records.
 
 **Things to watch for:**
 - Did the participant get confused by multiple bloodwork results?
@@ -192,6 +190,8 @@ Please return to About VA medical records.
 - Which format did the participant choose?
 
 ## **Third Task: Health history + print – 10 minutes**
+
+Please return to About VA medical records.
 
 [About VA medical records]
 
@@ -207,7 +207,6 @@ For our first question, I just need you to answer. You don't need to go and find
 
   _[if the participant states they would download/print BB ask]_
 
-  - Once you had access to that report, how quickly and easily do you feel you could find just that discharge information?
   - Could there be another way to print what you need without running a report of your full medical records?
 
   _[help the participant navigate back to About VA medical records and assist them in finding the record if necessary]_
@@ -240,7 +239,6 @@ You decide to print out all of your vaccines so you have a record handy in your 
 _[if the participant says they would print each individual record, ask:]_
 - Is there a way you could print the whole list as one document?
 
-Please return to About VA medical records.
 
 **Things to watch for:**
 
@@ -249,6 +247,8 @@ Please return to About VA medical records.
 - Did the participant know that they could print the entire vaccine list?
 
 ## **Fourth Task: Health history: Allergies – 5 minutes**
+
+Please return to About VA medical records.
 
 [About VA medical records]
 
@@ -264,8 +264,6 @@ The same option to print a list is also available for Vaccines. These are the on
 
  - Can you think of any other items we have reviewed today that you would need a list printed rather than individual pages?
 
-Please return to About VA medical records
-
 **Things to watch for:**
 
 - Does the participant understand that they cannot add allergies?
@@ -273,6 +271,8 @@ Please return to About VA medical records
 - Did the participant understand that allergies pages and as whole lists?
 
 ## **Fifth Task: Share your medical records – 5 minutes**
+
+Please return to About VA medical records
 
 [About VA medical records]
 
