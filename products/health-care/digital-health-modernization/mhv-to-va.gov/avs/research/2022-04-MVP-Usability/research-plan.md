@@ -42,7 +42,7 @@ We will apply insights from this research to improve and iterate on the VA.gov A
 ### Research questions
 - Can Veterans/caregivers easily find the AVS within the Appointments section?
 - Are any sections or terms displayed within the AVS confusing to Veterans/caregivers?
-- Is there any information missing that Veterans/caregivers expect to see in an AVS?
+- Is there any information missing that Veterans/caregivers expect to see in an AVS? or information displayed that Veterans/caregivers weren't expecting to see?
 - What notifications about AVS are helpful to Veterans?
   - How much information do Veterans expect in different notification types?
   - Do Veterans expect on-site notifications within MyVA, My HealtheVet landing page, and/or within the appointments section?
