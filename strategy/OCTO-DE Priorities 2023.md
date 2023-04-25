@@ -1,4 +1,4 @@
-**OCTO-DE Priorities 2023
+# OCTO-DE Priorities 2023
 1) Improve the Veteran login experience
 2) Solidify the VA.gov platform
 3) Integrate health portal features into VA.gov
