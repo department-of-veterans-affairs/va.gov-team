@@ -1,7 +1,7 @@
 name: "Accessibility Support Ticket (CAIA)"
 description: "Request accessibility support from the CAIA team"
 title: "[CAIA A11y Request]: (Insert your request description here)"
-labels: "508/Accessibility, sitewide CAIA, sitewide accessibility"
+labels: ["508/Accessibility, sitewide CAIA, sitewide accessibility"]
 assignees: [coforma-terry]
 body:
 - type: markdown
@@ -16,18 +16,6 @@ body:
       3. Support for research with disabled Veterans using assistive technologies
       4. [Workshops on how to conduct foundational accessibility testing to prepare for a staging review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review)
       5. Hands on office hours to answer accessibility questions, help resolve open accessibility issues, and more\   
-- type: dropdown
-  id: support-type
-  attributes:
-    label: What kind of support are you looking for?
-    options: 
-      - Maintenance audit
-      - Design reviews and annotations
-      - Research support
-      - Foundational testing tutorial
-      - Hands on office hours
-  validations:
-    required: true
 - type: input
   id: date
   attribute:
