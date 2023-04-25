@@ -36,7 +36,10 @@ Discussion Items
 * Experience and worked through resource constraints in Sprint 69 
   * Overcame this challenge through positive team work and communicaiton 
 * What's New in-app UI - what threshold do we want to use for utilization of the What's New alert on the app Home screen?
-
+* Pulling in Check-In work earlier than planned 
+ * Over capacity in the sprint 
+ * To pull in this work it likely will push out Secure Messaging MHV Alignment and Claims Step 2 work 
+ * Bateman sharing timelines in Check-In experience Slack
 -----------------
 4/18/23
 * Resource constraints on FE team have caused concerns for both DDL and WCAG features being wrapped up this Sprint
