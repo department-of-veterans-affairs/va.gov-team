@@ -34,7 +34,7 @@
 4/25/23
 Discussion Items 
 * Experience and worked through resource constraints in Sprint 69 
-  * Positive team work to overcome this challenge 
+  * Overcame this challenge through positive team work and communicaiton 
 -----------------
 4/18/23
 * Resource constraints on FE team have caused concerns for both DDL and WCAG features being wrapped up this Sprint
