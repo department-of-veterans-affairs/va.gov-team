@@ -64,16 +64,16 @@ This simulation does not address the following anecdote, which was stated in ref
 - What we don't know
 
 #### Possible next steps could include...
-- [ ] Conducting key informant interviews with BVA representatives and Blind Rehabiliation Center staff (e.g. this would be the equivalent of interviewing customer support to better understand where to dig deeper next)
-- [ ] Tasking a11y specialists to conduct desk research on ZoomText on how to standardize it as a part of accessibility audits
+- Conducting key informant interviews with BVA representatives and Blind Rehabiliation Center staff (e.g. this would be the equivalent of interviewing customer support to better understand where to dig deeper next)
+- Tasking a11y specialists to conduct desk research on ZoomText on how to standardize it as a part of accessibility audits
   - While we currently support in browser magnification testing (which increases the size of all items on the screen), we do not support testing with ZoomText (which magnifies only a select portion of the screen)
-- [ ] Collaborating with `research-ops` to track studies that include ZoomText users over time, this may include:
+- Collaborating with `research-ops` to track studies that include ZoomText users over time, this may include:
   - Encouraging usability testing to include a mix of screen reader users and ZoomText users
   - Write guidance on how to track data for ZoomText sessions (e.g. magnification levels, defects identified)
   - Create AT specific labels e.g. `ZoomText` to better track sessions over time
   - Hiring an a11y specialist specifically for research-ops to conduct generative research studies and/or analysis across multiple studies
-- [ ] Updating the accessibility dashboard to segment usability testing by AT types (e.g. instead of one column, having seperate columns for different types of AT)
-- [ ] Proactively identifying design system patterns and components that may be undiscoverable or cause pain points for ZoomText users including
+- Updating the accessibility dashboard to segment usability testing by AT types (e.g. instead of one column, having seperate columns for different types of AT)
+- Proactively identifying design system patterns and components that may be undiscoverable or cause pain points for ZoomText users including
   - Multi-column layouts with enough padding that can obfuscate navigation at 7x magnification on ZoomText (based off of this particular study)
   - Unexpected modals and pop ups
   - Navigating to a new window or tab without warning
@@ -98,12 +98,12 @@ Sighted participants were caught off guard when links opened in new tabs, and an
 [While prior conversations on this topic have existed](https://docs.google.com/document/d/1KCPSXmCyh2D9UfCloffjSjyRiivTH0vY7ZHxTwj5WeA/edit?usp=sharing), they have often excluded the sighted ZoomText user experience.
 
 **Possible next steps may include:**
-- [ ] [Submit a design system documentation request ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/new?assignees=&labels=vsp-design-system-team&template=2_documentation_request_form.yml) to improve guidance on opening links in a new tab/window.
-  - [ ] Reference [WCAG G200 guidance (Opening new windows and tabs from a link only when necessary)](https://www.w3.org/TR/WCAG20-TECHS/G200.html)
-  - [ ] Provide `like this` and `not this` examples
-  - [ ] Require including `(opens in new tab)` within the link text in the rare scenario a link must open in a new tab or window based on G200 exceptions
-  - [ ] When including `(opens in new tab)` is too redundant or causes usability issues, provide alternative content or design fixes (as opposed to attempting to solve the local link itself in isolation)-- this will likely require more conversation and a specialist (which can be requested through CAIA)
-- [ ] [Submit a platform issue ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=vbellissimo%2C+ssimmorins%2C+amygoldman&labels=documentation-support%2C+pw-footer-feedback&template=platform-website-footer-feedback.md&title=) to [update foundation testing to include checking and/or annotating link behavior](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-Foundationalaccessibilitytests(required)foundational-testing)
+- [Submit a design system documentation request ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/new?assignees=&labels=vsp-design-system-team&template=2_documentation_request_form.yml) to improve guidance on opening links in a new tab/window.
+  - Reference [WCAG G200 guidance (Opening new windows and tabs from a link only when necessary)](https://www.w3.org/TR/WCAG20-TECHS/G200.html)
+  - Provide `like this` and `not this` examples
+  - Require including `(opens in new tab)` within the link text in the rare scenario a link must open in a new tab or window based on G200 exceptions
+  - When including `(opens in new tab)` is too redundant or causes usability issues, provide alternative content or design fixes (as opposed to attempting to solve the local link itself in isolation)-- this will likely require more conversation and a specialist (which can be requested through CAIA)
+- [Submit a platform issue ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=vbellissimo%2C+ssimmorins%2C+amygoldman&labels=documentation-support%2C+pw-footer-feedback&template=platform-website-footer-feedback.md&title=) to [update foundation testing to include checking and/or annotating link behavior](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-Foundationalaccessibilitytests(required)foundational-testing)
 
 #### A strategy is needed to identify and mitigate remaining issues in production
 While we are fairly confident we can catch and remediate this issue through the collaboration cycle, we don't have an existing strategy or method to do the following at scale:
