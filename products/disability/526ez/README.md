@@ -49,7 +49,7 @@
 - Product Owner: Matt Self (matthew.self2@va.gov)
 - Product manager: Rakshinda Aslam
 - Design and Research: Lydia Hooper, Nyantee Asherman
-- Engineering: Aurora Hampton, Eddie Glenn, Cole Voss, Seth Darr, Christine Cereca
+- Engineering: Aurora Hampton, Eddie Glenn, Seth Darr, Christine Cereca
 - Contact center partner: Chante Lantos-Swett, Kimberly Monroe-Daniels
 - Web comms partner: n/a
 - ITSC (IT Strategic Comms) liaison: n/a
