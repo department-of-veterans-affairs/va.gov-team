@@ -38,7 +38,7 @@ Discussion Items
 * What's New in-app UI - what threshold do we want to use for utilization of the What's New alert on the app Home screen?
 * Pulling in Check-In Discover into Sprint 70 
   * This work was not planned for Sprint 70 so pulling it in means we need to remove work to compensate for the infusion of capacity to perform this work 
-  * Likely need to pull out Secure Messaging Alignment work and Claims Step 2 
+  * Need POs to decide what gets pulled out, we would recommened Secure Messaging Alignment and Claims Step 2 work 
 
 -----------------
 4/18/23
