@@ -81,9 +81,15 @@ body:
       Designer:
       FE engineer:
       Product/team Slack channel:
-      Accessibility champion:
       ...
     render: bash
+  validations:
+    required: true
+- type: input
+  id: champion
+  attributes:
+    label: Do you have an accessibility champion on your team?
+    description: This is anyone who has gone [through our a11ychamps program](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs) or has been recognized by the accessibility practice for their stewardship
   validations:
     required: true
 - type: markdown
