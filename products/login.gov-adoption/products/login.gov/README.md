@@ -358,9 +358,9 @@ Exact dates TBD - discuss with VA & Login help desk
 
 <details>
  
--GSA/Login.gov
--VSP Identity Team
--eBen
--MHV
+ - GSA/Login.gov
+ - VSP Identity Team
+ - eBen
+ - MHV
  
 </details>
