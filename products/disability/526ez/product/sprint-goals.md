@@ -1,7 +1,7 @@
 # Sprint goals for Benefits Disability Experience Team 
 ## Sprint 4
 Period - 04/26/2023 - 05/09/2023
-### Sprint goals
+### Sprint goals TBD
 - **Expedited**
    - [ ] Implement content and design changes for adding Self-Assessment Part A to BDD 526 claims
    - [ ] Bug - BDD flow asking for past service exit date 
