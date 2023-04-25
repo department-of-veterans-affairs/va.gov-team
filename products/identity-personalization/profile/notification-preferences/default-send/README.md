@@ -77,8 +77,9 @@ OKRs and KPIs TBD.
 
 ## Solution approach
 
-**Discovery - when?? 2022**
-Liz
+**Discovery - July 2022**
+- VA Profile added a data point to their API that tells us whether or not a notification is sent by default when a Veteran signs up for a service. Liz conducted a research discovery to understand the implications of this on the UI of our notification settings feature in the VA.gov profile.
+- Discovery Research: [findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/default-send/july-2022-notes.md)
 
 **Definition, scoping, and planning - when??? 2022**
 
@@ -86,7 +87,7 @@ Liz
 
 ### Key dates
 
-- February 2022: Begin MHV profile audit
+- 
 
 ## Backend
 
@@ -99,7 +100,7 @@ Additional details can be found [here](https://github.com/department-of-veterans
 
 ## Frontend
 
-- Frontend documentation on how the notificatio settings UI works: [API to Display notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/frontend/display-notes.md)
+- Frontend documentation on how the notification settings UI works: [API to Display notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/frontend/display-notes.md)
 
 ## Design
 
