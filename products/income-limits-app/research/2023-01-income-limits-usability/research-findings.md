@@ -208,7 +208,7 @@ We have data from only 6 of 8 participants because the other 2 participants didn
   
   > *"I didn't apply for disability because I feel bad. Other people came back missing limbs, and I'm pretty OK compared to them. But now my hearing is bad, and I'm wondering if it's because of the firing ranges. How do I prove that?" (p7)*.
 
-- Many participants (4 of 6) **didn't realize that you needed to apply for VA health care** in order to find out for sure if you qualify. 
+- 4 of 6 participants **didn't realize that you needed to apply for VA health care** in order to find out for sure if you qualify. 
 - 2 participants figured out later in the session that they needed to apply--only after they opened the _How to estimate your income for this tool_ accordion in the Past Year task.
 > *"Oh! You need to apply. So not take this information at face value" (p1)*.
 - RECOMMENDATION: Make the _Apply for VA health care_ link more visually prominent on the results page because as it is now, many participants ignored it. Consider the wording "To find out if you're eligible, apply now for VA health care" in order to increase relevance for higher-income Veterans who are unsure about whether they qualify.
