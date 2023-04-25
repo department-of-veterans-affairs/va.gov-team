@@ -18,6 +18,13 @@
   
 - Upon calling the provided number, these users experience long hold times and become frustrated. 
 
+a way to repro this in the dev environment is as such:
+sign in to dev.va.gov as id.me user vets.gov.user+226@gmail.com
+browse to https://dev.va.gov/disability/file-disability-claim-form-21-526ez/introduction
+if it puts you back to "[...]/start", click on "If you know VA Form 21-526EZ is right, apply now"
+the aforementioned error shows up
+a user that this does not show up for is vets.gov.user+228@gmail.com
+
 ## Recommendations
 
 - Disovery to define the problem: converation with Aurora, Kyle, Robin, vsp-identity.
