@@ -25,4 +25,4 @@ Zenhub boards used: [Mobile SoS Board](https://github.com/orgs/department-of-vet
 | 67| Mar 15- Mar 28 | [Red Team Sprint Planning - Sprint 67.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11265193/Red.Team.Sprint.Planning.-.Sprint.67.pdf)
 | 68| Mar 29 - Apr 11| [Red Team Sprint Planning - Sprint 68.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11265195/Red.Team.Sprint.Planning.-.Sprint.68.pdf)|[Sprint Planning68- Blue Team.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11265287/Sprint.Planning68-.Blue.Team.pdf)
 | 69| Apr 12 - Apr 25|[Red Team Sprint Planning - Sprint 69.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11265168/Red.Team.Sprint.Planning.-.Sprint.69.pdf)|[Sprint Planning69- Blue Team.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11265256/Sprint.Planning-.Blue.Team.pdf)
-
+| 70| Apr 26 - May 9|[Red Team Sprint Planning - Sprint 70.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11326391/Red.Team.Sprint.Planning.-.Sprint.70.pdf)|
