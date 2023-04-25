@@ -7,7 +7,6 @@ body:
 - type: markdown
   attributes:
     value: "## How might we support you?"
-    
 - type: markdown
   attributes:
     value: |
@@ -17,7 +16,7 @@ body:
       3. Support for research with disabled Veterans using assistive technologies
       4. [Workshops on how to conduct foundational accessibility testing to prepare for a staging review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review)
       5. Hands on office hours to answer accessibility questions, help resolve open accessibility issues, and more
-      
+   
 - type: dropdown
   id: support-type
   attributes:
