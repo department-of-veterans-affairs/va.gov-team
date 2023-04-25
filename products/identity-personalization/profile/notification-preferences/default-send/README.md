@@ -53,21 +53,18 @@ In order to be able to add email as a channel, we need to do two things: add the
 
 ### Desired User Outcomes
 
-- Users can
-
-### Undesired User Outcomes
-
-- Users are
+- As a veteran, I want to be able to see what type of communications I am eligible to receive (e.g. email).
+- As a veteran, I want to be able to select where and how I receive those communication (e.g. receive emails for claim updates).
+- As a veteran, I only want to have to keep this information updated in one place.
 
 ## Business outcomes
 
 ### Desired Business Outcomes
 
-- VA.gov supports
+- Allow veterans to set and manage email communication preferences from their VA.gov profile.
+- Allow any updates veterans make to their permissions to be saved/accessed across the VA (through VA Profile backend).
+- Set up an infrastructure for this functionality that is sustainable and allows us to scale easily over time.
 
-### Undesired Business Outcomes
-
-- (For VA.gov) We are
 
 ## Measuring success
 
@@ -81,13 +78,30 @@ OKRs and KPIs TBD.
 - VA Profile added a data point to their API that tells us whether or not a notification is sent by default when a Veteran signs up for a service. Liz conducted a research discovery to understand the implications of this on the UI of our notification settings feature in the VA.gov profile.
 - Discovery Research: [findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/default-send/july-2022-notes.md)
 
-**Definition, scoping, and planning - when??? 2022**
+**Usability Research - February 2023**
 
-- We
+- Liz conducted usability sessions with Veterans to achieve two goals: 1) Learn how our single page, auto-save works for users when all known notifications are represented, and 2) Learn what information needs to be surfaced to make the current settings and options clear to people.
+- Usability Research: [findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md)
 
-### Key dates
+**Design high-fidelity mock-ups - February/March 2023**
 
-- 
+**Frontend Development - Februrary/March/April 2023**
+- Add feature flag for new mobile editing page
+- Add feature flat for MHV notification preferences
+- Build editing page for VA.gov profile
+- Update notification preferences so that feature flag can filter by channel (email/text)
+- Update notificatio preferences so that it filters out the new QuickSubmit group
+- Build editing page for Va.gov profile (part 2)
+- Build the new page for hte mobile number
+
+## Key Dates
+Q2 goals:
+- Add default sent functionality
+- Start updating frontend UI to move from radio button design to checkbox design
+Q3 goals:
+- Launch frontend UI updates to move from radio button to checkbox design
+Q4 goals:
+- TBD (when Samara returns from maternity leave)
 
 ## Backend
 
