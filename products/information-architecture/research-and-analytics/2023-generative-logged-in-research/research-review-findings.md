@@ -51,7 +51,7 @@ Only one study had insights into this question: the homepage redesign usability 
 #### What are the known challenges do people have navigating the logged in experience (eg. reliance on homepage/My VA links)?
 1. People get frustrated navigating links that are not relevant to them, or feel like the website is generic rather than personalized to them.
 	- [My VA 2.0 2020 Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#people-want-a-task-based-logged-in-homepage-tailored-to-them)
-	- [Action items discovery, finding 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#key-findings)
+	- [Action items discovery, finding 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md#key-findings)
 	- [Mobile App IA Usability, Detailed Findings, question 6.ii.a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md#detailed-findings)
 
 **Outstanding question**: Do people feel the site is only too generic when they are logged-in (assuming yes)? What level of personalization do they expect in the navigation?
