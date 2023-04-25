@@ -17,7 +17,7 @@ body:
       1. [Workshops on how to conduct foundational accessibility testing to prepare for a staging review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review)
       1. Hands on office hours to answer accessibility questions, help resolve open accessibility issues, and more
 - type: dropdown
-  id: type
+  id: support-type
   attributes:
     label: What kind of support are you looking for?
     options: 
