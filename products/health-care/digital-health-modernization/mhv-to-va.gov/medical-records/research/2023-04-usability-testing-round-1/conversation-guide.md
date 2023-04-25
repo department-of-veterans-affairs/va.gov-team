@@ -97,7 +97,7 @@ Are you ready to dive in?
 
 _Electrocardiogram_
 
-- Can you walk me through how you would find the date of your most recent electrocardiogram?
+- Can you walk me through how you would find the date of your most recent electrocardiogram(EKG)?
 
   _[if the participant selects Share your medical record]:_
 
@@ -154,7 +154,7 @@ Please return to About VA medical records.
 
 _Bloodwork:_
 
-- Let's say you wanted to review your bloodwork from October 26, 2021. Walk me through how you would do that. 
+- Let's say you wanted to review your bloodwork from October 3, 2021. Walk me through how you would do that. 
 _[if participant can't find the record in the list ask:]_ 
 - Do you notice a pattern in how these results are listed?
 
@@ -213,9 +213,14 @@ For our first question, I just need you to answer. You don't need to go and find
   
   
 [Care summaries and notes/Progress note]
-
+_[on desktop]_
 On the left there is a category called Vitals.
-- What would type of information would you expect to find there?
+- What type of information would you expect to find there?
+
+-[on mobile]_
+Please select the menu in In this section.
+There is a category near the bottom called Vitals.
+- What type of information would you expect to find there?
 
 Please return to About VA medical records.
 
@@ -252,9 +257,7 @@ Please return to About VA medical records.
 
 [About VA medical records]
 
-Let's review Allergies.
-
-- What if a Veteran developed a sudden allergy to eggs and were treated at a community hospital. How would they go about getting that allergy added to this list? Is there anything here that might help with that?
+- What if a Veteran developed a sudden allergy to eggs and were treated at a community hospital. How would they go about getting that allergy added to their list? Is there anything here that might help with that?
 
 I would like to ask you some questions about the print and download options here. The button says, "print or download list."
 
@@ -268,7 +271,7 @@ The same option to print a list is also available for Vaccines. These are the on
 
 - Does the participant understand that they cannot add allergies?
 - Did the participant notice the informational dropdown?
-- Did the participant understand that allergies pages and as whole lists?
+- Did the participant understand that they could print/download allergies pages and as whole lists?
 
 ## **Fifth Task: Share your medical records – 5 minutes**
 
@@ -289,6 +292,7 @@ _[if the participant is struggling, ask:]_ What do you think is meant by "Blue B
 - Did the participant understand the difference between VHIE and Blue Button?
 - Did the participant understand "Blue Button"?
 - Did the participant understand how to share medical records with a VA provider?
+- Did the participant use any of the informational drop downs?
 
 ## **Post-Task Interview - 2 minutes**
 
