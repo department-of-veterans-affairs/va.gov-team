@@ -118,7 +118,9 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18 us
 
      d) more than 10 times
 
-3. What type of device will you be using to connect to Zoom?
+3. Are you comfortable having your camera on during the session? Must be "yes" for desktop/laptop users.
+
+4. What type of device will you be using to connect to Zoom?
 
 - Desktop/Laptop?
 - Smartphone: Android or iPhone?
@@ -126,7 +128,7 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18 us
 
 _Please provide response on roster._
 
-4. Have you shared your screen on Zoom using this device before?
+5. Have you shared your screen on Zoom using this device before?
 
 _Please provide response on roster._
 
