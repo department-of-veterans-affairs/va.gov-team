@@ -1,7 +1,7 @@
 name: "Accessibility Support Ticket (CAIA)"
 description: "Request accessibility support from the CAIA team"
 title: "[CAIA A11y Request]: (Insert your request description here)"
-labels: ["508/Accessibility, sitewide CAIA, sitewide accessibility"]
+labels: "508/Accessibility, sitewide CAIA, sitewide accessibility"
 assignees: [coforma-terry]
 body:
 - type: markdown
