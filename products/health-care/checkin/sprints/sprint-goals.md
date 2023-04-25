@@ -37,9 +37,8 @@ ________________________________________________________________________________
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**   
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Get feedback from Bay Pines
-- **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
-      - Research 
-            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Execute Remote Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56700)
+    - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Execute Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56700)
    - **Sub Goal: [PCI: Support Other Appointment Modalities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56550)**
        - ?????
    - **Sub Goal: Analyze current metrics to see what they tell us**
