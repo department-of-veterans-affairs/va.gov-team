@@ -45,15 +45,15 @@ Of users who navigated to the Refill screen:
 2. 12.1% of users clicked the filter function, and 10.5% made a filter selection.
 
 Those who used sorting used the the following sort types in order from most frequnetly to least freqntly used (each user only being counted once per sort type they used during the overall time period):
-* Prescription Name: 55.0%
-* Refill Date: 37.6%
-* Refill Remaining: 19.4%
-* Facility Name: 3.9%
+* Prescription Name: 55.0% of sorting users (1.8k)
+* Refill Date: 37.6% of sorting users (1.2k)
+* Refill Remaining: 19.4% of sorting users (<650)
+* Facility Name: 3.9% of sorting users (<130)
 
 The top three most frequently used filters were (each user only being counted once per sort type they used during the overall time period):
-* Active: 88.3%
-* Refill in process: 17.0%
-* Submitted: 11.2%
+* Active: 88.3% of filter users (6.0k)
+* Refill in process: 17.0% of filter users (1.1k)
+* Submitted: 11.2% of filter users (<780)
 
 Filters used less than 10% of the time:
 * Active: Parked
