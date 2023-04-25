@@ -36,10 +36,14 @@ Discussion Items
 * Experience and worked through resource constraints in Sprint 69 
   * Overcame this challenge through positive team work and communicaiton - great job team!! 
 * What's New in-app UI - what threshold do we want to use for utilization of the What's New alert on the app Home screen?
+  * We will put both DDL and PNGI into the What's New Alert for this release.
 * Pulling in Check-In Discover into Sprint 70 
   * This work was not planned for Sprint 70 so pulling it in means we need to remove work to compensate for the infusion of capacity to perform this work 
   * Need POs to decide what gets pulled out, we would recommened Secure Messaging Alignment and Claims Step 2 work 
   * Also may need to pull out work from Sprint 71 and 72 to compensate 
+  * Expected lift for Check-in in this Sprint is lower than originally thought.  Health team to reevaluate if anything needs to be pulled out.
+* More info coming later about the effort to put up Smart Banners on VA.gov to help drive people to use the mobile app.
+
 
 -----------------
 4/18/23
