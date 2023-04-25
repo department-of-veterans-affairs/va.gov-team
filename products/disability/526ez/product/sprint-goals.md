@@ -1,4 +1,31 @@
 # Sprint goals for Benefits Disability Experience Team 
+## Sprint 4
+Period - 04/26/2023 - 05/09/2023
+### Sprint goals
+- **Expedited**
+   - [ ] Implement content and design changes for adding Self-Assessment Part A to BDD 526 claims
+   - [ ] Bug - BDD flow asking for past service exit date 
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration 
+        - rated disailities endpoint
+            - Get our Veteran Verification API credentials pushed to the higher environment and test
+        - Intent to File endpoint 
+            - [ ] Continue migration - Implement calls for GET and POST
+        - BRD
+            - [ ] Start migration - Abstract calls for ------
+- **Features**
+   - Error messaging/validation 
+      - [ ] Complete Discovery
+   - 526ez current with paper form
+      - [ ] Design and Content changes for items not requiring research/implement collab cycle feedback
+   - Landing page changes
+      - [ ] Review of existing content research
+      - [ ] Design and Content changes - start
+      - Content and Design for landing page (Is this the form I need?)
+   - [ ] Analytics
+      - [ ] Understanding 
+         - [ ] Number of sessions 
+         - [ ] 
 ## Sprint 3
 Period - 04/12/2023 - 04/25/2023
 ### Sprint goals
