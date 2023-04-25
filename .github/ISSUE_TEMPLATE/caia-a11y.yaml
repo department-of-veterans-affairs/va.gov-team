@@ -34,7 +34,7 @@ body:
     label: When do you need this support by?
     description: This helps us prioritize requests as they come in 
   validations:
-    required: true;
+    required: true
 - type: dropdown
   id: urgency
   attributes:
