@@ -43,7 +43,7 @@
 - Launch go/no-go ticket: [#50650](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50650)
 - [Launch readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/launch-materials/my-va-audit-improvements-launch-readiness-checklist.md)
 
-**Desired date range:** _mm/dd/yyyy - mm/dd/yyyy_
+**Desired date range:** _04/10/2023 - 04/24/2023_
 
 **Phased rollout:** 
 |Launch % |Time Frame | Planned Date Range | Ticket | 
@@ -63,7 +63,7 @@
 |-------|-----------|-----------|
 | Launch to 25% | 04/10/2023 | _04/11/2023_ |
 | Launch to 50% | 04/17/2023 | _04/18/2023_|
-| Launch to 100% | 04/24/2023 | _1mm/dd/yyyy_ |
+| Launch to 100% | 04/24/2023 | _04/25/2023_ |
 
  
 ### 1-week results (at 100%):
