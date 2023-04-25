@@ -12,7 +12,7 @@ Applicants can be either authenticated or unauthenticated to access this applica
 
 
 ## Contents
-- [Sketch flow of Household section](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/208CCE1E-DC03-457F-B2FA-1232663983CF/canvas)
+- [Sketch flow of Household section](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/9lP93nx)
 - Instructions to access in Staging (or Prod for Drupal) (_Note: credentials should be stored in sensitive repos only_)
   - Access the Staging Environment(https://staging.va.gov/health-care/apply/application/introduction)
     - Authenticated flow: Log in with **[User 16](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)**.  The updated section starts on **Page 13**.
