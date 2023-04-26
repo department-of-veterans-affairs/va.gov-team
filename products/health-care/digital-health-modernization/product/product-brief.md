@@ -59,12 +59,12 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 - Technical Architect: Carlos Felix
 - Team Coach: Dotti Cummings
 - Delivery Coach: Stephen Smythe
-- Design Lead:
+- Design Lead: Florence McCafferty
 - Product Manager:
 
 **Contractors (Ad Hoc)** 
 - Design: Jonathan Nelson
-- Research Lead: Cara Frissell
+- Research Lead: 
 - Engineering: Eric Voshall
 - Engineering Lead: Daniel Cloud
 - QA Engineer: Erin Flaherty
