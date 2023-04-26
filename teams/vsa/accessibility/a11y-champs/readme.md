@@ -66,6 +66,18 @@ When you're ready to start your journey, follow the curriculum below.
 
 ## Champions
 
+**Robin Garrison**, Level 5
+- Your role
+- The team you're supporting on
+- Work email, [LinkedIn, personal website, etc](replace this with your url)
+- 1 sentence on why you became an a11y champion
+
+**Liz Lantz**, Level 5
+- Your role
+- The team you're supporting on
+- Work email, [LinkedIn, personal website, etc](replace this with your url)
+- 1 sentence on why you became an a11y champion
+
 **Name**, Level #
 - Your role
 - The team you're supporting on
