@@ -1,13 +1,13 @@
 DHP Clinician CGM Discovery Findings
 ===========================================
 
-Digital Health Platform
+#### Digital Health Platform
 
 Date: 04/26/2023
 
-Abbie Burton, abbie.burton@thoughtworks.com
+Product: Abbie Burton, abbie.burton@thoughtworks.com
 
-Fernanda Alcocer, falcocer@thoughtworks.com
+Experience: Fernanda Alcocer, falcocer@thoughtworks.com
 
 Research Goals
 --------------
