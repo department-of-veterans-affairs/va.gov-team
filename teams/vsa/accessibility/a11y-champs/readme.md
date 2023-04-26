@@ -35,7 +35,7 @@ How? By leveling up our people and celebrating their accessibility journey, we e
 
 ## Curriculum
 
-### https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/level-1.md 👐
+### [Level 1, Community Member](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/level-1.md) 👐
 - 1 hour to complete
 - Learn how to ask for help, add yourself to our community list, and join #accessibility-help
 - Get started with your first screen reader
