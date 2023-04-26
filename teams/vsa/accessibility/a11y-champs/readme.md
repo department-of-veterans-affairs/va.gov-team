@@ -11,6 +11,8 @@ How? By leveling up our people and celebrating their accessibility journey, we e
 
 This was built off a curriculum designed by Jen Strickland and Trevor Pierce, who deserve full credit in establishing the groundwork here ♥️ 
 
+[Check out our list of champions and specialists ➡️ ](champions.md)
+
 ## You can become an a11y champion 💪 
   
 **At a high level, accessibility champions:**
@@ -63,35 +65,5 @@ When you're ready to start your journey, follow the curriculum below.
 - [ ] Answer or support 2 questions in #accessibility-help
 - [ ] Observe 2 research sessions with assistive technology users
 - [ ] Complete your specialist project
-
-## Champions
-
-**Robin Garrison**, Level 5
-- Your role
-- The team you're supporting on
-- Work email, [LinkedIn, personal website, etc](replace this with your url)
-- 1 sentence on why you became an a11y champion
-
-**Liz Lantz**, Level 5
-- Your role
-- The team you're supporting on
-- Work email, [LinkedIn, personal website, etc](replace this with your url)
-- 1 sentence on why you became an a11y champion
-
-**Name**, Level #
-- Your role
-- The team you're supporting on
-- Work email, [LinkedIn, personal website, etc](replace this with your url)
-- 1 sentence on why you became an a11y champion
-
-## Specialists
-
-**Josh Kim**, A11y Lead on Benefits
-- josh.kim@adhocteam.us, [LinkedIn, personal website, etc](https://www.linkedin.com/in/joshkimux/)
-- I can help out with anything research or theory related
-
-**Name**, Role
-- Work email, [LinkedIn, personal website, etc](replace this with your url)
-- 1 sentence on how you can support a11y champions
 
 
