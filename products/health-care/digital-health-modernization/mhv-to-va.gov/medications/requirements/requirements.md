@@ -7,3 +7,6 @@
 | 4/26/23        | Coulton Bunney   |Created document                                                                                                     |
 |                |                  |                                                                                                                     |
 
+## Use cases
+
+## Requirements
