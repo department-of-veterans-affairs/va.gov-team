@@ -11,7 +11,8 @@ We're a grassroots, volunteer led community focused on scaling up VA's accessibi
 
 This was built off a curriculum designed by Jen Strickland and Trevor Pierce, who deserve full credit in establishing the groundwork here ♥️ 
 
-> <strong>[Check out our champions and specialists ➡️ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/champions.md)</strong>
+> <strong>[Start your journey to becoming an accessibility champion ➡️ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/01-level.md)</strong>
+> > <strong>[Check out our champions and specialists ➡️ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/champions.md)</strong>
 
 ## You can become an a11y champion 💪 
   
