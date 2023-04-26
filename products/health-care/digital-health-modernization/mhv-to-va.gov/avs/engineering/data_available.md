@@ -92,9 +92,14 @@
 ## Treatment Plan
 
 ### Orders
+#### Fields
+
+- Type ( medications & supplies / consultations / imaging / labs / other )
+- Description
+- Instructions
+- Date
 
 ### Clinical/health reminders (list)
-
 #### Fields
 
 - Date when due
@@ -104,21 +109,20 @@
 - Name
 
 ### Patient Education
+#### Fields
+- HTML content
 
 ### Comments
+#### Fields
+- Encounter notes (plain text or HTML)
 
-### Med Changes
+### Medication Changes
 
+As of the date of the encounter
+#### Fields
 
-
-
-
-
-
-
-
-
-
+- Heading (Discontinued, New, Changed and Unchanged)
+   - Medication name + optional Sig/label
 
 ## Ongoing Care
 
