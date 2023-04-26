@@ -25,5 +25,9 @@
 - Work email, [LinkedIn, personal website, etc](replace this with your url)
 - 1 sentence on what you can help champions out with
 
+**Sara Smith**, 508 Accessibility Specialist
+- [LinkedIn Profile](www.linkedin.com/in/sarafantauzzismith)
+- Can answer a11y questions relating to, but not limited to: accessibility, user experience, user research, analytics and reporting.
+
 ## Founders and Alumni
 This was built off a curriculum designed by Jen Strickland and Trevor Pierce, who deserve full credit in establishing the groundwork here ♥️ 
