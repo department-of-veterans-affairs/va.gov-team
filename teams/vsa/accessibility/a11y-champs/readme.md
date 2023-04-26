@@ -15,7 +15,7 @@ How? By leveling up our people and celebrating their accessibility journey, we e
 
 Glad you asked! The word "accessibility" is often abbreviated to <strong> a11y </strong> — as in, "a", then 11 characters, and then "y". 
 
-Most folks pronounce a11y as "alley".
+Most folks pronounce a11y as "alley" or "a 11 y"
 
 ## You can become an a11y champion 💪 
   
