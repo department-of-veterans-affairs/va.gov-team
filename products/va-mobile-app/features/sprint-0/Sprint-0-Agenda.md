@@ -49,41 +49,12 @@ The Sprint 0 meeting is a time to do the following:
 
 ## Ready to Present
 
-
-
 * 
 
-<table>
-  <tr>
-   <td>
+| Immediate Action | Next Quarter Bucket | Icebox |
+| ----------- | ----------- | ----------- |
+| placeholder | [Sprint 0: Display Zoom on Android](https://docs.google.com/document/d/1zJ1efdJNzZx9KutF0i8yC0KnXk4rV8E2JrlR8Xwqar0/edit?usp=sharing) | placeholder |
 
-<h2>Immediate Action</h2>
-
-
-   </td>
-   <td>
-<h2>Next Quarter Bucket</h2>
-
-
-   </td>
-   <td>
-<h2>Icebox</h2>
-
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-     placeholder
-   </td>
-   <td>
-     placeholder
-   </td>
-   <td>
-     placeholder
-   </td>
-  </tr>
-</table>
 
 
 
