@@ -10,8 +10,13 @@ We're a grassroots, volunteer led community focused on scaling up VA's accessibi
 This was built off a curriculum designed by Jen Strickland and Trevor Pierce, who deserve full credit in establishing the groundwork here ♥️ 
 
 ## You can become an a11y champion ❤️ 
+
+<br / > 
+
 <details open>
 <summary>Learn how to become an accessibility champions</summary>
+  
+<br / > 
 
 **At a high level, accessibility champions:**
 - steward accessibility beyond compliance and effective practices
