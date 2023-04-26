@@ -1,7 +1,7 @@
 # Frontend Unit Test Audit
 _Results of audit conducted in Sprint 8 (4/12/23 - 4/25/23)_
 
-`personalization/dashboard/actions`
+## `personalization/dashboard/actions`
 
 | File | Tests? |
 | -- | -- |
@@ -11,7 +11,7 @@ _Results of audit conducted in Sprint 8 (4/12/23 - 4/25/23)_
 | [notifications.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/notifications.js) | ❌ |
 | [payments.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/payments.js) | ❌ |
 
-`personalization/dashboard/components`
+## `personalization/dashboard/components`
 
 | File | Tests? |
 | -- | -- |
