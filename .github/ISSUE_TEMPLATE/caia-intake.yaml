@@ -89,9 +89,10 @@ body:
     required: true
 
 - type: checkboxes
-  id: collab-cycle
+  id: office-hours
   attributes:
-    label: Will this be going through the collaboration cycle?
+    label: Do you plan to bring this to an upcoming content office hours session?
+    description: If we think this work would benefit from a collaborative session with you, we may ask you to bring it to office hours or set up a separate time to meet.
     options:
       - label: Yes, benefit content office hours (Thursdays, 3:00 p.m. to 3:45 p.m. ET)
       - label: Yes, health content office hours (Thursdays, 11:00 a.m. to 11:30 a.m. ET)
