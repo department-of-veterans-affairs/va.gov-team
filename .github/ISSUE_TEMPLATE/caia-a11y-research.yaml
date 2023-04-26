@@ -30,8 +30,8 @@ body:
     label: Do you have an accessibility champion on your team?
     description: If you don't have one, totally ok! Let us know if you're interested in becoming one.
     options:
-      - Yes
-      - No
+      - Yes, we have a champion
+      - No, we don't have a champion (yet)
       - I'm interested in becoming one!
   validations:
     required: true
