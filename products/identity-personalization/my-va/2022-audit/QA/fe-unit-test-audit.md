@@ -13,13 +13,13 @@ _Results of audit conducted in Sprint 8 (4/12/23 - 4/25/23)_
 
 ## `personalization/dashboard/components`
 
-| File | Tests? |
-| -- | -- |
-| [CTALink.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/CTALink.jsx) | ❌ |
-| [ClaimsListItem.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/ClaimsListItem.jsx) | ❌ |
-| [Dashboard.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/Dashboard.jsx) | ❌ |
-| [DashboardAlert.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/DashboardAlert.jsx) | ✅ |
-| [DashboardWidgetWrapper.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/DashboardWidgetWrapper.jsx) | ❌ |
+| File | Tests? | Notes |
+| -- | -- | -- |
+| [CTALink.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/CTALink.jsx) | ❌ | [57466](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57466)|
+| [ClaimsListItem.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/ClaimsListItem.jsx) | ❌ | [57468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57468)|
+| [Dashboard.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/Dashboard.jsx) | ❌ | [57470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57470)|
+| [DashboardAlert.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/DashboardAlert.jsx) | ✅ | |
+| [DashboardWidgetWrapper.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/DashboardWidgetWrapper.jsx) | ❌ | [57470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57470) |
 | [IconCTALink.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/IconCTALink.jsx) | ❌ |
 | [RenderWidgetDowntimeNotification.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/RenderWidgetDowntimeNotification.jsx) | ❌ |
 | [cerner-widgets.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/cerner-widgets.js) | ✅ |
