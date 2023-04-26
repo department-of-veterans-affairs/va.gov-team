@@ -34,30 +34,29 @@ We're a grassroots, volunteer led community focused on scaling up VA's accessibi
 </details>
 
 ## Curriculum 🚧 (getting updated)
-Follow our curriculum below
 
-#### Level 1, Community Member 👐
+### Level 1, Community Member 👐
 - 1 hour to complete
 - Learn how to ask for help, add yourself to our community list, and join #accessibility-help
 - Get started with your first screen reader
 
-#### Level 2, Tester 🧰
+### Level 2, Tester 🧰
 - 1 hour to complete
 - Learn how to run a foundational accessibility test
 - Get used to some screen reader shortcuts
 - Write your first accessibility ticket
 
-#### Level 3, Advocate 🫀
+### Level 3, Advocate 🫀
 - 2 hours to complete
 - Observe your first assistive technology research session
 - Learn the difference between the medical and social model of disability
 - Understand accessibility beyond compliance
 
-#### Level 4, Apprentice 🧠
+### Level 4, Apprentice 🧠
 - 3 hours to complete
 - Choose a specialty path between design, research, engineering, and QA
 
-#### Level 5, Champion ⭐
+### Level 5, Champion ⭐
 - [ ] Write 2 accessibility tickets for your product team
 - [ ] Answer or support 2 questions in #accessibility-help
 - [ ] Observe 2 research sessions with assistive technology users
