@@ -12,38 +12,13 @@
 - Work email, [LinkedIn, personal website, etc](replace this with your url)
 - 1 sentence on why you want to become an a11y champion
 
-**Name**, Your role
-- The team you're supporting on
-- Work email, [LinkedIn, personal website, etc](replace this with your url)
-- 1 sentence on why you want to become an a11y champion
-
 ## Apprentice, Level 4
-
-**Name**, Your role
-- The team you're supporting on
-- Work email, [LinkedIn, personal website, etc](replace this with your url)
-- 1 sentence on why you want to become an a11y champion
 
 ## Advocate, Level 3
 
-**Name**, Your role
-- The team you're supporting on
-- Work email, [LinkedIn, personal website, etc](replace this with your url)
-- 1 sentence on why you want to become an a11y champion
-
 ## Tester, Level 2
 
-**Name**, Your role
-- The team you're supporting on
-- Work email, [LinkedIn, personal website, etc](replace this with your url)
-- 1 sentence on why you want to become an a11y champion
-
 ## Community Members, Level 1
-
-**Name**, Your role
-- The team you're supporting on
-- Work email, [LinkedIn, personal website, etc](replace this with your url)
-- 1 sentence on why you want to become an a11y champion
 
 ## Specialists
 
