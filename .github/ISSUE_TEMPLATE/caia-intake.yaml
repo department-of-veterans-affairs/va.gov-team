@@ -1,7 +1,7 @@
 name: "[DRAFT, DO NOT USE] Sitewide Content, Accessibility, and IA Intake Form"
 description: "To request support with content, accessibility, or IA from Sitewide Content, Accessibility, and IA team. If this doesn’t look right, choose a different type."
 title: "[CAIA Intake]: Team name, product name, type of request"
-labels: ["sitewide CAIA, sitewide accessibility, sitewide content"]
+labels: ["sitewide CAIA, sitewide accessibility, sitewide content, epic"]
 assignees: [coforma-terry, rlhecht]
 body:
 - type: markdown
