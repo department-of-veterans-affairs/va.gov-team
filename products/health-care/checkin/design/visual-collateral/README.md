@@ -2,7 +2,7 @@
 
 ## Posters to be hung in clinic waiting rooms
 
-Latest Release (PDF)
+### Latest Release (PDF)
 - Release Notes
   - 4/25/2023 - Removed QR Code and related first footer content (The content is updated to "After you check in, we'll come get you"). <br><br>
     - 8.5" X 11" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11326859/8.5x11-lowvision-noqrcode-fin.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11326863/8.5x11-lowvision-noqrcode-philippines-fin.pdf)
@@ -20,7 +20,7 @@ Latest Release (PDF)
 
  
  
-Previous Release/Version (PDF)
+### Previous Release/Version (PDF)
 
 - Release Notes
   - 6/27/2022 - Updated file name and QR codes for Philippines only posters
