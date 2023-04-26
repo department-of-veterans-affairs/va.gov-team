@@ -58,11 +58,11 @@ body:
 - type: markdown
   attributes:
     value: |
-      Before moving forwards, please...
-        1. [Review our capacity calendar for CAIA availability](https://calendar.google.com/calendar/u/0/embed?src=c_f982350fc73a8162a1088ab14d00dd37335b2b559a60d6b67eb8021416f81c2a@group.calendar.google.com&ctz=America/Chicago)
-        2. Based on this calendar, confirm we have specialists who can support your study in your desired timeframe
-        3. Confirm you are filing this support ticket at least 1 week in advance of said timeframe, so we have enough heads up to provide support
-      If CAIA support is available during your timeframe, we are good to go! Otherwise, we recommend pushing back your research if possible until there is available support.
+     Before moving forwards, please:
+       1. [Review our capacity calendar for CAIA availability](https://calendar.google.com/calendar/u/0/embed?src=c_f982350fc73a8162a1088ab14d00dd37335b2b559a60d6b67eb8021416f81c2a@group.calendar.google.com&ctz=America/Chicago)
+       2. Based on this calendar, confirm we have specialists who can support your study in your desired timeframe
+       3. Confirm you are filing this support ticket at least 1 week in advance of said timeframe, so we have enough heads up to provide support
+     If CAIA support is available during your timeframe, we are good to go! Otherwise, we recommend pushing back your research if possible until there is available support.
 
 - type: checkboxes
   id: calendar
