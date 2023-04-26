@@ -6,8 +6,30 @@ General notes
 - **Attendees:** At least Meko / Adam 
 - Updates to be posted in #va-mobile-app slack channel prior to meeting
 
-4/19/23
 
+<details>
+  <summary>4/26/23</summary>
+
+What the team is working on
+
+**Secure Messaging**
+  
+- Team continuing to work on making content updates to align with MHV on VA.gov
+
+**RX** 
+
+- Usability Research: Working on synthesis and final deck, setting up viewing meetings for stakeholders and internal team with recording reels
+Reviewing changes needed on app to support RX tracking disclaimer update
+  
+- Patient Check-In
+  
+- Va.gov web and mobile teams are planning to start building patient check-in experience on mobile in May. We are doing preliminary planning work this and next week.
+
+ </details>
+  
+<details>
+  <summary>4/19/23</summary>
+  
 **What that team is working on this week** 
 
 Content audit and making changes on the app to create consistency and alignment between app and MHV on VA.gov 
@@ -17,11 +39,16 @@ Content audit and making changes on the app to create consistency and alignment 
 - Usability research sessions wrapped up last week; synthesizing findings this week
 - Connect with Ro Weaver and team on understanding new tracking feature on MHV
 
-4/12/23
+</details>
+  
+<details>  
+<summary>4/12/23</summary>
 
 **What that team is working on this week**
 
 - Continuation of our RX prod usability research sessions with Veterans 
+
+</details>
 
 4/5/23
 
