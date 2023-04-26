@@ -3,7 +3,7 @@ Welcome to the VA accessibility champions community ✨
 
 We're a grassroots, volunteer led community focused on scaling up VA's accessibility maturity by leveling up our people (like me and you).  
 
-How? By leveling up our people and celebrating their accessibility journey, we envision a VA where...
+**How? By leveling up our people and celebrating their accessibility journey, we envision a VA where...**
 - _Everyone_ is empowered to make an impact on the disabled Veteran experience
 - Teams can conduct most accessibility tasks without the full embedded support of an accessibility specialist
 - Less time is spent remediating inaccessible code, and more time is spent centering disabled Veterans in the process
@@ -11,7 +11,7 @@ How? By leveling up our people and celebrating their accessibility journey, we e
 
 This was built off a curriculum designed by Jen Strickland and Trevor Pierce, who deserve full credit in establishing the groundwork here ♥️ 
 
-[Check out our list of champions and specialists ➡️ ](champions.md)
+> <strong>[Check out our champions and specialists ➡️ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/champions.md)</strong>
 
 ## You can become an a11y champion 💪 
   
