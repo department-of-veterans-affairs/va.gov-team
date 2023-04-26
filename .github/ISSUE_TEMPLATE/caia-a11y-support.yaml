@@ -64,7 +64,7 @@ body:
        - What else?
        
 - type: textarea
-  id: artifacts
+  id: support-type
   attributes:
     label: What do you need support with?
     description: The more you can describe your need, the better we can take action to help y'all out!
