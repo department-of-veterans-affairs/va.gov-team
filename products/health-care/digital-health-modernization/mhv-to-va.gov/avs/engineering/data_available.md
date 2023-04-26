@@ -1,7 +1,6 @@
 # Data available from current AVS
 
 ## Patient Info
-
 ### Fields 
 
 - Date of Birth
@@ -9,7 +8,6 @@
 - Age
 
 ## Patient Address
-
 ### Fields
 
 - Street address line 1
@@ -19,10 +17,10 @@
 - State
 - Zip
 
+
 ## Today's Visit
 
 ### Clinics visited (list)
-
 #### Fields
 - Physical Location
 - Patient-friendly name
@@ -44,15 +42,12 @@
 - Diagnosis
 
 ### Diagnoses (list)
-
 #### Fields
 - Code
 - Diagnosis
 
 ### Clinical/health reminders (list)
-
 #### Fields
-
 - Date when due
 - Patient DFN
 - Reminder IEN
@@ -60,7 +55,6 @@
 - Name
 
 ### Vitals (list)
-
 #### Fields
 - Type
 - Value
@@ -68,9 +62,7 @@
 - Date
 
 ### Procedures (list)
-
 #### Fields
-
 - Station name
 - Station number
 - Date
@@ -93,7 +85,6 @@
 
 ### Orders
 #### Fields
-
 - Type ( medications & supplies / consultations / imaging / labs / other )
 - Description
 - Instructions
@@ -101,7 +92,6 @@
 
 ### Clinical/health reminders (list)
 #### Fields
-
 - Date when due
 - Patient DFN
 - Reminder IEN
@@ -117,32 +107,34 @@
 - Encounter notes (plain text or HTML)
 
 ### Medication Changes
-
 As of the date of the encounter
 #### Fields
-
 - Heading (Discontinued, New, Changed and Unchanged)
    - Medication name + optional Sig/label
 
+
 ## Ongoing Care
 
+## Patient Info
+### Fields 
+- Date of Birth
+- SSN
+- Age
 
-### Primary care providers
+### Primary care providers (list)
 #### Fields
+- Name + team
 
-### Primary care team
+### Primary care team (list)
 #### Fields
+- Name - specialty
 
 ### Problem list
-
 #### Fields
-
 - String consisting of problem description and date
 
 ### Appointments (list)
-
 #### Fields
-
 - Date & time
 - Location
 - Clinic IEN
@@ -162,24 +154,18 @@ As of the date of the encounter
 - Current status
 
 ### Immunizations (list)
-
 #### Fields
-
 - Name
 - Series
 - Date
 - Facility
 
 ### Radiology Reports (list)
-
 #### Fields
-
 - Report text
 
 ### Allergies & Reactants (list)
-
 #### Fields
-
 - Allergen name
 - Site
 - Station Number
@@ -188,20 +174,15 @@ As of the date of the encounter
 - Type
 - Verified date
 
-### Lab results (list)
-
+### Recent Lab results (list)
 #### Fields
-
 - Specimen
 - Ordering Provider
 - Collection Date/Time
 - Performing lab (not always present)
 - Values (list)
-
 ##### Values (list)
-
 ###### Fields
-
 - Test
 - Result
 - Flag
@@ -209,9 +190,7 @@ As of the date of the encounter
 - Reference Range
 
 ### Medications 
-
 #### Fields
-
 - Type
 - NDC (National Drug Code)
 - Total number of refills
@@ -253,7 +232,9 @@ As of the date of the encounter
 - Comment
 - Signature
 
-### Clinical Charts
+### Clinical Charts (list)
+#### Fields
+- Chart image
 
 
 
@@ -266,13 +247,10 @@ As of the date of the encounter
 
 
 
+## Other (not necessarily displayed)
 
-
-
-
-## Basic Demographics
-
-### Fields 
+### Basic Demographics
+#### Fields 
 
 - ICN
 - Home phone
@@ -288,15 +266,3 @@ As of the date of the encounter
 - Location
 - Room/bed
 - Is Inpatient
-
-
-
-
-
-## Encounter notes (list)
-
-### Fields
-- Patient instructions
-- Discharge Diagnoses Comments
-- Medications notes
-
