@@ -24,9 +24,10 @@
 
 - Sign onto Perigean Zoom session
 - Admit the session’s notetaker
-- Check Settings > Meeting > In Meeting (Basic) >
-   - Sound notification when someone joins or leaves: OFF
-   - Who can share > All Participants
+- Check Settings
+   - Bottom tool bar > Screen Share "^" up arrow > Advanced Sharing Options > ho can share > All Participants
+   - Bottom tool bar > Participants window > More > Make sure Play join/leave sound is OFF (should be by default)
+      - Also make sure that waiting room is on (should be by default)
 - Open standalone browser tab to [the modal prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979) and save link in slack so ready to paste
 - Do Not Disturb ON so no notifications
 - Make sure everyone is muted except moderator (me) and the participant
