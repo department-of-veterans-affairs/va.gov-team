@@ -117,11 +117,11 @@ _[when the participant finds the date]:_
 _[if participant is on details screen]:_
 Please return to Lab and test results.
 
-_Radiology_
-
 - Can you describe to me what is on this page?
 - Is this how you would expect the labs and test results to be listed?
   - _[if no]_ What would be more helpful?
+
+_Radiology_
 
 For the next part of this task, there will be x-rays on the screen. This may be triggering for some and we want to be mindful of your comfort. Are you comfortable viewing x-rays?
 _[if no]_ Thank you for letting me know. We will skip that part.
@@ -137,14 +137,12 @@ _[images screen]_
 
 - Is access to images helpful to you? Is there any information it provides that the report does not?
 
-
 **Things to watch for:**
 
 - Did the participant know to look in lab and test results?
 - If the participant clicked on details did they choose the link or the whole card?
 - Did the participant notice that EKG's are historical only?
 - Did the participant notice that labs and tests are listed in reverse chronological order?
-
 
 ## **Second Task: Lab and test results: Bloodwork + download - 5 minutes**
 
