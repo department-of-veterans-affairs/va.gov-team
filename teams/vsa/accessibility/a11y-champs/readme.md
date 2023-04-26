@@ -56,7 +56,7 @@ When you're ready to start your journey, follow the curriculum below.
 - Learn the difference between the medical and social model of disability
 - Understand accessibility beyond compliance
 
-#### Level 4, Specialist 🧠
+#### Level 4, Apprentice 🧠
 - 3 hours to complete
 - Choose a specialty path between design, research, engineering, and QA
 
