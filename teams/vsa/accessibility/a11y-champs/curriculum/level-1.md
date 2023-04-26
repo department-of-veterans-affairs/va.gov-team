@@ -6,8 +6,8 @@
   - get started with your very first screen reader
 
 ## Join our community
-1. [Join and introduce yourself on the #a11y-champs channel on VA slack](https://dsva.slack.com/archives/C8E985R32)
-2. Let us know your name, role, what team you're on, and why you decided to start your accessibility champion journey
+- [ ] [Join and introduce yourself on the #a11y-champs channel on VA slack](https://dsva.slack.com/archives/C8E985R32)
+- [ ] Let us know your name, role, what team you're on, and why you decided to start your accessibility champion journey
 
 ## Learn how to ask for help
 **Disability is complex.** Which means that, when it comes to accessibility, no one will have all the answers (not even your specialists)! 
@@ -18,10 +18,10 @@ The following will help you learn a little bit more about the complexity of disa
 
 ### Pick 2 of the following to read or watch 🤓
 
-1. [Read chapter 2 of Sheri Byrne-Haber's book, Giving a Damn About Accessibility ](https://static1.squarespace.com/static/6071fa745947937fc933ecbb/t/60a02725893d22758a6207c5/1621108519636/Giving-a-damn-about-accessibility.pdf)(page 26-34)
-2. [Learn how to say the word "disabilty" (A11y Project)](https://www.a11yproject.com/posts/lets-say-the-word-disability/)
-3. [Changing the way we talk about disability, Amy Oulton (Youtube)](https://www.youtube.com/watch?v=4WIP1VgPnco), 14 minutes
-4. [Disability sensitivity training, DC Government (Youtube)](https://www.youtube.com/watch?v=Gv1aDEFlXq8), 3 minutes
+- [ ] [Read chapter 2 of Sheri Byrne-Haber's book, Giving a Damn About Accessibility ](https://static1.squarespace.com/static/6071fa745947937fc933ecbb/t/60a02725893d22758a6207c5/1621108519636/Giving-a-damn-about-accessibility.pdf)(page 26-34)
+- [ ] [Learn how to say the word "disabilty" (A11y Project)](https://www.a11yproject.com/posts/lets-say-the-word-disability/)
+- [ ] [Changing the way we talk about disability, Amy Oulton (Youtube)](https://www.youtube.com/watch?v=4WIP1VgPnco), 14 minutes
+- [ ] [Disability sensitivity training, DC Government (Youtube)](https://www.youtube.com/watch?v=Gv1aDEFlXq8), 3 minutes
 
 ### Share your thoughts and questions 💡
 
@@ -44,6 +44,11 @@ Ask us! That's what community is for 👐
 ## Wrapping up
 
 Congratulations on taking your first big step towards becoming an accessibility champion! We are so thrilled that you're starting this journey. Know that even a little bit will go a long way when it comes to improving the disabled Veteran experience on VA.gov.
+
+**You now have...**
+- joined our accessibility community
+- learned how to ask for help
+- gotten started with your very first screen reader
 
 **Before you go**
 - [ ] If you have feedback for this course from the technical (broken links) to the educational (hard to follow curriculum) or just want to say something nice, fill out this Microsoft Form survey.
