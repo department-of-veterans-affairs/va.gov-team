@@ -37,12 +37,32 @@ When you're ready to start your journey, follow the curriculum below.
 
 ### Curriculum 🚧 (getting updated)
 
-1. [Getting Started (for everyone)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/00-getting-started.md) - Time: approximately one hour
-1. [Level 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/01-level.md) - Time: approximately 1 hour
-1. [Level 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/02-level.md) - Time: approximately 1–3 hours
-1. [Level 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/03-level.md) - Time: approximately 1–3 hours
-1. [Level 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/04-level.md) - Time: approximately 2 hours
-1. [Level 5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/05-level.md) - Content on accessible PDF in-progress
+#### Level 1, Community Member 👐
+- 1 hour to complete
+- Learn how to ask for help, add yourself to our community list, and join #accessibility-help
+- Get started with your first screen reader
+
+#### Level 2, Tester 🧰
+- 1 hour to complete
+- Learn how to run a foundational accessibility test
+- Get used to some screen reader shortcuts
+- Write your first accessibility ticket
+
+#### Level 3, Advocate 🫀
+- 2 hours to complete
+- Observe your first assistive technology research session
+- Learn the difference between the medical and social model of disability
+- Understand accessibility beyond compliance
+
+#### Level 4, Specialist 🧠
+- 3 hours to complete
+- Choose a specialty path between design, research, engineering, and QA
+
+#### Level 5, Champion ⭐
+- [ ] Write 2 accessibility tickets for your product team
+- [ ] Answer or support 2 questions in #accessibility-help
+- [ ] Observe 2 research sessions with assistive technology users
+- [ ] Complete your specialist project
 
 ## Champions
 
