@@ -16,7 +16,7 @@ Increase the download/use/adoption of the VA.gov mobile app.
 * How might we use the VA.gov website to encourage use of native mobile apps as it aligns with specific features on VA.gov.
 
 ## Desired User Outcomes
-- Using the mobile app allows users to access tools more readily
+- Using the mobile app allows Veterans to access self-service tools more readily
 
 ## Undesired User Outcomes
 - Frustration because the app 
@@ -24,11 +24,10 @@ Increase the download/use/adoption of the VA.gov mobile app.
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Increased adoption of the Mobile App (ongoing use)
 
 ## Undesired Business Outcomes
--->
+
 
 ---
 ## Measuring Success
@@ -49,21 +48,10 @@ Increase the download/use/adoption of the VA.gov mobile app.
 
 ## Discovery
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
-
-- **Value Risks** (will people use it): 
-  - .
-- **Usability Risks** (can people figure out how to use it):
-  - .
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
-  
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+- Mobile app does not have 100% parity with VA.gov website and that's OK. This UX feature will only appear on tool landing pages that have parity.
+- Cannibalizing mobile web traffic to mobile app use is a good thing.
+- Only targeting Apple users is sufficient for proof-of-concept and learnings are transferrable to Android device user behavior.
+- We can use the out-of-the-box design behavior from Apple for POC and there will not be accessibility problems.
 
 ### What're you building
 
