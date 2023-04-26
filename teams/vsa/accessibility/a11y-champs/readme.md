@@ -47,13 +47,13 @@ When you're ready to start your journey, follow the curriculum below.
 **Name**, Level #
 - Your role
 - The team you're supporting on
-- [Work email], [LinkedIn, personal website, etc](replace this with your url)
-- [1 sentence on why you became an a11y champion]
+- Work email, [LinkedIn, personal website, etc](replace this with your url)
+- 1 sentence on why you became an a11y champion
 
 ## Specialists
 
 **Name**, Role
-- [Work email], [LinkedIn, personal website, etc](replace this with your url)
-- [1 sentence on how you can support a11y champions]
+- Work email, [LinkedIn, personal website, etc](replace this with your url)
+- 1 sentence on how you can support a11y champions
 
 
