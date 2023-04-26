@@ -53,7 +53,6 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Review the [Norms for Communication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/norms-communication.md)
 - [ ] Review [Orientation materials](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) on Platform Website
 - [ ] Review the [Guidelines for Working Safely in an Open Source Repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md)
-- [ ] Review the [Norms for Using Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/norms-tools.md)
 
 ### Working on the platform
 - [ ] Review the [Platform Principles](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-crew-principles)
