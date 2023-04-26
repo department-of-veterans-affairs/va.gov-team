@@ -33,30 +33,30 @@ How? By leveling up our people and celebrating their accessibility journey, we e
 
 </details>
 
-## Curriculum 🚧 (getting updated)
+## Curriculum
 
-### Level 1, Community Member 👐
+### https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/level-1.md 👐
 - 1 hour to complete
 - Learn how to ask for help, add yourself to our community list, and join #accessibility-help
 - Get started with your first screen reader
 
-### Level 2, Tester 🧰
+### Level 2, Tester 🧰 (🚧 not written yet)
 - 1 hour to complete
 - Learn how to run a foundational accessibility test
 - Get used to some screen reader shortcuts
 - Write your first accessibility ticket
 
-### Level 3, Advocate 🫀
+### Level 3, Advocate 🫀 (🚧 not written yet)
 - 2 hours to complete
 - Observe your first assistive technology research session
 - Learn the difference between the medical and social model of disability
 - Understand accessibility beyond compliance
 
-### Level 4, Apprentice 🧠
+### Level 4, Apprentice 🧠 (🚧 not written yet)
 - 3 hours to complete
 - Choose a specialty path between design, research, engineering, and QA
 
-### Level 5, Champion ⭐
+### Level 5, Champion ⭐ (🚧 not written yet)
 - [ ] Write 2 accessibility tickets for your product team
 - [ ] Answer or support 2 questions in #accessibility-help
 - [ ] Observe 2 research sessions with assistive technology users
