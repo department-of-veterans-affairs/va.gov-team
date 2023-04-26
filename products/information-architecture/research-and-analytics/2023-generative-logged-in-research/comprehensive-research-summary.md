@@ -51,7 +51,9 @@ It depends on what the goals are around logged-out flows.  If we’re considerin
 Since the research was primarily focused on logged-in flows, we’ll need to learn more about logged-out flows to better understand how what we learned could improve the UX in that area. 
 
 ## Problems we’ve identified with the logged-in experience
-### It’s hard to find personalized content when it’s buried in the benefit hub.
+### Logged-in users are experiencing different levels of personalization on VA.gov, depending on where they start and how familiar they are with the website.
+
+### It’s hard to find personalized content when it’s not obviously linked from the homepage, My VA, or the mega menu.
 
 ### My VA, and possibly profile, are missing some personalized content people expect to find there.
 
