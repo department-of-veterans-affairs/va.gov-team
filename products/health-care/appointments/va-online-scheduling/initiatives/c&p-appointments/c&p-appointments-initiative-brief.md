@@ -142,6 +142,9 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 ### Before
 
+<img width="655" alt="Screenshot 2023-04-26 at 9 54 51 AM" src="https://user-images.githubusercontent.com/90797205/234598143-63991c57-100e-4051-887f-61d94aa13cda.png">
+
+
 ### After
 
 [Prototype]
