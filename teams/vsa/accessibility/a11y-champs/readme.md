@@ -3,15 +3,13 @@ Welcome to the VA accessibility champions community ✨
 
 We're a grassroots, volunteer led community focused on scaling up VA's accessibility maturity by leveling up our people (like me and you).  
 
-**How? By leveling up our people and celebrating their accessibility journey, we envision a VA where...**
+How? By leveling up our people and celebrating their accessibility journey, we envision a VA where...
 - _Everyone_ is empowered to make an impact on the disabled Veteran experience
 - Teams can conduct most accessibility tasks without the full embedded support of an accessibility specialist
 - Less time is spent remediating inaccessible code, and more time is spent centering disabled Veterans in the process
 - We all can support one another in a community that values curiosity more than expertise
 
-## Get started
-1. <strong>[Complete level 1 (30 minutes) to start your journey ➡️ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/01-level.md)</strong>
-2. [Check out our champions and specialists ➡️ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/champions.md)
+> <strong>[Complete level 1 (30 minutes) to start your journey 🪴](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/01-level.md)</strong>
 
 ## You can become an a11y champion 💪 
   
@@ -30,6 +28,8 @@ We're a grassroots, volunteer led community focused on scaling up VA's accessibi
 - you won't be responsible for every aspect of your product being accessible
 - you'll have ample support from our accessibility community and accessibility specialists
 - you are welcome to step aside at any time (we value our people!)
+
+**[Check out our champions and specialists](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/champions.md)**
 
 </details>
 
