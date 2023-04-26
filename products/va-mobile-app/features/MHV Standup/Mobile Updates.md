@@ -21,7 +21,7 @@ What the team is working on
 - Usability Research: Working on synthesis and final deck, setting up viewing meetings for stakeholders and internal team with recording reels
 Reviewing changes needed on app to support RX tracking disclaimer update
   
-- Patient Check-In
+**Patient Check-In**
   
 - Va.gov web and mobile teams are planning to start building patient check-in experience on mobile in May. We are doing preliminary planning work this and next week.
 
