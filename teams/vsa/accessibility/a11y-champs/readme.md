@@ -35,7 +35,7 @@ This was built off a curriculum designed by Jen Strickland and Trevor Pierce, wh
 
 When you're ready to start your journey, follow the curriculum below.
 
-### Curriculum
+### Curriculum 🚧 (getting updated)
 
 1. [Getting Started (for everyone)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/00-getting-started.md) - Time: approximately one hour
 1. [Level 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/01-level.md) - Time: approximately 1 hour
