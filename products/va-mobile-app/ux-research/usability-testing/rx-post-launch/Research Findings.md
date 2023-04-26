@@ -34,6 +34,36 @@
 5. Participants did not use the interface to look up status definitions, even with the information icon present on the statuses.
 
 
+#### Collaborating data from app users
+From February 1 (the first full day of all user access to Rx refills) to March 31:
+1. Over 494K users who were authorized for pharmacy had sessions in the app.
+2. 11% (55k) of those users navigated to the PrescriptionDetails screen.
+3. 7% (34K) of those users navigated to to the Refill screen.
+
+Of users who navigated to the Refill screen: 
+1. 7.4% of those users clicked on the sort function, and 5% made a sort selection.
+2. 12.1% of users clicked the filter function, and 10.5% made a filter selection.
+
+Those who used sorting used the the following sort types in order from most frequnetly to least freqntly used (each user only being counted once per sort type they used during the overall time period):
+* Prescription Name: 55.0% of sorting users (1.8k)
+* Refill Date: 37.6% of sorting users (1.2k)
+* Refill Remaining: 19.4% of sorting users (<650)
+* Facility Name: 3.9% of sorting users (<130)
+
+The top three most frequently used filters were (each user only being counted once per sort type they used during the overall time period):
+* Active: 88.3% of filter users (6.0k)
+* Refill in process: 17.0% of filter users (1.1k)
+* Submitted: 11.2% of filter users (<780)
+
+Filters used less than 10% of the time:
+* Active: Parked
+* Discontinued
+* Expired
+* Hold
+* Non-verified
+* Active: Suspended
+* Transferred
+* Unknown
 
 ### Details of Findings
 
