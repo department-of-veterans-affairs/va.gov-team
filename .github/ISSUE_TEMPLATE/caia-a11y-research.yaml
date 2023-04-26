@@ -67,10 +67,10 @@ body:
 - type: checkboxes
   id: calendar
   attributes:
-    label: Have you reviewed the CAIA research calendar?
+    label: Have you reviewed the CAIA capacity calendar?
     description: Make sure your research's timeframe occurs when we have time to support y'all
     options:
-      - label: 'Yes'
+      - label: Yes, we have reviewed the CAIA capacity calendar and can confirm specialists are available to support in our research timeframe
   validations:
     required: true
     
