@@ -28,7 +28,9 @@ These are the specific things we wanted to gain insights on through this work:
 * People get frustrated, or feel like they’re on a generic website, when personalized content isn’t surfaced while trying to complete a task
 	* Supported by [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/research-review-findings.md#what-are-the-known-challenges-do-people-have-navigating-the-logged-in-experience-eg-reliance-on-homepagemy-va-links) and in our [user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#participants-perceived-authenticated-parts-of-vagov-as-being-personalized-to-them-and-unauthenticated-parts-of-the-website-as-general-information-for-anyone-visiting-the-site)
 * People called out redundancies and complexities in navigation options when logged in ( [user interview finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#5-of-9-participants-talked-about-redundancies-and-complexities-while-navigating-the-va-website-after-logging-in) )
-* During [user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#participants-relied-on-the-homepage-and-my-va-to-navigate-less-than-we-expected-instead-they-used-a-variety-of-methods-to-get-to-their-tasks), we observed that people who aren’t familiar with the website, such as My HealtheVet users or non-Veterans, have a hard time finding anything that’s not linked from the homepage or My VA.
+* During [user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#participants-relied-on-the-homepage-and-my-va-to-navigate-less-than-we-expected-instead-they-used-a-variety-of-methods-to-get-to-their-tasks), we observed that people who aren’t familiar with the website, such as My HealtheVet users or non-Veterans, have a hard time finding anything that’s not linked from the homepage or My VA. We also heard about non-Veterans struggling to find information that wasn’t linked from My VA in previous research (Item 2 under “[What do we not know at this point?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/research-review-findings.md#what-do-we-not-know-at-this-point)”.
+* Non-veterans, such as family members and caregivers participating in the  VA Family Caregiver Assistance Program experience challenges related to not having a role-specific login. 
+	* Supported by item 2 under “[What do we not know at this point?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/research-review-findings.md#what-do-we-not-know-at-this-point)”, and our [user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#participants-perceived-authenticated-parts-of-vagov-as-being-personalized-to-them-and-unauthenticated-parts-of-the-website-as-general-information-for-anyone-visiting-the-site).
 
 ### What are people’s expectations are for navigating to tools and tasks when they are logged in to VA.gov?
 Based on our [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/research-review-findings.md#what-are-other-known-insights-around-navigating-the-site-overall) and  [user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#participants-perceived-authenticated-parts-of-vagov-as-being-personalized-to-them-and-unauthenticated-parts-of-the-website-as-general-information-for-anyone-visiting-the-site), we know people expect:
@@ -51,17 +53,25 @@ It depends on what the goals are around logged-out flows.  If we’re considerin
 Since the research was primarily focused on logged-in flows, we’ll need to learn more about logged-out flows to better understand how what we learned could improve the UX in that area. 
 
 ## Problems we’ve identified with the logged-in experience
-### Logged-in users are experiencing different levels of personalization on VA.gov, depending on where they start and how familiar they are with the website.
+### Logged-in users are getting inconsistent levels of personalization on VA.gov, depending on where they start and how familiar they are with the website.
+We know that when people login to VA.gov from the homepage, they’re redirected to My VA, and seeing a personalized dashboard right away.  
+
+In this round of user interviews, we observed multiple sessions where people started on My HealtheVet or eBenefits, and didn’t see My VA until they were directed there by the moderator.  People who were unfamiliar with the site also had a less personalized experienced overall. We observed them returning to the current homepage by clicking on the VA logo in the header, or a breadcrumb, and bypassing their personalized dashboard.
+
+### The logged-in experience doesn’t address the needs of different user types, or the needs of users at different points in their journey with VA.
+We’re currently offering the same experience to all people,  regardless of their experience or relationship with the VA.  This creates challenges we’ll need to consider, including:
+- how to make it easier for people unfamiliar with the site architecture to quickly find what they need, especially if it’s not obviously linked ([read below](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md#its-hard-to-find-personalized-content-when-its-not-obviously-linked-from-the-homepage-my-va-or-the-mega-menu))
+- how to give caregivers, delegates, VSOs who receive their own VA benefits access to their personalized information, as well as the information for the people they’re helping
+- how to strike a balance between personalized and generic content that works for newly transitioned Veterans as well as it does for people who have an established relationship with VA
 
 ### It’s hard to find personalized content when it’s not obviously linked from the homepage, My VA, or the mega menu.
 
+
 ### My VA, and possibly profile, are missing some personalized content people expect to find there.
 
-### Logging-in to different websites to complete personalized tasks is challenging and frustrating.
+### Our current login process is confusing and frustrating.
 
-### Having 4 options to sign in with is confusing for people.
 
-### 
 
 ## Recommendations
 
