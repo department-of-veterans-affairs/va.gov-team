@@ -10,6 +10,9 @@
       - dicovery of the fix
       - fix as priortized
 - Review road-map
+- Metrics
+   - Keep track of # of sessions to complete a claim
+   - Understand why the # has gone up to 4.7 (160%) in April
 
 
 
