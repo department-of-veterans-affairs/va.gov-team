@@ -1,3 +1,12 @@
+**April 26, 2023 — Biweekly sync**
+-
+
+**Agenda**
+- After-visit summary work and alignment with care summaries domain — updates on what we learned from sync with AVS team
+- Safety message on lab & test results — discuss where we need to add this and how to adjust content for this context
+- Print and download button content
+
+
 **March 15, 2023 — Biweekly sync** 
 -
 
