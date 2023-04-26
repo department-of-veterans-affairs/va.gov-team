@@ -1,0 +1,110 @@
+# Traceability Report - Appoinment List Redesign
+
+| Requirement| Test | Test result | Issue | 
+| ------- | ---------- | ----- | ----- |
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+
+| Screenreader| Test | Test result | Issue | 
+| ------- | ---------- | ----- | ----- |
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A|
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A|
+
+| General accessibility| Test | Test result | Issue | 
+| ------- | ---------- | ----- | ----- |
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A|
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A| 
+| View upcoming appointments in VAOS | Validate booked VA appointment - in person (at a Facility)	| Passed	| N/A|
