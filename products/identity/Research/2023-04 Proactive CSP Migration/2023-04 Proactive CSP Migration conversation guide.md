@@ -11,7 +11,7 @@
 ### 10-15 min before session: 
 
 - Post in #feedback-backchannel @ team members joining
-   - “p# | Identity, Proactive CSP Migration starts in 15 minutes
+   - P# | Identity, Proactive CSP Migration starts in 15 minutes
    - In thread post:
 > How to observe or take notes for this session:
 > - Wait in the Zoom waiting room until the participant agrees you may join
@@ -246,6 +246,8 @@ Ok give me a few moments to get set up.
 
 
 ## Thank-You and Closing | 5 minutes
+
+[CHECK if any question's were left in slack, if none then...]
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on VA.gov to make sure it works for Veterans.
 
