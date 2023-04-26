@@ -151,6 +151,7 @@ Let’s think more specifically about accessing the VA online
       - [PROMPT or screen share for MHV - there are 3 options…]
       - [PROMPT or screen share for VA.gov - there are 4 options…]
    - Do you remember why you started signing in with that option?
+      - Do you remember if you got any help creating that sign in option?
 - [IF recent sign in was into the MHV site]
    - Are there times when you go to VA.gov to sign into your account?
    - [IF YES] Which of the sign in choices would you say use most often
