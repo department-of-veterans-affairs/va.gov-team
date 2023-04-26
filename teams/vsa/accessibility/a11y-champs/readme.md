@@ -9,7 +9,7 @@ How? By leveling up our people and celebrating their accessibility journey, we e
 - Less time is spent remediating inaccessible code, and more time is spent centering disabled Veterans in the process
 - We all can support one another in a community that values curiosity more than expertise
 
-<strong>[Complete level 1 (30 minutes) to start your journey 🪴](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/01-level.md)</strong>
+<strong>[Complete level 1 (30 minutes) to start your journey 🪴](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/level-1.md)</strong>
 
 ## You can become an a11y champion 💪 
   
