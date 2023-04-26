@@ -91,6 +91,7 @@ The Sprint 0 meeting is a time to do the following:
 
 ## 4/26/23
 
+* Matt to run through updates to the Q2 plan
 * [Sprint 0: Display Zoom on Android](https://docs.google.com/document/d/1zJ1efdJNzZx9KutF0i8yC0KnXk4rV8E2JrlR8Xwqar0/edit?usp=sharing)
 
 
