@@ -37,7 +37,7 @@ Finally, let's get you started on one screen reader ❇️
 
 ### If you get stuck or can't figure out how to use them
 
-Ask us! That's what community is for 💙
+Ask us! That's what community is for 👐
 - If you feel a little brave, ask for help on the #accessibility-help channel
 - If you want a safer space, ask for help on our #a11y-champs channel 
 
