@@ -54,3 +54,6 @@
 **Name**, Role
 - Work email, [LinkedIn, personal website, etc](replace this with your url)
 - 1 sentence on how you can support a11y champions
+
+## Founders
+This was built off a curriculum designed by Jen Strickland and Trevor Pierce, who deserve full credit in establishing the groundwork here ♥️ 
