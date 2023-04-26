@@ -4,6 +4,7 @@
 **Agenda**
 - After-visit summary work and alignment with care summaries domain — updates on what we learned from sync with AVS team
 - Safety message on lab & test results — discuss where we need to add this and how to adjust content for this context
+- Standard range explanation — discuss moving into expanded "Need help understanding your results?" component
 - Print and download button content
 
 
