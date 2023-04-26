@@ -13,18 +13,18 @@ This was built off a curriculum designed by Jen Strickland and Trevor Pierce, wh
 
 Anyone can! If you're reading this, you're already on your way ❤️ 
 
-### At a high level, accessibility champions:
+**At a high level, accessibility champions:**
 - steward accessibility beyond compliance and effective practices
 - center disabled Veterans, caregivers, and family members (not products, code, or processes)
 - aren't experts, but know how to ask for more help
 
-### Depending on their role, they might help their team by:
+**Depending on their role, they might help their team by:**
 - [conducting foundational accessibility reviews for their team](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-Foundationalaccessibilitytests(required)foundational-testing)
 - [providing support during research with disabled Veterans](https://depo-platform-documentation.scrollhelp.site/research-design/research-assistive-technology-sessions)
 - [write accessibility annotations for mockups](https://www.sketch.com/s/aaa5c25f-6991-4aac-a6ed-d378bdff7727/p/C7BD6145-9511-470C-950C-7ACC42DE9F03/canvas)
 - answering (or finding answers to) questions in the #accessibility-help channel
 
-### This is a volunteered effort, so rest assured that:
+**This is a volunteered effort, so rest assured that:**
 - you won't be responsible for every aspect of your product being accessible
 - you'll have ample support from our accessibility community and accessibility specialists
 - you are welcome to step aside at any time (we value our people!)
