@@ -4,7 +4,7 @@ Liz Lantz, Authenticated Experience
 
 Additional updates and notes by Samara Strauss, Auth experience PO
 
-Last updated: April 25, 2023
+Last updated: April 26, 2023
 
 ## Background
 We’re aware of some high-level problems people have navigating the logged in experience on VA.gov — eg. if a link isn’t on the homepage or My VA, people tend to have trouble finding what they need. However, we’ve never conducted more holistic research that evaluates navigating the logged in experience. 
@@ -139,7 +139,8 @@ The mobile app open card sort ([finding 1](https://github.com/department-of-vete
 1. What do people without accounts do when they try to accomplish a task that requires one?
 - The [homepage redesign research (round 2)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-findings.md#further-research-needed) calls this out as something to do more research on.
 2. What are expectations do people have who are *not* Veterans around a personalized va.gov experience?
-- The Digital Health Modernization Generative Study noted that “the inability to delineate actions between users of a single MHV account causes friction and confusion.” (Insight 8). 
+- The Digital Health Modernization Generative Study noted that “the inability to delineate actions between users of a single MHV account causes friction and confusion.” ([Insight 8](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/research-findings.md#insight-8-the-inability-to-delineate-actions-between-users-of-a-single-mhv-account-causes-friction-and-confusion)). 
+- VSO's had a hard time finding Connected Apps in the [Representative OAuth and Connected Apps Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Developer%20Platform%20Research/2023-03-Representative%20OAuth%20and%20Connected%20Apps%20Research%20Report_with%20VSOs)
 
 **Outstanding question**: How do needs and expectations around moving through VA.gov differ between user types (eg. veterans vs. service members vs. families/caregivers/dependents)?
 
