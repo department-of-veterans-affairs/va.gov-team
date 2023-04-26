@@ -1,0 +1,56 @@
+# Community Members
+
+## Champion, Level 5
+
+**Robin Garrison**, Your role
+- The team you're supporting on
+- Work email, [LinkedIn, personal website, etc](replace this with your url)
+- 1 sentence on why you want to become an a11y champion
+
+**Liz Lantz**, Your role
+- The team you're supporting on
+- Work email, [LinkedIn, personal website, etc](replace this with your url)
+- 1 sentence on why you want to become an a11y champion
+
+**Name**, Your role
+- The team you're supporting on
+- Work email, [LinkedIn, personal website, etc](replace this with your url)
+- 1 sentence on why you want to become an a11y champion
+
+## Apprentice, Level 4
+
+**Name**, Your role
+- The team you're supporting on
+- Work email, [LinkedIn, personal website, etc](replace this with your url)
+- 1 sentence on why you want to become an a11y champion
+
+## Advocate, Level 3
+
+**Name**, Your role
+- The team you're supporting on
+- Work email, [LinkedIn, personal website, etc](replace this with your url)
+- 1 sentence on why you want to become an a11y champion
+
+## Tester, Level 2
+
+**Name**, Your role
+- The team you're supporting on
+- Work email, [LinkedIn, personal website, etc](replace this with your url)
+- 1 sentence on why you want to become an a11y champion
+
+## Community Members, Level 1
+
+**Name**, Your role
+- The team you're supporting on
+- Work email, [LinkedIn, personal website, etc](replace this with your url)
+- 1 sentence on why you want to become an a11y champion
+
+## Specialists
+
+**Josh Kim**, A11y Lead on Benefits
+- josh.kim@adhocteam.us, [LinkedIn, personal website, etc](https://www.linkedin.com/in/joshkimux/)
+- I can help out with anything research or theory related
+
+**Name**, Role
+- Work email, [LinkedIn, personal website, etc](replace this with your url)
+- 1 sentence on how you can support a11y champions
