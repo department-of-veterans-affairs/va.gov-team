@@ -4,8 +4,8 @@ _Results of audit conducted in Sprint 8 (4/12/23 - 4/25/23)_
 
 | File | Tests? | Notes |
 | -- | -- | -- |
-| [v0/appeals_controller.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/appeals_controller.rb) | ❌ |
-| [v0/evss_claims_async_controller](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/evss_claims_async_controller.rb) | ❌ | We'll need to update this once the migration of EVSS > Lighthouse is complete for claims status|
+| [v0/appeals_controller.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/appeals_controller.rb) | ❌ | [57454](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57454)
+| [v0/evss_claims_async_controller](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/evss_claims_async_controller.rb) | ❌ | [57455](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57455) <br />We'll need to update this once the migration of EVSS > Lighthouse is complete for claims status|
 | [/vaos/v2/appointments_controller.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/vaos/app/controllers/vaos/v2/appointments_controller.rb) | ✅ |
 | [/v0/folders_controller.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/folders_controller.rb) | ❌ |
 | [/v0/profile/full_names_controller.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/profile/full_names_controller.rb) | ❌ |
