@@ -1,4 +1,4 @@
-# Accessibility Champions Community
+# Accessibility Champions Community (aka "A11y Champs")
 Welcome to the VA accessibility champions community ✨
 
 We're a grassroots, volunteer led community focused on scaling up VA's accessibility maturity by leveling up our people (like me and you).  
@@ -10,6 +10,12 @@ How? By leveling up our people and celebrating their accessibility journey, we e
 - We all can support one another in a community that values curiosity more than expertise
 
 <strong>[Complete level 1 (30 minutes) to start your journey 🪴](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/level-1.md)</strong>
+
+## What does "a11y" mean?
+
+Glad you asked! The word "accessibility" is often abbreviated to <strong> a11y </strong> — as in, "a", then 11 characters, and then "y". 
+
+Most folks pronounce a11y as "alley".
 
 ## You can become an a11y champion 💪 
   
