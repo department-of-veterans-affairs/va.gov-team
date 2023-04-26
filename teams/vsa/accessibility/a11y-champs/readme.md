@@ -74,6 +74,10 @@ When you're ready to start your journey, follow the curriculum below.
 
 ## Specialists
 
+**Josh Kim**, A11y Lead on Benefits
+- josh.kim@adhocteam.us, [LinkedIn, personal website, etc](https://www.linkedin.com/in/joshkimux/)
+- I can help out with anything research or theory related
+
 **Name**, Role
 - Work email, [LinkedIn, personal website, etc](replace this with your url)
 - 1 sentence on how you can support a11y champions
