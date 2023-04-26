@@ -92,6 +92,12 @@ The Sprint 0 meeting is a time to do the following:
 ## 4/26/23
 
 * Matt to run through updates to the Q2 plan
+  * Health team is still focusing on Secure Messaging, then will move to Check-in
+    * There will be some discovery before SM, but wil not pull anyone off other work for Check-in yet
+    * The Check-in work has been streatched out to take less capacity all at once
+    * Will change the scope of the Profile Fail error feature to account for capacity if needed
+  * Veteran Status Card
+    * Ryan will take the lead in Q2 but no capacity is expected from the team for this in Q2
 * [Sprint 0: Display Zoom on Android](https://docs.google.com/document/d/1zJ1efdJNzZx9KutF0i8yC0KnXk4rV8E2JrlR8Xwqar0/edit?usp=sharing)
 
 
