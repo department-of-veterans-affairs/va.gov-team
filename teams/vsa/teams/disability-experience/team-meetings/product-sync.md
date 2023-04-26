@@ -2,6 +2,20 @@
 
 ### Date: April 19 2023
 ### Topics covered:
+- Bugs/Defects priortization
+   -  Future DOC - pending data from Matt B on how many claims are being established with this issue - Matt Self
+   - ordered by priority on the idea board
+   - break these up into
+      - discovery of the scope/scale of the issue
+      - dicovery of the fix
+      - fix as priortized
+- Review road-map
+
+
+
+
+### Date: April 19 2023
+### Topics covered:
 - Review road-map
 - Collab cycle expectations - While the timelines are expectations for normal tickets, we may be able to get some things expedited for urgent work.
 - Bugs/Defects priortization
