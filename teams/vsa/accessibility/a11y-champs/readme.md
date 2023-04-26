@@ -1,7 +1,9 @@
 # Accessibility Champions Community
 Welcome to the VA accessibility champions community ✨
 
-We're a grassroots, volunteer led community focused on scaling up VA's accessibility maturity by leveling up our people (like me and you).  How? By leveling up our people and celebrating their accessibility journey, we envision a VA where...
+We're a grassroots, volunteer led community focused on scaling up VA's accessibility maturity by leveling up our people (like me and you).  
+
+How? By leveling up our people and celebrating their accessibility journey, we envision a VA where...
 - _Everyone_ is empowered to make an impact on the disabled Veteran experience
 - Teams can conduct most accessibility tasks without the full embedded support of an accessibility specialist
 - Less time is spent remediating inaccessible code, and more time is spent centering disabled Veterans in the process
