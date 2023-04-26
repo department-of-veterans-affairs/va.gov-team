@@ -51,14 +51,16 @@ Content audit and making changes on the app to create consistency and alignment 
 
 </details>
 
-4/5/23
+<details>  
+<summary>4/5/23</summary>
 
 **What that team is working on this week**
 
 - Conducting RX prod usability session with Veterans this week and next; 
+</details>
 
-
-3/8/23 
+<details>
+<summary>3/8/23</summary>
 
 **What that team is working on this week**
 
@@ -73,9 +75,10 @@ Content audit and making changes on the app to create consistency and alignment 
 
 Status of any action items from a prior week
   NA
-  
+ </details> 
 
-3/2/23
+<details>
+<summary>3/2/23</summary>
 
 **What that team is working on this week**
 
@@ -93,9 +96,10 @@ Surface any blockers or dependencies.
 
 Status of any action items from a prior week
   NA
+ </details> 
 
-
-2/22/23
+<details>
+<summary>2/22/23</summary>
 
 **What that team is working on this week**
   2/21 got approval to Increase RX rollout from 50% to 100% on 2/22
@@ -113,9 +117,11 @@ Surface any blockers or dependencies.
 
 Status of any action items from a prior week
   NA
+ </details> 
 
+<details>
 
-2/15/23
+<summary>2/15/23</summary>
 
 **What that team is working on next week**
 
@@ -131,10 +137,10 @@ Surface any blockers or dependencies.
 
 Status of any action items from a prior week
   NA
+ </details> 
 
-
-
-2/8/23
+<details>
+<summary>2/8/23</summary>
 
 **What that team is working on this week**
 
@@ -153,10 +159,10 @@ None at this time
 Status of any action items from a prior week
   NA
 
+</details>
 
-
-
-2/1/23
+<details>
+<summary>2/1/23</summary>
 
 - Terms and conditions on hold
   Working through disabling a Veteran’s account if they elect not to receive secure messages
@@ -164,3 +170,4 @@ Status of any action items from a prior week
   
   Is the 10% pharmacy users only through a specific link (e.g. test flight) not on app store? MHV would like to inform MHV Coordinators in case they get calls so curious on how users get access to use the prescriptions feature
   Chen, Angela P. (liberty It Solutions, Llc) - please send that link to Proctor, Alicia M. (GovernmentCIO) so we can include it in the notes.
+  </details>
