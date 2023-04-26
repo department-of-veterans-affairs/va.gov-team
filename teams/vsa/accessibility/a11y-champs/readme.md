@@ -9,10 +9,9 @@ We're a grassroots, volunteer led community focused on scaling up VA's accessibi
 - Less time is spent remediating inaccessible code, and more time is spent centering disabled Veterans in the process
 - We all can support one another in a community that values curiosity more than expertise
 
-This was built off a curriculum designed by Jen Strickland and Trevor Pierce, who deserve full credit in establishing the groundwork here ♥️ 
-
-> <strong>[Start your journey to becoming an accessibility champion ➡️ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/01-level.md)</strong>
-> > <strong>[Check out our champions and specialists ➡️ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/champions.md)</strong>
+## Get started
+1. <strong>[Complete level 1 (30 minutes) to start your journey ➡️ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/01-level.md)</strong>
+2. [Check out our champions and specialists ➡️ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/champions.md)
 
 ## You can become an a11y champion 💪 
   
@@ -34,11 +33,8 @@ This was built off a curriculum designed by Jen Strickland and Trevor Pierce, wh
 
 </details>
 
-## Ready to level up? 🍄 
-
-When you're ready to start your journey, follow the curriculum below.
-
-### Curriculum 🚧 (getting updated)
+## Curriculum 🚧 (getting updated)
+Follow our curriculum below
 
 #### Level 1, Community Member 👐
 - 1 hour to complete
