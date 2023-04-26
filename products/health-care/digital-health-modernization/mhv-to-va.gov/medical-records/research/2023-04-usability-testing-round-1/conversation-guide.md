@@ -119,14 +119,14 @@ Please return to Lab and test results.
 
 _Radiology_
 
-For the next part of this task, there will be x-rays on the screen. This may be triggering for some and we want to be mindful of your comfort. Are you comfortable viewing x-rays?
-_[if no]_ Thank you for letting me know. We will skip that part.
-
 - Can you describe to me what is on this page?
 - Is this how you would expect the labs and test results to be listed?
   - _[if no]_ What would be more helpful?
 
-- Let's say you had x-rays taken of your ankle and you wanted to review the results. How would you do that?
+For the next part of this task, there will be x-rays on the screen. This may be triggering for some and we want to be mindful of your comfort. Are you comfortable viewing x-rays?
+_[if no]_ Thank you for letting me know. We will skip that part.
+
+- Let's say you had x-rays taken of your ankle in March of 2022 and you wanted to review the results. How would you do that?
 
 _[when report opened]_
 - What information do you find helpful here?
