@@ -21,8 +21,10 @@ body:
     value: |
      We can offer several kinds of accessibility support based on your needs, including, but not limited to:
        - Reviewing your designer's mockups and prototypes
-       - Training your team members through workshops, assistive technology demos, and more
-       - What else?
+       - Training or upskilling your team's accessibility skills through workshops or assistive technology demos
+       - Answering complex or wicked accessibility questions
+       - Providing maintenance audits for products that haven't been reviewed in over 2 years
+       - And more!
        
 - type: textarea
   id: support-type
