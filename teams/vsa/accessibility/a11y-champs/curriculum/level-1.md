@@ -51,5 +51,5 @@ Congratulations on taking your first big step towards becoming an accessibility 
 - gotten started with your very first screen reader
 
 **Before you go**
-- [ ] If you have feedback for this course from the technical (broken links) to the educational (hard to follow curriculum) or just want to say something nice, fill out this Microsoft Form survey.
+- [ ] If you have feedback for this course from the technical (broken links) to the educational (hard to follow curriculum) or just want to say something nice, [fill out this Microsoft Form survey](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAToLe2lUM0FTUlRTRUxIMEhTVjc1RExON1JTVTk2Vi4u).
 - [ ] In #a11y-champs, let us know that you've completed level 1! We'll update our community doc to reflect that. Congratulations again on your first step 💙
