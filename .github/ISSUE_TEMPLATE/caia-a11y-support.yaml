@@ -84,7 +84,6 @@ body:
       FE engineer:
       Product/team Slack channel:
       ...
-    render: bash
   validations:
     required: true
 
