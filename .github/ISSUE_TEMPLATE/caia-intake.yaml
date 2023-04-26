@@ -6,55 +6,50 @@ assignees: [coforma-terry, rlhecht]
 body:
 - type: markdown
   attributes:
-    value: "## Before we begin, is this work going through the collaboration cycle now?"
-- type: markdown
-  attributes:
-    value: |
-      If so, [use this ticket instead](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Sitewide+Content%2C+RLHecht&labels=sitewide+content%2C+sitewide+content-product+support&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E)
-      Otherwise, if this is a request for help outside of the collaboration cycle, continue on ✨ 
+    value: "## Support details"
 
-- type: markdown
+- type: checkboxes
+  id: type
   attributes:
-    value: "## What can we help you with?"
-- type: markdown
-  attributes:
-    value: |
-     We can offer several kinds of accessibility support based on your needs, including, but not limited to:
-       - Reviewing your designer's mockups and prototypes
-       - Training or upskilling your team's accessibility skills through workshops or assistive technology demos
-       - Answering complex or wicked accessibility questions
-       - Providing maintenance audits for products that haven't been reviewed in over 2 years
-       - And more!
-       
+    label: What does your team need support for? 
+    description: Check all that apply.
+    options:
+      - label: Launching one or more unauthenticated pages, online forms, apps, or tools on VA.gov
+      - label: Making revisions to one or more existing VA.gov pages
+      - label: Something else
+  validations:
+    required: true
+
 - type: textarea
-  id: support-type
+  id: describe
   attributes:
-    label: What do you need support with?
-    description: The more you can describe your need, the better we can take action to help y'all out!
+    label: Describe what your team needs support with
+    description: This can be a short description, but the more we know, the better we can serve y'all
     value: |
       ...
   validations:
-    required: true       
+    required: true
+
+
+- type: checkboxes
+  id: incremental
+  attributes:
+    label: Will this new product be released incrementally?
+    description: For example, 25% of users initially. If you check yes, we'll reach out to discuss details about the content in the react widget.
+    options:
+      - label: Yes, we'll be launching incrementally
+      - label: No, we won't
+  validations:
+    required: true
     
 - type: input
-  id: timeframe
+  id: release
   attributes:
-    label: When do you need this support by?
+    label: When do you expect to launch your product to 100% of users?
+    description: Please provide an estimated date so our team can create other relevant tickets.
   validations:
     required: true
-    
-- type: dropdown
-  id: urgency
-  attributes:
-    label: How urgent is this request?
-    description: This will help us prioritize our work
-    options:
-      - Not urgent, we can use this help when CAIA has the time and resources
-      - A little urgent, we need this support before the date we provided above
-      - Very urgent, this is blocking other critical work and is needed ASAP
-  validations:
-    required: true
-    
+
 - type: textarea
   id: artifacts
   attributes:
@@ -64,9 +59,45 @@ body:
       - [Product outline](Insert URL here between the parenthesis)
       - [User flows](Insert URL here between the parenthesis)
       - [Prototype or mockups](Insert URL here between the parenthesis)
+      - [Research plan](Insert URL here between the parenthesis)
+      - [Research conversation guide](Insert URL here between the parenthesis)
       - [Epics/issue that may be helpful](Insert URL here between the parenthesis)
-      - Anything else y'all think is important to share! Make sure to use the github link convention so it's accessible. Please avoid pasting direct URLS.
       ...
+  validations:
+    required: true
+
+- type: checkboxes
+  id: collab-cycle
+  attributes:
+    label: Will this be going through the collaboration cycle?
+    options:
+      - label: Yes, it will be going through the collaboration cycle
+      - label: No, it will not
+  validations:
+    required: true
+
+- type: textarea
+  id: deadline
+  attributes:
+    label: When does this work need to be done?
+    value: |
+      - Estimated launch date:
+      - Estimated staging review date:
+      - Content, Accessibility, and IA work needed by:
+      ...
+  validations:
+    required: true
+
+- type: checkboxes
+  id: collab-cycle
+  attributes:
+    label: Will this be going through the collaboration cycle?
+    options:
+      - label: Yes, benefit content office hours (Thursdays, 3:00 p.m. to 3:45 p.m. ET)
+      - label: Yes, health content office hours (Thursdays, 11:00 a.m. to 11:30 a.m. ET)
+      - label: Yes, unauth office hours (Mondays, 11:00 a.m. to 11:30 a.m. ET)
+      - label: No, but I'd like to schedule time to talk about this request
+      - label: No, let's work asynchronously and meet if needed
   validations:
     required: true
 
@@ -124,6 +155,6 @@ body:
 - type: markdown
   attributes:
     value: |
-      - [ ] [Your team]: Post a link to this ticket in the #accessibility-help Slack channel and tag Terry Nichols.
-      - [ ] [CAIA]: Inform your team on when and how we can support this work.
-      - [ ] [Your team]: Post support, fill out this optional feedback form to let us know how we can support y'all better into the future.
+      - Once you’ve submitted this ticket, please post a link to this issue in the #sitewide-content-ia Slack channel and tag Randi Hecht.
+      - If you also need engineering support from the Public Websites team, https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Public+Websites%2C+Sitewide+content&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+sitewide-content%2C+needs-grooming&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E.
+      - If you need a page/URL redirected, a URL changed or a vanity URL set up, https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=ia&template=redirect-request.md&title=Redirect+Request.
