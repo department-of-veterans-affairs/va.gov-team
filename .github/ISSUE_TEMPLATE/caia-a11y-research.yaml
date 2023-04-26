@@ -71,7 +71,8 @@ body:
     description: Make sure your research's timeframe occurs when we have time to support y'all
     options:
       - label: Yes
-        required: true
+  validations:
+    required: true
     
 - type: input
   id: timeframe
