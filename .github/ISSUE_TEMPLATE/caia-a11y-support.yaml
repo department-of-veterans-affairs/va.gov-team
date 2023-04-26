@@ -6,6 +6,15 @@ assignees: [coforma-terry]
 body:
 - type: markdown
   attributes:
+    value: "## Before we begin, is this work going through the collaboration cycle now?"
+- type: markdown
+  attributes:
+    value: |
+      If so, https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Sitewide+Content%2C+RLHecht&labels=sitewide+content%2C+sitewide+content-product+support&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E ❤️ 
+      Otherwise, if this is a request for help outside of the collaboration cycle, continue on ✨ 
+
+- type: markdown
+  attributes:
     value: "## Your team's information"
 - type: textarea
   id: team
