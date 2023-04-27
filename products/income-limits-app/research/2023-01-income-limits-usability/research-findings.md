@@ -113,17 +113,17 @@ Participants were asked about the following:
 
 1. All participants understood the purpose of the app and found it easy to use.
 
+1. Participants missed that the app results are not the final answer.
+
+1. Participants didn't know about deductions from income.
+
+1. Participants had some confusion with terminology used in the questions, especially the word "dependents".
+
+1. Participants had difficulty understanding the benefit descriptions for the income ranges.
+
 1. There were a few navigation issues within the app.
 
-1. Participants had some confusion with terminology used in the questions, including the word "dependents".
-
-1. Participants used the salary numbers provided by the moderator to decide which income limit accordion to open on the results page, and most didn't mention their household income or deductions.
-
-1. Participants had difficulty understanding some of the benefit descriptions under the income ranges.
-
-1. After seeing the benefits information on the results page, participants had varying interpretations of it and what to do next.
-
-1. The landing page was very long to read on a phone, and participants found it difficult to find one of the two _Check our current income limits_ links.
+1. The landing page was very long to read on mobile, and participants found it difficult to find one of the two _Check our current income limits_ links.
 
 
 ## Details of Findings 
@@ -170,7 +170,7 @@ Participants had different interpretations for the **dependents** question. Some
 
 - RECOMMENDATION: Clarify the meaning of "dependents" in this question per income taxes or VA rules, and add details to the question so people will know how to answer. According to a VA subject-matter expert (in an email dated 4/17/2023), dependents include *your spouse*, unmarried children under 18 (or 18-23 if attending school full-time or disabled prior to reaching age 18), and parents if in the Veteran's direct care and whose net worth and income are below a fixed limit.
 
-### 4. Participants used the salary numbers provided by the moderator to decide which income limit accordion to open on the results page, and most didn't mention their household income or deductions
+### 3. Participants didn't know about deductions from income
 
 Most participants (7 of 8) **didn't open the _How to estimate your income for this tool_ accordion**, which describes household income and deductions that may apply. Two of them later opened it during the past limits task.
 3 participants said they expected to use the AGI (Adjusted Gross Income) number from last year's income taxes, assuming household income but no additional deductions. 
@@ -194,7 +194,7 @@ Participants found some of the text to be confusing and/or ambiguous, which made
   - Prescriptions
   - Travel pay (if applicable)
 
-### 6. After seeing the benefits information on the results page, participants had varying interpretations of it and what to do next
+### 2. Participants missed that the app results are not the final answer
 We have data from only 6 of 8 participants because the other 2 participants didn't get to that task (due to arriving to the session late or dropping off the internet during the session). 
 - 4 of 6 participants thought that the **benefits were not certain because of the phrase "may be eligible"** above each of the lists of benefits. None of these participants had opened the _How to estimate your income for this tool_ accordion, so they were guessing based on the content on the page. 
 
