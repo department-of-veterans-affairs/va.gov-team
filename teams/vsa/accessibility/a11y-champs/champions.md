@@ -21,8 +21,8 @@
 - josh.kim@adhocteam.us, [LinkedIn, personal website, etc](https://www.linkedin.com/in/joshkimux/)
 - Can answer questions on qualitative research, disability justice, and trauma-informed design
 
-**Liz Lantz**, Your role and team
-- Work email, [LinkedIn, personal website, etc](replace this with your url)
+**Liz Lantz**, Designer on Authenticated Experience
+- liz.lantz@adhocteam.us, [LinkedIn, personal website, etc](replace this with your url)
 - 1 sentence on what you can help champions out with
 
 **Sara Smith**, 508 Accessibility Specialist
