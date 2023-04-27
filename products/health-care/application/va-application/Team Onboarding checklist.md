@@ -21,7 +21,9 @@ Reference the [VA Platform Tools site](https://depo-platform-documentation.scrol
      - [ ] feedback-backchannel
      - [ ] (PMs) team-of-teams-slide-collection
      - [ ] (Design.research) design
-     - [ ] 
+     - [ ] (Design.research) research-ops
+     - [ ] (Design.research) platform-design-system
+     - [ ] (Design.research) sitewide-content-ia
 
 
 - [ ] Design/Research
@@ -33,14 +35,15 @@ Reference the [VA Platform Tools site](https://depo-platform-documentation.scrol
 	- [ ] Add to research repo
 	     - In Slack, #research-ops channel, tag Shane Strassberg
 	- [ ] Content office hours
-          - Thursdays at 8am PT / 11am ET Health Office Hours
-          - Every other Friday 11am PT / 2pm ET 1010 Working Content Meeting
-     - [ ] Make sure you have access to the OCTO-DE research calendar
+		- Thursdays at 8am PT / 11am ET Health Office Hours
+		- Every other Friday 11am PT / 2pm ET 1010 Working Content Meeting
+     - [ ] Access to the OCTO-DE research calendar
 
-Additional Design Resources    
-    - [ ] Review the [design system](https://design.va.gov/) site
-    - [ ] Review the [design](https://depo-platform-documentation.scrollhelp.site/research-design/design-at-va) and [research](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va) practices on VA.gov Platform site
-    - [ ] Spend some time reviewing the [Veteran journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) and [personas](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf)
+Additional Design Resources
+
+- [ ] VA.gov [design system](https://design.va.gov/) site
+- [ ] Platform site for [design](https://depo-platform-documentation.scrollhelp.site/research-design/design-at-va) and [research](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va) practices
+- [ ] [Veteran journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) and [personas](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf)
  
 
 
