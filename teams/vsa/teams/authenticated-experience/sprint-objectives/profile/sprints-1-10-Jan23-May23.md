@@ -453,17 +453,25 @@ Sprint 9 Epic [#56506](https://github.com/department-of-veterans-affairs/va.gov-
 **BX Note: The following dev work would need to be completed in order to run QA tasks in Sprint 10.**
 
 BE / FE
-**BX: What dev work or integration testing is left in order to run QA tasks this sprint?**
-- [ ] Finish FE initial adapter rollout work (1 pt left) - https://github.com/department-of-veterans-affairs/va.gov-team/issues/56569
+- Integration testing between FE and BE (Staging) #54771 (4 or less points)
 
-**BX: If the above dev work is completed and we are ready to run QA as a team, we need to create tickets for QA tasks for the sprint and should have all hands on deck (All Profile team: Product, Delivery, Design, Engineering) to complete this effort.
-- [ ] Create QA tasks tickets (BX: talk to team to figure this out, and refer to [PM ticket #54870](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/54870) that houses the QA spreadsheet Samara created before she left. Tom H. and Adam W. are both currently updating this spreadsheet in Sprint 9 to make sure we have all the correct test use cases captured in the there before we run QA as a whole team in Sprint 10.]
+**BX: Ask FE/BE if there's any additional dev work or integration testing left in order to run QA tasks this sprint?**
+
+**BX: If dev work is completed and we are ready to run QA as a team, we need to create tickets for QA tasks for the sprint and should have all hands on deck (All Profile team: Product, Delivery, Design, Engineering) to complete this effort.**
+- Create QA tasks tickets for individual team members (BX: talk to team to figure this out, and refer to [PM ticket #54870](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/54870) that houses the QA spreadsheet Samara created before she left. Tom H. and Adam W. are both currently updating this spreadsheet in Sprint 9 to make sure we have all the correct test use cases captured in the there before we run QA as a whole team in Sprint 10.]
 
 ### Notification preferences
 
+**BX: The following are Samara's notes before she left. Since we've had to move some work from Sprints 7-9, looks like these bullet points should be moved to Sprint 11. Please check with the team to confirm.**
 - Assuming technical discovery happened last sprint, PM to scope out work for both default send indicator and adding email as a channel. Please account for required collab cycle milestones.
 - FE/BE work dependent on technical discovery for both default send indicator and adding email as a channel.
 - Design: When new mobile phone number flow is launched in production, update documentation (ticket already exists).
+
+FE
+
+- Rollout, Cleanup of edit mobile phone page #53549 - 3 pts (pushed out to Sp 10)
+- Technical discovery on adding email as a channel #53547 - 7 pts
+
 
 ### Logged-in IA/nav research
 
@@ -488,6 +496,12 @@ This assumes QA is done, and any fixes from QA have been implemented. If not, pl
 **BE**
 
 - Assist with privacy and security review submission
+
+### Notification Preferences
+**BX: Moved from Sprint 10 work since the team was not yet ready to do these then. Check with team if ready for these in Sprint 11.**
+- Assuming technical discovery happened last sprint, PM to scope out work for both default send indicator and adding email as a channel. Please account for required collab cycle milestones.
+- FE/BE work dependent on technical discovery for both default send indicator and adding email as a channel.
+- Design: When new mobile phone number flow is launched in production, update documentation (ticket already exists).
 
 ## Sprint XX
 
