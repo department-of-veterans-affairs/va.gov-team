@@ -12,6 +12,7 @@ To remedy this, we conducted 4 research activities to help us clarify exactly wh
 3. [Qualitative data review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/qualitative-data-findings.md)
 4. [User interview findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md)
 
+## Key points
 This document summarizes the collective insights from those activities, as they apply to our original [research outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/README.md):
 
 * Understand what motivates people to login, when in a flow they login, and where (eg. homepage, etc).
@@ -19,6 +20,8 @@ This document summarizes the collective insights from those activities, as they 
 * Understand what peoples’ expectations are for navigating to tools and tasks when they are logged in to VA.gov.
 * If applicable, extrapolate learnings to logged out flows as well instead of thinking of wayfinding as two distinct or competing experiences (unauth vs. auth).
 * Determine if there is a difference in what people do logged in vs. logged out on VA.gov (not what they *can* do, but what they expect/want to do).
+
+As a result, we’ve created recommendations to increase personalization on VA.gov and improve task wayfinding, including replacing the homepage with My VA for logged-in users.
 
 ## Answers to research questions
 ### What motivates people to log in? When and where do they log in during their flow?
