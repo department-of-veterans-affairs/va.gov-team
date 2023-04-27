@@ -9,7 +9,9 @@ Agenda
 - Demo Topic(s)
   -  Digital Decision Letters - Chris Alexander
 - Slides - [Sprint 69 VA Mobile App Demo Slides.pptx](https://github.com/department-of-veterans-affairs/va.gov-team/files/11347057/Sprint.69.VA.Mobile.App.Demo.Slides.pptx)
-- Video - TBD
+- Video - Digital Decision Letters - https://user-images.githubusercontent.com/50680147/234982620-11ef76f6-cd87-4aae-b9f1-ecd500fb7d75.mp4
+
+
 
 
 ---  
