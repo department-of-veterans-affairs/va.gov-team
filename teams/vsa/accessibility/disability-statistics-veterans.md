@@ -129,7 +129,9 @@ At a time when the rate of suicide among veterans and service members remains al
 
 ========================================
 
-## Updates July 16, 2020 – Military Sexual Trauma (MST)
+## Updates April 27, 2023 – Military Sexual Trauma (MST)
+
+* [April 27, 2023] In a sample of 352 post-9/11 women Veterans who used VHA reproductive health care in Fiscal Year (FY) 2018 and participated in a cross-sectional survey, approximately 68.7% screened positive for MST, including 44.9% who reported experiencing military sexual assault. Notably, 30.8% reported MST on the survey, but had a negative MST screen for their most recent MST screen in their VHA medical record. [Source, Monteith, et al](https://pubmed.ncbi.nlm.nih.gov/36695157/)
 
 * [Mar 30, 2020] Sexual violence remains pervasive. In 2018, 20,500 service members were sexually assaulted or raped including 13,000 women and 7,500 men. The rate of sexual assault and rape jumped by almost 40% from 2016 to 2018, and for women veterans, the rate increased by over 50% to the highest level since 2006. [Source, Hill and Ponton](https://www.hillandponton.com/facts-on-military-sexual-trauma-and-statistics/#:~:text=Sexual%20violence%20remains%20pervasive.,the%20highest%20level%20since%202006)
 
