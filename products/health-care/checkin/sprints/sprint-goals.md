@@ -24,6 +24,8 @@ ________________________________________________________________________________
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
        - **[Implement Text Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55874)**
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [BE] vets-api: Update configs to store template info](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55879)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Edit text messages based on VA Notify feedback](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/57562)
+                - This one was added after planning based on IACA feedback
         - Prepare for research study
             -  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56613)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56556)
