@@ -459,6 +459,9 @@ BE
 **FE**
 - #57344 - Deprecating React components / migrate to Web Comps (2pts)
 
+**BE**
+- Remove Email change toggle #54082 (2 pts)
+
 ### Logged-in IA/nav research
 
 **Design - Liz**
