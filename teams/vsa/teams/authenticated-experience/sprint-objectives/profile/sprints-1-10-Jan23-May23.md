@@ -10,7 +10,7 @@
 - [Sprint 8](#sprint-8-412---425)
 - [Sprint 9](#sprint-9-426---59)
 - [Sprint 10](#sprint-10-510---523)
-- [Sprint 11](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/profile/sprints-1-10-Jan23-May23.md#sprint-11))
+- [Sprint 11](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/profile/sprints-1-10-Jan23-May23.md#sprint-11)
 
 ## Sprint 1 (1/4 - 1/17)
 
