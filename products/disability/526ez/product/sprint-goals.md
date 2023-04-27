@@ -3,29 +3,27 @@
 Period - 04/26/2023 - 05/09/2023
 ### Sprint goals TBD
 - **Expedited**
-   - [ ] Implement content and design changes for adding Self-Assessment Part A to BDD 526 claims
-   - [ ] Bug - BDD flow asking for past service exit date 
+   - [ ] Implement content and design changes for adding Self-Assessment Part A to BDD 526 claims - pending content review 
+   - [ ] Bug - BDD flow asking for past service exit date - Discovery for the scale of the issue and cause/fix proposal
 - **Non-negotiable**
    - eVSS to Lighthouse Migration 
         - rated disailities endpoint
-            - Get our Veteran Verification API credentials pushed to the higher environment and test
+            - [ ] Get our Veteran Verification API credentials pushed to the higher environment and test
+            - [ ] Integration testing with LH in dev, sandbox and staging environments for rateddisabilities
+            - [ ] Swap out evss call at Form526RapidReadyForDecisionConcern#disabilities_not_service_connected
         - Intent to File endpoint 
             - [ ] Continue migration - Implement calls for GET and POST
         - BRD
-            - [ ] Start migration - Abstract calls for ------
+            - [ ] Continue discovery for PCIU Address Service 
 - **Features**
-   - Error messaging/validation 
-      - [ ] Complete Discovery
-   - 526ez current with paper form
-      - [ ] Design and Content changes for items not requiring research/implement collab cycle feedback
-   - Landing page changes
-      - [ ] Review of existing content research
-      - [ ] Design and Content changes - start
-      - Content and Design for landing page (Is this the form I need?)
+   - Landing page changes and 526ez current with paper form
+      - [ ] Design and Content changes - Intro page
+      - [ ] Accessible prototype for the Intro page
+      - [ ] Research plan and screener for landing pages
    - [ ] Analytics
-      - [ ] Understanding 
-         - [ ] Number of sessions 
-         - [ ] 
+      - [ ] Understanding calculations behind current DOMO metrics
+      - [ ] Survey Feedback Data Analysis - Part 2
+ 
 ## Sprint 3
 Period - 04/12/2023 - 04/25/2023
 ### Sprint goals
