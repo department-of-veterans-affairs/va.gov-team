@@ -28,7 +28,20 @@ Reference the [VA Platform Tools site](https://depo-platform-documentation.scrol
      - [ ] Add to Mural - OCTO PO to submit [DOTS request](https://login.max.gov/cas/login?service=https%3A%2F%2Fvajira.max.gov%2Fservicedesk%2Fcustomer%2Fportal%2F1%2Fcreate%2F18)
      - [ ] Add to Sketch
           - To access Sketch for Teams, contact Kevin Hoffman in the #design Slack channel. 
-     - Add to 
+     - [ ] Add to weekly Design, Research + Content Syncs
+	     - To access, find link/ask in the #design Slack channel. 
+	- [ ] Add to research repo
+	     - In Slack, #research-ops channel, tag Shane Strassberg
+	- [ ] Content office hours
+          - Thursdays at 8am PT / 11am ET Health Office Hours
+          - Every other Friday 11am PT / 2pm ET 1010 Working Content Meeting
+     - [ ] Make sure you have access to the OCTO-DE research calendar
+
+Additional Design Resources    
+    - [ ] Review the [design system](https://design.va.gov/) site
+    - [ ] Review the [design](https://depo-platform-documentation.scrollhelp.site/research-design/design-at-va) and [research](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va) practices on VA.gov Platform site
+    - [ ] Spend some time reviewing the [Veteran journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) and [personas](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf)
+ 
 
 
 
