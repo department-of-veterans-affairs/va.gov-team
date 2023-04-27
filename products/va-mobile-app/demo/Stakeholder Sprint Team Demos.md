@@ -8,7 +8,7 @@ Timing: Every 2 Thursdays 2:35 - 3:15pm
 Agenda
 - Demo Topic(s)
   -  Digital Decision Letters - Chris Alexander
-- Slides - TBD
+- Slides - [Sprint 69 VA Mobile App Demo Slides.pptx](https://github.com/department-of-veterans-affairs/va.gov-team/files/11347057/Sprint.69.VA.Mobile.App.Demo.Slides.pptx)
 - Video - TBD
 
 
@@ -19,6 +19,7 @@ Agenda
 **Demo Sprint 64 3/30/23**
 Agenda
 - Demo Topic(s)
+
   -  Preferred Name and Gender - Brea and Therese
   -  Reddit Screen Scraper - Jason Conigliari, Chika Adibemma, Andrew Herzberg
   -  UI Automation - Rachael Bontrager 
