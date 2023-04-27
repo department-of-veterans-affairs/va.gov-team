@@ -1,0 +1,289 @@
+# Landing Page Research Findings 
+
+
+**Office of the CTO - Digital Experience (OCTO-DE), MHV to VA.gov**
+
+Date: 04/24/2023
+
+Jonathan Nelson [jonathan.nelson@adhocteam.us], Robyn Singleton [robyn.singleton@va.gov], Cara Frissell [cara.frissell@adhocteam.us] 
+TBD_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+<br>
+
+
+**Jump to:**
+
+
+[Hypotheses and conclusions](#hypotheses-and-conclusions)
+
+
+[Key findings](#key-findings)
+
+
+[Recommendations](#recommendations)
+
+
+[Who we talked to](#who-we-talked-to)
+
+
+[Further research needed](#further-research-needed)
+
+
+<br>
+
+### OCTO Objectives
+This research supports the following OCTO objectives: 
+1. Veterans can manage their health services online
+2. Veterans and their families can find a single, authoritative source of information
+3. Logged-in users have a personalized experience, with relevant and time-saving features
+
+### Veteran Journey
+This research fits into these points of a Veteran's Journey:
+- Starting up
+- Taking care of myself
+- Retiring
+- Aging
+
+
+## Research Goals
+The purpose of this research is to assess users' reactions to and expectations of the new landing page for MHV on VA.gov, whether the current wayfinding tactics are effective at guiding users through the page, how users expect to be able to update health-related preferences, and how users expect timely statuses and notifications to be communicated to them. 
+
+### Outcome
+This research will inform updates to the MHV on VA.gov landing page, currently in [staging](https://staging.va.gov/my-health/) to be launched on March 16, 2023. 
+
+
+## Research Questions
+1. What are users reactions to and expectations from the new landing page? What do they understand this new landing page to be and how do they understand it in relation to VA.gov and the current version of MyHealtheVet? 
+
+
+2. Are users able to navigate to the new landing page from an unauthenticated state, navigate and use the tools available there, and ultimately achieve their goals using the current wayfinding tactics? 
+
+
+3. How do users expect to update their health-specific preferences in the new experience? 
+
+
+## Methodology 
+
+### Interviews
+We will conduct remote interviews with Zoom. These interviews will include questions about users ability to navigate to and within the landing page, their reactions to and understandings of the landing page, and preferences and expectations related to health-specific preferences and notifications. The interviews will consist of a combination of tasks and direct questions. 
+
+### Location
+Data collection will be remote and conducted using Zoom. 
+
+<br>
+
+## Hypotheses and Conclusions
+
+_Hypothesis 1:_ Participants will sign in and then go to the "My Health" tab next to "My VA" in order to get to the new MHV on VA.gov landing page. 
+
+False: While most participants signed in, said they would sign in, or attempted to sign in (14 of 17), participants struggled (only 1 participant on desktop utilized the "My Health" tab) to navigate to the MHV on VA.gov landing page. 
+
+_Hypthesis 2:_ Participants will understand the landing page as a central location to perform common health-related tasks, like sending a secure message, accessing their health records, managing their prescriptions, or booking a healthcare appointment. 
+
+True: Participants recognized the landing page as a central place to manage their health. 
+
+<br>
+
+## Key Findings
+1. Participants understood the landing page to be a place to manage their health and at first glance recognized how the landing page could be used to accomplish broad health tasks. 
+2. Overall, participants viewed the new landing page as an updated My HealtheVet Classic, which they conflated with VA.gov.  
+3. Participants were often confused by _Download medical records (Blue Button)_ and _Health history_ and did not clearly distinguish as mutually exclusive of each other. 
+4. Starting from the unauthenticated state of the updated VA.gov landing page, participants expected that they would need to sign in in order to send a message to their doctor and the majority of participants were able to recognize and articulate how they would start that process.
+5. Most participants struggled to navigate from the updated VA.gov landing page to the My HealtheVet on VA.gov landing page. 
+6. Participants relied on familiar terminology and design standards when completing certain tasks (i.e., submit for travel reimbursement, send a message) but did not readily understand VA bespoke terms (i.e., Community Care).
+7. Participants looked to update their health-specific “preferences” under the Appointments or Medications sections of the landing page. 
+
+## Details of Findings 
+
+**1. Participants understood the landing page to be a place to manage their health and at first glance recognized how the landing page could be used to accomplish broad health tasks.** 
+
+All participants recognized the landing page as a place to manage their health. 
+
+> _“You want to make an appointment, talk to your primary care physician, refill your medication, message. It's a lot more simple than the prior page was.” - P19_
+
+> _“It’s an informational page that lets people know where they could go to manage their care and it also shows exactly what you can manage…” - P3_
+
+**2. Overall, participants viewed the new landing page as an updated My HealtheVet classic, which they conflated with VA.gov.**
+
+The majority of participants (14 of 17 being current users of My HealtheVet classic) see the new landing page as an updated My HealtheVet classic. The participants interpreted the new landing page as an update of their known experience [My HealtheVet classic] rather than a new, separate experience. 
+
+> _“This is like, here’s My HealtheVet. Usually when I come onto this website, just looking for a few things anyway, looking at how to refill prescriptions, or see when appointments are…I like the fact that stuff is right on top. ” - P6_
+
+> _“It's like a ‘Welcome to My HealtheVet’ but you don't have to search as much…There’s not a lot of changes. It’s better laid out and it’s stuff that we need more. It just seems like somebody heard us” - P4_
+
+> _“...the type is bigger, that is good for a person my age....There’s a lot of worthwhile information on this page, and it’s much larger, it’s much easier to read.” - P9_
+
+
+**3. Participants were often confused by **Download medical records (Blue Button)** and **Health history** and did not clearly distinguish as mutually exclusive of each other.**
+Participants often perceived Health History as a “snapshot” of their health whereas Download medical records (Blue Button) as having their complete medical records. When asked, participants were uncertain and not confident where they would navigate to access notes from doctors, vaccine records, etc and saw most health information existing in both Health History and Download medical records (Blue Button).
+
+> _“Expect [Medical records] to have the entire medical record downloaded. That's how it reads to me. That would be a whole heck of a lot of medical records.” - P12_
+
+> _“I thought that would've been the same thing. Or, maybe bullet points [Health history], with Blue Button being all the data.” - P4_
+
+**4. Starting from the unauthenticated state of the updated VA.gov landing page, most participants expected that they would need to sign in in order to send a message to their doctor and the majority of participants were able to recognize and articulate how they would start that process.**
+
+16 of the 17 participants attempted to sign in when tasked to send a message to their doctor. 
+> 
+> _“I couldn’t send a message without signing in…” - P19_
+> 
+> _“And I’m not signed in so it’s not going to recognize me as wanting to talk to a particular doctor…” - P28_
+> 
+> _“I would sign first, then go to My Healthevet or I forgot the exact name...then send a secure message… I do that quite a bit actually.” - P22_
+> 
+**Note:** Study participants ran into multiple errors logging in or feature flag issues. Roughly 1 in 4 participants had to be sent the prototype.  
+
+**5. Most participants struggled to navigate from the updated VA.gov landing page to the My HealtheVet on VA.gov landing page.**
+
+6 of 8 participants on mobile devices had difficulty navigating to the My HealtheVet on VA.gov landing page. Only two participants (who are current My HealtheVet users) navigated to Profile > My Health. 
+- 2 participants navigated to Menu > VA Benefits and Health Care > Health Care > Send secure message to our health team (which would have accomplished task)
+- 1 participant went to “Appointments” and then attempted to search “secure messaging” - eventually had to be sent prototype 
+- 1 Participant attempted to search “contact my doctor” from landing page and had to be directed to My HealtheVet landing page
+- 1 participant had difficulty knowing if was signed in and had to be directed to My Health (screen reader user) 
+- 1 participant navigated to Health care link on VA.gov landing page but had to be directed to My HealtheVet landing page
+
+6 of 8 participants on desktop devices had difficulty in navigating My HealtheVet on VA.gov landing page. 
+- 2 participants had sign in/flipper issues and were sent prototype 
+- 2 participants navigated to My VA (one said they would contact doctor) 
+- 1 participant navigated to Explore VA benefits and health care from Health care link on VA.gov landing page 
+- 1 participant navigated to Contact us and Schedule and manage health appointments (to be prompted to sign in) 
+
+**Note:** Table participant was sent proptype previous to first task
+
+**6. Participants relied on familiar terminology and design standards when completing certain tasks (i.e., submit for travel reimbursement, send a message) but did not readily understand VA bespoke terms (i.e., Community Care).**
+
+Participants were confident (13 of 13 participants) in how to submit for travel reimbursement, but skeptical based on past experience with the VA. 
+
+> _“Ooooh ‘file a claim for travel reimbursement’ I like that being there!...The VA owes me a lot of money because I keep getting denied [but] cannot talk to anyone …. so I’ve stopped submitting - P 26_
+
+Participants associated certain terms related to messaging a doctor, which helped them locate the secure messaging functionality
+
+>_[scanning new landing page] “...normally it would be at the top [of the page] but let’s see here… I would go to healthcare… schedule an appointment… I would click on the box where it says Healthcare where it says ‘send a secure message” - P19_
+
+Participants who already knew what Community Care (5 participants) were drawn to it, while those who were not already familiar with the service Community Care (8 participants) did not recognize the term and instead sought another way to communicate with the VA team. 
+
+>_“Maybe, uh, compose a message?” [Interviewer: So you would ask your doctor?] Yeah - P25_
+
+>_"I would probably go here under My VA health benefits… maybe Community Care or My HealtheVet community…I think I would find resources here [bottom of screen]." - P10_
+
+**7. Participants looked to update their health-specific “preferences” under the Appointments or Medications sections of the landing page.** 
+
+10 out of the 15 participants tasked with setting up appointment reminders looked under the Appointment section of the landing page. 
+
+>_“You'd go under schedule and manage your appointments.” - P19_ 
+
+>_“In my experience, if you're in their system, supplied with email address, you just get automatic notification once a VA scheduled appt has been made.” - P18_
+
+All 10 participants asked to track their prescription refills navigated to the Medications section of the landing page
+
+>_“Would click on ‘Track prescription delivery’...Huh, that's nice” [regarding locating tracking number]. - P12_ 
+
+
+## Recommendations
+
+- Surface helpful content and utilize design standards that enables users to  distinguish  between **Download medical records (Blue Button)** and **Health history**   
+- Conduct further research around the navigation from VA.gov landing page to the My HealtheVet on VA.gov landing page 
+- Continue to utilize plain language and VA content standards that help Veterans identify and understand benefits, services, and tools on VA.gov (e.g. Community Care) 
+- Work with team to further research preferences and design an experience around application and notification preferences
+
+## Next Steps
+
+- Review with product team and align on recommendations 
+- Share findings with stakeholders and other teams working on VA.gov 
+
+
+## Further research needed
+- Wayfinding research is needed 
+
+
+## Appendix
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research/2023-03-research-plan.md)
+
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research/2023-03-conversation-guide.md)
+
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research/interview-notes)
+
+## Tools used for Synthesis
+[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1679331976881/fe7070ac639539b5ee4d08f1626b757311e742a8?sender=u24af215c7d9bf806b8545488)  
+
+## Pages and applications used
+
+[Protoype](https://cdpn.io/pen/debug/VwGVjZG) 
+
+[VA.gov landing page](https://www.va.gov/new-home-page/)  
+
+My HealtheVet on VA.gov landing page (can be seen in production behind feature flipper) 
+
+## Who we talked to 
+We talked to **17 participants.**
+
+Gender:
+* Male: 10 
+* Female: 7 
+
+Devices used during study: 
+* Desktop: 8
+* Tablet: 1 (iPad)
+* Mobile: 8 
+* Assistive Technology: 1(screen reader), 2 text magnifier  
+
+
+Age:
+* 35-44: 1
+* 45-54: 4
+* 55-64: 4
+* 65-74: 3
+* 75-84: 5
+
+
+Education:
+* Some college (no degree): 3
+* Associate's degree, trade certificate, or vocational training: 2
+* Bachelor's degree: 4
+* Master's degree: 8
+
+
+Race:
+* White: 10 
+* Black: 3
+* Hispanic: 2
+* Prefer not to answer: 2
+Disability and Assistive Technology:
+* Cognitive disability: 2
+* AT intermediate: 3 
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 1 (VoiceOver)
+* Magnification/Zoom: 2 (Mobile, tablet) 
+
+## Underserved groups we haven’t talked to 
+This research may not include the perspectives of the following underserved Veteran groups:
+
+
+## Recruitment criteria
+**All participants:**
+- Must have a VA.gov account and be able to sign on during the session
+- Must use either login.gov or ID.me to sign in 
+- Must provide an email address associated with their VA.gov account
+- Must currently receive VA healthcare benefits 
+- Must NOT HAVE EVER received healthcare at any of the following Cerner facilities: 
+	1. Manns-Grandstaff Department of Veterans Affairs Medical Center in Spokane, WA
+	2. Jonathan M. Wainwright Memorial VA Medical Center in Walla Walla, WA
+	3. Chalmers P. Wylie Veterans Outpatient Clinic in Columbus, OH
+	4. Roseburg VA Medical Center in Roseburg, OR
+	5. White City VA Medical Center in White City, OR
+
+
+**Some participants:**
+- Must have a MyHealtheVet account and have signed into it in the past 12 months (recruit 16 participants total)
+- Must require screenreader software to use computers and mobile devices (recruit 12 participants total)
+- Must be willing to join from a mobile device (recruit 12 in total)
+- Must be over the age of 55 (recruit 8 participants in total)
+- Must have a cognitive disability (recruit 8 in total)
+- Must identify as other than Caucasian (recruit 6 in total)
+- Must identify as a gender other than male (recruit 6 in total)
+
+
+_[insert screenshot of completed recruitment checker]_
+![VA-recruitment-checker](link - add image to github folder and link here with .png)
+
+
