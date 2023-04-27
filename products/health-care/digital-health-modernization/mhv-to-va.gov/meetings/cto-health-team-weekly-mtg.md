@@ -4,6 +4,38 @@
 ## 2023-04-27 Team Meeting
 
 ### Attendees 
+- Lauren Alexanderson
+	- 
+- Patrick Bateman
+	- 
+- Coulton Bunney
+	- 
+- Daniel Cloud
+	- 
+- Robyn Singleton
+	- Medical Records usability test has been submitted to the research repo
+	- Anticipated data collection 5/9 - 5/16 
+- Kristen McConnel
+	- 
+- Martha Wilkes
+	- 
+- Mikki Northuis
+	- 
+- Jenny Wang
+	- 
+- Ryan Thurlwell
+	- 
+- Stephen Barrs
+	- 
+- Sara Smith	
+	- 	
+- Kay Lawyer
+	- 
+- Leila Rassi
+	- 
+- Florence McCafferty
+- Jonathan Nelson
+	-	 
 
 
 ### Updates
@@ -11,9 +43,10 @@
 ## Discussion 
 
 ### Team Structure
+- 
 
 ### Notifications and Preferences Scope/Expectations
-
+- 
 
 
 
