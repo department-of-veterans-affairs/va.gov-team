@@ -440,8 +440,8 @@ BE
 
 **Design - Liz**
 
-- Finish consolidated report on all research efforts
-- Talk about next steps with Mikki and Chante (this could be anything from more work in this area to putting this on hold until Samara is back from leave)
+- Finish consolidated report on all research efforts #57090 (8 pts)
+- Talk about next steps with Mikki and Chante (this could be anything from more work in this area to putting this on hold until Samara is back from leave) #57091 (3 pts) 
 
 ## Sprint 10 (5/10 - 5/23)
 
@@ -454,15 +454,25 @@ BE
 ~- **IF READY** Launch to 10% and monitor for a week~
 ~- Launch to 25% pending no issues at 10% and monitor for a week. If there are issues at 10%, resolve those before increasing % for phased launch.~
 
-**BX Note: The following dev work would need to be completed in order to run QA tasks in Sprint 10.**
+**Is backend/frontend work done at this point? If so, we are ready to move on to QA.**
+Things that need to be true for us to move on to QA:
 
-BE / FE
-- Integration testing between FE and BE (Staging) #54771 (4 or less points)
+- All BE work is done.
+- All FE work is done.
+    - **BX: Only ticket left that I know of is: Integration testing between FE and BE (Staging) #54771 (4 or less points)**
+- Tom has validated that Lighthouse is connecting downstream to staging user data accordingly, so we're able to validate things on staging through QA.
 
-**BX: Ask FE/BE if there's any additional dev work or integration testing left in order to run QA tasks this sprint?**
+If anything is not done, move QA back a sprint.
 
-**BX: If dev work is completed and we are ready to run QA as a team, we need to create tickets for QA tasks for the sprint and should have all hands on deck (All Profile team: Product, Delivery, Design, Engineering) to complete this effort.**
-- Create QA tasks tickets for individual team members (BX: talk to team to figure this out, and refer to [PM ticket #54870](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/54870) that houses the QA spreadsheet Samara created before she left. Tom H. and Adam W. are both currently updating this spreadsheet in Sprint 9 to make sure we have all the correct test use cases captured in the there before we run QA as a whole team in Sprint 10.]
+**Whole Team**
+
+- Run QA & create bug tickets
+  - Everyone on Profile team should be part of this (Product/Delivery/Design/Engineering).
+- BX note: talk to team to figure this out, and refer to [PM ticket #54870](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/54870) that houses the QA spreadsheet Samara created before she left. Tom H. and Adam W. are both currently updating this spreadsheet in Sprint 9 to make sure we have all the correct test use cases captured in the there before we run QA as a whole team in Sprint 10.]
+
+**BE -- Tom**
+
+- If time, start on fixes from QA
 
 ### Notification preferences
 
