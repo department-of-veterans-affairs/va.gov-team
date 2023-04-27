@@ -40,9 +40,9 @@ Reference the [VA Platform Tools site](https://depo-platform-documentation.scrol
      - [ ] Access to the OCTO-DE research calendar
 
 Additional Design Resources
-	- [ ] VA.gov [design system](https://design.va.gov/) site
-	- [ ] Platform site for [design](https://depo-platform-documentation.scrollhelp.site/research-design/design-at-va) and [research](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va) practices
-	- [ ] [Veteran journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) and [personas](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf)
+- [ ] VA.gov [design system](https://design.va.gov/) site
+- [ ] Platform site for [design](https://depo-platform-documentation.scrollhelp.site/research-design/design-at-va) and [research](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va) practices
+- [ ] [Veteran journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) and [personas](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf)
  
 
 
