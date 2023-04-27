@@ -3,7 +3,7 @@
 
 
 ## Overview
-The Financial Status Report (FSR) is currently a paper form that  must be printed out, filled out, signed and mailed to the Debt Management Center (DMC) by the veteran in order to start the process for request for debt resolution; debt compromise, waver or monthly offsets/payments. This product will allow the Veteran to fill out the form on-line. A companion required document is a letter that the veteran is asked to write to justify why they should be granted a waiver, compromise or monthly payments.  
+The Financial Status Report (FSR) is currently a paper form that  must be printed out, filled out, signed and mailed to the Debt Management Center (DMC) by the veteran in order to start the process for request for debt resolution; debt compromise, waiver or monthly offsets/payments. This product will allow the Veteran to fill out the form on-line. A companion required document is a letter that the veteran is asked to write to justify why they should be granted a waiver, compromise or monthly payments.  
 
 As we develop this product, the global covid-19 pandemic has led to a suspension of debt collection from 3/2020 to 12/2020 during which time collection of debt was put on hold by the DMC, while historical data can be used as a guide, such widespread suspension makes it difficult to model the impact and associated  KPIs.
 
