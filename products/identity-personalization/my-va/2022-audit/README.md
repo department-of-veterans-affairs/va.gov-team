@@ -148,7 +148,7 @@ To mitigate each of the problems above, we plan to do the following:
 
 ### Before
 
-![My VA with benefits payments and debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/My%20VA_April%202022.jpeg)
+![My VA - Desktop - Before Audit](https://user-images.githubusercontent.com/97965610/234959987-23752f05-c073-46b2-9ab1-ad096abd4077.jpg)
 
 ### After
 April 2023
