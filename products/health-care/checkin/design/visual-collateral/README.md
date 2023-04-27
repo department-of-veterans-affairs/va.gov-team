@@ -4,18 +4,21 @@
 
 ### Latest Release (PDF)
 - Release Notes
-  - 4/25/2023 - Removed QR Code and related first footer content (The content is updated to "After you check in, we'll come get you"). <br><br>
-    - 8.5" X 11" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11326859/8.5x11-lowvision-noqrcode-fin.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11326863/8.5x11-lowvision-noqrcode-philippines-fin.pdf)
+  - 4/27/2023 - Iterated the first footer content<br><br>
+  - 4/25/2023 - Removed QR Code and related first footer content (The content is updated to "After you check in, we'll come get you") <br><br>
+    - 8.5" X 11" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11346555/8.5x11-lowvision-noqrcode-fin.pdf)
+ Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11346556/8.5x11-lowvision-noqrcode-philippines-fin.pdf)
 
 
 
-    - 11" x 17" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11326871/11x17-lowvision-noqrcode-fin.pdf)
- Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11326875/11x17-lowvision-noqrcode-philippines-fin.pdf)
+    - 11" x 17" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11346557/11x17-lowvision-noqrcode-fin.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11346558/11x17-lowvision-noqrcode-philippines-fin.pdf)
 
 
 
-    - 24" x 36" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11326882/24x36-lowvision-noqrcode-fin.pdf)
- Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11326889/24x36-lowvision-noqrcode-philippines-fin.pdf)
+
+    - 24" x 36" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11346560/24x36-lowvision-noqrcode-fin.pdf)
+ Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11346561/24x36-lowvision-noqrcode-philippines-fin.pdf)
+
  <br><br>
 
  
