@@ -1,5 +1,24 @@
-Content Moderation Roles determine how a Drupal CMS user can move content into various different states in the editorial workflow. The transitions between states are the important things to understand.
+Content Moderation Roles determine how a Drupal CMS user can move content into various different states in the editorial workflow.
+## Content Moderation Roles
 
+Listed in order from lowest permissions to highest:
+* Content Editor
+* Content Reviewer
+* Content Publisher 
+* Content Admin
+
+## Diagram of Editorial Workflow States & Transitions (simple)
+```mermaid
+flowchart TD
+    A -->|Edit| A
+    A(Draft) -->|Review| B(In review)
+    B -->|Approve| C(Approved)
+    C -->|Publish| D(Published)
+    D -->|Archive| E(Archived)
+    E -->|Restore from Archive|D
+```
+
+## Workflow Transitions
 * Approve 
   * Move content from In review state 
   * to Approved state
@@ -20,18 +39,7 @@ Content Moderation Roles determine how a Drupal CMS user can move content into v
   * to In review state
 
 
-Editorial Workflow States & Transitions (simple)
-```mermaid
-flowchart TD
-    A -->|Edit| A
-    A(Draft) -->|Review| B(In review)
-    B -->|Approve| C(Approved)
-    C -->|Publish| D(Published)
-    D -->|Archive| E(Archived)
-    E -->|Restore from Archive|D
-```
-
-Editorial Workflow States & Transitions (full)
+## Editorial Workflow States & Transitions (full)
 ```mermaid
 flowchart TD
     A -->|Edit| A
@@ -52,6 +60,8 @@ flowchart TD
     B -->|Archive| E
     C -->|Archive| E
  ```
+ 
+## Content Moderation Roles - Workflow Transition Permissions 
  
 * Content Editor
   * Edit
