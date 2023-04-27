@@ -1,5 +1,5 @@
 # Logged-in IA and Nav Comprehensive Research Summary
-Last updated: April 26, 2023
+Last updated: April 27, 2023
 
 Liz Lantz, Authenticated Experience
 
@@ -54,27 +54,35 @@ Since the research was primarily focused on logged-in flows, we’ll need to lea
 
 ## Problems we’ve identified with the logged-in experience
 ### Logged-in users are getting inconsistent levels of personalization on VA.gov, depending on where they start and how familiar they are with the website.
-We know that when people login to VA.gov from the homepage, they’re redirected to My VA, and seeing a personalized dashboard right away.  
+We know that when people login to VA.gov from the homepage, they’re redirected to My VA, and seeing a personalized dashboard right away.  However, if people log in from another place on the site, or start their journey on a different VA property, they miss out on that personalization and may not see it at all during their session.  It’s possible for someone to log into the website and still have a minimally personalized experience on VA.gov.
 
-In this round of user interviews, we observed multiple sessions where people started on My HealtheVet or eBenefits, and didn’t see My VA until they were directed there by the moderator.  People who were unfamiliar with the site also had a less personalized experienced overall. We observed them returning to the current homepage by clicking on the VA logo in the header, or a breadcrumb, and bypassing their personalized dashboard.
+### It’s hard to get to tasks when they’re not obviously linked from the homepage, My VA, or the mega menu.
+Our latest round of user interviews confirms what we’ve seen in previous research studies - it’s hard for people to get to their tasks when the only links are on benefit hub content pages, like viewing dependents.  This is particularly true when tasks could be related to multiple benefit categories and/or a person is not familiar with IA of our site. 
 
 ### The logged-in experience doesn’t address the needs of different user types, or the needs of users at different points in their journey with VA.
-We’re currently offering the same experience to all people,  regardless of their experience or relationship with the VA.  This creates challenges we’ll need to consider, including:
+We’re currently offering the same experience to all people, regardless of their experience or relationship with the VA.  This creates challenges we’ll need to consider, including:
 - how to make it easier for people unfamiliar with the site architecture to quickly find what they need, especially if it’s not obviously linked ([read below](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md#its-hard-to-find-personalized-content-when-its-not-obviously-linked-from-the-homepage-my-va-or-the-mega-menu))
 - how to give caregivers, delegates, VSOs who receive their own VA benefits access to their personalized information, as well as the information for the people they’re helping
 - how to strike a balance between personalized and generic content that works for newly transitioned Veterans as well as it does for people who have an established relationship with VA
 
-### It’s hard to find personalized content when it’s not obviously linked from the homepage, My VA, or the mega menu.
-
-
-### My VA, and possibly profile, are missing some personalized content people expect to find there.
-
 ### Our current login process is confusing and frustrating.
+This is a known problem the identity team is already working on, but it’s worth restating since it’s a critical part of the logged-in experience. A variety of problems came up in our [user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#having-to-authenticate-across-multiple-sites-created-a-confusing-depersonalized-experience), [qualitative data review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/qualitative-data-findings.md#when-in-a-particular-flow-do-people-run-into-trouble-with-finding-information), and previous research, including:
+- people being confused about which login option to choose
+- challenges with particular log in credentials “never working” for people
+- confusion caused by links taking people back and forth between VA websites
+- hesitation to move forward in a flow or click on navigation elements because of the possibility of having to repeat the log in process
 
+Pages related to logging in, being redirected and automatically logged out make up a large portion of the top 25 pages in our analytics reports as well.
 
+## High-level recommendations
+1. Replace the homepage with My VA for logged-in users, to increase personalization, reduce redundancy, and give people more direct access to their VA tasks.
+2. Explore how we can improve access to personalized content throughout the benefit hubs, navigation, My VA, and profile. This could include simplification of the navigation, and adding high-priority items (such as benefit letters) to My VA and/or profile.
+3. Increase our understanding of user needs at different parts of their journey with VA to inform design and IA enhancements to improve their VA.gov experience. This might make more sense to do when the identity team is closer to supporting non-Veteran user roles.
+4. Continue work in progress to improve the login experience.
 
-## Recommendations
-
-## Outstanding questions
-- What is the balance between the my va and my health?
-- 
+## Appendix
+- [Research outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/README.md)
+- [Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/analytics-review-findings.md)
+- [Qualitative data review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/qualitative-data-findings.md)
+- [Previous research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/research-review-findings.md)
+- [User interview findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md)
