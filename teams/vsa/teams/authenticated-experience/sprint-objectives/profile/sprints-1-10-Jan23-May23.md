@@ -450,6 +450,15 @@ Sprint 9 Epic [#56506](https://github.com/department-of-veterans-affairs/va.gov-
 ~- **IF READY** Launch to 10% and monitor for a week~
 ~- Launch to 25% pending no issues at 10% and monitor for a week. If there are issues at 10%, resolve those before increasing % for phased launch.~
 
+**BX Note: The following dev work would need to be completed in order to run QA tasks in Sprint 10.**
+
+BE / FE
+**BX: What dev work or integration testing is left in order to run QA tasks this sprint?**
+- [ ] Finish FE initial adapter rollout work (1 pt left) - https://github.com/department-of-veterans-affairs/va.gov-team/issues/56569
+
+**BX: If the above dev work is completed and we are ready to run QA as a team, we need to create tickets for QA tasks for the sprint and should have all hands on deck (All Profile team: Product, Delivery, Design, Engineering) to complete this effort.
+- [ ] Create QA tasks tickets (BX: talk to team to figure this out, and refer to [PM ticket #54870](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/54870) that houses the QA spreadsheet Samara created before she left. Tom H. and Adam W. are both currently updating this spreadsheet in Sprint 9 to make sure we have all the correct test use cases captured in the there before we run QA as a whole team in Sprint 10.]
+
 ### Notification preferences
 
 - Assuming technical discovery happened last sprint, PM to scope out work for both default send indicator and adding email as a channel. Please account for required collab cycle milestones.
