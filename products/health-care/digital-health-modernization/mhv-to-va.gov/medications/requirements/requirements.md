@@ -7,6 +7,9 @@
 | 4/26/23        | Coulton Bunney   |Created document                                                                                                     |
 |                |                  |                                                                                                                     |
 
+## Overview
+This document lays out the requirements for the MVP version of Medications on VA.gov we plan to ship to Phase 0. We expect additional functionality to be iteratively added to the tool over time during the phased rollout. 
+
 ## Use cases
 1. As a user, I can see a list of all the medications I have on file with the VA. This includes both active medications, and inactive/historical medications. 
 2. As a user, I understand which of my medications are fillable, refillable, which need renewed, and which cannot be renewed. 
@@ -16,7 +19,7 @@
 6. As a user, I understand what actions I need to take to renew active medications that have no refills left. 
 7. As a user, I understand what actions I need to take to get a new prescription for inactive medications. 
 8. As a user, I am notified when a submitted fill or refill request is unable to filled or refilled, and undestand how to resolve the issue. 
-9. As a user, I can view key data about a prescription, as outlined in VHA Directive 1164. 
+9. As a user, I can view key data about a prescription, some of which is outlined in VHA Directive 1164. 
    * Name of drug
    * Strength/dosage of drug
    * Instructions/directions for use
@@ -28,8 +31,10 @@
      * Number of refills left and quantity for each fill
      * Date prescription will expire
 11. As a user, I can see a timeline of actions for each prescription.
-   * Date and time for each fill request
-   * Date and time for each refill request
-   * Date and time for each time a refill has been dispensed
-   * Date and time when 
+    * Date and time for each fill request
+    * Date and time for each refill request
+    * Date and time for each time a fill or refill has been dispensed
+    * Date and time each time a prescription has been shipped or picked up
+
+
 ## Requirements
