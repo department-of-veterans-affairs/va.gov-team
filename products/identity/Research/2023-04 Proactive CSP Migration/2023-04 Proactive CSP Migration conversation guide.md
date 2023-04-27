@@ -28,6 +28,7 @@
    - Bottom tool bar > Screen Share "^" up arrow > Advanced Sharing Options > ho can share > All Participants
    - Bottom tool bar > Participants window > More > Make sure Play join/leave sound is OFF (should be by default)
       - Also make sure that waiting room is on (should be by default)
+   - Change Zoom name from "facilitator" to your name
 - Open standalone browser tab to [the modal prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979) and save link in slack so ready to paste
 - Do Not Disturb ON so no notifications from your devices
    - Mute your Slack notifications
