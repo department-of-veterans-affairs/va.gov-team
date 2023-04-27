@@ -141,11 +141,15 @@ Participants often perceived Health History as a “snapshot” of their health 
 - 1 participant had difficulty knowing if was signed in and had to be directed to My Health (screen reader user) 
 - 1 participant navigated to Health care link on VA.gov landing page but had to be directed to My HealtheVet landing page
 
+<img width="956" alt="Screenshot 2023-04-27 at 5 25 42 PM" src="https://user-images.githubusercontent.com/58444931/235004195-97d24b5b-8a2f-4ad1-908a-496bb37c7d81.png">
+
 6 of 8 participants on desktop devices had difficulty in navigating My HealtheVet on VA.gov landing page. 
 - 2 participants had sign in/flipper issues and were sent prototype 
 - 2 participants navigated to My VA (one said they would contact doctor) 
 - 1 participant navigated to Explore VA benefits and health care from Health care link on VA.gov landing page 
 - 1 participant navigated to Contact us and Schedule and manage health appointments (to be prompted to sign in) 
+
+![Screenshot 2023-04-27 at 12 07 43 PM](https://user-images.githubusercontent.com/58444931/235002713-3536bc01-c1a1-4210-9a32-4a9e6530f30e.png)
 
 **Note:** Table participant was sent proptype previous to first task
 
