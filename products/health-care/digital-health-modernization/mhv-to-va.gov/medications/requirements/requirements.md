@@ -11,7 +11,7 @@
 This document lays out the requirements for the MVP version of Medications on VA.gov we plan to ship to Phase 0. We expect additional functionality to be iteratively added to the tool over time during the phased rollout. 
 
 ## MVP Use cases
-1. As a user, I can see a list of all the medications I have on file with the VA. This includes both active medications and inactive/historical medications. 
+1. As a user, I can see a list of all the medications I have on file with the VA. This includes both active medications and inactive/historical medications. For the MVP, this does not include medications that are only on file at Cerner-based VA facilities.  
 2. As a user, I understand which of my medications are fillable, refillable, which need renewed, and which cannot be renewed. 
 3. As a user, I can submit fill requests for medications that are currently active: parked (and therefore have fills left), understand whether they are in the process of being filled, and when the medication has been dispensed. 
 4. As a user, I can submit refill requests for medications that are currently active and have refills left, understand whether they are in the process of being refilled, and when the medication has been dispensed. 
