@@ -423,10 +423,15 @@ Sprint 9 Epic [#56506](https://github.com/department-of-veterans-affairs/va.gov-
 
 **This assumes Tom is mostly off of direct deposit work. If that is backed up and still going, please prioritize it accordingly**
 
-- Default send technical discovery
+- Default send technical discovery **(BX: See paragraph below for Tom's answers)**
   - What is required to consume default opt-in indicator?
   - While the UI may not change, does this require any FE changes in terms of how FE connects to BE, or is this entirely BE work? 
   - Confirm whether default send work needs to happen before Adam can start on FE updates based on Liz's designs.
+
+_There doesn't seem to be any BE work required - the default opt-in indicator is already present in the responses from vets-api.   Here are the [discovery notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/default-send/july-2022-notes.md).  But the BE documentation does not include this indicator._ - Tom
+
+BE
+- Communication preferences | Document default opt-in flag (1 pt) - #57421
 
 ### General
 **Design**
