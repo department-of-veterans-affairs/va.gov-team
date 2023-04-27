@@ -208,20 +208,7 @@ For our first question, I just need you to answer. You don't need to go and find
   - Could there be another way to print what you need without running a report of your full medical records?
 
   _[help the participant navigate back to About VA medical records and assist them in finding the record if necessary]_
-  
-  
-[Care summaries and notes/Progress note]
-_[on desktop]_
-On the left there is a category called Vitals.
-- What type of information would you expect to find there?
-
--[on mobile]_
-Please select the menu in In this section.
-There is a category near the bottom called Vitals.
-- What type of information would you expect to find there?
-
-Please return to About VA medical records.
-
+    
 [About VA medical records]
 
 - What if you were filling out some paperwork and needed to include the date you were first diagnosed with high blood pressure? How would you find that?
@@ -232,6 +219,7 @@ Please return to the Vitals page.
 - Is this how you would expect the Vitals to be listed?
   - _[if no]_ What would be more helpful?
 - Which of these do you feel is most important for managing your health?
+- What other types of information would you expect to find in Vitals?
 
 You know you had your flu shot last fall, but you can't remember the date.
 - How would you find it?
