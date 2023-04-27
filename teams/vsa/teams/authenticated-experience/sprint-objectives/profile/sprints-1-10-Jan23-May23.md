@@ -412,11 +412,31 @@ Sprint 9 Epic [#56506](https://github.com/department-of-veterans-affairs/va.gov-
 
 ~- Assist with privacy and security review submission~
 
+**BX: Move QA tasks to Sprint 10**
+
+**BE**
+- Carry-over: Validate - Config and test metrics and error logging (1 pt left) #56706
+
+**BE/FE**
+- Carry-over: In Progress - Figure out how to locally test outlier use cases (1 pt left) #54879
+
+**If not ready to run QA tasks, what dev work or integration testing is left?**
+
+ - Finish FE initial adapter rollout work (1 pt left) - #56569
+ - FE lighthouse api revision (3 pts) - #57407
+ - BE updates and refactorings (4 pts) - #57359
+ - BE request Lighthouse Production access (2 pts) - #57357
+ - BE determine client IDs required for Lighthouse APIs (discovery) (2 pts) - #57361
+ - BE document Lighthouse testing issues (2 pts) - #57419
+ 
 ### Notification preferences
 
-**FE - Adam**
+**PM** (w/ help of team's input)
 
-- Currently blocked - Updated notif. pref. so that feature flag can filter by channel (email/text) #55657 (1 pt left)
+- Carry-over: Perform action items from Collab Cycle KO ticket #57409 (refer to Recommended Touch Points section of the ticket)
+
+**FE - Adam**
+- Carry-over: Currently blocked - Updated notif. pref. so that feature flag can filter by channel (email/text) #55657 (1 pt left)
 
 **BE - Tom**
 
@@ -436,12 +456,19 @@ BE
 **Design**
 - #48952 - Research Recommendations | Update Documentation on Mobile Number Flow (should be unblocked by Sprint 9)
 
+**FE**
+- #57344 - Deprecating React components / migrate to Web Comps (2pts)
+
 ### Logged-in IA/nav research
 
 **Design - Liz**
-
+- Carry-over: Validate (waiting for feedback from Product Lead) - Complete research synthesis (3 pts left) #56722
 - Finish consolidated report on all research efforts #57090 (8 pts)
 - Talk about next steps with Mikki and Chante (this could be anything from more work in this area to putting this on hold until Samara is back from leave) #57091 (3 pts) 
+
+### Unplanned Work
+For this sprint -- allot 2-3 points for unplanned work (if needed)
+
 
 ## Sprint 10 (5/10 - 5/23)
 
