@@ -165,7 +165,7 @@ Jun 1, 2023       | 8:00 am - 9:00 am; 10:00 - 12:30 pm; 1:00 - 8:00 pm
 - Research guide writing and task development: Anne Costello
 - Participant recruiting & screening: Perigean
 - Project point of contact: Anne Costello
-- Participant(s) for pilot test: JB Walters, Melinda LaTona, Steve LaTona
+- Participant(s) for pilot test: JB Walters,TBD
 - Accessibility specialist:N/A
 - Note-takers: Lexi Wunder (alexia.wunder@bylight.com)
 - Observers: Coulton Bunney (Coulton.bunney@va.gov), Robyn Singleton (robyn.singleton@va.gov)
