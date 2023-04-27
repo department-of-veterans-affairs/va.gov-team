@@ -1,18 +1,27 @@
-Contacts
-
-Ad Hoc 
- FE
- BE - Jayson
- UX - Lauren
- Content - Misty
- Research - TBD
- Product - Adam
- QA - TBD 
-
-
-External Team 
- Bryan Riley - Delivery Manager
- Leila Rassi - Product Manager
- Alex (Oleksii Morgun) - Lead Developer
+Ad Hoc Contacts
+Deptartment| Name 
+------|------
+ FE |
+ BE | Jayson
+ UX | Lauren
+ Content | Misty
+ Research | TBD
+ Product | Adam
+ QA  | TBD 
 
 
+Threading API
+
+Name | Team / Role 
+-------------|--------------
+ Bryan Riley | Delivery Manager OCTO
+ Leila Rassi | Product Manager OCTO
+ Alex (Oleksii Morgun) | Lead Developer
+
+
+Re-Engineered APIs
+
+Team / Role  | Name
+------------- | -----------------
+Delivery Manager & Scrum Master | Christy Gales
+VCHIO | Patricia Henry
