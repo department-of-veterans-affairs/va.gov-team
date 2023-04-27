@@ -7,7 +7,6 @@ Timing: Every 2 Thursdays 2:35 - 3:15pm
 **Demo Sprint 69 4/27/23** 
 Agenda
 - Demo Topic(s)
-  -  New QA Test Environement - Jon Bindbeutel
   -  Digital Decision Letters - Chris Alexander
 - Slides - TBD
 - Video - TBD
