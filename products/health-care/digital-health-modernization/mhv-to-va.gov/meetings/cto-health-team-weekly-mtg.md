@@ -3,6 +3,22 @@
 
 ## 2023-04-06 Team Meeting
 
+### Attendees 
+
+
+### Updates
+
+## Discussion 
+
+### Team Structure
+
+### Notifications and Preferences Scope/Expectations
+
+
+
+
+## 2023-04-06 Team Meeting
+
 ### Attendees
 
 - Lauren Alexanderson
@@ -20,16 +36,8 @@
 - Kay Lawyer
 - Leila Rassi
 
-### New Team Member Introductions & Team Introductions
-
-- Carlos Felix - Technical Architect
-- Cara Frissell - Research Lead
-
-
 ### Updates
 
-- Cara
-   - Onboarding
 - Lauren
 	- Disruptive behavior flag
 	- RX flag
