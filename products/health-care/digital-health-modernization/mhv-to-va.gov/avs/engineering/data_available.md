@@ -56,7 +56,7 @@
 
 ### Vitals (list)
 #### Fields
-- Type
+- Type (label)
 - Value
 - Qualifiers
 - Date
@@ -110,7 +110,7 @@
 As of the date of the encounter
 #### Fields
 - Heading (Discontinued, New, Changed and Unchanged)
-   - Medication name + optional Sig/label
+   - Medication name + optional Sig/label (example: `Zocor i po qhs` means Your instructions are to take one pill, by mouth, at bedtime.)
 
 
 ## Ongoing Care
@@ -207,7 +207,7 @@ As of the date of the encounter
 - Remarks
 - Release date & time
 - Rx number
-- Previous order numner
+- Previous order number
 - Forward order number
 - Cancel date
 - Last dispensed date
