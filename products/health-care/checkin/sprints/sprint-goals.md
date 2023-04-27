@@ -8,18 +8,20 @@ ________________________________________________________________________________
 
 ## 5/3/2023 - 5/16/2023 ---------------- FUTURE / TENTATIVE ---------------
 #### SPRINT GOALS
-- **GOAL: Assume Control of CHIP & LoROTA APIs**
 - **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
-- **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
+     - **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)** 
+     - **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**    
+     - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)** 
+     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)** 
+     - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address tech & design debt** 
 
 #### PLANNED RELEASES 
 - None
 
 #### SPRINT TICKETS
-- **GOAL: Assume Control of CHIP & LoROTA APIs**
-    - ???
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
        - **[Implement Text Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55874)**
@@ -39,9 +41,7 @@ ________________________________________________________________________________
     - **Sub Goal: [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Monitor GA & make decision on releasing    
     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create Content for 45-Minute Check-in Reminder Text](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53569)
-   - **Sub Goal: [PCI: Support Other Appointment Modalities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56550)**
-       - TBD        
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create Content for 45-Minute Check-in Reminder Text](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53569)      
    - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57336)
