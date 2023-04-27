@@ -79,6 +79,7 @@
 - Dependent Information
 - Annual Income
 - Deductible Expenses
+
 *This represents how many people abandoned applications in the middle of the fields that will be skipped during the short form*
 | KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
