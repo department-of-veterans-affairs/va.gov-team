@@ -5,50 +5,67 @@
 
 ### Attendees 
 - Lauren Alexanderson
-	- 
+	- API integrations and Pharmacy
 - Patrick Bateman
-	- 
+	- MHV on VA.gov landing page bumped up to 10%
 - Coulton Bunney
-	- 
+	- Working with Kay on initial medications requirements for Phase 0
+	- Usability research plan for med records, running 2 sessions, one with a prototype so can test with assistive tech users
 - Daniel Cloud
-	- Test
+	- Looking at lower environment access/what does the call center need in order to train people on new landing page
 - Robyn Singleton
 	- Medical Records usability test has been submitted to the research repo
 	- Anticipated data collection 5/9 - 5/16 
-- Kristen McConnel
-	- 
 - Martha Wilkes
-	- 
+	- Providing support where needed
 - Mikki Northuis
-	- 
+	- Cerner migration - working with appointments and unified check in
+	- Wayfinding research meeting with Robyn, hoping to get started soon
+	- Thinking of the general transition experience (communications, user flows, messaging placement, etc)
 - Jenny Wang
-	- 
-- Ryan Thurlwell
-	- 
+	- Finalizing findings/recommendations for medications, will share with Lauren and then the broader audience
 - Stephen Barrs
-	- 
+	- Architecture design around accessible PDFs
+	- Check in app, aligning directory structure 
 - Sara Smith	
-	- 	
+	- Secure messaging accessibility	
 - Kay Lawyer
-	- 
+	- Same as Coulton and Jenny, working to get appointments app through phase 1
 - Leila Rassi
-	- 
+	- Getting ready for the Secure Messaging launch
 - Florence McCafferty
 - Jonathan Nelson
-	-	 
-
+	- Contnuing with research synthesis, adding demographics to the report, will share out	 
 
 ### Updates
 
 ## Discussion 
 
+### Meeting Gut Check
+- Meeting initially started when the group was much smaller - the team size has grown and does thismeeting still meet the group's needs?
+	- Consensus was this meetiing would be better utilized for cross team collaboration give the number of products in flight and all in different phases
+- Changes to meeting
+	- Soliticit topics in slack at the beginning of the week. Lynne to consolidate/review (topics still needed?)/prioritize topics and send out agenda on Slack day of meeting
+	- Elminiate the stand up portion of the meeting
 ### Team Structure
-- 
+- Carlos, Angela, futre IA resource will work across several teams involved with the patient portal, looking across workstreams 
+- Carlos, Marci, OCTO engineers collaborate on Cerner integrations
+- Angela: In partnership with Leila and Martha, establish as an accessibility provider across all patient portal teams. It’s important for teams to think about accessibility first, build it in from the beginning.
+- IA will work closely with Mikki as the apps move over to MHV on VA.gov
+- Rest of team - Portal home experience and vonnecting the rest to VA.gov. Includes notifications, preferences, how do we build pathways in from the health hub, header, etc and when we do that.
 
 ### Notifications and Preferences Scope/Expectations
-- 
-
-
+- MHV on VA.gov team will need to work with Kristin, Kay and My Va team on notifications and preferences
+- Patrick and Ryan have done some initial thinking on how to do N/P, but the team will beed to define the notifications and app level N/P experience. 
+- Notifications and Preferences are 2 separate things with their own scope of work
+- Preferences spreadsheet - Kay will set up cross team meeting to review https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/General/Preferences%20and%20Notifications/MHV%20and%20New%20Profile%20and%20Preferences.xlsx?d=wd9e64dc034eb48d7ae03abb11b731c78&csf=1&web=1&e=4koCHd&isSPOFile=1
+- Team is empowered to reach out or scheudle discussions with other teams as needed. This includes the va profile or va.gov profile team.
+- Research question for the team to answer: How do preferences fit into VA.gov? Where do preferences live - va.gov, MHV on va.gov, application level?
+- Question to answer: When preference set at patient portal level (MHV on va.gov), will they persist to other systems, and if so, how does it get there? where does data live, who do we need to work wih to expose in other systems where staff veterans need to see it.
+- VA profile = backend service, the data available to pull from, the database
+- Va.gov profile = the front end, the place on VA.gov where users manage stuff about themselves
+- MHV preferences include profile information (ex. Name) but also application specific information (ex. I prefer to see...) - need to decide during research and design if profile/preference will be designed as it is in MHV classic.
+	- Potential to distinguish application prederences (how I want the app towork) from notification prefences (what I want to be notified about) from profile (user information)
 
 ## 2023-04-06 Team Meeting
 
