@@ -18,7 +18,7 @@
 ## Specialists
 
 **Josh Kim**, A11y Lead on Benefits
-- josh.kim@adhocteam.us, [LinkedIn, personal website, etc](https://www.linkedin.com/in/joshkimux/)
+- josh.kim@adhocteam.us, [LinkedIn](https://www.linkedin.com/in/joshkimux/)
 - Can answer questions on qualitative research, disability justice, and trauma-informed design
 
 **Liz Lantz**, Designer on Authenticated Experience
