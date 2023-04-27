@@ -463,9 +463,9 @@ BE / FE
 ### Notification preferences
 
 **BX: The following are Samara's notes before she left. Since we've had to move some work from Sprints 7-9, looks like these bullet points should be moved to Sprint 11. Please check with the team to confirm.**
-- Assuming technical discovery happened last sprint, PM to scope out work for both default send indicator and adding email as a channel. Please account for required collab cycle milestones.
-- FE/BE work dependent on technical discovery for both default send indicator and adding email as a channel.
-- Design: When new mobile phone number flow is launched in production, update documentation (ticket already exists).
+~- Assuming technical discovery happened last sprint, PM to scope out work for both default send indicator and adding email as a channel. Please account for required collab cycle milestones.~
+~- FE/BE work dependent on technical discovery for both default send indicator and adding email as a channel.~
+~- Design: When new mobile phone number flow is launched in production, update documentation (ticket already exists).~
 
 FE
 
