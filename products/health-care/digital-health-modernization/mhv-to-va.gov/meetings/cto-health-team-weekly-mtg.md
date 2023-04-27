@@ -37,8 +37,6 @@
 - Jonathan Nelson
 	- Contnuing with research synthesis, adding demographics to the report, will share out	 
 
-### Updates
-
 ## Discussion 
 
 ### Meeting Gut Check
