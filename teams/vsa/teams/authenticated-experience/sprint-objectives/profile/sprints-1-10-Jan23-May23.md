@@ -416,8 +416,7 @@ Sprint 9 Epic [#56506](https://github.com/department-of-veterans-affairs/va.gov-
 
 **FE - Adam**
 
-- Rollout, Cleanup of edit mobile phone page #53549
-- Technical discovery on adding email as a channel
+- Currently blocked - Updated notif. pref. so that feature flag can filter by channel (email/text) #55657 (1 pt left)
 
 **BE - Tom**
 
