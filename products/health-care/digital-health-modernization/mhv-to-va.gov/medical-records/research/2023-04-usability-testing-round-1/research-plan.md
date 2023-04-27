@@ -79,6 +79,8 @@ We will partner with Perigean to recruit Veterans.
 
 We will schedule a total of 24 Veterans for an expected completion rate of 18 usability tests.
 
+For this study, we are explicitly not recruiting assistive technology users due to the limitations of our prototype. In one or two months, when the front end environment is available, we will conduct AT specific usability tests.
+
 **Primary criteria (must-haves)**
 
 1. (18) Veterans, (6) Veteran's caregivers
