@@ -31,7 +31,7 @@ Pending availability and willingness. I would only book 30 minutes with folks si
 5. Mikki Northuis - IA/Nav lead
 6. Chante Lantos-Swett - Account experience lead; Also leads customer support work
 7. Martha Wilkes - Accessibility lead
-8. Ryan Thurlwell - Design lead
+8. Matthew Dingee - Design lead
 
 ### Questions
 
