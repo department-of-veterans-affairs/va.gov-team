@@ -21,7 +21,7 @@ This document summarizes the collective insights from those activities, as they 
 * If applicable, extrapolate learnings to logged out flows as well instead of thinking of wayfinding as two distinct or competing experiences (unauth vs. auth).
 * Determine if there is a difference in what people do logged in vs. logged out on VA.gov (not what they *can* do, but what they expect/want to do).
 
-As a result, we’ve created recommendations to increase personalization on VA.gov and improve task wayfinding, including replacing the homepage with My VA for logged-in users.
+As a result, we’ve established [high-level recommendations](#high-level-recommendations) to increase personalization on VA.gov and improve task wayfinding, including replacing the homepage with My VA for logged-in users.
 
 ## Answers to research questions
 ### What motivates people to log in? When and where do they log in during their flow?
