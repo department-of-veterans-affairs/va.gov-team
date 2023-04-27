@@ -48,15 +48,14 @@ We also know that people find it helpful, and have an increased sense of persona
 	- My VA ranks within the top 10 pages for logged-in sessions, even without the redirect parameter appended to the URL ([analytics report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/analytics-review-findings.md#what-are-the-25-most-popular-pages-visited-while-signed-in))
 
 ### Is there a difference between what people do logged-in vs logged out?
-
 The qualitative research included in this effort didn’t specifically ask users about a logged out state. Based on analytics, we can infer when people are logged out, they’re in learning or research mode. The facility locator, content pages about the PACT Act and COVID-19, and search are in the top pages.  When logged-in they’re focused on completing personalized tasks, though still expect to be able to research more generic information ([user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#participants-perceived-authenticated-parts-of-vagov-as-being-personalized-to-them-and-unauthenticated-parts-of-the-website-as-general-information-for-anyone-visiting-the-site)).
 - [25 popular pages when signed in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/analytics-review-findings.md#what-are-the-25-most-popular-pages-visited-while-signed-in)
 - [25 popular pages when signed out](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/analytics-review-findings.md#what-are-the-25-most-popular-pages-visited-while-signed-out)
 
 ### How can we apply what we’ve learned to logged-out flows?
-One approach might be to identify places that are typically part of a logged-out flow VA.gov, where we can do a better job elevating personalized information when a person is logged-in, or encouraging people to log in.
+The challenges people have finding information when it’s not linked from the homepage or the mega menu apply to logged in and logged out states. As we elevate personalized tasks that are currently hard to find on the site, like viewing dependents or submitting for travel pay, we can consider both states and aim for solutions that improve the UX holistically.
 
-Since the research was primarily focused on logged-in flows, we’ll need to learn more about logged-out flows to better understand how what we learned could further improve the UX in that area.  
+Another approach might be to identify places that are typically part of a logged-out flow VA.gov, where we can do a better job elevating personalized information when a person is logged-in, or encouraging people to log in.
 
 ## Problems we’ve identified with the logged-in experience
 ### Logged-in users are getting inconsistent levels of personalization on VA.gov, depending on where they start and how familiar they are with the website.
