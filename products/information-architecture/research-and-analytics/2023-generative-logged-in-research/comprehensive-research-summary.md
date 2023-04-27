@@ -4,9 +4,15 @@ Last updated: April 27, 2023
 Liz Lantz, Authenticated Experience
 
 ## Background
-While we’ve observed some high-level problems people have navigating VA.gov’s logged-in experience (eg. people are reliant on homepage and My VA links), we hadn’t conducted research that is solely dedicated to this topic. To remedy this, we conducted research to help us clarify exactly what problems exist with the logged-in navigation, where we are not meeting users’ expectations, and what we might do to improve the overall experience. 
+While we’ve observed some high-level problems people have navigating VA.gov’s logged-in experience (eg. people are reliant on homepage and My VA links), we hadn’t conducted research that is solely dedicated to this topic. 
 
-These are the specific things we wanted to gain insights on through this work:
+To remedy this, we conducted 4 research activities to help us clarify exactly what problems exist with the logged-in navigation, where we are not meeting users’ expectations, and what we might do to improve the overall experience:
+1. [Previous research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/research-review-findings.md)
+2. [Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/analytics-review-findings.md)
+3. [Qualitative data review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/qualitative-data-findings.md)
+4. [User interview findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md)
+
+This document summarizes the collective insights from those activities, as they apply to our original research goals:
 
 * Understand what motivates people to login, when in a flow they login, and where (eg. homepage, etc).
 * Understand what issues people have navigating to tools and tasks when they are logged in to VA.gov.
