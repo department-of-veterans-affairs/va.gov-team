@@ -397,20 +397,20 @@ Sprint 9 Epic [#56506](https://github.com/department-of-veterans-affairs/va.gov-
 
 ### Direct deposit: EVSS > Lighthouse migration
 **BX Note: Let's move the following to Sprint 11**
-~This assumes QA is done, and any fixes from QA have been implemented. If not, please adjust the plan accordingly.
+~This assumes QA is done, and any fixes from QA have been implemented. If not, please adjust the plan accordingly.~
 
 **PM**
-- Fill out [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) and add it to [project folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration)
-- Submit ticket for privacy and security review
+~- Fill out [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) and add it to [project folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration)~
+~- Submit ticket for privacy and security review~
 
 **Design**
 
-- Recruit for UAT -- **Only do this if QA is complete, fixes have been implemented, and the privacy and security review is complete and does not recommend any changes**
-- Run sessions
+~- Recruit for UAT -- **Only do this if QA is complete, fixes have been implemented, and the privacy and security review is complete and does not recommend any changes**~
+~- Run sessions~
 
 **BE**
 
-- Assist with privacy and security review submission~
+~- Assist with privacy and security review submission~
 
 ### Notification preferences
 
@@ -443,12 +443,12 @@ Sprint 9 Epic [#56506](https://github.com/department-of-veterans-affairs/va.gov-
 
 ### Direct deposit: EVSS > Lighthouse migration
 **BX Note: I've moved the following to Sprint XX for when Samara returns -- if we finish our dev work early, we put Direct Deposit on hold and wait for Samara's return to Launch once she gets back**
-~This assumes we are ready to launch. If not, push back tasks accordingly.
+~This assumes we are ready to launch. If not, push back tasks accordingly.~
 
-- Launch go/no-go
-  - Please fill out the [launch go/no-go doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md), add it to the [project folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration), and conduct meeting with team.
-- **IF READY** Launch to 10% and monitor for a week
-- Launch to 25% pending no issues at 10% and monitor for a week. If there are issues at 10%, resolve those before increasing % for phased launch.~
+~- Launch go/no-go~
+  ~- Please fill out the [launch go/no-go doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md), add it to the [project folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration), and conduct meeting with team.~
+~- **IF READY** Launch to 10% and monitor for a week~
+~- Launch to 25% pending no issues at 10% and monitor for a week. If there are issues at 10%, resolve those before increasing % for phased launch.~
 
 ### Notification preferences
 
