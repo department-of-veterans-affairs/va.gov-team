@@ -10,4 +10,4 @@ Sitewide Content is responsible for maintaining and updating the [VA.gov content
 7. Once the PR is approved, merge it. Or ask Matt Dingee to merge. 
 8. When the page is live, alert the design system council of the change in a comment in the Zenhub ticket.
 
-**Note:** If you need to make additional changes before or after you create a pull request, click on "Fork," then "Existing forks." Find the fork with the change. Find your previous commits in the "Code" tab or "Pull requests" tab.
+**Note:** If you need to make additional changes before or after you create a pull request, click on "Fork," then "Existing forks." Find the fork with the change. Find your previous commits (changes) by selecting the "Code" tab and then "Branches."
