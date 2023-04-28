@@ -1,9 +1,7 @@
-# IA Design for [Product/page name]
-**STATUS: [In progress/In review/Complete]**
+# IA Design for Appointments
+**STATUS: In Progress**
 
-**Team:** [Team name]
-
-**IA Request:** [Link to Sitewide Content and IA intake request]
+**Team:** Appointments
 
 **On this page:**
 - [User/page flows](#flows)
@@ -21,21 +19,20 @@
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 
+ADD SCREENSHOT!!!
 
 
 ## <a name="url"></a>URLs and breadcrumbs
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
-
-**1) [Page name] - [Existing/New]**
-- URL:
-- Breadcrumb: 
-- Notes: 
-
-**2) [Page name] - [Existing/New]**
-- URL:
-- Breadcrumb: 
-- Notes: 
+Page | URL | Breadcrumb | Notes
+--- | --- | --- | ---
+Appointments DEFAULT View | www.va.gov/my-health/appointments?view=upcoming | Home > My HealtheVet> Appointments | 
+Appointments PENDING View | www.va.gov/my-health/appointments?view=pending | Home > My HealtheVet> Appointments | Filter changes the url, but not the breadcrumb
+Appointments PAST View | www.va.gov/my-health/appointments?view=past | Home > My HealtheVet> Appointments | Filter changes the url, but not the breadcrumb
+Appointments Detail View | www.va.gov/my-health/appointments/detail?id=[ID Number]&view=[View type] | Home > My HealtheVet > Appointments > [Appointment Title] | The ID is dynamic and pulled in for each unique appointment. The view depends on the appointment type, whether it's upcoming, pending, past, or cancelled. For example, www.va.gov/my-health/appointments/detail?id=123456&view=upcoming
+Cancel Appointment |  |  | None needed, since the cancellation flows are in a modal
+Schedule Appointment | www.va.gov/my-health/appointments?view=upcoming | Home > My HealtheVet> Appointments |
 
 
 ## <a name="nav"></a>Entry points <br>
