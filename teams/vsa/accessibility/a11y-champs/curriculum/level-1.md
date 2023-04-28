@@ -10,7 +10,7 @@
 - [ ] Let us know your name, role, what team you're on, and why you decided to start your accessibility champion journey
 
 ## Learn how to ask for help
-**Disability is complex.** Which means that, when it comes to accessibility, no one will have all the answers (not even your specialists)! 
+**Disability is complex.** When it comes to accessibility, no one will have all the answers (not even your specialists)! 
 
 That's why it's important for us to _just ask_, and why we form communities of practice, not cathedrals of expertise.
 
