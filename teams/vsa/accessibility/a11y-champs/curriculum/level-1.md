@@ -40,7 +40,7 @@ Depending on where you've heard it, it might mean...
 
 
 
-### We want to focus on accessiblity as an experience more (and as compliance less)
+### We want to focus on disabled Veteran's experiences more (and compliance less)
 Although it's easier for us to measure accessibility from the frame of compliance, it's not a guarantee that disabled Veterans will still use our products and services. Measuring and understanding the _experience_ of a product can be difficult, but it's much easier when:
 - we understand we cannot assess the experience of disabled Veterans for them (we're not experts)
 - we center their voices in our work as early and often as possible
