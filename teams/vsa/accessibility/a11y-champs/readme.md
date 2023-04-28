@@ -8,7 +8,11 @@ We're a grassroots, volunteer-led educational program intent on scaling up VA's 
 
 <strong>[Complete level 1 to start your journey 🪴](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/level-1.md)</strong>
 
-## You can become an accessibility champion 💪 
+## Who can be an accessibility champion? And what do they do? 🤔 
+
+Anyone working at the VA, with access to the DSVA slack channel, can become an accessibility champion through this curriculum ♥️ 
+- If you don't work at the VA, you're still welcome to follow along with what we have out in public and provide us feedback 💡 
+- If you work at the VA, but don't have access to our DSVA slack channel, let Josh know at josh.kim@adhocteam.us
   
 **At a high level, accessibility champions:**
 - center disabled Veterans, caregivers, and family members (not products, code, or processes)
