@@ -24,14 +24,14 @@ Slack Channel  | #va-mobile-app
 
 
 **Steps to Access Demo Mode**
- 1    Download or update existing app to the latest version (any device)
- 2    Apple App Store Link
- 3    Google Play Store Link
- 4    Click the VA Health and Benefits Logo 21 times
- 5    Enter the Password and click demo button
- 6    Screen is updated with a Demo Mode bar on the home screen
- 7    Click Sign In button 
- 8    Demo user is not at the home page of the mobile app and can explore 
+ 1.    Download or update existing app to the latest version (any device)
+ 2.   Apple App Store Link
+ 3.    Google Play Store Link
+ 4.    Click the VA Health and Benefits Logo 21 times
+ 5.    Enter the Password and click demo button
+ 6.    Screen is updated with a Demo Mode bar on the home screen
+ 7.    Click Sign In button 
+ 8.    Demo user is not at the home page of the mobile app and can explore 
 
 
 
