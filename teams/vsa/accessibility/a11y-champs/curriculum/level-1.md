@@ -68,7 +68,7 @@ The following will help you learn a little bit more about the complexity of disa
 
 ### Share your thoughts and questions 💡
 
-On the #a11y-champs channel...
+On the `#a11y-champs` channel...
 - [ ] Share one thing you learned from the materials above
 - [ ] Ask one question (this can be about anything related to disability or accessibility, for example, "What does a11y stand for?")
 
