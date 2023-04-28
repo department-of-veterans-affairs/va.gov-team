@@ -93,7 +93,7 @@ Good! This is supposed to be difficult, and why we have a community 👐
 - If you feel a little brave, ask for help on the `#accessibility-help` channel
 - If you want a safer space, ask for help on our `#a11y-champs` channel 
 
-## Wrapping up
+## You completed level 1 🥇
 
 Congratulations on taking your first big step towards becoming an accessibility champion! We are so thrilled that you're starting this journey. Know that even a little bit will go a long way when it comes to improving the disabled Veteran experience on VA.gov.
 
