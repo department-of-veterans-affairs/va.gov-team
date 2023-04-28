@@ -1,5 +1,8 @@
 # Decision log - Income Limits app
 
+## 4/13 discussion and 4/17 email
+DaveC decided that the MVP can be launched with minor uncertainties from SMEs around edge cases and pension recipients. Therefore: We will not include questions about Housebound and A&A benefits, since our best info says pension recipients always get travel and free meds.
+
 ## 3/2/23 decision regarding A&A and Housebound
 **Decision:** 
 
@@ -14,6 +17,8 @@ Notes:
 - The old wizard indicated that Veterans receive "Free medications and beneficiary travel reimbursement" (Rx and BT) at different income limits depending on whether they receive A&A, HB, or neither.
 
 On 3/2 we corresponded by email with Linsdey Peace, who verified this interpretation and confirmed the old wizard was incorrect when it presented different thresholds for Veterans receiving A&A, Housebound, or neither.
+
+(Note: We subsequently tested a prototype that had three yes-no questions about whether the participant receives pension, A&A or HB benefits. We did this to see how Veterans would respond to additional simple questions.)
 
 
 ## 2/22/23 meeting with VHA stakeholders
