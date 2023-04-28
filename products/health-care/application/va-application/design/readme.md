@@ -2,13 +2,14 @@
 A background of resources and notes for design.
 
 
-### Native design files
+### Sketch 
+*Using Platform supported software option*
+
 Found in Sketch VA.gov Design Teams licenese
 
 [Projects > Health Care Applications > 10-10EZ](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6)
 
 
-#### Sketch 
 **How files are organized**
 
 Pages for "source of truth" of what is in staging/production
@@ -37,18 +38,21 @@ Additional libraries:
 - Annotations library
 - VA userflows library
 - VA.gov Wireframe Library
-- VA Search libaryar
-
-
-
-### Content source of truth docs
-- Found in GitHub
-
+- VA Search library
 
 
 ### Mural 
+Used for research synthesis, shared userflow and other collaboration needs. 
+
 - [1010 Room](https://app.mural.co/invitation/room/1670613238628?code=a67c337f0cd645d18b1b99d77f3743e1&sender=uadf1ed7fe7c76f0914967329)
 - Wireflow source of truth
+
+
+
+### Content 
+- Used in Sketch source of truth pages
+- Found in GitHub text only format
+
 
 
 ### Helpful links to bookmark 
@@ -58,7 +62,7 @@ Additional libraries:
 - [Research Repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/projects/1)
 
 
-
+---
 
 
 ### How we work (TBD)
