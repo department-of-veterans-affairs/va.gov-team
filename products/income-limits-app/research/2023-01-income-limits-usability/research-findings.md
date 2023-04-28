@@ -231,14 +231,14 @@ We heard **additional feedback on the app intro page**. Each of the comments bel
   
 - 1 participant was **concerned about how long this income limits app will take to go through** because they'll probably need to create a password and gather a lot of documents (e.g., investments, W2s, DD214). After going through the app pages, this participant was relieved.
 >  *"Wasn't overwhelming with requiring a ton of info, such as finding a DD214, and creating a new password. It was quick--that's important" (p7)*.
-- RECOMMENDATION: Add to the intro page how long to expect and what's needed so people know it's quick and easy (e.g., "Here’s what you’ll need to apply: your household income and number of dependents from the last year...", "It should take about 3 minutes.")
+- RECOMMENDATION: To inform Veterans about the minimal amount of time and effort needed to use this app, consider adding some content to the intro page about it being quick, and that you only need to answer a few easy questions.
   
 - 1 participant who had a cognitive disability said that the block of **text was too much to read and understand**.  
 > *"Too much text and not enough separation of it [with formatting]. Want a TL;DR" (p1)*.
 
 - 1 participant suggested adding a little more text to **encourage Veterans to try to get these benefits** if they need them.
 > *"Maybe there is some small wording that you can put in that encourages Veterans to get these benefits if you need them...I don't want to take away from someone else who needs it more. 'Hey, we encourage you to do this. Let's find out if you're eligible'--like selling it to me. You really want me to find out if I'm eligible. A little positive affirmation. Just don’t add  a lot more reading. It's very cut and dry...not warm and welcoming" (p7)."*
-- RECOMMENDATION: Consider adding to the intro page some friendly encouragement/affirmation to use this tool to find out if you're eligible for VA health care.
+- RECOMMENDATION: To support Veterans' exploration of VA health care, consider adding to the intro page some friendly encouragement to invite them to use this tool to find out if they're eligible for VA health care.
 
 ### How participants looked for income limits before seeing the new app
 Before showing participants the design prototype for the income limits app, we asked how they would find out if they are eligible for VA health care with their current income.
@@ -260,7 +260,7 @@ Scrolling down this very long landing page on a phone took a while, especially f
 - 6 participants clicked on the first income limits link (in the section _Will I need to pay for any of my care, tests or medications?_), and only 1 participant clicked on the second income limits link (in the section _Does VA verify the information I provide?_) and remarked:
 > *"Kind of far down on the page" (p9).*
 
-- RECOMMENDATION: Consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move one of the income limits app links closer to the top of page.
+- RECOMMENDATION: To make it easier to find information on income limits, consider restructuring the content on the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page to put all income limits info closer together and move one of the income limits app links closer to the top of page.
 
 
 ## Recommendations
