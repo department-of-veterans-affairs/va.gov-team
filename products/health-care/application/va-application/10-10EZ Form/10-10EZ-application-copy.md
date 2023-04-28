@@ -11,9 +11,10 @@ Pages listed below
 
 
 --
+### Page: Introduction
 
-URL: /health-care/apply/application/introduction
-Page: Introduction
+##### URL: /health-care/apply/application/introduction
+
 
 [h1] Apply for VA health care
 [p class] Enrollment Application for Health Benefits (VA Form 10-10EZ)
