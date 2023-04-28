@@ -2,6 +2,7 @@
 - This should take 1 hour to complete
 - By the end of this level, you will...
   - join our accessibility community
+  - understand the difference between compliance and usability
   - learn how to ask for help
   - get started with your very first screen reader
 
@@ -9,8 +10,10 @@
 - [ ] [Join and introduce yourself on the #a11y-champs channel on VA slack](https://dsva.slack.com/archives/C8E985R32)
 - [ ] Let us know your name, role, what team you're on, and why you decided to start your accessibility champion journey
 
+## Compliance vs. usability
+
 ## Learn how to ask for help
-**Disability is complex.** When it comes to accessibility, no one will have all the answers (not even your specialists)! 
+**Disability is complex.** No one will have all the answers, not even your specialists!
 
 That's why it's important for us to _just ask_, and why we form communities of practice, not cathedrals of expertise.
 
