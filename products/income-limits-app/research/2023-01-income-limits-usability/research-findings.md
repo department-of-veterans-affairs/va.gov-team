@@ -240,7 +240,7 @@ Before showing participants the design prototype for the income limits app, we a
 - 1 participant who found the [Annual Income Limits table](https://www.va.gov/healthbenefits/annual_income_limits_health_benefits.asp) said that they would contact an attorney to find out which group they're in.
 > *"Better to ask a professional, rather than spin your wheels" (p1)*.
 
-### The landing page was very long to read on a phone, and participants found it difficult to find income limits  
+### The landing page was very long to read on a phone, and participants had difficulty finding income limits  
 The **landing page** in the prototype was a static version of the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) on which the only working links were _Check our current income limits_ in two different places on the page. When the participant clicked on one of those two links, they saw the income limits intro page.
 
 Scrolling down this very long landing page on a phone took a while, especially for the 3 participants who were reading everything on that page. The two income limits links were several scroll distances down the page, and there was more to the page below these links. 
