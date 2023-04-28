@@ -1,24 +1,22 @@
-# Initiative Brief - Improve navigation link in VAOS
+# Initiative Brief - New appointments list navigation under MHV on VA.gov
+
 ## Overview
-Looking to improve the navigation experience in VAOS by providing the user an easier way to toggle between the pages/views. The goal is to provide a seamless experience for the Veteran.  
+Adding the navigation to the new Appointment List in MHV on VA.gov by providing the user an easier way to view their appointments in the new portal. The goal is to provide a seamless experience for the Veteran.  
  
 ---
 
 ## Outcome Summary
 
-The user is able to navigate between the appointment status in VAOS (upcoming, pending, canceled or past)
+The user is able to navigate between the appointment status (upcoming, pending, and past)
 
 **Related/Associated product(s)**
-- Dependent on [VAOS service launch](.md) rollout 
+- Dependent on Appointment List rollout
 
 ## Problem
 * What is the problem and who is affected? And, what evidence do we have of the problem?
-  - Majority of the Veterans use the back button on the browser or the breadcrumb link to navigate in VAOS.  
-  - The user may not be able to see the breadcrumb link or have pressed the back button too many times.
+  - We will need to direct the Veterans to the new URLS for appointments in MHV on VA.gov. The previous navigation in the current tool will no longer be used in MHV on VA.gov 
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
-  - Current functionality
-  - Anecdotal feedback from stakeholders and Veterans
-  - Qualitative feedback from surveys
+  - N/A
 * How does this initiative help further OCTO-DE's mission and goals?
   - Improve user satisfaction
   - Meet user expectations of a seamless expereince 
@@ -30,16 +28,13 @@ The user is able to navigate between the appointment status in VAOS (upcoming, p
 </details>
 
 ## Desired Outcomes
-- Provide clear information that answers basic questions about appointments in the list
-- Seamless navigation experience from MHV (MyHealtheVet) to VAOS
-- Veterans are able to find all the same appointment information in VAOS as currently available in MHV
+- Seamless navigation experience for Veterans to view the new Appointment List in MHV on VA.gov 
 
 ## Undesired Outcomes
-- A user does not have clear information about their appointment details in the list 
+- A user cannot access the new Appointment List in MHV on VA.gov 
 
 ## Key Decisions
-- It is preferred that VAOS provides the same value and information of the appointment list similiar to MHV application
-- Use of icons to differentiate the different types of care is preferrable, based on user research
+- It is very important that the navigation links work as expected in order for the Veteran to have access to their health appointments online. 
 
 ---
 ## Measuring Success
@@ -66,54 +61,33 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 ### Relevant studies
  <details>
-  <summary>2021 MHV and VAOS Gap analysis</summary>
+  <summary>Enter research details (if any) </summary>
   
-   <ul>
-    <li><a href="https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B6A5CFF66-F89C-4BC5-A39B-518FA6AD415C%7D&file=Appointments%20Features%20Description%20and%20Business%20Requirements.docx&wdOrigin=OFFICECOM-WEB.MAIN.REC&ct=1648741306594&action=default&mobileredirect=true">Analysis document</a></li>
-    <li><a href="https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B24A0A2A8-279E-42D1-B0E4-3C1C8EF5D5F5%7D&file=MHV%2BVAOS%20Gap%20analysis%20recommendations.docx&wdOrigin=OFFICECOM-WEB.MAIN.SEARCH&ct=1648741454406&action=default&mobileredirect=true">Recommendations</a></li>
-    <li><a href="https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B9E5702C8-5AF7-476B-879D-8DD1B717526F%7D&file=MHV%2BVAOS%20Appointments%20Project%20Scope%20and%20Decisions%20DRAFT220181.docx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1648741387781&wdOrigin=OFFICECOM-WEB.MAIN.EDGEWORTH&cid=8a5358d8-b930-4449-a0b6-b7957b856b86">Project scope and decisions</a></li>
+   
    </ul>
 </details>
 
- <details>
-  <summary>February 2022 Appointments list study</summary>
-  <ul>
-      <li><a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md">Findings report</a></li>
-      <li><a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/Research%20Presentation%20-%20MHV%2BVAOS%20Appointments%20List%20Discovery.pdf">Findings slide deck</a></li>
- </ul>
-</details>
- 
- <details>
-  <summary>January 2021 Appointments list study</summary>
-  <ul>
-      <li><a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test/report-out.md">Findings</a></li>
-  </ul>
- </details>
- 
- 
 
 
 ### Assumptions/Risks
 
 - **Value Risks** (will people use it): 
   - The experience may vary based on the data we have for the appointment type
-  - If user is unable to find any value in VAOS, they may lose trust in the application and are less likely to return
+  - If user is unable to find any value in the appointments, they may lose trust in the application and are less likely to return
 - **Usability Risks** (can people figure out how to use it):
-  - We will have to balance between showing the right amount of information in the appointment list 
+  - We will have to balance between showing the right path to access the appointment list
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Must work with our engineers to see what available data we can use to enhance the appointment details 
+  - Must work with our engineers to see how we can implement the new navigation links to MHV on VA.gov 
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Examples: VA stakeholder testing, marketing, compliance requirements 
 
 ### Prioritization
-1. Provide clear and value information in the appointment list
-2. Facility location 
-3. TBD - "Appointment List Improvement" requests
+1. MHV on VA.gov Phase 1
+2. MHV on VA.gov Phase 2A
 
 ### Solution Summary
 - Date and time change only
-
 
 --- 
 
@@ -149,7 +123,7 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - August 2023
 - *Actual Launch Date* 
   - tbd
 
@@ -159,18 +133,8 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 ### Before
 
-Current State: 
-
-<img width="592" alt="Screen Shot 2022-05-05 at 8 01 54 AM" src="https://user-images.githubusercontent.com/90797205/166919184-d6aa9850-f205-4542-b78c-b28836dd24e8.png">
-
-Future State (Post v2 Launch): 
-
-<img width="638" alt="Screen Shot 2022-05-05 at 7 58 13 AM" src="https://user-images.githubusercontent.com/90797205/166919230-c2640d26-5b42-44b1-81d0-361842eb8e4d.png">
-
 
 ### After
-
-[Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?node-id=193%3A24159&starting-point-node-id=193%3A24159)
 
 ---
 
@@ -179,10 +143,10 @@ Future State (Post v2 Launch):
 
 <details>
 
-- Team Name: VA Online Scheduling
+- Team Name: Appointments Team 
 - GitHub Label(s): vaos 
-- Slack channel: #vaos-team
-- Product POCs: [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79) and [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP)
+- Slack channel: #appointments-team
+- Product POCs: Kay Lawyer](https://dsva.slack.com/archives/U7T6EKTK9), [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP) and [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79)
 
 </details>
  
@@ -190,7 +154,7 @@ Future State (Post v2 Launch):
 
 <details>
  
-- DEPO Lead: [Lauren Alexanderson](https://dsva.slack.com/team/U772MC9BQ)
+- DEPO Lead: [Kay Lawyer](https://dsva.slack.com/archives/U7T6EKTK9) 
 - PM: [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79) and [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP)
 - Engineering: [Simi Adebowale](https://dsva.slack.com/archives/D037VNB23T2)
 - Research/Design:[Peter Russo](https://dsva.slack.com/team/U01C2UUHXH9) and [Ciera Maddox](https://dsva.slack.com/team/U02JWT564E9)
@@ -203,8 +167,8 @@ Future State (Post v2 Launch):
 
 <details>
   
-- Office/Department:
-- Contact(s): Kay Lawyer (OCC)
+- Office/Department: 
+- Contact(s): 
  
 </details>
 
