@@ -60,7 +60,7 @@ Used for research synthesis, shared userflow and other collaboration needs.
 
 ### Helpful links to bookmark 
 - [VA.gov Design System](https://design.va.gov/)
-- [Platform Design Site]([https://depo-platform-documentation.scrollhelp.site/research-design/](https://depo-platform-documentation.scrollhelp.site/research-design/design-at-va))
+- [Platform Design Site](https://depo-platform-documentation.scrollhelp.site/research-design/design-at-va)
 - [USWDS Design System](https://designsystem.digital.gov/)
 - [Research Repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/projects/1)
 
