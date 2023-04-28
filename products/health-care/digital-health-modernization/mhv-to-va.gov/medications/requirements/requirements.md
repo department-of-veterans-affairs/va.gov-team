@@ -9,7 +9,7 @@
 
 ## Table of Contents
 - [General](#general)
-- [Medication List](#medication list)
+- [Medication List](#medicationlist)
 - 
 ## Overview
 This document lays out the requirements for the MVP version of Medications on VA.gov we plan to ship to Phase 0. We expect additional functionality to be iteratively added to the tool over time during the phased rollout. 
