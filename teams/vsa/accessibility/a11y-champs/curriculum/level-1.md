@@ -45,6 +45,8 @@ Although it's easier for us to measure accessibility from the frame of complianc
 - we center their voices in our work as early and often as possible
 - we learn how to ask one another for help
 
+In doing so, we can design products and services that don't need to be remediated or require accommodations at all.
+
 <img width="500" alt="a flat entrance with no need of a ramp at all" src="https://user-images.githubusercontent.com/14154792/235257362-46e55380-c704-4a5e-a547-08950b394334.png">
 
 
