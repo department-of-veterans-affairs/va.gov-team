@@ -16,9 +16,9 @@
 - [Mural 1010 Room](https://app.mural.co/invitation/room/1670613238628?code=a67c337f0cd645d18b1b99d77f3743e1&sender=uadf1ed7fe7c76f0914967329)
 
 
+##
 
-
-#### PREVIOIUS NOTES
+#### PREVIOUS NOTES
 Documents in this folder that pertain to research done in 2020-2021: 
 - We did not move them, as they were linked in other documents and we did not want to break those links.
 - Pay attention to the last updated dates, the information here may not be the most recent.
