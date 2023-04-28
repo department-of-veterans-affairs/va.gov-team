@@ -1,6 +1,7 @@
 ## Design 
 A background of resources and notes for design.
 
+-- 
 
 ### Sketch 
 *Using Platform supported software option*
@@ -29,7 +30,8 @@ Pages for working on new initiates
 
 
 **Linked libraries**
-Managed by the Design System team. 
+
+[Managed by the VA.gov Platform](https://design.va.gov/about/designers/design-libraries)
 
 Primary library:
 - VA.gov Pattern Library\
@@ -42,6 +44,7 @@ Additional libraries:
 
 
 ### Mural 
+
 Used for research synthesis, shared userflow and other collaboration needs. 
 
 - [1010 Room](https://app.mural.co/invitation/room/1670613238628?code=a67c337f0cd645d18b1b99d77f3743e1&sender=uadf1ed7fe7c76f0914967329)
@@ -51,13 +54,13 @@ Used for research synthesis, shared userflow and other collaboration needs.
 
 ### Content 
 - Used in Sketch source of truth pages
-- Found in GitHub text only format
+- [Found in GitHub text only format](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/10-10EZ-application-copy.md)
 
 
 
 ### Helpful links to bookmark 
 - [VA.gov Design System](https://design.va.gov/)
-- [Platform Research and Design](https://depo-platform-documentation.scrollhelp.site/research-design/)
+- [Platform Design Site]([https://depo-platform-documentation.scrollhelp.site/research-design/](https://depo-platform-documentation.scrollhelp.site/research-design/design-at-va))
 - [USWDS Design System](https://designsystem.digital.gov/)
 - [Research Repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/projects/1)
 
