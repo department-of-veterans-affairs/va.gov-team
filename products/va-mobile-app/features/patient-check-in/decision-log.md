@@ -14,3 +14,4 @@ It explains the reasons for each decision, so team members can identify their or
 
 |Question| Answer|
 |------| --------------------|
+| CIE team assumes that the scope of this work is limited to the following: (1) Mobile app sends our API the patient and appointment identifiers for a single patient & appointment (2) API checks-in the identified patient for the identified appointment (3) API sends back success/error information <br><br>Is this assumption correct? ||
