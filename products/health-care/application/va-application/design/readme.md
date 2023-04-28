@@ -24,10 +24,16 @@ Pages for working on new initiates
 
 
 **Linked libraries**
-
 Managed by the Design System team. 
-- VA.gov Pattern Library
-- Userflows
+
+Primary library:
+- VA.gov Pattern Library\
+
+Additional libraries:
+- Annotations library
+- VA userflows library
+- VA.gov Wireframe Library
+- VA Search libaryar
 
 
 
@@ -38,10 +44,14 @@ Managed by the Design System team.
 
 ### Mural 
 - [1010 Room](https://app.mural.co/invitation/room/1670613238628?code=a67c337f0cd645d18b1b99d77f3743e1&sender=uadf1ed7fe7c76f0914967329)
-- Wireflow
+- Wireflow source of truth
 
 
 ### Helpful links to bookmark 
+- [VA.gov Design System](https://design.va.gov/)
+- [Platform Research and Design](https://depo-platform-documentation.scrollhelp.site/research-design/)
+- [USWDS Design System](https://designsystem.digital.gov/)
+- [Research Repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/projects/1)
 
 
 
