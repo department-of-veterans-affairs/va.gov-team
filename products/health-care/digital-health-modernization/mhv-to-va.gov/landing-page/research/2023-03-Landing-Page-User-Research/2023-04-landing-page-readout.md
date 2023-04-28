@@ -184,8 +184,8 @@ All 10 participants asked to track their prescription refills navigated to the M
 
 ## Recommendations
 
-- Surface helpful content and utilize design standards that enables users to  distinguish  between **Download medical records (Blue Button)** and **Health history**   
-- Conduct further research around the navigation from VA.gov landing page to the My HealtheVet on VA.gov landing page 
+- Surface helpful content and utilize design standards that enable users to  distinguish  between **Download medical records (Blue Button)** and **Health history**   
+- Conduct further research around the navigation from VA.gov home page to the My HealtheVet on VA.gov landing page 
 - Continue to utilize plain language and VA content standards that help Veterans identify and understand benefits, services, and tools on VA.gov (e.g. Community Care) 
 - Work with team to further research preferences and design an experience around application and notification preferences
 
