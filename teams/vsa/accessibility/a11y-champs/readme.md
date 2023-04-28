@@ -53,6 +53,8 @@ We're a grassroots, volunteer-led educational program intent on scaling up VA.go
 - Learn the difference between the medical and social model of disability
 - Become familiar with design justice, co-design, and accessibility beyond compliance
 
+<!-- Connect with Tim from BVA? -->
+
 ### Level 4, Apprentice 🧠 (🚧 not written yet)
 - 4 hours to complete
 - Choose a specialty path between design, research, engineering, and QA
