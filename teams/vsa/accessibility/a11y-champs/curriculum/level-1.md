@@ -26,7 +26,7 @@ Depending on where you've heard it, it might mean...
 - the measurements of a ramp that signify it can be accessed by disabled people
 - assessed by a product team or an accessibility specialist
 
-<img style="max-width:500px;" alt="a model of a ramp with a perfectly measured run slope" src="https://user-images.githubusercontent.com/14154792/235256161-9085b2d9-e8f5-4284-9127-13b347b0c744.svg"/>
+<img width="500" alt="a model of a ramp with a perfectly measured run slope" src="https://user-images.githubusercontent.com/14154792/235256594-544eaa6b-a15f-45f9-ba5a-514417669a19.png"/>
 
 
 ### Experience encompasses...
@@ -35,7 +35,8 @@ Depending on where you've heard it, it might mean...
 - the awful experience a disabled person may feel when being separated from their friends to access a compliant ramp behind a building and by the dumpsters
 - assessed (and felt _internally_) by our disabled Veterans, family members, and caregivers
 
-<img width="471" alt="a ramp behind a building next to the trash" src="https://user-images.githubusercontent.com/14154792/235256236-45c4d3b1-e53c-4d5a-9881-c3fc43b68bfd.png">
+<img width="500" alt="a ramp behind a building next to the trash" src="https://user-images.githubusercontent.com/14154792/235256652-82a43f2d-b5f3-4d0d-89a6-8718aac81b25.png">
+
 
 ### We want to focus on accessiblity as an experience more (and as compliance less)
 Although it's easier for us to measure accessibility from the frame of compliance, it's not a guarantee that disabled Veterans will still use our products and services. Measuring and understanding the _experience_ of a product can be difficult, but it's much easier when:
