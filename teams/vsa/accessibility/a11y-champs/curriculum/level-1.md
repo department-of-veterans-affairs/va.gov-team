@@ -35,7 +35,8 @@ Depending on where you've heard it, it might mean...
 - the awful experience a disabled person may feel when being separated from their friends to access a compliant ramp behind a building and by the dumpsters
 - assessed (and felt _internally_) by our disabled Veterans, family members, and caregivers
 
-<img width="500" alt="a ramp behind a building next to the dumpster" src="https://user-images.githubusercontent.com/14154792/235256917-ea4edb16-39aa-41d2-9f9a-112dccf7e6d9.png">
+<img width="500" alt="a compliant ramp with a bad experience behind a building next to the dumpster" src="https://user-images.githubusercontent.com/14154792/235257793-899fd2ec-976f-4c72-84ff-b08592e0db0e.png">
+
 
 
 
@@ -47,7 +48,8 @@ Although it's easier for us to measure accessibility from the frame of complianc
 
 In doing so, we can design products and services that don't need to be remediated or require accommodations at all.
 
-<img width="500" alt="a flat entrance with no need of a ramp at all" src="https://user-images.githubusercontent.com/14154792/235257362-46e55380-c704-4a5e-a547-08950b394334.png">
+<img width="500" alt="a flat entrance with no need of a ramp at all" src="https://user-images.githubusercontent.com/14154792/235257863-1a1f8903-ba1f-47c9-92f6-ccef8bb7db65.png">
+
 
 
 ## Learn how to ask for help
