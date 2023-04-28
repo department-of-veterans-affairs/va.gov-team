@@ -176,7 +176,7 @@ Most participants (7 of 8) **didn't open the _How to estimate your income for th
 
 - RECOMMENDATION: Be more explicit about household income and deductions on the results page, without using any accordions (since they weren't opened by most participants). 
   - Consider changing the first sentence from "We use your last year's income to determine..." to "We use your last year's _household_ income _minus deductions (such as out-of-pocket medical expenses, education costs, and funeral/burial expenses for a spouse or child)_ to determine..." 
-  - Consider showing the text under the _How to estimate your income for this tool_ without an accordion.
+  - Consider showing the text under _How to estimate your income for this tool_ without an accordion.
 
 
 ### 4. Participants had some confusion with terminology used in the questions, especially the word "dependents"
@@ -279,7 +279,7 @@ Scrolling down this very long landing page on a phone took a while, especially f
 4. Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean and want to understand before answering the question.
 6. Be more explicit about household income and deductions on the results page, without using any accordions (since they weren't opened by most participants). 
      1. Consider changing the first sentence from "We use your last year's income to determine..." to "We use your last year's _household_ income _minus deductions (such as out-of-pocket medical expenses, education costs, and funeral/burial expenses for a spouse or child)_ to determine..." 
-     1. Consider showing the text under the _How to estimate your income for this tool_ without an accordion.
+     1. Consider showing the text under _How to estimate your income for this tool_ without an accordion.
 8. Add more description to the benefits and/or provide links to details for "VA health care", "most types of care", "copays", and "full copays".
 9. Consider standardizing the bullets for each benefit so it's easier to compare them across income thresholds: 
      1. Outpatient and inpatient visits
