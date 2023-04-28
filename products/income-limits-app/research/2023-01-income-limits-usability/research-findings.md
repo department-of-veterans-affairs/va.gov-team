@@ -250,7 +250,9 @@ Before showing participants the design prototype for the income limits app, we a
 > *"Better to ask a professional, rather than spin your wheels" (p1)*.
 
 <details>
+     
   <summary>Annual Income Limits table (Click to show screenshot)</summary>
+     
   ![income-limits-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/income-limits-table.png)
   
 </details>
