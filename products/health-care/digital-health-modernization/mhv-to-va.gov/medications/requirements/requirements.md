@@ -160,6 +160,10 @@ Fill or refill error alert
 * Once a med has been dispensed, start the process over again.
 
 ### Renewing a medication
+For MVP:
+* 15 days before X date (need to decide which one), alert user that a VA prescription has **no** refills left and what actions a user should take to get a VA prescription renewed. 
+
+Post MVP:
 * When a med is active, a refill is not in process, and there **no** refills left, a user should be able to request a renewal by pressing an action link. 
 * When pressing the action link, initiate a pre-filled secure message to the ordering provider's triage group. In this screen, also provide a number to call AudioCare. A user should be able to edit the triage group name and also add a note. 
 
