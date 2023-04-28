@@ -1,7 +1,7 @@
 # Accessibility Champions Community (aka "A11y Champs")
 Welcome to the VA accessibility champions community ✨
 
-We're a grassroots, volunteer-led educational program intent on scaling up VA's accessibility maturity through:
+We're a grassroots, volunteer-led educational program intent on scaling up VA's focus on the disabled Veteran experience through:
 - co-design, curiosity, and community 
 - centering the diverse voices of disabled Veterans, caretakers, and family members
 - asking questions first and learning from others
