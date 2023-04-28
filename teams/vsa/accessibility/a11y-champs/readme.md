@@ -74,3 +74,9 @@ Most folks pronounce a11y as "alley" or "a 11 y"
 
 ## Citational justice
 This was built off a curriculum designed by **Jen Strickland** and **Trevor Pierce**, who deserve full credit in establishing the groundwork to make this possible ♥️
+
+### Contributors
+- Josh Kim
+- Sara Smith
+- Jeana Clark
+- Martha Wilkes
