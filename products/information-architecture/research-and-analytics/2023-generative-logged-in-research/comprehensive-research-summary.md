@@ -1,5 +1,5 @@
 # Logged-in IA and Nav Comprehensive Research Summary
-Last updated: April 27, 2023
+Last updated: April 28, 2023
 
 Liz Lantz, Authenticated Experience
 
@@ -26,9 +26,8 @@ As a result, we’ve established [high-level recommendations](#high-level-recomm
 ## Answers to research questions
 ### What motivates people to log in? When and where do they log in during their flow?
 - People are motivated to log in by having to complete a personalized task, such as refilling a prescription or checking the status of their claim. 
-- They come to the site knowing they’ll have to sign in, so they go ahead and get it done as a first step, on the homepage.  We observed this for people who start on VA.gov, MHV, and eBenefits.
-	- This data is supported by our ([previous research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/research-review-findings.md#signing-in-to-vagov) and [user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#though-participants-had-different-approaches-to-starting-their-journey-everyone-logged-in-as-a-first-step-when-they-got-to-the-website))
-	-  [Analytics shows the homepage is the most popular page to sign in on by far](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/analytics-review-findings.md#what-are-the-top-ten-popular-pages-for-people-to-sign-in-on) 
+- In our [user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#though-participants-had-different-approaches-to-starting-their-journey-everyone-logged-in-as-a-first-step-when-they-got-to-the-website), participants signed in from the homepage because they knew they’d have to sign in to complete their task, so they went ahead and did it right away. In a [previous research study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/research-review-findings.md#signing-in-to-vagov), people also talked about doing the same thing. 
+- When we review [analytics data about the top 10 pages where sign-in events occurred](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/analytics-review-findings.md#what-are-the-top-ten-popular-pages-for-people-to-sign-in-on), we see the homepage is indeed a popular place to sign in. However, the data also shows people are signing in on task pages (e.g. viewing claim status or scheduling an appointment).  When you total the sign-in on task pages, the number (10,000,678) is actually greater than the homepage sign ins (9,185,967).
 
 ### What issues do people have navigating to tools and tasks when they are logged in to VA.gov?
 * People have a hard time navigating to things when they don’t cleanly fall into one category or topic area (e.g downloading benefit letters). It’s even harder when those things are not linked from the homepage or called out in the mega menu, like viewing dependents.
