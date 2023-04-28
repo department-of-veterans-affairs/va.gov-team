@@ -114,6 +114,7 @@ Details should include
 * Expiration date
 * Timeline of past fills, refills renewals
     * For each past fill 
+      * Rx #
       * Date and time of fill request
       * Date and time requested medication was dispensed
       * Date and time dispensed medication was shipped
@@ -121,6 +122,7 @@ Details should include
       * Assosciated tracking number
       * Any errors
     * For each past refill 
+      * Rx #
       * Date and time of refill request
       * Date and time requested medication was dispensed
       * Date and time dispensed medication was shipped
