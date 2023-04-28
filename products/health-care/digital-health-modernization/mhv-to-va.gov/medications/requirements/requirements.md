@@ -119,7 +119,6 @@ Details should include
       * Date and time requested medication was dispensed
       * Date and time dispensed medication was shipped
       * Image
-      * Assosciated tracking number
       * Any errors
     * For each past refill 
       * Rx #
@@ -127,7 +126,6 @@ Details should include
       * Date and time requested medication was dispensed
       * Date and time dispensed medication was shipped
       * Image
-      * Assosciated tracking number
       * Any errors
     * For each past renewals
       * Date and time of renewal
