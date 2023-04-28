@@ -2,7 +2,7 @@
 - This should take 1 hour to complete
 - By the end of this level, you will...
   - join our accessibility community
-  - understand the difference between accessibility, compliance, and usability
+  - understand the difference between compliance and experience
   - learn how to ask for help
   - get started with your very first screen reader
 
@@ -90,6 +90,7 @@ Congratulations on taking your first big step towards becoming an accessibility 
 
 **You now have...**
 - joined our accessibility community
+- understand the difference between compliance and experience
 - learned how to ask for help
 - gotten started with your very first screen reader
 
