@@ -17,15 +17,15 @@
 This document lays out the requirements for the MVP version of Medications on VA.gov we plan to ship to Phase 0. We expect additional functionality to be iteratively added to the tool over time during the phased rollout. 
 
 ## MVP Use cases
-1. As a user, I can see a list of all the medications I have on file with the VA. This includes both active medications and inactive/historical medications. For the MVP, this does not include medications that are only on file at Cerner-based VA facilities.  
-2. As a user, I understand which of my medications are fillable, refillable, which need renewed, and which cannot be renewed. 
-3. As a user, I can submit fill requests for medications that are currently active: parked (and therefore have fills left), understand whether they are in the process of being filled, and when the medication has been dispensed. 
-4. As a user, I can submit refill requests for medications that are currently active and have refills left, understand whether they are in the process of being refilled, and when the medication has been dispensed. 
-5. As a user, I know when recently dispensed medications have been shipped by CMOP or locally, and I can track their shipment progress.
-6. As a user, I understand what actions I need to take to renew active medications that have no refills left. 
+1. As a user, I can see a list of all the medications I have on file with the VA. This includes both active medications and inactive/historical medications, and non-VA medications captured by VA staff. For the MVP, this does not include medications that are only on file at Cerner-based VA facilities OR medications self-entered by the Veteran.  
+2. As a user, I understand which of my VA prescriptions are fillable, refillable, which need renewed, and which cannot be renewed. 
+3. As a user, I can submit fill requests for VA prescriptions that are currently active: parked (and therefore have fills left), understand whether they are in the process of being filled, and when the medication has been dispensed. 
+4. As a user, I can submit refill requests for VA prescriptions that are currently active and have refills left, understand whether they are in the process of being refilled, and when the medication has been dispensed. 
+5. As a user, I know when recently dispensed VA prescriptions have been shipped by CMOP or local VA facility, and I can track their shipment progress and any changes that may occur with the shipment.
+6. As a user, I understand what actions I need to take to renew active VA prescriptions that have no refills left. 
 7. As a user, I understand what actions I need to take to get a new prescription for inactive medications. 
 8. As a user, I am notified when a submitted fill or refill request is unable to filled or refilled, and undestand how to resolve the issue. 
-9. As a user, I can view key data about a prescription, some of which is outlined in VHA Directive 1164. 
+9. As a user, I can view key data about a medication, some of which is outlined in VHA Directive 1164. 
    * Name of drug
    * Strength/dosage of drug
    * Instructions/directions for use
@@ -72,7 +72,7 @@ Medications
 * Inform user what is not included in the list of medications 
 * Link to glossary of status and date definitions 
 * For each medication in list 
-  * name and dosage of prescription
+  * name and dosage of medication
   * Rx #
   * Status
   * Refills left
