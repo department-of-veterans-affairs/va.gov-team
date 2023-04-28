@@ -14,7 +14,7 @@
 * Case sensitive
 * Space sensitive
 
-### Contacts:###
+### Contacts: ###
 Area | Name 
 ------ | ------
 VA PO | Chris Johnston
@@ -24,20 +24,20 @@ Slack Channel  | #va-mobile-app
 
 
 **Steps to Access Demo Mode**
- *    Download or update existing app to the latest version (any device)
- *    Apple App Store Link
- *    Google Play Store Link
- *    Click the VA Health and Benefits Logo 21 times
- *    Enter the Password and click demo button
- *    Screen is updated with a Demo Mode bar on the home screen
- *    Click Sign In button 
- *    Demo user is not at the home page of the mobile app and can explore 
+ 1    Download or update existing app to the latest version (any device)
+ 2    Apple App Store Link
+ 3    Google Play Store Link
+ 4    Click the VA Health and Benefits Logo 21 times
+ 5    Enter the Password and click demo button
+ 6    Screen is updated with a Demo Mode bar on the home screen
+ 7    Click Sign In button 
+ 8    Demo user is not at the home page of the mobile app and can explore 
 
 
 
 
 
-## Troubleshooting:##
+## Troubleshooting: ##
 
 Demo Mode’s password is not working
 - Case sensitive and space sensitive - review password entered 
