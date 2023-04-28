@@ -59,6 +59,7 @@ The adoption of Login.gov as a primary Credential Service Provider (CSP) for acc
 
 ### Objectives and Key results (OKRs)
 - Objective: Streamline user authentication across all VA products and services
+  - Key result: Increase successful account creation by 20%
   - Key result: Increase successful logins by 20%
   - Key result: Reduce login-related support requests by 30%
 
