@@ -155,7 +155,17 @@ We have data from only 6 of 8 participants because the other 2 participants didn
 - 4 of 6 participants **didn't realize that you needed to apply for VA health care** in order to find out for sure if you qualify. 
 - 2 participants figured out later in the session that they needed to apply--only after they opened the _How to estimate your income for this tool_ accordion in the Past Year task.
 > *"Oh! You need to apply. So not take this information at face value" (p1)*.
-- RECOMMENDATION: Make the _Apply for VA health care_ link more visually prominent on the results page because as it is now, many participants ignored it. Consider the wording "To find out if you're eligible, apply now for VA health care" in order to increase relevance for higher-income Veterans who are unsure about whether they qualify.
+
+**One problem is that the results page has two calls to action**:
+1. Select your household income range
+1. Apply for VA health care 
+
+All Veteran participants did #1, but few did #2. WHY?
+- #2 doesn’t seem worth doing if you’re in the highest income bracket.
+- #2 is lower down on the page so not prominent visually.
+- The instruction to apply is not prominent visually–in the second sentence of the note–and is sandwiched between instructions about #2.
+
+RECOMMENDATION: Clarify and sequence the two calls to action on the results page by focusing first on selecting an income range, and second on applying for VA health care. To do this, considering moving the "Note" text ("You'll still need to meet basic eligibility requirements to enroll. To find out if you're eligible, apply now") and the _Apply for VA health care_ link to **inside _every_ income accordion**, right after the benefits description.
 
 ### 3. Participants didn't know about deductions from income
 
@@ -256,17 +266,15 @@ Scrolling down this very long landing page on a phone took a while, especially f
 
 ## Recommendations
 ### For the app design and functionality
-1. Make the text "To find out if you're eligible, apply now" more visually prominent on the results page because as it is now, participants ignored it. 
-2. Make the _Apply for VA health care_ link more visually prominent on the results page because as it is now, many participants ignored it. Also consider the wording "To find out if you're eligible, apply now for VA health care" in order to increase relevance for higher-income Veterans who are unsure about whether they qualify (included as content recommendation #9 below).
+1. Clarify and sequence the two calls to action on the results page by focusing first on selecting an income range, and second on applying for VA health care. To do this, considering moving the "Note" text ("You'll still need to meet basic eligibility requirements to enroll. To find out if you're eligible, apply now") and the _Apply for VA health care_ link to **inside _every_ income accordion**, right after the benefits description.
 3. Make the *Review the information you entered* link more prominent in location and/or visual treatment/layout (e.g., top of page or maybe look like a button like the _Continue_ button). Maybe explore how other VA.gov pages enable you to navigate to view/edit previous information.
 4. If someone navigates from the _Review Info_ page to another page, the _Continue_ button should take you back to the _Review Info_ page instead of to the next question (which was intended as the design but wasn't implemented in the click-through prototype).
 6. If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page, or possibly add a year selector to the app flow right before asking any questions.
 
 ### For content in the app
-6. Clarify the meaning of "dependents" in this question per income taxes or VA rules, and add details to the question so people will know how to answer. According to a VA subject-matter expert (in an email dated 4/17/2023), dependents include *your spouse*, unmarried children under 18 (or 18-23 if attending school full-time or disabled prior to reaching age 18), and parents if in the Veteran's direct care and whose net worth and income are below a fixed limit.
+5. Clarify the meaning of "dependents" in this question per income taxes or VA rules, and add details to the question so people will know how to answer. According to a VA subject-matter expert (in an email dated 4/17/2023), dependents include *your spouse*, unmarried children under 18 (or 18-23 if attending school full-time or disabled prior to reaching age 18), and parents if in the Veteran's direct care and whose net worth and income are below a fixed limit.
 3. Delete the text "from VBA" in the pension question because it's confusing. Also, this wording didn't get approved by Content and will be removed because it goes against current Content standards. Potential revision: "Did you get a VA Veterans pension?”
 4. Add more description to the "Aid and Attendance" and "Housebound allowance" pages and/or provide links to details because some Veterans don't know what they mean and want to understand before answering the question.
-7. Consider rewording the _Apply for VA health care_ link on the results page to "To find out if you're eligible, apply now for VA health care" in order to increase relevance for higher-income Veterans who are unsure about whether they qualify.
 6. Be more explicit about household income and deductions on the results page, without using any accordions (since they weren't opened by most participants). For example, consider changing the first sentence from "We use your last year's income to determine..." to "We use your last year's _household_ income _minus deductions (such as out-of-pocket medical expenses, education costs, and funeral/burial expenses for a spouse or child)_ to determine..."
 7. Add more description to the benefits and/or provide links to details for "VA health care", "most types of care", "copays", and "full copays".
 8. Consider standardizing the bullets for each benefit so it's easier to compare them across income thresholds: 
