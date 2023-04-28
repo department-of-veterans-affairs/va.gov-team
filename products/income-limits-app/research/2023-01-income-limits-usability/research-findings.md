@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Income Limits, Sitewide Public Websites**
 
-Date: 04/25/2023
+Date: 04/27/2023
 
 **Cindy Merrill** [cindy.merrill@adhocteam.us]
 
@@ -219,7 +219,7 @@ a. ***Review the information you entered*** link--Two participants did _not_ use
 - RECOMMENDATION: Consider making the *Review the information you entered* link into a breadcrumb at the top of the page where it won't separate the instructions and the CTA to select your income range. Maybe check how other VA.gov pages enable you to navigate to the review page.  
 
 b. **_Get past income limits_** link--Two participants had difficulty finding this link on the results page. One of them looked in the _How to estimate your income for this tool_ accordion, but this wasn't relevant. They also wanted to click the _Expand all_ accordion above the salary ranges. One of the participants was looking for a search tool but never found one.
-- RECOMMENDATION: If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page, or possibly add a year selector to the app flow right before asking any questions.
+- RECOMMENDATION: If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page, or possibly add a year selector to the app flow right before asking any questions. Another approach would be to place the link on the intro page under the _Get started_ CTA and instrument it for analytics so we will be able to track its usage in Production.
  
 c. After one participant used the **_Review Info_ page** to return to the zip code page and **then clicked the _Continue_ button**, they said they were surprised to see the _Dependents_ page. They expected to see the _Review Info_ page again. Other participants saw this, too, and said that they must be going back through all the screens.
 - RECOMMENDATION: If someone navigates from the _Review Info_ page to another page, the _Continue_ button should take you back to the _Review Info_ page instead of to the next question (which was intended as the design but wasn't implemented in the click-through prototype).
@@ -271,7 +271,7 @@ Scrolling down this very long landing page on a phone took a while, especially f
 1. Clarify and sequence the two calls to action on the results page by focusing first on selecting an income range, and second on applying for VA health care. To do this, considering moving the "Note" text ("You'll still need to meet basic eligibility requirements to enroll. To find out if you're eligible, apply now") and the _Apply for VA health care_ link to **inside _every_ income accordion**, right after the benefits description.
 3. Consider making the *Review the information you entered* link into a breadcrumb at the top of the page where it won't separate the instructions and the CTA to select your income range. Maybe check how other VA.gov pages enable you to navigate to the review page. Need to discuss with the Sitewide Content/IA team.
 4. If someone navigates from the _Review Info_ page to another page, the _Continue_ button should take you back to the _Review Info_ page instead of to the next question (which was intended as the design but wasn't implemented in the click-through prototype).
-6. If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page, or possibly add a year selector to the app flow right before asking any questions.
+6. If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page, or possibly add a year selector to the app flow right before asking any questions. Another approach would be to place the link on the intro page under the _Get started_ CTA and instrument it for analytics so we will be able to track its usage in Production.
 
 ### For content in the app
 5. Clarify the meaning of "dependents" in this question per income taxes or VA rules, and add details to the question so people will know how to answer. According to a VA subject-matter expert (in an email dated 4/17/2023), dependents include *your spouse*, unmarried children under 18 (or 18-23 if attending school full-time or disabled prior to reaching age 18), and parents if in the Veteran's direct care and whose net worth and income are below a fixed limit.
