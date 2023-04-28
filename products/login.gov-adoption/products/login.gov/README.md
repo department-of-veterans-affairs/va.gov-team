@@ -104,14 +104,14 @@ The adoption of Login.gov as a primary Credential Service Provider (CSP) for acc
 ### Before
  - Multiple login options for various VA services
 
-![](loginVA.png)
+![va](loginVA.png)
 
 ![mhv](mhv.png)
 
 ### After
  - A unified login experience using Login.gov as the primary CSP
 
-![](loginVAnew.png)
+![newVA](loginVAnew.png)
 ---
 
 #### Communications
