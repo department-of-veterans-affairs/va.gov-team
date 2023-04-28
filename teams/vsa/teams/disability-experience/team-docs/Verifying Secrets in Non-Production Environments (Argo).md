@@ -46,6 +46,8 @@ settings = Settings.lighthouse.veteran_verification.form526
 service = VeteranVerification::Service.new
 response = service.get_rated_disabilities(settings.access_token.client_id, settings.access_token.rsa_key, {auth_params: {launch: Base64.encode64(JSON.generate({ patient: '1012845658V192434' }))}})
 ```
-1012845662V671308 - mattie mae
-1012845658V192434 - jessie fisher (edited) 
+
+- 1012845658V192434 - ICN for jessie fisher
+- 1012845662V671308 - ICN for mattie mae
+
 (sourced from [here](https://github.com/department-of-veterans-affairs/vets-api-clients/blob/master/test_accounts/verification_test_accounts.md))
