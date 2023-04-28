@@ -1,3 +1,12 @@
+---
+name: VAOS Epic Template
+about: For VAOS product epic
+title: "[Epic]"
+labels: vaos-product-design, vaos-pm 
+assignees: ''
+
+---
+
 **Objective:** _Enter the details_
 
 _List out the initiatives and planned release date for tracking purposes_
