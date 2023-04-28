@@ -5,9 +5,9 @@
 
 ### Product Team
 - OCTO-DE Product Lead: Patrick Bateman
-- Product Manager: Heather Justice, Mark Fallows
+- Product Manager: 
 - FE Engineer: 
-- BE Engineer: Lihan Li
+- BE Engineer: 
 - Designer:
 - Researcher:
 - Slack channel: #1010-health-apps
