@@ -6,7 +6,7 @@ We're a grassroots, volunteer-led educational program intent on scaling up VA's 
 - centering the diverse voices of disabled Veterans, caretakers, and family members
 - asking questions first and learning from others
 
-<strong>[Complete level 1 (30 minutes) to start your journey 🪴](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/level-1.md)</strong>
+<strong>[Complete level 1 to start your journey 🪴](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/level-1.md)</strong>
 
 ## You can become an accessibility champion 💪 
   
