@@ -12,8 +12,12 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 4/28/2023
+- Updated Pre-Check-in and eCheck-in to display the Facility Address with other appointment information.
+    - [Ticket 52132](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132)
+
 ### 4/20/2023
-- Changed alert text when Veteran is too early to check in 
+- Changed alert text when Veteran is too early to check in.
     - [Ticket 54511](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54511)
 
 ### 4/10/2023
