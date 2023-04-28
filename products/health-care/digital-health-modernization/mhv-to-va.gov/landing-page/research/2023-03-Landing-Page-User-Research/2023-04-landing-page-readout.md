@@ -64,10 +64,10 @@ This research will inform updates to the MHV on VA.gov landing page, currently i
 ## Methodology 
 
 ### Interviews
-We will conduct remote interviews with Zoom. These interviews will include questions about users ability to navigate to and within the landing page, their reactions to and understandings of the landing page, and preferences and expectations related to health-specific preferences and notifications. The interviews will consist of a combination of tasks and direct questions. 
+We conducted remote interviews with Zoom. These interviews included questions about users' ability to navigate to and within the landing page, their reactions to and understandings of the landing page, and preferences and expectations related to health-specific preferences and notifications. The interviews consisted of a combination of tasks and direct questions. 
 
 ### Location
-Data collection will be remote and conducted using Zoom. 
+Data collection was remote and conducted using Zoom. 
 
 <br>
 
@@ -87,14 +87,14 @@ True: Participants recognized the landing page as a central place to manage thei
 1. Participants understood the landing page to be a place to manage their health and at first glance recognized how the landing page could be used to accomplish broad health tasks. 
 2. Overall, participants viewed the new landing page as an updated My HealtheVet Classic, which they conflated with VA.gov.  
 3. Participants were often confused by _Download medical records (Blue Button)_ and _Health history_ and did not clearly distinguish as mutually exclusive of each other. 
-4. Starting from the unauthenticated state of the updated VA.gov landing page, participants expected that they would need to sign in in order to send a message to their doctor and the majority of participants were able to recognize and articulate how they would start that process.
-5. Most participants struggled to navigate from the updated VA.gov landing page to the My HealtheVet on VA.gov landing page. 
-6. Participants relied on familiar terminology and design standards when completing certain tasks (i.e., submit for travel reimbursement, send a message) but did not readily understand VA bespoke terms (i.e., Community Care).
+4. Starting from the unauthenticated state of the updated VA.gov landing page, participants expected that they would need to sign in to send a message to their doctor and the majority of participants were able to recognize and articulate how they would start that process.
+5. Most participants struggled to navigate from the updated VA.gov home page to the My HealtheVet on VA.gov landing page. 
+6. Participants relied on familiar terminology and design standards when completing certain tasks (i.e., submit for travel reimbursement, send a message) but did not consistently understand VA bespoke terms (i.e., Community Care).
 7. Participants looked to update their health-specific “preferences” under the Appointments or Medications sections of the landing page. 
 
 ## Details of Findings 
 
-**1. Participants understood the landing page to be a place to manage their health and at first glance recognized how the landing page could be used to accomplish broad health tasks.** 
+**1. Participants understood the new My HealtheVet landing page to be a place to manage their health and at first glance recognized how the landing page could be used to accomplish broad health tasks.** 
 
 All participants recognized the landing page as a place to manage their health. 
 
@@ -113,16 +113,16 @@ The majority of participants (14 of 17 being current users of My HealtheVet clas
 > _“...the type is bigger, that is good for a person my age....There’s a lot of worthwhile information on this page, and it’s much larger, it’s much easier to read.” - P9_
 
 
-**3. Participants were often confused by **Download medical records (Blue Button)** and **Health history** and did not clearly distinguish as mutually exclusive of each other.**
-Participants often perceived Health History as a “snapshot” of their health whereas Download medical records (Blue Button) as having their complete medical records. When asked, participants were uncertain and not confident where they would navigate to access notes from doctors, vaccine records, etc and saw most health information existing in both Health History and Download medical records (Blue Button).
+**3. Participants were often confused by _Download medical records (Blue Button)_ and _Health history_ and did not clearly distinguish as mutually exclusive of each other.**
+Participants often perceived Health History as a “snapshot” of their health whereas Download medical records (Blue Button) as having their complete medical records. When asked, participants were uncertain and not confident where they would navigate to access notes from doctors, vaccine records, etc. and saw most health information existing in both Health History and Download medical records (Blue Button).
 
 > _“Expect [Medical records] to have the entire medical record downloaded. That's how it reads to me. That would be a whole heck of a lot of medical records.” - P12_
 
 > _“I thought that would've been the same thing. Or, maybe bullet points [Health history], with Blue Button being all the data.” - P4_
 
-**4. Starting from the unauthenticated state of the updated VA.gov landing page, most participants expected that they would need to sign in in order to send a message to their doctor and the majority of participants were able to recognize and articulate how they would start that process.**
+**4. Starting from the unauthenticated state of the updated VA.gov landing page, most participants expected that they would need to sign in to send a message to their doctor and the majority of participants were able to recognize and articulate how they would start that process.**
 
-16 of the 17 participants attempted to sign in when tasked to send a message to their doctor. 
+16 of the 17 participants attempted to sign in or stated they would have signed in when asked to send a message to their doctor. 
 > 
 > _“I couldn’t send a message without signing in…” - P19_
 > 
@@ -130,7 +130,7 @@ Participants often perceived Health History as a “snapshot” of their health 
 > 
 > _“I would sign first, then go to My Healthevet or I forgot the exact name...then send a secure message… I do that quite a bit actually.” - P22_
 > 
-**Note:** Study participants ran into multiple errors logging in or feature flag issues. Roughly 1 in 4 participants had to be sent the prototype.  
+**Note:** Study participants ran into multiple errors logging in or experienced feature flag issues. Roughly 1 in 4 participants had to be sent the prototype.  
 
 **5. Most participants struggled to navigate from the updated VA.gov landing page to the My HealtheVet on VA.gov landing page.**
 
@@ -151,7 +151,7 @@ Participants often perceived Health History as a “snapshot” of their health 
 
 ![Screenshot 2023-04-27 at 12 07 43 PM](https://user-images.githubusercontent.com/58444931/235002713-3536bc01-c1a1-4210-9a32-4a9e6530f30e.png)
 
-**Note:** Table participant was sent proptype previous to first task
+**Note:** Table participant was sent prototype prior to first task
 
 **6. Participants relied on familiar terminology and design standards when completing certain tasks (i.e., submit for travel reimbursement, send a message) but did not readily understand VA bespoke terms (i.e., Community Care).**
 
