@@ -204,7 +204,7 @@ Participants found some of the text to be confusing and/or ambiguous, which made
 > *"I don't understand. I would have to ask someone or look it up" (p8)*.
 
 - RECOMMENDATION: Add more description to the benefits and/or provide links to details for "VA health care", "most types of care", "copays", and "full copays".
-- RECOMMENDATION: Consider making the bullets for each benefit more consistent so it's easier to compare them across income thresholds: 
+- RECOMMENDATION: Consider making the bullets for each benefit more consistent so it's easier to compare them across income thresholds (which all participants tried to do): 
   - Outpatient and inpatient visits
   - Prescriptions
   - Travel pay (if applicable)
@@ -281,7 +281,7 @@ Scrolling down this very long landing page on a phone took a while, especially f
      2. Consider changing the additional info component _How to estimate your income for this tool_ into a heading or plain text that includes the word/concept of "deductions".
      3. Consider whether to use the longer bulleted version of Danielle's copy under _How to estimate your income for this tool_, as documented [in slack here](https://dsva.slack.com/archives/C52CL1PKQ/p1678918537793539?thread_ts=1678914092.806529&cid=C52CL1PKQ).
 8. Add **more description to the benefits and/or provide links to details** for "VA health care", "most types of care", "copays", and "full copays".
-9. Consider **making the bullets for each benefit more consistent** so it's easier to compare them across income thresholds: 
+9. Consider **making the bullets for each benefit more consistent** so it's easier to compare them across income thresholds (which all participants tried to do): 
      1. Outpatient and inpatient visits
      1. Prescriptions
      1. Travel pay (if applicable)
