@@ -56,7 +56,7 @@ The purpose of this research is to **get user feedback on the newly designed inc
 14. How far do Veterans scroll down the app results page?
      1. Most participants scrolled all the way to the bottom, but 2 did not.
 16. Do Veterans understand deductions and how that affects their income? (Did they see the details about this?)
-     1. No. Only 1 participant mentioned deductions. No other participants said anything about it and may not have known they were relevant because they didn't open the _How to estimate your income for this tool_ accordion. 
+     1. No. Only 1 participant mentioned deductions. No other participants said anything about it and may not have known they were relevant because they didn't open the _How to estimate your income for this tool_ additional info component. 
 18. After seeing the information presented in the app results page, what do Veterans want to do next? 
      1. Click on _Find out if you may be eligible for VA health care_ link in the _$90,090 or more_ accordion (4 participants), though this didn't work in the prototype. It was intended to link to the [current Eligibility page](https://www.va.gov/health-care/eligibility/).
      1. Apply for VA health care (2 participants) = what we wanted people to do
@@ -140,7 +140,7 @@ Participants were asked about the following:
 
 ### 2. Participants missed that the app results are not the final answer
 We have data from only 6 of 8 participants because the other 2 participants didn't get to that task (due to arriving to the session late or dropping off the internet during the session). 
-- 4 of 6 participants thought that the **benefits were not certain because of the phrase "may be eligible"** above each of the lists of benefits. None of these participants had opened the _How to estimate your income for this tool_ accordion, so they were guessing based on the content on the page. 
+- 4 of 6 participants thought that the **benefits were not certain because of the phrase "may be eligible"** above each of the lists of benefits. None of these participants had opened the _How to estimate your income for this tool_ additional info component, so they were guessing based on the content on the page. 
 
 - **After seeing the app results, here's what participants planned to do next** (some participants said multiple things):
   - Click on _Find out if you may be eligible for VA health care_ link in the _$90,090 or more_ accordion (4 participants), though this didn't work in the prototype. It was intended to link to the [current Eligibility page](https://www.va.gov/health-care/eligibility/).  
@@ -153,7 +153,7 @@ We have data from only 6 of 8 participants because the other 2 participants didn
   > *"I didn't apply for disability because I feel bad. Other people came back missing limbs, and I'm pretty OK compared to them. But now my hearing is bad, and I'm wondering if it's because of the firing ranges. How do I prove that?" (p7)*.
 
 - 4 of 6 participants **didn't realize that you needed to apply for VA health care** in order to find out for sure if you qualify. 
-- 2 participants figured out later in the session that they needed to apply--only after they opened the _How to estimate your income for this tool_ accordion in the Past Year task.
+- 2 participants figured out later in the session that they needed to apply--only after they opened the _How to estimate your income for this tool_ additional info component in the Past Year task.
 > *"Oh! You need to apply. So not take this information at face value" (p1)*.
 
 **One problem is that the results page has two calls to action**:
@@ -169,10 +169,10 @@ RECOMMENDATION: Clarify and sequence the two calls to action on the results page
 
 ### 3. Participants didn't know about deductions from income
 
-Most participants (7 of 8) **didn't open the _How to estimate your income for this tool_ accordion**, which describes household income and deductions that may apply. Two of them later opened it during the past limits task.
+Most participants (7 of 8) **didn't open the _How to estimate your income for this tool_ additional info component**, which describes household income and deductions that may apply. Two of them later opened it during the past limits task.
 3 participants said they expected to use the AGI (Adjusted Gross Income) number from last year's income taxes, assuming household income but no additional deductions. 
 
-> *"I automatically went to the numbers"* [without opening the _How to estimate your income for this tool_ accordion] *(p6)*.
+> *"I automatically went to the numbers"* [without opening the _How to estimate your income for this tool_ additional info component] *(p6)*.
 
 - RECOMMENDATION: Because Veteran participants didn't realize that they could deduct expenses from their income, try to more explicitly incorporate the word/concept of "deductions" into the text on the results page. Consider doing this in the first sentence and also by showing the text under _How to estimate your income for this tool_ without using the additional info component (because it wasn't opened by most participants).
 
@@ -216,7 +216,7 @@ Participants were able to navigate through the design prototype fairly smoothly,
 a. ***Review the information you entered*** link--Two participants did _not_ use this link to go back from the results page to the summary page. They used the _Back_ button in their browser instead, though one participant was concerned that this might exit them out of the app (it didn't). A different participant thought this link would take them to information that they filled out previously on VA forms (which is incorrect). Notice that the placement of the _Review the information you entered_ link is sandwiched between the instructions for the page and the CTA to select your income range, and not near any other navigation items.
 - RECOMMENDATION: Consider making the *Review the information you entered* link into a breadcrumb at the top of the page where it won't separate the instructions and the CTA to select your income range. Maybe check how other VA.gov pages enable you to navigate to the review page.  
 
-b. **_Get past income limits_** link--Two participants had difficulty finding this link on the results page. One of them looked in the _How to estimate your income for this tool_ accordion, but this wasn't relevant. They also wanted to click the _Expand all_ accordion above the salary ranges. One of the participants was looking for a search tool but never found one.
+b. **_Get past income limits_** link--Two participants had difficulty finding this link on the results page. One of them looked in the _How to estimate your income for this tool_ additional info component, but this wasn't relevant. They also wanted to click _Expand all_ above the income ranges. One of the participants was looking for a search tool but never found one.
 - RECOMMENDATION: If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page, or possibly add a year selector to the app flow right before asking any questions. Another approach would be to place the link on the intro page under the _Get started_ CTA and instrument it for analytics so we will be able to track its usage in Production.
  
 c. After one participant used the **_Review Info_ page** to return to the zip code page and **then clicked the _Continue_ button**, they said they were surprised to see the _Dependents_ page. They expected to see the _Review Info_ page again. Other participants saw this, too, and said that they must be going back through all the screens.
