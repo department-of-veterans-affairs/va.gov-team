@@ -117,16 +117,19 @@ Details should include
       * Date and time of fill request
       * Date and time requested medication was dispensed
       * Date and time dispensed medication was shipped
+      * Image
       * Assosciated tracking number
       * Any errors
     * For each past refill 
       * Date and time of refill request
       * Date and time requested medication was dispensed
       * Date and time dispensed medication was shipped
+      * Image
       * Assosciated tracking number
       * Any errors
     * For each past renewals
       * Date and time of renewal
+      * Image
       * Person who renewed
 
 #### Possible alerts
