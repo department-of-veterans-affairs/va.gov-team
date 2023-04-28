@@ -49,7 +49,10 @@ The adoption of Login.gov as a primary Credential Service Provider (CSP) for acc
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
 |----------|-------------|--------------------|--------------------|--------|
 | KPI      | % reduction in login-related support requests            |  % increase in successful logins                  | % increase in user satisfaction regarding the login experience                   | % decrease in security incidents       |
-| KPI      | Time spent on the login process            |  % increase in service utilization                  | Net Promoter Score (NPS)                   | Number of technical issues reported       |
+| KPI      | Time spent on the IAL2 account setup process            |  % of organic Login.gov IAL2 accounts successfully set up by users referred from VA.gov & related comms campaigns                 |  % increase in user satisfaction regarding the account creation experience                   | % decrease in droff offs       |
+
+                 
+                 
 
 #### Baseline KPI Values
  - Baseline values for the most critical metrics will be collected from existing VA authentication systems and user feedback.
