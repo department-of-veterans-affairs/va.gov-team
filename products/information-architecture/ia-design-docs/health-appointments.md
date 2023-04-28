@@ -32,24 +32,27 @@ Appointments PENDING View | www.va.gov/my-health/appointments?view=pending | Hom
 Appointments PAST View | www.va.gov/my-health/appointments?view=past | Home > My HealtheVet> Appointments | Filter changes the url, but not the breadcrumb
 Appointments Detail View | www.va.gov/my-health/appointments/detail?id=[ID Number]&view=[View type] | Home > My HealtheVet > Appointments > [Appointment Title] | The ID is dynamic and pulled in for each unique appointment. The view depends on the appointment type, whether it's upcoming, pending, past, or cancelled. For example, www.va.gov/my-health/appointments/detail?id=123456&view=upcoming
 Cancel Appointment |  |  | None needed, since the cancellation flows are in a modal
-Schedule Appointment | www.va.gov/my-health/appointments?view=upcoming | Home > My HealtheVet> Appointments |
+Schedule Appointment | www.va.gov/my-health/appointments/schedule | Home > My HealtheVet> Appointments> Schedule Appointment | 
+Schedule Appointment - Select Location | www.va.gov/my-health/appointments/schedule/facility | Home > My HealtheVet> Appointments> Schedule Appointment> Choose Location | 
+Schedule Appointment - Select Date | www.va.gov/my-health/appointments/schedule/date | Home > My HealtheVet> Appointments> Schedule Appointment> Choose Date | 
+Schedule Appointment - Select Reason | www.va.gov/my-health/appointments/schedule/reason | Home > My HealtheVet> Appointments> Schedule Appointment> Choose Reason | 
+Schedule Appointment - Select Visit Type | www.va.gov/my-health/appointments/schedule/visit-type | Home > My HealtheVet> Appointments> Schedule Appointment> Choose Visit Type | 
+Schedule Appointment - Contact Info | www.va.gov/my-health/appointments/schedule/contact-info | Home > My HealtheVet> Appointments> Schedule Appointment> Choose Visit Type | 
+Schedule Appointment - Review | www.va.gov/my-health/appointments/schedule/review | Home > My HealtheVet> Appointments> Schedule Appointment> Review | 
+Schedule Appointment - Confirmation |  |  | Do we need this?
+
 
 
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
 
 
-1. [Page URL or component name] - [Add/Modify/Remove]
+1. Static Landing Page - [Modify]
   - Placement description: 
   - Link label: 
   - Link destination: 
-  - Notes: 
+  - Notes: The H1 is changing, do we need to change the url or breadcrumb?
 
-2. [Page URL or component name] - [Add/Modify/Remove]
-  - Placement description: 
-  - Link label:
-  - Link destination: 
-  - Notes: 
  
 
 ## <a name="redirects"></a>Redirects <br>
@@ -58,7 +61,7 @@ Schedule Appointment | www.va.gov/my-health/appointments?view=upcoming | Home > 
 
 Current URL | Redirect to | Notes
 --- | --- | ---
- |  | 
+ |  | I don't think we need any redirects?
  
 
 
