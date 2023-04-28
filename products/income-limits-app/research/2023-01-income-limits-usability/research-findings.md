@@ -249,6 +249,12 @@ Before showing participants the design prototype for the income limits app, we a
 - 1 participant who found the [Annual Income Limits table](https://www.va.gov/healthbenefits/annual_income_limits_health_benefits.asp) said that they would contact an attorney to find out which group they're in.
 > *"Better to ask a professional, rather than spin your wheels" (p1)*.
 
+<details>
+  <summary>Annual Income Limits table (Click to show screenshot)</summary>
+  ![income-limits-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/income-limits-table.png)
+  
+</details>
+
 ### The landing page was very long to read on a phone, and participants had difficulty finding income limits  
 The **landing page** in the prototype was a static version of the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) on which the only working links were _Check our current income limits_ in two different places on the page. When the participant clicked on one of those two links, they saw the income limits intro page.
 
