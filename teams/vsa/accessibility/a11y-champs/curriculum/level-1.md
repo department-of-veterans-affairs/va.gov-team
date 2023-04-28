@@ -26,7 +26,8 @@ Depending on where you've heard it, it might mean...
 - the measurements of a ramp that signify it can be accessed by disabled people
 - assessed by a product team or an accessibility specialist
 
-<img width="513" alt="a 3d model of a ramp with ADA measurements" src="https://user-images.githubusercontent.com/14154792/235165888-6b048e6d-55a2-4ee9-b8a1-083ae8efc829.png">
+<img style="max-width:500px;" alt="a model of a ramp with a perfectly measured run slope" src="https://user-images.githubusercontent.com/14154792/235251296-844c470e-8042-4af2-9ad2-34974e5e4f36.png"/>
+
 
 
 ### Experience encompasses...
