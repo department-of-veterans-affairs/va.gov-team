@@ -34,7 +34,7 @@ We're a grassroots, volunteer-led educational program intent on scaling up VA's 
 
 ### [Level 1, Community Member](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/level-1.md) 👐
 - 1 hour to complete
-- Learn what accessibilty is, get comfortable asking for help, add yourself to our community list, and join #accessibility-help
+- Learn what accessibilty is, get comfortable asking for help, and join our community
 - Get started with your first screen reader
 
 ### Level 2, Tester 🧰 (🚧 not written yet)
