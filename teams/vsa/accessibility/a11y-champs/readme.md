@@ -1,13 +1,10 @@
 # Accessibility Champions Community (aka "A11y Champs")
 Welcome to the VA accessibility champions community ✨
 
-We're a grassroots, volunteer led community focused on scaling up VA's accessibility maturity by leveling up our people (like me and you).  
-
-How? By leveling up our people and celebrating their accessibility journey, we envision a VA where...
-- _Everyone_ is empowered to make an impact on the disabled Veteran experience
-- Teams can conduct most accessibility tasks without the full embedded support of an accessibility specialist
-- Less time is spent remediating inaccessible code, and more time is spent centering disabled Veterans in the process
-- We all can support one another in a community that values curiosity more than expertise
+We're a grassroots, volunteer-led educational program intent on scaling up VA's accessibility maturity through:
+- co-design, curiosity, and community 
+- center the diverse voices of disabled Veterans, not experts, first
+- asking questions first and learning from others
 
 <strong>[Complete level 1 (30 minutes) to start your journey 🪴](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/level-1.md)</strong>
 
@@ -20,9 +17,9 @@ Most folks pronounce a11y as "alley" or "a 11 y"
 ## You can become an a11y champion 💪 
   
 **At a high level, accessibility champions:**
-- steward accessibility beyond compliance and effective practices
 - center disabled Veterans, caregivers, and family members (not products, code, or processes)
-- aren't experts, but know how to ask for more help
+- aren't experts, but know how to ask for more help and collaborate within a community
+- share knowledge with and support their teams as facilitators through relational mentoring
 
 **Depending on their role, they might help their team by:**
 - [conducting foundational accessibility reviews for their team](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-Foundationalaccessibilitytests(required)foundational-testing)
@@ -47,25 +44,27 @@ Most folks pronounce a11y as "alley" or "a 11 y"
 - Get started with your first screen reader
 
 ### Level 2, Tester 🧰 (🚧 not written yet)
-- 1 hour to complete
+- 2 hours to complete
 - Learn how to run a foundational accessibility test
 - Get used to some screen reader shortcuts
 - Write your first accessibility ticket
 
 ### Level 3, Advocate 🫀 (🚧 not written yet)
-- 2 hours to complete
+- 3 hours to complete
 - Observe your first assistive technology research session
 - Learn the difference between the medical and social model of disability
-- Understand accessibility beyond compliance
+- Become familiar with design justice, co-design, and accessibility beyond compliance
 
 ### Level 4, Apprentice 🧠 (🚧 not written yet)
-- 3 hours to complete
+- 4 hours to complete
 - Choose a specialty path between design, research, engineering, and QA
 
 ### Level 5, Champion ⭐ (🚧 not written yet)
-- [ ] Write 2 accessibility tickets for your product team
-- [ ] Answer or support 2 questions in #accessibility-help
-- [ ] Observe 2 research sessions with assistive technology users
-- [ ] Complete your specialist project
+Complete 2 of the following tasks:
+- [ ] Shadow and support a maintenance audit for your product team with an a11y specialist
+- [ ] Facilitate a research session with Veterans using assistive technology
+- [ ] Give a presentation or host a brown bag on accessibility to your team 
+- [ ] Evaluate a design system component or pattern
+
 
 
