@@ -55,11 +55,12 @@ We're a grassroots, volunteer-led educational program intent on scaling up VA's 
 - Shadow an a11y specialist and learn from each other through relational mentoring
 
 ### Level 5, Champion ⭐ (🚧 not written yet)
-Complete 2 of the following tasks:
-- [ ] Shadow and support a maintenance audit for your product team with an a11y specialist
-- [ ] Facilitate a research session with Veterans using assistive technology
+Complete two of the following tasks:
 - [ ] Give a presentation or host a brown bag on accessibility to your team 
-- [ ] Evaluate a design system component or pattern
+- [ ] Write a blog post or article about an accessibility topic you learned about in this curriculum
+- [ ] Complete a maintenance audit for your product team with an a11y specialist
+- [ ] Facilitate a research session with Veterans using assistive technology
+- [ ] Write full accessibility annotations for a mockup going through the collaboration cycle
 
 ## What does "a11y" mean?
 
