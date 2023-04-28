@@ -91,3 +91,4 @@ Congratulations on taking your first big step towards becoming an accessibility 
 ## References
 - [Michelle A. Williams, PhD, Research Through Broken Lenses The Need to ‘Shift Left’ in UX Research](https://www.youtube.com/watch?v=9kR-P6dxUFw)
 - [Kat Holmes, Mismatch](https://mitpress.mit.edu/9780262539487/mismatch/)
+- Rex Hartson, The UX Book
