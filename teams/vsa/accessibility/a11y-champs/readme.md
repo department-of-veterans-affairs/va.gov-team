@@ -66,6 +66,8 @@ Complete two of the following tasks:
 - [ ] Facilitate a research session with Veterans using assistive technology
 - [ ] Write full accessibility annotations for a mockup going through the collaboration cycle
 
+Upon completion, you will be formally recognized as a `VA.gov Accessibility Champion` 🥳
+
 ## What does "a11y" mean?
 
 Glad you asked! The word "accessibility" is often abbreviated to <strong> a11y </strong> — as in, "a", then 11 characters, and then "y". 
