@@ -7,7 +7,7 @@
   - get started with your very first screen reader
 
 ## Join our community
-- [ ] [Join and introduce yourself on the #a11y-champs channel on VA slack](https://dsva.slack.com/archives/C8E985R32)
+- [ ] [Join and introduce yourself on the `#a11y-champs` channel on VA slack](https://dsva.slack.com/archives/C8E985R32)
 - [ ] Let us know your name, role, what team you're on, and why you decided to start your accessibility champion journey
 
 ## Accessibility, compliance, and experience
@@ -69,11 +69,20 @@ Finally, let's get you started on one screen reader ❇️
 - If you use a Macbook, [watch this video on VoiceOver (youtube)](https://www.youtube.com/watch?v=5R-6WvAihms&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g&index=7)
 - If you use a Windows computer, [watch this video on NVDA (youtube) ](https://www.youtube.com/watch?v=Jao3s_CwdRU&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g&index=9)
 
-### If you get stuck or can't figure out how to use them
+### Tasks to complete
+- [ ] Turn on your screen reader of choice
+  - [ ] If you're using VoiceOver, open up Safari
+  - [ ] If you're using NVDA or JAWs, open up Google Chrome
+- [ ] [Go to VA.gov](https://www.va.gov/) 
+- [ ] Attempt to navigate...
+  - [ ] Line by line
+  - [ ] Using headings
 
-Ask us! That's what community is for 👐
-- If you feel a little brave, ask for help on the #accessibility-help channel
-- If you want a safer space, ask for help on our #a11y-champs channel 
+#### If you get stuck or can't figure out how to use them
+
+Good! This is supposed to be difficult, and why we have a community 👐
+- If you feel a little brave, ask for help on the `#accessibility-help` channel
+- If you want a safer space, ask for help on our `#a11y-champs` channel 
 
 ## Wrapping up
 
