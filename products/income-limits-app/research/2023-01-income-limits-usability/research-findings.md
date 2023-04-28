@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Income Limits, Sitewide Public Websites**
 
-Date: 04/27/2023
+Date: 04/28/2023
 
 **Cindy Merrill** [cindy.merrill@adhocteam.us]
 
@@ -165,7 +165,7 @@ All Veteran participants did #1, but few did #2. WHY?
 - #2 is lower down on the page so not prominent visually.
 - The instruction to apply is not prominent visually–in the second sentence of the note–and is sandwiched between instructions about #2.
 
-RECOMMENDATION: Clarify and sequence the two calls to action on the results page by focusing first on selecting an income range, and second on applying for VA health care. To do this, considering moving the "Note" text ("You'll still need to meet basic eligibility requirements to enroll. To find out if you're eligible, apply now") and the _Apply for VA health care_ link to **inside _every_ income accordion**, right after the benefits description.
+RECOMMENDATION: Clarify and sequence the two calls to action on the results page by focusing first on selecting an income range, and second on applying for VA health care. To do this, consider moving the "Note" text ("You'll still need to meet basic eligibility requirements to enroll. To find out if you're eligible, apply now") and the _Apply for VA health care_ link to **inside _every_ income accordion**, right after the benefits description.
 
 ### 3. Participants didn't know about deductions from income
 
@@ -268,7 +268,7 @@ Scrolling down this very long landing page on a phone took a while, especially f
 
 ## Recommendations
 ### For the app design and functionality
-1. Clarify and sequence the two calls to action on the results page by focusing first on selecting an income range, and second on applying for VA health care. To do this, considering moving the "Note" text ("You'll still need to meet basic eligibility requirements to enroll. To find out if you're eligible, apply now") and the _Apply for VA health care_ link to **inside _every_ income accordion**, right after the benefits description.
+1. Clarify and sequence the two calls to action on the results page by focusing first on selecting an income range, and second on applying for VA health care. To do this, consider moving the "Note" text ("You'll still need to meet basic eligibility requirements to enroll. To find out if you're eligible, apply now") and the _Apply for VA health care_ link to **inside _every_ income accordion**, right after the benefits description.
 3. Consider making the *Review the information you entered* link into a breadcrumb at the top of the page where it won't separate the instructions and the CTA to select your income range. Maybe check how other VA.gov pages enable you to navigate to the review page. Need to discuss with the Sitewide Content/IA team.
 4. If someone navigates from the _Review Info_ page to another page, the _Continue_ button should take you back to the _Review Info_ page instead of to the next question (which was intended as the design but wasn't implemented in the click-through prototype).
 6. If we want the _Get past income limits_ link to be easier to find, consider moving it up higher on the results page, or possibly add a year selector to the app flow right before asking any questions. Another approach would be to place the link on the intro page under the _Get started_ CTA and instrument it for analytics so we will be able to track its usage in Production.
