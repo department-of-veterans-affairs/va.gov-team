@@ -129,7 +129,6 @@ Details should include
       * Any errors
     * For each past renewals
       * Date and time of renewal
-      * Image
       * Person who renewed
 
 #### Possible alerts
