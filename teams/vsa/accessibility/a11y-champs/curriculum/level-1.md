@@ -35,7 +35,8 @@ Depending on where you've heard it, it might mean...
 - the awful experience a disabled person may feel when being separated from their friends to access a compliant ramp behind a building and by the dumpsters
 - assessed (and felt _internally_) by our disabled Veterans, family members, and caregivers
 
-<img width="500" alt="a ramp behind a building next to the trash" src="https://user-images.githubusercontent.com/14154792/235256652-82a43f2d-b5f3-4d0d-89a6-8718aac81b25.png">
+<img width="500" alt="a ramp behind a building next to the dumpster" src="https://user-images.githubusercontent.com/14154792/235256917-ea4edb16-39aa-41d2-9f9a-112dccf7e6d9.png">
+
 
 
 ### We want to focus on accessiblity as an experience more (and as compliance less)
@@ -43,6 +44,9 @@ Although it's easier for us to measure accessibility from the frame of complianc
 - we understand we cannot assess the experience of disabled Veterans for them (we're not experts)
 - we center their voices in our work as early and often as possible
 - we learn how to ask one another for help
+
+<img width="500" alt="a flat entrance with no need of a ramp at all" src="https://user-images.githubusercontent.com/14154792/235257362-46e55380-c704-4a5e-a547-08950b394334.png">
+
 
 ## Learn how to ask for help
 **Disability is complex.** No one will have all the answers, not even your specialists!
