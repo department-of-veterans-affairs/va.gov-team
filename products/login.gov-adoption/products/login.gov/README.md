@@ -40,7 +40,6 @@ The adoption of Login.gov as a primary Credential Service Provider (CSP) for acc
 
 ## Undesired Business Outcomes
 - Resistance or pushback from internal stakeholders during the adoption process
-- Increased costs or resource allocation during the transition phase
 
 ---
 ## Measuring Success
