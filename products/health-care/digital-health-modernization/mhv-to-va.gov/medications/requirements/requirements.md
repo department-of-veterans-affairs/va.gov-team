@@ -5,7 +5,8 @@
 | Date           | Changed By       | Description of Change                                                                                               |
 |----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
 | 4/26/23        | Coulton Bunney   |Created document                                                                                                     |
-| 4/27/23        | Coulton Bunney   |Added initial draft of overview and use cases                                                                           |
+| 4/27/23        | Coulton Bunney   |Added initial draft of overview and use cases                                                                        |
+| 4/28/23        | Coulton Bunney   |Added initial draft of requirements                                                                        |
 
 ## Table of Contents
 - [Overview](#overview)
@@ -158,7 +159,7 @@ Fill or refill error alert
 * When a prescription refill is in process, remove the ability to refill and provide a pithy explainer that the refill is in process. The button should be replaced by the estimated fill date. 
 * Once a med has been dispensed, start the process over again.
 
-### Renewing a prescription
+### Renewing a medication
 * When a med is active, a refill is not in process, and there **no** refills left, a user should be able to request a renewal by pressing an action link. 
 * When pressing the action link, initiate a pre-filled secure message to the ordering provider's triage group. In this screen, also provide a number to call AudioCare. A user should be able to edit the triage group name and also add a note. 
 
