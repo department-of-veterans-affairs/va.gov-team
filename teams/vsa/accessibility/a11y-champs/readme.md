@@ -8,13 +8,7 @@ We're a grassroots, volunteer-led educational program intent on scaling up VA's 
 
 <strong>[Complete level 1 (30 minutes) to start your journey 🪴](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/level-1.md)</strong>
 
-## What does "a11y" mean?
-
-Glad you asked! The word "accessibility" is often abbreviated to <strong> a11y </strong> — as in, "a", then 11 characters, and then "y". 
-
-Most folks pronounce a11y as "alley" or "a 11 y"
-
-## You can become an a11y champion 💪 
+## You can become an accessibility champion 💪 
   
 **At a high level, accessibility champions:**
 - center disabled Veterans, caregivers, and family members (not products, code, or processes)
@@ -66,5 +60,9 @@ Complete 2 of the following tasks:
 - [ ] Give a presentation or host a brown bag on accessibility to your team 
 - [ ] Evaluate a design system component or pattern
 
+## What does "a11y" mean?
 
+Glad you asked! The word "accessibility" is often abbreviated to <strong> a11y </strong> — as in, "a", then 11 characters, and then "y". 
+
+Most folks pronounce a11y as "alley" or "a 11 y"
 
