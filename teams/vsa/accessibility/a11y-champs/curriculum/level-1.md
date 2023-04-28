@@ -72,7 +72,7 @@ Finally, let's get you started on one screen reader ❇️
 ### Tasks to complete
 - [ ] Turn on your screen reader of choice
   - [ ] If you're using VoiceOver, open up Safari
-  - [ ] If you're using NVDA or JAWs, open up Google Chrome
+  - [ ] If you're using NVDA, open up Google Chrome
 - [ ] [Go to VA.gov](https://www.va.gov/) 
 - [ ] Attempt to navigate...
   - [ ] Line by line
