@@ -106,6 +106,7 @@ Congratulations on taking your first big step towards becoming an accessibility 
 **Before you go**
 - [ ] <strong>[Complete this feedback survey (Microsoft Forms)](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAToLe2lUM0FTUlRTRUxIMEhTVjc1RExON1JTVTk2Vi4u).</strong> This curriculum is a work in progress. If you have feedback from the technical (broken links) to the educational (hard to follow curriculum) or just want to say something nice, we'd love to hear it.
 - [ ] <strong>Message the `#a11y-champs` channel to let us know that you've completed level 1!</strong> We'll update our community doc to reflect that. Congratulations again on your first step 💙
+- [ ] Move on to level 2, or bookmark it for safekeeping (level 2 hasn't been written yet, so if you've finished this as a tester, you're all done!)
 
 ## References
 - [Michelle A. Williams, PhD, Research Through Broken Lenses The Need to ‘Shift Left’ in UX Research](https://www.youtube.com/watch?v=9kR-P6dxUFw)
