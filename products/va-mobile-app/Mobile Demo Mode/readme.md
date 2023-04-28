@@ -1,7 +1,7 @@
 
-# A Health and Benefits Mobile App Demo Mode 
+# A Health and Benefits Mobile App Demo Mode #
 
-## Purpose:
+## Purpose: ##
 
 * The VA Health and Benefit App’s Demo Mode mode provides a safe and non-productionalized environment for users to interact and engage with the app’s navigation, functionality, features, and designs.
 
@@ -14,11 +14,12 @@
 * Case sensitive
 * Space sensitive
 
-**Contacts:**
-* Team - Ad Hoc Llc. 
-* VA PO - Chris Johnston
-* Ad Hoc Group Product Manager - Matt Hall
-* Slack: #va-mobile-app
+### Contacts:###
+Area | Name 
+------ | ------
+VA PO | Chris Johnston
+Ad Hoc | Group Product Manager - Matt Hall
+Slack Channel  | #va-mobile-app
 
 
 
@@ -36,7 +37,7 @@
 
 
 
-## Troubleshooting:
+## Troubleshooting:##
 
 Demo Mode’s password is not working
 - Case sensitive and space sensitive - review password entered 
