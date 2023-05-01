@@ -14,7 +14,7 @@ The VA has a relationship with Veterans which can be leveraged to provide more, 
 
 In December, we completed a [discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2022-10-Login.gov-Adoption-Discovery-Research) that helped us gain a deeper understanding of Veterans and their needs. It also helped us develop [hypotheses](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/in-person%20support/product-brief.md) for how to solve problems.
 
-This next phase will focus on prototyping and testing hypotheses, with the goal of defining a minimum viable service. By the end of this phase we should understand:
+This next phase will focus on prototyping and testing hypotheses, with the goal of defining a minimum viable service. By the end of this design phase we should understand:
 - what the service will and won’t do
 - how we will build and deliver parts of the service
 - which services and system we need to integrate with and how
