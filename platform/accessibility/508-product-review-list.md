@@ -1,4 +1,12 @@
-\*This page will no longer be maintained as of 4/29/2021. Another work product is in progress for tracking and reporting accessibility health for products across VA.gov. Please contact Platform team if you have any questions.
+----
+
+# We've moved our docs! 
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform support team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+----
 
 > ⚠️ @joshkimux has went through all remaining tickets and added labels for them to be tracked in the [new a11y product health dashboard here](https://docs.google.com/spreadsheets/d/1lgzMiZZ-0rBPDuB2gRupBAjsyF0WTe005VvEHYrMxww/edit?usp=sharing)
 
