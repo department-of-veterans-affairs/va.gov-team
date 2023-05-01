@@ -34,7 +34,7 @@ Pages for working on new initiates
 [Managed by the VA.gov Platform](https://design.va.gov/about/designers/design-libraries)
 
 Primary library:
-- VA.gov Pattern Library\
+- VA.gov Pattern Library
 
 Additional libraries:
 - Annotations library
@@ -69,8 +69,10 @@ Used for research synthesis, shared userflow and other collaboration needs.
 
 
 ### How we work (TBD)
-
-
+[draft]
+- Internal design syncs
+- Meeting agenda docs
+- Content shared health office hours and specific 1010 bi-weekly
 
 
 
