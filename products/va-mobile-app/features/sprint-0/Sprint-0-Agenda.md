@@ -18,13 +18,13 @@ The Sprint 0 meeting is a time to do the following:
 
 
 
-* [Getting Out/Transitioning User State](https://docs.google.com/document/d/1ECCgJNJ1edh8wjJ-sD9y2G86ds_Vd6i_a1bYlRJKLoA/edit)   
-* Sprint 0 - discovery research: what benefits am I eligible for? - 
-* App store review strategy 
-* Program level analytics - 
-* App store marketing strategy 
+* [Getting Out/Transitioning User State](https://docs.google.com/document/d/1ECCgJNJ1edh8wjJ-sD9y2G86ds_Vd6i_a1bYlRJKLoA/edit) (Holly)
+* Sprint 0 - discovery research: what benefits am I eligible for? - (Liz)
+* App store review strategy (Matt)
+* Program level analytics - (Greta)
+* App store marketing strategy (Stacy)
 * Overall strategy for push notifications
-* 10-10EZR 
+* 10-10EZR (Stacy)
 * Cerner Impacts
 * Web and App UI differences
 * Terms and conditions consolidated approach across VA
@@ -39,7 +39,7 @@ The Sprint 0 meeting is a time to do the following:
     * Has edipi on it
     * Has photo
     * H623A - eligibility letter for getting on base, doesn’t have a photo so we should look at this for VHIC/VIC
-* [Omni-channel handoffs](https://docs.google.com/document/d/1fIqeZ3Ajbn6VBo-nYuVo8fdNLGHAsaqNJLxkICph0gk/edit?usp=share_link)
+* [Omni-channel handoffs](https://docs.google.com/document/d/1fIqeZ3Ajbn6VBo-nYuVo8fdNLGHAsaqNJLxkICph0gk/edit?usp=share_link) (Stacy)
 * [External Links - Minimize and Refine](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4077)
 * Deep Linking from Push Notifications
 * Personalized Notifications
