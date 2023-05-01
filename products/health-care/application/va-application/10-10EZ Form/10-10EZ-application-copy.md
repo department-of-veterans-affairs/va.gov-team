@@ -118,51 +118,86 @@ Expiration date: 06/30/2024
 [END component form need help, health care] 
 
 
--- 
+--- 
+
+### Page: Unauthenticated Pre-Check
+
+#### URL: /health-care/apply/application/id-form
+
+[h1] We need some information before you can start your application
+[p] This will help us fit the application to your specific needs. Please fill out the form below. Then we’ll take you to the VA health care application (10-10EZ).
+[p bold] Want to skip this step?
+[a] Sign in to start your application.
+[component text input label] First name (*Required)
+[component text input label] Last name (*Required)
+[label] Date of birth (*Required)
+Month Day Year (dropdowns)
+[component text input label] Social Security number(*Required)
+[button primary] [Continue to the application>>]
 
 
-## We need some information before you can start your application
-This will help us fit the application to your specific needs. Please fill out the form below. Then we’ll take you to the VA health care application (10-10EZ).
+---
 
-**Want to skip this step?**
+### Page: Veteran’s Name
 
-[Sign in to start your application.](https://staging.va.gov/health-care/apply/application/id-form)
+#### URL: /health-care/apply/application/veteran-information/profile-information
 
-First name (*Required)
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
 
-Last name (*Required)
+[p] You don’t have to fill in all these fields. But we can review your application faster if you provide more information.
 
-Date of birth (*Required)
+[component form text input label] Your first name (*Required)
 
-Month Day Year _(dropdown)_
+[component form text input label] Your middle name
 
-Social Security number(*Required)
+[component form text input label] Your last name (*Required)
 
-[Continue to the application>>]
+[component form text input label] Suffix (dropdown) Jr. Sr. II III IV
 
-## Step 1 of 6: Veteran Information
-
-You aren’t required to fill in all fields, but we can review your application faster if you provide more information.
-
-Your first name (*Required)
-
-Your middle name
-
-Your last name (*Required)
-
-Suffix  _(dropdown)_ Jr. Sr. II III IV
-
-Mother’s maiden name
-
-[<< Back] [Continue >>]
+[button pair] [<< Back] [Continue >>]
 
 
-## Step 1 of 6: Veteran Information
-Date of birth (*Required)
+---
 
-Month Day Year _(dropdown)_
+### Page: Social Security number
 
-Social Security number(*Required)
+#### URL: /health-care/apply/application/veteran-information/profile-information-ssn
+
+
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
+
+[component text input label] Social Security number (*Required)
+
+[button pair] [<< Back] [Continue >>]
+
+
+---
+
+### Page: Date of birth
+
+#### URL: /health-care/apply/application/veteran-information/profile-information-dob
+
+
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
+
+[component date label] Date of birth (*Required)
+[dropdowns for: month, day] [ input for year]
+
+[button pair] [<< Back] [Continue >>]
+
+
+---
+
+
+
+
+
 
 **Your place of birth**
 
