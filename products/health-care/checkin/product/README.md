@@ -94,7 +94,9 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
  - Status: Released
  - Purpose: Added Pre-Check-in support for phone appointments
  - Additional Info: Based on the conversation in this [slack thread](https://dsva.slack.com/archives/C022AC2STBM/p1682438155187729?thread_ts=1682432660.843999&cid=C022AC2STBM), the following decisions have been made:
-      - We will not support video/telehealth appointments in Pre-Check-in and eCheck-in because video appointments make use telehealth software that includes notifications and instructions for the appointments; therefore, Pre-Check-in & eCheck-in are not needed and would conflict with these telehealth applications 
+      - We will not support video/telehealth appointments in Pre-Check-in and eCheck-in because 
+          - Video appointments make use telehealth software that includes notifications and instructions for the appointments; therefore, Pre-Check-in & eCheck-in are not needed and would conflict with these telehealth applications 
+          - Video appointments typically don't involve MSA staff interacting with the Veteran prior to the appointment with the Dr. 
       - We will not support Community Care appointments in Pre-Check-in and eCheck-in because they are maintained outside of the VA's system and would be problematic to integrate with  
 
 #### Spanish Language Support 
