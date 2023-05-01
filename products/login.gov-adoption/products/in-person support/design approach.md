@@ -41,7 +41,7 @@ Next, we will prototype the service or parts of the service so we can test ideas
 
 ### Testing
 
-After we’ve identified and prototyped parts of the services that we should test, we will create and implement a research pan.
+After we’ve identified and prototyped parts of the services that we should test, we will make a plan for and do research with Veterans and staff who deliver the service.
 
 #### This will include:
 - writing a research plan that lets us test parts of the service with Veterans and staff, including a plan for recruitment and travel
