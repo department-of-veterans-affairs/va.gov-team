@@ -81,6 +81,13 @@ _Hypthesis 2:_ Participants will understand the landing page as a central locati
 
 True: Participants recognized the landing page as a central place to manage their health. 
 
+Hypothesis 1            |  Hypthesis 2
+:-------------------------:|:-------------------------:
+![MyHealth](https://user-images.githubusercontent.com/58444931/235532742-5adbb883-b3e4-41a6-982c-aaf64bc0f40a.png)|![Landingpage](https://user-images.githubusercontent.com/58444931/235532223-55138331-93f7-4728-98b7-2bb5dc039437.png)
+
+
+
+
 <br>
 
 ## Key Findings
@@ -101,6 +108,9 @@ All participants recognized the landing page as a place to manage their health.
 > _“You want to make an appointment, talk to your primary care physician, refill your medication, message. It's a lot more simple than the prior page was.” - P19_
 
 > _“It’s an informational page that lets people know where they could go to manage their care and it also shows exactly what you can manage…” - P3_
+
+![Artboard](https://user-images.githubusercontent.com/58444931/235526483-67b03c49-25d6-4e6c-b1f4-b68226c57257.png)
+
 
 **2. Overall, participants viewed the new landing page as an updated My HealtheVet classic, which they conflated with VA.gov.**
 
@@ -185,9 +195,10 @@ All 10 participants asked to track their prescription refills navigated to the M
 ## Recommendations
 
 - Surface helpful content and utilize design standards that enable users to  distinguish  between **Download medical records (Blue Button)** and **Health history**   
-- Conduct further research around the navigation from VA.gov home page to the My HealtheVet on VA.gov landing page 
-- Continue to utilize plain language and VA content standards that help Veterans identify and understand benefits, services, and tools on VA.gov (e.g. Community Care) 
-- Work with team to further research preferences and design an experience around application and notification preferences
+- Continue to utilize plain language and VA content standards that help Veterans identify and understand benefits, services, and tools on VA.gov (e.g. Community Care).  
+- Conduct further research around the navigation from VA.gov home page to the My HealtheVet on VA.gov landing page.  
+- Conduct further research to understand how users understand and navigate the Health Hub vs. health resources, as well as what users expect (and how they navigate) when linked outside of VA.gov. 
+- Work with team to further understand preferences and design an experience around application and notification preferences. 
 
 ## Next Steps
 
