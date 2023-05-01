@@ -16,6 +16,8 @@
 
 </details>
 
+## MEETING NOTES MOVING
+To [Lighthouse/CMS Sync Notes (Google doc)](https://docs.google.com/document/d/1Esq3zdNulcbe84xeJwm6O5tu7gVbgvFzWObyfbkKDjA/edit?usp=sharing)
 
 ## Monday, April 24, 2023
 ### Standing topics
