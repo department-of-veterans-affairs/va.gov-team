@@ -40,6 +40,7 @@ Pages listed below
 - You didn’t receive a dishonorable discharge, **and**
 - You meet at least one of the service requirements for enrollment
 [end ul]
+
 [p] You must meet at least one of these service requirements:
 [ul]
 - You served at least 24 months in a row without a break (called continuous), or for your full active-duty period, **or**
@@ -47,9 +48,11 @@ Pages listed below
 - You were discharged for a hardship or “early out,” **or**
 - You served before September 7, 1980 
 [end ul]
+
 [p] **Note:** Time spent on active-duty status for training purposes only doesn’t count toward the service requirements. 
 [Get instructions on how to apply for a discharge upgrade or correction](https://www.va.gov/discharge-upgrade-instructions/) 
 [END component additional info]
+
 [h3 class h4] 2. Gather your information
 [p] Here’s what you’ll need to apply:
 [ul]
@@ -57,11 +60,14 @@ Pages listed below
 - **Your military discharge information.** If you sign in to apply, we may be able to fill in this information for you. If you don’t sign in to apply, we’ll ask you to upload a copy of your DD214 or other separation documents.**
 - **Insurance cards** for all health insurance companies that cover you. This includes any coverage that you get through a spouse or significant other. This also includes Medicare, private insurance, or insurance from your employer. 
 [end ul]
+
 [p] We’ll also ask you for this optional information:
 [ul]
 - **Last year's gross household income** for you, your spouse, and your dependents. This includes income from a job and any other sources. Gross household income is your income before taxes and any other deductions.
 - **Your deductible expenses for the past year.** These include certain health care and education costs. These expenses will lower the amount of money we count as your income.
 [end ul]
+
+
 [component additional info]
 [title] Why does the VA need this information? 
 [content] 
@@ -72,16 +78,24 @@ Pages listed below
 - Your income level (and the income level of your spouse or other qualified dependents)
 - Your eligibility for Medicaid, VA disability compensation, and VA pension benefits
 [end ul]
+
+
 [p] We use this information to help us decide these 3 things:
 [ul]
 - What types of VA health care benefits you're eligible for, **and**
 - How soon we enroll you in VA health care, **and**
 - How much (if anything) you’ll have to pay toward the cost of your care
+[end ul]
+
+
 [p] We give Veterans with service-connected disabilities the highest priority.
 [p] **Note:** We ask about other health insurance for billing only. Having other health insurance doesn’t affect your eligibility for VA health care.
 [END component additional info]
+
+
 [h3 class h4] 3. Start your application
 [p] We’ll take you through each step of the process. It should take about 30 minutes.
+
 [component additional info]
 [title] What happens after I apply? 
 [content]
@@ -97,6 +111,7 @@ Pages listed below
 - We can fill in some of your information for you to save you time.
 - You can save your work in progress. You'll have 60 days from when you start or make updates to your application to come back and finish it. 
 [end ul]
+
 [p] **Note:** You can sign in after you start your application. But you'll lose any information you already filled in. 
 [button primary] [Sign in to start your application]
 [a link] Start your application without signing in
@@ -338,6 +353,12 @@ Mobile telephone number
 
 [<< Back] [Continue >>]
 
+
+
+
+---
+
+
 ## Step 2 of 6: Military Service
 
 Last branch of service(*Required) _(dropdown)_ Air Force, Army, Coast Guard, Marine Corps, Merchant Seaman, Navy, Noaa, Space Force, USPHS, Filipino Commonwealth Army, Filipino Guerilla Forces, Filipino New Scout, Filipino Old Scout, Other
@@ -379,82 +400,12 @@ Served on active duty at least 30 days at Camp Lejeune from January 1, 1953, thr
 
 [<< Back] [Continue >>]
 
-## Step 2 of 6: Military Service
 
-**Upload your discharge papers**
 
-Please upload a copy of your military discharge papers (like your DD214, DD256, DD257, NGB22, or other separation documents). If you have more than one discharge document, please upload the one with the highest character of discharge. If you don’t have your discharge papers, you can upload a copy of other official military documents (like proof of military awards or your disability rating letter).
 
-You don’t have to upload these documents. But it can help us verify your military service and may speed up your application process.
 
-**Tips for uploading:**
 
-- Upload documents as one of these file types: .jpg, .png, .pdf, .doc, .rtf
-- Upload one or more files that add up to no more than 10 MB total.
-- If you don’t have a digital copy of a document, you can scan or take a photo of it and then upload the image from your computer or phone.
 
-[Upload a document]
-
-[<< Back] [Continue >>]
-
-## Step 3 of 6: VA Benefits
-
-**Current compensation from VA**
-
-VA disability compensation (pay) provides monthly payments to Veterans with service-connected disabilities. You may get this benefit if you got sick or injured, or had a condition that got worse, because of your active-duty service. We assign a disability rating based on the severity of your disability.
-
-Do you receive VA disability compensation? (*Required)
-
-Why we ask for this information _(more info)_
-
-We use this information to help us decide these 4 things:
-
-- If you can fill out a shorter application, **and**
-- What types of VA health care benefits you’re eligible for,**and**
-- How soon we enroll you in VA health care, **and**
-- How much (if anything) you’ll have to pay toward the cost of your care
-
-We give veterans with service-connected disabilities the highest priority.
-
-_(end more info)_
-
- _(radio buttons)_
-
-Yes, for a service-connected disability rating of up to 40%
-
-Yes, for a service-connected disability rating of 50% or higher
-
-No
-
-[<< Back] [Continue >>]
-
-## _(If "no" to previous question)_ Step 3 of 6: VA Benefits 
-
-**Current compensation from VA**
-
-Our Veterans Pension program provides monthly payments to certain wartime Veterans. To get a Veterans Pension, you must meet certain age or disability requirements and have income and net worth certain limits.
-
-Do you receive a Veterans pension from the VA? (*Required)
-
-Why we ask for this information _(more info)_
-
-We use this information to help us decide these 3 things:
-
-- What types of VA health care benefits you’re eligible for,and
-- How soon we enroll you in a VA health care, and
-- How much (if anything) you’ll have to pay toward the cost of your care
-
-If you have a Veterans Pension, you may pay a lower copay, or no copay, for certain types of care and services.
-
-_(end more info)_
-
- _(radio buttons)_
-
-Yes
-
-No
-
-[<< Back] [Continue >>]
 
 ## Step 4 of 6: Household Information
 
@@ -675,6 +626,9 @@ Amount you paid in funeral or burial expenses for a deceased spouse or child thi
 Amount you paid for anything related to your own education (college or vocational) this past year. Do not list your dependents’ educational expenses.(*Required) $
 
 [<< Back] [Continue >>]
+
+---
+
 
 ## Step 5 of 6: Insurance information
 
