@@ -22,7 +22,9 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
        - **[Implement Text Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55874)**
-            - What BE work remains to be completed?
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] vets-api: Update configs to store template info](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55879)
+         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Call VANotify in the background with the worker](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55908)
+         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] VANotify - Add text templates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55878)
         - Prepare for research study
             -  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56613)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56556)
@@ -39,7 +41,9 @@ ________________________________________________________________________________
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Monitor GA & make decision on releasing    
     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create Content for 45-Minute Check-in Reminder Text](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53569)  
-        - What research study work remains to be completed?    
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Finish CodePen prototype](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56144)        
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964#issuecomment-1512100240)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Set-up for Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56624)   
    - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57336)
