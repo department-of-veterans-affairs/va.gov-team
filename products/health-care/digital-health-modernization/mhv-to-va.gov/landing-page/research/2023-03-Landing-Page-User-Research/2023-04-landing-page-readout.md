@@ -169,7 +169,7 @@ Participants who already knew what Community Care (5 participants) were drawn to
 
 >_"I would probably go here under My VA health benefits… maybe Community Care or My HealtheVet community…I think I would find resources here [bottom of screen]." - P10_
 
-**7. Participants looked to update their health-specific “preferences” under the Appointments or Medications sections of the landing page.** 
+**7. When asked to update settings (that currently are located in VA.gov Profile), that would allow users to get appointment reminders and track refill notifications, participants looked to accomplish these tasks under the “Appointments” and “Medications” sections of the landing page (rather than the Profile).** 
 
 10 out of the 15 participants tasked with setting up appointment reminders looked under the Appointment section of the landing page. 
 
