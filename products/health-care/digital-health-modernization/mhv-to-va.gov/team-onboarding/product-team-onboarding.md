@@ -79,20 +79,17 @@ As mentioned earlier, VA.gov repositories are public and can be accessed and rev
 2) **Gain write access to the VA.gov Repositories** - Once you are in the VA Organization, the new team member must request a [Platform Orientation Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team%2C+analytics-insights%2C+analytics-request&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D) for themself - This request kicks off processes for granting you access to the VA GitHub repos. Be sure to complete all fields in the request and *be on the lookout for an email from an admin via GitHub. If you don't respond within a few days, your request will be archived.*
 
 
+## Getting Access to Tools
+The VA Platform site has detailed instructions on the [tools you will need](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-tools) and [how to request access to each](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools).  In many cases it's best to discuss your environment setup with your associated Lead.  In many cases you will also need access to AWS to tunnel to MHV APIs, which can be done with an [AWS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=AWS+access+for+%5Bindividual%5D).
 
 
-
-### Getting Access to Tools
-- The VA Platform site has detailed instructions on the [tools you will need](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-tools) and [how to request access to each](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools).
-
-
-### AWS
-- Used to access the AWS tunnel to MHV APIs in local environments.
-[AWS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=AWS+access+for+%5Bindividual%5D)
-
-### VA Platform Collaboration Cycle
+## VA Platform Collaboration Cycle
 As products and new features are developed for VA.gov, they go through a process called the Collaboration Cycle, where teams get feedback and guidance on their work to ensure it meets VA.gov experience standards.  Each member of the team should become familiar with the process and understand their responsbilities, Platform expectations, and the timing and required artifacts at each touchpoint.
-- [VA Platform Collaboration cycle website](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
+[VA Platform Collaboration cycle website](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
+
+
+## Role Specific Information
+Below lists some of the role specifi information depending on your assignment:
 
 ### Product-Specific Info 
   - [VA.gov Design System](https://design.va.gov/)
@@ -111,6 +108,7 @@ Please note that set up instructions may differ if your laptop/desktop is GFE (G
 - [VA Platform Research and Design site](https://depo-platform-documentation.scrollhelp.site/research-design/)
 - [VA.gov design principles](https://design.va.gov/about/principles)
 - [Design system website](https://design.va.gov/)
+
 
 ## Offboarding
 If a member of the team leaves the contract, they should submit an [offboarding request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=analytics-insights%2C+Offboarding%2C+operations&template=offboarding-request.md&title=Offboarding+of+%5Bindividual%5D).  If they have already left, their HR manager, Product Manager, Product Owner, or Program Director can submit one on their behalf.
