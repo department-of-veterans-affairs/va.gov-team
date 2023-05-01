@@ -33,7 +33,7 @@ Pages for working on new initiates
 [Managed by the VA.gov Platform](https://design.va.gov/about/designers/design-libraries)
 
 Primary library:
-- VA.gov Pattern Library\
+- VA.gov Pattern Library
 
 Additional libraries:
 - Annotations library
