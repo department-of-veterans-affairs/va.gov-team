@@ -155,9 +155,9 @@ Participants often perceived Health History as a “snapshot” of their health 
 
 **6. Participants relied on familiar terminology and design standards when completing certain tasks (i.e., submit for travel reimbursement, send a message) but did not readily understand VA bespoke terms (i.e., Community Care).**
 
-Participants were confident (13 of 13 participants) in how to submit for travel reimbursement, but skeptical based on past experience with the VA. 
+13 of 13 participants successfully located the “File a claim for travel reimbursement” link on the home page using terms such as “Payments” and “travel reimbursement.”  
 
-> _“Ooooh ‘file a claim for travel reimbursement’ I like that being there!...The VA owes me a lot of money because I keep getting denied [but] cannot talk to anyone …. so I’ve stopped submitting - P 26_
+> _“Ooooh ‘file a claim for travel reimbursement’ I like that being there!..." - P 26_
 
 Participants associated certain terms related to messaging a doctor, which helped them locate the secure messaging functionality
 
