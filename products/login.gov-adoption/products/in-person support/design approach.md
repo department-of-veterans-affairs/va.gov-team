@@ -28,6 +28,7 @@ Product and development have started initial scoping of this phase, including te
 #### This will include:
 - meeting with MHV coordinators to learn more about their current experiences (training, systems and processes) and hopes and fears about running this service in the future
 - reviewing analogous services, such as Real ID, to understand how others solve similar problems
+- reviewing [discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2022-10-Login.gov-Adoption-Discovery-Research) as needed
 
 ### Prototyping
 
