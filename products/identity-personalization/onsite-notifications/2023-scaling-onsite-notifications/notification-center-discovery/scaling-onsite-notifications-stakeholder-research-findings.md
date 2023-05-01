@@ -39,44 +39,29 @@ Our goals for this stakeholder research study were:
 ## Methodology 
 
 We conducted stakeholder interviews via Zoom with OCTO product owners:
-Chris Johnston - Portfolio lead
-Rachel Han, Jen Ecker, Ryan Thurlwell, Matt Hall - Mobile app leads
-Lauren Alexanderson, Kay Lawyer, and Kristen McConnell - Health leads
-Dave Conlon - Sitewide lead
-Matt Self - Benefits lead
-Mikki Northuis - IA/Nav lead
-Chante Lantos-Swett - Account experience lead; Also leads customer support work
-Martha Wilkes - Accessibility lead
-Matt Dingee - Design lead
-Ray Wang - Platform lead
 
-
-## Hypotheses and Conclusions
-
-1. We expect that in the new design Veterans will still be able to find what they're looking for upon login and act on it as needed.
-   * **Definitely true.** We started the research session by asking what benefits each Veteran had throigh VA and what online tools they use to manage them. All Veterans were able to find information on My VA that was relevant to the benefits they had and perform all actions thye would normally do with other online tools like My HealtheVet, eBenefits, and the mobile app.
-  
-2. We expect that showing all sections all the time to LOA3 users will not be distracting and will help highlight benefits that Veterans may be interested in if they are not currently enrolled.
-   * **Definitely true.** When questioned about empty sections, no one said that these sections were distracting to them or negatively impacted the experience at all. Several participants said that it was nice to see those empty sections on My VA to be reminded that those benefits might be of interest to them.
-   
-3. We expect that most important top tasks will be present and have all important details on My VA, possibly with the exception of military records.
-    * **Definitely true.** We heard 1 Veteran say they would like to see a link to important documents and 1 Veteran say they would like to see contact information for VSOs. Other than these 2 participants, we did not hear Veterans say that any important tasks or information was missing from My VA. 
-  
-4. We hypothesize that based on analytics we have presented the sections on My VA in such a way that the most popular actions and links will be closest to the top.
-    * **Maybe true.** We heard 4 out of 13 Veterans say that they would like the ability to reorganize My VA so that their top categories were listed first and sections that they would be least likely to use would be at the bottom, or they would like to be able to collapse empty sections. It's worth noting that this feedback was only elicited by asking "Is there anything you would change about this page if you could?" No specific questions around the order of the sections were asked.
-    
+* Chris Johnston - Portfolio lead
+* Rachel Han, Jen Ecker, Ryan Thurlwell, Matt Hall - Mobile app leads
+* Lauren Alexanderson, Kay Lawyer, and Kristen McConnell - Health leads
+* Dave Conlon - Sitewide lead
+* Matt Self - Benefits lead
+* Mikki Northuis - IA/Nav lead
+* Chante Lantos-Swett - Account experience and customer support lead
+* Martha Wilkes - Accessibility lead
+* Matt Dingee - Design lead
+* Ray Wang - Platform lead
 
 ## Key Findings
 
-1. **All participants had positive reactions to seeing My VA immediately upon login.**
+1. **OCTO product owners have trust in the Authenticated Experience team to scale this feature.**
 
-2. **My VA encompasses all top tasks for Veterans.** 
+2. **Several OCTO leads said we should consider giving the user some control over notifications so as not to lose credibility and trust.** 
 
-3. **Veterans generally don't mind seeing empty sections on My VA and some find them helpful to have on the page.**
+3. **Product owners who are on VFS teams have already thought about what types of notifications are most important to surface.**
 
 4. **The "Saved Applications" section is confusing to Veterans.**
 
-5. **The "Education and Training" section is positioned well on the page and important to have present on My VA, but some of the terminology in the links is unfamiliar to Veterans, and for Veterans who have education benefits, they would like to see dynamic content here about their remaining benefits.**
+5. **A notification center on VA.gov would likely need to support messages as well as notifications in the future.**
 
 6. **Accessibility: My VA is highly accessible to disabled Veterans using assistive technology, but the smallest font is still a little too small for some Veterans.**
 
@@ -85,7 +70,7 @@ Ray Wang - Platform lead
 
 **Finding 1**
 
-**All participants had positive reactions to seeing My VA immediately upon login.** Many seemed that they had not logged into VA.gov since the [recent redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect) and they preferred seeing My VA to the homepage because it was more personalized and showed them "their stuff." 
+**OCTO product owners have trust in the Authenticated Experience team to scale this feature.** Many seemed that they had not logged into VA.gov since the [recent redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect) and they preferred seeing My VA to the homepage because it was more personalized and showed them "their stuff." 
 
 > _"I have not seen this page but I like it. It's a summary of all my various systems that they have. My health benefits, next appointment...I have not seen this but I love it." - P5_
 
@@ -94,7 +79,7 @@ Ray Wang - Platform lead
 
 **Finding 2**
 
-**My VA encompasses all top tasks for Veterans.** We started each session by asking Veterans about their VA benefits and how they like to manage them online and/or manually. Once logged in, 100% of Veterans were able to find information and/or actions to manage the benefits that they mentioned they manage online. 
+**Several OCTO leads said we should consider giving the user some control over notifications so as not to lose credibility and trust.** We started each session by asking Veterans about their VA benefits and how they like to manage them online and/or manually. Once logged in, 100% of Veterans were able to find information and/or actions to manage the benefits that they mentioned they manage online. 
 
 When asked if there was anything Veterans were expecting to see on My VA that they did not, 11 out of 13 participants said no. 1 Veteran said they would like to see a section for documents and 1 Veteran said they would like to see contact information or communication for VSOs (Veteran Service Organizations).
 
@@ -107,19 +92,11 @@ Considering that the overwhelming amount of participants did not feel anything w
 
 **Finding 3**
 
-**Veterans generally don't mind seeing empty sections on My VA and some find them helpful to have on the page.** Some Veterans (4 out of 13) expressed wanting to either reorder the sections or collapse empty sections to suit their needs but the majority did not mind the empty sections or the ordering as it currently is on My VA. Some Veterans even said that they appreciate seeing empty sections to remember that those benefits are available to them or for reassurance of the current state, like having no debt to VA.
+**Product owners who are on VFS teams have already thought about what types of notifications are most important to surface.** Some Veterans (4 out of 13) expressed wanting to either reorder the sections or collapse empty sections to suit their needs but the majority did not mind the empty sections or the ordering as it currently is on My VA. Some Veterans even said that they appreciate seeing empty sections to remember that those benefits are available to them or for reassurance of the current state, like having no debt to VA.
 
-_Example: If a user doesn't have any claims or appeals to show, they'll still see the section with "nothing to show" text and a couple secondary links._
+> _"- Acknowledgement of application submissions or failures, and steps to take (in this case, users want email notification), "I get that when I submit anything on any website." - Matt Self_
 
-![Screenshot 2023-02-03 at 4 31 57 PM](https://user-images.githubusercontent.com/97965610/216714689-ebff5f6a-67f2-47e1-927e-3d5247e42e97.png)
-
-_Image of the Claims and appeals section for a user who does not have any to show, so they have text in this section that says "You have no claims or appeals to show" and links to "Learn how to file and claim" and "Manage all claims and appeals."_
-
-> _"I don't mind this at all because I can just skip right past it because I know it doesn't apply to me." - P7_
-
-> _"I like it because I have in the past had a debt so I definitely don't mind it. I like to see that I don't have any debts or copays to show." ... "I like it being there personally because I like knowing that I don't owe the VA anything." ... "I've never dismissed the idea of going back to school and I like that being there [The education and training section] as a reminder." - P5_
-
-> _"It'd be nice to have - and again this would just be nice - if you could turn it into modules where you could click and drag the sections so it's more customizable to your experience." - P2_
+> "- If we had more informative, action-oriented claim statuses, like hey you indicated you had a private medical record to submit, we can't do anything with your claim until we get that document. That to my world's perspective is a MAJOR priority." - Matt Self_
 
 **Finding 4**
 
@@ -189,108 +166,14 @@ After making changes to the Saved Applications and Education and Training sectio
 
 ## Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery/scaling-onsite-notifications-stakeholder-research-plan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/audit-conversation-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery/scaling-onsite-notifications-stakeholder-convo-guide.md)
 
-[Observation notes](https://docs.google.com/spreadsheets/d/1ItavEGFODFAO6h5wbiPpllrlNFxHCLIN54j775gnB3o/edit#gid=0)
-
-
-## Tools used for Synthesis
-
-Google Sheets, Zoom transcription and recordings
+[Observation notes](https://docs.google.com/spreadsheets/d/1Djq6XrRmygzS0ab8ZJdWKE-gznf_lE2QZOdy9vaGfII/edit#gid=0)
 
 
 ## Pages and applications used
 
 VA.gov/my-va/
 
-
-## Who we talked to 
-
-**Recruitment criteria**
-
-We talked to **13 participants.**
-
-Audience segment:
-* Veterans: 13
-* Caregivers: 1 
-* Family members of a Veteran: 0  
-
-
-Gender:
-* Male: 7 
-* Female: 6
-
-
-LGBTQ+:
-* Transgender: 0 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
-* Gay, lesbian, or bisexual: 0/?
-
-
-Devices used during study: 
-* Desktop: 9 
-* Tablet: 2 
-* Smart phone: 2 
-* Assistive Technology: 1
-
-
-Age:
-* 25-34: 3
-* 35-44: 3
-* 45-54: 1
-* 55-64: 1
-* 65+: 5
-* Unknown: 0
-
-
-Education:
-* High school degree or equivalent: 0
-* Some college (no degree): 0
-* Associate's degree, trade certificate or vocational training: 6
-* Bachelor's degree: 2
-* Master's degree: 5
-* Doctorate degree: 0
-* Unknown: 0
-
-
-Geographic location:
-* Urban: ?
-* Rural: ?
-* Unknown: 13 (Did not outline this criteria in research plan)
-
-
-Race:
-* White: 5
-* Black: 2
-* Hispanic: 2
-* Biracial: 0
-* Asian: 2
-* Native: 2
-
-
-Disability and Assistive Technology (AT):
-* Cognitive: 5
-* AT beginner: 0
-* AT advanced user: 1
-* Desktop screen reader: 1
-* Mobile screen reader: 0
-* Magnification/Zoom: 2
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
-* Hearing aids: ?
-* Sighted keyboard: 0
-* Captions: ?
-
-
-## Underserved groups we haven’t talked to 
-
-This research does not include the perspectives of the following marginalized Veteran groups:
-* No degree
-* Expat
-* Biracial
-* Gay, lesbian, or bisexual
-* Transgender
-* Beginner AT users
-
-![Screenshot 2023-01-25 at 12 34 13 PM](https://user-images.githubusercontent.com/97965610/214639060-b3dc5364-c1de-4062-b4c6-de0c8de86960.png)
