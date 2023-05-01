@@ -151,7 +151,7 @@ Participants often perceived Health History as a “snapshot” of their health 
 
 ![Screenshot 2023-04-27 at 12 07 43 PM](https://user-images.githubusercontent.com/58444931/235002713-3536bc01-c1a1-4210-9a32-4a9e6530f30e.png)
 
-**Note:** Table participant was sent prototype prior to first task
+**Note:** Tablet participant was sent prototype prior to first task
 
 **6. Participants relied on familiar terminology and design standards when completing certain tasks (i.e., submit for travel reimbursement, send a message) but did not readily understand VA bespoke terms (i.e., Community Care).**
 
