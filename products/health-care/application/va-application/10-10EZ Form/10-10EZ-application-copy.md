@@ -152,7 +152,7 @@ Month Day Year (dropdowns)
 
 
 ---
-## Step 2
+## Step 1 Veteran Information
 ---
 
 
@@ -367,7 +367,7 @@ Prefer not to answer
 
 
 ---
-## Step 2
+## Step 2 VA Benefits
 ---
 
 
@@ -457,7 +457,7 @@ No
 [button pair] [<< Back] [Continue >>]
 
 ---
-## Step 3
+## Step 3 Military history
 ---
 
 ### Page: Military service
@@ -484,37 +484,29 @@ No
 
 ---
 
-## Step 2 of 6: Military Service
-**Service history**
+### Page: Military service overview
 
-Check all that apply to you._(checkboxes)_
+#### URL: health-care/apply/application/military-service/service-information
 
-Purple Heart award recipient
+[component checkbox label]  Check all that apply to you.
+[checkboxes]
+- Purple Heart award recipient
+- Former Prisoner of War
+- Served in combat theater of operations after November 11, 1998
+- Discharged or retired from the military for a disability incurred in the line of duty
+- Served in Southwest Asia during the Gulf War between August 2, 1990, and Nov 11, 1998
+- Served in Vietnam between January 9, 1962, and May 7, 1975
+- Exposed to radiation while in the military
+- Received nose/throat radium treatments while in the military
+- Served on active duty at least 30 days at Camp Lejeune from January 1, 1953, through December 31, 1987
 
-Former Prisoner of War
-
-Served in combat theater of operations after November 11, 1998
-
-Discharged or retired from the military for a disability incurred in the line of duty
-
-Served in Southwest Asia during the Gulf War between August 2, 1990, and Nov 11, 1998
-
-Served in Vietnam between January 9, 1962, and May 7, 1975
-
-Exposed to radiation while in the military
-
-Received nose/throat radium treatments while in the military
-
-Served on active duty at least 30 days at Camp Lejeune from January 1, 1953, through December 31, 1987
-
-[<< Back] [Continue >>]
+[button pair] [<< Back] [Continue >>]
 
 
 
-
-
-
-
+---
+## Step 4 Household information
+---
 
 ## Step 4 of 6: Household Information
 
@@ -738,6 +730,9 @@ Amount you paid for anything related to your own education (college or vocationa
 
 ---
 
+---
+## Step 5 Insurance information
+---
 
 ## Step 5 of 6: Insurance information
 
@@ -848,6 +843,10 @@ No
 
 [<< Back] [Continue >>]
 
+---
+
+
+
 ## Step 6 of 6: Review Application
 
 _Review accordions_
@@ -857,6 +856,9 @@ _Review accordions_
 _(checkbox)_ I have read and accept the privacy policy(*Required)
 
 [<< Back] [Submit application >>]
+
+
+--- 
 
 ## AFTER submission
 
