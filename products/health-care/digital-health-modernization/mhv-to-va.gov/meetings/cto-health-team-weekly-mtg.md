@@ -63,7 +63,7 @@
 - VA profile = backend service, the data available to pull from, the database
 - Va.gov profile = the front end, the place on VA.gov where users manage stuff about themselves
 - MHV preferences include profile information (ex. Name) but also application specific information (ex. I prefer to see...) - need to decide during research and design if profile/preference will be designed as it is in MHV classic.
-	- Potential to distinguish application prederences (how I want the app towork) from notification prefences (what I want to be notified about) from profile (user information)
+	- Potential to distinguish application preferences (how I want the app to work) from notification prefences (what I want to be notified about) from profile (user information)
 
 ## 2023-04-06 Team Meeting
 
