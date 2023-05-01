@@ -1,6 +1,6 @@
 # Research outline: Identifying issues and challenges people have finding tasks when they are signed in to VA.gov
 
-**Last Updated: April 20, 2023**
+**Last Updated: May 1, 2023**
 
 ## Table of Contents
 
@@ -145,6 +145,7 @@ Though we are focusing research on issues people have once they are signed in to
 |[Medallia/Call center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/qualitative-data-findings.md)| February 2023|
 |[Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/analytics-review-findings.md)| March 2023|
 |[User research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md)| April 2023|
+|[Comprehensive research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md)| April 2023|
 
 
 ## Key dates
