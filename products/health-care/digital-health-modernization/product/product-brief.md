@@ -49,6 +49,7 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 **Federal employees** 
 - Portfolio: Lauren Alexanderson
 - Product: Leila Rassi
+- Product: Marci McGuire
 - Design: Coulton Bunney
 - Design: Ryan Thurlwell
 - Design: Jenny Wang, Digital Corps Fellow
@@ -60,11 +61,11 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 - Team Coach: Dotti Cummings
 - Delivery Coach: Stephen Smythe
 - Design Lead: Florence McCafferty
-- Product Manager:
+- Product Manager: 
 
 **Contractors (Ad Hoc)** 
 - Design: Jonathan Nelson
-- Research Lead: 
+- Research Lead: Cara Frissell
 - Engineering: Eric Voshall
 - Engineering Lead: Daniel Cloud
 - QA Engineer: Erin Flaherty
