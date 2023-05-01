@@ -62,4 +62,4 @@ Additionally, we will work towards this product vision:
 
 ## About this document 
 
-This document is based on our notional roadmap, which isn't public yet. It also references [this product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/in-person%20support/product-brief.md) and initial scoping conversations between product and design.
+This document is a suggestion, to be reviewed by product. It's based on our notional roadmap, which isn't public yet. It also references [this product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/in-person%20support/product-brief.md) and initial scoping conversations between product and design.
