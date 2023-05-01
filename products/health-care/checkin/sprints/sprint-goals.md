@@ -60,8 +60,8 @@ ________________________________________________________________________________
 - **GOAL: Address tech & design debt** 
 
 #### PLANNED RELEASES 
-- [Add Facility Address to Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54865)
-- [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)
+- ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) [Add Facility Address to Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54865)
+- ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) [Move Action Link on Pre-Check-in Intro Page to increase clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054)
     - A/B test only
 
 #### SPRINT TICKETS
@@ -76,13 +76,11 @@ ________________________________________________________________________________
          - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Modify Appointment Data Serializer to Cache Phone number](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56975)
          - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Call VANotify in the background with the worker](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55908)
          - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] VANotify - Add text templates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55878)
-         - These were added after planning to address CAIA feedback
-            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Edit text messages based on VA Notify feedback](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/57560)
-            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Edit text messages based on VA Notify feedback](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/57561)
-            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Edit text messages based on VA Notify feedback](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/57562)
+         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Edit text messages based on VA Notify feedback](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/57560)
+            - Added after sprint planning
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Add Facility Address to Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54865)**  
-       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Display Facility Address with Other Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132)
+       - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Display Facility Address with Other Appointment Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**   
       - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Update All Posters to the New Design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55832)
@@ -92,10 +90,10 @@ ________________________________________________________________________________
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Finish CodePen prototype](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56144)
         - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add additional screens into unified check-in experience sketch page with user flows](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56181)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)[Address IA/Content/A11y Feedback in the CodePen Prototype & Sketch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57039)
-        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Migrate Prototype to the new Account ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/570388)
+        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Migrate Prototype to the new Account ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57038)
         - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964#issuecomment-1512100240)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Set-up for Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56624)
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Set up Annotations/Design Specs Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55458)
+        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Set up Annotations/Design Specs Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55458)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  Schedule & hold the midpoint review
       - New Infrastructure Preparations
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] - Setup new application for unified experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57068)
@@ -104,11 +102,11 @@ ________________________________________________________________________________
       - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Add New Action Link Text to Abstract & Sketch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55572)
       - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Update action link for pre-check-in A/B test top location](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54250) 
         - NOTE: we will need to turn on FF w/ stepped increase in %        
-    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Rename action link GA events](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57463)        
+    - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Rename action link GA events](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57463)        
    - **Sub Goal: [PCI: Support Other Appointment Modalities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56550)**
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Determine the ROIs for the Remaining Appointment Types/Modalities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57021)
+       - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Determine the ROIs for the Remaining Appointment Types/Modalities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57021)
    - **Sub Goal: Analyze current metrics to see what they tell us**
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
+       - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56626)
 - **GOAL: Address tech & design debt**  
    - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Change alert content shown when Veteran is too early to check in within check in app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54511)
