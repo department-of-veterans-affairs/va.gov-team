@@ -1,5 +1,5 @@
 # Logged-in IA and Nav Comprehensive Research Summary
-Last updated: April 28, 2023
+April 28, 2023
 
 Liz Lantz, Authenticated Experience
 
@@ -10,7 +10,7 @@ To remedy this, we conducted 4 research activities to help us clarify exactly wh
 1. [Previous research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/research-review-findings.md)
 2. [Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/analytics-review-findings.md)
 3. [Qualitative data review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/qualitative-data-findings.md)
-4. [User interview findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md)
+4. [User interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md)
 
 ## Key points
 This document summarizes the collective insights from those activities, as they apply to our original [research outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/README.md):
