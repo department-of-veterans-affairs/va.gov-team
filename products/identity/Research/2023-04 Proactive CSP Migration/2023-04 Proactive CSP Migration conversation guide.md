@@ -223,6 +223,8 @@ Ok give me a few moments to get set up.
 - There are a few terms on this page that I'd like to think more about
    - What does the word "upgrade" at the top make you think about?
    - The first paragraph uses the phrase "other VA online tools," what is your understanding of what that might mean?
+      - If this instead said "VA Applications" would that change your understanding here?
+      - What about if it said "for signing into the VA online"?
    - Where it says "here's what you'll need" - walk me through your thoughts about this part
      - [PROMPT] What do you think about with State ID?
   - At the bottom, where it says "no thanks remind me later" what would you expect that to do?
@@ -232,12 +234,14 @@ Ok give me a few moments to get set up.
    - How do you feel about the option listed?
    - Have you heard of it?
    - Does this make you to think about the way you sign in?
-   - What would you expect to happen if you go through with signing up for Login.gov?
-      - [PROMPT] What is your understanding of what this change means for you
+   - Let's say that you decide to register for Login.gov. What would you're expectations be for the next time you sign in to see your VA information?
+      - [PROMPT] Where would you go to sign in?
+      - [PROMPT] What method would you choose to sign in?
       - [PROMPT] Would you expect all the information you want to see online with VA remain the same?
 - If instead of showing one sign in option here, if instead we said something like “The VA has two options that meet our security standards” and showed you both choices, what would you think?
    - How would you choose which to go with?
 - Do you have any questions for me about this screen?
+- [IF HAVENT DISCUSSED - Whe you sign in to VA.gov, which of the 4 ways of signing in do you recognize?]
 - Do you have any questions about any of these questions or tasks that we’ve worked through today?
 
 ### Things to watch for:
