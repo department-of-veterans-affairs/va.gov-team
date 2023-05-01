@@ -58,6 +58,10 @@ Attended a big meeting or small group? Lurk on our slack channel? Then you're _o
 - cindy.merrill@adhocteam.us, [LinkedIn](https://www.linkedin.com/in/cindymerrill/)
 - I enjoy connecting with research participants, and I want research to be as comfortable of an experience as possible for participants and researchers, even when potentially traumatic topics or experiences may come up.
 
+**Tyler Gindraux**, Researcher, Login.gov Adoption (Identity)
+- tyler@bluetiger.digital, [LinkedIn](https://www.linkedin.com/in/tylergindraux/)
+- I'd like to learn from each other's experiences so we can cultivate more supportive, safe and inclusive research practices, individually and as a community.
+
 <hr/>
 
 ### Facilitators 👐
@@ -83,6 +87,7 @@ Took notes for a big meeting or small group? You've helped share and grow our le
 - Martha Wilkes
 - Josh Kim
 - Liz Straghalis
+- Tyler Gindraux
 
 #### How do I serve as a scribe?
 1. Volunteer at our next big meeting
