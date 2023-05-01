@@ -291,72 +291,80 @@ Prefer not to answer
 
 ---
 
+### Page: Mailing address
 
-## Step 1 of 6: Veteran Information
-**Mailing address**
+#### URL: /health-care/apply/application/veteran-information/veteran-address
 
-We’ll send any important information about your application to this address. Any updates you make here to your address will apply only to this application.
 
-Country(*Required) _(dropdown)_
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
 
-Street address(*Required)
+[fieldset legend title] Mailing address
+[p] We’ll send any important information about your application to this address. Any updates you make here to your address will apply only to this application.
 
-Street address line 2
+[component select label] Country(*Required)
+[component text input label] Street address(*Required)
+[component text input label] Street address line 2
+[component text input label] Street address line 3
+[component text input label] City(*Required)
+[component select label] State(*Required)
+[component text input label] Postal code(*Required)
 
-Street address line 3
+[component radio button label] Is your home address the same as your mailing address?(*Required)
+[options: Yes, No] 
+[Yes = continue goes to contact information, No = home address]
 
-City(*Required)
+[button pair] [<< Back] [Continue >>]
 
-State (*Required)  _(dropdown)_
 
-Postal code(*Required)
+--- 
 
-Is your home address the same as your mailing address?(*Required)
+### Page: Home address
 
-Yes
+#### URL: /health-care/apply/application/veteran-information/veteran-home-address
 
-No
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
 
-[<< Back] [Continue >>]
+[fieldset legend title]  Home address
+[p] Any updates you make here to your address will apply only to this application.
 
-_If no_
+[component select label] Country(*Required)
+[component text input label] Street address(*Required)
+[component text input label] Street address line 2
+[component text input label] Street address line 3
+[component text input label] City(*Required)
+[component select label] State(*Required)
+[component text input label] Postal code(*Required)
 
-## Step 1 of 6: Veteran Information
+[button pair] [<< Back] [Continue >>]
 
-**Home address**
+---
 
-Any updates you make here to your address will apply only to this application.
+### Page: Contact information
 
-Country(*Required) _(dropdown)_
+#### URL: /health-care/apply/application/veteran-information/contact-information
 
-Street address(*Required)
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
 
-Street address line 2
+[p] Adding your email and phone number is optional. But this information helps us contact you faster if we need to follow up with you about your application. If you don’t add this information, we’ll use your address to contact you by mail.
 
-Street address line 3
+[p] **Note:** We’ll always mail you a copy of our decision on your application for your records.
 
-City(*Required)
+[component text input label] Email address
+[component text input label] Home telephone number
+[component text input label] Mobile telephone number
 
-State (*Required) _(dropdown)_
-
-Postal code(*Required)
-
-## Step 1 of 6: Veteran Information
-
-Email address
-
-Re-enter email address
-
-Home telephone number
-
-Mobile telephone number
-
-[<< Back] [Continue >>]
-
+[button pair] [<< Back] [Continue >>]
 
 
 
 ---
+
 
 
 ## Step 2 of 6: Military Service
