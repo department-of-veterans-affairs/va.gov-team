@@ -1,3 +1,8 @@
+## [May 1, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-05-01.md)
+`Big Meeting` `Community Guidelines` `Strategy`
+- Shared why we joined this community to contribute to our vision and strategy
+- Discussed how best to maintain and/or grow small groups
+
 ## [April 17, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-04-17.md)
 `Big Meeting` `Participant Safety` `Community Guidelines`
 - We'll be meeting on May 1 for a community guidelines activity, be there (or if not, no worries, we'll have async stuff prepared!)
