@@ -152,6 +152,9 @@ Month Day Year (dropdowns)
 
 
 ---
+## Step 2
+---
+
 
 ### Page: Veteran’s Name
 
@@ -364,6 +367,9 @@ Prefer not to answer
 
 
 ---
+## Step 2
+---
+
 
 ### Page: Compensation from VA / Service Connected Disability
 
@@ -400,27 +406,83 @@ No
 [button pair] [<< Back] [Continue >>]
 
 
+---
+### Page: Conditional confirmation page (when previous answer = 50% or higher)
 
+#### URL: /health-care/apply/application/va-benefits/confirm-service-pay
+
+[component progress bar]
+[h2] Step 2 of 6: VA benefits
+[end progress bar]
+
+[component blue alert]
+[h3] Confirm that you receive service-connected pay for a 50% or higher disability rating.
+[p] You selected that you currently receive service-connected disability pay for a 50% or higher disability rating. This means that you meet one of our eligibility criteria and we don’t need to ask your questions about other criteria, like income and military service.
+
+[button pair] [<< Back] [Continue >>]
+
+[END component blue alert]
+
+
+--- 
+### Page: Conditional confirmation page (when previous answer = no)
+
+#### URL: /health-care/apply/application/va-benefits/pension-information
+
+[component progress bar]
+[h2] Step 2 of 6: VA benefits
+[end progress bar]
+
+[fieldset legend title]  Current compensation from VA
+[p] VA disability compensation (pay) provides monthly payments to Veterans with service-connected disabilities. You may get this benefit if you got sick or injured, or had a condition that got worse, because of your active-duty service. We assign a disability rating based on the severity of your disability.
+[label] Do you receive VA disability compensation?(*Required)
+
+[component additional info]
+[title] Why we ask for this information
+[content] 
+[p] We use this information to help us decide these 4 things:
+[ul] 
+If you can fill out a shorter application, **and**
+What types of VA health care benefits you’re eligible for, **and**
+How soon we enroll you in VA health care, **and**
+How much (if anything) you’ll have to pay toward the cost of your care
+[END ul]
+[p] We give veterans with service-connected disabilities the highest priority.
+[END component additional info]
+
+[radio select options]
+Yes
+No
+
+[button pair] [<< Back] [Continue >>]
 
 ---
+## Step 3
+---
 
+### Page: Military service
 
+#### URL: health-care/apply/application/military-service/service-information
 
-## Step 2 of 6: Military Service
+[component progress bar]
+[h2] Step 3 of 6: Military service
+[end progress bar]
 
-Last branch of service(*Required) _(dropdown)_ Air Force, Army, Coast Guard, Marine Corps, Merchant Seaman, Navy, Noaa, Space Force, USPHS, Filipino Commonwealth Army, Filipino Guerilla Forces, Filipino New Scout, Filipino Old Scout, Other
+[component select label] Last branch of service(*Required)
+[Select options] Air Force, Army, Coast Guard, Marine Corps, Merchant Seaman, Navy, Noaa, Space Force, USPHS, Filipino Commonwealth Army, Filipino Guerilla Forces, Filipino New Scout, Filipino Old Scout, Other
 
-Service start date (*Required)
+[component date label] Service start date(*Required)
+[dropdowns for: month, day] [ input for year]
 
-Month Day Year _(dropdown)_
+[component date label] Service end date(*Required)
+[dropdowns for: month, day] [ input for year]
 
-Service end date (*Required)
+[component select label] Character of service(*Required)
+[Select options] Honorable, General, Other Than Honorable, Bad Conduct, Dishonorable, Undesirable
 
-Month Day Year _(dropdown)_
+[button pair] [<< Back] [Continue >>]
 
-Character of service(*Required) Honorable, General, Other Than Honorable, Bad Conduct, Dishonorable, Undesirable
-
-[<< Back] [Continue >>]
+---
 
 ## Step 2 of 6: Military Service
 **Service history**
