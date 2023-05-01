@@ -29,24 +29,26 @@ Our goals for this stakeholder research study were:
 * Determine if there's a clear consensus on the vision for notifications on VA.gov.
 * Identify any challenges or things to consider that we were not already aware of on the Authenticated Experience team.
 
-
 ## Research Questions
-* Are Veterans able to find their top tasks on My VA and act on them if applicable? 
-* Is there any important information about top tasks or any categories missing on My VA?
-* Is the new education section in a good place on the page for Veterans who are interested in those benefits? What about Veterans who are not interested?
-* Is it clear what "saved applications" are and are they in a good place at the bottom of My VA?
-* For users who do not have claims, health care, debt, payments, education, or saved applications, how do they feel about seeing those sections presented on My VA?
-* Do users know how to find out more about benefits they are not currently enrolled in?
-* Do empty sections get in the way of Veterans trying to find out information about their current benefits or bring attention to benefits that Veterans may be interested in?
+* Have other teams talked to users about how they expect to see notifications or action items represented on VA.gov?
+* What relevant studies or data should we reference outside of the authenticated experience team as part of this discovery work?
+* What are OCTO stakeholders expectations around how we elevate notifications on VA.gov? How strong are their opinions about the outcome of this work?
+* What could make or reak Veteran trust as we scale this feature?
+* Are there any important factors to consider that we haven't already addressed in this study?
 
 ## Methodology 
 
-We conducted remote moderated usability testing on Zoom using real Veteran data behind a feature flag in production. We used this method because:
-
-* We wanted to recruit an audience who was using a range of benefits and see their real data in testing so we could get accurate feedback that is specific to their use cases and does not require any hypothetical scenarios.
-* We were able to test with assistive technology users in code. This was important to do early on in usability testing rather than later in UAT because we did not want to make any significant changes coming out of UAT and wanted to know if there are any accessibility issues with this pattern sooner than later.
-* We didn't anticipate a lot of changes to the implementation or anything that would be very time-consuming to alter based on usability testing.
-* We had the research method conversation as a team early enough that the timeline allowed for coding and testing in production.
+We conducted stakeholder interviews via Zoom with OCTO product owners:
+Chris Johnston - Portfolio lead
+Rachel Han, Jen Ecker, Ryan Thurlwell, Matt Hall - Mobile app leads
+Lauren Alexanderson, Kay Lawyer, and Kristen McConnell - Health leads
+Dave Conlon - Sitewide lead
+Matt Self - Benefits lead
+Mikki Northuis - IA/Nav lead
+Chante Lantos-Swett - Account experience lead; Also leads customer support work
+Martha Wilkes - Accessibility lead
+Matt Dingee - Design lead
+Ray Wang - Platform lead
 
 
 ## Hypotheses and Conclusions
