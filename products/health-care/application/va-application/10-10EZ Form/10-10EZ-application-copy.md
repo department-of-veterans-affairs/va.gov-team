@@ -194,84 +194,88 @@ Month Day Year (dropdowns)
 
 ---
 
+### Page: Place of birth
+
+#### URL: /health-care/apply/application/veteran-information/birth-information
+
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
+
+[fieldset legend title] Your place of birth
+[p] Enter your place of birth, including city and state, province or region.
+
+[component additional info]
+[label] Why we ask for this information
+[content]
+[p] We ask for place of birth as an identity marker for record keeping. This will not impact your health care eligibility.
+
+[END component additional info]
+
+[component text input label] City
+
+[component select label] State/Province/Region
+
+[button pair] [<< Back] [Continue >>]
 
 
+--- 
+### Page: Maiden name
+
+#### URL: /health-care/apply/application/veteran-information/maiden-name-information
+
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
+
+[component text input label] Mother’s maiden name
+
+[button pair] [<< Back] [Continue >>]
+
+--- 
+### Page: Birth sex
+
+#### URL: /health-care/apply/application/veteran-information/birth-sex
+
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
+
+[component radio select label] What sex were you assigned at birth?(*Required)
+
+[select options: Female, Male]
+
+[button pair] [<< Back] [Continue >>]
 
 
+---
+### Page: Demographics
 
-**Your place of birth**
+#### URL: /health-care/apply/application/veteran-information/demographic-information
 
-Enter your place of birth, including city and state, province or region.
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
 
-Why we ask for this information _(more info)_
+[component checkboxes label] What is your race, ethnicity, or origin? (Please check all that apply.)
 
-We ask for place of birth as an identity marker for record keeping. This will not impact your health care eligibility.
+[hint text] Information is gathered for statistical purposes only.
 
-City
-
-State/Province/Region _(dropdown)_
-
-[<< Back] [Continue >>]
-
-## Step 1 of 6: Veteran Information
-
-What sex were you assigned at birth? (*Required) 
-
-Why we ask for this information _(more info)_
-
-Population data shows that a person’s sex can affect things like their health risks and the way their body responds to medications. Knowing your sex assigned at birth, along with other factors, helps your health care team use data to:
-
-- Interpret your lab results
-- Prescribe the right dose of medications
-- Recommend health prevention screenings
-
-We also collect this information to better understand our Veteran community. This helps us make sure that we’re serving the needs of all Veterans.
-
-_(end more info)_
-
-Female 
-
-Male
-
-[<< Back] [Continue >>]
-
-## Step 1 of 6: Veteran Information
-
-Marital status (*Required) _(dropdown)_ Married, Never Married, Separated, Widowed, Divorced
-
-Why we ask for this information _(more info)_
-
-We want to make sure we understand your household’s financial situation.
-
-We’ll ask about your income. If you’re married, we also need to understand your spouse’s financial situation. This allows us to make a more informed decision about your application.
-
-_(end more info)_
-
-[<< Back] [Continue >>]
-
-## Step 1 of 6: Veteran Information
-
-What is your race, ethnicity, or origin? (Please check all that apply.) 
-
-_hint text_ Information is gathered for statistical purposes only.
-
-_(checkboxes)_
-
+[checkbox options]
 American Indian or Alaskan Native
-
 Asian
-
 Black or African American
-
 Hispanic, Latino, or Spanish
-
 Native Hawaiian or Other Pacific Islander
-
 White
-
 Prefer not to answer
 
-[<< Back] [Continue >>]
+[button pair] [<< Back] [Continue >>]
+
+
+
+---
+
 
 ## Step 1 of 6: Veteran Information
 **Mailing address**
