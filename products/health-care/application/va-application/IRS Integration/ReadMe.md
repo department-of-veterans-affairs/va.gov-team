@@ -1,7 +1,7 @@
 # IRS Integration
 
 ## Outcome Summary
-> Integration with the IRS to systematically pull the previous year's income details into the 10-10EZ application will significantly reduce frustration, cognitive load and application abandonment.
+> Integration with the IRS to systematically pull the Household data, such as Spouse, Dependents, previous year's income and medical deductible details into the 10-10EZ application will significantly reduce frustration, cognitive load and application abandonment.
 
 **Related/Associated product(s)**
 - Product | [Link to 10-10EZ product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
@@ -17,7 +17,7 @@
      - Fear of taking benefits away from other deserving Veterans because of income level
      - Fear of benefits denial because last year's earnings do not reflect this year's income level
      - Do not want VA to have this kind of information, believe it to be unnecessary
-     - Do not want to take the time to find the income data
+     - Do not want to take the time to find the income or medical deductible data
      - Veteran is not the primary financials handler, and needs to consult spouse/significant other
 <!--
 ## Desired User Outcomes
