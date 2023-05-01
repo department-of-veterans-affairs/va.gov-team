@@ -22,11 +22,8 @@ Before you get started with onboarding, you will need a few key pieces of inform
 ## Platform Orientation Sessions (Zoom)
 **All team members** working on a VA.gov project should schedule and attend general and practice-specific orientation sessions. Orientation session descriptions will recommend team members for which the session is pertinent for their role.  This can be done while you are gaining other access described in this guide.
 
-- [Platform Orientation Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team%2C+analytics-insights%2C+analytics-request&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D) - This request kicks off processes for granting you access to the VA GitHub repos. Be sure to complete all fields in the request and *be on the lookout for an email from an admin via GitHub. If you don't respond within a few days, your request will be archived.*
-  - [VA Platform Getting Started](https://depo-platform-documentation.scrollhelp.site/getting-started/)
-    - [Welcome](https://depo-platform-documentation.scrollhelp.site/getting-started/welcome)
-    - [Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-orientation)
-  - [Orientation Sessions](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions) - Schedule your own orientation sessions using Calendly.  Each session suggests team members who will benefit most.
+[Orientation Sessions](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions) - Schedule your own orientation sessions using Calendly.  Each session suggests team members who will benefit most.
+
 
 ## GitHub
 GitHub is used to track all work relating to VA.gov processes and embedded teams as well as managing code branches and deployments.  Most VA.gov repositories are public facing, please remember to not share sensitive information.  [Platform GitHub Repo Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md) (privacy info, folder and file naming conventions, etc.)
@@ -75,6 +72,12 @@ Most day-to-day communications between VA.gov product team members happens in Sl
 - [#lighthouse-api-publishing](https://dsva.slack.com/archives/C021UM3QTCY) - Ask questions about publishing an API to Lighthouse. Questions about consuming an API should be submitted at https://developer.va.gov/support/contact-us
 
 
+## Getting Access to the VA.gov Platform
+As mentioned earlier, VA.gov repositories are public and can be accessed and reviewed prior to many steps during the onboarding process.  However, in order to gain access to be able to work within VA.gov and commit any code, users will have to complete two steps (both of which are dependent on them gaining access to a VA.gov email address).
+
+1) **Gain access to the VA Organization in GitHub** - Have your Manager submit a [Add User to VA Organization Ticket](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new/choose)
+2) **Gain write access to the VA.gov Repositories** - Once you are in the VA Organization, the new team member must request a [Platform Orientation Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team%2C+analytics-insights%2C+analytics-request&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D) for themself - This request kicks off processes for granting you access to the VA GitHub repos. Be sure to complete all fields in the request and *be on the lookout for an email from an admin via GitHub. If you don't respond within a few days, your request will be archived.*
+
 
 
 
@@ -82,9 +85,6 @@ Most day-to-day communications between VA.gov product team members happens in Sl
 ### Getting Access to Tools
 - The VA Platform site has detailed instructions on the [tools you will need](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-tools) and [how to request access to each](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools).
 
-### The VA.gov Platform
-- [Overview](https://depo-platform-documentation.scrollhelp.site/getting-started/welcome#Welcome-WhatistheVA.govPlatform?)
-- [What to expect as you design, build, launch, iterate](https://depo-platform-documentation.scrollhelp.site/getting-started/welcome#Welcome-WhatistheVA.govPlatform?)
 
 ### AWS
 - Used to access the AWS tunnel to MHV APIs in local environments.
