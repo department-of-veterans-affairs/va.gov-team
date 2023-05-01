@@ -365,6 +365,45 @@ Prefer not to answer
 
 ---
 
+### Page: Compensation from VA / Service Connected Disability
+
+#### URL: /health-care/apply/application/va-benefits/basic-information
+
+[component progress bar]
+[h2] Step 2 of 6: VA benefits
+[end progress bar]
+
+[fieldset legend title]  Current compensation from VA
+
+[p] VA disability compensation (pay) provides monthly payments to Veterans with service-connected disabilities. You may get this benefit if you got sick or injured, or had a condition that got worse, because of your active-duty service. We assign a disability rating based on the severity of your disability.
+
+[radio select label] Do you receive VA disability compensation?(*Required)
+
+[component additional info]
+[label] Why we ask for this information
+[content]
+[p] We use this information to help us decide these 4 things:
+
+If you can fill out a shorter application, and
+What types of VA health care benefits you’re eligible for, and
+How soon we enroll you in VA health care, and
+How much (if anything) you’ll have to pay toward the cost of your care
+We give veterans with service-connected disabilities the highest priority.
+
+[END component additional info]
+
+[radio select options]
+Yes, for a service-connected disability rating of up to 40%
+Yes, for a service-connected disability rating of 50% or higher
+No
+
+[button pair] [<< Back] [Continue >>]
+
+
+
+
+---
+
 
 
 ## Step 2 of 6: Military Service
