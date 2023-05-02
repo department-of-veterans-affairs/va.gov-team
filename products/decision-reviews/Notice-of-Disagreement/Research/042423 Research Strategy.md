@@ -13,6 +13,13 @@ The Request for Board Appeal form was released in April 2022 and is overdue for 
 1. Analytics review and SME discovery conversations
 2. Veteran facing evaluative research
 
+### VA priorities
+
+- Each Veteran’s appeal is timely docketed and tracked throughout the appeals process
+- Each Veteran receives a timely hearing by a Veterans Law Judge upon request
+- Each Veteran receives a timely decision on his/her appeals
+
+
 ### **Goals**
 
 1. Understand the Veteran’s experience of the current digital form
@@ -67,9 +74,9 @@ The Request for Board Appeal form was released in April 2022 and is overdue for 
 - How many Veterans still choose to select to do a board hearing the long backlog and wait *“Please keep in mind that this option has the longest wait time for a decision because there are currently tens of thousands of pending hearing requests.”*?
 - What percentage of users are interacting with the form using AT (assistive technology)?
     - If any, what tool are they using?
-- What percentage of users are on mobile vs desktop? *32%*
+- What percentage of users are on mobile vs desktop?
     - Which pages within the form are more accessed on mobile vs desktop?
-- Should we look at myVA (VA: Health and benefits) app usage related to Board Appeal? Can they check the status of appeal there? (this might be an evaluation that comes after veteran facing research)
+- Is there myVA (VA: Health and benefits) app usage data related to Board Appeal? Can they check the status of appeal there? (this might be an evaluation that comes after veteran facing research)
 
 ### **Goals Questions**
 
@@ -97,7 +104,7 @@ The Request for Board Appeal form was released in April 2022 and is overdue for 
 - Does the type of hearing selected have a significant impact on the outcome of the decision?
 - Are there use cases when it is better or worse to choose a certain hearing type?
 - Are there other SMEs we should hear from prior to the Veteran facing evaluation?
-- Does the VSO submit through a separate system? assuming yes. (Ask Kyle if there is a marker for VSO submissions?)
+- Does the VSO submit through a separate system?
 - When should the Veteran be filing a board appeal as opposed to the two other appeals?
 - Are there scenarios where the BVA would when they should be filing something else, if so, how often is that happening?
 - Is there a clear identifier between forms submitted through va.gov to forms submitted by mail?
@@ -115,7 +122,7 @@ The Request for Board Appeal form was released in April 2022 and is overdue for 
 
 ### **Content Questions**
 
-- Which stakeholders are directing content team edits on static sitewide pages regarding decision reviews? (maybe ask Laura Willworth?)
+- Which stakeholders are directing content team edits on static sitewide pages regarding decision reviews?
 - How does the content team receive feedback and updates for static sitewide pages?
 
 ### **Technical Questions**
