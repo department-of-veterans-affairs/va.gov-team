@@ -34,11 +34,9 @@ Main phone: {phone number} (TTY: 711)
 ```Print```
 
 ```
-Need to make changes?
-
 Contact the [facility name] compensation and pension office if you need to reschedule or cancel your appointment:
 
-Main phone: [###-###-####]
+Main phone: [###-###-####] (TTY: 711)
 ```
 
 **PROGRESS BUTTONS**
