@@ -784,23 +784,26 @@ Amount you paid for anything related to your own education (college or vocationa
 ## Step 5 Insurance information
 ---
 
+### Page: Medicaid 
 
+#### URL: health-care/apply/application/insurance-information/medicaid
 
+[p] Medicaid is a federal health insurance program for adults and families with low income levels and people with disabilities.
 
+[p] **Note:** Some states use different names for their Medicaid programs.
 
+[component radio select]
 
-## Step 5 of 6: Insurance information
+[label] Are you eligible for Medicaid?(*Required)
 
-Medicaid is a federal health insurance program for adults and families with low income levels and people with disabilities.
-**Note:** Some states use different names for their Medicaid programs.
+[radio select options]
+- Yes
+- No
 
-Are you eligible for Medicaid? (*Required)
+[button pair] [<< Back] [Continue >>]
 
-Yes
+---
 
-No
-
-[<< Back] [Continue >>]
 
 ## Step 5 of 6: Insurance information
 
@@ -898,8 +901,8 @@ No
 
 [<< Back] [Continue >>]
 
----
 
+---
 
 
 ## Step 6 of 6: Review Application
