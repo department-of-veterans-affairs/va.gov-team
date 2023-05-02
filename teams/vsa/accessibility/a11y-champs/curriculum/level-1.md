@@ -61,10 +61,13 @@ The following will help you learn a little bit more about the complexity of disa
 
 ### Pick 2 of the following to read or watch 🤓
 
+#### Read
 - [ ] [Read chapter 2 of Sheri Byrne-Haber's book, Giving a Damn About Accessibility ](https://static1.squarespace.com/static/6071fa745947937fc933ecbb/t/60a02725893d22758a6207c5/1621108519636/Giving-a-damn-about-accessibility.pdf)(page 26-34)
 - [ ] [Learn how to say the word "disabilty" (A11y Project)](https://www.a11yproject.com/posts/lets-say-the-word-disability/)
-- [ ] [Changing the way we talk about disability, Amy Oulton (Youtube)](https://www.youtube.com/watch?v=4WIP1VgPnco), 14 minutes
+
+#### Watch
 - [ ] [Disability sensitivity training, DC Government (Youtube)](https://www.youtube.com/watch?v=Gv1aDEFlXq8), 3 minutes
+- [ ] [Five Myths About Digital Accessibility, Crystal Preston-Watson](https://youtu.be/DDZdCYhQAwU?t=110), 6 minutes
 
 ### Share your thoughts and questions 💡
 
