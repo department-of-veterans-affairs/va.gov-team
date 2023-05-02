@@ -51,13 +51,16 @@ _Above: image of the VA.gov homepage as of April 2023_
 
 ## Hypotheses and Conclusions
 1. People will struggle finding what they’re looking for if they can’t use the homepage or My VA.
-a. **Likely false:** While people used links from both pages to quickly navigate to their tasks, most were still able to use the mega menu or search to find what they were looking for.  People struggled when the thing they were looking for wasn’t surfaced on the homepage, My VA, or in the mega menu.
+
+  	- **Likely false:** While people used links from both pages to quickly navigate to their tasks, most were still able to use the mega menu or search to find what they were looking for.  People struggled when the thing they were looking for wasn’t surfaced on the homepage, My VA, or in the mega menu.
 2. People will give up or call VA if they can’t find what they need on VA.gov.
-a. **Likely true:**  Less than half (4 of 9) of our participants were not able to find what they needed during the session, and stated they would call VA, or take a break and try again later.
+
+	- **Likely true:**  Less than half (4 of 9) of our participants were not able to find what they needed during the session, and stated they would call VA, or take a break and try again later.
 3. People’s expectations of a logged-in VA.gov experience will not be much different than the current experience.
-a. **Maybe false:** Most participants shared a sentiment that their logged-in experience on VA.gov was acceptable, but had suggestions for increased personalization. They also articulated feeling a stronger sense of personalization and task-based focused on other websites they log into.
+	- **Maybe false:** Most participants shared a sentiment that their logged-in experience on VA.gov was acceptable, but had suggestions for increased personalization. They also articulated feeling a stronger sense of personalization and task-based focused on other websites they log into.
 4. Navigation needs and expectations will be similar across user types.
-a. **Likely false:** 2 participants were totally unfamiliar with VA.gov and were not able to find task-related information on the website. 7 participants had previous experience and were able to find the same information much more easily.
+
+	- **Likely false:** 2 participants were totally unfamiliar with VA.gov and were not able to find task-related information on the website. 7 participants had previous experience and were able to find the same information much more easily.
 
 ## Key Findings
 1. Though participants had different approaches to starting their journey, everyone logged in as a first step when they got to the website. ([Link](#though-participants-had-different-approaches-to-starting-their-journey-everyone-logged-in-as-a-first-step-when-they-got-to-the-website))
