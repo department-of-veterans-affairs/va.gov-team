@@ -36,7 +36,13 @@
 
 * Preferred Name & Gender Go/Live  on hold
   * Team currently troubleshooting, lag in update identified in during UAT.  Requires multiple update attempts to populate Preferred Name & Gender Identity issue #[5548](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5548) 
-
+* Secure Messaging - MHV Re-engineering SM PAtient APIs & Mobile having to migrate  
+  * This is completely separate work than the Secure Messaging Alignment (copy, attachment, categories, etc) work 
+  * Late March MHV notified Mobile that they are re-engineering APIs for Secure Messaging Patient APIs - no functionality changes just moving to a new platform 
+  * This requires Mobile to migrate to these APIs on the new platform in order to keep Secure Messaging functioning (May 31st is when MHV targeted their work completed ; Needed Mobile to migrate by 8/22) 
+  * Given this mobile is entirely dependent on MHV as it's their APIs that need to be completed 
+  * Informed last week that this timing may be at risk - no timeline given - delays some Q2 planned capacity (BE mainly) till later into Q2 and likely early Q3 
+  * Next step is to meet with them in June 
 
 -----------------
 
