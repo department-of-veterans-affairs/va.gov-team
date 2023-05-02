@@ -26,14 +26,14 @@ The Request for Board Appeal form was released in April 2022 and is overdue for 
     1. What was the experience like for Veterans who have submitted a request for board appeal on va.gov?
     2. What is the experience like for Veterans looking to submit a request for board appeal?
     3. How helpful is the current content on va.gov for Veterans choosing between decision reviews?
-2. How are digital form submissions affecting the VBA and BVA process?
+2. Understand how digital form submissions are affecting the VBA and BVA process
     1. What is it like getting a data set from VA.gov?
     2. Where can service be improved to expedite claims?
     3. What pain points do claims processors have?
-3. Understand how we can increase the user’s confidence before entering the form.
+3. Investigate areas where we can increase the user’s confidence before entering the form.
     1. Users don’t fully understand why their claim was denied initially
     2. Users are unsure which decision-review pathway will yield the best results
-4. Understand how we can increase the user’s confidence within the form flow.
+4. Investigate areas where we can increase the user’s confidence within the form flow.
     1. Users aren’t able to see the evidence submitted with their original claim
     2. There is no way of reviewing or saving a copy of the form once submitted digitally
 
