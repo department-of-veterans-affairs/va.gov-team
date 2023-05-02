@@ -97,7 +97,7 @@ Hypothesis 1            |  Hypthesis 2
 4. Starting from the unauthenticated state of the updated VA.gov landing page, participants expected that they would need to sign in to send a message to their doctor and the majority of participants were able to recognize and articulate how they would start that process.
 5. Most participants struggled to navigate from the updated VA.gov home page to the My HealtheVet on VA.gov landing page. 
 6. Participants relied on familiar terminology and design standards when completing certain tasks (i.e., submit for travel reimbursement, send a message) but did not consistently understand VA bespoke terms (i.e., Community Care).
-7. Participants looked to update their health-specific “preferences” under the Appointments or Medications sections of the landing page. 
+7. When asked to update settings (that currently are located in VA.gov Profile), that would allow users to get appointment reminders and track refill notifications, participants looked to accomplish these tasks under the “Appointments” and “Medications” sections of the landing page (rather than the Profile)
 
 ## Details of Findings 
 
