@@ -18,7 +18,7 @@ Epic placeholder: [5573](https://github.com/department-of-veterans-affairs/va-mo
 ---
 ### Project Timeline & Activities
 
-* Set up session to understand what experience Vets will loose
+* Set up session to understand what experience Vets will loose or need to be added to the VA Health & Benefits app
 * Estabilish messaging and communication plan
 
 ---
