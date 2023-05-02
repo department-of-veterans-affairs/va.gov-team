@@ -27,6 +27,7 @@ ________________________________________________________________________________
            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create sidekiq worker to call BTSSS in the background](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55883)
            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Call VANotify in the background with the worker](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55908)
            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] VANotify - Add text templates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55878)
+           -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add text messages to sketch and abstract](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/57688)
         - Prepare for research study
             -  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56613)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56556)
@@ -40,6 +41,8 @@ ________________________________________________________________________________
     - **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**   
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Get Bay Pines contact from Stephen & organize test of new posters
     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update unified check in experience spacing](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/57728)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add specs in unified check in annotations page in sketch](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/57727d)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create Content for 45-Minute Check-in Reminder Text](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53569)  
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[a11y design review]: Modernized Check-in Experience aka unified appointment check-in experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57212)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Finish CodePen prototype](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56144)        
