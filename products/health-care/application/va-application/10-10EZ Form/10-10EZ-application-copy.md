@@ -183,7 +183,6 @@ Month Day Year (dropdowns)
 
 #### URL: /health-care/apply/application/veteran-information/profile-information-ssn
 
-
 [component progress bar]
 [h2] Step 1 of 6: Veteran Information
 [end progress bar]
@@ -205,6 +204,7 @@ Month Day Year (dropdowns)
 [end progress bar]
 
 [component date label] Date of birth (*Required)
+
 [dropdowns for: month, day] [ input for year]
 
 [button pair] [<< Back] [Continue >>]
@@ -280,13 +280,13 @@ Month Day Year (dropdowns)
 [hint text] Information is gathered for statistical purposes only.
 
 [checkbox options]
-American Indian or Alaskan Native
-Asian
-Black or African American
-Hispanic, Latino, or Spanish
-Native Hawaiian or Other Pacific Islander
-White
-Prefer not to answer
+- American Indian or Alaskan Native
+- Asian
+- Black or African American
+- Hispanic, Latino, or Spanish
+- Native Hawaiian or Other Pacific Islander
+- White
+- Prefer not to answer
 
 [button pair] [<< Back] [Continue >>]
 
@@ -315,7 +315,11 @@ Prefer not to answer
 [component text input label] Postal code(*Required)
 
 [component radio button label] Is your home address the same as your mailing address?(*Required)
-[options: Yes, No] 
+
+[radio options:]
+- Yes
+- No
+
 [Yes = continue goes to contact information, No = home address]
 
 [button pair] [<< Back] [Continue >>]
@@ -390,18 +394,19 @@ Prefer not to answer
 [content]
 [p] We use this information to help us decide these 4 things:
 
-If you can fill out a shorter application, and
-What types of VA health care benefits you’re eligible for, and
-How soon we enroll you in VA health care, and
-How much (if anything) you’ll have to pay toward the cost of your care
-We give veterans with service-connected disabilities the highest priority.
+[ul]
+- If you can fill out a shorter application, and
+- What types of VA health care benefits you’re eligible for, and
+- How soon we enroll you in VA health care, and
+- How much (if anything) you’ll have to pay toward the cost of your care
+- We give veterans with service-connected disabilities the highest priority.
 
 [END component additional info]
 
 [radio select options]
-Yes, for a service-connected disability rating of up to 40%
-Yes, for a service-connected disability rating of 50% or higher
-No
+- Yes, for a service-connected disability rating of up to 40%
+- Yes, for a service-connected disability rating of 50% or higher
+- No
 
 [button pair] [<< Back] [Continue >>]
 
@@ -416,7 +421,9 @@ No
 [end progress bar]
 
 [component blue alert]
+
 [h3] Confirm that you receive service-connected pay for a 50% or higher disability rating.
+
 [p] You selected that you currently receive service-connected disability pay for a 50% or higher disability rating. This means that you meet one of our eligibility criteria and we don’t need to ask your questions about other criteria, like income and military service.
 
 [button pair] [<< Back] [Continue >>]
@@ -434,27 +441,33 @@ No
 [end progress bar]
 
 [fieldset legend title]  Current compensation from VA
+
 [p] VA disability compensation (pay) provides monthly payments to Veterans with service-connected disabilities. You may get this benefit if you got sick or injured, or had a condition that got worse, because of your active-duty service. We assign a disability rating based on the severity of your disability.
+
 [label] Do you receive VA disability compensation?(*Required)
 
 [component additional info]
 [title] Why we ask for this information
 [content] 
 [p] We use this information to help us decide these 4 things:
+
 [ul] 
-If you can fill out a shorter application, **and**
-What types of VA health care benefits you’re eligible for, **and**
-How soon we enroll you in VA health care, **and**
-How much (if anything) you’ll have to pay toward the cost of your care
+- If you can fill out a shorter application, **and**
+- What types of VA health care benefits you’re eligible for, **and**
+- How soon we enroll you in VA health care, **and**
+- How much (if anything) you’ll have to pay toward the cost of your care
 [END ul]
+
 [p] We give veterans with service-connected disabilities the highest priority.
 [END component additional info]
 
 [radio select options]
-Yes
-No
+- Yes
+- No
 
 [button pair] [<< Back] [Continue >>]
+
+
 
 ---
 ## Step 3 Military history
@@ -469,7 +482,20 @@ No
 [end progress bar]
 
 [component select label] Last branch of service(*Required)
-[Select options] Air Force, Army, Coast Guard, Marine Corps, Merchant Seaman, Navy, Noaa, Space Force, USPHS, Filipino Commonwealth Army, Filipino Guerilla Forces, Filipino New Scout, Filipino Old Scout, Other
+[Select options] 
+- Air Force
+- Army
+- Coast Guard
+- Marine Corps
+- Merchant Seaman
+- Navy
+- Noaa
+- Space Force
+- USPHS
+- Filipino Commonwealth Army
+- Filipino Guerilla Forces
+- Filipino New Scout
+- Filipino Old Scout, Other
 
 [component date label] Service start date(*Required)
 [dropdowns for: month, day] [ input for year]
@@ -478,7 +504,13 @@ No
 [dropdowns for: month, day] [ input for year]
 
 [component select label] Character of service(*Required)
-[Select options] Honorable, General, Other Than Honorable, Bad Conduct, Dishonorable, Undesirable
+[Select options] 
+- Honorable 
+- General
+- Other Than Honorable 
+- Bad Conduct
+- Dishonorable 
+- Undesirable
 
 [button pair] [<< Back] [Continue >>]
 
@@ -489,6 +521,7 @@ No
 #### URL: health-care/apply/application/military-service/service-information
 
 [component checkbox label]  Check all that apply to you.
+
 [checkboxes]
 - Purple Heart award recipient
 - Former Prisoner of War
@@ -499,6 +532,7 @@ No
 - Exposed to radiation while in the military
 - Received nose/throat radium treatments while in the military
 - Served on active duty at least 30 days at Camp Lejeune from January 1, 1953, through December 31, 1987
+
 
 [button pair] [<< Back] [Continue >>]
 
@@ -730,9 +764,14 @@ Amount you paid for anything related to your own education (college or vocationa
 
 ---
 
+
+
 ---
 ## Step 5 Insurance information
 ---
+
+
+
 
 ## Step 5 of 6: Insurance information
 
