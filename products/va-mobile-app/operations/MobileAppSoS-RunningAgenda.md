@@ -44,7 +44,10 @@
   * Given this mobile is entirely dependent on MHV as it's their APIs that need to be completed 
   * Informed last week that this timing may be at risk - no timeline given - delays some Q2 planned capacity (BE mainly) till later into Q2 and likely early Q3 
   * Next step is to meet with them in June 
-  * I made this a separate item above 
+  * I made this a separate item above   
+Digital Decision Letters
+  * All set to go live 5/9
+  * Notifying VBA stakeholders
 
 -----------------
 
