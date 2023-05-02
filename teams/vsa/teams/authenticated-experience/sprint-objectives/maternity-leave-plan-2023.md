@@ -161,7 +161,7 @@ However, this is not a strict binary, and some people float between efforts depe
 - **Berni Xiong** - Delivery manager; supports both halves of the team. Can help with profile-related PM work as Travis onboards.
 - **Liz Lantz** - Senior designer; Working on the logged-in IA/nav research for now, but has primarily worked on the profile.
 - **Angela Agosto** - Designer primarily supporting My VA and onsite notifications.
-- **Florence McCafferty** - Designer primarily supporting the profile, or floating as needed to other priorities.
+- **TBD** - Designer primarily supporting the profile, or floating as needed to other priorities.
 - **Allison Lu** - Frontend developer primarily supporting My VA and onsite notifications.
 - **Adam Whitlock** - Frontend developer primarily supporting the profile.
 - **Tom Harrison** - Backend developer primarily supporting the profile, but has historically pitched in on the My VA half of the portfolio has needed.
