@@ -212,7 +212,7 @@ All 10 participants asked to track their prescription refills navigated to the M
 
 ## Further research needed
 - Wayfinding research is needed 
-
+- Research to understand how users understand and navigate the Health Hub vs. health resources
 
 ## Appendix
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research/2023-03-research-plan.md)
