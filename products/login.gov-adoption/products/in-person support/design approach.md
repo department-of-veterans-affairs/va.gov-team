@@ -17,7 +17,7 @@ In December, we completed a [discovery](https://github.com/department-of-veteran
 This next phase will focus on prototyping and testing hypotheses, with the goal of defining a minimum viable service. By the end of this design phase we should understand:
 - what the service will and won’t do
 - how we will build and deliver parts of the service
-- which services and system we need to integrate with and how
+- which services and systems we need to integrate with and how
 - how we might pilot the service
 - who we need to pilot the service, and what training and processes they might need
 
