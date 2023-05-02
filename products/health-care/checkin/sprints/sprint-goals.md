@@ -45,7 +45,7 @@ ________________________________________________________________________________
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add specs in unified check in annotations page in sketch](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/57727d)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create Content for 45-Minute Check-in Reminder Text](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53569)  
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[a11y design review]: Modernized Check-in Experience aka unified appointment check-in experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57212)
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Finish CodePen prototype](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56144)        
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Finalize CodePen Prototyp](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57751)        
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964#issuecomment-1512100240)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Set-up for Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56624)   
    - **Sub Goal: Analyze current metrics to see what they tell us**
