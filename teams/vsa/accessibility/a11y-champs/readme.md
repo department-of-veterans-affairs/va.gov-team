@@ -68,7 +68,12 @@ Complete two of the following tasks:
 - [ ] Facilitate a research session with Veterans using assistive technology
 - [ ] Write full accessibility annotations for a mockup going through the collaboration cycle
 
+This is a lifelong journey, so we'll also ask for you to...
+- [ ] Continue supporting the accessibility champions program by mentoring new members when you have time
+- [ ] Reach for even greater milestones (we'll provide a list to help out here)
+
 Upon completion, you will be formally recognized as a `VA.gov Accessibility Champion` 🥳
+
 
 ## What does "a11y" mean?
 
