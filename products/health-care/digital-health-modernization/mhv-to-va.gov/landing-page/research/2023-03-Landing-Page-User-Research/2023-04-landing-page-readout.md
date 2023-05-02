@@ -130,6 +130,8 @@ Participants often perceived Health History as a “snapshot” of their health 
 
 > _“I thought that would've been the same thing. Or, maybe bullet points [Health history], with Blue Button being all the data.” - P4_
 
+![Healthrecords](https://user-images.githubusercontent.com/58444931/235709206-cc721381-2b7c-4e5a-b4e2-b5eae3015210.png)
+
 **4. Starting from the unauthenticated state of the updated VA.gov landing page, most participants expected that they would need to sign in to send a message to their doctor and the majority of participants were able to recognize and articulate how they would start that process.**
 
 16 of the 17 participants attempted to sign in or stated they would have signed in when asked to send a message to their doctor. 
@@ -190,6 +192,8 @@ Participants who already knew what Community Care (5 participants) were drawn to
 All 10 participants asked to track their prescription refills navigated to the Medications section of the landing page
 
 >_“Would click on ‘Track prescription delivery’...Huh, that's nice” [regarding locating tracking number]. - P12_ 
+
+![Preference](https://user-images.githubusercontent.com/58444931/235707597-f080a516-3937-4157-8a93-6e5144fa30f5.png)
 
 
 ## Recommendations
