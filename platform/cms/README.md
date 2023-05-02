@@ -72,7 +72,6 @@ Documentation about the CMS lives in various places
 - Blake Organ, Content Designer- Slack `@Blake Organ`
 - Joann Agnitti, Senior Researcher- Slack `@Joann Agnitti`
 - Edmund Dunn, Senior Drupal Developer- Slack `@Edmund Dunn`
-- Elijah Lynn, DevOps & Application Engineer, Slack `@Elijah Lynn`
 - Stefanie Gray, Helpdesk Manager, Slack `@Stefanie Gray`
 - Troy Griffin, Helpdesk and Training Manager, Slack `@Troy Griffin`
 - Nate Douglas, Software/DevOps Engineer and QA Lead, Slack `@Nathan Douglas`
