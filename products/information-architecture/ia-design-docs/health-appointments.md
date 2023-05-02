@@ -13,7 +13,7 @@
 
 
 ## <a name="flows"></a>User/page flows <br>
-*Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
+![Appointments user flow and page access](https://user-images.githubusercontent.com/122126772/235779810-7314b929-4357-4d41-b349-432672aa8b97.png)
 
 
 ## <a name="map"></a>Page structure<br>
