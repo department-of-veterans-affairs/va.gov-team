@@ -51,6 +51,12 @@ Digital Decision Letters
   * All set to go live 5/9
   * Notifying VBA stakeholders
 
+Figma Shipped Files
+  * Ryan curious the effort we put into Design Ops tasks
+    * VA.gov doesn't do the same process
+    * We are putting more effort in right now but it won't always be this effort-heavy, going forward designs will go from working files into Shipped files.  We just need to build them out to start right now.
+    * Ryan curious if there is a way to use the Shipped Files in Figma with his Data Dictionary work he is doing
+
 -----------------
 
 4/25/23
