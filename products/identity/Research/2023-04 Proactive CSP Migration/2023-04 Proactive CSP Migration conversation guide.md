@@ -25,7 +25,7 @@
 - Sign onto Perigean Zoom session
 - Admit the session’s notetaker
 - Check Settings
-   - Bottom tool bar > Screen Share "^" up arrow > Advanced Sharing Options > ho can share > All Participants
+   - Bottom tool bar > Screen Share "^" up arrow > Advanced Sharing Options > who can share > All Participants
    - Bottom tool bar > Participants window > More > Make sure Play join/leave sound is OFF (should be by default)
       - Also make sure that waiting room is on (should be by default)
    - Change Zoom name from "facilitator" to your name
