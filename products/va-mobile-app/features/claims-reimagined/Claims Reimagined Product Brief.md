@@ -26,22 +26,21 @@ Conversion notes:
 
 <h3>Problem Statement</h3>
 
-
 Veterans can file a Disability Claim if they believe they have an injury or medical condition that's a result of their time in service. Once they file that claim, VA will process it, decide whether they think the claimed condition(s) is (are) indeed service-connected, and if so will give the Veteran a disability rating. This rating dictates what monthly award (i.e. payment) the Veteran may get, as well as what other benefits they might have access to.
 
 Once the Veteran submits their claim to VA, they need a way to understand where it is in VA's processing/rating journey and whether VA needs something from them at any given time so that they can keep the claims process moving. Claim Status is a tool that allows them to track this progress. Having a claim approved can mean receiving a life-changing amount of money, so Veterans are highly invested in the outcome.  \
 (See [VA.gov - Claims Status readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/claim-appeal-status/claims-status/readme.md#has-there-been-any-past-user-research-about-sending-notifications-to-users-when-there-is-a-change-to-the-status-of-a-claim-or-appeal))
 
-The claims feature in the VA Mobile app is intended to give Veterans the ability to **quickly access and track the status (**and provide related file requests) for their submitted claims, from initiation to decisioning, providing them with **peace of mind **and the ability to **keep things moving along** as quickly as possible—wherever they are. Veterans can check claims, higher-level reviews, supplemental claims and Board Appeals statuses for both active and closed cases.
+The claims feature in the VA Mobile app is intended to give Veterans the ability to **quickly access and track the status** (and provide related file requests) for their submitted claims, from initiation to decisioning, providing them with **peace of mind** and the ability to **keep things moving along** as quickly as possible—wherever they are. Veterans can check claims, higher-level reviews, supplemental claims and Board Appeals statuses for both active and closed cases.
 
 _We have the opportunity to examine the current state of the claims status tool on both the website and mobile application with the goal of reimaging a future state and additional benefits for the claims feature that focus on trust, transparency and timeliness._
 
 **_See Roadmapping below for phased solutioning goals._**
 
-<h3>**Current Experience:**</h3>
+**Current Experience:**
 
 
-**HIgh level steps in the Claims process:**
+**High level steps in the Claims process:**
 
 
 
