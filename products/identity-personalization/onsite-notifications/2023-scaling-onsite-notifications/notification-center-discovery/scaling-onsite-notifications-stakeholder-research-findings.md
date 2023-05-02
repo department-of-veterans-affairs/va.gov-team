@@ -70,24 +70,12 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 **Finding 1**
 
-**OCTO product owners have trust in the Authenticated Experience team to scale this feature.** Many seemed that they had not logged into VA.gov since the [recent redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect) and they preferred seeing My VA to the homepage because it was more personalized and showed them "their stuff." 
-
-> _"I have not seen this page but I like it. It's a summary of all my various systems that they have. My health benefits, next appointment...I have not seen this but I love it." - P5_
-
-> _"This is nice. My disability rating is up here. I can log in really quick and see everything. ...Now that I've seen this I actually prefer this over eBenefits." - P2_
+**OCTO product owners have trust in the Authenticated Experience team to scale this feature.** 
 
 
 **Finding 2**
 
-**Several OCTO leads said we should consider giving the user some control over notifications so as not to lose credibility and trust.** We started each session by asking Veterans about their VA benefits and how they like to manage them online and/or manually. Once logged in, 100% of Veterans were able to find information and/or actions to manage the benefits that they mentioned they manage online. 
-
-When asked if there was anything Veterans were expecting to see on My VA that they did not, 11 out of 13 participants said no. 1 Veteran said they would like to see a section for documents and 1 Veteran said they would like to see contact information or communication for VSOs (Veteran Service Organizations).
-
-Considering that the overwhelming amount of participants did not feel anything was missing from My VA, it's safe to say that all **top tasks** are included, but there may be some nice-to-have additions to consider, like VA documents.
-
-> _"No, it seems like it has the information that I'd be interested in." - P6_
-
-> _"No, I think it's pretty comprehensive." - P9_
+**Several OCTO leads said we should consider giving the user some control over notifications so as not to lose credibility and trust.** 
 
 
 **Finding 3**
