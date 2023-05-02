@@ -44,15 +44,7 @@ Schedule Appointment - Confirmation |  |  | Do we need this?
 
 
 ## <a name="nav"></a>Entry points <br>
-*A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
-
-
-1. Static Landing Page - [Modify]
-  - Placement description: 
-  - Link label: 
-  - Link destination: 
-  - Notes: The H1 is changing, do we need to change the url or breadcrumb?
-
+These aren't changing.
  
 
 ## <a name="redirects"></a>Redirects <br>
