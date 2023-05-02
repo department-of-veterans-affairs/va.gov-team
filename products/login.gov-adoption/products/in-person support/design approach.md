@@ -8,7 +8,7 @@ Many Veterans are uncomfortable or unfamiliar with remote identity verification.
 
 Additionally, right now Login.gov offers an in-person support pathway at USPS. But this is currently offered as a backup, not a primary method of identity verification.
 
-The VA has a relationship with Veterans which can be leveraged to provide more, for some, convenient in-person proofing than a USPS. In-person verification should be simple, secure, and privacy preserving.
+The VA has a relationship with Veterans which can be leveraged to provide convenient in-person proofing, in addition to USPS locations. In-person verification should be simple, secure, and privacy preserving.
 
 ## Design approach
 
