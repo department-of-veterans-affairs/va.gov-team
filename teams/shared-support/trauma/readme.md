@@ -62,7 +62,7 @@ Attended a big meeting or small group? Lurk on our slack channel? Then you're _o
 - tyler@bluetiger.digital, [LinkedIn](https://www.linkedin.com/in/tylergindraux/)
 - I'd like to learn from each other's experiences so we can cultivate more supportive, safe and inclusive research practices, individually and as a community.
 
-**Clayotn Zook**, Researcher, Identity Core/Surge Team
+**Clayton Zook**, Researcher, Identity Core/Surge Team
 - clayton.zook@oddball.io, [LinkedIn](https://www.linkedin.com/in/czook/)
 - I enjoy connecting with others and learning ways to foster inclusion, empathy, and saftey in our research practice for the betterment of those we ask to participate, for better data reliability, and for taking care of myself as a researcher.
 
