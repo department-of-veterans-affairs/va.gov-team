@@ -18,6 +18,7 @@
 | [Rx](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5091) | Meko | GREEN |
 | [Preferred Name & Gender Identification](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4028) | Meko | Yellow |
 | [Secure Messaging - Realignment with MHV](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4718) | Adam | GREEN |
+| [Secure Messaging - Migrate to Re-Engineered MHV APIs](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4718) | Adam | On Hold |
 | [Digital Decision Letters ](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4290)| Kelly | GREEN |
 | [WCAG 2.2 ](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4228) | Stacy | YELLOW |
 | [EVSS Backend Migration](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/2558) | Kelly | GREEN |
@@ -43,6 +44,7 @@
   * Given this mobile is entirely dependent on MHV as it's their APIs that need to be completed 
   * Informed last week that this timing may be at risk - no timeline given - delays some Q2 planned capacity (BE mainly) till later into Q2 and likely early Q3 
   * Next step is to meet with them in June 
+  * I made this a separate item above 
 
 -----------------
 
