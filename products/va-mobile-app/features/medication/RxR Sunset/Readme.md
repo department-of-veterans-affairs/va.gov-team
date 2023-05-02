@@ -7,7 +7,7 @@ RxR standalone app plans to sunset this year.  With the sunset, Veterans will be
 
 ---
 ### Epic Scope (TBD)
-Epic placeholder: 
+Epic placeholder: [5573](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5573)
 
 * Requirements TBD
 ---
