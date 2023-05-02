@@ -57,7 +57,7 @@ We're a grassroots, volunteer-led educational program intent on scaling up VA.go
 
 ### Level 4, Apprentice 🧠 (🚧 not written yet)
 - 4 hours to complete
-- Choose a specialty path between design, research, engineering, and QA
+- Choose a specialty path between design, research, engineering, product, or QA
 - Shadow an a11y specialist and learn from each other through relational mentoring
 
 ### Level 5, Champion ⭐ (🚧 not written yet)
