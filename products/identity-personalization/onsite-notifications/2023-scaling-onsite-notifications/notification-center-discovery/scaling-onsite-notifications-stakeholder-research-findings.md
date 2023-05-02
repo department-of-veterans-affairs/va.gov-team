@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Authenticated Experience, My VA**
 
-Last updated: 4/27/2023
+Last updated: 5/2/2023
 
 [Angela Agosto - email](angela.agosto@adhocteam.us)
 
@@ -40,7 +40,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 * Chris Johnston - Portfolio lead
 * Rachel Han, Jen Ecker, Ryan Thurlwell, Matt Hall - Mobile app leads
-* Lauren Alexanderson, Kay Lawyer, and Kristen McConnell - Health leads
+* Lauren Alexanderson, Kay Lawyer, Kristen McConnell - Health leads
 * Dave Conlon - Sitewide lead
 * Matt Self - Benefits lead
 * Mikki Northuis - IA/Nav lead
@@ -55,7 +55,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 2. **Several OCTO leads said we should consider giving the user some control over notifications so as not to lose credibility and trust.** 
 
-3. **Product owners who are on VFS teams have already thought about what types of notifications are most important to surface.**
+3. **Product owners for VFS teams have already thought about what types of notifications are most important to surface.**
 
 4. **Finding**
 
@@ -78,11 +78,17 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 **Finding 3**
 
-**Product owners who are on VFS teams have already thought about what types of notifications are most important to surface.** Details
+**Product owners for VFS teams have already thought about what types of notifications are most important to surface.** Details
 
-> _"- Acknowledgement of application submissions or failures, and steps to take (in this case, users want email notification), "I get that when I submit anything on any website." - Matt Self_
+> _"The should be acknowledgement of application submissions or failures, and steps to take or what to expect next. I get that when I submit anything on any website." - Matt Self_
 
-> "- If we had more informative, action-oriented claim statuses, like hey you indicated you had a private medical record to submit, we can't do anything with your claim until we get that document. That to my world's perspective is a MAJOR priority." - Matt Self_
+> _"If we had more informative, action-oriented claim statuses, like hey you indicated you had a private medical record to submit, we can't do anything with your claim until we get that document. That to my world's perspective is a MAJOR priority." - Matt Self_
+
+> _"Information about appts of any type [should be notifications]: appeals, CMP exams, hearings, anything about where a Veteran is expected to participate actively in a thing in service of moving a claim or decision review forward." - Matt Self_
+
+> _"In the VAMC product, there are 140 VA health care systems which encompasses over 2,000 facilities. The VAMC sites are maintained by public officers in the field. Veterans have the ability to subscribe the government delivery notifications. So if a facility is closed, PAOs (Public affair officers) have the ability to essentially check a box that says, send an email message via gov delivery to all of those Veterans who have subscribed for VA gov delivery updates. ...The hypothesis is that Veterans would want instead of or in addition to email updates, to be able to view this in the authenticated experience or receive an email that funnels them into the authenticated experience. But because it's gov delivery, the management and subscription is all done through the gov delivery interface." - Dave Conlon_
+
+> _"
 
 **Finding 4**
 
@@ -91,8 +97,9 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 **Finding 5**
 
-**Finding** Details
+**A notification center on VA.gov would likely need to support messages as well as notifications in the future.** Details
 
+> _"Something we hear from Veterans is 'I wish there was a way for me to see all the times I've been in contact with VA and have that information so I can reference it when I'm talking to a new person.'" - Chante Lantos-Swett_
 
 **Finding 6**
 
@@ -100,7 +107,8 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 ## Additional Insights
 
-* 
+* Chante informed us that the functionality that was poorly implemented with Ask VA will be implemented on VA.gov. This is currently a form where users can submit questions to VA and is integrated with Microsoft Dynamics CRM.
+* Luciana manages virtual agent (Chat bot) / main VA 411 number (calling into VA for support) and Chante said we may want to talk to them about any upcoming needs for notifications.
 
 
 ## Recommendations
