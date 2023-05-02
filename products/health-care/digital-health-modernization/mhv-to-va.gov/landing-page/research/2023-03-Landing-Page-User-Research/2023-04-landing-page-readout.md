@@ -276,7 +276,20 @@ Disability and Assistive Technology:
 
 ## Underserved groups we haven’t talked to 
 This research may not include the perspectives of the following underserved Veteran groups:
+- Cognitive disability
+- Other than honorable
+- Immigrant origin
+- Expat
+- Gay, lesbian, or bisexual
+- Desktop screen reader user
+- Speech input technology users
+- Hearing Aids
+- Sighted Keyboard
+- Captions
+- Switch Device
+- Braille Reader
 
+![Screenshot 2023-05-02 at 11 32 37 AM](https://user-images.githubusercontent.com/58444931/235728396-c962cabe-faed-4c1b-8505-1569831d0768.png)
 
 ## Recruitment criteria
 **All participants:**
