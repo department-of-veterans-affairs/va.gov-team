@@ -8,7 +8,7 @@ Last updated: 5/2/2023
 
 **Jump to:**
 
-[Who we talked to](#who-we-talked-to)
+[Methodology](#methodology)
 
 [Key findings](#key-findings)
 
@@ -57,7 +57,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 3. **Product owners for VFS teams have already thought about what types of notifications are most important to surface.**
 
-4. **Finding**
+4. **We heard some common themes about challenges to consider with scaling notifications, like giving users some control so notifications don't become noise, and the need for notifications to talk to each other across any interfaces where they appear.**
 
 5. **A notification center on VA.gov would likely need to support messages as well as notifications in the future.**
 
@@ -88,16 +88,20 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > _"In the VAMC product, there are 140 VA health care systems which encompasses over 2,000 facilities. The VAMC sites are maintained by public officers in the field. Veterans have the ability to subscribe the government delivery notifications. So if a facility is closed, PAOs (Public affair officers) have the ability to essentially check a box that says, send an email message via gov delivery to all of those Veterans who have subscribed for VA gov delivery updates. ...The hypothesis is that Veterans would want instead of or in addition to email updates, to be able to view this in the authenticated experience or receive an email that funnels them into the authenticated experience. But because it's gov delivery, the management and subscription is all done through the gov delivery interface." - Dave Conlon_
 
-> _"
+* Matt Dingee has been leading a team who are templatizing form components and digitizing them for VA.gov and they have an email notification through VA Notify that says we received your submission. It might be worth having a record of that on VA.gov.
+
+* 
 
 **Finding 4**
 
-**Finding** Details
+**We heard some common themes about challenges to consider with scaling notifications, like giving users some control so notifications don't become noise, and the need for notifications to talk to each other across any interfaces where they appear.** Details
 
 
 **Finding 5**
 
 **A notification center on VA.gov would likely need to support messages as well as notifications in the future.** Details
+
+> _"
 
 > _"Something we hear from Veterans is 'I wish there was a way for me to see all the times I've been in contact with VA and have that information so I can reference it when I'm talking to a new person.'" - Chante Lantos-Swett_
 
