@@ -21,13 +21,19 @@ Pages listed below
 [p] VA health care covers care for your physical and mental health. This includes a range of services from checkups to surgeries to home health care. It also includes prescriptions and medical equipment. Apply online now.
 
 [component blue background alert]
+
 [h2] Have you applied for VA health care before?
+
 [button primary] Sign in to check your application status 
+
 [END component blue background alert]
 
 [h2 class h3]  Follow these steps to get started
+
 [component process list]
+
 [h3 class h4] 1. Check your eligibility
+
 [p] Make sure you meet our eligibility requirements for enrollment before you apply. 
 [p] [bold]Note:[end bold] We can help connect you with mental health care—no matter your discharge status, service history, or eligibility for VA health care. [a = https://www.va.gov/health-care/health-needs-conditions/mental-health/] Find out how to get mental health care [/a]). 
 
@@ -51,10 +57,13 @@ Pages listed below
 
 [p] **Note:** Time spent on active-duty status for training purposes only doesn’t count toward the service requirements. 
 [Get instructions on how to apply for a discharge upgrade or correction](https://www.va.gov/discharge-upgrade-instructions/) 
+
 [END component additional info]
 
 [h3 class h4] 2. Gather your information
+
 [p] Here’s what you’ll need to apply:
+
 [ul]
 - **Social Security numbers** for you, your spouse, and your qualified dependents
 - **Your military discharge information.** If you sign in to apply, we may be able to fill in this information for you. If you don’t sign in to apply, we’ll ask you to upload a copy of your DD214 or other separation documents.**
@@ -62,6 +71,7 @@ Pages listed below
 [end ul]
 
 [p] We’ll also ask you for this optional information:
+
 [ul]
 - **Last year's gross household income** for you, your spouse, and your dependents. This includes income from a job and any other sources. Gross household income is your income before taxes and any other deductions.
 - **Your deductible expenses for the past year.** These include certain health care and education costs. These expenses will lower the amount of money we count as your income.
@@ -70,6 +80,7 @@ Pages listed below
 
 [component additional info]
 [title] Why does the VA need this information? 
+
 [content] 
 [p] When you apply, we review this information:
 [ul]
@@ -769,6 +780,8 @@ Amount you paid for anything related to your own education (college or vocationa
 ---
 ## Step 5 Insurance information
 ---
+
+
 
 
 
