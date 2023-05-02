@@ -4,12 +4,12 @@
 ## Topic
 What other appointment modalities should we support in Pre-Check-in and/or eCheck-in?
 
-## Attendees:
+## Attendees
 - Shawn Adams
 - Ben Brasso
 - Lori Pusey
 
-## Notes:
+## Notes
 - Definitions related to video appointments
     - VA Video Service (VVS) is the VVC database
     - Virtual Care Manager (VCM) is the staff-facing application
@@ -34,3 +34,5 @@ What other appointment modalities should we support in Pre-Check-in and/or eChec
           - List all of the business logic to see what is applicable & what is not
      - VCE-CS could be used to let providers know that the patient is ready 
      
+## Potential Next Steps
+- Create user flow for eCheck-in for phone appointments 
