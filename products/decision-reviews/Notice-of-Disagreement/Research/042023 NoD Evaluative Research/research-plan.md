@@ -95,7 +95,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 Please list the people who will be serving in each role.
 
 * Moderator: Gary Homidas, [gary.homidas@adhocteam.us](mailto:gary.homidas@adhocteam.us)
-* Research guide writing and task development: Gary Homidas and Eileen Chi, [Eileen Chi](eileen.chi@coforma.io) 
+* Research guide writing and task development: Gary Homidas and Eileen Chi, [eileen.chi@coforma.io](mailto:eileen.chi@coforma.io) 
 * Participant recruiting & screening: Perigean
 * Project point of contact: Eileen Chi
 * Participant(s) for pilot test: 
