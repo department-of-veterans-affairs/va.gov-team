@@ -26,7 +26,7 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 ### Team Members
 
 - OCTO-DE/DEPO:
-  - [Lauren Alexanderson](https://dsva.slack.com/team/U772MC9BQ), Product Owner
+  - [Kay Lawyer](https://dsva.slack.com/team/U7T6EKTK9), Product Owner
 - Program Management:
   - [Ariel Nerbovig](https://dsva.slack.com/team/U018FJE3694)
 - Product Management:
