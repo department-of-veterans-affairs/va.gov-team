@@ -9,7 +9,7 @@ Improvements we intend to make will satisfy the following priorities:
 
 * Enhance Veterans’ personalized online experience
 
-Along with meeting OCTO priorities, we are working with the Board of Appeals to discover ways we can help meet the goal:
+Along with meeting OCTO priorities, we are working with the Board of Appeals to discover ways we can help meet the following goals:
 
 * Each Veteran’s appeal is timely docketed and tracked throughout the appeals process
 * Each Veteran receives a timely hearing by a Veterans Law Judge upon request
