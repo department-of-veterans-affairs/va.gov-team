@@ -1,6 +1,6 @@
 ## Claims Processing Workflow Maps
 
-These diagrams show how claims are received and processed by VSRs (Veteran Service Representatives). They are derived from ongoing [technical and business process discussions with VBA SMEs](TBD) and the [VEO Disability Claims Journey mapping and Service Blueprinting efforts](TBD). The flows include the behavior of Veterans, VSRs, RVSRs, Post-VSRs, and others involved in claim rating and adjudication process.
+These diagrams show how claims are received and processed by VSRs (Veteran Service Representatives). They are derived from ongoing technical and business process discussions with VBA SMEs and the VEO Disability Claims Journey mapping and Service Blueprinting efforts. The flows include the behavior of Veterans, VSRs, RVSRs, Post-VSRs, and others involved in claim rating and adjudication process.
 
 ### High Level Claims Processing Journey
 
