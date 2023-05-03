@@ -8,6 +8,29 @@ General notes
 
 
 <details>
+  <summary>5/3/23</summary>
+
+What the team is working on
+
+**Secure Messaging**
+  
+* Finishing up copy changes to align with web
+* UX design discovery on using conversation threading
+
+**Medication-rx**
+  
+* Check-in call with Raquel yesterday regarding new field(s) being added to the MHV medications API
+* Wrap up usability synthesis and documenting findings
+Check-in
+* Kick-off meeting w/ the mobile and check in team planned for this Friday to discuss building out patient check-in MVP experience on mobile
+
+ </details>
+
+
+
+
+
+<details>
   <summary>4/26/23</summary>
 
 What the team is working on
