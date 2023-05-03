@@ -142,7 +142,7 @@ If you want to submit additional documentation after you submit your claim, you 
 
 Respondent burden: 25 minutes
 OMB Control #: 2900-0747
-Expiration date: 11/30/2025
+Expiration date: 03/31/2021
 
 [still need to double check and insert contact center info]
 
