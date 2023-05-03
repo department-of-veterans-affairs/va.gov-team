@@ -94,7 +94,7 @@ We strongly encourage you to submit documentation as soon as you can to help us 
    
    [informational alert component or background color only alert with icon component] 
 
-   PACT Act and presumptive conditions
+   Toxic exposure and PACT Act
 
    To get a disability rating, we need to see that your condition connects to your military service. For many conditions we need documentation to see this, but for some conditions we can automatically assume (or “presume”) that your service caused your condition. If you have what we call a presumptive condition, we don’t need documents showing service caused the condition. 
     
