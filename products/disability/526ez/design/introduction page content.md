@@ -148,7 +148,9 @@ No
 What’s the date or anticipated date of your release from active duty?
 
 Month:
+
 Day:
+
 Year:
 
 [background color only alert component if <90 days]
