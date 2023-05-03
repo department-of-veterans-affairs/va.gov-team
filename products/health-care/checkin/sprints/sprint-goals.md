@@ -66,7 +66,6 @@ ________________________________________________________________________________
             - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Product] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56614)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Recheck GA Events due to text solution change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53966) 
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Wilkes-Barre Planning [PLACEHOLDER]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51110)
-            - Send new text messages (3) to VA Notify to include in our templates
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Schedule Staging Review
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
@@ -90,10 +89,6 @@ ________________________________________________________________________________
    - ![#7c2ac9](https://placehold.co/15x15/7c2ac9/7c2ac9.png) [Platform Orientation Template [Anita Halici]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57050) 
 - **GOAL: Address tech & design debt**
    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Draft artboards names using new structure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57557#issuecomment-1532993169)
-   - Tech debt for Facility Address
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57707)
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57708)
-   - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] Evaluate transition back to sketch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57125)
 
 __________________________________________________________________________________________________________________________________________________________
 
