@@ -39,7 +39,7 @@ There are many potential touchpoints between the Veteran and this application th
 - Aging (Managing my declining health)
 
 ## Research Goals	
-The purpose of this research is to **get user feedback on the newly designed VBA regional facility pages**.
+The purpose of this research is to **get user feedback on the newly designed VBA regional facility page**.
 
 ### Outcome
 Learnings will help refine the design of the pages before the pilot starts with 7 sites.
