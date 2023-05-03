@@ -37,7 +37,7 @@ Data is provided from IAM in a CSV file in the following format. Each row repres
    </td>
    <td>Text
    </td>
-   <td>Not null
+   <td>Not null.  The CSPID is a delimited value, with underscore as the delimiter.  The first value is a CSP identifier, e.g. 200DOD.  The second value is a unique ID for that CSP.
    </td>
   </tr>
   <tr>
