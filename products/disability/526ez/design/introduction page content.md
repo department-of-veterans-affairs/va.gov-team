@@ -152,16 +152,21 @@ Day:
 Year:
 
 [background color only alert component if <90 days]
+
 Based on your separation date, you can apply for benefits now (using VA Form 21-526EZ).
 Select ‘continue’ to start now and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You will have 1 year from the day you submit your intent to file to complete your application.
 
+
 [background color only alert component if date between 90-180 days]
+
 Based on your separation date, you can apply now for benefits under the Benefits Delivery at Discharge (BDD) program. Learn more about the BDD program.
 You have x days left (until x) to complete and submit this form and apply under the BDD program. 
 After that date, you can apply for benefits here (using VA Form 21-526EZ). We recommend you return here as soon as you can to start and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You will have 1 year from the day you submit your intent to file to complete your application.
 Select ‘continue’ to apply now.
 
+
 [background color only alert component if date >180 days]
+
 Based on your separation date, you’ll need to wait to file for disability benefits.
 In x days (on x), you can apply here for benefits under the Benefits Delivery at Discharge (BDD) program. Learn more about the BDD program.
 After x, you can apply for benefits here (using VA Form 21-526EZ). We recommend you return here as soon as you can to start and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You will have 1 year from the day you submit your intent to file to complete your application.
