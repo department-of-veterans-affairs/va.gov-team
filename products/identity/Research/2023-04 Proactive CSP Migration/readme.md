@@ -3,7 +3,7 @@
 - [Research Repo Ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/280)
 - [Research Session Guest List Planning](https://docs.google.com/spreadsheets/d/1y6D2_ItNX9Tch5-nlOFw4Te1ycQMxTqCh09-w-iluWQ/edit#gid=0)
 - [Mural board for note taking](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1681396854554/ff9d23f8eef22907cccb8d45cf46f81f5686684d?sender=u6c46f747a0483ea836054483)
-- To link - recruitment diversity checker spreadsheet
+- [Recruitment diversity checker spreadsheet](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1367041690)
 
 
 ## Planned timeline
