@@ -1,5 +1,5 @@
 # Login.gov Adoption Team: Research overview
-Last updated by @tygindraux: April 14, 2023
+Last updated by @tygindraux: April 22, 2023
 
 <br>
 
