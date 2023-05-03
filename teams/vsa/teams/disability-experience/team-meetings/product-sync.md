@@ -1,5 +1,24 @@
 # Benefits Disability Experience - Product sync
 
+### Date: May 3 2023
+### Topics covered:
+- Bugs/Defects priortization
+   - Future DOC - pending data from Matt B on how many claims are being established with this issue - Matt Self
+- New 526 team
+   - What kind of work should we consider starting with? Bugs / eVSS migration / what else is important to the stakeholders that is currently waiting?  
+- Review road-map
+- Metrics
+   - Reconsider # of sessions to complete a claim based on the last portfolio goals discussion <br>
+ Data from Jan 1' 2023 - April 29' 2023  <br> 
+
+
+|Sessions to complete|Total Unique Users|Percentage|Target|
+|-----|-----------|----|-------|
+|1 session|86,081|54.0% |75%|
+|2 sessions|40,034|25.1% |15%|
+|3 or more|33,304|20.9% |10%|
+
+
 ### Date: April 19 2023
 ### Topics covered:
 - Bugs/Defects priortization
@@ -13,8 +32,6 @@
 - Metrics
    - Keep track of # of sessions to complete a claim
    - Understand why the # has gone up to 4.7 (160%) in April
-
-
 
 
 ### Date: April 19 2023
