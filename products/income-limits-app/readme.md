@@ -23,22 +23,20 @@ How might we rebuild this application so that we clearly define the Veteran use 
  
 ## Desired User Outcomes
 
-- Veteran understands in plain language how income/location/dependents are used as a component to their eligibility for benefits.
+- Veteran understands in plain language what income limits might apply to them based on their location and number of dependents and at a high level what benefits are associated with each income range.
 - Moving on from “What might I be eligible for?” to action (applying) with a better understanding of the evaluation process.
 - In the case of an optional life change, Veteran has more information on which to base a decision.
 
 ## Undesired User Outcomes
 
-*I'm not sure these are right* 
-
-- Confusion or frustration with tool itself.
-- Feeling confused by the information presented by the tool.
 - Discouraging a Veteran from pursuing benefits.
+- Confusion or frustration with tool itself or information presented by the tool.
+- Feeling that a definitive answer about benefit eligibility comes from the app, as opposed to the application process.
 
 ## Desired Business Outcomes
 
 - Increase the use of VA’s self-service tools, and reduce phone calls to the VA.
-- Better serve veterans by helping them get faster access to information about some factors affecting benefit eligibility.
+- Better serve veterans by helping them get faster access to information about how income affects benefit level and eligibility.
 
 ## Undesired Business Outcomes
 
@@ -56,17 +54,17 @@ How might we rebuild this application so that we clearly define the Veteran use 
 
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
 |----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
+| KPI      | Medallia surveys (qual) |Funnel: reach results screen (GA)|Funnel: "apply now"|        |
 | KPI      |             |                    |                    |        |
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+_Is any baseline data available for old Teamsite version?_
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
-  - Key result: 
+- Objective: Veterans are informed of the income limits that apply to their location and number of dependents
+  - Key result: XX % of Veterans who click "Get started" reach the results screen
   - Key result: 
 
 
@@ -81,6 +79,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *Why this solution / approach over other solutions / approaches?*
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+
+We will use a multi-step "subtask pattern" to gather key inputs from the Veteran and display the income limits that are relevant to them. 
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
@@ -110,6 +110,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Key Decisions
 
+See decision log in this folder.
+
 ---
    
 ## Screenshots
@@ -124,11 +126,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: Sitewide Public Websites
+- GitHub Label: Public Websits
+- Slack channel: #sitewide-public-websites
+- Product POCs: Wes Rowe (PM)
+- Stakeholders: see below
 
 </details>
 
@@ -136,10 +138,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: Dave Conlon
+ - PM: Wes Rowe
+ - Engineering: Daniel Sasser
+ - Research/Design: Jordan Wood
  
 </details>
 
