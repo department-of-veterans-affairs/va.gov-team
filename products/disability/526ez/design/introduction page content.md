@@ -6,19 +6,19 @@ Equal to VA Form 21-526EZ (Application for Disability Compensation and Related C
 
 Use this form to file for disability benefits for an illness or injury that was caused by—or got worse because of—your active military service. This page describes what you need to do to file a new claim or a claim for increased disability compensation.
 
+   [informational alert component or background color only alert with icon component] 
 
-   [sign in prompt alert component] 
+   Toxic exposure and PACT Act 
 
-   Sign in to start or save your work in progress
+   The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of conditions we can automatically assume (or “presume”) was caused by your service. If this applies to you, we encourage you to file for benefits now. If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application.
+Learn more about the PACT Act and what is now presumptive
 
-   Here’s how signing in now helps you:
-    - By starting an application, you let us know you intend to file a claim, which holds a potential effective date for when you could start getting benefits.
-    - We can fill in some of your contact information for you to save you time.
-    - You can save your work in progress. You’ll have 1 year from when you start or make updates to your application to come back and finish it.
-    - After you submit your application, you can track claim status and upload additional documents on your profile.
 
-   [button] Sign in to start or continue your application
+   [background color only alert component] 
    
+   Have you applied for VA health care before?
+  
+  [button] Sign in to start or continue your application
 
 
 Follow the steps below to file a claim for a new or secondary condition or for increased disability compensation.
@@ -125,7 +125,20 @@ After you submit your claim here you will see a confirmation page. You will not 
 In some cases, you may need to turn in one or more additional forms to support your claim. If additional information is needed, you will receive a letter from us. 
 
 If you want to submit additional documentation after you submit your claim, you have up to one year to do so. However, we may decide your claim before the end of that one year period, in which case we may request you submit a new application. Learn more about uploading evidence documents to support disability claims.
-[button] Sign in to start or continue your application
+
+
+ [sign in prompt alert component] 
+
+   Sign in to start or save your work in progress
+
+   Here’s how signing in now helps you:
+    - By starting an application, you let us know you intend to file a claim, which holds a potential effective date for when you could start getting benefits.
+    - We can fill in some of your contact information for you to save you time.
+    - You can save your work in progress. You’ll have 1 year from when you start or make updates to your application to come back and finish it.
+    - After you submit your application, you can track claim status and upload additional documents on your profile.
+
+   [button] Sign in to start or continue your application
+   
 
 Respondent burden: 25 minutes
 OMB Control #: 2900-0747
