@@ -1,7 +1,8 @@
 # Meeting with Blinded Veterans Association/Mobile App team  
 February 2023
 
-Mobile App Attendees: Lauren Russell, Liz Straghalis, Matt Hall, Meko Hong, Misty Milliron-Grant    
+Mobile App Attendees: Lauren Russell, Liz Straghalis, Matt Hall, Meko Hong, Misty Milliron-Grant
+BVA Attendees: Tim Hornak    
 
 ## Notes
 
