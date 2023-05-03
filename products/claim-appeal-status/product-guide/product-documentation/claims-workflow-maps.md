@@ -15,6 +15,6 @@ These diagrams show how claims are received and processed by VSRs (Veteran Servi
 
 (Download PDF for full view)
 
-[VBMS-Business-WorkFlow.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11390877/CST.VBMS.Claim.Flow_2023-05-03_19-25-38.pdf)
+[VBMS-Business-Workflow.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11390877/CST.VBMS.Claim.Flow_2023-05-03_19-25-38.pdf)
 
 <img width="820" alt="Screenshot 2023-05-03 at 4 12 23 PM" src="https://user-images.githubusercontent.com/95102058/236038000-1bae0b39-e41d-4b0d-904d-40e9bc793f60.png">
