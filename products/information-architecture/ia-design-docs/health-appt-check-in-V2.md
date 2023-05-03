@@ -39,6 +39,7 @@
 --- | --- | --- | ---
 
 Here are some ideas:
+![URls for checkin pages](https://user-images.githubusercontent.com/122126772/236068081-01963860-0d09-4250-b131-edc2bd9935f3.png)
 
 
 
