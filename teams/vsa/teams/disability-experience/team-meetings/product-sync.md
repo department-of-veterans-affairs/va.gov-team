@@ -7,17 +7,32 @@
 - New 526 team
    - What kind of work should we consider starting with? Bugs / eVSS migration / what else is important to the stakeholders that is currently waiting?  
 - Review road-map
-- Metrics
+- OCTO lead engagement
+   - Shannon focused on 526 and Julie is focused on non-526 claimant experience. This will change and Julie will take on 526 as well.
+   - Engage Shannon/Julie as SMEs/support for design and research before engaging collab cycle
+   - Engage Steve Albers as tech lead more actively
+ 
+ - Metrics
    - Reconsider # of sessions to complete a claim based on the last portfolio goals discussion <br>
- Data from Jan 1' 2023 - April 29' 2023  <br> 
 
+   - Look at completion rate excluding the unauthenticated landing page
+   - Include completion rate in helat metrics
+   - Look at reporting periods in fiscal year(Oct - Sept)
+   - Possible research focus into drops into completion rate by steps
 
+ Data from Jan 1' 2023 - April 29' 2023  
 |Sessions to complete|Total Unique Users|Percentage|Target|
 |-----|-----------|----|-------|
 |1 session|86,081|54.0% |75%|
 |2 sessions|40,034|25.1% |15%|
 |3 or more|33,304|20.9% |10%|
 
+ Data from Oct 1' 2021 - Sept 30' 2022  
+|Sessions to complete|Total Unique Users|Percentage|
+|-----|-----------|----|
+|1 session|609,856|50.2% |
+|2 sessions|281,719|23.2% |
+|3 or more|322,946|26.6% |
 
 ### Date: April 19 2023
 ### Topics covered:
