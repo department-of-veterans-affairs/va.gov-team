@@ -2,6 +2,7 @@
 February 2023
 
 Mobile App Attendees: Lauren Russell, Liz Straghalis, Matt Hall, Meko Hong, Misty Milliron-Grant
+
 BVA Attendees: Tim Hornak    
 
 ## Notes
