@@ -101,6 +101,8 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > "_I think heriarchy would be important because you wouldn't want to be overwhelming people with noise. I've seen websites do that too." - Matt Self_
 
+> "_Consistency is probably the biggest thing. And transparency. Like hey if we don't know an answer to something, tell people that. If the claim is moving back and forth, that's a place where the VA has reduced their transparency. That doesn't look good, but we've tried it both ways. There's more oppostion to the less transparent model than the bouncing around model. There's a general lack of trust that the VA is working in your best interest [or working quickly at all]." - Matt Self_
+
 > "_
 
 **Finding 4**
