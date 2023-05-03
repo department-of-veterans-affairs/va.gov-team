@@ -553,7 +553,8 @@ Month Day Year (dropdowns)
 
 
 ---
-## Step 4 Household information
+## Step 4 Household information 
+
 ---
 
 ## Step 4 of 6: Household Information
@@ -804,24 +805,25 @@ Amount you paid for anything related to your own education (college or vocationa
 
 ---
 
+### Page: Medicare 
 
-## Step 5 of 6: Insurance information
+#### URL: health-care/apply/application/insurance-information/medicare
 
-Medicare is a federal health insurance program providing coverage for people who are 65 years or older or who meet who meet special criteria. Part A insurance covers hospital care, skilled nursing and nursing home care, hospice, and home health services.
+[p] Medicare is a federal health insurance program providing coverage for people who are 65 years or older or who meet who meet special criteria. Part A insurance covers hospital care, skilled nursing and nursing home care, hospice, and home health services.
 
-Are you enrolled in Medicare Part A (hospital insurance)? (*Required)
+[component radio select]
 
-Yes
+[label] Are you enrolled in Medicare Part A (hospital insurance)?(*Required)
 
-No
+[radio select options]
+- Yes
+- No
 
-_(if yes)_ What is your Medicare Part A effective date?(*Required)
+[button pair] [<< Back] [Continue >>]
 
-You’ll find this date under “coverage starts” on the front of your Medicare card.
+---
 
-Month Day Year _(dropdown)_
 
-[<< Back] [Continue >>]
 
 ## Step 5 of 6: Insurance information
 
@@ -870,6 +872,9 @@ _(hint text)_ Either this or the group code is required
 [Add another Insurance Policy] _(list loop insurance policy)_
 
 [<< Back] [Continue >>]
+
+
+
 
 ## Step 5 of 6: Insurance information
 
