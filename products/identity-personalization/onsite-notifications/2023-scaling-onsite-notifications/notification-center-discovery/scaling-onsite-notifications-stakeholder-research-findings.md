@@ -76,6 +76,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > _"I imagine that there needs to be someplace where a user can see a list of all of the notifications that they've received; whether it's a recent text message or email or onsite notifications and they dismissed it too quickly and they want to see what it was or I'm sure there's a million use cases that we haven't thought of. I can imagine there's some sort of notification hub that lives somewhere on the site. I don't know where that is or what it's a part of. It seems like there's a use case for that." - Mikki Northuis
 
+* Our meeting with the mobile app leads was not very productive but Ryan Thurlwell expressed that our team should propose a solution and then just make sure the OCTO product owners are okay with it and indicated that extensive research isn't necessary for us to come to a conclusion.
 
 **Finding 2**
 
@@ -101,11 +102,16 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 ### Supporting quotes and notes
 
-> "_I think heriarchy would be important because you wouldn't want to be overwhelming people with noise. I've seen websites do that too." - Matt Self_
+> "_I think hierarchy would be important because you wouldn't want to be overwhelming people with noise. I've seen websites do that too." - Matt Self_
 
 > "_Consistency is probably the biggest thing. And transparency. Like hey if we don't know an answer to something, tell people that. If the claim is moving back and forth, that's a place where the VA has reduced their transparency. That doesn't look good, but we've tried it both ways. There's more oppostion to the less transparent model than the bouncing around model. There's a general lack of trust that the VA is working in your best interest [or working quickly at all]." - Matt Self_
 
-> "_
+> _"I think the key for notifications is making sure that they're super relevant and I want them to deep link to the actual thing that it's notifying them about. And I want it to link the systems." - Mikki Northuis_ Mikki gave an example of how confirming an appointment via a notification doesn't update the staff at the health care clinic that the appointment is confirmed and said that that type of disconnect can create issues. _"If we're gonna do notifications, making sure that we can actually complete the thread is important."_
+
+> _"How do we provide Veterans control over notifications? And what is the right balance between you are automatically subscribed to this notification, versus a notification that a new notification option is available and you can choose whether to subscribe to it or not. And at what cadence? How do we not overwhelm them with notifications and options to subscribe? How do we empower Veterans to take control of their own healthcare benefits journey rather than having the VA make decisions on their behalf? I would hypothesize that Veterans feel subjected to VA's whims and decisions." - Dave Conlon_
+
+* Mikki said if you dismiss a notification in one place of VA.gov but it still appears on another page, that would break Veteran trust and create noise.
+* Dave Conlon brought up the PACT Act as an example where notifications could be automatic and intelligent because we know their service history and can send them a notification that they may be eligible, and then provide subsequent notifications if and when they apply for those benefits.
 
 **Finding 4**
 
@@ -129,6 +135,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 * Chante informed us that the functionality that was poorly implemented with Ask VA will be implemented on VA.gov. This is currently a form where users can submit questions to VA and is integrated with Microsoft Dynamics CRM.
 * Luciana manages virtual agent (Chat bot) / main VA 411 number (calling into VA for support) and Chante said we may want to talk to them about any upcoming needs for notifications.
 * Mikki let us know that there will be some changes to the navigation because it's so focused around benefits which hasn't scaled well and there's no logical place for some tools. There may be a new space for those tools. She also said three initiatives will strongly impact the navigation of the site over the next 6 months to 2 years: sitewide crew changes to the unauth content (healthcare and disability content(; MHV functionality moving over to VA.gov; and the authenticated experience work that Liz has started research on. These are iniatives that we will have to consider and teams we'll need to work closely with as we propose solutons for notifications.
+* Jen Ecker shared via Slack that the mobile app supports push notifications for appointment reminders and secure message alerts but they currently kick the user to the homepage of the app and don't deep link. There is a settings feature in the app that lets the user toggle those notifications on or off.
 
 
 ## Recommendations
