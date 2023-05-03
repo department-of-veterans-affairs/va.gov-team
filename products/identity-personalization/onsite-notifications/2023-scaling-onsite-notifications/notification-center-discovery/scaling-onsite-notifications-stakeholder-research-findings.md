@@ -51,7 +51,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 ## Key Findings
 
-1. **OCTO product owners have trust in the Authenticated Experience team to scale this feature.**
+1. **OCTO product owners have trust in the Authenticated Experience team to scale this feature and had only very high-level thoughts about how notifications might appear on VA.gov.**
 
 2. **Several OCTO leads said we should consider giving the user some control over notifications so as not to lose credibility and trust.** 
 
@@ -68,17 +68,23 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 **Finding 1**
 
-**OCTO product owners have trust in the Authenticated Experience team to scale this feature.** 
+**OCTO product owners have trust in the Authenticated Experience team to scale this feature and had only very high-level thoughts about how notifications might appear on VA.gov.** We were somewhat surprised by the lack of strong opinions about how notifications should look and function on VA.gov. We did get some high-level feedback to consider, but overall, OCTO product owners seem to trust the Authenticated Experience team to determine the best approach.
+
+### Supporting quotes and notes
 
 
 **Finding 2**
 
 **Several OCTO leads said we should consider giving the user some control over notifications so as not to lose credibility and trust.** 
 
+### Supporting quotes and notes
+
 
 **Finding 3**
 
-**Product owners for VFS teams have already thought about what types of notifications are most important to surface.** Details
+**Product owners for VFS teams have already thought about what types of notifications are most important to surface.** We could likely start building a backlog of notification types to support based on what we heard from OCTO product owners in this research study. Most of these notification types are not currently feasible but will be within the next 6 months to 2 years.
+
+### Supporting quotes and notes
 
 > _"The should be acknowledgement of application submissions or failures, and steps to take or what to expect next. I get that when I submit anything on any website." - Matt Self_
 
@@ -96,10 +102,14 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 **We heard some common themes about challenges to consider with scaling notifications, like giving users some control so notifications don't become noise, and the need for notifications to talk to each other across any interfaces where they appear.** Details
 
+### Supporting quotes and notes
+
 
 **Finding 5**
 
 **A notification center on VA.gov would likely need to support messages as well as notifications in the future.** Details
+
+### Supporting quotes and notes
 
 > _"
 
@@ -108,6 +118,9 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 **Finding 6**
 
 **Finding** Details
+
+### Supporting quotes and notes
+
 
 ## Additional Insights
 
