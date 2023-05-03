@@ -156,19 +156,27 @@ Year:
 [background color only alert component if <90 days]
 
 Based on your separation date, you can apply for benefits now (using VA Form 21-526EZ).
+
 Select ‘continue’ to start now and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You will have 1 year from the day you submit your intent to file to complete your application.
 
 
 [background color only alert component if date between 90-180 days]
 
 Based on your separation date, you can apply now for benefits under the Benefits Delivery at Discharge (BDD) program. Learn more about the BDD program.
+
 You have x days left (until x) to complete and submit this form and apply under the BDD program. 
+
 After that date, you can apply for benefits here (using VA Form 21-526EZ). We recommend you return here as soon as you can to start and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You will have 1 year from the day you submit your intent to file to complete your application.
+
+[warning alert] You’ll need to submit service treatment records for the current period of service as well as a Separation Health Assessment – Part A Self-Assessment as part of your claim so we can request your VA exam. We estimate that it will take you at least 30 minutes to complete this form, and we recommend you download and fill out this form on a desktop computer or laptop then return to this form to upload.
+
 Select ‘continue’ to apply now.
 
 
 [background color only alert component if date >180 days]
 
 Based on your separation date, you’ll need to wait to file for disability benefits.
+
 In x days (on x), you can apply here for benefits under the Benefits Delivery at Discharge (BDD) program. Learn more about the BDD program.
+
 After x, you can apply for benefits here (using VA Form 21-526EZ). We recommend you return here as soon as you can to start and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You will have 1 year from the day you submit your intent to file to complete your application.
