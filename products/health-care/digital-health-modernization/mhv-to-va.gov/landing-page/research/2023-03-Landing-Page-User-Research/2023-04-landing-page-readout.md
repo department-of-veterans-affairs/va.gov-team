@@ -124,6 +124,7 @@ The majority of participants (14 of 17 being current users of My HealtheVet clas
 
 
 **3. Participants were often confused by _Download medical records (Blue Button)_ and _Health history_ and did not clearly distinguish as mutually exclusive of each other.**
+
 Participants often perceived Health History as a “snapshot” of their health whereas Download medical records (Blue Button) as having their complete medical records. When asked, participants were uncertain and not confident where they would navigate to access notes from doctors, vaccine records, etc. and saw most health information existing in both Health History and Download medical records (Blue Button).
 
 > _“Expect [Medical records] to have the entire medical record downloaded. That's how it reads to me. That would be a whole heck of a lot of medical records.” - P12_
