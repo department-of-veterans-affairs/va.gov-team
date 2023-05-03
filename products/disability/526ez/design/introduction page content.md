@@ -1,4 +1,4 @@
-##Intro content
+## Intro content
 
 File for disability compensation with VA Form 21-526EZ 
 
@@ -134,7 +134,7 @@ Expiration date: 11/30/2025
 
 
 
-##Start/active duty content:
+## Start/active duty content:
 
 Are you on active duty right now?
 Yes
@@ -142,7 +142,7 @@ No
 
 
 
-##Service end date content: [if yes to active duty]
+## Service end date content: [if yes to active duty]
 
 What’s the date or anticipated date of your release from active duty?
 
