@@ -49,8 +49,7 @@ We will use the research findings to establish a baseline for measuring the effe
 5. We believe that the updates to the paper form that are missing from the digital form may be preventing Veterans from successfully completing a Board Appeal request
 6. We believe Veterans desire a copy of the form once it’s submitted digitally
 
-### Assumptions
-* _What assumptions underpin this research, and our hypotheses?_
+## _*Everything below is still a Work in Progress*_
 
 ## Method
 Interview and moderated usability test of Request a Board Appeal form through production or staging.
@@ -71,7 +70,7 @@ We’ll conduct remote usability testing over Zoom using the va.gov production o
 * Are you comfortable with sharing your screen as you walk through a Request for Board Appeal application (without submitting) on your va.gov account? [Must answer yes]
 
 ## Timeline
-Please submit artifacts for  [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html)  8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
+Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html)  8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it’s ready a week before testing begins and has also been through a  [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html) .
@@ -95,9 +94,9 @@ A pilot session is required. Please indicate the date and name of a mock partici
 Please list the people who will be serving in each role.
 
 * Moderator: Gary Homidas, [gary.homidas@adhocteam.us](mailto:gary.homidas@adhocteam.us)
-* Research guide writing and task development: Gary Homidas and Eileen Chi, [eileen.chi@coforma.io](mailto:eileen.chi@coforma.io) 
+* Research guide writing and task development: Gary Homidas and Eileen Chi [eileen.chi@coforma.io](mailto:eileen.chi@coforma.io) 
 * Participant recruiting & screening: Perigean
 * Project point of contact: Eileen Chi
 * Participant(s) for pilot test: 
 * Note-takers:
-* Observers: Sade Ragsdale, [sade@coforma.io](mailto:sade@coforma.io) , Eileen Chi 
+* Observers: Sade Ragsdale, [sade@coforma.io](mailto:sade@coforma.io) , Eileen Chi [eileen.chi@coforma.io](mailto:eileen.chi@coforma.io) 
