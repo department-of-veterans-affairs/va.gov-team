@@ -14,11 +14,12 @@
 - Product Manager - [Lori Pusey](https://dsva.slack.com/team/U035BMZ07PD)
 - Delivery Manager & Scrum Master - [Anita Halici](https://dsva.slack.com/archives/D055G32ES79)
 - UX Research - [Ben Brasso](https://dsva.slack.com/team/U0360TY9E9H)
-- UX/UI Design
+- UX Design
   - [Zach Park](https://dsva.slack.com/team/U02FQ4X5J8M)
   - [Ya-Ching Tsao](https://dsva.slack.com/team/U02EFEFA1EU)
-  - [Kelly Smith](https://dsva.slack.com/team/U04427HRK60)
   - [Christina Gednalske](https://dsva.slack.com/team/U02KVPC82VA)
+ - UX Content
+   - [Kelly Smith](https://dsva.slack.com/team/U04427HRK60)  
 - Frontend Engineers
   - [Brian Seek](https://dsva.slack.com/team/U02FLCLQ6J2)
   - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)
