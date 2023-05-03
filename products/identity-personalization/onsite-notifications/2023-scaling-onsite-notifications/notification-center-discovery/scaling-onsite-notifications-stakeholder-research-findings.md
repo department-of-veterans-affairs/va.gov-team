@@ -74,6 +74,8 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > _"I definitely want to actively communicate that I'm not a designer, but just conceptually, I'm going through the exercise that our Veterans do of comparng our digital products to other similar experiences, it would be I think cool to have some kind of hierarchy or criteria for determining what kinds of information is most important to Veterans. And then if something meets that highest criteria, some way to surface it statically [like a banner on my banking website]. - Matt Self_
 
+> _"I imagine that there needs to be someplace where a user can see a list of all of the notifications that they've received; whether it's a recent text message or email or onsite notifications and they dismissed it too quickly and they want to see what it was or I'm sure there's a million use cases that we haven't thought of. I can imagine there's some sort of notification hub that lives somewhere on the site. I don't know where that is or what it's a part of. It seems like there's a use case for that." - Mikki Northuis
+
 
 **Finding 2**
 
@@ -126,6 +128,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 * Chante informed us that the functionality that was poorly implemented with Ask VA will be implemented on VA.gov. This is currently a form where users can submit questions to VA and is integrated with Microsoft Dynamics CRM.
 * Luciana manages virtual agent (Chat bot) / main VA 411 number (calling into VA for support) and Chante said we may want to talk to them about any upcoming needs for notifications.
+* Mikki let us know that there will be some changes to the navigation because it's so focused around benefits which hasn't scaled well and there's no logical place for some tools. There may be a new space for those tools. She also said three initiatives will strongly impact the navigation of the site over the next 6 months to 2 years: sitewide crew changes to the unauth content (healthcare and disability content(; MHV functionality moving over to VA.gov; and the authenticated experience work that Liz has started research on. These are iniatives that we will have to consider and teams we'll need to work closely with as we propose solutons for notifications.
 
 
 ## Recommendations
