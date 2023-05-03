@@ -1,8 +1,8 @@
-## VBMS Maps 
+## Claims Processing Workflow Maps
 
-These diagrams show how claims are received and processed by VBMS. They are derived from our VBMS discovery efforts (link TBA). The flows include the behavior of Veterans, VSRs, RVSRs, Post-VSRs, and others involved in claim rating and decision-making.
+These diagrams show how claims are received and processed by VSRs (Veteran Service Representatives). They are derived from ongoing [technical and business process discussions with VBA SMEs](TBD) and the [VEO Disability Claims Journey mapping and Service Blueprinting efforts](TBD). The flows include the behavior of Veterans, VSRs, RVSRs, Post-VSRs, and others involved in claim rating and adjudication process.
 
-### VBMS Journey Map
+### High Level Claims Processing Journey
 
 (Download PDF for full view)
 
@@ -11,7 +11,7 @@ These diagrams show how claims are received and processed by VBMS. They are deri
 <img width="2515" alt="Screenshot 2023-05-03 at 4 12 01 PM" src="https://user-images.githubusercontent.com/95102058/236037904-c94c5b85-c15a-420a-bc2c-12db28f67d6e.png">
 
 
-### VBMS Flow Diagram
+### Detailed Claims Processing Workflow
 
 (Download PDF for full view)
 
