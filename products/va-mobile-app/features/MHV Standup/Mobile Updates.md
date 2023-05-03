@@ -21,7 +21,9 @@ What the team is working on
   
 * Check-in call with Raquel yesterday regarding new field(s) being added to the MHV medications API
 * Wrap up usability synthesis and documenting findings
-Check-in
+
+**Check-in**
+  
 * Kick-off meeting w/ the mobile and check in team planned for this Friday to discuss building out patient check-in MVP experience on mobile
 
  </details>
