@@ -25,7 +25,7 @@ Follow the steps below to file a claim for a new or secondary condition or for i
 
 1. Determine if this form is for you 
 
-This form is for you if you’ve served, you have a current illness or injury (known as a condition) that affects your mind or body, and:
+This form is for you if you’ve served (on active duty, active duty for training, or inactive duty training), you have a current illness or injury (known as a condition) that affects your mind or body, and:
 - You got sick or injured while serving (this is called a service-connected disability), or
 - You had an illness or injury before you served and serving made it worse, or
 - A service-connected illness or injury you already have has caused a new injury or illness
