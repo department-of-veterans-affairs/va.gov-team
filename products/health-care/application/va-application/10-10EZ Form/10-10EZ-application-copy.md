@@ -823,58 +823,136 @@ Amount you paid for anything related to your own education (college or vocationa
 
 ---
 
+### Page: Medicare Effective Date
+
+#### URL: health-care/apply/application/insurance-information/medicare-part-a-effective-date
 
 
-## Step 5 of 6: Insurance information
+[component progress bar]
+[h2] Step 5 of 6: Insurance information
+[end progress bar]
 
-Health insurance includes any coverage that you get through a spouse or significant other. Health insurance also includes Medicare, private insurance, or insurance from your employer.
+[component date select]
 
-Do you have health insurance coverage? (*Required)
+[label] What is your Medicare Part A effective date?(*Required)
 
-Why we ask for this information _(more info)_
+[hint text] You’ll find this date under “coverage starts” on the front of your Medicare card.
 
-We ask for this information for billing purposes only. Your health insurance coverage doesn’t affect the VA health care benefits you can get.
+[dropdowns for: month, day] [ input for year]
+[end date component]
 
-Giving us your health insurance information helps you for these reasons:
-- We must bill your private health insurance provider for any care, supplies, or medicines we provide to treat your non-service-connected conditions. If you have a VA copayment, we may be able to use the payments from your provider to cover some or all of your copayment.
-- Your private insurance provider may apply your VA health care charges toward your annual deductible. Your annual deductible is the amount of money you pay toward your care each year before your insurance starts to pay for care.
+[component number input]
 
-_(end more info)_
+[label] What is your Medicare claim number?(*Required)
 
+[hint text] You’ll find this number on the front of your Medicare card. Enter all 11 numbers and letters.
+
+[additional info component]
+
+[label] Why we ask for this information
+
+[content] 
+
+[p] We use your Medicare claim number to keep track of the health care services that Medicare covers. We use your claim number when we need to create a Medicare explanation of benefits.
+
+[p] We don’t bill Medicare for any services. By law, Medicare can’t pay for our services. But this explanation shows what Medicare would have paid for services if they could.
+
+[p] We may need to bill medicare supplemental insurance or a private insurance provider for certain services. And some providers must have this explanation before they’ll pay the bill.
+
+[p] **Note:** Having Medicare or other health insurance doesn’t affect the VA health care benefits you can get. And you won’t have to pay any unpaid balance that a health insurance provider doesn’t cover.
+
+
+[end additional info component]
+
+[text input]
+
+[error message] Please enter a valid 11-character Medicare claim number
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+
+--- 
+
+### Page: Health insurance
+
+#### URL: health-care/apply/application/insurance-information/general
+
+[component progress bar]
+[h2] Step 5 of 6: Insurance information
+[end progress bar]
+
+
+[p] Health insurance includes any coverage that you get through a spouse or significant other. Health insurance also includes Medicare, private insurance, or insurance from your employer.
+
+
+[label] Do you have health insurance coverage?(*Required)
+
+[additional info component]
+
+[title] Why we ask this information
+
+[content]
+
+[p] We ask for this information for billing purposes only. Your health insurance coverage doesn’t affect the VA health care benefits you can get.
+
+[p] Giving us your health insurance information helps you for these reasons:
+
+[ul]
+
+We must bill your private health insurance provider for any care, supplies, or medicines we provide to treat your non-service-connected conditions. If you have a VA copayment, we may be able to use the payments from your provider to cover some or all of your copayment.
+Your private insurance provider may apply your VA health care charges toward your annual deductible. Your annual deductible is the amount of money you pay toward your care each year before your insurance starts to pay for care.
+
+[end ul]
+
+[END additional info component]
+
+
+[radio select options]
 Yes
-
 No
 
-_(if yes)_
 
-Name of insurance provider(*Required)
+[CONDITIONAL - uses old list-and-loop pattern]
 
-Name of policyholder (the person whose name the policy is in) (*Required)
+[component text input label]  Name of insurance provider(*Required)
 
-**Provide either your insurance policy number or group code.** (*Required)
-
-I have TRICARE. What’s my policy number? _(more info)_
-
-You can use your Department of Defense benefits number (DBN) or your Social Security number as your policy number.
-
-Your DBN is an 11-digit number. You’ll find this number on the back of your military ID card.
-
-_(end more info)_
-
-Policy number 
-
-_(hint text)_ Either this or the group code is required
-
-Group code
-
-_(hint text)_ Either this or the group code is required
-
-[Add another Insurance Policy] _(list loop insurance policy)_
-
-[<< Back] [Continue >>]
+[component text input label] Name of policyholder (the person whose name the policy is in)(*Required)
 
 
+[class="schemaform-block-title schemaform-block-subtitle vads-u-margin-top--6 vads-u-margin-bottom--2 vads-u-color--primary-darkest"  ? ] 
+Provide either your insurance policy number or group code. (*Required)
 
+[additional info component]
+
+[label] I have TRICARE. What’s my policy number?
+
+[content] 
+
+[p] You can use your Department of Defense benefits number (DBN) or your Social Security number as your policy number.
+
+[p] Your DBN is an 11-digit number. You’ll find this number on the back of your military ID card.
+
+[END additional info component]
+
+
+[component text input label] Policy Number
+[hint text] Either this or the group code is required
+
+[schemaform-block-title schemaform-block-subtitle vads-u-margin-bottom--neg2p5 vads-u-color--primary-darkest] Or
+
+[component text input label] Group Code
+[hint text] Either this or the policy number is required
+
+[button secondary] Add another insurance policy
+[END CONDITIONAL CONTENT]
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+--- 
 
 ## Step 5 of 6: Insurance information
 
