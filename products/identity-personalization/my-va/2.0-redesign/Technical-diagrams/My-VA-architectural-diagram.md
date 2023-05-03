@@ -1,1 +1,1 @@
-![118527092-c8f9f800-b6f5-11eb-8332-3462912841ca](https://user-images.githubusercontent.com/45603961/118549322-4854ef00-b729-11eb-9bf5-d9e6790c68f8.png)
+![My VA Architecture Diagram](https://user-images.githubusercontent.com/534756/235998227-b0ba4fa8-3902-4a80-bd7b-2fe13ed3d2c7.png)
