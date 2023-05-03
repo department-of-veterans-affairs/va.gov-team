@@ -6,6 +6,7 @@ Equal to VA Form 21-526EZ (Application for Disability Compensation and Related C
 
 Use this form to file for disability benefits for an illness or injury that was caused by—or got worse because of—your active military service. This page describes what you need to do to file a new claim or a claim for increased disability compensation.
 
+
    [sign in prompt alert component] - could put this at bottom of page?
 
    Sign in to start or save your work in progress
