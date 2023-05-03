@@ -30,6 +30,7 @@ Date range for data reviewed is between April 2022 and April 2023
     2. Veterans noted that they could not add additional information about their issue
     3. Veterans noted that PCAFC issues are not supported
 3. Veterans are being led to the Board Appeal form through PACT campaigns. Did the PACT Act have an affect on Board Appeal form processing?
+4. Veterans with 10+ issues have an exit rate of over 40% when they get to the area of disagreement
 
 ### **DOMO Findings**
 
@@ -56,17 +57,20 @@ Date range for data reviewed is between April 2022 and April 2023
 
 Report dates: Mar 1, 2022-Mar 1, 2023
 
-Generally, veterans seem to progress through the form if they were moving from one form page to the next (i.e. when the previous page visited was a form page). Pages that had bounce rates were primarily entrance pages.
+Generally, veterans seem to progress through the form if they were moving from one form page to the next (I.e. When the previous page visited was a form page). Pages with higher than site average bounce rates and exit rates tend to have lower page views. This indicates that those pages have unique attributes like campaign ID in the URL, different sources (e.g. the way veterans are arriving at the page), etc. Based on the data, we’ve concluded that the pages with higher bounce rates were mostly entrance pages (i.e. pages that users directly landed on). Contrastingly, exit rates were impacted by campaign ids in the url and  number of issues a veteran is inputting.
 
 Entrance pages with bounce rates are as follows:
-
-- Introduction page
+- Introduction page 
 - Add issues
 - Contestable issues
 - Contact information
 - Evidence upload
 
-Area of Disagreement (primarily shows on higher exits rate)
+Page(s) with notable exit rates:
+- Area of Disagreement: exit rates over 40% when there are 10 or more issues.
+- Introduction pages - exit rates over 40%. Note, this page shows up repeated in the report because the url has variation because of the marketing campaign used at the time. 
+- Add issues - exit rates over 15%
+
 
 ### **Medallia Findings**
 
