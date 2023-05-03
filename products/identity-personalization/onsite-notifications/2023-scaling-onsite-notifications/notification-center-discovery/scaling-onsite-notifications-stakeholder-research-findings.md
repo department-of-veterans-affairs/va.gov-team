@@ -53,15 +53,13 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 1. **OCTO product owners have trust in the Authenticated Experience team to scale this feature and had only very high-level thoughts about how notifications might appear on VA.gov.**
 
-2. **Several OCTO leads said we should consider giving the user some control over notifications so as not to lose credibility and trust.** 
+2. **Product owners for VFS teams have already thought about what types of notifications are most important to surface.**
 
-3. **Product owners for VFS teams have already thought about what types of notifications are most important to surface.**
+3. **We heard some common themes about challenges to consider with scaling notifications, like giving users some control so notifications don't become noise, and the need for notifications to talk to each other across any interfaces where they appear.**
 
-4. **We heard some common themes about challenges to consider with scaling notifications, like giving users some control so notifications don't become noise, and the need for notifications to talk to each other across any interfaces where they appear.**
+4. **A notification center on VA.gov would likely need to support messages as well as notifications in the future.**
 
-5. **A notification center on VA.gov would likely need to support messages as well as notifications in the future.**
-
-6. **Finding**
+5. **Finding**
 
 
 ## Details of Findings 
@@ -72,21 +70,18 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 ### Supporting quotes and notes
 
+> _"Just in terms of making our experience feel like all the other digital experience that people are familiar with like Netflix or banking; they want generally that same level of proactive interactivity, is something we hear [from Veterans]." - Matt Self_
+
+> _"I definitely want to actively communicate that I'm not a designer, but just conceptually, I'm going through the exercise that our Veterans do of comparng our digital products to other similar experiences, it would be I think cool to have some kind of hierarchy or criteria for determining what kinds of information is most important to Veterans. And then if something meets that highest criteria, some way to surface it statically [like a banner on my banking website]. - Matt Self_
+
 
 **Finding 2**
-
-**Several OCTO leads said we should consider giving the user some control over notifications so as not to lose credibility and trust.** 
-
-### Supporting quotes and notes
-
-
-**Finding 3**
 
 **Product owners for VFS teams have already thought about what types of notifications are most important to surface.** We could likely start building a backlog of notification types to support based on what we heard from OCTO product owners in this research study. Most of these notification types are not currently feasible but will be within the next 6 months to 2 years.
 
 ### Supporting quotes and notes
 
-> _"The should be acknowledgement of application submissions or failures, and steps to take or what to expect next. I get that when I submit anything on any website." - Matt Self_
+> _"We hear pretty commonly that there should be acknowledgement of application submissions or failures, with actionable steps to take or what to expect next. I get that when I submit anything on any website." - Matt Self_
 
 > _"If we had more informative, action-oriented claim statuses, like hey you indicated you had a private medical record to submit, we can't do anything with your claim until we get that document. That to my world's perspective is a MAJOR priority." - Matt Self_
 
@@ -98,14 +93,17 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 * 
 
-**Finding 4**
+**Finding 3**
 
 **We heard some common themes about challenges to consider with scaling notifications, like giving users some control so notifications don't become noise, and the need for notifications to talk to each other across any interfaces where they appear.** Details
 
 ### Supporting quotes and notes
 
+> "_I think heriarchy would be important because you wouldn't want to be overwhelming people with noise. I've seen websites do that too." - Matt Self_
 
-**Finding 5**
+> "_
+
+**Finding 4**
 
 **A notification center on VA.gov would likely need to support messages as well as notifications in the future.** Details
 
@@ -115,7 +113,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > _"Something we hear from Veterans is 'I wish there was a way for me to see all the times I've been in contact with VA and have that information so I can reference it when I'm talking to a new person.'" - Chante Lantos-Swett_
 
-**Finding 6**
+**Finding 5**
 
 **Finding** Details
 
