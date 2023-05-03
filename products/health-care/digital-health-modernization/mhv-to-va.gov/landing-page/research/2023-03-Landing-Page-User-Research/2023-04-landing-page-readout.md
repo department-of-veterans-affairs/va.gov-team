@@ -101,7 +101,7 @@ Hypothesis 1            |  Hypthesis 2
 
 ## Details of Findings 
 
-**1. Participants understood the new My HealtheVet landing page to be a place to manage their health and at first glance recognized how the landing page could be used to accomplish broad health tasks.** 
+**1. Participants understood the My HealtheVet landing page to be a place to manage their health and at first glance recognized how the landing page could be used to accomplish broad health tasks.** 
 
 All participants recognized the landing page as a place to manage their health. 
 
