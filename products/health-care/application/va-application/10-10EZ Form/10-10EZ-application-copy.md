@@ -154,14 +154,21 @@ Expiration date: 06/30/2024
 #### URL: /health-care/apply/application/id-form
 
 [h1] We need some information before you can start your application
+
 [p] This will help us fit the application to your specific needs. Please fill out the form below. Then we’ll take you to the VA health care application (10-10EZ).
+
 [p bold] Want to skip this step?
 [a] Sign in to start your application.
+
 [component text input label] First name (*Required)
+
 [component text input label] Last name (*Required)
+
 [label] Date of birth (*Required)
 Month Day Year (dropdowns)
+
 [component text input label] Social Security number(*Required)
+
 [button primary] [Continue to the application>>]
 
 
@@ -954,49 +961,83 @@ Provide either your insurance policy number or group code. (*Required)
 
 --- 
 
-## Step 5 of 6: Insurance information
+### Page: VA Facility
 
-**VA Facility**
 
-_(checkbox)_ I’m enrolling to get minimum essential coverage under the Affordable Care Act.
+#### URL: health-care/apply/application/insurance-information/va-facility-json
 
-Learn more about minimum essential coverage. _(learn more)_
+[component progress bar]
+[h2] Step 5 of 6: Insurance information
+[end progress bar]
 
-To avoid the penalty for not having insurance, you must be enrolled in a health plan that qualifies as minimum essential coverage. Being signed up for VA health care meets the minimum essential coverage requirement under the Affordable Care Act. _(end learn more)_
 
-**Select your preferred VA medical facility**
+[fieldset legend title] VA facility
 
-State(*Required) _(dropdown)_
- 
-Center or clinic(*Required) _(dropdown)_
+[checkbox label] I’m enrolling to get minimum essential coverage under the Affordable Care Act.
 
-OR Find locations with the [VA Facility Locator](https://va.gov/find-locations)
+[additional information component] 
 
-If you’re looking for medical care outside the continental U.S. or Guam, you’ll need to sign up for our Foreign Medical Program. [Learn more about the Foreign Medical Program.](https://www.va.gov/COMMUNITYCARE/programs/veterans/fmp/index.asp?_ga=2.166809081.618849780.1624891160-860138168.1616615986)
+[label] Learn more about minimum essential coverage.
 
-You can also visit [Veterans Living Abroad.](https://www.benefits.va.gov/PERSONA/veteran-abroad.asp)
+[content]
 
-Do you want VA to contact you to schedule your first appointment?
+[p] To avoid the penalty for not having insurance, you must be enrolled in a health plan that qualifies as minimum essential coverage. Being signed up for VA health care meets the minimum essential coverage requirement under the Affordable Care Act.
 
+[fieldset legend title] Select your preferred VA medical facility
+
+[component select label] State(*Required)
+
+[component select label] Center or clinic(*Required)
+(not populated with select options until State selected)
+
+[p] OR [a = /find-locations] Find locations with the VA Facility Locator [/a]
+
+[p] If you’re looking for medical care outside the continental U.S. or Guam, you’ll need to sign up for our Foreign Medical Program. [a= https://www.va.gov/COMMUNITYCARE/programs/veterans/fmp/index.asp?_ga=2.214281623.184418145.1682970171-1968773556.1643652899] Learn more about the Foreign Medical Program.[/a] 
+
+You can also visit [a=https://www.benefits.va.gov/PERSONA/veteran-abroad.asp ] Veterans Living Abroad[/a].
+[component radio select]
+
+[label] Do you want VA to contact you to schedule your first appointment?
+
+[radio select options]
 Yes
-
 No
 
-[<< Back] [Continue >>]
 
+[button pair] [<< Back] [Continue >>]
 
 ---
 
 
-## Step 6 of 6: Review Application
+
+---
+## Step 6 Review
+---
+
+
 
 _Review accordions_
+
+
+
+
 
 **Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
 
 _(checkbox)_ I have read and accept the privacy policy(*Required)
 
+
+
+
 [<< Back] [Submit application >>]
+
+
+
+
+
+
+
+
 
 
 --- 
