@@ -14,7 +14,6 @@
 
 - [ ] Request a campaign landing page
 - [ ] Work on blog post with @aparsley
-- [ ]
 
 @skirkman16
 
