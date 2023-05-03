@@ -15,7 +15,7 @@ What other appointment modalities should we support in Pre-Check-in and/or eChec
     - Virtual Care Manager (VCM) is the staff-facing application
     - Virtual Medical Room (VMR)
 
-- Business needs with respect to VVC (VA Video Connect, or [VA Video Conenct at home](https://www.figma.com/file/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?type=design&node-id=2173-58228&t=9nDPRHFRlKWXlhlq-0)) appointments
+- Business needs with respect to VVC (VA Video Connect, or [VA Video Connect at home](https://www.figma.com/file/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?type=design&node-id=2173-58228&t=9nDPRHFRlKWXlhlq-0)) appointments
     - No ability to know if a patient has confirmed their VVC appt (i.e. indicates they're intending on showing up). 
     - Minimal to zero demographics or insurance review.
     - Action required issues; don't know if the provider saw the patient
