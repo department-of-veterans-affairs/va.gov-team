@@ -76,3 +76,28 @@ std_zipcode.xlsx -> std_zipcode.csv
 - PREFERREDZIPPLACE_ID: number
 - STATE_ID: number
 - COUNTYNUMBER: 3 digit number (with leading zeros)
+
+### Exporting XLSX to CSV
+In order to export the Excel .XLSX worksheet to CSV, perform the below instructions. 
+
+#### Export to CSV from Excel
+1. Click the File menu
+2. In the sidebar, click Export
+3. In the Export window, click the Change File Type option
+4. In the Change File Type area, click the CSV (Comma delimited) file type
+5. Click Save As
+6. In the dialog that opens, name your new file and change the file location if necessary.
+7. Click the Save button
+
+![Screenshot 2023-05-03 at 8 42 35 AM](https://user-images.githubusercontent.com/221539/235968938-13d5dcc8-7e0e-4f12-b5de-2c343b9978a5.png)
+
+![Screenshot 2023-05-03 at 8 42 54 AM](https://user-images.githubusercontent.com/221539/235968976-a998efea-b67c-4cf2-aa9c-6d33e7063349.png)
+
+See also https://support.microsoft.com/en-us/office/save-a-workbook-to-text-format-txt-or-csv-3e9a9d6c-70da-4255-aa28-fcacf1f081e6
+
+#### Export to CSV from Google Sheets
+1. Click the File menu
+2. Select the Download option
+3. Select the Comma Separated Values (.csv) option
+
+![Screenshot 2023-05-03 at 8 53 45 AM](https://user-images.githubusercontent.com/221539/235971084-5944a072-b327-4b31-bded-62a6ac70c876.png)
