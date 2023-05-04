@@ -12,10 +12,11 @@ assignees: ''
 _List out the initiatives and planned release date for tracking purposes_
 | Initiative | Release Date | Status | 
 | ------- | ---------- | ----- | 
-| Initative [Link to feature epic]() | Month Year  |   | 
-| Initative [Link to feature epic]() | Month Year  |   | 
-| Initative [Link to feature epic]() | Month Year  |   | 
-| Initative [Link to feature epic]() | Month Year  |   | 
+| Initiative [Link to feature epic]() | Month Year  |   | 
+| Initiative [Link to feature epic]() | Month Year  |   | 
+| Initiative [Link to feature epic]() | Month Year  |   | 
+| Initiative [Link to feature epic]() | Month Year  |   | 
+| Initiative [Link to feature epic]() | Month Year  |   | 
 
 
 ### Product Checklist 
