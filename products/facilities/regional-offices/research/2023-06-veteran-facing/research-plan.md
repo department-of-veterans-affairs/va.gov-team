@@ -41,7 +41,7 @@ There are many potential touchpoints between the Veteran and this application th
 The purpose of this research is to **get user feedback on the new design for VBA regional facility pages**.
 
 ### Outcome
-Learnings will help refine the design of the pages before piloting starts with 7 sites.
+Learnings will help refine the design of the pages before piloting an MVP with 7 sites.
 
 ### Research questions
 1. What do Veterans know about VA regional benefits offices?
