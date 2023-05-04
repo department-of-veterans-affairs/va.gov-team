@@ -11,7 +11,6 @@ January - March 2023\*\*
 
 Over Q1 2023, we’ve seen an increase in reviews related to login issues and biometric features not working all the time, as well as reports of claims statuses not matching up to the website. Additionally, user reviews related to issues around letter downloads was also a trend.
 
-  
 \<table>  
  \<tr>  
   \<td>\<strong>Keyword in Review\</strong>  
