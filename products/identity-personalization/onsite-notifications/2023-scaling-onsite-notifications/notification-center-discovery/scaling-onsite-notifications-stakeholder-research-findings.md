@@ -76,6 +76,8 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > _"I imagine that there needs to be someplace where a user can see a list of all of the notifications that they've received; whether it's a recent text message or email or onsite notifications and they dismissed it too quickly and they want to see what it was or I'm sure there's a million use cases that we haven't thought of. I can imagine there's some sort of notification hub that lives somewhere on the site. I don't know where that is or what it's a part of. It seems like there's a use case for that." - Mikki Northuis
 
+> _"I'm never really concerned if there are designers who are trying to solve a problem thoughtfully. ...We're trying to encourage the things in the design system to be used and for folks not to reinvent the wheel. That said, we're getting into new territory. The design system today is made for a static content site and forms. It doesn't really cover the kinds of applications and tools that they're starting to develop today. We're trying to extend it to meet that need. This is one of the more complex areas. So it makes sense to me that there will be some growing pains where we start trying a thing and then try another thing and teams may diverge and then come back together, and that's okay. That's normal. other design systems I've worked on have gone through that same kind of evolution." - Matt Dingee_
+
 * In the interview with the mobile app leads, Ryan Thurlwell expressed that our team should propose a solution and then just make sure the OCTO product owners are okay with it and indicated that stakeholder research isn't necessary for us to come to a conclusion that will work well.
 
 **Finding 2**
@@ -134,6 +136,11 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 ### Supporting quotes and notes
 
+> _"We've heard from our partners and friends at VSOs like Blinded Veterans Association and Veterans in research that our consistency of navigation and how we templatize our pages really helps them get comfortable with our stuff and use it very efficiently as they learn. So I could imagine that if the notifications go in the header somwhere, then we would have to tread carefully and make sure that that is a smooth transition from unauth to auth experience.
+
+> _"When you're a screen reader user, how do you alert them without bugging them? There's a fine line between we're telling you about something and now we're nagging you about it. And that's for people who can see the thing as well as hear the thing. It will be an especially challenging design problem to alert people at the right momemt and let them manage that alert but be able to bring it back if they want to. As a sighted peson, you can see the little bell icon that you have a notification and you can choose to ignore it. As a blind person, how would I know about that but not be annoyed by it? **We'll need to check in with folks who use assistive tech early on** because that will be key to this experience." - Martha Wilkes_
+
+> _"
 
 ## Additional Insights
 
