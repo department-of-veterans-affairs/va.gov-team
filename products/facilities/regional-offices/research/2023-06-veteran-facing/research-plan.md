@@ -48,7 +48,7 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
      1. What tasks do Veterans expect to do at VA regional benefits offices?
      2. What do Veterans expect to find on a web page about a VA regional benefit office?
 3. What feedback do Veterans have on the regional benefit office web page, including the content and the length of the page?
-4. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones?
+4. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones? Are these "top tasks"?
 5. How do Veterans react to seeing 2 phone numbers?
      1. Which phone number would they use and why? 
      2. What do they expect when they call?
