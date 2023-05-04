@@ -29,4 +29,4 @@ It explains the reasons for each decision, so team members can identify their or
 | Will the web team be rolling out unified check-in at the same time as mobile does? If so, what release strategy will Web use? |   |
 | Will the web team assist Mobile in testing?  |   |
 | What cadence will the MHV Check-In and Mobile have for communicating?  |   |
-| Does MHV Product already have a monitoring dashboad (OKR, KPIs, performance, etc) that Mobile can leverage or does Mobile need to create their own?  |   |
+| Does Check-In Team already have a monitoring dashboad (OKR, KPIs, performance, etc) that Mobile can leverage or does Mobile need to create their own?  |   |
