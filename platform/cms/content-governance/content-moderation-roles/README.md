@@ -82,9 +82,10 @@ flowchart LR
 
 ## Individual Workflow State Diagrams
 
-### Draft
 ```mermaid
 flowchart LR
+    subgraph Draft
+    direction LR
     A1(Draft)
     A2(Draft)
     A3(Draft)
@@ -106,6 +107,31 @@ flowchart LR
     E1 -->|Edit| A2
     A2 -->|Publish| D2
     A2 -->|Archive| E2
-    
+    end
+    Draft ~~~ In_review
+    subgraph In_review
+    direction LR
+    A1B(Draft)
+    A2B(Draft)
+    B1B(In review)
+    B2B(In review)
+    B3B(In review)
+    C1B(Approved)
+    C2B(Approved)
+    D1B(Published)
+    D2B(Published)
+    E1B(Archived)
+    E2B(Archived)
+    A1B -->|Review| B2B
+    B2B -->|Edit| A2B
+    B1B -->|Review|B2B
+    B2B -->|Review|B3B
+    C1B ~~~ B2B
+    B2B -->|Approve| C2B
+    D1B ~~~ B2B
+    B2B -->|Publish| D2B
+    E1B ~~~ B2B
+    B2B -->|Archive| E2B
+    end
 
  ```
