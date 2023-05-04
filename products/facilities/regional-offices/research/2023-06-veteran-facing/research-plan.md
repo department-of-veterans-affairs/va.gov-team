@@ -45,7 +45,7 @@ The purpose of this research is to **get user feedback on the newly designed VBA
 Learnings will help refine the design of the pages before the pilot starts with 7 sites.
 
 ### Research questions
-1. 
+1. What do Veterans expect to find in the Pension section under "Services offered"?
 
 
 ### Hypotheses
