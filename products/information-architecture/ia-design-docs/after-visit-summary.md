@@ -17,56 +17,46 @@
 
 
 ## <a name="flows"></a>User/page flows <br>
-*Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
+![AVS before Medical Records is available](https://user-images.githubusercontent.com/122126772/236344155-58f0e702-c9de-4268-ae8e-7df2d4457ab8.png)
+- after medical records is available to the user, the medical records breadcrumbs and left nav could be suppressed. This would allow us to still put the page in medical records (and use a medical records URL), but the user wouldn't be distracted by that mis-matched architecture.
 
+![AVS after Medical Records is available](https://user-images.githubusercontent.com/122126772/236344059-5006e22c-d190-465d-a7e5-30b2ad48837b.png)
+- after medical records is available to the user, the medical records breadcrumbs and left nav will show up
 
 ## <a name="map"></a>Page structure<br>
-*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
+- The After Visit Summary (AVS) will live in Medical Records as a type of Care Note and Summary
 
+![Left Nav with Care Notes and Summary circled](https://user-images.githubusercontent.com/122126772/236344407-b2045ed4-72ac-48d8-944f-a530c3df4967.png)
 
 
 ## <a name="url"></a>URLs and breadcrumbs
-*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
+**1) After Visit Summary - New**
+- URL: www.va.gov/my-health/health-history/care-notes/visit-summary/detail?id=[value]
+- Breadcrumb: The breadcrumb could be suppressed if the user cannot also see Medical Records. If they can see medical records, the breadcrumbs would be: --Desktop: VA.gov home > My Health > Health History > Care Notes and Summaries > [H1 of AVS Detail Page]
+--Mobile: < Care Notes and Summaries
+- Note: I think adding a link back to the Appointment on the AVS itself could be really helpful in 1) helping the user get back to their appointment while we are in mismatched phases between appointsments and medical records and 2) making it clear which appointment this summary refers to.
 
-**1) [Page name] - [Existing/New]**
-- URL:
-- Breadcrumb: 
-- Notes: 
-
-**2) [Page name] - [Existing/New]**
-- URL:
-- Breadcrumb: 
-- Notes: 
 
 
 ## <a name="nav"></a>Entry points <br>
-*A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
 
 
-1. **[Page URL or component name]** - [Add/Modify/Remove]
-  - Placement description: 
-  - Link label: 
-  - Link destination: 
-  - Notes: 
+1. **Care Notes and Summaries list** - Add
+  - Placement description: The AVS will be a type of care note/summary in Medical Records.
+  - Link label: TBD by content
+  - Notes: Only after Medical Records is available for a user
 
-2. **[Page URL or component name]** - [Add/Modify/Remove]
-  - Placement description: 
-  - Link label:
-  - Link destination: 
-  - Notes: 
+2. **Appointment Detail** - Add
+  - Placement description: TBD by the appointments team where they put a link to the AVS within the appointment detail
+  - Link label: TBD by content
+  - Link destination: AVS
+  - Notes: This should be available from the first phase
  
 
 ## <a name="redirects"></a>Redirects <br>
-*A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
-
-
-Current URL | Redirect to | Notes
---- | --- | ---
- |  | 
+No redirects needed now.
  
-
-
 
 
 <hr>
