@@ -2,7 +2,6 @@
 
 ## Background
 
-
 [Link to product brief]()
 
 [Link to card in research repo]()
@@ -39,15 +38,23 @@ There are many potential touchpoints between the Veteran and this application th
 - Aging (Managing my declining health)
 
 ## Research Goals	
-The purpose of this research is to **get user feedback on the newly designed VBA regional facility page**.
+The purpose of this research is to **get user feedback on the new design for VBA regional facility pages**.
 
 ### Outcome
-Learnings will help refine the design of the pages before the pilot starts with 7 sites.
+Learnings will help refine the design of the pages before piloting starts with 7 sites.
 
 ### Research questions
-1. What do Veterans know about regional benefits offices?
-1. What do Veterans expect to do at a regional benefits office?
-2. What do Veterans expect to find in the Pension section under "Services offered"?
+1. What do Veterans know about VA regional benefits offices?
+1. What tasks do Veterans expect to do at VA regional benefits offices?
+2. What do Veterans expect to find on a web page about a VA regional benefit office?
+3. What feedback do Veterans have on the regional benefit office web page, including the content and the length of the page?
+4. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones?
+5. How do Veterans react to seeing 2 phone numbers?
+     1. Which phone number would they use and why? 
+     2. What do they expect when they call?
+7. What do Veterans expect to find in the Pension section under "Services offered"?
+8. [something about in-person vs. virtual appointments--Do Veterans understand them? Do they know how to schedule them? currently the info in the design is the same for both, which we may not want]
+9. [Michelle's question about hours of operation]
 
 
 ### Hypotheses
@@ -58,6 +65,18 @@ We will conduct **usability testing** to guide research participants through a c
 
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
+_SAVE FOR LATER for prototype:_
+- Make the 3 action links at the top of the page go somewhere
+- Include some content under the "Limited services and hours" additional info component, if including it
+
+_SAVE FOR LATER for conversation guide:_
+- Warm up questions about what regional benefit offices are, whether you've been to one before, and what you might do there or have done there before.
+- Tell me your impressions of this page (regional benefit office)
+- Possible tasks:
+  - get help with X [applying for disability compensation?]
+  - wayfinding--how to find this page
+  - Find the nearest location for X
+  - what would you do next (make appt, other logistics like transportation?)
 
 ### Research materials
 - [Link to conversation guide]()
@@ -65,7 +84,7 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 	
 ## Recruitment
 
-Ask Perigean to recruit **8 Veterans and 3 caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](). 
+Ask Perigean to recruit **4 Veterans, 2 Veteran family members, and 2 caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](). 
 
 ### Required criteria 
 - **TBD**
@@ -83,10 +102,9 @@ Ask Perigean to recruit **8 Veterans and 3 caregivers** of Veterans who meet the
 - At least 2 people who are LGBTQ+
 
 ### Screening Questions
-1. Do you (or the Veteran that you're a caregiver for) get VA disability compensation for a service-connected disability? 
-     1. No  *(ask next screening question)*
-     1. Yes *(disqualify)*
-     1. I don't know *(disqualify)*
+1. Have you visited a VA benefits office in the last 6 months? 
+     1. No or I don't know *(RECRUIT 5)*
+     1. Yes *(RECRUIT 5)*
 
 1. What time zone are you located in? *(RECORD)*
 
