@@ -143,8 +143,8 @@ Expiration date: 06/30/2024
 
 [component form need help, health care] 
 
-**Need help?**
-**If you have trouble using this online application,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+[h2] Need help?
+[p] **If you have trouble using this online application,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
 
 **If you need help to gather your information or fill out your application/form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
 
