@@ -70,7 +70,7 @@ Complete two of the following tasks:
 
 This is a lifelong journey, so we'll also ask for you to...
 - [ ] Continue supporting the accessibility champions program by mentoring new members when you have time
-- [ ] Reach for even greater milestones (we'll provide a list to help out here)
+- [ ] Reach for even greater milestones, like becoming certified with the IAAP, becoming a disability justice advocate, or even becoming a specialist!
 
 Upon completion, you will be formally recognized as a `VA.gov Accessibility Champion` 🥳
 
