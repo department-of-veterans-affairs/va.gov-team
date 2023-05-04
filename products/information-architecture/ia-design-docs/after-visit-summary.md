@@ -18,7 +18,7 @@
 
 ## <a name="flows"></a>User/page flows <br>
 ![AVS before Medical Records is available](https://user-images.githubusercontent.com/122126772/236344155-58f0e702-c9de-4268-ae8e-7df2d4457ab8.png)
-- after medical records is available to the user, the medical records breadcrumbs and left nav could be suppressed. This would allow us to still put the page in medical records (and use a medical records URL), but the user wouldn't be distracted by that mis-matched architecture.
+- before medical records is available to the user, the medical records breadcrumbs and left nav could be suppressed. This would allow us to still put the page in medical records (and use a medical records URL), but the user wouldn't be distracted by that mis-matched architecture.
 
 ![AVS after Medical Records is available](https://user-images.githubusercontent.com/122126772/236344059-5006e22c-d190-465d-a7e5-30b2ad48837b.png)
 - after medical records is available to the user, the medical records breadcrumbs and left nav will show up
