@@ -2,10 +2,8 @@
 
 ## Champion, Level 5
 
-**Robin Garrison**, Your role
-- The team you're supporting on
-- Work email, [LinkedIn, personal website, etc](replace this with your url)
-- 1 sentence on why you want to become an a11y champion
+**Robin Garrison**, Front end developer on Benefits Decision Reviews
+- After I understood how important a11y is for everyone, I pushed myself to learn more and become an advocate, and hopefully a motivate other developers to pay more attention to their work. I feel blessed to be surrounded by such fantastic a11y mentors.
 
 ## Apprentice, Level 4
 
