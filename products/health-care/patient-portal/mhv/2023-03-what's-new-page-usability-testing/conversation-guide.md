@@ -109,7 +109,7 @@ I'm going to ask you to perform a series of tasks, even though this is a prototy
 - On this page, can you confirm that your sign in credentials have been verified?
 - What thoughts do you have about the current page?
 
-**Fourth Task (Desktop only): Please go back to the homepage. Please show me the different ways to view notifications without going directly to the notification center page. - 8 minutes**
+**Fourth Task (Desktop only): Please go back to the homepage. Please show me the different ways to view notifications without going directly to the What's New Page page. - 8 minutes**
 
 - Step 1: Participant will hover (or click the arrow) over the "what's new" link to see the drop-down menu.
 
@@ -129,13 +129,13 @@ I'm going to ask you to perform a series of tasks, even though this is a prototy
 
 **Post-Task Interview - 8 minutes**
 
-Look at notification center main page (once again). I would like you to scroll around the page and describe your first impressions to me, what do you think you can do, is there anything that stands out to you, etc.
+Look at What's New Page main page (once again). I would like you to scroll around the page and describe your first impressions to me, what do you think you can do, is there anything that stands out to you, etc.
 
 - You can see on the screen that you have "new" notifications. How long do you expect those notifications to keep the "new" tag?
 
 - If you were to put a log/archive of older notifications, where would you put it? What would you expect it to look like?
 
-- If you could have a magic wand to make this new notification center feature better, what would you do?
+- If you could have a magic wand to make this new What's New Page feature better, what would you do?
 - Is there anything I didn't ask, and you were expecting me to ask you?
 
 - Any questions, comments or feedback for me?
