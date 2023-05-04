@@ -178,57 +178,60 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+This study recruited for mobile users, with a recent sign in to the VA online. We were particularly interseted in veterans who sign in using DSLogon or My HealtheVet login CSPs. For diversity and inclusion (based on gaps of two recent identity related studies) we requested veterans with cognitive disability, 
+who are LGBTQ+, and who have immigrant origin. Unfortunately we didn't talk with anyone with immigrant origin, but recruitment surpassed our request with cognative disability and LGBTQ+ participants.
 
-We talked to **x participants.**
+Note: while we didn't specify recruitment goals for age, it so happened that all of this studies participants are 55+
+
+We talked to **14 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 14 
+* Caregivers: 0 
+* Family members of a Veteran: 2
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 9
+* Female: 4 
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: 0 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
+* Gay, lesbian, or bisexual: 3
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 0
+* Tablet: 0
+* Smart phone: 0 
+* Assistive Technology: 0
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 0
+* 35-44: 0
+* 45-54: 0
+* 55-65: 7
+* 65+: 7
+* Unknown: 0
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 1
+* Some college (no degree): 5
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 3
+* Master's degree: 3
+* Doctorate degree: 1
+* Unknown: 0
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 0
+* Rural: 0
+* Unknown: 14
 
 
 Race:
@@ -241,27 +244,29 @@ Race:
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 6
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: 1
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
+This research study does not include the perspectives of the following marginalized Veteran groups:
+* Immigrant origin
+* Black, biracial, or Asian
+* Assistive tech users
 
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+When taken as a body of Identity work, the most recent three Identity research study's underrepresented the following marginalized Veteran groups:
+- Immigrant origin
+- Transgender
+- Assistive tech users
 
 _[insert screenshot of completed recruitment checker]_
 ![VA-recruitment-checker](link - add image to github folder and link here with .png)
