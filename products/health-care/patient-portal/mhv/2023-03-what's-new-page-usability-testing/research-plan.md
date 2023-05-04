@@ -1,8 +1,8 @@
-# **Research Plan for UCD Team, Notification Center, March, 2023**
+# **Research Plan for UCD Team, What's New Page, March, 2023**
 
 **Background**
 
-Our project is a new Notification Center, which aims to be one central place to notify and communicate with Veterans about My HealtheVet website changes and alerts that are important for to them to know, while keeping consistent with VA Design Patterns and migration efforts. This is a new concept -that was developed through Stakeholder interviews and comparative analysis- that we hope to introduce to the My HeatheVet home page.
+Our project is a new What's New Page, which aims to be one central place to notify and communicate with Veterans about My HealtheVet website changes and alerts that are important for to them to know, while keeping consistent with VA Design Patterns and migration efforts. This is a new concept -that was developed through Stakeholder interviews and comparative analysis- that we hope to introduce to the My HeatheVet home page.
 
 **OCTO Objectives**
 
@@ -24,20 +24,20 @@ This research fits into these points of a Veteran's Journey:
 
 The goals of this study are to:
 
-- Identify any usability issues with the Notification Center flow, specifically with older Veterans.
+- Identify any usability issues with the What's New Page flow, specifically with older Veterans.
 - Assess user experiences with introduction of new major notification feature.
 - Measure Veterans' expectations of the "new" tag timeframe.
 
 **Research questions**
 
-1. How will Veterans react to the new Notification Center flow?
+1. How will Veterans react to the new What's New Page flow?
 2. Does the new flow improve the likelihood that the "What's New" link will be noticed and read?
 3. Does the "new" tag help Veterans understand how recent a notification was posted?
 4. Do Veterans feel having both a banner and "what's new" link necessary?
-5. How often do Veterans log in and does that affect any of the features within the Notification Center?
+5. How often do Veterans log in and does that affect any of the features within the What's New Page?
 6. If there were to be a log or archive within this feature, how to Veterans expect it to look and function? Is it necessary?
 
-Finding the Notification Center:
+Finding the What's New Page:
 
 1. How easy is it for Veterans to notice the "what's new" link?
 
@@ -53,14 +53,14 @@ Interacting with Notifications:
 3. Do veterans understand the color categories of the notification cards?
 4. Are the notifications clearly communicating any applicable CTA's or next steps?
 
-Drop down notification center preview:
+Drop down What's New Page preview:
 
 1. Are Veterans able to view the drop-down notification preview? Is the hover function easy to use or confusing?
 2. Is this feature helpful or convenient to the user?
 
 **Hypothesis**
 
-Hypothesis 1: Older Veterans will tolerate the new Notification Center flow.
+Hypothesis 1: Older Veterans will tolerate the new What's New Page flow.
 
 Hypothesis 2: The new notification feature will help Veterans understand changes and updates to the My HeatheVet website.
 
