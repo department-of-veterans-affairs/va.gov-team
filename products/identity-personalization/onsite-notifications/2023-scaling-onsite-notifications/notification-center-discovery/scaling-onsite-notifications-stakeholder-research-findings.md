@@ -59,7 +59,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 4. **A notification center on VA.gov would likely need to support messages as well as notifications in the future.**
 
-5. **Finding**
+5. **There will be special accessibility considerations for scaling notifications on VA.gov.**
 
 
 ## Details of Findings 
@@ -106,7 +106,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > "_Consistency is probably the biggest thing. And transparency. Like hey if we don't know an answer to something, tell people that. If the claim is moving back and forth, that's a place where the VA has reduced their transparency. That doesn't look good, but we've tried it both ways. There's more oppostion to the less transparent model than the bouncing around model. There's a general lack of trust that the VA is working in your best interest [or working quickly at all]." - Matt Self_
 
-> _"I think the key for notifications is making sure that they're super relevant and I want them to deep link to the actual thing that it's notifying them about. And I want it to link the systems." - Mikki Northuis_ Mikki gave an example of how confirming an appointment via a notification doesn't update the staff at the health care clinic that the appointment is confirmed and said that that type of disconnect can create issues. _"If we're gonna do notifications, making sure that we can actually complete the thread is important."_
+> _"I think the key for notifications is making sure that they're super relevant and I want them to deep link to the actual thing that it's notifying them about. And I want it to link the systems." Mikki gave an example of how confirming an appointment via a notification doesn't update the staff at the health care clinic that the appointment is confirmed and said that that type of disconnect can create issues. _"If we're gonna do notifications, making sure that we can actually complete the thread is important." - Mikki Northuis_
 
 > _"How do we provide Veterans control over notifications? And what is the right balance between you are automatically subscribed to this notification, versus a notification that a new notification option is available and you can choose whether to subscribe to it or not. And at what cadence? How do we not overwhelm them with notifications and options to subscribe? How do we empower Veterans to take control of their own healthcare benefits journey rather than having the VA make decisions on their behalf? I would hypothesize that Veterans feel subjected to VA's whims and decisions." - Dave Conlon_
 
@@ -130,7 +130,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 **Finding 5**
 
-**Finding** Details
+**There will be special accessibility considerations for scaling notifications on VA.gov.** Details
 
 ### Supporting quotes and notes
 
