@@ -79,3 +79,33 @@ flowchart LR
   * Publish
   * Archive
   * Restore from Archive
+
+## Individual Workflow State Diagrams
+
+### Draft
+```mermaid
+flowchart LR
+    A1(Draft)
+    A2(Draft)
+    A3(Draft)
+    B1(In review)
+    B2(In review)
+    C1(Approved)
+    C2(Approved)
+    D1(Published)
+    D2(Published)
+    E1(Archived)
+    E2(Archived)
+    A1 -->|Edit| A2
+    A2 -->|Edit| A3
+    A2 -->|Review| B2
+    B1 -->|Edit| A2
+    C1 ~~~ A2
+    A2 ~~~ C2
+    D1 -->|Edit| A2
+    E1 -->|Edit| A2
+    A2 -->|Publish| D2
+    A2 -->|Archive| E2
+    
+
+ ```
