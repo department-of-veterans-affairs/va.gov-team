@@ -9,7 +9,7 @@ Each review is analyzed and tagged with a keyword(s) that aligns to a VA mobile 
 
 ## High Level summary
 
-Over Q1 2023, we’ve seen an increase in negative reviews related to login issues and biometric features not working all the time, as well as reports of claims statuses not matching up to the website. Additionally, user reviews related to issues around letter downloads was also a trend. There was an uptick in negative reviews related to Rx shortly after release, but the majority of these reviews were related to users who could not find the feature due to the graduated rollout. Medical records / labs and tests was the most frequently mentioned feature in reviews that's not currently available.
+Over Q1 2023, we’ve seen an increase in negative reviews related to login issues and biometric features not working all the time, as well as reports of claims statuses not matching up to the website. Additionally, user reviews related to issues around letter downloads was also a trend. There was an uptick in negative reviews related to Rx shortly after release, but the majority of these reviews were related to users who could not find the feature due to the graduated rollout. Medical records, travel reimbursement and labs and tests were the most frequently mentioned feature in app reviews that are not currently available in the mobile app.
 
 
 
@@ -290,12 +290,9 @@ Over Q1 2023, we’ve seen an increase in negative reviews related to login issu
    </td>
    <td>1%
    </td>
-   <td>N/A
+   <td>Mixed
    </td>
-   <td>
-<ul>
-
-<li>
+   <td>"App is awesome can't wait for more features that will include travel reimbursement and pharmacy tracking and requests."
 </li>
 </ul>
    </td>
