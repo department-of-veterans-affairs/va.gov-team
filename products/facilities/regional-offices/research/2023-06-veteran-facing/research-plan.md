@@ -45,16 +45,16 @@ Learnings will help refine the design of the pages before piloting starts with 7
 
 ### Research questions
 1. What do Veterans know about VA regional benefits offices?
-1. What tasks do Veterans expect to do at VA regional benefits offices?
-2. What do Veterans expect to find on a web page about a VA regional benefit office?
+     1. What tasks do Veterans expect to do at VA regional benefits offices?
+     2. What do Veterans expect to find on a web page about a VA regional benefit office?
 3. What feedback do Veterans have on the regional benefit office web page, including the content and the length of the page?
 4. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones?
 5. How do Veterans react to seeing 2 phone numbers?
      1. Which phone number would they use and why? 
      2. What do they expect when they call?
 7. What do Veterans expect to find in the Pension section under "Services offered"?
-8. [something about in-person vs. virtual appointments--Do Veterans understand them? Do they know how to schedule them? currently the info in the design is the same for both, which we may not want]
-9. [Michelle's question about hours of operation]
+8. _something about in-person vs. virtual appointments--Do Veterans understand them? Do they know how to schedule them? currently the info in the design is the same for both, which we may not want_
+9. _Michelle's question about hours of operation_
 
 
 ### Hypotheses
@@ -70,13 +70,14 @@ _SAVE FOR LATER for prototype:_
 - Include some content under the "Limited services and hours" additional info component, if including it
 
 _SAVE FOR LATER for conversation guide:_
-- Warm up questions about what regional benefit offices are, whether you've been to one before, and what you might do there or have done there before.
+- Warm up questions about what regional benefit offices are, whether you've been to one before, what you might do there or have done there before, what you'd do before your visit (search for info online? where?)
 - Tell me your impressions of this page (regional benefit office)
 - Possible tasks:
-  - get help with X [applying for disability compensation?]
-  - wayfinding--how to find this page
+  - get help with X _(applying for disability compensation?)_
+  - wayfinding _(how to find this page?)_
   - Find the nearest location for X
   - what would you do next (make appt, other logistics like transportation?)
+  - How to find your office in the building? call?
 
 ### Research materials
 - [Link to conversation guide]()
