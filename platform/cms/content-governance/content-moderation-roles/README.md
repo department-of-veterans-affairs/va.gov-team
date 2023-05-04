@@ -9,11 +9,13 @@ Listed in order from lowest permissions to highest:
 
 ## Diagram of Editorial Workflow States & Transitions (simple)
 ```mermaid
-flowchart TD
+flowchart LR
     A -->|Edit| A
     A(Draft) -->|Review| B(In review)
     B -->|Approve| C(Approved)
     C -->|Publish| D(Published)
+    A -->|Publish| D
+    D -->|Publish| D
     D -->|Archive| E(Archived)
     E -->|Restore from Archive|D
 ```
@@ -41,7 +43,7 @@ flowchart TD
 
 ## Editorial Workflow States & Transitions (full)
 ```mermaid
-flowchart TD
+flowchart LR
     A -->|Edit| A
     A(Draft) -->|Review| B(In review)
     B -->|Review|B
