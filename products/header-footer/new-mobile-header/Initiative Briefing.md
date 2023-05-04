@@ -1,4 +1,5 @@
 # Intiative Briefing: New VA.gov Mobile Header
+2021
 
 ## Outcome Summary
 Since the launch of VA.gov in late 2018, the site has featured one responsive Global header element that was **not optimized for Mobile view.**  
@@ -13,7 +14,7 @@ As a result, for our growing base of Mobile users, issues with the current heade
 
 * Problem Defined: How might we make the Mobile version of VA.gov easier to scan and use, while preserving important links in an intuitive way?
 
-* Evidence to support Prolem: Mobile usage is up, however site navigation via mobile is low to include mobile search, during a recent wayfinding research study it was idenfied that certain pain points existed on Mobile that could be enhanced to improve the UX.  A full comparison of Desktop Vs. Mobile is valuable in determining common tasks across each device, along with what top tasks lend themselves more to desktop (e.g. form completion) and those on mobile (e.g. navigation). 
+* Evidence to support Problem: Mobile usage is up, however site navigation via mobile is low to include mobile search, during a recent wayfinding research study it was idenfied that certain pain points existed on Mobile that could be enhanced to improve the UX.  A full comparison of Desktop Vs. Mobile is valuable in determining common tasks across each device, along with what top tasks lend themselves more to desktop (e.g. form completion) and those on mobile (e.g. navigation). 
 
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
      * The header consumes too much space and makes it more of bulky, clunky user experience for mobile users.    
