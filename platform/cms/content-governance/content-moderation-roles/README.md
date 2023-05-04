@@ -42,14 +42,19 @@ flowchart LR
 
 
 ## Editorial Workflow States & Transitions (full)
-```mermaid
+ ```mermaid
 flowchart LR
+    A(Draft) 
+    B(In review)
+    C(Approved)
+    D(Published)
+    E(Archived)
     A -->|Edit| A
-    A(Draft) -->|Review| B(In review)
+    A -->|Review| B
     B -->|Review|B
-    B -->|Approve| C(Approved)
-    C -->|Publish| D(Published)
-    D -->|Archive| E(Archived)
+    B -->|Approve| C
+    C -->|Publish| D
+    D -->|Archive| E
     E -->|Restore from Archive|D
     B -->|Edit| A
     D -->|Edit| A
@@ -133,5 +138,77 @@ flowchart LR
     E1B ~~~ B2B
     B2B -->|Archive| E2B
     end
-
  ```
+
+
+## By Transition
+
+```mermaid
+flowchart LR
+
+    subgraph Edit
+    direction LR
+    A(Draft) 
+    B(In review)
+    D(Published)
+    E(Archived)
+    A -->|Edit| A
+    B -->|Edit| A
+    D -->|Edit| A
+    E -->|Edit| A
+    end
+    
+    subgraph Review
+    direction LR
+    A2(Draft) 
+    B2(In review)
+    A2 -->|Review| B2
+    B2 -->|Review| B2
+    end
+    
+    subgraph Approve
+    direction LR
+    B3(In review)
+    C3(Approved)
+    B3 -->|Approve| C3
+    end
+    
+    subgraph Publish
+    direction LR
+    A4(Draft) 
+    B4(In review)
+    C4(Approved)
+    D4(Published)
+    E4(Archived)
+    A4 -->|Publish| D4
+    B4 -->|Publish| D4
+    C4 -->|Publish| D4
+    D4 -->|Publish| D4
+    E4 -->|Publish| D4
+    end
+    
+    subgraph Archive
+    direction LR
+    A5(Draft) 
+    B5(In review)
+    C5(Approved)
+    D5(Published)
+    E5(Archived)
+    A5 -->|Archive| E5
+    B5 -->|Archive| E5
+    C5 -->|Archive| E5
+    D5 -->|Archive| E5
+    end
+    
+    subgraph Restore
+    direction LR
+    D6(Published)
+    E6(Archived)
+    E6 -->|Restore from Archive| D6
+    end
+    
+    Edit ~~~ Review ~~~ Approve
+    Publish ~~~ Archive ~~~ Restore
+    
+ ```
+
