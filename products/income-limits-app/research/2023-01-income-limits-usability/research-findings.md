@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Income Limits, Sitewide Public Websites**
 
-Date: 04/28/2023
+Date: 05/04/2023
 
 **Cindy Merrill** [cindy.merrill@adhocteam.us]
 
@@ -281,7 +281,7 @@ Scrolling down this very long landing page on a phone took a while, especially f
 
 ### For content in the app
 6. **Clarify the meaning of "dependents"** in the question per income taxes or VA rules, **and add details to the question** so people will know how to answer. According to a VA subject-matter expert (in an email dated 4/17/2023), dependents include *your spouse*, unmarried children under 18 (or 18-23 if attending school full-time or disabled prior to reaching age 18), and parents if in the Veteran's direct care and whose net worth and income are below a fixed limit.
-3. **Delete the text "from VBA"** in the pension question because it's confusing. Also, this wording didn't get approved by Content and will be removed because it goes against current Content standards. Potential revision from Danielle: "Did you get a VA Veterans pension?” _Note: This question might be removed from the app per ongoing discussions._
+3. **Delete the text "from VBA"** in the pension question because it's confusing. Also, this wording didn't get approved by Content and will be removed because it goes against current Content standards. Potential revision from Danielle: "Did you get a VA Veterans pension last year?” _Note: This question might be removed from the app per ongoing discussions._
 4. **Add more description to the "Aid and Attendance" and "Housebound allowance" questions** and/or provide links to details because some Veterans don't know what they mean and want to understand before answering the question. _Note: These questions might be removed from the app per ongoing discussions._
 6. Because Veteran participants didn't realize that they could deduct expenses from their income, try to **more explicitly incorporate the word/concept of "deductions" into the text on the results page**. Consider doing this in the first sentence and also by showing the text under _How to estimate your income for this tool_ without using the additional info component (because it wasn't opened by most participants). Potential ideas for doing so are listed below: 
      1. In the first sentence, for example, we could add some new words (in _italics_) to the first sentence: "We use your last year's _household_ income _minus deductions (such as out-of-pocket medical expenses, education costs, and funeral/burial expenses for a spouse or child)_ to determine..." 
