@@ -76,8 +76,8 @@ _SAVE FOR LATER for conversation guide:_
   - get help with X _(applying for disability compensation?)_
   - wayfinding _(how to find this page?)_
   - Find the nearest location for X
-  - what would you do next (make appt, other logistics like transportation?)
-  - How to find your office in the building? call?
+  - what would you do next (make appt, figure out how to get there)
+  - How to find the benefits office in the building? call?
 
 ### Research materials
 - [Link to conversation guide]()
