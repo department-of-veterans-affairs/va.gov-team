@@ -2,7 +2,7 @@
  
 
 ## Background
-There are currently multiple ways to sign in and access VA services. These Credential Service Providers (CSPs) don't meet required security standards and so many choices create user frustration and confusion. We need to migrate Veterans from legacy credential service providers (DS Logon and My HealtheVet) to Login.gov as a first choice or ID.me. During discovery research, the LGA team defined different pathways for the migration.
+There are currently multiple ways to sign in and access VA services. These Credential Service Providers (CSPs) don't meet required security standards and having so many choices creates user frustration and confusion. We need to migrate Veterans from legacy credential service providers (DS Logon and My HealtheVet) to Login.gov as a first choice or ID.me. During discovery research, the LGA team defined different pathways for the migration.
 
 The pathway this research focuses on is promoting Organic Adoption of login.gov - specifically in encouraging veterans to migrate to a modern CSP now, ahead of sunsetting.
 
