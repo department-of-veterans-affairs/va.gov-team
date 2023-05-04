@@ -101,7 +101,7 @@ _Any other notes_
 ### 3) Full site redirects from subdomains (subdomain.va.gov) to www.va.gov 
 
 _Server-side or client-side_
-Server side. Requires technical contacts and access to the hosting server.
+- Server side. Requires technical contacts and access to the hosting server.
 
 
 _When to do this?_
