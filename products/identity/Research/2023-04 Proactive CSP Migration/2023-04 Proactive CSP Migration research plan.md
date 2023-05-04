@@ -62,7 +62,7 @@ From both of these we’ll gain understanding about how to encourage va.gov lega
 - How might we encourage more veterans to migrate their CSP now, on their own, before sunsetting forces it?
 
 
-### Hypothesis
+### Hypotheses
 
 - Veterans will have a term or phrase for concepts like “verified account” that we can use to better speak to the process.
 - Most veterans will not understand how CSPs are different from their account
