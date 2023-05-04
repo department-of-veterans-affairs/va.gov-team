@@ -1,6 +1,6 @@
 # Redirect Implementation Strategy
 
-Last update: 1/6/23 — see change history below
+Last update: 5/4/23 — see change history below
 
 ---
 
@@ -234,6 +234,8 @@ Some extra contact information: VA TIC Gateway Operations
 - Investigate what our process was in order to get our header/footer JavaScript file included in TeamSite pages (which we now also use for client-side redirects). Maybe there's a clue there as to how to implement server-side redirects for subdomains
 
 ## Change history
+
+_5/4/23 - @jilladams updated table of examples and references to match narrative details lower in page._
 
 _1/6/23 - @jilladams updated to consolidate info from VSA Public Websites implementation notes. Updated technical notes for current._
 
