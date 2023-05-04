@@ -6,36 +6,32 @@
 
 [Link to card in research repo]()
 
-### OCTO Objectives _REDO!!_
+### OCTO Objectives
 
-This research aligns with the following [OCTO Objectives]([url](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme)).
+This research aligns with the following [OCTO Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme).
 
 North Stars:
 1. Increase the usage and throughput of VA services
-2. Decrease the time Veterans spend waiting for an outcome
-3. Increase the quality and reliability of VA services
 
 Goals:
-
 1. Veterans and their families can find a single, authoritative source of information
 1. Veterans and their families trust the security, accuracy, and relevancy of VA.gov
 
 Increase:
 - Usage of digital, self-service tools
-- Percent of applications submitted online (maybe, if we can help Veterans move from this tool to online application)
 - Benefit use and enrollment
 - Veteran satisfaction with VA.gov
 
 Decrease:
 - Call center volume, wait time, and time to resolution
 
-### Veteran Journey _REDO!!_
-There are many potential touchpoints between the Veteran and this application throughout the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf):
+### Veteran Journey 
+There are many potential touchpoints between the Veteran and benefits from the VBA throughout the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf):
 - Getting out (Engaging VA to access benefits and services)
-- Starting up (Attending to health needs)
-- Taking care of myself (Recognizing and addressing mental health needs, Managing primary care and chronic health issues, Seeking support for an acute health event, Maintaining my health)
-- Retiring (Taking care of my health)
-- Aging (Managing my declining health)
+- Starting up (Finding something to do, Finding a place to live)
+- Taking care of myself (Managing primary care and chronic health issues > Disability Compensation)
+- Putting down roots (Revisiting housing, Taking care of my family, Saving for my retirement, Engaging VA to access benefits and services)
+- Retiring (Finding additional sources of income)
 
 ## Research Goals	
 The purpose of this research is to **get user feedback on the new design for VBA regional facility pages**.
@@ -59,7 +55,7 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
 
 
 ### Hypotheses
-1. Veterans will know what they can do at a VA benefits office by looking at the new web page.
+1. Veterans will learn what they can do at a VA benefits office by looking at the new web page.
 2. Veterans will learn how to prepare for a visit to a VA benefits office from the new web page.
 3. ???
 
