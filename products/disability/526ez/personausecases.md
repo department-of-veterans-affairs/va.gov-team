@@ -39,4 +39,18 @@ Veterans separated from service, but still strongly connected to military friend
 Veterans who have little interaction with, awareness of, or interest in VA services or Veteran issues
 - Veterans who do not use VA medical centers can reference private medical records in 526. They can indicate they want the VA to get the records (and subsequently complete Form 21-4142 Authorization to Disclose Information to the VA), or they can indicate they want to upload evidence themselves (this includes an option to also upload Form 21-4142a General Release for Medical Provider Information to VA). They can also upload either/both of these forms if they indicate they have supporting/other evidence they want VA to review.
 
+# 526 use cases
+- Filing for first time ever (might accidentally submit multiple claims)
+- Filing new claim (not first time)
+- Filing claim for increase (if already have rated disability)
+- Filing BDD claim as current service member
+- Filing presumptive claim (TE/PACT Act)
+- Filing claim with above average # of conditions (>5 for 526, >21 for BDD)
+- Filing claim with PTSD (526 includes ancillary form 21-0781)
+- Filing claim with minimum requirements (fast-tracker)
+- Filing claim with all evidence possible (seeking FDC)
+- Filing claim as homeless veteran (no address to set up profile)
+- Filing claim as vet living abroad
+- Filing 526 (for example, for new claim) while also filing supplemental claim (for already-decided claim)
+
 
