@@ -47,37 +47,42 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
 1. What do Veterans know about VA regional benefits offices?
      1. What tasks do Veterans expect to do at VA regional benefits offices?
      2. What do Veterans expect to find on a web page about a VA regional benefit office?
-3. What feedback do Veterans have on the regional benefit office web page, including the content and the length of the page?
-4. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones? Are these "top tasks"?
-5. How do Veterans react to seeing 2 phone numbers?
+3. What feedback do Veterans have on content, organization, and length of the regional benefit office web page?
+5. When prompted with specific tasks, do Veterans navigate to the correct service accordion and find the correct next steps? 
+5. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones? Are these "top tasks"?
+6. How do Veterans react to seeing 2 phone numbers?
      1. Which phone number would they use and why? 
      2. What do they expect when they call?
 7. What do Veterans expect to find in the Pension section under "Services offered"?
-8. _something about in-person vs. virtual appointments--Do Veterans understand them? Do they know how to schedule them? currently the info in the design is the same for both, which we may not want_
-9. _Michelle's question about hours of operation_
+8. Do Veterans understand the difference between in-person and virtual appointments?
+9. _Something from Michelle about hours of operation?_
 
 
 ### Hypotheses
-1. 
+1. Veterans will know what they can do at a VA benefits office by looking at the new web page.
+2. Veterans will learn how to prepare for a visit to a VA benefits office from the new web page.
+3. ???
 
 ## Method	
 We will conduct **usability testing** to guide research participants through a click-through prototype. 
 
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
-_SAVE FOR LATER for prototype:_
+### Ideas for Prototype:
 - Make the 3 action links at the top of the page go somewhere
+- Make the 3 links under "On this page" work
 - Include some content under the "Limited services and hours" additional info component, if including it
 
-_SAVE FOR LATER for conversation guide:_
+### Ideas for Conversation Guide
 - Warm up questions about what regional benefit offices are, whether you've been to one before, what you might do there or have done there before, what you'd do before your visit (search for info online? where?)
-- Tell me your impressions of this page (regional benefit office)
-- Possible tasks:
-  - get help with X _(applying for disability compensation?)_
-  - wayfinding _(how to find this page?)_
-  - Find the nearest location for X
-  - what would you do next (make appt, figure out how to get there)
-  - How to find the benefits office in the building? call?
+- If you wanted to visit a VA benefits office near you, what would you do? (google? VA.gov > facility locator?) 
+- How could you find out whether it could help you with X? _(applying for disability compensation?)_
+- Open prototype, and tell me your impressions of this page (regional benefit office)
+- How could you figure out whether it could help you with X?
+- To make this happen, what would you do next (make appt, figure out how to get there, learn what to bring and gather it)
+- How to find the benefits office in the building? call?
+- How could you talk to someone at the VA about whether the VA will pay for more school for you?  
+- Ask at end after saw prototype: What do you think you can do from this VA office? 
 
 ### Research materials
 - [Link to conversation guide]()
@@ -103,8 +108,13 @@ Ask Perigean to recruit **4 Veterans, 2 Veteran family members, and 2 caregivers
 - At least 2 people who are LGBTQ+
 
 ### Screening Questions
+1. Do you (or the Veteran that you're a family member of or caregiver for) get VA disability compensation? 
+     1. No  *(ask next screening question)*
+     1. Yes *(disqualify)*
+     1. I don't know *(disqualify)*
+
 1. Have you visited a VA benefits office in the last 6 months? 
-     1. No or I don't know *(RECRUIT 5)*
+     1. No or I don't know *(RECRUIT 6)*
      1. Yes *(RECRUIT 5)*
 
 1. What time zone are you located in? *(RECORD)*
