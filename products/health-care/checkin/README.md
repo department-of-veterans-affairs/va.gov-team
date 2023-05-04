@@ -38,7 +38,7 @@
 ## Backlog and Roadmap
 - [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531667299/7e7c858244db550198c2f8f29f6e2919eec44d9e?sender=uc584f7fcc9a5090000259578)
 - [Scrum Board](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/board?repos=133843125)
-- [VSE/PCI/API/CIE Combined Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1635785913758/7351da6401af534be67689371f2108f3b0d3c3ec?sender=e4aa18d2-ce7d-41e6-8912-592ed5f9610a)
+- [~VSE/PCI/API/CIE Combined Roadmap~](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1635785913758/7351da6401af534be67689371f2108f3b0d3c3ec?sender=e4aa18d2-ce7d-41e6-8912-592ed5f9610a)
 
 ## Production Wireframes in VA Sketch Cloud
 - [In person Pre-Check-in](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/prototype/a/BE60720E-7D9D-46BD-AF86-6332C23E7D8B) in Sketch Cloud
