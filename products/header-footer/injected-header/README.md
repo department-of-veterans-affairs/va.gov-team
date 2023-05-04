@@ -1,14 +1,17 @@
 # Injected Header README
 
-The VA.gov modernization project will take years to bring alllllllll VA content into the main site. In the meantime, VA offices / orgs that use TeamSite (old CMS) may want to adopt the new header/ footer. This can be achieved by “injecting” it, using a set of Javascript / stylesheets, and a cookie.
+## Business case
+The VA.gov modernization project will take years to bring all VA content from various administrations into the modernized VA.gov experience. In the meantime, VA offices / orgs that use TeamSite (old CMS) may want to adopt the new header/ footer, which provides links to modernized benefit information to Veterans. TeamSites can receive the “injected” header / footer, using a set of Javascript / stylesheets, and a cookie.
 
 ## Proxy-rewrite app
-Injection is achieved via the [vets-website proxy-rewrite app](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/README.md). README includes implementation & testing details.
+Requests to subdomain hosts such as http://www.benefits.va.gov are not proxied through our systems, therefore are not under our control. We will call these **legacy sites**. Content for these sites are served through TeamSite CMS servers and templates. 
+
+Injection is achieved via the [vets-website proxy-rewrite app](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/README.md). README includes implementation & testing details. This process was established in November 2018 [vets.gov-team/12779](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12779).
 
 **Injection will only work for standard TeamSites.** The header/footer cannot be injected into other VA sites/CMSs.
 
-
 ## Runbook: Adding injected header to new TeamSite
+Public Websites team is responsible for supporting teams who want to inject the modernized header and footer into their legacy site. 
 
 [DEPO teamsite overview](https://depo-platform-documentation.scrollhelp.site/developer-docs/teamsite-overview) - explains the cookie mechanisms, and has notes on testing. 
 
