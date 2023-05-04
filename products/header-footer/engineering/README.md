@@ -33,11 +33,11 @@ More information:
 * [vets-website proxy-rewrite app](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/README.md)
 
 ### Templates
-* `/vets-website/src/applications/proxy-rewrite/partials/header.js` -- used to render 
+* `/vets-website/src/applications/proxy-rewrite/partials/header.js` -- used to render
 
+![VACMS-10059 HEADER CURRENT FLOW_2023-05-04_23-16-59](https://user-images.githubusercontent.com/85581471/236350123-83aa5884-66f3-4688-bb04-7fa75da545af.png)
+https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683241698521/bd49f8b522d8fab33844e1621fd5d3b65eb88a07?sender=u0b235d03cbd64f7f93673243
 
 ## TODO:
-* data flow diagram
-* Add any good notes re: mobile header from https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/public-websites/header/README.md
 * Flesh out notes on each header-related template file (what/why)
 * Add anything useful re: WCLoader
