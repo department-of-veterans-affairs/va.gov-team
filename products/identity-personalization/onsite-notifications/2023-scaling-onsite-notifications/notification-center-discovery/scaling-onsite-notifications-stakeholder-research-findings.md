@@ -114,6 +114,8 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > _"Getting lots and lots of notifications that are not of value to them would be the number one trust breaker. The other thing is because there are so many potential places a person could be managing noifications in relation to benefits and services, things getting lost. If the approach was kind of centralizing everything and making sure that people can find the notifications that are of real value to them and help them complete tasks or get things that they need." - Chante Lantos-Swett_
 
+> _"If every time you log in there are new notifications, I could imagine that being too chatty. Maybe there are levels of notifications where you actually bother someone versus just tell them information and they don't have to take action on it." - Martha Wilkes_
+
 * Mikki said if you dismiss a notification in one place of VA.gov but it still appears on another page, that would break Veteran trust and create noise.
 * Dave Conlon brought up the PACT Act as an example where notifications could be automatic and intelligent because we know their service history and can send them a notification that they may be eligible, and then provide subsequent notifications if and when they apply for those benefits.
 * 
@@ -140,7 +142,9 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > _"When you're a screen reader user, how do you alert them without bugging them? There's a fine line between we're telling you about something and now we're nagging you about it. And that's for people who can see the thing as well as hear the thing. It will be an especially challenging design problem to alert people at the right momemt and let them manage that alert but be able to bring it back if they want to. As a sighted peson, you can see the little bell icon that you have a notification and you can choose to ignore it. As a blind person, how would I know about that but not be annoyed by it? **We'll need to check in with folks who use assistive tech early on** because that will be key to this experience." - Martha Wilkes_
 
-> _"
+> _"Especially if they are waiting for something, people obsessively check and we almost enable that obsession. Because traditionally the VA has made decisions at random times, even in the middle of the night. It feels akin to people obsessively playing slot machines because it feels so truly random to them. So people have said on Reddit they have to unistall the app because they were checking all day and all night long. **We don't want to enable or create obsessiveness.** Once these notifications start being really timely and actionable, the timeliness of it - maybe let people schedule them? Maybe let people in a traum-informed way choose not only the method but the time. Also the format - people gets texts, emails, now potentially notifications, so do people want to be bombarded with bad news by three methods? If and whe eople dismiss it, really dismiss it and don't let it come back even in another format. 
+
+* Martha said she's not sure if it's against accessibility best practices to have a very different unauth and auth experience and we would need to do research to determine that. She said it's possible that the difference is actually **too** subtle now and hard for both sighted an blind users to tell they are logged in.
 
 ## Additional Insights
 
