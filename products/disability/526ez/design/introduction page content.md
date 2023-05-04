@@ -134,7 +134,7 @@ If you want to submit additional documentation after you submit your claim, you 
    Here’s how signing in now helps you:
     - By starting an application, you let us know you intend to file a claim, which holds a potential effective date for when you could start getting benefits.
     - We can fill in some of your contact information for you to save you time.
-    - You can save your work in progress. You’ll have 1 year from when you start or make updates to your application to come back and finish it.
+    - You can save your work in progress. You’ll have 1 year from when you start to come back and finish it.
     - After you submit your application, you can track claim status and upload additional documents on your profile.
 
    [button] Sign in to start or continue your application
