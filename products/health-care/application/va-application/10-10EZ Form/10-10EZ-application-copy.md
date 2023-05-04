@@ -325,14 +325,21 @@ Month Day Year (dropdowns)
 [end progress bar]
 
 [fieldset legend title] Mailing address
+
 [p] We’ll send any important information about your application to this address. Any updates you make here to your address will apply only to this application.
 
 [component select label] Country(*Required)
+
 [component text input label] Street address(*Required)
+
 [component text input label] Street address line 2
+
 [component text input label] Street address line 3
+
 [component text input label] City(*Required)
+
 [component select label] State(*Required)
+
 [component text input label] Postal code(*Required)
 
 [component radio button label] Is your home address the same as your mailing address?(*Required)
@@ -357,14 +364,21 @@ Month Day Year (dropdowns)
 [end progress bar]
 
 [fieldset legend title]  Home address
+
 [p] Any updates you make here to your address will apply only to this application.
 
 [component select label] Country(*Required)
+
 [component text input label] Street address(*Required)
+
 [component text input label] Street address line 2
+
 [component text input label] Street address line 3
+
 [component text input label] City(*Required)
+
 [component select label] State(*Required)
+
 [component text input label] Postal code(*Required)
 
 [button pair] [<< Back] [Continue >>]
@@ -384,7 +398,9 @@ Month Day Year (dropdowns)
 [p] **Note:** We’ll always mail you a copy of our decision on your application for your records.
 
 [component text input label] Email address
+
 [component text input label] Home telephone number
+
 [component text input label] Mobile telephone number
 
 [button pair] [<< Back] [Continue >>]
@@ -411,7 +427,9 @@ Month Day Year (dropdowns)
 [radio select label] Do you receive VA disability compensation?(*Required)
 
 [component additional info]
+
 [label] Why we ask for this information
+
 [content]
 [p] We use this information to help us decide these 4 things:
 
@@ -468,7 +486,9 @@ Month Day Year (dropdowns)
 [label] Do you receive VA disability compensation?(*Required)
 
 [component additional info]
+
 [title] Why we ask for this information
+
 [content] 
 [p] We use this information to help us decide these 4 things:
 
@@ -503,6 +523,7 @@ Month Day Year (dropdowns)
 [end progress bar]
 
 [component select label] Last branch of service(*Required)
+
 [Select options] 
 - Air Force
 - Army
@@ -525,6 +546,7 @@ Month Day Year (dropdowns)
 [dropdowns for: month, day] [ input for year]
 
 [component select label] Character of service(*Required)
+
 [Select options] 
 - Honorable 
 - General
@@ -563,6 +585,11 @@ Month Day Year (dropdowns)
 ## Step 4 Household information 
 
 ---
+
+
+
+
+
 
 ## Step 4 of 6: Household Information
 
