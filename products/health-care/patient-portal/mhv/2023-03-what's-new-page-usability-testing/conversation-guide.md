@@ -1,4 +1,4 @@
-# **Notification Center Conversation Guide**
+# **What's New Page Conversation Guide**
 
 **Moderator logistics**
 
@@ -26,7 +26,7 @@
 
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
 
-Today we're going to talk about the new Notification Center feature.
+Today we're going to talk about the new What's New Page feature.
 
 Before we start, a few things I want to mention:
 
