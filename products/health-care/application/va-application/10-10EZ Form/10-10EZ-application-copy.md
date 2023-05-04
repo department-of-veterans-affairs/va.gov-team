@@ -139,11 +139,17 @@ Expiration date: 06/30/2024
 [END component OMB info]
 
 [button secondary] Privacy Act statement (_popup_)
+
+
 [component form need help, health care] 
+
 **Need help?**
 **If you have trouble using this online application,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
 **If you need help to gather your information or fill out your application/form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
 **If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
 [END component form need help, health care] 
 
 
@@ -1093,60 +1099,76 @@ You’ve read and accept our privacy policy.
 
 
 --- 
+### Page: Confirmation
 
-## AFTER submission
+#### URL: health-care/apply/application/confirmation
 
-**Please print this page for your records.**
+[h1] Apply for VA health care
 
-_(blue box)_
+[subtitle] Form 10-10EZ
 
-**Thank you for submitting your application**
+[component alert success]
 
-**Health Care Benefit Claim** (Form 10-10EZ)
+[h2] Thank you for completing your application for health care
 
-for [Veteran's name]
+[p] Once we’ve successfully received your application, we’ll contact you to tell you what happens next in the application process.
+[END component alert]
 
-**Date submitted**
 
-[Date submitted]
+[blue background info alert]
 
-_(end blue box)_
 
-**How long will it take VA to make a decision on my application?**
+[h2] Your application information
 
-We usually decide on applications within **1 week**.
 
-If we need you to provide more information or documents, we’ll contact you by mail.
+[div bold] Veteran’s name
+[div class] [Veteran’s inputted first and last name]
 
-**If we haven’t contacted you within a week after you submitted your application**
 
-Please don’t apply again. Instead, please call our toll-free hotline at [877-222-8387]. _(link)_ We’re here Monday through Friday, 8:00 am to 8:00 pm ET.
+[div bold] Date you applied
+[div class] [date]
 
-**How can I check the status of my application?**
 
-**1. Sign in to VA.gov**
+[div bold] Confirmation for your records
+[div class] [date] You can print this confirmation page for your records.
 
-You can sign in with your DS Logon, My HealteVet, or ID.me account. If you don’t have an account, you can create one now.
 
-**2. If you haven’t yet verified your identity, complete this process when prompted**
+[button primary] Print this page
 
-This helps keep you information safe, and prevents fraud and identity theft. If you’ve already verified your identity with us, you won’t need to do this again.
 
-**3. Go to your personalized My VA homepage**
+[END blue background]
 
-Once you’re signed in, you can go to your homepage by clicking on the** My VA** link near the top right of any VA.gov page. You’ll find your application status information in the **Your Applications** section of you homepage.
 
-**Please note:** Your application status may take some time to appear on our homepage. If you don’t see it there right away, please check back later.
+[h2] What to do if you have questions now
 
-**How will I know if I’m enrolled in VA health care?**
+[p] If we haven’t contact you within a week after you submitted your application, please don’t apply again:
 
-If enrolled, you’ll receive a Veterans Health Benefits Handbook in the mail within about 10 days.
+[ul]
+Please call our toll-free hotline at 877-222-8387. We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+[END ul]
+[a = ] Learn more about what happens after you apply[/a].
 
-We’ll also call to welcome you to the VA health care program, help you with scheduling your first appointment, and answer any questions you may have about your health care benefits.
 
-[Find out what happens after you apply](https://va.gov/health-care/after-you-apply/)
+[h2] How can I check the status of my application?
 
-**What if I have more questions?**
+[p] Sign in with one of these verified accounts:
+[ul]
+Login.gov
+ID.me
+Premium My HealtheVet
+Premium DS Logon
+[END ul]
 
-Please call [877-222-8387] _(link)_ and select 2. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+[p] Then go back to the health care application introduction page. You’ll find your application status at the top of the page.
+
+[component action link green] Go to health care application page
+
+[h2] How will I know if I’m enrolled in VA health care?
+
+[p] If enrolled, you’ll receive a Veterans Health Benefits Handbook in the mail within about 10 days.
+
+[p] We’ll also call to welcome you to the VA health care program, help you with scheduling your first appointment, and answer any questions you may have about your health care benefits. 
+
+[a = https://staging.va.gov/health-care/after-you-apply/ ]Learn more about what happens after you apply [/a]
+
 
