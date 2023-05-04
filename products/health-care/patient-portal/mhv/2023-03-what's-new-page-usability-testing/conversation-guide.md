@@ -50,11 +50,11 @@ _Start recording._
 
 Before we look at the design, let's start with a few warm-up questions.
 
-1. When you think of a My HeatheVet notification center, what are the first things that come to mind? What would you expect from that feature?
+1. When you think of a My HeatheVet What's New Page, what are the first things that come to mind? What would you expect from that feature?
 2. How often would you say you log into My HealtheVet?
 3. What are some ways you look for site updates? How do you find out about site changes?
 
-**First Task: You are logged out of your account on My HealtheVet and want to check the Notification Center. Please go to the Notification Center main page. - 8 minutes**
+**First Task: You are logged out of your account on My HealtheVet and want to check the What's New Page. Please go to the What's New Page main page. - 8 minutes**
 
 Ok, now we will start looking at the site. I am going to share my screen and have you take control.
 
@@ -65,19 +65,19 @@ I'm going to ask you to perform a series of tasks, even though this is a prototy
 **Things to watch for:**
 
 - Does the participant use the blue bar or the "what's new" link?
-- Does the participant see where the options are to get to the notification center main page?
+- Does the participant see where the options are to get to the What's New Page main page?
 
 **Post-Task Question:**
 
 - On a scale of 1-5 what is the level of difficulty to complete the task? 1 being very difficult, 2 being difficult, 3 being neutral, 4 being easy, 5 being very easy. What made you choose [that number]? Why [X] and not [Y]?
 
-- How do you feel about the placement of the Notification Center Links? Is this where you would have expected them to be?
+- How do you feel about the placement of the What's New Page Links? Is this where you would have expected them to be?
 
 - Did you notice the path that you didn't take to get to notifications?
 - How did you feel about having both the banner and the "what's new" link?
 - What thoughts do you have about the current page?
 
-**Second Task: You are now in the Notification Center main page. Please take the next steps you would take to see your personalized notifications. - 8 minutes**
+**Second Task: You are now in the What's New Page main page. Please take the next steps you would take to see your personalized notifications. - 8 minutes**
 
 - Step 1: Participant will click/tap on the log in link to access personalized notifications.
 
