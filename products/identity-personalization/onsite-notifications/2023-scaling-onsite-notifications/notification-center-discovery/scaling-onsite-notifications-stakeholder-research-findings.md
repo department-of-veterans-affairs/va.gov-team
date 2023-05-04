@@ -76,7 +76,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > _"I imagine that there needs to be someplace where a user can see a list of all of the notifications that they've received; whether it's a recent text message or email or onsite notifications and they dismissed it too quickly and they want to see what it was or I'm sure there's a million use cases that we haven't thought of. I can imagine there's some sort of notification hub that lives somewhere on the site. I don't know where that is or what it's a part of. It seems like there's a use case for that." - Mikki Northuis
 
-* Our meeting with the mobile app leads was not very productive but Ryan Thurlwell expressed that our team should propose a solution and then just make sure the OCTO product owners are okay with it and indicated that extensive research isn't necessary for us to come to a conclusion.
+* In the interview with the mobile app leads, Ryan Thurlwell expressed that our team should propose a solution and then just make sure the OCTO product owners are okay with it and indicated that stakeholder research isn't necessary for us to come to a conclusion that will work well.
 
 **Finding 2**
 
@@ -110,8 +110,11 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > _"How do we provide Veterans control over notifications? And what is the right balance between you are automatically subscribed to this notification, versus a notification that a new notification option is available and you can choose whether to subscribe to it or not. And at what cadence? How do we not overwhelm them with notifications and options to subscribe? How do we empower Veterans to take control of their own healthcare benefits journey rather than having the VA make decisions on their behalf? I would hypothesize that Veterans feel subjected to VA's whims and decisions." - Dave Conlon_
 
+> _"Getting lots and lots of notifications that are not of value to them would be the number one trust breaker. The other thing is because there are so many potential places a person could be managing noifications in relation to benefits and services, things getting lost. If the approach was kind of centralizing everything and making sure that people can find the notifications that are of real value to them and help them complete tasks or get things that they need." - Chante Lantos-Swett_
+
 * Mikki said if you dismiss a notification in one place of VA.gov but it still appears on another page, that would break Veteran trust and create noise.
 * Dave Conlon brought up the PACT Act as an example where notifications could be automatic and intelligent because we know their service history and can send them a notification that they may be eligible, and then provide subsequent notifications if and when they apply for those benefits.
+* 
 
 **Finding 4**
 
@@ -122,6 +125,8 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 > _"
 
 > _"Something we hear from Veterans is 'I wish there was a way for me to see all the times I've been in contact with VA and have that information so I can reference it when I'm talking to a new person.'" - Chante Lantos-Swett_
+
+
 
 **Finding 5**
 
