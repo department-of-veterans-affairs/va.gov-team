@@ -8,7 +8,7 @@
 |----|----|
 |Accessibility audit| FE build |
 |Direct deposit for comp & pen EVSS > Lighthouse migration| Build|
-|Notification preferences: Adding email as a channel| On hold -- waiting for team bandwidth to open up|
+|Notification preferences: Adding email as a channel| Build |
 
 ### Projected timelines for current projects & enhancements
 
