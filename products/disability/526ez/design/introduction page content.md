@@ -14,7 +14,7 @@ Learn more about the PACT Act and what is now presumptive
 
    
 > Have you already started your application?
-  
+> 
 > [button] Sign in to start or continue your application
 
 
@@ -48,11 +48,11 @@ Learn more about these forms and how to complete them.
 
 
 > Are you a current service member?
-
+> 
 > Service members who have an illness or injury that was caused or made worse by their active duty service, can use this form to file for disability benefits 90 to 180 days before they leave the military through the Benefits Delivery at Discharge (BDD) program. 
-
+> 
 > Note: You’ll need to submit service treatment records for the current period of service as well as a Separation Health Assessment – Part A Self-Assessment as part of your claim so we can request your VA exam. (We estimate that it will take you at least 30 minutes to complete this form, and we recommend you download and fill out this form on a desktop computer or laptop then return to this form to upload.)
-
+> 
 > After you file your claim, you’ll need to be available to complete an exam for 45 days after your claim is submitted. Learn more about Benefits Delivery at Discharge (BDD).
 
 
@@ -67,9 +67,9 @@ Learn about other ways you can file a disability claim
 
 
 > If you are granted benefits, your benefits will be effective as of either the date we received your claim or the date that documentation shows a change in your condition that supports the level of compensation.
-
+> 
 > If your condition was present when you separated from the military, and we receive your claim before or within one year of that separation, the effective date will be from the day following the date of your separation.
-
+> 
 > When you start your application here and now, you’ll declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You have 1 year from the day you submit your intent to file to complete your application.
 
 
@@ -88,9 +88,9 @@ We strongly encourage you to submit documentation as soon as you can to help us 
 > Toxic exposure and PACT Act
 
 > To get a disability rating, we need to see that your condition connects to your military service. For many conditions we need documentation to see this, but for some conditions we can automatically assume (or “presume”) that your service caused your condition. If you have what we call a presumptive condition, we don’t need documents showing service caused the condition. 
-    
+>    
 > The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of presumptive conditions. If this applies to you, we encourage you to file for benefits now. If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application.
-    
+>   
 > To support a claim for presumptive service connection, you only need to submit documentation showing you served in a location and/or you have a current condition that qualifies you for the presumption. Learn more about the PACT Act and what is now presumptive
    
    
@@ -122,13 +122,13 @@ If you want to submit additional documentation after you submit your claim, you 
 
 
 > Sign in to start or save your work in progress
-
+> 
 > Here’s how signing in now helps you:
     - By starting an application, you let us know you intend to file a claim, which holds a potential effective date for when you could start getting benefits.
     - We can fill in some of your contact information for you to save you time.
     - You can save your work in progress. You’ll have 1 year from when you start or make updates to your application to come back and finish it.
     - After you submit your application, you can track claim status and upload additional documents on your profile.
-
+> 
 > [button] Sign in to start or continue your application
    
 
@@ -159,29 +159,29 @@ Day:
 Year:
 
 > [background color only alert component if <90 days]
-
+> 
 > Based on your separation date, you can apply for benefits now (using VA Form 21-526EZ).
-
+> 
 > Select ‘continue’ to start now and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You will have 1 year from the day you submit your intent to file to complete your application.
 
 
 > [background color only alert component if date between 90-180 days]
-
+> 
 > Based on your separation date, you can apply now for benefits under the Benefits Delivery at Discharge (BDD) program. Learn more about the BDD program.
-
+> 
 > You have x days left (until x) to complete and submit this form and apply under the BDD program. 
-
+> 
 > After that date, you can apply for benefits here (using VA Form 21-526EZ). We recommend you return here as soon as you can to start and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You will have 1 year from the day you submit your intent to file to complete your application.
-
+> 
 > Select ‘continue’ to apply now.
-
+> 
 > [warning alert] You’ll need to submit service treatment records for the current period of service as well as a Separation Health Assessment – Part A Self-Assessment as part of your claim so we can request your VA exam. We estimate that it will take you at least 30 minutes to complete this form, and we recommend you download and fill out this form on a desktop computer or laptop then return to this form to upload.
 
 
 > [background color only alert component if date >180 days]
-
+> 
 > Based on your separation date, you’ll need to wait to file for disability benefits.
-
+> 
 > In x days (on x), you can apply here for benefits under the Benefits Delivery at Discharge (BDD) program. Learn more about the BDD program.
-
+> 
 > After x, you can apply for benefits here (using VA Form 21-526EZ). We recommend you return here as soon as you can to start and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You will have 1 year from the day you submit your intent to file to complete your application.
