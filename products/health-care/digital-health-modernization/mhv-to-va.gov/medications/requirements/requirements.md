@@ -156,7 +156,7 @@ Fill or refill error alert
 * Learn more about a status in context
 ---
 ### Refilling a medication
-* When a med is active, a refill is not in process, and there are refills left, a user should be able to reequest a refill by pressing a button. 
+* When a med is active, a refill is not in process, and there are refills left, a user should be able to request a refill by pressing a button. 
 * For the first version of this tool, a user must click refill on each individual meds. There is no bulk med refill functionality. 
 * When a prescription refill is in process, remove the ability to refill and provide a pithy explainer that the refill is in process. The button should be replaced by the estimated fill date. 
 * Once a med has been dispensed, start the process over again.
