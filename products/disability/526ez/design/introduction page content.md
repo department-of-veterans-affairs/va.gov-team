@@ -16,7 +16,7 @@ Learn more about the PACT Act and what is now presumptive
 
    [background color only alert component] 
    
-   Have you applied for VA health care before?
+   Have you already started your application?
   
   [button] Sign in to start or continue your application
 
