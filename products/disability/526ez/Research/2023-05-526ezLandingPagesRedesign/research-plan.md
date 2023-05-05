@@ -5,9 +5,9 @@
 
 The 526ez form is one of the most used VA forms. However, it's confusing and stressful for Veterans to apply for disability compensation as the  process is rather opaque to the Veteran. The form UX often leaves them feeling anxious and forgotten. The lack of clarity can also lead to mis-ratings, or misunderstanding of ratings, and a snowball of Appeals. 
 
-As a new team, we are priortizing the landing pages of the form which include an /introduction page that is menat to set veteran's expectations for what to expect of the disability claim process and two follow-up pages meant to determine their elligiblity for benefits based on their discharge date. These two newer pages will follow the one-question-per-page style and replace a post-auth /start page which held a wizard asking the same eligibility questions. Past research and heuristic review makes it clear that veterans need more context and insight into this opaque process, so we are hoping to iterate on content and design at the beginnign of the form to set veterans up for successs, foscuing on a few key personas : vets applying for BDD (benefits at discharge), PACT presumptive claims, new claimants, and claimants asking for increase of compensation for a condition that has worsened. 
+As a new team, we are priortizing design/content on the landing pages of the form which include an /introduction page that is meant to set veteran's expectations for what to expect of the disability claim process **and** two follow-up pages meant to determine their elligiblity for benefits based on their discharge date. These two newer pages will follow the one-question-per-page style and replace a post-auth /start page which held a wizard asking the same eligibility questions. Past research and heuristic review makes it clear that veterans need more context and insight into this opaque process, so we are hoping to iterate on content and design at the beginnign of the form to set veterans up for successs, foscuing on a few key personas : vets applying for BDD (benefits at discharge), PACT presumptive claims, new claimants, and claimants asking for increase of compensation for a condition that has worsened. 
 
-User goals:
+**User goals:**
 
 - Successfully and easily find the right tool, and submit a claim online
 - Successfully submit a claim independently without seeking outside help
@@ -22,36 +22,44 @@ User goals:
 
 Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
 
-Priotities specific to VA.GOV generally
-Solidify the VA.gov platform
-Enhance Veterans’ personalized online experience
-Fast-track disability claims, starting with PACT Act claims
+**Priotities specific to VA.GOV generally:**
+- Solidify the VA.gov platform
+- Enhance Veterans’ personalized online experience
+- Fast-track disability claims, starting with PACT Act claims
 
-OCTO priorities specific to our product set by PO:
-Increase engagement on the online platform
-Reduce errors and ambiguity in submitted claims (thus reducing processing time)
-Build trust with customers (Veterans)
-Reduce VA costs by automating / digitizing where possible
-Briefly describe the background of your product.
+**OCTO priorities specific to our product set by PO:**
+- Increase engagement on the online platform
+- Reduce errors and ambiguity in submitted claims (thus reducing processing time)
+- Build trust with customers (Veterans)
+- Reduce VA costs by automating / digitizing where possible
+- Briefly describe the background of your product.
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
 
 - Getting out
+- Starting up
+- Taking care of myself 
+- Aging - some PACT act applicants are older veterans of the Vietnam War
 
 ## Research Goals	
-What are you trying to learn from this research? 
-
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+
+- Improve form content clarity and comrehension
+- Improve veteran preparedness and confidence before begnning form 
+- Improve veteran trust and confidence in VA institution and online/offline services 
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
+The DBEx team will use these learning to create a baseline for the iterative design process; continue to refine the form landing/start pages for clarity, veteran confidence, and veteran preparedness; and to ultimately progress toward our northstart KPI: reducing the number of sessions needed to complete the form. 
+
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
+- Clarity and comrehension : Do veterans understand the process for filing claims, what is needed, who is elligile, what needs to be done online in teh digital form vs offline?
+- Preparedness and confidence: Do vets feel prepared after going through the initial steps of the form to continue to beginning the form? What other information do they need provided upfront? What information can be de-prioritized to aid in info digestion?
+- Trust: Do veterans feel the VA is doing its due diligence in getting them the compensation they need?
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
 ### Hypothesis
@@ -64,13 +72,7 @@ What do you intend to learn and measure from this study? Think through these pro
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+Conducting usability tests on desktop and mobile to evaluate design/content changes made to the beginning of the form and discover any other painpoints in that area. 
 
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
