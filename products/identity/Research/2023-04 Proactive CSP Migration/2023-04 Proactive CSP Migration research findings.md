@@ -36,17 +36,17 @@ We conducted remote usability testing to evaluate a modal prototype with partici
 
 ##Hypotheses and Conclusions
 - Veterans will have a term or phrase for concepts like “verified account” that we can use to better speak to the process.
-   - Likely False - *some detail here*
+   - Partly True - *some detail here*
 - Most veterans will not understand how CSPs are different from their account
-   - Likely True- *some detail here*
+   - Mostly True- *some detail here*
 - Some veterans will be motivated to migrate from a legacy CSP with some encouragement, like the modal prototype
-   - Likely True - although likely limited, *some detail here*
+   - Mostly False - although likely limited, *some detail here*
 - Most veterans will choose to ignore the modal their first time seeing it
-   - True - *some detail here*
+   - Definitely True - *some detail here*
 - Veterans will be more likely to choose not to set up a Login.gov account from their mobile device
-   - Inconclusive - *some detail here*
+   - True - *some detail here*
 - Veterans will choose to continue to use their current (legacy) credential unless they are given a deadline or told that their credential is going away soon
-   - Likely True - *some detail here*
+   - TBD - *some detail here*
 
 ## Key Findings
 
