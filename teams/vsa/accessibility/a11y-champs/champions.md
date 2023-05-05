@@ -2,8 +2,7 @@
 
 ## Champion, Level 5
 
-**Robin Garrison**, Front end developer on Benefits Decision Reviews
-- After I understood how important a11y is for everyone, I pushed myself to learn more and become an advocate, and hopefully a motivate other developers to pay more attention to their work. I feel blessed to be surrounded by such fantastic a11y mentors.
+- **Robin Garrison**, Front end developer on Benefits Decision Reviews
 
 ## Apprentice, Level 4
 
@@ -12,6 +11,11 @@
 ## Tester, Level 2
 
 ## Community Members, Level 1
+- **Heather Widmont**, Scrum Master VA Benefits Team 1
+- **Skyler Schain**, UX Designer on Benefits
+- **Rocio De Santiago**, Front end developer on Benefits Decision Reviews
+- **Robert Bailey (Bobby)**, UX/UI Researcher and Designer on the Medical Records team 
+
 
 ## Specialists
 
