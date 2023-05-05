@@ -78,7 +78,10 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > _"I'm never really concerned if there are designers who are trying to solve a problem thoughtfully. ...We're trying to encourage the things in the design system to be used and for folks not to reinvent the wheel. That said, we're getting into new territory. The design system today is made for a static content site and forms. It doesn't really cover the kinds of applications and tools that they're starting to develop today. We're trying to extend it to meet that need. This is one of the more complex areas. So it makes sense to me that there will be some growing pains where we start trying a thing and then try another thing and teams may diverge and then come back together, and that's okay. That's normal. other design systems I've worked on have gone through that same kind of evolution." - Matt Dingee_
 
+> _"I think we have a pretty good sense of what's important and what's valuable and we should feel free to try those things. We don't always need to investigate and inspect and research and synthesize and recommend - let's just try some things. We'll know pretty quickly if we're onto something. If there's something we can do that we feel pretty strongly about, then we should just go ahead and do it." - Chris Johnston_
+
 * In the interview with the mobile app leads, Ryan Thurlwell expressed that our team should propose a solution and then just make sure the OCTO product owners are okay with it and indicated that stakeholder research isn't necessary for us to come to a conclusion that will work well.
+
 
 **Finding 2**
 
@@ -103,6 +106,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 * Kristen McConnell said the health team is working on making after-visit summaries available in the health space and that could be something that would need to be surfaced via notification on VA.gov.
 
 * Kay Lawyer said a notification that an appointment request has been scheduled might be an easy one to surface on VA.gov. She also said alerting a Veteran that their medication is expiring would be a good candidate, but that does not exist yet and Veterans have to keep track of that themselves.
+
 
 **Finding 3**
 
@@ -139,16 +143,18 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 * The health team said it's important to allow for Veterans to elect preferences for notifications and for us to honor those preferences, because the spectrum is wide of how many notifications Veterans like to receive.
 * Chris Johnston said we can build Veteran trust by proactively notifying them about things they may not be aware of, like if there's a change in their dependent status, their disability payments may change.
 
+
 **Finding 4**
 
 **A notification center on VA.gov would likely need to support messages as well as notifications in the future.** Details
 
 ### Supporting quotes and notes
 
-> _"
+> _"I have this very vague sense of a more enterprise messaging center, I'm not exacly sure what to call it. But the idea is that all of the digital conversations that you're having with VA can be in a place. So whether I sent a note to support about the status of my GI bill, or I asked VBA about a particular claim, or I'm sending a note to my doctor about setting up an appt, this idea that there could be an inbox where I'm managing these messages makes sense. You don't have a different Gmail account for every single person that you email like VA makes you have. It's possible that notifications get blended in there as well." - Chris Johnston_
 
 > _"Something we hear from Veterans is 'I wish there was a way for me to see all the times I've been in contact with VA and have that information so I can reference it when I'm talking to a new person.'" - Chante Lantos-Swett_
 
+* Chris Johnston mentioned that we don't want to burden the user with having to remember if something was a message or a notification if those things are separate and they want to go back and reference it, so that's a good reason to have them in the same place.
 
 
 **Finding 5**
@@ -166,6 +172,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 * Martha said she's not sure if it's against accessibility best practices to have a very different unauth and auth experience and we would need to do research to determine that. She said it's possible that the difference is actually **too** subtle now and hard for both sighted an blind users to tell they are logged in.
 * Martha said Karen Cuthright would be a good person to talk to if we want more insight into MST survivors.
 
+
 ## Additional Insights
 
 * Chante informed us that the functionality that was poorly implemented with Ask VA will be implemented on VA.gov. This is currently a form where users can submit questions to VA and is integrated with Microsoft Dynamics CRM.
@@ -176,6 +183,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 * The appointments team (Peter Russo) did a service design study that produced a user journey for all the touchpoints that a user may have across the appointments space. They found that users may get 15 notifications about their appointment or they may get none. They shared this research with us and after reviewing, it seems to be a research approach that could be useful for diving into specific spaces where there are a lot of touchpoints, like maybe claims and appeals. 
 * Kristen McConnell said that as of now, My HealtheVet is set to be sunsetted by October 2024.
 * **Lauren Alexanderson said she would like to see all the teams who are working on notification-related work to collaborate continuously.**
+
 
 ## Recommendations
 
