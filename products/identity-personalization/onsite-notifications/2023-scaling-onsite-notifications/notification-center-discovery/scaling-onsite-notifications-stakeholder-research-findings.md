@@ -189,16 +189,21 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 * Schedule a regular touchpoint for all teams working on notifications (like how we used to have one for teams working on debt).
 * Since we heard most OCTO product owners mention needing to give users some control over this feature, we need to put some thought into how to design onsite notification preferences in conjunction with the notification preferences that already exist in the profile. Liz and Angela should begin collaborating on this work.
+* A notification on VA.gov will need to exist and it will need to consider how it can also include a record of messages/all digital interactions with VA. Where it lives on the website and how those notifications are surfaced to users is TBD.
 
 
 ## Next Steps
 
-
+* The Authenticated Experience team should:
+ * Schedule a biweekly (?) touchpoint for teams working in the notification space: health team, appointments, and claims and appeals. Any others?
+ * Angela and Liz should collaborate on notification preferences.
+ * Angela should record options and pros and cons to each for how and where to present notifications on VA.gov in Mural and present that to the team with recommendations of which options make the most sense to pursue in usability research.
 
 
 ## Further research needed
 
-
+* We may want to test a couple different options of how to present notifications on VA.gov with users.
+* We will need to test the notifications feature with assistive tech users before moving forward with any solution.
 
 ## Appendix
 
