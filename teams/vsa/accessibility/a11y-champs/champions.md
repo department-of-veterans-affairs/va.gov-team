@@ -24,8 +24,7 @@
 - Can answer questions on qualitative research, disability justice, and trauma-informed design
 
 **Liz Lantz**, Designer on Authenticated Experience
-- liz.lantz@adhocteam.us, [LinkedIn, personal website, etc](replace this with your url)
-- 1 sentence on what you can help champions out with
+- liz.lantz@adhocteam.us
 
 **Sara Smith**, 508 Accessibility Specialist
 - [LinkedIn Profile](www.linkedin.com/in/sarafantauzzismith)
