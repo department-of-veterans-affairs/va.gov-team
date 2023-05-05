@@ -29,4 +29,6 @@ It explains the reasons for each decision, so team members can identify their or
 | Will the web team be rolling out unified check-in at the same time as mobile does? If so, what release strategy will Web use? |   |
 | Will the web team assist Mobile in testing?  |   |
 | What cadence will the Check-In and Mobile have for communicating?  |   |
-| Does Check-In Team already have a monitoring dashboad (OKR, KPIs, performance, etc) that Mobile can leverage or does Mobile need to create their own?  |   |
+| Does Check-In Team already have a monitoring dashboad (OKR, KPIs, performance, etc) that Mobile can leverage or does Mobile need to create their own? | |
+| Where should cross-team metrics around check-in live long term?  | |
+| Will we spend time defining shared and separate success for Check-in? |
