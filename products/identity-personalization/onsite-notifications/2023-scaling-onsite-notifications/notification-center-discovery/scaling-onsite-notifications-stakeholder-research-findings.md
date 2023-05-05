@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Authenticated Experience, My VA**
 
-Last updated: 5/2/2023
+Last updated: 5/5/2023
 
 [Angela Agosto - email](angela.agosto@adhocteam.us)
 
@@ -94,6 +94,8 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > _"In the VAMC product, there are 140 VA health care systems which encompasses over 2,000 facilities. The VAMC sites are maintained by public officers in the field. Veterans have the ability to subscribe the government delivery notifications. So if a facility is closed, PAOs (Public affair officers) have the ability to essentially check a box that says, send an email message via gov delivery to all of those Veterans who have subscribed for VA gov delivery updates. ...The hypothesis is that Veterans would want instead of or in addition to email updates, to be able to view this in the authenticated experience or receive an email that funnels them into the authenticated experience. But because it's gov delivery, the management and subscription is all done through the gov delivery interface." - Dave Conlon_
 
+> _"There are a handful of things that I think are kind of obvious, like hey there's a change in your claim status, or hey you need to upload a document. We probably already told you via email or text message but if you haven't done it yet, we should tell you [on the website]." - Chris Johnston_
+
 * Matt Dingee has been leading a team who are templatizing form components and digitizing them for VA.gov and they have an email notification through VA Notify that says we received your submission. It might be worth having a record of that on VA.gov.
 
 * Kay Lawyer said that a future notification need for the health team will be filling in the gaps for Veterans scheduling health appointments - like a notification that the scheduling staff needs something from the Veteran in order to confirm the appointment, or a referral is needed, for example. That sort of urgent notification would need to be accompanied by a push notificatio or an email.
@@ -128,9 +130,14 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > _"Certainly there's a lot of different mediums that notifications have to persist across, like if I get a notification via email or text message, I expect that to persist on the mobile app and the website and I expect there to be some connection between those things. So if I get a notification that I have a secure message and I read that message, I don't expect to see that notification as unread anywhere else. I think that Veterans are wanting to trust that these tools are talking to each other." - Lauren Alexanderson_
 
+ _"Being annoying about those things [notifications] and not giving any control can break Veteran trust." - Chris Johnston
+ 
+ > _"We often refer to notification preferences like what they get notified about and where they get notified about it as being valuable and important. I fundamentally believe that's true but there's a fine line between that and too much control. Like when you're presenting people with five pages of stuff they can be notified about and 4 columns [of notification methods] and they're just not gonna do any of it." - Chris Johnston
+
 * Mikki said if you dismiss a notification in one place of VA.gov but it still appears on another page, that would break Veteran trust and create noise.
 * Dave Conlon brought up the PACT Act as an example where notifications could be automatic and intelligent because we know their service history and can send them a notification that they may be eligible, and then provide subsequent notifications if and when they apply for those benefits.
 * The health team said it's important to allow for Veterans to elect preferences for notifications and for us to honor those preferences, because the spectrum is wide of how many notifications Veterans like to receive.
+* Chris Johnston said we can build Veteran trust by proactively notifying them about things they may not be aware of, like if there's a change in their dependent status, their disability payments may change.
 
 **Finding 4**
 
@@ -173,6 +180,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 ## Recommendations
 
 * Schedule a regular touchpoint for all teams working on notifications (like how we used to have one for teams working on debt).
+* Since we heard most OCTO product owners mention needing to give users some control over this feature, we need to put some thought into how to design onsite notification preferences in conjunction with the notification preferences that already exist in the profile. Liz and Angela should begin collaborating on this work.
 
 
 ## Next Steps
