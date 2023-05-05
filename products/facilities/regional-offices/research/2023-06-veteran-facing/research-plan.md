@@ -89,7 +89,7 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 	
 ## Recruitment
 
-Ask Perigean to recruit **4 Veterans, 2 Veteran family members, and 2 caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](). 
+Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](). 
 
 ### Required criteria 
 - **TBD**
@@ -169,8 +169,8 @@ Please list the people who will be serving in each role.
 - Project point of contact: Cindy Merrill
 - Participant(s) for pilot test: TBD and TBD
 - Note-takers: Perigean	(in github)
-- Observers: Jordan Wood (jordan.wood@civicactions.com), Dave Conlon (david.conlon@va.gov), Kamari Patrick (kamari@cityfriends.tech), Dave Pickett (dave.pickett@civicactions.com). Other observers will need to sign up so we can limit the number of observers per session.
+- Observers: Jordan Wood (jordan.wood@civicactions.com), Michelle Middaugh (suzanne.middaugh@va.gov), Kamari Patrick (kamari@cityfriends.tech), Dave Pickett (dave.pickett@civicactions.com). Observers will need to sign up so we can limit the number of observers per session.
 
 ## Approvals
-- Dave Conlon (PO) on TBD
+- Michelle Middaugh or Dave Conlon (PO) on TBD
 - Shane Strassberg on TBD
