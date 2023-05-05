@@ -1,11 +1,20 @@
-# Research Plan for [Team, Product, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for Disability Experience Team, 21-526EZ Landing/Intro pages, 5/5/23
+
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+
+The 526ez form is one of the most used VA forms. However, it's confusing and stressful for Veterans to apply for disability compensation as the  process is rather opaque to the Veteran. The form UX often leaves them feeling anxious and forgotten. The lack of clarity can also lead to mis-ratings, or misunderstanding of ratings, and a snowball of Appeals. Full product summary here.
+
+As a new team, we are priortizing the landing pages of the form which include an /introduction page that is menat to set veteran's expectations for what to expect of the disability claim process and two follow-up pages meant to determine their elligiblity for benefits based on their discharge date. These two newer pages will follow the one-question-per-page style and replace a post-auth /start page which held a wizard asking the same eligibility questions. Past research and heuristic review makes it clear that veterans need more context and insight into this opaque process, so we are hoping to iterate on content and design at the beginnign of the form to set veterans up for successs, foscuing on a few key personas : vets applying for BDD (benefits at discharge), PACT presumptive claims, new claimants, and claimants asking for increase of compensation for a condition that has worsened. 
+
+User goals:
+
+Successfully and easily find the right tool, and submit a claim online
+Successfully submit a claim independently without seeking outside help
+Know what the right kind of evidence is to include in a submission
+Feel supported and cared for, and confident that they’ve put their best case forward
+Have accurate expectations of what’ll happen next
+
 
 [Link to product brief](url goes here).
 
@@ -13,9 +22,17 @@ Briefly describe the background of your product. Consider:
 
 Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
 
+Increase engagement on the online platform
+Reduce errors and ambiguity in submitted claims (thus reducing processing time)
+Build trust with customers (Veterans)
+Reduce VA costs by automating / digitizing where possible
+Briefly describe the background of your product.
+
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
+
+- Getting out
 
 ## Research Goals	
 What are you trying to learn from this research? 
