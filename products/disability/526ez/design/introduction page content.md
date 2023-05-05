@@ -33,7 +33,7 @@ This form is for filing a new claim or a claim for increased disability compensa
 
 If you are filing a new claim after an initial claim for the same or similar benefit was previously decided AND you have new and relevant evidence, you can file a supplemental claim. 
 
-If you disagree with a VA decision, you can request a decision review. Learn more about those options.
+If you disagree with a VA decision, you can <u>request a decision review.</u> 
 
 In addition to this form, there are other forms you may wish or need to complete related to disability benefits. If you apply here online, you will have the option to include in your application the necessary forms for if you are:
 - Claiming Individual Unemployability 
