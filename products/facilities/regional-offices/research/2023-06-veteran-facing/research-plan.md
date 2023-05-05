@@ -2,7 +2,9 @@
 
 ## Background
 
-[Link to product brief]()
+VBA regional office websites are being modernized in order to replace the legacy pages maintained in Teamsite. This effort is intended to incorporate a consistent content model, as well as better support for mobile usage and accessibility.
+
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices)
 
 [Link to card in research repo]()
 
@@ -34,7 +36,7 @@ There are many potential touchpoints between the Veteran and benefits from the V
 - Retiring (Finding additional sources of income)
 
 ## Research Goals	
-The purpose of this research is to **get user feedback on the new design for VBA regional facility pages**.
+The purpose of this research is to **get user feedback on the new modernized design for VBA regional office sites**.
 
 ### Outcome
 Learnings will help refine the design of the pages before piloting an MVP with 7 sites.
@@ -56,11 +58,11 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
 
 ### Hypotheses
 1. Veterans will learn what they can do at a VA benefits office by looking at the new web page.
-2. Veterans will learn how to prepare for a visit to a VA benefits office from the new web page.
+2. Veterans will learn how to plan for a visit to a VA benefits office from the new web page.
 3. ???
 
 ## Method	
-We will conduct **usability testing** to guide research participants through a click-through prototype. 
+We will conduct **usability testing** to guide research participants through a click-through prototype. We would like most participants to be on mobile devices, but we will be unable to accommodate screen reader users because the prototype won't be accessible.
 
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
