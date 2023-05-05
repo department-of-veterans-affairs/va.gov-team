@@ -47,7 +47,7 @@ You may consider submitting other forms if you wish to claim:
 [Learn more about these forms and how to complete them.](https://www.va.gov/disability/how-to-file-claim/additional-forms/)
 
 
-> **Are you a current service member?**
+> **Are you a currently on active duty as a service member?**
 > 
 > Service members who have an illness or injury that was caused or made worse by their active duty service, can use this form to file for disability benefits 90 to 180 days before they leave the military through the Benefits Delivery at Discharge (BDD) program. 
 > 
