@@ -110,6 +110,7 @@ To support your claim, you can upload documentation such as:
 - Supporting statements from family, friends, employers, coworkers, clergy, or law enforcement personnel with knowledge about how and when your conditions occurred or got worse and how it affects you and your ability to work
 If your claim involves a condition that was made worse by service, please provide any information or documentation regarding the condition before your entry into service. 
 
+In addition to asking you to provide information about your condition, we will also ask you about your service and other types of pay you may be receiving (retired, separation, and/or disability severance pay).
 
 
 4. Complete application
