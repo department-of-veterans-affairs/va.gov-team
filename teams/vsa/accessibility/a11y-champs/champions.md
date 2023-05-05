@@ -1,20 +1,22 @@
 # Community Members
 
-## Champion, Level 5
+## Champions Program
 
-- **Robin Garrison**, Front end developer on Benefits Decision Reviews
-
-## Apprentice, Level 4
-
-## Advocate, Level 3
-
-## Tester, Level 2
-
-## Community Members, Level 1
+### Community Members, Level 1
 - **Heather Widmont**, Scrum Master VA Benefits Team 1
 - **Skyler Schain**, UX Designer on Benefits
 - **Rocio De Santiago**, Front end developer on Benefits Decision Reviews
 - **Robert Bailey (Bobby)**, UX/UI Researcher and Designer on the Medical Records team 
+
+### Tester, Level 2
+
+### Advocate, Level 3
+
+### Apprentice, Level 4
+
+### Champion, Level 5
+
+- **Robin Garrison**, Front end developer on Benefits Decision Reviews
 
 
 ## Specialists
