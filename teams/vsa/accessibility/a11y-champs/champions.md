@@ -32,6 +32,11 @@
 - [LinkedIn Profile](www.linkedin.com/in/sarafantauzzismith)
 - Can answer a11y questions relating, but not limited to: accessibility, user experience, user research, analytics and reporting.
 
+**Brian DeConinck**, Accessibility Specialist on Platform Governance
+- brian.deconinck@adhocteam.us, [LinkedIn](https://www.linkedin.com/in/bdeconinck/)
+- Can answer questions on implementing designs in code, semantic HTML, using ARIA (sometimes), and not using ARIA (most of the time).
+- Can also answer questions on VA.gov Platform stuff, eg. experience standards, Collab Cycle processes, and foundational/advanced testing.
+
 ## VA Sponsor
 **Martha Wilkes**, OCTO Accessibility Strategist
 - martha.wilkes@va.gov, [LinkedIn](https://www.linkedin.com/in/marthawilkes/)
