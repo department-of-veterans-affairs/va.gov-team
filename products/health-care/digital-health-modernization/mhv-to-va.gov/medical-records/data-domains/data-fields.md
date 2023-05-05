@@ -35,13 +35,13 @@ The lab and test result section includes the following types of labs and tests.
 
 |Lab type | Suggested label | Notes             | Questions           |
 |:----------------------|:----------------|:------------------|:--------------------|
-|Chemistry/hematology|Chemistry and hematology| |Are these types helpful? These terms are not plain language and difficult to replace or explain in this context. Can we change all non-radiology non-EKG tests to "labs"?|
-|Surgical pathology |Pathology||
-|Cytology|Pathology||
-|Electronic microscopy|Pathology||
-|Microbiology |Microbiology||
-|Radiology |X-rays and imaging tests | 
-|EKG |EKGs (electrocardiograms) |Historical category |Are new EKGs added to medical records? |
+|Chemistry/hematology|Lab| |Are these types helpful? These terms are not plain language and difficult to replace or explain in this context. Can we change all non-radiology non-EKG tests to "labs"?|
+|Surgical pathology |Lab||
+|Cytology|Lab||
+|Electronic microscopy|Lab||
+|Microbiology |Lab||
+|Radiology |Imaging | 
+|EKG |Clinical |Historical category. May want to find more PL label than "clinical" |Are new EKGs added to medical records? |
 
 
 ### Results
