@@ -94,9 +94,13 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > _"In the VAMC product, there are 140 VA health care systems which encompasses over 2,000 facilities. The VAMC sites are maintained by public officers in the field. Veterans have the ability to subscribe the government delivery notifications. So if a facility is closed, PAOs (Public affair officers) have the ability to essentially check a box that says, send an email message via gov delivery to all of those Veterans who have subscribed for VA gov delivery updates. ...The hypothesis is that Veterans would want instead of or in addition to email updates, to be able to view this in the authenticated experience or receive an email that funnels them into the authenticated experience. But because it's gov delivery, the management and subscription is all done through the gov delivery interface." - Dave Conlon_
 
+> _"
+
 * Matt Dingee has been leading a team who are templatizing form components and digitizing them for VA.gov and they have an email notification through VA Notify that says we received your submission. It might be worth having a record of that on VA.gov.
 
-* 
+* Kay Lawyer said that a future notification need for the health team will be filling in the gaps for Veterans scheduling health appointments - like a notification that the scheduling staff needs something from the Veteran in order to confirm the appointment, or a referral is needed, for example. That sort of urgent notification would need to be accompanied by a push notificatio or an email.
+
+* Kristen McConnell said the health team is working on making after-visit summaries available in the health space and that could be something that would need to be surfaced via notification on VA.gov.
 
 **Finding 3**
 
@@ -155,7 +159,8 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 * Luciana manages virtual agent (Chat bot) / main VA 411 number (calling into VA for support) and Chante said we may want to talk to them about any upcoming needs for notifications.
 * Mikki let us know that there will be some changes to the navigation because it's so focused around benefits which hasn't scaled well and there's no logical place for some tools. There may be a new space for those tools. She also said three initiatives will strongly impact the navigation of the site over the next 6 months to 2 years: sitewide crew changes to the unauth content (healthcare and disability content(; MHV functionality moving over to VA.gov; and the authenticated experience work that Liz has started research on. These are iniatives that we will have to consider and teams we'll need to work closely with as we propose solutons for notifications.
 * Jen Ecker shared via Slack that the mobile app supports push notifications for appointment reminders and secure message alerts but they currently kick the user to the homepage of the app and don't deep link. There is a settings feature in the app that lets the user toggle those notifications on or off.
-
+* Ray Wang informed us that security review would be especially important for this work and the collab cycle is currently being altered to include security early on in the cycle instead of just at the end.
+* The appointments team (Peter Russo) did a service design study that produced a user journey for all the touchpoints that a user may have across the appointments space. They found that users may get 15 notifications about their appointment or they may get none. They shared this research with us and after reviewing, it seems to be a research approach that could be useful for diving into specific spaces where there are a lot of touchpoints, like maybe claims and appeals. 
 
 ## Recommendations
 
