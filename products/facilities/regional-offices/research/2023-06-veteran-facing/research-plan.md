@@ -63,7 +63,7 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
 3. ???
 
 ## Method	
-We will conduct **usability testing** to guide research participants through a click-through prototype. We would like most participants to be on mobile devices, but we will be unable to accommodate screen reader users because the prototype won't be accessible.
+We will conduct **usability testing** to guide research participants through a click-through prototype. We would like most participants to be on mobile devices. We will be unable to accommodate screen reader users because the prototype won't be accessible.
 
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
