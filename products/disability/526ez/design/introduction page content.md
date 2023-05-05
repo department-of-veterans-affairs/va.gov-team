@@ -6,11 +6,9 @@ Equal to VA Form 21-526EZ (Application for Disability Compensation and Related C
 
 Use this form to file for disability benefits for an illness or injury that was caused by—or got worse because of—your active military service. This page describes what you need to do to file a new claim or a claim for increased disability compensation.
 
-   [informational alert component or background color only alert with icon component] 
-
-   Toxic exposure and PACT Act 
-
-   The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of conditions we can automatically assume (or “presume”) was caused by your service. If this applies to you, we encourage you to file for benefits now. If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application.
+> [informational alert component or background color only alert with icon component] 
+Toxic exposure and PACT Act 
+The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of conditions we can automatically assume (or “presume”) was caused by your service. If this applies to you, we encourage you to file for benefits now. If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application.
 Learn more about the PACT Act and what is now presumptive
 
 
