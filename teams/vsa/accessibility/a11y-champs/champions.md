@@ -6,9 +6,9 @@
 - **Heather Widmont**, Scrum Master VA Benefits Team 1
 - **Skyler Schain**, UX Designer on Benefits
 - **Rocio De Santiago**, Front end developer on Benefits Decision Reviews
-- **Robert Bailey (Bobby)**, UX/UI Researcher and Designer on the Medical Records team 
 
 ### Tester, Level 2
+- **Robert Bailey (Bobby)**, UX/UI Researcher and Designer on the Medical Records team 
 
 ### Advocate, Level 3
 
