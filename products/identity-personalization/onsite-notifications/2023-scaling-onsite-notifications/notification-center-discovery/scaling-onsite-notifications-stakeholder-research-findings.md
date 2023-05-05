@@ -94,13 +94,13 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > _"In the VAMC product, there are 140 VA health care systems which encompasses over 2,000 facilities. The VAMC sites are maintained by public officers in the field. Veterans have the ability to subscribe the government delivery notifications. So if a facility is closed, PAOs (Public affair officers) have the ability to essentially check a box that says, send an email message via gov delivery to all of those Veterans who have subscribed for VA gov delivery updates. ...The hypothesis is that Veterans would want instead of or in addition to email updates, to be able to view this in the authenticated experience or receive an email that funnels them into the authenticated experience. But because it's gov delivery, the management and subscription is all done through the gov delivery interface." - Dave Conlon_
 
-> _"
-
 * Matt Dingee has been leading a team who are templatizing form components and digitizing them for VA.gov and they have an email notification through VA Notify that says we received your submission. It might be worth having a record of that on VA.gov.
 
 * Kay Lawyer said that a future notification need for the health team will be filling in the gaps for Veterans scheduling health appointments - like a notification that the scheduling staff needs something from the Veteran in order to confirm the appointment, or a referral is needed, for example. That sort of urgent notification would need to be accompanied by a push notificatio or an email.
 
 * Kristen McConnell said the health team is working on making after-visit summaries available in the health space and that could be something that would need to be surfaced via notification on VA.gov.
+
+* Kay Lawyer said a notification that an appointment request has been scheduled might be an easy one to surface on VA.gov. She also said alerting a Veteran that their medication is expiring would be a good candidate, but that does not exist yet and Veterans have to keep track of that themselves.
 
 **Finding 3**
 
@@ -122,9 +122,15 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > _"Especially if they are waiting for something, people obsessively check and we almost enable that obsession. Because traditionally the VA has made decisions at random times, even in the middle of the night. It feels akin to people obsessively playing slot machines because it feels so truly random to them. So people have said on Reddit they have to unistall the app because they were checking all day and all night long. **We don't want to enable or create obsessiveness.** Once these notifications start being really timely and actionable, the timeliness of it - maybe let people schedule them? Maybe let people in a traum-informed way choose not only the method but the time. Also the format - people gets texts, emails, now potentially notifications, so do people want to be bombarded with bad news by three methods? If and when people dismiss it, really dismiss it and don't let it come back even in another format." - Martha Wilkes_
 
+> _"My biggest concern is that with varying EHRs and depending on the technical solution within those spaces there could be a potential for data discrepencies. We're trying to make things easier, use plain language, but they might get a letter out of VistA for example, that calls it a different clinic name and that might cause confusion. We're trying to figure out how we can minimize that for the Veteran so that when they come to our site, they know that what they see is true and accurate." - Kay Lawyer_
+
+> _"There's so many different notifications that we can send, but if we do too many, then eventually that becomes noise." - Kristen McConnell
+
+> _"Certainly there's a lot of different mediums that notifications have to persist across, like if I get a notification via email or text message, I expect that to persist on the mobile app and the website and I expect there to be some connection between those things. So if I get a notification that I have a secure message and I read that message, I don't expect to see that notification as unread anywhere else. I think that Veterans are wanting to trust that these tools are talking to each other." - Lauren Alexanderson_
+
 * Mikki said if you dismiss a notification in one place of VA.gov but it still appears on another page, that would break Veteran trust and create noise.
 * Dave Conlon brought up the PACT Act as an example where notifications could be automatic and intelligent because we know their service history and can send them a notification that they may be eligible, and then provide subsequent notifications if and when they apply for those benefits.
-* 
+* The health team said it's important to allow for Veterans to elect preferences for notifications and for us to honor those preferences, because the spectrum is wide of how many notifications Veterans like to receive.
 
 **Finding 4**
 
@@ -161,10 +167,12 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 * Jen Ecker shared via Slack that the mobile app supports push notifications for appointment reminders and secure message alerts but they currently kick the user to the homepage of the app and don't deep link. There is a settings feature in the app that lets the user toggle those notifications on or off.
 * Ray Wang informed us that security review would be especially important for this work and the collab cycle is currently being altered to include security early on in the cycle instead of just at the end.
 * The appointments team (Peter Russo) did a service design study that produced a user journey for all the touchpoints that a user may have across the appointments space. They found that users may get 15 notifications about their appointment or they may get none. They shared this research with us and after reviewing, it seems to be a research approach that could be useful for diving into specific spaces where there are a lot of touchpoints, like maybe claims and appeals. 
+* Kristen McConnell said that as of now, My HealtheVet is set to be sunsetted by October 2024.
+* **Lauren Alexanderson said she would like to see all the teams who are working on notification-related work to collaborate continuously.**
 
 ## Recommendations
 
-* 
+* Schedule a regular touchpoint for all teams working on notifications (like how we used to have one for teams working on debt).
 
 
 ## Next Steps
