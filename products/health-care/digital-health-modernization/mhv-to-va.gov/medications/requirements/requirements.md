@@ -28,7 +28,7 @@ This document lays out the requirements for the MVP version of Medications on VA
 9. As a user, I can view key data about a medication, some of which is outlined in VHA Directive 1164. 
    * Name of drug
    * Strength/dosage of drug
-   * Instructions/directions for use
+   * Instructions/directions for use (referred to as Indications and SIG)
    * Source of medication information (VA, Non-VA, Remote)
    * Non-1164 requirements
      * Date prescription was ordered
