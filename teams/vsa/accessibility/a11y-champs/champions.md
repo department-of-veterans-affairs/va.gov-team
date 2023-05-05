@@ -37,6 +37,10 @@
 - Can answer questions on implementing designs in code, semantic HTML, using ARIA (sometimes), and not using ARIA (most of the time).
 - Can also answer questions on VA.gov Platform stuff, eg. experience standards, Collab Cycle processes, and foundational/advanced testing.
 
+**Jeana Clark**, UX Designer & Accessibility Specialist on the VA Forms team
+- jeana.clark@adhocteam.us, [LinkedIn](https://www.linkedin.com/in/jeanaclark/)
+- Can answer questions on semantic html, annotations, and VA Forms
+
 ## VA Sponsor
 **Martha Wilkes**, OCTO Accessibility Strategist
 - martha.wilkes@va.gov, [LinkedIn](https://www.linkedin.com/in/marthawilkes/)
