@@ -41,6 +41,10 @@
 - jeana.clark@adhocteam.us, [LinkedIn](https://www.linkedin.com/in/jeanaclark/)
 - Can answer questions on semantic html, annotations, and VA Forms
 
+**Laura Flannery**, Accessibility Lead on Sitewide
+- laura.flannery@civicactions.com, [LinkedIn](https://www.linkedin.com/in/lauraflannery/)
+- Can answer questions on semantic html, aria and VA.gov Drupal CMS
+
 ## VA Sponsor
 **Martha Wilkes**, OCTO Accessibility Strategist
 - martha.wilkes@va.gov, [LinkedIn](https://www.linkedin.com/in/marthawilkes/)
