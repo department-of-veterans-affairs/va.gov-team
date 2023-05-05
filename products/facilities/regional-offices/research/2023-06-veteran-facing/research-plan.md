@@ -53,8 +53,7 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
      2. What do they expect when they call?
 7. What do Veterans expect to find in the Pension section under "Services offered"?
 8. Do Veterans understand their options for getting service (i.e., walk-in _vs._ in-person _vs._ virtual appointments)?
-9. Do Veterans have any questions about the hours of operation (i.e., multiple sets of them, comments)?
-10. 
+9. Do Veterans have any confusion/comments about the hours of operation (i.e., multiple sets of them, comments)?
 
 
 ### Hypotheses
