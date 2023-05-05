@@ -8,7 +8,7 @@ Use this form to file for disability benefits for an illness or injury that was 
 
 
 > Toxic exposure and PACT Act 
-The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of conditions we can automatically assume (or “presume”) was caused by your service. If this applies to you, we encourage you to file for benefits now. If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application.
+> The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of conditions we can automatically assume (or “presume”) was caused by your service. If this applies to you, we encourage you to file for benefits now. If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application.
 Learn more about the PACT Act and what is now presumptive
 
 
