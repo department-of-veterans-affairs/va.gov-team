@@ -7,13 +7,13 @@ Equal to VA Form 21-526EZ (Application for Disability Compensation and Related C
 Use this form to file for disability benefits for an illness or injury that was caused by—or got worse because of—your active military service. This page describes what you need to do to file a new claim or a claim for increased disability compensation.
 
 
-> Toxic exposure and PACT Act
+> **Toxic exposure and PACT Act**
 > 
 > The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of conditions we can automatically assume (or “presume”) was caused by your service. **If this applies to you, we encourage you to file for benefits now.** If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application.
 [Learn more about the PACT Act and what is now presumptive](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
 
    
-> Have you already started your application?
+> **Have you already started your application?**
 > 
 > [button] Sign in to start or continue your application
 
@@ -47,7 +47,7 @@ You may consider submitting other forms if you wish to claim:
 [Learn more about these forms and how to complete them.](https://www.va.gov/disability/how-to-file-claim/additional-forms/)
 
 
-> Are you a current service member?
+> **Are you a current service member?**
 > 
 > Service members who have an illness or injury that was caused or made worse by their active duty service, can use this form to file for disability benefits 90 to 180 days before they leave the military through the Benefits Delivery at Discharge (BDD) program. 
 > 
@@ -85,7 +85,7 @@ While processing your claim we will review relevant medical records that you ide
 We strongly encourage you to submit documentation as soon as you can to help us understand how your injury or illness is connected to your service, and how the condition impacts you and your ability to work. If we previously granted you benefits, and your condition has worsened, we need documentation that shows that increase in severity and the effect that worsening has had on you and your ability to work.
 
 
-> Toxic exposure and PACT Act
+> **Toxic exposure and PACT Act**
 > 
 > To get a disability rating, we need to see that your condition connects to your military service. For many conditions we need documentation to see this, but for some conditions we can automatically assume (or “presume”) that your service caused your condition. **If you have what we call a presumptive condition, we don’t need documents showing service caused the condition.** 
 >    
@@ -121,7 +121,7 @@ If you want to submit additional documentation after you submit your claim, you 
 
 
 
-> Sign in to start or save your work in progress
+> **Sign in to start or save your work in progress**
 > 
 > Here’s how signing in now helps you:
     - By starting an application, you let us know you intend to file a claim, which holds a potential effective date for when you could start getting benefits.
