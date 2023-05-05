@@ -136,9 +136,9 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > _"Certainly there's a lot of different mediums that notifications have to persist across, like if I get a notification via email or text message, I expect that to persist on the mobile app and the website and I expect there to be some connection between those things. So if I get a notification that I have a secure message and I read that message, I don't expect to see that notification as unread anywhere else. **I think that Veterans are wanting to trust that these tools are talking to each other.**" - Lauren Alexanderson_
 
- _"Being annoying about those things [notifications] and not giving any control can break Veteran trust." - Chris Johnston
+ > _"Being annoying about those things [notifications] and not giving any control can break Veteran trust." - Chris Johnston_
  
- > _"We often refer to notification preferences like what they get notified about and where they get notified about it as being valuable and important. I fundamentally believe that's true but there's a fine line between that and too much control. Like when you're presenting people with five pages of stuff they can be notified about and 4 columns [of notification methods] and they're just not gonna do any of it." - Chris Johnston
+ > _"We often refer to notification preferences like what they get notified about and where they get notified about it as being valuable and important. I fundamentally believe that's true but there's a fine line between that and too much control. Like when you're presenting people with five pages of stuff they can be notified about and 4 columns [of notification methods] and they're just not gonna do any of it." - Chris Johnston_
 
 * Mikki said if you dismiss a notification in one place of VA.gov but it still appears on another page, that would break Veteran trust and create noise.
 * The health team said it's important to allow for Veterans to elect preferences for notifications and for us to honor those preferences, because the spectrum is wide of how many notifications Veterans like to receive.
@@ -168,7 +168,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 > _"When you're a screen reader user, how do you alert them without bugging them? There's a fine line between we're telling you about something and now we're nagging you about it. And that's for people who can see the thing as well as hear the thing. It will be an especially challenging design problem to alert people at the right momemt and let them manage that alert but be able to bring it back if they want to. As a sighted peson, you can see the little bell icon that you have a notification and you can choose to ignore it. As a blind person, how would I know about that but not be annoyed by it? **We'll need to check in with folks who use assistive tech early on** because that will be key to this experience." - Martha Wilkes_
 
-> _"These things are so personal and core to people's lives, their finances, their health, their claims, especially if they get denied. **These notifications are the first step, first potential trigger of a traumatic situation for them if it was a negative answer.** If that notification comes through and they were denied, especially for MST survivors, that's like the VA has told them, we don't believe it happened. So it's just not this little text message. Some people had to suffer for years and finally get the courage to apply for a thing. To just see that in a little text message, I don't know. We could probably put some thought behind that and I trust you guys to do that.
+> _"These things are so personal and core to people's lives, their finances, their health, their claims, especially if they get denied. **These notifications are the first step, first potential trigger of a traumatic situation for them if it was a negative answer.** If that notification comes through and they were denied, especially for MST survivors, that's like the VA has told them, we don't believe it happened. So it's just not this little text message. Some people had to suffer for years and finally get the courage to apply for a thing. To just see that in a little text message, I don't know. We could probably put some thought behind that and I trust you guys to do that." - Martha Wilkes_
 
 * Martha said she's not sure if it's against accessibility best practices to have a very different unauth and auth experience and we would need to do research to determine that. She said it's possible that the difference is actually **too** subtle now and hard for both sighted an blind users to tell they are logged in.
 * Martha said Karen Cuthright would be a good person to talk to if we want more insight into MST survivors.
@@ -197,10 +197,10 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 ## Next Steps
 
-* The Authenticated Experience team should:
- * Schedule a biweekly (?) touchpoint for teams working in the notification space: health team, appointments, and claims and appeals. Any others?
- * Angela and Liz should collaborate on notification preferences.
- * Angela should record options and pros and cons to each for how and where to present notifications on VA.gov in Mural and present that to the team with recommendations of which options make the most sense to pursue in usability research.
+- The Authenticated Experience team should:
+ - Schedule a biweekly touchpoint for teams working in the notification space: health team, appointments, and claims and appeals. Any others?
+ - Angela and Liz should collaborate on notification preferences.
+ - Angela should record options and pros and cons to each for how and where to present notifications on VA.gov in Mural and present that to the team with recommendations of which options make the most sense to pursue in usability research.
 
 
 ## Further research needed
