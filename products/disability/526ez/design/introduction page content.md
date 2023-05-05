@@ -145,6 +145,8 @@ Are you on active duty right now?
 Yes
 No
 
+> We’ve saved your application. It was last saved on December 2, 2022, at 5:25 p.m. EST. Your application ID number is 15428. You can continue your saved application at a later time by viewing benefit application drafts in My VA.
+
 
 
 ## Service end date content: [if yes to active duty]
