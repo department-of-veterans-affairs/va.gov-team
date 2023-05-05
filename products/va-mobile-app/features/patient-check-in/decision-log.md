@@ -31,5 +31,5 @@ It explains the reasons for each decision, so team members can identify their or
 | What cadence will the Check-In and Mobile have for communicating?  |   |
 | Does Check-In Team already have a monitoring dashboad (OKR, KPIs, performance, etc) that Mobile can leverage or does Mobile need to create their own? | |
 | Where should cross-team metrics around check-in live long term?  | |
-| Will we spend time defining shared and separate success for Check-in? | |
+| Will we spend time defining shared and separate success for Check-in and exactly which data points will be used? | |
 | Web team artifact Check in demo video - can Web shared this outside of Sharepoint? Mobile is running into issues accessing it so looking for another manner to access this artifact| |
