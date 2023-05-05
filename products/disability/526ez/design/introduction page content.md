@@ -9,7 +9,7 @@ Use this form to file for disability benefits for an illness or injury that was 
 
 > Toxic exposure and PACT Act
 > 
-> The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of conditions we can automatically assume (or “presume”) was caused by your service. If this applies to you, we encourage you to file for benefits now. If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application.
+> The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of conditions we can automatically assume (or “presume”) was caused by your service. **If this applies to you, we encourage you to file for benefits now.** If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application.
 [Learn more about the PACT Act and what is now presumptive](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
 
    
@@ -23,8 +23,8 @@ Follow the steps below to file a claim for a new or secondary condition or for i
 1. Determine if this form is for you 
 
 This form is for you if you’ve served (on active duty, active duty for training, or inactive duty training), you have a current illness or injury (known as a condition) that affects your mind or body, and:
-- You got sick or injured while serving (this is called a service-connected disability), or
-- You had an illness or injury before you served and serving made it worse, or
+- You got sick or injured while serving (this is called a service-connected disability), **or**
+- You had an illness or injury before you served and serving made it worse, **or**
 - A service-connected illness or injury you already have has caused a new injury or illness
 This form is for filing a new claim or a claim for increased disability compensation for a claim decided more than one year ago. [Get more information about eligibility for disability compensation.](https://www.va.gov/disability/eligibility/)
 
@@ -70,7 +70,7 @@ You may wish to contact an accredited veterans service officer (VSO) to assist y
 > 
 > If your condition was present when you separated from the military, and we receive your claim before or within one year of that separation, the effective date will be from the day following the date of your separation.
 > 
-> When you start your application here and now, you’ll declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You have 1 year from the day you submit your intent to file to complete your application.
+> **When you start your application here and now, you’ll declare your intent to file. This will reserve a potential effective date for when you could start getting benefits.** You have 1 year from the day you submit your intent to file to complete your application.
 
 
 
@@ -87,9 +87,9 @@ We strongly encourage you to submit documentation as soon as you can to help us 
 
 > Toxic exposure and PACT Act
 > 
-> To get a disability rating, we need to see that your condition connects to your military service. For many conditions we need documentation to see this, but for some conditions we can automatically assume (or “presume”) that your service caused your condition. If you have what we call a presumptive condition, we don’t need documents showing service caused the condition. 
+> To get a disability rating, we need to see that your condition connects to your military service. For many conditions we need documentation to see this, but for some conditions we can automatically assume (or “presume”) that your service caused your condition. **If you have what we call a presumptive condition, we don’t need documents showing service caused the condition.** 
 >    
-> The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of presumptive conditions. If this applies to you, we encourage you to file for benefits now. If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application.
+> The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of presumptive conditions. **If this applies to you, we encourage you to file for benefits now.** If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application.
 >   
 > To support a claim for presumptive service connection, you only need to submit documentation showing you served in a location and/or you have a current condition that qualifies you for the presumption. [Learn more about the PACT Act and what is now presumptive](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
    
@@ -161,7 +161,7 @@ Year:
 > 
 > Based on your separation date, you can apply for benefits now (using VA Form 21-526EZ).
 > 
-> Select ‘continue’ to start now and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You will have 1 year from the day you submit your intent to file to complete your application.
+> **Select ‘continue’ to start now and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits.** You will have 1 year from the day you submit your intent to file to complete your application.
 
 
 > [background color only alert component if date between 90-180 days]
@@ -170,7 +170,7 @@ Year:
 > 
 > You have x days left (until x) to complete and submit this form and apply under the BDD program. 
 > 
-> After that date, you can apply for benefits here (using VA Form 21-526EZ). We recommend you return here as soon as you can to start and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You will have 1 year from the day you submit your intent to file to complete your application.
+> After that date, you can apply for benefits here (using VA Form 21-526EZ). **We recommend you return here as soon as you can to start and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits.** You will have 1 year from the day you submit your intent to file to complete your application.
 > 
 > Select ‘continue’ to apply now.
 > 
@@ -183,4 +183,4 @@ Year:
 > 
 > In x days (on x), you can apply here for benefits under the Benefits Delivery at Discharge (BDD) program. [Learn more about the BDD program.](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/)
 > 
-> After x, you can apply for benefits here (using VA Form 21-526EZ). We recommend you return here as soon as you can to start and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You will have 1 year from the day you submit your intent to file to complete your application.
+> After x, you can apply for benefits here (using VA Form 21-526EZ). **We recommend you return here as soon as you can to start and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits.** You will have 1 year from the day you submit your intent to file to complete your application.
