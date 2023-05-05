@@ -198,9 +198,9 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 ## Next Steps
 
 - The Authenticated Experience team should:
- - Schedule a biweekly touchpoint for teams working in the notification space: health team, appointments, and claims and appeals. Any others?
- - Angela and Liz should collaborate on notification preferences.
- - Angela should record options and pros and cons to each for how and where to present notifications on VA.gov in Mural and present that to the team with recommendations of which options make the most sense to pursue in usability research.
+  - Schedule a biweekly touchpoint for teams working in the notification space: health team, appointments, and claims and appeals. Any others?
+  - Angela and Liz should collaborate on notification preferences.
+  - Angela should record options and pros and cons to each for how and where to present notifications on VA.gov in Mural and present that to the team with recommendations of which options make the most sense to pursue in usability research.
 
 
 ## Further research needed
