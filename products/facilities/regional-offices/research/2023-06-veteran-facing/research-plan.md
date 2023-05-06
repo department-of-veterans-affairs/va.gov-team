@@ -73,11 +73,11 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 
 ### Ideas for Conversation Guide
 - Warm up questions about what regional benefit offices are, whether you've been to one before, what you might do there or have done there before, what you'd do before your visit (search for info online? where?)
-- If you wanted to visit a VA benefit office near you, what would you do? (google? VA.gov > facility locator?) 
+- If you wanted to visit a VA benefit office near you, what would you do? (wayfinding via google? VA.gov > facility locator?) 
 - How could you find out whether it could help you with X? _(applying for disability compensation?)_
 - Open prototype, and tell me your impressions of this page (regional benefit office)
 - How could you figure out whether it could help you with X?
-- To make this happen, what would you do next (make appt, figure out how to get there, learn what to bring and gather it)
+- To make this happen, what would you do next (check hours, make appt, figure out how to get there, learn what to bring and gather it)
 - How to find the benefit office in the building? call?
 - How could you talk to someone at the VA about whether the VA will pay for more school for you?  
 - Ask at end after saw prototype: What do you think you can do from this VA office? 
