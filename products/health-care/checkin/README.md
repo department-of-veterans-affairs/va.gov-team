@@ -1,8 +1,10 @@
 # MODERNIZED CHECK-IN TEAM HOME PAGE
 - [Team Members](#team-members)
 - [Product](#product)
-- [Backlog and Roadmap](#backlog-and-roadmap)
+- [Priorities and Backlog](#priorities-and-backlog)
 - [Production Wireframes in VA Sketch Cloud](#production-wireframes-in-va-sketch-cloud)
+- [Content](#content)
+- [Testing](#testing)
 - [Releases](#releases)
 - [Process](#process)
 - [Discovery and Research](#discovery-and-research)
@@ -35,15 +37,22 @@
 - [Known Issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/known-issues.md)
 - [Google Analytics Events](https://docs.google.com/spreadsheets/d/1BPOlI6vzH-tMTswvUrci3Q0NkBmfIIfo8Cgj_nM10gk/edit#gid=0)
 
-## Backlog and Roadmap
+## Priorities & Backlog
 - [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531667299/7e7c858244db550198c2f8f29f6e2919eec44d9e?sender=uc584f7fcc9a5090000259578)
 - [Scrum Board](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/board?repos=133843125)
-- [~VSE/PCI/API/CIE Combined Roadmap~](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1635785913758/7351da6401af534be67689371f2108f3b0d3c3ec?sender=e4aa18d2-ce7d-41e6-8912-592ed5f9610a)
 
 ## Production Wireframes in VA Sketch Cloud
 - [In person Pre-Check-in](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/prototype/a/BE60720E-7D9D-46BD-AF86-6332C23E7D8B) in Sketch Cloud
 - [In person Check-in](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/9F9F9F9F-E205-4F5E-9177-DD4AD750828C) in Sketch Cloud
 - [Telephone Pre-Check-in](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/prototype/a/407FA16E-4716-43C8-8898-B25F96F61001) in Sketch Cloud
+
+## Content
+- [Text & Error Messages: Source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/text-and-error-messages.md)
+
+## Testing
+- [Facility Directory](https://www.va.gov/directory/guide/rpt_fac_list.cfm?sort=Sta&list_by=all&oid=all)
+- [Testing Setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md)
+- [Testing for Travel Claim](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4fb13e011b8bdea026e3f39e669602de356c3104/products/health-care/beneficiary-travel/engineering/test.data.md)
 
 ## Releases 
 - [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md)
