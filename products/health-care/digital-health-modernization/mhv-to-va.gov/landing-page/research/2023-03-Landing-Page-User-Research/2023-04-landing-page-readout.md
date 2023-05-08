@@ -6,7 +6,9 @@
 Date: 04/24/2023
 
 Jonathan Nelson [jonathan.nelson@adhocteam.us], Robyn Singleton [robyn.singleton@va.gov], Cara Frissell [cara.frissell@adhocteam.us] 
-TBD_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+
+[Research readout](link here)
+
 <br>
 
 
