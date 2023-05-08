@@ -276,7 +276,7 @@ Please list the people who will be serving in each role. **Include the primary p
     
 -   Participant recruiting & screening: [Charlotte Cesana](mailto:charlotte@cityfriends.tech), [Megan Gayle](mailto:megan.gayle@govcio.com)
     
--   Project point of contact: [Charlotte Cesana](mailto:charlotte@cityfriends.tech), [Megan Gayle](mailto:megan.gayle@gcio.com)
+-   Project point of contact: [Charlotte Cesana](mailto:charlotte@cityfriends.tech), [Megan Gayle](mailto:megan.gayle@govcio.com)
     
 -   Participant(s) for pilot test: TBD
     
@@ -284,5 +284,5 @@ Please list the people who will be serving in each role. **Include the primary p
     
 -   Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
 
-	megan.gayle@gcio.com, joseph@cityfriends.tech, charlotte@cityfriends.tech, denise.coveyduc@va.com, heather.rienks@va.gov, matthew.self2@va.gov, jill.anderson3@va.gov, andrew.rodiek@govcio.com, brandyn.sullins@govcio.com, aaron.ponce@agile6.com, scott.james@govcio.com, kevin.suarez@agile6.com, thomas.davis@govcio.com
+	megan.gayle@govcio.com, joseph@cityfriends.tech, charlotte@cityfriends.tech, denise.coveyduc@va.com, heather.rienks@agile6.com, matthew.self2@va.gov, jill.anderson3@va.gov, andrew.rodiek@govcio.com, brandyn.sullins@govcio.com, aaron.ponce@agile6.com, scott.james@govcio.com, kevin.suarez@agile6.com, thomas.davis@govcio.com
 
