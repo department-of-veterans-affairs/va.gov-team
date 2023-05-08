@@ -60,14 +60,15 @@ Consider bucketing research questions under research goals. For each question, t
 - Clarity and comrehension : Do veterans understand the process for filing claims, what is needed, who is elligile, what needs to be done online in the digital form vs offline? Do veterans understand specific terminology in its context e.g. conidition vs disability, evidence, etc. 
 - Preparedness and confidence: Do vets feel prepared after going through the initial steps of the form to continue to beginning the form? What other information do they need provided upfront? What information can be de-prioritized to aid in info digestion?
 - Trust: Do veterans feel the VA is doing its due diligence in getting them the compensation they need?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
 ### Hypothesis
 We believe the redesigned landing pages will improve veteran's confidence and sense of preparedness when entering the form.
 
 ## Methodology	 
 
-Conducting usability tests on desktop and mobile to evaluate design/content changes made to the beginning of the form and discover any other painpoints in that area. 
+Conducting usability tests on desktop and mobile to evaluate design/content changes made to the form landing pages and discover any other painpoints in that area
 
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
