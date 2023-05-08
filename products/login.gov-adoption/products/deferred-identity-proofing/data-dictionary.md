@@ -232,6 +232,20 @@ Following is the list of all fields in the dataset and any unique characteristic
    </td>
   </tr>
   <tr>
+   <td>id
+   </td>
+   <td>Number
+   </td>
+   <td>unique, not null
+   </td>
+   <td>Ten digits, starting with 1000000000
+   </td>
+   <td>A synthetic ID, using _data tokenization_, in place of SECID or ICN, for removal of PII. This is MHV.id if present, otherwise MPI.id.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
    <td>MPI.id
    </td>
    <td>Number
@@ -1014,7 +1028,7 @@ See notes above about ID.me and DS Logon accounts.
    </td>
    <td>1 or 0
    </td>
-   <td>True if 1.  This is a convenience field for reports and reports true for the 200MH or 200VIDM-IDME_MHV.
+   <td>True if 1.  This is a convenience field for reports and reports true if MHV-All.id exists.
    </td>
    <td>
    </td>
