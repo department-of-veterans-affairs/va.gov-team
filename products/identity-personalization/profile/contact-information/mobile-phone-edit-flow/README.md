@@ -1,20 +1,34 @@
 # Project Outline: Mobile Phone Edit Flow
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
 
----
 
 ## Overview
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
 
+ - *Product: VA.gov Profile*
+   - *Initiatives: enhance the user experience when updating mobile phone number. 
+
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+Currently a mobile phone number is required in order to access the notification settings within the profile. For users who do not have a mobile phone number, the profile immediately shows the users a message advising them to input a mobile number in order to access the notification settings:
+![image](https://user-images.githubusercontent.com/129431463/236836710-59d5264e-91ce-4da8-8622-220e88da1ac2.png)
+
+If they select the link today, this jumps them to the contact information and scrolls them down the screen to the mobile phone number section where they then have to select edit and input their information followed by the need to navigate BACK to the original page they wanted to use, Notification Settings. This is a very jarring process, many users were confused by the jump from one part of the profile to another and it requires the user to remember several layers of information in order to update their profile and return to their original workflow.  
+
+How we might resolve this would be through a reimagined flow in order to reduce confusion to avoid disorienting the user. 
  
 ## Desired User Outcomes
+We're looking to design a new workflow that will allow a user to input their mobile phone without jumping to different parts of the profile thereby reducing confusion and streamlining the process for gaining access to the Notification Settings. 
+
+Ideally, when a user navigates to the Notification Settings page and they see the CTA requiring them to input a mobile number, clicking the "Add a mobile phone number to your profile" link will jump the user to a new page that focuses exclusevly on the mobile number. 
+
+This new process avoids context switching that exists within the old workflow. 
 
 - *Why would a user want to use this?*
+Users will use this when they need to add a mobile phone number in order to access the Notification Settings within the Profile 
+
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+Users will more easily be able to update their mobile phone number in order to make use of the Notification Settings available within the Profile. 
 
 ## Undesired User Outcomes
 
@@ -22,7 +36,9 @@
 ## Desired Business Outcomes
 
 - *Why would your business want this to exist?*
+
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+We'll hopefully see a reduced number of calls to the VA where users are seeking support to figure out how to update their Notification Settings. 
 
 ## Undesired Business Outcomes
 
