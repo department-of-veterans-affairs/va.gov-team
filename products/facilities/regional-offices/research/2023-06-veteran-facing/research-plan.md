@@ -42,6 +42,9 @@ The purpose of this research is to **get user feedback on the new modernized des
 Learnings will help refine the design of the pages before piloting an MVP with 7 sites.
 
 ### Research questions
+1. Do Veterans understand which services are available at this location?
+1. Do Veterans understand how services are delivered at this location (in-person, virtual, or by phone)?
+1. Do Veterans understand the actions they need to take to receive the service (make an appointment, walk-in, bring required documents, etc.)?
 1. What do Veterans know about VA regional benefit offices?
      1. What tasks do Veterans expect to do at VA regional benefit offices?
      2. What do Veterans expect to find on a web page about a VA regional benefit office?
