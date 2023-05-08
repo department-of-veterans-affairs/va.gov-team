@@ -40,7 +40,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 - [1 iOS VoiceOver user (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p15.md)
 - [1 desktop zoom text reader user (magnification, screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p1.md)
 
-## Key findings and recommendations
+## Key Findings
 Add screenshots images, everything here.
 
 ### Finding 1
@@ -56,14 +56,13 @@ Add screenshots images, everything here.
 - They can help add some more info
 
 
-## Feedback & Recommendations
+## User Feedback & a11y Recommendations
 
 ### Veterans' Voices: Impactful Quotes 
 This section is for quotes. ⚠️ Participants should be referenced by number only, please.
 In this section feel free to segment populations based on the trends we see with certain user types.
 
 > "Quote goes here." - P54
-
 
 #### We don't have enough data or research to know...
 Point out the gaps
@@ -79,14 +78,13 @@ x
 x
 
 #### Alternative Option
-**We don't have enough data or research to know...
-**
-Point out the gaps.
+_We don't have enough data or research to know._
+_Point out the gaps._
 
 ## Other considerations and findings 
 
 ### A finding that may not be relevant to the study, but worth talking about
-Add images and stuff to back it up
+Include images as needed.
 
 ## List of caught defects and issues
 
