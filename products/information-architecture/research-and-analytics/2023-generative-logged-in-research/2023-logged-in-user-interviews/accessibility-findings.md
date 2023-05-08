@@ -150,6 +150,7 @@ https://user-images.githubusercontent.com/14154792/234063847-611f07e6-58a0-4236-
 - [ ] Plan for or prioritize research with ZoomText users for upcoming studies
   - [ ] Experiment with survey questions to get a mix of zoom levels, preferably at higher magnification levels (you can work with a11y specialists here or we could collaborate with Tim from BVA)
 - [ ] Inform Julie Strothman of ZoomText usability considerations for Design System accessibility component review
+- [ ] Inform Robyn Singleton of future inclusive research considerations
 - [ ] Encourage further testing or research with modals with Veterans who use ZoomText and screen readers in your research readout
 
 ## References
