@@ -111,7 +111,8 @@ Before writing your recruitment criteria, be sure to review the following resour
 - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
+
+Use Perigea to recruit veterans and active duty service members no more than one year from discharge. 
 
 Pro tip:
 - For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
@@ -122,6 +123,18 @@ Which inclusive research strategies are you leveraging for this study? OCTO reco
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+
+**For desktop prototype (6):**
+At least three use desktop primarily/ proficient with desktop 
+At least three who are age 55 or over 
+At least three who are at most one year from discharge 
+
+
+**For mobile protoype (6):**
+At least three use mobile primarily/ proficient with mobile 
+At least three (3) 55 or over 
+At least three who are filing for / have filed for a presumptive claim
+
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
