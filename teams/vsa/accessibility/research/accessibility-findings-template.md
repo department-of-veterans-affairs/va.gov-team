@@ -2,6 +2,7 @@
 - **Study Name:** Project Name (ex. MHV Authenticated Experience)
 - **Study Dates:** (can be month study was held or specific)
 - **Study Research Lead:**
+- **A11y Collaborators:**
 - **Related Docs:** Link to research plan and communication guide - or link to project's GitHub link?
 - **Ticket Links:** EPIC and/or CAIA research assistance request ticket
 
@@ -41,7 +42,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 - [1 desktop zoom text reader user (magnification, screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p1.md)
 
 ## Key Findings
-Add screenshots images, everything here.
+Add screenshots, images and videos here.
 
 ### Finding 1
 - Feel free to include bullets
@@ -56,7 +57,7 @@ Add screenshots images, everything here.
 - They can help add some more info
 
 
-## User Feedback & a11y Recommendations
+## User Feedback
 
 ### Veterans' Voices: Impactful Quotes 
 This section is for quotes. ⚠️ Participants should be referenced by number only, please.
@@ -64,37 +65,35 @@ In this section feel free to segment populations based on the trends we see with
 
 > "Quote goes here." - P54
 
-#### We don't have enough data or research to know...
+## a11y Recommendations
+Overview summary goes here. 
+
+### If we don't have enough data or research to know...
 Point out the gaps
 
 ## Next Steps
 A list of actionable findings, based on time-sensitive, priority needs. Images, videos, links, screenshots and notes provided as deemed approprite. 
 
 ### Complete Now
-x
+- x
 ### Complete Soon
-x
+- x
 ### Complete Later
-x
-
-#### Alternative Option
-_We don't have enough data or research to know._
-_Point out the gaps._
+- x
 
 ## Other considerations and findings 
 
-### A finding that may not be relevant to the study, but worth talking about
-Include images as needed.
+_A finding that may not be relevant to the study, but worth talking about. Include images as needed._
 
-## List of caught defects and issues
+### List of caught defects and issues
 
-### Relevant to this team
+#### Relevant to this team
 - [ ] Description of issue and how to replicate
 
-### Belongs to other teams
+#### Belongs to other teams
 - [ ] Description of issue and how to replicate
 
-### Design system
+#### Design system
 - [ ] Description of issue and how to replicate
 
 ## References
