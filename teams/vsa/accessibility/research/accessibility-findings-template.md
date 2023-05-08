@@ -25,7 +25,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
-| _P1_                   | 5/8/2023         | _JAWS_             | _Advanced_      | _Windows_            | _Chrome_    | _Mobile_      |
+| _P54 (example)_                   | 5/8/2023         | _JAWS_             | _Advanced_      | _Windows_            | _Chrome_    | _Mobile_      |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
@@ -62,6 +62,9 @@ Add screenshots images, everything here.
 This section is for quotes. ⚠️ Participants should be referenced by number only, please.
 In this section feel free to segment populations based on the trends we see with certain user types.
 
+> "Quote goes here." - P54
+
+
 #### We don't have enough data or research to know...
 Point out the gaps
 
@@ -75,8 +78,10 @@ x
 ### Complete Later
 x
 
-#### We don't have enough data or research to know...
-Point out the gaps too.
+#### Alternative Option
+**We don't have enough data or research to know...
+**
+Point out the gaps.
 
 ## Other considerations and findings 
 
