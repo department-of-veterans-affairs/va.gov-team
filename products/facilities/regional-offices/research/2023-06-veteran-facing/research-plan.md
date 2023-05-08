@@ -43,21 +43,21 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
 
 ### Research questions
 1. Do Veterans understand which services are available at this location?
-1. Do Veterans understand how services are delivered at this location (in-person, virtual, or by phone)?
-1. Do Veterans understand the actions they need to take to receive the service (make an appointment, walk-in, bring required documents, etc.)?
-1. What do Veterans know about VA regional benefit offices?
+1. Do Veterans understand how services are delivered at this location?
+     1. In-person, virtual, or by phone
+     1. With or without appointments
+     2. Hours of operation
+3. Do Veterans understand the actions they need to take to receive the service (make an appointment, walk-in, bring required documents, etc.)?
+4. What do Veterans know about VA regional benefit offices?
      1. What tasks do Veterans expect to do at VA regional benefit offices?
      2. What do Veterans expect to find on a web page about a VA regional benefit office?
-3. What feedback do Veterans have on content, organization, and length of the regional benefit office web page?
-5. When prompted with specific tasks, do Veterans navigate to the correct service accordion and find the correct next steps? 
-5. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones? Are these "top tasks"?
-6. How do Veterans react to seeing 2 phone numbers?
+5. What feedback do Veterans have on content, organization, and length of the regional benefit office web page?
+6. When prompted with specific tasks, do Veterans navigate to the correct service accordion and find the correct next steps? 
+7. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones? Are these "top tasks"?
+8. How do Veterans react to seeing 2 phone numbers?
      1. Which phone number would they use and why? 
      2. What do they expect when they call?
-7. What do Veterans expect to find in the Pension section under "Services offered"?
-8. Do Veterans understand their options for getting service (i.e., walk-in _vs._ in-person _vs._ virtual appointments)?
-9. Do Veterans have any confusion/comments about the hours of operation (i.e., multiple sets of them, comments)?
-
+9. What do Veterans expect to find under "Services offered"?
 
 ### Hypotheses
 1. Veterans will learn what they can do at a VA benefit office by looking at the new web page.
