@@ -46,18 +46,19 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
 1. Do Veterans understand how services are delivered at this location?
      1. In-person, virtual, or by phone
      1. With or without appointments
-     2. Hours of operation
+     2. Hours of operation--for the office vs. only for specific service
 3. Do Veterans understand the actions they need to take to receive the service (make an appointment, walk-in, bring required documents, etc.)?
 4. What do Veterans know about VA regional benefit offices?
      1. What tasks do Veterans expect to do at VA regional benefit offices?
      2. What do Veterans expect to find on a web page about a VA regional benefit office?
 5. What feedback do Veterans have on content, organization, and length of the regional benefit office web page?
 6. When prompted with specific tasks, do Veterans navigate to the correct service accordion and find the correct next steps? 
-7. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones? Are these "top tasks"?
-8. How do Veterans react to seeing 2 phone numbers?
+    7. What do they do if they don't find an applicable service accordion on the page? 
+8. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones? Are these "top tasks"?
+9. How do Veterans react to seeing 2 phone numbers?
      1. Which phone number would they use and why? 
      2. What do they expect when they call?
-9. What do Veterans expect to find under "Services offered"?
+10. What do Veterans expect to find under "Services offered"?
      1. Do Veterans expect to find different details for different services?
 
 ### Hypotheses
@@ -76,7 +77,7 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 - Include some content under the "Limited services and hours" additional info component, if including it
 
 ### Ideas for Conversation Guide
-- Warm up questions about what regional benefit offices are, whether you've been to one before, what you might do there or have done there before, what you'd do before your visit (search for info online? where?)
+- Warm up questions about what regional benefit offices are, whether you've been to one before, what you might do there or have done there before (and what happened, what do you wish you had known before going),  what you'd do before your visit (search for info online? where?)
 - If you wanted to visit a VA benefit office near you, what would you do? (wayfinding via google? VA.gov > facility locator?) 
 - How could you find out whether it could help you with X? _(applying for disability compensation?)_
 - Let's suppose that Google/VA.gov led you to the page that I'm going to show you. Open prototype, and tell me your impressions of this page (regional benefit office). could add caveat that this is representative of a page but not completely accurate info.
@@ -84,6 +85,7 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 - To make this happen, what would you do next (check hours, make appt, figure out how to get there, learn what to bring and gather it)
 - How to find the benefit office in the building? call?
 - How could you talk to someone at the VA about whether the VA will pay for more school for you?  
+- Ask to do a task related to a service that's not available at this location, and see what they do
 - Ask at end after saw prototype: What do you think you can do from this VA office? 
 
 ### Research materials
