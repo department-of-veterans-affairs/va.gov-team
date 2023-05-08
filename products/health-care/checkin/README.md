@@ -1,5 +1,6 @@
 # MODERNIZED CHECK-IN TEAM HOME PAGE
 - [Team Members](#team-members)
+- [Terminology](#terminology)
 - [Product](#product)
 - [Priorities and Backlog](#priorities-and-backlog)
 - [Production Wireframes in VA Sketch Cloud](#production-wireframes-in-va-sketch-cloud)
@@ -28,6 +29,11 @@
 - Backend Engineers
   - [Gaurav Gupta](https://dsva.slack.com/team/U02DB4BC10F)
   - [Kanchana Suriyamoorthy](https://dsva.slack.com/team/U02EFEF4ZB2)
+
+## Terminology
+- Pre-Registration: The collection of Demographics, Next of Kin, and possibly Emergency Contact data.
+- Pre-Check In: The application workflow that occurs one to seven days before an appointment to collect Pre-Registration Information.
+- Day-of Check In: The application workflow that occurs within the window that is no more than 45 minutes before and up to 15 minutes after a Veteran's appointment 
 
 ## Product 
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/README.md)
