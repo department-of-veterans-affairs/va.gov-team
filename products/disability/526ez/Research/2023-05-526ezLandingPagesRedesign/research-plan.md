@@ -57,20 +57,15 @@ The DBEx team will use these learning to create a baseline for the iterative des
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
-- Clarity and comrehension : Do veterans understand the process for filing claims, what is needed, who is elligile, what needs to be done online in teh digital form vs offline?
+- Clarity and comrehension : Do veterans understand the process for filing claims, what is needed, who is elligile, what needs to be done online in the digital form vs offline? Do veterans understand specific terminology in its context e.g. conidition vs disability, evidence, etc. 
 - Preparedness and confidence: Do vets feel prepared after going through the initial steps of the form to continue to beginning the form? What other information do they need provided upfront? What information can be de-prioritized to aid in info digestion?
 - Trust: Do veterans feel the VA is doing its due diligence in getting them the compensation they need?
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+We believe the redesigned landing pages will improve veteran's confidence and sense of preparedness when entering the form.
 
-## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+## Methodology	 
 
 Conducting usability tests on desktop and mobile to evaluate design/content changes made to the beginning of the form and discover any other painpoints in that area. 
 
@@ -83,14 +78,8 @@ Additional resources:
 - In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+Remote over Zoom 
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
