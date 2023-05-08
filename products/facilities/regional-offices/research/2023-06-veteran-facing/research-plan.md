@@ -58,6 +58,7 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
      1. Which phone number would they use and why? 
      2. What do they expect when they call?
 9. What do Veterans expect to find under "Services offered"?
+     1. Do Veterans expect to find different details for different services?
 
 ### Hypotheses
 1. Veterans will learn what they can do at a VA benefit office by looking at the new web page.
