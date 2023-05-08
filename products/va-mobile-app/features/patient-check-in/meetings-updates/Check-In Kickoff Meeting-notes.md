@@ -40,9 +40,9 @@ Web: Stephen Barrs, Lori Pusey, Adrian Rollett, Brian Seek, Ben Brasso, Kathrine
 * Who reps this whole group to outside stakeholders?
   * Patrick, Stephen, Kay?
 
-* Who will flesh out MVP
- * OCTO has started; will take forward with the team
- * Dive deeper into conversation 5/24
+* Who will flesh out MVP? 
+    * OCTO has started; will take forward with the team
+    * Dive deeper into conversation 5/24
  
 
 * Follow up Meetings
@@ -50,7 +50,8 @@ Web: Stephen Barrs, Lori Pusey, Adrian Rollett, Brian Seek, Ben Brasso, Kathrine
   * Schedule demo session of existing check-in experience
 
 ## Action Items
-* Pin link to check-in slack channel of GitHub pages for web & mobile ( Meko & Lori)
-* Add web team to demo (see above list under demo) (Adam)
-* Tag Unfified appts tag to check-in related tickets.  Meko & Lori to sync with Kay
-* Answer questions on Decision/Q&A log by next Friday 5/12
+- [X] Pin link to check-in slack channel of GitHub pages for web & mobile ( Meko & Lori)
+- [ ] Add web team to demo (see above list under demo) (Adam)
+- [ ] Schedule check in experience demo with app team (Lori)
+- [ ] Tag Unfified appts tag to check-in related tickets.  Meko & Lori to sync with Kay
+- [ ] Answer questions on Decision/Q&A log by next Friday 5/12
