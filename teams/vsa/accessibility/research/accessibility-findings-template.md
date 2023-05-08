@@ -1,3 +1,10 @@
+# About this Research Study
+- **Study Name:** Project Name (ex. MHV Authenticated Experience)
+- **Study Dates:** (can be month study was held or specific)
+- **Study Research Lead:**
+- **Related Docs:** Link to research plan and communication guide - or link to project's GitHub link?
+- **Ticket Links:** EPIC and/or CAIA research assistance request ticket
+
 # Accessibility Findings
 `ZoomText` `JAWs` `iOS-VO` (List types of AT covered here)
 
@@ -7,6 +14,24 @@ This research fufilled X% (y/z) of its original request. Given the limited amoun
 **Original study request: 6**
 
 > 6 participants should use a screenreader on a desktop or mobile device
+
+## Participants
+To best serve the users of VA.gov, we will need to collect the following information during each a11y research session:
+- **Skill level of user:** Novice, Intermediate or Advanced
+- **Operating System:** Mac or Windows
+- **Assistive Technology being used:** Jaws, NVDA, Zoomtext, Dragon, etc.
+- **Internet Browser:** Chrome, Firefox, etc.
+- **Note**: In the table below, the first row is an example for P54
+
+| **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |
+|------------------------|------------------|--------------------|-----------------|----------------------|-------------|
+| _P54_                   | 5/8/2023         | _JAWS_             | _Advanced_      | _Windows_            | _Chrome_    |
+|                        |                  |                    |                 |                      |             |
+|                        |                  |                    |                 |                      |             |
+|                        |                  |                    |                 |                      |             |
+|                        |                  |                    |                 |                      |             |
+|                        |                  |                    |                 |                      |             |
+|                        |                  |                    |                 |                      |             |
 
 **Participants who successfully completed sessions: 3**
 
@@ -29,7 +54,13 @@ This research fufilled X% (y/z) of its original request. Given the limited amoun
 - They can help add some more info
 
 
-## Details of findings and recommendations
+## Findings and recommendations
+
+Add screenshots images, everything here.
+
+### Veterans' Voices: Impactful Quotes 
+This section is for quotes. ⚠️ Participants should be referenced by number only, please.
+In this section feel free to segment populations based on the trends we see with certain user types.
 
 ### Finding 1
 Add screenshots images, everything here.
@@ -43,30 +74,23 @@ Images and videos help
 #### We don't have enough data or research to know...
 Point out the gaps too
 
-#### Possible next steps could include...
-- [ ] What can be done? 
-- [ ] I don't know but you can make a checklist
+## Next Steps
+A list of actionable findings, based on time-sensitive, priority needs. Images, videos, links, screenshots and notes provided as approprite. 
 
-### Finding 3
-Add screenshots images, everything here.
-
-#### Use subheadings for subsections
-And add more info and stuff
-
-#### Or provide a recommendation
-Images and videos help 
+### Complete Now
+x
+### Complete Soon
+x
+### Complete Later
+x
 
 #### We don't have enough data or research to know...
-Point out the gaps too
-
-#### Possible next steps could include...
-- [ ] What can be done? 
-- [ ] I don't know but you can make a checklist
+Point out the gaps too.
 
 ## Other considerations and findings 
 
 ### A finding that may not be relevant to the study, but worth talking about
-Add images and stuff to back itup
+Add images and stuff to back it up
 
 ## List of caught defects and issues
 
