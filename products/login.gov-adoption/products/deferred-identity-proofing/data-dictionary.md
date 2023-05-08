@@ -884,7 +884,35 @@ See notes above about ID.me and DS Logon accounts.
    </td>
    <td>Ten digits, starting with 1000000000 or 9000000000
    </td>
-   <td>The ID value will be the same as MPI.id when the MVH Primary ID on File record is correlated by ICN, otherwise it will be a synthetic ID beginning with 9.
+   <td>An outer join of the MHV-All.id and MHV-IPP.id fields
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>MHV-All.id
+   </td>
+   <td>Number
+   </td>
+   <td>unique, nullable
+   </td>
+   <td>Ten digits, starting with 1000000000 or 9000000000
+   </td>
+   <td>A synthetic ID value for a MHV credential.  "All" represents the dataset of all id-verified MHV Premium credentials.  This will be the same as the MPI.id synthetic ID if the users were correlated by during the import process.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>MHV-IPP.id
+   </td>
+   <td>Number
+   </td>
+   <td>unique, nullable
+   </td>
+   <td>Ten digits, starting with 1000000000 or 9000000000
+   </td>
+   <td>A synthetic ID value for a MHV credential created through In-Person Proofing.  This will be the same as the MPI.id synthetic ID if the users were correlated by during the import process.
    </td>
    <td>
    </td>
