@@ -2,6 +2,8 @@
 
 ## 2023-05-08
 
+Attendees: DK, Jessica, Katelyn, Hieu, Matt K.
+
 **Katelyn showing designs for an improved primary/secondary caregiver clarification experience.**
 
 - Experimented with different versions of a table, featuring primary/secondary caregiver differences. Great for scanning. Could be a challenge on mobile.
