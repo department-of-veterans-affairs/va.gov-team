@@ -79,7 +79,7 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 - Warm up questions about what regional benefit offices are, whether you've been to one before, what you might do there or have done there before, what you'd do before your visit (search for info online? where?)
 - If you wanted to visit a VA benefit office near you, what would you do? (wayfinding via google? VA.gov > facility locator?) 
 - How could you find out whether it could help you with X? _(applying for disability compensation?)_
-- Open prototype, and tell me your impressions of this page (regional benefit office)
+- Let's suppose that Google/VA.gov led you to the page that I'm going to show you. Open prototype, and tell me your impressions of this page (regional benefit office). could add caveat that this is representative of a page but not completely accurate info.
 - How could you figure out whether it could help you with X?
 - To make this happen, what would you do next (check hours, make appt, figure out how to get there, learn what to bring and gather it)
 - How to find the benefit office in the building? call?
@@ -110,14 +110,20 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
 - At least 2 people who are LGBTQ+
 
 ### Screening Questions
+*If we want to talk w/people for whom applying for disability would potentially be relevant:*
 1. Do you (or the Veteran that you're a family member of or caregiver for) get VA disability compensation? 
      1. No  *(ask next screening question)*
      1. Yes *(disqualify)*
      1. I don't know *(disqualify)*
 
-1. Have you visited a VA benefit office in the last 6 months? 
-     1. No or I don't know *(RECRUIT 6)*
+1. Have you used any VA benefits before? For example, VA health care, education/GI Bill, career services, disability compensation, pension, home loan, life insurance, burial benefits or memorial items.
+     1. No  *(RECRUIT 5)*
      1. Yes *(RECRUIT 5)*
+
+1. Have you ever visited a VA benefit office? 
+     1. No, never *(RECRUIT 3)*
+     1. Yes, in the past 6 months *(RECRUIT 4)*
+     2. Yes, longer ago than the last 6 months *(RECRUIT 4)*
 
 1. What time zone are you located in? *(RECORD)*
 
