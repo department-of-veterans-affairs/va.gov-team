@@ -35,6 +35,10 @@
 5/9/23
 
 Sprint Demo meeting  - is there a better time slot?
+EVSS Migration - data discrpencies
+  * New claims Status data source does not include the VA Representative (removed because it was misleading)
+  * We have concerns about removing it from the Claims tool in the app because there is no where else that provides this information.  
+  * We could use help understanding how VA.gov made the decision to remove it
 
 -----------------
 
