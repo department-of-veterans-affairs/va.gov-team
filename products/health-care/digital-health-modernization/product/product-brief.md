@@ -61,7 +61,7 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 - Team Coach: Dotti Cummings
 - Delivery Coach: Stephen Smythe
 - Design Lead: Florence McCafferty
-- Product Manager: 
+- Product Manager: Tom Anderson
 
 **Contractors (Ad Hoc)** 
 - Design: Jonathan Nelson
