@@ -2,8 +2,12 @@
 
 ## 2023-05-08
 
-- Katelyn showing designs for an improved primary/secondary caregiver clarification experience.
+**Katelyn showing designs for an improved primary/secondary caregiver clarification experience.**
 
-### Notes
+- Experimented with different versions of a table, featuring primary/secondary caregiver differences. Great for scanning. Could be a challenge on mobile.
+- Started with DK's copy, and it feels like a lot of copy no matter how you arrange it or what components you use.
+- Additional info component feels like a crutch here. Also, modals won't work well either. Maybe this is a good reason to explore altering the flow?
 
 ### Action items
+
+- Katelyn to do some work on a next round of designs and bring it to our next meeting.
