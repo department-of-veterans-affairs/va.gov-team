@@ -153,3 +153,22 @@ Refer the <a href="./data-dictionary.md">Data Dictionary</a> and the table with 
 **Load**
 
 The CSV is loaded into DOMO and joined with the MHV Primary Id on File dataset. 
+
+
+
+**MHV Premium Credentials Dataset**
+
+The MHV dataset is CSV file containing a MHV ID and ICN.
+
+
+**Preprocess Transformation**
+
+Following preprocessing steps are executed due to requirement that no PII is loaded into VA’s Domo instance:
+
+
+1. load/update synthetic ID mapping file
+
+A mapping file is used to map ICN to a synthetic ID to remove PII.  The mapping file is a CSV containing fields: synthetic ID, SECID and ICN.
+
+2. Output a CSV with single column containing the ID
+
