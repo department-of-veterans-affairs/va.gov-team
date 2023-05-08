@@ -70,8 +70,8 @@ Used for research synthesis, shared userflow and other collaboration needs.
 
 ### How we work (TBD)
 [draft]
-- Internal design syncs
-- Meeting agenda docs
+- Internal design syncs - Mondays at 12pm ET / 9am PT
+- [Meeting agenda docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/design/design-weekly-sync-agenda.md)
 - Content shared health office hours and specific 1010 bi-weekly
 
 
