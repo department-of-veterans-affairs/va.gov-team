@@ -10,8 +10,11 @@ Primary and specialty care appointments are available.
 
 (CTA) Start scheduling
 
-(H2) Your appointments
-
+```diff
+- (H2) Your appointments
++ (H2) Appointments
+@@ GH58110 @@
+```
 ---
 
 ## Homepage Refresh Toggle
