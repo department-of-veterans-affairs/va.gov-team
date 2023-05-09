@@ -21,5 +21,5 @@ ex. https://github.com/department-of-veterans-affairs/vsp-infra-application-mani
 and the devops [repo](https://github.com/department-of-veterans-affairs/devops) (only for the prod environment, currently)
 ex. https://github.com/department-of-veterans-affairs/devops/pull/12917
 
-and of course don't vets-api
+and of course don't forget `vets-api`
 ex. https://github.com/department-of-veterans-affairs/vets-api/pull/12467/files#diff-e769bbb8c1ba3711c5403b424ed9c218ffafba7f1890ee394717196f28ff4540
