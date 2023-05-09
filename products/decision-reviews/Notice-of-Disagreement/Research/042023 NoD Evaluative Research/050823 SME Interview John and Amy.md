@@ -48,6 +48,7 @@ Follow-up and complete goal alignment and open questions
 * Are there other SMEs we should hear from prior to the Veteran facing evaluation? Do we have a contact for a Quality Assurance SME?
 	* Action Item: QA/QI team focuses on the decision process and the VEO. Send to John after meeting
 ### Additional Research Questions
+*Thanks for your input on our research plan, Amy. Can you expand a little on a few of the questions you suggested adding to the veteran facing research?*
 1. How easy/hard is it to understand where you are in the appeals process?
 	* What do you mean? (Amy) The context is,  I’m working with John’s team on trying to establish outcomes (OKRs ) the 3 primary outcome the board is looking for: 1) timeliness in intake, timeliness decision making
 		* Intake isn’t only someone submitting the request but track where they are in the process.  “Once it gets submitted it goes through docketing. Depending if you want a hearing or not, you’ll be put in hearing or you’ll be put in a docket that doesn’t need a hearing. Then you go to make a decision. . 
