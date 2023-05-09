@@ -32,6 +32,16 @@ This section lists out each of the metrics we have and what what they mean.
 ### Statsd
 StatsD is the main metric collector for all of Vets-API and Vets-Website. The metrics are collected by StatsD at the server/container level and then stored for other systems to consume the data that is collected. The StatsD source code can be found [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/initializers/statsd.rb). There are several metrics in the source code that the VSP Identity team consumes such as the MVI metric [here](https://github.com/department-of-veterans-affairs/vets-api/blob/20b86216ab85a66d2b97de1448111f2e59e240f8/config/initializers/statsd.rb#L100). This metric is then consumed by Grafana which we use to visualize the data captured.
 
+**NOTE: StatsD keys must begin with one of these namespaces e.g. `api.sis.auth.success`:**
+- `account_login_stats`
+- `api`
+- `covid`
+- `iam`
+- `mobile`
+- `oidc`
+- `vetext`
+- `worker`
+
 [Statsd incrementor for metrics](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/common/client/concerns/monitoring.rb#L21)
 
 [Login Errors](https://github.com/department-of-veterans-affairs/vets-api/blob/52da457e7a4b27120088fd429437bc6d56268b1d/config/initializers/statsd.rb#L31)

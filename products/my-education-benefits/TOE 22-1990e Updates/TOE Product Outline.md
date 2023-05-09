@@ -111,30 +111,33 @@ The following is the flow for the application with respective screenshots:
 <img alt="Sponsor Information Page" src="./screenshots/toe-sponsor-list.png" height="400">
 
 6) If Claimant so chooses, they can enter a sponsor manually.
-<img alt="Sponsor Information Page" src="./screenshots/toe-sponsor-list.png" height="400">
+<img alt="Manual Sponsor Information Page" src="./screenshots/manual-sponsor-option.png" height="400">
 
-7) Claimant is presented with preloaded contact information from VA-Profile. Absent VA-Profile information, it will be preloaded from VADIR via DGIB services
+7) If multiple sponsors were chosen on step 5) the student will need to narrow it to a first sponsor.
+<img alt="Choose First Sponsor Page" src="./screenshots/toe-choose-first-sponsor.png" height="400">
+
+8) Claimant is presented with preloaded contact information from VA-Profile. Absent VA-Profile information, it will be preloaded from VADIR via DGIB services
 <img alt="Contact Information Page" src="./screenshots/toe-contact-information.png" height="400">
 
-8) Claimant is presented with preloaded addressfrom VA-Profile. Absent VA-Profile information, it will be preloaded from VADIR via DGIB services
+9) Claimant is presented with preloaded addressfrom VA-Profile. Absent VA-Profile information, it will be preloaded from VADIR via DGIB services
 <img alt="Address Page" src="./screenshots/toe-address-information.png" height="400">
 
-9) Claimant is asked to enter Contact Preferences
+10) Claimant is asked to enter Contact Preferences
 <img alt="Contact Preference Page" src="./screenshots/toe-preferred-contact-method.png" height="400">
 
-10) Claimant is presented with Direct Deposit information screen. It will be pre-filled with information loaded from VA.gov profile. Absent that, claimant will be required to enter Direct Deposit information directly.
+11) Claimant is presented with Direct Deposit information screen. It will be pre-filled with information loaded from VA.gov profile. Absent that, claimant will be required to enter Direct Deposit information directly.
 <img alt="Direct Deposit Page" src="./screenshots/toe-direct-deposit.png" height="400">
 
-11) Claimant can edit/add Direct Deposit information if needed
+12) Claimant can edit/add Direct Deposit information if needed
 <img alt="Direct Deposit Edit Page" src="./screenshots/toe-direct-deposit-edit.png" height="400">
 
-12) Claimant is presented with final review page before submission
+13) Claimant is presented with final review page before submission
 <img alt="Final Review Page" src="./screenshots/toe-review.png" height="400">
 
-13) Claimant is presented with Wait screen while submitting the claim
+14) Claimant is presented with Wait screen while submitting the claim
 <img alt="Submission Wait Screen" src="./screenshots/toe-loading-results.png" height="400">
 
-14) Claimant is presented with a screen advising that the submission has been received and is under review
+15) Claimant is presented with a screen advising that the submission has been received and is under review
 <img alt="Submission Wait Screen" src="./screenshots/toe-under-review.png" height="400">
 
 ---

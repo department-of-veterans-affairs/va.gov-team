@@ -3,19 +3,18 @@
 This folder contains work in progress, discovery, research, decisions, and other information related to creating an IA, content design, and Drupal page templates for tier 2 benefit-adjacent content. 
 
 
+## Current Team (2023-04)
+Sitewide Public Websites
+- GitHub label: content, Public Websites
+- Slack channel in DSVA: #sitewide-public-websites
+- VA PO: Dave Conlon
 
-## Team
 
+## Original Team (2019)
 - VA Digital Strategist(s): Jen Lee, jennifer.lee27@va.gov
 - Product Manager: Kara Kamahli, kara@adhocteam.us
 - Design: Ryan Thurlwell, ryn.thurlwell@va.gov
 - IA: Mikki Northuis, mikki@adhocteam.us, and Andy Lewandowski,andrew.lewandowski2@va.gov
-
-   
-## Communications
-- GitHub label: content, vsa-global-ux
-- Product POC: Jen Lee 
-
 
 ## Table of Contents
 - [User Problem Statement](#user-problem-statement)
@@ -56,9 +55,10 @@ This product focuses on creating an IA and content design for tier 2 content.
 ---
 
 ## Status
-#### mm/dd/yyyy
-- 
-- 
+#### 04/01/2022
+Tier 2 content has been moved under Public Websites product portfolio at some previous point.
+Sitewide contract awarded to Agile6.
+DSVA slack channel: #sitewide-public-websites 
 
 ### Decisions
 #### mm/dd/yyyy

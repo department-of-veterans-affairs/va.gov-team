@@ -8,7 +8,7 @@ Developers can abstract away previously solved problems, and focus on domain-spe
 The SoF Platform is in its infancy, and yet we already have significant interest from teams who wish to build upon it.  We believe by creating a platform that makes it easy to build, deploy, and test clinical applications, teams will use the platform and more value will accrue to clinicians.  We also believe that clinicians will return when they can discover easy-to-use applications that focus on good user experience and solve relevant problems.
 
 ## User Problem Statement
-As a clinician, I want to develop Clinical Decision Support Tools that are SMART-on-FHIR complaint and can be launched from CPRS. 
+As a clinician, I want to develop Clinical Decision Support Tools that are SMART-on-FHIR compliant and can be launched from CPRS. 
 
 ## About the Team
 ### GitHub/ZenHub/Teams/Jira

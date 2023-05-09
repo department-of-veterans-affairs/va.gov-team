@@ -37,6 +37,11 @@ Health conditions
 ### Information architecture
 Home > My Health > Health history > Health conditions
 
+### What is included
+Today, there are both active and inactive health conditions. These are entered into a portion of VistA called the problem list. 
+
+Due to inconsistent use of this feature, **we will only display active health conditions**. It is possible that a patient has several entries for health conditions that were considered but ruled out, and then entered as an inactive problem. Because of this, including all inactive health conditions proves to be quite confusing and therefore we should not include them.  
+
 ### List view
   - At the top of the page, a user should be able to quickly learn about the availability of notes. For more info, see https://myhealth.va.gov/mhv-portal-web/blue-button-availability
   - At the top of the page, a user should be able to quickly learn about disclaimers about this domain.
@@ -108,7 +113,7 @@ Where there are differences between BB and Health Summary, follow the data and d
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
 |2023/02/06       |Coulton Bunney    | Combined requirements and brief                                                                                                                |
 |2023/02/07       |Marci McGuire     | Added Handling Data Discrepancies section                                                                     |
-|                 |                  |                                                                                                                     |
+|2023/03/08                |Coulton Bunney|Added notes about including only active health conditions|
 
 # Appendix
 

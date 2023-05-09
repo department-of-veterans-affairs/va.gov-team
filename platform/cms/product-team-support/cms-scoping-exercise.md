@@ -1,4 +1,5 @@
-[DRAFT/WIP]
+Please Note: As of 2022, the CMS Team does not provide separate scoping exercises, however, you can find out more information on collaboration with us via the [CMS Collaboration Cycle](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/1791459333/CMS+Collaboration+Cycle)
+
 
 ## <a id="cms-scoping-exercise"></a>What is a CMS scoping exercise?
 

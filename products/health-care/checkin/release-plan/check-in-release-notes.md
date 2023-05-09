@@ -12,6 +12,37 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 4/28/2023
+- Updated Pre-Check-in and eCheck-in to display the Facility Address with other appointment details.
+    - [Ticket 52132](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132)
+
+### 4/20/2023
+- Changed alert text when Veteran is too early to check in.
+    - [Ticket 54511](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54511)
+
+### 4/10/2023
+- Updated Pre-Check-in to hide the "What if I have questions about my appointment?" accordion when there is no clinic phone number available to display.
+    - [Ticket 56186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56186)
+
+### 3/14/2023
+- Changes made to Pre-Check-in and eCheck-in to standardize how appointment information is displayed across Veteran-facing applications. Initially released to 20% of Veterans but will increase availability daily while monitoring usage metrics.
+    - [Epic 49261](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/45315)
+    - [Screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/appointment-info.md)
+
+### 3/1/2023
+- Updated eCheck-in so that Veterans will receive a more specific error message when they use an expired link
+    - [Ticket 52393](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52393)
+
+### 2/24/2023
+- Fixed 2 minor content bugs for the 'Need help' section
+    - [Ticket 53979](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53979)
+- Fixed a bug where the breadcrumb angle bracket is read aloud by Voice Over
+    - [Ticket 53066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53066)
+
+### 2/22/2023
+- Updated Pre-Check-in so that Veterans will receive a more specific error message when they use an expired link
+    - [Ticket 52492](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52492) 
+
 ### 2/16/2023
 - Fixed a bug that caused the position of the 'back to last screen' action link on the verify emergency contact and next of kin pages to be misaligned
     - [Ticket 53562](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53562)

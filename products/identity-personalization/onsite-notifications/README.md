@@ -1,10 +1,10 @@
-# Product outline: On-site Notifications (ie. personalized notifications that show on VA.gov)
+# Product outline: Onsite Notifications (ie. personalized notifications that show on VA.gov)
 
 **Last updated: February 13, 2023 -- added link to "adding a new notification" doc**
 
 ### Communications
 
-- **GitHub Label**: vsa-authenticated-exp; notifications
+- **GitHub Label**: vsa-authenticated-exp; onsite-notifications
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
 
 ### Roles
@@ -18,6 +18,7 @@
 |Berni Xiong| Delivery Manager | berni.xiong@agile6.com |
 |Angela Agosto |Designer| angela.agosto@adhocteam.us |
 |Allison Lu| FE Engineer|	allison@cityfriends.tech |
+|Derrick Ellerbie| Full Stack Engineer | Derrick.ellerbie@Agile6.com|
 
 
 #### Partners
@@ -98,7 +99,9 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 |Project| Launch date|
 |-------|------------|
-|[Onsite notifications V2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/notifications-v2#readme)|In development|
+|[Notification center discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery)| In development|
+|[Update design system component build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/README.md) | In development  |
+|[Onsite notifications v2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications#initiative-outline-scaling-onsite-notifications)|In development|
 |[Onsite notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp)| Launch completed October 24, 2022|
 
 ## Backend

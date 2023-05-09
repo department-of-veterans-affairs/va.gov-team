@@ -1,17 +1,24 @@
 # Profile Application - Getting Started and General Overview
 
-Update: December 12, 2022
+Update: March 4, 2022
 
 - [Purpose](#purpose)
 - [Overview](#overview)
 - [Getting Started](#getting-started)
+- [Useful Terminal Scripts](#useful-terminal-scripts)
+- [Other tips and resources](#other-tips-and-resources-for-working-on-the-va-profile-front-end-application)
 - [Code Structure and Organization](#code-structure)
 
-# Purpose
+## Purpose
 
 The purpose of this document is to help a new Frontend software understand how to get started writing code for the Profile application and to give a general overview on how the application works. This document is a living work that will need updating, so feel free to contribute.
 
-# Overview
+
+
+
+
+
+## Overview
 
 ![Screen Shot 2022-12-12 at 12 46 36 PM](https://user-images.githubusercontent.com/8332986/207139860-ffa731e8-1407-4bed-9968-ad613f14c043.png)
 
@@ -22,7 +29,12 @@ From a technical standpoint it is a Single Page Application that utilizes featur
 
 Each section or page of the profile has its own respective documentation which aims at giving a brief overview of how each page works, what api calls are made, and where in the files certain things like analytics events, error handling, and unique UI components can be found.
 
-# Getting Started
+
+
+
+
+
+## Getting Started
 
 If you are new engineer that is just starting to work on the Profile application FE, there are a few things that can hopefully get you moving quickly.
 
@@ -31,52 +43,87 @@ If you are new engineer that is just starting to work on the Profile application
 - Getting familiar with NVM or other Node version management solutions is helpful since the FE runs best on a particular version of Node/NPM. If you are switching Node versions frequently you might find it helpful to automatically detect the required version and switch versions automatically within your terminal when navigating to project folders. [Instructions on how to set up auto-switching node versions (stack overflow)](https://stackoverflow.com/questions/23556330/run-nvm-use-automatically-every-time-theres-a-nvmrc-file-on-the-directory)
 
 ### [Vets-Website Readme.md](https://github.com/department-of-veterans-affairs/vets-website/blob/main/README.md)
+The readme lists all the script commands that can be run through `yarn`
+
+
+
+
+
+
+## Useful Terminal Scripts
 
 The commands listed out in the main readme are lifesavers when you are looking to run tests, set up a mock server, or run the FE in 'watch' mode locally. Definitely familiarize yourself with the readme. Below are several commands that can help specifically within the Profile:
+
+---
+
+### Start webpack to compile and watch the Profile code and recompile after changes to the code are saved.
 
 ``` bash
 yarn watch --env entry=profile
 ```
 
-Starts webpack to watch just the profile code and recompile it anytime that changes are made. This does not do HMR or auto-refresh, but just watching the profile entry is much faster than just running `yarn watch` because recompiling all applications can take quite a while.
+Just watching the Profile application entry is much faster than running `yarn watch` because not specifying an `entry` results in all applications getting rebuilt can take quite a while to recompile. Please note that only routes starting in `localhost:3001/profile/*` will load because the Profile application is the only application that is being built.
 
 ---
+
+### Start a mock server that will create responses for various endpoints that are needed to display the Profile.
 
 ``` bash
 yarn mock-api --responses src/applications/personalization/profile/mocks/server.js
 ```
 
-when run from the main root of the vets-website repo, this will boot a mock server that will create responses for various endpoints that are needed to display the Profile.
-- The mock api uses [mocker-api](https://github.com/jaywcjlove/mocker-api#usage) which is a thin wrapper around Express
+- The mock api uses [mocker-api](https://github.com/jaywcjlove/mocker-api#usage) which is a thin wrapper around the Express server framework
 - (optional) Some engineers may want to set up a .bashrc or .zshrc alias for commands like this so that they can be run quickly from any path in the terminal. An example for a .zshrc alias:
-	- ``` alias va-mock="cd /Users/username/repo/folder/va-gov/vets-website && yarn mock-api --responses /Users/username/repo/folder/va-gov/vets-website/src/applications/personalization/profile/mocks/server.js" ``` where your absolute file path to the repo is used in place of the dummy placeholder. A similar alias can be used for the `watch` command and is helpful when working locally.
+	- ``` alias va-mock="cd /Users/username/repo/folder/va-gov/vets-website && yarn mock-api --responses /Users/username/repo/folder/va-gov/vets-website/src/applications/personalization/profile/mocks/server.js" ``` where your absolute file path to the repo is used in place of the dummy placeholder. 
+	- A similar alias can be created for the `watch` command and is helpful when working locally and not having to remember all the commands.
 
 ---
+
+### Open Cypress with the interactive UI application to run individual e2e tests visually.
 
 ``` bash
 yarn cy:open
 ``` 
 
-open Cypress with the interactive UI application to run individual e2e tests visually. This can be useful to run particular tests, but can also be buggy and lag depending on your setup. For ANY cypress tests (ui or headless) the vets website watch command needs to be running locally in some variation so that the UI loads, but the mock api SHOULD NOT be running when executing e2e tests.
+This can be useful to run particular tests, but can also be buggy and lag depending on your setup. For ANY cypress tests (ui or headless) the vets website watch command needs to be running locally in some variation so that the UI loads, but the mock api SHOULD NOT be running when executing e2e tests.
 
 ---
+
+### Run all e2e tests for Profile in 'headless' mode.
 
 ``` bash
 yarn cy:run --spec "src/applications/personalization/profile/tests/e2e/**/*"
 ```
 
-runs all e2e tests in headless mode. This is generally faster than the UI mode, and instead of passing a glob pattern, you could also just pass a path to a single test to run instead. (see vets-website readme for more cypress command examples)
+This is faster than using the UI mode, and instead of passing a glob pattern, you could also just pass a path to a single test to run instead. (see vets-website readme for more cypress command examples)
 
 ---
+
+### Run all unit tests within the profile.
 
 ``` bash
 yarn test:unit src/applications/personalization/profile/tests/**/*.unit.spec.js*
-``` 
-runs all unit tests within the profile. A glob pattern can be substituted for single test file path as well.
+```
+A glob pattern can be substituted for single test file path as well, for when you are doing TDD on a test.
 
 ---
+
+### Generate test coverage for a specific app folder.
+
+``` bash
+yarn test:coverage --app-folder personalization --coverage-html
+```
+
+The app name passed in needs to be relatice to the root src/applications/ folder, so profile or dashboard are not valid names, so personalization will run coverage for those apps and all other apps in the folder.
+
+Then open the `coverage/index.html` file in your browser to view the coverage report application.
+
+
+## Other tips and resources for working on the VA Profile front end application
 	
-**Simulating the logged in status on FE:** When running a mock-api you will need to set a local storage value. Running `localStorage.setItem('hasSession', true)` in your browser devtools and then refreshing any `/profile` route, you should see the profile load as a logged in user with the mock api data reflected in the UI.
+### Simulating the logged in status on FE:
+
+When running a mock-api you will need to set a local storage value. Running `localStorage.setItem('hasSession', true)` in your browser devtools console and then refreshing any `/profile` route, you should see the profile load as a logged in user with the mock api data reflected in the UI.
 
 ---
 
@@ -90,7 +137,6 @@ The design system contains tons of useful information about the various ways of 
 	- [Familiarizing yourself with web components and the VA's usage of web components](https://design.va.gov/about/developers#using-web-components) can help identify how each component behaves and how to hook into the appropriate events when needed.
 		- When testing web components, the shadow dom needs to be considered. When writing e2e tests, there are [ways to drill into this shadow dom](https://docs.cypress.io/api/commands/shadow) to do assertions.
 
-### Other useful getting started resources
 
 [Accessibility!](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-testing) - Keeping accessibility top of mind at all times. 
 

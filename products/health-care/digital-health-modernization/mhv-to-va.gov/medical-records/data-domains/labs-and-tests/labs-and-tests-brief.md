@@ -1,6 +1,6 @@
 # Lab and test results: Domain brief
 
-Last updated: Feb 6, 2023 | [Change Log](#change-log)
+Last updated: Mar 20, 2023 | [Change Log](#change-log)
 
 ## Table of Contents
 - [Description of domain](#description-of-domain)
@@ -14,24 +14,23 @@ Appendix
 - [Detailed analysis of data fields](#detailed-analysis-of-data-fields)
 
 ## Description of domain
-Labs and Tests represent health information that may be categorized as lab work results, blood chemistry/hematology results, radiology reports, pathology reports, electrocardiogram (EKG) reports.
+Labs and Tests represent health information that may be categorized as chemistry/hematology results, microbiology results, radiology reports, pathology reports, electrocardiogram (EKG) reports.
 
 ## Use cases
 User is not logged in
- - User will need to log in with one of the accepted methods. Once logged in, they can select the naviation option for labs and tests, and will be presented with a landing page.
+ - User needs to log in
 
 User is logged in
 - When a a user is logged in and selects the naviation option for labs and tests, they will be presented with a landing page.
 - User needs a lab or test result as evidence when applying for disability benefits
-- User wants to view a recent blood test result
-- User views recent blood test and sees that a value is far outside normal range, and they need to know what their next steps should be
-- User wants to view an EKG report
-- User wants to view an MRI and its intepretation from a past visit
-- User wants to see the results of a urinalysis
-- User needs to share all of their blood chemistry results with a specialist
-- User wants to print a lab result to take to a non-VA surgeon
-- User wants to save a local file containing all of their historic lab results
-- User wants to email a lab result to a non-VA doctor
+- User wants to review a recent lab result
+- User wants to review a recent imaging report
+- User wants to review a recent non-imaging, non-laboratory result (e.g. EKG)
+- User wants to share lab and test results with a non-VA provider
+- User wants to print a lab or test result to share with a non-VA provider
+- User wants to save a copy of a lab or test result for their own records
+- User needs a lab or test result as evidence when applying for another VA service, such as disability benefits
+
 
 ## Requirements
 ### Title
@@ -72,6 +71,8 @@ Home > My Health > Lab and test results
 - When there is reference range included, a user should be able to easily see when their lab result falls above or below the normal range.
 
 **Data fields**
+For latest fields, review [Data fields: Lab and test results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/data-fields.md#lab-and-test-results)
+
 - Radiology reports
   - Procedure/test name
   - Date/time exam performed
@@ -192,7 +193,7 @@ Q: Do users expect to find imaging (X-rays, MRI, CT scan) in labs and tests?
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
 | 2023/02/03      | Marci McGuire    | Updated data sources for Cardiology reports and added screen shot of relevant email thread                          |
 | 2023/02/06      |Coulton Bunney    |Combined requirements and brief                                                                                      |
-|                 |                  |                                                                                                                     |
+| 2023/03/20      |Coulton Bunney    | Clarified use cases                                                                                                                     |
 |                 |                  |                                                                                                                     |
 
 # Appendix

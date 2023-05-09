@@ -251,7 +251,7 @@ We set up our CodePen prototypes to mirror the accessible HTML we’d use on VA.
 
 > I’m just impressed. As a screen reader, I’m going to say this form is very accessible. This definitely would be something that would be user friendly for anyone who is visually impaired. - P10, extremely low vision screenreader user.
 
-We also learned ways we can improve the experience for future studies, and captured them here (link to come).
+We also learned ways we can improve the experience for future studies, and [captured them in this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/codepen-prototyping.md).
 
 ## Further research needed
 ### We need to re-evaluate the use of the background-only banner to confirm a save at the top of a page, once people can use their real information.

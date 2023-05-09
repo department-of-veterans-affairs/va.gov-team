@@ -3,12 +3,12 @@
 
 
 ## Overview
-The Financial Status Report (FSR) is currently a paper form that  must be printed out, filled out, signed and mailed to the Debt Management Center (DMC) by the veteran in order to start the process for request for debt resolution; debt compromise, waver or monthly offsets/payments. This product will allow the Veteran to fill out the form on-line. A companion required document is a letter that the veteran is asked to write to justify why they should be granted a waiver, compromise or monthly payments.  
+The Financial Status Report (FSR) is currently a paper form that  must be printed out, filled out, signed and mailed to the Debt Management Center (DMC) by the veteran in order to start the process for request for debt resolution; debt compromise, waiver or monthly offsets/payments. This product will allow the Veteran to fill out the form on-line. A companion required document is a letter that the veteran is asked to write to justify why they should be granted a waiver, compromise or monthly payments.  
 
 As we develop this product, the global covid-19 pandemic has led to a suspension of debt collection from 3/2020 to 12/2020 during which time collection of debt was put on hold by the DMC, while historical data can be used as a guide, such widespread suspension makes it difficult to model the impact and associated  KPIs.
 
 ## Problem Statement
-If a Veteran has debt with the VA that they cannot pay, they can ask for debt resolution which can be debt waver, compromise or a monthly offset/payment they can afford.  The gatekeeper to start the debt resolution process is filling out and mailing or faxing in the FSR. The form is very confusing and while there is a how to guide for filling it out on va.gov/debtman, it is no less confusing. The process of printing, filling out and mailing/faxing in FSR form prevents Veterans from starting the process to resolving debts, which potentially leads to devastating benefits deductions and debt getting written off ruining credit. In addition to the FSR, the Veteran must write a letter explaining why they should be granted a waver, compromise or monthly payment plan which can be confusing and overwhelming, there are currently no guidelines or help as to what the letter must contain, or examples given. 
+If a Veteran has debt with the VA that they cannot pay, they can ask for debt resolution which can be debt waiver, compromise or a monthly offset/payment they can afford.  The gatekeeper to start the debt resolution process is filling out and mailing or faxing in the FSR. The form is very confusing and while there is a how to guide for filling it out on va.gov/debtman, it is no less confusing. The process of printing, filling out and mailing/faxing in FSR form prevents Veterans from starting the process to resolving debts, which potentially leads to devastating benefits deductions and debt getting written off ruining credit. In addition to the FSR, the Veteran must write a letter explaining why they should be granted a waver, compromise or monthly payment plan which can be confusing and overwhelming, there are currently no guidelines or help as to what the letter must contain, or examples given. 
 
 Since the form and letter are confusing, the contact center gets many calls with questions about the FSR which increases volume and wait times. We have found out from research that many times the DMC is unable to assist the Veteran with the FSR and they get referred to local VSOs for assistance. Many times the FSR is sent back and forth my mail because there is omitted information and fields. 
 ## Desired User Outcomes
@@ -40,7 +40,7 @@ Since the form and letter are confusing, the contact center gets many calls with
 
 ### Key Performance Indicators (KPIs)
 
--20% of FSRs filled out on line in first month with 5% MoM inclease 
+-20% of FSRs filled out on line in first month with 5% MoM increase 
 
 -10% QoQ in bad addresses (letters returned) 
 

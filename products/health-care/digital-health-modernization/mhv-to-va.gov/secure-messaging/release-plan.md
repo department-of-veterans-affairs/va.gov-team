@@ -4,71 +4,82 @@
 ## Guidance
 
 _This Release Plan Template is intended to help ensure your new VSP product or feature is ready for launch and will deliver the desired user outcomes._
-* _In Phase 1, you will test your product to learn how it'll actually be used, what problems it might create, and then fix/adjust if necessary prior to going live._
-* _In Phase 2, you will define the launch communications plan and post-launch KPIs. **You can close this ticket once you have completed Phase 2**._
-* _Phase 3 is optional - you may use it to document post-launch results._
+* _With the Secure Messaging release (and other subsequent features from MyHealtheVet) we are following the phase 0-4 approach as determined by the VA.gov leadership team.  The below summarizes the various phases and our plans to release_
+* _In Phase 0 "Trusted Users", the application will be in a published state, but can only be found by knowing the URL.  In addition, users must be whitelisted to allow authentication.  Users that are not whitelisted will be redirected back to the MHV experience.  The invited users (a few hundred or less) will be provided an email address to direct feedback to.  There will be no changes to existing links or experiences on either VA.gov or MHV.
+* _In Phase 1 "Try Me", a url path with be provided from MHV to the new application on VA.gov.  Users will no longer be invited/whitelisted to try the new experience.  They can also continue to use the MHV application.  Users will be asked to use the feedback feature (unlikely to provide just an email address).
+* _In Phase 2 "VA.gov transitions", links will be added to both MHV and VA.gov to allow users to experience the new application.  New users from each site will be direction to this new application first.
+* _In Phase 3 "MHV nudge", messaging will be added to MHV about the existing MHV messaging feature being retired on a specific date.  Additional communication about the change will start directing and informing users of the change.
+* _In Phase 4 "MHV redirect to apartment", the final redirect of users will occur where all traffic will flow to the new application and the old application will no longer be accessible.
+
+Throughout the phases, a rollout phase checklist is being completed and maintained by the leadership team.
+https://dvagov-my.sharepoint.com/:w:/r/personal/lauren_alexanderson_va_gov/Documents/Patient%20Experience%20-%20Health/Apartment/Phased%20Release%20Planning/MHV%20on%20VA.gov%20Rollout%20Phases.docx?d=w776fccc71ff44b74a8ff5db424bd61fe&csf=1&web=1&e=HxXBAq
 
 _Fill out the **Planning** sections to start, then the **Results** sections as you complete each phase of testing._
-
 ---
 
-## Phase I: User Acceptance Testing
-*Test real-world user scenarios to ensure your product or feature performs as expected.*
+## Phase 0: Trusted Users
 
 ### Planning:
-
-- Desired date range or test duration: [date - date] or [duration] 
-- Desired number of users: x
-- The group(s) from which you'll recruit test users: VFS/VSP/DEPO
-- How you'll recruit test users: lorem ipsum
-- How you'll give test users access to the product: lorem ipsum
-- What "Success" criteria will you look at before launch? [refer to the desired outcomes and KPIs in your prdouct outline]
-- How you'll measure your "Success" criteria? lorem ipsum
+- Desired date range or test duration: Undetermined, expected to last 'months'
+- Desired number of users: <300
+- The group(s) from which you'll recruit test users: VFS/VSP/DEPO, existing MHV Coordinators and users
+- How you'll recruit test users: Recommendations from MHV leadership and coordinators
+- How you'll give test users access to the product: Whitelisted in VA.gov application, along with welcome communication
+- What "Success" criteria will you look at before launch? Users are able to successfully navigate the application and send/receive messages with no critical bugs
+- How you'll measure your "Success" criteria? No critical bugs exist and the application is ready to move to the next phase
 
 ### Results:
-
 - Number of users: x 	
-
 - Results per your "Success" criteria:
-
 - Number of bugs identified / fixed: x/x
-
 - Any UX changes necessary based on the logs, user feedback, or VA challenges? yes/no
-
   - If yes, what: lorem ipsum  
 
-## Phase II: Go Live!
-
+## Phase 1: Try Me
 ### Planning:
-
-- Desired launch date: 
-- Post-launch KPI 1:
-- Post-launch KPI 2:
-- Post-launch KPI 3: 
-
-## Phase 3: Post-launch Results [Optional]
-
-### 1-week results:
-
-- Number of unique users: 
-- Post-launch KPI 1 actual: 
-- Post-launch KPI 2 actual: 
-- Post-launch KPI 3 actual:
+- Desired launch date: TBD
+- Number of unique users:
+- Post-launch KPI 1: TBD
+- Post-launch KPI 2: TBD
 - Any issues with VSP handling/processing?: yes/no
   - If yes, what:
 - Any UX changes necessary based on the logs, user feedback, or VA challenges? yes/no
   - If yes, what: 
 
-### 1-month results:
-
-- Number of unique users: 
-- Post-launch KPI 1 actual: 
-- Post-launch KPI 2 actual: 
-- Post-launch KPI 3 actual: 
+## Phase 2: VA.gov Transitions
+### Planning:
+- Desired launch date: TBD
+- Number of unique users:
+- Post-launch KPI 1: TBD
+- Post-launch KPI 2: TBD
 - Any issues with VSP handling/processing?: yes/no
   - If yes, what:
 - Any UX changes necessary based on the logs, user feedback, or VA challenges? yes/no
   - If yes, what: 
+
+## Phase 3: MHV Nudge
+### Planning:
+- Desired launch date: TBD
+- Number of unique users:
+- Post-launch KPI 1: TBD
+- Post-launch KPI 2: TBD
+- Any issues with VSP handling/processing?: yes/no
+  - If yes, what:
+- Any UX changes necessary based on the logs, user feedback, or VA challenges? yes/no
+  - If yes, what: 
+
+## Phase 4: MHV redirect to apartment
+### Planning:
+- Desired launch date: TBD
+- Number of unique users:
+- Post-launch KPI 1: TBD
+- Post-launch KPI 2: TBD
+- Any issues with VSP handling/processing?: yes/no
+  - If yes, what:
+- Any UX changes necessary based on the logs, user feedback, or VA challenges? yes/no
+  - If yes, what: 
+
+
 
 ## Post-launch Questions
 

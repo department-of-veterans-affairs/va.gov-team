@@ -27,8 +27,8 @@
 |	"Download your benefit letters" task completion | <ul><li> This is a secondary top Veteran task </li><li> High clickthrough use on the link in the "Top 4 box" on the current homepage </li><li> A direct link for this task is not displayed on the body of the homepage in the redesign </li></ul> | Traffic to [Download VA benefit letters page](https://www.va.gov/records/download-va-letters/) initiated from homepage 	|	<li>508,591 users<li>5.71%	|	5.92% or better (_acceptable within 10%_) | Critical |
 |"Apply for education benefits" task completion  | <ul><li> This is a secondary top Veteran task </li><li> High clickthrough use on the link in the "Top 4 box" on the current homepage </li><li> A direct link for this task is not displayed on the body of the homepage in the redesign </li></ul>  | Traffic to [Apply for VA Education Benefits page](https://www.va.gov/education/apply-for-education-benefits/application/1990/introduction/) initiated from homepage 	| <li>198,762 users<li>2.22%		|	2.0% or better (_acceptable within 10%_) | Critical |
 | Satisfaction score (dependent on the return of the feedback button to the current VA.gov homepage) | new homepage satisfaction scores are equivalent or better than existing page	|	Medallia feedback | 2.23/5 with 126 responses and 27% task completion with 82 responses | 2/5 or better with at least 25% task completion | Critical |
-| Scroll depth | Measurement of engagement with content "below the fold" | Compared to level assessed during usability research | Average scroll depth/month during 4Q 2022 = 62.8%, Baseline from user research = 55% of participants clicked into footer | Comparable | Critical
-| Interactions with benefit hubs | Measurement of engagement with content "below the fold" | Compared to level assessed during usability research | Baseline from user research = 55% | Comparable  |Important but not a deal breaker
+| Scroll depth | Measurement of engagement with content "below the fold" | ~~Compared to level assessed during usability research~~ Compare to baseline scroll depth | Average scroll depth/month during 4Q 2022 = 62.8%, ~~Baseline from user research = 55% of participants clicked into footer~~ _correction: usability study not comparable_ | Comparable | Critical
+| Interactions with benefit hubs | Measurement of engagement with content "below the fold" | ~~Compared to level assessed during usability research~~ Baseline analytics | ~~Baseline from user research = 55%~~ _correction: compare to baseline analytics, not study of 11 participants_ | Comparable  | Important but not a deal breaker
 |	User engagement - promo content #1 | Stakeholder content intended to present relevant Veteran information about changes to benefits and services | 	Click through rate for benefit promo story [PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) |	6/<0.01%	|	Increased	| Important but not a deal breaker| 
 |	User engagement - promo content #2 | Stakeholder content intended to present meaningful Veteran news 	|	Click through rate for news story [Pathfinder](https://pathfinder.va.gov/)	| 0/0%		|	Increased |Important but not a deal breaker |	
 |	User engagement - promo content #3 | Access to full news site 	|	Click through rate to all VA News	[Vantage Point is now VA News](https://news.va.gov/)	| 6/<0.01% | Increased |Important but not a deal breaker | 
@@ -39,6 +39,20 @@
   - 190,661 users the first week
   - 231,517 users the second week
 
+### Role of bias in experiment
+  
+By introducing the new homepage as an opt-in experience, we are introducing unknown biases into our experiment. Users themselves are joining the experimental and control groups.
+  
 The feedback and analytics collected on the redesign version may not be a representative sample because 
   - Access to the redesigned page will be based on user "opt-in" from the existing homepage, making the data subject to selection bias and/or status quo bias. Feedback collected across VA.gov also has this potential selection bias so the comparison of results with the existing homepage should still be valid. 
   - Data indicates that Veterans and beneficiaries with login accounts tend to skip the homepage so they will not see the modal announcement or be able to provide feedback on the new homepage. Other Veterans visiting VA.gov with a specific task in mind may be less inclined to view the new homepage during that visit or to take time to complete a feedback survey. These factors may lead to data which disproportionally represents new or unlogged in users. We should be able to sort these segments in the analytics to quantify this potential imbalance. 
+
+#### Detection of biases
+
+Steps to compare experimental and control groups for signs that they are self-selecting in non-random ways:
+- Create two Segments in GA: 1) for users who visit both the VAgov homepage `/` and the url `/new-home-page` during their visit, 2) for those who don't
+- Compare behaviors and demographics between the two segments, per KPIs below
+  
+KPIs/behaviors to watch across the two segements:
+- Desktop vs mobile %
+- High level stats like number of pages visited

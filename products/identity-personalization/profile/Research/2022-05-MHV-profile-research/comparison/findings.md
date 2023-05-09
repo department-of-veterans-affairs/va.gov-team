@@ -69,3 +69,4 @@ We'll conduct interviews with MHV stakeholders in the next sprint, and start pla
 
 [image:6517351A-8F80-4B35-9A5A-4D5BE06DB4E7-28619-00002A61D53A6D21/FCF56A9A-4781-404F-8644-C578E0D72C28.png]
 
+- [Recommendations]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research/recommendations.md)) based on all research activities for this initaitive. 

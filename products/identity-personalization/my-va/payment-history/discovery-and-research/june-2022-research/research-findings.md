@@ -19,7 +19,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 ## Findings
 ### Our Hypothesis
 
-**1. Users will be able to clearly see and read the notification at the top of the page and will know how to act on it if they wished to see more details or resolve a debt.**
+#### 1. Users will be able to clearly see and read the notification at the top of the page and will know how to act on it if they wished to see more details or resolve a debt.
 - Mostly true.
 - All users noticed the notification right away.
 - 2 out of 8 users had some trouble reading the date text without zooming in.
@@ -31,7 +31,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 	> [If I paid the debt and the notification was still there] My anxiety level would go through the roof. It makes me want to drive to the VA and see what’s going on. Once I pay the debt, I would expect it to go away. - P5
 
-**2. Veterans will find the debt information useful and will be able to determine a path to resolve debts that are due from My VA.**
+#### 2. Veterans will find the debt information useful and will be able to determine a path to resolve debts that are due from My VA.
 - Mostly true.
 - All veterans said they would rather manage their debt on VA.gov than through the mail and over the phone, and they would find the debt information on My VA useful.
 - The most important information about debts varied but had some repeated responses:
@@ -43,7 +43,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 	> I would have liked to be notified with an email or notification for my debt. I only log on VA.gov a few times a year. An electronic form of communication including the letter. I check my email every day. - P12
 
-**3. Veterans will be able to tell the difference between amounts that are due and amounts that have been paid to them on My VA.**
+#### 3. Veterans will be able to tell the difference between amounts that are due and amounts that have been paid to them on My VA.
  - Definitely true.
  - 7 out of 8 veterans said it was clear that the outstanding debts amounts were due to the VA and the benefit payments amounts had been paid to them.
  - 2 out of 8 veterans expressed confusion about whether the debt amount was an amount that would be due every month or a total amount of all debt.
@@ -52,7 +52,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
  	> I'm confused if it's a one-time amount or a monthly payment. - P5
 
-**4. Surfacing more details about debts and payments is important to Veterans and is something they would want to see upon logging into the site.**
+#### 4. Surfacing more details about debts and payments is important to Veterans and is something they would want to see upon logging into the site.
 - Definitely true.
 - All veterans that we tested with who had debt previously (7 out of 8) received information about it in the mail and paid it through the mail or over the phone. They all said they would have preferred electronic communication and to manage and pay it online.
 - Most veterans expressed frustration with having to hunt down important details and different ways to pay their debt.
@@ -63,7 +63,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
  	> I had to call them to get information on how much. There was no platform for me to manage my debt. This was a while ago. I received a letter in the mail that was delayed about a year. I didn’t know how much I needed to pay and timing. - P10
 
-**5. There may be some confusion around whether copays should fall under debts or belong under a healthcare-related section because feedback on this topic has been split fairly even so far.**
+#### 5. There may be some confusion around whether copays should fall under debts or belong under a healthcare-related section because feedback on this topic has been split fairly even so far.
 - Somewhat true.
 - 2 out of 8 users said they thought copays should belong under health care.
 - 4 out of 8 users said copays made sense to be under debts. The others did not comment on copays.
@@ -72,17 +72,17 @@ This topline summary is a high level, top of mind summary of trends found in the
  	> [When asked about the outstanding debts section title] I would assume ‘Outstanding debts’ would include co-payments. I guess it would show a breakdown of the debts. - P3
 
 ### Research questions
-**1. Is the redesigned notification style clear and actionable?**
+#### 1. Is the redesigned notification style clear and actionable?
 - For the most part, yes.
 - The content, visibility, and actionability of the notification had overall very positive feedback.
 - Only 1 out of 8 veterans knew they would have to dismiss the notification themself for it to disappear.
 
-**2. Do the titles of Outstanding Debts and Benefit Payments sections accurately convey the content?**
+#### 2. Do the titles of Outstanding Debts and Benefit Payments sections accurately convey the content?
 - Yes.
 - Only 1 out of 8 veterans was confused by one of the titles and thought benefit payments might be something that will be paid to them in the future.
 - All of the others (7 out of 8) defined the sections correctly without seeing any of the content.
 
-**3. Are the details displayed the most important pieces of information for debts?**
+#### 3. Are the details displayed the most important pieces of information for debts?
 - Somewhat.
 - All of the details shown were important to veterans except for the last updated date.
 - 3 out of 8 veterans said that date was useful to know but the rest were not sure exactly what it meant.
@@ -90,12 +90,12 @@ This topline summary is a high level, top of mind summary of trends found in the
 - All veterans found the dollar amounts, number of debts, and action link to be useful.
 - 4 out of 8 veterans said the most important piece of information about a debt is what it's for.
 
-**4. Is the logical next step for debts effectively presented to the veteran and do they know how to take action on it?**
+#### 4. Is the logical next step for debts effectively presented to the veteran and do they know how to take action on it?
 - Yes.
 - All veterans knew where they could go from My VA to take the next step, whether they said they would want to find out more information, seek payment options, verify accuracy, or request help.
 - One of the colorblind users said it was helpful to have the Manage your VA debt link underlined so that he could tell he could click on it since the blue color did not look blue to him.
 
-**5. Are the most important pieces of payment information being presented on My VA?**
+#### 5. Are the most important pieces of payment information being presented on My VA?
 - Yes.
 - Veterans said the payment section was "straightforward" and they did not have any confusion or questions about it.
 - The only piece of information we are omitting from the current design is the last 4 digits of the direct deposit account.

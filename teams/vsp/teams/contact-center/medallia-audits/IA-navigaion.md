@@ -9,13 +9,13 @@ Medallia responses were pulled based on specific keywords. These responses were 
 
 The following criteria was used as filters for the Medallia export:
 
--   Date range: 1/1/2022---12/31/2022
--   Intercept survey
--   "Please rate your experience with VA.gov today" where the user selected 1-2
--   The terms "Navigation," "can't find" or "header" were mentioned in the field "Why did you select that rating?"
--   Feedback survey
--   The user selected "No" to the question "Were you able to do your task today?"
--   "What task were you trying to do today?"
+*   Date range: 1/1/2022---12/31/2022
+*   Intercept survey
+    * "Please rate your experience with VA.gov today" where the user selected 1-2
+    *  The terms "Navigation," "can't find" or "header" were mentioned in the field "Why did you select that rating?"
+*   Feedback survey
+    * The user selected "No" to the question "Were you able to do your task today?"
+    * The terms "Navigation," "can't find" or "header" were mentioned in the field  "What task were you trying to do today?"
 
 ### "Navigation"
 |Total Responses         | 1,647     |

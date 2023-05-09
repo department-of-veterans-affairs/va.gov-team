@@ -1,18 +1,18 @@
 # Onsite Notifications Use Cases
 **Last updated:** November 3, 2022
 
-For all use cases, the user must be LOA3 (identity verified). If the user is not LOA3, they will see a prompt to verify their identity and only be able to apply for benefits [(see LOA1 documentation)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/use-cases/onsite-notifications-loa1-user.md).
+For all use cases, the user must be LOA3 (identity verified). If the user is not LOA3, they will see a prompt to verify their identity and only be able to apply for benefits [(see LOA1 documentation)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/use-cases/onsite-notifications-loa1-user.md).
 
 ## Common Use Cases
 
 ### User logs in with LOA1 account
 
-- [User logs in with LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/use-cases/onsite-notifications-loa1-user.md)
+- [User logs in with LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/use-cases/onsite-notifications-loa1-user.md)
 
 ### User logs in with LOA3 account
 
-- [User has a notification or multiple notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/use-cases/user-has-notifications.md)
-- [User does not have notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/use-cases/user-does-not-have-notifications.md)
+- [User has a notification or multiple notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/use-cases/user-has-notifications.md)
+- [User does not have notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/use-cases/user-does-not-have-notifications.md)
 
 
 ## Edge Cases

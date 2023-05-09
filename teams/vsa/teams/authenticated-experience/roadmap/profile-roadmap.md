@@ -1,35 +1,33 @@
 # VA.gov profile roadmap
 
-**Last updated: February 2, 2023**
+**Last updated: March 23, 2023**
 
 ## Current projects & enhancements
 
 |Project|Status|
 |----|----|
-|Notification preferences: Integration MHV prefs| Planning |
 |Accessibility audit| FE build |
-|Notification preferences: Adding email as a channel| Research|
-|Direct deposit for comp & pen EVSS > Lighthouse migration| Discovery|
-
+|Direct deposit for comp & pen EVSS > Lighthouse migration| Build|
+|Notification preferences: Adding email as a channel| Build |
 
 ### Projected timelines for current projects & enhancements
 
 Quarters are by calendar year, not fiscal year.
 
-|Project| Q4 2022| Q1 2023|Q2 2023|Q3 2023|Q4 2023|
-|----|----|----|----|----|----|
-|**Notification preferences: Integration MHV prefs**| Define needs with MHV |VA Profile intake; Determine next steps|TBD|TBD|TBD|
-|**Accessibility audit and updates**| Design & frontend build |Frontend to finish last updates|-|-|-|
-|**Notification preferences: Adding email as a channel**| - |Research & finalizing design|TBD|TBD|TBD|
-|**Direct deposit for comp & pen EVSS > Lighthouse migration**| - |Discovery| BE build|Launch|-|-|
+|Project| CYQ1 2023|CYQ2 2023|CYQ3 2023|CYQ4 2023|
+|----|----|----|----|----|
+|**Accessibility audit and updates**|Frontend to finish last updates|-|-|-|
+|**Notification preferences: Adding email as a channel**|Research & finalizing design|Discovery; build|Targeted launch|-|
+|**Direct deposit for comp & pen EVSS > Lighthouse migration**|Discovery| BE build|Launch|-|
 
 ## Completed projects & enhancements
 
 |Project or enhancement|Launch/Completion date|
 |----|----|
+|[Semantic list improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19618)|March 2023|
 |[Account Security: Update designs to support 508 updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51085)|Launched February 2, 2023|
 |[Personal Info page: Add full name and disability rating fields](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49651)| Launched January 19, 2023|
-|[Add BVS status update notification preference](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47441)|Live to 100% December 19, 2022|
+|[Add Board of Veteran's Appeals status update notification preference](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47441)|Live to 100% December 19, 2022|
 |[Add DD214 link to military info page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48782)| November 22, 2022|
 |[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)|Launched completed October 24, 2022|
 |[Restricted character set for address fields to certain alphabetic and alphanumeric characters](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45400)| August 2022|
@@ -71,6 +69,7 @@ Quarters are by calendar year, not fiscal year.
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
+|Upgrade to contact info V2 and address validation V3| VA Profile| Initial heads-up 3.23.23| Mike Richard mentioned we'll need to update our contact information and address validation functionality to the next level of service, but says that while the updates will likely be available between April and June, there is no set timeline for sunsetting the versions we are on now.|
 |Telephone verification functionality| VA Profile| 1.26.23| Karisa Strickland brought this up on our 1.26.23 call, and that they would like to pilot something with us during Q2 CY2023|
 | Integrate emergency contact, next of kin, and insurance information into the VA.gov profile | Ming/Caregivers/Check-in experience| 5.4.21 | Ming reached out about adding this info into the profile as part of the check-in experience work, but we agreed that it probably doesn't need to reflect in the profile for their MVP. However it likely should show and be updatable from there at some point in time.|
 |Remove extension for non-work phone numbers | VA Profile |September 2020| We had some initial conversations about this with VA Profile, but it still hasn't gone anywhere|

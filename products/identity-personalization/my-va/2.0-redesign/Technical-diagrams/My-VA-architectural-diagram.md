@@ -1,1 +1,4 @@
-![118527092-c8f9f800-b6f5-11eb-8332-3462912841ca](https://user-images.githubusercontent.com/45603961/118549322-4854ef00-b729-11eb-9bf5-d9e6790c68f8.png)
+# My VA Architecture Diagram
+_Last updated: May 3, 2023. New diagram created to reflect the latest version of My VA, which includes information about claims and appeals, health care, outstanding debts, benefit payments, and education benefits, as well as onsite notifications._
+
+![My VA Architecture Diagram](https://user-images.githubusercontent.com/534756/236293186-88497a33-cd3f-4dd9-99d8-5f94717c507e.png)

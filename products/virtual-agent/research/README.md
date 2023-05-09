@@ -1,23 +1,24 @@
 # Research
 
-
-## The role of research for phase 2
-
-
-We'll be conducting research to understand Veterans experience and validate our work, and will update this document with our activities
-
-There are two additional sources of work to incorporate for phase 2:
-
-- incorporating findings from the work the BAH team have done as stories.  These are being monitored in the Research Tracker Google doc the Thoughtworkss team is mantaining
-
-- incorporatinig ongoing accessibility considerations, especially WCAG 2.1
-
-
-
-## Phase 2 Research Activites and Output - coming soon!
+## 2023 Research
 | Date                 | Activity                 | Description         | Output        |
 | :-------------              | :-------------              |:-------------         |:-------------|
-| **TBD** | TBD | TBD | TBD
+
+## Phase 3 Research Activites and Output
+| Date                 | Activity                 | Description         | Output        |
+| :-------------              | :-------------              |:-------------         |:-------------|
+| **August 2022** | Live Bot Research Synthesis |  6 remote, moderated user testing sessions for guidance through Chatbot feedback flows | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/Live%20Bot%20User%20Testing)|
+| **August 2022** | Chatbot Placement Research | multiple rounds of remote testing to determine where user would like the chatbot to exist on the VA site | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/chatbot-placement.md)|
+| **September 2022** | Chatbot Feature Prioritization | 10 remote, moderated user testing sessions about which chatbot features are most important to users | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/2022-09-Chatbot%20Feature%20Prioritization)|
+
+
+## Phase 2 Research Activites and Output
+| Date                 | Activity                 | Description         | Output        |
+| :-------------              | :-------------              |:-------------         |:-------------|
+| **November 2021** | Claims and Automated Content Study | Interviewed 7 veterans about new claims feature | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/claims-and-automated-content-study)|
+| **January 2022** | Spanish Speaking Veterans | Interviewed 7 Hispanic bilingual veterans about their chatbot needs | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/spanish%20speaking%20veterans)|
+| **March 2022** | Authorization Flow Research | 5 remote user testing sessions regarding authentication within the chatbot | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/non-auth%20to%20auth)|
+| **March 2022** | Onboarding | product overview | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/onboarding)|
 
 
 ## Phase 1 Research Activites and Output

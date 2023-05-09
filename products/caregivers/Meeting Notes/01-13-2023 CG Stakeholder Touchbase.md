@@ -10,7 +10,7 @@
           - Veteran has to apply again without primary listed
      - Can we call MPI for approved caregiver?
           - Don't want to block if it is approved, but can we check for matching info in same position?
-     - **Opportunity** We could add some info to the form about this
+     - **Opportunity** How can we help applicants understand how to fill out the form?
      - Do we know the volume of applications that are considered duplicate?
           - We can pull this 
           - Caveat - based on staff marking application properly according to policy
@@ -18,7 +18,7 @@
      - **Tiffany will send with monthly volumes when I send my routine request**
 
 - Do we know the ratio or volume or applications that are approved vs declined?  
-     - We don't have visibility into this metric and wondered what the most common reasons for rejection, if there is a significant volume
+     - 10-10 team does not have visibility into this metric and wondered what the most common reasons for rejection, if there is a significant volume
      - Our question to ourselves would be Is there anything we can change that could help reduce the volume of rejected applications?
      - **Tiffany will send with monthly volumes when I send my routine request**
 
@@ -31,11 +31,13 @@
                     - year or day will flip one over (one number off)
                - Signature fields 
                     - wrong person name entered (secondary enteres in primary field)
+                    - This can only occur on the Paper form, the Online form has a field validation
                - First & Last name 
                     - listing Jon instead of Jonathan, Cat instead of Cathy
                - Non-req fields that are useful 
                     - Such as Middle name, useful in ensuring Bank info matches so payments can be processed
           - Business is working on video and document How-to
+          - **Opportunity** How can we help reduce these kinds of errors?
 
 
 - Is there a way to obtain the volume of rerouted applications, due to Veterans’ preferred facility selections?

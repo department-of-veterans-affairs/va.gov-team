@@ -1,414 +1,601 @@
-[Mural flow](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923531828/474bfdde942c22a0df26ad416a0b23e36b834d4a?sender=u6ad375c1c8425e5bfec67027)
+## Content source of truth
 
-## Apply for VA health care
-
-Enrollment Application for Health Benefits (VA Form 10-10EZ)
-
-VA health care covers care for your physical and mental health. This includes a range of services from checkups to surgeries to home health care. It also includes prescriptions and medical equipment. Apply online now.
+---
 
 
-_(blue box)_
-**Have you applied for VA health care before?**
+- [Mural flow](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923531828/474bfdde942c22a0df26ad416a0b23e36b834d4a?sender=u6ad375c1c8425e5bfec67027) - OUTDATED (can't update will move to VA Mural instance)
+- [VA Mural flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1682696116933/9352d9dbbe6d6aa9a05eddcac8c82521512d9795?sender=uadf1ed7fe7c76f0914967329)
+- [Sketch wireflows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/DPjA4ba)
 
-Sign in to check your application status _(link)_
+--- 
 
-_(end blue box)_
+Pages listed below
 
-### Follow these steps to get started
+---
 
-**1. Check your eligibility**
+### Page: Introduction
 
-Make sure you meet our eligibility requirements for enrollment before you apply. 
+#### URL: /health-care/apply/application/introduction
 
-**Note:** We can help connect you with mental health care—no matter your discharge status, service history, or eligibility for VA health care. [Find out how to get mental health care](https://www.va.gov/health-care/health-needs-conditions/mental-health/). 
 
-What are the eligibility requirements to enroll in VA health care? _(more info)_
+[h1] Apply for VA health care
 
-You may be eligible to enroll in VA health care if all of these statements are true:
-- You served in the active military, naval, or air service (including being called up from the National Guard or Reserve by a federal order), **and**
+[p class] Enrollment Application for Health Benefits (VA Form 10-10EZ)
+[p] VA health care covers care for your physical and mental health. This includes a range of services from checkups to surgeries to home health care. It also includes prescriptions and medical equipment. Apply online now.
+
+[component blue background alert]
+
+[h2] Have you applied for VA health care before?
+
+[button primary] Sign in to check your application status 
+
+[END component blue background alert]
+
+[h2 class h3]  Follow these steps to get started
+
+[component process list]
+
+[h3 class h4] 1. Check your eligibility
+
+[p] Make sure you meet our eligibility requirements for enrollment before you apply. 
+[p] [bold]Note:[end bold] We can help connect you with mental health care—no matter your discharge status, service history, or eligibility for VA health care. [a = https://www.va.gov/health-care/health-needs-conditions/mental-health/] Find out how to get mental health care [/a]). 
+
+[component additional info]
+[title] What are the eligibility requirements to enroll in VA health care?
+[content]
+[p] You may be eligible to enroll in VA health care if all of these statements are true:
+[ul]
+ - You served in the active military, naval, or air service (including being called up from the National Guard or Reserve by a federal order), **and**
 - You didn’t receive a dishonorable discharge, **and**
 - You meet at least one of the service requirements for enrollment
+[end ul]
 
-You must meet at least one of these service requirements:
+[p] You must meet at least one of these service requirements:
+[ul]
 - You served at least 24 months in a row without a break (called continuous), or for your full active-duty period, **or**
 - You were discharged for a service-connected disability, **or**
 - You were discharged for a hardship or “early out,” **or**
 - You served before September 7, 1980 
+[end ul]
 
-**Note:** Time spent on active-duty status for training purposes only doesn’t count toward the service requirements. 
-
+[p] **Note:** Time spent on active-duty status for training purposes only doesn’t count toward the service requirements. 
 [Get instructions on how to apply for a discharge upgrade or correction](https://www.va.gov/discharge-upgrade-instructions/) 
 
+[END component additional info]
 
-_(end more info)_
+[h3 class h4] 2. Gather your information
 
+[p] Here’s what you’ll need to apply:
 
-**2. Gather your information**
-
-Here’s what you’ll need to apply:
+[ul]
 - **Social Security numbers** for you, your spouse, and your qualified dependents
 - **Your military discharge information.** If you sign in to apply, we may be able to fill in this information for you. If you don’t sign in to apply, we’ll ask you to upload a copy of your DD214 or other separation documents.**
 - **Insurance cards** for all health insurance companies that cover you. This includes any coverage that you get through a spouse or significant other. This also includes Medicare, private insurance, or insurance from your employer. 
+[end ul]
 
+[p] We’ll also ask you for this optional information:
 
-We’ll also ask you for this optional information:
+[ul]
 - **Last year's gross household income** for you, your spouse, and your dependents. This includes income from a job and any other sources. Gross household income is your income before taxes and any other deductions.
 - **Your deductible expenses for the past year.** These include certain health care and education costs. These expenses will lower the amount of money we count as your income.
+[end ul]
 
-Why does the VA need this information?  _(more info)_
 
-When you apply, we review this information:
+[component additional info]
+[title] Why does the VA need this information? 
+
+[content] 
+[p] When you apply, we review this information:
+[ul]
 - Your service history
 - Your VA disability rating
 - Your income level (and the income level of your spouse or other qualified dependents)
 - Your eligibility for Medicaid, VA disability compensation, and VA pension benefits
+[end ul]
 
-We use this information to help us decide these 3 things:
+
+[p] We use this information to help us decide these 3 things:
+[ul]
 - What types of VA health care benefits you're eligible for, **and**
 - How soon we enroll you in VA health care, **and**
 - How much (if anything) you’ll have to pay toward the cost of your care
+[end ul]
 
-We give Veterans with service-connected disabilities the highest priority.
 
-**Note:** We ask about other health insurance for billing only. Having other health insurance doesn’t affect your eligibility for VA health care.
+[p] We give Veterans with service-connected disabilities the highest priority.
+[p] **Note:** We ask about other health insurance for billing only. Having other health insurance doesn’t affect your eligibility for VA health care.
+[END component additional info]
 
-_(end more info)_
 
-**3. Start your application**
+[h3 class h4] 3. Start your application
+[p] We’ll take you through each step of the process. It should take about 30 minutes.
 
-We’ll take you through each step of the process. It should take about 30 minutes.
+[component additional info]
+[title] What happens after I apply? 
+[content]
+[p] We process health care applications within about a week. We’ll send you a letter in the mail with our decision.
+[p] If you don’t receive your decision letter within a week after you apply, please don’t apply again. Call us at 877-222-8387 _(link)_ (TTY: 711)_(link)_. We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+[END component  additional info ]
+[END component process list]
 
-What happens after I apply?  _(more info)_
-
-We process health care applications within about a week. We’ll send you a letter in the mail with our decision.
-
-If you don’t receive your decision letter within a week after you apply, please don’t apply again. Call us at 877-222-8387 _(link)_ (TTY: 711)_(link)_. We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-_(end more info)_
-
-**Save time and save your work in progress**
-
-Here's how signing in now helps you:
+[component alert info]
+[h2] Save time and save your work in progress
+[p] Here's how signing in now helps you:
+[ul]
 - We can fill in some of your information for you to save you time.
 - You can save your work in progress. You'll have 60 days from when you start or make updates to your application to come back and finish it. 
+[end ul]
 
+[p] **Note:** You can sign in after you start your application. But you'll lose any information you already filled in. 
+[button primary] [Sign in to start your application]
+[a link] Start your application without signing in
 
-**Note:** You can sign in after you start your application. But you'll lose any information you already filled in. 
+[END component alert info]
 
-[Sign in to start your application]
-
-Start your application without signing in _(link)_
-
+[component OMB info]
 How much time we think you'll need to apply (called respondent burden): **30 minutes**
-
 OMB Control #: 2900-0091
-
 Expiration date: 06/30/2024
+[END component OMB info]
 
-Privacy Act statement (_popup_)
+[button secondary] Privacy Act statement (_popup_)
 
-**Need help?**
-**If you have trouble using this online application,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online application,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
 
 **If you need help to gather your information or fill out your application/form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
 
 **If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 
-## We need some information before you can start your application
-This will help us fit the application to your specific needs. Please fill out the form below. Then we’ll take you to the VA health care application (10-10EZ).
+[END component form need help, health care] 
 
-**Want to skip this step?**
 
-[Sign in to start your application.](https://staging.va.gov/health-care/apply/application/id-form)
+--- 
 
-First name (*Required)
+### Page: Unauthenticated Pre-Check
 
-Last name (*Required)
+#### URL: /health-care/apply/application/id-form
 
-Date of birth (*Required)
+[h1] We need some information before you can start your application
 
-Month Day Year _(dropdown)_
+[p] This will help us fit the application to your specific needs. Please fill out the form below. Then we’ll take you to the VA health care application (10-10EZ).
 
-Social Security number(*Required)
+[p bold] Want to skip this step?
+[a] Sign in to start your application.
 
-[Continue to the application>>]
+[component text input label] First name (*Required)
 
-## Step 1 of 6: Veteran Information
+[component text input label] Last name (*Required)
 
-You aren’t required to fill in all fields, but we can review your application faster if you provide more information.
+[label] Date of birth (*Required)
+Month Day Year (dropdowns)
 
-Your first name (*Required)
+[component text input label] Social Security number(*Required)
 
-Your middle name
+[button primary] [Continue to the application>>]
 
-Your last name (*Required)
 
-Suffix  _(dropdown)_ Jr. Sr. II III IV
+---
+## Step 1 Veteran Information
+---
 
-Mother’s maiden name
 
-[<< Back] [Continue >>]
+### Page: Veteran’s Name
 
+#### URL: /health-care/apply/application/veteran-information/profile-information
 
-## Step 1 of 6: Veteran Information
-Date of birth (*Required)
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
 
-Month Day Year _(dropdown)_
+[p] You don’t have to fill in all these fields. But we can review your application faster if you provide more information.
 
-Social Security number(*Required)
+[component form text input label] Your first name (*Required)
 
-**Your place of birth**
+[component form text input label] Your middle name
 
-Enter your place of birth, including city and state, province or region.
+[component form text input label] Your last name (*Required)
 
-Why we ask for this information _(more info)_
+[component form text input label] Suffix (dropdown) Jr. Sr. II III IV
 
-We ask for place of birth as an identity marker for record keeping. This will not impact your health care eligibility.
+[button pair] [<< Back] [Continue >>]
 
-City
 
-State/Province/Region _(dropdown)_
+---
 
-[<< Back] [Continue >>]
+### Page: Social Security number
 
-## Step 1 of 6: Veteran Information
+#### URL: /health-care/apply/application/veteran-information/profile-information-ssn
 
-What sex were you assigned at birth? (*Required) 
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
 
-Why we ask for this information _(more info)_
+[component text input label] Social Security number (*Required)
 
-Population data shows that a person’s sex can affect things like their health risks and the way their body responds to medications. Knowing your sex assigned at birth, along with other factors, helps your health care team use data to:
+[button pair] [<< Back] [Continue >>]
 
-- Interpret your lab results
-- Prescribe the right dose of medications
-- Recommend health prevention screenings
 
-We also collect this information to better understand our Veteran community. This helps us make sure that we’re serving the needs of all Veterans.
+---
 
-_(end more info)_
+### Page: Date of birth
 
-Female 
+#### URL: /health-care/apply/application/veteran-information/profile-information-dob
 
-Male
 
-[<< Back] [Continue >>]
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
 
-## Step 1 of 6: Veteran Information
+[component date label] Date of birth (*Required)
 
-Marital status (*Required) _(dropdown)_ Married, Never Married, Separated, Widowed, Divorced
+[dropdowns for: month, day] [ input for year]
 
-Why we ask for this information _(more info)_
+[button pair] [<< Back] [Continue >>]
 
-We want to make sure we understand your household’s financial situation.
 
-We’ll ask about your income. If you’re married, we also need to understand your spouse’s financial situation. This allows us to make a more informed decision about your application.
+---
 
-_(end more info)_
+### Page: Place of birth
 
-[<< Back] [Continue >>]
+#### URL: /health-care/apply/application/veteran-information/birth-information
 
-## Step 1 of 6: Veteran Information
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
 
-What is your race, ethnicity, or origin? (Please check all that apply.) 
+[fieldset legend title] Your place of birth
+[p] Enter your place of birth, including city and state, province or region.
 
-_hint text_ Information is gathered for statistical purposes only.
+[component additional info]
+[label] Why we ask for this information
+[content]
+[p] We ask for place of birth as an identity marker for record keeping. This will not impact your health care eligibility.
 
-_(checkboxes)_
+[END component additional info]
 
-American Indian or Alaskan Native
+[component text input label] City
 
-Asian
+[component select label] State/Province/Region
 
-Black or African American
+[button pair] [<< Back] [Continue >>]
 
-Hispanic, Latino, or Spanish
 
-Native Hawaiian or Other Pacific Islander
+--- 
+### Page: Maiden name
 
-White
+#### URL: /health-care/apply/application/veteran-information/maiden-name-information
 
-Prefer not to answer
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
 
-[<< Back] [Continue >>]
+[component text input label] Mother’s maiden name
 
-## Step 1 of 6: Veteran Information
-**Mailing address**
+[button pair] [<< Back] [Continue >>]
 
-We’ll send any important information about your application to this address. Any updates you make here to your address will apply only to this application.
+--- 
+### Page: Birth sex
 
-Country(*Required) _(dropdown)_
+#### URL: /health-care/apply/application/veteran-information/birth-sex
 
-Street address(*Required)
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
 
-Street address line 2
+[component radio select label] What sex were you assigned at birth?(*Required)
 
-Street address line 3
+[select options: Female, Male]
 
-City(*Required)
+[button pair] [<< Back] [Continue >>]
 
-State (*Required)  _(dropdown)_
 
-Postal code(*Required)
+---
+### Page: Demographics
 
-Is your home address the same as your mailing address?(*Required)
+#### URL: /health-care/apply/application/veteran-information/demographic-information
 
-Yes
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
 
-No
+[component checkboxes label] What is your race, ethnicity, or origin? (Please check all that apply.)
 
-[<< Back] [Continue >>]
+[hint text] Information is gathered for statistical purposes only.
 
-_If no_
+[checkbox options]
+- American Indian or Alaskan Native
+- Asian
+- Black or African American
+- Hispanic, Latino, or Spanish
+- Native Hawaiian or Other Pacific Islander
+- White
+- Prefer not to answer
 
-## Step 1 of 6: Veteran Information
+[button pair] [<< Back] [Continue >>]
 
-**Home address**
 
-Any updates you make here to your address will apply only to this application.
 
-Country(*Required) _(dropdown)_
+---
 
-Street address(*Required)
+### Page: Mailing address
 
-Street address line 2
+#### URL: /health-care/apply/application/veteran-information/veteran-address
 
-Street address line 3
 
-City(*Required)
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
 
-State (*Required) _(dropdown)_
+[fieldset legend title] Mailing address
 
-Postal code(*Required)
+[p] We’ll send any important information about your application to this address. Any updates you make here to your address will apply only to this application.
 
-## Step 1 of 6: Veteran Information
+[component select label] Country(*Required)
 
-Email address
+[component text input label] Street address(*Required)
 
-Re-enter email address
+[component text input label] Street address line 2
 
-Home telephone number
+[component text input label] Street address line 3
 
-Mobile telephone number
+[component text input label] City(*Required)
 
-[<< Back] [Continue >>]
+[component select label] State(*Required)
 
-## Step 2 of 6: Military Service
+[component text input label] Postal code(*Required)
 
-Last branch of service(*Required) _(dropdown)_ Air Force, Army, Coast Guard, Marine Corps, Merchant Seaman, Navy, Noaa, Space Force, USPHS, Filipino Commonwealth Army, Filipino Guerilla Forces, Filipino New Scout, Filipino Old Scout, Other
+[component radio button label] Is your home address the same as your mailing address?(*Required)
 
-Service start date (*Required)
+[radio options:]
+- Yes
+- No
 
-Month Day Year _(dropdown)_
+[Yes = continue goes to contact information, No = home address]
 
-Service end date (*Required)
+[button pair] [<< Back] [Continue >>]
 
-Month Day Year _(dropdown)_
 
-Character of service(*Required) Honorable, General, Other Than Honorable, Bad Conduct, Dishonorable, Undesirable
+--- 
 
-[<< Back] [Continue >>]
+### Page: Home address
 
-## Step 2 of 6: Military Service
-**Service history**
+#### URL: /health-care/apply/application/veteran-information/veteran-home-address
 
-Check all that apply to you._(checkboxes)_
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
 
-Purple Heart award recipient
+[fieldset legend title]  Home address
 
-Former Prisoner of War
+[p] Any updates you make here to your address will apply only to this application.
 
-Served in combat theater of operations after November 11, 1998
+[component select label] Country(*Required)
 
-Discharged or retired from the military for a disability incurred in the line of duty
+[component text input label] Street address(*Required)
 
-Served in Southwest Asia during the Gulf War between August 2, 1990, and Nov 11, 1998
+[component text input label] Street address line 2
 
-Served in Vietnam between January 9, 1962, and May 7, 1975
+[component text input label] Street address line 3
 
-Exposed to radiation while in the military
+[component text input label] City(*Required)
 
-Received nose/throat radium treatments while in the military
+[component select label] State(*Required)
 
-Served on active duty at least 30 days at Camp Lejeune from January 1, 1953, through December 31, 1987
+[component text input label] Postal code(*Required)
 
-[<< Back] [Continue >>]
+[button pair] [<< Back] [Continue >>]
 
-## Step 2 of 6: Military Service
+---
 
-**Upload your discharge papers**
+### Page: Contact information
 
-Please upload a copy of your military discharge papers (like your DD214, DD256, DD257, NGB22, or other separation documents). If you have more than one discharge document, please upload the one with the highest character of discharge. If you don’t have your discharge papers, you can upload a copy of other official military documents (like proof of military awards or your disability rating letter).
+#### URL: /health-care/apply/application/veteran-information/contact-information
 
-You don’t have to upload these documents. But it can help us verify your military service and may speed up your application process.
+[component progress bar]
+[h2] Step 1 of 6: Veteran Information
+[end progress bar]
 
-**Tips for uploading:**
+[p] Adding your email and phone number is optional. But this information helps us contact you faster if we need to follow up with you about your application. If you don’t add this information, we’ll use your address to contact you by mail.
 
-- Upload documents as one of these file types: .jpg, .png, .pdf, .doc, .rtf
-- Upload one or more files that add up to no more than 10 MB total.
-- If you don’t have a digital copy of a document, you can scan or take a photo of it and then upload the image from your computer or phone.
+[p] **Note:** We’ll always mail you a copy of our decision on your application for your records.
 
-[Upload a document]
+[component text input label] Email address
 
-[<< Back] [Continue >>]
+[component text input label] Home telephone number
 
-## Step 3 of 6: VA Benefits
+[component text input label] Mobile telephone number
 
-**Current compensation from VA**
+[button pair] [<< Back] [Continue >>]
 
-VA disability compensation (pay) provides monthly payments to Veterans with service-connected disabilities. You may get this benefit if you got sick or injured, or had a condition that got worse, because of your active-duty service. We assign a disability rating based on the severity of your disability.
 
-Do you receive VA disability compensation? (*Required)
 
-Why we ask for this information _(more info)_
+---
+## Step 2 VA Benefits
+---
 
-We use this information to help us decide these 4 things:
 
+### Page: Compensation from VA / Service Connected Disability
+
+#### URL: /health-care/apply/application/va-benefits/basic-information
+
+[component progress bar]
+[h2] Step 2 of 6: VA benefits
+[end progress bar]
+
+[fieldset legend title]  Current compensation from VA
+
+[p] VA disability compensation (pay) provides monthly payments to Veterans with service-connected disabilities. You may get this benefit if you got sick or injured, or had a condition that got worse, because of your active-duty service. We assign a disability rating based on the severity of your disability.
+
+[radio select label] Do you receive VA disability compensation?(*Required)
+
+[component additional info]
+
+[label] Why we ask for this information
+
+[content]
+[p] We use this information to help us decide these 4 things:
+
+[ul]
+- If you can fill out a shorter application, and
+- What types of VA health care benefits you’re eligible for, and
+- How soon we enroll you in VA health care, and
+- How much (if anything) you’ll have to pay toward the cost of your care
+- We give veterans with service-connected disabilities the highest priority.
+
+[END component additional info]
+
+[radio select options]
+- Yes, for a service-connected disability rating of up to 40%
+- Yes, for a service-connected disability rating of 50% or higher
+- No
+
+[button pair] [<< Back] [Continue >>]
+
+
+---
+### Page: Conditional confirmation page (when previous answer = 50% or higher)
+
+#### URL: /health-care/apply/application/va-benefits/confirm-service-pay
+
+[component progress bar]
+[h2] Step 2 of 6: VA benefits
+[end progress bar]
+
+[component blue alert]
+
+[h3] Confirm that you receive service-connected pay for a 50% or higher disability rating.
+
+[p] You selected that you currently receive service-connected disability pay for a 50% or higher disability rating. This means that you meet one of our eligibility criteria and we don’t need to ask your questions about other criteria, like income and military service.
+
+[button pair] [<< Back] [Continue >>]
+
+[END component blue alert]
+
+
+--- 
+### Page: Conditional confirmation page (when previous answer = no)
+
+#### URL: /health-care/apply/application/va-benefits/pension-information
+
+[component progress bar]
+[h2] Step 2 of 6: VA benefits
+[end progress bar]
+
+[fieldset legend title]  Current compensation from VA
+
+[p] VA disability compensation (pay) provides monthly payments to Veterans with service-connected disabilities. You may get this benefit if you got sick or injured, or had a condition that got worse, because of your active-duty service. We assign a disability rating based on the severity of your disability.
+
+[label] Do you receive VA disability compensation?(*Required)
+
+[component additional info]
+
+[title] Why we ask for this information
+
+[content] 
+[p] We use this information to help us decide these 4 things:
+
+[ul] 
 - If you can fill out a shorter application, **and**
-- What types of VA health care benefits you’re eligible for,**and**
+- What types of VA health care benefits you’re eligible for, **and**
 - How soon we enroll you in VA health care, **and**
 - How much (if anything) you’ll have to pay toward the cost of your care
+[END ul]
 
-We give veterans with service-connected disabilities the highest priority.
+[p] We give veterans with service-connected disabilities the highest priority.
+[END component additional info]
 
-_(end more info)_
+[radio select options]
+- Yes
+- No
 
- _(radio buttons)_
+[button pair] [<< Back] [Continue >>]
 
-Yes, for a service-connected disability rating of up to 40%
 
-Yes, for a service-connected disability rating of 50% or higher
 
-No
+---
+## Step 3 Military history
+---
 
-[<< Back] [Continue >>]
+### Page: Military service
 
-## _(If "no" to previous question)_ Step 3 of 6: VA Benefits 
+#### URL: health-care/apply/application/military-service/service-information
 
-**Current compensation from VA**
+[component progress bar]
+[h2] Step 3 of 6: Military service
+[end progress bar]
 
-Our Veterans Pension program provides monthly payments to certain wartime Veterans. To get a Veterans Pension, you must meet certain age or disability requirements and have income and net worth certain limits.
+[component select label] Last branch of service(*Required)
 
-Do you receive a Veterans pension from the VA? (*Required)
+[Select options] 
+- Air Force
+- Army
+- Coast Guard
+- Marine Corps
+- Merchant Seaman
+- Navy
+- Noaa
+- Space Force
+- USPHS
+- Filipino Commonwealth Army
+- Filipino Guerilla Forces
+- Filipino New Scout
+- Filipino Old Scout, Other
 
-Why we ask for this information _(more info)_
+[component date label] Service start date(*Required)
+[dropdowns for: month, day] [ input for year]
 
-We use this information to help us decide these 3 things:
+[component date label] Service end date(*Required)
+[dropdowns for: month, day] [ input for year]
 
-- What types of VA health care benefits you’re eligible for,and
-- How soon we enroll you in a VA health care, and
-- How much (if anything) you’ll have to pay toward the cost of your care
+[component select label] Character of service(*Required)
 
-If you have a Veterans Pension, you may pay a lower copay, or no copay, for certain types of care and services.
+[Select options] 
+- Honorable 
+- General
+- Other Than Honorable 
+- Bad Conduct
+- Dishonorable 
+- Undesirable
 
-_(end more info)_
+[button pair] [<< Back] [Continue >>]
 
- _(radio buttons)_
+---
 
-Yes
+### Page: Military service overview
 
-No
+#### URL: health-care/apply/application/military-service/service-information
 
-[<< Back] [Continue >>]
+[component checkbox label]  Check all that apply to you.
+
+[checkboxes]
+- Purple Heart award recipient
+- Former Prisoner of War
+- Served in combat theater of operations after November 11, 1998
+- Discharged or retired from the military for a disability incurred in the line of duty
+- Served in Southwest Asia during the Gulf War between August 2, 1990, and Nov 11, 1998
+- Served in Vietnam between January 9, 1962, and May 7, 1975
+- Exposed to radiation while in the military
+- Received nose/throat radium treatments while in the military
+- Served on active duty at least 30 days at Camp Lejeune from January 1, 1953, through December 31, 1987
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+
+---
+## Step 4 Household information 
+
+---
+
+
+
+
+
 
 ## Step 4 of 6: Household Information
 
@@ -630,178 +817,358 @@ Amount you paid for anything related to your own education (college or vocationa
 
 [<< Back] [Continue >>]
 
-## Step 5 of 6: Insurance information
+---
 
-Medicaid is a federal health insurance program for adults and families with low income levels and people with disabilities.
-**Note:** Some states use different names for their Medicaid programs.
 
-Are you eligible for Medicaid? (*Required)
 
+---
+## Step 5 Insurance information
+---
+
+### Page: Medicaid 
+
+#### URL: health-care/apply/application/insurance-information/medicaid
+
+[p] Medicaid is a federal health insurance program for adults and families with low income levels and people with disabilities.
+
+[p] **Note:** Some states use different names for their Medicaid programs.
+
+[component radio select]
+
+[label] Are you eligible for Medicaid?(*Required)
+
+[radio select options]
+- Yes
+- No
+
+[button pair] [<< Back] [Continue >>]
+
+---
+
+### Page: Medicare 
+
+#### URL: health-care/apply/application/insurance-information/medicare
+
+[p] Medicare is a federal health insurance program providing coverage for people who are 65 years or older or who meet who meet special criteria. Part A insurance covers hospital care, skilled nursing and nursing home care, hospice, and home health services.
+
+[component radio select]
+
+[label] Are you enrolled in Medicare Part A (hospital insurance)?(*Required)
+
+[radio select options]
+- Yes
+- No
+
+[button pair] [<< Back] [Continue >>]
+
+---
+
+### Page: Medicare Effective Date
+
+#### URL: health-care/apply/application/insurance-information/medicare-part-a-effective-date
+
+
+[component progress bar]
+[h2] Step 5 of 6: Insurance information
+[end progress bar]
+
+[component date select]
+
+[label] What is your Medicare Part A effective date?(*Required)
+
+[hint text] You’ll find this date under “coverage starts” on the front of your Medicare card.
+
+[dropdowns for: month, day] [ input for year]
+[end date component]
+
+[component number input]
+
+[label] What is your Medicare claim number?(*Required)
+
+[hint text] You’ll find this number on the front of your Medicare card. Enter all 11 numbers and letters.
+
+[additional info component]
+
+[label] Why we ask for this information
+
+[content] 
+
+[p] We use your Medicare claim number to keep track of the health care services that Medicare covers. We use your claim number when we need to create a Medicare explanation of benefits.
+
+[p] We don’t bill Medicare for any services. By law, Medicare can’t pay for our services. But this explanation shows what Medicare would have paid for services if they could.
+
+[p] We may need to bill medicare supplemental insurance or a private insurance provider for certain services. And some providers must have this explanation before they’ll pay the bill.
+
+[p] **Note:** Having Medicare or other health insurance doesn’t affect the VA health care benefits you can get. And you won’t have to pay any unpaid balance that a health insurance provider doesn’t cover.
+
+
+[end additional info component]
+
+[text input]
+
+[error message] Please enter a valid 11-character Medicare claim number
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+
+--- 
+
+### Page: Health insurance
+
+#### URL: health-care/apply/application/insurance-information/general
+
+[component progress bar]
+[h2] Step 5 of 6: Insurance information
+[end progress bar]
+
+
+[p] Health insurance includes any coverage that you get through a spouse or significant other. Health insurance also includes Medicare, private insurance, or insurance from your employer.
+
+
+[label] Do you have health insurance coverage?(*Required)
+
+[additional info component]
+
+[title] Why we ask this information
+
+[content]
+
+[p] We ask for this information for billing purposes only. Your health insurance coverage doesn’t affect the VA health care benefits you can get.
+
+[p] Giving us your health insurance information helps you for these reasons:
+
+[ul]
+
+We must bill your private health insurance provider for any care, supplies, or medicines we provide to treat your non-service-connected conditions. If you have a VA copayment, we may be able to use the payments from your provider to cover some or all of your copayment.
+Your private insurance provider may apply your VA health care charges toward your annual deductible. Your annual deductible is the amount of money you pay toward your care each year before your insurance starts to pay for care.
+
+[end ul]
+
+[END additional info component]
+
+
+[radio select options]
 Yes
-
 No
 
-[<< Back] [Continue >>]
 
-## Step 5 of 6: Insurance information
+[CONDITIONAL - uses old list-and-loop pattern]
 
-Medicare is a federal health insurance program providing coverage for people who are 65 years or older or who meet who meet special criteria. Part A insurance covers hospital care, skilled nursing and nursing home care, hospice, and home health services.
+[component text input label]  Name of insurance provider(*Required)
 
-Are you enrolled in Medicare Part A (hospital insurance)? (*Required)
+[component text input label] Name of policyholder (the person whose name the policy is in)(*Required)
 
+
+[class="schemaform-block-title schemaform-block-subtitle vads-u-margin-top--6 vads-u-margin-bottom--2 vads-u-color--primary-darkest"  ? ] 
+Provide either your insurance policy number or group code. (*Required)
+
+[additional info component]
+
+[label] I have TRICARE. What’s my policy number?
+
+[content] 
+
+[p] You can use your Department of Defense benefits number (DBN) or your Social Security number as your policy number.
+
+[p] Your DBN is an 11-digit number. You’ll find this number on the back of your military ID card.
+
+[END additional info component]
+
+
+[component text input label] Policy Number
+[hint text] Either this or the group code is required
+
+[schemaform-block-title schemaform-block-subtitle vads-u-margin-bottom--neg2p5 vads-u-color--primary-darkest] Or
+
+[component text input label] Group Code
+[hint text] Either this or the policy number is required
+
+[button secondary] Add another insurance policy
+[END CONDITIONAL CONTENT]
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+--- 
+
+### Page: VA Facility
+
+
+#### URL: health-care/apply/application/insurance-information/va-facility-json
+
+[component progress bar]
+[h2] Step 5 of 6: Insurance information
+[end progress bar]
+
+
+[fieldset legend title] VA facility
+
+[checkbox label] I’m enrolling to get minimum essential coverage under the Affordable Care Act.
+
+[additional information component] 
+
+[label] Learn more about minimum essential coverage.
+
+[content]
+
+[p] To avoid the penalty for not having insurance, you must be enrolled in a health plan that qualifies as minimum essential coverage. Being signed up for VA health care meets the minimum essential coverage requirement under the Affordable Care Act.
+
+[fieldset legend title] Select your preferred VA medical facility
+
+[component select label] State(*Required)
+
+[component select label] Center or clinic(*Required)
+(not populated with select options until State selected)
+
+[p] OR [a = /find-locations] Find locations with the VA Facility Locator [/a]
+
+[p] If you’re looking for medical care outside the continental U.S. or Guam, you’ll need to sign up for our Foreign Medical Program. [a= https://www.va.gov/COMMUNITYCARE/programs/veterans/fmp/index.asp?_ga=2.214281623.184418145.1682970171-1968773556.1643652899] Learn more about the Foreign Medical Program.[/a] 
+
+You can also visit [a=https://www.benefits.va.gov/PERSONA/veteran-abroad.asp ] Veterans Living Abroad[/a].
+[component radio select]
+
+[label] Do you want VA to contact you to schedule your first appointment?
+
+[radio select options]
 Yes
-
 No
 
-_(if yes)_ What is your Medicare Part A effective date?(*Required)
 
-You’ll find this date under “coverage starts” on the front of your Medicare card.
+[button pair] [<< Back] [Continue >>]
 
-Month Day Year _(dropdown)_
+---
 
-[<< Back] [Continue >>]
 
-## Step 5 of 6: Insurance information
 
-Health insurance includes any coverage that you get through a spouse or significant other. Health insurance also includes Medicare, private insurance, or insurance from your employer.
+---
+## Step 6 Review
+---
 
-Do you have health insurance coverage? (*Required)
+URL: health-care/apply/application/review-and-submit
+Page: Review
 
-Why we ask for this information _(more info)_
 
-We ask for this information for billing purposes only. Your health insurance coverage doesn’t affect the VA health care benefits you can get.
+[component progress bar]
+[h2] Step 6 of 6: Review application
+[end progress bar]
 
-Giving us your health insurance information helps you for these reasons:
-- We must bill your private health insurance provider for any care, supplies, or medicines we provide to treat your non-service-connected conditions. If you have a VA copayment, we may be able to use the payments from your provider to cover some or all of your copayment.
-- Your private insurance provider may apply your VA health care charges toward your annual deductible. Your annual deductible is the amount of money you pay toward your care each year before your insurance starts to pay for care.
 
-_(end more info)_
 
-Yes
+[components accordions aligning with sections completed]
 
-No
 
-_(if yes)_
+[h3] Agreement
 
-Name of insurance provider(*Required)
+[p] By submitting this application, you agree to these statements:
 
-Name of policyholder (the person whose name the policy is in) (*Required)
+[ul]
+You’ll pay any VA copays for care or services (including urgent care) that may apply, based on your priority group and other factors.
+You agree that we can contact you at the email, home phone number, and mobile phone number you gave us in the application.
+You agree to the assignment of benefits so we can bill your other health insurance or other responsible party for charges of non service-connected VA medical care or services.
+You’ve read and accept our privacy policy.
+[a = https://staging.va.gov/privacy-policy/]Read our privacy policy[/a]
 
-**Provide either your insurance policy number or group code.** (*Required)
+[additional information component]
 
-I have TRICARE. What’s my policy number? _(more info)_
+[label] Read more about the assignment of benefits
 
-You can use your Department of Defense benefits number (DBN) or your Social Security number as your policy number.
+[content]
 
-Your DBN is an 11-digit number. You’ll find this number on the back of your military ID card.
+[p] I understand that pursuant to 38 U.S.C. Section 1729 and 42 U.S.C. 2651, the Department of Veterans Affairs (VA) is authorized to recover or collect from my health plan (HP) or any other legally responsible third party for the reasonable charges of nonservice-connected VA medical care or services furnished or provided to me. I hereby authorize payment directly to VA from any HP under which I am covered (including coverage provided under my spouse’s HP) that is responsible for payment of the charges for my medical care, including benefits otherwise payable to me or my spouse. Furthermore, I hereby assign to the VA any claim I may have against any person or entity who is or may be legally responsible for the payment of the cost of medical services provided to me by the VA. I understand that this assignment shall not limit or prejudice my right to recover for my own benefit any amount in excess of the cost of medical services provided to me by the VA or any other amount to which I may be entitled. I hereby appoint the Attorney General of the United States and the Secretary of Veterans' Affairs and their designees as my Attorneys-in-fact to take all necessary and appropriate actions in order to recover and receive all or part of the amount herein assigned. I hereby authorize the VA to disclose, to my attorney and to any third party or administrative agency who may be responsible for payment of the cost of medical services provided to me, information from my medical records as necessary to verify my claim. Further, I hereby authorize any such third party or administrative agency to disclose to the VA any information regarding my claim.
 
-_(end more info)_
 
-Policy number 
+[END additional information component] 
 
-_(hint text)_ Either this or the group code is required
+[p] **Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
 
-Group code
+[checkbox label] I certify the information above is correct and true to the best of my knowledge and belief. (*Required)
 
-_(hint text)_ Either this or the group code is required
+[button pair] [<< Back] [Submit application]
 
-[Add another Insurance Policy] _(list loop insurance policy)_
 
-[<< Back] [Continue >>]
 
-## Step 5 of 6: Insurance information
 
-**VA Facility**
 
-_(checkbox)_ I’m enrolling to get minimum essential coverage under the Affordable Care Act.
 
-Learn more about minimum essential coverage. _(learn more)_
 
-To avoid the penalty for not having insurance, you must be enrolled in a health plan that qualifies as minimum essential coverage. Being signed up for VA health care meets the minimum essential coverage requirement under the Affordable Care Act. _(end learn more)_
 
-**Select your preferred VA medical facility**
 
-State(*Required) _(dropdown)_
- 
-Center or clinic(*Required) _(dropdown)_
 
-OR Find locations with the [VA Facility Locator](https://va.gov/find-locations)
 
-If you’re looking for medical care outside the continental U.S. or Guam, you’ll need to sign up for our Foreign Medical Program. [Learn more about the Foreign Medical Program.](https://www.va.gov/COMMUNITYCARE/programs/veterans/fmp/index.asp?_ga=2.166809081.618849780.1624891160-860138168.1616615986)
+--- 
+### Page: Confirmation
 
-You can also visit [Veterans Living Abroad.](https://www.benefits.va.gov/PERSONA/veteran-abroad.asp)
+#### URL: health-care/apply/application/confirmation
 
-Do you want VA to contact you to schedule your first appointment?
+[h1] Apply for VA health care
 
-Yes
+[subtitle] Form 10-10EZ
 
-No
+[component alert success]
 
-[<< Back] [Continue >>]
+[h2] Thank you for completing your application for health care
 
-## Step 6 of 6: Review Application
+[p] Once we’ve successfully received your application, we’ll contact you to tell you what happens next in the application process.
+[END component alert]
 
-_Review accordions_
 
-**Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
+[blue background info alert]
 
-_(checkbox)_ I have read and accept the privacy policy(*Required)
 
-[<< Back] [Submit application >>]
+[h2] Your application information
 
-## AFTER submission
 
-**Please print this page for your records.**
+[div bold] Veteran’s name
+[div class] [Veteran’s inputted first and last name]
 
-_(blue box)_
 
-**Thank you for submitting your application**
+[div bold] Date you applied
+[div class] [date]
 
-**Health Care Benefit Claim** (Form 10-10EZ)
 
-for [Veteran's name]
+[div bold] Confirmation for your records
+[div class] [date] You can print this confirmation page for your records.
 
-**Date submitted**
 
-[Date submitted]
+[button primary] Print this page
 
-_(end blue box)_
 
-**How long will it take VA to make a decision on my application?**
+[END blue background]
 
-We usually decide on applications within **1 week**.
 
-If we need you to provide more information or documents, we’ll contact you by mail.
+[h2] What to do if you have questions now
 
-**If we haven’t contacted you within a week after you submitted your application**
+[p] If we haven’t contact you within a week after you submitted your application, please don’t apply again:
 
-Please don’t apply again. Instead, please call our toll-free hotline at [877-222-8387]. _(link)_ We’re here Monday through Friday, 8:00 am to 8:00 pm ET.
+[ul]
+Please call our toll-free hotline at 877-222-8387. We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+[END ul]
+[a = ] Learn more about what happens after you apply[/a].
 
-**How can I check the status of my application?**
 
-**1. Sign in to VA.gov**
+[h2] How can I check the status of my application?
 
-You can sign in with your DS Logon, My HealteVet, or ID.me account. If you don’t have an account, you can create one now.
+[p] Sign in with one of these verified accounts:
+[ul]
+Login.gov
+ID.me
+Premium My HealtheVet
+Premium DS Logon
+[END ul]
 
-**2. If you haven’t yet verified your identity, complete this process when prompted**
+[p] Then go back to the health care application introduction page. You’ll find your application status at the top of the page.
 
-This helps keep you information safe, and prevents fraud and identity theft. If you’ve already verified your identity with us, you won’t need to do this again.
+[component action link green] Go to health care application page
 
-**3. Go to your personalized My VA homepage**
+[h2] How will I know if I’m enrolled in VA health care?
 
-Once you’re signed in, you can go to your homepage by clicking on the** My VA** link near the top right of any VA.gov page. You’ll find your application status information in the **Your Applications** section of you homepage.
+[p] If enrolled, you’ll receive a Veterans Health Benefits Handbook in the mail within about 10 days.
 
-**Please note:** Your application status may take some time to appear on our homepage. If you don’t see it there right away, please check back later.
+[p] We’ll also call to welcome you to the VA health care program, help you with scheduling your first appointment, and answer any questions you may have about your health care benefits. 
 
-**How will I know if I’m enrolled in VA health care?**
+[a = https://staging.va.gov/health-care/after-you-apply/ ]Learn more about what happens after you apply [/a]
 
-If enrolled, you’ll receive a Veterans Health Benefits Handbook in the mail within about 10 days.
-
-We’ll also call to welcome you to the VA health care program, help you with scheduling your first appointment, and answer any questions you may have about your health care benefits.
-
-[Find out what happens after you apply](https://va.gov/health-care/after-you-apply/)
-
-**What if I have more questions?**
-
-Please call [877-222-8387] _(link)_ and select 2. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 

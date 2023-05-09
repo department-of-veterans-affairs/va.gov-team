@@ -1,30 +1,72 @@
-> _In Draft as of June 3, 2022_
+
+> _[WIP]  as of June 3, 2022_
 
 # Product Outline: Streamlined Waiver Process
 
 ## Overview
-As part of the President's initiative to support Veterans experiencing financial hardship we are simplifying the process for claiming medical debt forgiveness by streamlining the request process and setting a simple income threshold for receiving medical debt relief. 
+As part of the President's initiative to support Veterans experiencing financial hardship we are simplifying the process for claiming medical debt forgiveness by streamlining the request process and offering instant determination for Veterans who meet the criteria. 
 
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+[description:*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)* *Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+During the State of the Union Address in March 2022, President Biden announced 
+
+ [WhiteHouse Statement: Reducing Financial Hardship for Veterans](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-supporting-veterans-experiencing-financial-hardship-and-addressing-the-harmful-effects-of-military-environmental-exposures/)
+
+**EXCERPT:**  
+> **Reducing Financial Hardship**
+> 
+> The President’s American Rescue Plan provided $17 billion to help
+> veterans, ensuring the Department of Veterans Affairs (VA) had funding
+> to provide health care services for veterans, including funding for
+> homelessness programs, and to implement a rapid retraining assistance
+> program to help veterans impacted by the pandemic. The American Rescue
+> Plan also eliminated all out-of-pocket medical cost for veterans and
+> provided much needed financial relief to veterans experiencing
+> economic hardship during the COVID-19 pandemic.
+> 
+> Veterans in financial hardship who get treatment through VA are
+> entitled to get their medical debt forgiven. But currently, they can
+> only apply for that medical debt relief through a complex, paper form
+> with complicated eligibility requirements. Veterans may be deterred
+> from applying for much-needed relief because the application process
+> is too confusing and time-consuming. To address this barrier, today
+> the President is announcing that VA is:
+> 
+> **Simplifying the process for claiming medical debt forgiveness.** VA will streamline the request process and set a simple income threshold
+> for receiving medical debt relief. The request process will include an
+> online option for veterans and reduce the effort required by veterans
+> to access relief. These changes will go into effect in the next 90 to
+> 120 days. This change comes on top of the approximately $1 billion in
+> medical debt the VA has already forgiven for veterans under the
+> American Rescue Plan, which eliminated all out-of-pocket medical cost
+> for veterans and provided much needed financial relief to veterans
+> experiencing economic hardship during the COVID-19 pandemic. It also
+> comes on top of a  [final
+> rule](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5758)  VA
+> issued in February 2022, under which it will virtually cease reporting
+> unfavorable debt, including medical debt, to consumer reporting
+> agencies.
+
+
+
  
 ## Desired User Outcomes
-
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+Veterans who would like to request medical copay debt relief are able to submit their information online and potentially receive a immediate determination for their request. If the information that Veterans enter do not meet the criteria to receive that determination then they will be required to complete the remaining information required as part of the VA Form 5655 - Financial Status Report (FSR)
 
 ## Undesired User Outcomes
-
+Veterans are required to enter all information needed for the Financial Status Report and the process is not streamlined or simplified in any way. 
 
 ## Desired Business Outcomes
-
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+Simplifying the waiver request process will greatly reduce the number of waivers that require manual review
 
 ## Undesired Business Outcomes
+
+## VHA Requirements
+- As a Veteran Services Technician, I need the VODA portal to send the automated income review & business logic calculation decision (approval/needs further review) in the file transfer package that is sent to the Huron Workflow Tool, so that the Veteran's account can be auto-adjudicated by the Huron Workflow Tool or worked manually by a Veteran Services technician.
+- As a Veteran Services Technician, I need VODA to provide an indicator to Huron when a Veteran submits a debt relief request through the VODA portal to indicate if the debt is at "VistA", "CERNER", or "VistA & Cerner" systems, so that I can ensure I review all of a Veteran's debt
+- As a Veteran Services Technician, I need VODA to provide Huron a unique ID (SSN) to the Veteran when CERNER debt is present,  so that I can ensure quickly search for the Veteran in CERNER.
 
 
 ---
@@ -107,11 +149,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: Debt Resolution
+- GitHub Label: StreamlinedWaiver
+- Slack channel: #benefits-debt-resolution
+- Product POCs: Denise Coveyduc, Heather Rienks, Tom Davis
+- Stakeholders: Jill Anderson (DMC)
 
 </details>
 
@@ -119,10 +161,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - OCTO Lead: Matt Self
+ - PO: Denise Coveyduc 
+ - PM: Tom Davis
+ - DM: Heather Rienks
+ - Engineering: Scott James, Andrew Rodiek, Brandyn Sullins, Aaron Ponce, Kevin Suarez
+ - Research/Design: Megan Gayle, Joseph Lee, Charlotte Cesana
  
 </details>
 

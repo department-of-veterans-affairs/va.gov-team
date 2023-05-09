@@ -175,28 +175,73 @@ And the front-end of the Find a Form product will show:
 
 # Troubleshooting
 
-## Reports of broken PDF links
-Broken PDF links can occur when vets-api is experiencing high latency, or when a VA forms manager changes the name of a PDF while making an update and the CMS data hasn't been merged and re-published yet (see next item).
+## Forms issues are typically due to
+| Cause | Looks like | Mitigation | 
+-- | -- | --
+| **vets-api latency** (broad-scale) | Big batches of "Bad PDF link" emails going to Forms manager <br/><br/>Spikes in Sentry errors, [Forms report](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?id=19&project=4&statsPeriod=7d). | Below: contact Platform Support for help. |
+| **Data sync issues from Forms DB > Lighthouse** | No CMS data flags on Forms content, but errors in the Forms search UI on va.gov.<br/><br/>Underlying cause may be vets-api latency, or failed sidekiq job | Below: contact Platform Support for help. |
+| **Data entry errors in the Forms DB** | Individual forms in the CMS get flagged as Deleted for Name CHanged. | Below: contact the correct Forms Manager to correct the data upstream in the Forms DB. |
 
-**To confirm altered data in Forms DB:**
-1. Check the [Flagged Content Dashboard](https://prod.cms.va.gov/admin/content/flagged?type=va_form&workbench_access_section__section=All) in Drupal CMS, to see if the form was updated.![Screen Shot 2022-08-10 at 6 08 25 PM](https://user-images.githubusercontent.com/85581471/184048356-4fe92e9a-9582-4c92-a6ef-29c23fc3a5b0.png)
+### Contact Platform support
+- Visit #vfs-platform-support, use the Platform support workflow, to request assistance, e.g. https://dsva.slack.com/archives/CBU0KDSB1/p1660066854784409
+- Ask them to explore vets-api latency. Ask them to explore whether the `VAForms::FetchLatest` sidekiq job has failed, and rerun if so.
+
+--- 
+## Symptom: Reports of Bad PDF link emails
+VA Forms managers may report that veterans are sending "Bad PDF Link" emails, and forms access is having problems.
+
+### Typical root cause(s)
+1. vets-api is experiencing high latency
+2. A VA forms manager changed the name of a PDF while making an update and the CMS data hasn't been merged and re-published yet
+
+### How to troubleshoot
+
+#### **If reported by Forms manager: Verify if internal / external** 
+Ask mgr to forward an example link or Form number for the issue. Their support mailbox receives messages from internal and external users, and an example will allow you to confirm that they are referring to the *public* web site form search (va.gov/find-forms) vs. the *internal* VBA forms search (vba.va.gov).  
+  - **If internal:** (on vba.va.gov) contact Kevin Reid <Kevin.Reid@va.gov>
+  - **If not:** (on va.gov) It's possible that vets-api latency may cause delays / failures to download forms. 
+    - Check Sentry for more information: 
+      - e.g. for a single form: http://sentry.vfs.va.gov/organizations/vsp/issues/17064/events/?project=4
+      - e.g. for large-scale latency event: http://sentry.vfs.va.gov/organizations/vsp/discover/results/?id=19&project=4&statsPeriod=7d
+
+If the form is on va.gov, and Sentry shows a spike in Forms errors:
+- Visit #vfs-platform-support, use the Platform support workflow, to request assistance, e.g. https://dsva.slack.com/archives/CBU0KDSB1/p1660066854784409
+- Ask them to explore vets-api latency. 
+
+
+#### **Confirm if data was altered in Forms DB:**
+If not a large-scale event, the data for a particular form may have been altered. 
+1. Check the [Flagged Content Dashboard](https://prod.cms.va.gov/admin/content/flagged?type=va_form&workbench_access_section__section=All) in Drupal CMS, to see if the reported form was updated.![Screen Shot 2022-08-10 at 6 08 25 PM](https://user-images.githubusercontent.com/85581471/184048356-4fe92e9a-9582-4c92-a6ef-29c23fc3a5b0.png)
 
 2. Click the form name and on Form node, in right sidebar, under Recent Changes, see a description of any change. 
 ![Screen Shot 2022-08-10 at 6 07 47 PM](https://user-images.githubusercontent.com/85581471/184048365-1c800286-34ef-4893-95ce-88f0f7cc0a8d.png)
 
-3. Click the Revisions tab, and follow these steps to compare revisions / see the full data that changed:   https://dsva.slack.com/archives/CUB5X5MGF/p1626366090043000 -
+3. Click the Revisions tab, and follow these steps to compare revisions / see the full data that changed:   https://dsva.slack.com/archives/CUB5X5MGF/p1626366090043000 
 
 Form managers have been instructed not to make name changes unless absolutely necessary because it causes the form to lose ranking on search engines and can also break links on other parts of VA.gov.
 
-## Trouble accessing forms
-VA forms manager may report users are emailing to report trouble accessing forms. 
-- Ask them to forward an example link or Form. Their support mailbox receives messages from internal and external users, and an example will allow you to confirm that they are referring to the *public* web site form search (va.gov/find-forms) vs. the *internal* VBA forms search on vba.va.gov.  
-- **If internal:** (on vba.va.gov) contact Kevin Reid <Kevin.Reid@va.gov>
-- **If not:** It's possible that vets-api latency may cause delays / failures to download forms. 
-  - Check Sentry for more information: 
-    - e.g. for a single form: http://sentry.vfs.va.gov/organizations/vsp/issues/17064/events/?project=4
-    - e.g. for large-scale latency event: http://sentry.vfs.va.gov/organizations/vsp/discover/results/?cursor=0%3A400%3A0&display=default&field=title&field=event.type&field=project&field=user.display&field=timestamp&name=All+Events&query=Find+Forms&sort=-timestamp&statsPeriod=7d&widths=-1&widths=-1&widths=-1&widths=-1&widths=-1
-  - And/or visit #vfs-platform-support, use the Platform support workflow, to request assistance, e.g. https://dsva.slack.com/archives/CBU0KDSB1/p1660066854784409
+**If form name has been changed:**<br/>
+- Email the form manager for the Administration listed on the Form in the CMS. Ask them to revert the name change. 
+- After the name has been changed, a Forms DB sync + content release must run to restore the form at the original link.
+
+
+## Find a Form search errors show an existing form is missing
+VA forms managers or stakeholders may report users are emailing to report trouble accessing forms. Sometimes this may appear as an error in Find a Form search: 
+![image (6)](https://user-images.githubusercontent.com/85581471/230933518-01edd770-9fdf-487d-9318-15b7ef0c40e6.png)
+
+### Typical root cause
+1. Form errors can occur when vets-api is experiencing high latency. 
+2. The sidekiq job that copies data from the Forms DB  to the vets-api datastore may have failed. 
+
+**Sidekiq job**
+`VAForms::FormReloader` sidekiq job runs nightly at 2am ET, and typically takes 15-20 min. to complete.
+* [Grafana logs](https://grafana.vfs.va.gov/explore?orgId=1&left=%5B%22now-5d%22,%22now%22,%22Loki%20(Prod)%22,%7B%22exemplar%22:true,%22expr%22:%22%7Bapp%3D%5C%22vets-api-sidekiq%5C%22%7D%20%7C%3D%20%5C%22VAForms::FormReloader%5C%22%22%7D%5D) filtered by the vets-api-sidekiq (EKS application) 
+* Equivalent logs in [Datadog](https://vagov.ddog-gov.com/logs?query=%40named_tags.dd.env%3Aeks-prod%20host%3A%2Asidekiq%2A%20VAForms%5C%3A%5C%3AFormReloader&cols=host%2Cservice&index=%2A&messageDisplay=inline&stream_sort=time%2Cdesc&viz=stream&from_ts=1680532454231&to_ts=1681137254231&live=true) also
+
+### How to troubleshoot
+- Vefify if CMS data is showing large batches of altered forms since the last sync: [Flagged Content Dashboard](https://prod.cms.va.gov/admin/content/flagged?type=va_form&workbench_access_section__section=All) in Drupal CMS. If not, this is a data > Lighthouse issue.
+- Visit #vfs-platform-support, use the Platform support workflow, to request assistance, e.g. https://dsva.slack.com/archives/CBU0KDSB1/p1660066854784409
+- Ask them to explore vets-api latency. Ask them to explore whether the `VAForms::FormReloader` sidekiq job has failed, and rerun if so.
 
 ## Time lag between VA Form changes & when updated on Find a VA Form
 Changes in the Forms DB will appear immediately in the the Find a Form search results (which don't route through Drupal CMS). However: data on each Form detail page relies on Drupal CMS. This means that a change in the Forms DB may break user functionality in Find a Form, during the window between a Forms DB change and the Forms DB > Drupal data migration.

@@ -32,9 +32,8 @@ This research will inform the product team on what and how much military informa
 - What info might be helpful to Veterans that are considering trying - or are working - to change their discharge status?
 
 ### Hypothesis
-- Military information often (always?) must be provided when Veterans apply for various VA benefits. This product could play a helpful role in the benefit application process.
-- Veterans receive form DD214 - which includes all the information that this product could possibly include - when they leave the service. Surfacing DD214 information in this product could be helpful in the case of a missing or destroyed DD214.
-- Veterans can request changes to the info on their DD214 if there has been an administrative error OR when the veteran successfully upgrades their discharge status. This product could help veterans determine if their military information is incorrect, if their discharge status could be upgraded, or if their discharge status has successfully been upgraded. 
+- Military information must be provided when Veterans apply for various VA benefits.
+- Veterans receive form DD214 when they leave the service. 
 
 ## Methodology	
 1. Semi-structured interviews that help us to understand what Veterans need from this product without asking them directly about the product and what they'd expect the product to show or look like.

@@ -3,7 +3,7 @@
 ## Background
 As of April 2022, My VA "2.0" has been out for a little less than a year and has been experiencing some inconsistencies between its five sections -- the "nametag", Claims and appeals, Health care, Benefit payments and debts, and Apply for benefits. This is making the page hard to manage and hard to scale.
 
-As a result, we conducted an audit of My VA in Mural to document and evaluate the following:
+As a result, we conducted an [audit of My VA in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/vsa8243/1648129585496/d22080eb307aac8bda5ba1153e013a386b7f1396?sender=uce014850ef6c5a8303e70396) to document and evaluate the following:
 - All of the states of each section of My VA
 - Whether all states are necessary
 - Where we can simplify without losing important personalization

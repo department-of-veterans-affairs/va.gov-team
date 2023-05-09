@@ -1,6 +1,6 @@
 # Project outline: My VA audit, updates, and documentation
 
-Last updated October 3, 2022
+**Last updated: April 18, 2023 - updated key dates, added 'after' screenshot**
 
 ### Communications
 
@@ -85,52 +85,71 @@ To mitigate each of the problems above, we plan to do the following:
 
 ## Measuring Success
 
+- [Analytics how-to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/Product/audit-analytics-how-to.md)
+- [My VA domo dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837)
+
 ### Objective: Provide greater consistency and simplification of My VA for users, regardless of where they are in their benefits journey.
 
 **When filling in data -- update dates to be 1 month pre-launch, one month post launch (to 100%), and the second month post-launch (to 100%) based on actual launch dates.**
 
 **KPI: We will see at least a 10% increase in key interactions on My VA, since each section now shows persistently.**
 
-|KPI/metric|Baseline: [One month pre-launch to 25%]|Post-launch: [One month post-launch to 100%]| Post-launch: [Second month post-launch to 100%]|
+|KPI/metric|Baseline: <br />1 month pre-launch to 25%  <br />(3/10/23 - 4/09/23)|1 month post-launch to 100% <br />(4/25/23 - 5/24/23)| 2 months post-launch to 100% <br />(5/25/23 - 6/24/23)|
 |----------|-------------|---------------|-------------------|
-|Clicks into "Manage all claims and appeals"|TBD|TBD|TBD|
-|Clicks into individual claims, "View claim"|TBD|TBD|TBD|
-|Clicks into "Learn how to file a claim"|TBD|TBD|TBD|
-|Clicks into "Manage and schedule your appointments"|TBD|TBD|TBD|
-|Clicks into "Send a secure message to your health care team"|TBD|TBD|TBD|
-|Clicks into "Refill and track your prescriptions"|TBD|TBD|TBD|
-|Clicks into "Manage your VA debt"|TBD|TBD|TBD|
-|Clicks into "View your payment history"|TBD|TBD|TBD|
+|Clicks into "Manage all claims and appeals"|417,914|TBD|TBD|
+|Clicks into individual claims, "Review claim"|305,445|TBD|TBD|
+|Clicks into "Learn how to file a claim"|Not applicable - new link to My VA|TBD|TBD|
+|Clicks into "Apply for VA health care"|Not applicable - new link to My VA|TBD|TBD|
+|Clicks into "Schedule and manage your appointments"|16,606|TBD|TBD|
+|Clicks into "Send a secure message to your health care team"|100,893|TBD|TBD|
+|Clicks into "Refill and track your prescriptions"|77,825|TBD|TBD|
+|Clicks into "Manage your VA debt"|25,830|TBD|TBD|
+|Clicks into "Review your payment history"|1,492|TBD|TBD|
 
 **KPI: We will see a reduction in searches for terms related to new links added to My VA.**
 
 **Note**: Certificates of eligibility apply to both education benefits and home loans.
 
-|KPI/metric|Baseline: [One month pre-launch to 25%]|Post-launch: [One month post-launch to 100%]| Post-launch: [Second month post-launch to 100%]|
+|KPI/metric|Baseline: <br />1 month pre-launch to 25% <br />(3/10/23 - 4/09/23)|1 month post-launch to 100% <br />(4/25/23 - 5/24/23)| 2 months post-launch to 100% <br />(5/25/23 - 6/24/23)|
 |----------|-------------|---------------|-------------------|
-|Search rank for "gi bill” or similar from My VA (whichever comes first)|TBD|TBD|TBD|
-|Search rank for "coe” or "certificate of eligibility" (whichever comes first)|TBD|TBD|TBD|
+|Search rank for "gi bill” or similar from My VA (whichever comes first)|#28 (282 instances)|TBD|TBD|
+|Search rank for "coe” or "certificate of eligibility" (whichever comes first)|#4 (970 instances)|TBD|TBD|
 
 **KPI: Establish baseline metrics for clicks into new links from My VA.**
 
-|KPI/metric|Post-launch: [One month post-launch to 100%]|Post-launch: [Second month post-launch to 100%]|
+|KPI/metric| 1 month post-launch to 100% <br />(4/25/23 - 5/24/23)|2 months post-launch to 100% <br />(5/25/23 - 6/24/23)|
 |----------|---------------|-------------------|
 |Clicks into "Compare GI Bill benefits by school" from My VA |TBD|TBD|
 |Clicks into "Check your GI Bill statement of benefits" from My VA |TBD|TBD|
 
 ## Key deliverables
 
-- Angela's audits
+|Deliverables| Date completed|
+|------------|-----|
+|[Initial audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/vsa8243/1648129585496/d22080eb307aac8bda5ba1153e013a386b7f1396)| Spring 2022|
+|[Usability testing findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md)| January 2023|
+|[QA documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit/QA)| February 2023|
+|[Analytics -- new and updated tags](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/Product/audit-analytics-how-to.md)|March 2023|
+|[Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/launch-materials/my-va-audit-improvements-release-plan.md)| March 2023|
 
 ### Key Dates
 
 - March 2022: Audit begins
-   
+- Summer 2022: Design
+- Fall 2022: Frontend build
+- January 2023: Usability testing & write up
+- February 2023: QA
+- March 2023: Pre-launch activities
+- April 11, 2023: Launch to 25%
+- April 18, 2023: Launch to 50%
+- April 25, 2023: Launch to 100%
+
 ## Screenshots
 
 ### Before
 
-![My VA with benefits payments and debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/My%20VA_April%202022.jpeg)
+![My VA - Desktop - Before Audit](https://user-images.githubusercontent.com/97965610/234959987-23752f05-c073-46b2-9ab1-ad096abd4077.jpg)
 
 ### After
-
+April 2023
+![My VA Audit Updates](https://user-images.githubusercontent.com/45603961/232817009-ce52c3e6-cd28-4c80-a3f5-756ed18f8282.jpg)

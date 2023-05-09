@@ -1,5 +1,5 @@
 # My VA Education and Training Frontend Documentation
-Last updated: November 4, 2022
+Last updated: April 5, 2023 (updated link destination for "Check your Post-9/11 GI Bill benefits")
 
 ## When to show the ‘Education and training’ section
 We show this section for every LOA3 user.
@@ -60,4 +60,4 @@ Use font awesome icon `dollar-sign` for icon
 
 #### Content
 
-[Check your Post-9/11 GI Bill benefits](https://va.gov/education/gi-bill/post-9-11/ch-33-benefit/)
+[Check your Post-9/11 GI Bill benefits](https://va.gov/education/gi-bill/post-9-11/ch-33-benefit/status)

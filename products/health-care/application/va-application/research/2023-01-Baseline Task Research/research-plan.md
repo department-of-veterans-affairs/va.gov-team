@@ -36,13 +36,13 @@ Attending to health care needs during the starting up phase of the journey is a 
 
 
 ### Outcome
-We will use the results from this research to establish a baseline for comparrison in other research studies ([Household Section Optimization](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/192)) specific to key tasks that come up frequently during research sessions. 
+We will use the results from this research to establish a baseline for comparison in other research studies ([Household Section Optimization](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/192)) specific to key tasks that come up frequently during research sessions. 
 
 
 ### Research questions
 - What tasks are consistently completed by participants with ease?
 - What tasks do the majority of participants struggle with or have some level of difficulty?
-- How successufl are participants in completing the household information section questions?
+- How successful are participants in completing the household information section questions?
 
 ### Hypotheses
 - The baseline study will help establish that the insights and pain points from previous studies are still consistently an issue with participants in this study. 
@@ -313,10 +313,6 @@ We will be testing what is currently approved in the staging environment.
 - Participant(s) for pilot test: Christia Troyer ( )
 - Note-takers: Perigean & 1010 Team
 - Observers: Heather Justice (heather.justice@adhocteam.us), Nick Osmanski (nick.osmanski@amida.com), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us)   
-
-
-
-> **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
 
 
 

@@ -19,7 +19,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to web page:* **bit.ly/3whFCA2** (https://www.sketch.com/s/a8506c94-a5bd-4a69-91ff-fe06545f3126/prototype/a/F5B88AD4-2EA3-4235-A5B7-2661FF169AD4)
+- *Open a standalone browser window to web page:* **[https://bit.ly/3zuL4Be](https://www.figma.com/proto/pqSQOl4IodScHhobr0GkbD/Income-Limits-Prototype?page-id=201%3A1943&node-id=202-4360&viewport=1270%2C1287%2C0.36&scaling=min-zoom&starting-point-node-id=202%3A3001&hotspot-hints=0)**
 - *Paste link into Slack so ready to paste into Zoom chat*
 
 - *Do Not Disturb ON so no notifications*
@@ -36,7 +36,7 @@ Thank you for joining us today! My name is Cindy. How are you doing today?
 
 I have a colleague with us in this session who will be taking notes. 
 
-There are a few of my teammates who would like to observe this session and take notes. **Would it be OK with you if I invited them to join us?**
+There are a few of my teammates who would like to observe this session as well. **Would it be OK with you if I invited them to join us?**
 - *(If yes, let them in--3-4 MAX. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
 
 - *(NOTETAKER & OBSERVERS JOIN w/cameras ON )* We have a few people from the team listening in today: there's [NAME] *(wave or say "hi")*, [NAME] *(wave or say "hi")*, etc. *(If I don't know the name of one of the observers, ask them to please turn on their camera and say their name aloud)*
@@ -56,9 +56,9 @@ Before we start, I want to go over a few things:
 
 *Start recording to the cloud.*
 
-*Click Live Transcript and **Enable**, or Show Captions*. 
+*Click Live Transcript and **Enable**, or **Show Captions**.* 
 
-*Click Live Transcript > View Full Transcript*
+*Click **Live Transcript > View Full Transcript***
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
@@ -67,10 +67,10 @@ Before we start, I want to go over a few things:
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
-- Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" (phone) or your web browser.
+- Now I'd like you to share your screen with me. Tap on the green button that says **Share**. You will then see options for what to share. Please choose **"Screen"** (phone) or your web browser.
 - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
-- iPad: Broadcast screen
+- iPad: **Broadcast screen**
 
 - *Backup plan if they cannot figure out how to share screen:*
   - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
@@ -84,9 +84,13 @@ Before we start, I want to go over a few things:
 ## Warm-up Questions - 5 minutes
 Let’s start with a few questions... 
 
+1. I understand you are a (*Veteran / Caregiver / Family member).* Is that right? 
+	- *(If Caregiver, confirm:)* Are you a caregiver for a Veteran? Are you a Veteran?
+	- Thanks for confirming that.
+
 1. What kind of device are you using today? *(Computer / Tablet / Smartphone)*
 
-1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat. *NOTE how to share URL: dictate / Zoom chat* 
+1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat. *(NOTE how to share URL: dictate / Zoom chat)* 
 
 1. How do you typically get information and benefits from the VA? *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)*
 
@@ -94,15 +98,18 @@ Let’s start with a few questions...
 
 1. What have you heard about income eligibility for VA health care? 
 
-1. Do you receive VA disability compensation for a service-connected disability rating of 50% or higher? *(Yes / No / ______________________)*
+1. Do you get a pension from the VA? *(Yes / No / ______________________)*
+
+1. Do you get VA disability compensation for a service-connected disability rating of 50% or higher? *(Yes / No / ______________________)*
 
 
 ## User Tasks
-Now I'm going to ask you to do some things... 
+Now I'm going to ask you to do some things... ***Reassure if p nervous or says they feel dumb or embarrassed***
 
 ### Screen sharing
-I would like you first to share your screen with me--a web browser please. You might want to close any apps that you don’t want me to see.
+I would like you to share your phone screen with me so that I can see what you do during this session. You might want to first close any apps that you don’t want me to see.
 - *(refer to Screen sharing instructions above, if needed)*
+- *STOP TECH TROUBLESHOOTING **< 20 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
 
 ### Task 1: [Wayfinding] 
 *(if they DON'T have VA health care)* Let's say that you're wondering if you're eligible for VA health care with your current income.
@@ -111,99 +118,146 @@ I would like you first to share your screen with me--a web browser please. You m
 
 *if they have 50% or higher disability rating, do they say that income limits don't apply to them? Y / N / ____________*
 
+*if they have a VA pension, do they say that income limits don't apply to them? Y / N / ____________*
+
+I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. I'm looking for **your feedback**, including any issues that you see or questions that you have. 
+
 Can you show me how you would find out if you're eligible for VA health care with your current income?
 
 - *RECORD what they do: Google / VA.gov / words looking/searching for: _______________________*
+
 - *RECORD where they go on VA.gov: Cost of care page / Eligibility page / ______________________*
 
 ### Task 2: [Open prototype] 
 
-I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom. It's a prototype that isn't very interactive, and so before clicking anywhere, I'd like you to tell me what you might do.
+I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom. It's a prototype that isn't very interactive–some things work, and many things do not. I'd like you to talk to me about what you want to do BEFORE you click anything.
 
-While you're looking at the prototype, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
-
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **bit.ly/3whFCA2**
-- *(If asked, reassure that this is a legitimate link to what I want you to test.)*
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **https://bit.ly/3zuL4Be**
+- *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
 Do you see the link? 
+
+- *If see “unsupported browser” error, ask to try a different browser or device, or share my screen and mouse control*
+- *If prototype doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)*
 
 What are your impressions of what you're looking at? *(RECORD)*
 
 Could you try to use this to find out if you're eligible for VA health care with your current income? Please explain what you want to do before clicking anywhere.
-- *(Click to start income limits app)*
+- *(Click: income limits--under "Will I need to pay..." (w/other links) or "Does VA verify..." (lone link)?)*
 
 ### Task 3: [Intro page of app] 
 Let's talk before you click anywhere...What are your impressions of this page?
 What do you think you can do here?
 
+*(does p think this tool will ask about disability rating and other factors, or income limits?)*
+
+Do you think this tool would be useful for you or not? WHY?
+*(want to get a sense for HOW useful it might be for them)*
+
+If not, who would it be useful for?
+
 *click "Get started"*
 - *(RECORD all comments*)
 
 ### Task 4: [Answer questions in app] 
-How would you use this? Please talk me through what you would do, but not click anywhere yet.
+How would you use this? Please talk me through what you would do, but **do not** click anywhere yet.
 
-- *(when click on an entry field and then see different info)* This prototype isn't interactive enough to let you enter your information, but it will jump to a new screen with some information already filled out. I'd like to you tell me what you would enter for yourself or what questions you have about it.
+- *(when click on an entry field and then see different info)* This prototype isn't interactive enough to let you enter your own information, but it will jump to a new screen with some information already filled out. I'd like you to tell me what you would enter for yourself or what questions you have about it.
 
 - *(RECORD all comments and anything confusing re the interactions on each screen of the prototype:)*
+  - *Pension--*  
+  - *A&A--*
+  - *Housebound--*
   - *Zip code--*
-  - *Dependents--*
-  - *VA Aid and Attendance*
-  - *VA Housebound--*
+  - *# of Dependents--*
   - *Back, Continue buttons--*
   - *Review your information screen--*
+  - *The year 2022 vs. 2023--*
 
 ### Task 5: [Results screen]
 What are your impressions of this page? *(RECORD what they say)*
 
-- *RECORD: Which accordions did they open? household income / individual income limits / income too high*
+- *RECORD: Which accordions did they open? How to estimate income / $29K / $29-43K / $43-81K / $81-90K / $90K or more*
+
+Can you explain what this page means to you?
 
 How is your income involved here?
 
 - *RECORD: Understand that it's your previous year's income that's relevant? yes / no*
 
-If your income last year was $40,000, what would that mean for your eligibility for VA health care? *(RECORD)*
+If your salary last year was around $40,000, what might that mean for your eligibility for VA health care? *(RECORD)*
 
 Can you tell me what benefits you might get? 
-- *PROBE on meaning of "free" or "no copays"*
+- *PROBE on meaning of "Free VA health care for most types of care"*
+- *PROBE on meaning of "copays"*
 
-If your income last year was $25,000, what would that mean? *(RECORD)*
+If your salary last year was around $28,000, what might that mean? *(RECORD)*
 
-What if your income was $100,000? *(RECORD)*
+If your salary last year was around $83,000, what might that mean? *(RECORD)*
 
-- *RECORD: any comments about benefits (in bullets)*
+If your salary last year was around $90,000, what might that mean? *(RECORD)*
 
-- *RECORD: any comments about deductions*
+How sure are you that these benefits *would apply* if your salary was around $90,000?
+
+- *(Could probe)* How certain are you that you *don't qualify for more benefits*? 
+- Is there anything that might affect the income number that you use here? *(e.g., deductions)*
+
+What if your salary was around $100,000? *(RECORD)*
+
+*RECORD any comments about...*
+- *benefits (in bullets)--*
+- *income/deductions--*
+- *the year 2022 vs. 2023--*
+- *wanting to see questions answered (zip code, # dependents)--*
+- *about the word "Select"*
 
 ### Task 6: [What next]
-Please stay on this screen. What do you think about this information and your question of eligibility for VA health care?
+Please stay on this screen. Based on what you see in this screen, what do you think about this information and the question of eligibility for VA health care?
 - *RECORD what they say: definitive answer / only part of the answer / need to apply to know for sure / _____________*
+- *Make sure that participant is talking about what they're seeing in the app,* and NOT *what they knew before this session!*
 
 How would you decide what to do next? 
 
-What do you plan to do next? 
-- *(RECORD: apply for VA health care / Back / ________________)*
+What would you do next? 
+- *(RECORD: apply for VA health care / Review info entered / Back in browser / ________________)*
 
 How did this tool help or not help you decide what to do?
 
 ### Task 7: [Check info entered]
 Now you want to check whether you entered your location correctly. How could you do that? 
-- *(RECORD: back to review screen / zip code entry screen / ________________)*
+- *(RECORD: Review info entered > Edit / Back in browser to review page or zip code screen / ________________)*
+  - *Any difficulty finding the “Review info entered” link? Y / N*
+- *If surprised by dependents screen, ask what they expected to see (Continue button --> Review page?)*
 
 ### Task 8: [Change year]
-Suppose that you’re in the process of appealing a health care claim from 2021, and you want to see the income limits from that year? What could you do?
-- *(RECORD: click on "past income limits" / _________________________________)*
+Suppose that you’re in the process of appealing a health care claim from 2021, and you want to see the income limits from that year. What could you do? Again, please tell me where you want to click before doing it.
+- *(RECORD: click on "Get past income limits" / _________________________________)*
+  - *any comments about the wording "get past"?*
 
-When in this app would you prefer to specify the year? 
-- *(RECORD: as is at end / earlier when answering questions / _________________)*
+- *(RECORD all comments and anything confusing re the interactions on each screen of the prototype:)*
+  - *Pension--*  
+  - *A&A--*
+  - *Housebound--*
+  - *Zip code--*
+  - *Anything about the year 2020--*
+  - *# of Dependents--*
+  - *Back, Continue buttons--*
+  - *Review your information screen--*
+  - *Results screen--*
 
 ## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-1. How or where would you expect to find this app that you just used?
+1. How or where would you expect to find this tool that you just used?
 1. What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
 1. Is there anything else that we haven't talked about that you think I should know? 
+
+I want to let you know that we're still working out some of the details for what I've shown you today, so I'm going to ask you to **NOT** *rely on the accuracy of the information that you've seen*, in case it's not correct.
+
+*If they ask how to find out more, give them the phone number for the VA health benefits hotline, which can help with enrollment and eligibility questions:* **877-222-8387 (Mon - Fri 8 am - 8 pm ET)**
+
 
 ## Thank You and Closing - 1 minute
 
@@ -225,5 +279,5 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Debrief to my spreadsheet
 
 ## Approvals
-- Reviewed and approved by Dave Conlon (PO) on date TBD
-- Reviewed and approved by Shane Strassberg on date TBD
+- Dave Conlon (PO) on Mar 8, 2023
+- Shane Strassberg on Mar 13, 2023

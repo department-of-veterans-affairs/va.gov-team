@@ -1,6 +1,6 @@
 # Direct deposit: user receives payments, but hasn't set up direct deposit for any payment type
 
-**Last update: November 21, 2022**
+**Last update: March 9, 2023 -- Adding users**
 
 If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, navigates to the direct deposit page, and we detect they're receiving payments, they'll see different messages in each payment section of the page.
 
@@ -25,8 +25,8 @@ N/A
 
 ## How to reproduce
 
-**Do not save any account information for this user.**
+**PLEASE DO NOT SAVE DIRECT DEPOSIT INFORMATION FOR THESE USERS. There is no way to delete it, so once it's added, we no longer have users where we can check this use case.**
 
-1. Log into staging with vets.gov.user+82
+1. Log into staging with users 80, 82, 230. 
 2. Navigate to Profile > Direct deposit
 3. Do not save any account information for this user.

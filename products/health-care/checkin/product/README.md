@@ -76,6 +76,7 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
      - Veteran loads the eCheck-in application and verifies their identity by entering their Last Name and DOB
      - Veteran selects the appointment for which they want to check in and checks-in
      - Once check-in is complete, the VA facility will be notified that the Veteran has checked in 
+- Applies to: In-person appoiuntments only
 
 #### [Pre-check-in MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/iniative-phase-2.md)
 - Status: Released on 5/2/2022
@@ -87,9 +88,19 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
      - Veteran reviewes their contact, emergency contact, and next-of-kin information and indicates if the information is correct or needs to be updated
      - Once pre-check-in is complete, the VA facility will be notified as to whether the Veteran will need to update their information at the time of their appointment
      - If the Veteran needs to update their information, they are directed to check-in with a staff member at the time of their appointment
+- Applies to: In-person and phone appoiuntments only
+
+#### Support for Phone Appointments
+ - Status: Released
+ - Purpose: Added Pre-Check-in support for phone appointments
+ - Additional Info: Based on the conversation in this [slack thread](https://dsva.slack.com/archives/C022AC2STBM/p1682438155187729?thread_ts=1682432660.843999&cid=C022AC2STBM), the following decisions have been made:
+      - We will not support video/telehealth appointments in Pre-Check-in and eCheck-in because 
+          - Video appointments make use telehealth software that includes notifications and instructions for the appointments; therefore, Pre-Check-in & eCheck-in are not needed and would conflict with these telehealth applications 
+          - Video appointments typically don't involve MSA staff interacting with the Veteran prior to the appointment with the Dr. 
+      - We will not support Community Care appointments in Pre-Check-in and eCheck-in because they are maintained outside of the VA's system and would be problematic to integrate with  
 
 #### Spanish Language Support 
-- Status: Released on 6/28/2022
+- Status: Released on 7/7/2022
 - Purpose: Allow Veterans to choose to see Pre-Check-in and Check-in content in Spanish
 
 #### Tagalog Language Support 

@@ -2,21 +2,17 @@
 
 Staging: https://staging.va.gov/education/yellow-ribbon-participating-schools/
 
-Last updated February 19, 2020
 
 ## POCs
 
-- Slack channel: [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
+- Slack channel: [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
 
   
 
 | Name          | Role                                          |
 | ------------- | --------------------------------------------- |
-| Jennifer Lee  | Public Websites Product Owner                 |
-| Liz Lantz     | Designer/Researcher                           |
-| Nick Sullivan | FE Engineer                                   |
-| Kelson Adams  | FE Engineer                                   |
-| Anne Hurley   | Content                                       |
+| Dave Conlon   | Public Websites Product Owner                 |
+| Wes Rowe      | Public Websites Product manager               |
 | Luke Tickner  | Education/GI Bill Comparison Tool SME Contact |
 | Tammy Hurley  | Yellow Ribbon SME Contact                     |
 | Darrell Neel  | GI Data Service Tech SME Contact              |

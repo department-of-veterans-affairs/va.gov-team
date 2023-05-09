@@ -1,13 +1,17 @@
 # Notification settings: User has no contact info on file
-**Last updated: August 22, 2022**
+**Last updated: February 22, 2023**
 
 LOA3 users who sign in, go to the profile, and click into the notification settings page can’t manage notifications if we don’t have relevant contact info in their profile.
 
 ## UX
-* We use the  [warning alert component](https://design.va.gov/components/alert#warning-alert) to direct the user to the contact info section to provide the missing contact info.
-* Once they update their contact information, the success message will include a link back to the notification settings page. 
-* [Desktop mock-up](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/JnO1Jv0)
-* [Mobile mock-up](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/52l205y)
+We use the [warning alert component](https://design.va.gov/components/alert#warning-alert) to direct the user to the contact info section to provide the missing contact info.
+* [Desktop mock-up](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/9P49mAx)
+* [Mobile mock-up](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/v/DD5WOe/a/Vr91mZg)
+
+Once they update their contact information, they'll be brought back to the notification settings page, where a success message will be displayed. 
+* [Desktop mock-up](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/WKLzddk)
+* [Mobile mock-up](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/4al7YGJ)
+
 
 ## Codes
 N/A

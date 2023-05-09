@@ -1,0 +1,15 @@
+MHV Delivery new APIs involving conversation threading 
+Shared by Oleksii (Alex) Morgun on 3/23
+Been in production since ~early Feb 2023
+
+Thread List
+https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/?url=https://dev-api.va.gov/my_health/apidocs#/default/get_folder_threads
+
+Get Thread
+https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/?url=https://dev-api.va.gov/my_health/apidocs#/default/get_messages_for_thread
+
+Move Thread
+https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/?url=https://dev-api.va.gov/my_health/apidocs#/default/post_move_thread
+
+Per Bryan on these new APIs
+These are just new APIs, any previous ones that don't use message threads should continue to work.  Even our legacy MHV SM application still uses those

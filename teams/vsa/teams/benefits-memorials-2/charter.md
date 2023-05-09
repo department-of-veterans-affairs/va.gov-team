@@ -46,7 +46,7 @@ Last Updated: January 27,2023
 |Sr. Product Manager    |Denise Coveyduc                     |
 |Delivery Manager       |Heather Rienks                     |
 |Lead Back End Engineer  |Scott James                         |
-|Back End Engineer      |TBD                                 |
+|Back End Engineer      |Amir Nashat                                 |
 |Lead Front End Engineer |Andrew Rodiek                       |
 |Sr. Front End Engineer |Brandyn Sullins                     |
 |Sr. Front End Engineer |Aaron Ponce                        |
@@ -96,7 +96,7 @@ Last Updated: January 27,2023
 ## Contract Meetings
 | **Meeting** | **Cadence**      |**Attendees**  |**Agenda/Focus**    |**Facilitator**    | 
 |-------------|--------|-------------|---------|----------|
-| *Benefits Debt Resolution: Weekly Check-In Meeting* | Weekly      | Matt Self, Heather Rienks, Denise Coveyduc, Athena Perez, Jennifer Oday, Laurene Cook   |Facilitate open lines of communication between core participants from the VA and A6 project team.    |Heather Rienks   | 
+| *Benefits Debt Resolution: Weekly Check-In Meeting* | Weekly      | Matt Self, Heather Rienks, Denise Coveyduc, Athena Perez, Jennifer O'Day, Laurene Cook   |Facilitate open lines of communication between core participants from the VA and A6 project team.    |Heather Rienks   | 
 | *Contract Status Meeting* | Monthly      | Jennifer O’Day (COR), Matt Self, Denise Coveyduc, Heather Rienks, Athena Perez, Tom Greene    |TBD    |TBD   |
 
 

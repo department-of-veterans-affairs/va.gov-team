@@ -2,11 +2,11 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Authenticated Experience, My VA**
 
-Last updated: 1/23/2023
+Last updated: 3/3/2023
 
 [Angela Agosto - email](angela.agosto@adhocteam.us)
 
-[Research readout](link TK)
+[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/Monday%20Design%20and%20Research%20Share%20-%20My%20VA%20Audit%20Usability%20Findings.pdf)
 
 <br>
 
@@ -27,7 +27,9 @@ Last updated: 1/23/2023
 ## Research Goals
 Since Veterans can apply for and manage their benefits any time after getting out of the military, this work impacts the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from Starting Up and beyond.
 
-Our goals for this research were:
+In 2022, we conducted an [audit of My VA in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/vsa8243/1648129585496/d22080eb307aac8bda5ba1153e013a386b7f1396?sender=uce014850ef6c5a8303e70396) and made some changes to My VA as a result of this audit to simplify the code and logic of the page.
+
+Our goals for this usability research study were:
 
 * Determine if the updated information architecture of My VA still aligns with Veterans' mental model.
 * Determine if showing all sections all the time on My VA has made the page more, less, or equally usable compared to its current state.

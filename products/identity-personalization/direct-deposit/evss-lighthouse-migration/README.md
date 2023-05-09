@@ -1,6 +1,6 @@
 # Project outline: Migrate direct deposit for comp & pen from EVSS > Lighthouse
 
-**Last Updated: February 7, 2023**
+**Last Updated: March 23, 2023**
 
 ### Communications
 
@@ -15,7 +15,11 @@
 
 |Name|Role|Email|
 |----|----|-----|
-|Nichole Harris|Lighthouse PM|harris_nichole@bah.com or Nichole.Harris@va.gov|
+|Lee Helmer| Lead on the entire EVSS > Lighthouse effort| lee.helmer@adhocteam.us|
+|Lorri Glover | Involved with the direct deposit migration|glover_Lorri@bah.com|
+|Greg Feliberty |Involved with the direct deposit migration|feliberty_gregory@bah.com|
+|Andrew Ramos | Involved with the direct deposit migration| ramos_andrew@bah.com|
+|Dana Harris | Involved with the direct deposit migration|dana.harris@adhocteam.us|
 
 ### Table of Contents
 
@@ -24,8 +28,9 @@
 - [Goals](#goals)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
-- [Solution Approach](#solution-approach)
 - [Measuring Success](#measuring-success)
+- [Key deliverables](#key-deliverables)
+- [Key dates](#key-dates)
 - [Backend](#backend)
 
 ## Overview
@@ -62,17 +67,6 @@ As a person that receives payments from VA, I want to be able to easily view and
 
 - There are disruptions or issues as a result of the migration from EVSS > Lighthouse.
 
-## Solution approach
-
-**Anticipated launch date**: tbd
-
-### Key dates
-
-- Early 2022: Support Lighthouse's discovery
-- December 2022: Lighthouse is ready for us to begin integration
-- January 2023: Profile team begins discovery
-- February 2023: Backend migration
-
 ## Measuring success
 
 **Objective 1: Improve save success rates by migrating to Lighthouse**.
@@ -81,13 +75,33 @@ As a person that receives payments from VA, I want to be able to easily view and
 |------|------|-----|
 |TBD|TBD|TBD|
 
+## Key deliverables
+
+|Deliverable|Date completed|
+|-----------|--------------|
+|[Project epic: #51900](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/51900)| N/A|
+|[QA spreadsheet](https://docs.google.com/spreadsheets/d/12gvlkGnwt206BBYY89gDIYG1AtD6j9uCYMr5x99Nzns/edit#gid=0)| TBD|
+|UAT results|TBD|
+|Release plan|TBD|
+
+## Key dates
+
+- Early 2022: Support Lighthouse's discovery
+- December 2022: Lighthouse is ready for us to begin integration
+- January 2023: Profile team begins discovery
+- February 2023: Backend migration
+- March 2023: Backend migration continues; FE + BE updates; QA planning
+- April 2023: QA & Pre-launch activities
+- May 2023: On hold while Samara is on maternity leave
+- June 2023: On hold while Samara is on maternity leave
+- July 2023: Launch
+
 ## Backend
 
 - We need to request OAuth credentials to sandbox. We'll also need production credentials.
 
-### Key documentation
+### Documentation
 
-- [Project epic: #51900](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/51900)
 - [Developer.va.gov documents](https://developer.va.gov/explore/benefits/docs/direct-deposit-management?version=current)
 - [Request Sandbox Access](https://developer.va.gov/onboarding/request-sandbox-access)
 - [Max.gov API docs](https://community.max.gov/pages/viewpage.action?pageId=2286748585)

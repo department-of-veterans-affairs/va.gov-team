@@ -19,13 +19,14 @@
 - [ ] Confirm that links work (aren't broken—no error message) and point to the intended page (you pasted in the correct URL or chose the correct node ID).
 - [ ] Confirm all link text is 100 characters or less.
 - [ ] Check that you've selected a node ID for all links pointing to VA.gov (internal) pages. Only paste in a URL if the page you're linking to doesn't live in our CMS (isn't one of our modernized pages). [Learn how to add node IDs in Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/linking-with-node-ids.md) 
-- [ ] Check that all anchor/jump links are pointing to a node followed by # and the header identifier. Double check all anchor/jump links post-publish.
+- [ ] Check that all anchor/jump links are pointing to a node followed by # and the header identifier (Example: /node/47278/#information-for-survivors). Double check all anchor/jump links post-publish. 
 
 ### CMS standards
 
 - [ ] Make sure all apostrophes and quotation marks are curly not straight. (Once this is automatic in Drupal, we can remove this item.)
 - [ ] If there are alerts at the top of the Drupal Edit node for broken links, redirected links, or links to unpublished pages, correct the issues. If there's an alert for a broken link but the link is actually working, report the issue to the CMS help desk. [Read more about link alerts in the CMS knowledge base](https://prod.cms.va.gov/help/cms-basics/how-to-fix-broken-links-and-redirects)
 - [ ] If publishing a brand-new page, confirm the left nav and url are set up correclty. (If the page is a child page, the section needs to be the same as the parent page in order for the left nav to show.) [Learn how to set up a url and left nav in Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/adding-left-nav-and-url.md)
+- [ ] Check if the page has a new or updated alert. If so, publish the alert separately. 
 
 ### Additional checks for Resources and Support articles
 

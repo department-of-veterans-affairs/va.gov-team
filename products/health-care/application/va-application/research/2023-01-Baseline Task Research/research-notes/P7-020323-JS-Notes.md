@@ -71,13 +71,6 @@
 - Place of birth.. (completes)
 - (American indian question, scrolling prompted question) I was just looking, I am not part of a tribe or anything
 - I was just making sure none of these apply to me and none of these do.
-
-
-**Participant questions:**
-- What worked well for you?
-- What was unclear or didn’t work well for you?
-- What would you like to change or add?
-
 - No, it's great
 - I really like this, because like I said, it is not here's the application fill it out.
 - It is very explanitory of what I need, the way the descriptions are, they are very clear. 
@@ -96,6 +89,16 @@
 ### Things to watch for:
 - [Does the participant comment on the length of this section of the form, number of questions/page or the progress bar?]
 - [New American Indian question]
+
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- [4] = All parts of the task were completed with no difficulty 
+
+
 
 ---
 [Step 2 of 6: VA benefits]
@@ -130,6 +133,15 @@
 - [Does the participant understand the questions and content through these sections?]
 - [Does the participant comment that the questions are too intrusive or the VA should have this information?]
 
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- [4] = All parts of the task were completed with no difficulty 
+
+
 
 ## Task: [Upload a file] - 3 minutes
 **Quotes, notes and observations:**
@@ -140,6 +152,14 @@
 - If you skip certain things and they ask later, it takes of course takes longer. 
 - It is better to give them the information right off the bat.
 - Some people might not have it on their computer or phone, good options and good instructions, it's not too long either.
+
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- [4] = All parts of the task were completed with no difficulty 
 
 
 ### Things to watch for:
@@ -157,21 +177,13 @@
 - There is a lot of little options for qualifying factors, but the fact of the matter is, all these matter,
 - At some point they will put in something about the burn pits too and stuff like that, the burn pits were awful for people. 
 
-
-**Participant questions:**
-- What worked well for you?
-- What was unclear or didn’t work well for you?
-- What would you like to change or add?
-
-
-### Things to watch for:
-- [Does the participant understand the financial disclosure page?]
-- [Does the participant open the additional info on qualifying eligibility factors?]
-- [Does the participant click yes or no on the financial disclosure page and express why?] 
-
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
-- [4]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- [4] = All parts of the task were completed with no difficulty 
 
 
 ## Task: Marital status and spouse information - 3 minutes
@@ -207,18 +219,14 @@
 - I would say that would be pretty quick for most people.  
 
 
-**Participant questions:**
-- What worked well for you?
-- What was unclear or didn’t work well for you?
-- What would you like to change or add?
-
-### Things to watch for:
-- [Does the participant need to use the additional info of "Who does VA consider a dependent" to answer the question?]
-- [Does the participant struggle with adding a second dependent?]
-- [Does the participant pause or are they confused by any of the dependent information questions?]
 
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- [3] = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty 
 
 
 ## Task: Editing and removing a dependent - 3 minutes
@@ -239,19 +247,13 @@
 - That's easy, it's very clear.
 
 
-
-**Participant questions:**
-- What worked well for you?
-- What was unclear or didn’t work well for you?
-- What would you like to change or add?
-
-
-### Things to watch for:
-- [Does the participant comment on the onboarding page or do they spend a lot of time here?]
-- [Does the participant interact with any of the additional information components for more context needed?]
-
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- [4] = All parts of the task were completed with no difficulty 
 
 
 ## Task: Deductible information - 5 minutes
@@ -286,7 +288,15 @@
 - I like the chunks, it is not overwhelming for people. 
 - This is very good, it is short to the point.
 - I have TRICARE, what is my policy number. So that is my DOD number. They don't give them a card for TRICARE. 
-- 
+
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- [3] = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty 
+
 
 
 [VA Facilities page]
@@ -301,22 +311,14 @@
 - You can only do so much in a clinic, but in a hospital all your needs. Not only physically and mentally, but help with your paperwork too. 
 - I don't know the specific name of hospitials, some people do but I am not good with that. 
 
-
-**Participant questions:**
-- What worked well for you?
-- What was unclear or didn’t work well for you?
-- What would you like to change or add?
-
-
-### Things to watch for:
-- [Does the participant understand this question or are they confused and need additional context?]
-- [Do the medicaid and medicare questions cause pause or confuse the participant?]
-- [How does the participant prefer to search and/or sort facilities?]
-- [Does the participant interact with the additional links on the facilities page?]
-
 #### Observer rating of task completion
 - [Observer ratings of start application task completion using rating criteria]
-- [4]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- [2] = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty 
+
 
 ---
 [Step 6 of 6: Review]
@@ -341,10 +343,15 @@
 - And of course, you don't want to check everything unless you read it and then submit.
 - 
 
-### Things to watch for:
-- [Does the participant have a positive or negative sentiment about the review page?]
-- [Does the participant give any reason for pause or why they wouldn's submit the application?]
-- [Does the participant interact with any of the accordions or try and edit any information?]
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- 2 = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- [4] = All parts of the task were completed with no difficulty 
+
+
 
 
 ---
@@ -363,11 +370,13 @@
 - Oh, rihgt here, I didn't really see that. What happens after you apply. Wow, in less than one week, that is fast. 
 
 
-### Things to watch for:
-- [Does the participant seem unclear on what happens next?]
-- [Does the participant feel confident that they know what the next steps in the process are?]
-- [Does the participant have positive or negative reaction to the confirmation page?]
-
+#### Observer rating of task completion
+- [Observer ratings of start application task completion using rating criteria]
+- 0 = No part of the task completed, much difficulty
+- 1 = Partial completion, much overlooked or task was difficult 
+- [2] = Partial completion, some areas were overlooked or task was slightly difficult
+- 3 = Most of the task was completed with little difficulty
+- 4 = All parts of the task were completed with no difficulty 
 
 
 ## Post-Task Interview - 5 minutes

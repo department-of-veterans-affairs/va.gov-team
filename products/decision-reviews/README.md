@@ -220,6 +220,7 @@ TBD after launch
 |Name|Role|Email|
 |----|----|-----|
 |Matt Self|DSVA Lead| matt.self@va.gov |
+|Julie Strothman|DSVA Design Lead| julie.strothman@va.gov |
 |Sade Ragsdale |Product Manager| sade@coforma.io |
 |Eileen Chi |Designer| eileen.chi@coforma.io |
 |Eugene Lynch | Engineer| eugene.lynch@coforma.io |

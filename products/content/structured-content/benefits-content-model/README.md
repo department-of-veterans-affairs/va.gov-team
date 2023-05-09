@@ -46,6 +46,8 @@ Since this is a CMS product, we intend to govern construction of the BCM under t
 
 Products that consume the BCM will go through Platform Collab Cycle.
 
+Benefit content will be managed and governed by the Sitewide Content team.
+
 ---
 ## Measuring Success
 
@@ -87,6 +89,7 @@ These will be set by individual product teams that consume BCM.
 - There were no competing ideas for how to centralize content, and COPE is a well-established strategy at VA and across the industry.
 - Our MVP will consist of the benefits themselves and some additional fields related to applying for the benefit. We tend to group these fields under "How to apply," as that is a content area that is present in the existing benefit detail pages for the vast majority of benefits.
 - We will decide how to evolve and add onto the BCM based on iteration and feedback with the MVP consumers (at least 2 products, as stated above under "Initial hypothesis for KIPs").
+- Benefits will be nodes. We are aware that the content-build time is node-count driven, so the addition of a few dozen benefit node will have a non-zero impact on build times in the current publishing model. However, no alternative architecture was identified.
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*

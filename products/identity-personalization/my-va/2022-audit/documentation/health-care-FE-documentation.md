@@ -1,5 +1,5 @@
 # My VA Health Care Frontend Documentation
-Last updated: February 14, 2023 (mobile sketch link for error 2)
+Last updated: March 22, 2023
 
 ## When to show the ‘Health care’ section
 We show this section for every LOA3 user.
@@ -89,23 +89,21 @@ You have no upcoming appointments to show.
 
 **Show**
 
-- If a user has unread messages in the [My HealtheVet secure messaging portal](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging).
+- If a user has unread messages in the [My HealtheVet secure messaging portal](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging).
 
 #### **Content**
 
-You have # unread messages. [Review your messages](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging)
+You have # unread messages. [Review your messages](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging)
 
 **Content specs**
 
-- The notification should contain the number of unread messages that a user has in the [secure messaging portal](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging).
+- The notification should contain the number of unread messages that a user has in the [secure messaging portal](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging).
 - If a user has multiple unread messages, the word "messages" should appear as plural.
 - If a user has one unread message, the word "message" should appear as singular.
 
 **Visual specs**
 
-- The new component will be built by the Authenticated Experience team and eventually added to the VA design pattern library. When it is added, we will link it here.
-- Currently, this feature uses the [warning alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--default#warning) in the VA design pattern library.
-- This component is a version of the [onsite notification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/frontend-documentation/notifications-frontend-documentation.md). The difference in this version is that there is no date and no dismiss icon.
+- This feature uses the [warning alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--default#warning) in the VA design pattern library.
 - The color of the icon is `secondary-darkest` in the VA design pattern library (#981B1E)
 - The header text in the notification is an `H4`.
 - The link should use the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--active#active) in the VA pattern library.
@@ -136,7 +134,7 @@ Your care team may now use our new My VA Health portal. Choose your portal based
 
 For (**Health care facility name**), (**Health care facility name**), or (**Health care facility name**): [Use My VA Health (opens in new tab)](https://patientportal.myhealth.va.gov/clear-session?to=https%3A%2F%2Fstaging-patientportal.myhealth.va.gov%3Fauthenticated%3Dtrue)
 
-For **any other VA health facility:** [Use My HealtheVet](https://mhv-syst.myhealth.va.gov/mhv-portal-web/home)
+For **any other VA health facility:** [Use My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)
 
 If you have trouble accessing the portal, make sure to disable your pop-up blocker. If you’re prompted to sign in again, use the same account you used to sign in to VA.gov.
 
@@ -185,15 +183,15 @@ Use font awesome icon `comments` for icon
 
 #### Content
 
-[Send a secure message to your health care team](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging)
+[Send a secure message to your health care team](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging)
 
 ---
 
 ### Schedule and manage your appointments link
 
-![Screen Shot 2022-09-30 at 1 50 51 PM](https://user-images.githubusercontent.com/97965610/193330557-10078363-ce30-4d6d-91db-0c1182ae99c1.png)
+<img width="474" alt="Screenshot 2023-03-14 at 1 42 37 PM" src="https://user-images.githubusercontent.com/97965610/225092377-f59681f3-bcf2-402d-a76c-7aece775f547.png">
 
-Use font awesome icon `calendar-check` for icon
+Use font awesome icon `calendar` for icon
 
 **Show**
 - For users who have VA health care but do not have any upcoming appointments.
@@ -222,7 +220,7 @@ Use font awesome icon `prescription-bottle` for icon
 
 #### Content
 
-[Refill and track your prescriptions](https://mhv-syst.myhealth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
+[Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
 
 ---
 
@@ -258,13 +256,13 @@ Use font awesome icon `file-medical` for icon
 
 #### Content
 
-[Get your VA medical records and lab and test results](https://mhv-syst.myhealth.va.gov/mhv-portal-web/download-my-data)
+[Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data)
 
 ---
 
 ## Error States
 
-### Error State 1: The health care API call fails (can't tell if user has VA health care or not)
+### Error State 1: The `GET/user/` user call fails (can't tell if user has VA health care or not)
 
 #### Visual specs
 - Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--warning#error) for the error message.
@@ -298,14 +296,33 @@ Use font awesome icon `file-medical` for icon
 
 **Positioning**
 - This should appear under the 'Health care' header on the lefthand side on desktop.
+- If the user has unread messages, then this error appears below the unread messages alert and all secondary links appear on the right on desktop.
 
 **Secondary links**
-- When this error shows, the following secondary links should appear on the lefthand side on desktop:
-  - [Send a secure message to your health care team](https://mhv-syst.myhealth.va.gov/mhv-portal-web/secure-messaging)
-  - [Refill and track your prescriptions](https://mhv-syst.myhealth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
+- When this error shows and the user doesn't have unread messages, the following secondary links should appear on the lefthand side on desktop:
+  - [Send a secure message to your health care team](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging)
+  - [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
   - [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/)
-  - [Get your VA medical records and lab and test results](https://mhv-syst.myhealth.va.gov/mhv-portal-web/download-my-data)
+  - [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data)
+
+- When this error shows and the user has unread messages, the following secondary links should appear on the righthand side on desktop:
+  - [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
+  - [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/)
+  - [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data)
 
 #### Mock-ups
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1Yjlkj)
+- [Desktop without messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
+- [Mobile without messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1Yjlkj)
+- [Desktop with messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C19F6AA0-62CE-4F92-89BD-65680DE67F60)
+- [Mobile with messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/0C2845E1-A9E9-412C-B653-11B292A822A0)
+
+
+### Error State 3: The messaging API call fails
+
+#### Visual specs
+- When the messaging API call fails, we do not show an error message - we show the [Send a secure message to your heath care team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md#send-a-secure-message-to-your-health-care-team-link) link in the list of links in the health care section.
+- Follow all other specs for when this secondary link shows.
+
+#### Mock-ups
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E1F1890F-BA4D-4726-909B-0055361FDF65)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)

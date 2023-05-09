@@ -10,8 +10,11 @@ Primary and specialty care appointments are available.
 
 (CTA) Start scheduling
 
-(H2) Your appointments
-
+```diff
+- (H2) Your appointments
++ (H2) Appointments
+@@ GH58110 @@
+```
 ---
 
 ## Homepage Refresh Toggle
@@ -27,24 +30,20 @@ Schedule primary or specialty care appointments.
 ### Appointment List Options
 
 #### Upcoming
-
-(H2) Your appointments
-
-Show by status
-
-{Upcoming, Requested, Past, Canceled}
+```diff
+- (H2) Your appointments
++ (H2) Appointments
+@@ GH58110 @@
+```
+Links {Pending, Past}
 
 ---
 
-#### Requests
+#### Pending
 
-(H2) Requested
+(H2) Pending appointments
 
-Show by status
-
-{Upcoming, Requested, Past, Canceled}
-
-Below is your list of appointment requests that haven’t been scheduled yet.
+These appointment requests haven’t been scheduled yet.
 
 ---
 
@@ -52,27 +51,12 @@ Below is your list of appointment requests that haven’t been scheduled yet.
 
 (H2) Past appointments
 
-Show by status
-
-{Upcoming, Requested, Past, Canceled}
-
 Select a date range
 
 {Past 3 months, All of {current year}, All of {prior year}, {5 months prior} - {3 months prior}, {8 months prior} - {6 months prior}, {11 months prior} - {9 months prior}}
 
-(CTA) Update
-
 ---
 
-#### Canceled
-
-(H2) Canceled appointments
-
-Show by status
-
-{Upcoming, Requested, Past, Canceled}
-
----
 
 ### Appointment List Cards
 
@@ -86,11 +70,15 @@ Show by status
 
 ---
 
-#### Requests
+#### Pending
 
 {type of care}
 
-{facility/provider name}
+{preferred modality} 
+
+{selected facility} _for VA requests_
+
+{preferred provider name} _for CC requests_
 
 ---
 
@@ -104,17 +92,6 @@ Show by status
 
 ---
 
-#### Canceled
-
-{Canceled}
-
-{appointment date}
-
-{appointment time}
-
-(facility/provider name, VA Video Connect, Phone call}
-
----
 
 ### Empty States
 Messaging when there are no appointments in the list.
@@ -146,61 +123,3 @@ You don't have any past appointments
 You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
 
 (link) Schedule an appointment
-
----
-
-#### Canceled
-
-You don't have any canceled appointments
-
-You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
-
-(link) Schedule an appointment
-
----
-# Homepage Copy Doc 
-
----
-
-## Updated changes - (35271)
-
-**FORM TITLE**
-
-**PAGE HEADER**
-```
-Your appointments
-```
-**PAGE DESCRIPTION**
-
-```
-n/a
-```
-
-**PAGE CONTENT**
-
-```
-<Start scheduling>
-
-Pending    Past
-```
-**APPOINTMENT LIST CARDS**
-
-#### Display confirmed VA booked appointments/canceled VA booked appointments
-```
-{appointment date}
-
-{appointment time}
-
-(facility/provider name, VA Video Connect, Phone call}
-```
-**Empty State**
-Messaging when there are no appointments in the list.
-
-#### Your appointments (Confirmed)
-```
-You don't have any upcoming appointments
-
-You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
-
-(link) Schedule an appointment
-```

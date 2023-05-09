@@ -63,24 +63,21 @@ We will use the findings to:
 
 ### Hypotheses
 
-<!-- "The appointment list screenreader" I'm not sure what you mean here. Maybe "When a Veteran uses a screenreader to navigate the appointments list"? -->
 When Veterans use a screenreader on the appointment list:
 
--   They will be able to easily navigate their appointments easily.
--   They will be able to find the information they need to attend/join their appointments
+-   They will be able to easily navigate their appointments.
+-   They will be able to find the information they need to attend/join their appointments.
 
 ### Research Questions
 
-<!-- These questions are all focused on usability. If you want to get at value, maybe add one at the end like, "have you/would you ever use this tool to manage or view your appointments?" -->
-
 **Evaluate screenreader usability and value of the appointment list redesign.**
 
-* How do Veterans typically manage their appointments?
-* Does the information for each appointment make sense?
-* Can Veterans differentiate between appointments?
-* Can Veterans navigate to Past appointments?
-* Can Veterans navigate to Pending appointments?
-* What can Veterans do on the pages?
+- How do Veterans typically manage their appointments?
+- Does the information for each appointment make sense?
+- Can Veterans differentiate between appointments?
+- Can Veterans navigate to Past appointments?
+- Can Veterans navigate to Pending appointments?
+- What would Veterans' next steps be?
 
 Method
 ------
@@ -96,8 +93,6 @@ Remote, over Zoom.
 For moderated usability test 
 - [Conversation guide](conversation-guide.md)
 
-- [Staging Link]() TBA
-
 
 Recruitment
 -----------
@@ -111,29 +106,54 @@ Perigean will recruit 12 total participants for this study.
 **Primary criteria**
 
 -  12 participants that regularly use a screenreader.
-  - A mix of advanced and beginner screenreader users.
+  
+**Secondary criteria**  
+
+- A mix of advanced and beginner screenreader users.
+
  
- Screener Question: 
+**Screener questions**
  
- - Do you use a screenreader to assist with webpage navigation? (Yes/No)
-    - If Yes: What type of screenreader do you use?
- - Do you consider yourself an advanced or beginner screenreader user? (Advanced/Beginner)
- - What device will you use to join the session? (Open text input for answer)
- 
+1. Have you been to a VA healthcare facility for a medical appointment in the last 12 months?
+
+   - Yes (Go onto Screener question 2)
+   - No (Disqualify)
+
+2. Do you have an email and password for either Login.gov or ID.me that you use to sign into VA.gov?
+
+   - Yes (Go onto Screener question 3)
+   - No (Disqualify)
+
+3. Please provide the email address you use for either Login.gov or ID.me that you use to sign into VA.gov.
+
+4. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
+
+   - Yes (Go onto Screener question 5)
+   - No (Disqualify)
+
+5. Are you able to join the Zoom session using this assistive technology?
+
+   - Yes (Go onto Screener question 6)
+   - No (Disqualify)
+
+6. Please list the name of the assistive technology or software you will use during the session.
+
+7. Do you consider yourself an advanced or beginner screenreader user? (Advanced/Beginner)
 
 Timeline
 --------
 
 ### Prepare
 
-Test materials will be finalized by TBD
+Test materials will be finalized by Monday, March 20th 2023
 
-Pilot participant email: TBD
-Date and time of pilot session: TBD
+We will not need Perigean to coordinate the Pilot session:
+- Pilot participant: Angela Fowler
+- Date and time of pilot session: Tuesday, March 28th 2023 at 2:30pm EST 
 
 ### Research sessions
 
-Research session will begin on ar after TBD
+Research session will begin on or after Thursday, March 30th 2023 and end on Thursday, April 13th.
 
 ### Length of sessions
 
@@ -141,20 +161,38 @@ Research session will begin on ar after TBD
 
 ### Availability
 
-Monday - Friday, 12:00 pm - 8:00 pm EST
+Team Availability | Time Slots (ET)
+------------------|--------------
+March 30, 2023 | 11 am - 3 pm; 3:30-7 pm
+March 31, 2023 | 11 am - 3 pm; 3:30-7 pm
+April 3, 2023 | 12 pm - 3 pm; 3:30-8 pm
+April 4, 2023 | 12 pm - 3 pm; 3:30-5 pm
+April 5, 2023 | 12 pm - 3 pm; 3:30-5 pm
+April 6, 2023 | 12 pm - 3 pm; 3:30-5 pm
+April 7, 2023 | 12 pm - 3 pm; 3:30-8 pm
+April 10, 2023 | 12 pm - 3 pm; 3:30-8 pm
+April 11, 2023 | Not Available
+April 12, 2023 | Not Available
+April 13, 2023 | 12 pm - 3 pm; 3:30-5 pm
+April 14, 2023 | 12 pm - 3 pm; 3:30-8 pm
 
 15 minute buffer between sessions
 
-No more than 3 sessions per day
+No more than 2 sessions per day
 
 Team roles
 ----------
 
--   Moderator: Peter Russo and Ciera Maddox
--   Research guide writing and task development (usually but not always same as moderator): Peter Russo and Ciera Maddox
+-   Moderator: Ciera Maddox - ciera.maddox@adhocteam.us
+-   Backup moderator: Peter Russo - peter.russo@adhocteam.us
+-   Research guide writing and task development: Peter Russo and Ciera Maddox
 -   Participant recruiting & screening: Perigean
--   Project point of contact: Ciera Maddox
--   Participant(s) for pilot test: TBD
--   Note-takers: Gayathri Radhakrishnan, Peter Russo
--   Observers: TBD
-
+-   Project point of contact: Ciera Maddox - ciera.maddox@adhocteam.us
+-   Participant(s) for pilot test: Angela Fowler
+-   Note-takers: Peter Russo - peter.russo@adhocteam.us
+-   Observers: 
+    -   Kristen McConnell - kristen.mcconnell@va.gov
+    -   Jeff Roof - jeff.roof@adhocteam.us
+    -   Leah De La Costa - leah.delacosta@adhocteam.us
+    -   Simi Abedowale - simi.adebowale@adhocteam.us
+   

@@ -13,24 +13,41 @@ Last updated: Feb 6, 2023 | [Change Log](#change-log)
 
 ## Description of domain
 
-This is called VA Notes today on MHV Blue Button and VA Health Summary. They include all completed VA progress, telehealth, and consult notes including primary care, specialty care, mental health, social work, nursing notes, and Secure Messaging interactions that have been saved as notes. Physicians, nurses, consultants, therapists and other members of the health care team record their notes in your medical record. 
+### Notes
+Today, a user can review their notes as part of an MHV Blue Button reporting by choosing to include the category called VA Notes.
 
-Members of the health care team may use VA Notes to record your health condition and the care provided to you. The notes may include medical facts, clinical findings, health progress, opinions and treatment plans. It may also track your response to the care that was provided. Most importantly, it serves as a way for members of your health care team to share information about you.
+#### Progress notes
+VA Notes pull in all notes of type Progress Note (PN) dating back to 2013. Progress notes are written by clinical staff and describe a patient's status during a hospitalization, outpatient visit, or other healthcare encounter.
 
-There are also clinican notes, which includes progress note, procedure note, and encounter note. Things like Admission and discharge summary are also notes from doctors. We need to define what should go in to notes and what to label this domain. 
+#### Consult notes
+VA Notes pull in all notes of type Consult Result (CR) dating back to 2013. Consult result notes are assosciated with consult requests. One provider makes a request for another provider to provide a consultation for a patient for a particular issue. Once that consultation has been completed, an associated consult result is written, signed, and placed in the patient's notes.
 
-**What is a clinical or progress notes? [Source](https://www.gfcounty.nd.gov/home/showpublisheddocument/660/637248972518830000#:~:text=What%20is%20VA%20OpenNotes%3F,document%20care%20and%20services%20performed.)**
+More info: https://www.va.gov/vdl/documents/clinical/cprs-consult_request_tracking/consum.pdf
 
-After an appointment or hospital stay, your provider and health care team write a note about that visit in your VA EHR. The note is a summary of important issues about your health. Notes have several parts, and may include: 
-- A list of medical problems or symptoms 
-- What you told your provider, also called the "history"
-- Vital signs and physical observations or measurements, such as blood pressure, weight, or heart and lung exams
-- Test results such as blood or urine tests, or X-ray reports
-- Your provider's views of your health problems, called "Assessment" or "Impression" 
-- The recommended treatment plan, called "Plan"
-- Suggested follow up needed, such as tests or referrals to a specialist
-- Notes about your hospital admission, such as the condition that resulted in an admission, treatment provided.
-- Notes about your hospital discharge, such as instructions related to work, physical activity, and follow-up appointments.
+#### Encounter notes
+Encounter notes are not currently pulled into MHV.
+
+Encounter notes result from a provider entering encounter information about a particular patient visit. This information is used to give workload credit to the provider and is also used for billing purposes. Encounter infromation is also tied to a particular progress note.
+
+More info: https://www.va.gov/vdl/documents/Clinical/Comp_Patient_Recrd_Sys_(CPRS)/cprsguium.pdf
+
+#### Procedure notes
+Procedure notes are not currently pulled into MHV.
+
+
+#### About note titles
+The titles of notes can vary wildly, meaning that a Progress Note could have a title like Procedure Note, or even Consult Note. These note titles can sometimes be quite confusing, although they also have a chance of being quite helpful. **A note's title does not necessarily indicate what type of note (PN or CR) it is under the hood.** 
+
+Any clinical notes in VistA that are not of type PN or CR are not currently pulled into MHV. Therefore, procedure and encounter notes are not, unless they are of type PN and CR, pulled into MHV today.
+
+### Care summaries
+
+#### Discharge summaries
+This is called Admission and Discharge Summaries when selecting categories in MHV Blue Button. Admission and Discharge Summaries pulls in all notes of type Discharge Summary.
+
+#### After-visit summaries
+Today, MHV Blue Button does not directly include after-visit summaries. An AVS is included as part of appointments as a PDF download today. For every AVS generated, an AVS Progress Note is generated and included in VA Notes. AVS Progress Notes more or less say  "the AVS was printed and given to the patient and is linked to the AVS in VistA Imaging."
+
 
 ## Use Cases
 
@@ -68,6 +85,19 @@ Only what is currently accessed via BB and the AVS.
   - VA notes
   - Admission & Discharge summaries 
   - After visit summaries
+
+What should not be included?
+- Secure message threads should not be included as notes. They should be accessed via the SM interface.
+
+What might need to be included?
+- Outpatient encounter notes (VA Health Summary)
+- Consult notes (VA Health Summary)
+- History & physical notes (VA Health Summary)
+- Discharge summary notes (VA Health Summary)
+- Surgical procedure notes (VA Health Summary)
+- Clinical procedure notes (VA Health Summary)
+
+We need to do some discovery on what these notes are, whether they are different from what is included under VA notes, why there is a difference, and whether we can actually access this data.
 
 ### Information architecture
 Home > My Health > Health history > Care summaries and notes
@@ -193,12 +223,25 @@ _Admission summary or Discharge summary:_ Only four participants were probed on 
 - Notes from Jenny: On BB, this is called "VA Notes", which includes all notes (progress notes, visit summary, procedure messages...). In CCDA, encounter notes, consultation notes and procedure notes are all separated.
   - So this means we need to decide if we separate them out or keep them together and linked with the healthcare interaction/ occurrence to which they pertain. E.g., link notes with clinic visit, surgery/ procedure, etc. OR if we do it some other way? Has backend implications - need to liaise w/ both Jenny and Eric to understand better. 
 
+**What is a clinical or progress notes? [Source](https://www.gfcounty.nd.gov/home/showpublisheddocument/660/637248972518830000#:~:text=What%20is%20VA%20OpenNotes%3F,document%20care%20and%20services%20performed.)**
+
+After an appointment or hospital stay, your provider and health care team write a note about that visit in your VA EHR. The note is a summary of important issues about your health. Notes have several parts, and may include: 
+- A list of medical problems or symptoms 
+- What you told your provider, also called the "history"
+- Vital signs and physical observations or measurements, such as blood pressure, weight, or heart and lung exams
+- Test results such as blood or urine tests, or X-ray reports
+- Your provider's views of your health problems, called "Assessment" or "Impression" 
+- The recommended treatment plan, called "Plan"
+- Suggested follow up needed, such as tests or referrals to a specialist
+- Notes about your hospital admission, such as the condition that resulted in an admission, treatment provided.
+- Notes about your hospital discharge, such as instructions related to work, physical activity, and follow-up appointments.
+
 
 ## Change Log
 
 |  Date           | Changed By       | Description of Change                                                                                               |
 | ----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 2/6/23                |     Coulton Bunney             | Combined requirements with domain brief                                                                                                                    |
-|                 |                  |                                                                                                                     |
+| 2/6/23                |     Coulton Bunney             | Combined requirements with domain brief                                                         |
+|2/22/23|         |Coulton Bunney|Added requirements to not show SM message threads as part of notes, and an outstanding question around including VA Health Summary notes
 |                 |                  |                                                                                                                     |
 

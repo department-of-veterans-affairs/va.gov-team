@@ -93,7 +93,7 @@ UPDATE: We are planning to launch in FY 2023, JAN.
 
 #### Team Members
 
-Kimberly Roberts, Michael Chaffee, Abbie Burton, Cam Bui, Fernanda Alcocer, Lex Joseph, Mariah Sager, Oliver Moreno, Rebecca Green, Yoni Doron-Peters 
+Aqsa Merchant, Michael Chaffee, Abbie Burton, Cam Bui, Fernanda Alcocer, Lex Joseph, Mariah Sager, Oliver Moreno, Samreen Zarroug, Yoni Doron-Peters, 
 
 #### Stakeholders
 
