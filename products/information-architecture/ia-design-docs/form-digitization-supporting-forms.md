@@ -45,7 +45,7 @@
   - Page does not need a left nav, visitors can access the specific form they need from the content on the page
   - Page should include a breadcrumb so the visitor can return to this page from a form to review other forms available.  
  
-**2) Each form that lives in this section will be defined independently
+2) Each form that lives in this section will be defined independently
 
 
 ## <a name="nav"></a>Entry points <br>
