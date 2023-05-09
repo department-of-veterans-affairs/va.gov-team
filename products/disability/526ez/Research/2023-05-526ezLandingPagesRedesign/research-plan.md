@@ -149,7 +149,7 @@ At least three (3) 55 or over
 At least three who are filing for / have filed for a presumptive claim
 At least three who are at most one year from discharge 
 
-**Screener for cohort 1 of mobile test** 3 people 
+**Screener for cohort 1 of mobile test** (3 people) 
 
 - Do you primarily use your cellphone to browse the internet? yes but ok if no 
  
@@ -162,7 +162,7 @@ At least three who are at most one year from discharge
 - Have you ever used Zoom on your mobile device? OK if no 
 
 
-**Screener for cohort 2 of mobile test** three people 
+**Screener for cohort 2 of mobile test** (3 people) 
 
 - Do you primarily use your cellphone to browse the internet? yes but ok if no  
  
@@ -176,7 +176,7 @@ At least three who are at most one year from discharge
 
 -------------------------------------------
 
-**Screener for cohort 1 on desktop** three people 
+**Screener for cohort 1 on desktop** (3 people) 
 
 - Do you primarily use your cellphone to browse the internet? yes but ok if no  
  
@@ -188,7 +188,7 @@ At least three who are at most one year from discharge
 
 - Have you ever used Zoom on your mobile device? OK if no 
 
-**Screener for desktop cohort 2** three people 
+**Screener for desktop cohort 2** (3 people) 
 
 - Do you primarily use your cellphone to browse the internet? yes but ok if no 
  
