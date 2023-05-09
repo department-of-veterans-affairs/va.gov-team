@@ -158,3 +158,41 @@ _What offices/departments are critical to make this initiative successful?_
  
 </details>
 
+# Collab Cycle Ticket Questions:
+
+1. Will your work result in visible changes to the user experience? **Yes**
+Examples of visible changes include:
+**A new input page with similar design elements used accross the profile ** 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/3945dc61-faa2-433b-86ae-36a404d6bae9)
+
+
+Examples of no visible changes include:
+Changes to code that the user won’t see
+Changes to accessible labels (aria-label, aria-labelledby, aria-describedby)
+
+2. Are you doing research with VA.gov users? **Yes** Well i think we did research and that's what made us make this change., need to find the link to the research
+We ask this question to determine if a research review is necessary.
+Examples of research with VA.gov users include:
+Usability testing 
+User surveys
+Card sorting
+
+3. Will your work involve changes to: (select all that apply)
+Tools, applications and dynamic pages*
+Static pages**
+Both
+Other
+
+*For tools and applications, take into account if any static page entry points will need updates.
+
+**Please review the Static vs Dynamic guidance.
+
+4. Does your product/feature have Google Analytics tracking and a KPI dashboard in Domo?
+We ask this question to determine if Analytics will need to be involved in your Collaboration Cycle reviews, and if an Analytics Request is necessary.
+
+5. Do you need to capture any additional analytics or metrics?
+We ask this question to determine if Analytics will need to be involved in your Collaboration Cycle reviews, and if an Analytics Request is necessary.
+
+Kickoff artifacts
+It is the Product Manager’s responsibility to ensure the Product Outline is attached to the ticket.
+The VFS team is responsible for providing all relevant and up-to-date links, screenshots, images, and designs of the product's as-is version.
