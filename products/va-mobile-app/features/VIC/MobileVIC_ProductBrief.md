@@ -187,10 +187,10 @@ Authenticated, personalized service
 Increase active user base
 
 ### Goals
-* Easily discoverable after login
-* User sees info on how it might be useful
-* Personalized with user identification info
-* Can add to Apple Wallet/Android equivalent
+	- Easily discoverable after login
+	- User sees info on how it might be useful
+	- Personalized with user identification info
+	- Can add to Apple Wallet/Android equivalent
 
 * As a veteran,
 * With internet connectivity,
