@@ -6,7 +6,7 @@ Date: April 19, 2023
 Liz Lantz, liz.lantz@adhocteam.us
 
 **Jump to:**
-- [Hypotheses and conclusions](#hypotheses-and-conclusions)
+* [Hypotheses and conclusions](#hypotheses-and-conclusions)
 * [Key findings](#key-findings)
 * [Recommendations](#recommendations)
 * [Research process insights](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#research-process-insights)
