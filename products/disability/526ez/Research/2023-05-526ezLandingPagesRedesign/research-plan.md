@@ -238,13 +238,13 @@ Please request enough dates and at ***least double the amount of time slots for 
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
+- Moderator: Nyantee Asherman
+- Research guide writing and task development: Nyantee Asherman	
+- Participant recruiting & screening:Perigean
+- Project point of contact: Rakshinda Aslam
+- Participant(s) for pilot test:TBD
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	N/A
+- Note-takers:	TBD
 - Observers:	
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
 
