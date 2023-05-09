@@ -187,33 +187,33 @@ Authenticated, personalized service
 Increase active user base
 
 ### Goals
-	• Easily discoverable after login
-	• User sees info on how it might be useful
-	• Personalized with user identification info
-	• Can add to Apple Wallet/Android equivalent
+* Easily discoverable after login
+* User sees info on how it might be useful
+* Personalized with user identification info
+* Can add to Apple Wallet/Android equivalent
 
-As a veteran,
-With internet connectivity,
-As an authenticated user,
-Using the VA Flagship mobile app,
-Can discover and create a VSC
+* As a veteran,
+* With internet connectivity,
+* As an authenticated user,
+* Using the VA Flagship mobile app,
+* Can discover and create a VSC
 
 ### Acceptance criteria
-• Available in English
-• Creates or already has a VA.gov account 
-• Can be verified of Veteran status
-• Knows they can create a Veteran Status Card
-• If a user has an account but cannot be verified as a Veteran, they do not see a button to create a VSC 
-• A VSC will have these pieces of data:
-	- Veteran name
-	- Dates of service (consider simplifying into something like number of years served?)
-	- Branch of military
-	- VA logo
-	- Photo of their choosing—optional 
-• Upon review of their information, can take the appropriate steps to correct it, if needed
-• Can add it to Apple/Google wallet
-• Can print their card
-• Has the ability to add info to this card, in some future date, should a veteran become eligible to access VA health services 
+* Available in English
+* Creates or already has a VA.gov account 
+* Can be verified of Veteran status
+* Knows they can create a Veteran Status Card
+* If a user has an account but cannot be verified as a Veteran, they do not see a button to create a VSC 
+* A VSC will have these pieces of data:
+	* Veteran name
+	* Dates of service (consider simplifying into something like number of years served?)
+	* Branch of military
+	* VA logo
+	* Photo of their choosing—optional 
+* Upon review of their information, can take the appropriate steps to correct it, if needed
+* Can add it to Apple/Google wallet
+* Can print their card
+* Has the ability to add info to this card, in some future date, should a veteran become eligible to access VA health services 
 
 ### Questions:
 1. How would the native mobile app contribute to a veteran’s success?
