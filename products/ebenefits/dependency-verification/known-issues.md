@@ -18,8 +18,8 @@ Roadblocks
 
 Consequences
 - What was supposed to be a global pop up that would come up anywhere on the site was eventually constrained to a single page, the dependency verification landing page.
--- But for any use who ends up on this page, the most likely user journey is they're going there to change their dependency information anyway
--- So the planned "solution" was targetting the users who needed to be reminded the least, they were already thinking about their dependents info if they are navigating to this page.
+  - But for any use who ends up on this page, the most likely user journey is they're going there to change their dependency information anyway
+  - So the planned "solution" was targetting the users who needed to be reminded the least, they were already thinking about their dependents info if they are navigating to this page.
 - Decision was made to abandon that solution approach
 
 Recommended alternatives
