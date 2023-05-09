@@ -17,7 +17,7 @@ We're a grassroots, volunteer-led educational program intent on scaling up VA.go
 **At a high level, accessibility champions:**
 - center disabled Veterans, caregivers, and family members (not products, code, or processes)
 - aren't experts, but know how to ask for more help and collaborate within a community
-- share knowledge with and support their teams as facilitators through relational mentoring
+- share knowledge with and support their teams as facilitators through mentoring
 
 **Depending on their role, they might help their team by:**
 - [conducting foundational accessibility reviews for their team](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-Foundationalaccessibilitytests(required)foundational-testing)
