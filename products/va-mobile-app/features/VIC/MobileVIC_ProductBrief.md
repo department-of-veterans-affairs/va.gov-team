@@ -187,10 +187,10 @@ Authenticated, personalized service
 Increase active user base
 
 ### Goals
-• Easily discoverable after login
-• User sees info on how it might be useful
-• Personalized with user identification info
-• Can add to Apple Wallet/Android equivalent
+	• Easily discoverable after login
+	• User sees info on how it might be useful
+	• Personalized with user identification info
+	• Can add to Apple Wallet/Android equivalent
 
 As a veteran,
 With internet connectivity,
@@ -205,11 +205,11 @@ Can discover and create a VSC
 • Knows they can create a Veteran Status Card
 • If a user has an account but cannot be verified as a Veteran, they do not see a button to create a VSC 
 • A VSC will have these pieces of data:
-- Veteran name
-- Dates of service (consider simplifying into something like number of years served?)
-- Branch of military
-- VA logo
-- Photo of their choosing—optional 
+	- Veteran name
+	- Dates of service (consider simplifying into something like number of years served?)
+	- Branch of military
+	- VA logo
+	- Photo of their choosing—optional 
 • Upon review of their information, can take the appropriate steps to correct it, if needed
 • Can add it to Apple/Google wallet
 • Can print their card
@@ -217,14 +217,14 @@ Can discover and create a VSC
 
 ### Questions:
 1. How would the native mobile app contribute to a veteran’s success?
-- Veterans can create and use their VSC in the app wherever they are
+	- Veterans can create and use their VSC in the app wherever they are
 2. How might native mobile app add challenges to a veteran’s experience?
-- Connectivity issues could impair card creation
-- Displaying incorrect data on the card is problematic
+	- Connectivity issues could impair card creation
+	- Displaying incorrect data on the card is problematic
 3. What are important timelines and milestones that mobile should be aware of?
 4. Who are the stakeholders involved?
-- OCTO
-- ???
+	- OCTO
+	- ???
 5. What kind of API magic can we harness to verify Veteran Status? I’ve heard MPI thrown around.
 6. Are there multiple ways to capture Veteran status (e.g. if a Veteran is enrolled in Health care, can we piggyback on that presumed Veteran status?)
 7. Should we enable card deletion? 
