@@ -65,11 +65,11 @@ Consider bucketing research questions under research goals. For each question, t
 Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
 ### Hypothesis
-We believe the redesigned landing pages will improve veteran's confidence and sense of preparedness when entering the form.
+We expect that the redesigned landing pages will improve veteran's confidence and sense of preparedness when entering the form.
 
 ## Methodology	 
 
-Conducting usability tests on desktop and mobile to evaluate design/content changes made to the form landing pages and discover any other painpoints in that area
+We will be conducting usability tests on desktop and mobile to evaluate design/content changes made to the form landing pages and discover any other painpoints in that area.
 
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
