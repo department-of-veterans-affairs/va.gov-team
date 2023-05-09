@@ -27,9 +27,11 @@ Schedule primary or specialty care appointments.
 ### Appointment List Options
 
 #### Upcoming
-
-(H2) Your appointments
-
+```diff
+- (H2) Your appointments
++ (H2) Appointments
+@@ GH58110 @@
+```
 Links {Pending, Past}
 
 ---
