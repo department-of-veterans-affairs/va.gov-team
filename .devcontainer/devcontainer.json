@@ -1,6 +1,6 @@
 {
   "name": "Codespace devcontainer config for the va.gov-team repository",
-  "image": "ghcr.io/github/codespaces-images/codespaces-full:latest",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
   "hostRequirements": {
    "cpus": 8,
    "memory": "16gb",
