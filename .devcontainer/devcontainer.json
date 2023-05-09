@@ -1,10 +1,9 @@
 {
   "name": "Codespace devcontainer config for the va.gov-team repository",
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "image": "ghcr.io/github/codespaces-images/codespaces-full",
   "hostRequirements": {
    "cpus": 8,
    "memory": "16gb",
    "storage": "32gb"
-  },
-  "postStartCommand": "git lfs install"
+  }
 }
