@@ -49,6 +49,7 @@ Are there moments that matter?
 - Improve form content clarity and comrehension
 - Improve veteran preparedness and confidence before begnning form 
 - Improve veteran trust and confidence in VA institution and online/offline services 
+- Reduce cognitive overload caused by form length and information 
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
@@ -112,32 +113,93 @@ Before writing your recruitment criteria, be sure to review the following resour
 
 ### Recruitment approach
 
-Use Perigea to recruit veterans and active duty service members no more than one year from discharge. 
+As the form entry points are used by veterans and active duty service members at varying stages, we would like to recruit for both. Additionally, the form entrance is applicable to a number of personas including but not limited to those claiming for increased perspective, those filing presumptive claims, those claiming and suffering from PTSD, and those filing before discharge, and those who may not yet be elligible to file yet. Consequently, we plan to recruit for veterans who cover at least two: filing before discharge and filing for presumptive claims as Medallia survey feedback shows that these scenraios represent the motives of many visitors to the 526 form entry pages.
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
 
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+
+We are conudcting two tests of the same experience: one on a mobile prototype and the other on desktop. 
+
+**Desktop** 
+
+|Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
+|:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
+|      6        |                 |   3     |             |          |     3         | 
+
+**Mobile**
+
+|Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
+|:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
+|      6        |                  |   3     |             |          |     3        | 
+
+**Primary criteria (must-haves)**
+What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
 **For desktop prototype (6):**
 At least three use desktop primarily/ proficient with desktop 
 At least three who are age 55 or over 
 At least three who are at most one year from discharge 
-
+At least three who are filing for / have filed for a presumptive claim
 
 **For mobile protoype (6):**
 At least three use mobile primarily/ proficient with mobile 
 At least three (3) 55 or over 
 At least three who are filing for / have filed for a presumptive claim
+At least three who are at most one year from discharge 
+
+**Screener for cohort 1 of mobile test** 3 people 
+
+- Do you primarily use your cellphone to browse the internet? yes but ok if no 
+ 
+- Are you in the age range of 55 or older? yes 
+
+- Have you applied for compensation becasue of toxic exposure or plan to in the future? yes 
+ 
+- Are you able and willing to download new applications onto your phone? yes 
+
+- Have you ever used Zoom on your mobile device? OK if no 
 
 
-**Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+**Screener for cohort 2 of mobile test** three people 
+
+- Do you primarily use your cellphone to browse the internet? yes but ok if no  
+ 
+- Are you in the age range of 55 or older? no 
+
+- Will you be discharged from service in the next year? yes 
+ 
+- Are you able and willing to download new applications onto your phone? yes 
+
+- Have you ever used Zoom on your mobile device? OK if no 
+
+-------------------------------------------
+
+**Screener for cohort 1 on desktop** three people 
+
+- Do you primarily use your cellphone to browse the internet? yes but ok if no  
+ 
+- Are you in the age range of 55 or older? no
+
+- Will you be discharged from service in the next year? yes 
+ 
+- Are you able and willing to download new applications onto your phone? yes 
+
+- Have you ever used Zoom on your mobile device? OK if no 
+
+**Screener for desktop cohort 2** three people 
+
+- Do you primarily use your cellphone to browse the internet? yes but ok if no 
+ 
+- Are you in the age range of 55 or older? yes 
+
+- Have you applied for compensation because of toxic exposure or plan to in the future? yes 
+ 
+- Are you able and willing to download new applications onto your phone? yes 
+
+- Have you ever used Zoom on your mobile device? OK if no 
+
 
 Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
   Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
@@ -146,6 +208,10 @@ Write any recruitment criteria for experience or scenarios as screener questions
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
+
+- diversity in Race/ethnicity - 50% not identifiying as White 
+- diversity gender - 20% not identifying as cis male 
+- diversity in sexuality - 30% not identifying as straight 
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
@@ -158,7 +224,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: 
 
 ### Length of sessions
 * Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
