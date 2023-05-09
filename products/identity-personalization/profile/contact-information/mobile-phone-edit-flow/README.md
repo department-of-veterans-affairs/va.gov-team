@@ -274,6 +274,8 @@ The VFS team is responsible for providing all relevant and up-to-date links, scr
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
+GA of how often someone enters into the new workflow 
+
 ---
 
 ## Discovery
