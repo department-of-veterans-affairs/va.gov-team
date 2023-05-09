@@ -5,5 +5,6 @@
    "cpus": 8,
    "memory": "16gb",
    "storage": "32gb"
-  }
+  },
+  "postStartCommand": "git lfs install"
 }
