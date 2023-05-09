@@ -64,45 +64,45 @@ _Results of audit conducted in Sprint 8 (4/12/23 - 4/25/23)_
 
 ### `personalization/dashboard/constants`
 
-| File | Tests? |
-| -- | -- |
-| [index.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/constants/index.js) | ❌ |
+| File | Tests? | In use on My VA (y/n) as of May 2023| Ticket to Write Missing Test(s) |
+| -- | -- | -- | -- |
+| [index.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/constants/index.js) | ❌ |   |   |
 
 ### `personalization/dashboard/reducers`
 
-| File | Tests? |
-| -- | -- |
-| [claimsV2.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/claimsV2.js) | ❌ |
-| [debts.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/debts.js) | ❌ |
-| [folders.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/folders.js) | ✅ |
-| [index.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/index.js) | ❌ |
-| [notifications.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/notifications.js) | ❌ |
-| [payments.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/payments.js) | ❌ |
-| [prescriptions.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/prescriptions.js) | ✅ |
-| [recipients.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/recipients.js) | ✅ |
-| [unreadCount.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/unreadCount.js) | ❌ |
+| File | Tests? | In use on My VA (y/n) as of May 2023| Ticket to Write Missing Test(s) |
+| -- | -- | -- | -- |
+| [claimsV2.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/claimsV2.js) | ❌ |   |   |
+| [debts.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/debts.js) | ❌ |   |   |
+| [folders.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/folders.js) | ✅ |   |   |
+| [index.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/index.js) | ❌ |   |   |
+| [notifications.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/notifications.js) | ❌ |   |   |
+| [payments.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/payments.js) | ❌ |   |   |
+| [prescriptions.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/prescriptions.js) | ✅ |   |   |
+| [recipients.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/recipients.js) | ✅ |   |   |
+| [unreadCount.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/unreadCount.js) | ❌ |   |   |
 
 ### `personalization/dashboard/utils`
 
-| File | Tests? |
-| -- | -- |
-| [appeals-v2-helpers.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/appeals-v2-helpers.jsx) | ❌ |
-| [appointments.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/appointments.js) | ❌ |
-| [claims-helpers.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/claims-helpers.js) | ❌ |
-| [constants.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/constants.js) | ❌ |
-| [getStatusContents.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/getStatusContents.jsx) | ❌ |
-| [helpers.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/helpers.js) | ❌ |
-| [timezone.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/timezone.js) | ❌ |
-| [timezone.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/timezone.js) | ❌ |
+| File | Tests? | In use on My VA (y/n) as of May 2023| Ticket to Write Missing Test(s) |
+| -- | -- | -- | -- |
+| [appeals-v2-helpers.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/appeals-v2-helpers.jsx) | ❌ |   |   |
+| [appointments.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/appointments.js) | ❌ |   |   |
+| [claims-helpers.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/claims-helpers.js) | ❌ |   |   |
+| [constants.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/constants.js) | ❌ |   |   |
+| [getStatusContents.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/getStatusContents.jsx) | ❌ |   |   |
+| [helpers.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/helpers.js) | ❌ |   |   |
+| [timezone.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/timezone.js) | ❌ |   |   |
+| [timezone.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/timezone.js) | ❌ |   |   |
 
 
 ### `personalization/dashboard`
 
-| File | Tests? |
-| -- | -- |
-| [claims-and-appeals-helpers.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/claims-and-appeals-helpers.js) | ❌ |
-| [covid-19.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/covid-19.jsx) | ✅ |
-| [helpers.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/helpers.jsx) | ✅ |
-| [selectors.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/selectors.js) | ❌ |
-| [useDowntimeApproachingRenderMethod.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/useDowntimeApproachingRenderMethod.jsx) | ❌ |
-| [useLastWord.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/useLastWord.js) | ❌ |
+| File | Tests? | In use on My VA (y/n) as of May 2023| Ticket to Write Missing Test(s) |
+| -- | -- | -- | -- |
+| [claims-and-appeals-helpers.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/claims-and-appeals-helpers.js) | ❌ |   |   |
+| [covid-19.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/covid-19.jsx) | ✅ |   |   |
+| [helpers.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/helpers.jsx) | ✅ |   |   |
+| [selectors.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/selectors.js) | ❌ |   |   |
+| [useDowntimeApproachingRenderMethod.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/useDowntimeApproachingRenderMethod.jsx) | ❌ |   |   |
+| [useLastWord.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/useLastWord.js) | ❌ |   |   |
