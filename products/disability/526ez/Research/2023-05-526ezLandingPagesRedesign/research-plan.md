@@ -209,7 +209,8 @@ Write any recruitment criteria for experience or scenarios as screener questions
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
 
-- diversity in Race/ethnicity - 50% not identifiying as White 
+- diversity in cognitive ability - 40% identifying as having a cognitive disability 
+- diversity in Race/ethnicity - 30% not identifiying as White 
 - diversity gender - 20% not identifying as cis male 
 - diversity in sexuality - 30% not identifying as straight 
 
