@@ -3,32 +3,32 @@ _Results of audit conducted in Sprint 8 (4/12/23 - 4/25/23)_
 
 ### `personalization/dashboard/actions`
 
-| File | Tests? | Ticket to Write Missing Test(s)|
-| -- | -- | --|
-| [claims.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/claims.jsx) | ❌ | [57462](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57462)|
-| [debts.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/debts.js) | ❌ | [57462](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57462)|
-| [messaging.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/messaging.js) | ❌ | [57462](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57462)|
-| [notifications.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/notifications.js) | ❌ | [57462](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57462)|
-| [payments.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/payments.js) | ❌ | [57462](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57462)|
+| File | Tests? | Ticket to Write Missing Test(s)| In use on My VA (y/n) as of May 2023|
+| -- | -- | --| --|
+| [claims.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/claims.jsx) | ❌ | [57462](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57462)| |
+| [debts.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/debts.js) | ❌ | [57462](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57462)| |
+| [messaging.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/messaging.js) | ❌ | [57462](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57462)| |
+| [notifications.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/notifications.js) | ❌ | [57462](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57462)| |
+| [payments.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/payments.js) | ❌ | [57462](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57462)| |
 
 ### `personalization/dashboard/components`
 
-| File | Tests? | Ticket to Write Missing Test(s) |
-| -- | -- | -- |
-| [CTALink.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/CTALink.jsx) | ❌ | [57466](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57466)|
-| [ClaimsListItem.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/ClaimsListItem.jsx) | ❌ | [57468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57468)|
-| [Dashboard.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/Dashboard.jsx) | ❌ | [57470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57470)|
-| [DashboardAlert.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/DashboardAlert.jsx) | ✅ | |
-| [DashboardWidgetWrapper.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/DashboardWidgetWrapper.jsx) | ❌ | [57470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57470) |
-| [IconCTALink.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/IconCTALink.jsx) | ❌ |
-| [RenderWidgetDowntimeNotification.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/RenderWidgetDowntimeNotification.jsx) | ❌ |
-| [cerner-widgets.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/cerner-widgets.js) | ✅ |
-| [apply-for-benefits/ApplicationInProgress.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/apply-for-benefits/ApplicationInProgress.jsx) | ✅ |
-| [apply-for-benefits/ApplicationsInProgress.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/apply-for-benefits/ApplicationsInProgress.jsx) | ❌ | [57474](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57474)|
-| [apply-for-benefits/ApplyForBenefits.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/apply-for-benefits/ApplyForBenefits.jsx) | ✅ |
-| [apply-for-benefits/BenefitOfInterest.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/apply-for-benefits/BenefitOfInterest.jsx) | ❌ | [57474](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57474)|
-| [apply-for-benefits/SavedApplications.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/apply-for-benefits/SavedApplications.jsx) | ❌ | [57474](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57474)|
-| [benefit-payments-and-debts/BenefitPaymentsAndDebt.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/benefit-payments-and-debts/BenefitPaymentsAndDebt.jsx) | ❌ | [57476](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57476)|
+| File | Tests? | Ticket to Write Missing Test(s) | In use on My VA (y/n) as of May 2023|
+| -- | -- | -- | --|
+| [CTALink.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/CTALink.jsx) | ❌ | [57466](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57466)|    |
+| [ClaimsListItem.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/ClaimsListItem.jsx) | ❌ | [57468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57468)|    |
+| [Dashboard.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/Dashboard.jsx) | ❌ | [57470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57470)|    |
+| [DashboardAlert.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/DashboardAlert.jsx) | ✅ |  |    |
+| [DashboardWidgetWrapper.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/DashboardWidgetWrapper.jsx) | ❌ | [57470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57470) |    |
+| [IconCTALink.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/IconCTALink.jsx) | ❌ |    |    |
+| [RenderWidgetDowntimeNotification.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/RenderWidgetDowntimeNotification.jsx) | ❌ |    |
+| [cerner-widgets.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/cerner-widgets.js) | ✅ |    |    |
+| [apply-for-benefits/ApplicationInProgress.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/apply-for-benefits/ApplicationInProgress.jsx) | ✅ |    |    |
+| [apply-for-benefits/ApplicationsInProgress.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/apply-for-benefits/ApplicationsInProgress.jsx) | ❌ | [57474](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57474)|    |
+| [apply-for-benefits/ApplyForBenefits.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/apply-for-benefits/ApplyForBenefits.jsx) | ✅ |    |
+| [apply-for-benefits/BenefitOfInterest.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/apply-for-benefits/BenefitOfInterest.jsx) | ❌ | [57474](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57474)|    |
+| [apply-for-benefits/SavedApplications.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/apply-for-benefits/SavedApplications.jsx) | ❌ | [57474](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57474)|    |
+| [benefit-payments-and-debts/BenefitPaymentsAndDebt.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/benefit-payments-and-debts/BenefitPaymentsAndDebt.jsx) | ❌ | [57476](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57476)|    |
 | [benefit-payments-and-debts/Debts.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/benefit-payments-and-debts/Debts.jsx) | ❌ | [57476](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57476)|
 | [benefit-payments-and-debts/Payments.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/benefit-payments-and-debts/Payments.jsx) | ❌ | [57476](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57476)|
 | [benefit-payments-v2/BenefitPaymentsV2.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/benefit-payments-v2/BenefitPaymentsV2.jsx) | ❌ | [57476](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57476)|
