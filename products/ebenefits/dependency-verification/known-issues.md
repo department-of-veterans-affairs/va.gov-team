@@ -1,5 +1,6 @@
 # Dependency Verification
 Understanding of the problem space
+
 When dependency status of veterans changed, veterans would not update those changes with the VA, so certain payments, which factor number of dependents into the calculated amount, were over paying veterans. This error would be caught at a later date and veterans would be asked to essentially pay back the amount they were overpaid. This is an obvious source of consternation for the veteran and also creates costly administrative back and forth as support staff try to explain and resolve the issues.
 
 Goals
