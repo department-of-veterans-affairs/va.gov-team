@@ -39,22 +39,7 @@ How can we have security confidence that the patient is checking into only their
 
 Where do we update CW? Assume it’s the same as e-check-in
 
-What does CHIP currently do? (our question for us)
-
-
-## Endpoints:
-
-Needed to show button -> 
-
-E-check-in enabled appointments (they could already have this info in their current payload from VAOS)
-
-Check-in window and eligibility data
-
-Patient clicks a button ->
-IntiateMobileCheckIn -> fetch appointment/veteran data from -> return to mobile app (demographics status/info) -> mobile app can ask to update info or not -> call check-in endpoint
-
-CheckInMobile -> Post with patient IEN and Appointment IEN, set eCheckInComplete in vista.
-
+What does CHIP currently do? (question for us)
 
 ## What needs to happen to be able to check-in
 - Appointment needs to be at a clinic with e-check-in enabled
