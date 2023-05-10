@@ -119,7 +119,7 @@ Each VSA product team has the opportunity to share things they’re most excited
 
 ### Sprint Retrospective:
 
-This is a bi-weekly meeting on the 2nd Wednesday of every sprint in which the Team and Scrum Master meet to celebrate Team successes, reflect on what can be improved, and develop a plan to apply lessons learned going forward. It is timeboxed at 1.5 hours. 
+This is a bi-weekly meeting on the 2nd Wednesday of every sprint in which the Team and Scrum Master meet to celebrate Team successes, reflect on what can be improved, and develop a plan to apply lessons learned going forward. It is timeboxed at 1.5 hours. [Retrospective Board](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1677768711421/aad15b9308afe560c52a1beddefe388840ae239d?sender=u258844ddcb06996a24bf4390)
 
 * Retrospective discussion points:
   * What went well?
