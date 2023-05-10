@@ -57,9 +57,9 @@ CheckInMobile -> Post with patient IEN and Appointment IEN, set eCheckInComplete
 
 
 ## What needs to happen to be able to check-in
-Appointment needs to be at a clinic with e-check-in enabled
-Appointment must be within check-in window
-Patient must of current insurance info (our business rule)
-Patient must have confirmed demographics in the past 7 days (our business rule)
-Set eCheckInStarted (happens in initiateCheckIn now), setCheckIn, and eCheckInComplete in vista
-Log success 
+- Appointment needs to be at a clinic with e-check-in enabled
+- Appointment must be within check-in window
+- Patient must of current insurance info (our business rule)
+- Patient must have confirmed demographics in the past 7 days (our business rule)
+- Set eCheckInStarted (happens in initiateCheckIn now), setCheckIn, and eCheckInComplete in vista
+- Log success 
