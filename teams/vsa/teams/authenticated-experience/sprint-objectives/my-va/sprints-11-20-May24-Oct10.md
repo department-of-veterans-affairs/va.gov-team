@@ -26,6 +26,7 @@
 
 ## Sprint 14 (7/5 - 7/18)
 [#51102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51102)
+
 _Samara returns from parental leave!_
 
 ## Sprint 15 (7/19 - 8/1)
