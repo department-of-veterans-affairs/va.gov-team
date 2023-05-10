@@ -23,6 +23,8 @@ Veterans will be directed to the following web page at the end of the check-in u
 
 ## SMS Messages
 
+[Download text messages](https://github.com/department-of-veterans-affairs/va.gov-team/files/11443083/SMS.Messages.for.Travel.Reimbursement.Claims.docx)
+
 - Success response
      - We received your travel pay claim for {{ DATE }}. Your claim number is {{ CLAIM NUMBER }}. Check your claim status at https://va.gov/accessva-travel-claim
 - Claim already exists in BTSSS 
