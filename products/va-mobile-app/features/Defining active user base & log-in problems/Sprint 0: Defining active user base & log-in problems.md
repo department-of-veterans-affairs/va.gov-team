@@ -29,23 +29,23 @@ This all affects our ability to accurate count users who are actually encounteri
 ## Risks
 
 * Improved log-in fails might not uncover Mobile App team actionalbe problems.
-** but we can still relay any issues with underlying dependancies to the respective teams.
+  * but we can still relay any issues with underlying dependancies to the respective teams.
 
 
 ## Business Goals
 * How would this benefit VA?
-** More meaningful measurement across the board when we say X% of users leveraged ___ feature.
-** Better user experience if we can resolve underlying log-in problems would lead to more users getting more done through the app.
+  * More meaningful measurement across the board when we say X% of users leveraged ___ feature.
+  * Better user experience if we can resolve underlying log-in problems would lead to more users getting more done through the app.
 
 * Which OCTO and Program goals does this tie to?
-** Objective 1 Veterans will use authenticated services that are highly personalized and valuable. 
-*** Login is essential to this and measuring utilization of authenticated services relies upon solidd defintion of the active user base.
-** Objective 2 100% of eligible Veterans can use health apartment “rooms” most applicable on mobile. 
-*** Login is essential to accessing these features.
-** Objective 3 Increase active user base. 
-*** Login fails may deter users.
-** Objective 4 Inform and guide other VA teams. 
-*** May allow us to identify dependancy issues that other teams could addrss further improving the OCTO ecosystem.
+  * Objective 1 Veterans will use authenticated services that are highly personalized and valuable. 
+    * Login is essential to this and measuring utilization of authenticated services relies upon solidd defintion of the active user base.
+  * Objective 2 100% of eligible Veterans can use health apartment “rooms” most applicable on mobile. 
+    * Login is essential to accessing these features.
+  * Objective 3 Increase active user base. 
+    * Login fails may deter users.
+  * Objective 4 Inform and guide other VA teams. 
+    * May allow us to identify dependancy issues that other teams could addrss further improving the OCTO ecosystem.
 
 ## Roadmap
 
@@ -64,7 +64,7 @@ This all affects our ability to accurate count users who are actually encounteri
 
 * Collaboratively create a Mural dashboard where we create a centralized data, BE + FE engineering, and design documentation of the possible flows through log-in/authentication.
 * Identify any gaps in those flows where additional event tracking needs to be added.
-** Engineering implementation on this should be very low lift additon of tracking events.
+  ** Engineering implementation on this should be very low lift additon of tracking events.
 * Documenting the user definition and current state in all dashboards and implementing it in all dashboard calcuations.
 
 ## Measuring success 
