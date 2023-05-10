@@ -58,7 +58,7 @@ body:
 - type: checkboxes
   id: research-details
   attributes:
-    label: Research details
+    label: Calendar checking
     description: Before moving forwards, please [review our capacity calendar for CAIA availability](https://calendar.google.com/calendar/u/0/embed?src=c_f982350fc73a8162a1088ab14d00dd37335b2b559a60d6b67eb8021416f81c2a@group.calendar.google.com&ctz=America/Chicago)
     options:
       - label: Based on this calendar, confirm we have specialists who can support your study in your desired timeframe
