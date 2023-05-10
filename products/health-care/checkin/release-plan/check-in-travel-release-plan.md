@@ -9,7 +9,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| check_in_experience_travel_reimbursement | Allows the workflow to indicate if the Veteran wants to and qualifies for submitting a travel reimbursement claim  when they complete the check-in process |
+| check_in_experience_travel_reimbursement | Toggle can be set to a percentage of all users or percentage of users as a specific facility  |
 
 ## Step 2: Validation
 
@@ -32,15 +32,15 @@ List the features toggles here.
 
 #### Planning
 
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
+- Desired date range or test duration: May
+- Desired number of users: 1
+- How you'll recruit the right production test users: Use Robert Tow's account
+- How you'll conduct the testing: Zoom call with Robert Tow
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: turn on feature flag for Robert Tow only
 
 #### Results
 
-- Number of users: [FILL_IN]
+- Number of users: 1
 - Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
   - [FILL_IN] : list
   - [FILL_IN] : of
@@ -56,14 +56,12 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: TBD
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
+- Desired date range: June-July 2023
+- How will you make the product available in production while limiting the number of users who can find/access it: feature flag will be enabled for a certain percentage of users.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN] : KPIs
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: [FILL_IN]
+  - Number of travel reimbursement claims submitted per check-ins via eCheck-in  
+- Links to the dashboard(s) showing "success criteria" metrics: [eCheck-in Dashboard](https://analytics.google.com/analytics/web/#/dashboard/1iHzB1FJTq6wHfngzN0LQg/a50123418w177519031p176188361/_u.dateOption=last7days&_u.hasComparison=true/)
+- Who is monitoring the dashboard(s)?: Ben Brasso
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
@@ -73,8 +71,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: select a percentage that targets ~500 users, or at most 10%*)
+- Length of time: 2 weeks 
+- Percentage of Users (and roughly how many users do you expect this to be): 100% at Wilkes-Barre facilities only
 
 #### Results
 
@@ -90,8 +88,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 25%
+- Length of time: 2 days
+- Percentage of Users (and roughly how many users do you expect this to be): 25% of all users
 
 #### Results
 
@@ -107,8 +105,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 50%
+- Length of time: 2 days
+- Percentage of Users (and roughly how many users do you expect this to be): 50% of all users
 
 #### Results
 
@@ -124,8 +122,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 75%
+- Length of time: 2 days
+- Percentage of Users (and roughly how many users do you expect this to be): 75% of all users
 
 #### Results
 
@@ -139,8 +137,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 100%
+- Length of time: 2 days
+- Percentage of Users (and roughly how many users do you expect this to be): 100% of all users
 
 #### Results
 
