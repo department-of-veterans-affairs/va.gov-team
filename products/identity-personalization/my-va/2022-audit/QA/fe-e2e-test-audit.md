@@ -3,6 +3,25 @@ _Results of audit conducted in Sprint 9 (4/26/23 - 5/10/23)_
 
 Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
+---
+
+## Table of contents
+
+<!-- TOC -->
+  - [LOA1 user dashboard](#loa1-user-dashboard)
+  - [LOA3 user dashboard](#loa3-user-dashboard)
+  - [Nametag](#nametag)
+  - [Onsite notifications](#onsite-notifications)
+  - [🚧 Claims and appeals](#-claims-and-appeals)
+  - [🚧 Health care](#-health-care)
+  - [Outstanding debts](#outstanding-debts)
+  - [Benefit payments](#benefit-payments)
+  - [🚧 Education and training](#-education-and-training)
+  - [🚧 Benefit application drafts](#-benefit-application-drafts)
+  - [My VA redirect from homepage only](#my-va-redirect-from-homepage-only)
+<!-- /TOC -->
+
+---
 
 ### LOA1 user dashboard
 - [FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/loa1_design.md)
@@ -12,6 +31,14 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
 | User signs in and is only LOA1 | Show prompt (warning alert) with headline "Verify your identity...", body copy "We need to make sure you're you...", CTA button [Verify your identity](), and "Apply for VA benefits" section below. Do not show Outstanding debts and Benefit payments sections. |  | 1111 |
+
+---
+
+### LOA3 user dashboard
+
+| Test case | User flow | Test? | Ticket |
+| -- | -- | -- | -- |
+| User signs in and is LOA3 | Show all sections whether they are empty or not: Claims and appeals, Health care, Outstanding debts, Benefit payments, Education and training, Benefit application drafts |  | 1111 |
 
 ---
 
@@ -50,13 +77,18 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 ### 🚧 Claims and appeals 
 
-[FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/claims-and-appeals-FE-documentation.md)
+- [FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/claims-and-appeals-FE-documentation.md)
 - [Audit 2022 test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#claims-and-appeals-section) (va.gov-team-sensitive)
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| User has |  |  | 1111 |
-
+| User has an open claim (or claims) | Show claims card and **right-aligned** secondary link [Manage all claims and appeals](https://www.va.gov/claim-or-appeal-status/) |  | 1111 |
+| User has a claim or appeal that closed in the last 60 days | 👆 same as above |  | 1111 |
+| User has an open appeal (or appeals) | ? |  | 1111 |
+| User has multiple claims or appeals that are open, or have been closed in last 60 days | Show only most recent claim or appeal card |  | 1111 |
+| User has no open claim and no open appeal (closed more than 60 days ago) | Show Claims and appeals heading, text "You have no claims or appeals to show.", and two **left-aligned** secondary links: [Learn how to file a claim](https://www.va.gov/disability/how-to-file-claim/) and [Manage all claims and appeals](https://www.va.gov/claim-or-appeal-status/) |  | 1111 |
+| ⚠️ User gets claims API error | Show error alert with heading "We can't access your claims or appeals information", body "... If you have any claims and appeals, you won't be able to access your claims and appeals information right now...", and no secondary links |  | 1111 |
+| ⚠️ User gets appeals API error | 👆 same as above |  | 1111 |
 
 ---
 
