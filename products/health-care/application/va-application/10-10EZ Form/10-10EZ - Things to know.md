@@ -20,6 +20,8 @@ This document contains tidbits, odds & ends, and information about the 10-10EZ f
 - 8/5/22 When testing end2end in **Preprod** environment, the testing team uses Boston for the Facility locator, which is one of 4 acceptable locations for ES
 - 8/5/22 When testing end2end in **SQA** environment, the testing team uses Spokane for the Facility locator
 - 8/5/22 our Staging environment points to the Enrollment System SQA environment (not pre-prod)
+- 5/10/23 User 11 will prefill military data, but will not prefill Discharge Character due to receiving an "Other" response.  This response is due to either an "Other than Honorable" character or the data showing "NIL".  See ticket #57992 for details and solution.
+- 5/10/23 User 150 has an "Honorable" discharge character that will prefill (used in testing the Discharge Character bug #57992
 
 
 ### Miscellaneous
