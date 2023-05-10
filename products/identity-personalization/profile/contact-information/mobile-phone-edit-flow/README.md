@@ -1,20 +1,22 @@
 # Project Outline: Mobile Phone Edit Flow
 
-
-
 # Collab Cycle Ticket Questions:
 
 1. Will your work result in visible changes to the user experience? **Yes**
 Examples of visible changes include:
+new URL
 **A new input page with similar design elements used accross the profile ** 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/3945dc61-faa2-433b-86ae-36a404d6bae9)
 
-new URL
 
 Examples of no visible changes include:
-Changes to code that the user won’t see 
-Changes to accessible labels (aria-label, aria-labelledby, aria-describedby) 
-_**< need to know if we're adding new GA tags **_
+Changes to code that the user won’t see **YES**
+
+List of what's changing:
+behavior of the two types of update buttons (if you have, or don't have info) will navigate to a new URL  
+GA events for API calls will have additional data to represent if the API call came from the new editing page or not. 
+No changes to accessibility items as we're recycling code from an already functioning and approved page. 
+
 
 2. Are you doing research with VA.gov users? 
 **Yes** 
@@ -27,20 +29,21 @@ User surveys
 Card sorting
 
 3. Will your work involve changes to: (select all that apply)
-**Tools** < it impacts the profile so this impacts the tool , applications and dynamic pages*
-Static pages**
-Both
-Other
+ **dynamic pages**
+this is a new dynamic page within the Profile
 
-*For tools and applications, take into account if any static page entry points will need updates.
+
 
 **Please review the Static vs Dynamic guidance.
 
 4. Does your product/feature have Google Analytics tracking and a KPI dashboard in Domo?
 We ask this question to determine if Analytics will need to be involved in your Collaboration Cycle reviews, and if an Analytics Request is necessary.
+[GA Dashboard where we expect to see this info](https://analytics.google.com/analytics/web/#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
+
 
 5. Do you need to capture any additional analytics or metrics?
 We ask this question to determine if Analytics will need to be involved in your Collaboration Cycle reviews, and if an Analytics Request is necessary.
+We'll have new submits, we'd like to see how many click events are happening on the new link that takes a user to the new field edit page. 
 
 Kickoff artifacts
 It is the Product Manager’s responsibility to ensure the Product Outline is attached to the ticket.
@@ -117,6 +120,7 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+https://analytics.google.com/analytics/web/#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/
 
 GA of how often someone enters into the new workflow 
 
