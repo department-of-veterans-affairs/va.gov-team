@@ -1,63 +1,3 @@
-# Project Outline: Mobile Phone Edit Flow
-
-# Collab Cycle Ticket Questions:
-
-1. Will your work result in visible changes to the user experience? **Yes**
-Examples of visible changes include:
-new URL
-**A new input page with similar design elements used accross the profile ** 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/3945dc61-faa2-433b-86ae-36a404d6bae9)
-
-
-Examples of no visible changes include:
-Changes to code that the user won’t see **YES**
-
-List of what's changing:
-behavior of the two types of update buttons (if you have, or don't have info) will navigate to a new URL  
-GA events for API calls will have additional data to represent if the API call came from the new editing page or not. 
-No changes to accessibility items as we're recycling code from an already functioning and approved page. 
-
-
-2. Are you doing research with VA.gov users? 
-**Yes** 
-We ask this question to determine if a research review is necessary. 
-Examples of research with VA.gov users include:
-
-Usability testing < was completed, need link might be [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research) <<< go back and find the second link - "related finding is here"
-
-User surveys 
-Card sorting
-
-3. Will your work involve changes to: (select all that apply)
- **dynamic pages**
-this is a new dynamic page within the Profile
-
-
-
-**Please review the Static vs Dynamic guidance.
-
-4. Does your product/feature have Google Analytics tracking and a KPI dashboard in Domo?
-We ask this question to determine if Analytics will need to be involved in your Collaboration Cycle reviews, and if an Analytics Request is necessary.
-[GA Dashboard where we expect to see this info](https://analytics.google.com/analytics/web/#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
-
-
-5. Do you need to capture any additional analytics or metrics?
-We ask this question to determine if Analytics will need to be involved in your Collaboration Cycle reviews, and if an Analytics Request is necessary.
-We'll have new submits, we'd like to see how many click events are happening on the new link that takes a user to the new field edit page. 
-
-Kickoff artifacts
-It is the Product Manager’s responsibility to ensure the Product Outline is attached to the ticket.
-The VFS team is responsible for providing all relevant and up-to-date links, screenshots, images, and designs of the product's as-is version.
-
-
-
-
-<br>
-
----
----
-
-
 # Initiative Brief: Mobile Phone Edit Flow
 #### Overview
 
@@ -177,19 +117,22 @@ GA of how often someone enters into the new workflow
 
 ### Before
 [Use Case](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/user-missing-contact-info.md)
+
 Step1:
 https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/uuid/EFD07E4E-8467-4542-A9C6-0184B4536E4B
+
 Step2: 
 Not shown but the process jumps the user to the contact screen and scrolls them to the mobile phone number and they have to then select edit and input their information
 
 ### After
-https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d we're going to create a user flow for this
-Step1:
-https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/uuid/EFD07E4E-8467-4542-A9C6-0184B4536E4B
-Step 2:
-https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/uuid/4190DD48-3E42-4579-9AB5-16836A8E8762
-Step 3: 
-Users will jump back to the screen in step 1 and now will be able to edit 
+Overall: https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d 
+we're going to create a user flow for this
+
+Step1: https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/uuid/EFD07E4E-8467-4542-A9C6-0184B4536E4B
+
+Step 2: https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/uuid/4190DD48-3E42-4579-9AB5-16836A8E8762
+
+Step 3: Upon submit, users will be taken back to the screen in step 1 and now will be able to edit/access the notification settings 
 
 ---
 #### Team Members
@@ -229,4 +172,51 @@ Users will jump back to the screen in step 1 and now will be able to edit
 ---
 <sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
 <sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
+
+
+<br>
+---
+---
+
+
+# Collab Cycle Ticket Questions:
+## 1. Will your work result in visible changes to the user experience? 
+
+**Yes**
+
+### Examples of visible changes include:
+A new URL
+A new input page with similar design elements used accross the profile 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/3945dc61-faa2-433b-86ae-36a404d6bae9)
+
+### Examples of no visible changes include:
+> Changes to code that the user won’t see
+
+List of what's changing:
+behavior of the two types of update buttons (if you have, or don't have info) will navigate to a new URL  
+GA events for API calls will have additional data to represent if the API call came from the new editing page or not. 
+No changes to accessibility items as we're recycling code from an already functioning and approved page. 
+
+## 2. Are you doing research with VA.gov users? 
+
+**Yes** 
+[Usability testing was completed and our related findin is here:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#7-of-8-participants-easily-navigated-the-path-to-add-their-email-address)
+
+## 3. Will your work involve changes to: (select all that apply)
+ 
+ **dynamic pages**
+this is a new dynamic page within the Profile
+
+## 4. Does your product/feature have Google Analytics tracking and a KPI dashboard in Domo?
+
+[GA Dashboard where we expect to see this info](https://analytics.google.com/analytics/web/#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
+
+## 5. Do you need to capture any additional analytics or metrics?
+
+We'll have new submits, we'd like to see how many click events are happening on the new link that takes a user to the new field edit page. 
+
+## Kickoff artifacts
+It is the Product Manager’s responsibility to ensure the [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/profile/contact-information/mobile-phone-edit-flow/README.md) is attached to the ticket.
+The VFS team is responsible for providing all relevant and up-to-date links, screenshots, images, and designs of the product's as-is version.
+
 
