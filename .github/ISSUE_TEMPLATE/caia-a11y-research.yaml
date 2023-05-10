@@ -106,7 +106,8 @@ body:
       - label: Your team's researchers and observers read through platform guidance on research with assistive technology users
       - label: CAIA Specialists are assigned to your research 
       - label: CAIA Specialists review your conversation guide and research plan
-      - label: Provide specialists your participant details (skill level, operating system, assistive tech used, browser) - label: [Your team] Post support, fill out this optional feedback form to let us know how we can support y'all better into the future.
+      - label: Provide specialists your participant details like skill level, operating system, assistive tech used, browser
+      - label: CAIA specialists will provide you an optional feedback form to let us know how we can support y'all better into the future.
       - label: CAIA Specialists create a research notes template
       - label: CAIA Post research, specialists will add accessibility findings to your research folder
      
