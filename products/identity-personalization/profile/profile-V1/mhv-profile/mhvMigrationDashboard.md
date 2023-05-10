@@ -13,6 +13,10 @@ We need system designs/maps, not just UX/UI but the map of the system, what is c
 [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research/recommendations.md#we-should-collaborate-with-the-health-apartment-team-to-determine-where-it-makes-the-most-sense-to-put-health-related-profile-items)
 [Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research)
 
+## Outstanding questions
+- Is the MHV Rx shipping and tracking email notification the same as the text notification, with regard to it applying only to certain facilities? If so, are they the same facilities?
+- Is the VA Profile API flexible enough that we can have a unique channel name/label for a notification item? The MHV Newsletter isn't a notification as much as it is a subscription, and people were confused by the label "notify me by email" for this notification in user research.
+
 ## Call/Meeting Log
 ### Email from first call 5/8/2023
 ![image](https://user-images.githubusercontent.com/129431463/236938796-4c5cb8be-3621-43d5-a00f-98c84763c7fb.png)
