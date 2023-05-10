@@ -64,6 +64,8 @@ The Sprint 0 meeting is a time to do the following:
 
 * [Sprint 0: Defining active user base and log-in problems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Defining%20active%20user%20base%20&%20log-in%20problems/Sprint%200:%20Defining%20active%20user%20base%20&%20log-in%20problems.md) (Greta)
 * Omni-channel Hand-off (Rachel)
+  * 5/24 we want to meet with Andrea Schnieder and her team to talk about technical discovery (potentially 2-4pm ET, hopefully changing to less)
+  * Rachel to find out if we will use this meeting or Andrea will schedule something else
 
 ## 4/26/23
 
