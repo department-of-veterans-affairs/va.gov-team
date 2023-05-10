@@ -4,16 +4,11 @@
 **Team:** Appointments
 
 **On this page:**
-- [User/page flows](#flows)
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
 - [Redirects](#redirects)
 - [Meeting notes](#notes)
-
-
-## <a name="flows"></a>User/page flows <br>
-![Appointments user flow and page access](https://user-images.githubusercontent.com/122126772/235779810-7314b929-4357-4d41-b349-432672aa8b97.png)
 
 
 ## <a name="map"></a>Page structure<br>
