@@ -14,7 +14,8 @@
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 
-![IA Changes to Appointments](https://user-images.githubusercontent.com/122126772/236029509-3cfd9713-4d10-4ee6-ac66-ef51b0dce157.png)
+![IA of appointments](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/4bc9b61e-3e9f-45e8-bce6-a2274751118b)
+
 
 
 ## <a name="main urls"></a>URLs and breadcrumbs - Main Pages
