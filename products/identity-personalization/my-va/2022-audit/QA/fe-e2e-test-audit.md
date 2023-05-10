@@ -42,7 +42,7 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| User signs in and is only LOA1 | Show prompt (warning alert) with headline "Verify your identity...", body copy "We need to make sure you're you...", CTA button [Verify your identity](), and "Apply for VA benefits" section below. Do not show Outstanding debts and Benefit payments sections. |  | 1111 |
+| User signs in and is only LOA1 | Show prompt (warning alert) with headline "Verify your identity...", body copy "We need to make sure you're you...", CTA button [Verify your identity](), and "Apply for VA benefits" section below. Do not show Outstanding debts and Benefit payments sections. | yes, but needs update for outdated `viewport` method. |  |
 
 ---
 
@@ -50,7 +50,7 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| User signs in and is LOA3 | Show all sections whether they are empty or not: Claims and appeals, Health care, Outstanding debts, Benefit payments, Education and training, Benefit application drafts |  | 1111 |
+| User signs in and is LOA3 | Show all sections whether they are empty or not: Claims and appeals, Health care, Outstanding debts, Benefit payments, Education and training, Benefit application drafts | yes, but needs to include more axeCheck calls and update for outdated `viewport` method. I think we can also remove any Nametag tests into its own file. | 1111 |
 
 ---
 
@@ -62,9 +62,9 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| User is LOA1 | Do not show Nametag |  | 1111 |
-| User is LOA3 | Show Nametag |  | 1111 |
-| User has disability rating and branch of service | Show Nametag with name, branch of service, and "[Your disability rating: x% service connected](https://www.va.gov/disability/view-disability-rating/rating)" |  | 1111 |
+| User is LOA1 | Do not show Nametag | yes | |
+| User is LOA3 | Show Nametag | yes | |
+| User has disability rating and branch of service | Show Nametag with name, branch of service, and "[Your disability rating: x% service connected](https://www.va.gov/disability/view-disability-rating/rating)" | yes, but we can remove some unused code | 1111 |
 | User has no disability rating but has branch of service | Show Nametag with name and branch of service |  | 1111 |
 | User has no disability rating | Show Nametag with name and branch of service |  | 1111 |
 | User has no branch of service | Show Nametag with name only (no disability rating)|  | 1111 |
