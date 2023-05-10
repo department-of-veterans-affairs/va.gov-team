@@ -1,4 +1,4 @@
-# MHV Appointments UX Team
+# Appointments UX Team
 
 ## Team members
 
@@ -14,43 +14,27 @@ ciera.maddox@adhocteam.us<br>
 melissa.lefevre@adhocteam.us<br>
 [@Melissa Lefevre](https://dsva.slack.com/team/U01Q4GJNHHT)
 
+## Appointments user flows
 
-
-- [Figma projects](https://www.figma.com/file/SreCOa4xyyBP0YxUug3QfA/Setting-our-stuff-up?node-id=0%3A1)
+[Screen-by-screen user flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=267%3A19369) (Figma)
 
 ## Research
 
-- [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research#readme)
-- [Copy docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/content/copy-docs)
- 
-## Scheduling touchpoints
+We follow the (VA Platform's guidance on research)[https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va].
 
-VAOS is [one of many touchpoints](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/design/scheduling-channels-touchpoints.md) Veterans can use to schedule and manage health care appointments.
+- [Research by the Appointments-FE Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research#readme)
 
-## Scheduling research
 
-[Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research#readme)
+## UI and Content 
 
-## VAOS user flows
+Appointments is built on the [VA.gov design system](https://design.va.gov/).
 
-[VAOS screen-by-screen user flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=267%3A19369) (Figma)
+[Appointments in the VA design system](https://www.figma.com/file/sWiXcrB6sgw1z4F8AtOqfK/?node-id=1203%3A89).
 
-## Libraries
-
-Appointments list [overview](https://www.figma.com/file/5UPYWKTuy7FgSSTxsejtGI/?node-id=2%3A25). 
-
-## VAOS UI documentation
-
-VA Online scheduling is built on the [VA.gov design system](https://design.va.gov/).
-
-[VAOS in the VA design system](https://www.figma.com/file/sWiXcrB6sgw1z4F8AtOqfK/?node-id=1203%3A89).
-
-Page templates:
+Feature documentation:
 - [Appointments list](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/?node-id=0%3A50) 
 - [Details pages](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/?node-id=54%3A11449)
 - [Scheduling flows](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/?node-id=0%3A1911)
 
-## VAOS content
-
-[Content overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/content)
-
+Content:
+- [Copy docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/content/copy-docs)
