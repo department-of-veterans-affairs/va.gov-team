@@ -657,3 +657,67 @@ If you requested an appeal and haven't heard back from us yet, please don't requ
 Button: **Check the status of your appeal**
 
 **Note:** Please allow some time for your appeal to process through our system. It could take 7 to 10 days for it to show up in our claim status tool.
+
+---
+## Errors
+
+### Contact info
+
+  `Please add an email address to your profile`
+  
+  `Please add a phone number to your profile`
+  
+  `Please add an address to your profile`
+
+####  alerts about missing info:
+    success:
+      `The missing information has been added to your application. You may continue.`
+    error (list inside curly brackets will vary):
+      `We still don't have your {email, phone, and address}. Please edit and update the field.`
+    warning (shown along with error):
+      `Your {email, phone, and address} {are|is} missing. Please edit and update the {fields|field}.`
+
+### Issue error messages:
+
+  `Please add the name of an issue`
+  
+  `Please enter a unique condition name`
+  
+  `Please enter less than 180 characters for this issue name`
+
+  `Please provide a valid date`
+  
+  `Please enter a decision date`
+  
+  `Please enter a year between {min} and {max}`
+  
+  `Please add a past decision date`
+  
+  `Please add an issue with a decision date less than a year old`
+
+  Alert if no issues are selected:
+  `Please select at least one issue`
+
+  At least one issues is on the page, title:
+    `Please select at least one issue, so we can process your request`
+
+  No issues on the page, title:
+    `Please add, and select, at least one issue, so we can process your request`
+
+
+###  Modal after adding 101 issues:
+    title: You've reached the maximum number of allowed selected issues
+    
+    content: You are limited to 100 selected issues for each Notice of Disagreement request. If you would like to select more than 100, please submit this request and create a new request for the remaining issues.
+
+### Area of disagreement
+
+  `Please choose or enter a reason for disagreement`
+
+### Board type
+
+  `Please choose a Board review option to proceed`
+
+### Conference type
+
+  `Please choose a conference type`
