@@ -5,20 +5,25 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 ---
 
-## Table of contents
+Table of contents
 
 <!-- TOC -->
   - [LOA1 user dashboard](#loa1-user-dashboard)
   - [LOA3 user dashboard](#loa3-user-dashboard)
   - [Nametag](#nametag)
   - [Onsite notifications](#onsite-notifications)
-  - [🚧 Claims and appeals](#-claims-and-appeals)
-  - [🚧 Health care](#-health-care)
+  - [Claims and appeals](#claims-and-appeals)
+  - [Health care](#health-care)
+    - [Appointments](#appointments)
+    - [Messaging](#messaging)
+    - [Combinations](#combinations)
+    - [⚠️ Errors](#️-errors)
   - [Outstanding debts](#outstanding-debts)
   - [Benefit payments](#benefit-payments)
   - [🚧 Education and training](#-education-and-training)
   - [🚧 Benefit application drafts](#-benefit-application-drafts)
   - [My VA redirect from homepage only](#my-va-redirect-from-homepage-only)
+
 <!-- /TOC -->
 
 ---
@@ -75,7 +80,7 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 ---
 
-### 🚧 Claims and appeals 
+### Claims and appeals 
 
 - [FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/claims-and-appeals-FE-documentation.md)
 - [Audit 2022 test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#claims-and-appeals-section) (va.gov-team-sensitive)
@@ -84,7 +89,7 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 | -- | -- | -- | -- |
 | User has an open claim (or claims) | Show claims card and **right-aligned** secondary link [Manage all claims and appeals](https://www.va.gov/claim-or-appeal-status/) |  | 1111 |
 | User has a claim or appeal that closed in the last 60 days | 👆 same as above |  | 1111 |
-| User has an open appeal (or appeals) | ? |  | 1111 |
+| User has an open appeal (or appeals) | 🚧? |  | 1111 |
 | User has multiple claims or appeals that are open, or have been closed in last 60 days | Show only most recent claim or appeal card |  | 1111 |
 | User has no open claim and no open appeal (closed more than 60 days ago) | Show Claims and appeals heading, text "You have no claims or appeals to show.", and two **left-aligned** secondary links: [Learn how to file a claim](https://www.va.gov/disability/how-to-file-claim/) and [Manage all claims and appeals](https://www.va.gov/claim-or-appeal-status/) |  | 1111 |
 | ⚠️ User gets claims API error | Show error alert with heading "We can't access your claims or appeals information", body "... If you have any claims and appeals, you won't be able to access your claims and appeals information right now...", and no secondary links |  | 1111 |
@@ -92,15 +97,43 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 ---
 
-### 🚧 Health care 
+### Health care 
 
 - [FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md)
 - [Audit 2022 test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#health-care-section) (va.gov-team-sensitive)
 
+#### Appointments
+
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| User has |  |  | 1111 |
+| User does not have VA health care | Show copy "You have no health care information to show." under header, and left-aligned secondary link [Apply for VA health care](https://www.va.gov/health-care/apply/application/introduction) |  | 1111 |
+| User has VA health care and has an upcoming appointment (not matter how far into future) | Show Next appointment card (date, time, location, active link [Schedule and manage your appointments](https://va.gov/health-care/schedule-view-va-appointments/appointments)), and right-aligned secondary links:  |  | 1111 |
+| User has multiple upcoming appointments | Show only one Next appointment card – for closest appointment to today's date |  | 1111 |
+| User has VA health at a Cerner facility | Show warning alert with headline "Choose your health management portal" and copy "Your care team may now use our new My VA Health portal... For {{health care facility name}}: [Use My VA Health (opens in new tab)](https://patientportal.myhealth.va.gov/clear-session?to=https%3A%2F%2Fstaging-patientportal.myhealth.va.gov%3Fauthenticated%3Dtrue) For any other VA health facility: [Use My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)" |  | 1111 |
 
+#### Messaging
+
+| Test case | User flow | Test? | Ticket |
+| -- | -- | -- | -- |
+| User has one unread message from health care provider(s) | Show warning alert with copy "You have 1 unread message." and active link [Review your messages](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging), with secondary links [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions), [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/), and [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data). **Do not show** Send secure message link. |  | 1111 |
+| User has multiple unread messages | 👆 same as above, but with plural "**messages**" |  | 1111 |
+
+#### Combinations
+
+| Test case | User flow | Test? | Ticket |
+| -- | -- | -- | -- |
+| User has **no** unread messages and **no** upcoming appointments | Show "You have no upcoming appointments to show", and **left-aligned** secondary links [Send a secure message to your health care team](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging), [Schedule and manage your appointments](https://va.gov/health-care/schedule-view-va-appointments/appointments), [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions), [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/), and [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data)| | 1111 |
+| User has unread message(s) and **no** upcoming appointments | 👆 same as above, but secondary links should be **right-aligned** secondary |  | 1111 |
+| User has unread message(s) and has upcoming appointment(s) | Show warning alert above Next appointment card, and **right-aligned** secondary links 👆 same as above |  | 1111 |
+
+#### ⚠️ Errors
+
+| Test case | User flow | Test? | Ticket |
+| -- | -- | -- | -- |
+| User encounters /user/ API call error | Show error alert with headline "We can't access any health care inforamtion right now." and copy "We're sorry. Something went wrong on our end. If you get health care through VA, you can go to My HealtheVet to access your health care information. [Visit My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)" |  | 1111 |
+| User gets health care API error and has unread messages | Show unread messages notification, error alert, and right-aligned secondary links: [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions), [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/), and [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data) |  | 1111 |
+| User gets health care API error and has **no** unread messages | Show error alert and left-aligned secondary links: [Send a secure message to your health care team](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging), [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions), [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/), and [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data) |  | 1111 |
+| User gets messaging API error, regardless of having upcoming appointments or not | Do not show error alert, but include secondary link [Send a secure message to your health care team](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging) in list of links |  | 1111 |
 
 ---
 
@@ -123,7 +156,7 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 | ⚠️ User gets a **copay** API error AND has a **debt** card to show | Show error alert and show the debt card. **Don't show** link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)". |  | 1111 |
 | ⚠️ User gets both **copay** API error AND **debt** API error | Show one error alert. Secondary link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)" should be left-aligned |  | 1111 |
 
-
+---
 
 ### Benefit payments
 
@@ -132,7 +165,7 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| Benefit payments section should show for all LOA3 users | Show Benefit paymenets header and secondary link "[Manage your direct deposit information](https://www.va.gov/profile/direct-deposit)". |  | 1111 |
+| Benefit payments section should show for all LOA3 users | Show Benefit payments header and secondary link "[Manage your direct deposit information](https://www.va.gov/profile/direct-deposit)". |  | 1111 |
 | User has no payment cards to show | Show copy "", and secondary link "[Manage your direct deposit information](https://www.va.gov/profile/direct-deposit)", should be left-aligned. |  | 1111 |
 | User has no payment cards to show, but has received payments in the past (more than 60 days ago) | 👆 same as above, with secondary link "[Review your payment history](https://www.va.gov/va-payment-history/payments)", below "Manage your direct deposit info" |  | 1111 |
 | User has never received a payment | 👆 same as above, (with Manage your direct deposit information link) but **do not show** secondary link "[Review your payment history](https://www.va.gov/va-payment-history/payments)" |  | 1111 |
