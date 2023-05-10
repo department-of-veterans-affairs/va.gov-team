@@ -9,9 +9,10 @@ Examples of visible changes include:
 **A new input page with similar design elements used accross the profile ** 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/3945dc61-faa2-433b-86ae-36a404d6bae9)
 
+new URL
 
 Examples of no visible changes include:
-Changes to code that the user won’t see
+Changes to code that the user won’t see 
 Changes to accessible labels (aria-label, aria-labelledby, aria-describedby) 
 _**< need to know if we're adding new GA tags **_
 
@@ -20,13 +21,13 @@ _**< need to know if we're adding new GA tags **_
 We ask this question to determine if a research review is necessary. 
 Examples of research with VA.gov users include:
 
-Usability testing < was completed, need link might be [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research) 
+Usability testing < was completed, need link might be [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research) <<< go back and find the second link - "related finding is here"
 
 User surveys 
 Card sorting
 
 3. Will your work involve changes to: (select all that apply)
-Tools, applications and dynamic pages*
+**Tools** < it impacts the profile so this impacts the tool , applications and dynamic pages*
 Static pages**
 Both
 Other
