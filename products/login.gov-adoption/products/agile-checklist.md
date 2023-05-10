@@ -54,7 +54,7 @@ Use this checklist to assist you with your Ceremonies and process.
 
 **Pre-Planning**
 
-1. Setup a new Retrospective Board with columns using techniques such as: The Standard 3 Questions (What went well, what didn’t go well, what can we improve?), The 4 L’s (Liked, Lacked, Learned, Longed For), or the Starfish (More Of, Less Of, Keep Doing, Start Doing, Stop Doing).
+1. Setup a new [Retrospective Board](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1677768711421/aad15b9308afe560c52a1beddefe388840ae239d?sender=u258844ddcb06996a24bf4390) with columns using techniques such as: The Standard 3 Questions (What went well, what didn’t go well, what can we improve?), The 4 L’s (Liked, Lacked, Learned, Longed For), or the Starfish (More Of, Less Of, Keep Doing, Start Doing, Stop Doing).
 
 **Review**
 
