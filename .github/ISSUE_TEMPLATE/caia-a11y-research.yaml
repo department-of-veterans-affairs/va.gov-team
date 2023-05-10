@@ -102,7 +102,7 @@ body:
     label: Next steps
     description: Complete these after submitting this ticket
     options:
-      - label: [Your team]: Post a link to this ticket in the #accessibility-help Slack channel and tag Terry Nichols.
+      - label: [Your team]: Post a link to this ticket in the accessibility-help Slack channel and tag Terry Nichols.
       - label: [Your team]: [Your team's researchers and observers read through platform guidance on research with assistive technology users](https://depo-platform-documentation.scrollhelp.site/research-design/research-assistive-technology-sessions)
       - label: [CAIA]: Specialists are assigned to your research 
       - label: [CAIA]: Specialists review your conversation guide and research plan
