@@ -1,5 +1,11 @@
 # Benefits Disability Experience - Product sync
 
+### Date: May 10 2023
+### Topics covered:
+- Bugs/Defects strategy
+- Bugs - what are we picking next
+
+
 ### Date: May 3 2023
 ### Topics covered:
 - Bugs/Defects priortization
