@@ -16,6 +16,7 @@
 
 ![IA of appointments](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/4bc9b61e-3e9f-45e8-bce6-a2274751118b)
 
+Note: the URL for the after-visit summary is still TBD. It could be just an ID based URL like /123456, or it could have a label on it, like /visit-summary-123456. 
 
 
 ## <a name="main urls"></a>URLs and breadcrumbs - Main Pages
