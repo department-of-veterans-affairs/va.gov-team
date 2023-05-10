@@ -2,6 +2,16 @@
 
 ### Date: May 10 2023
 ### Topics covered:
+- Future DOC Bug - [what we learnt](https://dsva.slack.com/archives/C8R3JS8BU/p1683646680437329?thread_ts=1683565044.419109&cid=C8R3JS8BU)
+   From: Cooper, Barrett E., VBAVACO
+Sent: Wednesday, February 3, 2021 9:16 AM
+Subject: Date of Contention
+Is it possible to make the date of contention for BDD and BDD-Excluded claims submitted on VA.gov as the date of claim which is the day after discharge? The field is reporting VA.gov is entering the date the claim was submitted. We are required to enter the contention with the date of the day after discharge.
+    - So using service exit date as claim open date is by design. Should we consider adding a validation to prevent them from entering contract end date as a solution?
+- VAMC bug 
+   - User is not able to enter VAMC and move forward
+   - We find that it is not necessary input as it gets ignored by VSR/RVSR
+   - Should we consider removing this or making it optional? Do we need to run this by Alejandro/Matt B
 - Bugs/Defects strategy
 - Bugs - what are we picking next
 
