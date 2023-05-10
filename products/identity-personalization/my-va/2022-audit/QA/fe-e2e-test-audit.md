@@ -5,23 +5,30 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 ---
 
-Table of contents
+### Table of contents
 
 <!-- TOC -->
+
   - [LOA1 user dashboard](#loa1-user-dashboard)
   - [LOA3 user dashboard](#loa3-user-dashboard)
   - [Nametag](#nametag)
+    - [⚠️ Error states](#-error-states)
   - [Onsite notifications](#onsite-notifications)
+    - [⚠️ Error states](#-error-states)
   - [Claims and appeals](#claims-and-appeals)
+    - [⚠️ Error states](#-error-states)
   - [Health care](#health-care)
     - [Appointments](#appointments)
     - [Messaging](#messaging)
     - [Combinations](#combinations)
-    - [⚠️ Errors](#️-errors)
+    - [⚠️ Error states](#-error-states)
   - [Outstanding debts](#outstanding-debts)
+    - [⚠️ Error states](#-error-states)
   - [Benefit payments](#benefit-payments)
-  - [🚧 Education and training](#-education-and-training)
-  - [🚧 Benefit application drafts](#-benefit-application-drafts)
+    - [⚠️ Error states](#-error-states)
+  - [Education and training](#education-and-training)
+  - [Benefit application drafts](#benefit-application-drafts)
+    - [⚠️ Error states](#-error-states)
   - [My VA redirect from homepage only](#my-va-redirect-from-homepage-only)
 
 <!-- /TOC -->
@@ -62,6 +69,11 @@ Table of contents
 | User has no disability rating | Show Nametag with name and branch of service |  | 1111 |
 | User has no branch of service | Show Nametag with name only (no disability rating)|  | 1111 |
 | User has no disability rating AND no branch of service | 👆 same as above|  | 1111 |
+
+#### ⚠️ Error states
+
+| Test case | User flow | Test? | Ticket |
+| -- | -- | -- | -- |
 | ⚠️ User gets legal/full name API error | Do not show Nametag |  | 1111 |
 | ⚠️ User gets disability rating API error | Show Nametag with name, branch of service, **no** disability rating, and an active link "View disability rating" (check w Angela) |  | 1111 |
 | ⚠️ User gets military info API error | Show Nametag with name, disability rating (if applicable). Do not show military branch or branch name. |  | 1111 |
@@ -78,6 +90,11 @@ Table of contents
 | User dismisses all notifications | Do not show Notifications section, or any notifications |  | 1111 |
 | User has multiple notifications, and dismisses one | Show Notifications section, and all notifications that user did not dismiss |  | 1111 |
 
+#### ⚠️ Error states
+
+| Test case | User flow | Test? | Ticket |
+| -- | -- | -- | -- |
+
 ---
 
 ### Claims and appeals 
@@ -92,6 +109,11 @@ Table of contents
 | User has an open appeal (or appeals) | 🚧? |  | 1111 |
 | User has multiple claims or appeals that are open, or have been closed in last 60 days | Show only most recent claim or appeal card |  | 1111 |
 | User has no open claim and no open appeal (closed more than 60 days ago) | Show Claims and appeals heading, text "You have no claims or appeals to show.", and two **left-aligned** secondary links: [Learn how to file a claim](https://www.va.gov/disability/how-to-file-claim/) and [Manage all claims and appeals](https://www.va.gov/claim-or-appeal-status/) |  | 1111 |
+
+#### ⚠️ Error states
+
+| Test case | User flow | Test? | Ticket |
+| -- | -- | -- | -- |
 | ⚠️ User gets claims API error | Show error alert with heading "We can't access your claims or appeals information", body "... If you have any claims and appeals, you won't be able to access your claims and appeals information right now...", and no secondary links |  | 1111 |
 | ⚠️ User gets appeals API error | 👆 same as above |  | 1111 |
 
@@ -126,7 +148,7 @@ Table of contents
 | User has unread message(s) and **no** upcoming appointments | 👆 same as above, but secondary links should be **right-aligned** secondary |  | 1111 |
 | User has unread message(s) and has upcoming appointment(s) | Show warning alert above Next appointment card, and **right-aligned** secondary links 👆 same as above |  | 1111 |
 
-#### ⚠️ Errors
+#### ⚠️ Error states
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
@@ -149,6 +171,11 @@ Table of contents
 | User has no overpayment debts AND no copay bills | User is shown the copy "You have no overpayment debts or copays to show." with a secondary link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)", both left-aligned |  | 1111 |
 | User has debts AND no copay | User is shown a debt card and no secondary links |  | 1111 |
 | User has no debts but has copay bills | User is shown a copay card, with a secondary link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)", right-aligned |  | 1111 |
+
+#### ⚠️ Error states
+
+| Test case | User flow | Test? | Ticket |
+| -- | -- | -- | -- |
 | ⚠️ User gets a copay or debt API error (one or both fail) AND has no copay or debt card to show | Show one error message, secondary link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)" should be left-aligned |  | 1111 |
 | ⚠️ User gets a **debt** API error AND has a **copay** card to show | Show error alert and show the copay card.  Secondary link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)" should be right-aligned |  | 1111 |
 | ⚠️ User gets a **debt** API error AND has no copays |  👆 same as above (with right-aligned secondary link) but no copay card  |  | 1111 |
@@ -171,11 +198,16 @@ Table of contents
 | User has never received a payment | 👆 same as above, (with Manage your direct deposit information link) but **do not show** secondary link "[Review your payment history](https://www.va.gov/va-payment-history/payments)" |  | 1111 |
 | User has received a payment in the last 60 days | Show payment card with dollar amount, type of payment, whether it was deposited or mailed, and active link [Review your payment history](https://www.va.gov/va-payment-history/payments). Show secondary link "[Manage your direct deposit information](https://www.va.gov/profile/direct-deposit)", should be right-aligned. |  | 1111 |
 | User has multiple payments in the same day | 👆 same as above, but only one card for the most recent payment.|  | 1111 |
+
+#### ⚠️ Error states
+
+| Test case | User flow | Test? | Ticket |
+| -- | -- | -- | -- |
 | ⚠️ User gets a payment API error AND has a **debt** card to show | Show error alert with headline "**We can't access your payment history**", and body "We're sorry. We can't access your payment history right now. We're working to fix this problem. Please check back later.". Secondary link "[Manage your direct deposit information](https://www.va.gov/profile/direct-deposit)", should still appear and be left-aligned. Show secondary link <a herf="https://www.va.gov/va-payment-history/payments">Review your payment history</a> below, only if user has received payments in the past (more than 60 days ago). |  | 1111 |
 
 ---
 
-### 🚧 Education and training
+### Education and training
 
 - [FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/education-and-training-FE-documentation.md)
 - [Audit 2022 test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#education-and-training-section) (va.gov-team-sensitive)
@@ -183,11 +215,11 @@ Table of contents
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| User has |  |  | 1111 |
+| User is LOA3 | Show left-aligned secondary links under header: [Learn how to apply for VA education benefits](https://va.gov/education/how-to-apply/), [Compare GI Bill benefits by school](https://va.gov/education/gi-bill-comparison-tool), [Check your Post-9/11 GI Bill benefits](https://va.gov/education/gi-bill/post-9-11/ch-33-benefit/status) |  | 1111 |
 
 ---
 
-### 🚧 Benefit application drafts
+### Benefit application drafts
 
 - [FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/applications-FE-documentation.md)
 - [Audit 2022 test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#benefit-applications-section) (va.gov-team-sensitive)
@@ -195,7 +227,17 @@ Table of contents
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| User has |  |  | 1111 |
+| "What benefits does VA offer?" drop-down is shown | Show additional info component directly below the "Benefit application drafts" header. When opened, show the following links: [Health care](https://va.gov/health-care/), [Education and training](https://va.gov/education/), [Disability compensation](https://va.gov/disability/), [Careers and employment](https://va.gov/careers-employment/), [Pension](https://va.gov/pension/), [Housing assistance](https://va.gov/housing-assistance/), [Burials and memorials](https://va.gov/burials-memorials/), [Life insurance](https://va.gov/life-insurance/), [Service member benefits](https://va.gov/service-member-benefits/), [Family member benefits](https://va.gov/family-member-benefits/) |  | 1111 |
+| User has started an application for benefit but hasn't submitted | Show Benefit application draft card - form code, application type, expiration date, last opened date, active link [Continue your application]() |  | 1111 |
+| User has multiple benefit application drafts | Show Benefit application draft cards side by side, max two per row |  | 1111 |
+| User has no benefit application drafts | Show copy "You have no benefit applications to show." |  | 1111 |
+| User has no benefit application drafts | Show copy "You have no benefit applications to show." |  | 1111 |
+
+#### ⚠️ Error states
+
+| Test case | User flow | Test? | Ticket |
+| -- | -- | -- | -- |
+| Main user API call fails | Entire My VA should show an error |  | 1111 |
 
 ---
 
