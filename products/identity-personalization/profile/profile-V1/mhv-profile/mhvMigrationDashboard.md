@@ -29,3 +29,5 @@ Add in a link to the excel file
 - Health preferences - User's desire to see a male or female provider, preferred days/times for appointments
 - On-screen messages (NEW FEATURE) - Messages that are displayed on the screen while using VA.gov, and the events/conditions that trigger them
 
+## Interesting Tidbits
+data in MHV isn't supposed to flow out of MHV without notice being sent to the end user 
