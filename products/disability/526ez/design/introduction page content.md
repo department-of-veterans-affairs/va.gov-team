@@ -37,7 +37,7 @@ In addition to this form, there are other forms you may wish or need to complete
 - Claiming posttraumatic stress disorder (PTSD), including based on a personal assault
 - Authorizing the release of your medical records to VA
 
-You may consider submitting other forms if you wish to claim:
+You may consider seperately submitting other forms if you wish to claim:
 - Specially Adapted Housing or a Special Home Adaptation
 - Auto allowance
 - Auto adaptive-equipment grant
@@ -82,7 +82,7 @@ Each service-connected condition will be assigned a rating from 0% to 100% based
 
 While processing your claim we will review relevant medical records that you identify and authorize us to (you can give us this permission when you file here). These may include records from Federal facilities such as VA medical centers, State or local government facilities, and/or private doctors or hospitals. In some cases if we need additional documentation we may also ask you to have an exam to help us rate your disability.
 
-We strongly encourage you to submit documentation as soon as you can to help us understand how your injury or illness is connected to your service, and how the condition impacts you and your ability to work. If we previously granted you benefits, and your condition has worsened, we need documentation that shows that increase in severity and the effect that worsening has had on you and your ability to work.
+We strongly encourage you to submit documentation with your application to help us understand how your injury or illness is connected to your service, and how the condition impacts you and your ability to work. If we previously granted you benefits, and your condition has worsened, we need documentation that shows that increase in severity and the effect that worsening has had on you and your ability to work.
 
 
 > **Toxic exposure and PACT Act**
@@ -91,7 +91,7 @@ We strongly encourage you to submit documentation as soon as you can to help us 
 >    
 > The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of presumptive conditions. **If this applies to you, we encourage you to file for benefits now.** If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application.
 >   
-> To support a claim for presumptive service connection, you only need to submit documentation showing you served in a location and/or you have a current condition that qualifies you for the presumption. [Learn more about the PACT Act and what is now presumptive](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
+> To support a claim for presumptive service connection, you only need to submit documentation showing you served in a location **and** you have a current condition that qualifies as presumptive. [Learn more about the PACT Act and what is now presumptive](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
    
    
 
