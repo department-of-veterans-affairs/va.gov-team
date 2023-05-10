@@ -12,12 +12,16 @@ Examples of visible changes include:
 
 Examples of no visible changes include:
 Changes to code that the user won’t see
-Changes to accessible labels (aria-label, aria-labelledby, aria-describedby) _**< need to know if we're adding new GA tags **_
+Changes to accessible labels (aria-label, aria-labelledby, aria-describedby) 
+_**< need to know if we're adding new GA tags **_
 
-2. Are you doing research with VA.gov users? **Yes** 
+2. Are you doing research with VA.gov users? 
+**Yes** 
 We ask this question to determine if a research review is necessary. 
 Examples of research with VA.gov users include:
-Usability testing < was completed
+
+Usability testing < was completed, need link might be [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research) 
+
 User surveys 
 Card sorting
 
