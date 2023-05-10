@@ -6,7 +6,7 @@
 
 ### Current Experience ###
 
-* Currently, it we have been using Google Analytics (GA) definition of an active user, which counts any user logging any app event with the app in the foreground of their device. This will include people who experience a log-in failure and get no further. If we rely on this definition, we will be overcounting users.
+* Currently, we have been using Google Analytics (GA) definition of an active user, which counts any user logging any app event with the app in the foreground of their device. This will include people who experience a log-in failure and get no further. If we rely on this definition, we will be overcounting users.
 * It also appears that our event tracking for log-in success is not triggered when a user logs in with biometrics. If investigation shows this to be true, relying on on app events for log-in success will be under counting.
 * Some supporting data may live in our API call logs or those from the SIS team; Greta is currently getting up to speed on Datadog and what's possible there.
 * [VA Mobile Docs Auth Diagrams](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/Architecture/Auth%20Diagrams/) is the best diagram of what we're trying to understand around this problem area and does not include what app events/pages are involved or specific API calls.
