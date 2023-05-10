@@ -14,11 +14,12 @@ The response is delivered through SMS because the response time from the Benefic
 
 ## Design
 
-Veterans will be directed to the following web page at the end of the check-in user flow, which information about receiving a text message. 
+Veterans will be directed to the following web page at the end of the check-in user flow, which includes information about receiving a text message. 
 
 [View up to date Sketch design](https://www.sketch.com/s/c3e590f9-898d-4771-a3d4-9464ece91582/v/Z7xlPa/a/dglkPpm)
 
-![541fd32a-b4c5-4861-9aae-0398107276e6](https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/51a70498-855a-4f20-a639-247af8e3a460)
+<img width="175" alt="O4_8_1 Confirmation" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/4d3ffb8f-544d-4ae9-9bad-9b56440aeac8">
+
 
 ## SMS Messages
 
