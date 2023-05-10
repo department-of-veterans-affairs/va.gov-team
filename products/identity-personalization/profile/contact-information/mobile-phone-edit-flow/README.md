@@ -97,7 +97,7 @@ This new process avoids context switching that exists within the old workflow.
 Additionally, this new workflow could be used for updates to other infomration within the profile. Users could be on different parts of VA.gov and we could enable this sort of flow to update information in the profile without forcing users to navigate to the profile and locate the information.
 
 ## Undesired User Outcomes
-
+A user could forget what task they are working on and navigate away from the platform. 
 
 ## Desired Business Outcomes
 
