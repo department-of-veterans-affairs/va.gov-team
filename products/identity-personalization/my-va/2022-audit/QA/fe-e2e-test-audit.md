@@ -18,15 +18,21 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 ### Nametag
 
 - [Nametag](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/nametag.md)
+- [Sketch file (all scenarios)](https://www.sketch.com/s/bca53b50-8797-44fa-8c37-2b13c24c626c)
 - [Audit 2022 test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#nametag) (va.gov-team-sensitive)
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
 | User is LOA1 | Do not show Nametag |  | 1111 |
 | User is LOA3 | Show Nametag |  | 1111 |
-| User has disability rating | Show Nametag |  | 1111 |
-| ⚠️ User gets legal/full name API error  | Do not show Nametag |  | 1111 |
-
+| User has disability rating and branch of service | Show Nametag with name, branch of service, and "[Your disability rating: x% service connected](https://www.va.gov/disability/view-disability-rating/rating)" |  | 1111 |
+| User has no disability rating but has branch of service | Show Nametag with name and branch of service |  | 1111 |
+| User has no disability rating | Show Nametag with name and branch of service |  | 1111 |
+| User has no branch of service | Show Nametag with name only (no disability rating)|  | 1111 |
+| User has no disability rating AND no branch of service | 👆 same as above|  | 1111 |
+| ⚠️ User gets legal/full name API error | Do not show Nametag |  | 1111 |
+| ⚠️ User gets disability rating API error | Show Nametag with name, branch of service, **no** disability rating, and an active link "View disability rating" (check w Angela) |  | 1111 |
+| ⚠️ User gets military info API error | Show Nametag with name, disability rating (if applicable). Do not show military branch or branch name. |  | 1111 |
 
 ---
 
@@ -42,9 +48,29 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 ---
 
-### Claims and appeals 
+### 🚧 Claims and appeals 
 
-### Health care 
+[FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/claims-and-appeals-FE-documentation.md)
+- [Audit 2022 test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#claims-and-appeals-section) (va.gov-team-sensitive)
+
+| Test case | User flow | Test? | Ticket |
+| -- | -- | -- | -- |
+| User has |  |  | 1111 |
+
+
+---
+
+### 🚧 Health care 
+
+- [FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md)
+- [Audit 2022 test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#health-care-section) (va.gov-team-sensitive)
+
+| Test case | User flow | Test? | Ticket |
+| -- | -- | -- | -- |
+| User has |  |  | 1111 |
+
+
+---
 
 ### Outstanding debts
 
@@ -54,7 +80,7 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
 | Outstanding debts section should show for all LOA3 users | Show Outstanding debts header |  | 1111 |
-| User has overpayment debt(s) AND copay bill(s) | Show both cards and always show the debts card first, then the copays card. On desktop, the cards should be side by side. On mobile they should stack with copays on the bottom. ![https://user-images.githubusercontent.com/97965610/202773989-1aca5ea2-616f-4e05-893a-ecef1c48eb4d.png](https://user-images.githubusercontent.com/97965610/202773989-1aca5ea2-616f-4e05-893a-ecef1c48eb4d.png) Don't show "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)". | yes | 11111 |
+| User has overpayment debt(s) AND copay bill(s) | Show both cards and always show the debts card first, then the copays card. On desktop, the cards should be side by side. On mobile they should stack with copays on the bottom. ![https://user-images.githubusercontent.com/97965610/202773989-1aca5ea2-616f-4e05-893a-ecef1c48eb4d.png](https://user-images.githubusercontent.com/97965610/202773989-1aca5ea2-616f-4e05-893a-ecef1c48eb4d.png) Don't show "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)". |  | 11111 |
 | User has no overpayment debts AND no copay bills | User is shown the copy "You have no overpayment debts or copays to show." with a secondary link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)", both left-aligned |  | 1111 |
 | User has debts AND no copay | User is shown a debt card and no secondary links |  | 1111 |
 | User has no debts but has copay bills | User is shown a copay card, with a secondary link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)", right-aligned |  | 1111 |
@@ -82,12 +108,29 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 | User has multiple payments in the same day | 👆 same as above, but only one card for the most recent payment.|  | 1111 |
 | ⚠️ User gets a payment API error AND has a **debt** card to show | Show error alert with headline "**We can't access your payment history**", and body "We're sorry. We can't access your payment history right now. We're working to fix this problem. Please check back later.". Secondary link "[Manage your direct deposit information](https://www.va.gov/profile/direct-deposit)", should still appear and be left-aligned. Show secondary link <a herf="https://www.va.gov/va-payment-history/payments">Review your payment history</a> below, only if user has received payments in the past (more than 60 days ago). |  | 1111 |
 
+---
+
+### 🚧 Education and training
+
+- [FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/education-and-training-FE-documentation.md)
+- [Audit 2022 test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#education-and-training-section) (va.gov-team-sensitive)
 
 
-### Education and training
+| Test case | User flow | Test? | Ticket |
+| -- | -- | -- | -- |
+| User has |  |  | 1111 |
 
-### Benefit application drafts
+---
 
+### 🚧 Benefit application drafts
+
+- [FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/applications-FE-documentation.md)
+- [Audit 2022 test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#benefit-applications-section) (va.gov-team-sensitive)
+
+
+| Test case | User flow | Test? | Ticket |
+| -- | -- | -- | -- |
+| User has |  |  | 1111 |
 
 ---
 
@@ -95,7 +138,7 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| **Unauthenticated user**: User has not signed in to VA.gov | User is shown My VA in the main navigation below the 'Sign in' button, if clicked on it should prompt the user to sign in. Once logged in it will take them to directly to My VA. | yes | 11111 |
+| **Unauthenticated user**: User has not signed in to VA.gov | User is shown My VA in the main navigation below the 'Sign in' button, if clicked on it should prompt the user to sign in. Once logged in it will take them to directly to My VA. |  | 11111 |
 | Log in with Login.gov | From the VA.gov homepage, user clicks the sign-in button, clicks the Login.gov sign-in option and proceeds through the Login.gov sign-in process. After successful authentication they land on My VA |  | 1111 | 
 | Log in with ID.me | 👆 same as above through the ID.me sign-in process |  | 1111 |
 | Log in with DS Logon | 👆 same as above through the DS Logon sign-in process |  | 1111 | 
