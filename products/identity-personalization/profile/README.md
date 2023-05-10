@@ -31,7 +31,7 @@
 |Travis Cahill |Product Manager|travis.cahill@agile6.com|
 |Berni Xiong| Delivery Manager|berni.xiong@agile6.com|
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
-|Florence McCafferty| Designer |Florence.McCafferty@agile6.com|
+|Pam Drouin| Designer | pamela.drouin@a1msolutions.com |
 |Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
 |Tom Harrison | BE Engineer | tom.harrison@adhocteam.us |
 
