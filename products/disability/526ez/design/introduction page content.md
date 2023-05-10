@@ -51,9 +51,9 @@ You may consider seperately submitting other forms if you wish to claim:
 > 
 > Service members who have an illness or injury that was caused or made worse by their active duty service, can use this form to file for disability benefits 90 to 180 days before they leave the military through the Benefits Delivery at Discharge (BDD) program. 
 > 
-> **Note:** You’ll need to submit service treatment records for the current period of service as well as a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. (We estimate that it will take you at least 30 minutes to complete this form, and we recommend you download and fill out this form on a desktop computer or laptop then return to this form to upload.)
+> **Note:** You’ll need to submit service treatment records for the current period of service as well as a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. (We estimate that it will take you at least 30 minutes to complete this form, and we recommend you download and fill it out on a desktop computer or laptop then return to this form to upload.)
 > 
-> After you file your claim, you’ll need to be available to complete an exam for 45 days after your claim is submitted. [Learn more about Benefits Delivery at Discharge (BDD)](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/).
+> After you file your claim, you’ll need to be available for 45 days after your claim is submitted to complete an exam. [Learn more about Benefits Delivery at Discharge (BDD)](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/).
 
 
 
