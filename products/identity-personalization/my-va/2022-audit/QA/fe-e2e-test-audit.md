@@ -11,23 +11,23 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
   - [LOA1 user dashboard](#loa1-user-dashboard)
   - [LOA3 user dashboard](#loa3-user-dashboard)
   - [Nametag](#nametag)
-    - [⚠️ Error states](#️-error-states)
+    - [⚠️ Error states](#-error-states)
   - [Onsite notifications](#onsite-notifications)
-    - [⚠️ Error states](#️-error-states-1)
+    - [⚠️ Error states](#-error-states)
   - [Claims and appeals](#claims-and-appeals)
-    - [⚠️ Error states](#️-error-states-2)
+    - [⚠️ Error states](#-error-states)
   - [Health care](#health-care)
     - [Appointments](#appointments)
     - [Messaging](#messaging)
     - [Combinations](#combinations)
-    - [⚠️ Error states](#️-error-states-3)
+    - [⚠️ Error states](#-error-states)
   - [Outstanding debts](#outstanding-debts)
-    - [⚠️ Error states](#️-error-states-4)
+    - [⚠️ Error states](#-error-states)
   - [Benefit payments](#benefit-payments)
-    - [⚠️ Error states](#️-error-states-5)
+    - [⚠️ Error states](#-error-states)
   - [Education and training](#education-and-training)
   - [Benefit application drafts](#benefit-application-drafts)
-    - [⚠️ Error states](#️-error-states-6)
+    - [⚠️ Error states](#-error-states)
   - [My VA redirect from homepage only](#my-va-redirect-from-homepage-only)
 
 <!-- /TOC -->
@@ -85,14 +85,16 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| User has new debt update | Show Notifications section, and a notification at the top of the page with headline "You have a new debt.", corresponding date, and active link "Manage your VA debt" |  | 1111 |
-| User dismisses all notifications | Do not show Notifications section, or any notifications |  | 1111 |
-| User has multiple notifications, and dismisses one | Show Notifications section, and all notifications that user did not dismiss |  | 1111 |
+| User has new debt update | Show Notifications section, and a notification at the top of the page with headline "You have a new debt.", corresponding date, and active link "Manage your VA debt" | yes | 1111 |
+| User dismisses all notifications | Do not show Notifications section, or any notifications | yes | 1111 |
+| User has multiple notifications, and dismisses one | Show Notifications section, and all notifications that user did not dismiss | no | 1111 |
 
 #### ⚠️ Error states
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
+| ⚠️ User gets onsite notification API error | --- | yes | 1111 |
+| ⚠️ User gets error when dismissing a notification | --- | no | 1111 |
 
 ---
 
@@ -103,18 +105,18 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| User has an open claim (or claims) | Show claims card and **right-aligned** secondary link [Manage all claims and appeals](https://www.va.gov/claim-or-appeal-status/) |  | 1111 |
-| User has a claim or appeal that closed in the last 60 days | 👆 same as above |  | 1111 |
-| User has an open appeal (or appeals) | 🚧? |  | 1111 |
-| User has multiple claims or appeals that are open, or have been closed in last 60 days | Show only most recent claim or appeal card |  | 1111 |
-| User has no open claim and no open appeal (closed more than 60 days ago) | Show Claims and appeals heading, text "You have no claims or appeals to show.", and two **left-aligned** secondary links: [Learn how to file a claim](https://www.va.gov/disability/how-to-file-claim/) and [Manage all claims and appeals](https://www.va.gov/claim-or-appeal-status/) |  | 1111 |
+| User has an open claim (or claims) | Show claims card and **right-aligned** secondary link [Manage all claims and appeals](https://www.va.gov/claim-or-appeal-status/) | no | 1111 |
+| User has a claim or appeal that closed in the last 60 days | 👆 same as above | no | 1111 |
+| User has an open appeal (or appeals) | 🚧? | no | 1111 |
+| User has multiple claims or appeals that are open, or have been closed in last 60 days | Show only most recent claim or appeal card | yes |  |
+| User has no open claim and no open appeal (closed more than 60 days ago) | Show Claims and appeals heading, text "You have no claims or appeals to show.", and two **left-aligned** secondary links: [Learn how to file a claim](https://www.va.gov/disability/how-to-file-claim/) and [Manage all claims and appeals](https://www.va.gov/claim-or-appeal-status/) | yes |  |
 
 #### ⚠️ Error states
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| ⚠️ User gets claims API error | Show error alert with heading "We can't access your claims or appeals information", body "... If you have any claims and appeals, you won't be able to access your claims and appeals information right now...", and no secondary links |  | 1111 |
-| ⚠️ User gets appeals API error | 👆 same as above |  | 1111 |
+| ⚠️ User gets claims API error | Show error alert with heading "We can't access your claims or appeals information", body "... If you have any claims and appeals, you won't be able to access your claims and appeals information right now...", and no secondary links | no | 1111 |
+| ⚠️ User gets appeals API error, regardless if they have open claim(s) | 👆 same as above | yes |  |
 
 ---
 
