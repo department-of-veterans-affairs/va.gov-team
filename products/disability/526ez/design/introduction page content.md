@@ -108,6 +108,7 @@ If you want to submit additional documentation after you submit your claim, you 
 >- Aid and Attendance because you’re in a nursing home
 >- Additional benefits because you or your spouse needs Aid and Attendance
 >- Dependents
+>
 >[Learn more about these forms and how to complete them.](https://www.va.gov/disability/how-to-file-claim/additional-forms/)
 
 
