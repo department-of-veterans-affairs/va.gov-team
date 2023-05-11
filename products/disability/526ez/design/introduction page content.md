@@ -9,7 +9,7 @@ Use this form to file a new claim or a claim for increased disability compensati
 
 > **Toxic exposure and PACT Act**
 > 
-> The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of conditions we can automatically assume (or “presume”) was caused by your service. **If this applies to you, we encourage you to file for benefits now.** If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application.[Learn more about the PACT Act and what is now presumptive](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
+> The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of conditions we can automatically assume (or “presume”) was caused by your service. **If this applies to you, we encourage you to file for benefits now.** If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application. [Learn more about the PACT Act and what is now presumptive](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
 
    
 > **Have you already started your application?**
@@ -21,36 +21,33 @@ Follow these steps to get started.
 
 1. Determine if this form is for you 
 
-This form is for you if you’ve served (on active duty, active duty for training, or inactive duty training), you have a current illness or injury (known as a condition) that affects your mind or body, and:
-- You got sick or injured while serving (this is called a service-connected disability), **or**
-- You had an illness or injury before you served and serving made it worse, **or**
-- A service-connected illness or injury you already have has caused a new injury or illness
-This form is for filing a new claim or a claim for increased disability compensation for a claim decided more than one year ago. [Get more information about eligibility for disability compensation.](https://www.va.gov/disability/eligibility/)
+You may be eligible for VA disability benefits or compensation if you meet these requirements.
 
-If you are filing a new claim after an initial claim for the same or similar benefit was previously decided AND you have new and relevant evidence, you can [file a supplemental claim](https://www.va.gov/decision-reviews/supplemental-claim/). 
+**Both of these must be true:**
+- You have a current illness or injury (known as a condition) that affects your mind or body, **and**
+- You served on active duty, active duty for training, or inactive duty training
 
-If you disagree with a VA decision, you can [request a decision review](https://www.va.gov/decision-reviews/). 
+**And at least one of these must be true:**
+- You got sick or injured while serving in the military, **or**
+- You had an illness or injury before you joined the military—and serving made it worse, **or**
+- You have a disability related to your active-duty service that didn’t appear until after you ended your service, **or**
+- A service-connected illness or injury you already had caused a new injury or illness
+[Learn more about eligibility for VA disability benefits](https://www.va.gov/disability/eligibility/)
 
-In addition to this form, there are other forms you may wish or need to complete related to disability benefits. If you apply here online, you will have the option to include in your application the necessary forms for if you are:
-- Claiming Individual Unemployability 
-- Claiming posttraumatic stress disorder (PTSD), including based on a personal assault
-- Authorizing the release of your medical records to VA
+Use this form if you’re filing a new claim or a claim for increased disability compensation.
 
-You may consider seperately submitting other forms if you wish to claim:
-- Specially Adapted Housing or a Special Home Adaptation
-- Auto allowance
-- Auto adaptive-equipment grant
-- Aid and Attendance because you’re in a nursing home
-- Additional benefits because you or your spouse needs Aid and Attendance
-- Dependents
-[Learn more about these forms and how to complete them.](https://www.va.gov/disability/how-to-file-claim/additional-forms/)
-
+You’ll need to file a Supplemental Claim instead if either of these is true:
+- We decided your claim in the past and you have new and relevant evidence, **or**
+- You’re requesting a review of your claim based on a change in law (such as the PACT Act)
 
 > **Are you a currently on active duty as a service member?**
 > 
-> Service members who have an illness or injury that was caused or made worse by their active duty service, can use this form to file for disability benefits 90 to 180 days before they leave the military through the Benefits Delivery at Discharge (BDD) program. 
+> If you’re a service member on full-time active duty, this is the right form for you if both of these are true:
+> - You have an illness or injury that was caused or made worse by your active-duty service, and 
+> - Your separation date is in the next 90 to 180 days
+> You can use this form to file a claim for disability benefits through the Benefits Delivery at Discharge (BDD) program.
 > 
-> **Note:** You’ll need to submit service treatment records for the current period of service as well as a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. (We estimate that it will take you at least 30 minutes to complete this form, and we recommend you download and fill it out on a desktop computer or laptop then return to this form to upload.)
+> **Note:** You’ll need to submit service treatment records for the current period of service as well as a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. We estimate that it will take you at least 30 minutes to complete this form, and we recommend you download and fill it out on a desktop computer or laptop then return to this form to upload.
 > 
 > After you file your claim, you’ll need to be available for 45 days after your claim is submitted to complete an exam. [Learn more about Benefits Delivery at Discharge (BDD)](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/).
 
@@ -101,6 +98,20 @@ To support your claim, you can upload documentation such as:
 If your claim involves a condition that was made worse by service, please provide any information or documentation regarding the condition before your entry into service. 
 
 In addition to asking you to provide information about your condition, we will also ask you about your service and other types of pay you may be receiving (retired, separation, and/or disability severance pay).
+
+In addition to this form, there are other forms you may wish or need to complete related to disability benefits. If you apply here online, you will have the option to include in your application the necessary forms for if you are:
+- Claiming Individual Unemployability 
+- Claiming posttraumatic stress disorder (PTSD), including based on a personal assault
+- Authorizing the release of your medical records to VA
+
+You may consider seperately submitting other forms if you wish to claim:
+- Specially Adapted Housing or a Special Home Adaptation
+- Auto allowance
+- Auto adaptive-equipment grant
+- Aid and Attendance because you’re in a nursing home
+- Additional benefits because you or your spouse needs Aid and Attendance
+- Dependents
+[Learn more about these forms and how to complete them.](https://www.va.gov/disability/how-to-file-claim/additional-forms/)
 
 
 4. Complete application
