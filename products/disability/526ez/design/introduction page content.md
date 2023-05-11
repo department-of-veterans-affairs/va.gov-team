@@ -21,7 +21,9 @@ Follow these steps to get started.
 
 1. Determine if this form is for you 
 
-You may be eligible for VA disability benefits or compensation if you meet these requirements.
+Use this form if you’re filing a new claim or a claim for increased disability compensation.
+
+Make sure you meet our eligibility requirements before you apply. You may be eligible for VA disability benefits or compensation if you meet these requirements.
 
 **Both of these must be true:**
 - You have a current illness or injury (known as a condition) that affects your mind or body, **and**
@@ -34,9 +36,7 @@ You may be eligible for VA disability benefits or compensation if you meet these
 - A service-connected illness or injury you already had caused a new injury or illness
 [Learn more about eligibility for VA disability benefits](https://www.va.gov/disability/eligibility/)
 
-Use this form if you’re filing a new claim or a claim for increased disability compensation.
-
-You’ll need to file a Supplemental Claim instead if either of these is true:
+You’ll need to file a Supplemental Claim **instead** if either of these is true:
 - We decided your claim in the past and you have new and relevant evidence, **or**
 - You’re requesting a review of your claim based on a change in law (such as the PACT Act)
 
