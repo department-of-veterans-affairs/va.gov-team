@@ -40,8 +40,8 @@ Make sure you meet our eligibility requirements before you apply. You may be eli
 >Have you been granted benefits in the past? 
 >If you have already been granted benefits, and are filing a claim because your condition has worsened (this is called a claim for increase), you might want to check to see if you’re already receiving the maximum disability rating for your condition. You can do this by signing in and [viewing your claim letters](https://staging.va.gov/track-claims/your-claim-letters).
 >You’ll need to [file a Supplemental Claim](https://www.va.gov/decision-reviews/supplemental-claim/) **instead of this from** if either of these is true:
-- We decided your claim in the past and you have new and relevant evidence, **or**
-- You’re requesting a review of your claim based on a change in law (such as the PACT Act)
+>- We decided your claim in the past and you have new and relevant evidence, **or**
+>- You’re requesting a review of your claim based on a change in law (such as the PACT Act)
 
 > **Are you currently on active duty as a service member?**
 > 
