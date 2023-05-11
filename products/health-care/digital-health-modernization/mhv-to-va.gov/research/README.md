@@ -22,10 +22,14 @@ Below is a list of research that has been carried out to develop and support the
 - [Research on broader context of Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/prior-research) (no date)
 
 ## Medical Records research
-- [Medical Records Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-09-informational-interviews) (September 2022)
+- [Medical Records Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2023-05-usability-testing-round-1) (May 2023)
 - [Medical Records Generative Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research) (October 2022)
+- [Medical Records Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-09-informational-interviews) (September 2022)
 
 ## Medications research
+- [Medication Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/Discovery) (April 2023)
+- - [Drug Image Display user testing and research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/mhv-prescription-refill/2023-01-pharmacy-drug-image-display/Research) (January 2023)
+- [Prescription Refill Status usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/mhv-prescription-refill/2022-medication-refill-statuses/Research) (December 2022)
 
 ## Appointments research
 
