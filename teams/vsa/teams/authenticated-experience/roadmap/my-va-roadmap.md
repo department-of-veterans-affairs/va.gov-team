@@ -1,12 +1,11 @@
 # My VA roadmap
 
-**Last updated: March 23, 2023**
+**Last updated: May 11, 2023**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
-|My VA audit|Pre-launch|
 |Claim status EVSS > Lighthouse | Technical discovery |
 
 ### Projected timelines for current projects
@@ -14,7 +13,7 @@
 |Project|CYQ1 2023|CYQ2 2023|CYQ3 2023|CYQ4 2023|
 |----|----|----|----|----|
 |**[My VA audit](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#project-outline-my-va-audit-updates-and-documentation)**|Pre-launch tasks and reviews| Launch & monitoring|-|-|
-|Claim status EVSS > Lighthouse|-|Update FE connection; Launch| Launch if it didn't happen last quarter|-|
+|**[Claim status EVSS > Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/claim-status-lighthouse-migration#project-outline-my-va-claim-status-evss--lighthouse-migration)**|-|Update FE connection; Launch| Launch if it didn't happen last quarter|-|
 
 ## Completed projects
 
