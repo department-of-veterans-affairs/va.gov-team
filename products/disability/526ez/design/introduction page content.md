@@ -14,7 +14,7 @@ Use this form to file a new claim or a claim for increased disability compensati
    
 > **Have you already started your application?**
 > 
-> [button] Sign in to start or continue your application
+> [button] Sign in 
 
 
 Follow these steps to get started.
@@ -123,7 +123,7 @@ If you want to submit additional documentation after you submit your claim, you 
     - You can save your work in progress. You’ll have 1 year from when you start or make updates to your application to come back and finish it.
     - After you submit your application, you can track claim status and upload additional documents on your profile.
 > 
-> [button] Sign in to start or continue your application
+> [button] Sign in 
    
 
 Respondent burden: 25 minutes
