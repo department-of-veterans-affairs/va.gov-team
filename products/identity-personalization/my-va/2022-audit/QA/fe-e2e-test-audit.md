@@ -5,30 +5,29 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 ---
 
-### Table of contents
+## Table of contents
 
 <!-- TOC -->
-
   - [LOA1 user dashboard](#loa1-user-dashboard)
   - [LOA3 user dashboard](#loa3-user-dashboard)
   - [Nametag](#nametag)
-    - [⚠️ Error states](#-error-states)
+    - [⚠️ Error states](#️-error-states)
   - [Onsite notifications](#onsite-notifications)
-    - [⚠️ Error states](#-error-states)
+    - [⚠️ Error states](#️-error-states-1)
   - [Claims and appeals](#claims-and-appeals)
-    - [⚠️ Error states](#-error-states)
+    - [⚠️ Error states](#️-error-states-2)
   - [Health care](#health-care)
     - [Appointments](#appointments)
     - [Messaging](#messaging)
     - [Combinations](#combinations)
-    - [⚠️ Error states](#-error-states)
+    - [⚠️ Error states](#️-error-states-3)
   - [Outstanding debts](#outstanding-debts)
-    - [⚠️ Error states](#-error-states)
+    - [⚠️ Error states](#️-error-states-4)
   - [Benefit payments](#benefit-payments)
-    - [⚠️ Error states](#-error-states)
+    - [⚠️ Error states](#️-error-states-5)
   - [Education and training](#education-and-training)
   - [Benefit application drafts](#benefit-application-drafts)
-    - [⚠️ Error states](#-error-states)
+    - [⚠️ Error states](#️-error-states-6)
   - [My VA redirect from homepage only](#my-va-redirect-from-homepage-only)
 
 <!-- /TOC -->
@@ -64,19 +63,19 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 | -- | -- | -- | -- |
 | User is LOA1 | Do not show Nametag | yes | |
 | User is LOA3 | Show Nametag | yes | |
-| User has disability rating and branch of service | Show Nametag with name, branch of service, and "[Your disability rating: x% service connected](https://www.va.gov/disability/view-disability-rating/rating)" | yes, but we can remove some unused code | 1111 |
-| User has no disability rating but has branch of service | Show Nametag with name and branch of service |  | 1111 |
-| User has no disability rating | Show Nametag with name and branch of service |  | 1111 |
-| User has no branch of service | Show Nametag with name only (no disability rating)|  | 1111 |
-| User has no disability rating AND no branch of service | 👆 same as above|  | 1111 |
+| User has disability rating and branch of service | Show Nametag with name, branch of service, and "[Your disability rating: x% service connected](https://www.va.gov/disability/view-disability-rating/rating)" | yes, but need to include intersections of disability w branch | 1111 |
+| User has no disability rating but has branch of service | Show Nametag with name and branch of service | yes, but need to include intersections of disability w branch | 1111 |
+| _User has disability rating but no branch of service_ | _does having a branch of service imply user also has disability rating?_ |  | 1111 |
+| User has no branch of service | Show Nametag with name only (no disability rating)| no | 1111 |
+| User has no disability rating AND no branch of service | 👆 same as above | yes, but need to include intersections of disability w branch | 1111 |
 
 #### ⚠️ Error states
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| ⚠️ User gets legal/full name API error | Do not show Nametag |  | 1111 |
-| ⚠️ User gets disability rating API error | Show Nametag with name, branch of service, **no** disability rating, and an active link "View disability rating" (check w Angela) |  | 1111 |
-| ⚠️ User gets military info API error | Show Nametag with name, disability rating (if applicable). Do not show military branch or branch name. |  | 1111 |
+| ⚠️ User gets legal/full name API error | Do not show Nametag | no | 1111 |
+| ⚠️ User gets disability rating API error | Show Nametag with name, branch of service, **no** disability rating, and an active link "View disability rating" (check w Angela) | yes | 1111 |
+| ⚠️ User gets military info API error | Show Nametag with name, disability rating (if applicable). Do not show military branch or branch name. | no | 1111 |
 
 ---
 
