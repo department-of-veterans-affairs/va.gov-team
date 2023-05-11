@@ -105,7 +105,7 @@ We’ll contact you by phone or letter if we need additional forms or informatio
 If you want to submit additional documentation after you submit your claim, you have up to one year to do so. However, we may decide your claim before the end of that one year period, in which case we may request you submit a new application. [Learn more about uploading evidence documents to support disability claims.](https://www.va.gov/disability/upload-supporting-evidence/)
 
 >Do I need to submit any additional forms?
->You may consider seperately submitting other forms if you wish to claim:
+>You may consider separately submitting other forms if you wish to claim:
 >- Specially Adapted Housing or a Special Home Adaptation
 >- Auto allowance
 >- Auto adaptive-equipment grant
