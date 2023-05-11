@@ -75,6 +75,7 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 - Make the 3 action links at the top of the page go somewhere
 - Make the 3 links under "On this page" work
 - Include some content under the "Limited services and hours" additional info component, if including it
+- Be able to open more than one service accordion (disability?)
 
 ### Ideas for Conversation Guide
 - Warm up questions about what regional benefit offices are, whether you've been to one before, what you might do there or have done there before (and what happened, what do you wish you had known before going),  what you'd do before your visit (search for info online? where?)
@@ -85,7 +86,7 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 - To make this happen, what would you do next (check hours, make appt, figure out how to get there, learn what to bring and gather it)
 - How to find the benefit office in the building? call?
 - How could you talk to someone at the VA about whether the VA will pay for more school for you?  
-- Ask to do a task related to a service that's not available at this location, and see what they do
+- Ask to do a task related to a service that's _not_ available at this location (something w/education?), and see what they do (Facility Locator?)
 - Ask at end after saw prototype: What do you think you can do from this VA office? 
 
 ### Research materials
