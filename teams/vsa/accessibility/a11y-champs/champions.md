@@ -46,7 +46,7 @@
 - Can answer questions on semantic html, aria and VA.gov Drupal CMS
 
 **Sarah Koomson (SK)**, Accessibility Specialist on CAIA 
-- sarah.koomson@oddball.iio
+- sarah.koomson@oddball.io
 - Can answer a11y, PDF accessibility, and Design System Componenent questions
 
 ## VA Sponsor
