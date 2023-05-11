@@ -56,6 +56,7 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57707)   
       -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57811)
   -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] Evaluate transition back to sketch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57125)
+  -  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Demo flags aren't updating in staging tool](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/58308)
 
 -----------------  END FUTURE / TENTATIVE -------------------------
 __________________________________________________________________________________________________________________________________________________________
