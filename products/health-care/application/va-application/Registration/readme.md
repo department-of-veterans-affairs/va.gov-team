@@ -1,7 +1,7 @@
 # Initiative Brief - 10-10EZ Registration Path
 
 ## Outcome Summary
-Provide Veterans who will be transitioning out of service in the near future and allow them to fill out the 10-10EZ form in advance of their separation date, so that the application can be processed at that time.
+Provide Active Duty Service Members and Veterans who want to register for VA health care, but do not want to enroll.
 
 **Related/Associated Product(s)
 - Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
@@ -44,17 +44,20 @@ The team implemented an event tag on the Discharge Date field within the 10-10EZ
 ## Discovery
 ### Registration Use Cases
 These are the following confirmed use cases for registration over enrollment. 
-Veterans requesting an eligibility assessment, clinical evaluation, care or treatment pursuant to a special treatment authority.
+
 - Veteran who is already enrolled/registered in one facility and wants/needs to change facilities.
 - Active duty service member with TRICARE.
 - Active duty service member getting a Comp & Pen Exam.
 - Active duty service member getting care where there is a sharing agreement in place between the DoD and VA.
 - Active duty service member getting VA care within a "Military Treatment Facility."
 - Registration of collaterals (family members, ex: SAVE Lives Act).
-- Active duty transitioning out with a future discharge date.
+- Active duty transitioning out with a future discharge date (up to 365 days).
+- Veterans requesting an eligibility assessment
+- Veterans requesting an clinical evaluation PP (Presumptive Psychosis) and/or MST (Military Sexual Trauma)
+- Veterans requesting an care or treatment pursuant to a special treatment authority
 - Veteran that only wants to be seen for service-connected condition and doesn't want to enroll in VA healthcare.
 - HUD-VASH, some Veterans who might not be eligible because of character of discharge, but can be seen.
-- Mental health evaluation/services within a year of separation.
+- Mental health evaluation/services within a year of separation (OTH MENTAL HEALTH).
 - Employees (Veterans and non-Veterans)
 - Humanitarian cases
 
