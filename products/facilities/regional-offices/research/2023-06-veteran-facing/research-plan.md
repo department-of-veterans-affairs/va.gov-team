@@ -42,24 +42,26 @@ The purpose of this research is to **get user feedback on the new modernized des
 Learnings will help refine the design of the pages before piloting an MVP with 7 sites.
 
 ### Research questions
+#### Before seeing the prototype:
+1. What do Veterans know about VA regional benefit offices?
+     1. What tasks do Veterans expect to do at VA regional benefit offices?
+
+#### From the prototype:
 1. Do Veterans understand which services are available at this location?
 1. Do Veterans understand how services are delivered at this location?
      1. In-person, virtual, or by phone
      1. With or without appointments
      2. Hours of operation--for the office vs. only for specific service
 3. Do Veterans understand the actions they need to take to receive the service (make an appointment, walk-in, bring required documents, etc.)?
-4. What do Veterans know about VA regional benefit offices?
-     1. What tasks do Veterans expect to do at VA regional benefit offices?
-     2. What do Veterans expect to find on a web page about a VA regional benefit office?
-5. What feedback do Veterans have on content, organization, and length of the regional benefit office web page?
 6. When prompted with specific tasks, do Veterans navigate to the correct service accordion and find the correct next steps? 
-    7. What do they do if they don't find an applicable service accordion on the page? 
-8. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones? Are these "top tasks"?
+    7. What if they don't find an applicable service accordion on the page? 
+8. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones? 
 9. How do Veterans react to seeing 2 phone numbers?
      1. Which phone number would they use and why? 
      2. What do they expect when they call?
 10. What do Veterans expect to find under "Services offered"?
      1. Do Veterans expect to find different details for different services?
+5. What feedback do Veterans have on content, organization, and length of the regional benefit office web page?
 
 ### Hypotheses
 1. Veterans will learn what they can do at a VA benefit office by looking at the new web page.
