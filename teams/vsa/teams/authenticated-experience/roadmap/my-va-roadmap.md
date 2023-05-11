@@ -19,6 +19,7 @@
 
 |Project|Launch/Completion date|
 |----|----|
+|[My VA audit](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#project-outline-my-va-audit-updates-and-documentation)| April 25, 2023 |
 |[Launch VAOS v2 integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41202)|December 19, 2022|
 |[Update Cerner module to be powered by Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47956)| Launched December 13, 2022|
 |[Payments and debts V2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| Launch completed December 12, 2022|
