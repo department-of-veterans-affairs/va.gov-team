@@ -63,7 +63,7 @@ You may wish to contact an accredited veterans service officer (VSO) to assist y
 
 [Learn about other ways you can file a disability claim](https://www.va.gov/disability/how-to-file-claim/)
 
-3. Decide what you’ll claim and gather information
+3. Gather information
 
 Your disability compensation will be determined based on the nature and symptoms of the condition, severity and duration of the symptoms, and the impact of the condition and symptoms on your employment. 
 
