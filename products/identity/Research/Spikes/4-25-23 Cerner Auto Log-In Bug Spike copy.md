@@ -18,3 +18,10 @@ Feasibly said this bug could be resolved by removing the code around the `showN
 3. Investigate & document removing the isAuthenticated in the useEffect to determine what actually happens	
     1. Determine what actually occurs with Cerner first & other applications
     2. And see if we need to manually navigate them to their preferred application
+
+
+**Related Issues:** 
+
+[Update CSS around conditional rendering of the Header component. #57701](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57701)
+
+[Remove Conditional Rendering of Header in User Nav Component #57697](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57697)
