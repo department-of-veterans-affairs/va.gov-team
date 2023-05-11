@@ -45,6 +45,10 @@
 - laura.flannery@civicactions.com, [LinkedIn](https://www.linkedin.com/in/lauraflannery/)
 - Can answer questions on semantic html, aria and VA.gov Drupal CMS
 
+**Sarah Koomson (SK)**, Accessibility Specialist on CAIA 
+- sarah.koomson@oddball.iio
+- Can answer a11y, PDF accessiblity, and Design System Componenent questions
+
 ## VA Sponsor
 **Martha Wilkes**, OCTO Accessibility Strategist
 - martha.wilkes@va.gov, [LinkedIn](https://www.linkedin.com/in/marthawilkes/)
