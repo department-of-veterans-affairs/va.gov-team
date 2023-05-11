@@ -55,7 +55,7 @@ Overview summary goes here.
 ### If we don't have enough data or research to know...
 Point out the gaps
 
-## Next Steps
+## Next Steps (Work together here)
 A list of actionable findings, based on time-sensitive, priority needs. Images, videos, links, screenshots and notes provided as deemed approprite. 
 
 ### Complete Now
@@ -69,7 +69,7 @@ A list of actionable findings, based on time-sensitive, priority needs. Images, 
 
 _A finding that may not be relevant to the study, but worth talking about. Include images as needed._
 
-## List of caught defects and issues
+## List of caught defects and issues (CAIA to complete)
 
 ### Relevant to this team
 - [ ] Description of issue and how to replicate
