@@ -8,9 +8,9 @@ Timing: Every 2 Thursdays 2:35 - 3:15pm
 Agenda
 - Demo Topic(s)
   -  RX Research Readout - (Lauren)
-  -  QA Process - (Binny)
-- Slides - 
+- Slides - [VA Health and Benefits Demo - RX Research Readout 05112023.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11455677/VA.Health.and.Benefits.Demo.-.RX.Research.Readout.05112023.pdf)
 - Video - 
+
 
 
 ---  
