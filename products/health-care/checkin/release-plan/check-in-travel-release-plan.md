@@ -35,7 +35,15 @@ List the features toggles here.
 - Desired date range or test duration: May
 - Desired number of users: 1
 - How you'll recruit the right production test users: Use Robert Tow's account
-- How you'll conduct the testing: Zoom call with Robert Tow
+- How you'll conduct the testing: Zoom call with Robert Tow and the following
+    - Happy path scenario for station enabled for travel claims
+        - Test user in BTSSS Prod Vista
+        - CIE entry for the same test user in appointments Vista
+        - Station enabled for travel claims workflow
+    - Happy path scenario for station disabled for travel claims
+        - Test user in BTSSS Prod Vista
+        - CIE entry for the same test user in appointments Vista
+        - Station disabled for travel claims workflow
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: turn on feature flag for Robert Tow only
 
 #### Results
