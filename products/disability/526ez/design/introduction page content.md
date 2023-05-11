@@ -76,7 +76,7 @@ To support your claim, you can upload documentation such as:
 - **Private medical records and hospital reports.** These could relate to your claimed illnesses or injuries or they could show that your disability has gotten worse.
 - **Supporting statements.** These could be from family members, friends, clergy members, law enforcement personnel, or people you served with. These statements could tell us more about your claimed condition and how and when it happened or how it got worse.
 
-If you apply here online, you will have the option to include in your application the necessary forms for if you are:
+If you apply here online, you will be able to include in your application the necessary forms for if you are:
 - Authorizing the release of your medical records to VA 
 - Claiming posttraumatic stress disorder (PTSD), including based on a personal assault
 - Claiming Individual Unemployability
