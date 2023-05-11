@@ -6,7 +6,8 @@ This document contains tidbits, odds & ends, and information about the 10-10EZ f
 - EE/E&E = Eligibility and Enrollment
 - HEC = Heathcare Enrollment Services
 - HCA - Health Care Application (AKA 10-10EZ)
-- VOA - Veteran Online Application (not in common use)
+- VOA - Veteran Online Application (AKA 10-10EZ)
+- VistA - Legacy health record source, in process of deprecating - Enrollment Systen will be the main source of data
 
 ### Development
 - 7/29/22 - The Place of Birth state dropdown must only include 50 states, DC and Other. ES will not accept any other values at this time.
