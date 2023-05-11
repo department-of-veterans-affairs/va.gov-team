@@ -54,7 +54,6 @@ Make sure you meet our eligibility requirements before you apply. You may be eli
 > 
 > After you file your claim, you’ll need to be available for 45 days after your claim is submitted to complete an exam. [Learn more about Benefits Delivery at Discharge (BDD)](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/).
 
-
 2. Decide how you want to apply 
 
 This digital form was designed to help you complete the form efficiently. You will be able to answer the questions relevant to you, upload digital documents, save your progress, and track the status of your claim after submission. The time it takes to complete this will depend on the number of conditions you are claiming and the number of documents that you upload. You can save and come back to the application at any time.
@@ -76,19 +75,18 @@ To support your claim, you can upload documentation such as:
 - **Private medical records and hospital reports.** These could relate to your claimed illnesses or injuries or they could show that your disability has gotten worse.
 - **Supporting statements.** These could be from family members, friends, clergy members, law enforcement personnel, or people you served with. These statements could tell us more about your claimed condition and how and when it happened or how it got worse.
 
-If you apply here online, you will be able to include in your application the necessary forms for if you are:
-- Authorizing the release of your medical records to VA 
-- Claiming posttraumatic stress disorder (PTSD), including based on a personal assault
-- Claiming Individual Unemployability
-
-In addition to asking you to provide information about your condition, we will also ask you about your service and other types of pay you may be receiving (retired, separation, and/or disability severance pay).
-
 > **Toxic exposure and PACT Act**
 > 
 > To get a disability rating, we need to see that your condition connects to your military service. For many conditions we need documentation to see this, but for some conditions we can automatically assume (or “presume”) that your service caused your condition. **If you have what we call a presumptive condition, we don’t need documents showing service caused the condition.** 
 >   
 > To support a claim for presumptive service connection, you only need to submit documentation showing you served in a location **and** you have a current condition that qualifies as presumptive. [Learn more about the PACT Act and what is now presumptive](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
 
+If you apply here online, you will be able to include in your application the necessary forms for if you are:
+- Authorizing the release of your medical records to VA 
+- Claiming posttraumatic stress disorder (PTSD), including based on a personal assault
+- Claiming Individual Unemployability
+
+In addition to asking you to provide information about your condition, we will also ask you about your service and other types of pay you may be receiving (retired, separation, and/or disability severance pay).
 
 4. Apply
 
