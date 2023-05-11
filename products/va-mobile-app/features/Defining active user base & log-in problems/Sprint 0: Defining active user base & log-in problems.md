@@ -14,6 +14,23 @@
 
 This all affects our ability to accurate count users who are actually encountering log in issues as well as a reliable definition of an engaged user to evaluate specific beahviors against. 
 
+### Current Measure of Scope of the Issue ###
+Based on the figures below, it is estimated that our current log-in tracking in the app (not the API logs) is missing about a third of all successful log-ins. In terms of more context on the scope fails, that cannot be addressed without completing some of the steps outlined in this step 0.
+
+**Users with log-in event tracking in app**
+* 478.5k users had log-in start events (vama_login_start) tracked by the app
+  * 372.7k users had log-in success events (vama_login_success)  tracked by the app --> 77.9% of log-in start total above
+  * 15.7k users had log-in fail events (vama_login_fail)  tracked by the app --> 77.9% of log-in start total above
+* **90.1k users with log-in start logged but without success or fail logged**
+
+**Users with screen views tracked in app:**
+* 680.8k users viewed at least one screen in the app (i.e. opened the app)
+  * This could include unintentionally opening the app.
+* 656.4k users viewed the Login screen --> 137% of the total users with log-in start events
+  * 521.5k advanced to view the Sync screen
+  * 501.4k viewed the Home screen --> 134% of the total users with log-in success events
+    * This is where we are theorizing fixing the tracking of biometrics should bring the event tracking count of users in alignment with the page viewing count of users.
+
 ### Desired Outcomes ###
 1. We can accurately measure log-in success and fails, as well as precise points of failures parsed by log-in type.
   1. Failure patterns can be acted upon directly by the team or by reporting to responsible upstream teams.
