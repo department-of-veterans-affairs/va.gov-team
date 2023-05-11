@@ -1,45 +1,29 @@
 # About this Research Study
-- **Study Name:** Project Name (ex. MHV Authenticated Experience)
+- **Study Name:** Appointment List Usability Screenreader Study
 - **Study Dates:** (can be month study was held or specific)
-- **Study Research Lead:**
-- **A11y Collaborators:**
-- **Related Docs:** Link to research plan and communication guide - or link to project's GitHub link?
-- **Ticket Links:** EPIC and/or CAIA research assistance request ticket
+- **Study Research Lead:** Peter Russo, Ciera Maddox
+- **A11y Collaborators:** Josh Kim, Sara Smith, Sarah Koomson
+- **Ticket Links:** [EPIC and/or CAIA research assistance request ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55380)
 
 # Accessibility Tools Utilized
-`ZoomText` `JAWs` `iOS-VO` (List types of AT covered here)
+`VoiceOver, iOS` `JAWs` `Talkback`
 
 ## Coverage
-This research fufilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
 
-**Original study request: ##**
+**Original study request:**
 
-> xx participants should use a screenreader on a desktop or mobile device
+> (Primary) 12 participants that regularly use a screenreader
 
-## Participants
-To best serve the users of VA.gov, we will need to collect the following information during each a11y research session:
-- **Skill level of user:** Novice, Intermediate or Advanced
-- **Operating System:** Mac or Windows
-- **Assistive Technology being used:** Jaws, NVDA, Zoomtext, Dragon, etc.
-- **Internet Browser:** Chrome, Firefox, etc.
-- **Note**: In the table below, the first row is an example for P54
+> (Secondary) A mix of advanced and beginner screenreader users.
 
-| **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
-|------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
-| _P54 (example)_                   | 5/8/2023         | _JAWS_             | _Advanced_      | _Windows_            | _Chrome_    | _Mobile_      |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
+- This research fulfilled 75% (9/12) of its original request. 
+- Only 4 out of 12 participants were able to complete the session with their screen reader.
+  - 2 advanced JAWS users
+  - 1 begineer JAWS user
+  - 1 advanced VoiceOver user
 
-**Participants who successfully completed sessions: XX**
-
-**Examples below:**
-- [1 desktop JAWS user (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p2.md)
-- [1 iOS VoiceOver user (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p15.md)
-- [1 desktop zoom text reader user (magnification, screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p1.md)
+Given the limited amount of types of screen readers, any conclusive behavioral patterns cannot be determined locally in this study. 
+We can, however, draw inferences, plan for future research considerations, and document caught accessibility issues.
 
 ## Key Findings
 Add screenshots, images and videos here.
