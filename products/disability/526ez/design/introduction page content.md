@@ -91,7 +91,7 @@ In addition to asking you to provide information about your condition, we will a
 > To support a claim for presumptive service connection, you only need to submit documentation showing you served in a location **and** you have a current condition that qualifies as presumptive. [Learn more about the PACT Act and what is now presumptive](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
 
 
-4. Complete application
+4. Apply
 
 To start your application here, you’ll need to set up an account and profile. You’ll need to provide an email address, set up an authentication method, and verify your identity.
 
