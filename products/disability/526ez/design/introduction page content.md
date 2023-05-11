@@ -4,13 +4,12 @@ File for disability compensation with VA Form 21-526EZ
 
 Equal to VA Form 21-526EZ (Application for Disability Compensation and Related Compensation Benefits).
 
-Use this form to file for disability benefits for an illness or injury that was caused by—or got worse because of—your active military service. This page describes what you need to do to file a new claim or a claim for increased disability compensation.
+Use this form to file a new claim or a claim for increased disability compensation.
 
 
 > **Toxic exposure and PACT Act**
 > 
-> The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of conditions we can automatically assume (or “presume”) was caused by your service. **If this applies to you, we encourage you to file for benefits now.** If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application.
-[Learn more about the PACT Act and what is now presumptive](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
+> The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of conditions we can automatically assume (or “presume”) was caused by your service. **If this applies to you, we encourage you to file for benefits now.** If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application.[Learn more about the PACT Act and what is now presumptive](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
 
    
 > **Have you already started your application?**
@@ -18,7 +17,7 @@ Use this form to file for disability benefits for an illness or injury that was 
 > [button] Sign in to start or continue your application
 
 
-Follow the steps below to file a claim for a new or secondary condition or for increased disability compensation.
+Follow these steps to get started.
 
 1. Determine if this form is for you 
 
@@ -145,13 +144,13 @@ Are you on active duty right now?
 Yes
 No
 
-> We’ve saved your application. It was last saved on December 2, 2022, at 5:25 p.m. EST. Your application ID number is 15428. You can continue your saved application at a later time by viewing benefit application drafts in My VA.
+> We’ve saved your application. It was last saved on December 2, 2022, at 5:25 p.m. EST. Your application ID number is 15428. You can continue filling out your saved application later by going to benefit application drafts in My VA.
 
 
 
 ## Service end date content: [if yes to active duty]
 
-What’s the date or anticipated date of your release from active duty?
+What’s the date or anticipated date your active duty service ends? (This may not be the same date as the date you are released from your contract or the date your obligation term of service ends.)
 
 Month:
 
@@ -177,7 +176,7 @@ Year:
 > Select ‘continue’ to apply now.
 >
 > **Prepare your Separation Health Assessment Part A Self-Assessment**
-> You’ll need to submit service treatment records for the current period of service as well as a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. We estimate that it will take you at least 30 minutes to complete this form, and we recommend you download and fill out this form on a desktop computer or laptop then return to this form to upload.
+> You’ll need to submit service treatment records for the current period of service as well as a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. Your claim will be delayed until we receive this form. We estimate that it will take you at least 30 minutes to complete this form, and we recommend you download and fill out this form on a desktop computer or laptop then return to this form to upload.
 
 
 > [background color only alert component if date >180 days]
