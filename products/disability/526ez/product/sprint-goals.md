@@ -7,6 +7,7 @@ Period - 05/10/2023 - 05/23/2023
    - [ ] Self-Assessment Part A to BDD 526 claims - staging review and contact center review
    - [ ] Bug - Fix - BDD flow asking for past service exit date
    - [ ] Bug - Fix - Identification issue - Update phone number on 526-EZ alert
+   - [ ] Bug - Discovery for making VAMC location field optional
 - **Non-negotiable**
    - eVSS to Lighthouse Migration 
         - rated disailities endpoint
