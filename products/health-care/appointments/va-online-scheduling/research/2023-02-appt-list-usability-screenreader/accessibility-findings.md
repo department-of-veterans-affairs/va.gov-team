@@ -25,7 +25,7 @@
 Given the limited amount of types of screen readers, any conclusive behavioral patterns cannot be determined locally in this study. 
 We can, however, draw inferences, plan for future research considerations, and document caught accessibility issues.
 
-## Key Findings
+## Key Findings (For VAOS team to complete, or provide equivalent)
 Add screenshots, images and videos here.
 
 ### Finding 1
@@ -41,7 +41,7 @@ Add screenshots, images and videos here.
 - They can help add some more info
 
 
-## User Feedback
+## User Feedback (For VAOS team to complete, or provide equivalent)
 
 ### Veterans' Voices: Impactful Quotes 
 This section is for quotes. ⚠️ Participants should be referenced by number only, please.
@@ -49,7 +49,7 @@ In this section feel free to segment populations based on the trends we see with
 
 > "Quote goes here." - P54
 
-## a11y Recommendations
+## a11y Recommendations (CAIA to complete)
 Overview summary goes here. 
 
 ### If we don't have enough data or research to know...
@@ -65,19 +65,19 @@ A list of actionable findings, based on time-sensitive, priority needs. Images, 
 ### Complete Later
 - x
 
-## Other considerations and findings 
+## Other considerations and findings (Work together here)
 
 _A finding that may not be relevant to the study, but worth talking about. Include images as needed._
 
-### List of caught defects and issues
+## List of caught defects and issues
 
-#### Relevant to this team
+### Relevant to this team
 - [ ] Description of issue and how to replicate
 
-#### Belongs to other teams
+### Belongs to other teams
 - [ ] Description of issue and how to replicate
 
-#### Design system
+### Design system
 - [ ] Description of issue and how to replicate
 
 ## References
