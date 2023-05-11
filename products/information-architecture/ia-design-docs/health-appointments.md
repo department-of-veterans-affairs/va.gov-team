@@ -26,7 +26,8 @@ Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
 Appointments Landing Page | www.va.gov/my-health/appointments | VA.gov home > My HealtheVet> H1 of Page | The different views (pending, past, upcoming) should be handled as filters on the appointment list - i.e. utilize parameters to dynamically filter to the view - rather than creating child pages.
 Appointments Detail View | www.va.gov/my-health/appointments/[H1 of Page] | VA.gov home > My HealtheVet > Appointments > H1 of Page | 
-Cancel Appointment | www.va.gov/my-health/appointments/cancel | Home > My HealtheVet> Appointments> H1 of Page | we are recommending that this functionality moves from a modal to a page to improve a11y
+Cancel Appointment | www.va.gov/my-health/appointments/cancel | VA.gov home > My HealtheVet> Appointments> H1 of Page | we are recommending that this functionality moves from a modal to a page to improve a11y
+Schedule Appointment | www.va.gov/my-health/appointments/schedule | VA.gov home > My HealtheVet> Appointments> H1 of Page | Subsequent steps of the flow can follow normal url building guidelines
 
 ## <a name="scheduling urls"></a>URLs and breadcrumbs - Scheduling Pages
 Page | URL | Breadcrumb | Notes
@@ -37,7 +38,7 @@ Schedule Appointment - Select Reason | www.va.gov/my-health/appointments/schedul
 Schedule Appointment - Select Visit Type | www.va.gov/my-health/appointments/schedule/visit-type | VA.gov home > My HealtheVet> [H1 of Appointments page]> [H1 of Schedule Appointment page]> | 
 Schedule Appointment - Contact Info | www.va.gov/my-health/appointments/schedule/contact-info | VA.gov home > My HealtheVet> [H1 of Appointments page]> [H1 of Schedule Appointment page]> | 
 Schedule Appointment - Review | www.va.gov/my-health/appointments/schedule/review | VA.gov home > My HealtheVet> [H1 of Appointments page]> [H1 of Schedule Appointment page] | 
-Schedule Appointment - Confirmation | www.va.gov/my-health/appointments/schedule/confirmation | VA.gov home > My HealtheVet> [H1 of Appointments page]> [H1 of Schedule Appointment page]> Confirmation | Do we need this?
+Schedule Appointment - Confirmation | www.va.gov/my-health/appointments/schedule/confirmation | VA.gov home > My HealtheVet> [H1 of Appointments page]> [H1 of Schedule Appointment page]  | 
 
 
 
@@ -47,3 +48,12 @@ These will be documented and updated according to the Phased Rollout Plan.
 
 ## <a name="redirects"></a>Redirects <br>
 We will need to redirect all of the existing appointments and scheduling URLs to the new assigned URLs
+
+Page | Current URL | Redirect to | Notes
+----| --- | --- | ---
+Appointments landing page| https://va.gov/health-care/schedule-view-va-appointments/appointments/ | www.va.gov/my-health/appointments | ---
+Appointments landing page - filtered to PENDING| https://va.gov/health-care/schedule-view-va-appointments/appointments/pending | www.va.gov/my-health/appointments | ---
+Appointments landing page filtered to PAST| https://va.gov/health-care/schedule-view-va-appointments/appointments/past | www.va.gov/my-health/appointments | ---
+Schedule appointment| https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment | www.va.gov/my-health/appointments/schedule | ---
+Requested appointment - detail view| https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]| www.va.gov/my-health/appointments/[H1 of Page] | ---
+Confirmed/upcoming/cancelled appointment - detail view| https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]| www.va.gov/my-health/appointments/[H1 of Page] | ---
