@@ -9,7 +9,9 @@ Agenda
 - Demo Topic(s)
   -  RX Research Readout - (Lauren)
 - Slides - [VA Health and Benefits Demo - RX Research Readout 05112023.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11455677/VA.Health.and.Benefits.Demo.-.RX.Research.Readout.05112023.pdf)
-- Video - 
+- Video - Rx Research Readout - https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/0896a328-c740-4671-a3db-3e5b1a93f679
+
+
 
 
 
