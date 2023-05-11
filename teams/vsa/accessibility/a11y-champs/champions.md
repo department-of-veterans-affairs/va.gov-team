@@ -47,7 +47,7 @@
 
 **Sarah Koomson (SK)**, Accessibility Specialist on CAIA 
 - sarah.koomson@oddball.iio
-- Can answer a11y, PDF accessiblity, and Design System Componenent questions
+- Can answer a11y, PDF accessibility, and Design System Componenent questions
 
 ## VA Sponsor
 **Martha Wilkes**, OCTO Accessibility Strategist
