@@ -1,3 +1,15 @@
+This is a biweekly sync on content for MHV on VA.gov
+
+**May 10, 2023 — Biweekly sync**
+-
+
+**Notes**
+- Bobby, Lexi, and Laura looked at content needs for downloadable report PDFS
+- Discussed keeping general notes on BB cover page, with domain-specific notes on first page of each domain
+- Discussed need to decide on link/URL styling — how will this look on the downloaded PDF vs on the printed record (if Veterans choose to print)
+- Action step: Laura will provide draft content for downloadable reports by Friday 5/12
+- Action step: Bobby will work on design solutions for link styling and share in a future meeting
+
 **April 26, 2023 — Biweekly sync**
 -
 
