@@ -37,7 +37,9 @@ Make sure you meet our eligibility requirements before you apply. You may be eli
 
 [Learn more about eligibility for VA disability benefits](https://www.va.gov/disability/eligibility/)
 
-You’ll need to file a Supplemental Claim **instead** if either of these is true:
+>Have you been granted benefits in the past? 
+>If you have already been granted benefits, and are filing a claim because your condition has worsened (this is called a claim for increase), you might want to check to see if you’re already receiving the maximum disability rating for your condition. You can do this by signing in and [viewing your claim letters](https://staging.va.gov/track-claims/your-claim-letters).
+>You’ll need to [file a Supplemental Claim](https://www.va.gov/decision-reviews/supplemental-claim/) **instead of this from** if either of these is true:
 - We decided your claim in the past and you have new and relevant evidence, **or**
 - You’re requesting a review of your claim based on a change in law (such as the PACT Act)
 
@@ -64,9 +66,6 @@ You may wish to contact an accredited veterans service officer (VSO) to assist y
 3. Decide what you’ll claim and gather information
 
 Your disability compensation will be determined based on the nature and symptoms of the condition, severity and duration of the symptoms, and the impact of the condition and symptoms on your employment. 
-
->Have you been granted benefits in the past? 
->Each service-connected condition is assigned a rating from 0% to 100% based on documentation. If you have already been granted benefits, and are filing a claim because your condition has worsened (this is called a claim for increase), you might want to check to see if you’re already receiving the maximum disability rating for your condition. You can do this by signing in and [viewing your claim letters](https://staging.va.gov/track-claims/your-claim-letters).
 
 While processing your claim we will review relevant medical records that you identify and authorize us to (you can give us this permission when you file here). These may include records from Federal facilities such as VA medical centers, State or local government facilities, and/or private doctors or hospitals. In some cases if we need additional documentation we may also ask you to have an exam to help us rate your disability.
 
