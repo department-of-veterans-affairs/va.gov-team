@@ -92,11 +92,9 @@ In addition to asking you to provide information about your condition, we will a
 
 4. Apply
 
-To start your application here, you’ll need to set up an account and profile. You’ll need to provide an email address, set up an authentication method, and verify your identity.
+The time it takes you to complete your application depends on how many conditions you’re claiming and how many documents you need to upload. 
 
 **Note:** When you start your application online now, you’ll declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You have 1 year from the day you submit your intent to file to complete your application. After 1 year, you’ll have to start a new application and your potential effective date will be reset.
-
-The time it takes you to complete your application depends on how many conditions you’re claiming and how many documents you need to upload. 
 
 After you submit your claim here you will see a confirmation page. You will not get another notification (by email or mail, for example).
 
