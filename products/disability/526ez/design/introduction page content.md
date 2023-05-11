@@ -34,7 +34,7 @@ Make sure you meet our eligibility requirements before you apply. You may be eli
 - You had an illness or injury before you joined the military—and serving made it worse, **or**
 - You have a disability related to your active-duty service that didn’t appear until after you ended your service, **or**
 - A service-connected illness or injury you already had caused a new injury or illness
-- 
+
 [Learn more about eligibility for VA disability benefits](https://www.va.gov/disability/eligibility/)
 
 You’ll need to file a Supplemental Claim **instead** if either of these is true:
