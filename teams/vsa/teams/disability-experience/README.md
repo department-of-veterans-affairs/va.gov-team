@@ -30,7 +30,7 @@ At the highest level, the core disability experience team is here to own, from t
 | Austin Price | Product Manager | austin.price@coforma.io | austinjprice |
 | Sarah Shields | Delivery Manager | sarah.shields@coforma.io | sortizsh |
 | Micah Frazier | Engineer | micah.frazier@oddball.io | micahaspyr |
-| Sam Stuckey | Engineer | sam.stuckey@oddball.io | TBD |
+| Sam Stuckey | Engineer | sam.stuckey@oddball.io | SamStuckey |
 | Nathan Burgess  | Engineer | nathan.burgess@coforma.io | NB28VT |
 | Thomas Blackwell | Engineer | thomas.blackwell@coforma.io | tblackwe |
 | Julie Pedtke | Research and Design | julie.pedtke@coforma.io | juliepedtke |
