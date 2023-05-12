@@ -55,6 +55,8 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 #### ⚠️ Error states
 
+- [FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/full-page-error-FE-documentation.md)
+
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
 | ⚠️ User gets `GET /user/` API error | Entire My VA page should show an error | no | 1111 |
