@@ -156,8 +156,8 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
 | User has **no** unread messages and **no** upcoming appointments | Show "You have no upcoming appointments to show", and **left-aligned** secondary links [Send a secure message to your health care team](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging), [Schedule and manage your appointments](https://va.gov/health-care/schedule-view-va-appointments/appointments), [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions), [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/), and [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data)| yes, but needs to be updated | 1111 |
-| User has unread message(s) and **no** upcoming appointments | 👆 same as above, but secondary links should be **right-aligned** secondary | yes| |
-| User has unread message(s) and has upcoming appointment(s) | Show warning alert above Next appointment card, and **right-aligned** secondary links 👆 same as above | no | 1111 |
+| User has unread message(s) and **no** upcoming appointments | Show warning alert above "You have no upcoming appointments to show", secondary links 👆 same as above, but omit [Send a secure message](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging), and should be **right-aligned** secondary | yes | |
+| User has unread message(s) and has upcoming appointment(s) | Show warning alert above Next appointment card, and **right-aligned** secondary links 👆 same as above, but omit both [Send a secure message](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging), [Schedule and manage your appointments](https://va.gov/health-care/schedule-view-va-appointments/appointments) | no | 1111 |
 
 #### ⚠️ Error states
 
