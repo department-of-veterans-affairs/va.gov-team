@@ -24,7 +24,7 @@ At the highest level, the core disability experience team is here to own, from t
 | Aurora Hampton | Engineer | aurora.hampton@agile6.com | ahay-agile6 |
 | Eddie Glenn | Engineer | eddieglenn@navapbc.com | navaeddie |
 | Seth Darr | Engineer | seth.darr@agile6.com | sethdarragile6 |
-| Anneliese LaTempa | Delivery Manager | anneliese.latempa@agile6.com | alatemp24 |
+| Anneliese LaTempa | Delivery Manager | anneliese.latempa@agile6.com | alatempa24 |
 | Christine Cereca | Engineer | christine@cityfriends.tech | christinec-fftc |
 | Mark Chae | Engineer | markchae@navapbc.com | mchae-nava |
 
