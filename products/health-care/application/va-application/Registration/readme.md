@@ -1,17 +1,25 @@
 # Initiative Brief - 10-10EZ Registration Path
 
 ## Outcome Summary
-Provide Active Duty Service Members and Veterans who want to register for VA health care, but do not want to enroll.
+Provide Active Duty Service Members and Veterans who want to register for VA health care, but do not want to or are unable/ineligible to enroll.
 
-**Related/Associated Product(s)
-- Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
-- Epic | [Registration Path #43221](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43221)
+**Related/Associated Product(s) and Resources
+- [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
+- [Epic - Registration Path #43221](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43221)
+- [VHA Directive (amended January 10, 2023)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Registration/Registration%20and%20Enrollment%20directive%20-%201601A_01(1)_D_2020-07-07.pdf)
+     - Definitions:
+          - **Registration**: Adding a Veteran or Patient into ES or the VA's electronic health record for the purpose of receiving services at a VA medical facility.  Registration in ES must be completed prior to enrollment.
+          - **Veteran**: A person who Served in the active military, naval, or air service and was discharged or released from service under conditions other than dishonorable.
+
+
 
 ## Problem
 There is an interest from the HEC (Health Eligibilty Center) and VEO (Veteran Experience Office) stakeholders to include a registration-only pathway for the online 10-10EZ application.
 
+**_We need more information on why Registration is used as opposed to enrollment, and what benefit is being provided/problem is being solved**_
+
 ## Desired User Outcomes
-- Provide Veterans the ability to complete the 10-10EZ form prior to their separation date and be confident the application will be processed once they have left service.
+- Provide Active-Duty Service members and Veterans the ability to register for VA medical care without enrolling in VA Health Care
 - 
 
 ## Undesired User Outcomes
@@ -61,15 +69,29 @@ These are the following confirmed use cases for registration over enrollment.
 - Employees (Veterans and non-Veterans)
 - Humanitarian cases
 
+### Outstanding questions
+- What benefit does "registering" provide?
+- Confirm - this is for both Active Duty Service Members **and** Veterans?
+- Can a Veteran in good health with no service-connected disabilties or injuries be eligible for VA Health Care or at least obtain care at a VA medical facility?
+     - Does their discharge character impact whether they can receive this care?
+- How do Service Members/Veterans know if they need to complete the 10-10EZ for "Registration Only"?
+     - Do they understand why/what scenario they are in that calls for the Reg Only pathway, especially as opposed to enrollment? 
+- What are the current volumes of monthly registration vs enrollment applications?
+     - What are the volumes of registration approvals, follow-ups (if any) and denials?
+     - What are the top 3-5 scenarios/use cases with the most registration-only applications?
 
 ### Assumptions/Risks
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Applicants will not understand the difference between Enrollment and Registration, and which applies to them
+
+
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - Applicants will not understand the difference between Enrollment and Registration, and which applies to them
+
+
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Examples:
     - Upstream/Downstream API/Data availability and reliability
