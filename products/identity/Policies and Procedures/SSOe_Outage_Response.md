@@ -1,5 +1,11 @@
 # SSOe Outage on VA.gov
 
+### Version History
+| Version Number | Author(s)                                              | Revision Date | Description of Change                                                                      |
+|----------------|--------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------|
+|       0.1      | Joe Niquette |    5/12/23    | Initial creation, approval verbally given to team by Chris Johnston. This document formally acknowledges that approval by the PR approval of Thomas Black.                                                                           |
+|            |                                           |       | 
+
 ## Background
 
 [VA.gov](http://va.gov/) currently has two options to broker authentication for users in production. The current main authentication broker is called SSOe and supported by a technology called ISAM. The second authentication broker solution is called Sign in Service and was created and is maintained by VA.
