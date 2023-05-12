@@ -7,6 +7,7 @@
 - **Skyler Schain**, UX Designer on Benefits
 - **Rocio De Santiago**, Front end developer on Benefits Decision Reviews
 - **Kate Murphy**, Product Designer | Disability Benefits Experience 2, Non-disability benefits experience, Dependents experience
+- **Charlotte Cesana**, Debt Resolution, Senior UX Researcher
 
 ### Tester, Level 2
 - **Robert Bailey (Bobby)**, UX/UI Researcher and Designer on the Medical Records team 
