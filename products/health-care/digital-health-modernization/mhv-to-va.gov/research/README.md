@@ -34,11 +34,7 @@ For a view of the roadmap of current and upcoming research, visit the Research o
 - [Prescription Refill Status usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/mhv-prescription-refill/2022-medication-refill-statuses/Research) (December 2022)
 
 ## Appointments research
-- [After Visit Summary (AVS) usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/research/2022-04-MVP-Usability) (April 2023)
-- [Appointments Lists usability testing with screenreader users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2023-02-appt-list-usability-screenreader) (March 2023)
-- [Provider-based Scheduling Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-12-provider-based-multi-modality-scheduling-discovery) (December 2022)
-- [Appointments redesign list usability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-09-appts-list-usability) (September 2022)
-- [Appointments Lists Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-01-mhv-and-vaos-appts-list-discovery/research-plan.md) (January 2022)
+For relevant appointments research, visit the [Appointments Research on VA.gov page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md). 
 
 ## Preferences and Notifications research
 
