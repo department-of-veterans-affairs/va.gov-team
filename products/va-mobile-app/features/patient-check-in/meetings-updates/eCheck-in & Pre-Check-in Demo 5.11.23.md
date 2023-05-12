@@ -12,7 +12,7 @@ Recording: [Zoom Recording](https://us06web.zoom.us/rec/share/ARVRBZKI0BkCorVNdd
 
 - [ ] Make decision on the user experience that will be built for mobile
     - [ ]  Scenario 1: Check-in w/pre-registration tasks 
-    - [ ]  Scenario 2: Check-in w/pre-registration tasks (Veteran would only receive check in option if they have completed and said Yes to all pre-registration tasks.  This idea was shared by Stephen as a possible MVP experience
+    - [ ]  Scenario 2: Check-in w/out pre-registration tasks (Veteran would only receive check in option if they have completed and said Yes to all pre-registration tasks.  This idea was shared by Stephen as a possible MVP experience
 Action Item:  Ryan asked that the mobile team provide the LOE to implement the 2 experiences 
 
 - [ ] Is Push Notification required for MVP? The team discussed Push Notification and what that may entail.  Rachel/Ryan mentioned the need for Push Notification for MVP as this will be an avenue of making Veterans aware that the feature is avail in the app
