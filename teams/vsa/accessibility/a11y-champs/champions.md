@@ -6,9 +6,11 @@
 - **Heather Widmont**, Scrum Master VA Benefits Team 1
 - **Skyler Schain**, UX Designer on Benefits
 - **Rocio De Santiago**, Front end developer on Benefits Decision Reviews
+- **Kate Murphy**, Product Designer | Disability Benefits Experience 2, Non-disability benefits experience, Dependents experience
 
 ### Tester, Level 2
 - **Robert Bailey (Bobby)**, UX/UI Researcher and Designer on the Medical Records team 
+- **Jonathan Nelson**, UX designer on the MHV to VA.gov team
 
 ### Advocate, Level 3
 
@@ -25,7 +27,7 @@
 - josh.kim@adhocteam.us, [LinkedIn](https://www.linkedin.com/in/joshkimux/)
 - Can answer questions on qualitative research, disability justice, and trauma-informed design
 
-**Liz Lantz**, Designer on Authenticated Experience
+**Liz Lantz**, UX designer and researcher on the Authenticated Experience team
 - liz.lantz@adhocteam.us
 
 **Sara Smith**, 508 Accessibility Specialist
