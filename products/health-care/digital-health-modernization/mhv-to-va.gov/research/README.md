@@ -9,7 +9,7 @@ For a view of the roadmap of current and upcoming research, visit the Research o
 - [MHV on VA.gov Round 2 Initial Prototype Usability Research/ Proof of Concept - mobile users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability) (May 2022)
 
 ## MHV on VA.gov content and information architecture research
-- [My Health IA Tree Test](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1) (January 2023)
+- [My Health IA Tree Test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-01-my-health-ia-tree-test/research-plan.md) (January 2023)
 - [2022 Health Apt Tree Test - Health Hub, Health Apartment, Deeper Navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1) (December 2022)
 - [2022 Health Hub Tree Test - Navigating "get" vs. "manage" health benefits in Health Hub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1) (July 2022)
 
