@@ -11,6 +11,7 @@
 |Pre 2023 Documents|Majority of Github documents for 526ez were about 3 years old and were moved to the archive folder |[Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/archive)|2019 and older|
 |eVSS to LH migration status|Agenda for the biweekly touchpoint as well as status of each endpoint migration|[Link](https://community.max.gov/pages/viewpage.action?spaceKey=VAExternal&title=Lighthouse+-+VA.gov+Touchpoint+Topics)||
 |Platform Tools|List of each VA tool and how to obtain access|[Link](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-tools)||
+|Model/Flow Board|Mural board for flow diagrams related to 526ez|[Link](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1683913843847?sender=u1dc3a1dc47390e0b38d61593&key=32140ed2-e82d-492a-b0b0-a77fe6a993ee)||
 
 
 ## Research
