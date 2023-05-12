@@ -27,6 +27,14 @@ At the highest level, the core disability experience team is here to own, from t
 | Anneliese LaTempa | Delivery Manager | anneliese.latempa@agile6.com | alatempa24 |
 | Christine Cereca | Engineer | christine@cityfriends.tech | christinec-fftc |
 | Mark Chae | Engineer | markchae@navapbc.com | mchae-nava |
+| Austin Price | Product Manager | austin.price@coforma.io | austinjprice |
+| Sarah Shields | Delivery Manager | sarah.shields@coforma.io | sortizsh |
+| Micah Frazier | Engineer | micah.frazier@oddball.io | micahaspyr |
+| Sam Stuckey | Engineer | sam.stuckey@oddball.io | TBD |
+| Nathan Burgess  | Engineer | nathan.burgess@coforma.io | NB28VT |
+| Thomas Blackwell | Engineer | thomas.blackwell@coforma.io | tblackwe |
+| Julie Pedtke | Research and Design | julie.pedtke@coforma.io | juliepedtke |
+
 
 ## Product outline
 
