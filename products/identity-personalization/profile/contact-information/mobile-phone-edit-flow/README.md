@@ -72,13 +72,17 @@ GA of how often someone enters into the new workflow
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Users leverage the current functionality, we're changing how that current feature works to make it a better user experience, so yes users will continue to leverage it
+
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - This improves upon the current feature, since users have struggled when the feature in production navigates them to the contact information page, this is an attempt to reduce some of the context switching an end user may experience.  
+
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Examples:
     - Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+
+We've built this and it's in staging currently. 
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Examples: 
@@ -89,6 +93,9 @@ GA of how often someone enters into the new workflow
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
 
+We're creating this new flow that can be used for other updates to key information in the profile. This could theoretically be used at other locations accross va.gov 
+We will expand this functionality to allow users to update email and other items, but for now we're beginning with just the mobile phone number updates. 
+
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
@@ -98,12 +105,12 @@ GA of how often someone enters into the new workflow
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58231)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) 
 
 #### Initiative Launch Dates
 - *Target Launch Date*
