@@ -18,23 +18,28 @@ Please provide the following information about the individual being offboarded:
 - name:
   > Janet Doe
 - team name:
-  > 
+  >
 - role on team:
-  > 
+  >
 - expected last day: _(MM/DD/YYYY)_
-  > 
+  >
 - company they work for:
-  > 
+  >
 - email: _(Multiple emails listed in order of relevance to VA business, VA, Company, Personal, etc....)_
-  > 
+  >
 - GitHub username: _(Please include @ symbol)_
-  > 
+  >
 - additional access they may have: _(First line formatted with access titles only. Additional notes may be added on second line after the list.)_
   > ex: SOCKS, Pagerduty, Google analytics, etc.
- 
- 
+
+
+:raised_hands: :tada: All done. Don't fill out or modify anything below here. :tada: :raised_hands:
+
+
 ## Acceptance Criteria
-*The following steps are performed by the Platform Support team. Detailed instructions found [here](https://vfs.atlassian.net/wiki/spaces/OT/pages/2097545323/Offboard+Team+Member)*
+
+_The following steps are performed by the **Platform Support** team. Detailed instructions found [here](https://vfs.atlassian.net/wiki/spaces/OT/pages/2097545323/Offboard+Team+Member)_
+
  - [ ] Requested removal from DSVA Slack (if applicable. Search for them in Slack)
    > A comment on this ticket prefixed with `/request` (i.e. `/request FirstName LastName`) will send a message to the Slack admins automatically!
  - [ ] Requested removal from Confluence (if applicable. Check [confluence members](https://vfs.atlassian.net/wiki/people/search?q=))
