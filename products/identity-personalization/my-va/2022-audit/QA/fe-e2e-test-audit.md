@@ -43,7 +43,7 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| User signs in and is only LOA1 | Show prompt (warning alert) with headline "Verify your identity...", body copy "We need to make sure you're you...", CTA button [Verify your identity](), and "Apply for VA benefits" section below. Do not show Outstanding debts and Benefit payments sections. | yes, but needs update for outdated `viewport` method. |  |
+| User signs in and is only LOA1 | Show prompt (warning alert) with headline "Verify your identity...", body copy "We need to make sure you're you...", CTA button [Verify your identity](), and "Apply for VA benefits" section below. Do not show Outstanding debts and Benefit payments sections. | yes, but needs update for outdated `viewport` method. | 1111 |
 
 ---
 
@@ -59,7 +59,7 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| ⚠️ User gets `GET /user/` API error | Entire My VA page should show an error | no | 1111 |
+| ⚠️ User gets `GET /user/` API error | Entire My VA page should show an error | yes, but needs to be updated to match updated specs and copy | 1111 |
 
 ---
 
