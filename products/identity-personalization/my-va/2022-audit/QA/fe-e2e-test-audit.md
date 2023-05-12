@@ -9,27 +9,28 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 <!-- TOC -->
 
-  - [LOA1 user dashboard](#loa1-user-dashboard)
-  - [LOA3 user dashboard](#loa3-user-dashboard)
-  - [Nametag](#nametag)
-    - [⚠️ Error states](#️-error-states)
-  - [Onsite notifications](#onsite-notifications)
-    - [⚠️ Error states](#️-error-states-1)
-  - [Claims and appeals](#claims-and-appeals)
-    - [⚠️ Error states](#️-error-states-2)
-  - [Health care](#health-care)
-    - [Appointments](#appointments)
-    - [Messaging](#messaging)
-    - [Combinations](#combinations)
-    - [⚠️ Error states](#️-error-states-3)
-  - [Outstanding debts](#outstanding-debts)
-    - [⚠️ Error states](#️-error-states-4)
-  - [Benefit payments](#benefit-payments)
-    - [⚠️ Error states](#️-error-states-5)
-  - [Education and training](#education-and-training)
-  - [Benefit application drafts](#benefit-application-drafts)
-    - [⚠️ Error states](#️-error-states-6)
-  - [My VA redirect from homepage only](#my-va-redirect-from-homepage-only)
+    - [LOA1 u[ser dashboard](#loa1-user-dashboard)
+    - [LOA3 user dashboard](#loa3-user-dashboard)
+      - [⚠️ Error states](#-error-states)
+    - [Nametag](#nametag)
+      - [⚠️ Error states](#-error-states)
+    - [Onsite notifications](#onsite-notifications)
+      - [⚠️ Error states](#-error-states)
+    - [Claims and appeals](#claims-and-appeals)
+      - [⚠️ Error states](#-error-states)
+    - [Health care](#health-care)
+      - [Appointments](#appointments)
+      - [Messaging](#messaging)
+      - [Combinations](#combinations)
+      - [⚠️ Error states](#-error-states)
+    - [Outstanding debts](#outstanding-debts)
+      - [⚠️ Error states](#-error-states)
+    - [Benefit payments](#benefit-payments)
+      - [⚠️ Error states](#-error-states)
+    - [Education and training](#education-and-training)
+    - [Benefit application drafts](#benefit-application-drafts)
+      - [⚠️ Error states](#-error-states)
+    - [My VA redirect from homepage only](#my-va-redire]ct-from-homepage-only)
 
 <!-- /TOC -->
 
@@ -52,6 +53,12 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 | -- | -- | -- | -- |
 | User signs in and is LOA3 | Show all sections whether they are empty or not: Claims and appeals, Health care, Outstanding debts, Benefit payments, Education and training, Benefit application drafts | yes, but needs to include more axeCheck calls and update for outdated `viewport` method. I think we can also remove any Nametag tests into its own file. | 1111 |
 
+#### ⚠️ Error states
+
+| Test case | User flow | Test? | Ticket |
+| -- | -- | -- | -- |
+| ⚠️ User gets `GET /user/` API error | Entire My VA page should show an error | no | 1111 |
+
 ---
 
 ### Nametag
@@ -66,7 +73,7 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 | User is LOA3 | Show Nametag | yes | |
 | User has disability rating and branch of service | Show Nametag with name, branch of service, and "[Your disability rating: x% service connected](https://www.va.gov/disability/view-disability-rating/rating)" | yes, but need to include intersections of disability w branch | 1111 |
 | User has no disability rating but has branch of service | Show Nametag with name and branch of service | yes, but need to include intersections of disability w branch | 1111 |
-| _User has disability rating but no branch of service_ | _does having a branch of service imply user also has disability rating?_ |  | 1111 |
+| _User has disability rating but no branch of service_ | _does having a branch of service imply user also has disability rating?_ | tbd | 1111 |
 | User has no branch of service | Show Nametag with name only (no disability rating)| no | 1111 |
 | User has no disability rating AND no branch of service | 👆 same as above | yes, but need to include intersections of disability w branch | 1111 |
 
@@ -154,7 +161,7 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| User encounters /user/ API call error | Show error alert with headline "We can't access any health care inforamtion right now." and copy "We're sorry. Something went wrong on our end. If you get health care through VA, you can go to My HealtheVet to access your health care information. [Visit My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)" |  | 1111 |
+| User encounters /user/ API call error | Show error alert with headline "We can't access any health care inforamtion right now." and copy "We're sorry. Something went wrong on our end. If you get health care through VA, you can go to My HealtheVet to access your health care information. [Visit My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)" | see [LOA3 user dashboard](#loa3-user-dashboard) section | 1111 |
 | User gets health care API error and has unread messages | Show unread messages notification, error alert, and right-aligned secondary links: [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions), [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/), and [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data) | yes, but needs to be cleaned up (dupe code) and updated to check for messages | 1111 |
 | User gets health care API error and has **no** unread messages | Show error alert and left-aligned secondary links: [Send a secure message to your health care team](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging), [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions), [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/), and [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data) | yes | |
 | User gets messaging API error, regardless of having upcoming appointments or not | Do not show error alert, but include secondary link [Send a secure message to your health care team](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging) in list of links | no | 1111 |
@@ -216,7 +223,7 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| User is LOA3 | Show left-aligned secondary links under header: [Learn how to apply for VA education benefits](https://va.gov/education/how-to-apply/), [Compare GI Bill benefits by school](https://va.gov/education/gi-bill-comparison-tool), [Check your Post-9/11 GI Bill benefits](https://va.gov/education/gi-bill/post-9-11/ch-33-benefit/status) |  | 1111 |
+| User is LOA3 | Show left-aligned secondary links under header: [Learn how to apply for VA education benefits](https://va.gov/education/how-to-apply/), [Compare GI Bill benefits by school](https://va.gov/education/gi-bill-comparison-tool), [Check your Post-9/11 GI Bill benefits](https://va.gov/education/gi-bill/post-9-11/ch-33-benefit/status) | no | 1111 |
 
 ---
 
@@ -228,17 +235,16 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| "What benefits does VA offer?" drop-down is shown | Show additional info component directly below the "Benefit application drafts" header. When opened, show the following links: [Health care](https://va.gov/health-care/), [Education and training](https://va.gov/education/), [Disability compensation](https://va.gov/disability/), [Careers and employment](https://va.gov/careers-employment/), [Pension](https://va.gov/pension/), [Housing assistance](https://va.gov/housing-assistance/), [Burials and memorials](https://va.gov/burials-memorials/), [Life insurance](https://va.gov/life-insurance/), [Service member benefits](https://va.gov/service-member-benefits/), [Family member benefits](https://va.gov/family-member-benefits/) |  | 1111 |
-| User has started an application for benefit but hasn't submitted | Show Benefit application draft card - form code, application type, expiration date, last opened date, active link [Continue your application]() |  | 1111 |
-| User has multiple benefit application drafts | Show Benefit application draft cards side by side, max two per row |  | 1111 |
-| User has no benefit application drafts | Show copy "You have no benefit applications to show." |  | 1111 |
-| User has no benefit application drafts | Show copy "You have no benefit applications to show." |  | 1111 |
+| "What benefits does VA offer?" drop-down is shown | Show additional info component directly below the "Benefit application drafts" header. When opened, show the following links: [Health care](https://va.gov/health-care/), [Education and training](https://va.gov/education/), [Disability compensation](https://va.gov/disability/), [Careers and employment](https://va.gov/careers-employment/), [Pension](https://va.gov/pension/), [Housing assistance](https://va.gov/housing-assistance/), [Burials and memorials](https://va.gov/burials-memorials/), [Life insurance](https://va.gov/life-insurance/), [Service member benefits](https://va.gov/service-member-benefits/), [Family member benefits](https://va.gov/family-member-benefits/) | no | 1111 |
+| User has started an application for benefit but hasn't submitted | Show Benefit application draft card - form code, application type, expiration date, last opened date, active link [Continue your application]() | yes, but we should update the names of these test (currently `benefits-of-interest.cypress.spec.js` and `in-progress-forms.cypress.spec.js`) | |
+| User has multiple benefit application drafts | Show Benefit application draft cards side by side, max two per row | yes, but we should test for >2 applications | 1111 |
+| User has no benefit application drafts | Show copy "You have no benefit applications to show." | yes |  |
 
 #### ⚠️ Error states
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| Main user API call fails | Entire My VA should show an error |  | 1111 |
+| Main user API call fails | Entire My VA should show an error | see [LOA3 user dashboard](#loa3-user-dashboard) section | 1111 |
 
 ---
 
@@ -246,16 +252,16 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| **Unauthenticated user**: User has not signed in to VA.gov | User is shown My VA in the main navigation below the 'Sign in' button, if clicked on it should prompt the user to sign in. Once logged in it will take them to directly to My VA. |  | 11111 |
-| Log in with Login.gov | From the VA.gov homepage, user clicks the sign-in button, clicks the Login.gov sign-in option and proceeds through the Login.gov sign-in process. After successful authentication they land on My VA |  | 1111 | 
-| Log in with ID.me | 👆 same as above through the ID.me sign-in process |  | 1111 |
-| Log in with DS Logon | 👆 same as above through the DS Logon sign-in process |  | 1111 | 
-| Log in with My HealtheVet | From the VA.gov homepage, user clicks the sign in button, then they click the My HealtheVet sign-in option and proceeds through the DS Logon sign-in process. After successful authentication they land on My VA |  | 1111 | 
-| NO Redirect from any page on VA.gov that is not the homepage with Login.gov sign-in | Post sign-in with Login.gov from any page on VA.gov that is not the homepage, user does NOT land on My VA |  | 1111 | 
-| 👆 same as above through the ID.me sign-in process |  |  | 1111 | 
-| 👆 same as above through the DS Logon sign-in process |  |  | 1111 | 
-| 👆 same as above through the MyHealtheVet sign-in process |  |  | 1111 | 
-| Redirect from deep-linking to a page requiring authentication with Login.gov sign-in | Example: User goes to https://staging.va.gov/profile, selects the Login.gov option when prompted for sign-in, and proceeds through the Login.gov sign-in process. After successful authentication they land on the "Profile" page and is NOT redirected to My VA |  | 1111 | 
-| 👆 same as above through the ID.me sign-in process |  |  | 1111 | 
-| 👆 same as above through the DS Logon sign-in process |  |  | 1111 | 
-| 👆 same as above through the MyHealtheVet sign-in process |  |  | 1111 | 
+| **Unauthenticated user**: User has not signed in to VA.gov | User is shown My VA in the main navigation below the 'Sign in' button, if clicked on it should prompt the user to sign in. Once logged in it will take them to directly to My VA. | no | 11111 |
+| Log in with Login.gov | From the VA.gov homepage, user clicks the sign-in button, clicks the Login.gov sign-in option and proceeds through the Login.gov sign-in process. After successful authentication they land on My VA | no | 1111 | 
+| Log in with ID.me | 👆 same as above through the ID.me sign-in process | no | 1111 |
+| Log in with DS Logon | 👆 same as above through the DS Logon sign-in process | no | 1111 | 
+| Log in with My HealtheVet | From the VA.gov homepage, user clicks the sign in button, then they click the My HealtheVet sign-in option and proceeds through the DS Logon sign-in process. After successful authentication they land on My VA | no | 1111 | 
+| NO Redirect from any page on VA.gov that is not the homepage with Login.gov sign-in | Post sign-in with Login.gov from any page on VA.gov that is not the homepage, user does NOT land on My VA | no | 1111 | 
+| 👆 same as above through the ID.me sign-in process |  | no | 1111 | 
+| 👆 same as above through the DS Logon sign-in process |  | no | 1111 | 
+| 👆 same as above through the MyHealtheVet sign-in process |  | no | 1111 | 
+| Redirect from deep-linking to a page requiring authentication with Login.gov sign-in | Example: User goes to https://staging.va.gov/profile, selects the Loginå.gov option when prompted for sign-in, and proceeds through the Login.gov sign-in process. After successful authentication they land on the "Profile" page and is NOT redirected to My VA | no | 1111 | 
+| 👆 same as above through the ID.me sign-in process |  | no | 1111 | 
+| 👆 same as above through the DS Logon sign-in process |  | no | 1111 | 
+| 👆 same as above through the MyHealtheVet sign-in process |  | no | 1111 | 
