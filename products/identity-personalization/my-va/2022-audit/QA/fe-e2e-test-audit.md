@@ -8,6 +8,7 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 ## Table of contents
 
 <!-- TOC -->
+
   - [LOA1 user dashboard](#loa1-user-dashboard)
   - [LOA3 user dashboard](#loa3-user-dashboard)
   - [Nametag](#nametag)
@@ -74,7 +75,7 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
 | ⚠️ User gets legal/full name API error | Do not show Nametag | no | 1111 |
-| ⚠️ User gets disability rating API error | Show Nametag with name, branch of service, **no** disability rating, and an active link "View disability rating" (check w Angela) | yes | 1111 |
+| ⚠️ User gets disability rating API error | Show Nametag with name, branch of service, **no** disability rating, and an active link "View disability rating" (check w Angela) | yes | |
 | ⚠️ User gets military info API error | Show Nametag with name, disability rating (if applicable). Do not show military branch or branch name. | no | 1111 |
 
 ---
@@ -167,22 +168,21 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| Outstanding debts section should show for all LOA3 users | Show Outstanding debts header |  | 1111 |
-| User has overpayment debt(s) AND copay bill(s) | Show both cards and always show the debts card first, then the copays card. On desktop, the cards should be side by side. On mobile they should stack with copays on the bottom. ![https://user-images.githubusercontent.com/97965610/202773989-1aca5ea2-616f-4e05-893a-ecef1c48eb4d.png](https://user-images.githubusercontent.com/97965610/202773989-1aca5ea2-616f-4e05-893a-ecef1c48eb4d.png) Don't show "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)". |  | 11111 |
-| User has no overpayment debts AND no copay bills | User is shown the copy "You have no overpayment debts or copays to show." with a secondary link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)", both left-aligned |  | 1111 |
-| User has debts AND no copay | User is shown a debt card and no secondary links |  | 1111 |
-| User has no debts but has copay bills | User is shown a copay card, with a secondary link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)", right-aligned |  | 1111 |
+| User has overpayment debt(s) AND copay bill(s) | Show both cards and always show the debts card first, then the copays card. On desktop, the cards should be side by side. On mobile they should stack with copays on the bottom. ![https://user-images.githubusercontent.com/97965610/202773989-1aca5ea2-616f-4e05-893a-ecef1c48eb4d.png](https://user-images.githubusercontent.com/97965610/202773989-1aca5ea2-616f-4e05-893a-ecef1c48eb4d.png) Don't show "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)". | yes, but needs to check that Learn about VA debt link does not exist | 11111 |
+| User has no overpayment debts AND no copay bills | User is shown the copy "You have no overpayment debts or copays to show." with a secondary link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)", both left-aligned | yes |  |
+| User has debts AND no copay | User is shown a debt card and no secondary links | yes, but need to check for no secondary links | 1111 |
+| User has no debts but has copay bills | User is shown a copay card, with a secondary link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)", right-aligned | yes, but need to check for secondary link | 1111 |
 
 #### ⚠️ Error states
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| ⚠️ User gets a copay or debt API error (one or both fail) AND has no copay or debt card to show | Show one error message, secondary link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)" should be left-aligned |  | 1111 |
-| ⚠️ User gets a **debt** API error AND has a **copay** card to show | Show error alert and show the copay card.  Secondary link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)" should be right-aligned |  | 1111 |
-| ⚠️ User gets a **debt** API error AND has no copays |  👆 same as above (with right-aligned secondary link) but no copay card  |  | 1111 |
-| ⚠️ User gets a **copay** API error AND has no debts |  👆 same as above (with right-aligned secondary link) but no debt card |  | 1111 |
-| ⚠️ User gets a **copay** API error AND has a **debt** card to show | Show error alert and show the debt card. **Don't show** link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)". |  | 1111 |
-| ⚠️ User gets both **copay** API error AND **debt** API error | Show one error alert. Secondary link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)" should be left-aligned |  | 1111 |
+| ⚠️ User gets a copay or debt API error (one or both fail) AND has no copay or debt card to show | Show one error message, secondary link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)" should be left-aligned | yes | |
+| ⚠️ User gets a **debt** API error AND has a **copay** card to show | Show error alert and show the copay card.  Secondary link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)" should be right-aligned | yes | |
+| ⚠️ User gets a **debt** API error AND has no copays |  👆 same as above (with right-aligned secondary link) but no copay card  | yes | |
+| ⚠️ User gets a **copay** API error AND has no debts |  👆 same as above (with right-aligned secondary link) but no debt card | yes | |
+| ⚠️ User gets a **copay** API error AND has a **debt** card to show | Show error alert and show the debt card. **Don't show** link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)". | yes | |
+| ⚠️ User gets both **copay** API error AND **debt** API error | Show one error alert. Secondary link "[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)" should be left-aligned | yes | |
 
 ---
 
@@ -193,18 +193,18 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| Benefit payments section should show for all LOA3 users | Show Benefit payments header and secondary link "[Manage your direct deposit information](https://www.va.gov/profile/direct-deposit)". |  | 1111 |
-| User has no payment cards to show | Show copy "", and secondary link "[Manage your direct deposit information](https://www.va.gov/profile/direct-deposit)", should be left-aligned. |  | 1111 |
-| User has no payment cards to show, but has received payments in the past (more than 60 days ago) | 👆 same as above, with secondary link "[Review your payment history](https://www.va.gov/va-payment-history/payments)", below "Manage your direct deposit info" |  | 1111 |
-| User has never received a payment | 👆 same as above, (with Manage your direct deposit information link) but **do not show** secondary link "[Review your payment history](https://www.va.gov/va-payment-history/payments)" |  | 1111 |
-| User has received a payment in the last 60 days | Show payment card with dollar amount, type of payment, whether it was deposited or mailed, and active link [Review your payment history](https://www.va.gov/va-payment-history/payments). Show secondary link "[Manage your direct deposit information](https://www.va.gov/profile/direct-deposit)", should be right-aligned. |  | 1111 |
-| User has multiple payments in the same day | 👆 same as above, but only one card for the most recent payment.|  | 1111 |
+| Benefit payments section should show for all LOA3 users | Show Benefit payments header and secondary link "[Manage your direct deposit information](https://www.va.gov/profile/direct-deposit)". | yes (see [LOA3 user dashboard](#loa3-user-dashboard) section) | |
+| User has no payment cards to show | Show copy "You have no recent payments to show.", and secondary link "[Manage your direct deposit information](https://www.va.gov/profile/direct-deposit)", should be left-aligned. |  | 1111 |
+| User has no payment cards to show, but has received payments in the past (more than 60 days ago) | 👆 same as above, with secondary link "[Review your payment history](https://www.va.gov/va-payment-history/payments)", below "Manage your direct deposit info" | yes | |
+| User has never received a payment | 👆 same as above, (with Manage your direct deposit information link) but **do not show** secondary link "[Review your payment history](https://www.va.gov/va-payment-history/payments)" | yes | |
+| User has received a payment in the last 60 days | Show payment card with dollar amount, type of payment, whether it was deposited or mailed, and active link [Review your payment history](https://www.va.gov/va-payment-history/payments). Show secondary link "[Manage your direct deposit information](https://www.va.gov/profile/direct-deposit)", should be right-aligned. | yes | |
+| User has multiple payments in the same day | 👆 same as above, but only one card for the most recent payment.| no | 1111 |
 
 #### ⚠️ Error states
 
 | Test case | User flow | Test? | Ticket |
 | -- | -- | -- | -- |
-| ⚠️ User gets a payment API error AND has a **debt** card to show | Show error alert with headline "**We can't access your payment history**", and body "We're sorry. We can't access your payment history right now. We're working to fix this problem. Please check back later.". Secondary link "[Manage your direct deposit information](https://www.va.gov/profile/direct-deposit)", should still appear and be left-aligned. Show secondary link <a herf="https://www.va.gov/va-payment-history/payments">Review your payment history</a> below, only if user has received payments in the past (more than 60 days ago). |  | 1111 |
+| ⚠️ User gets a payment API error | Show error alert with headline "**We can't access your payment history**", and body "We're sorry. We can't access your payment history right now. We're working to fix this problem. Please check back later.". Secondary link "[Manage your direct deposit information](https://www.va.gov/profile/direct-deposit)", should still appear and be left-aligned. Show secondary link <a herf="https://www.va.gov/va-payment-history/payments">Review your payment history</a> below, only if user has received payments in the past (more than 60 days ago). | yes |  |
 
 ---
 
