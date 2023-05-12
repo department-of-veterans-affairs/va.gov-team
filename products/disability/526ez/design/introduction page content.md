@@ -59,7 +59,7 @@ Make sure you meet our eligibility requirements before you apply. You may be eli
 
 This digital form was designed to help you complete the form efficiently. You will be able to answer the questions relevant to you, upload digital documents, save your progress, and track the status of your claim after submission. The time it takes to complete this will depend on the number of conditions you are claiming and the number of documents that you upload. You can save and come back to the application at any time.
 
-You may wish to contact an accredited veterans service officer (VSO) to assist you with your application. [Here is a list.](https://www.va.gov/ogc/recognizedvsos.asp) If you need further assistance with the application process, you may also [contact your state office of veterans affairs](https://www.va.gov/statedva.htm). 
+You may wish to [contact an accredited veterans service officer (VSO)](https://www.va.gov/ogc/recognizedvsos.asp) to assist you with your application. If you need further assistance with the application process, you may also [contact your state office of veterans affairs](https://www.va.gov/statedva.htm). 
 
 [Learn about other ways you can file a disability claim](https://www.va.gov/disability/how-to-file-claim/)
 
