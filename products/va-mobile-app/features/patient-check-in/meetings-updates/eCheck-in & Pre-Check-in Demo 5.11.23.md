@@ -23,4 +23,6 @@ Action Item:  Ryan asked that the mobile team provide the LOE to implement the 2
        -  Updating SMS text messaging to advise Veterans they can use the app
        -  What coordination would be needed with Vetext/VANotify to make changes to or add new push
 
+- Web and Mobile to review what the lift would be for both teams to support the requirements (i.e. changing of poster, updating SMS text, if mobile were to go with scenario 2, would this require any changes API, etc)
+
 The above decisions and questions will be added to the decision log. 
