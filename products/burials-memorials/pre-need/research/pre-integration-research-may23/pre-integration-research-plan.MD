@@ -6,7 +6,11 @@ Briefly describe the background of your product. Consider:
 - Where is your product situated on VA.gov? (ex: auth vs. unauth)
 - What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-[Link to product brief](url goes here).
+The National Cemetery Administration (NCA) is working to modernize its systems, including the system that processes pre-Need applications for determining eligibility for burial in a VA national cemetery (VA Form 40-10007). Presently, pre-need cases are processed in the newly-modernized system and in the legacy system. Analysits are swiveling between the two systems to manage cases, which impacts timeliness measures for Eligibility Office (EO) analysts and Scheduling Office (SO) agents at the National Cemetery Scheduling Office (NCSO). Ultimately, users applying for pre-need are impacted, as eligibility determinations are delayed due to longer proccessing times.
+
+The Application for Pre-Need Eligibility Determination (VA Form 40-10007) is offered to users as both authorized/unauthorized experiences, and it is accessible through the Burials and Memorials hub page. 
+
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/initiative-brief.md). 
 
 ### OCTO Priorities 
 
