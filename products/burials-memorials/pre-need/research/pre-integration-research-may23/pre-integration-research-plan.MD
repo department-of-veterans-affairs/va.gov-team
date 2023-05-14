@@ -16,7 +16,7 @@ This research supports the following 2023 OCTO objectives:
 1. Enhance Veterans’ personalized online experience
 
 ### Veteran Journey
-The Pre-Need application applies to life stages from Serving onward to Dying, as service members, Veterans, family members, and representatives may apply at any time to determine if applicants are eligible for burial in VA national cemeteries. 
+The Pre-Need application applies to life stages from **Serving** onward to **Dying**, as service members, Veterans, family members, and representatives may apply at any time to determine if applicants are eligible for burial in VA national cemeteries. 
 
 ## Research Goals	
 What are you trying to learn from this research? 
