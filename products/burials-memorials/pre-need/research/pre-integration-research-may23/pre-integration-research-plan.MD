@@ -5,7 +5,9 @@ The National Cemetery Administration (NCA) is working to modernize its systems, 
 
 The Application for Pre-Need Eligibility Determination (VA Form 40-10007) is offered to Veterans, service members, family members, and representatives as both authorized/unauthorized experiences, and it is accessible through the Burials and Memorials hub page. 
 
-Based on discovery research and the overall goals for the project, our plan is to release incremental enhancements in a "Pre-Integration" phase (before the application is integrated with related systems) due to limitations with the legacy system, and to release enhancements in an "Integration" phase in which the form will be fully integrated with modernized and legacy systems to allow for faster case processing.
+Based on discovery research and the overall goals for the project, our plan is to: 
+1. Release incremental enhancements in a "Pre-Integration" phase (before the application is integrated with related systems) due to limitations with the legacy system, **and to** 
+2. Release enhancements in an "Integration" phase in which the form will be fully integrated with modernized and legacy systems to allow for faster case processing
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/initiative-brief.md). 
 
@@ -18,8 +20,12 @@ The Pre-Need application applies to life stages from Serving onward to Dying, as
 
 ## Research Goals	
 What are you trying to learn from this research? 
+1. Learn how users experience pre-need determination through the VA.gov application, identifying if updates need to be made in the UI to address usability pain points from the user perspective.  
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+2. Understand how to provide applicants consistent options and user experience for data entry to avoid mistakes and speed up processing for Veterans and their families, increasing Pre-Need VA Form 40-10007 overall submission rates. 
+
+3. Learn from users about potential options and improvements in the user experience that would lead to a reduction in form entry errors, while using empathy in content considerations. 
+
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
