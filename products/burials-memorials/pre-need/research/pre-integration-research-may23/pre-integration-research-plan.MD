@@ -5,17 +5,16 @@ The National Cemetery Administration (NCA) is working to modernize its systems, 
 
 The Application for Pre-Need Eligibility Determination (VA Form 40-10007) is offered to Veterans, service members, family members, and representatives as both authorized/unauthorized experiences, and it is accessible through the Burials and Memorials hub page. 
 
-Based on discovery research and the overall goals for the project, uur plan is to release incremental enhancements in a "Pre-Integration" phase (before the application is integrated with related systems), and in an "Integration" phase in which 
+Based on discovery research and the overall goals for the project, our plan is to release incremental enhancements in a "Pre-Integration" phase (before the application is integrated with related systems) due to limitations with the legacy system, and to release enhancements in an "Integration" phase in which the form will be fully integrated with modernized and legacy systems to allow for faster case processing.
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/initiative-brief.md). 
 
 ### OCTO Priorities 
-
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
+This research supports the following 2023 OCTO objectives:
+1. Enhance Veterans’ personalized online experience
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+The Pre-Need application applies to life stages from Serving onward to Dying, as service members, Veterans, family members, and representatives may apply at any time to determine if applicants are eligible for burial in VA national cemeteries. 
 
 ## Research Goals	
 What are you trying to learn from this research? 
