@@ -11,7 +11,7 @@
   - Pension (21P-527EZ) 
 
 #### Error state 1
-- Issue: No response
+- Trigger: No response
 - Message: Enter your branch of service
 
 
