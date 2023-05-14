@@ -1,5 +1,4 @@
-# Research Plan for [VA Memorials Self-Service MBS, Application for Pre-Need Eligibility Determination (VA Form 40-10007), May 2023]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for VA Memorials Self-Service MBS Team, Application for Pre-Need Eligibility Determination (VA Form 40-10007), May 2023
 
 ## Background
 Briefly describe the background of your product. Consider:
