@@ -1,4 +1,8 @@
 # 10-10EZ Errors
+
+## Audit 
+[10-10EZ Error Messages - Content and Design Audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683651181051/e0f47b9aaefbf78a3942df3028525cdc4336caff?sender=uadf1ed7fe7c76f0914967329)
+
 ## Matrix
 This matrix contains abridged messaging and resolution for the errors that can be encountered in the form.  Please see the individual errors below for the full text.
 | Scenario | Abridged Message | Resolution |
