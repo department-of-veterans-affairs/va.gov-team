@@ -68,7 +68,7 @@ Weâ€™d like to recruit 9 participants for a total of 6-8 completed sessions. Weâ
 - Types: 
     * Three to four service members and Veterans 
      	- Age 55+, Black, male 
-    	- Age 35-54+, White, female, assistive tech user 
+    	- Age 35-54+, White, female
      	- Age 18-34, Hispanic, male 
     * One spouse or surviving spouse of a service member of Veteran (A **spouse** is a person who is or was legally married to a service member or Veteran. A **surviving spouse** is someone who was legally married to the service member or Veteran at the time of their death and includes a surviving spouse who remarried.)
      	- Any age, LGBTQ+, female
@@ -86,51 +86,65 @@ Weâ€™d like to recruit 9 participants for a total of 6-8 completed sessions. Weâ
 - Have an identified cognitive impairment (around 1 participant)
 
 **Screener questions to target criteria not captured in the recruitment sign-up survey:**
-1. Are you a Veteran, service-member, Veteran family member, or representative for a Veteran? 
-- If yes, go to question 2. 
-- If no, disqualify. 
-2. Have you applied for a pre-need eligibility decision letter at least once in the last 12 months? 
-- If yes, go to question 2. 
-- If no, disqualify 
-3. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? Proceed to question 3a if yes. Proceed to 3c if no. 
+1. Are you a Veteran or a service member?
+- If yes, go to question 3. 
+- If no, go to question 2.
+2. Which of the following describes your relationship to a Veteran or service member? 
+    * I am their spouse or surviving spouse 
+    * I am their unmarried adult child 
+    * I am their parent
+    * None of the above, but I am interested in applying for pre-need eligibility determination for myself or for someone else
+3. Have you applied or tried to apply for a pre-need eligibility determination at least once in the last 12 months? 
+- If yes, go to question 5. 
+- If no, go to question 4.
+4. Are you interested in applying for a pre-need eligibility determination for yourself or on behalf of someone else? 
+- If yes, go to question 5. 
+- If no, disqualify.
+5. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? Proceed to question 3a if yes. Proceed to 3c if no. 
 - 3a. Are you able to join the Zoom session using this assistive technology?  
 Answer should be yes to satisfy criteria for screen reader. 
 - 3b. Please list the name of the assistive technology or software you will use during the session. 
-- 3c. Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone?     * Any kind of smart phone will work, as long as it connects to the internet. ( 
-    * Answer should be yes to satisfy criteria for 6 mobile users. 
+- 3c. Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone?     * Any kind of smart phone will work, as long as it connects to the internet.  
+    * Answer should be yes to satisfy criteria for 3-4 mobile users. 
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+TBD
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+* Pilot participant email: TBD
+* Date and time of pilot session: TBD
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: TBD
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+* Session length: 45 minutes up to an hour
+* Buffer time between sessions: 30 minutes 
+* Maximum Sessions per day: 3-4
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+
+TBD
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
+- Moderator: 
+    * Cindy Cruz, 202-2805654, cruz_cindy@bah.com
+    * Charlie Barron, NNNNNNNNNN, barron_charles@bah.com	
+- Research guide writing and task development (usually but not always same as moderator):
+    * Cindy Cruz, 202-2805654, cruz_cindy@bah.com
+    * Charlie Barron, NNNNNNNNNN, barron_charles@bah.com	
+- Participant recruiting & screening: Perigean
+- Project point of contact: Catherine Hughes, hughes_catherine@bah.com	
+- Participant(s) for pilot test: Kenny Santiago, santiago_kenneth@bah.com
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	TBD
+- Note-takers: Perigean
+- Observers: TBD
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
 
