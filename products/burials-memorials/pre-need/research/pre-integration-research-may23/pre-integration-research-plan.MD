@@ -6,8 +6,8 @@ The National Cemetery Administration (NCA) is working to modernize its systems, 
 The application for Pre-Need Eligibility Determination (VA Form 40-10007) is offered to Veterans, service members, family members, and representatives as both authorized/unauthorized experiences, and it is accessible through the Burials and Memorials hub page. 
 
 Based on discovery research and the overall goals for the project, our plan is to: 
-1. Release incremental enhancements in a "Pre-Integration" phase (before the application is integrated with related systems) due to limitations with the legacy system, **and to** 
-2. Release enhancements in an "Integration" phase in which the form will be fully integrated with modernized system to allow for faster case processing
+1. Release incremental enhancements in a "Pre-Integration" phase (before the application is integrated with related systems) **and to** 
+2. Release enhancements in an "Integration" phase in which the form will be fully integrated with the modernized system to allow for faster case processing
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/initiative-brief.md). 
 
@@ -33,7 +33,7 @@ The goals of this user research are to:
     * Does the pre-need form content meed user needs in this particularly sensitive application process? If not, how can it be improved to address user needs?  
 
 ### Outcome
-Since we are limited in how much can be manipulated in the current form pre-integration without breaking the legacy system, this research will help in identifying what is working in the current form and if user pain points exist that we can then fully address for the integration phase if we are unable to address them pre-integration. 
+This research will help in identifying what is working in the current form and if user pain points exist that we can then fully address for the integration phase if we are unable to address them pre-integration. 
 
 ### Hypothesis
 Our hypothesis is that users might: 
@@ -43,14 +43,14 @@ Our hypothesis is that users might:
 - Be confused by the different terminology in the form, causing them to wonder where they need to enter specific information or which options they should select
 
 ## Methodology
-We'd like to incorporate moderated usability testing with Zoom on mobile, depending on what Perigean recommends.
+Moderated usability testing with Zoom on mobile and desktop
 
 ### Location
-We'd hope to incorporate a remote location with a preferred video conferencing software as Zoom.
+Remote location with a preferred video conferencing software as Zoom
 
 ### Research materials
 For moderated usability tests: 
-- [Link to conversation guide - TBD](Url goes here.
+- [Link to conversation guide - TBD](Url goes here)
 - [Link to Pre-Need Pre-Integration prototype](https://vaselfservice.invisionapp.com/console/share/BGYS6FJQ49H) - This prototype contains content and accessibility enhancements that we're able to implement pre-integration without damaging our legacy system.
 	
 ## Recruitment	
@@ -83,7 +83,7 @@ Weâ€™d like to recruit 9 participants for a total of 6-8 completed sessions. Weâ
 - At least 3-4 people who will use a mobile device during the research session (tablet is ok too)
  
 **Secondary criteria (nice-to-haves)**
-- Have an identified cognitive impairment (around 1 participant)
+Have an identified cognitive impairment (around 1 participant)
 
 **Screener questions to target criteria not captured in the recruitment sign-up survey:**
 1. Are you a Veteran or a service member?
@@ -109,17 +109,17 @@ Answer should be yes to satisfy criteria for screen reader.
     	* Answer should be yes to satisfy criteria for 3-4 mobile users. 
 
 ## Timeline
-TBD
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: TBD
-* Date and time of pilot session: TBD
+* Pilot participant email: sherrow_alexander@bah.com
+* Date and time of pilot session: Friday, 5/26/23 @ 10:30am-11:30am
 
 ### Research sessions
-* Planned dates of research: TBD
+* Planned dates of research: 
+	* Usability testing target dates: Wednesday, 5/31/23; Thursday, 6/1/23; Friday, 6/2/23
 
 ### Length of sessions
 * Session length: 45 minutes up to an hour
