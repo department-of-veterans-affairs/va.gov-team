@@ -29,12 +29,22 @@ Please see the individual errors below for the full text.
 | Unable to successfully submit form | We didn't receive your online application. | Review, download, print, and sign a copy of the completed application and mail it in. |
 | Unable to download PDF form - Error code 4 | We're sorry.  We couldn't download your form.  Please check the data and try again. | Review application and try to download again. |
 | Unable to download PDF form - Error code 5 | We're sorry.  VA.gov is down right now.  If you need help right now, please call us. | Wait a few minutes and attempt to download again. |
+|Submit success |[h3] Thank you for completing your application
+[p] Once we’ve successfully received your application, we’ll contact you to tell you what happens next in the application process.| Confirmation page with success alert |
+
+
+### Feedback Error Messages - File Upload 
+
+| Scenario | Abridged Message | Resolution |
+| -------- | ---------------- | ---------- |
+| No family caregiver has been declared | We need you to add a Family Caregiver.  Your application cannot be processed unless you add one.  Please go back and add a Caregiver to your application | Use the 'Back' feature to add a primary or secondary Caregiver |
+| Unable to successfully submit form | We didn't receive your online application. | Review, download, print, and sign a copy of the completed application and mail it in. |
+| Unable to download PDF form - Error code 4 | We're sorry.  We couldn't download your form.  Please check the data and try again. | Review application and try to download again. |
+| Unable to download PDF form - Error code 5 | We're sorry.  VA.gov is down right now.  If you need help right now, please call us. | Wait a few minutes and attempt to download again. |
 |Network issue preventing file uploads|We're sorry. We had a connection problem. Please try again.| Try again multiple times or try at a later time.|
 |File uploaded is too large (>10mb)|We couldn't upload your file because it's too big. please make sure the file is 10MB or less and try again.| Check the file to ensure it is the correct document and that it is less than 10MB.|
 |File uploaded is too small (<1B)| We couldn't upload your file because it's too small. Please make sure the file is 1B or more and try again.|Check the file to ensure it is the correct document and that it is more than 1 byte.|
 |File uploaded is the wrong file type|We couldn't upload your file because we can't accept this type of file.|Check the file to ensure it is the correct document and that it is one of the acceptable file types.|
-
-
 
 ## All Errors
 This is the full text message and resolution for individual errors that can be encountered.
