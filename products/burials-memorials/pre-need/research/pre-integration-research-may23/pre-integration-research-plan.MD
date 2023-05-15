@@ -26,7 +26,7 @@ The goals of this user research are to:
     * Since the majority of users are in the upper age brackets (35+ years old), what enhancements can we make to improve the application process for them?
   * Understand if the pre-need application is confusing for users in the entering of their details, as information is collected for up to three people in the form (applicant, sponsor, preparer), and determine which enhancements could mitigate confusion and reduce form entry errors
     * Which areas of the pre-need application are potentially confusing for users, particularly in determining whose details they need to enter throughout the form?
-    * Do they understand the difference between an Applicant, a Sponsor, and a Preparer, and is it simple for them to determine in which sections of the form they need to provide these details?
+    * Do they understand the difference between an Applicant, a Sponsor, a Previous Decedent, and a Preparer, and is it simple for them to determine in which sections of the form they need to provide these details?
     * Do they understand which option to select for the applicant's relationship to the service or Veteran (I am the service member or Veteran, Spouse or surviving spouse, Unmarried adult child, Other)?
   * Since the pre-need application contains potentially sensitive questions and because it deals with a sensitive topic overall, determine how the application process and content presented to users in the form can be improved to reduce or eliminate any discomfort users may experience when applying
     * Which areas of the form, if any, do users find particularly sensitive?
@@ -127,11 +127,10 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Maximum Sessions per day: 3-4
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
-
-TBD
+* Wednesday, 5/31/23: 9:30am-1pm, 2:30pm-4pm, 5pm-6pm
+* Thursday, 6/1/23: 9:30am-1pm, 1:30pm-4pm, 5-6pm
+* Friday, 6/2/23: 9:30am-1pm, 1:30pm-4pm
+If more timeslots are needed, we could open up Monday, 6/5/23.
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.** 	
@@ -142,10 +141,8 @@ Please list the people who will be serving in each role. **Include the primary p
     * Cindy Cruz, cruz_cindy@bah.com
     * Charlie Barron, barron_charles@bah.com	
 - Participant recruiting & screening: Perigean
-- Project point of contact: Catherine Hughes, hughes_catherine@bah.com	
-- Participant(s) for pilot test: Kenny Santiago, santiago_kenneth@bah.com
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	TBD
+- Project point of contact: Catherine Hughes, hughes_catherine@bah.com; Kelby Stewart, stewart_kelby@bah.com
+- Participant(s) for pilot test: Alexander Sherrow, sherrow_alexander@bah.com
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	None
 - Note-takers: Perigean
-- Observers: TBD
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
-
+- Observers: Rhonda Jones, rhonda.jones1@va.gov; Michael Ouslander, michael.ouslander@va.gov; Michael Rampton, michael.rampton@va.gov
