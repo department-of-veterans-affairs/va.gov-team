@@ -20,10 +20,12 @@ The Pre-Need application applies to life stages from **Serving** onward to **Dyi
 
 ## Research Goals / Questions	
 The goals of this user research are to: 
-1. Learn how users experience applying for pre-need to identify improvements that can be made to address usability pain points, improve the rate of mobile applications, address user feedback/concerns, and improve its fairly low submission rate
-..1. What's working well for users and what are the pain points they're experiencing when applying for pre-need?
-3. Understand if the pre-need application is confusing for users in the entering of their details, as information is collected for up to three people in the form (applicant, sponsor, preparer), and determine which enhancements could improve their overall user experience to mitigate confusion and reduce form entry errors
-4. Since the pre-need application contains potentially sensitive questions and because it deals with a sensitive topic overall, determine how the application process and content presented to users in the form can be improved to reduce/eliminate any discomfort users may experience
+1. Learn how users experience applying for pre-need to identify improvements that can be made to address usability pain points, address user feedback/concerns, improve the rate of mobile applications, and improve its fairly low submission rate
+..1. What's working well for users and what are the pain points they're experiencing when applying for pre-need eligibility determination?
+..2. Why are most users applying through desktop devices, and how can we improve rates for mobile applications and successful submissions overall?
+2. Understand if the pre-need application is confusing for users in the entering of their details, as information is collected for up to three people in the form (applicant, sponsor, preparer), and determine which enhancements could improve their overall user experience to mitigate confusion and reduce form entry errors
+..1. Which areas of the pre-need application are potentially confusing for users, particularly in determining whose details they need to enter in specifc sections of the form?
+3. Since the pre-need application contains potentially sensitive questions and because it deals with a sensitive topic overall, determine how the application process and content presented to users in the form can be improved to reduce/eliminate any discomfort users may experience
 ..1.  
 
 ### Outcome
