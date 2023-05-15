@@ -46,14 +46,6 @@
 - Code
 - Diagnosis
 
-### Clinical/health reminders (list)
-#### Fields
-- Date when due
-- Patient DFN
-- Reminder IEN
-- Last occurence
-- Name
-
 ### Vitals (list)
 #### Fields
 - Type (label)
