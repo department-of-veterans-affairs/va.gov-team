@@ -2,11 +2,12 @@
 
 ## 2023-05-15
 
-Attendees:
+Attendees: DK, Jessica, Hieu
 
 
 **Headline and Radio label design discovery**
-- Notes
+- Hieu walked through two examples for both radio buttons and h3s on the 1010EZ.
+- Broadly, the group felt like the explorations would improve things for Veterans, but only incrementally. It avoids the real challenge, making the questions h1 elements and deemphasizing the progress bar.
 
 
 **Misc Item**
@@ -14,12 +15,11 @@ Attendees:
 - Designer interests and experiences list
 - Content process ideas
 - Source of truth - what lives where - Sketch, Mural, Github
-- 
 
 ### Action items
 
-- Item
-
+- Hieu to update ticket and recommend we work on the bigger problem instead: h1 and progress bar.
+- The team should think through how it can contribute to that work broadly.
 
 --- 
 
