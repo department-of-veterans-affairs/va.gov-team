@@ -12,7 +12,7 @@ This matrix contains abridged messaging and resolution for the errors that can b
 4. Feedback 
 5. Feedback - individual form fields specific
 
-Please see the individual errors below for the full text.
+Please see the individual errors below or the Mural board for the full text and images.
 
 --- 
 
@@ -23,7 +23,7 @@ Please see the individual errors below for the full text.
 | System is undergoing maintenance | The health care application is currently down while we fix a few things | Wait for system to online or call for assistance at 877-222-8387 |
 | Pre-Check page unathenticated | [h3] Something went wrong on our end [p] We're sorry. Something went wrong on our end. Please try again.|  |
 | Scheduled downtime AUTHENTICATED |[h3] We're working on the application right now [p] You may not be able to access the online health care application until maintenance is complete. |  |
-| Unscheduled downtime AUTHENTICATED |[[h3] Some online tools or services aren't working right now [p] You may have trouble accessing the health care application at this time. We're working to fix this. Please check back soon. | Try again later. |
+| Unscheduled downtime AUTHENTICATED |[h3] Some online tools or services aren't working right now [p] You may have trouble accessing the health care application at this time. We're working to fix this. Please check back soon. | Try again later. |
 
 
 ### Engagement Messages
