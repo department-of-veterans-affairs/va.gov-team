@@ -10,7 +10,7 @@ Attendees: DK, Jessica, Hieu
 - Broadly, the group felt like the explorations would improve things for Veterans, but only incrementally. It avoids the real challenge, making the questions h1 elements and deemphasizing the progress bar.
 
 
-**Misc Item**
+**Misc Item (Tabled items; if time chat about next meeting)**
 - Any onboarding related questions?
 - Designer interests and experiences list
 - Content process ideas
