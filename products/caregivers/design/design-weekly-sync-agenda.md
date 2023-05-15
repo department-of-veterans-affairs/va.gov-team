@@ -1,5 +1,15 @@
 # Design Weekly Sync Agenda
 
+## 2023-05-15
+
+Attendees:
+
+**Item**
+
+### Action items
+
+- Item
+
 ## 2023-05-08
 
 Attendees: DK, Jessica, Katelyn, Hieu, Matt K.
