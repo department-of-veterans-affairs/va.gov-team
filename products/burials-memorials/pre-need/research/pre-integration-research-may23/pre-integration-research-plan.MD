@@ -135,11 +135,11 @@ TBD
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator: 
-    * Cindy Cruz, 202-2805654, cruz_cindy@bah.com
+    * Cindy Cruz, 202-280-5654, cruz_cindy@bah.com
     * Charlie Barron, NNNNNNNNNN, barron_charles@bah.com	
 - Research guide writing and task development (usually but not always same as moderator):
-    * Cindy Cruz, 202-2805654, cruz_cindy@bah.com
-    * Charlie Barron, NNNNNNNNNN, barron_charles@bah.com	
+    * Cindy Cruz, cruz_cindy@bah.com
+    * Charlie Barron, barron_charles@bah.com	
 - Participant recruiting & screening: Perigean
 - Project point of contact: Catherine Hughes, hughes_catherine@bah.com	
 - Participant(s) for pilot test: Kenny Santiago, santiago_kenneth@bah.com
