@@ -43,15 +43,15 @@ Our hypothesis is that users might:
 - Be confused by the different terminology in the form, causing them to wonder where they need to enter specific information or which options they should select
 
 ## Methodology	
-Moderated usability testing with Zoom, depending on what Perigean recommends, and testing on mobile
+Moderated usability testing with Zoom on mobile, depending on what Perigean recommends
 
 ### Location
-Remote location, and the preferred video conferencing software is Zoom
+Remote location with the preferred video conferencing software as Zoom
 
 ### Research materials
 For moderated usability tests: 
 - [Link to conversation guide - TBD](Url goes here)
-- [Link to Pre-Need Pre-Integration prototype (https://vaselfservice.invisionapp.com/console/share/BGYS6FJQ49H) - This prototype contains content and accessibility enhancements that we're able to do pre-integration without damaging our legacy system
+- [Link to Pre-Need Pre-Integration prototype](https://vaselfservice.invisionapp.com/console/share/BGYS6FJQ49H) - This prototype contains content and accessibility enhancements that we're able to implement pre-integration without damaging our legacy system
 	
 ## Recruitment	
 
