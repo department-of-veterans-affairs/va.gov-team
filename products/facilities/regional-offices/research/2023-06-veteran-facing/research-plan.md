@@ -54,7 +54,7 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
      2. Hours of operation--for the office _vs._ only for a specific service
 3. Do Veterans understand the actions they need to take to receive the service (make an appointment, walk-in, bring required documents, etc.)?
 6. When prompted with specific tasks, do Veterans navigate to the correct service accordion and find the correct next steps? 
-     7. What if they don't find an applicable service accordion on the page? 
+     1. What if they don't find an applicable service accordion on the page? 
 8. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones? 
 9. How do Veterans react to seeing 2 phone numbers?
      1. Which phone number would they use and why? 
