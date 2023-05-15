@@ -25,6 +25,7 @@
 
 **Outstanding tracking questions**
 * Can we track non-clickable clicks?
+  * FE engineering currently isn't sure but it seems unlikely. This further bolsters the value of an A/B test if we can't currently track the fails.
 
 ### Recommendation 3
 >Examine ways to keep Filter options enabled until they are cleared, regardless of where Veterans navigate within the feature.
