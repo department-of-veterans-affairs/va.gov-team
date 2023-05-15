@@ -44,6 +44,18 @@ Please see the individual errors below for the full text.
 
 | Scenario | Abridged Message | Resolution |
 | -------- | ---------------- | ---------- |
+| Active Duty | [h3] Our records show that you’re an active-duty service member [p bold] You applied on: (end bold) DATE | |
+| Cancelled / Declined | [h3] Our records show you chose to cancel or decline VA health care [p bold] You applied on: (end bold) DATE | |
+| Closed | [h3] Our records show that your application for VA health care expired [p bold] You applied on: (end bold) DATE | |
+| Deceased | [h3] Our records show that this Veteran is deceased [p bold] You applied on: (end bold) DATE | |
+| Enrolled | [h3] You’re already enrolled in VA health care [p bold] You applied on: (end bold) DATE [p bold] We enrolled you on: (end bold) DATE [p bold] Your preferred VA medical center is: (end bold) FACILITY | |
+
+
+### Accesss Messages - Inelligible 
+
+| Scenario | Abridged Message | Resolution |
+| -------- | ---------------- | ---------- |
+
 
 
 
