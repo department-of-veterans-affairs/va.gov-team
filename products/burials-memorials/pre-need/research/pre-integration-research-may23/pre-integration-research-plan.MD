@@ -56,7 +56,7 @@ For moderated usability tests:
 ## Recruitment	
 
 ### Recruitment approach
-We’d like to recruit 9 Veterans, family members,  for a total of 6-8 completed sessions. We’ll use Perigean to recruit participants.
+We’d like to recruit 9 participants for a total of 6-8 completed sessions. We’ll use Perigean to recruit participants.
 
 ### Recruitment criteria 
 
