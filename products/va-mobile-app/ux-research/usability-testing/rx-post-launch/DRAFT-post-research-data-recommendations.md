@@ -19,8 +19,8 @@
 
 **Other considerations**
 * We expect people will perform fewer non-navigating/interacting clicks on a screen. (see outstanding questions for more details.) 
-* We need to review some baseline data around interaction with prescription detials screen. It's not clear how we can separate interaction with those screens with the purpose of submitting a refill vs. seeking information about the Rx for other purposes.
-  * Currently, we have refill action starting from either the global button on the main Prescriptions screen or from the details of a specific prescription. this means both levels of screen interaction are capturing the user behavior of "seeking to refill a prescription" and there is no place in the app where prescription data would be viewed without access to a refill button. 
+* We need to review some baseline data around interaction with prescription details screen. It's not clear how we can separate interaction with those screens with the purpose of submitting a refill vs. seeking information about the Rx for other purposes.
+  * Currently, we have refill action starting from either the global button on the main Prescriptions screen or from the details of a specific prescription. This means both levels of screen interaction are capturing the user behavior of "seeking to refill a prescription" and there is no place in the app where prescription data would be viewed without access to a refill button. 
   * Can we state with clarity that the main purpose of Rx in the app is for refills (and, perhaps, renewals) and not, primarily, prescription monitoring/management outside of those tasks? This would help us know how much effort to put into constructing measurement around non-refill interaction with the feature. 
 
 **Outstanding tracking questions**
@@ -43,9 +43,9 @@
 >Investigate a plain language approach to prescription statuses that can stand without definitions.
 * This is an area where we need more information to make a bet, such as:
   * How often are users clicking on the status definitions? How much time do they spend reviewing them?
-    * If the interaction is low (as the research indicates it might be), we will have a hard time defining a sifnigicant change in interaction if further langauge clarity reduces the need to see the detailed definition. 
+    * If the interaction is low (as the research indicates it might be), we will have a hard time defining a significant change in interaction if further langauge clarity reduces the need to see the detailed definition. 
   * Do users who click on status definitions do so more from the list view or the details view?
-    * Again, this may chance significantly, especially if we start adjusting what piecies of data are displayed in the list vs details views. It's not clear that we'll be able to do a comparative measurement here. 
+    * Again, this may chance significantly, especially if we start adjusting what pieces of data are displayed in the list vs detail views. It's not clear that we'll be able to do a comparative measurement here. 
 
 ### Recommendation 6
 >Consider ways to incorporate “send message” functionality in the Prescriptions feature. This would support the Veteran’s journey to renew a prescription by sending the details directly to the prescribing team.
