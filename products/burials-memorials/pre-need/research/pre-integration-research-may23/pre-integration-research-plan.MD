@@ -64,16 +64,16 @@ We’d like to recruit 9 Veterans, family members,  for a total of 6-8 completed
 - Amount: Target is 6-8 participants but recruit 9
 - Age ranges: 
     * 80% 35+
-    * 20% 18-14
+    * 20% 18-34
 - Types: 
     * Three service members and Veterans 
-     - Age 55+, Black, male 
-     - Age 35-54+, White, female, assistive tech user 
-     - Age 18-34, Hispanic, male 
+     	- Age 55+, Black, male 
+    	- Age 35-54+, White, female, assistive tech user 
+     	- Age 18-34, Hispanic, male 
     * One spouse or surviving spouse of a service member of Veteran (A **spouse** is a person who is or was legally married to a service member or Veteran. A **surviving spouse** is someone who was legally married to the service member or Veteran at the time of their death and includes a surviving spouse who remarried.)
-     - Any age, LGBTQ+, female
+     	- Any age, LGBTQ+, female
     * One representative (person filling out form on behalf of applicant)
-     - Age 35+, Asian, Male 
+     	- Age 35+, Asian, Male 
 
 Age 45-54, Hispanic, male 
 **Secondary criteria (nice-to-haves)**
