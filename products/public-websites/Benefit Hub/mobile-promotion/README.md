@@ -42,7 +42,6 @@ Increase the download/use/adoption of the VA.gov mobile app.
 | Downloads of VA.gov Mobile App via SmartApp banner | N/A | ----- | ----- | ----- |
 | Use of VA.gov app instead of VA.gov web via SmartApp banner | N/A | ----- | ----- | ----- |
 | iOS use of VA.gov product landing pages | ----- | ----- | ----- | ----- |
-| Apple Store app rating | ----- | ----- | ----- | ----- |
 
 ---
 
@@ -50,7 +49,7 @@ Increase the download/use/adoption of the VA.gov mobile app.
 ### Assumptions/Risks
 - Mobile app does not have 100% parity with VA.gov website and that's OK. This UX feature will only appear on tool landing pages that have parity.
 - Cannibalizing mobile web traffic to mobile app use is a good thing.
-- Only targeting Apple users is sufficient for proof-of-concept and learnings are transferrable to Android device user behavior.
+- Only targeting Apple/iOS/Safari users is sufficient for proof-of-concept and learnings are transferrable to Android device user behavior.
 - We can use the out-of-the-box design behavior from Apple for POC and there will not be accessibility problems.
 
 ### What're you building
@@ -71,7 +70,6 @@ MVP will be to:
 | Benefits tools | Download common VA letters | https://www.va.gov/records/download-va-letters/ |
 | Payment tools | Review payments we’ve sent you | https://www.va.gov/va-payment-history/ | 
 | Payment tools | Update your direct deposit information | https://www.va.gov/change-direct-deposit/ | 
-| Sitewide tools | Find VA facilities and services near you | https://www.va.gov/find-locations | 
 
 
 #### Go-to-market 
