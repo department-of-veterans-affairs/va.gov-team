@@ -1,6 +1,6 @@
 # Research Plan for Usability Testing, VBA Facility pages Veteran-Facing, June 2023
 
-## Background--TEST
+## Background
 
 VBA regional office websites are being modernized in order to replace the legacy pages maintained in Teamsite. This effort is intended to incorporate a consistent content model, as well as provide better support for mobile usage and accessibility.
 
