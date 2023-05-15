@@ -77,13 +77,27 @@ We’d like to recruit 9 Veterans, family members,  for a total of 6-8 completed
     * One unmarried adult child (An **unmarried adult child** is an individual who became physically or mentally disabled permanently and incapable of self-support before the age of 21, or before 23 years of age if pursuing a full-time course of instruction at an approved educational institution.)
      	- Age 18-20 or 18-22 if pursuing degree
     * One parent of a service member or Veteran (considered a Corey Shea Act applicant)
-     	- Age 40+
+     	- Age 40+, Native American
     * One person interested in pre-need eligibility determination
+- All participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
+- At least 3-4 people who will use a mobile device during the research session (tablet is ok too)
  
 **Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+- Have an identified cognitive impairment (around 1 participant)
 
 **Screener questions to target criteria not captured in the recruitment sign-up survey:**
+1. Are you a Veteran, service-member, Veteran family member, or representative for a Veteran? 
+- If yes, go to question 2. 
+- If no, disqualify. 
+2. Have you applied for a pre-need eligibility decision letter at least once in the last 12 months? 
+- If yes, go to question 2. 
+- If no, disqualify 
+3. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? Proceed to question 3a if yes. Proceed to 3c if no. 
+- 3a. Are you able to join the Zoom session using this assistive technology?  
+Answer should be yes to satisfy criteria for screen reader. 
+- 3b. Please list the name of the assistive technology or software you will use during the session. 
+- 3c. Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone?     * Any kind of smart phone will work, as long as it connects to the internet. ( 
+    * Answer should be yes to satisfy criteria for 6 mobile users. 
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
