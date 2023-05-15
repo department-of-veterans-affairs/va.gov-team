@@ -61,7 +61,7 @@
 - Name
 - Code
 
-### Medications
+### Medications (only those administered by the clinic during the visit)
 #### Fields
 - Type
 - NDC (National Drug Code)
