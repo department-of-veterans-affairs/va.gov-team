@@ -11,8 +11,11 @@ Provide a pathway for Active Duty Service Members and Veterans who want to regis
           - **Registration**: Adding a Veteran or Patient into ES or the VA's electronic health record for the purpose of receiving services at a VA medical facility.  Registration in ES must be completed prior to enrollment.
           - **Veteran**: A person who Served in the active military, naval, or air service and was discharged or released from service under conditions other than dishonorable.
 - Stakeholder request:
->Desired Functionality: The online form will be a short form to collect the Veterans information Name, SSN, DOB, Address, Phone Number, Military Service Dates and Reason for Registration Only. This information will feed into VES and place the Veteran in a Registration >Only status if they do not wish to enroll. If the Veteran is already known to the system we will capture and update existing information if it is different.
+>**Desired Functionality:** The online form will be a short form to collect the Veterans information Name, SSN, DOB, Address, Phone Number, Military Service Dates and Reason for Registration Only. This information will feed into VES and place the Veteran in a Registration 
+>Only status if they do not wish to enroll. If the Veteran is already known to the system we will capture and update existing information if it is different.
+>
 >Capture and retain a 1010EZ Registration application when received online.
+>
 >Create service to receive online form data from VA.gov for Veterans who do not wish to enroll and provide that data to VistA/Millennium. In alignment with PACT Act, COMPACT, SERVICE Act and 38 CFR 17.37 this enables Veterans to request an appointment and register for those not wishing to enroll.
 
 
@@ -20,7 +23,7 @@ Provide a pathway for Active Duty Service Members and Veterans who want to regis
 ## Problem
 There is an interest from the HEC (Health Eligibilty Center) and VEO (Veteran Experience Office) stakeholders to include a registration-only pathway for the online 10-10EZ application.
 
-**_We need more information on why Registration is used as opposed to enrollment, and what benefit is being provided/problem is being solved**_
+_**We need more information on why Registration is used as opposed to enrollment, and what benefit is being provided/problem is being solved_**
 
 ## Desired User Outcomes
 - Provide Active-Duty Service members and Veterans the ability to register for VA medical care without enrolling in VA Health Care
@@ -76,13 +79,17 @@ These are the following confirmed use cases for registration over enrollment.
 ### Outstanding questions
 - What benefit does "registering" provide?
 - Confirm - this is for both Active Duty Service Members **and** Veterans?
-- Can a Veteran in good health with no service-connected disabilties or injuries be eligible for VA Health Care or at least obtain care at a VA medical facility?
-     - Does their discharge character impact whether they can receive this care?
+- Is this the first and only time the Veteran will see these terms used?  
+     - If so, do they even need to know about these terms at all?
 - How do Service Members/Veterans know if they need to complete the 10-10EZ for "Registration Only"?
      - Do they understand why/what scenario they are in that calls for the Reg Only pathway, especially as opposed to enrollment? 
 - What are the current volumes of monthly registration vs enrollment applications?
      - What are the volumes of registration approvals, follow-ups (if any) and denials?
      - What are the top 3-5 scenarios/use cases with the most registration-only applications?
+- Can a Veteran in good health with no service-connected disabilties or injuries be eligible for VA Health Care or at least obtain care at a VA medical facility?
+     - Does their discharge character impact whether they can receive this care?
+
+
 
 ### Assumptions/Risks
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
