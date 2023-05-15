@@ -2,7 +2,7 @@
 
 ## Background
 
-VBA regional office websites are being modernized in order to replace the legacy pages maintained in Teamsite. This effort is intended to incorporate a consistent content model, as well as better support for mobile usage and accessibility.
+VBA regional office websites are being modernized in order to replace the legacy pages maintained in Teamsite. This effort is intended to incorporate a consistent content model, as well as provide better support for mobile usage and accessibility.
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices)
 
@@ -44,17 +44,17 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
 ### Research questions
 #### Before seeing the prototype:
 1. What do Veterans know about VA regional benefit offices?
-     1. What tasks do Veterans expect to do at VA regional benefit offices?
+1. What tasks do Veterans expect to do at VA regional benefit offices?
 
 #### From the prototype:
-1. Do Veterans understand which services are available at this location?
+3. Do Veterans understand which services are available at this location?
 1. Do Veterans understand how services are delivered at this location?
      1. In-person, virtual, or by phone
      1. With or without appointments
-     2. Hours of operation--for the office vs. only for specific service
+     2. Hours of operation--for the office _vs._ only for a specific service
 3. Do Veterans understand the actions they need to take to receive the service (make an appointment, walk-in, bring required documents, etc.)?
 6. When prompted with specific tasks, do Veterans navigate to the correct service accordion and find the correct next steps? 
-    7. What if they don't find an applicable service accordion on the page? 
+     7. What if they don't find an applicable service accordion on the page? 
 8. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones? 
 9. How do Veterans react to seeing 2 phone numbers?
      1. Which phone number would they use and why? 
@@ -64,9 +64,10 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
 5. What feedback do Veterans have on content, organization, and length of the regional benefit office web page?
 
 ### Hypotheses
-1. Veterans will learn what they can do at a VA benefit office by looking at the new web page.
-2. Veterans will learn how to plan for a visit to a VA benefit office from the new web page.
-3. ???
+1. Veterans will understand what they can do at a VA benefit office from the new web page.
+1. Veterans will understand how services are delivered at this location from the new web page.
+2. Veterans will understand how to prepare for a visit to a VA benefit office from the new web page.
+3. Others???
 
 ## Method	
 We will conduct **usability testing** to guide research participants through a click-through prototype. We would like most participants to be on mobile devices. We will be unable to accommodate screen reader users because the prototype won't be accessible.
