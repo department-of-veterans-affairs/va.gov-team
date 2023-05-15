@@ -9,7 +9,7 @@ Use this form to file a new claim or a claim for increased disability compensati
 
 > **Toxic exposure and PACT Act**
 > 
-> The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of conditions we can automatically assume (or “presume”) was caused by your service. **If this applies to you, we encourage you to file for benefits now.** If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application. [Learn more about the PACT Act and what is now presumptive](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
+> The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of conditions we can automatically assume (or “presume”) was caused by your service. **If this applies to you, we encourage you to file for benefits now.** If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application. If you filed a claim in the past for a condition that is now presumptive, and were denied, then file a Supplemental Claim. [Learn more about the PACT Act and what is now presumptive](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
 
    
 > **Have you already started your application?**
@@ -37,23 +37,12 @@ Make sure you meet our eligibility requirements before you apply. You may be eli
 
 [Learn more about eligibility for VA disability benefits](https://www.va.gov/disability/eligibility/)
 
->Have you been granted benefits in the past? 
->If you have already been granted benefits, and are filing a claim because your condition has worsened (this is called a claim for increase), you might want to check to see if you’re already receiving the maximum disability rating for your condition. You can do this by signing in and [viewing your claim letters](https://staging.va.gov/track-claims/your-claim-letters).
->
->You’ll need to [file a Supplemental Claim](https://www.va.gov/decision-reviews/supplemental-claim/) **instead of this from** if either of these is true:
->- We decided your claim in the past and you have new and relevant evidence, **or**
->- You’re requesting a review of your claim based on a change in law (such as the PACT Act)
+You’ll need to [file a Supplemental Claim](https://www.va.gov/decision-reviews/supplemental-claim/) **instead of this from** if either of these is true:
+- We decided your claim in the past and you have new and relevant evidence, **or**
+- You’re requesting a review of your claim based on a change in law (such as the PACT Act)
 
-> **Are you currently on active duty as a service member?**
-> 
-> If you’re a service member on full-time active duty, this is the right form for you if both of these are true:
-> - You have an illness or injury that was caused or made worse by your active-duty service, **and** 
-> - Your separation date is in the next 90 to 180 days
-> You can use this form to file a claim for disability benefits through the Benefits Delivery at Discharge (BDD) program.
-> 
-> **Note:** You’ll need to submit service treatment records for the current period of service as well as a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. Your claim will be delayed until we receive this form. We estimate that it will take you at least 30 minutes to complete this form, and we recommend you download and fill it out on a desktop computer or laptop then return to this form to upload.
-> 
-> After you file your claim, you’ll need to be available for 45 days after your claim is submitted to complete an exam. [Learn more about Benefits Delivery at Discharge (BDD)](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/).
+>Have you been granted benefits already? 
+>If you have already been granted benefits, and are filing a claim because your condition has worsened (this is called a claim for increase), you might want to check to see if you’re already receiving the maximum disability rating for your condition. You can do this by signing in and [viewing your claim letters](https://staging.va.gov/track-claims/your-claim-letters).
 
 2. Decide how you want to apply 
 
@@ -76,11 +65,16 @@ To support your claim, you can upload documentation such as:
 - **Private medical records and hospital reports.** These could relate to your claimed illnesses or injuries or they could show that your disability has gotten worse.
 - **Supporting statements.** These could be from family members, friends, clergy members, law enforcement personnel, or people you served with. These statements could tell us more about your claimed condition and how and when it happened or how it got worse.
 
-> **Toxic exposure and PACT Act**
+> **Are you currently on active duty as a service member?**
 > 
-> To get a disability rating, we need to see that your condition connects to your military service. For many conditions we need documentation to see this, but for some conditions we can automatically assume (or “presume”) that your service caused your condition. **If you have what we call a presumptive condition, we don’t need documents showing service caused the condition.** 
->   
-> To support a claim for presumptive service connection, you only need to submit documentation showing you served in a location **and** you have a current condition that qualifies as presumptive. [Learn more about the PACT Act and what is now presumptive](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
+> If you’re a service member on full-time active duty, this is the right form for you if both of these are true:
+> - You have an illness or injury that was caused or made worse by your active-duty service, **and** 
+> - Your separation date is in the next 90 to 180 days
+> You can use this form to file a claim for disability benefits through the Benefits Delivery at Discharge (BDD) program.
+> 
+> **Note:** You’ll need to submit service treatment records for the current period of service as well as a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. Your claim will be delayed until we receive this form. We estimate that it will take you at least 30 minutes to complete this form, and we recommend you download and fill it out on a desktop computer or laptop then return to this 526 form to upload.
+> 
+> After you file your claim, you’ll need to be available for 45 days after your claim is submitted to complete an exam. [Learn more about Benefits Delivery at Discharge (BDD)](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/).
 
 If you apply here online, you will be able to include in your application the necessary forms for if you are:
 - Authorizing the release of your medical records to VA 
@@ -90,8 +84,6 @@ If you apply here online, you will be able to include in your application the ne
 In addition to asking you to provide information about your condition, we will also ask you about your service and other types of pay you may be receiving (retired, separation, and/or disability severance pay).
 
 4. Apply
-
-The time it takes you to complete your application depends on how many conditions you’re claiming and how many documents you need to upload. 
 
 **Note:** When you start your application online now, you’ll declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You have 1 year from the day you submit your intent to file to complete your application. After 1 year, you’ll have to start a new application and your potential effective date will be reset.
 
