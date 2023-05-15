@@ -3,7 +3,7 @@
 ## Background
 The National Cemetery Administration (NCA) is working to modernize its systems, including the system that processes pre-need applications (VA Form 40-10007) for determining eligibility for burial in a VA national cemetery. Presently, pre-need cases are processed in the newly-modernized system and in the legacy system. Analysts are swiveling between the two systems to manage cases, which impacts timeliness measures for Eligibility Office (EO) analysts and Scheduling Office (SO) agents at the National Cemetery Scheduling Office (NCSO). Ultimately, users applying for pre-need are impacted, as eligibility determinations are delayed due to longer processing times.
 
-The application for Pre-Need Eligibility Determination (VA Form 40-10007) is offered to Veterans, service members, family members, and representatives as both authorized/unauthorized experiences, and it is accessible through the Burials and memorials hub page. 
+The application for Pre-Need Eligibility Determination (VA Form 40-10007) is offered to Veterans, service members, family members, and representatives as both authorized/unauthorized experiences, and it is accessible through the Burials and Memorials hub page. 
 
 Based on discovery research and the overall goals for the project, our plan is to: 
 1. Release incremental enhancements in a "Pre-Integration" phase (before the application is integrated with related systems) due to limitations with the legacy system, **and to** 
