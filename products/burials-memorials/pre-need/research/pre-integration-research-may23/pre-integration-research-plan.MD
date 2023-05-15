@@ -13,7 +13,7 @@ Based on discovery research and the overall goals for the project, our plan is t
 
 ### OCTO Priorities 
 This research supports the following 2023 OCTO objectives:
-1. Enhance Veterans’ personalized online experience
+  * Enhance Veterans’ personalized online experience
 
 ### Veteran Journey
 The Pre-Need application applies to life stages from **Serving** onward to **Dying**, as service members, Veterans, family members, and representatives may apply at any time to determine if applicants are eligible for burial in VA national cemeteries. 
@@ -29,7 +29,8 @@ The goals of this user research are to:
     * Do they understand the difference between an Applicant, a Sponsor, and a Preparer, and is it simple for them to determine in which sections of the form they need to provide these details?
     * Do they understand which option to select for the applicant's relationship to the service or Veteran (I am the service member or Veteran, Spouse or surviving spouse, Unmarried adult child, Other)?
   * Since the pre-need application contains potentially sensitive questions and because it deals with a sensitive topic overall, determine how the application process and content presented to users in the form can be improved to reduce or eliminate any discomfort users may experience when applying
-    *   
+    * Which areas of the form, if any, do users find particularly sensitive?
+    * Does the pre-need form content meed user needs in this particularly sensitive application process? If not, how can it be improved to address user needs?  
 
 ### Outcome
 Since we are limited in how much can be manipulated in the current form pre-integration without breaking the legacy system, this research will help in identifying what is working in the current form and if user pain points exist that we can then fully address for the integration phase if we are unable to address them pre-integration. 
