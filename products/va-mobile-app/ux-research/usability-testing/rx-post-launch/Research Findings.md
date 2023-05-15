@@ -133,7 +133,10 @@ Participants did not use any other prescription status besides Active to determi
 
 
 ### Content strategy findings
-..
+1. Only 1 participant understood that a status could have 2 parts: the prescription status and the refill status. (Example: Active: Submitted) Even though the majority of participants did not understand that a prescription can have 2 parts, this did not hinder them from successfully refilling a prescription. Participants focused on the information they could act on.
+2. Participants used the statuses to determine what action they needed to take. Some statuses do not effectively communicate what action a user may or may not need to take.
+3. Of those that responded (2), participants understood the expired date field related to the prescription expiration date and not the medication expiration date.
+4. Of those that responded (6), participants said the refills left field was important in helping manage their prescription.
 
 
 ### Recommendations
