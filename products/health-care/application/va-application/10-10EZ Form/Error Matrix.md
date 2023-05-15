@@ -28,12 +28,22 @@ Please see the individual errors below for the full text.
 | Unscheduled downtime AUTHENTICATED |[[h3] Some online tools or services aren't working right now [p] You may have trouble accessing the health care application at this time. We're working to fix this. Please check back soon. | Try again later. |
 
 
-### Access Messages
+### Engagement Messages
 
 | Scenario | Abridged Message | Resolution |
 | -------- | ---------------- | ---------- |
 | Authentication required to complete form | [h3] Please sign in to review your information [p] We're sorry for the interruption, but we've found some more information that we need you to review before you can apply for VA health care. | Sign in or create account to review the information |
-| Information pre-filled AUTHENTICATED | [p] Note: Since you're signed in to your account, we can prefill part of your application based on your account details. | Review prefilled information |
+| Information pre-filled initial AUTHENTICATED | [p] Note: Since you're signed in to your account, we can prefill part of your application based on your account details. | Review prefilled information | 
+| Prefilled alert message - AUTHENTICATED | [p] We've prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below. |  | Auto Save - AUTHENTICATED | [p] Your application has been saved. It was last saved on [Month Day, Year at Time]. Your application ID number is [number]. |  | 
+| Saved application - AUTHENTICATED | [h3] Your health care benefits application has been saved [p] Last saved on {date time} Your saved application will expire on DATE. | Complete before expiration date or start a new application.|
+| Short form - AUTHENTICATED | [h3] You can fill out a shorter application [p] Our records show that you have a VA service-connected disability rating of 75%. This means you meet one of our eligibility criteria. | |
+
+
+
+### Accesss Messages
+
+| Scenario | Abridged Message | Resolution |
+| -------- | ---------------- | ---------- |
 
 
 
