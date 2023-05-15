@@ -50,8 +50,8 @@ We'd hope to incorporate a remote location with a preferred video conferencing s
 
 ### Research materials
 For moderated usability tests: 
-- [Link to conversation guide - TBD](Url goes here)
-- [Link to Pre-Need Pre-Integration prototype](https://vaselfservice.invisionapp.com/console/share/BGYS6FJQ49H) - This prototype contains content and accessibility enhancements that we're able to implement pre-integration without damaging our legacy system
+- [Link to conversation guide - TBD](Url goes here.
+- [Link to Pre-Need Pre-Integration prototype](https://vaselfservice.invisionapp.com/console/share/BGYS6FJQ49H) - This prototype contains content and accessibility enhancements that we're able to implement pre-integration without damaging our legacy system.
 	
 ## Recruitment	
 
