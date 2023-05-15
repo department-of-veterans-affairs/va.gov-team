@@ -4,7 +4,12 @@
 
 Attendees:
 
-**Item**
+
+**Headline and Radio label design discovery**
+- Notes
+
+
+**Misc Item**
 - Any onboarding related questions?
 - Designer interests and experiences list
 - Content process ideas
