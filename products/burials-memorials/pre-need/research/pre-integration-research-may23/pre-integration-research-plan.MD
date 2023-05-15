@@ -46,7 +46,7 @@ Our hypothesis is that users might:
 We'd like to incorporate moderated usability testing with Zoom on mobile, depending on what Perigean recommends.
 
 ### Location
-We hope to incorporate a remote location with a preferred video conferencing software as Zoom.
+We'd hope to incorporate a remote location with a preferred video conferencing software as Zoom.
 
 ### Research materials
 For moderated usability tests: 
