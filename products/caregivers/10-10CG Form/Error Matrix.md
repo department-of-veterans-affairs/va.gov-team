@@ -1,6 +1,28 @@
 # 10-10CG Errors
+## Audit
+[10-10CG Error Messages - Content and Design Audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683656893560/fccf821394d1cf693ad1c036e912e11a18ff88bd?sender=uadf1ed7fe7c76f0914967329)
+
 ## Matrix
-This matrix contains abridged messaging and resolution for the errors that can be encountered in the form.  Please see the individual errors below for the full text.
+
+This matrix contains abridged messaging and resolution for the errors that can be encountered in the form. The are categorized under:
+1. System, 
+2. Feedback and 
+3. Individual Form Fields.  
+
+ 
+Please see the individual errors below for the full text.
+
+---
+
+### System Error Messages
+
+| Scenario | Abridged Message | Resolution |
+| -------- | ---------------- | ---------- |
+| Maintenance | [h3] This tool is down for maintenance. [p] We're making updates to this tool ... | Return to complete at a later time |
+
+
+### Feedback Error Messages
+
 | Scenario | Abridged Message | Resolution |
 | -------- | ---------------- | ---------- |
 | No family caregiver has been declared | We need you to add a Family Caregiver.  Your application cannot be processed unless you add one.  Please go back and add a Caregiver to your application | Use the 'Back' feature to add a primary or secondary Caregiver |
@@ -12,7 +34,9 @@ This matrix contains abridged messaging and resolution for the errors that can b
 |File uploaded is too small (<1B)| We couldn't upload your file because it's too small. Please make sure the file is 1B or more and try again.|Check the file to ensure it is the correct document and that it is more than 1 byte.|
 |File uploaded is the wrong file type|We couldn't upload your file because we can't accept this type of file.|Check the file to ensure it is the correct document and that it is one of the acceptable file types.|
 
-## Errors
+
+
+## All Errors
 This is the full text message and resolution for individual errors that can be encountered.
 <details>
   
