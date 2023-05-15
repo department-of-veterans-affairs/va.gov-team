@@ -1,4 +1,3 @@
-## This is a draft. This message will be removed when this is ready for review and the title will also be updated then.
 ### Recommendation 1
 >Provide a default list view that surfaces Active prescriptions without having to select additional options. This would support the observed usability patterns. Possible solution: Default the list to show Active prescriptions, and provide All prescriptions as a filter option.
   * **Potential bet**: People will take less time to complete a refill.
@@ -16,6 +15,7 @@
 >Improve the experience when selecting a prescription from the list. Possible solution: Increase the size of the touch target on the prescription card, or replace the component to match other areas in the app.
 * **Potential bet**: Users will find it easier to navigate to prescription details.
 * **Measure**: Average time to open a prescription details card will decrease.
+* This is a great opportunity to try out **A/B testing**. We could pursue both options (an increased touch target and a fully clickable "card") and then turn those options on for samples of users and see how they compare. 
 
 **Other considerations**
 * We expect people will perform fewer non-navigating/interacting clicks on a screen. (see outstanding questions for more details.) 
