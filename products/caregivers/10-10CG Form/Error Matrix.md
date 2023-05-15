@@ -43,11 +43,14 @@ Please see the individual errors below for the full text.
 |File upload confirmation|It's easy to upload the wrong file by mistake. We want to make sure that we will review the right document (such as a valid Power of Attorney, legal guardianship order, or other legal document). This will help speed up your application process.|Proceed to next question of application|
 
 
-
+### Feedback Error Messages - Individual Fields
+[Mural board audit - completed May 2023](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683656893560/fccf821394d1cf693ad1c036e912e11a18ff88bd?wid=0-1684180336988&outline=open)
 
 
 ## All Errors
 This is the full text message and resolution for individual errors that can be encountered.
+
+
 <details>
   
   <summary>No family caregiver has been declared</summary>
