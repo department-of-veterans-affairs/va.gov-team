@@ -32,7 +32,7 @@ Please see the individual errors below for the full text.
 |Submit successful |[h3] Thank you for completing your application [p] Once we’ve successfully received your application, we’ll contact you to tell you what happens next in the application process.| Confirmation page with success alert |
 
 
-### Feedback Error Messages - File Upload 
+#### Feedback Error Messages - File Upload 
 
 | Scenario | Abridged Message | Resolution |
 | -------- | ---------------- | ---------- |
@@ -43,11 +43,12 @@ Please see the individual errors below for the full text.
 |File upload confirmation|It's easy to upload the wrong file by mistake. We want to make sure that we will review the right document (such as a valid Power of Attorney, legal guardianship order, or other legal document). This will help speed up your application process.|Proceed to next question of application|
 
 
-### Feedback Error Messages - Individual Fields
+#### Feedback Error Messages - Individual Fields
 [Mural board audit - completed May 2023](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683656893560/fccf821394d1cf693ad1c036e912e11a18ff88bd?wid=0-1684180336988&outline=open)
 
 
-## All Errors
+## All Errors - Full text
+
 This is the full text message and resolution for individual errors that can be encountered.
 
 
