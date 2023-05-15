@@ -163,7 +163,7 @@ _[provide additional help as necessary]_
 
 _[when details page is open]:_
 
-- I would like you to review these results as if they were your own. Please share any thoughts you have while you go through them if any of the parts stand out for you, and when you are done.
+- I would like you to review these results as if they were your own. Please share any thoughts you have while you go through them if any of the parts stand out for you, and let me know when you are done.
 
 _[after the participant states they are done]_
 -	Have you ever reviewed the results of your own bloodwork? 
