@@ -1,4 +1,4 @@
-# Research Plan for VA Memorials Self-Service MBS Team, Application for Pre-Need Eligibility Determination (VA Form 40-10007), May 2023
+# Research Plan for MBS Self-Service Team, Application for Pre-Need Eligibility Determination (VA Form 40-10007), May 2023
 
 ## Background
 The National Cemetery Administration (NCA) is working to modernize its systems, including the system that processes pre-need applications (VA Form 40-10007) for determining eligibility for burial in a VA national cemetery. Presently, pre-need cases are processed in the newly-modernized system and in the legacy system. Analysits are swiveling between the two systems to manage cases, which impacts timeliness measures for Eligibility Office (EO) analysts and Scheduling Office (SO) agents at the National Cemetery Scheduling Office (NCSO). Ultimately, users applying for pre-need are impacted, as eligibility determinations are delayed due to longer proccessing times.
@@ -18,21 +18,28 @@ This research supports the following 2023 OCTO objectives:
 ### Veteran Journey
 The Pre-Need application applies to life stages from **Serving** onward to **Dying**, as service members, Veterans, family members, and representatives may apply at any time to determine if applicants are eligible for burial in VA national cemeteries. 
 
-## Research Goals	
+## Research Goals / Questions	
 The goals of this user research are to: 
-1. Learn how users experience applying for pre-need to identify  improvements that can be made to address usability pain points, user feedback/concerns, and low submission rates
-2. Understand if the pre-need application is confusing for users in the entering of their details, as information is collected for up to three people in the form (applicant, sponsor, preparer), and determine which enhancements could improve their overall user experience to mitigate confusion and reduce form entry errors
-3. Learn from users about potential options and improvements in the user experience that would lead to a reduction in form entry errors, while using empathy in content considerations. 
-
+1. Learn how users experience applying for pre-need to identify improvements that can be made to address usability pain points, improve the rate of mobile applications, address user feedback/concerns, and improve its fairly low submission rate
+..1. What's working well for users and what are the pain points they're experiencing when applying for pre-need?
+3. Understand if the pre-need application is confusing for users in the entering of their details, as information is collected for up to three people in the form (applicant, sponsor, preparer), and determine which enhancements could improve their overall user experience to mitigate confusion and reduce form entry errors
+4. Since the pre-need application contains potentially sensitive questions and because it deals with a sensitive topic overall, determine how the application process and content presented to users in the form can be improved to reduce/eliminate any discomfort users may experience
+..1.  
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+Since we are limited in how much can be manipulated in the current form pre-integration without breaking the legacy system, this research will help in identifying what is working in the current form and if user pain points exist that we can then fully address for the integration phase if we are unable to address them pre-integration. 
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
 - What will I do with what I learn from this question?
 - Does this question serve the goals of my study?
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+1. What pain points are users experiencing in the Pre-Need Form VA Form 40-10007 application process? 
+
+2. Which Pre-Need Form VA Form 40-10007 enhancements might improve the user experience? 
+
+3. Does the Pre-Need Form VA Form 40-10007 content meet specific user needs in this particularly sensitive application process? 
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
