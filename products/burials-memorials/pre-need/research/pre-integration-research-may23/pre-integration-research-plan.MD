@@ -63,19 +63,23 @@ We’d like to recruit 9 Veterans, family members,  for a total of 6-8 completed
 **Primary criteria (must-haves)**
 - Amount: Target is 6-8 participants but recruit 9
 - Age ranges: 
-    * 80% 35+
-    * 20% 18-34
+    * Around 80% 35+
+    * Around 20% 18-34
 - Types: 
-    * Three service members and Veterans 
+    * Three to four service members and Veterans 
      	- Age 55+, Black, male 
     	- Age 35-54+, White, female, assistive tech user 
      	- Age 18-34, Hispanic, male 
     * One spouse or surviving spouse of a service member of Veteran (A **spouse** is a person who is or was legally married to a service member or Veteran. A **surviving spouse** is someone who was legally married to the service member or Veteran at the time of their death and includes a surviving spouse who remarried.)
      	- Any age, LGBTQ+, female
-    * One representative (person filling out form on behalf of applicant)
+    * One representative (a person filling out pre-need form on behalf of applicant, such as a **preparer**)
      	- Age 35+, Asian, Male 
-
-Age 45-54, Hispanic, male 
+    * One unmarried adult child (An **unmarried adult child** is an individual who became physically or mentally disabled permanently and incapable of self-support before the age of 21, or before 23 years of age if pursuing a full-time course of instruction at an approved educational institution.)
+     	- Age 18-20 or 18-22 if pursuing degree
+    * One parent of a service member or Veteran (considered a Corey Shea Act applicant)
+     	- Age 40+
+    * One person interested in pre-need eligibility determination
+ 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
 
