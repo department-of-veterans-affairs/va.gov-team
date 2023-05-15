@@ -18,7 +18,7 @@ Please see the individual errors below for the full text.
 
 | Scenario | Abridged Message | Resolution |
 | -------- | ---------------- | ---------- |
-| Maintenance | [h3] This tool is down for maintenance. [p] We're making updates to this tool ... | Return to complete at a later time |
+| Maintenance | [h3] This tool is down for maintenance. [p] We're making updates to this tool... | Return to complete at a later time |
 
 
 ### Feedback Error Messages
@@ -29,8 +29,7 @@ Please see the individual errors below for the full text.
 | Unable to successfully submit form | We didn't receive your online application. | Review, download, print, and sign a copy of the completed application and mail it in. |
 | Unable to download PDF form - Error code 4 | We're sorry.  We couldn't download your form.  Please check the data and try again. | Review application and try to download again. |
 | Unable to download PDF form - Error code 5 | We're sorry.  VA.gov is down right now.  If you need help right now, please call us. | Wait a few minutes and attempt to download again. |
-|Submit success |[h3] Thank you for completing your application
-[p] Once we’ve successfully received your application, we’ll contact you to tell you what happens next in the application process.| Confirmation page with success alert |
+|Submit success |[h3] Thank you for completing your application [p] Once we’ve successfully received your application, we’ll contact you to tell you what happens next in the application process.| Confirmation page with success alert |
 
 
 ### Feedback Error Messages - File Upload 
