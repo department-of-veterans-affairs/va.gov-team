@@ -87,25 +87,26 @@ Weâ€™d like to recruit 9 participants for a total of 6-8 completed sessions. Weâ
 
 **Screener questions to target criteria not captured in the recruitment sign-up survey:**
 1. Are you a Veteran or a service member?
-- If yes, go to question 3. 
-- If no, go to question 2.
+    * If yes, go to question 3. 
+    * If no, go to question 2.
 2. Which of the following describes your relationship to a Veteran or service member? 
     * I am their spouse or surviving spouse 
     * I am their unmarried adult child 
     * I am their parent
     * None of the above, but I am interested in applying for pre-need eligibility determination for myself or for someone else
 3. Have you applied or tried to apply for a pre-need eligibility determination at least once in the last 12 months? 
-- If yes, go to question 5. 
-- If no, go to question 4.
+    * If yes, go to question 5. 
+    * If no, go to question 4.
 4. Are you interested in applying for a pre-need eligibility determination for yourself or on behalf of someone else? 
-- If yes, go to question 5. 
-- If no, disqualify.
-5. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? Proceed to question 3a if yes. Proceed to 3c if no. 
-- 3a. Are you able to join the Zoom session using this assistive technology?  
+    * If yes, go to question 5. 
+    * If no, disqualify.
+5. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? Proceed to question 5a if yes. Proceed to 5c if no. 
+    * 5a. Are you able to join the Zoom session using this assistive technology?  
 Answer should be yes to satisfy criteria for screen reader. 
-- 3b. Please list the name of the assistive technology or software you will use during the session. 
-- 3c. Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone?     * Any kind of smart phone will work, as long as it connects to the internet.  
-    * Answer should be yes to satisfy criteria for 3-4 mobile users. 
+    * 5b. Please list the name of the assistive technology or software you will use during the session. 
+    * 5c. Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone?
+    	* Any kind of smart phone will work, as long as it connects to the internet.  
+    	* Answer should be yes to satisfy criteria for 3-4 mobile users. 
 
 ## Timeline
 TBD
