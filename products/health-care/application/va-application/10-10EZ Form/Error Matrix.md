@@ -51,7 +51,7 @@ Please see the individual errors below or the Mural board for the full text and 
 | Does not qualify |[h3] You didn’t qualify for VA health care based on your previous application...[p] Our records show that you don’t have a service-connected disability, an income that falls below our income limits based on where you live, or another special eligibility factor (like receiving a Medal of Honor or Purple Heart award).| |
 
 
-#### Accesss Messages - Inelligible 
+#### Access Messages - Inelligible 
 
 | Scenario | Abridged Message | Resolution |
 | -------- | ---------------- | ---------- |
@@ -63,7 +63,7 @@ Please see the individual errors below or the Mural board for the full text and 
 | ineligNotEnoughTime, ineligTrainingOnly | [h3] We determined that you don’t qualify for VA health care based on your past application...[p] [p] Our records show that you served on active duty for less than 24 continuous months. To qualify for VA health care without other special eligibility factors, you must have served on active duty for at least 24 months all at once, without a break in service.| |
 | ineligNotVerified | [h3] We determined that you don’t qualify for VA health care based on your past application...[p] We determined that you’re not eligible for VA health care because we didn’t have proof of your military service (like your DD214 or other separation papers). | | 
 
-#### Accesss Messages - Pending 
+#### Access Messages - Pending 
 
 | Scenario | Abridged Message | Resolution |
 | -------- | ---------------- | ---------- |
@@ -110,6 +110,7 @@ Please see the individual errors below or the Mural board for the full text and 
 --- 
 
 ## All Errors - Full text
+
 This is the full text mesasge and resolution for individual errors that can be encountered.
 <details>
   
