@@ -22,7 +22,7 @@ Please schedule a short chat with each of these folks, either individually or in
 - [ ] Jonathan Nelson (Designer)
 - [ ] Carlos Felix (Technical Architect)
 - [ ] Eric Voshall (Full Stack Engineer)
-- [ ] Sara Smith (Accessibility)
+- [ ] Angela Fowler (Accessibility)
 - [ ] Erin Flaherty (QA)
 
 More details about the team and our business partners can be found in the [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md#team). 
