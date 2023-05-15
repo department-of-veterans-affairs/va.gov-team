@@ -16,6 +16,7 @@ We need system designs/maps, not just UX/UI but the map of the system, what is c
 ## Outstanding questions
 - Is the MHV Rx shipping and tracking email notification the same as the text notification, with regard to it applying only to certain facilities? If so, are they the same facilities?
 - Is the VA Profile API flexible enough that we can have a unique channel name/label for a notification item? The MHV Newsletter isn't a notification as much as it is a subscription, and people were confused by the label "notify me by email" for this notification in user research.
+- Will peopel's contact email address migrate over from the MHV profile to the VA.gov profile 1:1? Wondering if anyone who is currently opted into MHV email notifications could encounter the "we don't have your email address" messaging in our notification feature.
 
 ## Call/Meeting Log
 ### Email from first call 5/8/2023
