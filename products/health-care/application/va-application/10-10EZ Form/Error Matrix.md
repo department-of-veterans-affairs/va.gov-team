@@ -38,7 +38,7 @@ Please see the individual errors below for the full text.
 
 
 
-### Accesss Messages
+### Access Messages
 
 | Scenario | Abridged Message | Resolution |
 | -------- | ---------------- | ---------- |
@@ -47,9 +47,11 @@ Please see the individual errors below for the full text.
 | Closed | [h3] Our records show that your application for VA health care expired [p bold] You applied on: (end bold) DATE | |
 | Deceased | [h3] Our records show that this Veteran is deceased [p bold] You applied on: (end bold) DATE | |
 | Enrolled | [h3] You’re already enrolled in VA health care [p bold] You applied on: (end bold) DATE [p bold] We enrolled you on: (end bold) DATE [p bold] Your preferred VA medical center is: (end bold) FACILITY | |
+| Non military | [h3] We see that you aren’t a Veteran or service member [p bold] You applied on: (end bold) DATE | |
+| Does not qualify |[h3] You didn’t qualify for VA health care based on your previous application...[p] Our records show that you don’t have a service-connected disability, an income that falls below our income limits based on where you live, or another special eligibility factor (like receiving a Medal of Honor or Purple Heart award).| |
 
 
-### Accesss Messages - Inelligible 
+#### Accesss Messages - Inelligible 
 
 | Scenario | Abridged Message | Resolution |
 | -------- | ---------------- | ---------- |
@@ -59,8 +61,15 @@ Please see the individual errors below for the full text.
 | ineligFugitiveFelon, ineligMedicare, ineligOther, ineligOver65, ineligRefusedCopay | [h3] We determined that you don’t qualify for VA health care based on your past application | |
 | ineligGuardReserve | [h3] We determined that you don’t qualify for VA health care based on your past application...[p] Our records show that you served in the National Guard or Reserves, and weren’t activated to federal active duty for at least 24 continuous months. To qualify for VA health care without other special eligibility factors, you must have served on active duty for at least 24 months all at once, without a break in service. | |
 | ineligNotEnoughTime, ineligTrainingOnly | [h3] We determined that you don’t qualify for VA health care based on your past application...[p] [p] Our records show that you served on active duty for less than 24 continuous months. To qualify for VA health care without other special eligibility factors, you must have served on active duty for at least 24 months all at once, without a break in service.| |
+| ineligNotVerified | [h3] We determined that you don’t qualify for VA health care based on your past application...[p] We determined that you’re not eligible for VA health care because we didn’t have proof of your military service (like your DD214 or other separation papers). | | 
 
+#### Accesss Messages - Pending 
 
+| Scenario | Abridged Message | Resolution |
+| -------- | ---------------- | ---------- |
+| pendingMt | [h3] We need more information to complete our review of your VA health care application [p bold] You applied on: (end bold) DATE [p] We need you to submit a financial disclosure so we can determine if you’re eligible for VA health care based on your income. | |
+| pendingOther, pendingUnverified | [h3] We’re reviewing your application [p bold] You applied on: (end bold) DATE [p] We’re in the process of verifying your military service. We’ll contact you by mail if we need you to submit supporting documents (like your DD214 or other discharge papers or separation documents). | | 
+| pendingPurpleHeart | [h3] We need more information to complete our review of your VA health care application [p bold] You applied on: (end bold) DATE [p] You included on your application that you’ve received a Purple Heart medal. We need an official document showing that you received this award so we can confirm your eligibility for VA health care. [a] Find out how to request your military records | | 
 
 
 ### Feedback Messages
