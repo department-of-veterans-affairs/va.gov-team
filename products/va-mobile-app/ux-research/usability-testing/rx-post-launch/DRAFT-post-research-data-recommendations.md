@@ -43,10 +43,13 @@ Reorganize content to meet the mental models of what’s needed to fill a prescr
 
 ### Recommendation 5
 Investigate a plain language approach to prescription statuses that can stand without definitions.
-* Potential bet: tap the pill thing and the definition comes up.
-* tracking might be missing? Both on list and details.
+* This is an area where we need more information to make a bet, such as:
+ * How often are users clicking on the status definitions? How much time do they spend reviewing them?
+ * Do users who click on status definitions do so more from the list view or the details view?
 
 ### Recommendation 6
 Consider ways to incorporate “send message” functionality in the Prescriptions feature. This would support the Veteran’s journey to renew a prescription by sending the details directly to the prescribing team.
-Potential bet: How often do folks navigate between Rx and SM in short time frame? This will go down if we incorporate this button. 
-* Message category tracking will help with this
+* This is an area where we need more information to make a bet, such as:
+ * Message category tracking (which already has a ticket due to needs around SM feature) to know how often patients are messaging their doctors about medications through the app.
+ * How often do folks navigate between Rx and SM (including sending a message) in short time frame?
+ 
