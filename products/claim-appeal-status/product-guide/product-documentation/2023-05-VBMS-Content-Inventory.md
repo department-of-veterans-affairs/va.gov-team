@@ -2,14 +2,12 @@
 
 ## Claims, Decision Reviews, Appeals
 
->  **Note** Open Questions
-> **Appeal Status Unavailable**
-> What leads the CST to display "Appeal Status Unavailable"?
-> (Is it an empty state? Or is it resulting from a network error?)
+> **Note** Open Questions  
+> - **Appeal Status Unavailable**  
+> What leads the CST to display "Appeal Status Unavailable"? (Is it an empty state? Or is it resulting from a network error?)
 >
-> **Status - Claim Received**
-> What VBMS state results in the status "Claim received" displayed in
-> the CST? Can a claim be "received" before going into initial review?
+> - **Status - Claim Received**  
+> What VBMS state results in the status "Claim received" displayed in the CST? Can a claim be "received" before going into initial review?
 
 ### Attributes
 ##### Claim
@@ -53,13 +51,14 @@
 ### Parameters
 ##### Claim Label / EP Codes (VBMS)
 Comprehensive list on [KnowVA](https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000011474/Appendix-B.-End-Product-(EP)-Codes)
+
 - 110 Initial Claim
 - 010 Initial Claim with 8 or more Contentions
 - 020 Additional Claim 
   Claims Received After the Initial Eligibility Decision Added sequentially as 020, 021, 022... and put in a group
 - 040 Supplemental Claims
 
-### **VBMS Claim Status**
+### VBMS Claim Status
 - Open
 - Ready to Work
 - Ready for Decision
@@ -69,7 +68,7 @@ Comprehensive list on [KnowVA](https://www.knowva.ebenefits.va.gov/system/templa
 - Rating Correction
 - ?? Closed
 
-### **Suspense Reasons**
+### Suspense Reasons
 - Request for Federal Records
 - Request for Non-Federal Records
 - Development to the Claimant
@@ -108,16 +107,16 @@ Comprehensive list on [KnowVA](https://www.knowva.ebenefits.va.gov/system/templa
 ##### Status
 - Lifecycle Status
 
-**Workflow Related**
+##### Workflow Related
 - Automation Indicator
 
 ### Parameters
-##### **Lifecycle Status**
+##### Lifecycle Status
 - Rating Complete
 - Rating Correction
 - Secondary Rating Needed (?)
 
-### **Contention Type**
+### Contention Type
 - New
 - Increase
 - Secondary
@@ -128,12 +127,11 @@ Comprehensive list on [KnowVA](https://www.knowva.ebenefits.va.gov/system/templa
 
 ## Tracked Items / Requests
 
-> **Note** Open questions
->
-> **Tracked Item Status**
+> **Note** Open questions  
+> - **Tracked Item Status**
 > Why would something show up as "no longer needed"?
 >
-> **Tracked Item Content / Descriptions**
+> - **Tracked Item Content / Descriptions**
 > Why would a requested item appear in the CST with no description?\
 > What descriptive content is available for requests in the CST? Where
 > does the description field we get in CST come from (letter, BGS)?\
@@ -141,11 +139,11 @@ Comprehensive list on [KnowVA](https://www.knowva.ebenefits.va.gov/system/templa
 > items and also provide list of terms that does not have associated
 > boilerplate
 >
-> **Buddy Statement Requests**
+> - **Buddy Statement Requests**
 > What's the difference between "Buddy statement requested" and "Submit
 > buddy statements"?
 >
-> **Boiler Plate Content**
+> - **Boiler Plate Content**
 > There's a paragraph preview in VBMS that seems to feed the description
 > in the UI (free text). It's unclear where this text is pulled in from.
 > Is there a BGS data attribute for that this content?
@@ -155,7 +153,7 @@ Comprehensive list on [KnowVA](https://www.knowva.ebenefits.va.gov/system/templa
 - Requested Item
 
 ##### Owner
--   Sent to
+- Sent to
 
 ##### Status
 - Request Status
