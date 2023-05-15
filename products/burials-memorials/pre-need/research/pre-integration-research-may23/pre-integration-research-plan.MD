@@ -7,7 +7,7 @@ The application for Pre-Need Eligibility Determination (VA Form 40-10007) is off
 
 Based on discovery research and the overall goals for the project, our plan is to: 
 1. Release incremental enhancements in a "Pre-Integration" phase (before the application is integrated with related systems) due to limitations with the legacy system, **and to** 
-2. Release enhancements in an "Integration" phase in which the form will be fully integrated with modernized and legacy systems to allow for faster case processing
+2. Release enhancements in an "Integration" phase in which the form will be fully integrated with modernized system to allow for faster case processing
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/initiative-brief.md). 
 
