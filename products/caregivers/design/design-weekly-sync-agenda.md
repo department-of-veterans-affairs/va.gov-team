@@ -5,6 +5,7 @@
 Attendees:
 
 **Item**
+- Any onboarding related questions?
 - Designer interests and experiences list
 - Content process ideas
 - Source of truth - what lives where - Sketch, Mural, Github
