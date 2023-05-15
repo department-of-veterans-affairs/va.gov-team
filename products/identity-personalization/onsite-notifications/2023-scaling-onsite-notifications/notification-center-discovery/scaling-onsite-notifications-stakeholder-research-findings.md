@@ -57,7 +57,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 3. **We heard some common themes about challenges to consider with scaling notifications, like giving users some control so notifications don't become noise, and the need for notifications to talk to each other across any interfaces where they appear.**
 
-4. **A notification center on VA.gov would likely need to support messages as well as notifications in the future.**
+4. **A notification center on VA.gov may need to support messages as well as notifications in the future.**
 
 5. **There will be special accessibility considerations for scaling notifications on VA.gov.**
 
@@ -147,7 +147,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 **Finding 4**
 
-**A notification center on VA.gov would likely need to support messages as well as notifications in the future.** 
+**A notification center on VA.gov may need to support messages as well as notifications in the future.** 
 
 ### Supporting quotes and notes
 
