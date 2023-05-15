@@ -128,22 +128,19 @@ Comprehensive list on [KnowVA](https://www.knowva.ebenefits.va.gov/system/templa
 ## Tracked Items / Requests
 
 > **Note** Open questions  
-> - **Tracked Item Status**
+> - **Tracked Item Status**  
 > Why would something show up as "no longer needed"?
 >
-> - **Tracked Item Content / Descriptions**
-> Why would a requested item appear in the CST with no description?\
-> What descriptive content is available for requests in the CST? Where
+> - **Tracked Item Content / Descriptions**  
+> Why would a requested item appear in the CST with no description? What descriptive content is available for requests in the CST? Where
 > does the description field we get in CST come from (letter, BGS)?\
-> Next Step: request ask BGS if they create boiler plate for requested
-> items and also provide list of terms that does not have associated
-> boilerplate
+> Next Step: Ask BGS if they create boilerplate for requested items and also provide list of terms that does not have associated boilerplates.
 >
-> - **Buddy Statement Requests**
+> - **Buddy Statement Requests**  
 > What's the difference between "Buddy statement requested" and "Submit
 > buddy statements"?
 >
-> - **Boiler Plate Content**
+> - **Boiler Plate Content**  
 > There's a paragraph preview in VBMS that seems to feed the description
 > in the UI (free text). It's unclear where this text is pulled in from.
 > Is there a BGS data attribute for that this content?
@@ -173,12 +170,12 @@ Comprehensive list on [KnowVA](https://www.knowva.ebenefits.va.gov/system/templa
 #### Request Status
 - NEEDED
 - SUBMITTED_AWAITING_REVIEW
-- RECEIVED
+- RECEIVED  
   Requested information has been received; completed (oftentimes appended automatically)
-- CLOSED
-  Tracked item suspense date has expired or item has canceled. Expirations occur automatically, eg veteran doesn't respond with buddy statement within 30 days.
-- IN ERROR:
-  Unnecessary or added by accident
+- CLOSED  
+Tracked item suspense date has expired or item has canceled. Expirations occur automatically, eg veteran doesn't respond with buddy statement within 30 days.
+- IN ERROR  
+Unnecessary or added by accident
 
 #### Request Types (Item)
 - VBMS "Item requested" types don't match document types in the dropdown
