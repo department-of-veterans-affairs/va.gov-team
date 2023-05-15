@@ -10,6 +10,10 @@ Provide a pathway for Active Duty Service Members and Veterans who want to regis
      - Definitions:
           - **Registration**: Adding a Veteran or Patient into ES or the VA's electronic health record for the purpose of receiving services at a VA medical facility.  Registration in ES must be completed prior to enrollment.
           - **Veteran**: A person who Served in the active military, naval, or air service and was discharged or released from service under conditions other than dishonorable.
+- Stakeholder request:
+>Desired Functionality: The online form will be a short form to collect the Veterans information Name, SSN, DOB, Address, Phone Number, Military Service Dates and Reason for Registration Only. This information will feed into VES and place the Veteran in a Registration >Only status if they do not wish to enroll. If the Veteran is already known to the system we will capture and update existing information if it is different.
+>Capture and retain a 1010EZ Registration application when received online.
+>Create service to receive online form data from VA.gov for Veterans who do not wish to enroll and provide that data to VistA/Millennium. In alignment with PACT Act, COMPACT, SERVICE Act and 38 CFR 17.37 this enables Veterans to request an appointment and register for those not wishing to enroll.
 
 
 
