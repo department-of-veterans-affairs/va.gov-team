@@ -82,7 +82,6 @@ Please see the individual errors below for the full text.
 | Short form post-notice | [label] You’re  filling out a shortened application! [p] Your service-connected disability rating is 50% or higher. This is one of our eligibility criteria. | |
 | Submission Successful | [h3] Thank you for completing your application for health care [p] Once we’ve successfully received your application, we’ll contact you to tell you what happens next in the application process | |
 | Submission Failed | h3] We didn’t receive your online application [p] We’re sorry. Something went wrong when you tried to submit your application. If you were signed in, you can try to submit your application again later. If you were not signed in, you may need to fill out and submit the online application again. [p] Other ways to apply....| |
-| 
 
 
 #### Feedback Messages - File Upload
@@ -92,14 +91,17 @@ Please see the individual errors below for the full text.
 | Upload failed | We couldn't upload you file.  | |
 
 
-
-
-
 #### Feedback Messages - NOT YET LIVE - Household informaiton optimization 
 
 | Scenario | Abridged Message | Resolution |
 | -------- | ---------------- | ---------- |
 | 
+
+
+
+#### Feedback Messages - Individual form fields
+
+[Mural audit of inidivual field messages](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683651181051/e0f47b9aaefbf78a3942df3028525cdc4336caff?wid=0-1684188716359&outline=open)
 
 
 --- 
