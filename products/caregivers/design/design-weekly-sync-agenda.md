@@ -5,10 +5,17 @@
 Attendees:
 
 **Item**
+- Designer interests and experiences list
+- Content process ideas
+- Source of truth - what lives where - Sketch, Mural, Github
+- 
 
 ### Action items
 
 - Item
+
+
+--- 
 
 ## 2023-05-08
 
