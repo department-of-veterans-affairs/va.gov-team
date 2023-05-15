@@ -3,7 +3,7 @@
 ## Background
 The National Cemetery Administration (NCA) is working to modernize its systems, including the system that processes pre-need applications (VA Form 40-10007) for determining eligibility for burial in a VA national cemetery. Presently, pre-need cases are processed in the newly-modernized system and in the legacy system. Analysts are swiveling between the two systems to manage cases, which impacts timeliness measures for Eligibility Office (EO) analysts and Scheduling Office (SO) agents at the National Cemetery Scheduling Office (NCSO). Ultimately, users applying for pre-need are impacted, as eligibility determinations are delayed due to longer processing times.
 
-The Application for Pre-Need Eligibility Determination (VA Form 40-10007) is offered to Veterans, service members, family members, and representatives as both authorized/unauthorized experiences, and it is accessible through the Burials and Memorials hub page. 
+The application for Pre-Need Eligibility Determination (VA Form 40-10007) is offered to Veterans, service members, family members, and representatives as both authorized/unauthorized experiences, and it is accessible through the Burials and memorials hub page. 
 
 Based on discovery research and the overall goals for the project, our plan is to: 
 1. Release incremental enhancements in a "Pre-Integration" phase (before the application is integrated with related systems) due to limitations with the legacy system, **and to** 
@@ -42,11 +42,11 @@ Our hypothesis is that users might:
 - Deem certain parts of the form as too insensitive, and they may wonder why they have to provide that information, particularly questions centered around the death of family members and other demographic questions
 - Be confused by the different terminology in the form, causing them to wonder where they need to enter specific information or which options they should select
 
-## Methodology	
-Moderated usability testing with Zoom on mobile, depending on what Perigean recommends
+## Methodology
+We hope to incorporate moderated usability testing with Zoom on mobile, depending on what Perigean recommends.
 
 ### Location
-Remote location with the preferred video conferencing software as Zoom
+We'd like to incorporate a remote location with a preferred video conferencing software as Zoom.
 
 ### Research materials
 For moderated usability tests: 
@@ -79,7 +79,7 @@ Weâ€™d like to recruit 9 participants for a total of 6-8 completed sessions. Weâ
     * One parent of a service member or Veteran (considered a Corey Shea Act applicant)
      	- Age 40+, Native American
     * One person interested in pre-need eligibility determination
-- All participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
+- Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
 - At least 3-4 people who will use a mobile device during the research session (tablet is ok too)
  
 **Secondary criteria (nice-to-haves)**
@@ -133,7 +133,7 @@ Please request enough dates and at ***least double the amount of time slots for 
 TBD
 	
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.** 	
 - Moderators: 
     * Cindy Cruz, 202-280-5654, cruz_cindy@bah.com
     * Charlie Barron, 248-508-6794, barron_charles@bah.com	
