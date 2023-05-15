@@ -78,8 +78,28 @@ Please see the individual errors below for the full text.
 | -------- | ---------------- | ---------- |
 | Form submission failed, progress is saved | If you'd like to complete this form by phone, please call 877-222-8387 and press 2. | Call customer support for further assistance.
 | Form pre-submission failure, progress is saved | If it still doens't work, please call us at 800-698-2411 | Call customer support for further assistance. |
+| Short form confirmation | [h3] Confirm that you receive service-connected pay for a 50% or higher disability rating. [p] You selected that you currently receive service-connected disability pay for a 50% or higher disability rating. | Confirm or go back to the previous question| 
+| Short form post-notice | [label] You’re  filling out a shortened application! [p] Your service-connected disability rating is 50% or higher. This is one of our eligibility criteria. | |
+| Submission Successful | [h3] Thank you for completing your application for health care [p] Once we’ve successfully received your application, we’ll contact you to tell you what happens next in the application process | |
+| Submission Failed | h3] We didn’t receive your online application [p] We’re sorry. Something went wrong when you tried to submit your application. If you were signed in, you can try to submit your application again later. If you were not signed in, you may need to fill out and submit the online application again. [p] Other ways to apply....| |
+| 
 
 
+#### Feedback Messages - File Upload
+
+| Scenario | Abridged Message | Resolution |
+| -------- | ---------------- | ---------- |
+| Upload failed | We couldn't upload you file.  | |
+
+
+
+
+
+#### Feedback Messages - NOT YET LIVE - Household informaiton optimization 
+
+| Scenario | Abridged Message | Resolution |
+| -------- | ---------------- | ---------- |
+| 
 
 
 --- 
