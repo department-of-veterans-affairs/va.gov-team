@@ -12,8 +12,8 @@ Info Alert:
 
 Here’s how signing in now helps you:
 
-- We can fill in some of your information for you to save you time.
-- You can save your work in progress. You’ll have 60 days from when you start or make updates to your request to come back and finish it.
+* We can fill in some of your information for you to save you time.
+* You can save your work in progress. You’ll have 60 days from when you start or make updates to your request to come back and finish it.
 
 **Note:** You can sign in after you start your request. But you’ll lose any information you already filled in.
 
@@ -22,22 +22,22 @@ Primary Button: **Sign in to start your request**
 ## Follow these steps to request a Board Appeal
 
 ### 1. Check to be sure you can request a Board Appeal
-You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
-**If our decision involves a contested claim,** the Board must receive your completed form within 60 days from the date listed on your decision notice. A contested claim is when a favorable claim decision for one person results in denial or reduced benefits for another person.
+> You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
+> **If our decision involves a contested claim,** the Board must receive your completed form within 60 days from the date listed on your decision notice. A contested claim is when a favorable claim decision for one person results in denial or reduced benefits for another person.
 
-**If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
-    ◦ Within 60 days from the date on the SSOC letter, **or**
-    ◦ Within 1 year of the decision date by the agency of original jurisdiction
+> **If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
+    * Within 60 days from the date on the SSOC letter, **or**
+    * Within 1 year of the decision date by the agency of original jurisdiction
 You can request a Board Appeal for these claim decisions:
-    ◦ An initial claim
-    ◦ A Supplemental Claim
-    ◦ A Higher-Level Review
+    * An initial claim
+    * A Supplemental Claim
+    * A Higher-Level Review
 **Note:** You can’t request a Board Appeal if you’ve already requested one for this same claim.
 
 ### 2. Gather your information
 Here’s what you’ll need to apply:
-    ◦ Your mailing address
-    ◦ The VA decision date for each issue you’d like us to review (this is the date on the decision notice you received physically in the mail)
+    * Your mailing address
+    * The VA decision date for each issue you’d like us to review (this is the date on the decision notice you received physically in the mail)
 
 ### 3. Start your request
 We’ll take you through each step of the process. It should take about 30 minutes.
@@ -68,7 +68,7 @@ Expiration date: **2/28/2022**
 
 Secondary Button: **Privacy Act Statement**
 
-### Need help?
+## Need help?
 
 If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
 
@@ -80,7 +80,7 @@ If you have hearing loss, call TTY: [711](tel:711).
 
 **Respondent Burden:** We need this information to determine your eligibility for benefits (38 U.S.C. 3471). Title 38, United States Code, allows us to ask for this information. We estimate that you will need an average of 30 minutes to review the instructions, find the information, and complete this form. The VA cannot conduct or sponsor a collection of information unless a valid OMB (Office of Management and Budget) control number is displayed. You are not required to respond to a collection of information if this number is not displayed. Valid OMB control numbers can be located on the OMB Internet Page at www.reginfo.gov/public/do/PRAMain. If desired, you can call [1-800-827-1000](https://staging.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182/+18008271000) to get information on where to send comments or suggestions about this form.
 
-**Privacy Act Notice:** The VA will not disclose information collected on this form to any source other than what has been authorized under the Privacy Act of 1974 or title 38, Code of Federal Regulations, section 1.576 for routine uses (e.g., the VA sends educational forms or letters with a veteran’s identifying information to the Veteran’s school or training establishment to (1) assist the veteran in the completion of claims forms or (2) for the VA to obtain further information as may be necessary from the school for VA to properly process the Veteran’s education claim or to monitor his or her progress during training) as identified in the VA system of records, 58VA21/22/28, Compensation, Pension, Education, and Vocational Rehabilitation and Employment Records - VA, and published in the Federal Register. Your obligation to respond is required to obtain or retainbenefits. Giving us your SSN account information is voluntary. Refusal to provide your SSN by itself will not result in the denial of benefits. The VA will not deny an individual benefits for refusing to provide his or her SSN unless the disclosure of the SSN is required by a Federal Statute of law enacted before January 1, 1975, and still in effect. The requested information is considered relevant and necessary to determine the maximum benefits under the law. While you do not have to respond, VA cannot process your claim for education assistance unless the information is furnished as required by existing law (38 U.S.C. 3471). The responses you submit are considered confidential (38 U.S.C. 5701). Any information provided by applicants, recipients, and others may be subject to verification through computer matching programs with other agencies.
+**Privacy Act Notice:** The VA will not disclose information collected on this form to any source other than what has been authorized under the Privacy Act of 1974 or title 38, Code of Federal Regulations, section 1.576 for routine uses (e.g., the VA sends educational forms or letters with a veteran’s identifying information to the Veteran’s school or training establishment to (1) assist the veteran in the completion of claims forms or (2) for the VA to obtain further information as may be necessary from the school for VA to properly process the Veteran’s education claim or to monitor his or her progress during training) as identified in the VA system of records, 58VA21/22/28, Compensation, Pension, Education, and Vocational Rehabilitation and Employment Records * VA, and published in the Federal Register. Your obligation to respond is required to obtain or retainbenefits. Giving us your SSN account information is voluntary. Refusal to provide your SSN by itself will not result in the denial of benefits. The VA will not deny an individual benefits for refusing to provide his or her SSN unless the disclosure of the SSN is required by a Federal Statute of law enacted before January 1, 1975, and still in effect. The requested information is considered relevant and necessary to determine the maximum benefits under the law. While you do not have to respond, VA cannot process your claim for education assistance unless the information is furnished as required by existing law (38 U.S.C. 3471). The responses you submit are considered confidential (38 U.S.C. 5701). Any information provided by applicants, recipients, and others may be subject to verification through computer matching programs with other agencies.
 
 ---
 
@@ -90,7 +90,7 @@ If you have hearing loss, call TTY: [711](tel:711).
 
 VA Form 10182 (Notice of Disagreement)
 
-- Info Alert:
+* Info Alert:
     
     **Note:** Since you’re signed in to your account, we can prefill part of your request based on your account details. You can also save your request in progress and come back later to finish filling it out.
     
@@ -100,27 +100,27 @@ Action Link: **[Sign in to start your request](https://staging.va.gov/decision-r
 ## Follow these steps to request a Board Appeal
 
 ### 1. Check to be sure you can request a Board Appeal
-You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
-**If our decision involves a contested claim,** the Board must receive your completed form within 60 days from the date listed on your decision notice. A contested claim is when a favorable claim decision for one person results in denial or reduced benefits for another person.
+> You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
+> **If our decision involves a contested claim,** the Board must receive your completed form within 60 days from the date listed on your decision notice. A contested claim is when a favorable claim decision for one person results in denial or reduced benefits for another person.
 
-**If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
-    ◦ Within 60 days from the date on the SSOC letter, **or**
-    ◦ Within 1 year of the decision date by the agency of original jurisdiction
+> **If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
+    * Within 60 days from the date on the SSOC letter, **or**
+    * Within 1 year of the decision date by the agency of original jurisdiction
 You can request a Board Appeal for these claim decisions:
-    ◦ An initial claim
-    ◦ A Supplemental Claim
-    ◦ A Higher-Level Review
+    * An initial claim
+    * A Supplemental Claim
+    * A Higher-Level Review
 **Note:** You can’t request a Board Appeal if you’ve already requested one for this same claim.
 
 ### 2. Gather your information
 Here’s what you’ll need to apply:
-    ◦ Your mailing address
-    ◦ The VA decision date for each issue you’d like us to review (this is the date on the decision notice you received physically in the mail)
+    * Your mailing address
+    * The VA decision date for each issue you’d like us to review (this is the date on the decision notice you received physically in the mail)
 
 ### 3. Start your request
 We’ll take you through each step of the process. It should take about 30 minutes.
 
-- What happens after you apply (expand)
+* What happens after you apply (expand)
     
 > After you submit your request for a Board Appeal, you’ll get a confirmation message. You can print this for your records.
 >   
@@ -147,7 +147,7 @@ Expiration date: **2/28/2022**
 
 Secondary Button: **Privacy Act Statement**
 
-### Need help?
+## Need help?
 
 If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
 
@@ -165,11 +165,15 @@ VA Form 10182 (Notice of Disagreement)
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
-**NAME**
-Social Security number: ●●●–●●–XXXX
-VA file number: ●●●–●●-XXXX
-Date of birth: Month X, XXXX
-Gender: Male
+> **NAME**
+
+> Social Security number: ●●●–●●–XXXX
+
+> VA file number: ●●●–●●-XXXX
+
+> Date of birth: Month X, XXXX
+
+> Gender: Male
 
 **Note:** If you need to update your personal information,  call us at [800-827-1000](tel:+18008271000). We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
@@ -177,7 +181,7 @@ Finish this request later
 
 **« Back | Continue »**
 
-### Need help?
+## Need help?
 
 If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
 
@@ -195,14 +199,14 @@ Your application will be saved on every change. Your application ID number is XX
 
 ### Are you experiencing homelessness?
 
-- Yes
-- No
+* Yes
+* No
 
 Finish this request later
 
 **« Back | Continue »**
 
-### Need help?
+## Need help?
 
 If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
 
@@ -224,19 +228,19 @@ This is the contact information we have on file for you. We’ll send any update
 
 **Note:** Any updates you make here will be reflected in your VA.gov profile.
 
-### Mobile phone number
+#### Mobile phone number
 
 XXX-XXX-XXXX
 
 [Edit](https://staging.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182/edit-mobile-phone)
 
-### Email address
+#### Email address
 
 XXX@vets.com
 
 [Edit](https://staging.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182/edit-email-address)
 
-### Mailing address
+#### Mailing address
 
 Address
 
@@ -246,7 +250,7 @@ Finish this request later
 
 **« Back | Continue »**
 
-### Need help?
+## Need help?
 
 If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
 
@@ -268,24 +272,18 @@ You can submit this online form (VA Form 10182) to appeal a VA decision dated on
 
 **If our decision involves a contested claim,** the Board must receive your completed form within 60 days from the date listed on your decision notice. A contested claim is when a favorable claim decision for one person results in denial or reduced benefits for another person.
 
-**If you have a Statement of the Case (SOC)**
+**If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
 
-or a
+* Within 60 days from the date on the SSOC letter, **or**
+* Within 1 year of the decision date by the agency of original jurisdiction
 
-**Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,**
-
-the Board must receive your completed form in one of these time frames, whichever is later:
-
-- Within 60 days from the date on the SSOC letter, **or**
-- Within 1 year of the decision date by the agency of original jurisdiction
-
- understand that by listing any issues currently pending in the old system, you are specifically opting those issues into the new decision review process if you continue with this submission. We won’t continue to process your appeal in the old system.
+Please understand that by listing any issues currently pending in the old system, you are specifically opting those issues into the new decision review process if you continue with this submission. We won’t continue to process your appeal in the old system.
 
 Finish this request later
 
 **« Back | Continue »**
 
-### Need help?
+## Need help?
 
 If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
 
@@ -307,7 +305,7 @@ If you’d like to add an issue for review,  select "Add a new issue" to get sta
 
 [Add a new issue](https://staging.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182/add-issue?index=0)
 
-- Why isn’t my issue listed here? (expand)
+* Why isn’t my issue listed here? (expand)
     
 > If you don’t see your issue or decision listed here, it may not be in our system yet. This can happen if it’s a more recent claim decision. We may still be processing it.
     
@@ -316,7 +314,7 @@ Finish this request later
 
 **« Back | Continue »**
 
-### Need help?
+## Need help?
 
 If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
 
@@ -347,7 +345,7 @@ Month | Day | Year
 
 **« Back | Continue »**
 
-### Need help?
+## Need help?
 
 If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
 
@@ -367,13 +365,16 @@ Your application will be saved on every change. Your application ID number is XX
 
 If you’d like to add an issue for review,  select "Add a new issue" to get started.
 
-- [ ] Name of Issue
-	  Decision Date: Month day, Year
-Edit | Remove
+* [ ] Name of Issue
+	  
+      Decision Date: Month day, Year
+
+ Edit | Remove
+
 
 [Add a new issue](https://staging.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182/add-issue?index=0)
 
-- Why isn’t my issue listed here?
+* Why isn’t my issue listed here? (expanded)
 
 > If you don’t see your issue or decision listed here, it may not be in our system yet. This can happen if it’s a more recent claim decision. We may still be processing it.
     
@@ -382,7 +383,7 @@ Finish this request later
 
 **« Back | Continue »**
 
-### Need help?
+## Need help?
 
 If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
 
@@ -404,9 +405,9 @@ issue name ****(decision date)****
 
 I disagree with this:
 
-- [ ]  The service connection
-- [ ]  The effective date of award
-- [ ]  Your evaluation of my condition
+* [ ] The service connection
+* [ ] The effective date of award
+* [ ] Your evaluation of my condition
 
 Something else:
 
@@ -416,7 +417,7 @@ Finish this request later
 
 **« Back | Continue »**
 
-### Need help?
+## Need help?
 
 If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
 
@@ -434,18 +435,18 @@ Your application will be saved on every change. Your application ID number is XX
 
 ### These are the issues you’re asking the Board to review.
 
-- **Pizza Addiction**
+* #### Pizza Addiction
     
     Decision date: January 1, 2023
     
 
-If an issue is missing,  [go back and add it](https://staging.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182/contestable-issues?redirect).
+If an issue is missing, [go back and add it](https://staging.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182/contestable-issues?redirect).
 
 Finish this request later
 
 **« Back | Continue »**
 
-### Need help?
+## Need help?
 
 If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
 
@@ -461,20 +462,20 @@ VA Form 10182 (Notice of Disagreement)
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
-###  select a Board review option:(\*Required)
+###  Select a Board review option: (\*Required)
 
-- **Request a direct review**
+* **Request a direct review**
 A Veterans Law Judge will review your appeal based on evidence already submitted. Because the Board has all your evidence, choosing this option will often result in a faster decision.
-- **Submit more evidence**
+* **Submit more evidence**
 You can submit additional evidence within 90 days after submitting your Board appeal. Choose this option if you want to turn in additional evidence but don’t want to wait for a hearing with a Veterans Law Judge. Choosing this option will extend the time it takes for the Board to decide your appeal.
-- **Request a hearing**
+* **Request a hearing**
 You can request a Board hearing with a Veterans Law Judge and submit additional evidence within 90 days after your hearing.  keep in mind that this option has the longest wait time for a decision because there are currently tens of thousands of pending hearing requests.
 
 Finish this request later
 
 **« Back | Continue »**
 
-### Need help?
+## Need help?
 
 If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
 
@@ -494,7 +495,7 @@ Your application will be saved on every change. Your application ID number is XX
 
 You can choose to submit more evidence now or within 90 days after we receive this request.
 
-- How do I submit evidence later? (expand)
+* How do I submit evidence later? (expand)
     
     You can submit more evidence by mailing it to this address:
     
@@ -505,14 +506,14 @@ You can choose to submit more evidence now or within 90 days after we receive th
 
 Would you like to submit more evidence right now?
 
-- Yes
-- No, I’ll submit it later.
+* Yes
+* No, I’ll submit it later.
 
 Finish this request later
 
 **« Back | Continue »**
 
-### Need help?
+## Need help?
 
 If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
 
@@ -528,20 +529,20 @@ VA Form 10182 (Notice of Disagreement)
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
-### What type of hearing would you like to request?(\*Required)
+### What type of hearing would you like to request? (\*Required)
 
-- **A virtual tele-hearing online**
+* **A virtual tele-hearing online**
 You can attend your hearing on a computer, mobile phone, or tablet from a location you choose. You just need to be somewhere that has a Wi-Fi connection. Your accredited representative can be with you or in a separate location. The Veterans Law Judge will be located in a separate location.
-- **A Regional Office hearing at a VA Regional Office near you**
+* **A Regional Office hearing at a VA Regional Office near you**
 You and your accredited representative can attend your hearing by video at a VA regional office near you. The Veterans Law Judge will be located in a separate location.
-- **An in-person hearing at the Board in Washington, D.C.**
+* **An in-person hearing at the Board in Washington, D.C.**
 You can attend an in-person hearing with a Veterans Law Judge.
 
 Finish this request later
 
 **« Back | Continue »**
 
-### Need help?
+## Need help?
 
 If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
 
@@ -553,11 +554,11 @@ If you have hearing loss, call TTY: [711](tel:711).
 
 VA Form 10182 (Notice of Disagreement)
 
-## Step 4 of 4: Review your request
+## Step 4 of 4: Review your requestc
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
-### Veteran details
+### Veteran information
 
 #### Contact information [Edit Profile](https://staging.va.gov/profile)
 
@@ -603,13 +604,13 @@ What type of hearing would you like to request? **A virtual tele-hearing online*
 
  read and accept the [privacy policy](https://staging.va.gov/privacy-policy/).
 
-- [ ]  I have read and accept the privacy policy. (\*Required)
+* [ ]  I have read and accept the privacy policy. (\*Required)
 
 Finish this request later
 
 **« Back | Submit request »**
 
-### Need help?
+## Need help?
 
 If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
 
