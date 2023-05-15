@@ -19,11 +19,9 @@ This research supports the following 2023 OCTO objectives:
 The Pre-Need application applies to life stages from **Serving** onward to **Dying**, as service members, Veterans, family members, and representatives may apply at any time to determine if applicants are eligible for burial in VA national cemeteries. 
 
 ## Research Goals	
-What are you trying to learn from this research? 
-1. Learn how users experience pre-need determination through the VA.gov application, identifying if updates need to be made in the UI to address usability pain points from the user perspective.  
-
-2. Understand how to provide applicants consistent options and user experience for data entry to avoid mistakes and speed up processing for Veterans and their families, increasing Pre-Need VA Form 40-10007 overall submission rates. 
-
+The goals of this user research are to: 
+1. Learn how users experience applying for pre-need to identify  improvements that can be made to address usability pain points, user feedback/concerns, and low submission rates
+2. Understand if the pre-need application is confusing for users in the entering of their details, as information is collected for up to three people in the form (applicant, sponsor, preparer), and determine which enhancements could improve their overall user experience to mitigate confusion and reduce form entry errors
 3. Learn from users about potential options and improvements in the user experience that would lead to a reduction in form entry errors, while using empathy in content considerations. 
 
 
