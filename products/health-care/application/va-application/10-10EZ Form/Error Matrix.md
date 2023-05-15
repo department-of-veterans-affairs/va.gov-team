@@ -95,13 +95,16 @@ Please see the individual errors below for the full text.
 
 | Scenario | Abridged Message | Resolution |
 | -------- | ---------------- | ---------- |
-| 
-
+| Confirmation financial disclosure | [h3] Confirm that you don't want to provide your household financial information [p] If you're not eligible for VA health care based on enhanced eligibility status, we need your financial information to decide if you're eligible based on your income. | Confirm or go back to change answer | 
+| Modal - Delete Confirmation | [h3] Remove this dependent [p] This will remove [First Name Last Name] and all their information from your list of dependents. | Confirm or cancel |
+| Modal - Cancel Adding | [h3]Cancel adding this dependent [p] This will stop adding the dependent. You’ll return to a list of any previously added dependents and this dependent will not be added. | Confirm or cancel |
+| Modal - Cancel Editing | [h3] Cancel editing this dependent [p] This will stop editing [First Name Last Name]. You will return to a list of any previously added dependents and your edits will not be applied. | Confirm or cancel | 
+| Deductible alert | [p] Note: We understand in some cases your expenses might be higher than your income. If your expenses exceed your income, we'll adjust them to be equal to your income. This won't affect your application or benefits. | None, informational |
 
 
 #### Feedback Messages - Individual form fields
 
-[Mural audit of inidivual field messages](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683651181051/e0f47b9aaefbf78a3942df3028525cdc4336caff?wid=0-1684188716359&outline=open)
+[Mural audit - individual field messages](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683651181051/e0f47b9aaefbf78a3942df3028525cdc4336caff?wid=0-1684188716359&outline=open)
 
 
 --- 
