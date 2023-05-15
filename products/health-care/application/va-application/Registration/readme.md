@@ -33,7 +33,8 @@ _**We need more information on why Registration is used as opposed to enrollment
 - Confusion between what it means to register vs. enroll, and whether the online application should be used for one or the other.
 
 ## Desired Business Outcomes
-TBD
+- Receive online form data from VA.gov for Veterans who do not wish to enroll to enable faster processing
+- 
 
 ## Undesired Business Outcomes
 TBD
