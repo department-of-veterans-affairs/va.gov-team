@@ -4,7 +4,6 @@
 [10-10EZ Error Messages - Content and Design Audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683651181051/e0f47b9aaefbf78a3942df3028525cdc4336caff?sender=uadf1ed7fe7c76f0914967329)
 
 ## Matrix
-This matrix contains abridged messaging and resolution for the errors that can be encountered in the form.  
 This matrix contains abridged messaging and resolution for the errors that can be encountered in the form. The are categorized under:
 
 1. System
@@ -12,7 +11,6 @@ This matrix contains abridged messaging and resolution for the errors that can b
 3. Access
 4. Feedback 
 5. Feedback - individual form fields specific
-
 
 Please see the individual errors below for the full text.
 
@@ -55,6 +53,12 @@ Please see the individual errors below for the full text.
 
 | Scenario | Abridged Message | Resolution |
 | -------- | ---------------- | ---------- |
+| (ineligCHAMPVA) | [h3] You didn’t qualify for VA health care based on your previous application...[p] Our records show that you’re enrolled in CHAMPVA. We couldn’t accept your application because the VA medical center you applied to doesn’t offer services to CHAMPVA recipients. | |
+| (ineligCharacterOfDischarge) | [h3] We determined that you don’t qualify for VA health care based on your past application...[p] Our records show that you don’t have a high enough Character of Discharge to qualify for VA health care. | |
+| (ineligCitizens, ineligFilipinoScouts) | [h3] We determined that you don’t qualify for VA health care based on your past application...[p] Our records show that you didn’t serve in the U.S. military or an eligible foreign military. To qualify for VA health care, you must meet this service requirement.| |
+| ineligFugitiveFelon, ineligMedicare, ineligOther, ineligOver65, ineligRefusedCopay | [h3] We determined that you don’t qualify for VA health care based on your past application | |
+| ineligGuardReserve | [h3] We determined that you don’t qualify for VA health care based on your past application...[p] Our records show that you served in the National Guard or Reserves, and weren’t activated to federal active duty for at least 24 continuous months. To qualify for VA health care without other special eligibility factors, you must have served on active duty for at least 24 months all at once, without a break in service. | |
+| ineligNotEnoughTime, ineligTrainingOnly | [h3] We determined that you don’t qualify for VA health care based on your past application...[p] [p] Our records show that you served on active duty for less than 24 continuous months. To qualify for VA health care without other special eligibility factors, you must have served on active duty for at least 24 months all at once, without a break in service.| |
 
 
 
