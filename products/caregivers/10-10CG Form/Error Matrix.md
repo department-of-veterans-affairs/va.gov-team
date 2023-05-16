@@ -10,7 +10,7 @@ This matrix contains abridged messaging and resolution for the errors that can b
 3. Individual Form Fields.  
 
  
-Please see the individual errors below for the full text.
+Please see the individual errors below or the Mural board for the full text messages and images.
 
 ---
 
@@ -51,6 +51,15 @@ Please see the individual errors below for the full text.
 
 This is the full text message and resolution for individual errors that can be encountered.
 
+### System Errors
+
+<details>
+  
+ <summary>Maintenance</summary>
+</details>
+
+
+### Feedback Errors
 
 <details>
   
@@ -121,6 +130,9 @@ This is the full text message and resolution for individual errors that can be e
 
   </details>
   
+  
+  #### File Upload Feedback Errros
+  
 <details>
   
   <summary>File Upload - Network issue</summary>
@@ -180,3 +192,23 @@ Check the file to ensure it is the correct document and that it is one of the ac
 ![image](https://user-images.githubusercontent.com/92328831/173358473-97724785-d9b8-4dba-a40e-b5638f6bb352.png)
   
 </details>
+
+<details>
+  
+  <summary>File Upload - Upload confirmation</summary>
+  
+  **Message** <br>
+ <p>It's easy to upload the wrong file by mistake. We want to make sure that we will review the right document (such as a valid Power of Attorney, legal guardianship order, or other legal document). This will help speed up your application process.
+  
+<p>Check the file name. If it’s not the right file, you can delete it and upload another one before you continue.
+
+ **Resolution** <br>
+ Proceed onto next step of application, Review information/sign
+ 
+ <img width="635" alt="warning Copy" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/16433994-2890-4d60-bc67-f917e5f3a1c5">
+
+ 
+ 
+ 
+</details>
+
