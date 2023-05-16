@@ -134,7 +134,8 @@ No
 
 ## Service end date content: [if yes to active duty]
 
-What’s the date or anticipated date your active duty service ends? (This may not be the same date as the date you are released from your contract or the date your obligation term of service ends.)
+When will you separate from active duty? 
+**Note:** This may be a different date from when you're released from your contract or when your service obligation ends.
 
 Month:
 
@@ -146,27 +147,27 @@ Year:
 > 
 > Based on your separation date, you can apply for benefits now (using VA Form 21-526EZ).
 > 
-> **Select ‘continue’ to start now and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits.** You will have 1 year from the day you submit your intent to file to complete your application.
+> Select **Continue** to start now and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You'll have 1 year from the day you submit your intent to file to complete your application.
 
 
 > [background color only alert component if date between 90-180 days]
 > 
-> Based on your separation date, you can apply now for benefits under the Benefits Delivery at Discharge (BDD) program. [Learn more about the BDD program.](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/)
+> Based on your separation date, you can apply now for benefits under the Benefits Delivery at Discharge (BDD) program. [Learn more about the BDD program](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/)
 > 
-> **You have x days left (until x) to complete and submit this form and apply under the BDD program.** 
+> You have x days left (until x) to apply for benefits under the BDD program.
 > 
-> After that date, you can apply for benefits here (using VA Form 21-526EZ). We recommend you return here as soon as you can to start and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You will have 1 year from the day you submit your intent to file to complete your application.
+> After this date, you can still apply for benefits using VA Form 21-526EZ. We encourage you to start filling out this application as soon as you can to declare your intent to file. This reserves a potential effective date for when you could start getting benefits. You have 1 year from the date you submit your intent to file to complete your application.
 > 
 > Select ‘continue’ to apply now.
 >
-> **Prepare your Separation Health Assessment Part A Self-Assessment**
-> You’ll need to submit service treatment records for the current period of service as well as a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. Your claim will be delayed until we receive this form. We estimate that it will take you at least 30 minutes to complete this form, and we recommend you download and fill out this form on a desktop computer or laptop then return to this form to upload.
+> **Complete a Separation Health Assessment Part A Self-Assessment**
+> You’ll need to submit a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. We can't make a decision on your claim until we receive this document. We estimate that it will take you at least 30 minutes to complete this document. Download and fill it out on a desktop computer or laptop then return to this application to upload it.
 
 
 > [background color only alert component if date >180 days]
 > 
 > Based on your separation date, you’ll need to wait to file for disability benefits.
 > 
-> **In x days (on x), you can apply here for benefits under the Benefits Delivery at Discharge (BDD) program.** [Learn more about the BDD program.](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/)
+> In x days (on x), you can apply for benefits. You will then have x days (until x) to apply for benefits under the BDD program.[Learn more about the BDD program](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/)
 > 
-> After x, you can apply for benefits here (using VA Form 21-526EZ). We recommend you return here as soon as you can to start and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You will have 1 year from the day you submit your intent to file to complete your application.
+> After x, you can still apply for benefits using VA Form 21-526EZ. We encourage you to start filling out this application as soon as you can to declare your intent to file. This reserves a potential effective date for when you could start getting benefits. You have 1 year from the date you submit your intent to file to complete your application.
