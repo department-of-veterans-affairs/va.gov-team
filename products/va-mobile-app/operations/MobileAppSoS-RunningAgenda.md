@@ -40,6 +40,14 @@ Check-In
 * Push Notifications - Most of this effort is coordination that will need to be done w/check in team, Vetext/VaNotify (no implementation work on mobile).  If this is required for MVP, engagement will be needed with VeText/VANotify, are they in line with MVP timelines etc.
 * Deep Linking - Will require a team spike (research time) to explore what would be involved and needed to implempement deep linking on the app
 * There was an ask by Kay to add 'my-health-APPOINTMENTS' label to our check in Epic so that it would appear on the Unified Appointments Experience board.  It doesn't look like we are on the same repository and do not have access to adding the label and linking.  Need PO support on how to go about linking.  [Unified Appointments Experience Board](https://app.zenhub.com/workspaces/unified-appointments-experience-includes-mhv-to-vagov-check-in-mobile-etc-63d9ef2effd69b002641127b/board)
+  * Ryan to find out
+* Call Center Hand-off - may be another team to do MVP
+  * Ryan to follow up with Rachel about meeting on 24th
+* Better monitoring of any API outages - SM went down and we weren't sure of the process
+  * There is confusion around who is responsible for alerting of outages, especially on off-hours.  Platform has on-call rotations but our program doesn't have the same.  Previously we have been advised to not alert upstream teams to errors we see as they should already be aware, so we didn't alert of the SM outage. 
+* Providing alerts on important events in a Veteran's life - [Event Bus](https://github.com/department-of-veterans-affairs/VES/blob/master/initiatives/Invest%20in%20an%20event%20driven%20architecture.md) ETA Jan 2024
+* Moving Sprint Demo to current Sprint 0 time slot and vice versa.
+  * Confirm over Slack, want to ensure we get Rachel's feedback.  Ryan is ok with that change.
 
 
 
