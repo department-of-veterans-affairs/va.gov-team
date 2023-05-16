@@ -56,7 +56,8 @@ This is the full text message and resolution for individual errors that can be e
 <details>
   
  <summary>Maintenance Message</summary>
-   **Message** <br>
+ 
+**Message** <br>
 [h3] This tool is down for maintenance.
 [p] We're making some updates to this tool to help make it even better for Veterans, service members, and family members like you. We're sorry it's not working right now. Please check back soon.
  
