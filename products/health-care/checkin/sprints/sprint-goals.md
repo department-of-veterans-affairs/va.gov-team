@@ -27,6 +27,7 @@ ________________________________________________________________________________
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Address Platform Feedback - Ticket TBD  
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Update text in success alert for check in happy path complete page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57878)
         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Test in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58452)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Recheck GA Events due to text solution change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53966) 
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**      
         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [SPIKE: Identify CHIP API Changes Needed to Accommodate the Bare-Boned MVP Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58451)
@@ -44,6 +45,7 @@ ________________________________________________________________________________
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [SPIKE - Do we want to Allow Check in Text when No Appointments/Tasks ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57954)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Hold Midpoint Review
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Address Platform Feedback - Tickets TBD   
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53964) 
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Set-up for Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56624)   
    - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
@@ -86,14 +88,14 @@ ________________________________________________________________________________
            -  ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[BE] Modify test.yml with explicit fake ID](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58039)
         - Prepare for research study
             - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56613)
-            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56556)
+            - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56556)
             - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Product] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56614)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Recheck GA Events due to text solution change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53966) 
             - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Wilkes-Barre Planning [PLACEHOLDER]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51110)
-            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Schedule Staging Review
+            - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Schedule Staging Review
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
-        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[SPIKE] [BE] How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
+        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[SPIKE] [BE] How might we allow authenticated apps to access vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51677)
     - **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**   
         - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png)![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Get Bay Pines contact from Stephen & organize test of new posters
     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
