@@ -6,7 +6,7 @@
   - [How to use Mocked Authentication](#how-to-use-mocked-authentication)
   - [The Mocked Authentication user flow](#mocked-authentication-user-flow)
 - [Server | API Guide](#server-guide)
-  - [Previously mocked users]()
+  - [Previously mocked users](#previously-mocked-users)
   - [Generating `state` & an `acr` value](#generate-a-state-code-and-acr)
   - [Creating and encoding User Credentials](#create-and-encode-user-credential-info)
     - [Logging a CSPs User Attributes](#log-csp-user-attributes-response)
