@@ -316,6 +316,149 @@ Provided other ways to apply or wait until application is back online.
   
  ### Access Errors
 
+<details>
+  
+  <summary>Active Duty</summary>
+  
+  **Message** <br>
+[h3] Our records show that you’re an active-duty service member
+[p bold] You applied on: (end bold) DATE
+  
+  **Resolution** <br>
+
+<img width="640" alt="Active duty warning alert" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/a609d121-5a08-49cf-ae37-3c2b71ffd5d7">
+
+  </details>
+
+
+<details>
+  
+  <summary>Cancelled / Declined</summary>
+  
+  **Message** <br>
+[h3] Our records show you chose to cancel or decline VA health care
+[p bold] You applied on: (end bold) DATE
+[p] At some time in the past, we offered you enrollment in VA health care, but you declined it. Or you enrolled, but later canceled your enrollment.
+  
+  **Resolution** <br>
+
+
+  <img width="640" alt="Cancelled or declined warning error message 2" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/950832e6-4392-43de-9ecf-d57b4f89fc91">
+
+
+  </details>
+  
+  
+  <details>
+  
+  <summary>Closed</summary>
+  
+  **Message** <br>
+[h3] Our records show that your application for VA health care expired
+[p bold] You applied on: (end bold) DATE
+[p] We closed your application because you didn’t submit all the documents needed to complete it within a year.
+  
+  **Resolution** <br>
+
+<img width="640" alt="Closed application warning alert" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/ec617102-061f-43fd-8b84-768a664cfbd2">
+
+  </details>
+  
+   <details>
+  
+  <summary>Deceased</summary>
+  
+  **Message** <br>
+[h3] Our records show that this Veteran is deceased
+[p bold] You applied on: (end bold) DATE
+[p] We can’t accept an application for this Veteran. If this information is incorrect, please call our enrollment case management team at 877-222-8387, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+  
+  **Resolution** <br>
+
+<img width="640" alt="Deceased warning alert" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/37f9c066-685d-4c80-8566-618b0f6ba1fc">
+
+  
+  </details>
+  
+   <details>
+  
+  <summary>Enrolled</summary>
+  
+  **Message** <br>
+[h3] You’re already enrolled in VA health care
+[p bold] You applied on: (end bold) DATE
+[p bold] We enrolled you on: (end bold) DATE
+[p bold] Your preferred VA medical center is: (end bold) FACILITY
+  
+  **Resolution** <br>
+
+
+  <img width="640" alt="Already enrolled success alert" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/5e0055af-647b-47ee-b812-d6f7dd4f3a25">
+
+
+  </details>
+  
+  
+   <details>
+  
+  <summary>Non-military</summary>
+  
+  **Message** <br>
+[h3] We see that you aren’t a Veteran or service member
+[p bold] You applied 
+  
+  **Resolution** <br>
+
+<img width="640" alt="non military warning alert image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/7e606900-3972-49cb-8406-64b3954b37b2">
+
+
+  </details>
+  
+  
+   <details>
+  
+  <summary>Veteran does not qualify</summary>
+  
+  **Message** <br>
+[h3] You didn’t qualify for VA health care based on your previous application
+[p bold] You applied on: (end bold) DATE
+[p] Our records show that you don’t have a service-connected disability, an income that falls below our income limits based on where you live, or another special eligibility factor (like receiving a Medal of Honor or Purple Heart award).
+[p] To qualify for VA health care, you need to meet at least one of these eligibility requirements in addition to serving at least 24 continuous months on active duty.
+  
+  **Resolution** <br>
+
+  
+<img width="640" alt="does not qualify warning alert" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/611e5333-ddbb-443c-ada4-7e78049a86df">
+
+
+  </details>
+  
+  
+  
+  
+  
+  
+#### Access Errors - Inelligible
+  
+  
+  
+   <details>
+  
+  <summary>Scenario</summary>
+  
+  **Message** <br>
+
+  
+  **Resolution** <br>
+
+
+
+  </details>
+  
+  
+  
+#### Access Errors - Application Pending
+
   
   
  ### Feedback Errors
