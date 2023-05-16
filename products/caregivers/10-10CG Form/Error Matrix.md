@@ -153,14 +153,9 @@ Check back later
  
  <img width="640" alt="Successful alert message" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/b540bb56-5ac8-4e37-a204-c2fc65e34903">
 
- 
- 
-    </details>
+</details>
 
-  
-  
-  #### File Upload Feedback Errros
-  
+   
 <details>
   
   <summary>File Upload - Network issue</summary>
@@ -235,8 +230,7 @@ Check the file to ensure it is the correct document and that it is one of the ac
  
  <img width="635" alt="warning Copy" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/16433994-2890-4d60-bc67-f917e5f3a1c5">
 
- 
- 
+
  
 </details>
 
