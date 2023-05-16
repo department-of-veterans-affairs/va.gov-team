@@ -5,9 +5,9 @@
 ## Matrix
 
 This matrix contains abridged messaging and resolution for the errors that can be encountered in the form. The are categorized under:
-1. System, 
-2. Feedback and 
-3. Individual Form Fields.  
+1. System 
+2. Feedback  
+3. Feedback - Individual Form Fields.  
 
  
 Please see the individual errors below or the Mural board for the full text messages and images.
@@ -55,7 +55,7 @@ This is the full text message and resolution for individual errors that can be e
 
 <details>
   
- <summary>Maintenance</summary>
+ <summary>Maintenance Message</summary>
    **Message** <br>
 [h3] This tool is down for maintenance.
 [p] We're making some updates to this tool to help make it even better for Veterans, service members, and family members like you. We're sorry it's not working right now. Please check back soon.
@@ -140,6 +140,23 @@ Check back later
   ![image](https://user-images.githubusercontent.com/92328831/173359164-2028a30e-648c-4396-9adc-6f007b4b8c0b.png)
 
   </details>
+  
+  
+  <details>
+  
+  <summary>Submit successful</summary>
+  
+  **Message** <br>
+  
+    **Resolution** <br>
+
+ 
+ <img width="640" alt="Successful alert message" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/b540bb56-5ac8-4e37-a204-c2fc65e34903">
+
+ 
+ 
+    </details>
+
   
   
   #### File Upload Feedback Errros
