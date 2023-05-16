@@ -1,13 +1,14 @@
 # 10-10CG Errors
 ## Audit
-[10-10CG Error Messages - Content and Design Audit / Living Document] (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683656893560/fccf821394d1cf693ad1c036e912e11a18ff88bd?sender=uadf1ed7fe7c76f0914967329)
+[10-10CG Error Messages](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683656893560/fccf821394d1cf693ad1c036e912e11a18ff88bd?sender=uadf1ed7fe7c76f0914967329)
+- Content / Design Audit  and Living Document
 
 ## Matrix
 
 This matrix contains abridged messaging and resolution for the errors that can be encountered in the form. The are categorized under:
 1. System 
 2. Feedback  
-3. Feedback - Individual Form Fields.  
+3. Feedback - Individual Form Fields 
 
  
 Please see the individual errors below or the Mural board for the full text messages and images.
