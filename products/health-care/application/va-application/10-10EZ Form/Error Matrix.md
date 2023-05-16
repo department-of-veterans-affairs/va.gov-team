@@ -142,16 +142,13 @@ This is the full text mesasge and resolution for individual errors that can be e
  [h3] Something went wrong on our end 
  [p] We're sorry. Something went wrong on our end. Please try again.
   
-  **Resolution** <br>
+ **Resolution** <br>
 Try again later
   
   <img width="732" alt="0-1683753531301" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/16e9010e-cc17-41f2-9436-b280daec1d06">
-  
-  
   </details>
   
-    <details>
-  
+ <details>
   <summary>Scheduled downtime AUTHENTICATED</summary>
  
   **Message** <br>
@@ -174,8 +171,7 @@ Provided other ways to apply or wait until application is back online.
   
   <img width="640" alt="SystemError-EZ2" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/42fc71f1-9b3c-49d8-91ea-be86cbbf2d82">
 
-  
-    </details>
+</details>
 
 
 
@@ -197,16 +193,14 @@ Atlanta, GA 30329-1647
 [p] If you have trouble downloading your application, call us at 800-698-2411 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 [a] Download VA Form 10-10EZ (PDF)
   
-
   
-  
-    **Resolution** <br>
+**Resolution** <br>
 Provided other ways to apply or wait until application is back online.
 
-  <img width="640" alt="Group system error 2" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/7aee940e-ee8a-42e8-a135-cb9639363c48">
+ 
+</details>
 
-  
-    </details>
+
 
   
   ### Engagement Errors
