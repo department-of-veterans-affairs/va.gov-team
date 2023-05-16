@@ -156,7 +156,7 @@ To make this happen, what would you do next?
 
 Could you try to use this to find out if you could get help with ZZZ [TBD--whether the VA will pay for more school for you]? 
 
-- *What do they do? 
+- *What do they do?* 
   - *Facility Locator?*
 
 ## Post-Task Interview - 10 minutes
