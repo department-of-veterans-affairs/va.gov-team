@@ -444,14 +444,119 @@ Provided other ways to apply or wait until application is back online.
   
    <details>
   
-  <summary>Scenario</summary>
+  <summary>(ineligCHAMPVA)</summary>
   
   **Message** <br>
-
+[h3] You didn’t qualify for VA health care based on your previous application
+[p bold] You applied on: (end bold) DATE
+[p] Our records show that you’re enrolled in CHAMPVA. We couldn’t accept your application because the VA medical center you applied to doesn’t offer services to CHAMPVA recipients.
   
   **Resolution** <br>
+  
+<img width="640" alt="Inelligible warning alert CHAMPVA" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/0acd76a3-0cb8-423f-898e-d699cd2df316">
+
+  </details>
+  
+  
+  
+   <details>
+  
+  <summary>(ineligCharacterOfDischarge)</summary>
+  
+  **Message** <br>
+[h3] We determined that you don’t qualify for VA health care based on your past application
+[p bold] You applied on: (end bold) DATE
+[p] Our records show that you don’t have a high enough Character of Discharge to qualify for VA health care.
+  
+  **Resolution** <br>
+  
+<img width="640" alt="inelligble warning alert character of discharge" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/74447c84-b802-449b-ae3c-05b7a8255316">
+
+  </details>
+  
+   <details>
+  
+  <summary>(ineligCitizens, ineligFilipinoScouts)</summary>
+  
+  **Message** <br>
+[h3] We determined that you don’t qualify for VA health care based on your past application
+[p bold] You applied on: (end bold) DATE
+[p] Our records show that you didn’t serve in the U.S. military or an eligible foreign military. To qualify for VA health care, you must meet this service requirement.
+  
+  **Resolution** <br>
+  
+  
+<img width="640" alt="inelligible warning alert" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/04cbcfc9-0ed0-463e-81a8-bf95507391a4">
+
+  </details>
+  
+  
+  <details>
+  
+  <summary>Inelligible Misc</summary>
+
+  Misc Reasons:<br>
+ineligFugitiveFelon
+ineligMedicare
+ineligOther
+ineligOver65
+ineligRefusedCopay
+  
+  **Message** <br>
+[h3] We determined that you don’t qualify for VA health care based on your past application
+[p bold] You applied on: (end bold) DATE
+  
+  **Resolution** <br>
+  <img width="640" alt="Inelligible warning alert generic" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/4c1cc525-29e1-4a70-8d0f-4a1c5278c500">
 
 
+  </details>
+  
+  
+   <details>
+  
+  <summary>ineligGuardReserve</summary>
+  
+  **Message** <br>
+[h3] We determined that you don’t qualify for VA health care based on your past application
+[p bold] You applied on: (end bold) DATE
+[p] Our records show that you served in the National Guard or Reserves, and weren’t activated to federal active duty for at least 24 continuous months. To qualify for VA health care without other special eligibility factors, you must have served on active duty for at least 24 months all at once, without a break in service.
+  
+  **Resolution** <br>
+  
+<img width="640" alt="inelligible Guard Reserve warning alert" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/a8192b5b-2103-4038-b928-7387e955cd25">
+
+  </details>
+  
+  
+   <details>
+  
+  <summary>ineligNotEnoughTime, ineligTrainingOnly</summary>
+  
+  **Message** <br>
+[h3] We determined that you don’t qualify for VA health care based on your past application
+[p bold] You applied on: (end bold) DATE
+[p] Our records show that you served on active duty for less than 24 continuous months. To qualify for VA health care without other special eligibility factors, you must have served on active duty for at least 24 months all at once, without a break in service.
+  
+  **Resolution** <br>
+  
+<img width="640" alt="inelligible warning alert" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/9e7f28c7-a2df-4c31-993c-ead9c579b9c1">
+
+  </details>
+  
+  
+   <details>
+  
+  <summary>ineligNotVerified</summary>
+  
+  **Message** <br>
+[h3] We determined that you don’t qualify for VA health care based on your past application
+[p bold] You applied on: (end bold) DATE
+[p] We determined that you’re not eligible for VA health care because we didn’t have proof of your military service (like your DD214 or other separation papers).
+  
+  **Resolution** <br>
+  
+<img width="640" alt="not verified inelligible warning alert" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/66715609-cfd0-4796-a5a4-3fbcd49f8a18">
 
   </details>
   
@@ -459,7 +564,17 @@ Provided other ways to apply or wait until application is back online.
   
 #### Access Errors - Application Pending
 
+   <details>
   
+  <summary>Scenario</summary>
+  
+  **Message** <br>
+
+  
+  **Resolution** <br>
+  
+
+  </details>
   
  ### Feedback Errors
 
