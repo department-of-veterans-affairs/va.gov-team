@@ -201,10 +201,7 @@ Provided other ways to apply or wait until application is back online.
 
 </details>
 
-
-
-  
-  ### Engagement Errors
+### Engagement Errors
   
   <details>
   
@@ -216,8 +213,49 @@ Provided other ways to apply or wait until application is back online.
   **Resolution** <br>
   Follow the given instructions to log in to VA.gov and review the indicated information in order to continue.
   
+  <img width="732" alt="error-AuthReq" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/df24ad80-c9c6-4b68-b778-0ad1c4f4394c">
   
   </details>
+  
+  
+  
+  <details>
+  
+  <summary>Information prefilled AUTHENTICATED</summary>
+  
+  **Message** <br>
+  [p] Note: Since you're signed in to your account, we can prefill part of your application based on your account details. You can also save your application in progress and come back later to finish filling it out.
+  
+  **Resolution** <br>
+  Follow the given instructions and confirm information that is already entered.
+  
+<img width="664" alt="alert message text for information prefilled" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/05907217-6f3d-4fc6-a339-5ed00912f732">
+  
+  
+  </details>
+  
+  
+   <details>
+  
+  <summary>Prefilled alert message - Authenticated</summary>
+  
+  **Message** <br>
+  [p] We've prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below.
+  
+  **Resolution** <br>
+  Follow the given instructions and confirm information that is already entered.
+  
+<img width="535" alt="blue background text of message information prefilled" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/91e2f0e6-63fa-4d65-9e35-3a5e615f964d">
+  
+  </details>
+  
+  
+  
+  
+  
+  
+ ### Feedback Errors
+
   
   <details>
   
