@@ -67,6 +67,10 @@ Attended a big meeting or small group? Lurk on our slack channel? Then you're _o
 - clayton.zook@oddball.io, [LinkedIn](https://www.linkedin.com/in/czook/)
 - I enjoy connecting with others and learning ways to foster inclusion, empathy, and saftey in our research practice for the betterment of those we ask to participate, for better data reliability, and for taking care of myself as a researcher.
 
+**Martha Wilkes**, Accessibility Strategist at OCTO
+- martha.wilkes@va.gov, [LinkedIn](https://www.linkedin.com/in/marthawilkes/)
+- I'm here to learn from all of you experts who are dedicated to creating good experiences for our research participants and team members. I'm ready to support all of you in whatever way I can, please don't hesitate to reach out.
+
 <hr/>
 
 ### Facilitators 👐
