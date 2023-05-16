@@ -79,6 +79,7 @@ These are the following confirmed use cases for registration over enrollment.
 
 ### Outstanding questions
 - What benefit does "registering" provide?
+     - What do you get with Registration vs Enrollment?
 - Confirm - this is for both Active Duty Service Members **and** Veterans?
 - Is this the first and only time the Veteran will see these terms used?  
      - If so, do they even need to know about these terms at all?
