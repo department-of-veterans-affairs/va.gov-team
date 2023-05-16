@@ -390,10 +390,14 @@ Provided other ways to apply or wait until application is back online.
   <summary>Submission Successful</summary>
   
   **Message** <br>
+  [h3] Thank you for completing your application for health care
+[p] Once we’ve successfully received your application, we’ll contact you to tell you what happens next in the application process.
   
   **Resolution** <br>
+  Wait for application to be reviewed, submission successful. 
   
-  
+  <img width="640" alt="0-1683740385411" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/4e45b178-68a2-45d9-adea-4ddb8ac86c7f">
+
 
   </details>
   
@@ -402,9 +406,26 @@ Provided other ways to apply or wait until application is back online.
   <summary>Submission Failed</summary>
   
   **Message** <br>
+  [h3] We didn’t receive your online application
+[p] We’re sorry. Something went wrong when you tried to submit your application. If you were signed in, you can try to submit your application again later. If you were not signed in, you may need to fill out and submit the online application again.
+ [p bold]Other ways to apply
+ [list]
+- You can call our toll-free hotline at 877-222-8387 to apply by phone, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET, or
+- You can download and fill out the application. Send your completed application here:
+[address] 
+Health Eligibility Center
+2957 Clairmont Road NE, Ste 200
+Atlanta, GA 30329-1647
+[p] If you have trouble downloading your application, call us at 800-698-2411 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+[a] Download VA Form 10-10EZ (PDF)
+  
   
   **Resolution** <br>
+  Use other wasy to apply listed or try again later.
   
   
+  
+  <img width="640" alt="0-1683740757719" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/27f39f64-13d2-4a88-a00b-659f97d6c72b">
+
 
   </details>
