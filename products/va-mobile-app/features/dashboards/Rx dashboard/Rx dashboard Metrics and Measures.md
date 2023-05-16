@@ -1,8 +1,8 @@
 ## Metrics
 |Metric | Metric type | Applies to | Calculation type | Description of formula |
 |--------|-------------|-----------|-------------------------|-----------------|
-|Refill Completion Rate | Efficacy | Rx Dashboard | Ratio | **Numerator**: count(Refill Successful First Attempt) + count(Refill Success on Retry) **Denominator**: count(Refill Attempted) | 
-|Refill First Attempt Completion Rate | Efficacy | Rx Dashboard | Ratio | **Numerator**: count(Refill Successful First Attempt) **Denominator**: count(Refill Attempted) |
+|❌Refill Completion Rate | Efficacy | Rx Dashboard | Ratio | **Numerator**: count(Refill Successful First Attempt) + count(Refill Success on Retry) **Denominator**: count(Refill Attempted) | 
+|❌Refill First Attempt Completion Rate | Efficacy | Rx Dashboard | Ratio | **Numerator**: count(Refill Successful First Attempt) **Denominator**: count(Refill Attempted) |
 |Time to first refill | Efficiency  | Rx Dashboard | Average and spread | [Unit of time] from Viewed prescription list to first instance of Refill Successful First Attempt or Refill Success on Retry | |
 |Refills per [unit of time] in Rx | Efficiency  | Rx Dashboard | Ratio | **Numerator**: count(Refill Successful First Attempt) + count(Refill Success on Retry) during denominator unit of time **Denominator**: [Unit of time] from Viewed prescription list to viewing a page other Health or Secure Messaging | |"
 
