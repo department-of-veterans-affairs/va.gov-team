@@ -1,6 +1,6 @@
 # 10-10CG Errors
 ## Audit
-[10-10CG Error Messages - Content and Design Audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683656893560/fccf821394d1cf693ad1c036e912e11a18ff88bd?sender=uadf1ed7fe7c76f0914967329)
+[10-10CG Error Messages - Content and Design Audit / Living Document] (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683656893560/fccf821394d1cf693ad1c036e912e11a18ff88bd?sender=uadf1ed7fe7c76f0914967329)
 
 ## Matrix
 
