@@ -1,5 +1,7 @@
 # IA Design for Forms 21-4142 and 21-4142(a)
-**STATUS: In Progress**
+**STATUS: Complete**
+##### Edit history
+- 5/16/2023 - updated site map image (JM)
 
 **Team:** Digitization Team
 
@@ -19,7 +21,7 @@
 
 ## <a name="map"></a>Page structure<br>
 The form will live under the new parent page for supporting forms.
-![Screenshot 2023-05-12 at 3 32 21 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/d7d0ed5f-7af4-4a4a-bfe5-a62b4513e23e)
+![Screenshot 2023-05-16 at 2 41 41 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/dbe22b98-366f-4ffa-a6c9-95c4ff27d06f)
 
 
 ## <a name="url"></a>URLs and breadcrumbs
