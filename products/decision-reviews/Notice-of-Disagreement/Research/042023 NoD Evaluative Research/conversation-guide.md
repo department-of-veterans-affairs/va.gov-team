@@ -29,7 +29,7 @@ In this session, we want to hear your honest opinions. We are not testing your a
 
 As you’ve been briefed by Perigean, for this session, we want to see how you navigate decision review options on VA.gov. You’ve either filed a Board Appeal before, or are looking to file a Board Appeal, and we want to step through the form with you. We will not be submitting the form, or making changes to your account in any way.
 
-If you are uncomfortable with navigating your account, we have a staging environment set up that you can walk through with a fictional scenario. If for any reason and at any time you want to stop the session, please let me know.
+If you are uncomfortable with navigating your account, we have a staging environment set up that you can walk through with a fictional scenario. If for any reason and at any time you want to stop the session, please let me know, you'll be compensated no matter how much of the session we complete.
 
 Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are deleted after we complete analysis, and none of your comments will be attributed to you directly.
 * If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
@@ -73,7 +73,7 @@ _Goal: Validate that participants are clear where they are and the requirements 
 	* What do you expect the process to be after submission?
 * From this page, how would you go about filing a Board Appeal?
 * Go ahead and start to file a claim, and talk aloud as you go.
-* (Form introduction) How do you feel about the content on this page?
+* (Form introduction) How do you feel about what this page says?
 ### Things to watch for:
 * Do any participants understand the difference between a disagreement and a denial?
 * Do any participants know how to access more information or help if they don’t understand something on the page?
