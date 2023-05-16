@@ -314,6 +314,8 @@ Provided other ways to apply or wait until application is back online.
   
   </details>
   
+ ### Access Errors
+
   
   
  ### Feedback Errors
@@ -345,4 +347,64 @@ Provided other ways to apply or wait until application is back online.
   Call customer support at 800-698-2411.
   
   
+
+  </details>
+
+
+<details>
+  
+  <summary>Short form confirmation</summary>
+  
+  **Message** <br>
+[h3] Confirm that you receive service-connected pay for a 50% or higher disability rating.
+[p] You selected that you currently receive service-connected disability pay for a 50% or higher disability rating. This means that you meet one of our eligibility criteria and we don’t need to ask your questions about other criteria, like income and military service.  
+[button] Back
+ [button primary] Confirm
+  
+  **Resolution** <br>
+ Confirm or go back to previous question and change answer. 
+ 
+  <img width="520" alt="ShortFormConfirmAlert" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/b3a9d4bb-fc35-4bcc-aebf-c1b3278c3eb6">
+
+  
+  </details>
+  
+  <details>
+  
+  <summary>Short form post-notice</summary>
+  
+  **Message** <br>
+[label] You’re  filling out a shortened application!
+[p] Your service-connected disability rating is 50% or higher. This is one of our eligibility criteria. This means that we don't have to ask you questions about other criteria like income and military service.
+  
+  **Resolution** <br>
+ Go back how many pages needed to get to disability rating question and change answer if incorrect or proceed if correct.
+
+  <img width="427" alt="Group-expandAlert" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/4eee7391-0624-4eb6-a2a7-32c27f8884e6">
+
+  
+  </details>
+  
+  <details>
+  
+  <summary>Submission Successful</summary>
+  
+  **Message** <br>
+  
+  **Resolution** <br>
+  
+  
+
+  </details>
+  
+  <details>
+  
+  <summary>Submission Failed</summary>
+  
+  **Message** <br>
+  
+  **Resolution** <br>
+  
+  
+
   </details>
