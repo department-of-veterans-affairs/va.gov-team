@@ -46,8 +46,8 @@ Are there moments that matter?
 ## Research Goals	
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
-- Improve form content clarity and comrehension
-- Improve veteran preparedness and confidence before begnning form 
+- Improve form content clarity and comprehension
+- Improve veteran preparedness and confidence before beginning form 
 - Improve veteran trust and confidence in VA institution and online/offline services 
 - Reduce cognitive overload caused by form length and information 
 
@@ -58,8 +58,8 @@ The DBEx team will use these learning to create a baseline for the iterative des
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
-- Clarity and comrehension : Do veterans understand the process for filing claims, what is needed, who is elligile, what needs to be done online in the digital form vs offline? Do veterans understand specific terminology in its context e.g. conidition vs disability, evidence, etc. 
-- Preparedness and confidence: Do vets feel prepared after going through the initial steps of the form to continue to beginning the form? What other information do they need provided upfront? What information can be de-prioritized to aid in info digestion?
+- Clarity and comprehension : Do veterans understand the process for filing claims, what is needed, who is elligile, what needs to be done online in the digital form vs offline? Do veterans understand specific terminology in its context e.g. conidition vs disability, evidence, etc. 
+- Preparedness and confidence: Do vets feel prepared enough after going through the introductory pages of the form to continue to start the form? What other information do they need provided upfront? What information can be de-prioritized to aid in info digestion?
 - Trust: Do veterans feel the VA is doing its due diligence in getting them the compensation they need?
 
 Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
