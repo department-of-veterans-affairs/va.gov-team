@@ -216,6 +216,8 @@ Provided other ways to apply or wait until application is back online.
   **Resolution** <br>
   Follow the given instructions to log in to VA.gov and review the indicated information in order to continue.
   
+  <img width="732" alt="error-AuthReq" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/c48d7fef-11bb-49cb-a038-58829cca6500">
+
   
   </details>
   
@@ -244,6 +246,7 @@ Provided other ways to apply or wait until application is back online.
   **Resolution** <br>
   Follow the given instructions and confirm information that is already entered.
   
+<img width="535" alt="prefill alert message" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/54dfa001-4769-4b53-b6fd-1c6ae9bf935d">
 
   
   </details>
