@@ -80,21 +80,9 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 - Include some content under the "Limited services and hours" additional info component, if including it
 - Be able to open more than one service accordion (disability?)
 
-### Ideas for Conversation Guide
-- Warm up questions about what regional benefit offices are, whether you've been to one before, what you might do there or have done there before (and what happened, what do you wish you had known before going),  what you'd do before your visit (search for info online? where?)
-- If you wanted to visit a VA benefit office near you, what would you do? (wayfinding via google? VA.gov > facility locator?) 
-- How could you find out whether it could help you with X? _(applying for disability compensation?)_
-- Let's suppose that Google/VA.gov led you to the page that I'm going to show you. Open prototype, and tell me your impressions of this page (regional benefit office). could add caveat that this is representative of a page but not completely accurate info.
-- How could you figure out whether it could help you with X?
-- To make this happen, what would you do next (check hours, make appt, figure out how to get there, learn what to bring and gather it)
-- How to find the benefit office in the building? call?
-- How could you talk to someone at the VA about whether the VA will pay for more school for you?  
-- Ask to do a task related to a service that's _not_ available at this location (something w/education?), and see what they do (Facility Locator?)
-- Ask at end after saw prototype: What do you think you can do from this VA office? 
-
 ### Research materials
-- [Link to conversation guide]()
-- [Link to prototype]()
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2023-06-veteran-facing/conversation-guide.md)
+- [Link to prototype TBD]()
 	
 ## Recruitment
 
@@ -116,7 +104,7 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
 - At least 2 people who are LGBTQ+
 
 ### Screening Questions
-*If we want to talk w/people for whom applying for disability would potentially be relevant:*
+***If we want to talk w/people for whom applying for disability would potentially be relevant:***
 1. Do you (or the Veteran that you're a family member of or caregiver for) get VA disability compensation? 
      1. No  *(ask next screening question)*
      1. Yes *(disqualify)*
