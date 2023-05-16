@@ -228,9 +228,9 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Planned dates of research: 
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+* Session length: 1 HOUR
+* Buffer time between sessions: 30MIN
+* Maximum Sessions per day: 2 
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
@@ -245,7 +245,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact: Rakshinda Aslam
 - Participant(s) for pilot test:TBD
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	N/A
-- Note-takers:	TBD
+- Note-takers:	Lydia 
 - Observers:	
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
 
