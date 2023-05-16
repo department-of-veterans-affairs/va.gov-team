@@ -1,4 +1,22 @@
-# Mocked Authentication - API Guide
+# Mocked Authentication
+## Table of Contents
+- [Overview](#overview)
+- [How Mocked Authentication works](#how-mocked-authentication-works)
+- [Client | Frontend Guide](#client-guide)
+  - [How to use Mocked Authentication](#how-to-use-mocked-authentication)
+  - [The Mocked Authentication user flow](#mocked-authentication-user-flow)
+- [Server | API Guide](#server-guide)
+  - [Previously mocked users](#previously-mocked-users)
+  - [Generating `state` & an `acr` value](#generate-a-state-code-and-acr)
+  - [Creating and encoding User Credentials](#create-and-encode-user-credential-info)
+    - [Logging a CSPs User Attributes](#log-csp-user-attributes-response)
+    - [Querying existing Mocked CSP Attribute Responses](#query-existing-mocked-csp-attribute-responses)
+    - [Building a CSPs User Attributes Response](#build-csp-user-attributes-response)
+      - [Login.gov](#logingov)
+      - [ID.me](#idme)
+      - [DS Logon](#dsl)
+      - [My HealtheVet](#mhv) 
+  - [Calling the Mocked Authentication Route](#calling-the-mocked-authentication-route)
 
 <aside><em>💡 Note: Mocked authentication is only available in the development and localhost environments.</em></aside>
 
@@ -10,17 +28,55 @@ Mocked authentication was created to solve pain points Engineers, Designers, Pro
 
 VA.gov mocked authentication interacts with the [Sign-in Service](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Sign-In%20Service), playing the role of the CSP in between the `/authorize` & `/callback` calls. Local and development environments for VA.gov already leverage mocked MPI responses to populate user attributes. The mocked authentication flow uses .json files to provide the identifying attributes (first & last name, DOB, SSN, etc.) normally returned by the CSP as arguments. It then uses these mocked identifying attributes to structure a call to the SiS `/callback` route, prompting vets-api to look up the matching data from the mocked MPI response and log the user in.
 
-## Mocked Authentication - Server Side
+## Client Guide
+
+### How to use Mocked Authentication
+To use mocked authentication you need to navigate to the mocked authentication route on vets-website located at
+
+- [http://localhost:3001/sign-in/mocked-auth](http://localhost:3001/sign-in/mocked-auth) or,
+- [http://dev.va.gov/sign-in/mocked-auth](http://dev.va.gov/sign-in/mocked-auth)
+
+> ℹ️ Note: You must add [mocked credentials JSON](https://github.com/department-of-veterans-affairs/vets-api-mockdata/tree/master/credentials) in the vets-api-mockdata repository in order for mocked authentication to work. See above instructions on how to do that.
+
+### Mocked Authentication User flow
+
+![mock-auth](https://user-images.githubusercontent.com/67602137/228640745-4014f7e9-632c-4459-9c1d-79d6573bae9e.png)
+
+1. Navigate to your preferred environments route (see above)
+2. Using the dropdown select a Credential Service Provider (CSP) to use mock authentication with (either Login.gov, ID.me, DS Logon, or My HealtheVet)
+3. Clicking the **Mocked Authentication** button will cause the `mockLogin` authentication utility to fire.
+4. The `mockLogin` utility will generate the proper URL for the mocked authentication route with OAuth + PKCE integration for the vets-api (backend) to consume:
+    
+    ```javascript
+    // Example of route generation with PKCE
+    window.location = `https://dev-api.va.gov/v0/sign_in/
+      ?client_id=vamock
+      &response_type=code
+      &type=<dropdown_selected_credential>
+      &state=<random_hash_stored>
+      &code_challenge=<random_hash_stored>
+      &code_challenge_method=S256`
+    
+    ```
+    
+5. You will land on the server's UI (`/mocked_authentication/profiles`) page that displays a dropdown select box to select a preferred credential
+6. Use the dropdown to select a mocked user (full list of mocked authentication users are located in the [vets-api-mockdata repo](https://github.com/department-of-veterans-affairs/vets-api-mockdata/tree/master/credentials))
+![Screenshot 2023-04-24 at 3 00 11 PM](https://user-images.githubusercontent.com/67602137/234090965-1ccadeb8-fef1-4944-9060-e942128f9f24.png)
+
+7. Click **Continue signing in** to continue with mocked authentication
+8. Land back on your client-side environment in an authenticated state
+
+## Server Guide
 
 ### Previously Mocked Users
 
-If you have already mocked your chosen user before and have your `credential_info` & `state` encoded parameters saved, then you can skip to step # and call `mocked_authentication/authorize`. Steps # are for obtaining & preparing the mocked CSP response data that is to be passed to the mocked authentication route.
+If you have already mocked your chosen user before and have your `credential_info` & `state` encoded parameters saved, then you can [skip to calling the Mocked Authentication route](#calling-the-mocked-authentication-route) and call `mocked_authentication/authorize`. The [Generating `state` & an `acr` value](#generate-a-state-code-and-acr) and [Creating and encoding User Credentials](#create-and-encode-user-credential-info) sections are for obtaining & preparing the mocked CSP response data that is to be passed to the mocked authentication route.
 
-### Generate a `state` code & ACR
+### Generate a `state` code and `acr`
 
 1. Make sure you are on either a localhost (`localhost:3000`) or development (`dev-api.va.gov`) environment.
 
-2. Select a [mocked user that you would like to authenticate as](https://github.com/department-of-veterans-affairs/vets-api-mockdata/tree/master/mvi). Determine whether they are an ID.me or Login.gov user.
+2. Select a [mocked user that you would like to authenticate as](https://github.com/department-of-veterans-affairs/vets-api-mockdata/tree/master/credentials). Determine whether they are an ID.me or Login.gov user.
 
 3. Make a cURL request to [the SiS `/authorize`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/authorize.md) endpoint:
     ```bash
@@ -44,17 +100,17 @@ If you have already mocked your chosen user before and have your `credential_inf
   id="acr_values" value="http://idmanagement.gov/ns/assurance/ial/2"
   ```
 
-### Create & Encode User Credential Info
+### Create and Encode User Credential Info
 
 SiS communicates directly with 4 different CSP providers, each with a different user data response format to return the identifying attributes `vets-api` uses to look up the user in MPI and obtain their full attributes. As such, the user credential object that you create will be different depending on which CSP authentication you are mocking.
 
 There are several ways to build the credential info data that will be supplied to the mocked authentication service:
 
-* enable CSP user attributes logging & authenticate to capture that user's CSP-provided attributes
-* use the Mocked Authentication `credential_list` endpoint to receive a JSON response with all of the currently mocked profiles available of a CSP type
-* build the credential info data using a provided template
+* Enable CSP user attributes logging & authenticate to capture that user's CSP-provided attributes
+* Use the Mocked Authentication `credential_list` endpoint to receive a JSON response with all of the currently mocked profiles available of a CSP type
+* Build the credential info data using a provided template
 
-#### **Log CSP User Attributes Response**
+#### Log CSP User Attributes Response
 
 The Mocked Authentication module is integrated with vets-api to be able to automatically log the CSP user attributes returned when you perform a real localhost authentication. This functionality has been hardcoded off for safety, to enable it on your localhost edit the `log_credential` function in the SiS `idme/configuration.rb` & `logingov/configuration.rb` files, then authenticate with your chosen user. You will then be able to find your user's CSP attributes within your `vets-api-mockdata/credentials` directory.
 
@@ -85,7 +141,7 @@ Base64.encode64(credential_info.to_json)
  =>"eyJzdWIiOiJlYjE3MmUzMS0zNmEwLTQyNjYtYWE3Yi1iNDRjOTM5ZTY4NTAiLCJpc3MiOiJodHRwczovL2lkcC5pbnQuaWRlbnRpdHlzYW5kYm94Lmdvdi8iLCJlbWFpbCI6InZldHMuZ292LnVzZXIrMEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZ2l2ZW5fbmFtZSI6IkhFQ1RPUiIsImZhbWlseV9uYW1lIjoiSiIsImJpcnRoZGF0ZSI6IjE5MzItMDItMDUiLCJzb2NpYWxfc2VjdXJpdHlfbnVtYmVyIjoiNzk2MTI2ODU5IiwiYWRkcmVzcyI6eyJmb3JtYXR0ZWQiOiIxMjMgRmFrZSBTdC5cbldhc2hpbmd0b24sIERDIDIwMDAxIiwic3RyZWV0X2FkZHJlc3MiOiIxMjMgRmFrZSBTdC4iLCJsb2NhbGl0eSI6Ildhc2hpbmd0b24iLCJyZWdpb24iOiJEQyIsInBvc3RhbF9jb2RlIjoiMjAwMDEifSwidmVyaWZpZWRfYXQiOjE2Mzg5ODcxNzAsImlhbCI6Imh0dHA6Ly9pZG1hbmFnZW1lbnQuZ292L25zL2Fzc3VyYW5jZS9pYWwvMiIsImFhbCI6InVybjpnb3Y6Z3NhOmFjOmNsYXNzZXM6c3A6UGFzc3dvcmRQcm90ZWN0ZWRUcmFuc3BvcnQ6ZHVvIn0=" 
 ```
 
-#### **Query existing mocked CSP Attribute Responses**
+#### Query existing mocked CSP Attribute Responses
 
 The Mocked Authentication module hosts a `credential_list` endpoint to serve mocked CSP attribute response payloads as JSON. Most of these responses are recorded from the CSP response logging method above; the two features are intended for use in tandem to make capturing and using CSP data for any test user as seamless as possible.
 
@@ -110,11 +166,11 @@ curl 'localhost:3000/mocked_authentication/credential_list?type=logingov'
 
 The `credential_list` route will include the credential_list encoded, allowing you to skip directly to the final step of calling the mocked authentication route with your `encoded_credential` & `state` parameters.
 
-#### **Build CSP User Attributes Response**
+#### Build CSP User Attributes Response
 
 You can also build your mocked credential object manually using the templates below.
 
-<details>
+<details id="logingov">
   <summary>Login.gov</summary>
     
   Note: 💡 Make sure the `acr` value copied from the `/authorize` `acr` response matches the `:ial` value in the credential_info payload below.
@@ -144,7 +200,7 @@ You can also build your mocked credential object manually using the templates be
   ```
 </details>
 
-<details>
+<details id="idme">
   <summary>ID.me</summary>
 
   ```ruby
@@ -170,7 +226,7 @@ You can also build your mocked credential object manually using the templates be
   ```
 </details>
 
-<details>
+<details id="dsl">
   <summary>DS Logon</summary>
 
   ```ruby
@@ -205,7 +261,7 @@ You can also build your mocked credential object manually using the templates be
   ```
 </details>
 
-<details>
+<details id="mhv">
   <summary>My HealtheVet (MHV)</summary>
 
  ```ruby
@@ -245,41 +301,3 @@ curl 'localhost:3000/mocked_authentication/authorize?credential_info=eyJzdWIiOiJ
 ```
 
 The Mocked Authentication controller should take this information and redirect to a successful Sign-in Service `/callback` function, which will result in a redirect to the VA.gov frontend with a `code` parameter that can be [used to obtain session tokens](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/token.md).
-
-## Mocked Authentication - Client Side
-
-### Using mocked authentication
-To use mocked authentication you need to navigate to the mocked authentication route on vets-website located at
-
-- [http://localhost:3001/sign-in/mocked-auth](http://localhost:3001/sign-in/mocked-auth) or,
-- [http://dev.va.gov/sign-in/mocked-auth](http://dev.va.gov/sign-in/mocked-auth)
-
-> ℹ️ Note: You must add [mocked credentials JSON](https://github.com/department-of-veterans-affairs/vets-api-mockdata/tree/master/credentials) in the vets-api-mockdata repository in order for mocked authentication to work. See above instructions on how to do that.
-
-**User flow**
-
-![mock-auth](https://user-images.githubusercontent.com/67602137/228640745-4014f7e9-632c-4459-9c1d-79d6573bae9e.png)
-
-1. Navigate to your preferred environments route (see above)
-2. Using the dropdown select a Credential Service Provider (CSP) to use mock authentication with (either Login.gov, ID.me, DS Logon, or My HealtheVet)
-3. Clicking the **Mocked Authentication** button will cause the `mockLogin` authentication utility to fire.
-4. The `mockLogin` utility will generate the proper URL for the mocked authentication route with OAuth + PKCE integration for the vets-api (backend) to consume:
-    
-    ```javascript
-    // Example of route generation with PKCE
-    window.location = `https://dev-api.va.gov/v0/sign_in/
-      ?client_id=vamock
-      &response_type=code
-      &type=<dropdown_selected_credential>
-      &state=<random_hash_stored>
-      &code_challenge=<random_hash_stored>
-      &code_challenge_method=S256`
-    
-    ```
-    
-5. You will land on the server's UI (`/mocked_authentication/profiles`) page that displays a dropdown select box to select a preferred credential
-6. Use the dropdown to select a mocked user (available users can be created in the [vets-api-mockdata repo](https://github.com/department-of-veterans-affairs/vets-api-mockdata))
-![Screenshot 2023-04-24 at 3 00 11 PM](https://user-images.githubusercontent.com/67602137/234090965-1ccadeb8-fef1-4944-9060-e942128f9f24.png)
-
-7. Click **Continue signing in** to continue with mocked authentication
-8. Land back on your client-side environment in an authenticated state
