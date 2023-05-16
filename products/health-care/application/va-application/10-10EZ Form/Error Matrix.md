@@ -197,7 +197,8 @@ Atlanta, GA 30329-1647
 **Resolution** <br>
 Provided other ways to apply or wait until application is back online.
 
- 
+ <img width="640" alt="Group system error 2" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/71fa943a-b2f3-46f2-8604-8c3aee08df91">
+
 </details>
 
 
