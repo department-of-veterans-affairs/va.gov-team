@@ -444,7 +444,7 @@ Provided other ways to apply or wait until application is back online.
   
    <details>
   
-  <summary>(ineligCHAMPVA)</summary>
+  <summary>ineligCHAMPVA</summary>
   
   **Message** <br>
 [h3] You didn’t qualify for VA health care based on your previous application
@@ -461,7 +461,7 @@ Provided other ways to apply or wait until application is back online.
   
    <details>
   
-  <summary>(ineligCharacterOfDischarge)</summary>
+  <summary>ineligCharacterOfDischarge</summary>
   
   **Message** <br>
 [h3] We determined that you don’t qualify for VA health care based on your past application
@@ -476,7 +476,7 @@ Provided other ways to apply or wait until application is back online.
   
    <details>
   
-  <summary>(ineligCitizens, ineligFilipinoScouts)</summary>
+  <summary>ineligCitizens, ineligFilipinoScouts</summary>
   
   **Message** <br>
 [h3] We determined that you don’t qualify for VA health care based on your past application
@@ -495,12 +495,12 @@ Provided other ways to apply or wait until application is back online.
   
   <summary>Inelligible Misc</summary>
 
-  Misc Reasons:<br>
-ineligFugitiveFelon
-ineligMedicare
-ineligOther
-ineligOver65
-ineligRefusedCopay
+  **Misc Reasons** <br>
+- ineligFugitiveFelon
+- ineligMedicare
+- ineligOther
+- ineligOver65
+- ineligRefusedCopay
   
   **Message** <br>
 [h3] We determined that you don’t qualify for VA health care based on your past application
@@ -566,13 +566,49 @@ ineligRefusedCopay
 
    <details>
   
-  <summary>Scenario</summary>
+  <summary>pendingMt</summary>
   
   **Message** <br>
-
+[h3] We need more information to complete our review of your VA health care application
+[p bold] You applied on: (end bold) DATE
+[p] We need you to submit a financial disclosure so we can determine if you’re eligible for VA health care based on your income.
   
   **Resolution** <br>
   
+<img width="640" alt="review warning alert pendingMt" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/05e9bf59-1548-494f-a765-e1bd11075497">
+
+  </details>
+  
+  
+   <details>
+  
+  <summary>pendingOther, pendingUnverified</summary>
+  
+  **Message** <br>
+[h3] We’re reviewing your application
+[p bold] You applied on: (end bold) DATE
+[p] We’re in the process of verifying your military service. We’ll contact you by mail if we need you to submit supporting documents (like your DD214 or other discharge papers or separation documents).
+  
+  **Resolution** <br>
+  
+<img width="640" alt="pending review warning alert" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/cc61e3b6-716e-4192-80cd-4e1d767d8179">
+  
+  </details>
+  
+   <details>
+  
+  <summary>pendingPurpleHeart</summary>
+  
+  **Message** <br>
+[h3] We need more information to complete our review of your VA health care application
+[p bold] You applied on: (end bold) DATE
+[p] You included on your application that you’ve received a Purple Heart medal. We need an official document showing that you received this award so we can confirm your eligibility for VA health care.
+[a] Find out how to request your military records
+  
+  **Resolution** <br>
+  
+  
+  <img width="640" alt="pendingPurpleHeart warning alert" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/f105db35-22ad-459d-b357-174f9708bfb6">
 
   </details>
   
