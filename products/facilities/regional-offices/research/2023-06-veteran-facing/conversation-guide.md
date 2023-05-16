@@ -107,7 +107,7 @@ Let’s start with a few questions...
 Now I'm going to ask you to do some things... ***Reassure if p nervous or says they feel dumb or embarrassed***
 
 ### Screen sharing
-I would like you to share your phone screen with me so that I can see what you do during this session. You might want to first close any apps that you don’t want me to see.
+I would like you to share your screen with me so that I can see what you do during this session. You might want to first close any apps that you don’t want me to see.
 - *(refer to Screen sharing instructions above, if needed)*
 - *STOP TECH TROUBLESHOOTING **< 20 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
 
@@ -115,7 +115,7 @@ I would like you to share your phone screen with me so that I can see what you d
 If you wanted to visit a VA benefit office near you, what would you do?
 - * wayfinding via google? VA.gov > facility locator?
 
-Can you show me how you would find out if you're eligible for VA health care with your current income?
+Can you show me how you would find out whether it could help you with XXX (TBD--e.g., applying for disability compensation)?
 
 I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
 
@@ -124,7 +124,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 
 ### Task 2: [Open prototype] 
 
-I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom. It's a prototype that isn't very interactive–some things work, and many things do not. I'm looking for **your feedback**, including any issues that you see or questions that you have. I'd like you to talk to me about what you want to do BEFORE you click anything.
+Let's suppose that (Google/VA.gov) led you to the page that I'm going to show you. It's a prototype that isn't very interactive–some things work, and many things do not. I'm looking for **your feedback**, including any issues that you see or questions that you have. I'd like you to talk to me about what you want to do BEFORE you click anything.
 
 I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **https://bit.ly/3zuL4Be**
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
@@ -136,121 +136,39 @@ Do you see the link?
 
 What are your impressions of what you're looking at? *(RECORD)*
 
-Could you try to use this to find out if you're eligible for VA health care with your current income? Please explain what you want to do before clicking anywhere.
-- *(Click: income limits--under "Will I need to pay..." (w/other links) or "Does VA verify..." (lone link)?)*
+### Task 3: [TBD task re service on the page]
 
-### Task 3: [Intro page of app] 
-Let's talk before you click anywhere...What are your impressions of this page?
-What do you think you can do here?
+Could you try to use this to find out if you could get help with XXX [TBD]? 
 
-*(does p think this tool will ask about disability rating and other factors, or income limits?)*
+To make this happen, what would you do next? 
+- *ck hours / mk appt / how to get there / what to bring*
 
-Do you think this tool would be useful for you or not? WHY?
-*(want to get a sense for HOW useful it might be for them)*
+How would you locate the benefit office in the building?
 
-If not, who would it be useful for?
+### Task 4: [TBD task re service on the page]
 
-*click "Get started"*
-- *(RECORD all comments*)
+Could you try to use this to find out if you could get help with YYY [TBD]? 
 
-### Task 4: [Answer questions in app] 
-How would you use this? Please talk me through what you would do, but **do not** click anywhere yet.
+To make this happen, what would you do next? 
+- *ck hours / mk appt / how to get there / what to bring*
 
-- *(when click on an entry field and then see different info)* This prototype isn't interactive enough to let you enter your own information, but it will jump to a new screen with some information already filled out. I'd like you to tell me what you would enter for yourself or what questions you have about it.
+### Task 5: [TBD task re service NOT on the page]
 
-- *(RECORD all comments and anything confusing re the interactions on each screen of the prototype:)*
-  - *Pension--*  
-  - *A&A--*
-  - *Housebound--*
-  - *Zip code--*
-  - *# of Dependents--*
-  - *Back, Continue buttons--*
-  - *Review your information screen--*
-  - *The year 2022 vs. 2023--*
+Could you try to use this to find out if you could get help with ZZZ [TBD--whether the VA will pay for more school for you]? 
 
-### Task 5: [Results screen]
-What are your impressions of this page? *(RECORD what they say)*
-
-- *RECORD: Which accordions did they open? How to estimate income / $29K / $29-43K / $43-81K / $81-90K / $90K or more*
-
-Can you explain what this page means to you?
-
-How is your income involved here?
-
-- *RECORD: Understand that it's your previous year's income that's relevant? yes / no*
-
-If your salary last year was around $40,000, what might that mean for your eligibility for VA health care? *(RECORD)*
-
-Can you tell me what benefits you might get? 
-- *PROBE on meaning of "Free VA health care for most types of care"*
-- *PROBE on meaning of "copays"*
-
-If your salary last year was around $28,000, what might that mean? *(RECORD)*
-
-If your salary last year was around $83,000, what might that mean? *(RECORD)*
-
-If your salary last year was around $90,000, what might that mean? *(RECORD)*
-
-How sure are you that these benefits *would apply* if your salary was around $90,000?
-
-- *(Could probe)* How certain are you that you *don't qualify for more benefits*? 
-- Is there anything that might affect the income number that you use here? *(e.g., deductions)*
-
-What if your salary was around $100,000? *(RECORD)*
-
-*RECORD any comments about...*
-- *benefits (in bullets)--*
-- *income/deductions--*
-- *the year 2022 vs. 2023--*
-- *wanting to see questions answered (zip code, # dependents)--*
-- *about the word "Select"*
-
-### Task 6: [What next]
-Please stay on this screen. Based on what you see in this screen, what do you think about this information and the question of eligibility for VA health care?
-- *RECORD what they say: definitive answer / only part of the answer / need to apply to know for sure / _____________*
-- *Make sure that participant is talking about what they're seeing in the app,* and NOT *what they knew before this session!*
-
-How would you decide what to do next? 
-
-What would you do next? 
-- *(RECORD: apply for VA health care / Review info entered / Back in browser / ________________)*
-
-How did this tool help or not help you decide what to do?
-
-### Task 7: [Check info entered]
-Now you want to check whether you entered your location correctly. How could you do that? 
-- *(RECORD: Review info entered > Edit / Back in browser to review page or zip code screen / ________________)*
-  - *Any difficulty finding the “Review info entered” link? Y / N*
-- *If surprised by dependents screen, ask what they expected to see (Continue button --> Review page?)*
-
-### Task 8: [Change year]
-Suppose that you’re in the process of appealing a health care claim from 2021, and you want to see the income limits from that year. What could you do? Again, please tell me where you want to click before doing it.
-- *(RECORD: click on "Get past income limits" / _________________________________)*
-  - *any comments about the wording "get past"?*
-
-- *(RECORD all comments and anything confusing re the interactions on each screen of the prototype:)*
-  - *Pension--*  
-  - *A&A--*
-  - *Housebound--*
-  - *Zip code--*
-  - *Anything about the year 2020--*
-  - *# of Dependents--*
-  - *Back, Continue buttons--*
-  - *Review your information screen--*
-  - *Results screen--*
+- *What do they do? 
+  - *Facility Locator?*
 
 ## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-1. How or where would you expect to find this tool that you just used?
+1. In your own words, what do you think you can do from this VA office?
 1. What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
 1. Is there anything else that we haven't talked about that you think I should know? 
 
-I want to let you know that we're still working out some of the details for what I've shown you today, so I'm going to ask you to **NOT** *rely on the accuracy of the information that you've seen*, in case it's not correct.
-
-*If they ask how to find out more, give them the phone number for the VA health benefits hotline, which can help with enrollment and eligibility questions:* **877-222-8387 (Mon - Fri 8 am - 8 pm ET)**
+I want to let you know that the prototype I showed you may not be completely accurate about the benefits office it described. We're still working out the details, so I'm going to ask you to **NOT** *rely on the accuracy of the information that you've seen*, in case it's not correct.
 
 
 ## Thank You and Closing - 1 minute
@@ -273,5 +191,5 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Debrief to my spreadsheet
 
 ## Approvals
-- Dave Conlon (PO) on Mar 8, 2023
-- Shane Strassberg on Mar 13, 2023
+- Dave Conlon (PO) on TBD
+- Shane Strassberg on TBD
