@@ -94,13 +94,13 @@ Let’s start with a few questions...
 
 1. How do you typically get information and benefits from the VA? *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)*
 
-1. Do you have VA health care? *(Yes / No / ______________________)*
-
-1. What have you heard about income eligibility for VA health care? 
-
-1. Do you get a pension from the VA? *(Yes / No / ______________________)*
-
-1. Do you get VA disability compensation for a service-connected disability rating of 50% or higher? *(Yes / No / ______________________)*
+1. What do you know about VA regional benefit offices? 
+1. Have you been to one before? 
+1. If yes, can you describe your last visit to a regional benefit office? 
+     1. When was it?
+     1. What did you do there?
+     1. What do you wish you had known *before going*?
+     1. What might you do *before your next visit* to a benefits office?
 
 
 ## User Tasks
