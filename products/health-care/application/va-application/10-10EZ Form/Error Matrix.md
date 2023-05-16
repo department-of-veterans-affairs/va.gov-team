@@ -150,10 +150,64 @@ Try again later
   
   </details>
   
+    <details>
+  
+  <summary>Scheduled downtime AUTHENTICATED</summary>
+ 
+  **Message** <br>
+ [h3] We're working on the application right now
+[p] You may not be able to access the online health care application until maintenance is complete. 
+ [p bold]Other ways to apply
+ [list]
+- You can call our toll-free hotline at 877-222-8387 to apply by phone, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET, or
+- You can download and fill out the application. Send your completed application here:
+[address] 
+Health Eligibility Center
+2957 Clairmont Road NE, Ste 200
+Atlanta, GA 30329-1647
+[p] If you have trouble downloading your application, call us at 800-698-2411 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+[a] Download VA Form 10-10EZ (PDF)
+  
+    **Resolution** <br>
+Provided other ways to apply or wait until application is back online.
   
   
+  <img width="640" alt="SystemError-EZ2" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/42fc71f1-9b3c-49d8-91ea-be86cbbf2d82">
+
+  
+    </details>
+
+
+
+  <details>
+  
+  <summary>Unscheduled downtime AUTHENTICATED</summary>
+ 
+  **Message** <br>
+ [h3] Some online tools or services aren’t working right now
+[p] You may have trouble accessing the health care application at this time. We’re working to fix this. Please check back soon.
+ [p bold]Other ways to apply
+ [list]
+- You can call our toll-free hotline at 877-222-8387 to apply by phone, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET, or
+- You can download and fill out the application. Send your completed application here:
+[address] 
+Health Eligibility Center
+2957 Clairmont Road NE, Ste 200
+Atlanta, GA 30329-1647
+[p] If you have trouble downloading your application, call us at 800-698-2411 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+[a] Download VA Form 10-10EZ (PDF)
+  
+
   
   
+    **Resolution** <br>
+Provided other ways to apply or wait until application is back online.
+
+  <img width="640" alt="Group system error 2" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/7aee940e-ee8a-42e8-a135-cb9639363c48">
+
+  
+    </details>
+
   
   ### Engagement Errors
   
