@@ -23,6 +23,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)[[BE] Add travel_claims Endpoint in Swagger](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/58514)
         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)[Create New Data Dog Metrics for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58537)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56556)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Hold Staging Review on 5/25
@@ -38,9 +39,6 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create Wireframe to Address IA on check-in confirmation page Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57444)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create Wireframe to Address the Pair date and time on confirmation pages Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57442)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create Wireframe to Address the "How to update my information" accordion and IA on pre-check-in confirmation page Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57443)
-       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Address the "How to update my information" accordion and IA on pre-check-in confirmation page Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58476)
-       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Address the Pair date and time on confirmation pages Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58477)
-       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Address IA on check-in confirmation page Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58479)
     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[DESIGN] Revisit eyebrow design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58453)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [SPIKE - Do we use dismissible alerts or not?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57894)
