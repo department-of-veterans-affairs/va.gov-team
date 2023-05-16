@@ -130,7 +130,6 @@ This is the full text mesasge and resolution for individual errors that can be e
   1. Wait until the application is back online and submit it then.
   2. Call customer support at 877-222-8387, Monday - Friday, 8:00 a.m. - 8:00 p.m. EST.
   
-  
   </details>
   
   
@@ -232,7 +231,6 @@ Provided other ways to apply or wait until application is back online.
   
 <img width="664" alt="alert message text for information prefilled" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/05907217-6f3d-4fc6-a339-5ed00912f732">
   
-  
   </details>
   
   
@@ -252,21 +250,16 @@ Provided other ways to apply or wait until application is back online.
   
   
      <details>
-  
-  <summary>Saved application</summary>
-  
+ 
+ <summary>Saved application</summary> 
+
   **Message** <br>
-  
-  [h3] Your health care benefits application has been saved
+[h3] Your health care benefits application has been saved
 [p] Last saved on {date time} Your saved application will expire on DATE.
 [p] If you are on a public computer, please sign out of your account so your information stays secure.
 
-  
-  **Resolution** <br>
+**Resolution** <br>
 
-
-
-<img width="640" alt="alert for saved application image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/10b09914-8489-4e0c-93a6-fd5727a0d4d2">
 
   </details>
   
