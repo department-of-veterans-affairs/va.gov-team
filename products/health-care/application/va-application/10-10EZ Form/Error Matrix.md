@@ -36,6 +36,7 @@ Please see the individual errors below or the Mural board for the full text and 
 | Prefilled alert message - AUTHENTICATED | [p] We've prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below. |  | Auto Save - AUTHENTICATED | [p] Your application has been saved. It was last saved on [Month Day, Year at Time]. Your application ID number is [number]. |  | 
 | Saved application - AUTHENTICATED | [h3] Your health care benefits application has been saved [p] Last saved on {date time} Your saved application will expire on DATE. | Complete before expiration date or start a new application.|
 | Short form - AUTHENTICATED | [h3] You can fill out a shorter application [p] Our records show that you have a VA service-connected disability rating of 75%. This means you meet one of our eligibility criteria. | |
+| Saved application alert - AUTHENTICATED | [h3] Your health care benefits application has been saved [p] Last saved on {date time} Your saved application will expire on DATE. | Complete before expiration date or start a new application.|
 
 
 
