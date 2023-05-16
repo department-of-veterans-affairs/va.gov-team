@@ -130,6 +130,8 @@ This is the full text mesasge and resolution for individual errors that can be e
   1. Wait until the application is back online and submit it then.
   2. Call customer support at 877-222-8387, Monday - Friday, 8:00 a.m. - 8:00 p.m. EST.
   
+  
+  
   </details>
   
   
@@ -201,6 +203,7 @@ Provided other ways to apply or wait until application is back online.
 
 </details>
 
+
 ### Engagement Errors
   
   <details>
@@ -213,11 +216,8 @@ Provided other ways to apply or wait until application is back online.
   **Resolution** <br>
   Follow the given instructions to log in to VA.gov and review the indicated information in order to continue.
   
-  <img width="732" alt="error-AuthReq" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/df24ad80-c9c6-4b68-b778-0ad1c4f4394c">
   
   </details>
-  
-  
   
   <details>
   
@@ -229,14 +229,14 @@ Provided other ways to apply or wait until application is back online.
   **Resolution** <br>
   Follow the given instructions and confirm information that is already entered.
   
-<img width="664" alt="alert message text for information prefilled" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/05907217-6f3d-4fc6-a339-5ed00912f732">
+<img width="664" alt="information prefilled" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/05907217-6f3d-4fc6-a339-5ed00912f732">
   
   </details>
   
   
-   <details>
-  
-  <summary>Prefilled alert message - Authenticated</summary>
+  <details>
+
+<summary>Prefilled alert message - Authenticated</summary>
   
   **Message** <br>
   [p] We've prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below.
@@ -244,16 +244,34 @@ Provided other ways to apply or wait until application is back online.
   **Resolution** <br>
   Follow the given instructions and confirm information that is already entered.
   
-<img width="535" alt="blue background text of message information prefilled" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/91e2f0e6-63fa-4d65-9e35-3a5e615f964d">
+
   
   </details>
   
   
-     <details>
+  <details>
  
  <summary>Saved application</summary> 
 
-  **Message** <br>
+**Message** <br>
+
+[h3] Your health care benefits application has been saved
+[p] Last saved on {date time} Your saved application will expire on DATE.
+[p] If you are on a public computer, please sign out of your account so your information stays secure.
+
+**Resolution** <br>
+<img width="545" alt="0-1683755955647" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/44df645d-4c0e-46d7-8a28-1b1ec1848c75">
+
+
+</details>
+  
+  
+  <details>
+ 
+ <summary>Saved application alert</summary> 
+
+**Message** <br>
+
 [h3] Your health care benefits application has been saved
 [p] Last saved on {date time} Your saved application will expire on DATE.
 [p] If you are on a public computer, please sign out of your account so your information stays secure.
@@ -261,7 +279,10 @@ Provided other ways to apply or wait until application is back online.
 **Resolution** <br>
 
 
-  </details>
+  ![EZ Error Audit_2023-05-16_17-22-04](https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/d8f3c947-0fd6-4e99-822d-52c01cbfa632)
+
+  
+</details>
   
   
 <details>
@@ -284,6 +305,10 @@ Provided other ways to apply or wait until application is back online.
   **Resolution** <br>
 
 
+  <img width="725" alt="0-1683818411918" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/5dbdf33c-f4e8-4f79-9776-3aa257344bee">
+
+  
+  
   </details>
   
   
