@@ -87,9 +87,11 @@ TBD
 ### Technical Approach
 * Unique identifier?
 * Discharge status API
+   * [Veteran Verification API](https://developer.va.gov/explore/verification/docs/veteran_verification?version=current) has this data
 * Is there a way to access which Veterans have VICs and just surfacing it in the app?
 * ID needs to be available offline
 * Must have non-dishonarable discharge
+   * [Veteran Verification API](https://developer.va.gov/explore/verification/docs/veteran_verification?version=current) has this data
 
 ### Measuring success
 #### Usefulness of VIC:
