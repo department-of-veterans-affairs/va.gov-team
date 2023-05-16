@@ -147,9 +147,12 @@ Check back later
   <summary>Submit successful</summary>
   
   **Message** <br>
-  
+ [h3]Thank you for completing your application
+ [p] Once we’ve successfully received your application, we’ll contact you to tell you what happens next in the application process.
+ 
+ 
     **Resolution** <br>
-
+Next step in caregiver application process...
  
  <img width="640" alt="Successful alert message" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/b540bb56-5ac8-4e37-a204-c2fc65e34903">
 
