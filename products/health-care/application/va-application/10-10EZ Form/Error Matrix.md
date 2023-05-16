@@ -1,7 +1,8 @@
 # 10-10EZ Errors
 
 ## Audit 
-[10-10EZ Error Messages - Content and Design Audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683651181051/e0f47b9aaefbf78a3942df3028525cdc4336caff?sender=uadf1ed7fe7c76f0914967329)
+[10-10EZ Error Messages](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683651181051/e0f47b9aaefbf78a3942df3028525cdc4336caff?sender=uadf1ed7fe7c76f0914967329)
+- Content / Design Audit and Living Document
 
 ## Matrix
 This matrix contains abridged messaging and resolution for the errors that can be encountered in the form. The are categorized under:
@@ -112,6 +113,9 @@ Please see the individual errors below or the Mural board for the full text and 
 ## All Errors - Full text
 
 This is the full text mesasge and resolution for individual errors that can be encountered.
+
+### System Errors
+
 <details>
   
   <summary>System is undergoing maintenance</summary>
@@ -127,6 +131,31 @@ This is the full text mesasge and resolution for individual errors that can be e
   
   
   </details>
+  
+  
+  
+  <details>
+  
+  <summary>Pre-Check page Unauthenticated</summary>
+  
+  **Message** <br>
+ [h3] Something went wrong on our end 
+ [p] We're sorry. Something went wrong on our end. Please try again.
+  
+  **Resolution** <br>
+Try again later
+  
+  <img width="732" alt="0-1683753531301" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/16e9010e-cc17-41f2-9436-b280daec1d06">
+  
+  
+  </details>
+  
+  
+  
+  
+  
+  
+  ### Engagement Errors
   
   <details>
   
