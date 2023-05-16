@@ -191,5 +191,5 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Debrief to my spreadsheet
 
 ## Approvals
-- Dave Conlon (PO) on TBD
+- Michelle Middaugh or Dave Conlon (PO) on TBD
 - Shane Strassberg on TBD
