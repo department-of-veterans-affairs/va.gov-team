@@ -112,25 +112,19 @@ I would like you to share your phone screen with me so that I can see what you d
 - *STOP TECH TROUBLESHOOTING **< 20 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
 
 ### Task 1: [Wayfinding] 
-*(if they DON'T have VA health care)* Let's say that you're wondering if you're eligible for VA health care with your current income.
-
-*(if they already have VA health care)* Let's say that your income just changed, and you want to know whether you're still eligible for VA health care or if your benefits might change.
-
-*if they have 50% or higher disability rating, do they say that income limits don't apply to them? Y / N / ____________*
-
-*if they have a VA pension, do they say that income limits don't apply to them? Y / N / ____________*
-
-I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. I'm looking for **your feedback**, including any issues that you see or questions that you have. 
+If you wanted to visit a VA benefit office near you, what would you do?
+- * wayfinding via google? VA.gov > facility locator?
 
 Can you show me how you would find out if you're eligible for VA health care with your current income?
 
+I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
+
 - *RECORD what they do: Google / VA.gov / words looking/searching for: _______________________*
 
-- *RECORD where they go on VA.gov: Cost of care page / Eligibility page / ______________________*
 
 ### Task 2: [Open prototype] 
 
-I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom. It's a prototype that isn't very interactive–some things work, and many things do not. I'd like you to talk to me about what you want to do BEFORE you click anything.
+I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom. It's a prototype that isn't very interactive–some things work, and many things do not. I'm looking for **your feedback**, including any issues that you see or questions that you have. I'd like you to talk to me about what you want to do BEFORE you click anything.
 
 I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **https://bit.ly/3zuL4Be**
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
