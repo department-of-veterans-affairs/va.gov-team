@@ -23,6 +23,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56556)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Hold Staging Review on 5/25
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Address Platform Feedback - Ticket TBD  
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Update text in success alert for check in happy path complete page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57878)
