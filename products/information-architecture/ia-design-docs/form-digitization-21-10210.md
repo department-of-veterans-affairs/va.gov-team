@@ -19,7 +19,7 @@
 
 ## <a name="map"></a>Page structure<br>
 The form will live under the new parent page for supporting forms.
-![Screenshot 2023-05-16 at 2 33 46 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/0d191d94-f0b8-41df-a091-6244225e2937)
+![Screenshot 2023-05-16 at 2 38 57 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/97deacaf-8498-4fbf-87c9-cb006af2c6b0)
 
 
 ## <a name="url"></a>URLs and breadcrumbs
