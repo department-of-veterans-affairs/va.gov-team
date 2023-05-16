@@ -10,7 +10,7 @@ We should avoid using LoROTA as that was designed as an alternative to requiring
 
 https://app.mural.co/t/departmentofveteransaffairs9999/r/1675718737504?folderUuid=7ad264a1-d550-4bc6-a7b3-27fac23c9e08
 
-
+FPO diagram:
 
 ```mermaid
 sequenceDiagram
@@ -29,11 +29,20 @@ sequenceDiagram
 ```
 
 ## Questions:
+
+Should we create a new vets-api module for fully authed applications(suggestions from Stephen)?
+
+How do we know check in is started?
+
+How will we know if their demographics have been updated?
+
 Can we see their appointment payload? (VAOS)
 
 Do they know which appointments have e-check-in enabled?
+	- Check in enabled boolean probably not provided(Stephen)
 
 How can we have security confidence that the patient is checking into only their appointments?
+
 
 ## Internal questions:
 
