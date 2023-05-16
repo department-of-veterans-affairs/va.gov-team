@@ -250,7 +250,47 @@ Provided other ways to apply or wait until application is back online.
   </details>
   
   
+     <details>
   
+  <summary>Saved application</summary>
+  
+  **Message** <br>
+  
+  [h3] Your health care benefits application has been saved
+[p] Last saved on {date time} Your saved application will expire on DATE.
+[p] If you are on a public computer, please sign out of your account so your information stays secure.
+
+  
+  **Resolution** <br>
+
+
+
+<img width="640" alt="alert for saved application image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/10b09914-8489-4e0c-93a6-fd5727a0d4d2">
+
+  </details>
+  
+  
+<details>
+  
+  <summary>Authenticated - Short Form</summary>
+  
+  **Message** <br>
+  [h3] You can fill out a shorter application
+[p] Our records show that you have a VA service-connected disability rating of 75%. This means you meet one of our eligibility criteria. And we don't need to ask you questions about other criteria like income and military service.
+  [additional info component]
+  [label] What if I don’t think my rating information is correct here?
+  [content] 
+  We want to make sure that we ask you all the questions we need to make a decision about your application. This helps you get a decision faster and avoids the need to  ask you for more information later.
+
+  [end add info component]
+  
+
+  [p] Call us at 877-222-8387. We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET. If you have hearing loss, call TTY: 711.
+  
+  **Resolution** <br>
+
+
+  </details>
   
   
   
