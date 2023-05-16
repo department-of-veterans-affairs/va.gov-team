@@ -54,7 +54,7 @@ Are there moments that matter?
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
-The DBEx team will use these learning to create a baseline for the iterative design process; continue to refine the form landing/start pages for clarity, veteran confidence, and veteran preparedness; and to ultimately progress toward our northstart KPI: reducing the number of sessions needed to complete the form. 
+The DBEx team will use these learning to create a baseline for the iterative design process; continue to refine the form landing/start pages for clarity, veteran confidence, and veteran preparedness; and to ultimately progress toward our northstar KPI: reducing the number of sessions needed to complete the form. 
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
