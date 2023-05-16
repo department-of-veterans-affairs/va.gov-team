@@ -43,6 +43,13 @@ EVSS Migration - data discrpencies
 
 -----------------
 
+5/16/23
+
+Check-In
+* Team is working on providing LOE estimate for 2 check-in user experience flows 'check-in w/pre-registration & check-in w/out pre-registration.  Target to have estimates by Wed 5/16
+* Push Notifications - Most of this effort is coordination that will need to be done w/check in team, Vetext/VaNotify (no implementation work on mobile).  If this is required for MVP, engagement will be needed with VeText/VANotify, are they in line with MVP timelines etc.
+* Deep Linking - Will require a team spike (research time) to explore what would be involved and needed to implempement deep linking on the app    
+
 5/2/23
 
 Preferred Name & Gender Go/Live  on hold
