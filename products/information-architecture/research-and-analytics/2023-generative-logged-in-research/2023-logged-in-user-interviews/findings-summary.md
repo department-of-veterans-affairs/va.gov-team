@@ -245,10 +245,12 @@ We’ve heard about this pain point in other research sessions too. It’s clear
 
 ## Recommendations
 ### Make My VA the true logged-in homepage.
-Based on what we saw in this study, the current homepage isn’t useful for people who are logged-in to VA.gov.
+Based on what we saw in this study, the current homepage isn’t useful for people who are logged-in to VA.gov. 
 - Participants felt My VA gave them direct access to their most important tasks, and recognized the redundancy of those links on the homepage. This aligns with their expectations of a modern digital experience, based on private sector websites.
 - Participants who used the homepage to navigate, instead of My VA, only did so because they were unfamiliar with the site. Once they saw My VA, they preferred it to the homepage.
 - The new homepage design does not elevate top tasks for logged-in users in the same way My VA or the current homepage does, which may make it significantly less useful than My VA once it launches.
+
+We likely need to do some pre-work before this could be truly successful, such as better surfacing Records in the auth experience, and evaluating what to do with non-task content on the current homepage.
 
 ### Reconsider the logged-in navigation, including the personalized menu.
 Links in the personalized menu are duplicated in the global navigation, and many links in the mega menu are repeated on My VA.  The personalized menu hasn’t been revisited in the 5 years since it’s launched, and we now have many more personalized tools on VA.gov. We should identify ways we can streamline and improve navigation options, while maintaining ease-of-access to top tasks from anywhere on the website.
