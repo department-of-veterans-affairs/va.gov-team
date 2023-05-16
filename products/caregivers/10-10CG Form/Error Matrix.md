@@ -56,6 +56,17 @@ This is the full text message and resolution for individual errors that can be e
 <details>
   
  <summary>Maintenance</summary>
+   **Message** <br>
+[h3] This tool is down for maintenance.
+[p] We're making some updates to this tool to help make it even better for Veterans, service members, and family members like you. We're sorry it's not working right now. Please check back soon.
+ 
+   **Resolution** <br>
+Check back later
+ 
+ ![We are updating this tool right now message image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/f5fb289c-30f3-45ed-ab45-2e4713e27b62)
+
+ 
+ 
 </details>
 
 
