@@ -65,7 +65,7 @@ We’ll conduct remote usability testing over Zoom. This method will enable us t
 ### Recruitment approach
 We will recruit participants using a variant of the maximum variation sampling strategy. Our goal is to emphasize  underrepresented veterans in past research. We desire to surface new insights that may not be obvious as a result of studying our usual groups. We will use Perigean’s recruiting service to schedule 18 interviews to achieve 12 completed sessions.
 ### Recruitment criteria
-[Research recruitment request ticket]()
+[Research recruitment request ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/318)
 ### Primary criteria (must-haves)
 Our target audience for this research is Veterans who have had their claims denied and have either already completed a request for a Board appeal or are in the process of completing a request for a board appeal.
 
@@ -73,35 +73,7 @@ Our target audience for this research is Veterans who have had their claims deni
 * All participants must have a computer, tablet, or smartphone and be willing to complete their session using one of those devices.
 * During the session, veterans must be willing to share a web browser window on their devices.
 * All participants must have Zoom installed on their devices before the session and know how to share their screens.
-### Demographic (must-haves)
-The following demographic criteria is our goal, but we understand that historically it’s been challenging to recruit participants with VA debt.
 
-* At least 9 people are without a degree or professional certificate
-* At least 9 people are 55+
-* At least 8 people must identify as Black, Hispanic/Latina/Latinx, or Native
-Demographics breakdown*  [Without a degree](https://www.luminafoundation.org/wp-content/uploads/2019/10/veterans-without-degrees.pdf) : 9 
-	* GED: 2
-	* High School: 2
-	* Some College: 2
-	* Associate’s: 1
-	* Bachelors: 1
-	* Masters: 1
-*  [Aged 55-64+](https://www.va.gov/VETDATA/docs/SurveysAndStudies/VETPOP.pdf)  : 9
-*  [Identified cognitive disability](https://www.census.gov/content/dam/Census/library/working-papers/2016/demo/Holder-2016-01.pdf) : 8
-	* Difficulty remembering, 
-	* Difficulty concentrating,
-	* Difficulty making decisions because of a physical, mental, or emotional problem
-*  [Primarily mobile users](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125614/#:~:text=The%20rate%20of%20smartphone%20ownership,low%20levels%20of%20current%20engagement.) : 7 
-*  [People of color](https://www.va.gov/HEALTHEQUITY/Race_Ethnicity.asp) : 8
-	* Black:  2
-	* Latinx: 2
-	* Asian: 1
-	* American Indian and Alaska Native Veterans: 1
-	* Native Hawaiian and Other Pacific Island Veterans: 1
-	* Non-hispanic: 1
-*  [In a rural area](https://www.ruralhealth.va.gov/aboutus/ruralvets.asp)  : 3
-*  [With immigrant origins](https://www.migrationpolicy.org/article/immigrant-veterans-united-states-2018) :  4
-	*  Spanish (26 percent); Tagalog (9 percent); Chinese and French/Haitian Creole (3 percent each); and Vietnamese, German, or Korean (2 percent each).
 ### Screener
 1. Did you receive a claims decision within the last year? [Yes/No: Must answer yes]
 2. Have you attempted or submitted an appeal on va.gov? [Multi-select: 70%, must include Yes - Board Appeal]
