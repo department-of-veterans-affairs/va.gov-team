@@ -1,6 +1,6 @@
 # VA.gov profile roadmap
 
-**Last updated: March 23, 2023**
+**Last updated: May 17, 2023**
 
 ## Current projects & enhancements
 
@@ -60,7 +60,7 @@ Quarters are by calendar year, not fiscal year.
 |Fiduciary indicator | VA Profile | N/A | VA Profile has mentioned they are in discovery with adding a fiduciary indicator that we could consume, but they do not have any dates yet as to when they plan to implement this |
 |Add dependent info to the profile | Auth exp/eBenefits migration team | January 2021 | [Slack convo](https://dsva.slack.com/archives/CLY6Q69RV/p1611687078020800)|
 |Virtual hearing opt-in| Caseflow/Lighthouse | September 2020 | Caseflow/Lighthouse needs to do some research to determine how virtual hearing opt-in might work before coming back to VA.gov. Currently, there is no evidence that the profile is the right place for people to indicate they are willing to do a virtual appeals hearing.|
-| Design exploration: Should we move editing from in-line forms to forms on a different page? | Auth exp | Fall 2021 | [Additional context](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31237#issuecomment-947856877)|
+| Design exploration: Should we move editing from in-line forms to forms on a different page? | Auth exp | Fall 2021 | [Additional context](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31237#issuecomment-947856877). We evaluated this in September of 2022 and decided to stick with in-line editing ([finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#for-primary-editing-functionality-continue-using-the-single-page-editing-pattern-that-is-in-place-today)).|
 |PACT Act|Chante|7/20/22|Chante let me know that if the PACT Act is passed, it may require updates to both the Profile and My VA. Actual work is TBD.|
 
 ### Personal information requests
