@@ -1,3 +1,12 @@
+## Board purpose
+To communicate:
+* Efficiency (replicate across the board) + comparison 
+* Efficacy (replicate across the board) 
+  * Understand our fails 
+What decisions do we want to make from this data?
+* When to move users from stand alone to flagship?
+* If we need to take additional action around fails.
+
 ## Metrics
 |Metric | Metric type | Calculation type | Description of formula |
 |--------|-------------|-------------------------|-----------------|
