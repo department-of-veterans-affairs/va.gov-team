@@ -85,7 +85,7 @@ Quarters are by calendar year, not fiscal year.
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
-
+|Direct Deposit Forms| Vetera Facing Forms|5/17/2023| digitizing Veteran Facing Forms - one form we are looking into is 20-572 -Request to change direct deposit and or address, there are some instances with DD via the Profile that don’t update other systems like Home loan benefits, Life insurance benefits, CHAMPVA, The Foreign Medical Program might be worth exploring if we need to add additional connections for these other benefits. [Brief initial slack convo](https://dsva.slack.com/archives/C909ZG2BB/p1684262567395119)|
 
 ### Notification preferences requests
 
