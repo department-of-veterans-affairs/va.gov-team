@@ -135,6 +135,15 @@ When ready, fill out that ticket with the following information:
 * Buffer time between sessions: 30 minutes
 
 ### Availability
+| Team Availability |  Time Slots (ET) |
+| ----------- | ----------- |
+|June 1, 2023  | 9:00 a.m., 12:00-2:30 p.m.(last session can start at 2:30) |
+|June 2, 2023 |9:00 a.m-12:00 p.m.(last session can start at 12:00), 3:30p.m-4:00 p.m. (last session can start at 4:00)   |
+|June 5, 2023  |  10:00 a.m., 12:00 p.m., 2:00 p.m., 4:00 p.m., 7:30, p.m.   |
+|June 6, 2023 |   10:00 a.m., 12:00 p.m., 2:00 p.m., 4:00 p.m., 7:30, p.m.  |
+|June 7, 2023 |  10:00 a.m., 12:00 p.m., 2:00 p.m., 4:00 p.m.   |
+|June 8, 2023 |   10:00 a.m., 12:00 p.m., 2:00 p.m., 4:00 p.m., 7:30, p.m.  |
+|June 9, 2023 |  10:00 a.m., 12:00 p.m., 2:00 p.m., 4:00 p.m.   |
 
 Team Availability | Time Slots (ET)
 	
