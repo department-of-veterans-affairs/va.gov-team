@@ -69,7 +69,7 @@ Before we look at the website, let’s start with a few warm-up questions.
     - Why did you choose that number?
 - From what you’ve read here, what is your understanding of who qualifies for benefits under the PACT act?
 
-## Second Task: [STEP 1] - 10 minutes
+## Second Task: [STEP 1] Is this the form for you - 10 minutes
 
 - Same as before: Imagine you are here to *insert pertinant scenario to participant*
 - Looking at the steps listed here, what are your first impressions of the actions you need to take to start the form, if any?
@@ -98,7 +98,7 @@ QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Etc]
 
-## Third Task: [STEP 2] - 3 minutes
+## Third Task: [STEP 2] Decide how to apply - 3 minutes
 
 - IF ON MOBILE: expand section two
 - Imagine you are here to *insert pertinant scenario,* read step 2 on this page at your own pace, and look for any information relevant to your situation.
@@ -115,7 +115,7 @@ QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Fourth Task: Step 3 Gather information - 10 minutes
+## Fourth Task: [Step 3] Gather information - 10 minutes
 
 - IF ON MOBILE: expand section three
 - As before, read through this section at your own pace. let me know once you’re finished.
@@ -139,7 +139,7 @@ QUESTIONS CONCERNING EXPANDABLE UI/INFO
 - In your own words, what is your understanding of the benefits delivery at discharge program?
     - ALT (alternative phrasing for a question) : Was anything confusing about the information concerning active duty service members and benefits delivery at discharge ?
 
-## Fifth Task: Step 4 : Apply - 8 minutes
+## Fifth Task: [Step 4] Apply - 8 minutes
 
 - IF ON MOBILE: expand section four
 - Read through section at your own pace…
@@ -156,7 +156,7 @@ QUESTIONS CONCERNING EXPANDABLE UI/INFO
     - ALT: Is anything confusing about the information about declaring your intent to file
 - What is your understanding of the information regarding additional forms like those for dependents and aid?
 
-## Post-Interview - 10 minutes
+## INTRO PAGE Post-Interview - 10 minutes
 
 SENTIMENT AND TRUST TESTING
 
