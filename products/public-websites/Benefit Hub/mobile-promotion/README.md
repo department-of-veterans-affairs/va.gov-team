@@ -38,6 +38,7 @@ Increase the download/use/adoption of the VA.gov mobile app.
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
+### MVP KPI measurements
 | Product KPI | Baseline | Target | [Link to data source](https://lookerstudio.google.com/u/0/reporting/92cadc84-b31f-4a7a-9be9-6a0c3fe7d572/page/p_5xc9k8cs5c) | 
 | ----- | ----- | ----- | ----- |
 | Downloads of VA.gov Mobile App (aggregate) | ----- | ----- | ----- | ----- |
@@ -49,6 +50,7 @@ Increase the download/use/adoption of the VA.gov mobile app.
 | Increased iOS App engagement with Download common VA letters (Letter Downloads) | ----- | ----- | ----- | ----- |
 | Increased iOS App engagement with Update your direct deposit information (Veteran Direct Deposit Updates) | ----- | ----- | ----- | ----- |
 
+### Possible additional KPIs/tracking
 This data is not currently tracked (as of May 2023). As a result it may not specifically be MVP but fast-follow as the above measurements can provide indicators of success whereas some of these measures can provide definitive success metrics.
 | Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo) | 
 | ----- | ----- | ----- | ----- |
