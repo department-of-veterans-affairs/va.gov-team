@@ -1,18 +1,15 @@
 ## Incident Response Plan (Production Support)
 
 ### Summary
+Here is the current production support guidance for Check-in Experience team:
 
-Based on the CIE and TEVI team discussions, here is the current production support guidance for Check-in Experience team:
-
-- CIE Engineers will have a weekly rotation to provide production support
+- CIE Engineers will have a sprint rotation to provide production support
 - CIE Engineers will schedule the production support hours to be able to complement the support hours of CHIP team. Currently, that schedule is M - F, 1pm - 8pm Eastern Time
-- The support tasks for CIE Engineers are to proactively monitor the datadog dashboards ([Links](#links), [#check-in-experience-apm](https://dsva.slack.com/archives/C02U11L00TF) and [#check-in-go-live](https://dsva.slack.com/archives/C02UP02HHGX) slack channels.
+- The support tasks for CIE Engineers are to proactively monitor the datadog dashboards ([Links](#links), [#Check-in-monitoring]() [#check-in-experience-apm](https://dsva.slack.com/archives/C02U11L00TF) and [#check-in-production-support](https://dsva.slack.com/archives/C02UP02HHGX) slack channels.
     - for any alerts in #check-in-experience-apm channel, perform initial debugging into the Sentry error message and the corresponding downstream error. If needed, alert the TEVI team by sending a message in #check-in-experience-engineering slack channel and tagging Charley and/or Michael Kimball
     - for any anomaly in stats or error traces, alert the TEVI team by sending a message in #check-in-experience-engineering slack channel
-    - for any questions or issues in #check-in-go-live channel, perform initial debugging to identify/narrow down root cause. If needed, include Shane or Andy (for VistA, vista-api info), Rob Durkin (for VEText info) or Charley (for CHIP/LoROTA/Clinician Workflow info).
-- At the end of the shift (currently 8pm ET), we will post a summary message in the [#check-in-go-live](https://dsva.slack.com/archives/C02UP02HHGX) channel that will
-    - include any production events/issues that were reported for that day, and their summary and status, and
-    - include counts for that day from the check-in vets-api [datadog dashboard](https://vagov.ddog-gov.com/dashboard/zps-5fk-azw/check-in-vets-api). Example:
+    - for any questions or issues in #check-in-go-live channel, perform initial debugging to identify/narrow down root cause. If needed, include Shane or Andy (for VistA, vista-api info), Rob Durkin (for VEText info) or Check-in Experience Team's frontend & backend engineers (for CHIP/LoROTA) or TBD (for Clinician Workflow info).
+- This data should automatically be posted in the production support channel daily
         ```
         Completed check-ins % : 63.5%
         Completed pre-check-ins % : 41.6%
@@ -30,8 +27,6 @@ Based on the CIE and TEVI team discussions, here is the current production suppo
 ### Links
 
 1. [2022 Production Rollout Support](https://github.com/department-of-veterans-affairs/chip/blob/master/docs/2022-production-rollout-support.md)
-2. [Check In Experience Incident Response Handbook](https://github.com/department-of-veterans-affairs/chip/blob/post-mortem-doc/docs/CIE%20Incident%20Response%20Plan.md)
-3. [VISN PCI Implementation Channels in Microsoft Teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
 4. Clinician Workflow Stats: [https://tevi.ddog-gov.com/dashboard/zix-s83-2u8/cw-stats?from_ts=1653411458112&to_ts=1653415058112&live=true](https://tevi.ddog-gov.com/dashboard/zix-s83-2u8/cw-stats?from_ts=1653411458112&to_ts=1653415058112&live=true)
     - Sidekiq enqueued: shows the jobs currently enqueued in Sidekiq. This can increase if vista-apis start behaving anomalously (slow or erroring out)
     - Puma Backlog: if it starts increasing, puma can’t keep up with the incoming requests
