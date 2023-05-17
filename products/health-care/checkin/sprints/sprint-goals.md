@@ -23,13 +23,13 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
-        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)[[BE] Add travel_claims Endpoint in Swagger](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/58514)
-        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)[Create New Data Dog Metrics for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58537)
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Test in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58452)
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)  [[BE] Add travel_claims Endpoint in Swagger](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58514)
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Create New Data Dog Metrics for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58537)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56556)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Hold Staging Review on 5/25
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Address Platform Feedback - Ticket TBD  
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Update text in success alert for check in happy path complete page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57878)
-        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Test in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58452)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Recheck GA Events due to text solution change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53966) 
         - Do demo for Ben Williams & Darryl (5/23)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
