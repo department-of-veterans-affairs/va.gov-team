@@ -125,8 +125,8 @@ _Goal: Validate that Participants can navigate back to a saved form_
 * Is the participant able to navigate back to the form?
 * Is the information saved from previously starting the form?
 ## Post-task questions:
-* On a scale of 1 to 6, with 1 being the least confident and 10 being the most confident, how do you feel submitting this claim? Why?
-* On a scale of 1 to 6, with 1 being the worst and 10 being the best, how would you rate this experience? Why?
+* On a scale of 1 to 6, with 1 being the least confident and 6 being the most confident, how do you feel submitting this claim? Why?
+* On a scale of 1 to 6, with 1 being the worst and 6 being the best, how would you rate this experience? Why?
 * How much confidence do you have that your appeal will be handled properly and in a timely manner?
 * How likely are you to use VA.gov to file a follow-up claim?
 * Does the current process seem too impersonal?  What could we change to make a difference in that respect?
