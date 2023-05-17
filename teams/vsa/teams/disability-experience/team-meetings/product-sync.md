@@ -2,6 +2,13 @@
 
 ### Date: May 10 2023
 ### Topics covered:
+- Issue Management Strategy - debrief
+- Prep for Benefits Portfolio goals next week
+- Next prioritization
+- QA strategy
+      
+### Date: May 10 2023
+### Topics covered:
 - Future DOC Bug - [what we learnt](https://dsva.slack.com/archives/C8R3JS8BU/p1683646680437329?thread_ts=1683565044.419109&cid=C8R3JS8BU) <br>
    From: Cooper, Barrett E., VBAVACO  <br>
 Sent: Wednesday, February 3, 2021 9:16 AM  <br>
