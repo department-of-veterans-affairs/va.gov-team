@@ -102,12 +102,12 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ### Research sessions
 Sessions will occur on the following dates: 
 * 5/26
-* 5/30
 * 5/31
 * 6/1
 * 6/2
-* 6/3
-* 6/4
+* 6/5
+* 6/6
+* 6/7
 ### Length of sessions
 * Session length: 60 minutes
 * Buffer time between sessions: 60 minutes
@@ -116,11 +116,12 @@ Sessions will occur on the following dates:
 Use research plan temp (time 8 am to 6 pm est)
 
 * Friday, 5/26 8am-6pm
-* Tuesday, 5/30 8am-6pm
 * Wednesday, 5/31 8am-6pm
 * Thursday, 6/1 8am-6pm
 * Friday, 6/2 8am-6pm
-* Monday, 6/5  8am-6pm
+* Monday, 6/5 8am-6pm
+* Tuesday, 6/6 8am-6pm
+* Wednesday, 6/7 8am-6pm
 ## Team Roles
 
 Please list the people who will be serving in each role.
