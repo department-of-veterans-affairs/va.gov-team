@@ -96,7 +96,7 @@ Furthermore, with passage of the PACT Act, there is renewed internal interest in
 
 ### Cross-portfolio
 
-#### [Support generative logged-in IA/navigation research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ia-and-navigation/2023-generative-logged-in-research)
+#### [Support generative logged-in IA/navigation research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research)
 
 - **OCTO objective**: Refresh the VA.gov homepage and information architecture
 - **Team objective**: Improve IA and navigation for tasks and tools
