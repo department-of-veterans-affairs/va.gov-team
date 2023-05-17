@@ -1,6 +1,5 @@
 # CONVERSATION GUIDE 526 LANDING PAGE REDESIGN
 
-# 526 Landing Pages Redesign - Conversation Guide
 
 ## Moderator logistics
 
@@ -26,7 +25,7 @@ Slack for real-time feedback from observers.
 - Check your [screensharing setup] and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
 
-## Intro - 5 minutes
+## Intro - 3 minutes
 
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
@@ -36,7 +35,7 @@ Today we're going to talk about [description of your project].
 Before we start, a few things I want to mention:
 
 - **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **In this session, we want to hear your honest opinions.** We are not testing your ability. Your feedback is helping us improve the language on these pages so its a better experience for veterans. I will not be offended by any opinions you express, and I welcome your feedback.
 - [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.**
 - Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
@@ -57,32 +56,40 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
-## First Task: [intro paragraph & alert] - 5 minutes
+- Can you remind me where you are based?
+- Can you remind me of whether you have applied for benefits before? (for determining which scenario to present)
+- Are you currently a veteran or active duty?
 
-- Imagine you are here to *insert pertinant scenario,* read everything on this page up until the “Sign in” button at your own pace and then I will ask you a few questions about what you read.
-    
-    **DISCOURAGE RE READING AT FIRST**
-    
-- From what you have read here, what is the purpose or purposes of this form?
-- Was any of the wording of phrasing confusing or unclear? [ if yes] Which ones?
+## First Task: [intro & TE alert] - 5 minutes
 
-## First Task: [STEP 1] - 10 minutes
-
-- Imagine you are here to *insert pertinant scenario,* read step 1 on this page at your own pace, and look for any infomation relavant to your situation.
-    
-    **DISCOURAGE RE READING AT FIRST**
-    
-- On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
+- Same as before, imagine you are here to *insert pertinant scenario,* read everything on this page up until the “Sign in” button at your own pace, let me know when you are finished, and then I will ask you a few questions about what you read
+- Is there any information missing from this section that you personally would want to know?
+- Was any of this information unclear or confusing?
+- On a scale from 1 to 10, 1 being not at all useful, and 10 being very useful, how useful or not was the information in this section of the page?
     - Why did you choose that number?
-- From what you have read here, what is the purpose or purposes of this form?
-- Was any of the wording of phrasing confusing or unclear? [ if yes] Which ones?
+- From what you’ve read here, what is your understanding of who qualifies for benefits under the PACT act?
 
-COMPREHESION SPECIFIC QUESTIONS (ask at least 2 depending on time and comfort of participant)
+## Second Task: [STEP 1] - 10 minutes
 
-- From what you have read here, what would you do if you needed to claim, individual Unemployability?
-    - Follow up - Is it possible to claim IU using this form?
-- From what you have read here, is this online form used to claim compensation for PTSD?
-- From what you have read here, what would you do if you needed to claim auto allowance? Follow up: what are the steps you would take?
+- Same as before: Imagine you are here to *insert pertinant scenario to participant*
+- Looking at the steps listed here, what are your first impressions of the actions you need to take to start the form, if any?
+- IF ON MOBILE: expand section one of four
+- Read step 1 on this page at your own pace, and look for any information relavant to your situation as a *insert scenario*. Let me know when you have finished.
+- On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful or not was the information in this section?
+    - Why did you choose that number?
+- MOBILE: Before you opened this section, was this the information you expected to see here? why or why not?
+- Is any of this information confusing or unclear?
+- Is there any information missing from this section that you personally would want to know?
+- From what you read, what is your understanding of who is elligible for disability benefits?
+- From what you read here, what is your understanding of a supplemental claim form?
+- 
+
+QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
+
+- Why did you open the alert?
+- Is this the information you expected to see here? why or why not?
+- Was anything you read here confusing?
+- How clear or unclear was the information about veterans who have been granted benefits in the past?
 
 ### Things to watch for:
 
@@ -91,21 +98,16 @@ COMPREHESION SPECIFIC QUESTIONS (ask at least 2 depending on time and comfort of
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Etc]
 
-## Second Task: [STEP 2] - 6 minutes
+## Third Task: [STEP 2] - 3 minutes
 
-- Imagine you are here to *insert pertinant scenario,* read step 2 on this page at your own pace, and look for any infomation relavant to your situation.
-    
-    **DISCOURAGE RE READING AT FIRST**
-    
+- IF ON MOBILE: expand section two
+- Imagine you are here to *insert pertinant scenario,* read step 2 on this page at your own pace, and look for any information relevant to your situation.
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
     - Why did you choose that number?
 - Is there any information missing from this section that you personally would want to know?
-- Was any of the wording of phrasing confusing or unclear? [ if yes] Which ones?
-- What are a some ways you can apply for disability? for example, one option is by mail, what are some other options?
-
-I**f not mentioned before**
-
-- According to what you read, after your claim is approved, what is the earliest date you can start recieving your benefits/compensation?
+- MOBILE: Before you opened this section, was this the information you expected to see here? why or why not?
+- Is any of this information confusing or unclear?
+- IF ON MOBILE: expand section one of four
 
 ### Things to watch for:
 
@@ -113,58 +115,79 @@ I**f not mentioned before**
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Third Task: Step 3 - 10 minutes
+## Fourth Task: Step 3 Gather information - 10 minutes
 
-- I’m going to ask you to do the same with this step as you did before.
-    
-    **DISCOURAGE RE READING AT FIRST**
-    
+- IF ON MOBILE: expand section three
+- As before, read through this section at your own pace. let me know once you’re finished.
+- On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
+    - Why did you choose that number?
+- MOBILE: Before you opened this section, was this the information you expected to see here? why or why not?
+- In your own words, what is the gist of the information in this section?
+- Is there any information missing from this section that you personally would want to know?
+- Was any of this information confusing or unclear?
+- What is your understanding of the information about the types of  documentation you might need to support your claim for benefits?
+    - ALT: Was anything confusing about the information pertaining to the types of documentation you might need to support your claim for benefits?
+- CHECK TIME
+- Was anything confusing about the information pertaining to authorizing the VA to recieve and review your medical records?
+- Was anything confusing about the infomation concerning where to submit forms for claiming PTSD or unemployability?
+
+QUESTIONS CONCERNING EXPANDABLE UI/INFO 
+
+- Why did you open the alert?
+- Before you opened this section, was this the information you expected to see here? why or why not?
+- Was anything you read here confusing?
+- In your own words, what is your understanding of the benefits delivery at discharge program?
+    - ALT (alternative phrasing for a question) : Was anything confusing about the information concerning active duty service members and benefits delivery at discharge ?
+
+## Fifth Task: Step 4 : Apply - 8 minutes
+
+- IF ON MOBILE: expand section four
+- Read through section at your own pace…
+- What is the gist of the information here in your own words?
+- MOBILE: Before you opened this section, was this the information you expected to see here? why or why not?
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
     - Why did you choose that number?
 - Is there any information missing from this section that you personally would want to know?
-- Was any of the wording of phrasing confusing or unclear? [ if yes] Which ones?
+- Was any of the information here confusing?
 
-If not mentioned before and within allotted time
+**If not mentioned before and within allotted time:**
 
-- According to waht you read here, what is a claim for increase?
-- According to what you read here, why would you want to check to see whether you are recieving the maximum diability rating for your condition?
-- According to what you read here, how can you authorize the VA to recieve and review your medical records?
-- According to what you remember reading, explain in your own words what kind of documentation you might need to support your claim for benefits/ compensation?
+- What is your understanding of the information concerning delcaring  an intent to file?
+    - ALT: Is anything confusing about the information about declaring your intent to file
+- What is your understanding of the information regarding additional forms like those for dependents and aid?
 
-## Fourth Task: Step 4 - 8 minutes
+## Post-Interview - 10 minutes
 
-- I’m going to ask you to do the same with this step as you did before.
-    
-    **DISCOURAGE RE READING AT FIRST**
-    
-- On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
-    - Why did you choose that number?
-- Is there any information missing from this section that you personally would want to know?
-- Was any of the wording of phrasing confusing or unclear? [ if yes] Which ones?
+SENTIMENT AND TRUST TESTING
 
-If not mentioned before and within allotted time 
+- In your opinion, is there a difference between the words “condition” and “disability”?
+- How likely or unlikely would you be to reach out to a VSO for help  completing the form?
+- Now that you have read through this page, is there any information missing from this page that you feel is needed to equip veterans to begin the form on their own?
 
-- According to what you read, when do you delcare your intent to file?
-- According to what you read, once your claim is approved, what is the earliest you can begin recieving your benefits/compensation?
-- 
+**ONE OF THE FOLLOWING DEPENDING ON TIME:**
 
-### Things to watch for:
+- Personally, why do you think the VA asks for evidence when applying for disability benefits?
+- Do you agree or disagree that the VA expects a reasonable amount of documentation to support a claim for benefits/compensation. Why so?
+    - ALT: Do you believe it is necessary for the VA to collect "evidence” from you to support your claim for benefits/compensation? why or why not?
+- On a scale from 1 to 10, 1 being not at all prepared and 10 being extremely prepared, how prepared or not do you feel to begin the 526 form after reading this page?
+- How would you describe the overall tone of the text on this page? E.G. corporate, warm, cold, etc.
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+## START PAGE BDD TASKS - 5 MIN
 
-## Intro tasks  Post-Interview - 10 minutes
+- This section is a bit different. I’m going to guide you through this portion of the protoype. I’m going to tell you where to click and ask you a few questions about what you see.
+- *Imagine you are currently on active duty and looking for information about applying for disability compensation*
+- Select “*yes” for question “Are you on Active duty right now”*
 
-SENTIMENT AND TRUST TESTING 
+**Second page after selecting yes/  understanding date enter error**
 
-- In your opinion, is there a difference between the words condition and disability?
-- Follow up: Personally, why do you think the VA need these types of documents from you?
-- Follow up: On a scale from 1 to 10, how necessary to do you it is that the VA collects this documentation to support your claim for compensation? ALT: Do you agree or disagree that the VA expects a reasonable amount of documentation to support a claim for compensation.
-
-## START PAGE TASKS - 5 MIN
-
-Task 1: 
+- What is your understanding of this page?
+- Is it clear which date the form is asking for here?
+- What is your understanding of the information about the separation health assessment?
+- Is anything about this information unclear?
+- *Click to enter date * alert populates OR depending on design will trigger a new page with alert info
+- Read through the information in the alert at your own pace.
+- In your own words, what is the gist of the alert?
+- In the parapraph in the alert, which event is “your separation date” referring to?
 
 ## Thank-You and Closing - 2 minutes
 
@@ -180,14 +203,10 @@ Thank you so much again, and enjoy the rest of your day!
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
 
-If participant becomes nervous , anxious, or irritated - 
+If participant becomes nervous , anxious, or irritated -
 
 how are you feeling? do you want to take a few minutes to yourself?
 
 You have already helped us a lot and given us some good information, it’s ok to take a break or even end now if you need to
 
 We’ve been talking a lot, do you want to take a break before we start again?
-
-## Sample Conversation Guide *(note: this link points to resources in the va.gov-team GitHub repo)*
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
