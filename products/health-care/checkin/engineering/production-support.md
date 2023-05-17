@@ -22,8 +22,13 @@ Based on the CIE and TEVI team discussions, here is the current production suppo
         Pre-check-ins completed: 2602
         ```
 
+### SNOW Queues
+[Assignment Group: eCheckInVetFacingApps](https://yourit.va.gov/now/nav/ui/classic/params/target/task_list.do%3Fsysparm_view%3Dcatalog%26sysparm_first_row%3D1%26sysparm_query%3Dassignment_group%253D9c50fbc51b4f8d5065965318624bcbbf%255Eactive%253Dtrue%255Estate!%253D6%26sysparm_clear_stack%3Dtrue)
+
+ [Assignment Group: eCheck-In API Support](https://yourit.va.gov/now/nav/ui/classic/params/target/task_list.do%3Fsysparm_query%3Dassignment_group%253D2ca35d611b5d01d0d73ccb78624bcb73%255Eactive%253Dtrue%255Estate!%253D6%26sysparm_first_row%3D1%26sysparm_view%3Dcatalog)
 
 ### Links
+
 1. [2022 Production Rollout Support](https://github.com/department-of-veterans-affairs/chip/blob/master/docs/2022-production-rollout-support.md)
 2. [Check In Experience Incident Response Handbook](https://github.com/department-of-veterans-affairs/chip/blob/post-mortem-doc/docs/CIE%20Incident%20Response%20Plan.md)
 3. [VISN PCI Implementation Channels in Microsoft Teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
