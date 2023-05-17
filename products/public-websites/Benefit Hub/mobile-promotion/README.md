@@ -41,7 +41,7 @@ Increase the download/use/adoption of the VA.gov mobile app.
 ### MVP KPI measurements
 | Product KPI | Baseline | Target | [Link to data source](https://lookerstudio.google.com/u/0/reporting/92cadc84-b31f-4a7a-9be9-6a0c3fe7d572/page/p_5xc9k8cs5c) | 
 | ----- | ----- | ----- | ----- |
-| Downloads of VA.gov Mobile App (aggregate) | ----- | ----- | ----- | ----- |
+| Downloads of VA.gov iOS Mobile App (aggregate) | ----- | ----- | ----- | ----- |
 | iOS use of VA.gov product landing pages | ----- | ----- | ----- | ----- |
 | Increased iOS App engagement with Refill and track your VA prescriptions function (vama_rx_trackingtab) | ----- | ----- | ----- | ----- |
 | Increased iOS App engagement with Send and receive secure messages from your VA health care team (Secure Messages Sent) | ----- | ----- | ----- | ----- |
