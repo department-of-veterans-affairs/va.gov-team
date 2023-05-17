@@ -22,8 +22,9 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Format Appointment Date for Text Message(s)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58604) 
         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Test in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58452)
-        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)  [[BE] Add travel_claims Endpoint in Swagger](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58514)
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add travel_claims Endpoint in Swagger](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58514)
         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Create New Data Dog Metrics for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58537)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Complete Functional Testing of Travel MVP w/ SMS Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56556)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Hold Staging Review on 5/25
