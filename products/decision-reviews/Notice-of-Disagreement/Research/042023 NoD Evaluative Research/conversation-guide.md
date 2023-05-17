@@ -35,7 +35,7 @@ Are you comfortable if I record my screen and audio as we talk today? We use the
 * If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 Start recording.
 I have started recording. I’d like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-## Warm up
+## Warm up: 5 minutes
 _Goal: Confirm they qualify for the study, the reasons they are filing a Board Appeal, and whether or not they considered other AMA forms._
 
 Before we look at the prototype, I’d like to get a little background information from you:
@@ -48,7 +48,7 @@ Before we look at the prototype, I’d like to get a little background informati
 	* Where did you get this information?
 * If ppt is planning to file an appeal? How are you planning to file your appeal? 
 
-## Task 1. Navigating on VA.gov to the Board Appeal
+## Task 1. Navigating on VA.gov to the Board Appeal: 5 minutes
 _Goal: Validate that participants are clear where they are and can navigate to the self-service form._
 
 Now I’m going to ask you to open your browser and navigate to VA.gov, log into your account, and share your screen. 
@@ -65,7 +65,7 @@ Just a reminder - it’ll be very helpful if you think out loud and share what�
 	* Through CST, search, or the menu? 
 * What sort of information is the veteran looking for as they decide to file an appeal?
 * Is the path to a Board Appeal clear?
-## Task 2. Starting a Board Appeal
+## Task 2. Starting a Board Appeal: 10 minutes
 _Goal: Validate that participants are clear where they are and the requirements and expectations for the process._
 * Take a look at this page about Board Appeals (static introduction)
 	* In your own words, what are the requirements for filing a Board Appeal? 
@@ -80,7 +80,7 @@ _Goal: Validate that participants are clear where they are and the requirements 
 * Do any participants struggle with locating the start claim action link? 
 * Are participants reading through the subway map of steps? Do they find it helpful?
 * Are participants commenting on the placement of the login?
-## Task 3. Review information
+## Task 3. Review information: 5 minutes
 _Goal: Validate that the details Veterans need to review are clear_
 * Please verify your primary information.
 * What is this page about filing deadlines telling you?
@@ -90,7 +90,7 @@ _Goal: Validate that the details Veterans need to review are clear_
 * How did they react to the homelessness question?
 * Were they able to validate and/or update their contact information?
 * How easy/hard is it for participants to understand filing deadlines?
-### Task 4. Select and/or add issues
+### Task 4. Select and/or add issues: 5 minutes
 _Goal: Validate that the issues are showing up from VBMS, and requirements for adding a new issue_
 * Do you see the issues you want reviewed on this list?
 	* If yes: Select the issues you want reviewed.
@@ -104,7 +104,7 @@ _Goal: Validate that the issues are showing up from VBMS, and requirements for a
 * What do participants expect to happen next, when they select continue?
 * Are people using the additional info? Is it helpful?
 * How many issues are participants adding into one form?
-## Task 5. Select a board review option
+## Task 5. Select a board review option: 10 minutes
 _Goal:  Validate that the participants understand the difference between the three board review options, and are able to make a decision with the content given_
 * Select the board review option you’d like to pursue.
 * Why did you choose the review option you’ve selected?
@@ -116,7 +116,7 @@ STOP: Let’s stop here. What would you do if you want to complete this form lat
 * Do participants understand the requirements for the different board review options?
 * What do participants expect to happen next, when they select continue?
 * Optional: What hearing types are participants choosing, and why?
-## Task 6. Find a Saved Form
+## Task 6. Find a Saved Form: 5 minutes
 _Goal: Validate that Participants can navigate back to a saved form_
 * Let’s go back to the home page.
 * From here, how would you get back to the form we were on?
@@ -124,7 +124,7 @@ _Goal: Validate that Participants can navigate back to a saved form_
 * Is there a clear indicator on their dashboard that there is an incomplete form?
 * Is the participant able to navigate back to the form?
 * Is the information saved from previously starting the form?
-## Post-task questions:
+## Post-task questions: 5 minutes
 * On a scale of 1 to 6, with 1 being the least confident and 6 being the most confident, how do you feel submitting this claim? Why?
 * On a scale of 1 to 6, with 1 being the worst and 6 being the best, how would you rate this experience? Why?
 * How much confidence do you have that your appeal will be handled properly and in a timely manner?
