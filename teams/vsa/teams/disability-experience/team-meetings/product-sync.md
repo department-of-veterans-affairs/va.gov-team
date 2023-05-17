@@ -1,12 +1,26 @@
 # Benefits Disability Experience - Product sync 
 
-### Date: May 10 2023
+### Date: May 17 2023
 ### Topics covered:
-- Issue Management Strategy - debrief
-- Prep for Benefits Portfolio goals next week
-- Next prioritization
-- QA strategy
-      
+- Issue Management Strategy - debrief <br>
+      - Went well with good ideas <br>
+      - Write-up and finalize by next week <br>
+      - Biggest problem is lack of responsiveness and make work visible(bug board) <br>      
+- Prep for Benefits Portfolio goals next week <br>
+      - Document work aligned with our goals/metric by end of this week <br>
+- Next prioritization <br>
+      - Plan for July after Matt is back from PTO <br>
+      - Tag Matt/Shannon in the solicitation slack thread <br>
+      - Matt already has VBA priorities for the next few years <br>
+      - Matt to consider how/when to engage stakeholders for the prioritization <br>
+- QA strategy <br>
+      - Lean on Steve Albers with the engineering team around tooling and processes <br>
+      - Define the desired process <br>
+      - Not a clear process for all va.gov teams for all changes(outside the collab cycle) <br>    
+- Matt's coverage during PTO <br>
+      - Possibly Shannon/Zach <br>
+      - Will share coverage in the next couple of weeks
+
 ### Date: May 10 2023
 ### Topics covered:
 - Future DOC Bug - [what we learnt](https://dsva.slack.com/archives/C8R3JS8BU/p1683646680437329?thread_ts=1683565044.419109&cid=C8R3JS8BU) <br>
