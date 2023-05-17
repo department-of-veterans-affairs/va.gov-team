@@ -12,26 +12,32 @@ Answer a question to get started.
 
 ### What type of claim are you requesting a Higher-Level Review? 
 
-o   Disability compensation claim
-o  A claim other than disability compensation
+* Disability compensation claim
+* A claim other than disability compensation
  
 ## Need help?
 If you have questions or need help filling out this form,  call our MYVA411My V. A. 4 1 1. main information line at 800-698-2411 and select 0. We’re here 24/724 hours a day, 7 days a week.
 
 If you have hearing loss, call TTY: 711.
  
-**SELECTED**_:Disability compensation claim (expand)_
- 
+ <details>
+  <summary>**SELECTED**_:Disability compensation claim (expand)_</summary>
+  
 You can request a Higher-Level Review online using **VA Form 20-0996**.
- [Request a Higher-Level Review online](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction) 
- [Learn about other ways you can request a Higher-Level Review](https://staging.va.gov/decision-reviews/higher-level-review/) 
+
+[Request a Higher-Level Review online](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction)
+
+[Learn about other ways you can request a Higher-Level Review](https://staging.va.gov/decision-reviews/higher-level-review/) 
+
+</details> 
  
- 
-**SELECTED**_:A claim other than disability compensation (expand)_
- 
-You’ll need to fill out and submit VA Form 20-0996 by mail or in person.  [Send the completed form to the benefit office](https://staging.va.gov/decision-reviews/higher-level-review/#find-addresses-for-other-benef-8622)  that matches the benefit type you select on the form.
- [Download VA Form 20-0996 PDF (1.5MB)](https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf) 
- 
+<details>
+  <summary>**SELECTED**_:A claim other than disability compensation (expand)_</summary>
+  
+You’ll need to fill out and submit VA Form 20-0996 by mail or in person. [Send the completed form to the benefit office](https://staging.va.gov/decision-reviews/higher-level-review/#find-addresses-for-other-benef-8622) that matches the benefit type you select on the form.
+
+[Download VA Form 20-0996 PDF (1.5MB)](https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf) 
+</details>
 
 
 # Request a Higher-Level Review with VA Form 20-0996
@@ -47,7 +53,7 @@ Here’s how signing in now helps you:
 
 **Note:** You can sign in after you start your application. But you’ll lose any information you already filled in.
 
-**Primary button: [Sign in to start your application**]
+**Primary button:**  [Sign in to start your application]
  
 ## What’s a Higher-Level Review?
 If you or your representative disagree with VA’s decision on your claim, you can request a Higher-Level Review. With a Higher-Level Review, a higher-level reviewer will take a new look at your case and the evidence you already provided. The reviewer will decide whether the decision can be changed based on a difference of opinion or an error.
@@ -79,13 +85,15 @@ Our goal for completing a Higher-Level Review is 125 days. A review might take l
 ### 4. Decision
 Once we’ve processed your claim, you’ll get a notice in the mail with our decision.
 
-**Primary Button: [Sign in to start your application**]
+**Primary Button:** [Sign in to start your application]
  
 Respondent burden: **15 minutes**
+
 OMB Control #: **2900-0862**
+
 Expiration date: **04/30/2024**
  
-**Secondary Button:[View Privacy Act Statement**]
+**Secondary Button:** [View Privacy Act Statement]
  
 ## Need help?
 If you have questions or need help filling out this form,  call our MYVA411My V. A. 4 1 1. main information line at 800-698-2411 and select 0. We’re here 24/724 hours a day, 7 days a week.
@@ -143,9 +151,10 @@ Once we’ve processed your claim, you’ll get a notice in the mail with our de
 
  [Start the Request for a Higher-Level Review](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction?postLogin=true#start) 
  
-Respondent burden: 
-**15 minutes**
+Respondent burden: **15 minutes**
+
 OMB Control #: **2900-0862**
+
 Expiration date: **04/30/2024**
  
 **Secondary button** : [View Privacy Act Statement]
@@ -163,11 +172,15 @@ Your application will be saved on every change.
 
 ### Confirm the personal information we have on file for you.
  
-**Leah Morgan**
-Social Security number: ●●●–●●–2856ending with 2 8 5 6
-VA file number: ●●●–●●–2856ending with 2 8 5 6
-Date of birth: January 2, 1979
-Gender: Female
+> **Leah Morgan**
+
+> Social Security number: ●●●–●●–2856
+
+> VA file number: ●●●–●●–2856
+
+> Date of birth: January 2, 1979
+
+> Gender: Female
 
 **Note:** If you need to update your personal information,  call Veterans Benefits Assistance toll free at 800-827-1000, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
  
@@ -186,10 +199,10 @@ VA Form 20-0996 (Higher-Level Review)
 ## Step 1 of 4: Veteran information
 Your application will be saved on every change.
 
-### Are you experiencing homelessness or at risk of becoming homeless? (*Required)
+### Are you experiencing homelessness or at risk of becoming homeless? (\*Required)
  
-o Yes
-o No
+* Yes
+* No
  
 Finish this application later
  
@@ -212,13 +225,24 @@ This is the contact information we have on file for you. We’ll send any update
 
 **Note:** Any updates you make here will be reflected in your VA.gov profile.
 
-/Mobile phone number/321-654-09873 2 1. 6 5 4. 0 9 8 7.
- [Edit](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/edit-mobile-phone) 
-/Email address/leah@vets.org
- [Edit](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/edit-email-address) 
-/Mailing address/123 Any St
+#### Mobile phone number
+
+321-654-0987
+
+[Edit](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/edit-mobile-phone) 
+
+#### Email address
+
+leah@vets.org
+
+[Edit](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/edit-email-address) 
+
+#### Mailing address
+
+123 Any St
 Anycity, AK 54322
- [Edit](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/edit-mailing-address) 
+
+[Edit](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/edit-mailing-address)
 
 _Finish this application later_
  
@@ -239,19 +263,22 @@ Your application will be saved on every change.
 
 If you’d like to add an issue for review,  select “Add a new issue” to get started.
 
- [Add a new issue](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/add-issue?index=0) 
+[Add a new issue](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/add-issue?index=0) 
  
 Don’t see the issue you’re looking for? (expand)
 > Your issue may not be eligible for review if:  
-§  We made the decision over a year ago. You have 1 year from the date on your decision letter to request a Higher-Level Review. **Note:** If you aren’t able to request a timely review due to COVID-19, we may grant you a deadline extension. To request an extension, fill out and submit VA Form 20-0996, with a note attached that you’re requesting an extension due to COVID-19.
-> §  Your issue is for a benefit type other than compensation or pension. To request a Higher-Level Review for another benefit type, you’ll need to fill out VA Form 20-0996 and submit it by mail or in person.  
-> §  The issue or decision isn’t in our system yet. You’ll need to fill out VA Form 20-0996 and submit it by mail or in person.  
-> §  You and another surviving dependent of the Veteran are applying for the same benefit. And by law, only 1 of you can receive that benefit. You’ll need to  [appeal to the Board of Veterans’ Appeals](https://staging.va.gov/decision-reviews/board-appeal/) .  
-> §  You’re requesting a review of a Board of Veterans’ Appeals decision. Refer to your decision notice for your options.  
-> §  You’re requesting a review of a Higher-Level Review decision. You’ll need to either file a Supplemental Claim or appeal to the Board of Veterans’ Appeals.  
+* We made the decision over a year ago. You have 1 year from the date on your decision letter to request a Higher-Level Review. **Note:** If you aren’t able to request a timely review due to COVID-19, we may grant you a deadline extension. To request an extension, fill out and submit VA Form 20-0996, with a note attached that you’re requesting an extension due to COVID-19.
+> * Your issue is for a benefit type other than compensation or pension. To request a Higher-Level Review for another benefit type, you’ll need to fill out VA Form 20-0996 and submit it by mail or in person.  
+> * The issue or decision isn’t in our system yet. You’ll need to fill out VA Form 20-0996 and submit it by mail or in person.  
+> * You and another surviving dependent of the Veteran are applying for the same benefit. And by law, only 1 of you can receive that benefit. You’ll need to  [appeal to the Board of Veterans’ Appeals](https://staging.va.gov/decision-reviews/board-appeal/) .  
+> * You’re requesting a review of a Board of Veterans’ Appeals decision. Refer to your decision notice for your options.  
+> * You’re requesting a review of a Higher-Level Review decision. You’ll need to either file a Supplemental Claim or appeal to the Board of Veterans’ Appeals.
+
  [Download VA Form 20-0996 PDF (1.5MB)](https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf) 
-To learn more about how COVID-19 may affect claims or appeals,  visit our  [coronavirus FAQ page](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#more-benefit-and-claim-questio) .
-To learn more about decision review options,  visit our  [decision reviews and appeals](https://staging.va.gov/decision-reviews/)  information page. You can call us at 800-827-1000 or work with an accredited representative to  [get help with your claim](https://staging.va.gov/disability/get-help-filing-claim/) .
+To learn more about how COVID-19 may affect claims or appeals,  visit our  [coronavirus FAQ page](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#more-benefit-and-claim-questio).
+
+To learn more about decision review options,  visit our  [decision reviews and appeals](https://staging.va.gov/decision-reviews/)  information page. You can call us at 800-827-1000 or work with an accredited representative to  [get help with your claim](https://staging.va.gov/disability/get-help-filing-claim/).
+
  
 _Finish this application later_
  
@@ -265,12 +292,15 @@ Your application will be saved on every change.
 
 ### Add an issue
 
-Name of issue (*Required)
+Name of issue (\*Required)
+
 You can only add an issue that you’ve already received a VA decision notice for.
 
-Date of decision (*Required)
-You can find the decision date on your decision notice (the letter you got in the mail from us).
- enter two digits for the month and day and four digits for the year.
+Date of decision (\*Required)
+
+You can find the decision date on your decision notice (the letter you got in the mail from us). 
+
+Enter two digits for the month and day and four digits for the year.
  
 [Month] [ Day] [Year ]
 
@@ -291,9 +321,11 @@ Your application will be saved on every change.
 
 If you’d like to add an issue for review,  select “Add a new issue” to get started.
 
-* My Issue Name
-**Decision date: June 10, 2022**
-**[Edit]  Secondary button: [Remove]**
+> * My Issue Name
+
+> Decision date: **June 10, 2022**
+
+> **[Edit]  Secondary button: [Remove]**
  
  [Add a new issue](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/add-issue?index=1) 
  
@@ -318,13 +350,13 @@ Your application will be saved on every change.
 
 **Decision date: June 10, 2022**
 
-Tell us what you disagree with. You can choose more than one.(*Required)
+Tell us what you disagree with. You can choose more than one.(\*Required)
 
 I disagree with this:
 
-*  The service connection
-*  The effective date of award
-* Your evaluation of my condition
+[ ] The service connection
+[ ] The effective date of award
+[ ] Your evaluation of my condition
 
 Something else:
  explain in a few words
@@ -349,7 +381,7 @@ If you’re requesting a Board Appeal on an issue in an initial claim we decided
 
 Our decision review process is part of the Appeals Modernization Act. When you opt in, you’re likely to get a faster decision. 
 
-* I understand that if I want any issues reviewed that are currently in the old appeals process, I’m opting them in to the new decision review process.
+[ ] I understand that if I want any issues reviewed that are currently in the old appeals process, I’m opting them in to the new decision review process.
  
 _Finish this application later_
  
@@ -368,14 +400,15 @@ Your application will be saved on every change.
 
 ### These are the issues you’re asking to get a Higher-Level Review.
 
-* **my issue name**
-Decision date: June 10, 2022
+> * **my issue name**
 
-If an issue is missing,   [go back and add it](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/contestable-issues?redirect) .
+ Decision date: June 10, 2022
+
+If an issue is missing, [go back and add it](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/contestable-issues?redirect) .
 
 _Finish this application later_
  
-**« Back** | Continue »
+**« Back | Continue »**
  
 ## Need help?
 If you have questions or need help filling out this form,  call our MYVA411My V. A. 4 1 1. main information line at 800-698-2411 and select 0. We’re here 24/724 hours a day, 7 days a week.
@@ -394,11 +427,13 @@ An informal conference is a phone call between you or your accredited representa
 
 If you request an informal conference, the reviewer will call you or your representative. You can request only one informal conference for each Higher-Level Review request.
 
-Would you like to request an informal conference? (*Required)
- 
-o  No, I do not want an informal conference
-o  Yes, call me to schedule an informal conference
-o  Yes, call my representative
+Would you like to request an informal conference? (\*Required)
+
+( ) No, I do not want an informal conference
+
+( ) Yes, call me to schedule an informal conference
+
+( ) Yes, call my representative
 
 Finish this application later
  
@@ -408,8 +443,10 @@ Finish this application later
 If you have questions or need help filling out this form,  call our MYVA411My V. A. 4 1 1. main information line at 800-698-2411 and select 0. We’re here 24/724 hours a day, 7 days a week.
 
 If you have hearing loss, call TTY: 711.
+
+---
  
-**SELECTED**_: Yes, call me to schedule an informal conference_
+**SELECTED_: Yes, call me to schedule an informal conference_**
 
 # Request a Higher-Level Review
 VA Form 20-0996 (Higher-Level Review)
@@ -423,10 +460,11 @@ First we’ll call you to schedule the informal conference. Indicate your availa
 
 **We’ll make two attempts to call you.** If no one answers, we’ll leave a voice mail and a number for you to return the call. If we aren’t able to get in touch with you after 2 attempts, we’ll proceed with the Higher-Level Review.
 
-Choose the best time for us to call you(*Required)
+Choose the best time for us to call you(\*Required)
  
-o   8:00 a.m. to noon ET
-o   Noon to 4:30 p.m. ET
+( ) 8:00 a.m. to noon ET
+
+( ) Noon to 4:30 p.m. ET
  
 Finish this application later
  
@@ -437,7 +475,9 @@ If you have questions or need help filling out this form,  call our MYVA411My V.
 
 If you have hearing loss, call TTY: 711.
  
-**SELECTED**_: Yes, call my representative_
+---
+
+**SELECTED_: Yes, call my representative_**
 
 # Request a Higher-Level Review
  VA Form 20-0996 (Higher-Level Review)
@@ -446,10 +486,15 @@ If you have hearing loss, call TTY: 711.
 Your application will be saved on every change.
 
 ### Provide your representative’s contact information.
-Representative’s first name(*Required)
-Representative’s last name(*Required)
-Representative’s phone number(*Required)
+
+Representative’s first name(\*Required)
+
+Representative’s last name(\*Required)
+
+Representative’s phone number(\*Required)
+
 Representative’s phone extension
+
 Representative’s email address
  
 Finish this application later
@@ -473,10 +518,11 @@ First we’ll call your representative to schedule the informal conference.  Ind
 
 **We’ll make two attempts to call your representative.** If no one answers, we’ll leave a voice mail and a number for your representative to return the call. If we aren’t able to get in touch with your representative after 2 attempts, we’ll proceed with the Higher-Level Review.
 
-Choose the best time for us to call your representative(*Required)
+Choose the best time for us to call your representative(\*Required)
  
-o  8:00 a.m. to noon ET
-o  Noon to 4:30 p.m. ET
+( ) 8:00 a.m. to noon ET
+
+( ) Noon to 4:30 p.m. ET
 
 Finish this application later
  
@@ -488,41 +534,56 @@ VA Form 20-0996 (Higher-Level Review)
 ## Step 4 of 4: Review application
 Your application will be saved on every change.
 
-·   	Veteran informationContact information   [Edit Profile](https://staging.va.gov/profile) Mobile 
+### Veteran information
 
-Phone
-321-654-09873 2 1. 6 5 4. 0 9 8 7.
+#### Contact information [Edit Profile](https://staging.va.gov/profile) 
+
+Mobile Phone
+
+321-654-09873
 
 Email address
+
 leah@vets.org
 
 Street address
+
 123 Any St
 
 City
+
 Anycity
 
 State
+
 AK
 
 Postal code
+
 54322
 
-### Homelessness question  [Edit]
+#### Homelessness question  [Edit]
+
 Are you experiencing homelessness or at risk of becoming homeless?
 Yes
 
 ### Issues eligible for review [Edit]
-My Issue NameDecision date: June 10, 2022
 
-What do you disagree with regarding my issue name (June 10, 2022)?  [Edit]
+#### My Issue Name
+
+Decision date: **June 10, 2022**
+
+#### What do you disagree with regarding my issue name (June 10, 2022)? [Edit]
 
 The service connection
+
 **Selected**
 
 Something else:
- explain in a few words
-Opt in  [Edit]
+
+Explain in a few words
+
+#### Opt in [Edit]
 
 I understand that if I want any issues reviewed that are currently in the old appeals process, I’m opting them in to the new decision review process.
 
@@ -530,34 +591,40 @@ I understand that if I want any issues reviewed that are currently in the old ap
 
 ### Request an informal conference
 
-Request an informal conference [Edit]
+#### Request an informal conference [Edit]
 
 Would you like to request an informal conference?
 
 **Yes, call my representative**
 
-Representative’s information [Edit]
+#### Representative’s information [Edit]
 
 Representative’s first name
+
 **tonny rep frist name**
 
 Representative’s last name
+
 **Jones rep last name**
 
 Representative’s phone number
+
 **(352) 345-9809**
 
 Representative’s phone extension
+
 Representative’s email address
 
-### Scheduling availability [Edit]
+
+#### Scheduling availability [Edit]
+
 Choose the best time for us to call your representative
 
 **Noon to 4:30 p.m. ET**
  
 **Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)  read and accept the privacy policy.
  
- * I have read and accept the privacy policy. (*Required)
+* [ ] I have read and accept the privacy policy. (\*Required)
  
 _Finish this application later_
  
