@@ -28,6 +28,8 @@ Increase the download/use/adoption of the VA.gov mobile app.
 
 ## Undesired Business Outcomes
 
+- Impact to App Store ratings
+- Decreased adoption of the Mobile App (ongoing use)
 
 ---
 ## Measuring Success
