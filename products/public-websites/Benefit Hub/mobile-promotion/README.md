@@ -41,9 +41,18 @@ Increase the download/use/adoption of the VA.gov mobile app.
 | Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo) | 
 | ----- | ----- | ----- | ----- |
 | Downloads of VA.gov Mobile App (aggregate) | ----- | ----- | ----- | ----- |
+| iOS use of VA.gov product landing pages | ----- | ----- | ----- | ----- |
+| Increased iOS App engagement with Refill and track your VA prescriptions function (vama_rx_trackingtab) | ----- | ----- | ----- | ----- |
+| Increased iOS App engagement with Send and receive secure messages from your VA health care team (Secure Messages Sent) | ----- | ----- | ----- | ----- |
+| Increased iOS App engagement with Get your records for VA vaccines, such as COVID-19 (Vaccine Detail Views) | https://www.va.gov/health-care/get-medical-records/ |
+| Increased iOS App engagement with Check your disability rating (NEED VARIABLE) | https://www.va.gov/disability/view-disability-rating/ |
+| Increased iOS App engagement with Review your claim or appeal status (NEED VARIABLE) | https://www.va.gov/claim-or-appeal-status/ | 
+| Increased iOS App engagement with Submit evidence for your claim or appeal (Claim Document Uploads Started) | https://www.va.gov/disability/upload-supporting-evidence/ | 
+| Increased iOS App engagement with Download common VA letters (Letter Downloads) | https://www.va.gov/records/download-va-letters/ |
+| Increased iOS App engagement with Review payments we’ve sent you () | https://www.va.gov/va-payment-history/ | 
+| Increased iOS App engagement with Update your direct deposit information (Veteran Direct Deposit Updates) | ----- | ----- | ----- | ----- |
 | Downloads of VA.gov Mobile App via SmartApp banner | N/A | ----- | ----- | ----- |
 | Use of VA.gov app instead of VA.gov web via SmartApp banner | N/A | ----- | ----- | ----- |
-| iOS use of VA.gov product landing pages | ----- | ----- | ----- | ----- |
 
 ---
 
