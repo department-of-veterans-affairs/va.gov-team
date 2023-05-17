@@ -8,6 +8,11 @@ We need system designs/maps, not just UX/UI but the map of the system, what is c
 ## Raci Mural Board 
 [Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683563126254/26360684516a5511439b5056e1b13f3ae3acf49a?sender=u71ad98f94f5263595f9a4390) to determine ownership and responsibilities for MHV notification preferences, other types of preferences, and profile info integrated into VA.gov as part of the MHV migration to VA.gov.
 
+
+## Migration plan 
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/product/migration-plan.md
+
+
 ## MHVtoVA.gov Directory 
 
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov
