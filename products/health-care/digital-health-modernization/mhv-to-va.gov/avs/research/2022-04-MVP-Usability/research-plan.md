@@ -145,7 +145,7 @@ When ready, fill out that ticket with the following information:
 |June 8, 2023 |  9:15 a.m. - 11:00 a.m. (last session can start at 11:00 a.m.), and 1:00 p.m. (last session can start at 1:00 p.m.)|
 |June 9, 2023 |  9:15 a.m. - 12:00 p.m. (last session can start at 12:00 p.m.), and 3:30 p.m. - 4:00 p.m.  (last session can start at 4:00 p.m.)  |
 
-Team Availability | Time Slots (ET)
+
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
