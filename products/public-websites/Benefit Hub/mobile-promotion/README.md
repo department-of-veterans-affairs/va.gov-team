@@ -38,21 +38,25 @@ Increase the download/use/adoption of the VA.gov mobile app.
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-| Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo) | 
+| Product KPI | Baseline | Target | [Link to data source](https://lookerstudio.google.com/u/0/reporting/92cadc84-b31f-4a7a-9be9-6a0c3fe7d572/page/p_5xc9k8cs5c) | 
 | ----- | ----- | ----- | ----- |
 | Downloads of VA.gov Mobile App (aggregate) | ----- | ----- | ----- | ----- |
 | iOS use of VA.gov product landing pages | ----- | ----- | ----- | ----- |
 | Increased iOS App engagement with Refill and track your VA prescriptions function (vama_rx_trackingtab) | ----- | ----- | ----- | ----- |
 | Increased iOS App engagement with Send and receive secure messages from your VA health care team (Secure Messages Sent) | ----- | ----- | ----- | ----- |
 | Increased iOS App engagement with Get your records for VA vaccines, such as COVID-19 (Vaccine Detail Views) | ----- | ----- | ----- | ----- |
-| Increased iOS App engagement with Check your disability rating (**NEED VARIABLE or Remove from MVP**) | ----- | ----- | ----- | ----- |
-| Increased iOS App engagement with Review your claim or appeal status (**NEED VARIABLE or Remove from MVP**) | ----- | ----- | ----- | ----- |
 | Increased iOS App engagement with Submit evidence for your claim or appeal (Claim Document Uploads Started) | ----- | ----- | ----- | ----- |
 | Increased iOS App engagement with Download common VA letters (Letter Downloads) | ----- | ----- | ----- | ----- |
-| Increased iOS App engagement with Review payments we’ve sent you (**NEED VARIABLE or Remove from MVP**) | ----- | ----- | ----- | ----- |
 | Increased iOS App engagement with Update your direct deposit information (Veteran Direct Deposit Updates) | ----- | ----- | ----- | ----- |
+
+This data is not currently tracked (as of May 2023). As a result it may not specifically be MVP but fast-follow as the above measurements can provide indicators of success whereas some of these measures can provide definitive success metrics.
+| Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo) | 
+| ----- | ----- | ----- | ----- |
 | Downloads of VA.gov Mobile App via SmartApp banner (**NEED Ability to measure or Remove from MVP**) | N/A | ----- | ----- | ----- |
 | Use of VA.gov app instead of VA.gov web via SmartApp banner (**NEED Ability to measure or Remove from MVP**) | N/A | ----- | ----- | ----- |
+| Increased iOS App engagement with Check your disability rating (**NEED VARIABLE or Remove from MVP**) | ----- | ----- | ----- | ----- |
+| Increased iOS App engagement with Review your claim or appeal status (**NEED VARIABLE or Remove from MVP**) | ----- | ----- | ----- | ----- |
+| Increased iOS App engagement with Review payments we’ve sent you (**NEED VARIABLE or Remove from MVP**) | ----- | ----- | ----- | ----- |
 
 ---
 
