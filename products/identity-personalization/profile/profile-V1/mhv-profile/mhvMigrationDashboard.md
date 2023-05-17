@@ -28,6 +28,12 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/produc
 [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research/recommendations.md#we-should-collaborate-with-the-health-apartment-team-to-determine-where-it-makes-the-most-sense-to-put-health-related-profile-items)
 [Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research)
 
+
+liz's research / [recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research/recommendations.md)
+[liz's mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/vsa8243/1645732777530/3b751dac638c58f4463823ac9476e4e25dc1240f?sender=u10f2c4ac80310d9cff115982)
+[iterative research that used liz's research](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677775946971/1e8d73d4013ecec84b932c699ce1cf8584cb7e35?sender=u10f2c4ac80310d9cff115982)
+
+
 ## Outstanding questions
 - Is the MHV Rx shipping and tracking email notification the same as the text notification, with regard to it applying only to certain facilities? If so, are they the same facilities?
 - Is the VA Profile API flexible enough that we can have a unique channel name/label for a notification item? The MHV Newsletter isn't a notification as much as it is a subscription, and people were confused by the label "notify me by email" for this notification in user research.
