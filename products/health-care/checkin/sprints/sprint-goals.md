@@ -11,10 +11,9 @@ ________________________________________________________________________________
     - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
      - **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**          
-     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)** 
      - **Sub Goal: [Address IA/Content/A11y Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57441)**     
+     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**     
      - **Sub Goal: Analyze current metrics to see what they tell us** 
-- **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
 - **GOAL: Address tech & design debt**
 
 #### PLANNED RELEASES 
