@@ -206,35 +206,24 @@ Patients can log in to MHV and send a message to their healthcare team with ques
 - **My VA Health (Cerner)** 
 My VA has a refill button for any prescriptions that are refillable and renewable, so patients can send renew requests online. For example, when a prescription runs out of refills, patients can click on the refill button, which takes them to a renewal form with medication name, dosage, date started on and ordered by pre-filled in.  
 
- 
-
-Finding 4.3: AudioCARE is the only tool that communicates with both VistA and Cerner to renew medications.  
+#### Finding 4.3: AudioCARE is the only tool that communicates with both VistA and Cerner to renew medications.  
 
 AudioCare provides patients a way to request a medication renewal through an automated phone system, regardless of the EHR their facility uses (VistA and Cerner). AudioCARE allows renewal requests if prescriptions are active with 0 refills, or if prescriptions are expired within the last 120 days. So, if the 120 days mark is today, you cannot request a renewal. It does not allow renewal requests on expired prescriptions.  
 
 It was noted that we may not want to follow that logic because there are patients who still want to request renewals of discontinued prescriptions. For example, formulary drugs are only supposed to be active for a certain amount of time, so the doctors need to get permission to continue them after the prescription is expired. There’s also the situation that the medication renewal request is not permitted, but VistA is able to redirect patients to message their healthcare team for renewal. 
 
- 
-
 Supporting quotes: 
-
-“AudioCare can send renewal to Cerner or to VistA.” 
-
-“Renewal is not only about the patient facing experience, but also about the EHR process to change.” 
+- “AudioCare can send renewal to Cerner or to VistA.” 
+- “Renewal is not only about the patient facing experience, but also about the EHR process to change.” 
 
 Supporting information: 
-
-https://audiocare.com/about/ 
-
-https://www.oit.va.gov/Services/TRM/ToolPage.aspx?tid=10148 
+- <https://audiocare.com/about/>
+- https://www.oit.va.gov/Services/TRM/ToolPage.aspx?tid=10148 
 
  
+### Tracking prescription status 
 
-Tracking prescription status 
-
- 
-
-Finding 5: Currently, patients only receive email notifications when Consolidated Mail Outpatient Pharmacy (CMOP) orders are shipped.  
+#### Finding 5: Currently, patients only receive email notifications when Consolidated Mail Outpatient Pharmacy (CMOP) orders are shipped.  
 
 Patients can track their prescriptions after they are dispensed by logging in to their preferred platforms and checking the dates. CMOP shipped date is available when their prescriptions are shipped. CMOP API Service can send notification emails for only CMOP mail orders, which is 94% of all mail prescriptions. There’s no service to notify MHV when a local prescription has been shipped. Patients need to log in and track local shipments’ arrival date on the carrier’s website with the tracking number. 
 
@@ -260,133 +249,85 @@ Active
 
 As soon as a medication is dispensed, the status becomes active and refillable.  
 
- 
-
 Supporting quotes: 
-
-“Local shipments are more important to track because CMOP only takes 60 hours to turn the orders around. Local mails do overnight, so we really need to notify them as soon as it ships.” 
-
-“There's only one service that allows us to send emails, and that's the CMOP API service, which send MHV emails.” 
+- “Local shipments are more important to track because CMOP only takes 60 hours to turn the orders around. Local mails do overnight, so we really need to notify them as soon as it ships.” 
+- “There's only one service that allows us to send emails, and that's the CMOP API service, which send MHV emails.” 
 
  
+## Additional findings 
 
-Additional findings 
-
- 
-
-Finding 6: Allergies and adverse reactions help patients take the correct medications and inform their providers what medications not to prescribe. 
+#### Finding 6: Allergies and adverse reactions help patients take the correct medications and inform their providers what medications not to prescribe. 
 
 Allergies and adverse reactions are displayed below medications list today on MHV. Allergies and adverse reactions are documented together because they are different and don’t play into each other. It’s very important to show allergies and adverse reactions with the medications list. Patients not only read allergies and adverse reactions to make sure they take the right medications, but also inform their VA and non-VA providers about their allergies and reactions so they are prescribed with the right medications.  
 
 Supporting quotes: 
+- “Not all allergies are adverse drug reactions, and vice versa.”  
+- “It's very important to show allergies and adverse reactions with medications and allow users to print them together.” 
 
-“Not all allergies are adverse drug reactions, and vice versa.”  
+#### Finding 7: By VHA Directive 1164, there are requirements that define the essential elements necessary to review, manage and communicate medication information.  
 
-“It's very important to show allergies and adverse reactions with medications and allow users to print them together.” 
+**All medication entries must include the following:**  
+- Name of drug 
+- Strength/dosage of drug 
+- Instructions/Directions for use 
+- Notes- if patent self-entered (section/white space to allow patients to write any information they need to help them manage their medications, such as indication, description of medication, etc.)  
 
- 
+**Source of medication information:**  
+- VA: Prescribed and dispensed by local VA Pharmacy 
+- Non-VA: Non-VA medications are medications obtained outside of VA, except of DoD medications. 
+- Remote: Remote medications are medications ordered and dispensed from any other VA facility and/or DoD facility (if applicable).  
 
-Finding 7: By VHA Directive 1164, there are requirements that define the essential elements necessary to review, manage and communicate medication information.  
-
-All medication entries must include the following:  
-
-Name of drug 
-
-Strength/dosage of drug 
-
-Instructions/Directions for use 
-
-Notes- if patent self-entered (section/white space to allow patients to write any information they need to help them manage their medications, such as indication, description of medication, etc.)  
-
-Source of medication information:  
-
-VA: Prescribed and dispensed by local VA Pharmacy 
-
-Non-VA: Non-VA medications are medications obtained outside of VA, except of DoD medications. 
-
-Remote: Remote medications are medications ordered and dispensed from any other VA facility and/or DoD facility (if applicable).  
-
-For the purpose of reviewing medications:  
-
+**For the purpose of reviewing medications:**
 We should always show medications that are recently discontinued (90-180 days), recently expired (90-180 days), and pending where relevant. When patients go to multiple appointments and see multiple providers in the same day, changes to their medications and doses may not be reflected. So, reviewing progress note and after visit summary is also important.  
 
-For the purpose of managing medications:  
-
+**For the purpose of managing medications:**  
 Patients must actively request refills using MHV, mail, and phone at least 10 days before they run out of medications. Prescriptions patients cannot refill using MHV, mail or phone, include non-VA prescriptions, some controlled substances and short-term antibiotics.  
 
 Supporting information:  
+- <https://dvagov.sharepoint.com/:b:/r/sites/VHAMedRecon/Essential%20Medication%20Information%20Standards%20Directi/VHA%20Directive%201164/Program%20Guides/GUIDANCE%20FOR%20ESSENTIAL%20MEDICATION%20INFORMATION%20w-examples.pdf?csf=1&web=1&e=52rgkz>
+- <https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/rx-refill/discovery>
 
-https://dvagov.sharepoint.com/:b:/r/sites/VHAMedRecon/Essential%20Medication%20Information%20Standards%20Directi/VHA%20Directive%201164/Program%20Guides/GUIDANCE%20FOR%20ESSENTIAL%20MEDICATION%20INFORMATION%20w-examples.pdf?csf=1&web=1&e=52rgkz 
-
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/rx-refill/discovery 
-
- 
-
-Finding 8: VistA and MHV do not communicate changes to data when they happen. They communicate most often when a patient logs into MHV. 
+#### Finding 8: VistA and MHV do not communicate changes to data when they happen. They communicate most often when a patient logs into MHV. 
 
 For refill requests, MHV sends the requests through HL7 to VistA. It’s not real time data exchange. Even patients submit it and see submitted status, they won’t see the requests being processed until the next calendar day.  
 
 Data on MHV pharmacy is not updated in real time, it is updated every night in VistA or when a patient logs in. Originally, VistA was trying to update data for every user in one night, but the load was too big. So, now VistA updates in three batch jobs that updates users’ data based on whether they have any records in certain statuses. When users log in, it triggers the system to ask an update. Otherwise, it will not update until the batch job that night. 
 
- 
-
 Supporting quotes: 
+- “How refill request works is MHV sends it through HL 7 to Vista. It's not real time data exchange.” 
+- “When you request a refill and it's a submitted status, you won't see that change to refill in process till the next calendar day. Users have to log in the next day to see when it will be filled.” 
 
-“How refill request works is MHV sends it through HL 7 to Vista. It's not real time data exchange.” 
-
-“When you request a refill and it's a submitted status, you won't see that change to refill in process till the next calendar day. Users have to log in the next day to see when it will be filled.” 
-
- 
-
-Finding 9: Pre-visit summary (PVS) is given to patients before an appointment, which provides a way for patients to communicate changes to their medication list to their provider. 
+#### Finding 9: Pre-visit summary (PVS) is given to patients before an appointment, which provides a way for patients to communicate changes to their medication list to their provider. 
 
 Pre-visit summary (PVS) includes allergies and adverse reactions and medications list. It is a fillable PDF document that patients receive in their mail or through MHV secure message. Patients should review their medications and updates any changes to their medications on the PVS document, and then send it back to their providers or health care team via mail or attachments with secure message on MHV prior to their appointments.  
 
- 
-
-Finding 10: After-visit summary (AVS) is given to patients during and/or after an appointment, which provides what Dr. Spahn and Dr. Layden consider the closest document to a medication treatment plan the VA offers today. 
+#### Finding 10: After-visit summary (AVS) is given to patients during and/or after an appointment, which provides what Dr. Spahn and Dr. Layden consider the closest document to a medication treatment plan the VA offers today. 
 
 After-visit summary (AVS) is a PDF file that documents the changes to patients’ medications during their appointment and newly prescribed medications. AVS currently has multiple sections in it with medication information: 
-
-Only lists the changes to their medications 
-
-Lists all their medications in three subsections 
-
-Medications 
-
-Supplies 
-
-Medications you are not taking 
+- Only lists the changes to their medications 
+- Lists all their medications in three subsections 
+- Medications 
+- Supplies 
+- Medications you are not taking 
 
 Within “My Ongoing Care” section on AVS, the medication list includes all the medications patients currently take. When AVS is generated, the “My Ongoing Care” section pulls the most up-to-date medication list from VistA.  
 
 The data of PVS and AVS comes from the same backend system that connects to VistA. AVS can be created during and after an appointment. Some providers review it with their patients during the appointment. Otherwise, it’s generated so the patients can receive a hard copy of AVS at the end of their appointments. Patients can also access it themselves on MHV. AVS would be the closest thing to treatment plan, but it gets out of date fast.  
 
- 
-
 Supporting Quotes: 
-
-“The closest documentation to medications treatment plan is AVS.” 
+- “The closest documentation to medications treatment plan is AVS.” 
 
 Supporting information: 
+- <https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products[…]h-modernization/mhv-to-va.gov/avs/engineering/data_available.md>
 
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products[…]h-modernization/mhv-to-va.gov/avs/engineering/data_available.md 
-
- 
-
-Finding 11: A medication treatment plan is considered the gold standard for communicating what a patient should be taking. However, we do not currently have access to data that would support us providing a comprehensive medication treatment plan today. 
+#### Finding 11: A medication treatment plan is considered the gold standard for communicating what a patient should be taking. However, we do not currently have access to data that would support us providing a comprehensive medication treatment plan today. 
 
 Medications treatment plan documents the changes to patients’ medications, so it could be a lot of different things, such as progress note and AVS. For example, if Veterans see multiple providers on the same day, there could be changes to their medications that are documented in different places, which could be hard to pull out. We don’t have the data that supports true medications treatment plan today.  
 
- 
-
 Supporting Quotes: 
+- “There is no true medications treatment plan today.” 
 
-“There is no true medications treatment plan today.” 
-
- 
-
-Finding 12: We don’t proactively remind patients to renew and refill their prescriptions and notify them about their medications’ movement after they refill and renew.  
+#### Finding 12: We don’t proactively remind patients to renew and refill their prescriptions and notify them about their medications’ movement after they refill and renew.  
 
 Managing medications is similar to online shopping experience. After patients request a renewal and/or refill, it is important to inform them about when to order frequently taken medications again and where their medications are at are important to ease their experience.  
 
@@ -397,192 +338,129 @@ In the Rx Refill app, there is an in-app notification that pops up 15 days befor
 Besides renewal reminders, when refills are running out or discontinued for any reason, we could also notify patients and inform them of the actions they could take. Once the prescriptions are shipped, letting patients know the tracking information is available for CMOP orders and local shipment can make sure they receive their medications on time.  
 
 Supporting Quotes: 
+- “Another thing is with renewals; it’s being proactive and tell them they’s going to need to do this before it happens.” 
+- “We do not have the same service to notify MHV when a local prescription has been shipped.” 
+- “We don't have refill alerts to notify them yet.” 
+- “So, when your meds arrive, that's your reminder to request the next one.” 
 
-“Another thing is with renewals; it’s being proactive and tell them they’s going to need to do this before it happens.” 
 
-“We do not have the same service to notify MHV when a local prescription has been shipped.” 
+## Recommendations 
 
-“We don't have refill alerts to notify them yet.” 
-
-“So, when your meds arrive, that's your reminder to request the next one.” 
-
- 
-
-Recommendations 
-
- 
-
-Recommendation 1: Medication statuses and dates should be in plain language and action oriented, and simply shows how a prescription changes over time.  
+#### Recommendation 1: Medication statuses and dates should be in plain language and action oriented, and simply shows how a prescription changes over time.  
 
 Because there are many statuses and dates patients need to track manually, there should be a way to present that information intuitively so that patients know how their prescriptions change over time.  
 
 Here’s an example how that can be presented for prescription refills:  
 
- 
-
 Next steps:  
+- Complete designs for this recommendation. 
+- Work with content team to standardize the content for prescription statuses and dates. 
 
-Complete designs for this recommendation. 
+_Associated finding: 1_
 
-Work with content team to standardize the content for prescription statuses and dates. 
-
-Associated finding: 1  
-
- 
-
-Recommendation 2: Collaborate with the designers and researchers on the flagship mobile team to ensure a unified medication management experience.  
+#### Recommendation 2: Collaborate with the designers and researchers on the flagship mobile team to ensure a unified medication management experience.  
 
 As we are building medications on VA.gov, it’s important to check in with the flagship mobile team regularly to ensure a streamlined experience, and we should discuss:  
 
-What are the mobile only features? 
+- What are the mobile only features? 
+- Where do we onboard and off board patients to go from VA.gov to the app, and vice versa?  
 
-Where do we onboard and off board patients to go from VA.gov to the app, and vice versa?  
+_Associated finding: 2_ 
 
-Associated finding: 2 
-
- 
-
-Recommendation 3: Create reminders and notifications that proactively help patients manage their prescriptions.  
+#### Recommendation 3: Create reminders and notifications that proactively help patients manage their prescriptions.  
 
 From analyzing the medication management journey from pre-appointment to receiving medications, we can see that there are not many automatic features that assist patients on this journey. Auto-refill is not allowed and building renewal in VistA logic is on the roadmap. However, creating reminders and notifications might be something we do to fill that gap. They can inform patients the statuses of their medications without logging into the platforms or asking their doctors or pharmacist. It will make managing medications better and easier for them.  
 
 Next step:  
+- Work with VA Notify and VEText team to understand how feasible this recommendation is.  
+- Set up a meeting with Beverly Nelson and Shane Elliott 
 
-Work with VA Notify and VEText team to understand how feasible this recommendation is.  
+_Associated findings: 1, 3.1, 4.1, 12_ 
 
-Set up a meeting with Beverly Nelson and Shane Elliott 
-
-Associated findings: 1, 3.1, 4.1, 12 
-
- 
-
-Recommendation 4: Work across technical teams to build a digital prescription renewal API that can be used by MHV on VA.gov, AudioCARE, and mobile apps.  
+#### Recommendation 4: Work across technical teams to build a digital prescription renewal API that can be used by MHV on VA.gov, AudioCARE, and mobile apps.  
 
 Patients want to renew their prescriptions, and they don’t need to know how the medications are renewed. It would be the best to create an action button for renewal on VA.gov, and we figure out the technical pathways to get the prescriptions renewed. If the prescriptions can’t be renewed with click a button, we let patients know why and what the next steps are.  
 
 From talking with Dr. Spahn, we learned that they are currently building out logic in the Rx VistA API for requesting renewal. This will make the renewal process easier by having an action button like refill. AudioCARE currently has the system that allows patients to renew prescriptions with a phone call regardless of Cerner or VistA. Understanding both systems and collaborating with both teams will help us develop the renewal feature, and we don’t have to reinvent the wheel.  
 
 Next step: 
+- Connect the Rx VistA API team to engineers on VA.gov. 
+- Conduct technical discovery on how Rx VistA API can be incorporated with VA.gov. 
+- Facilitate and manage multi-tool Digital Medications Management working group to understand other products and planned work. 
 
-Connect the Rx VistA API team to engineers on VA.gov. 
+_Associated finding: 4.1, 4.2_
 
-Conduct technical discovery on how Rx VistA API can be incorporated with VA.gov. 
-
-Facilitate and manage multi-tool Digital Medications Management working group to understand other products and planned work. 
-
-Associated finding: 4.1, 4.2 
-
- 
-
-Recommendation 5: Build prescriptions tracking feature for CMOP mail orders and local pharmacy orders. 
+#### Recommendation 5: Build prescriptions tracking feature for CMOP mail orders and local pharmacy orders. 
 
 Prescription orders come from CMOP and local pharmacy, and CMOP mail orders make up about 95% of the prescriptions. We need to integrate both systems for prescription tracking on VA.gov. 
 
 Next step: 
+- Connect with MHV Pharmacy ByLight engineers and understand their approach on this. 
+- Technical discovery on where we can pull data for local pharmacy tracking. 
 
-Connect with MHV Pharmacy ByLight engineers and understand their approach on this. 
+_Associated finding: 5_ 
 
-Technical discovery on where we can pull data for local pharmacy tracking. 
-
-Associated finding: 5 
-
- 
-
-Recommendation 6: Patients should be able to print, download, and view allergies and adverse reactions along with their medications list. 
+#### Recommendation 6: Patients should be able to print, download, and view allergies and adverse reactions along with their medications list. 
 
 We learned that allergies and adverse reactions are important for patients and their providers. Patients need to have the ability to view, download and print them with the medications list to access them whenever they need. This will increase medication safety by helping patients be confident with the medications they are taking. Currently, allergies and adverse reactions can be viewed with medications list because it’s not clear how they are related to the medications patients take. We also need to design a better viewing experience.  
 
 Next step: 
+- Complete designs for this recommendation. 
 
-Complete designs for this recommendation. 
+_Associated finding: 6_
 
-Associated finding: 6 
-
- 
-
-Recommendation 7: Create content and designs that follow VHA Directive 1164. 
+#### Recommendation 7: Create content and designs that follow VHA Directive 1164. 
 
 There are required information about medications we need to follow based on VHA Directive 1164. This will ensure w to display essential medications information that patients need. The flagship mobile app team recently finished the usability testing on their updated Rx section of the app. It’s important that we learn from their findings and implement what designs already works.  
 
 There’s a “notes” section for medication entry, which considers as Patient Generated Health Data (PGHD). We won’t be adding it as MVP for this quarter.  
 
 Next step: 
+- Complete designs for this recommendation. 
 
-Complete designs for this recommendation. 
+_Associated finding: 7_
 
-Ask the flagship mobile app team for the usability testing findings report. 
-
-Associated finding: 7 
-
- 
-
-Recommendation 8: Conduct technical discovery on how VistA and MHV pharmacy exchange data. 
+#### Recommendation 8: Conduct technical discovery on how VistA and MHV pharmacy exchange data. 
 
 VistA and MHV don’t exchange data in real time. This could lead to challenges in displaying accurate medications information, which is crucial for patients to manage their medications.  
 
 Next step: 
+- Complete the technical discovery. 
 
-Complete the technical discovery. 
+_Associated finding: 8_ 
 
-Associated finding: 8 
-
- 
-
-Recommendation 9: Consolidate all medications in one place, including active, inactive, VA, non-VA, and remote, and display medications in a way that is easy to find. 
+#### Recommendation 9: Consolidate all medications in one place, including active, inactive, VA, non-VA, and remote, and display medications in a way that is easy to find. 
 
 Refillable prescriptions are separate from other prescriptions on MHV. VA Health and Benefits app doesn’t include inactive medications. For prescriptions pass 180 days, patients have to navigate to medical records to access them. There are many different places to go to access a complete list of medications, which is time consuming. We should consolidate all medications in one place and categorize them in different groups so that patients can easily find their medications and take actions. 
 
 Next steps:  
+- Complete designs for this recommendation. 
 
-Complete designs for this recommendation. 
-
-Associated finding: 3.1, 4.1 
+_Associated finding: 3.1, 4.1_ 
 
  
-
 *Note:  
-
 There are no recommendations for Finding 9, 10, and 11 because they are already being worked on by the After Summary Visit Team at OCTO.  
 
- 
 
-Appendix  
+## Appendix  
 
- 
+- Research plan 
+- Conversation guides 
+- Interview transcripts 
+- Medication management journey map  
+- Prescription progress flow with statuses and dates 
+- MHV Pharmacy, VA Health and Benefits App, and Rx Refill App Comparison Analysis 
+- VHA Directive 1164 
 
-Research plan 
+## List of interviewees 
 
-Conversation guides 
-
-Interview transcripts 
-
-Medication management journey map  
-
-Prescription progress flow with statuses and dates 
-
-MHV Pharmacy, VA Health and Benefits App, and Rx Refill App Comparison Analysis 
-
-VHA Directive 1164 
-
- 
-
-List of interviewees 
-
- 
-
-Rob Durkin - AVS & PVS Engineer 
-
-Nancy Wilck, Hugo Padilla from Rx Refill App team 
-
-Arienne Walters and Harrison Amelang, MHV pharmacy designers from ByLight 
-
-Raquel and Tanner, ByLight product owners 
-
-Maureen Layden, Physician - Director, VA Medication Reconciliation Initiative 
-
-Eric Spahn, Clinical analyst - Pharmacy Benefits Management, OCC business line owner 
-
-Margo Kabel, VHA Health informatics, program analyst, HCD 
-
-Lauren Russell, Liz Straghalis from the VA flagship mobile app 
+- Rob Durkin - AVS & PVS Engineer 
+- Nancy Wilck, Hugo Padilla from Rx Refill App team 
+- Arienne Walters and Harrison Amelang, MHV pharmacy designers from ByLight 
+- Raquel and Tanner, ByLight product owners 
+- Maureen Layden, Physician - Director, VA Medication Reconciliation Initiative 
+- Eric Spahn, Clinical analyst - Pharmacy Benefits Management, OCC business line owner 
+- Margo Kabel, VHA Health informatics, program analyst, HCD 
+- Lauren Russell, Liz Straghalis from the VA flagship mobile app 
  
