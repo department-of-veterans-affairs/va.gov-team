@@ -32,7 +32,9 @@ HMW integrate VA directive 6102 into the existing editor workflow, to best ensur
 
 ## Decision Points
 **Bisect VAMC and Vet Center user bases**
+<br>
 In early 2Q 2023, the decision was made by OCTO to separate out the VAMC user base from the Vet Center use base (which were planned to be combined user bases for the notifications MVP). This allowed the CMS team to further distinguish diffs with the user bases since they will be delivered and utilized in completely separate ways. Tickets to further describe this work are: #13243; #13467 and #13468. The delivery of the Vet Center notifications is currently blocked by VA approval to move ahead. The CMS team has completed all work in preparation and will only need to queue up the emails to be delivered when the approval is green-lit (tentative estimation is 3Q 2023).
+</br>
 
 
 ## UX Research Artifacts
