@@ -46,16 +46,30 @@ TBD
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
+#### Objective
+....
+- Source: TBD
+
+**Key Result**
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+|TBD| TBD | TBD | TBD |
 
-The team implemented an event tag on the Discharge Date field within the 10-10EZ form on August 8th, 2022.
-- Data can be tracked on this [GA Dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/gSXa5lOYRyuXpauKyXSYug/a50123418w177519031p184624291/) and [Direct event page](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20220801&_u.date01=20220811&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22PT%22,%22hca-future%22,0%5D%5D&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.rowCount=25/)
+#### Objective
+....
+- Source: TBD
 
-|Event|1 Month of Data (Aug 8-Sep 8)|2 Months of Data|3 Months of Data|
-|--------------------|-------------------|--------------|---------------|
-|Future Discharge Date on submitted applications| 1,059 | TBD | TBD |
-|Total successfully submitted applications| 11,860 | TBD | TBD |
-|Percentage of Future Discharge dates| 8.93% | TBD | TBD |
+**Key Result**
+- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+|TBD| TBD | TBD | TBD |
+
+#### Objective
+....
+- Source: TBD
+
+**Key Result**
+- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+|TBD| TBD | TBD | TBD |
+
 
 ## Discovery
 ### Registration Use Cases
