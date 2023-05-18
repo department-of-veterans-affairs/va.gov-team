@@ -30,78 +30,77 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
+Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes. We’re working with the U.S Department of Veterans Affairs Education Service to improve the GI Bill Student experience for all users. We’re looking to understand your GI Bill experience using some features that are currently live on VA.gov, specifically Transfer of Entitlement Application, Online Enrollment Verification, and Download VA Education Letters. 
+Thank you for taking time to speak with us today.
 
-Today we're going to talk about [description of your project].
+Our conversation today is going to have a light structure to ensure we address all of our learning goals, but I’d like for this to be on-going dialogue between you and I. I might interject at times to seek some clarification, but again, think of this as a conversation and not a formal interview. 
 
-Before we start, a few things I want to mention:
+Before we get started, I’m going to read over the logistics and protocol for this interview to make sure we don’t miss anything: 
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
-- **If for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.** 
-- Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
-   - If no: Use Slack to kindly ask the observers to leave the Zoom.
-   - If yes: Admit observers. 
-    - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
-   - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
-    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+**Most importantly, you’re the expert**. We want your honest feedback: As we talk today, we want to hear your honest opinions. You are the expert about your experience, and we are here to learn from you, so there are no wrong answers. 
+
+**Your participation is completely voluntary:** Your time and input are extremely valued, but please know it is entirely voluntary to participate. If you don’t feel comfortable talking about anything, please let me know. If you’re not comfortable with answering a question, you’re more than welcome to pass on it. If at any point during this conversation you decide you no longer wish to participate, you may end the session for any reason.
+
+**This entire session should take about 45 minutes to one hour.** I want to be sure not to keep you much longer, so I may occasionally move you along to the next question or topic. 
+On the consent form you acknowledged that you were comfortable with us recording this session. The recording will be used for reference in case we miss any notes. It will be deleted once our analysis is complete, and none of your comments will be attributed to you directly. Are you still okay with this? 
+
+- If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording.*
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
+If for any reason you want to stop the session or take a break at any point, please let me know. If there are no questions or comments at this time we can jump right in! 
 
-## Warm-up Questions (Optional) - X minutes
+**Interview Questions (30 minutes)**
+General
+- What is your familiarity with VA?
+- Are you using any education benefits from VA?
+-  If so, can you remember what education benefits you are using?
+-  How long have you been using your education benefits?
+-  How did you learn about education benefits?
 
-Before we look at the website, let’s start with a few warm-up questions.
+VA.gov Expeerience
+- What has your experience been like on VA.gov?
+- What has worked well for you using VA.gov?
+- What hasn't worked well for you using VA.gov?
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+Feature Spepcifc Questions
+Enrollment Verification Question:
+- Have you done enrollment verification before? By what method (email, text, online on VA.gov)
+- What are your overall impressions abou online enrollment verification?
+- We're there any tasks that you were stopped from doing or could not complete?
+- What questions did you have as you went through process?
+- What other features do you wish you had?
+- What did you think of the design?
 
-## First Task: [TASK NAME] - X minutes
+Transfer of Entitlement Application Questions:
+- Have you recently applied for the transfer of benefits from a Veteran using the online application?
+- What was that process like of applying for your benefits?  
+- Were you involved in transferring your benefits from your family member? 
+- What was that experience like? Did it make sense? 
+- Were there any points during the application form that you had to stop? Why? 
+- What was the easiest part about applying for TOE benefits?
+- What was the most challenging part about applying for TOE benefits?
+- What other features do you wish that you had here?
+- What do you think about the designs in front of you?
 
-- Step 1
-- Step 2
+Download VA Education Letter Questions:
+- Have you recently applied for education benefits and tried to download your decision letter?
+- What are your overall impressions about this section?
+- Do you recall using this section?
+- If so, do you recall if you were able to do what you came here for?
+- Were there any tasks that you were stopped from doing or could not complete?
+- What questions do you have as you look through this page?
+- What other features do you wish that you had here?
+- What do you think about the designs in front of you?
 
-### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+## Thank-You and Closing - 5 minutes
+- Is there anything that I have not asked you about that I should have?
+- What are you most interested in knowing about going forward about Digital GI Bill?
+- If you could do anything you wanted to improve the GI Bill experience, what would you do?
 
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Post-Task Interview - X minutes
-
-- Question 1
-- Question 2
-- Any questions for me? 
-
-## Thank-You and Closing - X minutes
-
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+That is all the questions we have at this point. Thank you for taking the time to provide feedback in improving the GI Bill experience for all stakeholders including Veterans and their families, schools, and VA employees. We would like to keep you updated about our progress and involve you in future activities if possible, would you be open to that?!
 
 Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
