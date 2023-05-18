@@ -72,8 +72,9 @@ _Goal: Validate that participants are clear where they are and the requirements 
 	* What are your review options?
 	* What do you expect the process to be after submission?
 * From this page, how would you go about filing a Board Appeal?
-* Go ahead and start to file a claim, and talk aloud as you go.
 * (Form introduction) How do you feel about what this page says?
+* Go ahead and start to file a claim, and talk aloud as you go.
+
 ### Things to watch for:
 * Do any participants understand the difference between a disagreement and a denial?
 * Do any participants know how to access more information or help if they don’t understand something on the page?
@@ -109,8 +110,13 @@ _Goal:  Validate that the participants understand the difference between the thr
 * Select the board review option you’d like to pursue.
 * Why did you choose the review option you’ve selected?
 * What factors are you considering when you’re selecting a board review option?
-* Optional: Why did you choose the hearing option that you’ve selected?
+
+_Note: When the user is selecting the mode of hearing_
+
+Optional: Why did you choose the hearing option that you’ve selected?
+
 STOP: Let’s stop here. What would you do if you want to complete this form later? 
+
 ### Things to watch for:
 * Do participants understand the review options presented to them?
 * Do participants understand the requirements for the different board review options?
@@ -119,7 +125,10 @@ STOP: Let’s stop here. What would you do if you want to complete this form lat
 ## Task 6. Find a Saved Form: 5 minutes
 _Goal: Validate that Participants can navigate back to a saved form_
 * Let’s go back to the home page.
-* From here, how would you get back to the form we were on?
+* From here, how would you get back to the form we were on without using the back button?
+
+_Prompt: Click start a new request_
+
 ### Things to watch out for:
 * Is there a clear indicator on their dashboard that there is an incomplete form?
 * Is the participant able to navigate back to the form?
