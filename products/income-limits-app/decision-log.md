@@ -9,6 +9,7 @@ App start screen/landing page
 Dependents screen
 - A simple-but-accurate definition of dependents will be always visible. More complex rules will be in an expanding additional-info component
 - Detailed description of how to calculate income and deductions will be an external page, linked from the results screen. Content will initially be a reusable Q&A node, later move to Resources & Support.
+- The team subsequently aligned via slack that the intro screen would be built in Drupal, and the react app would begin with the first question.
 
 ## 4/13 discussion and 4/17 email
 DaveC decided that the MVP can be launched with minor uncertainties from SMEs around edge cases and pension recipients. Therefore: We will not include questions about Housebound and A&A benefits, since our best info says pension recipients always get travel and free meds.
