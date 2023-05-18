@@ -83,39 +83,7 @@ Supporting information:
 
 After talking with the Pharmacy Benefits Management team, we realize that prescriptions statuses and dates do not stand alone, and they are associated with patients’ actions. 
 
-Prescriptions status 
-
- 
-
-Action 
-
-Status explanation  
-
-Dates 
-
-Active or Active: Parked 
-
-Active: Refill in process 
-
- 
-
-Request refills/fills 
-
-There are refills remaining.  
-
-Prescriptions are not expired. 
-
-Prescriptions are not discontinued or canceled.  
-
-Refill submit date: The date request is submitted. 
-
-Fill date: Refill is in process, and fill date is an estimated time medications arrive 
-
-Dispensed date: The refill is dispensed, and status becomes active. 
-
-CMOP shipped date (if it’s not picked up): CMOP mail orders are shipped. 
-
- 
+![Screenshot 2023-05-18 121533](https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/a7f31f58-11c1-4b44-9e7e-16857b4aa548)
 
 Active and Active: Parked statuses mean there are still refills remaining and prescriptions are not expired or discontinued. Therefore, when prescriptions are Active or Active: Parked, patients can request refill. If the prescriptions are new and have never been filled before, patients would request fill, but the logic of fill is same as refill.  
 
@@ -151,41 +119,7 @@ Supporting information:
 
 #### Finding 4.1: Prescriptions that are expired, discontinued, or active with no refills need to be renewed. 
 
- 
-
-Prescriptions status 
-
-Action 
-
-Status explanation 
-
-Key dates 
-
-Active with no refills 
-
-Expired  
-
-Discontinued 
-
- 
-
-Request renewal 
-
-There are no refills remaining. 
-
-Prescriptions that have hit their expiration date, typically 1 year from when the prescription was ordered.   
-
-Prescriptions are discontinued.  
-
- 
-
-Ordered date [prescription initially ordered by a doctor] 
-
- 
-
-Then back to be refillable/fillable 
-
- 
+![Screenshot 2023-05-18 121559](https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/4603bb21-9f4a-4c5f-bb23-5a99ec490806)
 
 #### Finding 4.2: There are multiple pathways to renew prescriptions. 
  
@@ -227,27 +161,7 @@ Supporting information:
 
 Patients can track their prescriptions after they are dispensed by logging in to their preferred platforms and checking the dates. CMOP shipped date is available when their prescriptions are shipped. CMOP API Service can send notification emails for only CMOP mail orders, which is 94% of all mail prescriptions. There’s no service to notify MHV when a local prescription has been shipped. Patients need to log in and track local shipments’ arrival date on the carrier’s website with the tracking number. 
 
-Action 
-
-Dates 
-
-Prescriptions status 
-
-Status explanation 
-
- 
-
-Track prescriptions 
-
-CMOP shipped date 
-
-Arrival date on carrier’s website 
-
-Fill date (new date puts the estimated ship date 85-90 days ahead, which lets patients know when the next refill will be.) 
-
-Active 
-
-As soon as a medication is dispensed, the status becomes active and refillable.  
+![Screenshot 2023-05-18 121619](https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/d81efb1d-0bca-464a-b114-eb605590fe58)
 
 Supporting quotes: 
 - “Local shipments are more important to track because CMOP only takes 60 hours to turn the orders around. Local mails do overnight, so we really need to notify them as soon as it ships.” 
@@ -351,6 +265,8 @@ Supporting Quotes:
 Because there are many statuses and dates patients need to track manually, there should be a way to present that information intuitively so that patients know how their prescriptions change over time.  
 
 Here’s an example how that can be presented for prescription refills:  
+
+![Screenshot 2023-05-18 at 12 20 19 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/e5d1ecd2-abbb-4871-8c62-84f8dec413ba)
 
 Next steps:  
 - Complete designs for this recommendation. 
