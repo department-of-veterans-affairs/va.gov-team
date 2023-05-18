@@ -57,12 +57,18 @@ Before we look at the website, let’s start with a few warm-up questions.
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
 - Can you remind me where you are based?
-- Can you remind me of whether you have applied for benefits before? (for determining which scenario to present)
+- Can you remind me of whether you have applied for any VA benefits before? (for determining which scenario to present)
 - Are you currently a veteran or active duty?
+- What is your experience with VA.gov, if any?
 
 ## First Task: [intro & TE alert] - 5 minutes
 
-- Same as before, imagine you are here to *insert pertinant scenario,* read everything on this page up until the “Sign in” button at your own pace, let me know when you are finished, and then I will ask you a few questions about what you read
+
+###Task goal: gauge whether or how much vets understand the intro and what language they find clear/confusing 
+
+- Same as before, imagine you are here to *insert pertinant scenario,* 
+- What is the first thing you would do or read on this page?
+- Read everything on this page up until the “Sign in” button at your own pace, let me know when you are finished, and then I will ask you a few questions about what you read
 - Is there any information missing from this section that you personally would want to know?
 - Was any of this information unclear or confusing?
 - On a scale from 1 to 10, 1 being not at all useful, and 10 being very useful, how useful or not was the information in this section of the page?
@@ -71,8 +77,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Second Task: [STEP 1] Is this the form for you - 10 minutes
 
+###Task goal: gauge whether or how much vets understand step 1 and what language they find clear/confusing + 
+gauging expandable sections UX on mobile + gauge exapndable alert interaction 
+
 - Same as before: Imagine you are here to *insert pertinant scenario to participant*
-- Looking at the steps listed here, what are your first impressions of the actions you need to take to start the form, if any?
+- MOBILE: Without clicking on anything just yet, looking at the steps listed here, what do they tell you about applying for the form, if anything?
+- From what you have seen so far, what are some actions you think you can take on this page? 
 - IF ON MOBILE: expand section one of four
 - Read step 1 on this page at your own pace, and look for any information relavant to your situation as a *insert scenario*. Let me know when you have finished.
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful or not was the information in this section?
@@ -82,21 +92,21 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Is there any information missing from this section that you personally would want to know?
 - From what you read, what is your understanding of who is elligible for disability benefits?
 - From what you read here, what is your understanding of a supplemental claim form?
-- 
 
 QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 
-- Why did you open the alert?
+- Do you think the alert will contain information relevant to your situation of *insert scenario*? why or why?
 - Is this the information you expected to see here? why or why not?
 - Was anything you read here confusing?
 - How clear or not was the information about veterans who have been granted benefits in the past?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+- Are certain words/langauge tripping up veterans/active members?
+- Are there places that veterans need to reread or ask for clarity about?
+- Are there things that veterans misunderstand after reading about them
+- Is there information veterans seem to skim/skip over / miss
+- How much time approximately do veterans take to read this section 
 
 ## Third Task: [STEP 2] Decide how to apply - 3 minutes
 
@@ -111,11 +121,16 @@ QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Are certain words/langauge tripping up veterans/active members?
+- Are there places that veterans need to reread or ask for clarity about?
+- Are there things that veterans misunderstand after reading about them
+- Is there information veterans seem to skim/skip over / miss
+- How much time approximately do veterans take to read this section 
 
 ## Fourth Task: [Step 3] Gather information - 10 minutes
+
+###Task goal: gauge whether or how much vets understand step 1 and what language they find clear/confusing + 
+gauging expandable sections UX on mobile + gauge exapndable alert interaction 
 
 - IF ON MOBILE: expand section three
 - As before, read through this section at your own pace. let me know once you’re finished.
@@ -133,11 +148,20 @@ QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 
 QUESTIONS CONCERNING EXPANDABLE UI/INFO 
 
-- Why did you open the alert?
-- Before you opened this section, was this the information you expected to see here? why or why not?
+- Do you think the alert will contain information relevant to your situation of *insert scenario*? why or why not?
+- Before you opened this section, was this the information you expected to see here? Why or why not?
 - Was anything you read here confusing?
 - In your own words, what is your understanding of the benefits delivery at discharge program?
     - ALT (alternative phrasing for a question) : Was anything confusing about the information concerning active duty service members and benefits delivery at discharge ?
+
+### Things to watch for:
+
+- Are certain words/langauge tripping up veterans/active members?
+- Are there places that veterans need to reread or ask for clarity about?
+- Are there things that veterans misunderstand after reading about them
+- Is there information veterans seem to skim/skip over/miss 
+- How much time approximately do veterans take to read this section
+
 
 ## Fifth Task: [Step 4] Apply - 8 minutes
 
@@ -163,6 +187,9 @@ SENTIMENT AND TRUST TESTING
 - In your opinion, is there a difference between the words “condition” and “disability”?
 - How likely or unlikely would you be to reach out to a VSO for help  completing the form?
 - Now that you have read through this page, is there any information missing from this page that you feel is needed to equip veterans to begin the form on their own?
+- From what you have seen here, how long do you think completing the form digitally would take you?
+
+
 
 **ONE OF THE FOLLOWING DEPENDING ON TIME:**
 
@@ -171,6 +198,7 @@ SENTIMENT AND TRUST TESTING
     - ALT: Do you believe it is necessary for the VA to collect "evidence” from you to support your claim for benefits/compensation? why or why not?
 - On a scale from 1 to 10, 1 being not at all prepared and 10 being extremely prepared, how prepared or not do you feel to begin the 526 form after reading this page?
 - How would you describe the overall tone of the text on this page? E.G. corporate, warm, cold, etc.
+
 
 ## START PAGE BDD TASKS - 5 MIN
 
