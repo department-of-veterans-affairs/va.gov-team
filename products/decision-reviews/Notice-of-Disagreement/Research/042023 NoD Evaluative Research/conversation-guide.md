@@ -38,7 +38,7 @@ I have started recording. I’d like to confirm: Are you comfortable if I record
 ## Warm up: 5 minutes
 _Goal: Confirm they qualify for the study, the reasons they are filing a Board Appeal, and whether or not they considered other AMA forms._
 
-Before we look at the prototype, I’d like to get a little background information from you:
+Before we look at the website, I’d like to get a little background information from you:
 * First, tell me a little about yourself and your relationship to the VA.
 * How did you make the decision to file a VA Form 10182 Board Appeal (Notice of Disagreement)?
 	* Do you refer to the board appeal as a Board Appeal or Notice of Disagreement?
