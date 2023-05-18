@@ -33,13 +33,15 @@ VistA clinics can be uniquely identified across the VA by a combination of the `
 VistA clinics are associated with a specific VA location, identified by a 3 of 5 character id called a ```sta6aid code```.
 
 VistA clinics include a lot of important information about an appointment:
-- A primary and secondary ```stop code```, which is a code used to report on what kind of service a clinic provides. 
+- A primary and secondary ```stop code```, which is used to report on:
+    - What kind of service a clinic provides.
+    - Indicate modalities, like phone appointments.
 - A regular name and a patient friendly name, which should indicate to the patient what kind of appointment it is.
 - VistA clinics can be marked as hidden from patients, which means patients won't see appointments at those clinics in any patient facing system (like VAOS). 
 
 ### Clinic stop codes
 
-VAOS uses these stop codes to derive what type of care will be provided at an appointment by maintaining a mapping of stop codes to a list of care types. Stop codes can also be used to indicate modalities, like phone appointments. 
+VAOS uses clinic stop codes to derive what type of care will be provided at an appointment by maintaining a mapping of stop codes to a list of care types. Stop codes are reviewed and updated a few times a year by the Managerial Cost Accounting Office (MCO) group at VA. The current list of stop codes can be found on the [MCO site (VA Network)](http://vaww.dss.med.va.gov/programdocs/pd_oident.asp).
 
 
 
