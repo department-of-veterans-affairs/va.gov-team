@@ -64,33 +64,22 @@ On the medication management journey map, there are many touch points and tasks 
 
 There are three main actions patients take regarding their prescriptions, which are request refill/fill, request renewal, and track prescriptions. If patients manage multiple prescriptions, it can get stressful and challenging because they need to keep an eye on the statuses and dates for each prescription in order to know when they should request refill and renewal and track their prescriptions. Some statuses and dates are clinical terms, which are not helpful for patients. Based on past user research, patients find statuses and dates confusing and prefer statuses and dates that tell them what to do next. Through the action flow that is associated with statuses and dates (mural board link in supporting information), we could see what statuses and dates mean and what actions are associated with each.  
 
- 
-
 Supporting information:  
-
-https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1679693697878/18b84555c4770cadad988ada9c0b8a34a9ad785a?sender=ueeece9e244394145c84e5173 
+- <https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1679693697878/18b84555c4770cadad988ada9c0b8a34a9ad785a?sender=ueeece9e244394145c84e5173>
 
  
 
-Finding 2: Medication management experience is inconsistent across applications. 
+#### Finding 2: Medication management experience is inconsistent across applications. 
 
 There are four applications (MHV Pharmacy, My VA, VA Health and Benefits app, and Rx Refill app) that patients use to manage their medications today. There are differences and similarities in the content, information architecture, functionality and designs, which we analyzed in detail on the mural board (linked in supporting information). We learned that Rx Refill app will be retired soon, and VA Health and Benefits app will take over the mobile experience. Bottle scanning was a feature patients love. My VA Health is only for prescriptions that have transferred to the Cerner system, so not all patients use this platform. We need to dive deeper into how and when patients use these tools and how each tool compliments the other. 
 
- 
-
 Supporting information:  
+- <https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1679595074027/67617e4a4e3c56301fbc74d6c9ad7dba8cf86b2b?sender=ueeece9e244394145c84e5173>
 
-https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1679595074027/67617e4a4e3c56301fbc74d6c9ad7dba8cf86b2b?sender=ueeece9e244394145c84e5173 
 
- 
+### Requesting a new fill or a refill 
 
-Requesting a new fill or a refill 
-
- 
-
-Finding 3.1: Once patients request refill/fill, status and date changes indicate a medication’s movement through the refill journey. 
-
- 
+#### Finding 3.1: Once patients request refill/fill, status and date changes indicate a medication’s movement through the refill journey. 
 
 After talking with the Pharmacy Benefits Management team, we realize that prescriptions statuses and dates do not stand alone, and they are associated with patients’ actions. 
 
@@ -140,37 +129,27 @@ Medications can be picked at VA pharmacies or local pharmacies. If patients choo
 
 Patients receive their medications, then the process repeats.  
 
- 
-
-Finding 3.2: In some edge cases, possible errors in prescription statuses can arise due to issues that arise in VistA. 
-
- 
+#### Finding 3.2: In some edge cases, possible errors in prescription statuses can arise due to issues that arise in VistA. 
 
 A refill decrements when the request is being processed from 3 to 2. A possible error here is that refills still decrement when CMOP actually doesn’t fill the prescriptions. For prescriptions that are marked for CMOP, when the refill/fill requests get close to the fill date, the requests are transferred to CMOP. The requests are not in a transmitted state, which means data has been transmitted to CMOP for dispensing, but that doesn’t guarantee CMOP will fill them. At this point, the status of medication has already been changed from Active: Refill in process to Active, and patients can request refill when CMOP hasn’t even filled the first request. If that happens, the prescription status can get stuck, which presents patients inaccurate status.  
 
 There are some prescriptions with unknown statuses that can only be refilled on site at the pharmacies. Pharmacists don’t all follow up with patients on why some prescriptions can’t be filled, and sometimes they delete the requests without communicating. The deletion reflects in VistA, but VistA doesn’t update it on MHV. So, unknown status can last for a long time. There is no clear reason why VistA doesn’t update deletions for prescriptions that can’t be refilled.  
-
- 
-
-Finding 3.3: Automatic refill is not allowed.   
+#### Finding 3.3: Automatic refill is not allowed.   
 
 Due to congressional pushback, the VA is not allowed to provide patients with the ability to auto-refill prescriptions. Auto-refill is seen as a way of charging patients automatically without their taking an action. 
 
 Supporting quotes: 
 
-“We don't do automatic refills because we charge copays. For historic and political reasons, congress was against auto refills. So, all we are trying to do is just to automate a reminder.” 
+- “We don't do automatic refills because we charge copays. For historic and political reasons, congress was against auto refills. So, all we are trying to do is just to automate a reminder.” 
 
 Supporting information: 
 
-https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1679693697878[…]ce9e244394145c84e5173&key=3296fad9-122c-45ac-99ae-a7f3d3d66a7e 
+- <https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1679693697878[…]ce9e244394145c84e5173&key=3296fad9-122c-45ac-99ae-a7f3d3d66a7e> 
 
- 
 
-Requesting a renewal 
+### Requesting a renewal 
 
- 
-
-Finding 4.1: Prescriptions that are expired, discontinued, or active with no refills need to be renewed. 
+#### Finding 4.1: Prescriptions that are expired, discontinued, or active with no refills need to be renewed. 
 
  
 
@@ -208,29 +187,23 @@ Then back to be refillable/fillable
 
  
 
-Finding 4.2: There are multiple pathways to renew prescriptions. 
+#### Finding 4.2: There are multiple pathways to renew prescriptions. 
  
-
 Depends on the type of drugs and system and prescription status, patients can request renewal by calling AudioCARE, calling clinicians contact center, calling pharmacies, messaging their doctors on MHV, and sending requests on My VA Health.  
 
-AudioCARE 
-
+- **AudioCARE** 
 AudioCARE handles communications between a healthcare provider organization and its patients. It provides automated services for prescription renewals, refills, notifications for pick-up, 24/7 patient access, and usable reporting and more. Patients can call and text the system 24/7.  
 
-Clinical contact center 
-
+- **Clinical contact center** 
 This is where patients can talk directly with clinical staff that support their facility. They can ask questions about the prescriptions they want to renew and ask what they can do to renew them, including making an appointment to speak with their doctors about that. 
 
-Pharmacies 
-
+- **Pharmacies** 
 Patients can call the pharmacy number labeled on their medication bottle to ask questions and renew. If prescriptions can’t be renewed at pharmacy level, pharmacists will then contact their doctors on patient's behalf.  
 
-MHV secure message 
-
+- **MHV secure message** 
 Patients can log in to MHV and send a message to their healthcare team with questions or requests about renewing their prescriptions.  
 
-My VA Health (Cerner) 
-
+- **My VA Health (Cerner)** 
 My VA has a refill button for any prescriptions that are refillable and renewable, so patients can send renew requests online. For example, when a prescription runs out of refills, patients can click on the refill button, which takes them to a renewal form with medication name, dosage, date started on and ordered by pre-filled in.  
 
  
