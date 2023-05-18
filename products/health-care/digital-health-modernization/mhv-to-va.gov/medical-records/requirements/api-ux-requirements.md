@@ -5,11 +5,8 @@ Last updated on 5/18/2023
 * [Context](#context)  
 * [API requirements](#api-requirements)
   * [List view](#list-view)
-    * [API requirements](#list-view-api-requirements)
   * [Details view](#details-view)
-    * [API requirements](#details-view-api-requirements)
   * [Notifications](#notifications)
-    * [API requirements](#notifications-requirements)
 
 
 ## Context
