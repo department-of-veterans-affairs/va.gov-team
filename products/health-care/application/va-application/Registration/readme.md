@@ -52,6 +52,7 @@ TBD
 
 **Key Result**
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+|-------| --------- | --------- | --------- |
 |TBD| TBD | TBD | TBD |
 
 #### Objective
@@ -60,6 +61,7 @@ TBD
 
 **Key Result**
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+|-------| --------- | --------- | --------- |
 |TBD| TBD | TBD | TBD |
 
 #### Objective
@@ -68,6 +70,7 @@ TBD
 
 **Key Result**
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+|-------| --------- | --------- | --------- |
 |TBD| TBD | TBD | TBD |
 
 
