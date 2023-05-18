@@ -39,7 +39,7 @@ Increase the download/use/adoption of the VA.gov mobile app.
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 ### MVP KPI measurements
-| Product KPI | Baseline | Target | [Link to data source](https://lookerstudio.google.com/u/0/reporting/92cadc84-b31f-4a7a-9be9-6a0c3fe7d572/page/p_5xc9k8cs5c) | 
+| Product KPI | Baseline **MONTH, YEAR** | Target | [Link to data source](https://lookerstudio.google.com/u/0/reporting/92cadc84-b31f-4a7a-9be9-6a0c3fe7d572/page/p_5xc9k8cs5c) | 
 | ----- | ----- | ----- | ----- |
 | Downloads of VA.gov iOS Mobile App (aggregate) | ----- | ----- | ----- | ----- |
 | iOS use of VA.gov product landing pages | ----- | ----- | ----- | ----- |
