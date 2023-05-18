@@ -51,6 +51,9 @@
 - sarah.koomson@oddball.io
 - Can answer a11y, PDF accessibility, and Design System Componenent questions
 
+**Julie Strothman**, VA OCTO designer/researcher in the Benefits Portfolio
+- julie.strothman@va.gov
+
 ## VA Sponsor
 **Martha Wilkes**, OCTO Accessibility Strategist
 - martha.wilkes@va.gov, [LinkedIn](https://www.linkedin.com/in/marthawilkes/)
