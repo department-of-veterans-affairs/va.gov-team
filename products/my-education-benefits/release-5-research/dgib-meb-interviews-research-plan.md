@@ -1,4 +1,4 @@
-# Research Plan for [DGIB,My Education Benefits, May 2023]
+# Research Plan for DGIB,My Education Benefits, May 2023
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
