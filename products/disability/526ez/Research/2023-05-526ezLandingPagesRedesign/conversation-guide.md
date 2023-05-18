@@ -89,7 +89,7 @@ QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 - Why did you open the alert?
 - Is this the information you expected to see here? why or why not?
 - Was anything you read here confusing?
-- How clear or unclear was the information about veterans who have been granted benefits in the past?
+- How clear or not was the information about veterans who have been granted benefits in the past?
 
 ### Things to watch for:
 
@@ -187,7 +187,7 @@ SENTIMENT AND TRUST TESTING
 - *Click to enter date * alert populates OR depending on design will trigger a new page with alert info
 - Read through the information in the alert at your own pace.
 - In your own words, what is the gist of the alert?
-- In the parapraph in the alert, which event is “your separation date” referring to?
+- What happend on your “your separation date”? In your understanding, is this the same as your "obligation end date"
 
 ## Thank-You and Closing - 2 minutes
 
