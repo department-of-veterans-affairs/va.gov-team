@@ -52,7 +52,7 @@ Increase the download/use/adoption of the VA.gov mobile app.
 
 ### Possible additional KPIs/tracking
 This data is not currently tracked (as of May 2023). As a result it may not specifically be MVP but fast-follow as the above measurements can provide indicators of success whereas some of these measures can provide definitive success metrics.
-| Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo) | 
+| Product KPI | Baseline **MONTH, YEAR** | Target | Link to data source (e.g. GA, Domo) | 
 | ----- | ----- | ----- | ----- |
 | Downloads of VA.gov Mobile App via SmartApp banner (**NEED Ability to measure or Remove from MVP**) | N/A | ----- | ----- | ----- |
 | Use of VA.gov app instead of VA.gov web via SmartApp banner (**NEED Ability to measure or Remove from MVP**) | N/A | ----- | ----- | ----- |
