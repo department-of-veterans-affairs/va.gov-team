@@ -1,53 +1,47 @@
-# Research Plan for [Team, Product, Date]
+# Research Plan for [DGIB,My Educaiton Benefits, May 2023]
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+VA offers education benefits to Veterans, Service members, and their families. Depending on their background, an applicant will need to apply for a specific education benefit that best suits them. Additionally, Post-9/11 GI Bill students now can verify their monthly enrollment in accordance with legislation, Public Law 116-315 Section 1010 and view and download their decision letter on Va.gov. The education form and features we will be focusing on are highlighted below:
+- **Authenticated Form 22-1990e** is primarily for spouses or children of the Veteran or service member - who has transferred their education benefits to them. The transfer of entitlement applicant is the thus a spouse or child and applies for the Post-9/11 GI Bill benefits. 
+- **Online Enrollment Vericication** allows Post-9/11 GI Bill students to verify their monthly enrollment information online, a new method.
+- **Download your VA education letter** offers a simple way for users to view and download their decision letter almost near real time after appilcation submission. 
+These features are in production and are only for authenticated users (signed-in) and will offer a streamlined user experience. 
 
-[Link to product brief](url goes here).
+Authenticated Form 22-1990e (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/TOE%2022-1990e%20Updates/TOE%20Product%20Outline.md)
+
+Online Enrollment Verification (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/enrollment-verification/product-outline.md)
+
+Download Education Letter (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/secure-inbox/README.md)
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
+Enhance Veterans’ personalized online experience
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+Reintiving Myself
+- Aqcuiring appropriate education, new skills, and credientials
 
 ## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+1. Understand users' experience with the VA.gov features mentioned above
+2. Understand users' pain points with the VA.gov feeatures mentioned above
+3. Undesterstand what users' would like to see improved with the VA.gov features mentioned above
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+Feedback gathered from user interviews will help the team better understand pain points and opportunities for design improvments that can be prioritizied and implmentated in a future release. 
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+1. What are users' general impressinons and experience with VA.gov and VA education benefits
+2. Where are users' stopping in the flow and why they couldn't complete their tasks
+3. What features/processes would users like to see improved
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+We hypothesize that users will be generally happy with the objectives of our new initiatives and applaud the attempt for modernization but may call out that they do not always work as well as intended. This comes after analyzing sentiment of VA411, Medallia, and ECC data. 
+
+Users may need a visual to jog their memory and orient them. We will provide a walkthrough before probing specific-feature questions. Based on prior data, we hypothesize users will enjoy the UI experience and simplicity of the designs. 
 
 ## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
-
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+The team will be conducting generative, open-ended interviews and will analyze qualitative findings. All interviews will be conducted in a remote, moderated setting. Participants will receive a Perigean Zoom meeting link before their session and will join the link at the beginning of the session. 
 
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
@@ -58,14 +52,9 @@ Additional resources:
 - In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
+Remote 
 
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+If remote, include your preferred video conferencing software. Choice of: Zoom
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
@@ -73,19 +62,7 @@ If in person, include:
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
+- [Link to conversation guide]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/release-5-research/dgib-meb-interview-research-conversation-guide.md)) 
 	
 ## Recruitment	
 
@@ -96,28 +73,40 @@ Before writing your recruitment criteria, be sure to review the following resour
 - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+Our intended audience for this research is for Veterans and their spouse or child who has applied for the Transfer of Entitlement application (Authenticated form 22-1990e) and have used Online Enrollment Verification and Download Education Letters features. We plan to use Perigean to support our recruitment effort using a lean maximum variation strategy. 
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+We'd like to conduct 10 feedback sessions with Veterans and their spouse or child and would ask to recruit 15 participants. 
 
 **Primary criteria (must-haves)**
+
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+Target Sample Size: 1-3 participants x feature (9-10 total)
+Age: Diverse distribution preferred (~40% Age 55-64+)
+Accessibility Preferences:  Must have access to a computer or mobile phone to join the zoom call and view our self-guided walkthrough. Participant should indicate their preference before scheduling. 
+- Note: VA has identified underrepresented demographic populations that should be prioritized for user engagement and feedback sessions.  We want to be sure to include the following Veteran groups below:
+- 	Live in rural area (~25% of participants)
+- 	Identify as Latinx, Biracial, Asian, Native, or LGBTQ+ (~20% of participants)
+- 	Have a cognitive disability (~40% of participants)
+Geographical Diversity: Diverse distribution preferred
+Login Requirements: Access Zoom (as a guest) 
+Familiarity with Technology: Diverse distribution preferred
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+**VA Benefit Usage Requirements:** Benefit usage will be an important metric for this study and must be included in the participation screener. We are seeking:
+- Category I: 1/3rd of participants (spouse or child to Veteran) to have applied for Ch33 Transfer of Entitlement benefits online within the last 2 months (March-April 2023)
+- Category II: 1/3rd of participants to have used the “Download your VA education letter” feature within the last 2 months (March-April 2023)
+- Category III: 1/3rd of participants to have used the “Verify school enrollment for GI Bill benefits” feature within the last 2 months (March-April 2023)
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+Additional screener questions:
+- Location of the participant and basic demographic qualifiers screeners, including: age, race, sex, state of residence (country if outside the US), accessibility
+- With respect to your GI Bill education, what degree are you working toward? (1. Associate Degree 2. Undergraduate Degree 3. Graduate Degree 3. Non-College Degree Program 4. Other. 5.None). 
+- How many hours do you spend on a computer/week? (None, 1-5 hours, 5-10 hours, 10-20 hours, more than 20 hours/week). 
+- How would you describe your familiarity with technology? (very poor, poor, neutral, good, very good). 
 
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+**Benefit Screener**
+- Have you (a spouse or child to a Veteran) applied online for the transfer of education benefits application within the last 2 months? [particpants that answer yes can be included in Category 1]
+- Have you (a Veteran) used the "Download your VA education letter" feature within the last 2 months? [participants that answer yes can be included in Category 2]
+- Have you (a Veteran) used the "Verify school enrollment for GI Bill benefits" feature within the last 2 months? [participants that answer yes can be included in category 3]
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
@@ -130,27 +119,38 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research:
+*5/30-6/9
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+* Session length: 45 minutes-1 hour
+* Buffer time between sessions: 30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time
+* Maximum Sessions per day: 3-4 session per day
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
+5/30-6/2 - 9am-5pm ET
+6/5-6/9 - 9am-5pm ET
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 	
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
-
+**Primary Moderator POCs:**
+- Jim Adams, jim.adams@accenturefederal.com, +1 571-416-0779 
+- Jacob Buller,  jacob.l.buller@accenturefederal.com, +1 571-733-9205
+- Miya Furukawa, miya.s.furukawa@accenturefederal.com, +1 571-414-4160
+**Alternating Moderator Team Members: **
+- Alexander Ferzola, alexander.ferzola@accenturefederal.com, +1 571-733-9097
+- Joanna Yu, joanna.yu@accenturefederal.com, +1 571-390-6446
+- Mahey Anjum, mahey.anjum@accenturefederal.com, +1 571-336-6989
+- Kyle West, kyle.west@accenturefederal.com, +1 571-554-8240
+- Leila Nassar, l.nasser@accenturefederal.com, +1 571-325-0983
+- Brian Byrams, b.byrams@accenturefederal.com, +1 571-414-4013 
+- Dylan Glenn, dylan.glenn@accenturefederal.com, +1 571-399-8354
+- Sun Jun Lee, sun.ju.lee@accenturefederal.com, +1 571-429-7359
+**Research guide writing and task development:**
+- HCD Team
+**Participant recruiting & screening:**
+- Perigean
+- HCD Team
+**Project POC: **
+- Matthew Self matthew.self2@va.gov, Va.Gov Representative
+- Jacob Buller,  jacob.l.buller@accenturefederal.com, +1 571-733-9205
