@@ -51,7 +51,7 @@ TBD
 - Source: TBD
 
 **Key Result**
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+|Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)|
 |-------| --------- | --------- | --------- |
 |TBD| TBD | TBD | TBD |
 
@@ -60,7 +60,7 @@ TBD
 - Source: TBD
 
 **Key Result**
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+|Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)|
 |-------| --------- | --------- | --------- |
 |TBD| TBD | TBD | TBD |
 
@@ -69,7 +69,7 @@ TBD
 - Source: TBD
 
 **Key Result**
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+|Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)|
 |-------| --------- | --------- | --------- |
 |TBD| TBD | TBD | TBD |
 
