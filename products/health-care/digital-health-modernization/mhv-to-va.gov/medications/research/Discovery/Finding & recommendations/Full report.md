@@ -1,104 +1,64 @@
-MHV Medications on VA.gov Discovery Research Analysis 
+# MHV Medications on VA.gov Discovery Research Analysis 
 
-April 20, 2023 
+**Office of the CTO - Digital Experience (OCTO-DE), Health Apartment, Medications**
 
- 
+May 18, 2023 
 
- 
+## Team 
 
-Team 
+Jenny Wang [yizhen.wang@va.gov], Coulton Bunney [coulton.bunney@va.gov], Katherine Lawyer [katherine.lawyer@va.gov] 
 
-Jenny Wang, yizhen.wang@va.gov 
+## Table of contents 
+- [Research overview and goals](#research-overview-and-goals)
+- [Research key questions](#research-key-questions)
+- [Key findings](#key-findings)
+- [Additional findings ](#additional-findings)
+- [Recommendations](#recommendations)
+- [Appendix](#appendix)
+- [List of interviewees](#list-of-interviewees)
 
-Coulton Bunney, coulton.bunney@va.gov 
-
-Katherine Lawyer, katherine.lawyer@va.gov 
-
- 
-
-Table of contents 
-
-Research overview and goals 
-
-Research key questions 
-
-Findings 
-
-Additional findings 
-
-Recommendations 
-
-Appendix 
-
-List of interviewees 
-
- 
-
-Research overview and goals 
-
- 
+## Research overview and goals 
 
 Pharmacy is one of the four primary pieces of functionality within My HealtheVet (MHV) Liferay. As the va.gov Health portal team builds the Medications section of MHV of VA.gov, we wanted to understand what we can learn from the existing tools and what gap we need to fill. Today, Veterans and caregivers can digitally access and manage their medications from the Rx Refill app, MHV Liferay Pharmacy, VA Health and Benefits app, My VA Health Portal (Cerner only), Blue Button report, and Veteran pre-visit summary and after-visit summary. We seek to learn from these tools and understand the usability, medication functionality, and data requirements that will help our team improve the medication management experience and create a unified and Veteran-centric experience on VA.gov.  
 
 The purpose of this research was to:  
 
-Understand the requirements for displaying medication data.  
+- Understand the requirements for displaying medication data.  
+- Understand the importance of displaying medications and allergy information together. 
+- Understand medication functionality in MHV- Liferay, VA Health and Benefits app, and Rx Refill app. 
+- Understand the role of AVS and PVS play in Veterans’ medication management journey. 
+- Understand the dates associated with prescription and refill statuses. 
+- Understand how prescriptions are refilled, tracked, and renewed. 
+- Understand how VA defines a medication treatment plan, how they are used in patient care, and why they are important to Veterans and providers, specifically for medication management. 
 
-Understand the importance of displaying medications and allergy information together. 
+## Research key questions  
 
-Understand medication functionality in MHV- Liferay, VA Health and Benefits app, and Rx Refill app. 
+**Usability**  
 
-Understand the role of AVS and PVS play in Veterans’ medication management journey. 
+- How do Veterans manage their medications? 
+- How do Veterans interpret VA pharmacy terms on prescription dates and statuses?  
+- What actions Veterans do to refill and renew medications?  
 
-Understand the dates associated with prescription and refill statuses. 
+**Clinical** 
 
-Understand how prescriptions are refilled, tracked, and renewed. 
+- What are the different statuses and dates?  
+- What are the use cases for showing allergies with medications list?  
+- What is the process for medication renewal? 
 
-Understand how VA defines a medication treatment plan, how they are used in patient care, and why they are important to Veterans and providers, specifically for medication management. 
-
- 
-
-Research key questions  
-
- 
-
-Usability  
-
-How do Veterans manage their medications? 
-
-How do Veterans interpret VA pharmacy terms on prescription dates and statuses?  
-
-What actions Veterans do to refill and renew medications?  
-
-Clinical 
-
-What are the different statuses and dates?  
-
-What are the use cases for showing allergies with medications list?  
-
-What is the process for medication renewal? 
-
-Data 
+**Data** 
 
 What are the limitations of medication data from VistA? 
 
-Functionality  
+**Functionality**  
 
-What is the process for a Veteran to refill medications?  
+- What is the process for a Veteran to refill medications?  
+- What is the process for a Veteran to renew medications? 
+- What roles do treatment plan, PVS, and AVS play in Veterans’ medication management journey? 
+- VA medications vs. Other types of medications 
 
-What is the process for a Veteran to renew medications? 
+## Key findings 
 
-What roles do treatment plan, PVS, and AVS play in Veterans’ medication management journey? 
-
-VA medications vs. Other types of medications 
-
- 
-
-Findings 
-
- 
-
-Finding 1: It’s challenging and stressful to manage medications because patients need to pay attention to a lot of statuses and dates. These statuses and dates can sometimes be difficult to understand. 
+#### Finding 1: It’s challenging and stressful to manage medications because patients need to pay attention to a lot of statuses and dates. These statuses and dates can sometimes be difficult to understand. 
 
 On the medication management journey map, there are many touch points and tasks patients need to track to successfully manage their medications.  
 
