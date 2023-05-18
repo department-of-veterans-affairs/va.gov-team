@@ -107,7 +107,7 @@ Review accomplishments from prior sprint, what went well, what can be improved, 
 | 3 | Medium | ~3-4 days / ~24-48 hrs | Work is known, and can be completed in a couple days |
 | 5 | Large  | ~5 days / ~40 hrs | Work is known and can be completed in half a sprint | 
 | 8 | XLarge | ~6-8 days/ ~40-60 hrs | Work is complex and/or there might be unknown factors that need to be discussed prior to planning. Once further information is known, attempt to brake down into smaller tasks that can be completed in a sprint with certantity. |
-| 13 | XXLarge |  | Very complex, needs discovery or prototype before it can be planned for a sprint. |
+| 13 | XXLarge |  | Very complex, needs discovery or prototype before it can be planned for a sprint. If a story is estimated as 13, it should be broken down into smaller componenets. |
 
 #### Team Norms
 - Team crosses all US time zones so core business/meeting hours are 12-4PM ET.
