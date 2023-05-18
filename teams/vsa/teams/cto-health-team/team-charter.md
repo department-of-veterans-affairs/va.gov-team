@@ -51,7 +51,7 @@ Team Name - Cartographers
 ##### Zoom Stand-up 
 - M/W/F @ 12:00 PM ET
 - 15 min, with parking lot after if needed. Folks can drop off after stand up.
-- We sometimes opt to have a Slack-up if most of the team unavailable, and we cancel our ceremonies during PI planning.
+- We sometimes opt to have a Slack-up if most of the team unavailable
 - Parking lot immediately following to discuss non-stand up topics, problem solve, etc.
 
 <br/>
