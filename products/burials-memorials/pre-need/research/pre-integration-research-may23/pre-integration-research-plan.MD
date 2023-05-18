@@ -24,7 +24,7 @@ The goals of this user research are to:
     * What's working well for users and what are the pain points they're experiencing when applying for pre-need eligibility determination?
     * Why are most users applying through desktop devices, and how can we improve rates for mobile applications and successful submissions overall?
     * Since the majority of users are in the upper age brackets (35+ years old), what enhancements can we make to improve the application process for them?
-  * Understand if the pre-need application is confusing for users in the entering of their details, as information is collected for up to four people in the form (applicant, sponsor, preparer, decedents), and determine which enhancements could mitigate confusion and reduce form entry errors
+  * Understand if the pre-need application is confusing for users in the entering of their details, as information is collected for up to four people in the form (applicant, sponsor, preparer, previous decedents), and determine which enhancements could mitigate confusion and reduce form entry errors
     * Which areas of the pre-need application are potentially confusing for users, particularly in determining whose details they need to enter throughout the form?
     * Do they understand the difference between an Applicant, a Sponsor, a Previous Decedent, and a Preparer, and is it simple for them to determine in which sections of the form they need to provide these details?
     * Do they understand which option to select for the applicant's relationship to the service or Veteran (I am the service member or Veteran, Spouse or surviving spouse, Unmarried adult child, Other)?
