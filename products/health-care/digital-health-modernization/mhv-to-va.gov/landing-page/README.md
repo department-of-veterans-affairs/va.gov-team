@@ -89,11 +89,13 @@ On April 26, 2023, the rollout moved to Phase 2, and access was expanded to 10% 
 
 ## Team
 
-- Product Manager: Marci McGuire (Ad Hoc)
-- Research: Robyn Singleton
-- Design Lead: Jonathan Nelson (Ad Hoc)
-- Eng Lead: Daniel Cloud (Ad Hoc)
-- Engineers: Mark Dewey, Stephen Barrs, Eric Voshall (Ad Hoc)
+- OCTO PO: Patrick Bateman
+- Product Manager: Tom Anderson (Agile Six)
+- UX Design: Jonathan Nelson (Ad Hoc)
+- UX Design: Florence McCafferty (Agile Six)
+- Research: Cara Frissell (Ad Hoc)
+- Technical Architect: Carlos Felix (Agile Six)
+- Engineer: Eric Voshall (Ad Hoc)
    
 ## Screenshots
 
