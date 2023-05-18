@@ -44,7 +44,7 @@ Team Name - Cartographers
  - 2 week sprints (start every other Tuesday)
  - Quarterly plans broken down into sprint plans
  Sprint Schedule:
- | Sprint Number | Dates | 
+| Sprint Number | Dates | 
 |-|-|
 | 1 | 3/14/2023 - 3/20/2023 |
 | 2 | 3/21/2023 - 4/3/2023 |
