@@ -23,13 +23,16 @@ Reduce the time it takes for a Veteran to achieve an outcome through self-servic
 
 ## Who we are
 CTO Health Team
+Team Name - Cartographers
 - [ ] Lauren Alexanderson (OCTO Product Sponsor) - please work with [Alicia Proctor](https://dsva.slack.com/team/U022MUJ2NAJ), Lauren's executive assistant to schedule meetings.
-- [ ] Leila Rassi (OCTO Product Lead)
+- [ ] Patrick Bateman (OCTO Product Lead)
 - [ ] Lynne Johnson (Delivery Manager)
+- [ ] Tom Anderson (Product Manager)
 - [ ] Cara Frissell (Research Lead)
+- [ ] Florence McCafferty (Design Lead)
 - [ ] Jonathan Nelson (Designer)
+- [ ] Keith Cheung (Designer)
 - [ ] Carlos Felix (Technical Architect)
-- [ ] Daniel Cloud (Engineering lead)
 - [ ] Eric Voshall (Full stack developer)
 - [ ] Angela Fowler (Accessibilty Specialist)
 
@@ -38,15 +41,44 @@ CTO Health Team
 ## How we work
 
 ### Workflow + Cadence
- - 2 week sprints (start every other Wednesday)
+ - 2 week sprints (start every other Tuesday)
  - Quarterly plans broken down into sprint plans
-
+ Sprint Schedule:
+ | Sprint Number | Dates | 
+|-|-|
+| 1 | 3/14/2023 - 3/20/2023 |
+| 2 | 3/21/2023 - 4/3/2023 |
+| 3 | 4/4/2023 - 4/17/2023 |
+| 4 | 4/18/2023 - 5/1/2023 |
+| 5 | 5/2/2023 - 5/22/2023 |
+| 6 | 5/23/2023 - 6/5/2023 |
+| 7 | 6/6/2023 - 6/19/2023 |
+| 8 | 6/20/2023 - 7/3/2023|
+| 9 | 7/4/2023 - 7/17/2023 |
+| 10 | 7/18/2023 - 7/31/223 |
+| 11 | 8/1/2023 - 8/14/2023 |
+| 12 | 8/15/223 - 8/28/2023 |
+| 13 | 8/29/2023 - 9/11/2023 |
+| 14 | 9/12/2023 - 9/25/2023 |
+| 15 | 9/26/2023 - 10/9/2023 |
+| 16 | 10/10/2023 - 10/23/2023 |
+| 17 | 10/24/2023 - 11/6/2023 |
+| 18 | 11/7/2023 - 11/20/2023 |
+| 19 | 11/21/2023 - 12/4/2023 |
+| 20 | 12/5/2023 - 12/18/2023 |
+| 21 | 12/19/2023 - 1/1/2024 |
+| 22 | 1/2/2024 - 1/15/2024 |
+| 23 | 1/16/2024 - 1/29/2024 |
+| 24 | 1/30/2024 - 2/12/2024 |
+| 25 | 2/13/2024 - 2/26/2024 |
+| 26 | 2/27/2024 - 3/13/2024 |
+ 
 #### Stand-up
 - Check in on people and product progress
 - 3 Question Format: What I did yesterday? What will I do today? Any blockers?
 
 ##### Zoom Stand-up 
-- TU,W,F @ 3:30 PM ET
+- M/W/F @ 3:30 PM ET
 - 15 min 
 - We sometimes opt to have a Slack-up if most of the team unavailable, and we cancel our ceremonies during PI planning.
 - Parking lot immediately following to discuss non-stand up topics, problem solve, etc.
