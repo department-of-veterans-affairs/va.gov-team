@@ -25,9 +25,9 @@ Shows user a list of discrete pieces of information within a particular data dom
 - [ ] As a Veteran, I can load pages of results one at a time in a peformant way (i.e. we need to support server-side pagination)
 - [ ] As a Veteran, I can filter all pages within the list view by type, provider, location, and date
 - [ ] As a Veteran, I can search across all pages within the list view by name, type, provider, location, and date  
-  
-  
-![Lab and test results](https://github.com/department-of-veterans-affairs/va.gov-team/assets/87662120/9e230934-6a16-4a4b-a066-f9288969aab8)
+
+![Lab and test results - Mobile](https://github.com/department-of-veterans-affairs/va.gov-team/assets/87662120/36c3bedd-4ae7-400f-8d48-92851269fbaa)
+
 
 ### Details view
 Shows user all of the data fields for . For example, a list of lab results, a list of clinical notes, or a list of vaccines. 
