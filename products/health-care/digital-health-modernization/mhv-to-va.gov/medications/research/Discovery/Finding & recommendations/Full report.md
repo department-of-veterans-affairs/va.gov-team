@@ -361,13 +361,13 @@ There are no recommendations for Finding 9, 10, and 11 because they are already 
 
 ## Appendix  
 
-- Research plan 
-- Conversation guides 
-- Interview transcripts 
-- Medication management journey map  
-- Prescription progress flow with statuses and dates 
-- MHV Pharmacy, VA Health and Benefits App, and Rx Refill App Comparison Analysis 
-- VHA Directive 1164 
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/Discovery/2023-03_Informational%20Interviews/Research%20Plan.md)
+- [Conversation guides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/Discovery/2023-03_Informational%20Interviews/Conversation%20Guide%20-%20Clinical%20Focus.md)
+- [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/pharmacy/2023-03-Informational-interviews)
+- [Medication management journey map](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1679693697878?sender=ueeece9e244394145c84e5173&key=3296fad9-122c-45ac-99ae-a7f3d3d66a7e)  
+- [Prescription progress flow with statuses and dates](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1679693697878?sender=ueeece9e244394145c84e5173&key=3296fad9-122c-45ac-99ae-a7f3d3d66a7e)
+- [MHV Pharmacy, VA Health and Benefits App, and Rx Refill App Comparison Analysis](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1679595074027?sender=ueeece9e244394145c84e5173&key=d72ee471-eb94-466a-b8cb-6936e3f55e63) 
+- [VHA Directive 1164](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/Discovery/VHA%20Directive%201164.md) 
 
 ## List of interviewees 
 
