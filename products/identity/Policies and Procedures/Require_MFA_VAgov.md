@@ -11,7 +11,7 @@ Fraudulent Direct Deposit account changes on VA.gov are on the rise at VA. In an
 
 ## Policy
 
-All bank account (direct deposit) detail modifications within the VA.gov domain must utilize a multi-factor required verified ID.me or Login.gov account. Services which provide the option to modify bank account details must also confirm multi-factor was successfully entered by the current user during the session in which the account changes are being requested.
+All bank account (direct deposit) detail modifications within the VA.gov domain must utilize a multi-factor required verified ID.me or Login.gov account. Services which provide the option to modify bank account details must also confirm multi-factor was successfully entered by the current user during the session in which the account changes are being requested. Modifications on a bank account must be performed by a user that is directly authenticated, modifications cannot be made on behalf of another user.
 
 ## Execution
 
