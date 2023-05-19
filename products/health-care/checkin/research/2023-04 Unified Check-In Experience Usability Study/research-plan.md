@@ -57,14 +57,14 @@ The purpose of this research is to **get feedback from Veterans on the new unifi
 
 #### Primary Questions 
 
-1. Do Veterans find it confusing that confirming an appointment is a two step process?  
-1. How easy or difficult is it to understand that you still need to complete the online check in process even if you’ve confirmed the appointment a few days prior?  
-1. How easy or difficult is it to check in to an appointment? 
+1. Do Veterans find the day before appointment reminder and pre-check-in notifications confusing?
+1. How easy or difficult is it for Veterans to understand that you still need to complete the online check-in process even if you’ve completed the pre-check-in process a few days before?  
+1. How easy or difficult is it for Veterans to check in to an appointment? 
 1. Do Veterans think the check in confirmation page provides enough information about the status of their check in and what to do next?
-1. How easy or difficult is it to understand if other upcoming appointments require attention? For example, another appointment needs to be confirmed or checked into. 
-1. How easy or difficult is it to understand the difference between confirming an appointment and checking in to an appointment?
-1. Do Veterans find it useful or not to view the rest of their upcoming appointments when confirming or checking into one of their appointments? 
-1. Would Veterans find it helpful to receive a text message 45 minutes before each of their appointments with instructions on how to check in on their smartphone? 
+1. How easy or difficult is it for Veterans to understand if their other upcoming appointments have tasks to complete? For example, another appointment needs to complete pre-check-in or can initiate a check-in. 
+1. How easy or difficult is it for Veterans to understand the difference between the pre-check-in process and checking in to an appointment? 
+1. Do Veterans find it helpful to be able to review all of their other upcoming appointments during the pre-check-in and check-in processes?
+1. Would Veterans find it helpful to receive a text message 45 minutes before each of their appointments with instructions on how to check in? 
 
 #### Secondary Questions 
 
@@ -75,21 +75,21 @@ The purpose of this research is to **get feedback from Veterans on the new unifi
 
 #### Primary Questions 
 
-1. Do Veterans find it confusing that confirming an appointment is a two step process?  
-     - LIKELY FALSE: Most Veterans will find the two step process easy to understand. 
-2. How easy or difficult is it to understand that you still need to complete the online check in process even if you’ve confirmed the appointment a few days prior? 
-     - MAYBE TRUE: Some Veterans will understand that confirming an appointment does not replace checking in to an appointment and they will recommend making that distinction more clear at the completion of confirming an appointment. 
+1. Do Veterans find the day before appointment reminder and pre-check-in notifications confusing?
+     - LIKELY FALSE: Most Veterans will find the notifications easy to understand.  
+2. How easy or difficult is it for Veterans to understand that you still need to complete the online check-in process even if you’ve completed the pre-check-in process a few days before? 
+     - MAYBE TRUE: Some Veterans will understand that completing the pre-check-in process does not replace checking in to an appointment, and, therefore, they will recommend making that more clear at the completion of pre-check-in. 
 3. How easy or difficult is it to check in to an appointment? 
      - DEFINITELY TRUE: Veterans will think the process for checking in to an appointment is easy. 
 4. Do Veterans think the check in confirmation page provides enough information about the status of their check in and what to do next?
-     - DEFINITELY TRUE: Veterans will think the information on the confirmation page when checking in to an appointment is well organized and prioritized. 
-5. How easy or difficult is it to understand if other upcoming appointments require attention? For example, another appointment needs to be confirmed or checked into. 
-     - LIKELY TRUE: Most Veterans will find it easy to understand that other upcoming appointments require attention, but might recommend highlighting those tasks even more in the appointment list to draw their attention. 
-6. How easy or difficult is it to understand the difference between confirming an appointment and checking in to an appointment?
-     - LIKELY TRUE: Most Veterans will understand the difference between confirming an appointment and checking in to an appointment. 
-7. Do Veterans find it useful or not to view the rest of their upcoming appointments when confirming or checking into one of their appointments? 
-     - LIKELY TRUE: Veterans will like seeing all of their upcoming appointments in one place, even if it’s within the context of needing to confirm their appointment or check in to an appointment. 
-8. Would Veterans find it helpful to receive a text message 45 minutes before each of their appointments with instructions on how to check in on their smartphone?
+     - DEFINITELY TRUE: Veterans will think the information on the check in confirmation page is well organized and prioritized. 
+5. How easy or difficult is it for Veterans to understand if their other upcoming appointments have tasks to complete? For example, another appointment needs to complete pre-check-in or can initiate a check-in. 
+     - LIKELY TRUE: Most Veterans will find it easy to understand that their other upcoming appointments have tasks to complete, but might recommend highlighting those tasks better in the appointment list. 
+6. How easy or difficult is it for Veterans to understand the difference between the pre-check-in process and checking in to an appointment?
+     - LIKELY TRUE: Most Veterans will understand the difference between the pre-check-in process and checking in to an appointment. 
+7. Do Veterans find it helpful to be able to review all of their other upcoming appointments during the pre-check-in and check-in processes? 
+     - LIKELY TRUE: Veterans will like seeing all of their other upcoming appointments in one place, even if it’s within the context of completing the pre-check-in and check-in processes. 
+8. Would Veterans find it helpful to receive a text message 45 minutes before each of their appointments with instructions on how to check in?
      - DEFINITELY TRUE: Veterans will prefer receiving a text message 45 minutes before each of their appointments compared to scanning a poster at the clinics.  
 
 #### Secondary Questions 
