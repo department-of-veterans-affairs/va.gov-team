@@ -46,19 +46,28 @@ You’ll need to [file a Supplemental Claim](https://www.va.gov/decision-reviews
 
 2. Decide how you want to apply 
 
-This digital form was designed to help you complete the form efficiently. You will be able to answer the questions relevant to you, upload digital documents, save your progress, and track the status of your claim after submission. The time it takes to complete this will depend on the number of conditions you are claiming and the number of documents that you upload. You can save and come back to the application at any time.
+We’ll take you through each step of the process online. You will be able to answer the questions relevant to you, upload digital documents, and save your work in progress. The time it takes you to complete your application depends on how many conditions you’re claiming and how many documents you need to upload.
 
-You may wish to [contact an accredited veterans service officer (VSO)](https://www.va.gov/ogc/recognizedvsos.asp) to assist you with your application. If you need further assistance with the application process, you may also [contact your state office of veterans affairs](https://www.va.gov/statedva.htm). 
+You may choose to [contact an accredited veterans service officer (VSO)](https://www.va.gov/ogc/recognizedvsos.asp) to assist you with your application. If you need further assistance with the application process, you may also [contact your state office of veterans affairs](https://www.va.gov/statedva.htm). 
 
 [Learn about other ways you can file a disability claim](https://www.va.gov/disability/how-to-file-claim/)
 
 3. Gather information
 
-Your disability compensation will be determined based on the nature and symptoms of the condition, severity and duration of the symptoms, and the impact of the condition and symptoms on your employment. 
+We'll determine your disability compensation based on:
+- the nature and symptoms of the condition(s) you claim, 
+- severity and duration of the symptoms, **and**
+- the impact of the condition and symptoms on your employment
 
-While processing your claim we will review relevant medical records that you identify and authorize us to (you can give us this permission when you file here). These may include records from Federal facilities such as VA medical centers, State or local government facilities, and/or private doctors or hospitals. In some cases if we need additional documentation we may also ask you to have an exam to help us rate your disability.
+We'll review relevant medical records from VA medical centers and from private doctors or hospitals that you identify and authorize us to. We may also ask you to complete an exam.
 
-We strongly encourage you to submit documentation with your application to help us understand how your injury or illness is connected to your service, and how the condition impacts you and your ability to work. If we previously granted you benefits, and your condition has worsened, we need documentation that shows that increase in severity and the effect that worsening has had on you and your ability to work.
+We strongly encourage you to submit documentation to help us understand 
+- how your injury or illness is connected to your service, **and** 
+- how the condition impacts you and your ability to work. 
+
+If we previously granted you benefits and your condition has worsened, we need documentation that shows
+- the increase in severity **and** 
+- the effect that has had on you and your ability to work.
 
 To support your claim, you can upload documentation such as:
 - **VA medical records and hospital records.** These could relate to your claimed illnesses or injuries or they could show that your rated disability has gotten worse.
@@ -76,25 +85,25 @@ To support your claim, you can upload documentation such as:
 > 
 > After you file your claim, you’ll need to be available for 45 days after your claim is submitted to complete an exam. [Learn more about Benefits Delivery at Discharge (BDD)](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/).
 
-If you apply here online, you will be able to include in your application the necessary forms for if you are:
-- Authorizing the release of your medical records to VA 
-- Claiming posttraumatic stress disorder (PTSD), including based on a personal assault
-- Claiming Individual Unemployability
-
-In addition to asking you to provide information about your condition, we will also ask you about your service and other types of pay you may be receiving (retired, separation, and/or disability severance pay).
+If you apply here online, we'll also include in your application the additional forms we'll need if:
+- You're claiming posttraumatic stress disorder (PTSD)
+- You're authorizing us to request private medical records
+- You can't work because of a disability related to your service (this is called Individual Unemployability)
 
 4. Apply
 
-**Note:** When you start your application online now, you’ll declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You have 1 year from the day you submit your intent to file to complete your application. After 1 year, you’ll have to start a new application and your potential effective date will be reset.
+We’ll take you through each step of the process.
 
-After you submit your claim here you will see a confirmation page. You will not get another notification (by email or mail, for example).
+**Note:** When you start your application online now, you’ll declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You have 1 year from the day you submit your intent to file to complete your application. After 1 year, you’ll have to start a new application and we'll have to reset your potential effective date.
 
-We’ll contact you by phone or letter if we need additional forms or information to support your claim. Be sure to open any letters from the VA while your claim is being worked on.
+After you submit your claim here, you'll see a confirmation page. We won't send you another notification or receipt.
 
-If you want to submit additional documentation after you submit your claim, you have up to one year to do so. However, we may decide your claim before the end of that one year period, in which case we may request you submit a new application. [Learn more about uploading evidence documents to support disability claims.](https://www.va.gov/disability/upload-supporting-evidence/)
+We process applications in the order we receive them. We’ll contact you by phone or letter if we need additional forms or information to support your claim. Please open and respond to any letters you receive from us.
+
+You'll have up to 1 year after you submit your claim to submit additional documents. If we decide your claim before the end of that year, we might request that you submit a new application. [Learn more about uploading evidence documents to support disability claims.](https://www.va.gov/disability/upload-supporting-evidence/)
 
 >Do I need to submit any additional forms?
->You may consider separately submitting other forms if you wish to claim:
+>You may also submit additional forms to support your disability claim if you’re claiming any of these: 
 >- Specially Adapted Housing or a Special Home Adaptation
 >- Auto allowance
 >- Auto adaptive-equipment grant
@@ -102,7 +111,7 @@ If you want to submit additional documentation after you submit your claim, you 
 >- Additional benefits because you or your spouse needs Aid and Attendance
 >- Dependents
 >
->[Learn more about these forms and how to complete them.](https://www.va.gov/disability/how-to-file-claim/additional-forms/)
+>[Get additional forms.](https://www.va.gov/disability/how-to-file-claim/additional-forms/)
 
 
 > **Sign in to start or save your work in progress**
@@ -135,7 +144,7 @@ No
 ## Service end date content: [if yes to active duty]
 
 When will you separate from active duty? 
-**Note:** This may be a different date from when you're released from your contract or when your service obligation ends.
+**Note:** This could be a different date from when you're released from your contract or when your service obligation ends.
 
 Month:
 
