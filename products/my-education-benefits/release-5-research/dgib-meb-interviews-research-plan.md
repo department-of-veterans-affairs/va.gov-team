@@ -76,7 +76,7 @@ Before writing your recruitment criteria, be sure to review the following resour
 Our intended audience for this research is for Veterans and their spouse or child who has applied for the Transfer of Entitlement application (Authenticated form 22-1990e) and have used Online Enrollment Verification and Download Education Letters features. We plan to use Perigean to support our recruitment effort using a lean maximum variation strategy. 
 
 ### Recruitment criteria
-We'd like to conduct 10 feedback sessions with Veterans and their spouse or child and would ask to recruit 15 participants. 
+We'd like to conduct 10 feedback sessions with Veterans and their spouse or child and would ask to recruit 15-20 participants in case there are no-shows. 
 
 **Primary criteria (must-haves)**
 
@@ -129,8 +129,6 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ### Availability
 5/30-6/2 - 9am-5pm ET
 6/5-6/9 - 9am-5pm ET
-
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 	
 ## Team Roles	
 **Primary Moderator POCs:**
