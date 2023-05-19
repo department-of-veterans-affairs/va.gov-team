@@ -37,12 +37,12 @@ Make sure you meet our eligibility requirements before you apply. You may be eli
 
 [Learn more about eligibility for VA disability benefits](https://www.va.gov/disability/eligibility/)
 
-You’ll need to [file a Supplemental Claim](https://www.va.gov/decision-reviews/supplemental-claim/) **instead of this from** if either of these is true:
-- We decided your claim in the past and you have new and relevant evidence, **or**
+You’ll need to [file a Supplemental Claim](https://www.va.gov/decision-reviews/supplemental-claim/) **instead** of this form if either of these is true:
+- We decided your claim in the past and you have documentation you didn’t submit to us in the past (or identify for us to gather) that proves or disproves something in your claim
 - You’re requesting a review of your claim based on a change in law (such as the PACT Act)
 
 >Have you been granted benefits already? 
->If you have already been granted benefits, and are filing a claim because your condition has worsened (this is called a claim for increase), you might want to check to see if you’re already receiving the maximum disability rating for your condition. You can do this by signing in and [viewing your claim letters](https://staging.va.gov/track-claims/your-claim-letters).
+>If you have already been granted benefits, and are filing a claim because your condition has worsened (this is called a claim for increase), you might want to first check to see if you’re already receiving the maximum disability rating for your condition. You can do this by signing in and [viewing your claim letters](https://staging.va.gov/track-claims/your-claim-letters).
 
 2. Decide how you want to apply 
 
@@ -67,7 +67,7 @@ To support your claim, you can upload documentation such as:
 
 > **Are you currently on active duty as a service member?**
 > 
-> If you’re a service member on full-time active duty, this is the right form for you if both of these are true:
+> If you’re a service member on active duty, this is the right form for you if both of these are true:
 > - You have an illness or injury that was caused or made worse by your active-duty service, **and** 
 > - Your separation date is in the next 90 to 180 days
 > You can use this form to file a claim for disability benefits through the Benefits Delivery at Discharge (BDD) program.
@@ -156,7 +156,7 @@ Year:
 > 
 > You have x days left (until x) to apply for benefits under the BDD program.
 > 
-> After this date, you can still apply for benefits using VA Form 21-526EZ. We encourage you to start filling out this application as soon as you can to declare your intent to file. This reserves a potential effective date for when you could start getting benefits. You have 1 year from the date you submit your intent to file to complete your application.
+> After this date, you can still apply for benefits using VA Form 21-526EZ (though you will not be in the BDD program). We encourage you to start filling out this application as soon as you can to declare your intent to file. This reserves a potential effective date for when you could start getting benefits. You have 1 year from the date you submit your intent to file to complete your application.
 > 
 > Select ‘continue’ to apply now.
 >
@@ -170,4 +170,4 @@ Year:
 > 
 > In x days (on x), you can apply for benefits. You will then have x days (until x) to apply for benefits under the BDD program.[Learn more about the BDD program](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/)
 > 
-> After x, you can still apply for benefits using VA Form 21-526EZ. We encourage you to start filling out this application as soon as you can to declare your intent to file. This reserves a potential effective date for when you could start getting benefits. You have 1 year from the date you submit your intent to file to complete your application.
+> After x, you can still apply for benefits using VA Form 21-526EZ (though you will not be in the BDD program). We encourage you to start filling out this application as soon as you can to declare your intent to file. This reserves a potential effective date for when you could start getting benefits. You have 1 year from the date you submit your intent to file to complete your application.
