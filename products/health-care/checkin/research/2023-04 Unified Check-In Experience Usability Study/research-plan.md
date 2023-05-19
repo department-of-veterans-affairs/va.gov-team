@@ -19,7 +19,7 @@ Check-in enables Veterans with appointments to:
 
 ![unnamed](https://user-images.githubusercontent.com/101129355/229234341-a6690fdb-b135-4c4b-b18f-d5d54ee31086.png)
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product).  
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product)  
 
 ### Creating a Unified Check-In Experience 
 
