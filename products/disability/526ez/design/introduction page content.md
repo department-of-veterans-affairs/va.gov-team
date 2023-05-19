@@ -59,7 +59,7 @@ We'll determine your disability compensation based on:
 - severity and duration of the symptoms, **and**
 - the impact of the condition and symptoms on your employment
 
-We'll review relevant medical records from VA medical centers and from private doctors or hospitals that you identify and authorize us to. We may also ask you to complete an exam.
+We'll review relevant medical records from VA medical centers and from private doctors or hospitals that you identify and authorize us to. We might also ask you to complete an exam.
 
 We strongly encourage you to submit documentation to help us understand 
 - how your injury or illness is connected to your service, **and** 
