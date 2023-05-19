@@ -8,3 +8,4 @@
 
 ## User Research Resources:
 * [Review of Related User Research: VA Mobile App - Claims Status Tool](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/claims/research%20review%20-%20claims%20status%20tool.md)
+* [[DRAFT] VA Mobile app - Claims - Discovery, user story & Success metrics digging](https://docs.google.com/spreadsheets/d/1df20jI1sMyC4un-99vyIBDr1BThzgbzjJbUY9l9MQRE/edit#gid=1695639013)
