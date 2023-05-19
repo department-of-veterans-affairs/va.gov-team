@@ -23,12 +23,12 @@ Veterans will be directed to the following web page at the end of the check-in u
 
 ## SMS Messages
 
-[Download text messages](https://github.com/department-of-veterans-affairs/va.gov-team/files/11443083/SMS.Messages.for.Travel.Reimbursement.Claims.docx)
+[Download text messages](https://github.com/department-of-veterans-affairs/va.gov-team/files/11518194/SMS.Messages.for.Travel.Reimbursement.Claims.1.docx)
 
 - Success response
      - We received your travel pay claim for {{ DATE }}. Your claim number is {{ CLAIM NUMBER }}. Check your claim status at https://va.gov/accessva-travel-claim
 - Claim already exists in BTSSS 
      - You already filed a travel pay claim for your appointment on {{ DATE }}. Check your claim status at https://va.gov/accessva-travel-claim 
 - There was a system error  
-     - We’re sorry. We couldn’t process your travel pay claim. File your claim online within 30 days at https://va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/ 
+     - We’re sorry. We couldn’t process your travel pay claim. File your claim online within 30 days at https://www.va.gov/health-care/get-reimbursed-for-travel-pay
 
