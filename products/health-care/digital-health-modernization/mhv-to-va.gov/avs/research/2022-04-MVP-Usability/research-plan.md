@@ -137,7 +137,7 @@ When ready, fill out that ticket with the following information:
 ### Availability
 | Team Availability |  Time Slots (ET) |
 | ----------- | ----------- |
-|June 1, 2023  | 9:00 a.m - 10:00 a.m.  (last session can start at 10:00 a.m.), and 12:00-2:30 p.m. (last session can start at 2:30 p.m.) |
+|June 1, 2023  | 9:00 a.m. - 10:00 a.m.  (last session can start at 10:00 a.m.), and 12:00 p.m. - 2:30 p.m. (last session can start at 2:30 p.m.) |
 |June 2, 2023  | 9:00 a.m. - 12:00 p.m. (last session can start at 12:00 p.m.), and 3:30 p.m. - 4:00 p.m. (last session can start at 4:00 p.m.)   |
 |June 5, 2023  | 9:30 a.m. - 10:00 a.m. (last session at can start at 10:00 a.m.), and 1:30 p.m. (last session can start at 1:30 p.m.)  |
 |June 6, 2023  | 9:15 a.m. - 10:00 a.m. (last session session can start at 10:00 a.m.), and 2:30 p.m. (last session can start at 2:30 p.m.)    |
