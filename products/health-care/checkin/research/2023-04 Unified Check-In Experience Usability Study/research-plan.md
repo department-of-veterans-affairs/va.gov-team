@@ -136,7 +136,7 @@ Maximum sessions per day:
 
 ## Team Roles
 
-Moderator: Ben Brasso </br>
+Moderator: Ben Brasso ([ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)) </br>
 Research guide writing and task development: Ben Brasso, Christina Gednalske</br>
 Participant recruiting & screening: Perigean </br>
 Project point of contact: Ben Brasso</br>
@@ -147,8 +147,8 @@ Observers:
 - Stephen Barrs
 - Patrick Bateman
 - Kristen McConnell
-- Mark Dewey
-- Lori Pusey
+- Mark Dewey ([mark.dewey@va.gov](mailto:mark.dewey@va.gov))
+- Lori Pusey ([lori.pusey@agile6.com](mailto:lori.pusey@agile6.com))
 - Sarah Knopp
 - Zach Park
 - Ya-ching Tsao
@@ -158,5 +158,6 @@ Observers:
 - Gaurav Gupta
 - Kanchana Suriyamoorthy
 - John Woolschlager
+- Christina Gednalske ([christina.gednalske@adhocteam.us](mailto:christina.gednalske@adhocteam.us))
 
 
