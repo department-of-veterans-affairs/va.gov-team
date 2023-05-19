@@ -35,7 +35,7 @@ To mitigate these concerns, the Modernized Check-In Experience Team has decided 
 
 In this scenario, when Veterans access the new PCI web app, an appointment card component will be used to highlight the upcoming appointment that requires immediate attention. For example, the appointment needs to be confirmed or checked into.
 
-In addition, we will start showing Veterans all of their upcoming appointments as a solution for making their health appointment information more accessible, creating better consistency between digital touchpoints across VA that provide health appointment information and enabling them to complete other related actions during a single interaction. 
+In addition, we will start showing Veterans all of their upcoming appointments as a solution for making their health appointment information more accessible, creating better consistency between digital touchpoints across VA and enabling them to complete other related actions during a single interaction. 
 
 ### OCTO Objectives 
 
