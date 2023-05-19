@@ -37,7 +37,7 @@ In early 2Q 2023, the decision was made by OCTO to separate out the VAMC user ba
 </br>
 
 ## Measuring Success
-- [DataDog Dhasboard of Outdated Content Over Time] (https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-b669341fc85c8445c4580d908aff923a?from_ts=1681926683195&to_ts=1684518683195&live=true)
+- [DataDog Dhasboard of Outdated Content Over Time](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-b669341fc85c8445c4580d908aff923a?from_ts=1681926683195&to_ts=1684518683195&live=true)
 
 ## UX Research Artifacts
 - [VA Directive 6102 Compliance Discovery](https://app.mural.co/t/vagov6717/m/vagov6717/1662643881820/ad0f6da63dba4998516450701abca6ec1944ec74?sender=ud7d3055567694e54f0133356)
