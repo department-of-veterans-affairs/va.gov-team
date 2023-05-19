@@ -1,7 +1,7 @@
 # EVSS to Lighthouse Claim Status End Point Migration Release Plan
 ## Phase I: Internal Testing and UAT
 ### Planning: 
-Desired date range or test duration: 1/18-2/7 
+Desired date range or test duration: 5/18-5/25 
 Desired number of users: 4  
 How you'll recruit the right production test users: We’ll be using personal and professional networks to recruit production test users.  
 How you'll conduct the testing: Live, virtual sessions, giving users assigned tasks to test use cases.  
@@ -15,6 +15,7 @@ How you'll give the test users access to the product in production w/o making it
 - Sentry Errors: 0
 - Unsuccessful test cases: 0
 - Unsuccessful fixture tests: 0
+- Call center complaints: 0
 
 ### Results:  
 - Number of users:   
@@ -26,7 +27,9 @@ How you'll give the test users access to the product in production w/o making it
 How will you make the product available in production while limiting the number of users who can find/access it: feature toggle  
 What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:  
 
- - Zero errors logged in Sentry    
+ - Zero errors logged in Sentry
+ - All functional QA tests passed
+ - All end-to-end and unit tests pass     
   
 Links to dashboard(s) showing "success criteria" metrics: <a href = "https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Claims%20API%20Migration%20to%20Lighthouse%20Initiative.md">Lighthouse Migration Initiative</a>  
 
@@ -36,13 +39,15 @@ Length of time: 2 days
 Percentage of Users (and roughly how many users do you expect this to be): 1%
 #### Results:  
 - Sentry Errors
+- Call center complaints
 
 ### Stage B: moderate  
 #### Planning  
 Length of time: 2 days  
 Percentage of Users (and roughly how many users do you expect this to be): 25% 
 #### Results:  
-- Sentry Errors  
+- Sentry Errors
+- Call Center Complaints 
 What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges? 
 ### Stage C: High 
 #### Planning  
@@ -65,7 +70,8 @@ Desired date: 1/11/2023
 ### KPIs  
 
 - Sentry Errors: 
-- Application Latency: 
+- Application Latency:
+- Call center complaints:
 
 
 ## Post-launch Questions  
