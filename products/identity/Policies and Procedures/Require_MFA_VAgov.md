@@ -22,6 +22,12 @@ data.attributes.profile.multifactor=true AND
 data.attributes.profile.loa.current=3 AND
 data.attributes.profile.signIn.serviceName=(logingov OR idme)
 ```
+For backend (vets-api) only services they must conform to the following attributes:
+```ruby
+user.multifactor = true AND
+user.loa3? = true AND
+user.sign_in.service_name = ( 'logingov' OR 'idme')
+```
 
 If these conditions are not met then the service must not allow for the submission or request to be forwarded to the downstream service which consumes the bank account changes.
 
