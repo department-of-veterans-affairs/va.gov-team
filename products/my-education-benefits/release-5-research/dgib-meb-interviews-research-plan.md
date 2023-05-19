@@ -62,7 +62,7 @@ If remote, include your preferred video conferencing software. Choice of: Zoom
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated interviews:
-- [Link to conversation guide]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/release-5-research/dgib-meb-interview-research-conversation-guide.md)) 
+- Conversation guide: (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/release-5-research/dgib-meb-interview-research-conversation-guide.md) 
 	
 ## Recruitment	
 
