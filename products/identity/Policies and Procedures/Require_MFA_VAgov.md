@@ -25,7 +25,13 @@ data.attributes.profile.signIn.serviceName=(logingov OR idme)
 
 If these conditions are not met then the service must not allow for the submission or request to be forwarded to the downstream service which consumes the bank account changes.
 
-In order to ensure continued access to modify bank account details users which do not currently meet the requirements of a verified ID.me or Login.gov account with required multi-factor authentication, the service must display content which explains why the current account does not meet the requirements of VA. The service must also present the user with a path to create either of the currently approved  verified ID.me or Login.gov accounts with required multi-factor authentication.
+In order to ensure continued access to modify bank account details, users who do not currently meet the requirements: 
+
+1.) a verified ID.me or Login.gov account `AND`
+
+2.) multi-factor authentication enabled, must be shown content that explains why their current account does not meet the requirements of VA. 
+
+The service must also provide the user with a path to meet the VA’s requirements by creating a verified account with [ID.me](http://id.me/) or [Login.gov](http://login.gov/) accounts AND setting up the verified account with multi-factor authentication.
 
 ## Renewal Instructions
 
