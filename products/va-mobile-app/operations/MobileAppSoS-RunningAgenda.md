@@ -27,7 +27,7 @@
 | [VIC](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Kelly | PRE-DISCOVERY |
 | [Call Center Hand-off](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Call_Center_Integration/Call_Center_Integration.md)| Kelly | PRE-DISCOVERY |
 | [OKR Development](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Greta | Green |
-| [Mobile App Promo Banner]((https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5141) | Adam / Greta | Pre-Discovery |
+| [Mobile App Promo Banner](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5141) | Adam / Greta | Pre-Discovery |
 | [Backend Initiatives](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5140) | Jayson | Ongoing | 
 | [Frontend Initiatives](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5139) | Binny | Ongoing |
 | [UX Initiatives](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/issues/5187) | Jen | Ongoing |
