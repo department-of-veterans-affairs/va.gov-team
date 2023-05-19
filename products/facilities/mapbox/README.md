@@ -21,7 +21,7 @@ So, the process by which the keys are fetched from AWS Parameter Store and ultim
 1. Fetch from AWS Parameter Store in required workflows (e.g. [continuous-integration](https://github.com/department-of-veterans-affairs/vets-website/blob/8de1ed2fa5b6a462323c2c482e6e2115ac666556/.github/workflows/continuous-integration.yml#L61), [e2e-tests](https://github.com/department-of-veterans-affairs/vets-website/blob/8de1ed2fa5b6a462323c2c482e6e2115ac666556/.github/workflows/e2e-tests.yml#L104))
 ```
       - name: Get Mapbox Token
-        uses: marvinpinto/action-inject-ssm-secrets@v1.2.1
+        uses: department-of-veterans-affairs/action-inject-ssm-secrets@d8e6de3bde4dd728c9d732baef58b3c854b8c4bb # latest
         with:
           ssm_parameter: /dsva-vagov/vets-website/dev/mapbox_token
           env_variable_name: MAPBOX_TOKEN

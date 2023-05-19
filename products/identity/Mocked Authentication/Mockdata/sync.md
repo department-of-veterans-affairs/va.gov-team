@@ -14,7 +14,7 @@ The key is stored in parameter store -  `/dsva-vagov/vets-api/staging/mockdata_s
 
 #### Inject the api_key into the workflow:
 ```yml
-- uses: marvinpinto/action-inject-ssm-secrets@v1.1.1
+- uses: department-of-veterans-affairs/action-inject-ssm-secrets@d8e6de3bde4dd728c9d732baef58b3c854b8c4bb # latest
   with:
     ssm_parameter: /dsva-vagov/vets-api/staging/mockdata_sync_api_key
     env_variable_name: MOCKDATA_API_KEY
