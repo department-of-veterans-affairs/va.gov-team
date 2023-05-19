@@ -15,7 +15,7 @@ jobs:
     name: Add issues to Github projects based on labels
     steps:
     - name: Add issues to VSP Analytics & Insights project
-      uses: srggrs/assign-one-project-github-action@1.2.0
+      uses: srggrs/assign-one-project-github-action@1.3.1
       if: |
         github.event.action == 'opened' &&
         (contains(github.event.issue.labels.*.name, 'analytics-insights') ||
@@ -24,7 +24,7 @@ jobs:
         project: 'https://github.com/department-of-veterans-affairs/va.gov-team/projects/20'
         column_name: 'Backlog - New'
     - name: Add issues with `documentation-support` label to VSP Documentation project
-      uses: srggrs/assign-one-project-github-action@1.2.0
+      uses: srggrs/assign-one-project-github-action@1.3.1
       if: |
         github.event.action == 'opened' && 
         contains(github.event.issue.labels.*.name, 'documentation-support')
@@ -32,7 +32,7 @@ jobs:
         project: 'https://github.com/department-of-veterans-affairs/va.gov-team/projects/16'
         column_name: 'New - Incoming'
     - name: Add issues with `platform-architecture-working-group` label to Platform Architecture Working Group project
-      uses: srggrs/assign-one-project-github-action@1.2.0
+      uses: srggrs/assign-one-project-github-action@1.3.1
       if: |
         github.event.action == 'opened' && 
         contains(github.event.issue.labels.*.name, 'platform-architecture-working-group')
@@ -40,7 +40,7 @@ jobs:
         project: 'https://github.com/department-of-veterans-affairs/va.gov-team/projects/41'
         column_name: 'New'
     - name: Add issues with `platform-feature-request` label to Platform Feature Requests project
-      uses: srggrs/assign-one-project-github-action@1.2.0
+      uses: srggrs/assign-one-project-github-action@1.3.1
       if: |
         github.event.action == 'opened' &&
         contains(github.event.issue.labels.*.name, 'platform-feature-request')
