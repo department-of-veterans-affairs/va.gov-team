@@ -7,11 +7,11 @@
 
 ## Background
 
-Fraudulent Direct Deposit account changes on VA.gov are on the rise at VA. In an attempt to reduce fraudulent activity on VA.gov the VA.gov Identity team has implemented a policy that requires all direct deposit changes be made by an MFA (multi-factor authentication) required verified ID.me or Login.gov account. This policy was set by the Identity teams PO (Product Owner) at the time the policy was set, Cody Reinold. The policy was set and is not set to expire effective 9/20/2021.
+Fraudulent Direct Deposit account changes on VA.gov are on the rise at VA. In an attempt to reduce fraudulent activity on VA.gov the VA.gov Identity team has implemented a policy that requires all direct deposit changes be made by a verified ID.me or Login.gov account with required multi-factor authentication. This policy was set by the Identity teams PO (Product Owner) at the time the policy was set, Cody Reinold. The policy was set and is not set to expire effective 9/20/2021.
 
 ## Policy
 
-All bank account (direct deposit) detail modifications within the VA.gov domain must utilize a multi-factor required verified ID.me or Login.gov account. Services which provide the option to modify bank account details must also confirm multi-factor was successfully entered by the current user during the session in which the account changes are being requested. Modifications on a bank account must be performed by a user that is directly authenticated, modifications cannot be made on behalf of another user.
+All bank account (direct deposit) detail modifications within the VA.gov domain must utilize a verified ID.me or Login.gov account with required multi-factor authentication. Services which provide the option to modify bank account details must also confirm multi-factor was successfully entered by the current user during the session in which the account changes are being requested. Modifications on a bank account must be performed by a user that is directly authenticated, modifications cannot be made on behalf of another user.
 
 ## Execution
 
@@ -25,7 +25,7 @@ data.attributes.profile.signIn.serviceName=(logingov OR idme)
 
 If these conditions are not met then the service must not allow for the submission or request to be forwarded to the downstream service which consumes the bank account changes.
 
-In order to ensure continued access to modify bank account details users which do not currently meet the requirements of a multi-factor required verified ID.me or Login.gov account, the service must display content which explains why the current account does not meet the requirements of VA. The service must also present the user with a path to create either of the currently approved multi-factor required verified ID.me or Login.gov accounts.
+In order to ensure continued access to modify bank account details users which do not currently meet the requirements of a verified ID.me or Login.gov account with required multi-factor authentication, the service must display content which explains why the current account does not meet the requirements of VA. The service must also present the user with a path to create either of the currently approved  verified ID.me or Login.gov accounts with required multi-factor authentication.
 
 ## Renewal Instructions
 
