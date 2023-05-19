@@ -110,8 +110,8 @@ Remote with Zoom
 ### Research Materials
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/conversation-guide.md)
-- [Pre-check-in CodePen prototype](https://codepen.io/cie-team/full/rNZELWo) 
-- [Check-in CodePen prototype](https://codepen.io/cie-team/full/QWVXEGQ)
+- [Pre-check-in CodePen prototype](https://codepen.io/team/va-cie/live/NWORQEe) 
+- [Check-in CodePen prototype](https://codepen.io/team/va-cie/live/qBJqWaV)
 
 ## Recruitment 
 
