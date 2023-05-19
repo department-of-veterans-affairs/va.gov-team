@@ -68,8 +68,8 @@ The purpose of this research is to **get feedback from Veterans on the new unifi
 
 #### Secondary Questions 
 
-9. How easy or difficult is it to find where to confirm an appointment or check in to an appointment from the appointment details page? 
-10. Do Veterans expect to see which of their appointments have already been confirmed? If so, on the appointment list page or detail page?  
+9. How easy or difficult is it for Veterans to find the call to action from the appointment detail pages? 
+10. Do Veterans expect to find information about whether an appointment has already completed pre-check-in? If so, from the the appointment list page or detail pages?  
 
 ### Hypothesis 
 
@@ -94,10 +94,10 @@ The purpose of this research is to **get feedback from Veterans on the new unifi
 
 #### Secondary Questions 
 
-9. How easy or difficult is it to find where to confirm an appointment or check in to an appointment from the appointment details page? 
-     - LIKELY TRUE: Veterans will find it easy to locate where to start the process of confirming an appointment or checking in to an appointment from the appointment details page, but might recommend adding some separation between the appointment information and the action link to make it more noticeable. 
-10. Do Veterans expect to see which of their appointments have already been confirmed? If so, on the appointment list page or detail page? 
-     - LIKELY TRUE: Most Veterans will expect to see which of their upcoming appointments have already been confirmed, especially if they just completed that process for one of their appointments.   
+9. How easy or difficult is it for Veterans to find the call to action from the appointment detail pages? 
+     - LIKELY TRUE: Veterans will find it easy to locate where to start the pre-check-in and check-in processes from the appointment detail pages, but might recommend adding some separation between the appointment information and the action link to make it more noticeable. 
+10. Do Veterans expect to find information about whether an appointment has already completed pre-check-in? If so, from the the appointment list page or detail pages? 
+     - LIKELY TRUE: Most Veterans will expect to see which of their upcoming appointments have already completed pre-check-in, especially if they just completed that process for one of their other appointments.   
 
 ## Methodology 
 
