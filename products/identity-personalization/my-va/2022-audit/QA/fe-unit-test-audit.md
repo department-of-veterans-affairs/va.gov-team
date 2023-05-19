@@ -15,7 +15,7 @@ _Results of audit conducted in Sprint 8 (4/12/23 - 4/25/23)_
 
 | File | Tests? | Ticket to Write Missing Test(s) | In use on My VA (y/n) as of May 2023|
 | -- | -- | -- | --|
-| [CTALink.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/CTALink.jsx) | ❌ | [57466](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57466)|  y  |
+| [CTALink.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/CTALink.jsx) | ✅ | [57466](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57466)|  y  |
 | [ClaimsListItem.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/ClaimsListItem.jsx) | ❌ | [57468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57468)|    |
 | [Dashboard.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/Dashboard.jsx) | ❌ | [57470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57470)|    |
 | [DashboardAlert.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/DashboardAlert.jsx) | ✅ |  |    |
@@ -59,8 +59,8 @@ _Results of audit conducted in Sprint 8 (4/12/23 - 4/25/23)_
 | [health-care/HealthCareCTA.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/health-care/HealthCareCTA.jsx) | ❌ | [57480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57480)|    |
 | [health-care/HealthCareContent.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/health-care/HealthCareContent.jsx) | ❌ | [57480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57480)|    |
 | [health-care/HealthCareHeader.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/health-care/HealthCareHeader.jsx) | ✅ |    |    |
-| [notifications/DebtNotification.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/notifications/DebtNotification.jsx) | ❌ | [57482](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57482)|  n  |
-| [notifications/Notifications.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/notifications/Notifications.jsx) | ❌ | [57482](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57482)|  y  |
+| [notifications/DebtNotification.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/notifications/DebtNotification.jsx) | ✅ | [57482](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57482)|  n  |
+| [notifications/Notifications.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/notifications/Notifications.jsx) | ✅ | [57482](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57482)|  y  |
 
 ### `personalization/dashboard/constants`
 
