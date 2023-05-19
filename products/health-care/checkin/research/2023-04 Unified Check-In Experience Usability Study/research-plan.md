@@ -141,7 +141,7 @@ Research guide writing and task development: Ben Brasso, Christina Gednalske</br
 Participant recruiting & screening: Perigean </br>
 Project point of contact: Ben Brasso</br>
 Participants for pilot test: </br>
-Accessibility specialist: </br>
+Accessibility specialist: Angela Fowler ([angela.fowler@adhocteam.us](mailto:angela.fowler@adhocteam.us)), Sara Smith ([sara.smith@oddball.io](mailto:sara.smith@oddball.io))</br>
 Note-takers: Perigean</br>
 Observers: 
 - Stephen Barrs
