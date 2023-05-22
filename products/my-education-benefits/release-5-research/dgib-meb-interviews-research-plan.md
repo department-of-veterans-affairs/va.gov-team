@@ -1,11 +1,11 @@
-# Research Plan for DGIB,My Education Benefits, May 2023
+# Research Plan for DGIB, My Education Benefits, May 2023
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
 VA offers education benefits to Veterans, Service members, and their families. Depending on their background, an applicant will need to apply for a specific education benefit that best suits them. Additionally, Post-9/11 GI Bill students now can verify their monthly enrollment in accordance with legislation, Public Law 116-315 Section 1010 and view and download their decision letter on Va.gov. The education form and features we will be focusing on are highlighted below:
 - **Authenticated Form 22-1990e** is primarily for spouses or children of the Veteran or service member - who has transferred their education benefits to them. The transfer of entitlement applicant is the thus a spouse or child and applies for the Post-9/11 GI Bill benefits. 
-- **Online Enrollment Vericication** allows Post-9/11 GI Bill students to verify their monthly enrollment information online, a new method.
-- **Download your VA education letter** offers a simple way for users to view and download their decision letter almost near real time after appilcation submission. 
+- **Online Enrollment Verification** allows Post-9/11 GI Bill students to verify their monthly enrollment information online, a new method.
+- **Download your VA education letter** offers a simple way for users to view and download their decision letter almost near real time after application submission. 
 These features are in production and are only for authenticated users (signed-in) and will offer a streamlined user experience. 
 
 Authenticated Form 22-1990e (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/TOE%2022-1990e%20Updates/TOE%20Product%20Outline.md)
@@ -19,19 +19,19 @@ Download Education Letter (https://github.com/department-of-veterans-affairs/va.
 Enhance Veterans’ personalized online experience
 
 ### Veteran Journey
-Reintiving Myself
-- Aqcuiring appropriate education, new skills, and credientials
+Reinviting Myself
+- Acquiring appropriate education, new skills, and credentials
 
 ## Research Goals	
 1. Understand users' experience with the VA.gov features mentioned above
-2. Understand users' pain points with the VA.gov feeatures mentioned above
-3. Undesterstand what users' would like to see improved with the VA.gov features mentioned above
+2. Understand users' pain points with the VA.gov features mentioned above
+3. Understand what users' would like to see improved with the VA.gov features mentioned above
 
 ### Outcome
-Feedback gathered from user interviews will help the team better understand pain points and opportunities for design improvments that can be prioritizied and implmentated in a future release. 
+Feedback gathered from user interviews will help the team better understand pain points and opportunities for design improvements that can be prioritized and implemented in a future release. 
 
 ### Research questions
-1. What are users' general impressinons and experience with VA.gov and VA education benefits
+1. What are users' general impressions and experience with VA.gov and VA education benefits
 2. Where are users' stopping in the flow and why they couldn't complete their tasks
 3. What features/processes would users like to see improved
 
@@ -98,7 +98,7 @@ Familiarity with Technology: Diverse distribution preferred
 - Category III: 1/3rd of participants to have used the “Verify school enrollment for GI Bill benefits” feature within the last 2 months (March-April 2023)
 
 **Benefit Screener**
-- Have you (a spouse or child to a Veteran) applied online for the transfer of education benefits application within the last 2 months? [particpants that answer yes can be included in Category 1]
+- Have you (a spouse or child to a Veteran) applied online for the transfer of education benefits application within the last 2 months? [participants that answer yes can be included in Category 1]
 - Have you (a Veteran) used the "Download your VA education letter" feature within the last 2 months? [participants that answer yes can be included in Category 2]
 - Have you (a Veteran) used the "Verify school enrollment for GI Bill benefits" feature within the last 2 months? [participants that answer yes can be included in category 3]
 
@@ -152,3 +152,5 @@ A pilot session is required. Please indicate the date and name of a mock partici
 **Project POC: **
 - Matthew Self matthew.self2@va.gov, Va.Gov Representative
 - Jacob Buller,  jacob.l.buller@accenturefederal.com, +1 571-733-9205
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/85295988/f783847c-aad3-4f18-a4b1-7264995eef03)
+
