@@ -51,7 +51,7 @@ This document will house a description of all of the mobile app's custom event t
 |vama_pref_name_fail|failed attempts to update preferred name|Profile|
 |vama_pref_name_success|successful preferred name updates made|Profile|
 |vama_prof_update_gender|*description to be added*|Profile|
-|vama_whatsnew_alert|*description to be added*||
-|vama_whatsnew_close|*description to be added*||
-|vama_whatsnew_dont_show|*description to be added*||
-|vama_whatsnew_more|*description to be added*||
+|vama_whatsnew_alert|What's new alert displayed to user|Whats New In App|
+|vama_whatsnew_close|clicked Close button for a release|Whats New In App|
+|vama_whatsnew_dont_show|clicked do not show me again|Whats New In App|
+|vama_whatsnew_more|clicked the alert to access more information in the accordion expansion|Whats New In App|
