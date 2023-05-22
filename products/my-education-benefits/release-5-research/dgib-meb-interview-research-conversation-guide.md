@@ -117,7 +117,3 @@ Thank you so much again and enjoy the rest of your day!
 ## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
 
 - [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/85295988/95827c4a-63a5-476b-bd7b-c7b40200e0a8)
-
-
-
