@@ -12,10 +12,13 @@ How you'll give the test users access to the product in production w/o making it
 - Fixture Testing
 
 #### Benchmarks
-- Sentry Errors: 0
+- New Sentry Errors: 0
 - Unsuccessful test cases: 0
 - Unsuccessful fixture tests: 0
 - Call center complaints: 0
+- New 504 Errors: 0
+- New 499 Errors: 0
+- Latency: 2-4s on average
 
 ### Results:  
 - Number of users:   
@@ -38,32 +41,55 @@ Links to dashboard(s) showing "success criteria" metrics: <a href = "https://git
 Length of time: 2 days
 Percentage of Users (and roughly how many users do you expect this to be): 1%
 #### Results:  
-- Sentry Errors
-- Call center complaints
+
+- New Sentry Errors: 
+- Unsuccessful test cases: 
+- Unsuccessful fixture tests: 
+- Call center complaints: 
+- New 504 Errors: 
+- New 499 Errors: 
+- Latency: 
 
 ### Stage B: moderate  
 #### Planning  
 Length of time: 2 days  
 Percentage of Users (and roughly how many users do you expect this to be): 25% 
 #### Results:  
-- Sentry Errors
-- Call Center Complaints 
+- New Sentry Errors: 
+- Unsuccessful test cases: 
+- Unsuccessful fixture tests: 
+- Call center complaints: 
+- New 504 Errors: 
+- New 499 Errors: 
+- Latency: 
+
 What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges? 
 ### Stage C: High 
 #### Planning  
 Length of time: 2 days  
 Percentage of Users (and roughly how many users do you expect this to be): 50% 
 #### Results  
-- Sentry Errors:   
-- Metrics at this stage (per your "success criteria"): 
+- New Sentry Errors: 
+- Unsuccessful test cases: 
+- Unsuccessful fixture tests: 
+- Call center complaints: 
+- New 504 Errors: 
+- New 499 Errors: 
+- Latency: 
+
 ### Stage C: Very High 
 #### Planning  
 Length of time: 2 days  
 Percentage of Users (and roughly how many users do you expect this to be): 75% 
 #### Results  
-- Sentry Errors: 2 days  
-- Metrics at this stage (per your "success criteria"): 
-What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+- New Sentry Errors: 
+- Unsuccessful test cases: 
+- Unsuccessful fixture tests: 
+- Call center complaints: 
+- New 504 Errors: 
+- New 499 Errors: 
+- Latency: 
+
 ## Go Live! 
 ### Planning:
 Desired date: 1/11/2023
