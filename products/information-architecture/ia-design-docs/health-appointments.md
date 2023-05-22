@@ -25,7 +25,7 @@ Note: the URL for the after-visit summary is still TBD. It could be just an ID b
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
 Appointments Landing Page | www.va.gov/my-health/appointments | VA.gov home > My HealtheVet> H1 of Page | The different views (pending, past, upcoming) should be handled as filters on the appointment list - i.e. utilize parameters to dynamically filter to the view - rather than creating child pages.
-Appointments Detail View | www.va.gov/my-health/appointments/[H1 of Page] | VA.gov home > My HealtheVet > Appointments > H1 of Page | 
+Appointments Detail View | www.va.gov/my-health/appointments/[Unique Appointment ID] | < Back to [parameter] appointments  | NOTE: on 5/22 we decided that we want the url to contain the unique ID for the appointment, but TBD what that will look like pending engineering convo.
 Cancel Appointment | www.va.gov/my-health/appointments/cancel | VA.gov home > My HealtheVet> Appointments> H1 of Page | we are recommending that this functionality moves from a modal to a page to improve a11y
 Schedule Appointment | www.va.gov/my-health/appointments/schedule | VA.gov home > My HealtheVet> Appointments> H1 of Page | Subsequent steps of the flow can follow normal url building guidelines
 
