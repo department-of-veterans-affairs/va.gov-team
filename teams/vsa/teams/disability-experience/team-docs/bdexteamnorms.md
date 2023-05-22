@@ -14,7 +14,7 @@ We are a cross-functional team spread across multiple time zones. The team is ge
 - [ ] Sprint Review - Bi-weekly
    - [ ] Wednesday (sprint day 1) 2-3p ET
 - [ ] Retrospectives - Bi-weekly
-   - [ ] Tuesday (sprint day 10) 2-3p ET
+   - [ ] Tuesday (sprint day 10) 2:30-3:30p ET
 - [ ] Ad Hoc Syncs
   
 
