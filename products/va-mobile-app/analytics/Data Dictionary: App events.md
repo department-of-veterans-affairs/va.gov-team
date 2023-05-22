@@ -41,10 +41,10 @@ This document will house a description of all of the mobile app's custom event t
 |vama_prof_update_phone|User submits new phone information|Profile|
 |vama_rx_refill_fail|User's refill request failed|Prescriptions|
 |vama_rx_refill_success|User's refill request went through successfully|Prescriptions|
-|vama_ddl_button_shown|*description to be added*||
-|vama_ddl_landing_click|*description to be added*||
-|vama_ddl_letter_view|*description to be added*||
-|vama_ddl_status_click|*description to be added*||
+|vama_ddl_button_shown|*description to be added*|Letters|
+|vama_ddl_landing_click|*description to be added*|Letters|
+|vama_ddl_letter_view|*description to be added*|Letters|
+|vama_ddl_status_click|*description to be added*|Letters|
 |vama_gender_id_fail|failed attempts to update Gender Identity|Profile|
 |vama_gender_id_help|users select What to know before you decide to share your gender identity|Profile|
 |vama_gender_id_success|successful Gender Identity updates made|Profile|
