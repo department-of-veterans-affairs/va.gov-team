@@ -39,7 +39,7 @@ Before we get started, I’m going to read over the logistics and protocol for t
 
 **Most importantly, you’re the expert**. We want your honest feedback: As we talk today, we want to hear your honest opinions. You are the expert about your experience, and we are here to learn from you, so there are no wrong answers. 
 
-**Your participation is completely voluntary:** Your time and input are extremely valued, but please know it is entirely voluntary to participate. If you don’t feel comfortable talking about anything, please let me know. If you’re not comfortable with answering a question, you’re more than welcome to pass on it. If at any point during this conversation you decide you no longer wish to participate, you may end the session for any reason.
+**Your participation is completely voluntary: ** Your time and input are extremely valued, but please know it is entirely voluntary to participate. If you don’t feel comfortable talking about anything, please let me know. If you’re not comfortable with answering a question, you’re more than welcome to pass on it. If at any point during this conversation you decide you no longer wish to participate, you may end the session for any reason.
 
 **This entire session should take about 45 minutes to one hour.** I want to be sure not to keep you much longer, so I may occasionally move you along to the next question or topic. 
 On the consent form you acknowledged that you were comfortable with us recording this session. The recording will be used for reference in case we miss any notes. It will be deleted once our analysis is complete, and none of your comments will be attributed to you directly. Are you still okay with this? 
@@ -55,19 +55,19 @@ If for any reason you want to stop the session or take a break at any point, ple
 General
 - What is your familiarity with VA?
 - Are you using any education benefits from VA?
--  If so, can you remember what education benefits you are using?
--  How long have you been using your education benefits?
--  How did you learn about education benefits?
+- If so, can you remember what education benefits you are using?
+- How long have you been using your education benefits?
+- How did you learn about education benefits?
 
-VA.gov Expeerience
+VA.gov Experience
 - What has your experience been like on VA.gov?
 - What has worked well for you using VA.gov?
 - What hasn't worked well for you using VA.gov?
 
-Feature Spepcifc Questions
+Feature Specific Questions
 Enrollment Verification Question:
 - Have you done enrollment verification before? By what method (email, text, online on VA.gov)
-- What are your overall impressions abou online enrollment verification?
+- What are your overall impressions about online enrollment verification?
 - We're there any tasks that you were stopped from doing or could not complete?
 - What questions did you have as you went through process?
 - What other features do you wish you had?
@@ -100,20 +100,22 @@ Download VA Education Letter Questions:
 - What are you most interested in knowing about going forward about Digital GI Bill?
 - If you could do anything you wanted to improve the GI Bill experience, what would you do?
 
-That is all the questions we have at this point. Thank you for taking the time to provide feedback in improving the GI Bill experience for all stakeholders including Veterans and their families, schools, and VA employees. We would like to keep you updated about our progress and involve you in future activities if possible, would you be open to that?!
+That is all the questions we have at this point. Thank you for taking the time to provide feedback in improving the GI Bill experience for all stakeholders including Veterans and their families, schools, and VA employees. We would like to keep you updated about our progress and involve you in future activities, if possible, would you be open to that?!
 
 Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
-Thank you so much again, and enjoy the rest of your day!
+Thank you so much again and enjoy the rest of your day!
 
 ##
 
 ## Emergency Exit
 
-[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
+[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so it’s easy to find during a session. Take some time to practice so it feels more comfortable.]
 
 ## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
 
 - [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/85295988/95827c4a-63a5-476b-bd7b-c7b40200e0a8)
+
 
 
