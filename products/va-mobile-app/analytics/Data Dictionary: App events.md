@@ -1,3 +1,5 @@
+This document will house a description of all of the mobile app's custom event tracking in addition to the [automatically collected G4A events](https://support.google.com/analytics/answer/9234069).
+
 | Event name | Description|
 |-----------|------------|
 |vama_appt_cancel|User cancels appointment |
