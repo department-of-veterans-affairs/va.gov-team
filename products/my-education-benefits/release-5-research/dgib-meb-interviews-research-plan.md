@@ -152,5 +152,3 @@ A pilot session is required. Please indicate the date and name of a mock partici
 **Project POC: **
 - Matthew Self matthew.self2@va.gov, Va.Gov Representative
 - Jacob Buller,  jacob.l.buller@accenturefederal.com, +1 571-733-9205
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/85295988/f783847c-aad3-4f18-a4b1-7264995eef03)
-
