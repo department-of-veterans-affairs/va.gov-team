@@ -76,12 +76,12 @@ To support your claim, you can upload documentation such as:
 
 > **Are you currently on active duty as a service member?**
 > 
-> If you’re a service member on active duty, this is the right form for you if both of these are true:
+> If you’re a service member on active duty, you can use this form to file a claim for disability benefits through the Benefits Delivery at Discharge (BDD) program if both of these are true:
 > - You have an illness or injury that was caused or made worse by your active-duty service, **and** 
 > - Your separation date is in the next 90 to 180 days
 > You can use this form to file a claim for disability benefits through the Benefits Delivery at Discharge (BDD) program.
 > 
-> **Note:** You’ll need to submit service treatment records for the current period of service as well as a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. Your claim will be delayed until we receive this form. We estimate that it will take you at least 30 minutes to complete this form, and we recommend you download and fill it out on a desktop computer or laptop then return to this 526 form to upload.
+> **Note:** You’ll need to submit service treatment records for the current period of service as well as a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. Your claim will be delayed until we receive this self-assessment form. We estimate that it will take you at least 30 minutes to complete it. We recommend you download and fill it out on a computer or laptop then return to this 526 form to upload.
 > 
 > After you file your claim, you’ll need to be available for 45 days after your claim is submitted to complete an exam. [Learn more about Benefits Delivery at Discharge (BDD)](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/).
 
