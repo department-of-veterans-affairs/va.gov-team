@@ -45,11 +45,12 @@ This document will house a description of all of the mobile app's custom event t
 |vama_ddl_landing_click|*description to be added*||
 |vama_ddl_letter_view|*description to be added*||
 |vama_ddl_status_click|*description to be added*||
-|vama_gender_id_fail|*description to be added*||
-|vama_gender_id_help|*description to be added*||
-|vama_gender_id_success|*description to be added*||
-|vama_pref_name_success|*description to be added*||
-|vama_prof_update_gender|*description to be added*||
+|vama_gender_id_fail|failed attempts to update Gender Identity|Profile|
+|vama_gender_id_help|users select What to know before you decide to share your gender identity|Profile|
+|vama_gender_id_success|successful Gender Identity updates made|Profile|
+|vama_pref_name_fail|failed attempts to update preferred name|Profile|
+|vama_pref_name_success|successful preferred name updates made|Profile|
+|vama_prof_update_gender|*description to be added*|Profile|
 |vama_whatsnew_alert|*description to be added*||
 |vama_whatsnew_close|*description to be added*||
 |vama_whatsnew_dont_show|*description to be added*||
