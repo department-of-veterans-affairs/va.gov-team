@@ -117,22 +117,36 @@ Remote with Zoom
 
 ## Timeline 
 
-#### Prepare
+### Prepare
+**We would like to request a 15 minute kick-off call with Perigean before recruiting begins.**
 
-Pilot participant: </br>
-Date and time of pilot session: 
+Availability for a kick-off call: 
+- TBD
 
-#### Research sessions
+### Pilot session
+* Pilot participant email:  
+* Date and time of pilot session:  TBD
 
-Planned dates of research: 
+### Research sessions
+* Planned dates of research: June 12 - June 20 (not the 19th)
 
-#### Length of sessions
+### Length of sessions
+* Session length: 
+	* 1 hour for non-screenreader sessions
+	* 1 hour and 30 minutes for screenreader sessions
+* Buffer time between sessions: 30 minutes
+* Maximum Sessions per day: 6
 
-Session length: < 1 hour for non AT users, < 90 minutes for AT users</br>
-Buffer time between sessions: 30 minutes </br>
-Maximum sessions per day: 
+### Availability
 
-#### Availability 
+|Date | Time (Eastern) | Screenreader session notes |
+| -----------  | -----------  | -----------  | 
+|June 12  | 9am-6pm | Screenreaders between 9-4pm, support by Sara.Smith@oddball.io |
+|June 13  | 9am-6pm | Screenreaders between 9-4pm, support by Sara.Smith@oddball.io |
+|June 14  | 9am-6pm | Screenreaders between 9-1pm, support by Sara.Smith@oddball.io |
+|June 15-18  | 9am-6pm | No screenreader sessions |
+|June 20  | 9am-6pm | Screenreaders between 9-2pm and 3-5pm, support by Sara.Smith@oddball.io |
+
 
 ## Team Roles
 
