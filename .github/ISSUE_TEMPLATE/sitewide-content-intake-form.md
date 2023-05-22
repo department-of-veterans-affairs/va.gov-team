@@ -14,6 +14,7 @@ assignees: RLHecht, coforma-terry
 -	Designer: 
 -	FE engineer: 
 - Accessibility specialist:
+- Content writer: 
 -	Product/team Slack channel:
  
 ## CAIA Support Request
