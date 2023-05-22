@@ -52,6 +52,7 @@ On the consent form you acknowledged that you were comfortable with us recording
 If for any reason you want to stop the session or take a break at any point, please let me know. If there are no questions or comments at this time we can jump right in! 
 
 **Interview Questions (30 minutes)** 
+
 General
 - What is your familiarity with VA?
 - Are you using any education benefits from VA?
@@ -65,6 +66,7 @@ VA.gov Experience
 - What hasn't worked well for you using VA.gov?
 
 **Feature Specific Questions** 
+
 Enrollment Verification Question:
 - Have you done enrollment verification before? By what method (email, text, online on VA.gov)
 - What are your overall impressions about online enrollment verification?
