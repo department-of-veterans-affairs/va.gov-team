@@ -53,7 +53,7 @@ We will roll back if
 - What is the Clinicians response to this? (VSignals, on premise feedback)? 
 - How is this affecting the Travel office workflow?
 - What minor tweaks can be made before rolling this out to more Veterans?
-- What new metrics arouse that we care about? 
+- What new metrics arise that we care about? 
 
 ### Phase Staged Rollout 
 
@@ -77,7 +77,7 @@ Mid-Late June 2023
   - OCTO Health team
   - Python script
 
-> Veterans successfully send claims during check ins;
+> Veterans successfully send claims during check ins
 
 - **CURRENT --** None
 - **GOAL --** Any
@@ -162,7 +162,7 @@ Same as First Facility
 
 > Phase goal
 
-Rollout to next biggest Veteran market with solid utilization, goal is 25% of digital check ins give the option for facilities; Working with stakeholders to determine where/what that looks likex
+Rollout to next biggest Veteran market with solid utilization, goal is 25% of digital check ins give the option for facilities; Working with stakeholders to determine where/what that looks like
 
 **Desired date range** 
 
