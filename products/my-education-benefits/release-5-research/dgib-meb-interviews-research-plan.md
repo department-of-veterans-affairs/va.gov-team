@@ -116,10 +116,10 @@ When will the thing you are testing be finalized? Ideally it's ready a week befo
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email:
-* Date and time of pilot session: 
+* Date and time of pilot session: 5/26, 2pm ET
 
 ### Research sessions
-*5/30-6/9
+*5/31-6/9
 
 ### Length of sessions
 * Session length: 45 minutes-1 hour
@@ -127,8 +127,8 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Maximum Sessions per day: 3-4 session per day
 
 ### Availability
-5/31-6/2 - 9am-5pm ET
-6/5-6/9 - 9am-5pm ET
+- 5/31-6/2 - 9am-5pm ET
+- 6/5-6/9 - 9am-5pm ET
 	
 ## Team Roles	
 **Primary Moderator POCs:**
