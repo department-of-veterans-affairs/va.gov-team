@@ -8,7 +8,7 @@
 ## Breadcrumb
 
 - [ ] The page displays a breadcrumb
-- [] The breadcrumb represents the same hierarchy as the URL
+- [ ] The breadcrumb represents the same hierarchy as the URL
 - [ ] The breadcrumb segments match the H1 of the pages in the navigation path exactly         
 - [ ] **If the page is translated,** the translated segments of the breadcrumb have appropriate tags **Note:** Not applicable right now
 
