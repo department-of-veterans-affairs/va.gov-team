@@ -28,41 +28,32 @@ Sources:
 ### Veteran behaviors & motivations (general - user context)
 
 
-##### THEME: UNDERSTANDING & STAYING INFORMED
+* ##### THEME: UNDERSTANDING & STAYING INFORMED
 
-**Insight:** Veterans **want to understand their Claim, what VA is doing with it, and what VA needs from them** so they can keep the process moving.
-
-
-
-* **Motivation:** Veterans **care about anything they have in flight**, whether that is education or other benefits (like Claims). They want to know **what’s going on now**, **how long it will take**, what they **need to do**, and what **happens next**.
-* **Behaviors:** 
-    * Veterans **check the status of their benefits claims frequently** and through multiple channels in the **hope that they can find better or more up-to-date information**.
-    * **Once a claim is filed and a decision is given, Veterans may stop needing claims features as urgently**, depending on the nature of their claim. 
+  * **Insight:** Veterans **want to understand their Claim, what VA is doing with it, and what VA needs from them** so they can keep the process moving.
+  * **Motivation:** Veterans **care about anything they have in flight**, whether that is education or other benefits (like Claims). They want to know **what’s going on now**, **how long it will take**, what they **need to do**, and what **happens next**.
+  * **Behaviors:** 
+      * Veterans **check the status of their benefits claims frequently** and through multiple channels in the **hope that they can find better or more up-to-date information**.
+      * **Once a claim is filed and a decision is given, Veterans may stop needing claims features as urgently**, depending on the nature of their claim. 
 
 
-##### THEME: SEEKING A SENSE OF SECURITY
+* ##### THEME: SEEKING A SENSE OF SECURITY
 
-**Insight: Veterans are the glue** holding together disparate pieces of a large and confusing system that they **can’t always rely on** to deliver the benefits they’ve earned.
-
-
-
-* **Motivation: Veterans want to feel like they’re in control** [of any process], but the VA **benefits process is siloed** and makes Veterans **feel like they’re not in control**.
-* **Behaviors:**
-    * **Veterans check multiple sources** for the most up to date Claims status information **because they don’t trust the accuracy of the claim status** they see on VA digital tools. 
-    * Veterans often **call VA or VSO staff or visit in person** **to get the detail they want**, as typically the call-center representatives can't access that information.
+  * **Insight: Veterans are the glue** holding together disparate pieces of a large and confusing system that they **can’t always rely on** to deliver the benefits they’ve earned.
+  * **Motivation: Veterans want to feel like they’re in control** [of any process], but the VA **benefits process is siloed** and makes Veterans **feel like they’re not in control**.
+  * **Behaviors:**
+      * **Veterans check multiple sources** for the most up to date Claims status information **because they don’t trust the accuracy of the claim status** they see on VA digital tools. 
+      * Veterans often **call VA or VSO staff or visit in person** **to get the detail they want**, as typically the call-center representatives can't access that information.
 
 
-##### THEME: CONNECTING & COMMUNICATION
+* ##### THEME: CONNECTING & COMMUNICATION
 
-**Insight:** Veterans value empathy and **communication** (especially **one-on-one connections**).
-
-
-
-* **Motivation:** Veterans **trust** **and want to connect one-on-one** with individuals who **know the details of their specific case** to help them.
-* **Behaviors:**
-    * They want to talk with VSOs, Claims Staff, and other VA service providers when they have **questions or need help**.
-    * They **seek out in-person discussions** about their case **to get questions answered** (more quickly and thoroughly than online).
-    * Veterans also rely on their peers, friends and family for **guidance in navigating the benefits process**.
+  * **Insight:** Veterans value empathy and **communication** (especially **one-on-one connections**).
+  * **Motivation:** Veterans **trust** **and want to connect one-on-one** with individuals who **know the details of their specific case** to help them.
+  * **Behaviors:**
+      * They want to talk with VSOs, Claims Staff, and other VA service providers when they have **questions or need help**.
+      * They **seek out in-person discussions** about their case **to get questions answered** (more quickly and thoroughly than online).
+      * Veterans also rely on their peers, friends and family for **guidance in navigating the benefits process**.
 
 
 ### Veteran pain points
@@ -71,8 +62,7 @@ Sources:
 #### Mobile Claims Status Tool, web Claims Status Tool and the Claims process
 
 
-
-* DISTRUST & LACK OF TRANSPARENCY:  
+* ##### THEME: DISTRUST & LACK OF TRANSPARENCY:  
     * **Veterans are not sure if a claim is truly being worked on. <sub>2,5,10</sub>**
         * Some Veterans **have anxiety about the claims process** and **check their claim in the app multiple times a day** to see if their claim status has changed <sub>1,2, 5,7, </sub> 
         * Veterans **check the status of their claims frequently** and through multiple channels in the **hope that they can find better or more up-to-date information**.<sub>9</sub>
@@ -81,7 +71,7 @@ Sources:
     * Veterans find **information in the CST [on VA.gov] to be vague and lacking specificity leading them to feel uncertain**.<sub>4</sub>
     * **A perceived lack of transparency and poor communication results in a mismatch of Veteran expectations of the process and their actual experiences. <sub>7</sub>**
         * This leaves Veterans feeling frustrated and lost during the process and ultimately disappointed when receiving their rating decision. **Veterans often feel that the lack of transparency is intentional on the part of VA**. <sub>7</sub>
-* INACCURATE INFORMATION:  
+* ##### THEME: INACCURATE INFORMATION:  
     * **Veterans do not trust the accuracy of the Claim information displayed [across digital tools].<sub>7,8</sub>**
         * The various **sources of information at VA sometimes have different statuses** for the same claim, creating confusion for the Veteran. <sub>7,8</sub>
         * Veterans who located the claims status tool on **VA.gov** were frustrated by what they thought were **inaccurate / unchanging statuses**.<sub>8</sub>
@@ -89,7 +79,7 @@ Sources:
             * Users complain in app store ratings and in Reddit forums about the app being broken after seeing error messages when trying to check their claim status, and in some cases have created folk model explanations as to what’s happening (“[It’s off on the weekends](https://www.reddit.com/r/VeteransBenefits/comments/zpazpp/va_mobile_app/?utm_source=share&utm_medium=ios_app&utm_name=iossmf),” “[Does the VA update their systems during the weekend?](https://www.reddit.com/r/VeteransBenefits/comments/11c1tnr/does_the_va_update_their_systems_during_the/)“)<sub>10</sub> 
     * **The VA mobile app displays one-size fits all error messages that are sometimes inaccurate when it can’t display claims information due to the profile failing or low connectivity.**
         * Claims: “The app can’t be loaded,”<sub> </sub>Disability rating “You do not have a combined disability on record”<sub>3,10</sub>
-* DISEMPOWERMENT:
+* ##### THEME: DISEMPOWERMENT:
     * Veterans don’t necessarily know in a timely manner **_<span style="text-decoration:underline;">when something has changed or is needed </span>_**from them with their claim or appeal**.<sub>2,7</sub>
         * Because there are long gaps between signals from VA about the progress of the claim, Veterans check in frequently to ensure things are moving along.<sub>2</sub>
         * Veterans **don’t have a way to quickly see whether an active claim has changed status** (without tapping down into the Claim details each time).
