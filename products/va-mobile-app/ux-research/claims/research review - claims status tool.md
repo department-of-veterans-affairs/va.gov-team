@@ -6,13 +6,8 @@
 ## Background
 
 This work supports [Claims Feature Discovery - Review existing VA research #5563](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5563). 
-
-We reviewed existing VA research (2016-present) for **insights** related to the Claims process and Claims Status Tool that could **potentially be addressed by the VA mobile app**. The review focuses on the period during the Claims process after Veterans have filed their claim or appeal and are tracking the status. We want to understand:
-
-
-
-* Veteran motivations and behaviors within the Claims tracking process
-* Pain points within the Claims tracking process and VA mobile app
+We reviewed existing VA research (2016-present) for insights related to the Claims process and Claims Status Tool that could potentially be addressed by the VA mobile app. The review focuses on the period during the Claims process after Veterans have filed their claim or appeal and are tracking the status, and identifies Veteran motivations, behaviors and pain points within the Claims tracking process and VA mobile app.  
+This research lays the groundwork for examining the Claims feature in the mobile app and defining success metrics for claims in the mobile app. We’ll use this information to create recommendations.
 
 Sources: 
 
