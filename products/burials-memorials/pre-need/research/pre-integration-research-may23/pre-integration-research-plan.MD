@@ -30,7 +30,7 @@ The goals of this user research are to:
     * Do they understand which option to select for the applicant's relationship to the service or Veteran (I am the service member or Veteran, Spouse or surviving spouse, Unmarried adult child, Other)?
   * Since the pre-need application contains potentially sensitive questions and because it deals with a sensitive topic overall, determine how the application process and content presented to users in the form can be improved to reduce or eliminate any discomfort users may experience when applying
     * Which areas of the form, if any, do users find particularly sensitive?
-    * Does the pre-need form content meed user needs in this particularly sensitive application process? If not, how can it be improved to address user needs?  
+    * Does the pre-need form content need user needs in this particularly sensitive application process? If not, how can it be improved to address user needs?  
 
 ### Outcome
 This research will help in identifying what is working in the current form and if user pain points exist that we can then fully address for the integration phase if we are unable to address them pre-integration. 
