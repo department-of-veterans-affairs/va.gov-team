@@ -64,7 +64,7 @@ VA.gov Experience
 - What has worked well for you using VA.gov?
 - What hasn't worked well for you using VA.gov?
 
-Feature Specific Questions
+**Feature Specific Questions**
 Enrollment Verification Question:
 - Have you done enrollment verification before? By what method (email, text, online on VA.gov)
 - What are your overall impressions about online enrollment verification?
