@@ -156,7 +156,7 @@ Year:
 > 
 > Based on your separation date, you can apply for benefits now (using VA Form 21-526EZ).
 > 
-> Select **Continue** to start now and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You'll have 1 year from the day you submit your intent to file to complete your application.
+> Select **Continue** to start now and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You'll have 1 year from the day you submit your intent to file to complete your application. (After 1 year, you’ll have to start a new application and your potential effective date will be reset.)
 
 
 > [background color only alert component if date between 90-180 days]
@@ -165,12 +165,14 @@ Year:
 > 
 > You have x days left (until x) to apply for benefits under the BDD program.
 > 
-> After this date, you can still apply for benefits using VA Form 21-526EZ (though you will not be in the BDD program). We encourage you to start filling out this application as soon as you can to declare your intent to file. This reserves a potential effective date for when you could start getting benefits. You have 1 year from the date you submit your intent to file to complete your application.
+> After this date, you can still apply for benefits using VA Form 21-526EZ (though you will not be in the BDD program). 
 > 
-> Select ‘continue’ to apply now.
+>Select **Continue** to start now and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You'll have 1 year from the day you submit your intent to file to complete your application. (After 1 year, you’ll have to start a new application and your potential effective date will be reset.)
+
+> 
 >
 > **Complete a Separation Health Assessment Part A Self-Assessment**
-> You’ll need to submit a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. We can't make a decision on your claim until we receive this document. We estimate that it will take you at least 30 minutes to complete this document. Download and fill it out on a desktop computer or laptop then return to this application to upload it.
+> You’ll need to submit a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. Your claim will be delayed until we receive this self-assessment form. We estimate that it will take you at least 30 minutes to complete it. We recommend you download and fill it out on a computer or laptop, then return to this 526 form to upload.
 
 
 > [background color only alert component if date >180 days]
@@ -179,4 +181,6 @@ Year:
 > 
 > In x days (on x), you can apply for benefits. You will then have x days (until x) to apply for benefits under the BDD program.[Learn more about the BDD program](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/)
 > 
-> After x, you can still apply for benefits using VA Form 21-526EZ (though you will not be in the BDD program). We encourage you to start filling out this application as soon as you can to declare your intent to file. This reserves a potential effective date for when you could start getting benefits. You have 1 year from the date you submit your intent to file to complete your application.
+> After x, you can still apply for benefits using VA Form 21-526EZ (though you will not be in the BDD program). 
+> 
+> We encourage you to start filling out this application as soon as you can to declare your intent to file. This reserves a potential effective date for when you could start getting benefits. You have 1 year from the date you submit your intent to file to complete your application. (After 1 year, you’ll have to start a new application and your potential effective date will be reset.)
