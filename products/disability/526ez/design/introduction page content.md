@@ -98,7 +98,7 @@ We’ll take you through each step of the process.
 
 After you submit your claim here, you'll see a confirmation page. We won't send you another notification or receipt.
 
-We process applications in the order we receive them. We’ll contact you by phone or letter if we need additional forms or information to support your claim. Please open and respond to any letters you receive from us.
+We process applications in the order we receive them. It usually takes about 3-4 months for us to make a decision on your claim, but it could take longer. We’ll contact you by phone or letter if we need additional forms or information to support your claim. Please open and respond to any letters you receive from us.
 
 You'll have up to 1 year after you submit your claim to submit additional documents. If we decide your claim before the end of that year, we might request that you submit a new application. [Learn more about uploading evidence documents to support disability claims.](https://www.va.gov/disability/upload-supporting-evidence/)
 
