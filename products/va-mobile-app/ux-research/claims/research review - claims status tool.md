@@ -1,18 +1,18 @@
+# Review of Related User Research: VA Mobile App - Claims Status Tool
+Office of the CTO - Digital Experience (OCTO-DE), VA Mobile App
 
+Date: 05/22/2023
 
-# DRAFT Review of Related User Research: VA Mobile App - Claims Status Tool
-
+[Holly Collier]( holly.collier@adhocteam.us), [Liz Straghalis](mailto:liz.straghalis@adhocteam.us)
 
 ## Background
 
 This work supports [Claims Feature Discovery - Review existing VA research #5563](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5563). 
 We reviewed existing VA research (2016-present) for insights related to the Claims process and Claims Status Tool that could potentially be addressed by the VA mobile app. The review focuses on the period during the Claims process after Veterans have filed their claim or appeal and are tracking the status, and identifies Veteran motivations, behaviors and pain points within the Claims tracking process and VA mobile app.  
+
 This research lays the groundwork for examining the Claims feature in the mobile app and defining success metrics for claims in the mobile app. We’ll use this information to create recommendations.
 
 Sources: 
-
-
-
 * 12 Internal (VA Mobile team, VA.gov, VEO, VRO and Lighthouse teams, Frog Design)
 * 1 External (Reddit threads)
 
@@ -113,12 +113,12 @@ Sources:
     1. [Looks like the VA removed the est completion date from the app? : r/VeteransBenefits/VA.gov/VA App](https://www.reddit.com/r/VeteransBenefits/comments/10sy1z8/looks_like_the_va_removed_the_est_completion_date/)
     2. [It’s off on the weekends : r/VeteransBenefits/VA.gov/VA App](https://www.reddit.com/r/VeteransBenefits/comments/zpazpp/va_mobile_app/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
     3. [Does the VA update their systems during the weekend? : r/VeteransBenefits/VA.gov/VA App](https://www.reddit.com/r/VeteransBenefits/comments/11c1tnr/does_the_va_update_their_systems_during_the/)
-
+11. [Q1 2023 VA App Store Reviews Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/reporting/App-Stores-Reviews/Q1-2023/Summary.md) (2023)
 
 ## Full findings, by Sources & Studies Reviewed
 
 
-### Internal sources
+### Internal sources (12)
 
 
 #### Mobile app team
@@ -257,11 +257,7 @@ Claims dashboard should include useful information like relevant profile informa
 
 
 #### Reddit 
-
-
 10. r/VeteransBenefits (2022-present):
-
-
 
 * [Looks like the VA removed the est completion date from the app? : r/VeteransBenefits/VA.gov/VA App](https://www.reddit.com/r/VeteransBenefits/comments/10sy1z8/looks_like_the_va_removed_the_est_completion_date/)
 * [It’s off on the weekends : r/VeteransBenefits/VA.gov/VA App](https://www.reddit.com/r/VeteransBenefits/comments/zpazpp/va_mobile_app/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
@@ -270,3 +266,11 @@ Claims dashboard should include useful information like relevant profile informa
         * Veterans who located the claims status tool on VA.gov were frustrated by what they thought were **inaccurate / unchanging statuses**.
     * **Veterans don’t trust the accuracy of the Claim information displayed because it differs from other sources.**
         * Users complain in app store ratings and in Reddit forums about the app being broken after seeing error messages when trying to check their claim  status, and in some cases have created folk model explanations as to what’s happening (“[It’s off on the weekends](https://www.reddit.com/r/VeteransBenefits/comments/zpazpp/va_mobile_app/?utm_source=share&utm_medium=ios_app&utm_name=iossmf),” “[Does the VA update their systems during the weekend?](https://www.reddit.com/r/VeteransBenefits/comments/11c1tnr/does_the_va_update_their_systems_during_the/)“).
+
+
+#### App & Play Store Reviews
+11. [Q1 2023 VA App Store Reviews Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/reporting/App-Stores-Reviews/Q1-2023/Summary.md)
+
+* 5% of reviews (26) mention Claims directly, and are mixed:
+    * "Great App to keep you up to date with your claims."
+    * "This app is useless. The **information about claims doesn't match what's on the actual website**. Not only that, but there is **very little information you can actually view**. HORRIBLE. Absolutely horrible. Matches the rest of the VA."
