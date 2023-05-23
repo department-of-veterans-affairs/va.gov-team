@@ -9,7 +9,7 @@ This document will house a description of all of the mobile app's custom event t
 |vama_ttv_cap_details|(Verify start and end actions)|???|
 |vama_claim_upload_start|API call to upload is sent|Claims|
 |vama_claim_upload_fail|API call to upload returns a fail|Claims|
-|vama_claim_upload_compl|API call to upload returns a success|Claims|
+|vama_claim_upload_compl|API call to upload returns a success for the file uploaded.<br>Note: While the user can select more than one photo to upload, they are compiled into a single pdf for upload.|Claims|
 |vama_eu_updated_success|App version was successfully updates at user's click?|Encouraged Update|
 |vama_eu_shown|Encouraged update nudge was shown to user?|Encouraged Update|
 |vama_auth_completed|How is this different from vama_login_success?|Login|
