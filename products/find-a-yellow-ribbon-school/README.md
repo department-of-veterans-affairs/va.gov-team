@@ -246,6 +246,10 @@ https://github.com/department-of-veterans-affairs/gibct-data-service
 
 Data is imported via CSVs from sharepoint team to the GIDs service where it is made available via the rails API
 
+Sample endpoint: https://www.va.gov/gids/v0/yellow_ribbon_programs?page=1&per_page=30000
+
+Sample response: {"data":[{"id":"3374647","type":"yellow_ribbon_programs","attributes":{"city":"New York","contribution_amount":"99999.0","country":"USA","degree_level":"Graduate School/Continuing Professional Studies","division_professional_school":"All","facility_code":"33000232","institution_id":51114287,"insturl":"www.bankstreet.edu/","number_of_students":99999,"name_of_institution":"BANK STREET COLLEGE OF EDUCATION","state":"NY","street_address":"610 W 112th Street"}}],"links":{"self":"https://api.va.gov/gids/v0/yellow_ribbon_programs?city=new+york&name=bank&page=1&per_page=10&state=NY","first":"https://api.va.gov/gids/v0/yellow_ribbon_programs?city=new+york&name=bank&page=1&per_page=10&state=NY","prev":null,"next":null,"last":"https://api.va.gov/gids/v0/yellow_ribbon_programs?city=new+york&name=bank&page=1&per_page=10&state=NY"},"meta":{"version":{"number":834,"created_at":"2023-05-17T15:23:37.504Z","preview":false},"count":1}}
+
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/61624970/6545a82b-5765-4a13-b188-c6f04064670f)
 
 
