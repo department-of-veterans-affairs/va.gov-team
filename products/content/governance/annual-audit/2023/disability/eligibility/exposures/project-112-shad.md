@@ -9,18 +9,18 @@
 
 - [ ] The page displays a breadcrumb
 - [ ] The breadcrumb represents the same hierarchy as the URL
-- [ ] The breadcrumb segments match the H1 of the pages in the navigation path exactly **Note:** Breadcrumb and H1 don't match exactly - issue added to backlog notes          
-- [ ] **If the page is translated,** the translated segments of the breadcrumb have appropriate tags **Note:** Not applicable right now, but will be soon
+- [ ] The breadcrumb segments match the H1 of the pages in the navigation path exactly
+- [ ] **If the page is translated,** the translated segments of the breadcrumb have appropriate tags
 
 ## Secondary navigation (where applicable)
 
 - [ ] The page is displayed as an option within the secondary nav
 - [ ] The placement of the option in the secondary nav represents the same hierarchy as the URL
-- [ ] **If the page is translated,** the translated segments of the navigation have appropriate tags **Note:** Not applicable right now, but will be soon
+- [ ] **If the page is translated,** the translated segments of the navigation have appropriate tags 
 
 ## On this page component
 
-- [ ] The page has an "on this page" component if appropriate **Not needed - more like a landing page**
+- [ ] The page has an "on this page" component if appropriate **Not needed**
 
 ## Content on page
 
