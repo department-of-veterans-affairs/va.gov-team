@@ -19,7 +19,8 @@ This research lays the groundwork for examining the Claims feature in the mobile
       <td><b>Behaviors & Pain Points</b></td>
     </tr>
     <tr>
-        <td>Navigating the system & staying informed: Veterans want to understand their Claim, what VA is doing with it, and what VA needs from them so they can keep the process moving. </td>
+        <td><b>Navigating the system & staying informed:</b><br>  
+Veterans want to understand their Claim, what VA is doing with it, and what VA needs from them so they can keep the process moving. </td>
         <td>
 
 * Veterans check the status of their claims frequently and through multiple channels to get the most up to date information.
@@ -32,7 +33,7 @@ This research lays the groundwork for examining the Claims feature in the mobile
         </td>
     </tr>
     <tr>
-        <td>Seeking a sense of security:
+        <td><b>Seeking a sense of security:</b><br>
 Veterans are the glue holding together disparate pieces of a large and confusing system that they can’t always rely on to deliver the benefits they’ve earned. </td>
         <td>
 
@@ -45,7 +46,8 @@ Veterans are the glue holding together disparate pieces of a large and confusing
     </tr>
     
 <tr>
-        <td>Communication & connecting: Veterans trust and want to connect one-on-one with individuals who know the details of their specific case to help them. </td>
+        <td><b>Communication & connecting:</b><br>
+Veterans trust and want to connect one-on-one with individuals who know the details of their specific case to help them. </td>
         <td>
 
 * Veterans want to talk with VSOs, Claims Staff, and other VA service providers when they have questions or need help.
