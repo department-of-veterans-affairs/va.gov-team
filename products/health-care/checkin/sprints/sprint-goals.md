@@ -49,7 +49,7 @@ Added on 5/23
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
       - Prepare for & Release to production
-          - Submit a 508 audit request (for after release) (see [process](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office))
+          - Address 508 audit feedback (for after release) (see [process](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office))
 
 ---------------------- END FUTURE / TENTATIVE ---------------------------------
 __________________________________________________________________________________________________________________________________________________________
