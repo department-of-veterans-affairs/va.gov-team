@@ -11,10 +11,13 @@ ________________________________________________________________________________
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
      - **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**          
      - **Sub Goal: [Address IA/Content/A11y Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57441)**     
-     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**     
+     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**   
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address tech & design debt**
      - **Sub Goal: Prepare for Prod Support of APIs**
+Added on 5/23
+- **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
+   - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**  
 
 #### PLANNED RELEASES 
 - None
@@ -41,6 +44,12 @@ ________________________________________________________________________________
        - Finalize plans for support the CHIP & LoROTA APIs in production
            - Meet to finalize plans
            - Get email group associated with our SNOW assignment group
+
+Added on 5/23
+- **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
+   - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
+      - Prepare for & Release to production
+          - Submit a 508 audit request (for after release) (see [process](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office))
 
 ---------------------- END FUTURE / TENTATIVE ---------------------------------
 __________________________________________________________________________________________________________________________________________________________
