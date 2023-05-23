@@ -66,14 +66,15 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ###Task goal: gauge whether or how much vets understand the intro and what language they find clear/confusing 
 
-- Same as before, imagine you are here to *insert pertinant scenario,* 
+- Imagine you are here to *insert pertinant scenario,* 
 - Take a moment to look over the page, what is the first thing you would do on this page?
-- Read everything on this page up until the “Sign in” button at your own pace, let me know when you are finished, and then I will ask you a few questions about what you read
+- Read everything on this page up until the “Sign in” button at your own pace. You can read aloud or to yourself. let me know when you are finished, and then I will ask you a few questions about what you read.
 - Is there any information missing from this section that you personally would want to know?
-- Was any of this information unclear or confusing?
+- DO you think they could make the information here clearer? how so?
 - On a scale from 1 to 10, 1 being not at all useful, and 10 being very useful, how useful or not was the information in this section of the page?
     - Why did you choose that number?
 - From what you’ve read here, what is your understanding of who qualifies for benefits under the PACT act?
+       alt: if you had to explain the new PACT act to someone else, how would you put it ?      
 
 ## Second Task: [STEP 1] Is this the form for you - 10 minutes
 
@@ -81,7 +82,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 gauging expandable sections UX on mobile + gauge exapndable alert interaction 
 
 - Same as before: Imagine you are here to *insert pertinant scenario to participant*
-- MOBILE: Without clicking on anything just yet, looking at the steps listed here, what do they tell you about applying for the form, if anything?
+- MOBILE: Without clicking on anything just yet, looking at the steps listed here, what do they tell you about the process for filing for disability compensation?
 - From what you have seen so far, what are some actions you think you can take on this page? 
 
 - IF ON MOBILE: what do you expect to see when you open section 1?
@@ -187,17 +188,19 @@ QUESTIONS CONCERNING EXPANDABLE UI/INFO - BDD
 - Which parts of this section do you think they could make clearer?
 - If you had to explain "intent to file" to someone else, how would you put it?
 
-**If not mentioned before and within allotted time:**
+**If not mentioned before and within the allotted time:**
 
 - What is your understanding of the information regarding additional forms like those for dependents and aid?
 
-SENTIMENT AND TRUST TESTING
+SENTIMENT AND TRUST TESTING 
 
 - In your opinion, is there a difference between the words “condition” and “disability”?
 - On a scale from 1 to 10, 1 being not at all prepared and 10 being extremely prepared, how prepared or not do you feel to begin the 526 form after reading this page?
 - How likely or unlikely would you be to reach out to a VSO for help  completing the form?
 - Now that you have read through this page, is there any information missing from this page that you feel is needed to equip veterans to begin the form on their own?
+- If we needed to shorten this page, is there any information you think we could take out? 
 - From what you have seen here, how long do you think completing the form digitally would take you?
+
 
 
 
@@ -211,20 +214,21 @@ SENTIMENT AND TRUST TESTING
 
 ## START PAGE BDD TASKS - 5 MIN
 
-- This section is a bit different. I’m going to guide you through this portion of the protoype. I’m going to tell you where to click and ask you a few questions about what you see.
+- This section of the interview is a bit different. I’m going to guide you through this portion of the protoype. I’m going to tell you where to click and ask you a few questions about what you see.
 - *Imagine you are currently on active duty and looking for information about applying for disability compensation*
 - Select “*yes” for question “Are you on Active duty right now”*
 
-**Second page after selecting yes/  understanding date enter error**
+**Second page after selecting yes 
 
 - What is your understanding of this page?
 - Is it clear which date the form is asking for here?
-- What is your understanding of the information about the separation health assessment?
-- Is anything about this information unclear?
-- *Click to enter date * alert populates OR depending on design will trigger a new page with alert info
-- Read through the information in the alert at your own pace.
-- In your own words, what is the gist of the alert?
-- What happend on your “your separation date”? In your understanding, is this the same as your "obligation end date"
+- do you think they could make any of the information on this page clearer? how so?
+*Click to enter date * *click continue*
+
+- Read through the information here at your own pace.
+- In your own words, what is the gist of the information here?
+- Great! Any last thoughts you want to share before we end?
+
 
 ## Thank-You and Closing - 2 minutes
 
