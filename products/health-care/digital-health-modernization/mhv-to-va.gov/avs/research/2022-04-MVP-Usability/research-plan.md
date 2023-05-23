@@ -137,25 +137,44 @@ When ready, fill out that ticket with the following information:
 ### Availability
 | Team Availability |  Time Slots (ET) |
 | ----------- | ----------- |
-|June 1, 2023  | 9:00 a.m. - 10:00 a.m.  (last session can start at 10:00 a.m.), and 12:00 p.m. - 2:30 p.m. (last session can start at 2:30 p.m.) |
-|June 2, 2023  | 9:00 a.m. - 12:00 p.m. (last session can start at 12:00 p.m.), and 3:30 p.m. - 4:00 p.m. (last session can start at 4:00 p.m.)   |
-|June 5, 2023  | 9:30 a.m. - 10:00 a.m. (last session at can start at 10:00 a.m.), and 1:30 p.m. (last session can start at 1:30 p.m.)  |
-|June 6, 2023  | 9:15 a.m. - 10:00 a.m. (last session session can start at 10:00 a.m.), and 2:30 p.m. (last session can start at 2:30 p.m.)    |
+|June 5, 2023  | 9:30 a.m. - 10:00 a.m. (last session can start at 10:00 a.m.), and 1:30 p.m. (last session can start at 1:30 p.m.)  |
+|June 6, 2023  | 9:15 a.m. - 10:00 a.m. (last session can start at 10:00 a.m.), and 2:30 p.m. (last session can start at 2:30 p.m.)    |
 |June 7, 2023 |  9:15 a.m. - 1:00 p.m.  (last session can start at 1:00 p.m.)|
 |June 8, 2023 |  9:15 a.m. - 11:00 a.m. (last session can start at 11:00 a.m.), and 1:00 p.m. (last session can start at 1:00 p.m.)|
 |June 9, 2023 |  9:15 a.m. - 12:00 p.m. (last session can start at 12:00 p.m.), and 3:30 p.m. - 4:00 p.m.  (last session can start at 4:00 p.m.)  |
-
-
+|June 12, 2023 | 9:30 a.m. - 11:00 a.m. (last session can start at 11:00 a.m.), and 1:30 p.m. - 3:30 p.m. (last session can start at 3:30 p.m.)  |
+|June 13, 2023 | 9:30 a.m. - 12:00 p.m. (last session can start at 12:00 p.m.), and 3:30 p.m. (last session can start at 3:30 p.m.)  |
 	
 ## Team Roles	
-Please list the people who will be serving in each role. 	
-- Moderator:
-- Research guide writing and task development:	Kristen McConnell 
-- Participant recruiting & screening:	Perigean
-- Project point of contact:	Kristen McConnell 
-- Participants for pilot test:	TBD
-- Note-takers: TBD
-- Observers:	Adrian Rollett (adrian.rollett@va.gov)
+
+**Project Point of Contact:**
+- Kristen McConnell
+- primary phone number: (412) 337-8216
+- email; kristen.mcconnell@va.gov
+
+**Moderator:** 
+- Kristen McConnell
+- primary phone number: (412) 337-8216
+- email: kristen.mcconnell@va.gov
+
+**Alternate Moderator:**
+- Nina Anusavice
+- primary phone number: (508) 353-5641
+- email: nina.anusavice@va.gov
+
+**Research Guide Writing and Task Development:**
+- Kristen McConnell	
+
+**Participant Recruiting & Screening:**	
+- Perigean
+
+**Participant for Pilot Test:**
+- TBD
+
+**Note-takers:**
+- TBD
+
+**Observers:**	
   - Adrian Rollett (adrian.rollett@va.gov)
   - Peter Russo (peter.russo@adhocteam.us)
   - Ciera Maddox (ciera.maddox@adhocteam.us)
