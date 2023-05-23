@@ -2,7 +2,7 @@ name: "Assistive Technology Research Support Ticket (CAIA)"
 description: "Request support for research with disabled Veterans using assistive technology"
 title: "[CAIA A11y Research]: Team name, product name"
 labels: ["508/Accessibility, sitewide CAIA, sitewide accessibility, CAIA-a11y-research"]
-assignees: [coforma-terry, angelafowler82]
+assignees: [coforma-terry]
 body:
 - type: markdown
   attributes:
@@ -55,14 +55,14 @@ body:
 - type: markdown
   attributes:
     value: "## Research details"
-- type: markdown
+- type: checkboxes
+  id: research-details
   attributes:
-    value: |
-     Before moving forwards, please:
-       1. [Review our capacity calendar for CAIA availability](https://calendar.google.com/calendar/u/0/embed?src=c_f982350fc73a8162a1088ab14d00dd37335b2b559a60d6b67eb8021416f81c2a@group.calendar.google.com&ctz=America/Chicago)
-       2. Based on this calendar, confirm we have specialists who can support your study in your desired timeframe
-       3. Confirm you are filing this support ticket at least 1 week in advance of said timeframe, so we have enough heads up to provide support
-     If CAIA support is available during your timeframe, we are good to go! Otherwise, we recommend pushing back your research if possible until there is available support.
+    label: Calendar checking
+    description: Before moving forwards, please [review our capacity calendar for CAIA availability](https://calendar.google.com/calendar/u/0/embed?src=c_f982350fc73a8162a1088ab14d00dd37335b2b559a60d6b67eb8021416f81c2a@group.calendar.google.com&ctz=America/Chicago)
+    options:
+      - label: Based on this calendar, confirm we have specialists who can support your study in your desired timeframe
+      - label: Confirm you are filing this support ticket at least 1 week in advance of said timeframe, so we have enough heads up to provide support
 
 - type: checkboxes
   id: calendar
@@ -96,20 +96,21 @@ body:
       ...
   validations:
     required: true
-- type: markdown
+- type: checkboxes
+  id: next-steps
   attributes:
-    value: "## Next steps"
-- type: markdown
-  attributes:
-    value: |
-      - [ ] [Your team]: Post a link to this ticket in the #accessibility-help Slack channel and tag Terry Nichols.
-      - [ ] [Your team]: [Your team's researchers and observers read through platform guidance on research with assistive technology users](https://depo-platform-documentation.scrollhelp.site/research-design/research-assistive-technology-sessions)
-      - [ ] [CAIA]: Specialists are assigned to your research 
-      - [ ] [CAIA]: Specialists review your conversation guide and research plan
-      - [ ] [Your team]: Provide specialists your participant details (skill level, operating system, assistive tech used, browser)
-      - [ ] [CAIA]: [Specialists create a research notes template](https://docs.google.com/spreadsheets/d/1YzcNjUgnFS2JSnQD7IuaNx8MMH07M3xshqmepOCEKfs/edit?usp=sharing)
-      - [ ] [CAIA]: Post research, [specialists will add accessibility findings to your research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/accessibility-findings-template.md)
-      - [ ] [Your team]: Post support, fill out this optional feedback form to let us know how we can support y'all better into the future.
+    label: Next steps
+    description: Complete these after submitting this ticket with your CAIA specialist
+    options:
+      - label: Post a link to this ticket in the accessibility-help Slack channel and tag Terry Nichols.
+      - label: Your team's researchers and observers read through platform guidance on research with assistive technology users
+      - label: CAIA Specialists are assigned to your research, be sure to add the respective a11y specialist(s) to your session invites (include the Zoom or Teams link). 
+      - label: CAIA Specialists review your conversation guide and research plan
+      - label: Provide specialists your participant details like skill level, operating system, assistive tech used, browser
+      - label: CAIA specialists will provide you an optional feedback form to let us know how we can support y'all better into the future.
+      - label: CAIA Specialists create a research notes template
+      - label: CAIA Post research, specialists will add accessibility findings to your research folder
+     
+      
+      
 
-      
-      

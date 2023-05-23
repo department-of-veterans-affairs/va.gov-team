@@ -10,11 +10,8 @@ Primary and specialty care appointments are available.
 
 (CTA) Start scheduling
 
-```diff
-- (H2) Your appointments
-+ (H2) Appointments
-@@ GH58110 @@
-```
+(H2) Appointments
+
 ---
 
 ## Homepage Refresh Toggle
@@ -30,11 +27,9 @@ Schedule primary or specialty care appointments.
 ### Appointment List Options
 
 #### Upcoming
-```diff
-- (H2) Your appointments
-+ (H2) Appointments
-@@ GH58110 @@
-```
+
+(H2) Appointments
+
 Links {Pending, Past}
 
 ---

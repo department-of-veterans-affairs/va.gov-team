@@ -82,7 +82,7 @@ This is a known problem the identity team is already working on, but it’s wort
 Pages related to logging in, being redirected and automatically logged out make up a large portion of the top 25 pages in our analytics reports as well.
 
 ## High-level recommendations
-1. Replace the homepage with My VA for logged-in users, to increase personalization, reduce redundancy, and give people more direct access to their VA tasks.
+1. Replace the homepage with My VA for logged-in users, to increase personalization, reduce redundancy, and give people more direct access to their VA tasks. For this to be successful, we'll first need to consider some things currently missing from My VA (e.g. records) and how we might give people access to non-task content currently on the homepage.  
 2. Explore how we can improve access to personalized content throughout the benefit hubs, navigation, My VA, and profile. This could include simplification of the navigation, and adding high-priority items (such as benefit letters) to My VA and/or profile.
 3. Increase our understanding of user needs at different parts of their journey with VA to inform design and IA enhancements to improve their VA.gov experience. This might make more sense to do when the identity team is closer to supporting non-Veteran user roles.
 4. Continue work in progress to improve the login experience.

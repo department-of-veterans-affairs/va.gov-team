@@ -4,121 +4,114 @@ File for disability compensation with VA Form 21-526EZ
 
 Equal to VA Form 21-526EZ (Application for Disability Compensation and Related Compensation Benefits).
 
-Use this form to file for disability benefits for an illness or injury that was caused by—or got worse because of—your active military service. This page describes what you need to do to file a new claim or a claim for increased disability compensation.
+Use this form to file a new claim or a claim for increased disability compensation.
 
 
 > **Toxic exposure and PACT Act**
 > 
-> The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of conditions we can automatically assume (or “presume”) was caused by your service. **If this applies to you, we encourage you to file for benefits now.** If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application.
-[Learn more about the PACT Act and what is now presumptive](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
+> The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of conditions we can automatically assume (or “presume”) was caused by your service. **If this applies to you, we encourage you to file for benefits now.** If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application. If you filed a claim in the past for a condition that is now presumptive, and were denied, then file a Supplemental Claim. [Learn more about the PACT Act and what is now presumptive](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
 
    
 > **Have you already started your application?**
 > 
-> [button] Sign in to start or continue your application
+> [button] Sign in 
 
 
-Follow the steps below to file a claim for a new or secondary condition or for increased disability compensation.
+Follow these steps to get started.
 
 1. Determine if this form is for you 
 
-This form is for you if you’ve served (on active duty, active duty for training, or inactive duty training), you have a current illness or injury (known as a condition) that affects your mind or body, and:
-- You got sick or injured while serving (this is called a service-connected disability), **or**
-- You had an illness or injury before you served and serving made it worse, **or**
-- A service-connected illness or injury you already have has caused a new injury or illness
-This form is for filing a new claim or a claim for increased disability compensation for a claim decided more than one year ago. [Get more information about eligibility for disability compensation.](https://www.va.gov/disability/eligibility/)
+Use this form if you’re filing a new claim or a claim for increased disability compensation.
 
-If you are filing a new claim after an initial claim for the same or similar benefit was previously decided AND you have new and relevant evidence, you can [file a supplemental claim](https://www.va.gov/decision-reviews/supplemental-claim/). 
+Make sure you meet our eligibility requirements before you apply. You may be eligible for VA disability benefits or compensation if you meet these requirements.
 
-If you disagree with a VA decision, you can [request a decision review](https://www.va.gov/decision-reviews/). 
+**Both of these must be true:**
+- You have a current illness or injury (known as a condition) that affects your mind or body, **and**
+- You served on active duty, active duty for training, or inactive duty training
 
-In addition to this form, there are other forms you may wish or need to complete related to disability benefits. If you apply here online, you will have the option to include in your application the necessary forms for if you are:
-- Claiming Individual Unemployability 
-- Claiming posttraumatic stress disorder (PTSD), including based on a personal assault
-- Authorizing the release of your medical records to VA
+**And at least one of these must be true:**
+- You got sick or injured while serving in the military, **or**
+- You had an illness or injury before you joined the military—and serving made it worse, **or**
+- You have a disability related to your active-duty service that didn’t appear until after you ended your service, **or**
+- A service-connected illness or injury you already had caused a new injury or illness
 
-You may consider submitting other forms if you wish to claim:
-- Specially Adapted Housing or a Special Home Adaptation
-- Auto allowance
-- Auto adaptive-equipment grant
-- Aid and Attendance because you’re in a nursing home
-- Additional benefits because you or your spouse needs Aid and Attendance
-- Dependents
-[Learn more about these forms and how to complete them.](https://www.va.gov/disability/how-to-file-claim/additional-forms/)
+[Learn more about eligibility for VA disability benefits](https://www.va.gov/disability/eligibility/)
 
+You’ll need to [file a Supplemental Claim](https://www.va.gov/decision-reviews/supplemental-claim/) **instead** of this form if either of these is true:
+- We decided your claim in the past and you have documentation you didn’t submit to us in the past (or identify for us to gather) that proves or disproves something in your claim
+- You’re requesting a review of your claim based on a change in law (such as the PACT Act)
 
-> **Are you a currently on active duty as a service member?**
-> 
-> Service members who have an illness or injury that was caused or made worse by their active duty service, can use this form to file for disability benefits 90 to 180 days before they leave the military through the Benefits Delivery at Discharge (BDD) program. 
-> 
-> **Note:** You’ll need to submit service treatment records for the current period of service as well as a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. (We estimate that it will take you at least 30 minutes to complete this form, and we recommend you download and fill out this form on a desktop computer or laptop then return to this form to upload.)
-> 
-> After you file your claim, you’ll need to be available to complete an exam for 45 days after your claim is submitted. [Learn more about Benefits Delivery at Discharge (BDD)](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/).
-
-
+>Have you been granted benefits already? 
+>If you have already been granted benefits, and are filing a claim because your condition has worsened (this is called a claim for increase), you might want to first check to see if you’re already receiving the maximum disability rating for your condition. You can do this by signing in and [viewing your claim letters](https://staging.va.gov/track-claims/your-claim-letters).
 
 2. Decide how you want to apply 
 
-This digital form was designed to help you complete the form efficiently. You will be able to answer the questions relevant to you, upload digital documents, save your progress, and track the status of your claim after submission. The time it takes to complete this will depend on the number of conditions you are claiming and the number of documents that you upload. You can save and come back to the application at any time.
+We’ll take you through each step of the process online. You will be able to answer the questions relevant to you, upload digital documents, and save your work in progress. The time it takes you to complete your application depends on how many conditions you’re claiming and how many documents you need to upload.
 
-You may wish to contact an accredited veterans service officer (VSO) to assist you with your application. [Here is a list.](https://www.va.gov/ogc/recognizedvsos.asp) If you need further assistance with the application process, you may also [contact your state office of veterans affairs](https://www.va.gov/statedva.htm). 
+You may choose to [contact an accredited veterans service officer (VSO)](https://www.va.gov/ogc/recognizedvsos.asp) to assist you with your application. If you need further assistance with the application process, you may also [contact your state office of veterans affairs](https://www.va.gov/statedva.htm). 
 
 [Learn about other ways you can file a disability claim](https://www.va.gov/disability/how-to-file-claim/)
 
+3. Gather information
 
-> If you are granted benefits, your benefits will be effective as of either the date we received your claim or the date that documentation shows a change in your condition that supports the level of compensation.
-> 
-> If your condition was present when you separated from the military, and we receive your claim before or within one year of that separation, the effective date will be from the day following the date of your separation.
-> 
-> **When you start your application here and now, you’ll declare your intent to file. This will reserve a potential effective date for when you could start getting benefits.** You have 1 year from the day you submit your intent to file to complete your application.
+We'll determine your disability compensation based on:
+- the nature and symptoms of the condition(s) you claim, 
+- severity and duration of the symptoms, **and**
+- the impact of the condition and symptoms on your employment
 
+We'll review relevant medical records from VA medical centers and from private doctors or hospitals that you identify and authorize us to. We might also ask you to complete an exam.
 
+We strongly encourage you to submit documentation to help us understand 
+- how your injury or illness is connected to your service, **and** 
+- how the condition impacts you and your ability to work. 
 
-3. Decide what you’ll claim and gather information
-
-Your disability compensation will be determined based on the nature and symptoms of the condition, severity and duration of the symptoms, and the impact of the condition and symptoms on your employment. 
-
-Each service-connected condition will be assigned a rating from 0% to 100% based on documentation. If you have already been granted benefits, and are filing a claim because your condition has worsened (this is called a claim for increase), you might want to check to see if you’re already receiving the maximum disability rating for your condition. You can do this by signing in and [viewing your claim letters](https://staging.va.gov/track-claims/your-claim-letters).
-
-While processing your claim we will review relevant medical records that you identify and authorize us to (you can give us this permission when you file here). These may include records from Federal facilities such as VA medical centers, State or local government facilities, and/or private doctors or hospitals. In some cases if we need additional documentation we may also ask you to have an exam to help us rate your disability.
-
-We strongly encourage you to submit documentation as soon as you can to help us understand how your injury or illness is connected to your service, and how the condition impacts you and your ability to work. If we previously granted you benefits, and your condition has worsened, we need documentation that shows that increase in severity and the effect that worsening has had on you and your ability to work.
-
-
-> **Toxic exposure and PACT Act**
-> 
-> To get a disability rating, we need to see that your condition connects to your military service. For many conditions we need documentation to see this, but for some conditions we can automatically assume (or “presume”) that your service caused your condition. **If you have what we call a presumptive condition, we don’t need documents showing service caused the condition.** 
->    
-> The PACT Act is a new law that expands benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances by adding to the list of presumptive conditions. **If this applies to you, we encourage you to file for benefits now.** If you do so before August 10, 2023, and we grant your application, we’ll likely backdate your benefits to the date of the bill signing. This means we’ll pay you the amount you would have received from August 10, 2022 to the date we grant your application.
->   
-> To support a claim for presumptive service connection, you only need to submit documentation showing you served in a location and/or you have a current condition that qualifies you for the presumption. [Learn more about the PACT Act and what is now presumptive](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
-   
-   
+If we previously granted you benefits and your condition has worsened, we need documentation that shows
+- the increase in severity **and** 
+- the effect that has had on you and your ability to work.
 
 To support your claim, you can upload documentation such as:
-- VA medical records and hospital records that relate to your claimed condition or that show your disability has gotten worse
-- Private medical records and hospital reports that relate to your claimed condition or that show your disability has gotten worse
-- Supporting statements from family, friends, employers, coworkers, clergy, or law enforcement personnel with knowledge about how and when your conditions occurred or got worse and how it affects you and your ability to work
-If your claim involves a condition that was made worse by service, please provide any information or documentation regarding the condition before your entry into service. 
+- **VA medical records and hospital records.** These could relate to your claimed illnesses or injuries or they could show that your rated disability has gotten worse.
+- **Private medical records and hospital reports.** These could relate to your claimed illnesses or injuries or they could show that your disability has gotten worse.
+- **Supporting statements.** These could be from family members, friends, clergy members, law enforcement personnel, or people you served with. These statements could tell us more about your claimed condition and how and when it happened or how it got worse.
 
-In addition to asking you to provide information about your condition, we will also ask you about your service and other types of pay you may be receiving (retired, separation, and/or disability severance pay).
+> **Are you currently on active duty as a service member?**
+> 
+> If you’re a service member on active duty, you can use this form to file a claim for disability benefits through the Benefits Delivery at Discharge (BDD) program if both of these are true:
+> - You have an illness or injury that was caused or made worse by your active-duty service, **and** 
+> - Your separation date is in the next 90 to 180 days
+> You can use this form to file a claim for disability benefits through the Benefits Delivery at Discharge (BDD) program.
+> 
+> **Note:** You’ll need to submit service treatment records for the current period of service as well as a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. Your claim will be delayed until we receive this self-assessment form. We estimate that it will take you at least 30 minutes to complete it. We recommend you download and fill it out on a computer or laptop then return to this 526 form to upload.
+> 
+> After you file your claim, you’ll need to be available for 45 days after your claim is submitted to complete an exam. [Learn more about Benefits Delivery at Discharge (BDD)](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/).
 
+If you apply here online, we'll also include in your application the additional forms we'll need if:
+- You're claiming posttraumatic stress disorder (PTSD)
+- You're authorizing us to request private medical records
+- You can't work because of a disability related to your service (this is called Individual Unemployability)
 
-4. Complete application
+4. Apply
 
-To start your application here, you’ll need to set up an account and profile. You’ll need to provide an email address, set up an authentication method, and verify your identity.
+We’ll take you through each step of the process.
 
-Once you start your application, you’ll declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You have 1 year from the day you submit your intent to file to complete your application.
+**Note:** When you start your application online now, you’ll declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You have 1 year from the day you submit your intent to file to complete your application. After 1 year, you’ll have to start a new application and we'll have to reset your potential effective date.
 
-The time it takes to complete this will depend on the number of conditions you are claiming and the number of documents that you upload. You can save and come back to the application at any time.
+After you submit your claim here, you'll see a confirmation page. We won't send you another notification or receipt.
 
-After you submit your claim here you will see a confirmation page. You will not get another notification (by email or mail, for example).
+We process applications in the order we receive them. It usually takes about 3-4 months for us to make a decision on your claim, but it could take longer. We’ll contact you by phone or letter if we need additional forms or information to support your claim. Please open and respond to any letters you receive from us.
 
-In some cases, you may need to turn in one or more additional forms to support your claim. If additional information is needed, you will receive a letter from us. 
+You'll have up to 1 year after you submit your claim to submit additional documents. If we decide your claim before the end of that year, we might request that you submit a new application. [Learn more about uploading evidence documents to support disability claims.](https://www.va.gov/disability/upload-supporting-evidence/)
 
-If you want to submit additional documentation after you submit your claim, you have up to one year to do so. However, we may decide your claim before the end of that one year period, in which case we may request you submit a new application. [Learn more about uploading evidence documents to support disability claims.](https://www.va.gov/disability/upload-supporting-evidence/)
-
-
+>Do I need to submit any additional forms?
+>You may also submit additional forms to support your disability claim if you’re claiming any of these: 
+>- Specially Adapted Housing or a Special Home Adaptation
+>- Auto allowance
+>- Auto adaptive-equipment grant
+>- Aid and Attendance because you’re in a nursing home
+>- Additional benefits because you or your spouse needs Aid and Attendance
+>- Dependents
+>
+>[Get additional forms.](https://www.va.gov/disability/how-to-file-claim/additional-forms/)
 
 
 > **Sign in to start or save your work in progress**
@@ -126,7 +119,6 @@ If you want to submit additional documentation after you submit your claim, you 
 > Here’s how signing in now helps you:
     - By starting an application, you let us know you intend to file a claim, which holds a potential effective date for when you could start getting benefits.
     - You can save your work in progress. You’ll have 1 year from when you start or make updates to your application to come back and finish it.
-    - After you submit your application, you can track claim status and upload additional documents on your profile.
 > 
 > [button] Sign in to start or continue your application
    
@@ -145,13 +137,14 @@ Are you on active duty right now?
 Yes
 No
 
-> We’ve saved your application. It was last saved on December 2, 2022, at 5:25 p.m. EST. Your application ID number is 15428. You can continue your saved application at a later time by viewing benefit application drafts in My VA.
+> We’ve saved your application. It was last saved on December 2, 2022, at 5:25 p.m. EST. Your application ID number is 15428. You can continue filling out your saved application later by going to benefit application drafts in My VA.
 
 
 
 ## Service end date content: [if yes to active duty]
 
-What’s the date or anticipated date of your release from active duty?
+When will you separate from active duty? 
+**Note:** This could be a different date from when you're released from your contract or when your service obligation ends.
 
 Month:
 
@@ -163,27 +156,31 @@ Year:
 > 
 > Based on your separation date, you can apply for benefits now (using VA Form 21-526EZ).
 > 
-> **Select ‘continue’ to start now and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits.** You will have 1 year from the day you submit your intent to file to complete your application.
+> Select **Continue** to start now and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You'll have 1 year from the day you submit your intent to file to complete your application. (After 1 year, you’ll have to start a new application and your potential effective date will be reset.)
 
 
 > [background color only alert component if date between 90-180 days]
 > 
-> Based on your separation date, you can apply now for benefits under the Benefits Delivery at Discharge (BDD) program. [Learn more about the BDD program.](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/)
+> Based on your separation date, you can apply now for benefits under the Benefits Delivery at Discharge (BDD) program. [Learn more about the BDD program](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/)
 > 
-> **You have x days left (until x) to complete and submit this form and apply under the BDD program.** 
+> You have x days left (until x) to apply for benefits under the BDD program.
 > 
-> After that date, you can apply for benefits here (using VA Form 21-526EZ). We recommend you return here as soon as you can to start and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You will have 1 year from the day you submit your intent to file to complete your application.
+> After this date, you can still apply for benefits using VA Form 21-526EZ (though you will not be in the BDD program). 
 > 
-> Select ‘continue’ to apply now.
+>Select **Continue** to start now and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You'll have 1 year from the day you submit your intent to file to complete your application. (After 1 year, you’ll have to start a new application and your potential effective date will be reset.)
+
+> 
 >
-> **Prepare your Separation Health Assessment Part A Self-Assessment**
-> You’ll need to submit service treatment records for the current period of service as well as a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. We estimate that it will take you at least 30 minutes to complete this form, and we recommend you download and fill out this form on a desktop computer or laptop then return to this form to upload.
+> **Complete a Separation Health Assessment Part A Self-Assessment**
+> You’ll need to submit a [Separation Health Assessment – Part A Self-Assessment](https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp) as part of your claim so we can request your VA exam. Your claim will be delayed until we receive this self-assessment form. We estimate that it will take you at least 30 minutes to complete it. We recommend you download and fill it out on a computer or laptop, then return to this 526 form to upload.
 
 
 > [background color only alert component if date >180 days]
 > 
 > Based on your separation date, you’ll need to wait to file for disability benefits.
 > 
-> **In x days (on x), you can apply here for benefits under the Benefits Delivery at Discharge (BDD) program.** [Learn more about the BDD program.](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/)
+> In x days (on x), you can apply for benefits. You will then have x days (until x) to apply for benefits under the BDD program.[Learn more about the BDD program](https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/)
 > 
-> After x, you can apply for benefits here (using VA Form 21-526EZ). We recommend you return here as soon as you can to start and declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You will have 1 year from the day you submit your intent to file to complete your application.
+> After x, you can still apply for benefits using VA Form 21-526EZ (though you will not be in the BDD program). 
+> 
+> We encourage you to start filling out this application as soon as you can to declare your intent to file. This reserves a potential effective date for when you could start getting benefits. You have 1 year from the date you submit your intent to file to complete your application. (After 1 year, you’ll have to start a new application and your potential effective date will be reset.)

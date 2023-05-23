@@ -87,9 +87,11 @@ TBD
 ### Technical Approach
 * Unique identifier?
 * Discharge status API
+   * [Veteran Verification API](https://developer.va.gov/explore/verification/docs/veteran_verification?version=current) has this data
 * Is there a way to access which Veterans have VICs and just surfacing it in the app?
 * ID needs to be available offline
 * Must have non-dishonarable discharge
+   * [Veteran Verification API](https://developer.va.gov/explore/verification/docs/veteran_verification?version=current) has this data
 
 ### Measuring success
 #### Usefulness of VIC:
@@ -229,3 +231,48 @@ Increase active user base
 6. Are there multiple ways to capture Veteran status (e.g. if a Veteran is enrolled in Health care, can we piggyback on that presumed Veteran status?)
 7. Should we enable card deletion? 
 
+### Incoming Amazon Box (What we want)
+* Understanding of scope
+	- What does success look like
+* Past Research
+* Link to existing tools with test users, or video demo
+* Other teams within VA that have implemented this feature or something adjacent
+	- How Mobile will be different from other integrations, i.e. accessibility
+	- Original Designs of other implementations with comments, context
+	- Component maps
+	- Roadmaps for upcoming iterations of the feature
+	- Are they working on changes now?
+	- Metrics and KPIs other teams use
+	- Customer feedback data
+	- What % of user base use this feature (do they use it on their devices now?)
+	- Contact Center coverage - how does it work for current implementations, what feedback are they hearing about current implementations?
+* Available Data and how to access it
+	- API documentation
+	- Data lineage/biography (how is the data gathered? Where does it come from? (Conditional logic)
+	- How does test data work?
+* Existing Challenges
+	- What bumps did other teams encounter?
+	- Where can Mobile make a difference?
+* Stakeholders
+	- Comprehensive list of all stakeholders
+	- Core - decision-makers, they have veto power, they need to be onboard with decisions
+	- Resources - they have helpful information
+	- How to communicate with stakeholders
+	- Slack/Teams/email/meetings
+* Marketing
+	- Who would be coordinate with for communications about the feature
+
+### Outgoing Amazon Box (What we should provide for others)
+* Our Roadmap
+	- Other priorities we have that could affect delivery of this thing
+* Primer for working with Flagship Mobile
+	- Expectations for working on mobile projects, what makes Mobile different
+	- Our Release Cadence and how that affects timelines
+	- Versioning, backwards compatibility
+* What do we need changed in order for this feature to be successful on Mobile?
+	- Data/API updates
+* What Resources we have already found
+	- Questions we have from looking at existing resources
+* Our QA system/process
+	- Video demo
+* Proactive access to demo mode

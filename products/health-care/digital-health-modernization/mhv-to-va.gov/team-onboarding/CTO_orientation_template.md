@@ -11,7 +11,7 @@ Please schedule a short chat with each of these folks, either individually or in
 - [ ] Lauren Alexanderson (OCTO Portfolio) - please work with [Alicia Proctor](https://dsva.slack.com/team/U022MUJ2NAJ), Lauren's executive assistant to schedule a meeting.
 - [ ] Leila Rassi (OCTO Product)
 - [ ] Coulton Bunney (OCTO Design)
-- [ ] Patrick Bateman (OCTO Product)
+- [ ] Patrick Bateman (OCTO Product - Team Product Owner)
 - [ ] Stephen Barrs (OCTO Engineer)
 - [ ] Mark Dewey (OCTO Engineer)
 - [ ] Ryan Thurlwell (OCTO Design)
@@ -21,9 +21,8 @@ Please schedule a short chat with each of these folks, either individually or in
 - [ ] Cara Frissell (Research Lead)
 - [ ] Jonathan Nelson (Designer)
 - [ ] Carlos Felix (Technical Architect)
-- [ ] Daniel Cloud (Engineering lead)
-- [ ] Eric Voshall (Engineer)
-- [ ] Sara Smith (Accessibility)
+- [ ] Eric Voshall (Full Stack Engineer)
+- [ ] Angela Fowler (Accessibility)
 - [ ] Erin Flaherty (QA)
 
 More details about the team and our business partners can be found in the [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md#team). 

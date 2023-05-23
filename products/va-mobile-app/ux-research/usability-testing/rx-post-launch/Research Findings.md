@@ -15,8 +15,16 @@
 
 
 ### Methodology
-[ Placeholder ]
-
+* Interviewed 8 Veterans who actively manage prescriptions through the VA
+* 60-minute sessions via zoom (90-minute for AT users)
+* Veterans actively refilled a prescription while team observed
+* Incorporated a trauma-informed design approach
+    * Reviewed plan with USDS / VA Social Worker and TID expert 
+    *  Provided options to Veterans
+        * Observers present
+        * What medications or topics they wanted to talk about
+    * Room to pause if/when unexpected topics arose
+    * Session debrief with the team immediately after
 
 
 ### Hypotheses and Conclusions
@@ -25,13 +33,11 @@
 3. Veterans will struggle to refill a prescription if too much information is displayed to them that does not help them do this task.
 
 
-
 ### Key Findings
-1. Participants recognized and understood their prescriptions based on the names and dosage. Most participants used this information as the main cue for which medications were available to refill.
-2. All participants, except for one, scrolled the list to locate a specific medication. They only used filter and sort functionality once the moderator pointed it out.
-3. Some participants noticed they could only tap the [Get prescription details] link. One participant mentioned this being a difficult way to get to the detail screen, and even referenced other areas in the app where the whole row is tappable. 
-4. Participants did not understand the statuses when looking at them on both the list and the Filter options. Some commented that there were statuses that either they have never seen, or simply did not apply to their situation.
-5. Participants did not use the interface to look up status definitions, even with the information icon present on the statuses.
+1. All participants were able to successfully refill a prescription during the session. However, participants struggled to review their full list of prescriptions in order to identify the correct prescription they were looking to refill. 
+2. Participants recognized and understood their prescriptions based on the names and dosage. Most participants used this information as the main cue for which medications were available to refill.
+3. Some participants noticed they could not tap the entire card to go to the detail screen, only the [ Get prescription details ] button. 
+4. Participants did not use any other prescription status besides Active to determine what to refill.
 
 
 #### Collaborating data from app users
@@ -65,64 +71,105 @@ Filters used less than 10% of the time:
 * Transferred
 * Unknown
 
+
 ### Details of Findings
 
 **Finding 1**
 
 Labels: 
 
-1. Participants recognized and understood their prescriptions based on the names and dosage. Most participants used this information as the main cue for which medications were available to refill.
-    
-    1a. When prompted why else they knew they could refill it, they referred to a conversation they had with a provider through secure messaging, or seeing the Active label tag that’s displayed on each prescription.
+1. All participants were able to successfully refill a prescription during the session. However, participants struggled to review their full list of prescriptions in order to identify the correct prescription they were looking to refill. 
 
+* 7/9 participants had a prescription ready to refill, and all 7 participants successfully completed a refill during the research session.
+* 2/9 participants had recently refilled a prescription and reviewed the process with us
+* Seeing the full list of prescriptions made it difficult for participants to find the one they were looking for
+
+> _“They’re not updating the system….I know, because I’m taking it [my medications]. This system, it’s not good to me because if you say you see 47 prescriptions up here, I’m not taking 47 prescriptions. I’m not taking 20 prescriptions, I’m not taking 15, I’m not taking 10. If I’m no longer taking it, it should be deleted off this screen.” - Participant 1_
 
 **Finding 2**
 
 Labels:
 
-2. All participants, except for one, scrolled the list to locate a specific medication. They only used filter and sort functionality once the moderator pointed it out.
-    
-    2a. After they completed the refill request, we discussed their desired interaction. All participants preferred to only see Active prescriptions. One noted they would use “the website” [MyHealtheVet] to gather more details, if needed. Nobody expressed the need for those details. Rather, some tried to imagine scenarios where seeing all of the data would be useful–all were hypothetical.
+Participants recognized and understood their prescriptions based on the names and dosage. Most participants used this information as the main cue for which medications were available to refill.
 
+* All participants, except for one, scrolled the list to locate a specific medication to start the refill process. They only used filter and sort functionality once the moderator pointed it out.
+
+> _“I think it would be helpful to have it automatically sorted for active instead of showing the discontinued. The manufacturer that made this medication was discontinued. I think it is unnecessary to have it on there twice. They are constantly changing the manufacturer for the one that gives them the best price.” - Participant 4_
 
 **Finding 3**
 
 Labels:
 
-3. Some participants noticed they could not tap the entire card to go to the detail screen, only the [Get prescription details] link. One participant mentioned that this made it difficult to go to the detail screen, and referenced other areas in the app where the whole row is tappable. 
+Some participants noticed they could not tap the entire card to go to the detail screen, only the 
+[Get prescriptions details] button located at the bottom of each card. 
+
+* One participant mentioned that this made it difficult to go to the detail screen, and referenced other areas in the app where the whole row is tappable. 
+ 
+> _“It really bothers me that you can’t click the whole card. Having to click Get details at the bottom. Several times I have tried to tap the whole card… clicking right in the middle…to try and open that. The majority of the apps I use, the cards are clickable. Even [other areas] in the VA app, the cards are clickable in the beginning, I clicked Health care and it was a clickable card. I’ve clicked the card probably 25 times, just to get [to the detail screen].” - Participant 2_
 
 
 **Finding 4**
 
 Labels:
 
-4. Participants did not understand the statuses when looking at them on both the list and the Filter options. Some commented that there were statuses that either they have never seen, or simply did not apply to their situation.
-    
-    4a. The moderator asked participants to describe each status on the list. Some participants attempted to describe all of them, while others only spoke to the ones they had experienced. In most cases, the way participants interpreted the definitions did not match with what VA pharmacy intends to communicate.
+Participants did not use any other prescription status besides Active to determine what to refill. When prompted to define them, participants provided their own interpretation when scanning the list and the Filter options. 
 
-
-**Finding 5**
-
-Labels:
-
-5. Participants did not use the interface to look up status definitions, even with the information icon present on the statuses.
-    
-    5a. When asked how they would determine the meaning of a definition they did not know about, most participants said they would contact their provider. The method varied between secure messaging or calling the pharmacy.
+* Some commented that there were statuses that either they have never seen, or simply did not apply to their situation.
+* Participants’ definitions varied for statuses that they do not often see or have never seen.
+    * The majority of participants could not accurately describe Active: On Hold/Parked/Suspended, Discontinued, Non-verified, and Unknown. No participant accurately defined Transferred.
+* 0 participants actively tapped the label tag to look up status definitions. Most indicated that they would reach out to their provider as a status pertained to them. The method varied between using secure messages or calling the pharmacy.
 
 
 ### Additional Insights
-..
+1. Participants had creative ways to communicate their needs to their doctor. Some had suggestions for how they would use the app to do it.
+
+> _“It might be good to have a button like Refill Request, that says Compose a message from there instead of having to go back out of this to go to the message portion to send a message to my doctor. If I didn’t have any refills left, maybe the button would automatically upload this information  to streamline my ability to communicate with my doctor.” - Participant 4_
+
+> _“I would put a button [on the card] to say “**Send refill request to doctor”**. That would be good because the computer would send the refill request to the doctor and have it be precise. I could call and say [wrong dosage information]. That would mean it’s coming straight from the computer and not worry about it being wrong.” - Participant 9_
+2. Some medications require office visits for renewals. Veterans reported the inability to get an appointment with a prescriber in order to get these prescriptions filled.
+> _“It is not easy to get medication from the VA for anything….All of my mental health medications expired 3-4 months ago, and I have to wait for an appointment to get those refilled. - Participant 6_ 
+
+3. When a user selected a Filter option, it did not remain selected when navigating back and forth between the tabs on the screen. Participants expected their options to stay selected despite where they navigate.
+
+
+### Content strategy findings
+1. Only 1 participant understood that a status could have 2 parts: the prescription status and the refill status. (Example: Active: Submitted) Even though the majority of participants did not understand that a prescription can have 2 parts, this did not hinder them from successfully refilling a prescription. Participants focused on the information they could act on.
+2. Participants used the statuses to determine what action they needed to take. Some statuses do not effectively communicate what action a user may or may not need to take.
+3. Of those that responded (2), participants understood the expired date field related to the prescription expiration date and not the medication expiration date.
+4. Of those that responded (6), participants said the refills left field was important in helping manage their prescription.
+
 
 ### Recommendations
-..
+#### Now
+1. Provide a default list view that surfaces Active prescriptions without having to select additional options. This would support the observed usability patterns. Possible solution: Default the list to show Active prescriptions, and provide All prescriptions as a filter option.
+2. Improve the experience when selecting a prescription from the list. Possible solution: Increase the size of the touch target on the prescription card, or replace the component to match other areas in the app.
+3. Examine ways to keep Filter options enabled until they are cleared, regardless of where Veterans navigate within the feature.
+4. Reorganize content to meet the mental models of what’s needed to fill a prescription. Possible solution: Move fill date to the prescription detail screen, it’s more of a granular description and less important information to get the task done.
+
+#### Next
+5. Investigate a plain language approach to prescription statuses that can stand without definitions.
+6. Consider ways to incorporate “send message” functionality in the Prescriptions feature. This would support the Veteran’s journey to renew a prescription by sending the details directly to the prescribing team.
+
 
 ### Next Steps
-..
+* Incorporate a data-informed approach by using a monitoring phase to understand more about user behavior within the feature. This will help the team understand what action to take beyond this study
+* Coordinate with Product and engineering teams on items that are ranked. Activities may include:
+        * Feasibility sessions
+        * Time/schedule coordination
+        * Others TBD
+* Investigate cross-team coordination and technical lift for some of the more long term changes
+
 
 ### Appendix
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/rx-post-launch/Research%20Plan.md)
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/rx-post-launch/Conversation%20Guide.md)
+
+[Rx Post Launch Slides](https://docs.google.com/presentation/d/1RkcGErriRfJRkhrF_HvIjEBRyYlu1w2oclV7aiuZ50A/edit?usp=sharing)
+
+[Raw session notes Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1680118866236/7684cb0a5e258253f53d7c7d1b1749396b96d004?sender=uf97449a6574246b27b339084)
+
+[Post-study explorations Mural](https://app.mural.co/invitation/mural/adhoccorporateworkspace2583/1683736007327?sender=uf97449a6574246b27b339084&key=731f5a65-d87f-4abe-963a-a5092722be68)
 
 
 ### Applications used

@@ -30,6 +30,7 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 **User Experience**
 - Peter Russo (lead)
 - Ciera Maddox
+- Melissa Lefevre
 
 **Engineering**
 - Simi Adebowale (lead)

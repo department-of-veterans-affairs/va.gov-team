@@ -7,7 +7,7 @@ Date: 04/24/2023
 
 Jonathan Nelson [jonathan.nelson@adhocteam.us], Robyn Singleton [robyn.singleton@va.gov], Cara Frissell [cara.frissell@adhocteam.us] 
 
-[Research readout](link here)
+[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research/MHV%20to%20VA.gov%20Landing%20Page%20Usability%20Study%20(2).pdf)
 
 <br>
 

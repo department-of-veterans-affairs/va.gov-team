@@ -19,18 +19,48 @@
 | [Preferred Name & Gender Identification](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4028) | Meko | Green |
 | [Secure Messaging - Realignment with MHV](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4718) | Adam | GREEN |
 | [Secure Messaging - Migrate to Re-Engineered MHV APIs](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5562) | Adam | On Hold |
-| [Digital Decision Letters ](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4290)| Kelly | GREEN |
 | [WCAG 2.2 ](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4228) | Stacy | YELLOW |
 | [EVSS Backend Migration](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/2558) | Kelly | GREEN |
 | [Claims Metrics](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4078) | Stacy | GREEN |
 | [UI Automation](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Adam | GREEN |
 | [Check-In](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/4315) | Meko | PRE-DISCOVERY |
 | [VIC](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Kelly | PRE-DISCOVERY |
-| Other | Anyone | GREEN |
+| [Call Center Hand-off](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Call_Center_Integration/Call_Center_Integration.md)| Kelly | PRE-DISCOVERY |
+| [OKR Development](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Greta | Green |
+| [Mobile App Promo Banner](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5141) | Adam / Greta | Pre-Discovery |
+| [Backend Initiatives](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5140) | Jayson | Ongoing | 
+| [Frontend Initiatives](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5139) | Binny | Ongoing |
+| [UX Initiatives](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/issues/5187) | Jen | Ongoing |
+| [QA Initiatives](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/issues/5149) | Therese | Ongoing |
+| [Data Request Initiatives](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5703) | Greta | Ongoing | 
 | [CircleCI Migration](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4670) | Kelly | COMPLETE |
+| [Digital Decision Letters ](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4290)| Kelly | COMPLETE |
+
+
+
 
 
 ## Notes
+
+5/16/23
+
+Check-In
+* Team is working on providing LOE estimate for 2 check-in user experience flows 'check-in w/pre-registration & check-in w/out pre-registration.  Target to have estimates by Wed 5/16. Being tracked [here](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5670)
+* Push Notifications - Most of this effort is coordination that will need to be done w/check in team, Vetext/VaNotify (no implementation work on mobile).  If this is required for MVP, engagement will be needed with VeText/VANotify, are they in line with MVP timelines etc.
+* Deep Linking - Will require a team spike (research time) to explore what would be involved and needed to implempement deep linking on the app
+* There was an ask by Kay to add 'my-health-APPOINTMENTS' label to our check in Epic so that it would appear on the Unified Appointments Experience board.  It doesn't look like we are on the same repository and do not have access to adding the label and linking.  Need PO support on how to go about linking.  [Unified Appointments Experience Board](https://app.zenhub.com/workspaces/unified-appointments-experience-includes-mhv-to-vagov-check-in-mobile-etc-63d9ef2effd69b002641127b/board)
+  * Ryan to find out
+* Call Center Hand-off - may be another team to do MVP
+  * Ryan to follow up with Rachel about meeting on 24th
+* Better monitoring of any API outages - SM went down and we weren't sure of the process
+  * There is confusion around who is responsible for alerting of outages, especially on off-hours.  Platform has on-call rotations but our program doesn't have the same.  Previously we have been advised to not alert upstream teams to errors we see as they should already be aware, so we didn't alert of the SM outage. 
+* Providing alerts on important events in a Veteran's life - [Event Bus](https://github.com/department-of-veterans-affairs/VES/blob/master/initiatives/Invest%20in%20an%20event%20driven%20architecture.md) ETA Jan 2024
+* Moving Sprint Demo to current Sprint 0 time slot and vice versa.
+  * Confirm over Slack, want to ensure we get Rachel's feedback.  Ryan is ok with that change.
+
+
+
+---------------
 
 5/9/23
 
@@ -42,6 +72,7 @@ EVSS Migration - data discrpencies
   * We could use help understanding how VA.gov made the decision to remove it
 
 -----------------
+
 
 5/2/23
 

@@ -1,7 +1,5 @@
 # https://www.va.gov/disability/eligibility/hazardous-materials-exposure/
 
-# https://www.va.gov/disability/eligibility/hazardous-materials-exposure/
-
 ## URL
 - [X] URL follows VA.gov URL standards
 - [X] URL correctly represents the placement of the page in the IA of the site

@@ -163,7 +163,12 @@ _[provide additional help as necessary]_
 
 _[when details page is open]:_
 
-- Please describe this page and share your thoughts about it.
+- I would like you to review these results as if they were your own. Please share any thoughts you have while you go through them if any of the parts stand out for you, and let me know when you are done.
+
+_[after the participant states they are done]_
+-	Have you ever reviewed the results of your own bloodwork? 
+    -	[if yes:] When you were reviewing those results, was there something specific you were interested in learning?
+    -	[if no:] When you were reviewing those results, was there something specific you were interested in learning?
 
 - There is a result here called "ACK." We made it up, so it's not a real test. If it were and you came upon this unfamiliar result that happens to be marked as high, what would you do within this website to try to understand it?
 

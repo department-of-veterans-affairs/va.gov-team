@@ -1,4 +1,53 @@
-# Benefits Disability Experience - Product sync
+# Benefits Disability Experience - Product sync 
+
+### Date: May 17 2023
+### Topics covered:
+- Issue Management Strategy - debrief <br>
+      - Went well with good ideas <br>
+      - Write-up and finalize by next week <br>
+      - Biggest problem is lack of responsiveness and make work visible(bug board) <br>      
+- Prep for Benefits Portfolio goals next week <br>
+      - Document work aligned with our goals/metric by end of this week <br>
+- Next prioritization <br>
+      - Plan for July after Matt is back from PTO <br>
+      - Tag Matt/Shannon in the solicitation slack thread <br>
+      - Matt already has VBA priorities for the next few years <br>
+      - Matt to consider how/when to engage stakeholders for the prioritization <br>
+- QA strategy <br>
+      - Lean on Steve Albers with the engineering team around tooling and processes <br>
+      - Define the desired process <br>
+      - Not a clear process for all va.gov teams for all changes(outside the collab cycle) <br>    
+- Matt's coverage during PTO <br>
+      - Possibly Shannon/Zach <br>
+      - Will share coverage in the next couple of weeks
+
+### Date: May 10 2023
+### Topics covered:
+- Future DOC Bug - [what we learnt](https://dsva.slack.com/archives/C8R3JS8BU/p1683646680437329?thread_ts=1683565044.419109&cid=C8R3JS8BU) <br>
+   From: Cooper, Barrett E., VBAVACO  <br>
+Sent: Wednesday, February 3, 2021 9:16 AM  <br>
+Subject: Date of Contention  <br>
+Is it possible to make the date of contention for BDD and BDD-Excluded claims submitted on VA.gov as the date of claim which is the day after discharge? The field is reporting VA.gov is entering the date the claim was submitted. We are required to enter the contention with the date of the day after discharge.
+    - So using service exit date as claim open date is by design. Should we consider adding a validation to prevent them from entering contract end date as a solution?
+    - Bring it up on the next VBA sync
+- VAMC bug 
+   - User is not able to enter VAMC and move forward
+   - We find that it is not necessary input as it gets ignored by VSR/RVSR
+   - Should we consider removing this or making it optional? Do we need to run this by Alejandro/Matt B - Bring it up on the next VBA sync
+- Bugs/Defects strategy
+   - Determine severity of the bug with the stakeholders / contact center
+      - Middle of the sprint
+      - Number of veterans / percentage of users affected / etc.  
+      - When did the issue start?
+      - Specific example
+      - Send an email to Rakshinda/Matt with as much information as possible
+      - Action Item - RA - Rubric for bug severity assessment
+      - Action item - RA - Review with the team and share the Matt
+      - Copy Matt on all emails with stakeholders,esp related to bugs
+   -  Priortize bugs for discovery / fix for next sprint -   
+- Bugs - what are we picking next
+   - Bug fix for past date for BDD
+   - Possibly discovery for Identification error  
 
 ### Date: May 3 2023
 ### Topics covered:

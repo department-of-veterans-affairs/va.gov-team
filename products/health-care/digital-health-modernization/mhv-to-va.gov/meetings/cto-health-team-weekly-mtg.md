@@ -1,6 +1,14 @@
 # CTO Health Team Weekly Team Meetings
 **Note**: Team meetings were initially held bi-weekly initially, then changed to weekly in 2023 so the other day could be used for Sprint Planning/Retro and Backlog Refinement.
 
+## 2023-05-11 Team Meeting
+
+### Attendees 
+
+## Discussion 
+
+### Theme/Goal/Main Activity for the Team
+
 ## 2023-04-27 Team Meeting
 
 ### Attendees 

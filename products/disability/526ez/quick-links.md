@@ -7,10 +7,13 @@
 |Stakeholder Map|Stakeholder map for Disability Claim Submission via 526|[Link](https://app.mural.co/t/agilesixapplications0942/m/agilesixapplications0942/1674666875176/5bffb27d080685913fc74b5e4e2179511e4c2089?sender=ub46ab2ca03c3ddd9a8ac0157)||
 |Zenhub board|Backlog for Disability Experience product started in Feb 2023|[Link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/board)|Feb 2023|
 |Staging|Login to Staging site for va.gov|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/staging-login-instructions.md)||
-|526ez Process Flow Diagram|End to end process flow for core submission created by Lighthouse team|[Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1663868736153/1040f1c6df6230104917bdff6e5e157264ef9153?sender=u9943b9a042c336e83bb20590)||
+|526 sitemap|Shows flows and screenshots|[Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1680211466282/0b44cead253b62f1fde2dbed4a83a1345764b56d?wid=8-1682631266214&sender=u2905941a69b3083a009c9997)||
+|Older 526ez Process Flow Diagram|End to end process flow for core submission created by Lighthouse team|[Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1663868736153/1040f1c6df6230104917bdff6e5e157264ef9153?sender=u9943b9a042c336e83bb20590)||
 |Pre 2023 Documents|Majority of Github documents for 526ez were about 3 years old and were moved to the archive folder |[Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/archive)|2019 and older|
 |eVSS to LH migration status|Agenda for the biweekly touchpoint as well as status of each endpoint migration|[Link](https://community.max.gov/pages/viewpage.action?spaceKey=VAExternal&title=Lighthouse+-+VA.gov+Touchpoint+Topics)||
 |Platform Tools|List of each VA tool and how to obtain access|[Link](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-tools)||
+|Model/Flow Board|Mural board for flow diagrams related to 526ez|[Link](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1683913843847?sender=u1dc3a1dc47390e0b38d61593&key=32140ed2-e82d-492a-b0b0-a77fe6a993ee)||
+|Issue Management Strategy|Defines rubric for assessing issues for severity as well strategy for addressing them|[Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=1-1683888631128)||
 
 
 ## Research

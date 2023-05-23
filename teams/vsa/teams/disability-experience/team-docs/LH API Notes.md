@@ -2,8 +2,8 @@
 
 This is a living document to capture findings around LH API access. If you see something missing or incorrect, **please add or correct it**. Don't ask first- the answer is yes. Do it.
 
-## Veteran Verification
-### Links
+## Links
+
 Platform docs (*dev*): https://dev-developer.va.gov/explore/verification/docs/veteran_verification?version=current
 
 Platform docs (*staging*):  https://staging-developer.va.gov/explore/verification/docs/veteran_verification?version=current
@@ -11,7 +11,11 @@ Platform docs (*staging*):  https://staging-developer.va.gov/explore/verificatio
 Platform docs (*prod?*): https://developer.va.gov/explore/verification/docs/veteran_verification?version=current|
 
 Auth: https://staging-developer.va.gov/explore/authorization/docs/client-credentials?api=claims
+
+## Veteran Verification
+
 ### Auth token example
+
 Below is an example of how to generate an auth token for VV, using the rails console. See the [Auth page](https://staging-developer.va.gov/explore/authorization/docs/client-credentials?api=claims) for more details- and first steps. This example assumes that you've already requested a token, generated public/private keys, received a client ID, etc
 
 Enter the console by running
@@ -37,3 +41,67 @@ Make the service call to get the token.
     auth_service.get_token
 You should now be able to make curl/PostMan/etc calls using this token (until it expires, of course. then you can just call get_token again, if your rails console is still open)
 
+
+### API testing
+
+```
+bundle exec rails c
+Flipper.enable('disability_compensation_lighthouse_rated_disabilities_provider') # for testing LH calls. Use Flipper.disable() for EVSS calls
+settings = Settings.lighthouse.veteran_verification.form526
+service = VeteranVerification::Service.new
+response = service.get_rated_disabilities(settings.access_token.client_id, settings.access_token.rsa_key, {auth_params: {launch: Base64.encode64(JSON.generate({ patient: '1012845658V192434' }))}})
+```
+
+- 1012845658V192434 - ICN for jessie fisher
+- 1012845662V671308 - ICN for mattie mae
+
+(sourced from [here](https://github.com/department-of-veterans-affairs/vets-api-clients/blob/master/test_accounts/verification_test_accounts.md))
+
+## Intent To File
+
+### Auth token example
+
+Be sure to set up settings.local.yml, and especially `rsa_key`
+
+```
+settings = Settings.lighthouse.benefits_claims.form526
+client_id = settings.access_token.client_id
+aud_claim_url = Settings.lighthouse.benefits_claims.access_token.aud_claim_url
+token_url="https://sandbox-api.va.gov/oauth2/claims/system/v1/token"
+require "./lib/lighthouse/auth/client_credentials/service"
+auth_service = Auth::ClientCredentials::Service.new(token_url, API_SCOPES, client_id, aud_claim_url, settings.access_token.rsa_key)
+```
+
+### API testing
+
+service layer (`lighthouse/benefits_claims/service.rb`)
+
+```
+require "./lib/lighthouse/benefits_claims/service.rb";
+service = BenefitsClaims::Service.new("1012845662V671308") # ICN for mattie mae
+response = service.get_intent_to_file('compensation', settings.access_token.client_id, settings.access_token.rsa_key)
+```
+
+provider layer
+
+```
+require './lib/disability_compensation/providers/intent_to_file/lighthouse_intent_to_file_provider.rb'
+settings = Settings.lighthouse.benefits_claims.form526
+current_user = OpenStruct.new({icn: '1012861229V078999'})
+provider = LighthouseIntentToFileProvider.new(current_user)
+response = provider.get_intent_to_file('compensation', settings.access_token.client_id, settings.access_token.rsa_key)
+```
+
+factory layer
+
+```
+require './lib/disability_compensation/factories/api_provider_factory'
+f = ApiProviderFactory.intent_to_file_service_provider(current_user)
+Flipper.disable(ApiProviderFactory::FEATURE_TOGGLE_INTENT_TO_FILE)
+# or 
+Flipper.enable(ApiProviderFactory::FEATURE_TOGGLE_INTENT_TO_FILE)
+# side note: how to check a toggle
+Flipper.enabled?(ApiProviderFactory::FEATURE_TOGGLE_INTENT_TO_FILE)
+f = ApiProviderFactory.intent_to_file_service_provider(current_user, :lighthouse)
+f = ApiProviderFactory.intent_to_file_service_provider(current_user, :evss)
+```

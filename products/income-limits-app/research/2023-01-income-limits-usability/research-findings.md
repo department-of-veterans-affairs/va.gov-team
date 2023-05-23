@@ -6,7 +6,7 @@ Date: 05/04/2023
 
 **Cindy Merrill** [cindy.merrill@adhocteam.us]
 
-[Research readout](TBD link here)
+[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/Research%20Readout%20for%20IncLim%20usability%20testing.pdf)
 
 <br>
 

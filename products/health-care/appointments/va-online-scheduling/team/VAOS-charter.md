@@ -92,20 +92,22 @@ We're going to experiment with t-shirt size estimates. Effectively this is just 
 - 1 = small
 - 3 = medium
 - 5 = large
-- 8 = x-large
+- 7 = x-large
 
 
 ## Communication
 
 ## Slack
 
-- #vaos-team
+- #appointments-fe-meetup
+  - Delivery team announcements and intenral communication between Appointments Team and Product Owners
+- #appointments-team
   - Team announcements, broad notifications
   - Coordinated communication related to rollouts, releases, and launches
   - SQA- and testing-related questions
-- #vaos-eng
+- #appointments-eng
   - Engineering practice and technical discussions
-- #vaos-alerts
+- #appointments-alerts
   - Grafana alerts
 - #vaos-pull-requests
   - Pull request reminders

@@ -19,7 +19,7 @@ Check-in enables Veterans with appointments to:
 
 ![unnamed](https://user-images.githubusercontent.com/101129355/229234341-a6690fdb-b135-4c4b-b18f-d5d54ee31086.png)
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product).  
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product)  
 
 ### Creating a Unified Check-In Experience 
 
@@ -35,7 +35,7 @@ To mitigate these concerns, the Modernized Check-In Experience Team has decided 
 
 In this scenario, when Veterans access the new PCI web app, an appointment card component will be used to highlight the upcoming appointment that requires immediate attention. For example, the appointment needs to be confirmed or checked into.
 
-In addition, we will start showing Veterans all of their upcoming appointments as a solution for making their health appointment information more accessible, creating better consistency among other apps and web experiences across VA that provide health appointment information and enabling them to complete other related actions during a single interaction. 
+In addition, we will start showing Veterans all of their upcoming appointments as a solution for making their health appointment information more accessible, creating better consistency between digital touchpoints across VA and enabling them to complete other appointment tasks during their encounter. 
 
 ### OCTO Objectives 
 
@@ -57,47 +57,47 @@ The purpose of this research is to **get feedback from Veterans on the new unifi
 
 #### Primary Questions 
 
-1. Do Veterans find it confusing that confirming an appointment is a two step process?  
-1. How easy or difficult is it to understand that you still need to complete the online check in process even if you’ve confirmed the appointment a few days prior?  
-1. How easy or difficult is it to check in to an appointment? 
+1. Do Veterans find the day before appointment reminder and pre-check-in notifications confusing?
+1. How easy or difficult is it for Veterans to understand that you still need to complete the online check-in process even if you’ve completed the pre-check-in process a few days before?  
+1. How easy or difficult is it for Veterans to check in to an appointment? 
 1. Do Veterans think the check in confirmation page provides enough information about the status of their check in and what to do next?
-1. How easy or difficult is it to understand if other upcoming appointments require attention? For example, another appointment needs to be confirmed or checked into. 
-1. How easy or difficult is it to understand the difference between confirming an appointment and checking in to an appointment?
-1. Do Veterans find it useful or not to view the rest of their upcoming appointments when confirming or checking into one of their appointments? 
-1. Would Veterans find it helpful to receive a text message 45 minutes before each of their appointments with instructions on how to check in on their smartphone? 
+1. How easy or difficult is it for Veterans to understand if their other upcoming appointments have tasks to complete? For example, another appointment needs to complete pre-check-in or can initiate a check-in. 
+1. How easy or difficult is it for Veterans to understand the difference between the pre-check-in process and checking in to an appointment? 
+1. Do Veterans find it helpful to be able to review all of their other upcoming appointments during the pre-check-in and check-in processes?
+1. Would Veterans find it helpful to receive a text message 45 minutes before each of their appointments with instructions on how to check in? 
 
 #### Secondary Questions 
 
-9. How easy or difficult is it to find where to confirm an appointment or check in to an appointment from the appointment details page? 
-10. Do Veterans expect to see which of their appointments have already been confirmed? If so, on the appointment list page or detail page?  
+9. How easy or difficult is it for Veterans to find the call to action from the appointment detail pages? 
+10. Do Veterans expect to find information about whether an appointment has already completed pre-check-in? If so, from the the appointment list page or detail pages?  
 
 ### Hypothesis 
 
 #### Primary Questions 
 
-1. Do Veterans find it confusing that confirming an appointment is a two step process?  
-     - LIKELY FALSE: Most Veterans will find the two step process easy to understand. 
-2. How easy or difficult is it to understand that you still need to complete the online check in process even if you’ve confirmed the appointment a few days prior? 
-     - MAYBE TRUE: Some Veterans will understand that confirming an appointment does not replace checking in to an appointment and they will recommend making that distinction more clear at the completion of confirming an appointment. 
+1. Do Veterans find the day before appointment reminder and pre-check-in notifications confusing?
+     - LIKELY FALSE: Most Veterans will find the notifications easy to understand.  
+2. How easy or difficult is it for Veterans to understand that you still need to complete the online check-in process even if you’ve completed the pre-check-in process a few days before? 
+     - MAYBE TRUE: Some Veterans will understand that completing the pre-check-in process does not replace checking in to an appointment, and, therefore, they will recommend making that more clear at the completion of pre-check-in. 
 3. How easy or difficult is it to check in to an appointment? 
      - DEFINITELY TRUE: Veterans will think the process for checking in to an appointment is easy. 
 4. Do Veterans think the check in confirmation page provides enough information about the status of their check in and what to do next?
-     - DEFINITELY TRUE: Veterans will think the information on the confirmation page when checking in to an appointment is well organized and prioritized. 
-5. How easy or difficult is it to understand if other upcoming appointments require attention? For example, another appointment needs to be confirmed or checked into. 
-     - LIKELY TRUE: Most Veterans will find it easy to understand that other upcoming appointments require attention, but might recommend highlighting those tasks even more in the appointment list to draw their attention. 
-6. How easy or difficult is it to understand the difference between confirming an appointment and checking in to an appointment?
-     - LIKELY TRUE: Most Veterans will understand the difference between confirming an appointment and checking in to an appointment. 
-7. Do Veterans find it useful or not to view the rest of their upcoming appointments when confirming or checking into one of their appointments? 
-     - LIKELY TRUE: Veterans will like seeing all of their upcoming appointments in one place, even if it’s within the context of needing to confirm their appointment or check in to an appointment. 
-8. Would Veterans find it helpful to receive a text message 45 minutes before each of their appointments with instructions on how to check in on their smartphone?
+     - DEFINITELY TRUE: Veterans will think the information on the check in confirmation page is well organized and prioritized. 
+5. How easy or difficult is it for Veterans to understand if their other upcoming appointments have tasks to complete? For example, another appointment needs to complete pre-check-in or can initiate a check-in. 
+     - LIKELY TRUE: Most Veterans will find it easy to understand that their other upcoming appointments have tasks to complete, but might recommend highlighting those tasks better in the appointment list. 
+6. How easy or difficult is it for Veterans to understand the difference between the pre-check-in process and checking in to an appointment?
+     - LIKELY TRUE: Most Veterans will understand the difference between the pre-check-in process and checking in to an appointment. 
+7. Do Veterans find it helpful to be able to review all of their other upcoming appointments during the pre-check-in and check-in processes? 
+     - LIKELY TRUE: Veterans will like seeing all of their other upcoming appointments in one place, even if it’s within the context of completing the pre-check-in and check-in processes. 
+8. Would Veterans find it helpful to receive a text message 45 minutes before each of their appointments with instructions on how to check in?
      - DEFINITELY TRUE: Veterans will prefer receiving a text message 45 minutes before each of their appointments compared to scanning a poster at the clinics.  
 
 #### Secondary Questions 
 
-9. How easy or difficult is it to find where to confirm an appointment or check in to an appointment from the appointment details page? 
-     - LIKELY TRUE: Veterans will find it easy to locate where to start the process of confirming an appointment or checking in to an appointment from the appointment details page, but might recommend adding some separation between the appointment information and the action link to make it more noticeable. 
-10. Do Veterans expect to see which of their appointments have already been confirmed? If so, on the appointment list page or detail page? 
-     - LIKELY TRUE: Most Veterans will expect to see which of their upcoming appointments have already been confirmed, especially if they just completed that process for one of their appointments.   
+9. How easy or difficult is it for Veterans to find the call to action from the appointment detail pages? 
+     - LIKELY TRUE: Veterans will find it easy to locate where to start the pre-check-in and check-in processes from the appointment detail pages, but might recommend adding some separation between the appointment information and the action link to make it more noticeable. 
+10. Do Veterans expect to find information about whether an appointment has already completed pre-check-in? If so, from the the appointment list page or detail pages? 
+     - LIKELY TRUE: Most Veterans will expect to see which of their upcoming appointments have already completed pre-check-in, especially if they just completed that process for one of their other appointments.   
 
 ## Methodology 
 
@@ -110,45 +110,59 @@ Remote with Zoom
 ### Research Materials
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/conversation-guide.md)
-- [Pre-check-in CodePen prototype](https://codepen.io/cie-team/full/rNZELWo) 
-- [Check-in CodePen prototype](https://codepen.io/cie-team/full/QWVXEGQ)
+- [Pre-check-in CodePen prototype](https://codepen.io/team/va-cie/live/NWORQEe) 
+- [Check-in CodePen prototype](https://codepen.io/team/va-cie/live/qBJqWaV)
 
 ## Recruitment 
 
 ## Timeline 
 
-#### Prepare
+### Prepare
+**We would like to request a 15 minute kick-off call with Perigean before recruiting begins.**
 
-Pilot participant: 
-Date and time of pilot session: 
+Availability for a kick-off call: 
+- TBD
 
-#### Research sessions
+### Pilot session
+* Pilot participant email:  
+* Date and time of pilot session:  TBD
 
-Planned dates of research: 
+### Research sessions
+* Planned dates of research: June 12 - June 20 (not the 19th)
 
-#### Length of sessions
+### Length of sessions
+* Session length: 
+	* 1 hour for non-screenreader sessions
+	* 1 hour and 30 minutes for screenreader sessions
+* Buffer time between sessions: 30 minutes
+* Maximum Sessions per day: 6
 
-Session length: < 1 hour for non AT users, < 90 minutes for AT users</br>
-Buffer time between sessions: 30 minutes </br>
-Maximum sessions per day: 
+### Availability
 
-#### Availability 
+|Date | Time (Eastern) | Screenreader session notes |
+| -----------  | -----------  | -----------  | 
+|June 12  | 9am-6pm | Screenreaders between 9-4pm, support by Sara.Smith@oddball.io |
+|June 13  | 9am-6pm | Screenreaders between 9-4pm, support by Sara.Smith@oddball.io |
+|June 14  | 9am-6pm | Screenreaders between 9-1pm, support by Sara.Smith@oddball.io |
+|June 15-18  | 9am-6pm | No screenreader sessions |
+|June 20  | 9am-6pm | Screenreaders between 9-2pm and 3-5pm, support by Sara.Smith@oddball.io |
+
 
 ## Team Roles
 
-Moderator: Ben Brasso </br>
+Moderator: Ben Brasso ([ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)) </br>
 Research guide writing and task development: Ben Brasso, Christina Gednalske</br>
 Participant recruiting & screening: Perigean </br>
 Project point of contact: Ben Brasso</br>
 Participants for pilot test: </br>
-Accessibility specialist: </br>
+Accessibility specialist: Angela Fowler ([angela.fowler@adhocteam.us](mailto:angela.fowler@adhocteam.us)), Sara Smith ([sara.smith@oddball.io](mailto:sara.smith@oddball.io))</br>
 Note-takers: Perigean</br>
 Observers: 
 - Stephen Barrs
 - Patrick Bateman
 - Kristen McConnell
-- Mark Dewey
-- Lori Pusey
+- Mark Dewey ([mark.dewey@va.gov](mailto:mark.dewey@va.gov))
+- Lori Pusey ([lori.pusey@agile6.com](mailto:lori.pusey@agile6.com))
 - Sarah Knopp
 - Zach Park
 - Ya-ching Tsao
@@ -158,5 +172,6 @@ Observers:
 - Gaurav Gupta
 - Kanchana Suriyamoorthy
 - John Woolschlager
+- Christina Gednalske ([christina.gednalske@adhocteam.us](mailto:christina.gednalske@adhocteam.us))
 
 

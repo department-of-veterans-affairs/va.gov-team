@@ -41,10 +41,12 @@ Health Products
 - Hieu Vo | hieu.vo@agile6.com - UX Design/Research
 - Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
 - Matt Kerns | matt.kerns@agile6.com - Frontend Engineer
+- Adrien de la Cruz |        - Frontend Engineer
 - Chapley Watson | chapley.watson@agile6.com - Full Stack Engineer
 - Lihan Li | han.li@va.gov / lihan@adhocteam.us - Backend Engineer
 - Joshua Drumm | joshua.drumm@agile6.com - Backend/Full Stack Engineer
-- Luis Simauchi | luis.simauchi@adhocteam.us -- Sr Data Analyst
+- Vincent Pace | vincent.pace@adhocteam.us - QA Engineer
+- Luis Simauchi | luis.simauchi@adhocteam.us - Sr Data Analyst
 
 
 ### OCTO-DE team

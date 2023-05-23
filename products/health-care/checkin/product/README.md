@@ -65,6 +65,10 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Limited availability release to St. Louis in early 2022
 - General availability rollout to 1 VISN per week to support training needs
 
+## Incident Response Plan (Production Support)
+
+- [Incident Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
+
 ## Initiatives
 
 #### [Check-in MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/iniative-phase-2.md)

@@ -1,4 +1,4 @@
-# Proactive CSP migration research findings
+# WIP - Proactive CSP migration research findings
 Office of the CTO - Digital Experience (OCTO-DE), Sign in, Identity Team
 > **Date: MM/DD/YYYY**
 
@@ -31,22 +31,23 @@ Would any changes make the modal more helpful or more encouraging?
 What word or phrase will best convey to veterans the concept of “ID proof” or “verified account”?
 How might we encourage more veterans to migrate their CSP now, on their own, before sunsetting forces it?
 
-##Methodology
+## Methodology
 We conducted remote usability testing to evaluate a modal prototype with participants who access VA.gov via mobile devices. This was paired with interview questions to evaluate the use of words and phrases to best convey account and sign in concepts to veterans.
 
-##Hypotheses and Conclusions
-- Veterans will have a term or phrase for concepts like “verified account” that we can use to better speak to the process.
-   - Partly True - *some detail here*
-- Most veterans will not understand how CSPs are different from their account
-   - Mostly True- *some detail here*
-- Some veterans will be motivated to migrate from a legacy CSP with some encouragement, like the modal prototype
-   - Mostly False - although likely limited, *some detail here*
-- Most veterans will choose to ignore the modal their first time seeing it
-   - Definitely True - *some detail here*
-- Veterans will be more likely to choose not to set up a Login.gov account from their mobile device
-   - True - *some detail here*
-- Veterans will choose to continue to use their current (legacy) credential unless they are given a deadline or told that their credential is going away soon
-   - TBD - *some detail here*
+## Hypotheses and Conclusions
+
+1. Veterans will have a term or phrase for identity concepts like “verified account” that we can use to better speak to the process.
+   - **Partly True** - most participants understood identity concepts, but there wasn't clear coalescing around specific terms
+2. Most veterans will not understand how CSPs are different from their account
+   - **Mostly True** - Some participants understand Login.gov as credentialing, but especially those unfamiliar with Login.gov understood it as a new place to access their VA information 
+3. Some veterans will be motivated to migrate from a legacy CSP with encouragement from the modal prototype
+   - **Mostly False** - A few participants expressed openness to changing CSPs and an interest in learning more about this change. However all wanted to keep their current CSP giving the information in this modal, and some also expressed the 20 minutes would be too long of a commitment in the moment
+4. Most veterans will choose to ignore the modal their first time seeing it
+   - **Definitely True** - most participants found the modal immediately after sign in to be a nuisance interrupting the task at hand and wanted to get past it.
+5. Older Veterans will be less likely to set up a Login.gov account from their mobile device as compared with a laptop or desktop computer
+   - **True** - Many participants preferred to use a computer to update accounts or complete complex tasks, citing larger text, easier typing, and the ability to see different windows side-by-side
+6. Most veterans will choose to continue to use their current (legacy) credential unless they have no other choice for logging in to access their benefits online.
+   - **Mostly True** - Veterans are unlikely to switch to a new credential after using theirs for many years without issue. Veterans are also apprehensive about using a single sign on for multiple gov accounts since some experienced issues causing them to lose access for several days.
 
 ## Key Findings
 

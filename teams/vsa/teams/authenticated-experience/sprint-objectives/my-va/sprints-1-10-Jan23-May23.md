@@ -320,7 +320,6 @@ This assumes all work was done from last sprint, and we were able to kickoff UAT
 
 ### Onsite notifications
 
-- Determine next steps for notification center discovery.
 - Continue with component build work per what came out of collab cycle.
 - **If possible/bandwidth**: Start technical discovery on VERY MVP notification center
   - This would be a page we could link to if people have more than 3 notifications showing on My VA. 
@@ -337,3 +336,21 @@ This assumes all work was done from last sprint, and we were able to kickoff UAT
 - Update 1-month post launch to 100% stats
   - This is done in the [My VA audit project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#measuring-success)
   - Remember, we want to track stats 1 month after the date of the launch to 100% of users. So, if we went to 100% of users on 4/15, we'd track the first month of stats from 4/15 - 5/14.
+- BE documentation wrap-up: architecture diagram
+- Unit and E2E test improvements (cont.)
+
+### Onsite notifications
+
+Notification Center
+- Determine next steps for notification center discovery (review with Chante; based on convos with MHV folks there's some confusion as to what happens next)
+- Map out high-level requirements for NC (as noted above)
+  - This would be a page we could link to if people have more than 3 notifications showing on My VA. 
+  - It would not need any indicators in the nav. 
+  - This page also should not be a sub-page of My VA, at least as far as the URL goes. We'll want to link to this page from other pages (eg. health landing page) that might surface notifications
+
+Component Build
+- Replace component on My VA
+
+### Other My VA work
+- Post-launch cleanup of payment info v2 (code, tests and feature flag)
+- Post-launch cleanup appointments v2 (code, tests and feature flag)

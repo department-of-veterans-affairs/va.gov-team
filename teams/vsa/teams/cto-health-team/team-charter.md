@@ -23,13 +23,16 @@ Reduce the time it takes for a Veteran to achieve an outcome through self-servic
 
 ## Who we are
 CTO Health Team
+Team Name - Cartographers
 - [ ] Lauren Alexanderson (OCTO Product Sponsor) - please work with [Alicia Proctor](https://dsva.slack.com/team/U022MUJ2NAJ), Lauren's executive assistant to schedule meetings.
-- [ ] Leila Rassi (OCTO Product Lead)
+- [ ] Patrick Bateman (OCTO Product Lead)
 - [ ] Lynne Johnson (Delivery Manager)
+- [ ] Tom Anderson (Product Manager)
 - [ ] Cara Frissell (Research Lead)
+- [ ] Florence McCafferty (Design Lead)
 - [ ] Jonathan Nelson (Designer)
+- [ ] Keith Cheung (Designer)
 - [ ] Carlos Felix (Technical Architect)
-- [ ] Daniel Cloud (Engineering lead)
 - [ ] Eric Voshall (Full stack developer)
 - [ ] Angela Fowler (Accessibilty Specialist)
 
@@ -38,17 +41,17 @@ CTO Health Team
 ## How we work
 
 ### Workflow + Cadence
- - 2 week sprints (start every other Wednesday)
+ - 2 week sprints (start every other Tuesday)
  - Quarterly plans broken down into sprint plans
-
+  
 #### Stand-up
 - Check in on people and product progress
 - 3 Question Format: What I did yesterday? What will I do today? Any blockers?
 
 ##### Zoom Stand-up 
-- TU,W,F @ 3:30 PM ET
-- 15 min 
-- We sometimes opt to have a Slack-up if most of the team unavailable, and we cancel our ceremonies during PI planning.
+- M/W/F @ 12:00 PM ET
+- 15 min, with parking lot after if needed. Folks can drop off after stand up.
+- We sometimes opt to have a Slack-up if most of the team unavailable
 - Parking lot immediately following to discuss non-stand up topics, problem solve, etc.
 
 <br/>
@@ -72,7 +75,7 @@ As of 4/4/2023, the current columns on our sprint board columns are:
 <br/>
 
 #### Program Increment Planning
-Since our work is closely realted, we have been participating in PI planning with the "classic" My HealtheVet teams doing work for OCC.  These are 3.5 day sessions typically held in March, June, September, and December.  The organizer for that activity will send out invitations several weeks prior.  As our team members shift, the PO or PM should let the organizer know to add/remove people.
+Since our work is closely realted, we may attend PI planning with the My HealtheVet National Portal teams doing work for OCC.  These are 3.5 day sessions typically held in March, June, September, and December.  The organizer for that activity will send out invitations several weeks prior.  As our team members shift, the PO or PM should let the organizer know to add/remove people.
 
 We have created a [PI Planning board in ZenHub](https://app.zenhub.com/workspaces/mhv-to-vagov-cto-team-pi-10-integration-planning-board-63a31dce3fe3310026840f42/board) on which we list each person's capacity for a given sprint, then use it to plan work out for the PI.  This board can filtered by assignee to compare assigned work to their capacity.  This board can be re-used for each new PI by updating the PI number, dates, sprint numbers, team members, and their capacity (typically calculated as 8 points per sprint minus one point for each day of planned time off).
 
@@ -80,14 +83,20 @@ We have created a [PI Planning board in ZenHub](https://app.zenhub.com/workspace
 Outline work to be done this sprint in order to accomplish the team's goals.
 
 - Monday before the start of each sprint @2PM ET
-- 75 minutes
+- 1 hour 
 
 #### Backlog Refinement
 Assess and update workload for remainder of sprint
 
-- 2nd Monday of every sprint @ 2PM ET
+- 2nd Monday of every sprint @ 2 PM ET
 - 1 hour
 - [Zenhub: MHV on VA.gov Top-Level View](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125)
+
+#### Retrospective
+Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action/improvement items
+
+- Every other Tuesday @ 1:30 PM ET
+- 30 minutes
 
 ##### Issue Estimates
 
@@ -97,21 +106,19 @@ Assess and update workload for remainder of sprint
 | 2 | Small | ~2-3 days / ~16-24 hrs | Work is known, and can be completed with minimal hours |
 | 3 | Medium | ~3-4 days / ~24-48 hrs | Work is known, and can be completed in a couple days |
 | 5 | Large  | ~5 days / ~40 hrs | Work is known and can be completed in half a sprint | 
-| 8 | XLarge | ~6-8 days/ ~40-60 hrs | Work is complex and/or there might be unknown factors that need to be discussed prior to planning. Once further information is known, attempt to brake down into smaller tasks that can be completed in a sprint with certantity. |
-| 13 | XXLarge |  | Very complex, needs discovery or prototype before it can be planned for a sprint. |
-
-#### Retro
-Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action/improvement items
-
-- Following Sprint Planning each sprint 
-- [Mural retro meeting notes](https://app.mural.co/t/departmentofveteransaffairs9999/r/1646265288521?folderUuid=71665ae5-6949-4418-b43e-4c15ff8977fa)(requires VA.gov email + invitation to join room)
-- [Mural retro template](https://app.mural.co/template/26d527db-4983-4417-acd5-9e1ff43dec5a/1028a2d5-6844-442a-876b-c24d727d5b53)(requires VA.gov email + invitation to join)
-- [Zenhub: MHV on VA.gov Top-Level View](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125)
-
+| 8 | XLarge | ~6-8 days/ ~40-60 hrs | Work is complex and/or there might be unknown factors that need to be discussed prior to planning. Once further information is known, break down into smaller tickets that can be completed in a sprint with certantity. |
+| 13 | XXLarge |  | Very complex, needs discovery or prototype before it can be planned for a sprint. If a story is estimated as 13, it should be broken down into smaller tickets that can be completed in the sprint. |
 
 #### Team Norms
 - Team crosses all US time zones so core business/meeting hours are 12-4PM ET.
+- We work out in the open with transparency as much as possible
 - When planning meetings, we check others' calendars for availability.  If a time cannot be found, we ask folks to provide their availability using [When2meet](https://www.when2meet.com/), or if there are only a few time slots to choose from, we put it to a vote in Slack using reaction emojies - [example](https://dsva.slack.com/archives/C03ECSBGSKX/p1660768928334879).
+
+#### Team Values
+- We value everyone's wellness and need for a healthy work-life balance.
+- Communication and collaboration
+- Action over discussion
+- Ask for help when needed
 
 ##### Program Meetings
 
@@ -131,6 +138,7 @@ Review accomplishments from prior sprint, what went well, what can be improved, 
   -  [#health-portal-backchannel](https://dsva.slack.com/archives/C02TKHQCF9U)- Private invitation-only channel for discussing topics that are not yet ready for public disclosure.
   -  [#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV) - A space for any gov or contract team member working on or adjacent to the MHV portal on va.gov (aka apartment) to ask questions, coordinate across teams, or openly discuss a topic of interest.
   -  [#health-care-products-all-teams](https://dsva.slack.com/archives/C02BTDTEPNH) - Let’s connect the dots across VA’s digital health products so Veterans, doctors, and staff don’t have to.
+  -  
 
 #### GitHub
 - [Github/Zenhub labels - my-health-INTEGRATION + my-health](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125) -- all work related to MHV on VA.gov needs the `my-health` label, my-health-CTO-HEALTH-TEAM, and `my-health-INTEGRATION` label denotes the work being done by the CTO Health Team
