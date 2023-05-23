@@ -15,7 +15,8 @@ ________________________________________________________________________________
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address tech & design debt**
      - **Sub Goal: Prepare for Prod Support of APIs**
-Added on 5/23
+
+- Added on 5/23
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
 
