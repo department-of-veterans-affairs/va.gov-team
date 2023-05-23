@@ -1,4 +1,4 @@
-# VA Mobile App Analytics Roadmap (Remainder Q2 & Q3)
+# Measuring Task Completion Roadmap Recommendation
 
 ## Problem statement
 Creating MVP dashboards that don't capture the actual task completion and time to complete metrics we want to be **is delaying the discovery, ticketing, and resolution of app event tracking gaps**. 
@@ -9,7 +9,7 @@ This approach is creating a cascading effect of delays for all accurate measures
 
 ## Recommendation
 Prioritize event tracking gap identification and filling those gaps so as to:
-1. Reduce the overall time to meaningful measures and metrics in multiple areas.
+1. Reduce the overall wait time to meaningful measures and metrics in multiple areas.
 2. Increase the timeframe across which we will have data from for these new events.
 
 ## Stages & steps
