@@ -82,7 +82,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 gauging expandable sections UX on mobile + gauge exapndable alert interaction 
 
 - Same as before: Imagine you are here to *insert pertinant scenario to participant*
-- MOBILE: Without clicking on anything just yet, looking at the steps listed here, what do they tell you about the process for filing for disability compensation?
+- MOBILE: Without clicking on anything just yet, look at the steps listed here. What do they tell you about the process for claiming disabiltiy comp. if anything?
 - From what you have seen so far, what are some actions you think you can take on this page? 
 
 - IF ON MOBILE: what do you expect to see when you open section 1?
@@ -92,13 +92,14 @@ gauging expandable sections UX on mobile + gauge exapndable alert interaction
 
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful or not was the information in this section?
     - Why did you choose that number?
+    - Is there information here that you feel is not useful or could be cut?
 
 - Which parts of this section do you think they could make clearer?
 - Is there any information missing from this section that you personally would want to know?
 - From what you read, what is your understanding of who is elligible for disability benefits?
-   - ALT: If you had to explain to someone else this information about who is elligible for         disability benefits, what would you phrase it?
+   - ALT: If you had to explain to someone else this information about who is elligible for disability benefits, what would you phrase it?
 - From what you read here, what is your understanding of a supplemental claim form?
-     - ALT: If you had to explain to someone what a supplemental claim is, how would you                phrase it?
+     - ALT: If you had to explain to someone what a supplemental claim is, how would you phrase it?
 
 QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 
@@ -146,6 +147,7 @@ gauging expandable sections UX on mobile + gauge exapndable alert interaction
 - In your own words, what is the gist of the information in this section?
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
     - Why did you choose that number?
+    - Is there information here that you feel is not useful or could be cut?
 - Is there any information missing from this section that you personally would want to know?
 - Was any of this information confusing or unclear?
 - What is your understanding of the information you read about how disability compensation is determined?
@@ -187,6 +189,8 @@ QUESTIONS CONCERNING EXPANDABLE UI/INFO - BDD
 - Is there any information missing from this section that you personally would want to know?
 - Which parts of this section do you think they could make clearer?
 - If you had to explain "intent to file" to someone else, how would you put it?
+- What did you think when you read the text about the length of time the VA takes to make a decision?
+   - Did you find that information useful or not useful?
 
 **If not mentioned before and within the allotted time:**
 
