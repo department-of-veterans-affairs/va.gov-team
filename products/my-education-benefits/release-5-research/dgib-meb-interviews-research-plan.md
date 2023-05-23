@@ -76,7 +76,7 @@ Before writing your recruitment criteria, be sure to review the following resour
 Our intended audience for this research is for Veterans and their spouse or child who has applied for the Transfer of Entitlement application (Authenticated form 22-1990e) and have used Online Enrollment Verification and Download Education Letters features. We plan to use Perigean to support our recruitment effort using a lean maximum variation strategy. We will have dedicated notetakers on our team to help take notes. 
 
 ### Recruitment criteria
-We'd like to conduct 10 feedback sessions with Veterans and their spouse or child and would ask to recruit 15-20 participants in case there are no-shows. 
+We'd like to conduct 10 feedback sessions with Veterans and their spouse or child and would ask to recruit 15 participants in case there are no-shows. 
 
 **Primary criteria (must-haves)**
 
@@ -93,17 +93,17 @@ Login Requirements: Access Zoom (as a guest)
 Familiarity with Technology: Diverse distribution preferred
 
 **VA Benefit Usage Requirements:** Benefit usage will be an important metric for this study and must be included in the participation screener. We are seeking:
-- Category I: 1/3rd of participants (spouse or child to Veteran) to have applied for Ch33 Transfer of Entitlement benefits online within the last 2 months (March-April 2023)
-- Category II: 1/3rd of participants to have used the “Download your VA education letter” feature within the last 2 months (March-April 2023)
-- Category III: 1/3rd of participants to have used the “Verify school enrollment for GI Bill benefits” feature within the last 2 months (March-April 2023)
 
-**Benefit Screener**
-- Have you (a spouse or child to a Veteran) applied online for the transfer of education benefits application within the last 2 months? [participants that answer yes can be included in Category 1]
-- Have you (a Veteran) used the "Download your VA education letter" feature within the last 2 months? [participants that answer yes can be included in Category 2]
-- Have you (a Veteran) used the "Verify school enrollment for GI Bill benefits" feature within the last 2 months? [participants that answer yes can be included in category 3]
+Category I: 1/3rd of participants (spouse or child to Veteran) to have applied for Ch33 Transfer of Entitlement benefits online within the last 2 months (March-April 2023)
+- Benefit screener question for Category 1: Have you (a spouse or child to a Veteran) applied online for the transfer of education benefits application within the last 2 months? [participants that answer yes can be included in Category 1]
+
+Category II: 1/3rd of participants to have used the “Download your VA education letter” feature within the last 2 months (March-April 2023)
+- Benefit screener question for Category 2:Have you (a Veteran) used the "Download your VA education letter" feature within the last 2 months? [participants that answer yes can be included in Category 2]
+
+Category III: 1/3rd of participants to have used the “Verify school enrollment for GI Bill benefits” feature within the last 2 months (March-April 2023)
+- Benefit screener question for Category 3: Have you (a Veteran) used the "Verify school enrollment for GI Bill benefits" feature within the last 2 months? [participants that answer yes can be included in category 3]
 
 Additional screener questions:
-- Location of the participant and basic demographic qualifiers screeners, including: age, race, sex, state of residence (country if outside the US), accessibility
 - With respect to your GI Bill education, what degree are you working toward? (1. Associate Degree 2. Undergraduate Degree 3. Graduate Degree 3. Non-College Degree Program 4. Other. 5.None). 
 - How many hours do you spend on a computer/week? (None, 1-5 hours, 5-10 hours, 10-20 hours, more than 20 hours/week). 
 - How would you describe your familiarity with technology? (very poor, poor, neutral, good, very good). 
@@ -114,12 +114,14 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
+**Recruitment Kick-off Session with Perigean**: 5/26, 12pm ET
+
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
+* Pilot participant email: Alex Ferzola, alexander.ferzola@accenturefederal.com
 * Date and time of pilot session: 5/26, 2pm ET
 
 ### Research sessions
-*5/31-6/9
+*5/30-6/9
 
 ### Length of sessions
 * Session length: 45 minutes-1 hour
@@ -127,15 +129,15 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Maximum Sessions per day: 3-4 session per day
 
 ### Availability
-- 5/31-6/2 - 9am-5pm ET
+- 5/30-6/2 - 9am-5pm ET
 - 6/5-6/9 - 9am-5pm ET
 	
 ## Team Roles	
-**Primary Moderator POCs:**
+**Primary Moderator/Note-Taker POCs:**
 - Jim Adams, jim.adams@accenturefederal.com, +1 571-416-0779 
 - Jacob Buller,  jacob.l.buller@accenturefederal.com, +1 571-733-9205
 - Miya Furukawa, miya.s.furukawa@accenturefederal.com, +1 571-414-4160
-**Alternating Moderator Team Members: **
+**Alternating Moderator/Note-Taker Team Members: **
 - Alexander Ferzola, alexander.ferzola@accenturefederal.com, +1 571-733-9097
 - Joanna Yu, joanna.yu@accenturefederal.com, +1 571-390-6446
 - Mahey Anjum, mahey.anjum@accenturefederal.com, +1 571-336-6989
