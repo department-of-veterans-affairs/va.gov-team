@@ -1,5 +1,52 @@
 # Design Weekly Sync Agenda
 
+## 2023-05-22
+
+Attendees: DK, Jessica, Hieu, Katelyn, Kristen
+
+
+**Registration only path**
+- Jessica showed off her early discovery efforts on the registration only path. It's early still and there are a lot of unanswered questions.
+- Kristen: Think broadly with this research. Maybe onsite research? What setups in E&E offices would you need? We can provide a list of requirements for the sites.
+- Kristen: Do we need triggers on other pages? What are the access points and should they be more strategic?
+
+
+**Designer skills**
+
+We came up with this rough list during the meeting:
+
+Visual design
+Interaction design
+Discovery work
+Research
+  - Planning
+  - Analyzing
+  - Running it
+Content
+  - Plain language
+  - Microcopy
+  - UX writing
+Design system
+IA
+Systems-level thinking
+Journey mapping/Flows/Service design
+Accessibility
+  - Design reviews
+  - Audits
+QA work
+Stakeholder management
+Storytelling
+Presentations
+Running meetings
+Workshops
+Internal advocacy
+
+### Action items
+
+- DK: Create a skills spreadsheet, starting with what we've brainstormed here.
+
+---
+
 ## 2023-05-15
 
 Attendees: DK, Jessica, Hieu
