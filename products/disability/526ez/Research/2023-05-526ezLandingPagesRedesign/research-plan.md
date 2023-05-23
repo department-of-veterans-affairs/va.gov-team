@@ -88,20 +88,12 @@ Remote over Zoom
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
 
 For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
+- [Link to conversation guide](https://github.com/Nyanteea/va.gov-team/blob/master/products/disability/526ez/Research/2023-05-526ezLandingPagesRedesign/conversation-guide.md)
+- [Link to prototype](https://www.sketch.com/s/0fa92d93-0841-4c62-8112-c9c528204092)
 
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
 
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
 	
 ## Recruitment	
 
@@ -142,12 +134,14 @@ At least three use desktop primarily/ proficient with desktop
 At least three who are age 55 or over 
 At least three who are at most one year from discharge 
 At least three who are filing for / have filed for a presumptive claim
+At least three identifying as having a cognitiive disability that makes reading difficult
 
 **For mobile protoype (6):**
 At least three use mobile primarily/ proficient with mobile 
 At least three (3) 55 or over 
-At least three who are filing for / have filed for a presumptive claim
+At least three who are filing for/have filed for a presumptive claim
 At least three who are at most one year from discharge 
+At least three identifying as having a cognitiive disability that makes reading difficult
 
 **Screener for cohort 1 of mobile test** (3 people) 
 
@@ -164,7 +158,7 @@ At least three who are at most one year from discharge
 
 **Screener for cohort 2 of mobile test** (3 people) 
 
-- Do you primarily use your cellphone to browse the internet? yes but ok if no  
+- Do you primarily use your cellphone to browse the internet? yes but OK if no  
  
 - Are you in the age range of 55 or older? no 
 
@@ -172,7 +166,7 @@ At least three who are at most one year from discharge
  
 - Are you able and willing to download new applications onto your phone? yes 
 
-- Have you ever used Zoom on your mobile device? OK if no 
+- Have you ever used Zoom on your mobile device? yes but OK if no 
 
 -------------------------------------------
 
@@ -186,7 +180,7 @@ At least three who are at most one year from discharge
  
 - Are you able and willing to download new applications onto your phone? yes 
 
-- Have you ever used Zoom on your mobile device? OK if no 
+- Have you ever used Zoom on your mobile device? yes but OK if no 
 
 **Screener for desktop cohort 2** (3 people) 
 
@@ -198,7 +192,7 @@ At least three who are at most one year from discharge
  
 - Are you able and willing to download new applications onto your phone? yes 
 
-- Have you ever used Zoom on your mobile device? OK if no 
+- Have you ever used Zoom on your mobile device? yes but OK if no 
 
 
 Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
@@ -215,37 +209,46 @@ What criteria would strengthen your results?
 - diversity in sexuality - 30% not identifying as straight 
 
 ## Timeline
+
+This research will begin as soon as it is approved. Ideally in the next two weeks. 
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
+The prototype is finalized and has been through midpoint. 
+
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+* Pilot participant email: Anneliese LaTempa; anneliese.latempa@agile6.com 
+* Date and time of pilot session: options: 5/30 2-4p ET, 5/31 1-2p ET, or 6/2 1-3p ET
 
 ### Research sessions
-* Planned dates of research: 
+* Planned dates of research: This research will begin as soon as it is approved. Ideally in the next two weeks. 
 
 ### Length of sessions
 * Session length: 1 HOUR
 * Buffer time between sessions: 30MIN
-* Maximum Sessions per day: 2 
+* Maximum Sessions per day: 2
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
-	
+Friday 6/9   |8AM-3PM, 6-10PM 
+Monday 6/12  |8AM-3PM, 6-10PM
+Tuesday 6/13 |8AM-3PM, 6-9PM
+Wednesday 6/14 |8AM-1:30PM
+Thursday 6/15 |8AM-3PM, 6-9PM
+Tuesday 6/20 |8AM-1PM,4PM-9PM
+
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Nyantee Asherman
+- Moderator: Nyantee Asherman, 973-476-2906
 - Research guide writing and task development: Nyantee Asherman	
-- Participant recruiting & screening:Perigean
-- Project point of contact: Rakshinda Aslam
-- Participant(s) for pilot test:TBD
+- Participant recruiting & screening: Perigean
+- Project point of contact: Rakshinda Aslam, anneliese.latempa@agile6.com
+- Participant(s) for pilot test: Anneliese LaTempa 
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	N/A
-- Note-takers:	Lydia 
-- Observers:	
+- Note-takers:	Perigean, 
+- Observers:  Lydia Hooper, lydia.hooper@agile6.com; Shannon Ford, Shannon.Ford1@va.gov; Beth Potts, beth.potts@va.gov; Katherine Fung, k.fung@bloomworks.digital
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
 
