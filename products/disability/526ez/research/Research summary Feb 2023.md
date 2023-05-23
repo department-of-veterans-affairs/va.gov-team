@@ -1,6 +1,6 @@
-#Research Summary February 2023
+# Research Summary February 2023
 
-##Foundational Artifacts
+## Foundational Artifacts
 Journeys of Veterans Map (VEO, 2019?) 
 Disability Compensation Veteran Experience Journey Map (VEO, 2023) + Additional version (2019)
 
@@ -8,7 +8,7 @@ Disability Compensation Veteran Experience Journey Map (VEO, 2023) + Additional 
 VSR journey map (VRO, 2021) Report on Notion, Report on Sharepoint 
 RVSR journey map (VRO, 2023) 
 
-##Research potentially relevant to 526 online application form 
+## Research potentially relevant to 526 online application form 
 
 Foundational Benefits Research (VCRD, relates to former ebenefits, 2016)
 
