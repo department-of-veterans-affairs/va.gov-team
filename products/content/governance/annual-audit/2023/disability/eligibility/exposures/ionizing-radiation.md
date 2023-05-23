@@ -29,7 +29,8 @@
 - [ ] The page has no broken links
 - [ ] The content is free of ability-focused language (view, walk, see, hear)
 - [ ] Relevant terms from page are in content brief and any relevant backlog work is noted
-- [ ] "Who's covered?" section is removed (if applicable) 
+- [ ] Remove "Who's covered?" section (if applicable) 
+- [ ] Remove "What kind of disability benefits can I get?" section (if needed)
 
 ## Grade level score using Flesh-Kincaid with no prep
 - Before edits: 
