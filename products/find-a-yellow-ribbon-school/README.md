@@ -241,6 +241,13 @@ Many of these are currently available in GA (see Yellow Ribbon Searches and Refi
 ## API Calls and Dependent Systems
 
 GIDS API (need link from developers)
+API repo is here
+https://github.com/department-of-veterans-affairs/gibct-data-service
+
+Data is imported via CSVs from sharepoint team to the GIDs service where it is made available via the rails API
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/61624970/6545a82b-5765-4a13-b188-c6f04064670f)
+
 
 ## Design 
 
