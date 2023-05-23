@@ -37,7 +37,7 @@ Before we start, a few things I want to mention:
 - **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. Your feedback is helping us improve the language on these pages so its a better experience for veterans. I will not be offended by any opinions you express, and I welcome your feedback.
 - [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
-- **If for any reason and at any time you want to stop the session, please let me know.**
+- **If for any reason and at any time you want to stop the session, please let me know.** You will be compensated regardless of whether you complete the session or answer all of the questions.
 - Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
     - If no: Use Slack to kindly ask the observers to leave the Zoom.
     - If yes: Admit observers.
@@ -67,7 +67,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 ###Task goal: gauge whether or how much vets understand the intro and what language they find clear/confusing 
 
 - Same as before, imagine you are here to *insert pertinant scenario,* 
-- What is the first thing you would do or read on this page?
+- Take a moment to look over the page, what is the first thing you would do on this page?
 - Read everything on this page up until the “Sign in” button at your own pace, let me know when you are finished, and then I will ask you a few questions about what you read
 - Is there any information missing from this section that you personally would want to know?
 - Was any of this information unclear or confusing?
@@ -83,22 +83,28 @@ gauging expandable sections UX on mobile + gauge exapndable alert interaction
 - Same as before: Imagine you are here to *insert pertinant scenario to participant*
 - MOBILE: Without clicking on anything just yet, looking at the steps listed here, what do they tell you about applying for the form, if anything?
 - From what you have seen so far, what are some actions you think you can take on this page? 
-- IF ON MOBILE: expand section one of four
-- Read step 1 on this page at your own pace, and look for any information relavant to your situation as a *insert scenario*. Let me know when you have finished.
+
+- IF ON MOBILE: what do you expect to see when you open section 1?
+- IF ON MOBILE: expand section 1 of the form 
+
+- Read Step 1 on this page at your own pace, and look for any information relavant to your situation as a *insert scenario*. Let me know when you have finished. Feel free to read out loud or to yourself. 
+
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful or not was the information in this section?
     - Why did you choose that number?
-- MOBILE: Before you opened this section, was this the information you expected to see here? why or why not?
-- Is any of this information confusing or unclear?
+
+- Which parts of this section do you think they could make clearer?
 - Is there any information missing from this section that you personally would want to know?
 - From what you read, what is your understanding of who is elligible for disability benefits?
+   - ALT: If you had to explain to someone else this information about who is elligible for         disability benefits, what would you phrase it?
 - From what you read here, what is your understanding of a supplemental claim form?
+     - ALT: If you had to explain to someone what a supplemental claim is, how would you                phrase it?
 
 QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 
 - Do you think the alert will contain information relevant to your situation of *insert scenario*? why or why?
 - Is this the information you expected to see here? why or why not?
-- Was anything you read here confusing?
-- How clear or not was the information about veterans who have been granted benefits in the past?
+- Which parts of this section do you think they could make clearer, IF ANY?
+- What is your understanding of the information about veterans who have been granted benefits in the past?
 
 ### Things to watch for:
 
@@ -110,17 +116,18 @@ QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 
 ## Third Task: [STEP 2] Decide how to apply - 3 minutes
 
+- IF ON MOBILE: what do you expect to see when you open section 2? 
 - IF ON MOBILE: expand section two
 - Imagine you are here to *insert pertinant scenario,* read step 2 on this page at your own pace, and look for any information relevant to your situation.
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
     - Why did you choose that number?
 - Is there any information missing from this section that you personally would want to know?
-- MOBILE: Before you opened this section, was this the information you expected to see here? why or why not?
-- Is any of this information confusing or unclear?
-- IF ON MOBILE: expand section one of four
+- Which parts of this section do you think they could make clearer, if any?
+
 
 ### Things to watch for:
 
+- How do vets/service members react to mentions of form completion time?
 - Are certain words/langauge tripping up veterans/active members?
 - Are there places that veterans need to reread or ask for clarity about?
 - Are there things that veterans misunderstand after reading about them
@@ -132,27 +139,32 @@ QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 ###Task goal: gauge whether or how much vets understand step 1 and what language they find clear/confusing + 
 gauging expandable sections UX on mobile + gauge exapndable alert interaction 
 
+- IF ON MOBILE: What do you expect to see when you expand section 3?
 - IF ON MOBILE: expand section three
 - As before, read through this section at your own pace. let me know once you’re finished.
+- In your own words, what is the gist of the information in this section?
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
     - Why did you choose that number?
-- MOBILE: Before you opened this section, was this the information you expected to see here? why or why not?
-- In your own words, what is the gist of the information in this section?
 - Is there any information missing from this section that you personally would want to know?
 - Was any of this information confusing or unclear?
-- What is your understanding of the information about the types of  documentation you might need to support your claim for benefits?
-    - ALT: Was anything confusing about the information pertaining to the types of documentation you might need to support your claim for benefits?
-- CHECK TIME
+- What is your understanding of the information you read about how disability compensation is determined?
+    ALT: Imagine you needed to explain to someone else how disability compensation is determined? How would you explain it?
+- What is your understanding of the information you read about what documents are needed to support a claim for disability benefits?
+    - ALT: Imagine you needed to explain to someone this information about the types of documentation needed to support a claim for benefits. How would you explain it to them?
+  
+**CHECK TIME**
+
 - Was anything confusing about the information pertaining to authorizing the VA to recieve and review your medical records?
 - Was anything confusing about the infomation concerning where to submit forms for claiming PTSD or unemployability?
 
-QUESTIONS CONCERNING EXPANDABLE UI/INFO 
+QUESTIONS CONCERNING EXPANDABLE UI/INFO - BDD
 
 - Do you think the alert will contain information relevant to your situation of *insert scenario*? why or why not?
 - Before you opened this section, was this the information you expected to see here? Why or why not?
-- Was anything you read here confusing?
+- Which parts of this section do you think they could make clearer, if any?
 - In your own words, what is your understanding of the benefits delivery at discharge program?
-    - ALT (alternative phrasing for a question) : Was anything confusing about the information concerning active duty service members and benefits delivery at discharge ?
+    - If you had to explain the Benefits Delivery at Discharge program to someone else, how 
+        would you do that?
 
 ### Things to watch for:
 
@@ -165,26 +177,24 @@ QUESTIONS CONCERNING EXPANDABLE UI/INFO
 
 ## Fifth Task: [Step 4] Apply - 8 minutes
 
+- IF ON MOBILE: what do you expect to see in this section?
 - IF ON MOBILE: expand section four
 - Read through section at your own pace…
-- What is the gist of the information here in your own words?
-- MOBILE: Before you opened this section, was this the information you expected to see here? why or why not?
+- In your own words, What is the gist of the information in this section?
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
     - Why did you choose that number?
 - Is there any information missing from this section that you personally would want to know?
-- Was any of the information here confusing?
+- Which parts of this section do you think they could make clearer?
+- If you had to explain "intent to file" to someone else, how would you put it?
 
 **If not mentioned before and within allotted time:**
 
-- What is your understanding of the information concerning delcaring  an intent to file?
-    - ALT: Is anything confusing about the information about declaring your intent to file
 - What is your understanding of the information regarding additional forms like those for dependents and aid?
-
-## INTRO PAGE Post-Interview - 10 minutes
 
 SENTIMENT AND TRUST TESTING
 
 - In your opinion, is there a difference between the words “condition” and “disability”?
+- On a scale from 1 to 10, 1 being not at all prepared and 10 being extremely prepared, how prepared or not do you feel to begin the 526 form after reading this page?
 - How likely or unlikely would you be to reach out to a VSO for help  completing the form?
 - Now that you have read through this page, is there any information missing from this page that you feel is needed to equip veterans to begin the form on their own?
 - From what you have seen here, how long do you think completing the form digitally would take you?
@@ -196,7 +206,6 @@ SENTIMENT AND TRUST TESTING
 - Personally, why do you think the VA asks for evidence when applying for disability benefits?
 - Do you agree or disagree that the VA expects a reasonable amount of documentation to support a claim for benefits/compensation. Why so?
     - ALT: Do you believe it is necessary for the VA to collect "evidence” from you to support your claim for benefits/compensation? why or why not?
-- On a scale from 1 to 10, 1 being not at all prepared and 10 being extremely prepared, how prepared or not do you feel to begin the 526 form after reading this page?
 - How would you describe the overall tone of the text on this page? E.G. corporate, warm, cold, etc.
 
 
