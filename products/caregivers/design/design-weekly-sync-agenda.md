@@ -4,6 +4,7 @@
 
 Attendees: DK, Jessica, Hieu, Katelyn, Kristen
 
+Kristen McConell introduced herself as part of OCTO, work with Patrick Batemen, and will be in all of the syncs. She is part of the health team, design and research lead, and the appointment lead. She wants to encourage the team to think very broadly, beyond the scope of one project.
 
 **Registration only path**
 - Jessica showed off her early discovery efforts on the registration only path. It's early still and there are a lot of unanswered questions.
