@@ -218,8 +218,8 @@ What criteria would strengthen your results?
 
 ## Timeline
 
-This research will begin as soon as it is approved. Ideally in the next two weeks. 
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+We want to begin research as soon as possible, ideally beginning the week of 6/5.
+
 
 ### Prepare
 
