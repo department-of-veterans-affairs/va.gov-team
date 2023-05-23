@@ -88,7 +88,7 @@ body:
       label: If PRODUCTION ACCESS is required, confirm/complete ONE of the following
       description: If you have not submitted your E-QIP questionaire, Production access will not be provided.
       options:
-        - label: "I have an AWS Username and it is listed in "[here](https://github.com/department-of-veterans-affairs/devops/blob/master/terraform/environments/global/iam_users.tf)""
+        - label: "I have an AWS Username and it is listed in [here](https://github.com/department-of-veterans-affairs/devops/blob/master/terraform/environments/global/iam_users.tf)"
         - label: "I currently have access to vets-api Production Terminal via ArgoCD"
         - label: "I've attached a screenshot of my E-QIP Transmittal Notice E-mail (Drag or Copy/Paste in Additional Notes Section below)"
   - type: textarea
