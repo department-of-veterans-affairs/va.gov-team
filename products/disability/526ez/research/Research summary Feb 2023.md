@@ -31,8 +31,8 @@
 - [2023](https://drive.google.com/file/d/1oaVYAXiTtxYUfQbsjYIwTJmpwUW969wm/view?usp=sharing) (heuristic review)
 
 **Research about related forms (not 526)**
-- 0781 PTSD - Oct 2018, Dec 2018 usability, Feb 2021 
-- 8940 and 4192 for Individual Unemployability - Oct 2018-Jan 2019
+- [0781](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/archive/design/781-781a-ptsd/cm-mvp-usability-readout-0781and0781a.pdf) PTSD - [Oct 2018](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/archive/research/781-781a), [Dec 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/archive/design/781-781a-ptsd/cm-mvp-usability-readout-0781and0781a.pdf) usability, [Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/archive/research/nov-2020/FindingsForm526PTSD.pdf) 
+- [8940 and 4192](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/archive/research/8940-4192) for Individual Unemployability - Oct 2018-Jan 2019
 
 
 
