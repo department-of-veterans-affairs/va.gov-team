@@ -112,6 +112,10 @@ Which inclusive research strategies are you leveraging for this study? OCTO reco
 
 ### Recruitment criteria
 
+
+KICK OFF CALL: 5/26 anytime from 11am to 5pm EST, 5/29 10AM-3PM EST , 5/30 12-1:30pm
+
+
 We are conudcting two tests of the same experience: one on a mobile prototype and the other on desktop. 
 
 **Desktop** 
@@ -218,7 +222,6 @@ This research will begin as soon as it is approved. Ideally in the next two week
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 The prototype is finalized and has been through midpoint. 
 
@@ -227,7 +230,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: options: 5/30 2-4p ET, 5/31 1-2p ET, or 6/2 1-3p ET
 
 ### Research sessions
-* Planned dates of research: This research will begin as soon as it is approved. Ideally in the next two weeks. 
+* Planned dates of research: This research will begin as soon as it is approved but ideally beginning the week of 6/5.
 
 ### Length of sessions
 * Session length: 1 HOUR
@@ -249,10 +252,10 @@ Please list the people who will be serving in each role. **Include the primary p
 - Moderator: Nyantee Asherman, 973-476-2906
 - Research guide writing and task development: Nyantee Asherman	
 - Participant recruiting & screening: Perigean
-- Project point of contact: Rakshinda Aslam, anneliese.latempa@agile6.com
-- Participant(s) for pilot test: Anneliese LaTempa 
+- Project point of contact: Rakshinda Aslam, 
+- Participant(s) for pilot test: Anneliese LaTempa , anneliese.latempa@agile6.com
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	N/A
-- Note-takers:	Perigean, 
+- Note-takers:	Perigean 
 - Observers:  Lydia Hooper, lydia.hooper@agile6.com; Shannon Ford, Shannon.Ford1@va.gov; Beth Potts, beth.potts@va.gov; Katherine Fung, k.fung@bloomworks.digital
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
 
