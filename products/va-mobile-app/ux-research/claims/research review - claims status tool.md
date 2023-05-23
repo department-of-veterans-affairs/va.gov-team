@@ -319,23 +319,23 @@ Veterans are the glue holding together disparate pieces of a large and confusing
       1. Veterans **don't have time to search around** online for what they might need to know. Often Veterans don't know the right terminology or questions to ask.
       2. **Notify Veterans of important updates** like upcoming appointments, job opportunities, pending payments and claims status changes.
       3. **Show the information** that is **most relevant** or **used the most** by them.
-   2. **Snappy tasks:** Enable Veterans to get **snapshot views** and **take common actions quickly. (p93)**
+   2. **Snappy tasks:** Enable Veterans to get **snapshot views** and **take common actions quickly.** (p93)
       1. Veterans want to **quickly check on**, download, **update** and schedule any VA service in **one digital place**– often before running out the door.
-      2. **see a quick overview, including status,** of all benefits,** claims and appeals they are actively engaged in**
+      2. **see a quick overview, including status,** of all benefits, **claims and appeals they are actively engaged in**
 
-##### Generative Research & Co-creation Findings** (Build your dashboard activity) 
+##### Generative Research & Co-creation Finding (Build your dashboard activity) 
 
-1. **Veterans (p85):**  
-First and foremost, Veterans value a system that allows them to **manage their claims and documents** to the best of their ability. This management includes **timely notifications**, **shortcuts to streamline frequent tasks**, and **secure messaging **to receive answers on demand. 
-2. **Staff (p86):**  
+1. **Veterans** (p85):  
+First and foremost, Veterans value a system that allows them to **manage their claims and documents** to the best of their ability. This management includes **timely notifications**, **shortcuts to streamline frequent tasks**, and **secure messaging** to receive answers on demand. 
+2. **Staff** (p86):    
 From a **self-service perspective**, staff members felt that Veterans would like profile information, service history, payment information, **an actionable to-do list**, and a flexible method to search the site.
-3. **VSO reps (p87):**  
+3. **VSO reps** (p87):
 Claims dashboard should include useful information like relevant profile information, service history, and **timely notifications**, it would also be beneficial for Veterans to have access to My HealtheVet features like secure messaging, payments, and prescription info.
 
 ##### Foundational Research & Findings
 
 1. From application to decision, **Veterans feel in the dark**. They don't understand the claim **timeline**, their **progress**, or **what decisions mean.**(p58)  
-   *  Veterans **do not know where they are in the claims process**—Timeline for benefits decision not explained, back & forth status is confusing.
+   *  Veterans **do not know where they are in the claims process** —Timeline for benefits decision not explained, back & forth status is confusing.
    *  VE Research Finding 2 (p58, 61): Veterans want three primary things no matter their claim type, separation date, personal story, personal disability etc: 
       *  They want to know **what’s going on now**, how long it will take, and what happens next.
 2. Veterans **don't know what VA is doing** or **what VA needs from them** (p61).
