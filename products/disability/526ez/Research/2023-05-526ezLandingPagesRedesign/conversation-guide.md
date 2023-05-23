@@ -67,12 +67,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 ###Task goal: gauge whether or how much vets understand the intro and what language they find clear/confusing 
 
 - Imagine you are here to *insert pertinant scenario,* 
-- Take a moment to look over the page, what is the first thing you would do on this page?
-- Read everything on this page up until the “Sign in” button at your own pace. You can read aloud or to yourself. let me know when you are finished, and then I will ask you a few questions about what you read.
-- Is there any information missing from this section that you personally would want to know?
+- Take a moment to look over the page. What is the first thing you would do on this page?
+- Read everything on this page up until the “Sign in” button at your own pace. You can read aloud or to yourself. let me know when you are finished, and then I will ask you a few questions.
 - DO you think they could make the information here clearer? how so?
 - On a scale from 1 to 10, 1 being not at all useful, and 10 being very useful, how useful or not was the information in this section of the page?
     - Why did you choose that number?
+-  Is there any information missing from this section that you personally would want to know?
 - From what you’ve read here, what is your understanding of who qualifies for benefits under the PACT act?
        alt: if you had to explain the new PACT act to someone else, how would you put it ?      
 
