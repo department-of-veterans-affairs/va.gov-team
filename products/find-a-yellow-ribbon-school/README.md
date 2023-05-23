@@ -233,6 +233,9 @@ Many of these are currently available in GA (see Yellow Ribbon Searches and Refi
 
 - **March 2020**: Launch on production
 
+## Error Handling
+- Currently API requests have basic error handling on the front end.  Failures are logged in sentry with a "Failure to fetch" error code, and users would be shown an error message: 'We’re sorry. Something went wrong on our end. Please try again later.'
+
 ## 
 
 ## API Calls and Dependent Systems
