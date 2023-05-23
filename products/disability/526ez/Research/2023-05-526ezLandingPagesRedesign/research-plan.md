@@ -130,18 +130,18 @@ We are conudcting two tests of the same experience: one on a mobile prototype an
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
 **For desktop prototype (6):**
-At least three use desktop primarily/ proficient with desktop 
-At least three who are age 55 or over 
-At least three who are at most one year from discharge 
-At least three who are filing for / have filed for a presumptive claim
-At least three identifying as having a cognitiive disability that makes reading difficult
+-At least three use desktop primarily/ proficient with desktop 
+-At least three who are age 55 or over 
+-At least three who are active and at least 60 days from discharge 
+-At least three who are filing for / have filed for a presumptive claim
+-At least three identifying as having a cognitiive disability that makes reading difficult
 
 **For mobile protoype (6):**
-At least three use mobile primarily/ proficient with mobile 
-At least three (3) 55 or over 
-At least three who are filing for/have filed for a presumptive claim
-At least three who are at most one year from discharge 
-At least three identifying as having a cognitiive disability that makes reading difficult
+-At least three use mobile primarily/ proficient with mobile 
+-At least three (3) 55 or over 
+-At least three who are filing for/have filed for a presumptive claim
+-At least three who are active and at least 60 days from from discharge 
+-At least three identifying as having a cognitiive disability that makes reading difficult
 
 **Screener for cohort 1 of mobile test** (3 people) 
 
@@ -156,6 +156,8 @@ At least three identifying as having a cognitiive disability that makes reading 
 - Have you ever used Zoom on your mobile device? OK if no 
 
 
+
+
 **Screener for cohort 2 of mobile test** (3 people) 
 
 - Do you primarily use your cellphone to browse the internet? yes but OK if no  
@@ -167,6 +169,8 @@ At least three identifying as having a cognitiive disability that makes reading 
 - Are you able and willing to download new applications onto your phone? yes 
 
 - Have you ever used Zoom on your mobile device? yes but OK if no 
+
+
 
 -------------------------------------------
 
