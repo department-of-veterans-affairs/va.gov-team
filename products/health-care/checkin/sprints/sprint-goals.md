@@ -17,7 +17,9 @@ ________________________________________________________________________________
      - **Sub Goal: Prepare for Prod Support of APIs**
 Added on 5/23
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
-   - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**  
+   - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
+
+ - After check in, user should not be able to go back to questions #58862 
 
 #### PLANNED RELEASES 
 - None
@@ -50,6 +52,9 @@ Added on 5/23
    - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
       - Prepare for & Release to production
           - Address 508 audit feedback (for after release) (see [process](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office))
+
+- After check in, user should not be able to go back to questions  ![#58862](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58862) 
+- 
 
 ---------------------- END FUTURE / TENTATIVE ---------------------------------
 __________________________________________________________________________________________________________________________________________________________
