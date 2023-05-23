@@ -19,7 +19,7 @@ Added on 5/23
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
 
- - After check in, user should not be able to go back to questions #58862 
+ - After check in, user should not be able to go back to questions [#58862](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58862) 
 
 #### PLANNED RELEASES 
 - None
