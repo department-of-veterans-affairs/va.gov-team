@@ -10,6 +10,8 @@
 
 ## Research potentially relevant to 526 online application form 
 
+**[Summary PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023_feb/Disability%20Experience%20Research%20Summary.pdf), developed Feb 2023**
+
 [Foundational Benefits Research](https://dsva.slack.com/files/U1MN3TKR9/F1N6QNB4G/d5_frog_vcrd_researchreadout_final.pdf?origin_team=T03FECE8V&origin_channel=Pdrafts) (VCRD, relates to former ebenefits, 2016)
 
 [Discovery artifacts from 2016-2017](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/archive/discovery) (including [VSO research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/archive/discovery/2016/vso-benefits-7.8.16-findingssummary.md) from veterans service office about processing claims not vet experience)
