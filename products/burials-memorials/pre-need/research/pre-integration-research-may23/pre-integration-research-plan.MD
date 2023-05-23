@@ -117,6 +117,8 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Pilot participant email: sherrow_alexander@bah.com
 * Date and time of pilot session: Friday, 5/26/23 @ 10:30am-11:30am
 
+**We also need a kick-off meeting with Perigean for recruiting as soon as possible. Our availability is flexible for this.**
+
 ### Research sessions
 * Planned dates of research: 
 	* Usability testing target dates: Wednesday, 5/31/23; Thursday, 6/1/23; Friday, 6/2/23
