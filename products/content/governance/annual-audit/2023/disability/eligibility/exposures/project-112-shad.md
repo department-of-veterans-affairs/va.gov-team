@@ -27,9 +27,11 @@
 - [ ] The intro paragraph has no more than 2 to 4 sentences and is within 200 to 400 characters with spaces
 - [ ] Header levels are hierarchical
 - [ ] The page has no broken links
+- [ ] Text links have purpose and target
 - [ ] The content is free of ability-focused language (view, walk, see, hear)
 - [ ] Relevant terms from page are in content brief and any relevant backlog work is noted
-- [ ] "Who's covered?" section is removed (if applicable)
+- [ ] Remove "Who's covered?" section (if needed)
+- [ ] Remove "What kind of disability benefits can I get?" section (if needed)
 
 ## Grade level score using Flesh-Kincaid with no prep
 - Before edits: 
