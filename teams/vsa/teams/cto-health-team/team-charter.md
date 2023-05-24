@@ -140,4 +140,4 @@ Review accomplishments from prior sprint, what went well, what can be improved, 
   -  [#mhv-on-vagov-cartography-team](https://dsva.slack.com/archives/C0581MN69TJ) - A smaller space for the MHV on VA.gov and POs to communicate and share ideas. 
 
 #### GitHub
-- [Github/Zenhub labels - my-health-CTO-HEALTH-TEAM + my-health-INTEGRATION + my-health](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125) -- all work related to MHV on VA.gov needs the `my-health` label, my-health-CTO-HEALTH-TEAM, and `my-health-INTEGRATION` label denotes the work being done by the CTO Health Team
+- [Github/Zenhub labels - my-health-CTO-HEALTH-TEAM + my-health-INTEGRATION + my-health](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125) -- all work related to MHV on VA.gov needs the `my-health` label, 'my-health-CTO-HEALTH-TEAM', and `my-health-INTEGRATION` labels denote the work being done by the CTO Health Team
