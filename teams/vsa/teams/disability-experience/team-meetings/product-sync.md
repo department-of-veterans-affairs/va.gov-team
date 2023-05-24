@@ -12,8 +12,8 @@
          -  Team 1 - 1/2 people per sprint
          -  Team 2 - carve out velocity
          -  Pair throughout the sprint    
-- Sprint goals
-- Bugs
+- Review upcoming sprint goals
+
 
       
 ### Date: May 17 2023
