@@ -86,12 +86,12 @@ Veterans trust and want to connect one-on-one with individuals who know the deta
 
 * ##### THEME: CONNECTING & COMMUNICATION
 
-  * **Insight:** Veterans value empathy and **communication** (especially **one-on-one connections**).<sub>12</sub>
+  * **Insight:** Veterans value empathy and **communication** (especially **one-on-one connections**).<sub>12,13</sub>
   * **Motivation:** Veterans **trust** **and want to connect one-on-one** with individuals who **know the details of their specific case** to help them.<sub>12</sub>
   * **Behaviors:**
-      * They want to talk with VSOs, Claims Staff, and other VA service providers when they have **questions or need help**.<sub>12</sub>
-      * They **seek out in-person discussions** about their case **to get questions answered** (more quickly and thoroughly than online).<sub>12</sub>
-      * Veterans also rely on their peers, friends and family for **guidance in navigating the benefits process**.<sub>12</sub>
+      * They want to talk with VSOs, Claims Staff, and other VA service providers when they have **questions or need help**.<sub>12,13</sub>
+      * They **seek out in-person discussions** about their case **to get questions answered** (more quickly and thoroughly than online).<sub>12,13</sub>
+      * Veterans also rely on their peers, friends and family for **guidance in navigating the benefits process**.<sub>12,13</sub>
 
 
 ### Veteran pain points
@@ -163,6 +163,9 @@ Veterans trust and want to connect one-on-one with individuals who know the deta
     3. [Does the VA update their systems during the weekend? : r/VeteransBenefits/VA.gov/VA App](https://www.reddit.com/r/VeteransBenefits/comments/11c1tnr/does_the_va_update_their_systems_during_the/)
 11. [Q1 2023 VA App Store Reviews Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/reporting/App-Stores-Reviews/Q1-2023/Summary.md) (2023)
 12. [Review of User Research: VA Mobile App Personalization](https://docs.google.com/presentation/d/1J10VcE7PGN9emVT1vtqO4-5XRYc3Jycm5zJ4QJnc19g/edit#slide=id.p1) (Jul 2022)
+13. [Veteran Unmet Needs](https://github.com/department-of-veterans-affairs/VES/tree/master/research/Unmet%20Needs) (May 2023)
+
+
 
 ## Full findings, by Sources & Studies Reviewed
 
@@ -294,6 +297,20 @@ Veterans trust and want to connect one-on-one with individuals who know the deta
     * **Veterans don’t trust the accuracy of the Claim information displayed because it differs from other sources.**
     * The VA mobile app is sometimes displaying **different status information** than other VA digital resources.
 
+### [Veterans Experience Office (VES) work (department-of-veterans-affairs/VES/)](https://github.com/department-of-veterans-affairs/VES/)
+#### [Veteran Unmet Needs](https://github.com/department-of-veterans-affairs/VES/tree/master/research/Unmet%20Needs) (May 2023)
+* [Apply for Benefits](https://github.com/department-of-veterans-affairs/VES/blob/master/research/Unmet%20Needs/Apply%20for%20benefits/Apply%20for%20Benefits-%20Full%20Report.md)
+   * 110 days - Average time for VA to process disability claims *“Respondent Burden” is the OMB’s estimate for the time it takes to complete a form.
+   * **Pain points:**
+     * **Incomplete information and lack of communication**: The average wait time to receive an initial disability claim decision is 110 days. During that time, Veterans are **unaware of the status of their application, what additional steps they need to take, and the timeline for receiving a decision**.
+       >“Tell me: what's happening, what's next, what's needed — no jargon.” - Veteran. 
+     * Veterans say the **onus is on them to develop an understanding of the VA process and be persistent in seeking out this information**. This might mean repeatedly calling VA and VSOs until VA has information to share, or navigating through phone trees and websites to find the right place to go to understand the status of their application. **Sometimes, this results in a Veteran becoming fatigued and giving up**, or knowing VA benefits are out there but not having the time to navigate exactly how to tap into them.
+     * Once benefits are awarded, Veterans struggle to understand exactly what is covered by some benefits and the timeline for receiving payments, either to themselves (disability compensation) or to cover their expenses with other institutions (education benefits).
+* [Dispute Benefits Decisions](https://github.com/department-of-veterans-affairs/VES/blob/master/research/Unmet%20Needs/Dispute%20benefits%20decisions/Dispute%20benefits%20decisions%20-%20Full%20Report.md)
+   * **Pain points:**
+     * Difficulty choosing a decision review lane When a Veteran disagrees with a claim decision, the first struggle is understanding the three AMA decision review options, and deciding which one is the best way forward. Veterans are not experts on the process and **expect VA to guide them to the best outcome**. Because the options are difficult to understand, Veterans often look to experts like attorneys, VSOs, and other Veterans for **one-on-one information and guidance about their specific case**. Unfortunately, word-of-mouth information from other Veterans can be a source of misinformation, including bad advice, and conspiracy theories.
+       >“Person-to-person interactions give me answers.” - Veteran.  
+       >“The appeals submission process after I got my [initial] decision was unclear. I had to ask a friend what my options were.” - Veteran. 
 
 ### Lighthouse team work  ([department-of-veterans-affairs](https://github.com/department-of-veterans-affairs)/[lighthouse-ux](https://github.com/department-of-veterans-affairs/lighthouse-ux))
 
