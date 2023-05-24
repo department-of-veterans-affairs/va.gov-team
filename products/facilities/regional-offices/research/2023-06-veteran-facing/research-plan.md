@@ -49,20 +49,21 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
 #### From the prototype:
 3. Do Veterans understand which services are available at this location?
 1. Do Veterans understand how services are delivered at this location?
-     1. In-person, virtual, or by phone
-     1. With or without appointments
+     1. In-person, virtual, or by phone (do people open the appointments accordion unprompted?)
+     1. With or without appointments (any comments about location of appointments information?)
      2. Hours of operation--for the office _vs._ only for a specific service
      3. Hours of operation--2 sets of hours in a single day (i.e., morning and afternoon but closed for lunch hour)
 3. Do Veterans understand the actions they need to take to receive the service (make an appointment, walk-in, bring required documents, etc.)?
 6. When prompted with specific tasks, do Veterans navigate to the correct service accordion and find the correct next steps? 
      1. What if they _don't_ find an applicable service accordion on the page? 
-8. Do Veterans interact with any of the action links near the top of the page? If so, which ones? 
-9. How do Veterans react to seeing 2 phone numbers?
+8. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones? 
+     1. What do they expect from "Ask a benefit question"? Probe about what happens after they click on it.
+10. How do Veterans react to seeing 2 phone numbers?
      1. Which phone number would they use and why? 
      2. What do they expect when they call?
-10. What do Veterans expect to find under "Services offered"?
+11. What do Veterans expect to find under "Services offered"?
      1. Do Veterans expect to find different details for different services?
-5. What feedback do Veterans have on content, organization, and length of the regional benefit office web page?
+12. What feedback do Veterans have on content, organization, and length of the regional benefit office web page?
 
 ### Hypotheses
 1. Veterans will understand what they can do at a VA benefit office from the new web page.
@@ -76,7 +77,7 @@ We will conduct **usability testing** to guide research participants through a c
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
 ### Ideas for Prototype:
-- Make the action links at the top of the page go somewhere
+- Make the 3 action links at the top of the page go somewhere
 - Make the 3 links under "On this page" work
 - Include some content under the "Limited services and hours" additional info component, if including it
 - Be able to open more than one service accordion (disability?)
