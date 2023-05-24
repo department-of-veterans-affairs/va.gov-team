@@ -42,6 +42,19 @@
 
 ## Notes
 
+5/31/23
+* Ticket Management - PO approval on closing tickets not yet worked that are 1 year or older (anything older than 6/1/2022)
+    * A lot has changed in the last 1 year which means they are likely outdated and will need a new ticket created with updated details and information before they can get prioritized
+    * Tickets that are closed are still reecords in the system that can be reviewed if needed 
+    * Goal - establishing such a practice will help keep the board clean by having relevant tickets on the board 
+    * Expect we will learn as we do this but feel this is a solid first step
+
+
+5/23/23
+* Sprint 72 Planning [Mobile Team Sprint Planning - Sprint 72.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11554612/Mobile.Team.Sprint.Planning.-.Sprint.72.pdf)
+
+
+
 5/16/23
 
 Check-In
