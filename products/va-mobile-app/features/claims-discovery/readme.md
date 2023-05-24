@@ -3,7 +3,8 @@
 ## Product Resources:
 * [DRAFT Claims DIscovery - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/claims-discovery/Claims%20Reimagined%20Product%20Brief.md)
 *   Presentations:  
-  * [VA Mobile App - Measuring Claims Q2 - 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/claims-discovery/VA%20Mobile%20App%20-%20Measuring%20Claims%20Q2%20-%202023.pdf) (April 2023)
+    * [VA Mobile App - Measuring Claims in Q2 - 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/claims-discovery/VA%20Mobile%20App%20-%20Measuring%20Claims%20Q2%20-%202023.pdf) (April 2023)
+    * VA Mobile App - Recommendations: Measuring Claims (May 2023)
 
 
 ## Data Resources:
