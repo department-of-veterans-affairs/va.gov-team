@@ -52,10 +52,11 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
      1. In-person, virtual, or by phone
      1. With or without appointments
      2. Hours of operation--for the office _vs._ only for a specific service
+     3. Hours of operation--2 sets of hours in a single day (i.e., morning and afternoon but closed for lunch hour)
 3. Do Veterans understand the actions they need to take to receive the service (make an appointment, walk-in, bring required documents, etc.)?
 6. When prompted with specific tasks, do Veterans navigate to the correct service accordion and find the correct next steps? 
-     1. What if they don't find an applicable service accordion on the page? 
-8. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones? 
+     1. What if they _don't_ find an applicable service accordion on the page? 
+8. Do Veterans interact with any of the action links near the top of the page? If so, which ones? 
 9. How do Veterans react to seeing 2 phone numbers?
      1. Which phone number would they use and why? 
      2. What do they expect when they call?
@@ -67,7 +68,7 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
 1. Veterans will understand what they can do at a VA benefit office from the new web page.
 1. Veterans will understand how services are delivered at this location from the new web page.
 2. Veterans will understand how to prepare for a visit to a VA benefit office from the new web page.
-3. Others???
+3. Veterans will know what to do if they _don't_ find the kind of help they need on the new web page.
 
 ## Method	
 We will conduct **usability testing** to guide research participants through a click-through prototype. We would like most participants to be on mobile devices. We will be unable to accommodate screen reader users because the prototype won't be accessible.
@@ -75,7 +76,7 @@ We will conduct **usability testing** to guide research participants through a c
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
 ### Ideas for Prototype:
-- Make the 3 action links at the top of the page go somewhere
+- Make the action links at the top of the page go somewhere
 - Make the 3 links under "On this page" work
 - Include some content under the "Limited services and hours" additional info component, if including it
 - Be able to open more than one service accordion (disability?)
