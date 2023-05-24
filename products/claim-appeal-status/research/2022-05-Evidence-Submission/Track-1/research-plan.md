@@ -11,16 +11,16 @@ With this set of design changes to CST, we hope to make it clearer to Veterans w
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
+This work supports the following [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md):
+- Enhance Veterans’ personalized online experience
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+This work supports a Veteran whenever they are filing a disability compensation claim, which could occur across a wide swath of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf), ranging all the way from "Getting out" to "Aging." 
 
 ## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+1. Does this new design make it easier for Veterans to understand when they have a request to take action on a claim in CST? Are they better able to understand exactly what that request is and how to act on it? 
+2. Do Veterans respond positively to the new layout of the Claim Details page, with separate sections dedicated to Veteran actions and VA actions?
+3. Do Veterans respond positively to other new a11y and UX improvements in this version of CST?
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
