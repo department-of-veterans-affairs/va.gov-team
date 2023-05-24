@@ -62,14 +62,16 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 - Delivery Coach: Stephen Smythe
 - Design Lead: Florence McCafferty
 - Product Manager: Tom Anderson
+- Designer: Keith Cheung
+- Full Stack Engineer: Richard Davis
 
 **Contractors (Ad Hoc)** 
 - Design: Jonathan Nelson
 - Research Lead: Cara Frissell
 - Engineering: Eric Voshall
-- Engineering Lead: Daniel Cloud
 - QA Engineer: Erin Flaherty
 - Accessibility: Angela Fowler
+- Information Architect: TBD
 
 **Contractors (Oddball)
 - 508 Accessibility Specialist: Sara Smith
