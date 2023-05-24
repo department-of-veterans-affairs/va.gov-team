@@ -208,44 +208,36 @@ Veterans trust and want to connect one-on-one with individuals who know the deta
       * Claims: “The app can’t be loaded,”<sub> </sub>Disability rating “You do not have a combined disability on record”
 
 #### [**Review of User Research: VA Mobile App Personalization**](https://docs.google.com/presentation/d/1J10VcE7PGN9emVT1vtqO4-5XRYc3Jycm5zJ4QJnc19g/edit#slide=id.p1) (Jul 2022)
-**Insight:** Veterans **want to understand their benefits and how to access them, what VA is doing & needs from them.**
+* **Insight:** Veterans **want to understand their benefits and how to access them, what VA is doing & needs from them.**
+   * **Motivations & Behaviors**
+       * Veterans **care about anything they have in flight**, whether that is education or other benefits. 
+           * They **want to know where they are in the claims process** —Timeline for benefits decision not explained, back & forth status is confusing.
+           * They want to know **what’s going on now**, how long it will take, and what happens next.
+           * Veterans **check the status of their benefits claims frequently** and through multiple channels in the **hope that they can find better or more up-to-date information**.
+           * Veterans **often call VA or VSO staff or visit in person to get the detail they want**, as typically the call-center representatives can't access that information.
+   * **Pain points**
+   * **Veterans** **feel ‘in the dark’ during their benefits journey.**
+       * They don't know **what VA is doing**, **what VA needs from them**, or **how to get help.**
+       * From application to decision, **they don't understand the claim timeline**, **their progress,** or what decisions mean.
+       * **Veterans don’t know how to get help:** When Veterans have questions throughout the claims process, there is **no guidance from VA as to where they can receive help beyond the 1-800 number. Finding the right person** at the VA can be **complicated and confusing.**
+
+* **Insight:** **Veterans are the glue** holding together disparate pieces of a large and confusing system that they can’t always rely on to deliver the benefits they’ve earned.
+   * **Motivations**
+       * **Veterans want to feel like they’re in control**[of any process], but the VA benefits process makes Veterans feel like they’re not in control.
+   * **Pain points & Behaviors**
+       * Because of the **the fragmented experience** across VA (and between MHV, eBenefits, and VA.gov), Veterans have to **connect the dots between pieces** of the **system on their own**.
+       * **Veterans** **don’t trust the accuracy of the claim status** they see on eBenefits.
 
 
-* **Motivations & Behaviors**
-    * Veterans **care about anything they have in flight**, whether that is education or other benefits. 
-        * They **want to know where they are in the claims process** —Timeline for benefits decision not explained, back & forth status is confusing.
-        * They want to know **what’s going on now**, how long it will take, and what happens next.
-        * Veterans **check the status of their benefits claims frequently** and through multiple channels in the **hope that they can find better or more up-to-date information**.
-        * Veterans **often call VA or VSO staff or visit in person to get the detail they want**, as typically the call-center representatives can't access that information.
-* **Pain points**
-* **Veterans** **feel ‘in the dark’ during their benefits journey.**
-    * They don't know **what VA is doing**, **what VA needs from them**, or **how to get help.**
-    * From application to decision, **they don't understand the claim timeline**, **their progress,** or what decisions mean.
-    * **Veterans don’t know how to get help:** When Veterans have questions throughout the claims process, there is **no guidance from VA as to where they can receive help beyond the 1-800 number. Finding the right person** at the VA can be **complicated and confusing.**
-
-**Insight:** **Veterans are the glue** holding together disparate pieces of a large and confusing system that they can’t always rely on to deliver the benefits they’ve earned.
-
-
-
-* **Motivations**
-    * **Veterans want to feel like they’re in control**[of any process], but the VA benefits process makes Veterans feel like they’re not in control.
-* **Pain points & Behaviors**
-    * Because of the **the fragmented experience** across VA (and between MHV, eBenefits, and VA.gov), Veterans have to **connect the dots between pieces** of the **system on their own**.
-    * **Veterans** **don’t trust the accuracy of the claim status** they see on eBenefits.
-
-
-**Insight:** Veterans **value empathy and communication**. 
-
-
-
-* **Motivations & Behaviors**
-    * Veterans **trust and want to connect one-on-one with individuals** who know the **details of their specific case** to help them.
-        * They **want to talk with VSOs, Claims Staff,** and other **VA service providers** when they have questions or need help.
-        * They seek out **in-person discussions** about their case **to get questions answered** (more quickly and thoroughly than online).
-        * Veterans also **rely on their peers, friends and family for guidance** in navigating the benefits process. 
-        * Veterans use **social media and online communities** to keep in touch with others going through the process, to **learn about shortcuts** or alternative ways of getting things done, and to receive **updates**.
-* **Pain points**
-  * Veterans **often call VA or VSO staff or visit in person to get the detail they want**, as typically the call-center representatives can't access that information. 
+* **Insight:** Veterans **value empathy and communication**. 
+   * **Motivations & Behaviors**
+       * Veterans **trust and want to connect one-on-one with individuals** who know the **details of their specific case** to help them.
+           * They **want to talk with VSOs, Claims Staff,** and other **VA service providers** when they have questions or need help.
+           * They seek out **in-person discussions** about their case **to get questions answered** (more quickly and thoroughly than online).
+           * Veterans also **rely on their peers, friends and family for guidance** in navigating the benefits process. 
+           * Veterans use **social media and online communities** to keep in touch with others going through the process, to **learn about shortcuts** or alternative ways of getting things done, and to receive **updates**.
+   * **Pain points**
+     * Veterans **often call VA or VSO staff or visit in person to get the detail they want**, as typically the call-center representatives can't access that information. 
 
 
 ### VA.gov team ([va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5)/[products](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products)/[claim-appeal-status](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/claim-appeal-status)/[claims-status](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/claim-appeal-status/claims-status)/)
