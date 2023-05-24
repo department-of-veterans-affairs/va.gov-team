@@ -61,7 +61,7 @@ Weâ€™d like to recruit 9 participants for a total of 6-8 completed sessions. Weâ
 ### Recruitment criteria 
 
 **Primary criteria (must-haves)**
-- Amount: Target is 6-8 participants but recruit 9
+- Amount: Target is 6-8 participants but recruit 10
 - Age ranges: 
     * Around 80% 35+
     * Around 20% 18-34
@@ -72,7 +72,7 @@ Weâ€™d like to recruit 9 participants for a total of 6-8 completed sessions. Weâ
      	- Age 18-34, Hispanic, male 
     * One spouse or surviving spouse of a service member of Veteran (A **spouse** is a person who is or was legally married to a service member or Veteran. A **surviving spouse** is someone who was legally married to the service member or Veteran at the time of their death and includes a surviving spouse who remarried.)
      	- Any age, LGBTQ+, female
-    * One representative (a person filling out pre-need form on behalf of applicant, such as a **preparer**)
+    * One personal representative (a person filling out the pre-need form on behalf of an applicant, such as a **preparer**)
      	- Age 35+, Asian, Male 
     * One unmarried adult child (An **unmarried adult child** is an individual who became physically or mentally disabled permanently and incapable of self-support before the age of 21, or before 23 years of age if pursuing a full-time course of instruction at an approved educational institution.)
      	- Age 18-20 or 18-22 if pursuing degree
@@ -90,9 +90,10 @@ Have an identified cognitive impairment (around 1 participant)
     * If yes, go to question 3. 
     * If no, go to question 2.
 2. Which of the following describes your relationship to a Veteran or service member? 
-    * I am their spouse or surviving spouse 
-    * I am their unmarried adult child 
+    * I am their spouse or surviving spouse (A **spouse** is a person who is or was legally married to a service member or Veteran. A **surviving spouse** is someone who was legally married to the service member or Veteran at the time of their death and includes a surviving spouse who remarried.)
+    * I am their unmarried adult child (An **unmarried adult child** is an individual who became physically or mentally disabled permanently and incapable of self-support before the age of 21, or before 23 years of age if pursuing a full-time course of instruction at an approved educational institution.)
     * I am their parent
+    * I am their personal representative (a person filling out the pre-need form on behalf of an applicant, such as a **preparer**)
     * None of the above, but I am interested in applying for pre-need eligibility determination for myself or for someone else
 3. Have you applied or tried to apply for a pre-need eligibility determination at least once in the last 12 months? 
     * If yes, go to question 5. 
@@ -115,7 +116,7 @@ When will the thing you are testing be finalized? Ideally it's ready a week befo
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: sherrow_alexander@bah.com
-* Date and time of pilot session: Friday, 5/26/23 @ 10:30am-11:30am
+* Date and time of pilot session: Wednesday, 5/31/23 @ 10:30am-11:30am
 
 **We also need a kick-off meeting with Perigean for recruiting as soon as possible. Our availability is flexible for this.**
 
