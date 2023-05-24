@@ -4,10 +4,14 @@
 ### Topics covered:
 - BDD SHA launch date
    - Is there a preferred day of the week?
-   - Should we invite stakeholders for the review? Or do another one if they can't join today?    
+   - Should we invite stakeholders for the review? Or do another one if they can't join today?
+       -  Schedule a feedback session
 - Issue Management Strategy - debrief 
-   - New channel for 526ez bugs?
-   - Different board (kanban)?
+   - PM/POs to do daily review and prioritization of the bugs
+   - New channel for 526ez bugs 
+      -  Will need to see if that is necessary
+   - Different board (kanban)
+     -  Can look at that
    - Team Strategy
      -  Team 1 - 1/2 people per sprint
      -  Team 2 - carve out velocity
