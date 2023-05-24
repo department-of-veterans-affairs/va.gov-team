@@ -161,6 +161,8 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 
 
+
+
 **Screener for cohort 2 of mobile test** (3 people) 
 
 - Do you primarily use your cellphone to browse the internet? yes but OK if no  
@@ -171,7 +173,9 @@ What demographics, experience, and scenarios do you need participants to meet to
  
 - Are you able and willing to download new applications onto your phone? yes 
 
-- Have you ever used Zoom on your mobile device? yes but OK if no 
+- Have you ever used Zoom on your mobile device? yes but OK if no
+
+- Do you often find it difficult to read or understand information? Note: We ask this question because we want to make sure that our tools work for people who live with challenges like these. 	Yes
 
 
 
@@ -184,10 +188,12 @@ What demographics, experience, and scenarios do you need participants to meet to
 - Are you in the age range of 55 or older? no
 
 - Will you be discharged from service in the next year? yes 
- 
-- Are you able and willing to download new applications onto your phone? yes 
 
-- Have you ever used Zoom on your mobile device? yes but OK if no 
+- Are you able and willing to download new applications onto your laptop or desktop computer? yes 
+
+- Have you ever used Zoom on a laptop or desktop computer? yes but OK if no
+
+
 
 
 **Screener for desktop cohort 2** (3 people) 
@@ -197,10 +203,14 @@ What demographics, experience, and scenarios do you need participants to meet to
 - Are you in the age range of 55 or older? yes 
 
 - Have you applied for compensation because of toxic exposure or plan to in the future? yes 
- 
-- Are you able and willing to download new applications onto your phone? yes 
 
-- Have you ever used Zoom on your mobile device? yes but OK if no 
+- Are you able and willing to download new applications onto your laptop or desktop computer? yes 
+
+- Have you ever used Zoom on a laptop or desktop computer? yes but OK if no
+
+- Have you experienced a brain injury that has made it difficult to read or understand information? Note: We ask this question because we want to make sure that our tools work for people who live with challenges like these. Yes
+
+
 
 
 Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
