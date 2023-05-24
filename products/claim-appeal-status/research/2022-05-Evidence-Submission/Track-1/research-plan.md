@@ -18,16 +18,16 @@ This work supports the following [OCTO priorities](https://github.com/department
 This work supports a Veteran whenever they are filing a disability compensation claim, which could occur across a wide swath of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf), ranging all the way from "Getting out" to "Aging." 
 
 ## Research Goals	
-1. Assess the usability of these CST design proposals for Veterans, including Veterans with specific accessibility needs
-2. Uncover any additional ideas we should pursue to improve the evidence submission experience for Veterans in CST. 
+- Assess the usability of these CST design proposals for Veterans, including Veterans with specific accessibility needs
+- Uncover any additional ideas we should pursue to improve the evidence submission experience for Veterans in CST. 
 
 ### Outcome
 With this research we hope to validate the usability of our design concepts for "Track 1" Evidence Submission work. "Track 1" is a set of near-term, concrete user experience and accessibility updates we want to make to CST. "Track 2" work for CST will require more validation through concept testing before we refine the designs.
 
 ### Research questions
-1. Does this new design make it easier for Veterans to understand when they have a request to take action on a claim in CST? Are they better able to understand exactly what that request is and how to act on it? 
-2. Do Veterans respond positively to the new layout of the Claim Details page, with separate sections dedicated to Veteran actions and VA actions?
-3. Do Veterans respond positively to other new a11y and UX improvements in this version of CST? 
+- Does this new design make it easier for Veterans to understand when they have a request to take action on a claim in CST? Are they better able to understand exactly what that request is and how to act on it? 
+- Do Veterans respond positively to the new layout of the Claim Details page, with separate sections dedicated to Veteran actions and VA actions?
+- Do Veterans respond positively to other new a11y and UX improvements in this version of CST? 
 
 ### Hypothesis
 Our hypothesis is that this new design for CST will accomplish the following: 
