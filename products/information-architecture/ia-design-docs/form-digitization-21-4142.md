@@ -2,6 +2,7 @@
 **STATUS: Complete**
 ##### Edit history
 - 5/16/2023 - updated site map image (JM)
+- 5/24/2023 - updated URL and site map image (JM)
 
 **Team:** Digitization Team
 
@@ -21,14 +22,14 @@
 
 ## <a name="map"></a>Page structure<br>
 The form will live under the new parent page for supporting forms.
-![Screenshot 2023-05-16 at 2 41 41 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/dbe22b98-366f-4ffa-a6c9-95c4ff27d06f)
+![Screenshot 2023-05-24 at 8 43 46 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/52b06b9d-4b9b-4f29-96ea-0ebd0ca6bd78)
 
 
 ## <a name="url"></a>URLs and breadcrumbs
 
 
 **1) H1 of page - New**
-- URL: www.va.gov/supporting-forms-for-claims/release-records-to-va-form-21-4142
+- URL: www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142
 - Breadcrumb: VA.gov home > H1 of supporting forms page > H1 of form page
 - Notes: Since the supporting forms page is still in progress, we are using an H1 placeholder for when that is established.
 
@@ -41,7 +42,7 @@ The form will live under the new parent page for supporting forms.
 1. **Supporting forms page** - Add
   - Placement description: 
   - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/supporting-forms-for-claims/release-records-to-va-form-21-4142
+  - Link destination: www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142
   - Notes: Since the supporting forms page is still in progress, we have left the placement description blank in the meantime.
 
 
