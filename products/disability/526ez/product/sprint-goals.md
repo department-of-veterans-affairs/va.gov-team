@@ -1,7 +1,7 @@
 # Sprint goals for Benefits Disability Experience Team 
 
 ## Sprint 6
-Period - 05/24/2023 - 06/01/2023
+Period - 05/24/2023 - 06/06/2023
 ### Sprint goals TBD
 - **Expedited**
    - [ ] Self-Assessment Part A to BDD 526 claims - staging review and contact center review
