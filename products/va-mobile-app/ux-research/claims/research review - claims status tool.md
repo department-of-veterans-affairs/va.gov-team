@@ -68,8 +68,8 @@ Veterans trust and want to connect one-on-one with individuals who know the deta
 
 * ##### THEME: UNDERSTANDING & STAYING INFORMED
 
-  * **Insight:** Veterans **want to understand their Claim, what VA is doing with it, and what VA needs from them** so they can keep the process moving.<sub>12</sub>
-  * **Motivation:** Veterans **care about anything they have in flight**, whether that is education or other benefits (like Claims). They want to know **what’s going on now**, **how long it will take**, what they **need to do**, and what **happens next**.<sub>12</sub>
+  * **Insight:** Veterans **want to understand their Claim, what VA is doing with it, and what VA needs from them** so they can keep the process moving.<sub>12,13</sub>
+  * **Motivation:** Veterans **care about anything they have in flight**, whether that is education or other benefits (like Claims). They want to know **what’s going on now**, **how long it will take**, what they **need to do**, and what **happens next**.<sub>12,13</sub>
   * **Behaviors:** 
       * Veterans **check the status of their benefits claims frequently** and through multiple channels in the **hope that they can find better or more up-to-date information**.<sub>12</sub>
       * **Once a claim is filed and a decision is given, Veterans may stop needing claims features as urgently**, depending on the nature of their claim. <sub>12</sub>
@@ -81,13 +81,13 @@ Veterans trust and want to connect one-on-one with individuals who know the deta
   * **Motivation: Veterans want to feel like they’re in control** [of any process], but the VA **benefits process is siloed** and makes Veterans **feel like they’re not in control**.<sub>12</sub>
   * **Behaviors:**
       * **Veterans check multiple sources** for the most up to date Claims status information **because they don’t trust the accuracy of the claim status** they see on VA digital tools. <sub>12</sub>
-      * Veterans often **call VA or VSO staff or visit in person** **to get the detail they want**, as typically the call-center representatives can't access that information.<sub>12</sub>
+      * Veterans often **call VA or VSO staff or visit in person** **to get the detail they want**, as typically the call-center representatives can't access that information.<sub>12,13</sub>
 
 
 * ##### THEME: CONNECTING & COMMUNICATION
 
   * **Insight:** Veterans value empathy and **communication** (especially **one-on-one connections**).<sub>12,13</sub>
-  * **Motivation:** Veterans **trust** **and want to connect one-on-one** with individuals who **know the details of their specific case** to help them.<sub>12</sub>
+  * **Motivation:** Veterans **trust** **and want to connect one-on-one** with individuals who **know the details of their specific case** to help them.<sub>12,13</sub>
   * **Behaviors:**
       * They want to talk with VSOs, Claims Staff, and other VA service providers when they have **questions or need help**.<sub>12,13</sub>
       * They **seek out in-person discussions** about their case **to get questions answered** (more quickly and thoroughly than online).<sub>12,13</sub>
@@ -104,13 +104,13 @@ Veterans trust and want to connect one-on-one with individuals who know the deta
     * **Veterans are not sure if a claim is truly being worked on.**<sub>2,5,10</sub>
         * Some Veterans **have anxiety about the claims process** and **check their claim in the app multiple times a day** to see if their claim status has changed <sub>1,2,5,7</sub> 
         * Veterans **check the status of their claims frequently** and through multiple channels in the **hope that they can find better or more up-to-date information**.<sub>9</sub>
-        * Veterans **do not know where they are in the claims process**—Timeline for benefits decision not explained, back & forth status is confusing.<sub>9</sub>
+        * Veterans **do not know where they are in the claims process**—Timeline for benefits decision not explained, back & forth status is confusing.<sub>9,13</sub>
         * The claims process isn’t linear (and **[seeing a status go “backwards” caused anger for users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/claim-appeal-status/claims-status/readme.md#dominos-pizza-trackerwhy-not)**).<sub>5</sub>
     * Veterans **feel ‘in the dark’** during their benefits journey.<sub>12</sub>
         * They don't know what VA is doing, what VA needs from them, or how to get help.<sub>12</sub>
         * From application to decision, they don't understand the claim timeline, their progress, or what decisions mean.<sub>12</sub>
     * Veterans find **information in the CST [on VA.gov] to be vague and lacking specificity leading them to feel uncertain**.<sub>4</sub>
-    * **A perceived lack of transparency and poor communication results in a mismatch of Veteran expectations of the process and their actual experiences.** <sub>7</sub>
+    * **A perceived lack of transparency and poor communication results in a mismatch of Veteran expectations of the process and their actual experiences.** <sub>7,13</sub>
         * This leaves Veterans feeling frustrated and lost during the process and ultimately disappointed when receiving their rating decision. **Veterans often feel that the lack of transparency is intentional on the part of VA**. <sub>7</sub>
 * ##### THEME: INACCURATE INFORMATION:  
     * **Veterans do not trust the accuracy of the Claim information displayed [across digital tools].**<sub>7,8,12</sub>
@@ -297,7 +297,7 @@ Veterans trust and want to connect one-on-one with individuals who know the deta
     * **Veterans don’t trust the accuracy of the Claim information displayed because it differs from other sources.**
     * The VA mobile app is sometimes displaying **different status information** than other VA digital resources.
 
-### [Veterans Experience Office (VES) work (department-of-veterans-affairs/VES/)](https://github.com/department-of-veterans-affairs/VES/)
+### Veterans Experience Office (VES) work [(department-of-veterans-affairs/VES/)](https://github.com/department-of-veterans-affairs/VES/)
 #### [Veteran Unmet Needs](https://github.com/department-of-veterans-affairs/VES/tree/master/research/Unmet%20Needs) (May 2023)
 * [Apply for Benefits](https://github.com/department-of-veterans-affairs/VES/blob/master/research/Unmet%20Needs/Apply%20for%20benefits/Apply%20for%20Benefits-%20Full%20Report.md)
    * 110 days - Average time for VA to process disability claims *“Respondent Burden” is the OMB’s estimate for the time it takes to complete a form.
