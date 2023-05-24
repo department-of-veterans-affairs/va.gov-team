@@ -106,8 +106,8 @@ Have an identified cognitive impairment (around 1 participant)
 Answer should be yes to satisfy criteria for screen reader. 
     * 5b. Please list the name of the assistive technology or software you will use during the session. 
     * 5c. Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone?
-    	* Any kind of smart phone will work, as long as it connects to the internet.  
-    	* Answer should be yes to satisfy criteria for 3-4 mobile users. 
+    	* Any kind of smart phone will work, as long as it connects to the internet. Tablet is ok, too. 
+    	* Answer should be yes for 3-4 users to satisfy criteria for mobile testing. The other half should be on desktop devices.
 
 ## Timeline
 
