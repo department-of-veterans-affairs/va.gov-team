@@ -15,8 +15,8 @@
 ## Sprint 11 (5/24 - 6/6)
 [#51099](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51099)
 
-**Onsite Notifications**
-Component
+### Onsite Notifications
+**Component**
 - QA
 - Staging review
 - Privacy and security
@@ -24,7 +24,12 @@ Component
 **Notification Center**
 - Technical discovery 
 - Research planning
-- 
+- Submit Collab Cycle ticket
+
+### My VA
+Update 1-month post launch to 100% stats
+  - This is done in the [My VA audit project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#measuring-success)
+  - Remember, we want to track stats 1 month after the date of the launch to 100% of users. So, if we went to 100% of users on 4/15, we'd track the first month of stats from 4/15 - 5/14.
 
 ## Sprint 12 (6/7 - 6/20)
 [#51100](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51100)
