@@ -17,7 +17,7 @@ Please schedule a short chat with each of these folks, either individually or in
 - [ ] Ryan Thurlwell (OCTO Design)
 - [ ] Martha Wilkes (OCTO Accessibility)
 - [ ] Lynne Johnson (Delivery Manager)
-- [ ] Marci McGuire (Product Manager)
+- [ ] Tom Anderson (Product Manager)
 - [ ] Cara Frissell (Research Lead)
 - [ ] Jonathan Nelson (Designer)
 - [ ] Carlos Felix (Technical Architect)
