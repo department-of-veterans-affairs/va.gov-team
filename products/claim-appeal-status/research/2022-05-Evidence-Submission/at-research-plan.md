@@ -71,7 +71,8 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Maximum Sessions per day: 3
 
 ### Availability
-Mon, June 5 - Fri, June 9
+June 5 - 9
+
 9 AM – 5 PM
 	
 ## Team Roles	
