@@ -56,6 +56,8 @@ Before we start, I want to go over a few things:
 
 *Start recording to the cloud.*
 
+*(If participant asks you to NOT record)* Are you comfortable if I save the transcript of the session?
+
 *Click Live Transcript and **Enable**, or **Show Captions**.* 
 
 *Click **Live Transcript > View Full Transcript***
