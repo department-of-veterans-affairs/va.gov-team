@@ -1,5 +1,21 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: May 24 2023
+### Topics covered:
+- BDD SHA launch date
+   - Is there a preferred day of the week?
+   - Should we invite stakeholders for the review? Or do another one if they can't join today?    
+- Issue Management Strategy - debrief <br>
+      - New channel for 526ez bugs?
+      - Different board (kanban)?
+      - Team Strategy
+         -  Team 1 - 1/2 people per sprint
+         -  Team 2 - carve out velocity
+         -  Pair throughout the sprint    
+- Sprint goals
+- Bugs
+
+      
 ### Date: May 17 2023
 ### Topics covered:
 - Issue Management Strategy - debrief <br>
