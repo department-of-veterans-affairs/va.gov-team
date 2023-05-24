@@ -124,12 +124,11 @@ Review accomplishments from prior sprint, what went well, what can be improved, 
 
 | Meeting | Date | Purpose | Presenter/Lead |
 |-|-|-|-|
-| MHV Scrum of Scrums | Monday (weekly) | Provide MHV on VA.gov updates to all MHV and MHV classic teams. | Lynne; new PM |
-| VFS Team of Teams | Tuesday (weekly) | Provide MHV on VA.gov updates to all VFS teams | Lynne |
-| MHV on VA.gov Weekly Stand Up | Wednesday (weekly) | Provide MHV on VA.gov updates to all MHV on VA.gov adjacent teams | Patrick, Lynne back up |
+| MHV Scrum of Scrums | Monday (weekly) | Provide MHV on VA.gov updates to all MHV National Portal and MHV app teams. | Lynne; Tom backup |
+| VFS Team of Teams | Tuesday (weekly) | Provide MHV on VA.gov updates to all VFS teams | Lynne; Tom backup |
+| MHV on VA.gov Weekly Stand Up | Wednesday (weekly) | Provide MHV on VA.gov updates to all MHV on VA.gov adjacent teams | Patrick; Lynne back up |
 | MHV Weekly Design Review | Wednesday (weekly) | Provide MHV on VA.gov updates (UCD/UX, Developers, Testers, Product, and Stakeholder updates) | Team round robin as needed | 
-| MHV Scrum of Scrums | Thursday (weekly) | Provide MHV on VA.gov updates to all MHV and MHV classic teams. | Lynne; new PM |
-| Health Apt Team Track Updates | Thursday (weekly) | Attendee updates (stand up format), topic specific discussion as needed | Lynne |
+| MHV Scrum of Scrums | Thursday (weekly) | Provide MHV on VA.gov updates to all MHV and MHV classic teams. | Lynne; Tom backup |
 | Roadmap Alignment | Monthly | Review Roadmap, clarify priorities, ask questions, make adjustments  | Lynne, Team as needed |
 
 #### Slack:
@@ -138,7 +137,7 @@ Review accomplishments from prior sprint, what went well, what can be improved, 
   -  [#health-portal-backchannel](https://dsva.slack.com/archives/C02TKHQCF9U)- Private invitation-only channel for discussing topics that are not yet ready for public disclosure.
   -  [#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV) - A space for any gov or contract team member working on or adjacent to the MHV portal on va.gov (aka apartment) to ask questions, coordinate across teams, or openly discuss a topic of interest.
   -  [#health-care-products-all-teams](https://dsva.slack.com/archives/C02BTDTEPNH) - Let’s connect the dots across VA’s digital health products so Veterans, doctors, and staff don’t have to.
-  -  
+  -  [#mhv-on-vagov-cartography-team](https://dsva.slack.com/archives/C0581MN69TJ) - A smaller space for the MHV on VA.gov and POs to communicate and share ideas. 
 
 #### GitHub
-- [Github/Zenhub labels - my-health-INTEGRATION + my-health](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125) -- all work related to MHV on VA.gov needs the `my-health` label, my-health-CTO-HEALTH-TEAM, and `my-health-INTEGRATION` label denotes the work being done by the CTO Health Team
+- [Github/Zenhub labels - my-health-CTO-HEALTH-TEAM + my-health-INTEGRATION + my-health](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125) -- all work related to MHV on VA.gov needs the `my-health` label, my-health-CTO-HEALTH-TEAM, and `my-health-INTEGRATION` label denotes the work being done by the CTO Health Team
