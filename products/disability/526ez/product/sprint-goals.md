@@ -1,5 +1,33 @@
 # Sprint goals for Benefits Disability Experience Team 
 
+## Sprint 6
+Period - 05/24/2023 - 06/01/2023
+### Sprint goals TBD
+- **Expedited**
+   - [ ] Self-Assessment Part A to BDD 526 claims - staging review and contact center review
+   - [ ] Bug - Fix - Identification issue - Update phone number on 526-EZ alert - is this complete?
+   - [ ] Bug - Fix - VAMC location field optional
+   - [ ] Bug - Fix - Required validation error not displaying for BDD Supporting Evidence
+   - [ ] Bug - Design - Future Date of Claim issue fix
+   - [ ] Bug - Discovery - 526 start - Identification error 
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration 
+        - Intent to File endpoint 
+            - [ ] Integration testing with LH in dev, sandbox and staging environments 
+        - BRD
+            - [ ] Discovery - Whether EVSS is used in DisabilityCompensationFormsController (BRD)
+        - Submit endpoint
+            - [ ] Discovery - What would it take to migrate the endpoint
+- **Features**
+   - Intro page changes and 526ez current with paper form
+      - [ ] Intro pages - Research and interviews
+      - [ ] Research plan and screener for intro pages
+      - [ ] Design for return URL as result of flow changes
+      - [ ] User flow for toxic exposure screens
+   - [ ] Analytics
+      - [ ] Survey Feedback Data Analysis - Part 2
+ 
+
 ## Sprint 5
 Period - 05/10/2023 - 05/23/2023
 ### Sprint goals TBD
