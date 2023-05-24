@@ -1,11 +1,11 @@
-# Research Plan for [Team, Product, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for Benefits Team 1: Evidence Submission Usability Testing
+
+June 2023
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+In our research on the Decision Reviews and Initial Decision experiences, we've identified a number of issues with the Claim Status Tool experience. One of the main Veteran pain points relates to evidence submission: Veterans don't have a good understanding of what type of evidence to submit, and once the claim is in progress they are anxious about whether there is anything they need to do, or any additional materials they need to provide, to improve the likelihood of a favorable outcome. 
+
+With this set of design changes to CST, we hope to make it clearer to Veterans what actions – if any – they need to take to support their claim. We also hope to improve the experience overall, leading to a CST that is clearer, easier to understand, and leaves Veterans feeling more secure about the status of their claim. 
 
 [Link to product brief](url goes here).
 
