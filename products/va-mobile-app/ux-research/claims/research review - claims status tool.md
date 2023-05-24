@@ -53,8 +53,9 @@ Veterans trust and want to connect one-on-one with individuals who know the deta
 * Veterans want to talk with VSOs, Claims Staff, and other VA service providers when they have questions or need help.
 * They seek out in-person discussions about their case to get questions answered (more quickly and thoroughly than online).
 * Veterans also rely on their peers, friends and family for guidance in navigating the benefits process.
-* Call center representatives can't access the information needed to answer questions, so Veterans often call VA or VSO staff or visit in person to get the detail they want.
 * Tracking info from VA on the phone takes time—participants said claims support chat in an app would save time and bring more transparency to a frustrating process.
+* Call center representatives can't access the information needed to answer questions, so Veterans often call VA or VSO staff or visit in person to get the detail they want.
+* Word-of-mouth information from other Veterans can be a source of misinformation, including bad advice, and conspiracy theories.
         </td>
     </tr>
 </table>
