@@ -15,6 +15,16 @@
 ## Sprint 11 (5/24 - 6/6)
 [#51099](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51099)
 
+**Onsite Notifications**
+Component
+- QA
+- Staging review
+- Privacy and security
+
+**Notification Center**
+- Technical discovery 
+- Research planning
+- 
 
 ## Sprint 12 (6/7 - 6/20)
 [#51100](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51100)
