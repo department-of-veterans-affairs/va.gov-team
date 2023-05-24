@@ -121,7 +121,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Research sessions
 * Planned dates of research: 
-	* Usability testing target dates: Wednesday, 5/31/23; Thursday, 6/1/23; Friday, 6/2/23
+	* Usability testing target dates: Monday, 6/5/23; Tuesday, 6/6/23; Wednesday, 6/7/23
 
 ### Length of sessions
 * Session length: 45 minutes up to an hour
@@ -129,10 +129,10 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Maximum Sessions per day: 3-4
 
 ### Availability
-* Wednesday, 5/31/23: 9:30am-1pm, 2:30pm-4pm, 5pm-6pm
-* Thursday, 6/1/23: 9:30am-1pm, 1:30pm-4pm, 5-6pm
-* Friday, 6/2/23: 9:30am-1pm, 1:30pm-4pm
-If more timeslots are needed, we could open up Monday, 6/5/23.
+* Monday, 6/5/23: 9:30am-12:30pm, 1-4pm, 5-6pm
+* Tuesday, 6/6/23: 9:30am-12:30pm, 1-4pm, 5-6pm
+* Wednesday, 6/7/23: 9:30am-1pm, 3-4pm, 5-6pm
+If more timeslots are needed, we could open up Thursday, 6/8/23.
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.** 	
