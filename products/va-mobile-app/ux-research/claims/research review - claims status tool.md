@@ -216,10 +216,10 @@ Veterans trust and want to connect one-on-one with individuals who know the deta
            * Veterans **check the status of their benefits claims frequently** and through multiple channels in the **hope that they can find better or more up-to-date information**.
            * Veterans **often call VA or VSO staff or visit in person to get the detail they want**, as typically the call-center representatives can't access that information.
    * **Pain points**
-   * **Veterans** **feel ‘in the dark’ during their benefits journey.**
-       * They don't know **what VA is doing**, **what VA needs from them**, or **how to get help.**
-       * From application to decision, **they don't understand the claim timeline**, **their progress,** or what decisions mean.
-       * **Veterans don’t know how to get help:** When Veterans have questions throughout the claims process, there is **no guidance from VA as to where they can receive help beyond the 1-800 number. Finding the right person** at the VA can be **complicated and confusing.**
+      * **Veterans** **feel ‘in the dark’ during their benefits journey.**
+          * They don't know **what VA is doing**, **what VA needs from them**, or **how to get help.**
+          * From application to decision, **they don't understand the claim timeline**, **their progress,** or what decisions mean.
+          * **Veterans don’t know how to get help:** When Veterans have questions throughout the claims process, there is **no guidance from VA as to where they can receive help beyond the 1-800 number. Finding the right person** at the VA can be **complicated and confusing.**
 
 * **Insight:** **Veterans are the glue** holding together disparate pieces of a large and confusing system that they can’t always rely on to deliver the benefits they’ve earned.
    * **Motivations**
