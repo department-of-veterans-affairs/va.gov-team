@@ -5,6 +5,7 @@
 * [WIP Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/claims-discovery/Claims%20Reimagined%20Product%20Brief.md)
 
 ## Data Resources:
+[VA Mobile App - Claims Status tool - Dashboard](https://lookerstudio.google.com/u/0/reporting/dea3ede1-2d2e-4401-abd7-a44beada8a35/page/p_2j3o3kvy4c)
 
 ## User Research Resources:
 * [Review of Related User Research: VA Mobile App - Claims Status Tool](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/claims/research%20review%20-%20claims%20status%20tool.md)
