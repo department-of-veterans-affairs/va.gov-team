@@ -7,15 +7,15 @@ Looking to improve the user experience in VAOS by having an option to print the 
 
 ## Outcome Summary
 
-A user can print their appointments (upcoming, pending, canceled or past) 
+A user can print their appointment list (upcoming, pending, or past) 
 
 **Related/Associated product(s)**
 
 ## Problem
 * What is the problem and who is affected? And, what evidence do we have of the problem?
-  -  Enter details
+  -  We would like to improve the Veteran's experience when viewing their appointment list. We have heard numerous feedback from the users about being able to print from the page. 
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
-  - Enter details
+  - We do not have a function on the page that allows a user to click Print.
   - Anecdotal feedback from stakeholders and Veterans
   - Qualitative feedback from surveys
 * How does this initiative help further OCTO-DE's mission and goals?
@@ -24,17 +24,23 @@ A user can print their appointments (upcoming, pending, canceled or past)
 
  <details>
   <summary><b>User Feedback Quotes</b></summary>
-
+ From the Medallia surveys on VA.gov 
+ 
+"See my appointments NEED PRINTER FRIENDLY VERSION for appointments" - 02/23/2023 
+ 
+ "Need a way to PRINT the appointment list." - 12/31/2022 
+ 
 </details>
 
 ## Desired Outcomes
-- Enter details
+- A Veteran is able to print the list for their appointments
 
 ## Undesired Outcomes
-- Enter details
+- A user is unable to print 
 - 
 ## Key Decisions
-- Enter details
+- Print feature is easy to use
+- Print format can be read 
 
 ---
 ## Measuring Success
@@ -66,21 +72,21 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 ### Assumptions/Risks
 
 - **Value Risks** (will people use it): 
-  - Enter details
+  - We believe most users will benefit from the print feature because it will allow them to print the list of their upcoming, pending and past appointments in the application. 
 - **Usability Risks** (can people figure out how to use it):
-  - Enter details
+  - We will need to research and see where is the best place to put the print feature so it's accessible for all users. 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Enter details
+  - We do not anticipate to have technical risk of adding the print feature. 
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Examples: VA stakeholder testing, marketing, compliance requirements 
 
 ### Prioritization
-1. Enter details
+1. Appointmnet List Redesign
+2. Print List 
 
 ### Solution Summary
--Enter details
-
+- 
 
 --- 
 
@@ -116,7 +122,7 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - June 2023
 - *Actual Launch Date* 
   - tbd
 
@@ -131,13 +137,13 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 ---
 
 #### Communications
-*Where will you discuss this initiative?*
+In our regular meetings with the team. 
 
 <details>
 
-- Team Name: VA Online Scheduling
+- Team Name: Appointments Team (Formerly VA Online Scheduling) 
 - GitHub Label(s): vaos 
-- Slack channel: #vaos-team
+- Slack channel: #appointments-team
 - Product POCs: Katherine Lawyer 
 
 </details>
@@ -149,13 +155,12 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 - DEPO Lead: [Katherine Lawyer](https://dsva.slack.com/team/U772MC9BQ)
 - PM: [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79) and [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP)
 - Engineering: [Simi Adebowale](https://dsva.slack.com/archives/D037VNB23T2)
-- Research/Design:[Peter Russo](https://dsva.slack.com/team/U01C2UUHXH9), [Ciera Maddox](https://dsva.slack.com/team/U02JWT564E9) and [Melissa Lefevre]()
+- Research/Design:[Peter Russo](https://dsva.slack.com/team/U01C2UUHXH9), [Ciera Maddox](https://dsva.slack.com/team/U02JWT564E9) and [Melissa Lefevre](U01Q4GJNHHT)
  
 </details>
 
 
 #### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
 
 <details>
   
