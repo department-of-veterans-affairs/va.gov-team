@@ -1,10 +1,10 @@
 # Research Plan for Benefits Team 1: Evidence Submission AT Usability Testing (WIP)
 
-May 2023
+TBD
 
 ## Background
 
-**This is the Assistive Technology usability testing plan for the Evidence Submission work that is underway. The Research Plan for the other usability study can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-05-Evidence-Submission/Track-1/research-plan.md).**
+**This is the Assistive Technology usability testing plan for the Evidence Submission work that is underway. The Research Plan for the other usability study can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-05-Evidence-Submission/research-plan.md).**
 
 In our research on the Decision Reviews and Initial Decision experiences, we've identified a number of issues with the Claim Status Tool experience. One of the main Veteran pain points relates to evidence submission: Veterans don't have a good understanding of what type of evidence to submit, and once the claim is in progress they are anxious about whether there is anything they need to do, or any additional materials they need to provide, to improve the likelihood of a favorable outcome.
 
@@ -41,40 +41,39 @@ We would like to recruit Veterans who use screenreaders and have filed a disabil
 For this study we woud like to recruit 12 total participants. All 12 participants should be screen reader users. 
 
 **Primary criteria (must-haves)**
-- 6 screenreader users who are at the level "advanced" or "expert."
-- 6 screenreader users who are at the level "beginner" or "intermediate."
+- 4 screenreader users who are at the level "advanced" or "expert."
+- 8 screenreader users who are at the level "beginner" or "intermediate."
 
 **Questions**
 1. Have you ever filed a disability compensation claim with the VA?
-2. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
-3. Are you able to join the Zoom session using this assistive technology?
-4. Please list the name of the assistive technology or software you will use during the session.
-5. We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader:
+2. Have you ever successfully logged on to VA.gov using your assistive technology?
+3. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
+4. Are you able to join the Zoom session using this assistive technology?
+5. Please list the name of the assistive technology or software you will use during the session.
+6. We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader:
 [Response options: Beginner, Intermediate, Advanced, Expert]
 
 ## Timeline
-The Research Plan will be completed by May 29th. We would like to schedule sessions for the week of June 5th.
+The Research Plan will be completed by (TBD). We would like to schedule sessions for the week of (TBD).
 
 ### Prepare
 
 **TBD**
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: June 1st
+* Pilot participant email: Angela Fowler | angela.fowler@adhocteam.us
+* Date and time of pilot session: TBD
 
 ### Research sessions
-* Planned dates of research: June 5 - 9, 2023
+* Planned dates of research: TBD
 
 ### Length of sessions
-* Session length: 1 hour
-* Buffer time between sessions: 30 minutes 
+* Session length: 1.5 hours
+* Buffer time between sessions: 1 minutes 
 * Maximum Sessions per day: 3
 
 ### Availability
-**June 5 and 7–9:** 9 AM – 5 PM ET
-
-**June 6:** 1 PM – 5 PM ET
+TBD
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
