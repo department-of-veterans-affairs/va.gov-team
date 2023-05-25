@@ -12,7 +12,7 @@
 - _Check your [screensharing setup]. Make sure they are setup on Zoom app and ready to screenshare._
 - _When the participant is ready, begin the session with the following intro._
 
-## Project-Specific Setup and Intro - 10 minutes
+## Project-Specific Setup and Intro - 5 minutes
 
 Thanks for joining us today! My name is [moderator name] and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype of the pre-need application. We're working on improvements to the form, so it's important that we get feedback from users.
 
@@ -49,4 +49,12 @@ _Can actually do this as I’m explaining to them where to find “Chat” and �
 Ok. Now we're really ready to begin!
 
 ## Warm-up Questions - 5 minutes
+- To start, I'd like to ask you a few warm-up questions.
+- Can you tell me a little bit about yourself? [Determine if they're a veteran, family member, or a personal representative]
+- Did you know that you could apply to be buried in a national cemetery at any time, if you're eligible?
+- If so, how did you find out?
+- Do you know what qualifies you to be buried in a national cemetery?
+- Do you want to be buried in a national cemetery?
+- Have you applied already to be buried in a national cemetery? If so, could you describe how and your thoughts about it?
+- Okay, now I'm going to show you a website [pull up websites].
 
