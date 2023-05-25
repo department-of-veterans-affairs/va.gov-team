@@ -149,67 +149,106 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 **Screener for cohort 1 of mobile test** (3 people) 
 
-- Do you primarily use your cellphone to browse the internet? yes but ok if no 
+- Do you primarily use your cellphone to browse the internet? 
+	- yes (qualified)
+	- no (not qualified)
  
-- Are you in the age range of 55 or older? yes 
+- Are you in the age range of 55 or older? 
+	- yes (qualified)
+	- no (not qualified)
 
-- Have you applied for compensation becasue of toxic exposure or plan to in the future? yes 
+- Have you applied for compensation becasue of toxic exposure or plan to in the future?
+	- yes (qualified)
+	- no (not qualified)
  
-- Are you able and willing to download new applications onto your phone? yes 
+- Are you able and willing to download new applications onto your phone? 
+	- yes (qualified)
+	- no (not qualified)
 
-- Have you ever used Zoom on your mobile device? yes but OK if no 
-
-
-
+- Have you ever used Zoom on your mobile device? 
+	- yes (qualified)
+	- no (not qualified)
 
 
 **Screener for cohort 2 of mobile test** (3 people) 
 
-- Do you primarily use your cellphone to browse the internet? yes but OK if no  
+- Do you primarily use your cellphone to browse the internet? 
+	- yes (qualified)
+	- no (not qualified)
  
-- Are you in the age range of 55 or older? no 
+- Are you in the age range of 55 or older?
+	- yes (qualified)
+	- no (not qualified)
 
-- Will you be discharged from service in the next year? yes 
+- Will you be discharged from service in the next year? 
+	- yes (qualified)
+	- no (not qualified)
  
-- Are you able and willing to download new applications onto your phone? yes 
+- Are you able and willing to download new applications onto your phone? 
+	- yes (qualified)
+	- no (not qualified)
 
-- Have you ever used Zoom on your mobile device? yes but OK if no
+- Have you ever used Zoom on your mobile device?
+	- yes (qualified)
+	- no (not qualified)
 
-- Do you often find it difficult to read or understand information? Note: We ask this question because we want to make sure that our tools work for people who live with challenges like these. 	Yes
-
+- Do you often find it difficult to read or understand information? Note: We ask this question because we want to make sure that our tools work for people who live with challenges like these. 	
+	- yes (qualified)
+	- no (not qualified)
 
 
 -------------------------------------------
 
 **Screener for cohort 1 on desktop** (3 people) 
 
-- Do you primarily use your cellphone to browse the internet? yes but ok if no  
+- Do you primarily use your cellphone to browse the internet?   
+	- yes (qualified)
+	- no (not qualified)
  
-- Are you in the age range of 55 or older? no
+- Are you in the age range of 55 or older? 
+	- yes (not qualified)
+	- no ( qualified)
 
-- Will you be discharged from service in the next year? yes 
+- Will you be discharged from service in the next year? 
+	- yes (qualified)
+	- no (not qualified)
 
-- Are you able and willing to download new applications onto your laptop or desktop computer? yes 
+- Are you able and willing to download new applications onto your laptop or desktop computer?  
+	- yes (qualified)
+	- no (not qualified)
 
-- Have you ever used Zoom on a laptop or desktop computer? yes but OK if no
+- Have you ever used Zoom on a laptop or desktop computer? 
+	- yes (qualified)
+	- no (not qualified)
 
 
 
 
 **Screener for desktop cohort 2** (3 people) 
 
-- Do you primarily use your cellphone to browse the internet? yes but ok if no 
+- Do you primarily use your cellphone to browse the internet? 
+	- yes (qualified)
+	- no (not qualified)
  
-- Are you in the age range of 55 or older? yes 
+- Are you in the age range of 55 or older? 
+	- yes (qualified)
+	- no (not qualified)
 
 - Have you applied for compensation because of toxic exposure or plan to in the future? yes 
+	-yes (qualified)
+	- no (not qualified)
 
 - Are you able and willing to download new applications onto your laptop or desktop computer? yes 
+	- yes (qualified)
+	- no (not qualified)
 
-- Have you ever used Zoom on a laptop or desktop computer? yes but OK if no
+- Have you ever used Zoom on a laptop or desktop computer? 
+	- yes (qualified)
+	- no (not qualified)
 
-- Have you experienced a brain injury that has made it difficult to read or understand information? Note: We ask this question because we want to make sure that our tools work for people who live with challenges like these. Yes
-
+- Have you experienced a brain injury that has made it difficult to read or understand information? Note: We ask this question because we want to make sure that our tools work for people who live with challenges like these. 
+	- yes (qualified)
+	- no (not qualified)
 
 
 
