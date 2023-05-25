@@ -1,6 +1,6 @@
 # Medical Records Generative Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), MHV on VA.gov, Digital Health Modernization team**
 
 Date: 11/28/2022
 
