@@ -18,8 +18,7 @@
 ### Onsite Notifications
 **Component**
 - QA
-- Staging review
-- Privacy and security
+- prep for Staging review and Privacy and security
 
 **Notification Center**
 - Technical discovery 
@@ -34,9 +33,35 @@ Update 1-month post launch to 100% stats
 ## Sprint 12 (6/7 - 6/20)
 [#51100](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51100)
 
+### Onsite Notifications
+**Component**
+- Complete Staging review & Privacy and security
+- "release" component on My VA
+
+**Notification Center**
+- Share with MHV folks 
+- Design Intent
+
+### My VA
+E2E and unit test work
+
 
 ## Sprint 13 (6/21 - 7/4)
 [#51101](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51101)
+
+### Onsite Notifications
+**Component**
+- Complete Staging review & Privacy and security
+- "release" component on My VA
+
+**Notification Center**
+- Share with MHV folks 
+- Design Intent
+
+### My VA
+Update 2-month post launch to 100% stats
+  - This is done in the [My VA audit project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#measuring-success)
+  - Remember, we want to track stats 1 month after the date of the launch to 100% of users. So, if we went to 100% of users on 4/15, we'd track the first month of stats from 4/15 - 5/14.
 
 
 ## Sprint 14 (7/5 - 7/18)
