@@ -63,7 +63,8 @@ Weâ€™d like to recruit 9 participants for a total of 6-8 completed sessions. Weâ
 **Primary criteria (must-haves)**
 - Amount: Target is 6-8 participants but recruit 10
 - Age ranges: 
-    * Around 80% 35+
+    * Around 60% 35+
+    * Around 20% 65+
     * Around 20% 18-34
 - Types: 
     * Three to four service members and Veterans 
@@ -76,7 +77,7 @@ Weâ€™d like to recruit 9 participants for a total of 6-8 completed sessions. Weâ
      	- Age 35+, Asian, Male 
     * One unmarried adult child (An **unmarried adult child** is an individual who became physically or mentally disabled permanently and incapable of self-support before the age of 21, or before 23 years of age if pursuing a full-time course of instruction at an approved educational institution.)
      	- Age 18-20 or 18-22 if pursuing degree
-    * One parent of a service member or Veteran (considered a Corey Shea Act applicant)
+    * One parent of a service member (not the parent of a Veteran; considered a Corey Shea Act applicant)
      	- Age 40+, Native American
     * One person interested in pre-need eligibility determination
 - Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
