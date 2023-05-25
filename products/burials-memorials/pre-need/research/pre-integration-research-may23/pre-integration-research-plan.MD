@@ -116,13 +116,13 @@ When will the thing you are testing be finalized? Ideally it's ready a week befo
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: sherrow_alexander@bah.com
-* Date and time of pilot session: Wednesday, 5/31/23 @ 10:30am-11:30am
+* Date and time of pilot session: Thursday, 6/1/23 @ 10:30am-11:30am
 
 **We also need a kick-off meeting with Perigean for recruiting as soon as possible. Our availability is flexible for this.**
 
 ### Research sessions
 * Planned dates of research: 
-	* Usability testing target dates: Monday, 6/5/23; Tuesday, 6/6/23; Wednesday, 6/7/23
+	* Usability testing target dates: Wednesday, 6/7/23; Thursday, 6/8/23; Friday, 6/9/23
 
 ### Length of sessions
 * Session length: 60 minutes
@@ -130,10 +130,10 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Maximum Sessions per day: 4-5
 
 ### Availability
-* Monday, 6/5/23: 9:30am-12:30pm, 1-4pm, 5-6pm
-* Tuesday, 6/6/23: 9:30am-12:30pm, 1-4pm, 5-6pm
 * Wednesday, 6/7/23: 9:30am-1pm, 3-4pm, 5-6pm
-If more timeslots are needed, we could open up Thursday, 6/8/23.
+* Thursday, 6/8/23: 9:30am-12:30pm, 1-4pm, 5-6pm
+* Friday, 6/9/23: 9:30am-12:30pm, 1-4pm
+If more timeslots are needed, we could open up Monday, 6/12/23.
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.** 	
