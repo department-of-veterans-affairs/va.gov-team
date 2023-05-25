@@ -11,18 +11,36 @@ For a view of the roadmap of current and upcoming research, visit the Research o
 1. _Work in the open:_ Store all artifacts in public locations that are convenient to your team processes. These include: GitHub, SharePoint, VA Mural, and/or linked to ZenHub tickets. Do not store research artifacts in organization-centric locations. This ensures all collaborators can access research artifacts when needed.  
 2. _Be collaborative and transparent:_ Engage a range of stakeholders throughout the research process, from identifying research questions to developing data collection instruments to analyzing data to sharing out findings. Diverse perspectives enhance the methodological rigor and utility of research processes. Regular demos are encouraged. All research plans, data collection instruments, and findings reports must be reviewed by OCTO Research Lead. 
 3. _Be communicative:_ Communicate out progress in team Slack channels to ensure all relevant stakeholders are aware and in the loop. 
-4. _Follow VA.gov research ops processes:_ Follow the [Research checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist). 
+4. _Prioritize participant wellbeing. Minimize risks and maximize benefits:_ Assess if and how your research plan might place participants are risk disproportionate to what they experience in their day-to-day living. Include ways to minimize those risks (i.e., ways to ask about certain topics) and include a list of resources in the event that participants need additional support or should be made aware of a service. If you like, become involved in the community conversations found on [#trauma-practice Slack channel.](https://dsva.slack.com/archives/C04F9JLSATE)
+5. _Follow VA.gov research ops processes:_ Follow the [Research checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist). 
 
 ## What types of research have we done on MHV on VA.gov? 
 
 Research can be carried out to answer different types of questions at different moments in the product development and launch cycle. Below are descriptions of the general types of research we have carried out, when, and examples. 
 
-__Discovery research:__
+_Note:_ 
 
-__Generative research:__
+__Discovery research:__ Discovery research typically focuses on understanding the problem space and identifying opportunities and an initial direction for next steps. On MHV on VA.gov, the problem space includes technical (e.g., API needs, electronic health record data issues), policy (i.e., what policies influence how a given feature will function?), and user considerations (i.e., what user needs does a product or service address? What previous research has been carried out related to users?). 
 
-__Prototype or concept testing:__
+Examples carried out on MHV on VA.gov include: 
+  - [Medical Records Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-09-informational-interviews/research-findings.md) (September 2022)
+  - [Medications Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/Discovery/Finding%20%26%20recommendations/Full%20report.md) (May 2023)
 
-__Usability testing or User Acceptance Testing:__
+__Generative research:__ The terms "Generative research" and "Discovery research" are often [used interchangeably](https://dscout.com/people-nerds/generative-research-complete-guide#:~:text=Generative%20UX%20research%20is%20%E2%80%9Cnext%20level%E2%80%9D%20research.%20It,innovates%2C%20and%20it%E2%80%99s%20a%20challenging%20method%20to%20master.) (see note above re: terms). In our case, we have used the term "Generative research" to refer to research carried out with end users to understand their needs, processes, and mental models, in order to inform design decisions both directly and indirectly. This is not evaluative research. 
+
+Examples carried out on MHV on VA.gov include: 
+  - [Medical Records Generative Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md) (November 2022)
+
+__Prototype or concept testing:__ This refers to the testing of an early-stage idea, such as a low-fi prototype, with end users. The goal is to receive feedback early enough to course correct. On MHV on VA.gov, we have tested prototypes after design intent prior to their build on staging. The key differentiation between testing at this stage and later-stage testing lies in the goal to assess proof of concept. 
+
+Examples carried out on MHV on VA.gov include: 
+  - [MHV on VA.gov Round 1 Usability Testing/ Proof of Concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability/Final_report.md) (March 2022)
+  - [MHV on VA.gov Round 2 Usability Testing/ Proof of Concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability/Final_Report.md) (May 2022)
+
+__Usability testing:__ Usability testing overlaps with Prototype of Concept testing (and those early-stage tests have been referred to as usability tests). Usability testing is, at its core, about getting end users to interact with a product or service in order to observe their behavior and reactions, ask questions when possible, and better understand their experience. Usability testing can take place with prototypes or products launched in the production environment.
+
+Examples carried out on MHV on VA.gov include: 
+  - [Medications Refill Status Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-prescription-refill/2022-medication-refill-statuses/Research/Refill-Status-Usability-Report-2022-12.pdf) (December 2022)
+  - [Secure Messaging Round 2 Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2022-09-usability_testing_2/research-findings.md) (November 2022)
 
 (include screenshot of visual)
