@@ -965,17 +965,17 @@ Clinic: {Clinic name}
 Main phone: {phone number} (TTY: 711)
 ```
 
-```Add to calendar```
-
-```Print```
-
-```Cancel appointment```
-
 ```
 You shared these details about your concern
 
 {Reason}: {Booking note}
 ```
+
+```Add to calendar```
+
+```Print```
+
+```Cancel appointment```
 
 **PROGRESS BUTTONS**
 
@@ -1015,13 +1015,13 @@ Clinic: {Clinic name}
 Main phone: {phone number} (TTY: 711)
 ```
 
-```Print```
-
 ```
 You shared these details about your concern
 
 {Reason}: {Booking note}
 ```
+
+```Print```
 
 **PROGRESS BUTTONS**
 
@@ -1061,13 +1061,13 @@ Clinic: {Clinic name}
 Main phone: {phone number} (TTY: 711)
 ```
 
-```Print```
-
 ```
 You shared these details about your concern
 
 {Reason}: {Booking note}
 ```
+
+```Print```
 
 **PROGRESS BUTTONS**
 
