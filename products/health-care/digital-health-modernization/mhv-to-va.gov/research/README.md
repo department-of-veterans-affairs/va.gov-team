@@ -2,13 +2,13 @@
 
 The purpose of this folder is to: 
   
-  (1) Align team members on why, when, and how we carry out different research efforts on MHV on VA.gov
+    (1) Align team members on why, when, and how we carry out research efforts on MHV on VA.gov
   
-  (2) Provide resources to people carrying out research on MHV on VA.gov products and services, or direct them to existing resources
+    (2) Provide resources to people carrying out research on MHV on VA.gov products and services, or direct them to existing resources
   
-  (3) Provide a comprehensive list of research studies that have contributed to the MHV on VA.gov project in a centralized location
+    (3) Provide a comprehensive list of research studies that have contributed to the MHV on VA.gov project in a centralized location
 
-For a list of research that has been carried out to develop and support the overall concept of MHV on VA.gov to the distinct applications that are/will be housed there, go to [previous-research-on-mhv-on-va.gov.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research/previous-research-on-mhv-on-va.gov.md). 
+For a list of research that has been carried out to develop and support MHV on VA.gov, go to [previous-research-on-mhv-on-va.gov.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research/previous-research-on-mhv-on-va.gov.md). 
 
 For a view of the roadmap of current and upcoming research, visit the Research on [MHV on VA.gov ZenHub board](https://app.zenhub.com/workspaces/mhv-on-vagov-research-644bfcfc77c2ba00146120d7/board). 
 
@@ -18,11 +18,11 @@ For a view of the roadmap of current and upcoming research, visit the Research o
  
 2. _Be collaborative and transparent:_ Engage a range of stakeholders throughout the research process, from identifying research questions to developing data collection instruments to analyzing data to sharing out findings. Diverse perspectives enhance the methodological rigor and utility of research processes. Regular demos are encouraged. All research plans, data collection instruments, and findings reports must be reviewed by OCTO Research Lead. 
 
-3. _Be communicative:_ Communicate out progress in team Slack channels to ensure all relevant stakeholders are aware and in the loop. 
+3. _Be communicative:_ Communicate out progress in team Slack channels and meetings to ensure all relevant stakeholders are aware and in the loop. 
 
-4. _Prioritize participant wellbeing. Minimize risks and maximize benefits to research participation:_ Assess if and how your research plan might place participants are risk disproportionate to what they experience in their day-to-day living. Include ways to minimize those risks (i.e., ways to ask about certain topics) and include a list of resources in the event that participants need additional support or should be made aware of a service. If you like, become involved in the community conversations found on [#trauma-practice Slack channel.](https://dsva.slack.com/archives/C04F9JLSATE)
+4. _Prioritize participant wellbeing. Minimize risks and maximize benefits to research participation:_ Assess if and how your research plan might place participants are risk disproportionate to what they experience in their day-to-day living. Include ways to minimize those risks (e.g., ways to ask about certain topics) and have on hand a list of resources in the event that participants need additional support or should be made aware of a service. If you like, become involved in the community conversations found on the [#trauma-practice Slack channel.](https://dsva.slack.com/archives/C04F9JLSATE)
 
-5. _View consent as a process, not a one-off activity:_ Think critically about what your participants need to know about your study and what will be asked of them if they choose to participate. Communicate needs to Perigean prior to recruitment and review all recruitment materials. Re-explain the purpose of your study, what risks are posed to participants, and what you'll do to minimize those risks prior before beginning any recording, introducing observers, or beginning data collection. 
+5. _View consent as a process, not a one-off activity:_ Think critically about what your participants need to know about your study and what will be asked of them if they choose to participate. Communicate needs to Perigean prior to recruitment and review all recruitment materials. Re-explain the purpose of your study, what risks are posed to participants, and what you'll do to minimize those risks prior to recording, introducing observers, or beginning data collection. 
 
 6. _Follow VA.gov research ops processes:_ Follow the [Research checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist). 
 
@@ -43,13 +43,13 @@ __Generative research:__ The terms "Generative research" and "Discovery research
 Examples carried out on MHV on VA.gov include: 
   - [Medical Records Generative Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md) (November 2022)
 
-__Prototype or concept testing:__ This refers to the testing of an early stage idea, such as a low-fi prototype, with end users. The goal is to receive feedback early enough to course correct. On MHV on VA.gov, we have tested prototypes after design intent prior to finalizing their build on staging. The key differentiation between testing at this stage and later-stage testing lies in the goal to assess proof of concept and early stage hypotheses. 
+__Prototype or concept testing:__ This refers to the testing of an early stage idea, such as a low-fi prototype, with end users. The goal is to receive feedback early enough to course correct. On MHV on VA.gov, we have tested prototypes after design intent prior to finalizing their build on staging. The key differentiation between testing at this stage and later stage testing lies in the goal to assess proof of concept and early stage hypotheses. 
 
 Examples carried out on MHV on VA.gov include: 
   - [MHV on VA.gov Round 1 Usability Testing/ Proof of Concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability/Final_report.md) (March 2022)
   - [MHV on VA.gov Round 2 Usability Testing/ Proof of Concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability/Final_Report.md) (May 2022)
 
-__Usability testing:__ Usability testing overlaps with Prototype of Concept testing (and those early-stage tests have been referred to as usability tests). Usability testing is, at its core, about getting end users to interact with a product or service in order to observe their behavior and reactions, ask questions when possible, and better understand their experience. Usability testing can take place with prototypes or products launched in the production environment.
+__Usability testing:__ Usability testing overlaps with Prototype or Concept testing (and those early stage tests have been referred to as usability tests). Usability testing is, at its core, about getting end users to interact with a product or service in order to observe their behavior and reactions, ask questions when possible, and better understand their experience. Usability testing can take place with prototypes or products launched in the production environment.
 
 Examples carried out on MHV on VA.gov include: 
   - [Medications Refill Status Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-prescription-refill/2022-medication-refill-statuses/Research/Refill-Status-Usability-Report-2022-12.pdf) (December 2022)
