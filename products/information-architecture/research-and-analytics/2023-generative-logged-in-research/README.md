@@ -1,6 +1,6 @@
 # Research outline: Identifying issues and challenges people have finding tasks when they are signed in to VA.gov
 
-**Last Updated: May 1, 2023**
+**Last Updated: May 25, 2023**
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@
 - [Scope](#scope)
 - [Key deliverables](#key-deliverables)
 - [Key dates](#key-dates)
-
+- [Decisions](#decisions)
 ---
 
 ### Roles & communications
@@ -154,3 +154,21 @@ Though we are focusing research on issues people have once they are signed in to
 - February 2023: Call center and Medallia data review; Analytics review; Effort temporarily on hold while waiting for team availability
 - March 2023: User research prep
 - April 2023: User research sessions + write up; Final research summary
+
+## Decisions
+
+Decisions in response to the [high-level recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md#high-level-recommendations) that are within the scope of our Authenticated Experience team:
+
+### Making My VA the logged in homepage
+
+This isn't something we're going to move forward with for now. My VA and the IA/Nav aren't totally set up to support this, and we aren't convinced that users don't want access to the non-task content featured on the new homepage. Instead, we will focus on the second recommendation (see below).
+
+### Explore how we can improve access to personalized content throughout the site.
+
+As immediate next steps, we're going to look at how we might be able to achieve this in a couple of ways:
+- Surfacing personalized content outside of My VA ([outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/surfacing-personalized-content))
+- Adding some key items related to logged-in tasks to profile, to make it easier for Veterans to find it (e.g. dependents, benefit letters, possibly Veteran ID cards)
+
+### Increase our understanding of user needs at different parts of their journey with VA to inform design and IA enhancements to improve their VA.gov experience
+
+We haven't discussed this as a team as of May 2023.
