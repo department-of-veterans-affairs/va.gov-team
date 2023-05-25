@@ -49,4 +49,5 @@ Examples carried out on MHV on VA.gov include:
   - [Medications Refill Status Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-prescription-refill/2022-medication-refill-statuses/Research/Refill-Status-Usability-Report-2022-12.pdf) (December 2022)
   - [Secure Messaging Round 2 Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2022-09-usability_testing_2/research-findings.md) (November 2022)
 
-(include screenshot of visual)
+<img width="489" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/100814257/9738bbb3-5dd5-4c73-9722-84afe31b0cec">
+
