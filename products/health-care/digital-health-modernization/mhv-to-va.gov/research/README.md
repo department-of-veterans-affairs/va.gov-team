@@ -43,7 +43,7 @@ __Generative research:__ The terms "Generative research" and "Discovery research
 Examples carried out on MHV on VA.gov include: 
   - [Medical Records Generative Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md) (November 2022)
 
-__Prototype or concept testing:__ This refers to the testing of an early-stage idea, such as a low-fi prototype, with end users. The goal is to receive feedback early enough to course correct. On MHV on VA.gov, we have tested prototypes after design intent prior to their build on staging. The key differentiation between testing at this stage and later-stage testing lies in the goal to assess proof of concept. 
+__Prototype or concept testing:__ This refers to the testing of an early-stage idea, such as a low-fi prototype, with end users. The goal is to receive feedback early enough to course correct. On MHV on VA.gov, we have tested prototypes after design intent prior to finalizing their build on staging. The key differentiation between testing at this stage and later-stage testing lies in the goal to assess proof of concept. 
 
 Examples carried out on MHV on VA.gov include: 
   - [MHV on VA.gov Round 1 Usability Testing/ Proof of Concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability/Final_report.md) (March 2022)
