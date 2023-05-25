@@ -47,12 +47,12 @@ How can we have security confidence that the patient is checking into only their
 [LP] Currently, the mobile app gets their appointment info from VAOS; to test in a Staging environment, the Mobile App team has to get the VAOS team to create appointments for them in the Vista instance that VAOS uses; we need to determine if this is the same Vista instance that the CIE team uses for the Staging tool; if it is not, I'm not sure how we are going to test in Staging
 
 ## Internal questions:
-
-Should we create a new vets-api module for fully authed applications(suggestions from Stephen)?
-
-Where do we update CW? Assume it’s the same as e-check-in
-
-What does CHIP currently do?
+- Should we create a new vets-api module for fully authed applications(suggestions from Stephen)?
+- Where do we update CW? Assume it’s the same as e-check-in
+- What does CHIP currently do?
+- How do we map from an [appointmentId from VAOS](https://department-of-veterans-affairs.github.io/va-mobile-app/api/#operation/getAppointments) to appointmentIen?
+- Currently, CHIP calls [vista-api checkin endpoint](https://github.com/department-of-veterans-affairs/chip/blob/master/src/checkIn/index.js#L79) to check-in for an appointment, which needs the station Number and appointment Ien. Can we get the station number from VAOS appointment response?
+- Where do we get the demographics data from?
 
 ## What needs to happen to be able to check-in
 - Appointment needs to be at a clinic with e-check-in enabled
