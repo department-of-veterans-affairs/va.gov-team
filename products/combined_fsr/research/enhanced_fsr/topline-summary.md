@@ -27,14 +27,13 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 
 
 1. **The enhanced FSR experimental design features that were evaluated (list loops) are easy to use.**
-
-Overall the new list loops were easy for particpants to use. One participant saw both the old list loops and one example of a new list loop and preferred the new approach. Lists of items on checkboxes were confusing to some participants (2/7). Some participants did not immediately understand where to place "other options" such as "Gym membership". (Unsure of where to place certain items in what section.) Because of this, users might enter inaccurate info by leaving items off.
+- Overall the new list loops were easy for particpants to use. One participant saw both the old list loops and one example of a new list loop and preferred the new approach. Lists of items on checkboxes were confusing to some participants (2/7). Some participants did not immediately understand where to place "other options" such as "Gym membership". (Unsure of where to place certain items in what section.) Because of this, users might enter inaccurate info by leaving items off.
 
 
 2. **Veterans who understand the form's purpose (to help with debt) had an easier time filling it out and were more motivated to fill it out and supply all of the information, particularly if requesting debt relief.**
 
 
-3. **Understanding of the form went hand in hand with their mental state. Veterans of higher socioeconomic level and in a more positive state of well-being/mental state seems correlated to their ease of filling out the form and their motivation/willingness to fill it out.
+3. **Understanding of the form went hand in hand with their mental state. Veterans of higher socioeconomic level and in a more positive state of well-being/mental state seems correlated to their ease of filling out the form and their motivation/willingness to fill it out.**
 
 
 4. **Veterans in this sample who had negative experiences with V.A. services were more hopeless and skeptical about this process.**
