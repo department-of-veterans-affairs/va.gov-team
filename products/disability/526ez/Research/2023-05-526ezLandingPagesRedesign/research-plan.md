@@ -177,8 +177,8 @@ What demographics, experience, and scenarios do you need participants to meet to
 	- no (not qualified)
  
 - Are you in the age range of 55 or older?
-	- yes (qualified)
-	- no (not qualified)
+	- yes (not qualified)
+	- no (qualified)
 
 - Will you be discharged from service in the next year? 
 	- yes (qualified)
