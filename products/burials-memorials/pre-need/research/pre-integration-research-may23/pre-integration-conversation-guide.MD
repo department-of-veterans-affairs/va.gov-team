@@ -3,8 +3,8 @@
 ## Moderator Logistics
 
 - _Use #feedback-backchannel in Slack for real-time feedback from observers._
-- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-- - Mute your Slack and computer notifications.
+- _Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel))._
+- _Mute your Slack and computer notifications._
 
 ### Before you start the session
 - _Make sure everyone except the participant and moderator are on mute._
@@ -14,7 +14,7 @@
 
 ## Project-Specific Setup and Intro - 10 minutes
 
-Thanks for joining us today! My name is [moderator name] and I also have some colleagues on the line observing and taking notes. Today, we're going to review a prototype of the VA pre-need application for eligibility determination at a VA national cemetery. We're working on improvements to the form, so it's important that we get feedback from users.
+- Thanks for joining us today! My name is [moderator name] and I also have some colleagues on the line observing and taking notes. Today, we're going to review a prototype of the VA pre-need application for eligibility determination at a VA national cemetery. We're working on improvements to the form, so it's important that we get feedback from users.
 - This entire session should take about 45 minutes or less [2 hours for participants using a screenreader]. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question.
 - You'll be taking a look at a prototype of the application. This prototype is basically made up of images or mockups so none of your actions will affect your actual VA information or benefits and none of your details are collected at any point or associated to your comments. As you click through the prototype, the fields will prefill with test data. 
 - If, for any reason and at any time you want to stop the session, please let me know.
@@ -22,7 +22,7 @@ Thanks for joining us today! My name is [moderator name] and I also have some co
 **I'm going to send you a link in the chat that I would like for you to open.**
 _Can actually do this while explaining to them where to find “Chat” and “Share,” so by the end we're looking at their screen, then move onto recording._
 
--Okay, now I'm going to ask you to share your screen in Zoom so that we can look at the prototype together and then we'll begin. 
+Okay, now I'm going to ask you to share your screen in Zoom so that we can look at the prototype together and then we'll begin. 
 
 **Talk them through Zoom screen sharing and chat features.** [Zoom share screen directions](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
 
@@ -30,7 +30,7 @@ _Can actually do this while explaining to them where to find “Chat” and “S
 
 **Backup plan if they cannot figure out how to share screen:**
 
-- Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You can tell me what to do, what to tap, on, etc. Does that sound ok?
+Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You can tell me what to do, what to tap, on, etc. Does that sound ok?
 - [Share your screen]. Can you confirm if you can see my screen?
 
 **Recording Instructions**
@@ -67,19 +67,19 @@ Ok. Now we're really ready to begin!
 
 ## Task 1: Applying for Self - Applicant is Veteran - 15 minutes
 
--Ok, in the prototype we're looking at the start of the Pre-Need application. 
-    -**Scenario:** For your scenario, pretend that you are Sammy Smith, a Navy Veteran, and that you want to plan for the future and find out if you're eligible for burial in a VA national cemetery. How would you go about filling out this application?  You will log in as an authenticated user.
+Ok, in the prototype we're looking at the start of the Pre-Need application. 
+    - **Scenario:** For your scenario, pretend that you are Sammy Smith, a Navy Veteran, and that you want to plan for the future and find out if you're eligible for burial in a VA national cemetery. How would you go about filling out this application?  You will log in as an authenticated user.
 
 ### Questions to ask as they go through scenario
 - **Introduction**
     - What are your thoughts regarding the content on this page?
     - Do you feel prepared to start applying?
-        -_Things to watch for:
+        - _Things to watch for:
             - Does the user feel the need to click on external links? 
             - Does the user try to open the Privacy Act Statement before continuing?_  
 - **Applicant information - Applicant relationship to service member / Veteran**
     - Do you understand how to answer the question this screen is asking? 
-        -_Things to watch for:
+        - _Things to watch for:
             - Does the user feel the need to open the additional info component? 
             - Does the user experience any confusion in reading details? (Need to scroll to bottom of page)_ 
 - **Applicant information - Applicant demographics**
@@ -92,7 +92,7 @@ Ok. Now we're really ready to begin!
     - What would you do if you didn't have this information on hand?
 - **Applicant information - Applicant relationship to service member / Veteran**
     - Do you understand how to answer the question this screen is asking? 
-        -_Things to watch for:
+        - _Things to watch for:
             - Does the user feel the need to the additional info component? 
             - Does the user experience any confusion in reading details? (Need to scroll to bottom of page)_ 
 - **Supporting docs** 
@@ -105,19 +105,19 @@ Ok. Now we're really ready to begin!
 
 ## Task 2: Applying for Self - Applicant is Non-Veteran - 15 minutes
 
--Ok, in the prototype we're looking at the start of the Pre-Need application. 
-    -**Scenario:** For your scenario, pretend that you are Sammy Smith, the **spouse** of a service member in the Navy, and that you want to plan for the future and find out if you're eligible for burial in a VA national cemetery with them sponsoring your benefits. How would you go about filling out this application?  You will log in as an authenticated user.
+Ok, in the prototype we're looking at the start of the Pre-Need application. 
+    - **Scenario:** For your scenario, pretend that you are Sammy Smith, the **spouse** of a service member in the Navy, and that you want to plan for the future and find out if you're eligible for burial in a VA national cemetery with them sponsoring your benefits. How would you go about filling out this application?  You will log in as an authenticated user.
 
 ### Questions to ask as they go through scenario
 - **Introduction**
     - What are your thoughts regarding the content on this page?
     - Do you feel prepared to start applying?
-        -_Things to watch for:
+        - _Things to watch for:
             - Does the user feel the need to click on external links? 
             - Does the user try to open the Privacy Act Statement before continuing?_  
 - **Applicant information - Applicant relationship to service member / Veteran**
     - Do you understand how to answer the question this screen is asking? 
-        -_Things to watch for:
+        - _Things to watch for:
             - Does the user feel the need to open the additional info component? 
             - Does the user experience any confusion in reading details? (Need to scroll to bottom of page)_ 
 - **Sponsor information - Sponsor details**
@@ -149,19 +149,19 @@ Ok. Now we're really ready to begin!
 
 ## Task 3: Applying for Someone Else - Applicant is Non-Veteran - 20 minutes
 
--Ok, in the prototype we're looking at the start of the Pre-Need application. 
-    -**Scenario:** For your scenario, pretend that you are Sammy Smith. You're a navy Veteran, and you want to apply for Pre-Need for your unmarried adult child who is 20 years old because you want to plan for the future and find out if they're eligible for burial in a VA national cemetery under your benefits. How would you go about filling out this application?  You will log in as an authenticated user.
+Ok, in the prototype we're looking at the start of the Pre-Need application. 
+    - **Scenario:** For your scenario, pretend that you are Sammy Smith. You're a navy Veteran, and you want to apply for Pre-Need for your unmarried adult child who is 20 years old because you want to plan for the future and find out if they're eligible for burial in a VA national cemetery under your benefits. How would you go about filling out this application?  You will log in as an authenticated user.
 
 ### Questions to ask as they go through scenario
 - **Introduction**
     - What are your thoughts regarding the content on this page?
     - Do you feel prepared to start applying?
-        -_Things to watch for:
+        - _Things to watch for:
             - Does the user feel the need to click on external links? 
             - Does the user try to open the Privacy Act Statement before continuing?_  
 - **Applicant information - Applicant relationship to service member / Veteran**
     - Do you understand how to answer the question this screen is asking? 
-        -_Things to watch for:
+        - _Things to watch for:
             - Does the user feel the need to open the additional info component? 
             - Does the user experience any confusion in reading details? (Need to scroll to bottom of page)_ 
 - **Sponsor information - Are you the sponsor? Y/N**
@@ -195,7 +195,7 @@ Ok. Now we're really ready to begin!
     - When do you think you would get a decision? 
 
 ## Post-task interview - 10 minutes
-- Well, thank you so much for walking through that with us and telling us your thoughts. We just have a few questions to ask before we wrap up our session for today. 
+Well, thank you so much for walking through that with us and telling us your thoughts. We just have a few questions to ask before we wrap up our session for today. 
     - On a scale of 1 to 5 with 1 being the lowest and 5 being the highest, how would you rate the application process for Pre-Need that you just experience?
     - On a scale of 1 to 5, how mobile friendly do you think it is?
     - What did you think of the application process overall?
@@ -206,11 +206,9 @@ Ok. Now we're really ready to begin!
 
 ## Thank-You and Closing - 2 minutes
 
-Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the VA.gov Pre-Need application to make sure that it really works for Veterans.
-
-Thanks so much! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
-
-Thank you so much again, and enjoy the rest of your day!
+- Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the VA.gov Pre-Need application to make sure that it really works for Veterans.
+- Thanks so much! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+- Thank you so much again, and enjoy the rest of your day!
 
 ## Emergency Exit
 
