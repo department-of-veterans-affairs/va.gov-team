@@ -4,6 +4,20 @@ Meeting Owner: Kelly Lein
 Timing: Every 2 Thursdays 2:35 - 3:15pm 
 
 ---  
+**Demo Sprint 71 5/25/23** 
+Agenda
+- Demo Topic(s)
+  -  Secure Messaging Realignment (Misty and Lauren)
+  -  Figma improvements (Jessica) 
+  -  QA Process updates (Binny)
+
+- Slides - 
+- Video - 
+
+
+
+
+---  
 **Demo Sprint 70 5/11/23** 
 Agenda
 - Demo Topic(s)
