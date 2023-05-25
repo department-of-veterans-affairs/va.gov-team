@@ -14,7 +14,7 @@ _What details are necessary for understanding the specific work or request track
 
 ### Links
 
-- [Intake Ticket]
+- [Intake Ticket #]
 
 ### Team
 
@@ -32,8 +32,8 @@ _When does IA review need to be completed by? When is Midpoint Review?_
 
 ### Work Needed (if applicable)
 
-- IA Spec: [Needed / Not Needed]
-- Feedback for product team: [Needed / Not Needed]
+- IA Spec: **[Needed / Not Needed]**
+- Feedback for product team: **[Needed / Not Needed]**
 
 ### Tasks
 Check all that apply.
