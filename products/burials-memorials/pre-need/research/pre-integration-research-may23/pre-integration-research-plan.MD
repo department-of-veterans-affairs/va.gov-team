@@ -77,7 +77,7 @@ Weâ€™d like to recruit 9 participants for a total of 6-8 completed sessions. Weâ
      	- Age 35+, Asian, Male 
     * One unmarried adult child (An **unmarried adult child** is an individual who became physically or mentally disabled permanently and incapable of self-support before the age of 21, or before 23 years of age if pursuing a full-time course of instruction at an approved educational institution.)
      	- Age 18-20 or 18-22 if pursuing degree
-    * One parent of a service member (not the parent of a Veteran; considered a Corey Shea Act applicant)
+    * One parent of a service member (not the parent of a Veteran so only applicable for parents of service members; considered a Corey Shea Act applicant)
      	- Age 40+, Native American
     * One person interested in pre-need eligibility determination
 - Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
@@ -93,7 +93,7 @@ Have an identified cognitive impairment (around 1 participant)
 2. Which of the following describes your relationship to a Veteran or service member? 
     * I am their spouse or surviving spouse (A **spouse** is a person who is or was legally married to a service member or Veteran. A **surviving spouse** is someone who was legally married to the service member or Veteran at the time of their death and includes a surviving spouse who remarried.)
     * I am their unmarried adult child (An **unmarried adult child** is an individual who became physically or mentally disabled permanently and incapable of self-support before the age of 21, or before 23 years of age if pursuing a full-time course of instruction at an approved educational institution.)
-    * I am their parent
+    * I am their parent (only applicable for parents of service members)
     * I am their personal representative (a person filling out the pre-need form on behalf of an applicant, such as a **preparer**)
     * None of the above, but I am interested in applying for pre-need eligibility determination for myself or for someone else
 3. Have you applied or tried to apply for a pre-need eligibility determination at least once in the last 12 months? 
