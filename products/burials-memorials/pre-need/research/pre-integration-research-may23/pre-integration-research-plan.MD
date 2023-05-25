@@ -125,7 +125,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 	* Usability testing target dates: Wednesday, 6/7/23; Thursday, 6/8/23; Friday, 6/9/23
 
 ### Length of sessions
-* Session length: 60 minutes
+* Session length: 45 minutes
 * Buffer time between sessions: 30 minutes 
 * Maximum Sessions per day: 4-5
 
