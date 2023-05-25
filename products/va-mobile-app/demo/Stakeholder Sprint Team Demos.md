@@ -11,7 +11,7 @@ Agenda
   -  Figma improvements (Jessica) 
   -  QA Process updates (Binny)
 
-- Slides - 
+- Slides - [Sprint 71 VA Mobile App Demo Slides.pptx](https://github.com/department-of-veterans-affairs/va.gov-team/files/11568490/Sprint.71.VA.Mobile.App.Demo.Slides.pptx)
 - Video - 
 
 
