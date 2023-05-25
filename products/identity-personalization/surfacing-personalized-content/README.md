@@ -1,11 +1,10 @@
 # Surfacing personalized content on VA.gov
-
 Last update: 5/25/2023
 
 ## Overview
-We completed our research in April 2023 and identified an opportunity to improve how we are surfacing personalized content and educating Veteran’s about My VA along key points on their path to their tasks. 
+We [completed research in April 2023]([va.gov-team/products/information-architecture/research-and-analytics/2023-generative-logged-in-research at master · department-of-veterans-affairs/va.gov-team · GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research#research-outline-identifying-issues-and-challenges-people-have-finding-tasks-when-they-are-signed-in-to-vagov)) and identified an opportunity to improve how we are surfacing personalized content and educating Veteran’s about My VA along key points on their path to their tasks ([findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md#problems-weve-identified-with-the-logged-in-experience)). 
 
-We’d like to experiment with two approaches:
+We’d like to experiment with two approaches to increase personalization on the site:
 - surfacing personalized content from My VA on tool landing pages, and possibly other content pages that makes sense
 - promoting My VA at the end of key flows, like applying for benefits
 
@@ -34,6 +33,7 @@ TBD
 
 ### In scope
 - Updating non-health tool landing pages
+- Updating submission confirmation pages
 
 ### Out of scope
 - Changes to the site header, including navigation or the mega menu
