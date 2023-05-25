@@ -1,8 +1,11 @@
 # MHV to VA.gov
 
 The purpose of this folder is to: 
+  
   (1) Align team members on why, when, and how we carry out different research efforts on MHV on VA.gov
+  
   (2) Provide resources to people carrying out research on MHV on VA.gov products and services, or direct them to existing resources
+  
   (3) Provide a comprehensive list of research studies that have contributed to the MHV on VA.gov project in a centralized location
 
 For a list of research that has been carried out to develop and support the overall concept of MHV on VA.gov to the distinct applications that are/will be housed there, go to [previous-research-on-mhv-on-va.gov.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research/previous-research-on-mhv-on-va.gov.md). 
