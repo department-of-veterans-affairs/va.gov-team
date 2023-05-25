@@ -8,17 +8,23 @@ For a view of the roadmap of current and upcoming research, visit the Research o
 
 ## Key principles for user research on MHV on VA.gov
 
-1. _Work in the open:_ Store all artifacts in public locations that are convenient to your team processes. These include: GitHub, SharePoint, VA Mural, and/or linked to ZenHub tickets. Do not store research artifacts in organization-centric locations. This ensures all collaborators can access research artifacts when needed.  
+1. _Work in the open:_ Store all artifacts in public locations that are convenient to your team processes. These include: GitHub, SharePoint, VA Mural, and/or linked to ZenHub tickets. Do not store research artifacts in organization-centric locations. This ensures all collaborators can access research artifacts when needed. 
+ 
 2. _Be collaborative and transparent:_ Engage a range of stakeholders throughout the research process, from identifying research questions to developing data collection instruments to analyzing data to sharing out findings. Diverse perspectives enhance the methodological rigor and utility of research processes. Regular demos are encouraged. All research plans, data collection instruments, and findings reports must be reviewed by OCTO Research Lead. 
+
 3. _Be communicative:_ Communicate out progress in team Slack channels to ensure all relevant stakeholders are aware and in the loop. 
-4. _Prioritize participant wellbeing. Minimize risks and maximize benefits:_ Assess if and how your research plan might place participants are risk disproportionate to what they experience in their day-to-day living. Include ways to minimize those risks (i.e., ways to ask about certain topics) and include a list of resources in the event that participants need additional support or should be made aware of a service. If you like, become involved in the community conversations found on [#trauma-practice Slack channel.](https://dsva.slack.com/archives/C04F9JLSATE)
-5. _Follow VA.gov research ops processes:_ Follow the [Research checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist). 
+
+4. _Prioritize participant wellbeing. Minimize risks and maximize benefits to research participation:_ Assess if and how your research plan might place participants are risk disproportionate to what they experience in their day-to-day living. Include ways to minimize those risks (i.e., ways to ask about certain topics) and include a list of resources in the event that participants need additional support or should be made aware of a service. If you like, become involved in the community conversations found on [#trauma-practice Slack channel.](https://dsva.slack.com/archives/C04F9JLSATE)
+
+5. _View consent as a process, not a one-off activity:_ Think critically about what your participants need to know about your study and what will be asked of them if they choose to participate. Communicate needs to Perigean prior to recruitment and review all recruitment materials. Re-explain the purpose of your study, what risks are posed to participants, and what you'll do to minimize those risks prior before beginning any recording, introducing observers, or beginning data collection. 
+
+6. _Follow VA.gov research ops processes:_ Follow the [Research checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist). 
 
 ## What types of research have we done on MHV on VA.gov? 
 
 Research can be carried out to answer different types of questions at different moments in the product development and launch cycle. Below are descriptions of the general types of research we have carried out, when, and examples. 
 
-_Note:_ 
+_Note:_ These terms are used differently across the UX field and different terms are used for these general processes in different industries. Below reflects how we generally use them to describe different types of research efforts on MHV on VA.gov. However, please don't get too caught up in them - regardless of what the process is called, we always follow the general process of identifying overarching research questions that we need to answer to inform next steps, and decide on the best methods to answer them based on available resources and timing. 
 
 __Discovery research:__ Discovery research typically focuses on understanding the problem space and identifying opportunities and an initial direction for next steps. On MHV on VA.gov, the problem space includes technical (e.g., API needs, electronic health record data issues), policy (i.e., what policies influence how a given feature will function?), and user considerations (i.e., what user needs does a product or service address? What previous research has been carried out related to users?). 
 
