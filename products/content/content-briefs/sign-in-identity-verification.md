@@ -27,10 +27,12 @@ This brief will help your team create content for your product that aligns with 
 
 | Word or phrase | How we use this term | Notes | Where to find related language we use to define or describe this term in Veteran content | Official content style guide status | Date term added/last updated |
 | -------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
-| **account** | We use this term to describe the account that a Veteran uses to sign in to VA.gov (such as "your Login.gov account"). | We don't use the phrase "your VA.gov account."  |  | In style guide Word list | 10.14.22 |
+| **account** | We use this term to describe the account that a Veteran uses to sign in to VA.gov (such as "your Login.gov account"). | We don't use the phrases "your VA.gov account" or "VA account." We don't use the term "credential." |  | In style guide Word list | 10.14.22 |
 | **multifactor authentication** / **2-factor authentication** | We use these terms to describe the multifactor security process that Veterans must use when they sign in to VA.gov | Use "multifactor authentication" as the main term. Where space allow, we can include "This process is also sometimes called 2-factor authentication." |  | In style guide Word list | 10.14.22 |
 | **My HealtheVet** |  | "My HealtheVet" is 2 words. Don’t italicize the “e” between “Health” and “Vet” in body copy,headlines, and user interface elements such as links, buttons, and navigation. The “e” is italicized only in the logo. |  | In style guide Word list | 10.14.22 |
 | **sign in/sign out** | We always use "sign in" and "sign out" to describe the process of authenticating on VA.gov and other VA digital tools. | We don't use "log in"/"log out" or "sign on." |  | In style guide Word list | 10.14.22 |
+| ***draft*** **verify your identity** | We use this to describe the process of proving your identity through a sign-in partner like Login.gov or ID.me. | Login.gov and ID.me use "verify your identity" to describe this process. We can explain this in Veteran content as "We'll ask you to verify your identity (prove that you're you)."| | Not yet in style guide | 5.25.23 |
+| ***draft*** **VA.gov and other VA online services** | We use this term to describe the group of websites, tools, and apps that Veterans can use to manage their VA benefits, health care, and information online. | We can usually omit this term and focus on the action: "Sign in to manage your VA benefits and health care online." But we sometimes need to refer to this directly. For example, "To sign in to VA.gov and other VA online services, you need to accept these terms of use." | | Not yet in style guide | 5.25.23 |
 
 ## Content considerations specific to sign in and identity verification
 
@@ -62,9 +64,32 @@ We want to begin encouraging Veterans to create Login.gov or ID.me accounts, wit
  > 
  > At this time, you can also use your DS Logon, My HealtheVet, or ID.me account to sign in to VA.gov. But VA will soon no longer offer DS Logon as a sign-in option. And soon all VA websites will follow a new sign-in process through VA.gov with Login.gov as the recommended account.
 
+### Making clear that My HealtheVet is not going away—only the My HealtheVet account is ###
+When we communicate about VA no longer offering an MHV account option, we need to be careful not to imply that My HealtheVet is going away. The MHV on VA.gov communication strategy stresses that My HealtheVet is **not** going away. It's getting a new home on VA.gov.
+
 ## Organic SEO and VA.gov search
+### Terms related to "verifying" have larger volume than "proofing" ###
+**Top 10 on-site search terms related to verifying – 5/24/22 to 5/24/23**
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/104158104/d5aca7ff-8f10-4946-81d7-d72620db15cf)
+
+**Top 10 on-site search terms related to proofing – 5/24/22 to 5/24/23**
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/104158104/8befc52b-2726-4188-b114-16c18d6cf249)
 
 ## Content-specific research findings
+### 2023 – 04: Deferred identity proofing usability study ###
+- Tested 2 flows encouraging Veterans with existing DS Logon accounts to create a new “VA-only” Login.gov account through a deferred identity proofing process (this previously planned process is now on hold)
+
+**Found confusion around several concepts and terms:**
+- Veterans are unfamiliar with the term VA digital tools and aren’t sure what they’re losing or gaining access to.
+  - “I have no idea what a VA digital tool is to be honest with you, I mean I would be thinking it's a mouse that I'm moving around and being able to touch a link and press the button. I don't know.”
+- Confusion between authentication vs verification makes it difficult to know the limitations of an unverified Login.gov account, and how verification works.
+  - “To verify my identity I would choose voice or text.”
+- At first, most Veterans don’t understand that Login.gov is a credential vs a new application. This led some Veterans to believe that Login.gov will consolidate all VA applications into one place, like a ‘one stop shop’ portal.
+
+[Read the full deferred identity proofing usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-03-Deferred-Identity-Proofing-Round-1-Usability/research%20findings.md#recommendations)
+
+### 2023 – 05: Proactive CSP (credential service provider) migration study ### 
+(Will add soon)
 
 ## Content pages related to this topic
 
@@ -72,7 +97,6 @@ We want to begin encouraging Veterans to create Login.gov or ID.me accounts, wit
 - [Creating an account for VA.gov](https://www.va.gov/resources/creating-an-account-for-vagov/)
 - [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/)
 - [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov/)
-- [How to get a Premium DS Logon account online](https://www.va.gov/resources/how-to-get-a-premium-ds-logon-account-online/)
 - [DS Logon FAQs](https://www.va.gov/resources/ds-logon-faqs/)
 - [Get a Premium My HealtheVet account](https://www.va.gov/resources/get-a-premium-my-healthevet-account/)
 - [My HealtheVet FAQs](https://www.va.gov/resources/my-healthevet-faqs/)
