@@ -196,13 +196,13 @@ Ok, in the prototype we're looking at the start of the Pre-Need application.
 
 ## Post-task interview - 10 minutes
 Well, thank you so much for walking through that with us and telling us your thoughts. We just have a few questions to ask before we wrap up our session for today. 
-    - On a scale of 1 to 5 with 1 being the lowest and 5 being the highest, how would you rate the application process for Pre-Need that you just experience?
-    - On a scale of 1 to 5, how mobile friendly do you think it is?
-    - What did you think of the application process overall?
-    - If you could snap your fingers and recreate the application process for pre-need to make it better, what would that process look like? 
-        - How would you do things differently?
-    - Is there anything else on your mind that we didn't ask?
-    - Do you have any questions for me?
+- On a scale of 1 to 5 with 1 being the lowest and 5 being the highest, how would you rate the application process for Pre-Need that you just experience?
+- On a scale of 1 to 5, how mobile friendly do you think it is?
+- What did you think of the application process overall?
+- If you could snap your fingers and recreate the application process for pre-need to make it better, what would that process look like? 
+    - How would you do things differently?
+- Is there anything else on your mind that we didn't ask?
+- Do you have any questions for me?
 
 ## Thank-You and Closing - 2 minutes
 
