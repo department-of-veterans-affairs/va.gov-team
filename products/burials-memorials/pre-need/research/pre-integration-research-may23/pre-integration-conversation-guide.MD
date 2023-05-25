@@ -12,10 +12,10 @@
 - _Check your [screensharing setup]. Make sure they are setup on Zoom app and ready to screenshare._
 - _When the participant is ready, begin the session with the following intro._
 
-## Project-Specific Setup and Intro - 5 minutes
+## Project-Specific Setup and Intro - 10 minutes
 
 Thanks for joining us today! My name is [moderator name] and I also have some colleagues on the line observing and taking notes. Today, we're going to review a prototype of the VA pre-need application for eligibility determination at a VA national cemetery. We're working on improvements to the form, so it's important that we get feedback from users.
-- This entire session should take about 1 hour or less [2 hours for participants using a screenreader]. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question.
+- This entire session should take about 45 minutes or less [2 hours for participants using a screenreader]. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question.
 - You'll be taking a look at a prototype of the application. This prototype is basically made up of images or mockups so none of your actions will affect your actual VA information or benefits and none of your details are collected at any point or associated to your comments. As you click through the prototype, the fields will prefill with test data. 
 - If, for any reason and at any time you want to stop the session, please let me know.
 
@@ -58,18 +58,24 @@ Ok. Now we're really ready to begin!
 
 ## Getting started - 1 minute
 
-- When applying to see if you're eligible for burial in a VA national cemetery, the VA Pre-Need application can be used. I'm going to give you a couple of scenarios for you to walk through a prototype of this application and give us your thoughts.
+- When applying to see if you're eligible for burial in a VA national cemetery, the VA Pre-Need application can be used. I'm going to give you a scenario for you to walk through a prototype of this application and give us your thoughts.
 - This prototype is a work in progress, so there might be a few mistakes, or it may not function exactly the way you expect, which is ok. Some areas will be clickable and some will not.
-- In this session, we want to hear your honest opinions. We're not testing your ability. We just want to improve the form to better meet Veteran's needs. We won't be offended by any opinions you express, and we welcome your feedback.
-- Please talk aloud while you look through the form. For example, you could say "now I would click on this, because I think this will happen..." This helps us understand what's going through your mind while using the form.
+- While you're going through the scenario, it would be really helpful if you'd think aloud - kind of like you'd do if you were talking to yourself. We are interested in your first reactions, what you're thinking & wondering as you go through the process. The more you say about what you are thinking and wondering, the more we’ll learn, so we want to hear your honest opinions. We're not testing your ability. We just want to improve the form to better meet Veteran's needs. We won't be offended by any opinions you express, and we welcome your feedback.
+- When you think aloud, it helps us understand what works well and where we might want to make improvements to make things even easier. If you have questions, it’s likely that many other Veterans will, as well, so feel free to ask them along the way. 
+- 
+[Note:  Each participant will go through **ONE** of the tasks below.]
 
-## Scenarion 1: Veteran - Applying for Self - 5 minutes
+## Task 1: Applying for Self - Applicant is Veteran - 15 minutes
 
--Ok, in the prototype we're looking at the Pre-Need application. For our first scenario, pretend that you are Sammy Smith, a Navy Veteran, and that you want t go ahead and talk me through what you would do upon arriving at this page. 
-
-
+-Ok, in the prototype we're looking at the start of the Pre-Need application. For our first scenario, pretend that you are Sammy Smith, a Navy Veteran, and that you want t go ahead and talk me through what you would do upon arriving at this page. 
 
 
+
+## Task 2: Applying for Self - Applicant is Non-Veteran - 15 minutes
+
+
+
+## Task 3: Applying for Someone Else - Applicant is Non-Veteran - 20 minutes
 
 
 Can you explain what you are seeing now? 
