@@ -6,7 +6,7 @@
 
 [link conversation guide]()
 
-[link interview transcripts]()
+[link interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr/research/enhanced_fsr/transcripts)
 
 
 
@@ -26,41 +26,19 @@ This topline summary is a high level, top of mind summary of trends found in the
 _Add ~5-10 top of mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
 
 
-**Finding #1**
+1. **The enhanced FSR experimental design features that were evaluated (list loops) are easy to use.**
 
-- More details on Finding #1
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
+Overall the new list loops were easy for particpants to use. One participant saw both the old list loops and one example of a new list loop and preferred the new approach. Lists of items on checkboxes were confusing to some participants (2/7). Some participants did not immediately understand where to place "other options" such as "Gym membership". (Unsure of where to place certain items in what section.) Because of this, users might enter inaccurate info by leaving items off.
 
 
-**Finding #2**
-
-- More details on Finding #2
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
+2. **Veterans who understand the form's purpose (to help with debt) had an easier time filling it out and were more motivated to fill it out and supply all of the information, particularly if requesting debt relief.**
 
 
-**Finding #3**
-
-- More details on Finding #3
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
+3. **Understanding of the form went hand in hand with their mental state. Veterans of higher socioeconomic level and in a more positive state of well-being/mental state seems correlated to their ease of filling out the form and their motivation/willingness to fill it out.
 
 
-**Finding #4**
-
-- More details on Finding #4
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
+4. **Veterans in this sample who had negative experiences with V.A. services were more hopeless and skeptical about this process.**
 
 
-**Finding #5**
+5. **Some Veterans felt like the VA should know the answers to questions that were being asked. This was based on either information they had on their MyVA profile or their SSN.**
 
-- More details on Finding #5
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
