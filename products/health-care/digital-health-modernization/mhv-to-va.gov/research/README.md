@@ -1,6 +1,9 @@
 # MHV to VA.gov
 
-DESCRIBE - WHAT IS THIS PAGE? 
+The purpose of this folder is to: 
+  (1) Align team members on why, when, and how we carry out different research efforts on MHV on VA.gov
+  (2) Provide resources to people carrying out research on MHV on VA.gov products and services, or direct them to existing resources
+  (3) Provide a comprehensive list of research studies that have contributed to the MHV on VA.gov project in a centralized location
 
 For a list of research that has been carried out to develop and support the overall concept of MHV on VA.gov to the distinct applications that are/will be housed there, go to [previous-research-on-mhv-on-va.gov.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research/previous-research-on-mhv-on-va.gov.md). 
 
@@ -24,7 +27,7 @@ For a view of the roadmap of current and upcoming research, visit the Research o
 
 Research can be carried out to answer different types of questions at different moments in the product development and launch cycle. Below are descriptions of the general types of research we have carried out, when, and examples. 
 
-_Note:_ These terms are used differently across the UX field and different terms are used for these general processes in different industries. Below reflects how we generally use them to describe different types of research efforts on MHV on VA.gov. However, please don't get too caught up in them - regardless of what the process is called, we always follow the general process of identifying overarching research questions that we need to answer to inform next steps, and decide on the best methods to answer them based on available resources and timing. 
+_Note:_ These terms are used differently across the UX field and different terms are used for these general processes in different industries. Below reflects how we generally use them to describe different types of research efforts on MHV on VA.gov. However, please don't get too caught up in the labels - regardless of what the process is called, we always follow the general process of identifying overarching research questions that we need to answer to inform next steps, and decide on the best methods to answer them based on methods themselves, our available resources, and timing. 
 
 __Discovery research:__ Discovery research typically focuses on understanding the problem space and identifying opportunities and an initial direction for next steps. On MHV on VA.gov, the problem space includes technical (e.g., API needs, electronic health record data issues), policy (i.e., what policies influence how a given feature will function?), and user considerations (i.e., what user needs does a product or service address? What previous research has been carried out related to users?). 
 
@@ -51,3 +54,11 @@ Examples carried out on MHV on VA.gov include:
 
 <img width="489" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/100814257/9738bbb3-5dd5-4c73-9722-84afe31b0cec">
 
+## A note on methods
+
+We are methods agnostic. Our overarching research questions determine which methods we employ to answer them. There are many methods out there and different frameworks for determining which one(s) make the most sense for your overarching research questions. If you're interested, here are some resources: 
+
+- User Interviews - [How to Choose a User Research Method](https://www.userinterviews.com/ux-research-field-guide-chapter/how-to-choose-a-research-method)
+- Nielsen Norman Group - [UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/#:~:text=Top%20UX%20Research%20Methods%20%20%20Discover%20,Survey%20%E2%80%A2%20Analytics%20review%20%E2%80%A2%20Search-log%20...%20)
+- Interaction Design Foundation - [User Research](https://www.interaction-design.org/literature/topics/ux-research)
+- Maze - [Understanding the Top 9 Research Methods & Techniques](https://maze.co/guides/ux-research/ux-research-methods/)
