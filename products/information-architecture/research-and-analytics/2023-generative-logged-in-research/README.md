@@ -159,7 +159,7 @@ Though we are focusing research on issues people have once they are signed in to
 
 Decisions in response to the [high-level recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md#high-level-recommendations) that are within the scope of our Authenticated Experience team:
 
-### Making My VA the logged in homepage
+### Make My VA the logged in homepage
 
 This isn't something we're going to move forward with for now. My VA isn't ready to be the logged-in homepage today, and we have upcoming work on the site header that needs to happen before we make any big changes to the IA or authenticated navigation. Additionally, there is hesitation around removing access to the non-task content featured on the new homepage, such as the promo spot (currently PACT act) and VA News. 
 
