@@ -7,7 +7,7 @@ For a view of the roadmap of current and upcoming research, visit the Research o
 # Research carried out on MHV on VA.gov
 
 ## MHV on VA.gov concept research
-- [MHV on VA.gov Round 1 Initial Prototype Usability Research/ Proof of Concept](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research) (March 2022)
+- [MHV on VA.gov Round 1 Initial Prototype Usability Research/ Proof of Concept](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability) (March 2022)
 - [MHV on VA.gov Round 2 Initial Prototype Usability Research/ Proof of Concept - mobile users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability) (May 2022)
 
 ## MHV on VA.gov content and information architecture research
