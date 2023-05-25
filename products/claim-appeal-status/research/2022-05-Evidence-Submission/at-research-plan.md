@@ -35,7 +35,7 @@ Remote on Zoom
 ## Recruitment	
 
 ### Recruitment approach
-We would like to recruit Veterans who use screenreaders and have filed a disability compensation claim at some point.
+We would like to recruit Veterans who use screenreaders and have filed a disability compensation claim with the VA. 
 
 ### Recruitment criteria
 For this study we woud like to recruit 12 total participants. All 12 participants should be screen reader users. 
@@ -53,14 +53,15 @@ For this study we woud like to recruit 12 total participants. All 12 participant
 [Response options: Beginner, Intermediate, Advanced, Expert]
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+The Research Plan will be completed by May 29th. We would like to schedule sessions for the week of June 5th.
 
 ### Prepare
-(To be added)
+
+**TBD**
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email:
-* Date and time of pilot session: 
+* Date and time of pilot session: June 1st
 
 ### Research sessions
 * Planned dates of research: June 5 - 9, 2023
