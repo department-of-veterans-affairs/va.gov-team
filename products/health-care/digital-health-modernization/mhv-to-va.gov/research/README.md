@@ -28,7 +28,8 @@ For a view of the roadmap of current and upcoming research, visit the Research o
 
 ## What types of research have we done on MHV on VA.gov? 
 
-Research can be carried out to answer different types of questions at different moments in the product development and launch cycle. Below are descriptions of the general types of research we have carried out, when, and examples. 
+### MHV on VA.gov services: Secure Messaging, Medical Records, Medications, and Appointments
+Research can be carried out to answer different types of questions at different moments in the product development and launch cycle. Below are descriptions of the general types of research we have carried out for the different types of services on MHV on VA.gov, when, and examples. 
 
 _Note:_ These terms are used differently across the UX field and different terms are used for these general processes in different industries. Below reflects how we generally use them to describe different types of research efforts on MHV on VA.gov. However, please don't get too caught up in the labels - regardless of what the process is called, we always follow the general process of identifying overarching research questions that we need to answer to inform next steps, and decide on the best methods to answer them based on methods themselves, our available resources, and timing. 
 
