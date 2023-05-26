@@ -137,14 +137,12 @@ When ready, fill out that ticket with the following information:
 ### Availability
 | Team Availability |  Time Slots (ET) |
 | ----------- | ----------- |
-|June 5, 2023  | 9:30 a.m. - 10:00 a.m. (last session can start at 10:00 a.m.), and 1:30 p.m. (last session can start at 1:30 p.m.)  |
-|June 6, 2023  | 9:15 a.m. - 10:00 a.m. (last session can start at 10:00 a.m.), and 2:30 p.m. (last session can start at 2:30 p.m.)    |
-|June 7, 2023 |  9:15 a.m. - 1:00 p.m.  (last session can start at 1:00 p.m.)|
-|June 8, 2023 |  9:15 a.m. - 11:00 a.m. (last session can start at 11:00 a.m.), and 1:00 p.m. (last session can start at 1:00 p.m.)|
-|June 9, 2023 |  9:15 a.m. - 12:00 p.m. (last session can start at 12:00 p.m.), and 3:30 p.m. - 4:00 p.m.  (last session can start at 4:00 p.m.)  |
-|June 12, 2023 | 9:30 a.m. - 11:00 a.m. (last session can start at 11:00 a.m.), and 1:30 p.m. - 3:30 p.m. (last session can start at 3:30 p.m.)  |
-|June 13, 2023 | 9:30 a.m. - 12:00 p.m. (last session can start at 12:00 p.m.), and 3:30 p.m. (last session can start at 3:30 p.m.)  |
-	
+|June 14, 2023  | ~~9:30 a.m. - 10:00 a.m. (last session can start at 10:00 a.m.), and 1:30 p.m. (last session can start at 1:30 p.m.~~|
+|June 15, 2023  | ~~9:15 a.m. - 10:00 a.m. (last session can start at 10:00 a.m.), and 2:30 p.m. (last session can start at 2:30 p.m.)~~    |
+|June 16, 2023 | ~~9:15 a.m. - 1:00 p.m.  (last session can start at 1:00 p.m.)~~|
+|June 20, 2023 |  ~~9:15 a.m. - 11:00 a.m. (last session can start at 11:00 a.m.), and 1:00 p.m. (last session can start at 1:00 p.m.)~~|
+|June 21, 2023 | ~~9:15 a.m. - 12:00 p.m. (last session can start at 12:00 p.m.), and 3:30 p.m. - 4:00 p.m.  (last session can start at 4:00 p.m.)~~  |
+
 ## Team Roles	
 
 **Project Point of Contact:**
