@@ -20,7 +20,8 @@ ________________________________________________________________________________
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
 
- - After check in, user should not be able to go back to questions [#58862](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58862) 
+ - After check in, user should not be able to go back to questions [#58862](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58862)
+ - Platform Orientation Template [Lee Delarm] [#59192](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59192) 
 
 #### PLANNED RELEASES 
 - None
@@ -55,6 +56,7 @@ Added on 5/23
           - Address 508 audit feedback (for after release) (see [process](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office))
 
 - [#58862](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58862)  [[FE]After check in, user should not be able to go back to questions ]
+- [#59192](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59192) (Platform Orientation Template [Lee Delarm])
 
 
 ---------------------- END FUTURE / TENTATIVE ---------------------------------
