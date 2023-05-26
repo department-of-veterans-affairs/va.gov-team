@@ -17,7 +17,7 @@
 
 ### Planning
 **Launch Go/No go:** 
-- Completed 09/23/22 _however team determined we are not ready for lunch given challenges with GA at this time. Will revisit status early next week (9/26) after consulting with analytics team._
+- Completed 09/23/22 _however team determined we are not ready for launch given challenges with GA at this time. Will revisit status early next week (9/26) after consulting with analytics team._
 - **Update 10/12**: Team resolved GA issues with assistance from analytics team, resumed go/no-go checklist on 10/12 and determined launch readiness - good to go!
 - Launch go/no-go ticket: [#43281](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43281) 
 - [Launch go/no-go readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/launch-materials/onsite-notifications-launch-readiness-checklist.md)
