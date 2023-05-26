@@ -1,5 +1,5 @@
 # Surfacing personalized content on VA.gov
-Last update: 5/25/2023
+Last update: 5/26/2023
 
 ## Overview
 We [completed research in April 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research#research-outline-identifying-issues-and-challenges-people-have-finding-tasks-when-they-are-signed-in-to-vagov) and identified an opportunity to improve how we are surfacing personalized content and educating Veteran’s about My VA along key points on their path to their tasks ([findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md#problems-weve-identified-with-the-logged-in-experience)). 
