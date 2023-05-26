@@ -20,12 +20,15 @@ Veterans have increased access to personalized content, whether that is through 
 
 ## Business outcomes
 ### Desired Business Outcomes
-* Decreased time on site for logged-in users
+- Enhance the personalized experience of VA.gov
+- Maintaining the integrity of the personalized experience
 
 ### Undesired Business Outcomes
-* 
+- We've created a more confusing and less consisent user experience by providing irrelevant information
+- 
+
 ## Measuring success
-TBD
+- Decrease of search terms related to personalized information on pages where we've surfaced it
 
 ## Solution approach
 ### Requirements
