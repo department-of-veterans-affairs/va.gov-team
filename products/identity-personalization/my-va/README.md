@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: March 28, 2023 - added Getting started md file to Frontend section**
+**Last updated: May 25, 2023 - updating roles**
 
 ### Communications
 
@@ -14,8 +14,8 @@
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
 |Bernadette Xiong| Delivery Manager | berni.xiong@agile6.com |
-|Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Angela Agosto |Designer| angela.agosto@adhocteam.us |
+|Liz Lantz |Design support| liz.lantz@adhocteam.us |
 |Allison Lu| FE Engineer|	allison@cityfriends.tech |
 |Derrick Ellerbie | Full Stack Engineer | derrick.ellerbie@Agile6.com|
 
