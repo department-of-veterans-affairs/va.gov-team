@@ -20,40 +20,43 @@ Clayton Zook clayton.zook@oddball.io, Amanda Porter ajohnson@clarityinnovates.co
 
 
 ## Research Goals
-There are currently multiple ways to sign in and access VA services. These Credential Service Providers (CSPs) don't meet required security standards and having so many choices creates user frustration and confusion. We need to migrate Veterans from legacy credential service providers (DS Logon and My HealtheVet) to Login.gov as a first choice or ID.me. During discovery research, the LGA team defined different pathways for the migration.
-Test the usability of a modal prototype that encourages veterans to signup for a login.gov account
-Identify which terms are most understandable and resonate most when describing identity concepts like verified (ID prooded) account and authentication.
-Find out best ways to encourage more veterans to migrate CSPs now, even before sunsetting of legacy accounts(s)
+There are currently multiple ways to sign in to access VA services online. Some of these Credential Service Providers (CSPs) don't meet required security standards and having so many choices creates user frustration and confusion. We need to migrate Veterans from legacy credential service providers (especially DS Logon) to Login.gov or ID.me. During discovery research, the Login.gov Adoption (LGA) team defined different pathways for migration including organic adoption. This research looks further at a part of that pathway that we are calling proactive migration.
+- Test the usability and success of a [mobile modal prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979) that encourages veterans to migrate to a login.gov before it’s mandatory
+- Identify which terms are most understandable and resonate most when describing identity concepts like verified (ID prooded) account and authentication.
+- Find out ways to encourage more veterans to migrate CSPs before sunsetting of legacy account
+
 
 ## Research Questions
-Is the modal useful in encouraging organic adoption of a modern CSP?
-Would any changes make the modal more helpful or more encouraging?
-What word or phrase will best convey to veterans the concept of “ID proof” or “verified account”?
-How might we encourage more veterans to migrate their CSP now, on their own, before sunsetting forces it?
+- Is the modal useful in encouraging proactive adoption of a modern CSP?
+- Would any changes make the modal more helpful or more encouraging?
+- What word or phrase will best convey to veterans the concept of “ID proof” or “verified account”?
+- How might we encourage more veterans to migrate their CSP now, on their own, and before sunsetting forces it?
 
 ## Methodology
-We conducted remote usability testing to evaluate a modal prototype with participants who access VA.gov via mobile devices. This was paired with interview questions to evaluate the use of words and phrases to best convey account and sign in concepts to veterans.
+We conducted an interview discussion segment to evaluate use of words and phrases to best convey account and sign in concepts to veterans. We paired this with remote usability testing to evaluate a modal prototype with participants who access VA online via mobile devices.
 
 ## Hypotheses and Conclusions
 
 1. Veterans will have a term or phrase for identity concepts like “verified account” that we can use to better speak to the process.
    - **Partly True** - most participants understood identity concepts, but there wasn't clear coalescing around specific terms
 2. Most veterans will not understand how CSPs are different from their account
-   - **Mostly True** - Some participants understand Login.gov as credentialing, but especially those unfamiliar with Login.gov understood it as a new place to access their VA information 
+   - **Mostly True** - Some participants understand Login.gov as credentialing or a way to sign in, but especially those unfamiliar with Login.gov mistakenly thought it was a new place to access their VA benefits and healthcare online.
 3. Some veterans will be motivated to migrate from a legacy CSP with encouragement from the modal prototype
-   - **Mostly False** - A few participants expressed openness to changing CSPs and an interest in learning more about this change. However all wanted to keep their current CSP giving the information in this modal, and some also expressed the 20 minutes would be too long of a commitment in the moment
+   - **Mostly False** - A few participants expressed openness to changing CSPs and an interest in learning more about this change. However, all wanted to keep their current CSP given the information in the modal, and some also expressed that 20 minutes would be too long of a commitment in the moment.
 4. Most veterans will choose to ignore the modal their first time seeing it
-   - **Definitely True** - most participants found the modal immediately after sign in to be a nuisance interrupting the task at hand and wanted to get past it.
+   - **Definitely True** - most participants found that the modal was a nuisance because it interrupted their reason for accessing the VA online and their task at hand. Most wanted to get past the modal.
 5. Older Veterans will be less likely to set up a Login.gov account from their mobile device as compared with a laptop or desktop computer
    - **True** - Many participants preferred to use a computer to update accounts or complete complex tasks, citing larger text, easier typing, and the ability to see different windows side-by-side
 6. Most veterans will choose to continue to use their current (legacy) credential unless they have no other choice for logging in to access their benefits online.
-   - **Mostly True** - Veterans are unlikely to switch to a new credential after using theirs for many years without issue. Veterans are also apprehensive about using a single sign on for multiple gov accounts since some experienced issues causing them to lose access for several days.
+   - **Mostly True** - Veterans are unlikely to switch to a new credential after using theirs for many years without issue. Many veterans don’t want to take the estimated 20 minutes to sign up for a modern CSP unless it’s required. Some veterans are also apprehensive about using a single sign on for multiple gov accounts since some have experienced issues causing them to lose access for several days or longer.
+
+> "I'll roll with the punches as they come" - Participant 9
 
 ## Key Findings
 
 1. Modals are disruptive and annoying, and veterans don't want to be interrupted by a modal in the middle of a task, especially for something that’s not required.
-2. The modal copy is suggestive and not persuasive enough, leaving some Veterans confused about what to do or why.
-3. Participants want to be told or sold to change CSP - some liked choice, but many just want to be told what to do.
+2. Participants want to be told or sold to change CSP, but the modal copy is only suggestive and also not persuasive enough, leaving confusion about why.
+3. In considering migrating to Login.gov or ID.me, some veterans like options, but many just want to be told what to do.
 4. Some participants have a Login.gov or ID.me but still choose to use My HealtheVet (MHV) as their CSP.
 5. Veterans unfamiliar with Login.gov thought it was either a VA service and/or understood it as a place to go as opposed to a way to sign in.
 6. Veterans want to keep their personal information secure but also want their information to easily port to other VA services.
@@ -64,36 +67,37 @@ We conducted remote usability testing to evaluate a modal prototype with partici
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
+**1. Modals are disruptive and annoying, and veterans don't want to be interrupted by a modal in the middle of a task, especially for something that’s not required.**
+
+Labels: `AUD: Veterans`, `DSC: Modal`, `HDW: Smartphone`, `INTIVE: CX Executive Order`, `PRDT: Login.gov`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews` 
+
+- Related to Hypothesis 4
+- Builds on [Deferred Identity Proofing research - Key Finding 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-03-Deferred-Identity-Proofing-Round-1-Usability/research%20findings.md#key-findings)
+- See also modal use references: [NN/G](https://www.nngroup.com/articles/modal-nonmodal-dialog/) and [VA.gov Design System](https://design.va.gov/components/modal#examples)
+
+This finding confirms UX best practice and VA design system standards to carefully consider modal use. Most participants found the modal, immediately after signing, in to be disruptive and interrupted the task at hand. Most wanted to get past it immediately. Even when we prompted some participants to read further, some stated that they would still just close the modal and move on with their task or reason for signing in. However, participants did report that they would be more open to other channels of communication, like email, and would expect to hear important new through multiple channels of communication.
+
+> _"The close button is at the top right of that page. That's where I'm going" - Participant 7_
+
+> _“For me to go on a site where I'm trying to take care of my business and have a popup, it's like yeah, no. Click, close" - Participant 15_
 
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+**2. Veterans want to be told or sold to change CSP, but the modal copy is only suggestive and also not persuasive enough, leaving confusion about why.**
 
+Labels: `AUD: Veterans`, `HDW: Smartphone`, `INTIVE: CX Executive Order`, `PRDT: Content`, `PRDT: Login.gov`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews` 
 
-**Finding 1**
+- Related to Hypotheses 3 and 6
+- Builds on Deferred Identity Proofing research - Key Findings 1 and 2 and on Login.gov Adoption Discovery Key Finding 1
 
-Labels: label 1, label 2 
+Participants wanted to be sold or told on why they should create a verified account through Login.gov. The veterans we spoke with had two conditions for moving - either forcing them or giving them added benefits that they are truly interested in. We call this “tell me or sell me.”
+The “tell me” group were comfortable with their current sign in flow and would move only if they were forced, like with a deadline. Folks saw the language in this modal as suggestive and not imperative, so weren’t prompted to make a change. 
+The “sell me” group were interested in the benefits of a modern CSP and read between the lines that this means they’ll be forced to make a change in the future. Still they weren’t convinced with the call to action in this modal. Some didn’t fully understand the benefits of migrating or were unclear about the content and wanted to be better sold on it.
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+> _"It should say that somewhere, that My HealtheVet login will be no longer active, and that's why you need to use the login.gov account."  - Participant 10_
 
-Brief description
+> _"The key thing would be to try to convince someone to opt in. To achieve that, it's got to appear to be better" - Participant 8_
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 2**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> _"My first question is 'why.' What I'm doing works fine now. Why change it?" - Participant 2_
 
 
 **Finding 3**
@@ -201,8 +205,8 @@ LGBTQ+:
 
 Devices used during study: 
 * Desktop: 0
-* Tablet: 0
-* Smart phone: 0 
+* Tablet: 1
+* Smart phone: 3 
 * Assistive Technology: 0
 
 
@@ -232,12 +236,12 @@ Geographic location:
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 11
+* Black: 1
+* Hispanic: 1
+* Biracial: 0
+* Asian: 0
+* Native: 1
 
 
 Disability and Assistive Technology (AT):
