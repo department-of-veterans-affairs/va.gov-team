@@ -51,23 +51,15 @@ We conducted remote usability testing to evaluate a modal prototype with partici
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+1. Modals are disruptive and annoying, and veterans don't want to be interrupted by a modal in the middle of a task, especially for something that’s not required.
+2. The modal copy is suggestive and not persuasive enough, leaving some Veterans confused about what to do or why.
+3. Participants want to be told or sold to change CSP - some liked choice, but many just want to be told what to do.
+4. Some participants have a Login.gov or ID.me but still choose to use My HealtheVet (MHV) as their CSP.
+5. Veterans unfamiliar with Login.gov thought it was either a VA service and/or understood it as a place to go as opposed to a way to sign in.
+6. Veterans want to keep their personal information secure but also want their information to easily port to other VA services.
+7. Participants largely understand MFA, although several found SMS to be a hassle and a couple participants expressed extreme dislike of or anxiety around SMS MFA.
+8. Some verbiage, terms, and phrasings caused confusion around identity, but this doesn’t have to be a hurdle for or affect credential migration.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
-
-1. Finding one
-
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
 
 
 ## Details of Findings 
@@ -126,10 +118,14 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+1. Set a clear sunset date before expecting veterans to widely change CSP.
+2. Develop a comprehensive proactive migration strategy that doesn’t rely on an interrupting modal.
+3. Better educate veterans about MFA options other than SMS
+4. Better label Login.gov as a partner, not part of VA
+5. Update the approach used with some identity related terminology and verbiage usage
+6. Allow veterans to reuse their information from VA as they sign up for Login.gov or ID.me
+7. Work with MHV partners to help MHV users better understand the difference between MHV the CSP vs MHV as the place to go
+
 
 
 ## Next Steps
