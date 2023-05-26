@@ -68,10 +68,10 @@
 ## Warm-up: - 3 minutes
 I'd like to start by learning more about your experience reviewing information about what was discussed during your medical appointment. 
 1.	Do you, or the Veteran you care for, recall receiving paperwork as you left your appointment, or reviewing online information that provided an overview of what occurred during your medical appointment or procedure? [**Moderator Note:** Use You, or the Veteran you care for, depending on who the participant is.]  
-a.	[If answered yes, ask these questions. Otherwise, skip to question 2.] 
-i.	Why did you review that paperwork or online content?
-ii.	What information did you review?
-iii.	Do you recall if any particular appointment type or procedure made you take a closer look at this paperwork or online information?
+  * a.	[**If answered yes**, ask these questions. **Otherwise**, skip to question 2.] 
+  b.  Why did you review that paperwork or online content?
+  c.	What information did you review?
+  d.	Do you recall if any particular appointment type or procedure made you take a closer look at this paperwork or online information?
 2.	What would you call or name something like that?
 <br/>
 <br/>
