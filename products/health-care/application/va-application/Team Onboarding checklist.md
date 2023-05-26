@@ -15,6 +15,7 @@ Reference the [VA Platform Tools site](https://depo-platform-documentation.scrol
      - [ ] 1010-health-apps
      - [ ] health-tools-1010-apm
      - [ ] vecms-carma_vadotgov_development_external
+     - [ ] accessibility-ops
      - [ ] vfs-change-announcements
      - [ ] vfs-platform-support
      - [ ] vfs-all-teams
@@ -24,6 +25,7 @@ Reference the [VA Platform Tools site](https://depo-platform-documentation.scrol
      - [ ] (Design.research) research-ops
      - [ ] (Design.research) platform-design-system
      - [ ] (Design.research) sitewide-content-ia
+     - [ ] (Frontend Engineers) vfs-frontend
 
 
 - [ ] Design/Research
