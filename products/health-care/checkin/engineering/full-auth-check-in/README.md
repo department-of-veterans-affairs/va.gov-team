@@ -32,7 +32,7 @@ sequenceDiagram
     va->>chip: Request demographics payload if update needed
     chip->>va: Return demogrpahics payload
     va->>vam: Return insurance/demographics statues <br />and payload if needed
-    vam->>vet: If insurance needs validation prompt to check-in with staff.<br /> If demographics need confirmation present those screens.<br /> If no input needed proceed with checking patient in.
+    vam-->>vet: If insurance needs validation prompt to check-in with staff.<br /> If demographics need confirmation present those screens.<br /> If no input needed proceed with checking patient in.
     vet-->>vam: Completes demographics confirmation if needed
     vam->>va: If updating demogrpahics status send timestamps.<br />Send check-in to appointment.
     va->>chip: Patch demographic statuses if needed
