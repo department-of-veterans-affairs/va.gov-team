@@ -40,7 +40,7 @@ Check all that apply.
 
 - [ ] Create process ticket draft
 - [ ] Watch Design Intent
-- [ ] Determine work needed
+- [ ] Determine IA deliverables
 - [ ] Collaborate with CAIA
 - [ ] Ask questions to product team
 - [ ] Create IA Spec
