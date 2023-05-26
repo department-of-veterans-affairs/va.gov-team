@@ -29,8 +29,8 @@ sequenceDiagram
     vam->>va: Iniate mobile check-in
     va->>chip: Request insurance and demographics statuses for patient
     chip->>va: Return insurance/demogrpahics statuses
-    va->>chip: Request demographics payload if update needed
-    chip->>va: Return demogrpahics payload
+    va-->>chip: Request demographics payload if update needed
+    chip-->>va: Return demogrpahics payload
     va->>vam: Return insurance/demographics statues <br />and payload if needed
     vam-->>vet: If insurance needs validation prompt to check-in with staff.<br /> If demographics need confirmation present those screens.<br /> If no input needed proceed with checking patient in.
     vet-->>vam: Completes demographics confirmation if needed
