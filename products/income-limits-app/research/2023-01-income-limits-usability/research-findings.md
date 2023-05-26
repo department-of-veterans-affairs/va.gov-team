@@ -272,6 +272,7 @@ Scrolling down this very long landing page on a phone took a while, especially f
 
 
 ## Recommendations
+Recommendations are listed below, with team decisions noted in *ITALIC CAPS*.
 ### For the app design and functionality
 1. **Clarify and sequence the two calls to action on the results page by** focusing first on selecting an income range, and second on applying for VA health care. To do this, consider moving the "Note" text ("You'll still need to meet basic eligibility requirements to enroll. To find out if you're eligible, apply now") and the **_Apply for VA health care_ link to inside _every_ income accordion**, right after the benefits description. *ADD APPLY CTA INSIDE EVERY INCOME ACCORDION*
 6. Because Veteran participants didn't realize that they could deduct expenses from their income and didn't open **_How to estimate your income for this tool_** on the results page, **remove the additional info component** and change this into a heading or plain text to make the content below visible without requiring any user interaction. _See Content recommendation #9 below._ *DONE*
