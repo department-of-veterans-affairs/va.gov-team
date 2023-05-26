@@ -12,7 +12,12 @@ Agenda
   -  QA Process updates (Binny)
 
 - Slides - [Sprint 71 VA Mobile App Demo Slides.pptx](https://github.com/department-of-veterans-affairs/va.gov-team/files/11568490/Sprint.71.VA.Mobile.App.Demo.Slides.pptx)
-- Video - 
+- Video 
+  -  Secure Messaging Realignment Pt.1 - https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/60f0bf54-24ab-4ef6-be54-6806eac3bff1
+  -  Secure Messaging Realignment Pt.2 - https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/0aff31fb-3b2c-49e4-b84f-53221a55f572
+  -  Figma updates and QA process updates - https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/66fcf5e2-a6ea-4b70-8f42-6d953e42de2a
+
+
 
 
 
