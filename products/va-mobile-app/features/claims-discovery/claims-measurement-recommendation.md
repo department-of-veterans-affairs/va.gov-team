@@ -7,7 +7,7 @@ Date: 05/24/2023
 
 ## Executive Summary
 
-This work supports [Claims Metrics / Pact Act #4078](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4078). The passing of the [PACT act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) in 2022 has increased enrollments in VA health care and benefits. As of April 2023, Veterans and survivors have [filed more than 500,000 toxic exposure-related benefits claims](https://news.va.gov/press-room/veterans-and-survivors-have-filed-more-than-500000-toxic-exposure-related-benefits-claims-under-the-pact-act/), and we expect that to continue.
+This work supports [Claims Metrics / PACT Act #4078](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4078). The passing of the [PACT act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) in 2022 has increased enrollments in VA health care and benefits. As of April 2023, Veterans and survivors have [filed more than 500,000 toxic exposure-related benefits claims](https://news.va.gov/press-room/veterans-and-survivors-have-filed-more-than-500000-toxic-exposure-related-benefits-claims-under-the-pact-act/), and we expect that to continue.
 
 In preparation for the anticipated increase in traffic in the mobile app, we want to make data-informed improvements to Claims. To do that, we need to refine success metrics (beyond event counts and API calls) and set baselines prior to making changes so we can track the impact of intended improvements.  
 
