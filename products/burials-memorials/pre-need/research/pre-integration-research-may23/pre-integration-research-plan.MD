@@ -152,4 +152,4 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant(s) for pilot test: Alexander Sherrow, sherrow_alexander@bah.com
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	None
 - Note-takers: Perigean
-- Observers: Rhonda Jones, rhonda.jones1@va.gov; Michael Ouslander, michael.ouslander@va.gov; Michael Rampton, michael.rampton@va.gov
+- Observers: Rhonda Jones, rhonda.jones1@va.gov; Michael Ouslander, michael.ouslander@va.gov; Michael Rampton, michael.rampton@va.gov; dieudonneyenyo_michelle@bah.com; stewart_kelby@bah.com
