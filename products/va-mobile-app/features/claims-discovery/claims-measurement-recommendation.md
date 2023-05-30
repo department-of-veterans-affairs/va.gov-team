@@ -11,7 +11,7 @@ This work supports [Claims Metrics / Pact Act #4078](https://github.com/departme
 
 In preparation for the anticipated increase in traffic in the mobile app, we want to make data-informed improvements to Claims. To do that, we need to refine success metrics (beyond event counts and API calls) and set baselines prior to making changes so we can track the impact of intended improvements.  
 
-The recommendations below are informed by a synthesis of [existing quantitative](https://lookerstudio.google.com/u/0/reporting/dea3ede1-2d2e-4401-abd7-a44beada8a35/page/p_2j3o3kvy4c) and [qualitative data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/claims/research%20review%20-%20claims%20status%20tool.md).
+The recommendations below are informed by a synthesis of existing [qualitative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/claims/research%20review%20-%20claims%20status%20tool.md) and [quantitative](https://lookerstudio.google.com/u/0/reporting/dea3ede1-2d2e-4401-abd7-a44beada8a35/page/p_2j3o3kvy4c) data.
 
 
 ### **Priority 1:** Improve app event tracking of Veteran claim-monitoring behaviors, surface improved success metrics, and evaluate future design improvements based on these metrics.
