@@ -2,7 +2,7 @@
 
 ### Date: May 31 2023
 ### Topics covered:
-- Rakshinda's coverage
+- Rakshinda's coverage - June 2 - June 15
 - Do we need more than 30 min for this sync?
 - Issue Management Strategy 
    - What's next? 
