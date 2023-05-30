@@ -37,7 +37,7 @@
 - Notes: 
 
 **2) Meidcation details - NEW**
-- URL: www.va.gov/my-health/medications/[medicationID]
+- URL: www.va.gov/my-health/medications/[medicationID]/
 - Breadcrumb: 
   - desktop: VA.gov home > My HealtheVet > [H1 of page] > [H1]
   - mobile: < My HealtheVet
