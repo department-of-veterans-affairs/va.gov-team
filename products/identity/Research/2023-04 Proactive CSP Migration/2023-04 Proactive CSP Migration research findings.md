@@ -185,8 +185,17 @@ Let’s look specifically at some terms used when creating or logging into an ac
 
 
 ## Additional Insights
+1. The modal "remind me later" option is overwhelmingly seen as performing an action
+   a. From Midpoint Review feedback, this means this should be a button not a link
+2. The VA app ecosystem causes confusion with this set of participants
+   a. Unsure of which app to use, or feelings that it’s not as easy for them to use as going online via a browser.
+3. Veterans who primarily interact with the VA online through the MHV site are less familiar with VA.gov and this might be where some of the confusion lies.
+   a. The veterans we talked with, who were 55+ years old and connect with the VA primarily for health benefits using MHV, tended to visit VA.gov only when MHV redirected them there, or in order to research certain benefits without being signed in.
+   b. One participant had recently filed for disability. They considered the application more of a one-and-done type of reason to go to VA.gov, where instead they access My HealtheVet to manage their healthcare multiple times a week.
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+> _“I go to [VA.gov] for research. I don't believe, I don't think I have ever logged into VA.gov” - Participant 6_
+
+> _"The main thing is healthcare, the HealtheVet website. Second thing would be for travel reimbursement." - Participant 9_
 
 
 ## Recommendations
