@@ -1,5 +1,17 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: May 31 2023
+### Topics covered:
+- Rakshinda's coverage
+- Issue Management Strategy 
+   - What's next? 
+   - Finalize and share the details with Contact Center Support team
+- Sprint 7 goals
+- Bugs and Defects
+   - What's being picked up by Team Carbs?
+- Create the new workspace for Disability Benefits Experience team for x-team view 
+   -  Does addition of new workspace in Zenhub add to expence/licenses?
+
 ### Date: May 24 2023
 ### Topics covered:
 - BDD SHA launch date
