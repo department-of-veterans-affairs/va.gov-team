@@ -3,6 +3,7 @@
 ### Date: May 31 2023
 ### Topics covered:
 - Rakshinda's coverage
+- Do we need more than 30 min for this sync?
 - Issue Management Strategy 
    - What's next? 
    - Finalize and share the details with Contact Center Support team
