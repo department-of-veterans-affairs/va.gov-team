@@ -91,7 +91,7 @@ As soon as possible, improve app tracking to enable the following metrics. All o
     * **_Denominator_**: Total number of active claims with Claims Details details viewed
 4. **Average <span style="text-decoration:underline;">time</span> to monitor change:** How much time passes between a change in step and a Veteran viewing that change?
     * **_Ideal:_** Unknown but would be used as a point of reference for any changes to determine if those changes are increasing or decreasing the ease of monitoring.
-        * Hypothesis: We believe that we will be able to decrease this measure over time as we make it easier for veterans to know when a step change has happened.
+        * Hypothesis: We believe that we will be able to decrease this measure over time as we make it easier for Veterans to know when a step change has happened.
         * This metric would be viewed overall and sliced by which step the active claim was in at the time of viewing the details.
     * **_Numerator_**: Days between when the step changed and the claims detail page is viewed in app
     * **_Denominator_**: Total number of active claims with a step change among users who navigated to the Claims feature
