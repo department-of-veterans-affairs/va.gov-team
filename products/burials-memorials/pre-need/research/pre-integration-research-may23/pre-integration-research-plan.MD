@@ -119,7 +119,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Pilot participant email: sherrow_alexander@bah.com
 * Date and time of pilot session: Thursday, 6/1/23 @ 10:30am-11:30am
 
-**We also need a kick-off meeting with Perigean for recruiting as soon as possible. Our availability is flexible for this.**
+**We also need a kick-off meeting with Perigean for recruiting as soon as possible. Our availability is flexible for this.** Requested dates/times for kick-off meeting: Wed. 5/31: 9-9:30am, 10am-1:30pm, 2:30-4pm; Thur. 6/1: 9-9:30am, 10:30am-1pm, 3:30-4pm.
 
 ### Research sessions
 * Planned dates of research: 
