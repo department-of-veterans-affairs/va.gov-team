@@ -85,7 +85,7 @@ When ready, fill out that ticket with the following information:
 - How many participants do you want in your study? 15
 - How many completed sessions do you need to consider your study complete? 10
 - Participant type 
-  - What type of participants do you want to have? Veterans and Caregivers
+  - What type of participants do you want to have? Veterans and Caregivers (10 Veterans and 5 Caregivers)
 - Sex
   - What sex do you want your participants to be? Various (a mix of all below)
 - Age
@@ -99,7 +99,7 @@ When ready, fill out that ticket with the following information:
   - What education level do you want your participants to have? Various
 - LGBTQ+
   - What LGBTQ-plus group do you want your participants to be? Various
-  - If you choose, provide exact number you want applied for each checked race. Minimum of 1 across all designations
+  - If you choose, provide exact number you want applied for each checked race. 1 across all designations
 - Benefits
   - What benefits or services should your participants have experience with? Healthcare
   - If you choose, provide exact number you want applied for each checked benefit. All participants must have healthcare.
@@ -108,9 +108,7 @@ When ready, fill out that ticket with the following information:
 - Language
   - What languages do you want your participants comfortable in reading content? English
 - Device for Session
-  - What device should the participant have experience with and use in the session? Smartphone (maybe Desktop and Laptop)
-  - If you choose, provide exact number you want applied for each checked device: TBD
-- Assistive Technology (TBD)
+  - What device should the participant have experience with and use in the session? Smartphone 
 
 ### Screener for all participants
 1. Please make sure that ALL participants are willing to complete their interview **on the device they specified when recruited** and:
