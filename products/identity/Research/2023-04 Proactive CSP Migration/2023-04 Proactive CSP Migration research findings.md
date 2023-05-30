@@ -125,51 +125,64 @@ Some participants previously created or attempted to create a Login.gov or ID.me
 
 **5. Veterans unfamiliar with Login.gov thought it was either a VA service and/or understood it as a place to go as opposed to a way to sign in.**
 
-Labels: label 1, label 2 
+Labels: `AUD: Veterans`, `INTIVE: CX Executive Order`, `PRDT: Content`, `PRDT: Login.gov`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+- Related to Hypothesis 2 
 
-Brief description
+Veterans understood that they had options for signing into their account and some recognized Login.gov as one of those options. However, taken in the context of this modal, some participants, especially those unfamiliar with Login.gov, understood it as a new place where they could access their VA information. A mostly overlapping group of folks, but also including some familiar with Login.gov, understood it as a VA product.
 
-> _Supporting data: Quote here_
+> _“I'd have to learn the user interface on the new site, but I would hope that it would make things easier to use." - Participant 8_
 
-> _Supporting data: Quote here_
+> _"There would be some kind of an intermediate page, I think. Because they won't know where I'm going [social security or VA]” - Participant 5_
 
 **6. Veterans want to keep their personal information secure but also want their information to easily port to other VA services.**
 
-Labels: label 1, label 2 
+Labels: `AUD: Veterans`, `HDW: Smartphone`, `INTIVE: CX Executive Order`, `PRDT: Content`, `PRDT: Login.gov`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews` 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+- Related to Hypotheses 5
+- Builds on Login.gov Adoption Discovery Key Finding 4
 
-Brief description
+Some veterans are cautious about sharing their information due to security concerns or being hacked or scammed in the past. They like to understand the validity of links or information inputs before using them. At the same time veterans also don’t want to reenter information about themselves if the VA already has it. This relates to the previous finding with confusion that Login.gov is a VA product and the VA already has all my information, but there is consequence in perceived ease of signing up for Login.gov
 
-> _Supporting data: Quote here_
+> _"I usually don't like putting my social security number out there, unless it's the last four" - Participant 3_
 
-> _Supporting data: Quote here_
+> _"Since I've logged in, take and auto fill almost everything except for 'hey send us your ID' " - Participant 6_
+
+> _“You're asking me for some other stuff and I'm not sure I want to give it to you. You already have my SSN and my phone number... why do you need it again?” - Participant 7_
 
 **7. Participants largely understand MFA, although several found SMS to be a hassle and a couple participants expressed extreme dislike of or anxiety around SMS MFA.**
 
-Labels: label 1, label 2 
+Labels: `AUD: Veterans`, `HDW: Smartphone`, `INTIVE: CX Executive Order`, `PRDT: Content`, `PRDT: Login.gov`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`
+- Related to Hypotheses 5
+- Builds on Login.gov Adoption Discovery Key Finding 5
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+All veterans we spoke with have a baseline understanding of the login process including MFA. While some participants are annoyed by MFA or get anxious by having a limited time to type in a code, others proactively set up MFA on important accounts in order to keep them secure. As other studies have shown, our participants overwhelmingly used SMS for MFA. A couple were also familiar with using an authenticator app.
 
-Brief description
+> _“I love that process because it makes me feel more secure" but “it’s nerve racking because sometimes you forget if they are going to send it to your phone [or email]” - Participant 13_
 
-> _Supporting data: Quote here_
+> _"It's a bad process where it's 3 or 4 levels of authentication or verification" - Participant 14_
 
-> _Supporting data: Quote here_
+
 
 **8. Some verbiage, terms, and phrasings caused confusion around identity, but this doesn’t have to be a hurdle for or affect credential migration.**
 
-Labels: label 1, label 2 
+Labels: `AUD: Veterans`, `HDW: Smartphone`, `INTIVE: CX Executive Order`, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+- Related to Hypotheses 2 and 6
+- Builds on Deferred Identity Proofing research - Key Findings 4 and 5
 
-Brief description
+While participants have a baseline understanding of login and account creation processes, they didn’t understand the nuances between some terms. Still their understanding of these terms doesn’t seem to affect their ability or willingness to set up or verify their accounts. However, it can make it difficult for veterans to understand the limitations of an unverified account, as stated in the previous research.
 
-> _Supporting data: Quote here_
+Let’s look specifically at some terms used when creating or logging into an account or to encourage folks to migrate credentials
+- Authenticate vs verify - most participants either felt there wasn't a substantial difference between these terms or couldn't verbalize the difference as the VA Identity team understands it
+- Multi-Factor Authentication - Most participants understood the concept of MFA and could even recall the term or a near related term, even if they weren’t a fan of the process.
+- Upgrade - Most participants viewed "upgrade" as an added benefit or that they would get something more. However several folks were confused by the modal's use of it or found it disingenuous, since the call to action is to move to a new sign in method not upgrading the currently used one.
+- "VA online tools" caused confusion - most participants, even those who understood the VA’s meaning of it, got caught up in what that phrase might mean, derailing the CTA of this modal. When asked what term or phrase might work better, a few were offered, but many participants didn’t see a need to have a classifying term like this. They tended to more simply view the place or places they go to as how they access the VA online.
 
-> _Supporting data: Quote here_
+> _“Probably not a substantial difference [between authenticate and verify]… I could switch those words around very easily" - Participant 5_
+
+> _"When you say 'the VA' it just encompasses everything" - Participant 1_
+
 
 ## Additional Insights
 
