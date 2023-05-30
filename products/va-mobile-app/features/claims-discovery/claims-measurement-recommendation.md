@@ -75,23 +75,23 @@ As soon as possible, improve app tracking to enable the following metrics. All o
 
 1. **Unchanged claim <span style="text-decoration:underline;">views</span> per month:** How many times a Veteran views a claim when no change in step has occurred?
     * **Ideal**: As close to 1:1 as possible
-        * Hypothesis is that we are far away from this because the app does not sufficiently enable the Veteran to know when there has been a change.
+        * Hypothesis: We believe that we are far away from this because the app does not sufficiently enable the Veteran to know when there has been a change.
     * **_Numerator_**: Total number of days each unique active claim was viewed while in the same step
     * **_Denominator_**: Total number of unique active claims viewed in month
 2. **Changed <span style="text-decoration:underline;">claims</span> monitored per month:** How many claims Veterans view that have had a change in step?
     * **_Ideal:_** As close to 100% as possible.
-        * Hypothesis is that we have room to improve here with just 65% of current claims users interacting with Claims Details at least once.
+        * Hypothesis: We believe that we have room to improve here with just 65% of current claims users interacting with Claims Details at least once.
     * **_Numerator_**: Total number of unique active claims with a step change viewed after that change
     * **_Denominator_**: Total number of active claims with a step change among users who navigated to the Claims feature
 3. **Average <span style="text-decoration:underline;">time</span> per claim monitored:** How much time does a Veteran spend viewing the details of an active claim?
     * **_Ideal:_** Unknown but would be used as a point of reference for any changes to determine if those changes are increasing or decreasing the ease of monitoring.
-        * Hypothesis is that we will be able to decrease this measure over time as we decrease repeat page views and surface information in more user friendly ways.
+        * Hypothesis: We believe that we will be able to decrease this measure over time as we decrease repeat page views and surface information in more user friendly ways.
         * This metric would be viewed overall and sliced by which step the active claim was in at the time of viewing the details.
     * **_Numerator_**: Total time spent on Claims Details screens for active claims
     * **_Denominator_**: Total number of active claims with Claims Details details viewed
 4. **Average <span style="text-decoration:underline;">time</span> to monitor change:** How much time passes between a change in step and a Veteran viewing that change?
     * **_Ideal:_** Unknown but would be used as a point of reference for any changes to determine if those changes are increasing or decreasing the ease of monitoring.
-        * Hypothesis is that we will be able to decrease this measure over time as we make it easier for veterans to know when a step change has happened.
+        * Hypothesis: We believe that we will be able to decrease this measure over time as we make it easier for veterans to know when a step change has happened.
         * This metric would be viewed overall and sliced by which step the active claim was in at the time of viewing the details.
     * **_Numerator_**: Days between when the step changed and the claims detail page is viewed in app
     * **_Denominator_**: Total number of active claims with a step change among users who navigated to the Claims feature
@@ -120,7 +120,7 @@ As soon as possible, **improve our app tracking to measure the level of engageme
 
 1. **Average number of calls made from Claims:**
     * **_Ideal_:** Unknown. We would need more contextual research to ascertain the pros/cons of utilization of this function for both Veterans and VA call centers.
-        * Hypothesis is that this is the main feature empowering the Veteran in their efforts to monitor their claim beyond what the app provides.
+        * Hypothesis: We believe that this is the main feature empowering the Veteran in their efforts to monitor their claim beyond what the app provides.
     * **_Numerator:_** Number of unique claims with calls made from the Claims Details page
     * **_Denominator:_** Number of unique claims with Claims Details page viewed
 
