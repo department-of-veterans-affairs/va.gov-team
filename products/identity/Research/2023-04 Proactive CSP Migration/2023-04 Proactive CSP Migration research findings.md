@@ -75,7 +75,7 @@ Labels: `AUD: Veterans`, `DSC: Modal`, `HDW: Smartphone`, `INTIVE: CX Executive 
 - Builds on [Deferred Identity Proofing research - Key Finding 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-03-Deferred-Identity-Proofing-Round-1-Usability/research%20findings.md#key-findings)
 - See also modal use references: [NN/G](https://www.nngroup.com/articles/modal-nonmodal-dialog/) and [VA.gov Design System](https://design.va.gov/components/modal#examples)
 
-This finding confirms UX best practice and VA design system standards to carefully consider modal use. Most participants found the modal, immediately after signing, in to be disruptive and interrupted the task at hand. Most wanted to get past it immediately. Even when we prompted some participants to read further, some stated that they would still just close the modal and move on with their task or reason for signing in. However, participants did report that they would be more open to other channels of communication, like email, and would expect to hear important new through multiple channels of communication.
+This finding confirms UX best practice and VA design system standards to carefully consider modal use. Most participants found the modal, immediately after signing, in to be disruptive and interrupted the task at hand. Most wanted to get past it immediately. Even when we prompted some participants to read further, some stated that they would still just close the modal and move on with their task or reason for signing in. However, participants did report that they would be more open to other channels of communication, like email, and would expect to hear important news through multiple channels of communication.
 
 > _"The close button is at the top right of that page. That's where I'm going" - Participant 7_
 
@@ -90,7 +90,9 @@ Labels: `AUD: Veterans`, `HDW: Smartphone`, `INTIVE: CX Executive Order`, `PRDT:
 - Builds on Deferred Identity Proofing research - Key Findings 1 and 2 and on Login.gov Adoption Discovery Key Finding 1
 
 Participants wanted to be sold or told on why they should create a verified account through Login.gov. The veterans we spoke with had two conditions for moving - either forcing them or giving them added benefits that they are truly interested in. We call this “tell me or sell me.”
-The “tell me” group were comfortable with their current sign in flow and would move only if they were forced, like with a deadline. Folks saw the language in this modal as suggestive and not imperative, so weren’t prompted to make a change. 
+
+The “tell me” group were comfortable with their current sign in flow and would move only if they were forced, like with a deadline. Folks saw the language in this modal as suggestive and not imperative, so weren’t prompted to make a change.
+
 The “sell me” group were interested in the benefits of a modern CSP and read between the lines that this means they’ll be forced to make a change in the future. Still they weren’t convinced with the call to action in this modal. Some didn’t fully understand the benefits of migrating or were unclear about the content and wanted to be better sold on it.
 
 > _"It should say that somewhere, that My HealtheVet login will be no longer active, and that's why you need to use the login.gov account."  - Participant 10_
@@ -100,7 +102,28 @@ The “sell me” group were interested in the benefits of a modern CSP and read
 > _"My first question is 'why.' What I'm doing works fine now. Why change it?" - Participant 2_
 
 
-**Finding 3**
+**3. In considering migrating to either Login.gov or ID.me, some veterans like options, but again many just want to be told what to do.**
+
+Labels: `AUD: Veterans`, `INTIVE: CX Executive Order`, `PRDT: Content`, `PRDT: Login.gov`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews` 
+
+The modal we usability tested presented only the Login.gov option for migrating to a new credential account. Veterans were mostly comfortable with having a single option. Some were indifferent and some liked the idea of having choice. The ones who were comfortable with a single option also felt the most strongly about being overwhelmed by having options or exasperated at the VA for not just deciding on a clear way forward.
+
+> _"I want one option to login" - Participant 9_
+
+> _"[If presented with 2 options] I would think they don't know what they want us to do” - Participant 2_
+
+**4. Some participants already have a Login.gov or ID.me but still choose to use My HealtheVet (MHV) as their CSP.**
+
+Labels: `AUD: Veterans`, `INTIVE: CX Executive Order`, `PRDT: Content`, `PRDT: Login.gov`, `PRDT: Login`, `RESRCH: Interviews`
+- Related to Hypotheses 2 and 6
+- Builds on Deferred Identity Proofing research - Key Findings 7 and on Login.gov Adoption Discovery Key Finding 6
+
+Some participants previously created or attempted to create a Login.gov or ID.me account. Sometimes with the intent to migrate or otherwise just to try it. Specifically with ID.me many veterans create an account to get veteran discounts at certain websites. Even if they have a modern CSP, veterans still prefer to use their legacy credentials since they’ve used them for a long time and are more comfortable with it. Others aren’t interested in a long or cumbersome process to ID verify and remarked that 20 minutes is a long time when they’re trying to complete a different action with the VA, like sending a message to their healthcare provider.
+
+> _“If it's going to be arduous for me to change to the new system, then I'm going to stick to the old system until you drag me kicking and screaming.” - Participant 7_
+
+
+**5. Veterans unfamiliar with Login.gov thought it was either a VA service and/or understood it as a place to go as opposed to a way to sign in.**
 
 Labels: label 1, label 2 
 
@@ -112,6 +135,41 @@ Brief description
 
 > _Supporting data: Quote here_
 
+**6. Veterans want to keep their personal information secure but also want their information to easily port to other VA services.**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+Brief description
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+**7. Participants largely understand MFA, although several found SMS to be a hassle and a couple participants expressed extreme dislike of or anxiety around SMS MFA.**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+Brief description
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+**8. Some verbiage, terms, and phrasings caused confusion around identity, but this doesn’t have to be a hurdle for or affect credential migration.**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+Brief description
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
 
 ## Additional Insights
 
