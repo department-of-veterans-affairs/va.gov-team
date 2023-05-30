@@ -50,8 +50,8 @@ Remote location with a preferred video conferencing software as Zoom
 
 ### Research materials
 For moderated usability tests: 
-- [Link to conversation guide - TBD](Url goes here)
-- [Link to Pre-Need Pre-Integration prototype](https://vaselfservice.invisionapp.com/console/share/BGYS6FJQ49H) - This prototype contains content and accessibility enhancements that we're able to implement pre-integration without damaging our legacy system.
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/pre-integration-research-may23/pre-integration-conversation-guide.MD)
+- [Link to Pre-Need Pre-Integration usability testing prototype](TBD) - This prototype contains content and accessibility enhancements that we're able to implement pre-integration.
 	
 ## Recruitment	
 
