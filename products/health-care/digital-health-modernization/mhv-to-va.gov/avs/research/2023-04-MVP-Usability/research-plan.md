@@ -132,7 +132,7 @@ When ready, fill out that ticket with the following information:
 - Pilot: June 6, 2023
 
 ### Research sessions
-* Planned dates of research: June 14-21, 2023
+* Planned dates of research: June 14-22, 2023
 
 ### Length of sessions
 * Session length: 1 hour
@@ -141,11 +141,12 @@ When ready, fill out that ticket with the following information:
 ### Availability
 | Team Availability |  Time Slots (ET) |
 | ----------- | ----------- |
-|June 14, 2023  | ~~9:30 a.m. - 10:00 a.m. (last session can start at 10:00 a.m.), and 1:30 p.m. (last session can start at 1:30 p.m.~~|
-|June 15, 2023  | ~~9:15 a.m. - 10:00 a.m. (last session can start at 10:00 a.m.), and 2:30 p.m. (last session can start at 2:30 p.m.)~~    |
-|June 16, 2023 | ~~9:15 a.m. - 1:00 p.m.  (last session can start at 1:00 p.m.)~~|
-|June 20, 2023 |  ~~9:15 a.m. - 11:00 a.m. (last session can start at 11:00 a.m.), and 1:00 p.m. (last session can start at 1:00 p.m.)~~|
-|June 21, 2023 | ~~9:15 a.m. - 12:00 p.m. (last session can start at 12:00 p.m.), and 3:30 p.m. - 4:00 p.m.  (last session can start at 4:00 p.m.)~~  |
+|June 14, 2023  | 9:30 a.m. - 2:00 p.m. (last session can start at 2:00 p.m.)|
+|June 15, 2023  | 9:30 a.m. - 4:00 p.m. (last session can start at 4:00 p.m.)  |
+|June 16, 2023  | 11:00 a.m. - 4:00 p.m. (last session can start at 4:00 p.m.)|
+|June 20, 2023  | 9:30 a.m. - 12:00 p.m. (last session can start at 12:00 p.m.), and 2:30 p.m. (last session can start at 2:30 p.m.|
+|June 21, 2023  | 9:30 a.m. - 2:30 p.m. (last session can start at 2:30 p.m.)  |
+|June 22, 2023  | 9:30 a.m. - 2:30 p.m. (last session can start at 2:30 p.m.)  |
 
 ## Team Roles	
 
@@ -166,6 +167,7 @@ When ready, fill out that ticket with the following information:
 
 **Research Guide Writing and Task Development:**
 - Kristen McConnell	
+-  Nina Anusavice
 
 **Participant Recruiting & Screening:**	
 - Perigean
@@ -185,4 +187,4 @@ When ready, fill out that ticket with the following information:
   - Kay Laywer (katherine.lawyer@va.gov)
 
 ## Approvals
-- Reviewed and approved by Shane Strassberg on ?
+- Reviewed and approved by **XXX on** ?
