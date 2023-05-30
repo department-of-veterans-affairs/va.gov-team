@@ -116,8 +116,8 @@ Answer should be yes to satisfy criteria for screen reader.
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: sherrow_alexander@bah.com
-* Date and time of pilot session: Thursday, 6/1/23 @ 10:30am-11:30am
+* Pilot participant email: lcruz8646@gmail.com
+* Date and time of pilot session: Thursday, 6/1/23 @ 5:30pm
 
 **We also need a kick-off meeting with Perigean for recruiting as soon as possible. Our availability is flexible for this.** 
 - Requested dates/times for kick-off meeting: 
