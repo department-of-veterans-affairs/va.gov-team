@@ -68,24 +68,30 @@
 ## Warm-up: - 3 minutes
 I'd like to start by learning more about your experience reviewing information about what was discussed during your medical appointment. 
 1.	Do you, or the Veteran you care for, recall receiving paperwork as you left your appointment, or reviewing online information that provided an overview of what occurred during your medical appointment or procedure? [**Moderator Note:** Use You, or the Veteran you care for, depending on who the participant is.]  
-  * a.	[**If answered yes**, ask these questions. **Otherwise**, skip to question 2.] 
-  b.  Why did you review that paperwork or online content?
-  c.	What information did you review?
-  d.	Do you recall if any particular appointment type or procedure made you take a closer look at this paperwork or online information?
+
+    -  a.	[**If answered yes**, ask these questions. **Otherwise**, skip to question 2.] 
+  
+    -  b.  Why did you review that paperwork or online content?
+  
+    -  c.	What information did you review?
+  
+    -  d.	Do you recall if any particular appointment type or procedure made you take a closer look at this paperwork or online information?
+  
 2.	What would you call or name something like that?
 <br/>
 <br/>
 
 ## Task 1: Initial Reactions to the AVS Interface - 7 minutes
-•	Great, next I’d like to get your opinion on a prototype of a section on the VA.gov website.
-•	I'm going to send you a link to this prototype in the Zoom chat. Since this is a prototype for testing purposes only, it may not work as you may expect even though it may look like the actual VA.gov website.
-•	Okay, I've just sent you a link in the chat.  Please open the Zoom chat and click on that link. [Moderator Note: Help participant with the prototype if necessary. If the participant is unable to share their screen, then share your screen and follow the participant’s instructions.]
-•	Now pretend that today is June 1st, 2023 and you are Hector.  You had an appointment this morning at 11:00 am with Dr. Nutt, your primary care physician, at the Puget Sound VA facility. A few hours have passed since your appointment, and you forgot what your doctor's instructions were. Use this prototype to find out what Dr. Nutt and you discussed at your appointment. Please think aloud as you are trying to find this information. 
-o	[Notetaker: 1. Note where participant navigates to. 2. Note if participant navigates to “Care Summaries” or “Appointments”?]
-o	[Moderator Note: Only assist if they have difficulty locating the After-visit summary. Continue with the below questions once the participant navigates to the After-visit Summary page.]
+- 	Great, next I’d like to get your opinion on a prototype of a section on the VA.gov website.
+-  I'm going to send you a link to this prototype in the Zoom chat. Since this is a prototype for testing purposes only, it may not work as you may expect even though it may look like the actual VA.gov website.
+- Okay, I've just sent you a link in the chat.  Please open the Zoom chat and click on that link. [**Moderator Note:** Help participant with the prototype if necessary. If the participant is unable to share their screen, then share your screen and follow the participant’s instructions.]
+-	Now pretend that today is June 1st, 2023 and you are Hector.  You had an appointment this morning at 11:00 am with Dr. Nutt, your primary care physician, at the Puget Sound VA facility. A few hours have passed since your appointment, and you forgot what your doctor's instructions were. Use this prototype to find out what Dr. Nutt and you discussed at your appointment. Please think aloud as you are trying to find this information. 
+- 	[**Notetaker:** 1. Note where participant navigates to. 2. Note if participant navigates to “Care Summaries” or “Appointments”?]
+- [**Moderator Note:** Only assist if they have difficulty locating the After-visit summary. Continue with the below questions once the participant navigates to the After-visit Summary page.]
+
 1.	Please review the info on this page and share your overall impressions. Think aloud as you review. [Notetaker: Note any observations about the following things: Do they open the accordions? How far down the page do they scroll? What do they comment on as confusing or valuable without prompting?]
-a.	[Moderator Note: If participant finds anything confusing, ask the following: What do each of those terms mean to you?]
-b.	Would you use or not utilize this page and why? 
+    - a.	[**Moderator Note:** If participant finds anything confusing, ask the following: What do each of those terms mean to you?]
+    - b.	Would you use or not utilize this page and why? 
 <br/>
 <br/>
 
@@ -93,20 +99,20 @@ b.	Would you use or not utilize this page and why?
 Now, I would like you to focus on the “Your appointment on June 1, 2023” section. Please review the section and please talk aloud as you are reviewing. And then, I’ll ask you a few questions as you move through.
 1.	Can you provide an example of how you might utilize the information within this section?
 2.	Are there any terms that seem unfamiliar or confusing to you?
-a.	[Moderator Note: If participant encounters confusing or unfamiliar wording ask the following: Using your own words, how would you define those terms?]
+    - a.	[**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following: Using your own words, how would you define those terms?]
 3.	If you could provide a definition of the information that is included within the “You were diagnosed with” section, How would you define that information?
-a.	So, the naming that section “You were diagnosed with” makes sense to you, or do you think that another name or title would make more sense or be more descriptive? [Moderator Note: if need be, ask participant if “Health conditions you discussed” make more sense as a label for that section?
+    - a.	So, the naming that section “You were diagnosed with” makes sense to you, or do you think that another name or title would make more sense or be more descriptive? [**Moderator Note:** if need be, ask participant if “Health conditions you discussed” make more sense as a label for that section?
 Makes more sense than “You were diagnosed with” their feedback on the label
-b.	Then what would you call it?
-c.	How valuable or not valuable do you find this section? Why?
+    - b.	Then what would you call it?
+    - c.	How valuable or not valuable do you find this section? Why?
 4.	Next, please scroll down again. [Moderator Note: Stop them at. “Medications ordered for administration in clinic”] 
-a.	a. What does the information under “Medications ordered for administration in Clinic” mean to you? [Moderator Note: If what they describe doesn’t match the intention of the section, then ask: What if I told you that this section displays medications you took or were administered while you were at your appointment?
+    - a. What does the information under “Medications ordered for administration in Clinic” mean to you? [Moderator Note: If what they describe doesn’t match the intention of the section, then ask: What if I told you that this section displays medications you took or were administered while you were at your appointment?
 [Placeholder Note: If content comes back with other wording to try, then add that in as a question here.]
-b.	Does the “Medications ordered for administration in clinic” title makes sense considering the information that is displayed?
+    - b.	Does the “Medications ordered for administration in clinic” title makes sense considering the information that is displayed?
 5.	Ask participants to stop and open the glossary and review the information while they are talking aloud. [Moderator Note: Try to get general feedback on the glossary terms.]
-a. [Moderator Note: If participant comments on term, ask “what does that mean to you?” If what they describe doesn’t match the intention of the section, then ask: What if I told you that this section was supposed [Improvise- because the dialogue depends on the participant’s previous answer.]
+    - a. [Moderator Note: If participant comments on term, ask “what does that mean to you?” If what they describe doesn’t match the intention of the section, then ask: What if I told you that this section was supposed [Improvise- because the dialogue depends on the participant’s previous answer.]
 6.	How would useful or not useful do you find the information in “Medications ordered for administration in clinic”?
-a.	If they click on what these meds mean and we can ask them and get general feedback.
+    - a.	If they click on what these meds mean and we can ask them and get general feedback.
 <br/>
 <br/>
 
@@ -114,10 +120,10 @@ a.	If they click on what these meds mean and we can ask them and get general fee
 Now, I would like you to focus on the “Your Treatment Plan from this appointment” section. Please review this section by slowly scrolling through and thinking out loud again. 
 1.	How would you utilize the information within this section?
 2.	Are there any words that seem unfamiliar or confusing to you?
-a.	[Moderator Note: If participant encounters confusing or unfamiliar wording ask the following: What do each of those terms mean to you?]
+    - a.	[Moderator Note: If participant encounters confusing or unfamiliar wording ask the following: What do each of those terms mean to you?]
 3.	Okay great, so how would you describe the information under “Medications and Supplies”?
-a.	How does the “Medications and Supplies” information in this section differ from “Medications ordered for administration in clinic” under the previous section “Your appointment on June 1, 2023”?
-b.	[Moderator Note: If what they describe doesn’t match the intention of the section, then ask: Okay, this section was supposed to display only the medications that were given to you during the appointment?]
+    - a.	How does the “Medications and Supplies” information in this section differ from “Medications ordered for administration in clinic” under the previous section “Your appointment on June 1, 2023”?
+    - b.	[Moderator Note: If what they describe doesn’t match the intention of the section, then ask: Okay, this section was supposed to display only the medications that were given to you during the appointment?]
 c.	How valuable, or not valuable, do you find this section to be? Why?
 <br/>
 <br/>
@@ -126,22 +132,22 @@ c.	How valuable, or not valuable, do you find this section to be? Why?
 Now, I would like you to scroll to “Your key medical records”.  And again, please review this section by talking aloud while you are scrolling through.
 1.	Can you provide an example of how you might utilize the information within this section?
 2.	Are there any terms that seem unfamiliar or confusing to you?
-a.	[Moderator Note: If participant encounters confusing or unfamiliar wording ask the following: Using your own words, how would you define these terms?].
+    - a.	[Moderator Note: If participant encounters confusing or unfamiliar wording ask the following: Using your own words, how would you define these terms?].
 3.  Okay, please continue to scroll further. [Moderator Note: Stop them at “Recall Appointments”] What is your understanding of “Recall Appointments”?
-a.	[ Moderator Note: If what they describe doesn’t match the intention of the section, then ask: What if I told you that a “Recall Reminder” was created during this appointment?]
-b.	How helpful or not helpful is this information to you? Why?
-c.	[Placeholder Note: If content comes back with other wording to try, then add that in as a question here.]
+    - a.	[ Moderator Note: If what they describe doesn’t match the intention of the section, then ask: What if I told you that a “Recall Reminder” was created during this appointment?]
+    - b.	How helpful or not helpful is this information to you? Why?
+    - c.	[Placeholder Note: If content comes back with other wording to try, then add that in as a question here.]
 
 4.	Okay please scroll down a little further. Under “Problem List”, what does this information tell you? 
-a.	[ Moderator Note: If what they describe doesn’t match the intention of the section, then say: Okay, this section is supposed to display the “Problems” that were discussed during this appointment; does that make sense, or is that confusing?]
-b.	How useful or not useful do you find this information? Why?
+    - a.	[ Moderator Note: If what they describe doesn’t match the intention of the section, then say: Okay, this section is supposed to display the “Problems” that were discussed during this appointment; does that make sense, or is that confusing?]
+    - b.	How useful or not useful do you find this information? Why?
 
 
 5.	Great, please slowly scroll down again. [Moderator Note: Stop them at “My medications”] What does the “my Medications” in this section tell you?
 
-a.	How does the “My medications” information in this section differ from the information in the “medications and supplies” in the Your Treatment Plan from this appointment” section above?
-b.	How would you utilize or not utilize this information?
-c.	[Placeholder Note: If content comes back with other wording to try, then add that in as a question here.]
+    - a.	How does the “My medications” information in this section differ from the information in the “medications and supplies” in the Your Treatment Plan from this appointment” section above?
+    - b.	How would you utilize or not utilize this information?
+    - c.	[Placeholder Note: If content comes back with other wording to try, then add that in as a question here.]
 
 [Can cut questions if running late] Task 5: More Information – 5 minutes
 1.	What would you expect to find under “More Information”?
@@ -157,8 +163,8 @@ Okay let’s view information from another appointment you had in the past. How 
 1.	On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to navigate to view other information from another day?
 2.	[Moderator Note: Only ask the following questions if they are in the appointments section, skip if they are in the “care summaries” section.] 
 Please navigate back to the page with all of your appointments listed. I want to highlight some links of this page.
-a.	How would you describe what your saw under the “Past” link?
-b.	What do you expect to see if you click on the “Upcoming” link?
+    - a.	How would you describe what your saw under the “Past” link?
+    - b.	What do you expect to see if you click on the “Upcoming” link?
 c.	What do you expect to see if you click on the “Pending” link?
 <br/>
 <br/>
