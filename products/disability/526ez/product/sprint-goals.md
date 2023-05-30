@@ -30,7 +30,7 @@ Period - 06/07/2023 - 06/20/2023
 Period - 05/24/2023 - 06/06/2023
 ### Sprint goals TBD
 - **Expedited**
-   - [ ] Self-Assessment Part A to BDD 526 claims - staging review and contact center review
+   - [ ] Self-Assessment Part A to BDD 526 claims - staging review and contact center review - update BDD product guide
    - [ ] Bug - Fix - Identification issue - Update phone number on 526-EZ alert 
    - [ ] Bug - Fix - Required validation error not displaying for BDD Supporting Evidence
    - [ ] Bug - Design - Future Date of Claim issue fix
