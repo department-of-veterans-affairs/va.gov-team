@@ -43,6 +43,9 @@
 ## Notes
 
 5/31/23
+* Preferred & Gender Identity Post release Bug identified
+  * Authentication rule missed during implementation thatpreferred name and gender id updates are only available for idme and logingov user
+  * Fix put in place by BE to update policy, but an issue was identifed on Friday by QA that when attempting to update Gender identity a service call was repeatadly being made and user hangs on a loading screen.  BE fix was needed as it was released in prod.  Next steps in handling this scenario for FE.  Do we show message to user upfront that they are not able to update, do we show messaging when user attempts the update, and what type of servicing error will come back from backend.   I have reached out to the accountexp-authexp team to see how they are handling message display in prod for web [DSVA thread](https://dsva.slack.com/archives/C909ZG2BB/p1685471206085409).  
 * Ticket Management - PO approval on closing tickets not yet worked that are 1 year or older (anything older than 6/1/2022) - Adam
     * A lot has changed in the last 1 year which means they are likely outdated and will need a new ticket created with updated details and information before they can get prioritized
     * Tickets that are closed are still reecords in the system that can be reviewed if needed 
@@ -53,13 +56,23 @@
     * QA does not have enough capacity to validate all new work and catchup work 
     * Therese reviewed upcoming sprints and increased QA capacity to better align and identified projects with no QA capacity associated with them but anticipate they will 
     * Need to set up a QA sizing process 
+    * Leads need to discuss further and decide how we want to handle
+       * EVSS and SM have external deadlines 
 
 * C&P Appointments - C&P appointments are displayed in the VAOS application.   As of late April, the appointments team made some updates to the upcoming/past appt list to display Compensation & Pension as the appt type vs. the service type (i.e. Audiology & speech).  Additionally, a recent change request was implemented to not allow for these appt types to be canceled via VAOS and the user has to call the facility to make a change
   * Request for mobile to implement the above changes; originally to ensure functionality to not allow cancel, however in review it looks as though mobile needs to make additional appt list view changes to reflect the display of the appts.  Next step: priorize work/timing
   * Appt team, ticket references: [56997](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/56997)- Display C&P Appointments on the appt list(upcoming & past) and [57824](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/57824)-Set cancellable false for Comp & pension appts
-* Preferred & Gender Identity Post release Bug identified
-  * Authentication rule missed during implementation thatpreferred name and gender id updates are only available for idme and logingov user
-  * Fix put in place by BE to update policy, but an issue was identifed on Friday by QA that when attempting to update Gender identity a service call was repeatadly being made and user hangs on a loading screen.  BE fix was needed as it was released in prod.  Next steps in handling this scenario for FE.  Do we show message to user upfront that they are not able to update, do we show messaging when user attempts the update, and what type of servicing error will come back from backend.   I have reached out to the accountexp-authexp team to see how they are handling message display in prod for web [DSVA thread](https://dsva.slack.com/archives/C909ZG2BB/p1685471206085409).  
+  * We need to determine priority of this work
+
+* Check-in
+  * Veterans will need to text a VA number and VA will text them back
+  * Working on the content of the message
+  * Meko to work with Laurie on Check-in team to ensure they are creating tickets for this work
+  * Shawn also proposed sending Push Notifications
+    * Meko & Rachel to discuss further
+ 
+ * VBA had a data request last week
+  * miscommunication on this request - in the future if anyone outside of our team asks for data, include Rachel & Ryan so they can help prioritize requests
 
 5/23/23
 * Sprint 72 Planning [Mobile Team Sprint Planning - Sprint 72.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11554612/Mobile.Team.Sprint.Planning.-.Sprint.72.pdf)
