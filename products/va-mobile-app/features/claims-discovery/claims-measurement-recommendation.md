@@ -57,12 +57,11 @@ Prior **qualitative research** suggests that the biggest value Veterans find in 
   * Uploading a file to a claim was not cited as a top priority by any participants in co-design and was perceived as **somewhat useful** and most useful to send in a few files only, not a lot of files.
 
 **Quantitative data** supports this (April 11-May 22) as well:
-
 * Current use indicates the evidence upload function is not a key driver among the users where we could identify it being an option for them.
     * 34% of Claims authorized users viewed the specific details of at least one claim.
     * Only 3% of Claims authorized users viewed the specific details of a claim with an open evidence request (18.3K out of 155.2K).
         * **13% of those users started an API call to upload evidence**–but there are likely even more users with open evidence claims not attempting uploads that we can’t identify.
-            * Tracking gaps mean currently we can only know if a user had an open evidence request if they interact with the details of that specific claim.
+            * Gaps in our tracking mean that currently, we only know if a user had an open evidence request _if_ they interact with the details of that specific claim.
         * Less than 10% of users who started an upload API call received a fail at least once. **All users who attempted uploads succeeded at least once.**
 * **Current app event tracking is insufficient to understand behavior on a per claim and by claim status basis.** Without improved tracking, we will not be able to better define which behaviors correlate to useful claims monitoring (as opposed to not monitoring at all or hyper-vigilant monitoring.)
 
@@ -70,8 +69,6 @@ Prior **qualitative research** suggests that the biggest value Veterans find in 
 #### **What do we recommend?**
 
 As soon as possible, improve app tracking to enable the following metrics. All of these metrics would be looked at overall and sliced by claim stage.
-
-
 
 1. **Unchanged claim <span style="text-decoration:underline;">views</span> per month:** How many times a Veteran views a claim when no change in step has occurred?
     * **Ideal**: As close to 1:1 as possible
@@ -84,32 +81,29 @@ As soon as possible, improve app tracking to enable the following metrics. All o
     * **_Numerator_**: Total number of unique active claims with a step change viewed after that change
     * **_Denominator_**: Total number of active claims with a step change among users who navigated to the Claims feature
 3. **Average <span style="text-decoration:underline;">time</span> per claim monitored:** How much time does a Veteran spend viewing the details of an active claim?
-    * **_Ideal:_** Unknown but would be used as a point of reference for any changes to determine if those changes are increasing or decreasing the ease of monitoring.
-        * Hypothesis: We believe that we will be able to decrease this measure over time as we decrease repeat page views and surface information in more user friendly ways.
-        * This metric would be viewed overall and sliced by which step the active claim was in at the time of viewing the details.
-    * **_Numerator_**: Total time spent on Claims Details screens for active claims
-    * **_Denominator_**: Total number of active claims with Claims Details details viewed
+    * **_Ideal:_** Unknown, but would be used as a point of reference for any changes to determine if those changes are increasing or decreasing the ease of monitoring.
+        * Hypothesis: We believe that we will be able to _decrease_ this measure over time as we decrease repeat page views and surface information in more user-friendly ways.
+        * This metric would be viewed overall and sliced by which step the active claim was in at the time of viewing the Claim Details screen.
+    * **_Numerator_**: Total time spent on Claims Details screen for active claims
+    * **_Denominator_**: Total number of active claims with Claim Details viewed
 4. **Average <span style="text-decoration:underline;">time</span> to monitor change:** How much time passes between a change in step and a Veteran viewing that change?
-    * **_Ideal:_** Unknown but would be used as a point of reference for any changes to determine if those changes are increasing or decreasing the ease of monitoring.
-        * Hypothesis: We believe that we will be able to decrease this measure over time as we make it easier for Veterans to know when a step change has happened.
-        * This metric would be viewed overall and sliced by which step the active claim was in at the time of viewing the details.
-    * **_Numerator_**: Days between when the step changed and the claims detail page is viewed in app
+    * **_Ideal:_** Unknown, but would be used as a point of reference for any changes to determine if those changes are increasing or decreasing the ease of monitoring.
+        * Hypothesis: We believe that we will be able to _decrease_ this measure over time as we make it easier for Veterans to know when a step change has happened.
+        * This metric would be viewed overall and sliced by which step the active claim was in at the time of viewing the Claim Details screen.
+    * **_Numerator_**: Days between when the step changed and the Claim Details page is viewed in app
     * **_Denominator_**: Total number of active claims with a step change among users who navigated to the Claims feature
 
 
 ### **Priority 2 (Longer-term):** Understand app-specific value in empowering and personalizing Veterans’ claim monitoring experience.
 
-
 ### **Why are we making this recommendation?**
 
-Prior **qualitative data **shows us that Veterans** want help navigating the Claims process, and seek support** through channels that smartphones are able to provide direct access.
-
-
+Prior **qualitative data** suggests that **Veterans want help navigating the Claims process, and seek support** using channels that smartphones directly access.
 
 * Veterans **trust** **and want to connect one-on-one** with individuals who **know the details of their specific case** to help them.
-    * Veterans **call VA or VSO staff** or visit in person when they have **questions, need help, **or** **to** get the details they want**.
+    * Veterans **call VA or VSO staff** or visit in person when they have **questions, need help,** or to **get the details they want**.
     * Veterans use **social media and online communities** to keep in touch with others going through the process, to learn about shortcuts or alternative ways of getting things done, and to receive updates.
-    * In the original mobile app discovery research, participants said **claims support chat in an app** would be useful because it would **save time** from having to track information down from VA via phone and bring more transparency to a frustrating process.
+    * In the original mobile app discovery research, participants said **Claims support chat in an app** would be useful because it would **save time** from having to track information down from VA via phone and bring more transparency to a frustrating process.
 
 
 #### **What do we recommend?**
@@ -118,16 +112,14 @@ As soon as possible, **improve our app tracking to measure the level of engageme
 
 
 
-1. **Average number of calls made from Claims:**
+1. **Average number of calls made from Claims using the VA benefits hotline number link:**
     * **_Ideal_:** Unknown. We would need more contextual research to ascertain the pros/cons of utilization of this function for both Veterans and VA call centers.
         * Hypothesis: We believe that this is the main feature empowering the Veteran in their efforts to monitor their claim beyond what the app provides.
-    * **_Numerator:_** Number of unique claims with calls made from the Claims Details page
-    * **_Denominator:_** Number of unique claims with Claims Details page viewed
+    * **_Numerator:_** Number of unique claims with calls made from the Claim Details page
+    * **_Denominator:_** Number of unique claims with Claim Details page viewed
 
 
 #### **Next steps would include:**
-
-
 
 * Seek additional contextual data around the calls currently received regarding Claims that include the app. 
 * Plan and perform user research regarding what types of empowerment and personalization the app could provide in Claims. 
