@@ -177,6 +177,12 @@ _Why would your business want this to exist?_
  ![My VA w/onsite notifications and payments V2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/19911c5a-6d17-40f2-94a4-7cefed5d7d7f.png)
  
  </details>
+ 
+ <details><summary>Implementation of Audit UX Improvements (reduction of conditional states) -- April 2023</summary>
+ 
+ ![My VA audit UX improvements 2023](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/5ef20fa8-b0cc-4099-b8e3-df9782c71961)
+ 
+ </details>
 
 ## Front End
 
