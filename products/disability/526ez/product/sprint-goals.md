@@ -21,6 +21,7 @@ Period - 06/07/2023 - 06/20/2023
       - [ ] Intro pages - Research and interviews
       - [ ] Implementation for return URL as result of 526 flow changes 
       - [ ] 4142 - Tech dicovery for the proposed flow and wireframe designs
+      - [ ] Review BDD SHA Staging review feedback for plan around addressing design changes
       - [ ] User flow for toxic exposure screens - **stretch goal?** 
    - [ ] Analytics
       - [ ] Survey Feedback Data Analysis - Part 2
