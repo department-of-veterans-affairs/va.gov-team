@@ -41,9 +41,8 @@ Ok, it seems like we're having some trouble getting the prototype up on your scr
 
 *If yes, start recording to the Cloud.*
 
-- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen and audio as we talk today?"** 
-
-Ok. Now we're really ready to begin!
+- I have started recording. I'd like to confirm: Are you comfortable if I record my screen and audio as we talk today?"
+- Ok. Now we're really ready to begin!
 
 ## Warm-up Questions - 5 minutes
 - To start, I'd like to ask you a few warm-up questions.
