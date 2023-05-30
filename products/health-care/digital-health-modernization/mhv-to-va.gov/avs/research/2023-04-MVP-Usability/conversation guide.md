@@ -109,7 +109,7 @@ Now, I would like you to focus on the “Your appointment on June 1, 2023” sec
 Makes more sense than “You were diagnosed with” their feedback on the label
     - b.	Then what would you call it?
     - c.	How valuable or not valuable do you find this section? Why?
-4.	Next, please scroll down again. [Moderator Note: Stop them at. “Medications ordered for administration in clinic”] 
+4.	Next, please scroll down again. [**Moderator Note:** Stop them at. “Medications ordered for administration in clinic”] 
     - a. What does the information under “Medications ordered for administration in Clinic” mean to you? [**Moderator Note:** If what they describe doesn’t match the intention of the section, then ask: What if I told you that this section displays medications you took or were administered while you were at your appointment? 
 [**Placeholder Note:** If content comes back with other wording to try, then add that in as a question here.]
     - b.	Does the “Medications ordered for administration in clinic” title makes sense considering the information that is displayed?
@@ -153,7 +153,7 @@ Now, I would like you to scroll to “Your key medical records”.  And again, p
     - b.	How would you utilize or not utilize this information?
     - c.	[**Placeholder Note:** If content comes back with other wording to try, then add that in as a question here.]
 
-## [Can cut questions if running late.] Task 5: More Information – 5 minutes
+## [Can cut questions if running late] Task 5: More Information – 5 minutes
 1.	What would you expect to find under “More Information”?
 2.	Okay, go ahead and click on it and look at the whole section, and then, please share aloud what you see.
 3.	Is there anything you see that is unclear or confusing?
@@ -175,8 +175,11 @@ Please navigate back to the page with all of your appointments listed. I want to
 
 ## Task 7: Insights into Notifications – 7 minutes
 Okay, so we will move on from this prototype to another topic. We’re going to talk about notifications that you might want to receive about your After-Appointment Summaries. Pretend that you received the following message:
-**Subject:** New After-visit Summary
-**Contents:** A summary of your recent appointment(s) is now available on MyHealtheVet Login to review the summary.
+
+   **Subject:** New After-visit Summary
+   
+   **Contents:** A summary of your recent appointment(s) is now available on MyHealtheVet Login to review the summary.
+
 1.	Do you find this notification helpful or not helpful? Why?
 2.	How would you prefer to receive this notification (email, text message, phone call, etc.)?
 3.	If you had multiple appointments in one day, would you want one after appointment notification for each appointment that day or would you want all the appointments combined into one message?
