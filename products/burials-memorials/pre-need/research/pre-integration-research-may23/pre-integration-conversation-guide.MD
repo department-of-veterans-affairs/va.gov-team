@@ -19,7 +19,7 @@
 - You'll be taking a look at a prototype of the application. This prototype is basically made up of images or mockups so none of your actions will affect your actual VA information or benefits and none of your details are collected at any point or associated to your comments. As you click through the prototype, the fields will prefill with test data. 
 - If, for any reason and at any time you want to stop the session, please let me know.
 
-**I'm going to send you a link in the chat that I would like for you to open.**
+- I'm going to send you a link in the chat that I would like for you to open.
 _Can actually do this while explaining to them where to find “Chat” and “Share,” so by the end we're looking at their screen, then move onto recording._
 
 Okay, now I'm going to ask you to share your screen in Zoom so that we can look at the prototype together and then we'll begin. 
