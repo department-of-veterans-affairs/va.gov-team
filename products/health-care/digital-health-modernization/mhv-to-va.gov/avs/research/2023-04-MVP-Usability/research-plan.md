@@ -1,7 +1,5 @@
 # Research Plan for AVS on VA.gov MVP May, 2023
--  [AVS MVP Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/research/2023-04-MVP-Usability/conversation%20guide.md)
--  [AVS MVP Prototype]()
--  [AVS MVP Notetaker Participant Transcripts Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/research/2023-04-MVP-Usability/transcripts)
+
 <br/>
 
 ## Background
@@ -69,9 +67,11 @@ This research will be conducted as a remote moderated user research study that u
 ### Location
 Data collection will be remote and conducted using Zoom. 
 
-### Research materials
--	[Conversation guide]()
--	[Prototype]()
+
+## Research Materials
+-  [AVS MVP Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/research/2023-04-MVP-Usability/conversation%20guide.md)
+-  [AVS MVP Prototype]()
+-  [AVS MVP Notetaker Participant Transcripts Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/research/2023-04-MVP-Usability/transcripts)
 
 ## Recruitment
 
@@ -129,10 +129,10 @@ When ready, fill out that ticket with the following information:
 ## Timeline
 
 ### Prepare
-- Pilot: week of TBD, participant TBD
+- Pilot: June 6, 2023
 
 ### Research sessions
-* Planned dates of research: **TBD** 
+* Planned dates of research: June 14-21, 2023
 
 ### Length of sessions
 * Session length: 1 hour
