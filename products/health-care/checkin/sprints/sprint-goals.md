@@ -53,12 +53,8 @@ ________________________________________________________________________________
       - Prepare for & Release to production
           - Address 508 audit feedback (for after release) (see [process](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office))
 - **GOAL: Address tech & design debt**   
-   - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE]After check in, user should not be able to go back to questions ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58862))
-   - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Switch to need help component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58991)
-   - **Sub Goal: Prepare for Prod Support of APIs**
-       - Finalize plans for support the CHIP & LoROTA APIs in production
-           - Meet to finalize plans??
-           - Get email group associated with our SNOW assignment group   
+   - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE]After check in, user should not be able to go back to questions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58862)
+   - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Switch to need help component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58991)   
    - **Sub Goal: Onboard Lee**
        - [Platform Orientation Template [Lee Delarm]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59192)
 
