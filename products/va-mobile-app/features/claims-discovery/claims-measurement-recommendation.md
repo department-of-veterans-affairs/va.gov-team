@@ -7,7 +7,7 @@ Date: 05/24/2023
 
 ## Executive Summary
 
-This work supports [Claims Metrics / Pact Act #4078](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4078). We want to better understand and organize the metrics we collect for the Claims Tool in preparation for increased traffic due to the passing of the PACT act. The PACT act is expected to [explanation of what the expected impact of PACT act is on the app in terms of traffic].
+This work supports [Claims Metrics / Pact Act #4078](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4078). We want to better understand and organize the metrics we collect for the Claims Tool in preparation for increased traffic due to the passing of the PACT act. The PACT act adds to the list of health conditions and will therefore expand the VA healthcare and benefits for veterans exposed to burn pits, Agent Orange, and other toxic substances. 
 
 We want to set baselines prior to making changes to the tool so we can track the impact of intended improvements. The recommendations below are informed by a synthesis of [existing quantitative](https://lookerstudio.google.com/u/0/reporting/dea3ede1-2d2e-4401-abd7-a44beada8a35/page/p_2j3o3kvy4c) and [qualitative data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/claims/research%20review%20-%20claims%20status%20tool.md).
 
