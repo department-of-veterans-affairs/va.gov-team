@@ -1,4 +1,8 @@
 # Research Plan for AVS on VA.gov MVP May, 2023
+-  [AVS MVP Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/research/2023-04-MVP-Usability/conversation%20guide.md)
+-  [AVS MVP Prototype]()
+-  [AVS MVP Notetaker Participant Transcripts Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/research/2023-04-MVP-Usability/transcripts)
+<br/>
 
 ## Background
 After Visit Summaries (AVS) serve many purposes*, including:
