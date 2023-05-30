@@ -1,21 +1,43 @@
 # Sprint goals for Benefits Disability Experience Team 
 
+## Sprint 7
+Period - 06/07/2023 - 06/20/2023
+### Sprint goals TBD
+- **Expedited**
+   - [ ] Self-Assessment Part A to BDD 526 claims - Contact center review and feature launch
+   - [ ] Bug - Fix - Identification issue - Update phone number on 526-EZ alert 
+   - [ ] Bug - Fix - VAMC location field optional
+   - [ ] Bug - Discovery - 526 start - Identification error 
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration 
+        - Intent to File endpoint 
+            - [ ] Integration testing with LH in dev, sandbox and staging environments - what's left?
+        - Submit endpoint
+            - [ ] Abstract calls to endpoint 
+        - BRD
+            - [ ] Discovery - Whether EVSS is used in DisabilityCompensationFormsController (BRD)
+- **Features**
+   - Intro page changes and 526ez current with paper form
+      - [ ] Intro pages - Research and interviews
+      - [ ] Implementation for return URL as result of 526 flow changes 
+      - [ ] 4142 - Tech dicovery for the proposed flow and wireframe designs
+      - [ ] User flow for toxic exposure screens - **stretch goal?** 
+   - [ ] Analytics
+      - [ ] Survey Feedback Data Analysis - Part 2
+ 
+ 
 ## Sprint 6
 Period - 05/24/2023 - 06/06/2023
 ### Sprint goals TBD
 - **Expedited**
    - [ ] Self-Assessment Part A to BDD 526 claims - staging review and contact center review
    - [ ] Bug - Fix - Identification issue - Update phone number on 526-EZ alert 
-   - [ ] Bug - Fix - VAMC location field optional
    - [ ] Bug - Fix - Required validation error not displaying for BDD Supporting Evidence
    - [ ] Bug - Design - Future Date of Claim issue fix
-   - [ ] Bug - Discovery - 526 start - Identification error 
 - **Non-negotiable**
    - eVSS to Lighthouse Migration 
         - Intent to File endpoint 
             - [ ] Integration testing with LH in dev, sandbox and staging environments 
-        - BRD
-            - [ ] Discovery - Whether EVSS is used in DisabilityCompensationFormsController (BRD)
         - Submit endpoint
             - [ ] Discovery - What would it take to migrate the endpoint
 - **Features**
@@ -24,8 +46,7 @@ Period - 05/24/2023 - 06/06/2023
       - [ ] Research plan and screener for intro pages
       - [ ] Design for return URL as result of flow changes
       - [ ] User flow for toxic exposure screens
-   - [ ] Analytics
-      - [ ] Survey Feedback Data Analysis - Part 2
+
  
 
 ## Sprint 5
