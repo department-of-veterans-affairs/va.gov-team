@@ -200,8 +200,6 @@ Let’s look specifically at some terms used when creating or logging into an ac
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
 1. Set a clear sunset date before expecting veterans to widely change CSP.
 2. Develop a comprehensive proactive migration strategy that doesn’t rely on an interrupting modal.
 3. Better educate veterans about MFA options other than SMS
@@ -210,66 +208,115 @@ _Put together initial recommendations here based on your findings along with sup
 6. Allow veterans to reuse their information from VA as they sign up for Login.gov or ID.me
 7. Work with MHV partners to help MHV users better understand the difference between MHV the CSP vs MHV as the place to go
 
+## Recommendations Detailed
+
+**1. Set a clear sunset date before expecting veterans to widely change CSP.**
+- Supported by Hypotheses 3 and 6 and Key Findings 4 and 6
+- Builds on Deferred Identity Proofing Recommendation 2
+- The direct impact of proactive migration work will likely be minimal. Most veterans prefer to keep their current way of signing in. Even those who are open to migrating are not likely to do so unless they are forced to, like with knowing a sunset date. The proactive migration strategy should be seen as a way to prepare veterans and begin to set their expectations, and not as a way to migrate a significant number of folks to a modern CSP.
+
+**2. Develop a comprehensive proactive migration strategy that doesn’t rely on an interrupting modal.**
+- Supported by Hypotheses 3, 4, and 6 and Key Findings 1 and 2
+- Builds on Deferred Identity Proofing Recommendation 2, 7, and 8 and Adoption Discovery Recommendation 1
+- Most of the veterans we talked with viewed this modal as an inconvenience and an interruption to their task at hand. A modal is not a winning strategy for Proactive Migration. Some alternative communications channels to a modal right after inputting credentials
+   - An interstitial page veterans see after selecting DS Login option, but before inputting their credentials or being signed in.
+   - Information in a banner or other information sharing way that aligns with the VA design system.
+- A comprehensive proactive migration communications strategy as part of a combined communications roadmap
+- Research what migration incentives are most persuasive for veterans. A couple veterans we talked with were interested in the suggestion to change CSPs, but didn’t feel like there was enough benefit to them at this time.
+   - This will help us develop more persuasive language 
+- This communications strategy could include email, postal mail, blogs, social media, and physical signage at VA facilities. Subjects should include the Intersecting topics of Login.gov as a way to sign in and not place to go and not blatantly preferring Login.gov to ID.me
+- Target proactive migration communications to veterans who already have an ID.me or Login.gov account and offer them a clear call to action.
+   - Direct those with ID.me IAL1 or no drivers license to ID.me
+   - Direct others to Login.gov
+   - Explore ways to segment veterans and automating communications on which option will be best for them
+- Don’t blatantly prefer login.gov or ID.me externally since this can cause future issues. Instead direct veterans based on their situation like an existing account or what type of ID they have.
+- Better educate veterans on the difference between how they access, or their sign in method, and where they go
+
+
+**3. Better educate veterans about MFA options other than SMS**
+- See Hypothesis 1 and Key Finding 8
+- Builds on Adoption Discovery Recommendation 6
+- Utilize FAQs and the overall identity communication strategy to educate folks who are apprehensive about using SMS as their MFA method. Some who don’t see SMS as secure enough or who get anxious around the short time to input the SMS-sent code could benefit from using another method and have a better overall sign in experience.
+
+
+**4. Better label Login.gov as a partner, not part of VA**
+- See Hypothesis 2 and Key Finding 3
+- Builds on Deferred Identity Proofing Recommendation 4 
+- Most veterans we spoke with who were unfamiliar with Login.gov assumed it was a service that was controlled or owned by the VA. Clearly designating this has potential to clear up multiple confusion points like where to go for sign in help and who has access to or is storing personal information.
+
+
+**5. Update the approach used with some identity related terminology and verbiage usage**
+- See Hypothesis 1 and Key Finding 2, 6, 7, and 8
+- Builds on Deferred Identity Proofing Recommendation 3 
+- Create guidance on a consistent, shared set of verbiage across all communication channels and across all Identity teams for both external and internal communications
+   - This research will feed into the effort that Sitewide Content team with the VA content brief for sign in and identity verification
+- Multi factor authentication - as long as this phrase is used in context, no change is needed based on this research. Veterans are largely familiar with this phrase specifically in relation to SMS Multi factor authentication.
+- Verification - use clear context when communicating about this term. Many veterans interchange this term with the term authentication and see it either expressing a similar idea or don’t see it having the same definition as VA Identity teams. Still we don’t see this being a major hurdle to veterans migrating CSPs or ID proofing a modern CSP account they already have so long as communications use context clues. 
+   - Examples “verify your account by proving your address” or ““verify your identity by submitting a photo ID” are better than “verify your account” or “ID proof”
+- Upgrade - should not be used to describe migrating CSPs. Veterans see it as disingenuous in this context since the don’t see this as a clear upgrade. Other terms like “change” or “new” when referring to migrating accounts may work better.
+- VA online tools - should not use this term in the context of identity communications or CSP migration when we’re already presenting new or difficult concepts. Even veterans who seem to understand the VA’s use of this phrasing got hung up on it. Most of the veterans we talked with did not have a clear understanding of the meaning or didn’t feel like this was the clearest most understandable phrase to use.
+For internal communications Identity teams should also stick to settled-on terms to reduce internal confusion.
+
+
+**6. Allow veterans to reuse their information from VA as they sign up for Login.gov or ID.me**
+- See Hypotheses 2 and 6 and Key Finding 5
+- The Core Identity Team had previously worked with Login.gov on a way to autofill veteran information as they sign up for a new account. At the time it was viewed as not a priority for resource allocation and so was shelved. We recommend picking this work back up and to clearly give veterans the option to use their information from the VA to autofill over on Login.gov to reduce the burden on signing up for an account.
+
+
+**7. Work with MHV partners to help MHV users better understand the difference between MHV the CSP vs MHV as the place to go**
+- See Hypothesis 2 and Key Findings 3 and 4
+- This work will ultimately be up to our MHV partners, but among our suggestions is to look into reducing the sign in options from the 3 to just the one, the one they’ll see when MHV moves over to VA.gov. This can help prepare them for what to expect as we move forward. 
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+Continue tickets that have come out of this research, including setting up additional research
 
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+- Why veterans who have successfully set up either an ID.me or Login.gov account revert back to using MHV or DSLogin as their CSP
+- How many veterans have multiple CSP and which one do they actively use
+- What veteran segments make the most sense for automating communications about migration?
+- What language will be more persuasive to each veteran segment?
 
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/2023-04%20Proactive%20CSP%20Migration%20research%20plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/2023-04%20Proactive%20CSP%20Migration%20conversation%20guide.md)
 
-[Interview transcripts](link here)
+[Session notes](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1681396854554/ff9d23f8eef22907cccb8d45cf46f81f5686684d?sender=u6c46f747a0483ea836054483)
+
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Mural Board](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1681396854554/ff9d23f8eef22907cccb8d45cf46f81f5686684d?sender=u6c46f747a0483ea836054483)
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+[prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979)
 
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
+
 
 **Recruitment criteria**
 
-This study recruited for mobile users, with a recent sign in to the VA online. We were particularly interseted in veterans who sign in using DSLogon or My HealtheVet login CSPs. For diversity and inclusion (based on gaps of two recent identity related studies) we requested veterans with cognitive disability, 
-who are LGBTQ+, and who have immigrant origin. Unfortunately we didn't talk with anyone with immigrant origin, but recruitment surpassed our request with cognative disability and LGBTQ+ participants.
+We recruited specifically for veterans who use DS Login or MHV credentials to sign in to the VA and who don’t use Login.gov or ID.me credentials to sign in to the VA.
 
-Note: while we didn't specify recruitment goals for age, it so happened that all of this studies participants are 55+
+Based on gaps in recent related Identity research we recruited for mobile users, cognitive disabilities, and LGBTQ+ veterans. While we didn't specify recruitment goals for age, it so happened that all of this studies participants are 55+
 
-We talked to **14 participants.**
+We talked to **14 participants** out of 15 recruited
 
 Audience segment:
 * Veterans: 14 
-* Caregivers: 0 
-* Family members of a Veteran: 2
+* Caregivers: 2 (we didn't speficially recruit for or discuss topic related to caregiving) 
+* Family members of a Veteran: 2 (we didn't speficially recruit for or discuss topic related to family memebers of veterans)
 
 
 Gender:
@@ -284,7 +331,7 @@ LGBTQ+:
 
 
 Devices used during study: 
-* Desktop: 0
+* Desktop: 10
 * Tablet: 1
 * Smart phone: 3 
 * Assistive Technology: 0
@@ -294,9 +341,9 @@ Age:
 * 25-34: 0
 * 35-44: 0
 * 45-54: 0
-* 55-65: 7
+* 55-65: 6
 * 65+: 7
-* Unknown: 0
+* Unknown: 1
 
 
 Education:
