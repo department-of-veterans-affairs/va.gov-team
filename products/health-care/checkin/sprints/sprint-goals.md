@@ -13,15 +13,11 @@ ________________________________________________________________________________
      - **Sub Goal: [Address IA/Content/A11y Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57441)**     
      - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**   
      - **Sub Goal: Analyze current metrics to see what they tell us** 
-- **GOAL: Address tech & design debt**
-     - **Sub Goal: Prepare for Prod Support of APIs**
-
-- Added on 5/23
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
-
- - After check in, user should not be able to go back to questions [#58862](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58862)
- - Platform Orientation Template [Lee Delarm] [#59192](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59192) 
+- **GOAL: Address tech & design debt**
+     - **Sub Goal: Prepare for Prod Support of APIs**
+     - **Sub Goal: Onboard Lee**
 
 #### PLANNED RELEASES 
 - None
@@ -31,8 +27,7 @@ ________________________________________________________________________________
    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59241)   
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Explore reducing friction between travel questions and appointments list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59115)
-       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Add hypen to "in person" on appt detail page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59082)
-       
+       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Add hypen to "in person" on appt detail page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59082)     
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**      
         - TBD
@@ -46,21 +41,18 @@ ________________________________________________________________________________
    - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58666)   
-- **GOAL: Address tech & design debt**   
-   - **Sub Goal: Prepare for Prod Support of APIs**
-       - Finalize plans for support the CHIP & LoROTA APIs in production
-           - Meet to finalize plans
-           - Get email group associated with our SNOW assignment group
-
-Added on 5/23
 - **GOAL: Standardize how Veterans see their appointment information across all Veteran-facing applications**
    - **Sub Goal: [Make Appointment Info & Visual Design Consistent with VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45315)**
       - Prepare for & Release to production
           - Address 508 audit feedback (for after release) (see [process](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office))
-
-- [#58862](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58862)  [[FE]After check in, user should not be able to go back to questions ]
-- [#59192](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59192) (Platform Orientation Template [Lee Delarm])
-
+- **GOAL: Address tech & design debt**   
+   - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE]After check in, user should not be able to go back to questions ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58862))
+   - **Sub Goal: Prepare for Prod Support of APIs**
+       - Finalize plans for support the CHIP & LoROTA APIs in production
+           - Meet to finalize plans??
+           - Get email group associated with our SNOW assignment group   
+   - **Sub Goal: Onboard Lee**
+       - [Platform Orientation Template [Lee Delarm]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59192)
 
 ---------------------- END FUTURE / TENTATIVE ---------------------------------
 __________________________________________________________________________________________________________________________________________________________
