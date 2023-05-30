@@ -7,7 +7,7 @@ Date: 05/24/2023
 
 ## Executive Summary
 
-This work supports [Claims Metrics / Pact Act #4078](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4078), in an effort to set baselines prior to making changes to the VA mobile app’s Claims Status tool so we can track improvement. The recommendations are informed by a synthesis of [existing quantitative](https://lookerstudio.google.com/u/0/reporting/dea3ede1-2d2e-4401-abd7-a44beada8a35/page/p_2j3o3kvy4c) and [qualitative data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/claims/research%20review%20-%20claims%20status%20tool.md).
+This work supports [Claims Metrics / Pact Act #4078](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4078), in an effort to set baselines prior to making changes to the VA mobile app’s Claims Status tool so we can track the impact of intended improvements. The recommendations are informed by a synthesis of [existing quantitative](https://lookerstudio.google.com/u/0/reporting/dea3ede1-2d2e-4401-abd7-a44beada8a35/page/p_2j3o3kvy4c) and [qualitative data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/claims/research%20review%20-%20claims%20status%20tool.md).
 
 
 ### **Priority 1:** Improve app event tracking of Veteran claim-monitoring behaviors, surface improved success metrics, and evaluate future design improvements based on these metrics.
