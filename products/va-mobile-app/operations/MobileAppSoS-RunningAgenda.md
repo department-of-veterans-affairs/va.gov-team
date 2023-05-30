@@ -56,6 +56,8 @@
 
 * C&P Appointments - C&P appointments are displayed in the VAOS application.   As of late April, the appointments team made some updates to the upcoming/past appt list to display Compensation & Pension as the appt type vs. the service type (i.e. Audiology & speech).  Additionally, a recent change request was implemented to not allow for these appt types to be canceled via VAOS and the user has to call the facility to make a change
   * Request for mobile to implement the above changes; originally to ensure functionality to not allow cancel, however in review it looks as though mobile needs to make additional appt list view changes to reflect the display of the appts.  Next step: priorize work/timing
+  * Appt team, ticket references: [56997](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/56997)- Display C&P Appointments on the appt list(upcoming & past) and [57824]([Set Cancellale:false](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/57824)-Set cancellable false for Comp & pension appts
+  * 
 
 5/23/23
 * Sprint 72 Planning [Mobile Team Sprint Planning - Sprint 72.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11554612/Mobile.Team.Sprint.Planning.-.Sprint.72.pdf)
