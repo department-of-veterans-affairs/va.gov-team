@@ -14,11 +14,7 @@ This work supports [Claims Metrics / Pact Act #4078](https://github.com/departme
 
 **LOE:** Low
 
-
 ##### Steps:
-
-
-
 1. Add additional event tracking to calculate monthly averages for:
     1. How many times a Veteran views a claim when no change in step has occurred
     2. How many claims Veterans view that have had a change in step
@@ -34,11 +30,7 @@ This work supports [Claims Metrics / Pact Act #4078](https://github.com/departme
 
 **LOE:** High
 
-
 ##### Steps:
-
-
-
 1. Add additional event tracking.
 2. Seek additional contextual data around the calls currently received regarding Claims that include the app. 
 3. Plan and perform user research regarding what types of empowerment and personalization the app could provide in Claims. 
@@ -53,21 +45,17 @@ This work supports [Claims Metrics / Pact Act #4078](https://github.com/departme
 
 ### **Priority 1:** Improve app event tracking of Veteran claim-monitoring behaviors to inform qualitative research and to evaluate future design improvements.
 
-
 #### **Why are we making this recommendation?**
 
 Prior **qualitative research** suggests that the biggest value Veterans find in the app having Claims information is **being able to monitor their claims and knowing when they need to take action** in order to keep the Claims process moving along.
 
-
-
 * Veterans want to know **what’s going on** with their claim, **how long it will take**, what they **need to do**, and what **VA needs from them** so that they can keep the Claims process moving.
-    * Veterans think about claim status in terms of **what’s currently being done to the claim,** the **outcome** of the claim, and the **items and actions** standing in the way of gaining a favorable determination. They want to **see actionable items and  blockers.**
     * They **check the status of their claims frequently and through multiple channels** (including the mobile app) in the hope that they can **find better or more up-to-date information.**
     * They also check multiple sources for the most up to date Claims status information **because they don’t trust the accuracy of the claim status** they see on VA digital tools (in part because the various **sources of information at VA sometimes have different statuses** for the same claim).
+* Veterans think about claim status in terms of **what’s currently being done to the claim,** the **outcome** of the claim, and the **items and actions** standing in the way of gaining a favorable determination. They want to **see actionable items and  blockers.**
+  * Uploading a file to a claim was… not cited as a top priority by any participants in co-design and was perceived as **somewhat useful** and most useful to send in a few files only, not a lot of files.
 
 **Quantitative data** supports this (April 11-May 22) as well:
-
-
 
 * Current use indicates the evidence upload function is not a key driver among the users where we could identify it being an option for them.
     * 34% of Claims authorized users viewed the specific details of at least one claim.
