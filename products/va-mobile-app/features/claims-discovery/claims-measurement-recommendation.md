@@ -62,7 +62,6 @@ Prior **qualitative research** suggests that the biggest value Veterans find in 
 
 * Veterans want to know **what’s going on with their claim**, how long it will take, what **they** **need to do**, and what **VA needs from them** so that they can keep the Claims process moving.
     * Veterans think about claim status in terms of **what’s currently being done to the claim,** the **outcome** of the claim, and the **items and actions** standing in the way of gaining a favorable determination. They want to **see actionable items and  blockers.**
-        * Uploading a file to a claim was… not cited as a top priority by any participants in co-design and was perceived as somewhat useful and most useful to send in a few files only, not a lot of files.
     * They **check the status of their claims frequently** and through multiple channels (including the mobile app) in the hope that **they can find better or more up-to-date information.**
     * They also **check multiple sources** for the most up to date Claims status information **because they don’t trust the accuracy of the claim status** they see on VA digital tools (in part because the various **sources of information at VA sometimes have different statuses** for the same claim).
 
