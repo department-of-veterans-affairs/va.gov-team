@@ -25,9 +25,9 @@ This work supports [Claims Metrics / Pact Act #4078](https://github.com/departme
     3. Total amount of time a Veteran viewed the details of an active claim
     4. Total amount of time that passes between a change in step and a Veteran viewing that change 
 2. Once tracking is in place and at least 30 days of data is available, analyze results against our hypothesis (see detailed summary for more information).
-3. Use improved metrics to recommend:
-    5. Any immediate design change bets we can make and test.
-    6. If necessary, qualitative research to clarify any other design change bets where the metrics and existing research do not provide sufficient information on.
+3. Use improved metrics to recommend:   
+    1. Any immediate design change bets we can make and test.  
+    2. If necessary, qualitative research to clarify any other design change bets where the metrics and existing research do not provide sufficient information on.
 
 
 ### **Priority 2:** Understand app-specific value in empowering and personalizing Veterans’ claim monitoring experience.
