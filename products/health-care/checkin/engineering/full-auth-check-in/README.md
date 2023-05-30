@@ -35,8 +35,8 @@ sequenceDiagram
     vam-->>vet: If insurance needs validation prompt to check-in with staff.<br /> If demographics need confirmation present those screens.<br /> If no input needed proceed with checking patient in.
     vet-->>vam: Completes demographics confirmation if needed
     vam->>va: If updating demogrpahics status send timestamps.<br />Send check-in to appointment.
-    va->>chip: Patch demographic statuses if needed
-    chip->>va: Demographics response if sent
+    va-->>chip: Patch demographic statuses if needed
+    chip-->>va: Demographics response if sent
     va->>chip: Send check-in for appointment 
     chip->>va: Check-in response
     va->>vam: Check-in and demographics respnonse
