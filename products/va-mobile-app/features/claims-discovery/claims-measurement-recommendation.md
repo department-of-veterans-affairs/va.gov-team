@@ -56,7 +56,7 @@ This work supports [Claims Metrics / Pact Act #4078](https://github.com/departme
 
 #### **Why are we making this recommendation?**
 
-Prior **qualitative research** implies that the biggest value Veterans find in the app having Claims information is **being able to monitor their claims and knowing when they need to take action** in order to keep the Claims process moving along.
+Prior **qualitative research** suggests that the biggest value Veterans find in the app having Claims information is **being able to monitor their claims and knowing when they need to take action** in order to keep the Claims process moving along.
 
 
 
