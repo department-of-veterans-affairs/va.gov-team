@@ -11,7 +11,7 @@ The benefits team has created a new endpoint in vets-api accessible at `v0/benef
 ### Resources
 - The backend code is [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/benefits_claims_controller.rb)
 - Currently, the Swagger docs for this endpoint in vets-api does not exist
-- We were told that this endpoint responds the same way as the upstream [Lighthouse API](https://developer.va.gov/explore/benefits/docs/claims?version=current)
+- We were told that this endpoint responds the same way as the upstream Lighthouse API [`/veterans/{veteranId}/claims`](https://developer.va.gov/explore/benefits/docs/claims?version=current)
 - This Slack [thread](https://dsva.slack.com/archives/C04KHCT3ZMY/p1685473250891719) has more information from the benefits team #benefits-ce-mgmt_tools
 
 ## Frontend
