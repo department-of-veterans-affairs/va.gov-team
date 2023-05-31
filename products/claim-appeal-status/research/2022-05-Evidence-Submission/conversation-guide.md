@@ -1,4 +1,4 @@
-# # Conversation Guide: Evidence Submission Usability Testing (WIP)
+# Conversation Guide: Evidence Submission Usability Testing (WIP)
 
 Benefits Team 1 · June 2023
 
