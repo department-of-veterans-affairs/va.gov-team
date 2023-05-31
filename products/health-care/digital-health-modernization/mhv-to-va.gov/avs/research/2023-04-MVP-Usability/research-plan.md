@@ -174,7 +174,7 @@ When ready, fill out that ticket with the following information:
 - TBD
 
 **Note-takers:**
-- TBD
+- Perigean
 
 **Observers:**	
   - Adrian Rollett (adrian.rollett@va.gov)
@@ -185,4 +185,4 @@ When ready, fill out that ticket with the following information:
   - Kay Laywer (katherine.lawyer@va.gov)
 
 ## Approvals
-- Reviewed and approved by **XXX on** ?
+- Reviewed and approved by **Shane Strassberg on** ?
