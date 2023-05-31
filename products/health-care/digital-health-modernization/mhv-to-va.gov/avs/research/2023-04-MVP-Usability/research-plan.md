@@ -91,9 +91,12 @@ When ready, fill out that ticket with the following information:
   - What age do you want your participants to be? Various (a mix of all below)
 - Race 
   - What race do you want your participants to be? Various (a mix of all below)
-  - If you choose, provide exact number you want applied for each checked race. Black 3
+  - If you choose, provide exact number you want applied for each checked race. Black: 3
 - Residence
-  - Where do you want participants to live? Various
+  - Where do you want participants to live? Various (a mix of all below): 1
+- LGBTQ+
+  -What lgbtq-plus group do you want your participants to be?
+  -If you choose, provide exact number you want applied for each checked race?
 - Education
   - What education level do you want your participants to have? Various
 - Benefits
