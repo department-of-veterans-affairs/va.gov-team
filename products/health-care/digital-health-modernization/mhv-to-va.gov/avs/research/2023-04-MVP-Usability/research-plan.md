@@ -93,10 +93,10 @@ When ready, fill out that ticket with the following information:
   - What race do you want your participants to be? Various (a mix of all below)
   - If you choose, provide exact number you want applied for each checked race. Black: 3
 - Residence
-  - Where do you want participants to live? Various (a mix of all below): 1
+  - Where do you want participants to live? Various (a mix of all below)
 - LGBTQ+
-  -What lgbtq-plus group do you want your participants to be?
-  -If you choose, provide exact number you want applied for each checked race?
+  - What LGBTQ-plus group do you want your participants to be?  Various (a mix of all below)
+  - If you choose, provide exact number you want applied for each checked race. 1 participant across any designations.
 - Education
   - What education level do you want your participants to have? Various
 - Benefits
@@ -109,20 +109,37 @@ When ready, fill out that ticket with the following information:
 - Device for Session
   - What device should the participant have experience with and use in the session? Smartphone 
 
+
 ### Screener for all participants
-1. Please make sure that ALL participants are willing to complete their interview **on the device they specified when recruited** and:
-    - During the session, are willing to share over Zoom a web browser window on their device
-    - Have a working microphone on their device
-    - Have Zoom downloaded to their device prior to the session and know how to share their screen
+**Recruiting Notes:**
+1. Please ensure that you recruit 2-3 Cognitive Impaired Veterans, or Veteran's Caregivers, across any designations. 
+
+2.  Please ensure that ALL participants are willing to complete their interview on the device they specified when recruited and:
+
+    -  During the session, are willing to share over Zoom a web browser window on their device
+    -  Have a working microphone on their device
+    -  Have Zoom downloaded to their device prior to the session and know how to share their screen
+    
+
+**Participant Screener Questions:**
+    
+ 1.  Are you willing to use your smartphone to log into Zoom and perform tasks for this usability test session?
+ 
+     - Yes, (eligible)
+     - No,  (not eligible)
 
 2. Have you been to a doctor's appointment within the last 12 months?
-    - Yes at VA (eligible, recruit 10)
-    - Yes at a non-VA facility (eligible, recruit 5)
-    - No (not eligible)
 
+    - Yes,  at VA (eligible, recruit 10)
+    - Yes, at a non-VA facility (eligible, recruit 5)
+    - No, (not eligible)
+    
 3. Have you received a printed summary of your visit as you were leaving your appointment or have you reviewed a visit summary online within the past 12 months?
-    - Yes (eligible, recruit 11)
-    - No (eligible, recruit 4)
+
+    - Yes, (eligible)
+    - No,  (not eligible)
+
+
 
 ## Timeline
 
