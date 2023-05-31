@@ -145,7 +145,7 @@ Availability for a kick-off call:
 |June 13  | 9am-6pm | Screenreaders between 9-6pm, support by Sara.Smith@oddball.io and/or angela.fowler@adhocteam.us |
 |June 14  | 9am-6pm | Screenreaders between 9-1pm and 2-5pm support by Sara.Smith@oddball.io and/or angela.fowler@adhocteam.us |
 |June 15  | 9am-6pm | Screenreaders between 10-2pm, support by angela.fowler@adhocteam.us  |
-|June 16  | 9am-6pm | Screenreaders between 1-6pm |
+|June 16  | 9am-6pm | Screenreaders between 1-6pm, support by angela.fowler@adhocteam.us |
 |June 17-18  | 9am-6pm | No screenreader sessions |
 |June 20  | 9am-6pm | Screenreaders between 9-6pm and 3-5pm, support by Sara.Smith@oddball.io and/or angela.fowler@adhocteam.us|
 
