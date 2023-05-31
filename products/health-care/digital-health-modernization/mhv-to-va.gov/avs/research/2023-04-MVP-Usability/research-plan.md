@@ -78,7 +78,7 @@ Data collection will be remote and conducted using Zoom.
 We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. 
 
 ## Recruitment criteria
-[Link to recruitment request ticket]( https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/new?assignees=sstrassberg&labels=recruitment-criteria&template=recruitment+criteria.yaml&title=%5BRecruitment+Request%5D%3A+YYYY-MM+name+of+your+study)
+[Link to recruitment request ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/326)
 
 When ready, fill out that ticket with the following information:
 - How many participants do you want in your study? 15
