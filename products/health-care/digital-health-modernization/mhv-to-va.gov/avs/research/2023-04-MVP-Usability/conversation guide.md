@@ -2,8 +2,6 @@
 -  [AVS MVP Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/research/2023-04-MVP-Usability/research-plan.md)
 -  [AVS MVP Prototype](https://www.figma.com/proto/VHHxvo1QA1ndWc0TBhfkNq/Add-After-Visit-Summary?page-id=2%3A3&type=design&node-id=1233-16119&viewport=-892%2C210%2C0.4&scaling=scale-down&starting-point-node-id=1233%3A16119)
 -  [AVS MVP Notetaker Participant Transcripts Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/research/2023-04-MVP-Usability/transcripts)
-    
-<br/>
 
 ## Moderator Logistics
 -	2-3 days before the session
@@ -11,7 +9,6 @@
 -	Send guidelines for notetakers
 -	Send guidelines for observers
 -	Ensure prototype(s) are prepared and Perigean will share them with participants
-<br/>
 
 ## Day of the Session
 -	Prepare prototype on your device and be ready for screen sharing if necessary
@@ -28,7 +25,6 @@
 -	You can only record the session if the participant gives you permission to record. Once you start recording, you must let the participant know they're being recorded and have them acknowledge that they give permission. Remember to hit record to cloud.
 -	Ask if participants are okay with notetakers and observers joining the session. If they are, add them to the meeting and ensure they are on camera with their name visible on the screen. Introduce them to the participant. Then, ask all third parties to turn off their cameras so you can begin.
 -	Ensure everyone except the participant is on mute.
-<br/>
 
 ## Agenda - 60 minutes
 - Introduction: 5 minutes
@@ -42,8 +38,6 @@
 -	Task 7: Insights into Notifications – 7 minutes
 -	Closing Questions: 3 minutes
 -	Thank you: 2 minutes
-<br/>
-
 
 ## Introduction - 5 minutes
 1.	Thanks for joining us today! My name is [**YOUR NAME**] and I'm a researcher at the VA.
@@ -62,24 +56,15 @@
 14.	**If yes:** Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 15.	**Start recording.**
 16.	I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-<br/>
-
 
 ## Warm-up: - 3 minutes
 I'd like to start by learning more about your experience reviewing information about what was discussed during your medical appointment. 
 1.	Do you, or the Veteran you care for, recall receiving paperwork as you left your appointment, or reviewing online information that provided an overview of what occurred during your medical appointment or procedure? [**Moderator Note:** Use You, or the Veteran you care for, depending on who the participant is.]  
-
-    -  a.	[**If answered yes**, ask these questions. **Otherwise**, skip to question 2.] 
-  
-    -  b.  Why did you review that paperwork or online content?
-  
-    -  c.	What information did you review?
-  
-    -  d.	Do you recall if any particular appointment type or procedure made you take a closer look at this paperwork or online information?
-  
+    -  a.	[**If answered yes**, ask these questions. **Otherwise**, skip to question 2.]  
+    -  b.  Why did you review that paperwork or online content? 
+    -  c.	What information did you review?  
+    -  d.	Do you recall if any particular appointment type or procedure made you take a closer look at this paperwork or online information?  
 2.	What would you call or name something like that?
-<br/>
-
 
 ## Task 1: Initial Reactions to the AVS Interface - 7 minutes
 - 	Great, next I’d like to get your opinion on a prototype of a section on the VA.gov website.
@@ -92,7 +77,6 @@ I'd like to start by learning more about your experience reviewing information a
 1.	Please review the info on this page and share your overall impressions. Think aloud as you review. [**Notetaker:** Note any observations about the following things: Do they open the accordions? How far down the page do they scroll? What do they comment on as confusing or valuable without prompting?]
     - a.	[**Moderator Note:** If participant finds anything confusing, ask the following: What do each of those terms mean to you?]
     - b.	Would you use or not utilize this page and why? 
-<br/>
 
 ## Task 2: Your appointment on June 1, 2023 - 7 minutes  
 Now, I would like you to focus on the “Your appointment on June 1, 2023” section. Please review the section and please talk aloud as you are reviewing. And then, I’ll ask you a few questions as you move through.
@@ -112,7 +96,6 @@ Makes more sense than “You were diagnosed with” their feedback on the label
     - a. [**Moderator Note:** If participant comments on term, ask “what does that mean to you?” If what they describe doesn’t match the intention of the section, then ask: What if I told you that this section was supposed [*Improvise-** because the dialogue depends on the participant’s previous answer.]
 6.	How would useful or not useful do you find the information in “Medications ordered for administration in clinic”?
     - a.	If they click on what these meds mean and we can ask them and get general feedback.
-<br/>
 
 ## Task 3: Your Treatment Plan from this appointment - 7 minutes
 Now, I would like you to focus on the “Your Treatment Plan from this appointment” section. Please review this section by slowly scrolling through and thinking out loud again. 
@@ -123,7 +106,6 @@ Now, I would like you to focus on the “Your Treatment Plan from this appointme
     - a.	How does the “Medications and Supplies” information in this section differ from “Medications ordered for administration in clinic” under the previous section “Your appointment on June 1, 2023”?
     - b.	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then ask: Okay, this section was supposed to display only the medications that were given to you during the appointment?]
 c.	How valuable, or not valuable, do you find this section to be? Why?
-<br/>
 
 ## Task 4: Your key medical records– 10 minutes
 Now, I would like you to scroll to “Your key medical records”.  And again, please review this section by talking aloud while you are scrolling through.
@@ -148,8 +130,6 @@ Now, I would like you to scroll to “Your key medical records”.  And again, p
 3.	Is there anything you see that is unclear or confusing?
 4.	Is there anything you’d add or take away from that information?
 5.	Let’s scroll to the “More help and health information” section. Is there anything you’d like to see added to that section?
-<br/>
-<br/>
 
 ## Task 6: Navigating to Another AVS – 10 minutes
 Okay let’s view information from another appointment you had in the past. How would you go about doing that? [**Notetaker:** Observe how the participant navigates to previous pages. Do they use the browser’s back feature, breadcrumbs, or the menu’s sub-navigation. Do they have difficulty finding another After-Visit Summary?]
@@ -159,8 +139,6 @@ Please navigate back to the page with all of your appointments listed. I want to
     - a.	How would you describe what your saw under the “Past” link?
     - b.	What do you expect to see if you click on the “Upcoming” link?
     - c.	What do you expect to see if you click on the “Pending” link?
-<br/>
-
 
 ## Task 7: Insights into Notifications – 7 minutes
 Okay, so we will move on from this prototype to another topic. We’re going to talk about notifications that you might want to receive about your After-Appointment Summaries. Pretend that you received the following message:
@@ -172,21 +150,17 @@ Okay, so we will move on from this prototype to another topic. We’re going to 
 1.	Do you find this notification helpful or not helpful? Why?
 2.	How would you prefer to receive this notification (email, text message, phone call, etc.)?
 3.	If you had multiple appointments in one day, would you want one after appointment notification for each appointment that day or would you want all the appointments combined into one message?
-<br/>
 
 ## Closing Questions – 3 minutes
 1.	If you could change one thing about the After Appointment Visit summary, what would that be?
 2.	And lastly, do you have any questions for me?
 3.	Okay, great! That is all the questions I have for you today.
-<br/>
 
 ## Thank you - 2 minutes
 1.	We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 2.	Before you go, I do want to make sure it's clear that everything we did today wasn't real. And you haven’t really accessed your VA.gov account.
 3.	Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 4.	Thank you so much for your time today, and enjoy the rest of your day!
-<br/>
-<br/>
 
 ## Emergency Exit
 - Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
