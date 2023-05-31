@@ -1,8 +1,19 @@
 # Opportunities to enhance the personalized experience on VA.gov
-Last update: 5/31/2023
+Last update: 6/1/2023
 
 ## Overview
-We [completed research in April 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research#research-outline-identifying-issues-and-challenges-people-have-finding-tasks-when-they-are-signed-in-to-vagov) and identified opportunities to enhance the personalized experience on VA.gov.  Many approaches are not feasible at the moment for various reasons, but we’d like to revisit them at a future time.
+We [completed research in April 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research#research-outline-identifying-issues-and-challenges-people-have-finding-tasks-when-they-are-signed-in-to-vagov) and identified opportunities to enhance the personalized experience on VA.gov.   In June 2023, we’re going to focus our work on two opportunities we’ve identified as initial steps toward enhancing the personalized UX.
+1. Adding items to profile (details)
+2. 
+
+Many other approaches we’ve discussed are outlined below so we can  revisit them in the future.
+
+## My VA / Profile
+### Add items to profile that people have a hard time finding on the site
+- We’ve received requests from other teams to add dependents in the past, and learned in research that people have a hard time finding this information.
+- Records is another part of the site that is a mixed bag, and there are a few items that may make sense to link in the auth experienced: benefit letters, Veteran ID card, and claim letters.  
+
+In June 2023, our team will start discovery work to begin the process of adding these to profile. ([Dependents epic](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/59198), [records epic](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/59200))
 
 ## Site header and global navigation
 ### Make My VA the logged in homepage.
@@ -19,7 +30,7 @@ We’re holding off on changing the navigation since the VA is piloting a new he
 
 ### Updating “manage” URLs in the mega menu to point directly to tools, instead of the static pages.
 This hasn’t been discussed previously with regard to site IA, but it’s worth considering. 
-#### Technical consideration
+#### Considerations
 - This relies on Drupal being smart enough to know when people are logged in
 - We don’t have IA engineering resources to do this; currently falls under Public Websites
 
@@ -41,7 +52,7 @@ We could:
 
 We shared these ideas and [concepts](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684266228888/70e80eb031b0215679917698dc3abfcd74c76e03?wid=0-1684953724245) with Dave Conlon; waiting for him to set-up a meeting to discuss.
 
-#### Technical consideration
+#### Considerations
 - **NEED TO CONFIRM** This relies on Drupal being smart enough to know when people are logged in
 - We don’t have IA engineering resources to do this; currently falls under Public Websites
 
@@ -51,12 +62,41 @@ We talked about ways to make static pages smarter by surfacing personalized info
 ### Showing My VA cards/content on static pages that link people to tools
 There are static pages on the site that link to tools, with a call to action that says “View your [tool data]”.  Above the call to action, we could pull in the most recent information through a card, like we do on My VA.
 
-After reviewing with IA, we determined this isn’t an ideal approach because the sign-in CTAs that link to these static pages, should actually go to the tool instead.  Our effort is better placed in optimizing those flows.
+After reviewing with IA, we determined this isn’t an ideal approach because the sign-in CTAs that link to these static pages, should actually go to the tool instead.  Our effort is better placed in optimizing those flows ([read below](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization-enhancements/opportunities.md#optimize-static-page--sign-in--static-page--tool-flows)).
 
 ### Surfacing relevant personal information on static pages
-
+There are static pages on the site that give us an opportunity to provide a “smarter” UX and reduce a user’s need to search for information. Some examples include:
+- Pages that refer to personal information in the context of benefit eligibility, like the reference to having a disability rating on the[Voc Rehab How to Apply page](https://staging.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/)
+- Pages that talk about next steps, or a refer to benefit status, or link to a tool, like the [VA Process After You File Your Claim](https://staging.va.gov/disability/after-you-file-claim/) page in the disability hub 
+	- Here is a [concept](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684266228888/70e80eb031b0215679917698dc3abfcd74c76e03?wid=0-1684266389459) that shows how we might be able to serve up the information a user is looking for (the most recent claim in this instance) and save them a step.
+#### Considerations
+- We need to identify the pieces of personal information we have available to us about a Veteran that might be helpful to surface 
+- This will require a content/IA audit to identify the opportunities where it makes the most sense to serve up this information
+- IA doesn’t have dedicated engineering support, and the content team is constantly swamped
 
 ### Optimize static page > sign in > static page > tool flows 
-When people sign in
+There’s currently an inconsistent experience across static pages with sign in CTAs that link people to tools. Examples:
+On these URLs, when a user signs in, they’re taken to the same page they were just on, see it for a flash (sometimes longer if the API is slow) and then are redirected to the tool page. 
+- https://www.va.gov/claim-or-appeal-status/
+- https://www.va.gov/housing-assistance/home-loans/check-coe-status/
+On other pages, they’re taken to the same page, and shown a button/link to the tool instead of the sign in widget. That happens on these pages:
+- https://www.va.gov/va-payment-history/
+- va.gov/manage-va-debt/
+
+Optimizing these flows would be create a more consistent and predictable experience in a logged-in state.
+
+#### Considerations
+- These sign-in CTAs are managed by various product teams who have priorities that probably don’t include fixing this flow. It’s probably worth considering and documenting what the value to the Veteran and/or VA is to do this work, to have a better chance of getting teams to fix this
+
+#### Next steps
+- The auth experience team will work on this, starting with a page the auth exp has purview over, like the direct deposit static page.
 
 ## Forms and applications
+For any of this work, we’d need to collaborate with product teams and have them prioritize this in their backlog.
+
+### Confirmation page
+At the end of a form flow, we could direct people to My VA when it makes sense ([concept](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684266228888/70e80eb031b0215679917698dc3abfcd74c76e03?wid=0-1684267557640)).
+
+#### Outstanding question
+- Some of these forms already direct people to the relevant tool, which makes sense. Is it still worthwhile to talk about My VA so they know about it?
+
