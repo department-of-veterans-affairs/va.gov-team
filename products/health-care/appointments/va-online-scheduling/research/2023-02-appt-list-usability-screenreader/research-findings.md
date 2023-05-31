@@ -1,42 +1,3 @@
-<!-- Output copied to clipboard! -->
-
-<!-----
-
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 0
-* WARNINGs: 0
-* ALERTS: 1
-
-Conversion time: 10.72 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Wed May 31 2023 10:43:07 GMT-0700 (PDT)
-* Source doc: Research findings [DRAFT]
-* Tables are currently converted to HTML tables.
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 1.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 # 2023 Appointments List Screen Reader Usability Research Findings
 
 Office of the CTO - Digital Experience (OCTO-DE), Appointments
@@ -529,17 +490,13 @@ Confusion about appointment requests has been a theme in past studies:
 
 #### Participant quotes
 
-I'm sorry I don't use online that much. I think it should just be scheduled. If it needs to be rescheduled or canceled, that makes sense, but it shouldn't be pending. I've never seen that before. I wouldn't have a pending like that. Because it's showing 13 pending appointments. That don't make sense to me 
+> "I'm sorry I don't use online that much. I think it should just be scheduled. If it needs to be rescheduled or canceled, that makes sense, but it shouldn't be pending. I've never seen that before. I wouldn't have a pending like that. Because it's showing 13 pending appointments. That don't make sense to me"
 
+— P2 (Facilitator shared list on staging).
 
+> "The pending appointments should be the kind of standard I'm looking for. You know you've got the clinic to the left in this case Podiatry and then you got community care then the doctor's name and then details. That's actually perfect because obviously the difference would be when it's an upcoming it would have a date but the way this is set up is perfect. Honestly. It gives you a much more comprehensive picture of everything."
 
-* P2 (Facilitator shared list on staging).
-
-The pending appointments should be the kind of standard I'm looking for. You know you've got the clinic to the left in this case Podiatry and then you got community care then the doctor's name and then details. That's actually perfect because obviously the difference would be when it's an upcoming it would have a date but the way this is set up is perfect. Honestly. It gives you a much more comprehensive picture of everything. 
-
-
-
-* P7
+— P7
 
 
 #### Task analysis: navigate and understand pending appointments
@@ -780,39 +737,31 @@ So, thinking about everything you saw today, what were the most confusing things
 
 _Participant 5_
 
-Some of the acronyms they use for the clinics.  If you're not familiar with those clinics and you have no idea what you're looking at. And we have a lot of old veterans so you know they have no clue what these acronyms stand for or mean. Let's see. Some people may not know about the PMR initials so it would probably be best to spell it out and then put PMR in parentheses. If I didn't know that I already been seeing PMR pain management then I would have been confused too. Like “what is this for”?
+> Some of the acronyms they use for the clinics.  If you're not familiar with those clinics and you have no idea what you're looking at. And we have a lot of old veterans so you know they have no clue what these acronyms stand for or mean. Let's see. Some people may not know about the PMR initials so it would probably be best to spell it out and then put PMR in parentheses. If I didn't know that I already been seeing PMR pain management then I would have been confused too. Like “what is this for”?
+
+— P5
 
 
+> _Participant 12 navigates to “share these details about your concern” heading. _
+> 
+> _Facilitator_
+> 
+> You did not  enter that information?                
+> 
+> _Participant 12_
+> 
+> I don't even know what that is. I don't even know what PID means. So it's probably a code for what the doctor put in. I don't know.
 
-* P5
-
-_Participant 12 navigates to “share these details about your concern” heading. _
-
-_Facilitator_
-
-You did not  enter that information?                
-
-_Participant 12_
-
-I don't even know what that is. I don't even know what PID means. So it's probably a code for what the doctor put in. I don't know.
-
-
-
-* P12
+— P12
 
 **Example of a telehealth appointment missing information (from staging)**
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![A video care appointment with no facility, provider, joining, or other information to help identify it. Only a date and modality](./video-care-appointment-with-no-information.png)
 
 
-“I mean if you're doing a video connect appointment, this tells you nothing. Who am I meeting with and what's this for? Because there aren't aren't many veterans who come to the VA who aren't there for multiple different appointments for different things.** So this doesn't really help. It gives you the date and time. Those are important. But it kind of needs the five W's. Not just two W's.**” 
+> “I mean if you're doing a video connect appointment, this tells you nothing. Who am I meeting with and what's this for? Because there aren't aren't many veterans who come to the VA who aren't there for multiple different appointments for different things.** So this doesn't really help. It gives you the date and time. Those are important. But it kind of needs the five W's. Not just two W's.**” 
 
-- P7
+— P7
 
 
 #### Data issues that participants mentioned
@@ -904,29 +853,26 @@ All but 1 participant experienced difficulties logging in, and 3 could not log i
 
 #### Participant quotes
 
-_Facilitator_
+> _Facilitator_
+> 
+> As an accessibility advocate where do you encounter the most issues that you've seen, especially with VA.gov?
+>
+> _Participant 3_
+> Well first of all just getting into the system. I mean you saw what we just went through. And for those that don't know they give you four different options to login. Why not just have one system? Why do you have to have four different systems?
 
-As an accessibility advocate where do you encounter the most issues that you've seen, especially with VA.gov?
+— P3
 
-_Participant 3_
+> “Unfortunately it's not like one system necessarily reads the other so it makes you sign in twice. That's so weird but it happens all the time.”
 
-“Well first of all just getting into the system. I mean you saw what we just went through. And for those that don't know they give you four different options to login. Why not just have one system? Why do you have to have four different systems?”
+— P7
 
+> “I don't normally go through this stuff. Normally I don't check online for anything. This is usually an extra step that you have to go through.  I normally don't go through this step. I'm pretty good at keeping up with my information [without going online]. 
 
+— P2
 
-* P3
+> “I mean don't get me wrong I know you're trying to keep things secure but I don't need Fort Knox to get into my own stuff.” 
 
-“Unfortunately it's not like one system necessarily reads the other so it makes you sign in twice. That's so weird but it happens all the time.”
-
-- P7
-
-“I don't normally go through this stuff. Normally I don't check online for anything. This is usually an extra step that you have to go through.  I normally don't go through this step. I'm pretty good at keeping up with my information [without going online]. 
-
-- P2
-
-“I mean don't get me wrong I know you're trying to keep things secure but I don't need Fort Knox to get into my own stuff.” 
-
-- P12, screen reader user
+— P12, screen reader user
 
 
 #### Task analysis: log in
