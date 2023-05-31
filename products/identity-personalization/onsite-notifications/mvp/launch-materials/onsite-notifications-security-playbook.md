@@ -5,10 +5,11 @@ NOTE:
 - This document serves the requirement of an incident response procedure for your product. This document should be iterated upon as changes are made to the product.
 
 ## Product Description
-[Onsite Notifications Product Outine](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications)
+[Onsite Notifications Product Outine](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/README.md)
 
 ## Routes to code
-[Onsite Notifications Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30611)
+- [Onsite Notifications Epic (MVP)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30611)
+- [Notification component build + implementation on My VA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50758)
 
 ## Contacts
 
