@@ -5,7 +5,7 @@ NOTE:
 - This document serves the requirement of an incident response procedure for your product. This document should be iterated upon as changes are made to the product.
 
 ## Product Description
-[Onsite Notifications Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications)
+[Onsite Notifications Product Outine](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications)
 
 ## Routes to code
 [Onsite Notifications Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30611)
@@ -15,15 +15,14 @@ NOTE:
 ### Team Members:
 - DSVA Product Lead: Samara Strauss, samara.strauss@va.gov
 - My VA Team Product Manager: Anastasia Jakabcin, ana@adhocteam.us
-- My VA Team Associate Product Manager: Erica Sauve, erica.sauve@adhocteam.us
-- VA Notify Team Product Manager: Melanie JOnes, melanie.jones@oddball.io
+- VA Notify Team Product Manager: Melanie Jones, melanie.jones@oddball.io
 - VA Notify Team Product Owner: Beverly Nelson, beverly.nelson@va.gov
 
 
 
 ### Outage Contacts:
-- Authenticated Experience My VA team Frontend engineer: Taylor Mitchell, tmitchell@governmentcio.com 
-- Authenticated Experience My VA team Backend engineer : Tom Harrison, tom.harrison@adhocteam.us
+- Authenticated Experience My VA team Frontend engineer: Allison Lu (allison@cityfriends.tech), or Derrick Ellerbie (Derrick.ellerbie@Agile6.com)
+- Authenticated Experience My VA team Backend engineer : Tom Harrison (tom.harrison@adhocteam.us)
 - VA Notify Team Tech Lead: Kyle MacMillan, kyle.macmillan@oddball.io
 
 
