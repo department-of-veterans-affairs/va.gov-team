@@ -23,7 +23,7 @@ The FE will need to switch to use the `v0/benefits_claims` endpoint.
 ### Tasks
 
 - [ ] Create a feature flag for this work
-- [ ] Create a new action that uses `v0/benefits_claims`. See: [current action](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/claims.jsx)
+- [ ] Create a new action that uses `v0/benefits_claims`. See: [current action](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/claims.jsx#L147)
 - [ ] Update the [`ClaimsAndAppealsV2.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/claims-and-appeals-v2/ClaimsAndAppealsV2.jsx) component to use the new action
 - [ ] Update the `isClaimsAvailableSelector` to include the new the lighthouse service
 - [ ] Confirm the proper [service name](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/user/profile/constants/backendServices.js#L8-L9) to use
