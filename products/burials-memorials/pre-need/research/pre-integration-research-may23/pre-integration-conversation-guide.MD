@@ -1,6 +1,6 @@
 # Conversation Guide: Pre-Need Eligibility Determination Application (VA Form 40-10007), Usability Research of Pre-Integration Enhancements, June 2023
 
-## Moderator Logistics
+## Moderator logistics
 
 - _Use #feedback-backchannel in Slack for real-time feedback from observers._
 - _Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel))._
@@ -59,7 +59,7 @@ Ok, it seems like we're having some trouble getting the prototype up on your scr
     - If Yes: Could you describe how that process went and your thoughts about it?
     - If No: Is that something you would be interested in doing at some point?
 
-## Getting started - 1 minute
+## Getting Started - 1 minute
 
 - When applying to see if you're eligible for burial in a VA national cemetery, the VA Pre-Need application can be used. I'm going to give you a scenario for you to walk through a prototype of this application and give us your thoughts.
 - This prototype is a work in progress, so there might be a few mistakes, or it may not function exactly the way you expect, which is ok. Some areas will be clickable and some will not.
@@ -197,7 +197,7 @@ Ok, in the prototype we're looking at the start of the Pre-Need application.
     - What would you do at this point?
     - When do you think you would get a decision? 
 
-## Post-task interview - 5-10 minutes
+## Post-Task Interview - 5-10 minutes
 Wonderful! Thank you so much for walking through that with us and telling us your thoughts. We just have a few questions to ask before we wrap up our session for today. 
 - What did you think of the application process overall?
 - On a scale of 1 to 5 with 1 being the lowest and 5 being the highest, how would you rate the application process for Pre-Need that you just experience?
@@ -207,7 +207,7 @@ Wonderful! Thank you so much for walking through that with us and telling us you
 - Is there anything else on your mind that we didn't ask?
 - Do you have any questions for me?
 
-## Thank-You and Closing - 2 minutes
+## Thank You and Closing - 2 minutes
 
 - Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the VA.gov Pre-Need application to make sure that it really works for Veterans.
 - Thanks so much! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
