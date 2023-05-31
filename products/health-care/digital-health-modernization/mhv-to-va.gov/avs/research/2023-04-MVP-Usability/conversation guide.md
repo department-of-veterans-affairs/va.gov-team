@@ -111,47 +111,46 @@ Now, I would like you to scroll to “Your key medical records”.  And again, p
 2.	Are there any terms that seem unfamiliar or confusing to you?
     -   [**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following:] Using your own words, how would you define these terms?
 3.  Okay, please continue to scroll further. [**Moderator Note:** Stop them at “Recall Appointments”] What is your understanding of “Recall Appointments”?
-    -	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then direct them to the helper text underneath the title.
+    -	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then direct them to the helper text underneath the title.]
     -	How helpful or not helpful is this information to you? Why?
 4.	Okay please scroll down a little further. Under “Problem List”, what does this information tell you? 
-    -	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then say: Okay, this section is supposed to display the “Problems” that were discussed during this appointment; does that make sense, or is that confusing?]
-    - b.	How useful or not useful do you find this information? Why?
-5.	Great, please slowly scroll down again. [**Moderator Note:** Stop them at “My medications”] What does the “my Medications” in this section tell you?
-    - a.	How does the “My medications” information in this section differ from the information in the “medications and supplies” in the Your Treatment Plan from this appointment” section above?
-    - b.	How would you utilize or not utilize this information?
-    - c.	[**Placeholder Note:** If content comes back with other wording to try, then add that in as a question here.]
+    -	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then say:] Okay, this section is supposed to display the conditions you have been diagnosed with; does that make sense, or is that confusing?
+    -	How useful or not useful do you find this information? Why?
+5.	Great, please slowly scroll down again. [**Moderator Note:** Stop them at “My medications”] How would you define the "My medications" section?
+    -	How does the “My medications” information in this section differ from the information in “Medications and supplies” in the "Your Treatment Plan from this appointment” section above?
+    -	How would you utilize or not utilize this information?
 
 ## [Can cut questions if running late] Task 5: More Information – 5 minutes
-1.	What would you expect to find under “More Information”?
+1.	[**Moderator Note:** Only if the Veteran hasn't opened this accordion already, ask:] What would you expect to find under “More Information?"
 2.	Okay, go ahead and click on it and look at the whole section, and then, please share aloud what you see.
 3.	Is there anything you see that is unclear or confusing?
 4.	Is there anything you’d add or take away from that information?
-5.	Let’s scroll to the “More help and health information” section. Is there anything you’d like to see added to that section?
+5.	Let’s scroll to the “More help and health information” portion of this section. Is there anything you’d like to see added to that section?
 
 ## Task 6: Navigating to Another AVS – 10 minutes
-Okay let’s view information from another appointment you had in the past. How would you go about doing that? [**Notetaker:** Observe how the participant navigates to previous pages. Do they use the browser’s back feature, breadcrumbs, or the menu’s sub-navigation. Do they have difficulty finding another After-Visit Summary?]
-1.	On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to navigate to view other information from another day?
-2.	[**Moderator Note:** Only ask the following questions if they are in the appointments section, skip if they are in the “care summaries” section.] 
-Please navigate back to the page with all of your appointments listed. I want to highlight some links of this page.
-    - a.	How would you describe what your saw under the “Past” link?
-    - b.	What do you expect to see if you click on the “Upcoming” link?
-    - c.	What do you expect to see if you click on the “Pending” link?
+Okay let’s view information from another appointment you had in the past. How would you go about doing that? 
+- [**Notetaker:** Observe how the participant navigates to previous pages. Do they use the browser’s back feature, breadcrumbs, or the menu’s sub-navigation. Do they have difficulty finding another After-visit summary?]
+-On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to navigate to another summary from another day?
+- [**Moderator Note:** Only ask the following questions if they are in the appointments section, skip if they are in the “care summaries” section.] Please navigate back to the page with all of your appointments listed. I want to highlight some links of this page.
+  - How would you describe what your saw under the “Past” link?
+  -	What do you expect to see if you click on the “Upcoming” link?
+  -	What do you expect to see if you click on the “Pending” link?
 
 ## Task 7: Insights into Notifications – 7 minutes
-Okay, so we will move on from this prototype to another topic. We’re going to talk about notifications that you might want to receive about your After-Appointment Summaries. Pretend that you received the following message:
+Okay, so we will move on from this prototype to another topic. We’re going to talk about notifications that you might want to receive about your After-visit summaries. Pretend that you received the following message:
 
    **Subject:** New After-visit Summary
    
-   **Contents:** A summary of your recent appointment(s) is now available on MyHealtheVet Login to review the summary.
+   **Contents:** A summary of your recent appointment(s) is now available on MyHealtheVet. Login to review the summary.
 
-1.	Do you find this notification helpful or not helpful? Why?
-2.	How would you prefer to receive this notification (email, text message, phone call, etc.)?
-3.	If you had multiple appointments in one day, would you want one after appointment notification for each appointment that day or would you want all the appointments combined into one message?
+- Do you find this notification helpful or not helpful? Why?
+- How would you prefer to receive this notification (email, text message, phone call, etc.)?
+- If you had multiple appointments in one day, would you want one after appointment notification for each appointment that day or would you want all the appointments combined into one message?
 
 ## Closing Questions – 3 minutes
-1.	If you could change one thing about the After Appointment Visit summary, what would that be?
-2.	And lastly, do you have any questions for me?
-3.	Okay, great! That is all the questions I have for you today.
+-	If you could change one thing about the After Appointment Visit summary, what would that be?
+-	And lastly, do you have any questions for me?
+-	Okay, great! That is all the questions I have for you today.
 
 ## Thank you - 2 minutes
 1.	We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
