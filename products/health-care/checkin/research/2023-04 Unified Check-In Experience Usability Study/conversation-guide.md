@@ -71,13 +71,11 @@ So, before we go to the prototype, let’s start with a few warm-up questions.
      - Are you using a screen reader or other assistive technology today? If so, what type? (For example, VoiceOver.)
      - And, how would you rate your level of experience with using that technology - beginner, intermediate, advanced or expert? 
      - How long have you been using that technology? 
-     - And, does your device that you’re using today have a screen that can be shared?  
 - *If the participant is using screen magnification:* 
      - Are you using a magnification tool today? If so, what type? (For example, Zoom.) 
      - And, how would you rate your level of experience with using that technology - beginner, intermediate, advanced or expert? 
      - How long have you been using that technology? 
-     - And, does your device that you’re using today have a screen that can be shared?
-     - Have you been to a VA health facility for a medical appointment for yourself in the last 12 months?
+- Have you been to a VA health facility for a medical appointment for yourself in the last 12 months?
 
 Great. Thank you. 
 
