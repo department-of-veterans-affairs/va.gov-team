@@ -18,6 +18,7 @@
 - [Solution approach](#solution-approach)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
+- [Security](#security)
 - [Measuring Success](#measuring-success)
 - [Key deliverables](#key-deliverables)
 - [Key Dates](#key-dates)
@@ -82,6 +83,9 @@ To mitigate each of the problems above, we plan to do the following:
 ### Undesired Business Outcomes
 
 - These updates don't really improve the page for us or the end user.
+
+## Security
+[My VA Audit UX Improvements Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/launch-materials/my-va-audit-improvements-security-playbook.md)
 
 ## Measuring Success
 
