@@ -123,10 +123,10 @@ Now, I’m going to send you the first text message. When you receive it, go ahe
 
 *Your VA appointment is on FEB 2 at 08:00.* 
 
-*Reply:* 
-*Y1 to CONFIRM*
-*N1 to CANCEL* 
-*D1 for DETAILS* 
+*Reply:* <br>
+*Y1 to CONFIRM*<br>
+*N1 to CANCEL* <br>
+*D1 for DETAILS* <br>
 
 *For more info call 909-825-7084 options 2 or reply HELP.* 
 
