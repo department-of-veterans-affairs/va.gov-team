@@ -46,7 +46,7 @@ We will apply insights from this research to improve and iterate on the VA.gov A
 - Are any sections or terms displayed within the AVS confusing to Veterans/caregivers?
 - Is there any information missing that Veterans/caregivers expect to see in an AVS? or information displayed that Veterans/caregivers weren't expecting to see?
 - What notifications about AVS are helpful to Veterans?
-  - How much information do Veterans expect in an AVS notification?
+  - What information do Veterans expect in an AVS notification?
   - Do Veterans want to receive one notification for each AVS or one notification for all appointments in one day?
 
 ### Hypotheses
