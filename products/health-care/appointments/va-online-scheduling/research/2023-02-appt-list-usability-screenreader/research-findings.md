@@ -248,7 +248,7 @@ We saw similar results in an earlier study where we tested a prototype of the li
   <tr>
    <td>Review appointments landing page
    </td>
-   <td>Complete success
+   <td style="background-color:green">Complete success
    </td>
    <td>Success with minor issue
    </td>
