@@ -71,8 +71,8 @@ I'd like to start by learning more about your experience reviewing information a
 -  I'm going to send you a link to this prototype in the Zoom chat. Since this is a prototype for testing purposes only, it may not work as you may expect even though it may look like the actual VA.gov website.
 - Okay, I've just sent you a link in the chat.  Please open the Zoom chat and click on that link. [**Moderator Note:** Help participant with the prototype if necessary. If the participant is unable to share their screen, then share your screen and follow the participant’s instructions.]
 -	Now pretend that today is June 1st, 2023 and you are Hector.  You had an appointment this morning at 9:50 am with Dr. Nutt, your primary care physician, at the Puget Sound VA facility. A few hours have passed since your appointment, and you forgot what your doctor's instructions were. Use this prototype to find out what Dr. Nutt and you discussed at your appointment. Please think aloud as you are trying to find this information. 
-  - [**Notetaker:** 1. Note where participant navigates to. 2. Note if participant navigates to “Care Summaries” or “Appointments”?]
-  - [**Moderator Note:** Only assist if they have difficulty locating the After-visit summary. Continue with the below questions once the participant navigates to the After-visit summary page.]
+    - [**Notetaker:** 1. Note where participant navigates to. 2. Note if participant navigates to “Care Summaries” or “Appointments”?]
+    - [**Moderator Note:** Only assist if they have difficulty locating the After-visit summary. Continue with the below questions once the participant navigates to the After-visit summary page.]
 
 1.	Please review the info on this page and share your overall impressions. Think aloud as you review. 
     -	[**Notetaker:** Note any observations about the following things: Do they open the accordions? How far down the page do they scroll? What do they comment on as confusing or valuable without prompting?]
@@ -85,12 +85,12 @@ Now, I would like you to focus on the “Your appointment on June 1, 2023” sec
 2.	Are there any terms that seem unfamiliar or confusing to you?
     -	[**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following:] Using your own words, how would you define those terms?
 3.	If you could provide a definition of the information that is included within the “You were diagnosed with” section, how would you define that information?
-    -	[**Moderator Note:** If the participant doesn't correctly describe the content's purpose, then ask:] What is the title of the section was “Health conditions you discussed?” How would you define this section then?
+    -	[**Moderator Note:** If the participant doesn't correctly describe the content's purpose, then ask:] What if the title of the section was “Health conditions you discussed?” How would you define this section then?
     -	How valuable or not valuable do you find this section? Why?
 4.	Next, please scroll down again. [**Moderator Note:** Stop them at. “Medications ordered for administration in clinic”] 
     - What does the information under “Medications ordered for administration in Clinic” mean to you? 
-      - [**Moderator Note:** If what they describe doesn’t match the intention of the section, then ask:] What if I told you that this section displays medications you took or were administered while you were at your appointment? 
-5.	Ask participants to stop and open the glossary and review the information while they are talking aloud. [**Moderator Note:** Try to get general feedback on the glossary terms.]
+      - [**Moderator Note:** If what they describe doesn’t match the intention of the section, then ask:] What if I told you that this section displays medications you took or were administered while you were at your appointment. What do you think about reviewing that information?
+5.	Ask participants to stop and open the medication glossary and review the information while they are talking aloud. [**Moderator Note:** Try to get general feedback on the glossary terms.]
     - [**Moderator Note:** If participant comments on term, ask:] What does that mean to you?
     - [**Moderator Note:** If what they describe doesn’t match the intention of the section, then ask:] What if I told you that this section was supposed [*Improvise-** because the dialogue depends on the participant’s previous answer.]
 6.	How would useful or not useful do you find the information in “Medications ordered for administration in clinic”?
@@ -99,7 +99,7 @@ Now, I would like you to focus on the “Your appointment on June 1, 2023” sec
 Now, I would like you to focus on the “Your Treatment Plan from this appointment” section. Please review this section by slowly scrolling through and thinking out loud again. 
 1.	How would you utilize the information within this section?
 2.	Are there any words that seem unfamiliar or confusing to you?
-    -	[**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following:] What do each of those terms mean to you?
+    -	[**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following:] What does that term mean to you?
 3.	Okay great, so how would you describe the information under “Medications and Supplies”?
     -	How does the “Medications and Supplies” information in this section differ from “Medications ordered for administration in clinic” under the previous “Your appointment on June 1, 2023” section?
     -	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then share:] Okay, this section was supposed to display only the medications that were added or changed during the appointment?
@@ -110,7 +110,7 @@ Now, I would like you to scroll to “Your key medical records”.  And again, p
 1.	Can you provide an example of how you might utilize the information within this section?
 2.	Are there any terms that seem unfamiliar or confusing to you?
     -   [**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following:] Using your own words, how would you define these terms?
-3.  Okay, please continue to scroll further. [**Moderator Note:** Stop them at “Recall Appointments”] What is your understanding of “Recall Appointments”?
+3.  Okay, please continue to scroll further. [**Moderator Note:** Stop them at “Recall Appointments”] What is your understanding of “Recall Appointments?"
     -	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then direct them to the helper text underneath the title.]
     -	How helpful or not helpful is this information to you? Why?
 4.	Okay please scroll down a little further. Under “Problem List”, what does this information tell you? 
@@ -132,7 +132,7 @@ Okay let’s view information from another appointment you had in the past. How 
 - [**Notetaker:** Observe how the participant navigates to previous pages. Do they use the browser’s back feature, breadcrumbs, or the menu’s sub-navigation. Do they have difficulty finding another After-visit summary?]
 -On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to navigate to another summary from another day?
 - [**Moderator Note:** Only ask the following questions if they are in the appointments section, skip if they are in the “care summaries” section.] Please navigate back to the page with all of your appointments listed. I want to highlight some links of this page.
-  - How would you describe what your saw under the “Past” link?
+  - How would you describe what your see under the “Past” link?
   -	What do you expect to see if you click on the “Upcoming” link?
   -	What do you expect to see if you click on the “Pending” link?
 
@@ -145,10 +145,10 @@ Okay, so we will move on from this prototype to another topic. We’re going to 
 
 - Do you find this notification helpful or not helpful? Why?
 - How would you prefer to receive this notification (email, text message, phone call, etc.)?
-- If you had multiple appointments in one day, would you want one after appointment notification for each appointment that day or would you want all the appointments combined into one message?
+- If you had multiple appointments in one day, would you want one after-visit summary notification for each appointment that day or would you want all the appointments combined into one message?
 
 ## Closing Questions – 3 minutes
--	If you could change one thing about the After Appointment Visit summary, what would that be?
+-	If you could change one thing about the After-visit summary, what would that be?
 -	And lastly, do you have any questions for me?
 -	Okay, great! That is all the questions I have for you today.
 
@@ -161,4 +161,3 @@ Okay, so we will move on from this prototype to another topic. We’re going to 
 ## Emergency Exit
 - Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
 - Blame technology: I'm so sorry, but I just learned that the prototype we'll be reviewing today is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
-- These are based on recommendations from the VA platform documentation.
