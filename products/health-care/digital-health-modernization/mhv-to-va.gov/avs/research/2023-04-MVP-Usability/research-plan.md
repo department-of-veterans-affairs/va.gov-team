@@ -61,7 +61,7 @@ _Hypothesis 4:_ Some Veterans and Caregivers will have clear insights into what 
 ## Method
 
 ### Interviews
-This research will be conducted as a remote moderated user research study that utilizes a prototype (TBD on details of the prototype type) built for mobile devices. Participants will be asked to complete specific tasks for usability testing and asked follow-up questions to gain understanding of expectations and satisfaction.
+This research will be conducted as a remote moderated user research study that utilizes a [prototype](https://www.figma.com/proto/VHHxvo1QA1ndWc0TBhfkNq/Add-After-Visit-Summary?page-id=2%3A3&type=design&node-id=1233-16119&viewport=-892%2C210%2C0.4&scaling=scale-down&starting-point-node-id=1233%3A16119) built for mobile devices. Participants will be asked to complete specific tasks for usability testing and asked follow-up questions to gain understanding of expectations and satisfaction.
 
 ### Location
 Data collection will be remote and conducted using Zoom. 
@@ -113,13 +113,13 @@ When ready, fill out that ticket with the following information:
     - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
 2. Have you been to a doctor's appointment within the last 12 months?
-  - Yes at VA (eligible, recruit 10)
-  - Yes at a non-VA facility (eligible, recruit 5)
-  - No (not eligible)
+    - Yes at VA (eligible, recruit 10)
+    - Yes at a non-VA facility (eligible, recruit 5)
+    - No (not eligible)
 
 3. Have you received a printed summary of your visit as you were leaving your appointment or have you reviewed a visit summary online within the past 12 months?
-  - Yes (eligible, recruit 11)
-  - No (eligible, recruit 4)
+    - Yes (eligible, recruit 11)
+    - No (eligible, recruit 4)
 
 ## Timeline
 
@@ -162,7 +162,7 @@ When ready, fill out that ticket with the following information:
 
 **Research Guide Writing and Task Development:**
 - Kristen McConnell	
--  Nina Anusavice
+- Nina Anusavice
 
 **Participant Recruiting & Screening:**	
 - Perigean
