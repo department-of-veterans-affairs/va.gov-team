@@ -161,10 +161,14 @@ TBD
   
 - Office/Department: OCTO-DE
 - Contact(s): Lauren Alexanderson, Patrick Bateman
-
  
 </details>
 
+  
+#### Resources  
+- VA Profile: VAPROFILEPM@va.gov
+     - https://dvagov.sharepoint.com/sites/OITEPMOVAPROPUB (must be on VA network)
+     - Emily Gupta is part of this team and had been contacted in February 2023 regarding the EZR and some data that might be available.  While the communication did not offer any answers to our questions at the time, we were able to get the email contact (above) and VA Profile sharepoint site with some details.
 ---
 <sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
 <sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
