@@ -112,13 +112,14 @@ When ready, fill out that ticket with the following information:
     - Have a working microphone on their device
     - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
-2. Have you used an online patient portal in the past 12 months? A patient portal is a secure website that gives you access to information about your health, such as past doctor visits, treatments, or medications. For example, MyChart or MyHealtheVet are patient portals. 
-    - Yes, I have used an online patient portal in the past 12 months *(eligible)* 
-    - No, I have not used an online patient portal in the past 12 months *(not eligible)* 
+2. Have you been to a doctor's appointment within the last 12 months?
+  - Yes at VA (eligible, recruit 10)
+  - Yes at a non-VA facility (eligible, recruit 5)
+  - No (not eligible)
 
-3. Have you received a printed summary of your visit as you were leaving your appointment or have you reviewed a visit summary online within the past 12 months? 
-    - Yes *(eligible)*
-    - No *(not eligible)*
+3. Have you received a printed summary of your visit as you were leaving your appointment or have you reviewed a visit summary online within the past 12 months?
+  - Yes (eligible, recruit 11)
+  - No (eligible, recruit 4)
 
 ## Timeline
 
