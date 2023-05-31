@@ -1,8 +1,5 @@
 # Onsite Notifications Security Playbook
-
-NOTE: 
-- links to complete data for each of the sections below is welcome and encouraged.
-- This document serves the requirement of an incident response procedure for your product. This document should be iterated upon as changes are made to the product.
+**Last updated: May 31, 2023 - updated epic links**
 
 ## Product Description
 [Onsite Notifications Product Outine](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/README.md)
