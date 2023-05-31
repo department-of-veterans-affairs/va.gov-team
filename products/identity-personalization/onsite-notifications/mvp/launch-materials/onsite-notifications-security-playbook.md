@@ -5,8 +5,8 @@
 [Onsite Notifications Product Outine](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/README.md)
 
 ## Routes to code
-- [Onsite Notifications Epic (MVP)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30611)
-- [Notification component build + implementation on My VA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50758)
+- [Onsite Notifications (MVP)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30611)
+- [Notification component build + implementation on My VA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59398)
 
 ## Contacts
 
