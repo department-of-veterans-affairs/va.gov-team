@@ -115,7 +115,7 @@ Remote with Zoom
 
 ## Recruitment 
 
-**Perigean to recruit a total of 18 Veterans in order to get 12 completed sessions,** which include 5 completed sessions with screen reader users and 2 completed sessions with screen magnification or zoom users. 
+**Perigean to recruit a total of 18 Veterans in order to get 12 completed sessions,** which includes 5 completed sessions with screen reader users and 2 completed sessions with screen magnification or zoom users. 
 
 [Recruitment intake ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/321#event-9308399813)
 
@@ -165,20 +165,18 @@ Participants for pilot test: </br>
 Accessibility specialist: Angela Fowler ([angela.fowler@adhocteam.us](mailto:angela.fowler@adhocteam.us)), Sara Smith ([sara.smith@oddball.io](mailto:sara.smith@oddball.io))</br>
 Note-takers: Perigean</br>
 Observers: 
-- Stephen Barrs
-- Patrick Bateman
-- Kristen McConnell
+- Stephen Barrs ([stephen.barrs@va.gov](mailto:stephen.barrs@va.gov))
+- Kristen McConnell ([kristen.mcconnell@va.gov](mailto:kristen.mcconnell@va.gov))
 - Mark Dewey ([mark.dewey@va.gov](mailto:mark.dewey@va.gov))
 - Lori Pusey ([lori.pusey@agile6.com](mailto:lori.pusey@agile6.com))
-- Sarah Knopp
-- Zach Park
-- Ya-ching Tsao
-- Christina Gednalske
-- Kelly Smith   
-- Brian Seek
-- Gaurav Gupta
-- Kanchana Suriyamoorthy
-- John Woolschlager
+- Zach Park ([zach.park@agile6.com](mailto:zach.park@agile6.com))
+- Ya-ching Tsao ([yaching.tsao@civicactions.com](mailto:yaching.tsao@civicactions.com))
+- Christina Gednalske ([christina.gednalske@adhocteam.us](mailto:christina.gednalske@adhocteam.us))
+- Kelly Smith ([kelly.smith@civicactions.com](mailto:kelly.smith@civicactions.com))
+- Brian Seek ([brian.seek@civicactions.com](mailto:brian.seek@civicactions.com))
+- Gaurav Gupta ([ggupta@kindsys.us](mailto:ggupta@kindsys.us))
+- Kanchana Suriyamoorthy ([ksuriyamoorthy@kindsys.us](mailto:ksuriyamoorthy@kindsys.us))
+- John Woolschlager ([John.woolschlager@civicactions.com](mailto:John.woolschlager@civicactions.com))
 - Christina Gednalske ([christina.gednalske@adhocteam.us](mailto:christina.gednalske@adhocteam.us))
 - Robyn Singleton ([robyn.singleton@va.gov](mailto:robyn.singleton@va.gov))
 
