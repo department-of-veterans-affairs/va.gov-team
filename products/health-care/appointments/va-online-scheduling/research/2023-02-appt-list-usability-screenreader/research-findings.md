@@ -496,7 +496,7 @@ Confusion about appointment requests has been a theme in past studies:
 
 #### Task analysis: navigate and understand pending appointments
 
-*Task 4: Navigate to Pending Appointments*
+*Task: Navigate to Pending Appointments*
 <table>
   <tr>
    <td>
@@ -567,7 +567,7 @@ Confusion about appointment requests has been a theme in past studies:
 </table>
 
 
-*Task 5: Understand Pending Appointments*
+*Task: Understand Pending Appointments*
 <table>
   <tr>
    <td>
@@ -865,7 +865,7 @@ All but 1 participant experienced difficulties logging in, and 3 could not log i
 
 #### Task analysis: log in
 
-*Task 1: Log in to VA.gov*
+*Task: Log in to VA.gov*
 <table>
   <tr>
    <td>
