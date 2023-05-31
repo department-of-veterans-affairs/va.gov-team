@@ -1,4 +1,4 @@
-# Project outline: Update Design System Component
+# Project outline: Update Design System Component on My VA
 
 **Last updated: March 20, 2023**
 
