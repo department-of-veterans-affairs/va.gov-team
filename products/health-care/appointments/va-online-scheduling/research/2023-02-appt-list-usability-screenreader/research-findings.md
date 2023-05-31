@@ -149,8 +149,6 @@ In the end we were able to test the feature with 7 participants. While we were u
 
 All but one participant easily found and understood the upcoming and past appointments lists. 
 
-
-
 * All participants were able to recognize appointments in the lists and understand the information that was presented.
 * One screen reader did not announce the date and time information. The participant was able to find this information in the details link.
 * The participant who didn’t see the sub-navigation menu said that their vision was blurry that day. This may indicate the font was too small to be easily legible.
@@ -173,7 +171,7 @@ We saw similar results in an earlier study where we tested a prototype of the li
 
 #### Task analysis: navigate to and understand upcoming appointments
 
-<strong>Task: Find the appointments list.</strong>
+*Task: Find the appointments list*
 
 <table>
   <tr>
@@ -223,7 +221,7 @@ We saw similar results in an earlier study where we tested a prototype of the li
 </table>
 
 
-<strong>Task: Understand Upcoming Appointments</strong>
+*Task: Understand Upcoming Appointments*
 <table>
   <tr>
    <td>
@@ -319,7 +317,7 @@ We saw similar results in an earlier study where we tested a prototype of the li
 
 #### Task analysis: navigate to and understand past appointments
 
-<strong>Task: Navigate to Past Appointments</strong>
+*Task: Navigate to Past Appointments*
 
 <table>
   <tr>
@@ -391,7 +389,7 @@ We saw similar results in an earlier study where we tested a prototype of the li
 </table>
 
 
-<strong>Task: Understand Past Appointments</strong>
+*Task: Understand Past Appointments*
 <table>
   <tr>
    <td>
@@ -462,7 +460,6 @@ We saw similar results in an earlier study where we tested a prototype of the li
 </table>
 
 
-
 ### Participants struggled to navigate to and understand appointment requests
 
 3 participants were able to view requests - two of these because the facilitator was able to share demo data. The other participant submitted their first appointment request during the session. The rest of the participants were only able to view the empty state, not the requests.
@@ -477,8 +474,6 @@ Only 1 participant clearly confirmed that they had requested appointments before
 #### Related past studies
 
 Confusion about appointment requests has been a theme in past studies:
-
-
 
 * [The term “pending” was confusing for some participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4698f0f19f26bd512cf8dd1cff578c712d7da3eb/products/health-care/appointments/va-online-scheduling/research/2022-09-appts-list-usability/research-findings.md#1-the-term-pending-was-confusing-for-some-participants), Appointments List Usability Study, 09-2022
 * [Some participants found the word “Pending” confusing in the concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/52460de0c1639959c8b933ae75a8a931a36aa0d2/products/health-care/appointments/va-online-scheduling/research/2022-01-mhv-and-vaos-appts-list-discovery/research-findings.md#some-participants-found-the-word-pending-confusing-in-the-concept), MHV and VAOS Appointments List Study, 01-2022
@@ -501,10 +496,10 @@ Confusion about appointment requests has been a theme in past studies:
 
 #### Task analysis: navigate and understand pending appointments
 
-
+*Task 4: Navigate to Pending Appointments*
 <table>
   <tr>
-   <td><strong>Task 4: Navigate to Pending Appointments</strong>
+   <td>
    </td>
    <td><strong>P9</strong>
    </td>
@@ -572,10 +567,10 @@ Confusion about appointment requests has been a theme in past studies:
 </table>
 
 
-
+*Task 5: Understand Pending Appointments*
 <table>
   <tr>
-   <td><strong>Task 5: Understand Pending Appointments</strong>
+   <td>
    </td>
    <td><strong>P9</strong>
    </td>
@@ -692,8 +687,6 @@ Confusion about appointment requests has been a theme in past studies:
 
 While participants were able to understand appointment information that they were provided, they pointed out some information that was clearly missing:
 
-
-
 * As we’ve heard in many other studies, participants needed **type of care**  to understand their appointments. They also noted:
     * Clinic name and physical location
     * Provider name
@@ -703,16 +696,12 @@ While participants were able to understand appointment information that they wer
 
 Additionally, participants noted some information was confusing:
 
-
-
 * When clinic names looked like a code full of acronyms.
 * Staff-entered data under the “You shared these reasons about your concern” field.
 * 1 participant had 3 duplicate community care appointments. We couldn’t contact after the session to troubleshoot the issue.
 
 
 #### Related past studies
-
-
 
 * [Participants wanted to be able to easily differentiate between appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/52460de0c1639959c8b933ae75a8a931a36aa0d2/products/health-care/appointments/va-online-scheduling/research/2022-01-mhv-and-vaos-appts-list-discovery/research-findings.md#participants-wanted-to-be-able-to-easily-differentiate-appointments-in-vaos) - MHV and VAOS Appointments List Study, 01-2022
     * Top requests from this study:
@@ -842,8 +831,6 @@ Additionally, participants noted some information was confusing:
 
 All but 1 participant experienced difficulties logging in, and 3 could not log in at all.  Some of the issues they encountered when logging in:
 
-
-
 * Multi-factor authentication posed the biggest challenge
     * 2 participants didn’t receive an MFA code during the session (1 reported that the code arrived 2.5 hours after the session ended.)
 * Validation/verification was confusing, or was considered a frustrating extra step.
@@ -878,10 +865,10 @@ All but 1 participant experienced difficulties logging in, and 3 could not log i
 
 #### Task analysis: log in
 
-
+*Task 1: Log in to VA.gov*
 <table>
   <tr>
-   <td><strong>Task 1: Log in to<a href="http://va.gov/"> VA.gov</a></strong>
+   <td>
    </td>
    <td>P9
    </td>
