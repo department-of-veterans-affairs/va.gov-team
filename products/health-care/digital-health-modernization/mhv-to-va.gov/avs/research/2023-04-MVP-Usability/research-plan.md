@@ -97,9 +97,6 @@ When ready, fill out that ticket with the following information:
   - Where do you want participants to live? Various
 - Education
   - What education level do you want your participants to have? Various
-- LGBTQ+
-  - What LGBTQ-plus group do you want your participants to be? Various
-  - If you choose, provide exact number you want applied for each checked race. 1 across all designations
 - Benefits
   - What benefits or services should your participants have experience with? Healthcare
   - If you choose, provide exact number you want applied for each checked benefit. All participants must have healthcare.
