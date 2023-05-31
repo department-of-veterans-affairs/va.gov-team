@@ -4,8 +4,9 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 5/31/2023 - 6/13/2023  ---------------------- FUTURE / TENTATIVE -------------------------------
+## 5/31/2023 - 6/13/2023  
 #### SPRINT GOALS
+- **GOAL: Fix Bugs**
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
@@ -19,6 +20,9 @@ ________________________________________________________________________________
 - None
 
 #### SPRINT TICKETS
+- ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **GOAL: Fix Bugs**
+    - [Bug: Filter cancelled appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59414)
+       - [Slack thread](https://dsva.slack.com/archives/C02UP02HHGX/p1684847248762479)
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**    
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Add hypen to "in person" on appt detail page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59083)
@@ -46,15 +50,13 @@ ________________________________________________________________________________
    - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57812) 
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58666)   
 - **GOAL: Address tech & design debt**   
-   - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Remove sign in from simplified header](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59092)
-   - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE]After check in, user should not be able to go back to questions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58862)
-   - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Switch to need help component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58991)     
+   - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Design] Create Final Wireframe for "TTY:" part should be inside the link with the 711](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59402)
+   - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] "TTY:" part should be inside the link with the 711](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59401)
+   - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE]After check in, user should not be able to go back to questions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58862)   
    - **Sub Goal: Onboard Lee**
        - [Platform Orientation Template [Lee Delarm]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59192)
 
----------------------- END FUTURE / TENTATIVE ---------------------------------
 __________________________________________________________________________________________________________________________________________________________
 
 ## 5/17/2023 - 5/30/2023  
