@@ -115,9 +115,14 @@ Remote with Zoom
 
 ## Recruitment 
 
+Perigean to recruit a total of 18 Veterans in order to get 12 completed sessions, which include 5 completed sessions with screen reader users and 2 completed sessions with screen magnification or zoom users. 
+
+[Recruitment intake ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/321#event-9308399813)
+
 ## Timeline 
 
 ### Prepare
+
 **We would like to request a 15 minute kick-off call with Perigean before recruiting begins.**
 
 Availability for a kick-off call: 
