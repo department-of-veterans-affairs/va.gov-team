@@ -1,6 +1,6 @@
-# Research Plan for Benefits Team 1: Evidence Submission Usability Testing (WIP)
+# Research Plan: Evidence Submission Usability Testing (WIP)
 
-June 2023
+Benefits Team 1 · June 2023
 
 ## Background
 In our research on the Decision Reviews and Initial Decision experiences, we've identified a number of issues with the Claim Status Tool experience. One of the main Veteran pain points relates to evidence submission: Veterans don't have a good understanding of what type of evidence to submit, and once the claim is in progress they are anxious about whether there is anything they need to do, or any additional materials they need to provide, to improve the likelihood of a favorable outcome. 
