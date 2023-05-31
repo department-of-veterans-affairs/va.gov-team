@@ -173,13 +173,16 @@ TBD
 - MyHealteVet
      - Lynne Johnson - Delivery Manager
      - Tom Anderson - Product Manager
+     - Patrick Bateman - OCTO PO
      - Slack Channel: #mhv-on-vagov-portal-home
 
 - Digital Health Pathway (not sure if these folks can help)
      - Abbie Burton - Product Manager
+     - Stefany Holguin - OCTO PO
 
 - MHV Secure Messaging and MHV Medica Records
      - Bryan Riley - Delivery/Product Manager
+     - Leila Rassi - OCTO PO
 
 ---
 <sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
