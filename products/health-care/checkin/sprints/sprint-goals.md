@@ -47,8 +47,9 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57812) 
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58666)   
 - **GOAL: Address tech & design debt**   
+   - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Remove sign in from simplified header](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59092)
    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE]After check in, user should not be able to go back to questions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58862)
-   - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Switch to need help component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58991)   
+   - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Switch to need help component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58991)     
    - **Sub Goal: Onboard Lee**
        - [Platform Orientation Template [Lee Delarm]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59192)
 
