@@ -178,6 +178,81 @@ Great. So, for this session today, we don’t need you to provide your actual la
 
 *Veteran should be on appointment list page.*
 
+Great. Now, please start reviewing the information on this screen, but remember, don’t advance to the next page yet. 
+
+- Great. Now, without doing it yet, what would you do next on this page? 
+- And, why would you do that next? 
+- And, how easy or difficult was it to understand what to do next on this page?  
+- Is there anything unclear to you on this page? 
+- Is there anything missing? 
+- Is there anything you would recommend changing or adding?
+
+Great. Now, let’s go ahead and proceed to the next page. 
+
+*Veteran should be on the first pre-reg question page.*  
+
+Now, for these next three pages, go through the information on the screen and then select “Yes” to each question to advance to the next page. And, let’s pretend that all of your contact information is correct.
+
+*Veteran should be on the pre-check-in confirmation page. “Your contact information is up to date.”* 
+
+Perfect. So, again, please start reviewing the information on this screen, but remember, don’t advance to the next page yet. 
+
+- Great. And, what information on this page is most important to you?  
+- Is there anything unclear to you on this page? 
+- Is there anything missing?
+- Is there anything you would recommend changing or adding?
+- Great. Now, without doing it yet, what would you do next on this page?
+- And, from this page, how would you find out if you had other upcoming appointments that needed to be reviewed?
+
+*Veteran should be reviewing the “manage appointments” component on the pre-check-in confirmation page.* 
+
+- Great. And, how easy or difficult was it to find out if your other upcoming appointments needed to be reviewed too?
+- And, is there anything you would recommend doing to make this information easier to find? 
+
+Great. Now, let’s go ahead and review your other upcoming appointments. 
+
+*Veteran should be on the pre-check-in appointments list page.*
+
+Go ahead and start reviewing the information on this screen, but remember, don’t advance to the next page yet. 
+
+- Great. And, what information on this page is most important to you?  
+- Is there anything unclear to you on this page? 
+- Is there anything missing? 
+- Is there anything you would recommend changing or adding?
+- Great. Now, without doing it yet, what would you do next on this page? 
+- And, how easy or difficult was it to understand what to do next on this page? 
+- And, how would you recommend that we make it easier to understand what to do next on this page?
+
+Great. Now, let’s go ahead and proceed to the next page. 
+
+*Veteran should be on the pre-check-in confirmation page. “You’ve confirmed your appointment.”* 
+
+Perfect. So, again, please start reviewing the information on this screen, but remember, don’t advance to the next page yet. 
+
+- Great. And, what information on this page is most important to you?  
+- Is there anything unclear to you on this page? 
+- Is there anything missing? 
+- Is there anything you would recommend changing or adding?
+- Great. So, overall, how easy or difficult has it been to complete this process? 
+- And, why? 
+- And, overall, has there been any information or any step that’s been unclear?  
+- And, overall, has there been anything that you would change or add about this process to make it easier? 
+
+Great. Thank you. 
+
+### Check In Tasks - 15 Minutes
+ 
+Now, I’d like for us to change gears a tiny bit and now review the process for checking in to an appointment from your smartphone on the actual day of your appointment. 
+
+So, now, let’s pretend that it’s the day of your appointment and you’ve just arrived at the clinic. Then, you get a text message on your smartphone from the VA and it reads, “It’s time to check in for your VA appointment on February 2 at 1:00 pm. If you have trouble with check-in, ask a staff member at your VA health facility for help.” And, there’s a link for you to follow .
+
+Now, I’d like for you to imagine that you selected that link. 
+
+So, now we need to open this prototype. So, I’d like for you to navigate down towards the bottom of this page and select the “Jump to Check-in start” link. This is going to jump us to the next prototype.  
+
+*Veteran should be on the check-in authentication page.* 
+
+
 
 
 
