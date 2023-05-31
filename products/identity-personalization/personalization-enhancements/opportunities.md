@@ -2,11 +2,11 @@
 Last update: 6/1/2023
 
 ## Overview
-We [completed research in April 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research#research-outline-identifying-issues-and-challenges-people-have-finding-tasks-when-they-are-signed-in-to-vagov) and identified opportunities to enhance the personalized experience on VA.gov.   In June 2023, we’re going to focus our work on two opportunities we’ve identified as initial steps toward enhancing the personalized UX.
+We [completed research in April 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research#research-outline-identifying-issues-and-challenges-people-have-finding-tasks-when-they-are-signed-in-to-vagov) and identified opportunities to enhance the personalized experience on VA.gov.   While many are not feasible at this time for various reasons, we’re going to focus our work on two opportunities we’ve identified as initial steps toward enhancing the personalized UX.
 1. Adding items to profile (details)
 2. 
 
-Many other approaches we’ve discussed are outlined below so we can  revisit them in the future.
+These, and other approaches we’ve discussed, are outlined below. We should revisit anything on hold when the Auth Exp PO returns from leave, and can guide with prioritization.
 
 ## My VA / Profile
 ### Add items to profile that people have a hard time finding on the site
