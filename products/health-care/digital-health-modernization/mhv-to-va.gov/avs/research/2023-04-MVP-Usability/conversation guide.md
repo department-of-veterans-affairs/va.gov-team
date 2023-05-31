@@ -1,10 +1,8 @@
-
-# Conversation Guide: AVS MVP to VA.gov June, 2023
+# Conversation Guide: AVS MVP to VA.gov, June 2023
 -  [AVS MVP Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/research/2023-04-MVP-Usability/research-plan.md)
--  [AVS MVP Prototype]()
+-  [AVS MVP Prototype](https://www.figma.com/proto/VHHxvo1QA1ndWc0TBhfkNq/Add-After-Visit-Summary?page-id=2%3A3&type=design&node-id=1233-16119&viewport=-892%2C210%2C0.4&scaling=scale-down&starting-point-node-id=1233%3A16119)
 -  [AVS MVP Notetaker Participant Transcripts Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/research/2023-04-MVP-Usability/transcripts)
     
-<br/>
 <br/>
 
 ## Moderator Logistics
@@ -13,7 +11,6 @@
 -	Send guidelines for notetakers
 -	Send guidelines for observers
 -	Ensure prototype(s) are prepared and Perigean will share them with participants
-<br/>
 <br/>
 
 ## Day of the Session
@@ -32,7 +29,6 @@
 -	Ask if participants are okay with notetakers and observers joining the session. If they are, add them to the meeting and ensure they are on camera with their name visible on the screen. Introduce them to the participant. Then, ask all third parties to turn off their cameras so you can begin.
 -	Ensure everyone except the participant is on mute.
 <br/>
-<br/> 
 
 ## Agenda - 60 minutes
 - Introduction: 5 minutes
@@ -47,7 +43,7 @@
 -	Closing Questions: 3 minutes
 -	Thank you: 2 minutes
 <br/>
-<br/>
+
 
 ## Introduction - 5 minutes
 1.	Thanks for joining us today! My name is [**YOUR NAME**] and I'm a researcher at the VA.
@@ -67,7 +63,7 @@
 15.	**Start recording.**
 16.	I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 <br/>
-<br/>
+
 
 ## Warm-up: - 3 minutes
 I'd like to start by learning more about your experience reviewing information about what was discussed during your medical appointment. 
@@ -83,7 +79,7 @@ I'd like to start by learning more about your experience reviewing information a
   
 2.	What would you call or name something like that?
 <br/>
-<br/>
+
 
 ## Task 1: Initial Reactions to the AVS Interface - 7 minutes
 - 	Great, next I’d like to get your opinion on a prototype of a section on the VA.gov website.
@@ -96,7 +92,6 @@ I'd like to start by learning more about your experience reviewing information a
 1.	Please review the info on this page and share your overall impressions. Think aloud as you review. [**Notetaker:** Note any observations about the following things: Do they open the accordions? How far down the page do they scroll? What do they comment on as confusing or valuable without prompting?]
     - a.	[**Moderator Note:** If participant finds anything confusing, ask the following: What do each of those terms mean to you?]
     - b.	Would you use or not utilize this page and why? 
-<br/>
 <br/>
 
 ## Task 2: Your appointment on June 1, 2023 - 7 minutes  
@@ -118,7 +113,6 @@ Makes more sense than “You were diagnosed with” their feedback on the label
 6.	How would useful or not useful do you find the information in “Medications ordered for administration in clinic”?
     - a.	If they click on what these meds mean and we can ask them and get general feedback.
 <br/>
-<br/>
 
 ## Task 3: Your Treatment Plan from this appointment - 7 minutes
 Now, I would like you to focus on the “Your Treatment Plan from this appointment” section. Please review this section by slowly scrolling through and thinking out loud again. 
@@ -130,7 +124,6 @@ Now, I would like you to focus on the “Your Treatment Plan from this appointme
     - b.	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then ask: Okay, this section was supposed to display only the medications that were given to you during the appointment?]
 c.	How valuable, or not valuable, do you find this section to be? Why?
 <br/>
-<br/>
 
 ## Task 4: Your key medical records– 10 minutes
 Now, I would like you to scroll to “Your key medical records”.  And again, please review this section by talking aloud while you are scrolling through.
@@ -141,14 +134,10 @@ Now, I would like you to scroll to “Your key medical records”.  And again, p
     - a.	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then ask: What if I told you that a “Recall Reminder” was created during this appointment?]
     - b.	How helpful or not helpful is this information to you? Why?
     - c.	[**Placeholder Note:** If content comes back with other wording to try, then add that in as a question here.]
-
 4.	Okay please scroll down a little further. Under “Problem List”, what does this information tell you? 
     - a.	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then say: Okay, this section is supposed to display the “Problems” that were discussed during this appointment; does that make sense, or is that confusing?]
     - b.	How useful or not useful do you find this information? Why?
-
-
 5.	Great, please slowly scroll down again. [**Moderator Note:** Stop them at “My medications”] What does the “my Medications” in this section tell you?
-
     - a.	How does the “My medications” information in this section differ from the information in the “medications and supplies” in the Your Treatment Plan from this appointment” section above?
     - b.	How would you utilize or not utilize this information?
     - c.	[**Placeholder Note:** If content comes back with other wording to try, then add that in as a question here.]
@@ -171,7 +160,7 @@ Please navigate back to the page with all of your appointments listed. I want to
     - b.	What do you expect to see if you click on the “Upcoming” link?
     - c.	What do you expect to see if you click on the “Pending” link?
 <br/>
-<br/>
+
 
 ## Task 7: Insights into Notifications – 7 minutes
 Okay, so we will move on from this prototype to another topic. We’re going to talk about notifications that you might want to receive about your After-Appointment Summaries. Pretend that you received the following message:
@@ -184,13 +173,11 @@ Okay, so we will move on from this prototype to another topic. We’re going to 
 2.	How would you prefer to receive this notification (email, text message, phone call, etc.)?
 3.	If you had multiple appointments in one day, would you want one after appointment notification for each appointment that day or would you want all the appointments combined into one message?
 <br/>
-<br/>
 
 ## Closing Questions – 3 minutes
 1.	If you could change one thing about the After Appointment Visit summary, what would that be?
 2.	And lastly, do you have any questions for me?
 3.	Okay, great! That is all the questions I have for you today.
-<br/>
 <br/>
 
 ## Thank you - 2 minutes
@@ -202,6 +189,6 @@ Okay, so we will move on from this prototype to another topic. We’re going to 
 <br/>
 
 ## Emergency Exit
-•	Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
-•	Blame technology: I'm so sorry, but I just learned that the prototype we'll be reviewing today is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
-•	These are based on recommendations from the VA platform documentation.
+- Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+- Blame technology: I'm so sorry, but I just learned that the prototype we'll be reviewing today is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
+- These are based on recommendations from the VA platform documentation.
