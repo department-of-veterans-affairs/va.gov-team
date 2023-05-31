@@ -131,9 +131,15 @@ TBD
          2. Very different than web
          3. How do we guarantee that outside orgs will take the ID? - not sure, should talk to them
 
+
+
+
+
+
 ### Open Questions
 **Questions for existing VIC:**
 * Is there an API to find which Veterans have a VIC?
+  * Answer from VIC team: "This should be possible" 
 * Applying for VIC:  
   * 2 ways to apply, AccessVA or VA.gov but VA.gov isn't working right now
   * apply online, login.gov doesn't work yet but 
@@ -144,6 +150,7 @@ TBD
     * Confirming Gov ID, approve photo
   * There is an ID #
 * Can we access the VIC PDF and surface it (or ideally the data used in the PDF) in the app?
+  * * Answer from VIC team: "This should be possible"  
 * Who would we work with in VA for this?
 * What does their audience look like now?  How many Veterans have a VIC?
 * Can Veterans print the card on their own, at home? Or does it have to be printed a specific way?
