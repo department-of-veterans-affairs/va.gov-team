@@ -1,4 +1,4 @@
-# My VA Onsite Notifications Security Playbook
+# Onsite Notifications Security Playbook
 
 NOTE: 
 - links to complete data for each of the sections below is welcome and encouraged.
