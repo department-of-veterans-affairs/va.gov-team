@@ -1,6 +1,6 @@
-# WIP - Proactive CSP migration research findings
+Proactive CSP migration research findings
 Office of the CTO - Digital Experience (OCTO-DE), Sign in, Identity Team
-> **Date: MM/DD/YYYY**
+> **Date: 05/31/2023**
 
 Clayton Zook clayton.zook@oddball.io, Amanda Porter ajohnson@clarityinnovates.com, Charlye Tran charlye@bluetiger.digital
 
