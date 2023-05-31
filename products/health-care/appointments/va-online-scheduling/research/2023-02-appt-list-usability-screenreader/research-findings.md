@@ -731,12 +731,12 @@ Additionally, participants noted some information was confusing:
 
 #### Participant quotes and screenshots
 
-_Facilitator_
-
-So, thinking about everything you saw today, what were the most confusing things that we looked at?
-
-_Participant 5_
-
+> _Facilitator_
+> 
+> So, thinking about everything you saw today, what were the most confusing things that we looked at?
+> 
+> _Participant 5_
+> 
 > Some of the acronyms they use for the clinics.  If you're not familiar with those clinics and you have no idea what you're looking at. And we have a lot of old veterans so you know they have no clue what these acronyms stand for or mean. Let's see. Some people may not know about the PMR initials so it would probably be best to spell it out and then put PMR in parentheses. If I didn't know that I already been seeing PMR pain management then I would have been confused too. Like “what is this for”?
 
 — P5
@@ -858,6 +858,7 @@ All but 1 participant experienced difficulties logging in, and 3 could not log i
 > As an accessibility advocate where do you encounter the most issues that you've seen, especially with VA.gov?
 >
 > _Participant 3_
+>
 > Well first of all just getting into the system. I mean you saw what we just went through. And for those that don't know they give you four different options to login. Why not just have one system? Why do you have to have four different systems?
 
 — P3
@@ -989,8 +990,6 @@ During these sessions it was especially concerning to see one screen reader skip
 
  Also during the study accessibility experts pointed out that a common navigation tool for screen reader users was not working. If structured properly, screen reader users should be able to navigate by heading.
 
-
-
 * Fix the heading structure so the lists are navigable by screen readers when scanning through headings.
 * Fix the date/time column so it’s not skipped by screen readers.
 
@@ -1005,14 +1004,11 @@ Participants had a strong connection between sending a secure message and appoin
 Instead, ask what they use and record the answer.
 
 
-### **Continue testing on production with Veterans **
+### Continue testing on production with Veterans
 
 This surfaced many data issues that we wouldn’t have seen otherwise.
 
-
 ## Next Steps
-
-
 
 * We reached out to the Platform Research-ops team to help improve recruitment in future studies. They created a list of effective screener questions, sourced from other studies. 
 * We’re also  tracking 17 issues across 3 teams that surfaced during the sessions:
