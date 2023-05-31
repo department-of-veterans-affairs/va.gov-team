@@ -3,15 +3,26 @@
 ### Date: May 31 2023
 ### Topics covered:
 - Rakshinda's coverage - June 2 - June 15
-- Do we need more than 30 min for this sync?
+  -  Invite Lydia for the next two weeks 526 prod sync 
+- Do we need more than 30 min for this sync? 
+    - Keep it to 30 min for next few weeks
 - Issue Management Strategy 
    - What's next? 
    - Finalize and share the details with Contact Center Support team
 - Sprint 7 goals
 - Bugs and Defects
    - What's being picked up by Team Carbs?
+   - Create a ticket for Kimberley for pulling a report of issues for Team Carbs to synthesize the most impacting defects to prioritize for work
 - Create the new workspace for Disability Benefits Experience team for x-team view 
-   -  Does addition of new workspace in Zenhub add to expence/licenses?
+   - Does addition of new workspace in Zenhub add to expence/licenses? Don't know
+   - Create the DBEX workspace
+- Product syncs across other benefit teams
+   - Keep 526 product sync/share across both team1/team2
+- Schedule Meet and Greet for Austin and Julie with Alejandro - Matt S
+   - Invite Austin and Julie to the biweekly VBA checkin
+   - Send agenda link to Austin 
+-  Update the roadmap to include Team Carbs work - Austin
+-  Email about integration with va.gov - Austin to fwd email to Rakshinda and Matt
 
 ### Date: May 24 2023
 ### Topics covered:
