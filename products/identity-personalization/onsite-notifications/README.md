@@ -1,6 +1,6 @@
 # Product outline: Onsite Notifications (ie. personalized notifications that show on VA.gov)
 
-**Last updated: February 13, 2023 -- added link to "adding a new notification" doc**
+**Last updated: May 31, 2023 -- added link to security documentation**
 
 ### Communications
 
@@ -37,6 +37,7 @@
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
 - [Projects](#projects)
+- [Security](#security)
 - [Backend](#backend)
 - [Frontend](#frontend)
 - [Design](#design)
@@ -103,6 +104,9 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 |[Update design system component build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/README.md) | In development  |
 |[Onsite notifications v2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications#initiative-outline-scaling-onsite-notifications)|In development|
 |[Onsite notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp)| Launch completed October 24, 2022|
+
+## Security
+[Onsite Notifications Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/mvp/launch-materials/onsite-notifications-security-playbook.md) (includes incident response handling)
 
 ## Backend
 
