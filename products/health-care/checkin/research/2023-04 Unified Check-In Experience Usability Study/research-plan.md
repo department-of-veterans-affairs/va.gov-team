@@ -51,7 +51,7 @@ This research plan maps to the following moment within the Veteran journey:
 
 ## Research Goals 
 
-The purpose of this research is to **get feedback from Veterans on the new unified PCI experience idea** and, specifically, about ease of use and how well it meets expectations.
+The purpose of this generative research is to **get feedback from Veterans on the new unified PCI experience idea** and, specifically, about ease of use and how well it meets expectations.
 
 ### Research Questions
 
