@@ -8,7 +8,7 @@
 
 [link interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr/research/enhanced_fsr/transcripts)
 
-[link to observer notes and synthesis on Mural] (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1676650307306/94122d498bbe4aaca5ceda486dd475463a6061f0?sender=u144a57b408dc250f8de06881)
+[link to observer notes and synthesis on Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1676650307306/94122d498bbe4aaca5ceda486dd475463a6061f0?sender=u144a57b408dc250f8de06881)
 
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered.  
 
