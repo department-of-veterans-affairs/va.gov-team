@@ -82,7 +82,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 ## Launch Planning
 ### Collaboration Cycle
 
-- Collab Cycle ticket [#TBD]()
+- Collab Cycle ticket [#TBD]
      - [ ] Design Intent
      - [ ] Content and IA
      - [ ] Research
@@ -101,15 +101,15 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 ## Key deliverables
 
 - Design documentation
-   - [Proposed wireflows](TBD)
-   - [Sketch Design and User Flow](TBD)
-- [Research/Design folder](TBD)
-- [Prototype](TBD)
-- [Technical documentation folder](TBD)
+   - [Proposed wireflows]
+   - [Sketch Design and User Flow]
+- [Research/Design folder]
+- [Prototype]
+- [Technical documentation folder]
 - How to access and test
     - [Staging env](https://staging.va.gov/health-care/apply/application/introduction)
     - Testing documentation - TestRail
-    - [Test/Use cases & users](TBD)
+    - [Test/Use cases & users]
     - A11y test case documentation
 - Release plan
 - [Production env](https://www.va.gov/health-care/apply/application/introduction)
