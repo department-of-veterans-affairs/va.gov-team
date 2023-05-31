@@ -250,7 +250,94 @@ So, now we need to open this prototype. So, I’d like for you to navigate down 
 
 *Veteran should be on the check-in authentication page.* 
 
+Perfect. So, again, let’s pretend that you selected the link from your text message and it opened this page. 
 
+Now, please start reviewing the information on this screen, but remember, don’t advance to the next page yet. 
+
+Great. And again, for this session today, we don’t need you to provide your actual last name and date of birth. So, please go ahead and select the “Continue” button to advance to the next page.   
+
+*Veteran should be on the check-in appointment list page.*  
+
+Perfect. So, again, please start reviewing the information on this screen, but remember, don’t advance to the next page yet. 
+
+- Great. Now, without doing it yet, what would you do next on this page?
+- And, why would you do that next? 
+- And, how easy or difficult was it to understand what to do next on this page?  
+- Is there anything unclear to you on this page? 
+- Is there anything missing? 
+- Is there anything you would recommend changing or adding?
+
+Great. Now, let’s go ahead and proceed to the next page. 
+
+*Veteran should be on the first travel reimbursement question page.*
+
+Now, for the next four pages, go through the information on the screen and then select “Yes” to each question to advance to the next page. 
+
+*Veteran should be on the check-in confirmation page.*    
+
+Perfect. So, again, please start reviewing the information on this screen, but remember, don’t advance to the next page yet. 
+
+- Great. And, what information on this page is most important to you?  
+- Is there anything unclear to you on this page? 
+- Is there anything missing? 
+- Is there anything you would recommend changing or adding?
+- Great. Now, without doing it yet, what would you do next on this page? 
+- And, from this page, how would you find out if you had other upcoming appointments that needed to be reviewed?
+
+*Veteran should be reviewing the “manage appointments” component on the check-in confirmation page.* 
+
+- Great. And, how easy or difficult was it to find out if your other upcoming appointments needed to be reviewed too?
+- And, is there anything you would recommend doing to make this information easier to find? 
+
+Great. Now, let’s go ahead and review your other upcoming appointments. 
+
+*Veteran should be on the check-in appointment list.* 
+
+Go ahead and start reviewing the information on this screen, but remember, don’t advance to the next page yet. 
+
+- Great. And, what information on this page is most important to you?  
+- Is there anything unclear to you on this page?
+- Is there anything missing? 
+- Is there anything you would recommend changing or adding?
+- Great. Now, without doing it yet, what would you do next on this page? 
+- And, how easy or difficult was it to understand what to do next on this page? 
+- And, how would you recommend that we make it easier to understand what to do next on this page?
+
+Great. Now, let’s go ahead and proceed to the next page. 
+
+*Veteran should be on the “You’ve confirmed your appointment” page.* 
+
+Perfect. So, again, please start reviewing the information on this screen, but remember, don’t advance to the next page yet. 
+
+- Great. And, what information on this page is most important to you?  
+- Is there anything unclear to you on this page? 
+- Is there anything missing? 
+- Is there anything you would recommend changing or adding?
+- Great. So, overall, how easy or difficult has it been to complete this process? And, why?
+- And, overall, has there been any information or any step that’s been unclear?  
+- And, overall, has there been anything that you would change or add about this process to make it easier? 
+
+Great. Thank you. 
+
+### Post-Tasks Questions - 5 Minutes
+
+Now, I have just a couple follow up questions for you about the two prototypes that you reviewed today.  
+
+- So, overall, how easy or difficult was it to understand the difference between the process of preparing for an upcoming appointment versus checking in to an appointment? And, why? 
+- And, overall, how easy or difficult was it to understand that you still have to complete the check in process even though you completed the process for preparing for your upcoming appointment a few days before? And, why? 
+- And, overall, how helpful did you find it to be able to review all of your other upcoming appointments during the process of preparing for an upcoming appointment and checking in to an appointment? And, why? 
+- And, would you find it more helpful to receive a text message from the VA when it’s time to check in for your appointment or find instructions on how to check in written on a poster hanging on the wall at the clinic? And, why? 
+- Great. And, if the VA were to send you a text message when it’s time to check in for your appointment (on the day of your appointment), would you prefer to receive one message before each of your appointments? Or one message at the start of the day? And, why? 
+
+## Closing - 1 Minute
+
+Great. Thank you. Well, that is all the questions I have for you today. Is there anything else that we haven’t talked about that you’d like to share with me?  
+
+Great. Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the appointment check in process and make sure it really works for Veterans.
+
+Thank you for your feedback and thank you again so much for joining us today. 
+
+Have a great rest of your day. 
 
 
 
