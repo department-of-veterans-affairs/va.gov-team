@@ -1,4 +1,4 @@
-# Research Summary February 2023
+# Research Index February 2023
 
 ## Foundational Artifacts
 [Journeys of Veterans Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) (VEO, 2019?) 
