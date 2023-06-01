@@ -130,8 +130,8 @@ Availability for a kick-off call:
 - June 6, 9am-530pm
 
 ### Pilot session
-* Pilot participant email:  
-* Date and time of pilot session:  TBD
+* Pilot participant email: robin.garrison@adhocteam.us 
+* Date and time of pilot session: June 7, 3pm-4pm ET
 
 ### Research sessions
 * Planned dates of research: June 12 - June 20 (not the 19th)
