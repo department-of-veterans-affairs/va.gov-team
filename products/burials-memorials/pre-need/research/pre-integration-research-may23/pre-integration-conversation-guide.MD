@@ -10,6 +10,7 @@
 - _Make sure everyone except the participant and moderator are on mute._
 - _In the Audio section, tap the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked._
 - _Check your [screensharing setup]. Make sure they are setup on Zoom app and ready to screenshare._
+- _Check to make sure participants will be able to share their screen in Zoom (Share Screen button, Advanced Sharing Options)_
 - _When the participant is ready, begin the session with the following intro._
 
 ## Project-Specific Setup and Intro - 10 minutes
