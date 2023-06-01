@@ -1,11 +1,11 @@
-# Research Plan: Evidence Submission Usability Testing (WIP)
+# Research Plan: Evidence Submission Usability Testing
 
 Benefits Team 1 · June 2023
 
 ## Background
-In our research on [Decision Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/research-findings.md) and [Initial Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-03-Initial-Decisions-CST/research-findings.md) we identified a number of issues with the Claim Status Tool user experience. One of the main pain points relates to evidence submission: Veterans don't have a good understanding of what type of evidence to submit, and once the claim is in progress they are anxious about whether there is anything they need to do, or any additional materials they need to provide, to improve the likelihood of a favorable outcome. 
+In our research on [Decision Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-11-Decision-Reviews/research-findings.md) and [Initial Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-03-Initial-Decisions-CST/research-findings.md) we identified a number of issues with the Claim Status Tool user experience. One of the main pain points relates to evidence submission: Veterans don't have a good understanding of what type of evidence to submit, and once the claim is in progress they are anxious about whether there is anything they need to do – or any additional materials they need to provide – to improve the likelihood of a favorable outcome. 
 
-With this set of design changes to CST, we hope to make it clearer to Veterans what actions – if any – they need to take to support their claim. We also hope to improve the experience overall, leading to a CST that is more accessible, easier to understand, and leaves Veterans feeling more secure about the status of their claim. 
+With this set of design changes to CST, we hope to make it clearer to Veterans what actions – if any – they need to take to support their claim. We also hope to improve the UX overall, creating a CST that is more accessible, easier to understand, and leaves Veterans feeling secure about the status of their claim. 
 
 ### OCTO Priorities 
 
@@ -16,21 +16,22 @@ This work supports the following [OCTO priorities](https://github.com/department
 This work supports a Veteran whenever they are filing a disability compensation claim, which could occur across a wide swath of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf), ranging all the way from "Getting out" to "Aging." 
 
 ## Research Goals	
-- Assess the usability of these CST design proposals for Veterans, including Veterans with specific accessibility needs
-- Uncover any additional ideas we should pursue to improve the evidence submission experience for Veterans in CST. 
+- Assess the usability of these CST design proposals for Veterans
+- Uncover any additional ideas we should pursue to improve the evidence submission experience for Veterans in CST
 
 ### Outcome
-With this research we hope to validate the usability of our design concepts for "Track 1" Evidence Submission work. "Track 1" is a set of near-term, concrete user experience and accessibility updates we want to make to CST. "Track 2" work for CST will require more validation through concept testing before we refine the designs.
+With this research we hope to validate the usability of our design concepts for "Track 1" Evidence Submission work. "Track 1" is a set of near-term, concrete user experience and accessibility updates we want to make to CST.
 
 ### Research questions
 - Does this new design make it easier for Veterans to understand when they have a request to take action on a claim in CST? Are they better able to understand exactly what that request is and how to act on it? 
+- Does including the claim ID in the claim card make it easier for Veterans to distinguish between different claims in CST?
 - Do Veterans respond positively to the new layout of the Claim Details page, with separate sections dedicated to Veteran actions and VA actions?
-- Do Veterans respond positively to other new a11y and UX improvements in this version of CST? 
+- Do Veterans respond positively to other UX improvements in this version of CST? 
 
 ### Hypothesis
 Our hypothesis is that this new design for CST will accomplish the following: 
 - Make it easier for Veterans to see requests for evidence submission and understand what those requests are
-- Make CST more accessible to Veterans who use assistive technology
+- Make it easier to distinguish between claims in CST
 - Make it easier for Veterans to understand what is happening with their claim at any given time
 - Make it clearer to Veterans whether or not they need to take any action to advance their claim
 
@@ -46,27 +47,10 @@ Remote on Zoom
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-05-Evidence-Submission/conversation-guide.md)
+- [Prototype](https://www.sketch.com/s/98e35645-34eb-40cf-80c1-6c4952943584/p/01111023-CE9B-49FE-87C1-36D6FF497D5A/canvas)
 	
 ## Recruitment	
-
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
 The intended audiences is Veterans who at some point filed a disability compensation claim with the VA in the last 10 years. 
@@ -75,7 +59,6 @@ The intended audiences is Veterans who at some point filed a disability compensa
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
 **Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
 15 total participants:
 
@@ -91,10 +74,8 @@ What criteria would strengthen your results?
 - 1 LGBTQ+ Veteran (Gay, lesbian, or bisexual, Transgender, or Nonbinary, gender fluid, gender queer, Two-Spirit.
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: rocio@coforma.io
@@ -105,7 +86,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Length of sessions
 * Session length: 1 hour
-* Buffer time between sessions: 30 min 
+* Buffer time between sessions: 1 hour
 * Maximum Sessions per day: 3
 
 ### Availability
