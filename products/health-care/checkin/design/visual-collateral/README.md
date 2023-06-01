@@ -5,18 +5,18 @@
 ### Latest Release (PDF)
 - Release Notes
   - 5/30/2023 - Updated per IVC feedback <br><br>
-    - 8.5" X 11" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11606159/8.5x11-lowvision-noqrcode-fin.pdf)
- Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11606163/8.5x11-lowvision-noqrcode-philippines-fin.pdf)
+    - 8.5" X 11" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11629886/8.5x11-lowvision-noqrcode-fin.pdf)
+ Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11629889/8.5x11-lowvision-noqrcode-philippines-fin.pdf)
 
 
 
-    - 11" x 17" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11606164/11x17-lowvision-noqrcode-fin.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11606166/11x17-lowvision-noqrcode-philippines-fin.pdf)
+    - 11" x 17" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11629890/11x17-lowvision-noqrcode-fin.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11629896/11x17-lowvision-noqrcode-philippines-fin.pdf)
 
 
 
 
-    - 24" x 36" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11606168/24x36-lowvision-noqrcode-fin.pdf)
- Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11606172/24x36-lowvision-noqrcode-philippines-fin.pdf)
+    - 24" x 36" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11629898/24x36-lowvision-noqrcode-fin.pdf)
+ Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11629901/24x36-lowvision-noqrcode-philippines-fin.pdf)
 
  <br><br>
 
