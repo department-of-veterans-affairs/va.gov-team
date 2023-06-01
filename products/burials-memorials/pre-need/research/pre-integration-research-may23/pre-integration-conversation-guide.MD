@@ -30,7 +30,7 @@ _Can actually do this while explaining to them where to find “Chat” and “S
 
 - Okay, now I'm going to ask you to share your screen in Zoom so that we can look at the prototype together and then we'll begin. Are you on a desktop, mobile or tablet device?
 
-**Talk them through Zoom screen sharing and chat features.** [Zoom share screen directions](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
+**Talk them through finding the chat window to locate the link and the Zoom screen sharing features.** [Zoom share screen directions](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
 
 [Pre-Integration v0.1 InVision Prototype UT Link](TBD)
 
