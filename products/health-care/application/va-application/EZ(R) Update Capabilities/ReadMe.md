@@ -167,6 +167,7 @@ TBD
   
 #### Resources  
 - VA Profile: VAPROFILEPM@va.gov
+     - Slack Channel: #va-profile
      - https://dvagov.sharepoint.com/sites/OITEPMOVAPROPUB (must be on VA network)
      - Emily Gupta is part of this team and had been contacted in February 2023 regarding the EZR and some data that might be available.  While the communication did not offer any answers to our questions at the time, we were able to get the email contact (above) and VA Profile sharepoint site with some details.
 
