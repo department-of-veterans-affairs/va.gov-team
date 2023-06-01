@@ -1,5 +1,5 @@
 ---
-name: Check In Experience Design Solution Spike Content Task
+name: Check In Experience Design Solution Spike 
 about: For Check In Experience to determine a design solution to pursue
 title: "[UX][Design] SPIKE: Determine Design Options"
 labels: HCE-Checkin, ux, design
@@ -16,5 +16,5 @@ assignees: ''
 
 ## Acceptance Criteria
 - [ ] Design solution has been chosen
-- [ ] Design solution idea has been vetted and is ready to be implemented (i.e. ready to create the annotated wireframes)
+- [ ] Design solution idea has been vetted and is ready to be implemented (i.e. ready to create the wireframes)
 - [ ] Follow-up tickets have been created
