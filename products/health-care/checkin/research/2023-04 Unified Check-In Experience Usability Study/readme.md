@@ -11,8 +11,6 @@ Date(s): June 12-20, 2023
 
 ## Participants 
 
-Perigean to recruit a total of 18 Veterans in order to get 12 completed sessions, which includes 5 completed sessions with screen reader users and 2 completed sessions with screen magnification or zoom users.
-
 [Recruitment request](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/321#event-9308399813)
 
  
