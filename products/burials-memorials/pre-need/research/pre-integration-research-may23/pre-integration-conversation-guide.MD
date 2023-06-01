@@ -108,7 +108,7 @@ Ok, in the prototype we're looking at the start of the Pre-Need application.
 ## Task 2: Applying for Self - Applicant is Non-Veteran - 15 minutes
 
 Ok, in the prototype we're looking at the start of the Pre-Need application. 
-- **Scenario:** For your scenario, pretend that you are Sammy Smith, the **spouse** of a service member in the Navy. Your spouse's name is Robin, and you want to plan for the future and find out if you're eligible for burial in a VA national cemetery with them sponsoring your benefits. How would you go about filling out this application?  You will sign in to fill out the form.
+- **Scenario:** For your scenario, pretend that you are Sammy Smith, the **spouse** of a service member in the Navy, and you want to plan for the future and find out if you're eligible for burial in a VA national cemetery with your spouse sponsoring your benefits. How would you go about filling out this application?  You will sign in to fill out the form.
 
 ### Questions to ask as they go through scenario
 - **Introduction**
@@ -152,7 +152,7 @@ Ok, in the prototype we're looking at the start of the Pre-Need application.
 ## Task 3: Applying for Someone Else - Applicant is Non-Veteran - 20 minutes
 
 Ok, in the prototype we're looking at the start of the Pre-Need application. 
-- **Scenario:** For your scenario, pretend that you are Sammy Smith. You're a navy Veteran, and you want to apply for Pre-Need for your unmarried adult child who is 20 years old. Your child's name is Robin and you want to plan for the future and find out if they're eligible for burial in a VA national cemetery under your benefits. How would you go about filling out this application?  You will sign in to fill out the form.
+- **Scenario:** For your scenario, pretend that you are Sammy Smith. You're a navy Veteran, and you want to apply for Pre-Need for your unmarried adult child who is 20 years old. You want to plan for the future and find out if they're eligible for burial in a VA national cemetery under your benefits. How would you go about filling out this application?  You will sign in to fill out the form.
 
 ### Questions to ask as they go through scenario
 - **Introduction**
