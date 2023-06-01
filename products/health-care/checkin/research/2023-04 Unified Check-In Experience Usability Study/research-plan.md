@@ -115,7 +115,7 @@ Remote with Zoom
 
 ## Recruitment 
 
-**Perigean to recruit a total of 18 Veterans in order to get 12 completed sessions,** which includes 5 completed sessions with screen reader users and 2 completed sessions with screen magnification or zoom users. 
+**Perigean to recruit a total of 18 Veterans in order to get 12 completed sessions,** which includes 5 completed sessions with screen reader users, 2 completed sessions with screen magnification or zoom users, 3 completed sessions with non AT cognitive impairment users and 2 completed sessions with non AT users.
 
 [Recruitment intake ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/321#event-9308399813)
 
