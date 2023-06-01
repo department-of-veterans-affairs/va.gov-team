@@ -212,6 +212,8 @@ Wonderful! Thank you so much for walking through that with us and telling us you
 - Thanks so much! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 - Thank you so much again, and enjoy the rest of your day!
 
+**STOP RECORDING** 
+
 ## Emergency Exit
 
 > [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
