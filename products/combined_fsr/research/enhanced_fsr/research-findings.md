@@ -143,6 +143,20 @@ What are you trying to learn from this research?
 
 We conducted 75-minute to 90 minute long remote moderated research sessions via Zoom on  **May 17-24, 2023**. Participants were asked to sign in to their MyVA accounts and fill out the enhanced [Financial Status Report](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction) on VA.gov after their accounts had been whitelisted. One user filled out the form on staging after the moderator gave remote access and several filled out the form or were shown the form on [UXPin](https://preview.uxpin.com/f43733391f52c409c4d3152e9a4b101a392e29df#/pages/161460690/simulate/sitemap).
 
+
+## Hypotheses and Conclusions
+
+*Primary Hypothesis*
+
+Veterans will be able to easily understand and fill out the form given the new list & loop pattern, be able to edit their contact information, view and edit their VA benefits, and easily view and understand the resolution options. 
+
+*Secondary Hypothesis*
+
+The enhanced FSR format and language will be easy to digest, and most will be able to fill out the form independently (accessibility). 
+
+
+_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+
 ## Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
