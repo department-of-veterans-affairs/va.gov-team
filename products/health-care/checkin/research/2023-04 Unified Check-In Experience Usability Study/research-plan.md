@@ -126,7 +126,8 @@ Remote with Zoom
 **We would like to request a 15 minute kick-off call with Perigean before recruiting begins.**
 
 Availability for a kick-off call: 
-- TBD
+- June 5, 9am-2pm, 330pm-530pm
+- June 6, 9am-530pm
 
 ### Pilot session
 * Pilot participant email:  
