@@ -26,7 +26,7 @@
 - I'm going to send you a link in the chat that I would like for you to open.
 _Can actually do this while explaining to them where to find “Chat” and “Share,” so by the end we're looking at their screen, then move onto recording._
 
-- Okay, now I'm going to ask you to share your screen in Zoom so that we can look at the prototype together and then we'll begin. 
+- Okay, now I'm going to ask you to share your screen in Zoom so that we can look at the prototype together and then we'll begin. Are you on a desktop, mobile or tablet device?
 
 **Talk them through Zoom screen sharing and chat features.** [Zoom share screen directions](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
 
