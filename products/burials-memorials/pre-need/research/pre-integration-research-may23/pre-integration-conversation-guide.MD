@@ -108,7 +108,7 @@ Ok, in the prototype we're looking at the start of the Pre-Need application.
 ## Task 2: Applying for Self - Applicant is Non-Veteran - 15 minutes
 
 Ok, in the prototype we're looking at the start of the Pre-Need application. 
-- **Scenario:** For your scenario, pretend that you are Sammy Smith, the **spouse** of a service member in the Navy, and you want to plan for the future and find out if you're eligible for burial in a VA national cemetery with your spouse sponsoring your benefits. How would you go about filling out this application?  You will sign in to fill out the form.
+- **Scenario:** For your scenario, pretend that you are Sammy Smith, the **spouse** of a service member in the Navy. You want to plan for the future and find out if you're eligible for burial in a VA national cemetery. Your spouse is sponsoring your benefits. How would you go about filling out this application?  You will sign in to fill out the form.
 
 ### Questions to ask as they go through scenario
 - **Introduction**
