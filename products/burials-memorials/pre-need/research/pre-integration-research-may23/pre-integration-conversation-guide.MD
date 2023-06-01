@@ -14,7 +14,8 @@
 
 ## Project-Specific Setup and Intro - 10 minutes
 
-- Thanks for joining us today! My name is [moderator name] and I also have some colleagues on the line observing and taking notes. Today, we're going to review a prototype of the VA pre-need application for eligibility determination at a VA national cemetery. We're working on improvements to the form, so it's important that we get feedback from users.
+- [Moderator turns on camera. Waits to admit observers until consent is received from participant] 
+Thanks for joining us today! My name is [moderator name] and I also have some colleagues on the line observing and taking notes. Today, we're going to review a prototype of the VA pre-need application for eligibility determination at a VA national cemetery. We're working on improvements to the form, so it's important that we get feedback from users.
 - This entire session should take about 45 minutes or less. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question.
 - You'll be taking a look at a prototype of the application. This prototype is basically made up of images or mockups so none of your actions will affect your actual VA information or benefits and none of your details are collected at any point or associated to your comments. As you click through the prototype, the fields will prefill with test data. 
 - If, for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.
@@ -22,7 +23,7 @@
    - _If no: Use Slack to kindly ask the observers to leave the Zoom._
    - _If yes: Admit observers._ 
     - _Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)_
-   - _Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth_
+   - _Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth. Moderator can turn off camera._
 - I'm going to send you a link in the chat that I would like for you to open.
 _Can actually do this while explaining to them where to find “Chat” and “Share,” so by the end we're looking at their screen, then move onto recording._
 
