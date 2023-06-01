@@ -65,7 +65,7 @@ We talked about ways to make static pages smarter by surfacing personalized info
 #### Showing personalized information we surface on My VA on static pages that link people to tools
 There are static pages on the site that link to tools, with a call to action that says “View your [tool data]”.  Above the call to action, we could pull in the most recent information through a card, like we do on My VA.
 
-After reviewing with IA, we determined this isn’t an ideal approach because the sign-in CTAs that link to these static pages, should actually go to the tool instead.  Our effort is better placed in optimizing those flows ([read below](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization-enhancements/opportunities.md#optimize-static-page--sign-in--static-page--tool-flows)).
+[We started a brief on this](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization-enhancements/surfacing-personalized-content.md), but after reviewing with IA, we determined this isn’t an ideal approach because the sign-in CTAs that link to these static pages, should actually go to the tool instead.  Our effort is better placed in optimizing those flows ([read below](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization-enhancements/opportunities.md#optimize-static-page--sign-in--static-page--tool-flows)).
 
 #### Showing content about My VA on static pages where it’s relevant
 We have a “More Information” section at the bottom of many static pages. We could use these boxes as a way to highlight My VA and raise awareness about it.  Impact would likely be pretty low.	[Example](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684266228888/70e80eb031b0215679917698dc3abfcd74c76e03?wid=0-1685619334931)x	
@@ -102,7 +102,9 @@ Optimizing these flows would be create a more consistent and predictable experie
 ### Forms and applications
 
 #### Confirmation page
-At the end of a form flow, we could direct people to My VA when it makes sense ([concept](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684266228888/70e80eb031b0215679917698dc3abfcd74c76e03?wid=0-1684267557640)).
+At the end of a form flow, we could direct people to My VA when it makes sense ([concept](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684266228888/70e80eb031b0215679917698dc3abfcd74c76e03?wid=0-1684267557640)). 
+
+[We called out this opportunity as an initial step toward surfacing personalized information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization-enhancements/surfacing-personalized-content.md), but decided to hold off on that work due to the heavy dependency on other teams to execute, and lack of product support while Samara is out.
 
 ##### Consideration
 For any of this work, we’d need to collaborate with product teams and have them prioritize this in their backlog.
