@@ -153,7 +153,7 @@ Ok, in the prototype we're looking at the start of the Pre-Need application.
 ## Task 3: Applying for Someone Else - Applicant is Non-Veteran - 20 minutes
 
 Ok, in the prototype we're looking at the start of the Pre-Need application. 
-- **Scenario:** For your scenario, pretend that you are Sammy Smith. You're a navy Veteran, and you want to apply for Pre-Need for your unmarried adult child who is 20 years old because you want to plan for the future and find out if they're eligible for burial in a VA national cemetery under your benefits. How would you go about filling out this application?  You will log in as an authenticated user.
+- **Scenario:** For your scenario, pretend that you are Sammy Smith. You're a navy Veteran, and you want to apply for Pre-Need for your unmarried adult child who is 20 years old. Your child's name is Robin and you want to plan for the future and find out if they're eligible for burial in a VA national cemetery under your benefits. How would you go about filling out this application?  You will log in as an authenticated user.
 
 ### Questions to ask as they go through scenario
 - **Introduction**
