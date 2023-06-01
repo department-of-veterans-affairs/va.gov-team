@@ -66,7 +66,7 @@ Ok, it seems like we're having some trouble getting the prototype up on your scr
 ## Getting Started - 1 minute
 
 - When applying to see if you're eligible for burial in a VA national cemetery, the VA Pre-Need application can be used. I'm going to give you a scenario for you to walk through a prototype of this application and give us your thoughts.
-- This prototype is a work in progress, so there might be a few mistakes, or it may not function exactly the way you expect, which is ok. Some areas will be clickable and some will not and some fields will fill in when you click on them.
+- The prototype link I shared is a work in progress, so there might be a few mistakes, or it may not function exactly the way you expect, which is ok. Some areas will be clickable and some will not and some fields will fill in when you click on them.
 - While you're going through the scenario, it would be really helpful if you'd think aloud - kind of like you'd do if you were talking to yourself. We are interested in your first reactions, what you're thinking & wondering as you go through the process. The more you say about what you are thinking and wondering, the more we’ll learn, so we want to hear your honest opinions. We're not testing your ability. We just want to improve the form to better meet Veteran's needs. We won't be offended by any opinions you express, and we welcome your feedback.
 - When you think aloud, it helps us understand what works well and where we might want to make improvements to make things even easier. If you have questions, it’s likely that many other Veterans will, as well, so feel free to ask them along the way. 
 
