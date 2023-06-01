@@ -57,6 +57,7 @@ The proposed sequence above outlines four new vets-api endpoints.
 - How can we have security confidence that the patient is checking into only their appointments?
 - [LP] Currently, the mobile app gets their appointment info from VAOS; to test in a Staging environment, the Mobile App team has to get the VAOS team to create appointments for them in the Vista instance that VAOS uses; we need to determine if this is the same Vista instance that the CIE team uses for the Staging tool; if it is not, I'm not sure how we are going to test in Staging
 - Should the API start enforcing the bussiness rules around check-in? Currently the frontend, does the checks to determine some of the elligability for checking-in a patient i.e. demogrpahics confirmations. With more applications wanting to do check-in, should those business rules move into the API side?
+- What patient info is available from the mobile app JWT token? (DFNs Stations)
 
 ## Internal questions:
 - Should we create a new vets-api module for fully authed applications(suggestions from Stephen)?
