@@ -72,3 +72,104 @@ The proposed sequence above outlines four new vets-api endpoints.
 - Patient must have confirmed demographics in the past 7 days (our business rule)
 - Set eCheckInStarted (happens in initiateCheckIn now), setCheckIn, and eCheckInComplete in vista
 - Log success 
+
+
+## VAOS example payload
+```
+{
+  "data": [
+    {
+      "id": "71083",
+      "identifier": [
+        {
+          "system": "http://med.va.gov/fhir/urn/vaos/vvs/id",
+          "value": "5b5085c9-93c3-4db0-9966-898aeae4956f"
+        }
+      ],
+      "kind": "telehealth",
+      "status": "booked",
+      "patientIcn": "[REDACTED]",
+      "locationId": "983",
+      "practitioners": [
+        {
+          "identifier": [
+            {
+              "system": "dfn-983",
+              "value": "520647592"
+            }
+          ],
+          "name": {
+            "family": "Killingsworth",
+            "given": [
+              "Rachel"
+            ]
+          },
+          "practiceName": "Cheyenne VA Medical Center"
+        }
+      ],
+      "start": "2022-01-03T16:30:00Z",
+      "end": "2022-01-03T16:50:00Z",
+      "minutesDuration": 20,
+      "cancellable": true,
+      "patientInstruction": "",
+      "telehealth": {
+        "url": "https://dev.care.va.gov/vvc-app/?join=1&media=1&escalate=1&conference=VAC000417967@dev.care.va.gov&pin=231674&aid=5b5085c9-93c3-4db0-9966-898aeae4956f#",
+        "group": true,
+        "vvsKind": "ADHOC"
+      },
+      "extension": {
+        "ccLocation": {
+          "address": {}
+        },
+        "vistaStatus": []
+      }
+    },
+    {
+      "id": "71084",
+      "identifier": [
+        {
+          "system": "http://med.va.gov/fhir/urn/vaos/vvs/id",
+          "value": "d86a6b5b-b8c4-4f65-b927-813dab3bd292"
+        }
+      ],
+      "kind": "telehealth",
+      "status": "booked",
+      "patientIcn": "[REDACTED]",
+      "locationId": "983",
+      "practitioners": [
+        {
+          "identifier": [
+            {
+              "system": "dfn-983",
+              "value": "520647592"
+            }
+          ],
+          "name": {
+            "family": "Killingsworth",
+            "given": [
+              "Rachel"
+            ]
+          },
+          "practiceName": "Cheyenne VA Medical Center"
+        }
+      ],
+      "start": "2022-01-03T23:35:00Z",
+      "end": "2022-01-03T23:55:00Z",
+      "minutesDuration": 20,
+      "cancellable": true,
+      "patientInstruction": "",
+      "telehealth": {
+        "url": "https://dev.care.va.gov/vvc-app/?join=1&media=1&escalate=1&conference=VAC000417968@dev.care.va.gov&pin=428900&aid=d86a6b5b-b8c4-4f65-b927-813dab3bd292#",
+        "group": true,
+        "vvsKind": "ADHOC"
+      },
+      "extension": {
+        "ccLocation": {
+          "address": {}
+        },
+        "vistaStatus": []
+      }
+    }
+  ]
+}
+```
