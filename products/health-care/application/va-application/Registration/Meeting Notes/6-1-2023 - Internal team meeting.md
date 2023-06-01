@@ -1,5 +1,6 @@
 ## 6-1-2023 - Internal team meeting
 - Attendees: Jessica Stump, Luis Samauchi, Hieu Vo, Heather Justice
+- Resource: [Reg Only Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684348883203/49fc4ff1bf31f3cabe200663708c1002645b447f?sender=u5ad49c107baa41137f271007)
 
 ### Notes
 - During today's meeting, we discussed the possibility of refactoring the current EZ flow to complete "Registration" fields first, and prompting for enrollment eligibility based on various criteria.  
