@@ -126,5 +126,5 @@ As soon as possible, **improve our app tracking to measure the level of engageme
 #### **Next steps would include:**
 
 * Seek additional contextual data around the calls currently received regarding Claims that include the app. 
-* Plan and perform user research regarding what types of empowerment and personalization the app could provide in Claims. 
-* Make recommendation(s) for feature improvements based on research.
+* (Potentially) Plan and perform user research regarding what types of empowerment and personalization the app could provide in Claims. 
+    * (Potentially) Make recommendation(s) for feature improvements based on research.
