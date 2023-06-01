@@ -28,7 +28,7 @@
 - Are you on a desktop, mobile or tablet device?
 - I'm going to send you a link in the chat that I would like for you to open.
 
-**Talk them through finding the chat window to locate the prototype link and the Zoom screen sharing features.** [Zoom share screen directions](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
+**If they have trouble locating the chat or with sharing, talk them through finding the chat window to locate the prototype link and the Zoom screen sharing features.** [Zoom share screen directions](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
 
 _Can actually do this while explaining to them where to find “Chat” and “Share,” so by the end we're looking at their screen, then move onto recording._
 
