@@ -12,7 +12,8 @@ QA was performed manually by team members to the best of our ability based on li
 - Noted in the findings table below and in the attached spreadsheet above.
 
 ## Accessibility Staging Review Prep
-[Notification Component on My VA - Accessibility Staging Review Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/launch-materials/notification-design-system-component-a11y-staging-review-prep.md)
+- [Notification Component on My VA - Accessibility Staging Review Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/launch-materials/notification-design-system-component-a11y-staging-review-prep.md)
+- [#59505](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59505)
 
 ## Test URL
 The application can be accessed directly at https://staging.va.gov/my-va
