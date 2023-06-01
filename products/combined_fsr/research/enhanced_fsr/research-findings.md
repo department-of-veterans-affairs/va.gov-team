@@ -229,3 +229,24 @@ Disability and Assistive Technology (AT):
 * Sighted keyboard: 0
 * Captions: 0
 
+
+## Underserved groups we haven’t talked to 
+
+_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
+
+This research does not include the perspectives of the following marginalized Veteran groups:
+* Age 55-64+
+* Cognitive considerations
+* Rural
+* Other than honorable discharge
+* Immigrant origin
+* Expat 
+* Hispanic
+* Biracial
+* Asian
+* Native
+* LGBTQ+
+* Veterans who use assistive technology 
+
+_[insert screenshot of completed recruitment checker]_
+![VA-recruitment-checker](link - add image to github folder and link here with .png)
