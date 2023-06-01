@@ -62,7 +62,7 @@ Ok, it seems like we're having some trouble getting the prototype up on your scr
 ## Getting Started - 1 minute
 
 - When applying to see if you're eligible for burial in a VA national cemetery, the VA Pre-Need application can be used. I'm going to give you a scenario for you to walk through a prototype of this application and give us your thoughts.
-- This prototype is a work in progress, so there might be a few mistakes, or it may not function exactly the way you expect, which is ok. Some areas will be clickable and some will not.
+- This prototype is a work in progress, so there might be a few mistakes, or it may not function exactly the way you expect, which is ok. Some areas will be clickable and some will not and some fields will fill in when you click on them.
 - While you're going through the scenario, it would be really helpful if you'd think aloud - kind of like you'd do if you were talking to yourself. We are interested in your first reactions, what you're thinking & wondering as you go through the process. The more you say about what you are thinking and wondering, the more we’ll learn, so we want to hear your honest opinions. We're not testing your ability. We just want to improve the form to better meet Veteran's needs. We won't be offended by any opinions you express, and we welcome your feedback.
 - When you think aloud, it helps us understand what works well and where we might want to make improvements to make things even easier. If you have questions, it’s likely that many other Veterans will, as well, so feel free to ask them along the way. 
 
@@ -71,7 +71,7 @@ Ok, it seems like we're having some trouble getting the prototype up on your scr
 ## Task 1: Applying for Self - Applicant is Veteran - 15 minutes
 
 Ok, in the prototype we're looking at the start of the Pre-Need application. 
-- **Scenario:** For your scenario, pretend that you are Sammy Smith, a Navy Veteran, and that you want to plan for the future and find out if you're eligible for burial in a VA national cemetery. How would you go about filling out this application?  You will log in as an authenticated user.
+- **Scenario:** For your scenario, pretend that you are Sammy Smith, a Navy Veteran, and that you want to plan for the future and find out if you're eligible for burial in a VA national cemetery. How would you go about filling out this application?  You will sign in to fill out the form.
 
 ### Questions to ask as they go through scenario
 - **Introduction**
@@ -109,7 +109,7 @@ Ok, in the prototype we're looking at the start of the Pre-Need application.
 ## Task 2: Applying for Self - Applicant is Non-Veteran - 15 minutes
 
 Ok, in the prototype we're looking at the start of the Pre-Need application. 
-- **Scenario:** For your scenario, pretend that you are Sammy Smith, the **spouse** of a service member in the Navy. Your spouse's name is Robin, and you want to plan for the future and find out if you're eligible for burial in a VA national cemetery with them sponsoring your benefits. How would you go about filling out this application?  You will log in as an authenticated user.
+- **Scenario:** For your scenario, pretend that you are Sammy Smith, the **spouse** of a service member in the Navy. Your spouse's name is Robin, and you want to plan for the future and find out if you're eligible for burial in a VA national cemetery with them sponsoring your benefits. How would you go about filling out this application?  You will sign in to fill out the form.
 
 ### Questions to ask as they go through scenario
 - **Introduction**
@@ -153,7 +153,7 @@ Ok, in the prototype we're looking at the start of the Pre-Need application.
 ## Task 3: Applying for Someone Else - Applicant is Non-Veteran - 20 minutes
 
 Ok, in the prototype we're looking at the start of the Pre-Need application. 
-- **Scenario:** For your scenario, pretend that you are Sammy Smith. You're a navy Veteran, and you want to apply for Pre-Need for your unmarried adult child who is 20 years old. Your child's name is Robin and you want to plan for the future and find out if they're eligible for burial in a VA national cemetery under your benefits. How would you go about filling out this application?  You will log in as an authenticated user.
+- **Scenario:** For your scenario, pretend that you are Sammy Smith. You're a navy Veteran, and you want to apply for Pre-Need for your unmarried adult child who is 20 years old. Your child's name is Robin and you want to plan for the future and find out if they're eligible for burial in a VA national cemetery under your benefits. How would you go about filling out this application?  You will sign in to fill out the form.
 
 ### Questions to ask as they go through scenario
 - **Introduction**
