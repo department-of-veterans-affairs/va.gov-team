@@ -37,9 +37,9 @@ Veterans want to understand their Claim, what VA is doing with it, and what VA n
 Veterans are the glue holding together disparate pieces of a large and confusing system that they can’t always rely on to deliver the benefits they’ve earned. </td>
         <td>
 
-* Veterans check multiple sources for information because they do not trust the accuracy of the Claim information displayed [across digital tools].  
-            * The various sources of information at VA sometimes have different statuses for the same claim, creating confusion for the Veteran.
-            * Veterans don’t trust the accuracy of the Claim information displayed in the mobile app specifically because it differs from other sources.
+* Veterans check multiple sources for information because they do not trust the accuracy of the Claim information displayed [across digital tools].    
+   * The various sources of information at VA sometimes have different statuses for the same claim, creating confusion for the Veteran.  
+   * Veterans don’t trust the accuracy of the Claim information displayed in the mobile app specifically because it differs from other sources.  
 * Veterans often call VA or VSO staff or visit in person to get the detail they want, as typically the call-center representatives can't access that information.
 * Veterans are not sure if a claim is truly being worked on.
 * Keeping track of relevant claims is difficult for Veterans who have more claims with greater claim complexity.
