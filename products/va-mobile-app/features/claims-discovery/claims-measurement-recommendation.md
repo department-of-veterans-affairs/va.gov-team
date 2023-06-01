@@ -16,7 +16,7 @@ The recommendations below are informed by a synthesis of existing [qualitative](
 
 ### **Priority 1:** Improve app event tracking of Veteran claim-monitoring behaviors, surface improved success metrics, and evaluate future design improvements based on these metrics.
 
-**LOE:** Low
+**Level of effort:** Low
 
 ##### Steps:
 1. Add additional event tracking to calculate monthly averages for:
@@ -32,7 +32,7 @@ The recommendations below are informed by a synthesis of existing [qualitative](
 
 ### **Priority 2:** Understand app-specific value in empowering and personalizing Veterans’ claim monitoring experience.
 
-**LOE:** High
+**Level of effort:** High
 
 ##### Steps:
 1. Add additional event tracking around call center phone number interactions in Claims feature.
