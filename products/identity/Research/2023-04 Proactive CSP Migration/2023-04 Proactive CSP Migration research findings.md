@@ -77,7 +77,7 @@ Labels: `AUD: Veterans`, `DSC: Modal`, `HDW: Smartphone`, `INTIVE: CX Executive 
 - Builds on [Deferred Identity Proofing research - Key Finding 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-03-Deferred-Identity-Proofing-Round-1-Usability/research%20findings.md#key-findings)
 - See also modal use references: [NN/G](https://www.nngroup.com/articles/modal-nonmodal-dialog/) and [VA.gov Design System](https://design.va.gov/components/modal#examples)
 
-This finding confirms UX best practice and VA design system standards to carefully consider modal use. Most participants found the modal, immediately after signing, in to be disruptive and interrupted the task at hand. Most wanted to get past it immediately. Even when we prompted some participants to read further, some stated that they would still just close the modal and move on with their task or reason for signing in. However, participants did report that they would be more open to other channels of communication; like email, and would expect to hear important news through multiple channels of communication.
+This finding confirms UX best practice and VA design system standards to carefully consider modal use. Most participants found the modal, immediately after signing, in to be disruptive and interrupted the task at hand. Most wanted to get past it immediately. Even when we prompted some participants to read further, some stated that they would still just close the modal and move on with their task or reason for signing in. However, participants did report that they would be more open to other channels of communication, like email, and would expect to hear important news through multiple channels of communication.
 
 > _"The close button is at the top right of that page. That's where I'm going" - Participant 7_
 
@@ -95,7 +95,7 @@ Participants wanted to be sold or told on why they should create a verified acco
 
 The “tell me” group were comfortable with their current sign in flow and would move only if they were forced, like with a deadline. Folks saw the language in this modal as suggestive and not imperative, so weren’t prompted to make a change.
 
-The “sell me” group were interested in the benefits of a modern CSP, and read between the lines that this means they’ll be forced to make a change in the future. Still they weren’t convinced with the call to action in this modal. Some didn’t fully understand the benefits of migrating or were unclear about the content and wanted to be better sold on it.
+The “sell me” group were interested in the benefits of a modern CSP. They read between the lines that this means they’ll be forced to make a change in the future. Still they weren’t convinced with the call to action in this modal. Some didn’t fully understand the benefits of migrating or were unclear about the content and wanted to be better sold on it.
 
 > _"It should say that somewhere, that My HealtheVet login will be no longer active, and that's why you need to use the login.gov account."  - Participant 10_
 
@@ -131,7 +131,7 @@ Labels: `AUD: Veterans`, `INTIVE: CX Executive Order`, `PRDT: Content`, `PRDT: L
 
 - Related to Hypothesis 2 
 
-Veterans understood that they had options for signing into their account and some recognized Login.gov as one of those options. However; taken in the context of this modal, some participants, especially those unfamiliar with Login.gov, understood it as a new place where they could access their VA information. A mostly overlapping group of folks, but also including some familiar with Login.gov, understood it as a VA product.
+Veterans understood that they had options for signing into their account and some recognized Login.gov as one of those options. However, taken in the context of this modal, some participants, especially those unfamiliar with Login.gov, understood it as a new place where they could access their VA information. A mostly overlapping group of folks, but also including some familiar with Login.gov, understood it as a VA product.
 
 > _“I'd have to learn the user interface on the new site, but I would hope that it would make things easier to use." - Participant 8_
 
@@ -218,20 +218,20 @@ Let’s look specifically at some terms used when creating or logging into an ac
 - The direct impact of proactive migration work will likely be minimal. Most veterans prefer to keep their current way of signing in. Even those who are open to migrating are not likely to do so unless they are forced to, like with knowing a sunset date. The proactive migration strategy should be seen as a way to prepare veterans and begin to set their expectations, and not as a way to migrate a significant number of folks to a modern CSP.
 
 **2. Develop a comprehensive proactive migration strategy that doesn’t rely on an interrupting modal.**
-- Supported by Hypotheses 3, 4, and 6 and Key Findings 1 and 2
+- Supported by Hypotheses 3, 4, and 6 and Key Findings 1, 2, and 3
 - Builds on Deferred Identity Proofing Recommendation 2, 7, and 8 and Adoption Discovery Recommendation 1
-- Most of the veterans we talked with viewed this modal as an inconvenience and an interruption to their task at hand. A modal is not a winning strategy for Proactive Migration. Some alternative communications channels to a modal right after inputting credentials
+- Most of the veterans we talked with viewed this modal as an inconvenience and an interruption to their task at hand. A modal is not a winning strategy for Proactive Migration. Consider using alternative communications channels like:
    - An interstitial page veterans see after selecting DS Login option, but before inputting their credentials or being signed in.
    - Information in a banner or other information sharing way that aligns with the VA design system.
 - A comprehensive proactive migration communications strategy as part of a combined communications roadmap
 - Research what migration incentives are most persuasive for veterans. A couple veterans we talked with were interested in the suggestion to change CSPs, but didn’t feel like there was enough benefit to them at this time.
-   - This will help us develop more persuasive language 
-- This communications strategy could include email, postal mail, blogs, social media, and physical signage at VA facilities. Subjects should include the Intersecting topics of Login.gov as a way to sign in and not place to go and not blatantly preferring Login.gov to ID.me
+   - This could help us develop more persuasive language 
+- This communications strategy could include email, postal mail, blogs, social media, and physical signage at VA facilities. Communications should include the intersecting topic of Login.gov as a way to sign in and not place to go
 - Target proactive migration communications to veterans who already have an ID.me or Login.gov account and offer them a clear call to action.
    - Direct those with ID.me IAL1 or no drivers license to ID.me
    - Direct others to Login.gov
    - Explore ways to segment veterans and automating communications on which option will be best for them
-- Don’t blatantly prefer login.gov or ID.me externally since this can cause future issues. Instead direct veterans based on their situation like an existing account or what type of ID they have.
+- Don’t blatantly prefer login.gov or ID.me externally or declare one as better since this can cause future issues. Instead direct veterans based on their situation like an existing account or what type of ID they have.
 - Better educate veterans on the difference between how they access, or their sign in method, and where they go
 
 
