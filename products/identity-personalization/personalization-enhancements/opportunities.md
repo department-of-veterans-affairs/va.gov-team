@@ -11,7 +11,7 @@ We [completed research in April 2023](https://github.com/department-of-veterans-
 - Records is another part of the site that is a mixed bag, and there are a few items that may make sense to link in the auth experienced: benefit letters, Veteran ID card, and claim letters.  
 
 In June 2023, our team will start discovery work to begin the process of adding these to profile. ([Dependents epic](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/59198), [records epic](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/59200))
-
+---
 ### Site header and global navigation
 #### Make My VA the logged in homepage.
 This isn’t something we’re going to move forward with for now. My VA isn’t ready to be the logged-in homepage today, and there is hesitation around removing access to the non-task content featured on the new homepage, such as the promo spot (currently PACT act) and VA News. 
@@ -37,7 +37,7 @@ We haven’t discussed this one yet. We know it’s duplicative of global nav it
 ##### Possible next step
 - Look at analytics to see if numbers suggest adding high-traffic “manage” items to the personalized menu would be helpful
 - Look at search to see if there are specific things related to personalization that could make sense to add there
-
+---
 ### Homepage (new 2023 version)
 The Public Websites team owns the homepage, even in a logged-in state, so we’ll need to work with them on any of these efforts.  Is it possible for the Authenticated Experience to have more agency over the logged-in homepage? That could help us ensure we’re enhancing the logged-in UX in a thoughtful and consistent way, as well as with resources and expediting work.
 
@@ -52,7 +52,7 @@ We shared these ideas and [concepts](https://app.mural.co/t/departmentofveterans
 ##### Considerations
 - **NEED TO CONFIRM** This relies on Drupal being smart enough to know when people are logged in
 - We don’t have IA engineering resources to do this; currently falls under Public Websites
-
+---
 ### Benefit hubs
 We talked about ways to make static pages smarter by surfacing personalized information at the right time.
 
@@ -90,7 +90,7 @@ Optimizing these flows would be create a more consistent and predictable experie
 
 ##### Next steps
 - The auth experience team will work on this, starting with a page the auth exp has purview over, like the direct deposit static page.
-
+---
 ### Forms and applications
 
 #### Confirmation page
