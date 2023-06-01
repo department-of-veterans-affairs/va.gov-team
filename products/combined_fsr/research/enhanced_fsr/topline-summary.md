@@ -33,10 +33,10 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 2. **Veterans who understand the form's purpose (to help with debt) had an easier time filling it out and were more motivated to fill it out and supply all of the information, particularly if requesting debt relief.**
 
 
-3. **Understanding of the form went hand in hand with their mental state. Veterans of higher socioeconomic level and in a more positive state of well-being/mental state seems correlated to their ease of filling out the form and their motivation/willingness to fill it out.**
+3. **Understanding of the form went hand in hand with their mental state. Veterans in a more positive state of well-being/mental state seems correlated to their ease of filling out the form and their motivation/willingness to fill it out.**
 
 
-4. **Veterans in this sample who had negative experiences with V.A. services were more hopeless and skeptical about this process.**
+4. **Veterans in this sample who had negative experiences with VA services were more hopeless and skeptical about this process.**
 
 
 5. **Some Veterans felt like the VA should know the answers to questions that were being asked. This was based on either information they had on their MyVA profile or their SSN.**
