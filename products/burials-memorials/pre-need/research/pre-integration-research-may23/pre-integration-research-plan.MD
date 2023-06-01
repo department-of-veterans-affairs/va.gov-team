@@ -134,7 +134,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Maximum Sessions per day: 4-5
 
 ### Availability
-* Wednesday, 6/7/23: 9:30am-1pm, 3-4pm, 5-6pm
+* Wednesday, 6/7/23: 9:30am-1pm, 3-4pm, 
 * Thursday, 6/8/23: 9:30am-12:30pm, 1-4pm, 5-6pm
 * Friday, 6/9/23: 9:30am-12:30pm, 1-4pm
 If more timeslots are needed, we could open up Monday, 6/12/23.
