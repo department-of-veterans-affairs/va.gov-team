@@ -140,7 +140,7 @@ What are your impressions of what you're looking at? *(RECORD)*
 
 ### Task 3: [TBD task re service on the page]
 
-Could you try to use this to find out if you could get help with XXX [TBD]? 
+Could you try to use this to find out how to get help with  [TBD]? 
 
 To make this happen, what would you do next? 
 - *ck hours / mk appt / how to get there / what to bring*
@@ -149,14 +149,14 @@ How would you locate the benefit office in the building?
 
 ### Task 4: [TBD task re service on the page]
 
-Could you try to use this to find out if you could get help with YYY [TBD]? 
+Could you try to use this to find out how VA might help you get a job [TBD]? 
 
 To make this happen, what would you do next? 
 - *ck hours / mk appt / how to get there / what to bring*
 
 ### Task 5: [TBD task re service NOT on the page]
 
-Could you try to use this to find out if you could get help with ZZZ [TBD--whether the VA will pay for more school for you]? 
+Could you try to use this to find out how to get help with applying for life insurance [TBD--whether the VA will pay for more school for you]? 
 
 - *What do they do?* 
   - *Facility Locator?*
