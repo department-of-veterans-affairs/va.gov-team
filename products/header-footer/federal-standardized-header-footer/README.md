@@ -11,9 +11,7 @@ This initiative will work to solve three problems:
 ## Outcome Summary
 
 OFCIO’s goals with this work:
-- Global header and footer, and global menus and navigation, code can be copy/pasted and used on other federal .gov websites
 - Veterans have provided positive feedback about the VA seal, USA brand mark, and other usability updates as part of the overall design (especially mobile navigation and signed in menus, and larger font sizes)
-- USWDS team can copy/paste the code and design parameters, and refactor as necessary, to codify these updates in the design system
 
 
 **Related/Associated product(s)**
@@ -37,6 +35,10 @@ OFCIO’s goals with this work:
 * Use of web components to better align with VA.gov Design System
 * Fewer breaks of the injected header experience
 * Ability to unify a Federal brand
+
+OFCIO’s goals with this work:
+- Global header and footer, and global menus and navigation, code can be copy/pasted and used on other federal .gov websites
+- USWDS team can copy/paste the code and design parameters, and refactor as necessary, to codify these updates in the design system
 
 
 ## Undesired Business Outcomes
