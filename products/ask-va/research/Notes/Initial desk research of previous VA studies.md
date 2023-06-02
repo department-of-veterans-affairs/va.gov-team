@@ -7,7 +7,7 @@ Last updated by @tygindraux on June 1, 2023
 * [MCT Virtual Agent Chatbot Login.Gov and ID.me Moderated Interviews - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-virtual-agent-chatbot-logingov-and-idme-moderated-interviews)
 * [Chatbot Feature Prioritization - August 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#chatbot-feature-prioritization)
 * [MCT Omnichannel Experience: Co-Design Phase II - June 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-omnichannel-experience-co-design-phase-ii) 
-* [MCT VHA Virtual Agent Research - June 24, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-omnichannel-experience-co-design-phase-ii)
+* [MCT VHA Virtual Agent Research - June 24, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-vha-virtual-agent-research)
 * [VA Orchid, Virtual Agent Chatbot - June 14, 2022]()
 * [MCT Omnichannel Experience: Co-Design - March 2022]()
 * [Virtual Agent Authentication Usability Test - March 2022]()
