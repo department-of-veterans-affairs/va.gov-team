@@ -29,10 +29,13 @@
 
 ## Overview
 
+The [onsite notification MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp#readme) launched in October 2022. As we look to scale onsite notifications by adding more types, and other applications and services like MHV on VA.gov will want to leverage onsite notifications, we need to have a way to manage a large volume of onsite notifications and a centralized home for viewing a history of notifications.
+
+[Our team spoke with a variety of stakeholders and teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery/scaling-onsite-notifications-stakeholder-research-findings.md) from across the VA ecosystem to share the concept of a notification center on VA.gov and to build consensus around its purpose and the problems it aims to solve. 
 
 ## Problem Statement
 
-- As a customer of the VA, ....
+- As a customer of the VA, I want to be able to see a history of all my onsite notifications.
 
 ## User outcomes
 
@@ -58,17 +61,21 @@
 
 - TK
 
-### Objective: Meet user need/expectation by elevating debt information to user dashboard.
-
-...
-
 ## Solution approach
 
 The following is needed for the MVP build:
 
 ### My VA Requirements
 
+**Needs**
 - ...
+
+**Out of Scope**
+- Filtering or sorting of notifications
+- Houses messages (or other VA comms) in addition to notifications
+- Changes to naviagtion
+- Indicators in the navigation/personal menu
+
 
 ### VANotify Requirements
 
@@ -82,12 +89,8 @@ The following is needed for the MVP build:
 
 ## Key deliverables
 
-- [Action items discovery outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#readme)
-- [Action items discovery research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md)
-- [Design documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp/design/)
-- Technical documentation
-- How to access and test
-- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/launch-materials/onsite-notifications-release-plan.md)
+- [Notification Center Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery)
+
 
 ## Key dates
 
