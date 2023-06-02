@@ -3,8 +3,8 @@ Last updated by @tygindraux: June 2, 2023
 
 <br>
 
-|Study|Type of Research|Lead Researcher|Date|Issue|
-|:--|:--|:--|:--|:--|
+|Study|Type of Research|Date|Issue|
+|:--|:--|:--|:--|
 |||||
 
 <br>
