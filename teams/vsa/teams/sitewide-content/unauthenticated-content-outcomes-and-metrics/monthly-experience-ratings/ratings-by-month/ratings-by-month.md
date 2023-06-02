@@ -32,7 +32,7 @@ All pages have ratings of 2 or below.
 2. [VA tier 1 copay medication list](https://www.va.gov/resources/va-tier-1-copay-medication-list/) (100% "good" out of 14 total responses)
 3. [Will I have to pay back the GI Bill benefits I used if I fail a class?](https://www.va.gov/resources/will-i-have-to-pay-back-the-gi-bill-benefits-i-used-if-i-fail-a-class/) (100% "good" out of 16 total responses)
 4. [What does burial in a VA national cemetery include?](https://www.va.gov/resources/what-does-burial-in-a-va-national-cemetery-include/) (97% "good" out of 68 total responses)
-5. [Commissary and exchange privileges for Veterans](https://www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/) (95% out of 164 total responses)
+5. [Commissary and exchange privileges for Veterans](https://www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/) (95% "good" out of 164 total responses)
 
 #### Top 5 resources and support pages with the lowest "good" ratings percentage overall and at least 10 total responses
 
