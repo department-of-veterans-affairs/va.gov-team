@@ -1,5 +1,5 @@
 # Initial desk research of previous VA studies
-Last updated by @tygindraux on June 1, 2023
+Last updated by @tygindraux on June 2, 2023
 
 ## List of studies
 * [MCT HCD Chatbot as AVA Frontdoor - February 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-hcd-chatbot-as-ava-frontdoor)
@@ -7,8 +7,8 @@ Last updated by @tygindraux on June 1, 2023
 * [MCT Virtual Agent Chatbot Login.Gov and ID.me Moderated Interviews - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-virtual-agent-chatbot-logingov-and-idme-moderated-interviews)
 * [Chatbot Feature Prioritization - August 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#chatbot-feature-prioritization)
 * [MCT Omnichannel Experience: Co-Design Phase II - June 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-omnichannel-experience-co-design-phase-ii) 
-* [MCT VHA Virtual Agent Research - June 24, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-vha-virtual-agent-research)
 * [VA Orchid, Virtual Agent Chatbot - June 14, 2022]()
+* [MCT VHA Virtual Agent Research - June 24, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-vha-virtual-agent-research)
 * [MCT Omnichannel Experience: Co-Design - March 2022]()
 * [Virtual Agent Authentication Usability Test - March 2022]()
 * [VSP, Ask VA - Dashboard (Business, Personal) - January 2022]()
@@ -158,4 +158,43 @@ Unable to access. I need to chase.
 
 ---
 
+### VA Orchid, Virtual Agent Chatbot
+
+|Issue|[#151](https://github.com/orgs/department-of-veterans-affairs/projects/880/views/1?filterQuery=chatbot&pane=issue&itemId=21794331)|
+|:--|:--|
+|Date|2022-07|
+|Team|Virtual Agent|
+|Background|Our research will attempt to gain insight on the reason for the lack of completion of the feedback survey. The research will also help us understand how users expect to be taken through a password reset flow. Finally, we have identified four areas to expand the chatbot into and this research will help us prioritize the features we focus on for users.|
+#### Objectives
+* Gain insight on lack of feedback survey completion
+* Take users through a flow to reset their password and gain insight on the expected flow
+* Gain in	sight on future chatbot feature prioritization with users
+#### Findings
+Unable to access. I need to chase.
+
+---
+
 ### MCT VHA Virtual Agent Research
+
+|Issue|[#148](https://github.com/orgs/department-of-veterans-affairs/projects/880/views/1?filterQuery=chatbot&pane=issue&itemId=21794312)|
+|:--|:--|
+|Date|2022-06|
+|Team|VEO: VA Multi-Channel Technology (MCT)|
+|Background|This project will focus on the desired experience for Veterans, caregivers, and family members seeking information from a VHA chatbot. User research will focus on the desirability and perceived usefulness of health and health care related content and information, which will inform future product roadmaps and even content creation.|
+#### Objectives
+* Understand user expectations for the type of information a chatbot can provide about VHA services, features, and other information Veterans might expect from a chatbot.
+* Learn what the desired VHA interactions and features are that the chatbot needs to be able to perform.
+#### Findings
+* Users wanted the ability to order and refill prescriptions through a VA chatbot.
+* Users had varied interest in having a chatbot provide medical and dental coverage and provide medical and dental coverage information.
+* Most participants expressed a strong desire to manage their medical appointments using a VA manage their medical appointments using a VA chatbot. Many users reported difficulties managing their appointments through current managing their appointments through current VA platforms and methods.
+* Several participants expressed desires for the VA chatbot to check into appointments and VA chatbot to check into appointments and communicate onsite delays.
+* Most participants stated that seeking medical records, test results, and receiving notifications records, test results, and receiving notifications of results were top needs.
+* Most users found the ability to request or change to a new provider highly desirable.
+* Users expressed frustrations with the current process of requesting referrals and options for the process of requesting referrals and options for specialists or Community Care needs.
+* Users expressed a desire for an additional avenue for communicating with providers.
+* Due to the amount of information and segmentation of experience for different VA touchpoints, many users struggle to find information that suits their needs.
+* Users dislike the experience of contacting VA as it is difficult reaching someone, specifically someone who can provide an adequate or timely solution.
+* Some users want a chatbot to help locate VA facilities providing services that suit their unique care needs.
+* Users liked chatbots that are intuitive and offer guiding features, saying that is what gains their trust. Nevertheless, some users said those attributes still may not be enough to overcome their preferences for live agent chats.
+* A few users expressed interest in a chatbot having functions that can aid in claims, appeals, and other Veterans Benefits Administration related financial inquiries.
