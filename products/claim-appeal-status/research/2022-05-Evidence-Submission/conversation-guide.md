@@ -20,15 +20,6 @@ Slack for real-time feedback from observers.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
 
-### Starting the session
-
-- In the Attendees section, make sure everyone except the participant is on mute.
-- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-- Check your [screensharing setup] and share permissions for participants.
-- When the participant is ready, begin the session with the following intro*
-
-
-
 ## Intro - 5 minutes
 
 Thanks for joining us today! My name is Skyler, and I'm going to be guiding you through the session today. I have a couple other colleagues who would like to observe and take notes. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a couple additional observers during this session?
@@ -63,45 +54,76 @@ Before we look at the website, let’s start with a few general questions.
 - Have you ever filed an application for disability compensation (Form 526EZ) with the VA?
 - If yes, how many times? Have you ever done it on VA.gov?
 
-## First Task: Overview of CST - 10 minutes
+## First Task: Overview of CST - 5 minutes
 
-- 
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
-
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+- Describe to me what you see on this page?
+- What do you think is the difference between the first claim shown here and the second claim?
+- Based on what you see here, what do you think is the status of this claim (the first one)? What does that status mean to you?
+- What do you think "Last updated" means? 
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Does the participant understand what they're looking at on the CST overview page?
+- Does the ppt understand the difference between "In progress" and "Decided" claims?
+- Does the ppt understand the status of the claim, and what prompted that status? 
 
-## Third Task: [TASK NAME] - X minutes
+## Second Task: Looking at an in-progress claim - 15 minutes
 
-- Step 1
-- Step 2
+#### Status tab
+- Tell me what you see on this page. Is this what you were expecting?
+- What does this tell you about the status of this claim? 
+- What action would you take, if any, on this page? 
+- On a scale of 1-5, how helpful would you say this page is?
+
+#### Files tab 
+- Tell me what you see on this page. Is this what you were expecting?
+- Where do you think these files here came from?
+- What action would you take, if any, on this page? 
+- On a scale of 1-5, how helpful would you say this page is?
+
+#### Overview tab
+- Tell me what you see on this page. Is this what you were expecting?
+- Does this help you understand what's happening with the claim? Why or why not?
+- What action would you take, if any, on this page? 
+- On a scale of 1-5, how helpful would you say this page is?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Does the participant understand what actions are being taken on the claim? 
+- Does the ppt feel like this gives them a good sense of what they need to do - or not do - to support the claim? 
+- Does the ppt undrestand the relationship between items in the Activity feed and items in the Files tab?
+- Does the ppt feel about the process stepper provides unique and useful information?
+
+## Third Task: Overview page with evidence request - 5 minutes
+
+- Describe to me what you see on this page?
+- What is different about this claim from before? 
+- Based on what you see here, what do you think is the status of this claim (the first one)? What does that status mean to you?
+- What would you do next?
+
+### Things to watch for:
+
+- Does the participant notice that there is an item that needs their attention for the in-progress claim?
+- What action would the ppt naturally take next to resolve the open action item? 
+
+## Fourth Task: Looking at in-progress claim with evidence request - 15 minutes
+
+- Tell me what you see on this page. Is this what you were expecting?
+- What does this tell you about the status of this claim? 
+- What action would you take, if any, on this page? 
+- On a scale of 1-5, how helpful would you say this page is?
+
+## Fifth Task: Evidence request page - 5 minutes
+
+- [Clicking into request] Tell me what you see here. What is this request for?
+- What action, if any, would you take on this page? 
+- On a scale of 1-5, how helpful would you say this page is?
 
 ## Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
-- Any questions for me? 
+- Overall, what did you think of what you saw today? Was it clear or confusing?
+- If you could change anything about what you saw today, what would it be?
+- Do you have any questions for me?
 
 ## Thank-You and Closing - X minutes
 
@@ -111,13 +133,7 @@ Thanks! Lastly, Perigean will be sending you a thank you note with a little blur
 
 Thank you so much again, and enjoy the rest of your day!
 
-##
-
 ## Emergency Exit
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
-
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
 
