@@ -17,7 +17,7 @@ Last updated by @tygindraux on June 2, 2023
 * [Virtual Agent Automated Content and Claims Feature Usability Testing - Nov 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#virtual-agent-automated-content-and-claims-feature-usability-testing)
 * [VSP, Ask VA - July 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#vsp-ask-va)
 * [Virtual Agent Inclusive Design interviews - June 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#virtual-agent-inclusive-design-interviews)
-* [Ask VA - April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#ask-va))
+* [Ask VA - April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#ask-va)
 
 ## Details
 ### MCT HCD Chatbot as AVA Frontdoor
