@@ -41,3 +41,11 @@ All pages have ratings of 2 or below.
 3. [How to check your VA claim, appeal, or decision review status online](https://www.va.gov/resources/how-to-check-your-va-claim-appeal-or-decision-review-status-online/) (32% "good" out of 63 responses)
 4. [How to file a VA travel reimbursement claim online](https://www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/) (20% "good" out of 76 total responses)
 5. [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov/) (19% "good" out of 124 total responses)
+
+#### Top 5 resources and support pages with the highest volume, then highest "good" ratings percentage
+
+1. [The PACT Act and your VA benefits](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) 
+2. [How to check in with your smartphone for some VA appointments](https://www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/)
+3. [VEText for VA health care reminders and updates](https://www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates/)
+4.
+5.
