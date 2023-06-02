@@ -34,7 +34,7 @@ _Can actually do this while explaining to them where to find “Chat” and “S
 
 - Okay, now I'm going to ask you to share your screen in Zoom so that we can look at the prototype together and then we'll begin. 
 
-[Pre-Integration v0.1 InVision Prototype UT Link](TBD)
+[Pre-Integration v0.1 InVision Prototype UT Link](https://bahdigital.invisionapp.com/console/share/HF26GKB9W7Q)
 
 **Backup plan if they cannot figure out how to share screen:**
 
