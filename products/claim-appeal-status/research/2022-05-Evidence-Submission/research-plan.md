@@ -23,7 +23,7 @@ This work supports a Veteran whenever they are filing a disability compensation 
 With this research we hope to validate the usability of our design concepts for "Track 1" Evidence Submission work. "Track 1" is a set of near-term, concrete user experience and accessibility updates we want to make to CST.
 
 ### Research questions
-- Does this new design make it easier for Veterans to understand when they have a request to take action on a claim in CST? Are they better able to understand exactly what that request is and how to act on it? 
+- Does this new design make it easier for Veterans to understand when they have an evidence submission request in CST? Are they better able to understand exactly what that request is and how to act on it? 
 - Does including the claim ID in the claim card make it easier for Veterans to distinguish between different claims in CST?
 - Do Veterans respond positively to the new layout of the Claim Details page, with separate sections dedicated to Veteran actions and VA actions?
 - Do Veterans respond positively to other UX improvements in this version of CST? 
@@ -71,7 +71,7 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 What criteria would strengthen your results? 
 
 - 1 Native Veteran
-- 1 LGBTQ+ Veteran (Gay, lesbian, or bisexual, Transgender, or Nonbinary, gender fluid, gender queer, Two-Spirit.
+- 1 LGBTQ+ Veteran (Gay, lesbian, or bisexual, Transgender, or Nonbinary, gender fluid, gender queer, Two-Spirit).
 
 ## Timeline
 
@@ -79,7 +79,7 @@ What criteria would strengthen your results?
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: rocio@coforma.io
-* Date and time of pilot session: [Time TBD] June 8, 2023
+* Date and time of pilot session: June 7, 2-3 PM
 
 ### Research sessions
 * Planned dates of research: June 12 - 16
@@ -97,8 +97,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 - Moderator: Skyler Schain (skyler@coforma.io)	
 - Research guide writing and task development (usually but not always same as moderator): Skyler Schain	(skyler@coforma.io)
 - Participant recruiting & screening: Perigean
-- Project point of contact: Skyler Schain
+- Project point of contact: Skyler Schain (skyler@coforma.io)
 - Participant(s) for pilot test: Rocio De Santiago (rocio@coforma.io)
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	Josh Kim (josh.kim@adhocteam.us
-- Note-takers:	
-- Observers: Ruben Sun (ruben@coforma.io), Jacob Worrell (jacob.worrell@adhocteam.us), Julie Strothman (julie.strothman@va.gov), Matt Self (matthew.self2@va.gov), Sam Cormier (sam.cormier@coforma.io), Jerek Shoemaker (jerek.shoemaker@adhocteam.us), Jared Cunha (jared@coforma.io), Kevin Duensing (kevin.duensing@adhocteam.us), Josh Kim (josh.kim@adhocteam.us), Eva Floyd (eva@coforma.io), Heather Widmont (heather.widmont@coforma.io)
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	Josh Kim (josh.kim@adhocteam.us)
+- Observers: Ruben Sun (ruben@coforma.io), Jacob Worrell (jacob.worrell@adhocteam.us), Julie Strothman (julie.strothman@va.gov), Matt Self (matthew.self2@va.gov), Sam Cormier (sam.cormier@coforma.io), Jerek Shoemaker (jerek.shoemaker@adhocteam.us), Jared Cunha (jared@coforma.io), Kevin Duensing (kevin.duensing@adhocteam.us), Josh Kim (josh.kim@adhocteam.us), Eva Floyd (eva@coforma.io), Heather Widmont (heather.widmont@coforma.io), Gary Homidas (gary.homidas@adhocteam.us).
