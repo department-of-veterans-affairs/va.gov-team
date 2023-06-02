@@ -38,7 +38,7 @@ Unable to access. I’ve asked Shane (Research Ops).
 
 ---
 
-### MCT HCD Chatbot as AVA Frontdoor
+### Multi-channel Technologies (MCT) Chatbot as AVA Front Door
 
 |Issue|[#193](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/193)|
 |:--|:--|
