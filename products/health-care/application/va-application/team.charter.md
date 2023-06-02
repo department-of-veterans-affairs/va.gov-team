@@ -34,20 +34,19 @@ Health Products
 
 ### Team Members:
 - Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us - Product manager
-- Alex Seelig | alexander.seelig@va.gov / alex.seelig@agile6.com -- Product manager
-- Emily Brown | emily.brown@agile6.com - Delivery Lead
+- Alex Seelig | alexander.seelig@va.gov / alex.seelig@agile6.com - Product manager
+- Emily Brown | emily.brown8@va.gov / emily.brown@agile6.com - Delivery Lead
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us - Sr UX Design/Research
-- David "DK" Kennedy | david.kennedy@va.gov / david.kennedy@adhocteam.us - UX Design/Research
+- David "DK" Kennedy | david.kennedy7@va.gov / david.kennedy@adhocteam.us - UX Design/Research
 - Katelyn Caillouet | katelyn.caillouet@va.gov / katelyn.caillouet@agile6.com - UX Design/Research
-- Hieu Vo | hieu.vo@agile6.com - UX Design/Research
+- Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com - UX Design/Research
 - Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
-- Matt Kerns | matt.kerns@agile6.com - Frontend Engineer
-- Adrien de la Cruz |        - Frontend Engineer
-- Chapley Watson | chapley.watson@agile6.com - Full Stack Engineer
+- Matt Kerns | matthew.kerns@va.gov / matt.kerns@agile6.com - Frontend Engineer
+- Adrian de la Cruz | TBD@va.gov / adrian.delacruz@agile6.com - Frontend Engineer
+- Chapley Watson | chapley.watson@va.gov / chapley.watson@agile6.com - Full Stack Engineer
 - Lihan Li | han.li@va.gov / lihan@adhocteam.us - Backend Engineer
-- Joshua Drumm | joshua.drumm@agile6.com - Backend/Full Stack Engineer
-- Vincent Pace | vincent.pace@adhocteam.us - QA Engineer
-- Luis Simauchi | luis.simauchi@adhocteam.us - Sr Data Analyst
+- Joshua Drumm | joshua.drumm@va.gov / joshua.drumm@agile6.com - Backend/Full Stack Engineer
+- Luis Simauchi | luis.simauchi@va.gov / luis.simauchi@adhocteam.us - Sr Data Analyst
 
 ---
 
@@ -194,6 +193,7 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 
 - Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
 - Patrick Bateman | patrick.bateman@va.gov - Product Owner
+- Kristen McConnell | kristen.mcconnell@va.gov - UX Lead
 - Katherine Lawyer | katherine.lawyer@va.gov - Product Owner
 - Mark Dewey | mark.dewey@va.gov - Engineering Product Owner
 - Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
