@@ -35,3 +35,9 @@ All pages have ratings of 2 or below.
 5. [Commissary and exchange privileges for Veterans](https://www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/) (95% out of 164 total responses)
 
 #### Top 5 resources and support pages with the lowest "good" ratings percentage overall and at least 10 total responses
+
+1. [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/) (
+2. [How to set up direct deposit for VA travel pay reimbursement](https://www.va.gov/resources/how-to-set-up-direct-deposit-for-va-travel-pay-reimbursement/)
+3. [How to check your VA claim, appeal, or decision review status online](https://www.va.gov/resources/how-to-check-your-va-claim-appeal-or-decision-review-status-online/)
+4. [How to file a VA travel reimbursement claim online](https://www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/)
+5. [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov/)
