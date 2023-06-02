@@ -111,6 +111,9 @@ Sessions will occur on the following dates:
 * 6/8
 * 6/9
 * 6/12
+* 6/13
+* 6/14
+* 6/15
 
 ### Length of sessions
 * Session length: 60 minutes
@@ -128,6 +131,9 @@ Use research plan temp (time 8 am to 6 pm est)
 * Thursday, 6/8 8am-6pm
 * Friday, 6/9 8am-6pm
 * Monday, 6/12 8am-6pm
+* Tuesday, 6/13 8am-6pm
+* Wednesday, 6/14 8am-6pm
+* Thursday, 6/15 8am-6pm
 
 ## Team Roles
 
