@@ -87,3 +87,75 @@ Unable to access. I’ve asked Shane (Research Ops).
 ---
 
 ### MCT Virtual Agent Chatbot Login.Gov and ID.me Moderated Interviews
+
+|Issue|[#205](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/205)|
+|:--|:--|
+|Date|2022-12|
+|Team|VEO: VA Multi-channel Technology (MCT)|
+|Background|This project will focus on the desired experience for Veterans seeking login assistance for their new or existing Login.gov and ID.me accounts from the VA chatbot.|
+#### Objectives
+* Understand user expectations and desires around the information and interactions the VA chatbot can provide regarding login assistance for their new or existing Login.gov and ID.me accounts.
+* Which keywords would a user expect to type in for help with a Login.gov or ID.me account?
+* Are the help tasks what the user expects for an existing Login.gov or ID.me account?
+* What additional tasks associated with Login.gov or ID.me account assistance should the chatbot be able to perform?
+* How do users feel about the button layout and navigation between button stacks?
+#### Findings
+Unable to access. I’ve asked Shane (Research Ops).
+
+---
+
+### Chatbot Feature Prioritization
+
+|Issue|[#175](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/175)|
+|:--|:--|
+|Date|2022-08|
+|Team|Virtual Agent|
+|Background|The Chatbot is a self-service platform that can be accessed at any time by Veterans. The chatbot aims to provide value to Veterans by increasing awareness of existing VA self-service tools, decreasing the time Veterans spend waiting for an outcome, and allowing them 24/7 access to either anonymous or secure support. The chatbot was initially released in February 2022 so it is fairly new and unfamiliar to Veterans. Finally, the chatbot is currently situated as a subset of the VA Contact Us and can be accessed directly here.|
+#### Objectives
+* What features would users like to see prioritized based upon the following issues: the ability to provide users with sign in related information, problem escalation, password reset, and account creation?
+* What are the primary pain points that exist around sign in related issues with users?
+* How are users currently addressing and navigating these tasks?
+#### Findings
+Unable to access. I need to chase.
+
+---
+
+### MCT Omnichannel Experience: Co-Design Phase II
+
+|Issue|[#127](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/127)|
+|:--|:--|
+|Date|2022-06|
+|Team|VEO: VA Multi-Channel Technology (MCT)|
+|Background|This project will focus on the desired experience for Veterans seeking information from a VA.gov chatbot. User research will focus on the desirability of future state of Virtual Agent features to inform the longer-term roadmap.|
+#### Objectives
+* Understand user expectations for the level of information a virtual agent can provide regarding the disability rating and compensation, as well as the appeals process.
+* Learn the desired interactions and depth of information the Virtual Agent needs to be able to provide.
+#### Findings
+* Users are likely to end the interaction with the chatbot after they have received the answers they were looking for and want a way to conclude the conversation.
+* Some users disliked the guided experience with the buttons because they found it limiting and felt they were not in control of the conversation. Additionally, feelings of frustration arose when responses felt redundant and there was no way out.
+* A few users preferred the simple, straight--forward experience of being provided a link to read information for themselves. Some of these users would only use a chatbot for high--level, basic level, basic questions, rather than information on their personal case.
+* Most users appreciated being provided a link with additional information and resources and would click to read more.
+* In some instances, users felt the link was a distraction and could lead to the user accidentally leaving the chat.
+* Some users liked that the chatbot provided resources such as links to PDFs and forms and were likely to download them for future use.
+* Some users felt overwhelmed or confused when being provided too many options or too much detail, leading them towards ending the conversation. Some also felt the segmented and concise response helps them fully digest the information and not miss any key details.
+* Users generally liked the step-by-step guidance, which increased engagement because they believed it helped break down complex tasks into digestible pieces. This can be particularly helpful for newer users.
+* Some users want the chatbot to provide information on their case––specific next steps, such as filing a claim or appealing online.
+* Many users wanted or expected the chatbot to have the ability to provide personalized responses based on their unique situation. To ensure they receive this experience, most users will articulate their questions in complete sentences and provide case specific information. Some would not have a problem providing their personally identifiable information within the chatbot, while others would expect the bot to pull it from their account.
+* Users appreciated the guided experience provided in the chatbot and prefer that over searching on VA.gov as it sifts through information for them. Conversely, searching on VA.gov is viewed as a futile and frustrating task.
+* Some users would opt for outside sources rather than VA to find answers. Additionally, some would start with other channels instead of coming to the chatbot to find information.
+* Users were satisfied with the experience when the chatbot provided comprehensive, digestible and intuitive responses. In many cases, a general idea or a non-overwhelming response was a satisfactory answer.
+* Many users expressed a desire to speak with a live person instead of a chatbot. In some cases, they would like for a chatbot to have the ability to transfer directly to a live agent, others would skip the bot and start with a live person because they appreciate the active conversational aspect.
+#### Recommendations
+* Include options to "continue" or to "finish" conversation after each pathway to provide a clear way to navigate.
+* Make it clear to users they can override the suggested button pathways by typing in their questions.
+* When possible, provide links toward the end of a topic area and open the link in a separate tab.
+* Ensure that only relevant information and options are provided to the user to not overwhelm or confuse them.
+* Ensure responses are segmented and concise to help users fully digest the information and not miss any key details.
+* As many perceive the task of calculating disability ratings as an already lengthy process, ensure all responses and steps provided are clear and concise. If possible, allow users the ability to input their own disability ratings to help contextualize how their determination was reached.
+* Leverage user profiles and information [PII/PHI] provided through chat to ensure solutions are relevant and personalized to the user's unique needs.
+* Include interactions such as tooltips, an option to save the chat for reference later, and animations to help users contextualize information.
+* When available, give users the option to connect to a live agent in the beginning of the conversation and upon chatbot failure to provide adequate resolution.
+
+---
+
+### MCT VHA Virtual Agent Research
