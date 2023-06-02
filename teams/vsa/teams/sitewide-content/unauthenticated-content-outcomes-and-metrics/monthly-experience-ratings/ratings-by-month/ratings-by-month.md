@@ -36,8 +36,8 @@ All pages have ratings of 2 or below.
 
 #### Top 5 resources and support pages with the lowest "good" ratings percentage overall and at least 10 total responses
 
-1. [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/) (
-2. [How to set up direct deposit for VA travel pay reimbursement](https://www.va.gov/resources/how-to-set-up-direct-deposit-for-va-travel-pay-reimbursement/)
-3. [How to check your VA claim, appeal, or decision review status online](https://www.va.gov/resources/how-to-check-your-va-claim-appeal-or-decision-review-status-online/)
-4. [How to file a VA travel reimbursement claim online](https://www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/)
-5. [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov/)
+1. [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/) (36% "good" out of 287 responses)
+2. [How to set up direct deposit for VA travel pay reimbursement](https://www.va.gov/resources/how-to-set-up-direct-deposit-for-va-travel-pay-reimbursement/) (35% "good" out of 40 responses)
+3. [How to check your VA claim, appeal, or decision review status online](https://www.va.gov/resources/how-to-check-your-va-claim-appeal-or-decision-review-status-online/) (32% "good" out of 63 responses)
+4. [How to file a VA travel reimbursement claim online](https://www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/) (20% "good" out of 76 total responses)
+5. [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov/) (19% "good" out of 124 total responses)
