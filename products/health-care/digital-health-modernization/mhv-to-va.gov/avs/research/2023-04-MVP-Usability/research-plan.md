@@ -80,66 +80,6 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 ## Recruitment criteria
 [Link to recruitment request ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/326)
 
-When ready, fill out that ticket with the following information:
-- How many participants do you want in your study? 15
-- How many completed sessions do you need to consider your study complete? 10
-- Participant type 
-  - What type of participants do you want to have? Veterans and Caregivers (10 Veterans and 5 Caregivers)
-- Sex
-  - What sex do you want your participants to be? Various (a mix of all below)
-- Age
-  - What age do you want your participants to be? Various (a mix of all below)
-- Race 
-  - What race do you want your participants to be? Various (a mix of all below)
-  - If you choose, provide exact number you want applied for each checked race. Black: 3
-- Residence
-  - Where do you want participants to live? Various (a mix of all below)
-- LGBTQ+
-  - What LGBTQ-plus group do you want your participants to be?  Various (a mix of all below)
-  - If you choose, provide exact number you want applied for each checked race. 1 participant across any designations.
-- Education
-  - What education level do you want your participants to have? Various
-- Benefits
-  - What benefits or services should your participants have experience with? Healthcare
-  - If you choose, provide exact number you want applied for each checked benefit. All participants must have healthcare.
-- Benefits Received
-  - How far back do you want your participants to have first received their VA benefits? Various (a mix of all below)
-- Language
-  - What languages do you want your participants comfortable in reading content? English
-- Device for Session
-  - What device should the participant have experience with and use in the session? Smartphone 
-
-
-### Screener for all participants
-**Recruiting Notes:**
-1. Please ensure that you recruit 2-3 Cognitive Impaired Veterans, or Veteran's Caregivers, across any designations. 
-
-2.  Please ensure that ALL participants are willing to complete their interview on the device they specified when recruited and:
-
-    -  During the session, are willing to share over Zoom a web browser window on their device
-    -  Have a working microphone on their device
-    -  Have Zoom downloaded to their device prior to the session and know how to share their screen
-    
-
-**Participant Screener Questions:**
-    
- 1.  Are you willing to use your smartphone to log into Zoom and perform tasks for this usability test session?
- 
-     - Yes, (eligible)
-     - No,  (not eligible)
-
-2. Have you been to a doctor's appointment within the last 12 months?
-
-    - Yes,  at VA (eligible, recruit 10)
-    - Yes, at a non-VA facility (eligible, recruit 5)
-    - No, (not eligible)
-    
-3. Have you received a printed summary of your visit as you were leaving your appointment or have you reviewed a visit summary online within the past 12 months?
-
-    - Yes, (eligible)
-    - No,  (not eligible)
-
-
 
 ## Timeline
 
@@ -188,7 +128,7 @@ When ready, fill out that ticket with the following information:
 - Perigean
 
 **Participant for Pilot Test:**
-- TBD
+- Stephen Barrs (stephen.barrs@va.gov)
 
 **Note-takers:**
 - Perigean
