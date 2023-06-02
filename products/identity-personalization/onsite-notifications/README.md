@@ -106,7 +106,7 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 |[Onsite notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp)| Launch completed October 24, 2022|
 
 ## Security
-[Onsite Notifications Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/mvp/launch-materials/onsite-notifications-security-playbook.md) (includes incident response handling)
+[Onsite Notifications Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/mvp/launch-materials/onsite-notifications-security-playbook.md)
 
 ## Backend
 
