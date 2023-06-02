@@ -4,7 +4,7 @@ Last updated by @tygindraux on June 1, 2023
 ## List of studies
 * [MCT HCD Chatbot as AVA Frontdoor - February 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-hcd-chatbot-as-ava-frontdoor)
 * [Multi-channel Technologies (MCT) Chatbot as AVA Front Door - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#multi-channel-technologies-mct-chatbot-as-ava-front-door)
-* [MCT Virtual Agent Chatbot Login.Gov and ID.me Moderated Interviews - Dec 2022]()
+* [MCT Virtual Agent Chatbot Login.Gov and ID.me Moderated Interviews - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-virtual-agent-chatbot-logingov-and-idme-moderated-interviews)
 * [Chatbot Feature Prioritization - August 2022]()
 * [MCT Omnichannel Experience: Co-Design Phase II - June 2022]() 
 * [MCT VHA Virtual Agent Research - June 24, 2022]()
