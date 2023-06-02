@@ -1,6 +1,6 @@
 # My VA roadmap
 
-**Last updated: May 11, 2023**
+**Last updated: June 2, 2023 - added education item to team ideas**
 
 ## Current projects
 
@@ -44,8 +44,9 @@
 
 ## Ideas from our team
 
-|Project|Initiating team|Date of request| Status/Notes|
+|Project|Initiating team|Date of request| Notes| Status|
 |----|----|----|----|
-|Should we/how can we add letters and dependent info?| - | - | 'letters' and 'dependents' are top searches on My VA now that we've added links to other popular functionality (eg. payment info). They are also top searches across the site How can we elevate this info on My VA? Links? Something else? |
+| Expansion of education section| | Spring 2023 | As a result of [My VA audit UX improvements UAT study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/findings-summary.md), it was [recommended](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/findings-summary.md#recommendations) we expand the education and training section to include education benefits that do not fall under the post-9/11 GI bill. We should do some discovery work, talk to other teams, poke around GH to gather info on other types of education benefits and see how/if we can incorporate that into My VA education and training section. | Backlog ticket|
+|Should we/how can we add letters and dependent info?| - | - | 'letters' and 'dependents' are top searches on My VA now that we've added links to other popular functionality (eg. payment info). They are also top searches across the site. How can we elevate this info on My VA? Links? Something else? | | 
 |Should we communicate health care application updates?| Auth exp | N/A | This would be an extension of the [duplicate health care application status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/181023hcachanges.md) work. On the old My VA, we showed people's health care application status. For reasons, we removed this from My VA 2.0, though the most important part of the project/info still lives in the health care application itself. However, this would be GREAT information to email to people and might be something the HCA team could work on with VANotify. Idk that auth experience would do this work, but tracking it here so I don't forget.|
 |Update layout to put status updates separate from task links | N/A | Winter 2022 | We will evaluate this through a research effort. |
