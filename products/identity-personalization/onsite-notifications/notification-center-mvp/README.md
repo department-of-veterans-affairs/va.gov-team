@@ -35,7 +35,7 @@ The [onsite notification MVP](https://github.com/department-of-veterans-affairs/
 
 ## Problem Statement
 
-- As a customer of the VA, I want to be able to see a history of all my onsite notifications.
+- As a customer of the VA, I can access a history of all my onsite notifications on VA.gov.
 
 ## User outcomes
 
@@ -68,7 +68,10 @@ The following is needed for the MVP build:
 ### My VA Requirements
 
 **Needs**
-- ...
+- A new page on VA.gov, with its own url _not_ nested under My VA, that's can be linked to from other areas on VA.gov (i.e. new MHV landing page)
+- A link on My VA to the notification center (implies an "ever present" state for Notifications must exist on My VA so that the user can access the NC even when they don't have notifications to show)
+- Historical display of all onsite notifications, displayed reverse chronologicall by date
+- Pagination
 
 **Out of Scope**
 - Filtering or sorting of notifications
