@@ -7,7 +7,7 @@ Last updated by @tygindraux on June 2, 2023
 * [MCT Virtual Agent Chatbot Login.Gov and ID.me Moderated Interviews - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-virtual-agent-chatbot-logingov-and-idme-moderated-interviews)
 * [Chatbot Feature Prioritization - August 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#chatbot-feature-prioritization)
 * [MCT Omnichannel Experience: Co-Design Phase II - June 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-omnichannel-experience-co-design-phase-ii) 
-* [VA Orchid, Virtual Agent Chatbot - June 14, 2022]()
+* [VA Orchid, Virtual Agent Chatbot - June 14, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#va-orchid-virtual-agent-chatbot)
 * [MCT VHA Virtual Agent Research - June 24, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-vha-virtual-agent-research)
 * [MCT Omnichannel Experience: Co-Design - March 2022]()
 * [Virtual Agent Authentication Usability Test - March 2022]()
@@ -198,3 +198,141 @@ Unable to access. I need to chase.
 * Some users want a chatbot to help locate VA facilities providing services that suit their unique care needs.
 * Users liked chatbots that are intuitive and offer guiding features, saying that is what gains their trust. Nevertheless, some users said those attributes still may not be enough to overcome their preferences for live agent chats.
 * A few users expressed interest in a chatbot having functions that can aid in claims, appeals, and other Veterans Benefits Administration related financial inquiries.
+
+---
+
+### MCT Omnichannel Experience: Co-Design
+
+|Issue|[#96](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/96)|
+|:--|:--|
+|Date|2022-03|
+|Team|VEO: VA Multi-Channel Technology (MCT)|
+|Background|This project will focus on the desired experience for Veterans seeking information from a VA.gov chatbot. User research will focus on the desirability of future state of Virtual Agent features to inform the roadmap for upcoming configuration.|
+#### Objectives
+* Understand how users will interact with a VA chatbot to retrieve VA facilities information.
+* Understand the type of language Veterans used to communicate their needs. Are they able to understand the current VA language and terminology? 
+* Validate the type of information users are searching for regarding specific VA facilities. 
+* Learn what, if any information related to VA facilities that Veterans would like but are not currently available on VA.gov
+#### Findings
+* Many users expressed that they would search for information using VA.gov only when specific needs arise and not for browsing.
+* Most users solely rely on private search engines for VA -related information as they offer the most direct and relevant results. This reliance on private search engines is often attributed to negative past experiences using the VA.gov search feature.
+* Some users were confused by the term “Virtual Agent” and believed they would interact with a customer service representative or live agent.
+* Users expressed frustration when chatbots provide generic or canned responses, leading some to avoid chatbots altogether, and opt to call a live agent or search for a resolution themselves.
+* Users become frustrated when a chatbot is unable to recognize their inquiry and forces them to be stuck in a loop. Users expect the Virtual Agent to accurately route them towards a solution. If it fails to understand intent, it should present users with probing questions.
+* Many users prefer the personalized touch of a human interaction, along with the efficacy a live agent provides. Users expect the ability to escalate within a reasonable timeframe during the same interaction.
+* Users want personalized results tailored to their profile and unique situation when engaging with a Virtual Agent, including comprehensive guidance to navigate complex and opaque processes, like claims and payments.
+
+---
+
+### Virtual Agent Authentication Usability Test
+
+|Issue|[#97](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/97)|
+|:--|:--|
+|Date|2022-03|
+|Team|VEO: VA Multi-Channel Technology (MCT)|
+|Background|We are releasing an unauthenticated chatbot in Feb 2022 that will act as a new way to access information to the Veterans, and an authenticated version in April 2022, that will provide personalization and features to access private information, such as claims and appeals status. This tests the flow from non authenticated to authentication.|
+#### Objectives
+* Is the in-chat bot authentication process clear?
+* Do users want/need to sign out from the chatbot?
+* Do users need a visual indication for having signed in?
+* Are users able to easily find the Virtual Agent?
+* What do users currently understand what the chatbot can do?
+#### Findings
+* Users eventually located the Virtual Agent option on the ”Contact Us” VA.gov webpage, but the Agent’s location in the call-out web element was not immediately apparent.
+* Users described an ideal location for a Virtual Agent access point on their screens at the “bottom-right.”
+* Users also expressed desires for a chat experience that can collapse and minimize or follow the user during their browsing session.
+* None of the users noticed the lock icon at first glance. Most users identified being logged in by seeing the “Hector” name in the top right corner of the page.
+* Most users expected a blue sign out button to be available within the Virtual Agent. After the initial confusion, users signed out from the navigation bar.
+* Users also expressed that after their Virtual Agent interaction, they would explicitly sign out of their profile.
+#### Recommendations
+* Group the beta testing Virtual Agent access point in a similar manner as other contact channels.
+* Position a minimizable, roaming chat experience at bottom-right of browser screen.
+* Remove the lock icon in the chat window.
+* Add a sign out button as an additional option in actions that the Virtual Agent presents to the user.
+
+---
+
+### VSP, Ask VA - Dashboard (Business, Personal)
+
+|Issue|Not available. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2022-02/research-plan.md)|
+|:--|:--|
+|Date|2022-03|
+|Team|VSP Contact Center|
+|Background|This study is being conducted by the VSP Contact Center team. The study follows the Ask VA (AVA) tool, which enables veterans and VA.gov users to submit inquiries digitally. The AVA product team released a new tab function with labels (Business, Personal) in December 2021. The study will provide feedback for this new feature to the AVA product team. This research was done with SCOs (School Certifying Officials) that serve Veterans at higher education institutions. They are primary users of AVA. Participants were sourced through the VA Call Center team.|
+#### Objectives
+* Document and prioritize any outstanding usability concerns with AVA, including both inquiry submission and the authenticated dashboard.
+* Verify the implementation of new dashboard upgrades, and help SCOs and VA employees with handling caseloads in AVA.
+#### Findings
+* 3 of the 5 participants had initial login issues with ID.me or got errors in Chrome and had to switch to Internet Explorer.
+* All were able to locate the Business and Personal tabs after submitting inquiries specific to GI Bill.
+* The number of inquiries made by the SCOs could range from 25-50 a month.
+* New users had difficulty understanding the function of the Business and Personal tabs.
+* SCO users that had 1 month of usage or more did like the auto-sorting of inquiries for their workflow.
+* 2 of the participants referenced difficulties their co-workers may face using AVA.
+* All recommended a function to find inquiries in their AVA Dashboard faster.
+* 3 of the 5 participants had concerns about adjusting their PI data on the Review page before submittal and confusion about how the fields were auto-populating.
+* One person mentioned a workflow where they need to print a PDF of their dashboard and/or a specific inquiry for internal filing. This function often doesn’t work in Chrome.
+#### Recommendations
+* Research onboarding functions or reminders for the dashboard view.
+* Tabs can be renamed per SCO preference.
+* Audit needed for the beginning of the AVA form regarding inquiry type. One of the participants highlighted specific keywords related to GI Bill that were not in the drop down.
+
+---
+
+### Needs of Spanish Speaking Veterans for the Virtual Agent
+
+|Issue|[#66](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/66)|
+|:--|:--|
+|Date|2022-01|
+|Team|Virtual Agent|
+|Background|With the upcoming release of the Virtual Agent chatbot, the needs for internationalization and making available content for veterans that would prefer to use Spanish or other language as a preferred language are unclear. This research is an effort to understand how the needs of this group differ from the English speaking veterans.|
+
+---
+
+### MCT Virtual Agent Facilities Conversational Design
+
+|Issue|[#80](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/80)|
+|:--|:--|
+|Date|2022-01|
+|Team|VEO: VA Multi-Channel Technology (MCT)|
+|Background|This project will focus on the desired experience for Veterans seeking information about VA facilities with a VA.gov chatbot. User research will focus both on the desirability of specific facilities-related features and on the conversational design of these features. Facilities information and content will be based on the content already available on VA.gov and through the Lighthouse API.|
+
+---
+
+### Virtual Agent Automated Content and Claims Feature Usability Testing
+
+|Issue|[#45](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/45)|
+|:--|:--|
+|Date|2021-11|
+|Team|Virtual Agent|
+|Background|This research was for Veteran preference for drupal content responses, claims feature feedback and to learn other topics Veterans would be interested to engage with the chatbot.|
+
+---
+
+### VSP, Ask VA
+
+|Issue|Not available. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2021-07/research-plan.md)|
+|:--|:--|
+|Date|2021-07|
+|Team|VSP Contact Center|
+|Background|This study is being conducted by the VSP Contact Center team. The study follows the Ask VA (AVA) tool, which enables veterans and VA.gov users to submit inquiries digitally.|
+
+---
+
+### Virtual Agent Inclusive Design interviews
+
+|Issue|[#1](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/1)|
+|:--|:--|
+|Date|2021-06|
+|Team|Virtual Agent|
+|Background|The virtual agent/chatbot will eventually be hosted on Va.gov. Exact location(s) to be determined. Ultimately, the virtual agent’s goal is to provide responses based on existing Va.gov content to enable and encourage self service behaviors. This project is part of the larger Omnichannel strategy (led by VEO) to provide veterans with seamless access to information.|
+
+---
+
+### Ask VA
+
+|Issue|Not available. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2021-04/research-plan.md)|
+|:--|:--|
+|Date|2021-04|
+|Team|VSP Contact Center|
+|Background|What, if any, changes need to be implemented before the full release of the Ask VA (AVA). Explore topics such as Customer Satisfaction & Trust, Findability and (Task) Service Completion. Testing full AVA experience. Testing the content of the form.|
