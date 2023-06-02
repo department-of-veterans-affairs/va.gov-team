@@ -1,4 +1,4 @@
-# Conversation Guide: Evidence Submission Usability Testing (WIP)
+# Conversation Guide: Evidence Submission Usability Testing
 
 Benefits Team 1 · June 2023
 
@@ -113,19 +113,40 @@ Before we look at the website, let’s start with a few general questions.
 - What action would you take, if any, on this page? 
 - On a scale of 1-5, how helpful would you say this page is?
 
+### Things to watch for:
+
+- Does the participant understand what action to take to resolve the evidence request?
+- Is the ppt confused about the state of the claim, or is it clear? 
+
 ## Fifth Task: Evidence request page - 5 minutes
 
 - [Clicking into request] Tell me what you see here. What is this request for?
 - What action, if any, would you take on this page? 
 - On a scale of 1-5, how helpful would you say this page is?
 
-## Post-Task Interview - X minutes
+### Things to watch for:
+
+- Is it clear to the participant what this request is for?
+- What action would the ppt take to resolve the evidence request from this page?
+
+## Sixth Task: Overview page with evidence request (v2) - 5 minutes
+
+- Describe to me what you see on this page?
+- Based on what you see here, what do you think is the status of this claim (the first one)? What does that status mean to you?
+- What would you do next?
+- Comparing this to the version showed earlier, which do you prefer? Why?
+
+### Things to watch for:
+
+- Which of the request alert treatments does the participant prefer?
+
+## Post-Task Interview - 5 minutes
 
 - Overall, what did you think of what you saw today? Was it clear or confusing?
 - If you could change anything about what you saw today, what would it be?
 - Do you have any questions for me?
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 1 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
