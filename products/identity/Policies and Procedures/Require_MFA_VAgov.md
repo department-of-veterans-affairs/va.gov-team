@@ -7,7 +7,7 @@
 
 ## Background
 
-Fraudulent Direct Deposit account changes on VA.gov are on the rise at the Department of Veterans Affairs. In an attempt to reduce fraudulent activity on VA.gov, the VA.gov Identity team has implemented a policy that requires all direct deposit changes to be made with a verified ID.me or Login.gov account that requires MFA (multi-factor authentication). This policy was set by the Identity team's PO (Product Owner) at the time, Cody Reinold. The policy has been set and is not set to expire until 9/20/2021.
+Fraudulent Direct Deposit account changes on VA.gov are on the rise at the Department of Veterans Affairs. In an attempt to reduce fraudulent activity on VA.gov, the VA.gov Identity team has implemented a policy that requires all direct deposit changes to be made with a verified ID.me or Login.gov account that requires MFA (multi-factor authentication). This policy was set by the Identity team's PO (Product Owner) at the time, Cody Reinold. The policy has been set and is not set to expire.
 
 ## Policy
 
