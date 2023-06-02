@@ -2,16 +2,17 @@
 #### Overview
 
 This initiative will work to solve three problems:
-1. Use web components - The VA.gov header needs to be migrated to use web components in order to allow the update of the VA.gov Design System to USWDS 3.0. 
-2. Increase performance - The performance of the header should be reviewed and optimized as much as possible to better support Veterans and beneficiaries accessing VA.gov on low-bandwidth connected devices.
-3. Prototype OFCIO's new global header and footer layout - attempt to adopt OFCIO's new experimental global header and footer and test with Veterans and beneficiaries to validate that it can be successfully adopted with minimal negative impact to site visitors.
+1. Increase performance - The performance of the header should be reviewed and optimized as much as possible to better support Veterans and beneficiaries accessing VA.gov on low-bandwidth connected devices or those who are concerned about data plans. (Equity)
+2. Use web components - The VA.gov header needs to be migrated to use web components in order to allow the update of the VA.gov Design System to USWDS 3.0. 
+3. Prototype OFCIO's new global header and footer layout - attempt to adopt OFCIO's new experimental global header and footer and test with Veterans and beneficiaries to validate that it can be successfully adopted with no (minimal?) negative impact to site visitors.
 
 ---
 
 ## Outcome Summary
+- Performance/data requirements of header is reduced
 - Usability of the main navigation is maintained or improved, especially on mobile devices.
 - Usability flow into authenticated experience(s) is maintained or improved, especially on mobile devices.
-- Usability of the VCL is maintained or improved, especially on mobile devices.
+- Usability of the VCL is maintained or improved, especially on desktop devices.
 - Larger font sizes help Veterans understand and interact with VA.gov
 - Usability of the header and page is unaffected by font-family change
 - Usability of the authenticated experience is unaffected (may be out-of-scope?)
