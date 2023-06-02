@@ -9,9 +9,16 @@ This initiative will work to solve three problems:
 ---
 
 ## Outcome Summary
+- Usability of the main navigation is maintained or improved, especially on mobile devices.
+- Usability flow into authenticated experience(s) is maintained or improved, especially on mobile devices.
+- Usability of the VCL is maintained or improved, especially on mobile devices.
+- Larger font sizes help Veterans understand and interact with VA.gov
+- Usability of the header and page is unaffected by font-family change
+- Usability of the authenticated experience is unaffected (may be out-of-scope?)
 
 OFCIO’s goals with this work:
-- Veterans have provided positive feedback about the VA seal, USA brand mark, and other usability updates as part of the overall design (especially mobile navigation and signed in menus, and larger font sizes)
+- Veterans have provided positive feedback about the USA brand mark.
+- Veterans have provided positive feedback about the use of the VA seal.
 
 
 **Related/Associated product(s)**
