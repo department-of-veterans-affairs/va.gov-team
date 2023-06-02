@@ -64,7 +64,7 @@ Before we look at the website, let’s start with a few general questions.
 ### Things to watch for:
 
 - Does the participant understand what they're looking at on the CST overview page?
-- Does the ppt understand the difference between "In progress" and "Decided" claims?
+- Does the ppt understand the difference between "In progress" and "Decided" claims? Do they mention Claim IDs at all when discussing the distinction?
 - Does the ppt understand the status of the claim, and what prompted that status? 
 
 ## Second Task: Looking at an in-progress claim - 15 minutes
