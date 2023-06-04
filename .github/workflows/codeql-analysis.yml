@@ -1,0 +1,32 @@
+name: CodeQL
+'on':
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+  schedule:
+    - cron: 9 3 * * 5
+  workflow_dispatch: null
+jobs:
+  analyze:
+    name: Analyze
+    runs-on: ubuntu-latest
+    concurrency: ${{ github.workflow }}-${{ matrix.language }}-${{ github.ref }}
+    permissions:
+      actions: read
+      contents: read
+      security-events: write
+    strategy:
+      fail-fast: false
+      matrix:
+        language:
+          - javascript
+          - python
+          - ruby
+    steps:
+      - name: Run Code Scanning
+        uses: department-of-veterans-affairs/codeql-tools/codeql-analysis@main
+        with:
+          language: ${{ matrix.language }}
