@@ -18,7 +18,7 @@
 ### Onsite Notifications
 **Component**
 - QA
-- prep for Staging review and Privacy and security
+- prep for Staging and PSIR reviews
 
 **Notification Center**
 - Technical discovery 
@@ -26,7 +26,13 @@
 - Submit Collab Cycle ticket
 
 ### My VA
-Update 1-month post launch to 100% stats
+
+**Claims status widget - EVSS > Lighthouse**
+- Technical discovery
+
+**General**
+- E2E and unit test work
+- Update 1-month post launch to 100% stats
   - This is done in the [My VA audit project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#measuring-success)
   - Remember, we want to track stats 1 month after the date of the launch to 100% of users. So, if we went to 100% of users on 4/15, we'd track the first month of stats from 4/15 - 5/14.
 
@@ -35,7 +41,9 @@ Update 1-month post launch to 100% stats
 
 ### Onsite Notifications
 **Component**
-- Complete Staging review & Privacy and security
+- QA component on My VA
+- Complete Staging and PSIR reviews
+- UAT (if needed?)
 - "release" component on My VA
 
 **Notification Center**
@@ -43,7 +51,12 @@ Update 1-month post launch to 100% stats
 - Design Intent
 
 ### My VA
-E2E and unit test work
+
+**Claims status widget - EVSS > Lighthouse**
+- Technical discovery/planning - _how will we test this?_
+
+**General**
+- E2E and unit test work
 
 
 ## Sprint 13 (6/21 - 7/4)
@@ -51,23 +64,47 @@ E2E and unit test work
 
 ### Onsite Notifications
 **Component**
-- Complete Staging review & Privacy and security
-- "release" component on My VA
+- Post-launch code cleanup 
+- Documentation updates 
+  - standard use cases, flows, etc. 
+  - _plus_ document process of component build soup to nuts
 
 **Notification Center**
-- Share with MHV folks 
-- Design Intent
+- Start build?
 
 ### My VA
-Update 2-month post launch to 100% stats
+
+**Claims status widget - EVSS > Lighthouse**
+- Implmentation: update claims status to point EVSS > Lighthouse
+
+**General**
+- Update 2-month post launch to 100% stats
   - This is done in the [My VA audit project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#measuring-success)
   - Remember, we want to track stats 2 months after the date of the launch to 100% of users. So, if we went to 100% of users on 4/15, we'd track the first month of stats from 4/15 - 5/14.
-
+- E2E and unit test work (cont.)
 
 ## Sprint 14 (7/5 - 7/18)
 [#51102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51102)
 
 _Samara returns from parental leave!_
+
+### Onsite Notifications
+
+**Notification Center**
+- Continue build
+- Prep for QA
+- Plan for UAT
+
+### My VA
+
+**Claims status widget - EVSS > Lighthouse**
+- Testing?
+- Submit PSIR review (may need dev support on this)
+
+**General**
+- E2E and unit test work (cont. as needed)
+
+
 
 ## Sprint 15 (7/19 - 8/1)
 [#58195](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58195)
