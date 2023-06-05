@@ -3,7 +3,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 6/14/2023 - 6/27/2023  ------------------------- FUTURE / TENTATIVE ------------------------------------
+## 6/14/2023 - 6/27/2023  ------------------------- FUTURE / TENTATIVE -----------------------------
 #### SPRINT GOALS
 - **GOAL: Fix Bugs**
 - **GOAL: Make submission of a travel reimbursement claim easier**
@@ -24,7 +24,7 @@ ________________________________________________________________________________
        - [Slack thread](https://dsva.slack.com/archives/C02UP02HHGX/p1684847248762479)
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**    
-       - TBD
+       - [[UX][Content] Create FAQ Guide for MSAs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**      
        - TBD
