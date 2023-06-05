@@ -32,7 +32,7 @@ Therefore, the typical `4xx` and `5xx` family of errors are in play and should b
 
 ### Resources
 - Swagger [docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/my_va/listOnsiteNotification)
-- Backend [code]()
+- Backend [code](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/onsite_notifications_controller.rb)
 - `will_paginate` [docs](https://github.com/mislav/will_paginate/wiki)
 
 ### Tasks
