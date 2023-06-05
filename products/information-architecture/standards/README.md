@@ -3,7 +3,7 @@
 ### IA standards
 
 **Standards and best practices in Github**
-- Search best bets - work in progress
+- [Search best bets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/search-best-bets.md) - Draft standards complete, will be continuing to evaulate draft approach
 - [SEO best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/seo-best-practices.md)
 - [Template: Benefit hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/template-guidelines-hub-page.md) - work in progress
 
