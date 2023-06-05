@@ -56,14 +56,18 @@ For moderated interviews:
 The intended audiences is Veterans who at some point filed a disability compensation claim with the VA in the last 10 years. 
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+
+**Screener question**
+
+Have you filed a disability compensation claim with the VA in the last 10 years? [Answer should be yes to qualify.]
 
 **Primary criteria (must-haves)**
 
 15 total participants:
 
-- 6 Black Veterans
-- 6 Veterans age 55-64+
+- At least 6 Black Veterans 
+- At least 6 Veterans age 55-64+
+- The participants must be using a desktop device during the study.
 
 ## Timeline
 
@@ -82,7 +86,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Maximum Sessions per day: 3
 
 ### Availability
-8 AM - 6 PM
+8 AM - 6 PM ET
 	
 ## Team Roles	
 	
