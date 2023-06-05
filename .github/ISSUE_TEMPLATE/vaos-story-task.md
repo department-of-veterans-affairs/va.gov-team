@@ -2,7 +2,7 @@
 name: VAOS User Story / Task Template
 about: For filing standard VAOS issues.
 title: ''
-labels: needs-grooming, vaos
+labels: needs-grooming, appointments
 assignees: ''
 
 ---
