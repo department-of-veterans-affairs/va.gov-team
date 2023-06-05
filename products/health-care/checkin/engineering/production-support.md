@@ -3,9 +3,12 @@
 ### Summary
 Here is the current production support guidance for Check-in Experience team:
 
+#### Hours of Support
 - CIE Engineers will have a sprint rotation to provide production support
-- CIE Engineers will schedule the production support hours to be able to complement the support hours of CHIP team. Currently, that schedule is M - F, 1pm - 8pm Eastern Time
-- The support tasks for CIE Engineers are to proactively monitor the datadog dashboards ([Links](#links), [#Check-in-monitoring]() [#check-in-experience-apm](https://dsva.slack.com/archives/C02U11L00TF) and [#check-in-production-support](https://dsva.slack.com/archives/C02UP02HHGX) slack channels.
+- CIE Engineers will schedule the production support hours to co-incide with their normal work hours depending on the time zone
+
+#### Support Tasks
+- Proactively monitor the datadog dashboards ([Links](#links), [#Check-in-monitoring]() [#check-in-experience-apm](https://dsva.slack.com/archives/C02U11L00TF) and [#check-in-production-support](https://dsva.slack.com/archives/C02UP02HHGX) slack channels.
     - for any alerts in #check-in-experience-apm channel, perform initial debugging into the Sentry error message and the corresponding downstream error. If needed, alert the TEVI team by sending a message in #check-in-experience-engineering slack channel and tagging Charley and/or Michael Kimball
     - for any anomaly in stats or error traces, alert the TEVI team by sending a message in #check-in-experience-engineering slack channel
     - for any questions or issues in #check-in-go-live channel, perform initial debugging to identify/narrow down root cause. If needed, include Shane or Andy (for VistA, vista-api info), Rob Durkin (for VEText info) or Check-in Experience Team's frontend & backend engineers (for CHIP/LoROTA) or TBD (for Clinician Workflow info).
@@ -18,6 +21,8 @@ Here is the current production support guidance for Check-in Experience team:
         Pre-check-ins clicked: 6251
         Pre-check-ins completed: 2602
         ```
+- Monitor their VA email for notifications for the VAeCheckinVetFacingApps email group
+    - If notified by email of new support tickets in SNOW, investigate the tickets to resolution in our [SNOW queue](it.va.gov/now/nav/ui/classic/params/target/task_list.do%3Fsysparm_view%3Dcatalog%26sysparm_first_row%3D1%26sysparm_query%3Dassignment_group%253D9c50fbc51b4f8d5065965318624bcbbf%255Eactive%253Dtrue%255Estate!%253D6%26sysparm_clear_stack%3Dtrue)
 
 ### SNOW Queues
 [Assignment Group: eCheckInVetFacingApps](https://yourit.va.gov/now/nav/ui/classic/params/target/task_list.do%3Fsysparm_view%3Dcatalog%26sysparm_first_row%3D1%26sysparm_query%3Dassignment_group%253D9c50fbc51b4f8d5065965318624bcbbf%255Eactive%253Dtrue%255Estate!%253D6%26sysparm_clear_stack%3Dtrue)
