@@ -12,3 +12,5 @@ Regularly monitor the health of our unauthenticated Veteran and beneficiary cont
 3. Compile combined list and request Medallia data for listed pages.
 4. Analyze Medallia data and further analytics to determine lowest-performing page to add for consider for quarterly comprehension/content testing.
 5. Each quarter, test top 3 lowest-performing pages that we identify as having the most opportunity for content-specific improvement. (**Note:** The goal is to move to monthly testing, but we'll start with quarterly for now).
+
+[Ratings by month](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/sitewide-content/unauthenticated-content-outcomes-and-metrics/monthly-experience-ratings/ratings-by-month)
