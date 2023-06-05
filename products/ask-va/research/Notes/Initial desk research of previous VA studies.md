@@ -35,7 +35,7 @@ Last updated by @tygindraux on June 5, 2023
 * Determine the level of detail and cadence of confirmation messages presented to the user through the intake process regarding ticket submission
 * Understand the ideal timeframe and desired follow up method by contact center agent regarding submitted ticket
 #### Findings
-Unable to access. I’ve asked Shane (Research Ops).
+Unable to access in Github. I’ve asked Shane (Research Ops). Chante followed up with links to the [research findings](https://dvagov.sharepoint.com/:p:/r/sites/ChatbotasAVAFrontDoor/Shared%20Documents/General/2.0%20Research%20Phase/Findings%20Deck/MCT%20HCD-CBasAVAFD-InitialFindings-20220103_V2.pptx?d=w92fa78af137e49118d775808a8092e48&csf=1&web=1&e=sTMVms) and [design phase findings](https://dvagov.sharepoint.com/:p:/r/sites/ChatbotasAVAFrontDoor/Shared%20Documents/General/3.0%20Design%20Phase/3.0%20Findings/MCT%20ChAVA%20-%20HCD%20Research%20Findings.pptx?d=wa546e31ec5f544ecada6a36b57fca55e&csf=1&web=1&e=f3E9tP) but you need to be on the VA network to access.
 
 ---
 
