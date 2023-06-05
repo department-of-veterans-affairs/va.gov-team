@@ -1,3 +1,17 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
+
+
+
 # Accessibility
 
 Veteran-facing services (VFS) teams are responsible for ensuring the accessibility of the products. The Office of the Chief Technology Officer - Digital Experience (OCTO-DE) platform supports their work at scale by creating and maintaining VA.gov accessibility standards required for production and by providing guidance as VFS teams work to meet those standards. Code quality is the responsibility of each individual VFS team. This includes:
