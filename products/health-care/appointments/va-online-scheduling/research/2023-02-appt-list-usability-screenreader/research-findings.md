@@ -79,7 +79,7 @@ For the same reasons as in the first hypothesis, we can’t prove this is true f
 
 ### Recruiting and technical challenges made it difficult to test with screen reader users 
 
-We asked Perigean to recruit 12 screen reader users for this study. Perigean recruited 12 participants and, with 2 no-shows and 1 who couldn’t complete the session due to technical issues, we were able to speak to nine who met the screening criteria:
+Perigean recruited 12 participants for this study. 2 were no-shows and 1 couldn’t complete the session due to technical issues. In the end we were able to speak to nine who met the screening criteria. Of these:
 
 * Four were screen reader users:
     * Two were not able to test the feature due to login issues. 
