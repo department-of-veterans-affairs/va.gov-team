@@ -79,6 +79,11 @@ I'd like to start by learning more about your experience reviewing information a
     -	[**Moderator Note:** If participant finds anything confusing, ask the following:] What does that term mean to you?
     -	Would you use or not use this page and why? 
 
+2. Did Dr. Nutt want you to complete or do anything following your appointment? 
+    - 	[**Notetaker:** If participants says No, or doesn't find anyting, note that participant cannot find dr. instructions on next steps.]
+    - 	[**Moderator Note:** If participant cannot find this information, follow up on this in Task 3.]
+    
+
 ## Task 2: Your appointment on June 1, 2023 - 7 minutes  
 Now, I would like you to focus on the “Your appointment on June 1, 2023” section. Please review the section and please talk aloud as you are reviewing. And then, I’ll ask you a few questions as you move through.
 1.	Can you provide an example of how you might utilize the information within this section?
@@ -98,11 +103,15 @@ Now, I would like you to focus on the “Your appointment on June 1, 2023” sec
 7.	How would useful or not useful do you find the information in “Medications ordered for administration in clinic”?
 
 ## Task 3: Your Treatment Plan from this appointment - 7 minutes
-Now, I would like you to focus on the “Your Treatment Plan from this appointment” section. Please review this section by slowly scrolling through and thinking out loud again. 
+Now, I would like you to focus on the “Your Treatment Plan from this appointment” section. Please review this section by slowly scrolling through and thinking outloud again. 
 1.	How would you utilize the information within this section?
 2.	Are there any words that seem unfamiliar or confusing to you?
     -	[**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following:] What does that term mean to you?
-3.	Okay great, so how would you describe the information under “Medications and Supplies”?
+
+3. Are there any instructions that you should be aware of in this section?
+    - [**Moderator Note:** Ask question 3 only if participant answered No in Question 2 of Task 1, otherwise move to Question 4.] 
+    
+4.	Okay great, so how would you describe the information under “Medications and Supplies”?
     -	How does the “Medications and Supplies” information in this section differ from “Medications ordered for administration in clinic” under the previous “Your appointment on June 1, 2023” section?
     -	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then share:] Okay, this section was supposed to display only the medications that were added or changed during the appointment?
     -	How valuable, or not valuable, do you find this section to be? Why?
