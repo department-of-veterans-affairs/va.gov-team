@@ -34,7 +34,6 @@ The user is able to navigate between the appointment status (upcoming, pending, 
 - A user cannot access the new Appointment List in MHV on VA.gov 
 
 ## Key Decisions
-- It is very important that the navigation links work as expected in order for the Veteran to have access to their health appointments online. 
 
 ---
 ## Measuring Success
