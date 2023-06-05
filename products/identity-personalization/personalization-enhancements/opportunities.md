@@ -1,5 +1,5 @@
 # Opportunities to enhance the personalized experience on VA.gov
-Last update: 6/1/2023
+Last update: 6/5/2023
 
 ## Overview
 We [completed research in April 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research#research-outline-identifying-issues-and-challenges-people-have-finding-tasks-when-they-are-signed-in-to-vagov) and identified opportunities to enhance the personalized experience on VA.gov.   These are outlined below; we’ll be working on a few starting in June 2023. We should revisit anything else when Samara is back and we can prioritize efforts and allocate resources.
@@ -51,12 +51,12 @@ We could:
 - Change “Create account” CTA to something about “My VA”
 - Dynamically change links when logged in to point directly to tools and personalized content instead of static pages.
 
-We shared these ideas and [concepts](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684266228888/70e80eb031b0215679917698dc3abfcd74c76e03?wid=0-1684953724245) with Dave Conlon; waiting for him to set-up a meeting to discuss.
+We shared these ideas and [concepts](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684266228888/70e80eb031b0215679917698dc3abfcd74c76e03?wid=0-1684953724245) with Dave Conlon; he wants to watch analytics on the new homepage (Launched 6/1) before having any discussions around this.
 
 ##### Considerations
 - **NEED TO CONFIRM** This relies on Drupal being smart enough to know when people are logged in
 - We don’t have IA engineering resources to do this; currently falls under Public Websites
-
+- We should look at analytics to see if people are going back to the new homepage once logged in
 ---
 
 ### Benefit hubs
