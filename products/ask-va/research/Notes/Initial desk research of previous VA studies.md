@@ -1,9 +1,9 @@
 # Initial desk research of previous VA studies
-Last updated by @tygindraux on June 2, 2023
+Last updated by @tygindraux on June 5, 2023
 
 ## List of studies
 * [MCT HCD Chatbot as AVA Frontdoor - February 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-hcd-chatbot-as-ava-frontdoor)
-* [Disabled Veteran Accessibility Feedback - 2022]()
+* [Disabled Veteran Accessibility Feedback - 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#disabled-veteran-accessibility-feedback)
 * [Multi-channel Technologies (MCT) Chatbot as AVA Front Door - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#multi-channel-technologies-mct-chatbot-as-ava-front-door)
 * [MCT Virtual Agent Chatbot Login.Gov and ID.me Moderated Interviews - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-virtual-agent-chatbot-logingov-and-idme-moderated-interviews)
 * [Chatbot Feature Prioritization - August 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#chatbot-feature-prioritization)
@@ -41,7 +41,7 @@ Unable to access. I’ve asked Shane (Research Ops).
 
 ### Disabled Veteran Accessibility Feedback
 
-|Issue|Not available. [Link to findings document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md)|
+|Issue|Not available. [Link to findings document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md).|
 |:--|:--|
 |Date|2022|
 |Team|Josh Kim, A11y|
@@ -328,7 +328,7 @@ Unable to access. I need to chase.
 
 ### VSP, Ask VA - Dashboard (Business, Personal)
 
-|Issue|Not available. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2022-02/research-plan.md)|
+|Issue|Not available. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2022-02/research-plan.md).|
 |:--|:--|
 |Date|2022-03|
 |Team|VSP Contact Center|
@@ -385,7 +385,7 @@ Unable to access. I need to chase.
 
 ### VSP, Ask VA
 
-|Issue|Not available. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2021-07/research-plan.md)|
+|Issue|Not available. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2021-07/research-plan.md).|
 |:--|:--|
 |Date|2021-07|
 |Team|VSP Contact Center|
@@ -405,7 +405,7 @@ Unable to access. I need to chase.
 
 ### Ask VA
 
-|Issue|Not available. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2021-04/research-plan.md)|
+|Issue|Not available. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2021-04/research-plan.md).|
 |:--|:--|
 |Date|2021-04|
 |Team|VSP Contact Center|
