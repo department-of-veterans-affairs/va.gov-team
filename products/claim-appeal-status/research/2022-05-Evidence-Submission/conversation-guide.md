@@ -60,12 +60,14 @@ Before we look at the website, let’s start with a few general questions.
 - What do you think is the difference between the first claim shown here and the second claim?
 - Based on what you see here, what do you think is the status of this claim (the first one)? What does that status mean to you?
 - What do you think "Last updated" means? 
+- Is there any other information that you'd like to see here about these claims that you're not seeing?
 
 ### Things to watch for:
 
 - Does the participant understand what they're looking at on the CST overview page?
 - Does the ppt understand the difference between "In progress" and "Decided" claims? Do they mention Claim IDs at all when discussing the distinction?
 - Does the ppt understand the status of the claim, and what prompted that status? 
+- What other information, if any, does the ppt say would be useful to see?
 
 ## Second Task: Looking at an in-progress claim - 15 minutes
 
@@ -76,16 +78,23 @@ Before we look at the website, let’s start with a few general questions.
 - On a scale of 1-5, how helpful would you say this page is?
 
 #### Files tab 
+- [Navigate to Files tab]
 - Tell me what you see on this page. Is this what you were expecting?
 - Where do you think these files here came from?
 - What action would you take, if any, on this page? 
 - On a scale of 1-5, how helpful would you say this page is?
 
 #### Overview tab
+- [Navigate to Overview tab]
 - Tell me what you see on this page. Is this what you were expecting?
 - Does this help you understand what's happening with the claim? Why or why not?
 - What action would you take, if any, on this page? 
 - On a scale of 1-5, how helpful would you say this page is?
+
+#### Compare/Contrast 
+- [Click anywhere on page to show old design] How would you compare this screen to the one we just looked at? Which do you prefer? Why do you prefer that one? 
+- On a scale of 1-5, how helpful would you say this page is? 
+- [Return to new Status tab]
 
 ### Things to watch for:
 
@@ -93,6 +102,7 @@ Before we look at the website, let’s start with a few general questions.
 - Does the ppt feel like this gives them a good sense of what they need to do - or not do - to support the claim? 
 - Does the ppt undrestand the relationship between items in the Activity feed and items in the Files tab?
 - Does the ppt feel about the process stepper provides unique and useful information?
+- How the does participant feel about the new design compared to the old design?
 
 ## Third Task: Overview page with evidence request - 5 minutes
 
