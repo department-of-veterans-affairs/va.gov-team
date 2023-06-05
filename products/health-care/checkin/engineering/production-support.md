@@ -29,7 +29,7 @@ Here is the current production support guidance for Check-in Experience team:
 
 ### Other Links
 
-Error Traces: 
+Clinician Workflow Error Traces: 
 - [https://tevi.ddog-gov.com/apm/traces?query=env%3Aprod -service%3A(clinician-workflow-defaultdb OR clinician-workflow-cache) -status%3Aok -%40http.path_group%3A("%2Flambda%2Fflush" OR "%2Flambda%2Fhello")&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code&historicalData=false&messageDisplay=inline&sort=desc&spanViewType=logs&start=1653333035453&end=1653333935453&paused=false](https://tevi.ddog-gov.com/apm/traces?query=env%3Aprod%20-service%3A%28clinician-workflow-defaultdb%20OR%20clinician-workflow-cache%29%20-status%3Aok%20-%40http.path_group%3A%28%22%2Flambda%2Fflush%22%20OR%20%22%2Flambda%2Fhello%22%29&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code&historicalData=false&messageDisplay=inline&sort=desc&spanViewType=logs&start=1653333035453&end=1653333935453&paused=false)
     - ignore the logs from `project-chipapi-cwsacrificiallambda-prod`
     - sometimes, one of the sidekiq job (eg: `PreCacheAppointmentsByClinicJob`) fails due to error with vista-api. It usually is re-queued to run in 2 mins so an error in itself is not cause for concern. But if there are more than a few errors, that should be reported and looked into.
