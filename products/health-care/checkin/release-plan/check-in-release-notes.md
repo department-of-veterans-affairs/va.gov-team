@@ -12,6 +12,12 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 6/2/2023
+- Updated the "in-person appointment" title in Pre-Check-in and eCheck-in to use a hypen 
+    - [Ticket 59082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59082)
+- Updated eCheck-in to prevent Veterans from returning to the check-in questions after completing check-in
+    - [Ticket 58862](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58862)
+
 ### 4/28/2023
 - Updated Pre-Check-in and eCheck-in to display the Facility Address with other appointment details.
     - [Ticket 52132](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132)
