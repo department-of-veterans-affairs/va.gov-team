@@ -62,16 +62,8 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 
 15 total participants:
 
-- 3 Black Veterans
-- 3 Hispanic Veterans
-- 3 Asian Veterans
-- 7 Veterans age 55-64+
-
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
-
-- 1 Native Veteran
-- 1 LGBTQ+ Veteran (Gay, lesbian, or bisexual, Transgender, or Nonbinary, gender fluid, gender queer, Two-Spirit).
+- 6 Black Veterans
+- 6 Veterans age 55-64+
 
 ## Timeline
 
