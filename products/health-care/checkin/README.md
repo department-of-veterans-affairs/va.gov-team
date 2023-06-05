@@ -26,6 +26,7 @@
 - Frontend Engineers
   - [Brian Seek](https://dsva.slack.com/team/U02FLCLQ6J2)
   - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)
+  - Lee DeLarm
 - Backend Engineers
   - [Gaurav Gupta](https://dsva.slack.com/team/U02DB4BC10F)
   - [Kanchana Suriyamoorthy](https://dsva.slack.com/team/U02EFEF4ZB2)
