@@ -9,7 +9,7 @@
 **Step 3:** Participate in a video demo of a research session with a person using a screenreader, followed by a Q&A with an a11y specialist
 - Estimated time burden: 1 hour
 
-## Specific challenges that often come up in research sessions with screenreader users: 
+## Specific challenges that often come up in research sessions with screenreader users
 
 _Hearing or not hearing screenreaders:_ Sometimes the audio for screenreaders comes through but not always. This can leave the moderator without a sense of when they talk over screenreaders and increase confusion for participants. 
   - **Solution:** Allow extra time for participants to do things before asking questions. Confirm there's no screenreader audio happening when you ask questions. 
