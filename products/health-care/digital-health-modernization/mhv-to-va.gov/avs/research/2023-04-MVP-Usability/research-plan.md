@@ -77,8 +77,19 @@ Data collection will be remote and conducted using Zoom.
 ### Recruitment approach
 We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. 
 
+### Perigean Kick-off Meeting
+June 6th at 12:00 p.m. with the following attendees:
+
+ - Kristen McConnell UX Lead (kristen.mcconnell@va.gov)
+ - Nina Anusavice UX Designer (nina.anusavice@va.gov)
+
 ## Recruitment criteria
 [Link to recruitment request ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/326)
+
+  
+
+   
+
 
 
 ## Timeline
