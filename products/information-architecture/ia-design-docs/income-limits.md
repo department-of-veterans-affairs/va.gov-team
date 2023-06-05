@@ -45,7 +45,7 @@ The Income Limits tool will be a new page in the 'More info and resources sectio
 
 ## <a name="nav"></a>Entry points <br>
   
- 1.  Health care hub left vav - Add
+ 1.  Health care hub left nav - Add
   - Placement description: Under 'More resources', under Community care and above Affordable Care Act
   - Link label: Income Limits
   - Link destination: www.va.gov/health-care/income-limits
