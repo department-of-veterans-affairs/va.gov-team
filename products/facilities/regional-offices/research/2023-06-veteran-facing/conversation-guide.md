@@ -128,7 +128,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 
 Let's suppose that (Google/VA.gov) led you to the page that I'm going to show you. It's a prototype that isn't very interactive–some things work, and many things do not. I'm looking for **your feedback**, including any issues that you see or questions that you have. I'd like you to talk to me about what you want to do BEFORE you click anything.
 
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **https://bit.ly/3zuL4Be**
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **TBD**
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
 Do you see the link? 
@@ -195,4 +195,4 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 ## Approvals
 - Michelle Middaugh or Dave Conlon (PO) on TBD
-- Shane Strassberg on TBD
+- Shane Strassberg or other VA representative on TBD
