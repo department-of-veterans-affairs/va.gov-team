@@ -84,16 +84,18 @@ Now, I would like you to focus on the “Your appointment on June 1, 2023” sec
 1.	Can you provide an example of how you might utilize the information within this section?
 2.	Are there any terms that seem unfamiliar or confusing to you?
     -	[**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following:] Using your own words, how would you define those terms?
-3.	If you could provide a definition of the information that is included within the “You were diagnosed with” section, how would you define that information?
+
+3. Would you be able to find any information on what your doctor told you to do after this appointment?
+4.	If you could provide a definition of the information that is included within the “You were diagnosed with” section, how would you define that information?
     -	[**Moderator Note:** If the participant doesn't correctly describe the content's purpose, then ask:] What if the title of the section was “Health conditions you discussed?” How would you define this section then?
     -	How valuable or not valuable do you find this section? Why?
-4.	Next, please scroll down again. [**Moderator Note:** Stop them at. “Medications ordered for administration in clinic”] 
+5.	Next, please scroll down again. [**Moderator Note:** Stop them at. “Medications ordered for administration in clinic”] 
     - What does the information under “Medications ordered for administration in Clinic” mean to you? 
       - [**Moderator Note:** If what they describe doesn’t match the intention of the section, then ask:] What if I told you that this section displays medications you took or were administered while you were at your appointment. What do you think about reviewing that information?
-5.	Ask participants to stop and open the medication glossary and review the information while they are talking aloud. [**Moderator Note:** Try to get general feedback on the glossary terms.]
+6.	Ask participants to stop and open the medication glossary and review the information while they are talking aloud. [**Moderator Note:** Try to get general feedback on the glossary terms.]
     - [**Moderator Note:** If participant comments on term, ask:] What does that mean to you?
     - [**Moderator Note:** If what they describe doesn’t match the intention of the section, then ask:] What if I told you that this section was supposed [*Improvise-** because the dialogue depends on the participant’s previous answer.]
-6.	How would useful or not useful do you find the information in “Medications ordered for administration in clinic”?
+7.	How would useful or not useful do you find the information in “Medications ordered for administration in clinic”?
 
 ## Task 3: Your Treatment Plan from this appointment - 7 minutes
 Now, I would like you to focus on the “Your Treatment Plan from this appointment” section. Please review this section by slowly scrolling through and thinking out loud again. 
