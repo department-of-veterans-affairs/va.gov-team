@@ -24,7 +24,7 @@
  - UX Content
    - [Kelly Smith](https://dsva.slack.com/team/U04427HRK60)  
 - Full Stack Engineers
-  - Lee DeLarm
+  - [Lee DeLarm](https://dsva.slack.com/archives/D05B37XJF8C)
 - Frontend Engineers
   - [Brian Seek](https://dsva.slack.com/team/U02FLCLQ6J2)
   - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)  
