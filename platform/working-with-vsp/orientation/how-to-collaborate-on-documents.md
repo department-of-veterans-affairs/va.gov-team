@@ -1,3 +1,17 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
+
+
+
 ## How to collaborate on documents
 
 Most document updates and revisions are pretty easy. Make your change in the `main` branch (or upload your document) and commit. This simple way should be used for documents that are being added/edited, but don't need too much collaboration or there isn't anyone else likely to edit it before adding it to the repo (and if it turns out there is, someone can always change it later).
