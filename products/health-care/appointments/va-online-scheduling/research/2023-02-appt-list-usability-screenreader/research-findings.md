@@ -68,7 +68,7 @@ For the same reasons as in the first hypothesis, we can’t prove this is true f
 ## Key Findings
 
 1. [Recruiting and technical challenges made it difficult to test with screen reader users](#recruiting-and-technical-challenges-made-it-difficult-to-test-with-screen-reader-users)
-2. [Most participants easily navigated to and understood the upcoming and past appointment lists](#most-participants-easily-navigated-to-and-understood-the-upcoming-and-past-appointment-lists)
+2. [Participants easily navigated to and understood the upcoming and past appointment lists](#most-participants-easily-navigated-to-and-understood-the-upcoming-and-past-appointment-lists)
 3. [Participants struggled to navigate to and understand appointment requests](#participants-struggled-to-navigate-to-and-understand-appointment-requests)
 4. [Missing, confusing appointment information makes the lists difficult to use](#missing-confusing-appointment-information-makes-the-lists-difficult-to-use)
 5. [Logging in was the biggest challenge for participants](#logging-in-was-the-biggest-challenge-for-participants)
@@ -145,15 +145,15 @@ In the end we were able to test the feature with 7 participants. While we were u
 
 
 
-### Most participants easily navigated to and understood the upcoming and past appointment lists
+### Participants easily navigated to and understood the upcoming and past appointment lists
 
-All but one participant easily found and understood the upcoming and past appointments lists. 
+All but 1 participant easily found and understood the upcoming and past appointments lists. 
 
 * All participants were able to recognize appointments in the lists and understand the information that was presented.
 * One screen reader did not announce the date and time information. The participant was able to find this information in the details link.
-* The participant who didn’t see the sub-navigation menu said that their vision was blurry that day. This may indicate the font was too small to be easily legible.
+* One participant didn’t see the sub-navigation menu. They said that their vision was blurry that day. This may indicate the font was too small to be easily legible.
 
-We saw similar results in an earlier study where we tested a prototype of the lists:
+We saw similar results in an earlier study where we tested a prototype of the list redesign:
 
 * [The appointment list was easy for participants to scan for information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4698f0f19f26bd512cf8dd1cff578c712d7da3eb/products/health-care/appointments/va-online-scheduling/research/2022-09-appts-list-usability/research-findings.md#1-the-appointment-list-was-easy-for-participants-to-scan-for-information) - 2022-09 Appointments List Usability Study
 
