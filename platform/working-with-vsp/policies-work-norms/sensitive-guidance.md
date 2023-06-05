@@ -1,3 +1,17 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
+
+
+
 # Sensitive documentation guidance
 
 This document clarifies what content should live in the publicly-visible [`va.gov-team`](https://github.com/department-of-veterans-affairs/va.gov-team) repository vs. the not-publicly-visible [`va.gov-team-sensitive`](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive) repository.
