@@ -15,6 +15,7 @@
 | Pilot | April 21 |
 | Sessions | April 26 - May 5 |
 | Analysis | May |
+| Socialize findings | May/June |
 
 ## Background
 
