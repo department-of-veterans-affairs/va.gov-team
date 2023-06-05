@@ -11,7 +11,7 @@
 
 ## Specific challenges that often come up in research sessions with screenreader users
 
-_Hearing or not hearing screenreaders:_ Sometimes the audio for screenreaders comes through but not always. This can leave the moderator without a sense of when they talk over screenreaders and increase confusion for participants. 
+_Hearing or not hearing screenreaders:_ Sometimes the audio for screenreaders comes through but not always. This can leave the moderator without a sense of when they are talking over screenreaders and increase confusion for participants. 
   - **Solution:** Allow extra time for participants to do things before asking questions. Confirm there's no screenreader audio happening when you ask questions. 
 
 _Directing without using guidance that assumes sight:_ As sighted individuals, we are used to using visible symbols to guide navigation and wayfinding. These may not be useful to someone without sight. 
@@ -20,9 +20,9 @@ _Directing without using guidance that assumes sight:_ As sighted individuals, w
 _Variaton across screenreader tools:_ Basically the same as above - some shortcuts work for VoiceOver but not JAWS, for example. This can make it challenging to provide guidance on where to go in the event a participant becomes lost or confused. 
   - **Solution:** Include an a11y specialist as an observer who can help troubleshoot screenreader difficulties. Include in your conversation guide some generic backup guidance that can be used for a range of tools to redirect participants back to central locations, like a home or landing page. 
 
-_Newer users of screenreaders might not be very comfortable with them yet:_ As noted in the Platform Documentation site guidance, folks who are just beginning to use screenreaders will most likely have greater difficulties performing tasks than folks who have more experience. For example, in a recent usability test with a beginner screenreader user, it took 45 minutes for the participant to log in. This is not unusual and shows the real challenges folks face to using the digital services we produce. 
+_Newer users of screenreaders might not be very comfortable with them yet:_ Folks who are just beginning to use screenreaders will most likely have greater difficulties performing tasks than folks who have more experience. For example, in a recent usability test with a beginner screenreader user, it took 45 minutes for the participant to log in. This is not unusual and shows the real challenges folks face to using the digital services we produce. 
   - **Solution:** No real solution. Prioritize participant wellbeing over data collection. Be kind and try to address any feelings of frustrations that may come up. Remind them this is not a test of their abilities and they are helping us enormously by allowing us to witness their experiences. Thank them a lot for being willing to participate in a research session. 
 
 _Sessions with folks using screenreaders can be more emotionally tiring than with other groups of users_
-  - **Solution:** Take care of yourself as you need. Budget extra time between sessions for emotional decompression. Assume session will go long and don't book too many in a given day. 
+  - **Solution:** Take care of yourself as you need. Budget extra time between sessions for emotional decompression. Assume sessions will go long and don't book too many in a given day. 
 
