@@ -23,10 +23,11 @@
   - [Christina Gednalske](https://dsva.slack.com/team/U02KVPC82VA)
  - UX Content
    - [Kelly Smith](https://dsva.slack.com/team/U04427HRK60)  
+- Full Stack Engineers
+  - Lee DeLarm
 - Frontend Engineers
   - [Brian Seek](https://dsva.slack.com/team/U02FLCLQ6J2)
-  - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)
-  - Lee DeLarm
+  - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)  
 - Backend Engineers
   - [Gaurav Gupta](https://dsva.slack.com/team/U02DB4BC10F)
   - [Kanchana Suriyamoorthy](https://dsva.slack.com/team/U02EFEF4ZB2)
