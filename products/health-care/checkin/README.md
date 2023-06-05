@@ -84,6 +84,7 @@
 ## Translations
 - [Main page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/translations)
 - [Process to submit translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/submit-translations-to-state-department.md)
+- [JSON Files in Master Branch](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/check-in/locales)
 
 ## Engineering
 - [Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/architecture-diagrams)
