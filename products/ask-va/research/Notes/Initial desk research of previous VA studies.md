@@ -3,6 +3,7 @@ Last updated by @tygindraux on June 2, 2023
 
 ## List of studies
 * [MCT HCD Chatbot as AVA Frontdoor - February 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-hcd-chatbot-as-ava-frontdoor)
+* [Disabled Veteran Accessibility Feedback - 2022]()
 * [Multi-channel Technologies (MCT) Chatbot as AVA Front Door - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#multi-channel-technologies-mct-chatbot-as-ava-front-door)
 * [MCT Virtual Agent Chatbot Login.Gov and ID.me Moderated Interviews - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-virtual-agent-chatbot-logingov-and-idme-moderated-interviews)
 * [Chatbot Feature Prioritization - August 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#chatbot-feature-prioritization)
@@ -35,6 +36,79 @@ Last updated by @tygindraux on June 2, 2023
 * Understand the ideal timeframe and desired follow up method by contact center agent regarding submitted ticket
 #### Findings
 Unable to access. I’ve asked Shane (Research Ops).
+
+---
+
+### Disabled Veteran Accessibility Feedback
+
+|Issue|Not available. [Link to findings document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md)|
+|:--|:--|
+|Date|2022|
+|Team|Josh Kim, A11y|
+|Background|Our goal is to establish a process to collect a11y feedback from the public. In order to accomplish this goal, we need to (1) determine whether disabled Veterans are providing feedback through existing feedback mechanisms (and if not, why not?), and (2) start to gain preliminary insight or determine next steps on how to gain insights into disabled Veteran's behaviors, feelings, perspectives, and expectations on providing a11y feedback.|
+
+#### Objectives
+* How accessible (and to a degree usable) are current feedback methods on VA.gov?
+* Where do disabled Veterans currently provide or expect to be able to provide a11y feedback on VA.gov (if at all)?
+* What are all the current existing mechanisms (accessible or not)?
+* What kind of a11y feedback do disabled Veterans provide (or want to provide) on VA.gov?
+* Do some subgroups (or individuals) among disabled Veterans have a greater need (if at all) for providing and resolving accessibility feedback more than others?
+* How is a11y feedback for VA.gov currently processed?
+* What mental models do disabled Veterans have of the a11y feedback process on VA.gov?
+#### Findings
+* Contact Center surveys
+  * The majority of the data we parsed through was noise, with little key signals that could answer or relate to our research questions
+  * Out of 4000+ lines of potential keyword matches, we were only able to extract ~10-20 lines of potentially relevant feedback, but they were either too broad, were inspecific, or lacked context to extract any confidence from
+  * This could be a symptom of the inaccessibility or discoverability of the feedback button and feedback survey for disabled Veterans, and may be a topic for future research
+* Page analytics
+  * Between January 1 and November 17, 2022, the accessibility link in the footer of modernized va.gov pages was clicked 26,005.
+  * Of those clicks, 18,123 of them were triggered from a mobile device.
+  * The 508 page received 56,290 page views, this means that about 46% of all traffic to the 508 accessibility page came through the footer link.
+  * This data was analyzed at a very preliminary level; there is an opportunity to do a deeper analysis with a more longitudinal set of data.
+  * We have determined that there is traffic from the footer to the 508 page – a follow up analysis should be done to determine why folks are going to the 508 page and if they are able to find what they are looking for there.
+* Accessibility audits 
+  * All of the methods of providing feedback to VA.gov that we audited have confirmed major accessibility issues which may prevent disabled people from submitting accessibility feedback.
+  * 2 of the methods we audited have confirmed severe major accessibility issues which likely completely bars access to providing feedback.
+  * Many of these methods were audited in the past based on Section 508 standards (as opposed to WCAG 2.1 AA) which does not cover responsive, mobile, and cognitive considerations).  Maintenance historically has not often been conducted post-audit, even with the introduction of updated standards.
+  * They will likely not capture all potential accessibility or usability issues for disabled Veterans. We should consider the existence of issues as a sign that further testing and usability testing with disabled Veterans should be strongly considered.
+  * WCAG 2.1+ (not 508) accessibility audits and usability testing with disabled Veterans using a variety of assistive technology should be conducted for methods we still don’t have access to (or are unaware of) including the IVR survey, facility QR codes, email, and more.
+  * More research is needed to understand the disabled Veteran experience of calling My VA 411 as it is currently the only known usable method for disabled Veterans to provide accessibility feedback beyond the Section 508 email.
+* Appended interview questions with Veterans
+  * One participant did not know how to provide feedback, one would look for a "contact us" area, one would attempt to call the VA, and another would self-advocate through the Blinded Veterans Association (BVA)
+  * Going to a physical location, like a VAMC, was a common fallback should preferred methods not work for 4 out of the 6 participants
+  * Screen magnification users on desktop (2/2 in total) didn’t notice the VA.gov feedback button. This is likely due to screen magnification showing only part of the screen at any given time. As there’s no indication that the feedback exists on the bottom right side of the page, it may be missed by magnification users who scan the page left to right with a limited view. For example, consider the simulated image below.
+  * Given these were appended onto interviews with different facilitators, the manner in which questions were posed were inconsistent. As such, the above insights should be interpreted as a strong call to do more research instead of a factual or permanent representation of all disabled Veterans.
+  * This research only covered the needs of Veterans with low vision or blindness with zoomtext and screen readers; it does not address the needs of Veterans using other types of assistive technologies
+* Contact Center Panel Interview
+  * Ask.va.gov receives a11y tickets from folks communicating on behalf of someone else. It’s likely inaccessible as it doesn’t follow the VA design system and Aubrey’s team’s recommendations were unresolved due to platform limitations with the dynamic 365 portal. It was likely not tested for Section 508 compliance.
+  * Medallia feedback button and intercept survey were tested last year, but screen reader users did not participate despite Ian making a request to Perigean. This may be easier this year with new partnerships with blinded Veteran organizations.
+  * The primary call center is My VA 411 (800-698-2411). There’s also a White House national hotline. When a Veteran calls the number and reaches an operator, they’ve reached tier 1 support. If their issue cannot be resolved, it is escalated to tier 2 which is the contact center team. If it cannot be resolved there, it becomes tier 3 which is often for technical issues like editing the markup of the website.
+    * We’re not sure how the TTY number is handled nor how accessibility issues are triaged.
+    * Tier 1 agents can log calls in salesforce, but the interface is difficult to search. Many issues found within salesforce at a glance appear to be home related accessibility issues (as opposed to digital website issues).
+    * There’s a possibility a11y feedback may stop at a tier 1 agent as the surface level problem may be addressed over call (reading out a data table) while still leaving the source of the issue unresolved (the data table itself is still inaccessible).
+  * Medallia feedback has not yet been tested with disabled Veterans using assistive technology. Previous usability testing focused on (1) the initial feedback button and (2) an updated version of that feedback button which demonstrated significant usability improvements for able-bodied Veterans. Conducting research in the future with assistive tech users may unveil key usability insights related to more complex cases and lead to data-driven inclusive enhancements.
+* Mike Manalo Interview
+  * No interviews were conducted with disabled Veterans using assistive technology. This was due to Perigean wanting more specific guidance on what “assistive technology” meant. In this case, they got older Veterans using iPads (as opposed to technologies explicitly used for a disability like a screen reader or keyboard).
+  * The more complex the issue, the more likely Veterans will call. There were forming patterns of older Veterans being associated with doctor appointments and facilities which could generally be resolved via tier 1 support, but any issue requiring more complex topics like verifying a GI Bill payment often went to tier 2 support. There’s an open question of what is effective communication: SMS? Phone? Etc?
+  * Unsure if there are any particular groups using or not using 411. Salesforce may help answer that. The vast majority of issues are related to authentication. The contact center team is creating a service map of how tier 1 issues are escalated to tier 2, how long those issues sit, and how they are resolved.
+* Section 508 office
+  * VA.gov team to draft modernized accessibility statement. Team acknowledged that the Section 508 page was 15 years old and that a modernized accessibility statement in Veteran-facing plain language would be a welcome improvement in hopes of gathering more feedback through the Section 508 email address.
+  * Veterans are frustrated they don’t hear back when they provide feedback. “Biggest complaint from peers is when they do complain they don’t ever hear anything. So someone needs to respond with details so they know they’re heard. Veterans feel like they complained but I never heard anything. So why should I mess with it.”
+  * Managing who tickets go to and how they’re resolved is a complex process. When the Section 508 office receives feedback from Veterans through their email, they first determine if it is (or isn’t) an issue they can address. If they can address it, they create a servicenow ticket for their team. If they can’t, they find the appropriate team to forward it to. A pain point here is that when they forward tickets, there’s no guarantee the team it is forwarded to will provide a response back confirming a fix. Even if they do, it’s often too late for the Veteran who may have to sit on an unresolved issue for 6+ weeks.
+  * Section 508 office is interested in the potential of ask.va.gov, but haven’t been included yet. The office is looking for a way to reduce the number of feedback ticketing systems and looking into ways to follow up on tickets with Veterans. Ask.va.gov may fill in that gap, but it’s inaccessible and the Section 508 office (to their knowledge) has not been included in auditing it.
+  * It may be difficult to track data on usage of the Section 508 email. Currently, there are no analytics, and it may be a manual intensive process.
+  * Veterans who prefer analog methods feel excluded. “I don’t use tech. Everything you do pushes guys like me further and further out. My wife is good with tech but she’s not a Veteran. Never seems to get anywhere. I don’t do it.” “What Pat said, someone on the phone. Neither AIRA or BeMyEyes is accessible through a regular phone. For me, logging into VA.gov, not a Veteran, they can’t get to the things Brad needs to get to.”
+* Tim Hornik (BVA)
+  * Some disabled Veterans are providing feedback, but Tim hypothesizes many more may be sitting with inaccessible products. Tim shared an anecdote of a social care worker who sent an email to the Section 508 office about the cerner patient portal. Without that social care worker’s relationship with the disabled Veteran and their intervention, the issue may have never been highlighted.
+  * VEO historically has not considered the disabled Veteran experience, but is critical to collecting feedback. As an advocate, Tim requested VEO to have mechanisms and pathways for feedback both virtually and physically at VA centers in the past. This doesn’t appear to have been implemented. 411 may be too overwhelmed to help. Tim noted that 411 call center employees may not have the time, training, and space to record accessibility feedback and forward it to the appropriate places to be fixed.
+  * The Section 508 page needs an update and more research. The page has existed for 15 years and includes content on both internal department information and Veteran facing services. It’s linked to from the footer on all VA.gov pages as “Accessibility” which may be misleading. Tim is worried that it won’t be discoverable as a footer item. He knows that people use it (including VA staffers) because we direct them to go there from this external site.
+  * We should explore paths of least resistance for improving Medallia feedback. Tim noted it may be easier to just include a link that acts as an offramp to another form for accessibility feedback within the Medallia feedback options.
+  * In past work with rehab centers, people didn’t deliver feedback. Tim noted that people would complain about accessibility issues in meetings, but wouldn’t formally report on it.
+* Djilan Yao (VEO)
+  * Uncertain if any VEO projects have specifically addressed accessibility or disabled Veterans. It doesn’t seem to be something the measurement team has investigated yet, but could be an area of interest. Evan and Dan may be the next people to talk to (if possible).
+  * There are 4 main methods of sending out surveys. Most (if not all) are powered by Medallia. This includes (1) surveys on VA.gov (feedback button and intercept survey), (2) QR codes in facilities that link to surveys, (3) IVR surveys over phone which are then input into Medallia, and (4) surveys sent out to sampled individuals by email which link to surveys.
+  * We know some of those surveys (on VA.gov) have accessibility issues documented in Tiffany’s audit. But we’re uncertain if those issues exist on other Medallia surveys too. For example, if other surveys aren’t within a modal, they likely won’t share the same major issues related to magnification.
+  * The base survey template is 508 compliant (WCAG 2.0), but may not cover issues beyond that scope. Surveys are developed for 508 compliance and tested internally through the 508 office. If a survey taker is using a software or technology outside of the 508 boundaries, we are not able to ensure it will work properly.
 
 ---
 
