@@ -2,7 +2,7 @@
 name: VAOS Epic Template
 about: For VAOS product epic
 title: "[Epic]"
-labels: epic, vaos-product-design, vaos-pm 
+labels: epic, appointments-product-design, appointments-pm 
 assignees: ''
 
 ---
