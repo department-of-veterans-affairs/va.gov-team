@@ -35,6 +35,25 @@ The user is able to navigate between the appointment status (upcoming, pending, 
 
 ## Key Decisions
 
+These are based on the [Sitewide IA Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/health-appointments.md)
+
+**Doing:**
+- Top level URLs will be
+    - Manage appts: `www.va.gov/my-health/appointments`
+    - Schedule appts: `www.va.gov/my-health/appointments/schedule`
+- Page title tags will follow [the format described in the design system](https://design.va.gov/content-style-guide/seo#title-tags): `[H1 Page Title] | Veterans Affairs`
+- Top level breadcrumb will be `VA.gov home > My HealtheVet > Appointments` 
+
+**Not doing:**
+- We will not update the cancelation flow for this round. We'll revisit moving it to separate pages when we look at updating that flow in te future
+
+**Open questions:**
+- Still working through parameter-based URL structure with IA.
+- Should the type of care page URL be `www.va.gov/my-health/appointments/schedule/type-of-care`? 
+    - If so, the top level `schedule` URL would redirect there.
+- The [list of scheduling URLs isn't complete](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/health-appointments.md#urls-and-breadcrumbs---scheduling-pages); are more recommendations coming? 
+    - Are these recommendations for all scheduling flows? Or just VA direct?
+
 ---
 ## Measuring Success
 
