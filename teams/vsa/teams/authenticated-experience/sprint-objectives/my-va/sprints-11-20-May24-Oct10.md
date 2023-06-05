@@ -17,7 +17,6 @@
 
 ### Onsite Notifications
 **Component**
-- QA
 - prep for Staging and PSIR reviews
 
 **Notification Center**
