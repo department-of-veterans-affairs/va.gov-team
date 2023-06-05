@@ -55,13 +55,13 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
      3. Hours of operation--2 sets of hours in a single day (i.e., morning and afternoon but closed for lunch hour)
 3. Do Veterans understand the actions they need to take to receive the service (make an appointment, walk-in, bring required documents, etc.)?
 6. When prompted with specific tasks, do Veterans navigate to the correct service accordion and find the correct next steps? 
-     1. What if they _don't_ find an applicable service accordion on the page? 
+1. What happens if Veterans _don't_ find an applicable service accordion on the page? 
 8. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones? 
      1. What do they expect from "Ask a benefit question"? Probe about what happens after they click on it.
 10. How do Veterans react to seeing 2 phone numbers?
      1. Which phone number would they use and why? 
      2. What do they expect when they call?
-11. What do Veterans expect to find under "Services offered"?
+11. What do Veterans expect to find under the service accordions?
      1. Do Veterans expect to find different details for different services?
 12. What feedback do Veterans have on content, organization, and length of the regional benefit office web page?
 
@@ -75,12 +75,6 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
 We will conduct **usability testing** to guide research participants through a click-through prototype. We would like most participants to be on mobile devices. We will be unable to accommodate screen reader users because the prototype won't be accessible.
 
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
-
-### Ideas for Prototype:
-- Make the 3 action links at the top of the page go somewhere
-- Make the 3 links under "On this page" work
-- Include some content under the "Limited services and hours" additional info component, if including it
-- Be able to open more than one service accordion (disability?)
 
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2023-06-veteran-facing/conversation-guide.md)
@@ -112,6 +106,8 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
      1. Yes *(disqualify)*
      1. I don't know *(disqualify)*
 
+***If we want to talk w/people for whom another task would potentially be relevant, add more screening questions here***
+
 1. Have you used any VA benefits before? For example, VA health care, education/GI Bill, career services, disability compensation, pension, home loan, life insurance, burial benefits or memorial items.
      1. No  *(RECRUIT 5)*
      1. Yes *(RECRUIT 5)*
@@ -139,11 +135,11 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
 ## Timeline
 
 ### Prepare
-Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. Wes and I are available for a kickoff call during any of these times: 
+Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. Alexis and I are available for a kickoff call during any of these times: 
 - **TBD ET**
 - **TBD ET**
 
-**Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so I can review it beforehand.
+**Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
 I have scheduled the following two **pilot tests**:
 - Pilot 1: **TBD ET** with TBD (TBD.us)
@@ -174,8 +170,8 @@ Please list the people who will be serving in each role.
 - Project point of contact: Cindy Merrill
 - Participant(s) for pilot test: TBD and TBD
 - Note-takers: Perigean	(in github)
-- Observers: Jordan Wood (jordan.wood@civicactions.com), Michelle Middaugh (suzanne.middaugh@va.gov), Kamari Patrick (kamari@cityfriends.tech), Dave Pickett (dave.pickett@civicactions.com). Observers will need to sign up so we can limit the number of observers per session.
+- Observers: Alexis Logsdon (alexis.logsdon@a1msolutions.com), Jordan Wood (jordan.wood@civicactions.com), Michelle Middaugh (suzanne.middaugh@va.gov), Kamari Patrick (kamari@cityfriends.tech), Dave Pickett (dave.pickett@civicactions.com). Observers will need to sign up so we can limit the number of observers per session.
 
 ## Approvals
 - Michelle Middaugh or Dave Conlon (PO) on TBD
-- Shane Strassberg on TBD
+- Shane Strassberg or other VA representative on TBD
