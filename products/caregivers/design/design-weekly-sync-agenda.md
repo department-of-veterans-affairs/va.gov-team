@@ -1,5 +1,9 @@
 # Design Weekly Sync Agenda
 
+## 2023-05-29
+
+- No meeting (holiday)
+
 ## 2023-05-22
 
 Attendees: DK, Jessica, Hieu, Katelyn, Kristen
