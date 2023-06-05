@@ -1,3 +1,17 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
+
+
+
 ## This doc is no longer updated or maintained. Please [reference it here in the Platform Operational Documentation space instead](https://vfs.atlassian.net/wiki/spaces/AP/pages/1391853669/Platform+Principles).
 
 ---
