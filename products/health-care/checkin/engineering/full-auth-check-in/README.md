@@ -53,6 +53,7 @@ The proposed sequence above outlines four new vets-api endpoints.
 ## Questions:
 
 - In the VAOS payload is locationId the same as station number?
+    - The answer to this is yes but the values have a mapping to station values that are recognizeable to us. There is a doc underway to document the vaos-service appointment. [See thread in slack](https://dsva.slack.com/archives/C023EFZPX4K/p1685984766871989?thread_ts=1685639670.578339&cid=C023EFZPX4K)
 - Can VAOS add the ECheckinAllowed field to the appointment?
 - How can we have security confidence that the patient is checking into only their appointments?
 - [LP] Currently, the mobile app gets their appointment info from VAOS; to test in a Staging environment, the Mobile App team has to get the VAOS team to create appointments for them in the Vista instance that VAOS uses; we need to determine if this is the same Vista instance that the CIE team uses for the Staging tool; if it is not, I'm not sure how we are going to test in Staging
