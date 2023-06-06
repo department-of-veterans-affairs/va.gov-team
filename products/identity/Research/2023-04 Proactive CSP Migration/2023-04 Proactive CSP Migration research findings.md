@@ -4,7 +4,7 @@ Office of the CTO - Digital Experience (OCTO-DE), Sign in, Identity Team
 
 Clayton Zook clayton.zook@oddball.io, Amanda Porter ajohnson@clarityinnovates.com, Charlye Tran charlye@bluetiger.digital
 
-> **[Research readout](link here)**
+> **[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/e6795e2ecf0ddebf3b35e0d7add08031937db258/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/Proactive%20Migration%20Research%20Readout.pdf)**
 
 **Jump to:**
 
