@@ -11,7 +11,7 @@ assignees: ''
 
 
 ## References
-*
+-
 
 ## Acceptance Criteria
 - [ ]
