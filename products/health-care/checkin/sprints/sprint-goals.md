@@ -3,15 +3,16 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 6/14/2023 - 6/27/2023  ------------------------- FUTURE / TENTATIVE -----------------------------
+## 6/14/2023 - 6/27/2023  --------------------- FUTURE / TENTATIVE -----------------------------
 #### SPRINT GOALS
-- **GOAL: Fix Bugs**
+- **GOAL: Upgrade to Google Analytics 4**
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
      - **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**          
-     - **Sub Goal: [Address IA/Content/A11y Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57441)**     
      - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**   
+     - **Sub Goal: [Address IA/Content/A11y Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57441)**     
+     - **Sub Goal: [Address 508 Audit Issues ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59304)**  
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address tech & design debt**
 
@@ -19,24 +20,32 @@ ________________________________________________________________________________
 - None
 
 #### SPRINT TICKETS
-- ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **GOAL: Fix Bugs**
-    - [Bug: Filter cancelled appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59414)
-       - [Slack thread](https://dsva.slack.com/archives/C02UP02HHGX/p1684847248762479)
+- **GOAL: [Upgrade to Google Analytics 4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56586)**
+    -  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Add/Change GA Events](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59553)    -  
+    -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)![f017c5](https://placehold.co/15x15/f017c5/f017c5.png)  [Upgrade Pre-Check-in GA Dashboard to GA4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59555)
+    -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)![f017c5](https://placehold.co/15x15/f017c5/f017c5.png)  [Upgrade Check-in GA Dashboard to GA4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59554)
+    -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)![f017c5](https://placehold.co/15x15/f017c5/f017c5.png)  [Upgrade Travel GA Dashboard to GA4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59556)
+    -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)![f017c5](https://placehold.co/15x15/f017c5/f017c5.png)  [Update Translation Dashboard to GA4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59753)
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**    
        - [[UX][Content] Create FAQ Guide for MSAs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**      
-       - TBD
-    - **Sub Goal: [Address IA/Content/A11y Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57441)**
-        - TBD
+       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Add Mobile App Info to the Pre-Check-in Completion Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59757)
+       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Update Text Messages to include Information about Checking in with Mobile App](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59755)
+       - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) TBD
     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
-        - TBD
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Execute Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56700)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Post-execution Tasks for Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56701)
+   - **Sub Goal: [Address IA/Content/A11y Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57441)**
+        - TBD ???? 
+    - **Sub Goal: [Address 508 Audit Issues ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59304)**
+        - TBD ???? 
    - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57812) 
 - **GOAL: Address tech & design debt**   
-   - TBD
+   - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Set up new sketch files for use](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59744)
    - **Sub Goal: Onboard Lee**
        - [Platform Orientation Template [Lee Delarm]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59192)
 
