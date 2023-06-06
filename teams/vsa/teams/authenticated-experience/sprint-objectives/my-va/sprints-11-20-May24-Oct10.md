@@ -75,6 +75,7 @@
 
 **Claims status widget - EVSS > Lighthouse**
 - Implmentation continued? : update claims status to point to Lighthouse endpoints (update from EVSS)
+- Product documentation ticket
 
 **General**
 - Update 2-month post launch to 100% stats
