@@ -34,6 +34,8 @@
 
 Thank you for joining us today! My name is Cindy. How are you doing today?
 
+*(Brief conversation and then ask permission to invite the notetaker and observers to join)*
+
 I have a colleague with us in this session who will be taking notes. 
 
 There are a few of my teammates who would like to observe this session as well. **Would it be OK with you if I invited them to join us?**
