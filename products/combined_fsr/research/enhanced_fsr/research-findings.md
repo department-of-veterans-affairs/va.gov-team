@@ -235,7 +235,7 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 ## Appendix
 
-[Research plan]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/research-plan.md))
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/research-plan.md)
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/conversation-guide.md)
 
@@ -244,19 +244,14 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 ## Tools used for Synthesis
 
-[Mural](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1676650307306?sender=ua78f969c4cddcbfe56b27885&key=2234b0b9-b026-4cf4-a49d-669ce1e7c45c) 
-[Note taking spreadsheet](https://docs.google.com/spreadsheets/d/1x8zKY2JwU_3xnmcp6icBsw_yTAknPy0u/edit?usp=sharing&ouid=100649599312437405482&rtpof=true&sd=true)
+- [Mural](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1676650307306?sender=ua78f969c4cddcbfe56b27885&key=2234b0b9-b026-4cf4-a49d-669ce1e7c45c) 
+- [Note taking spreadsheet](https://docs.google.com/spreadsheets/d/1x8zKY2JwU_3xnmcp6icBsw_yTAknPy0u/edit?usp=sharing&ouid=100649599312437405482&rtpof=true&sd=true)
 
 ## Pages and applications used
 
- - [Financial Status Report (VA Form 5655)
-   (Production)](https://va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
+ - [Financial Status Report (VA Form 5655) (Production)](https://va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
  - [Financial Status Report (VA Form 5655) (Staging: user 228)](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
  - [UXPin Prototype](https://preview.uxpin.com/f43733391f52c409c4d3152e9a4b101a392e29df#/pages/161460690/simulate/sitemap)
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
 
 
 ## Secondary research
