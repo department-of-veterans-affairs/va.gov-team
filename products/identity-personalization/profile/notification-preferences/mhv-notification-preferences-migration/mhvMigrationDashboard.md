@@ -1,10 +1,5 @@
 
-LAST UPDATED 5/17/2023
-
-## Open questions? : 
-We need system designs/maps, not just UX/UI but the map of the system, what is communicating where and why, ideally current state architecture and future state.  
-[MHV Prototypes](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa) <why do they have a logged out view? 
-
+LAST UPDATED 06/06/2023
 
 
 ## Raci Mural Board 
@@ -40,6 +35,9 @@ liz's research / [recommendations](https://github.com/department-of-veterans-aff
 - Is the MHV Rx shipping and tracking email notification the same as the text notification, with regard to it applying only to certain facilities? If so, are they the same facilities?
 - Is the VA Profile API flexible enough that we can have a unique channel name/label for a notification item? The MHV Newsletter isn't a notification as much as it is a subscription, and people were confused by the label "notify me by email" for this notification in user research.
 - Will peopel's contact email address migrate over from the MHV profile to the VA.gov profile 1:1? Wondering if anyone who is currently opted into MHV email notifications could encounter the "we don't have your email address" messaging in our notification feature.
+- We need system designs/maps, not just UX/UI but the map of the system, what is communicating where and why, ideally current state architecture and future state.  
+- [MHV Prototypes](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa) <why do they have a logged out view? 
+
 
 ## Call/Meeting Log
 ### Email from first call 5/8/2023
