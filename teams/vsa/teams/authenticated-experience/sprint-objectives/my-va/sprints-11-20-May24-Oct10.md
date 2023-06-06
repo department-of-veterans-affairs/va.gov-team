@@ -93,7 +93,8 @@ _Samara returns from parental leave!_
 **Notification Center**
 - Continue build
 - Prep for QA
-- Plan for UAT
+- Schedule staging review
+- Plan for UAT (convo guide, plan)
 
 ### My VA
 
@@ -109,6 +110,21 @@ _Samara returns from parental leave!_
 
 ## Sprint 15 (7/19 - 8/1)
 [#58195](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58195)
+
+### Onsite Notifications
+
+**Notification Center**
+- Staging Review?
+
+### My VA
+
+**Claims status widget - EVSS > Lighthouse**
+- Update technical diagram(s)/documentation (if not done in sprint 14)
+
+**General**
+- E2E and unit test work (cont. as needed)
+
+
 
 ## Sprint 16 (8/2 - 8/15)
 [#58198](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58198)
