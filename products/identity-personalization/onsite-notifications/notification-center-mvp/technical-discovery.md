@@ -9,7 +9,35 @@ For the MVP, our goal is to create a new URL landing page for Notification Cente
 In case the user has many notifications, the user should be able to page through the notifications. We have not defined what "too many" means yet but should be easily configured through the backend.
 
 ## Frontend
-...
+### Setting up / initial scaffolding 
+
+This will probably take the most time and effort on the front end. 
+
+We can follow the [Creating a new application](https://depo-platform-documentation.scrollhelp.site/developer-docs/creating-a-new-application) page on Platform documentation. They also have a [application generator](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-gov-application-generator) (however I think the docs are out of date because I get an extra question after **Is this a form app?**)
+
+### Components needed
+
+- [Breadcrumbs](https://design.va.gov/components/breadcrumbs)
+- [Notification](https://va-notification--60f9b557105290003b387cd5.chromatic.com/?path=/docs/components-va-notification--default) (coming soon!)
+- [Pagination](https://design.va.gov/components/pagination)
+
+### Accessibility
+
+One potential issue on this page is the presence of redundant headers and links in the Notification cards.
+
+### Tasks
+| Task | Point estimation |
+|--- | --- |
+| Inquire Platform team about the last question in Yeoman generator | 2 |
+| Set up new application page (manually or using generator) | 2 |
+| Create mock data and server for new app | 4 |
+| Get state, reducers, actions set up | 5 |
+| Populate with multiple of one type of notification (no pagination) | 4 |
+| Populate with multiple both types of notifications (no pagination) | 4 |
+| Write unit tests | 4 |
+| Write e2e tests | 3 |
+| Set up pagination | 3–4 |
+| Set up breadcrumbs | 3 |
 
 ### Resources
 - ...
