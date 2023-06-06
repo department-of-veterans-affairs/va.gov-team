@@ -30,13 +30,16 @@
 
 *CHECK SLACK for real-time feedback and questions from observers*
 
-## Intro - 5 minutes
+## Intro - 5 minutes 
+***(At first ONLY MODERATOR & PARTICIPANT, *not* notetaker)***
 
 Thank you for joining us today! My name is Cindy. How are you doing today?
 
-*(Brief conversation and then ask permission to invite the notetaker and observers to join)*
+*(Brief conversation)*
 
-I have a colleague with us in this session who will be taking notes. 
+Now I'll invite a colleague to join us in this session to take notes.
+
+*(DELETE: I have a colleague with us in this session who will be taking notes.)* 
 
 There are a few of my teammates who would like to observe this session as well. **Would it be OK with you if I invited them to join us?**
 - *(If yes, let them in--3-4 MAX. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
