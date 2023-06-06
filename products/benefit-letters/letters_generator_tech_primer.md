@@ -95,7 +95,7 @@ This endpoint allows Veterans to download PDF versions of the letter. The PDF ve
 is generated in real time, as opposed to other services, such as the Decision Letter Download
 feature, which serves pre-made PDF files.
 
-The download endpoint is a POST request, though the body is only used from the Benfit Summary
+The download endpoint is a POST request, though the body is only used from the Benefit Summary
 letter type. The Benefit Summary letter is more general than some of the other letters. Including
 options with this request (via Curl or checking the appropriate boxes on the UI) includes more
 information in the generated Summary letter.
