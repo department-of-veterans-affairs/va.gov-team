@@ -52,7 +52,7 @@
 ### My VA
 
 **Claims status widget - EVSS > Lighthouse**
-- Implmentation: update claims status to point to Lighthouse endpoints (update from EVSS)
+- Implementation: update claims status to point to Lighthouse endpoints (from EVSS)
 
 **General**
 - E2E and unit test work
@@ -74,7 +74,7 @@
 ### My VA
 
 **Claims status widget - EVSS > Lighthouse**
-- Implmentation continued? : update claims status to point to Lighthouse endpoints (update from EVSS)
+- Implementation continued? : update claims status to point to Lighthouse endpoints (from EVSS)
 - Product documentation ticket
 
 **General**
