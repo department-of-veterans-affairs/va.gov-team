@@ -20,12 +20,12 @@ ________________________________________________________________________________
 - None
 
 #### SPRINT TICKETS
-- **GOAL: [Upgrade to Google Analytics 4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56586)**
-    -  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Add/Change GA Events](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59553)    -  
-    -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)![f017c5](https://placehold.co/15x15/f017c5/f017c5.png)  [Upgrade Pre-Check-in GA Dashboard to GA4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59555)
-    -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)![f017c5](https://placehold.co/15x15/f017c5/f017c5.png)  [Upgrade Check-in GA Dashboard to GA4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59554)
-    -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)![f017c5](https://placehold.co/15x15/f017c5/f017c5.png)  [Upgrade Travel GA Dashboard to GA4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59556)
-    -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)![f017c5](https://placehold.co/15x15/f017c5/f017c5.png)  [Update Translation Dashboard to GA4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59753)
+- ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **GOAL: [Upgrade to Google Analytics 4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56586)**
+    -  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Add/Change GA Events](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59553)    
+    -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png)  [Upgrade Pre-Check-in GA Dashboard to GA4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59555)
+    -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png)  [Upgrade Check-in GA Dashboard to GA4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59554)
+    -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png)  [Upgrade Travel GA Dashboard to GA4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59556)
+    -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png)  [Update Translation Dashboard to GA4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59753)
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**    
        - [[UX][Content] Create FAQ Guide for MSAs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new)
@@ -46,8 +46,7 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57812) 
 - **GOAL: Address tech & design debt**   
    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Set up new sketch files for use](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59744)
-   - **Sub Goal: Onboard Lee**
-       - [Platform Orientation Template [Lee Delarm]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59192)
+   - [Platform Orientation Template [Lee Delarm]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59192)
 
 ------------------------- END FUTURE / TENTATIVE ------------------------------------
 
