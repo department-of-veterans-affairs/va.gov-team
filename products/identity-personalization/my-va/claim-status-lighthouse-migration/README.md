@@ -21,6 +21,7 @@
 - [Solution approach](#solution-approach)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
+- [Security](#security)
 - [Measuring Success](#measuring-success)
 - [Key deliverables](#key-deliverables)
 - [Key Dates](#key-dates)
@@ -61,6 +62,9 @@ In order to continue providing claims and appeals details on My VA we need to up
 ### Undesired Business Outcomes
 
 - The updated integration disrupts the Veteran's access to their claims and appeals information on My VA
+
+## Security
+_TK_
 
 ## Measuring Success
 
