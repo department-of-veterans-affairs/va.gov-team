@@ -8,7 +8,7 @@ Last updated June 2023 - updated team roles
 - **Slack channel**: vsa-authd-exp
 
 ### Roles
-See team [roles](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#roles) in Product Outline.
+[Please see the My VA product outline for the current My VA team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#roles).
 
 ## Table of Contents
 
