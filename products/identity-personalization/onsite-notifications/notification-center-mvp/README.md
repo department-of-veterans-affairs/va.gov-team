@@ -1,4 +1,4 @@
-# Project outline: Notification Center MVP (Draft)
+# Project outline: Notification Center MVP (Draft/WIP)
 
 **Last updated: June 6, 2023 - collab cycle epic linked**
 
