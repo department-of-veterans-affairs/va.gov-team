@@ -65,8 +65,10 @@ Have you filed a disability compensation claim with the VA in the last 10 years?
 
 15 total participants:
 
-- At least 6 Black Veterans 
-- At least 6 Veterans age 55-64+
+- 5 Black Veterans 
+- 5 Veterans age 55-64+
+- 4 Veterans without a degree
+- At least 5 women Veterans
 - The participants must be using a desktop device during the study.
 
 ## Timeline
@@ -78,7 +80,10 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: June 7, 2-3 PM
 
 ### Research sessions
-* Planned dates of research: June 12 - 16
+* Preferred dates of research: June 13 - 16, June 20-21, 
+* Other possible days for additional slots: June 26-29
+
+We would prefer as many sessions as possible occur on June 13-16 or June 20-21. June 26-29 is also available if needed for scheduling purposes.
 
 ### Length of sessions
 * Session length: 1 hour
