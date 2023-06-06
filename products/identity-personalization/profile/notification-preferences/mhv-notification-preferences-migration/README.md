@@ -1,6 +1,6 @@
 # Project outline: MyHealtheVet to VA.gov notification preference migration
 
-**Last updated: December 16, 2022**
+**Last updated: June 6, 2023**
 
 ### Communications
 
@@ -114,9 +114,9 @@ OKRs and KPIs TBD.
 - [Initial migration plan notes shared with MHV (December 2022)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/product/migration-plan.md)
 - In phase on of the migration, we will work with VA Profile to support the MHV notification preferences. Then, MHV has agreed to connect their frontend to the VA Profile backend. This will allow us to have significant flexibility in when we incorporate preferences into the VA.gov interface.
 
-**Inititive - Appoitnment reminders - Grant VA Permission to include PHI/PII**
-(Initiative Brief)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/appointmentReminderPHIandPII/initiative-brief-appointmentReminderPHIandPII.md]
-
+**Initiative - Appoitnment reminders - Grant Permission to include PHI/PII**
+[Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/appointmentReminderPHIandPII/initiative-brief-appointmentReminderPHIandPII.md)
+- Currently, MHV has an option where Veterans can indicate whether or not it's ok to include PHI/PII in their appointment reminder notifications. We need to incorporate this preference into our notification settings UI.
 
 **Migration phase two: VA.gov pulls in MHV preferences from VA Profile**
 
