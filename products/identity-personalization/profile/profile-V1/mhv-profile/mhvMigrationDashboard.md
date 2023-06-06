@@ -1,4 +1,5 @@
 
+MIGRATED TO: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/dashboard.md
 LAST UPDATED 5/17/2023
 
 ## Open questions? : 
