@@ -68,7 +68,7 @@ I'd like to start by learning more about your experience reviewing information a
 
 ## Task 1: Initial Reactions to the AVS Interface - 7 minutes
 - 	Great, next I’d like to get your opinion on a prototype of a section on the VA.gov website.
--  I'm going to send you a link to this prototype in the Zoom chat. Since this is a prototype for testing purposes only, it may not work as you may expect even though it may look like the actual VA.gov website.
+-  I'm going to send you a [link to this prototype](https://www.figma.com/proto/VHHxvo1QA1ndWc0TBhfkNq/Add-After-Visit-Summary?page-id=2%3A3&type=design&node-id=1233-16119&viewport=-892%2C210%2C0.4&scaling=scale-down&starting-point-node-id=1233%3A16119) in the Zoom chat. Since this is a prototype for testing purposes only, it may not work as you may expect even though it may look like the actual VA.gov website.
 - Okay, I've just sent you a link in the chat.  Please open the Zoom chat and click on that link. [**Moderator Note:** Help participant with the prototype if necessary. If the participant is unable to share their screen, then share your screen and follow the participant’s instructions.]
 -	Now pretend that today is June 1st, 2023 and you are Hector.  You had an appointment this morning at 9:50 am with Dr. Nutt, your primary care physician, at the Puget Sound VA facility. A few hours have passed since your appointment, and you forgot what your doctor's instructions were. Use this prototype to find out what Dr. Nutt and you discussed at your appointment. Please think aloud as you are trying to find this information. 
     - [**Notetaker:** 1. Note where participant navigates to. 2. Note if participant navigates to “Care Summaries” or “Appointments”?]
