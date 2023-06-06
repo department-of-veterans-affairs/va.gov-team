@@ -4,19 +4,15 @@ Office of the CTO - Digital Experience (OCTO-DE), Sign in, Identity Team
 
 Clayton Zook clayton.zook@oddball.io, Amanda Porter ajohnson@clarityinnovates.com, Charlye Tran charlye@bluetiger.digital
 
-> **[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/e6795e2ecf0ddebf3b35e0d7add08031937db258/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/Proactive%20Migration%20Research%20Readout.pdf)**
+> **[Research readout slide deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/e6795e2ecf0ddebf3b35e0d7add08031937db258/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/Proactive%20Migration%20Research%20Readout.pdf)**
 
 **Jump to:**
 
-[Hypotheses and conclusions](#hypotheses-and-conclusions)
-
-[Key findings](#key-findings)
-
-[Recommendations](#recommendations)
-
-[Who we talked to](#who-we-talked-to)
-
-[Further research needed](#further-research-needed)
+- [Hypotheses and conclusions](#hypotheses-and-conclusions)
+- [Key findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Who we talked to](#who-we-talked-to)
+- [Further research needed](#further-research-needed)
 
 
 ## Research Goals
@@ -285,13 +281,13 @@ Continue tickets that have come out of this research, including setting up addit
 
 ## Appendix
 
+[Research readout slide deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/e6795e2ecf0ddebf3b35e0d7add08031937db258/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/Proactive%20Migration%20Research%20Readout.pdf)
+
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/2023-04%20Proactive%20CSP%20Migration%20research%20plan.md)
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/2023-04%20Proactive%20CSP%20Migration%20conversation%20guide.md)
 
 [Session notes](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1681396854554/ff9d23f8eef22907cccb8d45cf46f81f5686684d?sender=u6c46f747a0483ea836054483)
-
-
 
 ## Tools used for Synthesis
 
