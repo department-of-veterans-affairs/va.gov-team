@@ -199,27 +199,62 @@ Is it clear to Veterans why they need to provide their financial information?
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
+
+ 1. **Participants found the enhanced FSR design patterns (including new list loops) easy to use.**
+ Participants, overall, found the new list loop pattern easy to use. Due to a technical error, one participant filled out the form using the old pattern. He was later shown the new pattern and stated he preferred the new pattern.  
+Without prompting, participants understood they were on a summary page and noticed the action link to allow them to add more items.  
+Participants easily understood how to edit their contact information but a few believed editing their contact information on the form would not update their information elsewhere on [VA.gov](http://va.gov/). This was mainly due to their past experience of different aspects of [VA.gov](http://va.gov/) not connecting/communicating.  
+Participants easily understood selecting a debt, reviewing their benefits.
+
+-   One participant questioned where certain expenses should go such as gym membership fees and subscriptions as they did not see them listed. This participant stated she did not want to “freestyle” and wanted very direct options with a miscellaneous section at the end.
+    
+
+>I prefer this layout [new list loop pattern]. This avoids having you to save prior to inputting the information. This is much easier. You don’t have to go through as many steps. I think if you have a Veteran that is not tech savvy the prototype that you just showed me would make it easier for them to go through. -P3
+
+>“This is just a summary of everything I have just gone over. I think this is a great idea because if you see an issue you can edit it.” -P4
+
+ 2. **Participants who understand the form's purpose (to help with debt) had an easier time filling it out and were more motivated to fill it out and supply all of the information, particularly if requesting debt relief.**
+ > “Oh, whoa! The thought that hops into my mind, if you have all this stuff, then how do you have VA debt?! The stuff on the list makes sense, you’re just trying to get a good profile of the veteran.” -P10
+
+ 3. **Some participants wanted more specific guidance with the form: specificity to understand what is meant by “dependent”, specific guidance on how to calculate monthly income and deductions, and more extensive help sections (additional information component).**
+ Participants often expanded the “Additional information” components. Several participants either wanted additional links and more extensive information on the existing “Additional information” components or wanted a component on every page.
+
+> “My mom is my dependent, but she does not live with me. I guess that should be clarified more. I help her buy her medication." [Notices request for ages on next page] "They are asking for dependent dependents so I will put zero.” -P8
 
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+ 4. **Resolution options could be more refined to increase understanding.**
+ Resolution options could be refined. There was some misunderstanding of the term “waiver”.
+
+>“Just trying to think of the best option for the amount owed. I just thought with all the information provided it would tell me which would be the best option. I hate the guessing game and hope I picked the right one. The monthly payment would just be another monthly debt, and what happens if you forget to make a payment.” -P3
+
+>“I picked that one because of the amount I do not think they would grant a waiver, so I thought the easier option would be the compromise. I didn’t know that if they give you a waiver, they take it out of whatever benefits you have remaining so I would still go with the compromise”. -P3
+
+>“It’s for a loan” -P7
+ 
+ 5. **Participants in this sample who had negative experiences with VA services felt a sense of distrust with the VA, hopelessness, and were skeptical about the debt resolution process. Participants experiencing homelessness were triggered by certain sections and questions. (2 of 7) A negative emotional state and past negative experience with the VA may also be correlated to a lower motivation/willingness to fill out the form.**
+ -   Two participants who were experiencing homelessness described the form as “a waste of time”.
+
+>“Having to list your household assets seems unnecessary. This information is none of their business. That information should not count against them in the decision process. It should be focused on the fact that the VA made an overpayment. That is on the VA to find a resolution instead of putting that on the Veteran. It should be on the person who issued the overpayment to fix the problem. I know plenty of people who would look at that form and let the debt sit there.” -P1
+
+>"I don’t think it is going to solve the issue because the VA is going to receive their own information from the IRS. So, this would be a waste of time." -P5
+
+ 6. **Some participants felt like the VA should know the answers to questions that were being asked. This was based on either information they had previously given to the VA (MyVA profile) or their SSN (IRS).**
+ Some participants felt like the VA shouldn’t need to ask some of the questions on the form because “they are the government”. They thought that the answers could either be pulled up via their SSN or from their MyVA profile. One participant thought that the VA would cross-check their answers with other government agencies to see how truthful they were.
+
+>“The VA already knows what your compensation is, and your education benefits are then they should know if the Veteran could afford that healthcare bill… VA employees act as if they are some kind of gatekeepers of all the help we need from them.” -P1
+
+>If they have your social security number, why are they asking for all this information? It is the government, they would have this. This is a waste of time" -P7
 
 
-**Finding 1**
+ 7. **Overall participants felt the form was too long. Some participants thought the form was invasive.**
+Participants were overwhelmed by the amount of questions and effort this form required. Several stated that they thought the suggested time of 60 minutes was not long enough to complete this form. Some participants felt that the amount of questions were to be expected for debt forgiveness. On the other hand, some participants felt that the questions were invasive and wondered why the V.A. needs to know this information.
 
-Labels: label 1, label 2 
+  
+Several participants commented that they liked the one question per page format. They were not overwhelmed by the number of pages but by the amount and the type of questions that the form requires.
+    
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+> “This is a very long form. I might have already stopped and figured out how to pay this bill because this is a lot of work. Even with you on the phone this is a lot.” -P4
 
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-## Additional Insights
-
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
 
 ## Recommendations
