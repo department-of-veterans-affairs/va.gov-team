@@ -64,8 +64,11 @@ The proposed sequence above outlines four new vets-api endpoints.
 - Should we create a new vets-api module for fully authed applications(suggestions from Stephen)?
 - Where do we update CW? Assume it’s the same as e-check-in
 - How do we map from an [appointmentId from VAOS](https://department-of-veterans-affairs.github.io/va-mobile-app/api/#operation/getAppointments) to appointmentIen?
+    - See [this thread](https://dsva.slack.com/archives/C023EFZPX4K/p1685639670578339), there is in progress work to add IEN and documentation to vaos appointments.
 - Currently, CHIP calls [vista-api checkin endpoint](https://github.com/department-of-veterans-affairs/chip/blob/master/src/checkIn/index.js#L79) to check-in for an appointment, which needs the station Number and appointment Ien. Can we get the station number from VAOS appointment response?
+    - Also see [this thread](https://dsva.slack.com/archives/C023EFZPX4K/p1685639670578339)
 - Where do we get the demographics data from?
+    - We can fetch demographics the same way we do today but we can do it conditionally.
 
 ## What needs to happen to be able to check-in
 - Appointment needs to be at a clinic with e-check-in enabled
