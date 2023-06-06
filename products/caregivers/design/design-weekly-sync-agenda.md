@@ -1,5 +1,19 @@
 # Design Weekly Sync Agenda
 
+## 2023-06-05
+
+Attendees: DK, Jessica, Hieu, Katelyn, Kristen
+
+**Registration-only (Jessica)**
+
+- Jessica has a board with questions to answer via research.
+- We talked through early reseach questions and what we're still missing as far as questions.
+
+**EZR (Hieu)**
+
+- Hieu walked us through the EZR Mural board and process flows he's created.
+- We decided he's in a good place until we dig up more information through the scheduled meetings Alex is working on.
+
 ## 2023-05-29
 
 - No meeting (holiday)
