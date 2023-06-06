@@ -23,7 +23,7 @@ Clayton Zook clayton.zook@oddball.io, Amanda Porter ajohnson@clarityinnovates.co
 There are currently multiple ways to sign in to access VA services online. Some of these Credential Service Providers (CSPs) don't meet required security standards and having so many choices creates user frustration and confusion. We need to migrate Veterans from legacy credential service providers (especially DS Logon) to Login.gov or ID.me. 
 
 During the discovery research, the Login.gov Adoption (LGA) team defined different pathways for migration including organic adoption. This research looks further at a part of that pathway that we are calling proactive migration.
-- Test the usability and success of a [mobile modal prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979) that encourages veterans to migrate to a login.gov before it’s mandatory
+- Test the usability and success of a [mobile modal prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979) that encourages veterans to migrate to Login.gov credentials before it’s mandatory
 - Identify which terms are most understandable and resonate most when describing identity concepts like verified (ID proofed) account and authentication.
 - Find out ways to encourage more veterans to migrate CSPs before sunsetting of legacy account.
 
