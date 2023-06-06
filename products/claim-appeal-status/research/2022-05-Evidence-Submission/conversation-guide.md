@@ -72,6 +72,8 @@ Before we look at the website, let’s start with a few general questions.
 - Now let's say you wanted to find out more information about this "In progress" claim. What would you do?
 - Do you see where it says "View details?" What would you expect to find if you clicked on that?
 - [User clicks View detais] Tell me what you see on this page. Is this what you were expecting?
+- What does the number here mean to you? Do you find that useful, or not?
+- What does the "Date submitted" date mean to you? Do you find that useful, or not?
 - What does this tell you about the status of this claim? 
 - What action would you take, if any, on this page? 
 - On a scale of 1-5, how much would you say you understand what's going on with this claim? (1 being not at all, 5 being completely.)
