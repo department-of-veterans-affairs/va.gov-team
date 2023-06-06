@@ -106,8 +106,6 @@ What are you trying to learn from this research?
 -   Veterans feel confident and comfortable with the form (subjective experience)
 
 
-
-
 ## Research Questions
 
 
@@ -205,43 +203,56 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+* Add more "additional information" sections. When a participant was unsure about a question, they looked for this component. 
+ 
+* Provide reassurance and create a cohesive explanation throughout the FSR form that clearly states why the VA asks for this information, what will be done with it, and the limits.
+    
+* Provide more instruction on what the VA is looking for on the "Personal statement" section
+    * _"This is where you will lose your audience because you are asking me for all my financial business and now you want a statement on why. You see that I am paying out more in debt than I make in a month. That should be obvious. I would put down something like I don’t make enough money to cover my monthly bills. Again, my thought behind it is I already gave you all the information to show I am not making enough money and I am quickly going into debt. The statement is far too open-ended."_ -P10
+    
+* Remove "overdue" input field on Credit Card section if possible. Many fields have been removed from the Credit Card section since the last study but it was still confusing to see an input field for "past due" amount as well as "overdue" amount.
+
+* Pull information from user's MyVA Profile. (example: Spouse's name)
+
+* Refine wording for Resolution options. Include "Debt forgiveness" with the term "waiver"
+
+* Adding the word "average" to monthly deductions (and other sections)
+
+* The Streamlined Waiver (shorter form and automatic approval) will help with Veterans experiencing financial hardship with copay debt. However, as copay debt tends to be smaller and benefit overpayment tends to be a larger amount, it is important that the Streamlined Waiver be expanded to benefit overpayments.
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+- Investigate what information can be pulled from users' MyVA profile.
 
 
 ## Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+- Recruit specifically for those we did not speak to in the next study (see: Underserved groups we haven’t talked to section).
+- Card sorting study for common lists of expenses and assets.
 
 
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/research-plan.md))
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr/research/enhanced_fsr/transcripts)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
-
+[Mural](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1676650307306?sender=ua78f969c4cddcbfe56b27885&key=2234b0b9-b026-4cf4-a49d-669ce1e7c45c) 
+[Note taking spreadsheet](https://docs.google.com/spreadsheets/d/1x8zKY2JwU_3xnmcp6icBsw_yTAknPy0u/edit?usp=sharing&ouid=100649599312437405482&rtpof=true&sd=true)
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
-
+ - [Financial Status Report (VA Form 5655)
+   (Production)](https://va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
+ - [Financial Status Report (VA Form 5655) (Staging: user 228)](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
+ - [UXPin Prototype](https://preview.uxpin.com/f43733391f52c409c4d3152e9a4b101a392e29df#/pages/161460690/simulate/sitemap)
 
 ## Other supporting documents created
 
@@ -250,19 +261,15 @@ e.g. user flows, personas, etc.
 
 ## Secondary research
 
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
+Previous Research:  [Financial Status Report MVP Usability Test Readout - March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/research/mar-2021/readout.md) 
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
+
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+We talked to 7 Veterans. One Veteran was also a Family member of another Veteran and a Caregiver. Additional screening questions that were added included whether the participant is currently or has experienced financial hardship and their current income.
 
 We talked to **7 participants.**
 
@@ -277,10 +284,7 @@ Gender:
 * Female: 2 
 
 
-LGBTQ+:
-* Transgender: 0 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
-* Gay, lesbian, or bisexual: 0
+Identifies as LGBTQ+: 2
 
 
 Devices used during study: 
@@ -313,7 +317,6 @@ Geographic location:
 * Urban: 7
 * Rural: 0
 * Unknown: 0
-
 
 Race:
 * White: 4
@@ -349,7 +352,6 @@ _[Complete the VA recruitment checker for marginalized Veteran groups](https://d
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 * Age 55-64+
-* Cognitive considerations
 * Rural
 * Other than honorable discharge
 * Immigrant origin
@@ -358,7 +360,6 @@ This research does not include the perspectives of the following marginalized Ve
 * Biracial
 * Asian
 * Native
-* LGBTQ+
 * Veterans who use assistive technology 
 
 _[insert screenshot of completed recruitment checker]_
