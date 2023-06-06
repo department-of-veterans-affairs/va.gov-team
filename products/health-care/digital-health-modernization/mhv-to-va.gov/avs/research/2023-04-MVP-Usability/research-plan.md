@@ -110,7 +110,7 @@ June 6th at 12:00 p.m. with the following attendees:
 |June 14, 2023  | 9:30 a.m. - 2:00 p.m. (last session can start at 2:00 p.m.)|
 |June 15, 2023  | 9:30 a.m. - 4:00 p.m. (last session can start at 4:00 p.m.)  |
 |June 16, 2023  | 11:00 a.m. - 4:00 p.m. (last session can start at 4:00 p.m.)|
-|June 20, 2023  | 9:30 a.m. - 12:00 p.m. (last session can start at 12:00 p.m.), and 2:30 p.m. (last session can start at 2:30 p.m.|
+|June 20, 2023  | 9:30 a.m. - 12:00 p.m. (last session can start at 12:00 p.m.), and 2:30 p.m. (last session can start at 2:30 p.m.)|
 |June 21, 2023  | 9:30 a.m. - 2:30 p.m. (last session can start at 2:30 p.m.)  |
 |June 22, 2023  | 9:30 a.m. - 12:45 p.m. (last session can start at 12:45 p.m.)  |
 
