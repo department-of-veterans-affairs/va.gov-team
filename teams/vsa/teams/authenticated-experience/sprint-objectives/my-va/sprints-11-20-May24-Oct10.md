@@ -101,7 +101,7 @@ _Samara returns from parental leave!_
 **Claims status widget - EVSS > Lighthouse**
 - Testing?
 - Submit PSIR review (will need dev support on this)
-- Update technical diagram(s)/documentation
+- Launch/remove feature flag
 
 **General**
 - E2E and unit test work (cont. as needed)
@@ -119,7 +119,7 @@ _Samara returns from parental leave!_
 ### My VA
 
 **Claims status widget - EVSS > Lighthouse**
-- Update technical diagram(s)/documentation (if not done in sprint 14)
+- Update technical diagram(s)/documentation
 
 **General**
 - E2E and unit test work (cont. as needed)
@@ -137,6 +137,20 @@ _Samara returns from parental leave!_
 
 ## Sprint 19 (9/13 - 9/26)
 [#58201](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58201)
+
+### Onsite Notifications
+
+**Notification Center**
+- ...
+
+### My VA
+
+**Claims status widget - EVSS > Lighthouse**
+- Post launch coded cleanup once EVSS service is deprecated?
+
+**General**
+- ...
+
 
 ## Sprint 20 (9/27 - 10/10)
 [#58202](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58202)
