@@ -1,13 +1,13 @@
 # Project outline: Notification Center MVP
 
-**Last updated: June 2, 2023 - published**
+**Last updated: June 6, 2023 - collab cycle epic linked**
 
 ### Communications
 
 - **GitHub Label**: authenticated-experience; onsite-notifications; notification-center
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
 - **Epic:** [#58425](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58425)
-- **Collab Cyle Epic:** TK
+- **Collab Cyle Epic:** [#59826](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59826)
 
 ### Roles
 
