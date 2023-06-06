@@ -144,36 +144,57 @@ We conducted 75-minute to 90 minute long remote moderated research sessions via 
 
 ## Hypotheses and Conclusions
 
-*Primary Hypothesis*
+***Primary Hypothesis***
 
-Veterans will be able to easily understand and fill out the form given the new list & loop pattern, be able to edit their contact information, view and edit their VA benefits, and easily view and understand the resolution options. 
+Veterans will be able to easily understand and fill out the form given the new list & loop pattern, be able to edit their contact information, view and edit their VA benefits, and easily view and understand the resolution options.
 
-*Secondary Hypothesis*
+**Definitely true**
+The new list & loop pattern was easy to understand and fill out in terms of UI.
 
-The enhanced FSR format and language will be easy to digest, and most will be able to fill out the form independently (accessibility). 
+Contact information was easy to edit.
 
+Viewing VA benefits was easy.
 
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+**Maybe true:**
+Viewing and understanding resolution options.
 
+It is possible that the “waiver” language was oversimplified, as a few participants were confused by it. P7 thought this form was for a loan when reading the resolution options. P3 thought the amount would be deducted from his benefits and chose “compromise”.
+
+**Unexpected finding:**
+The Veteran’s attitude about VA debt, mental model about the VA and VA debt, and psychological frame of mind strongly affected their experience with the FSR form. Veterans that felt more neutral/positive about VA debt were more understanding of the length and depth of the form. Veterans that had negative attitudes about the VA in general had negative feelings about the form.
+
+***Secondary Hypothesis***
+
+The enhanced FSR format and language will be easy to digest, and most will be able to fill out the form independently (accessibility).
+
+**Maybe true**
+The FSR language may be harder to digest based on defensiveness and mistrust around providing certain information.
+
+This finding is substantiated with the FSR usability study that was conducted in March 2021:
+Is it clear to Veterans why they need to provide their financial information?
+**Generally yes, but they still don’t like it.**
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+***Usability Findings***
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+ 1. **Participants found the enhanced FSR design patterns (including new list loops) easy to use.**
+ 
+***Comprehension Findings***
 
-1. Finding one
+ 2. **Participants who understand the form's purpose (to help with debt) had an easier time filling it out and were more motivated to fill it out and supply all of the information, particularly if requesting debt relief.**
 
-2. Finding two
+ 3. **Some participants wanted more specific guidance with the form: specificity to understand what is meant by “dependent”, specific guidance on how to calculate monthly income and deductions, and more extensive help sections (additional information component).**
 
-3. Finding three
+***Satisfaction Findings***
 
-4. Finding four
+ 4. **Resolution options could be more refined to increase understanding.**
+ 
+ 5. **Participants in this sample who had negative experiences with VA services felt a sense of distrust with the VA, hopelessness, and were skeptical about the debt resolution process. Participants experiencing homelessness were triggered by certain sections and questions. (2 of 7) A negative emotional state and past negative experience with the VA may also be correlated to a lower motivation/willingness to fill out the form.**
+ 
+ 6. **Some participants felt like the VA should know the answers to questions that were being asked. This was based on either information they had previously given to the VA (MyVA profile) or their SSN (IRS).**
 
-5. Finding five
+ 7. **Overall participants felt the form was too long. Some participants thought the form was invasive.**
 
-6. Finding six
-
-7. Finding seven
 
 
 ## Details of Findings 
