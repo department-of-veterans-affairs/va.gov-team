@@ -34,6 +34,7 @@ Team Name - Cartographers
 - [ ] Keith Cheung (Designer)
 - [ ] Carlos Felix (Technical Architect)
 - [ ] Eric Voshall (Full stack developer)
+- [ ] Richard Davis (Developer)
 - [ ] Angela Fowler (Accessibilty Specialist)
 
 ---
