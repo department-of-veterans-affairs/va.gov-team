@@ -92,7 +92,7 @@ Ok, in the prototype we're looking at the start of the Pre-Need application.
             - Does the user experience any confusion in reading details? (Need to scroll to bottom of page)_ 
 - **Applicant information - Applicant demographics**
     - What are your thoughts regarding the messaging for potentially sensitive questions? 
-    - Is anything confusing or concerning to you?
+    - What are your thoughts on the questions themselves?
 - **Military history - Military details**
     - _Keep an eye out for confusion regarding status dropdown options_ 
 - **Military history - Service periods**
@@ -127,7 +127,7 @@ Ok, in the prototype we're looking at the start of the Pre-Need application.
     - What are your thoughts regarding whose details you'll need to provide here? 
 - **Sponsor information - Sponsor demographics**
     - What do you think about the messaging for potentially sensitive questions?
-    - Is anything confusing or concerning to you?
+    - What are your thoughts on the questions themselves?
 - **Sponsor information - Sponsor's passing **
     - What do you think about the messaging for potentially sensitive questions here?
     - Is anything confusing or concerning to you?
@@ -174,7 +174,7 @@ Ok, in the prototype we're looking at the start of the Pre-Need application.
     - What are your thoughts regarding whose details you'll need to provide here? 
 - **Sponsor information - Sponsor demographics**
     - What do you think about the messaging for potentially sensitive questions?
-    - Is anything confusing or concerning to you?
+    - What are your thoughts on the questions themselves?
 - **Military history - Sponsor's military details**
     - _Keep an eye out for confusion regarding status dropdown options_ 
 - **Military history - Sponsor's service periods**
