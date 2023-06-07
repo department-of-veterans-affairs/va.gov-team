@@ -18,6 +18,7 @@
 - If time (not DBEx related):
   - Interface with CWINRS (VR&E request from Aude Togbenon and Elizabeth Solley)
     - Not a bug / this will go through new feature request process - Matt with follow up 
+    - Austin to create a ticket in proper board for future discussion
 
 
 ### Date: May 31 2023
