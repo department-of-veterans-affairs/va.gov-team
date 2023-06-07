@@ -1,5 +1,10 @@
 # Decision log - Income Limits app
 
+## Engineering decisions during implementation phase
+
+- Special case where GMT < NMT (i.e., low cost-of-living counties) – In ticket [13590](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/13590), we decided that the API should always return NMT and GMT and let consuming products decide how/whether to display thresholds in this special case. (The Income Limits app will not display GMT in that case.)
+- Zip code validation – we added an endpoint for FE apps to validate whether a user-submitted 5-digit number is in fact a zip code in our database. This was necessary to provide immediate validation to users in case of a data entry error.
+
 ## 5/16 locked UX flow (pending stakeholder review)
 Present: Wes, Dave Conlon, Danielle Thierry, Jordan Wood, Cindy Merrill
 
