@@ -9,8 +9,7 @@
 ### Before you start the session
 - _Make sure everyone except the participant and moderator are on mute._
 - _In the Participant window, tap the More drop-down arrow and make sure "Play join and leave sound" is unchecked._
-- _Check your [screensharing setup]. Make sure they are setup on Zoom app and ready to screenshare._
-- _Check to make sure participants will be able to share their screen in Zoom (Share Screen button, Advanced Sharing Options)_
+- _Check your [screensharing setup]. Make sure you are setup on Zoom app and ready to screenshare in case participant can't._
 - _When the participant is ready, begin the session with the following intro._
 
 ## Project-Specific Setup and Intro - 10 minutes
@@ -21,7 +20,7 @@
 - You'll be taking a look at a prototype of the application. This prototype is basically made up of images or mockups so none of your actions will affect your actual VA information or benefits and none of your details are collected at any point or associated to your comments. As you click through the prototype, the fields will prefill with test data. 
 - If, for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.
 - Perigean did ask for your consent to allow other observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
-   - _If no: Use Slack to kindly ask the observers to leave the Zoom._
+   - _If no: Use Slack/Teams to kindly ask the observers to leave the Zoom._
    - _If yes: Admit observers._ 
     - _Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)_
    - _Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth. Moderator can turn off camera._
