@@ -426,5 +426,4 @@ This research does not include the perspectives of the following marginalized Ve
 * Native
 * Veterans who use assistive technology 
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+<img width="389" alt="efsr-equality-checker" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/5553542/ff51869c-bf29-4d9a-ac71-56f239a736b9">
