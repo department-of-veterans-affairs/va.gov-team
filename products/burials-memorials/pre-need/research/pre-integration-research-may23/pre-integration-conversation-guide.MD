@@ -214,6 +214,7 @@ Wonderful! Thank you so much for walking through that with us and telling us you
 - Thank you so much again, and enjoy the rest of your day!
 
 **STOP RECORDING** 
+- **Ask observers for top takeaways after participant has dropped**
 
 ## Emergency Exit
 
