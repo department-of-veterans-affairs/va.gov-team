@@ -5,13 +5,13 @@ Period - 06/07/2023 - 06/20/2023
 ### Sprint goals TBD
 - **Expedited**
    - [ ] Self-Assessment Part A to BDD 526 claims - Contact center review and feature launch
-   - [ ] Bug - Fix - Identification issue - Update phone number on 526-EZ alert 
+   - [ ] Bug - Fix - Identification issue - Update phone number on 526-EZ alert - done
    - [ ] Bug - Fix - VAMC location field optional
-   - [ ] Bug - Discovery - 526 start - Identification error 
+   - [ ] Bug - Discovery - 526 start - Identification error - hold for re-refinement
 - **Non-negotiable**
    - eVSS to Lighthouse Migration 
         - Intent to File endpoint 
-            - [ ] Integration testing with LH in dev, sandbox and staging environments - what's left?
+            - [ ] Integration testing with LH in dev, sandbox and staging environments - what's left? revisit when we look at integration testing solutions
         - Submit endpoint
             - [ ] Abstract calls to endpoint 
         - BRD
@@ -21,10 +21,11 @@ Period - 06/07/2023 - 06/20/2023
       - [ ] Intro pages - Research and interviews
       - [ ] Implementation for return URL as result of 526 flow changes 
       - [ ] 4142 - Tech dicovery for the proposed flow and wireframe designs
+      - [ ] 4142 - designs
       - [ ] Review BDD SHA Staging review feedback for plan around addressing design changes
-      - [ ] User flow for toxic exposure screens - **stretch goal?** 
+      - [ ] User flow for toxic exposure screens - **stretch goal?** - done
    - [ ] Analytics
-      - [ ] Survey Feedback Data Analysis - Part 2
+      - [ ] Survey Feedback Data Analysis - Part 2 - ice box
  
  
 ## Sprint 6
