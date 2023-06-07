@@ -9,9 +9,10 @@
   - Austin to update shared update in BDX Idea Board Mural 
 - Issue Management Strategy
   - Next Steps, Who to contact at CCS?
+  - Bug request from Kimberly in slack channel
 - Branch of service drop-down in the BDD flow within the 526 (Barrett Cooper)
 - UX review label (discussion with Lydia)
-- If time (not 526 related):
+- If time (not DBEx related):
   - Interface with CWINRS (VR&E request from Aude Togbenon and Elizabeth Solley)
 
 
