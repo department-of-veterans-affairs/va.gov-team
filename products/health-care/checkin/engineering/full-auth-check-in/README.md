@@ -18,12 +18,16 @@ sequenceDiagram
     participant vam as VA-Mobile-App
     participant va as vets-api
     participant chip as Chip
+    participant vista-api as vista-api
+    participant cw as cw
 
 	vet->>vam: Launch appointments screen
 	vam->>va: Requests eligibility for an appointment
-    va->>chip: Passes appointmentIen and station number
-    chip->>va: Return bool
-    va->>vam: Return bool
+    va->>chip: checkEligibility(appointmentIENs, patientDFN, stationNo)
+    chip->>vista-api: Get /appointments
+    vista-api->>chip: return appointments
+    chip->>va: Return eligibility status
+    va->>vam: Return eligibility status
     vam->>vet: Presents Check-in button if eligible
     vet->>vam: Click Check-in button for eligible appointment
     vam->>va: Iniate mobile check-in
