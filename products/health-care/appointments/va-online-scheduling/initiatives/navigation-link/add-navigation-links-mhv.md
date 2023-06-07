@@ -43,6 +43,7 @@ These are based on the [Sitewide IA Recommendations](https://github.com/departme
     - Schedule appts: `www.va.gov/my-health/appointments/schedule`
 - Page title tags will follow [the format described in the design system](https://design.va.gov/content-style-guide/seo#title-tags): `[H1 Page Title] | Veterans Affairs`
 - Top level breadcrumb will be `VA.gov home > My HealtheVet > Appointments` 
+- Details pages will show descriptive back links instead of a breadcrumb: `< Back to [h1 of previous page]
 
 **Not doing:**
 - We will not update the cancelation flow for this round. We'll revisit moving it to separate pages when we look at updating that flow in te future
@@ -53,6 +54,12 @@ These are based on the [Sitewide IA Recommendations](https://github.com/departme
     - If so, the top level `schedule` URL would redirect there.
 - The [list of scheduling URLs isn't complete](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/health-appointments.md#urls-and-breadcrumbs---scheduling-pages); are more recommendations coming? 
     - Are these recommendations for all scheduling flows? Or just VA direct?
+- Should there be a breadcrumb on confirmation pages?
+  - We won't send them back to the form flow
+  - There are already links providing a path forward
+- Requests aren't appointments - should the URL path define them differently?
+- Can we replace breadcrumb with  descriptive back link pattern on scheduling pages?
+   - In dynamic flow, can we surface name of previous page?
 
 ---
 ## Measuring Success
