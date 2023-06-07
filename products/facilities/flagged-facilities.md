@@ -16,7 +16,7 @@ Flags are determined via Drupal CMS config files, e.g.
 * These flags should only be removed from a facility with all work has been completed and the only step remaining in communication with stakeholders that the work has been completed.
 
 ## Flags that are applied manually
-The "⏳ Awaiting ..." flags are applied while working the Flagged Facilities in the [Flagged Content view](https://prod.cms.va.gov/admin/content/facilities/flagged).
+The "⏳ Awaiting ..." flags are applied while working the Flagged Facilities in the [Flagged Content view](https://prod.cms.va.gov/admin/content/facilities/flagged). They are secondary and should never be the only flags on a facility.
 * "⏳ Awaiting Editor" should be applied by Help Desk while awaiting approval or confirmation or holding off until a specific date when the facility's status can be changed.
 * "⏳ Awaiting Redirect" should be applied by a CMS Engineer, as a step in the URL Redirect workflow in the [URL Change runbook](runbook-facility-url-change.md).
 * "⏳ Awaiting CSV" should be applied by a CMS Engineer, as a step in the Canonical URL change workflow in the [URL Change runbook](runbook-facility-url-change.md).
