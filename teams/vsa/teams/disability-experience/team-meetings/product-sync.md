@@ -1,8 +1,7 @@
 # Benefits Disability Experience - Product sync 
 
-### Date: June 06 2023
+### Date: June 7 2023
 ### Topics Covered:
-
 - Team 2 Board Quick Overview
   - First sprint planning complete
   - Review sprint goal
