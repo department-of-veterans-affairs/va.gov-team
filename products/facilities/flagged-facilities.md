@@ -13,6 +13,7 @@ Flags are determined via Drupal CMS config files, e.g.
 * [New facility flag](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/config/sync/flag.flag.new.yml)
 * [Changed name flag](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/config/sync/flag.flag.changed_name.yml)
 * [Removed from source (removed_from_source) flag](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/config/sync/flag.flag.removed_from_source.yml)
+* These flags should only be removed from a facility with all work has been completed and the only step remaining in communication with stakeholders that the work has been completed.
 
 ## Flags that are applied manually
 The "⏳ Awaiting ..." flags are applied while working the Flagged Facilities in the [Flagged Content view](https://prod.cms.va.gov/admin/content/facilities/flagged).
