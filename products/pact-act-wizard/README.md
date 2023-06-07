@@ -136,8 +136,8 @@ N/A
 
 
 ##### Stakeholders: 
-    - VEO: Adam Farina (with support of the Secretary)
-    - PACT Act partners within VBA and VHA
-    - OGC
+- VEO: Adam Farina (with support of the Secretary)
+- PACT Act partners within VBA and VHA
+- Office of the General Council (OGC)
     
  Note: This is something that the Secretary is very interested in.
