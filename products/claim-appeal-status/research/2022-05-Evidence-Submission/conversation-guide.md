@@ -56,57 +56,60 @@ Before we look at the website, let’s start with a few general questions.
 - Describe to me what you see on this page.
 - What do you think is the difference between the first claim shown here and the second claim?
 - Based on what you see here, what do you think is the status of this claim (the first one)? What does that status mean to you?
-- What do you think "Last updated" means? 
+- What does the number (Claim ID) here mean to you? Do you find that useful, or not?
+- What do you think this "Submitted on" date means?
+- What do you think this "Last updated" date means? 
+- What do you think the status "Evidence, gathering, review, and decision" means?
 - Is there any other information that you'd like to see here about these claims that you're not seeing?
+- Now let's say you wanted to find out more information about this "In progress" claim. What would you do?
+- Do you see where it says "View details?" What would you expect to find if you clicked on that?
 
 ### Things to watch for:
 
 - Does the participant understand what they're looking at on the CST overview page?
 - Does the ppt understand the difference between "In progress" and "Decided" claims? Do they mention Claim IDs at all when discussing the distinction?
+- Does the ppt understand the "Submitted on" date? Does the ppt see value in that date?
+- Does the ppt understand the "Last updated" date? Does the ppt see value in that date
 - Does the ppt understand the status of the claim, and what prompted that status? 
 - What other information, if any, does the ppt say would be useful to see?
 
 ## Second Task: Claim details: In-progress claim - 15 minutes
 
 #### Status tab
-- Now let's say you wanted to find out more information about this "In progress" claim. What would you do?
-- Do you see where it says "View details?" What would you expect to find if you clicked on that?
-- [User clicks View detais] Tell me what you see on this page. Is this what you were expecting?
-- What does the number here mean to you? Do you find that useful, or not?
-- What does the "Date submitted" date mean to you? Do you find that useful, or not?
-- What does this tell you about the status of this claim? 
-- What action would you take, if any, on this page? 
+- [User clicks View detais] Tell me what you see on this page. Is this what you were expecting? 
 - On a scale of 1-5, how much would you say you understand what's going on with this claim? (1 being not at all, 5 being completely.)
 - On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
+- Does this help you understand what's happening with the claim? Why or why not?
+- What action would you take, if any, on this page? 
+
+#### Compare/Contrast Status tabs
+- [Click anywhere on page to show old design] How would you compare this screen to the one we just looked at? Which do you prefer? Why do you prefer that one? 
+- On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
+- [Return to new Status tab]
 
 #### Files tab 
 - Do you see where it says "Files?" What would you expect to find if you clicked on that?
 - [Navigate to Files tab]
 - Tell me what you see on this page. Is this what you were expecting?
 - Where do you think these files here came from?
-- What action would you take, if any, on this page? 
 - On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
+- What action would you take, if any, on this page? 
 
 #### Overview tab
 - Do you see where it says "Overview?" What would you expect to find if you clicked on that?
 - [Navigate to Overview tab]
 - Tell me what you see on this page. Is this what you were expecting?
+- On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
 - Does this help you understand what's happening with the claim? Why or why not?
 - What action would you take, if any, on this page? 
-- On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
-
-#### Compare/Contrast 
-- [Click anywhere on page to show old design] How would you compare this screen to the one we just looked at? Which do you prefer? Why do you prefer that one? 
-- On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
-- [Return to new Status tab]
 
 ### Things to watch for:
 
 - Does the participant understand what actions are being taken on the claim? 
-- Does the ppt feel like this gives them a good sense of what they need to do - or not do - to support the claim? 
+- Does the ppt feel like this gives them a good sense of what they need to do - or not do - to support the claim?
+- How the does participant feel about the new design compared to the old design? 
 - Does the ppt understand the relationship between items in the Activity feed and items in the Files tab?
 - Does the ppt feel about the process stepper provides unique and useful information?
-- How the does participant feel about the new design compared to the old design?
 
 ## Third Task: CST home page with evidence request - 5 minutes
 
@@ -124,20 +127,20 @@ Before we look at the website, let’s start with a few general questions.
 
 - [User clicks View detais] Tell me what you see on this page. Is this what you were expecting?
 - What does this tell you about the status of this claim? 
-- What action would you take, if any, on this page? 
 - On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
+- What action would you take, if any, on this page? 
 
 ### Things to watch for:
 
-- Does the participant understand what action to take to resolve the evidence request?
 - Is the ppt confused about the state of the claim, or is it clear? 
+- Does the participant understand what action to take to resolve the evidence request?
 
 ## Fifth Task: Evidence request page - 5 minutes
 
 - [Clicking into request] Tell me what you see here. What is this request for?
 - When do you think you need to submit this evidence by? How do you know that?
-- What action, if any, would you take on this page? How would you fulfill this request?
 - On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
+- What action, if any, would you take on this page? How would you fulfill this request?
 
 ### Things to watch for:
 
