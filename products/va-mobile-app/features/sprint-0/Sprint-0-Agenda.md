@@ -60,6 +60,11 @@ The Sprint 0 meeting is a time to do the following:
 
 ## Working session notes
 
+## 6/7/23
+
+* [Sprint 0: Submit Feedback](https://docs.google.com/document/d/12PejlFxL-OanOAnxJHqMLTawYnvfcNcRavPp2yVI3_w/edit#heading=h.mnq6vtjqteg4) (Tim R)
+
+
 ## 5/10/23
 
 * [Sprint 0: Defining active user base and log-in problems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Defining%20active%20user%20base%20&%20log-in%20problems/Sprint%200:%20Defining%20active%20user%20base%20&%20log-in%20problems.md) (Greta)
