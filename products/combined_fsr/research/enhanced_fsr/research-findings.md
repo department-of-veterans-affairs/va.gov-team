@@ -219,6 +219,7 @@ Participants easily understood selecting a debt, reviewing their benefits.
 Several participants acknowledged that the form was extensive and stated that they understood why it needed to be so thorough as it was for debt relief.
 
  > “Oh, whoa! The thought that hops into my mind, if you have all this stuff, then how do you have VA debt?! The stuff on the list makes sense, you’re just trying to get a good profile of the veteran.” -P10
+ > "They are serious that they do not want to help you unless you really need help. this is good though because I think a lot of people are asking for help when they dont need help, they are not looking for help they are looking for a handout. - P4
 
  3. **Some participants wanted more specific guidance with the form: specificity to understand what is meant by “dependent”, specific guidance on how to calculate monthly income and deductions, and more extensive help sections (additional information component).**
 
@@ -244,6 +245,7 @@ Several participants acknowledged that the form was extensive and stated that th
 >“Having to list your household assets seems unnecessary. This information is none of their business. That information should not count against them in the decision process. It should be focused on the fact that the VA made an overpayment. That is on the VA to find a resolution instead of putting that on the Veteran. It should be on the person who issued the overpayment to fix the problem. I know plenty of people who would look at that form and let the debt sit there.” -P1
 
 >"I don’t think it is going to solve the issue because the VA is going to receive their own information from the IRS. So, this would be a waste of time." -P5
+>"Any debt we receive, the government isn't on our side, they are out to collect their money. As soon as you pay that debt they will leave you alone. It isn't as simple as a phone call or writing a letter to resolve the debt, it is days of work." - P5
 
  6. **Some participants felt like the VA should know the answers to questions that were being asked. This was based on either information they had previously given to the VA (MyVA profile) or their SSN (IRS).**
 
