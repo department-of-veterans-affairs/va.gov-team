@@ -2,7 +2,7 @@
 
 ## Moderator logistics
 
-- _Use #feedback-backchannel in Slack for real-time feedback from observers._
+- _Use #feedback-backchannel in Slack for real-time feedback from observers._ [In this study, we will be using the designated Teams channel to facilitate communications with stakeholders.]
 - _Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel))._
 - _Mute your Slack and computer notifications._
 
