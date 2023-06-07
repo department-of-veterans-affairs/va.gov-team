@@ -45,7 +45,7 @@ _Can actually do this while explaining to them where to find “Chat” and “S
 Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You can tell me what to do, what to tap, on, etc. Does that sound ok?
 - [Share your screen]. Can you confirm if you can see my screen?
 
-**Recording Instructions**
+////// **Recording Instructions** //////
 
 - Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - **If yes:** Once I start recording, I am going to confirm that you are ok with me recording this session once more. 
