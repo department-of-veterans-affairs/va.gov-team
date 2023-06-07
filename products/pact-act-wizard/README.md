@@ -108,15 +108,21 @@ The volume of content/number of screens is an area that we are watching due to c
 
 ### Key Decisions
 
+| Decision | Date | Participants |
+|----------|-------------|--------------------|
+| Exclude conditions from MVP  | 4/25/2023 | Danielle, Dave, Mikki |
+
 ---
    
 ## Screenshots
 
 ### Before
 
-N/A
+N/A - brand new product
 
 ### After
+
+
 
 ---
 
@@ -124,15 +130,16 @@ N/A
 
 ##### Team
 - Team Name: Sitewide Public Websites
-- GitHub Label:
+- GitHub Label: sitewide-public-websites
 - Slack channel: #Sitewide-Public-Websites
 - People:
   - OCTO-DE Leads: Dave Conlon & Danielle Theirry
+  - OCTO-DE IA: Mikki Northuis
   - PM: Wes Rowe (A6)
   - DM: Jill Adams (A6)
   - Engineering:
   - Design:
-  - Research:
+  - Research: Cindy Merrill
 
 
 ##### Stakeholders: 
