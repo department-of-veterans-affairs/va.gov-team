@@ -11,6 +11,7 @@
   - Next Steps, Who to contact at CCS?
   - Austin to discuss with Lydia on template
   - Bug request from Kimberly in slack channel
+    - Lydia to follow up 
 - Branch of service drop-down in the BDD flow within the 526 (Barrett Cooper)
 - UX review label (discussion with Lydia)
 - If time (not DBEx related):
