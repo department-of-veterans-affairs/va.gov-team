@@ -20,10 +20,11 @@
 - You'll be taking a look at a prototype of the application. This prototype is basically made up of images or mockups so none of your actions will affect your actual VA information or benefits and none of your details are collected at any point or associated to your comments. As you click through the prototype, the fields will prefill with test data. 
 - If, for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.
 - Perigean did ask for your consent to allow other observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
-   - _If no: Use Slack/Teams to kindly ask the observers to leave the Zoom._
-   - _If yes: Admit observers._ 
+   - _**If no:** Use Slack/Teams to kindly ask the observers to leave the Zoom._
+   - _**If yes:** Admit observers._ 
     - _Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)_
    - _Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth. Moderator can turn off camera._
+
 - Are you on a desktop, mobile or tablet device?
 
 - I'm going to send you a link in the chat that I would like for you to open and take a look at briefly before we open the prototype.
