@@ -34,6 +34,8 @@ _Can actually do this while explaining to them where to find “Chat” and “S
 - Okay, now I'm going to ask you to share your screen in Zoom so that we can look at the prototype together and then we'll begin. 
 
 [Pre-Integration v0.1 InVision Prototype UT Link](https://bahdigital.invisionapp.com/console/share/HF26GKB9W7Q)
+- Zoom screensharing on desktop: Locate green Share Screen button on the bottom tool pane.
+- Zoom screensharing on mobile: Locate Share button in bottom tool panel (it's scrollable and they may need to scroll to see button if off screen), then hit "Start broadcast".
 
 **Backup plan if they cannot figure out how to share screen:**
 
