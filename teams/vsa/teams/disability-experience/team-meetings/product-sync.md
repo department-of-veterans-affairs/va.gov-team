@@ -3,6 +3,17 @@
 ### Date: June 06 2023
 ### Topics Covered:
 
+- Team 2 Board Quick Overview
+  - First sprint planning complete
+  - Review sprint goal
+- Roadmap
+  - Austin to update shared update in BDX Idea Board Mural 
+- Issue Management Strategy
+  - Next Steps, Who to contact at CCS?
+- Branch of service drop-down in the BDD flow within the 526 (Barrett Cooper(
+- If time (not 526 related):
+  - Interface with CWINRS (VR&E request from Aude Togbenon and Elizabeth Solley(
+
 
 ### Date: May 31 2023
 ### Topics covered:
