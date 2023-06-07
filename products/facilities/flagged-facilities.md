@@ -14,6 +14,11 @@ Flags are determined via Drupal CMS config files, e.g.
 * [Changed name flag](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/config/sync/flag.flag.changed_name.yml)
 * [Removed from source (removed_from_source) flag](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/config/sync/flag.flag.removed_from_source.yml)
 
+## Flags that are applied manually
+The "⏳ Awaiting ..." flags are applied while working the Flagged Facilities in the [Flagged Content view](https://prod.cms.va.gov/admin/content/facilities/flagged).
+* "⏳ Awaiting Editor" should be applied by Help Desk while awaiting approval or confirmation or holding off until a specific date when the facility's status can be changed.
+* "⏳ Awaiting Redirect" should be applied by a CMS Engineer, as a step in the URL Redirect workflow in the [URL Change runbook](runbook-facility-url-change.md).
+* "⏳ Awaiting CSV" should be applied by a CMS Engineer, as a step in the Canonical URL change workflow in the [URL Change runbook](runbook-facility-url-change.md).
 
 ## Runbooks 
 When a Facility is flagged, the facility type and the nature of the flag will determine the runbook that should be used to mitigate the flag. 
