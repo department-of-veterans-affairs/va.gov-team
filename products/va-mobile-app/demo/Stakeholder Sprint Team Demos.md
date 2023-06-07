@@ -4,6 +4,21 @@ Meeting Owner: Kelly Lein
 Timing: Every 2 Thursdays 2:35 - 3:15pm 
 
 ---  
+**Demo Sprint 72 6/7/23** 
+Agenda
+- Demo Topic(s)
+  -  Understanding our users: Retention (Greta/Liz)
+  -  Data Research Request / Data Flow (Greta)
+
+- Slides - 
+- Video 
+  -  
+
+
+
+
+
+---  
 **Demo Sprint 71 5/25/23** 
 Agenda
 - Demo Topic(s)
@@ -16,10 +31,6 @@ Agenda
   -  Secure Messaging Realignment Pt.1 - https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/60f0bf54-24ab-4ef6-be54-6806eac3bff1
   -  Secure Messaging Realignment Pt.2 - https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/0aff31fb-3b2c-49e4-b84f-53221a55f572
   -  Figma updates and QA process updates - https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/66fcf5e2-a6ea-4b70-8f42-6d953e42de2a
-
-
-
-
 
 
 ---  
