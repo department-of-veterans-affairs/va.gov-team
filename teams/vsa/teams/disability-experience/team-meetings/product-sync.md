@@ -9,6 +9,7 @@
   - Austin to update shared update in BDX Idea Board Mural 
 - Issue Management Strategy
   - Next Steps, Who to contact at CCS?
+    - Matt to forward meeting  
   - Austin to discuss with Lydia on template
   - Bug request from Kimberly in slack channel
     - Lydia to follow up 
