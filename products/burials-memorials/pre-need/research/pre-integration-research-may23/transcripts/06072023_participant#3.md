@@ -55,13 +55,18 @@ Ok, it seems like we're having some trouble getting the prototype up on your scr
 ## Warm-up Questions - 5 minutes
 - To start, I'd like to ask you a few warm-up questions.
 - Can you tell me a little bit about yourself? [Determine if they're a Veteran, family member, or a personal representative]
+“48 years old. Professor of Education. In Army and medically discharged. Military journalist. Use VA benefits and disabilities.”
 - Did you know that you could apply to see if you're eligible to be buried in a national cemetery at any time?
+“They sent it to me when I started VA healthcare. Seemed like an odd time to send the information.”
        - If so, how did you find out?
 - What do you think qualifies you to be buried in a national cemetery?
+“I’m not sure. I’m thinking percentage of disability qualifies me. My grandparents are all buried in a national cemetery.”
 - When thinking about planning for your burial, would you prefer to be buried in a national cemetery?
+“I’ve gone back and forth since they sent me the information. I’m not 100% certain.”
 - Have you applied before to see if you're eligible for burial in a national cemetery? 
     - If Yes: Could you describe how that process went and your thoughts about it?
     - If No: Is that something you would be interested in doing at some point?
+“I haven’t officially applied. I went on the website to look but didn’t apply yet.”
 
 ## Getting Started - 1 minute
 
@@ -113,40 +118,55 @@ Ok, in the prototype we're looking at the start of the Pre-Need application.
 ### Questions to ask as they go through scenario
 - **Introduction**
     - What are your thoughts regarding the content on this page?
+“First thing that jumps out at me is the pre-need. What do they mean by pre-need? That confuses me. I want to read everything, but I do see the start button. I didn’t know spouses have access to the VA. I had to help my dad with a lot of VA stuff. Pretty straight forward.”
     - Do you feel prepared to start applying?
         - _Things to watch for:
             - Does the user feel the need to click on external links? 
             - Does the user try to open the Privacy Act Statement before continuing?_  
 - **Applicant information - Applicant relationship to service member / Veteran**
     - Do you understand how to answer the question this screen is asking? 
+“Spouse in this case. Doesn’t seem to want to click on it.”
         - _Things to watch for:
             - Does the user feel the need to open the additional info component? 
             - Does the user experience any confusion in reading details? (Need to scroll to bottom of page)_ 
 - **Sponsor information - Sponsor details**
     - What are your thoughts regarding whose details you'll need to provide here? 
+“Self-explanatory. Nothing confusing. If I’m a spouse, then sponsor is the actual veteran.”
 - **Sponsor information - Sponsor demographics**
     - What do you think about the messaging for potentially sensitive questions?
+“I think it’s standard. Anyone going through this will understand you asking the basic questions. It’s not really sensitive information but I get why we have to phrase it that way.”
     - Is anything confusing or concerning to you?
 - **Sponsor information - Sponsor's passing **
     - What do you think about the messaging for potentially sensitive questions here?
+“I understand the phraseology here.”
     - Is anything confusing or concerning to you?
     - Why do you think this information is collected?
 - **Military history - Sponsor's military details**
+“I don’t think anyone knows their claim number. I have it saved somewhere. If I’m applying for any sort of benefits for a spouse, I will have the documents on hand. I suspect a fair number of people won’t have these on hand. If it’s not required to put in a claim number, it’ll probably be left blank. I would save and finish late if I didn’t have it on hand. It would be nice to have it show which documents I need to have.”
     - _Keep an eye out for confusion regarding status dropdown options_ 
 - **Military history - Sponsor's service periods**
+“I like the dropdown menu. I think a lot of people don’t know what their character of service would be.”
     - Are you prepared to answer these questions or would you need to look them up? 
     - What would you do if you didn't have this information on hand?
 - **Burial benefits - Previous decedents**
     - What are your thoughts regarding the questions on the page?
+“This is a tough one. There is a closer cemetery to me, and another my family is at. Difficult decision to make more than confusion. I don’t know if everyone is fully ready for that decision while filling out the application. I would want to know if I could change it at a later date. I would want to know the rules on having family buried in the same cemetery. Maybe also a link to the specific rules for each cemetery (ex: Arlington).”
     - Do you have thoughts or feedback for this page?
+“I’m confused between the deceased and the sponsor.”
 - **Supporting docs** 
+“I guess they are looking for service documents. Straightforward with other VA applications. Some of us will have multiple documents.”
     - Do you think you would need to upload something here to continue?
     - How would you go about uploading this if you're on a mobile device?
+“I have a folder on my iPhone for email PDFs. I hope when I upload, I can get it from the folder I created.”
     - What are your thoughts regarding the allowed file types [PDFs]?
+“I think PDF would be fine. Maybe Jpeg some people would prefer. Jpeg might be better for the older generation. I would want an option for the camera to take a photo of a document if needed.”
 - **Contact information - Sponsor address/contact details** 
+“I wouldn’t open the question for the contact info. If it were more personal or unclear, I would want more details. Like the previous page with the documents. For this, I’m not going to think twice about why the VA wants my contact information. Good to have the number to call at the bottom. If I had questions, I would call that number. As this phase with my confusions, I would call to clear up some things. I would like to see if I’m eligible before I start the application process.”
     - Would you have this on hand or would you need to look it up?
 - **Confirmation** 
+“I’m always going to want to review. I’ve never done this on the phone before. I usually apply via desktop. This one isn’t a lot of typing or documents so I would consider apply on the phone. Submit.”
     - What would you do at this point?
+“Go back to the VA site and see if my appeal status has changed. I’m going to assume everything is done and I’ll get something in the mail confirming. I hope this shows up on the VA website on the status.”
     - When do you think you would get a decision? 
 
 ## Task 3: Applying for Someone Else - Applicant is Non-Veteran - 20 minutes
@@ -199,9 +219,13 @@ Ok, in the prototype we're looking at the start of the Pre-Need application.
 ## Post-Task Interview - 5-10 minutes
 Wonderful! Thank you so much for walking through that with us and telling us your thoughts. We just have a few questions to ask before we wrap up our session for today. 
 - What did you think of the application process overall?
+“All looks good. I’m curious about the eligibility requirements now. It would be good if that was the first thing. Phraseology was confusing me a bit (Deceased vs Sponsor). Beyond that, it’s a straightforward process.”
 - On a scale of 1 to 5 with 1 being the lowest and 5 being the highest, how would you rate the application process for Pre-Need that you just experienced?
+“4. Just because of the things I mentioned.”
 - On a scale of 1 to 5, how mobile-friendly do you think it is?
+“5.”
 - If you could snap your fingers and recreate the application process for pre-need to make it better, what would that process look like? 
+“Having definitions and criteria being the landing page. Pre-need phrase doesn’t make sense.”
     - How would you do things differently?
 - Is there anything else on your mind that we didn't ask?
 - Do you have any questions for me?
