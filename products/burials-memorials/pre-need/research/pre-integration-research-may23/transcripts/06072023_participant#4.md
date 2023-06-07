@@ -26,15 +26,19 @@
     - _Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)_
    - _Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth. Moderator can turn off camera._
 - Are you on a desktop, mobile or tablet device?
-- I'm going to send you a link in the chat that I would like for you to open.
+- I'm going to send you a link in the chat that I would like for you to open and take a look at it briefly before we open the prototype.
+
+[Pre-Need Information Page](https://www.va.gov/burials-memorials/pre-need-eligibility/)
 
 **If they have trouble locating the chat or with sharing, talk them through finding the chat window to locate the prototype link and the Zoom screen sharing features.** [Zoom share screen directions](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
 
 _Can actually do this while explaining to them where to find “Chat” and “Share,” so by the end we're looking at their screen, then move onto recording._
 
-- Okay, now I'm going to ask you to share your screen in Zoom so that we can look at the prototype together and then we'll begin. 
+- I'm going to send you a second link in the chat for you to open a prototype of the application. 
 
 [Pre-Integration v0.1 InVision Prototype UT Link](https://bahdigital.invisionapp.com/console/share/HF26GKB9W7Q)
+
+- Okay, now I'm going to ask you to share your screen in Zoom so that we can look at the prototype together and then we'll begin. 
 
 **Backup plan if they cannot figure out how to share screen:**
 
