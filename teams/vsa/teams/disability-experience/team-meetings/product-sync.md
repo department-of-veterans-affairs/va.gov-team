@@ -13,6 +13,7 @@
   - Bug request from Kimberly in slack channel
     - Lydia to follow up 
 - Branch of service drop-down in the BDD flow within the 526 (Barrett Cooper)
+  - Austin and Lydia to follow up with Barrett and hand off for assessment 
 - UX review label (discussion with Lydia)
 - If time (not DBEx related):
   - Interface with CWINRS (VR&E request from Aude Togbenon and Elizabeth Solley)
