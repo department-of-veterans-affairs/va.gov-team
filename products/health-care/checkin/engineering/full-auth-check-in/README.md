@@ -25,21 +25,21 @@ sequenceDiagram
     chip->>va: Return bool
     va->>vam: Return bool
     vam->>vet: Presents Check-in button if eligible
-    vet->>vam: Click Check-in button for eligable appointment
+    vet->>vam: Click Check-in button for eligible appointment
     vam->>va: Iniate mobile check-in
     va->>chip: Request insurance and demographics statuses for patient
-    chip->>va: Return insurance/demogrpahics statuses
+    chip->>va: Return insurance/demographics statuses
     va-->>chip: Request demographics payload if update needed
-    chip-->>va: Return demogrpahics payload
+    chip-->>va: Return demographics payload
     va->>vam: Return insurance/demographics statues <br />and payload if needed
     vam-->>vet: If insurance needs validation prompt to check-in with staff.<br /> If demographics need confirmation present those screens.<br /> If no input needed proceed with checking patient in.
     vet-->>vam: Completes demographics confirmation if needed
-    vam->>va: If updating demogrpahics status send timestamps.<br />Send check-in to appointment.
+    vam->>va: If updating demographics status send timestamps.<br />Send check-in to appointment.
     va-->>chip: Patch demographic statuses if needed
     chip-->>va: Demographics response if sent
     va->>chip: Send check-in for appointment 
     chip->>va: Check-in response
-    va->>vam: Check-in and demographics respnonse
+    va->>vam: Check-in and demographics response
     vam->>vet: Confirmation/Error screen
 ```
 ## Proposed sequence
@@ -53,11 +53,12 @@ The proposed sequence above outlines four new vets-api endpoints.
 ## Questions:
 
 - In the VAOS payload is locationId the same as station number?
-    - The answer to this is yes but the values have a mapping to station values that are recognizeable to us. There is a doc underway to document the vaos-service appointment. [See thread in slack](https://dsva.slack.com/archives/C023EFZPX4K/p1685984766871989?thread_ts=1685639670.578339&cid=C023EFZPX4K)
+    - The answer to this is yes but the values have a mapping to station values that are not recognizeable to us. There is a doc underway to document the vaos-service appointment. [See thread in slack](https://dsva.slack.com/archives/C023EFZPX4K/p1685984766871989?thread_ts=1685639670.578339&cid=C023EFZPX4K)
 - Can VAOS add the ECheckinAllowed field to the appointment?
 - How can we have security confidence that the patient is checking into only their appointments?
 - [LP] Currently, the mobile app gets their appointment info from VAOS; to test in a Staging environment, the Mobile App team has to get the VAOS team to create appointments for them in the Vista instance that VAOS uses; we need to determine if this is the same Vista instance that the CIE team uses for the Staging tool; if it is not, I'm not sure how we are going to test in Staging
-- Should the API start enforcing the bussiness rules around check-in? Currently the frontend, does the checks to determine some of the elligability for checking-in a patient i.e. demogrpahics confirmations. With more applications wanting to do check-in, should those business rules move into the API side?
+- Should the API start enforcing the bussiness rules around check-in? Currently the frontend, does the checks to determine some of the elligability for checking-in a patient i.e. demographics confirmations. With more applications wanting to do check-in, should those business rules move into the API side?
+    - Yes we should probably enforce business rules at the API level to avoid conflicting rules accross multiple applications and for added security.
 - What patient info is available from the mobile app JWT token? (DFNs Stations)
 
 ## Internal questions:
