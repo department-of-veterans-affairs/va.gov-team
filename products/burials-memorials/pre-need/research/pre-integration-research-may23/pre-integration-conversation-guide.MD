@@ -52,7 +52,7 @@ Ok, it seems like we're having some trouble getting the prototype up on your scr
 
 **Recording Instructions**
 
-- Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+- Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - **If yes:** Once I start recording, I am going to confirm that you are ok with me recording this session once more. 
     - **If no:** That's ok. We can use our notes to complete our analysis.
 
