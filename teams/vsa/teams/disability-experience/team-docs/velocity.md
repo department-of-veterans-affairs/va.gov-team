@@ -2,10 +2,11 @@
 
 Velocity is used to help teams predict how much work can be accomplished during a sprint. It is a planning tool and not an indicator of performance in any way. This metric is used to help the team plan work for a sprint, by taking into account the average amount of work able to be completed by the team in a single sprint based on the relative estimates for product backlog items (or, user stories).
 
-Rolling 3 sprint average: 27.6
+Rolling 3 sprint average: 26
 
 | Sprint | Sprint Dates | Engineering | Design | Research | Total |
 | --- | --- | --- | --- | --- | --- |
+| 6 | 5/24-6/6/23 | 17 | 5 | 0 | 22 |
 | 5 | 5/10-5/23/23 | 22 | 3 | 4 | 29 |
 | 4 | 4/26-5/9/23 | 16 | 8 | 3 | 27 |
 | 3 | 4/12-4/25/23 | 15 | 11 | 1 | 27 |
