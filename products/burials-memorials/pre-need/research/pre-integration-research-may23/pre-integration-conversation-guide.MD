@@ -212,7 +212,7 @@ Wonderful! Thank you so much for walking through that with us and telling us you
 - If you could snap your fingers and recreate the application process for pre-need to make it better, what would that process look like? 
     - How would you do things differently?
 - Is there anything else on your mind that we didn't ask?
-- I'm going to ask my colleage [Charlie or Cindy] if they have questions at this time **If there are observers:** and also see if any of our observers have any questions. [Check Teams chat for questions]
+- I'm going to ask my colleage [Charlie or Cindy] if they have questions at this time **Only if there are observers:** and also check the channel to see if any of our observers have any questions. [Check Teams chat for questions]
 - Do you have any questions for me?
 
 ## Thank You and Closing - 2 minutes
@@ -222,6 +222,7 @@ Wonderful! Thank you so much for walking through that with us and telling us you
 - Thank you so much again, and enjoy the rest of your day!
 
 **STOP RECORDING** 
+
 - **Ask observers for top takeaways after participant has dropped**
 
 ## Emergency Exit
