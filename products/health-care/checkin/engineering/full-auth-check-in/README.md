@@ -187,4 +187,5 @@ The proposed sequence above outlines four new vets-api endpoints.
 ## Mobile side data tasks
 - find the staion number. This could be the location ID or be related to it. There is an on-going VAOS task to document this. [slack ref.](https://dsva.slack.com/archives/C023EFZPX4K/p1685985637341189?thread_ts=1685639670.578339&cid=C023EFZPX4K)
 - get the patient DFN for the given station number. [slack ref.](https://dsva.slack.com/archives/CMNQT72LX/p1686071593550999?thread_ts=1685982069.819559&cid=CMNQT72LX)
+    - avoid the staff apps endpoint, look for ways in vets-api to do this that already exist.
 - the mobile team will also need a list of appointment IENs. Those are being added to the VAOS payload now. [slack ref.](https://dsva.slack.com/archives/C023EFZPX4K/p1685985637341189?thread_ts=1685639670.578339&cid=C023EFZPX4K)
