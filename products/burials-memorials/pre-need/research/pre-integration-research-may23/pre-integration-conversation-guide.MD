@@ -204,7 +204,7 @@ Wonderful! Thank you so much for walking through that with us and telling us you
 - If you could snap your fingers and recreate the application process for pre-need to make it better, what would that process look like? 
     - How would you do things differently?
 - Is there anything else on your mind that we didn't ask?
-- **If there are observers:** Let me take a look and see if any of our observers have any questions. [Check Teams chat for questions]
+- I'm going to ask my coworker [Charlie or Cindy] if they have questions at this time **If there are observers:** and also see if any of our observers have any questions. [Check Teams chat for questions]
 - Do you have any questions for me?
 
 ## Thank You and Closing - 2 minutes
