@@ -59,13 +59,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- We are specifically excluding conditions from MVP due to complexity
+- We will be creating a sufficient, yet not overbearing amount of content that will allow Veterans to successfully understand how to answer each question. (Riskiest, mitigated through research focused on validating the content itself. In particular, ensuring we can test with assistive devices)
 
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
 We are going to build a wizard that focuses on PACT Act places of service.
-We are specifically excluding conditions from MVP due to complexity.
 
 - *Why this solution / approach over other solutions / approaches?*
 The question/response method seems to be the most effective method thus far for helping Veterans to easily understand eligibility.
