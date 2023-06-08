@@ -1,4 +1,4 @@
-Teams working on MHV on VA.gov
+##Teams working on MHV on VA.gov
 	• Cartography team (us)
 	• Secure Messaging team
 		○ OCTO: Leila Rassi
@@ -19,7 +19,7 @@ Teams working on MHV on VA.gov
 		○ OCTO: Tom Black
 		○ Contractor: Jason Boire
 
-VA.gov teams (teams that might be working on MHV stuff, but also on lots of other stuff)
+##VA.gov teams (teams that might be working on MHV stuff, but also on lots of other stuff)
 	• VA.gov Platform team
 	• Identity team (I think)
 		○ John Rahaghi
@@ -40,13 +40,13 @@ VA.gov teams (teams that might be working on MHV stuff, but also on lots of othe
 		○ Danielle T. (Content)
 	• [Dozens of other product development teams that we don’t expect to interact with]
 
-OCTO teams that aren’t VA.gov
+##OCTO teams that aren’t VA.gov
 	• VA Notify
 		○ Beverly Nelson
 	• VEText
 		○ Shane Elliott
 
-VA OIT teams that aren’t OCTO
+##VA OIT teams that aren’t OCTO
 	• Lighthouse API team
 		○ Dave Mazik
 	• VA Profile team
@@ -54,7 +54,7 @@ VA OIT teams that aren’t OCTO
 
 ——
 
-VA teams that are not OIT
+##VA teams that are not OIT
 	• VHA program offices — specifically Office of Connected Care, who is the “business owner” of My HealtheVet
 		○ Within Connected Care, critical people we work with are the MHV Coordinators
 	• All of the healthcare facilities
