@@ -157,7 +157,29 @@ Last updated by @tygindraux on June 8, 2023
 * What additional tasks associated with Login.gov or ID.me account assistance should the chatbot be able to perform?
 * How do users feel about the button layout and navigation between button stacks?
 #### Findings
-Unable to access. I’ve asked Shane (Research Ops).
+* Some participants initially struggled with getting the result they wanted based on the keywords they chose to type.
+> "I asked a very straightforward question and it doesn't know what I'm talking about."
+* Most participants had a reasonable idea of wha tinformation the 'I don't know' button would return and that it would likely provide more information on account types.
+* Particiapnts thought that the language of the quote was too much, confusing and felt like you're 'talking to an algorithm.'
+* Login.gov options (forgot my password, sending my ID, etc.) made sense and were expected. Some participants didn't know what 'sending my ID' meant.
+* Participants stated that much of what the chatbot provided was something they might expect, and it was clear what they would do next.
+* Participants shared that they liked the navigation of the "See more options" and "Back" buttons. They thought this was easy, helpful, and familiar to them.
+> "Oh, that's amazing because I can always go back but if I need more options, I can view those and still go back. Other ones like Amazon force you to click the next one and then if you don't click the desired one it brings you back to a brand-new page...it's a waste of time. So, allowing me to go back is really nice."
+* Most participants stated they didn’t mind leaving VA.gov to receive the answer they were looking for and get further information.
+* Most also liked that a separate tab was opened so they could return to the VA site after. 
+* Most participants were unclear about the "What you'll need" button and what information it might provide. They were more confused after clicking and receiving seemingly mismatched information.
+* As previously reflected, users began getting frustrated after trying different variations of questions to ask only to receive unrelated information. 
+> "I wish it would cluster words together... like when you type email, there should be more associations then that one that first popped up. I feel like the clustering association could be setup differently."
+> "Typing in the something and nothing comes up you get a little discouraged. But then I said maybe I'm not asking the right questions... by the last scenario I put ID.me account and got everything I needed which made me feel good."
+* Most participants welcomed the idea of leaving the chatbot to be provided with a help article that gave them more information than they expected.
+> "I like how it would take you to a knowledge-based article that would give you a full explanation."
+* Several participants mentioned a live-agent feature when asked if anything was lacking. Some participants said they preferred to interact with an actual human representative if they couldn't find the answer they were looking for.
+> “I guess I'm used to more human interaction...talking with an actual person. If they didn't understand me they can ask me more questions and narrow down exactly what I'm looking for instead of just providing me a link that might not always answer my question."
+#### Recommendations
+* Pursue more word associations based on what the user might type.
+* Ensure language is simple and concise.
+* Consider updating 'Sending my ID' with a more straightforward name.
+* Consider updating the "What you'll need" button with a clear alternate title and ensure the associated information matches. 
 
 ---
 
@@ -173,7 +195,7 @@ Unable to access. I’ve asked Shane (Research Ops).
 * What are the primary pain points that exist around sign in related issues with users?
 * How are users currently addressing and navigating these tasks?
 #### Findings
-Unable to access. I need to chase.
+Unable to access.
 
 ---
 
@@ -227,7 +249,7 @@ Unable to access. I need to chase.
 * Take users through a flow to reset their password and gain insight on the expected flow
 * Gain in	sight on future chatbot feature prioritization with users
 #### Findings
-Unable to access. I need to chase.
+Unable to access.
 
 ---
 
@@ -343,6 +365,21 @@ Unable to access. I need to chase.
 |Date|2022-01|
 |Team|Virtual Agent|
 |Background|With the upcoming release of the Virtual Agent chatbot, the needs for internationalization and making available content for veterans that would prefer to use Spanish or other language as a preferred language are unclear. This research is an effort to understand how the needs of this group differ from the English speaking veterans.|
+#### Objectives
+* How do needs from Spanish speaking Veterans differ from the English speaking Veterans regarding self service through the chatbot?
+* How do Spanish speaking Veterans interact with a chatbot?
+#### Findings
+* Veterans with services available in their preferred language expressed better satisfaction with the VA.
+* Veterans with Spanish as preferred language have relied on a third party or acted as support for other Spanish speaking Veterans.
+* Information sharing in Spanish is mostly done verbally, with information lost in translation.
+* Veterans showed the need for information consistent with previous research, but preferred having it in their preferred language.
+* Most important: emergency services, health, general benefits, solving benefits problems.
+* Challenges navigating the VA website were: inconsistent language across pages, most resources in Spanish as PDFs, not knowing what to search for.
+* Challenges related with interacting in English being: specialized language, time and effort , and comfort of expression.
+* Veterans see the Virtual Agent as a guide to navigate the VA.
+* Veterans found that with providing them a link it was very time and effort saving.
+* Veterans mentioned if the Virtual Agent was in Spanish they would expect the content of -the links to also be in Spanish.
+* Veterans would prefer to use it in their preferred language, but would use it in English if it was the only available option.
 
 ---
 
