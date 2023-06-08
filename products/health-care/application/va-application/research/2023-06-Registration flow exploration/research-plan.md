@@ -13,7 +13,7 @@ How might we enable Veterans who simply want to "register" for a specific level 
 Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
 
 - Enhance Veterans’ personalized online experience
-- Fast-track disability claims, starting with PACT Act claims (allowing Registration only
+- Fast-track disability claims, starting with PACT Act claims 
 
 
 ### Veteran Journey
@@ -39,12 +39,15 @@ Check assumptions and terminology used to remain Veteran-centric
 Insight into an ideal state and how Veteran would prefer to navigation the health care benefits application journey
 Phased approach to iterate on low-fi wireflows / hypothesis creation during this study
 
-
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+Out goal is to learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them.
+- What is the experience of "registering only" today? 
+- 
+
+Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care and Priority Groups impacting them during the health care application process.
+
+Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for.
+
 
 
 
