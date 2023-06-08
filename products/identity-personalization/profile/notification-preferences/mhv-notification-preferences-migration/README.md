@@ -1,6 +1,6 @@
 # Project outline: MyHealtheVet to VA.gov notification preference migration
 
-**Last updated: June 6, 2023**
+**Last updated: June 7, 2023**
 
 ### Communications
 
@@ -52,6 +52,8 @@ As mentioned above, there are a handful of existing and new notifications/prefer
 **Do we need to migrate existing notification preference data from MHV to VA Profile? If so, is this possible?**
 
 Given that we are working with existing notifications for which people have existing preferences saved, we'll need to talk to VA Profile about whether a data migration is possible or not.
+
+[ANS] A call in May 2023 this was discussed, MHV data isn't supposed to leave MHV without explicit approval of the veteran/user. 
 
 **When do we need to integrate the actual notifications with VANotify?**
 
