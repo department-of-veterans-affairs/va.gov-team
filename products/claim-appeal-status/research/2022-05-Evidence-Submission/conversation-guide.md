@@ -41,7 +41,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - 5 minutes
+## Warm-up Questions - 5 minutes
 
 Before we look at the website, let’s start with a few general questions. 
 
@@ -62,24 +62,25 @@ Before we look at the website, let’s start with a few general questions.
 - What do you think the status "Evidence, gathering, review, and decision" means?
 - Is there any other information that you'd like to see here about these claims that you're not seeing?
 - Now let's say you wanted to find out more information about this "In progress" claim. What would you do?
-- Do you see where it says "View details?" What would you expect to find if you clicked on that?
+- [If needed, prompt them to View details button] What would you expect to find if you clicked on that?
 
 ### Things to watch for:
 
 - Does the participant understand what they're looking at on the CST overview page?
 - Does the ppt understand the difference between "In progress" and "Decided" claims? Do they mention Claim IDs at all when discussing the distinction?
-- Does the ppt understand the "Submitted on" date? Does the ppt see value in that date?
-- Does the ppt understand the "Last updated" date? Does the ppt see value in that date
-- Does the ppt understand the status of the claim, and what prompted that status? 
-- What other information, if any, does the ppt say would be useful to see?
+- Does the ppt understand the "Submitted on" date? Do they think it's useful?
+- Does the ppt understand the "Last updated" date? Do they think it's useful?
+- Does the ppt understand what the status of the claim is? Do they think it's useful?
+- What other information does the ppt say would be useful to see?
 
 ## Second Task: Claim details: In-progress claim - 15 minutes
 
 #### Status tab
 - [User clicks View detais] Tell me what you see on this page. Is this what you were expecting? 
+- What are your first impressions of this page?
 - On a scale of 1-5, how much would you say you understand what's going on with this claim? (1 being not at all, 5 being completely.)
 - On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
-- Does this help you understand what's happening with the claim? Why or why not?
+- [Scroll to Recent activity section] What do you think these updates are trying to tell you? Do you find that useful? Why or why not?
 - What action would you take, if any, on this page? 
 
 #### Compare/Contrast Status tabs
@@ -102,13 +103,14 @@ Before we look at the website, let’s start with a few general questions.
 - On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
 - Does this help you understand what's happening with the claim? Why or why not?
 - What action would you take, if any, on this page? 
+- Based on what you've seen here, is there any action that you think you need to take to advance this claim? 
 
 ### Things to watch for:
 
 - Does the participant understand what actions are being taken on the claim? 
 - Does the ppt feel like this gives them a good sense of what they need to do - or not do - to support the claim?
 - How the does participant feel about the new design compared to the old design? 
-- Does the ppt understand the relationship between items in the Activity feed and items in the Files tab?
+- Does the ppt understand the relationship between items in the Recent activity section and items in the Files tab?
 - Does the ppt feel about the process stepper provides unique and useful information?
 
 ## Third Task: CST home page with evidence request - 5 minutes
