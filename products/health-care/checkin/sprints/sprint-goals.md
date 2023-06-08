@@ -8,6 +8,8 @@ ________________________________________________________________________________
 - **GOAL: Upgrade to Google Analytics 4**
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
+- **GOAL: Comply with the Authority to Operate (ATO)**
+    - **Sub Goal: Reduce Fields Populated in LoROTA Entry Upon Creation**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
      - **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**          
      - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**   
@@ -30,6 +32,9 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Schedule Pilot Touch Points with Wilkes-Barre](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59778)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Content] Create FAQ Guide for MSAs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Monitor Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43631)
+- **GOAL: Comply with the Authority to Operate (ATO)**
+    - **Sub Goal: [Reduce Fields Populated in LoROTA Entry Upon Creation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59984)**
+        - TBD
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**   
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Submit ticket to Danielle to add Mobile App check-in information to her resource page 
