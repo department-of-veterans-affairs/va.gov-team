@@ -1,4 +1,93 @@
 ### Content Sync
+
+## June 8, 2023
+
+## Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Laura Willwerth, Joe Niquette, Amber Parsley, Ngozi Abolarin
+
+## Notes:
+- Last week we made edits to the Account Creation and Sign-in Page and there was discussion around the differences between the Login.gov and ID.me IAL2 processes
+  - No forced verification but there is very limited access with IAL1
+  - We had this discussion because need to find out what types of confirmation emails are being referred to on the sign in page. There is a confirmation email that users receive when they create an account as well.
+- Account Verification FAQ Page
+- Remove first FAQ after speaking with Carnetta
+- will look into/vetting requirements for phone to be in your name for Login.gov (because it doesn't say that on Login); and adding a note that if you can't fulfill the phone verificaton step, they can send you a letter in the mail.
+- need to align the language for the CTA -- currently one says "go to Login." and other says "visit DSL"
+- changing question from verifying at VA health facility to verifying at USPS
+  - explain the steps to verify your identity in person
+  - explain that IPP happens after you have failed the online verification option
+  - more people are verifying online successfully (using Login.gov and ID.me)
+  - Joe: there will be an executive order released for VA to have an IPP solution
+  - There may be a future FAQ for an IPP process at a VAMC owned by VA
+
+## May 31, 2023
+## Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Laura Willwerth, Danielle Thierry
+
+## Notes:
+
+- Login.gov blog rework
+
+- Make post about account creation and mention post office 
+- Go online and create a login.gov or id.me account and then discuss options for verification failure
+- Right now in person is only for failure
+- Link over to the Login.gov material
+
+- Acknowledge that people are having trouble
+- Danielle’s paragraph: “We know that some Veterans are reporting having trouble verifying their identity to create a Login.gov account. We encourage you to create your account now and contact the Login.gov help center if you need support. If you can’t verify your identity online, you can now go to select U.S. post offices to verify your identity in person. You also have the option to create a verified ID.me account to manage your VA benefits and health care.”
+
+- Next blog: IPP at post office for veterans having trouble with the account creation
+  - resolve for lack of awareness around Login.gov
+
+Video for MFA can be linked to CLP
+
+Can we send out a broader security message without focusing on Login.gov?
+No: Make Login.gov the heart of the message rather than down further
+Add in person verification
+
+- Might be a good time to ask John, Tom, and Carnetta about adding information about IPP to Sitewide
+
+- VA benefits for Campaign landing page
+  - Transitioning service members
+  - Family member hub
+  - Disability and healthcare
+
+https://news.va.gov/114076/login-gov-access-va-digital-products-services/
+
+https://www.login.gov/help/verify-your-identity/verify-your-identity-in-person/
+
+
+## May 18, 2023
+
+## Attendees: Sofia Kirkman, Aliyah Blackmore, Laura Willwerth, Danielle Thierry
+## Notes:
+- Another security blog has been published and we will be waiting for feedback 
+- need to help veterans who failed to make the transition
+- Veterans expect a smooth and seamless process
+- A lot of anger and emotions tend to be redirected back; we should be ready with a plan to respond to those comments
+- Not sure we’re ready to communicate teh migration
+- MHV is not getting into the urgency until later
+
+MHV comms plan:
+https://dvagov-my.sharepoint.com/:p:/g/personal/danielle_thierry_va_gov/Efn1GVzBss5MlQ37TElykgYBqObDzdEX4rhuzOdKRMDRqw?e=tM7PtW
+- 
+## May 11, 2023
+
+## Attendees: Sofia Kirkman, Laura Willwerth
+## Notes:
+- PDF:
+  - Account creation guide is IAL1 only
+  - Document has been made 508 compliant
+  - The document might be duplicative of other content that can be sourced for learning and training purposes
+  - Might consider using this document as a tool to learn from rather than a veteran facing document on the Campaign 
+  
+- Landing Page
+  -  landing page will be a hub for all Login.gov content
+  -  we will start off by linking existing content and we may consider adding new content that pertains to the campaign
+
+- Blog around security
+  - John has reviewed but we can implement changes from Sitewide to draft after review
+  - Will socialize to Jordene for review 
+
+
 ## May 4, 2023
 
 ## Attendees: Carl Dickerson, Sofia Kirkman, Aliyah Blackmore, Laura Willwerth, Joe Niquette, Amber Parsley 
