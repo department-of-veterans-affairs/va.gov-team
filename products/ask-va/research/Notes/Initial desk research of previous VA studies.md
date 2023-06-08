@@ -1,12 +1,12 @@
 # Initial desk research of previous VA studies
 Last updated by @tygindraux on June 8, 2023
 
-## Overview of studies in chronological order
+## List of studies
 * [Profile Notification Settings, Add Email Channel - January 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#profile-notification-settings-add-email-channel)
 * [Disabled Veteran Accessibility Feedback - 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#disabled-veteran-accessibility-feedback)
 * [MCT Chatbot as AVA Front Door - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#multi-channel-technologies-mct-chatbot-as-ava-front-door)
 * [MCT Virtual Agent Chatbot Login.Gov and ID.me Moderated Interviews - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-virtual-agent-chatbot-logingov-and-idme-moderated-interviews)
-* [Profile Editing Evaluation - September 2022]()
+* [Profile Editing Evaluation - September 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#profile-editing-evaluation)
 * [Chatbot Feature Prioritization - August 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#chatbot-feature-prioritization)
 * [MCT Omnichannel Experience: Co-Design Phase II - June 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-omnichannel-experience-co-design-phase-ii) 
 * [VA Orchid, Virtual Agent Chatbot - June 14, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#va-orchid-virtual-agent-chatbot)
@@ -22,7 +22,38 @@ Last updated by @tygindraux on June 8, 2023
 * [Ask VA - April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#ask-va)
 * [VA.gov Relaunch - 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#vagov-relaunch-involved-multiple-studies)
 
-## Studies related to Ask VA, chatbot, virtual agent or other support tools
+## Details of studies
+
+### Profile Notification Settings, Add Email Channel
+
+`one thing per page` `forms`
+
+|Issue|[#214](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/214)|
+|:--|:--|
+|Date|01-2023|
+|Team|Profile, Authenticated Experience|
+|Background|Currently, the existing notification preferences we support all happen to only use text message as their means for getting in touch with users. However, we know that we'll soon need to support notifications that use email as a channel, and maybe some that support both text message and email as options. We want to do some research around how we can incorporate this additional option into the notification preferences interface so that we're ready to move quickly once this becomes a need for both users and stakeholders.|
+#### Objectives
+* Determine usable and scalable approach for adding email as a channel.
+* Determine usable and scalable approach for adding more notification preferences to the page.
+* Determine what level of information people need in order for them to decide whether they want to edit/update their preferences.
+#### Findings
+* The auto-save edit pattern in current designs was unanimously preferred to the read/edit (edit on a separate page) alternative. Participants were easily able understand and interact with our current auto-save pattern, even with more notifications and channels than we have on the page today.
+* People were able to work through these problems without significant guidance from the moderator, but still found the auto-save pattern to be easier and faster to navigate. This further supports the findings from our [profile editing evaluation study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md) that a “one thing per page” approach is not ideal for the short forms in the VA.gov profile.
+* No one was confused by the lack of a save button.
+* People were not totally clear on what to expect from notifications we’ll be bringing over from My HealtheVet.
+* 7 of 8 participants easily navigated the path to add their email address.
+* The repetition of the prompt to add an email address wasn’t overwhelming for most people.
+* Both variations of the design were equally usable on desktop and mobile.
+* Some participants were not clear about where their notifications would be delivered.
+#### Recommendations
+* Use the pattern in the auto-save prototype for notification settings as we add channels and notification options.
+* The prototype replaced the radio buttons we have today with checkboxes. This was easily understood by participants and allows us to cut the number of inputs in half, resulting in a cleaner user interface.
+* Learn more about content of My HealtheVet notifications, and update content accordingly to set clear expectations about what they are.
+* Reconsider how we are encouraging people to add their email address to their profile.
+* Explore how we might make the input message pattern more accessible.
+* Explore how we might surface meaningful and relevant links to people in the notification settings section.
+
 
 ### Disabled Veteran Accessibility Feedback
 
@@ -714,35 +745,3 @@ Unable to access.
 * Veterans are generally not finding “My VA” and “My Health” in the top right of the page
 * Deep links into eBenefits are not useful, users attempting to upload documentation cannot complete task
 * Each new tab opening up eBenefits requires user to login again, credential is not being shared across tabs
-
----
-
-## Studies related to forms or one thing per page pattern
-
-### Profile Notification Settings, Add Email Channel
-
-|Issue|[#214](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/214)|
-|:--|:--|
-|Date|01-2023|
-|Team|Profile, Authenticated Experience|
-|Background|Currently, the existing notification preferences we support all happen to only use text message as their means for getting in touch with users. However, we know that we'll soon need to support notifications that use email as a channel, and maybe some that support both text message and email as options. We want to do some research around how we can incorporate this additional option into the notification preferences interface so that we're ready to move quickly once this becomes a need for both users and stakeholders.|
-#### Objectives
-* Determine usable and scalable approach for adding email as a channel.
-* Determine usable and scalable approach for adding more notification preferences to the page.
-* Determine what level of information people need in order for them to decide whether they want to edit/update their preferences.
-#### Findings
-* The auto-save edit pattern in current designs was unanimously preferred to the read/edit (edit on a separate page) alternative. Participants were easily able understand and interact with our current auto-save pattern, even with more notifications and channels than we have on the page today.
-* People were able to work through these problems without significant guidance from the moderator, but still found the auto-save pattern to be easier and faster to navigate. This further supports the findings from our [profile editing evaluation study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md) that a “one thing per page” approach is not ideal for the short forms in the VA.gov profile.
-* No one was confused by the lack of a save button.
-* People were not totally clear on what to expect from notifications we’ll be bringing over from My HealtheVet.
-* 7 of 8 participants easily navigated the path to add their email address.
-* The repetition of the prompt to add an email address wasn’t overwhelming for most people.
-* Both variations of the design were equally usable on desktop and mobile.
-* Some participants were not clear about where their notifications would be delivered.
-#### Recommendations
-* Use the pattern in the auto-save prototype for notification settings as we add channels and notification options.
-* The prototype replaced the radio buttons we have today with checkboxes. This was easily understood by participants and allows us to cut the number of inputs in half, resulting in a cleaner user interface.
-* Learn more about content of My HealtheVet notifications, and update content accordingly to set clear expectations about what they are.
-* Reconsider how we are encouraging people to add their email address to their profile.
-* Explore how we might make the input message pattern more accessible.
-* Explore how we might surface meaningful and relevant links to people in the notification settings section.
