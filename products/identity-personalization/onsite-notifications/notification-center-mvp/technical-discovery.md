@@ -60,7 +60,10 @@ One potential issue on this page is the presence of redundant headers and links 
 
 
 ### Resources
-- ...
+- [Adding new onsite notifications FE technical discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/frontend/adding-new-onsite-notification.md) (GitHub)
+- Current [actions for onsite notifications](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/notifications.js) on My VA (GitHub)
+- Current [reducers for onsite notifications](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/notifications.js) on My VA (GitHub)
+- Sketch file mockup (TBA)
 
 ## Backend (BE)
 On-site notifications are fetched via the `v0/onsite_notifications` endpoint in Vets API.
