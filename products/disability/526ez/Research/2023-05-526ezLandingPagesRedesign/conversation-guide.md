@@ -56,9 +56,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
+- Are you currently a veteran or active duty?
 - Can you remind me where you are based?
 - Can you remind me of whether you have applied for any VA benefits before? (for determining which scenario to present)
-- Are you currently a veteran or active duty?
 - What is your experience with VA.gov, if any?
 
 ## First Task: [intro & TE alert] - 5 minutes
@@ -67,9 +67,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 ###Task goal: gauge whether or how much vets understand the intro and what language they find clear/confusing 
 
 - Imagine you are here to *insert pertinant scenario,* 
-- Take a moment to look over the page. What is the first thing you would do on this page?
+- Take a moment to look over the page. What is the first thing you would after arriving on this page? [emphasize more after first few interviews]
 - Read everything on this page up until the “Sign in” button at your own pace. You can read aloud or to yourself. let me know when you are finished, and then I will ask you a few questions.
-- DO you think they could make the information here clearer? how so?
+- Do you think the information here could be clearer? how so?
 - On a scale from 1 to 10, 1 being not at all useful, and 10 being very useful, how useful or not was the information in this section of the page?
     - Why did you choose that number?
 -  Is there any information missing from this section that you personally would want to know?
@@ -92,7 +92,7 @@ gauging expandable sections UX on mobile + gauge exapndable alert interaction
 
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful or not was the information in this section?
     - Why did you choose that number?
-    - Is there information here that you feel is not useful or could be cut?
+    - Is there information here that you feel is not useful to you?
 
 - Which parts of this section do you think they could make clearer?
 - Is there any information missing from this section that you personally would want to know?
@@ -124,7 +124,7 @@ QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
     - Why did you choose that number?
 - Is there any information missing from this section that you personally would want to know?
-- Which parts of this section do you think they could make clearer, if any?
+- Which parts of this section do you think could be clearer, if any?
 
 
 ### Things to watch for:
@@ -139,7 +139,7 @@ QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 ## Fourth Task: [Step 3] Gather information - 10 minutes
 
 ###Task goal: gauge whether or how much vets understand step 1 and what language they find clear/confusing + 
-gauging expandable sections UX on mobile + gauge exapndable alert interaction 
+gauging expandable sections UX on mobile + gauge expandable alert interaction 
 
 - IF ON MOBILE: What do you expect to see when you expand section 3?
 - IF ON MOBILE: expand section three
@@ -147,7 +147,7 @@ gauging expandable sections UX on mobile + gauge exapndable alert interaction
 - In your own words, what is the gist of the information in this section?
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
     - Why did you choose that number?
-    - Is there information here that you feel is not useful or could be cut?
+    - Is there information here that you feel is not useful to you? 
 - Is there any information missing from this section that you personally would want to know?
 - Was any of this information confusing or unclear?
 - What is your understanding of the information you read about how disability compensation is determined?
@@ -167,7 +167,7 @@ QUESTIONS CONCERNING EXPANDABLE UI/INFO - BDD
 - Which parts of this section do you think they could make clearer, if any?
 - In your own words, what is your understanding of the benefits delivery at discharge program?
     - If you had to explain the Benefits Delivery at Discharge program to someone else, how 
-        would you do that?
+        would you do that? 
 
 ### Things to watch for:
 
@@ -187,7 +187,7 @@ QUESTIONS CONCERNING EXPANDABLE UI/INFO - BDD
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
     - Why did you choose that number?
 - Is there any information missing from this section that you personally would want to know?
-- Which parts of this section do you think they could make clearer?
+- Which parts of this section do you think could be clearer?
 - If you had to explain "intent to file" to someone else, how would you put it?
 - What did you think when you read the text about the length of time the VA takes to make a decision?
    - Did you find that information useful or not useful?
@@ -204,8 +204,6 @@ SENTIMENT AND TRUST TESTING
 - Now that you have read through this page, is there any information missing from this page that you feel is needed to equip veterans to begin the form on their own?
 - If we needed to shorten this page, is there any information you think we could take out? 
 - From what you have seen here, how long do you think completing the form digitally would take you?
-
-
 
 
 **ONE OF THE FOLLOWING DEPENDING ON TIME:**
