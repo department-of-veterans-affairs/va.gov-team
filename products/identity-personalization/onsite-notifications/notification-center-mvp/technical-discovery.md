@@ -26,18 +26,38 @@ We can follow the [Creating a new application](https://depo-platform-documentati
 One potential issue on this page is the presence of redundant headers and links in the Notification cards.
 
 ### Tasks
-| Task | Point estimation |
-|--- | --- |
-| Inquire Platform team about the last question in Yeoman generator | 2 |
-| Set up new application page (manually or using generator) | 2 |
-| Create mock data and server for new app | 4 |
-| Get state, reducers, actions set up | 5 |
-| Populate with multiple of one type of notification (no pagination) | 4 |
-| Populate with multiple both types of notifications (no pagination) | 4 |
-| Write unit tests | 4 |
-| Write e2e tests | 3 |
-| Set up pagination | 3–4 |
-| Set up breadcrumbs | 3 |
+- [ ] **(Point estimation)** Task
+
+#### Scaffolding
+- [ ] **(2)** Inquire Platform team about the last question in Yeoman generator
+- [ ] **(2)** [Set up new application page](https://depo-platform-documentation.scrollhelp.site/developer-docs/creating-a-new-application) (manually or using generator)
+   - this should live at `/src/applications/notification-center`
+- [ ] Create mock data and server for new app: 
+  - [ ] **(4)** create `/mocks/server.js` with [common API requests and responses](https://depo-platform-documentation.scrollhelp.site/developer-docs/creating-a-new-application)
+  - [ ] **(3)** create `/v0/onsite_notifications` responses
+- [ ] **(5)** Connect to global state, and set up reducers and actions if necessary
+  - Example [actions](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/notifications.js)
+  - Example [reducers](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/notifications.js) (for fetching success or failure)
+
+#### Mid-stack
+- [ ] **(2)** Make sure Notification component is pulling in correct data from API call
+- [ ] **(2)** Make sure actions handle 4xx and 5xx errors
+
+#### Build
+- [ ] **(3)** Populate with notification component (no pagination) 
+- [ ] **(2)** Make any style tweaks
+- [ ] **(3)** Set up breadcrumbs
+- [ ] **(4)** Set up pagination
+
+#### Maintenance
+- [ ] **(4)** Write unit tests
+- [ ] **(3)** Work with Angela to gather use/test cases
+- [ ] **(3)** Write e2e tests
+
+#### Nice-to-dos (backlog)
+- [ ] explore making a common/shared API call for notifications (between `/notification-center/` and `/dashboard/notifications/`)
+- [ ] Set up event tags for GA analytics
+
 
 ### Resources
 - ...
