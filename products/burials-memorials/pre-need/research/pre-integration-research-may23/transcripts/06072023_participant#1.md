@@ -59,6 +59,7 @@ Ok, it seems like we're having some trouble getting the prototype up on your scr
 ## Warm-up Questions - 5 minutes
 - To start, I'd like to ask you a few warm-up questions.
 - Can you tell me a little bit about yourself? [Determine if they're a Veteran, family member, or a personal representative]
+“I’m a vet getting ready to retire after 24 years. I heard about this through a LinkedIn connection. I’m about to be more dependent on VA products.”
 - Did you know that you could apply to see if you're eligible to be buried in a national cemetery at any time?
        - If so, how did you find out?
 - What do you think qualifies you to be buried in a national cemetery?
