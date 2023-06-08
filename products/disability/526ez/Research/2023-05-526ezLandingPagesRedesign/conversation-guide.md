@@ -68,7 +68,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Imagine you are here to *insert pertinant scenario,* 
 - Take a moment to look over the page. What is the first thing you would after arriving on this page? [emphasize more after first few interviews]
-- Read everything on this page up until the “Sign in” button at your own pace. You can read aloud or to yourself. let me know when you are finished, and then I will ask you a few questions.
+- Read everything on this page up until the “Sign in” button at your own pace. You can read aloud or to yourself. Try to look for any information relavant to your situation as a *insert scenario*. If questions come up for you as your e reading feel free to say them out loud.  let me know when you are finished, and then I will ask you a few questions.
 - Do you think the information here could be clearer? how so?
 - On a scale from 1 to 10, 1 being not at all useful, and 10 being very useful, how useful or not was the information in this section of the page?
     - Why did you choose that number?
@@ -88,7 +88,7 @@ gauging expandable sections UX on mobile + gauge exapndable alert interaction
 - IF ON MOBILE: what do you expect to see when you open section 1?
 - IF ON MOBILE: expand section 1 of the form 
 
-- Read Step 1 on this page at your own pace, and look for any information relavant to your situation as a *insert scenario*. Let me know when you have finished. Feel free to read out loud or to yourself. 
+- Read Step 1 on this page at your own pace, and look for any information relavant to your situation as a *insert scenario*. Let me know when you have finished. Feel free to read out loud or to yourself.  If questions come up for you as your e reading feel free to say them out loud
 
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful or not was the information in this section?
     - Why did you choose that number?
@@ -120,7 +120,7 @@ QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 
 - IF ON MOBILE: what do you expect to see when you open section 2? 
 - IF ON MOBILE: expand section two
-- Imagine you are here to *insert pertinant scenario,* read step 2 on this page at your own pace, and look for any information relevant to your situation.
+- Imagine you are here to *insert pertinant scenario,* read step 2 on this page at your own pace, and look for any information relevant to your situation. If questions come up for you as you're reading, feel free to ask them. 
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
     - Why did you choose that number?
 - Is there any information missing from this section that you personally would want to know?
@@ -143,7 +143,7 @@ gauging expandable sections UX on mobile + gauge expandable alert interaction
 
 - IF ON MOBILE: What do you expect to see when you expand section 3?
 - IF ON MOBILE: expand section three
-- As before, read through this section at your own pace. let me know once you’re finished.
+- As before, read through this section at your own pace. let me know once you’re finished. look for any information relavant to your situation as a *insert scenario*. 
 - In your own words, what is the gist of the information in this section?
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
     - Why did you choose that number?
@@ -224,11 +224,14 @@ SENTIMENT AND TRUST TESTING
 
 - What is your understanding of this page?
 - Is it clear which date the form is asking for here?
-- do you think they could make any of the information on this page clearer? how so?
+- do you think the information on this page could be clearer? how so?
 *Click to enter date * *click continue*
+
+**Third page: BDD determination 
 
 - Read through the information here at your own pace.
 - In your own words, what is the gist of the information here?
+- - do you think the information on this page could be clearer? how so?
 - Great! Any last thoughts you want to share before we end?
 
 
