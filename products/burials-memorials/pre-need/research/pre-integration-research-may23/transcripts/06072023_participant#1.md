@@ -62,11 +62,15 @@ Ok, it seems like we're having some trouble getting the prototype up on your scr
 “I’m a vet getting ready to retire after 24 years. I heard about this through a LinkedIn connection. I’m about to be more dependent on VA products.”
 - Did you know that you could apply to see if you're eligible to be buried in a national cemetery at any time?
        - If so, how did you find out?
+“I didn’t. It was something new I wanted to see what it was about.”
 - What do you think qualifies you to be buried in a national cemetery?
+“Just being a service member and you passed away during war.”
 - When thinking about planning for your burial, would you prefer to be buried in a national cemetery?
+“I just assumed it just happened. I didn’t know you have to apply.”
 - Have you applied before to see if you're eligible for burial in a national cemetery? 
     - If Yes: Could you describe how that process went and your thoughts about it?
     - If No: Is that something you would be interested in doing at some point?
+  “I have not applied. I would be interested. Easier on my family and people I could count on if that happened.”
 
 ## Getting Started - 1 minute
 
@@ -84,31 +88,37 @@ Ok, in the prototype we're looking at the start of the Pre-Need application.
 
 ### Questions to ask as they go through scenario
 - **Introduction**
-    - What are your thoughts regarding the content on this page?
+    - What are your thoughts regarding the content on this page? “I would follow the prompt to start and follow the steps. Continue. Easy enough.”
     - Do you feel prepared to start applying?
         - _Things to watch for:
             - Does the user feel the need to click on external links? 
             - Does the user try to open the Privacy Act Statement before continuing?_  
 - **Applicant information - Applicant relationship to service member / Veteran**
-    - Do you understand how to answer the question this screen is asking? 
+    - Do you understand how to answer the question this screen is asking? “Enter ‘Service member’. Pretty easy thus far.”
         - _Things to watch for:
             - Does the user feel the need to open the additional info component? 
             - Does the user experience any confusion in reading details? (Need to scroll to bottom of page)_ 
 - **Applicant information - Applicant demographics**
-    - What are your thoughts regarding the messaging for potentially sensitive questions? 
+    - What are your thoughts regarding the messaging for potentially sensitive questions? “I don’t personally. Others may. No thoughts on the questions.”
     - What are your thoughts on the questions themselves?
 - **Military history - Military details**
-    - _Keep an eye out for confusion regarding status dropdown options_ 
+    - _Keep an eye out for confusion regarding status dropdown options_ “Easy enough.”
 - **Military history - Service periods**
-    - Are you prepared to answer these questions or would you need to look them up? 
+    - Are you prepared to answer these questions or would you need to look them up? “I think most people just have one service period. For me, I’ve had several service periods. It would be helpful in the beginning to say ‘For this application, you’ll need these ___ documents and dates’ so I can prepare, or if someone is filling this out on behalf of a veteran. For me, I would hit the button that says, ‘Add another service period’.”
     - What would you do if you didn't have this information on hand?
+“I see that there is an option to finish the application later so it would save.”
 - **Supporting docs** 
     - Do you think you would need to upload something here to continue?
+“If you read through, it states it’s not required. If someone doesn’t have the forms in front of them, it’s nice.”
     - How would you go about uploading this if you're on a mobile device?
+“I would select the file from wherever I have the doc saved.”
     - What are your thoughts regarding the allowed file type?
+“PDF or Jpeg. I think a photo of the doc would upload. I would be able to convert to a PDF.”
 - **Confirmation** 
     - What would you do at this point?
+“Review the information I entered and submit. Green check mark success. I would do what it says. Print for my records in case something happens. Send documents If I want to add anymore. Read through what will happen after I applied.”
     - When do you think you would get a decision? 
+“Probably between a month – 90 days. Optimistically, I would check in 2 weeks. So far everything has been streamlined with the VA so far. There have been major improvements since I got out the last time.”
 
 ## Task 2: Applying for Self - Applicant is Non-Veteran - 15 minutes
 
@@ -203,12 +213,12 @@ Ok, in the prototype we're looking at the start of the Pre-Need application.
 
 ## Post-Task Interview - 5-10 minutes
 Wonderful! Thank you so much for walking through that with us and telling us your thoughts. We just have a few questions to ask before we wrap up our session for today. 
-- What did you think of the application process overall?
-- On a scale of 1 to 5 with 1 being the lowest and 5 being the highest, how would you rate the application process for Pre-Need that you just experienced?
-- On a scale of 1 to 5, how mobile-friendly do you think it is?
+- What did you think of the application process overall? “Easy enough. Seems in line with each of the services and benefits you apply for. Nothing outlandish for this eligibility. Straight to the point.”
+- On a scale of 1 to 5 with 1 being the lowest and 5 being the highest, how would you rate the application process for Pre-Need that you just experienced? “5. Even my small concern of having documents prepared before, you can still save.”
+- On a scale of 1 to 5, how mobile-friendly do you think it is? “5. Easy.”
 - If you could snap your fingers and recreate the application process for pre-need to make it better, what would that process look like? 
-    - How would you do things differently?
-- Is there anything else on your mind that we didn't ask?
+    - How would you do things differently? “Nothing really. Everything was pre-populated which made it easy. If it wasn’t, it would take me longer. Nothing too complicated except service periods for my situation.”
+- Is there anything else on your mind that we didn't ask? “No. You guys are doing a great job.”
 - I'm going to ask my colleage [Charlie or Cindy] if they have questions at this time **Only if there are observers:** and also check the channel to see if any of our observers have any questions. [Check Teams chat for questions]
 - Do you have any questions for me?
 
