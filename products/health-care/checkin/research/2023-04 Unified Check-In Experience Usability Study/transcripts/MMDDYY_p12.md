@@ -146,13 +146,40 @@ Great. Now, I’m going to send you an automated response back. When you receive
 
 #### Instructions for Using Email 
 
-So, let’s pretend that you have an upcoming appointment that’s on Monday, February 2 at 8:00 am. And, let’s pretend that that’s in a few days from now. 
+So, what I'd like to do now is send you an email and pretend it's VA sending you a text message and have you review it. Does that sound okay? 
 
-The first text message that the VA sends asks for you to confirm the date and time of your appointment. And, if you respond, "Yes" that it's correct, then the VA sends you a second text. Now, I'm going to email you what's included in that second text message. Does that sound okay?  
+Great. And, could you confirm your email address?
 
-And, when you receive that email, go ahead and review it, but I'd like to ask you a couple questions before you take any action. 
+Perfect. Now, let's pretend that you have an upcoming appointment that's on Monday, February 2 at 8:00 am. And, let's pretend that that's in a few days from now. 
 
-*You’ve confirmed your VA appointment on FEB 2 at 08:00. To prepare for your appointment, check if your information is up to date: https://codepen.io/team/va-cie/live/NWORQEe*
+Now, we're going to send you an email with the information that would be included in those text messages from VA. And, when you receive the email, go ahead and review the message, pretending it's a text message that you received on your smartphone. 
+
+*Text message 1 of 2.*
+
+*Your VA appointment is on FEB 2 at 08:00.*
+
+*Reply:*<br>
+*Y1 to CONFIRM*<br>
+*N1 to CANCEL*<br>
+*D1 for DETAILS*
+
+*For more info call 909-825-7084 options 2 or reply HELP.*
+
+*Got a fever, cold cough or flu-like symptoms? Stay home and phone VA first: (909) 825-7084 ext. 5085.*
+
+*Don't catch the bug. Ask your provider to receive your flu shot! Get yours at the VA or anytime at Walgreens Pharmacy.*
+
+*Find a location of the closest pharmacy here: https://go.usa.gov/xGQk2*
+
+*Send STOP to end messages.*
+
+*Text message 2 of 2.*
+
+*Your appointment for FEB 2 at 08:00 is confirmed. To prepare for your appointment, check if your information is up to date: https://codepen.io/team/va-cie/live/NWORQEe*
+
+- Great. And, what would you do next after the first text message? 
+
+Great. Now, go ahead and review the second text message. 
 
 #### Pre-Check-In Text Message Task Questions
 
