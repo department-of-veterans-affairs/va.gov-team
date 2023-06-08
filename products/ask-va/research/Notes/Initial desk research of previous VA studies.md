@@ -26,7 +26,7 @@ Last updated by @tygindraux on June 8, 2023
 
 ### Profile Notification Settings, Add Email Channel
 
-`one thing per page` `forms`
+`one thing per page` `forms` `accessibility`
 
 |Issue|[#214](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/214)|
 |:--|:--|
@@ -54,6 +54,7 @@ Last updated by @tygindraux on June 8, 2023
 * Explore how we might make the input message pattern more accessible.
 * Explore how we might surface meaningful and relevant links to people in the notification settings section.
 
+---
 
 ### Disabled Veteran Accessibility Feedback
 
@@ -224,13 +225,37 @@ Last updated by @tygindraux on June 8, 2023
 
 ### Profile Editing Evaluation
 
-`one thing per page` `forms`
+`one thing per page` `forms` `accessibility`
 
 |Issue|[#181](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/181)|
 |:--|:--|
 |Date|2022-09|
 |Team|VA.gov Profile, Authenticated Experience|
-|Background| |
+|Background|Accessibility specialists have been advocating for a “one thing per page” pattern for VA.gov forms for the last year. This pattern is known to improve the usability for complex forms by reducing cognitive load, improving error messages, reducing load times and more. We’re considering this pattern for profile, but we’re not sure if there are actual user problems this would solve since profile has relatively simple forms. This research will help us identify usability problems that would be solved by this approach.|
+#### Objectives
+* Learn whether or not our edit-in-place pattern presents major usability problems for people with cognitive disabilities on mobile devices.
+* Identify any other usability hurdles in profile.
+#### Findings
+* 9 of 11 participants were able to update a VA.gov profile with in-line editing with relative ease.
+* 5 of 11 participants experienced some minor confusion during the address validation process.
+* In the contact information section, we observed some usability hurdles that slowed multiple people down.
+* Participants were not bothered by encountering multiple alerts when updating contact information, though it took some longer than others to comprehend the information.
+* 6 of 11 participants were disrupted by having to leave the notification settings page to add a mobile number.
+* 5 participants missed the “Board of Veteran’s Affairs Hearing Reminder” notification name, which led to a misunderstanding about what the notification was for.
+* 9 of 11 participants, including screenreader users, found in-line editing and a “one thing per page” approach to be equally usable.
+ * No one commented on noticing they were going to a new page or staying on the same page without being prompted.
+ * Once prompted, 8 participants stated they had not noticed they were going to a new page in the prototype, and shared their thoughts about the different approaches: 2 participants stated they preferred the one-thing-per-page approach of the prototype, 4 participants preferred to be on one page, and 5 had no preference.
+ * Both participants who preferred the one-thing-per-page prototype said they preferred it because it felt simpler. This is likely due to the fact that the participants didn’t encounter any alerts like they did on VA.gov.
+ * 3 participants shared concerns that loading a new page would negatively impact internet bandwidth.
+ * 1 participant struggled to complete tasks that required multiple pages or disruptions: struggled to stay on task when having to go from one page to another, such as adding a mobile phone number while updating notification settings, struggled to recall to navigate from page to page, despite having already used the navigation menu in the setting, repeatedly triggered the same modal, seemingly unsure how to resolve the problem.
+#### Recommendations
+* For general editing functionality, continue using the single page editing pattern that is in place today.
+* Improve the user experience for buttons in profile.
+* Review analytics around our “currently editing another section” alert.
+* Explore how we might simplify the address validation flow, and how to leverage analytics to see if quantitative data support what we observed in the study.
+* Explore solutions to improve the user experience of managing notification settings when no contact information is on file.
+* Improve the visibility of the notification name.
+* Keep the extreme “short term memory loss” use case at the forefront for future design iterations.
 
 ---
 
@@ -779,3 +804,7 @@ Unable to access.
 * Veterans are generally not finding “My VA” and “My Health” in the top right of the page
 * Deep links into eBenefits are not useful, users attempting to upload documentation cannot complete task
 * Each new tab opening up eBenefits requires user to login again, credential is not being shared across tabs
+
+---
+
+Note: There are other studies that look at the 'one thing per page' pattern which can be [found here](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue+%22one+thing+per+page%22+).
