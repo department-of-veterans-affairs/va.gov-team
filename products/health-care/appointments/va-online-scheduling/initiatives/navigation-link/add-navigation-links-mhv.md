@@ -41,25 +41,22 @@ These are based on the [Sitewide IA Recommendations](https://github.com/departme
 - Top level URLs will be
     - Manage appts: `www.va.gov/my-health/appointments`
     - Schedule appts: `www.va.gov/my-health/appointments/schedule`
+       - The type of care page URL be `www.va.gov/my-health/appointments/schedule/type-of-care` 
 - Page title tags will follow [the format described in the design system](https://design.va.gov/content-style-guide/seo#title-tags): `[H1 Page Title] | Veterans Affairs`
 - Top level breadcrumb will be `VA.gov home > My HealtheVet > Appointments` 
 - Details pages will show descriptive back links instead of a breadcrumb: `< Back to [h1 of previous page]
+- IA will review the full list of URLs for the MVP
+- We will not change heading content as part of this effort
+- We will remove cc/va from the details page URLS
 
 **Not doing:**
 - We will not update the cancelation flow for this round. We'll revisit moving it to separate pages when we look at updating that flow in te future
+- Parameter based URLS: Due to technical issues with the way we get Request data, this structure would add complexity and cause performance issues. However, if the data we receive back is improved this would be a helpful technical improvement. We'll revisit this when we look at the request data. UX will add a ticket outlining this approach to the idea board.
 
 **Open questions:**
-- Still working through parameter-based URL structure with IA.
-- Should the type of care page URL be `www.va.gov/my-health/appointments/schedule/type-of-care`? 
-    - If so, the top level `schedule` URL would redirect there.
-- The [list of scheduling URLs isn't complete](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/health-appointments.md#urls-and-breadcrumbs---scheduling-pages); are more recommendations coming? 
-    - Are these recommendations for all scheduling flows? Or just VA direct?
+
 - Should there be a breadcrumb on confirmation pages?
-  - We won't send them back to the form flow
-  - There are already links providing a path forward
-- Requests aren't appointments - should the URL path define them differently?
-- Can we replace breadcrumb with  descriptive back link pattern on scheduling pages?
-   - In dynamic flow, can we surface name of previous page?
+    - 06/08 Meeting: Agreed that we should treat it like the rest of the details pages and include the descriptive back link. We'll map out this flow and share with IA.
 
 ---
 ## Measuring Success
