@@ -53,7 +53,7 @@ As mentioned above, there are a handful of existing and new notifications/prefer
 
 Given that we are working with existing notifications for which people have existing preferences saved, we'll need to talk to VA Profile about whether a data migration is possible or not.
 
-[ANS] A call in May 2023 this was discussed, MHV data isn't supposed to leave MHV without explicit approval of the veteran/user. 
+**[ANS]** A call in May 2023 this was discussed, MHV data isn't supposed to leave MHV without explicit approval of the veteran/user. 
 
 **When do we need to integrate the actual notifications with VANotify?**
 
