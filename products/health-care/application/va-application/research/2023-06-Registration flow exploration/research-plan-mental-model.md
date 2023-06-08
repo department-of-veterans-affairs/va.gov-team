@@ -64,10 +64,10 @@ What do you intend to learn and measure from this study? Think through these pro
 
 
 **Hypothesis 1**
-- We assume that Veterans will not use the term registration only when referring to health care benefits but will talk about enrollment and eligibility.
- 
- **Hypothesis 2**
-
+- We assume that Veterans will not use the term "registration only" when referring to health care benefits but will be familiar with enrollment and eligibility.
+- We assume the overall process of determining eligibility and being placed in a Priority Group is somewhat unclear to Veterans.
+- We assume adding the term/step of "registration" will add to the confusion around health care benefits. 
+- We assume not all Veterans go through the enrollment process in one go, there is often an exam and other claims filed in between. 
 - 
 
 ## Methodology	
@@ -85,7 +85,7 @@ Remote via Zoom
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated interviews:
-- [Link to conversation guide](url goes here) 
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model.md) 
 
 	
 ## Recruitment	
@@ -109,6 +109,8 @@ Which inclusive research strategies are you leveraging for this study? OCTO reco
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
+
+
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
@@ -127,7 +129,7 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
+* Pilot participant email: 
 * Date and time of pilot session: 
 
 ### Research sessions
