@@ -16,9 +16,9 @@
 ### Footer decisions
 
 #### Assumptions
-* We will keep the 4 "buckets" as-directed by OFCIO and validate the headers (Information for, More resourcecs, Connect with us, Contact us) as we understand it: "The goals of the 4 columns is to put the same kind of information in the same place on the HISP footers"
-* The footer is not just for Veterans, the "Information for" first column is to use non-core audience off-ramps via that first column.
+* We will keep the 4 "buckets" as-directed by OFCIO and validate the headers (Information for, More resources, Connect with us, Contact us) as we understand it: "The goals of the 4 columns is to put the same kind of information in the same place on the HISP footers"
 *  The "Contact us" header in the footer may be a bit misleading. Will need to validate through research. Is the expectation of "Contact us" that I, as a user, am directly contacting VA
+*  Whether or not the footer is just for Veterans or if the "Information for" first column is to use non-core audience off-ramps via that first column is open for discussion. We will use this for our core audience because there is a mix of off-ramps in other places.
 
 3/21/2023 - Meeting to cross walk existing footer with new footer - Attendees: Ryan T, Mikki N., Dave C., Danielle T.
 
