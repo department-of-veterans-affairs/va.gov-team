@@ -55,9 +55,8 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
      3. Hours of operation--2 sets of hours in a single day (i.e., morning and afternoon but closed for lunch hour)
 3. Do Veterans understand the actions they need to take to receive the service (make an appointment, walk-in, bring required documents, etc.)?
 11. What do Veterans expect to find under the service accordions?
-     5. Do Veterans understand the different categories of service offerings?
-     6. When prompted with specific tasks, do Veterans navigate to an appropriate service accordion
-     7. ? 
+     1. Do Veterans understand the different categories of service offerings?
+     6. When prompted with specific tasks, do Veterans navigate to an appropriate service accordion?
      8. What happens if Veterans _don't_ find an applicable service accordion on the page? 
      9. Do Veterans expect to find different details for different services?
      10. How do Veterans interact with service offering accordions that have multiple locations inside them? Do they click on links for more info?
