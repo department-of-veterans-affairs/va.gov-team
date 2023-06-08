@@ -65,6 +65,7 @@ The Sprint 0 meeting is a time to do the following:
 
 * [Sprint 0: Submit Feedback](https://docs.google.com/document/d/12PejlFxL-OanOAnxJHqMLTawYnvfcNcRavPp2yVI3_w/edit#heading=h.mnq6vtjqteg4) (Tim R)
 * In-app Perigean recruiting (Jen E)
+*  This was approved by the VA POs to proceed with 
 
 
 ## 5/10/23
