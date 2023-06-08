@@ -54,7 +54,7 @@ Ok, it seems like we're having some trouble getting the prototype up on your scr
 
 ## Warm-up Questions - 5 minutes
 - To start, I'd like to ask you a few warm-up questions.
-- Can you tell me a little bit about yourself? I am a CAN/Medication assistant working in Spokane WA. I take care of dementia and rehabilitate patients form the Hospital. I am an Air force spouse; my husband is active duty and I have 4 kids with one graduating. 
+- Can you tell me a little bit about yourself? I am a CNA/Medication assistant working in Spokane WA. I take care of dementia and rehabilitate patients form the Hospital. I am an Air force spouse; my husband is active duty and I have 4 kids with one graduating. 
 - Did you know that you could apply to see if you're eligible to be buried in a national cemetery at any time? I did not know that. 
 - What do you think qualifies you to be buried in a national cemetery? Probably military status. 
 - When thinking about planning for your burial, would you prefer to be buried in a national cemetery? I just want to be buried with my husband. Wherever he is, is where I would like to be if he gets buried. 
