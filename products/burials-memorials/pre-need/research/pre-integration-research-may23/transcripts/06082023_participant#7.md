@@ -29,7 +29,7 @@
 
 - I'm going to send you a link in the chat that I would like for you to open.
 
-[Pre-Integration v0.1 InVision Prototype UT Link](https://bahdigital.invisionapp.com/console/share/HF26GKB9W7Q)
+[Pre-Integration v0.1 Invasion Prototype UT Link](https://bahdigital.invisionapp.com/console/share/HF26GKB9W7Q)
 
 - Okay, now I'm going to ask you to share your screen in Zoom so that we can look at the prototype together and then we'll begin.
 - **Zoom screensharing on desktop:** Locate green Share Screen button on the bottom tool pane.
@@ -43,162 +43,80 @@ _Can actually do this while explaining to them where to find “Chat” and “S
 **Backup plan if they cannot figure out how to share screen:**
 
 Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You can tell me what to do, what to tap, on, etc. Does that sound ok?
-- [Share your screen]. Can you confirm if you can see my screen?
+- [Share your screen]. Can you confirm if you can see my screen? Yes 
 
 ////// **Recording Instructions** //////
 
-- Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
-    - **If yes:** Once I start recording, I am going to confirm that you are ok with me recording this session once more. 
-    - **If no:** That's ok. We can use our notes to complete our analysis.
-
+- Are you comfortable if I record my screen and audio as we talk today?  That’s fine. 
 *If yes, start recording to the Cloud.*
-
-- I have started recording. I'd like to confirm: Are you comfortable if I record my screen and audio as we talk today?"
+- I have started recording. I'd like to confirm: Are you comfortable if I record my screen and audio as we talk today?"  Yes. 
 - Ok. Now we're really ready to begin!
 
 ## Warm-up Questions - 5 minutes
 - To start, I'd like to ask you a few warm-up questions.
-- Can you tell me a little bit about yourself? [Determine if they're a Veteran, family member, or a personal representative]
-- Did you know that you could apply to see if you're eligible to be buried in a national cemetery at any time?
-       - If so, how did you find out?
-- What do you think qualifies you to be buried in a national cemetery?
-- When thinking about planning for your burial, would you prefer to be buried in a national cemetery?
-- Have you applied before to see if you're eligible for burial in a national cemetery? 
-    - If Yes: Could you describe how that process went and your thoughts about it?
-    - If No: Is that something you would be interested in doing at some point?
+- Can you tell me a little bit about yourself? I am a CAN/Medication assistant working in Spokane WA. I take care of dementia and rehabilitate patients form the Hospital. I am an Air force spouse; my husband is active duty and I have 4 kids with one graduating. 
+- Did you know that you could apply to see if you're eligible to be buried in a national cemetery at any time? I did not know that. 
+- What do you think qualifies you to be buried in a national cemetery? Probably military status. 
+- When thinking about planning for your burial, would you prefer to be buried in a national cemetery? I just want to be buried with my husband. Wherever he is, is where I would like to be if he gets buried. 
+- Have you applied before to see if you're eligible for burial in a national cemetery?  I have not. 
+    - If No: Is that something you would be interested in doing at some point? Yes for this purpose buts it’s not something I would just google. 
 
 ## Getting Started - 1 minute
 
 - When applying to see if you're eligible for burial in a VA national cemetery, the VA Pre-Need application can be used. I'm going to give you a scenario for you to walk through a prototype of this application and give us your thoughts.
-- The prototype link I shared is a work in progress, so there might be a few mistakes, or it may not function exactly the way you expect, which is ok. Some areas will be clickable and some will not and some fields will fill in when you click on them.
+- The prototype link I shared is a work in progress, so there might be a few mistakes, or it may not function exactly the way you expect, which is ok. Some areas will be clickable, and some will not, and some fields will fill in when you click on them.
 - While you're going through the scenario, it would be really helpful if you'd think aloud - kind of like you'd do if you were talking to yourself. We are interested in your first reactions, what you're thinking & wondering as you go through the process. The more you say about what you are thinking and wondering, the more we’ll learn, so we want to hear your honest opinions. We're not testing your ability. We just want to improve the form to better meet Veteran's needs. We won't be offended by any opinions you express, and we welcome your feedback.
 - When you think aloud, it helps us understand what works well and where we might want to make improvements to make things even easier. If you have questions, it’s likely that many other Veterans will, as well, so feel free to ask them along the way. 
 
 [Note:  Each participant will go through **ONE** of the tasks below.]
 
-## Task 1: Applying for Self - Applicant is Veteran - 15 minutes
+## Task 2: Applying for Self - Applicant is non-Veteran - 15 minutes
 
 Ok, in the prototype we're looking at the start of the Pre-Need application. 
-- **Scenario:** For your scenario, pretend that you are Sammy Smith, a Navy Veteran, and that you want to plan for the future and find out if you're eligible for burial in a VA national cemetery. How would you go about filling out this application?  In this example, you are already signed in to VA.gov.
+- **Scenario:** For your scenario, pretend that you are Sammy Smith. You are married to a service member. You want to plan for the future and apply for yourself to see if you're eligible for burial in a VA national cemetery. Your spouse is sponsoring your benefits. How would you go about filling out this application for yourself?  I would read. So I would click on the blue link. 
+- Why: It stands out to me. 
+- Didn’t need to select any links: Well I wanted to in the beginning only because I saw it. I was looking for the application. 
+-  You mentioned clicking on the green box: Yes
+- I would scroll down and read the directions again. Okay, I would click on the arrow that says start the pre-need eligibility. 
 
 ### Questions to ask as they go through scenario
 - **Introduction**
-    - What are your thoughts regarding the content on this page?
-    - Do you feel prepared to start applying?
-        - _Things to watch for:
-            - Does the user feel the need to click on external links? 
-            - Does the user try to open the Privacy Act Statement before continuing?_  
 - **Applicant information - Applicant relationship to service member / Veteran**
-    - Do you understand how to answer the question this screen is asking? 
-        - _Things to watch for:
-            - Does the user feel the need to open the additional info component? 
-            - Does the user experience any confusion in reading details? (Need to scroll to bottom of page)_ 
-- **Applicant information - Applicant demographics**
-    - What are your thoughts regarding the messaging for potentially sensitive questions? 
-    - What are your thoughts on the questions themselves?
-- **Military history - Military details**
-    - _Keep an eye out for confusion regarding status dropdown options_ 
-- **Military history - Service periods**
-    - Are you prepared to answer these questions or would you need to look them up? 
-    - What would you do if you didn't have this information on hand?
-- **Supporting docs** 
-    - Do you think you would need to upload something here to continue?
-    - How would you go about uploading this if you're on a mobile device?
-    - What are your thoughts regarding the allowed file type?
-- **Confirmation** 
-    - What would you do at this point?
-    - When do you think you would get a decision? 
-
-## Task 2: Applying for Self - Applicant is Non-Veteran - 15 minutes
-
-Ok, in the prototype we're looking at the start of the Pre-Need application. 
-- **Scenario:** For your scenario, pretend that you are Sammy Smith. You are married to a service member. You want to plan for the future and apply for yourself to see if you're eligible for burial in a VA national cemetery. Your spouse is sponsoring your benefits. How would you go about filling out this application for yourself?  In this example, you are already signed in to VA.gov.
-
-### Questions to ask as they go through scenario
-- **Introduction**
-    - What are your thoughts regarding the content on this page?
-    - Do you feel prepared to start applying?
-        - _Things to watch for:
-            - Does the user feel the need to click on external links? 
-            - Does the user try to open the Privacy Act Statement before continuing?_  
-- **Applicant information - Applicant relationship to service member / Veteran**
-    - Do you understand how to answer the question this screen is asking? 
-        - _Things to watch for:
-            - Does the user feel the need to open the additional info component? 
-            - Does the user experience any confusion in reading details? (Need to scroll to bottom of page)_ 
+- I am married to a spouse and want to see if I am eligible, Correct. I can’t remember the scenario. I would click the box that says I am applying for myself and click continue. 
+-  I would click spouse or surviving spouse tab.  
+    - Do you understand how to answer the question this screen is asking?  Yes it is very clear. 
 - **Sponsor information - Sponsor details**
-    - What are your thoughts regarding whose details you'll need to provide here? 
+    - What are your thoughts regarding whose details you'll need to provide here?  I would have to have my sponsors first and last name too, which is required. I would click the social security number that’s required and scroll down because they aren’t dead. Oh sponsor DOB I would click that in even though it’s not required. Then continue since it wasn’t required. 
 - **Sponsor information - Sponsor demographics**
-    - What do you think about the messaging for potentially sensitive questions?
-    - What are your thoughts on the questions themselves?
+- How do you feel about this statement here: It doesn’t make me feel any way. It seems like a general question. I would answer the questions. We are married. Then Continue. 
 - **Sponsor information - Sponsor's passing **
-    - What do you think about the messaging for potentially sensitive questions here?
-    - Is anything confusing or concerning to you?
-    - Why do you think this information is collected?
+    -  they have not passed away so no. 
+- Feel obligated to text it: I did read the text. 
+-  How do you feel it: I deal with death on a daily basis so it doesn’t bother me but if someone just experienced death it might upset them. It is something that needs to be required. I understand they may be update but I understand the need for the question since it is saying it is difficult but. Essentially they are saying sorry for the loss if it happened. So I would click continue. 
 - **Military history - Sponsor's military details**
-    - _Keep an eye out for confusion regarding status dropdown options_ 
+-  I would click on the box, skip the claim number and go to the next drop box to click on it. What would happen if we didn’t know that claim number or didn’t have one. 
+Do you feel obligated to have it to put here: I was only seeing if I was eligible to be buried in a national cemetery. I feel like I wouldn’t already have a claim number. That’s what I feel like they are asking. I didn’t know it. 
+- I would click the box and put active duty if they are still in then continue. 
 - **Military history - Sponsor's service periods**
-    - Are you prepared to answer these questions or would you need to look them up? 
-    - What would you do if you didn't have this information on hand?
+- I would click the box and select their branch of service. Since the other stuff doesn’t have it as required so I would scroll down and hit continue. 
+- I guess no and hit continue. 
 - **Burial benefits - Previous decedents**
-    - What are your thoughts regarding the questions on the page?
-    - Do you have thoughts or feedback for this page?
+    -  For this one the National Cemetery in AZ. I would scroll down. I would say no and school down to hit continue. 
 - **Supporting docs** 
-    - Do you think you would need to upload something here to continue?
-    - How would you go about uploading this if you're on a mobile device?
-    - What are your thoughts regarding the allowed file types [PDFs]?
+   - I would say I already have my stuff ready and upload a file. I would click the dropbox. Well, I did not click on the link for needed documents so I would think it would be marriage or dependent related. I said my active is spouse prior but it’s okay. I would upload the file by scrolling down. Click upload. Then I guess I would click continue. 
+    - How would you go about uploading this if you're on a mobile device? You can upload a file by taking a picture of it so I feel like that could be an option. I was not aware of what I needed to upload because I was lazy and did not click the link to know the needed documents. 
+    - What are your thoughts regarding the allowed file types [PDFs]? I would be okay, but I feel like you could only use a computer. What if I don’t have the file on my phone. If I was more phone savvy I would have documents on my phone or drive or google to put the documents there but I don’t so I would feel the need to only fill it out on the computer. 
 - **Contact information - Sponsor address/contact details** 
-    - Would you have this on hand or would you need to look it up?
+- I would fill in the required information. Keep scrolling down. Enter in the other required information. The required email. Then hit continue. 
+    - Would you have this on hand, or would you need to look it up? Um, myself no I would know it. 
+- would not need to look at this link here: No. 
+- Why: I am a risk taker. I don’t know why I wouldn’t. Maybe we should click it just in case. Scroll down and hit continue.
+¬ I wouldn’t fill it out if it weren’t required. 
+-  review: I would say I read it and click submit application. Then scroll down. I would click that to see where that would go. I would read what it said and yeah.  
 - **Confirmation** 
     - What would you do at this point?
     - When do you think you would get a decision? 
 
-## Task 3: Applying for Someone Else - Applicant is Non-Veteran - 20 minutes
-
-Ok, in the prototype we're looking at the start of the Pre-Need application. 
-- **Scenario:** For your scenario, pretend that you are Sammy Smith. You're a navy Veteran, and you have an unmarried adult child who is 20 years old. You want to plan for the future and find out if your adult child is eligible for burial in a VA national cemetery under your benefits. How would you go about filling out this application?  In this example, you are already signed in to VA.gov.
-
-### Questions to ask as they go through scenario
-- **Introduction**
-    - What are your thoughts regarding the content on this page?
-    - Do you feel prepared to start applying?
-        - _Things to watch for:
-            - Does the user feel the need to click on external links? 
-            - Does the user try to open the Privacy Act Statement before continuing?_  
-- **Applicant information - Applicant relationship to service member / Veteran**
-    - Do you understand how to answer the question this screen is asking? 
-        - _Things to watch for:
-            - Does the user feel the need to open the additional info component? 
-            - Does the user experience any confusion in reading details? (Need to scroll to bottom of page)_ 
-- **Sponsor information - Are you the sponsor? Y/N**
-    - Would you have questions about what to select here? _[They should pick Yes based on the task]_
-    - Whose details do you think you would need to provide if you picked No?  
-- **Sponsor information - Sponsor details**
-    - What are your thoughts regarding whose details you'll need to provide here? 
-- **Sponsor information - Sponsor demographics**
-    - What do you think about the messaging for potentially sensitive questions?
-    - What are your thoughts on the questions themselves?
-- **Military history - Sponsor's military details**
-    - _Keep an eye out for confusion regarding status dropdown options_ 
-- **Military history - Sponsor's service periods**
-    - Are you prepared to answer these questions or would you need to look them up? 
-    - What would you do if you didn't have this information on hand?
-- **Burial benefits - Previous decedents**
-    - What are your thoughts regarding the questions on the page?
-    - Do you have thoughts or feedback for this page?
-- **Supporting docs** 
-    - Do you think you would need to upload something here to continue?
-    - How would you go about uploading this if you're on a mobile device?
-    - What are your thoughts regarding the allowed file types [PDFs]?
-- **Contact information - Sponsor address/contact details** 
-    - Would you have this on hand or would you need to look it up?
-- **Contact information - Preparer info/address/contact details** 
-    - Would you have this on hand or would you need to look it up?
-    - What are your thoughts on the information being prefilled here?
-    - Do you understand the difference between a sponsor and a preparer?
-- **Confirmation** 
-    - What would you do at this point?
-    - When do you think you would get a decision? 
 
 ## Post-Task Interview - 5-10 minutes
 Wonderful! Thank you so much for walking through that with us and telling us your thoughts. We just have a few questions to ask before we wrap up our session for today. 
@@ -208,14 +126,14 @@ Wonderful! Thank you so much for walking through that with us and telling us you
 - If you could snap your fingers and recreate the application process for pre-need to make it better, what would that process look like? 
     - How would you do things differently?
 - Is there anything else on your mind that we didn't ask?
-- I'm going to ask my colleage [Charlie or Cindy] if they have questions at this time **Only if there are observers:** and also check the channel to see if any of our observers have any questions. [Check Teams chat for questions]
+- I'm going to ask my colleagues [Charlie or Cindy] if they have questions at this time **Only if there are observers:** and also check the channel to see if any of our observers have any questions. [Check Teams chat for questions]
 - Do you have any questions for me?
 
 ## Thank You and Closing - 2 minutes
 
 - Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the VA.gov Pre-Need application to make sure that it really works for Veterans.
 - Thanks so much! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
-- Thank you so much again, and enjoy the rest of your day!
+- Thank you so much again and enjoy the rest of your day!
 
 **STOP RECORDING** 
 
@@ -223,4 +141,4 @@ Wonderful! Thank you so much for walking through that with us and telling us you
 
 ## Emergency Exit
 
-> [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
+> [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so it’s easy to find during a session. Take some time to practice so it feels more comfortable.]
