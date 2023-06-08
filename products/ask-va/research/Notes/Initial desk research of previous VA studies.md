@@ -396,12 +396,21 @@ Unable to access.
 * Users wanted detailed facility information such as address, hours of operation, facility status, and phone numbers during their VA facility search.
 * While most participants understood VA.gov’s facility terminology, a few users were confused by the term "VA Health," and did not expect Specialties or Services to be under the "VA Health" option.
 * While most participants had their own reliable transportation, they were aware that others might need transportation assistance.
-
+* Users' utterances and information gathering methods vary both by user and their personal use cases. As some users preferred to input their own text, presenting the user with multiple paths to their answer promotes the findability of key information.
+* Users were not able to clearly understand the department extension information in the auto-dial format, “555-555-5555,,5555.” Some also said they wanted more information than just the department phone number in the same response.
+* Some users were confused or had a hard time finding their desired information when they were redirected to just the top of the facility information page and not directly to the relevant section.
+* Many users said that they would search VA facility information on a search engine or website because existing platforms, like Google and VA.gov, already meet their needs.
+* Users liked that the Virtual Agent knew their VA Medical Center or Clinic based on their ZIP Code, but were unsure how to update that information in their account if it was out of date.
 #### Recommendations
 * Display at least two nearby locations with the option to view additional locations if desired.
 * Provide full facility information
 * Add additional, clarifying examples between parentheses for certain categories, ex. “VA Health (Medical Centers & Clinics).”
 * Include information on transportation assistance where available.
+* Provide multiple paths to get to the same information. For example, if users are looking for specialty care in their area, let them start by searching for either specialty care or nearby locations first rather than forcing them down a path they may not otherwise want to take.
+* When providing phone extensions, display phone number and extension in a clearly-readable format while keeping the hyperlink embedded in that display. Also consider providing a link with additional information.
+* Users expected hyperlink experiences to be seamless. Specifically, they expected their chat button selections to route directly toward a solution on the linked webpage.
+* When the Virtual Agent is unable to correctly identify the user's current address (i.e., if their contact information on VA.gov is out of date), provide instructions for users to update their profile.
+* Be sure to recognize ZIP Code to search for relevant VA facilities and locations as well as city and state or the name of a specific facility.
 
 ---
 
@@ -412,6 +421,11 @@ Unable to access.
 |Date|2021-11|
 |Team|Virtual Agent|
 |Background|This research was for Veteran preference for drupal content responses, claims feature feedback and to learn other topics Veterans would be interested to engage with the chatbot.|
+#### Findings
+* Veterans consistently preferred the preview response for Drupal content because it provided just enough context to make them confident that the webpage link would set them down the right path. They appreciated the full response, but overall felt it was too much info in a small space. The info was more digestible after they followed the link.
+* When Veterans were allowed to ask any general topic question, the results for a correct response were mixed.
+* The Claims feature was viewed very impressively. Veterans felt that they understood the information provided, really liked that the representative was included, and really appreciated the loading text when the bot was making its API call.
+* There was some confusion for the “Speak to Agent” button. Some thought it would provide contact info or connect them to their claim representative, others thought it would make a phone call to the VA, while only a couple thought it would connect them to a live agent chat in the same chatbox.
 
 ---
 
@@ -422,6 +436,47 @@ Unable to access.
 |Date|2021-07|
 |Team|VSP Contact Center|
 |Background|This study is being conducted by the VSP Contact Center team. The study follows the Ask VA (AVA) tool, which enables veterans and VA.gov users to submit inquiries digitally.|
+#### Objectives
+* Are users able to submit inquiries successfully and without hindrance?
+* Are users able to navigate and access previous inquiries via the authenticated dashboard?
+* Do veterans understand how to fill out all of the fields on the inquiry form?
+ * Is help text provided in all the appropriate areas?
+ * Do users understand which fields are required?
+#### Findings
+* All participants were able to successfully submit an inquiry
+* OMB Burden Language confused multiple users
+> "Respondent? Who's the respondent?"
+* All participants expressed interest, or preference, in logging in to complete the form
+ * Logging in would automatically fill in multiple form fields, and make further contact more streamlined
+* Some technical issues remain, though less than previous tests. These include:
+ * Confusion around form fields that launch modal windows. A majority of users clicked in the category field and attempted to type. The search icon and state change when field is click confuse people into thinking they can type into the field.
+ * Subtopic field conditionally appears though has no content
+* Multiple usability concerns were raised, which include:
+ * Confusion around the 'Create reply' button on inquiry details page
+ * Empty inquiry reply area
+ * Users struggled to find their most recent inquiry on the list due to default sorting
+* Additional concerns:
+ * How to navigate back to full inquiry dashboard form inquiry details page
+ * Nested modal windows in inquiry responses
+ * Inquiry details page needs increased clarity with heading adjustments and additions
+ * Recommended follow-up procedures if reply is overdue
+ * Struggles with file attachment portion of the inquiry
+ * General concerns regarding content not being plain enough
+#### Recommendations
+* Link the inquiry number at the confirmation page to details page
+* Reduce prominence of 'Start your message without signing in' button on landing page
+* Clarity around nuances and differences between SSN, Service Number and DoD ID/EDIPI Number
+* Replace the 'search' icon with a different icon on the category field – or use a drop down menu
+* Launch the modal window when the user clicks in the field
+* Remove 'Create Reply' until a response is available, or conditionally change text to something more relevant like 'Send a message' or 'Leave a comment'
+* Change 'Response Inbox' title to 'Inquiry Details'
+* Add a link to the response inbox that will take users back to the dashboard
+* Consider includingt he file upload on a previous page, or providing a subhead on the review page to call more attention to the field
+* Provide a link within the body of the submission that takes you to the dashboard or directly to the inquiry details page
+* Inform users as to whether or not they should expect an email confirmation
+* If necessary, inform users as to course of action if 5 days have elapsed without a reply
+* Use VA.gov fonts and button styles
+* Fix spacing issues on mobile
 
 ---
 
@@ -432,6 +487,15 @@ Unable to access.
 |Date|2021-06|
 |Team|Virtual Agent|
 |Background|The virtual agent/chatbot will eventually be hosted on Va.gov. Exact location(s) to be determined. Ultimately, the virtual agent’s goal is to provide responses based on existing Va.gov content to enable and encourage self service behaviors. This project is part of the larger Omnichannel strategy (led by VEO) to provide veterans with seamless access to information.|
+#### Findings
+* Links in the chat log were not keyboard focused. We validated that this issue occurred and that the links added to the VA chatbot's responses are not reachable by keyboard when navigating through the page with the TAB key. This is a defect 1 status (i.e. the most severe, ‘must fix’ issue) according to Section 508, meaning it needs to be fixed before launching on VA.gov.
+* Links were being announced as "messages" or just text and not links. We validated that JAWS and VoiceOver are reading out links in the chatbot responses as "LINK TEXT, message" or just reading out the link text and never saying "link". This is a defect 1 status (i.e. the most severe, ‘must fix’ issue) according to Section 508, meaning it needs to be fixed before launching on VA.gov
+* Many of the additional accessibility issues which were less urgent than defect 1 in severity were observed, including the challenge of finding the chatbot on the page in the first place.
+ * If one navigates off the chatbot, it is difficult to navigate back onto it, and depends on the participant using VoiceOver’s Form Control menu navigator.
+ * For the ‘chatbot text input must have a yellow focus halo when it receives keyboard focus’, we noted the halo appears for the ‘send message’ icon but not for the message input box itself.
+* Blind Veterans can differ in how they use technology, including assistive technology.
+> “I have to remember to turn off automatic form fields, because the VA website doesn’t say that. It can be inconvenient - used to be the only way to navigate that. [Now] I use the element navigation on a web page [not buttons]. I like to use that, it’s easier for me. Some other vets use the tab key but that gets me nowhere”
+* Despite the accessibility challenges participants were eager to use the chatbot and indicated they would want the same feature set (such as authentication) as the non-blind population.
 
 ---
 
@@ -442,22 +506,209 @@ Unable to access.
 |Date|2021-04|
 |Team|VSP Contact Center|
 |Background|What, if any, changes need to be implemented before the full release of the Ask VA (AVA). Explore topics such as Customer Satisfaction & Trust, Findability and (Task) Service Completion. Testing full AVA experience. Testing the content of the form.|
+#### Objectives
+* Does AVA provide end users with a user-friendly method of submitting inquiries for issues regarding VA.gov?
+* What are end users expectations in regards to inquiry submissions?
+* Expectations in regards to: information needed to submit an inquiry, response time, login information, etc?
+* Does AVA provide an interface that elicits trust from the end user?
+* Is “plain language” utilized throughout the entirety of the AVA application?
+#### Findings
+* Form findability
+ * 4 out of 7 users were able to find a link to ask a question, though the experience was often roundabout and confusing
+ * Only 3 participants went straight to the Contact us page
+ * Even if users navigate to the Contact us page, it's not guaranteed that they'll find the Ask a question links
+ * 2 participants on the Contact us page clicked on the Research and support button and didn't find a link to ask a question
+ * If users are seeking to ask a question about a specific topic, they are more likely to navigate to tertiary pages regarding that subject. These pages rarely contain links to asking a question.
+* The form is largely self-explanatory; all participants were able to successfully submit an inquiry
+* OMB Burden Language confused multiple users
+* All participants expressed interest, or preference, in logging in to complete the form
+ * Logging in would automatically fill in multiple form fields, and make further contact more streamlined.
+* There were multiple technical issues which diminshed the overall usability of the form:
+ * Lack of help text around certain form fields
+ * Review page does not have a title, nor does it retain conditional display logic
+ * Required field indicators are easily overlooked
+ * Modal window search inconsistencies: For example, when you search for Loan in the modal, it yields no results despite Home Loan being an option
+ * Spacing issues
+* Users were unsure of the correct format for various date fields.
+* Users were unsure what to put for "Veteran's Service Number," most thought it was their SSN. Other abbreviations caused confusion like DoD ID/EDIPI and SSN.
+* Required field indicator was easily overlooked. Design system recommendation was to include "Required" as text alongside the red asterisk.
+* Large space at the bottom of form pushed the 'Next' button below the fold for some users.
+* Issues on mobile.
+#### Recommendations
+* Links on the contact us page need increased visibility
+* Ask a question links need to be added on internal pages, possibly on a consistent basis
+* Address the review page form conditional display issues
+* Add help text around specific fields, such as:
+ * Veterans Service Number, SSN, DoD ID/EDIPI
+ * Clarify required date format for date fields or consider implementing design system date picker
+ * Additional context and description for the attachment field
+* Resolve the appropriate design system updates (fonts, button, required field display)
+* Reduce spacing between form fields and 'Next' button
+* Add header and clarifying informatoin to the review page
 
 ---
 
-### VA.gov Relaunch
+### VA.gov Relaunch (Involved multiple studies)
 
 |Issue|Not available; and this work contains multiple studies. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018).|
 |:--|:--|
 |Date|2018|
-|Team|Web Brand Consolidation(?)|
+|Team|DSVA|
 |Background|The problem this initiative aimed to solve was that Veterans do not have a single place to find, apply for, and manage their health care and benefits. On Veterans Day of 2018, VA.gov was relaunched with a consolidation of the various VA.gov digital properties (MHV, eBenefits, Vets.gov). User research for these efforts was captured in this [plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/user-research/user-research-plan.md).|
+#### Study 1: 'Others' Resources Card Sort
+* Our goal was to learn how to organize the "other" resources that don’t fit into the benefit categories.
+* We confirmed that there is no clear or consistent way to group and label all the “other” content but the data still show items with the strongest relationship and provide Veteran-focused labels:
+ * Account Information / Management
+ * About the VA
+ * My VA / For Me
+ * Most Important (focused on health due to audience)
+ * Self Service / Online
+* Airborne Hazards and Ordering Hearing Aid Batteries were consistently outliers
+#### Study 2: Benefit Lifecycle Card Sort
+* Grouped into (1) Explore and Apply, (2) Track and Manage or (3) More from VA
+* Organizing benefits around the lifecycle makes sense to Veterans
+* Explore & Apply works well for the items we thought fit in that category like “Health Care Eligibility”
+* Many Track & Manage cards were consistently sorted by Veterans, but other items including “Request DD-214” don’t fit
+* Several items including “Compare GI Bill Benefits” aren’t easily placed in only one category
+* More From VA cards had the most inconsistent placement but did not distract Veterans from the benefit lifecycle
+* We learned that the benefit lifecycle can work as part of the content strategy but applying it to the content hubs will take finesse
+#### Study 3a: Homepage Wireframes v1
+* Top Tasks Homepage:
+ * Zone 2 focused on the top tasks available to Veterans split between recurring “manage” and one time “apply” boxes
+ * Zone 3 listed each benefit category with a simple description and CT
+* Benefit Category Homepage:
+ * Zone 2 listed the top 4 benefit categories with top tasks listed under “Explore & Apply” or “Track & Manage”
+ * Zone 3 showed the remaining benefits with lists of top tasks for each
+* 7/10 preferred “Benefit Category” design over “Top Tasks”
+* Benefit hubs were confirmed as a good organization method
+* Veterans wanted the most popular list in each benefit but were overwhelmed by the number of choices
+* Separating top tasks from benefit labels was “distracting”
+* Both designs were “clean” but “boring” and needed more images
+* Appreciation for the one-click access to top resources
+#### Study 3b: Homepage Wireframes v2
+* Top Tasks Homepage:
+ * Zone 1 focused on the top tasks organized under manage health, track benefits, get records, apply for benefits
+ * Zone 2 had the location, crisis line, and sign-in
+ * Zone 3 listed each benefit category with a simple description and CTA
+* Benefit Category Homepage:
+ * Zone 1 had the location, crisis line, and sign-in
+ * Zone 2 listed the top 4 benefit categories with top tasks
+ * Zone 3 showed the remaining benefits with lists of top tasks for each
+* The default mental model for Veterans is benefit category first then task
+* Veterans had difficulty finding information using the headings in the top tasks design
+* CTA buttons in the top task design (color and placement) worked best
+* The layout of the top benefit categories worked well
+* Both designs are boring and need more color
+* Veterans want the page to be simple and not cluttered
+* Veterans want large, clear, text and icons
+* One-click access and “above the fold” priority are important to Veterans
+* The benefit category is the default mental model for organizing information, but top tasks are why users come to VA.gov.
+#### Study 4a: Navigation Tree Test v1
+* Veterans struggled to navigate the menu to complete top tasks
+* Directness scores indicate that users were confident in their incorrect answers
+* The sheer volume of content and number of levels in the menu contributed to the overall poor performance
+* Choosing between “Get” and “Manage” benefits continued to distract users
+* Top Tasks:
+ * Health Care tasks – Both “About VA” and “Find a VA Location” were common incorrect paths
+  * For health conditions information – “About VA” was a common path
+  * Health tasks mostly scored 4s, ranged 3-5.
+ * Disability tasks – Users were looking in the Health hub for “Apply” tasks and in the Records hub for “track and manage” tasks
+  * Upload Docs and Add/Remove Dependent scored 2s. Others 4-5.
+ * Education tasks – Users frequently chose incorrect “apply” links. Scores ranged 4-5. 
+ * Records tasks – “About VA” was a common incorrect path. Scores 3-6.
+ * Pension tasks – Disability hub was the most common incorrect path. Scored all 4s.
+ * Jobs task – “About VA” was the first misstep for most users but many were also confused by “Get” vs “Manage”. Score 2.
+ * Cemetery tasks – Scored 6s, generally good with some distraction by “About VA” and “Pre-Need”.
+ * Facility Locator – Scored 9. Listed at the top level of nav.
+ * About VA tasks – Scored 2s. Largely done as an info gathering activity, needs more research.
+* Recommendations:
+ * Simplify the mega menu options by reducing the number of links per section
+ * Consolidate the “Apply” entry points in the menu for each benefit
+ * Cross-link between the Health, Disability, Pension, and Records hubs for alternative navigation paths
+ * Cross-link from the Facility Locator and Facility pages to the Health hub
+ * Re-organize the Jobs menu options
+ * Discuss “About” Menu top tasks
+#### Study 4b: Navigation Tree Test v2
+* Our goal was to determine if a simplified mega menu is a reasonable solution to VA.gov
+* Health tasks generally performed well
+* About VA was a contributing distraction for health tasks (~10%)
+* Many Veterans looked in Records for disability management tasks (upload docs, direct deposit, add dependents)
+* Health Care and Pension were also commonly visited during disability tasks
+* About VA was the only consistent distractor on Education tasks (~28%)
+* About VA was the biggest distractor for Veteran ID (31%) and DD-214 (44%)
+* Disability was commonly visited when looking for VA Letters (38%)
+* About VA distracted from Home Loan COE (36%)
+* About VA was a large distractor from Pension tasks
+* The other links in the Pension Hub distracted Veterans more than other hubs (81% success rate)
+* Most Veterans looked for Find a Job under About VA (62%)
+* Veterans looked under About VA for Find a Cemetery (44%)
+* Health Care was the most common destination for Veterans Choice Program
+* The other About VA categories (Learn, Innovation) were distractors from finding the Public Affairs content
+* We may want to consider a term other than “About VA” to help distinguish benefits content from other VA content
+* We still have to rely heavily on cross-linking the hubs and redirecting users back from About VA pages to the benefits content
+* Each Hub will need additional research to refine the terms used 
+#### Study 5 – Preview.va.gov Usability Test
+* Veterans liked and understood the benefit categories
+* The top tasks boxes drew users attention and they commented on the usefulness of the links
+* Homepage layout exposed Veterans to benefits they may not have considered
+* Browsing the top navigation worked well in both formats
+* Users understood the purpose of the “About VA” tab
+* VCL got good reception and emphasis from Veterans
+* The top tasks on the homepage worked well but Veterans overlooked the top navigation generally
+* The full benefit category list in the middle of the homepage did not catch their attention
+* Some users commented that the homepage was “flat” or “boring”
+* Users liked the hub page format and were successful browsing the headers, links, and text
+* Most users understood that many tasks would require sign-in to complete
+* The sign-in alert on the tool landing pages worked well
+* We watched across several users as they found multiple routes to key tasks such as Rx Refill
+* On desktop, the call to action button was outshined by the left navigation, leading users to mistakenly click the highlighted (current page) link
+* The volume of text on the Hub pages may have been overwhelming to some users
+* A few users expected to get straight to the sign-in page from the Hubs
+#### Study 6: Preview.va.gov Non-VA Vets
+* Feedback from non-VA veterans was overwhelmingly positive
+* Users appreciated the simplicity and layout of the homepage
+* Users generally completed the scenarios, but tasks that were not listed in the “top 4” boxes were much more difficult
+* VCL got good reception and emphasis from Veterans
+* The top tasks on the homepage worked well but Veterans still tended to overlook the top navigation
+* Many Veterans did not scroll down the homepage, even when seeking benefits not in the “top 4” boxes
+* These resulted in significantly lower success rates for tasks not listed in the top tasks area (Avg. 54% vs 88% )
+* Users emphasized the importance of the VCL
+* May need to revisit adding a View All option to the ”top 4” boxes
+* Modify the fold location so its apparent to the user that more options exist lower down the page
+* Make the top navigation stand-out more
+#### Study 7: Preview.va.gov Usability Test 2
+* Our goal was to test the full Preview site with Veterans
+* Veterans are generally returning to the homepage to accomplish tasks after being logged-in, not the dashboard
+* On MHV, users are able to find the most common tasks
+* Several Veterans were hesitant to provide their email address and phone number when converting MHV credentials to ID.me
+* Most Veterans did not find the VCL through the top banner, they either noticed the button or the footer link
+* Veterans had mixed feedback about the “Contact Us” information on the hub pages
+* The new left navigation corrects the usability issues found in Study 5
+* Veterans were not confused by the multiple sign-in options (MHV, DS Logon, ID.me)
+* Open in new tab function failing from the tool landing pages, either because the new tab to MHV/eBN doesn’t open or it gets blocked
+* The single sign-on issues with MHV and the new tab usability issues must be fixed before launch
+* Split the contact us section into two sections - phone numbers and social media links
+* Keep the VCL copy the same do not rely solely on the banner to drive users to that information
+* Longer-term the flow to convert an MHV account to ID.me account should be simplified
+#### Study 8: Preview.va.gov Authenticated Test
+* Our goal was to watch users with accounts work through preview top tasks
+* Veterans were able to find the ”Sign In” box to login to their account
+* Users were able to complete MHV and eBN tasks from the VA.gov homepage
+* MHV and DS Logon users were able to see their dashboard and data on VA.gov
+* The ”My VA” and “My Health” tabs are working
+* Veterans easily located the drop-down with their name to log out and access settings
+* Logging-out on VA.gov is not logging the user out of their MHV account
+* Veterans are generally not finding “My VA” and “My Health” in the top right of the page
+* Deep links into eBenefits are not useful, users attempting to upload documentation cannot complete task
+* Each new tab opening up eBenefits requires user to login again, credential is not being shared across tabs
+
+---
 
 ## Studies related to forms or one thing per page pattern
 
 ### Profile Notification Settings, Add Email Channel
 
-|Issue|[#214](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/214)).|
+|Issue|[#214](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/214)|
 |:--|:--|
 |Date|01-2023|
 |Team|Profile, Authenticated Experience|
