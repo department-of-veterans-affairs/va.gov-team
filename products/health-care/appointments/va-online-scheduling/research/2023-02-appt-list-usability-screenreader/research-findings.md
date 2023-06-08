@@ -71,7 +71,7 @@ For the same reasons as in the first hypothesis, we can’t prove this is true f
 2. [Participants easily navigated to and understood the upcoming and past appointment lists](#most-participants-easily-navigated-to-and-understood-the-upcoming-and-past-appointment-lists)
 3. [Participants struggled to navigate to and understand appointment requests](#participants-struggled-to-navigate-to-and-understand-appointment-requests)
 4. [Missing, confusing appointment information makes the lists difficult to use](#missing-confusing-appointment-information-makes-the-lists-difficult-to-use)
-5. [Logging in was the biggest challenge for participants](#logging-in-was-the-biggest-challenge-for-participants)
+5. [Logging in was the biggest navigation challenge for participants](#logging-in-was-the-biggest-navigation-challenge-for-participants)
 
 
 ## Details of Findings
@@ -827,7 +827,7 @@ Additionally, participants noted some information was confusing:
 
 
 
-### Logging in was the biggest challenge for participants
+### Logging in was the biggest navigation challenge for participants
 
 All but 1 participant experienced difficulties logging in, and 3 could not log in at all.  Some of the issues they encountered when logging in:
 
