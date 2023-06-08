@@ -1,4 +1,4 @@
-# Initial UX desk research of previous VA studies
+# Initial desk research of previous VA studies
 Last updated by @tygindraux on June 8, 2023
 
 ## List of studies
@@ -19,7 +19,7 @@ Last updated by @tygindraux on June 8, 2023
 * [VSP, Ask VA - July 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#vsp-ask-va)
 * [Virtual Agent Inclusive Design interviews - June 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#virtual-agent-inclusive-design-interviews)
 * [Ask VA - April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#ask-va)
-* [VA.gov Relaunch - 2018]()
+* [VA.gov Relaunch - 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#vagov-relaunch)
 
 ## Details
 ### MCT HCD Chatbot as AVA Frontdoor
@@ -419,5 +419,5 @@ Unable to access. I need to chase.
 |Issue|Not available; and this work contains multiple studies. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018).|
 |:--|:--|
 |Date|2018|
-|Team||
+|Team|Web Brand Consolidation(?)|
 |Background|The problem this initiative aimed to solve was that Veterans do not have a single place to find, apply for, and manage their health care and benefits. On Veterans Day of 2018, VA.gov was relaunched with a consolidation of the various VA.gov digital properties (MHV, eBenefits, Vets.gov). User research for these efforts was captured in this [plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/user-research/user-research-plan.md).|
