@@ -1,5 +1,7 @@
 # Message for Participants that Prefer Email Communication 
 
+## Copy All Information Below
+
 Text message 1 of 2.
 
 Your VA appointment is on FEB 2 at 08:00. 
