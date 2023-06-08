@@ -1,4 +1,4 @@
-# Running Notes for Design & Research Teams 1 & 2 (T-Rex and Carbs)
+# Running Notes for Design & Research Teams 1 & 2 (T-Rex & Carbs)
 ## 6/8/23
 Attendees: Lydia, Nyantee, Nichole, Julie
 
