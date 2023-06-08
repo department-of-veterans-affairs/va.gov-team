@@ -29,11 +29,12 @@ With this research we hope to validate the usability of our design concepts for 
 - Do Veterans respond positively to other UX improvements in this version of CST? 
 
 ### Hypothesis
-Our hypothesis is that this new design for CST will accomplish the following: 
-- Make it easier for Veterans to see requests for evidence submission and understand what those requests are
-- Make it easier to distinguish between claims in CST
-- Make it easier for Veterans to understand what is happening with their claim at any given time
-- Make it clearer to Veterans whether or not they need to take any action to advance their claim
+- The new design will help Veterans distinguish between different claims in CST.
+- Veterans will prefer the new Status page to the old Status page overall.
+- The new design will give Veterans a strong understanding of what is happening with their claim at any given time.
+- The new design will help Veterans distinguish between requests for them that they need to act on and requests for third parties that they don't need to act on.
+- The new design will make it easy for Veterans to see requests for evidence submission and understand what those requests are.
+- The new design will make it clear to Veterans whether or not they need to take any action to advance their claim.
 
 ## Methodology	
 Usability testing
@@ -42,11 +43,7 @@ Usability testing
 Remote on Zoom
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2022-05-Evidence-Submission/conversation-guide.md)
 - [Prototype](https://www.sketch.com/s/98e35645-34eb-40cf-80c1-6c4952943584/p/01111023-CE9B-49FE-87C1-36D6FF497D5A/canvas)
 	
@@ -77,7 +74,7 @@ Have you filed a disability compensation claim with the VA in the last 10 years?
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: rocio@coforma.io
-* Date and time of pilot session: June 7, 2-3 PM
+* Date and time of pilot session: June 12, 1-2 PM ET
 
 ### Research sessions
 * Preferred dates of research: June 13 - 16, June 20-21, 
