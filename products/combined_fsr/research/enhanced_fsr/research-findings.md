@@ -202,15 +202,15 @@ Is it clear to Veterans why they need to provide their financial information?
 
  1. **Participants found the enhanced FSR design patterns (including new list loops) easy to use.**
 
- Participants, overall, found the new list loop pattern easy to use. Due to a technical error, one participant filled out the form using the old pattern. He was later shown the new pattern and stated he preferred the new pattern.  
-Without prompting, participants understood they were on a summary page and noticed the action link to allow them to add more items.  
+ Participants, overall, found the new list loop pattern easy to use. Without prompting, participants understood they were on a summary page and noticed the action link to allow them to add more items.  
 Participants easily understood how to edit their contact information but a few believed editing their contact information on the form would not update their information elsewhere on [VA.gov](http://va.gov/). This was mainly due to their past experience of different aspects of [VA.gov](http://va.gov/) not connecting/communicating.  
 Participants easily understood selecting a debt, reviewing their benefits.
 
--   One participant questioned where certain expenses should go such as gym membership fees and subscriptions as they did not see them listed. This participant stated she did not want to “freestyle” and wanted very direct options with a miscellaneous section at the end.
-    
+- One participant questioned where certain expenses should go such as gym membership fees and subscriptions as they did not see them listed. This participant stated she did not want to “freestyle” and wanted very direct options with a miscellaneous section at the end.
 
->I prefer this layout [new list loop pattern]. This avoids having you to save prior to inputting the information. This is much easier. You don’t have to go through as many steps. I think if you have a Veteran that is not tech savvy the prototype that you just showed me would make it easier for them to go through. -P3
+- Due to a technical error, one participant filled out the form using the old pattern. He was later shown the new pattern and stated he preferred the new pattern.   
+
+>"I prefer this layout [new list loop pattern]. This avoids having you to save prior to inputting the information. This is much easier. You don’t have to go through as many steps. I think if you have a Veteran that is not tech savvy the prototype that you just showed me would make it easier for them to go through." -P3
 
 >“This is just a summary of everything I have just gone over. I think this is a great idea because if you see an issue you can edit it.” -P4
 
@@ -246,8 +246,11 @@ Several participants acknowledged that the form was extensive and stated that th
 >“Having to list your household assets seems unnecessary. This information is none of their business. That information should not count against them in the decision process. It should be focused on the fact that the VA made an overpayment. That is on the VA to find a resolution instead of putting that on the Veteran. It should be on the person who issued the overpayment to fix the problem. I know plenty of people who would look at that form and let the debt sit there.” -P1
 
 >"I don’t think it is going to solve the issue because the VA is going to receive their own information from the IRS. So, this would be a waste of time." -P5
->
+
 >"Any debt we receive, the government isn't on our side, they are out to collect their money. As soon as you pay that debt they will leave you alone. It isn't as simple as a phone call or writing a letter to resolve the debt, it is days of work." - P5
+
+>“It's a waste of time, they already know your information. I wouldn't fill out this form because it's aggravating. It triggers my stress.” -P7
+
 
  6. **Some participants felt like the VA should know the answers to questions that were being asked. This was based on either information they had previously given to the VA (MyVA profile) or their SSN (IRS).**
 
