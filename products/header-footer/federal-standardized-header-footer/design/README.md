@@ -8,7 +8,9 @@
 
 | Problem/Question/Challenge | Decision | Date |
 | ------ | ------ | ------ |
-| Thing 1 |   |   |
+| What to do with VCL? | We will shift the VCL into the main navigation on desktop on the right-side of the page. Mobile behavior will stay the same as a banner. (Hypothesis to test  | 3/31/2023 |
+| What to do about MyVA link in Navigation | Double-check the analytics, but likely drop this from the nav and only use the sign-in |
+| Authenticated navigation | We will designed and evaluated separately - out of scope | 3/21/2023 |
 
 
 ### Footer decisions
@@ -30,7 +32,7 @@ BLUF: Links to be placed in this column are:
 - Mental Health
 - Adaptive sports and special events (questionable)
 - [Business](https://www.va.gov/opal/fo/dbwva.asp)
-- [Job seekers](https://www.va.gov/jobs/) ?
+- [Jobs at VA](https://www.va.gov/jobs/) (note: relabel from Andy suggestion for clarity)
 - [Accredited claims representatives](https://www.va.gov/ogc/accreditation.asp)
 
 | Problem/Question/Challenge | Decision | Date |
