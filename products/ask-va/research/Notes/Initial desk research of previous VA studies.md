@@ -2,7 +2,6 @@
 Last updated by @tygindraux on June 8, 2023
 
 ## List of studies
-* [MCT HCD Chatbot as AVA Frontdoor - February 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-hcd-chatbot-as-ava-frontdoor)
 * [Disabled Veteran Accessibility Feedback - 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#disabled-veteran-accessibility-feedback)
 * [Multi-channel Technologies (MCT) Chatbot as AVA Front Door - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#multi-channel-technologies-mct-chatbot-as-ava-front-door)
 * [MCT Virtual Agent Chatbot Login.Gov and ID.me Moderated Interviews - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-virtual-agent-chatbot-logingov-and-idme-moderated-interviews)
@@ -22,23 +21,6 @@ Last updated by @tygindraux on June 8, 2023
 * [VA.gov Relaunch - 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#vagov-relaunch)
 
 ## Details
-### MCT HCD Chatbot as AVA Frontdoor
-
-|Issue|[#224](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/224)|
-|:--|:--|
-|Date|2023-02|
-|Team|VEO: VA Multi-channel Technology (MCT)|
-|Background|This project will focus on testing a clickable chatbot prototype as a conversational alternative to Ask VA (AVA) intake, to assess the desired experience for Veterans to submit tickets through a VA chatbot.|
-
-#### Objectives
-* Understand user preference around intent recognition, specifically through a guided vs. conversational experience in which varying levels of details are collected from the user
-* Determine user expectations around the escalation process of an existing ticket
-* Determine the level of detail and cadence of confirmation messages presented to the user through the intake process regarding ticket submission
-* Understand the ideal timeframe and desired follow up method by contact center agent regarding submitted ticket
-#### Findings
-Unable to access in Github. I’ve asked Shane (Research Ops). Chante followed up with links to the [research findings](https://dvagov.sharepoint.com/:p:/r/sites/ChatbotasAVAFrontDoor/Shared%20Documents/General/2.0%20Research%20Phase/Findings%20Deck/MCT%20HCD-CBasAVAFD-InitialFindings-20220103_V2.pptx?d=w92fa78af137e49118d775808a8092e48&csf=1&web=1&e=sTMVms) and [design phase findings](https://dvagov.sharepoint.com/:p:/r/sites/ChatbotasAVAFrontDoor/Shared%20Documents/General/3.0%20Design%20Phase/3.0%20Findings/MCT%20ChAVA%20-%20HCD%20Research%20Findings.pptx?d=wa546e31ec5f544ecada6a36b57fca55e&csf=1&web=1&e=f3E9tP) but you need to be on the VA network to access.
-
----
 
 ### Disabled Veteran Accessibility Feedback
 
@@ -115,7 +97,7 @@ Unable to access in Github. I’ve asked Shane (Research Ops). Chante followed u
 
 ### Multi-channel Technologies (MCT) Chatbot as AVA Front Door
 
-|Issue|[#193](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/193)|
+|Issue|[#193](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/193) and [#224](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/224)?|
 |:--|:--|
 |Date|2022-12|
 |Team|VEO: VA Multi-channel Technology (MCT)|
