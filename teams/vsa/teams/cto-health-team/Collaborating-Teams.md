@@ -2,13 +2,13 @@
 - Cartography team (us)
 - Secure Messaging team
   - OCTO: Leila Rassi
-  - Contractor: Bryan Reilly
+  - Contractor: Bryan Riley
 - Appointments team
   - OCTO: Kay Lawyer
   - Contractor: Jeff Roof
 - Medical Records team
   - OCTO: Marci McGuire
-  - Contractor: ?
+  - Contractor: Bryan Riley
 - Medications team
   - OCTO: Kay Lawyer
   - Contractor: ?
@@ -21,6 +21,7 @@
 
 # VA.gov teams (teams that might be working on MHV stuff, but also on lots of other stuff)
 - VA.gov Platform team
+  - Shira Goodman
 - Identity team (I think)
   - John Rahaghi
 - Design System team
@@ -30,14 +31,19 @@
     - Brian Decounik (sp?)
 - Analytics team
 - Authenticated experience team (the My VA team)
-  - Contractor: AJ (Anastasia Jakabcin)
+  - Contractor: Anastasia Jakabcin (AJ)
   - OCTO: Samara Strauss
-    - Chante (while Samara is out)
+    - Chante Lantos-Swett (while Samara is out)
   - Work with them whenever talking with the VA Profile team
+    - Travis Cahill
 - Sitewide / Public website team (basically “unauthenticated team”)
   - Dave Conlon
-  - Mikki N. (IA)
-  - Danielle T. (Content)
+- IA Team
+  - Mikki Northuis
+- Content Team
+  - Danielle Thierry
+- Accessibility Team
+  - Martha Wilkes
 - _Dozens of other product development teams that we don’t expect to interact with_
 
 # OCTO teams that aren’t VA.gov
