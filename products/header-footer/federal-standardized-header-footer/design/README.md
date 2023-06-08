@@ -23,7 +23,7 @@
 3/21/2023 - Meeting to cross walk existing footer with new footer - Attendees: Ryan T, Mikki N., Dave C., Danielle T.
 
 ##### Information for
-BLUF: Links to be placed in this column are:
+BLUF: We are still struggling with this column. Working links to be placed in this column are:
 - Homeless Veterans
 - Women Veterans
 - Minority Veterans
@@ -35,6 +35,7 @@ BLUF: Links to be placed in this column are:
 - [Jobs at VA](https://www.va.gov/jobs/) (note: relabel from Andy suggestion for clarity)
 - [Accredited claims representatives](https://www.va.gov/ogc/accreditation.asp)
 
+
 | Problem/Question/Challenge | Decision | Date |
 | ------ | ------ | ------ |
 | What's the semantic difference between "Information for" and using "Connect with us" audience-based? | ------ | ------ |
@@ -44,7 +45,8 @@ BLUF: Links to be placed in this column are:
 | Health research exists in the header. Do we need "Researchers" in the footer? |  No. Duplicative  |    |
 | Job seekers is not in header | Look at the analytics to see click-thrus, but consider adding to "About VA and removing? |  |  
 | Adaptive Sports - Does that meet the criteria for this column? | We will check the analytics to see if it's useful  |   |
-| Job seekers - Is the destination for "get a job with VA" or "I'm a Veteran and need help getting a job" |  |  |  
+| Job seekers - Is the destination for "get a job with VA" or "I'm a Veteran and need help getting a job" | Rename to "Jobs at VA" | 3/21/2023  |
+| Proposal: We need to establish guidance for this column? | Can we go so far as to say "This column is for our core audience only. So only items included in that column are audience segments for our Veterans, family members, and beneficiaries."|    | 
 
 ##### More resources/2nd column
 BLUF: Links to be placed in this column are:
