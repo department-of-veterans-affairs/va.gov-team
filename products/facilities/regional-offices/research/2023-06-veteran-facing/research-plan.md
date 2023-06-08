@@ -54,15 +54,19 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
      2. Hours of operation--for the office _vs._ only for a specific service
      3. Hours of operation--2 sets of hours in a single day (i.e., morning and afternoon but closed for lunch hour)
 3. Do Veterans understand the actions they need to take to receive the service (make an appointment, walk-in, bring required documents, etc.)?
-6. When prompted with specific tasks, do Veterans navigate to the correct service accordion and find the correct next steps? 
-1. What happens if Veterans _don't_ find an applicable service accordion on the page? 
+11. What do Veterans expect to find under the service accordions?
+     5. Do Veterans understand the different categories of service offerings?
+     6. When prompted with specific tasks, do Veterans navigate to an appropriate service accordion
+     7. ? 
+     8. What happens if Veterans _don't_ find an applicable service accordion on the page? 
+     9. Do Veterans expect to find different details for different services?
+     10. How do Veterans interact with service offering accordions that have multiple locations inside them? Do they click on links for more info?
 8. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones? 
      1. What do they expect from "Ask a benefit question"? Probe about what happens after they click on it.
 10. How do Veterans react to seeing 2 phone numbers?
      1. Which phone number would they use and why? 
      2. What do they expect when they call?
-11. What do Veterans expect to find under the service accordions?
-     1. Do Veterans expect to find different details for different services?
+
 12. What feedback do Veterans have on content, organization, and length of the regional benefit office web page?
 
 ### Hypotheses
