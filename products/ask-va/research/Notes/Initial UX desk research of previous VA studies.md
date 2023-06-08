@@ -1,5 +1,5 @@
-# Initial desk research of previous VA studies
-Last updated by @tygindraux on June 5, 2023
+# Initial UX desk research of previous VA studies
+Last updated by @tygindraux on June 8, 2023
 
 ## List of studies
 * [MCT HCD Chatbot as AVA Frontdoor - February 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-hcd-chatbot-as-ava-frontdoor)
@@ -19,6 +19,7 @@ Last updated by @tygindraux on June 5, 2023
 * [VSP, Ask VA - July 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#vsp-ask-va)
 * [Virtual Agent Inclusive Design interviews - June 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#virtual-agent-inclusive-design-interviews)
 * [Ask VA - April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#ask-va)
+* [VA.gov Relaunch - 2018]()
 
 ## Details
 ### MCT HCD Chatbot as AVA Frontdoor
@@ -410,3 +411,13 @@ Unable to access. I need to chase.
 |Date|2021-04|
 |Team|VSP Contact Center|
 |Background|What, if any, changes need to be implemented before the full release of the Ask VA (AVA). Explore topics such as Customer Satisfaction & Trust, Findability and (Task) Service Completion. Testing full AVA experience. Testing the content of the form.|
+
+---
+
+### VA.gov Relaunch
+
+|Issue|Not available; and this work contains multiple studies. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018).|
+|:--|:--|
+|Date|2018|
+|Team||
+|Background|The problem this initiative aimed to solve was that Veterans do not have a single place to find, apply for, and manage their health care and benefits. On Veterans Day of 2018, VA.gov was relaunched with a consolidation of the various VA.gov digital properties (MHV, eBenefits, Vets.gov). User research for these efforts was captured in this [plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/user-research/user-research-plan.md).|
