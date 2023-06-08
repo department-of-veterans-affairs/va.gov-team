@@ -2,26 +2,35 @@
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+Briefly describe the background of your product. 
+The online health care application today processes all applications as enrollment. With regards to regulation § 17.37 Enrollment not required—provision of hospital and outpatient care to veterans which is being called the "registration only" path. This has a mix of eligibility criteria or scenarios for the Veteran to meet and a mix of what type of benefits they would be receiving - ranging from care for one need to the "full medical benefits package". 
 
-[Link to product brief](url goes here).
+How might we enable Veterans who simply want to "register" for a specific level of care — up to and including the full medical benefits package — do that instead of processing all applications as enrollment applications?
+
+- [Link to product initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Registration).
 
 ### OCTO Priorities 
 
 Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
 
+- Enhance Veterans’ personalized online experience
+- Fast-track disability claims, starting with PACT Act claims (allowing Registration only
+
+
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
 
+
+
 ## Research Goals	
 What are you trying to learn from this research? 
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+Out goal is to learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them.
 
+Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care and Priority Groups impacting them during the health care application process.
+
+Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of informationt they need to provide in that process. 
 
 
 ### Outcome
