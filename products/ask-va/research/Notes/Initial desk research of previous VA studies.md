@@ -57,6 +57,8 @@ Last updated by @tygindraux on June 8, 2023
 
 ### Disabled Veteran Accessibility Feedback
 
+`accessibility` `ask va` `feedback`
+
 |Issue|Not available. [Link to findings document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md).|
 |:--|:--|
 |Date|2022|
@@ -130,6 +132,8 @@ Last updated by @tygindraux on June 8, 2023
 
 ### MCT Chatbot as AVA Front Door
 
+`chatbot` `ask va`
+
 |Issue|[#193](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/193) and [#224](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/224)?|
 |:--|:--|
 |Date|2022-12|
@@ -177,6 +181,8 @@ Last updated by @tygindraux on June 8, 2023
 ---
 
 ### MCT Virtual Agent Chatbot Login.Gov and ID.me Moderated Interviews
+
+`chatbot` `authentication`
 
 |Issue|[#205](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/205)|
 |:--|:--|
@@ -230,6 +236,8 @@ Last updated by @tygindraux on June 8, 2023
 
 ### Chatbot Feature Prioritization
 
+`chatbot` `authentication`
+
 |Issue|[#175](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/175)|
 |:--|:--|
 |Date|2022-08|
@@ -245,6 +253,8 @@ Unable to access.
 ---
 
 ### MCT Omnichannel Experience: Co-Design Phase II
+
+`chatbot`
 
 |Issue|[#127](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/127)|
 |:--|:--|
@@ -284,6 +294,8 @@ Unable to access.
 
 ### VA Orchid, Virtual Agent Chatbot
 
+`chatbot` `feedback`
+
 |Issue|[#151](https://github.com/orgs/department-of-veterans-affairs/projects/880/views/1?filterQuery=chatbot&pane=issue&itemId=21794331)|
 |:--|:--|
 |Date|2022-07|
@@ -299,6 +311,8 @@ Unable to access.
 ---
 
 ### MCT VHA Virtual Agent Research
+
+`chatbot`
 
 |Issue|[#148](https://github.com/orgs/department-of-veterans-affairs/projects/880/views/1?filterQuery=chatbot&pane=issue&itemId=21794312)|
 |:--|:--|
@@ -327,6 +341,8 @@ Unable to access.
 
 ### MCT Omnichannel Experience: Co-Design
 
+`chatbot`
+
 |Issue|[#96](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/96)|
 |:--|:--|
 |Date|2022-03|
@@ -349,6 +365,8 @@ Unable to access.
 ---
 
 ### Virtual Agent Authentication Usability Test
+
+`chatbot` `authentication`
 
 |Issue|[#97](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/97)|
 |:--|:--|
@@ -378,6 +396,8 @@ Unable to access.
 
 ### VSP, Ask VA - Dashboard (Business, Personal)
 
+`ask va` `school certifying officials`
+
 |Issue|Not available. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2022-02/research-plan.md).|
 |:--|:--|
 |Date|2022-03|
@@ -405,6 +425,8 @@ Unable to access.
 
 ### Needs of Spanish Speaking Veterans for the Virtual Agent
 
+`spanish` `accessibility` `chatbot`
+
 |Issue|[#66](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/66)|
 |:--|:--|
 |Date|2022-01|
@@ -429,6 +451,8 @@ Unable to access.
 ---
 
 ### MCT Virtual Agent Facilities Conversational Design
+
+`chatbot`
 
 |Issue|[#80](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/80)|
 |:--|:--|
@@ -460,6 +484,8 @@ Unable to access.
 
 ### Virtual Agent Automated Content and Claims Feature Usability Testing
 
+`chatbot`
+
 |Issue|[#45](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/45)|
 |:--|:--|
 |Date|2021-11|
@@ -474,6 +500,8 @@ Unable to access.
 ---
 
 ### VSP, Ask VA
+
+`ask va`
 
 |Issue|Not available. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2021-07/research-plan.md).|
 |:--|:--|
@@ -526,6 +554,8 @@ Unable to access.
 
 ### Virtual Agent Inclusive Design interviews
 
+`chabot` `accessibility`
+
 |Issue|[#1](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/1)|
 |:--|:--|
 |Date|2021-06|
@@ -544,6 +574,8 @@ Unable to access.
 ---
 
 ### Ask VA
+
+`ask va`
 
 |Issue|Not available. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2021-04/research-plan.md).|
 |:--|:--|
@@ -593,6 +625,8 @@ Unable to access.
 ---
 
 ### VA.gov Relaunch (Involved multiple studies)
+
+`information architecture`
 
 |Issue|Not available; and this work contains multiple studies. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018).|
 |:--|:--|
