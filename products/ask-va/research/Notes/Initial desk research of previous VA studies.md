@@ -19,7 +19,7 @@ Last updated by @tygindraux on June 8, 2023
 * [VSP, Ask VA - July 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#vsp-ask-va)
 * [Virtual Agent Inclusive Design interviews - June 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#virtual-agent-inclusive-design-interviews)
 * [Ask VA - April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#ask-va)
-* [VA.gov Relaunch - 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#vagov-relaunch)
+* [VA.gov Relaunch - 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#vagov-relaunch-involved-multiple-studies)
 
 ## Studies related to Ask VA, chatbot, virtual agent or other support tools
 
