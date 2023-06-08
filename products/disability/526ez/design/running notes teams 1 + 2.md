@@ -4,7 +4,7 @@ Attendees: Lydia, Nyantee, Nichole, Julie
 
 - Julie will create page in the design folder for notes
 
-- All work will impact exit rates
+- All changes throughout the form will impact exit rates
   - What do we want to do when overlap happens?
   - Are there other parameters beyond exit rates that could inform our roadmap?
   - We don’t know yet! We’ll start with updating the site map as we’re resolving analytics questions and clarifying metrics
