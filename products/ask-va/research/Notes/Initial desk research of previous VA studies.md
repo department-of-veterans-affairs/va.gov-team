@@ -3,7 +3,7 @@ Last updated by @tygindraux on June 8, 2023
 
 ## List of studies
 * [Disabled Veteran Accessibility Feedback - 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#disabled-veteran-accessibility-feedback)
-* [Multi-channel Technologies (MCT) Chatbot as AVA Front Door - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#multi-channel-technologies-mct-chatbot-as-ava-front-door)
+* [MCT Chatbot as AVA Front Door - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#multi-channel-technologies-mct-chatbot-as-ava-front-door)
 * [MCT Virtual Agent Chatbot Login.Gov and ID.me Moderated Interviews - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-virtual-agent-chatbot-logingov-and-idme-moderated-interviews)
 * [Chatbot Feature Prioritization - August 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#chatbot-feature-prioritization)
 * [MCT Omnichannel Experience: Co-Design Phase II - June 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-omnichannel-experience-co-design-phase-ii) 
@@ -95,7 +95,7 @@ Last updated by @tygindraux on June 8, 2023
 
 ---
 
-### Multi-channel Technologies (MCT) Chatbot as AVA Front Door
+### MCT Chatbot as AVA Front Door
 
 |Issue|[#193](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/193) and [#224](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/224)?|
 |:--|:--|
