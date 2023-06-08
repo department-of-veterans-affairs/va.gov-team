@@ -19,6 +19,7 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
+
 This fits accross the journey from getting out to aging.
 
 This impacts a key moment that matters in that Veterans need to select the health care coverage according to their individual needs and preferences and that is the best fit for them. 
@@ -34,16 +35,15 @@ Learn more about how Veterans would like to go about applying, discovering eligi
 
 
 ### Outcome
-Gain understanding of the current problem space and Veteran's perception of registration/enrollment
-Check assumptions and terminology used to remain Veteran-centric 
-Insight into an ideal state and how Veteran would prefer to navigation the health care benefits application journey
-Phased approach to iterate on low-fi wireflows / hypothesis creation during this study
+- Gain understanding of the current problem space and Veteran's perception of registration/enrollment
+- Check assumptions and terminology used to remain Veteran-centric 
+- Insight into an ideal state and how Veteran would prefer to navigation the health care benefits application journey
+- Phased approach to iterate on low-fi wireflows / hypothesis creation during this study
 
 ### Research questions
 Out goal is to learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them.
 - What is the experience of "registering only" today? 
 - How does the regulation "§ 17.37 - Enrollment not required—provision of hospital and outpatient care to veterans" impact Veterans when applying for health care?
-- 
 
 Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care and Priority Groups impacting them during the health care application process.
 - What is the Veteran's mental model of discovering, getting and keeping health care benefits as they go through the application process?
@@ -51,7 +51,8 @@ Learn more about Veteran's mental model when applying for health care benefits a
 
 Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for.
 - What is the Veteran's current pain points with how the health care application impacts the overall benefits journey?
-
+- What is the order and process expectations of Veterans when they are applying (registering or enrolling) for health care benefits?
+- When during the health care application process would Veterans prefer to go through eligibility questions? (before, during, or after initial registration)
 
 
 ### Hypothesis
@@ -61,21 +62,19 @@ What do you intend to learn and measure from this study? Think through these pro
 - Write a generalized statement that combines what you know + what you think will happen during the study. 
 - Remember to constrain the hypothesis to the goals of your study!
 
+
+**Hypothesis 1**
+- We assume that Veterans will not use the term registration only when referring to health care benefits but will talk about enrollment and eligibility.
+ 
+ **Hypothesis 2**
+
+- 
+
 ## Methodology	
 
 - Semi-structured interviews - appropriate for generative research
 
 
-
-
-
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
 Remote via Zoom
