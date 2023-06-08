@@ -42,12 +42,15 @@ Phased approach to iterate on low-fi wireflows / hypothesis creation during this
 ### Research questions
 Out goal is to learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them.
 - What is the experience of "registering only" today? 
+- How does the regulation "§ 17.37 - Enrollment not required—provision of hospital and outpatient care to veterans" impact Veterans when applying for health care?
 - 
 
 Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care and Priority Groups impacting them during the health care application process.
+- What is the Veteran's mental model of discovering, getting and keeping health care benefits as they go through the application process?
+- What is the Veterans perception of eligibility and Priority Groups when they are completing the application?
 
 Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for.
-
+- What is the Veteran's current pain points with how the health care application impacts the overall benefits journey?
 
 
 
