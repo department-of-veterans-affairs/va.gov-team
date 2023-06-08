@@ -1,4 +1,4 @@
-# Research Plan for [Team, Product, Date]
+# Research Plan for registration flow mental model study [Health Enrollment Team, 10-10EZ, June 2023]
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
@@ -21,6 +21,8 @@ Are there moments that matter?
 What are you trying to learn from this research? 
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+
+
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
