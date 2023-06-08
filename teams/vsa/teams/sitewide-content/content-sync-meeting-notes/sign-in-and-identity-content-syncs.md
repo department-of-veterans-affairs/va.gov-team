@@ -1,5 +1,19 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**June 8, 2023**
+-
+Attendees: Aliyah, Laura, Sofia, Joe, Carl, and Amber
+
+**Notes**
+- We started to review the "Verifying your identity on VA.gov" page. We'll update the page with these changes after we publish the Phase 1 changes (removing mentions of creating a DS Logon account). We'll continue reviewing this page next week. 
+  - We'll plan to remove the question "What's the fastest way to verify my identity online?"
+  - We'll plan to remove "without a Premium account" from the question "How do I verifiy my identity online?"
+  - Joe confirmed info for Login.gov online identity verification - if a user doesn't have a phone number in their name, Login.gov can send a letter to their mailing address instead. We added this info as a "Note" at the end of the bulleted list.
+  - Joe confirmed info for ID.me online identity verification - if a user can't upload their driver's license or passport, they can answer questions based on private and public data (like a credit report). We added this info as a "Note" at the end of the bulleted list.
+  - We'll plan to adjust "Can I verify my identity in person at a VA facility?" and remove "at a VA facility." We'll also plan to make some adjustment to this question to add information about the USPS in person program. For the USPS program, we'll need to explain that this will only happen after they've failed other verification methods.
+  - **Action item:** Joe will confirm if Experian still offers a PIN if a users credit is frozen.
+- Carl is working on adjusting email content and he should have a draft ready to share with us next week.
+
 **June 2, 2023**
 -
 Ad hoc sync with Laura, Aliyah, Joe
