@@ -1,8 +1,8 @@
 # Initial desk research of previous VA studies
 Last updated by @tygindraux on June 8, 2023
 
-## Overview of studies
-* [Profile Notification Settings, Add Email Channel - January 2023]()
+## Overview of studies in chronological order
+* [Profile Notification Settings, Add Email Channel - January 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#profile-notification-settings-add-email-channel)
 * [Disabled Veteran Accessibility Feedback - 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#disabled-veteran-accessibility-feedback)
 * [MCT Chatbot as AVA Front Door - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#multi-channel-technologies-mct-chatbot-as-ava-front-door)
 * [MCT Virtual Agent Chatbot Login.Gov and ID.me Moderated Interviews - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-virtual-agent-chatbot-logingov-and-idme-moderated-interviews)
@@ -21,7 +21,7 @@ Last updated by @tygindraux on June 8, 2023
 * [Ask VA - April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#ask-va)
 * [VA.gov Relaunch - 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#vagov-relaunch)
 
-## DETAILS OF STUDIES RELATED TO ASK VA, CHATBOT, VIRTUAL AGENT OR OTHER SUPPORT TOOLS
+## Studies related to Ask VA, chatbot, virtual agent or other support tools
 
 ### Disabled Veteran Accessibility Feedback
 
@@ -453,7 +453,7 @@ Unable to access.
 |Team|Web Brand Consolidation(?)|
 |Background|The problem this initiative aimed to solve was that Veterans do not have a single place to find, apply for, and manage their health care and benefits. On Veterans Day of 2018, VA.gov was relaunched with a consolidation of the various VA.gov digital properties (MHV, eBenefits, Vets.gov). User research for these efforts was captured in this [plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/user-research/user-research-plan.md).|
 
-## DETAILS OF STUDIES RELATED TO FORMS OR ONE THING PER PAGE PATTERN
+## Studies related to forms or one thing per page pattern
 
 ### Profile Notification Settings, Add Email Channel
 
