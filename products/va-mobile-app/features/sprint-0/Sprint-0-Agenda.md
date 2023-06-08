@@ -50,6 +50,7 @@ The Sprint 0 meeting is a time to do the following:
 ## Ready to Present
 
 * [Sprint 0: Submit Feedback](https://docs.google.com/document/d/12PejlFxL-OanOAnxJHqMLTawYnvfcNcRavPp2yVI3_w/edit#heading=h.mnq6vtjqteg4)
+* [Sprint 0: User Endpoint Enhancement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/user-endpoint-enhancement/UEE-Sprint-0.md)
 
 | Immediate Action | Next Quarter Bucket | Icebox |
 | ----------- | ----------- | ----------- |
