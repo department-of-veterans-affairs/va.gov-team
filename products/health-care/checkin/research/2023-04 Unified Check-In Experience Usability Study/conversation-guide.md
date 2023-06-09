@@ -48,7 +48,7 @@ But, before we start, I want to go over a few things:
 - **If for any reason, and at any time, you want to stop this session, please just let me know.** 
 - **And, lastly, are you comfortable if I record this session today?** We use the recordings to confirm that we have captured your opinions accurately, but the recordings are deleted after we complete our analysis. Also, none of your comments will ever be attributed to you directly. So, is it okay to record this session? 
 
-*If “no,” skip to Warm-Up Questions.* 
+*If “no,” skip to [Warm-Up Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/conversation-guide.md#warm-up-questions---1-minute).* 
 
 Great. Once I start recording, I am going to confirm that you are okay with me recording this session once more. Okay, I’m going to start the recording now.   
 
@@ -106,7 +106,7 @@ As a reminder, I’m going to be asking you to do some specific tasks using the 
 
 Great. So, typically the first step of the process of preparing for your upcoming medical appointments starts with the VA sending you a text message on your smartphone a few days before your appointment.  
 
-*If the participant prefers using email to receive information, skip to Instructions for Using Email.*
+*If the participant prefers using email to receive information, skip to [Instructions for Using Email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/conversation-guide.md#instructions-for-using-email).*
 
 #### Instructions for using Zoom 
 
@@ -143,7 +143,7 @@ Great. Now, I’m going to send you an automated response back. When you receive
 
 *Your appointment for FEB 2 at 08:00 is confirmed. To prepare for your appointment, check if your information is up to date: https://codepen.io/team/va-cie/live/NWORQEe*
 
-*Skip ahead to Pre-Check-In Text Message Task Questions.*
+*Skip ahead to [Pre-Check-In Text Message Task Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/conversation-guide.md#pre-check-in-text-message-task-questions).*
 
 #### Instructions for Using Email 
 
