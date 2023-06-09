@@ -266,7 +266,7 @@ Perfect. So, again, please start reviewing the information on this screen, but r
 
 Great. So, you updated your contact information for your 8 am appointment and you confirmed another upcoming appointment. 
 
-- So, overall, how easy or difficult has it been to complete this process? And, why? 
+- So, overall, how easy or difficult has it been to confirm an upcoming appointment? And, why? 
 - And, overall, has there been any information or any step that’s been unclear?  
 - And, overall, has there been anything that you would change or add about this process to make it easier? 
 
