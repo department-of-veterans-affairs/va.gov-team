@@ -66,7 +66,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Topic: [Current Process] - X minutes
 
-- Can you explain to me the process you took when you applied for health care benefits recently?
+- Can you explain to me in your own words the process you took when you applied for health care benefits recently?
+- [If they don't specify] Did you complete this online, in-person or via paper application by yourself?
 - Anything that stood out to you?
 - Was there any part of that process that was frustrating or difficult for you?
 - Was the amount of information you had to provide feel like the right amount or was it alot?
@@ -75,29 +76,42 @@ Before we look at the website, let’s start with a few warm-up questions.
 ### Things to watch for:
 - [What terminology does the Veteran use as they talk about their experience (enroll, register, priority groups, etc)?]
 - [How does the Veteran portray the overall process - easy, difficult, uneventful?]
-- []
+- [What pain points or areas of confusion are revealed?]
 
 ## Second Topic: [Getting Benefits/Eligibility] - X minutes
 
 - How did you determine or do the research beforehand to know what health benefits you could get?
 - Did anyone help you figure out what you qualify for and what your benefits include?
+- Would you rather do the research yourself or be told what you qualify for?
+- Did you want to only get care for one specific thing, or were you interested in getting full health care coverage?
+- 
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
+- [How does the Veteran descirbe the process of figuring out what they are eligble for - are they frustrated, do they find it easy?]
+- [Is there a mix or preference for wanting to be told what they get or search it out on their own?]
 - [Etc]
 
 ## Third Topic: [Ideal State] - X minutes
 
-- If you cold describe how - in a perfect world - you would want the health care application process to go?
-- Step 2
+- Could you describe how - in a perfect world - you would want the health care application process to go for you?
+- How would you like to discover what options you have to get the level of care that is right for you?
+- What information would be important to you to know how to choose between health care benefit options?
 
 ### Things to watch for:
 
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
+
+
+
+## Fourth Topic: [Scenario 1] - X minutes
+
+
+
+
+
 
 ## Post-Task Interview - X minutes
 
