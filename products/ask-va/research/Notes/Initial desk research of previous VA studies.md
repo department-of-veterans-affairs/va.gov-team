@@ -421,7 +421,7 @@ Unable to access.
 
 ### VSP, Ask VA - Business, Personal Tabs (IRIS)
 
-`ask va` `school certifying officials`
+`ask va` `education`
 
 |Issue|Not available. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2022-02/research-plan.md).|
 |:--|:--|
