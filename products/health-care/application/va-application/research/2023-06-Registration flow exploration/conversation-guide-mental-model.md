@@ -55,13 +55,13 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions (Optional) - X minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Let’s start with a few warm-up questions.
 
 - Are you currently enrolled and using health care benefits from the VA? [confirmation of reqruitment screener questions]
 - How long have you been receiving medical care from the VA?
 - How often do you visit a VA facility?
 - Do you regularly visit VA.gov?
-- Do you receive benefits from the VA in addition to your medical benefits?
+- Do you receive other benefits from the VA in addition to your medical benefits?
 
 
 ## First Topic: [Current Process] - X minutes
@@ -70,39 +70,45 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [If they don't specify] Did you complete this online, in-person or via paper application by yourself?
 - Anything that stood out to you?
 - Was there any part of that process that was frustrating or difficult for you?
-- Was the amount of information you had to provide feel like the right amount or was it alot?
+- What is your recollection about the amount of information you had to provide?
+- Was it clear to you as you were applying, what benefits or level of care you would qualify for? 
+- How would you describe the process after you applied - was it clear to you how your application impacted your benefits?
+- When it comes to registering and health care at the VA, what does that mean to you?
 
 
 ### Things to watch for:
 - [What terminology does the Veteran use as they talk about their experience (enroll, register, priority groups, etc)?]
 - [How does the Veteran portray the overall process - easy, difficult, uneventful?]
 - [What pain points or areas of confusion are revealed?]
+- [What things does a Veteran talk about in regards to ther term registration?]
+
 
 ## Second Topic: [Getting Benefits/Eligibility] - X minutes
 
-- How did you determine or do the research beforehand to know what health benefits you could get?
-- Did anyone help you figure out what you qualify for and what your benefits include?
+- How did you determine what health benefits you could get when you recently applied?
+- Did anyone help you figure out what you qualify for and what your benefits included?
 - Would you rather do the research yourself or be told what you qualify for?
-- Did you want to only get care for one specific thing, or were you interested in getting full health care coverage?
-- 
+- Did you want to only get care for one specific health concern, or were you interested in getting full health care coverage?
+- Looking back now after you have been using health care benefits now, is there anything you wish you would have know during the application?
 
 ### Things to watch for:
-
-- [How does the Veteran descirbe the process of figuring out what they are eligble for - are they frustrated, do they find it easy?]
+- [How does the Veteran descirbe the process of figuring out what they are eligble for - are they frustrated, do they find it easy, do they just expect the VA to have the data and figure it out for them?]
 - [Is there a mix or preference for wanting to be told what they get or search it out on their own?]
-- [Etc]
+- [Is there any confusion about their benefits within the health care benefits they recieve?]
+- [Do they know and mention their Priority Group during these questions?]
 
 ## Third Topic: [Ideal State] - X minutes
-
-- Could you describe how - in a perfect world - you would want the health care application process to go for you?
+- Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using your benefits. 
+- What tools, communication, people could make this the best process possible in your mind?
 - How would you like to discover what options you have to get the level of care that is right for you?
-- What information would be important to you to know how to choose between health care benefit options?
+- What information would be important to you so you feel confident when having to choose between health care benefit options?
+
 
 ### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Are there any terminology used that stand out as the Veteran is describing their ideal process?]
+- [What steps do they call out?]
+- [What steps do they leave out?]
+- [What do they mention or call out as information that is helpful in making decisions about health care benefit choices?]
 
 
 
