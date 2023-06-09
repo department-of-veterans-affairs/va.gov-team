@@ -19,7 +19,7 @@ The user is able to navigate between the appointment status (upcoming, pending, 
   - N/A
 * How does this initiative help further OCTO-DE's mission and goals?
   - Improve user satisfaction
-  - Meet user expectations of a seamless expereince 
+  - Meet user expectations of a seamless experience 
 
  <details>
   <summary><b>User Feedback Quotes</b></summary>
@@ -48,6 +48,8 @@ These are based on the [Sitewide IA Recommendations](https://github.com/departme
 - IA will review the full list of URLs for the MVP
 - We will not change heading content as part of this effort
 - We will remove cc/va from the details page URLS
+- Scheduling pages will continue to show breadcrumbs, updated to show the new structure
+    - The Forms Digitization team will be exploring a descriptive back link on task-flows. Once that work is complete we'll follow their lead.
 
 **Not doing:**
 - We will not update the cancelation flow for this round. We'll revisit moving it to separate pages when we look at updating that flow in te future
