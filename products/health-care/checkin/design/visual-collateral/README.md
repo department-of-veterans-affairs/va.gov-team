@@ -4,7 +4,7 @@
 
 ### Latest Release (PDF)
 - Release Notes
-  - 5/30/2023 - Updated per IVC feedback <br><br>
+  - 5/30/2023 - Removed QR code <br><br>
     - 8.5" X 11" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11629886/8.5x11-lowvision-noqrcode-fin.pdf)
  Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11629889/8.5x11-lowvision-noqrcode-philippines-fin.pdf)
 
