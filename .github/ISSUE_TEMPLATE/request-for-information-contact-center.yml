@@ -1,6 +1,6 @@
 name: Request for Information
 description: Please use this form to request information for tier 2/3 support from all appropriate CRMs.
-title: "Request for Information" (RFI)
+title: "Request for Information (RFI)"
 labels: [ "VSP-contact-center", "request-for-information-cc" ]
 assignees:
   - Kimberley2019, ATMiddleton
@@ -84,3 +84,4 @@ body:
           Please leave this field as is when submitting.
     validations:
       required: false
+      
