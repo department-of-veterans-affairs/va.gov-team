@@ -1,11 +1,6 @@
 ---- 
 
-
-# We've moved our docs!
-
-### This document is no longer maintained.
-
-### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) and/or [#zenhub-information](https://app.slack.com/client/T03FECE8V/C05BRLN52HJ).
+### For community assitance with Zenhub issues, go to [#zenhub-information](https://app.slack.com/client/T03FECE8V/C05BRLN52HJ).
 
 
 ----
