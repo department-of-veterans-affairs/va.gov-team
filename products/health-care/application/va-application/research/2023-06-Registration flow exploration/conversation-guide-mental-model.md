@@ -33,7 +33,7 @@ Slack for real-time feedback from observers.
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about the overall health care application process.
+Today we're going to talk about the health care application process.
 
 Before we start, a few things I want to mention:
 
@@ -58,21 +58,23 @@ Before we start, a few things I want to mention:
 Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+
 - Are you currently enrolled and using health care benefits from the VA?
+- How long have you been receiving medical care from the VA?
 - Do you regularly visit VA.gov?
 - How often do you visit a VA facility?
 
 ## First Topic: [Current Process] - X minutes
 
-- Can you explain to me the process you took when you applied for health care benefits?
-
+- Can you explain to me the process you took when you applied for health care benefits recently?
+- Anything that stood out?
 - Was there any part of that process that was frustrating or difficult for you?
 
 
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
+- [What terminology does the Veteran use as they talk about their experience?]
 - [Does the participant notice xyz?]
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Etc]
