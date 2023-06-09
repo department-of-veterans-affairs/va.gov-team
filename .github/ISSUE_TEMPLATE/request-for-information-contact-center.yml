@@ -60,11 +60,12 @@ body:
       placeholder: "Terms: can't see, can't move past, won't allow, claim status tool"
     validations:
       required: true
-  - type: dropdown
+  - type: textarea
     id: data-delivery
     attributes:
       label: File Delivery Format
       description: All information will be delivered via encrypted email on VA Network
+      placeholder: 
     validations:
       required: true
   - type: input
