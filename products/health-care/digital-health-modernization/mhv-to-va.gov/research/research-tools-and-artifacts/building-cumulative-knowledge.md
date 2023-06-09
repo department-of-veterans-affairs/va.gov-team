@@ -11,8 +11,9 @@ Searching through the research repo can be a little challenging (though it has b
 1. Use the card labels _(Easiest but least comprehensive)_
 -  All studies should be tagged with different cards. You can use the "filter" functionality at the top of the page. [Instructions can be found here.](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/145)
 <img width="938" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/100814257/478a991d-6055-452f-a7c9-013750b260ff">
+
 -  Generic card labels that intersect with MHV on VA.gov work include (but are not limited to): 
-      - BNFT: Healthcare
+      -  BNFT: Healthcare
       - Any MHV label
       - PRDT: health-care-apartment
       - PRDT: health-care-patient-portal
@@ -33,4 +34,5 @@ _Flesh out with Peter_
 - Review the GitHub folders of teams that you know overlap with your product (such as Mobile)
 
 2. Google
+
 This approach usually produces more foundational knowledge that isn't immediately relevant but still worth knowing. For example, googling can produce insights around [Veteran population demographics](https://www.pewresearch.org/short-reads/2021/04/05/the-changing-face-of-americas-veteran-population/) or VA-specific sites related to the [burden of vision disabilities](https://www.prosthetics.va.gov/blindrehab/About_Blind_Rehabilitation_Service.asp) amongst current and future users of VA.gov. 
