@@ -76,6 +76,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 #### Front-end Engineers
 - [ ] Review [frontend developer documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/Frontend-developer-documentation.687931428.html) on Platform Website
 - [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
+- [ ] Either attend a live Front-end orientation session ([schedule via Calendly](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Front-endorientation)) or watch a prerecorded video
 - [ ] Either attend a live Analytics orientation session ([schedule via Calendly](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Analyticsorientation)) or watch a prerecorded video
 - [ ] Either attend a live Accessibiliy orientation session ([schedule via Calendly](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation)) or watch a prerecorded video
 - [ ] Either attend a live QA orientation session ([schedule via Calendly](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation)) or watch a prerecorded video
