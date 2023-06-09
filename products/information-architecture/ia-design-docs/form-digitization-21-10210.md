@@ -1,5 +1,5 @@
 # IA Design for Form 21-10210
-**STATUS: In review**
+**STATUS: Completed**
 #### Edit history
 - 5/16/23 - updated spec (JM)
 
