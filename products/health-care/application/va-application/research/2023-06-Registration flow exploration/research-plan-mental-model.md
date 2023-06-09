@@ -1,4 +1,4 @@
-# Research Plan for registration flow mental model hypothesis flow study [Health Enrollment Team, 10-10EZ, June 2023]
+# Research Plan for "registration only" mental model hypothesis flow study [Health Enrollment Team, 10-10EZ, June 2023]
 
 ## Background
 The online health care application today processes all applications as enrollment. With regards to regulation § 17.37 Enrollment not required—provision of hospital and outpatient care to veterans which is being called the "registration only" path. This has a mix of eligibility criteria or scenarios for the Veteran to meet and a mix of what type of benefits they would be receiving - ranging from care for one need to the "full medical benefits package". 
@@ -65,7 +65,10 @@ Learn more about how Veterans would like to go about applying, discovering eligi
 ## Methodology	
 - Semi-structured interviews - appropriate for generative research
 
-Additional desk research to conduct:
+We will iterate on the scenarios in the Conversation Guide throughout the study; in bewtween cohorts, using what we learned from the interviews so far and ongoing desk and staff research.
+
+
+Additional desk research will be conducted to supplement these interviews:
 - Google analytics path and keyword study
 - VSignals 
 
@@ -108,12 +111,16 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 
 
+
+
+
 **Screener Questions**
-Cohort 1
+Per Cohort
+At least 3 participants:
 Have you visited a VA facility for a medical visit/exam in the past year and did not enroll in health care benefits package? [answer should be yes to qualify.]
 
-Cohort 2
-Have you applied within the past 3 years and are now enrolled in health care?
+At least 3 participants:
+Have you applied within the past 3 years and are now enrolled in health care? [answer should be yes to qualify.]
 
 
 
@@ -125,6 +132,10 @@ What criteria would strengthen your results?
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+
+Cohort 1: 
+Cohort 2:
+Cohort 3: 
 
 
 
