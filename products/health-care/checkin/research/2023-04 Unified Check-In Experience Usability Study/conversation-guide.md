@@ -33,7 +33,7 @@ Hello and thank you for joining today. My name is Ben. How are you doing today?
 
 Great. I wanted to quickly let you know that I have a colleague with me in this session who will be helping me to take notes.
 
-*If the participant is using a screen reader:* And, I also have Sara (and/or Angela) with me to help with any technical needs, if they arise, that’s related to using a screen reader during this session.  
+*If the participant is using a screen reader:* And, I also have Sara (and/or Angela) with me to help with any technical needs, if they do arise, that’s related to using a screen reader or screen magnification during this session.  
 
 So, today, I'm going to ask you to do some specific tasks using a prototype that I will share with you in just a few moments. 
 
@@ -41,15 +41,15 @@ But, before we start, I want to go over a few things:
 
 *Check to see if anyone is waiting to join the room. If not, skip the first bullet below.*  
 
-- First, I have some other colleagues in the waiting room who would like to observe and take notes. Previously, Perigean asked for your consent to allow observers during this session, but I wanted to ask again now to be sure before we get going. So, are you okay with letting observers in for this session?  
+- **First, I have some other colleagues in the waiting room who would like to observe and take notes.** Previously, Perigean asked for your consent to allow observers during this session, but I wanted to ask again now to be sure before we get going. So, are you okay with letting observers in for this session?  
      - If “no,” ask the observers to leave Zoom via Slack. 
      - If “yes,” let other observers into the room. 
           - And, here are my colleagues. Team, please unmute your camera and microphone and quickly introduce yourself with your first name and role.
           - And now for my colleagues who just joined, if you could please turn off your cameras to save bandwidth and mute your audio, that would be great. Thank you.  
-- So, this session today should take about an hour, maybe a little less. I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.  
-- And, in this session, we want to hear your honest opinions. There are no right or wrong answers. We are not testing your knowledge or abilities. We’re testing a prototype to learn how we can make it easier to use for Veterans. I welcome any and all of your feedback and I won’t be offended by opinions you express.  
-- If for any reason, and at any time, you want to stop this session, please just let me know. 
-- And, lastly, are you comfortable if I record this session today? We use the recordings to confirm that we have captured your opinions accurately, but the recordings are deleted after we complete our analysis. Also, none of your comments will ever be attributed to you directly. So, is it okay to record this session? 
+- **So, this session today should take about an hour, maybe a little less.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.  
+- **And, in this session, we want to hear your honest opinions.** There are no right or wrong answers. We are not testing your knowledge or abilities. We’re testing a prototype to learn how we can make it easier to use for Veterans. I welcome any and all of your feedback and I won’t be offended by opinions you express.  
+- **If for any reason, and at any time, you want to stop this session, please just let me know.** 
+- **And, lastly, are you comfortable if I record this session today?** We use the recordings to confirm that we have captured your opinions accurately, but the recordings are deleted after we complete our analysis. Also, none of your comments will ever be attributed to you directly. So, is it okay to record this session? 
 
 *If “no,” skip to Warm-Up Questions.* 
 
@@ -72,7 +72,7 @@ So, before we go to the prototype, let’s start with a few warm-up questions.
      - And, how would you rate your level of experience with using that technology - beginner, intermediate, advanced or expert? 
      - How long have you been using that technology? 
 - *If the participant is using screen magnification:* 
-     - Are you using a magnification tool today? If so, what type? (For example, Zoom.) 
+     - Are you using a screen magnification tool today? If so, what type? (For example, Zoom.) 
      - And, how would you rate your level of experience with using that technology - beginner, intermediate, advanced or expert? 
      - How long have you been using that technology? 
 - Have you been to a VA health facility for a medical appointment for yourself in the last 12 months?
@@ -83,15 +83,17 @@ Great. Thank you.
 
 Now, I’d like to be able to see your screen so I can see how you’re using the prototype. Are you comfortable sharing your screen with me today? 
 
-Great. Now, if there’s any apps, webpages or notifications on your device that you’d like to close or turn off before I’m able to see your screen, I’ll give you a moment to do that now. 
+Great. Now, if there’s any apps, web pages or notifications on your device that you’d like to close or turn off before I’m able to see your screen, I’ll give you a moment to do that now. 
 
 So, now I’ll talk you through how to share your screen.  
 
-Please tap (or select) the screen anywhere. And, as you tap the screen you will see a menu appear at the bottom of your screen. In that menu, tap (or select) "Share." If you don’t see “Share” in that menu, you may need to tap the menu and drag it to the left to uncover more options. And, when you see the “Share” option, go ahead and select it.   
+Please tap (or select) the screen anywhere. And, as you tap the screen a menu will open at the bottom of your screen. In that menu, tap (or select) "Share." If you can’t find “Share” in that menu, you may need to tap the menu and drag it to the left to uncover more options. And, when you find the “Share” option, go ahead and select it.   
 
-Then, tap (or select) "Screen." Then, tap the words, “Start Broadcast.” Now, tap (or select) anywhere on the paragraph at the top of the screen that starts with "Everything on your screen." Perfect. 
+Then, tap (or select) "Screen." Then, tap the words, “Start Broadcast.” Now, tap (or select) anywhere on the paragraph at the top of the screen that starts with "Everything on your screen." 
 
-### Can’t Share Screen Strategy
+Perfect. 
+
+### Can’t Share Screen Strategy (If Needed)
 
 Well, it seems like we’re having some trouble sharing your screen, but that’s okay. I’m still interested in proceeding with our session today. Instead of sharing your screen, I’d like for you to use the prototype on your screen, but talk aloud for me to understand what you’re doing. Does that sound okay? 
 
@@ -113,9 +115,11 @@ Great. So, typically the first step of the process of preparing for your upcomin
 
 So, what I’d like to do is use the Zoom (messages) chat to pretend VA is sending you a text message and have you review it. Does that sound okay? 
 
-Ok. Now go ahead and tap (or select) the screen anywhere. And, as you tap the screen you will see that menu appear at the bottom of your screen. In that menu, tap (or select) “Chat.” 
+Ok. Now go ahead and tap (or select) the screen anywhere. And, as you tap (or select) the screen a menu will appear at the bottom of your screen. In that menu, tap (or select) “Chat.” 
 
-Perfect. Now, let’s pretend that you have an upcoming appointment that’s on Monday, February 2 at 8:00 am. And, let’s pretend that that’s in a few days from now. 
+Perfect. 
+
+Now, let’s pretend that you have an upcoming appointment that’s on Monday, February 2 at 8:00 am. And, let’s pretend that that’s in a few days from now. 
 
 Now, I’m going to send you the first text message. When you receive it, go ahead and review the message, pretending it’s a text message that you received on your smartphone. 
 
