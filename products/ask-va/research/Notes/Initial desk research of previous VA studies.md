@@ -26,7 +26,7 @@ Last updated by @tygindraux on June 8, 2023
 
 ### Profile Notification Settings, Add Email Channel
 
-`one thing per page` `forms` `accessibility`
+`one thing per page` `forms`
 
 |Issue|[#214](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/214)|
 |:--|:--|
