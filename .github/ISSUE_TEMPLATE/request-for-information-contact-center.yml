@@ -43,15 +43,7 @@ body:
       description: Please provide the name(s) of your tool(s).
       placeholder: Claim Status Tool
     validations:
-      required: true
-  - type: textarea
-    id: product-description
-    attributes:
-      label: Tool Description
-      description: Please provide a high level description (one or two sentences) of your tool(s) and the issue(s) you want our team to be on the lookout for. 
-      placeholder: 
-    validations:
-      required: true
+      required: true    
   - type: dropdown
     id: data-delivery
     attributes:
