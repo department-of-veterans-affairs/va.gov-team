@@ -22,8 +22,8 @@ Attendees: Susan Haidary, Florence McCafferty, Patrick Bateman
 - Help desk does not offer user support around Secure Messaging
 - Instead, there is a secure messaging field questions group that communicates via email listserv
 
-### MHV Neighborhood on Teams
-- Help each other with questions about problems users are running into
+### MHV Neighborhood Channel on Teams
+- Coordinators helping each other with questions about problems users are running into
 
 ### Coordinators
 - If users reach out to a coordinator at a CBOT, the coordinator will chase down answers for them
