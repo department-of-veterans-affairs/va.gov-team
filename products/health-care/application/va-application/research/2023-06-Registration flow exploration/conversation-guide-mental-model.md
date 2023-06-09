@@ -4,13 +4,6 @@
 ### 2-3 days before the session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 
-- Complete any project-specific setup tasks for this study (List them below)
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
-
-
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
 Slack for real-time feedback from observers.
@@ -39,14 +32,13 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.** 
 - Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers. 
     - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
    - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+- **Are you comfortable if I record my audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording.*
@@ -126,11 +118,16 @@ Let’s start with a few warm-up questions.
 
 - For this second scenario, let's imagine again you are applying for health care online and you arrive at a page that explains the process and outlines the various health care benefit packages and levels clearly. 
 - You start the application by answering a few basic questions about who you are, where you live and how you can be contacted. You then complete some basic questions about any health care coverage you may already have as well as confirming your military service history. 
-- Next you are preseneted with a series of yes/no questions that walk you through an eligibility screening basically. Once this is completed, you are told what benefit package you could possibly qualify for or it is determined you need to continue on with more questions and provide additional info such as your income and how many dependents you have. But if you are told you qualify based on the initial screening, you don't have to provide the additional info during the application. 
+- Next you are preseneted with a series of yes/no questions that walk you through an eligibility screening basically. Once this is completed, you are told what benefit package you could possibly qualify for or it is determined you need to continue on with more questions and provide additional info such as your income and how many dependents you have. But if you are told you qualify based on the initial screening, you don't have to answer these other questions.
+- Once you are done, you are told a benefit type and level (or range) that you might qualify for. 
 
-- What are your thoughts on this process?
-- Would you find a lot of yes/no questions that could be realted to your service connected disability or medical situation in the middle of the application?
-- Would you want to know on the spot during the application what level (Priority Group) you are eligible for?
+
+- What are your initial reactions or thoughts on this process?
+- Does anything stand out to you as helpful or annoying?
+- Would you find a lot of yes/no questions that could be related to your service connected disability or medical situation in the middle of the application intrusive?
+- Would you want to know on the spot during the application what level (Priority Group) you might be eligible for or are you fine with waiting to hear from the VA?
+- What information do you think you need to provide to get placed into the correct type and level of benefits?
+
 
 
 ## Fourth Topic: [Scenario 1 - Cohort 2] - X minutes
