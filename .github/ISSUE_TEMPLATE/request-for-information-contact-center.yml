@@ -5,14 +5,6 @@ labels: [ "VSP-contact-center", "request-for-information-cc" ]
 assignees:
   - Kimberley2019, ATMiddleton
 body:
-  - type: markdown
-    attributes:
-      value: |
-          ## What this form is for
-          The Contact Center Team is responsible for tier 2/3 support along with associated and data and reporting. Please use this form to request information from our team for specific issues, challenges, bugs, error messages that users may expereience when using your tool(s).
-          Information is based off of tier 1 agents phone conversation with user and may not produce all information you are in need of.  
-          
-          *Please allow 5 business days for delivery.*
   - type: dropdown
     id: data-request-type
     attributes:
@@ -84,4 +76,4 @@ body:
           Please leave this field as is when submitting.
     validations:
       required: false
-      
+
