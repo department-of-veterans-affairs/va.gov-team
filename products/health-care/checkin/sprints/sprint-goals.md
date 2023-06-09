@@ -62,6 +62,7 @@ ________________________________________________________________________________
 - **GOAL: Address tech & design debt**   
    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Set up new sketch files for use](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59744)
    - [Platform Orientation Template [Lee Delarm]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59192)
+   - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png)[Compare GA4 Automatically-Logged Events against our UA Custom Events Logged](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60000)
 
 ------------------------- END FUTURE / TENTATIVE ------------------------------------
 
