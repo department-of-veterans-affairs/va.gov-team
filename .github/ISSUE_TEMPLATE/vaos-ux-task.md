@@ -10,11 +10,14 @@ assignees: ''
 ## Task Description
 
 
-## References
+## Notes and References
 -
 
 ## Acceptance Criteria
-- [ ]
+- [ ] 
+
+## Deliverables
+- 
 
 ---
 ## How to configure this issue
