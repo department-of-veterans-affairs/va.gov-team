@@ -42,4 +42,5 @@ For relevant appointments research, visit the [Appointments Research on VA.gov p
 
 ## Related Research
 - [MyHealtheVet/VA.gov profile transition research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research) (VA.gov Profile Team - April 2022)
+- [2023 Generative Logged-in Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research) (Authenticated Experience team - April 2022)
 
