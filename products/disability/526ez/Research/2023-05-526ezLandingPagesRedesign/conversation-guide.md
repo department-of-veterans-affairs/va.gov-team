@@ -35,7 +35,7 @@ Today we're going to walk through a protoype of the VA Disability Compensation f
 Before we start, a few things I want to mention:
 
 - **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. Your feedback is helping us improve the language on these pages so its a better experience for veterans. I will not be offended by any opinions you express, and I welcome your feedback.
+- **In this session, we want to hear your honest opinions.** We are not testing your ability. Your feedback is helping us improve the language on these pages so its a better experience for veterans. I will not be offended by any opinions you express, and I welcome your feedback either about what you read or see.
 - [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** You will be compensated regardless of whether you complete the session or answer all of the questions.
 - Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
@@ -68,7 +68,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Imagine you are here to *insert pertinant scenario,* 
 - Take a moment to look over the page. What is the first thing you would after arriving on this page? [emphasize more after first few interviews]
-- Read everything on this page up until the “Sign in” button at your own pace. You can read aloud or to yourself. Try to look for any information relavant to your situation as a *insert scenario*. If questions come up for you as your e reading feel free to say them out loud.  let me know when you are finished, and then I will ask you a few questions.
+Before you start reading, Try to look for any information relavant to your situation as a *insert scenario*. If questions come up for you as youre reading feel free to say them out loud. Try to point to things you are lookin at with your mouse so I can follow alonng. let me know when you are finished, and then I will ask you a few questions. Read everything on this page up until the “Sign in” button at your own pace. You can read aloud or to yourself. Let me know when you're done. 
 - Do you think the information here could be clearer? how so?
 - On a scale from 1 to 10, 1 being not at all useful, and 10 being very useful, how useful or not was the information in this section of the page?
     - Why did you choose that number?
