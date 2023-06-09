@@ -1,4 +1,4 @@
-# Conversation Guide 
+# Conversation Guide - Cohort 1
 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -57,32 +57,30 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
-
-- Are you currently enrolled and using health care benefits from the VA?
+- Are you currently enrolled and using health care benefits from the VA? [confirmation of reqruitment screener questions]
 - How long have you been receiving medical care from the VA?
-- Do you regularly visit VA.gov?
 - How often do you visit a VA facility?
+- Do you regularly visit VA.gov?
+- Do you receive benefits from the VA in addition to your medical benefits?
+
 
 ## First Topic: [Current Process] - X minutes
 
 - Can you explain to me the process you took when you applied for health care benefits recently?
-- Anything that stood out?
+- Anything that stood out to you?
 - Was there any part of that process that was frustrating or difficult for you?
-
+- Was the amount of information you had to provide feel like the right amount or was it alot?
 
 
 ### Things to watch for:
-
-- [What terminology does the Veteran use as they talk about their experience?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+- [What terminology does the Veteran use as they talk about their experience (enroll, register, priority groups, etc)?]
+- [How does the Veteran portray the overall process - easy, difficult, uneventful?]
+- []
 
 ## Second Topic: [Getting Benefits/Eligibility] - X minutes
 
-- Step 1
-- Step 2
+- How did you determine or do the research beforehand to know what health benefits you could get?
+- Did anyone help you figure out what you qualify for and what your benefits include?
 
 ### Things to watch for:
 
@@ -92,7 +90,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Third Topic: [Ideal State] - X minutes
 
-- Step 1
+- If you cold describe how - in a perfect world - you would want the health care application process to go?
 - Step 2
 
 ### Things to watch for:
