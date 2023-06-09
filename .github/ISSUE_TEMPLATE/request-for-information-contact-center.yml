@@ -43,7 +43,23 @@ body:
       description: Please provide the name(s) of your tool(s).
       placeholder: Claim Status Tool
     validations:
-      required: true    
+      required: true
+  - type: textarea
+    id: product-description
+    attributes:
+      label: Tool Description
+      description: Please provide a high level description (one or two sentences) of your tool(s) and the issue(s) you want our team to be on the lookout for. 
+      placeholder: 
+    validations:
+      required: true
+  - type: textarea
+    id: product-urls
+    attributes:
+      label: Tool URL and term(s)
+      description: Please Please provide the root directory(ies) for your tool(s).  This will help us to determine if the issues being experienced are with your tool. When providing specific terms to search for, please include those terms as well as common alternate spellings.
+      placeholder: "Terms: can't see, can't move past, won't allow, claim status tool"
+    validations:
+      required: true
   - type: dropdown
     id: data-delivery
     attributes:
