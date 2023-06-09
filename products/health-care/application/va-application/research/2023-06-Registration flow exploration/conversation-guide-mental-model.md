@@ -1,4 +1,4 @@
-# Conversation Guide - Cohort 1
+# Conversation Guide 
 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -45,7 +45,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions (Optional) - 3 minutes
 
 Let’s start with a few warm-up questions.
 
@@ -56,7 +56,7 @@ Let’s start with a few warm-up questions.
 - Do you receive other benefits from the VA in addition to your medical benefits?
 
 
-## First Topic: [Current Process] - X minutes
+## First Topic: [Current Process] - 10 minutes
 
 - Can you explain to me in your own words the process you took when you applied for health care benefits recently?
 - [If they don't specify] Did you complete this online, in-person or via paper application by yourself?
@@ -75,7 +75,7 @@ Let’s start with a few warm-up questions.
 - [What things does a Veteran talk about in regards to ther term registration?]
 
 
-## Second Topic: [Getting Benefits/Eligibility] - X minutes
+## Second Topic: [Getting Benefits/Eligibility] - 10 minutes
 
 - How did you determine what health benefits you could get when you recently applied?
 - Did anyone help you figure out what you qualify for and what your benefits included?
@@ -89,7 +89,7 @@ Let’s start with a few warm-up questions.
 - [Is there any confusion about their benefits within the health care benefits they recieve?]
 - [Do they know and mention their Priority Group during these questions?]
 
-## Third Topic: [Ideal State] - X minutes
+## Third Topic: [Ideal State] - 10 minutes
 - Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using your benefits. 
 - What tools, communication, people could make this the best process possible in your mind?
 - How would you like to discover what options you have to get the level of care that is right for you?
@@ -104,9 +104,9 @@ Let’s start with a few warm-up questions.
 
 
 
-## Fourth Topic: [Scenario 1 - Cohort 1] - X minutes
+## Fourth Topic: [Scenario 1 - Cohort 1] - 10 minutes
 
-- For this scenario, let's imagine you are want to apply and sign up for health care, but you don't know what you qualify for or know what benefits you would get. You do some online research and arrive at a page where you can apply for health care benefits, still being uncertain of your eligibility.
+- For this first scenario, let's imagine you are want to apply and sign up for health care, but you don't know what you qualify for or know what benefits you would get. You do some online research and arrive at a page where you can apply for health care benefits, still being uncertain of your eligibility.
 - At the start of the application, you are presented with a choice where you can pick one of these options or both. The choices are 1. enrollment for full medical benefits or 2. registration for care or for the full medical benefits. 
 
 - What would you choose? Can you explain your thinking to us?
@@ -114,7 +114,7 @@ Let’s start with a few warm-up questions.
 - What are your thoughts on how this is worded? Would you like to call the steps in this process something else?
 - How would you feel if you selected one of these benefits and found out after the application that you are not elligible and should have chosen the other benefit option?
 
-## Fifth Topic: [Scenario 2 - Cohort 1] - X minutes
+## Fifth Topic: [Scenario 2 - Cohort 1] - 10 minutes
 
 - For this second scenario, let's imagine again you are applying for health care online and you arrive at a page that explains the process and outlines the various health care benefit packages and levels clearly. 
 - You start the application by answering a few basic questions about who you are, where you live and how you can be contacted. You then complete some basic questions about any health care coverage you may already have as well as confirming your military service history. 
@@ -143,10 +143,9 @@ TBD
 
 
 
+## Post-Task Interview - 5 minutes
 
-
-## Post-Task Interview - X minutes
-
+- Out of the 2 scenarios that were talked through with you, what one would you prefer out of those and why?
 - Is there anything else you would like to add about what we talked about today?
 - Any questions for me? 
 
