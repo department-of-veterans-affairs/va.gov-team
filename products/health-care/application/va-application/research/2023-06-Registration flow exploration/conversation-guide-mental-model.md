@@ -33,7 +33,7 @@ Slack for real-time feedback from observers.
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about [description of your project].
+Today we're going to talk about the overall health care application process.
 
 Before we start, a few things I want to mention:
 
@@ -58,11 +58,17 @@ Before we start, a few things I want to mention:
 Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+- Are you currently enrolled and using health care benefits from the VA?
+- Do you regularly visit VA.gov?
+- How often do you visit a VA facility?
 
-## First Task: [TASK NAME] - X minutes
+## First Topic: [Current Process] - X minutes
 
-- Step 1
-- Step 2
+- Can you explain to me the process you took when you applied for health care benefits?
+
+- Was there any part of that process that was frustrating or difficult for you?
+
+
 
 ### Things to watch for:
 
@@ -71,7 +77,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
+## Second Topic: [Getting Benefits/Eligibility] - X minutes
 
 - Step 1
 - Step 2
@@ -82,7 +88,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Third Task: [TASK NAME] - X minutes
+## Third Topic: [Ideal State] - X minutes
 
 - Step 1
 - Step 2
@@ -113,6 +119,3 @@ Thank you so much again, and enjoy the rest of your day!
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
 
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
