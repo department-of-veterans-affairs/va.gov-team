@@ -112,7 +112,36 @@ Let’s start with a few warm-up questions.
 
 
 
-## Fourth Topic: [Scenario 1] - X minutes
+## Fourth Topic: [Scenario 1 - Cohort 1] - X minutes
+
+- For this scenario, let's imagine you are want to apply and sign up for health care, but you don't know what you qualify for or know what benefits you would get. You do some online research and arrive at a page where you can apply for health care benefits, still being uncertain of your eligibility.
+- At the start of the application, you are presented with a choice where you can pick one of these options or both. The choices are 1. enrollment for full medical benefits or 2. registration for care or for the full medical benefits. 
+
+- What would you choose? Can you explain your thinking to us?
+- What information would you need to confidently make a choice on what type of benefits you are choosing to apply for?
+- What are your thoughts on how this is worded? Would you like to call the steps in this process something else?
+- How would you feel if you selected one of these benefits and found out after the application that you are not elligible and should have chosen the other benefit option?
+
+## Fifth Topic: [Scenario 2 - Cohort 1] - X minutes
+
+- For this second scenario, let's imagine again you are applying for health care online and you arrive at a page that explains the process and outlines the various health care benefit packages and levels clearly. 
+- You start the application by answering a few basic questions about who you are, where you live and how you can be contacted. You then complete some basic questions about any health care coverage you may already have as well as confirming your military service history. 
+- Next you are preseneted with a series of yes/no questions that walk you through an eligibility screening basically. Once this is completed, you are told what benefit package you could possibly qualify for or it is determined you need to continue on with more questions and provide additional info such as your income and how many dependents you have. But if you are told you qualify based on the initial screening, you don't have to provide the additional info during the application. 
+
+- What are your thoughts on this process?
+- Would you find a lot of yes/no questions that could be realted to your service connected disability or medical situation in the middle of the application?
+- Would you want to know on the spot during the application what level (Priority Group) you are eligible for?
+
+
+## Fourth Topic: [Scenario 1 - Cohort 2] - X minutes
+TBD
+## Fifth Topic: [Scenario 2 - Cohort 2] - X minutes
+TBD
+
+## Fourth Topic: [Scenario 1 - Cohort 3] - X minutes
+TBD
+## Fifth Topic: [Scenario 2 - Cohort 3] - X minutes
+TBD
 
 
 
@@ -121,8 +150,7 @@ Let’s start with a few warm-up questions.
 
 ## Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
+- Is there anything else you would like to add about what we talked about today?
 - Any questions for me? 
 
 ## Thank-You and Closing - X minutes
