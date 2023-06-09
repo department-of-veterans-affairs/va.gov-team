@@ -13,13 +13,13 @@ Last updated by @tygindraux on June 8, 2023
 * [MCT VHA Virtual Agent Research - June 24, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-vha-virtual-agent-research)
 * [MCT Omnichannel Experience: Co-Design - March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-omnichannel-experience-co-design)
 * [Virtual Agent Authentication Usability Test - March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#virtual-agent-authentication-usability-test)
-* [VSP, Ask VA - Dashboard (Business, Personal) - January 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#vsp-ask-va---dashboard-business-personal)
+* [VSP, Ask VA - Business, Personal Tabs (IRIS) - January 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#vsp-ask-va---dashboard-business-personal)
 * [Needs of Spanish Speaking Veterans for the Virtual Agent - January 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#needs-of-spanish-speaking-veterans-for-the-virtual-agent)
 * [MCT Virtual Agent Facilities Conversational Design - January 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#mct-virtual-agent-facilities-conversational-design)
 * [Virtual Agent Automated Content and Claims Feature Usability Testing - Nov 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#virtual-agent-automated-content-and-claims-feature-usability-testing)
-* [VSP, Ask VA - July 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#vsp-ask-va)
+* [VSP, Ask VA (IRIS) - July 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#vsp-ask-va)
 * [Virtual Agent Inclusive Design interviews - June 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#virtual-agent-inclusive-design-interviews)
-* [Ask VA - April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#ask-va)
+* [VSP, Ask VA (IRIS) - April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#ask-va)
 * [VA.gov Relaunch - 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#vagov-relaunch-involved-multiple-studies)
 
 ## Details of studies
@@ -419,7 +419,7 @@ Unable to access.
 
 ---
 
-### VSP, Ask VA - Dashboard (Business, Personal)
+### VSP, Ask VA - Business, Personal Tabs (IRIS)
 
 `ask va` `school certifying officials`
 
@@ -524,7 +524,7 @@ Unable to access.
 
 ---
 
-### VSP, Ask VA
+### VSP, Ask VA (IRIS)
 
 `ask va`
 
@@ -598,7 +598,7 @@ Unable to access.
 
 ---
 
-### Ask VA
+### VSP, Ask VA (IRIS)
 
 `ask va`
 
