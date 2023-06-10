@@ -24,7 +24,7 @@ Last updated by @tygindraux on June 9, 2023
 
 ## Details of studies
 
-### Profile Notification Settings, Add Email Channel
+### 1. Profile Notification Settings, Add Email Channel
 
 `one thing per page` `forms`
 
@@ -56,7 +56,7 @@ Last updated by @tygindraux on June 9, 2023
 
 ---
 
-### Disabled Veteran Accessibility Feedback
+### 2. Disabled Veteran Accessibility Feedback
 
 `accessibility` `ask va` `feedback`
 
@@ -131,7 +131,7 @@ Last updated by @tygindraux on June 9, 2023
 
 ---
 
-### MCT Chatbot as AVA Front Door
+### 3. MCT Chatbot as AVA Front Door
 
 `chatbot` `ask va`
 
@@ -181,7 +181,7 @@ Last updated by @tygindraux on June 9, 2023
 
 ---
 
-### MCT Virtual Agent Chatbot Login.Gov and ID.me Moderated Interviews
+### 4. MCT Virtual Agent Chatbot Login.Gov and ID.me Moderated Interviews
 
 `chatbot` `authentication`
 
@@ -223,7 +223,7 @@ Last updated by @tygindraux on June 9, 2023
 
 ---
 
-### Profile Editing Evaluation
+### 5. Profile Editing Evaluation
 
 `one thing per page` `forms` `accessibility`
 
@@ -259,7 +259,7 @@ Last updated by @tygindraux on June 9, 2023
 
 ---
 
-### Chatbot Feature Prioritization
+### 6. Chatbot Feature Prioritization
 
 `chatbot` `authentication`
 
@@ -277,7 +277,7 @@ Unable to access.
 
 ---
 
-### MCT Omnichannel Experience: Co-Design Phase II
+### 7. MCT Omnichannel Experience: Co-Design Phase II
 
 `chatbot`
 
@@ -317,7 +317,7 @@ Unable to access.
 
 ---
 
-### VA Orchid, Virtual Agent Chatbot
+### 8. VA Orchid, Virtual Agent Chatbot
 
 `chatbot` `feedback`
 
@@ -335,7 +335,7 @@ Unable to access.
 
 ---
 
-### MCT VHA Virtual Agent Research
+### 9. MCT VHA Virtual Agent Research
 
 `chatbot`
 
@@ -364,7 +364,7 @@ Unable to access.
 
 ---
 
-### MCT Omnichannel Experience: Co-Design
+### 10. MCT Omnichannel Experience: Co-Design
 
 `chatbot`
 
@@ -389,7 +389,7 @@ Unable to access.
 
 ---
 
-### Virtual Agent Authentication Usability Test
+### 11. Virtual Agent Authentication Usability Test
 
 `chatbot` `authentication`
 
@@ -419,7 +419,7 @@ Unable to access.
 
 ---
 
-### VSP, Ask VA - Business, Personal Tabs (IRIS)
+### 12. VSP, Ask VA - Business, Personal Tabs (IRIS)
 
 `ask va` `education`
 
@@ -448,7 +448,7 @@ Unable to access.
 
 ---
 
-### Needs of Spanish Speaking Veterans for the Virtual Agent
+### 13. Needs of Spanish Speaking Veterans for the Virtual Agent
 
 `spanish` `accessibility` `chatbot`
 
@@ -475,7 +475,7 @@ Unable to access.
 
 ---
 
-### MCT Virtual Agent Facilities Conversational Design
+### 14. MCT Virtual Agent Facilities Conversational Design
 
 `chatbot`
 
@@ -507,7 +507,7 @@ Unable to access.
 
 ---
 
-### Virtual Agent Automated Content and Claims Feature Usability Testing
+### 15. Virtual Agent Automated Content and Claims Feature Usability Testing
 
 `chatbot`
 
@@ -524,7 +524,7 @@ Unable to access.
 
 ---
 
-### VSP, Ask VA (IRIS)
+### 16. VSP, Ask VA (IRIS)
 
 `ask va`
 
@@ -577,9 +577,9 @@ Unable to access.
 
 ---
 
-### Virtual Agent Inclusive Design interviews
+### 17. Virtual Agent Inclusive Design interviews
 
-`chabot` `accessibility`
+`chabot` `accessibility` `navigation`
 
 |Issue|[#1](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/1)|
 |:--|:--|
@@ -598,9 +598,9 @@ Unable to access.
 
 ---
 
-### VSP, Ask VA (IRIS)
+### 18. VSP, Ask VA (IRIS)
 
-`ask va`
+`ask va` `navigation`
 
 |Issue|Not available. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2021-04/research-plan.md).|
 |:--|:--|
@@ -649,9 +649,9 @@ Unable to access.
 
 ---
 
-### VA.gov Relaunch (Involved multiple studies)
+### 19. VA.gov Relaunch (Involved multiple studies)
 
-`information architecture`
+`information architecture` `navigation`
 
 |Issue|Not available; and this work contains multiple studies. [Link to folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018).|
 |:--|:--|
@@ -808,3 +808,7 @@ Unable to access.
 ---
 
 Note: There are other studies that look at the 'one thing per page' pattern which can be [found here](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue+%22one+thing+per+page%22+).
+
+## Takeaways for Ask VA 2023
+
+Note: Takeaways have been synthesized and written up in [Mural](https://app.mural.co/t/bluetiger5788/m/bluetiger5788/1686072152506/aa046e499d547b8c85fa4b35f4aeeefa4b2b232a?sender=u397f6dbbaed1b5b67b956658).
