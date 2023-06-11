@@ -70,7 +70,7 @@ I'd like to start by learning more about your experience reviewing information a
 - Great, next I’d like to get your opinion on a prototype of a section on the VA.gov website.
 -  I'm going to send you a [link to this prototype](https://www.figma.com/proto/VHHxvo1QA1ndWc0TBhfkNq/Add-After-Visit-Summary?page-id=2%3A3&type=design&node-id=1233-16119&viewport=-892%2C210%2C0.4&scaling=scale-down&starting-point-node-id=1233%3A16119) in the Zoom chat. Since this is a prototype for testing purposes only, it may not work as you may expect even though it may look like the actual VA.gov website.
 - Okay, I've just sent you a link in the chat.  Please open the Zoom chat and click on that link. [**Moderator Note:** Help participant with the prototype if necessary. If the participant is unable to share their screen, then share your screen and follow the participant’s instructions.]
--	Now pretend that today is June 6th, 2023 and you are Hector.  You had an appointment this morning at 9:50 am with Dr. Nutt, your primary care physician, at the Puget Sound VA facility. A few hours have passed since your appointment, and you forgot what your doctor's instructions were. Use this prototype to find out what Dr. Nutt and you discussed at your appointment. Please think aloud as you are trying to find this information. 
+-	**Edit:Now pretend that today is June 6th, 2023** and you are Hector.  You had an appointment this morning at 9:50 am with Dr. Nutt, your primary care physician, at the Puget Sound VA facility. A few hours have passed since your appointment, and you forgot what your doctor's instructions were. Use this prototype to find out what Dr. Nutt and you discussed at your appointment. Please think aloud as you are trying to find this information. 
     - [**Notetaker:** 1. Note where participant navigates to; note if participant navigates to “Care Summaries” or “Appointments”?]
     - [**Moderator Note:** Only assist if they have difficulty locating the After-visit summary. Continue with the below questions once the participant navigates to the After-visit summary page.]
 
@@ -84,8 +84,8 @@ I'd like to start by learning more about your experience reviewing information a
     - 	[**Moderator Note:** If participant cannot find this information, follow up on this in Task 3.]
     
 
-## Task 2: Your appointment on June 6th, 2023 - 7 minutes  
-Now, I would like you to focus on the “Your appointment on June 6th, 2023” section. Please review the section and please talk aloud as you are reviewing. And then, I’ll ask you a few questions as you move through.
+## Task 2: Edit: Your appointment on June 6th, 2023 - 7 minutes  
+Now, I would like you to focus on the “Your appointment on **Edit; June 6th, 2023” section**. Please review the section and please talk aloud as you are reviewing. And then, I’ll ask you a few questions as you move through.
 1.	Can you provide an example of how you might utilize the information within this section?
 2.	Are there any terms that seem unfamiliar or confusing to you?
     -	[**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following:] Using your own words, how would you define those terms?
@@ -111,7 +111,7 @@ Now, I would like you to focus on the “Your Treatment Plan from this appointme
     - [**Moderator Note:** Ask question 3 only if participant answered "No" in Question 2 of Task 1, otherwise move to Question 4.] 
     
 4.	Okay great, so how would you describe the information under “Medications and Supplies”?
-    -	How does the “Medications and Supplies” information in this section differ from “Medications ordered for administration in clinic” under the previous “Your appointment on June 1, 2023” section?
+    -	How does the “Medications and Supplies” information in this section differ from “Medications ordered for administration in clinic” under the previous “Your appointment on**Edit June 1, 2023” section?**
     -	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then share:] Okay, this section was supposed to display only the medications that were added or changed during the appointment?
     -	How valuable, or not valuable, do you find this section to be? Why?
 
