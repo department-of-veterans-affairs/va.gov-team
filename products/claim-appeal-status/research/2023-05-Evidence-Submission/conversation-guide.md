@@ -51,6 +51,8 @@ Before we look at the website, let’s start with a few general questions.
 - Have you ever filed an application for disability compensation (Form 526-EZ) with the VA?
 - If yes, how many times? Have you ever done it on VA.gov?
 
+[Share [prototype link](https://sketch.com/s/98e35645-34eb-40cf-80c1-6c4952943584/a/aMDDarD/play) with participant]
+
 ## First Task: CST home page - 5 minutes
 
 - Describe to me what you see on this page.
@@ -61,8 +63,9 @@ Before we look at the website, let’s start with a few general questions.
 - What do you think this "Last updated" date means? 
 - What do you think the status "Evidence, gathering, review, and decision" means?
 - Is there any other information that you'd like to see here about these claims that you're not seeing?
-- Now let's say you wanted to find out more information about this "In progress" claim. What would you do?
-- [If needed, prompt them to View details button] What would you expect to find if you clicked on that?
+- Now let's say you wanted to find out more information about this "In progress" claim. What would you do? What would you expect to find if you clicked on that?
+- [If needed, prompt them to View details button] 
+
 
 ### Things to watch for:
 
@@ -77,7 +80,6 @@ Before we look at the website, let’s start with a few general questions.
 
 #### Status tab
 - [User clicks View detais] Tell me what you see on this page. Is this what you were expecting? 
-- What are your first impressions of this page?
 - On a scale of 1-5, how much would you say you understand what's going on with this claim? (1 being not at all, 5 being completely.)
 - On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
 - [Scroll to Recent activity section] What do you think these updates are trying to tell you? Do you find that useful? Why or why not?
