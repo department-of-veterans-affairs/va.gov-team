@@ -39,7 +39,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
+---
+
+## Registration Only: [Overview] - X minutes
 
 - Step 1
 - Step 2
