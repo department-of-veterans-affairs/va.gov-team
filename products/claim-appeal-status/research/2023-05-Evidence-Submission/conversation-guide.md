@@ -104,8 +104,7 @@ Before we look at the website, let’s start with a few general questions.
 - Tell me what you see on this page. Is this what you were expecting?
 - On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
 - Does this help you understand what's happening with the claim? Why or why not?
-- What action would you take, if any, on this page? 
-- Based on what you've seen here, is there any action that you think you need to take to advance this claim? 
+- What action would you take, if any, on this page?  
 
 ### Things to watch for:
 
