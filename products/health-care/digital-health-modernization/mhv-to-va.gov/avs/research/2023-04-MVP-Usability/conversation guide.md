@@ -84,7 +84,7 @@ I'd like to start by learning more about your experience reviewing information a
     - 	[**Moderator Note:** If participant cannot find this information, follow up on this in Task 3.]
     
 
-## Task 2: Edit: Your appointment on June 6th, 2023 - 7 minutes  
+## Task 2:Your appointment on June 6th, 2023 - 7 minutes  
 Now, I would like you to focus on the “Your appointment on June 6th, 202 section**. Please review the section and please talk aloud as you are reviewing. And then, I’ll ask you a few questions as you move through.
 1.	Can you provide an example of how you might utilize the information within this section?
 2.	Are there any terms that seem unfamiliar or confusing to you?
