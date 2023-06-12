@@ -1,13 +1,21 @@
 # About this Research Study
-- **Study Name:** Project Name (ex. MHV Authenticated Experience)
-- **Study Dates:** (can be month study was held or specific)
-- **Study Research Lead:**
-- **A11y Collaborators:**
+- **Study Name:** MHV: Patient Check In (PCI) Conversation Guide for Unified Check-In Generative Research Usability Study
+- **Study Dates:** June 12 - 20 (not 19, due to the holiday)
+- **Study Research Lead:** Ben Brasso (secondary moderator: Christina Gednalske)
+- **A11y Collaborators:** Angela Fowler, Sarah Koomson and Sara Smith
 - **Related Docs:** Link to research plan and communication guide - or link to project's GitHub link?
+- - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product) (general - not specific to unified check-in)
+- [User flows](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec)
+- CodePen prototype: [Pre-check-in start](https://codepen.io/team/va-cie/live/NWORQEe), [Check-in start](https://codepen.io/team/va-cie/live/qBJqWaV) (view in mobile size or mobile inspect mode)
+- [Mockups](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/0EC89917-F949-4461-A7B3-32A5201FD2A2/canvas)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/research-plan.md)
+- [Research conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/conversation-guide.md)
 - **Ticket Links:** EPIC and/or CAIA research assistance request ticket
+   - [Epics for unified check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
+   - [CAIA A11y Research Ticket: 58566](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/58566)
 
 # Accessibility Tools Utilized
-`ZoomText` `JAWs` `iOS-VO` (List types of AT covered here)
+`iOS-VO` `iPhones` (List types of AT covered here)
 
 ## Coverage
 This research fufilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
@@ -22,11 +30,11 @@ To best serve the users of VA.gov, we will need to collect the following informa
 - **Operating System:** Mac or Windows
 - **Assistive Technology being used:** Jaws, NVDA, Zoomtext, Dragon, etc.
 - **Internet Browser:** Chrome, Firefox, etc.
-- **Note**: In the table below, the first row is an example for P54
+- **Note**:xyz
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
-| _P54 (example)_                   | 5/8/2023         | _JAWS_             | _Advanced_      | _Windows_            | _Chrome_    | _Mobile_      |
+| _P2_                   | 6/12/2023         | _VoiceOver_             | _Advanced_      | _iOS_            | _Safari_    | _Mobile_      |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
