@@ -1,35 +1,58 @@
-# Research Plan for [Team, Product, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for "registration only" pathway low-fi prorotype testing [Health Enrollment Team, 10-10EZ, July 2023]
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+The online health care application today processes all applications as enrollment. With regards to regulation § 17.37 Enrollment not required—provision of hospital and outpatient care to veterans which is being called the "registration only" path. This has a mix of eligibility criteria or scenarios for the Veteran to meet and a mix of what type of benefits they would be receiving - ranging from care for one need to the "full medical benefits package". 
 
-[Link to product brief](url goes here).
+How might we enable Veterans who simply want to "register" for a specific level of care — up to and including the full medical benefits package — do that instead of processing all applications as enrollment applications?
+
+
+- [Link to product initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Registration).
 
 ### OCTO Priorities 
 
 Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
 
+- Enhance Veterans’ personalized online experience
+- Fast-track disability claims, starting with PACT Act claims 
+
+
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
 
-## Research Goals	
-What are you trying to learn from this research? 
+This fits accross the journey from getting out to aging.
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+This impacts a key moment that matters in that Veterans need to select the health care coverage according to their individual needs and preferences and that is the best fit for them. 
+
+## Research Goals	
+
+Learn if the hypothesis flow created based on exploratory research still aligns with the Veteran's mental model of the overall application for health care benefits journey including when and how to answer eligibility questions.
+
+Learn if the flow is easy for the Veteran to follow and if they feel if anything is missing or out of order.
+
+Learn if the question language is clear and easy for the Veteran to understand what they are qualify for and what benefits they will get.
+
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
+- Check initial hypothesis of new flow prior to working on final  
+- What is the Veteran's perception of the new flow and feedback to guide design process
+- Insight into what high-level content questions are easy or difficult for the Veteran to answer and why
+- Insight into potential areas of risks with the hypothesis flow
+
+
+
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+
+- Is it clear to the Veteran what health care benefits they will get if they only "register" vs. enroll?
+- What is the Veteran's current pain points with how the health care application impacts the overall benefits journey?
+- What is the order and process expectations of Veterans when they are applying (registering or enrolling) for health care benefits?
+- When during the health care application process would Veterans prefer to go through eligibility questions? (before, during, after initial registration)
+
+
+
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
