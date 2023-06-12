@@ -24,23 +24,45 @@
 ---
 
 
-## EZR: [TASK NAME] - X minutes
+## EZR - 25  minutes
 
-- Step 1
-- Step 2
+## Overall
+What type of information do Veterans consider most important to update and why? Do they ask?
+What are some major pain points for Veterans as they go through the process?
+What does the staff see, what kind of change can help Veterans?
+Are Priority Groups based on income/net worth?
+What are the existing directives relating to this process?
+
+### Use cases
+What are some uncommon/ challenging cases of Veterans wanting to update their info? What is the most challenging for the staff to update?
+When Veterans calls to update dependent only, is there a script that points the Veterans elsewhere?
+
+### Processes
+Flags: Staff receives trigger notifications to ask Veterans. Do Veterans receive certain notifications to update their information? (Insurance/ financial disclosure)
+Flags: When staff receive the tiggers, do they do anything beyond the typical flow such as phone call? How do the Veterans know to update?
+What happens after the Veterans update? Is there a phone call/email/letters?
+If the Veterans only want to update one section (Address), how do the staff proceed?
+What happens when the Veterans give an incomplete EZR?
+When updating, why does the staff only use one system vs another (VistA/ES)? Is this part of the training?
+Who has access to change certain sections? MSA? Financial vs next of kin?
+
+### Updates/frequency
+Are there certain demographic/ Priority Groups that update their information more than others? 
+Do certain Priority Groups have to complete an EZR every year?
+What methods or channels do veterans prefer for updating their information?
+How do veterans perceive the security and privacy aspect of updating their information?
+What types of assistance or support do Veterans require when updating their information?
+
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Etc]
 
 
 ---
 
 
-## Registration Only
+## Registration Only - 25 minutes
 
 ### Registration meaning/awareness - 3 minutes
 
@@ -52,16 +74,37 @@
 - Describe your "registration" process.
 - After you register a Veteran, what do you and/or what does the Veteran need to do next?
 
-### Overall process - 5 minutes
+
+#### Eligibility / guiding Veteran - 
+
+- How do you provide guidance to Veterans when they are not sure if they should register or enroll?
+- How do you help Veterans navigate to the most health care benefits applicable to them when they call in to enroll/register?
+
+#### Terminology - 
+
+- Could you explain to me the health care application process and benefit options as if I were a Veteran?
+- Has a Veteran ever called and directly asked to be "registered" only? Do they mean changing VA Facilities?
+- Do you use the term "register" with the Veteran or is it "decline enrollment"?
 
 
 
+#### Perfect state 
+
+- What’s one thing you’d change in the overall registration/application process if you had a magic wand?
+- What are the largest pain points for Veterans that you see from your perspective in this process?
+- If you have to tag as Registered and/or Enrolled, what is the current process and the ideal state?
+
+
+#### Use cases 
+
+- What are the top reasons for registration only? How often is the registration only reason a C&P exam or for service connected disability care?
+- How often do you have to help Veterans who are / were "registered" to then "enroll"?
+- How do you communicate how community care benefits differ between Register and Enrolled?
 
 
 #### Things to watch for:
 
 - [Does terminology does the staff used when talking internal processes vs Ventric facing conversations?]
-- [Does the participant notice xyz?]
 - [Etc]
 
 
