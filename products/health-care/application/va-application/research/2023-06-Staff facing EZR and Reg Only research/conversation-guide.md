@@ -1,14 +1,12 @@
 # [DRAFT] Conversation Guide 
 
-## Moderator logistics
 ### 1 day before 
 
 - [ ] Confirm who will be the moderator/lead for the session
 - [ ] Confirm who will fill the role of main and secondary note takers
 - [ ] Create a thread in the 1010-health apps channel for observers to ask questions or relay messages to the moderator during the sessions
 
-
-## Intro - 5 minutes
+### Intro - 5 minutes
 
 [Use intro content from email only needed?] 
 
