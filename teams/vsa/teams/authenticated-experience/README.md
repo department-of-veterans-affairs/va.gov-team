@@ -1,6 +1,6 @@
 # Authenticated experience at a glance
 
-**Last updated: April 4, 2023**
+**Last updated: June 12, 2023**
 
 ## Where to find us 
 
