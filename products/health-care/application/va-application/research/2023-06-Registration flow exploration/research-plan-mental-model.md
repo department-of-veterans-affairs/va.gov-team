@@ -102,7 +102,7 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
-
+15 completed sessions; 5 completed per cohort
 
 
 
@@ -115,11 +115,11 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 
 **Screener Questions**
-Per Cohort
+Per Each Cohort
 At least 3 participants:
 Have you visited a VA facility for a medical visit/exam in the past year and did not enroll in health care benefits package? [answer should be yes to qualify.]
 
-At least 3 participants:
+At least 2 participants:
 Have you applied within the past 3 years and are now enrolled in health care? [answer should be yes to qualify.]
 
 
