@@ -4,7 +4,7 @@ Last updated by @tygindraux on June 9, 2023
 ## Jump to
 [List of studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#list-of-studies)
 <br>[Details of studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#details-of-studies)
-<br>[Key takeaways](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#details-of-studies)
+<br>[Key takeaways](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#key-takeaways)
 
 ## List of studies
 1. [Profile Notification Settings, Add Email Channel - January 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#1-profile-notification-settings-add-email-channel)
