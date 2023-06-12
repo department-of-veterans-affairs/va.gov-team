@@ -25,7 +25,7 @@
 
 ## EZR - 25  minutes
 
-## Overall - 7 minutes
+### Overall - 7 minutes
 What type of information do Veterans consider most important to update and why? Do they ask?
 What are some major pain points for Veterans as they go through the process?
 What does the staff see, what kind of change can help Veterans?
@@ -53,9 +53,9 @@ How do veterans perceive the security and privacy aspect of updating their infor
 What types of assistance or support do Veterans require when updating their information?
 
 
-### Things to watch for:
+#### Things to watch for:
 
-- [Etc]
+- [What backend systems the staff mentions they interact with for all the EZR info processing?]
 
 
 ---
