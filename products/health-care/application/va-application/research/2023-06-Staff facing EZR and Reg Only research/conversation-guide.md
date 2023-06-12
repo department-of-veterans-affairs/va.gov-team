@@ -1,4 +1,4 @@
-# Conversation Guide 
+# [DRAFT] Conversation Guide 
 
 ## Moderator logistics
 ### 1 day before 
@@ -40,10 +40,19 @@
 ---
 
 
-## Registration Only: [Overview] - X minutes
+## Registration Only
 
-- Step 1
-- Step 2
+### Registration meaning/awareness - 5 minutes
+
+- What does "Registration" mean to you when signing up Veterans for health care benefits?
+- Is there anything that displays to the staff indicating that the Veteran is Registered or Enrolled, when they call/visit the facility?
+
+### Overall process - 5 minutes
+
+- Describe your "registration" process.
+- After you register a Veteran, what do you and/or what does the Veteran need to do next?
+
+
 
 ### Things to watch for:
 
