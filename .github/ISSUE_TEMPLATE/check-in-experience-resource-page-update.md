@@ -13,11 +13,11 @@ As we get closer to a national release for {feature/functionality} , we need to 
 ## Tasks
 - [ ] Create a sitewide intake ticket. 
 - [ ] Include a link to the {feature/functionality} wireframe.
-- [ ] Tag Misty Milliron-Grant, Kristen McConnell and Danielle Thierry on the ticket. 
+- [ ] Tag Randi Hecht Misty on the ticket. 
 - [ ] Post the intake ticket link in the #sitewide-content-ia slack channel, tagging the same people listed above
 
 ## Acceptance Criteria
 - [ ] Release date for {feature/functionality} is noted in the intake ticket
-- [ ] Misty, Kristen, and Danielle (or necessary people) are tagged on the ticket
+- [ ] Randi Hecht is tagged on the ticket
 - [ ] Link to ticket is posted in the slack channel
 - [ ] Link to the ticket is placed in this ticket 
