@@ -1,6 +1,11 @@
 # Initial desk research of previous VA studies
 Last updated by @tygindraux on June 9, 2023
 
+## Jump to
+[List of studies]()
+[Details of studies]()
+[Key takeaways]()
+
 ## List of studies
 1. [Profile Notification Settings, Add Email Channel - January 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#1-profile-notification-settings-add-email-channel)
 2. [Disabled Veteran Accessibility Feedback - 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#2-disabled-veteran-accessibility-feedback)
@@ -809,6 +814,24 @@ Unable to access.
 
 Note: There are other studies that look at the 'one thing per page' pattern which can be [found here](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue+%22one+thing+per+page%22+).
 
-## Takeaways for Ask VA 2023
+## Key takeaways
+
+* Ask VA is not currently 508 compliant, accessible for disabled Veterans, usable on mobile or following VA design system standards.
+* People expect a chatbot or Ask VA to be available on the page they're currently on, or otherwise on the Contact page. Right now, it's challenging to find, particularly if you're using assistive technology.
+* Many people expect chatbots to be able to answer simple, close-ended questions, but for more complex inquiries they prefer to contact a human. However, this does vary, with some people expecting personalized, specific replies from a chatbot, too.
+* If people use Ask VA while they're signed in, they expect their information to be leveraged so they save time filling in details about themselves. They also might expect a more specific reply when signed in. Whether or not people will sign in to submit a query, though, varies.
+* People lose trust in bots if they misinterpret, their reply is not clear or they can't help. They also worry more about security when interacting with a bot, compared to a human or secure message.
+* If a chatbot can't answer a question, people expect to be able to submit a ticket or connect with a human. Or for the chatbot to ask them a clarifying question.
+* People expect an immediate reply from a bot and a delayed reply from a live agent. Some people feel this should vary based on urgency and complexity of the query.
+* There's a balance between sharing too much information and not enough. In general, being concise and breaking information into chunks works best for people.
+* For short forms, a one thing per page approach can be less ideal. But starting with this approach is a recommended practice.
+* People are usually satisfied with receiving a link or resource when they ask a query, whether it's a link on VA.gov or elsewhere. Additional consideration needs to be taken so that links are accessible using assistive technology.
+* Guided buttons to reply can be helpful and lead to better results – but if you don't see an option that fits, it's unclear what to do next. There may be a need to provide both buttons and the option to type.
+* The review page currently causes confusion because people expect to upload a file before they get to the review page, and people may not be clear about how the review page populates and whether they can edit information on it.
+* Topics and form fields on Ask VA are not always clear, and including examples could help clarify.
+* Some people, like School Certifying Officials (SCOs), submit queries for themselves and for others, and need help organizing and categorizing these in their dashboard.
+* After they submit a query, people need to know how long they will have to wait, where your query is being routed, how to find and track progress, and how to follow up if it's taking too long.
+* After someone receives an answer, they look for a way to close out the conversation. In addition, some people look to sign out directly from the chatbot.
+* There's not currently an accessible way for Veterans to provide feedback on VA.gov through Medallia.
 
 Note: Takeaways have been synthesized and written up in [Mural](https://app.mural.co/t/bluetiger5788/m/bluetiger5788/1686072152506/aa046e499d547b8c85fa4b35f4aeeefa4b2b232a?sender=u397f6dbbaed1b5b67b956658).
