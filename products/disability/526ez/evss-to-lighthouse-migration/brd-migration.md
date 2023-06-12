@@ -2,7 +2,7 @@
 
 ## Background:
 - The Benefits Reference Data API used to live in EVSS.
-- `vets-api` relied on it in a few places, but the only one that 526 relies on and that we are responsible for migrating is `DisabilityCompensationFormsController#separation_locations`
+- `vets-api` relied on EVSS BRD in a few places, but the only one that 526 relies on and that we are responsible for migrating is `DisabilityCompensationFormsController#separation_locations`
 
 ## Observations:
 get separation_locations
