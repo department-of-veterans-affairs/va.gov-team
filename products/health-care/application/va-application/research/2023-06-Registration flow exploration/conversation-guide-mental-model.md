@@ -64,7 +64,8 @@ Let’s start with a few warm-up questions.
 - Was there any part of that process that was frustrating or difficult for you?
 - What is your recollection about the amount of information you had to provide?
 - Was it clear to you as you were applying, what benefits or level of care you would qualify for? 
-- How would you describe the process after you applied - was it clear to you how your application impacted your benefits?
+- How would you describe the process after you applied?
+- Was it clear to you how your application answers impacted your benefits?
 - When it comes to registering and health care at the VA, what does that mean to you?
 
 
@@ -72,7 +73,7 @@ Let’s start with a few warm-up questions.
 - [What terminology does the Veteran use as they talk about their experience (enroll, register, priority groups, etc)?]
 - [How does the Veteran portray the overall process - easy, difficult, uneventful?]
 - [What pain points or areas of confusion are revealed?]
-- [What things does a Veteran talk about in regards to ther term registration?]
+- [What things does a Veteran talk about in regards to the term registration? VA Facilities?]
 
 
 ## Second Topic: [Getting Benefits/Eligibility] - 10 minutes
@@ -88,6 +89,7 @@ Let’s start with a few warm-up questions.
 - [Is there a mix or preference for wanting to be told what they get or search it out on their own?]
 - [Is there any confusion about their benefits within the health care benefits they recieve?]
 - [Do they know and mention their Priority Group during these questions?]
+
 
 ## Third Topic: [Ideal State] - 10 minutes
 - Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using your benefits. 
@@ -131,7 +133,9 @@ Let’s start with a few warm-up questions.
 
 
 ## Fourth Topic: [Scenario 1 - Cohort 2] - X minutes
-TBD
+- For this scenario, let's imagine again you are applying for health care online and you arrive at a page that explains the process as registering for care and then deciding to enroll to receive the full medical benefits package. 
+
+
 ## Fifth Topic: [Scenario 2 - Cohort 2] - X minutes
 TBD
 
