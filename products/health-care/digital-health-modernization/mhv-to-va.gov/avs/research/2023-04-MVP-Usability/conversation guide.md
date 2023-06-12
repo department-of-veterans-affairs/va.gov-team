@@ -32,7 +32,7 @@
 -	Task 1: Initial Reactions to the AVS Interface - 7 minutes
 -	Task 2: Your Appointment on June 6, 2023 - 7 minutes  
 -	Task 3: - Your Treatment Plan from this appointment- 7 minutes
--	Task 4: Your key medical records – 10 minutes
+-	Task 4: Your health information as of this appointment – 10 minutes
 -	Task 5: Additional Information – 5 minutes [**Can cut questions if running long**]
 -	Task 6: Navigating to Another AVS – 10 minutes
 -	Task 7: Insights into Notifications – 7 minutes
@@ -115,8 +115,8 @@ Now, I would like you to focus on the “Your Treatment Plan from this appointme
     -	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then share:] Okay, this section was supposed to display only the medications that were added or changed during the appointment?
     -	How valuable, or not valuable, do you find this section to be? Why?
 
-## Task 4: Your key medical records– 10 minutes
-Now, I would like you to scroll to “Your key medical records”.  And again, please review this section by talking aloud while you are scrolling through.
+## Task 4: Your health information as of this appointment– 10 minutes
+Now, I would like you to scroll to “Your health information as of this appointment–”.  And again, please review this section by talking aloud while you are scrolling through.
 1.	Can you provide an example of how you might utilize the information within this section?
 2.	Are there any terms that seem unfamiliar or confusing to you?
     -   [**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following:] Using your own words, how would you define these terms?
