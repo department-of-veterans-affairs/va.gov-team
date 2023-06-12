@@ -37,7 +37,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 
 ### General
 
-- [ ] Either attend a live General orientation session ([schedule via Calendly](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Generalorientation)) or watch a prerecorded video
+- [ ] For [General orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Generalorientation) sessions, either attend a live session by using the Calendly sign up link or watch the latest recorded session
 - [ ] Watch [VA.gov overview video](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html#PlatformOrientation-Purpose)
 - [ ] Watch [Watch the VFS Orientation for Platform Website video](https://www.youtube.com/watch?v=yzl6nyLmqkA&ab_channel=PlatformCrew)
 - [ ] Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-Slack) with Program, Team, Role and Company
@@ -70,29 +70,29 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Watch the [getting started with design videos](https://depo-platform-documentation.scrollhelp.site/research-design/getting-started-with-design)
 - [ ] Get oriented to the [Design System](https://design.va.gov/)
 - [ ] Get oriented to the [Collaboration cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
-- [ ] Either attend a live Design orientation session ([schedule via Calendly](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Design&researchorientation)) or watch a prerecorded video
-- [ ] Either attend a live Accessibiliy orientation session ([schedule via Calendly](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation)) or watch a prerecorded video
+- [ ] For [Design orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Design&researchorientation) sessions, either attend a live session by using the Calendly sign up link or watch the latest recorded session
+- [ ] For [Accessibiliy orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation) sessions, either attend a live session by using the Calendly sign up link or watch the latest recorded session
 
 #### Front-end Engineers
 - [ ] Review [frontend developer documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/Frontend-developer-documentation.687931428.html) on Platform Website
 - [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
-- [ ] Either attend a live Front-end orientation session ([schedule via Calendly](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Front-endorientation)) or watch a prerecorded video
-- [ ] Either attend a live Analytics orientation session ([schedule via Calendly](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Analyticsorientation)) or watch a prerecorded video
-- [ ] Either attend a live Accessibiliy orientation session ([schedule via Calendly](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation)) or watch a prerecorded video
-- [ ] Either attend a live QA orientation session ([schedule via Calendly](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation)) or watch a prerecorded video
-- [ ] Either attend a live Design System/Forms Library orientation session ([schedule via Calendly](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Designsystem/formslibraryorientation)) or watch a prerecorded video
+- [ ] For [Front-end orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Front-endorientation) sessions, either attend a live session by using the Calendly sign up link or watch the latest recorded session
+- [ ] For [Analytics orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Analyticsorientation) sessions, either attend a live session by using the Calendly sign up link or watch the latest recorded session
+- [ ] For [Accessibiliy orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation) sessions, either attend a live session by using the Calendly sign up link or watch the latest recorded session
+- [ ] For [QA orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation) sessions, either attend a live session by using the Calendly sign up link or watch the latest recorded session
+- [ ] For [Design System/Forms Library orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Designsystem/formslibraryorientation) sessions, either attend a live session by using the Calendly sign up link or watch the latest recorded session
 
 #### Back-end Engineers
 - [ ] Review [backend developer documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/Backend-developer-documentation.1886289964.html) on Platform Website
 - [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
-- [ ] Either attend a live Back-end orientation session ([schedule via Calendly](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Back-endorientation) (schedule via Calendly)) or watch a prerecorded video
-- [ ] Either attend a live QA orientation session ([schedule via Calendly](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation)) or watch a prerecorded video
+- [ ] For [Back-end orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Back-endorientation) sessions, either attend a live session by using the Calendly sign up link or watch the latest recorded session
+- [ ] For [QA orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation) sessions, either attend a live session by using the Calendly sign up link or watch the latest recorded session
 
 #### Product Managers
 - [ ] Request PM intro with @ Shira Goodman in Slack
-- [ ] Either attend a live Analytics orientation session ([schedule via Calendly](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Analyticsorientation)) or watch a prerecorded video
-- [ ] Either attend a live Accessibiliy orientation session ([schedule via Calendly](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation)) or watch a prerecorded video
-- [ ] Either attend a live QA orientation session ([schedule via Calendly](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation)) or watch a prerecorded video
+- [ ]  For [Analytics orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Analyticsorientation) sessions, either attend a live session by using the Calendly sign up link or watch the latest recorded session
+- [ ] For [Accessibiliy orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation) sessions, either attend a live session by using the Calendly sign up link or watch the latest recorded session
+- [ ] For [QA orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation) sessions, either attend a live session by using the Calendly sign up link or watch the latest recorded session
 
 ### Off-boarding of teammates
 - [ ] Review [process for when a teammate leaves](https://depo-platform-documentation.scrollhelp.site/getting-started/offboarding)
