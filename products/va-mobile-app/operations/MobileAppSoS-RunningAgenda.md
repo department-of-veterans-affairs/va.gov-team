@@ -46,7 +46,6 @@
     * Misty has 10 planned points for Sprint 74 but capacity is only at 5
     * Affects Check In and Confirmation Message Audit epics
     * Have worked ahead a bit on audit epic and hoping to reduce points for work in this sprint, encompassing really only QA'ing content and helping answer questions that come up from implementation.
-    * This means all edge cases/potential issues that need copy (all those "oh we forgot about this!") need to be addressed before Sprint 74
 
 5/31/23
 * Preferred & Gender Identity Post release Bug identified
