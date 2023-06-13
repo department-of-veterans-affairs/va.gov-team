@@ -94,7 +94,7 @@ Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 ## Go Live! 
 ### Planning:
-Desired date: 1/11/2023
+Desired date: 6/26/2023
 ### KPIs  
 
 - Sentry Errors: 
