@@ -49,9 +49,10 @@ Before we start, a few things I want to mention:
 
 Let’s start with a few warm-up questions.
 
-- Are you currently enrolled and using health care benefits from the VA? [confirmation of reqruitment screener questions]
-- How long have you been receiving medical care from the VA?
-- How often do you visit a VA facility?
+- Are you currently enrolled and using health care benefits from the VA? [which sceener question answered yes to]
+- How long have you been receiving medical care from the VA? (if answered yes)
+- How long ago did you visit a VA facility? (if answered no to enrolled)
+- How often do you visit a VA facility? (if answered yes)
 - Do you regularly visit VA.gov?
 - Do you receive other benefits from the VA in addition to your medical benefits?
 
@@ -133,11 +134,12 @@ Let’s start with a few warm-up questions.
 
 
 ## Fourth Topic: [Scenario 1 - Cohort 2] - X minutes
-- For this scenario, let's imagine again you are applying for health care online and you arrive at a page that explains the process as registering for care and then deciding to enroll to receive the full medical benefits package. 
+- For this scenario, let's imagine you are applying for health care online and you arrive at a page that explains the process as registering for care and then deciding to enroll to receive the full medical benefits package after an eligibility screening. During the initial application you are registering for care and you create a profile, enter some basic information about yourself and answer if you currently have any other health care coverage as well as your military service information.  
+- After you complete the questions to register for care, you are then given the option to wait to hear about your initial eligibility screening or you can enroll for the full medical benefits package right away and answer some additional questions. However, if you decide to complete enrollment at a later time, it is easy for you to sign back in and complete the enrollment questions. 
 
 
 ## Fifth Topic: [Scenario 2 - Cohort 2] - X minutes
-TBD
+TBD - the preferred scenario from cohort 1
 
 ## Fourth Topic: [Scenario 1 - Cohort 3] - X minutes
 TBD
