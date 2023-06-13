@@ -22,7 +22,7 @@
   - Resources and support requested to have a button for "how would you rate your experience on this page?" < Good or Bad
   - Medallia allows you to customize 
   - VAMC have a survey for experiences online
-  - Danielle can share the data for FAQs which are usually complaints about the process 
+  - Danielle can share the data for FAQs which are usually complaints about the process
 
 
 
