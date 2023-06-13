@@ -1,5 +1,5 @@
 # Flagged Facilities
-VAST is the source of truth for Facilities data. Drupal CMS consumes VAST data via the Facilites API. When the Facilities API reports certain kinds of data changes, Drupal CMS will add a Flag on that node, for followup. 
+The Lighthouse Facilities API is the source of truth for Facilities data. When the Facilities API reports certain kinds of data changes, Drupal CMS will add a Flag on that node, for followup. 
 
 Flagged items then appear in Drupal's [Flagged Content view](https://prod.cms.va.gov/admin/content/facilities/flagged) for moderation. 
 
