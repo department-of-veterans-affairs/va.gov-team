@@ -13,7 +13,7 @@ AVA on the modernized VA.gov platform will be a digital support channel that wor
 ### Who we are
 
 |Role|Assigned|Contact|
-|:---:|:---:|:---:|
+|:---|:---|:---|
 |VA Product Owner|Chante Lantos-Swett|chante.lantosswett@va.gov|
 |VA Product Owner|Andrea Schneider|andrea.schneider3@va.gov|
 |Program Manager|Emily Allan|emily@oddball.io|
