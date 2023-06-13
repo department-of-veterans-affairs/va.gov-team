@@ -52,15 +52,22 @@
     * Misty has 10 planned points for Sprint 74 but capacity is only at 5
     * Affects Check In and Confirmation Message Audit epics
     * Have worked ahead a bit on audit epic and hoping to reduce points for work in this sprint, encompassing really only QA'ing content and helping answer questions that come up from implementation.
-* In-App Recruitment Step 2
-    * Open questiion / possible blocker - linking Veteran to 3rd party link (Perigean) may be considered an endorsement - Ryan is looking into this
-    * Proceeding with Step 2 focusing on UX design and business logic
- * Secure Messaging - Migrate to Re-Engineered Patient APIs
-    * Meeting scheduled for Wednesday with MHV SM team including Mobile's Binny, Jayson and myself
+* [Release V2.5](https://dsva.slack.com/archives/C018V2JCWRJ/p1686160008988389) - at risk of being delayed (Adam/QA)
+    * QA has not yet approved as VAOS is returning 502 errors when we attempt to cancel appointment since last Wednesday
+    * All other tests have passed and no new issues uncovered
+    * PO approval due today
+           * Would POs like to approve knowing this risk
+           * Delay the release
+* In-App Recruitment Step 2 (Adam)
+    * Thanks Ryan for confirming we can use the Perigean link; Danielle will be included in content approval- [Slack thread](https://dsva.slack.com/archives/C018V2JCWRJ/p1686256275924369)
+    * Dependency - We will need Kevin Hoffman / Danielle Thierry approval before implementing as they are not currently looking to increase their recruitment database size (see Slack thread for more details)
+    * Proceeding with Step 2 focusing on UX design and business logic per Po's approval last demo
+ * Secure Messaging - Migrate to Re-Engineered Patient APIs (Adam) 
+    * Meeting scheduled for Friday with MHV SM team including Mobile's Binny, Jayson and myself
     * Will have more of an update post meeting 
     * Open items: still awaiting ICD and updated schedule from MHV SM
- * Secure Messaging - Realignment with Web
-    * Some work carried over from Sprint 72 to Sprint 73
+ * Secure Messaging - Realignment with Web (Adam)
+    * Some work carried over from Sprint 72 to Sprint 73 
     * The last release with improvements for this project will be in 7/4 
 
 
