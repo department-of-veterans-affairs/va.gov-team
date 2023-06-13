@@ -44,10 +44,55 @@ To best serve the users of VA.gov, we will need to collect the following informa
 
 **Participants who successfully completed sessions: XX**
 
-**Examples below:**
-- [1 desktop JAWS user (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p2.md)
-- [1 iOS VoiceOver user (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p15.md)
-- [1 desktop zoom text reader user (magnification, screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p1.md)
+- [1 iOS VoiceOver user (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/transcripts)
+
+## 📝Notes Prior to Synthesizing to Findings
+
+### Text Reply Options: Y1, N1 and D1
+- P2: Confusing to the participant, who was not expecting to have a numerical number there.
+- P2: It would add two extra steps for the VoiceOver user.
+
+### DOB Field
+- P2: Participant prefers a date picker to avoid jumping out of the form fields.
+- P2: Participant said they did not know initially if it was numerical or text, until clicking on it, but prefers a date picker for VoiceOver.
+
+### Duplicative Links: Details vs. Confirm your appointment text
+- P2: Confusing multiple locations of the links.
+- P2: “Review your information” shows in the card view AND in the upcoming appointments section below it, which was confusing the user, having the duplicative information.
+- P2: The “details” link was also unclear to the user, since there were multiple.
+
+### Link Destination Confusion
+- P2: User would like to be taken to where he expects to be taken, based on the link text.
+    - “That would confuse me. If they want me to make sure my information is correct, it is confusing because it doesn’t make sense to me.    
+    - If I click a link to “review my information” I would expect it to take me to where I could review my information. The extra stuff, especially with a screen reader is a pain. You are forcing me to scroll through a bunch of stuff that isn’t related.”
+    - “This is like a calendar of my upcoming appointments, and that is not what the link said it was going to do.”
+    - “I would change the whole page. After I type in my name and birthdate. I should see the information I am supposed to review. All these appointments have nothing to do with that. If you have a link “view upcoming appointments” that would be fine. But now, to drop me on this page, when it said what it was going to do, that is confusing. “
+
+### Too much information for the participant. One-item/topic per page preferred.
+- P2: Having the upcoming appointment detail on the page is not what is expected by the user. Would expect a link to that information.
+    - “Text should send me to the appointment I am saying Y1 to. Right there should be that appointment and the review your information. Why have all this other stuff on there? That isn’t what the text was about.”
+    - “I personally think it is too much.”  “I came here to do a specific task. I really shouldn’t have all of these options. Maybe I would spend an hour when I should have only spent a few minutes.”
+
+### Upcoming Appointments View
+- P2: Participant would like a filter, because you may have a whole year’s worth of information to sort through.
+- P2: “I don’t particularly like this page. I would like to click on a month and pull up the information for the month. As a screen reader I am going to read top to bottom. Going down to find appointments for March, I have ways to get around it but others may not. I have to go through all of February to get to March. If I could choose just the month it would be better than me. … If it was a whole year’s worth of appointments, that is a lot of swiping.”
+- **Development question:** If we can’t do filters now in this iteration could we do anchor links to the months or have one month per page and link to that page?
+
+## :warning: Prototype Related Issues Encountered
+### Review your information
+- Double-Tap on it, but it doesn’t say it is a link or button to click on (prototype issue).
+- Sometimes it reads like text and you have to just try it and see what happens. I know other people who don’t know how to do that.
+### Third accordion: “What if I have questions about my appointment?"
+- The participant said it was reading as a heading and button
+### “Confirm your appointment”
+- Potential prototype issue with link, text or button for “confirm your appointment.”
+### Details link for Feb 2
+- “details for in-person” appointment - ARIA label wrong.
+### Current Contact Information
+- When tabbing through [this page in the prototype](https://codepen.io/team/va-cie/live/dygpxrz) it skips from the language to the “yes” button.
+    - Participant was not clear on what he was clicking “yes” to because the heading was skipped. 
+### Your contact information is up to date.
+- It did not read “H1: Your contact information is up to date.”
 
 ## Key Findings
 Add screenshots, images and videos here.
