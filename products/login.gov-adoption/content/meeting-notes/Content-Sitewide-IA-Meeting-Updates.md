@@ -1,10 +1,10 @@
-### Content Sync
+## Content Sync
 
 ## June 12, 2023
 
-## Attendees: Sofia Kirkman, Danielle Thierry
+### Attendees: Sofia Kirkman, Danielle Thierry
 
-## Notes:
+### Notes:
 - Set up this meeting to understand how Danielle uses Google Analytics to look at data for blogs (acc to Tim Hudak from VEO)
 - https://news.va.gov/119761/securely-accessing-your-va-account-online/ was not distributed through normal pathways, according to Elizabeth, so this could explain why there is not a lot of comments on it
 - Discovered that news.va.gov is not tagged for Google Analytics tracking - we might need to reach out to the Analytics team if we want blogs tracked moving forward
@@ -29,9 +29,9 @@
 
 ## June 8, 2023
 
-## Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Laura Willwerth, Joe Niquette, Amber Parsley, Ngozi Abolarin
+### Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Laura Willwerth, Joe Niquette, Amber Parsley, Ngozi Abolarin
 
-## Notes:
+### Notes:
 - Last week we made edits to the Account Creation and Sign-in Page and there was discussion around the differences between the Login.gov and ID.me IAL2 processes
   - No forced verification but there is very limited access with IAL1
   - We had this discussion because need to find out what types of confirmation emails are being referred to on the sign in page. There is a confirmation email that users receive when they create an account as well.
@@ -47,9 +47,9 @@
   - There may be a future FAQ for an IPP process at a VAMC owned by VA
 
 ## May 31, 2023
-## Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Laura Willwerth, Danielle Thierry
+### Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Laura Willwerth, Danielle Thierry
 
-## Notes:
+### Notes:
 
 - Login.gov blog rework
 
@@ -84,8 +84,8 @@ https://www.login.gov/help/verify-your-identity/verify-your-identity-in-person/
 
 ## May 18, 2023
 
-## Attendees: Sofia Kirkman, Aliyah Blackmore, Laura Willwerth, Danielle Thierry
-## Notes:
+### Attendees: Sofia Kirkman, Aliyah Blackmore, Laura Willwerth, Danielle Thierry
+### Notes:
 - Another security blog has been published and we will be waiting for feedback 
 - need to help veterans who failed to make the transition
 - Veterans expect a smooth and seamless process
@@ -98,8 +98,8 @@ https://dvagov-my.sharepoint.com/:p:/g/personal/danielle_thierry_va_gov/Efn1GVzB
 - 
 ## May 11, 2023
 
-## Attendees: Sofia Kirkman, Laura Willwerth
-## Notes:
+### Attendees: Sofia Kirkman, Laura Willwerth
+### Notes:
 - PDF:
   - Account creation guide is IAL1 only
   - Document has been made 508 compliant
@@ -117,9 +117,9 @@ https://dvagov-my.sharepoint.com/:p:/g/personal/danielle_thierry_va_gov/Efn1GVzB
 
 ## May 4, 2023
 
-## Attendees: Carl Dickerson, Sofia Kirkman, Aliyah Blackmore, Laura Willwerth, Joe Niquette, Amber Parsley 
+### Attendees: Carl Dickerson, Sofia Kirkman, Aliyah Blackmore, Laura Willwerth, Joe Niquette, Amber Parsley 
 
-## Notes:
+### Notes:
 - Clean up agenda items from Identity Comms meetings:
   - Sitewide Content is currently adding feedback from Tom and John to FAQs
   - Redirected and retired "How to get a premium DSL account"
@@ -132,7 +132,7 @@ https://dvagov-my.sharepoint.com/:p:/g/personal/danielle_thierry_va_gov/Efn1GVzB
 - Email drafts - look at after Clayton's research wraps up
  
 
-## Next steps:
+### Next steps:
 - Content team will send updates to agenda to Michelle
 - Carl will work on blog post draft and Amber will share in the next meeting 
 - Reach out to Core team to setup a readout once they are finished with synthesis
@@ -140,15 +140,15 @@ https://dvagov-my.sharepoint.com/:p:/g/personal/danielle_thierry_va_gov/Efn1GVzB
 
 ## April 27, 2023
 
-## Attendees: Carl Dickerson, Sofia Kirkman, Aliyah Blackmore, Laura Willwerth, Joe Niquette, Amber Parsley 
+### Attendees: Carl Dickerson, Sofia Kirkman, Aliyah Blackmore, Laura Willwerth, Joe Niquette, Amber Parsley 
 
-## Notes:
+### Notes:
 - Create a doc for key language and adaptations over time
 - Campaign landing page
   - Show visibility towards efforts on this every week
 - New comms efforts and overlap mural
 
-## Next steps:
+### Next steps:
 @CarlDickerson
 
 - [ ] Request a campaign landing page
