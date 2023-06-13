@@ -1,5 +1,5 @@
 # IA Design for Appointments
-**STATUS: In Progress**
+**STATUS: DRAFT of future idea**
 
 **Team:** Appointments
 
