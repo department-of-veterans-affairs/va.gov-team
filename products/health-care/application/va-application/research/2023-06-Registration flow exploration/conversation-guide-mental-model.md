@@ -1,4 +1,4 @@
-# Conversation Guide 
+# Conversation Guide for "registration only" mental model hypothesis flow study [Health Enrollment Team, 10-10EZ, June 2023]
 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -79,7 +79,7 @@ Let’s start with a few warm-up questions.
 
 ## Second Topic: [Getting Benefits/Eligibility] - 10 minutes
 
-- How did you determine what health benefits you could get when you recently applied?
+- How did you determine what health benefits you could get when you recently applied or were seen for care?
 - Did anyone help you figure out what you qualify for and what your benefits included?
 - Would you rather do the research yourself or be told what you qualify for?
 - Did you want to only get care for one specific health concern, or were you interested in getting full health care coverage?
@@ -134,12 +134,17 @@ Let’s start with a few warm-up questions.
 
 
 
-## Fourth Topic: [Scenario 1 - Cohort 2] - X minutes
+## Fourth Topic: [Scenario 1 - Cohort 2] - 10 minutes
 **Scenario setup**
 - For this scenario, let's imagine you are applying for health care online and you arrive at a page that explains the process as registering for care and then deciding to enroll to receive the full medical benefits package after an eligibility screening. During the initial application you are registering for care and you create a profile, enter some basic information about yourself and answer if you currently have any other health care coverage as well as your military service information.  
 - After you complete the questions to register for care, you are then given the option to wait to hear about your initial eligibility screening or you can enroll for the full medical benefits package right away and answer some additional questions. However, if you decide to complete enrollment at a later time, it is easy for you to sign back in and complete the enrollment questions. 
 
 **Questions**
+- What is your perception of this scenario and what issues, if any, do you see in this for yourself?
+- Would needing to return later and complete more questions be frustrating to you? 
+- Would you rather complete all tasks/information needed in one sitting even if you have to provide more information than you may need to?
+
+
 
 ## Fifth Topic: [Scenario 2 - Cohort 2] - X minutes
 TBD - the preferred scenario from cohort 1
@@ -158,7 +163,8 @@ TBD
 - Is there anything else you would like to add about what we talked about today?
 - Any questions for me? 
 
-## Thank-You and Closing - X minutes
+
+## Thank-You and Closing - 3 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
