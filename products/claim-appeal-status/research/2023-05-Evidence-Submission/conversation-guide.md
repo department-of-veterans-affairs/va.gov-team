@@ -79,7 +79,7 @@ Before we look at the website, let’s start with a few general questions.
 ## Second Task: Claim details: In-progress claim - 15 minutes
 
 #### Status tab
-- [User clicks View detais] Tell me what you see on this page. Is this what you were expecting? 
+- [User clicks View detais] What are your impressions of this page? 
 - On a scale of 1-5, how much would you say you understand what's going on with this claim? (1 being not at all, 5 being completely.)
 - On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
 - [Scroll to Recent activity section] What do you think these updates are trying to tell you? Do you find that useful? Why or why not?
@@ -94,7 +94,7 @@ Before we look at the website, let’s start with a few general questions.
 #### Files tab 
 - Do you see where it says "Files?" What would you expect to find if you clicked on that?
 - [Navigate to Files tab]
-- Tell me what you see on this page. Is this what you were expecting?
+- What are your impressions of this page?
 - Where do you think these files here came from?
 - On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
 - What action would you take, if any, on this page? 
@@ -102,7 +102,7 @@ Before we look at the website, let’s start with a few general questions.
 #### Overview tab
 - Do you see where it says "Overview?" What would you expect to find if you clicked on that?
 - [Navigate to Overview tab]
-- Tell me what you see on this page. Is this what you were expecting?
+- What are your impressions of this page?
 - On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
 - Does this help you understand what's happening with the claim? Why or why not?
 - What action would you take, if any, on this page?  
@@ -129,7 +129,7 @@ Before we look at the website, let’s start with a few general questions.
 
 ## Fourth Task: Claim details: In-progress claim with evidence request - 15 minutes
 
-- [User clicks View detais] Tell me what you see on this page. Is this what you were expecting?
+- [User clicks View detais] - What are your impressions of this page?
 - What does this tell you about the status of this claim? 
 - On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
 - What action would you take, if any, on this page? 
