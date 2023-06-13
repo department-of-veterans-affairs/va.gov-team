@@ -12,25 +12,30 @@
 
 
 ## Feature Status
-
+ - ordered based on priority from Sprint Planning
+   
 | Syntax | PM | Status |
 | ----------- | ----------- | ----------- |
-| [Rx](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5091) | Meko | GREEN |
-| [Secure Messaging - Realignment with MHV](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4718) | Adam | GREEN |
-| [Secure Messaging - Migrate to Re-Engineered MHV APIs](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5562) | Adam | On Hold |
 | [EVSS Backend Migration](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/2558) | Kelly | GREEN |
-| [Claims Metrics](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4078) | Stacy | GREEN |
-| [UI Automation](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Adam | GREEN |
 | [Check-In](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/4315) | Meko | GREEN |
-| [VIC](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Kelly | PRE-DISCOVERY |
-| [Call Center Hand-off](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Call_Center_Integration/Call_Center_Integration.md)| Kelly | PRE-DISCOVERY |
-| [OKR Development](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Greta | Green |
-| [Mobile App Promo Banner](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5141) | Adam / Greta | Pre-Discovery |
+| [Rx](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5091) | Meko | GREEN |
+| [Secure Messaging - Realignment with MHV](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4718) | Adam | GREEN - wrapping up |
+| [Claims Metrics/Pact Act](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4078) | Stacy | GREEN |
+| [Android SSO Login Update](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5118) | Stacy | GREEN |
+| [Cancel Message Content Auidt](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2172) |Stacy | GREEN |
+| [Appointment Refinement](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4725) | Meko | GREEN |
+| [OKR Development](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Greta / Adam | GREEN |
+| [UI Automation](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Rachel / Adam | GREEN |
+| [QA Initiatives - Documentation](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/issues/5149) | Therese / Stacy | Ongoing |
 | [Backend Initiatives](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5140) | Jayson | Ongoing | 
 | [Frontend Initiatives](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5139) | Binny | Ongoing |
 | [UX Initiatives](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/issues/5187) | Jen | Ongoing |
-| [QA Initiatives](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/issues/5149) | Therese | Ongoing |
-| [Data Request Initiatives](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5703) | Greta | Ongoing | 
+| [Mobile Bug Maintenance](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) |Adam | Ongoing |
+| [VIC](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Kelly | PRE-DISCOVERY |
+| [Call Center Hand-off](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Call_Center_Integration/Call_Center_Integration.md)| Kelly | PRE-DISCOVERY |
+| [Mobile App Promo Banner](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5141) | Adam / Greta | PRE-DISCOVERY |
+| [Secure Messaging - Migrate to Re-Engineered MHV APIs](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5562) | Adam | PRE-DISCOVERY |
+| [In-App Recruitment Step 2](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4353) | Adam | STEP 2 | 
 | [CircleCI Migration](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4670) | Kelly | COMPLETE |
 | [Digital Decision Letters ](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4290)| Kelly | COMPLETE |
 | [Preferred Name & Gender Identification](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4028) | Meko | COMPLETE |
@@ -46,6 +51,17 @@
     * Misty has 10 planned points for Sprint 74 but capacity is only at 5
     * Affects Check In and Confirmation Message Audit epics
     * Have worked ahead a bit on audit epic and hoping to reduce points for work in this sprint, encompassing really only QA'ing content and helping answer questions that come up from implementation.
+* In-App Recruitment Step 2
+    * Open questiion / possible blocker - linking Veteran to 3rd party link (Perigean) may be considered an endorsement - Ryan is looking into this
+    * Proceeding with Step 2 focusing on UX design and business logic
+ * Secure Messaging - Migrate to Re-Engineered Patient APIs
+    * Meeting scheduled for Wednesday with MHV SM team including Mobile's Binny, Jayson and myself
+    * Will have more of an update post meeting 
+    * Open items: still awaiting ICD and updated schedule from MHV SM
+ * Secure Messaging - Realignment with Web
+    * Some work carried over from Sprint 72 to Sprint 73
+    * The last release with improvements for this project will be in 7/4 
+
 
 5/31/23
 * Preferred & Gender Identity Post release Bug identified
