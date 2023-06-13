@@ -83,6 +83,7 @@ Before we look at the website, let’s start with a few general questions.
 - On a scale of 1-5, how much would you say you understand what's going on with this claim? (1 being not at all, 5 being completely.)
 - On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
 - [Scroll to Recent activity section] What do you think these updates are trying to tell you? Do you find that useful? Why or why not?
+- If you were advising a fellow Veteran, what would you tell them is the most important part about this page?
 - What action would you take, if any, on this page? 
 
 #### Compare/Contrast Status tabs
@@ -153,7 +154,7 @@ Before we look at the website, let’s start with a few general questions.
 ## Post-Task Interview - 5 minutes
 
 - Overall, what did you think of what you saw today? Was it clear or confusing?
-- If you could change anything about what you saw today, what would it be?
+- If you could wave a magic wand and change anything about checking your claim status on VA.gov, what would it be?
 - Do you have any questions for me?
 
 ## Thank-You and Closing - 1 minutes
