@@ -111,15 +111,11 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 
 **Screener Questions**
-Per Each Cohort Requested
-
-At least 4 participants:
+At least 11 participants total requested:
 - Have you visited a VA facility for a medical visit/exam in the past year and did not enroll in health care benefits package? [answer should be yes to qualify.]
 
-At least 3 participants:
+At least 10 participants total requested:
 - Have you applied within the past 3 years and are now enrolled in health care? [answer should be yes to qualify.]
-
-
 
 
 
@@ -128,12 +124,12 @@ At least 3 participants:
 What criteria would strengthen your results? 
 
 
-
+- At least 9 participants are female
+- 
 
 
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 Cohort 1: Thursday July 6 - Friday July 7
 
@@ -149,7 +145,6 @@ Cohort 3: Wednesday July 26 - Friday July 28
 
 ### Research sessions
 * Planned dates of research:
-
 * Cohort 1: Thursday July 6 - Friday July 7
 * Cohort 2: Monday July 17 - Wednesday July 19
 * Cohort 3: Wednesday July 26 - Friday July 28
