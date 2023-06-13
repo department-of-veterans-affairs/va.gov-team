@@ -1,6 +1,3 @@
----- 
-
-
 # We've moved our docs!
 
 ### This document is no longer maintained.
