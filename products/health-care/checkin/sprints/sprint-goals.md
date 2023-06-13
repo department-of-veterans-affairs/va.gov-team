@@ -27,7 +27,7 @@ ________________________________________________________________________________
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Replace Claim Number Sent to VA Notify for the SMS Content with Last 4 Digits Only](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59960)
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Test in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58452)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Schedule Travel to Wikes-Barre](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59780)
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Schedule Pilot Touch Points with Wilkes-Barre](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59778)       
+       - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [[UX] Schedule Pilot Touch Points with Wilkes-Barre](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59778)       
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Monitor Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43631)
        - Pilot will start on June 21st or 26th
 - **GOAL: Comply with the Authority to Operate (ATO)**
@@ -42,7 +42,7 @@ ________________________________________________________________________________
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Design for mobile check-in from a CHIP perspective (for fully authenticated check-in)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59387)
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Create a CHIP Endpoint to Return Appointment Eligibility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59893)    
     - **Sub Goal: [Send to Check-in when Pre-Check-in Link is Accessed Inside Check-in Window](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/46631)**
-        - Need LOE on what remains
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Determine LOE to Finish All Work and Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60202)
     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Execute Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56700)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Post-execution Tasks for Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56701)
@@ -53,6 +53,7 @@ ________________________________________________________________________________
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Severity 10: Breadcrumb Live Region](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59315)
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Severity 9: Ordered List Should Be Unordered](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59306)
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Severity 9:  Focus Order Starts With H1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59305)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Evaluate Tickets](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60205)
      - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57812) 
