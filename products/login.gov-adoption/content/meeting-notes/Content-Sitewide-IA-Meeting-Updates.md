@@ -1,5 +1,31 @@
 ### Content Sync
 
+## June 12, 2023
+
+## Attendees: Sofia Kirkman, Danielle Thierry
+
+## Notes:
+- Set up this meeting to understand how Danielle uses Google Analytics to look at data for blogs (acc to Tim Hudak from VEO)
+- https://news.va.gov/119761/securely-accessing-your-va-account-online/ was not distributed through normal pathways, according to Elizabeth, so this could explain why there is not a lot of comments on it
+- Discovered that news.va.gov is not tagged for Google Analytics tracking - we might need to reach out to the Analytics team if we want blogs tracked moving forward
+- Google Analytics can be tracked for campaign landing pages
+- When using Google analytics:
+  -  In the future the data used for PACT will move to GA4 but for now use Va.gov production and All VA.gov Website Data
+  -  Put link to URL into search bar
+  -  Look at Page views, Avg time on page, Entrances, Bounce rate
+  -  Under events you can see what event action people are taking
+<img width="673" alt="Screenshot 2023-06-12 at 1 18 31 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/125686639/f7fe02b7-9e1a-4187-94bb-d76065cf3ed1">
+  - Save a report and name it and export
+  - Can create dashboards 
+  - Under audience and user explorer you can try to track where people came from (although Danielle has only gotten this to work a few times)
+  - Danielle and Sitewide use Medallia data from online survey
+  - Resources and support requested to have a button for "how would you rate your experience on this page?" < Good or Bad
+  - Medallia allows you to customize 
+  - VAMC have a survey for experiences online
+  - Danielle can share the data for FAQs which are usually complaints about the process 
+
+
+
 ## June 8, 2023
 
 ## Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Laura Willwerth, Joe Niquette, Amber Parsley, Ngozi Abolarin
