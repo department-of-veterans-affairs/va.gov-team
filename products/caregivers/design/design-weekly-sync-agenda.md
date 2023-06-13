@@ -1,5 +1,16 @@
 # Design Weekly Sync Agenda
 
+## 2023-06-12
+
+Attendees: DK, Jessica, Hieu, Katelyn, Kristen, Alex
+
+**VA 1010EZ Staff Research Questions**
+
+We brainstormed questions for interviewing staff, done in these two Mural boards:
+
+- [EZR discovery](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684943221068/4b11f2d1902d05f12f53468263a561c2d5a460a9?wid=0-1684949791097)
+- [EZR Registration-only path discovery](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684348883203/49fc4ff1bf31f3cabe200663708c1002645b447f?wid=0-1686000958778)
+
 ## 2023-06-05
 
 Attendees: DK, Jessica, Hieu, Katelyn, Kristen
