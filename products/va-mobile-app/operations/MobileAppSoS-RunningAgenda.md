@@ -47,6 +47,7 @@
 ## Notes
 
 6/13/23
+* User Retention Research - Liz
 * Sprint Capacity Planning - Content capacity  
     * Misty has 10 planned points for Sprint 74 but capacity is only at 5
     * Affects Check In and Confirmation Message Audit epics
