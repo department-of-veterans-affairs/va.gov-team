@@ -60,7 +60,6 @@ Learn more about how Veterans would like to go about applying, discovering eligi
 - We assume the overall process of determining eligibility and being placed in a Priority Group is somewhat unclear to Veterans today.
 - We assume adding the term/step of "registration" will add to the confusion around health care benefits. 
 - We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and other claims filed in between. 
-- 
 
 ## Methodology	
 - Semi-structured interviews - appropriate for generative research
@@ -102,7 +101,8 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
-15 completed sessions; 5 completed per cohort
+**15 completed sessions; 5 completed per cohort**
+21 requested; 7 per cohort
 
 
 
@@ -115,17 +115,18 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 
 **Screener Questions**
-Per Each Cohort
+Per Each Cohort Requested
+
+At least 4 participants:
+- Have you visited a VA facility for a medical visit/exam in the past year and did not enroll in health care benefits package? [answer should be yes to qualify.]
+
 At least 3 participants:
-Have you visited a VA facility for a medical visit/exam in the past year and did not enroll in health care benefits package? [answer should be yes to qualify.]
-
-At least 2 participants:
-Have you applied within the past 3 years and are now enrolled in health care? [answer should be yes to qualify.]
-
+- Have you applied within the past 3 years and are now enrolled in health care? [answer should be yes to qualify.]
 
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
+
 
 
 
