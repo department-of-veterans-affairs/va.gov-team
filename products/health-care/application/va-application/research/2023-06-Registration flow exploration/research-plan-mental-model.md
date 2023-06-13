@@ -131,6 +131,7 @@ What criteria would strengthen your results?
 
 
 
+
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
@@ -163,6 +164,19 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 
+
+
+### Availability
+| **Team Availability** | **Time (ET)** |
+| --------------------- | ------------- |
+| July 6, 2023     	|    		|
+| July 7, 2023   	|   		|
+| July 17, 2023   	|   		|
+| July 18, 2023   	|   		|
+| July 19, 2023   	|   		|
+| July 26, 2023   	|   		|
+| July 27, 2023   	|   		|
+| July 28, 2023   	|   		|
 
 
 
