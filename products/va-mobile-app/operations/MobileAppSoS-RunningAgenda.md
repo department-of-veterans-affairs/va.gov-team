@@ -47,6 +47,9 @@
 
 6/13/23
 * User Retention Research - Liz
+    * We'd like to start this right away
+    * Please surface any questions you may have 
+    * Liz to post the Research plan for Rachel & Ryan to review
 * Sprint Capacity Planning - Content capacity  
     * Misty has 10 planned points for Sprint 74 but capacity is only at 5
     * Affects Check In and Confirmation Message Audit epics
@@ -61,7 +64,7 @@
     * Meeting scheduled for Friday with MHV SM team including Mobile's Binny, Jayson and myself
     * Will have more of an update post meeting 
     * Open items: still awaiting ICD and updated schedule from MHV SM
-
+ * EVSS Migration updates
 
 
 5/31/23
