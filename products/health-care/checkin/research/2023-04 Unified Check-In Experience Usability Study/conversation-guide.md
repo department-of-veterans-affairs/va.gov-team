@@ -73,6 +73,7 @@ So, before we go to the prototype, let’s start with a few warm-up questions.
      - And, how would you rate your level of experience with using that technology - beginner, intermediate, advanced or expert? 
      - How long have you been using that technology? 
 - Have you been to a VA health facility for a medical appointment for yourself in the last 12 months?
+- Have you ever used your smartphone to check in to a VA medical appointment? 
 
 Great. Thank you. 
 
