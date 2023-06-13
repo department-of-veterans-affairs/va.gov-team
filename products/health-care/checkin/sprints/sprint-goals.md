@@ -45,6 +45,7 @@ ________________________________________________________________________________
     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Execute Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56700)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Post-execution Tasks for Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56701)
+        - [[UX][Design] SPIKE: Confirm alert use in confirmation error pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60210)
     - **Sub Goal: [Address 508 Audit Issues ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59304)**
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Severity 10: The error message "We're sorry.  We couldn't find an account..." has been implemented with both role="alert" and aria-live="assertive".  This is not appropriate,  because role="alert" has an implicit live status of assertive.  Using these in tandem causes screen readers to announce the message twice.  ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59319)
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Severity 10: Breadcrumb Live Region](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59315)
