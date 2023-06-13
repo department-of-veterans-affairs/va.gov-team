@@ -15,14 +15,15 @@
   -  Look at Page views, Avg time on page, Entrances, Bounce rate
   -  Under events you can see what event action people are taking
 <img width="673" alt="Screenshot 2023-06-12 at 1 18 31 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/125686639/f7fe02b7-9e1a-4187-94bb-d76065cf3ed1">
-  - Save a report and name it and export
-  - Can create dashboards 
-  - Under audience and user explorer you can try to track where people came from (although Danielle has only gotten this to work a few times)
-  - Danielle and Sitewide use Medallia data from online survey
-  - Resources and support requested to have a button for "how would you rate your experience on this page?" < Good or Bad
-  - Medallia allows you to customize 
-  - VAMC have a survey for experiences online
-  - Danielle can share the data for FAQs which are usually complaints about the process
+
+- Save a report and name it and export
+- Can create dashboards 
+- Under audience and user explorer you can try to track where people came from (although Danielle has only gotten this to work a few times)
+-  Danielle and Sitewide use Medallia data from online survey
+-  Resources and support requested to have a button for "how would you rate your experience on this page?" < Good or Bad
+-  Medallia allows you to customize
+-  VAMC have a survey for experiences online
+-  Danielle can share the data for FAQs which are usually complaints about the process
 
 
 
