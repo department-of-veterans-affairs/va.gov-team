@@ -39,6 +39,7 @@ Links to dashboard(s) showing "success criteria" metrics: <a href = "https://git
 ### Stage A: Canary 
 #### Planning  
 Date: 6/13/2023
+
 Length of time: 2 days
 Percentage of Users (and roughly how many users do you expect this to be): 1%
 #### Results:  
