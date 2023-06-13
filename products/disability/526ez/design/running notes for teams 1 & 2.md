@@ -6,6 +6,7 @@ Agenda
 - Review sitemap and validate changes
 - Sitemap screenshots (How to)
 - Reserve National Guard- There are 6 reserve options. Do all of these follow the same path?
+- Are there additional paths to be added or explored (Reserve and PTSD added)
 
 ## 6/8/23
 Attendees: Lydia, Nyantee, Nichole, Julie
