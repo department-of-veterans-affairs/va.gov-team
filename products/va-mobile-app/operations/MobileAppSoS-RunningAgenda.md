@@ -18,7 +18,7 @@
 | ----------- | ----------- | ----------- |
 | [EVSS Backend Migration](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/2558) | Kelly | GREEN |
 | [Check-In](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/4315) | Meko | GREEN |
-| [Secure Messaging - Realignment with MHV](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4718) | Adam | GREEN - wrapping up |
+| [Secure Messaging - Realignment with MHV](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4718) | Adam | GREEN |
 | [Claims Metrics/Pact Act](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4078) | Stacy | GREEN |
 | [Android SSO Login Update](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5118) | Stacy | GREEN |
 | [Cancel Message Content Auidt](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2172) |Stacy | GREEN |
@@ -55,13 +55,13 @@
     * Thanks Ryan for confirming we can use the Perigean link; Danielle will be included in content approval- [Slack thread](https://dsva.slack.com/archives/C018V2JCWRJ/p1686256275924369)
     * Dependency - We will need Kevin Hoffman / Danielle Thierry approval before implementing as they are not currently looking to increase their recruitment database size (see Slack thread for more details)
     * Proceeding with Step 2 focusing on UX design and business logic per Po's approval last demo
+ * Secure Messaging - Realignment with Web (Adam)
+    * Identified threading work needs to carry over 5654 ; Worked with Binny and will be picking this up 
  * Secure Messaging - Migrate to Re-Engineered Patient APIs (Adam) 
     * Meeting scheduled for Friday with MHV SM team including Mobile's Binny, Jayson and myself
     * Will have more of an update post meeting 
     * Open items: still awaiting ICD and updated schedule from MHV SM
- * Secure Messaging - Realignment with Web (Adam)
-    * Some work carried over from Sprint 72 to Sprint 73 
-    * The last release with improvements for this project will be in 7/4 
+
 
 
 5/31/23
