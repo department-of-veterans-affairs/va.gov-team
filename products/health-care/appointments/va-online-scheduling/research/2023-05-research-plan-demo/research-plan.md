@@ -21,6 +21,7 @@ Are there moments that matter?
 What are you trying to learn from this research? 
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+- Example goal 1
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
