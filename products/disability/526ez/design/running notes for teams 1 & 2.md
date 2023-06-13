@@ -1,4 +1,11 @@
 # Running Notes for Design & Research Teams 1 & 2 (T-Rex & Carbs)
+## 6/15/23
+Attendees: Lydia, Nyantee, Nichole
+
+Agenda
+- Review sitemap and validate changes
+- Sitemap screenshots (How to)
+
 ## 6/8/23
 Attendees: Lydia, Nyantee, Nichole, Julie
 
