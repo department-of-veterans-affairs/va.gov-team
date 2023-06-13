@@ -5,6 +5,7 @@ Attendees: Lydia, Nyantee, Nichole
 Agenda
 - Review sitemap and validate changes
 - Sitemap screenshots (How to)
+- Reserve National Guard- There are 6 reserve options. Do all of these follow the same path?
 
 ## 6/8/23
 Attendees: Lydia, Nyantee, Nichole, Julie
