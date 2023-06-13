@@ -57,6 +57,7 @@ Learn more about how Veterans would like to go about applying, discovering eligi
 
 ### Hypothesis
 - We assume that Veterans will not use the term "registration only" when referring to health care benefits but will be familiar with enrollment and eligibility.
+- We assume that Veterans will use the term registration when they are talking about choosing their main VA medical facility for care. 
 - We assume the overall process of determining eligibility and being placed in a Priority Group is somewhat unclear to Veterans today.
 - We assume adding the term/step of "registration" will add to the confusion around health care benefits. 
 - We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and other claims filed in between. 
