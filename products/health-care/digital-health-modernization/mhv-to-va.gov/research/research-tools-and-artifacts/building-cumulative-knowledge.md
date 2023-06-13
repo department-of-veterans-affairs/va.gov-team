@@ -24,14 +24,14 @@ Searching through the research repo can be a little challenging (though it has b
 
 There are two ways to search GitHub using VS Code. You can either search with or without downloading VS Code onto your computer. Searching with VS Code downloaded onto your computer produces more results than using it solely integrated into GitHub - it is unknown why this is. One approach could be to search without downloading VS Code as a preliminary sweep, then perhaps with VS Code downloaded for deeper dives
 
-**Not downloading VS Code
+**Not downloading VS Code**
 - Go to VA GitHub
 - Press the period button. This will allow you to use VS Code without having to download it. See VS Code's [Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks) for insights on how to do keyword searches
 - Download the full GitHub repo: a pop up box will appear - click "Download full contents". This will take a while. 
 <img width="908" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/100814257/182d53fd-9770-4268-a5c8-062c950346dd">
 - Search using the search function (represented by magnifier glass icon in top lefthand corner
 
-**Downloading VS Code
+**Downloading VS Code**
 - Download GitHub Desktop and set up following [these instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/documentation/how-to-use-git-lfs-with-github-desktop-app.md)
 - Download VS Code by following [these instructions](https://code.visualstudio.com/download)
 - Once you have GitHub Desktop and VS Code set up locally, use the search icon and follow the code format below, altering the search terms as needed. 
@@ -41,7 +41,7 @@ _Peter - could you put in screenshot and code here, and explain what the search 
 This approach typically pulls up the most results. You search through all content within the search parameters and VA.gov repository, not just titles and key findings. 
 
 
-3. Use the Repo Search functionality
+3. Use the Repo Search functionality _(Easier but less comprehensive)_
 
 This process searches within studies found on the [research repository](https://github.com/department-of-veterans-affairs/va.gov-research-repository/projects/1). While it does not pull in any content elsewhere on VA.gov GitHub but does surface all content found in issues located on the research repo. These issues typically contain titles, research questions, hypotheses, findings, and/or tags. This will not search content located in research folders located elsewhere on VA.gov. 
 
