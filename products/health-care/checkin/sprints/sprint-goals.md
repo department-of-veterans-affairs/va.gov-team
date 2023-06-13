@@ -24,7 +24,6 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**    
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] - Add Wilkes-barre clinics to allow list.](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/60186)
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Content] Create FAQ Guide for MSAs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59722)
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Test in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58452)
        - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Schedule Travel to Wikes-Barre](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59780)
        - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [[UX] Schedule Pilot Touch Points with Wilkes-Barre](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59778)       
@@ -46,7 +45,7 @@ ________________________________________________________________________________
     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Execute Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56700)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Post-execution Tasks for Remote Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56701)
-        - [[UX][Design] SPIKE: Confirm alert use in confirmation error pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60210)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] SPIKE: Confirm alert use in confirmation error pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60210)
     - **Sub Goal: [Address 508 Audit Issues ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59304)**
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Severity 10: The error message "We're sorry.  We couldn't find an account..." has been implemented with both role="alert" and aria-live="assertive".  This is not appropriate,  because role="alert" has an implicit live status of assertive.  Using these in tandem causes screen readers to announce the message twice.  ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59319)
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Severity 10: Breadcrumb Live Region](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59315)
@@ -60,9 +59,10 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57812)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53651) 
 - **GOAL: Address tech & design debt**   
-   - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Compare GA4 Automatically-Logged Events against our UA Custom Events Logged](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60000)
-   - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] "TTY:" part should be inside the link with the 711](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59401)
+   - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Memorable date validation issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59018)
+   - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] "TTY:" part should be inside the link with the 711](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59401)   
    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Set up new sketch files for use](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59744)
+   - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Compare GA4 Automatically-Logged Events against our UA Custom Events Logged](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60000)
    - [Platform Orientation Template [Lee Delarm]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59192)
 
 ------------------------- END FUTURE / TENTATIVE ------------------------------------
