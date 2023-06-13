@@ -35,7 +35,7 @@ ________________________________________________________________________________
         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] SPIKE: Determine LOE to Reduce Fields Populated in the LoROTA Entry Upon Creation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60103)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**  
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Add "You're checked in." Screenshot to Poster](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60133)            
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Let Veterans Know What to Look for When They have Successfully Checked in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60133)            
         - Pilot will start on July 10 with Asheville & Richmond
     - **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**   
         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Understand and create the design for vets-api module to call CHIP endpoints for full auth check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59385)    
