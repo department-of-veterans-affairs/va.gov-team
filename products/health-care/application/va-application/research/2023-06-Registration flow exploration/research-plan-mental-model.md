@@ -27,7 +27,7 @@ This impacts a key moment that matters in that Veterans need to select the healt
 
 ## Research Goals	
 
-Out goal is to learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them.
+Out goal is to learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them and the process to getting the level the care they want/need.
 
 Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care and Priority Groups impacting them during the health care application process.
 
@@ -69,7 +69,7 @@ We will iterate on the scenarios in the Conversation Guide throughout the study;
 
 Additional desk research will be conducted to supplement these interviews:
 - Google analytics path and keyword study
-- VSignals 
+- VSignals analysis around keywords
 
 
 ### Location
@@ -102,16 +102,12 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
 **15 completed sessions; 5 completed per cohort**
-21 requested; 7 per cohort
 
+21 requested; 7 requested per cohort
 
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
-
-
-
 
 
 **Screener Questions**
@@ -124,6 +120,10 @@ At least 3 participants:
 - Have you applied within the past 3 years and are now enrolled in health care? [answer should be yes to qualify.]
 
 
+
+
+
+
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
 
@@ -134,9 +134,11 @@ What criteria would strengthen your results?
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
-Cohort 1: 
-Cohort 2:
-Cohort 3: 
+Cohort 1: Thursday July 6 - Friday July 7
+
+Cohort 2: Monday July 17 - Wednesday July 19
+
+Cohort 3: Wednesday July 26 - Friday July 28
 
 
 
@@ -146,12 +148,15 @@ Cohort 3:
 
 ### Research sessions
 * Planned dates of research:
-* 
+
+* Cohort 1: Thursday July 6 - Friday July 7
+* Cohort 2: Monday July 17 - Wednesday July 19
+* Cohort 3: Wednesday July 26 - Friday July 28
 
 ### Length of sessions
 * Session length:  < 1 hour
 * Buffer time between sessions: 1 hour
-* Maximum Sessions per day: 3
+* Maximum Sessions per day: 4
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
@@ -160,14 +165,18 @@ Please request enough dates and at ***least double the amount of time slots for 
 
 
 
+
+
+
+
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
+- Moderators:	
+- Research guide writing and task development (usually but not always same as moderator): Moderators
+- Participant recruiting & screening:	Perigean
 - Project point of contact:	
 - Participant(s) for pilot test:
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
+- Note-takers:	Perigean and 1010 Health Enrollment Team
 - Observers:	
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
