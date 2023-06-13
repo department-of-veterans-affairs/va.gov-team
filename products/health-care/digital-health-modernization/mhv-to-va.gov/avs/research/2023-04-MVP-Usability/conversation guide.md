@@ -31,8 +31,8 @@
 -	Warm-up: 3 minutes
 -	Task 1: Initial Reactions to the AVS Interface - 7 minutes
 -	Task 2: Your Appointment on June 6, 2023 - 7 minutes  
--	Task 3: Your Treatment Plan from this appointment- 7 minutes
--	Task 4: Your health information as of this appointment – 10 minutes
+-	Task 3: Your Treatment Plan from this Appointment- 7 minutes
+-	Task 4: Your Health Information as of This Appointment – 10 minutes
 -	Task 5: Additional Information – 5 minutes [**Can cut questions if running long**]
 -	Task 6: Navigating to Another AVS – 10 minutes
 -	Task 7: Insights into Notifications – 7 minutes
@@ -84,7 +84,7 @@ I'd like to start by learning more about your experience reviewing information a
     - 	[**Moderator Note:** If participant cannot find this information, follow up on this in Task 3.]
     
 
-## Task 2:Your appointment on June 6th, 2023 - 7 minutes  
+## Task 2: Your Appointment on June 6th, 2023 - 7 minutes  
 Now, I would like you to focus on the “Your appointment on June 6th, 202 section**. Please review the section and please talk aloud as you are reviewing. And then, I’ll ask you a few questions as you move through.
 1.	Can you provide an example of how you might utilize the information within this section?
 2.	Are there any terms that seem unfamiliar or confusing to you?
@@ -101,7 +101,7 @@ Now, I would like you to focus on the “Your appointment on June 6th, 202 secti
     - [**Moderator Note:** If what they describe doesn’t match the intention of the section, then ask:] What if I told you that this section was supposed [*Improvise-** because the dialogue depends on the participant’s previous answer.]
 6.	How would useful or not useful do you find the information in “Medications ordered for administration in clinic”?
 
-## Task 3: Your Treatment Plan from this appointment - 7 minutes
+## Task 3: Your Treatment Plan from this Appointment - 7 minutes
 Now, I would like you to focus on the “Your Treatment Plan from this appointment” section. Please review this section by slowly scrolling through and thinking outloud again. 
 1.	How would you utilize the information within this section?
 2.	Are there any words that seem unfamiliar or confusing to you?
@@ -115,7 +115,7 @@ Now, I would like you to focus on the “Your Treatment Plan from this appointme
     -	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then share:] Okay, this section was supposed to display only the medications that were added or changed during the appointment?
     -	How valuable, or not valuable, do you find this section to be? Why?
 
-## Task 4: Your health information as of this appointment– 10 minutes
+## Task 4: Your Health Information as of this Appointment– 10 minutes
 Now, I would like you to scroll to “Your health information as of this appointment–”.  And again, please review this section by talking aloud while you are scrolling through.
 1.	Can you provide an example of how you might utilize the information within this section?
 2.	Are there any terms that seem unfamiliar or confusing to you?
