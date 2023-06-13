@@ -60,6 +60,7 @@ These are based on the [Sitewide IA Recommendations](https://github.com/departme
 
 - Should there be a breadcrumb on confirmation pages?
     - 06/08 Meeting: Agreed that we should treat it like the rest of the details pages and include the descriptive back link. We'll map out this flow and share with IA.
+- 06/13 IA requested we double check with design council on descriptive back links. TBD experimental design ticket will outline the requirements.
 
 ---
 ## Measuring Success
