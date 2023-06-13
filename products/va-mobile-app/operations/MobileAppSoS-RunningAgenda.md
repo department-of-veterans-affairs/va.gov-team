@@ -51,12 +51,6 @@
     * Misty has 10 planned points for Sprint 74 but capacity is only at 5
     * Affects Check In and Confirmation Message Audit epics
     * Have worked ahead a bit on audit epic and hoping to reduce points for work in this sprint, encompassing really only QA'ing content and helping answer questions that come up from implementation.
-* [Release V2.5](https://dsva.slack.com/archives/C018V2JCWRJ/p1686160008988389) - at risk of being delayed (Adam/QA)
-    * QA has not yet approved as VAOS is returning 502 errors when we attempt to cancel appointment since last Wednesday
-    * All other tests have passed and no new issues uncovered
-    * PO approval due today
-           * Would POs like to approve knowing this risk
-           * Delay the release
 * In-App Recruitment Step 2 (Adam)
     * Thanks Ryan for confirming we can use the Perigean link; Danielle will be included in content approval- [Slack thread](https://dsva.slack.com/archives/C018V2JCWRJ/p1686256275924369)
     * Dependency - We will need Kevin Hoffman / Danielle Thierry approval before implementing as they are not currently looking to increase their recruitment database size (see Slack thread for more details)
