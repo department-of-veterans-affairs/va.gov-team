@@ -52,8 +52,7 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
      1. In-person, virtual, or by phone (do people open the appointments accordion unprompted?)
      1. With or without appointments (any comments about location of appointments information?)
      2. Hours of operation--for the office _vs._ only for a specific service
-     3. Hours of operation--2 sets of hours in a single day (i.e., morning and afternoon but closed for lunch hour)
-     1. Hours of operation--comment about one of the days 
+     3. Hours of operation--2 sets of hours in a single day (i.e., morning and afternoon but closed for lunch hour), comment about one of the days
 3. Do Veterans understand the actions they need to take to receive the service (make an appointment, walk-in, bring required documents, etc.)?
 11. What do Veterans expect to find under the service accordions?
      1. Do Veterans understand the different categories of service offerings?
