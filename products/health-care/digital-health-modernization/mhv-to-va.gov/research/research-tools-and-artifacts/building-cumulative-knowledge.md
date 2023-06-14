@@ -37,10 +37,40 @@ There are two ways to search GitHub using VS Code. You can either search with or
 - Download VS Code by following [these instructions](https://code.visualstudio.com/download)
 - Once you have GitHub Desktop and VS Code set up locally, use the search icon and follow the code format below, altering the search terms as needed. 
 
-_Peter - could you put in screenshot and code here, and explain what the search code relates to?_
+<img width="712" alt="VS code open to the file search options. Options are filled out as follows in the article body." src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/2536801/fc51e526-ac91-442c-bbe1-4a94c11dd183">
 
-This approach typically pulls up the most results. You search through all content within the search parameters and VA.gov repository, not just titles and key findings. 
+How to fill out the options:
 
+**Search**
+- Searches for a term across all files in the repo
+- Enter the term you want to search for
+- Optional: Choose the `.*` option to search using [regular expressions](https://learn.microsoft.com/en-us/visualstudio/ide/using-regular-expressions-in-visual-studio?view=vs-2022).
+
+**Replace**
+- Optional (and **not recommended** for this purpose): If you want to replace all instance of the search term, you can enter that here
+- Replacements don't happen until the replace all icon next to the replace input is clicked
+
+**files to include**
+- Filters down to specific files to fit a pattern
+- If you want to search across research findings in the the va.gov-team repo, use this pattern or modify as needed:
+
+`./products/**/research/**/*finding*,*report*,*readout*`
+
+Here's what this means:
+`./products` - Look for search term(s) under the products directory,
+`/**/research` - any number of sub-directories deep until you find a folder named "research",
+`/**/*finding*,*report*,*readout*` - any number of directories deep in files where the name includes "finding", "report", or "readout"
+
+**files to exclude**
+- Optional
+- Inverse of "files to include"
+
+**Open in editor**
+- Search results will show in a summary view below the search fields
+- Click "open in editor" to see a more expansive view of the summary. This includes lines around the search terms which can be helpful for context
+- Click any of the links to open the file referenced
+
+This approach typically pulls up the most results. You search through all content within the search parameters and VA.gov repository, not just titles and key findings.
 
 #### 3. Use the Repo Search functionality _(Easier but less comprehensive)_
 
