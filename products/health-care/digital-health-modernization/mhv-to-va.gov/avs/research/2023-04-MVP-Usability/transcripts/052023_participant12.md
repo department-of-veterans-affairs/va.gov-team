@@ -32,7 +32,7 @@
 -	Task 1: Initial Reactions to the AVS Interface - 7 minutes
 -	Task 2: Your Appointment on June 6, 2023 - 7 minutes  
 -	Task 3: Your Treatment Plan from this Appointment- 7 minutes
--	Task 4: Your Health Information as of This Appointment – 10 minutes
+-	Task 4: Your Health Information as of this Appointment – 10 minutes
 -	Task 5: Additional Information – 5 minutes [**Can cut questions if running long**]
 -	Task 6: Navigating to Another AVS – 10 minutes
 -	Task 7: Insights into Notifications – 7 minutes
