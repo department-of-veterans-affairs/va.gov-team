@@ -83,7 +83,7 @@ Let’s start with a few warm-up questions.
 - Did anyone help you figure out what you qualify for and what your benefits included?
 - Would you rather do the research yourself or be told what you qualify for?
 - Did you want to only get care for one specific health concern, or were you interested in getting full health care coverage?
-- Looking back now after you have been using health care benefits now, is there anything you wish you would have know during the application?
+- Looking back now after you have been using health care benefits, is there anything you wish you would have known during the application?
 
 ### Things to watch for:
 - [How does the Veteran descirbe the process of figuring out what they are eligble for - are they frustrated, do they find it easy, do they just expect the VA to have the data and figure it out for them?]
