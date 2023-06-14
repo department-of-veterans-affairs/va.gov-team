@@ -42,8 +42,6 @@
 **Component**
 - QA component on My VA
 - Complete Staging and PSIR reviews
-- UAT (if needed?)
-- "release" component on My VA
 
 **Notification Center**
 - Share with MHV folks 
@@ -64,10 +62,8 @@
 
 ### Onsite Notifications
 **Component**
-- Post-launch code cleanup 
-- Documentation updates 
-  - standard use cases, flows, etc. 
-  - _plus_ document process of component build soup to nuts
+- internal UAT (very light)
+- "release" component on My VA
 
 **Notification Center**
 - Start build?
@@ -92,6 +88,11 @@ _Samara returns from parental leave!_
 
 ### Onsite Notifications
 
+**Component**
+- Post-launch code cleanup 
+- Documentation updates: standard use cases, flows, etc. 
+
+
 **Notification Center**
 - Continue build
 - Prep for QA
@@ -114,6 +115,11 @@ _Samara returns from parental leave!_
 [#58195](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58195)
 
 ### Onsite Notifications
+
+### Onsite Notifications
+**Component** 
+- Documentation updates (cont.): document process of component build soup to nuts
+
 
 **Notification Center**
 - Staging Review?
