@@ -2,11 +2,10 @@
 June 14, 2023
 
 ## Onsite vs. On-screen notifications
-On-screen = push notification
-Onsite = notifications right in the UI of the site
+- On-screen = push notification
+- Onsite = notifications right in the UI of the site
 
 ## Design Principles
-(from Patrick and Ryan)
 - Notifications must always be actionable and related to the specific patient's care
 - The user will be able to see all notifications in one place regardless of status
 - Notifications will have one of two statuses: read or unread
