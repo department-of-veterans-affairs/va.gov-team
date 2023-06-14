@@ -51,9 +51,9 @@ Learn more about Veteran's mental model when applying for health care benefits a
 - What is the Veterans perception of eligibility and Priority Groups when they are completing the application?
 
 Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for.
-- What is the Veteran's current pain points with how the health care application impacts the overall benefits journey?
+- What are the Veteran's current pain points with how the health care application impacts the overall benefits journey?
 - What is the order and process expectations of Veterans when they are applying (registering or enrolling) for health care benefits?
-- When during the health care application process would Veterans prefer to go through eligibility questions? (before, during, or after initial registration)
+- When does it make sense to Veterans to go thorugh eligibiltiy based questions? (before, during or after application)
 
 
 ### Hypothesis
