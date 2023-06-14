@@ -107,6 +107,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 
 **Screener Questions**
+
 Cohort 1: 
 - Have you visited a VA facility for a medical visit/exam in the past year and did not enroll in health care benefits package? [answer should be yes to qualify.]
 
@@ -115,14 +116,14 @@ Cohorts 2 & 3:
 
 
 
-
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
 
 
-- At least 9 participants are female
-- 
-
+- At least 8 participants are female
+- At least 5 participants with a cognitive disability
+- At least 5 participants over the age of 55
+- At least 3 participants who are living abroad or immigrant origin
 
 
 ## Timeline
