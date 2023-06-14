@@ -13,7 +13,7 @@ The Lighthouse Claims API will retrieve a veteran's claim status information fro
 ## Desired User Outcomes
 - Veterans experience better application performance
 - Over time, veterans are able to receive more reliable and useful information related to their claims so that their expectations are managed and they know what actions they can take to reduce the time waiting for a favorable decision.
-- Veterans get their pain pionts addressed faster.
+- Veterans get their pain points addressed faster.
 
 ## Desired Benefits Crew Outcomes
 - The Benefits Crew is able to collaborate with a willing partner in Lighthouse to pursue big bets that require an expansion of the claims end point infrastructure.
