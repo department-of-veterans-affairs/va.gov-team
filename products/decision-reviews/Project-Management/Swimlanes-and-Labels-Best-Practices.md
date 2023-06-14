@@ -29,7 +29,7 @@
 * **Labels: benefits-team-1, squad-2, labels describing the work being done (Check below for some commonly used labels)**
 
 ### Validate
-* User stories that need to be reviewed before closing them. 
+* Any ticket that needs to be reviewed by a person other than the one who did the original work. If a problem (or suggestion) is found in this review stage, the ticket is to go back to the "In Progress" swimlane until the changes are ready to be reviewed. Once the reviewer has given final approval, the ticket can be closed. 
 
 ### Blocked
 * User stories that need intervention ASAP. 
