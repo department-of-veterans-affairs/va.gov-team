@@ -23,12 +23,13 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**    
+       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Test in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues)
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] - Add Wilkes-barre clinics to allow list.](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/60186)       
        - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Schedule Travel to Wikes-Barre](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59780)
        - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [[UX] Schedule Pilot Touch Points with Wilkes-Barre](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59778)       
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Monitor Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43631)
        - Pilot will start on June 20
-       - Do we need to do additional production testing?
+       - Ben & Lori will be onsite at Allentown July 7 & 8
 - **GOAL: Comply with the Authority to Operate (ATO)**
     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Reduce Fields Populated in LoROTA Entry Upon Creation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59984)**
         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] SPIKE: Determine LOE to Reduce Fields Populated in the LoROTA Entry Upon Creation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60103)
@@ -36,6 +37,7 @@ ________________________________________________________________________________
     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**  
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Let Veterans Know What to Look for When They have Successfully Checked in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60133)            
         - Pilot will start on July 10 with Asheville & Richmond
+        - Need poster addition ASAP so can forward to Asheville & Richmond!
     - **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**   
         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Understand and create the design for vets-api module to call CHIP endpoints for full auth check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59385)    
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Design for mobile check-in from a CHIP perspective (for fully authenticated check-in)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59387)
@@ -56,7 +58,6 @@ ________________________________________________________________________________
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Evaluate Tickets](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60205)
      - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57812)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53651) 
 - **GOAL: Address tech & design debt**   
    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Memorable date validation issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59018)
@@ -119,7 +120,7 @@ ________________________________________________________________________________
         - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[DESIGN] Revisit eyebrow design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58453)
    - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57812) 
+       - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57812) 
 - **GOAL: Address tech & design debt**   
    - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] [UX] Pilot transition back to Sketch](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/58564)
    - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Design] Create Final Wireframe for "TTY:" part should be inside the link with the 711](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59402)
