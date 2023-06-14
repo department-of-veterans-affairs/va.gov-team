@@ -40,7 +40,12 @@ The Income Limits tool will be a new page in the 'More info and resources sectio
 **1) Income Limits Tool - New**
 - URL:  www.va.gov/health-care/income-limits
 - Breadcrumb: Home > Health Care > [H1 of page]
-- Notes: Also, all consecutive pages in the flow (like the steps in the flow) will build from this root URL. For those additional URL slugs, you can follow our URL standards in word selection and formatting (you don't need to ask us for those -- they're in design system > content style guide). Let us know if you need help with that!
+- Notes: Also, all consecutive pages in the flow (like the steps in the flow) will build from this root URL. We've decided on the following:
+  -- Year screen - www.va.gov/health-care/income-limits/year
+  -- Zip code screen - www.va.gov/health-care/income-limits/zip
+  -- Number of dependents screen - www.va.gov/health-care/income-limits/dependents
+  -- Review Info screen - www.va.gov/health-care/income-limits/review
+  -- Results screen - www.va.gov/health-care/income-limits/results
 
 
 ## <a name="nav"></a>Entry points <br>
