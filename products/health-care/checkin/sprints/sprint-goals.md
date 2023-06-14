@@ -3,7 +3,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 6/14/2023 - 6/27/2023  --------------------- FUTURE / TENTATIVE -----------------------------
+## 6/14/2023 - 6/27/2023  
 #### SPRINT GOALS
 - **GOAL: Fix Bugs**
 - **GOAL: Make submission of a travel reimbursement claim easier**
@@ -63,13 +63,11 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53651) 
 - **GOAL: Address tech & design debt**   
-   - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Memorable date validation issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59018)
    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] "TTY:" part should be inside the link with the 711](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59401)   
    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Set up new sketch files for use](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59744)
    - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Compare GA4 Automatically-Logged Events against our UA Custom Events Logged](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60000)
    - [Platform Orientation Template [Lee Delarm]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59192)
 
-------------------------- END FUTURE / TENTATIVE ------------------------------------
 
 __________________________________________________________________________________________________________________________________________________________
 
