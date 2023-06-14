@@ -105,9 +105,10 @@ Let’s start with a few questions...
 1. How do you typically get information and benefits from the VA? 
 *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / _________________)*
 
-1. What do you know about VA regional benefit offices? 
+1. Are you familiar with VA regional benefit offices? 
+1. If so, what do you know about them? 
 1. Have you been to one before? 
-1. If yes, can you describe your last visit to a regional benefit office? 
+1. If so, can you describe your last visit to a regional benefit office? 
      1. When was it?
      1. What did you do there?
      1. What do you wish you had known *before going*?
@@ -149,9 +150,10 @@ What are your impressions of what you're looking at? *(RECORD)*
 
 ### Task 3: [TBD task re service on the page]
 
-Could you try to use this to find out how to get help with  [TBD]? 
+I want you to imagine that you live in Boston. Could you try to use this page to find out how to get help with [TBD]? 
 
 To make this happen, what would you do next? 
+- What would you need to know or do before getting help?
 - *ck hours / mk appt / how to get there / what to bring*
 
 How would you locate the benefit office in the building?
@@ -161,6 +163,7 @@ How would you locate the benefit office in the building?
 Could you try to use this to find out how VA might help you get a job [TBD]? 
 
 To make this happen, what would you do next? 
+- What would you need to know or do before getting help?
 - *ck hours / mk appt / how to get there / what to bring*
 
 ### Task 5: [TBD task re service NOT on the page]
@@ -174,7 +177,7 @@ Could you try to use this to find out how to get help with applying for life ins
 ## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-1. In your own words, what do you think you can do from this VA office?
+1. In your own words, what do you think you can do at from this VA office?
 1. What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
