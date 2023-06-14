@@ -1,5 +1,14 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: June 14 2023
+### Topics Covered:
+- Bug Pilot Rollout
+  - Next Steps
+  - Feedback regarding Sentry errors / priority
+  - Request from Kimberly regarding Form Error lis
+- Brainstorm meeting / Mural
+  - particanpts and scheduling for meeting
+
 ### Date: June 7 2023
 ### Topics Covered:
 - Team 2 Board Quick Overview
