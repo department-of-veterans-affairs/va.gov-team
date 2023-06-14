@@ -45,27 +45,44 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - 3 minutes
+## Warm-up Questions (Cohort 1) - 3 minutes
 
 Let’s start with a few warm-up questions.
 
-- Are you currently enrolled and using health care benefits from the VA? [which sceener question answered yes to]
-- How long have you been receiving medical care from the VA? (if answered yes)
-- How long ago did you visit a VA facility? (if answered no to enrolled)
+- How long have you been receiving medical care from the VA or last visited a VA Facility for medical reasons? 
+
+
+## Warm-up Questions (Cohorts 2 & 3) - 3 minutes
+
+Let’s start with a few warm-up questions.
+
+- Are you currently enrolled and using health care benefits from the VA? 
+- How long have you been receiving medical care from the VA? 
 - How often do you visit a VA facility? (if answered yes)
 - Do you regularly visit VA.gov?
 - Do you receive other benefits from the VA in addition to your medical benefits?
 
 
-## First Topic: [Current Process] - 10 minutes
 
-- Can you explain to me in your own words the process you took when you were seen for care or applied for benefits?
+## First Topic: [Cohort 1 - Current Process] - 5 minutes
+
+- What was your experience like getting setup for that appointment beforehand or did you just walk in?
+- Can you describe your experience with any forms or sign up information that you had to complete to apply to be seen for care? [Not saying your "registration experience, but would they have filled out an EZ?]
+- Was it clear to you as you were applying/getting care, what benefits or level of care you would qualify for? 
+- How would you describe the process after you were seen for care? 
+- Did you have any communication from the VA or information if you were eligible for more health care benefits?
+
+
+
+## First Topic: [Cohorts 2 &3 - Current Process] - 10 minutes
+
+- Can you explain to me in your own words the process you took when you applied for benefits?
 - [If they don't specify] Did you complete this online, in-person or via paper application by yourself?
 - Anything that stood out to you?
 - Was there any part of that process that was frustrating or difficult for you?
 - What is your recollection about the amount of information you had to provide?
-- Was it clear to you as you were applying/getting care, what benefits or level of care you would qualify for? 
-- How would you describe the process after you applied/were seen for care?
+- Was it clear to you as you were applying, what benefits you would qualify for? 
+- How would you describe the process after you applied?
 - Was it clear to you how your application answers impacted your benefits?
 - When it comes to registering and health care at the VA, what does that mean to you?
 
@@ -104,6 +121,8 @@ Let’s start with a few warm-up questions.
 - [What steps do they call out?]
 - [What steps do they leave out?]
 - [What do they mention or call out as information that is helpful in making decisions about health care benefit choices?]
+
+
 
 
 
