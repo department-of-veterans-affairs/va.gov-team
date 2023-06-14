@@ -48,6 +48,7 @@ One potential issue on this page is the presence of redundant headers and links 
 - [ ] **(2)** Make any style tweaks
 - [ ] **(3)** Set up breadcrumbs
 - [ ] **(4)** Set up pagination
+- [ ] **(TBD)** Set up empty state for notifications section on My VA
 
 #### Maintenance
 - [ ] **(4)** Write unit tests
