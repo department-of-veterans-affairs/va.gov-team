@@ -19,7 +19,7 @@
   - Matt reminds to capture feedback on MURAL, and will look forward to formal review when he returns
   - Regarding Sentry/Datadog errors noted by Steve: Austin wondering if should prioritize? Steve says prioritize on case by case basis based on other things going on, expects there to be a pattern that means fixing one means fixing many
   - Matt reminds to prioritize based on severity, Austin will make sure folks on big duty are understanding/doing this
-
+  - Austin re: request from Kimberly regarding Form Error lis, will meet to discuss, still need to schedule hand off
 
 
 ### Date: June 7 2023
