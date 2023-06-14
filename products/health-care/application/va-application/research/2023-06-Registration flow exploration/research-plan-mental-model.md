@@ -35,10 +35,11 @@ Learn more about how Veterans would like to go about applying, discovering eligi
 
 
 ### Outcome
-- Gain understanding of the current problem space and Veteran's perception of registration/enrollment
+We will use these findings to:
+- Gain more understanding of the current problem space and Veteran's perception of registration and enrollment
 - Check assumptions and terminology used to remain Veteran-centric 
-- Insight into an ideal state and how Veteran would prefer to navigation the health care benefits application journey
-- Phased approach to iterate on low-fi wireflows / hypothesis creation during this study
+- Develop insights into an ideal state and how Veteran would prefer to navigation the health care benefits application journey
+- Guide our direction in creating the registration flow by iterating on potential hypothesis flows prior to creating a prototype
 
 ### Research questions
 Out goal is to learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them.
