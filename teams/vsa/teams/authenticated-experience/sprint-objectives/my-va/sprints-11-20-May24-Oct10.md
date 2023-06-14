@@ -95,9 +95,7 @@ _Samara returns from parental leave!_
 
 **Notification Center**
 - Continue build
-- Prep for QA
-- Schedule staging review
-- Plan for UAT (convo guide, plan)
+
 
 ### My VA
 
@@ -106,9 +104,11 @@ _Samara returns from parental leave!_
 - Submit PSIR review (will need dev support on this)
 - Launch/remove feature flag
 
+**MHV Migration Support**
+- Technical discovery: what will/do we need to update on My VA that currently points to MHV? (FE and BE tix in backlog)
+
 **General**
 - E2E and unit test work (cont. as needed)
-
 
 
 ## Sprint 15 (7/19 - 8/1)
@@ -120,9 +120,9 @@ _Samara returns from parental leave!_
 **Component** 
 - Documentation updates (cont.): document process of component build soup to nuts
 
-
 **Notification Center**
-- Staging Review?
+- Continue build
+- Prep for QA (write test cases)
 
 ### My VA
 
@@ -131,17 +131,60 @@ _Samara returns from parental leave!_
 
 **General**
 - E2E and unit test work (cont. as needed)
+- Update errors with warner error component (39066), FE work next sprint if bandwidth allows
 
 
 
 ## Sprint 16 (8/2 - 8/15)
 [#58198](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58198)
 
+### Onsite Notifications
+
+### Onsite Notifications
+
+**Notification Center**
+- Finish build
+- QA
+
+### My VA
+
+**Claims status widget - EVSS > Lighthouse**
+- ...
+
+**General**
+- E2E and unit test work (cont. as needed)
+- FE portion to update errors with warner error component (60329)
+
+
 ## Sprint 17 (8/16 - 8/29)
 [#58199](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58199)
 
+### Onsite Notifications
+
+**Notification Center**
+- QA
+- Schedule staging review
+- Plan for UAT (convo guide, plan)
+- Staging Review?
+
+### My VA
+
+**General**
+- ...
+
 ## Sprint 18 (8/30 - 9/12)
 [#58200](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58200)
+
+### Onsite Notifications
+
+**Notification Center**
+- Staging and PSIR reviews
+- Plan for UAT (convo guide, plan)
+
+### My VA
+
+**General**
+- E2E and unit test work (cont. as needed)
 
 ## Sprint 19 (9/13 - 9/26)
 [#58201](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58201)
