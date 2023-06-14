@@ -17,17 +17,13 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
-
-This fits accross the journey from getting out to aging.
-
-This impacts a key moment that matters in that Veterans need to select the health care coverage according to their individual needs and preferences and that is the best fit for them. 
+- This fits accross the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from getting out to aging.
+- This impacts a **key moment that matters** in that Veterans need to select the health care coverage according to their individual needs and preferences and that is the best fit for them. 
 
 
 ## Research Goals	
 
-Out goal is to learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them and the process to getting the level the care they want/need.
+Learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them and the process to getting the level the care they want/need.
 
 Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care and Priority Groups impacting them during the health care application process.
 
@@ -42,6 +38,7 @@ We will use these findings to:
 - Guide our direction in creating the registration flow by iterating on potential hypothesis flows prior to creating a prototype
 
 ### Research questions
+
 Out goal is to learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them.
 - What is the experience of "registering only" today? 
 - How does the regulation "§ 17.37 - Enrollment not required—provision of hospital and outpatient care to veterans" impact Veterans when applying for health care?
@@ -66,7 +63,6 @@ Learn more about how Veterans would like to go about applying, discovering eligi
 ## Methodology	
 - Semi-structured interviews - appropriate for generative research
 
-We will iterate on the scenarios in the Conversation Guide throughout the study; in bewtween cohorts, using what we learned from the interviews so far and ongoing desk and staff research.
 
 
 Additional desk research will be conducted to supplement these interviews:
@@ -80,9 +76,7 @@ Remote via Zoom for the interviews
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-For moderated interviews:
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model.md) 
 
 - [Recruitment ticket]
@@ -113,10 +107,10 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 
 **Screener Questions**
-At least 11 participants total requested:
+Cohort 1: 
 - Have you visited a VA facility for a medical visit/exam in the past year and did not enroll in health care benefits package? [answer should be yes to qualify.]
 
-At least 10 participants total requested:
+Cohorts 2 & 3:
 - Have you applied within the past 3 years and are now enrolled in health care? [answer should be yes to qualify.]
 
 
