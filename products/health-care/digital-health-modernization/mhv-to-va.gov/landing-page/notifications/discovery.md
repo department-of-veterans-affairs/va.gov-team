@@ -30,7 +30,7 @@ June 14, 2023
 - How did you decide on designs for notifications in My VA (using a card instead of a badge, for example?)
 
 ## Links
-- [My VA's product outline for onsite notifications (includes screenshots of current designs)]([https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications)https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications])
+- [My VA's product outline for onsite notifications (includes screenshots of current designs)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications)
 - [All notifications supported by VA Notify (as of January 2023)](https://docs.google.com/spreadsheets/d/1E7JupFC2i6XUzlOxbWwTbIJZ6AxRUz-m/edit#gid=1231731113)
 - [Authenticated Experience team notes on VA Notify notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/product/shared-notes-existing-notifications-to-review.md)
 - [Service map of appointment notifications](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1649696758581/a12e35b635ef11d25ff389fe6651b1e63026b68c?wid=0-1664898146419&outline=open&sender=ua13e567cb5c4221acaa14949)
