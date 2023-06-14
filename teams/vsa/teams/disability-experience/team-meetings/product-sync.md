@@ -2,13 +2,25 @@
 
 ### Date: June 14 2023
 ### Topics Covered:
+- Funnel data and user behavior
+  - Shannon wants to make sure all efforts (Steve, Nyantee, Julie) are synced, also that we are not seeking impossibly "perfect" targets
+  - Austin says Team 2 looking at user behavior overall, alongside error messaging (sees as complementary)
+  - Steve confirms if Thomas (Team 2) and Seth (Team 1) are the best folks for Sentry work
+  - Austin reminds we also have shorter term work around really understanding submission errors
+  - Austin wants to know if we want to prioritize certain user groups
+- Communication between team 1 and 2
+  - Lydia wonders if we can agree on where to communicate across teams in Slack
+  - Matt suggests looping Sarah and Rakshinda into conversation about combined channel
+  - Austin says he'll touch base with Sarah, Lydia will do same with Rakshinda
+- Austin will share brainstorm MURAL for folks to look at async
 - Bug Pilot Rollout
-  - Next Steps
-  - Feedback regarding Sentry errors / priority
-  - Request from Kimberly regarding Form Error lis
-- Brainstorm meeting / Mural
-  - particanpts and scheduling for meeting
-- Matt OOO loose ends for dbex teams
+  - Austin thinks we should go ahead and start piloting with contact center
+  - Matt says it will fall on teams to create tickets, Shannon will help with creating non-contact-center tickets (in Matt's absense)
+  - Matt reminds to capture feedback on MURAL, and will look forward to formal review when he returns
+  - Regarding Sentry/Datadog errors noted by Steve: Austin wondering if should prioritize? Steve says prioritize on case by case basis based on other things going on, expects there to be a pattern that means fixing one means fixing many
+  - Matt reminds to prioritize based on severity, Austin will make sure folks on big duty are understanding/doing this
+
+
 
 ### Date: June 7 2023
 ### Topics Covered:
