@@ -5,6 +5,7 @@ ________________________________________________________________________________
 
 ## 6/14/2023 - 6/27/2023  --------------------- FUTURE / TENTATIVE -----------------------------
 #### SPRINT GOALS
+- **GOAL: Fix Bugs**
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
 - **GOAL: Comply with the Authority to Operate (ATO)**
@@ -21,6 +22,8 @@ ________________________________________________________________________________
 - None
 
 #### SPRINT TICKETS
+- ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **GOAL: Fix Bugs**
+    - [Bug: Filter cancelled appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59414)       
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**    
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Test in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues)
