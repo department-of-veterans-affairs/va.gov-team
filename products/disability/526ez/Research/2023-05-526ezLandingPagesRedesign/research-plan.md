@@ -32,7 +32,6 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 - Reduce errors and ambiguity in submitted claims (thus reducing processing time)
 - Build trust with customers (Veterans)
 - Reduce VA costs by automating / digitizing where possible
-- Briefly describe the background of your product.
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
