@@ -78,7 +78,7 @@ Remote via Zoom for the interviews
 
 
 - [Link to conversation guide - cohort 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model-cohort1.md) 
-- [Link to conversation guide - cohorts 2 & 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model-cohorts2and3.md) 
+- [Link to conversation guide - cohorts 2 & 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-cohort2and3.md) 
 
 - [Recruitment ticket]
 	
