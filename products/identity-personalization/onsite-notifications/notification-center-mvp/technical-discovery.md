@@ -43,7 +43,7 @@ One potential issue on this page is the presence of redundant headers and links 
 |**Task**| **Points**|**Ticket**|
 |----|-----|-----|
 |Inquire Platform team about the last question in Yeoman generator| 2 | _I made this a task under 60398 which is 4pts_ | 
-|[Set up new application page](https://depo-platform-documentation.scrollhelp.site/developer-docs/creating-a-new-application) (manually or using generator) <br/><br/>- this should live at `/src/applications/notification-center` | 4 | [#60398](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60398) |
+|[Set up new application page](https://depo-platform-documentation.scrollhelp.site/developer-docs/creating-a-new-application) (manually or using generator) <br/>- this should live at `/src/applications/notification-center` | 4 | [#60398](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60398) |
 | Create  server for new app - create `/mocks/server.js` with [common API requests and responses](https://depo-platform-documentation.scrollhelp.site/developer-docs/creating-a-new-application)| 4 | [#60399](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60399)|
 | Create mock data for new app - create `/v0/onsite_notifications` responses | 3 | [#60400](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60400)|
 | Connect to global state, and set up reducers and actions if necessary | 5 | [#60403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60403)|
