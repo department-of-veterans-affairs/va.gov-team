@@ -51,7 +51,6 @@ Thank you for confirming these things! Now, I have a few things about today I wa
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
- 
 ## Warm-up Questions - 5-10 minutes
 Let’s start with a few questions... 
 
@@ -59,9 +58,29 @@ Let’s start with a few questions...
 
 2. What benefits other than healthcare, if any, do you receive from the VA? 
 
-## Screen sharing instructions
+## Brief card sort - 10 minutes
+We are going to start with a sorting activity. 
 
-Like I said, I'm going to share with you a link to a prototype of what the VA.gov website could look like and ask you to show me how you would do some common health-related activities. I'd like you to share your screen so I can see how you navigate on the website. Do you know how to share your screen? 
+This sorting activity is a tool that helps us to understand how Veterans would group certain items. If we can understand how items are grouped, we can then organize them in a way that makes it easier for Veterans to find what they need quickly. For example, if you were to organize a refrigerator, you might put certain food types together - like cheeses - to make it easier for you to find a cheese you like when you need it. 
+
+**Example card sort**
+*Preview link for demonstration purposes: https://dj540s05.optimalworkshop.com/optimalsort/vtqh45gr/sort* <-**update**
+
+We will be using a website to do the sorting activity. I'll show you how it works. 
+
+First, you'll see this screen on the left that has a list of different cards with information on them. On the right, you can drag items and group them together. Try to think of these groups as broader categories.
+
+We ask folks to organize the cards into different groups that make sense to you. What are the things that different cards have in common? Or that make the groups different from each other? 
+
+For me, looking at these cards on the left, I can organize the "Vanilla ice cream", "Cheddar cheese", and "Milk" cards together. I can rename the group by clicking on the "Click to rename" button at the top of the group - I'll rename this group "Dairy." I can organize "Lettuce" and "Broccoli" into a second group and label that "Vegetables." I have no idea what food group "cotton candy" might belong to, so I could put it in the "I don't know" group. 
+
+If I decide that I don't like a group that I made, I can also click the x in the top righthand side of the box and the cards get returned to the left hand column. 
+
+Do you have any questions at this point? 
+
+**Share Optimal Workshop link with participant**
+
+First, I'd like you to share your screen so I can see how you sort the carts. Do you know how to share your screen? 
 
 _Instructions for folks NOT using screenreaders:_
 - In the Zoom application on your computer/phone/tablet, there is a row of buttons at the bottom. In the center is a (green) button that says Share (phone), Share Screen (computer), or Broadcast screen (iPad). 
@@ -69,12 +88,49 @@ _Instructions for folks NOT using screenreaders:_
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
   - Now I'd like you to share your screen with me. Tap on the (green) button that says Share. Options should be provided for what to share. Please choose "Screen" (phone) or your web browser.
 
-Great, now I can see your screen! Thank you for your patience in figuring this out.
+- iPad: Broadcast screen
+
+Thanks for your patience in figuring that out. 
 
 - *Backup plan if they cannot figure out how to share screen:*
   - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
 
-## Wayfinding interview - 40-50 minutes
+Now I need to share with you a link to the sorting activity. How would you prefer the link to the sorting activity? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
+- [Card sort link](link - do bit.ly) <-**update**
+
+
+**Instructions to open the card sort:**
+- Go to the chat in zoom. It is located at the bottom of this zoom window and looks like a speech bubble.
+- Click on the link for the optimal workshop card sort.
+
+_If participant needs extra instructions, or needs instructions to be repeated, use these:_ 
+- On the left, we have cards with different labels. 
+- On the right, you can drag these cards and group them together. Try to think of these groups as broader categories. 
+- If you do not recognize what something is on one of the cards, or need me to explain it a bit more, let me know.
+
+* Any questions at this point?
+
+* Organize cards in a way that makes sense to you
+	* We will start at the top left and work our way through the cards, while we are moving them, help me out by “thinking out loud” so that I can understand why you might want to group things together.
+
+(_As participant puts cards into different groups_): Can you explain to me what you are thinking as you put *(card name)* and *(card name)* together? Why do those belong together? 
+
+- _Continue to probe participant to explain their thinking as they group cards._
+
+(_Review categories where you would like to understand what participants look for in a given category_): I see you created *(category)*. When you review information in *(category name)*, what data would be most important for you to know? 
+	
+   - _Example question_: When you review your appointments, what information would be most important for you to know? <-**update** 
+
+_PROBE FOR UNDERSTANDING OF DIFFERENT CARDS AND TERMS, IF PARTICIPANT NOT EXPLAINING. Particularly interested in understanding how users differentiate between different types of resources. Examples probes could be:_ <-**update probes below**
+
+	- What do you think "Pathology results" are? 
+	- How are you understanding "Radiology results or images"? 
+	- What do you think the difference is between "Encounter notes" and "Progress notes"?
+
+- (_When complete_): Please go ahead and click the finish button so we can save these groupings. It’ll be anonymous. 
+
+
+## Wayfinding interview - 40 minutes
 
 **_Task 1 - AVS task:_ _Participant should be starting from unauthenticated home page._** Let's imagine that you recently had to visit a specialist to talk about a chronic condition. You want to review what was decided for the next steps in your care. Using this prototype, where do you go for this information? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
@@ -100,7 +156,6 @@ _When partipcant goes to My VA:_
 - What is this page? 
 - What is the purpose of this page? 
 - how is this page different than the other page we were on with all the health resources? 
-- If you could design this website, where would you put your disability resources and your health resources? 
 
 _Once participant clicks on Copay link and is directed to Pay.gov, ask them to click "Continue" at least once to get them further into the form._
 - Where are you right now? 
@@ -108,8 +163,8 @@ _Once participant clicks on Copay link and is directed to Pay.gov, ask them to c
 - Thank you, you don't need to go any further than this. How would you get back to the original website we were on? 
 
 _Once participant has completed task:_
-- **Need think about what these might be. How to get at mental models/ representations?**
-- **Mikki comment to work in: Once they do this task, would be helpful to have them click between the My VA and My HealtheVet pages and provide any deeper feedback on what they think is  or should be the difference - if any?**
+- If you could design this website, where would you put your disability resources and your health resources? 
+- (_Ask participant to click between My VA and My HealtheVet pages_): If you were to describe these two pages to another Veteran, how would you explain them? 
 
 **_Task 3a - Medical Records task:_** Imagine that you were recently put on blood thinner medication. Your doctor ordered blood tests two weeks after you started the medication to make sure that it is working. Where would you look for the results from those blood tests?
 
