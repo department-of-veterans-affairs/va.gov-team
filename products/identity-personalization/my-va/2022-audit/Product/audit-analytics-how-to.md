@@ -1,7 +1,7 @@
 # My VA Analytics How-To
 Last updated: June 15, 2023 - added Notes explanation for issues with "manage all claims and appeals" and "review your payment history" event tags.
 
-This document serves as a guide for Google Analytics tracking on My VA, post-launch of the audit UX improvements implementation. To view results once live, view the [My VA Domo dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837).
+This document serves as a guide for Google Analytics tracking on My VA, post-launch of the audit UX improvements implementation in April 2023. To view results once live, view the [My VA Domo dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837).
 
 | |  **My VA section**     |  **Text of link or button as it appears on My VA**  | **Screenshot** |**Google Event Tag**|**New in this iteration?**| **Previous event tag (if applicable)** | **Notes** |
 |---|--------------------|-----------------------------------------------|------------|-------------------------|-----------|-------------------------|--------|
