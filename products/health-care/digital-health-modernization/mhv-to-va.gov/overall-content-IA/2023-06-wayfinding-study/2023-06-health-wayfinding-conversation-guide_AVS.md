@@ -76,7 +76,7 @@ Great, now I can see your screen! Thank you for your patience in figuring this o
 
 ## Wayfinding interview - 40-50 minutes
 
-_Task 1 - AVS task:_ _Participant should be starting from unauthenticated home page._ Let's imagine that you recently had to visit a specialist to talk about a chronic condition. You want to review what was decided for the next steps in your care. Using this prototype, where do you go for this information? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
+**_Task 1 - AVS task:_ _Participant should be starting from unauthenticated home page._** Let's imagine that you recently had to visit a specialist to talk about a chronic condition. You want to review what was decided for the next steps in your care. Using this prototype, where do you go for this information? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
@@ -87,7 +87,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 
 _Participant should be deep into either Appointments or Medical Records at this point looking at AVS._
 
-_Task 2 - Copay & Claims task:_ You have two things that you need to do today - see if you owe payments to the VA for past health appointments and check on the status of a disability claim. Using this website, how would you go about doing these things? 
+**_Task 2 - Copay & Claims task:_** You have two things that you need to do today - see if you owe payments to the VA for past health appointments and check on the status of a disability claim. Using this website, how would you go about doing these things? 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
@@ -100,7 +100,7 @@ _When partipcant goes to My VA:_
 - What is this page? 
 - What is the purpose of this page? 
 - how is this page different than the other page we were on with all the health resources? 
-- If you could esign the setup, where would you put your disability resources and your health resources? 
+- If you could design this website, where would you put your disability resources and your health resources? 
 
 _Once participant clicks on Copay link and is directed to Pay.gov, ask them to click "Continue" at least once to get them further into the form._
 - Where are you right now? 
@@ -111,14 +111,55 @@ _Once participant has completed task:_
 - **Need think about what these might be. How to get at mental models/ representations?**
 - **Mikki comment to work in: Once they do this task, would be helpful to have them click between the My VA and My HealtheVet pages and provide any deeper feedback on what they think is  or should be the difference - if any?**
 
-_Task 3a - Medical Records task:_ Imagine that you were recently put on blood thinner medication. Your doctor ordered blood tests two weeks after you started the medication to make sure that it is working. Where would you look for the results from those blood tests?
+**_Task 3a - Medical Records task:_** Imagine that you were recently put on blood thinner medication. Your doctor ordered blood tests two weeks after you started the medication to make sure that it is working. Where would you look for the results from those blood tests?
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
+- Why did you (_do that, go there, try that_)? 
 - (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
 - What do you think should happen if you (_do something_)? 
 
 **Add in specific questions after MR designs more figured out, if any.**
 
-_Task 3b - Transition from Medical Records to Secure Messaging; participant should be deep into MR nav at this point:_ Say you are going to see a specialist in a facility you've never visited before and you want to make sure that you know where you are going. How would you figure that out? 
+**_Task 3b - Transition from Medical Records to Secure Messaging; participant should be deep into MR nav at this point:_** Say you're confused by your result and want to ask your doctor about it. Using the resources offered on this website, how would you send them a message? Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
 
+_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
+- What are you thinking as you (_go somewhere, do something_)? 
+- Why did you (_do that, go there, try that_)? 
+- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
+- What do you think should happen if you (_do something_)? 
+
+**_Task 4 - Appointments task:_** Say you are going to see a specialist in a facility you've never visited before and you want to make sure that you know where you are going. How would you figure that out? 
+
+_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
+- What are you thinking as you (_go somewhere, do something_)? 
+- Why did you (_do that, go there, try that_)? 
+- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
+- What do you think should happen if you (_do something_)? 
+
+_Specific questions - **must ask**:_ 
+
+- (_If participant uses breadcrumbs_) Why did you click those links? 
+- **Filter/ preferences questions - check in with Peter/Kristen to confirm.**
+
+## Thank You and Closing - 1 minute
+
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
+
+If you know any other Veterans, caregivers, or service members who might be willing to participate in a future research session like this one, you can pass along the web link that you'll receive in your email from our team. 
+
+Thank you so much again, and I hope that you enjoy the rest of your day!
+
+*In the Transcript window, click **Save Transcript**, open in Finder and then save*
+
+*End meeting for all*
+
+## Language in event participant needs mental health resources
+
+I want to remind you that VA can help connect you to mental health services--even if you're not enrolled in VA health care. To access services right away, call or go to any VA medical center at any time 24/7 or any Vet Center during clinic hours. You can also call 877-222-8387, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. That's 877-222-8387.
+
+**If the participant looks like they need help right now...**
+
+Would you like to stop this session now?
+
+If you find that you're in crisis and need to talk to someone right away, you can reach out to the Veterans Crisis line via phone call, text, or chat anytime day or night. You can call 800-273-8255 or text 838255.
