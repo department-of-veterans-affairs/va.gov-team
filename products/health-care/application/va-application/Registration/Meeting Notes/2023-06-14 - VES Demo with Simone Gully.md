@@ -51,7 +51,7 @@
           - Private and Medicare
           - Interesting that this data point is under Demographics
 - Save input, then perform searches again with all data partners to see if the new record saved, and if any other records come up.
-- Enrollment
+- Go to Enrollment
      - Military tab
           - If data was found from VBA, will populate (including whether they are active duty)
           - Discharge due to disability and Military Disability retirement questions are either verified with VBA or DD214
