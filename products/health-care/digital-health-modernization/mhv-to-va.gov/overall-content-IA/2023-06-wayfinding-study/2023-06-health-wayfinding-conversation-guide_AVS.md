@@ -76,3 +76,14 @@ Great, now I can see your screen! Thank you for your patience in figuring this o
 
 ## Wayfinding interview - 40-50 minutes
 
+3. _Task 1 - AVS task:_ _Participant should be starting from unauthenticated home page._ Let's imagine that you recently had to visit a specialist to talk about a chronic condition. You want to review what was decided for the next steps in your care. Using this prototype, where do you go for this information? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
+
+_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
+- What are you thinking as you (_go somewhere, do something_)? 
+- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
+- What do you think should happen if you (_do something_)? 
+
+**Add in AVS questions when have them.**
+
+_Participant should be deep into either Appointments or Medical Records at this point looking at AVS._
+
