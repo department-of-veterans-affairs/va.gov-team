@@ -107,7 +107,7 @@ When we communicate about VA no longer offering an MHV account option, we need t
   - **Rec:** Avoid this term in migration content. 
  
  **Content strategy-related findings**
- - 
+ - To add
 
 [Read the full proactive CSP migration study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/2023-04%20Proactive%20CSP%20Migration%20research%20findings.md)
 
