@@ -1,4 +1,4 @@
-# Conversation Guide for "registration only" mental model hypothesis flow study [Health Enrollment Team, 10-10EZ, June 2023]
+# Conversation Guide for "registration only" mental model hypothesis flow study [Health Enrollment Team, 10-10EZ, June 2023][Cohort 1]
 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -45,26 +45,15 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Cohort 1) - 3 minutes
+## Warm-up Questions  - 3 minutes
 
 Let’s start with a few warm-up questions.
 
 - How long have you been receiving medical care from the VA or last visited a VA Facility for medical reasons? 
 
 
-## Warm-up Questions (Cohorts 2 & 3) - 3 minutes
 
-Let’s start with a few warm-up questions.
-
-- Are you currently enrolled and using health care benefits from the VA? 
-- How long have you been receiving medical care from the VA? 
-- How often do you visit a VA facility? (if answered yes)
-- Do you regularly visit VA.gov?
-- Do you receive other benefits from the VA in addition to your medical benefits?
-
-
-
-## First Topic: [Cohort 1 - Current Process] - 5 minutes
+## First Topic: [Current Process] - 5 minutes
 
 - What was your experience like getting setup for that appointment beforehand or did you just walk in?
 - Can you describe your experience with any forms or sign up information that you had to complete to apply to be seen for care? [Not saying your "registration experience, but would they have filled out an EZ?]
@@ -73,18 +62,6 @@ Let’s start with a few warm-up questions.
 - Did you have any communication from the VA or information if you were eligible for more health care benefits?
 
 
-
-## First Topic: [Cohorts 2 &3 - Current Process] - 10 minutes
-
-- Can you explain to me in your own words the process you took when you applied for benefits?
-- [If they don't specify] Did you complete this online, in-person or via paper application by yourself?
-- Anything that stood out to you?
-- Was there any part of that process that was frustrating or difficult for you?
-- What is your recollection about the amount of information you had to provide?
-- Was it clear to you as you were applying, what benefits you would qualify for? 
-- How would you describe the process after you applied?
-- Was it clear to you how your application answers impacted your benefits?
-- When it comes to registering and health care at the VA, what does that mean to you?
 
 
 ### Things to watch for:
@@ -125,8 +102,7 @@ Let’s start with a few warm-up questions.
 
 
 
-
-## Fourth Topic: [Scenario 1 - Cohort 1] - 10 minutes
+## Fourth Topic: [Scenario 1] - 10 minutes
 **Scenario setup**
 - For this first scenario, let's imagine you are want to apply and sign up for health care, but you don't know what you qualify for or know what benefits you would get. You do some online research and arrive at a page where you can apply for health care benefits, still being uncertain of your eligibility.
 - At the start of the application, you are presented with a choice where you can pick one of these options or both. The choices are 1. enrollment for full medical benefits or 2. registration for care or for the full medical benefits. 
@@ -137,7 +113,7 @@ Let’s start with a few warm-up questions.
 - What are your thoughts on how this is worded? Would you like to call the steps in this process something else?
 - How would you feel if you selected one of these benefits and found out after the application that you are not elligible and should have chosen the other benefit option?
 
-## Fifth Topic: [Scenario 2 - Cohort 1] - 10 minutes
+## Fifth Topic: [Scenario 2] - 10 minutes
 **Scenario setup**
 - For this second scenario, let's imagine again you are applying for health care online and you arrive at a page that explains the process and outlines the various health care benefit packages and levels clearly. 
 - You start the application by answering a few basic questions about who you are, where you live and how you can be contacted. You then complete some basic questions about any health care coverage you may already have as well as confirming your military service history. 
@@ -150,30 +126,6 @@ Let’s start with a few warm-up questions.
 - Would you find a lot of yes/no questions that could be related to your service connected disability or medical situation in the middle of the application intrusive?
 - Would you want to know on the spot during the application what level (Priority Group) you might be eligible for or are you fine with waiting to hear from the VA?
 - What information do you think you need to provide to get placed into the correct type and level of benefits?
-
-
-
-## Fourth Topic: [Scenario 1 - Cohort 2] - 10 minutes
-**Scenario setup**
-- For this scenario, let's imagine you are applying for health care online and you arrive at a page that explains the process as registering for care and then deciding to enroll to receive the full medical benefits package after an eligibility screening. During the initial application you are registering for care and you create a profile, enter some basic information about yourself and answer if you currently have any other health care coverage as well as your military service information.  
-- After you complete the questions to register for care, you are then given the option to wait to hear about your initial eligibility screening or you can enroll for the full medical benefits package right away and answer some additional questions. However, if you decide to complete enrollment at a later time, it is easy for you to sign back in and complete the enrollment questions. 
-
-**Questions**
-- What is your perception of this scenario and what issues, if any, do you see in this for yourself?
-- Would needing to return later and complete more questions be frustrating to you? 
-- Would you rather complete all tasks/information needed in one sitting even if you have to provide more information than you may need to?
-
-
-
-## Fifth Topic: [Scenario 2 - Cohort 2] - X minutes
-TBD - the preferred scenario from cohort 1
-
-## Fourth Topic: [Scenario 1 - Cohort 3] - X minutes
-TBD
-## Fifth Topic: [Scenario 2 - Cohort 3] - X minutes
-TBD
-
-
 
 
 ## Post-Task Interview - 5 minutes
