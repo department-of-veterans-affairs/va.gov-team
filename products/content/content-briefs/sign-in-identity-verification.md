@@ -89,7 +89,27 @@ When we communicate about VA no longer offering an MHV account option, we need t
 [Read the full deferred identity proofing usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2023-03-Deferred-Identity-Proofing-Round-1-Usability/research%20findings.md#recommendations)
 
 ### 2023 – 05: Proactive CSP (credential service provider) migration study ### 
-(Will add soon)
+- Used interviews to evaluate Veterans' understanding of several identity-related terms:
+  - Upgrade
+  - Multi factor authentication
+  - Verification
+  - VA online tools
+- Tested a modal prototype for proactive Login.gov account creation, framing the move to Login.gov as an upgrade recommendation with no clear deadline or necessity to switch
+
+**Terminology-related findings**
+- Most participants used **multi-factor authentication** and **verification** interchangeably and said there wasn't a clear difference in these terms. But most were familiar with MFA as a process.
+  - **Rec:** Explain verification in context by including what this step requires, like "verify your identity by uploading a photo ID" to help distinguish it from MFA.
+- Most participants didn't understand what the term **VA online tools** meant, in the context of "VA.gov and other VA online tools" on the modal. Most paused and wondered about this term, slowing their progress through the task.
+  - **Rec:** In CSP migration communications, avoid this catchall term as it could distract from the action. Instead, use language that more directly describes what Veterans will lose access to if they don't migrate, like "to manage your VA benefits and health care online."
+- Most participants unfamiliar with **Login.gov** thought it was a VA service or a place to go, as opposed to a way to sign in
+  - **Rec:** Better label Login.gov as a sign-in partner, so people understand it's not part of VA or a destination where you can access VA services
+- Most participants said **upgrade** meant they would get additional benefits. Several said this word was confusing on the modal, because it wasn't cleary an "upgrade" in that sense.
+  - **Rec:** Avoid this term in migration content. 
+ 
+ **Content strategy-related findings**
+ - 
+
+[Read the full proactive CSP migration study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/2023-04%20Proactive%20CSP%20Migration%20research%20findings.md)
 
 ## Content pages related to this topic
 
