@@ -29,6 +29,9 @@ June 14, 2023
 - Are you planning to show all notifications not only in the notification center, but also on the My VA page?
 - How did you decide on designs for notifications in My VA (using a card instead of a badge, for example?)
 
+## Questions for Flagship Mobile app team
+- 
+
 ## Links
 - [My VA's product outline for onsite notifications (includes screenshots of current designs)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications)
 - [All notifications supported by VA Notify (as of January 2023)](https://docs.google.com/spreadsheets/d/1E7JupFC2i6XUzlOxbWwTbIJZ6AxRUz-m/edit#gid=1231731113)
