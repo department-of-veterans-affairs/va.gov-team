@@ -149,6 +149,9 @@ Do you see the link?
 
 What are your impressions of what you're looking at? *(RECORD)*
 
+- *Any comments about the 2 phone numbers? If so, ask which they would use and why*
+- *Any comments about the 3 action links near top of page? What do they expect from them?*
+
 ### Task 3: [TBD task re service on the page]
 
 I want you to imagine that you live in Boston. Could you try to use this page to find out how to get help with [TBD]? 
@@ -176,8 +179,11 @@ Could you try to use this to find out how to get help with applying for life ins
   - *call what number?*
 
 ## Post-Task Interview - 10 minutes
+
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
+1. *(Did they interact with any of the 3 action links near top of page?)*
+     1. *(If "Ask a benefit question")* Ask what happens after they click on it.
 1. In your own words, what do you think you can do at from this VA office?
 1. What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
