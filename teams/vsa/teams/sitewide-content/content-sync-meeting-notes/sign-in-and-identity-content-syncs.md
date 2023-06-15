@@ -7,7 +7,7 @@ Attendees: Aliyah, Laura, Joe, Amber, and Carl
 **Notes**
 - Carl email content: test email for Veterans who have active modern and legacy credentials. Carl showed draft on call.
    - **Action item:** Carl to share Figma version with us later today
-   - **Action item:** Amber shared information about ID.me and approvals - we should confirm that the info we currently have on pages about this partner is okay to have up.
+   - **Action item:** Amber shared information about ID.me - we should evaluate content we have and confirm that the info we currently have on pages is "okay"
 - Continued review of Verifying your identity on VA.gov page
    - Joe previously confirmed that the Experian pin info is no longer accurate. We adjusted question answer to reflect that users would need to unfreeze their credit to use this form of verification. We'll also add a sentence about how to unfreeze credit.
  
