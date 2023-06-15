@@ -65,7 +65,7 @@ Let’s start with a few warm-up questions.
 - Was there any part of that process that was frustrating or difficult for you?
 - What is your recollection about the amount of information you had to provide?
 - Was it clear to you as you were applying, what benefits you would qualify for? 
-- How would you describe the process after you applied?
+- How would you describe the process that happened after you applied, such as the communications from the VA, things you had to do, etc.?
 - Was it clear to you how your application answers impacted your benefits?
 - When it comes to registering and health care at the VA, what does that mean to you?
 
@@ -81,7 +81,7 @@ Let’s start with a few warm-up questions.
 
 - How did you determine what health benefits you could get when you recently applied or were seen for care?
 - Did anyone help you figure out what you qualify for and what your benefits included?
-- Would you rather do the research yourself or be told what you qualify for?
+- What resources do you use to understand what you might qualify for?
 - Did you want to only get care for one specific health concern, or were you interested in getting full health care coverage?
 - Looking back now after you have been using health care benefits, is there anything you wish you would have known during the application?
 
@@ -109,7 +109,7 @@ Let’s start with a few warm-up questions.
 
 
 
-## Fourth Topic: [Scenario 1 - Cohort 1] - 10 minutes
+## Fourth Topic: [Scenario 1] - 10 minutes
 **Scenario setup**
 - For this first scenario, let's imagine you are want to apply and sign up for health care, but you don't know what you qualify for or know what benefits you would get. You do some online research and arrive at a page where you can apply for health care benefits, still being uncertain of your eligibility.
 - At the start of the application, you are presented with a choice where you can pick one of these options or both. The choices are 1. enrollment for full medical benefits or 2. registration for care or for the full medical benefits. 
@@ -120,23 +120,9 @@ Let’s start with a few warm-up questions.
 - What are your thoughts on how this is worded? Would you like to call the steps in this process something else?
 - How would you feel if you selected one of these benefits and found out after the application that you are not elligible and should have chosen the other benefit option?
 
-## Fifth Topic: [Scenario 2 - Cohort 1] - 10 minutes
-**Scenario setup**
-- For this second scenario, let's imagine again you are applying for health care online and you arrive at a page that explains the process and outlines the various health care benefit packages and levels clearly. 
-- You start the application by answering a few basic questions about who you are, where you live and how you can be contacted. You then complete some basic questions about any health care coverage you may already have as well as confirming your military service history. 
-- Next you are preseneted with a series of yes/no questions that walk you through an eligibility screening basically. Once this is completed, you are told what benefit package you could possibly qualify for or it is determined you need to continue on with more questions and provide additional info such as your income and how many dependents you have. But if you are told you qualify based on the initial screening, you don't have to answer these other questions.
-- Once you are done, you are told a benefit type and level (or range) that you might qualify for. 
-
-**Questions**
-- What are your initial reactions or thoughts on this process?
-- Does anything stand out to you as helpful or annoying?
-- Would you find a lot of yes/no questions that could be related to your service connected disability or medical situation in the middle of the application intrusive?
-- Would you want to know on the spot during the application what level (Priority Group) you might be eligible for or are you fine with waiting to hear from the VA?
-- What information do you think you need to provide to get placed into the correct type and level of benefits?
 
 
-
-## Fourth Topic: [Scenario 1 - Cohort 2] - 10 minutes
+## Fourth Topic: [Scenario 2] - 10 minutes
 **Scenario setup**
 - For this scenario, let's imagine you are applying for health care online and you arrive at a page that explains the process as registering for care and then deciding to enroll to receive the full medical benefits package after an eligibility screening. During the initial application you are registering for care and you create a profile, enter some basic information about yourself and answer if you currently have any other health care coverage as well as your military service information.  
 - After you complete the questions to register for care, you are then given the option to wait to hear about your initial eligibility screening or you can enroll for the full medical benefits package right away and answer some additional questions. However, if you decide to complete enrollment at a later time, it is easy for you to sign back in and complete the enrollment questions. 
@@ -148,15 +134,11 @@ Let’s start with a few warm-up questions.
 
 
 
-## Fifth Topic: [Scenario 2 - Cohort 2] - X minutes
-TBD - the preferred scenario from cohort 1
 
 ## Fourth Topic: [Scenario 1 - Cohort 3] - X minutes
 TBD
 ## Fifth Topic: [Scenario 2 - Cohort 3] - X minutes
 TBD
-
-
 
 
 ## Post-Task Interview - 5 minutes
