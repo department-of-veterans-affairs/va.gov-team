@@ -85,7 +85,7 @@ I'd like to start by learning more about your experience reviewing information a
     
 
 ## Task 2: Your Appointment on June 6th, 2023 - 7 minutes  
-Now, I would like you to focus on the “Your appointment on June 6th, 202 section**. Please review the section and please talk aloud as you are reviewing. And then, I’ll ask you a few questions as you move through.
+Now, I would like you to focus on the “Your appointment on June 6th, 2023 section**. Please review the section and please talk aloud as you are reviewing. And then, I’ll ask you a few questions as you move through.
 1.	Can you provide an example of how you might utilize the information within this section?
 2.	Are there any terms that seem unfamiliar or confusing to you?
     -	[**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following:] Using your own words, how would you define those terms?
