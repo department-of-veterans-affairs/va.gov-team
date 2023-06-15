@@ -106,9 +106,10 @@ Let’s start with a few questions...
 *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / _________________)*
 
 1. Are you familiar with VA regional benefit offices? 
-1. If so, what do you know about them? 
-1. Have you been to one before? 
-1. If so, can you describe your last visit to a regional benefit office? 
+     1. If so, what do you know about them? 
+     1. What tasks would you expect to do at a VA benefit office?
+1. Have you been to a VA benefit office before? 
+1. If so, can you describe your last visit to a VA benefit office? 
      1. When was it?
      1. What did you do there?
      1. What do you wish you had known *before going*?
