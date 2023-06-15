@@ -47,7 +47,7 @@ Before we look at the website, let’s start with a few general questions.
 
 - Have you used VA.gov before?
 - If yes, could you briefly describe the last time you used it? Do you tend to go there for a specific use?
-- If no, how do you generally interact with the VA, if at all?
+- How else do you generally interact with the VA, if at all?
 - Have you ever filed an application for disability compensation (Form 526-EZ) with the VA?
 - If yes, how many times? Have you ever done it on VA.gov?
 
