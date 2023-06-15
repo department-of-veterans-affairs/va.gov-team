@@ -30,6 +30,7 @@ June 14, 2023
 - How did you decide on designs for notifications in My VA (using a card instead of a badge, for example?)
 
 ## Questions for Flagship Mobile app team
+- Besides **Push notifications**, **badge** on the Health landing page (next to Messages): Are there any other notifications for a secure message?
 - 
 
 ## Links
