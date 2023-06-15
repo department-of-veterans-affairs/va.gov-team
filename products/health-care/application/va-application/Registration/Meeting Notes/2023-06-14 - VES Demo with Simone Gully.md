@@ -77,8 +77,8 @@
           - Have to add SC disabilities for calculations for Community care and Copays
           - Can enter other non-veteran indicators (if Veteran and employee for example)
 
-For the schedule an appointment question; Say yes, populates date and added to the near list to be contacted to schedule first appt
-From a Veterans POV, what is the expectations of process and turn-around time when they need to schedule an appointment?
-Would registration only paths potentially have a higher demand/need to be seen sooner for care?
-Is this a question that is asked on the registration path within the staff ES system?
-Would a person who is in the 'registration only' such as ER or other urgent medical situation, find an online path to register for care at a VA Facility something they would even think of doing beforehand?
+- For the schedule an appointment question; Say yes, populates date and added to the near list to be contacted to schedule first appt
+     - From a Veterans POV, what is the expectations of process and turn-around time when they need to schedule an appointment?
+     - Would registration only paths potentially have a higher demand/need to be seen sooner for care?
+     - Is this a question that is asked on the registration path within the staff ES system?
+     - Would a person who is in the 'registration only' such as ER or other urgent medical situation, find an online path to register for care at a VA Facility something they would even think of doing beforehand?
