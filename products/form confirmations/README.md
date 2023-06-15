@@ -12,11 +12,11 @@
 ## Launched Form Notifications 
 |Form Number  |Form Title |Launch Date |
 | ------------- | ------------- | ------------- | 
-| 22-1990  | Application for VA Education Benefits through GovCIO Path | Launched to 100% in June 2023  |
+| 22-1990  | Application for VA Education Benefits through GovCIO Path for Authenticated Users | Launched to 100% in June 2023  |
 | 22-1995  | Application for Changing Education Benefits | Launched to 100% in June 2023  |
 | 26-1880  | Application for a VA Home Loan Certificate of Eligibility (COE) - In Progress Reminder | Launched to 100% in May 2023  |
 | 22-1990E  | Application for Family Member to Use Transferred Benefits  | Launched to 100% in April 2023  |
-| 22-1990  | Application for VA Education Benefits  | Launched to 100% in March 2023  |
+| 22-1990  | Application for VA Education Benefits through GovCIO Path for Unauthenticated Users  | Launched to 100% in March 2023  |
 | 22-5490  | Dependents' Application for VA Education Benefits  | Launched to 100% in February 2023  | 
 | 21P-527EZ  | Application for Veterans Pension  | Launched to 100% in January 2023  |
 | 40-10007  | Application for Pre-Need Determination of Eligibility for Burial in a VA National Cemetery  | Launched to 100% in December 2022 |
