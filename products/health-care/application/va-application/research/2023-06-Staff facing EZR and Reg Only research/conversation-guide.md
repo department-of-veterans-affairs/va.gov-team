@@ -24,31 +24,35 @@
 ## EZR - 25  minutes
 
 ### Overall - 7 minutes
-What type of information do Veterans consider most important to update and why? Do they ask?
-What are some major pain points for Veterans as they go through the process?
-What does the staff see, what kind of change can help Veterans?
-Are Priority Groups based on income/net worth?
-What are the existing directives relating to this process?
+
+- What type of information do Veterans consider most important to update and why? Do they ask?
+- What are some major pain points for Veterans as they go through the process?
+- What does the staff see, what kind of change can help Veterans?
+- Are Priority Groups based on income/net worth?
+- What are the existing directives relating to this process?
 
 ### Use cases - 5 minutes
-What are some uncommon/ challenging cases of Veterans wanting to update their info? What is the most challenging for the staff to update?
-When Veterans calls to update dependent only, is there a script that points the Veterans elsewhere?
+
+- What are some uncommon/ challenging cases of Veterans wanting to update their info? What is the most challenging for the staff to update?
+- When Veterans calls to update dependent only, is there a script that points the Veterans elsewhere?
 
 ### Processes - 8 minutes
-Flags: Staff receives trigger notifications to ask Veterans. Do Veterans receive certain notifications to update their information? (Insurance/ financial disclosure)
-Flags: When staff receive the tiggers, do they do anything beyond the typical flow such as phone call? How do the Veterans know to update?
-What happens after the Veterans update? Is there a phone call/email/letters?
-If the Veterans only want to update one section (Address), how do the staff proceed?
-What happens when the Veterans give an incomplete EZR?
-When updating, why does the staff only use one system vs another (VistA/ES)? Is this part of the training?
-Who has access to change certain sections? MSA? Financial vs next of kin?
+
+- Flags: Staff receives trigger notifications to ask Veterans. Do Veterans receive certain notifications to update their information? (Insurance/ financial disclosure)
+- Flags: When staff receive the tiggers, do they do anything beyond the typical flow such as phone call? How do the Veterans know to update?
+- What happens after the Veterans update? Is there a phone call/email/letters?
+- If the Veterans only want to update one section (Address), how do the staff proceed?
+- What happens when the Veterans give an incomplete EZR?
+- When updating, why does the staff only use one system vs another (VistA/ES)? Is this part of the training?
+- Who has access to change certain sections? MSA? Financial vs next of kin?
 
 ### Updates/frequency - 5 minutes
-Are there certain demographic/ Priority Groups that update their information more than others? 
-Do certain Priority Groups have to complete an EZR every year?
-What methods or channels do veterans prefer for updating their information?
-How do veterans perceive the security and privacy aspect of updating their information?
-What types of assistance or support do Veterans require when updating their information?
+
+- Are there certain demographic/ Priority Groups that update their information more than others? 
+- Do certain Priority Groups have to complete an EZR every year?
+- What methods or channels do veterans prefer for updating their information?
+- How do veterans perceive the security and privacy aspect of updating their information?
+- What types of assistance or support do Veterans require when updating their information?
 
 
 #### Things to watch for:
