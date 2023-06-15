@@ -76,7 +76,7 @@ Great, now I can see your screen! Thank you for your patience in figuring this o
 
 ## Wayfinding interview - 40-50 minutes
 
-3. _Task 1 - AVS task:_ _Participant should be starting from unauthenticated home page._ Let's imagine that you recently had to visit a specialist to talk about a chronic condition. You want to review what was decided for the next steps in your care. Using this prototype, where do you go for this information? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
+_Task 1 - AVS task:_ _Participant should be starting from unauthenticated home page._ Let's imagine that you recently had to visit a specialist to talk about a chronic condition. You want to review what was decided for the next steps in your care. Using this prototype, where do you go for this information? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
@@ -86,4 +86,39 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 **Add in AVS questions when have them.**
 
 _Participant should be deep into either Appointments or Medical Records at this point looking at AVS._
+
+_Task 2 - Copay & Claims task:_ You have two things that you need to do today - see if you owe payments to the VA for past health appointments and check on the status of a disability claim. Using this website, how would you go about doing these things? 
+
+_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
+- What are you thinking as you (_go somewhere, do something_)? 
+- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
+- What do you think should happen if you (_do something_)? 
+
+_Specific questions - **must ask**:_ 
+
+_When partipcant goes to My VA:_
+- What is this page? 
+- What is the purpose of this page? 
+- how is this page different than the other page we were on with all the health resources? 
+- If you could esign the setup, where would you put your disability resources and your health resources? 
+
+_Once participant clicks on Copay link and is directed to Pay.gov, ask them to click "Continue" at least once to get them further into the form._
+- Where are you right now? 
+- Are you on a different website than before? How do you feel about that? 
+- Thank you, you don't need to go any further than this. How would you get back to the original website we were on? 
+
+_Once participant has completed task:_
+- **Need think about what these might be. How to get at mental models/ representations?**
+- **Mikki comment to work in: Once they do this task, would be helpful to have them click between the My VA and My HealtheVet pages and provide any deeper feedback on what they think is  or should be the difference - if any?**
+
+_Task 3a - Medical Records task:_ Imagine that you were recently put on blood thinner medication. Your doctor ordered blood tests two weeks after you started the medication to make sure that it is working. Where would you look for the results from those blood tests?
+
+_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
+- What are you thinking as you (_go somewhere, do something_)? 
+- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
+- What do you think should happen if you (_do something_)? 
+
+**Add in specific questions after MR designs more figured out, if any.**
+
+_Task 3b - Transition from Medical Records to Secure Messaging; participant should be deep into MR nav at this point:_ Say you are going to see a specialist in a facility you've never visited before and you want to make sure that you know where you are going. How would you figure that out? 
 
