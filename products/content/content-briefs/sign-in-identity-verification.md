@@ -64,9 +64,6 @@ We want to begin encouraging Veterans to create Login.gov or ID.me accounts, wit
  > 
  > At this time, you can also use your DS Logon, My HealtheVet, or ID.me account to sign in to VA.gov. But VA will soon no longer offer DS Logon as a sign-in option. And soon all VA websites will follow a new sign-in process through VA.gov with Login.gov as the recommended account.
 
-### Making clear that My HealtheVet is not going away—only the My HealtheVet account is ###
-When we communicate about VA no longer offering an MHV account option, we need to be careful not to imply that My HealtheVet is going away. The MHV on VA.gov communication strategy stresses that My HealtheVet is **not** going away. It's getting a new home on VA.gov.
-
 ## Organic SEO and VA.gov search
 ### Terms related to "verifying" have larger volume than "proofing" ###
 **Top 10 on-site search terms related to verifying – 5/24/22 to 5/24/23**
