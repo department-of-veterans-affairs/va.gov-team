@@ -100,14 +100,15 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
 - At least 2 people 35 or under
 - At least 3 people of color
 - At least 2 women
+- At least 3 people who live in states that are in the Continental District (MT, WY, CO, ND, SD, NE, KS, OK, TX, MN, or IA)
 - At least 2 people who don't have any degree or vocational training after high school 
 - At least 2 people who live in a rural or remote area
 - At least 2 people who are LGBTQ+
 
 ### Screening Questions
 1. Have you ever visited a VA benefit office? 
-     1. No, never *(RECRUIT 3)*
-     1. Yes, in the past 6 months *(RECRUIT 4)*
+     1. No, never *(RECRUIT 4)*
+     1. Yes, in the past 6 months *(RECRUIT 3)*
      2. Yes, longer ago than the last 6 months *(RECRUIT 4)*
 
 
