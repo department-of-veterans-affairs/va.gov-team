@@ -2,7 +2,7 @@
 Last updated: June 16, 2023
 
 ## UX Specs
-### Mockups
+### Sketch mockups
 
 - [Desktop](https://www.sketch.com/s/1cc4cb25-7de4-492c-bb91-edef871b2a89/a/uuid/3F1E43D1-70E0-4F05-8E59-F0B1D00DF6C0)
 - [Mobile](https://www.sketch.com/s/1cc4cb25-7de4-492c-bb91-edef871b2a89/a/uuid/003BB5C5-955E-4D5E-90C5-A1A12145ADE0)
@@ -27,10 +27,12 @@ Last updated: June 16, 2023
 
 ### If a user does not have any notifications to show
 
+**Sketch Mockups**
+
 - [Desktop](https://www.sketch.com/s/1cc4cb25-7de4-492c-bb91-edef871b2a89/a/uuid/4E4E2402-E573-4C6D-B2D7-EF0F5E8EAF1E)
 - [Mobile](https://www.sketch.com/s/1cc4cb25-7de4-492c-bb91-edef871b2a89/a/uuid/FBCFB876-CF62-483E-B963-F0D22A17B718)
 
-#### **Content**
+**Content**
 
 You have no notifications to show.
 
