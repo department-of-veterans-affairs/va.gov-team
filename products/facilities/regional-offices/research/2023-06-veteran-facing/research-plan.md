@@ -88,11 +88,13 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](). 
 
 ### Required criteria 
-- **TBD**
+
 - ALL have a smartphone to use it for the session and...
   - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen
   - Be willing to share over Zoom a web browser window on their smartphone
   - Have a working microphone on their smartphone
+- 5 have **not used any VA benefits before**, and 5 have
+- 3 have **never visited a VA benefit office**, 4 have **visited in the past 6 months**, and 4 have **visited but only longer ago than the past 6 months**
 - At least 4 people with a cognitive disability (e.g., TBI)
 - At least 4 people who are age 55 or older
 - At least 2 people 35 or under
@@ -103,22 +105,15 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
 - At least 2 people who are LGBTQ+
 
 ### Screening Questions
-***If we want to talk w/people for whom applying for disability would potentially be relevant:***
-1. Do you (or the Veteran that you're a family member of or caregiver for) get VA disability compensation? 
-     1. No  *(ask next screening question)*
-     1. Yes *(disqualify)*
-     1. I don't know *(disqualify)*
-
-***If we want to talk w/people for whom another task would potentially be relevant, add more screening questions here***
-
-1. Have you used any VA benefits before? For example, VA health care, education/GI Bill, career services, disability compensation, pension, home loan, life insurance, burial benefits or memorial items.
-     1. No  *(RECRUIT 5)*
-     1. Yes *(RECRUIT 5)*
-
 1. Have you ever visited a VA benefit office? 
      1. No, never *(RECRUIT 3)*
      1. Yes, in the past 6 months *(RECRUIT 4)*
      2. Yes, longer ago than the last 6 months *(RECRUIT 4)*
+
+
+1. Have you used any VA benefits before? For example, VA health care, education/GI Bill, career services, disability compensation, pension, home loan, life insurance, burial benefits or memorial items.
+     1. No  *(RECRUIT 5)*
+     1. Yes *(RECRUIT 5)*
 
 1. What time zone are you located in? *(RECORD)*
 
