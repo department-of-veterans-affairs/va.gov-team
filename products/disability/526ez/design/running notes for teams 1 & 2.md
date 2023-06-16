@@ -7,6 +7,9 @@ Agenda
 - Sitemap screenshots (How to)
 - Are there additional paths to be added or explored (Reserve and PTSD added)
 
+- Meeting was recorded. The recording will be posted in Slack. A channel was not decided.  
+- Discussed sitemap changes with the group. Nichole will continue to make changes to the sitemap as they are released.
+- Next meeting: Chat about yellow sticky notes and get clarification on missing ideas/sections. 
 ## 6/8/23
 Attendees: Lydia, Nyantee, Nichole, Julie
 
