@@ -13,7 +13,9 @@ See also:
 - [Page templates](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?node-id=0-2&t=vycMTsKnfBPu5MKo-4)
 -->
 
-## Appointment lists
+## Manage appointments
+
+### Appointment summary views
 
 | Feature | Usage | 
 |---|---|
@@ -21,8 +23,8 @@ See also:
 | [Past appointments](appointment-lists/past-list.md) | View all appointments from the last two years |  
 | [Pending appointments](appointment-lists/upcoming-list.md) | View all pending and canceled requests | 
 
-### Appointment types
-Booked appointments through VA or CC facilities
+### Appointment details views
+Booked appointments through VA or CC facilities.
 
 | Feature | Description | Supported |
 |---|---|---|
@@ -36,7 +38,7 @@ Booked appointments through VA or CC facilities
 | Community Care |  Scheduled appointment that a Veteran joins at a community care provider | Yes | 
 | Compensation and Pension appointment | Scheduled appointment for a Compensation and Pension exam | No |
 
-### Request types
+### Request details views
 Appointments that Veterans have requested but VA has not booked.
 
 | Feature | Description | Supported |
@@ -44,7 +46,7 @@ Appointments that Veterans have requested but VA has not booked.
 | VA Appointment Request  | Request for a VA appointment | |
 | Community Care Appointment request | Request for a community care appointment | |
 
-### Manage appointments and requests
+### Appointment management tools
 Tools Veterans can use to manage their appointments and requests.
 
 | Feature | Description | 
@@ -53,8 +55,8 @@ Tools Veterans can use to manage their appointments and requests.
 | Add to calendar | | 
 | Print | | 
 
-## Schedule and request appointments
-How Veterans can schedule or request appointments through VAOS
+## Schedule appointments
+Tools for Veterans to schedule or request appointments.
 
 | Feature | Description |
 |---|---|
