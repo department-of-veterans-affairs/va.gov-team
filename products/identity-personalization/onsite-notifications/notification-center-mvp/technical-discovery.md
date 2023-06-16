@@ -52,18 +52,42 @@ One potential issue on this page is the presence of redundant headers and links 
 - [ ] **(2)** Make sure Notification component is pulling in correct data from API call
 - [ ] **(2)** Make sure actions handle 4xx and 5xx errors
 
+**Ticket Summary**
+|**Task**| **Points**|**Ticket**|
+|----|-----|-----|
+| Make sure Notification component is pulling in correct data from API call | 2 | [#60438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60438)|
+| Make sure actions handle 4xx and 5xx errors                               | 2 | [#60439](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60439)|
+
 #### Build
 - [ ] **(3)** Populate with notification component (no pagination) 
 - [ ] **(2)** Make any style tweaks
 - [ ] **(3)** Set up breadcrumbs
 - [ ] **(4)** Set up pagination
 - [ ] **(TBD)** Set up empty state for notifications section on My VA
-- [ ] Set up event tags for GA analytics
+- [ ] **(TBD)** Set up event tags for GA analytics
+
+**Ticket Summary**
+|**Task**| **Points**|**Ticket**|
+|----|-----|-----|
+| Populate with notification component (no pagination)  | 5  | [#60440](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60440)|
+| Make any style tweaks (to component implementation)   | 3  | _combined with [#60440](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60440) to be a 5 pt ticket_ |
+| Set up breadcrumbs                                    | 3  | [#60441](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60441)|
+| Set up pagination                                     | 4  | [#60442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60442)|
+| Set up empty state for notifications section on My VA | TK | [#60443](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60443)|
+| Set up event tags for GA analytics                    | TK | [#60447](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60447)|
+
 
 #### Maintenance
 - [ ] **(4)** Write unit tests
 - [ ] **(3)** Work with Angela to gather use/test cases
 - [ ] **(3)** Write e2e tests
+
+**Ticket Summary**
+|**Task**| **Points**|**Ticket**|
+|----|-----|-----|
+| Write unit tests                          | 4 |[#60444](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60444)|
+| Work with Angela to gather use/test cases | 3 |[#60446](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60446)|
+| Write e2e tests                           | 3 |[#60445](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60445)|
 
 #### Nice-to-dos (backlog)
 - [ ] explore making a common/shared API call for notifications (between `/notification-center/` and `/dashboard/notifications/`)
