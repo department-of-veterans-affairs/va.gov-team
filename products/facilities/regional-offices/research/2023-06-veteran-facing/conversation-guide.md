@@ -157,7 +157,7 @@ What are your impressions of what you're looking at? *(RECORD)*
 
 Let's pretend that you live in Boston. 
 
-Let's say that you’re exploring how to pay for college, and you want to see if the Boston Regional Office can help. Using this page, how could you do that?
+Imagine that you’re exploring how to pay for college, and you want to see if the Boston Regional Office can help. Using this page, how could you do that?
 
 *(Alternative version for Veteran caregiver or family member:)*
 Imagine that you're wondering how to use your leftover GI Bill benefits to pay for your kid to go to college. Using this page, do you think the Boston Regional Office could help? 
@@ -167,6 +167,8 @@ Imagine that you're wondering how to use your leftover GI Bill benefits to pay f
 ### Task 4: [Disability--accordion opens]
 
 You’re not currently receiving disability compensation from the VA, and you’d like some help applying for it. Using this page, how could you get help?
+
+- *(Disability compensation)*
 
 
 - *[if need prompting...]* 
@@ -185,6 +187,7 @@ You’re not currently receiving disability compensation from the VA, and you’
 
 You’re interested in buying a house, and your lender asks for proof that you qualify for a VA home loan. From this page, where would you go for that?
 
+- *(VA home loans > Get help filling out VA loan paperwork)*
 
 - *[if need prompting...]* 
   - To make this happen, what would you do next? 
@@ -204,9 +207,9 @@ Say you’ve decided to go the Boston Regional Office in person to get proof tha
 
 If you don't have a DD214, how could you get it? 
 
+- *(Helpful documents > give permission / _____________)*
 
 - *[if need prompting...]* 
-  - To make this happen, what would you do next? 
   - How could you talk to someone? *[in-person / virtual / phone]*
   - Do you need an appointment? *[no but it’s preferred]* 
   - When will you go? *[check office hours for this task specifically]*
@@ -215,15 +218,14 @@ If you don't have a DD214, how could you get it?
       - *multiple hour blocks per day*
       - *notes about Thursday closures*
 
-  - When you go, what might you want to have with you? *[photo ID, DD214]* 
   
 ### Task 7: [Home loan > check status--accordion opens]
 
 Now some time has passed since your visit to the regional office, and you’re still waiting to get proof that you qualify for a VA home loan. How would you find out what’s happening? 
 
+- *(VA home loans > Check the status of your COE)*
 
 - *[if need prompting...]* 
-  - To make this happen, what would you do next? 
   - How could you talk to someone? *[phone]*
   - Do you need an appointment? *[no but it’s preferred]* 
   - When will you do that? *[check office hours for this task specifically]*
@@ -249,8 +251,9 @@ Say you're planning for the future and want to see if you can be buried in a VA 
 
 
 *(Alternative version for Veteran caregiver or family member:)*
- If you wanted to honor a Veteran with a medallion on their headstone, Could the Boston Regional Office help? 
+ If you wanted to honor a Veteran with a medallion on their headstone, could the Boston Regional Office help? 
 
+- *(Burial in a VA cemetery / Burial and memorials / __________)*
 
 - *[if need prompting...]* 
   - To make this happen, what would you do next? 
@@ -268,6 +271,7 @@ Say you're planning for the future and want to see if you can be buried in a VA 
 
 Imagine you’re now receiving disability compensation, and you want to switch the bank account that your payments go to. Could the Boston Regional Office help you update this information? 
 
+- *(Veteran benefits > Disability compensation > Update direct deposit)*
 
 - *[if need prompting...]* 
   - To make this happen, what would you do next? 
