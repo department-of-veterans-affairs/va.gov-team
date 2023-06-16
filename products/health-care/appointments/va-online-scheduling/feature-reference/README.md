@@ -19,17 +19,17 @@ See also:
 
 | Feature | Usage | 
 |---|---|
-| [Upcoming appointments](appointment-lists/upcoming-list.md) | View all future and in progress appointments |
-| [Past appointments](appointment-lists/past-list.md) | View all appointments from the last two years |  
-| [Pending appointments](appointment-lists/upcoming-list.md) | View all pending and canceled requests | 
+| [Upcoming appointments](./appointment-lists/upcoming-list.md) | View all future and in progress appointments |
+| [Past appointments](./appointment-lists/past-list.md) | View all appointments from the last two years |  
+| [Pending appointments](./appointment-lists/upcoming-list.md) | View all pending and canceled requests | 
 
 ### Appointment details views
 Booked appointments through VA or CC facilities.
 
 | Feature | Description | Supported |
 |---|---|---|
-| [VA In-person](appointment-types/va-booked-in-person.md)  | Scheduled, in person appointments at a VA facility | Yes |
-| VA In-person Vaccine | Scheduled, in person appointments at a VA facility for a COVID-19 vaccine | Yes |
+| [VA In-person](./appointment-types/va-in-person.md)  | Scheduled, in person appointments at a VA facility | Yes |
+| [VA In-person Vaccine](./appointment-types/va-in-person-vaccine.md) | Scheduled, in person appointments at a VA facility for a COVID-19 vaccine | Yes |
 | VA Video Care at Home | Scheduled telehealth appointments over VA Video Care | Yes |
 | VA Video Care at a VA location |  Scheduled telehealth appointments over VA Video Care that a Veteran joins at a VA facility | Yes | 
 | VA Video Care on GFE |  Scheduled telehealth appointments over VA Video Care that a Veteran joins over a GFE provided by a VA facility | Yes |

@@ -1,12 +1,12 @@
-# Upcoming appointments
+# VA in-person appointment
 
 ## Overview
 
-Information about a scheduled in-person appointment at a VA facility.
+A scheduled in-person appointment at a VA facility.
 
 ## User stories
 
-As a Veteran, I want to find and manage my scheduled appointments.
+- As a Veteran, I want to manage my scheduled VA appointments.
 
 ## Requirements
 
