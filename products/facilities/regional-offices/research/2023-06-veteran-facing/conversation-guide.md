@@ -128,7 +128,7 @@ I would like you to share your screen with me so that I can see what you do duri
 If you wanted to visit a VA benefit office near you, what would you do?
 - * wayfinding via google? VA.gov > facility locator?
 
-Can you show me how you would find out whether it could help you with XXX (TBD--e.g., applying for disability compensation)?
+Can you show me how you would find out whether a VA benefit office could help you explore how to pay for college?
 
 I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
 
@@ -151,32 +151,135 @@ What are your impressions of what you're looking at? *(RECORD)*
 
 - *Any comments about the 2 phone numbers? If so, ask which they would use and why*
 - *Any comments about the 3 action links near top of page? What do they expect from them?*
+  - *(If "Ask a benefit question")* Ask what happens after they click on it.
 
-### Task 3: [TBD task re service on the page]
+### Task 3: [Education--accordion doesn't open]
 
-I want you to imagine that you live in Boston. Could you try to use this page to find out how to get help with [TBD]? 
+Let's pretend that you live in Boston. 
 
-To make this happen, what would you do next? 
-- What would you need to know or do before getting help?
-- *ck hours / mk appt / how to get there / what to bring*
+Let's say that you’re exploring how to pay for college, and you want to see if the Boston Regional Office can help. Using this page, how could you do that?
 
-How would you locate the benefit office in the building?
+*(Alternative version for Veteran caregiver or family member:)*
+Imagine that you're wondering how to use your leftover GI Bill benefits to pay for your kid to go to college. Using this page, do you think the Boston Regional Office could help? 
 
-### Task 4: [TBD task re service on the page]
+- *(Educ benefits for Veterans / Educ benefits for family members / __________)*
 
-Could you try to use this to find out how VA might help you get a job [TBD]? 
+### Task 4: [Disability--accordion opens]
 
-To make this happen, what would you do next? 
-- What would you need to know or do before getting help?
-- *ck hours / mk appt / how to get there / what to bring*
+You’re not currently receiving disability compensation from the VA, and you’d like some help applying for it. Using this page, how could you get help?
 
-### Task 5: [TBD task re service NOT on the page]
 
-Could you try to use this to find out how to get help with applying for life insurance [TBD--whether the VA will pay for more school for you]? 
+- *[if need prompting...]* 
+  - To make this happen, what would you do next? 
+  - How could you talk to someone? *[in-person / virtual / phone]*
+  - Do you need an appointment? *[no but it’s preferred]* 
+  - When will you go? *[check office hours for this task specifically]*
+    - *Record any comments about*
+      - *multiple sets of office hours*
+      - *multiple hour blocks per day*
+      - *notes about Thursday closures*
 
-- *What do they do?* 
-  - *Facility Locator?*
-  - *call what number?*
+  - When you go, what might you want to have with you? *[photo ID, DD214]* 
+  
+### Task 5: [Home loan > apply--accordion opens]
+
+You’re interested in buying a house, and your lender asks for proof that you qualify for a VA home loan. From this page, where would you go for that?
+
+
+- *[if need prompting...]* 
+  - To make this happen, what would you do next? 
+  - How could you talk to someone? *[in-person / virtual / phone]*
+  - Do you need an appointment? *[no but it’s preferred]* 
+  - When will you go? *[check office hours for this task specifically]*
+    - *Record any comments about*
+      - *multiple sets of office hours*
+      - *multiple hour blocks per day*
+      - *notes about Thursday closures*
+
+  - When you go, what might you want to have with you? *[photo ID, DD214]* 
+  
+### Task 6: [Need DD214 for home loan]
+
+Say you’ve decided to go the Boston Regional Office in person to get proof that you qualify for a VA home loan. What do you need to have with you? [DD214]  
+
+If you don't have a DD214, how could you get it? 
+
+
+- *[if need prompting...]* 
+  - To make this happen, what would you do next? 
+  - How could you talk to someone? *[in-person / virtual / phone]*
+  - Do you need an appointment? *[no but it’s preferred]* 
+  - When will you go? *[check office hours for this task specifically]*
+    - *Record any comments about*
+      - *multiple sets of office hours*
+      - *multiple hour blocks per day*
+      - *notes about Thursday closures*
+
+  - When you go, what might you want to have with you? *[photo ID, DD214]* 
+  
+### Task 7: [Home loan > check status--accordion opens]
+
+Now some time has passed since your visit to the regional office, and you’re still waiting to get proof that you qualify for a VA home loan. How would you find out what’s happening? 
+
+
+- *[if need prompting...]* 
+  - To make this happen, what would you do next? 
+  - How could you talk to someone? *[phone]*
+  - Do you need an appointment? *[no but it’s preferred]* 
+  - When will you do that? *[check office hours for this task specifically]*
+    - *Record any comments about*
+      - *multiple sets of office hours*
+      - *multiple hour blocks per day*
+      - *notes about Thursday closures*
+
+  - When you go, what might you want to have with you? *[photo ID, DD214]* 
+  
+### Task 8: [VA life insurance--no accordion on page]
+
+If you wanted help applying for life insurance through the VA, where would you go for that?  
+
+
+*[Follow-up when they can’t find it:]* Since you didn't find that information on this page, where would you go to find it? 
+
+  - *RECORD what they do: Facility Locator / call--what number? ______________*
+  
+### Task 9: [Burial/memorial--accordion opens]
+
+Say you're planning for the future and want to see if you can be buried in a VA cemetery. Could the Boston Regional Office help? 
+
+
+*(Alternative version for Veteran caregiver or family member:)*
+ If you wanted to honor a Veteran with a medallion on their headstone, Could the Boston Regional Office help? 
+
+
+- *[if need prompting...]* 
+  - To make this happen, what would you do next? 
+  - How could you talk to someone? *[in-person / virtual / phone]*
+  - Do you need an appointment? *[no but it’s preferred]* 
+  - When will you go? *[check office hours for this task specifically]*
+    - *Record any comments about*
+      - *multiple sets of office hours*
+      - *multiple hour blocks per day*
+      - *notes about Thursday closures*
+
+  - When you go, what might you want to have with you? *[photo ID, DD214]* 
+  
+### Task 10: [Disability > direct deposit--accordion opens]
+
+Imagine you’re now receiving disability compensation, and you want to switch the bank account that your payments go to. Could the Boston Regional Office help you update this information? 
+
+
+- *[if need prompting...]* 
+  - To make this happen, what would you do next? 
+  - How could you talk to someone? *[in-person / virtual / phone]*
+  - Do you need an appointment? *[no but it’s preferred]* 
+  - When will you go? *[check office hours for this task specifically]*
+    - *Record any comments about*
+      - *multiple sets of office hours*
+      - *multiple hour blocks per day*
+      - *notes about Thursday closures*
+
+  - When you go, what might you want to have with you? *[photo ID, DD214]* 
 
 ## Post-Task Interview - 10 minutes
 
