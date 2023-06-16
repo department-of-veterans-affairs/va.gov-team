@@ -90,3 +90,4 @@
 | 88 | [How to report the death of a Veteran to VA](https://www.va.gov/resources/how-to-report-the-death-of-a-veteran-to-va) | Other topics and questions | 3/27/23
 | 89 |[Decision reviews FAQs](https://www.va.gov/resources/decision-reviews-faqs) | Decision reviews           | 4/20/23
 | 90 |[VA’s duty to assist](https://www.va.gov/resources/vas-duty-to-assist) | Decision reviews           | 4/20/23
+| 91 | [Compare VA education benefits](https://www.va.gov/resources/compare-va-education-benefits) | Education | 6/16/23
