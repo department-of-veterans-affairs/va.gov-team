@@ -51,7 +51,7 @@ Before we start, I have a few things that I want to go over with you:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions - 5-10 minutes
+## Warm-up Questions - 5 minutes
 Let’s start with a few questions... 
 
 1. What kind of device are you using today? *(Computer / Tablet / Smartphone)*
