@@ -9,6 +9,7 @@ A scheduled in-person appointment at a VA facility.
 - As a Veteran, I want to manage my scheduled VA appointments.
 
 ## Requirements
+<!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
 **Functional**
 - User can cancel through VAOS

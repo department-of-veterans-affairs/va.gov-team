@@ -1,18 +1,22 @@
-# VA in-person COVID vaccine appointment
+# VA Video Care at home appointment
 
 ## Overview
 
-A scheduled in-person appointment at a VA facility to receive a COVID-19 vaccination.
+A scheduled telehealth appointment at a VA facility that the Veteran attends through VA Video Care.
 
 ## User stories
 
-- As a Veteran, I want to manage my scheduled VA COVID-19 vaccination appointments.
+- As a Veteran, I want to join my telehealth appointments
+- As a Veteran, I want to manage my telehealth appointments.
+
 
 ## Requirements
 
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
-- User can cancel through VAOS
+- User can join telehealth appointments via a link to VA Video Care 30 minutes ahead of the meeting
+- User cannot cancel through VAOS
+    - Note: Video care appointments can't currently be canceled online due to a technical issue.
 - User can print details using a print button
 - User can add to their calendar via an .ics file
 
