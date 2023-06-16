@@ -30,11 +30,11 @@ Slack for real-time feedback from observers.
 Thanks for joining us today! My name is Robyn/Jenny/Cara and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them, I'll talk a little bit about what we'll be asking you today.  
 
-We are part of a team working on the health sections of website VA.gov. We’d like to get your feedback on some changes we have made to how you can access your personal health information and benefits on VA.gov. Specifically, we'll be asking you to perform a set of activities that show how you would navigate the VA.gov website to access and manage health-related information and benenfits. Most of what we'll be asking you is about your reactions to what you see on the website and where you might expect things to be. We won't ask you for personal information about your own benefits - we'll focus on your thoughts on the changes we've made to the VA.gov website. 
+We are part of a team working on the health sections of website VA.gov. We’d like to get your feedback on some changes we have made to how you can access your personal health information and benefits on VA.gov. Specifically, we'll be asking you to perform a set of activities that show how you would navigate the VA.gov website to access and manage health-related information and benenfits. Most of what we'll be asking you is about your reactions to what you see on the website and where you might expect things to be. We won't ask you for personal information and we'll only ask you very general questions about your own benefits - we'll focus on your thoughts on the changes we've made to the VA.gov website. 
 
-It is worth noting that we will be using what we call a prototype. This is not an actual website, but rather a file that we use to explore what the website could look like and get feedback from users like yourself before we make any final changes to the website. This prototype will not work exactly like a website. For example, not all of the links will work and you cannot click the back button in your browser because it will take you away from the prototype. 
+It is worth noting that we will be using what we call a prototype. This is not an actual website. It is a file that we use to explore what the website could look like and get feedback from users like yourself before we make any final changes to the website. This prototype will not work exactly like a website. For example, not all of the links will work and you cannot click the back button in your browser because it will take you away from the prototype. 
 
-Thank you for confirming these things! Now, I have a few things about today I want to go over with you:
+Before we start, I have a few things that I want to go over with you:
 
 - **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
@@ -111,15 +111,11 @@ _If participant needs extra instructions, or needs instructions to be repeated, 
 * Any questions at this point?
 
 * Organize cards in a way that makes sense to you
-	* We will start at the top left and work our way through the cards, while we are moving them, help me out by “thinking out loud” so that I can understand why you might want to group things together.
+	* We will start at the top left and work our way through the cards. While we are moving them, help me out by “thinking out loud” so that I can understand why you might want to group things together.
 
 (_As participant puts cards into different groups_): Can you explain to me what you are thinking as you put *(card name)* and *(card name)* together? Why do those belong together? 
 
 - _Continue to probe participant to explain their thinking as they group cards._
-
-(_Review categories where you would like to understand what participants look for in a given category_): I see you created *(category)*. When you review information in *(category name)*, what data would be most important for you to know? 
-	
-   - _Example question_: When you review your appointments, what information would be most important for you to know? <-**update** 
 
 _PROBE FOR UNDERSTANDING OF DIFFERENT CARDS AND TERMS, IF PARTICIPANT NOT EXPLAINING. Particularly interested in understanding how users differentiate between different types of resources. Examples probes could be:_ <-**update probes below**
 
@@ -131,6 +127,12 @@ _PROBE FOR UNDERSTANDING OF DIFFERENT CARDS AND TERMS, IF PARTICIPANT NOT EXPLAI
 
 
 ## Wayfinding interview - 40 minutes
+
+Thank you for completing that activity. Please continue to share your screen. 
+
+Now I am going to share with you a link to the prototype of the website VA.gov. Like I said before, this is a prototype, which means that it will behave differently than the actual website. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link. 
+
+_Send link to prototype: [link](link). Show participant where prototype back button is._
 
 **_Task 1 - AVS task:_ _Participant should be starting from unauthenticated home page._** Let's imagine that you recently had to visit a specialist to talk about a chronic condition. You want to review what was decided for the next steps in your care. Using this prototype, where do you go for this information? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
@@ -152,18 +154,20 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 
 _Specific questions - **must ask**:_ 
 
-_When partipcant goes to My VA:_
+_If partipcant goes to My VA:_
 - What is this page? 
 - What is the purpose of this page? 
-- how is this page different than the other page we were on with all the health resources? 
+- (_If participant went to My HealtheVet landing page_): How is this page different than the other page where you looked at the plan from your doctor for your care? 
 
 _Once participant clicks on Copay link and is directed to Pay.gov, ask them to click "Continue" at least once to get them further into the form._
 - Where are you right now? 
-- Are you on a different website than before? How do you feel about that? 
-- Thank you, you don't need to go any further than this. How would you get back to the original website we were on? 
+- Are you on a different website than before? 
+- How do you feel about that? 
+- (_After participant goes one click into Pay.gov form_): Thank you, you don't need to go any further than this. How would you get back to the original website we were on? 
 
 _Once participant has completed task:_
-- If you could design this website, where would you put your disability resources and your health resources? 
+- If you could design this website, how would you organize the different types of benefits and resources you see here? 
+- Where would you put your disability resources and your health resources? What about education benefits? Housing benefits? 
 - (_Ask participant to click between My VA and My HealtheVet pages_): If you were to describe these two pages to another Veteran, how would you explain them? 
 
 **_Task 3a - Medical Records task:_** Imagine that you were recently put on blood thinner medication. Your doctor ordered blood tests two weeks after you started the medication to make sure that it is working. Where would you look for the results from those blood tests?
@@ -176,7 +180,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 
 **Add in specific questions after MR designs more figured out, if any.**
 
-**_Task 3b - Transition from Medical Records to Secure Messaging; participant should be deep into MR nav at this point:_** Say you're confused by your result and want to ask your doctor about it. Using the resources offered on this website, how would you send them a message? Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
+**_Task 3b - Transition from Medical Records to Secure Messaging; participant should be deep into Medication Records navigation at this point:_** Say you're confused by your result and want to ask your doctor about it. Using the resources offered on this website, how would you send them a message? Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
@@ -184,7 +188,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
 - What do you think should happen if you (_do something_)? 
 
-**_Task 4 - Appointments task:_** Say you are going to see a specialist in a facility you've never visited before and you want to make sure that you know where you are going. How would you figure that out? 
+**_Task 4 - Appointments task:_** Say you are going to see a specialist in a VA medical center you've never visited before and you want to make sure that you know where you are going. How would you figure that out? 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
