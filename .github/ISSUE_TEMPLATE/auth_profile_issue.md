@@ -13,25 +13,11 @@ Describe the issue background and scope
 
 
 ## Tasks
-### Design 
-- [ ] review previous research 
-- [ ] Create mock-ups / update sketch files
-- [ ] Review w/ team
-- [ ] Get content approved
-- [ ] Revise mock-ups as needed
-- [ ] Let team know ready for FE
-
-### Development 
 - [ ] Conduct Unit tests 
 - [ ] Run E2E tests covering current code and regression
 - [ ] Notify PM if this needs to be deployed to Staging behind feature flag
 
 ## Acceptance Criteria
-### Design Ticket
-- [ ] summary and recommendations of research 
-- [ ] ready for mocks 
-
-### Development Ticket 
 - [ ] Complete all unit testing
 - [ ] End-to-end tests showing 0 violations
 - [ ] All axe checks pass
@@ -52,3 +38,63 @@ Describe the issue background and scope
 - Assign to a Profile team member
 - Associate with an Epic if applicable
 - If creating for yourself: estimate work if enough info exists to do so
+
+
+<details>
+  <summary>Discovery Ticket</summary>
+
+## Tasks 
+- [ ] review previous research 
+
+## Acceptance Criteria 
+- [ ] summary and recommendations of research 
+- [ ] ready for mock ups / design intent ([artifacts](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/design-intent#Designintent-Artifacts)) 
+</details>
+
+<details>
+  <summary>Design Ticket</summary>
+
+## Tasks
+- [ ] Create mock-ups / update sketch files
+- [ ] Review w/ team
+- [ ] Get content approved
+- [ ] Revise mock-ups as needed
+- [ ] Let team know ready for FE
+
+## Acceptance Criteria
+- [ ] Ready for FE
+</details>
+
+<details>
+  <summary>FrontEnd Ticket</summary>
+  
+## Tasks
+- [ ] Conduct Unit tests 
+- [ ] Run E2E tests covering current code and regression
+- [ ] Notify PM if this needs to be deployed to Staging behind feature flag
+  
+## Acceptance Criteria
+- [ ] Complete all unit testing
+- [ ] End-to-end tests showing 0 violations
+- [ ] All axe checks pass
+- [ ] Notify Product Manager that the change is ready to be validated on Staging
+- [ ] Incorporate any changes resulting from Staging review & re-test & have re-validated
+- [ ] Confirm PM has opened a new ticket to deploy changes to Production using feature flag, if needed
+</details>
+
+<details>
+  <summary>Backend Ticket</summary>
+ 
+ ## Tasks
+- [ ] Conduct Unit tests 
+- [ ] Run E2E tests covering current code and regression
+- [ ] Notify PM if this needs to be deployed to Staging behind feature flag
+  
+## Acceptance Criteria
+- [ ] Complete all unit testing
+- [ ] End-to-end tests showing 0 violations
+- [ ] All axe checks pass
+- [ ] Notify Product Manager that the change is ready to be validated on Staging
+- [ ] Incorporate any changes resulting from Staging review & re-test & have re-validated
+- [ ] Confirm PM has opened a new ticket to deploy changes to Production using feature flag, if needed
+</details>
