@@ -31,7 +31,7 @@
    - I do want you to be as comfortable as possible, so if for any reason and at any time you want to pause or stop the session, please let me know.
    - Let’s have each of our note takers and observers quickly go around and introduce themselves with cameras on, please. 
       - [PAUSE for observers to introduce themselves]
-      - Ok and now I’ll ask our notetakers and observers to mute themselves and turn off their cameras for the remainder of the sessions to save on distractions and to save Zoom bandwidth.
+      - Ok and now I’ll ask our notetakers and observers to mute themselves and turn off their cameras for the remainder of the sessions to save on distractions and Zoom bandwidth.
    - I would like to get your permission to record this session. This helps us if we need to look back for clarifications like to make sure we noted your opinions correctly. We delete recordings after we finish analysis, which usually takes a couple weeks. Also we sometimes use written quotes to help others understand why we want to make certain changes, but your name will not be directly linked to any of your comments.
       - Knowing that, are you comfortable if I record my screen and our audio as we talk today?
       - [IF YES - RECORD TO CLOUD] 
@@ -46,7 +46,7 @@
    - [REFER BACK TO THIS LATER]
 - Do you generally work in a local environment or in the dev.va.gov?
 - When you are working on code for a [PRODUCT] and want to check that what you just did is working correctly, what do you do?
-   - e.g. Where do you go? What step do you take?
+   - e.g. Where do you go? What steps do you take?
 - How well does that solution fit into your workflow?
    - What pain points do you have with that?
    - What works well?
