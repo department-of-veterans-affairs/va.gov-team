@@ -31,9 +31,6 @@ Describe the issue background and scope
 - How can this work be validated?
 - What updates need to be made (e.g. product outline, use cases, contact center guide)
 
-## Associated Tickets
-- #
-
 
 
 ## How to configure this issue
