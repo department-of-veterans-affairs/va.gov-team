@@ -13,17 +13,23 @@ Describe the issue background and scope
 
 
 ## Tasks
+### Design 
+- [ ] review previous research 
+- [ ] Create mock-ups / update sketch files
+- [ ] Review w/ team
+- [ ] Get content approved
+- [ ] Revise mock-ups as needed
+- [ ] Let team know ready for FE
+
+### Development 
 - [ ] Conduct Unit tests 
 - [ ] Run E2E tests covering current code and regression
 - [ ] Notify PM if this needs to be deployed to Staging behind feature flag
 
 ## Acceptance Criteria
 ### Design Ticket
-- [ ] Create mock-ups / update sketch files
-- [ ] Review w/ team
-- [ ] Get content approved
-- [ ] Revise mock-ups as needed
-- [ ] Let team know ready for FE
+- [ ] summary and recommendations of research 
+- [ ] ready for mocks 
 
 ### Development Ticket 
 - [ ] Complete all unit testing
