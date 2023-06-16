@@ -58,6 +58,7 @@ One potential issue on this page is the presence of redundant headers and links 
 - [ ] **(3)** Set up breadcrumbs
 - [ ] **(4)** Set up pagination
 - [ ] **(TBD)** Set up empty state for notifications section on My VA
+- [ ] Set up event tags for GA analytics
 
 #### Maintenance
 - [ ] **(4)** Write unit tests
@@ -66,7 +67,7 @@ One potential issue on this page is the presence of redundant headers and links 
 
 #### Nice-to-dos (backlog)
 - [ ] explore making a common/shared API call for notifications (between `/notification-center/` and `/dashboard/notifications/`)
-- [ ] Set up event tags for GA analytics
+
 
 
 ### Resources
