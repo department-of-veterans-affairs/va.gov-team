@@ -3,7 +3,7 @@
 
 ## Overview
 
-Product, business, and technical documentation of VAOS' features.
+Product, business, and technical documentation of [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling) features.
 
 <!-- 
 See also:
@@ -36,7 +36,7 @@ Booked appointments through VA or CC facilities.
 | VA Video Care at an ATLAS location |  Scheduled telehealth appointments that a Veteran joins at an ATLAS facility  | Yes |
 | VA Phone |  Scheduled telehealth appointments that a Veteran joins over the phone. | Yes |
 | Community Care |  Scheduled appointment that a Veteran joins at a community care provider | Yes | 
-| Compensation and Pension appointment | Scheduled appointment for a Compensation and Pension exam | No |
+| Compensation and Pension appointment | Scheduled appointment for a Compensation and Pension exam | Yes |
 
 ### Request details views
 Appointments that Veterans have requested but VA has not booked.
