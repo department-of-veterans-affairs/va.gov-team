@@ -1,5 +1,5 @@
 
-# VAOS Feature Reference
+# Appointments Feature Reference
 
 ## Overview
 
