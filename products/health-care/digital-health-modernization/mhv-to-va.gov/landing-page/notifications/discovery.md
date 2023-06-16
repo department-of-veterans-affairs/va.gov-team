@@ -37,7 +37,8 @@ June 14, 2023
        - The number of unread messages on the inbox tab showing the number of unread messages
        - The blue circle if a message has not been opened
 - The badge/numbers stay until the message is opened, the user can potentially have a lot of unopened messages...
-- Does Message link always bring the user to the top of the Messages page? Or does it ever send the message to unread message? (I have my assumption but wanted to confirm) 
+- Does Message link always bring the user to the top of the Messages page? Or does it ever send the message to unread message? (I have my assumption but wanted to confirm)
+  - Yes, if you tap the Messages button on the health landing page you just get the list of all the messages (the inbox screen)
 
 ## Links
 - [My VA's product outline for onsite notifications (includes screenshots of current designs)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications)
