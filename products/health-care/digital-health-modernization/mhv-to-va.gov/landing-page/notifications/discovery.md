@@ -36,8 +36,8 @@ June 14, 2023
        - The number of unread messages in the button on Health landing page
        - The number of unread messages on the inbox tab showing the number of unread messages
        - The blue circle if a message has not been opened
-- Assuming the numbers stay until the message is opened, the user can potentially have A LOT of unopened messages?
-- Does Message button always bring the user to the top of the Messages page? Or does it ever send the message to unread message? (again, I have my assumption but wanted to confirm) 
+- Assuming the numbers stay until the message is opened, the user can potentially have a lot of unopened messages...
+- Does Message link always bring the user to the top of the Messages page? Or does it ever send the message to unread message? (I have my assumption but wanted to confirm) 
 
 ## Links
 - [My VA's product outline for onsite notifications (includes screenshots of current designs)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications)
