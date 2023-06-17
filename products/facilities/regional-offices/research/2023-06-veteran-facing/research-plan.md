@@ -93,14 +93,14 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
   - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen
   - Be willing to share over Zoom a web browser window on their smartphone
   - Have a working microphone on their smartphone
+- 4 have **never visited a VA benefit office**, 3 have **visited in the past 6 months**, and 4 have **visited more than 6 months ago**
 - 5 have **not used any VA benefits before**, and 5 have
-- 3 have **never visited a VA benefit office**, 4 have **visited in the past 6 months**, and 4 have **visited but only longer ago than the past 6 months**
 - At least 4 people with a cognitive disability (e.g., TBI)
 - At least 4 people who are age 55 or older
 - At least 2 people 35 or under
 - At least 3 people of color
 - At least 2 women
-- At least 3 people who live in states that are in the Continental District (MT, WY, CO, ND, SD, NE, KS, OK, TX, MN, or IA)
+- At least 3 people who **live in states that are in the Continental District** (MT, WY, CO, ND, SD, NE, KS, OK, TX, MN, or IA)
 - At least 2 people who don't have any degree or vocational training after high school 
 - At least 2 people who live in a rural or remote area
 - At least 2 people who are LGBTQ+
@@ -109,7 +109,7 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
 1. Have you ever visited a VA benefit office? 
      1. No, never *(RECRUIT 4)*
      1. Yes, in the past 6 months *(RECRUIT 3)*
-     2. Yes, longer ago than the last 6 months *(RECRUIT 4)*
+     2. Yes, more than 6 months ago *(RECRUIT 4)*
 
 
 1. Have you used any VA benefits before? For example, VA health care, education/GI Bill, career services, disability compensation, pension, home loan, life insurance, burial benefits or memorial items.
