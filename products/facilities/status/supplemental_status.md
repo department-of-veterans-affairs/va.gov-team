@@ -44,4 +44,7 @@ Links:
 
 ## State of Removal
 As of 6/1/2023 the editorial interface still ezxists in VAMC Facilities, however, it is not being rendered on the facility locator search results or the FE system status pages on va.gov.
+Here are the PRs that disabled it on the FE.
+- https://github.com/department-of-veterans-affairs/content-build/pull/1578
+
 It may be hidden from the editorial interface until it is re-introduced on the VBA product.
