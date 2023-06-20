@@ -7,7 +7,8 @@ Agenda
 - Sitemap screenshots (How to)
 - Are there additional paths to be added or explored (Reserve and PTSD added)
 
-- Meeting was recorded. The recording will be posted in Slack. A channel was not decided.  
+- Meeting was recorded. The recording will be posted in Slack. A channel was not decided.  https://coformaco.zoom.us/rec/share/UNk_m9jWw8nBzED839NYlEJyCpyyc3GpKOOVazyuN1EKm4DGtUpvlb8PoIvSUn4l.g-p4a22ZtlU8rmzJ?startTime=1686852414000
+Passcode: %?mH9eY$
 - Discussed sitemap changes with the group. Nichole will continue to make changes to the sitemap as they are released.
 - Next meeting: Chat about yellow sticky notes and get clarification on missing ideas/sections. 
 ## 6/8/23
