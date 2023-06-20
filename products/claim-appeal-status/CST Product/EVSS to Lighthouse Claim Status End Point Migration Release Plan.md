@@ -52,10 +52,10 @@ Percentage of Users (and roughly how many users do you expect this to be): 1%
 - New 499 Errors: 
 - Latency: 
 
-### Stage B: moderate  
+### Stage B: moderate ramp up
 #### Planning  
 Length of time: 2 days  
-Percentage of Users (and roughly how many users do you expect this to be): 25% 
+Percentage of Users (and roughly how many users do you expect this to be): 5% 
 #### Results:  
 - New Sentry Errors: 
 - Unsuccessful test cases: 
@@ -66,7 +66,33 @@ Percentage of Users (and roughly how many users do you expect this to be): 25%
 - Latency: 
 
 What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges? 
-### Stage C: High 
+### Stage C: another moderate ramp up
+#### Planning  
+Length of time: 2 days  
+Percentage of Users (and roughly how many users do you expect this to be): 10% 
+#### Results  
+- New Sentry Errors: 
+- Unsuccessful test cases: 
+- Unsuccessful fixture tests: 
+- Call center complaints: 
+- New 504 Errors: 
+- New 499 Errors: 
+- Latency: 
+
+### Stage C: final moderate ramp up
+#### Planning  
+Length of time: 2 days  
+Percentage of Users (and roughly how many users do you expect this to be): 25% 
+#### Results  
+- New Sentry Errors: 
+- Unsuccessful test cases: 
+- Unsuccessful fixture tests: 
+- Call center complaints: 
+- New 504 Errors: 
+- New 499 Errors: 
+- Latency:
+
+### Stage D: High
 #### Planning  
 Length of time: 2 days  
 Percentage of Users (and roughly how many users do you expect this to be): 50% 
@@ -79,7 +105,7 @@ Percentage of Users (and roughly how many users do you expect this to be): 50%
 - New 499 Errors: 
 - Latency: 
 
-### Stage C: Very High 
+### Stage E: Very High 
 #### Planning  
 Length of time: 2 days  
 Percentage of Users (and roughly how many users do you expect this to be): 75% 
