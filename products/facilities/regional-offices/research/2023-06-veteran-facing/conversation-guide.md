@@ -157,16 +157,16 @@ What are your impressions of what you're looking at? *(RECORD)*
 
 Let's pretend that you live in Boston. 
 
-Imagine that you’re exploring how to pay for college, and you want to see if the Boston Regional Office can help. Using this page, how could you do that?
+Imagine that you’re exploring how to pay for college, and you want to see if the VA can help. Using the information on this page, how can the Boston Regional Office help you?
 
 *(Alternative version for Veteran caregiver or family member:)*
-Imagine that you're wondering how to use your leftover GI Bill benefits to pay for your kid to go to college. Using this page, do you think the Boston Regional Office could help? 
+Imagine that you're wondering how to use your *[spouse/relationship]*’s leftover GI Bill benefits to pay for your kid to go to college. Using the information on this page, how can the Boston Regional Office help you? 
 
 - *(Educ benefits for Veterans / Educ benefits for family members / __________)*
 
 ### Task 4: [Disability--accordion opens]
 
-You’re not currently receiving disability compensation from the VA, and you’d like some help applying for it. Using this page, how could you get help?
+Imagine that you *[your spouse/Veteran has]* have some hearing loss that's related to your *[their]* military service. You’re not currently receiving monthly disability payments from the VA, and you’d like some help applying for it. Using the information on this page, how could you get help from the Boston Regional Office? 
 
 - *(Disability compensation)*
 
