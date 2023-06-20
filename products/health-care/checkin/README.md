@@ -5,6 +5,7 @@
 - [Priorities and Backlog](#priorities-and-backlog)
 - [Production Wireframes in VA Sketch Cloud](#production-wireframes-in-va-sketch-cloud)
 - [Content](#content)
+- [Posters](#posters)
 - [Testing](#testing)
 - [Releases](#releases)
 - [Process](#process)
@@ -57,6 +58,9 @@
 
 ## Content
 - [Text & Error Messages: Source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/text-and-error-messages.md)
+
+## Posters
+- [Visual Collateral](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/design/visual-collateral)
 
 ## Testing
 - [Facility Directory](https://www.va.gov/directory/guide/rpt_fac_list.cfm?sort=Sta&list_by=all&oid=all)
