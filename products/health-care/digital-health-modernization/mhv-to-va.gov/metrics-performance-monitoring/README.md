@@ -9,7 +9,7 @@ To outline a systematic Veteran feedback strategy to be employed across the diff
 ## Tools that provide feedback that will (most likely) either relate to the MHV on VA.gov experience, or that will require additional data organization and analysis to locate product-specific insights:  
 
 - My VA411 data (main information line call center data logged into Salesforce)
-- MHV helpdesk (via 1-877-327-0022 or this form)
+- MHV helpdesk (via [1-877-327-0022](tel:18773270022) or this [form](https://www.myhealth.va.gov/contact-us))
 - MHV feedback email
 - Feedback from MHV Coordinators (strategy currently under development)
 - VSignals 
@@ -52,14 +52,14 @@ To outline a systematic Veteran feedback strategy to be employed across the diff
 ### Step 2: Define who is point person and get necessary team members access to all the relevant tools or sources of data  
 _Default point person:_ A Product Manager or Delivery Manager, in partnership as appropriate with Researcher(s).  
 
-- Google Analytics: read up here on getting access and setting it up; use GA data within GA console, or may be able to import into Domo if needed;
-- Medallia: can manually import into Domo
+- Google Analytics: [read up here](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/getting-started-with-platform-analytics-insights) on getting access and setting it up; use GA data within GA console, or may be able to import into Domo if needed;
+- [Medallia](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/how-to-use-medallia-data-in-domo): can manually import into Domo
 - Domo: dashboard tool for combining Medallia, Google Analytics, and other data sources; request access from Platform Analytics team in same ticket you request Google Analytics access
-- My VA411 data: can import into Domo
+- [My VA411 data](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data): can import into Domo
 - MHV Help desk: liaise with Cartography team for preferred process
 - MHV feedback email: need to submit an IT ticket; Jasmine Yohannan can help
 - VSignals: Currently being explored. Will provide further guidance when available.
-- Datadog: Access via OKTA, need to submit request ticket: https://jira.devops.va.gov/servicedesk/customer/portal/1, follow up in #dots-dsva slack channel. Adrian Rollett, Mark Dewey, or Stephen Barrs would be good resources if you want a quick review of how Datadog has been helpful elsewhere.  
+- Datadog: Access via OKTA, need to submit [request ticket](https://jira.devops.va.gov/servicedesk/customer/portal/1), follow up in #dots-dsva slack channel. Adrian Rollett, Mark Dewey, or Stephen Barrs would be good resources if you want a quick review of how Datadog has been helpful elsewhere.  
 
 ### Step 3: Implement monitoring and feedback mechanisms according to a phased schedule 
 
