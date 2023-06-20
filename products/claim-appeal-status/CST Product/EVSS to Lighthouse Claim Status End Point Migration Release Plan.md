@@ -79,7 +79,7 @@ Percentage of Users (and roughly how many users do you expect this to be): 10%
 - New 499 Errors: 
 - Latency: 
 
-### Stage C: final moderate ramp up
+### Stage D: final moderate ramp up
 #### Planning  
 Length of time: 2 days  
 Percentage of Users (and roughly how many users do you expect this to be): 25% 
@@ -92,7 +92,7 @@ Percentage of Users (and roughly how many users do you expect this to be): 25%
 - New 499 Errors: 
 - Latency:
 
-### Stage D: High
+### Stage E: High
 #### Planning  
 Length of time: 2 days  
 Percentage of Users (and roughly how many users do you expect this to be): 50% 
@@ -105,7 +105,7 @@ Percentage of Users (and roughly how many users do you expect this to be): 50%
 - New 499 Errors: 
 - Latency: 
 
-### Stage E: Very High 
+### Stage F: Very High 
 #### Planning  
 Length of time: 2 days  
 Percentage of Users (and roughly how many users do you expect this to be): 75% 
