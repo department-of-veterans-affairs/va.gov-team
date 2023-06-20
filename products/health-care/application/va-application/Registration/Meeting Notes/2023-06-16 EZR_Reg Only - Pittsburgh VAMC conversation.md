@@ -1,5 +1,7 @@
 # 10-10EZR/Registration Only Pittsburgh VAMC Conversation
 - Session was recorded on Teams
+     - you'll need to log in to CAG/GFE to view
+          - https://dvagov-my.sharepoint.com/:v:/g/personal/alexander_seelig_va_gov1/EShaOXRkSh1PtRTsFxRU5OUBgfxT4omHJn68HxN0AxQFJQ
 - Registration staff audience:
      - Elizabeth Marinella
      - Debbre Hobdy
