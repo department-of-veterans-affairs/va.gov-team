@@ -43,3 +43,4 @@ Links:
 
 
 ## State of Removal
+As of 6/1/2023 the editorial interface still ezxists in VAMC Facilities, however, it is not being rendered on the facility locator search results or the FE system status pages on va.gov.
