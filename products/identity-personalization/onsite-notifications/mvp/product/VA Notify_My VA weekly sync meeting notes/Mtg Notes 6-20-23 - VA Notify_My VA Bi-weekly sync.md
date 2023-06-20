@@ -1,6 +1,6 @@
 # VA Notify - My VA Bi-weekly sync: 6/20/23
 
-## Agenda:
+**Agenda:**
 1. Strategizing agenda ahead of design/ux and technical meetings with MHV on VA.gov partners 
 2. Status of RX shipment notification
 
