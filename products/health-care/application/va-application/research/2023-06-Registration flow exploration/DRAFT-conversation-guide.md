@@ -64,9 +64,9 @@ Let’s start with a few warm-up questions.
 - Anything that stood out to you?
 - Was there any part of that process that was frustrating or difficult for you?
 - What is your recollection about the amount of information you had to provide?
-- Was it clear to you as you were applying, what benefits you would qualify for?
+- Was it clear to you as you were applying, what benefits you would qualify for and if there was a cost/copay to you?
 - Was it clear to you how your application answers impacted your benefits?
-- How would you describe the process that happened after you applied, such as the communications from the VA, things you had to do, etc.?
+- How would you describe the process that happened after you applied, such as things you had to do, additional information you had to provide, communications from the VA, etc.?
 
 
 ### Things to watch for:
@@ -77,9 +77,9 @@ Let’s start with a few warm-up questions.
 
 ## Second Topic: [Getting Benefits/Eligibility] - 10 minutes
 
-- How did you determine what health benefits you could get when you recently applied or were seen for care?
+- How did you determine what health benefits you could get when you recently enrolled for health care benefits?
 - What resources do you use to understand what you might qualify for?
-- Did you want to only get care for one specific health concern, or were you interested in getting full health care coverage?
+- Did you want to only get care for one specific health concern, or were you interested in getting full health care coverage (want your PCP to be through VA)?
 - Looking back now after you have been using health care benefits, is there anything you wish you would have known during the application?
 - Do you know what Priority Group you are in for your health care benefits?
 
@@ -97,15 +97,15 @@ Let’s start with a few warm-up questions.
 - Looking back post-appliation, can you explain your impression of how your answers submitted around financials inpacted your benefits?
 - Have you had to provide updated information since you have been enrolled, like changes in income or adding dependents? If so, can you tell me more about how this process went for you.
 - How would you like to go about providing various updates that could impact your health care benefits?
+- How would you see a change in income impacting your health care benefits?
 - If you have copays, when during the enrollment process were you clear on what you qualified for and what you would have to pay? 
-- In a perfect world, how would you like to discover what copays you may have. 
+- In a perfect world, how would you like to discover what copays you qualify to pay?
 
 
 ## Fourth Topic: [Ideal State] - 10 minutes
-- Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using your benefits. 
+- Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using and updataing your information to keep your benefits. 
 - What tools, communication, people could make this the best process possible in your mind?
-- How would you like to discover what options you have to get the level of care that is right for you?
-- What information would be important to you so you feel confident when having to choose between health care benefit options?
+- What information would be important to you so you feel confident when having to apply for health care benefits?
 
 
 
@@ -113,7 +113,7 @@ Let’s start with a few warm-up questions.
 - [Are there any terminology used that stand out as the Veteran is describing their ideal process?]
 - [What steps do they call out?]
 - [What steps do they leave out?]
-- [What do they mention or call out as information that is helpful in making decisions about health care benefit choices?]
+- [What do they mention or call out as information that is helpful in making decisions about health care benefits?]
 
 
 
