@@ -29,7 +29,7 @@
      - & provide way to update it
      - Or click button & get data from IRS
      - This could be MVP for IRS integration
-- Tiny MVP - View financial information but not change it
+- Tiny MVP to consider - View financial information but not change it
 ### Priority Groups - Separate initiative or addition to Financial Info
 - Could be displayed with name & rating banner
 - Could include info on benefit that comes with PG (on financial info page)
