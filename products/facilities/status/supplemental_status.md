@@ -1,11 +1,11 @@
 # Facility Supplemental Status and Description
-The supplemental status and accompanying supplemental status more info is designed to be extensible&nbsp; to account for rapidly changing&nbsp; requirements for Facility level statuses.
+The supplemental status and accompanying supplemental status more info is designed to be extensible to account for rapidly changing&nbsp; requirements for Facility level statuses.
 
 ## History
 
 This was originally built [Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8946) during the era of COVID 19 (May 2022) as VHA tried to have consistent messaging across their facilities to indicate the Covid threat levels and the Veteran facing mitigation strategies in place at each facility.&nbsp; Covid low, medium, or high would each have their own list of&nbsp; mitigation strategies that were controlled at the national level. This particular use failed because even though the mitigation stategies were mean't to be nationally controlled, facilities needed ways to override the national content. National content soon became nationally recommended content. The field for this was hidden in May 2023 as the national emergency was declared over.&nbsp; The structure is still in place in case we need to roll it or something similar out again.
 
-This was specifically implemented for COVID-19 but it was intentionally built to be agnostic of the statuses. It could support a broad array of statuses like:
+This was specifically implemented for COVID-19, but it was intentionally built to be agnostic of the statuses. It could support a broad array of statuses like:
 
 - open / normal
 - inclimate weather
@@ -40,3 +40,6 @@ On the FE this is usually rendered as the [alert component](https://design.va.go
 
 Links:
 - [Content Model Document](https://prod.cms.va.gov/admin/structure/cm_document/note/118/Supplemental-Status)
+
+
+## State of Removal
