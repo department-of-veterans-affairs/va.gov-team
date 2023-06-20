@@ -15,6 +15,8 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ### 6/16/2023
 - In an effort to prevent Veterans from receiving a Pre-Check-in link for a cancelled appointment, modified the CHIP API to return an error from initiate-precheckin if the appointment has been cancelled.
     - [Ticket 59414](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59414)
+- Changed the HTML for the appointments list from an ordered list to an unordered list to accommodate Veterans who use screen readers because the list does represent an ordered list.
+    - [Ticket 59306](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59306)
 
 ### 6/2/2023
 - Updated the "in-person appointment" title in Pre-Check-in and eCheck-in to use a hypen 
