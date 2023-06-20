@@ -21,30 +21,28 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 
 ## Research Goals	
 
+Learn more about Veteran's mental model when applying for health care benefits including the terms they use and how they see levels of benefits/Priority Groups/copays impacting them during the health care application process, during and ongoing after.
 
-Learn more about Veteran's mental model when applying for health care benefits including the terms they use and how they see levels of benefits/Priority Groups/copays impacting them during the health care application process.
+Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they feel they need to provide in that process. 
 
-Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they need to provide in that process. 
-
-Learn more about how Veterans would like to go about providing updated information, especially financial and dependent updates that could impact their health care benefits.
+Learn more about how Veterans would like to go about providing updated information, especially financial and dependent updates, that could impact their health care benefits post-application/initial enrollment.
 
 
 ### Outcome
 We will use these findings to:
-- Gain more understanding of the current problem space and Veteran's perception of registration and enrollment
 - Check assumptions and terminology used to remain Veteran-centric 
 - Develop insights into an ideal state and how Veteran would prefer to navigation the health care benefits application journey
-- Guide our direction in creating the registration flow by iterating on potential hypothesis flows prior to creating a prototype
+- Develop insights early during initial design discovery phase and iterate 
+
 
 ### Research questions
 
-Out goal is to learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them.
-- What is the experience of "registering only" today? 
-- How does the regulation "§ 17.37 - Enrollment not required—provision of hospital and outpatient care to veterans" impact Veterans when applying for health care?
 
-Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care and Priority Groups impacting them during the health care application process.
+
+Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they feel they need to provide in that process. 
 - What is the Veteran's mental model of discovering, getting and keeping health care benefits as they go through the application process?
 - What is the Veterans perception of eligibility and Priority Groups when they are completing the application?
+- Do Veterans feel most information the VA has and they should not have to provide?
 
 Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for.
 - What are the Veteran's current pain points with how the health care application impacts the overall benefits journey?
@@ -52,21 +50,27 @@ Learn more about how Veterans would like to go about applying, discovering eligi
 - When does it make sense to Veterans to go thorugh eligibiltiy based questions? (before, during or after application)
 
 
+Learn more about how Veterans would like to go about providing updated information, especially financial and dependent updates, that could impact their health care benefits post-application/initial enrollment.
+- Do Veterans call out the VA profile or MyHelatheVet or the mobile app or (enter here) as their ideal way to provide this updated information in an online setting?
+- Do Veterans prefer to provide updated information in person at appointments?
+- Would Veterans prever to be prompted to provide updated financials?
+
+
+
+
 ### Hypothesis
-- We assume that Veterans will not use the term "registration only" when referring to health care benefits but will be familiar with enrollment and eligibility.
-- We assume that Veterans will use the term registration when they are talking about choosing their main VA medical facility for care. 
 - We assume the overall process of determining eligibility and being placed in a Priority Group is somewhat unclear to Veterans today.
-- We assume adding the term/step of "registration" will add to the confusion around health care benefits. 
 - We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and other claims filed in between. 
+- We assume that Veterans who have health care regularly login to VA.gov / Profile 
+- 
 
 ## Methodology	
 - Semi-structured interviews - appropriate for generative research
 
 
-
 Additional desk research will be conducted to supplement these interviews:
 - Google analytics path and keyword study
-- VSignals analysis around keywords
+- VSignals analysis around keywords (?)
 
 
 ### Location
@@ -76,8 +80,7 @@ Remote via Zoom for the interviews
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
 
-- [Link to conversation guide - cohort 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model-cohort1.md) 
-- [Link to conversation guide - cohorts 2 & 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-cohort2and3.md) 
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/DRAFT-conversation-guide.md) 
 
 - [Recruitment ticket]
 	
@@ -89,9 +92,9 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 
 ### Recruitment criteria
 
-15 completed sessions; 5 completed per cohort
+15 completed sessions
 
-**21 requested; 7 requested per cohort**
+**21 requested**
 
 
 **Primary criteria (must-haves)**
@@ -99,11 +102,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 **Screener Questions**
 
-Cohort 1: 
-- Have you visited a VA facility for a medical visit/exam in the past year and did not enroll in health care benefits package? [answer should be yes to qualify.]
-
-Cohorts 2 & 3:
-- Have you applied within the past 3 years and are now enrolled in health care? [answer should be yes to qualify.]
+- Have you applied for health care benefits within the past 5 years and are now enrolled using these benefits? [answer should be yes to qualify.]
 
 
 
@@ -119,11 +118,8 @@ What criteria would strengthen your results?
 
 ## Timeline
 
-Cohort 1: Thursday July 6 - Friday July 7
+Thursday July 6 -  Wednesday July 19
 
-Cohort 2: Monday July 17 - Wednesday July 19
-
-Cohort 3: Wednesday July 26 - Friday July 28
 
 
 
