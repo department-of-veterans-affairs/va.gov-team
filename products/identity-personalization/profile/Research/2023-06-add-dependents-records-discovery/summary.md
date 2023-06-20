@@ -1,5 +1,7 @@
 # Discovery summary: adding records and dependents to profile, June 2023
+
 `draft`
+
 **Last updated:** June 20, 2023
 
 ## Background
@@ -20,8 +22,11 @@ We conducted some initial discovery to determine which of these items make sense
 
 ## Findings
 ### Previous research
+
 ### Search behavior
 
 ### Navigation behavior
+
+### Content/IA
 
 ## Recommendations
