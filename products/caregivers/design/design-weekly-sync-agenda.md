@@ -1,5 +1,31 @@
 # Design Weekly Sync Agenda
 
+## 2023-06-19
+
+Attendees: DK, Jessica, Hieu, Katelyn, Kristen
+
+**Progress bar/stepper (Hieu)**
+
+Questions:
+
+- What does our research say about the bar/stepper? Is it needed?
+- Does this component still solve a problem Veteran has?
+- What's the opportunity to interact with it? Maybe it becomes navigation in the future?
+
+**CG business feedback (Katelyn)**
+
+- Talked through a few potential copy changes. Katelyn to share those with content folks ahead of time off.
+
+**Pittsburgh research call review (all)**
+
+- Follow up on benefits packet to see the content.
+- Cover roles in future call. Follow up on past call.
+- Watch magic wand scenios for thoughts on tension between HEC center and employees at centers.
+
+**Action items**
+
+- Hieu to connect with forms design team and explore different options.
+
 ## 2023-06-12
 
 Attendees: DK, Jessica, Hieu, Katelyn, Kristen, Alex
