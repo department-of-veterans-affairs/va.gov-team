@@ -24,17 +24,19 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**           
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] - Add error handling around BTSSS token call](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60468)
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create a sitewide intake ticket (resource page update) for adding travel pay information on the resource page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60079)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Monitor Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43631)
        - Pilot starts June 26       
 - **GOAL: Comply with the Authority to Operate (ATO)**
     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Reduce Fields Populated in LoROTA Entry Upon Creation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59984)**
         - Present findings to Stephen, Lori, & Anita
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
-    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**               - Pilot started July 10 with Asheville & Richmond
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create a sitewide intake ticket (resource page update) to update the image of the check-in poster](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60080) 
+    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**
+        - Pilot starts July 10 with Asheville & Richmond        
     - **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**   
-        - TBD
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add vets-api Module for Mobile App to Access new CHIP API Endpoints](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59899)
+        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Create a CHIP Endpoint to Initiate Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59894)
+        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Create a CHIP Endpoint to Update Demographic Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59895)
+        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Create a CHIP Endpoint to Perform Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59896)
     - **Sub Goal: [Send to Check-in when Pre-Check-in Link is Accessed Inside Check-in Window](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/46631)**
         - Present findings to Stephen, Lori, & Anita
     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
@@ -45,7 +47,37 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53651) 
 - **GOAL: Address tech & design debt**   
-   - TBD
+    - Add Facility Address to Appointment Information
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57708)
+       issues/57707)
+    - Too Early to Check In
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57810)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57811)
+    - Content
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add plain language statement to explain next of kin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59089)
+    - Needs Help Component
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] "Need Help" content audit and wireframe update](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46650) 
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Switch to need help component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58991)
+        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Ensure need help is using need help component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59166)
+    - Back to last screen
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] [Bug] Update Wireframes to say "Back to last screen" instead of "Back to appointments"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54001)
+    - Timezone
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] [Bug] Update Wireframes to remove timezone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54002)
+    - Phone Icon
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] [Bug] Update Wireframes to use the correct phone icon per Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53999)
+    - Resolution
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Change Resolution for Sketch Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45338)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Change Prototypes from Custom to Sketch Extra Small](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46326)
+    - Cancelled appointments
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] [PRE-CHECKIN] Update canceled appointment behavior & messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51866)
+    - Design System Collab
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Collaborate with the Design System Team to Get Them to Update their Documentation for Cards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47717)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Pull Information Together on Memorable Date Component Error Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46018)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Memorable date validation issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59018)
+    - Miscellaneous
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Document Process for Updating Release Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43673)
+          
 ---------------------- END FUTURE / TENTATIVE ------------------------
 __________________________________________________________________________________________________________________________________________________________
 
