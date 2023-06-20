@@ -54,7 +54,7 @@
 ### Overall process
 1. Describe your "registration" process.
     - A Veteran is never going to come in and say “hey, I need to register for care” rather than enroll. That’s not language that’s valuable to the Veteran. They say they want to get healthcare. They tell us their story, we get all their information, and then we know whether they’re eligible to enroll. For example, an 8E (priority group)  would not be eligible. Veterans don’t know or care about the difference.
-    - There’s 8 priority groups and priority 8 has subgroups. An 8E has 0% service connection. They can be treated for that service-connection only. They would be registered, but not enrolled.
+    - There’s 8 priority groups and priority 8 has subgroups. An 8E has 0% disability with a service connection. They can be treated for that service-connection only. They would be registered, but not enrolled.
     - **DK:** When this Veteran gets registered, do you explain this to the Veteran?
         - Absolutely. They would still get a PCP, and let’s be honest. They’ll check in on that specific condition (they can’t be referred to another area for something unrelated). But they’ll probably still do a full physical/analysis of symptoms. They just can’t receive care for anything else.
 2. After you register a Veteran, what do you and/or what does the Veteran need to do next? (what are the next steps? Welcome packet example)
