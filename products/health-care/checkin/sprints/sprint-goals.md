@@ -41,6 +41,7 @@ ________________________________________________________________________________
         - Present findings to Stephen, Lori, & Anita
     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56702)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] Update alerts in check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59126)
     - **Sub Goal: [Address 508 Audit Issues ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59304)**
         - TBD
      - **Sub Goal: Analyze current metrics to see what they tell us**
@@ -56,25 +57,14 @@ ________________________________________________________________________________
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57811)
     - Content
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add plain language statement to explain next of kin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59089)
-    - Needs Help Component
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] "Need Help" content audit and wireframe update](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46650) 
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Switch to need help component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58991)
+    - Needs Help Component        
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Ensure need help is using need help component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59166)
     - Back to last screen
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] [Bug] Update Wireframes to say "Back to last screen" instead of "Back to appointments"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54001)
     - Timezone
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] [Bug] Update Wireframes to remove timezone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54002)
-    - Phone Icon
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] [Bug] Update Wireframes to use the correct phone icon per Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53999)
-    - Resolution
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Change Resolution for Sketch Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45338)
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Change Prototypes from Custom to Sketch Extra Small](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46326)
     - Cancelled appointments
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] [PRE-CHECKIN] Update canceled appointment behavior & messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51866)
-    - Design System Collab
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Collaborate with the Design System Team to Get Them to Update their Documentation for Cards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47717)
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Pull Information Together on Memorable Date Component Error Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46018)
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Memorable date validation issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59018)
     - Miscellaneous
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Document Process for Updating Release Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43673)
           
