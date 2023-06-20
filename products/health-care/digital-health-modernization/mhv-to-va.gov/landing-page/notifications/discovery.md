@@ -24,12 +24,18 @@ June 14, 2023
 - Next notification that My VA will be working on: RX shipment tracking; waiting on VA Notify and VEText to be available to do aforementioned engineering work to make this possible
 - In the meantime, the team is focusing on designing an MVP for Notification Center
 
+## My VA's notification design
+- Notifications show as a card in the Notifications section of My VA, which lives at the top of the screen, above other My VA headings
+- In this Notifications area of My VA, a maximum of 3 notifications will be shown at any given time
+- To see more new Notifications (more than just the 3) or older notifications, users can click the link in the Notification area of My VA to get to the Notification Center (Authenticated Experience team is hoping this does not live under My VA umbrella)
+- In Notification Center, notifications stay forever unless they are dismissed by the user
+
 ## Questions for My VA team
 - How did you de-dupe new debt notifications?
 - Are you planning to show all notifications not only in the notification center, but also on the My VA page?
 - How did you decide on designs for notifications in My VA (using a card instead of a badge, for example?)
 
-## Questions for Flagship Mobile app team
+## Q&A with Flagship Mobile app team
 - Besides **Push notifications**, **badge** on the Health landing page (next to Messages): Are there any other notifications for a secure message?
    - Notifications     
        - Native mobile push notification when there is a new message
