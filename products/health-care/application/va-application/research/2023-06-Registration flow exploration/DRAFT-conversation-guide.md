@@ -1,4 +1,4 @@
-# Conversation Guide for "registration only" mental model hypothesis flow study [Health Enrollment Team, 10-10EZ, June 2023][Cohorts 2 and 3]
+# Conversation Guide for health care application mental model study around eligibility/financial information and updates/copays [Health Enrollment Team, 10-10EZ, June 2023]
 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -78,23 +78,27 @@ Let’s start with a few warm-up questions.
 ## Second Topic: [Getting Benefits/Eligibility] - 10 minutes
 
 - How did you determine what health benefits you could get when you recently applied or were seen for care?
-- Did anyone help you figure out what you qualify for and what your benefits included?
 - What resources do you use to understand what you might qualify for?
 - Did you want to only get care for one specific health concern, or were you interested in getting full health care coverage?
 - Looking back now after you have been using health care benefits, is there anything you wish you would have known during the application?
+- Do you know what Priority Group you are in for your health care benefits?
 
 ### Things to watch for:
 - [How does the Veteran descirbe the process of figuring out what they are eligble for - are they frustrated, do they find it easy, do they just expect the VA to have the data and figure it out for them?]
-- [Is there a mix or preference for wanting to be told what they get or search it out on their own?]
 - [Is there any confusion about their benefits within the health care benefits they recieve?]
-- [Do they know and mention their Priority Group during these questions?]
+- [Do they know confidently know their Priority Group and what that means to them and their benefits?]
 
 
 
 ## Third Topic: [Financial Updates and Copays] - 10 minutes
 
-
-
+- Can you recall the process of having to answer financial or household information - like questions about your spouse and dependents - whey you completed your initial application?
+- Did anything stand out to you?
+- Looking back post-appliation, can you explain your impression of how your answers submitted around financials inpacted your benefits?
+- Have you had to provide updated information since you have been enrolled, like changes in income or adding dependents? If so, can you tell me more about how this process went for you.
+- How would you like to go about providing various updates that could impact your health care benefits?
+- If you have copays, when during the enrollment process were you clear on what you qualified for and what you would have to pay? 
+- In a perfect world, how would you like to discover what copays you may have. 
 
 
 ## Fourth Topic: [Ideal State] - 10 minutes
