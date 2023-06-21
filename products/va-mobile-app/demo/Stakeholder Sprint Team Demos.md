@@ -10,7 +10,8 @@ Agenda
   -  Documenting current state analytics: log-in success/failure (Greta)
   -  In-app recruiting flow (Holly)
 
-- Slides - 
+- Slides - [Sprint 73 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11823718/Sprint.73.-.VA.Mobile.App.Demo.Slides.pdf)
+
 - Video - 
 
 
