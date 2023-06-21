@@ -1,4 +1,4 @@
-# CHIP Authenticated Check-In API Design Document
+# WIP CHIP Authenticated Check-In API Design Document
 
 ## Introduction
 This document outlines the design and specifications for the Authenticated Check-In API. The purpose of this API is to allow users to check into appointments. This document covers the API's endpoints, request and response formats, authentication and authorization mechanisms, and any additional considerations.
@@ -7,7 +7,7 @@ This document outlines the design and specifications for the Authenticated Check
 The base URL for accessing the API is: `/#{base_path}/actions`
 
 ## Authentication
-The API uses OAuth 2.0 for authentication and requires client credentials to obtain an access token. Clients must include the access token in the `Authorization` header for each request. The API supports the following grant types: [list the supported grant types].
+The API uses OAuth 2.0 for authentication and requires client credentials to obtain an access token. Clients must include the access token in the `Authorization` header for each request. The API supports the following grant types: Authorization Code or Client Credentials.
 
 ## Endpoints
 
@@ -141,4 +141,4 @@ The API follows standard HTTP status codes for indicating the success or failure
 The API uses OAuth 2.0 for authentication. The access token must be included in the `Authorization` header for each request. Additionally, the API compares the provided `patientDFN` in the request with the patientDFN in the authentication token to ensure authorization for checking into the appointment.
 
 ## Conclusion
-This API design document provides an overview of the endpoints for checking the eligibility of appointments for E-Check-In and checking into appointments in the [API Name] API. It serves as a reference for developers to understand how to interact with the API and implement client applications accordingly.
+This API design document provides an overview of the endpoints for checking the eligibility of appointments for E-Check-In and checking into appointments in the Full Auth Check-In API. It serves as a reference for developers to understand how to interact with the API and implement client applications accordingly.
