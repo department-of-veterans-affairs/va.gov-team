@@ -25,7 +25,9 @@ Here is the current production support guidance for Check-in Experience team:
     - Anomalous data (any counts lower than expected, or response measurements higher than normal)
     - Anomalies in stats or error traces 
 - Monitor your VA email for notifications for the VAeCheckinVetFacingApps email group
-    - If notified by email of new support tickets in SNOW, investigate the tickets to resolution in our [SNOW Queue for Assignment Group 'eCheckInVetFacingApps'](https://yourit.va.gov/now/nav/ui/classic/params/target/task_list.do%3Fsysparm_view%3Dcatalog%26sysparm_first_row%3D1%26sysparm_query%3Dassignment_group%253D9c50fbc51b4f8d5065965318624bcbbf%255Eactive%253Dtrue%255Estate!%253D6%26sysparm_clear_stack%3Dtrue)
+    - If notified by email of a new support ticket in our [SNOW Queue for Assignment Group 'eCheckInVetFacingApps'], investigate the ticket to determine if a fix is needed and how critical the issue is (https://yourit.va.gov/now/nav/ui/classic/params/target/task_list.do%3Fsysparm_view%3Dcatalog%26sysparm_first_row%3D1%26sysparm_query%3Dassignment_group%253D9c50fbc51b4f8d5065965318624bcbbf%255Eactive%253Dtrue%255Estate!%253D6%26sysparm_clear_stack%3Dtrue)
+    - If, after investigation, it is determined that the incident needs a fix, create a ticket in our GitHub board using this [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/check-in-experience-snow-ticket.md) and follow the instructions in the template
+    - Once the fix is in production, follow the instructions in the GitHub template and set the SNOW ticket to Resolved
 
 ### Other Links
 
