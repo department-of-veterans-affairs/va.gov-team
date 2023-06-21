@@ -4,16 +4,39 @@
 ### Participants: Rakshinda, Austin, Shannon
 ### Topics Covered:
 - Catch-up / updates from the last 2 weeks
-- Collaboration between teams
-  -  What's working and what isn't
-  -  How to improve collaboration  
 - Issue Management Strategy
   - How's it been working so far
      - Particiaption by each team for pairing
      - Bug Board
      - Process
+    - Good collaboration between deisgn and dev team feedback from Team 2
+    - Lack or clarity and tools to troubleshoot on Team 2
+    - Seeing some challenges in pairing with Team 2 - Team 1
+    - Feedback session on process
+    - Need to get back to Contact center on the process
+      - Encrypted emails are not readable outside GFE
+    - Action item - daily stand-up for issue management
+       - Include Shannon/Steve while Matt is out
+    - Issue with claims getting lost due to downstream validation issues or other reason - Steve A
+       -  Kyle, Sam, Steve,
+       -  Need to get it on the Zenhub board for prioritization
+      
+- Collaboration between teams
+  -  What's working and what isn't
+  -  How to improve collaboration
+     - Eng collab - Thomas to reach out to Anneliese
+     - product sync - twice a week to begin with
+       
+  -  Analytics  
+    - Meeting this week for
+    - New pulls for analytics - Shannon / Steve / Austin /
+       
 - Roadmap
-  - Updates by Team Carbs 
+  - Review updates by Team Carbs with Austin on another sync
+- PTO Coverage for design team over the summer
+- eVSS migration status - Steve
+
+Action item - find more time this week to go over the rest of the items
 
 ### Date: June 14 2023
 ### Topics Covered:
