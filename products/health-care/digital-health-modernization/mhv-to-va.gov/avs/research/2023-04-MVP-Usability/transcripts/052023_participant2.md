@@ -113,8 +113,9 @@ Now, I would like you to focus on the “Your appointment on June 6th, 202 secti
 5.	**Moderator:** If you could provide a definition of the information that is included within the “You were diagnosed with” section, how would you define that information?
 
 7.	**Participant:** iI would define this as look what i was the results were from the last vist was....
-8.	
-    -	[**Moderator Note:** If the participant doesn't correctly describe the content's purpose, then ask:]
+   
+    -	**Moderator Note:** If the participant doesn't correctly describe the content's purpose, then ask:
+      
     -	**Moderator:** What if the title of the section was “Health conditions you discussed?” How would you define this section then? How valuable or not valuable do you           find this section? Why?
     
     -	**Participant:** the second option...becauses it is more specific ...
@@ -212,7 +213,7 @@ Now, I would like you to focus on the “Your Treatment Plan from this appointme
 **Participant:** I would refressh to add appointments that havent updated..... yes the appointnets that have offucred in past but havent been uploaded.
 
 ## Task 7: Insights into Notifications – 7 minutes
-Okay, so we will move on from this prototype to another topic. We’re going to talk about notifications that you might want to receive about your After-visit summaries. Pretend that you received the following message:
+**Moderator:** Okay, so we will move on from this prototype to another topic. We’re going to talk about notifications that you might want to receive about your After-visit summaries. Pretend that you received the following message:
 
    **Subject:** New After-visit Summary
    
