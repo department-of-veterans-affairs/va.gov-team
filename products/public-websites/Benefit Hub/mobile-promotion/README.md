@@ -6,7 +6,7 @@ Currently there is limited marketing of the VA.gov mobile app from within the be
 ---
 
 ## Outcome Summary
-Increase the download/use/adoption of the VA.gov mobile app.
+Increase the download/use/adoption of the VA.gov mobile app
 
 **Related/Associated product(s)**
 - [Benefit hub product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Benefit%20Hub)
@@ -79,6 +79,9 @@ MVP will be to:
 * Use Apple's Smart App Banners only, because this is COTS OOB behavior requiring no design and leveraging existing user-expected patterns.
 * Create a means by which we specify the specific URLs app promotion happens
 * Place the Smart banner on the following pages mapped to the following functions. (Note, we cannot deep-link into the App at this time)
+* The VA.gove Flagship mobile app-id is 1559609596
+* We will **not** include deep, navigational linking parameters (app-argument) in MVP as the Flagship Mobile App does not currrently support this function.
+* We will **not** include campaign linking at this time due to limited Apple documentation for campaigns and smart banners.
 
 | Category | App Function | VA.gov URL | 
 | ------ | ------ | ----- |
@@ -95,6 +98,7 @@ MVP will be to:
 
 #### Go-to-market 
 This is (part of) the marketing strategy for mobile. Rolling out to Apple users first due to OOB patterns and analytics.
+The VA.gove Flagship mobile app id is 1559609596
 
 --- 
 
