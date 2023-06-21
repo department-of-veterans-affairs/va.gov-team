@@ -38,27 +38,31 @@ Increase the download/use/adoption of the VA.gov mobile app.
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
+[Mobile Analytics dashboard](https://lookerstudio.google.com/u/0/reporting/e28cd59a-b2e5-4f29-8ae4-a4eea6d23f9c/page/p_5xc9k8cs5c)
+
+
 ### MVP KPI measurements
-| Product KPI | Baseline **MONTH, YEAR** | Target | [Link to data source](https://lookerstudio.google.com/u/0/reporting/92cadc84-b31f-4a7a-9be9-6a0c3fe7d572/page/p_5xc9k8cs5c) | 
+| Product KPI | Baseline **MONTH, YEAR** | Target | Link to data source | 
 | ----- | ----- | ----- | ----- |
-| Downloads of VA.gov iOS Mobile App (aggregate) | ----- | ----- | ----- | ----- |
-| iOS use of VA.gov product landing pages | ----- | ----- | ----- | ----- |
-| Increased iOS App engagement with Refill and track your VA prescriptions function (vama_rx_trackingtab) | ----- | ----- | ----- | ----- |
-| Increased iOS App engagement with Send and receive secure messages from your VA health care team (Secure Messages Sent) | ----- | ----- | ----- | ----- |
-| Increased iOS App engagement with Get your records for VA vaccines, such as COVID-19 (Vaccine Detail Views) | ----- | ----- | ----- | ----- |
-| Increased iOS App engagement with Submit evidence for your claim or appeal (Claim Document Uploads Started) | ----- | ----- | ----- | ----- |
-| Increased iOS App engagement with Download common VA letters (Letter Downloads) | ----- | ----- | ----- | ----- |
-| Increased iOS App engagement with Update your direct deposit information (Veteran Direct Deposit Updates) | ----- | ----- | ----- | ----- |
+| Downloads of VA.gov iOS Mobile App (aggregate) | ----- | ----- | Mobile Analytics Dashboard App stores data | 
+| iOS use of VA.gov product landing pages | ----- | ----- | Google Analytics | 
+| Increased iOS App engagement with Refill and track your VA prescriptions function |  ----- | ----- | Mobile Analytics Dashboard - By feature: "Prescriptions"; App Events: "Prescriptions tracking tab viewed", "Rx refills succeeded", "Prescriptions pending tab viewed" |
+| Increased iOS App engagement with Send and receive secure messages from your VA health care team (Secure Messages Sent) |  ----- | ----- | Mobile Analytics Dashboard - By feature: "Secure messaging"; App Event: "SM sent", "SM drafts saved" |
+| Increased iOS App engagement with Get your records for VA vaccines, such as COVID-19 (Vaccine Detail Views) |  ----- | ----- | Mobile Analytics Dashboard - By feature: ???; App Event: "Vaccine details opened" |
+| Increased iOS App engagement with Submit evidence for your claim or appeal (Claim Document Uploads Started) |  ----- | ----- | Mobile Analytics Dashboard - By feature: "Claims"; App Event: "Evidence uploads started" (may consider including "Evidence uploads succeeded" and "evidence uploads failed" but this seems more like an iOS app problem than related to this initiative |
+| Increased iOS App engagement with Download common VA letters (Letter Downloads) |  ----- | ----- | Mobile Analytics Dashboard - By feature: "Letters"; App Event: "Clicked "Get claim letter" download button" (may consider "Successfully downloaded letter" but this seems like an iOS app problem than whether the funnel is routing people) |
+| Increased iOS App engagement with Update your direct deposit information (Veteran Direct Deposit Updates) |  ----- | ----- | Mobile Analytics Dashboard - By feature: "Direct deposit"; App Event: "Direct deposits updated" (note this is tracked twice in the dashboard as of 6/21) |
+| Increased iOS App engagement with Check your disability rating |  ----- | ----- | Mobile Analytics Dashboard - By feature: "Disability rating" |
+| Increased iOS App engagement with Review your claim or appeal status |  ----- | ----- | Mobile Analytics Dashboard - By feature: "Claims"; App Event: "Claim details op[ened for claims in step 3" (confirm with Mobile team) |
+| Increased iOS App engagement with Review payments we’ve sent you |  ----- | ----- | Mobile Analytics Dashboard - By feature: "Payment history";  |
 
 ### Possible additional KPIs/tracking
 This data is not currently tracked (as of May 2023). As a result it may not specifically be MVP but fast-follow as the above measurements can provide indicators of success whereas some of these measures can provide definitive success metrics.
 | Product KPI | Baseline **MONTH, YEAR** | Target | Link to data source (e.g. GA, Domo) | 
 | ----- | ----- | ----- | ----- |
-| Downloads of VA.gov Mobile App via SmartApp banner (**NEED Ability to measure or Remove from MVP**) | N/A | ----- | ----- | ----- |
-| Use of VA.gov app instead of VA.gov web via SmartApp banner (**NEED Ability to measure or Remove from MVP**) | N/A | ----- | ----- | ----- |
-| Increased iOS App engagement with Check your disability rating (**NEED VARIABLE or Remove from MVP**) | ----- | ----- | ----- | ----- |
-| Increased iOS App engagement with Review your claim or appeal status (**NEED VARIABLE or Remove from MVP**) | ----- | ----- | ----- | ----- |
-| Increased iOS App engagement with Review payments we’ve sent you (**NEED VARIABLE or Remove from MVP**) | ----- | ----- | ----- | ----- |
+| Downloads of VA.gov Mobile App via SmartApp banner (**NEED Ability to measure or Remove from MVP**) | N/A | ----- | ----- | This information should be available in the Apple App Store analytics |
+| Use of VA.gov app instead of VA.gov web via SmartApp banner (**NEED Ability to measure or Remove from MVP**) | N/A | ----- | ----- | This information should be available in the Apple App Store analytics |
+
 
 ---
 
