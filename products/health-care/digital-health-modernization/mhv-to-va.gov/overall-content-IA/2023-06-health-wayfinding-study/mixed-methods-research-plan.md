@@ -79,7 +79,7 @@ Primary criteria (must-haves)
 **Desired sample**
 15 frequent users of MHV
 15 infrequent users of MHV
-Age and education level range throughout, but ideally include at least 10 participants older than 55 and 10 participants with a high school diploma as their terminal degree
+Age and education level range throughout, but ideally include at least 15 participants older than 55 and 12 participants with a some college or less as their terminal degree
 
 ### Screener questions
 
