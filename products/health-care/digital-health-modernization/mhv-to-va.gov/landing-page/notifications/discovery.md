@@ -24,7 +24,7 @@ June 2023
 - Next notification that My VA will be working on: RX shipment tracking; waiting on VA Notify and VEText to be available to do aforementioned engineering work to make this possible
 - In the meantime, the team is focusing on designing an MVP for Notification Center
 
-## My VA's notification design
+### My VA's notification design
 - Notifications show as a card in the Notifications section of My VA, which lives at the top of the screen, above other My VA headings
 - In this Notifications area of My VA, a maximum of 3 notifications will be shown at any given time
 - To see more new Notifications (more than just the 3) or older notifications, users can click the link in the Notification area of My VA to get to the Notification Center (Authenticated Experience team is hoping this does not live under My VA umbrella)
