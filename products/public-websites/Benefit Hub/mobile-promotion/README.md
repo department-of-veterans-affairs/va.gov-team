@@ -71,7 +71,7 @@ This data is not currently tracked (as of May 2023). As a result it may not spec
 - Mobile app does not have 100% parity with VA.gov website and that's OK. This UX feature will only appear on tool landing pages that have parity.
 - Cannibalizing mobile web traffic to mobile app use is a good thing.
 - Only targeting Apple/iOS/Safari users is sufficient for proof-of-concept and learnings are transferrable to Android device user behavior.
-- We can use the out-of-the-box design behavior from Apple for POC and there will not be accessibility problems.
+- We can use the out-of-the-box design behavior from Apple for POC and there will not be accessibility problems. (**Mitigated** - This was confirmed by accessibility expert review of "in the wild" functions of Apple Smart Banners in May 2023)
 
 ### What're you building
 
