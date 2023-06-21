@@ -3,8 +3,8 @@
 - This repository contains information about the team's history and current activity
 
 ## Landing Page/Home Team
-### Current as of 3/8/2023
-- Leila Rassi - Product Owner
+### Current as of 6/21/2023
+- Patrick Bateman - Product Owner
 - Lauren Alexanderson - Sponsor
 - Coulton Bunney - OCTO Design Lead
 - Ryan Thurlwell - OCTO Design Lead
@@ -14,11 +14,16 @@
 - Mark Dewey - OCTO Engineer
 - Stephen Barrs - OCTO Engineer
 - Sara Smith - 508 Accessibility Specialist [Oddball]
-- Marci McGuire - Product Manager [Ad Hoc]
-- Daniel Cloud - Engineering Lead [Ad Hoc]
-- Eric Voshall - Engineering [Ad Hoc]
-- Jonathan Nelson - Design Lead [Ad Hoc]
-- Robyn Singleton - Research Lead [Ad Hoc]
+- Lynne Johnson - Delivery Manager
+- Tom Anderson - Product Manager
+- Cara Frissell - Research Lead
+- Florence McCafferty - Design Lead
+- Jonathan Nelson - Designer
+- Keith Cheung - Designer
+- Carlos Felix - Technical Architect
+- Eric Voshall - Full stack Developer
+- Richard Davis - Full stack Developer
+- Angela Fowler - Accessibilty Specialist
 
 ## Projects
 - [MyHealtheVet to VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/)
