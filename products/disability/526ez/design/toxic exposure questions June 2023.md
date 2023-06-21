@@ -1,4 +1,4 @@
-##Are you claiming any disabilities related to toxic exposures? 
+## Are you claiming any disabilities related to toxic exposures? 
 
 [ ] Yes
 [ ] No
@@ -6,7 +6,8 @@ Note: You can see a list of what burn pit and other toxic exposure conditions we
 
 
 
-##Did you serve in any of the following Gulf War Hazard Locations? 
+## Did you serve in any of the following Gulf War Hazard Locations? 
+
 Iraq 
 Kuwait 
 Saudi Arabia 
@@ -33,6 +34,7 @@ the Arabian Sea
 the Red Sea
 [ ] Yes
 [ ] No
+
 If so, when did you serve in these locations? Please provide an approximate time frame. 
 From
 Month Year
@@ -41,7 +43,8 @@ Month Year
 
 
 
-##Did you serve in any of the following herbicide (e.g., Agent Orange) locations?
+## Did you serve in any of the following herbicide (e.g., Agent Orange) locations?
+
 Republic of Vietnam to include the 12 nautical mile territorial waters
 Thailand at any United States or Royal Thai base
 Laos
@@ -53,8 +56,10 @@ Johnston Atoll or a ship that called at Johnston Atoll Korean demilitarized zone
 aboard (to include repeated operations and maintenance with) a C-123 aircraft known to have been used to spray an herbicide agent (during service in the Air Force and Air Force Reserves)
 [ ] Yes
 [ ] No
+
 Please list other location(s) where you served, if not listed above:
 [                                      ] 
+
 If so, when did you serve in these locations? Please provide an approximate time frame. 
 From
 Month Year
@@ -63,7 +68,7 @@ Month Year
 
 
 
-##Have you been exposed to any of the following? (Check all that apply)
+## Have you been exposed to any of the following? (Check all that apply)
 [ ] Asbestos
 [ ] Shad (Shipboard Hazard and Defense) 
 [ ] Military Occupational Specialty (MOS)-related toxin 
@@ -72,6 +77,7 @@ Month Year
 [ ] Radiation
 [ ] Other (Please specify)
 [                                      ] 
+
 When were you exposed? Please provide an approximate time-frame 
 From
 Month Year
@@ -80,12 +86,14 @@ Month Year
 
 
 
-##If you were exposed multiple times, please provide all additional dates and locations of potential exposure:
+## If you were exposed multiple times, please provide all additional dates and locations of potential exposure:
+
 [                                      ] 
 
 
 
-##[Condition name]
+## [Condition name]
+
 How is your disability connected to your service? (*Required)
 [ ] My disability was caused by an injury or exposure during my military service. [option 1]
 [ ] My disability was caused by another disability I’m already receiving benefits for. (For example, I have a limp that caused lower-back problems.) [option 2, displays only if have rated disabilities]
@@ -94,14 +102,16 @@ How is your disability connected to your service? (*Required)
 
 
 
-##[If option 1]
+## [If option 1]
+
 [Condition name]
 Please briefly describe the injury or exposure that caused your disability. 
 For example, I operated loud machinery while in the service and this caused me to lose my hearing, or I served in the Vietnam War and was exposed to Agent Orange. (400 characters maximum)(*Required)
 [                                      ] 
 
 
-##[if option 2]
+## [if option 2]
+
 [Condition name]
 
 Please choose the disability that caused the new disability you’re claiming now. (*Required) 
@@ -112,7 +122,8 @@ For example, my head injury is now causing headaches.
 [                                      ] 
 
 
-##[if option 3]
+## [if option 3]
+
 [Condition name]
 
 Please briefly describe the injury or exposure during your military service that caused your existing disability to get worse. (50 characters maximum)(*Required)
@@ -124,7 +135,8 @@ For example, my asthma used to bother me only when I was running, and now it aff
 [                                      ] 
 
 
-##[if option 4]
+## [if option 4]
+
 [Condition name]
 
 Please briefly describe the injury or event while you were under VA care that caused your disability. (350 characters maximum)(*Required)
@@ -139,17 +151,25 @@ Please tell us when this happened. If you’re having trouble remembering the ex
 
 
 
-##Supporting evidence
+## Supporting evidence
+
 On the next few screens, we’ll ask you about supporting documents like medical records related to your disabilities or conditions.
+
 We strongly encourage you to submit documentation with your claim to help us understand:
-how your condition is connected to your service (unless we already consider your condition to be connected to burn pits or other toxic exposure)
-the nature and symptoms of the conditions, including severity and duration of the symptoms
-how the condition impacts you and your ability to work.
+- how your condition is connected to your service (unless we already consider your condition to be connected to burn pits or other toxic exposure)
+- the nature and symptoms of the conditions, including severity and duration of the symptoms
+- how the condition impacts you and your ability to work.
 
 If we previously granted you benefits and your disability has worsened, we need documentation that shows the increase in severity and the effect that has had on you and your ability to work.
+
 You only need to submit new documentation that VA doesn’t already have. 
+
 We’ll already have documents from all claims you’ve filed in the past, for example service treatment records and DD214. If your service is or was in National Guard or Reserves, we may not have your service treatment records.
+
 We'll always review relevant medical records from VA medical centers. You can provide information about where you’ve been treated to help us locate these records and make decisions on your claim.
+
 We’ll also review records from other non-VA doctors or hospitals that you identify and authorize us to. We can try to obtain these records for you, or you can obtain and upload these records yourself.
+
 You can also upload supporting statements from family or friends that could tell us more about how your disability impacts your day-to-day life and your ability to work.
+
 Note: We may ask you to complete an exam if you don’t submit evidence or if we need more information to decide your claim.
