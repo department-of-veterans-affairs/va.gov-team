@@ -40,10 +40,10 @@
 [ ] No
 
 If so, when did you serve in these locations? Please provide an approximate time frame. 
-From
-Month Year
-To 
-Month Year
+
+From Month Year
+
+To Month Year
 
 
 
@@ -66,10 +66,10 @@ Please list other location(s) where you served, if not listed above:
 [                                      ] 
 
 If so, when did you serve in these locations? Please provide an approximate time frame. 
-From
-Month Year
-To 
-Month Year
+
+From Month Year
+
+To Month Year
 
 
 
@@ -90,10 +90,10 @@ Month Year
 [                                      ] 
 
 When were you exposed? Please provide an approximate time-frame 
-From
-Month Year
-To 
-Month Year
+
+From Month Year
+
+To Month Year
 
 
 
