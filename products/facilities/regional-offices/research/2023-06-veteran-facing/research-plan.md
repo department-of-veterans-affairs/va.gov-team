@@ -173,5 +173,5 @@ Please list the people who will be serving in each role.
 - Observers: Alexis Logsdon (alexis.logsdon@a1msolutions.com), Jordan Wood (jordan.wood@civicactions.com), Michelle Middaugh (suzanne.middaugh@va.gov), Kamari Patrick (kamari@cityfriends.tech), Dave Pickett (dave.pickett@civicactions.com). Observers will need to sign up so we can limit the number of observers per session.
 
 ## Approvals
-- Michelle Middaugh or Dave Conlon (PO) on TBD
-- Shane Strassberg or other VA representative on TBD
+- Michelle Middaugh (PO) on TBD
+- VA Research Ops on TBD
