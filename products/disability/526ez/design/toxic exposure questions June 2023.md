@@ -4,7 +4,7 @@
 
 [ ] No
 
-Note: You can see a list of what burn pit and other toxic exposure conditions we now consider to be connected to your service. If you filed a claim related to these in the past and were denied, you’ll need to submit a Supplemental Claim instead. If you’re filing a new claim related to these, you’ll only need to provide information that helps us understand your condition and how it impacts you and your ability to work.
+**Note:** You can see a list of what burn pit and other toxic exposure conditions we now consider to be connected to your service. If you filed a claim related to these in the past and were denied, you’ll need to submit a Supplemental Claim instead. If you’re filing a new claim related to these, you’ll only need to provide information that helps us understand your condition and how it impacts you and your ability to work.
 
 
 
@@ -157,14 +157,14 @@ Please tell us when this happened. If you’re having trouble remembering the ex
 
 On the next few screens, we’ll ask you about supporting documents like medical records related to your disabilities or conditions.
 
-We strongly encourage you to submit documentation with your claim to help us understand:
+**We strongly encourage you to submit documentation with your claim to help us understand:**
 - how your condition is connected to your service (unless we already consider your condition to be connected to burn pits or other toxic exposure)
 - the nature and symptoms of the conditions, including severity and duration of the symptoms
 - how the condition impacts you and your ability to work.
 
 If we previously granted you benefits and your disability has worsened, we need documentation that shows the increase in severity and the effect that has had on you and your ability to work.
 
-You only need to submit new documentation that VA doesn’t already have. 
+**You only need to submit new documentation that VA doesn’t already have.** 
 
 We’ll already have documents from all claims you’ve filed in the past, for example service treatment records and DD214. If your service is or was in National Guard or Reserves, we may not have your service treatment records.
 
