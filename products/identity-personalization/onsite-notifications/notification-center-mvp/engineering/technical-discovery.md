@@ -126,3 +126,11 @@ One ticket - 5 -- [#60454](https://github.com/department-of-veterans-affairs/va.
 - [ ] (BE) Add support to include dismissed notifications when given a flag (e.g., `GET v0/onsite_notifications?dismissed=true`)
 - [ ] (BE) Add pagination support to the `v0/onsite_notifications` endpoint
 - [ ] (BE) Update the Swagger [docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/my_va/listOnsiteNotification) with information on how to paginate
+
+**Ticket Summary**
+|**Task**| **Points**|**Ticket**|
+|----|-----|-----|
+| Feature flag and global flag | | Included as a task of [#60454](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60454)https://github.com/department-of-veterans-affairs/va.gov-team/issues/60454|
+| Add support to include dismissed notifications when given a flag (e.g., `GET v0/onsite_notifications?dismissed=true`)| 5 | [#60454](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60454)|
+| - Add pagination support to the `v0/onsite_notifications` endpoint
+  <br/><br/>- Update the Swagger [docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/my_va/listOnsiteNotification) with information on how to paginate| | [#60639](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60639) |
