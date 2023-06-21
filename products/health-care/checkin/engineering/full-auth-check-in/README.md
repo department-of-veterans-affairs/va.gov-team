@@ -189,3 +189,16 @@ The proposed sequence above outlines four new vets-api endpoints.
 - get the patient DFN for the given station number. [slack ref.](https://dsva.slack.com/archives/CMNQT72LX/p1686071593550999?thread_ts=1685982069.819559&cid=CMNQT72LX)
     - avoid the staff apps endpoint, look for ways in vets-api to do this that already exist.
 - the mobile team will also need a list of appointment IENs. Those are being added to the VAOS payload now. [slack ref.](https://dsva.slack.com/archives/C023EFZPX4K/p1685985637341189?thread_ts=1685639670.578339&cid=C023EFZPX4K)
+
+## CHIP design options
+### Minimal endpoints with heaver logic and actions within
+This would be 3 endpoints.
+1. InitiateMobileCheckIn, looks up demographic/insurance status: could return a status with data object. The statuses would be `needs-insurance`, `needs-demographics`, or `no-updates`. If status is `needs-demographics` the data object would contain the demographics payload. The other responces would have an empty object. On this chip side we would fetch the demographic statuses and payload if needed. We would also set eCheckInStarted for the appointment.
+2. UpdateDemographicStatuses, patches demographics. Would return success/fail. This endpoint could potentially be rolled into the next endpoint.
+3. CompleteMobileCheckIn, this would perform the actual check-in and set eCheckInComplete. If we are enforcing business logic, this endpoint would also fetch demographic statuses and the appointment from vista to ensure elligability. Would return a success, elligablity validation error, or server error.
+
+### More restful option
+This would have several endpoints around demographics and checking-in
+1. GET /demographics would always return the statuses and demographics payload
+2. POST /demographics would patch the demographic statuses
+3. 
