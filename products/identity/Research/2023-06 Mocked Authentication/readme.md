@@ -16,8 +16,8 @@ The goals of this research are to
 
 | Stage | Dates |
 | --- | ---|
-| Planning | - |
-| Recrtuiting | - |
-| Pilot | - |
-| Sessions | - |
-| Analysis | - |
+| Planning | June |
+| Recrtuiting | June |
+| Pilot | TBD |
+| Sessions | TBD |
+| Analysis | TBD |
