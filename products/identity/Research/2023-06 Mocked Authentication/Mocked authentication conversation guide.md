@@ -22,8 +22,13 @@
 - [WAIT FOR RESPONSE - if can’t hear, troubleshoot; otherwise…]
 - Great! I’m [YOUR NAME] and I’m a researcher on the Core Identity Team
 - I also have [NOTE TAKER NAME] here today, who I’ll now ask to introduce themself.
+
 [PAUSE FOR NOTE TAKER to introduce themself]
+
 - Would you like to give a quick introduction of yourself?
+
+[PAUSE FOR Participant to introduce themself]
+
 - Nice to meet you! I’ll first give some overview information about what we're doing today.
    - The subject of our research today is the Mocked Authentication product.
    - We want to hear your honest opinions. We will not be offended by any opinions you express, and I welcome your candid feedback.
@@ -42,19 +47,27 @@
 ## Questions: Mock Auth for devs | 5 minutes
 
 - I’d like to start with a few questions to get to know how you work and how mocked authentication might fit into your workflow.
-- What products or features have you recently worked on?
+- What products or features have you recently worked on in the VA?
    - [REFER BACK TO THIS LATER]
-- Do you generally work in a local environment or in the dev.va.gov?
-- When you are working on code for a [PRODUCT] and want to check that what you just did is working correctly, what do you do?
-   - e.g. Where do you go? What steps do you take?
-- How well does that solution fit into your workflow?
-   - What pain points do you have with that?
-   - What works well?
-- If you could create your own process for being able to “fake sign in” to the VA, what are some things that would be important for you to include?
-- Thinking about tools that you generally use when coding or working, what is your normal way to get to them?
-   - [PROMT] like do you save bookmarks? Keep tabs open?
-- How do you learn about tools that you can use for your work at the VA?
+- What environments do you normally work through?
+   - [LISTEN FOR local environment, dev.va.gov]
+- How do you test that the changes you made are working as intended?
+   - [PROMPT] Where do you go? What steps do you take?
+- When testing do you ever simulate authentication into VA?
+   - Can you tell me about that? No need to get into the technical details.
+      - [PROMPT] Do you generate your own mocked credentials every time you need them?
+   - What pain points do you have with that process?
+   - How much time would you say that you normally spend on simulated authentication?
+      - In an average sprint? On a standard project?
+- If you could create your own process to simulate sign in to the VA that you could use to check your code, what would you be sure to include?
+   - Is there an account type you normally use (LIG, IDme, MHV)?
+   - Where do you sign in from (VA.gov, MHV, etc)?
+- Thinking about development tools or dashboards from the VA that you might use when developing, what is the process you take to locate those (like Lighthouse API)?
+   - [PROMT] like do you save bookmarks? Keep tabs open? Go to Platform website? Slack?
+      - [IF SLACK] which channel?
+- How do you find out about VA resources that are available to make your development process more efficient (like Lighthouse API)?
    - [PROMT] Slack reminders? Platform website? ToTs announcements?
+- How do you keep up with new standards?
 
 
 ## Task 1: Product Usability Walk through | 10 minutes
@@ -92,15 +105,29 @@
 - Do you have a mock user that is your go-to?
 - Have you ever felt the need to or wished you could make a new mocked user for certain traits?
 - If you wanted to set up a new mock user, how might you start that process?
-- [OFFER TIME for them to read through documentation]
+  
+[OFFER TIME for them to read through documentation]
+
 - Would you want to try creating a new mock user now?
    - [IF SO] Go ahead and go through, please speak out loud any thoughts you have as you do.
 
 
+## Post-task questions | 3 minutes
+- Now having seen this process for mocked authentication, what feelings or thoughts do you have about it?
+   - Easy to use, difficult to use?
+   - Does it make sense for you to add to your development workflow?
+- Would you say this is faster than your current mocked authentication process?
+  - [IF YES] How much time would you estimate saving if this was available to you?
+- Other than saving time, would there be any other reason you might benefit from using this process for mocked authentication?
+- Where would be the best place to tell VA developers, like you, about this product?
+  - [PROMPT] ToTs? The Platform website? Slack?
+     - [IF SLACK] which channel?
+- Do you have any other thoughts or comments or questions for our team about this product?
+
+
 ## Thank-You and Closing | 2 minutes
 
-- That brings us to the end of what we wanted to look at today. Do you have any other thoughts or comments for our team about this product?
-- Any questions for us?
+- That brings us to the end of what we wanted to look at today. 
 - We really appreciate you taking the time to share your thoughts with us today. Thank you, and enjoy the rest of your day!
 
 
