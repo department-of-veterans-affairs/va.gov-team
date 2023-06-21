@@ -1,3 +1,14 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
 # Creating a Form Schema in Vets-JSON-Schema
 
 When building a form, you'll need to create a JSON Schema document that lives in the [vets-json-schema](https://github.com/department-of-veterans-affairs/vets-json-schema) repo and is shared by both the front-end and back-end. This schema will be the contract for data submitted by the front-end to the back-end API.
