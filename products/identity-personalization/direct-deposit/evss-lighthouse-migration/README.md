@@ -80,7 +80,7 @@ As a person that receives payments from VA, I want to be able to easily view and
 |Deliverable|Date completed|
 |-----------|--------------|
 |[Project epic: #51900](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/51900)| N/A|
-|[QA spreadsheet](https://docs.google.com/spreadsheets/d/12gvlkGnwt206BBYY89gDIYG1AtD6j9uCYMr5x99Nzns/edit#gid=0)| TBD|
+|[QA spreadsheet](https://docs.google.com/spreadsheets/d/1xflLNJhUSVslzLbVQtMkYkzsBGAhIccnmYW0GL_Ihd0/edit#gid=0)| TBD|
 |UAT results|TBD|
 |[Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/direct-deposit-release-plan.md)|TBD|
 
