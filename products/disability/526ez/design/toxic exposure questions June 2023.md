@@ -1,7 +1,9 @@
 ## Are you claiming any disabilities related to toxic exposures? 
 
 [ ] Yes
+
 [ ] No
+
 Note: You can see a list of what burn pit and other toxic exposure conditions we now consider to be connected to your service. If you filed a claim related to these in the past and were denied, you’ll need to submit a Supplemental Claim instead. If you’re filing a new claim related to these, you’ll only need to provide information that helps us understand your condition and how it impacts you and your ability to work.
 
 
