@@ -1,5 +1,20 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: June 21 2023       
+### Participants: Rakshinda, Austin, Shannon
+### Topics Covered:
+- Catch-up / updates from the last 2 weeks
+- Collaboration between teams
+  -  What's working and what isn't
+  -  How to improve collaboration  
+- Issue Management Strategy
+  - How's it been working so far
+     - Particiaption by each team for pairing
+     - Bug Board
+     - Process
+- Roadmap
+  - Updates by Team Carbs 
+
 ### Date: June 14 2023
 ### Topics Covered:
 - Funnel data and user behavior
