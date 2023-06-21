@@ -75,11 +75,17 @@ Month Year
 
 ## Have you been exposed to any of the following? (Check all that apply)
 [ ] Asbestos
+
 [ ] Shad (Shipboard Hazard and Defense) 
+
 [ ] Military Occupational Specialty (MOS)-related toxin 
+
 [ ] Contaminated water at Camp Lejeune
+
 [ ] Mustard gas
+
 [ ] Radiation
+
 [ ] Other (Please specify)
 [                                      ] 
 
