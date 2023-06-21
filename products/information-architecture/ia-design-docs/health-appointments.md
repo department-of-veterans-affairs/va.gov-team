@@ -16,19 +16,23 @@
 
 ![IA of appointments](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/4bc9b61e-3e9f-45e8-bce6-a2274751118b)
 
-Note: the URL for the after-visit summary is still TBD. It could be just an ID based URL like /123456, or it could have a label on it, like /visit-summary-123456. 
+Note: the URL for the after-visit summary is still TBD. It could be just an ID based URL like /123456, or it could have a label on it, like /after-visit-summary-123456. 
 
 
 ## <a name="main urls"></a>URLs and breadcrumbs - Main Pages
-*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
+
+There are 16 
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-Appointments Landing Page | TBD | TBD |
-Appointments Detail View | TBD | TBD  | 
-Cancel Appointment | TBD | TBD | we are recommending that this functionality moves from a modal to a page to improve a11y
-Schedule Appointment | TBD | TBD | Subsequent steps of the flow can follow normal url building guidelines, which can be found in the design system: https://design.va.gov/content-style-guide/url-standards
-
+1. TBD | (https://va.gov/my-health/appointments) | TBD |
+1. TBD | TBD | TBD |
+1. TBD | TBD | TBD  | 
+1. TBD | TBD | TBD  | 
+1. TBD | TBD | TBD |
+1. TBD | TBD | TBD |
+1. TBD | TBD | TBD  | 
+1. TBD | TBD | TBD  | 
 
 
 ## <a name="nav"></a>Entry points <br>
@@ -40,9 +44,4 @@ We will need to redirect all of the existing appointments and scheduling URLs to
 
 Page | Current URL | Redirect to | Notes
 ----| --- | --- | ---
-Appointments landing page| https://va.gov/health-care/schedule-view-va-appointments/appointments/ | TBD | ---
-Appointments landing page - PENDING| https://va.gov/health-care/schedule-view-va-appointments/appointments/pending | TBD | ---
-Appointments landing page - PAST| https://va.gov/health-care/schedule-view-va-appointments/appointments/past | TBD | ---
-Schedule appointment| https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment | TBD | ---
-Requested appointment - detail view| https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]| TBD | ---
-Confirmed/upcoming/cancelled appointment - detail view| https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]| TBD | ---
+
