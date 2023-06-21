@@ -79,7 +79,7 @@ We are going to build a wizard (based on the Subtask pattern) that focuses on PA
   - The volume of content/number of screens is an area that we are watching due to cognitive load, time to completion, abandonment rate risk.
 
 ### How we are approaching the solution
-- [PACT Act wizard (content and branching) MURAL](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1679940171177/ec99e1a48823fc8c7a9fa027604a3190032c4fbe](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1686687282873?sender=uf8ddb00f0c9a241ee4573555&key=51afbaca-4131-4828-a3c3-eced5a256061))
+- [PACT Act wizard (content and branching) MURAL](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1686687282873?sender=uf8ddb00f0c9a241ee4573555&key=51afbaca-4131-4828-a3c3-eced5a256061))
 - [PACT Act and the world of toxic exposure content MURAL](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1664903854802/3876e4204edea5dc0e9b52fbca47e9162f752dad): This is a MURAL that helps to visualize all of the toxic exposure content that's out there, how we want to build connections between this content, and how we can use each entry point strategically to drive to the main goal of file a claim/apply for health care.
 
 ### Initiatives
