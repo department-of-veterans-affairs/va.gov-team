@@ -23,3 +23,4 @@ AVA on the modernized VA.gov platform will be a digital support channel that wor
 |Engineer|Eddie Otero|eddie.otero@oddball.io|
 |UX Designer|Thomas Michaud|thomas.michaud@oddball.io|
 |UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
+|OCTO Designer|Becky Phung|becky.phung@va.gov|
