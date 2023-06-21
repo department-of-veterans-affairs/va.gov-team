@@ -76,11 +76,10 @@ Phone number: {phone number}
 @@ GH52490 @@
 ```
 
+**ACTIONS**
+
 ```Cancel request```
 
-**PROGRESS BUTTONS**
-
-none
 
 ---
 
@@ -88,11 +87,13 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
 
 **PAGE HEADER**
 
@@ -144,21 +145,20 @@ Phone number: {phone number}
 @@ GH52490 @@
 ```
 
-**PROGRESS BUTTONS**
-
-none
-
 ---
 
 ## VA Booked-Future
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -187,15 +187,14 @@ You shared these details about your concern
 {Reason}: {Booking note}
 ```
 
+**ACTIONS**
+
 ```Add to calendar```
 
 ```Print```
 
 ```Cancel appointment```
 
-**PROGRESS BUTTONS**
-
-none
 
 ---
 
@@ -203,11 +202,13 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
 
 **PAGE HEADER**
 
@@ -238,11 +239,10 @@ You shared these details about your concern
 {Reason}: {Booking note}
 ```
 
+**ACTIONS**
+
 ```Print```
 
-**PROGRESS BUTTONS**
-
-none
 
 ---
 
@@ -250,11 +250,13 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
 
 **PAGE HEADER**
 
@@ -285,21 +287,19 @@ You shared these details about your concern
 {Reason}: {Booking note}
 ```
 
-**PROGRESS BUTTONS**
-
-none
-
 ---
 
 ## Vaccine Booked-Future
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
 
 **PAGE HEADER**
 
@@ -324,6 +324,8 @@ Directions
 Clinic: {Clinic name}
 Main phone: {phone number} (TTY: 711)
 ```
+
+**ACTIONS**
 
 ```Add to calendar```
 
@@ -335,9 +337,6 @@ Need to make changes?
 Contact this provider if you need to reschedule or cancel your appointment.
 ```
 
-**PROGRESS BUTTONS**
-
-none
 
 ---
 
@@ -345,11 +344,14 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -378,11 +380,9 @@ Clinic: {Clinic name}
 Main phone: {phone number} (TTY: 711)
 ```
 
+**ACTIONS**
+
 ```Print```
-
-**PROGRESS BUTTONS**
-
-none
 
 ---
 
@@ -390,11 +390,14 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -423,23 +426,20 @@ Clinic: {Clinic name}
 Main phone: {phone number} (TTY: 711)
 ```
 
-**PROGRESS BUTTONS**
-
-none
-
 ---
 
 ## VVC Home Booked-Future
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-```
-COPY
-```
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -481,6 +481,8 @@ For the best video experience, we recommend you:
 - Connect to this appointment on a Wi-Fi network if using a mobile phone, rather than a cellular data network
 ```
 
+**ACTIONS**
+
 ```Add to calendar```
 
 ```Print```
@@ -497,11 +499,14 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -526,11 +531,10 @@ Provider
 {Provider name}
 ```
 
+**ACTIONS**
+
 ```Print```
 
-**PROGRESS BUTTONS**
-
-none
 
 ---
 
@@ -538,11 +542,14 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -568,9 +575,6 @@ Provider
 {Provider name}
 ```
 
-**PROGRESS BUTTONS**
-
-none
 
 ---
 
@@ -578,11 +582,14 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -614,6 +621,8 @@ You'll be meeting with
 {Provider name}
 ```
 
+**ACTIONS**
+
 ```Add to calendar```
 
 ```Print```
@@ -624,9 +633,6 @@ Need to make changes?
 Contact this provider if you need to reschedule or cancel your appointment.
 ```
 
-**PROGRESS BUTTONS**
-
-none
 
 ---
 
@@ -634,11 +640,14 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -670,11 +679,10 @@ You'll be meeting with
 {Provider name}
 ```
 
+**ACTIONS**
+
 ```Print```
 
-**PROGRESS BUTTONS**
-
-none
 
 ---
 
@@ -682,11 +690,14 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -719,21 +730,20 @@ You'll be meeting with
 {Provider name}
 ```
 
-**PROGRESS BUTTONS**
-
-none
-
 ---
 
 ## VVC GFE Booked-Future
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -785,21 +795,20 @@ You'll be meeting with
 {Provider name}
 ```
 
-**PROGRESS BUTTONS**
-
-none
-
 ---
 
 ## VVC GFE Booked-Past
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -825,11 +834,10 @@ Provider
 {Provider name}
 ```
 
+**ACTIONS**
+
 ```Print```
 
-**PROGRESS BUTTONS**
-
-none
 
 ---
 
@@ -837,11 +845,14 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -866,9 +877,6 @@ Provider
 {Provider name}
 ```
 
-**PROGRESS BUTTONS**
-
-none
 
 ---
 
@@ -876,11 +884,14 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -910,6 +921,8 @@ You'll be meeting with
 {Provider name}
 ```
 
+**ACTIONS**
+
 ```Add to calendar```
 
 ```Print```
@@ -924,9 +937,6 @@ Main phone: {phone number} (TTY: 711)
 
 ```
 
-**PROGRESS BUTTONS**
-
-none
 
 ---
 
@@ -934,11 +944,14 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -965,11 +978,10 @@ Provider
 {Provider name}
 ```
 
+**ACTIONS**
+
 ```Print```
 
-**PROGRESS BUTTONS**
-
-none
 
 ---
 
@@ -977,11 +989,14 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -1008,21 +1023,20 @@ Provider
 {Provider name}
 ```
 
-**PROGRESS BUTTONS**
-
-none
-
 ---
 
 ## VA Phone Booked-Future
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -1056,15 +1070,14 @@ You shared these details about your concern
 {Reason}: {Booking note}
 ```
 
+**ACTIONS**
+
 ```Add to calendar```
 
 ```Print```
 
 ```Cancel appointment```
 
-**PROGRESS BUTTONS**
-
-none
 
 ---
 
@@ -1072,11 +1085,14 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -1110,11 +1126,10 @@ You shared these details about your concern
 {Reason}: {Booking note}
 ```
 
+**ACTIONS**
+
 ```Print```
 
-**PROGRESS BUTTONS**
-
-none
 
 ---
 
@@ -1122,11 +1137,14 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -1160,11 +1178,10 @@ You shared these details about your concern
 {Reason}: {Booking note}
 ```
 
+**ACTIONS**
+
 ```Print```
 
-**PROGRESS BUTTONS**
-
-none
 
 ---
 
@@ -1172,11 +1189,14 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -1251,11 +1271,9 @@ Phone number: {phone number}
 @@ GH52490 @@
 ```
 
+**ACTIONS**
+
 ```Cancel request```
-
-**PROGRESS BUTTONS**
-
-none
 
 ---
 
@@ -1263,11 +1281,13 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
 
 **PAGE HEADER**
 
@@ -1343,28 +1363,26 @@ Phone number: {phone number}
 @@ GH52490 @@
 ```
 
-**PROGRESS BUTTONS**
-
-none
-
 ---
 
 ## CC Booked-Future
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
 ```
 {appointment date} at {appointment time}
 ```
-
 
 **PAGE DESCRIPTION**
 
@@ -1388,6 +1406,8 @@ You shared these details about your concern
 {Booking note}
 ```
 
+**ACTIONS**
+
 ```Add to calendar```
 
 ```Print```
@@ -1398,9 +1418,7 @@ Need to make changes?
 Contact this provider if you need to reschedule or cancel your appointment.
 ```
 
-**PROGRESS BUTTONS**
 
-none
 
 ---
 
@@ -1408,11 +1426,14 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -1444,11 +1465,10 @@ You shared these details about your concern
 {Booking note}
 ```
 
-```Print```
+**ACTIONS**
 
-**PROGRESS BUTTONS**
+`Print`
 
-none
 
 ---
 
@@ -1456,11 +1476,14 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -1492,7 +1515,7 @@ You shared these details about your concern
 {Booking note}
 ```
 
-**PROGRESS BUTTONS**
+**ACTIONS**
 
 none
 
@@ -1509,8 +1532,6 @@ Preferred community care provider
 No provider selected
 ```
 
----
-
 #### No Booking Note
 
 TBD
@@ -1523,13 +1544,14 @@ TBD
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-```
-NEW APPOINTMENT
-```
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -1561,6 +1583,8 @@ Clinic: {Clinic name}
 Main phone: {phone number} (TTY: 711)
 ```
 
+**ACTIONS**
+
 ```Add to calendar```
 
 ```Print```
@@ -1570,9 +1594,7 @@ Need to make changes?
 Contact this provider if you need to reschedule or cancel your appointment.
 ```
 
-**PROGRESS BUTTONS**
 
-none
 
 ---
 
@@ -1580,13 +1602,14 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-```
-NEW APPOINTMENT
-```
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -1621,15 +1644,15 @@ You shared these details about your concern
 {Reason}: {Booking note}
 ```
 
+**ACTION BUTTONS**
+
 ```Add to calendar```
 
 ```Print```
 
 ```Cancel appointment```
 
-**PROGRESS BUTTONS**
 
-none
 
 ---
 
@@ -1637,11 +1660,14 @@ none
 
 **NAVIGATION**
 
-```< Back to [h1 of previous page]```
+URL: ``
 
-**FORM TITLE**
+Redirect: ``
 
-n/a
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -1664,7 +1690,6 @@ n/a
 + Review your upcoming appointments
 @@ GH51648 @@
 ```
-
 
 ```diff
 - Schedule a new appointment
@@ -1708,11 +1733,11 @@ Phone number: {phone number}
 @@ GH52490 @@
 ```
 
+**ACTION BUTTONS**
+
 ```Cancel request```
 
-**PROGRESS BUTTONS**
 
-none
 
 ---
 
@@ -1722,13 +1747,14 @@ none
 
 ```< Back to [h1 of previous page]```
 
-**FORM TITLE**
+URL: ``
 
-```diff
-- NEW APPOINTMENT
-+ REQUEST COMMUNITY CARE
-@@ GH51648 @@
-```
+Redirect: ``
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
 
 **PAGE HEADER**
 
@@ -1816,11 +1842,10 @@ Phone number: {phone number}
 @@ GH52490 @@
 ```
 
+**ACTIONS**
 
 ```Cancel request```
 
-**PROGRESS BUTTONS**
 
-none
 
 ---
