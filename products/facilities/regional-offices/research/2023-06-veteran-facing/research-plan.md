@@ -48,6 +48,7 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
 
 #### From the prototype:
 3. Do Veterans understand which services are available at this location?
+     1. Do Veterans understand and use the categories of services *(i.e., Veteran benefits, Family member & caregiver benefits, Service member benefits, Other services)* to find the service they're looking for? 
 1. Do Veterans understand how services are delivered at this location?
      1. In-person, virtual, or by phone (do people open the appointments accordion unprompted?)
      1. With or without appointments (any comments about location of appointments information?)
