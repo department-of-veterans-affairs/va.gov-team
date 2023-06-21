@@ -166,10 +166,12 @@ Imagine that you're wondering how to use your *[spouse/relationship]*’s leftov
 
 ### Task 4: [Disability--accordion opens]
 
-Imagine that you *[your spouse/Veteran has]* have some hearing loss that's related to your *[their]* military service. You’re not currently receiving monthly disability payments from the VA, and you’d like some help applying for it. Using the information on this page, how could you get help from the Boston Regional Office? 
+Imagine that you have some hearing loss that's related to your military service. You’re not currently receiving monthly disability payments from the VA, and you’d like some help applying for it. Using the information on this page, how could you get help from the Boston Regional Office? 
+
+*(Alternative version for Veteran caregiver or family member:)*
+Imagine that your *[spouse/Veteran]* has some hearing loss that's related to their military service. They’re not currently receiving monthly disability payments from the VA, and you’d like some help for them to apply for it. Using the information on this page, how could you get help from the Boston Regional Office?
 
 - *(Disability compensation)*
-
 
 - *[if need prompting...]* 
   - To make this happen, what would you do next? 
@@ -207,7 +209,7 @@ Say you’ve decided to go the Boston Regional Office in person to get proof tha
 
 If you don't have a DD214, how could you get it? 
 
-- *(Helpful documents > give permission / _____________)*
+- *(Prepare for your visit > Helpful documents > give permission / _____________)*
 
 - *[if need prompting...]* 
   - How could you talk to someone? *[in-person / virtual / phone]*
@@ -245,7 +247,7 @@ If you wanted help applying for life insurance through the VA, where would you g
 
   - *RECORD what they do: Facility Locator / call--what number? ______________*
   
-### Task 9: [Burial/memorial--accordion opens]
+### Task 9: [Burial/memorial--accordion opens]--MIGHT CHANGE!
 
 Say you're planning for the future and want to see if you can be buried in a VA cemetery. Could the Boston Regional Office help? 
 
@@ -267,23 +269,12 @@ Say you're planning for the future and want to see if you can be buried in a VA 
 
   - When you go, what might you want to have with you? *[photo ID, DD214]* 
   
-### Task 10: [Disability > direct deposit--accordion opens]
+### Task 10: [Direct deposit--accordion doesn't open]
 
-Imagine you’re now receiving disability compensation, and you want to switch the bank account that your payments go to. Could the Boston Regional Office help you update this information? 
+Suppose that you just switched banks, and you want to tell the VA so that any payments you receive will go to your new bank instead of your old one. Could the Boston Regional Office help you do this?  
 
-- *(Veteran benefits > Disability compensation > Update direct deposit)*
+- *(Other services > Veteran profile info)*
 
-- *[if need prompting...]* 
-  - To make this happen, what would you do next? 
-  - How could you talk to someone? *[in-person / virtual / phone]*
-  - Do you need an appointment? *[no but it’s preferred]* 
-  - When will you go? *[check office hours for this task specifically]*
-    - *Record any comments about*
-      - *multiple sets of office hours*
-      - *multiple hour blocks per day*
-      - *notes about Thursday closures*
-
-  - When you go, what might you want to have with you? *[photo ID, DD214]* 
 
 ## Post-Task Interview - 10 minutes
 
