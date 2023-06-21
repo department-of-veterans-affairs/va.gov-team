@@ -3,7 +3,10 @@
 
 ## Outcome Summary
 
-TBD
+As a Veteran, I want to see my assigned health care Priority Group on VA.gov, so that I can reference the benefits associated with that group.
+
+- MVP = Display Priority group on VA.gov
+- Iteration = provide link (benefits associated) for Veteran to understand the benefits they can receive under that priority group
 
 
 **Related/Associated product(s)**
