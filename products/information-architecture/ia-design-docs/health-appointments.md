@@ -23,13 +23,13 @@ Note: the URL for the after-visit summary is still TBD. It could be just an ID b
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-1. Appointments landing page | https://va.gov/my-health/appointments | VA.gov home > My HealtheVet > Appointments |
-2. Past appointments list | https://va.gov/my-health/appointments/past | VA.gov home > My HealtheVet > Appointments > Past |
-3. Requested appointments list | https://va.gov/my-health/appointments/requests | VA.gov home > My HealtheVet > Appointments > Requests  | 
-4. Upcoming and cancelled appointments detail pages | https://va.gov/my-health/appointments/[ID] | < Back to appointments  | 
-5. Past appointments detail pages | https://va.gov/my-health/appointments/past/[ID] | < Back to past appointments |
-6. Requested appointments detail pages | https://va.gov/my-health/appointments/requests/[Request-ID] | < Back to requests |
-7. Root scheduling URL | https://va.gov/my-health/appointments/schedule/[H1-related-title] | VA.gov home > My HealtheVet > Appointments > [H1 Page Title] |
+|1. Appointments landing page | https://va.gov/my-health/appointments | VA.gov home > My HealtheVet > Appointments |
+|2. Past appointments list | https://va.gov/my-health/appointments/past | VA.gov home > My HealtheVet > Appointments > Past |
+|3. Requested appointments list | https://va.gov/my-health/appointments/requests | VA.gov home > My HealtheVet > Appointments > Requests  | 
+|4. Upcoming and cancelled appointments detail pages | https://va.gov/my-health/appointments/[ID] | < Back to appointments  | 
+|5. Past appointments detail pages | https://va.gov/my-health/appointments/past/[ID] | < Back to past appointments |
+|6. Requested appointments detail pages | https://va.gov/my-health/appointments/requests/[Request-ID] | < Back to requests |
+|7. Root scheduling URL | https://va.gov/my-health/appointments/schedule/[H1-related-title] | VA.gov home > My HealtheVet > Appointments > [H1 Page Title] |
 
 Additional URLs can be found on Sharepoint in this [excel file](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/Projects/2023%20Appointments%20move%20to%20MHV%20on%20VA.gov/MVP%20-%20Appointments-FE%20IA%20update.xlsx?d=w069ea28fa90140bd9a0dbca85f8c9cf1&csf=1&web=1&e=dFUVgE).
 Reach out to Peter Russo for access.
@@ -41,8 +41,7 @@ These will be documented and updated according to the Phased Rollout Plan.
 ## <a name="redirects"></a>Redirects <br>
 We will need to redirect all of the existing appointments and scheduling URLs to the new assigned URLs
 
-Page | Current URL | Redirect to | Notes
-| Flow                                                   | Internal name                           | H1 Page Title                                  | Current Staging URL                                                                                                           | New URL                                                                       |
+| Flow                                                   | Internal name                           | H1 Page Title                                  | Current URL                                                                                                           | New URL                                                                       |
 | ------------------------------------------------------ | --------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | All                                                    | Type of care                            | Choose the type of care you need               | https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment                                         | https://va.gov/my-health/appointments/schedule/type-of-care                   |
 | VA direct schedule<br><br>VA request<br><br>CC request | Choose sleep care                       | Choose the type of sleep care you need         | https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-sleep-care                       | https://va.gov/my-health/appointments/schedule/sleep-care                     |
