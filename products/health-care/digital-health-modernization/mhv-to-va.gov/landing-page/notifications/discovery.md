@@ -34,7 +34,7 @@ June 2023
 - [Notification on My VA](https://images.zenhubusercontent.com/629a1db0e70457da479e69ae/eba3004d-05ff-43a9-8d0b-0693a4edf02a)
 - [Notification landing page](https://images.zenhubusercontent.com/629a1db0e70457da479e69ae/62773669-6f4d-4e9f-a421-0fe32b5f4a7a)
 
-## Questions for My VA team
+### Questions for My VA team
 - How did you de-dupe new debt notifications?
 - Are you planning to show all notifications not only in the notification center, but also on the My VA page?
 - How did you decide on designs for notifications in My VA (using a card instead of a badge, for example?)
