@@ -62,27 +62,26 @@
 
 ### Onsite Notifications
 **Component**
-- internal UAT (very light)
+- QA and staging review (if not complete in sprint 13)
 - "release" component on My VA
 
 **Notification Center**
-- Start build?
+- Start build
+    - FE scaffolding
+    - feature flag
+    - BE support for showing dismissed and pagination
 
 ### My VA
 
 **Claims status widget - EVSS > Lighthouse**
-- Implementation continued? : update claims status to point to Lighthouse endpoints (from EVSS)
+- Implementation continued: update claims status to point to Lighthouse endpoints (from EVSS)
 - Product documentation ticket
+- Testing strategy/discussion with Tom and Derrick
 
 **Audit UX**
 - Update 2-month post launch to 100% stats
   - This is done in the [My VA audit project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#measuring-success)
   - Remember, we want to track stats 2 months after the date of the launch to 100% of users. So, if we went to 100% of users on 4/15, we'd track the first month of stats from 4/15 - 5/14.
-- Post launch code cleanup
-- E2E and unit test work (cont.)
-
-**Alert/Error Updates** 
-- Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
 
 ## Sprint 14 (7/5 - 7/18)
 [#51102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51102)
@@ -106,6 +105,12 @@ _Samara returns from parental leave!_
 - Testing?
 - Submit PSIR review (will need dev support on this)
 - Launch/remove feature flag
+
+**Audit UX**
+- Post launch code cleanup 
+ 
+**Alert/Error Updates** 
+- (Design) Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
 
 **MHV Migration Support**
 - Technical discovery: what will/do we need to update on My VA that currently points to MHV? (FE and BE tix in backlog)
@@ -131,11 +136,13 @@ _Samara returns from parental leave!_
 
 **Claims status widget - EVSS > Lighthouse**
 - Update technical diagram(s)/documentation
+- Post-launch cleanup
+
+**Alert/Error Updates** 
+- (Dev) Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
 
 **General**
 - E2E and unit test work (cont. as needed)
-- Update errors with warner error component (39066), FE work next sprint if bandwidth allows
-
 
 
 ## Sprint 16 (8/2 - 8/15)
