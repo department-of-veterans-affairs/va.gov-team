@@ -8,6 +8,7 @@ Timing: Every 2 Thursdays 2:35 - 3:15pm
 Agenda
 - Demo Topic(s)
   -  Documenting current state analytics: log-in success/failure (Greta)
+  -  In-app recruiting flow (Holly)
 
 - Slides - 
 - Video - 
