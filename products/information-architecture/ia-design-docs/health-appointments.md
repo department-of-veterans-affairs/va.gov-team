@@ -21,18 +21,16 @@ Note: the URL for the after-visit summary is still TBD. It could be just an ID b
 
 ## <a name="main urls"></a>URLs and breadcrumbs - Main Pages
 
-There are 16 
-
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-1. TBD | (https://va.gov/my-health/appointments) | TBD |
-1. TBD | TBD | TBD |
-1. TBD | TBD | TBD  | 
-1. TBD | TBD | TBD  | 
-1. TBD | TBD | TBD |
-1. TBD | TBD | TBD |
-1. TBD | TBD | TBD  | 
-1. TBD | TBD | TBD  | 
+1. Appointments landing page | https://va.gov/my-health/appointments | VA.gov home > My HealtheVet > Appointments |
+2. Past appointments list | https://va.gov/my-health/appointments/past | VA.gov home > My HealtheVet > Appointments > Past |
+3. Requested appointments list | https://va.gov/my-health/appointments/requests | VA.gov home > My HealtheVet > Appointments > Requests  | 
+4. Upcoming and cancelled appointments detail pages | https://va.gov/my-health/appointments/[ID] | < Back to appointments  | 
+5. Past appointments detail pages | https://va.gov/my-health/appointments/past/[ID] | < Back to past appointments |
+6. Requested appointments detail pages | https://va.gov/my-health/appointments/requests/[Request-ID] | < Back to requests |
+
+Additional URLs can be found on Sharepoint in this [excel file](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/Projects/2023%20Appointments%20move%20to%20MHV%20on%20VA.gov/MVP%20-%20Appointments-FE%20IA%20update.xlsx?d=w069ea28fa90140bd9a0dbca85f8c9cf1&csf=1&web=1&e=dFUVgE).
 
 
 ## <a name="nav"></a>Entry points <br>
