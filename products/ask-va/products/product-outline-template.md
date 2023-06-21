@@ -1,14 +1,25 @@
-# Product Outline Template
+# Ask VA MVP 1- Product Outline
 
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+AVA is an online portal that allows Veterans, caregivers, and supporting personnel in education, debt, loans,  etc. to submit questions to VA and receive a secure message response.
+
+Currently, Ask VA (AVA) resides within a stand-alone Microsoft portal that is inconsistent with the VA design standards, is not mobile-friendly, and has accessibility issues. 
+
+AVA on the modernized VA.gov platform will be a digital support channel that works with other tools and features on VA.gov and VA ecosystem to quickly and accurately answer users' questions. Users should feel it is easy and intuitive to submit their issues and receive adequate updates and information that results in a final resolution. Ultimately, we want AVA to feel part of a cohesive and user-centered approach to support.
+
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+User should easily and intuitively be able to ask a question through Ask VA on VA.gov.
+   - **Who**: The user - This could be the veteran,their caregiver, their supporting personnel, or their dependents.
+   - **What**: The current form design and content is not up to VA.gov design standards, mobile-friendly, and accessible for the user.
+   - **Why**: This will empower more Veterans to seek access to VA benefits and services.
+   - **Where**: The form needs to reside in VA.gov so that it is easily locatable, and can potentially integrate with other applications on the platform.
+
+**How might we** create an inquiry form that is short and simple?
+
  
 ## Desired User Outcomes
 
