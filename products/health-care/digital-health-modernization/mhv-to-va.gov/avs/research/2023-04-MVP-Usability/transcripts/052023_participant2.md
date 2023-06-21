@@ -91,10 +91,10 @@ I'd like to start by learning more about your experience reviewing information a
     -	Yes, i would view the after-vist summary. I like the way its laid out. I like "You were diagnosed with" section.... I like.... treatment plan.....I like this a             whole alot... I like presentation of material, its easy to read, easy to follow.... everything is natural.....I also like how they tell you your medications......          I like the iteam that I  need to follow up...**
      
     -	[**Moderator Note:** If participant finds anything confusing, ask the following:] What does that term mean to you?
-    -	Would you use or not use this page and why? 
+    -	**Moderator:**  Would you use or not use this page and why? 
 
 2. Did Dr. Nutt want you to complete or do anything following your appointment?
-  **Notetaker:**  Participant found the other the instructions were 1 in.
+  **Notetaker:** Participant found the other the instructions were 1 in.
    
     - 	[**Notetaker:** If participants says "No", or doesn't find anyting, note that participant cannot find dr. instructions on next steps.]
     - 	[**Moderator Note:** If participant cannot find this information, follow up on this in Task 3.]
@@ -107,7 +107,7 @@ Now, I would like you to focus on the “Your appointment on June 6th, 202 secti
     **Participant:** the thing... I would look to see where clinic is... I click the details to see the reason for appointmente and then check results...
   	**Moderator:**  4.Are there any terms that seem unfamiliar or confusing to you? Using your own words, how would you define those terms?
     -	[**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following:]
-    -	
+      
     -	**Participant:** I know the md, i wouldn't know what "PO" meant and I would click to see the definiton of the PO.
 
 5.	**Moderator:** If you could provide a definition of the information that is included within the “You were diagnosed with” section, how would you define that information?
@@ -116,13 +116,13 @@ Now, I would like you to focus on the “Your appointment on June 6th, 202 secti
 8.	
     -	[**Moderator Note:** If the participant doesn't correctly describe the content's purpose, then ask:]
     -	**Moderator:** What if the title of the section was “Health conditions you discussed?” How would you define this section then? How valuable or not valuable do you           find this section? Why?
-    -
+    
     -	**Participant:** the second option...becauses it is more specific ...
-    -	
+      
 9.	Next, please scroll down again. [**Moderator Note:** Stop them at. “Medications ordered for administration in clinic”] 
     **Moderator:** What does the information under “Medications ordered for administration in clinic” mean to you? 
       - [**Moderator Note:** If what they describe doesn’t match the intention of the section, then ask:] What if I told you that this section displays medications you took or were administered while you were at your appointment. What do you think about reviewing that information?
-      -
+      
       -**Participant:** ...if would think it was medicine that I received during my appoinment...I find it usefu,l sometimes you come home, and you forget the information after the visit ...I would utilize as a do to list and any informations as far as what happend and what was said and what i need to do...
   	
 11.	Ask participants to stop and open the medication glossary and review the information while they are talking aloud. [**Moderator Note:** Try to get general feedback on the glossary terms.]
@@ -173,12 +173,12 @@ Now, I would like you to focus on the “Your Treatment Plan from this appointme
    
     -	**Moderator:** How useful or not useful do you find this information? Why?
     -	**Participant:** Very useful...
-    -	
+      
 7.**Moderator:** Great, please slowly scroll down again. [**Moderator Note:** Stop them at “My medications”] How would you define the "My medications" section? ...
     -	How does the “My medications” information in this section differ from the information in “Medications and supplies” in the "Your Treatment Plan from this                    appointment” section above?
-    -
+    
     -	**Participant:**...this section is everything that i have going on...whether it was for today or other... its valuable, again dealing with memry probles to have             clarity...so yes...
-    -	
+    
     -	**Moderator:** How would you utilize or not utilize this information? ...
 
 ## [Can cut questions if running late] Task 5: More Information – 5 minutes
@@ -195,14 +195,12 @@ Now, I would like you to focus on the “Your Treatment Plan from this appointme
 
 5.**Moderator:** Let’s scroll to the “More help and health information” portion of this section. Is there anything you’d like to see added to that section?
 
-
-
 ## Task 6: Navigating to Another AVS – 10 minutes
 **Moderator:** Okay let’s view information from another appointment you had in the past. How would you go about doing that? 
 - [**Notetaker:** Observe how the participant navigates to previous pages. Do they use the browser’s back feature, breadcrumbs, or the menu’s sub-navigation. Do they have difficulty finding another After-visit summary?]
 - **Moderator:** On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to navigate to another summary from another day?
 **Participant:** ...1, very easy.
-- 
+  
 - [**Moderator Note:** Only ask the following questions if they are in the appointments section, skip if they are in the “care summaries” section.] Please navigate back to the page with all of your appointments listed. I want to highlight some links of this page.
   **Moderator:** - How would you describe what your see under the “Past” link?
   **Participant:** ...I would go back to .... and look to see under past appointments...I would seeing all my after summaryis reports giving me ability to see past.
