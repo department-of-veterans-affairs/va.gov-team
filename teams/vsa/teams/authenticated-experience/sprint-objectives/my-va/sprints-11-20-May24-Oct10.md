@@ -81,6 +81,8 @@
 - Post launch code cleanup
 - E2E and unit test work (cont.)
 
+**Alert/Error Updates** 
+- Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
 
 ## Sprint 14 (7/5 - 7/18)
 [#51102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51102)
