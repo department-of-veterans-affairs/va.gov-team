@@ -153,22 +153,27 @@ What are your impressions of what you're looking at? *(RECORD)*
 - *Any comments about the 3 action links near top of page? What do they expect from them?*
   - *(If "Ask a benefit question")* Ask what happens after they click on it.
 
-### Task 3: [Education--accordion doesn't open]
+### Task 3: [Education (Veteran only)--accordion doesn't open]
 
 Let's pretend that you live in Boston. 
 
-Imagine that you’re exploring how to pay for college, and you want to see if the VA can help. Using the information on this page, how can the Boston Regional Office help you?
+Let's say that you’re exploring how to pay for college or other training, and you want to see if the VA can help. Using the information on this page, how can the Boston Regional Office help you?
 
-*(Alternative version for Veteran caregiver or family member:)*
-Imagine that you're wondering how to use your *[spouse/relationship]*’s leftover GI Bill benefits to pay for your kid to go to college. Using the information on this page, how can the Boston Regional Office help you? 
+- *(**Educ benefits for Veterans** / Educ benefits for family members / __________)*
 
-- *(Educ benefits for Veterans / Educ benefits for family members / __________)*
+### Task 4: [Education (Veteran or family member, not caregiver if only role)--accordion doesn't open]
 
-### Task 4: [Disability--accordion opens]
+*(if didn't say above)* Let's pretend that you live in Boston. 
 
+Imagine that you’re thinking about how to pay for your kid to go to college. You want to learn about scholarships that might be available to kids of Veterans. Using the information on this page, how can the Boston Regional Office help you? 
+
+- *(Educ benefits for Veterans / **Educ benefits for family members** / __________)*
+
+### Task 5: [Disability--accordion opens]
+*(Veteran only)*
 Imagine that you have some hearing loss that's related to your military service. You’re not currently receiving monthly disability payments from the VA, and you’d like some help applying for it. Using the information on this page, how could you get help from the Boston Regional Office? 
 
-*(Alternative version for Veteran caregiver or family member:)*
+*(If not Veteran but caregiver or family member:)*
 Imagine that your *[spouse/Veteran]* has some hearing loss that's related to their military service. They’re not currently receiving monthly disability payments from the VA, and you’d like some help for them to apply for it. Using the information on this page, how could you get help from the Boston Regional Office?
 
 - *(Disability compensation)*
@@ -185,7 +190,7 @@ Imagine that your *[spouse/Veteran]* has some hearing loss that's related to the
 
   - When you go, what might you want to have with you? *[photo ID, DD214]* 
   
-### Task 5: [Home loan > apply--accordion opens]
+### Task 6: [Home loan > apply--accordion opens]
 
 You’re interested in buying a house, and your lender asks for proof that you qualify for a VA home loan. From this page, where would you go for that?
 
@@ -203,7 +208,7 @@ You’re interested in buying a house, and your lender asks for proof that you q
 
   - When you go, what might you want to have with you? *[photo ID, DD214]* 
   
-### Task 6: [Need DD214 for home loan]
+### Task 7: [Need DD214 for home loan]
 
 Say you’ve decided to go the Boston Regional Office in person to get proof that you qualify for a VA home loan. What do you need to have with you? [DD214]  
 
@@ -221,7 +226,7 @@ If you don't have a DD214, how could you get it?
       - *notes about Thursday closures*
 
   
-### Task 7: [Home loan > check status--accordion opens]
+### Task 8: [Home loan > check status--accordion opens]
 
 Now some time has passed since your visit to the regional office, and you’re still waiting to get proof that you qualify for a VA home loan. How would you find out what’s happening? 
 
@@ -238,7 +243,7 @@ Now some time has passed since your visit to the regional office, and you’re s
 
   - When you go, what might you want to have with you? *[photo ID, DD214]* 
   
-### Task 8: [VA life insurance--no accordion on page]
+### Task 9: [VA life insurance--no accordion on page]
 
 If you wanted help applying for life insurance through the VA, where would you go for that?  
 
@@ -247,15 +252,11 @@ If you wanted help applying for life insurance through the VA, where would you g
 
   - *RECORD what they do: Facility Locator / call--what number? ______________*
   
-### Task 9: [Burial/memorial--accordion opens]--MIGHT CHANGE!
+### Task 10: [Burial/memorial--accordion opens]
 
-Say you're planning for the future and want to see if you can be buried in a VA cemetery. Could the Boston Regional Office help? 
-
-
-*(Alternative version for Veteran caregiver or family member:)*
  If you wanted to honor a Veteran with a medallion on their headstone, could the Boston Regional Office help? 
 
-- *(Burial in a VA cemetery / Burial and memorials / __________)*
+- *(Burial in a VA cemetery / **Burial and memorials** / __________)*
 
 - *[if need prompting...]* 
   - To make this happen, what would you do next? 
@@ -269,7 +270,7 @@ Say you're planning for the future and want to see if you can be buried in a VA 
 
   - When you go, what might you want to have with you? *[photo ID, DD214]* 
   
-### Task 10: [Direct deposit--accordion doesn't open]
+### Task 11: [Direct deposit--accordion doesn't open]
 
 Suppose that you just switched banks, and you want to tell the VA so that any payments you receive will go to your new bank instead of your old one. Could the Boston Regional Office help you do this?  
 
