@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 6/21/2023
+- Removed the aria-live attribute from the "Back to last screen" breadcrumb link to accommodate Veterans who use screen readers.
+    - [Ticket 59315](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59315)
+
 ### 6/19/2023
 - Changed the HTML for the appointments list in Pre-Check-in and eCheck-in from an ordered list to an unordered list to accommodate Veterans who use screen readers.
     - [Ticket 59306](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59306)
