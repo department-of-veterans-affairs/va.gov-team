@@ -6,6 +6,7 @@ Rolling 3 sprint average: 26
 
 | Sprint | Sprint Dates | Engineering | Design | Research | Total |
 | --- | --- | --- | --- | --- | --- |
+| 7 | 6/7-6/20/23 | 10 | 4 | 4 | 18 | 
 | 6 | 5/24-6/6/23 | 17 | 5 | 0 | 22 |
 | 5 | 5/10-5/23/23 | 22 | 3 | 4 | 29 |
 | 4 | 4/26-5/9/23 | 16 | 8 | 3 | 27 |
