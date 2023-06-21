@@ -97,9 +97,13 @@ Month Year
 ## [Condition name]
 
 How is your disability connected to your service? (*Required)
+
 [ ] My disability was caused by an injury or exposure during my military service. [option 1]
+
 [ ] My disability was caused by another disability I’m already receiving benefits for. (For example, I have a limp that caused lower-back problems.) [option 2, displays only if have rated disabilities]
+
 [ ] My disability or condition existed before I served in the military, but it got worse because of my military service. [option 3]
+
 [ ] My disability was caused by an injury or event that happened when I was receiving VA care. [option 4]
 
 
