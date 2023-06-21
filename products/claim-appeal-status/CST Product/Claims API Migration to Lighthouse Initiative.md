@@ -1,5 +1,5 @@
 ## Outcome Summary
-The Lighthouse Claims API will retrieve a veteran's claim status information from CorpDB, the database of record, using the BGS service gateway. Currently, EVSS API retrieves status information, but, historically, it has been difficult to interatively improve this service. By migrating claims status end points over to Lighthouse, we will be able to more efficiently pursue our product goals and improve the performance of the application.  
+The Lighthouse Claims API will retrieve a veteran's claim status information from CorpDB, the database of record, using the BGS service gateway. Currently, EVSS API retrieves status information, but, historically, it has been difficult to iteratively improve this service. By migrating claims status end points over to Lighthouse, we will be able to more efficiently pursue our product goals and improve the performance of the application.  
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
@@ -26,10 +26,18 @@ The Lighthouse Claims API will retrieve a veteran's claim status information fro
 
 ### Key Performance Indicators (KPIs)
 
-- number of reliable performance metrics we measure related to load times | baseline: currenty, we don't have any | Target: at least one
-- number of joint intiatives between Lighthouse and Benefits Team 1 to improve the CST | baseline: this initiative is the first | Target: 2 additional by the end of 2023
-- CST Avg. Medallia score | baseline 2.3 | Target: 4.5
-- number of attributes added to claims API |baseline 0 | Target: (dependent on future initative goals)
+- Number of reliable performance metrics we measure related to load times:
+  - baseline: currenty, we don't have any
+  - Target: at least one
+- Number of joint intiatives between Lighthouse and Benefits Team 1 to improve the CST:
+  - baseline: this initiative is the first
+  - Target: 2 additional by the end of 2023
+- CST Avg. Medallia score:
+  - baseline 2.3
+  - Target: 4.5
+- Number of attributes added to claims API:
+  - baseline 0
+  - Target: (dependent on future initative goals)
 
 ---
 
