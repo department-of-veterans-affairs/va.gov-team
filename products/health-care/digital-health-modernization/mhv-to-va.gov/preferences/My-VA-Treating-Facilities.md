@@ -1,4 +1,16 @@
-# Call with Carnetta Scruggs on My VA Treating Facilities
+# Call with Patty Henry
+June 21, 2023
+
+Attendees: Patty and Florence McCafferty
+
+## Am I correct that this field is primarily for the purpose of aiding helpdesk staff in addressing user issues?
+- No, this field is a "display preference," which will impact what a Veteran sees in blue button report (as just one example).
+- Patty believes the field is not crucial to helpdesk staff because they have access to JLV (Joint Legacy Viewer), which providers also have access to. JLV shows where a Veteran received treatment, and a user could look up the Veteran's most recent visits to determine their primary facility.
+
+To answer more in-depth about whether or not helpdesk staff rely on this field for addressing user problems, we need to schedule another call with Patty and Nicole Ortego (Nicole is Brenda Torres-Hill's temporary replacement).
+
+-----
+# Call with Carnetta Scruggs
 June 14, 2023
 
 Attendees: Carnetta and Florence McCafferty
