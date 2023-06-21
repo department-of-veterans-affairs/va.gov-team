@@ -129,7 +129,7 @@ Team Availability | Time Slots (ET)
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
-Alternating Moderators: Robyn Singleton (robyn.singleton@adhocteam.us), Jenny Wang (jenny.wang@va.gov) and Cara Frissell (cara.frissell@adhocteam.us)
+Alternating Moderators: Robyn Singleton (robyn.singleton@adhocteam.us), Jenny Wang (Yizhen.Wang@va.gov) and Cara Frissell (cara.frissell@adhocteam.us)
 Research guide writing and task development: Robyn Singleton 
 Participant recruiting & screening: Perigean
 - Project point of contact: Robyn Singleton 
