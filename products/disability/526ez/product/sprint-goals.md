@@ -1,8 +1,8 @@
-# Sprint goals for Benefits Disability Experience Team 
+# Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
 ## Sprint 8
 Period - 06/21/2023 - 07/04/2023
-### Sprint goals TBD
+### Sprint goals 
 - **Expedited**
    - [ ] Bug - Eng Fix - Future Date of Claim - apply validation and content updates
    - [ ] Bug - Eng Fix - Required validation error not displaying for BDD Supporting Evidence
