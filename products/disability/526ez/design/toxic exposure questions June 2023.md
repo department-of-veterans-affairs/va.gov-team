@@ -10,31 +10,33 @@
 
 ## Did you serve in any of the following Gulf War Hazard Locations? 
 
-Iraq 
-Kuwait 
-Saudi Arabia 
-the neutral zone between Iraq and Saudi Arabia 
-Bahrain 
-Qatar 
-the United Arab Emirates 
-Oman 
-Yemen 
-Lebanon 
-Somalia 
-Afghanistan
-Israel 
-Egypt 
-Turkey 
-Syria 
-Jordan 
-Djibouti 
-Uzbekistan 
-the Gulf of Aden
-the Gulf of Oman
-the Persian Gulf
-the Arabian Sea
-the Red Sea
+- Iraq 
+- Kuwait 
+- Saudi Arabia 
+- the neutral zone between Iraq and Saudi Arabia 
+- Bahrain 
+- Qatar 
+- the United Arab Emirates 
+- Oman 
+- Yemen 
+- Lebanon 
+- Somalia 
+- Afghanistan
+- Israel 
+- Egypt 
+- Turkey 
+- Syria 
+- Jordan 
+- Djibouti 
+- Uzbekistan 
+- the Gulf of Aden
+- the Gulf of Oman
+- the Persian Gulf
+- the Arabian Sea
+- the Red Sea
+  
 [ ] Yes
+
 [ ] No
 
 If so, when did you serve in these locations? Please provide an approximate time frame. 
@@ -47,16 +49,17 @@ Month Year
 
 ## Did you serve in any of the following herbicide (e.g., Agent Orange) locations?
 
-Republic of Vietnam to include the 12 nautical mile territorial waters
-Thailand at any United States or Royal Thai base
-Laos
-Cambodia at Mimot or Krek
-Kampong Cham Province
-Guam or American Samoa
-or in the territorial waters thereof 
-Johnston Atoll or a ship that called at Johnston Atoll Korean demilitarized zone
-aboard (to include repeated operations and maintenance with) a C-123 aircraft known to have been used to spray an herbicide agent (during service in the Air Force and Air Force Reserves)
+- Republic of Vietnam to include the 12 nautical mile territorial waters
+- Thailand at any United States or Royal Thai base
+- Laos
+- Cambodia at Mimot or Krek
+- Kampong Cham Province
+- Guam or American Samoa or in the territorial waters thereof 
+- Johnston Atoll or a ship that called at Johnston Atoll Korean demilitarized zone
+- aboard (to include repeated operations and maintenance with) a C-123 aircraft known to have been used to spray an herbicide agent (during service in the Air Force and Air Force Reserves)
+
 [ ] Yes
+
 [ ] No
 
 Please list other location(s) where you served, if not listed above:
