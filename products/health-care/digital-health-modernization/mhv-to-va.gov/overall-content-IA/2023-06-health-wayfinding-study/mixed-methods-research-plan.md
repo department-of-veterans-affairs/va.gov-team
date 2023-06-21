@@ -2,7 +2,7 @@
 
 ## Background
 
-This study is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information.  This study aims to support this effort by investigating the different wayfinding strategies users use when completing key health management tasks on MHV on VA.gov.
+This study is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information.  This study aims to support this effort by investigating the different wayfinding strategies users use when completing key health management tasks on MHV on VA.gov.  It is part of a broader effort to align 
 
 You can read more about the Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
