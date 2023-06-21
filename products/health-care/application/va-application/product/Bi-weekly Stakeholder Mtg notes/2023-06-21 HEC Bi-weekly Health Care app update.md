@@ -1,6 +1,6 @@
 # June 21, 2023 HEC Bi-weekly Health Care application update
 
-### 6/21/23 Notes
+### Notes
 
 - Document comparison - Policy and Compliance teams reviewing
      - Presenting at next meeting on input
