@@ -1,5 +1,5 @@
 # Notifications Discovery Work
-June 14, 2023
+June 2023
 
 ## Onsite vs. On-screen notifications
 - On-screen = push notification
@@ -30,21 +30,31 @@ June 14, 2023
 - To see more new Notifications (more than just the 3) or older notifications, users can click the link in the Notification area of My VA to get to the Notification Center (Authenticated Experience team is hoping this does not live under My VA umbrella)
 - In Notification Center, notifications stay forever unless they are dismissed by the user
 
+### My VA's design images
+- [Notification on My VA](https://images.zenhubusercontent.com/629a1db0e70457da479e69ae/eba3004d-05ff-43a9-8d0b-0693a4edf02a)
+- [Notification landing page](https://images.zenhubusercontent.com/629a1db0e70457da479e69ae/62773669-6f4d-4e9f-a421-0fe32b5f4a7a)
+
 ## Questions for My VA team
 - How did you de-dupe new debt notifications?
 - Are you planning to show all notifications not only in the notification center, but also on the My VA page?
 - How did you decide on designs for notifications in My VA (using a card instead of a badge, for example?)
 
-## Q&A with Flagship Mobile app team
-- Besides **Push notifications**, **badge** on the Health landing page (next to Messages): Are there any other notifications for a secure message?
-   - Notifications     
-       - Native mobile push notification when there is a new message
-       - The number of unread messages in the button on Health landing page
-       - The number of unread messages on the inbox tab showing the number of unread messages
-       - The blue circle if a message has not been opened
-- The badge/numbers stay until the message is opened, the user can potentially have a lot of unopened messages...
-- Does Message link always bring the user to the top of the Messages page? Or does it ever send the message to unread message? (I have my assumption but wanted to confirm)
-  - Yes, if you tap the Messages button on the health landing page you just get the list of all the messages (the inbox screen)
+## Secure Messaging notifications
+### Mobile app notifications:
+- Push notification on new message
+- Badge on the health landing page (next to Messages) w number of unread messages
+- Badge on inbox tab showing number of unread messages
+- Blue circle if a message has not been opened
+- Badge remains until the message is opened (user can potentially have a lot of unopened messages)
+- If tap messages button on the health landing page, user is sent to inbox screen (not directly to specific message)
+### Mobile app images:
+- [Badge on health landing page](https://github-production-user-asset-6210df.s3.amazonaws.com/58444931/245580811-08ec891f-229c-4f2b-a70e-a9481564f7c3.PNG)
+- [Badge on inbox tab](https://github-production-user-asset-6210df.s3.amazonaws.com/58444931/245580852-19857d83-f0dc-4317-9f5e-ddcdb1e59de6.PNG)
+
+### Desktop:
+- Notification option that requires a user-supplied email address
+- Question: how do we reconcile different email addresses for login / VA.gov profile and secure messaging notifications?
+- From Beverly Nelson: when VA Notify gets contact info from VA profile, the email address is missing 15% of the time
 
 ## Links
 - [My VA's product outline for onsite notifications (includes screenshots of current designs)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications)
