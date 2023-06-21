@@ -312,5 +312,5 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Debrief to my spreadsheet
 
 ## Approvals
-- Michelle Middaugh or Dave Conlon (PO) on TBD
-- Shane Strassberg or other VA representative on TBD
+- Michelle Middaugh (PO) on TBD
+- VA Research Ops on TBD
