@@ -9,7 +9,7 @@ June 2023
 - Notifications must always be actionable and related to the specific patient's care
 - The user will be able to see all notifications in one place regardless of status
 - Notifications will have one of two statuses: read or unread
-- Notifications will be ordered by date (we will not attempt to make decisions about the importance or priority of different notifications)
+- Notifications will be ordered by date descending (we will not attempt to make decisions about the importance or priority of different notifications)
 - All notifications (from both My VA and My Health) will be shown in a notification center
 - Notifications will direct link to where a user needs to go to take action on that notification
 
