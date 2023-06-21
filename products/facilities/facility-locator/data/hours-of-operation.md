@@ -9,7 +9,7 @@ This page will capture the variations in the ways hours of operations is being c
 | Please Call for Hours | Please call for hours. |
 | 7:00am - Sunset | 7:00 a.m. - Sunset (timezone when available) |
 | 800AM-1200 | 8:00 a.m. - 12:00 a.m. (timezone when available) |
-| 800AM-1200, 100PM-400PM  | 8:00 a.m. - 12:00 p.m., 1:00 p.m - 4:00 p.m. (timezone when available) |
+| 8:00 a.m. - 12:00 p.m., 1:00 p.m - 4:00 p.m.   | 8:00 a.m. - 12:00 p.m., 1:00 p.m - 4:00 p.m. (timezone when available) | 
 | 9:30AM-4:00PM | 9:30 a.m. - 4:00 p.m. (timezone when available) |
 | 930AM-800PM | 9:30 a.m. - 8:00 p.m. (timezone when available) |
 | 9:00AM-3:00PM - Appointments Only | 9:00 a.m. - 3:00 p.m. (timezone when available) By appointment only |
