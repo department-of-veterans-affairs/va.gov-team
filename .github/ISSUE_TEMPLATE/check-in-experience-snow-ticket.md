@@ -2,7 +2,7 @@
 name: SNOW
 about: Template for tracking ServiceNow (SNOW) tickets
 title: "[SNOW]: INCIDENT NUMBER <SNOW Incident number>"
-labels: bug, SNOW
+labels: backend, bug, SNOW, HCE-Checkin
 assignees: ''
 
 ---
