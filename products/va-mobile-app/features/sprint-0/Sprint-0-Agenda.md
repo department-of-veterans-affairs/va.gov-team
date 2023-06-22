@@ -64,6 +64,15 @@ The Sprint 0 meeting is a time to do the following:
 ## 6/22/23
 
 * Q3 Planning discussions
+  * Rachel & Ryan encouraging us to provide suggestions and reccommendations when discussing potential solutions, etc.
+  * Deep Linking experiment with process
+    * Rachel & Ryan could be more involved up front to help to set the direction
+    * Would like to try building things sooner in the process
+    * Desired Outcome: POs to know if their involvement earlier will help to break problems into smaller chunks, and speed up the process - getting to production faster
+    * Discussed trade-offs of this approach
+      * works well with smaller, focused teams - QA capacity concerns in Q3
+      * long-term roadmap could be less stable
+      * Agreement on shipping in smaller chunks
 
 
 ## 6/7/23
