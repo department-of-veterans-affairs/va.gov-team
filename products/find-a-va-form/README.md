@@ -450,6 +450,10 @@ https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 
 ## MVP Search Landing Page Status and Decisions
 
+### 05/22/23 - Form flags in CMS
+- Documented form flags and processes in [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/vagov6717/1666820558104/5b87095d4d16ad7c8e7825567bd84ff53be71724?sender=u0b235d03cbd64f7f93673243)
+- Determined the "Changed name" flag is needed for the Sitewide Content team, they should be informed of Form name changes so that they can update related content
+
 ### 08/10/22 
 Updated README to reflect new Public Websites team in place since April 2022.
 
