@@ -1,5 +1,5 @@
 # Household section optimization - Release Plan 
-- Last updated 2/2/2023
+- Last updated 6/22/2023
 
 
 ## Step 1: Development
@@ -9,7 +9,7 @@ Feature toggle
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| hcaHouseholdV2Enabled | Toggle to enable users to see the newly organized and clarified Household Information section |
 
 ## Step 2: Validation
 
