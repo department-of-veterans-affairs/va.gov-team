@@ -39,7 +39,7 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
 - Description: Send confirmations
 - Request Body:
   - Body: An Object containing patient demographic information with the following fields
-  - `demographics-confirmed` (bool): Whether or not the demographics were confirmed by user
+  - `demographics-confirmed` (boolean): Whether or not the demographics were confirmed by user
 - Response:
   - Status Code: 200 OK
     - Body: Confirmations Updated message.
