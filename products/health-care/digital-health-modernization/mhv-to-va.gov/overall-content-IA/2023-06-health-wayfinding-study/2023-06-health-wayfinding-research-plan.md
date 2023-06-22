@@ -2,7 +2,7 @@
 
 ## Background
 
-This study is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information.  This study aims to support this effort by investigating the different wayfinding strategies users use when completing key health management tasks on MHV on VA.gov.  It is part of a broader research effort to align Information Architecture for the MHV to VA.gov integration.  More on this [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/1d786b3abb178f9ae326c821596729b896a65090/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA).
+This is a test. This study is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information.  This study aims to support this effort by investigating the different wayfinding strategies users use when completing key health management tasks on MHV on VA.gov.  It is part of a broader research effort to align Information Architecture for the MHV to VA.gov integration.  More on this [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/1d786b3abb178f9ae326c821596729b896a65090/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA).
 
 You can read more about the Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
@@ -96,7 +96,7 @@ Age and education level range throughout, but ideally include at least 15 partic
 * More than 3 times a month in the past 6 months *(Disqualify)*
 
 3. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
-	- Yes *(go on to additional Screener question 6)* **<-Is this supposed to be screener question 4?**
+	- Yes *(go on to additional Screener question 6 * **<-Is this supposed to be screener question 4?**
 	- No *(Disqualify)*
 
 4. How often, if at all, do you use MyHealtheVet?
