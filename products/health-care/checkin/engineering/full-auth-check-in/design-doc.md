@@ -1,7 +1,7 @@
 # WIP CHIP Authenticated Check-In API Design Document
 
 ## Introduction
-This document outlines the design and specifications for the Authenticated Check-In API. The purpose of this API is to allow users to check into appointments. This document covers the API's endpoints, request and response formats, authentication and authorization mechanisms, and any additional considerations.
+This document outlines the design and specifications for the Authenticated Check-In API Lambdas in CHIP. The purpose of this API is to allow users to check into appointments. This document covers the API's endpoints, request and response formats, authentication and authorization mechanisms, and any additional considerations.
 
 ## Base URL
 The base URL for accessing the API is: `/#{base_path}/actions`
@@ -19,11 +19,15 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
   - `appointmentIEN` (string): The unique identifier of the appointment.
   - `patientDFN` (string): The unique identifier of the patient.
   - `stationNo` (string): The station number.
-- Responses:
+- Responses: (custom status codes?)
   - Status Code: 200 OK
-    - Body: Success message.
-    - Body: The Demographics Object
-    - Body: Insurance update needed message
+    - Body (object): The Response Object which contains the following fields
+      - message (string): "Check-In successful"
+  - Status Code: 5xx
+    - Body: (object): The demographics data so that it can be confirmed
+  - Status Code: 5xx
+    - Body (object): The Insurance information is missing/needs to be updated Response Object which contains the following fields
+      - message (string): The message from upstream service
 
 ### Demographics
 - Description: Optional endpoint if client application is confirming demographics, next of kin and emergency contact information.
@@ -73,7 +77,7 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
     - `workPhone` (string): Next of kin work phone
 - Response:
   - Status Code: 200 OK
-    - Body: Success message(patient checked-in.
+    - Body: Success message(patient checked-in).
     
 ### Error Handling
 The API follows standard HTTP status codes for indicating the success or failure of a request. Additionally, specific error responses are returned with relevant error messages in the response body.
@@ -81,5 +85,3 @@ The API follows standard HTTP status codes for indicating the success or failure
 ## Authentication and Authorization
 The API uses OAuth 2.0 for authentication. The access token must be included in the `Authorization` header for each request.
 
-## Conclusion
-This API design document provides an overview of the endpoints for checking the eligibility of appointments for E-Check-In and checking into appointments in the Full Auth Check-In API. It serves as a reference for developers to understand how to interact with the API and implement client applications accordingly.
