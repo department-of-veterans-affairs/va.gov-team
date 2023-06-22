@@ -61,6 +61,7 @@ Let’s start with a few warm-up questions.
 - [If they don't specify] Did you complete this online, in-person or via paper application by yourself?
 - What is your recollection about the amount of information you had to provide?
 - Was it clear to you as you were applying, what benefits you would qualify for and what that would mean to you?
+- What resources did you use to understand what you might qualify for during this process?
 - How would you describe the process that happened after you applied, such as things you had to do, additional information you had to provide, communications from the VA, your first appointment, etc.?
 
 
@@ -72,10 +73,8 @@ Let’s start with a few warm-up questions.
 
 ## Second Topic: [Priority Group] - 5 minutes
 
-- How did you determine what health benefits you could get when you recently enrolled for health care benefits?
-- What resources did you use to understand what you might qualify for?
 - Do you know what Priority Group you are in for your health care benefits now?
-- Can you please describe how this was communicated to you and how you understood the impact to your health care benefits?
+- Can you please describe how this was communicated to you and how you understood the impact to you and what health care you could get?
 - Before you completed enrollment, were you aware of Priority Groups or copays as part of the health care benefits package?
 
 ### Things to watch for:
@@ -94,29 +93,23 @@ Let’s start with a few warm-up questions.
 - What kind of benefit would being able to view your Priority Group online provide you?
 - Out of these two options, is there one that would be more useful to you?
 - Is there anything here you would consider noise and not want to see on these examples?
-
-- Now I would like to transition to you sharing your screen and have to go to the link in the chat:
-- https://staging.va.gov/
-
-- Let's continue on with a scenario that you are aware of Priority Groups and you want to sign up for health care benefits. 
-- Can you walk me through where you would expect to find this information from the homepage so that you can apply and know what group you will qualify for?
+- Can you talk me through where you would expect to find this information on VA.gov so today?
 
 
 ## Third Topic: [Financial Disclosure- SCENARIO] - 10 minutes
 
-
+- Now I would like to transition to you sharing your screen and have to go to the link in the chat:
+- https://staging.va.gov/
 - For this next scenario, you completed that application and enrolled for health care benefits.
-- You get a bill in the mail saying you owe for copays and you need to submit your financial information from the last calendar year.
-- You go to va.gov - you can reclick on the link in the chat or the logo in the header to go back -
-- Now, walk me through where you would expect to be able to provide your updated income information so you can go back to qualifing for no copays as you used to.
+- You get a bill in the mail saying you owe for copays and you need to submit your financial information from the last calendar year to keep that benefit.
+- Now from the link sent to you, walk me through where you would expect to be able to provide your updated income information so you can go back to qualifing for no copays as you used to.
 - You can stop screen sharing now, thank you.
 
 
 ## Third Topic: [Financial Disclosure] - 10 minutes
 
-- Looking back on your application now, can you explain your impression of how your answers submitted around financials inpacted your benefits?
 - Have you had to provide updated information since you have been enrolled, like changes in income or adding dependents?
-- If so, can you tell me more about how this process went for you.
+- If so, can you tell me more about how this process went for you?
 - How would you like to go about providing various updates that could impact your health care benefits?
 - How would you see a change in income impacting your health care benefits?
 - If you have copays, when during the enrollment process were you clear on what you qualified for and what you would have to pay? 
@@ -124,9 +117,9 @@ Let’s start with a few warm-up questions.
 
 
 ## Fourth Topic: [Ideal State] - 5 minutes
-- Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using and updataing your information to keep your benefits. 
+- Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using and updating your information to keep your benefits. 
 - What tools, communication, people could make this the best process possible in your mind?
-- What information would be important to you so you feel confident when having to apply for health care benefits?
+- What information would be important to you so you feel confident when having to apply for and use your health care benefits?
 
 
 ### Things to watch for:
