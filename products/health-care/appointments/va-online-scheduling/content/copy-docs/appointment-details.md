@@ -1383,6 +1383,8 @@ You shared these details about your concern
 
 ---
 
+## Community Care Requests
+
 ### CC Request - Confirmed
 
 **NAVIGATION**
@@ -1667,6 +1669,8 @@ Phone number: {phone number}
 ```
 
 ---
+
+## Community Care Appointments
 
 ### CC Appointment - Upcoming
 
