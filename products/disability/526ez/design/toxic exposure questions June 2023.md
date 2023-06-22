@@ -171,7 +171,7 @@ Please tell us when this happened. If you’re having trouble remembering the ex
 On the next few screens, we’ll ask you about supporting documents like medical records related to your disabilities or conditions.
 
 **We strongly encourage you to submit documentation with your claim to help us understand:**
-- how your condition is connected to your service (unless we already consider your condition to be connected to burn pits or other toxic exposure)
+- how your condition is related to your service (unless we already consider your condition to be connected to burn pits or other toxic exposure)
 - the nature and symptoms of the conditions, including severity and duration of the symptoms
 - how the condition impacts you and your ability to work.
 
