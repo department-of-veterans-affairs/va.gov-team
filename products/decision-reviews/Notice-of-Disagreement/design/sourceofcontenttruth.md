@@ -266,7 +266,7 @@ VA Form 10182 (Notice of Disagreement)
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
-### Filing deadlines
+### Deadlines for submitting this form
 
 You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
 
