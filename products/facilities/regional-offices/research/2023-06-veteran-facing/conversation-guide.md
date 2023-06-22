@@ -171,10 +171,10 @@ Imagine that you’re thinking about how to pay for your kid to go to college. Y
 
 ### Task 5: [Disability--accordion opens]
 *(Veteran only)*
-Imagine that you have some hearing loss that's related to your military service. You’re not currently receiving monthly disability payments from the VA, and you’d like some help applying for it. Using the information on this page, how could you get help from the Boston Regional Office? 
+Imagine that you have some hearing loss that's related to your military service. You’re not currently receiving monthly disability payments from the VA, and you’d like some help applying for them. Using the information on this page, how could you get help from the Boston Regional Office? 
 
 *(If not Veteran but caregiver or family member:)*
-Imagine that your *[spouse/Veteran]* has some hearing loss that's related to their military service. They’re not currently receiving monthly disability payments from the VA, and you’d like some help for them to apply for it. Using the information on this page, how could you get help from the Boston Regional Office?
+Imagine that your *[spouse/Veteran]* has some hearing loss that's related to their military service. They’re not currently receiving monthly disability payments from the VA, and you’d like some help for them to apply for them. Using the information on this page, how could you get help from the Boston Regional Office?
 
 - *(Disability compensation)*
 
@@ -188,7 +188,7 @@ Imagine that your *[spouse/Veteran]* has some hearing loss that's related to the
       - *multiple hour blocks per day*
       - *notes about Thursday closures*
 
-  - When you go, what might you want to have with you? *[photo ID, DD214]* 
+  - When you go, what should you have with you? *[photo ID, DD214]* 
   
 ### Task 6: [Home loan > apply--accordion opens]
 
@@ -206,7 +206,7 @@ You’re interested in buying a house, and your lender asks for proof that you q
       - *multiple hour blocks per day*
       - *notes about Thursday closures*
 
-  - When you go, what might you want to have with you? *[photo ID, DD214]* 
+  - When you go, what should you have with you? *[photo ID, DD214]* 
   
 ### Task 7: [Need DD214 for home loan]
 
@@ -241,7 +241,7 @@ Now some time has passed since your visit to the regional office, and you’re s
       - *multiple hour blocks per day*
       - *notes about Thursday closures*
 
-  - When you go, what might you want to have with you? *[photo ID, DD214]* 
+  - When you go, what should you have with you? *[photo ID, DD214]* 
   
 ### Task 9: [VA life insurance--no accordion on page]
 
@@ -268,7 +268,7 @@ If you wanted help applying for life insurance through the VA, where would you g
       - *multiple hour blocks per day*
       - *notes about Thursday closures*
 
-  - When you go, what might you want to have with you? *[photo ID, DD214]* 
+  - When you go, what should you have with you? *[photo ID, DD214]* 
   
 ### Task 11: [Direct deposit--accordion doesn't open]
 
