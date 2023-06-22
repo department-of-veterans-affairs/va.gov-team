@@ -566,7 +566,7 @@ Main phone: {phone number} (TTY: 711)
 
 ---
 
-## VVC Home Booked-Future
+## VVC at Home - Upcoming
 
 **NAVIGATION**
 
@@ -1503,15 +1503,15 @@ Phone number: {phone number}
 
 ---
 
-## CC Booked-Future
+## CC Appointment - Upcoming
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/cc/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `Community care appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -1531,7 +1531,7 @@ none
 ```
 Type of care: {Type of Care}
 
-Community care proivder
+Community care provider
 {Provider name}
 {Treatment specialty}
 
@@ -1557,18 +1557,17 @@ Contact this provider if you need to reschedule or cancel your appointment.
 ```
 
 
-
 ---
 
-## CC Booked-Past
+## CC Appointment - Past
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/cc/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `Community care appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -1590,7 +1589,7 @@ This appointment occurred in the past.
 ```
 Type of care: {Type of Care}
 
-Community care proivder
+Community care provider
 {Provider name}
 {Treatment specialty}
 
@@ -1610,15 +1609,15 @@ You shared these details about your concern
 
 ---
 
-## CC Booked-Canceled
+## CC Appointment - Canceled
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/cc/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `Community care appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -1640,7 +1639,7 @@ Breadcrumb: `< Back to [h1 of previous page]`
 ```
 Type of care: {Type of Care}
 
-Community care proivder
+Community care provider
 {Provider name}
 {Treatment specialty}
 
@@ -1669,10 +1668,6 @@ The copy below may be used in place of some copy above based on the data availab
 Preferred community care provider
 No provider selected
 ```
-
-#### No Booking Note
-
-TBD
 
 ---
 
