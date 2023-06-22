@@ -53,16 +53,13 @@ Let’s start with a few warm-up questions.
 - Are you currently enrolled and using health care benefits from the VA? 
 - How long have you been receiving medical care from the VA? 
 - How often do you visit a VA facility? (if answered yes)
-- Do you regularly visit VA.gov?
-- Do you receive other benefits from the VA in addition to your medical benefits?
+- Do you regularly visit VA.gov and do you login frequently to your Profile?
 
 
 ## First Topic: [Current Process] - 10 minutes
 
 - Can you explain to me in your own words the process you took when you applied for benefits?
 - [If they don't specify] Did you complete this online, in-person or via paper application by yourself?
-- Anything that stood out to you?
-- Was there any part of that process that was frustrating or difficult for you?
 - What is your recollection about the amount of information you had to provide?
 - Was it clear to you as you were applying, what benefits you would qualify for and if there was a cost/copay to you?
 - Was it clear to you how your application answers impacted your benefits?
@@ -75,11 +72,10 @@ Let’s start with a few warm-up questions.
 - [What pain points or areas of confusion are revealed?]
 
 
-## Second Topic: [Getting Benefits/Eligibility] - 10 minutes
+## Second Topic: [Priority Group] - 10 minutes
 
 - How did you determine what health benefits you could get when you recently enrolled for health care benefits?
 - What resources do you use to understand what you might qualify for?
-- Did you want to only get care for one specific health concern, or were you interested in getting full health care coverage (want your PCP to be through VA)?
 - Looking back now after you have been using health care benefits, is there anything you wish you would have known during the application?
 - Do you know what Priority Group you are in for your health care benefits?
 
@@ -89,8 +85,17 @@ Let’s start with a few warm-up questions.
 - [Do they know confidently know their Priority Group and what that means to them and their benefits?]
 
 
+## Second Topic: [Priority Group - SCENARIO] - 10 minutes
+
+- I'm going to share my screen and show 
+
 
 ## Third Topic: [Financial Updates and Copays] - 10 minutes
+
+- Scenario first
+
+- 
+
 
 - Can you recall the process of having to answer financial or household information - like questions about your spouse and dependents - whey you completed your initial application?
 - Did anything stand out to you?
