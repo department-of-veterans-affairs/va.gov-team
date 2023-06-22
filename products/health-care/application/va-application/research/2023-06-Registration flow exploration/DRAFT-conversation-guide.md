@@ -51,19 +51,17 @@ Before we start, a few things I want to mention:
 Let’s start with a few warm-up questions.
 
 - Are you currently enrolled and using health care benefits from the VA? 
-- How long have you been receiving medical care from the VA? 
-- How often do you visit a VA facility? (if answered yes)
-- Do you regularly visit VA.gov and do you login frequently to your Profile?
+- How often do you visit a VA facility for care? 
+- How often do you visit VA.gov online? And do you sign in every time or how often do you sign in?
 
 
 ## First Topic: [Current Process] - 10 minutes
 
-- Can you explain to me in your own words the process you took when you applied for benefits?
+- Can you explain to me in your own words the process you took when you applied for health care benefits?
 - [If they don't specify] Did you complete this online, in-person or via paper application by yourself?
 - What is your recollection about the amount of information you had to provide?
-- Was it clear to you as you were applying, what benefits you would qualify for and if there was a cost/copay to you?
-- Was it clear to you how your application answers impacted your benefits?
-- How would you describe the process that happened after you applied, such as things you had to do, additional information you had to provide, communications from the VA, etc.?
+- Was it clear to you as you were applying, what benefits you would qualify for and what that would mean to you?
+- How would you describe the process that happened after you applied, such as things you had to do, additional information you had to provide, communications from the VA, your first appointment, etc.?
 
 
 ### Things to watch for:
