@@ -2,96 +2,39 @@
 
 ---
 
-## Current
+## Appointments
 
-(H1) VA online scheduling
+**NAVIGATION**
 
-Primary and specialty care appointments are available.
+URL: `https://va.gov/my-health/appointments`
 
-(CTA) Start scheduling
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments`
 
-(H2) Appointments
+Page title: `[Page Header] | Veterans Affairs`
 
----
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments`
 
-## Homepage Refresh Toggle
+**PAGE HEADER**
 
-(H1) VA online scheduling
+(H1) Appointments
 
-Schedule primary or specialty care appointments.
+**PAGE CONTENT**
 
-(CTA) Start scheduling
+(Primary Button) Start scheduling
 
----
+[Secondary Nav]
 
-### Appointment List Options
+(Link - Selected) Upcoming
+(Link) Pending (#)
+(Link) Past
 
-#### Upcoming
+[/Secondary Nav]
 
-(H2) Appointments
+[List - Upcoming]
 
-Links {Pending, Past}
+[Footer - Need Help]
 
----
-
-#### Pending
-
-(H2) Pending appointments
-
-These appointment requests haven’t been scheduled yet.
-
----
-
-#### Past
-
-(H2) Past appointments
-
-Select a date range
-
-{Past 3 months, All of {current year}, All of {prior year}, {5 months prior} - {3 months prior}, {8 months prior} - {6 months prior}, {11 months prior} - {9 months prior}}
-
----
-
-
-### Appointment List Cards
-
-#### Upcoming (Confirmed)
-
-{appointment date}
-
-{appointment time}
-
-(facility/provider name, VA Video Connect, Phone call}
-
----
-
-#### Pending
-
-{type of care}
-
-{preferred modality} 
-
-{selected facility} _for VA requests_
-
-{preferred provider name} _for CC requests_
-
----
-
-#### Past
-
-{appointment date}
-
-{appointment time}
-
-(facility/provider name, VA Video Connect, Phone call}
-
----
-
-
-### Empty States
-Messaging when there are no appointments in the list.
-
-#### Upcoming (Confirmed)
+### Upcoming Empty State Notification
 
 You don't have any upcoming appointments
 
@@ -101,9 +44,94 @@ You can schedule an appointment online now, or call your VA medical center to sc
 
 ---
 
-#### Requests
+## Pending appointments
+
+**NAVIGATION**
+
+URL: `https://va.gov/my-health/appointments/requests`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/pending`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > Requests`
+
+**PAGE HEADER**
+
+(H1) Pending appointments
+
+**PAGE CONTENT**
+
+These appointment requests haven’t been scheduled yet.
+
+[Secondary Nav]
+
+(Link) Upcoming
+(Link - Selected) Pending (#)
+(Link) Past
+
+[/Secondary Nav]
+
+[List - pending requests]
+
+(H2) Canceled requests
+
+These appointment requests have been canceled.
+
+[List - canceled requests]
+
+[Footer - Need Help]
+
+#### Request empty state
 
 You don't have any appointment requests
+
+You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
+
+(Link) Schedule an appointment
+
+---
+
+## Past appointments
+
+**NAVIGATION**
+
+URL: `https://va.gov/my-health/appointments/past`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > Past`
+
+**PAGE HEADER**
+
+(H1) Past appointments
+
+**PAGE CONTENT**
+
+[Date filter]
+
+(Label) Select a date range
+
+(Options)
+Past 3 months
+All of {current year}
+All of {prior year}
+{5 months prior} - {3 months prior}
+{8 months prior} - {6 months prior}
+{11 months prior} - {9 months prior}
+(/Options)
+
+[/Date filter]
+
+[List - Past appointments]
+
+[Footer - Need help]
+
+### Past appointments - empty state
+
+You don't have any past appointments
 
 You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
 
@@ -111,10 +139,4 @@ You can schedule an appointment online now, or call your VA medical center to sc
 
 ---
 
-#### Past
 
-You don't have any past appointments
-
-You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
-
-(link) Schedule an appointment
