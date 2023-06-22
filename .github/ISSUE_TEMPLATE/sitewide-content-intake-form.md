@@ -3,7 +3,7 @@ name: Sitewide Content, Accessibility, and IA Intake Form
 about: To request support with content, accessibility, or IA from Sitewide Content, Accessibility, and IA team
 title: "<Type of Request> from <Team>"
 labels: sitewide CAIA, sitewide content-product support, Sitewide IA, sitewide content, sitewide accessibility
-assignees: RLHecht, coforma-terry
+assignees: RLHecht, coforma-terry, kristinoletmuskat, laurwill, sara-amanda
 
 ---
 ## About your team
@@ -83,7 +83,7 @@ The [#accessibility-help channel](https://dsva.slack.com/archives/C8E985R32) in 
 
 ## Next steps
 
-**Once you’ve submitted this ticket, please post a link to this issue in the [#sitewide-content-ia](https://dsva.slack.com/channels/sitewide-content-ia) Slack channel and tag Randi Hecht.**
+**Once you’ve submitted this ticket, please post a link to this issue in the [#sitewide-content-ia](https://dsva.slack.com/channels/sitewide-content-ia) Slack channel and tag `@Terry Nichols`.**
 
 - If you also need engineering support from the Public Websites team, fill out their [intake request form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Public+Websites%2C+Sitewide+content&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+sitewide-content%2C+needs-grooming&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E).
   
