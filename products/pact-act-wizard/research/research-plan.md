@@ -1,9 +1,9 @@
 # Research Plan for Usability Testing, PACT Act Wizard, August 2023
 
 ## Background
-An 
+The [PACT Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/3967/text) is intended to significantly improve healthcare access and funding for Veterans who were exposed to toxic substances during military service. The law itself is not easy for a Veteran to read and understand whether or not it directly affects them and their benefits. To provide an easier way for a Veteran or Veteran's representative (family member, caregiver, other) to understand whether the PACT Act may apply to them, we are designing a PACT Act Wizard.
 
-[Link to product brief]()
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard)
 
 [Link to card in research repo]()
 
@@ -22,7 +22,7 @@ Goals:
 
 Increase:
 - Usage of digital, self-service tools
-- Percent of applications submitted online (maybe, if Veterans move from this tool to online application)
+- Percent of applications submitted online (if Veterans move from this tool to online application)
 - Benefit use and enrollment
 - Veteran satisfaction with VA.gov
 
