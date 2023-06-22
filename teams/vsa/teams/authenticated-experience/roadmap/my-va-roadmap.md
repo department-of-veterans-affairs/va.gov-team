@@ -12,7 +12,7 @@
 
 |Project|CYQ1 2023|CYQ2 2023|CYQ3 2023|CYQ4 2023|
 |----|----|----|----|----|
-|**[Claim status EVSS > Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/claim-status-lighthouse-migration#project-outline-my-va-claim-status-evss--lighthouse-migration)**|-|Update FE connection; Launch| Launch if it didn't happen last quarter|-|
+|**[Claim status EVSS > Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/claim-status-lighthouse-migration#project-outline-my-va-claim-status-evss--lighthouse-migration)**|-|Update FE connection (delayed due to dependency on claims team) | Launch |-|
 
 ## Completed projects
 
