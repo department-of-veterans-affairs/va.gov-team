@@ -28,17 +28,17 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments`
         (Link) Past
     [/Secondary Nav]
 
-[List - Upcoming]
+`[List - Upcoming]`
 
-[Footer - Need Help]
+`[Footer - Need Help]`
 
-### Upcoming Empty State Notification
+### Upcoming state - empty
 
 You don't have any upcoming appointments
 
 You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
 
-(link) Schedule an appointment
+(Link) `Schedule an appointment`
 
 ---
 
@@ -78,7 +78,7 @@ These appointment requests have been canceled.
 
 `[Footer - Need Help]`
 
-#### Request empty state
+#### Request state - empty
 
 You don't have any appointment requests
 
@@ -131,7 +131,7 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > Past`
 
 `[Footer - Need help]`
 
-### Past appointments - empty state
+### Past state - empty
 
 You don't have any past appointments
 
@@ -139,6 +139,6 @@ You can schedule an appointment online now, or call your VA medical center to sc
 
 (Link) `Schedule an appointment`
 
----
+
 
 
