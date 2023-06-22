@@ -51,9 +51,9 @@ Before enabling your feature toggle in production, you'll need to:
 
 - Number of users: [FILL_IN]
 - Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-  - [FILL_IN]: list
-  - [FILL_IN]: of
-  - [FILL_IN]: Tickets of bugs/changes
+  - [FILL_IN]: 
+  - [FILL_IN]: 
+  - [FILL_IN]: 
 - Was any downstream service affected by the change?: yes/no, [FILL_IN]
 - Types of errors logged: [FILL_IN]
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
