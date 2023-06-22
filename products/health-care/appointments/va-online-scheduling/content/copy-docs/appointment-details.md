@@ -2,7 +2,7 @@
 
 ---
 
-<details><summary>Use the following accessibility template for heading structure.</summary>
+<details><summary>Use the following template for content structure.</summary>
   
 ![va-appt-template-xsmall copy](https://user-images.githubusercontent.com/72046525/123011888-1c570a00-d376-11eb-8eb1-5c8e19a60b0d.png)
 
@@ -10,12 +10,94 @@
 
 ---
 
+### VA Request - Confirmation State
+
+**NAVIGATION**
+
+URL: `https://va.gov/my-health/appointments/requests/[ID]?confirmMsg=true`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]?confirmMsg=true`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
+
+**PAGE HEADER**
+
+```diff
+- Pending {type of care} appointment
++ We received your request
+@@ GH51648 @@
+```
+
+**PAGE DESCRIPTION**
+
+```diff
+- Your appointment request has been submitted. The time and date of this appointment are still to be determined.
++ We'll try to schedule your appointment in the next 2 business days. Check back here or call your facility for updates.
+@@ GH51648 @@
+```
+
+```diff
+- Review your appointments
++ Review your upcoming appointments
+@@ GH51648 @@
+```
+
+```diff
+- Schedule a new appointment
++ Schedule a new appointment
+@@ GH51648 @@
+```
+
+**PAGE CONTENT**
+
+```diff
++ [Type of care]
+
+- VA appointment
++ Facility
+{Facility name}
+{Facility address line 1}
+{Facility address line 2}
+Directions
+
+Main phone: {phone number} (TTY: 711)
+
+- Preferred type of appointment
+- {Office visit, Phone call, Telehealth (through VA Video Connect)}
+
+Preferred date and time
+{Preferred date & time #1}
+{Preferred date & time #2}
+{Preferred date & time #3}
+
+- You shared these details about your concern
++ Details you’d like to share with your provider
+{Reason}: {Booking note}
+
++ How you want to attend
+[Selected modality]
+
+- Your contact details
++ Your contact information
+Email: {Email address}
+Phone number: {phone number}
+@@ GH52490 @@
+```
+
+**ACTIONS**
+
+```Cancel request```
+
+
 ## VA Request-Pending
 
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/requests/[Request-ID]`
+URL: `https://va.gov/my-health/appointments/requests/[ID]`
 
 Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
 
@@ -87,9 +169,9 @@ Phone number: {phone number}
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/requests/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -147,15 +229,71 @@ Phone number: {phone number}
 
 ---
 
-## VA Booked-Future
+### VA Direct - Confirmed
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]?confirmMsg=true`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]?confirmMsg=true`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
+
+**PAGE HEADER**
+
+```
+{appointment date} at {appointment time}
+```
+
+**PAGE DESCRIPTION**
+
+```
+We've scheduled and confirmed your appointment.
+```
+
+```Review your appointments```
+
+```Schedule a new appointment```
+
+**PAGE CONTENT**
+
+```
+Type of care: {Type of care} 
+
+VA appointment
+{Facility name}
+{Facility address}
+Directions
+
+Clinic: {Clinic name}
+Main phone: {phone number} (TTY: 711)
+
+You shared these details about your concern
+{Reason}: {Booking note}
+```
+
+**ACTIONS**
+
+```Add to calendar```
+
+```Print```
+
+```Cancel appointment```
+
+---
+
+## VA Direct - Upcoming
+
+**NAVIGATION**
+
+URL: `https://va.gov/my-health/appointments/[ID]`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
+
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -198,15 +336,15 @@ You shared these details about your concern
 
 ---
 
-## VA Booked-Past
+## VA Direct - Past
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -246,15 +384,15 @@ You shared these details about your concern
 
 ---
 
-## VA Booked-Canceled
+## VA Direct - Canceled
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -1598,144 +1736,13 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 ---
 
-### VA Direct Confirmation State
 
-**NAVIGATION**
-
-URL: ``
-
-Redirect: ``
-
-Page title: `[Page Header] | Veterans Affairs`
-
-Breadcrumb: `< Back to [h1 of previous page]`
-
-
-**PAGE HEADER**
-
-```
-{appointment date} at {appointment time}
-```
-
-**PAGE DESCRIPTION**
-
-```
-We've scheduled and confirmed your appointment.
-```
-
-```Review your appointments```
-
-```Schedule a new appointment```
-
-**PAGE CONTENT**
-
-```
-Type of care: {Type of care} 
-
-VA appointment
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Main phone: {phone number} (TTY: 711)
-
-You shared these details about your concern
-{Reason}: {Booking note}
-```
-
-**ACTION BUTTONS**
-
-```Add to calendar```
-
-```Print```
-
-```Cancel appointment```
 
 
 
 ---
 
-### VA Request Confirmation State
 
-**NAVIGATION**
-
-URL: ``
-
-Redirect: ``
-
-Page title: `[Page Header] | Veterans Affairs`
-
-Breadcrumb: `< Back to [h1 of previous page]`
-
-
-**PAGE HEADER**
-
-```diff
-- Pending {type of care} appointment
-+ We received your request
-@@ GH51648 @@
-```
-
-**PAGE DESCRIPTION**
-
-```diff
-- Your appointment request has been submitted. The time and date of this appointment are still to be determined.
-+ We'll try to schedule your appointment in the next 2 business days. Check back here or call your facility for updates.
-@@ GH51648 @@
-```
-
-```diff
-- Review your appointments
-+ Review your upcoming appointments
-@@ GH51648 @@
-```
-
-```diff
-- Schedule a new appointment
-+ Schedule a new appointment
-@@ GH51648 @@
-```
-
-**PAGE CONTENT**
-
-```diff
-+ [Type of care]
-
-- VA appointment
-+ Facility
-{Facility name}
-{Facility address line 1}
-{Facility address line 2}
-Directions
-
-Main phone: {phone number} (TTY: 711)
-
-- Preferred type of appointment
-- {Office visit, Phone call, Telehealth (through VA Video Connect)}
-
-Preferred date and time
-{Preferred date & time #1}
-{Preferred date & time #2}
-{Preferred date & time #3}
-
-- You shared these details about your concern
-+ Details you’d like to share with your provider
-{Reason}: {Booking note}
-
-+ How you want to attend
-[Selected modality]
-
-- Your contact details
-+ Your contact information
-Email: {Email address}
-Phone number: {phone number}
-@@ GH52490 @@
-```
-
-**ACTION BUTTONS**
-
-```Cancel request```
 
 
 
