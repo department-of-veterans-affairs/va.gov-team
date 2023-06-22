@@ -78,7 +78,7 @@ These appointment requests have been canceled.
 
 `[Footer - Need Help]`
 
-#### Request state - empty
+### Request state - empty
 
 You don't have any appointment requests
 
