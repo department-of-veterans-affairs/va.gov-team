@@ -4,7 +4,9 @@
 The online health care application (10-10EZ) and update form (10-10EZR) both can impact a Veteran's eligibilty and placement in a Priority Group. This is more so impactful for those who need to have income information considered for copays or Priority Group placement. 
 
 
-- [Link to product initiative brief](url).
+- [Link to product initiative brief for Priority Groups](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Priority%20Group)
+- [Link to product initiative brief for Financial Disclosure](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities)
+
 
 ### OCTO Priorities 
 
@@ -14,7 +16,9 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 
 
 ### Veteran Journey
-- This fits accross the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from getting out to aging.
+
+- This fits accross the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from **getting out to aging**.
+
 - This impacts a **key moment that matters** in that Veterans need to select the health care coverage according to their individual needs and preferences and that is the best fit for them. 
 
 
@@ -39,15 +43,19 @@ We will use these findings to:
 
 ### Research questions
 
+
+Learn more about Veteran's mental model when applying for health care benefits including the terms they use and how they see levels of benefits/Priority Groups/copays impacting them during the health care application process, during and ongoing after.
+- What are the Veteran's current pain points with how the health care application impacts the overall benefits journey?
+- What is the order and process expectations of Veterans when they are applying for health care benefits?
+- When does it make sense to Veterans to go thorugh eligibiltiy based questions? (before, during or after application)
+
+
+
 Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they feel they need to provide in that process vs. what the VA should have already. 
 - What is the Veteran's mental model of discovering, getting and keeping health care benefits as they go through the application process?
 - What is the Veterans perception of eligibility and Priority Groups when they are completing the application?
 - What information do Veterans feel most that the VA has and they should not have to provide?
 
-Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for.
-- What are the Veteran's current pain points with how the health care application impacts the overall benefits journey?
-- What is the order and process expectations of Veterans when they are applying for health care benefits?
-- When does it make sense to Veterans to go thorugh eligibiltiy based questions? (before, during or after application)
 
 
 Learn more about how Veterans would like to go about providing updated information, especially financial and dependent updates, that could impact their health care benefits post-application/initial enrollment.
