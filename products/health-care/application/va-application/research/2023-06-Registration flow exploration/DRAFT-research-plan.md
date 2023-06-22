@@ -1,7 +1,7 @@
 # DRAFT Research Plan for health care application generative research study around Priority Groups and Financial Disclosure [Health Enrollment Team, 10-10EZ, June 2023]
 
 ## Background
-The online health care application (10-10EZ) and update form (10-10EZR) both can impact a Veteran's eligibilty and placement in a Priority Group. This is more so impactful for those who need to have income information considered for copays or Priority Group placement. 
+The online health care application (10-10EZ) and update form (10-10EZR which is only paper form today) both can impact a Veteran's eligibilty and placement in a Priority Group. This is more so impactful for those who need to have income information considered for copays, travel reimbrusment in addition to Priority Group placement. An understanding of what benefits a Veteran could qualify for and what that cost / benefit is to the Veteran impacts the experience of the online health care application.
 
 
 - [Link to product initiative brief for Priority Groups](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Priority%20Group)
@@ -45,22 +45,22 @@ We will use these findings to:
 
 
 Learn more about Veteran's mental model when applying for health care benefits including the terms they use and how they see levels of benefits/Priority Groups/copays impacting them during the health care application process, during and ongoing after.
-- What are the Veteran's current pain points with how the health care application impacts the overall benefits journey?
-- What is the order and process expectations of Veterans when they are applying for health care benefits?
-- When does it make sense to Veterans to go thorugh eligibiltiy based questions? (before, during or after application)
-
+- What are the Veteran's current pain points with how the health care application impacts the overall health care journey?
+- What is the order and process expectations of Veterans when they are applying for health care benefits in regards to revealing Priority Groups and copay levels?
+- Do Veterans seem confused by Priority Group transparency?
+- Is there frustration about steps or processes after the initial application process in regards to providing more information, filling out additional forms?
 
 
 Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they feel they need to provide in that process vs. what the VA should have already. 
 - What is the Veteran's mental model of discovering, getting and keeping health care benefits as they go through the application process?
-- What is the Veterans perception of eligibility and Priority Groups when they are completing the application?
+- What is the Veterans perception of eligibility and Priority Groups around their health care benefits?
 - What information do Veterans feel most that the VA has and they should not have to provide?
 
 
 
 Learn more about how Veterans would like to go about providing updated information, especially financial and dependent updates, that could impact their health care benefits post-application/initial enrollment.
 - Do Veterans call out the VA profile or MyHelatheVet or the mobile app or (enter here) as their ideal way to provide this updated information in an online setting?
-- Do Veterans prefer to provide updated information in person at appointments?
+- Do Veterans prefer to provide updated information in person at appointments or over the phone?
 - Would Veterans prever to be prompted to provide updated financials?
 
 
@@ -98,9 +98,7 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 
 ### Recruitment criteria
 
-10 completed sessions
-
-**15 requested**
+10 completed sessions / **15 requested**
 
 
 **Primary criteria (must-haves)**
@@ -108,7 +106,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 **Screener Questions**
 
-- Have you applied for health care benefits within the past 5 years and are now enrolled using these benefits? [answer should be yes to qualify.]
+- Have you applied for health care benefits within the past 5 years and are now enrolled and using these benefits? [answer should be yes to qualify.]
 
 
 
@@ -152,12 +150,11 @@ Please request enough dates and at ***least double the amount of time slots for 
 ### Availability
 | **Team Availability** | **Time (ET)** |
 | --------------------- | ------------- |
+| July 13, 2023   	|   		|
+| July 14, 2023   	|   		|
 | July 17, 2023   	|   		|
 | July 18, 2023   	|   		|
 | July 19, 2023   	|   		|
-| July 26, 2023   	|   		|
-| July 27, 2023   	|   		|
-| July 28, 2023   	|   		|
 
 
 
