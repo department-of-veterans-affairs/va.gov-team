@@ -19,13 +19,14 @@
 
 ______
 ### Notes
-...
+- Question from Florence: eventually NC is accessible via menu nav and a badge, wondering if once that happens would that change the UX on My VA?
+- Question from Patrick/Ryan: Use of "importance" icons - concerned about VA defining what's "important" for the user
+
 
 
 ### Next steps
 - Technical overview scheduled for 6/29: VA notify system overview, how the debt notification mvp works, how does MHV on VA.gov come into the fold, etc.
 - PM's to discuss logisitcs i.e. planning timelines and collab cycle coordination
-- ...
 
 _____
 ### Resources
