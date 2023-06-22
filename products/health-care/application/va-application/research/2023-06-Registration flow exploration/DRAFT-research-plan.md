@@ -1,4 +1,4 @@
-# DRAFT Research Plan for health care application Priority Groups/financial updates research study [Health Enrollment Team, 10-10EZ, June 2023]
+# DRAFT Research Plan for health care application generative research study around Priority Groups and Financial Disclosure [Health Enrollment Team, 10-10EZ, June 2023]
 
 ## Background
 The online health care application (10-10EZ) and update form (10-10EZR) both can impact a Veteran's eligibilty and placement in a Priority Group. This is more so impactful for those who need to have income information considered for copays or Priority Group placement. 
