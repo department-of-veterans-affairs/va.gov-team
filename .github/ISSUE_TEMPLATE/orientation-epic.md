@@ -38,7 +38,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 ### General
 
 - [ ] Attend the [General Orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Generalorientation) (schedule via Calendly)
-- [ ] Watch [VA.gov overview video](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html#PlatformOrientation-Purpose)
+- [ ] Watch [VA.gov overview video](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html#PlatformOrientation-Purpose) to learn about documentation and guidance on Platform Website.
 - [ ] Watch [Watch the VFS Orientation for Platform Website video](https://www.youtube.com/watch?v=yzl6nyLmqkA&ab_channel=PlatformCrew)
 - [ ] Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-Slack) with Program, Team, Role and Company
 - [ ] Review [Welcome](https://depo-platform-documentation.scrollhelp.site/getting-started/Welcome.1255276574.html) documentation
@@ -51,7 +51,6 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Review guidance on the [Platform Satisfaction Survery](https://depo-platform-documentation.scrollhelp.site/support/platform-satisfaction-survey)
 - [ ] Review the [Code of Conduct](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/code-of-conduct.md)
 - [ ] Review the [Norms for Communication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/norms-communication.md)
-- [ ] Review [Orientation materials](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) on Platform Website
 - [ ] Review the [Guidelines for Working Safely in an Open Source Repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md)
 
 ### Working on the platform
