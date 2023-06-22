@@ -39,8 +39,6 @@ We will use these findings to:
 
 ### Research questions
 
-
-
 Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they feel they need to provide in that process vs. what the VA should have already. 
 - What is the Veteran's mental model of discovering, getting and keeping health care benefits as they go through the application process?
 - What is the Veterans perception of eligibility and Priority Groups when they are completing the application?
@@ -65,15 +63,10 @@ Learn more about how Veterans would like to go about providing updated informati
 - We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and other claims filed in between that could impact their enrollment and Priority Group placement. 
 - We assume that Veterans who have health care regularly login to VA.gov / Profile 
 - We assume that the VA.gov Profile would be a place that Veterans would natuarlly think to look for financial update information.
-- 
+
 
 ## Methodology	
 - Semi-structured interviews - appropriate for generative research
-- 
-
-Additional desk research will be conducted to supplement these interviews:
-- Google analytics path and keyword study
-- VSignals analysis around keywords (?)
 
 
 ### Location
