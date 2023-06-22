@@ -92,7 +92,7 @@ Phone number: {phone number}
 ```Cancel request```
 
 
-## VA Request-Pending
+## VA Request - Pending
 
 
 **NAVIGATION**
@@ -165,7 +165,7 @@ Phone number: {phone number}
 
 ---
 
-## VA Request-Canceled
+## VA Request - Canceled
 
 **NAVIGATION**
 
@@ -427,7 +427,7 @@ You shared these details about your concern
 
 ---
 
-## Vaccine Booked-Future
+## Vaccine Appointment - Future
 
 **NAVIGATION**
 
@@ -478,7 +478,7 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 ---
 
-## Vaccine Booked-Past
+## Vaccine Appointment - Past
 
 **NAVIGATION**
 
@@ -524,7 +524,7 @@ Main phone: {phone number} (TTY: 711)
 
 ---
 
-## Vaccine Booked-Canceled
+## Vaccine Appointment - Canceled
 
 **NAVIGATION**
 
@@ -633,7 +633,7 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 --- 
 
-## VVC Home Booked-Past
+## VVC Home Appointment - Past
 
 **NAVIGATION**
 
@@ -676,7 +676,7 @@ Provider
 
 ---
 
-## VVC Home Booked-Canceled
+## VVC Home Appointment - Canceled
 
 **NAVIGATION**
 
@@ -716,7 +716,7 @@ Provider
 
 ---
 
-## VVC VA Booked-Future
+## VVC VA Appointment - Future
 
 **NAVIGATION**
 
@@ -774,7 +774,7 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 ---
 
-## VVC VA Booked-Past
+## VVC VA Appointment - Past
 
 **NAVIGATION**
 
@@ -824,7 +824,7 @@ You'll be meeting with
 
 ---
 
-## VVC VA Booked-Canceled
+## VVC VA Appointment - Canceled
 
 **NAVIGATION**
 
@@ -870,7 +870,7 @@ You'll be meeting with
 
 ---
 
-## VVC GFE Booked-Future
+## VVC GFE Appointment - Future
 
 **NAVIGATION**
 
@@ -935,7 +935,7 @@ You'll be meeting with
 
 ---
 
-## VVC GFE Booked-Past
+## VVC GFE Appointment - Past
 
 **NAVIGATION**
 
@@ -979,7 +979,7 @@ Provider
 
 ---
 
-## VVC GFE Booked-Canceled
+## VVC GFE Appointment - Canceled
 
 **NAVIGATION**
 
@@ -1018,7 +1018,7 @@ Provider
 
 ---
 
-## VVC ATLAS Booked-Future
+## VVC ATLAS Appointment - Future
 
 **NAVIGATION**
 
@@ -1078,7 +1078,7 @@ Main phone: {phone number} (TTY: 711)
 
 ---
 
-## VVC ATLAS Booked-Past
+## VVC ATLAS Appointment - Past
 
 **NAVIGATION**
 
@@ -1123,7 +1123,7 @@ Provider
 
 ---
 
-## VVC ATLAS Booked-Canceled
+## VVC ATLAS Appointment - Canceled
 
 **NAVIGATION**
 
@@ -1163,7 +1163,7 @@ Provider
 
 ---
 
-## VA Phone Booked-Future
+## VA Phone Appointment - Future
 
 **NAVIGATION**
 
@@ -1219,7 +1219,7 @@ You shared these details about your concern
 
 ---
 
-## VA Phone Booked-Past
+## VA Phone Appointment - Past
 
 **NAVIGATION**
 
@@ -1271,7 +1271,7 @@ You shared these details about your concern
 
 ---
 
-## VA Phone Booked-Canceled
+## VA Phone Appointment - Canceled
 
 **NAVIGATION**
 
@@ -1323,13 +1323,118 @@ You shared these details about your concern
 
 ---
 
-## CC Request-Pending
+### CC Request - Confirmed
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/requests/[Request-ID]?confirmMsg=true`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]?confirmMsg=true`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `< Back to [h1 of previous page]`
+
+
+**PAGE HEADER**
+
+```diff
+- Pending {type of care} appointment
++ We have recieved your request
+@@ GH51668 @@ 
+```
+
+**PAGE DESCRIPTION**
+
+```diff
+- Your appointment has been submitted. The time and date of this appointment are still to be determined.
++ We'll try to schedule your appointment in the next 2 business days. Check back here or call your facility for updates.
+@@ GH52490 @@
+```
+
+```diff 
+- Review your appointments
++ Review your upcoming appointments
+@@ GH52490 @@
+```
+
+```diff
+- Request a new appointment
++ Schedule a new appointment 
+@@ GH52490 @@
+```
+
+**PAGE CONTENT**
+
+```diff
+Preferred community care provider
+{Provider name}
+
+Preferred date and time
+{Preferred date & time #1}
+{Preferred date & time #2}
+{Preferred date & time #3}
+
+You shared these details about your concern
+{Booking note}
+
+Your contact details
+Email: {Email address}
+Phone number: {phone number}
+- Call {morning, afternoon, evening}
+@@ GH50990 @@
+```
+
+```diff
+
++ Type of care 
+
+Preferred community care provider
+{Provider name}
+
+- Preferred date and time
++ Preferred date and timeframe
+{Preferred date & time #1}
+{Preferred date & time #2}
+{Preferred date & time #3}
+
++ Scheduling facility
++ {Facility name} 
++ Main phone number: [XXX-XXX-XXXX](TTY: 711) 
+
++ Preferred provider
++ [Provider name]
++ [Address]
++ Directions
++ Main phone number: [XXX-XXX-XXXX](TTY: 711) 
+
++ Language you’d prefer the provider speak
++ [Language]
+
+- You shared these details about your concern
+- {Booking note}
++ Details you’d like to share with your provider
++ [Booking note]
+
+Your contact details
+Email: {Email address}
+Phone number: {phone number}
+@@ GH52490 @@
+```
+
+**ACTIONS**
+
+```Cancel request```
+
+---
+
+## CC Request - Pending
+
+**NAVIGATION**
+
+URL: `https://va.gov/my-health/appointments/requests/[Request-ID]`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -1415,13 +1520,13 @@ Phone number: {phone number}
 
 ---
 
-## CC Request-Canceled
+## CC Request - Canceled
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/requests/[Request-ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -1555,7 +1660,6 @@ Need to make changes?
 
 Contact this provider if you need to reschedule or cancel your appointment.
 ```
-
 
 ---
 
@@ -1727,127 +1831,12 @@ Need to make changes?
 Contact this provider if you need to reschedule or cancel your appointment.
 ```
 
-
-
 ---
 
 
 
 
 
----
 
 
 
-
-
----
-
-### CC Request Confirmation State
-
-**NAVIGATION**
-
-```< Back to [h1 of previous page]```
-
-URL: ``
-
-Redirect: ``
-
-Page title: `[Page Header] | Veterans Affairs`
-
-Breadcrumb: `< Back to [h1 of previous page]`
-
-
-**PAGE HEADER**
-
-```diff
-- Pending {type of care} appointment
-+ We have recieved your request
-@@ GH51668 @@ 
-```
-
-**PAGE DESCRIPTION**
-
-```diff
-- Your appointment has been submitted. The time and date of this appointment are still to be determined.
-+ We'll try to schedule your appointment in the next 2 business days. Check back here or call your facility for updates.
-@@ GH52490 @@
-```
-
-```diff 
-- Review your appointments
-+ Review your upcoming appointments
-@@ GH52490 @@
-```
-
-```diff
-- Request a new appointment
-+ Schedule a new appointment 
-@@ GH52490 @@
-```
-
-**PAGE CONTENT**
-
-```diff
-Preferred community care provider
-{Provider name}
-
-Preferred date and time
-{Preferred date & time #1}
-{Preferred date & time #2}
-{Preferred date & time #3}
-
-You shared these details about your concern
-{Booking note}
-
-Your contact details
-Email: {Email address}
-Phone number: {phone number}
-- Call {morning, afternoon, evening}
-@@ GH50990 @@
-```
-
-```diff
-
-+ Type of care 
-
-Preferred community care provider
-{Provider name}
-
-- Preferred date and time
-+ Preferred date and timeframe
-{Preferred date & time #1}
-{Preferred date & time #2}
-{Preferred date & time #3}
-
-+ Scheduling facility
-+ {Facility name} 
-+ Main phone number: [XXX-XXX-XXXX](TTY: 711) 
-
-+ Preferred provider
-+ [Provider name]
-+ [Address]
-+ Directions
-+ Main phone number: [XXX-XXX-XXXX](TTY: 711) 
-
-+ Language you’d prefer the provider speak
-+ [Language]
-
-- You shared these details about your concern
-- {Booking note}
-+ Details you’d like to share with your provider
-+ [Booking note]
-
-Your contact details
-Email: {Email address}
-Phone number: {phone number}
-@@ GH52490 @@
-```
-
-**ACTIONS**
-
-```Cancel request```
-
-
-
----
