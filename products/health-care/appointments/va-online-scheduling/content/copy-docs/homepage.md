@@ -22,13 +22,11 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments`
 
 (Primary Button) `Start scheduling`
 
-[Secondary Nav]
-
-(Link - Selected) `Upcoming`  
-(Link) `Pending (#)`  
-(Link) `Past`
-
-[/Secondary Nav]
+    [Secondary Nav]
+        (Link - Selected) Upcoming   
+        (Link) Pending (#)  
+        (Link) Past
+    [/Secondary Nav]
 
 [List - Upcoming]
 
@@ -64,23 +62,21 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > Requests`
 
 These appointment requests haven’t been scheduled yet.
 
-[Secondary Nav]
+    [Secondary Nav]
+        (Link) Upcoming  
+        (Link - Selected) Pending (#)  
+        (Link) Past
+    [/Secondary Nav]
 
-(Link) `Upcoming`  
-(Link - Selected) `Pending (#)`  
-(Link) `Past`
-
-[/Secondary Nav]
-
-[List - pending requests]
+`[List - pending requests]`
 
 (H2) `Canceled requests`
 
 These appointment requests have been canceled.
 
-[List - canceled requests]
+`[List - canceled requests]`
 
-[Footer - Need Help]
+`[Footer - Need Help]`
 
 #### Request empty state
 
@@ -88,7 +84,7 @@ You don't have any appointment requests
 
 You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
 
-(Link) Schedule an appointment
+(Link) `Schedule an appointment`
 
 ---
 
@@ -110,6 +106,12 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > Past`
 
 **PAGE CONTENT**
 
+    [Secondary Nav]
+        (Link) Upcoming  
+        (Link) Pending (#)  
+        (Link - Selected) Past
+    [/Secondary Nav]
+
     [Date filter]
 
     (Label) Select a date range
@@ -125,9 +127,9 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > Past`
 
     [/Date filter]
 
-[List - Past appointments]
+`[List - Past appointments]`
 
-[Footer - Need help]
+`[Footer - Need help]`
 
 ### Past appointments - empty state
 
@@ -135,7 +137,7 @@ You don't have any past appointments
 
 You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
 
-(link) Schedule an appointment
+(Link) `Schedule an appointment`
 
 ---
 
