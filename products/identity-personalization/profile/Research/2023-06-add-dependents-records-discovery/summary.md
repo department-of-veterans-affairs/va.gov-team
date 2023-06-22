@@ -74,11 +74,11 @@ We met with Danielle Thierry, OCTO Content Lead, to learn about efforts related 
 	- Something to consider is that there are non-family member things that fall into this category. Caregivers don’t have to be family members, and neither do delegates.
 	- We need to consider how we can have an umbrella name, that will also make sense to Veterans who are looking for specific terms (such as family members, caregivers, spouses, survivors, dependents).
 ##### Records
-	- This section of the site was created at a time when we were  far behind where we are now with the authenticated experience. It’s a “mixed bag”.
-	- Veterans can download most letters they search for in profile through this section of the site, but Certificate of Eligibility (COE) is an exception. 
-		- COE is specific to home loans
-		- COE’s are either automatically assigned to a Veteran, or they can submit a form to requests one. 
-		- If we include letters in profile, we’ll probably need to include content and additional links around the COE
+- This section of the site was created at a time when we were  far behind where we are now with the authenticated experience. It’s a “mixed bag”.
+- Veterans can download most letters they search for in profile through this section of the site, but Certificate of Eligibility (COE) is an exception. 
+	- COE is specific to home loans
+	- COE’s are either automatically assigned to a Veteran, or they can submit a form to requests one. 
+	- If we include letters in profile, we’ll probably need to include content and additional links around the COE
 	- Outside of OCTO, there’s a letters generating project happening. Danielle is going to check into that for our team to learn if there are any content considerations we should include in our implementation.
 
 ### Our approach
