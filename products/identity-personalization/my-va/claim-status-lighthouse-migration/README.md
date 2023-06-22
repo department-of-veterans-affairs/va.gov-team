@@ -33,6 +33,8 @@ In June 2023, the EVSS API will be deprecated. In order to continue supporting c
 
 Specifically for My VA, we need to update the claims status widget to connect to Lighthouse instead of EVSS. This should only involve frontend updates, though we will be thoroughly investigating to rule out additional backend needs.
 
+Additional technical background on EVSS > Lighthouse migration [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/lighthouse-migration/main.md).
+
 ## Problem
 
 The Claims and Appeals section of My VA is powered by an integration with EVSS. If we don't update the integration, in June 2023 the widget will no longer pull in claims and appeals details. 
