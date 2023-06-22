@@ -23,16 +23,19 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
   - Status Code: 200 OK
     - Body (object): The Response Object which contains the following fields
       - message (string): "Check-In successful"
-  - Status Code: 5xx
+  - Status Code: 200 OK
     - Body: (object): The demographics data so that it can be confirmed
-  - Status Code: 5xx
+  - Status Code: 200 OK
     - Body (object): The Insurance information is missing/needs to be updated Response Object which contains the following fields
       - message (string): Insurance needs validation
+  - Status Code: 500
+    - Body (object): Invalid appointment object with the following fields 
+      - message (string): too-early, too-late, e-check-in-not-enabled, invalid-status, invalid-type
 
 ### Demographics
 - Description: Optional endpoint if client application is confirming demographics, next of kin and emergency contact information.
 
-#### `POST /demographics`
+#### `POST /demographics-status-update`
 - Description: Send modified demographic information to update demographics
 - Request Body:
   - Body: An Object containing patient demographic information with the following fields
