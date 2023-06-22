@@ -13,6 +13,37 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
 
 ### Check-In
 
+#### `GET /demographics`
+- Description: Get demographics and if they need to be confirmed
+- Request Body:
+  - `patientDFN` (string): The unique identifier of the patient.
+  - `stationNo` (string): The station number.
+- Response:
+  - Body (object): The demographics object
+    - `insuranceVerificationNeeded` (boolean)
+    - `contactInformation` (object)
+      - `needsConfirmation`
+      - ...
+    - `emergencyContact`
+      - `needsConfirmation` (boolean)
+      - ...
+    - `nextOfKin`
+      - `needsConfirmation` (boolean)
+      - ...
+
+#### `PATCH /demographics`
+- Description: Edit demographics in this case all we are doing is changing the needsConfirmation to `false`
+- Request Body:
+  - `patientDFN` (string): The unique identifier of the patient.
+  - `stationNo` (string): The station number.
+  - `demographics` (object): The demographics object with the following fields
+    - `needsConfirmation` (boolean)
+- Response:
+  - Status Code: 200 OK
+    - `Body` (object): The Response Object which contains the following fields
+      - `code` (string): "demographics-confirmed"
+      - `message` (string): "Demographics confirmed"
+
 #### `POST /authenticated-check-in`
 - Description: Check into an appointment and Set eCheckInStarted (happens in initiateCheckIn now), setCheckIn, and eCheckInComplete in vista.
 - Request Body:
