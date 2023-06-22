@@ -5,17 +5,18 @@
 |----------------------------------|-----------------------|-----------------------------------------------|
 |- Chante Lantos Swett (acting PO) <br/>- Anastasia Jakabcin (AJ) (PM) <br/>- Angela Agosto (Design/Research) <br/>- Tom Harrison (BE dev) <br/>- Allison Lu (FE dev) <br/>- Derrick Ellerbie (FS dev)| - Beverly Nelson (PO) <br/>- Melanie Jones (PM) | - Patrick Bateman (PO) <br/>- Tom Anderson (PM) <br/>- Florence McCafferty (Design/Research) <br/>- Robyn Singleton (Research) <br/>- Eric Voshall (dev) <br/>- Richard Davis (dev)|
 
-## Agenda
+## Today's goals
+- Share My VA's progress on design and UX for the notification center MVP (+plans for future iterations) and new onsite notifications using the new design system component
+- Answer any questions from MHV on VA.gov
+- Start the coordination process to get onsite notifications on MHV on VA.gov and new/additional ones on My VA 
+______
+### Agenda
 1. Kick-off
 2. Overview of user flow
 3. My VA and onsite notifications --> Notification Center flow
 4. Notification Center MVP + future iterations (including where we are in collab cycle) 
 5. New onsite notifications: RX shipment, unread messages, claims status update, BAI
 
-## Today's goals
-- Share My VA's progress on design and UX for the notification center MVP (+plans for future iterations) and new onsite notifications using the new design system component
-- Answer any questions from MHV on VA.gov
-- Start the coordination process to get onsite notifications on MHV on VA.gov and new/additional ones on My VA 
 
 ## Notes
 ...
