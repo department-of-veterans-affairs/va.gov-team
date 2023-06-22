@@ -10,7 +10,7 @@
 
 ---
 
-### VA Request - Confirmation State
+### VA Request - Confirmed
 
 **NAVIGATION**
 
@@ -20,7 +20,7 @@ Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments
 
 Page title: `[Page Header] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
+Breadcrumb: `< Back to requests`
 
 
 **PAGE HEADER**
@@ -229,7 +229,7 @@ Phone number: {phone number}
 
 ---
 
-### VA Direct - Confirmed
+### VA In-person - Confirmed
 
 **NAVIGATION**
 
@@ -239,7 +239,7 @@ Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
+Breadcrumb: `< Back to appointments`
 
 
 **PAGE HEADER**
@@ -285,7 +285,7 @@ You shared these details about your concern
 
 ---
 
-## VA Direct - Upcoming
+## VA In-person - Upcoming
 
 **NAVIGATION**
 
@@ -336,7 +336,7 @@ You shared these details about your concern
 
 ---
 
-## VA Direct - Past
+## VA In-person - Past
 
 **NAVIGATION**
 
@@ -384,7 +384,7 @@ You shared these details about your concern
 
 ---
 
-## VA Direct - Canceled
+## VA In-person - Canceled
 
 **NAVIGATION**
 
@@ -427,15 +427,70 @@ You shared these details about your concern
 
 ---
 
-## Vaccine Appointment - Future
+### VA Vaccine In-person Appointment - Confirmed
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]?confirmMsg=true`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]?confirmMsg=true`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+
+Breadcrumb: `< Back to appointments`
+
+**PAGE HEADER**
+
+```
+{appointment date} at {appointment time}
+```
+
+**PAGE DESCRIPTION**
+
+```
+We've scheduled and confirmed your appointment.
+```
+
+```Review your appointments```
+
+```Schedule a new appointment```
+
+**PAGE CONTENT**
+
+```
+Type of care: {Type of care}
+
+COVID-19 vaccine
+{Facility name}
+{Facility address}
+Directions
+
+Clinic: {Clinic name}
+Main phone: {phone number} (TTY: 711)
+```
+
+**ACTIONS**
+
+```Add to calendar```
+
+```Print```
+
+```
+Need to make changes?
+Contact this provider if you need to reschedule or cancel your appointment.
+```
+
+---
+
+## VA Vaccine In-person Appointment - Upcoming
+
+**NAVIGATION**
+
+URL: `https://va.gov/my-health/appointments/[ID]`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
+
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -478,15 +533,15 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 ---
 
-## Vaccine Appointment - Past
+## VA Vaccine In-person Appointment - Past
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -524,15 +579,15 @@ Main phone: {phone number} (TTY: 711)
 
 ---
 
-## Vaccine Appointment - Canceled
+## VA In-person Vaccine Appointment - Canceled
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -566,15 +621,15 @@ Main phone: {phone number} (TTY: 711)
 
 ---
 
-## VVC at Home - Upcoming
+## VA VVC at Home Appointment - Upcoming
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -633,15 +688,15 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 --- 
 
-## VVC Home Appointment - Past
+## VA VVC at Home Appointment - Past
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -676,15 +731,15 @@ Provider
 
 ---
 
-## VVC Home Appointment - Canceled
+## VA VVC Home Appointment - Canceled
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -716,15 +771,15 @@ Provider
 
 ---
 
-## VVC VA Appointment - Future
+## VA VVC at VA Appointment - Upcoming
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -774,15 +829,15 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 ---
 
-## VVC VA Appointment - Past
+## VA VVC VA Appointment - Past
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -824,15 +879,15 @@ You'll be meeting with
 
 ---
 
-## VVC VA Appointment - Canceled
+## VA VVC VA Appointment - Canceled
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -870,15 +925,15 @@ You'll be meeting with
 
 ---
 
-## VVC GFE Appointment - Future
+## VA VVC GFE Appointment - Upcoming
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -935,15 +990,15 @@ You'll be meeting with
 
 ---
 
-## VVC GFE Appointment - Past
+## VA VVC GFE Appointment - Past
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -979,15 +1034,15 @@ Provider
 
 ---
 
-## VVC GFE Appointment - Canceled
+## VA VVC GFE Appointment - Canceled
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -1018,15 +1073,15 @@ Provider
 
 ---
 
-## VVC ATLAS Appointment - Future
+## VA VVC ATLAS Appointment - Upcoming
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -1078,15 +1133,15 @@ Main phone: {phone number} (TTY: 711)
 
 ---
 
-## VVC ATLAS Appointment - Past
+## VA VVC ATLAS Appointment - Past
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -1123,15 +1178,15 @@ Provider
 
 ---
 
-## VVC ATLAS Appointment - Canceled
+## VA VVC ATLAS Appointment - Canceled
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -1163,15 +1218,15 @@ Provider
 
 ---
 
-## VA Phone Appointment - Future
+## VA Phone Appointment - Upcoming
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -1223,11 +1278,11 @@ You shared these details about your concern
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -1275,11 +1330,11 @@ You shared these details about your concern
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: ``
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -1333,7 +1388,7 @@ Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments
 
 Page title: `[Page Header] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
+Breadcrumb: `< Back to requests`
 
 
 **PAGE HEADER**
@@ -1773,65 +1828,9 @@ Preferred community care provider
 No provider selected
 ```
 
----
-
-## Confirmation States
-
-### Vaccine Confirmation State
-
-**NAVIGATION**
-
-URL: ``
-
-Redirect: ``
-
-Page title: `[Page Header] | Veterans Affairs`
-
-Breadcrumb: `< Back to [h1 of previous page]`
 
 
-**PAGE HEADER**
 
-```
-{appointment date} at {appointment time}
-```
-
-**PAGE DESCRIPTION**
-
-```
-We've scheduled and confirmed your appointment.
-```
-
-```Review your appointments```
-
-```Schedule a new appointment```
-
-**PAGE CONTENT**
-
-```
-Type of care: {Type of care}
-
-COVID-19 vaccine
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Main phone: {phone number} (TTY: 711)
-```
-
-**ACTIONS**
-
-```Add to calendar```
-
-```Print```
-
-```
-Need to make changes?
-Contact this provider if you need to reschedule or cancel your appointment.
-```
-
----
 
 
 
