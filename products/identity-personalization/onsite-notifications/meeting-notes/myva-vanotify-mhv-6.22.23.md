@@ -1,6 +1,6 @@
 # My VA - VA Notify - MHV on VA.gov: Onsite notifications + Notification Center MVP+ (Design/UX)
 
-## In attendance
+## In attendance - 6/22/23
 | My VA | VA Notify | MHV on VA.gov |
 |----------------------------------|-----------------------|-----------------------------------------------|
 |- Chante Lantos Swett (acting PO) <br/>- Anastasia Jakabcin (AJ) (PM) <br/>- Angela Agosto (Design/Research) <br/>- Tom Harrison (BE dev) <br/>- Allison Lu (FE dev) <br/>- Derrick Ellerbie (FS dev)| - Beverly Nelson (PO) <br/>- Melanie Jones (PM) | - Patrick Bateman (PO) <br/>- Tom Anderson (PM) <br/>- Florence McCafferty (Design/Research) <br/>- Robyn Singleton (Research) <br/>- Eric Voshall (dev) <br/>- Richard Davis (dev)|
