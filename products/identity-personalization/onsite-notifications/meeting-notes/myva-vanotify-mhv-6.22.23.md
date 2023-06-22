@@ -27,4 +27,6 @@ ______
 - PM's to discuss logisitcs i.e. planning timelines and collab cycle coordination
 - ...
 
-
+_____
+### Resources
+_TK_
