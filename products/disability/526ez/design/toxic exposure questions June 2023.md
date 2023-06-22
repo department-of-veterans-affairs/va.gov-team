@@ -172,7 +172,7 @@ On the next few screens, we’ll ask you about supporting documents like medical
 
 **We strongly encourage you to submit documentation with your claim to help us understand:**
 - how your condition is related to your service (unless we already consider your condition to be connected to burn pits or other toxic exposure)
-- the nature and symptoms of the conditions, including severity and duration of the symptoms
+- the nature and symptoms of the condition, including severity and duration of the symptoms
 - how the condition impacts you and your ability to work.
 
 If we previously granted you benefits and your disability has worsened, we need documentation that shows the increase in severity and the effect that has had on you and your ability to work.
