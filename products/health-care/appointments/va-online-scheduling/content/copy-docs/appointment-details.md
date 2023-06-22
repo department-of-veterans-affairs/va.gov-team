@@ -10,6 +10,8 @@
 
 ---
 
+## VA Requests
+
 ### VA Request - Confirmed
 
 **NAVIGATION**
@@ -92,8 +94,7 @@ Phone number: {phone number}
 ```Cancel request```
 
 
-## VA Request - Pending
-
+### VA Request - Pending
 
 **NAVIGATION**
 
@@ -165,7 +166,7 @@ Phone number: {phone number}
 
 ---
 
-## VA Request - Canceled
+### VA Request - Canceled
 
 **NAVIGATION**
 
@@ -229,6 +230,8 @@ Phone number: {phone number}
 
 ---
 
+## VA In-person
+
 ### VA In-person - Confirmed
 
 **NAVIGATION**
@@ -285,7 +288,7 @@ You shared these details about your concern
 
 ---
 
-## VA In-person - Upcoming
+### VA In-person - Upcoming
 
 **NAVIGATION**
 
@@ -336,7 +339,7 @@ You shared these details about your concern
 
 ---
 
-## VA In-person - Past
+### VA In-person - Past
 
 **NAVIGATION**
 
@@ -384,7 +387,7 @@ You shared these details about your concern
 
 ---
 
-## VA In-person - Canceled
+### VA In-person - Canceled
 
 **NAVIGATION**
 
@@ -427,7 +430,7 @@ You shared these details about your concern
 
 ---
 
-### VA Vaccine In-person Appointment - Confirmed
+### VA In-person Vaccine Appointment - Confirmed
 
 **NAVIGATION**
 
@@ -482,7 +485,7 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 ---
 
-## VA Vaccine In-person Appointment - Upcoming
+### VA In-person Vaccine Appointment - Upcoming
 
 **NAVIGATION**
 
@@ -533,7 +536,7 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 ---
 
-## VA Vaccine In-person Appointment - Past
+### VA In-person Vaccine Appointment - Past
 
 **NAVIGATION**
 
@@ -579,7 +582,7 @@ Main phone: {phone number} (TTY: 711)
 
 ---
 
-## VA In-person Vaccine Appointment - Canceled
+### VA In-person Vaccine Appointment - Canceled
 
 **NAVIGATION**
 
@@ -621,7 +624,9 @@ Main phone: {phone number} (TTY: 711)
 
 ---
 
-## VA VVC at Home Appointment - Upcoming
+## VA Video Care Appointments
+
+### VA VVC at Home Appointment - Upcoming
 
 **NAVIGATION**
 
@@ -688,7 +693,7 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 --- 
 
-## VA VVC at Home Appointment - Past
+### VA VVC at Home Appointment - Past
 
 **NAVIGATION**
 
@@ -731,7 +736,7 @@ Provider
 
 ---
 
-## VA VVC Home Appointment - Canceled
+### VA VVC Home Appointment - Canceled
 
 **NAVIGATION**
 
@@ -771,7 +776,7 @@ Provider
 
 ---
 
-## VA VVC at VA Appointment - Upcoming
+### VA VVC at VA Appointment - Upcoming
 
 **NAVIGATION**
 
@@ -829,7 +834,7 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 ---
 
-## VA VVC VA Appointment - Past
+### VA VVC VA Appointment - Past
 
 **NAVIGATION**
 
@@ -879,7 +884,7 @@ You'll be meeting with
 
 ---
 
-## VA VVC VA Appointment - Canceled
+### VA VVC VA Appointment - Canceled
 
 **NAVIGATION**
 
@@ -925,7 +930,7 @@ You'll be meeting with
 
 ---
 
-## VA VVC GFE Appointment - Upcoming
+### VA VVC GFE Appointment - Upcoming
 
 **NAVIGATION**
 
@@ -990,7 +995,7 @@ You'll be meeting with
 
 ---
 
-## VA VVC GFE Appointment - Past
+### VA VVC GFE Appointment - Past
 
 **NAVIGATION**
 
@@ -1034,7 +1039,7 @@ Provider
 
 ---
 
-## VA VVC GFE Appointment - Canceled
+### VA VVC GFE Appointment - Canceled
 
 **NAVIGATION**
 
@@ -1073,7 +1078,7 @@ Provider
 
 ---
 
-## VA VVC ATLAS Appointment - Upcoming
+### VA VVC ATLAS Appointment - Upcoming
 
 **NAVIGATION**
 
@@ -1133,7 +1138,7 @@ Main phone: {phone number} (TTY: 711)
 
 ---
 
-## VA VVC ATLAS Appointment - Past
+### VA VVC ATLAS Appointment - Past
 
 **NAVIGATION**
 
@@ -1178,7 +1183,7 @@ Provider
 
 ---
 
-## VA VVC ATLAS Appointment - Canceled
+### VA VVC ATLAS Appointment - Canceled
 
 **NAVIGATION**
 
@@ -1218,7 +1223,7 @@ Provider
 
 ---
 
-## VA Phone Appointment - Upcoming
+### VA Phone Appointment - Upcoming
 
 **NAVIGATION**
 
@@ -1274,7 +1279,7 @@ You shared these details about your concern
 
 ---
 
-## VA Phone Appointment - Past
+### VA Phone Appointment - Past
 
 **NAVIGATION**
 
@@ -1326,7 +1331,7 @@ You shared these details about your concern
 
 ---
 
-## VA Phone Appointment - Canceled
+### VA Phone Appointment - Canceled
 
 **NAVIGATION**
 
@@ -1483,7 +1488,7 @@ Phone number: {phone number}
 
 ---
 
-## CC Request - Pending
+### CC Request - Pending
 
 **NAVIGATION**
 
@@ -1575,7 +1580,7 @@ Phone number: {phone number}
 
 ---
 
-## CC Request - Canceled
+### CC Request - Canceled
 
 **NAVIGATION**
 
@@ -1663,7 +1668,7 @@ Phone number: {phone number}
 
 ---
 
-## CC Appointment - Upcoming
+### CC Appointment - Upcoming
 
 **NAVIGATION**
 
@@ -1718,7 +1723,7 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 ---
 
-## CC Appointment - Past
+### CC Appointment - Past
 
 **NAVIGATION**
 
@@ -1768,7 +1773,7 @@ You shared these details about your concern
 
 ---
 
-## CC Appointment - Canceled
+### CC Appointment - Canceled
 
 **NAVIGATION**
 
