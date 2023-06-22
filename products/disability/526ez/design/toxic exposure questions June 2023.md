@@ -187,4 +187,4 @@ We’ll also review records from other non-VA doctors or hospitals that you iden
 
 You can also upload supporting statements from family or friends that could tell us more about how your disability impacts your day-to-day life and your ability to work.
 
-Note: We may ask you to complete an exam if you don’t submit evidence or if we need more information to decide your claim.
+**Note:** We may ask you to complete an exam if you don’t submit evidence or if we need more information to decide your claim.
