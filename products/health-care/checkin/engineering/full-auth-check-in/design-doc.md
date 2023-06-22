@@ -36,51 +36,13 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
 - Description: Optional endpoint if client application is confirming demographics, next of kin and emergency contact information.
 
 #### `POST /demographics-status-update`
-- Description: Send modified demographic information to update demographics
+- Description: Send confirmations
 - Request Body:
   - Body: An Object containing patient demographic information with the following fields
-  - `cellPhone` (string): The patient's phone number
-  - `emailAddress` (string): The patients's email
-  - `homeAddress` (object): The patients's home address containing the following fields:
-    - `street1`
-    - `street2`
-    ...
-  - `homePhone` (string)
-  - `mailingAddress` (object): The patients's home address containing the following fields:
-    - `street1`
-    - `street2`
-    ...
-  - `workPhone` (string): The patient's work phone
-  - `emergencyContact` (Object): The patient's emergency contact with the following fields:
-    - `address` (Object):
-      - `street1`
-      - `street2`
-      ...
-    - `name` (string): The emergency contact's name,
-    - `phone` (string): The emergency contact's phone number,
-    - `relationship` (string): The emergency contact's relationship to the patient,
-    - `workPhone` (string): The emergency contact's work phone number,
-  - `nextOfKin1` (object): An object containing information about patient's next of kin with the following fields:
-    - `address`: (object): The patients's next of kin address containing the following fields:
-      - `street1`
-      - `street2`
-      ...
-    - `name` (string): Next of kin name
-    - `phone` (string):  Next of kin phone
-    - `relationship` (string): Next of kin relationship
-    - `workPhone` (string): Next of kin work phone
-  - `nextOfKin2` (object): An object containing information about patient's next of kin with the following fields:
-    - `address` (object): The patients's next of kin address containing the following fields:
-      - `street1`
-      - `street2`
-      ...
-    - `name` (string): Next of kin name
-    - `phone` (string): Next of kin phone
-    - `relationship` (string): Next of kin relationship
-    - `workPhone` (string): Next of kin work phone
+  - `demographics-confirmed` (bool): Whether or not the demographics were confirmed by user
 - Response:
   - Status Code: 200 OK
-    - Body: Success message(patient checked-in).
+    - Body: Confirmations Updated message.
     
 ### Error Handling
 The API follows standard HTTP status codes for indicating the success or failure of a request. Additionally, specific error responses are returned with relevant error messages in the response body.
