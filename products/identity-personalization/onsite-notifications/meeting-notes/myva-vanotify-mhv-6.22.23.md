@@ -9,7 +9,7 @@
 - Share My VA's progress on design and UX for the notification center MVP (+plans for future iterations) and new onsite notifications using the new design system component
 - Answer any questions from MHV on VA.gov
 - Start the coordination process to get onsite notifications on MHV on VA.gov and new/additional ones on My VA 
-______
+
 ### Agenda
 1. Kick-off
 2. Overview of user flow
@@ -17,7 +17,7 @@ ______
 4. Notification Center MVP + future iterations (including where we are in collab cycle) 
 5. New onsite notifications: RX shipment, unread messages, claims status update, BAI
 
-
+______
 ### Notes
 ...
 
