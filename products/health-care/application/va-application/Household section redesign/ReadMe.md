@@ -140,10 +140,10 @@ Data source - Call Center team/TBD
 - [Technical documentation folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/engineering)
 - How to access and test
     - [Staging env](https://staging.va.gov/health-care/apply/application/introduction)
-    - Testing documentation - TestRail
+    - [Testing documentation - TestRail](https://dsvavsp.testrail.io/index.php?/reports/overview/10)
     - [Household section test/use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Staging%20Review_QA/Household%20Section%20Optimization%20Use%20Cases.md)
-    - Household section a11y test case documentation
-- Release plan
+    - [Household section a11y test case documentation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58694)
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Product/Household%20section%20optimization%20-%20Release%20Plan.md)
 - [Production env](https://www.va.gov/health-care/apply/application/introduction)
 
 
