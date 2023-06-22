@@ -10,8 +10,10 @@ Attendees: Aliyah, Laura, Carl, and Dawn
     - Style change: John confirmed we should say Login.gov and ID.me meet "modern security standards" rather than "the latest federal security standards." We’ve adjusted this on the Creating an account on VA.gov page.
      - Confirmed with Joe that the verification step doesn't always happen at first sign in with Login.gov or ID.me. It happens the first time you access a page with PII/PHI. So we're adjusting to say "The first time you use your account to manage your VA benefits or information, you'll need to verify your identity"
      - **Continued action:** Aliyah gathering screen captures of all changes (post feedback) and sending another email to John and Tom by EOD Friday 6/23.
- - Reviewed email content from Carl. We'll open a ticket to track notes/feedback points that we discussed.   
+ - Reviewed email content from Carl. We'll open a ticket to track notes/feedback points that we discussed.
+     -  **Action item:** Carl to confirm details with Joe re: what happens if someone loses access to their MFA device.  
 - We chatted about the Medallia survey - Laura mentioned that Danielle is in the proccess of reviewing Medallia data. If there are any takeaways that relate to identity/signing in, we'll be sure to share that out with LGA team.
+- We'll review the Verifying your identity on VA.gov page in our next meeting. Joe was OOO today.
 
 **June 15, 2023**
 -
