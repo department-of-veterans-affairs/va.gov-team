@@ -46,7 +46,7 @@ Before we start, a few things I want to mention:
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
 
-## Warm-up Questions  - 5 minutes
+## Warm-up Questions  - 3 minutes
 
 Let’s start with a few warm-up questions.
 
@@ -70,7 +70,7 @@ Let’s start with a few warm-up questions.
 - [What pain points or areas of confusion are revealed?]
 
 
-## Second Topic: [Priority Group] - 10 minutes
+## Second Topic: [Priority Group] - 5 minutes
 
 - How did you determine what health benefits you could get when you recently enrolled for health care benefits?
 - What resources did you use to understand what you might qualify for?
@@ -123,11 +123,10 @@ Let’s start with a few warm-up questions.
 - In a perfect world, how would you like to discover what copays you qualify to pay?
 
 
-## Fourth Topic: [Ideal State] - 10 minutes
+## Fourth Topic: [Ideal State] - 5 minutes
 - Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using and updataing your information to keep your benefits. 
 - What tools, communication, people could make this the best process possible in your mind?
 - What information would be important to you so you feel confident when having to apply for health care benefits?
-
 
 
 ### Things to watch for:
@@ -140,7 +139,7 @@ Let’s start with a few warm-up questions.
 
 
 
-## Post-Task Interview - 5 minutes
+## Post-Task Interview - 2 minutes
 
 - Is there anything else you would like to add about what we talked about today?
 - Any questions for me? 
