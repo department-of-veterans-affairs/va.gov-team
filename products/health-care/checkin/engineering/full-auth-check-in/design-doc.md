@@ -27,7 +27,7 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
     - Body: (object): The demographics data so that it can be confirmed
   - Status Code: 5xx
     - Body (object): The Insurance information is missing/needs to be updated Response Object which contains the following fields
-      - message (string): The message from upstream service
+      - message (string): Insurance needs validation
 
 ### Demographics
 - Description: Optional endpoint if client application is confirming demographics, next of kin and emergency contact information.
