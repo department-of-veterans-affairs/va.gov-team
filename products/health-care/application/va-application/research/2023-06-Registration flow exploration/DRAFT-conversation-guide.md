@@ -26,11 +26,11 @@ Slack for real-time feedback from observers.
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about the health care application process.
+Today we're going to talk about the health care application experience but mostly focusing on what happens after around benefits and updates.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.** 
 - Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
@@ -51,7 +51,7 @@ Before we start, a few things I want to mention:
 Let’s start with a few warm-up questions.
 
 - Are you currently enrolled and using health care benefits from the VA? 
-- How often do you visit a VA facility for care? 
+- How often do you visit a VA facility for medical care? 
 - How often do you visit VA.gov online? And do you sign in every time or how often do you sign in?
 
 
@@ -73,9 +73,10 @@ Let’s start with a few warm-up questions.
 ## Second Topic: [Priority Group] - 10 minutes
 
 - How did you determine what health benefits you could get when you recently enrolled for health care benefits?
-- What resources do you use to understand what you might qualify for?
-- Looking back now after you have been using health care benefits, is there anything you wish you would have known during the application?
-- Do you know what Priority Group you are in for your health care benefits?
+- What resources did you use to understand what you might qualify for?
+- Do you know what Priority Group you are in for your health care benefits now?
+- Can you please describe how this was communicated to you and how you understood the impact to your health care benefits?
+- Before you completed enrollment, were you aware of Priority Groups or copays as part of the health care benefits package?
 
 ### Things to watch for:
 - [How does the Veteran descirbe the process of figuring out what they are eligble for - are they frustrated, do they find it easy, do they just expect the VA to have the data and figure it out for them?]
@@ -85,20 +86,37 @@ Let’s start with a few warm-up questions.
 
 ## Second Topic: [Priority Group - SCENARIO] - 10 minutes
 
-- I'm going to share my screen and show 
+- I'm going to share my screen and show you a couple of hypothetical options on how might be able to view your health care benefits online after enrollment.
+
+- Mural board
 
 
-## Third Topic: [Financial Updates and Copays] - 10 minutes
+- What kind of benefit would being able to view your Priority Group online provide you?
+- Out of these two options, is there one that would be more useful to you?
+- Is there anything here you would consider noise and not want to see on these examples?
 
-- Scenario first
+- Now I would like to transition to you sharing your screen and have to go to the link in the chat:
+- https://staging.va.gov/
 
-- 
+- Let's continue on with a scenario that you are aware of Priority Groups and you want to sign up for health care benefits. 
+- Can you walk me through where you would expect to find this information from the homepage so that you can apply and know what group you will qualify for?
 
 
-- Can you recall the process of having to answer financial or household information - like questions about your spouse and dependents - whey you completed your initial application?
-- Did anything stand out to you?
-- Looking back post-appliation, can you explain your impression of how your answers submitted around financials inpacted your benefits?
-- Have you had to provide updated information since you have been enrolled, like changes in income or adding dependents? If so, can you tell me more about how this process went for you.
+## Third Topic: [Financial Disclosure- SCENARIO] - 10 minutes
+
+
+- For this next scenario, you completed that application and enrolled for health care benefits.
+- You get a bill in the mail saying you owe for copays and you need to submit your financial information from the last calendar year.
+- You go to va.gov - you can reclick on the link in the chat or the logo in the header to go back -
+- Now, walk me through where you would expect to be able to provide your updated income information so you can go back to qualifing for no copays as you used to.
+- You can stop screen sharing now, thank you.
+
+
+## Third Topic: [Financial Disclosure] - 10 minutes
+
+- Looking back on your application now, can you explain your impression of how your answers submitted around financials inpacted your benefits?
+- Have you had to provide updated information since you have been enrolled, like changes in income or adding dependents?
+- If so, can you tell me more about how this process went for you.
 - How would you like to go about providing various updates that could impact your health care benefits?
 - How would you see a change in income impacting your health care benefits?
 - If you have copays, when during the enrollment process were you clear on what you qualified for and what you would have to pay? 
