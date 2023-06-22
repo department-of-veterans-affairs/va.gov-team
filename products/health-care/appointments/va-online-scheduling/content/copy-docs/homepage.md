@@ -106,26 +106,29 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > Past`
 
 **PAGE CONTENT**
 
+```
     [Secondary Nav]
         (Link) Upcoming  
         (Link) Pending (#)  
         (Link - Selected) Past
     [/Secondary Nav]
-
+```
+```
     [Date filter]
 
-    (Label) Select a date range
+        (Label) Select a date range
 
         (Options)
-        Past 3 months
-        All of {current year}
-        All of {prior year}
-        {5 months prior} - {3 months prior}
-        {8 months prior} - {6 months prior}
-        {11 months prior} - {9 months prior}
+            Past 3 months
+            All of {current year}
+            All of {prior year}
+            {5 months prior} - {3 months prior}
+            {8 months prior} - {6 months prior}
+            {11 months prior} - {9 months prior}
         (/Options)
 
     [/Date filter]
+```
 
 `[List - Past appointments]`
 
