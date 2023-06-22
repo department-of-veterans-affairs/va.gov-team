@@ -23,11 +23,13 @@ ______
 - Question from Patrick/Ryan: Use of "importance" icons - concerned about VA defining what's "important" for the user
 
 
-
 ### Next steps
 - Technical overview scheduled for 6/29: VA notify system overview, how the debt notification mvp works, how does MHV on VA.gov come into the fold, etc.
 - PM's to discuss logisitcs i.e. planning timelines and collab cycle coordination
 
 _____
 ### Resources
-_TK_
+- Sketch files presented on the call (link tk)
+- Previous research conducted by the My VA team regarding "action items" and notification center
+      - [Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery#project-outline-action-items-discovery) _goes into the concept of action items and purpose of onsite notifications being to elevate/surface potentially time-sensitive tasks to Veterans for them to act on_
+      - [Notification Center discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery/scaling-onsite-notifications-stakeholder-research-findings.md) _findings from conversations with OCTO stakeholders around VA.gov notification center_
