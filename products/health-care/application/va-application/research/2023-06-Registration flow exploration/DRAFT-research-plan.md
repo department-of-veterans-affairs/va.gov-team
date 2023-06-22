@@ -11,7 +11,6 @@ The online health care application (10-10EZ) and update form (10-10EZR) both can
 Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
 
 - Enhance Veterans’ personalized online experience
-- Fast-track disability claims, starting with PACT Act claims 
 
 
 ### Veteran Journey
@@ -23,30 +22,33 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 
 Learn more about Veteran's mental model when applying for health care benefits including the terms they use and how they see levels of benefits/Priority Groups/copays impacting them during the health care application process, during and ongoing after.
 
-Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they feel they need to provide in that process. 
+Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they feel they need to provide in that process vs. what the VA should have already. 
 
 Learn more about how Veterans would like to go about providing updated information, especially financial and dependent updates, that could impact their health care benefits post-application/initial enrollment.
 
 
 ### Outcome
 We will use these findings to:
-- Check assumptions and terminology used to remain Veteran-centric 
-- Develop insights into an ideal state and how Veteran would prefer to navigation the health care benefits application journey
-- Develop insights early during initial design discovery phase and iterate 
+- Check assumptions and terminology used to remain Veteran-centric
+- Develop insights into an ideal state and how Veteran would prefer to navigate the health care benefits application journey
+- Develop insights into how a Veteran would like to find personalized information about Priority Groups and copays online
+- Develop insights into where and how a Veteran would expect to be able to update their financial information online
+- Get initial feedback on early wireframes and hypothetical scenario storyboards
 
+  
 
 ### Research questions
 
 
 
-Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they feel they need to provide in that process. 
+Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they feel they need to provide in that process vs. what the VA should have already. 
 - What is the Veteran's mental model of discovering, getting and keeping health care benefits as they go through the application process?
 - What is the Veterans perception of eligibility and Priority Groups when they are completing the application?
-- Do Veterans feel most information the VA has and they should not have to provide?
+- What information do Veterans feel most that the VA has and they should not have to provide?
 
 Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for.
 - What are the Veteran's current pain points with how the health care application impacts the overall benefits journey?
-- What is the order and process expectations of Veterans when they are applying (registering or enrolling) for health care benefits?
+- What is the order and process expectations of Veterans when they are applying for health care benefits?
 - When does it make sense to Veterans to go thorugh eligibiltiy based questions? (before, during or after application)
 
 
@@ -60,13 +62,14 @@ Learn more about how Veterans would like to go about providing updated informati
 
 ### Hypothesis
 - We assume the overall process of determining eligibility and being placed in a Priority Group is somewhat unclear to Veterans today.
-- We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and other claims filed in between. 
+- We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and other claims filed in between that could impact their enrollment and Priority Group placement. 
 - We assume that Veterans who have health care regularly login to VA.gov / Profile 
+- We assume that the VA.gov Profile would be a place that Veterans would natuarlly think to look for financial update information.
 - 
 
 ## Methodology	
 - Semi-structured interviews - appropriate for generative research
-
+- 
 
 Additional desk research will be conducted to supplement these interviews:
 - Google analytics path and keyword study
@@ -83,6 +86,8 @@ Remote via Zoom for the interviews
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/DRAFT-conversation-guide.md) 
 
 - [Recruitment ticket]
+
+  
 	
 ## Recruitment	
 
@@ -92,9 +97,9 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 
 ### Recruitment criteria
 
-15 completed sessions
+10 completed sessions
 
-**21 requested**
+**15 requested**
 
 
 **Primary criteria (must-haves)**
@@ -118,7 +123,7 @@ What criteria would strengthen your results?
 
 ## Timeline
 
-Thursday July 6 -  Wednesday July 19
+Thursday, July 13 -  Thursday, July 19
 
 
 
@@ -129,9 +134,7 @@ Thursday July 6 -  Wednesday July 19
 
 ### Research sessions
 * Planned dates of research:
-* Cohort 1: Thursday July 6 - Friday July 7
-* Cohort 2: Monday July 17 - Wednesday July 19
-* Cohort 3: Wednesday July 26 - Friday July 28
+
 
 ### Length of sessions
 * Session length:  < 1 hour
@@ -148,8 +151,6 @@ Please request enough dates and at ***least double the amount of time slots for 
 ### Availability
 | **Team Availability** | **Time (ET)** |
 | --------------------- | ------------- |
-| July 6, 2023     	|    		|
-| July 7, 2023   	|   		|
 | July 17, 2023   	|   		|
 | July 18, 2023   	|   		|
 | July 19, 2023   	|   		|
