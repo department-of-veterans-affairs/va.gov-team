@@ -2,7 +2,7 @@
 
 ## Background
 
-This study is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information.  This study aims to support this effort by investigating the different wayfinding strategies users use when completing key health management tasks on MHV on VA.gov.  It is part of a broader research effort to align Information Architecture for the MHV to VA.gov integration.  More on this can be found here: https://github.com/department-of-veterans-affairs/va.gov-team/tree/1d786b3abb178f9ae326c821596729b896a65090/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA
+This study is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information.  This study aims to support this effort by investigating the different wayfinding strategies users use when completing key health management tasks on MHV on VA.gov.  It is part of a broader research effort to align Information Architecture for the MHV to VA.gov integration.  More on this [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/1d786b3abb178f9ae326c821596729b896a65090/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA).
 
 You can read more about the Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
@@ -32,7 +32,7 @@ This research will inform updates to the MHV on VA.gov wayfinding efforts to sup
 1. When users are at the "manage health" stage, where do they look for their health-related services and resources on VA.gov? What health-related information do they seek out?  
 2. How do users navigate from an uanthenticated state to the the MHV portal?
 3. How easily can users navigate to various tasks within the MHV portal?
-4. Once deep within MHV portal tool nav hierarchy, how do users navigate back out to MHV portal or wider VA.gov? (e.g., out of health landing page, or specific tool on landing page) What do users do if they get lost?
+4. Once deep within MHV portal tool navigation hierarchy, how do users navigate back out to MHV portal or wider VA.gov? (e.g., out of health landing page, or specific tool on landing page) What do users do if they get lost?
 5. How do users differentiate between My VA vs. MHV portal? What resources do they expect to be in each of those two locations?
 
 
@@ -47,26 +47,28 @@ Data collection will be remote and conducted using Zoom.
 
 ### Research materials
 
-The conversation guide can be found here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/51d9beee1bbe325473118685c6f0ea6e46115fb7/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/2023-06-health-wayfinding-conversation-guide_AVS.md
+The conversation guide can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/51d9beee1bbe325473118685c6f0ea6e46115fb7/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/2023-06-health-wayfinding-conversation-guide_AVS.md)
 
-All other research documents can be found here: https://github.com/department-of-veterans-affairs/va.gov-team/tree/51d9beee1bbe325473118685c6f0ea6e46115fb7/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study
+All other research documents can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/51d9beee1bbe325473118685c6f0ea6e46115fb7/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study)
 
-Prototype (WIP) can be found here: https://www.sketch.com/s/7dd70a0f-08de-4b7b-8203-0f3ee49acc3e/p/A1AC60CB-64DF-48E4-B335-710A54739F41/canvas
+Prototype (WIP) can be found [here](https://www.sketch.com/s/7dd70a0f-08de-4b7b-8203-0f3ee49acc3e/p/A1AC60CB-64DF-48E4-B335-710A54739F41/canvas)
 
 
 ## Recruitment
 
 ### Recruitment approach
-We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. 
+We will partner with Perigean to recruit Veterans. 
 
 Given the logistical complexities of this study, and given the fact misunderstandings on the part of participants could keep them from being logistically able to participate, we request the following: 
 	(1) To have a kickoff meeting with Perigean to confirm that everyone is on the same page regarding the recruitment criteria;
 	
 	
 **Availability for potential kickoff meeting times with Perigean, depending on their availability. Anticipate KO meeting lasting 30 minutes**
+- Monday, June 26: Any time after 11 am ET and before 3 pm ET
+- Tuesday, June 27: Any time after 2 pm ET
+- Thursday, June 29: Any time after 11 am ET and before 3 pm ET
 
-
-We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information (whether the Veteran has used MyHealtheVet before; whether the Veteran uses VA healthcare) in an encrypted Google Sheet that will be stored on the Ad Hoc Google Drive. 
+We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information (whether the Veteran has used MyHealtheVet before; whether the Veteran uses VA healthcare) in an encrypted Excel file on the VA Network. 
 
 ## Recruitment criteria
 
@@ -87,16 +89,14 @@ Age and education level range throughout, but ideally include at least 15 partic
 	- Yes *(go onto Screener question 2)*
 	- No *(Disqualify)*
 
-2. How often, if at all, do you use VA.gov?
-
-* Never used it *(Disqualify)*
-* Once a year
-* Once a month 
-* 2-3 times a month *(Disqualify)*
-* More than 3 times a month *(Disqualify)*
+2. How often, if at all, have you used VA.gov in the past 6 months?
+* Never used it 
+* 1-2 times in the past 6 months
+* 2-3 times a month in the past 6 months *(Disqualify)*
+* More than 3 times a month in the past 6 months *(Disqualify)*
 
 3. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
-	- Yes *(go on to additional Screener question 6)*
+	- Yes *(go on to additional Screener question 6)* **<-Is this supposed to be screener question 4?**
 	- No *(Disqualify)*
 
 4. How often, if at all, do you use MyHealtheVet?
@@ -138,6 +138,5 @@ Participant recruiting & screening: Perigean
 - Observers: to sign up via sign up list. 
 
 ## Approvals
-- Reviewed and approved by Robyn Singleton on 
-- Reviewed and approved by Shane Strassberg on (date)
+- Reviewed and approved by Robyn Singleton on June 23, 2023
 
