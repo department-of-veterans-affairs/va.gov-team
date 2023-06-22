@@ -8,6 +8,14 @@
 
 
 
+## Which of these apply to you? (Check all that apply)
+
+[ ] I am claiming a condition that the VA has not rated or denied yet 
+
+[ ] One or more of my rated conditions has gotten worse
+
+
+
 ## Did you serve in any of the following Gulf War Hazard Locations? 
 
 - Iraq 
