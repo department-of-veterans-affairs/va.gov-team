@@ -21,7 +21,7 @@ This research fits into these points of a Veteran's Journey:
 - Aging
 
 ## Research Goals 	
-The purpose of this research is to assess users' reactions to and expectations of the new landing page for MHV on VA.gov, whether the current wayfinding tactics are effective at guiding users through the page, how users expect to be able to update health-related preferences, and how users expect timely statuses and notifications to be communicated to them. 
+Most broadly speaking, the goal of this study is to help us get a sense of how closely the current organizing structures and wayfinding tools within the MHV on VA.gov experience aligns with users’ expectations and mental models.  The purpose of this research is to assess users' reactions to and expectations of the MHV on VA.gov experience and whether the current wayfinding tactics are effective at guiding users through key tasks.  More specifically, this study aims to help us understand how users navigate across health tools to non-health tools, and what their understandings and behaviors  are when they are linked to other VA.gov sections or outside of VA.gov. 
 
 ### Outcome
 
