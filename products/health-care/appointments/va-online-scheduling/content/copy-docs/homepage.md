@@ -16,17 +16,17 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments`
 
 **PAGE HEADER**
 
-(H1) Appointments
+(H1) `Appointments`
 
 **PAGE CONTENT**
 
-(Primary Button) Start scheduling
+(Primary Button) `Start scheduling`
 
 [Secondary Nav]
 
-(Link - Selected) Upcoming
-(Link) Pending (#)
-(Link) Past
+(Link - Selected) `Upcoming`  
+(Link) `Pending (#)`  
+(Link) `Past`
 
 [/Secondary Nav]
 
@@ -58,7 +58,7 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > Requests`
 
 **PAGE HEADER**
 
-(H1) Pending appointments
+(H1) `Pending appointments`
 
 **PAGE CONTENT**
 
@@ -66,15 +66,15 @@ These appointment requests haven’t been scheduled yet.
 
 [Secondary Nav]
 
-(Link) Upcoming
-(Link - Selected) Pending (#)
-(Link) Past
+(Link) `Upcoming`  
+(Link - Selected) `Pending (#)`  
+(Link) `Past`
 
 [/Secondary Nav]
 
 [List - pending requests]
 
-(H2) Canceled requests
+(H2) `Canceled requests`
 
 These appointment requests have been canceled.
 
@@ -106,24 +106,24 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > Past`
 
 **PAGE HEADER**
 
-(H1) Past appointments
+(H1) `Past appointments`
 
 **PAGE CONTENT**
 
-[Date filter]
+    [Date filter]
 
-(Label) Select a date range
+    (Label) Select a date range
 
-(Options)
-Past 3 months
-All of {current year}
-All of {prior year}
-{5 months prior} - {3 months prior}
-{8 months prior} - {6 months prior}
-{11 months prior} - {9 months prior}
-(/Options)
+        (Options)
+        Past 3 months
+        All of {current year}
+        All of {prior year}
+        {5 months prior} - {3 months prior}
+        {8 months prior} - {6 months prior}
+        {11 months prior} - {9 months prior}
+        (/Options)
 
-[/Date filter]
+    [/Date filter]
 
 [List - Past appointments]
 
