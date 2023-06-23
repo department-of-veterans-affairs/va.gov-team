@@ -38,18 +38,18 @@ There are many potential touchpoints between the Veteran and this application th
 - Aging (Managing my declining health)
 
 ## Research Goals	
-The purpose of this research is to **get user feedback on the questions in the new PACT Act Wizard**.
+The purpose of this research is to **find out whether the questions drafted for the PACT Act Wizard are clear and easy enough for Veterans to understand and answer**.
 
 ### Outcome
-Learnings will help refine the design of the application.
+Learnings will help refine individual questions and the overall list of them in the wizard.
 
 ### Research questions
 1. ?
 
 
 ### Hypotheses
-1. Veterans will be able to answer the questions in the app for themselves.
-2. 
+1. Veterans will be able to answer the questions in the app.
+2. Veterans will not be overwhelmed by the number of questions they need to answer.
 
 ## Method	
 We will conduct **usability testing** to guide research participants through a working prototype. 
