@@ -114,9 +114,9 @@ What demographics, experience, and scenarios do you need participants to meet to
 What criteria would strengthen your results? 
 
 
-- At least 8 participants are female
-- At least 5 participants with a cognitive disability
-- At least 5 participants over the age of 55
+- At least 4 participants are female
+- At least 4 participants with a cognitive disability
+- At least 4 participants over the age of 55
 - At least 3 participants who are living abroad or immigrant origin
 
 
