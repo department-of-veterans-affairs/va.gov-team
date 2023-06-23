@@ -1,9 +1,9 @@
 
 # About this Research
 
-- [Product brief ]()
-- [Product link]()
-- [Product information (readme)]()
+- [Product brief ]
+- [Product link]
+- [Product information (readme)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/f180bf496a0b9b06b71770f20a4091a3b9bc7b04/products/identity/Mocked%20Authentication/readme.md)
 
 Terms of Use (TOU)
 
