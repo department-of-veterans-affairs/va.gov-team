@@ -1,6 +1,6 @@
 # WIP - the research plan template will be filled in as we plan 
 
-# Research Plan for [Identity, In Person Proofing, Date]
+# Research Plan for [Identity, Terms of Use, Date]
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
@@ -41,7 +41,7 @@ What do you intend to learn and measure from this study? Think through these pro
 - Remember to constrain the hypothesis to the goals of your study!
 
 ## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+Remote usability testing will evaluate the modal prototype with participants who sign into VA.gov
 
 Examples of common research methods include: 
 - Semi-structured interviews - appropriate for generative research
@@ -69,29 +69,15 @@ If in person, include:
 - Point of contact
 - Equipment used for research
 
-### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
+### Research materials 
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
+- [Conversation guide]()
+- [modal prototype]()
 	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
+We will ustilize the Perigean recruitment team to recruit Veterans for this moderated study. 
+
 
 Before writing your recruitment criteria, be sure to review the following resources. 
 - [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
