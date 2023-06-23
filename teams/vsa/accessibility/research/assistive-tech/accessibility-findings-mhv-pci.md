@@ -19,11 +19,11 @@
 `iOS-VO` `iPhones` `Screen Magnification`
 
 ## Coverage
-This research fufilled 57% (4/7) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
+This research fufilled 57% (4/7) of its original request. Given the **limited** amount and **variety** of types of screen readers, a conclusive behavioral patterns **may not** be determined locally in this study. We **can**; however, draw future research considerations and document caught accessibility issues.
 
 **Original study request:** 18 (12 completed sessions); 4 used assistive tech (33% of the study used assistive tech). See table.
 
-> 7 participants should use a screenreader on a desktop or mobile device
+> 7 participants should use a screenreader on a desktop or mobile device.
 
 ## Participants
 To best serve the users of VA.gov, we will need to collect the following information during each a11y research session:
@@ -32,9 +32,9 @@ To best serve the users of VA.gov, we will need to collect the following informa
 - **Assistive Technology being used:** Jaws, NVDA, Zoomtext, Dragon, etc.
 - **Internet Browser:** Chrome, Firefox, etc.
 - **Note**:**Participants who did not complete the session:**
-    - P1 (no show), P8 (canceled), and P10 (no show).
+    - **P1** (no show), **P8** (canceled),  P15 (no AT used); and **P10** (no show).
     - [4 out of 7](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/58566) participated (57% of those recruited for AT testing, actually participated).
-    - P15 was an AT user (screen magnification) but did not use it on the call. Therefore, P15's data should be analyzed with the overall data, not this segment. 
+    - **P15** was an AT user (screen magnification) but did not use it on the call. Therefore, P15's data should be analyzed with the overall data, not this segment.
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
