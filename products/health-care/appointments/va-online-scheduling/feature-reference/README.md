@@ -58,8 +58,12 @@ Tools Veterans can use to manage their appointments and requests.
 ## Schedule appointments
 Tools for Veterans to schedule or request appointments.
 
-| Feature | Description |
-|---|---|
-| Direct-schedule or request appointment at VA  | | 
-| Direct-schedule COVID-19 vaccine at VA | | 
-| Request community care | | 
+| Flow | Page | Description |
+|---|---|---|
+| All flows | Type of care | |
+| All flows | Choose a care category | | 
+| VA direct-schedule | [Choose a location](./schedule-flow/va-direct-choose-location.md) | | 
+| VA request | 
+| Community care request | | |
+| VA direct-schedule COVID-19 vaccine | | |
+
