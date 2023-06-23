@@ -28,20 +28,20 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
   - `appointmentIEN` (string): The unique identifier of the appointment.
   - `patientDFN` (string): The unique identifier of the patient.
   - `stationNo` (string): The station number.
-- Responses: (custom status codes?)
+- Responses:
   - Status Code: 200 OK
     - Body (object): The Response Object which contains the following fields
       - `code` (string): check-in-success
       - `message` (string): Check-In successful
-  - Status Code: 200 OK
+  - Status Code: 400
     - Body: (object): The demographics information needs to be confirmed
       - `code` (string): invalid-demographics
       - `message` (string): Details which blocks of information needs to be confirmed
-  - Status Code: 200 OK
+  - Status Code: 400 
     - Body (object): The Insurance information is missing/needs to be updated Response Object which contains the following fields
       - `code` (string): invalid-insurance
       - `message` (string): Insurance needs validation
-  - Status Code: 500
+  - Status Code: 400
     - Body (object): Invalid appointment object with the following fields
       - `code` (string): invalid-appointment
       - `message` (string): Details which fields are invalid (too-early, too-late, e-check-in-not-enabled, invalid-status, invalid-type)
@@ -81,13 +81,12 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
   - `patientDFN` (string): The unique identifier of the patient.
   - `stationNo` (string): The station number.
   - `demographics` (object): The demographics object with the following fields
-    - `demographics` (object): The patient contact information
+    - `patientContactInfo` (object): The patient contact information
       - `needsConfirmation` (boolean)
     - `emergencyContact` (object): The emergency contact information
       - `needsConfirmation` (boolean)
     - `nextOfKin` (object):
       - `needsConfirmation` (boolean)
-      
 - Response:
   - Status Code: 200 OK
     - `Body` (object): The updated demographics object
