@@ -12,6 +12,7 @@
 - **Robert Bailey (Bobby)**, UX/UI Researcher and Designer on the Medical Records team 
 - **Jonathan Nelson**, UX designer on the MHV to VA.gov team
 - **Heather Widmont**, Scrum Master VA Benefits Team 1
+- **Scott Mericle**, UX designer on Lighthouse
 
 ### Advocates, Level 3
 
