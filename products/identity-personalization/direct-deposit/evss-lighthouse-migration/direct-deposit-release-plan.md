@@ -34,7 +34,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| profile_lighthouse_direct_deposit | When enabled, will request direct deposit data from lighthouse API. |
 
 ## Step 2: Validation
 
