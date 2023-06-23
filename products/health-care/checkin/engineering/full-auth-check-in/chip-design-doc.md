@@ -52,7 +52,7 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
 - Description: This endpoint is for retrieving demographics information which includes a field indicating if insurance verification is needed and patient contact information, emergency contact information and next-of-kin contact information.
   - Requirements for patient check-in:
     - all three contact, emergency and next-of-kin `needsConfirmation` fields need to be `false`
-    - `insuranceVerificationNeeded` needs to be false
+    - `insuranceVerificationNeeded` needs to be `false`
 
 - Request Body:
   - `patientDFN` (string): The unique identifier of the patient.
@@ -88,9 +88,7 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
     - etc.
 - Response:
   - Status Code: 200 OK
-    - `Body` (object): The Response Object which contains the following fields
-      - `code` (string): "demographics-confirmed"
-      - `message` (string): "Demographics confirmed"
+    - `Body` (object): The updated demographics object
     
 ### Error Handling
 The API follows standard HTTP status codes for indicating the success or failure of a request. Additionally, specific error responses are returned with relevant error messages in the response body.
