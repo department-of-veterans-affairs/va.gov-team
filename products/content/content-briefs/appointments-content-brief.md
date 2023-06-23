@@ -30,7 +30,7 @@ This brief will help your team create content for your product that aligns with 
 | **sign in/sign out** | Use "sign in" and "sign out" consistently. Don't use "log in" at all. | VA.gov content style guide |  7.20.22 |
 | **smartphone** | Veterans must have a smartphone (a mobile phone with internet access) to check in for appointments with their phone. Always use "smartphone" for this use case, not "mobile phone." | Check in content standard |  7.20.22 |
 | **type of care** | Type of care refers to the specialty, i.e. primary care, mental health. | VAOS content standard  | 7.20.22 |
-
+| **claim exam** | Formerly known as compensation and pension exam. This is an appointment to help determine a Veteran's service-connected disability and rating(s). Note: While this term was added to the Appointment content brief in 2023, the change from compensation and pension exam to claim exam occurred several years ago.  | [VA claim exam page on VA.gov](https://www.va.gov/disability/va-claim-exam/)  | 6.23.23 |
 
 **Note:** Terms may evolve with usability testing.
 
@@ -40,4 +40,5 @@ This brief will help your team create content for your product that aligns with 
 
 ## Other notes
 
-
+- Claim exam appointments include a brief description of this type of appointment on the details page/screen on both VA.gov and the VA: Health & Benefits mobile app. That content is:
+  - This appointment is for disability rating purposes only. It doesn't include treatment. If you have medical evidence to support your claim, bring copies to this appointment.
