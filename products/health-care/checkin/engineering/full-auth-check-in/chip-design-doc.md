@@ -10,6 +10,7 @@ For an appointment to be eligible for patient check in through the web or any mo
   - Does the clinic for the appointment have e-check-in enabled
   - Is it within the 45 minute check in window(30 min before - 15 minutes after start time)
   - Is the appointment type an in clinic appointment
+  - Is the appointment status valid
 
 ## Base URL
 The base URL for accessing the API is: `/#{base_path}/actions`
@@ -30,6 +31,7 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
 - Responses: (custom status codes?)
   - Status Code: 200 OK
     - Body (object): The Response Object which contains the following fields
+      - code (string): "check-in-success"
       - message (string): "Check-In successful"
   - Status Code: 200 OK
     - Body: (object): The demographics data so that it can be confirmed
@@ -44,7 +46,11 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
 - Description: Endpoint for the client application to confirm demographics, next of kin and emergency contact information.
 
 #### `GET /demographics`
-- Description: Check demographics `needsConfirmation` which is a requirement for checking in to an appointment.
+- Description: This endpoint is for retrieving demographics information which includes a field indicating if insurance verification is needed and patient contact information, emergency contact information and next-of-kin contact information.
+- Requirements for patient check-in
+  - all three contact, emergency and next-of-kin `needsConfirmation` fields need to be `false`
+  - `insuranceVerificationNeeded` needs to be false
+
 - Request Body:
   - `patientDFN` (string): The unique identifier of the patient.
   - `stationNo` (string): The station number.
@@ -68,12 +74,15 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
       - etc.
 
 #### `PATCH /demographics`
-- Description: Edit demographics in this case all we are doing is changing the needsConfirmation to `false`
+- Description: Edit demographics by suppling fields you wish to modify
 - Request Body:
   - `patientDFN` (string): The unique identifier of the patient.
   - `stationNo` (string): The station number.
   - `demographics` (object): The demographics object with the following fields
     - `needsConfirmation` (boolean)
+    - `address`
+    - `homePhone`
+    - etc.
 - Response:
   - Status Code: 200 OK
     - `Body` (object): The Response Object which contains the following fields
