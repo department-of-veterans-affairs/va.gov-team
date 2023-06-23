@@ -51,23 +51,21 @@ sequenceDiagram
 ```
 ## Proposed sequence
 The proposed sequence above outlines four new vets-api endpoints.
-
-1. An endpoint to determine appointment elligability. Requires station number and appointment IEN. Returns true/false.
-1. An endpoint for intiating check-in. On the chip side this fetches statuses for demographics and insurance. Vets-api returns the statuses and demogrpahics data if confirmation needed.
-1. An endpoint for patching the updated demogaphics stautuses
-1. An endpoint to check the patient in.
+1. A demographics endpoint, GET fetches statuses(including insruance status) and data, PATCH updates the statuses.
+1. An endpoint for check-in. On the chip side this fetches statuses for demographics, insurance, and appointment to validate. Returns success/fail with fail codes.
 
 ## Questions:
 
 - In the VAOS payload is locationId the same as station number?
     - The answer to this is yes but the values have a mapping to station values that are not recognizeable to us. There is a doc underway to document the vaos-service appointment. [See thread in slack](https://dsva.slack.com/archives/C023EFZPX4K/p1685984766871989?thread_ts=1685639670.578339&cid=C023EFZPX4K)
 - Can VAOS add the ECheckinAllowed field to the appointment?
+    - Yes this will be added 
 - How can we have security confidence that the patient is checking into only their appointments?
+    - The mobile app with only send appointmentIen and stationNo, vetsAPI will provide the DFN from the user object to insure that patients can only attempt to check-in to their appointments. 
 - [LP] Currently, the mobile app gets their appointment info from VAOS; to test in a Staging environment, the Mobile App team has to get the VAOS team to create appointments for them in the Vista instance that VAOS uses; we need to determine if this is the same Vista instance that the CIE team uses for the Staging tool; if it is not, I'm not sure how we are going to test in Staging
     - Shane is working to connect the systems with BJ. [See thread](https://dsva.slack.com/archives/CMNQT72LX/p1686149475340469?thread_ts=1685982069.819559&cid=CMNQT72LX)
 - Should the API start enforcing the bussiness rules around check-in? Currently the frontend, does the checks to determine some of the elligability for checking-in a patient i.e. demographics confirmations. With more applications wanting to do check-in, should those business rules move into the API side?
     - Yes we should probably enforce business rules at the API level to avoid conflicting rules accross multiple applications and for added security.
-- What patient info is available from the mobile app JWT token? (DFNs Stations)
 
 ## Internal questions:
 - Should we create a new vets-api module for fully authed applications(suggestions from Stephen)?
@@ -193,15 +191,3 @@ The proposed sequence above outlines four new vets-api endpoints.
     - avoid the staff apps endpoint, look for ways in vets-api to do this that already exist.
 - the mobile team will also need a list of appointment IENs. Those are being added to the VAOS payload now. [slack ref.](https://dsva.slack.com/archives/C023EFZPX4K/p1685985637341189?thread_ts=1685639670.578339&cid=C023EFZPX4K)
 
-## CHIP design options
-### Minimal endpoints with heaver logic and actions within
-This would be 3 endpoints.
-1. InitiateMobileCheckIn, looks up demographic/insurance status: could return a status with data object. The statuses would be `needs-insurance`, `needs-demographics`, or `no-updates`. If status is `needs-demographics` the data object would contain the demographics payload. The other responces would have an empty object. On this chip side we would fetch the demographic statuses and payload if needed. We would also set eCheckInStarted for the appointment.
-2. UpdateDemographicStatuses, patches demographics. Would return success/fail. This endpoint could potentially be rolled into the next endpoint.
-3. CompleteMobileCheckIn, this would perform the actual check-in and set eCheckInComplete. If we are enforcing business logic, this endpoint would also fetch demographic statuses and the appointment from vista to ensure elligability. Would return a success, elligablity validation error, or server error.
-
-### More restful option
-This would have several endpoints around demographics and checking-in
-1. GET /demographics would always return the statuses and demographics payload
-2. POST /demographics would patch the demographic statuses
-3. 
