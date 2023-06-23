@@ -46,7 +46,7 @@ Learnings will help refine individual questions and the overall list of them in 
 ### Research questions
 1. What feedback do Veterans have on individual questions?
      1. Are Veterans able to understand the questions?
-     1. Are Veterans able to accurately answer questions that include both a year range AND a location?
+     1. Are Veterans able to accurately answer questions that include both a date range AND a location?
 1. What feedback do Veterans have on the entire set of questions?
      1. Are there so many questions that Veterans get frustrated or stop before the end?
      1. Are Veterans bothered by the repetitive construction of the questions?
@@ -62,9 +62,11 @@ Learnings will help refine individual questions and the overall list of them in 
 1. Veterans will understand the results screen, not be confused by it, and know what they should do next. 
 
 ## Method	
-We will conduct **usability testing** to guide research participants through a working prototype. 
+We will conduct **usability testing** to guide research participants through a working prototype that presents the questions in the PACT Act wizard. 
 
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
+
+*(Idea for conversation guide: If the questions include compound questions with both a date range and a location, later in the research session consider asking each part of the question separately to assess if the participant answered the compound question accurately.)*
 
 
 ### Research materials
