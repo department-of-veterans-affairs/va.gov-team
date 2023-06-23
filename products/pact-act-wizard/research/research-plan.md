@@ -99,12 +99,12 @@ Ask Perigean to recruit **8 Veterans and 3 caregivers** of Veterans who meet the
 - At least 2 people who are LGBTQ+
 
 ### Screening Questions
+***(Are we open to screen reader users on a computer instead of a smartphone?)***
+
 1. How do you use the internet? (check all that apply)
      1. From a smart phone *(RECRUIT 11)*
      1. From a tablet or iPad
      1. From a desktop or laptop computer
-
-**(QUESTION: Are we open to screen reader users on a computer instead of a smartphone?)**
 
 1. What time zone are you located in? *(RECORD)*
 
@@ -166,7 +166,7 @@ Please list the people who will be serving in each role.
 - Project point of contact: Cindy Merrill 
 - Participant(s) for pilot test: TBD	
 - Note-takers: Perigean	(in github)
-- Observers: Jordan Wood (jordan.wood@civicactions.com), Dave Conlon (david.conlon@va.gov), Wes Rowe (wesley.rowe@agile6.com). Other observers will need to sign up so we can limit the number of observers per session.
+- Observers: Wes Rowe (wesley.rowe@agile6.com). Observers will need to sign up so we can limit the number of observers per session.
 
 ## Approvals
 - Dave Conlon (PO) on TBD, 2023
