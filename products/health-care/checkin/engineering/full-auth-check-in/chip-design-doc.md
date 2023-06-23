@@ -94,6 +94,4 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
 ### Error Handling
 The API follows standard HTTP status codes for indicating the success or failure of a request. Additionally, specific error responses are returned with relevant error messages in the response body.
 
-## Authentication and Authorization
-The API uses OAuth 2.0 for authentication. The access token must be included in the `Authorization` header for each request.
 
