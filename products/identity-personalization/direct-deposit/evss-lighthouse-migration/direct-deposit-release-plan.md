@@ -1,6 +1,9 @@
 <!-- markdownlint-disable MD024 -->
-# Release Plan Template
+# Release Plan - Direct Deposit Migration from EVSS to Lighthouse
+ [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration#readme)
 
+<details>
+  <summary>Help Text</summary>
 So! You're thinking about how you want to launch your product. You know you'll perform usability testing and QA the heck out of it in staging, both critical components of product development. But they don't tell you how people will naturally use your product when you're not there to guide them to it, how any submitted data will get to VA, whether that data will be easy or difficult for VA to process, whether people will be likely to submit duplicates, abandon partway through, or encounter bugs unique to the production environment. All of which could be very detrimental to users, which is the antithesis of what we're here to do.
 
 So: **how might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how Veterans will actually use it, and what problems it actually might have or create, and then fix/adjust before going live to millions of VA.gov users?**
@@ -25,19 +28,23 @@ The team should develop this plan in parallel with the development of the featur
 3. Review the release plan with the team and your OCTO before [releasing your app to production](#step-3-production-rollout).
 
 ---
+</details>
 
 ## Step 1: Development
-
+<details>
+  <summary>Help Text</summary>
 You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
 
 List the features toggles here.
+</details>
 
 | Toggle name | Description |
 | ----------- | ----------- |
 | profile_lighthouse_direct_deposit | When enabled, will request direct deposit data from lighthouse API. |
 
 ## Step 2: Validation
-
+<details>
+  <summary>Help Text</summary>
 Since we use a [continuous delivery](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-process) model, once code is in the `main` branch, it will be deployed that day. 
 
 Before enabling your feature toggle in production, you'll need to:
@@ -48,8 +55,16 @@ Before enabling your feature toggle in production, you'll need to:
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
+</details>
+
+We've tracked GH tickets/issues and information related to the direct deposit migration in [EPIC | Profile | Direct Deposit C&P Migration from EVSS to Lighthouse #51900](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51900).
+
+Our testing plan was finalized through [PM | Direct deposit EVSS > Lighthouse migration: QA prep & planning #54870](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54870)
+Use cases and testing are documented on [this spreadsheet](https://docs.google.com/spreadsheets/d/1xflLNJhUSVslzLbVQtMkYkzsBGAhIccnmYW0GL_Ihd0/edit#gid=0).  
 
 ## Step 3: Production rollout
+
+[Staged rollout ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782)
 
 ### Do I need a staged rollout?
 
