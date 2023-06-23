@@ -172,7 +172,7 @@ If multiple facilities are available:
 If only one facility is available:
 - Facility doesn't support direct-scheduled appointments or requests
 - Page loads with alert in place of list
-test
+
 **Alert UI**
 - [User flow](Add link)
 - [State template](Add link)

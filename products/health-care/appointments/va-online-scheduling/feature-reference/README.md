@@ -60,9 +60,9 @@ Tools for Veterans to schedule or request appointments.
 
 | Flow | Page |
 |---|---|
-| All flows | Choose a type of care |
+| All flows | [Choose a type of care](./schedule-flow/all--type-of-care.md) |
 | All flows | Choose a care category |
-| VA direct-schedule | [Choose a location](./schedule-flow/va-direct-choose-location.md) | 
+| VA direct-schedule | [Choose a location](./schedule-flow/va-direct--choose-location.md) | 
 | VA direct-schedule | Cerner location redirect |
 | VA direct-schedule | Choose a clinic |
 | VA direct-schedule | Choose a preferred date |
@@ -80,7 +80,7 @@ Tools for Veterans to schedule or request appointments.
 | CC request | Choose a preferred language |
 | CC request | Reason for appointment |
 | CC request | Confirm contact information |
-| VA request | Review and submit |
+| CC request | Review and submit |
 
 
 
