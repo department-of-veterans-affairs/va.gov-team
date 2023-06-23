@@ -99,7 +99,10 @@ Finally, let's get you started on one screen reader ❇️
 
 Good! This is supposed to be difficult, and why we have a community 👐
 - If you feel a little brave, ask for help on the `#accessibility-help` channel
-- If you want a safer space, ask for help on our `#a11y-champs` channel 
+- If you want a safer space, ask for help on our `#a11y-champs` channel
+- If you'd like a private one on one session with a specialist, join either:
+  - [Angela's office hours on Friday at 11:30am EST (Zoom invite)](https://zoom.us/j/4330671366)
+  - [Josh's watercooler hours on Friday at 2pm EST (Zoom invite)](https://us06web.zoom.us/j/5363956114?pwd=a29JdmNxbEkwSjQwclJTdzFhT2Frdz09)
 
 ## You completed level 1 🥇
 
