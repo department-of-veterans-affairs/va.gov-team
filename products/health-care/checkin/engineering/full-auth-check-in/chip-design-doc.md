@@ -47,7 +47,6 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
       - `message` (string): Details which fields are invalid (too-early, too-late, e-check-in-not-enabled, invalid-status, invalid-type)
 
 ### Demographics
-- Description: Endpoint for the client application to confirm demographics, next of kin and emergency contact information.
 
 #### `GET /demographics`
 - Description: This endpoint is for retrieving demographics information which includes a field indicating if insurance verification is needed and patient contact information, emergency contact information and next-of-kin contact information.
