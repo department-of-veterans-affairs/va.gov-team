@@ -47,14 +47,21 @@ What's the closest city to you?
 
 **PAGE CONTENT**
 
+```diff
+- (H1) What's the closest city to you?
++ (H1) What's the nearest city to you?
+@@ GH51668 @@
 ```
-Choose a city that is near you. This ensures that we send your community care request to your closest VA health system. (*Required)
 
-{Option} {City, ST}
-{Option} {City, ST}
-...
-
+```diff
+- Choose a city that is near you. This ensures that we send your community care request to your closest VA health system. (*Required)
++ (*Required)
+@@ GH51668 @@
 ```
+
+- {registered site}
+- {registered site}
+
 
 **ERROR VALIDATION**
 
@@ -167,7 +174,7 @@ Selected Provider
 
 ---
 
-## Current
+## Choose a language
 
 **FORM TITLE**
 
@@ -183,15 +190,26 @@ Choose a preferred language
 
 **PAGE CONTENT**
 
+```diff
+- (H1) Choose a preferred language
++ (H2) What language do you prefer?
+@@ GH51668 @@
 ```
-Select your language preference for your community care provider. (*Required)
 
-{English, Chinese, French, German, Italian, Korean, Portuguese, Russian, Spanish, Tagalog (Filipino), Vietnamese, Other}
+```diff
+- (H2) Select your language preference for your community care provider. (*Required)
++ (H2) Select the language you'd preferred your provider to speak?
+@@ GH51668 @@
 ```
+{English, Chinese, French, German, Italian, Korean, Portuguese, Russian, Spanish, Tagalog (Filipino), Vietnamese, Other}
 
 #### Language - no selection
 
-Please provide a response
+```diff
+- Please provide a response
++ Select a language
+@@ GH51668 @@
+```
 
 **PROGRESS BUTTONS**
 
@@ -360,6 +378,19 @@ Call {morning, afternoon, evening}
 **PROGRESS BUTTONS**
 
 ```Request appointment```
+
+### Endpoint Alert - Server error
+
+```
+We couldn't schedule this appointment
+
+We're sorry. Something went wrong when we tried to submit your request. You can try again later, or call your VA medical center to help with your request.
+
+{facility name}
+{facility address}
+Main phone: {phone number}
+TTY: 711
+```
 
 ---
 

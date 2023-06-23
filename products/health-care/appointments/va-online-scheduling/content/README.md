@@ -5,25 +5,29 @@ VAOS' content is captured in the [copy-docs folder](https://github.com/departmen
 
 See also the [platform scheduling content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-briefs/Appointments.md).
 
-## Content templates
-
-### Appointments list
-
-[WIP]
-
-### Scheduling pages
-
-* VA.gov header
-* VAOS breadcrumb
-* Form title
-* Page header
-* Page description
-  * Optional - may be an input label or regular text
-* Page content
-  * Variable - use language defined in VA.gov design system for standard components
-* Progress buttons
-* VAOS footer title
-* VAOS footer content
-* VA.gov footer
- 
-![Content map - Scheduling flows](https://user-images.githubusercontent.com/2536801/134048084-4b7944fd-2a06-41e2-83db-d163b9ea0b85.png)
+| Flow | Page |
+|---|---|
+| All flows | [Choose a type of care](schedule-all-flows.md#type-of-care-copy-doc) |
+| All flows | Choose a type of sleep care |
+| All flows | Choose a type of eye care |
+| All flows | Choose location category |
+| All flows | Choose a type of audiology care |
+| VA direct-schedule | [Choose a location]() | 
+| VA direct-schedule | Cerner location redirect |
+| VA direct-schedule | Choose a clinic |
+| VA direct-schedule | Choose a preferred date |
+| VA direct-schedule | Reason for appointment |
+| VA direct-schedule | Confirm contact information |
+| VA direct-schedule | Review and submit |
+| VA request | Choose a day and time |
+| VA request | Reason for appointment |
+| VA request | Method of attendance |
+| VA request | Confirm contact information |
+| VA request | Review and submit |
+| CC request | Choose a day and time |
+| CC request | Closest city |
+| CC request | Choose a provider |
+| CC request | Choose a preferred language |
+| CC request | Reason for appointment |
+| CC request | Confirm contact information |
+| CC request | Review and submit |

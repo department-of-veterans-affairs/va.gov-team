@@ -341,7 +341,7 @@ Your phone number (*Required)
 
 Your email address (*Required)
 
-{input field)
+{input field}
 ```
 
 **PROGRESS BUTTONS**
@@ -390,6 +390,34 @@ Call {morning, afternoon, evening}
 **PROGRESS BUTTONS**
 
 ```Confirm appointment```
+
+### Endpoint Alert - Technical Error
+
+```
+We couldn't schedule this appointment
+
+We're sorry. Something went wrong when we tried to submit your appointment. You can try again later, or call your VA medical center to help with your appointment.
+
+{facility name}
+{facility address}
+Main phone: {phone number}
+TTY: 711
+```
+
+---
+
+#### Endpoint Alert - Configuration Error
+
+```
+We couldn't schedule this appointment
+
+We're sorry. Something went wrong when we tried to submit your appointment. Call your VA medical center to schedule this appointment.
+
+{facility name}
+{facility address}
+Main phone: {phone number}
+TTY: 711
+```
 
 ---
 

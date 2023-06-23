@@ -131,16 +131,19 @@ Want to update your contact information for more VA benefits and services?
 
 Your phone number (*Required)
 {Input field}
+```
 
-diff
+```diff
 - - What are the best times for us to call you? (*Required)
 - - Morning (8:00 a.m. - noon)
 - - Afternoon (noon - 4:00 p.m.)
 - - Evening (4:00 p.m. - 8:00 p.m.)
 @@ GH47728 @@
+```
 
+```
 Your email address (*Required)
-{Input field)
+{Input field}
 ```
 
 
@@ -225,15 +228,44 @@ How to be seen
 
 ---
 
+```diff
 Your contact details         {link}Edit
 {email address}
 {phone number}
-Call {morning, afternoon, evening}
+- Call {morning, afternoon, evening}
+@@ GH47728 @@
 ```
 
 **PROGRESS BUTTONS**
 
 ```Request appointment```
+
+
+### Endpoint Alert - Server error
+
+```
+We couldn't schedule this appointment
+
+We're sorry. Something went wrong when we tried to submit your request. You can try again later, or call your VA medical center to help with your request.
+
+{facility name}
+{facility address}
+Main phone: {phone number}
+TTY: 711
+```
+
+### Endpoint Alert - Configuration error
+
+```
+We couldn't schedule this appointment
+
+We're sorry. Something went wrong when we tried to submit your request. Call your VA medical center to schedule this appointment.
+
+{facility name}
+{facility address}
+Main phone: {phone number}
+TTY: 711
+```
 
 ---
 
