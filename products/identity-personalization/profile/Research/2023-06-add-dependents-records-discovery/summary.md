@@ -2,7 +2,7 @@
 
 `draft`
 
-**Last updated:** June 22, 2023
+**Last updated:** June 20, 2023
 
 ## Background
 After conducting research to understand challenges people have navigating to tasks while logged in ([summary report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md)), we identified a few personalized items that are hard to find on the site, and are reasonably logical to surface in the authenticated experience:
@@ -37,7 +37,7 @@ Multiple search terms for the items we’re looking into rank in the [top 25 VA.
 This suggests these items are important to people and they are not easily finding them on the site through navigation.
 
 ##### Profile searches
-From Jan 1-June 11, 2023, there were 950m unique page views within profile, and 72,646 unique searches initiated from profile.  About 1% of visitor stops are conducting searches from profile.
+From Jan 1-June 11, 2023, there were 950m unique page views within profile, and 72,646 unique searches initiated from profile.  About 1% of visitors are conducting searches from profile.
 
 Keywords related to dependents, letters, and ID cards make up the majority of the top 30 keywords searched ([analytics report](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p184624291/_u.date00=20230101&_u.date01=20230611&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=250&explorer-table.filter=~2Fprofile&explorer-table.secSegmentId=analytics.searchKeyword&explorer-table.advFilter=%5B%5B0,%22analytics.searchStartPage%22,%22RE%22,%22~2Fprofile%22,0%5D%5D&_.useg=builtin1/)).
 
@@ -54,9 +54,10 @@ The majority of these searches took place from va.gov/profile/personal-informati
 - The contact information page was the second most popular place to initiate a dependent related search
 - The military information page was the second most popular place to initiate a records related search
 
-From this data we can infer that many of those users were expecting to find dependent or records related items within the profile.
-
 #### Navigation behavior
+We reviewed the navigation summaries in Google Analytics for each page in profile to see if there is data that demonstrates any interesting trends or correlation between profile and the items we’re looking into. 
+
+The military information page is the only page in profile that had a trend of visitors going from profile to records (specifically, to the R[equest Your Military Records](https://www.va.gov/records/get-military-service-records/index.html) page), which makes sense because it has a direct link to that page.  This tells us that people do find and use relevant links when we surface them in profile.
 
 ###  How do these items fit into the current site IA?
 
@@ -79,9 +80,8 @@ We met with Danielle Thierry, OCTO Content Lead, to learn about efforts related 
 	- COE is specific to home loans
 	- COE’s are either automatically assigned to a Veteran, or they can submit a form to requests one. 
 	- If we include letters in profile, we’ll probably need to include content and additional links around the COE
-	- Outside of OCTO, there’s a letters generating project happening. Danielle is going to check into that for our team to learn if there are any content considerations we should include in our implementation.
+- Outside of OCTO, there’s a letters generating project happening. Danielle is going to check into that for our team to learn if there are any content considerations we should include in our implementation.
 
 ### Our approach
-
 #### Recommendations
 #### Next steps
