@@ -1,12 +1,11 @@
 # Choose a location - VA Direct Schedule Flow
 
 ## Overview
-Veterans are asked to choose which of their registered facilities they'd like to receive the care they selected.
+Veterans are asked to choose where they'd like to receive the type of care they selected from a list of facilities where they are registered. 
 
 ## User stories
 
-- As a <user type> I want <goal> so that <reason>
-- As a <user type> I want <goal> so that <reason>
+- As a Veteran I want to choose where I will receive care.
 
 ## Requirements
 
@@ -37,13 +36,13 @@ Veterans are asked to choose which of their registered facilities they'd like to
     - VAOS tries to put users in the direct schedule path first, and falls back to the request path if direct scheduling is not available
     - If the user is not eligible for either path, they're shown a modal explaining why
 - For the direct scheduling path, there are four potential checks:
-    1. Does the facility support direct scheduling (set in VATS)
-    2. Does the veteran have a recent enough visit
+    1. Does the facility support direct scheduling (set in VATS)?
+    2. Does the veteran have a recent enough visit?
         - This is controlled in VATS, and can be set to 12 or 24 months, or disabled
         - This check does not apply for primary care
-    3. Are there available VistA clinics for this facility and type of care
+    3. Are there available VistA clinics for this facility and type of care?
         - For primary care, this entails finding clinics associated with the user's PACT 
-    4. Are there available VistA clinics that the user has interacted with in he past 24 months
+    4. Are there available VistA clinics that the user has interacted with in the past 24 months?
         - This is a front end check, done to reduce the confusion around what clinic a user should choose
         - This will effectively override check 2, if that check is set to allow all users through in VATS
 - For the request path, there are three potential checks:
@@ -81,11 +80,141 @@ Veterans are asked to choose which of their registered facilities they'd like to
 ## Alerts and conditional states
 <!-- Any alerts that could display for this feature and what triggers them. -->
 
-### [Alert description]
+### Facility doesn't support direct scheduling
 <!-- Add a new section for each alert -->
 
 **Alert trigger**
-[Description of what causes this alert to display]
+
+If multiple facilities are available:
+- Veteran selects facility
+- Facility is configured in VATS to not accept direct scheduling
+- Veteran clicks continue
+- Alert loads in modal
+
+If only one facility is available:
+- Facility is configured in VATS to not accept direct scheduling
+- Page loads with alert in place of list
+
+**Alert UI**
+- [User flow](Add link)
+- [Alert template](Add link)
+- [Alert content](Add link)
+
+### Direct scheduling - Veteran doesn't have a recent enough visit
+<!-- Add a new section for each alert -->
+
+**Alert trigger**
+If multiple facilities are available:
+- Veteran selects facility
+- Facility is configured in VATS to require a visit within 12 or 24 months
+- Veteran hasn't visited within the required timeframe 
+- Veteran clicks continue
+- Alert loads in modal
+
+If only one facility is available:
+- Facility is configured in VATS to require a visit within 12 or 24 months
+- Veteran hasn't visited within the required timeframe 
+- Page loads with alert in place of list
+
+**Alert UI**
+- [User flow](Add link)
+- [State template](Add link)
+- [State content](Add link)
+
+### Direct scheduling - No VistA clinics are available for this type of care
+<!-- Add a new section for each alert -->
+
+**Alert trigger**
+If multiple facilities are available:
+- Veteran selects facility
+- Facility has no VistA clinics available for the selected type of care
+- Veteran clicks continue
+- Alert loads in modal
+
+If only one facility is available:
+- Facility has no VistA clinics available for the selected type of care
+- Page loads with alert in place of list
+
+**Alert UI**
+- [User flow](Add link)
+- [State template](Add link)
+- [State content](Add link)
+
+### Direct scheduling - VistA clinics available, but user hasn't interacted with them
+<!-- Add a new section for each alert -->
+
+**Alert trigger**
+If multiple facilities are available:
+- Veteran selects facility
+- Veteran hasn't interacted with any of the facilities available clinics in the past 24 months
+- Veteran clicks continue
+- Alert loads in modal
+
+If only one facility is available:
+- Veteran hasn't interacted with any of the facilities available clinics in the past 24 months
+- Page loads with alert in place of list
+
+**Alert UI**
+- [User flow](Add link)
+- [State template](Add link)
+- [State content](Add link)
+
+### Facility doesn't support requests
+<!-- Add a new section for each alert -->
+
+**Alert trigger**
+If multiple facilities are available:
+- Veteran selects facility
+- Facility doesn't support direct-scheduled appointments or requests
+- Veteran clicks continue
+- Alert loads in modal
+
+If only one facility is available:
+- Facility doesn't support direct-scheduled appointments or requests
+- Page loads with alert in place of list
+
+**Alert UI**
+- [User flow](Add link)
+- [State template](Add link)
+- [State content](Add link)
+
+### Requests - Veteran doesn't have a recent enough visit
+<!-- Add a new section for each alert -->
+
+**Alert trigger**
+If multiple facilities are available:
+- Veteran selects facility
+- Facility is configured in VATS to require a visit within 12 or 24 months
+- Veteran hasn't visited within the required timeframe 
+- Veteran clicks continue
+- Alert loads in modal
+
+If only one facility is available:
+- Facility is configured in VATS to require a visit within 12 or 24 months
+- Veteran hasn't visited within the required timeframe 
+- Page loads with alert in place of list
+
+**Alert UI**
+- [User flow](Add link)
+- [State template](Add link)
+- [State content](Add link)
+
+### Requests - Veteran has reached request limit
+<!-- Add a new section for each alert -->
+
+**Alert trigger**
+If multiple facilities are available:
+- Veteran selects facility
+- Facility is configured in VATS to limit requests
+- Veteran more pending requests than limit allows
+- Veteran clicks continue
+- Alert loads in modal
+
+If only one facility is available:
+- Facility is configured in VATS to limit requests
+- Veteran more pending requests than limit allows
+- Veteran hasn't visited within the required timeframe 
+- Page loads with alert in place of list
 
 **Alert UI**
 - [User flow](Add link)
