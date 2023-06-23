@@ -111,7 +111,14 @@ To best serve the users of VA.gov, we will need to collect the following informa
 - **Development question:** If we can’t do filters now in this iteration could we do anchor links to the months or have one month per page and link to that page?
 #### Date and Details
 - P17: "Appointment number four, or was that the date?" When referring to the number 4 (date) indicator on the appointment page. "At first I thought they represented the actual number of appointments. Then, scanning the number that I just got to is actually the day of the month. I can say that was a little confusing, but not anything I couldn't figure out."
-- P17: "... Needing to know the floors or the room number. Some buildings have to go to the information desk, for floor and room number to see where it was at." 
+- P17: "... Needing to know the floors or the room number. Some buildings have to go to the information desk, for floor and room number to see where it was at."
+
+### Processes: Confirmation and Check-In
+- P17: "The separation of the two was quite obvious because the first one with the text message is text message based, when you go on this tab, it takes you to an actual website, or platform per say. That is the major difference. You know I can say personally myself, you know, I would check in this second way. I believe after maybe 3 or 4 attempts at it. Especially the part when I know my information is current, then I don’t have to go through that process and it would be just as easy going to a kiosk, being low vision. Compared to going to a check-in kiosk, with no voice output and using this tool, you know for the blind and no vision veterans this would definitely be easier."
+- P17: Don’t say check in unless you check in. We were giving an or option, and instead say confirm. Instead say confirm and not use check in if that is not available. 
+
+### Positive Feedback
+- P17:**Review your upcoming appointments**: “Oh, WOW, Ok! That was very clear.” Adding the "You checked in at 7:55 a.m." under the appointment details link was helpful.
 
 ## :warning: Prototype Related Issues Encountered
 ### Review your information
