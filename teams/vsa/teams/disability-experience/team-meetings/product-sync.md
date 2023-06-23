@@ -20,6 +20,7 @@
     - Issue with claims getting lost due to downstream validation issues or other reason - Steve A
        -  Kyle, Sam, Steve,
        -  Need to get it on the Zenhub board for prioritization
+    - Scheduling a meeting with contact center to walk through the ticket creation and new process
       
 - Collaboration between teams
   -  What's working and what isn't
@@ -33,10 +34,24 @@
        
 - Roadmap
   - Review updates by Team Carbs with Austin on another sync
+    
 - PTO Coverage for design team over the summer
+  - Lydia is 4-5 weeks
+     - Planning to get first drafts of content/design for ongoing epics
+     - Possibility of Nicole and Julie
+  - Nichole back when Lydia is leaving
+  
 - eVSS migration status - Steve
+  - Send update every Wednesday
 
-Action item - find more time this week to go over the rest of the items
+- eVSS outage because a pdf for 150 M was uploaded as evidence
+  - problem originated with efolder document upload  
+  - This caused outage of multiple services
+ 
+###Action item 
+- Find more time this week to go over the rest of the items
+- Add the 150M file upload constraint to the endpoint call for document upload 
+
 
 ### Date: June 14 2023
 ### Topics Covered:
