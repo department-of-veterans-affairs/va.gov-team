@@ -58,12 +58,29 @@ Tools Veterans can use to manage their appointments and requests.
 ## Schedule appointments
 Tools for Veterans to schedule or request appointments.
 
-| Flow | Page | Description |
-|---|---|---|
-| All flows | Type of care | |
-| All flows | Choose a care category | | 
-| VA direct-schedule | [Choose a location](./schedule-flow/va-direct-choose-location.md) | | 
-| VA request | 
-| Community care request | | |
-| VA direct-schedule COVID-19 vaccine | | |
+| Flow | Page |
+|---|---|
+| All flows | Choose a type of care |
+| All flows | Choose a care category |
+| VA direct-schedule | [Choose a location](./schedule-flow/va-direct-choose-location.md) | 
+| VA direct-schedule | Cerner location redirect |
+| VA direct-schedule | Choose a clinic |
+| VA direct-schedule | Choose a preferred date |
+| VA direct-schedule | Reason for appointment |
+| VA direct-schedule | Confirm contact information |
+| VA direct-schedule | Review and submit |
+| VA request | Choose a day and time |
+| VA request | Reason for appointment |
+| VA request | Method of attendance |
+| VA request | Confirm contact information |
+| VA request | Review and submit |
+| CC request | Choose a day and time |
+| CC request | Closest city |
+| CC request | Choose a provider |
+| CC request | Choose a preferred language |
+| CC request | Reason for appointment |
+| CC request | Confirm contact information |
+| VA request | Review and submit |
+
+
 
