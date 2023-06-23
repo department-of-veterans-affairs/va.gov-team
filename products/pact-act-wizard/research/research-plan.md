@@ -66,7 +66,10 @@ We will conduct **usability testing** to guide research participants through a w
 
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
-*(Idea for conversation guide: If the questions include compound questions with both a date range and a location, later in the research session consider asking each part of the question separately to assess if the participant answered the compound question accurately.)*
+### Ideas for conversation guide
+- If the questions include compound questions with both a date range and a location, later in the research session consider asking each part of the question separately to assess if the participant answered the compound question accurately.
+- Ask if participant has VA health care and/or disability compensation.
+- Consider providing an "I don't know" option to each yes/no question.
 
 
 ### Research materials
@@ -78,11 +81,14 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 Ask Perigean to recruit **8 Veterans and 3 caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](). 
 
 ### Required criteria 
-- ???
+- At least 5 whose service years include some of 1962-1980
+- At least 3 whose service years include 1990 or later
+- At least 3 whose service years include 2001 or later
 - ALL have a smartphone to use it for the session and...
   - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen
   - Be willing to share over Zoom a web browser window on their smartphone
   - Have a working microphone on their smartphone
+- At least 3 people who use a screen reader 
 - At least 4 people with a cognitive disability (e.g., TBI)
 - At least 4 people who are age 55 or older
 - At least 2 people 35 or under
@@ -93,7 +99,12 @@ Ask Perigean to recruit **8 Veterans and 3 caregivers** of Veterans who meet the
 - At least 2 people who are LGBTQ+
 
 ### Screening Questions
-1. TBD
+1. How do you use the internet? (check all that apply)
+     1. From a smart phone *(RECRUIT 11)*
+     1. From a tablet or iPad
+     1. From a desktop or laptop computer
+
+**(QUESTION: Are we open to screen reader users on a computer instead of a smartphone?)**
 
 1. What time zone are you located in? *(RECORD)*
 
@@ -109,13 +120,21 @@ Ask Perigean to recruit **8 Veterans and 3 caregivers** of Veterans who meet the
      1. No  
      1. Yes *(RECRUIT 2)*
 
+1. Do you use screen reader technology every time you use the internet? For example, VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer.
+We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
+     1. No
+     1. Yes *(ask next question)*
+
+1. Are you willing to join the Zoom session using this assistive technology? 
+     1. No
+     1. Yes *(RECRUIT 3 to satify "screen reader" criterion)*
+
 
 ## Timeline
 
 ### Prepare
 Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. Wes and I are available for a kickoff call during any of these times: 
-- **Mar 15 11:30-12:30 or 3:30-4:30 pm ET**
-- **Mar 16 12-2 or 3-5 pm ET**
+- **TBD ET**
 
 **Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so I can review it beforehand.
 
