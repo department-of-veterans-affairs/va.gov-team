@@ -47,9 +47,9 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
 
 #### `GET /demographics`
 - Description: This endpoint is for retrieving demographics information which includes a field indicating if insurance verification is needed and patient contact information, emergency contact information and next-of-kin contact information.
-- Requirements for patient check-in
-  - all three contact, emergency and next-of-kin `needsConfirmation` fields need to be `false`
-  - `insuranceVerificationNeeded` needs to be false
+  - Requirements for patient check-in:
+    - all three contact, emergency and next-of-kin `needsConfirmation` fields need to be `false`
+    - `insuranceVerificationNeeded` needs to be false
 
 - Request Body:
   - `patientDFN` (string): The unique identifier of the patient.
