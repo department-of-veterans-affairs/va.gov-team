@@ -22,7 +22,7 @@ Depending on where you've heard it, it might mean...
 
 ### Compliance encompasses...
 - what we think of when we hear "Section 508" or "WCAG 2.0" (Web Content Accessibility Guidelines)
-- "normative," meaning there are specific, measurable requirements in order to claim "conformance"
+- meeting specific, measurable characteristics in order to pass legal requirements
 - the measurements of a ramp that signify it can be accessed by disabled people
 - assessed by a product team or an accessibility specialist
 
