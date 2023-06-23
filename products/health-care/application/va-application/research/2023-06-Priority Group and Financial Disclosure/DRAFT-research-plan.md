@@ -61,7 +61,7 @@ Learn more about how Veterans would like to go about applying, discovering eligi
 Learn more about how Veterans would like to go about providing updated information, especially financial and dependent updates, that could impact their health care benefits post-application/initial enrollment.
 - Do Veterans call out the VA profile or MyHelatheVet or the mobile app or (enter here) as their ideal way to provide this updated information in an online setting?
 - Do Veterans prefer to provide updated information in person at appointments or over the phone?
-- Would Veterans prever to be prompted to provide updated financials?
+- Would Veterans prefer to be prompted to provide updated financials?
 
 
 
