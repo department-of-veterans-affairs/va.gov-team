@@ -85,7 +85,7 @@ Let’s start with a few warm-up questions.
 
 ## Second Topic: [Priority Group - SCENARIO] - 10 minutes
 
-- I'm going to share my screen and show you a couple of hypothetical options on how might be able to view your health care benefits online after enrollment.
+- I'm going to share my screen and show you a couple of hypothetical options on how you might be able to view your health care benefits online after enrollment.
 
 - Mural board
 
