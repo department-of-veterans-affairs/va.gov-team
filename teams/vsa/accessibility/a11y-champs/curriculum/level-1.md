@@ -7,7 +7,7 @@
   - get started with your very first screen reader
 
 ## Join our community
-- [ ] [Join and introduce yourself on the `#a11y-champs` channel on VA slack](https://dsva.slack.com/archives/C8E985R32)
+- [ ] [Join and introduce yourself on the `#a11y-champs` channel on VA slack](https://dsva.slack.com/archives/C0552U2L30S)
 - [ ] Let us know your name, role, what team you're on, and why you decided to start your accessibility champion journey
 
 ## Accessibility, compliance, and experience
