@@ -1,5 +1,5 @@
 # Notification Center MVP Frontend Documentation
-Last updated: June 16, 2023
+Last updated: June 23, 2023
 
 ## UX Specs
 ### Sketch mockups
@@ -7,6 +7,11 @@ Last updated: June 16, 2023
 - [Desktop](https://www.sketch.com/s/1cc4cb25-7de4-492c-bb91-edef871b2a89/a/uuid/3F1E43D1-70E0-4F05-8E59-F0B1D00DF6C0)
 - [Mobile](https://www.sketch.com/s/1cc4cb25-7de4-492c-bb91-edef871b2a89/a/uuid/003BB5C5-955E-4D5E-90C5-A1A12145ADE0)
 
+### Functional specs
+- The notification center MVP is a list of all notifications a user has ever received **on VA.gov**. It does not encompass all emails and/or push notifications.
+  - A notification must be triggered through VA Notify and integrated with the "Notifications" feature on My VA in order to appear in this list
+- Notifications should be listed in chronological order by date received, with the newest (most recently received) notification at the top of the list
+- Whether a notification has been dismissed from My VA or not, it will appear in this list.
 
 ### Visual specs
 
@@ -20,8 +25,9 @@ Last updated: June 16, 2023
   - Note that an [experimental design ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/1785) to add this divider to the design system has been submitted and once it is added, we will need to update this component to utilize it
 
 **Pagination**
-- List 10 notifications on each page by default. Use pagination for any more than 10 notifications.
 - Use the [pagination component](https://design.va.gov/storybook/?path=/docs/components-va-pagination--default) in the VA pattern library
+- List 10 notifications on each page by default. Use pagination for any more than 10 notifications.
+- If there are less than 10 notifications to show, then the pagination component does not show at all. [Slack thread with Platform for additional context](https://dsva.slack.com/archives/C01DBGX4P45/p1687533356451349)
 
 ---
 
