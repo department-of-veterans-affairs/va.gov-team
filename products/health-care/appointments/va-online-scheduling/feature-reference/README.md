@@ -61,7 +61,10 @@ Tools for Veterans to schedule or request appointments.
 | Flow | Page |
 |---|---|
 | All flows | [Choose a type of care](./schedule-flow/all--type-of-care.md) |
-| All flows | Choose a care category |
+| All flows | Choose a type of sleep care |
+| All flows | Choose a type of eye care |
+| All flows | Choose location category |
+| All flows | Choose a type of audiology care |
 | VA direct-schedule | [Choose a location](./schedule-flow/va-direct--choose-location.md) | 
 | VA direct-schedule | Cerner location redirect |
 | VA direct-schedule | Choose a clinic |

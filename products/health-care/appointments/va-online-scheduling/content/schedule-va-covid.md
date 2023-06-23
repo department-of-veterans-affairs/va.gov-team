@@ -1,4 +1,4 @@
-# VA Direct Schedule COVID Vaccine Appointment Copy
+# VA Direct Schedule COVID Vaccine Appointment Content
 
 ## Plan Ahead
 
@@ -335,7 +335,7 @@ Your phone number (*Required)
 
 Your email address (*Required)
 
-{input field)
+{input field}
 ```
 
 #### Phone number - empty field
@@ -407,7 +407,7 @@ Make sure the information is correct. Then confirm your appointment.
 Your contact details         [Edit]{Link}
 
 {email address}
-(phone number} 
+{phone number} 
 
 ```
 
