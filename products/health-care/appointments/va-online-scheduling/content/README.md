@@ -1,33 +1,67 @@
 
-# VA Online Scheduling - Content
+# Appointments Content
 
-VAOS' content is captured in the [copy-docs folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/content/copy-docs).
+Appointments content is in the pages that follow and the [platform scheduling content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-briefs/Appointments.md).
 
-See also the [platform scheduling content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-briefs/Appointments.md).
+
+## Appointment lists
+
+| Feature | Description | 
+|---|---|
+| [Upcoming appointments](./manage-lists.md#upcoming) | View all future and in progress appointments |
+| [Past appointments](./manage-lists.md#past) | View all appointments from the last two years |  
+| [Pending appointments](./manage-lists.md#pending) | View all pending and canceled requests | 
+
+## Appointment details 
+
+| Feature | Description |
+|---|---|
+| [VA In-person](./manage-details.md#va-in-person)  | Scheduled, in person appointments at a VA facility |
+| [VA In-person Vaccine](./manage-details.md#va-in-person-covid-vaccine) | Scheduled, in person appointments at a VA facility for a COVID-19 vaccine |
+| [VA Video Care at Home](./manage-details.md#video-at-home) | Scheduled telehealth appointments over VA Video Care |
+| [VA Video Care at a VA location](./manage-details.md#video-at-va-facility) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins at a VA facility |
+| [VA Video Care on GFE](./manage-details.md#video-on-gfe) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins over a GFE provided by a VA facility |
+| [VA Video Care at an ATLAS location](./manage-details.md#video-at-atlas) |  Scheduled telehealth appointments that a Veteran joins at an ATLAS facility  |
+| [VA Phone](./manage-details.md#va-phone) |  Scheduled telehealth appointments that a Veteran joins over the phone. |
+| [Community Care](./manage-details.md#community-care-appointment) |  Scheduled appointment that a Veteran joins at a community care provider |
+| [Compensation and Pension appointment]() | Scheduled appointment for a Compensation and Pension exam |
+
+## Request details 
+
+| Feature | Description | Supported |
+|---|---|---|
+| [VA Appointment Request](./manage-details.md#va-requests)  | Request for a VA appointment | |
+| [Community Care Appointment request](./manage-details.md#community-care-requests) | Request for a community care appointment | |
+
+## Schedule appointments flows
 
 | Flow | Page |
 |---|---|
-| All flows | [Choose a type of care](schedule-all-flows.md#type-of-care-copy-doc) |
-| All flows | Choose a type of sleep care |
-| All flows | Choose a type of eye care |
-| All flows | Choose location category |
-| All flows | Choose a type of audiology care |
-| VA direct-schedule | [Choose a location]() | 
-| VA direct-schedule | Cerner location redirect |
-| VA direct-schedule | Choose a clinic |
-| VA direct-schedule | Choose a preferred date |
-| VA direct-schedule | Reason for appointment |
-| VA direct-schedule | Confirm contact information |
-| VA direct-schedule | Review and submit |
-| VA request | Choose a day and time |
-| VA request | Reason for appointment |
-| VA request | Method of attendance |
-| VA request | Confirm contact information |
-| VA request | Review and submit |
-| CC request | Choose a day and time |
-| CC request | Closest city |
-| CC request | Choose a provider |
-| CC request | Choose a preferred language |
-| CC request | Reason for appointment |
-| CC request | Confirm contact information |
-| CC request | Review and submit |
+| All flows | [Choose a type of care](./schedule-all-flows.md#choose-a-type-of-care) |
+| All flows | [Choose a type of sleep care](./schedule-all-flows.md#choose-sleep-care) |
+| All flows | [Choose a type of eye care](./schedule-all-flows.md#choose-eye-care) |
+| All flows | [Choose location category](./schedule-all-flows.md#choose-location-type) |
+| All flows | [Choose a type of audiology care](./schedule-all-flows.md#choose-audiology-care) |
+| VA direct-schedule | [Choose a location](./schedule-va.md#choose-a-va-location) | 
+| VA direct-schedule | [Cerner location redirect](./schedule-va.md#endpoint---cerner-offboard-page) |
+| VA direct-schedule | [Choose a clinic](./schedule-va.md#choose-a-va-clinic) |
+| VA direct-schedule | [Choose a preferred date](./schedule-va.md#patient-indicated-date) |
+| VA direct-schedule | [Choose a date and time](./schedule-va.md#choose-a-date) |
+| VA direct-schedule | [Reason for appointment](./schedule-va.md#reason-for-appointment) |
+| VA direct-schedule | [Confirm contact information](./schedule-va.md#contact-information) |
+| VA direct-schedule | [Review and submit](./schedule-va.md#review-and-submit) |
+| VA direct-schedule | [Confirmation details](./manage-details.md#confirmed-2) |
+| VA request | [Choose a day and time](./request-va.md#preferred-date) |
+| VA request | [Reason for appointment](./request-va.md#reason-for-appointment) |
+| VA request | [Method of attendance](./request-va.md#preferred-modality) |
+| VA request | [Confirm contact information](./request-va.md#contact-information) |
+| VA request | [Review and submit](./request-va.md#review-appointment-details) |
+| VA request | [Confirmation details](./manage-details.md#confirmed) |
+| CC request | [Choose a day and time](./request-cc.md#preferred-date) |
+| CC request | [Closest city](./request-cc.md#nearest-city) |
+| CC request | [Choose a provider](./request-cc.md#request-a-provider-optional) |
+| CC request | [Choose a preferred language](./request-cc.md#choose-a-language) |
+| CC request | [Reason for appointment](./request-cc.md#reason-for-appointment) |
+| CC request | [Confirm contact information](./request-cc.md#contact-information) |
+| CC request | [Review and submit](./request-cc.md#review-appointment-details) |
+| CC request | [Confirmation details](./manage-details.md#confirmed-1) |

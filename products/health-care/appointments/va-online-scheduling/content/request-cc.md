@@ -1,12 +1,18 @@
 # Community Care Request Copy
 
-## Choose a Date
+## Preferred date
 
-**FORM TITLE**
+**NAVIGATION**
 
-```
-NEW APPOINTMENT
-```
+URL: `https://va.gov/my-health/appointments/schedule/preferred-date-cc-request`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/request-date`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -33,11 +39,17 @@ Choose your preferred date and time for this appointment. You can request up to 
 
 ## Nearest city
 
-**FORM TITLE**
+**NAVIGATION**
 
-```
-NEW APPOINTMENT
-```
+URL: `https://va.gov/my-health/appointments/schedule/closest-city-cc-request`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-closest-city`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -65,7 +77,7 @@ What's the closest city to you?
 
 **ERROR VALIDATION**
 
-#### City/State - no selection
+### City/State - no selection
 
 Please provide a response
 
@@ -78,14 +90,20 @@ Please provide a response
 
 ---
 
-## Request a {type of care} provider. (Optional)
+## Request a provider (Optional)
 
 
-**FORM TITLE**
+**NAVIGATION**
 
-```
-NEW APPOINTMENT
-```
+URL: `https://va.gov/my-health/appointments/schedule/preferred-provider-cc-request`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/community-care-preferences`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -103,7 +121,7 @@ You can request a provider for this care. If they aren’t available, we’ll sc
 
 ```
 
-#### Provider section - home address on file
+### Provider section - home address on file
 
 ```
 {H} Choose a provider
@@ -130,7 +148,7 @@ Show providers closest to
 
 
 
-#### Provider section - no home address
+### Provider section - no home address
 
 ```
 {H} Choose a provider
@@ -154,7 +172,7 @@ Note: To show providers near your home, you need to add your home address to you
 
 ```
 
-#### Provider Selected
+### Provider Selected
 
 ```
 Selected Provider
@@ -176,11 +194,17 @@ Selected Provider
 
 ## Choose a language
 
-**FORM TITLE**
+**NAVIGATION**
 
-```
-NEW APPOINTMENT
-```
+URL: `https://va.gov/my-health/appointments/schedule/preferred-language-cc-request`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/community-care-language`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -221,11 +245,17 @@ Choose a preferred language
 
 ## Reason for Appointment
 
-**FORM TITLE**
+**NAVIGATION**
 
-```
-NEW APPOINTMENT
-```
+URL: `https://va.gov/my-health/appointments/schedule/reason-cc-request`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/reason-appointment`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -257,11 +287,17 @@ Please let us know any additional details about your symptoms that may be helpfu
 
 ## Contact Information
 
-**FORM TITLE**
+**NAVIGATION**
 
-```
-NEW APPOINTMENT
-```
+URL: `https://va.gov/my-health/appointments/schedule/contact-information-cc-request`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/contact-info`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -293,29 +329,29 @@ Your email address (*Required)
 
 **ERROR VALIDATION**
 
-#### Phone number - empty field
+### Phone number - empty field
 
 ```
 Please enter a phone number
 ```
 
-#### Best times - empty field
+### Best times - empty field
 
 _tbd_
 
-#### Email address - empty field
+### Email address - empty field
 
 ```
 Please enter an email address
 ```
 
-#### Phone number - invalid entry
+### Phone number - invalid entry
 
 ```
 Please enter a valid 10-digit phone number (with or without dashes)
 ```
 
-#### Email address - invalid entry
+### Email address - invalid entry
 
 ```
 Please enter a valid email address
@@ -331,9 +367,17 @@ Please enter a valid email address
 
 ## Review Appointment Details
 
-**FORM TITLE**
+**NAVIGATION**
 
-_in Page Content_
+URL: `https://va.gov/my-health/appointments/schedule/review-cc-request`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/review`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 

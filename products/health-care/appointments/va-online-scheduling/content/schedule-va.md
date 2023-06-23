@@ -1,12 +1,18 @@
-# VA Direct Schedule Appointment Copy
+# VA Direct Schedule Appointment Content
 
 ## Choose a VA Location
 
-**FORM TITLE**
+**NAVIGATION**
 
-```
-NEW APPOINTMENT
-```
+URL: `https://va.gov/my-health/appointments/schedule/location`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/va-facility-2`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -16,7 +22,7 @@ Choose a location
 
 **PAGE CONTENT**
 
-#### State: Sorted by Home Address
+### State: Sorted by Home Address
 
 ```
 Select a VA facility where you’re registered that offers {type of care} appointments.(*Required)
@@ -37,7 +43,7 @@ Sort facilities
 
 ```
 
-#### State: No Home Address on File
+### State: No Home Address on File
 
 ```
 Select a VA facility where you’re registered that offers {type of care} appointments.(*Required)
@@ -57,7 +63,7 @@ Note: to show facilities near your home, add your residential address in your VA
 {Link} + {1-5} more locations
 ```
 
-#### State: Can't Sort by Location
+### State: Can't Sort by Location
 
 ```
 Select a VA facility where you’re registered that offers {type of care} appointments.(*Required)
@@ -78,9 +84,9 @@ Make sure your browser’s location feature is turned on.
 
 ```
 
-#### State: Single Clinic
+### State: Single Clinic
 
-TBD
+[TBD]
 
 
 **NAVIGATION BUTTONS**
@@ -91,13 +97,19 @@ TBD
 
 ---
 
-## ALT Path: Cerner Offboard 
+## Endpoint - Cerner Offboard Page
 
-**FORM TITLE**
+**NAVIGATION**
 
-```
-NEW APPOINTMENT
-```
+URL: ``
+
+Redirect: ``
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -132,11 +144,17 @@ TTY: 711
 
 ## Choose a VA Clinic
 
-**FORM TITLE**
+**NAVIGATION**
 
-```
-NEW APPOINTMENT
-```
+URL: `https://va.gov/my-health/appointments/schedule/clinic`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/clinics`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -146,7 +164,7 @@ Choose a VA clinic
 
 **PAGE CONTENT**
 
-#### State: Multiple Clinics
+### State: Multiple Clinics
 
 ```
 In the last {number} months you’ve had {a/an} {type of care} appointment at the following {facility name} clinics:
@@ -159,7 +177,7 @@ Choose a clinic below or request a different clinic for this appointment. (*Requ
 {Option}{I need a different clinic}
 ```
 
-#### State: Single Clinic
+### State: Single Clinic
 
 ```
 {Type of care} appoinments are available at {clinic name}:
@@ -183,8 +201,19 @@ Would you like to make an appointment at {clinic name}? (*Required)
 
 ---
 
-## Choose a Desired Date
+## Patient-indicated date
 
+**NAVIGATION**
+
+URL: `https://va.gov/my-health/appointments/schedule/preferred-date`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/preferred-date`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -204,11 +233,17 @@ Choose a date within the next 13 months for this appointment.
 
 ## Choose a Date
 
-**FORM TITLE**
+**NAVIGATION**
 
-```
-NEW APPOINTMENT
-```
+URL: `https://va.gov/my-health/appointments/schedule/date-time`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/select-date`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -273,11 +308,17 @@ If you have an urgent medical need or need care right away:
 
 ## Reason for Appointment
 
-**FORM TITLE**
+**NAVIGATION**
 
-```
-NEW APPOINTMENT
-```
+URL: `https://va.gov/my-health/appointments/schedule/reason`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/reason-appointment`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -315,11 +356,17 @@ Please provide any additional details you'd like to share with your provider abo
 
 ## Contact Information
 
-**FORM TITLE**
+**NAVIGATION**
 
-```
-NEW APPOINTMENT
-```
+URL: `https://va.gov/my-health/appointments/schedule/contact-information`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/contact-info`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -349,11 +396,19 @@ Your email address (*Required)
 ```BACK```
 ```CONTINUE```
 
-## Review Appointment Details
+## Review and Submit
 
-**FORM TITLE**
+**NAVIGATION**
 
-_in Page Content_
+URL: `https://va.gov/my-health/appointments/schedule/review`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/review`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 

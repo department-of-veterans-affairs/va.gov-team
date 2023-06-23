@@ -1,12 +1,18 @@
 # VA Appointment Request Copy
 
-## Choose a Date
+## Preferred Date
 
-**FORM TITLE**
+**NAVIGATION**
 
-```
-NEW APPOINTMENT
-```
+URL: `https://va.gov/my-health/appointments/schedule/preferred-date-va-request`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/request-date`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -33,11 +39,17 @@ Choose your preferred date and time for this appointment. You can request up to 
 
 ## Reason for Appointment
 
-**FORM TITLE**
+**NAVIGATION**
 
-```
-NEW APPOINTMENT
-```
+URL: `https://va.gov/my-health/appointments/schedule/reason-va-request`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/reason-appointment`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -76,11 +88,17 @@ Please provide any additional details you'd like to share with your provider abo
 
 ## Preferred modality
 
-**FORM TITLE**
+**NAVIGATION**
 
-```
-NEW APPOINTMENT
-```
+URL: `https://va.gov/my-health/appointments/schedule/preferred-method-va-request`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-visit-type`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -109,11 +127,17 @@ Please let us know how you would like to be seen for this appointment. (*Require
 
 ## Contact Information
 
-**FORM TITLE**
+**NAVIGATION**
 
-```
-NEW APPOINTMENT
-```
+URL: `https://va.gov/my-health/appointments/schedule/contact-information-va-request`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/contact-info`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -187,9 +211,17 @@ Please enter a valid email address
 
 ## Review Appointment Details
 
-**FORM TITLE**
+**NAVIGATION**
 
-_in Page Content_
+URL: `https://va.gov/my-health/appointments/schedule/review-va-request`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/review`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+Form title: NEW APPOINTMENT
 
 **PAGE HEADER**
 
@@ -271,6 +303,6 @@ TTY: 711
 
 ## Confirmation Page
 
-See [confirmation states](appointment-details.md#confirmation-states) in the apoointment detail pages copy doc
+See [confirmation state](./appointment-details.md#va-request---confirmed) in the apoointment detail pages.
 
 ---

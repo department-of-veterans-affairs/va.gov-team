@@ -1,14 +1,22 @@
-# Type of Care Copy Doc
+# Scheduling - All Flows
+
+These pages start all scheduling flows
 
 ---
 
-## Current
+## Choose a Type of Care
 
-**FORM TITLE**
 
-```
-NEW APPOINTMENT
-```
+**NAVIGATION**
+
+URL: `https://va.gov/my-health/appointments/schedule/type-of-care`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
 
 **PAGE HEADER**
 
@@ -16,13 +24,11 @@ NEW APPOINTMENT
 Choose the type of care you need
 ```
 
-**PAGE DESCRIPTION**
+**PAGE CONTENT**
 
 ```
 What care do you need? (*Required)
 ```
-
-**PAGE CONTENT**
 
 ```
 - Amputation care
@@ -39,6 +45,7 @@ What care do you need? (*Required)
 - Social work
 ```
 **Alert**
+
 ```
 Is the type of care you need not listed here?
 
@@ -51,3 +58,119 @@ Find a VA location
 
 ```Back```
 ```Continue```
+
+---
+
+## Choose sleep care
+
+
+**NAVIGATION**
+
+URL: `https://va.gov/my-health/appointments/schedule/sleep-care`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-sleep-care`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+
+**PAGE HEADER**
+
+`Choose the type of sleep care you need`
+
+**PAGE CONTENT**
+
+[TBD]
+
+**PROGRESS BUTTONS**
+
+`Back`  
+`Continue`
+
+---
+
+## Choose eye care
+
+
+**NAVIGATION**
+
+URL: `https://va.gov/my-health/appointments/schedule/eye-care`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-eye-care`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+
+**PAGE HEADER**
+
+`Choose the type of eye care you need`
+
+**PAGE CONTENT**
+
+[TBD]
+
+**PROGRESS BUTTONS**
+
+`Back`  
+`Continue`
+
+---
+
+## Choose audiology care
+
+
+**NAVIGATION**
+
+URL: `https://va.gov/my-health/appointments/schedule/audiology-care`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/audiology`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+
+**PAGE HEADER**
+
+`Choose the type of audiology care you need`
+
+**PAGE CONTENT**
+
+[TBD]
+
+**PROGRESS BUTTONS**
+
+`Back`  
+`Continue`
+
+---
+
+## Choose location type
+
+
+**NAVIGATION**
+
+URL: `https://va.gov/my-health/appointments/schedule/facility-type`
+
+Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-facility-type`
+
+Page title: `[Page Header] | Veterans Affairs`
+
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
+
+
+**PAGE HEADER**
+
+`Choose where you want to receive your care`
+
+**PAGE CONTENT**
+
+[TBD]
+
+**PROGRESS BUTTONS**
+
+`Back`  
+`Continue`
