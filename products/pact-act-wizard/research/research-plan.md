@@ -44,12 +44,22 @@ The purpose of this research is to **find out whether the questions drafted for 
 Learnings will help refine individual questions and the overall list of them in the wizard.
 
 ### Research questions
-1. ?
+1. What feedback do Veterans have on individual questions?
+     1. Are Veterans able to understand the questions?
+     1. Are Veterans able to accurately answer questions that include both a year range AND a location?
+1. What feedback do Veterans have on the entire set of questions?
+     1. Are there so many questions that Veterans get frustrated or stop before the end?
+     1. Are Veterans bothered by the repetitive construction of the questions?
+
+1. Do Veterans know enough about their military service to answer the questions? If not, what do they need to answer them?
+
+1. What feedback do Veterans have on the results (including date ranges and next steps)?
 
 
 ### Hypotheses
-1. Veterans will be able to answer the questions in the app.
-2. Veterans will not be overwhelmed by the number of questions they need to answer.
+1. Veterans will find the questions to be clear and easy to understand and answer.
+2. Veterans will not be overwhelmed by the total number of questions they need to answer.
+1. Veterans will understand the results screen, not be confused by it, and know what they should do next. 
 
 ## Method	
 We will conduct **usability testing** to guide research participants through a working prototype. 
