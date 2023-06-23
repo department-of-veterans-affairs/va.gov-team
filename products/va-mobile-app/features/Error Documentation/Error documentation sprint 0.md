@@ -1,33 +1,32 @@
-<h2>Sprint 0: Error documentation</h2>
+<h1>Sprint 0: Error documentation</h1>
 
 
 [Link to Epic]
 
-<h4>Problem Statement</h4>
+<h2>Problem Statement</h2>
 
 
 The VA: Health & Benefits mobile app team doesn’t have (1) an easily accessible and (2) detailed explanation of its error states.
 
-**Context**
+<h3>Context</h3>
 
 Prior to attending the error writing retreat with the Sitewide Content team, Danielle Thierry asked for me (Misty) to share documentation of all the app's error states. Unfortunately, we don't have our errors (or other types of “unhappy” states -- empty states, loading states, etc.) documented in an easily accessible or shareable way.
 
-**Prior attempts**
+<h3>Prior attempts</h3>
 
 We have [this old Mural (Mobile App: User Flows and Unhappy Paths)](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1614017071435/8061f2093dc4679b4b1da3ab3f20423c8f1c8f66?sender=u85a35f55e50d7c375c782462) that was a prior attempt to document these states, but it hasn’t been edited/updated in over a year. We also have the [Sitemap in Figma](https://www.figma.com/file/TEEgHdlibzCilCj4LviHVF/VA-Mobile-app---Detailed-Sitemap-2.0?type=whiteboard&node-id=0-1&t=RDJBcNvJVYpm6ZEB-0) (kept up to date by Holly) and an old/outdated [Screen Roundup in Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1644341290076/ae8950773187ee1bc35eb1302b8276e8f3356881?sender=u85a35f55e50d7c375c782462), but these focus on happy paths. No errors are noted.
 
-**Why this is a problem**
-
+<h3>Why this is a problem</h3>
 
 
 * Non-engineering team members can’t access these error states easily (via demo mode or test users). We have to ask Engineering for help.
-    * _“Well, couldn’t you just look at the json files?” _Yes, but json files are single strings that don’t indicate what component/UI was used for the error or any logic.
+    *  _Well, couldn’t you just look at the json files?_ Yes, but json files are single strings that don’t indicate what component/UI was used for the error or any logic.
 * Non-engineering team members don’t know what API errors are associated with individual error states. This makes it harder to align with VA.gov delivery teams when building out features.
     * Example: If we know we need an error message for error code 123, we can ensure alignment with VA.gov as we should be showing the same error.
 * With no centralized, detailed documentation on our error states, we have no place to point other VA.gov teams to.
 * We run the risk of losing “knowledge” of why/when certain errors appear or why they are written the way they are if you lose team members.
 
-**Desired outcomes**
+<h2>Desired outcomes</h2>
 
 
 
@@ -39,7 +38,7 @@ We have [this old Mural (Mobile App: User Flows and Unhappy Paths)](https://app.
 * Error documentation that is accessible to everyone (no Google)
 * Owner/gatekeeper of this documentation
 
-<h4>Assumptions and Level of Confidence</h4>
+<h2>Assumptions and Level of Confidence</h2>
 
 
 
@@ -47,13 +46,12 @@ We have [this old Mural (Mobile App: User Flows and Unhappy Paths)](https://app.
 1. We’re making the assumption that this will actually help non-Engineering team members do their work (mainly UX and content).
 2. We’re making the assumption that this will be beneficial to and used by external teams.
 
-<h4>Risks</h4>
+<h2>Risks</h2>
 
 
 There would be no big risks to a simple documentation approach. Risks could arise in further improvements that come out of this project in which we try to align with VA.gov delivery teams.
 
-<h4>Business Goals</h4>
-
+<h2>Business Goals</h2>
 
 
 
@@ -63,9 +61,8 @@ There would be no big risks to a simple documentation approach. Risks could aris
     * This work could eventually be leveraged to rewrite unhelpful error messages and then have a place to point other teams to update their errors.
 
 
----
 
-<h4>Roadmap</h4>
+<h2>Roadmap</h2>
 
 
 **V1 - Just document**
@@ -83,7 +80,7 @@ There would be no big risks to a simple documentation approach. Risks could aris
 * Component changes
 * Alignment of errors with external delivery teams on VA.gov
 
-<h4>Technical Approach</h4>
+<h2>Technical Approach</h2>
 
 
 V1 of the project would be an internal project with no need to interact or collaborate with VA.gov teams. 
@@ -92,14 +89,14 @@ We will need a representative from both BE and FE to help with identifying API e
 
 We’d also want input from Engineering on what would be helpful to include in this documentation so that it’s not just useful to Design team members but also Engineering.
 
-<h4>Measuring success </h4>
+<h2>Measuring success </h2>
 
 
 
 
 * 
 
-<h4>Stakeholders</h4>
+<h2>Stakeholders</h2>
 
 
 
@@ -107,14 +104,14 @@ We’d also want input from Engineering on what would be helpful to include in t
 * Rachel Han
 * Ryan Thurlwell
 
-<h4>Open Questions</h4>
+<h2>Open Questions</h2>
 
 
 
 
 * Could we lift what VA.gov delivery teams have done to document their errors? [Example of how CIE team has documented errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/error-types.md#echeck-in)
 
-<h4>Important Links</h4>
+<h2>Important Links</h2>
 
 
 [Example of how CIE team has documented errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/error-types.md#echeck-in)
