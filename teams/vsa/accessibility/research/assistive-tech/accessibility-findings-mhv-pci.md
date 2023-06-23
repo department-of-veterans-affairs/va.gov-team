@@ -4,25 +4,26 @@
 - **Study Research Lead:** Ben Brasso (secondary moderator: Christina Gednalske)
 - **A11y Collaborators:** Angela Fowler, Sarah Koomson and Sara Smith
 - **Related Docs:** Link to research plan and communication guide - or link to project's GitHub link?
-- - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product) (general - not specific to unified check-in)
-- [User flows](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec)
-- CodePen prototype: [Pre-check-in start](https://codepen.io/team/va-cie/live/NWORQEe), [Check-in start](https://codepen.io/team/va-cie/live/qBJqWaV) (view in mobile size or mobile inspect mode)
-- [Mockups](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/0EC89917-F949-4461-A7B3-32A5201FD2A2/canvas)
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/research-plan.md)
-- [Research conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/conversation-guide.md)
+  - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product) (general - not specific to unified check-in)
+  - [User flows](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec)
+  - CodePen prototype: [Pre-check-in start](https://codepen.io/team/va-cie/live/NWORQEe), [Check-in start](https://codepen.io/team/va-cie/live/qBJqWaV) (view in mobile size or mobile inspect mode)
+  - [Mockups](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/0EC89917-F949-4461-A7B3-32A5201FD2A2/canvas)
+  - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/research-plan.md)
+  - [Research conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/conversation-guide.md)
 - **Ticket Links:** EPIC and/or CAIA research assistance request ticket
    - [Epics for unified check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
    - [CAIA A11y Research Ticket: 58566](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/58566)
+   - [[Recruitment Request]: 2023-05 Unified Check-In Experience Usability Study #321](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/321#event-9308399813)
 
 # Accessibility Tools Utilized
-`iOS-VO` `iPhones` (List types of AT covered here)
+`iOS-VO` `iPhones` `Screen Magnification`
 
 ## Coverage
-This research fufilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
+This research fufilled 57% (4/7) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
 
-**Original study request: ##**
+**Original study request:** 18 (12 completed sessions); 4 used assistive tech (33% of the study used assistive tech). See table.
 
-> xx participants should use a screenreader on a desktop or mobile device
+> 7 participants should use a screenreader on a desktop or mobile device
 
 ## Participants
 To best serve the users of VA.gov, we will need to collect the following information during each a11y research session:
@@ -30,21 +31,22 @@ To best serve the users of VA.gov, we will need to collect the following informa
 - **Operating System:** Mac or Windows
 - **Assistive Technology being used:** Jaws, NVDA, Zoomtext, Dragon, etc.
 - **Internet Browser:** Chrome, Firefox, etc.
-- **Note**:xyz
+- **Note**:**Participants who did not complete the session:**
+    - P1 (no show), P8 (canceled), and P10 (no show).
+    - [4 out of 7](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/58566) participated (57% of those recruited for AT testing, actually participated).
+    - P15 was an AT user (screen magnification) but did not use it on the call. Therefore, P15's data should be analyzed with the overall data, not this segment. 
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
 | _P2_                   | 6/12/2023        | _VoiceOver_        | _Advanced_      | _iOS_                | _Safari_    | _Mobile_      |
-| _P17_                  | 6/20/2023        | _VoiceOver_        | _Advanced_      | _iOS_                | _Safari_    | _Mobile_      |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
+| _P17_                  | 6/20/2023        | _VoiceOver_ (signed up with screen magnification)        | _Advanced_      | _iOS_                | _Safari_    | _Mobile_      |
+| _P11_                  | 6/15/2023        | _Screen Magnification_        | _Expert_      | _iOS_                | _Safari_    | _Mobile_      |
+| _P12_                  | 6/15/2023        | _VoiceOver_        | _Advanced_      | _iOS_                | _Safari_    | _Mobile_      |
 
-**Participants who successfully completed sessions: XX**
+ 
+**Participants who successfully completed sessions: 4**
 
-- [2 iOS VoiceOver users (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/transcripts)
+- [3 iOS VoiceOver users (screen reader) and 1 Screen Magnification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/transcripts)
 
 ## 📝Notes Prior to Synthesizing to Findings
 
