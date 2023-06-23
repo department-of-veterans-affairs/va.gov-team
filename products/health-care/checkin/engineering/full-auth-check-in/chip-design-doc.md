@@ -60,11 +60,10 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
 - Response:
   - Body (object): The demographics object
     - `insuranceVerificationNeeded` (boolean)
-    - `contactInformation` (object)
-      - `needsConfirmation`
-      - `address`
-      - `homePhone`
-      - etc.
+    - `needsConfirmation`
+    - `address`
+    - `homePhone`
+    - `email`
     - `emergencyContact`
       - `needsConfirmation` (boolean)
       - `address`
@@ -82,10 +81,13 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
   - `patientDFN` (string): The unique identifier of the patient.
   - `stationNo` (string): The station number.
   - `demographics` (object): The demographics object with the following fields
-    - `needsConfirmation` (boolean)
-    - `address`
-    - `homePhone`
-    - etc.
+    - `demographics` (object): The patient contact information
+      - `needsConfirmation` (boolean)
+    - `emergencyContact` (object): The emergency contact information
+      - `needsConfirmation` (boolean)
+    - `nextOfKin` (object):
+      - `needsConfirmation` (boolean)
+      
 - Response:
   - Status Code: 200 OK
     - `Body` (object): The updated demographics object
