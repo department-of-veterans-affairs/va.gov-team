@@ -66,6 +66,8 @@ Use cases and testing are documented on [this spreadsheet](https://docs.google.c
 
 [Staged rollout ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782)
 
+<details>
+  <summary>Help Text</summary>
 ### Do I need a staged rollout?
 
 **Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
@@ -98,6 +100,7 @@ Currently, [feature toggles](https://department-of-veterans-affairs.github.io/ve
 | URL redirects | No |
 
 DEPO VSP / OCTO leads can approve other exceptions to this requirement.
+</details>
 
 ### Define the Rollback process
 
