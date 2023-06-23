@@ -1,14 +1,17 @@
-## Veteran Identification Card (VIC)
+## Veteran Status
 
 
 ## Sprint 0
 
 ### Problem Statement
-There are a variety of situations in which Veterans need to prove their Veteran status in order to receive a particular benefit (having [a way to prove Veteran status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#though-they-may-not-need-their-dd214-in-all-cases-to-apply-for-va-benefits-having-a-copy-of-it-facilitates-the-benefit-application-process-and-helps-veterans-access-non-va-privileges-memberships-and-discounts) helps Veterans access non-VA privileges, memberships, and discounts). Veterans would benefit from an easy-to-access official Veteran ID card to use in these contexts. Because there is currently no simple way to attain an ID like this, a widely accepted Veteran ID within the mobile app could prove a very useful feature for Veterans and greatly increase usage of the app.
+There are a variety of situations in which Veterans need to prove their Veteran status in order to receive a particular benefit (having [a way to prove Veteran status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#though-they-may-not-need-their-dd214-in-all-cases-to-apply-for-va-benefits-having-a-copy-of-it-facilitates-the-benefit-application-process-and-helps-veterans-access-non-va-privileges-memberships-and-discounts) helps Veterans access non-VA privileges, memberships, and discounts). Veterans would benefit from an easy-to-access official veteran status proof to use in these contexts. 
 
 From VA.gov: 
 >“A Veteran ID Card (VIC) is a digital photo ID you can use to get discounts for Veterans at many stores, businesses, and restaurants. When you have this card, you won’t need to carry around your military discharge papers or share sensitive personal information to get discounts. And you don’t need to request another type of photo ID card to prove you’re a Veteran or to get retail or business discounts.”
 *Veterans must have an honorable discharge to get the ID*
+
+### Hypothesis
+Because there is currently no simple way to attain digital proof like this, a widely accepted proof of veteran status within the app could prove a useful feature for Veterans. This need is shared by every veteran, and this feature will greatly increase usage of the app.
 
 ### Current Experience
 #### In app:
@@ -55,7 +58,8 @@ Currently,the processes for acquiring a VIC card are cumbersome and long and not
 * Veterans need to remember to have VIC (or some other form of accepted Veteran ID) with them to receive benefits
 
 ### Assumptions and Level of Confidence
-TBD
+* Third parties will accept veteran status proof in app
+* Veterans will do the work to download and login into the app to get this proof
 
 
 ### Risks
@@ -216,15 +220,15 @@ Increase active user base
 * Can be verified of Veteran status
 * Knows they can create a Veteran Status Card
 * If a user has an account but cannot be verified as a Veteran, they do not see a button to create a VSC 
-* A VSC will have these pieces of data:
+* Will have these pieces of data:
 	* Veteran name
 	* Dates of service (consider simplifying into something like number of years served?)
 	* Branch of military
 	* VA logo
 	* Photo of their choosing—optional 
 * Upon review of their information, can take the appropriate steps to correct it, if needed
-* Can add it to Apple/Google wallet
-* Can print their card
+* Can add it to default operating system digital wallet
+* Can export and print their card
 * Has the ability to add info to this card, in some future date, should a veteran become eligible to access VA health services 
 
 ### Questions:
