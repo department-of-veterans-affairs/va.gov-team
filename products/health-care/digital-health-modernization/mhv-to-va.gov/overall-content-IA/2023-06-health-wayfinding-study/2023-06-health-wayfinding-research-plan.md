@@ -132,11 +132,11 @@ July 10, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 -3 pm; 3:30 - 4:30 pm; 5 - 
 July 11, 2023 | 2:30 - 3:30 pm; 4 - 5 pm; 5:30 - 6:30 pm; 7 - 8 pm
 July 13, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 4 - 5 pm; 5:30-6:30 pm; 7 - 8 pm
 July 14, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 -3 pm; 4 - 5 pm; 5:30 - 6:30 pm
-July 17, 2023 | 2 pm - 3 pm; 3:30 pm - 4:30 pm; 5 pm - 6 pm 
-July 18, 2023 | 11 am - 12 pm; 1 pm - 2 pm; 2:30 pm - 3:30 pm 
-July 19, 2023 | 11 am - 12 pm; 1 pm - 2 pm; 2:30 pm - 3:30 pm 
-July 20, 2023 | 2 pm - 3 pm; 3:30 pm - 4:30 pm; 5 pm - 6 pm 
-July 21, 2023 | 12 pm - 1 pm; 1:30 pm - 2:30 pm 
+July 17, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 pm - 3 pm; 3:30 pm - 4:30 pm; 5 pm -6 pm 
+July 18, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 pm - 3 pm; 3:30 pm - 4:30 pm; 5 pm -6 pm  
+July 19, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 pm - 3 pm; 3:30 pm - 4:30 pm; 5 pm -6 pm  
+July 20, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 pm - 3 pm; 3:30 pm - 4:30 pm; 5 pm -6 pm  
+July 21, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 pm - 3 pm; 3:30 pm - 4:30 pm; 5 pm -6 pm  
 July 24, 2023 | 11am - 12pm; 4pm - 5pm
 July 25, 2023 | 11am - 12pm; 1pm - 2pm; 3 - 4pm
 July 26, 2023 | 11am - 12pm; 1pm - 2pm
