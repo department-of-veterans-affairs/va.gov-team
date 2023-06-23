@@ -2,7 +2,7 @@
 
 `draft`
 
-**Last updated:** June 20, 2023
+**Last updated:** June 23, 2023
 
 ## Background
 After conducting research to understand challenges people have navigating to tasks while logged in ([summary report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md)), we identified a few personalized items that are hard to find on the site, and are reasonably logical to surface in the authenticated experience:
