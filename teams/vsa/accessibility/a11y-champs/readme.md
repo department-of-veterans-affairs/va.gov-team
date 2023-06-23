@@ -89,3 +89,4 @@ This was built off a curriculum designed by **Jen Strickland** and **Trevor Pier
 - Sara Smith
 - Jeana Clark
 - Martha Wilkes
+- Joseph Lee
