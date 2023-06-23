@@ -529,6 +529,38 @@ VA Form 10182 (Notice of Disagreement)
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
+### Upload your additional evidence (*Required)
+
+You can upload your document in a .pdf file format. You’ll first need to scan a copy of your document onto your computer or mobile phone. You can then upload the document from there.
+
+Guidelines for uploading a file:
+
+File types you can upload: .pdf
+Maximum file size: 100MB
+A 1MB file equals about 500 pages of text. A photo is usually about 6MB. Large files can take longer to upload with a slow Internet connection.
+
+**Upload**
+
+Finish this request later
+
+**« Back | Continue »**
+
+## Need help?
+
+If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
+
+If you have hearing loss, call TTY: [711](tel:711).
+
+---
+
+# Request a Board Appeal
+
+VA Form 10182 (Notice of Disagreement)
+
+## Step 3 of 4: Board review option
+
+Your application will be saved on every change. Your application ID number is XXXXX.
+
 ### What type of hearing would you like to request? (\*Required)
 
 * **A virtual tele-hearing online**
