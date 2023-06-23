@@ -3,7 +3,6 @@
 ## Champions
 
 ### Members, Level 1
-- **Heather Widmont**, Scrum Master VA Benefits Team 1
 - **Skyler Schain**, UX Designer on Benefits
 - **Rocio De Santiago**, Front end developer on Benefits Decision Reviews
 - **Kate Murphy**, Product Designer | Disability Benefits Experience 2, Non-disability benefits experience, Dependents experience
@@ -12,6 +11,7 @@
 ### Testers, Level 2
 - **Robert Bailey (Bobby)**, UX/UI Researcher and Designer on the Medical Records team 
 - **Jonathan Nelson**, UX designer on the MHV to VA.gov team
+- **Heather Widmont**, Scrum Master VA Benefits Team 1
 
 ### Advocates, Level 3
 
