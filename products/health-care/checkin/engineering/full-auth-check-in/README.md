@@ -18,32 +18,35 @@ sequenceDiagram
     participant vam as VA-Mobile-App
     participant va as vets-api
     participant chip as Chip
-    participant vista-api as vista-api
-    participant cw as cw
+    participant vista as vista-api/CW/veText
 
-	vet->>vam: Launch appointments screen
-	vam->>va: Requests eligibility for an appointment
-    va->>chip: checkEligibility(appointmentIENs, patientDFN, stationNo)
-    chip->>vista-api: Get /appointments
-    vista-api->>chip: return appointments
-    chip->>va: Return eligibility status
-    va->>vam: Return eligibility status
-    vam->>vet: Presents Check-in button if eligible
     vet->>vam: Click Check-in button for eligible appointment
-    vam->>va: Iniate mobile check-in
-    va->>chip: Request insurance and demographics statuses for patient
-    chip->>va: Return insurance/demographics statuses
-    va-->>chip: Request demographics payload if update needed
-    chip-->>va: Return demographics payload
-    va->>vam: Return insurance/demographics statues <br />and payload if needed
-    vam-->>vet: If insurance needs validation prompt to check-in with staff.<br /> If demographics need confirmation present those screens.<br /> If no input needed proceed with checking patient in.
-    vet-->>vam: Completes demographics confirmation if needed
-    vam->>va: If updating demographics status send timestamps.<br />Send check-in to appointment.
-    va-->>chip: Patch demographic statuses if needed
-    chip-->>va: Demographics response if sent
-    va->>chip: Send check-in for appointment 
-    chip->>va: Check-in response
-    va->>vam: Check-in and demographics response
+    vam->>va: Get demographics
+    va->>chip: Get demographics
+    chip->>vista: Fetch demographic/insurance statuses
+    chip->>vista: Fetch demogrpahic data
+    vista->>chip: Return demogrpahic/insurance statuses
+    vista->>chip: Return demogrphics data
+    chip->>va: Return combined demogaphic statuses and data
+    va->>vam: Return combined demogaphic statuses and data
+    vam-->>vet: Present demographic confirmations if needed
+    vet-->>vam: Confirm demographics
+    vam-->>va: Patch demographic status
+    va-->>chip: Patch demographic status
+    chip-->>vista: Patch demographic status
+    vista-->>chip: Demographic status patch response
+    chip-->>va: Demographic status patch response
+    va-->>vam: Demographic status patch response
+    vam->>va: Call authenticated check-in service
+    va->>chip: Call authenticated-check-in
+    chip->>vista: Fetch insurance and demographics statuses for patient
+    chip->>vista: Fetch appointment
+    chip->>chip: Evaluate demographic/insurance statuses
+    chip->>chip: Evaluate appointment
+    chip-->>vista: Check patient into appointment if passes validation
+    vista-->>chip: Return success/fail for check-in
+    chip->>va: Check-in response success/fail
+    va->>vam: Check-in response success/fail
     vam->>vet: Confirmation/Error screen
 ```
 ## Proposed sequence
