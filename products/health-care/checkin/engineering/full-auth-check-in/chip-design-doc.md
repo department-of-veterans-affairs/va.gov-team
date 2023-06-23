@@ -1,7 +1,15 @@
 # CHIP Authenticated Check-In API Design Document
 
 ## Introduction
-This document outlines the design and specifications for the Authenticated Check-In API Lambdas in CHIP. The purpose of this API is to allow users to check into appointments from an application that has a fully authenticated user. This document covers the API's endpoints, request and response formats, authentication and authorization mechanisms, and any additional considerations.
+This document outlines the design and specifications for the Authenticated Check-In API Lambdas in CHIP. The purpose of this API is to allow users to check into appointments from an application that has a fully authenticated user. This document covers the API's endpoints, request and response formats, authentication and authorization mechanisms, and business rules and requirements for Check-In.
+
+For an appointment to be eligible for patient check in through the web or any mobile application cetain criteria need to be met. These include:
+- Insurance information needs to be valid and up to date
+- Demographics, emergency contact and next of kin information has to have been reviewed by the veteran and confirmed
+- The appointment needs to be valid
+  - Does the clinic for the appointment have e-check-in enabled
+  - Is it within the 45 minute check in window(30 min before - 15 minutes after start time)
+  - Is the appointment type an in clinic appointment
 
 ## Base URL
 The base URL for accessing the API is: `/#{base_path}/actions`
@@ -36,7 +44,7 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
 - Description: Endpoint for the client application to confirm demographics, next of kin and emergency contact information.
 
 #### `GET /demographics`
-- Description: Get demographics if they need to be confirmed
+- Description: Check demographics `needsConfirmation` which is a requirement for checking in to an appointment.
 - Request Body:
   - `patientDFN` (string): The unique identifier of the patient.
   - `stationNo` (string): The station number.
