@@ -4,8 +4,7 @@
 QA was performed manually by team members to the best of our ability based on limited resources and access to/knowledge of testing tools. 
 * [Test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-onsite-notification-component.md) (Github)
 * Test cases (Github - A11y format) -- LINK TK
-* Test cases + results XLSX link TK
-(record of QA execution and findings)
+* [Test Cases_ Notification Component on My VA.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/11859684/Test.Cases_.Notification.Component.on.My.VA.xlsx)
 
 
 ## Defect report
