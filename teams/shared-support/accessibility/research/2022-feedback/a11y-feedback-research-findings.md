@@ -90,7 +90,7 @@ We submitted 4 qualitative data requests for .CSV exports of feedback from Veter
 
 ### Key insights 🧭
 - The majority of the data we parsed through was noise, with little key signals that could answer or relate to our research questions
-- Out of 4000+ lines of potential keyword matches, we were only able to extract ~10-20 lines of potentially relevant feedback, but they were either too broad, were inspecific, or lacked context to extract any confidence from
+- Out of 4000+ lines of potential keyword matches, we were only able to extract 10 lines of potentially relevant feedback, but they were either too broad, were inspecific, or lacked context to extract any confidence from
 - This could be a symptom of the inaccessibility or discoverability of the feedback button and feedback survey for disabled Veterans, and may be a topic for future research
 
 ## [Page Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/reports/accessibility-footer-analytics.md)
