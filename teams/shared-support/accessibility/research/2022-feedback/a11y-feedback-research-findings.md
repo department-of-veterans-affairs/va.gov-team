@@ -260,7 +260,7 @@ Future research and work should explore:
 ### Tim Hornik (Blinded Veterans Association Chief of Staff)
 **Some disabled Veterans are providing feedback, but Tim hypothesizes many more may be sitting with inaccessible products.** Tim shared an anecdote of a social care worker who sent an email to the Section 508 office about the cerner patient portal. Without that social care worker’s relationship with the disabled Veteran and their intervention, the issue may have never been highlighted.
 
-**VEO historically has not considered the disabled Veteran experience**, but is critical to collecting feedback. As an advocate, Tim requested VEO to have mechanisms and pathways for feedback both virtually and physically at VA centers in the past. This doesn’t appear to have been implemented.
+**VEO historically has not considered the disabled Veteran experience**, despite being critical to collecting feedback. As an advocate, Tim requested VEO to have mechanisms and pathways for feedback both virtually and physically at VA centers in the past. This doesn’t appear to have been implemented.
 411 may be too overwhelmed to help. Tim noted that 411 call center employees may not have the time, training, and space to record accessibility feedback and forward it to the appropriate places to be fixed.
 
 **The Section 508 page needs an update and more research.** The page has existed for 15 years and includes content on both internal department information and Veteran facing services. It’s linked to from the footer on all VA.gov pages as “Accessibility” which may be misleading. Tim is worried that it won’t be discoverable as a footer item. He knows that people use it (including VA staffers) because we direct them to go there from this external site. 
