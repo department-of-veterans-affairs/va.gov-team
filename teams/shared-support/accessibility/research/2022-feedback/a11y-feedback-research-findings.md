@@ -55,6 +55,7 @@ The following teams working on feedback mechanisms may be particularly intereste
 - Based on feedback from the Section 508 office and Tim Hornik from BVA, the VA.gov team launched a new Veteran-centered accessibility page to replace the Section 508 feedback page in the footer.
 - The launch did not include research with disabled Veterans beyond the Section 508 office team and Tim Hornik.
 - For a lengthier content page like this, it may be valuable to conduct iterative [content usability testing like a highlighter test (or equivalent)](https://dscout.com/people-nerds/content-testing) to better understand what is helpful or confusing to disabled Veterans.
+- Research on this page should include triangulated perspectives between disabled Veterans, their caregivers, VSOs (like BVA), and the Section 508 office in order to write clear content that bridges across various mental models.
 
 #### Ask VA team
 - The new Ask VA team should look to collaborate with disabled Veterans groups as early and often as possible.
