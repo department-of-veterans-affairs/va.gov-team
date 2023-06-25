@@ -40,7 +40,7 @@ There isn't enough available research now on how disabled Veterans using assisti
 
 An immediate opportunity may exist to collaborate with VEO to conduct more open ended qualitative research and output artifacts that more clearly identify disabled Veteran's top  accessibility issues and concerns. Ideally these could better inform future priorities and actions taken by our accessibility practice and the Section 508 office. 
 
-### Immediately prioritize open, unresolved accessibility issues.
+### Prioritize the resolution of open, unresolved accessibility issues.
 - The contact center team has been fantastic, and is already working to address identified issues from this study.
 - We created the modernized VA.gov accessibility statement to address accessibility issues on the Section 508 page where the Section 508 email was originally housed.
 - For teams with blockers related to underlying technology, we recommend submitting bug tickets directly to those vendors (e.g. Microsoft, Medallia).
