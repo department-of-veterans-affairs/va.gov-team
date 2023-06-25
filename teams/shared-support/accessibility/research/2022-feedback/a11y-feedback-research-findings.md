@@ -7,11 +7,60 @@ Our goal is to establish a process to collect a11y feedback from the public. In 
 
 ## Key insights
 
-### 1.
+### Inaccessibility of online digital feedback mechanisms may be preventing some disabled Veterans from using them  
+- 100% (5/5) of the digital methods of providing feedback to VA.gov that we audited had major accessibility issues <sup>[[1]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#key-insights--2)</sup>
+- Notably, both of the screen magnification users Cindy Merrill ran usability testing with were unable to find the feedback button at the bottom right corner of the page. <sup>[[2]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#key-insights--3)</sup>
+- Out of 4000+ responses from Medallia feedback surveys procured through over 50+ keywords , only 10 responses pertained to accessibility. However, they were too broad and inspecific to take action on.<sup>[[3]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#key-insights-)</sup>
 
-### 2. 
+### Many disabled Veterans using assistive technologies prefer analog or service based methods to get support or provide feedback
+- Some would default to either calling the VA, going to a physical location, or finding support through the Blinded Veterans Association.<sup>[[4]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#key-insights--3)</sup>
+- Others noted they prefered analog methods, and felt excluded by tech-centered approaches. <sup>[[5]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#section-508-office)</sup>
+- Feedback may also be directed through caregivers and social care workers on behalf of disabled Veterans. <sup>[[6]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#tim-hornik-blinded-veterans-association-chief-of-staff)</sup>
 
-### 3. 
+### A mental model mismatch exists between how Veterans _think_ submitting accessibility feedback will work vs. how it is actually processed by the Section 508 office, which may discourage feedback in the long term.
+
+> "That's another thing. When you call the VA on a11y issues. Nobody picks up the phone. What is it, section 508? You go to call them, leave a message, nobody gets back to you. Sorry I'm throwing them under the bus. I've made certain recommendations on certain things... you can talk to anyone at the BVA... there's... we know there's been issues for years with this website. Even USA jobs... to try and get a JOB at the VA... it is not accessible for the blind user." - Disabled Veteran
+
+In the above quote, the participant did not hear anything back from the VA Section 508 office about their feedback for a Veterans Affairs job posting on USA Jobs. They may not have known that the Veterans Affairs Section 508 office is only able to audit and inform other agencies of reported issues. 
+
+A pain point here is that when they forward tickets to other agencies (like USA jobs), there’s no guarantee that team will provide a response back confirming a fix. <sup>[[7]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#section-508-office)</sup>
+
+> "Even if they do, it’s often too late for the Veteran who may have to sit on an unresolved issue for 6+ weeks." - Section 508 office employee
+
+In our monthly call with the Section 508 office, they acknowledged this, and noted 
+> "Biggest complaint from peers is when they do complain they don’t ever hear anything. So someone needs to respond with details so they know they’re heard. Veterans feel like they complained but I never heard anything. So why should I mess with it."
+
+## Actionable recommendations
+
+### Conduct more generative qualitative research on the disabled Veteran experience
+There isn't enough available research now on how disabled Veterans using assistive technologies are (or are not) getting access to their benefits using VA.gov.
+- Tim hypothesizes that many more Veterans may be sitting with inaccessible products without providing the feedback needed to improve them. <sup>[[8]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#tim-hornik-blinded-veterans-association-chief-of-staff)</sup>
+- VEO (Veterans Experience Office) may not have considered disabled Veterans who use assistive technologies in their research and generated artifacts. In our conversation with a VEO employee, we learned that although survey templates are being developed and tested for 508 compliance-- they are uncertain if any projects have specifically addressed accessibility or disabled Veterans yet. <sup>[[9]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#djilan-yao-veo)</sup>
+
+An opportunity may exist to collaborate with VEO to conduct more generative qualitative research and output artifacts to better inform future priorities and actions taken by our accessibility practice and the Section 508 office. 
+
+### Teams working on feedback mechanisms should prioritize including disabled Veterans using assistive technologies in their research.
+
+Given recent improvements through research ops, the inclusive research practice, and Perigean-- we are better equipped than ever to included disabled Veterans using assistive technologies into our studies. 
+
+The following teams working on feedback mechanisms may be particularly interested in prioritizing this research to take an accessibility-first approach to their design work and reduce accessibility issues downstream experienced by the Veteran.
+
+#### Contact center team
+- The contact center team has not yet been able to include disabled Veterans using assistive technology in their research. <sup>[[10]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#contact-center-panel-interview)</sup>
+- This was due to Perigean wanting more specific guidance on what "assistive technology" meant. <sup>[[11]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#mike-manalo-contact-center-researcher-interview)</sup>
+- Since then, the research ops team has made substantial improvements to how we recruit assistive tech users. The contact center team will now have access to support from the CAIA (content, accessibility, IA) team too.
+- Research may unveil alternative methods for improving Medallia feedback for disabled Veterans. <sup>[[12]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#tim-hornik-blinded-veterans-association-chief-of-staff)</sup>
+
+#### Sitewide content team and accessibility practice
+- Based on feedback from the Section 508 office and Tim Hornik from BVA, the VA.gov team launched a new Veteran-centered accessibility page to replace the Section 508 feedback page in the footer.
+- The launch did not include research with disabled Veterans beyond the Section 508 office team and Tim Hornik.
+- For a lengthier content page like this, it may be valuable to conduct iterative [content usability testing like a highlighter test (or equivalent)](https://dscout.com/people-nerds/content-testing) to better understand what is helpful or confusing to disabled Veterans.
+
+#### Ask VA team
+- The new Ask VA team should look to collaborate with disabled Veterans groups as early and often as possible.
+- For example, connecting with Tim Hornik (Blinded Veterans Association's Chief of Staff) or Chris Walker from the 508 office could be a valuable starting point.
+- We recommend exploring groups beyond those limited to vision based disabilities as well. For example, consulting VSO groups and medical staff with experience asking questions related to MST (military sexual trauma) and PTSD (post traumatic stress disorder).
+
    
 ## OCTO Objectives
 
@@ -89,9 +138,9 @@ We submitted 4 qualitative data requests for .CSV exports of feedback from Veter
 - Source: Medallia surveys
 
 ### Key insights 🧭
-- The majority of the data we parsed through was noise, with little key signals that could answer or relate to our research questions.
-- Out of 4000+ responses of potential keyword matches, we were only able to extract 10 responses of potentially relevant feedback. However, they were either too broad (e.g. the VA is not meeting my general needs), were inspecific (e.g. no particular issue or accessibility defect was identified), or lacked context (e.g. no additional details were provided on how or when the issue occured) to extract any confidence or actionable items from.
-- This could be a symptom of the inaccessibility or discoverability of the feedback button and feedback survey for disabled Veterans, and may be a topic for future research.
+- The majority of the data we parsed through was noise, with little key signals that could answer or relate to our research questions
+- Out of 4000+ lines of potential keyword matches, we were only able to extract ~10-20 lines of potentially relevant feedback, but they were either too broad, were inspecific, or lacked context to extract any confidence from
+- This could be a symptom of the inaccessibility or discoverability of the feedback button and feedback survey for disabled Veterans, and may be a topic for future research
 
 ## [Page Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/reports/accessibility-footer-analytics.md)
 
