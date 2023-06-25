@@ -133,7 +133,7 @@ As an extension of secondary research, we plan on also conducting an accessibili
 - My VA 411 (800-698-2411) 
   - Anecdotally accessible. Phone number with TTY. Unsure if wait times, customer support, and more create invisible barriers to callers with disabilities.
 - IVR Survey 
-  - Anecdotally accessible, but similar to My VA 411, needs additional research. Users can use button presses on their phone to submit responses. Those responses are then captured and input into VSignals Medallia dashboard(?).
+  - Anecdotally accessible, but similar to My VA 411, needs additional research. Users can use button presses on their phone to submit responses. Those responses are then captured and input into VSignals Medallia dashboard.
 - Facility QR Codes 
   - Some facilities will have QR codes Veterans can scan and provide feedback to. Veterans can submit through these as many times as they like.
 - Email 
