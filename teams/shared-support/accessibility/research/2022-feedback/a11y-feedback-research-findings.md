@@ -32,10 +32,11 @@ In our monthly call with the Section 508 office, they acknowledged this, and not
 
 ## Actionable recommendations
 
-### Conduct more generative qualitative research on the disabled Veteran experience.
+### Conduct more open-ended qualitative research with disabled Veterans who use assistive technologies.
 There isn't enough available research now on how disabled Veterans using assistive technologies are (or are not) getting access to their benefits using VA.gov.
 - Tim hypothesizes that many more Veterans may be sitting with inaccessible products without providing the feedback needed to improve them. <sup>[[8]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#tim-hornik-blinded-veterans-association-chief-of-staff)</sup>
 - VEO (Veterans Experience Office) may not have considered disabled Veterans who use assistive technologies in their research and generated artifacts. In our conversation with a VEO employee, we learned that although survey templates are being developed and tested for 508 compliance-- they are uncertain if any projects have specifically addressed accessibility or disabled Veterans yet. <sup>[[9]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#djilan-yao-veo)</sup>
+- VA.gov mostly conducts closed usability testing, which can point out local issues, but often can't address larger systemic issues beyond the lens of any particular product.
 
 An opportunity may exist to collaborate with VEO to conduct more generative qualitative research and output artifacts to better inform future priorities and actions taken by our accessibility practice and the Section 508 office. 
 
