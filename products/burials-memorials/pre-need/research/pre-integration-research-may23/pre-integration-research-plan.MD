@@ -20,7 +20,7 @@ The Pre-Need application applies to life stages from **Serving** onward to **Dyi
 
 ## Research Goals / Questions	
 The goals of this user research are to: 
-  * Learn how users experience applying for pre-need to identify improvements that can be made to address usability pain points, address user feedback/concerns, improve the rate of mobile applications, and improve its fairly low submission rate
+  * Learn how users experience applying for pre-need to identify improvements that can be made to address usability pain points, address user feedback/concerns, improve the rate of mobile applications, and improve submission rates
     * What's working well for users and what are the pain points they're experiencing when applying for pre-need eligibility determination?
     * Why are most users applying through desktop devices, and how can we improve rates for mobile applications and successful submissions overall?
     * Since the majority of users are in the upper age brackets (35+ years old), what enhancements can we make to improve the application process for them?
