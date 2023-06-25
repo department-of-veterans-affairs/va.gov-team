@@ -38,7 +38,7 @@ There isn't enough available research now on how disabled Veterans using assisti
 - VEO (Veterans Experience Office) may not have considered disabled Veterans who use assistive technologies in their research and generated artifacts. In our conversation with a VEO employee, we learned that although survey templates are being developed and tested for 508 compliance-- they are uncertain if any projects have specifically addressed accessibility or disabled Veterans yet. <sup>[[9]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#djilan-yao-veo)</sup>
 - VA.gov mostly conducts closed usability testing, which can point out local issues, but often can't address larger systemic issues beyond the lens of any particular product.
 
-An opportunity may exist to collaborate with VEO to conduct more generative qualitative research and output artifacts to better inform future priorities and actions taken by our accessibility practice and the Section 508 office. 
+An immediate opportunity may exist to collaborate with VEO to conduct more open ended qualitative research and output artifacts that more clearly identify disabled Veteran's top  accessibility issues and concerns. Ideally these could better inform future priorities and actions taken by our accessibility practice and the Section 508 office. 
 
 ### Teams working on feedback mechanisms should prioritize including disabled Veterans using assistive technologies in their research.
 
