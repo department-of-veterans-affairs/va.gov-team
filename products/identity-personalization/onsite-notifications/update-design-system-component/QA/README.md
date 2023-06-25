@@ -1,7 +1,7 @@
 # Onsite Notifications - Notification Component on My VA: QA Artifacts 
 
 ## Test Scenarios
-QA was performed manually by team members to the best of our ability based on limited resources and access to/knowledge of testing tools. 
+QA was performed manually by team members. 
 * [Test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-onsite-notification-component.md) (Github)
 * Test cases (Github - A11y format) -- LINK TK
 * [Test Cases_ Notification Component on My VA.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/11859684/Test.Cases_.Notification.Component.on.My.VA.xlsx)
