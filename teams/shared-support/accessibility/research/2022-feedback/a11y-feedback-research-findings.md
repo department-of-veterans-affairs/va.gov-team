@@ -181,7 +181,7 @@ https://user-images.githubusercontent.com/14154792/233375218-e8291f1e-aabc-4b71-
 ## Key informant interviews
 We conducted several key informant interviews with folks who may have expert knowledge or lived experience with this topic. This was not meant to act as a substitute for actual research with disabled Veterans but as a starting point for finding signals of interest to dig deeper into.
 
-### Contact Center Panel Interview ✔️
+### Contact Center Panel Interview 
 
 **Ask.va.gov** receives a11y tickets from folks communicating on behalf of someone else. It’s likely inaccessible as it doesn’t follow the VA design system and Aubrey’s team’s recommendations were unresolved due to platform limitations with the dynamic 365 portal. It was likely not tested for Section 508 compliance.
 
@@ -221,7 +221,7 @@ Many issues found within salesforce at a glance appear to be home related access
 
 **Unsure if there are any particular groups using or not using 411.** Salesforce may help answer that. The vast majority of issues are related to authentication. The contact center team is creating a service map of how tier 1 issues are escalated to tier 2, how long those issues sit, and how they are resolved.
 
-### Section 508 Office ✔
+### Section 508 Office 
 **VA.gov team to draft modernized accessibility statement.** Team acknowledged that the Section 508 page was 15 years old and that a modernized accessibility statement in Veteran-facing plain language would be a welcome improvement in hopes of gathering more feedback through the Section 508 email address. 
 - “Shouldn’t be a commercial for OCTO”
 - Should provide clear expectations and transparency on how feedback is handled and responded to (if ever)
@@ -257,7 +257,7 @@ Future research and work should explore:
 - Mismatches between the Veteran's mental model and the Section 508 office. For example, in the above case, the participant did not hear back about feedback related to an issue related to USA Jobs. From our conversation with the Section 508 office, we know that they can audit and inform other agencies of issues, but they aren't equipped to implement those fixes. 
 - What might the now, next, later look like to mediate this gulf in expectations, provide plain language transparency, or explore service level solutions?
 
-### Tim Hornik (BVA)
+### Tim Hornik (Blinded Veterans Association Chief of Staff)
 **Some disabled Veterans are providing feedback, but Tim hypothesizes many more may be sitting with inaccessible products.** Tim shared an anecdote of a social care worker who sent an email to the Section 508 office about the cerner patient portal. Without that social care worker’s relationship with the disabled Veteran and their intervention, the issue may have never been highlighted.
 
 **VEO historically has not considered the disabled Veteran experience**, but is critical to collecting feedback. As an advocate, Tim requested VEO to have mechanisms and pathways for feedback both virtually and physically at VA centers in the past. This doesn’t appear to have been implemented.
