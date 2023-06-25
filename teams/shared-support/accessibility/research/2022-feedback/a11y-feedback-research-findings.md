@@ -17,7 +17,7 @@ Our goal is to establish a process to collect a11y feedback from the public. In 
 - Others noted they prefered analog methods, and felt excluded by tech-centered approaches. <sup>[[5]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#section-508-office)</sup>
 - Feedback may also be directed through caregivers and social care workers on behalf of disabled Veterans. <sup>[[6]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#tim-hornik-blinded-veterans-association-chief-of-staff)</sup>
 
-### A mental model mismatch exists between how Veterans _think_ submitting accessibility feedback will work vs. how it is actually processed by the Section 508 office, which may discourage feedback in the long term.
+### A mental model mismatch exists between how Veterans _think_ submitting accessibility feedback will work vs. how it is actually processed by the Section 508 office, which may discourage feedback from them in the long term
 
 > "That's another thing. When you call the VA on a11y issues. Nobody picks up the phone. What is it, section 508? You go to call them, leave a message, nobody gets back to you. Sorry I'm throwing them under the bus. I've made certain recommendations on certain things... you can talk to anyone at the BVA... there's... we know there's been issues for years with this website. Even USA jobs... to try and get a JOB at the VA... it is not accessible for the blind user." - Disabled Veteran
 
