@@ -214,7 +214,7 @@ Many issues found within salesforce at a glance appear to be home related access
 - [ ] Josh KIM to reach out to Laura to connect with Marlee (who trains call center agents) to ask about a11y, training docs, and if call center agents know how to reply to a11y requests.
 - [ ] Waiting for response from Laura to set up a call with Marlee
 
-### Mike Manalo Interview
+### Mike Manalo (Contact Center Researcher) Interview
 **No interviews were conducted with disabled Veterans using assistive technology.** This was due to Perigean wanting more specific guidance on what “assistive technology” meant. In this case, they got older Veterans using iPads (as opposed to technologies explicitly used for a disability like a screen reader or keyboard). 
 
 **The more complex the issue, the more likely Veterans will call.** There were forming patterns of older Veterans being associated with doctor appointments and facilities which could generally be resolved via tier 1 support, but any issue requiring more complex topics like verifying a GI Bill payment often went to tier 2 support. There’s an open question of what is effective communication: SMS? Phone? Etc?
