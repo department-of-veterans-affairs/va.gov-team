@@ -5,6 +5,14 @@ Our goal is to establish a process to collect a11y feedback from the public. In 
 - determine whether disabled Veterans are providing feedback through existing feedback mechanisms (and if not, why not?), and
 - start to gain preliminary insight or determine next steps on how to gain insights into disabled Veteran's behaviors, feelings, perspectives, and expectations on providing a11y feedback
 
+## Key insights
+
+### 1.
+
+### 2. 
+
+### 3. 
+   
 ## OCTO Objectives
 
 ### This research will directly support all of the OCTO north stars:
@@ -55,12 +63,7 @@ As we can only append to existing studies or rely on secondary research and key 
 - As a starting point, we may be interested in determining through secondary research (e.g., SME interview with Tim Hornik from the Blinded Veterans Association) if there are any particular subgroups (if at all) that are more likely to provide or need a response from accessibility feedback.
 - We’ll want to pay close attention to patterns and differences between different types of disabilities while also acknowledging that no one disabled person is alike. 
 
-## Key insights (WIP, post member checking)
-1. x
-2. y
-3. z
-
-## Full, unorganized research findings
+## Full research findings
 
 ### Contact Center Surveys
 We submitted 4 qualitative data requests for .CSV exports of feedback from Veterans through the intercept survey and feedback button.
