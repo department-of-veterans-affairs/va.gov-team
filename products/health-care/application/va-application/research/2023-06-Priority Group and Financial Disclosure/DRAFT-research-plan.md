@@ -1,11 +1,15 @@
 # DRAFT Research Plan for health care application generative research study around Priority Groups and Financial Disclosure [Health Enrollment Team, 10-10EZ, June 2023]
 
 ## Background
-The online health care application (10-10EZ) and update form (10-10EZR which is only paper form today) both can impact a Veteran's eligibilty and placement in a Priority Group. This is more so impactful for those who need to have income information considered for copays, travel reimbrusment in addition to Priority Group placement. An understanding of what benefits a Veteran could qualify for and what that cost / benefit is to the Veteran impacts the experience of the online health care application.
+The online health care application (10-10EZ) and the update form (10-10EZR which is only paper form today) both can impact a Veteran's eligibilty and placement when applying for and managing their health care benefits. This is more so impactful for those placed in a Priority Group who need to have income information considered for copays and travel reimbrusment in addition to eligibility. The 10-10EZ is the initial application that then places a Veteran in a Priority Group for enrollment into the full medical benefits package. The 10-10EZR is used to proivde personal, financial or insurance information updates after enrollment. 
+
+The outcome of this generative research study will help in understanding the Veteran's mental model around health care benefits - as it pertains to getting, understanding and maintaining those benefits - to gain a broad, holistic view and iterate on various hypotheses as the team works towards designing an MVP. 
 
 
 - [Link to product initiative brief for Priority Groups](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Priority%20Group)
 - [Link to product initiative brief for Financial Disclosure](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities)
+- Link to Discovery Mural board
+
 
 
 ### OCTO Priorities 
@@ -23,6 +27,9 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 
 
 ## Research Goals	
+
+
+
 
 Learn more about Veteran's mental model when applying for health care benefits including the terms they use and how they see levels of benefits/Priority Groups/copays impacting them during the health care application process, during and ongoing after.
 
