@@ -25,14 +25,29 @@ User should easily and intuitively be able to ask a question through Ask VA on V
 
 Form Design, and Content, Mobile-Friendly Experience, 508 Compliance
 
-As a veteran
---[] I can submit my questions quickly
---[] It's easy for me to find Ask VA.
---[] It's easy to quickly ask a question from my phone
---[] The new form is accessible
+- As a veteran
+>I can ask my questions quickly through my phone or computer.\
+>It's easy for me to find Ask VA on VA.gov.\
+>It's accessible for me.
+
+Integrate with VANotify and myVA
+>Waiting for spike
+
+Secure Messaging (SM) on VA.gov
+>Waiting for spike
 
 ## Undesired User Outcomes
 
+- As a veteran
+>I stop asking questions because AVA is difficult to use on my phone or computer\
+>I cannot find Ask VA on VA.gov.\
+>It's not accessible for me.
+
+Integrate with VANotify and myVA
+>Waiting for spike
+
+Secure Messaging (SM) on VA.gov
+>Waiting for spike
 
 ## Desired Business Outcomes
 
