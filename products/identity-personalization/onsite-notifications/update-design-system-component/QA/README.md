@@ -8,7 +8,7 @@ QA was performed manually by team members.
 
 
 ## Defect report
-- Noted in the findings table below and in the attached spreadsheet above. -- _no findings_
+- Noted in the findings table below and in the attached spreadsheet above. -- _no major findings_
 - Additional findings reported outside of QA
     - [#60661](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60661)
     - [#60845](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60845) 
