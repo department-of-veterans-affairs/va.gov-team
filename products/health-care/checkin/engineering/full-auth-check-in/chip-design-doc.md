@@ -30,34 +30,38 @@ The base URL for accessing the API is: `[base-path]/actions`
   - `stationNo` (string): The station number.
 - Responses:
   - Status Code: 200 OK
-    - Body (object): The Response Object which contains the following fields
-      - `code` (string): check-in-success
-      - `message` (string): Check-In successful
+  - Body (object): The Response Object which contains the following fields
+    - `code` (string): check-in-success
+    - `message` (string): Check-In successful
+
   - Status Code: 400
-    - Body: (object): The demographics information needs to be confirmed
-      - `code` (string): invalid-demographics
-      - `message` (string): A list of demographics that need to be confirmed. ie. Patient Information, Emergency Contact, Next-of-Kin
+  - Body: (object): The demographics information needs to be confirmed
+    - `code` (string): invalid-demographics
+    - `message` (string): A list of demographics that need to be confirmed. ie. Patient Information, Emergency Contact, Next-of-Kin
+
   - Status Code: 400 
-    - Body (object): The Insurance information is missing/needs to be updated Response Object which contains the following fields
-      - `code` (string): invalid-insurance
-      - `message` (string): Insurance needs to be validated
+  - Body (object): The Insurance information is missing/needs to be updated Response Object which contains the following fields
+    - `code` (string): invalid-insurance
+    - `message` (string): Insurance needs to be validated
+
   - Status Code: 400
-    - Body (object): Invalid appointment object with the following fields
-      - `code` (string): invalid-appointment
-      - `message` (string): Details specific reasons the appointment is invalid (too-early, too-late, e-check-in-not-enabled, invalid-status, invalid-type)
+  - Body (object): Invalid appointment object with the following fields
+    - `code` (string): invalid-appointment
+    - `message` (string): Details specific reasons the appointment is invalid (too-early, too-late, e-check-in-not-enabled, invalid-status, invalid-type)
 
 ### Demographics
 
 #### `GET /demographics`
-- Description: This endpoint is for retrieving demographics information which includes a field indicating if insurance verification is needed and patient contact information, emergency contact information and next-of-kin contact information.
+- Description: This endpoint is for retrieving demographics information which includes a field indicating if insurance verification is needed, patient contact information, emergency contact information and next-of-kin contact information.
   - Requirements for patient check-in:
-    - all three contact, emergency and next-of-kin `needsConfirmation` fields need to be `false`
+    - all three `needsConfirmation` fields need to be `false`
     - `insuranceVerificationNeeded` needs to be `false`
 
 - Request Body:
   - `patientDFN` (string): The unique identifier of the patient.
   - `stationNo` (string): The station number.
 - Response:
+  - Status Code: 200 OK
   - Body (object): The demographics object
     - `insuranceVerificationNeeded` (boolean)
     - `needsConfirmation`
@@ -114,7 +118,47 @@ The base URL for accessing the API is: `[base-path]/actions`
       - `needsConfirmation` (boolean)
 - Response:
   - Status Code: 200 OK
-    - `Body` (object): The updated demographics object
+  - Body (object): The updated demographics object
+    - `insuranceVerificationNeeded` (boolean)
+    - `needsConfirmation`
+    - `mailingAddress`
+    - `residentialAddress`
+    - `homePhone`
+    - `officePhone`
+    - `cellPhone`
+    - `email`
+    - `emergencyContact`
+      - `needsConfirmation` (boolean)
+      - `name` (string): "VETERAN,BROTHER"
+      - `relationship` (string)
+      - `phone` (string)
+      - `workPhone` (string)
+      - `address` (object)
+        - `street1` (string)
+        - `street2` (string)
+        - `street3` (string)
+        - `city` (string)
+        - `county` (string)
+        - `state` (string)
+        - `zip` (string)
+        - `zip4` (string)
+        - `country` (string)
+    - `nextOfKin`
+      - `needsConfirmation` (boolean)
+      - `name` (string): "VETERAN,BROTHER"
+      - `relationship` (string)
+      - `phone` (string)
+      - `workPhone` (string)
+      - `address` (object)
+        - `street1` (string)
+        - `street2` (string)
+        - `street3` (string)
+        - `city` (string)
+        - `county` (string)
+        - `state` (string)
+        - `zip` (string)
+        - `zip4` (string)
+        - `country` (string)
     
 ### Error Handling
 The API follows standard HTTP status codes for indicating the success or failure of a request. Additionally, specific error responses are returned with relevant error messages in the response body.
