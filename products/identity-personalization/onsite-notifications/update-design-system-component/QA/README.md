@@ -3,7 +3,7 @@
 ## Test Scenarios
 QA was performed manually by team members. 
 * [Test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-onsite-notification-component.md) (Github)
-* Test cases (Github - A11y format) -- LINK TK
+* [Test cases (Github - A11y format)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-onsite-notification-component-a11y-format.md)
 * [Test Cases_ Notification Component on My VA.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/11859684/Test.Cases_.Notification.Component.on.My.VA.xlsx)
 
 
