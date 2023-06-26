@@ -7,9 +7,9 @@ Appointments content is in the pages that follow and the [platform scheduling co
 
 | Feature | Description | 
 |---|---|
-| [Upcoming appointments](./homepage.md#upcoming) | View all future and in progress appointments |
-| [Past appointments](./homepage.md#past) | View all appointments from the last two years |  
-| [Pending appointments](./homepage.md#pending) | View all pending and canceled requests | 
+| [Upcoming appointments](./homepage.md#appointments) | View all future and in progress appointments |
+| [Past appointments](./homepage.md#past-appointments) | View all appointments from the last two years |  
+| [Pending appointments](./homepage.md#pending-appointments) | View all pending and canceled requests | 
 
 ## Appointment details 
 
