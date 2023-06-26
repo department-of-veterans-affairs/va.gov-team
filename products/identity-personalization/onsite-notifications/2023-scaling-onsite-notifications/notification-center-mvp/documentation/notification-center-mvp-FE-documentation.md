@@ -1,5 +1,5 @@
 # Notification Center MVP Frontend Documentation
-Last updated: June 23, 2023
+Last updated: June 26, 2023
 
 ## UX Specs
 ### Sketch mockups
@@ -8,6 +8,7 @@ Last updated: June 23, 2023
 - [Mobile](https://www.sketch.com/s/1cc4cb25-7de4-492c-bb91-edef871b2a89/a/uuid/003BB5C5-955E-4D5E-90C5-A1A12145ADE0)
 
 ### Functional specs
+
 - The notification center MVP is a list of all notifications a user has ever received **on VA.gov**. It does not encompass all emails and/or push notifications.
   - A notification must be triggered through VA Notify and integrated with the "Notifications" feature on My VA in order to appear in this list
 - Notifications should be listed in chronological order by date received, with the newest (most recently received) notification at the top of the list
@@ -29,6 +30,10 @@ Last updated: June 23, 2023
 - List 10 notifications on each page by default. Use pagination for any more than 10 notifications.
 - If there are less than 10 notifications to show, then the pagination component does not show at all. [Slack thread with Platform for additional context](https://dsva.slack.com/archives/C01DBGX4P45/p1687533356451349)
 
+### Accessibility specs
+- The headline of each notification will need to include an aria label that associates it with the date so that a screen reader user doesn't hear the same headline repeated if they are navigating by headings.
+  - [Sketch file with aria label annotations](https://www.sketch.com/s/1cc4cb25-7de4-492c-bb91-edef871b2a89/a/EeGalyx)
+- If we add notifications in the future that deep link to the item they correspond to and therefore there are links on the page with the same text that go to different places, those will also require an aria label.   
 ---
 
 ### If a user does not have any notifications to show
