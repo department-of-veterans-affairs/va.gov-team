@@ -62,7 +62,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
   - Veterans will not have the equipment necessary to print or save (download) their application, and not understand why the function is not working
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Data availability and reliability risks
-  - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
+- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - VA stakeholder testing
   - Beyond Accessibility requirements
 
