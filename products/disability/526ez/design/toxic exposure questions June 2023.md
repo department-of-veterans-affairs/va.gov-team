@@ -174,6 +174,15 @@ Please tell us when this happened. If you’re having trouble remembering the ex
 
 
 
+## Summary of disabilities
+
+Below is the list of disabilities you’re claiming in this application. If a disability is missing from the list, please go back and add it.
+
+- [Condition 1 name]
+- [Condition 2 name]
+
+
+
 ## Supporting evidence
 
 On the next few screens, we’ll ask you about supporting documents like medical records related to your disabilities or conditions.
