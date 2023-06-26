@@ -74,11 +74,13 @@ TBD
 
 ## Key deliverables
 
+- Technical discovery
 - Update the claim status section of My VA to connect to Lighthouse instead of EVSS
 
 ### Key Dates
 
 - March 2023: Project kick-off
+- June 2023: Development started
    
 ## Screenshots
 _Not applicable as no visual to My VA will occur when the work is complete_
