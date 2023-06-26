@@ -1,6 +1,6 @@
 # Project outline: My VA Claim status EVSS > Lighthouse migration
 
-**Last updated March 2, 2023**
+**Last updated June 26, 2023**
 
 ### Communications
 
