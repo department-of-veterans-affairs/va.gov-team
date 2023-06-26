@@ -150,7 +150,7 @@ Do you see the link?
 What are your impressions of what you're looking at? *(RECORD)*
 
 - *Any comments about the 2 phone numbers? If so, ask which they would use and why*
-- *Any comments about the limited services and hours alert?*
+- *Any comments about the limited services and hours expandable alert?*
 - *Any comments about the 3 action links near top of page? What do they expect from them?*
   - *(If "Ask a benefit question")* Ask what happens after they click on it.
 
