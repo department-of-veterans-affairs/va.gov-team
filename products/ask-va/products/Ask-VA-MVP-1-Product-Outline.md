@@ -23,8 +23,13 @@ User should easily and intuitively be able to ask a question through Ask VA on V
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+Form Design, and Content, Mobile-Friendly Experience, 508 Compliance
+
+As a veteran
+--[] I can submit my questions quickly
+--[] It's easy for me to find Ask VA.
+--[] It's easy to quickly ask a question from my phone
+--[] The new form is accessible
 
 ## Undesired User Outcomes
 
