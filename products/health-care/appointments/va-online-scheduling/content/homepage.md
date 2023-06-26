@@ -30,7 +30,9 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments`
 
 `[List - Upcoming]`
 
-`[Footer - Need Help]`
+**PAGE FOOTER**
+
+[Appointments footer](./shared-content.md#appointments-footer) (Shared content)
 
 ### Upcoming state - empty
 
@@ -76,7 +78,9 @@ These appointment requests have been canceled.
 
 `[List - canceled requests]`
 
-`[Footer - Need Help]`
+**PAGE FOOTER**
+
+[Appointments footer](./shared-content.md#appointments-footer) (Shared content)
 
 ### Request state - empty
 
@@ -132,7 +136,9 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > Past`
 
 `[List - Past appointments]`
 
-`[Footer - Need help]`
+**PAGE FOOTER**
+
+[Appointments footer](./shared-content.md#appointments-footer) (Shared content)
 
 ### Past state - empty
 
