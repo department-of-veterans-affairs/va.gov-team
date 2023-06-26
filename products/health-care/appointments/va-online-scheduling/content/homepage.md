@@ -1,8 +1,6 @@
 # Homepage Copy Doc
 
----
-
-## Appointments
+## Upcoming appointments
 
 **NAVIGATION**
 
@@ -36,11 +34,23 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments`
 
 ### Upcoming state - empty
 
+```
 You don't have any upcoming appointments
 
 You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
 
-(Link) `Schedule an appointment`
+{Link} `Schedule an appointment`
+```
+
+### Upcoming alert - Generic message if any of the systems are unavailable (VSP, VVS and HSRM) 
+
+```
+(H1) We can't display all your appointments.
+
+(H2) We're working to resolve this issue.  To manage an appointment that is not shown in this list, contact the facility at which it was scheduled.
+
+{link} Facility locator 
+```
 
 ---
 
@@ -89,6 +99,17 @@ You don't have any appointment requests
 You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
 
 (Link) `Schedule an appointment`
+
+
+### Request alert - Generic message if any of the systems are unavailabe (VSP, VVS and HSRM) 
+
+```
+(H1) We can't display all your requests.
+
+(H2) We're working to resolve this issue.  To manage an appointment that is not shown in this list, contact the facility at which it was scheduled.
+
+{link} Facility locator 
+```
 
 ---
 
@@ -142,11 +163,24 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > Past`
 
 ### Past state - empty
 
+```
 You don't have any past appointments
 
 You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
 
 (Link) `Schedule an appointment`
+```
+
+### Past alert - Generic message if any of the systems are unavailabe (VSP, VVS and HSRM) 
+
+```
+(H1) We can't display all your appointments.
+
+(H2) We're working to resolve this issue.  To manage an appointment that is not shown in this list, contact the facility at which it was scheduled.
+
+{link} Facility locator 
+
+```
 
 
 

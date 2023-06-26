@@ -2,6 +2,8 @@
 
 Appointments content is in the pages that follow and the [platform scheduling content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-briefs/Appointments.md).
 
+[Shared content across pages](./shared-content.md)
+
 
 ## Appointment lists
 
@@ -10,6 +12,7 @@ Appointments content is in the pages that follow and the [platform scheduling co
 | [Upcoming appointments](./homepage.md#appointments) | View all future and in progress appointments |
 | [Past appointments](./homepage.md#past-appointments) | View all appointments from the last two years |  
 | [Pending appointments](./homepage.md#pending-appointments) | View all pending and canceled requests | 
+| [Add to calendar - ICS file content](./add-to-calendar-ics.md) | Content for the ICS files the browser downloads when a user clicks "Add to calendar |
 
 ## Appointment details 
 
@@ -27,10 +30,10 @@ Appointments content is in the pages that follow and the [platform scheduling co
 
 ## Request details 
 
-| Feature | Description | Supported |
-|---|---|---|
-| [VA Appointment Request](./appointment-details.md#va-requests)  | Request for a VA appointment | |
-| [Community Care Appointment request](./appointment-details.md#community-care-requests) | Request for a community care appointment | |
+| Feature | Description |
+|---|---|
+| [VA Appointment Request](./appointment-details.md#va-requests)  | Request for a VA appointment |
+| [Community Care Appointment request](./appointment-details.md#community-care-requests) | Request for a community care appointment |
 
 ## Schedule appointments flows
 
