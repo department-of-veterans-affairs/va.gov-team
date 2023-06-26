@@ -15,6 +15,8 @@ Some big takeaways from this discussion:
 
 - Let's do some more desk research to see what other teams have insight that can help with our current research efforts. Jessica has [notes in her Mural board](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1687381992402?sender=u773b824999f25f58b8e77486&key=2694912f-19c7-4254-8e86-ce74e6a4bdf0).
 
+- Things to consider for Priority Group: unclear on what type of information can be shared with the Veterans. What is the tradeoff to showing that information? Should we be showing the overview definitions or the individualized PG?
+
 ## 2023-06-19
 
 Attendees: DK, Jessica, Hieu, Katelyn, Kristen
