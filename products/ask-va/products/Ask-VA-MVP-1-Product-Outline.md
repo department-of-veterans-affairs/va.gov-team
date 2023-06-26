@@ -119,9 +119,8 @@ Our first MVP will have brought the current Ask VA up to VA.gov design standards
 
 
 ### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
-- Initiative | [Link to Initiative Brief](#)
+Link to Initiative Brief on the overall project: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/AVA%20-%20Initiative%20Brief%20v2.docx
 
 --- 
 
