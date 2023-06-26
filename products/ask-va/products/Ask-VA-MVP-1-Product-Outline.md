@@ -25,7 +25,7 @@ User should easily and intuitively be able to ask a question through Ask VA on V
 
 Form Design, and Content, Mobile-Friendly Experience, 508 Compliance
 
-- As a veteran
+As a veteran
 >I can ask my questions quickly through my phone or computer.\
 >It's easy for me to find Ask VA on VA.gov.\
 >It's accessible for me.
@@ -38,7 +38,7 @@ Secure Messaging (SM) on VA.gov
 
 ## Undesired User Outcomes
 
-- As a veteran
+As a veteran
 >I stop asking questions because AVA is difficult to use on my phone or computer\
 >I cannot find Ask VA on VA.gov.\
 >It's not accessible for me.
@@ -49,40 +49,22 @@ Integrate with VANotify and myVA
 Secure Messaging (SM) on VA.gov
 >Waiting for spike
 
-## Desired Business Outcomes
+## Desired Business Objectives
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-
-## Undesired Business Outcomes
-
+- Streamline the process for users to receive answers to their questions
+- Create a modernized mobile friendly, accessible online support experience aligned with VA Design standards
+- Increase User Satisfaction
 
 ---
 ## Measuring Success
 
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
-
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-
-### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-- Objective:
-  - Key result: 
-  - Key result: 
-
-
+- 20% of users are able to get answers to their questions without submitting an issue
+- 70% of users are satisfied with their experience
+- Rerouted cases are reduced by 50%
+- Accessibility issues are eliminated
 ---
 
 ## Assumptions
@@ -90,10 +72,51 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+Phase 1 MVP:
+1. Stand up a page on VA.gov
+>- Create a SPIKE to validate the instructions from the VA’s developer docs for adding a new application to the va.gov site.
+2. Bring Ask VA up to VA.gov design standards
+>- Narrow down scope of use cases; including authenticated vs. unauthenticated.
+>- We need to see if the full scope can be implemented in the MVP after understanding use cases, taxonomy and routing rules.
+>- Write topics and categories based on content style guide (without changing form functionality and output).
+>- Write form questions based on content style guide (without changing form functionality and output).
+>- Update UI to reflect the VA Design System.
+>- Make it mobile friendly.
+>- Do iterative user research to test usability of new form design and content updates.
+>- Make it 508 Compliant.
+>- Complete necessary PRA updates.
+3. Implement form on VA.gov
+>- Understand current routing rules
+>- Review existing Ask VA front-end and back-end code to see how it works
+>- When Inquiry data is collected on VA.gov, it is sent to the Dynamics CRM for the agents to work through
+>- Releasing this new form to a page on VA.gov
+>- Build GitHub Actions workflows for deploying to DEV/STAGiNG/PROD, with automated tests and linting as the gatekeepers to those environments.
+>- Understand how Dataverse and CxDW(?) play into this process.
+>- Ensure devs have proper tools and permissions to build the legacy app, and work on the prototype code.
+>- Ensure devs have proper access to resources in all environments.
+>- Ensure devs/qa/pm have access to error logs.
+>- Ensure devs/qa/pm/ux have access to analytics and reporting.
+Add tools to build pipeline to run static analysis for 508 and mobile-friendly issues.
+>- Understand auth and unauth access patterns. Be ready for oauth changes in the coming months from platform/identity team.
+
+Below two dependent on spikes.\
+4. Integrate with My AVA Dashboard for 
+>- Status on inquiries
+>- Need more information/research with Ask AVA CRM team
+5. VA Notify integration
+>- MyVA is creating a notification center, strategically want to integrate there for authenticated users.
+>- Spike on notifications on where it stands and how we would move it to VA gov, and how VA.gov will trigger the notifications.
+
+Our first MVP will have brought the current Ask VA up to VA.gov design standards, made the form accessible, and updated the content to make it more intuitive for our users. 
+
+**Not included in the first MVP but will be in scope for future MVP:**
+>- Surface resources using existing knowledge base
+>- Inbox/secure messaging
+>- Explore use of NLU/free text
+>- AVA placement/integrations with chatbot and resources
+>- Updated existing routing rules to smart routing
+
+
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
