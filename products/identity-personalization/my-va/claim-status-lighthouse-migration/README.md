@@ -74,7 +74,7 @@ TBD
 
 ## Key deliverables
 
-- Technical discovery
+- [Technical discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/claim-status-lighthouse-migration/technical-discovery.md)
 - Update the claim status section of My VA to connect to Lighthouse instead of EVSS
 
 ### Key Dates
