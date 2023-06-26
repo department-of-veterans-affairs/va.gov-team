@@ -13,10 +13,10 @@ For an appointment to be eligible for patient check in through the web or any mo
   - Is the appointment status valid
 
 ## Base URL
-The base URL for accessing the API is: `/#{base_path}/actions`
+The base URL for accessing the API is: `[base-path]/actions`
 
 ## Authentication
-The API uses OAuth 2.0 for authentication and requires client credentials to obtain an access token. Clients must include the access token in the `Authorization` header for each request. The API supports the following grant types: Client Credentials.
+
 
 ## Endpoints
 
@@ -36,15 +36,15 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
   - Status Code: 400
     - Body: (object): The demographics information needs to be confirmed
       - `code` (string): invalid-demographics
-      - `message` (string): Details which blocks of information needs to be confirmed
+      - `message` (string): A list of demographics that need to be confirmed. ie. Patient Information, Emergency Contact, Next-of-Kin
   - Status Code: 400 
     - Body (object): The Insurance information is missing/needs to be updated Response Object which contains the following fields
       - `code` (string): invalid-insurance
-      - `message` (string): Insurance needs validation
+      - `message` (string): Insurance needs to be validated
   - Status Code: 400
     - Body (object): Invalid appointment object with the following fields
       - `code` (string): invalid-appointment
-      - `message` (string): Details which fields are invalid (too-early, too-late, e-check-in-not-enabled, invalid-status, invalid-type)
+      - `message` (string): Details specific reasons the appointment is invalid (too-early, too-late, e-check-in-not-enabled, invalid-status, invalid-type)
 
 ### Demographics
 
@@ -61,19 +61,44 @@ The API uses OAuth 2.0 for authentication and requires client credentials to obt
   - Body (object): The demographics object
     - `insuranceVerificationNeeded` (boolean)
     - `needsConfirmation`
-    - `address`
+    - `mailingAddress`
+    - `residentialAddress`
     - `homePhone`
+    - `officePhone`
+    - `cellPhone`
     - `email`
     - `emergencyContact`
       - `needsConfirmation` (boolean)
-      - `address`
-      - `homePhone`
-      - etc.
+			- `name` (string): "VETERAN,BROTHER",
+			- `relationship` (string)
+			- `phone` (string)
+		  - `workPhone` (string)
+			- `address` (object)
+			  - `street1` (string)
+				- `street2` (string)
+				- `street3` (string)
+				- `city` (string)
+				- `county` (string)
+				- `state` (string)
+				- `zip` (string)
+				- `zip4` (string)
+				- `country` (string)
     - `nextOfKin`
       - `needsConfirmation` (boolean)
-      - `address`
-      - `homePhone`
-      - etc.
+			- `name` (string): "VETERAN,BROTHER",
+			- `relationship` (string)
+			- `phone` (string)
+		  - `workPhone` (string)
+			- `address` (object)
+			  - `street1` (string)
+				- `street2` (string)
+				- `street3` (string)
+				- `city` (string)
+				- `county` (string)
+				- `state` (string)
+				- `zip` (string)
+				- `zip4` (string)
+				- `country` (string)
 
 #### `PATCH /demographics`
 - Description: Edit demographics by suppling fields you wish to modify
