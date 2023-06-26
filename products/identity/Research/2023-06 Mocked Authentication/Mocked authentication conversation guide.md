@@ -3,14 +3,14 @@
 ## Moderator logistics 5-10 minutes before each session
 
 - Sign onto Zoom session
-- Admit the session’s notetaker
+- Admit the session’s notetaker(s)
 - Check Settings > Meeting > In Meeting (Basic) >
    - Sound notification when someone joins or leaves: OFF
    - Who can share > All Participants
-- Open standalone browser tab to prototype 
+- Open standalone browser tab to [prototype](https://dev.va.gov/sign-in/mocked-auth)
 - Do Not Disturb ON so no notifications
 - Make sure everyone is muted except moderator (me) and the participant
-- Mute your Slack notifications.
+- Mute your Slack notifications
 
 
 ## Start the session | 5 minutes
@@ -72,10 +72,11 @@
 
 ## Task 1: Product Usability Walk through | 10 minutes
 
-- Now we’d like to take you to the Mocked Authentication page
+- Now we’d like to take you to the Mocked Authentication page. I'm going to send you a link in the zoom chat. I'll ask that you open the link and then when you are ready to share your screen, so I can watch you use the prototype design
+   - [SEND PARTICIPANT [prototype link](https://dev.va.gov/sign-in/mocked-auth)]
    - [IF PARTICIPANT would normally code in local then “image you were checking your code on the dev stack…”]
 - Is this the first time you are seeing this?
-- If you found a link on your own and came here, is it clear what you would do next?
+- If you found the link on your own and came here, is it clear what you would do next?
    - Would you generally jump right in on a tool like this, or do you generally prefer to read documentation first?
    - What information would be helpful to know before you get started here?
 - Is there anything here that seems confusing, like it’s not needed, or like it’s missing?
@@ -97,12 +98,14 @@
    - What about if you need one that you don’t normally use?
 - Is there anything on this page that seems confusing, like it’s not needed, or like it’s missing?
    - [IF NEEDED - specifically call out the presentation of the mock user info in code]
-- Now that you are in a mock signed-in state, is there anything else you’d need from an identity standpoint here to continue working on and checking your code?
+- Go ahead and take the next step as you might if I were not here.
+   - Now that you are in a mock signed-in state, is there anything else you’d need from an identity standpoint here to continue working on and checking your code?
 
 
 ## Task 2: Adding new mock user | 10 minutes
 
 - Do you have a mock user that is your go-to?
+   - What would you say are your top 3 users?
 - Have you ever felt the need to or wished you could make a new mocked user for certain traits?
 - If you wanted to set up a new mock user, how might you start that process?
   
