@@ -1,4 +1,4 @@
-# Onsite Notifications In-take Process
+# Onsite Notifications In-take Process (WIP)
 
 This document serves as an overview of the in-take process (in partnership with VA Notify) for new onsite notifications on My VA. This assumes VA Notify has already evaluated that a candidate meets criteria to be a notification of _some kind._
 
