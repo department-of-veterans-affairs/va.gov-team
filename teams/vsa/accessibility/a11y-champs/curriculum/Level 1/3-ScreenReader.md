@@ -13,7 +13,7 @@ Finally, let's get you started on one screen reader ❇️
   - [ ] Line by line
   - [ ] Using headings
 
-## If you get stuck or can't figure out how to use them
+## If you get stuck or have no idea what to do
 
 Good! This is supposed to be difficult, and why we have a community 👐
 - If you feel a little brave, ask for help on the `#accessibility-help` channel
