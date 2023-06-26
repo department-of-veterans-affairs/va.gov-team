@@ -1,4 +1,3 @@
-
 # CONVERSATION GUIDE 526 LANDING PAGE REDESIGN
 
 
@@ -56,62 +55,72 @@ Before we start, a few things I want to mention:
 Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
-
+Do you have any experience with filing a claim with the VA? Yes, I have in the past. I am not sure how long, at least 10 years. 
 - Are you currently a veteran or active duty?
-- Can you remind me where you are based?
+- Can you remind me where you are based? Hendersonville, TN. North of Nashville.
 - Can you remind me of whether you have applied for any VA benefits before? (for determining which scenario to present)
-- What is your experience with VA.gov, if any?
+- What is your experience with VA.gov, if any? MyHealtheVet. I am usually on there a couple times a month.
+How did you find the process of filing for benefits? I just remembered the notice of Agent Orange and I got a 25% for diabetes. My healthcare was under the VA, so I just filled out the paperwork. Some people seem to have trouble getting approvement, but I didn’t. 
+Did you have someone to help? Back then I was living with my wife who passed away in 2013 and still working. 
 
 ## First Task: [intro & TE alert] - 5 minutes
 
 
 ###Task goal: gauge whether or how much vets understand the intro and what language they find clear/confusing 
 
-- Imagine you are here to *insert pertinant scenario,* 
-- Take a moment to look over the page. What is the first thing you would after arriving on this page? [emphasize more after first few interviews]
-- Read everything on this page up until the “Sign in” button at your own pace. You can read aloud or to yourself. Try to look for any information relavant to your situation as a *insert scenario*. If questions come up for you as your e reading feel free to say them out loud.  let me know when you are finished, and then I will ask you a few questions.
-- Do you think the information here could be clearer? how so?
-- On a scale from 1 to 10, 1 being not at all useful, and 10 being very useful, how useful or not was the information in this section of the page?
+- Imagine you are here to *insert pertinent scenario,* 
+- Take a moment to look over the page. What is the first thing you would do after arriving on this page? [emphasize more after first few interviews] Read what it says before I do anything.
+- Read everything on this page up until the “Sign in” button at your own pace. You can read aloud or to yourself. Try to look for any information relevant to your situation as a *insert scenario*. If questions come up for you as your e reading, feel free to say them out loud.  Let me know when you are finished, and then I will ask you a few questions.
+- Do you think the information here could be clearer? how so? No, it is pretty clear. 
+When you received the notice about toxic exposure, was it similar to this one? I have no idea. I can’t remember.
+- On a scale from 1 to 10, 1 being not at all useful, and 10 being very useful, how useful, or not was the information in this section of the page? I’d give it a 10. I don’t see anything unuseful. I believe it would be useful for someone to file for the first time.
     - Why did you choose that number?
 -  Is there any information missing from this section that you personally would want to know?
-- From what you’ve read here, what is your understanding of who qualifies for benefits under the PACT act?
+- From what you’ve read here, what is your understanding of who qualifies for benefits under the PACT act? It says if you have been exposed to burn pits and agent orange and lists the conditions. It gives you a timeline as well. Once you set this up I would be using this since hypertension is now a condition of Agent Orange. 
+Who did you speak to? My Veteran Service Officer.
        alt: if you had to explain the new PACT act to someone else, how would you put it ?      
 
 ## Second Task: [STEP 1] Is this the form for you - 10 minutes
 
 ###Task goal: gauge whether or how much vets understand step 1 and what language they find clear/confusing + 
-gauging expandable sections UX on mobile + gauge exapndable alert interaction 
+gauging expandable sections UX on mobile + gauge expandable alert interaction 
 
-- Same as before: Imagine you are here to *insert pertinant scenario to participant*
-- MOBILE: Without clicking on anything just yet, look at the steps listed here. What do they tell you about the process for claiming disabiltiy comp. if anything?
+- Same as before: Imagine you are here to *insert pertinent scenario to participant*
+- MOBILE: Without clicking on anything just yet, look at the steps listed here. What do they tell you about the process for claiming disability comp. if anything?
 - From what you have seen so far, what are some actions you think you can take on this page? 
 
 - IF ON MOBILE: what do you expect to see when you open section 1?
 - IF ON MOBILE: expand section 1 of the form 
 
-- Read Step 1 on this page at your own pace, and look for any information relavant to your situation as a *insert scenario*. Let me know when you have finished. Feel free to read out loud or to yourself.  If questions come up for you as your e reading feel free to say them out loud
+- Read Step 1 on this page at your own pace and look for any information relevant to your situation as a *insert scenario*. Let me know when you have finished. Feel free to read out loud or to yourself.  If questions come up for you as your e reading, feel free to say them out loud.
 
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful or not was the information in this section?
     - Why did you choose that number?
     - Is there information here that you feel is not useful to you?
 
-- Which parts of this section do you think they could make clearer?
+- Which parts of this section do you think they could make clearer? No, I can’t think of any changes I could make. 
 - Is there any information missing from this section that you personally would want to know?
-- From what you read, what is your understanding of who is elligible for disability benefits?
-   - ALT: If you had to explain to someone else this information about who is elligible for disability benefits, what would you phrase it?
-- From what you read here, what is your understanding of a supplemental claim form?
+- From what you read, what is your understanding of who is eligible for disability benefits?
+   - ALT: If you had to explain to someone else this information about who is eligible for disability benefits, what would you phrase it? It just tells you how to determine if you have any medical issues from your military services. 
+What would you tell them was the most important information here, if any? The most important information would be the list of items that are under consideration.
+Do you remember when you filed your claim, what you needed to file? They needed to have a doctor’s diagnosis. 
+- From what you read here, what is your understanding of a supplemental claim form? It says if you are requesting a review of your claim and have supporting documentation.
      - ALT: If you had to explain to someone what a supplemental claim is, how would you phrase it?
 
 QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 
-- Do you think the alert will contain information relevant to your situation of *insert scenario*? why or why?
+- Do you think the alert will contain information relevant to your situation of *insert scenario*? why or why? I would click on it  because it would give you an explanation when you click on it.
 - Is this the information you expected to see here? why or why not?
-- Which parts of this section do you think they could make clearer, IF ANY?
+- Which parts of this section do you think they could make clearer, IF ANY? It wasn’t quite what I was expecting it to be. Basically, what I am looking for is what issues are covered under this PACT. If I don’t have any of those problems on that list nothing else really matters.
 - What is your understanding of the information about veterans who have been granted benefits in the past?
+How useful is this alert to you on a scale 1 – 10? I would make it an 8. I could see if someone thinks their situation is worse and they might want to read that. 
+What is your understanding of a claim for increase? I am not really sure because I don’t know how they determine the percentage in the first place.
+Is it clear how we explain a supplemental claim and a claim for increase? There is a link here to file a supplemental claim. To me the most important information if I am looking to file something for this PACT, would be the hyperlink that states learn more about the PACT and what is new. 
+If you were to file, would you file a supplemental claim or an increase? Supplemental because I am already covered for diabetes, and I think I could be covered for hypertension.
 
 ### Things to watch for:
 
-- Are certain words/langauge tripping up veterans/active members?
+- Are certain words/language tripping up veterans/active members?
 - Are there places that veterans need to reread or ask for clarity about?
 - Are there things that veterans misunderstand after reading about them
 - Is there information veterans seem to skim/skip over / miss
@@ -121,10 +130,13 @@ QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 
 - IF ON MOBILE: what do you expect to see when you open section 2? 
 - IF ON MOBILE: expand section two
-- Imagine you are here to *insert pertinant scenario,* read step 2 on this page at your own pace, and look for any information relevant to your situation. If questions come up for you as you're reading, feel free to ask them. 
+- Imagine you are here to *insert pertinent scenario,* read step 2 on this page at your own pace and look for any information relevant to your situation. If questions come up for you as you're reading, feel free to ask them. 
+It tells me different ways I can apply. I guess online this is the purpose of this form. This is where you would determine if you wanted to do it online by yourself, or if you want to file with a VSO.
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
     - Why did you choose that number?
-- Is there any information missing from this section that you personally would want to know?
+- Is there any information missing from this section that you personally would want to know? I think. It gives you two links for help. I think some of these Veteran organizations might have VSOs. 
+Is that important for people to know when they come here? They should know that there are people available to help that they don’t have to pay for.
+Is there anything else missing? No.
 - Which parts of this section do you think could be clearer, if any?
 
 
@@ -144,26 +156,32 @@ gauging expandable sections UX on mobile + gauge expandable alert interaction
 
 - IF ON MOBILE: What do you expect to see when you expand section 3?
 - IF ON MOBILE: expand section three
-- As before, read through this section at your own pace. let me know once you’re finished. look for any information relavant to your situation as a *insert scenario*. 
-- In your own words, what is the gist of the information in this section?
-- On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
+- As before, read through this section at your own pace. Let me know once you’re finished. look for any information relevant to your situation as a *insert scenario*. 
+- In your own words, what is the gist of the information in this section? Basically, they want the medical records to back up your claim. They could be from the VA or private medical records you have to get.
+- On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section? I would say it is useful. It tells you the types of medical records. I’d give it a 10. 
     - Why did you choose that number?
     - Is there information here that you feel is not useful to you? 
 - Is there any information missing from this section that you personally would want to know?
-- Was any of this information confusing or unclear?
+- Was any of this information confusing or unclear? I think it is pretty clear. 
+Did you see the alert? Yeah, I skipped over because I am not an active member.
 - What is your understanding of the information you read about how disability compensation is determined?
-    ALT: Imagine you needed to explain to someone else how disability compensation is determined? How would you explain it?
+    ALT: Imagine you needed to explain to someone else how disability compensation is determined? How would you explain it? You have to have through medical records that you have the medical conditions.
+What are the most important things you would take away from this? It just says the VA would review the medical records, so you can not just say you have this problem you have to have the medical records.
+
+Do you think having medical records are the most important documents you need to file a claim? Besides a DD-214, yes. Under the PACT you are filing for an illness that falls under the PACT. If you don’t have one you might as well not complete it.
 - What is your understanding of the information you read about what documents are needed to support a claim for disability benefits?
     - ALT: Imagine you needed to explain to someone this information about the types of documentation needed to support a claim for benefits. How would you explain it to them?
   
 **CHECK TIME**
 
-- Was anything confusing about the information pertaining to authorizing the VA to recieve and review your medical records?
-- Was anything confusing about the infomation concerning where to submit forms for claiming PTSD or unemployability?
+- Was anything confusing about the information pertaining to authorizing the VA to receive and review your medical records?
+- Was anything confusing about the information concerning where to submit forms for claiming PTSD or unemployability?
 
 QUESTIONS CONCERNING EXPANDABLE UI/INFO - BDD
 
-- Do you think the alert will contain information relevant to your situation of *insert scenario*? why or why not?
+- Do you think the alert will contain information relevant to your situation of *insert scenario*? why or why not?  If you want to submit private medical records, you have to submit a document with a signature so the VA can receive those medical records. Also, if you cannot work due to your disability, they will provide you with the necessary forms to fill out.
+
+Where would you submit those forms? We have not gotten there yet. You would have to submit it further down.
 - Before you opened this section, was this the information you expected to see here? Why or why not?
 - Which parts of this section do you think they could make clearer, if any?
 - In your own words, what is your understanding of the benefits delivery at discharge program?
@@ -172,7 +190,7 @@ QUESTIONS CONCERNING EXPANDABLE UI/INFO - BDD
 
 ### Things to watch for:
 
-- Are certain words/langauge tripping up veterans/active members?
+- Are certain words/language tripping up veterans/active members?
 - Are there places that veterans need to reread or ask for clarity about?
 - Are there things that veterans misunderstand after reading about them
 - Is there information veterans seem to skim/skip over/miss 
@@ -184,13 +202,22 @@ QUESTIONS CONCERNING EXPANDABLE UI/INFO - BDD
 - IF ON MOBILE: what do you expect to see in this section?
 - IF ON MOBILE: expand section four
 - Read through section at your own pace…
-- In your own words, What is the gist of the information in this section?
+- In your own words, what is the gist of the information in this section? It tells you the process of what happens when you start your application. Once you submit your application you will get a confirmation page, and it will take 3-4 months. You will get a letter with more information. I get a lot of mail; I think that is a waste of trees.
+Any other information that stuck out to you when you were reading that? It says you have a year to file, and it states to submit supporting documents. You will get a claim number so if you have to submit documents after you would just need to attach that claims number.
+
 - On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
     - Why did you choose that number?
 - Is there any information missing from this section that you personally would want to know?
-- Which parts of this section do you think could be clearer?
+- Which parts of this section do you think could be clearer? It is pretty clear. It is not a simple process. You just have to ensure you have the correct issues that falls under this act. You have to gather all the right documents to get them all uploaded. 
+Do you think there is information that could have been explained better? No, I don’t think so.
 - If you had to explain "intent to file" to someone else, how would you put it?
-- What did you think when you read the text about the length of time the VA takes to make a decision?
+- What did you think when you read the text about the length of time the VA takes to make a decision? It says it takes about 3-4 months, but it shouldn’t take longer. It depends on how many people they have to review the claims. I don’t know how long it takes one person to review a claim. I don’t know how many they can do in one day or how many they get in one day. 
+Do you think that is how the length of time is determined? I guess it depends on how clear cut your medical information is. If you have all the valid medical documentation to support your claims, it should not take long. I have been lucky with the VA, all my issues they have been able to take care of without any problems.
+Is there a difference between the words, condition, and disability? Yes, but I would have to think about that for a minute. You may have a condition that may not be a disability. 
+Can you give me an example? Well. If you have hypertension and you take proper medication. It is a condition, but it is not disabling you.
+How willing would you be to ask a VSO for help filling out this form? I would have to look at the form to see how it goes. The hard part of forms is they will ask you a question to answer that you don’t understand. It is not always clear what they are asking. 
+Was that your experience in the past filling out forms? Yes.
+Why do you think the VA asks for this documentation when filing for disability benefits? They are giving away money. They need to make sure they truly need it. They have to ensure you are who you say you are and that you have the issues you claim. I don’t see anything unreasonable about the documentation they ask for. 
    - Did you find that information useful or not useful?
 
 **If not mentioned before and within the allotted time:**
