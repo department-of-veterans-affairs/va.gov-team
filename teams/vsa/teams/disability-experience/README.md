@@ -8,6 +8,7 @@ Last Updated - 03/27/2023
 - Product repo: [va.gov-team/tree/master/products/disability/526ez ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez)
 - Teams repo: [va.gov-team/teams/vsa/teams/disability-experience/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez)
 - Zenhub board: Workspace - [Disability experience](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/board)
+- Zenhub bug board: Workspace - [526ez bugs and defects](https://app.zenhub.com/workspaces/526ez-bugs-and-defects-646e4436ff6787001ac4771a/board)
 
 ## General team overview
 
@@ -27,6 +28,7 @@ At the highest level, the core disability experience team is here to own, from t
 | Anneliese LaTempa | Delivery Manager | anneliese.latempa@agile6.com | alatempa24 |
 | Christine Cereca | Engineer | christine@cityfriends.tech | christinec-fftc |
 | Mark Chae | Engineer | markchae@navapbc.com | mchae-nava |
+| Kate Allbee | UX Designer and Research | kate@verdance.co | TBD |
 | Austin Price | Product Manager | austin.price@coforma.io | austinjprice |
 | Sarah Shields | Delivery Manager | sarah.shields@coforma.io | sortizsh |
 | Micah Frazier | Engineer | micah.frazier@oddball.io | micahaspyr |
