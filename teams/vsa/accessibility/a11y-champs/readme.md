@@ -85,7 +85,7 @@ Most folks pronounce a11y as "alley" or "a 11 y"
 This was inspired by a curriculum designed by **Jen Strickland** and **Trevor Pierce**, who deserve full credit in establishing the groundwork to make this possible ♥️
 
 ### Community feedback
-We make updates to our curriculum based on feedback from our community.
+We make updates to our curriculum based on feedback from our community. This is forever a work in progress, and is built by a community of people.
 - [Check out all the updates we've made in our changelog](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/changelog.md)
 - [Provide feedback directly using this Microsoft Form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAToLe2lUM0FTUlRTRUxIMEhTVjc1RExON1JTVTk2Vi4u)
 
