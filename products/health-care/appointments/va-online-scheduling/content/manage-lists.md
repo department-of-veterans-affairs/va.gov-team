@@ -61,12 +61,14 @@ Your appointment requests that haven't been scheduled yet.
 ```
 ### State: No requests
 
+
+```
 You don't have any appointment requests
 
 You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
 
 (link) Schedule an appointment
-
+```
 
 ---
 
