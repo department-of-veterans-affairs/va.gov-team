@@ -53,4 +53,4 @@ A couple of reminders before moving on to the next part of level 1:
 - [ ] <strong>Share your questions and thoughts in the `#a11y-champs` channel.</strong> Did you learn something new today? Have a follow up question to this lesson? Let us know in the `#a11y-champs` channel! 
 - [ ] Move on to part 2 of level 1, or bookmark it for safekeeping.
 
-[Continue to part 2 of level 1, learning how to ask for help ➡️](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/Level%201/2-Ask.md)
+<strong>[Continue to part 2 of level 1, learning how to ask for help ➡️](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/Level%201/2-Ask.md)</strong>
