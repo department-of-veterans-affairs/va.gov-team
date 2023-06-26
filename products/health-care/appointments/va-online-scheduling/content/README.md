@@ -1,4 +1,3 @@
-
 # Appointments Content
 
 Appointments content is in the pages that follow and the [platform scheduling content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-briefs/Appointments.md).
@@ -8,30 +7,30 @@ Appointments content is in the pages that follow and the [platform scheduling co
 
 | Feature | Description | 
 |---|---|
-| [Upcoming appointments](./manage-lists.md#upcoming) | View all future and in progress appointments |
-| [Past appointments](./manage-lists.md#past) | View all appointments from the last two years |  
-| [Pending appointments](./manage-lists.md#pending) | View all pending and canceled requests | 
+| [Upcoming appointments](./homepage.md#upcoming) | View all future and in progress appointments |
+| [Past appointments](./homepage.md#past) | View all appointments from the last two years |  
+| [Pending appointments](./homepage.md#pending) | View all pending and canceled requests | 
 
 ## Appointment details 
 
 | Feature | Description |
 |---|---|
-| [VA In-person](./manage-details.md#va-in-person)  | Scheduled, in person appointments at a VA facility |
-| [VA In-person Vaccine](./manage-details.md#va-in-person-covid-vaccine) | Scheduled, in person appointments at a VA facility for a COVID-19 vaccine |
-| [VA Video Care at Home](./manage-details.md#video-at-home) | Scheduled telehealth appointments over VA Video Care |
-| [VA Video Care at a VA location](./manage-details.md#video-at-va-facility) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins at a VA facility |
-| [VA Video Care on GFE](./manage-details.md#video-on-gfe) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins over a GFE provided by a VA facility |
-| [VA Video Care at an ATLAS location](./manage-details.md#video-at-atlas) |  Scheduled telehealth appointments that a Veteran joins at an ATLAS facility  |
-| [VA Phone](./manage-details.md#va-phone) |  Scheduled telehealth appointments that a Veteran joins over the phone. |
-| [Community Care](./manage-details.md#community-care-appointment) |  Scheduled appointment that a Veteran joins at a community care provider |
+| [VA In-person](./appointment-details.md#va-in-person)  | Scheduled, in person appointments at a VA facility |
+| [VA In-person Vaccine](./appointment-details.md#va-in-person-covid-vaccine) | Scheduled, in person appointments at a VA facility for a COVID-19 vaccine |
+| [VA Video Care at Home](./appointment-details.md#video-at-home) | Scheduled telehealth appointments over VA Video Care |
+| [VA Video Care at a VA location](./appointment-details.md#video-at-va-facility) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins at a VA facility |
+| [VA Video Care on GFE](./appointment-details.md#video-on-gfe) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins over a GFE provided by a VA facility |
+| [VA Video Care at an ATLAS location](./appointment-details.md#video-at-atlas) |  Scheduled telehealth appointments that a Veteran joins at an ATLAS facility  |
+| [VA Phone](./appointment-details.md#va-phone) |  Scheduled telehealth appointments that a Veteran joins over the phone. |
+| [Community Care](./appointment-details.md#community-care-appointment) |  Scheduled appointment that a Veteran joins at a community care provider |
 | [Compensation and Pension appointment]() | Scheduled appointment for a Compensation and Pension exam |
 
 ## Request details 
 
 | Feature | Description | Supported |
 |---|---|---|
-| [VA Appointment Request](./manage-details.md#va-requests)  | Request for a VA appointment | |
-| [Community Care Appointment request](./manage-details.md#community-care-requests) | Request for a community care appointment | |
+| [VA Appointment Request](./appointment-details.md#va-requests)  | Request for a VA appointment | |
+| [Community Care Appointment request](./appointment-details.md#community-care-requests) | Request for a community care appointment | |
 
 ## Schedule appointments flows
 
@@ -50,13 +49,13 @@ Appointments content is in the pages that follow and the [platform scheduling co
 | VA direct-schedule | [Reason for appointment](./schedule-va.md#reason-for-appointment) |
 | VA direct-schedule | [Confirm contact information](./schedule-va.md#contact-information) |
 | VA direct-schedule | [Review and submit](./schedule-va.md#review-and-submit) |
-| VA direct-schedule | [Confirmation details](./manage-details.md#confirmed-2) |
+| VA direct-schedule | [Confirmation details](./appointment-details.md#confirmed-2) |
 | VA request | [Choose a day and time](./request-va.md#preferred-date) |
 | VA request | [Reason for appointment](./request-va.md#reason-for-appointment) |
 | VA request | [Method of attendance](./request-va.md#preferred-modality) |
 | VA request | [Confirm contact information](./request-va.md#contact-information) |
 | VA request | [Review and submit](./request-va.md#review-appointment-details) |
-| VA request | [Confirmation details](./manage-details.md#confirmed) |
+| VA request | [Confirmation details](./appointment-details.md#confirmed) |
 | CC request | [Choose a day and time](./request-cc.md#preferred-date) |
 | CC request | [Closest city](./request-cc.md#nearest-city) |
 | CC request | [Choose a provider](./request-cc.md#request-a-provider-optional) |
@@ -64,4 +63,4 @@ Appointments content is in the pages that follow and the [platform scheduling co
 | CC request | [Reason for appointment](./request-cc.md#reason-for-appointment) |
 | CC request | [Confirm contact information](./request-cc.md#contact-information) |
 | CC request | [Review and submit](./request-cc.md#review-appointment-details) |
-| CC request | [Confirmation details](./manage-details.md#confirmed-1) |
+| CC request | [Confirmation details](./appointment-details.md#confirmed-1) |
