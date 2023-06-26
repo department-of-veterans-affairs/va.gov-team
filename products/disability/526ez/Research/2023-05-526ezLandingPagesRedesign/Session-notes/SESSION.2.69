@@ -1,4 +1,3 @@
-
 # CONVERSATION GUIDE 526 LANDING PAGE REDESIGN
 
 
@@ -58,7 +57,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
 - Are you currently a veteran or active duty?
-- Can you remind me where you are based?
+- Can you remind me where you are based? North Carolina.
 - Can you remind me of whether you have applied for any VA benefits before? (for determining which scenario to present)
 - What is your experience with VA.gov, if any?
 
@@ -67,12 +66,15 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ###Task goal: gauge whether or how much vets understand the intro and what language they find clear/confusing 
 
-- Imagine you are here to *insert pertinant scenario,* 
-- Take a moment to look over the page. What is the first thing you would after arriving on this page? [emphasize more after first few interviews]
-- Read everything on this page up until the “Sign in” button at your own pace. You can read aloud or to yourself. Try to look for any information relavant to your situation as a *insert scenario*. If questions come up for you as your e reading feel free to say them out loud.  let me know when you are finished, and then I will ask you a few questions.
-- Do you think the information here could be clearer? how so?
-- On a scale from 1 to 10, 1 being not at all useful, and 10 being very useful, how useful or not was the information in this section of the page?
-    - Why did you choose that number?
+- Imagine you are here to *insert pertinent scenario,* 
+- Take a moment to look over the page. What is the first thing you would do after arriving on this page? [emphasize more after first few interviews] 
+- Read everything on this page up until the “Sign in” button at your own pace. You can read aloud or to yourself. Try to look for any information relevant to your situation as a *insert scenario*. If questions come up for you as your e reading, feel free to say them out loud.  Let me know when you are finished, and then I will ask you a few questions.
+Are you familiar with the PACT? Yes, I am. I am pretty sure I got an email with the information. It was directing several different things and one of them was PACT. Just different topics.
+- Do you think the information here could be clearer? how so? Honestly, I thought it was very clear. I filed a claim and everything I needed to do. Once I got to the right buttons, everything was smooth. 
+Do you think there is anything missing? Not really.
+- On a scale from 1 to 10, 1 being not at all useful, and 10 being very useful, how useful, or not was the information in this section of the page? I have to. I don’t want to completely give it a 10, so I would say a 9.
+    - Why did you choose that number? Just for the simple reason there may be something that someone else thought of that I didn’t. 
+How did you apply for the PACT? I did it on my own. I think I did it electronically on the computer and got an acknowledgement via computer and mail.
 -  Is there any information missing from this section that you personally would want to know?
 - From what you’ve read here, what is your understanding of who qualifies for benefits under the PACT act?
        alt: if you had to explain the new PACT act to someone else, how would you put it ?      
@@ -80,25 +82,36 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Second Task: [STEP 1] Is this the form for you - 10 minutes
 
 ###Task goal: gauge whether or how much vets understand step 1 and what language they find clear/confusing + 
-gauging expandable sections UX on mobile + gauge exapndable alert interaction 
+gauging expandable sections UX on mobile + gauge expandable alert interaction 
 
-- Same as before: Imagine you are here to *insert pertinant scenario to participant*
-- MOBILE: Without clicking on anything just yet, look at the steps listed here. What do they tell you about the process for claiming disabiltiy comp. if anything?
+- Same as before: Imagine you are here to *insert pertinent scenario to participant*
+- MOBILE: Without clicking on anything just yet, look at the steps listed here. What do they tell you about the process for claiming disability comp. if anything? I think the first part of it is just defining what must be true. The first two paragraphs I had no problem with that. I got confused when it states if I had filed in the past without documentation. I did file a claim for high blood pressure, and they came back and said that was true, but they were not going to do anything about it.
+Was that under the PACT? Yes. 
+Have you filed a supplement claim? No, I have not because I don’t have additional information to support my claim. Back in the 90s my civilian doctor diagnosed me with high blood pressure, and when I joined the VA under Agent Orange, they stated I had it, but it wasn’t over a certain limit. 
+So, is that what you were thinking when reading that section? It says you must file a supplement claim if either of those are true. I am going to click on file a supplement claim.
+I am going to ask you not to click on that, but why would you click that? Because I want to file one.
+If you had to explain a supplemental claim to someone, how would you describe it? When you give more information/evidence to support your claim that you didn’t the first time.
+What would you do next? I would go back to apply and then sign in.
+Did you notice the yellow alert at the top of your screen? Yes, I did.
+Do you think that is useful for you? Yeah, it would be, but I just ignored it. I don’t know why I ignored it. If it explains what they were saying without having to open it up that would be more beneficial.
+Can you click on it and see what it says? I would probably sign in and view the claim letter just to see what they were talking about. It really doesn’t make a lot of sense to me. Because if I were to file a supplemental claim then I don’t have a condition that has worsen and I already know I am not receiving the max amount for the disability rating. That is why I would go to view my letter.
+When it says claim for increase, is it clear that is separate from the supplemental claim? Just what it says you are filing a supplemental claim to increase your disability.
+It seems that we need to be more there right there. That is good to know. 
 - From what you have seen so far, what are some actions you think you can take on this page? 
 
 - IF ON MOBILE: what do you expect to see when you open section 1?
 - IF ON MOBILE: expand section 1 of the form 
 
-- Read Step 1 on this page at your own pace, and look for any information relavant to your situation as a *insert scenario*. Let me know when you have finished. Feel free to read out loud or to yourself.  If questions come up for you as your e reading feel free to say them out loud
+- Read Step 1 on this page at your own pace and look for any information relevant to your situation as a *insert scenario*. Let me know when you have finished. Feel free to read out loud or to yourself.  If questions come up for you as your e reading, feel free to say them out loud.
 
-- On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful or not was the information in this section?
+- On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful, or not was the information in this section?
     - Why did you choose that number?
     - Is there information here that you feel is not useful to you?
 
 - Which parts of this section do you think they could make clearer?
 - Is there any information missing from this section that you personally would want to know?
-- From what you read, what is your understanding of who is elligible for disability benefits?
-   - ALT: If you had to explain to someone else this information about who is elligible for disability benefits, what would you phrase it?
+- From what you read, what is your understanding of who is eligible for disability benefits?
+   - ALT: If you had to explain to someone else this information about who is eligible for disability benefits, what would you phrase it?
 - From what you read here, what is your understanding of a supplemental claim form?
      - ALT: If you had to explain to someone what a supplemental claim is, how would you phrase it?
 
@@ -111,7 +124,7 @@ QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 
 ### Things to watch for:
 
-- Are certain words/langauge tripping up veterans/active members?
+- Are certain words/language tripping up veterans/active members?
 - Are there places that veterans need to reread or ask for clarity about?
 - Are there things that veterans misunderstand after reading about them
 - Is there information veterans seem to skim/skip over / miss
@@ -120,9 +133,15 @@ QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 ## Third Task: [STEP 2] Decide how to apply - 3 minutes
 
 - IF ON MOBILE: what do you expect to see when you open section 2? 
+What would you do first? Well, I would try to find the form online and see if I could fill it out on screen. Then I would see what happened to me. It is good to know I can contact the VSO, but sometimes. Number one I am not a VSO is and number two I don’t know if they are a representative at the VA.
 - IF ON MOBILE: expand section two
-- Imagine you are here to *insert pertinant scenario,* read step 2 on this page at your own pace, and look for any information relevant to your situation. If questions come up for you as you're reading, feel free to ask them. 
-- On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section?
+- Imagine you are here to *insert pertinent scenario,* read step 2 on this page at your own pace and look for any information relevant to your situation. If questions come up for you as you're reading, feel free to ask them. 
+- On a scale of 1 to 10 ,1 being not at all useful and 10 being extremely useful, how useful was the information in this section? I would say it is a 10. It does tell you everything you need to do. If you are not a procrastinator like me.
+I forgot to ask you about step one. Can you go back and answer the same question for me. How useful do you find that information? Okay. I would have to give it a 9 for the simple reason for me it was great, but there may be other questions that may arise that I didn’t think about. Other questions that weren’t apparent to me didn’t come to me when I was reading through this. There is nothing. It is clear, but sometimes I get in a rush and maybe I don’t comprehend what it is trying to tell me.
+When looking at it, does it look like a lot of text to you? Yes.
+Do you think there is anything we could take out to shorten it? Not really because I think they are trying to give as much advice as they can, so it won’t be a problem to follow. But at the same point there is a lot of information that would cause me to get lost. 
+
+Is there anything else you would like to add before we end? Thank you so much for being patient with me and all your help. Like I told you at the beginning I am technically challenged. Thank you and Crystal for all the help you helped me with. You were very professional and friendly all at the same time. Thank you for what you are doing. 
     - Why did you choose that number?
 - Is there any information missing from this section that you personally would want to know?
 - Which parts of this section do you think could be clearer, if any?
@@ -131,7 +150,7 @@ QUESTIONS CONCERNING EXPANDABLE ALERT UI/ INFO
 ### Things to watch for:
 
 - How do vets/service members react to mentions of form completion time?
-- Are certain words/langauge tripping up veterans/active members?
+- Are certain words/language tripping up veterans/active members?
 - Are there places that veterans need to reread or ask for clarity about?
 - Are there things that veterans misunderstand after reading about them
 - Is there information veterans seem to skim/skip over / miss
