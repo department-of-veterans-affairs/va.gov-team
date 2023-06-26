@@ -53,49 +53,81 @@ Let’s start with a few warm-up questions.
 - Are you currently enrolled and using health care benefits from the VA? 
 - How often do you visit a VA facility for medical care? 
 - How often do you visit VA.gov online? And do you sign in every time or how often do you sign in?
+- Do you receive any other benefits beside health care from the VA? Would you mind sharing what those are?
+  
 
-
-## First Topic: [Current Process] - 10 minutes
+## First Topic: [Application Process] - 10 minutes
 
 - Can you explain to me in your own words the process when you applied for health care benefits?
-- [If they don't specify] Did you complete this online, in-person or via paper application by yourself?
-- Was it clear to you as you were applying, what benefits you would qualify for?
-- What resources did you use to understand what you might qualify for during this process?
-- How would you describe the process that happened after you applied, such as things you had to do, additional information you had to provide, communications from the VA, your first appointment, etc.?
+- [If they don't specify] Did you apply online, in-person or via paper application by yourself?
+- What resources did you use to understand what health care benefits you might qualify for during this process?
+- How would you describe the process that happened after you completed your application, such as things you had to do, additional information you had to provide, communications from the VA, your first appointment, etc.?
+- Now that you have been using your benefits, I would like you to think back and recall if there is anything that would have been helpful for you to know during that application process that you learned after you enrolled?
 
 
 ### Things to watch for:
 - [What terminology does the Veteran use as they talk about their experience?]
 - [How does the Veteran portray the overall process - easy, difficult, uneventful?]
+- [How does the Veteran descirbe the process of figuring out what they are eligible for - are they frustrated or do they find it easy?]
 - [What pain points or areas of confusion are revealed?]
 
 
-## Second Topic: [Priority Group] - 5 minutes
-
+## Second Topic: [Priority Group Awareness] - 5 minutes
 - Do you know what Priority Group you are in for your health care benefits now?
-- Can you please describe how this was communicated to you and how you understood the impact to you and what health care you could get?
+- Can you please describe how this was communicated to you and how you understood the impact to you and your health care benefits?
 - Before you completed enrollment, were you aware of Priority Groups or copays as part of the health care benefits package?
+- [if yes] Can you tell me more about what you knew and how you learned that information?
+
 
 ### Things to watch for:
-- [How does the Veteran descirbe the process of figuring out what they are eligble for - are they frustrated, do they find it easy, do they just expect the VA to have the data and figure it out for them?]
-- [Is there any confusion about their benefits within the health care benefits they recieve?]
 - [Do they know confidently know their Priority Group and what that means to them and their benefits?]
+- [Is there any confusion about their benefits within the health care benefits they recieve?]
 
 
-## Second Topic: [Priority Group - SCENARIO] - 10 minutes
+---
+Cohort 1
 
-- I'm going to share my screen and show you a couple of hypothetical options on how you might be able to view your health care benefits online after enrollment.
+--- 
 
-- Mural board
+## Third Topic: [Priority Group - SCENARIO] - 10 minutes
+
+- I'm going to share my screen for this next question.
+- [Open Mural board? Just want to show image of current alert only, no page placement]
+- This message (screen capture of current enrolled Alert) appears to communicate that you are currently enrolled in health care.
+- Have you ever seen this message before on VA.gov?
+- Where would you expect to find this message or this type of health care benefit information online?
+- What information about your benefits do you feel is missing from this message that you would find helpful?
+- Would being able to view your Priority Group online be of value to you and how would you see that working for you?
+
+---
+Cohort 2
+
+--- 
+## Third Topic: [Priority Group - SCENARIO] - 10 minutes
+- I'm going to share my screen for this next question.
+- [MURAL BOARD ITERATION 1 - based on answers from cohort 1]
 
 
-- What kind of benefit would being able to view your Priority Group online provide you?
-- Out of these two options, is there one that would be more useful to you?
-- Is there anything here you would consider noise and not want to see on these examples?
-- Can you talk me through where you would expect to find this information on VA.gov so today?
+
+---
+Cohort 3
+
+--- 
+## Third Topic: [Priority Group - SCENARIO] - 10 minutes
+- I'm going to share my screen for this next question.
+- [MURAL BOARD ITERATION 1 - based on answers from cohort 1 & 2]
 
 
-## Third Topic: [Financial Disclosure- SCENARIO] - 10 minutes
+
+
+---
+
+## Fourth Topic: [Updates post enrollment] - 10 minutes
+- Have you had to make any updates to your information since your initial application/enrollment?
+- If yes, can you please tell me more about that. What did you have to update and how was that experience for you?
+
+
+## Fourth Topic: [Financial Disclosure- SCENARIO] - 10 minutes
 
 - Now I would like to transition to you sharing your screen and have to go to the link in the chat:
 - https://staging.va.gov/
