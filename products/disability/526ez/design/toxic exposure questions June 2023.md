@@ -8,14 +8,6 @@
 
 
 
-## Which of these apply to you? (Check all that apply)
-
-[ ] I am claiming a condition that the VA has not rated or denied yet 
-
-[ ] One or more of my rated conditions has gotten worse
-
-
-
 ## Did you serve in any of the following Gulf War Hazard Locations? 
 
 - Iraq 
@@ -108,6 +100,28 @@ To Month Year
 ## If you were exposed multiple times, please provide all additional dates and locations of potential exposure:
 
 [                                      ] 
+
+
+
+## Which of these apply to you? (Check all that apply)
+
+[ ] I am claiming a condition that the VA has not rated or denied yet 
+
+[ ] One or more of my rated conditions has gotten worse
+
+
+
+## Please tell us the new conditions you want to claim
+
+Editing Condition (*Required)
+
+Enter the name of your condition below and we’ll suggest some possible matches. You don’t have to choose one of the suggested conditions.
+
+If you don’t know the name of your condition or aren’t finding a match, you can save the condition as you entered it. We’ll help you figure out the name of your condition during the exam. (Shorter descriptions are better. For example, foot pain, back pain or hearing loss.)
+
+Save
+
+Add Another Condition
 
 
 
