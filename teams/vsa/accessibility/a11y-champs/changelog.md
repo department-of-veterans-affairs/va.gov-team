@@ -7,7 +7,7 @@
 
 > “”I “dislike” posting questions/comments in Slack. Although, I appreciate the community aspect of it. Where it may take one person 30 seconds to post a…”
 - It is no longer required to share thoughts, questions, and updates in this channel :blue_heart:
-- We now offer the option to ask questions privately to specialists who are sworn to non-judgement and secrecy :spock-hand: :skin-tone-4:
+- We now offer the option to ask questions privately to specialists who are sworn to non-judgement and secrecy 👥
 
 ### What does normative mean again?
 > "What does normative from the Github page mean? I've read it over & over again & for some reason just can't wrap my head around it :sweat_smile:"
