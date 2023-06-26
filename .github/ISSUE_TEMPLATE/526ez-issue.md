@@ -21,7 +21,7 @@ Please fill out the form below, providing as much detail as possible.
 - Date and Time of Issue:     <!-- The date and time (including timezone) the issue was observed.-->
 - Hardware Issue Observed On: <!-- Is it hardware specific? e.g older computer or mobile phone -->
 - Browser type / version:
-- Case#, if available:  123456
+- Case#, if available:  
 - Reporter name in va.gov: 
 - Link to details in Sharepoint, if available: 
 
