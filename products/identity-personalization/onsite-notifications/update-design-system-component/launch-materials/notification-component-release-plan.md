@@ -1,7 +1,8 @@
 # Onsite Notifications - Notification Component on My VA Release Plan
 
 ## Phase I: UAT 
-### Planning:
+### Planning: 
+Not applicable - no formal UAT will occur
 - Desired date range or test duration: week of 6/12/2023
 - **UAT Go/No go:** mm/dd/yyyy
    - UAT go/no-go [readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/UAT/update-design-system-component-on-my-va-UAT-readiness.md)
