@@ -284,7 +284,7 @@ You can read more about these alert types in the [VA Design System](https://desi
 
 **Governance / Editor guidance:**
 * Primary editors: Sitewide Content team
-* **Governance:** [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/banners](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/banners) 
+* **Governance:** [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/emergency-banner/2019-banner-docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/emergency-banner/2019-banner-docs) 
 * Old info, some useful references: [https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf) 
 
 **More info:**
