@@ -15,7 +15,7 @@ _Due to the small scale of this initiative we will not be conducting a phased la
 **Launch go/no-go**
 - Complete: mm/dd/yyyy
 - Launch go/no-go ticket:
-- Launch readiness checklist:
+- [Launch readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/launch-materials/notification-component-on-My-VA-launch-readiness.md)
 
 ### Launch
 **Launch date:** mm/dd/yyyy
