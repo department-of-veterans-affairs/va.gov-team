@@ -76,79 +76,63 @@ Let’s start with a few warm-up questions.
 - Do you know what Priority Group you are in for your health care benefits now?
 - Can you please describe how this was communicated to you and how you understood the impact to you and your health care benefits?
 - Before you completed enrollment, were you aware of Priority Groups or copays as part of the health care benefits package?
-- [if yes] Can you tell me more about what you knew and how you learned that information?
+- [if yes] Can you tell me more about what you knew before you applied and how you learned that information?
+- Since you have been using your benefits, what do you now know about Priority Groups and the impact they have on you and health care benefits.
+- If you had a magic wand, can you describe to me what you would change in regards to Priority Groups and health care benefits?
 
 
 ### Things to watch for:
 - [Do they know confidently know their Priority Group and what that means to them and their benefits?]
-- [Is there any confusion about their benefits within the health care benefits they recieve?]
+- [What is the current process and experience around Prioity Groups?]
 
 
 ---
-Cohort 1
+Cohort Scenarios (Possible 3 or 4), 
+start by showing current live alert message (no page placement) and iterate to showing more of a wireframe including content updates and context placement based on feedback of previous cohorts. 
 
---- 
 
 ## Third Topic: [Priority Group - SCENARIO] - 10 minutes
 
 - I'm going to share my screen for this next question.
-- [Open Mural board? Just want to show image of current alert only, no page placement]
+- [Open Mural board with image]
 - This message (screen capture of current enrolled Alert) appears to communicate that you are currently enrolled in health care.
 - Have you ever seen this message before on VA.gov?
 - Where would you expect to find this message or this type of health care benefit information online?
 - What information about your benefits do you feel is missing from this message that you would find helpful?
 - Would being able to view your Priority Group online be of value to you and how would you see that working for you?
 
----
-Cohort 2
-
---- 
-## Third Topic: [Priority Group - SCENARIO] - 10 minutes
-- I'm going to share my screen for this next question.
-- [MURAL BOARD ITERATION 1 - based on answers from cohort 1]
-
-
-
----
-Cohort 3
-
---- 
-## Third Topic: [Priority Group - SCENARIO] - 10 minutes
-- I'm going to share my screen for this next question.
-- [MURAL BOARD ITERATION 1 - based on answers from cohort 1 & 2]
-
-
-
 
 ---
 
-## Fourth Topic: [Updates post enrollment] - 10 minutes
-- Have you had to make any updates to your information since your initial application/enrollment?
+## Fourth Topic: [Updates post enrollment] - 5 minutes
+- Changing gears a bit now, since you enrolled, have you had to make any updates to your information since your initial application?
 - If yes, can you please tell me more about that. What did you have to update and how was that experience for you?
+- Is there anything about this experience that you would like to change?
+
+  
+## Fifth Topic: [EZR Tasks - SCENARIO] - 10 minutes
+
+- Now I would like to transition to you sharing your screen and have you go to the link in the chat for VA.gov:
+- https://va.gov/
+  
+- For this first scenario, you completed the health care application and are now enrolled in and using your health care benefits. You had a change in income and want to report that.
+- Can you show me where you would expect to find the ability to complete this task?
 
 
-## Fourth Topic: [Financial Disclosure- SCENARIO] - 10 minutes
 
-- Now I would like to transition to you sharing your screen and have to go to the link in the chat:
-- https://staging.va.gov/
-- For this next scenario, you completed that application and enrolled for health care benefits.
-- You get a bill in the mail saying you owe for copays and you need to submit your financial information from the last calendar year to keep that benefit.
-- Now from the link sent to you, walk me through where you would expect to be able to provide your updated income information so you can go back to qualifing for no copays as you used to.
-- You can stop screen sharing now, thank you.
+For this second scenario, 
 
 
-## Third Topic: [Financial Disclosure] - 10 minutes
 
-- Have you had to provide updated information since you have been enrolled, like changes in income or adding dependents?
-- If so, can you tell me more about how this process went for you?
-- How would you like to go about providing various updates that could impact your health care benefits?
+
+## Sixth Topic: [Financial Disclosure] - 10 minutes
+
 - How would you see a change in income impacting your health care benefits?
 - If you have copays, when during the enrollment process were you clear on what you qualified for and what you would have to pay? 
-- In a perfect world, how would you like to discover what copays you qualify to pay?
 
 
 ## Fourth Topic: [Ideal State] - 5 minutes
-- Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using and updating your information to keep your benefits. 
+- Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using your benefits and updating your information. 
 - What tools, communication, people could make this the best process possible in your mind?
 - What information would be important to you so you feel confident when having to apply for and use your health care benefits?
 
