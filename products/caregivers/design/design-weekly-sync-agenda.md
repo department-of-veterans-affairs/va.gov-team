@@ -1,5 +1,20 @@
 # Design Weekly Sync Agenda
 
+## 2023-06-26
+
+Attendees: DK, Jessica, Hieu, Katelyn, Kristen
+
+**EZR discovery ticket (Hieu)**
+
+- [Discovery for Veteran Information Editing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58542): This ticket feels too big since scope changed. Let's take that back to Heather and Alex and see what we can do with it.
+- We still need to do some sythesis on the Pittsburgh and Martinsburg research calls.
+
+**Priority Group/Financial Info research (Jessica)**
+
+Some big takeaways from this discussion:
+
+- Let's do some more desk research to see what other teams have insight that can help with our current research efforts. Jessica has [notes in her Mural board](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1687381992402?sender=u773b824999f25f58b8e77486&key=2694912f-19c7-4254-8e86-ce74e6a4bdf0).
+
 ## 2023-06-19
 
 Attendees: DK, Jessica, Hieu, Katelyn, Kristen
