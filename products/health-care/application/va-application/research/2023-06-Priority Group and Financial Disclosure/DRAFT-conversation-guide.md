@@ -57,10 +57,9 @@ Let’s start with a few warm-up questions.
 
 ## First Topic: [Current Process] - 10 minutes
 
-- Can you explain to me in your own words the process you took when you applied for health care benefits?
+- Can you explain to me in your own words the process when you applied for health care benefits?
 - [If they don't specify] Did you complete this online, in-person or via paper application by yourself?
-- What is your recollection about the amount of information you had to provide?
-- Was it clear to you as you were applying, what benefits you would qualify for and what that would mean to you?
+- Was it clear to you as you were applying, what benefits you would qualify for?
 - What resources did you use to understand what you might qualify for during this process?
 - How would you describe the process that happened after you applied, such as things you had to do, additional information you had to provide, communications from the VA, your first appointment, etc.?
 
