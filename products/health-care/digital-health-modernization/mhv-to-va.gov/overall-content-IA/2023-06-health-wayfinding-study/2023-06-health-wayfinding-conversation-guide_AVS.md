@@ -58,29 +58,9 @@ Let’s start with a few questions...
 
 2. What benefits other than healthcare, if any, do you receive from the VA? 
 
-## Brief card sort - 10 minutes
-We are going to start with a sorting activity. 
+**Screen sharing instructions**
 
-This sorting activity is a tool that helps us to understand how Veterans would group certain items. If we can understand how items are grouped, we can then organize them in a way that makes it easier for Veterans to find what they need quickly. For example, if you were to organize a refrigerator, you might put certain food types together - like cheeses - to make it easier for you to find a cheese you like when you need it. 
-
-**Example card sort**
-*Preview link for demonstration purposes: https://dj540s05.optimalworkshop.com/optimalsort/vtqh45gr/sort* <-**update**
-
-We will be using a website to do the sorting activity. I'll show you how it works. 
-
-First, you'll see this screen on the left that has a list of different cards with information on them. On the right, you can drag items and group them together. Try to think of these groups as broader categories.
-
-We ask folks to organize the cards into different groups that make sense to you. What are the things that different cards have in common? Or that make the groups different from each other? 
-
-For me, looking at these cards on the left, I can organize the "Vanilla ice cream", "Cheddar cheese", and "Milk" cards together. I can rename the group by clicking on the "Click to rename" button at the top of the group - I'll rename this group "Dairy." I can organize "Lettuce" and "Broccoli" into a second group and label that "Vegetables." I have no idea what food group "cotton candy" might belong to, so I could put it in the "I don't know" group. 
-
-If I decide that I don't like a group that I made, I can also click the x in the top righthand side of the box and the cards get returned to the left hand column. 
-
-Do you have any questions at this point? 
-
-**Share Optimal Workshop link with participant**
-
-First, I'd like you to share your screen so I can see how you sort the carts. Do you know how to share your screen? 
+First, I'd like you to share your screen so I can see how you navigate the site. Do you know how to share your screen? 
 
 _Instructions for folks NOT using screenreaders:_
 - In the Zoom application on your computer/phone/tablet, there is a row of buttons at the bottom. In the center is a (green) button that says Share (phone), Share Screen (computer), or Broadcast screen (iPad). 
@@ -95,42 +75,11 @@ Thanks for your patience in figuring that out.
 - *Backup plan if they cannot figure out how to share screen:*
   - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
 
-Now I need to share with you a link to the sorting activity. How would you prefer the link to the sorting activity? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
-- [Card sort link](link - do bit.ly) <-**update**
+## Wayfinding interview - 50 minutes 
 
+Now I need to share with you a link to the prototype. How would you prefer the link? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
 
-**Instructions to open the card sort:**
-- Go to the chat in zoom. It is located at the bottom of this zoom window and looks like a speech bubble.
-- Click on the link for the optimal workshop card sort.
-
-_If participant needs extra instructions, or needs instructions to be repeated, use these:_ 
-- On the left, we have cards with different labels. 
-- On the right, you can drag these cards and group them together. Try to think of these groups as broader categories. 
-- If you do not recognize what something is on one of the cards, or need me to explain it a bit more, let me know.
-
-* Any questions at this point?
-
-* Organize cards in a way that makes sense to you
-	* We will start at the top left and work our way through the cards. While we are moving them, help me out by “thinking out loud” so that I can understand why you might want to group things together.
-
-(_As participant puts cards into different groups_): Can you explain to me what you are thinking as you put *(card name)* and *(card name)* together? Why do those belong together? 
-
-- _Continue to probe participant to explain their thinking as they group cards._
-
-_PROBE FOR UNDERSTANDING OF DIFFERENT CARDS AND TERMS, IF PARTICIPANT NOT EXPLAINING. Particularly interested in understanding how users differentiate between different types of resources. Examples probes could be:_ <-**update probes below**
-
-	- What do you think "Pathology results" are? 
-	- How are you understanding "Radiology results or images"? 
-	- What do you think the difference is between "Encounter notes" and "Progress notes"?
-
-- (_When complete_): Please go ahead and click the finish button so we can save these groupings. It’ll be anonymous. 
-
-
-## Wayfinding interview - 40 minutes
-
-Thank you for completing that activity. Please continue to share your screen. 
-
-Now I am going to share with you a link to the prototype of the website VA.gov. Like I said before, this is a prototype, which means that it will behave differently than the actual website. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link. 
+Just as a reminder, this is a prototype, which means that it will behave differently than the actual website. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link. 
 
 _Send link to prototype: [link](link). Show participant where prototype back button is._
 
@@ -141,7 +90,14 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
 - What do you think should happen if you (_do something_)? 
 
-**Add in AVS questions when have them.**
+_Specific questions about AVS - **must ask**:_ 
+
+_If participant is in the Appointments section:_ 
+- How would you get back out to the larger appointments section? 
+- (_Or, if more appropriate wording, depending on their behavior_): How would you backtrack to where you came from? 
+
+_If participant gets to AVS through Medical Records:_ 
+- This summary of your doctor's recommendations for the next steps in your care came out of an interaction you had while in an appointment with this doctor. Do you think you would want or expect to be able to get back to the details of that appointment from this page? 
 
 _Participant should be deep into either Appointments or Medical Records at this point looking at AVS._
 
@@ -178,7 +134,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
 - What do you think should happen if you (_do something_)? 
 
-**Add in specific questions after MR designs more figured out, if any.**
+_Specific questions about Medical Records - **must ask**:_ 
 
 **_Task 3b - Transition from Medical Records to Secure Messaging; participant should be deep into Medication Records navigation at this point:_** Say you're confused by your result and want to ask your doctor about it. Using the resources offered on this website, how would you send them a message? Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
 
@@ -196,9 +152,11 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
 - What do you think should happen if you (_do something_)? 
 
-_Specific questions - **must ask**:_ 
+_Specific questions about Appointments - **must ask**:_ 
 
 - (_If participant uses breadcrumbs_) Why did you click those links? 
+- How would you get back out to the larger appointments section? 
+- (_Or, if more appropriate wording, depending on their behavior_): How would you backtrack to where you came from? 
 - **Filter/ preferences questions - check in with Peter/Kristen to confirm.**
 
 ## Thank You and Closing - 1 minute
