@@ -9,6 +9,9 @@ QA was performed manually by team members.
 
 ## Defect report
 - Noted in the findings table below and in the attached spreadsheet above. -- _no findings_
+- Additional findings reported outside of QA
+    - [#60661](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60661)
+    - [#60845](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60845) 
 
 ## Accessibility Staging Review Prep
 - [Notification Component on My VA - Accessibility Staging Review Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/launch-materials/notification-design-system-component-a11y-staging-review-prep.md)
