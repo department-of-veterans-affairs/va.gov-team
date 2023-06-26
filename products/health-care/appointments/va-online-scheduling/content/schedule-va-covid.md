@@ -6,7 +6,7 @@
 
 URL: ``
 
-Redirect: ``
+Old URL: ``
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -46,7 +46,7 @@ Find out how to get your vaccine at a VA walk-in clinic
 
 URL: ``
 
-Redirect: ``
+Old URL: ``
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -89,7 +89,7 @@ Please select an answer
 
 URL: ``
 
-Redirect: ``
+Old URL: ``
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -134,7 +134,7 @@ TTY: 711
 
 URL: ``
 
-Redirect: ``
+Old URL: ``
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -209,7 +209,7 @@ TTY: 711
 
 URL: ``
 
-Redirect: ``
+Old URL: ``
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -259,7 +259,7 @@ Find VA facilities near you that offer COVID-19 vaccines
 
 URL: ``
 
-Redirect: ``
+Old URL: ``
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -310,7 +310,7 @@ Please select a clinic for your appointment
 
 URL: ``
 
-Redirect: ``
+Old URL: ``
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -357,7 +357,7 @@ Please choose your preferred date and time for your appointment
 
 URL: ``
 
-Redirect: ``
+Old URL: ``
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -403,7 +403,7 @@ Plan to return after {21 days after calendar date selection}
 
 URL: ``
 
-Redirect: ``
+Old URL: ``
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -472,7 +472,7 @@ Please enter a valid email address
 
 URL: ``
 
-Redirect: ``
+Old URL: ``
 
 Page title: `[Page Header] | Veterans Affairs`
 

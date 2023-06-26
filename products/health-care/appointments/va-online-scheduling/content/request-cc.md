@@ -6,7 +6,7 @@
 
 URL: `https://va.gov/my-health/appointments/schedule/preferred-date-cc-request`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/request-date`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/request-date`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -43,7 +43,7 @@ Choose your preferred date and time for this appointment. You can request up to 
 
 URL: `https://va.gov/my-health/appointments/schedule/closest-city-cc-request`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-closest-city`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-closest-city`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -97,7 +97,7 @@ Please provide a response
 
 URL: `https://va.gov/my-health/appointments/schedule/preferred-provider-cc-request`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/community-care-preferences`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/community-care-preferences`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -198,7 +198,7 @@ Selected Provider
 
 URL: `https://va.gov/my-health/appointments/schedule/preferred-language-cc-request`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/community-care-language`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/community-care-language`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -249,7 +249,7 @@ Choose a preferred language
 
 URL: `https://va.gov/my-health/appointments/schedule/reason-cc-request`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/reason-appointment`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/reason-appointment`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -291,7 +291,7 @@ Please let us know any additional details about your symptoms that may be helpfu
 
 URL: `https://va.gov/my-health/appointments/schedule/contact-information-cc-request`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/contact-info`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/contact-info`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -371,7 +371,7 @@ Please enter a valid email address
 
 URL: `https://va.gov/my-health/appointments/schedule/review-cc-request`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/review`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/review`
 
 Page title: `[Page Header] | Veterans Affairs`
 

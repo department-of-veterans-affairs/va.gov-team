@@ -6,7 +6,7 @@
 
 URL: `https://va.gov/my-health/appointments/schedule/preferred-date-va-request`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/request-date`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/request-date`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -43,7 +43,7 @@ Choose your preferred date and time for this appointment. You can request up to 
 
 URL: `https://va.gov/my-health/appointments/schedule/reason-va-request`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/reason-appointment`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/reason-appointment`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -92,7 +92,7 @@ Please provide any additional details you'd like to share with your provider abo
 
 URL: `https://va.gov/my-health/appointments/schedule/preferred-method-va-request`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-visit-type`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-visit-type`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -131,7 +131,7 @@ Please let us know how you would like to be seen for this appointment. (*Require
 
 URL: `https://va.gov/my-health/appointments/schedule/contact-information-va-request`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/contact-info`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/contact-info`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -215,7 +215,7 @@ Please enter a valid email address
 
 URL: `https://va.gov/my-health/appointments/schedule/review-va-request`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/review`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/review`
 
 Page title: `[Page Header] | Veterans Affairs`
 

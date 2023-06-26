@@ -6,7 +6,7 @@
 
 URL: `https://va.gov/my-health/appointments`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -60,7 +60,7 @@ You can schedule an appointment online now, or call your VA medical center to sc
 
 URL: `https://va.gov/my-health/appointments/requests`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/pending`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/pending`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -119,7 +119,7 @@ You can schedule an appointment online now, or call your VA medical center to sc
 
 URL: `https://va.gov/my-health/appointments/past`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past`
 
 Page title: `[Page Header] | Veterans Affairs`
 

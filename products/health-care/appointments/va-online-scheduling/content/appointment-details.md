@@ -18,7 +18,7 @@
 
 URL: `https://va.gov/my-health/appointments/requests/[ID]?confirmMsg=true`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]?confirmMsg=true`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]?confirmMsg=true`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -100,7 +100,7 @@ Phone number: {phone number}
 
 URL: `https://va.gov/my-health/appointments/requests/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -172,7 +172,7 @@ Phone number: {phone number}
 
 URL: `https://va.gov/my-health/appointments/requests/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -238,7 +238,7 @@ Phone number: {phone number}
 
 URL: `https://va.gov/my-health/appointments/[ID]?confirmMsg=true`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]?confirmMsg=true`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]?confirmMsg=true`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -294,7 +294,7 @@ You shared these details about your concern
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -345,7 +345,7 @@ You shared these details about your concern
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -393,7 +393,7 @@ You shared these details about your concern
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -436,7 +436,7 @@ You shared these details about your concern
 
 URL: `https://va.gov/my-health/appointments/[ID]?confirmMsg=true`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]?confirmMsg=true`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]?confirmMsg=true`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -491,7 +491,7 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -542,7 +542,7 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -588,7 +588,7 @@ Main phone: {phone number} (TTY: 711)
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -632,7 +632,7 @@ Main phone: {phone number} (TTY: 711)
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -699,7 +699,7 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -742,7 +742,7 @@ Provider
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -782,7 +782,7 @@ Provider
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -840,7 +840,7 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -890,7 +890,7 @@ You'll be meeting with
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -936,7 +936,7 @@ You'll be meeting with
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -1001,7 +1001,7 @@ You'll be meeting with
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -1045,7 +1045,7 @@ Provider
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -1084,7 +1084,7 @@ Provider
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -1144,7 +1144,7 @@ Main phone: {phone number} (TTY: 711)
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -1189,7 +1189,7 @@ Provider
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -1229,7 +1229,7 @@ Provider
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -1285,7 +1285,7 @@ You shared these details about your concern
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -1337,7 +1337,7 @@ You shared these details about your concern
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]`
 
 Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -1391,7 +1391,7 @@ You shared these details about your concern
 
 URL: `https://va.gov/my-health/appointments/requests/[Request-ID]?confirmMsg=true`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]?confirmMsg=true`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]?confirmMsg=true`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -1496,7 +1496,7 @@ Phone number: {phone number}
 
 URL: `https://va.gov/my-health/appointments/requests/[Request-ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -1588,7 +1588,7 @@ Phone number: {phone number}
 
 URL: `https://va.gov/my-health/appointments/requests/[Request-ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -1678,7 +1678,7 @@ Phone number: {phone number}
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/cc/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/cc/[ID]`
 
 Page title: `Community care appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -1733,7 +1733,7 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/cc/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past/cc/[ID]`
 
 Page title: `Community care appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
@@ -1783,7 +1783,7 @@ You shared these details about your concern
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/cc/[ID]`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/cc/[ID]`
 
 Page title: `Community care appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 

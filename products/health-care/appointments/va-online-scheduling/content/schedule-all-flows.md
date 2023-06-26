@@ -11,7 +11,7 @@ These pages start all scheduling flows
 
 URL: `https://va.gov/my-health/appointments/schedule/type-of-care`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -68,7 +68,7 @@ Find a VA location
 
 URL: `https://va.gov/my-health/appointments/schedule/sleep-care`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-sleep-care`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-sleep-care`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -97,7 +97,7 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
 
 URL: `https://va.gov/my-health/appointments/schedule/eye-care`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-eye-care`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-eye-care`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -126,7 +126,7 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
 
 URL: `https://va.gov/my-health/appointments/schedule/audiology-care`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/audiology`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/audiology`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -155,7 +155,7 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
 
 URL: `https://va.gov/my-health/appointments/schedule/facility-type`
 
-Redirect: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-facility-type`
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-facility-type`
 
 Page title: `[Page Header] | Veterans Affairs`
 
