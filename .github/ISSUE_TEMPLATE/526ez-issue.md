@@ -1,13 +1,13 @@
 ---
 name: 526EZ Issue Report
 about: For reporting issues with the 526EZ application (Application for Disability Compensation and Related Compensation Benefits)
-title: '[ISSUE] <title>'
+title: '<Simple Title/Description> - <optional case number>'
 labels: 526ez-Defects
 assignees: ''
 ---
 
 # Instructions
-Please fill out the form below, providing as much detail as possible. 
+Please fill out the form below, providing as much detail as possible. If there is a Case Number please append it to the title. 
 
 ## Issue Description
 <!-- A concise description of the issue. -->
@@ -16,8 +16,9 @@ Please fill out the form below, providing as much detail as possible.
 ### Information needed to assess the severity of the issue
 - Users Impacted:     <!-- How many users are being impacted? # of related cases in the last x days/weeks/month? -->
 - Issue Impact:       <!-- What is the impact of the issue?-->
-- Workaround:         <!-- Is there a workaround? If so, what is it?-->   
-- Legal Requirement:  <!-- Does the issue stop someone from meeting a legal requirement? -->  
+- Workaround:         <!-- Is there a workaround? If so, what is it?-->
+- Legal Requirement:  <!-- Does the issue stop someone from meeting a legal requirement? -->
+- Congressional or other Requirement: <!-- Is this issue the result of a congressional inquiry or something similar?  -->
 - Loss of Service:    <!-- Can people lose service as result of the issue? -->   
 - Permanent Impact:   <!-- Does the problem have a permanent impact?  For instance can you resubmit the form for a veteran, or do you lose the submission entirely?  Can the VSR reopen the case later and process it, or does the issue send out an incorrect message to a veteran? -->
 - Vulnerability:      <!-- Is this a potential security/privacy vulnerability? -->
