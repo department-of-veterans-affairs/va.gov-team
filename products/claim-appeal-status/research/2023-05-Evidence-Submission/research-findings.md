@@ -40,7 +40,7 @@ Remote usability testing sessions with Veteran participants.
 
 *3. The new design will give Veterans a strong understanding of what is happening with their claim at any given time.*
 
-WIP
+**TRUE**. 9/10 participants expressed a clear understanding of the Status page. In response to the question "How much would you say you understand what's going on with this claim on a scale of 1-5?" 7/10 participants responded with a 5/5. Two othe participants did not give a number but said that they clearly understood.
 
 *4. The new design will help Veterans distinguish between requests for them that they need to act on and requests for third parties that they don't need to act on.*
 
