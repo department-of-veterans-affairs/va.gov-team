@@ -35,7 +35,7 @@ Remote usability testing sessions with Veteran participants.
 
 *2. Veterans will prefer the new Status page to the old Status page overall.*
 
-**TRUE**. Almost all participants conclusively stated that they preferred the new design to the current design. Participants cited the visual design and specifcity of detail as the primary reasons why they preferred it. 
+**TRUE**. When asked, 9/10 participants said that they prefer the new design to the current design. Participants cited the visual design and specifcity of detail as the primary reasons why they preferred it. 
 
 
 *3. The new design will give Veterans a strong understanding of what is happening with their claim at any given time.*
@@ -44,31 +44,27 @@ Remote usability testing sessions with Veteran participants.
 
 *4. The new design will help Veterans distinguish between requests for them that they need to act on and requests for third parties that they don't need to act on.*
 
-WIP
+**LIKELY TRUE.** We did not have any participants confuse third party evidence requests for first party requests. That said, we did not provide a scenario in the prototype where there was a third party request that the Veteran _could_ provide if they so choose. There is no evidence to suggest that that woud be confusing with the new design, but to be 100% sure we should test that scenario explicitly.
 
 *5. The new design will make it easy for Veterans to see requests for evidence submission and understand what those requests are.*
 
-WIP
+**TRUE.** There were no issues with participants noticing the evidence submission request or finding their way to it within the claim details page. Participants especially liked the blurb that describes what exactly the request is and how to fulfill it that appears in the request page (Buddy Statement page in the prototype). 
 
 *6. The new design will make it clear to Veterans whether or not they need to take any action to advance their claim.*
 
-WIP
+**TRUE.** All participants were able to see that there was a request for them in the second flow, which showed them the CST home page with an evidence request alert for their in-progress claim. Participants stated that they would take action to fulfill the Buddy Statement request.
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+1. Most participants said they prefer the new CST design to the current design. In particular, they prefer the visual design and specificity of detail. 
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+2. Participants were able to navigate the evidence request flow without much difficulty.
 
-1. Finding one
+3. Participants like seeing the “Recent activity” section because they like clearly seeing that the VA is taking action to gather necessary information for the claim.
 
-2. Finding two
+4. Participants seemed neutral about Claim IDs. Without a clear reason for needing it, the use value to these (sighted) users is not very clear. 
 
-3. Finding three
-
-4. Finding four
-
-5. Finding five
+5. Participants responded well to the CST status page framing of “What you need to do” and “What we’re doing.”
 
 6. Finding six
 
@@ -144,8 +140,7 @@ _Next steps here. Include owners if appropriate._
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
+- As noted above, we should conduct research on the scenario when there is a third party request 
 
 ## Appendix
 
