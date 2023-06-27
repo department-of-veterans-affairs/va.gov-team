@@ -3,6 +3,13 @@
 Date range: 5/27/2023 through 6/26/2023
 
 ## Takeaway
+Total error count over 30 days: ~40,000
+
+![2 graphs showing the letters app errors broken down by error type and http status code](all-letters-app-errors.png)
+
+The errors here are the most significant. There are some error types not included here that were one
+offs or not significant enough to be focused on.
+
 If we could significantly reduce or get rid of the 504 and 503 errors, we'd be in much better shape
 as far as persistent errors. Unfortunately, there's not much we can do about those types of errors
 as they are a result of an unavailable or slow upstream service.
