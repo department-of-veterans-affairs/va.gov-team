@@ -5,8 +5,7 @@
 |What I want to know|How this will inform our work|Who wants to know|Date|
 |-------------------|----------------------------|-----------------|----|
 |Minimum, maximum and average # of days taken to file a claim month over month|Establish baseline and see if it has changed over time and if so, research why|Rakshinda|Feb 2023|
-|||||
-
+|Details about engagement on the landing page (scroll depth, links or buttons clicked, exit paths, satisfaction rating)|Establish baseline prior to redesign launch to measure change|Shannon|July 2023|
 
 
 #### Next
