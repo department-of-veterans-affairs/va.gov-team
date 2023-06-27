@@ -1,6 +1,6 @@
 # Evidence Submission Usability Testing Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Benefits Claimant Experience Management Tools, Claim Status Tool
+**Office of the CTO - Digital Experience (OCTO-DE), Benefits Claimant Experience Management Tools, Claim Status Tool**
 
 Date: 06/26/2023
 
@@ -12,7 +12,7 @@ Skyler Schain · skyler@coforma.io
 ## Research Goals
 With this research we were hoping to validate the usability of our design concepts for "Track 1" Evidence Submission work. "Track 1" is a set of near-term, concrete user experience and accessibility updates we want to make to CST.
 
-See full Research Plan [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-05-Evidence-Submission/research-plan.md).
+See the [full Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-05-Evidence-Submission/research-plan.md) for more details.
 
 
 ## Research Questions
@@ -25,7 +25,7 @@ See full Research Plan [here](https://github.com/department-of-veterans-affairs/
 
 ## Methodology 
 
-Remote usability testing sessions with Veteran participants
+Remote usability testing sessions with Veteran participants.
 
 ## Hypotheses and Conclusions
 
