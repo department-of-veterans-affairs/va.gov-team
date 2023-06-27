@@ -93,9 +93,13 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 _Specific questions about AVS - **must ask**:_ 
 
 _If participant is in the Appointments section:_ 
+- This summary of your doctor's recommendations for the next steps in your care came out of an interaction you had while in an appointment with this doctor. Do you think you would want or expect to be able to get back to the details of that appointment from this page? 
 - How would you get back out to the larger appointments section? 
-- (_Or, if more appropriate wording, depending on their behavior_): How would you backtrack to where you came from? 
-
+- (_Or, if more appropriate wording, depending on their behavior_): How would you backtrack to where you came from?
+- (_If participant uses breadcrumbs_): Why did you click on those links?
+- (_If participant ends up on Appointments landing page_): What do you think will happen if you click on that "Requests" link? 
+- _Optional probe_: What do you think "Requests" means here? 
+  
 _If participant gets to AVS through Medical Records:_ 
 - This summary of your doctor's recommendations for the next steps in your care came out of an interaction you had while in an appointment with this doctor. Do you think you would want or expect to be able to get back to the details of that appointment from this page? 
 
@@ -156,8 +160,11 @@ _Specific questions about Appointments - **must ask**:_
 
 - (_If participant uses breadcrumbs_) Why did you click those links? 
 - How would you get back out to the larger appointments section? 
-- (_Or, if more appropriate wording, depending on their behavior_): How would you backtrack to where you came from? 
-- **Filter/ preferences questions - check in with Peter/Kristen to confirm.**
+- (_Or, if more appropriate wording, depending on their behavior_): How would you backtrack to where you came from?
+
+_Ask these questions if did not ask them in the AVS task:_ 
+- (_If participant ends up on Appointments landing page_): What do you think will happen if you click on that "Requests" link? 
+- _Optional probe_: What do you think "Requests" means here? 
 
 ## Thank You and Closing - 1 minute
 
