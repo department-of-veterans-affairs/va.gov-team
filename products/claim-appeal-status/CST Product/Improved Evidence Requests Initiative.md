@@ -87,7 +87,9 @@ Our core bet is that if veterans are able to clearly identify when requests for 
     * KPIs: 
         * Veteran clarity on evidence requests (VBMS Events Metrics)
         * Contact center call volume and duration (Contact Center)
-        * Bounce rate, Time on page, Medallia feedback and ratings (Site Metrics)
+        * Bounce rate
+        * Time on page
+        * Medallia feedback and ratings 
 
 ### Proposed In-scope functional requirements
 
