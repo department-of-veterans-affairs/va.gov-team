@@ -24,6 +24,8 @@ CST: Improved Evidence Requests Initiative
 * Less calls related to evidence requests come through in the contact center because CST is able to better meet veterans’ needs
 
 # Audiences Served
+* Veterans with pending disability compensation claims.
+* VA Call Center staff
 
 # Assumptions
 
