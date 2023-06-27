@@ -1389,7 +1389,7 @@ You shared these details about your concern
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/requests/[Request-ID]?confirmMsg=true`
+URL: `https://va.gov/my-health/appointments/requests/[ID]?confirmMsg=true`
 
 Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]?confirmMsg=true`
 
@@ -1494,7 +1494,7 @@ Phone number: {phone number}
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/requests/[Request-ID]`
+URL: `https://va.gov/my-health/appointments/requests/[ID]`
 
 Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
 
@@ -1586,7 +1586,7 @@ Phone number: {phone number}
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/requests/[Request-ID]`
+URL: `https://va.gov/my-health/appointments/requests/[ID]`
 
 Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
 

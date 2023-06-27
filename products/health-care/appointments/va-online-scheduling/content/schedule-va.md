@@ -101,9 +101,9 @@ Make sure your browser’s location feature is turned on.
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/schedule/how-to-schedule`
 
-Old URL: ``
+Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/how-to-schedule`
 
 Page title: `[Page Header] | Veterans Affairs`
 
