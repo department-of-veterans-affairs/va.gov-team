@@ -13,11 +13,9 @@ A user can view the After Visit Summary once they have atteneded their appointme
 
 ## Problem
 * What is the problem and who is affected? And, what evidence do we have of the problem?
-  -  Enter details
+  -  In the current MHV application portal, the Veteran has an electronic copy of their After Visit Summary. In the appointments application on VA.gov, it does not currently support the After Visit Summary feature. 
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
-  - Enter details
-  - Anecdotal feedback from stakeholders and Veterans
-  - Qualitative feedback from surveys
+  - The Appointments application does not support the After Visit Summary feature.
 * How does this initiative help further OCTO-DE's mission and goals?
   - Improve user satisfaction
   - Meet user expectations of available online transactions
