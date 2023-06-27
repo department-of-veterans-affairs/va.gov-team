@@ -1,10 +1,10 @@
-# Initiative Brief: Mobile Phone Edit Flow
-05/25/2023
+# Initiative Brief: ~Mobile Phone Edit Flow~ Editing as a Sub-Task
+06/27/2023
 
 #### Overview
 
-- *Product: Notification Settings* 
-  - *Initiatives: Edit Mobile Phone Number Flows*
+- *Product: Notification Settings / Contact Information* 
+  - *Initiatives: Editing as a Subtask*
  
 ---
 
