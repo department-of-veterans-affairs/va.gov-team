@@ -135,7 +135,7 @@ Not shown but the process jumps the user to the contact screen and scrolls them 
 
 ### After
 Overall: https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d 
-[user flow]:(https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d/p/293F15EA-9CCC-466C-A3B7-3E54E3111676/canvas)
+[user flow](https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d/p/293F15EA-9CCC-466C-A3B7-3E54E3111676/canvas)
 
 Step1: https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/uuid/EFD07E4E-8467-4542-A9C6-0184B4536E4B
 
