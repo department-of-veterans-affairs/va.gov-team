@@ -66,10 +66,17 @@ Remote usability testing sessions with Veteran participants.
 
 5. Participants responded well to the CST status page framing of “What you need to do” and “What we’re doing.”
 
-6. Finding six
+## Secondary Findings
 
-7. Finding seven
+1. More than anything, participants want to know how long it will take for the request to be fulfilled. This is the question behind many of the other questions they have.
 
+2. Participants like the blurb associated with the evidence request that explains what the request is and how to fulfill it.
+
+3. It’s not always clear where files are coming from in the “Document files” section of the Files tab.
+
+4. Participants responded well to the line “This is the longest step in the process.” Transparent, self-aware language like this seems to set better expectations and put Veterans at ease.
+
+5. After seeing the Status page, the Overview page with the claim stepper feels redundant to most participants
 
 ## Details of Findings 
 
@@ -125,12 +132,18 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+* Stay the course of updating the Claims Status Tool iteratively based on these findings. 
+    * Participants preferred the new design to the current design.  
+* In general, be proactive in reassuring Veterans about what they do and don’t have to do while a claim is in progress.
+    * The reassuring messaging of "You don't need to do anything right now" really resonated with participants. Multiple Veterans called that out as useful and anxiety-reducing. 
+* Consider how Claim IDs could be less prominent visually, considering that for sighted users they don’t seem to be crucial information.
+    * Given that it doesn't seem to be an important part of the UI for sighted users, we might consider reducing. its visual prominence. 
+* Explore ways to ensure Veterans use the request widget to add evidence, rather than the Files tab.
+    * A couple participants would have uploaded evidence via the Files tab, and files uploaded in this way are not expedited in the same way evidence request files are. They do not get looked at by the VSR as quickly as they would if they'd been uploaded via the request widget. 
+* Explore ways to make it clearer where Documents Filed items came from, and way to clarify the relationship Documents Filed and Recent Activity.
+    * Participants were not able to tell where files in the "Documents filed" section of the Files tab came from, because the UI does not specify. 
+* Going forward, consider ways to consolidate information even more between the three tabs (Status, Files, and Overview), given that participants found some of the information to be redundant.
+    * A number of participants found the Overview tab to be redundant and not providing unique value. There might be a way to further optimize the page and reduce the clicks necessary to get to all relevant information.
 
 
 ## Next Steps
@@ -140,30 +153,24 @@ _Next steps here. Include owners if appropriate._
 
 ## Further research needed
 
-- As noted above, we should conduct research on the scenario when there is a third party request 
+- We should figure out how to convey to Veterans that they need to upload their evidence via the submission request widget and _not_ the Files tab widget. Working with the content team will be key to figuring this out. 
+- As noted above, we should conduct research on the scenario when there is a third party request that a Veteran has the option of fulfilling if they want, to see whether or not that introduces confusion or provides value. 
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-05-Evidence-Submission/research-plan.md)
 
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-05-Evidence-Submission/conversation-guide.md)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Mural board ](https://app.mural.co/t/coforma8350/m/coforma8350/1686321516166/8a42c94042663df1108c85662a7e32096552b448?sender=uf0ac39cb9487bbab2ebe3184)
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
+[Prototype](https://www.sketch.com/s/98e35645-34eb-40cf-80c1-6c4952943584/prototype/a/252DFC7E-C58A-478F-A521-5C082886DA75)
 
 
 ## Secondary research
