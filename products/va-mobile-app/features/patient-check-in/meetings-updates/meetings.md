@@ -3,6 +3,7 @@
 ## 5/24/23
 
 Action Items:
+
 **Mobile**
 - Share all of the raw data that we know about a single appt (info that is shared and not shared with the front-end)
 - Documentation link shared in meeting https://department-of-veterans-affairs.github.io/va-mobile-app/api/#operation/getAppointments
