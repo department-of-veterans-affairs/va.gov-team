@@ -334,9 +334,7 @@ VA Form 20-0996 (Higher-Level Review)
 ## Step 2 of 4: Issues eligible for review
 Your application will be saved on every change.
 
-### Tell us why you disagree with our decision about your [issue] claim
-
-**Decision date: June 10, 2022**
+### Decision for [issue] dated [decision date]
 
 Tell us what you disagree with. You can choose more than one.(\*Required)
 
