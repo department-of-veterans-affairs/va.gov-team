@@ -10,7 +10,7 @@ QA was performed manually by team members.
 ## Defect report
 - Noted in the findings table below and in the attached spreadsheet above. -- _no major findings_
 - Additional findings reported outside of QA
-    - [#60661](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60661) - _our pr is merged, but full fix to component is pending a design system release_
+    - [#60661](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60661) - _our pr is merged, now pending a design system release which is scheduled for 7/5_
     - [#60845](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60845) 
 
 ## Accessibility Staging Review Prep
