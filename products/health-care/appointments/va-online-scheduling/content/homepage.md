@@ -62,7 +62,7 @@ URL: `https://va.gov/my-health/appointments/requests`
 
 Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/pending`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `Requests | Veterans Affairs`
 
 Breadcrumb: `VA.gov home > My HealtheVet > Appointments > Pending appointments`
 
