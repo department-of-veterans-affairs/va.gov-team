@@ -51,7 +51,7 @@ The base URL for accessing the API is: `[base-path]/actions`
 
 ### Demographics
 
-#### `GET /demographics`
+#### `GET /demographic-confirmations`
 - Description: This endpoint is for retrieving demographics information which includes a field indicating if insurance verification is needed, patient contact information, emergency contact information and next-of-kin contact information.
   - Requirements for patient check-in:
     - all three `needsConfirmation` fields need to be `false`
@@ -64,14 +64,32 @@ The base URL for accessing the API is: `[base-path]/actions`
   - Status Code: 200 OK
   - Body (object): The demographics object
     - `insuranceVerificationNeeded` (boolean)
-    - `needsConfirmation`
-    - `mailingAddress`
-    - `residentialAddress`
-    - `homePhone`
-    - `officePhone`
-    - `cellPhone`
-    - `email`
-    - `emergencyContact`
+    - `needsConfirmation` (boolean)
+    - `mailingAddress` (object)
+      - `street1` (string)
+      - `street2` (string)
+      - `street3` (string)
+      - `city` (string)
+      - `county` (string)
+      - `state` (string)
+      - `zip` (string)
+      - `zip4` (string)
+      - `country` (string)
+    - `residentialAddress` (object)
+      - `street1` (string)
+      - `street2` (string)
+      - `street3` (string)
+      - `city` (string)
+      - `county` (string)
+      - `state` (string)
+      - `zip` (string)
+      - `zip4` (string)
+      - `country` (string)
+    - `homePhone` (string)
+    - `officePhone` (string)
+    - `cellPhone` (string)
+    - `email` (string)
+    - `emergencyContact` (object)
       - `needsConfirmation` (boolean)
       - `name` (string): "VETERAN,BROTHER"
       - `relationship` (string)
@@ -104,61 +122,21 @@ The base URL for accessing the API is: `[base-path]/actions`
         - `zip4` (string)
         - `country` (string)
 
-#### `PATCH /demographics`
+#### `PATCH /demographic-confirmations`
 - Description: Edit demographics by suppling fields you wish to modify
 - Request Body:
   - `patientDFN` (string): The unique identifier of the patient.
   - `stationNo` (string): The station number.
-  - `demographics` (object): The demographics object with the following fields
-    - `patientContactInfo` (object): The patient contact information
-      - `needsConfirmation` (boolean)
-    - `emergencyContact` (object): The emergency contact information
-      - `needsConfirmation` (boolean)
-    - `nextOfKin` (object):
-      - `needsConfirmation` (boolean)
+  - `demographicConfirmations` (object): The demographics object with the following fields
+    - `contactNeedsUpdate` (boolean)
+    - `emergencyContactNeedsUpdate` (boolean)
+    - `nextOfKinNeedsUpdate` (boolean)
 - Response:
   - Status Code: 200 OK
-  - Body (object): The updated demographics object
-    - `insuranceVerificationNeeded` (boolean)
-    - `needsConfirmation`
-    - `mailingAddress`
-    - `residentialAddress`
-    - `homePhone`
-    - `officePhone`
-    - `cellPhone`
-    - `email`
-    - `emergencyContact`
-      - `needsConfirmation` (boolean)
-      - `name` (string): "VETERAN,BROTHER"
-      - `relationship` (string)
-      - `phone` (string)
-      - `workPhone` (string)
-      - `address` (object)
-        - `street1` (string)
-        - `street2` (string)
-        - `street3` (string)
-        - `city` (string)
-        - `county` (string)
-        - `state` (string)
-        - `zip` (string)
-        - `zip4` (string)
-        - `country` (string)
-    - `nextOfKin`
-      - `needsConfirmation` (boolean)
-      - `name` (string): "VETERAN,BROTHER"
-      - `relationship` (string)
-      - `phone` (string)
-      - `workPhone` (string)
-      - `address` (object)
-        - `street1` (string)
-        - `street2` (string)
-        - `street3` (string)
-        - `city` (string)
-        - `county` (string)
-        - `state` (string)
-        - `zip` (string)
-        - `zip4` (string)
-        - `country` (string)
+  - Body (object): The updated demographicConfirmations object
+    - `contactNeedsUpdate` (boolean)
+    - `emergencyContactNeedsUpdate` (boolean)
+    - `nextOfKinNeedsUpdate` (boolean)
     
 ### Error Handling
 The API follows standard HTTP status codes for indicating the success or failure of a request. Additionally, specific error responses are returned with relevant error messages in the response body.
