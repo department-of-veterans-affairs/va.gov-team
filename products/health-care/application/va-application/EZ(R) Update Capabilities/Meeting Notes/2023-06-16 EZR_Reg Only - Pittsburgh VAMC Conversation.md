@@ -111,3 +111,11 @@
     - Need to run a data report on that. We get requests for it, though not so often for C&P. Those are now contracted out, we don’t do those in-house. For environmental registry exams and enrollments in research projects or our HUD VASH (homelessness) program.
 
 
+### Synthesis
+- Veterans mainly EZR forms to update financial information and sections that require wet signatures (dependent).
+- Veterans only get notified if their Priority Group changed. Staff thinks it is also valuable to notify Veterans when their Priority Group did not change.
+- VAMC staff will update demographic information with the veterans without going through EZR form.
+- Veterans prefer to work with the VAMC staff to update their information instead of being referred/redirected to eligibility staff for updating financial information, “Why can’t I work with you?”. 
+- All Veterans go through check-in to pre-register for their appointments; they would have to update their information then.
+- The next stage of care is delayed due to getting financial information from the family/caretaker as they don’t know how to navigate the process.
+
