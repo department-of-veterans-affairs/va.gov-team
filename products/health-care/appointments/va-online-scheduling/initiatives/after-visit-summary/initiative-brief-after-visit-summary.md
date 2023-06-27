@@ -28,10 +28,10 @@ A user can view the After Visit Summary once they have atteneded their appointme
 </details>
 
 ## Desired Outcomes
-- Enter details
-
+- A Veteran has access to their After Visit Summary after they have attended their health appointment. 
+ 
 ## Undesired Outcomes
-- Enter details
+- A Veteran does not have the capability to view their After Visit Summary 
 - 
 ## Key Decisions
 - Enter details
@@ -116,7 +116,7 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - Septmember 2023
 - *Actual Launch Date* 
   - tbd
 
@@ -135,9 +135,9 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 <details>
 
-- Team Name: VA Online Scheduling
-- GitHub Label(s): vaos 
-- Slack channel: #vaos-team
+- Team Name: Appointments Team
+- GitHub Label(s): appointments 
+- Slack channel: #appointments-team
 - Product POCs: Katherine Lawyer 
 
 </details>
