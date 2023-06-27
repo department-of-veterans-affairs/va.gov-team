@@ -23,8 +23,9 @@ Deep links produce a seamless user journey that reduces churn and increases the 
 We want to provide the veteran with the best user experience possible in order to drive conversion and retention rates in the app.
 
 **Assumptions and Level of Confidence**
-
 TBD
+
+
 **Risks**
 TBD
 
@@ -40,7 +41,7 @@ TBD
 
 
 **Measuring success**
-
+TBD
 
 
 **Open Questions**
@@ -52,8 +53,10 @@ Preference is to implement Deep Linking with secure messaging vs appointments. T
 
 2. Do Later have the conversion or retention rate increase in the app as a measure of success?
 
-3. .ill we need Content Support?
+3. Will we need Content Support?
 
 
 
 **Important Links**
+
+Epic: https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6037
