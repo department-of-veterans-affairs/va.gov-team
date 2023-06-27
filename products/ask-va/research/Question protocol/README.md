@@ -4,9 +4,11 @@
 This is ongoing research with VA business lines. There is no associated issue in the [Research Repository](https://github.com/orgs/department-of-veterans-affairs/projects/880).
 
 ## Background
-Through meetings or structured interviews with different business lines using a WIP Sketch prototype, we can determine which fields are required in order for agents to deliver the service. This is often called a question protocol. We should also review the agent survey responses to learn more about what is and is not working.
+Ask VA (AVA) is an online portal that allows Veterans, caregivers, and supporting personnel in education, debt, loans, etc. to submit questions to VA and receive a secure message response. Currently, Ask VA (AVA) resides within a stand-alone Microsoft portal that is inconsistent with the VA design standards, is not mobile-friendly, and has accessibility issues.
 
-This should also involve meeting with the CRM team to determine routing rules and limitations and reviewing the CRM team responses to our questions.
+We need to determine which fields are required in order for agents to deliver the service, which is often called a question protocol. In order to do this, we will meet with different business lines and share Sketch prototypes for feedback and discussion. We also reviewed a survey that agent's respond to monthyl, to learn more about what is and is not working for them.
+
+This work involves meeting with the CRM team to determine routing rules and limitations.
 
 ## Research Goals
 * Understand which fields are necessary in order for agents to deliver the service
