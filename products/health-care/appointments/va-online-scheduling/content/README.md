@@ -1,6 +1,6 @@
 # Appointments Content
 
-Appointments content is in the pages that follow and the [platform scheduling content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-briefs/Appointments.md).
+Appointments content is in the pages that follow and the [platform scheduling content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-briefs/appointments-content-brief.md).
 
 [Shared content across pages](./shared-content.md)
 
@@ -67,3 +67,15 @@ Appointments content is in the pages that follow and the [platform scheduling co
 | CC request | [Confirm contact information](./request-cc.md#contact-information) |
 | CC request | [Review and submit](./request-cc.md#review-appointment-details) |
 | CC request | [Confirmation details](./appointment-details.md#confirmed-1) |
+| VA direct-schedule COVID Vaccine | [Plan ahead](./schedule-va-covid.md#plan-ahead) | 
+| VA direct-schedule COVID Vaccine | [Received first dose screener](./schedule-va-covid.md#received-first-dose-screener) | 
+| VA direct-schedule COVID Vaccine | [End point: first dose received](./schedule-va-covid.md#end-point-dose-received-cant-schedule-online) | 
+| VA direct-schedule COVID Vaccine | [Choose location](./schedule-va-covid.md#vaccine---choose-location) | 
+| VA direct-schedule COVID Vaccine | [End point: no facilities online](./schedule-va-covid.md#end-point-no-facilities-online) | 
+| VA direct-schedule COVID Vaccine | [Choose a clinic](./schedule-va-covid.md#choose-a-clinic) | 
+| VA direct-schedule COVID Vaccine | [Choose a date](./schedule-va-covid.md#choose-a-date) | 
+| VA direct-schedule COVID Vaccine | [Second dose info](./schedule-va-covid.md#second-dose-info) | 
+| VA direct-schedule COVID Vaccine | [Contact information](./schedule-va-covid.md#contact-information) | 
+| VA direct-schedule COVID Vaccine | [Review and submit](./schedule-va-covid.md#review-and-submit) | 
+| VA direct-schedule COVID Vaccine | [Confirmation details](./schedule-va-covid.md#confirmation-details) | 
+

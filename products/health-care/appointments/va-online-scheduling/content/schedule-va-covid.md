@@ -253,8 +253,6 @@ Find VA facilities near you that offer COVID-19 vaccines
 
 ## Choose a clinic
 
-### Multiple Clinics Found
-
 **NAVIGATION**
 
 URL: `https://va.gov/my-health/appointments/schedule/covid-clinic`
@@ -279,14 +277,20 @@ Choose a clinic
 {Facility name} clinics offer vaccine appointments at different times.
 ```
 
-**PAGE CONTENT**
+**PAGE CONTENT - Multiple clinics**
 
 ```
 Choose where you’d like to get your vaccine. *Required)
 
 - {Clinic name}
 - {Clinic name}
+
 ```
+
+**PAGE CONTENT - Single clinic**
+
+[TBD]
+
 
 **PROGRESS BUTTONS**
 
@@ -303,7 +307,7 @@ Please select a clinic for your appointment
 ```
 
 
-## Calendar
+## Choose a date
 
 
 **NAVIGATION**
@@ -397,7 +401,7 @@ Plan to return after {21 days after calendar date selection}
 
 ---
 
-## Contact Info
+## Contact Information
 
 **NAVIGATION**
 
@@ -466,7 +470,7 @@ Please enter a valid email address
 
 ---
 
-## Review 
+## Review and submit
 
 **NAVIGATION**
 
@@ -519,9 +523,9 @@ Your contact details         [Edit]{Link}
 
 ---
 
-## Confirmation Page
+## Confirmation Details
 
-See [confirmation states](appointment-details.md#confirmation-states) in the apoointment detail pages copy doc
+See [confirmation state](appointment-details.md#va-in-person-vaccine-appointment---confirmed) in the appointment detail pages copy doc.
 
 ---
 
