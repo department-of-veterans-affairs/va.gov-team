@@ -4,9 +4,9 @@ Last updated by @tygindraux on June 27, 2023
 
 ## 1: Question protocol
 
-Through meetings or structured interviews with different business lines using a WIP Sketch prototype, we can determine which fields are required in order for agents to deliver the service. This is often called a question protocol. We should also review the agent survey responses to learn more about what is and is not working.
+Through meetings or structured interviews with different business lines using a WIP Sketch prototype, we can determine which fields are required in order for agents to deliver the service. This is often called a [question protocol](https://www.uxmatters.com/mt/archives/2010/06/the-question-protocol-how-to-make-sure-every-form-field-is-necessary.php). We should also review the [agent survey responses](https://drive.google.com/drive/folders/1fzvPNHl5RHBPesUOwRf-wFq_bK5QXcfy?usp=drive_link) to learn more about what is and is not working.
 
-This should also involve meeting with the CRM team to determine routing rules and limitations and reviewing the CRM team responses to our questions.
+This should also involve meeting with the CRM team to determine routing rules and limitations and reviewing the [CRM team responses](https://docs.google.com/document/d/16kPSXAHtFiuZIaLrbc19t7wkctAy8ID1/edit) to our questions.
 
 |Goal|Research questions|
 |:--|:--|
