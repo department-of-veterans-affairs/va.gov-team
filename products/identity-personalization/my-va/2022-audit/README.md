@@ -116,15 +116,15 @@ To mitigate each of the problems above, we plan to do the following:
 
 |KPI/metric|Baseline: <br />1 month pre-launch to 25% <br />(3/10/23 - 4/09/23)|1 month post-launch to 100% <br />(4/25/23 - 5/24/23)| 2 months post-launch to 100% <br />(5/25/23 - 6/24/23)|
 |----------|-------------|---------------|-------------------|
-|Search rank for "**gi bill**” or similar from My VA (whichever comes first)|#28 (282 instances)|#44 (177 instances)|TBD|
-|Search rank for "**coe**” or "certificate of eligibility" from My VA (whichever comes first)|#4 (970 instances)|#6 (860 instances)|TBD|
+|Search rank for "**gi bill**” or similar from My VA (whichever comes first)|#28 (282 instances)|#44 (177 instances)|#46 (230 instances)|
+|Search rank for "**coe**” or "certificate of eligibility" from My VA (whichever comes first)|#4 (970 instances)|#6 (860 instances)|#5 (1,080 instances)|
 
 **KPI: Establish baseline metrics for clicks into new links from My VA.**
 
 |KPI/metric| 1 month post-launch to 100% <br />(4/25/23 - 5/24/23)|2 months post-launch to 100% <br />(5/25/23 - 6/24/23)|
 |----------|---------------|-------------------|
-|Clicks into "Compare GI Bill benefits by school" from My VA |5,105|TBD|
-|Clicks into "Check your Post-9/11 GI Bill statement of benefits" from My VA |53,301|TBD|
+|Clicks into "Compare GI Bill benefits by school" from My VA |5,105|6,284|
+|Clicks into "Check your Post-9/11 GI Bill statement of benefits" from My VA |53,301|65,277|
 
 ## Key deliverables
 
