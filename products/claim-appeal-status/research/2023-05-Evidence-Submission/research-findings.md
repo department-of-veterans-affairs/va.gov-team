@@ -25,16 +25,12 @@ See full Research Plan [here](https://github.com/department-of-veterans-affairs/
 
 ## Methodology 
 
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
-
+Remote usability testing sessions with Veteran participants
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
+1. The new design will help Veterans distinguish between different claims in CST.
+**MAYBE TRUE**. Participants didn't appear to have any problems distinguishing between claims in CST. There wasn
 
 _Hypothesis statement_
 
