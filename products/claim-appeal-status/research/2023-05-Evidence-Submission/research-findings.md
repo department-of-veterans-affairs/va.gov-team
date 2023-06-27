@@ -29,13 +29,30 @@ Remote usability testing sessions with Veteran participants
 
 ## Hypotheses and Conclusions
 
-1. The new design will help Veterans distinguish between different claims in CST.
-**MAYBE TRUE**. Participants didn't appear to have any problems distinguishing between claims in CST. There wasn
+*1. The new design will help Veterans distinguish between different claims in CST.*
 
-_Hypothesis statement_
+**MAYBE TRUE**. Participants didn't appear to have any problems distinguishing between claims in CST. There wasn't any conclusive evidence,     however, that the new design was responsible, since we didn't compare the new design directly to the current design as a control. We also didn't see Claim IDs impact this in any significant way, as we were expecting they might. In sum, users had no trouble distinguishing between the two claims in the prototype, but it wasn't clear exactly why. 
 
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+*2. Veterans will prefer the new Status page to the old Status page overall.*
 
+**TRUE**. Almost all participants conclusively stated that they preferred the new design to the current design. Participants cited the visual design and specifcity of detail as the primary reasons why they preferred it. 
+
+
+*3. The new design will give Veterans a strong understanding of what is happening with their claim at any given time.*
+
+WIP
+
+*4. The new design will help Veterans distinguish between requests for them that they need to act on and requests for third parties that they don't need to act on.*
+
+WIP
+
+*5. The new design will make it easy for Veterans to see requests for evidence submission and understand what those requests are.*
+
+WIP
+
+*6. The new design will make it clear to Veterans whether or not they need to take any action to advance their claim.*
+
+WIP
 
 ## Key Findings
 
