@@ -123,7 +123,7 @@ Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/
 
 Page title: `[Page Header] | Veterans Affairs`
 
-Breadcrumb: `VA.gov home > My HealtheVet > Appointments > Past`
+Breadcrumb: `VA.gov home > My HealtheVet > Appointments > Past appointments`
 
 **PAGE HEADER**
 
