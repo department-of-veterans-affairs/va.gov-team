@@ -33,7 +33,7 @@ Through moderated usability testing with users we should use a coded, working pr
 |Review where Ask VA should live and be linked to from|Where are people when they realize they might need to ask a question?<br>Which steps do they take when they have a question? As examples, do they use the search, go to contact us, or something else?<br>Where do people expect to go to find AVA?|
 |Review how users experience authentication|Why do people choose to sign in or not?<br>Is it clear when sign in is and is not required?<br>Are people able to sign in if they need to?|
 
-## 4: Future Ask VA Comparative study
+## 4: Future Ask VA comparative analysis
 
 Through a comparative analysis of similar online “Contact us” experiences, we’ll examine how other organizations have approached answering user questions through embedded forms.
 
