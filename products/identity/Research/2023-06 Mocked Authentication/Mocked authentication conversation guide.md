@@ -44,6 +44,7 @@
       - [WAIT FOR RESPONSE]
 
 
+
 ## Questions: Mock Auth for devs | 5 minutes
 
 - I’d like to start with a few questions to get to know how you work and how mocked authentication might fit into your workflow.
@@ -51,22 +52,21 @@
    - [REFER BACK TO THIS LATER]
 - What environments do you normally work through?
    - [LISTEN FOR local environment, dev.va.gov]
-- How do you test that the changes you made are working as intended?
+- How do you test that the changes you made to code you are working on are then working with exsisting VA code as intended?
    - [PROMPT] Where do you go? What steps do you take?
 - When testing do you ever simulate authentication into VA?
    - Can you tell me about that? No need to get into the technical details.
       - [PROMPT] Do you generate your own mocked credentials every time you need them?
    - What pain points do you have with that process?
    - How much time would you say that you normally spend on simulated authentication?
-      - In an average sprint? On a standard project?
+      - In an average sprint?
 - If you could create your own process to simulate sign in to the VA that you could use to check your code, what would you be sure to include?
    - Is there an account type you normally use (LIG, IDme, MHV)?
-   - Where do you sign in from (VA.gov, MHV, etc)?
 - Thinking about development tools or dashboards from the VA that you might use when developing, what is the process you take to locate those (like Lighthouse API)?
-   - [PROMT] like do you save bookmarks? Keep tabs open? Go to Platform website? Slack?
+   - [PROMPT] like do you save bookmarks? Keep tabs open? Go to Platform website? Slack?
       - [IF SLACK] which channel?
 - How do you find out about VA resources that are available to make your development process more efficient (like Lighthouse API)?
-   - [PROMT] Slack reminders? Platform website? ToTs announcements?
+   - [PROMPT] Slack reminders? Platform website? ToTs announcements?
 - How do you keep up with new standards?
 
 
@@ -75,7 +75,6 @@
 - Now we’d like to take you to the Mocked Authentication page. I'm going to send you a link in the zoom chat. I'll ask that you open the link and then when you are ready to share your screen, so I can watch you use the prototype design
    - [SEND PARTICIPANT [prototype link](https://dev.va.gov/sign-in/mocked-auth)]
    - [IF PARTICIPANT would normally code in local then “image you were checking your code on the dev stack…”]
-- Is this the first time you are seeing this?
 - If you found the link on your own and came here, is it clear what you would do next?
    - Would you generally jump right in on a tool like this, or do you generally prefer to read documentation first?
    - What information would be helpful to know before you get started here?
@@ -92,12 +91,14 @@
 - Ok now we’re on this next page…
    - [GO FORWARD to it if still on prev page]
 - Is it clear what you need to do on this page?
-- How would you decide which mock user profile to select?
-- Can you adequately choose the mock user you need from this page?
-- How are you deciding which mock user to select? 
+- How would you normally decide which mock user profile to select?
    - What about if you need one that you don’t normally use?
+- Can you adequately choose the mock user you need from this page?
+   - Is the info on the right helpful? 
 - Is there anything on this page that seems confusing, like it’s not needed, or like it’s missing?
-   - [IF NEEDED - specifically call out the presentation of the mock user info in code]
+   - Is the information under the dropdown useful?
+- Would it make a difference if this page and the previous page were on 1 page instead of 2?
+   - would that be better or worse or not much different?
 - Go ahead and take the next step as you might if I were not here.
    - Now that you are in a mock signed-in state, is there anything else you’d need from an identity standpoint here to continue working on and checking your code?
 
