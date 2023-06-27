@@ -127,7 +127,7 @@ Add Another Condition
 
 ## [Condition name]
 
-How is your disability connected to your service? (*Required)
+How is your disability related to your service? (*Required)
 
 [ ] My disability was caused by an injury or exposure during my military service. [option 1]
 
