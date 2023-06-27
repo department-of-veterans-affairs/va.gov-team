@@ -52,26 +52,30 @@ How might we rebuild this application so that we clearly define the Veteran use 
 * _Include links to Domo or Google Analytics Dashboards/Reports_
 * _**Limit 5-6 KPIs per product**__
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
+| Category | KPI | Baseline as of date | Target | Link to data source  |
 |----------|-------------|--------------------|--------------------|--------|
-| KPI      | Medallia surveys (qual) |Funnel: reach results screen (GA)|Funnel: "apply now"|        |
-| KPI      |             |                    |                    |        |
+| Funnel: reach results screen (GA)   | Open an accordion | n/a | [find typical range] | [domo dash TBD] |
+| Funnel: Apply now | % of accordion openers who click "Apply now" on the results screen | n/a | 2.0% | [domo dash TBD] |
+| Satisfaction | C-sat scores from Medallia (Overall satisfaction and VAgov experience rating) | n/a | ≥[check par for VAgov] | domo dash |
+| Focused interaction | How many accordions opened per user | n/a | 2 (warning = 3, problem = 4+) | [domo]
+| Business impact/confusion | Call center traffic about /income-limits | n/a | [find docs about this data ] | [see docs] |
+| Secondary funnel: Learn more | % of accordion openers who follow a learn-more link | n/a | 3% | [domo] |
+| Secondary funnel: neutral/positive impact to Learn/apply journey | [talk to content team about health monitoring]
 
 #### Baseline KPI Values
 _Is any baseline data available for old Teamsite version?_
-
-### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-- Objective: Veterans are informed of the income limits that apply to their location and number of dependents
-  - Key result: XX % of Veterans who click "Get started" reach the results screen
-  - Key result: 
 
 
 ---
 
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- The primary use case is to funnel people into Apply now
+- Secondary use case is to help people on their learning journey
+- Opening one or two accordions indicates focus on a user's actual income and how their benefits may be impacted
+- The accordion pattern is more effective than displaying a table (verified in usability research)
+- Aid-and-attendance and Housebound thresholds were determined unnecessary for Veteran scenarios
+- Veterans don't need/want details about how thresholds are calculated (GMT, NMT, 10% addition, etc.)
 
 ## Solution Approach
 
