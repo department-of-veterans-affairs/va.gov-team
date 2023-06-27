@@ -1,6 +1,6 @@
 # Project outline: My VA audit, updates, and documentation
 
-**Last updated: May 30, 2023 - updated 1 month metrics**
+**Last updated: June 27, 2023 - updated 2 month metrics**
 
 ### Communications
 
