@@ -1,6 +1,6 @@
 # Research roadmap
 
-Note: This is based on these research questions. Now, the goals and questions are organized into distinct studies. The studies have been prioritized with Ruchi. 
+Last updated by @tygindraux on June 27, 2023
 
 ## 1: Question protocol
 
