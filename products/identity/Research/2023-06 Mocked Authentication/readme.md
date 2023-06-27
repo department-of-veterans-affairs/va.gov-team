@@ -19,6 +19,6 @@ The goals of this research are to
 | --- | ---|
 | Planning | June |
 | Recrtuiting | June |
-| Pilot | TBD |
-| Sessions | TBD |
-| Analysis | TBD |
+| Pilot | June 26 |
+| Sessions | June 28 - July 3 |
+| Analysis | July |
