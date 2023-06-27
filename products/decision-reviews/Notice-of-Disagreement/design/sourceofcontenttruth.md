@@ -22,16 +22,18 @@ Primary Button: **Sign in to start your request**
 ## Follow these steps to request a Board Appeal
 
 ### 1. Check to be sure you can request a Board Appeal
-> You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
-> **If our decision involves a contested claim,** the Board must receive your completed form within 60 days from the date listed on your decision notice. A contested claim is when a favorable claim decision for one person results in denial or reduced benefits for another person.
+You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
 
-> **If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
-    * Within 60 days from the date on the SSOC letter, **or**
-    * Within 1 year of the decision date by the agency of original jurisdiction
+**If our decision involves a contested claim,** the Board must receive your completed form within 60 days from the date listed on your decision notice. A contested claim is when a favorable claim decision for one person results in denial or reduced benefits for another person.
+
+**If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
+- Within 60 days from the date on the SSOC letter, **or**
+- Within 1 year of the decision date by the agency of original jurisdiction
+
 You can request a Board Appeal for these claim decisions:
-    * An initial claim
-    * A Supplemental Claim
-    * A Higher-Level Review
+- An initial claim
+- A Supplemental Claim
+- A Higher-Level Review
 **Note:** You can’t request a Board Appeal if you’ve already requested one for this same claim.
 
 ### 2. Gather your information
@@ -100,16 +102,18 @@ Action Link: **[Sign in to start your request](https://staging.va.gov/decision-r
 ## Follow these steps to request a Board Appeal
 
 ### 1. Check to be sure you can request a Board Appeal
-> You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
-> **If our decision involves a contested claim,** the Board must receive your completed form within 60 days from the date listed on your decision notice. A contested claim is when a favorable claim decision for one person results in denial or reduced benefits for another person.
+You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
 
-> **If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
-    * Within 60 days from the date on the SSOC letter, **or**
-    * Within 1 year of the decision date by the agency of original jurisdiction
+**If our decision involves a contested claim,** the Board must receive your completed form within 60 days from the date listed on your decision notice. A contested claim is when a favorable claim decision for one person results in denial or reduced benefits for another person.
+
+**If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
+- Within 60 days from the date on the SSOC letter, **or**
+- Within 1 year of the decision date by the agency of original jurisdiction
+
 You can request a Board Appeal for these claim decisions:
-    * An initial claim
-    * A Supplemental Claim
-    * A Higher-Level Review
+- An initial claim
+- A Supplemental Claim
+- A Higher-Level Review
 **Note:** You can’t request a Board Appeal if you’ve already requested one for this same claim.
 
 ### 2. Gather your information
