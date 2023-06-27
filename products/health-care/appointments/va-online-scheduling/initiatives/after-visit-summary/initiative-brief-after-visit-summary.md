@@ -32,7 +32,7 @@ A user can view the After Visit Summary once they have atteneded their appointme
  
 ## Undesired Outcomes
 - A Veteran does not have the capability to view their After Visit Summary 
-- 
+
 ## Key Decisions
 - Enter details
 
