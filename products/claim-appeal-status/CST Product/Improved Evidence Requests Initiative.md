@@ -77,23 +77,41 @@ Our core bet is that if veterans are able to clearly identify when requests for 
 * Veterans will be less confused about evidence requests if we make it extremely clear whether the request is for them or a third party and what the request is. 
 * Veterans will take action to submit requested evidence if evidence requests are easier to find in the UI. 
 
-## MVP
+# MVP
+
+## Phase 1: Light Changes to the Claims Listing Page 
 
 ### Hypotheses to test
 
-1. Veterans will be less confused about evidence requests if we make it extremely clear whether the request is for them or a third party and what the request is. 
-    * KPIs: Veteran clarity on evidence requests (VBMS Events Metrics), Contact center call volume and duration (Contact Center), Bounce rate, Time on page, Medallia feedback and ratings (Site Metrics)
-
-2. Veterans will take action to submit requested evidence if evidence requests are easier to find in the UI.
-    * KPIs: Evidence Submission Conversion Rate, Journey to Evidence Submission, Repeat Evidence Submissions (Site Metrics)
+1. Veterans will be less confused about evidence requests if we make it extremely clear whether the request is for them or a third party and what the request is.
+    * KPIs: 
+        * Veteran clarity on evidence requests (VBMS Events Metrics)
+        * Contact center call volume and duration (Contact Center)
+        * Bounce rate, Time on page, Medallia feedback and ratings (Site Metrics)
 
 ### Proposed In-scope functional requirements
 
-1. Light changes to the claims listing page, just adding claim IDs to the listing cards and changing the card sorting logic to move those claims with open evidence requests to the top of the stack.
+1. Add claim IDs to the listing cards on the claims listing page
+2. Change the card sorting logic to move those claims with open evidence requests to the top of the stack.
 
-2. Big changes to the claims detail view, which will be redesigned to break the page into two main parts, the first telling the veteran exactly what outstanding requests they need to action are are and the second showing other open requests intended for third parties.
+## Phase 2: Major Changes to the Claims Detail View
+
+### Hypotheses to test
+
+2. Veterans will take action to submit requested evidence if evidence requests are easier to find in the UI.
+    * KPIs:
+        * Evidence Submission Conversion Rate (Site Metrics)
+        * Journey to Evidence Submission (Site Metrics)
+        * Repeat Evidence Submissions (Site Metrics)
+
+### Proposed In-scope functional requirements
+
+1. Redesign the claims detail view to break the page into two main parts:
+    * The first part should clearly tell the veteran what outstanding requests they need to take action on.
+    * The second part should show other open requests intended for third parties.
 
 These improvements to the user interface will directly contribute to our ability to test the above hypotheses and track the corresponding KPIs.
+
 
 ### Additional opportunities after technical discovery
 
