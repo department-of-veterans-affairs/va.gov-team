@@ -14,7 +14,9 @@
 During the [useability study to add email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023), we noticed that users were struggling with the current update flow for updating email or mobile phone when attempting to view the notification settings. We will re-engineer the workflow for updating a user's contact information from the notifications setting page in order to reduce confusion for users.
 
 **Related/Associated product(s)**
-- Product | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences)
+This essentially sits between two of our products and allows users to "Edit as a Sub-Task". This new page sits between the two products, a user on the notification settings screen will see a call to action advising them of missing information. Following the CTA will allow them to enter in the missing information which will update the contact information. Once submitted, the user will return them to the notifications screen. 
+- [Notification Settings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences)
+- [Contact information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
