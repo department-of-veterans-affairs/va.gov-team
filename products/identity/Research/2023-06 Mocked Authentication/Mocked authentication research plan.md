@@ -25,32 +25,38 @@ Remote usability testing will evaluate the prototype with participants who are e
 
 ## Research materials
 
-- [Conversation guide]()
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0a00164e8c062cdff20d4b65d3e3e698955eb522/products/identity/Research/2023-06%20Mocked%20Authentication/Mocked%20authentication%20conversation%20guide.md)
 - [Product link](https://dev.va.gov/sign-in/mocked-auth)
 
 
 ## Recruitment
 
+We will recruit 3-4 VFS developers from other teams. We’ll first check with a couple developers that Joe and Trevor recommend, who might be interested. We’ll direct message them in slack with:
+> Hi [NAME]! The Identity Core team is working on gathering information to better understand and improve the Mock Authentication experience. We are looking for developers to participate in a short usability test.
+>
+> Joe and Trevor from the team recommended that we reach out to you. Sessions will be about 30-45 minutes. Would you be willing to set aside some time to test with us?
+
+If we don’t reach 3 participants, we’ll post a message in DSVA slack channel #general and cross post in #accountexp-authexp and #vsp-identity. The slack message we’ll use:
+
+>Looking for developer input
+>
+>The Identity Core team is working on gathering information to better understand and improve the Mock Authentication experience. We are looking for participants to take part in a short usability test. Sessions will be about 30-45 minutes. Please leave a comment here or DM Clayton Zook if you would be willing to set aside some time to test with us next week 
 
 ### Recruitment criteria
 
-- 3 VFS developers/engineers who are likely users of this product
+- 3-4 VFS developers/engineers who are likely users of this product
 
 ## Timeline
 
-Recruiting: TBD
-Pilot: TBD
-Sessions: TBD
+- Recruiting: June 21 - June 26
+- Pilot: June 26
+- Sessions: Last week of June to first week of July
 
-
-### Research sessions
-
-Planned dates of research: TBD
-Session length: 30-minute sessions
 
 
 ## Team Roles
-- Moderator:
+- Moderator: Clayton Zook, Amanda Porter
 - Research guide writing and task development: Clayton Zook
 - Project point of contact: Clayton Zook
-- Note-takers: 
+- Recruiting: Amanda Porter
+- Note-takers: Amanda Porter, Charlye Tran, Clayton Zook
