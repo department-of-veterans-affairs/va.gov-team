@@ -74,17 +74,17 @@ Let’s start with a few warm-up questions.
 
 ## Second Topic: [Priority Group Awareness] - 5 minutes
 - Do you know what Priority Group you are in for your health care benefits now?
-- Can you please describe how this was communicated to you and how you understood the impact to you and your health care benefits?
+- Can you please describe how this was communicated to you and how you understood the impact to you and your benefits?
 - Before you completed enrollment, were you aware of Priority Groups or copays as part of the health care benefits package?
 - [if yes] Can you tell me more about what you knew before you applied and how you learned that information?
-- Since you have been using your benefits, what do you now know about Priority Groups and the impact they have on you and health care benefits.
-- If you had a magic wand, can you describe to me what you would change in regards to Priority Groups and health care benefits?
+- Since you have been using your benefits, what do you now know about Priority Groups and the impact it has on you and health care benefits?
+- If you had a magic wand, can you describe to me what you would change in regards to health care groups and benefits?
 
 
 ### Things to watch for:
-- [Do they know confidently know their Priority Group and what that means to them and their benefits?]
+- [Do Veterans' confidently know their Priority Group and what that means to them and their benefits?]
 - [What is the current process and experience around Prioity Groups?]
-
+- [What are the knowledge gaps around Priority Groups and health care costs?]
 
 ---
 Cohort Scenarios (Possible 3 or 4), 
