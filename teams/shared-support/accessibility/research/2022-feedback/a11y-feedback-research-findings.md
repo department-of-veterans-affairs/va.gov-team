@@ -71,7 +71,7 @@ The following teams working on feedback mechanisms may be particularly intereste
 #### Ask VA team
 - The new Ask VA team should look to collaborate with disabled Veterans groups as early and often as possible.
 - For example, connecting with Tim Hornik (Blinded Veterans Association's Chief of Staff) or Chris Walker from the 508 office could be a valuable starting point.
-- We recommend exploring groups beyond those limited to vision based disabilities as well. For example, consulting VSO groups and medical staff with experience asking questions related to MST (military sexual trauma) and PTSD (post traumatic stress disorder).
+- As this discovery research focused on a small subset of assistive technology users, we recommend anticipating and exploring more disabled communities who may use this feature. For example, consulting VSO groups and medical staff with experience asking questions related to MST (military sexual trauma) and PTSD (post traumatic stress disorder). 
 
    
 ## OCTO Objectives
