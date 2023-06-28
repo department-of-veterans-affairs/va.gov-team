@@ -34,12 +34,11 @@ ________________________________________________________________________________
             - Needs to be broken down 
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Create Feature Flag 'check-in-mobile-messaging'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60998)
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Create a CHIP Endpoint for Getting Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59895)
+        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - setup authenticated check-in endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61029)
+        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - authenticated check-in endpoint - add status changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61030)
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - authenticated check-in - fetch demographics statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61031)
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Create a CHIP Endpoint for Patching Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60985)
-        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - authenticated check-in endpoint - add status changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61030)
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Add & Deploy 2 Demographics Endpoints on AWS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60991)
-        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Create a CHIP Endpoint to Perform Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59896)
-        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - setup authenticated check-in endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61029)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create New VA Notify Templates for Text Message to include Information about Checking in with Mobile App](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59755)       
     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56702)
