@@ -1,5 +1,5 @@
 # Household section optimization - Release Plan 
-- Last updated 6/22/2023
+- Last updated 6/28/2023
 
 
 ## Step 1: Development
@@ -30,7 +30,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 ### Define the Rollback process
 
-- Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to disable the toggle.
+- PM and Data Analyst will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to disable the toggle and begin triage.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
@@ -66,7 +66,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Rollout Planning
 
 - Desired date range:
-     - 7/30/2023 - 8/11/2023
+     - 7/17/2023 - 7/31/2023
 - How will you make the product available in production while limiting the number of users who can find/access it:
      - Feature Toggle limiting % of traffic to the application
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
@@ -95,6 +95,7 @@ This is based on a third of current exit rates converting to successful submissi
      - Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - Who is monitoring the dashboard(s)?:
      - Product Manager
+     - Data Analyst
 
 
 
