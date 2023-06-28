@@ -1,4 +1,4 @@
-# **MHV on VA.gov, Medical Records, May 2023 Research Findings**
+  # **MHV on VA.gov, Medical Records, May 2023 Research Findings**
 
 **Office of the CTO - Digital Experience (OCTO-DE), MHV on VA.gov Team**
 
@@ -90,7 +90,7 @@ Task 5: Share Your Medical Records
    
 **3. Some of the H1s will be a barrier to some Veterans' finding their medical records.**
    
-   LIKELY TRUE: Many participants misunderstood the connotation of "share" in 'Share your medical records' while others avoided 'Health history' when searching for records. Many participants equated 'Share your medical records' with their actual medical records, rather than 'Health history.'
+   LIKELY TRUE: Many participants misunderstood the connotation of "share" in 'Share your medical records' while others avoided 'Health history' when searching for records. Many participants equated 'Share your medical records' with their   actual medical records, rather than 'Health history.'
 
 **4. Some of the medical terminology and acronyms will be a barrier to some Veterans' understanding and/or interpreting their medical records.**
 
@@ -99,11 +99,13 @@ Task 5: Share Your Medical Records
 ## **Key Findings**
 
 1. **Most participants (15 of 21) were able to find health information in more than 60% of the tasks** without assistance.
-  1. **Most participants were able to find health records in 'Lab and test results**.'
-      1. **Most participants (17 of 21) found the newest EKG record in 'Lab and test results**.'
-      1. **Most participants (13 of 21) identified the EKG as the newest based on the reverse chronological order of the records** in 'Lab and test results.'
-      2. **Most participants (15 of 20) found an x-ray result record from March 2022 in 'Lab and test results.'**
-      3. **Most participants (20 of 21) found their Complete Blood Count results from October 3, 2021 in 'Lab and test results.'**
+    1. **Most participants were able to find health records in 'Lab and test results**.'
+        1. **Most participants (17 of 21) found the newest EKG record in 'Lab and test results**.'
+      
+           1. **Most participants (13 of 21) identified the EKG as the newest based on the reverse chronological order of the records** in 'Lab and test results.'
+
+          3. **Most participants (15 of 20) found an x-ray result record from March 2022 in 'Lab and test results.'**
+        3. **Most participants (20 of 21) found their Complete Blood Count results from October 3, 2021 in 'Lab and test results.'**
       2. **Most participants (11 of 20) were able to locate an admission and discharge summary in 'Care and summary notes.'**
       3. **Most participants (16 of 17) were able to find the Allergies list.**
       4. **All participants (20 of 20) found the date of the fall 2022 flu vaccine.**
@@ -126,7 +128,7 @@ Task 5: Share Your Medical Records
     1. **All participants (20 of 20) successfully printed the list of vaccines** without assistance.
     2. **Most participants (16 of 19) successfully printed the Penicillin record** on the Allergies page without assistance.
     3. **Most participants (12 of 17) successfully downloaded the Blue Button report of all medical records** on the 'Share your medical records' page without assistance.
-      1. **All participants (5 of 5) who****failed the task are current My Health **_** e **_** Vet users.**
+      1. **All participants (5 of 5) who failed the task are current My HealtheVet users.**
 1. **Most participants (12 of 18) are unfamiliar with the term "Blue Button Report."**
     1. **Most of those participants (8 of 12) who are unfamiliar with Blue Button are frequent MHV users.**
 2. **Most participants (12 of 16) were unable to find out how to add a new allergy** to their list.
@@ -136,186 +138,186 @@ Task 5: Share Your Medical Records
 4. **Most participants (10 of 16) who successfully found the x-ray results stated access to images is helpful.**
 5. **Most participants (11 of 21) accessed the "Questions about this medical records tool" to help them complete a task.**
 6. **Some participants (7 of 21) looked for medical records while in the Medical Records prototype.**
-  1. **Among those seven, 3 looked in 'Share your medical records' and 2 attempted to click on the 'Go back to medical records on My Health** _ **e** _ **Vet website.'**
+    1. **Among those seven, 3 looked in 'Share your medical records' and 2 attempted to click on the 'Go back to medical records on My HealtheVet website.'**
 7. **Most participants (10 of 12) who were asked what they were trying to learn while viewing the 'Complete blood count' results stated they were checking to see if each result was within the standard range.**
-  1. **Most participants (12 of 21) wanted an explanation of the non-standard results.**
-  2. **Some participants (4 of 21) were interested in information on how they could get the out-of-range results back into range.**
+    1. **Most participants (12 of 21) wanted an explanation of the non-standard results.**
+    2. **Some participants (4 of 21) were interested in information on how they could get the out-of-range results back into range.**
 8. **Most participants (13 of 21) stated they wanted the acronyms spelled out in the 'Complete blood count' results.**
 
 ## **Details of Findings**
 
 1. **Most participants were able to find health information in more than 60% of the tasks without assistance.**
 
-**15 of 21 participants successfully completed 60% of the given tasks in each of the six domains without assistance.** Participants were given 10 tasks to complete among the domains. Some tasks were skipped when technical difficulties led to a time shortage, so completion is considered in percent of tasks attempted.
+    **15 of 21 participants successfully completed 60% of the given tasks in each of the six domains without assistance.** Participants were given 10 tasks to complete among the domains. Some tasks were skipped when technical difficulties led to a time shortage, so completion is considered in percent of tasks attempted.
 
-  1. **Most participants were able to find health records in 'Lab and test results**.'
+    1. **Most participants were able to find health records in 'Lab and test results**.'
 
-**17 of 21 found the newest EKG record in 'Lab and test results**.' Two participants looked in 'Care summaries and notes' expecting to find it on an after-visit summary. The average time on task among successful participants was 16 seconds.
+        **17 of 21 found the newest EKG record in 'Lab and test results**.' Two participants looked in 'Care summaries and notes' expecting to find it on an after-visit summary. The average time on task among successful participants was 16 seconds.
 
-"_[The layout] is nice and clean. I like that, because… some of these things are things I would have looked up for [my Veteran husband] and it does offer details."_
+        "_[The layout] is nice and clean. I like that, because… some of these things are things I would have looked up for [my Veteran husband] and it does offer details."_
 
-**13 of 21 identified the EKG as the newest based on the reverse chronological order of the records in 'Lab and test results.'** Six participants struggled to recognize the order, but after the moderator prompted them to return to 'Lab and test results' they eventually did. Five participants automatically assumed or expected the results to be listed from newest to oldest and some requested information that stated that explicitly on the page or an option to sort the results.
+        **13 of 21 identified the EKG as the newest based on the reverse chronological order of the records in 'Lab and test results.'** Six participants struggled to recognize the order, but after the moderator prompted them to return to 'Lab and test results' they eventually did. Five participants automatically assumed or expected the results to be listed from newest to oldest and some requested information that stated that explicitly on the page or an option to sort the results.
 
-"_What should be on this page is… 'most recent' or 'from most recent to whatever'."_
+        "_What should be on this page is… 'most recent' or 'from most recent to whatever'."_
 
-**15 of 20 found an x-ray result record from March 2022 in 'Lab and test results.'** When the moderator asked the 5 participants who failed the task to find the record, it was clearly visible on the screen. Three participants left 'Lab and test results' and then returned without finding the record while two searched in 'Care summaries and notes.' The average time on task for successful participants was 8 seconds.
+        **15 of 20 found an x-ray result record from March 2022 in 'Lab and test results.'** When the moderator asked the 5 participants who failed the task to find the record, it was clearly visible on the screen. Three participants left 'Lab and test results' and then returned without finding the record while two searched in 'Care summaries and notes.' The average time on task for successful participants was 8 seconds.
 
-"_I'd probably stay here in Lab – no, no it would have to be… 'Health history'?"_
+        "_I'd probably stay here in Lab – no, no it would have to be… 'Health history'?"_
+  
+        **20 of 21 found their 'Complete blood count' results from October 3, 2021 in 'Lab and test results.'** The average time on task for successful participants was 21 seconds with mobile users performing an average of 10 seconds faster than desktop/laptop users.
 
-**20 of 21 found their 'Complete blood count' results from October 3, 2021 in 'Lab and test results.'** The average time on task for successful participants was 21 seconds with mobile users performing an average of 10 seconds faster than desktop/laptop users.
+    1. **Most participants were able to find health records in 'Care summaries and notes.'**
 
-  1. **Most participants were able to find health records in 'Care summaries and notes.'**
+       **11 of 20 found the 'Admission and discharge summary' from a hospital stay on April 6 and 7, 2023.** Amongthose that struggled with or failed the task altogether, 5 searched in 'Share your medical records,' 3 sought help in the 'Questions about this tool,' 2 attempted to click on the 'Go back to medical records on My HealtheVet website' link, and 3 stated they would message their provider. Several of these participants attempted more than one of these methods. The average time on task for successful participants was 53 seconds with mobile users performing an average of 12 seconds faster than desktop/laptop users.
 
-**11 of 20 found the 'Admission and discharge summary' from a hospital stay on April 6 and 7, 2023.** Amongthose that struggled with or failed the task altogether, 5 searched in 'Share your medical records,' 3 sought help in the 'Questions about this tool,' 2 attempted to click on the 'Go back to medical records on My HealtheVet website' link, and 3 stated they would message their provider. Several of these participants attempted more than one of these methods. The average time on task for successful participants was 53 seconds with mobile users performing an average of 12 seconds faster than desktop/laptop users.
+       **18 of 20 stated they would look in 'Health history' for a surgical consult note** when asked to choose between 'Lab and test results,' 'Health history,' and 'Share your medical records.' Among those who chose 'Health history,' 8 stated that they used the process of elimination and 1 participant said they guessed.
 
-**18 of 20 stated they would look in 'Health history' for a surgical consult note** when asked to choose between 'Lab and test results,' 'Health history,' and 'Share your medical records.' Among those who chose 'Health history,' 8 stated that they used the process of elimination and 1 participant said they guessed.
+    1. **Most participants were able to find health records in the 'Allergies.'**
 
-  1. **Most participants were able to find health records in the 'Allergies.'**
+       **16 of 17 were able to find the 'Allergies' page.** The average time on task for successful participants was 17 seconds with desktop/laptop users performing an average of 6 seconds faster than mobile users.
 
-**16 of 17 were able to find the 'Allergies' page.** The average time on task for successful participants was 17 seconds with desktop/laptop users performing an average of 6 seconds faster than mobile users.
+    1. **All participants were able to find a health record in 'Vaccines.'**
 
-  1. **All participants were able to find a health record in 'Vaccines.'**
+        **20 of 20 were able to find the flu shot (Influenza, Seasonal, Injectable) from October 28, 2022.** The average time on task was 28 seconds with mobile users performing an average of 1 second faster than desktop/laptop users. Most participants immediately found the 'Vaccines' page but needed time to identify the correct vaccine. For desktop/laptop users, the 'Health history' section in the navigation was expanded from the previous task, so participants could see it on the screen. Similarly, the 'Health history' portion of the menu was open on mobile.
 
-**20 of 20 were able to find the flu shot (Influenza, Seasonal, Injectable) from October 28, 2022.** The average time on task was 28 seconds with mobile users performing an average of 1 second faster than desktop/laptop users. Most participants immediately found the 'Vaccines' page but needed time to identify the correct vaccine. For desktop/laptop users, the 'Health history' section in the navigation was expanded from the previous task, so participants could see it on the screen. Similarly, the 'Health history' portion of the menu was open on mobile.
+        "_I like this… because on the current version of My HealtheVet, when I am trying to find out what immunizations and what vaccinations I've had, sometimes that can be a pain in the neck. This, I like."_
 
-"_I like this… because on the current version of My HealtheVet, when I am trying to find out what immunizations and what vaccinations I've had, sometimes that can be a pain in the neck. This, I like."_
+    1. **Most participants were able to find a health record in the 'Vitals.'**
 
-  1. **Most participants were able to find a health record in the 'Vitals.'**
+        **14 of 20 found blood pressure readings in 'Vitals.'** Among the participants who struggled with or failed the task, 3 searched in 'Lab tests and results' and 3 searched in 'Care summaries and notes.' The average time on task for successful participants was 15 seconds with desktop/laptop users performing an average of 6 seconds faster than mobile users.
 
-**14 of 20 found blood pressure readings in 'Vitals.'** Among the participants who struggled with or failed the task, 3 searched in 'Lab tests and results' and 3 searched in 'Care summaries and notes.' The average time on task for successful participants was 15 seconds with desktop/laptop users performing an average of 6 seconds faster than mobile users.
+     1. **Many participants were able to find a health record in 'Health conditions.'**
 
-  1. **Many participants were able to find a health record in 'Health conditions.'**
+        **9 of 21 found the high blood pressure diagnosis date of September 25, 2001, in 'Health conditions.'** Five of the nine successful participants volunteered in another task that they currently or previously suffered from a chronic or major illness. This likely indicates that they have had experience navigating their medical records. Among the participants who struggled with or failed the task, 6 started their search in 'Labs and test results,' and 4 started their search in 'Vitals.' There were 4 participants who had the record on the screen but did not know that 'hypertension' is the clinical name of high blood pressure while 4 participants made the connection but indicated uncertainty either directly or with their observable behavior. The average time on task for successful participants was 30 seconds with desktop/laptop users performing an average of 6 seconds faster than mobile users. Nine participants exhibited observable behavior that indicated hesitancy, uncertainty, and confusion.
 
-**9 of 21 found the high blood pressure diagnosis date of September 25, 2001, in 'Health conditions.'** Five of the nine successful participants volunteered in another task that they currently or previously suffered from a chronic or major illness. This likely indicates that they have had experience navigating their medical records. Among the participants who struggled with or failed the task, 6 started their search in 'Labs and test results,' and 4 started their search in 'Vitals.' There were 4 participants who had the record on the screen but did not know that 'hypertension' is the clinical name of high blood pressure while 4 participants made the connection but indicated uncertainty either directly or with their observable behavior. The average time on task for successful participants was 30 seconds with desktop/laptop users performing an average of 6 seconds faster than mobile users. Nine participants exhibited observable behavior that indicated hesitancy, uncertainty, and confusion.
+        "_Would it fall under 'Hypertension for [high blood pressure]? I think that's linked with Hypertension."_
 
-"_Would it fall under 'Hypertension for [high blood pressure]? I think that's linked with Hypertension."_
-
-LABELS: DSC: Card, DSC: Sidenav, PRDT: Medical-records, RESRCH: Usability
+        LABELS: DSC: Card, DSC: Sidenav, PRDT: Medical-records, RESRCH: Usability
 
 1. **Most participants did not notice or expand the various informational dropdowns.**
-  1. **19 of 21 did not notice or expand the 'What to know about [domain name]' informational dropdowns** within the 7 domains. One participant opened the link in 'Lab and test results' while trying to determine if the EKG record from March 3, 2022 was the most recent. Another participant was searching for how to add an allergy to their list in 'Allergies.' The moderator prompted him with, "Is there anything on here that might help you?" After some scrolling, he found it.
-  2. **15 of 20 did not notice or expand the 'Need help understanding your results?' informational dropdown** on the 'Complete blood count' results page. Among the 5 that did notice or expand the link, 3 were prompted by the moderator who asked, "What would you do within this website to try to understand [a result marked 'high']?"
+    1. **19 of 21 did not notice or expand the 'What to know about [domain name]' informational dropdowns** within the 7 domains. One participant opened the link in 'Lab and test results' while trying to determine if the EKG record from March 3, 2022 was the most recent. Another participant was searching for how to add an allergy to their list in 'Allergies.' The moderator prompted him with, "Is there anything on here that might help you?" After some scrolling, he found it.
+    2. **15 of 20 did not notice or expand the 'Need help understanding your results?' informational dropdown** on the 'Complete blood count' results page. Among the 5 that did notice or expand the link, 3 were prompted by the moderator who asked, "What would you do within this website to try to understand [a result marked 'high']?"
 
-**12 of 20 participants wanted an explanation of their results and even expected a link with more information** like the informational dropdown that was located above the first result in the 8-card list. Among those twelve, 8 were using mobile devices on which the viewport contained about one and one third cards.
+        **12 of 20 participants wanted an explanation of their results and even expected a link with more information** like the informational dropdown that was located above the first result in the 8-card list. Among those twelve, 8 were using mobile devices on which the viewport contained about one and one third cards.
 
-**7 of 20 participants stated they use Google or other online sources to understand their results.**
+        **7 of 20 participants stated they use Google or other online sources to understand their results.**
 
-"_I would need to go back to the report that was written by the radiologist so that I could see what it said. Then I would most likely have to Google that to find out what that actually meant to normal people so that I would know what was going on."_
+       "_I would need to go back to the report that was written by the radiologist so that I could see what it said. Then I would most likely have to Google that to find out what that actually meant to normal people so that I would know what was going on."_
 
-  1. **17 of 20 did not notice or expand the 'What to know about downloading records' informational dropdown** within the 7 domains plus 'Share your medical record.' The 3 participants who did notice or expand the dropdown were tasked with downloading the 'Complete blood count' results in 'Lab and test results.' Among those three, 2 were prompted by the moderator who asked, "What would you do if you were unsure about which to choose?" between PDF and TXT.
-  2. **11 of 14 did not notice or expand the 'What your Blue Button report includes' informational dropdown** on the 'Share your medical records page.' Among the 3 who did notice or expand the link, 2 were prompted by the moderator who asked, "What does Blue Button mean to you?" Two of those 3 were not current My Health_e_Vet users. The one My HealtheVet user had stated that they are familiar with Blue Button.
-  3. **11 of 19 did not notice or expand the 'What we share through VHIE' informational dropdown and 11 of 18 did not notice or attempt to select the "Learn more about VHIE" link** on the 'Share your medical records page.'
-
-LABELS: DSC: Additional info, PRDT: Medical-records, RESRCH: Usability
+      1. **17 of 20 did not notice or expand the 'What to know about downloading records' informational dropdown** within the 7 domains plus 'Share your medical record.' The 3 participants who did notice or expand the dropdown were tasked with downloading the 'Complete blood count' results in 'Lab and test results.' Among those three, 2 were prompted by the moderator who asked, "What would you do if you were unsure about which to choose?" between PDF and TXT.
+      2. **11 of 14 did not notice or expand the 'What your Blue Button report includes' informational dropdown** on the 'Share your medical records page.' Among the 3 who did notice or expand the link, 2 were prompted by the moderator who asked, "What does Blue Button mean to you?" Two of those 3 were not current My Health_e_Vet users. The one My HealtheVet user had stated that they are familiar with Blue Button.
+      3. **11 of 19 did not notice or expand the 'What we share through VHIE' informational dropdown and 11 of 18 did not notice or attempt to select the "Learn more about VHIE" link** on the 'Share your medical records page.'
+      
+         LABELS: DSC: Additional info, PRDT: Medical-records, RESRCH: Usability
 
 1. **Most participants understood how to download or print an individual record, a list, and their entire medical record.**
-  1. **18 of 21 successfully downloaded the 'Complete blood count' results without assistance.** All three participants who struggled with or failed the task were in their 70s but attempted to save the results with methods that indicated confidence with technology. Two participants wanted to right-click and choose 'save as,' while the other was looking for the download option available in the browser.
+    1. **18 of 21 successfully downloaded the 'Complete blood count' results without assistance.** All three participants who struggled with or failed the task were in their 70s but attempted to save the results with methods that indicated confidence with technology. Two participants wanted to right-click and choose 'save as,' while the other was looking for the download option available in the browser.
 
-**19 of 21 chose PDF** as their preferred file format. One participant chose TXT, and one did not answer the question. Two participants stated they prefer to print rather than download.
+       **19 of 21 chose PDF** as their preferred file format. One participant chose TXT, and one did not answer the question. Two participants stated they prefer to print rather than download.
 
-Among the reason participants gave for their preference for PDF are that they are easier to read than TXT files, they are universally accessible, they are difficult to alter, and they are more familiar.
+       Among the reason participants gave for their preference for PDF are that they are easier to read than TXT files, they are universally accessible, they are difficult to alter, and they are more familiar.
 
-  1. **20 of 20 successfully printed the list of vaccines without assistance.** Three participants were delighted with how easy it was with two comparing it to their current EHR.
+    1. **20 of 20 successfully printed the list of vaccines without assistance.** Three participants were delighted with how easy it was with two comparing it to their current EHR.
 
-"_This is easy! Boy, it's so much better than my own. It's like day and night."_
+        "_This is easy! Boy, it's so much better than my own. It's like day and night."_
 
-  1. **16 of 19 successfully printed the Penicillin record on the 'Allergies' page without assistance**. All three participants who struggled with the task thought they had to download the list to get the one record. They were all My HealtheVet users.
+     1. **16 of 19 successfully printed the Penicillin record on the 'Allergies' page without assistance**. All three participants who struggled with the task thought they had to download the list to get the one record. They were all My HealtheVet users.
 
-**12 of 17 successfully downloaded the Blue Button report of all medical records on the 'Share your medical record page' without assistance.** The average time on task for successful participants was 31 seconds with desktop/laptop users performing an average of 2 seconds faster than mobile users.
+        **12 of 17 successfully downloaded the Blue Button report of all medical records on the 'Share your medical record page' without assistance.** The average time on task for successful participants was 31 seconds with desktop/laptop users performing an average of 2 seconds faster than mobile users.
 
-Participants expressed concern that downloading the Blue Button would take hours and result in a lengthy file.
+        Participants expressed concern that downloading the Blue Button would take hours and result in a lengthy file.
 
-**All participants (5 of 5) who****failed the task are current My Health **_** e **_** Vet users.**
+        **All participants (5 of 5) who****failed the task are current My HealtheVet users.**
 
-LABELS: DSC: Buttons, DSC: Experimental, PRDT: Medical-records, RESRCH: Usability
+         LABELS: DSC: Buttons, DSC: Experimental, PRDT: Medical-records, RESRCH: Usability
 
 1. **Most participants are unfamiliar with the term 'Blue Button.'**
 
-**12 of 18 indicated their lack of familiarity with 'Blue Button' when asked, "What do you think is meant by 'Blue Button'?** Participants were tasked with downloading all their medical records to take to a community care provider. The moderator asked the question of those whose statements or observed behavior indicated hesitation or lack of familiarity.
+    **12 of 18 indicated their lack of familiarity with 'Blue Button' when asked, "What do you think is meant by 'Blue Button'?** Participants were tasked with downloading all their medical records to take to a community care provider. The moderator asked the question of those whose statements or observed behavior indicated hesitation or lack of familiarity.
 
-**Most of those participants (8 of 12) who are unfamiliar with Blue Button are frequent MHV users.**
+    **Most of those participants (8 of 12) who are unfamiliar with Blue Button are frequent MHV users.**
 
-"_Download Blue Button report… What is that? Is that it? I have no earthly idea what that is."_
+    "_Download Blue Button report… What is that? Is that it? I have no earthly idea what that is."_
 
-"_I don't understand the Blue Button, to tell you the truth."_
+    "_I don't understand the Blue Button, to tell you the truth."_
 
-LABELS: PRDT: Medical-records, RESRCH: Usability
+    LABELS: PRDT: Medical-records, RESRCH: Usability
 
-1. **Most participants were unable to find out how to add a new allergy**** to their list.**
+1. **Most participants were unable to find out how to add a new allergy** to their list.
 
-**12 of 16 were unable to find out how to add a new allergy**** to their list of allergies.** Three of the four participants who successfully completed the task found the information in 'How can I add information to my records?' under 'Questions about this medical records tool' on the 'About VA medical records' page.
+    **12 of 16 were unable to find out how to add a new allergy**** to their list of allergies.** Three of the four participants who successfully completed the task found the information in 'How can I add information to my records?' under 'Questions about this medical records tool' on the 'About VA medical records' page.
 
-Two participants stated they would have used the link to return to My HealtheVet and three expected a form or an add button within 'Allergies.'
+    Two participants stated they would have used the link to return to My HealtheVet and three expected a form or an add button within 'Allergies.'
 
-**9 of 16 expected to be able to share the new allergy with the VA on the 'Share your medical record page.'**
+    **9 of 16 expected to be able to share the new allergy with the VA on the 'Share your medical record page.'**
 
-"_That just sounds like we're sharing something. Share your medical records."_
+    "_That just sounds like we're sharing something. Share your medical records."_
 
-"_I'm going to assume that by [Sharing through VHIE] that they're going to share their records with the VA."_
+    "_I'm going to assume that by [Sharing through VHIE] that they're going to share their records with the VA."_
 
-LABELS: DSC: Additional info, PRDT: Medical-records, RESRCH: Usability
+    LABELS: DSC: Additional info, PRDT: Medical-records, RESRCH: Usability
 
 1. **Most participants listed blood pressure as one of the most important vitals.**
 
-**13 of 21 listed blood pressure as one of the most important vital measures to managing their health.** Participants listed it in combination with other vitals, but it was always mentioned first.
+    **13 of 21 listed blood pressure as one of the most important vital measures to managing their health.** Participants listed it in combination with other vitals, but it was always mentioned first.
 
-**6 of 17 listed blood pressure first in their suggested order of Vitals.** Six Participants listed blood pressure first and one listed it second among all who preferred an order aside from alphabetical or the order displayed in the prototype.
+    **6 of 17 listed blood pressure first in their suggested order of Vitals.** Six Participants listed blood pressure first and one listed it second among all who preferred an order aside from alphabetical or the order displayed in the prototype.
 
-"_I have a lot of high blood pressure in the family, so for me that would probably be number one."_
-
-LABELS: PRDT: Medical-records, RESRCH: Usability
+    "_I have a lot of high blood pressure in the family, so for me that would probably be number one."_
+  
+    LABELS: PRDT: Medical-records, RESRCH: Usability
 
 1. **Most participants who successfully found the x-ray results stated access to images is helpful.**
 
-**10 of 16 who successfully found the x-ray results stated access to images is helpful.** Four participants stated they did not expect to find images within the record and four thought they would have to download or print the images to view them. Three participants were not interested in access to x-ray images because they didn't think they would understand them on their own.
+    **10 of 16 who successfully found the x-ray results stated access to images is helpful.** Four participants stated they did not expect to find images within the record and four thought they would have to download or print the images to view them. Three participants were not interested in access to x-ray images because they didn't think they would understand them on their own.
 
-"_Oh wow!"_
+    "_Oh wow!"_
 
-"_I think it's great because… My HealtheVet when I go onto that, if I want to see what the images look like, I have to request them."_
+    "_I think it's great because… My HealtheVet when I go onto that, if I want to see what the images look like, I have to request them."_
 
-LABELS: PRDT: Medical-records, RESRCH: Usability
+    LABELS: PRDT: Medical-records, RESRCH: Usability
 
 1. **Most participants accessed the 'Questions about this medical records tool.'**
 
-**11 of 21 accessed the 'Questions about this medical records tool' to help them complete one of the two tasks with the lowest success rates.** Six participants accessed the questions while searching for a way to add an allergy to their list. Five participants looked in the questions to help them find an 'Admission and discharge summary' from April 6and 7, 2023.
+    **11 of 21 accessed the 'Questions about this medical records tool' to help them complete one of the two tasks with the lowest success rates.** Six participants accessed the questions while searching for a way to add an allergy to their list. Five participants looked in the questions to help them find an 'Admission and discharge summary' from April 6and 7, 2023.
 
-LABELS: PRDT: Medical-records, RESRCH: Usability
+    LABELS: PRDT: Medical-records, RESRCH: Usability
 
 1. **Some participants looked for medical records while in Medical Records.**
 
-**7 of 21 looked for medical records while in the Medical Records prototype when given a task to perform.** Five of those seven were searching for an 'Admission and summary' report. One participant was looking for a high blood pressure diagnosis date and one was looking for 'Allergies.'
+    **7 of 21 looked for medical records while in the Medical Records prototype when given a task to perform.** Five of those seven were searching for an 'Admission and summary' report. One participant was looking for a high blood pressure diagnosis date and one was looking for 'Allergies.'
 
-Three participants looked in 'Share your medical records' and 2 attempted to click on the 'Go back to medical records on My Health_e_Vet website.' The remaining two indicated they were unable to locate medical records.
+    Three participants looked in 'Share your medical records' and 2 attempted to click on the 'Go back to medical records on My Health_e_Vet website.' The remaining two indicated they were unable to locate medical records.
 
-_"Discharge records are probably going to be part of your Medical Records so I would probably go with 'Find out how to share your medical records'."_
+    _"Discharge records are probably going to be part of your Medical Records so I would probably go with 'Find out how to share your medical records'."_
 
-_"I don't see an area yet where I could even find the medical records in order to print them out."_
+    _"I don't see an area yet where I could even find the medical records in order to print them out."_
 
-LABELS: PRDT: Medical-records, RESRCH: Usability
+    LABELS: PRDT: Medical-records, RESRCH: Usability
 
 1. **Most participants stated they were concerned with comparing the results to the standard range in 'Complete blood count.'**
 
-**10 of 12 who were asked what they were trying to learn while viewing the Complete Blood Count results stated they were checking to see if each result was within the standard range.** The previous 9 participants were not asked as this question was added mid-study in response to concerns raised by SMEs.
+    **10 of 12 who were asked what they were trying to learn while viewing the Complete Blood Count results stated they were checking to see if each result was within the standard range.** The previous 9 participants were not asked as this question was added mid-study in response to concerns raised by SMEs.
 
-"_You want to see if you're in the range, [if it's] out of the range of where a normal person should be."_
+    "_You want to see if you're in the range, [if it's] out of the range of where a normal person should be."_
 
-**12 of 21 participants wanted an explanation of the non-standard results.** They were concerned with the implications to their current or future health often citing their own chronic illness or those within their families such as diabetes or heart disease.
+    **12 of 21 participants wanted an explanation of the non-standard results.** They were concerned with the implications to their current or future health often citing their own chronic illness or those within their families such as diabetes or heart disease.
 
-"_I [am concerned with] my A1C. Diabetes runs in my family."_
+    "_I [am concerned with] my A1C. Diabetes runs in my family."_
 
-**4 of 21 were interested in information on how they could get the out-of-range results back into range.** Some speculated that they may need to have their medications adjusted.
+    **4 of 21 were interested in information on how they could get the out-of-range results back into range.** Some speculated that they may need to have their medications adjusted.
 
-"_What do we need to do to change this?"_
+    "_What do we need to do to change this?"_
 
-LABELS: DSC: Additional information, PRDT: Medical-records, RESRCH: Usability
+    LABELS: DSC: Additional information, PRDT: Medical-records, RESRCH: Usability
 
 1. **Most participants stated they wanted the acronyms spelled out in the 'Complete blood count' results.**
 
-**13 of 21 stated they wanted the acronyms spelled out in the 'Complete blood count' results.** Many participants could identify WBC (white blood cells), RBC (red blood cells), and some knew HGB (hemoglobin), but the other five acronyms were unknown. One of the acronyms, ACK, was a mock result, but no participants realized it was fake.
+    **13 of 21 stated they wanted the acronyms spelled out in the 'Complete blood count' results.** Many participants could identify WBC (white blood cells), RBC (red blood cells), and some knew HGB (hemoglobin), but the other five acronyms were unknown. One of the acronyms, ACK, was a mock result, but no participants realized it was fake.
 
-"_I'd have to have it interpreted by the doctor or the nurse or someone. I really don't know what some of this stands for."_
+    "_I'd have to have it interpreted by the doctor or the nurse or someone. I really don't know what some of this stands for."_
 
-LABELS: PRDT: Medical-records, RESRCH: Usability
+    LABELS: PRDT: Medical-records, RESRCH: Usability
 
 ## **Additional Insights**
 
