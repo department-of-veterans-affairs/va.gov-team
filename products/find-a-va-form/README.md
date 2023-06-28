@@ -54,7 +54,6 @@ As of 8/10/22:
 |Wes Rowe   |Product Manager, Agile 6|
 |Jill Adams |Delivery Manager, Agile 6|
 |Daniel Sasser    |Backend engineer, Agile 6|
-|Ryan Koch    |Frontend engineer, Agile 6|
 |Steve Wirt	| Sitewide Program Team, Forms/Drupal subject matter expert, Civic Actions|
 
 ## VA Forms Contacts
@@ -79,9 +78,11 @@ Forms DB is in maintenance mode.
 - Reid, Kevin <Kevin.Reid@va.gov> -- Owner
 
 ### Lighthouse API Team
+Lighthouse teams owns the Sidekiq job that imports CMS Forms data to Lighthouse, for populating Find a Form search results.
 |Name|Role|
 |----|----|
-|Nichole Harris	|Product Manager - Team-Matsumoto|
+|Kristen Brown | Engineer (AdHoc)|
+|Mark Kelly | Associate Managing Software Engineer (Reticulating Splines) |
 |Mark Viterna	|Team-Matsumoto - Benefits Intake/Forms API|
 |Ryan Link	|Customer Success Manager, Lighthouse APIs [Oddball]|
 |Lee DeBoom	|Vets API|
@@ -179,12 +180,13 @@ And the front-end of the Find a Form product will show:
 | Cause | Looks like | Mitigation | 
 -- | -- | --
 | **vets-api latency** (broad-scale) | Big batches of "Bad PDF link" emails going to Forms manager <br/><br/>Spikes in Sentry errors, [Forms report](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?id=19&project=4&statsPeriod=7d). | Below: contact Platform Support for help. |
-| **Data sync issues from Forms DB > Lighthouse** | No CMS data flags on Forms content, but errors in the Forms search UI on va.gov.<br/><br/>Underlying cause may be vets-api latency, or failed sidekiq job | Below: contact Platform Support for help. |
-| **Data entry errors in the Forms DB** | Individual forms in the CMS get flagged as Deleted for Name CHanged. | Below: contact the correct Forms Manager to correct the data upstream in the Forms DB. |
+| **Data sync issues from CMS > Lighthouse** | No CMS data flags on Forms content, but errors in the Forms search UI on va.gov.<br/><br/>Underlying cause may be vets-api latency, or failed sidekiq job | Below: contact Platform Support / Lighthouse for help. |
+| **Data entry errors in the Forms DB** | Individual forms in the CMS get flagged as Deleted for Name Changed. <br/><br/>Forms in the Forms DB do not appear in the CMS after migration. | Below: contact the correct Forms Manager to correct the data upstream in the Forms DB. <br/><br/>Verify that [Forms migration](https://prod.cms.va.gov/admin/structure/migrate/manage/forms/migrations) does not display any Messages. Rerun if yes, contact Forms Mgr if no.|
 
-### Contact Platform support
+### Contact Platform support or Lighthouse
 - Visit #vfs-platform-support, use the Platform support workflow, to request assistance, e.g. https://dsva.slack.com/archives/CBU0KDSB1/p1660066854784409
-- Ask them to explore vets-api latency. Ask them to explore whether the `VAForms::FetchLatest` sidekiq job has failed, and rerun if so.
+- Ask them to explore vets-api latency. 
+- If vets-api latency is not an issue, the issue may be due to data import from CMS > Lighthouse. This migration is handled by a Sidekiq job, `VAForms::FetchLatest` (may also be referred to as `VAForms::FormReloader`). Kristen Brown and Matt Kelly in DSVA slack are on the team that owns this Sidekiq job and can inspect logs or rerun the job. 
 
 --- 
 ## Symptom: Reports of Bad PDF link emails
@@ -231,7 +233,7 @@ VA forms managers or stakeholders may report users are emailing to report troubl
 
 ### Typical root cause
 1. Form errors can occur when vets-api is experiencing high latency. 
-2. The sidekiq job that copies data from the Forms DB  to the vets-api datastore may have failed. 
+2. The sidekiq job that copies data from the Forms DB to the vets-api datastore may have failed. 
 
 **Sidekiq job**
 `VAForms::FormReloader` sidekiq job runs nightly at 2am ET, and typically takes 15-20 min. to complete.
@@ -239,9 +241,9 @@ VA forms managers or stakeholders may report users are emailing to report troubl
 * Equivalent logs in [Datadog](https://vagov.ddog-gov.com/logs?query=%40named_tags.dd.env%3Aeks-prod%20host%3A%2Asidekiq%2A%20VAForms%5C%3A%5C%3AFormReloader&cols=host%2Cservice&index=%2A&messageDisplay=inline&stream_sort=time%2Cdesc&viz=stream&from_ts=1680532454231&to_ts=1681137254231&live=true) also
 
 ### How to troubleshoot
-- Vefify if CMS data is showing large batches of altered forms since the last sync: [Flagged Content Dashboard](https://prod.cms.va.gov/admin/content/flagged?type=va_form&workbench_access_section__section=All) in Drupal CMS. If not, this is a data > Lighthouse issue.
-- Visit #vfs-platform-support, use the Platform support workflow, to request assistance, e.g. https://dsva.slack.com/archives/CBU0KDSB1/p1660066854784409
-- Ask them to explore vets-api latency. Ask them to explore whether the `VAForms::FormReloader` sidekiq job has failed, and rerun if so.
+- Verify if CMS data is showing large batches of altered forms since the last sync: [VA Forms Flagged Content](https://prod.cms.va.gov/admin/content/va-forms/new-deleted) in Drupal CMS. If not, this is a CMS data > Lighthouse issue.
+- Visit #vfs-platform-support, use the Platform support workflow, to request assistance to explore vets-api latency, e.g. https://dsva.slack.com/archives/CBU0KDSB1/p1660066854784409
+- If no latency is detected, ask Lighthouse contacts to explore whether the `VAForms::FormReloader` sidekiq job has failed, and rerun if so.
 
 ## Time lag between VA Form changes & when updated on Find a VA Form
 Changes in the Forms DB will appear immediately in the the Find a Form search results (which don't route through Drupal CMS). However: data on each Form detail page relies on Drupal CMS. This means that a change in the Forms DB may break user functionality in Find a Form, during the window between a Forms DB change and the Forms DB > Drupal data migration.
