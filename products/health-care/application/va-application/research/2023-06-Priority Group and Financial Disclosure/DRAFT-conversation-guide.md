@@ -114,7 +114,7 @@ Let’s start with a few warm-up questions.
 - Changing directions a bit now, since you enrolled, have you had to make any updates to your information since your initial application?
 - If yes, can you please tell me more about that. What did you have to update and how was that experience for you?
 - Is there anything about that experience that you wish you could change?
-
+- Did you have to make updates for other benefits too or just health care?
 
 ## Fifth Topic: [EZR Tasks - SCENARIO] - 10 minutes
 
@@ -122,14 +122,18 @@ Let’s start with a few warm-up questions.
 - https://staging.va.gov/
   
 - For this first scenario, you completed the health care application and are now enrolled in and using your health care benefits. You are in Prioirty Group 8. You had a change in income after you lost your job and want to report that to see if you qualify for more benefits now. 
-- Can you show me where you would expect to find the ability to complete this task?
+
+- Can you show me where you would expect to find the ability to complete this task and talk me through your though process as you go?
 
 
 
-## Sixth Topic: [Financial Disclosure] - 10 minutes
+## Sixth Topic: [Financial Disclosure] - 5 minutes
 
 - How would you see a change in income impacting your health care benefits?
 - If you have copays, when during the enrollment process were you clear on what you qualified for and what you would have to pay? 
+
+## Sixth Topic: [Dependents] - 5 minutes
+- If you had to make benefits to your dependents, can you explain to me how you would go about doing that?
 
 
 ## Fourth Topic: [Ideal State] - 5 minutes
