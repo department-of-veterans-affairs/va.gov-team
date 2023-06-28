@@ -211,21 +211,24 @@ Increase active user base
 * Can discover and create a VSC
 
 ### Acceptance criteria
-* Available in English
-* Creates or already has a VA.gov account 
-* Can be verified of Veteran status
-* Knows they can create a Veteran Status Card
-* If a user has an account but cannot be verified as a Veteran, they do not see a button to create a VSC 
-* A VSC will have these pieces of data:
+* Signs into app
+* Verified of Veteran status
+* Views a Veteran Status Card
+* If a user has an account but cannot be verified as a Veteran, they do not see a card
+* A card has the following data:
 	* Veteran name
-	* Dates of service (consider simplifying into something like number of years served?)
-	* Branch of military
-	* VA logo
-	* Photo of their choosing—optional 
-* Upon review of their information, can take the appropriate steps to correct it, if needed
+   	* Date of birth
+   	* VA logo
+   	* Branch of military
+	* Dates of service
+* Upon review of card information, sees info on how to revise data if needed
+* VA can add info to this card in the future if a veteran becomes eligible to access x benefit (e.g. health service)
+
+### Future enhancement considerations
+* Card has number of years served
+* Card has photo of user's choice, optional 
 * Can add it to Apple/Google wallet
-* Can print their card
-* Has the ability to add info to this card, in some future date, should a veteran become eligible to access VA health services 
+* Can export to print a card
 
 ### Questions:
 1. How would the native mobile app contribute to a veteran’s success?
