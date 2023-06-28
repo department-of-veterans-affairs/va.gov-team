@@ -67,7 +67,7 @@ Learn more about Veteran's awareness and understanding of their Priority Group p
 - What is Veteran's attitude towards Priority Groups and eligibility placement?
 - What information around PG/copays would the Veteran like to have easy access to and where?
 - What is Veteran's attitude towards Priority Groups and copay rates?
-- Where do Veterans call out as the way to view their Priority Group information? the VA profile or MyHelatheVet or the mobile app or (enter method here)
+- Where do Veterans call out as the way to view their Priority Group information? the VA profile or MyHelatheVet or the mobile app or ...?
 
 
 Learn more about how Veterans would like to go about providing updated information that could impact their health care benefits after enrollment.
@@ -76,7 +76,7 @@ Learn more about how Veterans would like to go about providing updated informati
 - Do Veterans prefer to provide updated information in person at appointments or over the phone?
 - Do income updates cross benefits in the Veteran's POV or do they associate them only with their health care benefits?
 - Would Veterans prefer to be prompted to provide updated financials? How/method (text, email, call, mail)?
-- Where do Veterans see income updates occurring as it relates to travel pay/PG placement? [What channel/method/app is their mental model?]
+- Where do Veterans see income updates occurring as it relates to travel pay/PG placement? 
 - What information does the Veteran feel they should have to provide vs. what the VA should have/they have to verify?
 - Is there frustration about steps or processes after the initial application process in regards to providing more information, filling out additional forms?
 - Do dependent updates cross benefits in the Veteran's POV or do they associate them only with their health care benefits?
@@ -115,7 +115,7 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 
 ### Recruitment criteria
 
-Cohort 1: 8 completed sessions / **14 requested**
+Cohort 1: 8 completed sessions / **12 requested**
 
 
 **Primary criteria (must-haves)**
@@ -130,7 +130,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
 
-- At least 4 participants are female
+- At least 3 participants are female
 - At least 3 participants with a cognitive disability
 - At least 3 participants over the age of 55
 - At least 3 participants who are living abroad or immigrant origin
