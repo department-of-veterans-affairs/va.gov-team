@@ -6,7 +6,7 @@ Date: 06/13/2023
 
 Anne Costello, anne.costello@va.gov
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2023-05-usability-testing-round-1/MR_Usability1_Findings_Readout.pdf)
 
 **Jump to:**
 
@@ -370,21 +370,21 @@ Some participants did not know what illness the Zoster vaccine inoculates agains
 
 ## **Appendix**
 
-[Research plan]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2023-05-usability-testing-round-1/research-plan.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2023-05-usability-testing-round-1/research-plan.md))
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2023-05-usability-testing-round-1/research-plan.md)
 
-[Conversation guide]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2023-05-usability-testing-round-1/conversation-guide.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2023-05-usability-testing-round-1/conversation-guide.md))
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2023-05-usability-testing-round-1/conversation-guide.md)
 
-[Interview transcripts](link here)
 
 ## **Tools used for Synthesis**
 
-[Mural board] ([https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686060499249/f7d9c9f22ce90c0f8e848d2cff50e5f44f8e68ee?sender=udf54c55e947204997f7f6222](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686060499249/f7d9c9f22ce90c0f8e848d2cff50e5f44f8e68ee?sender=udf54c55e947204997f7f6222))
+[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686060499249/f7d9c9f22ce90c0f8e848d2cff50e5f44f8e68ee?sender=udf54c55e947204997f7f6222)
 
 ## **Pages and applications used**
 
-[Mobile prototype] ([https://www.sketch.com/s/f6118ebb-966d-4f83-afba-f9e987b65eac/prototype/a/A4F3BED9-A319-442F-9A8C-7105FB7E01AB?hotspots=false](https://www.sketch.com/s/f6118ebb-966d-4f83-afba-f9e987b65eac/prototype/a/A4F3BED9-A319-442F-9A8C-7105FB7E01AB?hotspots=false))
+[Mobile prototype](https://www.sketch.com/s/f6118ebb-966d-4f83-afba-f9e987b65eac/prototype/a/A4F3BED9-A319-442F-9A8C-7105FB7E01AB?hotspots=false)
 
-[Desktop prototype] ([https://www.sketch.com/s/f6118ebb-966d-4f83-afba-f9e987b65eac/prototype/a/E9F3F0B1-5C09-4E1D-8659-4822D08164CE?hotspots=false](https://www.sketch.com/s/f6118ebb-966d-4f83-afba-f9e987b65eac/prototype/a/E9F3F0B1-5C09-4E1D-8659-4822D08164CE?hotspots=false))
+[Desktop prototype](https://www.sketch.com/s/f6118ebb-966d-4f83-afba-f9e987b65eac/prototype/a/E9F3F0B1-5C09-4E1D-8659-4822D08164CE?hotspots=false)
+
 
 ## **Who we talked to**
 
@@ -457,7 +457,7 @@ Disability and Assistive Technology (AT):
 - Desktop screen reader: 0
 - Mobile screen reader: 0
 - Magnification/Zoom: 0
-- [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+- [Speech Input Technologylike Siri/Dragon Naturally Speaking: 0
 - Hearing aids: 0
 - Sighted keyboard: 0
 - Captions: 0
