@@ -16,10 +16,24 @@ For an appointment to be eligible for patient check in through the web or any mo
 ## Base URL
 The base URL for accessing the API is: `[base-path]/actions`
 
-## Authentication
-
-
 ## Endpoints
+
+### Authentication
+CHIP provides a `/token` endpoint which is used to retrieve a token that can be used to authenticate in subsequent calls. 
+
+#### `POST /token`
+- Description: Post api credentials and get a token
+- Request Header:
+  - `Authorization` (base64 encoded string): `api_user:api_key`
+- Responses:
+  - Status Code: 200 OK
+  - Body (object): The Response Object which contains the following fields
+    - `token` (string): token
+  ---
+  - Status Code: 403
+  - Body: (object):
+    - `message` (string): Forbidden
+  ---
 
 ### Check-In
 
