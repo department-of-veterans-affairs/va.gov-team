@@ -1,17 +1,11 @@
-# Conversation Guide: Business Line Interviews
+# Conversation Guide, Business Line Interviews: TEMPLATE
 *Ask VA, June 2023*
 
 Last updated by @tygindraux: June 28, 2023
 
 ## Background
 
-Ask VA (AVA) is an online portal that allows Veterans, caregivers, and supporting personnel in education, debt, loans, etc. to submit questions to VA and receive a secure message response. Currently, Ask VA (AVA) resides within a stand-alone Microsoft portal that is inconsistent with the VA design standards, is not mobile-friendly, and has accessibility issues.
-
-We need to determine which fields are required in order for agents to deliver the service, which is often called a [question protocol](https://www.uxmatters.com/mt/archives/2010/06/the-question-protocol-how-to-make-sure-every-form-field-is-necessary.php). In order to do this, we will meet with different business lines and share Sketch prototypes for feedback and discussion.
-
-### Research questions
-
-Understand which fields are necessary in order for agents to deliver the service:
+As a reminder, our goal is to undersatnd which fields are necessary in order for agents to deliver Ask VA. These are our research questions:
 
 * Who uses the answers to each question in this form?
 * What do they use the answers to each question for?
@@ -21,19 +15,19 @@ Understand which fields are necessary in order for agents to deliver the service
 * How does this process differ across use cases (or categories and topics), if at all?
 * What makes it take longer to offer a response to the user?
 
-## Conversation guide
+## Template
 
-#### 2-3 days before the session
-- [ ] Make a copy of the conversation guide.
-- [ ] Add questions relevant to the specific business line.
-- [ ] Ensure prototype(s) are ready to go.
+#### 1-2 days before the session
+- [ ] Make a copy of the conversation guide and replace 'Template' with the business line or category name
+- [ ] Add questions relevant to the specific business line, if any
+- [ ] Ensure prototype(s) are ready to go
 
 #### Day of the session
-- [ ] Open the prototype and be ready to screen share.
-- [ ] Open the conversation guide.
+- [ ] Open the prototype and be ready to screen share
+- [ ] Open the conversation guide
 
 #### Starting the session
-- [ ] Ask if everyone is okay with recording, and if so, start recording.
+- [ ] Ask if everyone is okay with recording, and if so, start recording
 
 ### Agenda - 60 minutes
 
