@@ -4,7 +4,7 @@
 QA was performed manually by team members. 
 * [Test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-onsite-notification-component.md) (Github)
 * [Test cases (A11y format)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-onsite-notification-component-a11y-format.md)(Github)
-* [Test Cases_ Notification Component on My VA.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/11859684/Test.Cases_.Notification.Component.on.My.VA.xlsx)
+* [Test Cases_ Notification Component on My VA (1).xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/11896270/Test.Cases_.Notification.Component.on.My.VA.1.xlsx) (updated 6/28 to add reset test users)
 
 
 ## Defect report
