@@ -31,6 +31,7 @@ Feedback from Veterans is captured in VSignals. This report queries VSignals for
 ## Charts
 
 <img width="862" alt="M" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/90633685/fb4977fd-9d41-4ae0-a180-33cede522543">
-![Uploading G.png…]()
+
+<img width="862" alt="G" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/90633685/579a946a-761f-4274-ac59-55d69b71c2e4">
 
 
