@@ -12,6 +12,8 @@
 - "Agile" meeting occurrences and approach
 - Engineering capacity for July
 - [Peter] Next big priority for UX work?
+- [Peter] Working on feature reference work, might need dev time ([choose a location page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/feature-reference/schedule-flow/va-direct--choose-location.md))
+- [Peter] Melissa will be setting up a meeting to get more info on the data sources
 - [Peter] Process for creating monthly feedback reports
 - [Peter] Future goals for building research "themes"
 - [Peter] Opportunity to run early stage research on provider based or multi-modality scheduling
