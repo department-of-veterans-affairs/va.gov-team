@@ -9,7 +9,7 @@ For an appointment to be eligible for patient check in through the web or any mo
 - Demographics: contact, emergency contact, and next of kin information has to have been reviewed by the veteran and confirmed
 - The appointment needs to be valid
   - Does the clinic for the appointment have e-check-in enabled
-  - Is it within the 45 minute check in window(30 min before - 15 minutes after start time)
+  - Is it within the check in window(45 min before - 15 minutes after start time)
   - Is the appointment type an in clinic appointment
   - Is the appointment status valid
 
