@@ -15,9 +15,8 @@
 
 
 ## <a name="flows"></a>User/page flows <br>
-*Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
+![User Flow of Medications Phase 0](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/b304a819-311c-40d6-a3fb-8ea5287562bb)
 
-<img width="750" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/fe170e6c-a975-49a5-984f-5ce5d7081fdc">
 
 The user flow provided depicts the flow for Phase 0 of this product only.  The entry points, links, and overall flow of the product will evolve as the product progresses through the phased roll-out.  Those flows will eventually be fully documented in the (phased roll-out Mural)[https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1667322271773?sender=u2aba00c97ab77c6ec1573123&key=4ffaed99-2032-4f0b-bbce-bbe7ef27595c]. 
 
@@ -30,15 +29,12 @@ For Phase 0:
 
 
 ## <a name="map"></a>Page structure<br>
-*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 
-<img width="100" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/c2743893-42ea-4568-a198-03e11701da8d">
+![Screenshot 2023-06-28 at 4 35 42 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/9aa7af6a-78c7-46b1-9b61-577987b7579f)
 
+NOTE: As of 6/28/23, the H1 of the Medication page may change to 'Medication and Supplies'. If we do make that change, we may change URLs.
 
 ## <a name="url"></a>URLs and breadcrumbs
-*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
-
-
 **1) Medications list - NEW**
 - URL: www.va.gov/my-health/medications/
 - Breadcrumb: 
@@ -58,16 +54,11 @@ For Phase 0:
   - Need to discuss H1 of details page - will this be the long medication name, or do we template this to be "Details"
 
 ## <a name="nav"></a>Entry points <br>
-*A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
-
 
 Entry points for this tool will be determined based on the phased launch plan and are documented separately.
  
 
 ## <a name="redirects"></a>Redirects <br>
-*A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
-
-
 MHV redirects will be determined as part of the phased launch plan and documented separately
  
 
