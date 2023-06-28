@@ -21,10 +21,10 @@
 The user flow provided depicts the flow for Phase 0 of this product only.  The entry points, links, and overall flow of the product will evolve as the product progresses through the phased roll-out.  Those flows will eventually be fully documented in the (phased roll-out Mural)[https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1667322271773?sender=u2aba00c97ab77c6ec1573123&key=4ffaed99-2032-4f0b-bbce-bbe7ef27595c]. 
 
 For Phase 0:
-- Users will only be able to access this product via an email invitation with a direct link.  After clicking on the link, the user will be presented with the VA.gov home page with the sign in modal displayed. Once signed in they will be immediately routed to the medications list page
-- The Medication list page will include messaging and a link to send feedback about the tool. 
-- The Medication list page will include messaging and a link to allow visitors to return to the MHV classic pharmacy experience, that will take them to the MHV classic pharmacy landing page
-- The Medication list page will include messaging and a link to the MHV classic Allergies page within the Health History section
+- Users will only be able to access this product via an email invitation with a direct link.  After clicking on the link, the user will be presented with the VA.gov home page with the sign in modal displayed. Once signed in they will be immediately routed to the medications landing page
+- The Medication landing page will include messaging and a link to send feedback about the tool. 
+- The Medication landing page will include messaging and a link to allow visitors to return to the MHV classic pharmacy experience, that will take them to the MHV classic pharmacy landing page
+- The Medication landing page will include messaging and a link to the MHV classic Allergies page within the Health History section
 - The Medication detail page will include messaging and a link to the MHV classic compose a message page
 
 
@@ -35,23 +35,31 @@ For Phase 0:
 NOTE: As of 6/28/23, the H1 of the Medication page may change to 'Medication and Supplies'. If we do make that change, we may change URLs.
 
 ## <a name="url"></a>URLs and breadcrumbs
-**1) Medications list - NEW**
-- URL: www.va.gov/my-health/medications/
-- Breadcrumb: 
-  - desktop: VA.gov home > My HealtheVet > [H1 of page]
-  - mobile: < My HealtheVet
-- Title tag: [H1] | Veterans Affairs
-- Notes: 
 
-**2) Meidcation details - NEW**
+**1)Medications Landing - NEW**
+- URL: www.va.gov/my-health/about-medications/
+- Breadcrumb: 
+  - desktop: My HealtheVet > About Medications
+  - mobile: < My HealtheVet
+- Title tag: About Medications | Veterans Affairs
+- Notes: H1 pending final decision as of 6/28
+
+**2) Medications list - NEW**
+- URL: www.va.gov/my-health/about-medications/medications/
+- Breadcrumb: 
+  - desktop: My HealtheVet > About Medications > Medications
+  - mobile: < My HealtheVet
+- Title tag: Medications | Veterans Affairs
+- Notes: H1 pending final decision as of 6/28
+
+**3) Meidcation details - NEW**
 - URL: www.va.gov/my-health/medications/[medicationID]/
 - Breadcrumb: 
-  - desktop: VA.gov home > My HealtheVet > [H1 of page] > [H1]
+  - desktop: My HealtheVet > About Medications > Medications > [H1 of page]
   - mobile: < My HealtheVet
 - Title tag: [H1] - Medications | Veterans Affairs
 - Notes: 
   - URL will be based on unique ID for the individual's specific medication.  It will not be the name of the medication. 
-  - Need to discuss H1 of details page - will this be the long medication name, or do we template this to be "Details"
 
 ## <a name="nav"></a>Entry points <br>
 
