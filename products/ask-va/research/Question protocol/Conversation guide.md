@@ -15,7 +15,7 @@ Our goal is to **understand which fields are necessary in order for agents to de
 * How does this process differ across use cases (or categories and topics), if at all?
 * What makes it take longer to offer a response to the user?
 
-## Template
+## Conversation guide: TEMPLATE
 
 #### 1-2 days before the session
 - [ ] Make a copy of the conversation guide and replace 'Template' with the business line or category name
