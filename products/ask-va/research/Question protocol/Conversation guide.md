@@ -5,7 +5,7 @@ Last updated by @tygindraux: June 28, 2023
 
 ## Background
 
-Our goal is to **understand which fields are necessary in order for agents to deliver Ask VA**. These are our research questions:
+Our goal is to **understand which fields are necessary in order for agents to deliver Ask VA (AVA)**. These are our research questions:
 
 * Who uses the answers to each question in this form?
 * What do they use the answers to each question for?
@@ -39,22 +39,24 @@ Our goal is to **understand which fields are necessary in order for agents to de
 
 ## Intro - 5 minutes
 
-Thanks for joining. Today is a chance for us to learn more about how Ask VA works. In particular, we'd like to understand which questions in AVA are important to 
+Thanks for joining. Today is a chance for us to learn more about how Ask VA works. In particular, we'd like to understand how agents use each field in AVA in order to reply to an inquiry.
 
-* Can everyone on your team introduce themselves before we start? If you can share your name, what you do, and how long you've been using Ask VA, please.
+* Before we start, can everyone on your team introduce themselves? If you can share your name and your role, please.
 
 ## Background - 15 minutes
 
-I'm going to ask a few general questions to get us started. Feel free to raise your hand or come off mute if you'd like to answer.
+I'd like to start by learning about the type of inquiries you're responsible for.
 
 * Which types of inquiries does your team answer?
-* What makes it easier to answer an inqiuiry?
+* What makes it easier to answer an inquiry?
 * What makes it more difficult?
 * *Any specific questions for this business line?*
 
 ### Review form: 35 minutes
 
-Next, we're going to share our screen and ask for your feedback.
+Next, we're going to share our screen and ask for your feedback. This is an updated version of AVA that we've been working on.
+
+**Share screen**
 
 #### Start page
 
