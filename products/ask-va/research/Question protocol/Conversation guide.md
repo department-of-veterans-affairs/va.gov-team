@@ -15,31 +15,39 @@ Our goal is to **understand which fields are necessary in order for agents to de
 * How does this process differ across use cases (or categories and topics), if at all?
 * What makes it take longer to offer a response to the user?
 
-## Conversation guide: TEMPLATE
+## Prepare
 
-#### 1-2 days before the session
+### 1-2 days before the session
 - [ ] Make a copy of the conversation guide and replace 'Template' with the business line or category name
 - [ ] Add questions relevant to the specific business line, if any
 - [ ] Ensure prototype(s) are ready to go
+- [ ] Designate a facilitator and notetaker
 
-#### Day of the session
+### Day of the session
 - [ ] Open the prototype and be ready to screen share
 - [ ] Open the conversation guide
 
-#### Starting the session
+### Starting the session
 - [ ] Ask if everyone is okay with recording, and if so, start recording
 
-### Agenda - 60 minutes
+## Agenda - 60 minutes
 
 * Intro: 5 minutes
-* Warm-up: 5 minutes
-* Task 1 (Sign in to VA.gov): 10 minutes
-* Task 2 (Create an IAL1 Login.gov account): 15 minutes
-* Task 3 (Continue back to the VA): 10 minutes
-* Task 4 (Upgrade to an IAL2 Login.gov account): 10 minutes
-* Cool down: 3 minutes
-* Thank you: 2 minutes
+* Background: 15 minutes
+* Review form: 35 minutes
+* Wrap up: 5 minutes
 
-#### Background
+### Intro
+
+* *Ruchi briefly introduce our team members*
+* Can everyone on your team introduce themselves? If you can share your name, what you do, and how long you have been using Ask VA.
+
+### Background
 
 * Which types of inquiries does your team answer?
+* What makes it easier to answer an inqiuiry?
+* What makes it more difficult?
+
+### 
+
+* 
