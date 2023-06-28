@@ -9,7 +9,10 @@ Our goal is to establish a process to collect a11y feedback from the public. In 
 ## Key insights
 
 ### A note on this research's limitations ⚠
-> As we can only append to existing studies or rely on secondary research and key informants, we are limited in who and how we sample. In other words, any insights from this research cannot be established as broader, representative patterns. They can only be interpreted as localized events. For example, if we hear that several Veterans are using the Medallia feedback button, we cannot assume that it is representative of all disabled Veterans, but we can conclude that some Veterans are using it and fund more time into investigating it further.
+As we can only append to existing studies or rely on secondary research and key informants, we are limited in who and how we sample. In other words, any insights from this research cannot be established as broader, representative patterns. They can only be interpreted as localized events. For example, if we hear that several Veterans are using the Medallia feedback button, we cannot assume that it is representative of all disabled Veterans, but we can conclude that some Veterans are using it and fund more time into investigating it further.
+
+Furthermore, this research critically _does not_ include caretakers and family members of disabled Veterans (who may have disabilities themselves). As we note in our next steps, we strongly recommend including them in future iterations of this research.
+
 > [Read more on risk, assumptions, and constraints of this study here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#constraints-assumptions-and-risks) We further break down risk for each method used in the full details below.
 
 ### Inaccessibility of online digital feedback mechanisms may be preventing some disabled Veterans from using them  
@@ -37,9 +40,9 @@ In our monthly call with the Section 508 office, they acknowledged this, and not
 
 ## Actionable recommendations
 
-### Conduct more open-ended qualitative research with disabled Veterans who use assistive technologies.
+### Conduct more open-ended qualitative research with disabled Veterans who use assistive technologies and their caregivers / family members.
 There isn't enough available research now on how disabled Veterans using assistive technologies are (or are not) getting access to their benefits using VA.gov.
-- Tim hypothesizes that many more Veterans may be sitting with inaccessible products without providing the feedback needed to improve them. <sup>[[8]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#tim-hornik-blinded-veterans-association-chief-of-staff)</sup>
+- Tim hypothesizes that many more Veterans may be sitting with inaccessible products without providing the feedback needed to improve them. During member checking of our analysis, Tim added "caregivers are facing barriers accessing VA digital tools often due to complexities or information not designed for their populations." <sup>[[8]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#tim-hornik-blinded-veterans-association-chief-of-staff)</sup>
 - VEO (Veterans Experience Office) may not have considered disabled Veterans who use assistive technologies in their research and generated artifacts. In our conversation with a VEO employee, we learned that although survey templates are being developed and tested for 508 compliance-- they are uncertain if any projects have specifically addressed accessibility or disabled Veterans yet. <sup>[[9]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#djilan-yao-veo)</sup>
 - VA.gov mostly conducts closed usability testing, which can point out local issues, but often can't address larger systemic issues beyond the lens of any particular product.
 
