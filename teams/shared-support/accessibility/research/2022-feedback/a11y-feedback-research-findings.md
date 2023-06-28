@@ -3,7 +3,7 @@
 
 ## Goals
 Our goal is to establish a process to collect a11y feedback from the public. In order to accomplish this goal, we need to…
-- determine whether disabled Veterans are providing feedback through existing feedback mechanisms (and if not, why not?), and
+- what is known about if and how Veterans provide feedback through existing feedback mechanisms
 - start to gain preliminary insight or determine next steps on how to gain insights into disabled Veteran's behaviors, feelings, perspectives, and expectations on providing a11y feedback
 
 ## Key insights
