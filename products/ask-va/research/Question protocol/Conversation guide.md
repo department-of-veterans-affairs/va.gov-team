@@ -5,7 +5,7 @@ Last updated by @tygindraux: June 28, 2023
 
 ## Background
 
-As a reminder, our goal is to undersatnd which fields are necessary in order for agents to deliver Ask VA. These are our research questions:
+Our goal is to **understand which fields are necessary in order for agents to deliver Ask VA**. These are our research questions:
 
 * Who uses the answers to each question in this form?
 * What do they use the answers to each question for?
