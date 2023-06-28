@@ -1,194 +1,161 @@
-## Warm-up Questions - 5 minutes**
+# Research Plan for Wayfinding study, July/August 2023
 
-Let's start with a few questions...
+## Background
 
-- What kind of device are you using today? _(Computer / Tablet / Smartphone)_
-  -
-- What benefits other than healthcare, if any, do you receive from the VA?
-  -
+This study is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information.  This study aims to support this effort by investigating the different wayfinding strategies users use when completing key health management tasks on MHV on VA.gov.  It is part of a broader research effort to align Information Architecture for the MHV to VA.gov integration.  More on this [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/1d786b3abb178f9ae326c821596729b896a65090/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA).
 
-Screen sharing instructions
+You can read more about the Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
-First, I'd like you to share your screen so I can see how you navigate the site. Do you know how to share your screen?
+### OCTO Objectives
+This research supports the following OCTO objectives: 
 
-_Instructions for folks NOT using screen readers:_
+1. Veterans can manage their health services online
+2. Veterans and their families can find a single, authoritative source of information
+3. Logged-in users have a personalized experience, with relevant and time-saving features
 
-- _[What issues do you see people running into?]_
-  -
+### Veteran Journey
+This research fits into these points of a Veteran's Journey:
+- Starting up
+- Taking care of myself
+- Retiring
+- Aging
 
-Thanks for your patience in figuring that out.
+## Research Goals 	
+Most broadly speaking, the goal of this study is to help us get a sense of how closely the current organizing structures and wayfinding tools within the MHV on VA.gov experience align with users’ expectations and mental models. The purpose of this research is to assess users' reactions to and expectations of the MHV on VA.gov experience and whether the current wayfinding tactics are effective at guiding users through key tasks. More specifically, this study aims to help us understand how users navigate across health tools to non-health tools, and what their understandings and behaviors  are when they are linked to other VA.gov sections or outside of VA.gov. 
 
-## **Wayfinding interview - 50 minutes**
+### Outcome
 
-Now I need to share with you a link to the prototype. How would you prefer the link? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat.
+This research will inform updates to the MHV on VA.gov wayfinding efforts to support users across different experiences.
 
-Just as a reminder, this is a prototype, which means that it will behave differently than the actual website. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link.
+### Research questions
 
-_Send link to prototype:_ [_link_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/link)_. Show participants where the prototype back button is._
+1. When users are at the "manage health" stage, where do they look for their health-related services and resources on VA.gov? What health-related information do they seek out?  
+2. How do users navigate from an unauthenticated state to the the My HealtheVet portal?
+3. How easily can users navigate to various tasks within the My HealtheVet portal?
+4. Once deep within My HealtheVet portal tool navigation hierarchy, how do users navigate back out to My HealtheVet portal or wider VA.gov? (e.g., out of health landing page, or specific tool on landing page) What do users do if they get lost?
+5. How do users differentiate between My VA vs. My HealtheVet portal? What resources do they expect to be in each of those two locations?
 
-### _ **Task 1** _ _- AVS task:__Participant should be starting from an unauthenticated home page._
 
-### **Let's imagine that you recently had to visit a specialist to talk about a chronic condition. You want to review what was decided for the next steps in your care. Using this prototype, where do you go for this information? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website.**
+## Method
 
-_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_
+### Interviews
+We will conduct remote interviews with Zoom. These interviews will include questions documenting users’ process navigating to and within My HealtheVet, the mental models they use to find certain information, and their expectations related to health-specific tasks. The interviews will consist of a combination of tasks and direct questions. 
 
-- What are you thinking as you (_go somewhere, do something_)?
-- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
-- What do you think should happen if you (_do something_)?
 
-_Notetaker Questions:_
+### Location
+Data collection will be remote and conducted using Zoom. 
 
-[Where does the participant go first?]
+### Research materials
 
-[Does the participant recognize they need to login? What language do they use?]
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/51d9beee1bbe325473118685c6f0ea6e46115fb7/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/2023-06-health-wayfinding-conversation-guide_AVS.md)
 
-[How does the participant navigate from unauth state to MHV portal?]
+All other research documents can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/51d9beee1bbe325473118685c6f0ea6e46115fb7/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study)
 
-[What is standing out to the participant?]
+[Prototype](https://www.sketch.com/s/7dd70a0f-08de-4b7b-8203-0f3ee49acc3e/p/A1AC60CB-64DF-48E4-B335-710A54739F41/canvas)
 
-[What kind of health information is the participant mentioning?]
 
-_Specific questions about AVS - must ask:_
+## Recruitment
 
-_If participant is in the Appointments section:_
+### Recruitment approach
+We will partner with Perigean to recruit Veterans. 
 
-- This summary of your doctor's recommendations for the next steps in your care came out of an interaction you had while in an appointment with this doctor. Do you think you would want or expect to be able to get back to the details of that appointment from this page?
+We request a kickoff meeting with Perigean.
+		
+**Availability for potential kickoff meeting times with Perigean, depending on their availability. Anticipate KO meeting lasting 30 minutes**
+- Monday, June 26: Any time after 11 am ET and before 3 pm ET
+- Tuesday, June 27: Any time after 2 pm ET
+- Thursday, June 29: Any time after 11 am ET and before 3 pm ET
 
-[Does the participant seem confident in this or do they express confusion?]
+We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel file on the VA Network. 
 
-- How would you get back out to the larger appointments section?
+## Recruitment criteria
 
-[Does the participant seem confident in this or do they express confusion?]
+Primary criteria (must-haves)
+- Must currently receive VA healthcare benefits 
+- Must have an active MHV account that they have accessed at least once in the past 12 months
+- Must have self-reported infrequent usage of VA.gov
 
-- (_Or, if more appropriate wording, depending on their behavior_): How would you backtrack to where you came from?
 
-- (_If the participant uses breadcrumbs_): Why did you click on those links?
-  -
-- (_If a participant ends up on Appointments landing page_): What do you think will happen if you click on that "Requests" link?
-  -
-- _Optional probe_: What do you think "Requests" means here?
-  -
+**Desired sample**
+30 total
+15 frequent users of MHV
+15 infrequent users of MHV
+15 mobile users
+Age and education level range throughout, but ideally include at least 10 participants older than 55 and 10 participants with a some college or less as their terminal degree
 
-_If participant gets to AVS through Medical Records:_
+### Screener questions
 
-- This summary of your doctor's recommendations for the next steps in your care came out of an interaction you had while in an appointment with this doctor. Do you think you would want or expect to be able to get back to the details of that appointment from this page?
+1. Have you been to a VA healthcare facility for a medical appointment in the last 12 months?
+	- Yes *(go onto Screener question 2)*
+	- No *(Disqualify)*
 
-_Participant should be deep into either Appointments or Medical Records at this point looking at AVS._
+2. How often, if at all, have you used VA.gov in the past 6 months?
+* Never used it *(go onto Screener question 3)*
+* 1-2 times in the past 6 months *(go onto Screener question 3)*
+* 2-3 times a month in the past 6 months *(Disqualify)*
+* More than 3 times a month in the past 6 months *(Disqualify)*
 
-### _Task 2 - Copay & Claims task:_ You have two things that you need to do today - see if you owe payments to the VA for past health appointments and check on the status of a disability claim. Using this website, how would you go about doing these things? _(RQ_
+3. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
+	- Yes *(go onto Screener question 4)*
+	- No *(Disqualify)*
 
-_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_
-
-- What are you thinking as you (_go somewhere, do something_)?
-- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
-- What do you think should happen if you (_do something_)?
-
-_Specific questions - must ask:_
-
-_If participant goes to My VA:_
-
-- What is this page?
-  - [What language does the participant use?]
-- What is the purpose of this page?
-  - [What language does the participant use?]
-- (_If participant went to My HealtheVet landing page_): How is this page different from the other page where you looked at the plan from your doctor for your care?
-
-_Once participant clicks on Copay link and is directed to Pay.gov, ask them to click "Continue" at least once to get them further into the form._
-
-- Where are you right now?
-- Are you on a different website than before?
-  - [What does the participant mention looking at when they answer this?]
-- How do you feel about that?
-  -
-- (_After participant goes one click into Pay.gov form_): Thank you, you don't need to go any further than this. How would you get back to the original website we were on?
-
-_Once participant has completed task:_
-
-- If you could design this website, how would you organize the different types of benefits and resources you see here?
-  - [What groups do they outline?]
-  - [What organizing logic do they articulate?]
-- Where would you put your disability resources and your health resources? What about education benefits? Housing benefits?
-  - [What organizing logic do they articulate?]
-- (_Ask participant to click between My VA and My HealtheVet pages_): If you were to describe these two pages to another Veteran, how would you explain them?
-  - [What organizing logic do they articulate? What language do they use?]
-
-### _Task 3a - Medical Records task:_ Imagine that you were recently put on blood thinner medication. Your doctor ordered blood tests two weeks after you started the medication to make sure that it is working. Where would you look for the results from those blood tests?
-
-_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_
-
-- What are you thinking as you (_go somewhere, do something_)?
-- Why did you (_do that, go there, try that_)?
-  -
-- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
-  - [What search topics and language do they use?]
-- What do you think should happen if you (_do something_)?
-
-_Specific questions about Medical Records - must ask:_
-
-### _Task 3b - Transition from Medical Records to Secure Messaging; participant should be deep into Medication Records navigation at this point:_ Say you're confused by your result and want to ask your doctor about it. Using the resources offered on this website, how would you send them a message? Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me.
-
-  - [What path does the participant take?]
-  - [What seems to confuse them?]
-  - [What language do they use?]
-
-_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_
-
-- What are you thinking as you (_go somewhere, do something_)?
-- Why did you (_do that, go there, try that_)?
-- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
-  - [What search topics and language do they use?]
-- What do you think should happen if you (_do something_)?
-
-### _Task 4 - Appointments task:_ Say you are going to see a specialist in a VA medical center you've never visited before and you want to make sure that you know where you are going. How would you figure that out?
-
-  - [How do they describe their general thought process?]
-  - [Where would they start?]
-  - [Where do they get lost?]
-  - [What questions do they articulate in the process?]
-  - [What stands out to participants? Anything that frustrates them or they seem to enjoy?]
-  - [What do they do to troubleshoot if they get lost?]
-
-_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_
-
-- What are you thinking as you (_go somewhere, do something_)?
-- Why did you (_do that, go there, try that_)?
-- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
-  - [What search topics and language do they use?]
-- What do you think should happen if you (_do something_)?
-
-_Specific questions about Appointments - must ask:_
-
-- (_If participant uses breadcrumbs_) Why did you click those links?
-  - [How do they describe the breadcrumbs? What did they think would happen?]
-- How would you get back out to the larger appointments section?
-  - [What path do they describe?]
-  - [What would they expect to do to start their return journey?]
-  - [How confident do they seem that they know how to do this?]
-- (_Or, if more appropriate wording, depending on their behavior_): How would you backtrack to where you came from?
-
-_Ask these questions if did not ask them in the AVS task:_
-
-- (_If participant ends up on Appointments landing page_): What do you think will happen if you click on that "Requests" link?
-- _Optional probe_: What do you think "Requests" means here?
-
-## **Thank You and Closing - 1 minute**
-
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
-
-If you know any other Veterans, caregivers, or service members who might be willing to participate in a future research session like this one, you can pass along the web link that you'll receive in your email from our team.
-
-Thank you so much again, and I hope that you enjoy the rest of your day!
-
-_In the Transcript window, click Save Transcript, open in Finder and then save_
-
-_End meeting for all_
-
-## **Language in event participant needs mental health resources**
-
-I want to remind you that VA can help connect you to mental health services--even if you're not enrolled in VA health care. To access services right away, call or go to any VA medical center at any time 24/7 or any Vet Center during clinic hours. You can also call 877-222-8387, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. That's 877-222-8387.
-
-If the participant looks like they need help right now...
-
-Would you like to stop this session now?
-
-If you find that you're in crisis and need to talk to someone right away, you can reach out to the Veterans Crisis line via phone call, text, or chat anytime day or night. You can call 800-273-8255 or text 838255.
+4. How often, if at all, do you use MyHealtheVet?
+* a) Never used it *(Disqualify)*
+* b) Once a year *(Disqualify)*
+* c) Once a month *(Qualify)*
+* d) 2-3 times a month *(Qualify)*
+* e) more than 3 times a month *(Qualify)*
+
+
+
+## Timeline
+
+### Prepare
+- Pilot #1: Week of July 3
+
+### Research sessions
+* Planned dates of research: **July 10 - 28**
+
+### Length of sessions
+* Session length: 1 hour
+* Buffer time between sessions: 30 minutes
+
+### Availability
+Please only schedule only 10 interviews per week. 
+- July 10-14: 10 interviews
+- July 17-21: 10 interviews
+- July 24-28: 10 interviews
+
+Team Availability | Time Slots (ET)
+------------------|--------------
+July 10, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 -3 pm; 3:30 - 4:30 pm; 5 - 6 pm; 6:30 - 7:30 pm
+July 11, 2023 | 2:30 - 3:30 pm; 4 - 5 pm; 5:30 - 6:30 pm; 7 - 8 pm
+July 13, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 4 - 5 pm; 5:30-6:30 pm; 7 - 8 pm
+July 14, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 -3 pm; 4 - 5 pm; 5:30 - 6:30 pm
+July 17, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 pm - 3 pm; 3:30 pm - 4:30 pm; 5 pm -6 pm 
+July 18, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 pm - 3 pm; 3:30 pm - 4:30 pm; 5 pm -6 pm  
+July 19, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 pm - 3 pm; 3:30 pm - 4:30 pm; 5 pm -6 pm  
+July 20, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 pm - 3 pm; 3:30 pm - 4:30 pm; 5 pm -6 pm  
+July 21, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 pm - 3 pm; 3:30 pm - 4:30 pm; 5 pm -6 pm  
+July 24, 2023 | 10am - 11am; 11:30am - 12:30pm; 4pm - 5pm; 5:30 - 6:30pm
+July 25, 2023 | 10am - 11am; 11:30am - 12:30pm; 1pm - 2pm; 3 - 4pm; 
+July 26, 2023 | 10am - 11am;  11:30am - 12:30pm; 1pm - 2pm; 3 - 4pm 
+July 27, 2023 | 10am - 11am; 11:30am - 12:30pm; 4 - 5pm; 5:30pm - 6:30pm 
+July 28, 2023 | 10am - 11am; 11:30am - 12:30pm; 1:30 - 2:30pm; 3pm - 4pm
+
+
+
+	
+## Team Roles	
+Please list the people who will be serving in each role. 	
+
+- Alternating Moderators: Robyn Singleton (robyn.singleton@adhocteam.us), Jenny Wang (Yizhen.Wang@va.gov) and Cara Frissell (cara.frissell@adhocteam.us)
+- Research guide writing and task development: Robyn Singleton 
+- Participant recruiting & screening: Perigean
+- Project point of contact: Robyn Singleton 
+- Participants for pilot test: TBD
+- Note-takers: Jenny Wang and Cara Frissell
+- Observers: to sign up via sign up list. 
+
+## Approvals
+- Reviewed and approved by Robyn Singleton on June 23, 2023
