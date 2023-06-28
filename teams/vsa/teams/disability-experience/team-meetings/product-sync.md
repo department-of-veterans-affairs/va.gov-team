@@ -1,6 +1,23 @@
 # Benefits Disability Experience - Product sync 
 
 ### Date: June 21 2023       
+### Participants: Rakshinda, Austin, Shannon, Steve
+### Topics Covered:
+- Issue Management Strategy
+   - Bug Triage - how's it working out?
+   - Can we find a different time?
+- Q3 Initiatives prioritization
+   - Idea solicitation
+   - Timeline
+- Combined road-map
+  - In progress - Austin
+- Analytics
+  - Updating site-map and URLs
+  - Austin and Rakshinda working on requirements for dashboard updates
+ 
+
+
+### Date: June 21 2023       
 ### Participants: Rakshinda, Austin, Shannon
 ### Topics Covered:
 - Catch-up / updates from the last 2 weeks
