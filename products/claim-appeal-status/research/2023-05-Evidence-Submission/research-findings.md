@@ -63,7 +63,7 @@ Remote usability testing sessions with Veteran participants.
 
 *3. The new design will give Veterans a strong understanding of what is happening with their claim at any given time.*
 
-**TRUE**. 9/10 participants expressed a clear understanding of the Status page. In response to the question "How much would you say you understand what's going on with this claim on a scale of 1-5?" 7/10 participants responded with a 5/5. Two othe participants did not give a number but said that they clearly understood.
+**TRUE**. 9/10 participants expressed a clear understanding of the Status page. In response to the question "How much would you say you understand what's going on with this claim on a scale of 1-5?" 7/10 participants responded with a 5/5. Two other participants did not give a number but said that they clearly understood.
 
 *4. The new design will help Veterans distinguish between requests for them that they need to act on and requests for third parties that they don't need to act on.*
 
@@ -83,7 +83,7 @@ Remote usability testing sessions with Veteran participants.
 
 Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 
-When prompted to compare the CST status pages side-by-side, there was a clear preference for the new design for most participants. A couple Veterans mentioned that they like seeing the stepper with the claim stages, and a few mentioned that they the current version because they’re used to it.
+When prompted to compare the CST status pages side-by-side, there was a clear preference for the new design for most participants. A couple Veterans mentioned that they like seeing the stepper with the claim stages, and a few mentioned that they also like the current version because they’re used to it.
 
 > “After seeing the (new) page, it just seems that the information is formatted better, in such a way that I have more faith that things are going on behind the scenes.” - P2
 
