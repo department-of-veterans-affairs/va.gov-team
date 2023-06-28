@@ -56,8 +56,10 @@ I'd like to start by learning about the type of inquiries you're responsible for
 
 Next, we're going to share our screen and ask for your feedback. This is an updated version of AVA that we've been working on.
 
-**Share screen**
-
 #### Start page
 
-* 
+This is the start page. We're going to imagine that someone starts by signing in. I'm going to skip ahead to the first page of the form now.
+
+#### What is your question about?
+
+The fir
