@@ -62,7 +62,7 @@ This is the start page. We're going to imagine that someone starts by signing in
 
 #### What is your question about?
 
-I'd like to ask a couple questions about this screen now.
+I'd like to ask a couple questions about this screen now. On this screen, the user chooses a category, topic and sub-topic. This is very similar to the current AVA.
 
 * In the current AVA system, how does your team use the category field to answer an inquiry?
 * How does your team use the topic field to answer an inquiry?
@@ -79,6 +79,40 @@ On this screen, the user tells us more about their inquiry.
 * Do you let people upload documents when they submit an inquiry?
   * If yes, do you face any issues with this?
   * If not, could this be useful? How?
+* *Any specific questions for this business line?*
 
 #### Details about your inquiry
 
+On this screen, the user tells us more about themselves.
+
+* Add questions
+* *Any specific questions for this business line?*
+  
+#### Your information
+
+On this screen, the user fills out their contact information.
+
+* Add questions
+* *Any specific questions for this business line?*
+
+#### Review
+
+At the end, the user will have the chance to review their information before they submit.
+
+* Add questions
+* *Any specific questions for this business line?*
+  
+#### Submitted
+
+Finally, the will submit their inquiry and we'll tell them what to expect next.
+
+* Add questions
+* *Any specific questions for this business line?*
+
+### Wrap up - 5 minutes
+
+Thanks for reviewing that with us.
+
+* Add questions
+* *Any specific questions for this business line?*
+  
