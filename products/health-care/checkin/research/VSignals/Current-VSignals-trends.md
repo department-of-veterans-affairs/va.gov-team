@@ -6,6 +6,7 @@ This is an analysis of Veteran feedback from **May 16, 2023 - June 04, 2023**.
 
 Feedback from Veterans is captured in VSignals. This report queries VSignals for comments that mention "check in" and "travel reimbursement." 
 
+
 ## Noteworthy Comments
 
 **Mobile comments**
@@ -25,10 +26,11 @@ Feedback from Veterans is captured in VSignals. This report queries VSignals for
 > On a visit to the Joliet VA clinic prior to June 8, I used the new sign in method and it stated that the cell number was not the number on file. Went to one of the persons at the desjk to check in. THe person that helped me changed the cell number to the correct one. June 8th I tried to sign in and there was a mistake again, the phone number that was on record was my house phone not the cell num
 
 > I usually get appointments 4 weeks or more in the future. My question is.....Why do I keep getting e-mails on my phone to confirm my next scheduled appointment when I confirmed my appointment immediately after the first e-mail reminder. I received 4 total e-mails to confirm my last appointment. One was received after I had done my pre check in. The next appointment I will only confirm once.
+
  
-
-
 ## Charts
-<img width="671" alt="M" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/90633685/be9912d5-54d9-4631-908d-e34ac7c68355">
 
-<img width="674" alt="G" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/90633685/1c24ad00-234d-483c-a97f-b74827a9f94a">
+<img width="862" alt="M" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/90633685/fb4977fd-9d41-4ae0-a180-33cede522543">
+![Uploading G.png…]()
+
+
