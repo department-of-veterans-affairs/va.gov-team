@@ -10,15 +10,15 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 **Jump to:**
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2023-05-usability-testing-round-1#hypotheses-and-conclusions)
+[Hypotheses and conclusions](#hypotheses-and-conclusions)
 
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#key-findings)
+[Key findings](#key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#recommendations)
+[Recommendations](#recommendations)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#who-we-talked-to)
+[Who we talked to](#who-we-talked-to)
 
-[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#further-research-needed)
+[Further research needed](#further-research-needed)
 
 ## **Research Goals**
 
