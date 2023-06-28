@@ -82,12 +82,4 @@ Our core bet is that if we provide veterans with a clearer understanding of thei
 * What information do veterans need to provide the best possible evidence for their claims?
 * How can we ensure veterans have a clear understanding of what constitutes 'good' evidence?
 
-## Assumptions
-
-* Veterans want more detailed information about the claims process, their responsibilities, and the VA's responsibilities.
-* Providing clearer information about the claims process will lead to more relevant and timely evidence submissions from veterans.
-* Veterans are often confused by the claims process, particularly about their responsibilities and what is expected from them at each stage.
-* Improving veterans' understanding of the claims process will lead to fewer unnecessary cycles in claim processing and a smoother overall experience.
-* A more transparent and understandable claims process will improve veterans' satisfaction with the CST.
-
 
