@@ -29,55 +29,65 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 ## Research Goals	
 
 
+Learn more about Veteran's mental model when applying for and managing their health care benefits including the terms they use and how they understand eligibility and their specific benefits.
 
+Learn more about Veteran's awareness and understanding of their Priority Group placement including how that impacts their benefits as it pertains to financial disclosure, copays and travel reimbursement. 
 
-Learn more about Veteran's mental model when applying for health care benefits including the terms they use and how they see levels of benefits/Priority Groups/copays impacting them during the health care application process, during and ongoing after.
+Learn more about how Veterans would like to go about providing updated information that could impact their health care benefits after enrollment.
 
-Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they feel they need to provide in that process vs. what the VA should have already. 
-
-Learn more about how Veterans would like to go about providing updated information, especially financial and dependent updates, that could impact their health care benefits post-application/initial enrollment.
-
-
-### Outcome
+### Outcomes
 We will use these findings to:
 - Check assumptions and terminology used to remain Veteran-centric
-- Develop insights into an ideal state and how Veteran would prefer to navigate the health care benefits application journey
+- Develop insights into an ideal state and how Veteran would prefer to navigate the health care benefits and Priority Group assignment
 - Develop insights into how a Veteran would like to find personalized information about Priority Groups and copays online
 - Develop insights into where and how a Veteran would expect to be able to update their financial information online
-- Get initial feedback on early wireframes and hypothetical scenario storyboards
 
   
 
 ### Research questions
 
 
-Learn more about Veteran's mental model when applying for health care benefits including the terms they use and how they see levels of benefits/Priority Groups/copays impacting them during the health care application process, during and ongoing after.
-- What are the Veteran's current pain points with how the health care application impacts the overall health care journey?
-- What is the order and process expectations of Veterans when they are applying for health care benefits in regards to revealing Priority Groups and copay levels?
-- Do Veterans seem confused by Priority Group transparency?
-- Is there frustration about steps or processes after the initial application process in regards to providing more information, filling out additional forms?
+Learn more about Veteran's mental model when applying for and managing their health care benefits including the terms they use and how they understand eligibility and their specific benefits.
 
-
-Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they feel they need to provide in that process vs. what the VA should have already. 
 - What is the Veteran's mental model of discovering, getting and keeping health care benefits as they go through the application process?
-- What is the Veterans perception of eligibility and Priority Groups around their health care benefits?
+- What are Veteran's understanding of what benefits they will get and the cost to them while applying for benefits?
+- How do Veterans refer to their health care benefits and costs - what terms do they use?
+- What are Veteran's understanding of what benefits they will get and the cost to them AFTER ENROLLMENT?
+- What are the Veteran's current pain points with how the health care application impacts the overall health care journey?
+- What is the order and process expectations of Veterans when they are applying for health care benefits?
 - What information do Veterans feel most that the VA has and they should not have to provide?
+- What is the Veterans mental model of eligibility and Priority Groups around their benefits and costs?
+  
+
+Learn more about Veteran's awareness and understanding of their Priority Group placement including how that impacts their benefits as it pertains to financial disclosure, copays and travel reimbursement. 
+
+- Do Veterans seem confused by Priority Group transparency prior to applying to enroll?
+- What is the communication and education process around Priority Groups like from the Veteran's perspective?
+- Do Veterans know their know Priority Group easily or do they just know they are enrolled?
+- What is Veteran's attitude towards Priority Groups and eligibility placement?
+- What information around PG/copays would the Veteran like to have easy access to and where?
+- What is Veteran's attitude towards Priority Groups and copay rates?
+- Where do Veterans call out as the way to view their Priority Group information? the VA profile or MyHelatheVet or the mobile app or (enter method here)
 
 
+Learn more about how Veterans would like to go about providing updated information that could impact their health care benefits after enrollment.
 
-Learn more about how Veterans would like to go about providing updated information, especially financial and dependent updates, that could impact their health care benefits post-application/initial enrollment.
-- Do Veterans call out the VA profile or MyHelatheVet or the mobile app or (enter here) as their ideal way to provide this updated information in an online setting?
+- Where do Veterans call out as the way to manage their health benefits ? the VA profile or MyHelatheVet or the mobile app or (enter method here)
 - Do Veterans prefer to provide updated information in person at appointments or over the phone?
-- Would Veterans prefer to be prompted to provide updated financials?
-
+- Do income updates cross benefits in the Veteran's POV or do they associate them only with their health care benefits?
+- Would Veterans prefer to be prompted to provide updated financials? How/method (text, email, call, mail)?
+- Where do Veterans see income updates occurring as it relates to travel pay/PG placement? [What channel/method/app is their mental model?]
+- What information does the Veteran feel they should have to provide vs. what the VA should have/they have to verify?
+- Is there frustration about steps or processes after the initial application process in regards to providing more information, filling out additional forms?
+- Do dependent updates cross benefits in the Veteran's POV or do they associate them only with their health care benefits?
 
 
 
 ### Hypothesis
 - We assume the overall process of determining eligibility and being placed in a Priority Group is somewhat unclear to Veterans today.
 - We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and other claims filed in between that could impact their enrollment and Priority Group placement. 
-- We assume that Veterans who have health care regularly login to VA.gov / Profile 
-- We assume that the VA.gov Profile would be a place that Veterans would natuarlly think to look for financial update information.
+- We assume that Veterans who have health care regularly login to MHV more than VA.gov 
+- We assume there is a desire from Veterans for the Priority Group placement to be more clear as it pertains to benefits, copays, costs and travel reimubrusement
 
 
 ## Methodology	
@@ -105,7 +115,7 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 
 ### Recruitment criteria
 
-10 completed sessions / **15 requested**
+Cohort 1: 8 completed sessions / **14 requested**
 
 
 **Primary criteria (must-haves)**
@@ -120,17 +130,16 @@ What demographics, experience, and scenarios do you need participants to meet to
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
 
-
 - At least 4 participants are female
-- At least 4 participants with a cognitive disability
-- At least 4 participants over the age of 55
+- At least 3 participants with a cognitive disability
+- At least 3 participants over the age of 55
 - At least 3 participants who are living abroad or immigrant origin
 
 
 ## Timeline
 
 TBD
-
+July 17 - 21, 2023
 
 
 ### Prepare
