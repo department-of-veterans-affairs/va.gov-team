@@ -28,7 +28,7 @@ _____
 
 #### VA Notify team's documentation
 - [Onsite Notifications overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/onsite-notifications/README.md)
-- [VA Notify Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20Notify%20Playbook.pdf)
+- VA Notify Playbook updated link TK
 - [VA Notify Platform](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify#vanotify-platform)
 
 #### My VA team's Onsite Notification documentation
