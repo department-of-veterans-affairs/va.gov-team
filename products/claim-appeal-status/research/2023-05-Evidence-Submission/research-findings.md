@@ -140,12 +140,16 @@ Keeping this level of detail in implementation will be key to this feature’s s
 - Review this work with the VA platform team to discuss how best to phase implementation.
 - Update design with high-priority iterations (See below: Further design iterations and explorations needed)
 
-## Further design iterations and explorations needed
+## Further design iterations needed
 
 - How do we guide users to use the Evidence Request page instead of the Files tab for adding evidence when it’s requested? Files added via the files tab won’t go to the right place.
 - Can Claim ID be reduced visually and remain part of the header for a11y purposes?
 - What happens after the Veteran submits the evidence? Is there a confirmation of some sort?
 - What does the Status page look like when there is a 3P request out that the Veteran can optionally fulfill?
+
+## Further research needed
+
+- We will need to test the design with AT users once it has been implemented in code.
 
 ## Appendix
 
@@ -172,90 +176,57 @@ Keeping this level of detail in implementation will be key to this feature’s s
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
-We talked to **x participants.**
+We talked to **10 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
-
+* Veterans: 10 
 
 Gender:
-* Male: x 
-* Female: x 
-
-
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Male: 2 
+* Female: 8 
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 9 
+* Tablet: 1 
+* Smart phone: 0 
+* Assistive Technology: 0
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 1
+* 35-44: 3
+* 45-54: 1
+* 55-64: 2
+* 65+: 3
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
-
-Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* High school degree or equivalent: 1
+* Some college (no degree): 1
+* Associate's degree, trade certificate or vocational training: 0
+* Bachelor's degree: 1
+* Master's degree: 7
+* Doctorate degree: 0
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
-
+* White: 2
+* Black: 8
+* Hispanic: 0
+* Biracial: 0
+* Asian: 0
+* Native: 0
+* 
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Cognitive disability
+* Expat
+* Gay, lesbian, or bisexual
+* Transgender
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+<img width="917" alt="Screenshot 2023-06-28 at 11 41 18 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/95102058/20cb220d-75a4-42bf-bbc6-59883cdd3262">
