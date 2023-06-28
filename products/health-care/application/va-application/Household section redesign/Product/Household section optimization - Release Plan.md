@@ -37,7 +37,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Desired date range or test duration:
-     - 2 weeks - 7/10/2023 - 7/21/2023
+     - 2 weeks - 7/24/2023 - 8/4/2023
 - Desired number of users:
      - 10 participants
 - How you'll recruit the right production test users:
@@ -66,7 +66,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Rollout Planning
 
 - Desired date range:
-     - 7/17/2023 - 7/31/2023
+     - 7/24/2023 - 8/4/2023
 - How will you make the product available in production while limiting the number of users who can find/access it:
      - Feature Toggle limiting % of traffic to the application
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
