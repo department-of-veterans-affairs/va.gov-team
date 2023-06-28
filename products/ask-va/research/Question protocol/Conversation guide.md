@@ -49,7 +49,7 @@ I'd like to start by learning about the type of inquiries you're responsible for
 
 * Which types of inquiries does your team answer?
 * What makes it easier to answer an inquiry?
-* What makes it more difficult?
+* What makes it more difficult? For example, what makes it take longer to answer a particular inquiry?
 * *Any specific questions for this business line?*
 
 ### Review form: 35 minutes
@@ -62,4 +62,23 @@ This is the start page. We're going to imagine that someone starts by signing in
 
 #### What is your question about?
 
-The fir
+I'd like to ask a couple questions about this screen now.
+
+* In the current AVA system, how does your team use the category field to answer an inquiry?
+* How does your team use the topic field to answer an inquiry?
+* How does your team use the sub-topic field to answer an inquiry?
+* *Any specific questions for this business line?*
+
+#### What is your question?
+
+On this screen, the user tells us more about their inquiry.
+
+* When a users says they are a Veteran, dependent or submitting on behalf of a Veteran, how does that impact your response?
+* We noticed that if someone says they are submitting a general question, they need to provide their zip code. Do you know why that is?
+* Do you have any issues with the current free-text box, where users can write their inquiry in their own words?
+* Do you let people upload documents when they submit an inquiry?
+  * If yes, do you face any issues with this?
+  * If not, could this be useful? How?
+
+#### Details about your inquiry
+
