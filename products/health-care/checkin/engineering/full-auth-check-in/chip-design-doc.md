@@ -3,9 +3,10 @@
 ## Introduction
 This document outlines the design and specifications for the Authenticated Check-In API Lambdas in CHIP. The purpose of this API is to allow users to check into appointments from an application that has a fully authenticated user. This document covers the API's endpoints, request and response formats, authentication and authorization mechanisms, and business rules and requirements for Check-In.
 
+## Eligibility Requirements
 For an appointment to be eligible for patient check in through the web or any mobile application cetain criteria need to be met. These include:
 - Insurance information needs to be valid and up to date
-- Demographics, emergency contact and next of kin information has to have been reviewed by the veteran and confirmed
+- Demographics: contact, emergency contact, and next of kin information has to have been reviewed by the veteran and confirmed
 - The appointment needs to be valid
   - Does the clinic for the appointment have e-check-in enabled
   - Is it within the 45 minute check in window(30 min before - 15 minutes after start time)
@@ -52,7 +53,7 @@ The base URL for accessing the API is: `[base-path]/actions`
 ### Demographics
 
 #### `GET /demographic-confirmations`
-- Description: This endpoint is for retrieving demographics information which includes a field indicating if insurance verification is needed, patient contact information, emergency contact information and next-of-kin contact information.
+- Description: This endpoint is for retrieving demographics confirmation information which includes a field indicating if insurance verification is needed, patient contact information, emergency contact information and next-of-kin contact information.
   - Requirements for patient check-in:
     - all three `needsConfirmation` fields need to be `false`
     - `insuranceVerificationNeeded` needs to be `false`
@@ -123,7 +124,7 @@ The base URL for accessing the API is: `[base-path]/actions`
         - `country` (string)
 
 #### `PATCH /demographic-confirmations`
-- Description: Edit demographics by suppling fields you wish to modify
+- Description: Edit demographics confirmations
 - Request Body:
   - `patientDFN` (string): The unique identifier of the patient.
   - `stationNo` (string): The station number.
@@ -138,7 +139,5 @@ The base URL for accessing the API is: `[base-path]/actions`
     - `emergencyContactNeedsUpdate` (boolean)
     - `nextOfKinNeedsUpdate` (boolean)
     
-### Error Handling
-The API follows standard HTTP status codes for indicating the success or failure of a request. Additionally, specific error responses are returned with relevant error messages in the response body.
 
 
