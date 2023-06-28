@@ -52,6 +52,7 @@ An immediate opportunity may exist to collaborate with VEO to conduct more open 
 - The contact center team has been fantastic, and is already working to address identified issues from this study.
 - We created the modernized VA.gov accessibility statement to address accessibility issues on the Section 508 page where the Section 508 email was originally housed.
 - For teams with blockers related to underlying technology, we recommend submitting bug tickets directly to those vendors (e.g. Microsoft, Medallia).
+- We also might suggest conducting regular maintenance audits and/or exploring the use of the [accessibility dashboard](https://docs.google.com/spreadsheets/d/1lgzMiZZ-0rBPDuB2gRupBAjsyF0WTe005VvEHYrMxww/edit?usp=sharing) to keep track of issues.
 
 ### Teams working on feedback mechanisms should prioritize including disabled Veterans using assistive technologies in their research.
 
