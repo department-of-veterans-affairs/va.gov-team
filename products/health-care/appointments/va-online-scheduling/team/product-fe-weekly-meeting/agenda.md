@@ -11,6 +11,10 @@
 - QA resource available to validate the URLS, re-directs initiative - MHV on VA.gov work
 - "Agile" meeting occurrences and approach
 - Engineering capacity for July
+- [Peter] Next big priority for UX work?
+- [Peter] Process for creating monthly feedback reports
+- [Peter] Future goals for building research "themes"
+- [Peter] Opportunity to run early stage research on provider based or multi-modality scheduling
  
 </details>
 
