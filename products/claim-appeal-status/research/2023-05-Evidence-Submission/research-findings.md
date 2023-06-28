@@ -67,7 +67,7 @@ Remote usability testing sessions with Veteran participants.
 
 *4. The new design will help Veterans distinguish between requests for them that they need to act on and requests for third parties that they don't need to act on.*
 
-**LIKELY TRUE.** We did not have any participants confuse third party evidence requests for first party requests. That said, we did not provide a scenario in the prototype where there was a third party request that the Veteran _could_ provide if they so choose. There is no evidence to suggest that that woud be confusing with the new design, but to be 100% sure we should test that scenario explicitly.
+**LIKELY TRUE.** We did not see any participants confuse third party evidence requests for first party requests. The specificity of items in the "Recent activity" section seemed to resolve issues we had seen in [past research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-03-Initial-Decisions-CST/research-findings.md#6-alarming-and-confusing-ui-lead-veterans-to-feel-anxiety-about-their-claim-often-these-items-are-most-relevant-for-other-actors-in-the-claims-process) in which Veterans were confused about whether to take action on evidence requests. To validate this completely, we should test the scenario where there is an open third party request that the Veteran _could_ provide evidence for if they choose.
 
 *5. The new design will make it easy for Veterans to see requests for evidence submission and understand what those requests are.*
 
