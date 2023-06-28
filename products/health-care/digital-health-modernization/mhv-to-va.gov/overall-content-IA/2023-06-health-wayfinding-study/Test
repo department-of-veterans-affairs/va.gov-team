@@ -1,0 +1,194 @@
+## Warm-up Questions - 5 minutes**
+
+Let's start with a few questions...
+
+- What kind of device are you using today? _(Computer / Tablet / Smartphone)_
+  -
+- What benefits other than healthcare, if any, do you receive from the VA?
+  -
+
+Screen sharing instructions
+
+First, I'd like you to share your screen so I can see how you navigate the site. Do you know how to share your screen?
+
+_Instructions for folks NOT using screen readers:_
+
+- _[What issues do you see people running into?]_
+  -
+
+Thanks for your patience in figuring that out.
+
+## **Wayfinding interview - 50 minutes**
+
+Now I need to share with you a link to the prototype. How would you prefer the link? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat.
+
+Just as a reminder, this is a prototype, which means that it will behave differently than the actual website. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link.
+
+_Send link to prototype:_ [_link_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/link)_. Show participants where the prototype back button is._
+
+### _ **Task 1** _ _- AVS task:__Participant should be starting from an unauthenticated home page._
+
+### **Let's imagine that you recently had to visit a specialist to talk about a chronic condition. You want to review what was decided for the next steps in your care. Using this prototype, where do you go for this information? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website.**
+
+_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_
+
+- What are you thinking as you (_go somewhere, do something_)?
+- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
+- What do you think should happen if you (_do something_)?
+
+_Notetaker Questions:_
+
+[Where does the participant go first?]
+
+[Does the participant recognize they need to login? What language do they use?]
+
+[How does the participant navigate from unauth state to MHV portal?]
+
+[What is standing out to the participant?]
+
+[What kind of health information is the participant mentioning?]
+
+_Specific questions about AVS - must ask:_
+
+_If participant is in the Appointments section:_
+
+- This summary of your doctor's recommendations for the next steps in your care came out of an interaction you had while in an appointment with this doctor. Do you think you would want or expect to be able to get back to the details of that appointment from this page?
+
+[Does the participant seem confident in this or do they express confusion?]
+
+- How would you get back out to the larger appointments section?
+
+[Does the participant seem confident in this or do they express confusion?]
+
+- (_Or, if more appropriate wording, depending on their behavior_): How would you backtrack to where you came from?
+
+- (_If the participant uses breadcrumbs_): Why did you click on those links?
+  -
+- (_If a participant ends up on Appointments landing page_): What do you think will happen if you click on that "Requests" link?
+  -
+- _Optional probe_: What do you think "Requests" means here?
+  -
+
+_If participant gets to AVS through Medical Records:_
+
+- This summary of your doctor's recommendations for the next steps in your care came out of an interaction you had while in an appointment with this doctor. Do you think you would want or expect to be able to get back to the details of that appointment from this page?
+
+_Participant should be deep into either Appointments or Medical Records at this point looking at AVS._
+
+### _Task 2 - Copay & Claims task:_ You have two things that you need to do today - see if you owe payments to the VA for past health appointments and check on the status of a disability claim. Using this website, how would you go about doing these things? _(RQ_
+
+_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_
+
+- What are you thinking as you (_go somewhere, do something_)?
+- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
+- What do you think should happen if you (_do something_)?
+
+_Specific questions - must ask:_
+
+_If participant goes to My VA:_
+
+- What is this page?
+  - [What language does the participant use?]
+- What is the purpose of this page?
+  - [What language does the participant use?]
+- (_If participant went to My HealtheVet landing page_): How is this page different from the other page where you looked at the plan from your doctor for your care?
+
+_Once participant clicks on Copay link and is directed to Pay.gov, ask them to click "Continue" at least once to get them further into the form._
+
+- Where are you right now?
+- Are you on a different website than before?
+  - [What does the participant mention looking at when they answer this?]
+- How do you feel about that?
+  -
+- (_After participant goes one click into Pay.gov form_): Thank you, you don't need to go any further than this. How would you get back to the original website we were on?
+
+_Once participant has completed task:_
+
+- If you could design this website, how would you organize the different types of benefits and resources you see here?
+  - [What groups do they outline?]
+  - [What organizing logic do they articulate?]
+- Where would you put your disability resources and your health resources? What about education benefits? Housing benefits?
+  - [What organizing logic do they articulate?]
+- (_Ask participant to click between My VA and My HealtheVet pages_): If you were to describe these two pages to another Veteran, how would you explain them?
+  - [What organizing logic do they articulate? What language do they use?]
+
+### _Task 3a - Medical Records task:_ Imagine that you were recently put on blood thinner medication. Your doctor ordered blood tests two weeks after you started the medication to make sure that it is working. Where would you look for the results from those blood tests?
+
+_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_
+
+- What are you thinking as you (_go somewhere, do something_)?
+- Why did you (_do that, go there, try that_)?
+  -
+- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
+  - [What search topics and language do they use?]
+- What do you think should happen if you (_do something_)?
+
+_Specific questions about Medical Records - must ask:_
+
+### _Task 3b - Transition from Medical Records to Secure Messaging; participant should be deep into Medication Records navigation at this point:_ Say you're confused by your result and want to ask your doctor about it. Using the resources offered on this website, how would you send them a message? Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me.
+
+  - [What path does the participant take?]
+  - [What seems to confuse them?]
+  - [What language do they use?]
+
+_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_
+
+- What are you thinking as you (_go somewhere, do something_)?
+- Why did you (_do that, go there, try that_)?
+- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
+  - [What search topics and language do they use?]
+- What do you think should happen if you (_do something_)?
+
+### _Task 4 - Appointments task:_ Say you are going to see a specialist in a VA medical center you've never visited before and you want to make sure that you know where you are going. How would you figure that out?
+
+  - [How do they describe their general thought process?]
+  - [Where would they start?]
+  - [Where do they get lost?]
+  - [What questions do they articulate in the process?]
+  - [What stands out to participants? Anything that frustrates them or they seem to enjoy?]
+  - [What do they do to troubleshoot if they get lost?]
+
+_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_
+
+- What are you thinking as you (_go somewhere, do something_)?
+- Why did you (_do that, go there, try that_)?
+- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
+  - [What search topics and language do they use?]
+- What do you think should happen if you (_do something_)?
+
+_Specific questions about Appointments - must ask:_
+
+- (_If participant uses breadcrumbs_) Why did you click those links?
+  - [How do they describe the breadcrumbs? What did they think would happen?]
+- How would you get back out to the larger appointments section?
+  - [What path do they describe?]
+  - [What would they expect to do to start their return journey?]
+  - [How confident do they seem that they know how to do this?]
+- (_Or, if more appropriate wording, depending on their behavior_): How would you backtrack to where you came from?
+
+_Ask these questions if did not ask them in the AVS task:_
+
+- (_If participant ends up on Appointments landing page_): What do you think will happen if you click on that "Requests" link?
+- _Optional probe_: What do you think "Requests" means here?
+
+## **Thank You and Closing - 1 minute**
+
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
+
+If you know any other Veterans, caregivers, or service members who might be willing to participate in a future research session like this one, you can pass along the web link that you'll receive in your email from our team.
+
+Thank you so much again, and I hope that you enjoy the rest of your day!
+
+_In the Transcript window, click Save Transcript, open in Finder and then save_
+
+_End meeting for all_
+
+## **Language in event participant needs mental health resources**
+
+I want to remind you that VA can help connect you to mental health services--even if you're not enrolled in VA health care. To access services right away, call or go to any VA medical center at any time 24/7 or any Vet Center during clinic hours. You can also call 877-222-8387, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. That's 877-222-8387.
+
+If the participant looks like they need help right now...
+
+Would you like to stop this session now?
+
+If you find that you're in crisis and need to talk to someone right away, you can reach out to the Veterans Crisis line via phone call, text, or chat anytime day or night. You can call 800-273-8255 or text 838255.
