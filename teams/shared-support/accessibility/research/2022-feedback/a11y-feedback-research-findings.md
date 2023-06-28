@@ -1,4 +1,4 @@
-# Research Findings, 2022 Disabled Veteran Accessibility Feedback [DRAFT]
+# Research Findings [DISCOVERY] How disabled Veterans provide accessibility feedback [DRAFT]
 
 ## Goals
 Our goal is to establish a process to collect a11y feedback from the public. In order to accomplish this goal, we need to…
@@ -6,6 +6,10 @@ Our goal is to establish a process to collect a11y feedback from the public. In 
 - start to gain preliminary insight or determine next steps on how to gain insights into disabled Veteran's behaviors, feelings, perspectives, and expectations on providing a11y feedback
 
 ## Key insights
+
+### A note on this research's limitations
+> ⚠️ As we can only append to existing studies or rely on secondary research and key informants, we are limited in who and how we sample. In other words, any insights from this research cannot be established as broader, representative patterns. They can only be interpreted as localized events. For example, if we hear that several Veterans are using the Medallia feedback button, we cannot assume that it is representative of all disabled Veterans, but we can conclude that some Veterans are using it and fund more time into investigating it further.
+> For more on 
 
 ### Inaccessibility of online digital feedback mechanisms may be preventing some disabled Veterans from using them  
 - 100% (5/5) of the digital methods of providing feedback to VA.gov that we audited had major accessibility issues <sup>[[1]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#key-insights--2)</sup>
