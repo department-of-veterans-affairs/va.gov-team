@@ -32,22 +32,30 @@ Our goal is to **understand which fields are necessary in order for agents to de
 
 ## Agenda - 60 minutes
 
-* Intro: 5 minutes
+* Set up: 5 minutes
 * Background: 15 minutes
 * Review form: 35 minutes
 * Wrap up: 5 minutes
 
-### Intro
+## Intro - 5 minutes
 
-* *Ruchi briefly introduce our team members*
-* Can everyone on your team introduce themselves? If you can share your name, what you do, and how long you have been using Ask VA.
+Thanks for joining. Today is a chance for us to learn more about how Ask VA works. In particular, we'd like to understand which questions in AVA are important to 
 
-### Background
+* Can everyone on your team introduce themselves before we start? If you can share your name, what you do, and how long you've been using Ask VA, please.
+
+## Background - 15 minutes
+
+I'm going to ask a few general questions to get us started. Feel free to raise your hand or come off mute if you'd like to answer.
 
 * Which types of inquiries does your team answer?
 * What makes it easier to answer an inqiuiry?
 * What makes it more difficult?
+* *Any specific questions for this business line?*
 
-### 
+### Review form: 35 minutes
+
+Next, we're going to share our screen and ask for your feedback.
+
+#### Start page
 
 * 
