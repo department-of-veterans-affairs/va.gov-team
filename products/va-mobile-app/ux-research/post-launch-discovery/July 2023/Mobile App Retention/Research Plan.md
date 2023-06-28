@@ -93,7 +93,7 @@ For moderated interviews:
 
 
 
-* [Link to conversation guide](url goes here) WIP
+* [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Conversation%20Guide.md)
 
 ## 
 **Recruitment**
