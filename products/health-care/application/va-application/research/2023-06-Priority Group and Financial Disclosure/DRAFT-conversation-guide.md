@@ -62,13 +62,14 @@ Let’s start with a few warm-up questions.
 - [If they don't specify] Did you apply online, in-person or via paper application by yourself?
 - What resources did you use to understand what health care benefits you might qualify for during this process?
 - How would you describe the process that happened after you completed your application, such as things you had to do, additional information you had to provide, communications from the VA, your first appointment, etc.?
-- Now that you have been using your benefits, I would like you to think back and recall if there is anything that would have been helpful for you to know during that application process that you learned after you enrolled?
+- Now that you have been using your benefits, I would like you to think back and recall if there is anything that would have been helpful for you to know during your application process that you learned after you enrolled?
 
 
 ### Things to watch for:
 - [What terminology does the Veteran use as they talk about their experience?]
 - [How does the Veteran portray the overall process - easy, difficult, uneventful?]
 - [How does the Veteran descirbe the process of figuring out what they are eligible for - are they frustrated or do they find it easy?]
+- [What does the Veteran call out about the process after the initial application and around managing their benefits?]
 - [What pain points or areas of confusion are revealed?]
 
 
@@ -85,43 +86,43 @@ Let’s start with a few warm-up questions.
 - [Do Veterans' confidently know their Priority Group and what that means to them and their benefits?]
 - [What is the current process and experience around Prioity Groups?]
 - [What are the knowledge gaps around Priority Groups and health care costs?]
+- [What things would Veterans like to see or like to change in regards to Priority Groups?]
 
 ---
-Cohort Scenarios (Possible 3 or 4), 
-start by showing current live alert message (no page placement) and iterate to showing more of a wireframe including content updates and context placement based on feedback of previous cohorts. 
-
 
 ## Third Topic: [Priority Group - SCENARIO] - 10 minutes
 
 - I'm going to share my screen for this next question.
 - [Open Mural board with image]
-- This message (screen capture of current enrolled Alert) appears to communicate that you are currently enrolled in health care.
-- Have you ever seen this message before on VA.gov?
+- This message (screen capture of enrolled Alert with PG info) appears to communicate that you are currently enrolled in health care.
+- Have you ever seen this message before?
 - Where would you expect to find this message or this type of health care benefit information online?
 - What information about your benefits do you feel is missing from this message that you would find helpful?
 - Would being able to view your Priority Group online be of value to you and how would you see that working for you?
+- Where would you like to view and manage your Priority Group information online?
+
+
+### Things to watch for:
+- [Do Veterans' call out VA.gov as where they would expect to find this information or another channel - MHV or VA Profile?]
+- [What information do Veterans want to be communicated to about their Priority Group?]
+
 
 
 ---
 
 ## Fourth Topic: [Updates post enrollment] - 5 minutes
-- Changing gears a bit now, since you enrolled, have you had to make any updates to your information since your initial application?
+- Changing directions a bit now, since you enrolled, have you had to make any updates to your information since your initial application?
 - If yes, can you please tell me more about that. What did you have to update and how was that experience for you?
-- Is there anything about this experience that you would like to change?
+- Is there anything about that experience that you wish you could change?
 
-  
+
 ## Fifth Topic: [EZR Tasks - SCENARIO] - 10 minutes
 
 - Now I would like to transition to you sharing your screen and have you go to the link in the chat for VA.gov:
-- https://va.gov/
+- https://staging.va.gov/
   
-- For this first scenario, you completed the health care application and are now enrolled in and using your health care benefits. You had a change in income and want to report that.
+- For this first scenario, you completed the health care application and are now enrolled in and using your health care benefits. You are in Prioirty Group 8. You had a change in income after you lost your job and want to report that to see if you qualify for more benefits now. 
 - Can you show me where you would expect to find the ability to complete this task?
-
-
-
-For this second scenario, 
-
 
 
 
