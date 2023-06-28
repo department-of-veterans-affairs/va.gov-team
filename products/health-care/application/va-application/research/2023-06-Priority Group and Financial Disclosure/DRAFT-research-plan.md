@@ -129,8 +129,7 @@ What criteria would strengthen your results?
 
 ## Timeline
 
-Thursday, July 13 -  Thursday, July 19
-
+TBD
 
 
 
@@ -157,11 +156,11 @@ Please request enough dates and at ***least double the amount of time slots for 
 ### Availability
 | **Team Availability** | **Time (ET)** |
 | --------------------- | ------------- |
-| July 13, 2023   	|   		|
-| July 14, 2023   	|   		|
-| July 17, 2023   	|   		|
-| July 18, 2023   	|   		|
-| July 19, 2023   	|   		|
+| July , 2023   	|   		|
+| July , 2023   	|   		|
+| July , 2023   	|   		|
+| July , 2023   	|   		|
+| July , 2023   	|   		|
 
 
 
