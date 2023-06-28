@@ -1,22 +1,31 @@
 # Benefits Disability Experience - Product sync 
 
 ### Date: June 21 2023       
-### Participants: Rakshinda, Austin, Shannon, Steve
+### Participants: Rakshinda, Shannon, Steve
 ### Topics Covered:
 - Issue Management Strategy
    - Bug Triage - how's it working out?
-   - Can we find a different time?
+      - Need to start looking at bugs
+      - Put the logging items for discovery sprint and review reported bugs in the triage   
+   - Can we find a different time? Work something with Austin
 - Q3 Initiatives prioritization
    - Idea solicitation
    - Timeline
+   - Look at getting the board ready by July 10th for review with Matt
 - Combined road-map
   - In progress - Austin
 - Analytics
   - Updating site-map and URLs
   - Austin and Rakshinda working on requirements for dashboard updates
+  - In progress - work on goals for cliamant experience
+     -  Submission time
+     -  Sessions for completion
+     -  Customer satisfaction, other health metrics
+     -  Keep Steve and Shannon included 
+- Keep changes on 526 ancillary forms in sync with other applications and stand-alone digitized forms
+- Stop retrying large file uploads (> 150 MB)
+
  
-
-
 ### Date: June 21 2023       
 ### Participants: Rakshinda, Austin, Shannon
 ### Topics Covered:
