@@ -1,4 +1,4 @@
-# Research Findings, 2022 Disabled Veteran Accessibility Feedback
+# Research Findings, 2022 Disabled Veteran Accessibility Feedback [DRAFT]
 
 ## Goals
 Our goal is to establish a process to collect a11y feedback from the public. In order to accomplish this goal, we need to…
@@ -12,7 +12,7 @@ Our goal is to establish a process to collect a11y feedback from the public. In 
 - Notably, both of the screen magnification users Cindy Merrill ran usability testing with were unable to find the feedback button at the bottom right corner of the page. <sup>[[2]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#key-insights--3)</sup>
 - Out of 4000+ responses from Medallia feedback surveys procured through over 50+ keywords , only 10 responses pertained to accessibility. However, they were too broad and inspecific to take action on.<sup>[[3]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#key-insights-)</sup>
 
-### Many disabled Veterans using assistive technologies prefer analog or service based methods to get support or provide feedback
+### Some disabled Veterans using assistive technologies prefer analog or service based methods to get support or provide feedback
 - Some would default to either calling the VA, going to a physical location, or finding support through the Blinded Veterans Association.<sup>[[4]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#key-insights--3)</sup>
 - Others noted they prefered analog methods, and felt excluded by tech-centered approaches. <sup>[[5]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#section-508-office)</sup>
 - Feedback may also be directed through caregivers and social care workers on behalf of disabled Veterans. <sup>[[6]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#tim-hornik-blinded-veterans-association-chief-of-staff)</sup>
