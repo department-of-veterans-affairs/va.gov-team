@@ -72,6 +72,8 @@
 
 ## Task 1: Product Usability Walk through | 10 minutes
 
+**NOTE:** If you encounter error when doing a mock sign in, you must go back to the first page and select CSP to reset the system
+
 - Now we’d like to take you to the Mocked Authentication page. I'm going to send you a link in the zoom chat. I'll ask that you open the link and then when you are ready to share your screen, so I can watch you use the prototype design
    - [SEND PARTICIPANT [prototype link](https://dev.va.gov/sign-in/mocked-auth)]
    - [IF PARTICIPANT would normally code in local then “image you were checking your code on the dev stack…”]
