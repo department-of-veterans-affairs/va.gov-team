@@ -9,10 +9,10 @@
 - Provide a technical overview of the VA Notify system as it pertains to Onsite Notifications
 
 ### Agenda
-1. Kick-off
-2. Overview of VA Notify system specific to Onsite Notifications (requirements, logic, data currently sent) 
-3. Explanation of what My VA team does with the data sent by VA Notify to surface notifications
-4. Overview of My VA's table, data points, logic etc.
+1. Kick-off - _AJ_
+2. Overview of VA Notify system specific to Onsite Notifications (requirements, logic, data currently sent) -- _Melanie Jones_
+3. VA Notify <--> VA.gov API: Overview of how a notification goes from VA Notify to VA.gov (including My VA's table, data points, logic etc.) -- _Tom Harrison_
+4. User <--> VA.gov: Explanation of what My VA team does with the data sent by VA Notify to surface notifications to users and allow users to dismiss them -- _Tom Harrison and Allison Lu_
 5. Questions
 
 ______
