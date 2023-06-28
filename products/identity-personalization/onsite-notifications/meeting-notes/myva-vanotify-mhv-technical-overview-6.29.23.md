@@ -3,7 +3,7 @@
 ### In attendance - 6/29/23
 | My VA | VA Notify | MHV on VA.gov |
 |----------------------------------|-----------------------|-----------------------------------------------|
-|- Chante Lantos Swett (acting PO) <br/>- Anastasia Jakabcin (AJ) (PM) <br/>- Berni Xiong (DM) <br/>- Angela Agosto (Design/Research) <br/>- Tom Harrison (BE dev) <br/>- Allison Lu (FE dev) <br/>- Derrick Ellerbie (FS dev)| - Beverly Nelson (PO) <br/>- Melanie Jones (PM) <br/>- Emily Allan Jones (Prgm Manager) | - Patrick Bateman (PO) <br/>- Tom Anderson (PM) <br/>- Jonathan Nelson (Design) <br/>- Eric Voshall (dev) <br/>- Richard Davis (dev)|
+|- Chante Lantos Swett (acting PO) <br/>- Anastasia Jakabcin (AJ) (PM) <br/>- Berni Xiong (DM) <br/>- Angela Agosto (Design/Research) <br/>- Tom Harrison (BE dev) <br/>- Allison Lu (FE dev) <br/>- Derrick Ellerbie (FS dev)| - Beverly Nelson (PO) <br/>- Melanie Jones (PM) <br/>- Emily Allan (Prgm Manager) | - Patrick Bateman (PO) <br/>- Tom Anderson (PM) <br/>- Jonathan Nelson (Design) <br/>- Eric Voshall (dev) <br/>- Richard Davis (dev)|
 
 ### Today's goals
 - Provide a technical overview of the VA Notify system as it pertains to Onsite Notifications
