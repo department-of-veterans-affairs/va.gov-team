@@ -122,7 +122,7 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 
 ### Recruitment criteria
 
-Cohort 1: 8 completed sessions / **12 requested**
+Cohort 1: 8 completed sessions / **14 requested**
 Cohort 2: 5 completed sessions / **9 requested**
 Cohort 3: 5 completed sessions / **9 requested**
 
