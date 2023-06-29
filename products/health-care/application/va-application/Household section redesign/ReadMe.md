@@ -128,7 +128,14 @@ Data source - Call Center team/TBD
 - The 1010EZ form is currently in production; we are only changing the content and flow of the application's questions.  The information being sent after submission to the Enrollment System remains unchanged.
 - There are no new endpoints implemented with this change
 - This change applies to the full application flow, as well as the Short Form flow (less than 50% disability rating) ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
-- We will use the 1010EZ [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team) for any latency or errors being logged
+- We will use the following 1010EZ applications for any latency or errors being logged
+     - [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
+     - [Datadog Real User Monitoring dashboard](https://vagov.ddog-gov.com/rum/performance-monitoring?query=%40application.id%3A9d5155fd-8623-4bc9-8580-ad8ec2cdd7fa&from_ts=1687971959215&to_ts=1688058359215&live=true)
+     - [Sentry](http://sentry.vfs.va.gov/organizations/vsp/issues/)
+- Main POCs:
+     - Heather Justice (heather.justice@adhocteam.us) - Product Manager
+     - Matt Long (matt.long@adhocteam.us) - Engineering lead
+     - Patrick Bateman (patrick.bateman@adhocteam.us) - Product Owner
 
 ---
 ## Key deliverables
