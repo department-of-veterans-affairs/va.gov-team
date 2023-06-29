@@ -25,7 +25,7 @@
 
 ![Screenshot 2023-06-29 at 10 19 20 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/91fc3ed9-fe0e-471e-ba19-e527bc9fa115)
 
-The form will live under the new parent page for supporting forms.
+The form will live under the new parent page for supporting forms. Sitemap has also been updated to reflect that the supporting forms page is now live.
 
 ## <a name="url"></a>URLs and breadcrumbs
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
@@ -33,16 +33,15 @@ The form will live under the new parent page for supporting forms.
 
 **1) H1 of page - New**
 - URL: www.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847
-- Breadcrumb: VA.gov home > H1 of supporting forms page > H1 of form page
+- Breadcrumb: VA.gov home > Supporting forms for VA claims > H1 of form page
 - Notes: 
 
 
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
 
-
 1. **Supporting forms page** - Add
-  - Placement description: 
+  - Placement description: 6th option down
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847
   - Notes: 
