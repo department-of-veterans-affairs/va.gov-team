@@ -132,6 +132,8 @@ Data source - Call Center team/TBD
      - [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
      - [Datadog Real User Monitoring dashboard](https://vagov.ddog-gov.com/rum/performance-monitoring?query=%40application.id%3A9d5155fd-8623-4bc9-8580-ad8ec2cdd7fa&from_ts=1687971959215&to_ts=1688058359215&live=true)
      - [Sentry](http://sentry.vfs.va.gov/organizations/vsp/issues/)
+- If there are any errors or issues found as a result of this change, we will disable the code by switching off the feature toggle which will result in the change being reverted to its previous state prior to release.  We will then begin triaging the root cause and determining a solution.
+     - Timeline for triage and solution implementation will be fast-tracked to complete within 1-3 days.
 - Main POCs:
      - Heather Justice (heather.justice@adhocteam.us) - Product Manager
      - Matt Long (matt.long@adhocteam.us) - Engineering lead
