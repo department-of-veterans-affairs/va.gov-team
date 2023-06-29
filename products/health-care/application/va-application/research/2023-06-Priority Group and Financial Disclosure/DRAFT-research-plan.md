@@ -47,7 +47,7 @@ We will use these findings to:
 ### Research questions
 
 
-Learn more about Veteran's mental model when applying for and managing their health care benefits including the terms they use and how they understand eligibility and their specific benefits.
+**Learn more about Veteran's mental model when applying for and managing their health care benefits including the terms they use and how they understand eligibility and their specific benefits.**
 
 - What is the Veteran's mental model of discovering, getting and keeping health care benefits as they go through the application process?
 - What are Veteran's understanding of what benefits they will get and the cost to them while applying for benefits?
@@ -59,7 +59,7 @@ Learn more about Veteran's mental model when applying for and managing their hea
 - What is the Veterans mental model of eligibility and Priority Groups around their benefits and costs?
   
 
-Learn more about Veteran's awareness and understanding of their Priority Group placement including how that impacts their benefits as it pertains to financial disclosure, copays and travel reimbursement. 
+**Learn more about Veteran's awareness and understanding of their Priority Group placement including how that impacts their benefits as it pertains to financial disclosure, copays and travel reimbursement.**
 
 - Do Veterans seem confused by Priority Group transparency prior to applying to enroll?
 - What is the communication and education process around Priority Groups like from the Veteran's perspective?
@@ -68,9 +68,9 @@ Learn more about Veteran's awareness and understanding of their Priority Group p
 - What information around PG/copays would the Veteran like to have easy access to and where?
 - What is Veteran's attitude towards Priority Groups and copay rates?
 - Where do Veterans call out as the way to view their Priority Group information? the VA profile or MyHelatheVet or the mobile app or ...?
+- Do Veterans associate Priority Groups more with eligibility or with benefits?
 
-
-Learn more about how Veterans would like to go about providing updated information that could impact their health care benefits after enrollment.
+**Learn more about how Veterans would like to go about providing updated information that could impact their health care benefits after enrollment.**
 
 - Where do Veterans call out as the way to manage their health benefits ? the VA profile or MyHelatheVet or the mobile app or (enter method here)
 - Do Veterans prefer to provide updated information in person at appointments or over the phone?
@@ -105,6 +105,11 @@ Remote via Zoom for the interviews
 
 - [Link to conversation guide - Cohort 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/DRAFT-conversation-guide.md) 
 
+- [Link to conversation guide - Cohort 2](url) 
+
+- [Link to conversation guide - Cohort 3](url) 
+
+
 - [Recruitment ticket]
 
   
@@ -118,6 +123,8 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 ### Recruitment criteria
 
 Cohort 1: 8 completed sessions / **12 requested**
+Cohort 2: 5 completed sessions / **9 requested**
+Cohort 3: 5 completed sessions / **9 requested**
 
 
 **Primary criteria (must-haves)**
@@ -130,19 +137,20 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
-
-- At least 3 participants are female
+Per cohort: 
+- At least 2 participants are female
 - At least 3 participants with a cognitive disability
 - At least 3 participants over the age of 55
-- At least 3 participants who are living abroad or immigrant origin
+- At least 1 participant who are living abroad or immigrant origin
 
 
 ## Timeline
 
-TBD
-Cohort 1: July 17 - 21, 2023
-Cohort 2: 
-Cohort 3: 
+**TBD - DRAFT**
+Cohort 1: July 17 - 19, 2023
+Cohort 2: July 26 - 30, 2023
+Cohort 3: TBD
+
 
 ### Prepare
 * Pilot participant email: 
