@@ -30,8 +30,10 @@ ________________________________________________________________________________
         - Pilot starts July 10 with Asheville & Richmond    
     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Understand and create the design for vets-api module to call CHIP endpoints for full auth check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59385)
-        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add vets-api Module for Mobile App to Access new CHIP API Endpoints](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59899)
-            - Needs to be broken down 
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create Service class with initialization code with api key](https://github.com/department-of-veterans-affairs/va.gov-team/issues/611211)
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create Exception class following platform standards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61120)
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create Configuration class following platform standards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61119)
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create CHIP folder structure under /lib in vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61118)
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Create a CHIP Endpoint for Getting Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59895)
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - setup authenticated check-in endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61029)
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Add & Deploy 2 Demographics Endpoints on AWS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60991)
