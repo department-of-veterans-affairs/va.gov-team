@@ -125,6 +125,12 @@ Link to Initiative Brief on the overall project: https://github.com/department-o
 --- 
 
 ## Launch Strategy
+
+Launch MVP once all the categories are redesigned.
+
+Communication Plan:
+
+
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 - [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
@@ -142,6 +148,8 @@ Link to Initiative Brief on the overall project: https://github.com/department-o
 ## Solution Narrative
 
 ### Current Status
+
+- Drafting product ouline and conducting discoveries/spikes
 
 ### Key Decisions
 
