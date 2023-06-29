@@ -79,13 +79,13 @@ Forms DB is in maintenance mode.
 
 ### Lighthouse API Team
 Lighthouse teams owns the Sidekiq job that imports CMS Forms data to Lighthouse, for populating Find a Form search results.
-|Name|Role|
-|----|----|
-|Kristen Brown | Engineer (AdHoc)|
-|Mark Kelly | Associate Managing Software Engineer (Reticulating Splines) |
-|Mark Viterna	|Team-Matsumoto - Benefits Intake/Forms API|
-|Ryan Link	|Customer Success Manager, Lighthouse APIs [Oddball]|
-|Lee DeBoom	|Vets API|
+|Name|Role|Email|
+|----|----|----|
+|Michael Hobson |michael.hobson@adhocteam.us / shaun.hobson@va.gov | Product Manager, Lighthouse VA Forms API | 
+|Emily Goodrich |emily.goodrich@oddball.io | Delivery Manager, Lighthouse VA Forms API |
+|Kristen Brown |kristen.brown@adhocteam.us / kristen.brown5@va.gov | Software Engineer, Lighthouse VA Forms API (AdHoc)|
+|Matt Kelly |matt.kelly@adhocteam.us / matthew.kelly7@va.gov | Technical Lead, Lighthouse VA Forms API|
+|Ryan Link	| | Customer Success Manager, Lighthouse APIs [Oddball]|
 
 ### Other Subject Matter Experts
 |Name|Role|
