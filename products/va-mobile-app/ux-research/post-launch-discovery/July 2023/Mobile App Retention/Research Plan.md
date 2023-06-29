@@ -152,7 +152,7 @@ Analysis and findings: July 27 - July 31, 2023
 
 * Session length: 30 minutes
 * Buffer time between sessions: 30 minutes
-* Maximum Sessions per day: 4
+* Maximum Sessions per day: 5
 
 ### 
 **Availability**
