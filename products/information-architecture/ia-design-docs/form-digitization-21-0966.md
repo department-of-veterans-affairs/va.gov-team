@@ -41,6 +41,8 @@ The form will live under the new parent page for supporting forms.
 
 
 ## <a name="nav"></a>Entry points <br>
+*A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
+
 1. **Supporting forms page** - Add
   - Placement description: 
   - Link label: TBD by Sitewide Content
