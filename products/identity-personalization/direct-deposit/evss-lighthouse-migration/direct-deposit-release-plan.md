@@ -104,13 +104,18 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 ### Define the Rollback process
 
+<details>
+ <summary>Help Text</summary>
 Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
 
 > Example
 >
 > - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
+</details>
 
-[FILL_IN]: create your rollback plan
+**Rollback Plan:**
+
+PM and PO will monitor analytics (specifics to be documented with story [#61165](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61165)). If the team notices a spike in errors, they will contact the engineering team to get the FE engineer to disable the toggle.profile_lighthouse_direct_deposit
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
