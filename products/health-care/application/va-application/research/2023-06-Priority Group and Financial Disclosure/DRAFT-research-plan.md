@@ -1,4 +1,4 @@
-# DRAFT Research Plan for health care application research study around Priority Groups / Financial Disclosure / Dependents [Health Enrollment Team, 10-10EZ, June 2023]
+# DRAFT Research Plan for health care application generative research study around Priority Groups / Financial Disclosure / Dependents [Health Enrollment Team, 10-10EZ, June 2023]
 
 ## Background
 The online health care application (10-10EZ) and the update form (10-10EZR which is only paper form today) both can impact a Veteran's eligibilty and placement when applying for and managing their health care benefits. This is more so impactful for those placed in a Priority Group who need to have income information considered for copays and travel reimbrusment in addition to eligibility. The 10-10EZ is the initial application that then places a Veteran in a Priority Group for enrollment into the full medical benefits package. The 10-10EZR is used to proivde personal, financial or insurance information updates after enrollment. 
