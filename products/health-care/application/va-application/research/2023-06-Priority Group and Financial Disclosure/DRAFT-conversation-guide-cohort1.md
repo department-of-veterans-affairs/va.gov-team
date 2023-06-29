@@ -90,57 +90,39 @@ Let’s start with a few warm-up questions.
 
 ---
 
-## Third Topic: [Priority Group - SCENARIO] - 10 minutes
 
-- I'm going to share my screen for this next question.
-- [Open Mural board with image]
-- This message (screen capture of enrolled Alert with PG info) appears to communicate that you are currently enrolled in health care.
-- Have you ever seen this message before?
-- Where would you expect to find this message or this type of health care benefit information online?
-- What information about your benefits do you feel is missing from this message that you would find helpful?
-- Would being able to view your Priority Group online be of value to you and how would you see that working for you?
-- Where would you like to view and manage your Priority Group information online?
-
-
-### Things to watch for:
-- [Do Veterans' call out VA.gov as where they would expect to find this information or another channel - MHV or VA Profile?]
-- [What information do Veterans want to be communicated to about their Priority Group?]
-
-
-
----
-
-## Fourth Topic: [Updates post enrollment] - 5 minutes
+## Third Topic: [Updates post enrollment] - 5 minutes
 - Changing directions a bit now, since you enrolled, have you had to make any updates to your information since your initial application?
 - If yes, can you please tell me more about that. What did you have to update and how was that experience for you?
 - Is there anything about that experience that you wish you could change?
 - Did you have to make updates for other benefits too or just health care?
 
+### Things to watch for:
+- [What are the most common reasons to why updates would need to be made?]
+- [How do Veterans talk about this experience if they have made updates - was it easy, difficult, confusing - and why?]
 
-## Fifth Topic: [EZR Tasks - SCENARIO] - 10 minutes
+---
 
-- Now I would like to transition to you sharing your screen and have you go to the link in the chat for VA.gov:
-- https://staging.va.gov/
-  
-- For this first scenario, you completed the health care application and are now enrolled in and using your health care benefits. You are in Prioirty Group 8. You had a change in income after you lost your job and want to report that to see if you qualify for more benefits now. 
-
-- Can you show me where you would expect to find the ability to complete this task and talk me through your though process as you go?
-
-
-
-## Sixth Topic: [Financial Disclosure] - 5 minutes
+## Fourth Topic: [Financial Disclosure] - 5 minutes
 - How would you see a change in income impacting your health care benefits?
 - If you have copays, when during the enrollment process were you clear on what you qualified for and what you would have to pay? 
 
-## Sixth Topic: [Dependents] - 5 minutes
+### Things to watch for:
+- [Is income often associated with health benefits?]
+- [Is there a disconnect between financial disclosure and copays or travel reimubrusment?]
+
+---
+
+## Fifth Topic: [Dependents] - 5 minutes
 - If you had to make changes to your dependents, can you explain to me how you would go about doing that?
 - What would be an ideal process for you if you needed to make chagnes to you dependents?
 
 ### Things to watch for:
 - [What is the current process and pain points when making updates to dependents?]
 
+---
 
-## Fourth Topic: [Ideal State] - 5 minutes
+## Sixth Topic: [Ideal State] - 5 minutes
 - Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using your benefits and updating your information. 
 - What tools, communication, people could make this the best process possible in your mind?
 - What information would be important to you so you feel confident when having to apply for and use your health care benefits?
@@ -153,7 +135,7 @@ Let’s start with a few warm-up questions.
 - [What do they mention or call out as information that is helpful in making decisions about health care benefits?]
 
 
-
+---
 
 
 ## Post-Task Interview - 2 minutes
