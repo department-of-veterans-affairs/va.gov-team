@@ -3,7 +3,7 @@
 -	Indicate in bold when moderator speaks. 
 -	Give initials M for moderator and P for participant.
 -	Title the notes using the following format: 2023-07-P(#)-device-gender-age.md
--	Indicate in (italics) when you’re describing a behavior. E.g., “umm, I think I should do this (clicks on sign in button).” 
+-	Indicate in (_italics_) when you’re describing a behavior. E.g., “umm, I think I should do this (_clicks on sign in button_).” 
 
 # Warm-up questions
 **What kind of device are you using today?** (_Computer / Tablet / Smartphone_)
