@@ -1,8 +1,9 @@
 # IA Design for Forms 21-4142 and 21-4142(a)
 **STATUS: Complete**
 ##### Edit history
-- 5/16/2023 - updated site map image (JM)
-- 5/24/2023 - updated URL and site map image (JM)
+- 5/16/2023 - updated sitemap image (JM)
+- 5/24/2023 - updated URL and sitemap image (JM)
+- 6/29/23 - update sitemap image (JM)
 
 **Team:** Digitization Team
 
@@ -23,7 +24,7 @@
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/52b06b9d-4b9b-4f29-96ea-0ebd0ca6bd78)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/cd525c18-bb3a-4e20-bb15-aeb906f0bc39)
 
 The form will live under the new parent page for supporting forms.
 
