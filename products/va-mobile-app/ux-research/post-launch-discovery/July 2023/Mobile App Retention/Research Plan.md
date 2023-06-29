@@ -193,13 +193,13 @@ Tuesday, July 11
   <tr>
    <td>Wednesday, July 19
    </td>
-   <td>10 am - 2 pm EST
+   <td>10 am - 2:30 pm EST
    </td>
   </tr>
   <tr>
    <td>Thursday, July 20
    </td>
-   <td>11 am - 2 pm EST
+   <td>11 am - 2:30 pm EST
    </td>
   </tr>
 </table>
@@ -208,7 +208,7 @@ Tuesday, July 11
 
 ### 
   
-	Team Roles**
+	Team Roles
 
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
 
