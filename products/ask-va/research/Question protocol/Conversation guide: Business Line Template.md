@@ -52,7 +52,7 @@ I'd like to start by learning about the type of inquiries you're responsible for
 * What makes it easier to answer an inquiry?
 * What makes it more difficult? For example, what makes it take longer to answer a particular inquiry?
 * There's a question in the current AVA that asks whether someone is submitting a compliment, question, town hall, and so on. How do you use this information to help answer a submitter's question?
- * We've heard that this field is often answered incorrectly, so the data isn't used much. We recommend removing this question. Are you comfortable with us removing this question?
+   * We've heard that this field is often answered incorrectly, so the data isn't used much. We recommend removing this question. Are you comfortable with us removing this question?
 * *Add any specific questions for this business line*
 
 ### Review form: 35 minutes
@@ -81,8 +81,8 @@ On this screen, the user tells us more about their inquiry.
 * We noticed that if someone says they are submitting a general question, they need to provide their zip code. Do you know why a zip code is required?
 * Do you have any issues with the current free-text box, where users can write their inquiry in their own words?
 * Do you receive documents that submitters upload with their inquiry?
-  * If yes, do you face any issues with this?
-  * If not, could this be useful? How?
+    * If yes, do you face any issues with this?
+    * If not, could this be useful? How?
 * Is there anything on this page that you would change? Why?
 * *Add any specific questions for this business line*
 
@@ -99,8 +99,8 @@ On this screen, the user shares more about themselves.
 On this screen, the user gives us their contact information.
 
 * How do you reply to submitter's? For example, over the phone, email, or US Mail.
-  * We noticed that submitter's can choose which contact method they prefer. If they choose to be contacted over the phone, will you only contact them that way?
-  * Is there any circumstance where you would call them instead?
+    * We noticed that submitter's can choose which contact method they prefer. If they choose to be contacted over the phone, will you only contact them that way?
+    * Is there any circumstance where you would call them instead?
 * Why is it useful to know a Veteran's gender identity?
 * Is there anything on this page that you would change? Why?
 * *Add any specific questions for this business line*
@@ -117,7 +117,7 @@ At the end, the user will have the chance to review their information before the
 Finally, the will submit their inquiry and we'll tell them what to expect next.
 
 * How long does it usually take you to reply to an inquiry?
-  * Are you comfortable with us stating that it takes up to 7 business days to reply to an inquiry? 
+    * Are you comfortable with us stating that it takes up to 7 business days to reply to an inquiry? 
 * Is there anything on this page that you would change? Why?
 * *Add any specific questions for this business line*
 
