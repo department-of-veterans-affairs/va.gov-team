@@ -27,6 +27,15 @@
 - We should think about how we discuss ID.me and how we might include it in our content as an option for those who are unable to create a Login.gov account
 - Next steps: As we continue to detail our solutions we will share them with Sitewide and refer to where we are on the journey and what we are hoping to accomplish. Next meeting with IA is in a month but we will maintain our weekly content syncs with Sitewide and MHV
 
+## June 22, 2023
+
+### Attendees: Carl Dickerson, Aliyah Blackmore, Laura Willwerth
+
+### Notes:
+- Laura and Aliyah provided feedback on email draft. Carl will take their feedback and slim down the content
+- Laura did give a quick overview of Medallia. She noted that Danielle was already working on pulling identity related feedback
+- Our campaign page is set up for G-Analytics and Medallia
+- We need to form a schedule around how we check on this data
 ## June 12, 2023
 
 ### Attendees: Sofia Kirkman, Danielle Thierry
