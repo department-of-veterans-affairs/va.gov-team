@@ -18,7 +18,7 @@ Our goal is to **understand which fields are necessary in order for agents to de
 ## Prepare
 
 ### 1-2 days before the session
-- [ ] Create a new folder in [this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Question%20protocol) and name it the business line or category name
+- [ ] Create a new folder [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Question%20protocol) and name it the business line or category name, here's an [example](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Question%20protocol/Health)
 - [ ] Make a copy of the conversation guide and replace 'BUSINESS LINE TEMPLATE' with the business line or category name
 - [ ] Add questions relevant to the specific business line, if any
 - [ ] Ensure prototype(s) are ready to go
@@ -135,5 +135,5 @@ Thanks for reviewing this with us. It's really helpful to get your feedback.
 - [ ] Upload recording to the drive
 - [ ] Share notes and recording with our team
 - [ ] Share notes and recording with the business line
-- [ ] Upload notes to Github folder for that business line
+- [ ] Upload notes to business line's Github folder
 - [ ] Discuss action items or updates to the prototype as a team
