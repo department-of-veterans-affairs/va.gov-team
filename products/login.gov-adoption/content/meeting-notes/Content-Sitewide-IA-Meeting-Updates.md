@@ -1,5 +1,32 @@
 ## Content Sync
 
+## June 29, 2023
+
+### Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Porta Antiporta, Joe Niquette
+
+### Notes:
+- Currently the email links to the sign in FAQs on VA.gov instead of CLP
+- Change language from recommend to need and should
+- What do we do in the event that a veteran loses an MFA device?
+  - give out a resource that may not live on VA.gov and just listen out if this is a common issue
+- Review Verifying your Identity FAQs
+  - Porta and Joe weighed in on questions pertaining to ID.me
+  - Joe recommended not getting too specific in answering questions and linking to the Login.gov and ID.me pages where needed
+  - there are security concerns in being too specific
+  - If answers are too speciic and it doesn't line up with reality it could result in a dispute
+  - more specific questions need to be owned by ID.me and Login.gov
+  
+## June 28, 2023
+
+### Attendees: Sofia Kirkman, Carolyn Williams, Carl Dickerson, Kristin Oulette, Laura Willwerth, Sara Smith
+
+### Notes:
+- Kristin really liked our journey map overall and wants to use it as an example for discussions with other teams
+- Kristin asked if we have a plan for after the alert phase. We responded that we are aware that we will need to provide support for people who may have missed the deadline but we are also going to have services that will support those with tech issues or who fail (IPP). We will need to consider this issue further though and come up with a more solid plan if we notice (early) if veterans seem to be having problems or falling off from comms
+- Laura asked if we can track analytics on blogs. We will try to get the analytics to tag  news.gov but we can also track clicks on the newsletter and other places (like socials) where blogs are posted
+- We should think about how we discuss ID.me and how we might include it in our content as an option for those who are unable to create a Login.gov account
+- Next steps: As we continue to detail our solutions we will share them with Sitewide and refer to where we are on the journey and what we are hoping to accomplish. Next meeting with IA is in a month but we will maintain our weekly content syncs with Sitewide and MHV
+
 ## June 12, 2023
 
 ### Attendees: Sofia Kirkman, Danielle Thierry
