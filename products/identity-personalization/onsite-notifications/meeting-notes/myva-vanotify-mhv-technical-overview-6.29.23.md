@@ -1,4 +1,5 @@
 # My VA - VA Notify - MHV on VA.gov: Onsite Notifications Technical Overview
+_This meeting was cancelled - further internal conversations at OCTO are needed on broader notification strategy._
 
 ### In attendance - 6/29/23
 | My VA | VA Notify | MHV on VA.gov |
