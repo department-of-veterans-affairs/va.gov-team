@@ -2,7 +2,7 @@
 
 Created: June 28, 2023
 
-This is an analysis of Veteran feedback from **May 16, 2023 - June 04, 2023**.
+This is an analysis of Veteran feedback from **June 05, 2023 - June 27, 2023**.
 
 Feedback from Veterans is captured in VSignals. This report queries VSignals for comments that mention "check in" and "travel reimbursement." 
 
