@@ -80,11 +80,13 @@ Learn more about how Veterans would like to go about providing updated informati
 - What information does the Veteran feel they should have to provide vs. what the VA should have/they have to verify?
 - Is there frustration about steps or processes after the initial application process in regards to providing more information, filling out additional forms?
 - Do dependent updates cross benefits in the Veteran's POV or do they associate them only with their health care benefits?
+- What is different about the dependent update process from other EZR updates?
 
 
 
 ### Hypothesis
 - We assume the overall process of determining eligibility and being placed in a Priority Group is somewhat unclear to Veterans today.
+- We assume that Veterans want more information about Priority Groups and transparency about how that impacts their eligibility and benefits.
 - We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and other claims filed in between that could impact their enrollment and Priority Group placement. 
 - We assume that Veterans who have health care regularly login to MHV more than VA.gov 
 - We assume there is a desire from Veterans for the Priority Group placement to be more clear as it pertains to benefits, copays, costs and travel reimubrusement
