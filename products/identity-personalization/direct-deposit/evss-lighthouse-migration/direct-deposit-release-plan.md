@@ -143,8 +143,8 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 
 #### Rollout Planning
 
-- Desired date range: [FILL_IN]
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
+- Desired date range: 8/16-29/2023
+- How will you make the product available in production while limiting the number of users who can find/access it: We'll enable the toggle for a % of users
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
   - [FILL_IN] : list
   - [FILL_IN] : of
@@ -171,7 +171,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage B: 25% of users
+### Stage B: 10% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
@@ -188,7 +188,24 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage C: 50% of users
+### Stage C: 25% of users
+
+*Test a larger user population to ensure larger usage patterns expose no issues.*
+
+#### Planning
+
+- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Percentage of Users (and roughly how many users do you expect this to be): 25%
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage D: 50% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
@@ -205,7 +222,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage D: 75% of users
+### Stage E: 75% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
@@ -222,7 +239,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage E: 100% of users
+### Stage F: 100% of users
 
 #### Planning
 
