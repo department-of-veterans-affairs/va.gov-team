@@ -121,10 +121,10 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 
 #### Planning
 
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
+- Desired date range or test duration: ~ 8/2-15/2023
+- Desired number of users: [9]
+- How you'll recruit the right production test users: [Research Plan to be defined](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60942) 
+- How you'll conduct the testing: [Research Plan to be defined](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60942) 
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
 
 #### Results
@@ -141,8 +141,6 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
-We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
-
 #### Rollout Planning
 
 - Desired date range: [FILL_IN]
@@ -156,7 +154,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
-### Stage A: Canary
+### Stage A: Canary (1%)
 
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
