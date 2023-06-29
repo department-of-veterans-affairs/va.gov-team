@@ -33,7 +33,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 - **Internet Browser:** Chrome, Firefox, etc.
 - **Note**:**Participants who did not complete the session:**
     - **P1** (no show), **P8** (canceled),  P15 (no AT used); and **P10** (no show).
-    - [4 out of 7](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/58566) participated (57% of those recruited for AT testing, actually participated).
+    - [3 out of 7](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/58566) participated (42% of those recruited for AT testing, actually participated).
     - **P15** was an AT user (screen magnification) but did not use it on the call. Therefore, P15's data should be analyzed with the overall data, not this segment.
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
@@ -41,12 +41,12 @@ To best serve the users of VA.gov, we will need to collect the following informa
 | _P2_                   | 6/12/2023        | _VoiceOver_        | _Advanced_      | _iOS_                | _Safari_    | _Mobile_      |
 | _P17_                  | 6/20/2023        | _VoiceOver_ (signed up with screen magnification)        | _Advanced_      | _iOS_                | _Safari_    | _Mobile_      |
 | _P11_                  | 6/15/2023        | _Screen Magnification_        | _Expert_      | _iOS_                | _Safari_    | _Mobile_      |
-| _P12_                  | 6/15/2023        | _VoiceOver_        | _Advanced_      | _iOS_                | _Safari_    | _Mobile_      |
+
 
  
 **Participants who successfully completed sessions: 4**
 
-- [3 iOS VoiceOver users (screen reader) and 1 Screen Magnification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/transcripts)
+- [2 iOS VoiceOver users (screen reader) and 1 Screen Magnification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/transcripts)
 
 ## 📝Notes Prior to Synthesizing to Findings
 
@@ -75,6 +75,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 
 #### Review upcoming appointments
 - P17: “It doesn’t say that is a link, but I will tap onto it.”
+- P11: "It would be nice to put the 3 appointments back-to-back, so I'm not at the VA all day. Parking availability is dependent on appointment time. I make appointments on Friday because there aren't many people." 
 
 ### DOB Field
 - P2: Participant prefers a date picker to avoid jumping out of the form fields.
@@ -114,10 +115,13 @@ To best serve the users of VA.gov, we will need to collect the following informa
 #### Date and Details
 - P17: "Appointment number four, or was that the date?" When referring to the number 4 (date) indicator on the appointment page. "At first I thought they represented the actual number of appointments. Then, scanning the number that I just got to is actually the day of the month. I can say that was a little confusing, but not anything I couldn't figure out."
 - P17: "... Needing to know the floors or the room number. Some buildings have to go to the information desk, for floor and room number to see where it was at."
+- P11: It was "easy" for the participant to find out if they had upcoming appointments that needed to be reviewed, too. 
 
 ### Processes: Confirmation and Check-In
 - P17: "The separation of the two was quite obvious because the first one with the text message is text message based, when you go on this tab, it takes you to an actual website, or platform per say. That is the major difference. You know I can say personally myself, you know, I would check in this second way. I believe after maybe 3 or 4 attempts at it. Especially the part when I know my information is current, then I don’t have to go through that process and it would be just as easy going to a kiosk, being low vision. Compared to going to a check-in kiosk, with no voice output and using this tool, you know for the blind and no vision veterans this would definitely be easier."
-- P17: Don’t say check in unless you check in. We were giving an or option, and instead say confirm. Instead say confirm and not use check in if that is not available. 
+- P17: Don’t say check in unless you check in. We were giving an or option, and instead say confirm. Instead say confirm and not use check in if that is not available.
+- P11: Participant was curious what would happen if they misspelled their last name, but put in the correct birthdate.
+- P11: Participant would have someone at the VA help with check in via a smart phone. "I will leave my smart phone at home, while I go out. I don't know if it would be good to rely on the Veteran to have ehier smartphone." 
 
 ### Positive Feedback
 - P17:**Review your upcoming appointments**: “Oh, WOW, Ok! That was very clear.” Adding the "You checked in at 7:55 a.m." under the appointment details link was helpful.
