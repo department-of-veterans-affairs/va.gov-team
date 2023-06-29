@@ -18,7 +18,9 @@
 
 ## <a name="flows"></a>User/page flows <br>
 *Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/cbe870ab-ca31-4e5f-b0fa-49893fd9b388)
 
+We created a user journey map to identify how folks learn about this form and learn about opportunities for content and crosslinks as survivors begin the process after a Veteran passes.
 
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
