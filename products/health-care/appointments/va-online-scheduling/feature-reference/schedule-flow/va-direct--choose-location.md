@@ -5,7 +5,8 @@ Veterans are asked to choose where they'd like to receive the type of care they 
 
 ## User stories
 
-- As a Veteran I want to choose where I will receive care.
+- As a Veteran I want to choose where I will receive care when I schedule an appointment.
+- As scheduling staff I want Veteran appointments to be sent to the right facility.
 
 ## Requirements
 
