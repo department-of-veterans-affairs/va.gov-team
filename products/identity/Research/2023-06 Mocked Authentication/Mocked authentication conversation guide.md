@@ -52,11 +52,9 @@
    - [REFER BACK TO THIS LATER]
 - What environments do you normally work through?
    - [LISTEN FOR local environment, dev.va.gov]
-- How do you test that the changes you made to code you are working on are then working with exsisting VA code as intended?
+   - How much time do you generally spend in local vs dev environments?
+- When you test changes you made to code, do you simulate authentication?
    - [PROMPT] Where do you go? What steps do you take?
-- When testing do you ever simulate authentication into VA?
-   - Can you tell me about that? No need to get into the technical details.
-      - [PROMPT] Do you generate your own mocked credentials every time you need them?
    - What pain points do you have with that process?
    - How much time would you say that you normally spend on simulated authentication?
       - In an average sprint?
@@ -109,10 +107,10 @@
 
 - Do you have a mock user that is your go-to?
    - What would you say are your top 3 users?
-- Have you ever felt the need to or wished you could make a new mocked user for certain traits?
-- If you wanted to set up a new mock user, how might you start that process?
+- Have you ever felt the need to make a new test user with certain traits?
+- If you wanted to set up a new test user, how might you start that process?
   
-[OFFER TIME for them to read through documentation]
+[OFFER TIME for them to read through documentation if time permits]
 
 - Would you want to try creating a new mock user now?
    - [IF SO] Go ahead and go through, please speak out loud any thoughts you have as you do.
