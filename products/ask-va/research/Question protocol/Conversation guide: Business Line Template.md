@@ -51,8 +51,8 @@ I'd like to start by learning about the type of inquiries you're responsible for
 * Which types of inquiries does your team answer?
 * What makes it easier to answer an inquiry?
 * What makes it more difficult? For example, what makes it take longer to answer a particular inquiry?
-* There's a question in the current AVA that asks whether someone is submitting a compliment, question, town hall, and so on. How do you use this information to help answer a submitter's question?
-   * We've heard that this field is often answered incorrectly, so the data isn't used much. We recommend removing this question. Are you comfortable with us removing this question?
+* There's a question in the current AVA that asks the reason someone is getting in touch. They can say, ‘compliment, question, town hall,’ and so on. How do you use this information to help answer a submitter's question?
+    * We've heard that this field is often answered incorrectly, so the data isn't used much. We recommend removing this question. Are you comfortable with us removing this question?
 * *Add any specific questions for this business line*
 
 ### Review form: 35 minutes
