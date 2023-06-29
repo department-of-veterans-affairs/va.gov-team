@@ -1,4 +1,19 @@
 # Running Notes for Design & Research Teams 1 & 2 (T-Rex & Carbs)
+
+## 6/22/23
+Attendees: Lydia, Nyantee, Julie
+
+Agenda
+- Review sitemap and validate changes
+- Discuss toxic exposure "pairing"
+
+## 6/22/23
+Attendees: Lydia, Nyantee, Julie
+
+Agenda
+- Review sitemap and validate changes
+- (Didn't record, notes documented in the sitemap/form flow Mural)
+
 ## 6/15/23
 Attendees: Lydia, Nyantee, Nichole
 
