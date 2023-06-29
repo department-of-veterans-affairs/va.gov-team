@@ -19,7 +19,7 @@ The 10-10EZ is easier for applicants to understand and complete without having t
      - (examples: Pause to talk to spouse, have to find financial paperwork, need to finish taxes, etc.)
 - We have noticed a 12-month trend of drop-offs around the Financial Disclosure page (4%), the Annual Income page (5.2%) and Spouse page (6.9%).  
      - it was first brought to our attention because they showed the highest drop-off rates of all the pages in the form, compared to the other pages with an average of 0-2% exit rates.
-- HEC team (especially Stacey Echols) also has heard this section is painful and is eager to update to improve completion rate (in their mind this is next after short form)
+- HEC team (Also from HEC Director, Stacey Echols) also has heard this section is painful and is eager to update to improve completion rate (in their mind this is next after short form)
 
 ## Desired User Outcomes
 - Applicants will be able to proceed through the application easily and confidently
