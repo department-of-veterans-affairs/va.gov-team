@@ -8,7 +8,7 @@ The outcome of this generative research study will help in understanding the Vet
 
 - [Link to product initiative brief for Priority Groups](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Priority%20Group)
 - [Link to product initiative brief for Financial Disclosure](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities)
-- Link to Discovery Mural board
+- [Link to Discovery Mural board](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1687381992402?sender=uadf1ed7fe7c76f0914967329&key=2694912f-19c7-4254-8e86-ce74e6a4bdf0)
 
 
 
