@@ -35,8 +35,8 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 
 - Desired date range or test duration: ~ 8/2-15/2023
 - Desired number of users: [9]
-- How you'll recruit the right production test users: [Research Plan to be defined](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60942) 
-- How you'll conduct the testing: [Research Plan to be defined](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60942) 
+- How you'll recruit the right production test users: [**Research Plan** to be defined](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60942) 
+- How you'll conduct the testing: [**Conversation Guide** to be defined](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60942) 
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
 
 #### Results
