@@ -103,9 +103,9 @@ Remote via Zoom for the interviews
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
 
-- [Link to conversation guide - Cohort 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/DRAFT-conversation-guide.md) 
+- [Link to conversation guide - Cohort 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/DRAFT-conversation-guide-cohort1.md) 
 
-- [Link to conversation guide - Cohort 2](url) 
+- [Link to conversation guide - Cohort 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/DRAFT-conversation-guide-cohort1.md) 
 
 - [Link to conversation guide - Cohort 3](url) 
 
