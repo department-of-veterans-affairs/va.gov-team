@@ -1,4 +1,4 @@
-# Conversation Guide for health care application generative research study around Priority Groups and Financial Disclosure  [Health Enrollment Team, 10-10EZ, June 2023]
+# Conversation Guide for health care application generative research study around Priority Groups and Financial Disclosure [cohort 1] [Health Enrollment Team, 10-10EZ, June 2023]
 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -116,6 +116,7 @@ Let’s start with a few warm-up questions.
 - Is there anything about that experience that you wish you could change?
 - Did you have to make updates for other benefits too or just health care?
 
+
 ## Fifth Topic: [EZR Tasks - SCENARIO] - 10 minutes
 
 - Now I would like to transition to you sharing your screen and have you go to the link in the chat for VA.gov:
@@ -128,12 +129,15 @@ Let’s start with a few warm-up questions.
 
 
 ## Sixth Topic: [Financial Disclosure] - 5 minutes
-
 - How would you see a change in income impacting your health care benefits?
 - If you have copays, when during the enrollment process were you clear on what you qualified for and what you would have to pay? 
 
 ## Sixth Topic: [Dependents] - 5 minutes
-- If you had to make benefits to your dependents, can you explain to me how you would go about doing that?
+- If you had to make changes to your dependents, can you explain to me how you would go about doing that?
+- What would be an ideal process for you if you needed to make chagnes to you dependents?
+
+### Things to watch for:
+- [What is the current process and pain points when making updates to dependents?]
 
 
 ## Fourth Topic: [Ideal State] - 5 minutes
