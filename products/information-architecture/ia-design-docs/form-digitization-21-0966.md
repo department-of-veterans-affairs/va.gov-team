@@ -3,6 +3,7 @@
 
 #### Edit history
 - 5/16/2023 - Created (JM)
+- 6/29/2023 - Edits (JM)
 
 **Team:** Veteran Facing Forms
 
@@ -21,15 +22,22 @@
 
 
 ## <a name="map"></a>Page structure<br>
-The form will live under the new parent page for supporting forms.
-![Screenshot 2023-05-16 at 4 59 06 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/4f7e7881-d3e1-4cc1-8a74-a39b1456486b)
+*Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/e30560c5-90cd-44e7-a4bd-8cd0314a8ecb)
+
+
+The form will live under the new parent page for supporting forms.
 
 ## <a name="url"></a>URLs and breadcrumbs
+*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
+
 **1) H1 of page - New**
+*A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
+
 - URL: URL: www.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966
 - Breadcrumb: VA.gov home > H1 of supporting forms page > H1 of form page
-- Notes: Since the supporting forms page is currently in progress, we left an H1 placeholder for when it is established.
+- Notes:
 
 
 ## <a name="nav"></a>Entry points <br>
@@ -41,7 +49,7 @@ The form will live under the new parent page for supporting forms.
  
 
 ## <a name="redirects"></a>Redirects <br>
-
+*A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*
 
 Current URL | Redirect to | Notes
 --- | --- | ---
