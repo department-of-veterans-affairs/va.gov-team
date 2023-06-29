@@ -1,4 +1,4 @@
-# DRAFT Research Plan for health care application generative research study around Priority Groups and Financial Disclosure [Health Enrollment Team, 10-10EZ, June 2023]
+# DRAFT Research Plan for health care application research study around Priority Groups and Financial Disclosure [Health Enrollment Team, 10-10EZ, June 2023]
 
 ## Background
 The online health care application (10-10EZ) and the update form (10-10EZR which is only paper form today) both can impact a Veteran's eligibilty and placement when applying for and managing their health care benefits. This is more so impactful for those placed in a Priority Group who need to have income information considered for copays and travel reimbrusment in addition to eligibility. The 10-10EZ is the initial application that then places a Veteran in a Priority Group for enrollment into the full medical benefits package. The 10-10EZR is used to proivde personal, financial or insurance information updates after enrollment. 
@@ -28,12 +28,12 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 
 ## Research Goals	
 
-
 Learn more about Veteran's mental model when applying for and managing their health care benefits including the terms they use and how they understand eligibility and their specific benefits.
 
 Learn more about Veteran's awareness and understanding of their Priority Group placement including how that impacts their benefits as it pertains to financial disclosure, copays and travel reimbursement. 
 
-Learn more about how Veterans would like to go about providing updated information that could impact their health care benefits after enrollment.
+Learn more about how Veterans would like to go about providing updated information - such as financial information or dependents - that could impact their health care benefits after enrollment.
+
 
 ### Outcomes
 We will use these findings to:
