@@ -1,7 +1,9 @@
 # Print/Save application input - Initiative Brief
 #### Overview
 - We would like to provide an easy way for Veterans to print and/or save (download) their application data entry, in an accessible format, for future reference.
- 
+- There have been past research findings indicating that Veterans prefer to print and/or save (download) a copy of their application input.
+     - [2023 Suplemental Claims - PACT Act](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#finding-9)
+     - 
 ---
 
 ## Outcome Summary
