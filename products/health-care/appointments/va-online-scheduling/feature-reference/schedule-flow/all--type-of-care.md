@@ -38,6 +38,19 @@ Veterans are asked what type of care they'd like to receive.
 - If a user does not have a residential address, they are shown an alert on this page with a link to the va.gov profile.
 - If a user chooses COVID-19 vaccine and clicks Continue, they're sent to the vaccine flow
 
+**Check Community Care Eligibility**
+- Community care eligibility is checked after the type of care page, if a user has chosen a type of care that supports community care:
+    - Primary care (if they have never been seen by a VA primary care provider—i.e., assigned to a PACT [Patient Aligned Care Team])
+    - Audiology (for either routine exam or hearing aid support)
+    - Optometry 
+    - Podiatry (currently only available for Community Care)
+    - Nutrition services
+
+- A user is eligible if two checks pass:
+    - The user is registered at a site that is marked as accepting community care requests
+    - The community care eligibility api says that they're eligible for the type of care they chose
+- If a user is community care eligible for the type of care they chose, then they will see a facility type page where they can choose between making a request for a VA appointment or for a community care provider.
+
 
 ## User interface design
 
