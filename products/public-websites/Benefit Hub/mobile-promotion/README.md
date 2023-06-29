@@ -42,19 +42,43 @@ Increase the download/use/adoption of the VA.gov mobile app
 
 
 ### MVP KPI measurements
+***Note***: see [details in section below the table](#Using_Mobile_Analytics_Monthly_Report_for_engagement_monitoring) for more information on the data available on the Mobile Monthly Report dashboard
 | Product KPI | Baseline **MONTH, YEAR** | Target | Link to data source | 
 | ----- | ----- | ----- | ----- |
-| Downloads of VA.gov iOS Mobile App (aggregate) | ----- | ----- | Mobile Analytics Dashboard App stores data | 
-| iOS use of VA.gov product landing pages | ----- | ----- | Google Analytics | 
-| Increased iOS App engagement with Refill and track your VA prescriptions function |  ----- | ----- | Mobile Analytics Dashboard - By feature: "Prescriptions"; App Events: "Prescriptions tracking tab viewed", "Rx refills succeeded", "Prescriptions pending tab viewed" |
-| Increased iOS App engagement with Send and receive secure messages from your VA health care team (Secure Messages Sent) |  ----- | ----- | Mobile Analytics Dashboard - By feature: "Secure messaging"; App Event: "SM sent", "SM drafts saved" |
-| Increased iOS App engagement with Get your records for VA vaccines, such as COVID-19 (Vaccine Detail Views) |  ----- | ----- | Mobile Analytics Dashboard - By feature: ???; App Event: "Vaccine details opened" |
-| Increased iOS App engagement with Submit evidence for your claim or appeal (Claim Document Uploads Started) |  ----- | ----- | Mobile Analytics Dashboard - By feature: "Claims"; App Event: "Evidence uploads started" (may consider including "Evidence uploads succeeded" and "evidence uploads failed" but this seems more like an iOS app problem than related to this initiative |
-| Increased iOS App engagement with Download common VA letters (Letter Downloads) |  ----- | ----- | Mobile Analytics Dashboard - By feature: "Letters"; App Event: "Clicked "Get claim letter" download button" (may consider "Successfully downloaded letter" but this seems like an iOS app problem than whether the funnel is routing people) |
-| Increased iOS App engagement with Update your direct deposit information (Veteran Direct Deposit Updates) |  ----- | ----- | Mobile Analytics Dashboard - By feature: "Direct deposit"; App Event: "Direct deposits updated" (note this is tracked twice in the dashboard as of 6/21) |
-| Increased iOS App engagement with Check your disability rating |  ----- | ----- | Mobile Analytics Dashboard - By feature: "Disability rating" |
-| Increased iOS App engagement with Review your claim or appeal status |  ----- | ----- | Mobile Analytics Dashboard - By feature: "Claims"; App Event: "Claim details op[ened for claims in step 3" (confirm with Mobile team) |
-| Increased iOS App engagement with Review payments we’ve sent you |  ----- | ----- | Mobile Analytics Dashboard - By feature: "Payment history";  |
+|Downloads of VA.gov iOS Mobile App from banner campaign links (count per link and overall)|-----|-----|Apple App Store Analytics: Aquisition report by campaign|
+|Downloads of VA.gov iOS Mobile App from banner campaign links as a percent of impressions from banner campaign links (per link and overall)|-----|-----|Apple App Store Analytics: Aquisition report by campaign|
+|iOS use of VA.gov product landing pages|-----|-----|Google Analytics|
+|Increased iOS App engagement with Refill and track your VA prescriptions function|-----|-----|Mobile Monthly Report<br>**Events**: Rx refills succeeded, Prescriptions tracking tab viewed<br>**Feature users**|
+|Increased iOS App engagement with Send and receive secure messages from your VA health care team (Secure Messages Sent)|-----|-----|Mobile Monthly Report<br>**Events**: SM sent<br>**Feature users**|
+|Increased iOS App engagement with Get your records for VA vaccines, such as COVID-19 (Vaccine Detail Views)|-----|-----|Mobile Monthly Report<br>**Events**: Vaccine details opened<br>**Feature users**|
+|Increased iOS App engagement with Submit evidence for your claim or appeal (Claim Document Uploads Started)|-----|-----|Mobile Monthly Report<br>**Events**: Evidence uploads started<br>**Feature users**|
+|Increased iOS App engagement with Download common VA letters (Letter Downloads)|-----|-----|Mobile Monthly Report<br>**Events**: Clicked to download a letter<br>**Feature users**|
+|Increased iOS App engagement with Update your direct deposit information (Veteran Direct Deposit Updates)|-----|-----|Mobile Monthly Report<br>**Events**: Direct deposits updated (current for versions 2.0 and forward)<br>**Feature users**|
+|Increased iOS App engagement with Check your disability rating|-----|-----|Mobile Monthly Report<br>**Events**: (none)<br>**Feature users**|
+|Increased iOS App engagement with Review your claim or appeal status|-----|-----|Mobile Monthly Report<br>**Events**: (none)<br>**Feature users**|
+|Increased iOS App engagement with Review payments we’ve sent you|-----|-----|Mobile Monthly Report<br>**Events**: (none)<br>**Feature users**|
+
+#### Using Mobile Analytics Monthly Report for engagement monitoring
+For each KPI structured as “Increased iOS App engagement with ,” there are two possible types of engagement measurements that can be viewed on the Mobile Monthly Report dashboard.
+1. Total number of unique active users engaging with a feature
+2. Total number of events logged for specific app analytics
+
+All KPIs can be monitored by the former. Not all will have the latter.
+
+**Total number of unique active users engaging with a feature**
+* Go to the dashboard page “App Users” (in the left-hand menu)
+    * Apply “Operating system” filter at top of page to see only iOS counts.
+    * If necessary, update the date range filter to the time frame of interest.
+* Go to the table under “By feature”
+* View the row for the feature related to the KPI to see the total number of unique active users.
+
+**Total number of events logged for specific app analytics**
+* Go to the dashboard page “App Events” (in the left-hand menu)
+    * Apply “Operating system” filter at top of page to see only iOS counts.
+    * If necessary, update the date range filter to the time frame of interest.
+* Go to the top table “App Events”
+* Sort by column “Feature” to be able to see all the events connected to a given feature next to one another.
+* In the KPI table above, the specific events most directly related to each KPI are named in the “Link to data source” column.**Some features do not have specific events relevant to the KPI.**
 
 ### Possible additional KPIs/tracking
 This data is not currently tracked (as of May 2023). As a result it may not specifically be MVP but fast-follow as the above measurements can provide indicators of success whereas some of these measures can provide definitive success metrics.
@@ -83,17 +107,17 @@ MVP will be to:
 * We will **not** include deep, navigational linking parameters (app-argument) in MVP as the Flagship Mobile App does not currrently support this function.
 * We will **not** include campaign linking at this time due to limited Apple documentation for campaigns and smart banners.
 
-| Category | App Function | VA.gov URL | 
-| ------ | ------ | ----- |
-| Health care tools | Refill and track your VA prescriptions | https://www.va.gov/health-care/refill-track-prescriptions/ | 
-| Health care tools | Send and receive secure messages from your VA health care team | https://www.va.gov/health-care/secure-messaging/  |
-| Health care tools | Get your records for VA vaccines, such as COVID-19 | https://www.va.gov/health-care/get-medical-records/ |
-| Benefits tools | Check your disability rating | https://www.va.gov/disability/view-disability-rating/ |
-| Benefits tools | Review your claim or appeal status | https://www.va.gov/claim-or-appeal-status/ | 
-| Benefits tools | Submit evidence for your claim or appeal | https://www.va.gov/disability/upload-supporting-evidence/ | 
-| Benefits tools | Download common VA letters | https://www.va.gov/records/download-va-letters/ |
-| Payment tools | Review payments we’ve sent you | https://www.va.gov/va-payment-history/ | 
-| Payment tools | Update your direct deposit information | https://www.va.gov/change-direct-deposit/ | 
+| Category | App Function | VA.gov URL | Apple App Store campaign link|
+| ------ | ------ | ----- |----- |
+|Health care tools | Refill and track your VA prescriptions | https://www.va.gov/health-care/refill-track-prescriptions/ | https://apps.apple.com/app/apple-store/id1559609596?pt=545860&ct=VA.gov%20Promo%20Banner%20Rx&mt=8|
+|Health care tools | Send and receive secure messages from your VA health care team | https://www.va.gov/health-care/secure-messaging/ | https://apps.apple.com/app/apple-store/id1559609596?pt=545860&ct=VA.gov%20Promo%20Banner%20SM&mt=8|
+|Health care tools | Get your records for VA vaccines, such as COVID-19 | https://www.va.gov/health-care/get-medical-records/ | https://apps.apple.com/app/apple-store/id1559609596?pt=545860&ct=VA.gov%20Promo%20Banner%20Vaccines&mt=8|
+|Benefits tools | Check your disability rating | https://www.va.gov/disability/view-disability-rating/ | https://apps.apple.com/app/apple-store/id1559609596?pt=545860&ct=VA.gov%20Promo%20Banner%20Disability&mt=8|
+|Benefits tools | Review your claim or appeal status | https://www.va.gov/claim-or-appeal-status/ | https://apps.apple.com/app/apple-store/id1559609596?pt=545860&ct=VA.gov%20Promo%20Banner%20Claims&mt=8|
+|Benefits tools | Submit evidence for your claim or appeal | https://www.va.gov/disability/upload-supporting-evidence/ | https://apps.apple.com/app/apple-store/id1559609596?pt=545860&ct=VA.gov%20Promo%20Banner%20Evidence&mt=8|
+|Benefits tools | Download common VA letters | https://www.va.gov/records/download-va-letters/ | https://apps.apple.com/app/apple-store/id1559609596?pt=545860&ct=VA.gov%20Promo%20Banner%20Letters&mt=8|
+|Payment tools | Review payments we’ve sent you | https://www.va.gov/va-payment-history/ | https://apps.apple.com/app/apple-store/id1559609596?pt=545860&ct=VA.gov%20Promo%20Banner%20Payments&mt=8|
+|Payment tools | Update your direct deposit information | https://www.va.gov/change-direct-deposit/ | https://apps.apple.com/app/apple-store/id1559609596?pt=545860&ct=VA.gov%20Promo%20Banner%20DD&mt=8|
 
 
 #### Go-to-market 
