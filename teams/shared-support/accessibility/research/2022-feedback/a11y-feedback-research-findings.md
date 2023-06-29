@@ -287,7 +287,7 @@ Many issues found within salesforce at a glance appear to be home related access
 
 **The more complex the issue, the more likely Veterans will call.** There were forming patterns of older Veterans being associated with doctor appointments and facilities which could generally be resolved via tier 1 support, but any issue requiring more complex topics like verifying a GI Bill payment often went to tier 2 support. There’s an open question of what is effective communication: SMS? Phone? Etc?
 
-**Unsure if there are any particular groups using or not using 411.** Salesforce may help answer that. The vast majority of issues are related to authentication. The contact center team is creating a service map of how tier 1 issues are escalated to tier 2, how long those issues sit, and how they are resolved.
+**Unsure if there are any particular groups using or not using 411.** Reviewing Salesforce data of Tier 1 (T1) calls may help understand this use case. The vast majority of T1 issues are related to authentication. The contact center team is working with T1 call centers on monthly cadences to review escalation processes for T1 issues to Tier 2.
 
 ### Section 508 Office 
 **VA.gov team to draft modernized accessibility statement.** Team acknowledged that the Section 508 page was 15 years old and that a modernized accessibility statement in Veteran-facing plain language would be a welcome improvement in hopes of gathering more feedback through the Section 508 email address. 
