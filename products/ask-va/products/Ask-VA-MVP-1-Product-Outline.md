@@ -38,7 +38,7 @@ Secure Messaging (SM) on VA.gov
 
 ## Undesired User Outcomes
 
-As a veteran
+As a Veteran
 >I stop asking questions because AVA is difficult to use on my phone or computer\
 >I cannot find Ask VA on VA.gov.\
 >It's not accessible for me.
