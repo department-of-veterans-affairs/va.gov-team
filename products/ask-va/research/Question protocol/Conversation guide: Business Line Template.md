@@ -114,7 +114,7 @@ At the end, the user will have the chance to review their information before the
   
 #### Submitted
 
-Finally, the will submit their inquiry and we'll tell them what to expect next.
+Finally, they will submit their inquiry and we'll tell them what to expect next.
 
 * How long does it usually take you to reply to an inquiry?
     * Are you comfortable with us stating that it takes up to 7 business days to reply to an inquiry? 
