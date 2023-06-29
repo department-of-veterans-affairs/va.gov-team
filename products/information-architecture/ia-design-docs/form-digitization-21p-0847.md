@@ -1,5 +1,7 @@
 # IA Design for Form 21P-0847
 **STATUS: In progress**
+#### Edit history
+- 6/29 - Edits (JM)
 
 **Team:** Veteran facing forms team
 
@@ -21,20 +23,17 @@
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 
+![Screenshot 2023-06-29 at 10 19 20 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/91fc3ed9-fe0e-471e-ba19-e527bc9fa115)
 
+The form will live under the new parent page for supporting forms.
 
 ## <a name="url"></a>URLs and breadcrumbs
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
 
-**1) [Page name] - [Existing/New]**
-- URL:
-- Breadcrumb: 
-- Notes: 
-
-**2) [Page name] - [Existing/New]**
-- URL:
-- Breadcrumb: 
+**1) H1 of page - New**
+- URL: www.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847
+- Breadcrumb: VA.gov home > H1 of supporting forms page > H1 of form page
 - Notes: 
 
 
@@ -42,18 +41,12 @@
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
 
 
-1. [Page URL or component name] - [Add/Modify/Remove]
+1. **Supporting forms page** - Add
   - Placement description: 
-  - Link label: 
-  - Link destination: 
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847
   - Notes: 
 
-2. [Page URL or component name] - [Add/Modify/Remove]
-  - Placement description: 
-  - Link label:
-  - Link destination: 
-  - Notes: 
- 
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
