@@ -229,4 +229,4 @@ _List all groups in red from the spreadsheet_
 * Transgender
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman
 
-<img width="917" alt="Screenshot 2023-06-28 at 11 41 18 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/95102058/20cb220d-75a4-42bf-bbc6-59883cdd3262">
+<img width="917" alt="Screenshot 2023-06-28 at 11 41 18 AM" src="evidence-submission-research-recruitment-tracker.png">
