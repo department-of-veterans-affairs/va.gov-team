@@ -52,7 +52,7 @@ We will use these findings to:
 - What is the Veteran's mental model of discovering, getting and keeping health care benefits as they go through the application process?
 - What are Veteran's understanding of what benefits they will get and the cost to them while applying for benefits?
 - How do Veterans refer to their health care benefits and costs - what terms do they use?
-- What are Veteran's understanding of what benefits they will get and the cost to them AFTER ENROLLMENT?
+- What are Veteran's understanding of what benefits they will get and the cost to them after enrollment?
 - What are the Veteran's current pain points with how the health care application impacts the overall health care journey?
 - What is the order and process expectations of Veterans when they are applying for health care benefits?
 - What information do Veterans feel most that the VA has and they should not have to provide?
