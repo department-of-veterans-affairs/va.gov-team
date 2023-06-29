@@ -116,9 +116,9 @@ Recruit 20 Veterans, research is considered complete after 15 Veterans participa
 
 **Secondary criteria** (nice to have): 
  
-10 Veterans who live in rural locations
+7 Veterans who live in rural locations
 
-10 Veterans who are 55 years or older
+7 Veterans who are 55 years or older
 
 
 ## 
