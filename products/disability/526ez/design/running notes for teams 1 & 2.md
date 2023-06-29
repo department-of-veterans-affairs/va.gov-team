@@ -4,9 +4,10 @@
 Attendees: Lydia, Nyantee, Julie
 
 Agenda
-- Review sitemap and validate changes
 - Discuss toxic exposure "pairing"
 - Discuss bug support
+- - Review sitemap and validate changes
+
 
 ## 6/22/23
 Attendees: Lydia, Nyantee, Julie
