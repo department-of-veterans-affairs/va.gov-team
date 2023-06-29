@@ -1,4 +1,4 @@
-# DRAFT Research Plan for health care application research study around Priority Groups and Financial Disclosure [Health Enrollment Team, 10-10EZ, June 2023]
+# DRAFT Research Plan for health care application research study around Priority Groups / Financial Disclosure / Dependents [Health Enrollment Team, 10-10EZ, June 2023]
 
 ## Background
 The online health care application (10-10EZ) and the update form (10-10EZR which is only paper form today) both can impact a Veteran's eligibilty and placement when applying for and managing their health care benefits. This is more so impactful for those placed in a Priority Group who need to have income information considered for copays and travel reimbrusment in addition to eligibility. The 10-10EZ is the initial application that then places a Veteran in a Priority Group for enrollment into the full medical benefits package. The 10-10EZR is used to proivde personal, financial or insurance information updates after enrollment. 
@@ -101,7 +101,7 @@ Remote via Zoom for the interviews
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/DRAFT-conversation-guide.md) 
+- [Link to conversation guide - Cohort 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/DRAFT-conversation-guide.md) 
 
 - [Recruitment ticket]
 
@@ -120,12 +120,11 @@ Cohort 1: 8 completed sessions / **12 requested**
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+- Veterans
 
 **Screener Questions**
 
 - Have you applied for health care benefits within the past 5 years and are now enrolled and using these benefits? [answer should be yes to qualify.]
-
-
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
@@ -139,8 +138,9 @@ What criteria would strengthen your results?
 ## Timeline
 
 TBD
-July 17 - 21, 2023
-
+Cohort 1: July 17 - 21, 2023
+Cohort 2: 
+Cohort 3: 
 
 ### Prepare
 * Pilot participant email: 
