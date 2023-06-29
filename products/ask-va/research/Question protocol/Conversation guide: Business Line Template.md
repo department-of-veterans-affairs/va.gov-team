@@ -55,15 +55,15 @@ I'd like to start by learning about the type of inquiries you're responsible for
     * We've heard that this field is often answered incorrectly, so the data isn't used much. We recommend removing this question. Are you comfortable with us removing this question?
 * *Add any specific questions for this business line*
 
-### Review form: 35 minutes
+## Review form: 35 minutes
 
 Next, we're going to share our screen and ask for your feedback. This is an updated version of AVA that we've been working on.
 
-#### Start page
+### Start page
 
 This is the start page. We're going to imagine that someone starts by signing in. I'm going to skip ahead to the first page of the form now.
 
-#### Tell us about your question
+### Tell us about your question
 
 I'd like to ask a couple questions about this screen now. On this screen, the user chooses a category, topic and sub-topic. This is very similar to the current AVA.
 
@@ -73,7 +73,7 @@ I'd like to ask a couple questions about this screen now. On this screen, the us
 * Is there anything on this page that you would change? Why?
 * *Add any specific questions for this business line*
 
-#### Tell us your question
+### Tell us your question
 
 On this screen, the user tells us more about their inquiry.
 
@@ -86,7 +86,7 @@ On this screen, the user tells us more about their inquiry.
 * Is there anything on this page that you would change? Why?
 * *Add any specific questions for this business line*
 
-#### Details about your question
+### Details about your question
 
 On this screen, the user shares more about themselves.
 
@@ -94,7 +94,7 @@ On this screen, the user shares more about themselves.
 * Is there anything on this page that you would change? Why?
 * *Add any specific questions for this business line*
   
-#### Your information
+### Your information
 
 On this screen, the user gives us their contact information.
 
@@ -105,14 +105,14 @@ On this screen, the user gives us their contact information.
 * Is there anything on this page that you would change? Why?
 * *Add any specific questions for this business line*
 
-#### Review
+### Review
 
 At the end, the user will have the chance to review their information before they submit.
 
 * Is there anything on this page that you would change? Why?
 * *Add any specific questions for this business line*
   
-#### Submitted
+### Submitted
 
 Finally, they will submit their inquiry and we'll tell them what to expect next.
 
