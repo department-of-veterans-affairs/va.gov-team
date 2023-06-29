@@ -20,11 +20,6 @@ Use cases and testing are documented on [this spreadsheet](https://docs.google.c
 
 ## Step 3: Production rollout
 
-[go / no go UAT conversation ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61177)
-
-[Staged rollout ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782)
-
-
 ### Define the Rollback process
 
 **Rollback Plan:**
@@ -32,6 +27,9 @@ Use cases and testing are documented on [this spreadsheet](https://docs.google.c
 PM and PO will monitor analytics (specifics to be documented with story [#61165](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61165)). If the team notices a spike in errors, they will contact the engineering team to get the FE engineer to disable the toggle.profile_lighthouse_direct_deposit
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+
+
+[go / no go UAT conversation ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61177)
 
 #### Planning
 
@@ -54,6 +52,8 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 - If yes, what: [FILL_IN] with ticket numbers
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
+
+[Staged rollout ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782)
 
 #### Planning
   
