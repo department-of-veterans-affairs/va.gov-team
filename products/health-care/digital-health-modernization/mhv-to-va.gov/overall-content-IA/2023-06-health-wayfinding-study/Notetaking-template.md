@@ -12,5 +12,21 @@
 
 # Task 1: AVS task
 
-# Task 2: M
+**Expect AVS in details link or scroll down to AVS page?**
+
+**Blue Button**
+
+# Task 2a: Medical Records
+
+**Critical Flag**
+
+# Task 2b: Medical Records to Secure Messaging
+
+# Task 3: Appointments
+
+**Understanding Requests**
+
+# Task 4: Copay & Claims
+
+# Priority Groups
 
