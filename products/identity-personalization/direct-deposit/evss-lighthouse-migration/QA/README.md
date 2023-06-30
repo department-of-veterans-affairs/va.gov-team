@@ -17,3 +17,45 @@ QA by the team
 
 ## Staging Review Prep 
 
+## QA Plan 
+See test cases above 
+
+#### General Version-coverage Strategy
+- **Hardware:** cover 2nd-latest models [1 yr back from latest available]
+- **Operating Systems:** Windows 2nd-latest; MacOS/iOS latest
+- **Browsers:** all latest
+  
+##### Device + Operating System + Browser Combinations
+
+|   |      Device        |  Operating System  | Browser  |
+|---|--------------------|--------------------|----------|
+|1. |      Macbook       |  Ventura (latest)  | Chrome   |
+|2. |      Macbook       |  Ventura (latest)  | Edge     |
+|3. |      Macbook       |  Ventura (latest)  | Firefox  |
+|4. |      Macbook       |  Ventura (latest)  | Safari   |
+|5. |     iphone 13      |    iOS (latest)    | Chrome   |
+|6. |     iphone 13      |    iOS (latest)    | Edge     |
+|7. |     iphone 13      |    iOS (latest)    | Firefox  |
+|8. |     iphone 13      |    iOS (latest)    | Safari   |
+|9. |         PC         |     Windows 10     | Chrome   |
+|10.|         PC         |     Windows 10     | Edge     |
+|11.|         PC         |     Windows 10     | Firefox  |
+|12.| Samsung Galaxy S21 |      Android       | Chrome   |
+
+### How We Will Test and Track
+1. Use the spreadsheet in Test Scenario section to document test cases, browser/os/device combos and pass/fail
+2. Leverage browserstack for browser/os/device combos we don't have access to
+3. For any adverse findings, team member will fill in a row for each item in the table below. 
+4. PM will create the needed ticket(s) to resolve finding, mark it in the Findings table below, and link it in the spreadsheet where the corresponding failure occurred.
+
+
+## Adverse Findings Summary
+| Test case No. |    Finding       | Device  | Operating System| Browser |Reporter | Resolution Ticket(s)| Status |
+|---------------|------------------|---------|-----------------|---------|---------|---------------------|--------|
+| | | | | | | |
+
+
+
+
+
+
