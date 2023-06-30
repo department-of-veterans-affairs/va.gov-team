@@ -44,7 +44,7 @@ The Sprint 0 meeting is a time to do the following:
 * Deep Linking from Push Notifications
 * Personalized Notifications
     * Showing changes of statuses, etc.
-* In-app Feedback Gathering (Tim R. + TBD partner)
+* Revamp Letters
 
 
 ## Ready to Present
