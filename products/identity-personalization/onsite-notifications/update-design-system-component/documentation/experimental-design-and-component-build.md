@@ -24,3 +24,8 @@ Things to consider when proposing a new component to the design system:
 - We submitted an [experimental design request](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/1181#issuecomment-1447073790) to Platform for the new notification component.
 - We presented the component in a weekly design system council meeting, along with our reasoning for why no other components in the design system worked for our use case (supported by research findings).
 - The Platform team iterated on the component and gave feedback and updated us on progress in the comments of the [experimental design ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/1181#issuecomment-1447073790).
+  - We didn't hear back for a few months so [we followed up with them in the comments of the ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/1181) and it seemed like that nudge was necessary to keep the process going, as this team has a lot on their plate and other conflicting priorities.
+  - At this point they gave us the go-ahead to start coding the component to contribute to the design system so we submitted a [collab cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55405) for the component.
+  - This process was somewhat unfamiliar to the Platform team as well and we [communicated on Slack](https://dsva.slack.com/archives/CBU0KDSB1/p1684524228447229) to align on the necessary steps.
+ 
+## Engineering
