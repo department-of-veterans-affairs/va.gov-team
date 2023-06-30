@@ -18,6 +18,14 @@ Provide a pathway for Active Duty Service Members and Veterans who want to regis
        >
      - >Create service to receive online form data from VA.gov for Veterans who do not wish to enroll and provide that data to VistA/Millennium. In alignment with PACT Act, COMPACT, SERVICE Act and 38 CFR 17.37 this enables Veterans to request an appointment and register for those not wishing to enroll.
 
+### MVP
+- Allow Active Duty Service Members with a discharge date within 365 days of the current date to "register" for care
+     - The current 10-10EZ online form allows applicants to enter a future discharge date within 365 days of current date.
+     - We do not inform the applicant that this is not an enrollment path, but a registration only.
+     - Need to understand how best to communicate this and what processes happen once the discharge date has been reached
+- Allow Veterans, who want to seek care for their service-connected disability/injury only, to "register" for care
+     - If the Veteran has a 40% or lower disability rating, they may want to receive care for their service connected disability only.
+     - The Veteran may have other means to obtain private health care outside of their service-connection
 
 
 ## Problem
