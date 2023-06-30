@@ -25,7 +25,6 @@ Based on the problems described below and diagraming of our login flows to ident
 |User|I have this app on my phone and opened it.|Anyone who opened the app| None; data already available |
 |Authenticated user|***Not a part of direct user experience.***|User who is able to complete login process but not necessarily able to access their personal information|Low; analtyics must be adjusted|
 |Personalized user|I was able to log into the app.|Authenticated user who is able to access their personal info in the app|Low; analtyics must be adjusted|
-|Engaged|I spent time in the app (exploring or attempting a task).|Personalized user who had at least one with at least 30 seconds of uninterrupted engagement|Low; analtyics must be adjusted|
 
 Additional information on how these definitons would shape metric calculations in the [Appendix 2](#Appendix-2).
 
@@ -57,12 +56,6 @@ Each user definition can be counted as unique users or unique users sessions. Th
 * **Source**: Firebase app event data vama_login_success
 * **Technical definition**: User for whom the app is able to return personal information from API endpoints after vama_login_token_success 
 * **Known caveats**: See above caveats for ***authenticated user***.
-
-#### Engaged user
-* **Dashboard user definition**: Personalized user who has at least one session lasting more than 30 seconds
-* **Source**: Firebase app event data 
-* **Technical definition**: App session where app was mounted on users device for 30+ seconds after vama_login_success
-* **Known caveats**: None
 
 ### Proposed downloads definition 
 #### Downloads
@@ -120,7 +113,7 @@ In light of the above definitions, I recommend the following standards for our c
     * Denominator: Total distinct **Personalized user**
 * Percent of users doing X in app
     * Numerator: varied according to X
-    * Denominator: total distinct number of **Engaged Users**
+    * Denominator: total distinct number of **Personalized Users**
 
 ## Appendix 3
 ### Session definition
