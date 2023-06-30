@@ -17,7 +17,6 @@
 ## <a name="flows"></a>User/page flows <br>
 ![User Flow of Medications Phase 0](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/b304a819-311c-40d6-a3fb-8ea5287562bb)
 
-
 The user flow provided depicts the flow for Phase 0 of this product only.  The entry points, links, and overall flow of the product will evolve as the product progresses through the phased roll-out.  Those flows will eventually be fully documented in the (phased roll-out Mural)[https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1667322271773?sender=u2aba00c97ab77c6ec1573123&key=4ffaed99-2032-4f0b-bbce-bbe7ef27595c]. 
 
 For Phase 0:
@@ -32,7 +31,7 @@ For Phase 0:
 
 ![Screenshot 2023-06-28 at 4 35 42 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/9aa7af6a-78c7-46b1-9b61-577987b7579f)
 
-NOTE: As of 6/28/23, the H1 of the Medication page may change to 'Medication and Supplies'. If we do make that change, we may change URLs.
+NOTE: As of 6/30/23, the H1 of the Medication page may change to 'Medication and Supplies'. If we do make that change, we may change URLs.
 
 ## <a name="url"></a>URLs and breadcrumbs
 
@@ -45,17 +44,17 @@ NOTE: As of 6/28/23, the H1 of the Medication page may change to 'Medication and
 - Notes: H1 pending final decision as of 6/28
 
 **2) Medications list - NEW**
-- URL: www.va.gov/my-health/about-medications/medications/
+- URL: www.va.gov/my-health/medications/
 - Breadcrumb: 
   - desktop: My HealtheVet > About Medications > Medications
   - mobile: < My HealtheVet
 - Title tag: Medications | Veterans Affairs
-- Notes: H1 pending final decision as of 6/28
+- Notes: [On 6/30 in slack](https://dsva.slack.com/archives/C04DRS3L9NV/p1688070170040299) we decided that the breadcrumbs will act as if the 'about' landing page page is a parent of medications list, but the page will not be an official parent of medications from a URL standpoint. H1 pending final decision as of 6/28
 
 **3) Meidcation details - NEW**
 - URL: www.va.gov/my-health/medications/[medicationID]/
 - Breadcrumb: 
-  - desktop: My HealtheVet > About Medications > Medications > [H1 of page]
+  - desktop: My HealtheVet > Medications > [H1 of page]
   - mobile: < My HealtheVet
 - Title tag: [H1] - Medications | Veterans Affairs
 - Notes: 
@@ -64,6 +63,7 @@ NOTE: As of 6/28/23, the H1 of the Medication page may change to 'Medication and
 ## <a name="nav"></a>Entry points <br>
 
 Entry points for this tool will be determined based on the phased launch plan and are documented separately.
+- there will be no left nav in Phase 0 of this product rollout
  
 
 ## <a name="redirects"></a>Redirects <br>
