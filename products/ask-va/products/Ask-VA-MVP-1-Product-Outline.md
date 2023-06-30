@@ -153,6 +153,8 @@ Communication Plan:
 
 ### Key Decisions
 
+- Release all categories at one time
+  
 ---
    
 ## Screenshots
@@ -183,6 +185,7 @@ Communication Plan:
  - PM: Ruchi Shah
  - Engineering: Joe Hall, Eddie Otero, Jacob Cheriathundam, Khoa Nguyen
  - Research/Design: Tyler Gindraux, Thomas Michaud, Becky Phung
+ - Program: Em Allan
  
 </details>
 
