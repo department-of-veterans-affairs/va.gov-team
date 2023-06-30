@@ -1,5 +1,5 @@
 
-# A Health and Benefits Mobile App Demo Mode #
+# VA Health and Benefits Mobile App Demo Mode #
 
 ## Purpose: ##
 
