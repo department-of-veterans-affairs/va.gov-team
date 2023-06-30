@@ -4,6 +4,7 @@
 - 5/16/2023 - updated sitemap image (JM)
 - 5/24/2023 - updated URL and sitemap image (JM)
 - 6/29/23 - update sitemap image (JM)
+- 6/20/23 - Updated entry point note with form placement now that page is live
 
 **Team:** Digitization Team
 
@@ -40,11 +41,11 @@ The form will live under the new parent page for supporting forms.
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
 
-1. **Supporting forms page** - Add
-  - Placement description: 
+1. **[Supporting forms page](https://www.va.gov/supporting-forms-for-claims/)** - Add
+  - Placement description: First option down
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142
-  - Notes: Since the supporting forms page is still in progress, we have left the placement description blank in the meantime.
+  - Notes: 
 
 
 ## <a name="redirects"></a>Redirects <br>
