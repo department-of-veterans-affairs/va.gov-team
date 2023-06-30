@@ -53,7 +53,7 @@ See test cases above
 
 ## Staging Review Prep 
 #### Discussed this with plaform support, we shouldn't need a full staging review but we do need a privacy and security review 
-[Platform Guidance]([https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/staging-review))
+[Platform Guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/staging-review)
 
 ## Privacy and Security Prep 
 [Platform guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/privacy-security-infrastructure-readiness-review)
