@@ -1,19 +1,16 @@
-# Research Plan for Disability Experience Team, 21-526EZ Landing/Intro pages, 5/5/23
+# Research Plan for Toxic Exposure Addition 
 
 
 ## Background
 
-The 21-526EZ form is one of the most used VA forms. However, it's confusing and stressful for veterans to apply for disability compensation as the  process is rather opaque to the veteran. The form UX often leaves them feeling anxious and forgotten. The lack of clarity can also lead to mis-ratings, or misunderstanding of ratings, and a snowball of Appeals. 
+The 21-526EZ form is one of the most used VA forms and one of the largest. It is also often the first VA "service" that veterans will come into contact with, setting a precedent for their other experiecnes on VA.gov. However, it's confusing and stressful for veterans to apply for disability compensation as the process is rather opaque to the veteran. The form UX often leaves them feeling anxious and forgotten. The lack of clarity can also lead to mis-ratings, or misunderstanding of ratings, and a snowball of Appeals. 
 
-As a new team, we are prioritizing design/content on the landing pages of the form which include an introduction page (url /introduction) that is meant to set veteran's expectations for what to expect of the disability claim process **and** two follow-up pages meant to determine whether veterans can apply for benefits delivery at discharge (BDD) based on their discharge date. These two newer pages will follow the one-question-per-page style and replace a post-auth start page (url /start) which held a wizard asking the same BDD "screening" questions. Past research and heuristic review makes it clear that veterans need more context and insight into this opaque process, so we are hoping to iterate on content and design at the beginning of the form to set veterans up for successs, focusing on a few key personas : vets applying for BDD, presumptive claims under PACT, new claimants, and claimants asking for increase of compensation for a condition that has worsened. 
+As a new team, one of our objectives is to make sure the digital form is inline with the paper form so there is little discrepency between the two. Questions regarding toxic exposure were added to the paper form following the PACT act and there is need to digitize that section within the online form. This test will allow participants to go through a prototype in which they answer questions about toxic exposure type and location before choosing a claim type to file -- claim for increase or new claim -- adding evidence and reviewing that evidence on a page where we have placed new content concerning TE. 
 
 **User goals:**
 
-- Successfully and easily find the right tool, and submit a claim online
-- Successfully submit a claim independently without seeking outside help
-- Know what the right kind of evidence is to include in a submission
-- Feel supported and cared for, and confident that they’ve put their best case forward
-- Have accurate expectations of what’ll happen next
+- Sucessfully report toxic exposure so that their conditions will be presumed service-connected
+- Successfully gather evidence related to severity of their condition not service-connection, saving time collecting evidence
 
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/21-526ez.md)
@@ -37,38 +34,37 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
 
-- Getting out
-- Starting up
 - Taking care of myself 
 - Aging - some PACT act applicants are older veterans of the Vietnam War
 
 ## Research Goals	
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
-- Improve form content clarity and comprehension
-- Improve veteran preparedness and confidence before beginning form 
-- Improve veteran trust and confidence in VA institution and online/offline services 
-- Reduce cognitive overload caused by form length and information 
+- Test form content clarity and comprehension
+- Test fatigue and screen weariness (as best we can in a simulation where we only show a third of the screens the typical vet will see)
+  
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
-
-The DBEx team will use these learning to create a baseline for the iterative design process; continue to refine the form landing/start pages for clarity, veteran confidence, and veteran preparedness; and to ultimately progress toward our northstar KPI: reducing the number of sessions needed to complete the form. 
+This research will allow our team to continue to progress toward complete alignment of the paper and digitial form.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- Clarity and comprehension : Do veterans understand the process for filing claims, what is needed, who is elligile, what needs to be done online in the digital form vs offline? Do veterans understand specific terminology in its context e.g. conidition vs disability, evidence, etc. 
-- Preparedness and confidence: Do vets feel prepared enough after going through the introductory pages of the form to continue to start the form? What other information do they need provided upfront? What information can be de-prioritized to aid in info digestion?
-- Trust: Do veterans feel the VA is doing its due diligence in getting them the compensation they need?
+
+langauge around claim for increase in the form in relation to toxic exposure?
+
+Is the order of questions asked meaningful? what are the points of confusion? 
+
+Is this revised evidence overview helpful?
+
+optional: TE objecive — list and loop improvements for a lot of conditions
 
 Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
 ### Hypothesis
-We expect that the redesigned landing pages will improve veteran's confidence and sense of preparedness when entering the form.
+We expect that the added toxic exposure questions will allow veterans to report roxic exposure seamlessly and prepare them for the process of gathering evidence for presumptive conditions and non-presumptive conditions.
 
 ## Methodology	 
 
-We will be conducting usability tests on desktop and mobile to evaluate design/content changes made to the form landing pages and discover any other painpoints in that area.
+We will be conducting usability tests on desktop. 
 
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
@@ -89,8 +85,7 @@ Provide a link to any materials you need to run your study, including any materi
 
 
 For moderated usability tests: 
-- [Link to conversation guide](https://github.com/Nyanteea/va.gov-team/blob/master/products/disability/526ez/Research/2023-05-526ezLandingPagesRedesign/conversation-guide.md)
-- [Link to prototype](https://www.sketch.com/s/0fa92d93-0841-4c62-8112-c9c528204092)
+
 
 
 	
@@ -112,142 +107,7 @@ Which inclusive research strategies are you leveraging for this study? OCTO reco
 ### Recruitment criteria
 
 
-KICK OFF CALL: 5/26 anytime from 11am to 5pm EST, 5/29 10AM-3PM EST , 5/30 12-1:30pm
 
-
-We are conudcting two tests of the same experience: one on a mobile prototype and the other on desktop. 
-
-**Desktop** 
-
-|Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
-|:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|      6        |                 |   3     |             |          |     3         | 
-
-**Mobile**
-
-|Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
-|:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|      6        |                  |   3     |             |          |     3        | 
-
-**Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
-**For desktop prototype (6):**
-- At least three use desktop primarily/ proficient with desktop 
-- At least three who are age 55 or over 
-- At least three who are active and at least 60 days from discharge 
-- At least three who are filing for / have filed a claim under PACT act
-- At least three identifying as having a cognitiive disability that makes reading difficult
-
-**For mobile protoype (6):**
-- At least three use mobile primarily/ proficient with mobile 
-- At least three (3) 55 or over 
-- At least three who are filing for/have filed a claim under PACT act
-- At least three who are active and at least 60 days from from discharge 
-- At least three identifying as having a cognitiive disability that makes reading difficult
-
-**Screener for cohort 1 of mobile test** (3 people) 
-
-- Do you primarily use your cellphone to browse the internet? 
-	- yes (qualified)
-	- no (not qualified)
- 
-- Are you in the age range of 55 or older? 
-	- yes (qualified)
-	- no (not qualified)
-
-- Have you applied for compensation becasue of toxic exposure or plan to in the future?
-	- yes (qualified)
-	- no (not qualified)
- 
-- Are you able and willing to download new applications onto your phone? 
-	- yes (qualified)
-	- no (not qualified)
-
-- Have you ever used Zoom on your mobile device? 
-	- yes (qualified)
-	- no (not qualified)
-
-
-**Screener for cohort 2 of mobile test** (3 people) 
-
-- Do you primarily use your cellphone to browse the internet? 
-	- yes (qualified)
-	- no (not qualified)
- 
-- Are you in the age range of 55 or older?
-	- yes (not qualified)
-	- no (qualified)
-
-- Will you be discharged from service in the next year? 
-	- yes (qualified)
-	- no (not qualified)
- 
-- Are you able and willing to download new applications onto your phone? 
-	- yes (qualified)
-	- no (not qualified)
-
-- Have you ever used Zoom on your mobile device?
-	- yes (qualified)
-	- no (not qualified)
-
-- Do you often find it difficult to read or understand information? Note: We ask this question because we want to make sure that our tools work for people who live with challenges like these. 	
-	- yes (qualified)
-	- no (not qualified)
-
-
--------------------------------------------
-
-**Screener for cohort 1 on desktop** (3 people) 
-
-- Do you primarily use your cellphone to browse the internet?   
-	- yes (qualified)
-	- no (not qualified)
- 
-- Are you in the age range of 55 or older? 
-	- yes (not qualified)
-	- no ( qualified)
-
-- Will you be discharged from service in the next year? 
-	- yes (qualified)
-	- no (not qualified)
-
-- Are you able and willing to download new applications onto your laptop or desktop computer?  
-	- yes (qualified)
-	- no (not qualified)
-
-- Have you ever used Zoom on a laptop or desktop computer? 
-	- yes (qualified)
-	- no (not qualified)
-
-
-
-
-**Screener for desktop cohort 2** (3 people) 
-
-- Do you primarily use your cellphone to browse the internet? 
-	- yes (qualified)
-	- no (not qualified)
- 
-- Are you in the age range of 55 or older? 
-	- yes (qualified)
-	- no (not qualified)
-
-- Have you applied for compensation because of toxic exposure or plan to in the future? yes 
-	-yes (qualified)
-	- no (not qualified)
-
-- Are you able and willing to download new applications onto your laptop or desktop computer? yes 
-	- yes (qualified)
-	- no (not qualified)
-
-- Have you ever used Zoom on a laptop or desktop computer? 
-	- yes (qualified)
-	- no (not qualified)
-
-- Have you experienced a brain injury that has made it difficult to read or understand information? Note: We ask this question because we want to make sure that our tools work for people who live with challenges like these. 
-	- yes (qualified)
-	- no (not qualified)
 
 
 
