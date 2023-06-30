@@ -121,26 +121,27 @@ Remote via Zoom for the interviews
 Our intended audience for this reasearch are Veterans and we will be using and leveraging Perigean to recruit participants.
 
 ### Recruitment criteria
+Total: **30 requested** / 18 completed
 
-Cohort 1: 8 completed sessions / **14 requested**
-Cohort 2: 5 completed sessions / **9 requested**
-Cohort 3: 5 completed sessions / **9 requested**
+- Cohort 1: **12 requested** / 8 completed sessions
+- Cohort 2: **9 requested** / 5 completed sessions 
+- Cohort 3: **9 requested** / 5 completed sessions
 
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+
 - Veterans
 
-**Screener Questions**
-
-- Have you applied for health care benefits within the past 5 years and are now enrolled and using these benefits? [answer should be yes to qualify.]
+**Screener Question**
+- Have you applied for health care benefits within the past 5 years and are now enrolled and using these benefits? [answer must be yes to qualify for this study]
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
-Per cohort: 
+Per cohort:
 - At least 2 participants are female
-- At least 3 participants with a cognitive disability
-- At least 3 participants over the age of 55
+- At least 2 participants with a cognitive disability
+- At least 2 participants over the age of 55
 - At least 1 participant who are living abroad or immigrant origin
 
 
