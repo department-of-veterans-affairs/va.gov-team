@@ -45,9 +45,16 @@ Please fill out the form below, providing as much detail as possible.
 - What UX/UI components are the users interacting with before the error is produced?
 -->
 
-### Acceptance Criteria (**For the Disability Experience Team only**)
+### Acceptance Criteria for moving it to Ready for PM/PO review (**For the Disability Experience Team only**)
 - [ ] Impact summary
-      - Description 
-- [ ] Severity Assigned ( sev-critical / sev-major / sev-moderate / sev-minor ) 
+ Impact summary
+  - Description of impact to the veteran/submitter
+  - How many users/events (is that including retries?)
+  - Is this issue causing the submission to fail?
+      - Is there a workaround?
+      - Is it getting submitted via the paper form through the back end processing
+      - Is the failure silent?
+  - Is this caused by a downstream back-end exception?
+- [ ] Severity Assigned ( sev-critical / sev-major / sev-moderate / sev-minor ) [Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=0-1685044574087)
 
 
