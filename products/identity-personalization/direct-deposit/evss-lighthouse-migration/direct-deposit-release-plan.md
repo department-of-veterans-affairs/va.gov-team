@@ -15,9 +15,11 @@
 
 We've tracked GH tickets/issues and information related to the direct deposit migration in [EPIC | Profile | Direct Deposit C&P Migration from EVSS to Lighthouse #51900](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51900).
 
+#### [**QA Artifact Summary**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/QA/README.md)
+
 Our testing plan was finalized through [PM | Direct deposit EVSS > Lighthouse migration: QA prep & planning #54870](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54870)
 Use cases and testing are documented on [this spreadsheet](https://docs.google.com/spreadsheets/d/1xflLNJhUSVslzLbVQtMkYkzsBGAhIccnmYW0GL_Ihd0/edit#gid=0).  
-[QA Artifact Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/QA/README.md)
+
 
 ## Step 3: Production rollout
 
