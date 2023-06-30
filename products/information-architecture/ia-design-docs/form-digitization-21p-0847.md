@@ -1,7 +1,8 @@
 # IA Design for Form 21P-0847
-**STATUS: In progress**
+**STATUS: Completed**
 #### Edit history
-- 6/29 - Edits (JM)
+- 6/29/23 - Edits (JM)
+- 6/30/23 - Updated status (JM)
 
 **Team:** Veteran facing forms team
 
