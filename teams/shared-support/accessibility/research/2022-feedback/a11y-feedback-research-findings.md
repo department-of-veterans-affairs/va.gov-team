@@ -8,6 +8,7 @@ These findings were checked by the following participants:
 They have yet to be checked by:
 - The Section 508 office (we will bring this up in a future sync)
 - VEO (we emailed them and confirmed receipt, but no feedback has been provided yet)
+- Brea and Cindy (we have contacted them, and expect possible feedback before the end of July)
 
 ## Goals
 Our goal is to establish a process to collect a11y feedback from the public. In order to accomplish this goal, we need to…
