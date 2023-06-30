@@ -140,6 +140,8 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 
 _Specific questions about Medical Records - **must ask**:_ 
 
+- (Need question probing around understandings of flag. Add after see what looks like in prototype.)
+
 **_Task 3b - Transition from Medical Records to Secure Messaging; participant should be deep into Medication Records navigation at this point:_** Say you're confused by your result and want to ask your doctor about it. Using the resources offered on this website, how would you send them a message? Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
