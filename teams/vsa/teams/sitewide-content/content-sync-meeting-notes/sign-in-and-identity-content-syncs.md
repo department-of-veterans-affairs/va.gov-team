@@ -1,5 +1,23 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**June 23, 2023**
+-
+Attendees: Aliyah, Carl, Joe, Sofia, Porta
+
+**Notes**
+- **Login.gov/ID.me reactivation draft email**
+    - Carl walked us through adjustments to email content.
+    - Aliyah noted that link to CLP was leading to signing in to VA page. Carl noted this and will adjust. 
+    - After call, Aliyah passed feedback to Laura. Laura to review email as well and we'll pass feedback to Carl.
+    - Porta noted that they're planning to start sending out this email, to a small group of users, soon.
+    - We chatted about content on the signing in page re: a lost MFA device. We should continue this conversation and determine if we'd like to create a new question or, as Porta and Joe mentioned, if we'd want to consider linking out to support on either partner website to account for the possibility of content changes from either partner.
+- **Verifying your identity on VA.gov page**
+    - We continued to review this page.
+    - Continue conversation on how we should consider adjusting the page in the future. Should we be more specific or less specific and link out to partner websites (given information may change)?
+    - **Action item:** Joe and team to do an accuracy review of content regarding non-phone options and the alternatives for ID.me. Aliyah sent word document to Joe with content on 6/29.
+- **Related note:** In identity comms meeting on 6/29, Carl mentioned a blog on in-person support. Aliyah messaged about sharing that with us.   
+    
+
 **June 22, 2023**
 -
 Attendees: Aliyah, Laura, Carl, and Dawn 
