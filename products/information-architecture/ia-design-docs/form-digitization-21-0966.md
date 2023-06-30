@@ -1,9 +1,10 @@
 # IA Design for Form 21-0966
-**STATUS: In progress**
+**STATUS: Complete**
 
 #### Edit history
-- 5/16/2023 - Created (JM)
-- 6/29/2023 - Edits (JM)
+- 5/16/23 - Created (JM)
+- 6/29/23 - Edits (JM)
+- 6/30/23 - updated status
 
 **Team:** Veteran Facing Forms
 
