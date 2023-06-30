@@ -2,6 +2,11 @@
 
 See the resources at the bottom of this page for more information on how to test and install tools.
 
+## Page works as expected at all breakpoints
+- [ ] Page works at 360px
+- [ ] Page works at 769px
+- [ ] Page works at 1200px
+
 ## Page functions with CSS turned off
 - [ ] Use the [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) extension to turn off CSS. Check that the feature is readable and functional
 
