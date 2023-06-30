@@ -116,7 +116,7 @@ The Mocked Authentication module is integrated with vets-api to be able to autom
 
 Once you have copied the logged credential data you will need to encoded it. Open a rails console, save the copied to a variable, and then cast it to JSON & call the `Base64.encode64` method on it.
 ```
-ruby c
+rails c
 credential_info = {
   "sub": "eb172e31-36a0-4266-aa7b-b44c939e6850",
   "iss": "https://idp.int.identitysandbox.gov/",
