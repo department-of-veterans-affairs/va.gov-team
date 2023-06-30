@@ -1,7 +1,7 @@
 # 06/22/23 Martinsburg 10-10EZR/Registration Only conversation with frontline staff
 
 ## Registration-only related questions
-###Overall process
+### Overall process
   - Describe your "registration" process.
     - They do this, but it gets complicated. Veterans aren't 100 percent sure which one to do. Very few of registration-only vs. enrollment.
     - Military transfers are the main ones that registers. Explain it as access to healthcare but not enrollment.
@@ -29,7 +29,7 @@ Refers to ineligible people receiving care through the ER. Humanitarian care onl
     - Veterans will give us financial information we put them in a place. Then they get rejected by MVR. Sometimes, takes a month, sometimes can be automatic.
 
 ## EZR-related questions
-###Typical process
+### Typical process
   - Most Veterans are not aware they need to update their information regularly. They do it for travel benefits or their copay exemption.
 - What type of information do Veterans consider most important to update and why?
   - Copay/financial information
@@ -49,7 +49,7 @@ Veterans receive letter to update their means test.
   - Walk-ins happen, and address updates happen on the spot.
 - What happens when the Veterans submit an incomplete EZR?
   - Maybe once or twice for insurance information. Most of the team, they submit the whole form. Financial information is transferred to HEC for updates. PG 3,4 will need to update if they fall into certain threshold to receive travel benefits.
-###Updates/frequency
+### Updates/frequency
 - Are there certain demographic/ Priority Groups that update their information more than others?
   - Travel benefits update a lot. Any PG above 2 will update more. They let them know that if income changes, could be put into verified status. PGs can change when income changes.
 - What methods or channels do veterans prefer for updating their information?
