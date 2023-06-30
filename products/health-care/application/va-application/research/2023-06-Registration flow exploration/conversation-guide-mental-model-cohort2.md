@@ -1,4 +1,4 @@
-# Conversation Guide for "registration only" mental model hypothesis flow study [Health Enrollment Team, 10-10EZ, June 2023][Cohorts 2 and 3]
+# Conversation Guide for "registration only" mental model study [Health Enrollment Team, 10-10EZ, June 2023][Cohort 2]
 
 ## Moderator logistics
 ### 2-3 days before the session
