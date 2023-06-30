@@ -16,6 +16,7 @@ QA by the team
 
 
 ## Staging Review Prep 
+#### Discussed this with plaform support, we shouldn't need a full staging review but we do need a privacy and security review 
 [Platform Guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review)
 
 ## QA Plan 
