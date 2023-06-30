@@ -16,6 +16,7 @@ QA by the team
 
 
 ## Staging Review Prep 
+[Platform Guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review)
 
 ## QA Plan 
 See test cases above 
