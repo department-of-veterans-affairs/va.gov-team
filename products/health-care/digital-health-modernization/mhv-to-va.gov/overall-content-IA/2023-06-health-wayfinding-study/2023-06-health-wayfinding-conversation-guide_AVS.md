@@ -164,7 +164,17 @@ _Specific questions about Appointments - **must ask**:_
 
 _Ask these questions if did not ask them in the AVS task:_ 
 - (_If participant ends up on Appointments landing page_): What do you think will happen if you click on that "Requests" link? 
-- _Optional probe_: What do you think "Requests" means here? 
+- _Optional probe_: What do you think "Requests" means here?
+
+**Priority Group questions**
+
+Thank you for showing me how you would navigate around on this site. Now that you are more familiar, I'd like to ask you a couple final questions. 
+
+- Have you heard the term "VA priority group" before?
+- What do you think "VA priority group" refers to? 
+- When a Veteran applies for VA health care, they get assigned to a group that determines how soon the VA signs them up for health care benefits and how much they will have to pay towards the cost of care. A Veterans' priority group can change if their income changes or if their service-connected disability gets worse and they receive a higher disability rating.
+   - With that in mind, where would you expect to find information about your personal priority group on this website?
+   - (_Direct to MHV on vA.gov landing page_) Where would you expect to find information about your personal priority group on this page? 
 
 ## Thank You and Closing - 1 minute
 
