@@ -49,13 +49,10 @@ This research will allow our team to continue to progress toward complete alignm
 
 ### Research questions
 
-langauge around claim for increase in the form in relation to toxic exposure?
-
-Is the order of questions asked meaningful? what are the points of confusion? 
-
-Is this revised evidence overview helpful?
-
-optional: TE objecive — list and loop improvements for a lot of conditions
+- How do users find the langauge around claim for increase in the form in relation to toxic exposure?
+- Is the order of questions asked meaningful? what are the points of confusion? 
+- Is the revised evidence overview helpful?
+- Do veterans know how to answer "how is your disability related to your service?" 
 
 Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
@@ -64,7 +61,7 @@ We expect that the added toxic exposure questions will allow veterans to report 
 
 ## Methodology	 
 
-We will be conducting usability tests on desktop. 
+We will be conducting 8-10 usability tests on mobile. 
 
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
@@ -103,6 +100,9 @@ As the form entry points are used by veterans and active duty service members at
 
 
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+
+
+
 
 ### Recruitment criteria
 
@@ -148,12 +148,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
-Friday 6/9   |8AM-3PM, 6-10PM 
-Monday 6/12  |8AM-3PM, 6-10PM
-Tuesday 6/13 |8AM-3PM, 6-9PM
-Wednesday 6/14 |8AM-1:30PM
-Thursday 6/15 |8AM-3PM, 6-9PM
-Tuesday 6/20 |8AM-1PM,4PM-9PM
+
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
