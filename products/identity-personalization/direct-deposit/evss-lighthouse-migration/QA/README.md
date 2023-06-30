@@ -2,11 +2,9 @@
 ## QA Artifacts - EVSS > Lighthouse Direct Deposit - Comp&Pen 
 Last updated: 6/30/2023
 
-[Migration Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51900)
+[Migration Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51900)https://github.com/department-of-veterans-affairs/va.gov-team/issues/51900
 
 ## Testing 
-
-QA by the team 
 
 |Description|Ticket Link|
 |---|---|
@@ -14,10 +12,6 @@ QA by the team
 | QA Testing Ticket - Sprint 14 7/5-7/18 | [Team QA Testing #54771](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54771) |
 | **QA Plan** / Scenarios | [Spreadsheet](https://docs.google.com/spreadsheets/d/1xflLNJhUSVslzLbVQtMkYkzsBGAhIccnmYW0GL_Ihd0/edit#gid=0)|
 
-
-## Staging Review Prep 
-#### Discussed this with plaform support, we shouldn't need a full staging review but we do need a privacy and security review 
-[Platform Guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review)
 
 ## QA Plan 
 See test cases above 
@@ -57,7 +51,10 @@ See test cases above
 | | | | | | | |
 
 
+## Staging Review Prep 
+#### Discussed this with plaform support, we shouldn't need a full staging review but we do need a privacy and security review 
+[Platform Guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review)
 
-
-
+## Privacy and Security Prep 
+[Platform guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/privacy-security-infrastructure-readiness-review)
 
