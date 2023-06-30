@@ -141,8 +141,9 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 _Specific questions about Medical Records - **must ask**:_ 
 
 - (Need question probing around understandings of flag. Add after see what looks like in prototype.)
+- What would you do if you saw this flag in your test results?
 
-**_Task 3b - Transition from Medical Records to Secure Messaging; participant should be deep into Medication Records navigation at this point:_** Say you're confused by your result and want to ask your doctor about it. Using the resources offered on this website, how would you send them a message? Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
+**_Task 3b - Transition from Medical Records to Secure Messaging; participant should be deep into Medication Records navigation at this point:_** Say you're confused by this flag in your result means and you want to ask your doctor about it. Using the resources offered on this website, how would you send them a message? Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
