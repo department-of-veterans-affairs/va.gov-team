@@ -30,7 +30,7 @@ Today we're going to talk about the health care application process.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about [half an hour to an hour].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.** 
 - Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
@@ -104,34 +104,6 @@ Let’s start with a few warm-up questions.
 - [What steps do they call out?]
 - [What steps do they leave out?]
 - [What do they mention or call out as information that is helpful in making decisions about health care benefit choices?]
-
-
-
-
-
-## Fourth Topic: [Scenario 1] - 10 minutes
-**Scenario setup**
-- For this first scenario, let's imagine you are want to apply and sign up for health care, but you don't know what you qualify for or know what benefits you would get. You do some online research and arrive at a page where you can apply for health care benefits, still being uncertain of your eligibility.
-- At the start of the application, you are presented with a choice where you can pick one of these options or both. The choices are 1. enrollment for full medical benefits or 2. registration for care or for the full medical benefits. 
-
-**Questions**
-- What would you choose? Can you explain your thinking to us?
-- What information would you need to confidently make a choice on what type of benefits you are choosing to apply for?
-- What are your thoughts on how this is worded? Would you like to call the steps in this process something else?
-- How would you feel if you selected one of these benefits and found out after the application that you are not elligible and should have chosen the other benefit option?
-
-
-
-## Fourth Topic: [Scenario 2] - 10 minutes
-**Scenario setup**
-- For this scenario, let's imagine you are applying for health care online and you arrive at a page that explains the process as registering for care and then deciding to enroll to receive the full medical benefits package after an eligibility screening. During the initial application you are registering for care and you create a profile, enter some basic information about yourself and answer if you currently have any other health care coverage as well as your military service information.  
-- After you complete the questions to register for care, you are then given the option to wait to hear about your initial eligibility screening or you can enroll for the full medical benefits package right away and answer some additional questions. However, if you decide to complete enrollment at a later time, it is easy for you to sign back in and complete the enrollment questions. 
-
-**Questions**
-- What is your perception of this scenario and what issues, if any, do you see in this for yourself?
-- Would needing to return later and complete more questions be frustrating to you? 
-- Would you rather complete all tasks/information needed in one sitting even if you have to provide more information than you may need to?
-
 
 
 
