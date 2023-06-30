@@ -30,7 +30,7 @@ Today we're going to talk about the health care application process.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [half an hour to an hour].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about [half an hour].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.** 
 - Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
@@ -104,13 +104,6 @@ Let’s start with a few warm-up questions.
 - [What steps do they call out?]
 - [What steps do they leave out?]
 - [What do they mention or call out as information that is helpful in making decisions about health care benefit choices?]
-
-
-
-## Fourth Topic: [Scenario 1 - Cohort 3] - X minutes
-TBD
-## Fifth Topic: [Scenario 2 - Cohort 3] - X minutes
-TBD
 
 
 ## Post-Task Interview - 5 minutes
