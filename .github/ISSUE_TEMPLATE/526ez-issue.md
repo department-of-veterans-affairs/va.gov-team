@@ -47,7 +47,6 @@ Please fill out the form below, providing as much detail as possible.
 
 ### Acceptance Criteria for moving it to Ready for PM/PO review (**For the Disability Experience Team only**)
 - [ ] Impact summary
- Impact summary
   - Description of impact to the veteran/submitter
   - How many users/events (is that including retries?)
   - Is this issue causing the submission to fail?
