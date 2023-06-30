@@ -49,7 +49,7 @@ See test cases above
 4. PM will create the needed ticket(s) to resolve finding, mark it in the Findings table below, and link it in the spreadsheet where the corresponding failure occurred.
 
 
-## Adverse Findings Summary
+### Adverse Findings Summary
 | Test case No. |    Finding       | Device  | Operating System| Browser |Reporter | Resolution Ticket(s)| Status |
 |---------------|------------------|---------|-----------------|---------|---------|---------------------|--------|
 | | | | | | | |
