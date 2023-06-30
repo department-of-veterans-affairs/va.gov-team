@@ -30,7 +30,7 @@ Today we're going to talk about the health care application process.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about [half an hour to an hour].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.** 
 - Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
@@ -60,8 +60,6 @@ Let’s start with a few warm-up questions.
 - Was it clear to you as you were applying/getting care, what benefits or level of care you would qualify for? 
 - How would you describe the process after you were seen for care? 
 - Did you have any communication from the VA or information if you were eligible for more health care benefits?
-
-
 
 
 ### Things to watch for:
@@ -100,33 +98,6 @@ Let’s start with a few warm-up questions.
 - [What steps do they leave out?]
 - [What do they mention or call out as information that is helpful in making decisions about health care benefit choices?]
 
-
-
-
-## Fourth Topic: [Scenario 1] - 10 minutes
-**Scenario setup**
-- For this first scenario, let's imagine you are want to apply and sign up for health care, but you don't know what you qualify for or know what benefits you would get. You do some online research and arrive at a page where you can apply for health care benefits, still being uncertain of your eligibility.
-- At the start of the application, you are presented with a choice where you can pick one of these options or both. The choices are 1. enrollment for full medical benefits or 2. registration for care or for the full medical benefits. 
-
-**Questions**
-- What would you choose? Can you explain your thinking to us?
-- What information would you need to confidently make a choice on what type of benefits you are choosing to apply for?
-- What are your thoughts on how this is worded? Would you like to call the steps in this process something else?
-- How would you feel if you selected one of these benefits and found out after the application that you are not elligible and should have chosen the other benefit option?
-
-## Fifth Topic: [Scenario 2] - 10 minutes
-**Scenario setup**
-- For this second scenario, let's imagine again you are applying for health care online and you arrive at a page that explains the process and outlines the various health care benefit packages and levels clearly. 
-- You start the application by answering a few basic questions about who you are, where you live and how you can be contacted. You then complete some basic questions about any health care coverage you may already have as well as confirming your military service history. 
-- Next you are preseneted with a series of yes/no questions that walk you through an eligibility screening basically. Once this is completed, you are told what benefit package you could possibly qualify for or it is determined you need to continue on with more questions and provide additional info such as your income and how many dependents you have. But if you are told you qualify based on the initial screening, you don't have to answer these other questions.
-- Once you are done, you are told a benefit type and level (or range) that you might qualify for. 
-
-**Questions**
-- What are your initial reactions or thoughts on this process?
-- Does anything stand out to you as helpful or annoying?
-- Would you find a lot of yes/no questions that could be related to your service connected disability or medical situation in the middle of the application intrusive?
-- Would you want to know on the spot during the application what level (Priority Group) you might be eligible for or are you fine with waiting to hear from the VA?
-- What information do you think you need to provide to get placed into the correct type and level of benefits?
 
 
 ## Post-Task Interview - 5 minutes
