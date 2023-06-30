@@ -40,7 +40,7 @@ The form will live under the new parent page for supporting forms, which is now 
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
 
-1. [Supporting forms page](https://www.va.gov/supporting-forms-for-claims/) - Add
+1. **[Supporting forms page](https://www.va.gov/supporting-forms-for-claims/)** - Add
   - Placement description: Third option down
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/supporting-forms-for-claims/third-party-authorization-form-21-0845
