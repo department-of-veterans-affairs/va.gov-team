@@ -21,6 +21,9 @@ Our testing plan was finalized through [PM | Direct deposit EVSS > Lighthouse mi
 Use cases and testing are documented on [this spreadsheet](https://docs.google.com/spreadsheets/d/1xflLNJhUSVslzLbVQtMkYkzsBGAhIccnmYW0GL_Ihd0/edit#gid=0).  
 
 
+#### Privacy, Security, Infrastructure Review
+
+
 ## Step 3: Production rollout
 
 ### Define the Rollback process
