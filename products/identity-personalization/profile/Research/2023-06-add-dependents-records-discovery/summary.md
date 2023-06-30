@@ -130,7 +130,7 @@ Continue forward with designing and testing an MVP of Profile that includes depe
 
 #### Next steps
 
-- Make mockups for MPV (how it would look in profile: note with IA, where it would fit in profile)
+- Make mockups for MPV (how it would look in profile: note with IA, where it would fit in profile) [#61261](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/profile/Research/2023-06-add-dependents-records-discovery/summary.md)
 - Learn more about letters (for linking, not bringing over any tools)
 - Conduct research study to get user feedback (combination interview/MVP usability test)
 - Sync back up with Danielle
