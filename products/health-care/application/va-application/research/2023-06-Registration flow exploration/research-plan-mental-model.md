@@ -78,7 +78,7 @@ Remote via Zoom for the interviews
 
 
 - [Link to conversation guide - cohort 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model-cohort1.md) 
-- [Link to conversation guide - cohorts 2 & 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-cohort2and3.md) 
+- [Link to conversation guide - cohort 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-cohort2and3.md) 
 
 - [Recruitment ticket]
 	
@@ -92,7 +92,7 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 
 10 completed sessions; 5 completed per cohort
 
-**18 requested; 9 requested per cohort**
+**16 requested; 8 requested per cohort**
 
 
 **Primary criteria (must-haves)**
