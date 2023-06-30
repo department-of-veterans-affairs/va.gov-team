@@ -1,7 +1,7 @@
 # Research Plan for "registration only" mental model hypothesis flow study [Health Enrollment Team, 10-10EZ, June 2023]
 
 ## Background
-The online health care application today processes all applications as enrollment. With regards to regulation § 17.37 Enrollment not required—provision of hospital and outpatient care to veterans which is being called the "registration only" path. This has a mix of eligibility criteria or scenarios for the Veteran to meet and a mix of what type of benefits they would be receiving - ranging from care for one need to the "full medical benefits package". 
+The online health care application today processes all applications as enrollment. With regards to regulation § 17.37 Enrollment not required—provision of hospital and outpatient care to veterans which is being called the "registration only" path. This has a mix of eligibility criteria or scenarios for the Veteran to meet and a mix of what type of benefits they would be receiving - ranging from care for one medical need to the "full medical benefits package". 
 
 How might we enable Veterans who simply want to "register" for a specific level of care — up to and including the full medical benefits package — do that instead of processing all applications as enrollment applications?
 
@@ -67,7 +67,7 @@ Learn more about how Veterans would like to go about applying, discovering eligi
 
 Additional desk research will be conducted to supplement these interviews:
 - Google analytics path and keyword study
-- VSignals analysis around keywords
+- VSignals analysis around keywords (TBD)
 
 
 ### Location
@@ -90,9 +90,9 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 
 ### Recruitment criteria
 
-15 completed sessions; 5 completed per cohort
+10 completed sessions; 5 completed per cohort
 
-**21 requested; 7 requested per cohort**
+**18 requested; 9 requested per cohort**
 
 
 **Primary criteria (must-haves)**
@@ -101,10 +101,10 @@ What demographics, experience, and scenarios do you need participants to meet to
 **Screener Questions**
 
 Cohort 1: 
-- Have you visited a VA facility for a medical visit/exam in the past year and did not enroll in health care benefits package? [answer should be yes to qualify.]
+- Have you visited a VA facility for a medical visit/exam in the past year and **are not/did not enroll** in the health care benefits package? [answer should be yes to qualify.]
 
 Cohorts 2 & 3:
-- Have you applied within the past 3 years and are now enrolled in health care? [answer should be yes to qualify.]
+- Have you applied within the past 2 years and are now enrolled in health care? [answer should be yes to qualify.]
 
 
 
@@ -112,19 +112,15 @@ Cohorts 2 & 3:
 What criteria would strengthen your results? 
 
 
-- At least 8 participants are female
-- At least 5 participants with a cognitive disability
-- At least 5 participants over the age of 55
-- At least 3 participants who are living abroad or immigrant origin
+
+
 
 
 ## Timeline
 
-Cohort 1: Thursday July 6 - Friday July 7
+Cohort 1: TBD
 
-Cohort 2: Monday July 17 - Wednesday July 19
-
-Cohort 3: Wednesday July 26 - Friday July 28
+Cohort 2: TBD
 
 
 
@@ -134,9 +130,8 @@ Cohort 3: Wednesday July 26 - Friday July 28
 
 ### Research sessions
 * Planned dates of research:
-* Cohort 1: Thursday July 6 - Friday July 7
-* Cohort 2: Monday July 17 - Wednesday July 19
-* Cohort 3: Wednesday July 26 - Friday July 28
+* Cohort 1: 
+* Cohort 2: 
 
 ### Length of sessions
 * Session length:  < 1 hour
@@ -153,14 +148,9 @@ Please request enough dates and at ***least double the amount of time slots for 
 ### Availability
 | **Team Availability** | **Time (ET)** |
 | --------------------- | ------------- |
-| July 6, 2023     	|    		|
-| July 7, 2023   	|   		|
-| July 17, 2023   	|   		|
-| July 18, 2023   	|   		|
-| July 19, 2023   	|   		|
-| July 26, 2023   	|   		|
-| July 27, 2023   	|   		|
-| July 28, 2023   	|   		|
+| July    	|    		|
+| July  	|   		|
+
 
 
 
