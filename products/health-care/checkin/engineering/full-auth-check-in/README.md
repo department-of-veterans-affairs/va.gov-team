@@ -18,53 +18,54 @@ sequenceDiagram
     participant vam as VA-Mobile-App
     participant va as vets-api
     participant chip as Chip
-    participant vista-api as vista-api
-    participant cw as cw
+    participant vista as vista-api/CW/veText
 
-	vet->>vam: Launch appointments screen
-	vam->>va: Requests eligibility for an appointment
-    va->>chip: checkEligibility(appointmentIENs, patientDFN, stationNo)
-    chip->>vista-api: Get /appointments
-    vista-api->>chip: return appointments
-    chip->>va: Return eligibility status
-    va->>vam: Return eligibility status
-    vam->>vet: Presents Check-in button if eligible
     vet->>vam: Click Check-in button for eligible appointment
-    vam->>va: Iniate mobile check-in
-    va->>chip: Request insurance and demographics statuses for patient
-    chip->>va: Return insurance/demographics statuses
-    va-->>chip: Request demographics payload if update needed
-    chip-->>va: Return demographics payload
-    va->>vam: Return insurance/demographics statues <br />and payload if needed
-    vam-->>vet: If insurance needs validation prompt to check-in with staff.<br /> If demographics need confirmation present those screens.<br /> If no input needed proceed with checking patient in.
-    vet-->>vam: Completes demographics confirmation if needed
-    vam->>va: If updating demographics status send timestamps.<br />Send check-in to appointment.
-    va-->>chip: Patch demographic statuses if needed
-    chip-->>va: Demographics response if sent
-    va->>chip: Send check-in for appointment 
-    chip->>va: Check-in response
-    va->>vam: Check-in and demographics response
+    vam->>va: Get demographics
+    va->>chip: Get demographics
+    chip->>vista: Fetch demographic/insurance statuses
+    chip->>vista: Fetch demogrpahic data
+    vista->>chip: Return demogrpahic/insurance statuses
+    vista->>chip: Return demogrphics data
+    chip->>va: Return combined demogaphic statuses and data
+    va->>vam: Return combined demogaphic statuses and data
+    vam-->>vet: Present demographic confirmations if needed
+    vet-->>vam: Confirm demographics
+    vam-->>va: Patch demographic status
+    va-->>chip: Patch demographic status
+    chip-->>vista: Patch demographic status
+    vista-->>chip: Demographic status patch response
+    chip-->>va: Demographic status patch response
+    va-->>vam: Demographic status patch response
+    vam->>va: Call authenticated check-in service
+    va->>chip: Call authenticated-check-in
+    chip->>vista: Fetch insurance and demographics statuses for patient
+    chip->>vista: Fetch appointment
+    chip->>chip: Evaluate demographic/insurance statuses
+    chip->>chip: Evaluate appointment
+    chip-->>vista: Check patient into appointment if passes validation
+    vista-->>chip: Return success/fail for check-in
+    chip->>va: Check-in response success/fail
+    va->>vam: Check-in response success/fail
     vam->>vet: Confirmation/Error screen
 ```
 ## Proposed sequence
 The proposed sequence above outlines four new vets-api endpoints.
-
-1. An endpoint to determine appointment elligability. Requires station number and appointment IEN. Returns true/false.
-1. An endpoint for intiating check-in. On the chip side this fetches statuses for demographics and insurance. Vets-api returns the statuses and demogrpahics data if confirmation needed.
-1. An endpoint for patching the updated demogaphics stautuses
-1. An endpoint to check the patient in.
+1. A demographics endpoint, GET fetches statuses(including insruance status) and data, PATCH updates the statuses.
+1. An endpoint for check-in. On the chip side this fetches statuses for demographics, insurance, and appointment to validate. Returns success/fail with fail codes.
 
 ## Questions:
 
 - In the VAOS payload is locationId the same as station number?
     - The answer to this is yes but the values have a mapping to station values that are not recognizeable to us. There is a doc underway to document the vaos-service appointment. [See thread in slack](https://dsva.slack.com/archives/C023EFZPX4K/p1685984766871989?thread_ts=1685639670.578339&cid=C023EFZPX4K)
 - Can VAOS add the ECheckinAllowed field to the appointment?
+    - Yes this will be added 
 - How can we have security confidence that the patient is checking into only their appointments?
+    - The mobile app with only send appointmentIen and stationNo, vetsAPI will provide the DFN from the user object to insure that patients can only attempt to check-in to their appointments. 
 - [LP] Currently, the mobile app gets their appointment info from VAOS; to test in a Staging environment, the Mobile App team has to get the VAOS team to create appointments for them in the Vista instance that VAOS uses; we need to determine if this is the same Vista instance that the CIE team uses for the Staging tool; if it is not, I'm not sure how we are going to test in Staging
     - Shane is working to connect the systems with BJ. [See thread](https://dsva.slack.com/archives/CMNQT72LX/p1686149475340469?thread_ts=1685982069.819559&cid=CMNQT72LX)
 - Should the API start enforcing the bussiness rules around check-in? Currently the frontend, does the checks to determine some of the elligability for checking-in a patient i.e. demographics confirmations. With more applications wanting to do check-in, should those business rules move into the API side?
     - Yes we should probably enforce business rules at the API level to avoid conflicting rules accross multiple applications and for added security.
-- What patient info is available from the mobile app JWT token? (DFNs Stations)
 
 ## Internal questions:
 - Should we create a new vets-api module for fully authed applications(suggestions from Stephen)?
@@ -189,3 +190,4 @@ The proposed sequence above outlines four new vets-api endpoints.
 - get the patient DFN for the given station number. [slack ref.](https://dsva.slack.com/archives/CMNQT72LX/p1686071593550999?thread_ts=1685982069.819559&cid=CMNQT72LX)
     - avoid the staff apps endpoint, look for ways in vets-api to do this that already exist.
 - the mobile team will also need a list of appointment IENs. Those are being added to the VAOS payload now. [slack ref.](https://dsva.slack.com/archives/C023EFZPX4K/p1685985637341189?thread_ts=1685639670.578339&cid=C023EFZPX4K)
+

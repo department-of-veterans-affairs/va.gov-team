@@ -1,3 +1,14 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
 # Load Testing
 In this folder, you will find information specific to load testing on VSP.  Please note that detailed load testing materials are stored in the **[devops](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest)** repository.
 

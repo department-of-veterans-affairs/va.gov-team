@@ -7,10 +7,12 @@ For a view of the roadmap of current and upcoming research, visit the Research o
 # Research carried out on MHV on VA.gov
 
 ## MHV on VA.gov concept research
-- [MHV on VA.gov Round 1 Initial Prototype Usability Research/ Proof of Concept](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability) (March 2022)
 - [MHV on VA.gov Round 2 Initial Prototype Usability Research/ Proof of Concept - mobile users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability) (May 2022)
+- [MHV on VA.gov Round 1 Initial Prototype Usability Research/ Proof of Concept](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability) (March 2022)
+- [2020-12 Digital Health Modernization Generative Research Study 1](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/6) (September 2021)
 
 ## MHV on VA.gov content and information architecture research
+- [2023-07 Health Wayfinding Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study) (July/ August 2023)
 - [My Health IA Tree Test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-01-my-health-ia-tree-test/research-plan.md) (January 2023)
 - [2022 Health Apt Tree Test - Health Hub, Health Apartment, Deeper Navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1) (December 2022)
 - [2022 Health Hub Tree Test - Navigating "get" vs. "manage" health benefits in Health Hub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1) (July 2022)
@@ -42,4 +44,5 @@ For relevant appointments research, visit the [Appointments Research on VA.gov p
 
 ## Related Research
 - [MyHealtheVet/VA.gov profile transition research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research) (VA.gov Profile Team - April 2022)
+- [2023 Generative Logged-in Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research) (Authenticated Experience team - April 2022)
 

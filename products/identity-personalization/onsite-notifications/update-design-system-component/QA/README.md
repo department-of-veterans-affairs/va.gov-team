@@ -1,15 +1,17 @@
 # Onsite Notifications - Notification Component on My VA: QA Artifacts 
 
 ## Test Scenarios
-QA was performed manually by team members to the best of our ability based on limited resources and access to/knowledge of testing tools. 
+QA was performed manually by team members. 
 * [Test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-onsite-notification-component.md) (Github)
-* Test cases (Github - A11y format) -- LINK TK
-* Test cases + results XLSX link TK
-(record of QA execution and findings)
+* [Test cases (A11y format)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-onsite-notification-component-a11y-format.md)(Github)
+* [Test Cases_ Notification Component on My VA (1).xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/11896270/Test.Cases_.Notification.Component.on.My.VA.1.xlsx) (updated 6/28 to add reset test users)
 
 
 ## Defect report
-- Noted in the findings table below and in the attached spreadsheet above.
+- Noted in the findings table below and in the attached spreadsheet above. -- _no major findings_
+- Additional findings reported outside of QA
+    - [#60661](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60661) - _our pr is merged, now pending a design system release which is scheduled for 7/5_
+    - [#60845](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60845) 
 
 ## Accessibility Staging Review Prep
 - [Notification Component on My VA - Accessibility Staging Review Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/launch-materials/notification-design-system-component-a11y-staging-review-prep.md)

@@ -1,5 +1,106 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: June 21 2023       
+### Participants: Rakshinda, Shannon, Steve
+### Topics Covered:
+- Issue Management Strategy
+   - Bug Triage - how's it working out?
+      - Need to start looking at bugs
+      - Put the logging items for discovery sprint and review reported bugs in the triage   
+   - Can we find a different time? Work something with Austin
+- Q3 Initiatives prioritization
+   - Idea solicitation
+   - Timeline
+   - Look at getting the board ready by July 10th for review with Matt
+- Combined road-map
+  - In progress - Austin
+- Analytics
+  - Updating site-map and URLs
+  - Austin and Rakshinda working on requirements for dashboard updates
+  - In progress - work on goals for cliamant experience
+     -  Submission time
+     -  Sessions for completion
+     -  Customer satisfaction, other health metrics
+     -  Keep Steve and Shannon included 
+- Keep changes on 526 ancillary forms in sync with other applications and stand-alone digitized forms
+- Stop retrying large file uploads (> 150 MB)
+
+ 
+### Date: June 21 2023       
+### Participants: Rakshinda, Austin, Shannon
+### Topics Covered:
+- Catch-up / updates from the last 2 weeks
+- Issue Management Strategy
+  - How's it been working so far
+     - Particiaption by each team for pairing
+     - Bug Board
+     - Process
+    - Good collaboration between deisgn and dev team feedback from Team 2
+    - Lack or clarity and tools to troubleshoot on Team 2
+    - Seeing some challenges in pairing with Team 2 - Team 1
+    - Feedback session on process
+    - Need to get back to Contact center on the process
+      - Encrypted emails are not readable outside GFE
+    - Action item - daily stand-up for issue management
+       - Include Shannon/Steve while Matt is out
+    - Issue with claims getting lost due to downstream validation issues or other reason - Steve A
+       -  Kyle, Sam, Steve,
+       -  Need to get it on the Zenhub board for prioritization
+    - Scheduling a meeting with contact center to walk through the ticket creation and new process
+      
+- Collaboration between teams
+  -  What's working and what isn't
+  -  How to improve collaboration
+     - Eng collab - Thomas to reach out to Anneliese
+     - product sync - twice a week to begin with
+       
+  -  Analytics  
+    - Meeting this week for
+    - New pulls for analytics - Shannon / Steve / Austin /
+       
+- Roadmap
+  - Review updates by Team Carbs with Austin on another sync
+    
+- PTO Coverage for design team over the summer
+  - Lydia is 4-5 weeks
+     - Planning to get first drafts of content/design for ongoing epics
+     - Possibility of Nicole and Julie
+  - Nichole back when Lydia is leaving
+  
+- eVSS migration status - Steve
+  - Send update every Wednesday
+
+- eVSS outage because a pdf for 150 M was uploaded as evidence
+  - problem originated with efolder document upload  
+  - This caused outage of multiple services
+ 
+###Action item 
+- Find more time this week to go over the rest of the items
+- Add the 150M file upload constraint to the endpoint call for document upload 
+
+
+### Date: June 14 2023
+### Topics Covered:
+- Funnel data and user behavior
+  - Shannon wants to make sure all efforts (Steve, Nyantee, Julie) are synced, also that we are not seeking impossibly "perfect" targets
+  - Austin says Team 2 looking at user behavior overall, alongside error messaging (sees as complementary)
+  - Steve confirms if Thomas (Team 2) and Seth (Team 1) are the best folks for Sentry work
+  - Austin reminds we also have shorter term work around really understanding submission errors
+  - Austin wants to know if we want to prioritize certain user groups
+- Communication between team 1 and 2
+  - Lydia wonders if we can agree on where to communicate across teams in Slack
+  - Matt suggests looping Sarah and Rakshinda into conversation about combined channel
+  - Austin says he'll touch base with Sarah, Lydia will do same with Rakshinda
+- Austin will share brainstorm MURAL for folks to look at async
+- Bug Pilot Rollout
+  - Austin thinks we should go ahead and start piloting with contact center
+  - Matt says it will fall on teams to create tickets, Shannon will help with creating non-contact-center tickets (in Matt's absense)
+  - Matt reminds to capture feedback on MURAL, and will look forward to formal review when he returns
+  - Regarding Sentry/Datadog errors noted by Steve: Austin wondering if should prioritize? Steve says prioritize on case by case basis based on other things going on, expects there to be a pattern that means fixing one means fixing many
+  - Matt reminds to prioritize based on severity, Austin will make sure folks on big duty are understanding/doing this
+  - Austin re: request from Kimberly regarding Form Error lis, will meet to discuss, still need to schedule hand off
+
+
 ### Date: June 7 2023
 ### Topics Covered:
 - Team 2 Board Quick Overview

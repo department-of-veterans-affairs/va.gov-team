@@ -19,7 +19,7 @@ The 10-10EZ is easier for applicants to understand and complete without having t
      - (examples: Pause to talk to spouse, have to find financial paperwork, need to finish taxes, etc.)
 - We have noticed a 12-month trend of drop-offs around the Financial Disclosure page (4%), the Annual Income page (5.2%) and Spouse page (6.9%).  
      - it was first brought to our attention because they showed the highest drop-off rates of all the pages in the form, compared to the other pages with an average of 0-2% exit rates.
-- HEC team (especially Stacey Echols) also has heard this section is painful and is eager to update to improve completion rate (in their mind this is next after short form)
+- HEC team (Also from HEC Director, Stacey Echols) also has heard this section is painful and is eager to update to improve completion rate (in their mind this is next after short form)
 
 ## Desired User Outcomes
 - Applicants will be able to proceed through the application easily and confidently
@@ -125,9 +125,19 @@ Data source - Call Center team/TBD
      - [ ] Privacy & Security
 
 ### Incident Response info
-- The 1010EZ form is currently in production; we are only changing the content and flow of the application's questions
-- Full application flow/ less than 50% disability rating ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
-- 1010EZ [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
+- The 1010EZ form is currently in production; we are only changing the content and flow of the application's questions.  The information being sent after submission to the Enrollment System remains unchanged.
+- There are no new endpoints implemented with this change
+- This change applies to the full application flow, as well as the Short Form flow (less than 50% disability rating) ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
+- We will use the following 1010EZ applications for any latency or errors being logged
+     - [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
+     - [Datadog Real User Monitoring dashboard](https://vagov.ddog-gov.com/rum/performance-monitoring?query=%40application.id%3A9d5155fd-8623-4bc9-8580-ad8ec2cdd7fa&from_ts=1687971959215&to_ts=1688058359215&live=true)
+     - [Sentry](http://sentry.vfs.va.gov/organizations/vsp/issues/)
+- If there are any errors or issues found as a result of this change, we will disable the code by switching off the feature toggle which will result in the change being reverted to its previous state prior to release.  We will then begin triaging the root cause and determining a solution.
+     - Timeline for triage and solution implementation will be fast-tracked to complete within 1-3 days.
+- Main POCs:
+     - Heather Justice (heather.justice@adhocteam.us) - Product Manager
+     - Matt Long (matt.long@adhocteam.us) - Engineering lead
+     - Patrick Bateman (patrick.bateman@adhocteam.us) - Product Owner
 
 ---
 ## Key deliverables
@@ -140,10 +150,10 @@ Data source - Call Center team/TBD
 - [Technical documentation folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/engineering)
 - How to access and test
     - [Staging env](https://staging.va.gov/health-care/apply/application/introduction)
-    - Testing documentation - TestRail
+    - [Testing documentation - TestRail](https://dsvavsp.testrail.io/index.php?/reports/overview/10)
     - [Household section test/use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Staging%20Review_QA/Household%20Section%20Optimization%20Use%20Cases.md)
-    - Household section a11y test case documentation
-- Release plan
+    - [Household section a11y test case documentation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58694)
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Product/Household%20section%20optimization%20-%20Release%20Plan.md)
 - [Production env](https://www.va.gov/health-care/apply/application/introduction)
 
 

@@ -22,16 +22,18 @@ Primary Button: **Sign in to start your request**
 ## Follow these steps to request a Board Appeal
 
 ### 1. Check to be sure you can request a Board Appeal
-> You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
-> **If our decision involves a contested claim,** the Board must receive your completed form within 60 days from the date listed on your decision notice. A contested claim is when a favorable claim decision for one person results in denial or reduced benefits for another person.
+You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
 
-> **If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
-    * Within 60 days from the date on the SSOC letter, **or**
-    * Within 1 year of the decision date by the agency of original jurisdiction
+**If our decision involves a contested claim,** the Board must receive your completed form within 60 days from the date listed on your decision notice. A contested claim is when a favorable claim decision for one person results in denial or reduced benefits for another person.
+
+**If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
+- Within 60 days from the date on the SSOC letter, **or**
+- Within 1 year of the decision date by the agency of original jurisdiction
+
 You can request a Board Appeal for these claim decisions:
-    * An initial claim
-    * A Supplemental Claim
-    * A Higher-Level Review
+- An initial claim
+- A Supplemental Claim
+- A Higher-Level Review
 **Note:** You can’t request a Board Appeal if you’ve already requested one for this same claim.
 
 ### 2. Gather your information
@@ -100,16 +102,18 @@ Action Link: **[Sign in to start your request](https://staging.va.gov/decision-r
 ## Follow these steps to request a Board Appeal
 
 ### 1. Check to be sure you can request a Board Appeal
-> You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
-> **If our decision involves a contested claim,** the Board must receive your completed form within 60 days from the date listed on your decision notice. A contested claim is when a favorable claim decision for one person results in denial or reduced benefits for another person.
+You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
 
-> **If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
-    * Within 60 days from the date on the SSOC letter, **or**
-    * Within 1 year of the decision date by the agency of original jurisdiction
+**If our decision involves a contested claim,** the Board must receive your completed form within 60 days from the date listed on your decision notice. A contested claim is when a favorable claim decision for one person results in denial or reduced benefits for another person.
+
+**If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
+- Within 60 days from the date on the SSOC letter, **or**
+- Within 1 year of the decision date by the agency of original jurisdiction
+
 You can request a Board Appeal for these claim decisions:
-    * An initial claim
-    * A Supplemental Claim
-    * A Higher-Level Review
+- An initial claim
+- A Supplemental Claim
+- A Higher-Level Review
 **Note:** You can’t request a Board Appeal if you’ve already requested one for this same claim.
 
 ### 2. Gather your information
@@ -266,7 +270,7 @@ VA Form 10182 (Notice of Disagreement)
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
-### Filing deadlines
+### Deadlines for submitting this form
 
 You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
 
@@ -508,6 +512,38 @@ Would you like to submit more evidence right now?
 
 * Yes
 * No, I’ll submit it later.
+
+Finish this request later
+
+**« Back | Continue »**
+
+## Need help?
+
+If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
+
+If you have hearing loss, call TTY: [711](tel:711).
+
+---
+
+# Request a Board Appeal
+
+VA Form 10182 (Notice of Disagreement)
+
+## Step 3 of 4: Board review option
+
+Your application will be saved on every change. Your application ID number is XXXXX.
+
+### Upload your additional evidence (*Required)
+
+You can upload your document in a .pdf file format. You’ll first need to scan a copy of your document onto your computer or mobile phone. You can then upload the document from there.
+
+Guidelines for uploading a file:
+
+File types you can upload: .pdf
+Maximum file size: 100MB
+A 1MB file equals about 500 pages of text. A photo is usually about 6MB. Large files can take longer to upload with a slow Internet connection.
+
+**Upload**
 
 Finish this request later
 

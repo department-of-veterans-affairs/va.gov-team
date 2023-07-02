@@ -1,6 +1,6 @@
 # Authenticated experience at a glance
 
-**Last updated: April 4, 2023**
+**Last updated: June 12, 2023**
 
 ## Where to find us 
 
@@ -21,7 +21,7 @@
 |Travis Cahill|Product Manager -- Profile portfolio|travis.cahill@agile6.com|
 |Berni Xiong | Delivery manager | berni.xiong@agile6.com |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
-|Florence McCafferty| Designer | Florence.McCafferty@agile6.com |
+|Pam Drouin| Designer | pamela.drouin@a1msolutions.com |
 |Angela Agosto|	Designer|	angela.agosto@adhocteam.us|
 |Allison Lu | FE Engineer| allison@cityfriends.tech |
 |Adam Whitlock | FE Engineer |adam.whitlock@adhocteam.us|

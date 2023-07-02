@@ -1,5 +1,59 @@
 # Design Weekly Sync Agenda
 
+## 2023-06-26
+
+Attendees: DK, Jessica, Hieu, Katelyn, Kristen
+
+**EZR discovery ticket (Hieu)**
+
+- [Discovery for Veteran Information Editing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58542): This ticket feels too big since scope changed. Let's take that back to Heather and Alex and see what we can do with it.
+- We still need to do some sythesis on the Pittsburgh and Martinsburg research calls.
+
+**Priority Group/Financial Info research (Jessica)**
+
+Some big takeaways from this discussion:
+
+- Let's do some more desk research to see what other teams have insight that can help with our current research efforts. Jessica has [notes in her Mural board](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1687381992402?sender=u773b824999f25f58b8e77486&key=2694912f-19c7-4254-8e86-ce74e6a4bdf0).
+
+- Things to consider for Priority Group: unclear on what type of information can be shared with the Veterans. What is the tradeoff to showing that information? Should we be showing the overview definitions or the individualized PG?
+
+## 2023-06-19
+
+Attendees: DK, Jessica, Hieu, Katelyn, Kristen
+
+**Progress bar/stepper (Hieu)**
+
+Questions:
+
+- What does our research say about the bar/stepper? Is it needed?
+- Does this component still solve a problem Veteran has?
+- What's the opportunity to interact with it? Maybe it becomes navigation in the future?
+
+**CG business feedback (Katelyn)**
+
+- Talked through a few potential copy changes. Katelyn to share those with content folks ahead of time off.
+
+**Pittsburgh research call review (all)**
+
+- Follow up on benefits packet to see the content.
+- Cover roles in future call. Follow up on past call.
+- Watch magic wand scenios for thoughts on tension between HEC center and employees at centers.
+
+**Action items**
+
+- Hieu to connect with forms design team and explore different options.
+
+## 2023-06-12
+
+Attendees: DK, Jessica, Hieu, Katelyn, Kristen, Alex
+
+**VA 1010EZ Staff Research Questions**
+
+We brainstormed questions for interviewing staff, done in these two Mural boards:
+
+- [EZR discovery](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684943221068/4b11f2d1902d05f12f53468263a561c2d5a460a9?wid=0-1684949791097)
+- [EZ Registration-only path discovery](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684348883203/49fc4ff1bf31f3cabe200663708c1002645b447f?wid=0-1686000958778)
+
 ## 2023-06-05
 
 Attendees: DK, Jessica, Hieu, Katelyn, Kristen

@@ -1,10 +1,10 @@
-# Initiative Brief: Mobile Phone Edit Flow
-05/25/2023
+# Initiative Brief: ~Mobile Phone Edit Flow~ Editing as a Sub-Task
+06/27/2023
 
 #### Overview
 
-- *Product: Notification Settings* 
-  - *Initiatives: Edit Mobile Phone Number Flows*
+- *Product: Notification Settings / Contact Information* 
+  - *Initiatives: Editing as a Subtask*
  
 ---
 
@@ -14,7 +14,10 @@
 During the [useability study to add email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023), we noticed that users were struggling with the current update flow for updating email or mobile phone when attempting to view the notification settings. We will re-engineer the workflow for updating a user's contact information from the notifications setting page in order to reduce confusion for users.
 
 **Related/Associated product(s)**
-- Product | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences)
+
+This sits between two products and allows users to "Edit as a Sub-Task". A user on the notification settings screen will see a call to action advising them of missing information. Following the CTA will allow them to begin the sub-task and they'll be prompted to enter in the missing contact information. Once submitted, the user will return them to the notifications screen. 
+- [Notification Settings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences)
+- [Contact information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
@@ -108,6 +111,7 @@ We will expand this functionality to allow users to update email and other items
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
 - [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58231)
+- [collab cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58231)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
@@ -135,7 +139,7 @@ Not shown but the process jumps the user to the contact screen and scrolls them 
 
 ### After
 Overall: https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d 
-[user flow]:(https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d/p/293F15EA-9CCC-466C-A3B7-3E54E3111676/canvas)
+[user flow](https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d/p/293F15EA-9CCC-466C-A3B7-3E54E3111676/canvas)
 
 Step1: https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/uuid/EFD07E4E-8467-4542-A9C6-0184B4536E4B
 

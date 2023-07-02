@@ -30,9 +30,9 @@
 - Introduction: 5 minutes
 -	Warm-up: 3 minutes
 -	Task 1: Initial Reactions to the AVS Interface - 7 minutes
--	Task 2: Your Appointment on June 1, 2023 - 7 minutes  
--	Task 3: - Your Treatment Plan from this appointment- 7 minutes
--	Task 4: Your key medical records – 10 minutes
+-	Task 2: Your Appointment on June 6, 2023 - 7 minutes  
+-	Task 3: Your Treatment Plan from this Appointment- 7 minutes
+-	Task 4: Your Health Information as of This Appointment – 10 minutes
 -	Task 5: Additional Information – 5 minutes [**Can cut questions if running long**]
 -	Task 6: Navigating to Another AVS – 10 minutes
 -	Task 7: Insights into Notifications – 7 minutes
@@ -69,9 +69,9 @@ I'd like to start by learning more about your experience reviewing information a
 ## Task 1: Initial Reactions to the AVS Interface - 7 minutes
 - Great, next I’d like to get your opinion on a prototype of a section on the VA.gov website.
 -  I'm going to send you a [link to this prototype](https://www.figma.com/proto/VHHxvo1QA1ndWc0TBhfkNq/Add-After-Visit-Summary?page-id=2%3A3&type=design&node-id=1233-16119&viewport=-892%2C210%2C0.4&scaling=scale-down&starting-point-node-id=1233%3A16119) in the Zoom chat. Since this is a prototype for testing purposes only, it may not work as you may expect even though it may look like the actual VA.gov website.
-- Okay, I've just sent you a link in the chat.  Please open the Zoom chat and click on that link. [**Moderator Note:** Help participant with the prototype if necessary. If the participant is unable to share their screen, then share your screen and follow the participant’s instructions.]
--	Now pretend that today is June 6th, 2023 and you are Hector.  You had an appointment this morning at 9:50 am with Dr. Nutt, your primary care physician, at the Puget Sound VA facility. A few hours have passed since your appointment, and you forgot what your doctor's instructions were. Use this prototype to find out what Dr. Nutt and you discussed at your appointment. Please think aloud as you are trying to find this information. 
-    - [**Notetaker:** 1. Note where participant navigatesto; note if participant navigates to “Care Summaries” or “Appointments”?]
+- Okay, I've just sent you a link in the chat.  Please open the Zoom chat and click on that link. [**Moderator Note:** Help participant with the prototype if necessary. If the participant is unable to share their screen, then share your screen and follow the participant’s instructions.] [Mobile screen sharing instructions.](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions)
+-	Now pretend that today is June 6th, 2023, and you are Hector.  You had an appointment this morning at 9:50 am with Dr. Nutt, your primary care physician, at the Puget Sound VA facility. A few hours have passed since your appointment, and you forgot what your doctor's instructions were. Use this prototype to find out what Dr. Nutt and you discussed at your appointment. Please think aloud as you are trying to find this information. 
+    - [**Notetaker:** 1. Note where participant navigates to; note if participant navigates to “Care Summaries” or “Appointments”?]
     - [**Moderator Note:** Only assist if they have difficulty locating the After-visit summary. Continue with the below questions once the participant navigates to the After-visit summary page.]
 
 1.	Please review the info on this page and share your overall impressions. Think aloud as you review. 
@@ -84,8 +84,8 @@ I'd like to start by learning more about your experience reviewing information a
     - 	[**Moderator Note:** If participant cannot find this information, follow up on this in Task 3.]
     
 
-## Task 2: Your appointment on June 6th, 2023 - 7 minutes  
-Now, I would like you to focus on the “Your appointment on June 6th, 2023” section. Please review the section and please talk aloud as you are reviewing. And then, I’ll ask you a few questions as you move through.
+## Task 2: Your Appointment on June 6th, 2023 - 7 minutes  
+Now, I would like you to focus on the “Your appointment on June 6th, 2023 section**. Please review the section and please talk aloud as you are reviewing. And then, I’ll ask you a few questions as you move through.
 1.	Can you provide an example of how you might utilize the information within this section?
 2.	Are there any terms that seem unfamiliar or confusing to you?
     -	[**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following:] Using your own words, how would you define those terms?
@@ -94,14 +94,14 @@ Now, I would like you to focus on the “Your appointment on June 6th, 2023” s
     -	[**Moderator Note:** If the participant doesn't correctly describe the content's purpose, then ask:] What if the title of the section was “Health conditions you discussed?” How would you define this section then?
     -	How valuable or not valuable do you find this section? Why?
 4.	Next, please scroll down again. [**Moderator Note:** Stop them at. “Medications ordered for administration in clinic”] 
-    - What does the information under “Medications ordered for administration in Clinic” mean to you? 
+    - What does the information under “Medications ordered for administration in clinic” mean to you? 
       - [**Moderator Note:** If what they describe doesn’t match the intention of the section, then ask:] What if I told you that this section displays medications you took or were administered while you were at your appointment. What do you think about reviewing that information?
 5.	Ask participants to stop and open the medication glossary and review the information while they are talking aloud. [**Moderator Note:** Try to get general feedback on the glossary terms.]
     - [**Moderator Note:** If participant comments on term, ask:] What does that mean to you?
     - [**Moderator Note:** If what they describe doesn’t match the intention of the section, then ask:] What if I told you that this section was supposed [*Improvise-** because the dialogue depends on the participant’s previous answer.]
 6.	How would useful or not useful do you find the information in “Medications ordered for administration in clinic”?
 
-## Task 3: Your Treatment Plan from this appointment - 7 minutes
+## Task 3: Your Treatment Plan from this Appointment - 7 minutes
 Now, I would like you to focus on the “Your Treatment Plan from this appointment” section. Please review this section by slowly scrolling through and thinking outloud again. 
 1.	How would you utilize the information within this section?
 2.	Are there any words that seem unfamiliar or confusing to you?
@@ -110,13 +110,13 @@ Now, I would like you to focus on the “Your Treatment Plan from this appointme
 3. Are there any instructions that you should be aware of in this section?
     - [**Moderator Note:** Ask question 3 only if participant answered "No" in Question 2 of Task 1, otherwise move to Question 4.] 
     
-4.	Okay great, so how would you describe the information under “Medications and Supplies”?
-    -	How does the “Medications and Supplies” information in this section differ from “Medications ordered for administration in clinic” under the previous “Your appointment on June 1, 2023” section?
+4.	Okay great, so how would you describe the information under “Medications and supplies”?
+    -	How does the “Medications and supplies” information in this section differ from “Medications ordered for administration in clinic” under the previous “Your appointment on June 6th, 2023” section?**
     -	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then share:] Okay, this section was supposed to display only the medications that were added or changed during the appointment?
     -	How valuable, or not valuable, do you find this section to be? Why?
 
-## Task 4: Your key medical records– 10 minutes
-Now, I would like you to scroll to “Your key medical records”.  And again, please review this section by talking aloud while you are scrolling through.
+## Task 4: Your Health Information as of this Appointment– 10 minutes
+Now, I would like you to scroll to “Your health information as of this appointment–”.  And again, please review this section by talking aloud while you are scrolling through.
 1.	Can you provide an example of how you might utilize the information within this section?
 2.	Are there any terms that seem unfamiliar or confusing to you?
     -   [**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following:] Using your own words, how would you define these terms?

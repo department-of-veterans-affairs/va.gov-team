@@ -1,4 +1,33 @@
 # Running Notes for Design & Research Teams 1 & 2 (T-Rex & Carbs)
+
+## 6/22/23
+Attendees: Lydia, Nyantee, Julie
+
+Agenda
+- Discuss toxic exposure "pairing"
+- Discuss bug support
+- Review sitemap and validate changes
+
+
+## 6/22/23
+Attendees: Lydia, Nyantee, Julie
+
+Agenda
+- Review sitemap and validate changes
+- (Didn't record, notes documented in the sitemap/form flow Mural)
+
+## 6/15/23
+Attendees: Lydia, Nyantee, Nichole
+
+Agenda
+- Review sitemap and validate changes
+- Sitemap screenshots (How to)
+- Are there additional paths to be added or explored (Reserve and PTSD added)
+
+- Meeting was recorded. The recording will be posted in Slack. A channel was not decided.  https://coformaco.zoom.us/rec/share/UNk_m9jWw8nBzED839NYlEJyCpyyc3GpKOOVazyuN1EKm4DGtUpvlb8PoIvSUn4l.g-p4a22ZtlU8rmzJ?startTime=1686852414000
+Passcode: %?mH9eY$
+- Discussed sitemap changes with the group. Nichole will continue to make changes to the sitemap as they are released.
+- Next meeting: Chat about yellow sticky notes and get clarification on missing ideas/sections. 
 ## 6/8/23
 Attendees: Lydia, Nyantee, Nichole, Julie
 

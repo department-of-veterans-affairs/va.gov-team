@@ -6,6 +6,8 @@
 
 - **GitHub Label**: vsa-authenticated-exp; notifications
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
+- **Development Epic:** [50758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50758)
+- **Collab Cycle Epic:** TK - not yet created
 
 ### Roles
 

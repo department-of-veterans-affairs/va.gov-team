@@ -8,7 +8,7 @@ Remove QR code as an option for initiating eCheck-in from check-in poster due to
 
 [Download posters](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/design/visual-collateral#latest-release-pdf) 
 
-<img width="612" alt="8 5x11-lowvision-noqrcode-fin" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/e98d8b83-d397-4e89-91bf-54b372d9c4d1">
+<img width="612" alt="24x36-lowvision-noqrcode-fin" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/14d4d7c5-9b45-4c93-b7a1-2b794e52278c">
 
 ## Release
 

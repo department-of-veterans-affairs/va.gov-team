@@ -7,8 +7,32 @@ KISS provides a way to create arbitrary static data files from Drupal content. T
 
  Here are the key pieces:
  ### Consumer code
- - `src/site/stages/build/drupal/static-data-files/config.js`
-    - This is where KISS files can be configured. To include a new file in the build process, configure it in this file.
+ - content-build
+    - Example:
+       - `src/site/stages/build/drupal/static-data-files/config.js`
+          - This is where KISS files can be configured. To include a new file in the build process, configure it in this file.
+       ```
+       {
+         description: 'VAMC EHR System',
+         filename: 'vamc-ehr.json',
+         query: queryVamcEhrSystem,
+         postProcess: postProcessVamcEhrSystem,
+       },
+       ```
+ - vets-website
+    - Example: 
+       - `src/platform/site-wide/drupal-static-data/source-files/vamc-ehr/connect/index.js`
+       ```
+       connectDrupalStaticDataFile(dispatch, {
+         fileName: 'vamc-ehr.json',
+         preProcess: preProcessEhrData,
+         statePropName: 'vamcEhrData',
+       });
+       ```
+       - `src/platform/site-wide/drupal-static-data/source-files/vamc-ehr/selectors/index.js`
+       ```
+       selectDrupalStaticData(state)?.vamcEhrData?.data || {};
+       ```
  ### Implementation code
  - `src/site/stages/build/index.js`
     - The static-data-file generation is added as a Metalsmith plugin. It's one of the first steps of the build to run.

@@ -1,5 +1,49 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**June 23, 2023**
+-
+Attendees: Aliyah, Carl, Joe, Sofia, Porta
+
+**Notes**
+- **Login.gov/ID.me reactivation draft email**
+    - Carl walked us through adjustments to email content.
+    - Aliyah noted that link to CLP was leading to signing in to VA page. Carl noted this and will adjust. 
+    - After call, Aliyah passed feedback to Laura. Laura to review email as well and we'll pass feedback to Carl.
+    - Porta noted that they're planning to start sending out this email, to a small group of users, soon.
+    - We chatted about content on the signing in page re: a lost MFA device. We should continue this conversation and determine if we'd like to create a new question or, as Porta and Joe mentioned, if we'd want to consider linking out to support on either partner website to account for the possibility of content changes from either partner.
+- **Verifying your identity on VA.gov page**
+    - We continued to review this page.
+    - Continue conversation on how we should consider adjusting the page in the future. Should we be more specific or less specific and link out to partner websites (given information may change)?
+    - **Action item:** Joe and team to do an accuracy review of content regarding non-phone options and the alternatives for ID.me. Aliyah sent word document to Joe with content on 6/29.
+- **Related note:** In identity comms meeting on 6/29, Carl mentioned a blog on in-person support. Aliyah messaged about sharing that with us.   
+    
+
+**June 22, 2023**
+-
+Attendees: Aliyah, Laura, Carl, and Dawn 
+
+**Notes**
+- Dawn (product and delivery manager for Login.gov Adoption team) joined meeting. Aliyah added Dawn to our channel and to future meeting invites.
+- We provided updates on DS Logon FAQs and related pages:
+    - Style change: John confirmed we should say Login.gov and ID.me meet "modern security standards" rather than "the latest federal security standards." We’ve adjusted this on the Creating an account on VA.gov page.
+     - Confirmed with Joe that the verification step doesn't always happen at first sign in with Login.gov or ID.me. It happens the first time you access a page with PII/PHI. So we're adjusting to say "The first time you use your account to manage your VA benefits or information, you'll need to verify your identity"
+     - **Continued action:** Aliyah gathering screen captures of all changes (post feedback) and sending another email to John and Tom by EOD Friday 6/23.
+ - Reviewed email content from Carl. We'll open a ticket to track notes/feedback points that we discussed.
+     -  **Action item:** Carl to confirm details with Joe re: what happens if someone loses access to their MFA device.  
+- We chatted about the Medallia survey - Laura mentioned that Danielle is in the proccess of reviewing Medallia data. If there are any takeaways that relate to identity/signing in, we'll be sure to share that out with LGA team.
+- We'll review the Verifying your identity on VA.gov page in our next meeting. Joe was OOO today.
+
+**June 15, 2023**
+-
+Attendees: Aliyah, Laura, Joe, Amber, and Carl
+
+**Notes**
+- Carl email content: test email for Veterans who have active modern and legacy credentials. Carl showed draft on call.
+   - **Action item:** Carl to share Figma version with us later today
+- Continued review of Verifying your identity on VA.gov page
+   - Joe previously confirmed that the Experian pin info is no longer accurate. We adjusted question answer to reflect that users would need to unfreeze their credit to use this form of verification. We'll also add a sentence about how to unfreeze credit.
+ 
+
 **June 8, 2023**
 -
 Attendees: Aliyah, Laura, Sofia, Joe, Carl, and Amber
@@ -7,11 +51,11 @@ Attendees: Aliyah, Laura, Sofia, Joe, Carl, and Amber
 **Notes**
 - We started to review the "Verifying your identity on VA.gov" page. We'll update the page with these changes after we publish the Phase 1 changes (DS Logon related updates). We'll continue reviewing this page next week. 
   - We'll plan to remove the question "What's the fastest way to verify my identity online?"
-  - We'll plan to remove "without a Premium account" from the question "How do I verifiy my identity online?"
+  - We'll plan to remove "without a Premium account" from the question "How do I verify my identity online?"
   - Joe confirmed info for Login.gov online identity verification - if a user doesn't have a phone number in their name, Login.gov can send a letter to their mailing address instead. We added this info as a "Note" at the end of the bulleted list.
   - Joe confirmed info for ID.me online identity verification - if a user can't upload their driver's license or passport, they can answer questions based on private and public data (like a credit report). We added this info as a "Note" at the end of the bulleted list.
   - We discussed adjusting the "Can I verify my identity in person at a VA facility?" to remove "at a VA facility" and change the focus from MHV in person process to Login.gov in person process at USPS. We'll pause on doing this until we get more information about VA requirements around in person verification.
-  - **Action item:** Joe will confirm if Experian still offers a PIN if a users credit is frozen.
+  - **Action item:** Joe will confirm if Experian still offers a PIN if credit is frozen.
 - Carl is working on adjusting email content and he should have a draft ready to share with us next week.
 
 **June 2, 2023**

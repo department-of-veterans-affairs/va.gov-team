@@ -10,7 +10,7 @@ Use this form if you disagree with our decision on your claim and want a higher-
 
 Answer a question to get started.
 
-### What type of claim are you requesting a Higher-Level Review? 
+### What type of claim are you requesting a Higher-Level Review for? 
 
 * Disability compensation claim
 * A claim other than disability compensation
@@ -58,13 +58,13 @@ Here’s how signing in now helps you:
 ## What’s a Higher-Level Review?
 If you or your representative disagree with VA’s decision on your claim, you can request a Higher-Level Review. With a Higher-Level Review, a higher-level reviewer will take a new look at your case and the evidence you already provided. The reviewer will decide whether the decision can be changed based on a difference of opinion or an error.
 
-## You can’t submit new evidence with a Higher-Level Review
+### You can’t submit new evidence with a Higher-Level Review
 The higher-level reviewer will only review the evidence you already provided. If you have new and relevant evidence, you can  [file a Supplemental Claim](https://staging.va.gov/decision-reviews/supplemental-claim/) .
 
-## Follow the steps below to request a Higher-Level Review.
+## Follow these steps to request a Higher-Level Review.
 
 If you don’t think this is the right form for you,  [go back and answer questions again](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/start) .
-### 1. Prepare
+### 1. Gather your information
 To fill out this application, you’ll need your:
 * Primary address
 * List of issues you disagree with and the VA decision date for each
@@ -76,14 +76,8 @@ If you need help requesting a Higher-Level Review, you can contact a VA regional
 A Veterans Service Organization or VA-accredited attorney or agent can also help you request a decision review.
  [Get help requesting a decision review](https://staging.va.gov/decision-reviews/get-help-with-review-request) .
  
-### 2. Apply
+### 2. Start your request
 Complete this Higher-Level Review form. After submitting the form, you’ll get a confirmation message. You can print this for your records.
-
-### 3. VA Review
-Our goal for completing a Higher-Level Review is 125 days. A review might take longer if we need to get records or schedule a new exam to correct an error.
-
-### 4. Decision
-Once we’ve processed your claim, you’ll get a notice in the mail with our decision.
 
 **Primary Button:** [Sign in to start your application]
  
@@ -119,13 +113,13 @@ Info Alert:
 ## What’s a Higher-Level Review?
 If you or your representative disagree with VA’s decision on your claim, you can request a Higher-Level Review. With a Higher-Level Review, a higher-level reviewer will take a new look at your case and the evidence you already provided. The reviewer will decide whether the decision can be changed based on a difference of opinion or an error.
 
-## You can’t submit new evidence with a Higher-Level Review
+### You can’t submit new evidence with a Higher-Level Review
 The higher-level reviewer will only review the evidence you already provided. If you have new and relevant evidence, you can  [file a Supplemental Claim](https://staging.va.gov/decision-reviews/supplemental-claim/) .
 
-## Follow the steps below to request a Higher-Level Review.
+## Follow these steps to request a Higher-Level Review.
 If you don’t think this is the right form for you,  [go back and answer questions again](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/start) .
  
-### 1. Prepare
+### 1. Gather your information
 To fill out this application, you’ll need your:
 
 * Primary address
@@ -140,14 +134,8 @@ A Veterans Service Organization or VA-accredited attorney or agent can also help
 
  [Get help requesting a decision review](https://staging.va.gov/decision-reviews/get-help-with-review-request) .
 
-### 2. Apply
+### 2. Start your request
 Complete this Higher-Level Review form. After submitting the form, you’ll get a confirmation message. You can print this for your records.
-
-### 3. VA Review
-Our goal for completing a Higher-Level Review is 125 days. A review might take longer if we need to get records or schedule a new exam to correct an error.
-
-### 4. Decision
-Once we’ve processed your claim, you’ll get a notice in the mail with our decision.
 
  [Start the Request for a Higher-Level Review](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction?postLogin=true#start) 
  
@@ -170,7 +158,7 @@ VA Form 20-0996 (Higher-Level Review)
 ## Step 1 of 4: Veteran information
 Your application will be saved on every change.
 
-### Confirm the personal information we have on file for you.
+### Confirm the personal information we have in our records for you
  
 > **Leah Morgan**
 
@@ -219,7 +207,7 @@ VA Form 20-0996 (Higher-Level Review)
 ## Step 1 of 4: Veteran information
 Your application will be saved on every change.
  
-### Contact Information
+### Contact information
 
 This is the contact information we have on file for you. We’ll send any updates or information about your Higher-Level Review to this address.
 
@@ -346,9 +334,7 @@ VA Form 20-0996 (Higher-Level Review)
 ## Step 2 of 4: Issues eligible for review
 Your application will be saved on every change.
 
-### What do you disagree with regarding my issue name?
-
-**Decision date: June 10, 2022**
+### Decision for [issue] dated [decision date]
 
 Tell us what you disagree with. You can choose more than one.(\*Required)
 
@@ -377,6 +363,8 @@ VA Form 20-0996 (Higher-Level Review)
 ## Step 2 of 4: Issues eligible for review
 Your application will be saved on every change.
 
+### Opt in to the new decision review process
+
 If you’re requesting a Board Appeal on an issue in an initial claim we decided before February 19, 2019, you’ll need to opt in to the new decision review process. To do this,  check the box here. We’ll move your issue from the old appeals process to the new decision review process.
 
 Our decision review process is part of the Appeals Modernization Act. When you opt in, you’re likely to get a faster decision. 
@@ -398,7 +386,7 @@ VA Form 20-0996 (Higher-Level Review)
 ## Step 2 of 4: Issues eligible for review
 Your application will be saved on every change. 
 
-### These are the issues you’re asking to get a Higher-Level Review.
+### You're requesting a Higher-Level Review for these issues:
 
 > * **my issue name**
 
@@ -421,13 +409,13 @@ VA Form 20-0996 (Higher-Level Review)
 ## Step 3 of 4: Request an informal conference
 Your application will be saved on every change.
 
-### Would you like an informal conference?
+### Do you want to request an informal conference?
 
 An informal conference is a phone call between you or your accredited representative (claims agent, attorney, or Veterans Service Organization) and the reviewer to discuss why you think the decision should be changed and identify factual errors.
 
 If you request an informal conference, the reviewer will call you or your representative. You can request only one informal conference for each Higher-Level Review request.
 
-Would you like to request an informal conference? (\*Required)
+Do you want to request an informal conference? (\*Required)
 
 ( ) No, I do not want an informal conference
 
@@ -454,7 +442,7 @@ VA Form 20-0996 (Higher-Level Review)
 ## Step 3 of 4: Request an informal conference
 Your application will be saved on every change.
 
-### Indicate your availability for an initial call
+### What's the best time for us to call you?
 
 First we’ll call you to schedule the informal conference. Indicate your availability by providing a preferred time for a call.
 
@@ -485,7 +473,7 @@ If you have hearing loss, call TTY: 711.
 ## Step 3 of 4: Request an informal conference
 Your application will be saved on every change.
 
-### Provide your representative’s contact information.
+### Your representative’s contact information
 
 Representative’s first name(\*Required)
 
@@ -512,7 +500,7 @@ VA Form 20-0996 (Higher-Level Review)
 ## Step 3 of 4: Request an informal conference
 Your application will be saved on every change.
 
-### Indicate your representative’s availability for an initial call
+### What's the best time for us to call your representative?
 
 First we’ll call your representative to schedule the informal conference.  Indicate their availability by providing a preferred time for a call.
 
@@ -531,7 +519,7 @@ Finish this application later
 # Request a Higher-Level Review
 VA Form 20-0996 (Higher-Level Review)
 
-## Step 4 of 4: Review application
+## Step 4 of 4: Review your request
 Your application will be saved on every change.
 
 ### Veteran information
@@ -573,7 +561,7 @@ Yes
 
 Decision date: **June 10, 2022**
 
-#### What do you disagree with regarding my issue name (June 10, 2022)? [Edit]
+#### The reason you disagree with our decision about your [issue name] claim (June 10, 2022)? [Edit]
 
 The service connection
 
@@ -593,7 +581,7 @@ I understand that if I want any issues reviewed that are currently in the old ap
 
 #### Request an informal conference [Edit]
 
-Would you like to request an informal conference?
+Do you want to request an informal conference?
 
 **Yes, call my representative**
 

@@ -4,19 +4,21 @@
 
 ### Latest Release (PDF)
 - Release Notes
-  - 5/30/2023 - Updated per IVC feedback <br><br>
-    - 8.5" X 11" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11629886/8.5x11-lowvision-noqrcode-fin.pdf)
- Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11629889/8.5x11-lowvision-noqrcode-philippines-fin.pdf)
-
-
-
-    - 11" x 17" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11629890/11x17-lowvision-noqrcode-fin.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11629896/11x17-lowvision-noqrcode-philippines-fin.pdf)
+  - 6/16/2023 - Step 3 content is revised (Select the link. Follow the steps until you get to the page that says “You’re checked in.”) <br><br>
+    - 8.5" X 11" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11772069/8.5x11-lowvision-yourecheckedin-fin.pdf)
+ Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11772073/8.5x11-lowvision-yourecheckedin-philippines-fin.pdf)
 
 
 
 
-    - 24" x 36" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11629898/24x36-lowvision-noqrcode-fin.pdf)
- Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11629901/24x36-lowvision-noqrcode-philippines-fin.pdf)
+    - 11" x 17" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11772077/11x17-lowvision-yourecheckedin-fin.pdf)
+ Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11772081/11x17-lowvision-yourecheckedin-philippines-fin.pdf)
+
+
+
+
+    - 24" x 36" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11772082/24x36-lowvision-yourecheckedin-fin.pdf)
+ Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11772083/24x36-lowvision-yourecheckedin-philippines-fin.pdf)
 
  <br><br>
 
@@ -25,6 +27,7 @@
 ### Previous Release/Version (PDF)
 
 - Release Notes
+  - 5/30/2023 - Removed QR code <br><br>
   - 4/27/2023 - Iterated the first footer content
   - 4/25/2023 - Removed QR Code and related first footer content (The content is updated to "After you check in, we'll come get you")
   - 6/27/2022 - Updated file name and QR codes for Philippines only posters

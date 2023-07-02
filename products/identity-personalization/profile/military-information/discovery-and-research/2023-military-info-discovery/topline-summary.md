@@ -27,7 +27,7 @@ Participants brought up two use cases:
 2. Needing dates and locations to try to pinpoint (and prove) when and where an event took place, such as an injury or - for one participant - the birth of his son while he was serving.
 
 ### Participants like the idea of being able to access their military info (and especially their DD214) easily online.
-However, all participants also complained about the login experience at VA.gov. Some participants (check number) stated that they try to avoid logging in to VA.gov whenever possible. Clearly, VA.gov does not quite fit into the category of "easy to access."
+However, all participants also complained about the login experience at VA.gov. Some participants stated that they try to avoid logging in to VA.gov whenever possible. Clearly, VA.gov does not quite fit into the category of "easy to access."
 
 ### When asked to show me where they'd expect to find their military info on VA.gov (starting from the My VA screen), participants mostly went to the search bar as their first step.
 Once I directed participants to the profile link at the top of the screen, they were able to find "Military Information" in the side nav of the profile. 

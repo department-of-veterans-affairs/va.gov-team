@@ -7,6 +7,7 @@
 
 ----
 
+
 # Vets API Response Serialization
 
 ## Tooling

@@ -30,9 +30,9 @@
 - Introduction: 5 minutes
 -	Warm-up: 3 minutes
 -	Task 1: Initial Reactions to the AVS Interface - 7 minutes
--	Task 2: Your Appointment on June 1, 2023 - 7 minutes  
--	Task 3: - Your Treatment Plan from this appointment- 7 minutes
--	Task 4: Your key medical records – 10 minutes
+-	Task 2: Your Appointment on June 6, 2023 - 7 minutes  
+-	Task 3: Your Treatment Plan from this Appointment- 7 minutes
+-	Task 4: Your Health Information as of This Appointment – 10 minutes
 -	Task 5: Additional Information – 5 minutes [**Can cut questions if running long**]
 -	Task 6: Navigating to Another AVS – 10 minutes
 -	Task 7: Insights into Notifications – 7 minutes
@@ -59,76 +59,93 @@
 
 ## Warm-up: - 3 minutes
 I'd like to start by learning more about your experience reviewing information about what was discussed during your medical appointment. 
-1.	Do you, or the Veteran you care for, recall receiving paperwork as you left your appointment, or reviewing online information that provided an overview of what occurred during your medical appointment or procedure? [**Moderator Note:** Use You, or the Veteran you care for, depending on who the participant is.]  
+1.	Do you, or the Veteran you care for, recall receiving paperwork as you left your appointment, or reviewing online information that provided an overview of what occurred during your medical appointment or procedure? [**Moderator Note:** Use You, or the Veteran you care for, depending on who the participant is.]  ...it was my husband's appointment, i dont think that all the notes are captured...tellemedicine notes are upload sameday... visit notes are uploaded 2 -3 days later. I request after visit summary to bring them to me.....
     -	[**If answered yes**, ask these questions. **Otherwise**, skip to question 2.]  
     -	Why did you review that paperwork or online content? 
-    -	What information did you review?  
-    -	Do you recall if any particular appointment type or procedure made you take a closer look at this paperwork or online information?  
+    -	What information did you review? ... I look at what the brief the discussion agter the prescritions befroe the after vist summary a brief sidcussion of how the nurse or doctor... i like to see what their intrepration of what the issues is and how they are analuzing the issue vs what ........
+    -	Do you recall if any particular appointment type or procedure made you take a closer look at this paperwork or online information?  he typicll goes for lood work ...I gues the telemedicine in pshytriacty on what the changes and why the changes ....the website does not update in time so it may say that he actually is taking it when he s not.... I click the blue records...but it takes time to get there.....
 2.	What would you call or name something like that?
 
 ## Task 1: Initial Reactions to the AVS Interface - 7 minutes
 - Great, next I’d like to get your opinion on a prototype of a section on the VA.gov website.
 -  I'm going to send you a [link to this prototype](https://www.figma.com/proto/VHHxvo1QA1ndWc0TBhfkNq/Add-After-Visit-Summary?page-id=2%3A3&type=design&node-id=1233-16119&viewport=-892%2C210%2C0.4&scaling=scale-down&starting-point-node-id=1233%3A16119) in the Zoom chat. Since this is a prototype for testing purposes only, it may not work as you may expect even though it may look like the actual VA.gov website.
+
+
 - Okay, I've just sent you a link in the chat.  Please open the Zoom chat and click on that link. [**Moderator Note:** Help participant with the prototype if necessary. If the participant is unable to share their screen, then share your screen and follow the participant’s instructions.]
--	Now pretend that today is June 6th, 2023 and you are Hector.  You had an appointment this morning at 9:50 am with Dr. Nutt, your primary care physician, at the Puget Sound VA facility. A few hours have passed since your appointment, and you forgot what your doctor's instructions were. Use this prototype to find out what Dr. Nutt and you discussed at your appointment. Please think aloud as you are trying to find this information. 
-    - [**Notetaker:** 1. Note where participant navigatesto; note if participant navigates to “Care Summaries” or “Appointments”?]
+-	Now pretend that today is June 6th, 2023, and you are Hector.  You had an appointment this morning at 9:50 am with Dr. Nutt, your primary care physician, at the Puget Sound VA facility. A few hours have passed since your appointment, and you forgot what your doctor's instructions were. Use this prototype to find out what Dr. Nutt and you discussed at your appointment. Please think aloud as you are trying to find this information. 
+... particpant navigates via upcoming appointments...when i login in va.gov i'll use the login.gov... it takes forever... I see dr ,nutt 
+
+    - [**Notetaker:** 1. Note where participant navigates to; note if participant navigates to “Care Summaries” or “Appointments”?]
     - [**Moderator Note:** Only assist if they have difficulty locating the After-visit summary. Continue with the below questions once the participant navigates to the After-visit summary page.]
 
 1.	Please review the info on this page and share your overall impressions. Think aloud as you review. 
     -	[**Notetaker:** Note any observations about the following things: Do they open the accordions? How far down the page do they scroll? What do they comment on as confusing or valuable without prompting?]
     -	[**Moderator Note:** If participant finds anything confusing, ask the following:] What does that term mean to you?
     -	Would you use or not use this page and why? 
+i click dr.nutt. i like seeing the "you were diagnosed with" section but I don't really care about vital... how they diagnose it, the medications... I think its within the appoinments notes that usually get me decide what he was diagnosed with"" i dont care about lab results.... I know when....i don't knwo how to read about the lab results... I tell my husband to tell them what is not accurate and they usually update.... I like to see the medications that you arent takin.....I'd like to see dates of when and who long it was preribed for and the notes why it didnt work....
 
 2. Did Dr. Nutt want you to complete or do anything following your appointment? 
     - 	[**Notetaker:** If participants says "No", or doesn't find anyting, note that participant cannot find dr. instructions on next steps.]
     - 	[**Moderator Note:** If participant cannot find this information, follow up on this in Task 3.]
     
 
-## Task 2: Your appointment on June 6th, 2023 - 7 minutes  
-Now, I would like you to focus on the “Your appointment on June 6th, 2023” section. Please review the section and please talk aloud as you are reviewing. And then, I’ll ask you a few questions as you move through.
+## Task 2: Your Appointment on June 6th, 2023 - 7 minutes  
+Now, I would like you to focus on the “Your appointment on June 6th, 202 section**. Please review the section and please talk aloud as you are reviewing. And then, I’ll ask you a few questions as you move through. 
 1.	Can you provide an example of how you might utilize the information within this section?
 2.	Are there any terms that seem unfamiliar or confusing to you?
     -	[**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following:] Using your own words, how would you define those terms?
+...they appointment was alnost 2 hours long?... no nothing seems confusing it seems very straighforward....
+3.	If you could provide a definition of the information that is included within the “You were diagnosed with” section, how would you define that information?  hylopeia..idont know with that is .....
 
-3.	If you could provide a definition of the information that is included within the “You were diagnosed with” section, how would you define that information?
     -	[**Moderator Note:** If the participant doesn't correctly describe the content's purpose, then ask:] What if the title of the section was “Health conditions you discussed?” How would you define this section then?
+   I think health conditions that weerre discussed... I kike the wording aliitle more fluid,....etherir one would ....health condiotion whould not be so permantnmt,... health conditions would be a little more valualbe because saome conditions can be...
     -	How valuable or not valuable do you find this section? Why?
 4.	Next, please scroll down again. [**Moderator Note:** Stop them at. “Medications ordered for administration in clinic”] 
-    - What does the information under “Medications ordered for administration in Clinic” mean to you? 
+    - What does the information under “Medications ordered for administration in clinic” mean to you? 
+...that what should be done for this procedure... yourgoing to get in in the mail and take it before you come in to get the procedure...
+
       - [**Moderator Note:** If what they describe doesn’t match the intention of the section, then ask:] What if I told you that this section displays medications you took or were administered while you were at your appointment. What do you think about reviewing that information?
 5.	Ask participants to stop and open the medication glossary and review the information while they are talking aloud. [**Moderator Note:** Try to get general feedback on the glossary terms.]
     - [**Moderator Note:** If participant comments on term, ask:] What does that mean to you?
-    - [**Moderator Note:** If what they describe doesn’t match the intention of the section, then ask:] What if I told you that this section was supposed [*Improvise-** because the dialogue depends on the participant’s previous answer.]
-6.	How would useful or not useful do you find the information in “Medications ordered for administration in clinic”?
+    - [**Moderator Note:** If what they describe doesn’t match the intention of the section, then ask:] What if I told you that this section was supposed [*Improvise-** because the dialogue depends on the participant’s previous answer.]... I like that i show active and not non va...actually...it says tynel...but still don't know if he's takinging it acrivtly or when he get there....Its confusing because my husband get eerything via email...
+    - 
+6.	How would useful or not useful do you find the information in “Medications ordered for administration in clinic”? its supor important ...for pharmacist to be looking at both of these...sometimes they arent paying attention... and they are prescribing things that can counteract with other..clarifying if these are ongoing...reminder to double check and makek sure that thesse are okay to take togehter....
 
-## Task 3: Your Treatment Plan from this appointment - 7 minutes
+## Task 3: Your Treatment Plan from this Appointment - 7 minutes
 Now, I would like you to focus on the “Your Treatment Plan from this appointment” section. Please review this section by slowly scrolling through and thinking outloud again. 
-1.	How would you utilize the information within this section?
-2.	Are there any words that seem unfamiliar or confusing to you?
-    -	[**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following:] What does that term mean to you?
 
+1.	How would you utilize the information within this section? ...i like that is speells out that youre going to be ocntinted .... but you dont know if your .....i prefer to have a flag thhis or a reminder to know where its going from here... i think hacing the extra info about xray and ultra sound that is ectra info......and it tells tou exaclty whats been orderr so you excalty what imagies your getting...soomeplace have it, for which eever facillity... you have to do certain lab work....put times when you would need the bllod work done by.....the doctor wanted it the same day,but the facility had acut offf.. if we would of know when the bloodbork would have been....
+
+3.	Are there any words that seem unfamiliar or confusing to you?
+    -	[**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following:] What does that term mean to you?
+no I like the upcoming health reminders ....hey i noticed this notidication to reminder me in 2 weeks... to ha
 3. Are there any instructions that you should be aware of in this section?
     - [**Moderator Note:** Ask question 3 only if participant answered "No" in Question 2 of Task 1, otherwise move to Question 4.] 
     
-4.	Okay great, so how would you describe the information under “Medications and Supplies”?
-    -	How does the “Medications and Supplies” information in this section differ from “Medications ordered for administration in clinic” under the previous “Your appointment on June 1, 2023” section?
+4.	Okay great, so how would you describe the information under “Medications and supplies”?
+    -	How does the “Medications and supplies” information in this section differ from “Medications ordered for administration in clinic” under the previous “Your appointment on June 6th, 2023” section?**
     -	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then share:] Okay, this section was supposed to display only the medications that were added or changed during the appointment?
     -	How valuable, or not valuable, do you find this section to be? Why?
 
-## Task 4: Your key medical records– 10 minutes
-Now, I would like you to scroll to “Your key medical records”.  And again, please review this section by talking aloud while you are scrolling through.
+## Task 4: Your Health Information as of this Appointment– 10 minutes
+Now, I would like you to scroll to “Your health information as of this appointment–”.  And again, please review this section by talking aloud while you are scrolling through.
 1.	Can you provide an example of how you might utilize the information within this section?
-2.	Are there any terms that seem unfamiliar or confusing to you?
+2.	Are there any terms that seem unfamiliar or confusing to you? ...it tells you to go myhealth vet tocurrentl med ...that takes a coupe of weeks to get updated....alink to transcription would give us a more real time .... but why does the generated summary not get ypdated...but defining wen you would contact...who should I contact and when...
+
+
     -   [**Moderator Note:** If participant encounters confusing or unfamiliar wording ask the following:] Using your own words, how would you define these terms?
-3.  Okay, please continue to scroll further. [**Moderator Note:** Stop them at “Recall Appointments”] What is your understanding of “Recall Appointments?"
+3.  Okay, please continue to scroll further. [**Moderator Note:** Stop them at “Recall Appointments”] What is your understanding of “Recall Appointments?" ...i don;t know what a recall appiuntment is... I gues its a missed appointment...it sounds like a tentaive appointment...make a coordincated effort so you dont know when your supposed to ...it is not super clear...
     -	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then direct them to the helper text underneath the title.]
-    -	How helpful or not helpful is this information to you? Why?
+    -	How helpful or not helpful is this information to you? Why?...i think it helful becausei my tentaive appoint is on... I can make plans..it could be better...it would be helful to have a nline entry to toggle off....i don't know how many times... this is somewheerre where they could put medications that interact with other medications... the lab results...if youdont why and how your reading...flag important but more important to get actual diagnosis... how does it effect me.. alot of questions and can cause alot of anxiety...
+    
 4.	Okay please scroll down a little further. Under “Problem List”, what does this information tell you? 
+5.	
     -	[**Moderator Note:** If what they describe doesn’t match the intention of the section, then say:] Okay, this section is supposed to display the conditions you have been diagnosed with; does that make sense, or is that confusing?
     -	How useful or not useful do you find this information? Why?
-5.	Great, please slowly scroll down again. [**Moderator Note:** Stop them at “My medications”] How would you define the "My medications" section?
-    -	How does the “My medications” information in this section differ from the information in “Medications and supplies” in the "Your Treatment Plan from this appointment” section above?
-    -	How would you utilize or not utilize this information?
+5.	Great, please slowly scroll down again. [**Moderator Note:** Stop them at “My medications”] How would you define the "My medications" section? ...this is the ongoing section kind of everything that yourve benn prescribed...
+    -	How does the “My medications” information in this section differ from the information in “Medications and supplies” in the "Your Treatment Plan from this appointment” section above?...this is more comprehensive alot more details....i think this one is much better thatn the middle section. the middle section is kind of redundant... notes from pahrmacist or from the doctore... i woulld kike tthe dates for when and how long they have been takinging it....which med do work and whick ones they are exasperating. 
+    -	How would you utilize or not utilize this information? i do like the option to expand and collapse them....I would keep them in the same order.
+    -	...similar to paer copy...i like to flip through and pick up the infor that is important to me
 
 ## [Can cut questions if running late] Task 5: More Information – 5 minutes
 1.	[**Moderator Note:** Only if the Veteran hasn't opened this accordion already, ask:] What would you expect to find under “More Information?"
@@ -140,11 +157,12 @@ Now, I would like you to scroll to “Your key medical records”.  And again, p
 ## Task 6: Navigating to Another AVS – 10 minutes
 Okay let’s view information from another appointment you had in the past. How would you go about doing that? 
 - [**Notetaker:** Observe how the participant navigates to previous pages. Do they use the browser’s back feature, breadcrumbs, or the menu’s sub-navigation. Do they have difficulty finding another After-visit summary?]
--On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to navigate to another summary from another day?
+-On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to navigate to another summary from another day? 5...if there was a search function...if I could fiter it someway, because alot of scrolling ...to filter by location by key word or custom filter.
 - [**Moderator Note:** Only ask the following questions if they are in the appointments section, skip if they are in the “care summaries” section.] Please navigate back to the page with all of your appointments listed. I want to highlight some links of this page.
-  - How would you describe what your see under the “Past” link?
+  - How would you describe what your see under the “Past” link?...are dates and times of appoihtnents and what type of appoijnemts...maybe a litllte sysnosis of the the appoint...ex. this was hpertention...even one word to classify what the appointment was...
   -	What do you expect to see if you click on the “Upcoming” link? Please don’t actually click on it, just describe what you would do.
-  -	What do you expect to see if you click on the “Pending” link? And gain, please don’t actually click on it, just describe what you would do.
+  -...dates times, its ita a video , what time is check in what time is appoinemtn....checkin is ...if you dont make a checkin appoimtne you are not going to make the appoihtnent... its taking up more ot the vets time...knowing when to checkin vs whn actually apointment is ...
+  -	What do you expect to see if you click on the “Pending” link? And gain, please don’t actually click on it, just describe what you would do....check if its confirmed...how do report to update your infor if your phonemme...pending is theones that haventl been conformed kind or tentative kind of like the recall. pencilled in there and we work out ......
 
 ## Task 7: Insights into Notifications – 7 minutes
 Okay, so we will move on from this prototype to another topic. We’re going to talk about notifications that you might want to receive about your After-visit summaries. Pretend that you received the following message:
@@ -153,14 +171,16 @@ Okay, so we will move on from this prototype to another topic. We’re going to 
    
    **Contents:** A summary of your recent appointment(s) is now available on MyHealtheVet. Login to review the summary.
 
-- Do you find this notification helpful or not helpful? Why?
-- How would you prefer to receive this notification (email, text message, phone call, etc.)?
-- If you had multiple appointments in one day, would you want one after-visit summary notification for each appointment that day or would you want all the appointments combined into one message?
+- Do you find this notification helpful or not helpful? Why? helful
+- How would you prefer to receive this notification (email, text message, phone call, etc.)? textmessage
+- If you had multiple appointments in one day, would you want one after-visit summary notification for each appointment that day or would you want all the appointments combined into one message? i prefer allin 1.. so I am not waiting to see if theo others oare coming in i can click one thing....
 
 ## Closing Questions – 3 minutes
--	If you could change one thing about the After-visit summary, what would that be?
+-	If you could change one thing about the After-visit summary, what would that be? the main complaint that I have the detailed med screnn and not being dedundant... if you can built in app...if theis is allegy..or high risk medication...just an alert...
 -	And lastly, do you have any questions for me?
 -	Okay, great! That is all the questions I have for you today.
+-	comment about mibielapp-... i get logged of constaltly, and have to relogin and depejdning on what you loggin with... having to login mutliple times, i wnet to 3 different sections, but mobile view canot be downloaded...each time you get the multi-factor multiplication...
+...it has to be very basics information for vet to use it...
 
 ## Thank you - 2 minutes
 1.	We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.

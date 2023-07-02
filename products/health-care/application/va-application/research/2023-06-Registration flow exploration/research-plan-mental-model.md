@@ -1,7 +1,7 @@
-# Research Plan for registration flow mental model study [Health Enrollment Team, 10-10EZ, June 2023]
+# Research Plan for "registration only" mental model study [Health Enrollment Team, 10-10EZ, June 2023]
 
 ## Background
-The online health care application today processes all applications as enrollment. With regards to regulation § 17.37 Enrollment not required—provision of hospital and outpatient care to veterans which is being called the "registration only" path. This has a mix of eligibility criteria or scenarios for the Veteran to meet and a mix of what type of benefits they would be receiving - ranging from care for one need to the "full medical benefits package". 
+The online health care application today processes all applications as enrollment. With regards to regulation § 17.37 Enrollment not required—provision of hospital and outpatient care to veterans which is being called the "registration only" path. This has a mix of eligibility criteria or scenarios for the Veteran to meet and a mix of what type of benefits they would be receiving - ranging from care for one medical need to the "full medical benefits package". 
 
 How might we enable Veterans who simply want to "register" for a specific level of care — up to and including the full medical benefits package — do that instead of processing all applications as enrollment applications?
 
@@ -17,17 +17,13 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
-
-This fits accross the journey from getting out to aging.
-
-This impacts a key moment that matters in that Veterans need to select the health care coverage according to their individual needs and preferences and that is the best fit for them. 
+- This fits accross the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from getting out to aging.
+- This impacts a **key moment that matters** in that Veterans need to select the health care coverage according to their individual needs and preferences and that is the best fit for them. 
 
 
 ## Research Goals	
 
-Out goal is to learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them.
+Learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them and the process to getting the level the care they want/need.
 
 Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care and Priority Groups impacting them during the health care application process.
 
@@ -35,12 +31,14 @@ Learn more about how Veterans would like to go about applying, discovering eligi
 
 
 ### Outcome
-- Gain understanding of the current problem space and Veteran's perception of registration/enrollment
+We will use these findings to:
+- Gain more understanding of the current problem space and Veteran's perception of registration and enrollment
 - Check assumptions and terminology used to remain Veteran-centric 
-- Insight into an ideal state and how Veteran would prefer to navigation the health care benefits application journey
-- Phased approach to iterate on low-fi wireflows / hypothesis creation during this study
+- Develop insights into an ideal state and how Veteran would prefer to navigation the health care benefits application journey
+- Guide our direction in creating the registration flow by iterating on potential hypothesis flows prior to creating a prototype
 
 ### Research questions
+
 Out goal is to learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them.
 - What is the experience of "registering only" today? 
 - How does the regulation "§ 17.37 - Enrollment not required—provision of hospital and outpatient care to veterans" impact Veterans when applying for health care?
@@ -50,95 +48,95 @@ Learn more about Veteran's mental model when applying for health care benefits a
 - What is the Veterans perception of eligibility and Priority Groups when they are completing the application?
 
 Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for.
-- What is the Veteran's current pain points with how the health care application impacts the overall benefits journey?
+- What are the Veteran's current pain points with how the health care application impacts the overall benefits journey?
 - What is the order and process expectations of Veterans when they are applying (registering or enrolling) for health care benefits?
-- When during the health care application process would Veterans prefer to go through eligibility questions? (before, during, or after initial registration)
+- When does it make sense to Veterans to go thorugh eligibiltiy based questions? (before, during or after application)
 
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
-
-
-**Hypothesis 1**
 - We assume that Veterans will not use the term "registration only" when referring to health care benefits but will be familiar with enrollment and eligibility.
-- We assume the overall process of determining eligibility and being placed in a Priority Group is somewhat unclear to Veterans.
+- We assume that Veterans will use the term registration when they are talking about choosing their main VA medical facility for care. 
+- We assume the overall process of determining eligibility and being placed in a Priority Group is somewhat unclear to Veterans today.
 - We assume adding the term/step of "registration" will add to the confusion around health care benefits. 
-- We assume not all Veterans go through the enrollment process in one go, there is often an exam and other claims filed in between. 
-- 
+- We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and other claims filed in between. 
 
 ## Methodology	
-
 - Semi-structured interviews - appropriate for generative research
 
 
 
+Additional desk research will be conducted to supplement these interviews:
+- Google analytics path and keyword study
+- VSignals analysis around keywords (TBD)
+
+
 ### Location
-Remote via Zoom
+Remote via Zoom for the interviews
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-For moderated interviews:
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model.md) 
+- [Link to conversation guide - cohort 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model-cohort1.md) 
+- [Link to conversation guide - cohort 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-cohort2and3.md) 
 
+- [Recruitment ticket]
 	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+Our intended audience for this reasearch are Veterans and we will be using and leveraging Perigean to recruit participants.
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
+10 completed sessions; 5 completed per cohort
+
+**16 requested; 8 requested per cohort**
 
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+**Screener Questions**
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+Cohort 1: 
+- Have you visited a VA facility for a medical visit/exam in the past year and **are not/did not enroll** in the health care benefits package? [answer should be yes to qualify.]
+
+Cohorts 2 & 3:
+- Have you applied within the past 2 years and are now enrolled in health care? [answer should be yes to qualify.]
+
+
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
 
+
+
+
+
+
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+
+Cohort 1: TBD
+
+Cohort 2: TBD
+
+
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
-
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: 
 * Date and time of pilot session: 
 
 ### Research sessions
 * Planned dates of research:
+* Cohort 1: 
+* Cohort 2: 
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+* Session length:  < 1 hour
+* Buffer time between sessions: 1 hour
+* Maximum Sessions per day: 4
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
@@ -147,14 +145,26 @@ Please request enough dates and at ***least double the amount of time slots for 
 
 
 
+### Availability
+| **Team Availability** | **Time (ET)** |
+| --------------------- | ------------- |
+| July    	|    		|
+| July  	|   		|
+
+
+
+
+
+
+
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
+- Moderators:	
+- Research guide writing and task development (usually but not always same as moderator): Moderators
+- Participant recruiting & screening:	Perigean
 - Project point of contact:	
 - Participant(s) for pilot test:
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
+- Note-takers:	Perigean and 1010 Health Enrollment Team
 - Observers:	
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 

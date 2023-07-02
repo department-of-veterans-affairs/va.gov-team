@@ -48,11 +48,12 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
 
 #### From the prototype:
 3. Do Veterans understand which services are available at this location?
+     1. Do Veterans understand and use the categories of services *(i.e., Veteran benefits, Family member & caregiver benefits, Service member benefits, Other services)* to find the service they're looking for? 
 1. Do Veterans understand how services are delivered at this location?
      1. In-person, virtual, or by phone (do people open the appointments accordion unprompted?)
      1. With or without appointments (any comments about location of appointments information?)
      2. Hours of operation--for the office _vs._ only for a specific service
-     3. Hours of operation--2 sets of hours in a single day (i.e., morning and afternoon but closed for lunch hour)
+     3. Hours of operation--2 sets of hours in a single day (i.e., morning and afternoon but closed for lunch hour), comment about one of the days
 3. Do Veterans understand the actions they need to take to receive the service (make an appointment, walk-in, bring required documents, etc.)?
 11. What do Veterans expect to find under the service accordions?
      1. Do Veterans understand the different categories of service offerings?
@@ -88,37 +89,33 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](). 
 
 ### Required criteria 
-- **TBD**
+
 - ALL have a smartphone to use it for the session and...
   - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen
   - Be willing to share over Zoom a web browser window on their smartphone
   - Have a working microphone on their smartphone
+- 4 have **never visited a VA benefit office**, 3 have **visited in the past 6 months**, and 4 have **visited more than 6 months ago**
+- 5 have **not used any VA benefits before**, and 5 have
 - At least 4 people with a cognitive disability (e.g., TBI)
 - At least 4 people who are age 55 or older
 - At least 2 people 35 or under
 - At least 3 people of color
 - At least 2 women
+- At least 3 people who **live in states that are in the Continental District** (MT, WY, CO, ND, SD, NE, KS, OK, TX, MN, or IA)
 - At least 2 people who don't have any degree or vocational training after high school 
 - At least 2 people who live in a rural or remote area
 - At least 2 people who are LGBTQ+
 
 ### Screening Questions
-***If we want to talk w/people for whom applying for disability would potentially be relevant:***
-1. Do you (or the Veteran that you're a family member of or caregiver for) get VA disability compensation? 
-     1. No  *(ask next screening question)*
-     1. Yes *(disqualify)*
-     1. I don't know *(disqualify)*
+1. Have you ever visited a VA benefit office? 
+     1. No, never *(RECRUIT 4)*
+     1. Yes, in the past 6 months *(RECRUIT 3)*
+     2. Yes, more than 6 months ago *(RECRUIT 4)*
 
-***If we want to talk w/people for whom another task would potentially be relevant, add more screening questions here***
 
 1. Have you used any VA benefits before? For example, VA health care, education/GI Bill, career services, disability compensation, pension, home loan, life insurance, burial benefits or memorial items.
      1. No  *(RECRUIT 5)*
      1. Yes *(RECRUIT 5)*
-
-1. Have you ever visited a VA benefit office? 
-     1. No, never *(RECRUIT 3)*
-     1. Yes, in the past 6 months *(RECRUIT 4)*
-     2. Yes, longer ago than the last 6 months *(RECRUIT 4)*
 
 1. What time zone are you located in? *(RECORD)*
 
@@ -176,5 +173,5 @@ Please list the people who will be serving in each role.
 - Observers: Alexis Logsdon (alexis.logsdon@a1msolutions.com), Jordan Wood (jordan.wood@civicactions.com), Michelle Middaugh (suzanne.middaugh@va.gov), Kamari Patrick (kamari@cityfriends.tech), Dave Pickett (dave.pickett@civicactions.com). Observers will need to sign up so we can limit the number of observers per session.
 
 ## Approvals
-- Michelle Middaugh or Dave Conlon (PO) on TBD
-- Shane Strassberg or other VA representative on TBD
+- Michelle Middaugh (PO) on TBD
+- VA Research Ops on TBD

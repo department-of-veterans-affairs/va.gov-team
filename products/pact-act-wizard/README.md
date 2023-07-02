@@ -1,9 +1,9 @@
 
 ## Overview
-Provide a (relatively) easy way for a Veteran or Veteran's representative (family member, caregiver, other) can understand whether the PACT Act may apply to them/their benefit eligibility, etc. 
+Provide a (relatively) easy way for a Veteran or Veteran's representative (family member, caregiver, other) to understand whether the PACT Act may apply to them, affect their benefit eligibility, etc. 
 
 ## Problem Statement
-The [PACT Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/3967/text) is intended to significantly improve healthcare access and funding for Veterans who were exposed to toxic substances during military service. Laws inherently are not easy for a Veterans to read and understand whether or not this directly affects them and their benefits.
+The [PACT Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/3967/text) is intended to significantly improve healthcare access and funding for Veterans who were exposed to toxic substances during military service. The law itself is not easy for a Veteran to read and understand whether or not it directly affects them and their benefits.
 
 How might we help Veterans or Veterans' representatives (family member, caregiver, other) easily understand if the PACT Act applies to them?
 
@@ -32,7 +32,7 @@ How might we help Veterans or Veterans' representatives (family member, caregive
 
 We want to funnel folks through the wizard into the "Apply" funnel.
 We want a high level of customer satisfaction to indicate that the wizard was relatively easy to understand and complete.
-Ultimately, we want to funnel folks through the wizard, into the "Apply" process, through to a completed application rather than an increase in abandonment.
+We want increased traffic into the "Apply" process to result in more completed applications, rather than an increase in abandonment.
 
 ### Key Performance Indicators (KPIs)
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
@@ -59,27 +59,28 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions
-- We are specifically excluding conditions from MVP due to complexity
-- We will be creating a sufficient, yet not overbearing amount of content that will allow Veterans to successfully understand how to answer each question. (Riskiest, mitigated through research focused on validating the content itself. In particular, ensuring we can test with assistive devices)
+- The MVP will focus on the dates and time periods of a Veteran's service and how they may relate to the PACT Act
+- We are excluding questions about health conditions associated with specific service locations/times from the MVP due to complexity
+- We assume that it is possible to create a sufficient, yet not overbearing amount of content that will allow Veterans to successfully understand how to answer each question. (Riskiest, mitigated through research focused on validating the content itself. In particular, ensuring we can test with assistive devices)
 
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
-We are going to build a wizard that focuses on PACT Act places of service.
+We are going to build a wizard (based on the Subtask pattern) that focuses on PACT Act places of service.
 
 - *Why this solution / approach over other solutions / approaches?*
-The question/response method seems to be the most effective method thus far for helping Veterans to easily understand eligibility.
+  - The question/response method seems to be the most effective method thus far for helping Veterans to easily understand eligibility.
 
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
-We're excluding a lot of other condition-related qualification information and focusing only on Toxic Exposures and service history.
-This will also be an unauthenticated experience for MVP, therefore we won't have access to any information the Veteran may have already provided to VA in some way.
+  - We're excluding a lot of other health-condition-related qualification information and focusing only on Toxic Exposures and service history.
+  - This will also be an unauthenticated experience for MVP, therefore we won't have access to any information the Veteran may have already provided to VA in some way.
 
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-The volume of content/number of screens is an area that we are watching due to cognitive load, time to completion, abandonment rate risk.
+  - The volume of content/number of screens is an area that we are watching due to cognitive load, time to completion, abandonment rate risk.
 
 ### How we are approaching the solution
-- [PACT Act wizard MURAL](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1679940171177/ec99e1a48823fc8c7a9fa027604a3190032c4fbe)
-- [PACT Act and the world of toxic exposure content MURAL](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1664903854802/3876e4204edea5dc0e9b52fbca47e9162f752dad): This is a MURAL I created to help visualize all of the toxic exposure content that's out there, how we want to build connections between this content, and how we can use each entry point strategically to drive to the main goal of file a claim/apply for health care.
+- [PACT Act wizard (content and branching) MURAL version v.0](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1686687282873?sender=uf8ddb00f0c9a241ee4573555&key=51afbaca-4131-4828-a3c3-eced5a256061)
+- [PACT Act and the world of toxic exposure content MURAL](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1664903854802/3876e4204edea5dc0e9b52fbca47e9162f752dad): This is a MURAL that helps to visualize all of the toxic exposure content that's out there, how we want to build connections between this content, and how we can use each entry point strategically to drive to the main goal of file a claim/apply for health care.
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
@@ -88,9 +89,10 @@ The volume of content/number of screens is an area that we are watching due to c
 --- 
 
 ## Launch Strategy
-- We are going to route Veterans to this tool via the PACT Act info page. We may also consider other tools.
-- *What marketing, outreach, or communications are necessary for this product to be successful?* VEO will likely link other awareness campaigns to this product.
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- We are going to route Veterans to this tool via the [PACT Act info page](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/). We may also consider other tools.
+- *What marketing, outreach, or communications are necessary for this product to be successful?* 
+  - VEO will likely link other awareness campaigns to this product.
+- [Link to Release Plan TEMPLATE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Launch Dates
 - *Target Launch Date*
@@ -135,7 +137,7 @@ N/A - brand new product
 - People:
   - OCTO-DE Leads: Dave Conlon & Danielle Theirry
   - OCTO-DE IA: Mikki Northuis
-  - PM: Wes Rowe (A6)
+  - PM: Wesley Rowe (A6)
   - DM: Jill Adams (A6)
   - Engineering:
   - Design:

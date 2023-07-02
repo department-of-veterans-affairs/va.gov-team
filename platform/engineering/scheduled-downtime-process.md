@@ -1,3 +1,14 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
 # Scheduled Downtime Process for VA.gov
 
 ## WORK IN PROGRESS
@@ -26,11 +37,11 @@ Downtime on VA.gov is admittedly rare, but from time to time it may need to happ
 
 1. Post a Slack notification of the downtime in [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites) channel at least 4 days in advance, ccing @Dave Conlon so that the team is aware and that the appropriate parties will be notified. 
 
-1. Once the planned downtime has been announced in the [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites) and [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) channels, VSP content lead (@peggygannon) will create a content ticket for the downtime messages. 
+1. Once the planned downtime has been announced in the [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites) and [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) channels, Sitewide content lead (@Danielle Thierry ) will create a content ticket for the downtime messages. 
 
 1. **For downtime messages that will appear sitewide on static pages:**
-    - Peggy will add Dave Conlon and [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites) dev to the content ticket as reviewer.
-    - Sitewide-public-websites dev will create PR using the approved message and add Peggy Gannon as reviewer. (Dave Conlon as optional reviewer.)
+    - Danielle Thierry will add Dave Conlon and [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites) dev to the content ticket as reviewer.
+    - Sitewide-public-websites dev will create PR using the approved message and add Danielle Thierry as reviewer. (Dave Conlon as optional reviewer.)
     - Once PR has been reviewed/approved, [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites) dev can implement it.
  
 1. **For downtime messages that will appear in applications, tools, and on sign-in modules:**

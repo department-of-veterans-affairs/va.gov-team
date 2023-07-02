@@ -41,10 +41,10 @@ Health Products
 - Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com - UX Design/Research
 - Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
 - Matt Kerns | matthew.kerns@va.gov / matt.kerns@agile6.com - Frontend Engineer
-- Adrian de la Cruz | TBD@va.gov / adrian.delacruz@agile6.com - Frontend Engineer
+- Adrian de la Cruz | adrian.delacruzvelasco@va.gov / adrian.delacruz@agile6.com - Full Stack/Backend focus Engineer
 - Chapley Watson | chapley.watson@va.gov / chapley.watson@agile6.com - Full Stack Engineer
 - Lihan Li | han.li@va.gov / lihan@adhocteam.us - Backend Engineer
-- Joshua Drumm | joshua.drumm@va.gov / joshua.drumm@agile6.com - Backend/Full Stack Engineer
+- Joshua Drumm | joshua.drumm@va.gov / joshua.drumm@agile6.com - Full Stack/Backend focus Engineer
 - Luis Simauchi | luis.simauchi@va.gov / luis.simauchi@adhocteam.us - Sr Data Analyst
 
 

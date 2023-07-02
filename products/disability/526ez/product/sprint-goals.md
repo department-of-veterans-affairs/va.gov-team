@@ -1,5 +1,33 @@
-# Sprint goals for Benefits Disability Experience Team 
+# Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 8
+Period - 06/21/2023 - 07/04/2023
+### Sprint goals 
+- **Expedited**
+   - [ ] Bug - Eng Fix - Future Date of Claim - apply validation and content updates
+   - [ ] Bug - Eng Fix - Required validation error not displaying for BDD Supporting Evidence
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+        - Intent to File endpoint
+            - Confirm handshake works for vets-api's ITF POST -> Lighthouse -> vets-api -> vets-website   
+        - Submit endpoint
+            - [ ] Abstract calls to endpoint
+            - [ ] Start enpoint migration
+        - RatedDisailities
+            - [ ] Integrate rateddisability ID
+        - Testing environment solution - what's next?
+- **Features**
+   - Intro page changes and 526ez current with paper form
+      - [ ] Intro pages - Conduct interviews and research report
+      - [ ] Toxic Exposure screens - Content and design?
+      - [ ] Complete 4142 tech discovery for BE - Engineering
+- **Analytics**
+  - [ ] Collect R/VSR data for baseline metrics
+- **Collab Cycle Issues**
+  - [ ] Engineering - Accessibility] Link opens in new tab without warning users
+- **Issue Management Stretch goal?**
+  - [ ] Bug - Eng Discovery - 526 start - Identification error - Issue Management POC? What kind of bandwidth do we see?
+ 
 ## Sprint 7
 Period - 06/07/2023 - 06/20/2023
 ### Sprint goals TBD

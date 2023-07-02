@@ -1,10 +1,73 @@
-### Content Sync
+## Content Sync
+
+## June 29, 2023
+
+### Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Porta Antiporta, Joe Niquette
+
+### Notes:
+- Currently the email links to the sign in FAQs on VA.gov instead of CLP
+- Change language from recommend to need and should
+- What do we do in the event that a veteran loses an MFA device?
+  - give out a resource that may not live on VA.gov and just listen out if this is a common issue
+- Review Verifying your Identity FAQs
+  - Porta and Joe weighed in on questions pertaining to ID.me
+  - Joe recommended not getting too specific in answering questions and linking to the Login.gov and ID.me pages where needed
+  - there are security concerns in being too specific
+  - If answers are too speciic and it doesn't line up with reality it could result in a dispute
+  - more specific questions need to be owned by ID.me and Login.gov
+  
+## June 28, 2023
+
+### Attendees: Sofia Kirkman, Carolyn Williams, Carl Dickerson, Kristin Oulette, Laura Willwerth, Sara Smith
+
+### Notes:
+- Kristin really liked our journey map overall and wants to use it as an example for discussions with other teams
+- Kristin asked if we have a plan for after the alert phase. We responded that we are aware that we will need to provide support for people who may have missed the deadline but we are also going to have services that will support those with tech issues or who fail (IPP). We will need to consider this issue further though and come up with a more solid plan if we notice (early) if veterans seem to be having problems or falling off from comms
+- Laura asked if we can track analytics on blogs. We will try to get the analytics to tag  news.gov but we can also track clicks on the newsletter and other places (like socials) where blogs are posted
+- We should think about how we discuss ID.me and how we might include it in our content as an option for those who are unable to create a Login.gov account
+- Next steps: As we continue to detail our solutions we will share them with Sitewide and refer to where we are on the journey and what we are hoping to accomplish. Next meeting with IA is in a month but we will maintain our weekly content syncs with Sitewide and MHV
+
+## June 22, 2023
+
+### Attendees: Carl Dickerson, Aliyah Blackmore, Laura Willwerth
+
+### Notes:
+- Laura and Aliyah provided feedback on email draft. Carl will take their feedback and slim down the content
+- Laura did give a quick overview of Medallia. She noted that Danielle was already working on pulling identity related feedback
+- Our campaign page is set up for G-Analytics and Medallia
+- We need to form a schedule around how we check on this data
+## June 12, 2023
+
+### Attendees: Sofia Kirkman, Danielle Thierry
+
+### Notes:
+- Set up this meeting to understand how Danielle uses Google Analytics to look at data for blogs (acc to Tim Hudak from VEO)
+- https://news.va.gov/119761/securely-accessing-your-va-account-online/ was not distributed through normal pathways, according to Elizabeth, so this could explain why there is not a lot of comments on it
+- Discovered that news.va.gov is not tagged for Google Analytics tracking - we might need to reach out to the Analytics team if we want blogs tracked moving forward
+- Google Analytics can be tracked for campaign landing pages
+- When using Google analytics:
+  -  In the future the data used for PACT will move to GA4 but for now use Va.gov production and All VA.gov Website Data
+  -  Put link to URL into search bar
+  -  Look at Page views, Avg time on page, Entrances, Bounce rate
+  -  Under events you can see what event action people are taking
+<img width="673" alt="Screenshot 2023-06-12 at 1 18 31 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/125686639/f7fe02b7-9e1a-4187-94bb-d76065cf3ed1">
+
+- Save a report and name it and export
+- Can create dashboards 
+- Under audience and user explorer you can try to track where people came from (although Danielle has only gotten this to work a few times)
+-  Danielle and Sitewide use Medallia data from online survey
+-  Resources and support requested to have a button for "how would you rate your experience on this page?" < Good or Bad
+-  Medallia allows you to customize
+-  VAMC have a survey for experiences online
+-  Danielle can share the data for FAQs which are usually complaints about the process
+
+
 
 ## June 8, 2023
 
-## Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Laura Willwerth, Joe Niquette, Amber Parsley, Ngozi Abolarin
+### Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Laura Willwerth, Joe Niquette, Amber Parsley, Ngozi Abolarin
 
-## Notes:
+### Notes:
 - Last week we made edits to the Account Creation and Sign-in Page and there was discussion around the differences between the Login.gov and ID.me IAL2 processes
   - No forced verification but there is very limited access with IAL1
   - We had this discussion because need to find out what types of confirmation emails are being referred to on the sign in page. There is a confirmation email that users receive when they create an account as well.
@@ -20,9 +83,9 @@
   - There may be a future FAQ for an IPP process at a VAMC owned by VA
 
 ## May 31, 2023
-## Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Laura Willwerth, Danielle Thierry
+### Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Laura Willwerth, Danielle Thierry
 
-## Notes:
+### Notes:
 
 - Login.gov blog rework
 
@@ -57,8 +120,8 @@ https://www.login.gov/help/verify-your-identity/verify-your-identity-in-person/
 
 ## May 18, 2023
 
-## Attendees: Sofia Kirkman, Aliyah Blackmore, Laura Willwerth, Danielle Thierry
-## Notes:
+### Attendees: Sofia Kirkman, Aliyah Blackmore, Laura Willwerth, Danielle Thierry
+### Notes:
 - Another security blog has been published and we will be waiting for feedback 
 - need to help veterans who failed to make the transition
 - Veterans expect a smooth and seamless process
@@ -71,8 +134,8 @@ https://dvagov-my.sharepoint.com/:p:/g/personal/danielle_thierry_va_gov/Efn1GVzB
 - 
 ## May 11, 2023
 
-## Attendees: Sofia Kirkman, Laura Willwerth
-## Notes:
+### Attendees: Sofia Kirkman, Laura Willwerth
+### Notes:
 - PDF:
   - Account creation guide is IAL1 only
   - Document has been made 508 compliant
@@ -90,9 +153,9 @@ https://dvagov-my.sharepoint.com/:p:/g/personal/danielle_thierry_va_gov/Efn1GVzB
 
 ## May 4, 2023
 
-## Attendees: Carl Dickerson, Sofia Kirkman, Aliyah Blackmore, Laura Willwerth, Joe Niquette, Amber Parsley 
+### Attendees: Carl Dickerson, Sofia Kirkman, Aliyah Blackmore, Laura Willwerth, Joe Niquette, Amber Parsley 
 
-## Notes:
+### Notes:
 - Clean up agenda items from Identity Comms meetings:
   - Sitewide Content is currently adding feedback from Tom and John to FAQs
   - Redirected and retired "How to get a premium DSL account"
@@ -105,7 +168,7 @@ https://dvagov-my.sharepoint.com/:p:/g/personal/danielle_thierry_va_gov/Efn1GVzB
 - Email drafts - look at after Clayton's research wraps up
  
 
-## Next steps:
+### Next steps:
 - Content team will send updates to agenda to Michelle
 - Carl will work on blog post draft and Amber will share in the next meeting 
 - Reach out to Core team to setup a readout once they are finished with synthesis
@@ -113,15 +176,15 @@ https://dvagov-my.sharepoint.com/:p:/g/personal/danielle_thierry_va_gov/Efn1GVzB
 
 ## April 27, 2023
 
-## Attendees: Carl Dickerson, Sofia Kirkman, Aliyah Blackmore, Laura Willwerth, Joe Niquette, Amber Parsley 
+### Attendees: Carl Dickerson, Sofia Kirkman, Aliyah Blackmore, Laura Willwerth, Joe Niquette, Amber Parsley 
 
-## Notes:
+### Notes:
 - Create a doc for key language and adaptations over time
 - Campaign landing page
   - Show visibility towards efforts on this every week
 - New comms efforts and overlap mural
 
-## Next steps:
+### Next steps:
 @CarlDickerson
 
 - [ ] Request a campaign landing page

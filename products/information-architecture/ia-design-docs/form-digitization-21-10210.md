@@ -1,7 +1,8 @@
 # IA Design for Form 21-10210
-**STATUS: In review**
+**STATUS: Completed**
 #### Edit history
 - 5/16/23 - updated spec (JM)
+- 6/9/23 - edits (JM)
 
 **Team:** VA Forms Team
 
@@ -29,14 +30,13 @@ The form will live under the new parent page for supporting forms.
 **1) H1 of page - New**
 - URL: www.va.gov/supporting-forms-for-claims/lay-witness-statement-form-21-10210
 - Breadcrumb: VA.gov home > H1 of supporting forms page > H1 of form page
-- Notes: Since the supporting forms page is still in progress, we are using an H1 placeholder until it is established.
-
+- Notes: Since the supporting forms page is still in progress, we are using an H1 placeholder until it is established. For the URL, we decided to move forward with "lay witness" as this seemed to be a combination with higher search results while staying true to the H1.
 
 
 
 ## <a name="nav"></a>Entry points <br>
 
-1. **Supporting forms page** - Add
+1. **[Supporting forms page](https://www.va.gov/supporting-forms-for-claims/)** - Add
   - Placement description: 
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/supporting-forms-for-claims/lay-witness-statement-form-21-10210

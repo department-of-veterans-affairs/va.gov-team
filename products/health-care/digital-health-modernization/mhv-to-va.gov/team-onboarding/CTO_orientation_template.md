@@ -8,22 +8,8 @@ Welcome [Name] ! We can use this ticket to track your onboarding activities to t
 
 Please schedule a short chat with each of these folks, either individually or in groups.
 
-- [ ] Lauren Alexanderson (OCTO Portfolio) - please work with [Alicia Proctor](https://dsva.slack.com/team/U022MUJ2NAJ), Lauren's executive assistant to schedule a meeting.
-- [ ] Leila Rassi (OCTO Product)
-- [ ] Coulton Bunney (OCTO Design)
 - [ ] Patrick Bateman (OCTO Product - Team Product Owner)
-- [ ] Stephen Barrs (OCTO Engineer)
-- [ ] Mark Dewey (OCTO Engineer)
-- [ ] Ryan Thurlwell (OCTO Design)
-- [ ] Martha Wilkes (OCTO Accessibility)
-- [ ] Lynne Johnson (Delivery Manager)
-- [ ] Tom Anderson (Product Manager)
-- [ ] Cara Frissell (Research Lead)
-- [ ] Jonathan Nelson (Designer)
-- [ ] Carlos Felix (Technical Architect)
-- [ ] Eric Voshall (Full Stack Engineer)
-- [ ] Angela Fowler (Accessibility)
-- [ ] Erin Flaherty (QA)
+- [ ] Member of OCTO team related to your Community of Practice
 
 More details about the team and our business partners can be found in the [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md#team). 
 

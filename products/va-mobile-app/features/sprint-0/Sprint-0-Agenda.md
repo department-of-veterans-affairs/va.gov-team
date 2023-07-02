@@ -44,12 +44,13 @@ The Sprint 0 meeting is a time to do the following:
 * Deep Linking from Push Notifications
 * Personalized Notifications
     * Showing changes of statuses, etc.
-* In-app Feedback Gathering (Tim R. + TBD partner)
+* Revamp Letters
 
 
 ## Ready to Present
 
-* [Sprint 0: User Endpoint Enhancement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/user-endpoint-enhancement/UEE-Sprint-0.md)
+* [Sprint 0: User Endpoint Enhancement - Jayson](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/user-endpoint-enhancement/UEE-Sprint-0.md)
+* [Sprint 0: Error Documentation - Misty](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Error%20Documentation/Error%20documentation%20sprint%200.md)
 
 | Immediate Action | Next Quarter Bucket | Icebox |
 | ----------- | ----------- | ----------- |
@@ -59,6 +60,25 @@ The Sprint 0 meeting is a time to do the following:
 
 
 ## Working session notes
+
+## 7/6/23
+
+* [Sprint 0: User Endpoint Enhancement - Jayson](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/user-endpoint-enhancement/UEE-Sprint-0.md)
+
+
+## 6/22/23
+
+* Q3 Planning discussions
+  * Rachel & Ryan encouraging us to provide suggestions and reccommendations when discussing potential solutions, etc.
+  * Deep Linking experiment with process
+    * Rachel & Ryan could be more involved up front to help to set the direction
+    * Would like to try building things sooner in the process
+    * Desired Outcome: POs to know if their involvement earlier will help to break problems into smaller chunks, and speed up the process - getting to production faster
+    * Discussed trade-offs of this approach
+      * works well with smaller, focused teams - QA capacity concerns in Q3
+      * long-term roadmap could be less stable
+      * Agreement on shipping in smaller chunks
+
 
 ## 6/7/23
 

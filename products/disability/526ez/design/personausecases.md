@@ -53,4 +53,8 @@ Veterans who have little interaction with, awareness of, or interest in VA servi
 - Filing claim as vet living abroad
 - Filing 526 (for example, for new claim) while also filing supplemental claim (for already-decided claim)
 
-
+# Viewing conditional pages in 526 in staging
+- If want to view claim for increase/rated disabilites flow, use account with rated disabilities
+- If want to view BDD flow, on start page select yes active duty and date within 90-180 days in the future
+- If want to view pages in History in Reserves or National Guard flow, select one of those on service history page
+- If want to view PTSD flow, indicate new claim and enter PTSD as condition

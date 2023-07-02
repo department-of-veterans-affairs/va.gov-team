@@ -1,5 +1,6 @@
 # IA Design for Forms Digitization Benefit-agnostict Forms
 **STATUS:Complete**
+Updated 6/12/23 - Updates to entry points and redirects
 
 **Team:** Forms Digitization
 
@@ -53,13 +54,15 @@
 
 **Entry points for specific forms will be contextual, and placed within forms and pages where appropriate and as needed.** 
 
-**Entry points for the additional forms landing page are as follows:**
+**Entry points for the supporting forms landing page are as follows:**
 
-**1) Disability hub**
-- Add to How to file page - add to the "More information about filing disability claims" section at the bottom of the page
-- Remove "Additional forms" option from left nav under How to file a claim
-- Update link destination for "File additional forms" option in left nav under Manage benefits to point to new page
+**1) [Disability hub](https://www.va.gov/disability/)**
+- Add to [How to file page](https://www.va.gov/disability/how-to-file-claim/) - add to the "More information about filing disability claims" section at the bottom of the page
+- ~Remove "Additional forms" option from left nav under How to file a claim~
+- ~Update link destination for "File additional forms" option in left nav under Manage benefits to point to new page~
 
+**2) [Disability > How to file > Additional forms page](https://www.va.gov/disability/how-to-file-claim/additional-forms/)
+- Add link to the supporting form landing page in a new section for related links at the bottom of the page
 
  
 
@@ -69,9 +72,11 @@
 
 Current URL | Redirect to | Notes
 --- | --- | ---
-www.va.gov/disability/additional-forms | www.va.gov/supporting-forms-for-claims/ | This should not be implemented until all content on the page is accounted for
+~www.va.gov/disability/how-to-file-claim/additional-forms~ | ~www.va.gov/supporting-forms-for-claims/~ | ~This should not be implemented until all content on the page is accounted for~
  
-
+Update 6/12/23:  We will not be redirection the existing Additional forms page in Disability.  Instead, we will maintain this page for now where it is and make the following updates: 
+- Remove the following from the table: the 4142, adaptive housing links, A&A links, dependents link
+- Add a related section to the bottom that includes links to the new supporting forms page, adaptive housing, A&A, dependents
 
 
 
@@ -79,5 +84,9 @@ www.va.gov/disability/additional-forms | www.va.gov/supporting-forms-for-claims/
 <hr>
 
 ## <a name="notes"></a>Meetings notes and background info
-
+6/12/23 - Discussion w/Danielle
+- Discussed 3 groups of "supporting/additional forms": Ones you file as part of your 526 claim that are specific to disability, ones you file as part of the claim process for multiple claim types, and ones you file after your 526 for additional benefits, and ones you can file 
+- The existing additional forms page in disability includes all 3 of these, plus includes related benefits - sometimes the main application (i.e. adaptive housing) and sometimes supporting forms for another benefits (a couple A&A forms). Beyond those it has both forms you file as part of your 526 (i.e. PTSD) and forms you file after your 526 for additional benefits.  All of these forms are also linked to from within the Eligibility child pages for PTSD and special claims.  We do not believe this is an all-inclusive list. 
+- This work is focused on creating a space for the forms that support multiple benefit types - the supporting forms page.  We do not anticipate this page having a lot of SEO value or being a primary destination, it is primarily a means to group the benefit-agnostic forms.  It is a temporary solution that will be re-evaluated.
+- We discussed future work around the disability additional forms page moving to R&S, and becoming a link list for a more exhaustive list of forms to file with your 526.  We could have similar R&S pages for other benefits.  Those would tell the full story of forms for specific benefits, and would link out to the homes of those forms. 
 

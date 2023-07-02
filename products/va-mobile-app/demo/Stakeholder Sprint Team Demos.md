@@ -4,6 +4,24 @@ Meeting Owner: Kelly Lein
 Timing: Every 2 Thursdays 2:35 - 3:15pm 
 
 ---  
+**Demo Sprint 73 6/21/23** 
+Agenda
+- Demo Topic(s)
+  -  Documenting current state analytics: log-in success/failure (Greta)
+  -  In-app recruiting flow (Holly)
+
+- Slides - [Sprint 73 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11823718/Sprint.73.-.VA.Mobile.App.Demo.Slides.pdf)
+
+- Video
+  - Documenting current state analytics: log-in success/failure: https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/1292861e-51fe-4abb-b675-7a6ffd8a8706
+  - In-app recruiting flow: https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/3f6a1d5f-d752-471b-b3ce-34786515c9aa
+
+
+
+
+
+
+---  
 **Demo Sprint 72 6/7/23** 
 Agenda
 - Demo Topic(s)

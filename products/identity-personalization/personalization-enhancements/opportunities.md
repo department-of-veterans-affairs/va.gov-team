@@ -34,7 +34,10 @@ This hasn’t been discussed previously with regard to site IA, but it’s worth
 - We don’t have IA engineering resources to do this; currently falls under Public Websites
 
 #### Updating the personalized menu
-We haven’t discussed this one yet. We know it’s duplicative of global nav items.  We haven’t looked for evidence to suggest that people need more added to it though. 
+We (Chante, Mikki, Kristin, Liz) haven’t discussed this one yet. Updating the menu likely needs to consider the duplicative global nav items, and we need to hold off on changes to that while the site header updates are under way.  Our research didn't yield any insights related to changes we need to make, other than addressing the redundancy of the menu.
+
+##### Considerations
+- We've got a notification center coming up that makes sense to consider when we think about updating this menu
 
 ##### Possible next step
 - Look at analytics to see if numbers suggest adding high-traffic “manage” items to the personalized menu would be helpful

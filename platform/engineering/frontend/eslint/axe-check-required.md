@@ -1,3 +1,14 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
 # ESLint: `axe-check-required` rule
 
 VSP engineering has shipped a custom ESLint rule: [`axe-check-required`](https://github.com/department-of-veterans-affairs/vets-website/pull/12667). The `axe-check-required` rule will warn you if your end-to-end (e2e) tests do not include at least one `axeCheck` accessibilty scan.

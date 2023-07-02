@@ -29,10 +29,11 @@ VA Product Owner = Dave Conlon (@davidconlon)
 | [FAQ Page](#faq-page) | [Non-facility Redirects](#non-facility-redirects) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
 | [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [Offices](#offices) | [“How to apply” wizards](#how-to-apply-wizards) |
 | [Full-width Alert](#full-width-alert) | [On-site search (using search.gov)](#on-site-search-using-searchgov)  | [React widgets governance](#react-widgets-governance)|
-| [Promo Banner](#promo-banner) | [Shadow / dark launches of content](#shadow--dark-launches-of-content) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
-| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | [Unauthed React widgets](#unauthed-react-widgets) |  .  |
-| [Q&A - single](#qa---single) | [VA.gov Homepage](#vagov-homepage) | . |
-| [Resources & Support detail page](#resources-and-support-detail-page) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) | .  |
+| [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [Shadow / dark launches of content](#shadow--dark-launches-of-content) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
+| [Promo Banner](#promo-banner) |  [Unauthed React widgets](#unauthed-react-widgets) |  .  |
+| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) |[VA.gov Homepage](#vagov-homepage) | . |
+| [Q&A - single](#qa---single) |  [Veterans Crisis Line modal](#veterans-crisis-line-modal) | . |
+| [Resources & Support detail page](#resources-and-support-detail-page) | . | .  |
 
 The Public Websites team also supports most of the portfolio of the previous Decision Tools and Search & Discovery Team products, which may include products not listed here that we are not yet aware of. 
 
@@ -283,7 +284,7 @@ You can read more about these alert types in the [VA Design System](https://desi
 
 **Governance / Editor guidance:**
 * Primary editors: Sitewide Content team
-* **Governance:** [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/banners](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/banners) 
+* **Governance:** [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/emergency-banner/2019-banner-docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/emergency-banner/2019-banner-docs) 
 * Old info, some useful references: [https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf) 
 
 **More info:**

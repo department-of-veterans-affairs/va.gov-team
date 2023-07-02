@@ -122,7 +122,7 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - June 2023
+  - August 2023
 - *Actual Launch Date* 
   - tbd
 

@@ -6,7 +6,7 @@ We're a grassroots, volunteer-led educational program intent on scaling up VA.go
 - centering the diverse voices of disabled Veterans, caretakers, and family members
 - asking questions first and learning from others
 
-<strong>[Complete level 1 to start your journey 🪴](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/level-1.md)</strong>
+<strong>[Complete level 1 to start your journey 🪴](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/Level%201/1-Introduction.md)</strong>
 
 ## Who can be an accessibility champion? And what do they do? 🤔 
 
@@ -36,7 +36,7 @@ We're a grassroots, volunteer-led educational program intent on scaling up VA.go
 
 ## Curriculum
 
-### [Level 1, Community Member](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/level-1.md) 👐
+### [Level 1, Community Member](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/Level%201/1-Introduction.md) 👐
 - 1 hour to complete
 - Learn what accessibilty is, get comfortable asking for help, and join our community
 - Get started with your first screen reader
@@ -82,10 +82,16 @@ Glad you asked! The word "accessibility" is often abbreviated to <strong> a11y <
 Most folks pronounce a11y as "alley" or "a 11 y"
 
 ## Citational justice
-This was built off a curriculum designed by **Jen Strickland** and **Trevor Pierce**, who deserve full credit in establishing the groundwork to make this possible ♥️
+This was inspired by a curriculum designed by **Jen Strickland** and **Trevor Pierce**, who deserve full credit in establishing the groundwork to make this possible ♥️
+
+### Community feedback
+We make updates to our curriculum based on feedback from our community. This is forever a work in progress, and is built by a community of people.
+- [Check out all the updates we've made in our changelog](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/changelog.md)
+- [Provide feedback directly using this Microsoft Form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAToLe2lUM0FTUlRTRUxIMEhTVjc1RExON1JTVTk2Vi4u)
 
 ### Contributors
 - Josh Kim
 - Sara Smith
 - Jeana Clark
 - Martha Wilkes
+- Joseph Lee

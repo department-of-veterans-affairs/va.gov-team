@@ -15,59 +15,59 @@
 
 
 ## <a name="flows"></a>User/page flows <br>
-*Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
-
-<img width="750" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/fe170e6c-a975-49a5-984f-5ce5d7081fdc">
+![User Flow of Medications Phase 0](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/b304a819-311c-40d6-a3fb-8ea5287562bb)
 
 The user flow provided depicts the flow for Phase 0 of this product only.  The entry points, links, and overall flow of the product will evolve as the product progresses through the phased roll-out.  Those flows will eventually be fully documented in the (phased roll-out Mural)[https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1667322271773?sender=u2aba00c97ab77c6ec1573123&key=4ffaed99-2032-4f0b-bbce-bbe7ef27595c]. 
 
 For Phase 0:
-- Users will only be able to access this product via an email invitation with a direct link.  After clicking on the link, the user will be presented with the VA.gov home page with the sign in modal displayed. Once signed in they will be immediately routed to the medications list page
-- The Medication list page will include messaging and a link to send feedback about the tool. 
-- The Medication list page will include messaging and a link to allow visitors to return to the MHV classic pharmacy experience, that will take them to the MHV classic pharmacy landing page
-- The Medication list page will include messaging and a link to the MHV classic Allergies page within the Health History section
+- Users will only be able to access this product via an email invitation with a direct link.  After clicking on the link, the user will be presented with the VA.gov home page with the sign in modal displayed. Once signed in they will be immediately routed to the medications landing page
+- The Medication landing page will include messaging and a link to send feedback about the tool. 
+- The Medication landing page will include messaging and a link to allow visitors to return to the MHV classic pharmacy experience, that will take them to the MHV classic pharmacy landing page
+- The Medication landing page will include messaging and a link to the MHV classic Allergies page within the Health History section
 - The Medication detail page will include messaging and a link to the MHV classic compose a message page
 
 
 ## <a name="map"></a>Page structure<br>
-*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 
-<img width="100" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/c2743893-42ea-4568-a198-03e11701da8d">
+![Screenshot 2023-06-28 at 4 35 42 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/9aa7af6a-78c7-46b1-9b61-577987b7579f)
 
+NOTE: As of 6/30/23, the H1 of the Medication page may change to 'Medication and Supplies'. If we do make that change, we may change URLs.
+- also not, that the url is a sibling structure, but the breadcrumbs will represent a parent strucuture. 
 
 ## <a name="url"></a>URLs and breadcrumbs
-*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
+**1)Medications Landing - NEW**
+- URL: www.va.gov/my-health/about-medications/
+- Breadcrumb: 
+  - desktop: My HealtheVet > About Medications
+  - mobile: < My HealtheVet
+- Title tag: About Medications | Veterans Affairs
+- Notes: H1 pending final decision as of 6/28
 
-**1) Medications list - NEW**
+**2) Medications list - NEW**
 - URL: www.va.gov/my-health/medications/
 - Breadcrumb: 
-  - desktop: VA.gov home > My HealtheVet > [H1 of page]
+  - desktop: My HealtheVet > About Medications > Medications
   - mobile: < My HealtheVet
-- Title tag: [H1] | Veterans Affairs
-- Notes: 
+- Title tag: Medications | Veterans Affairs
+- Notes: [On 6/30 in slack](https://dsva.slack.com/archives/C04DRS3L9NV/p1688070170040299) we decided that the breadcrumbs will act as if the 'about' landing page page is a parent of medications list, but the page will not be an official parent of medications from a URL standpoint. H1 pending final decision as of 6/28
 
-**2) Meidcation details - NEW**
+**3) Meidcation details - NEW**
 - URL: www.va.gov/my-health/medications/[medicationID]/
 - Breadcrumb: 
-  - desktop: VA.gov home > My HealtheVet > [H1 of page] > [H1]
+  - desktop: My HealtheVet > Medications > [H1 of page]
   - mobile: < My HealtheVet
 - Title tag: [H1] - Medications | Veterans Affairs
 - Notes: 
   - URL will be based on unique ID for the individual's specific medication.  It will not be the name of the medication. 
-  - Need to discuss H1 of details page - will this be the long medication name, or do we template this to be "Details"
 
 ## <a name="nav"></a>Entry points <br>
-*A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
-
 
 Entry points for this tool will be determined based on the phased launch plan and are documented separately.
+- there will be no left nav in Phase 0 of this product rollout
  
 
 ## <a name="redirects"></a>Redirects <br>
-*A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
-
-
 MHV redirects will be determined as part of the phased launch plan and documented separately
  
 

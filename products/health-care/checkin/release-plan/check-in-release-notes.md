@@ -12,6 +12,24 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 6/22/2023
+- Added a visual element (eyebrow) to the eCheck-in workflow questions and appointment pages to provide context to the Veteran that they are using online check-in
+    - [Ticket 59168](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59168#event-9618489930)
+- Updated the Need Help section to include "TTY" in the "TTY 711" link
+    - [Ticket 59401](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59401)
+
+### 6/21/2023
+- Removed the aria-live attribute from the "Back to last screen" breadcrumb link to accommodate Veterans who use screen readers.
+    - [Ticket 59315](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59315)
+
+### 6/19/2023
+- Changed the HTML for the appointments list in Pre-Check-in and eCheck-in from an ordered list to an unordered list to accommodate Veterans who use screen readers.
+    - [Ticket 59306](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59306)
+
+### 6/16/2023
+- In an effort to prevent Veterans from receiving a Pre-Check-in link for a cancelled appointment, modified the CHIP API to return an error from initiate-precheckin if the appointment has been cancelled.
+    - [Ticket 59414](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59414)
+
 ### 6/2/2023
 - Updated the "in-person appointment" title in Pre-Check-in and eCheck-in to use a hypen 
     - [Ticket 59082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59082)

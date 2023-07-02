@@ -2,7 +2,7 @@
 name: Best Bet Request
 about: Request to create or change a best bet in VA.gov search results
 title: Best bet request for <topic>
-labels: sitewide content, Sitewide CAIA, Sitewide IA
+labels: sitewide content, sitewide CAIA, Sitewide IA
 assignees: jennymayoco
 
 ---

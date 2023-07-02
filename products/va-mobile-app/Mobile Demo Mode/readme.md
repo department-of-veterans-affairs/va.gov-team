@@ -1,5 +1,5 @@
 
-# A Health and Benefits Mobile App Demo Mode #
+# VA Health and Benefits Mobile App Demo Mode #
 
 ## Purpose: ##
 
@@ -39,20 +39,22 @@ Slack Channel  | #va-mobile-app
 
 ## Troubleshooting: ##
 
-Demo Mode’s password is not working
+### Demo Mode’s password is not working
 - Case sensitive and space sensitive - review password entered 
 - Mobile app may need to be updated - update the app 
 - Demo password has changed - review password on Demo Mode Gitbhub
 
-RX Prescription does not appear in Demo Mode 
+### A new feature does not appear in Demo Mode 
+- If the new feature has not yet been released to production, it will not appear in demo mode
+- If the new feature is released to veterans in production, try the following:
 - Download the latest version of VA Health and Benefits App 
   - Open the app and log into Demo
   - Hard close the app (app switcher then swipe to close it) 
-  - Open it again and it should be there 
-   - If not, data may be cached 
+  - Open it again
+   - If it's still not there, data may be cached 
    - Log into demo mode
    - Go to Settings -> Developer Screen -> Click the Remote Config button 
    - Scroll down to the Override Toggle section 
-   - Click prescription toggle to on 
+   - Tap the relevant feature toggle to on 
    - Click Apply Overrides 
-   - Log back into Demo Mode to see Prescriptions in Healthcare section 
+   - Log back into Demo Mode
