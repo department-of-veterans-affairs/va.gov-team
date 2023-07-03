@@ -4,7 +4,6 @@
 - [Phase I: UAT](#Phase-i-uat)
 - [Phase II: Staged Rollout](#Phase-ii-staged-rollout)
 - [Go Live!](#Go-Live)
-- [Post-Launch Questions](#Post-launch-questions)
 
 ## Phase I: UAT
 Not applicable - team conducted internal testing.
@@ -14,8 +13,8 @@ Not applicable - team conducted internal testing.
 ### Planning
 **Launch Go/No-go:** 
 - _Completed mm/dd/yyyy_
-- Launch go/no-go ticket: LINK
-- Launch readiness checklist LINK
+- Launch go/no-go ticket: [#61316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61316)
+- [Launch readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/claim-status-lighthouse-migration/launch-materials/claim-status-lighthouse-migration-launch-readiness-checklist.md)
 
 **Desired date range:** _mm/dd/yyyy - mm/dd/yyyy_
 
