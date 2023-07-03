@@ -5,11 +5,13 @@
 ### CHAMPVA
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/62957278/02e92213-4b77-4c75-8778-e26548c11b9a)
+
 **Source:** [Health Care for Dependents and Survivors of Veterans - Congressional Research Service](https://sgp.fas.org/crs/misc/RS22483.pdf) 
 
 ### VA Dependency and Indemnity Compensation for survivors
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/62957278/90a28b94-b456-4720-8352-2dd6d03daddb)
+
 **Source:** [VBA annual benefits report](https://www.benefits.va.gov/REPORTS/abr/docs/2022-abr.pdf)
 
 ### Survivors pension
