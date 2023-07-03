@@ -7,7 +7,7 @@
 - [Post-Launch Questions](#Post-launch-questions)
 
 ## Phase I: UAT
-NA
+Not applicable - team conducted internal testing.
 
 ## Phase II: Staged Rollout
 
