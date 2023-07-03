@@ -61,7 +61,7 @@ Add your team's practice and contact information below.
 - [ ] Use the #vfs-all-teams channel Zoom link provided to create your own calendar invite to attend all Team of Teams meetings
 
 ## Introduce your team on slack
-- [ ] introduce your team on the #vfs-all-teams Slack channel. Include team name, Product Manager, Product Owner, what crew your team is on, and what products you're supporting on VA.gov.
+- [ ] Introduce your team on the #vfs-all-teams Slack channel. Include team name, Product Manager, Product Owner, what crew your team is on, and what products you're supporting on VA.gov.
 
 ## Platform Orientation for your team members
 In addition to providing information to Platform and completing necessary tasks at the team level, there are also tasks that need to be completed at the individual level. As a team leader, you will need to: 
