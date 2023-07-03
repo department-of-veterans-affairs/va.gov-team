@@ -21,7 +21,7 @@ Before enabling your feature toggle in production, you'll need to:
    - [x] [Link to validation confirmation ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51641)
 - [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
    - [x] Confirm with Joshua Faulkner and team on End to End testing
-   - [x] [Link to Sign Off](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Staging%20Review_QA/E-2-E%20testing%20confirmation.md)
+   - [x] [Link to confirmation of successful transmission/processing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Staging%20Review_QA/E-2-E%20testing%20confirmation.md)
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
