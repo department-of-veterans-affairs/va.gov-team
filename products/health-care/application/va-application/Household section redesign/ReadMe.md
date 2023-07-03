@@ -163,10 +163,10 @@ Data source - Call Center team/TBD
 - June 2022: Kickoff with outline & begin design
 - Oct 2022: Design work ready
 - Dec 2022: Usability testing kickoff
-- ???? 2022: Finalize designs, development
-- ???? 2022: Complete QA
-- ???? 2022: Complete UAT
-- ???? 2022: Launched to ???% of users
+- June 2023: Finalize designs, development
+- June 2023: Complete QA
+- July 2023: Complete UAT
+- July 2023: Launched to ???% of users
 
 
 ---
