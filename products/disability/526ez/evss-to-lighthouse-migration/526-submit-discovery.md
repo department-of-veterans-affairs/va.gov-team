@@ -4,7 +4,7 @@ This document details the finding for ticket [#57859](https://app.zenhub.com/wor
 ## Questions
 ### What would it take to migrate this endpoint?🤔
 #### What data field(s) are being sent and received from the eVSS endpoint by the 526 form?  
-API specs for the `POST /form526/v2/submit` endpoint can be found on the eBenefits site at https://www.ebenefits.va.gov/wss-form526-services-web-v2/rest/swagger.yaml. Return values from the endpoint can be found under the `SubmitResponse:` section, and *submitted* values can be found under the `SubmitRequest`. More details on what JSON fields are submitted to the endpoint are referenced below **TODO link here**
+API specs for the `POST /form526/v2/submit` endpoint can be found on the eBenefits site at https://www.ebenefits.va.gov/wss-form526-services-web-v2/rest/swagger.yaml. Return values from the endpoint can be found under the `SubmitResponse:` section, and *submitted* values can be found under the `SubmitRequest`. More details on what JSON fields are submitted to the endpoint are referenced [below](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/evss-to-lighthouse-migration/526-submit-discovery.md#can-form-526-switch-to-this-lh-endpoint-without-changes-for-this-service)
 
 #### What is the endpoint in existence in LH that replaces this service?  
 API specs for the `POST /veterans/{veteranId}/526` endpoint can be found on the Lighthouse APIs site under the **Disability** section: https://dev-developer.va.gov/explore/benefits/docs/claims?version=current
@@ -16,7 +16,7 @@ Fields are specified at the above link. Expand the `POST /veterans/{veteranId}/5
 No. Here is an [EVSS/LH Mapping worksheet](https://docs.google.com/spreadsheets/d/1e_UoLN31Uzr9_aG4ByCcuQm3kIq844cg_l0IBJYnfLE/edit?usp=sharing) that details all the differences between their respective JSON requests. A companion doc to this, [526 Submit Questions for EVSS/LH](https://docs.google.com/document/d/1Z6Cw6MU5fgsjeJ9vuqrk-4xMEkq3LpQ7NbKUq0KNAyk/edit?usp=sharing), has been created and posted to [#vfs-evss-service-migration](https://dsva.slack.com/archives/C02CQP3RFFX/p1688410338910259) to initiate conversation (potential follow-up meeting TBA)
 
 #### What is the data structure vets-api is expecting from eVSS?
-Vets-api's `submit_all_claim` endpoint [doc](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_526/postSubmitFormV2) accepts a (somewhat) similar base JSON as EVSS's submit endpoint, but that is also transformed in code between *that* submission and the final EVSS one. See diagram referenced below **TODO link to below** 
+Vets-api's `submit_all_claim` endpoint [doc](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_526/postSubmitFormV2) accepts a (somewhat) similar base JSON as EVSS's submit endpoint, but that is also transformed in code between *that* submission and the final EVSS one. See diagram referenced [below](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/evss-to-lighthouse-migration/526-submit-discovery.md#can-form-526-switch-to-this-lh-endpoint-without-changes-for-this-service)
 
 #### Does data structure LH has in their documentation adhere to that contract?  
 No.
