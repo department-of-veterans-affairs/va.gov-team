@@ -138,6 +138,6 @@ We should continue forward with designing and testing an MVP of Profile that inc
 
 - Learn more about letters (for linking, not bringing over any tools).
 - Learn more about the letters generating work happening outside of OCTO to see if there is any research we can leverage to inform our work.
-- Make mockups for MVP (how it would look in profile, and where it would live) [#61261](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/profile/Research/2023-06-add-dependents-records-discovery/summary.md), and review with content/IA for feedback.
+- Make mockups for MVP (how it would look in profile, and where it would live) [#61261](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61261), and review with content/IA for feedback.
 - Conduct research study to get user feedback (combination interview/MVP usability test) [#61263](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61263) on the prototype, and open questions.
 
