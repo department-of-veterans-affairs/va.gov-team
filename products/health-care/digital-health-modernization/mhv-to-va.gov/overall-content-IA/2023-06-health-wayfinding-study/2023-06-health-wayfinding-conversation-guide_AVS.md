@@ -123,12 +123,7 @@ _Once participant clicks on Copay link and is directed to Pay.gov, ask them to c
 - Where are you right now? 
 - Are you on a different website than before? 
 - How do you feel about that? 
-- (_After participant goes one click into Pay.gov form_): Thank you, you don't need to go any further than this. How would you get back to the original website we were on? 
-
-_Once participant has completed task:_
-- If you could design this website, how would you organize the different types of benefits and resources you see here? 
-- Where would you put your disability resources and your health resources? What about education benefits? Housing benefits? 
-- (_Ask participant to click between My VA and My HealtheVet pages_): If you were to describe these two pages to another Veteran, how would you explain them? 
+- (_After participant goes one click into Pay.gov form_): Thank you, you don't need to go any further than this. How would you get back to the original website we were on?  
 
 **_Task 3a - Medical Records task:_** Imagine that you were recently put on blood thinner medication. Your doctor ordered blood tests two weeks after you started the medication to make sure that it is working. Where would you look for the results from those blood tests?
 
@@ -169,6 +164,12 @@ _Ask these questions if did not ask them in the AVS task:_
 - (_If participant ends up on Appointments landing page_): What do you think will happen if you click on that "Requests" link? 
 - _Optional probe_: What do you think "Requests" means here?
 
+**More My VA vs. My HealtheVet questions**
+
+- If you could design this website, how would you organize the different types of benefits and resources you see here? 
+- Where would you put your disability resources and your health resources? What about education benefits? Housing benefits? 
+- (_Ask participant to click between My VA and My HealtheVet pages_): If you were to describe these two pages to another Veteran, how would you explain them?
+
 **Priority Group questions**
 
 Thank you for showing me how you would navigate around on this site. Now that you are more familiar, I'd like to ask you a couple final questions. 
@@ -177,7 +178,9 @@ Thank you for showing me how you would navigate around on this site. Now that yo
 - What do you think "VA priority group" refers to? 
 - When a Veteran applies for VA health care, they get assigned to a group that determines how soon the VA signs them up for health care benefits and how much they will have to pay towards the cost of care. A Veterans' priority group can change if their income changes or if their service-connected disability gets worse and they receive a higher disability rating.
    - With that in mind, where would you expect to find information about your personal priority group on this website?
-   - (_Direct to MHV on vA.gov landing page_) Where would you expect to find information about your personal priority group on this page? 
+   - (_Direct to MHV on vA.gov landing page_) Where would you expect to find information about your personal priority group on this page?
+ 
+- Is there anything we have not talked about that you would like me to know at this point? 
 
 ## Thank You and Closing - 1 minute
 
