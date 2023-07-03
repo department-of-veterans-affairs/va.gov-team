@@ -1,6 +1,6 @@
 # Project outline: My VA Claim status EVSS > Lighthouse migration
 
-**Last updated June 26, 2023**
+**Last updated July 3, 2023 - updated security section**
 
 ### Communications
 
@@ -66,7 +66,7 @@ In order to continue providing claims and appeals details on My VA we need to up
 - The updated integration disrupts the Veteran's access to their claims and appeals information on My VA
 
 ## Security
-_TK_
+[Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/claim-status-lighthouse-migration/launch-materials/claim-status-lighthouse-migration-security-playbook.md)
 
 ## Measuring Success
 
