@@ -23,8 +23,7 @@ After that research concluded, the homepage was redesigned. As of June 1, 2023, 
 	- Takeaways relevant to Profile
 		- Digital cards may be of interest to Veterans who are smartphone-savvy and want immediate access to their cards.
 		- Though all veteran participants wanted a plastic card, two third of veterans were interested in a digital or printable version of their card.
-	- **Open question**
-		- What would a user would want to do with their ID card online via Profile (apply/renew, download, etc)?
+ 		-  When we talk to users, we should learn what a user would want to do with their ID card online via Profile (apply/renew, download, etc).
 - [Dependency Verification Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/research_plan_11_2020.md) (December, 2020)
 	- Takeaways relevant to Profile
 		- This research provided information on where to cross link to this process in the larger VA.gov navigation, so there is precedent in considering linking to this tool from within Profile.
