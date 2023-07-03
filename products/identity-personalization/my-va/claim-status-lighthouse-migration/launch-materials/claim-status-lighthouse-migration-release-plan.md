@@ -44,7 +44,7 @@ Not applicable - team conducted internal testing.
 
  
 ### 1-week results (at 100%):
-- **Number of unique users :**
+- **Number of unique users:**
      - 
 - **Any issues with VA handling/processing?**
      - 
@@ -52,7 +52,7 @@ Not applicable - team conducted internal testing.
      - 
 - **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
      - 
-- **If yes, what:** 
+- **If yes, what?** 
      - 
 
 ### 1-month results (at 100%):
@@ -64,6 +64,6 @@ Not applicable - team conducted internal testing.
      - 
 - **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?**
      - 
-- **If yes, what:** 
+- **If yes, what?** 
      - 
 
