@@ -121,8 +121,8 @@ _If partipcant goes to My VA:_
 
 _Once participant clicks on Copay link and is directed to Pay.gov, ask them to click "Continue" at least once to get them further into the form._
 - Where are you right now? 
-- Are you on a different website than before? 
-- How do you feel about that? 
+- Are you on a different website than before?
+- How do you feel about being on a different website? 
 - (_After participant goes one click into Pay.gov form_): Thank you, you don't need to go any further than this. How would you get back to the original website we were on?  
 
 **_Task 3a - Medical Records task:_** Imagine that you were recently put on blood thinner medication. Your doctor ordered blood tests two weeks after you started the medication to make sure that it is working. Where would you look for the results from those blood tests?
