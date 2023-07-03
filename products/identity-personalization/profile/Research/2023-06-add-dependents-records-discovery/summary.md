@@ -23,7 +23,7 @@ After that research concluded, the homepage was redesigned. As of June 1, 2023, 
 - In our Logged-in IA and Nav wayfinding study, 3 participants expected to find dependent information in their profile ([finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#participants-struggled-to-find-dependent-information-which-wasnt-linked-from-the-homepage-my-va-or-the-mega-menu-links)).
 - In the above study, participants had a harder time finding what they needed via the navigation menu when there could be multiple related categories (e.g. downloading benefit letters), or they didn't have enough context around the task (e.g. viewing dependents) ([finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#navigating-to-tasks-was-challenging-for-participants-who-werent-sure-how-their-task-was-categorized-within-va))
 
-#### Pas research review
+#### Past research review
 - [Veteran ID Card User Experience Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-id-cards/research) (January, 2018)
 	- Takeaways relevant to Profile
 		- Digital cards may be of interest to Veterans who are smartphone-savvy and want immediate access to their cards
