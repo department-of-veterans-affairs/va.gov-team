@@ -25,6 +25,7 @@ assignees: RLHecht, coforma-terry, kristinoletmuskat, laurwill, sara-amanda
 - [ ] Accessibility issue (general request)
 - [ ] Accessibility PDF review request
 - [ ] Accessibility user research support ([submit a separate, additional request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cangelafowler82&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name))
+- [ ] DST component or pattern 
 - [ ] Something else 
  
 ### Give a brief description of what your team needs support with:
