@@ -1,4 +1,4 @@
-# My VA Audit UX Improvements Release Plan
+# My VA Claims and Appeals Section: Lighthouse Migration Release Plan
 
 ### Table of Contents
 - [Phase I: UAT](#Phase-i-uat)
