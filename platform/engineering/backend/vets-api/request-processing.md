@@ -7,6 +7,7 @@
 
 ----
 
+
 # Vets API Request Processing
 
 Request processing occurs after Routing {TODO - add content}, [Authentication](authentication.md), and [Authorization](authorization.md). It consists of validating any user input or parameters, processing that input, and generating a response.

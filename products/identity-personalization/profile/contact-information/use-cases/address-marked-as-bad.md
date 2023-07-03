@@ -6,9 +6,8 @@ When mail is sent to a Veteran and then returned to the VA, the address is flagg
 - [Initial brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)
 - [Discovery documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/discovery/documentation.md) 
 - [User flow](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/7yPo0rZ)
-- Sketch mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/JnRG2qz) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/m1YlLyw) 
-	- _Note: Mockups begin with Personal information alert._ 
-	- _View Contact information alert and states by arrowing right._
+- [Sketch mockups](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/p/B84818F9-2AB7-42E8-BFFD-0C0949B020A3/canvas)
+	- _Desktop and mobile mockups are on the same Sketch page for this use case._ 
 
 ## UX
 [User flow](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/7J9jY8/a/7yPo0rZ/)
@@ -17,7 +16,7 @@ When mail is sent to a Veteran and then returned to the VA, the address is flagg
 - Displays an [alert](https://design.va.gov/components/alert#warning-alert)  (VA design system component) directing user to review their mailing address
 * Alert disappears once Mailing address is successfully updated and validated.
 * [Desktop mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/JnRG2qz)   
-* [Mobile mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/EPqp12/a/wLqqgOp/r/O8adb4) 
+* [Mobile mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/m1YlLyw)
 	
 ### Contact information page
 * Displays a [background only alert with icon](https://design.va.gov/components/alert#background-color-only-alert-with-icon) in the mailing address section. 

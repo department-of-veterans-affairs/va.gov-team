@@ -72,7 +72,6 @@ Average number of days it takes for the VA to arrive at claims and appeals decis
 ## User actions
 - Number of successful submissions for requests for additional evidence
 - Average # of days between request for additional evidence and evidence submitted by veteran
-- Number of conversions from CST to VAOS for appointment scheduling
 - Average # of days between requests for exam scheduling and exam scheduled by veteran
 
 ## Call Center
@@ -95,19 +94,21 @@ Average number of days it takes for the VA to arrive at claims and appeals decis
 # OKRs 
  
 ## Objective 1: 
-Quicker Turnaround Time between requests/opportunities for actions becoming available and veterans taking those actions. 
+Reduced Turnaround Time between requests/opportunities for actions and veterans taking those actions. 
 
 ### Key Results
-- Medical exams scheduled within 3 business days of request
+- *Medical exams scheduled within 3 business days of request
+- (X% of veterans are satisfied with their initial decision and do not pursue a decision review.)
 - New evidence submitted within 5 business days of request
 - Veterans determine which disagreement pathway to pursue, if any, within 20 business days and begin that process. 
 
 ## Objective 2: 
-- The information supplied by the CST successfully addresses burning questions veterans have about their claims and/or appeals status
+- CST provides a singular online source for successfully addressing burning questions Veterans have about their claims and appeals
 
 ### Key Results
 - Call volumes related to disability claims questions at call centers drops by 75%
 - Raise average Medallia score to 4.5/5
+- Reduce evss claim status view/transactions" to zero
 
 ## Objective 3:
 - Veterans can trust that the application will function properly 

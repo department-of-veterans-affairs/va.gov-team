@@ -33,18 +33,20 @@ Health Products
 ## Who we are
 
 ### Team Members:
-- Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
-- Patrick Bateman | patrick.bateman@va.gov - Product Owner
-- Katherine Lawyer | katherine.lawyer@va.gov - Product Owner
-- Mark Dewey | mark.dewey@va.gov - Engineering Product Owner
-- Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
-- Danielle Thierry | danielle.thierry@va.gov - Content writer
 - Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us - Product manager
-- Nick Osmanski | nick.osmanski@va.gov / nick.osmanski@amida.com -- UX Design/Research
+- Alex Seelig | alexander.seelig@va.gov / alex.seelig@agile6.com - Product manager
+- Emily Brown | emily.brown8@va.gov / emily.brown@agile6.com - Delivery Lead
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us - Sr UX Design/Research
-- Lisa Zapson | lisa.zapson@va.gov / lisa.zapson@adhocteam.us - Frontend Engineer
-- Matt Long | matthew.long@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
+- David "DK" Kennedy | david.kennedy7@va.gov / david.kennedy@adhocteam.us - UX Design/Research
+- Katelyn Caillouet | katelyn.caillouet@va.gov / katelyn.caillouet@agile6.com - UX Design/Research
+- Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com - UX Design/Research
+- Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
+- Matt Kerns | matthew.kerns@va.gov / matt.kerns@agile6.com - Frontend Engineer
+- Adrian de la Cruz | adrian.delacruzvelasco@va.gov / adrian.delacruz@agile6.com - Full Stack/Backend focus Engineer
+- Chapley Watson | chapley.watson@va.gov / chapley.watson@agile6.com - Full Stack Engineer
 - Lihan Li | han.li@va.gov / lihan@adhocteam.us - Backend Engineer
+- Joshua Drumm | joshua.drumm@va.gov / joshua.drumm@agile6.com - Full Stack/Backend focus Engineer
+- Luis Simauchi | luis.simauchi@va.gov / luis.simauchi@adhocteam.us - Sr Data Analyst
 
 ---
 
@@ -151,7 +153,7 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 #### User story validation
 - All team members are responsible for validation, but different team members will specialize in different areas.
 - For anything considered a "release" or significant change, the QA lead will be responsible for QA
-- Engineers will be responsible for ensuring and documenting in the ticket that all acceptance criteria are met
+- Engineers will be responsible for ensuring, and documenting in the ticket, that all acceptance criteria are met
 - Design is responsible for ensuring that design and content specifications are met
 - PM and PO will be responsible for end-to-end QA and communication to stakeholders
 
@@ -185,13 +187,17 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
-- Extra time? Explore the "Ready" column in ZenHub.
+- Extra time? Explore the "Ready to pickup" column on our [Team Board](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/board).
 
 ## VA relationships
 
-- Lauren Alexanderson | lauren.alexanderson@va.gov -- Health Tools Crew lead
-- Patrick Bateman | patrick.bateman@va.gov -- Product owner
-- Danielle Thierry | danielle.thierry@va.gov -- Content writer
+- Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
+- Patrick Bateman | patrick.bateman@va.gov - Product Owner
+- Kristen McConnell | kristen.mcconnell@va.gov - UX Lead
+- Katherine Lawyer | katherine.lawyer@va.gov - Product Owner
+- Mark Dewey | mark.dewey@va.gov - Engineering Product Owner
+- Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
+- Danielle Thierry | danielle.thierry@va.gov - Content writer
 
 **Caregiver Program Business Unit Team**
 - Matt Brown | Matthew.Brown4@va.gov  -- Assoc. Director (leads  the relationship between the program and VA.gov)
@@ -203,11 +209,10 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 - Thamaraiselvi (Tham) Kaliannan  | thamaraiselvi.kaliannan@va.gov -- PM, scheduling
 
 **CARMA team/MuleSoft.Salesforce team**
-- Thamaraiselvi (Tham) Kaliannan | THAMARAISELVI.KALIANNAN@va.gov - PM, scheduling
 - Paul Kuprionas | paul.kuprionas@va.gov - CARMA tech lead
 - Ramesh Dugar | ramesh.dugar@va.gov - CARMA engineer
 - David Wald | David.Wald@va.gov - testing/integration lead
-- Mili Riddout | mili.riddout@salesforce.com - 
+- Mili Riddout | mili.riddout@salesforce.com - CARMA point of contact
 
 ### Recurring stakeholder meetings
 

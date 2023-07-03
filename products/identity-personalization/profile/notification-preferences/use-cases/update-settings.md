@@ -1,6 +1,6 @@
 # Notification settings: User wants to update notification settings
 
-**Last updated: December 1, 2022**
+**Last updated: February 23, 2023**
 
 LOA3 users who sign in, go to the profile, and click into the notification settings page will be able to opt in or out of notifications available to them.
 
@@ -15,8 +15,8 @@ LOA3 users who sign in, go to the profile, and click into the notification setti
 * The form is an auto-save form, so it doesn’t have an update or cancel button
 * The [input message component](https://design.va.gov/components/form/input-message) displays a success or error message, depending on the outcome of the update
 * A loading indicator displays while the setting is updated
-*  [Desktop mockup](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/QbErwg1) 
-*  [Mobile mockup](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/xrJd48V) 
+* [Save state](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/4a8b4xJ)
+* [Error state](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/agYwb1P)
 
 
 ## Codes

@@ -2,22 +2,24 @@
 
 ## 1,000 foot view: Support the 2023 OCTO objectives
 
-In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year. The VA Notify team will primarily support the following objectives:
+In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year. The VA Notify team will support any objective that requires a notification, our primary focus is on the following objectives:
 
 - Enhance Veterans' personalized online experience
 - Integrate the health portal features into VA.gov
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/6372446cc08d209e625a399cfc945537d588cd78/products/va-notify/images/objectives%202023.png)
 
 ## 500 foot view: VA Notify team goals 
 Our goals are tied to one or more of our themes:
 * Self Service / Governance
 * Quality / Personal Experience
 * Platform Capabilites
-* Performance, Monitoring & Security
+* Performance, Monitoring, Maintainability & Security
 
 ### Notify Team
 
 #### VEText SMS Migration - Twilio Provider Support
-##### Theme: Performance, Monitoring & Security, Platform Capabilities
+##### Theme: Performance, Monitoring, Maintainability & Security, Platform Capabilities
 ##### OCTO Objective(s): Enhance Veterans' personalized online experience; Integrate the health portal features into VA.gov
 
 VEText reaches millions of Veterans with pertinent health-related SMS notifications like appointment reminders, open appointment slot management, I am here, etc. VA Notify is working to support these existing notifications and will support multiple notification providers.
@@ -67,7 +69,7 @@ Uncertainty around the claims review process is a significant pain point for Vet
 VA Notify currently supports automated, individualized notification events. However, other use cases may be ad-hoc or one-time and should send to a defined list of recipients. VA Notify will  research these opportunities within the VA and build functionality to support these one-off notifications.
 
 #### Email Encryption
-##### Theme(s): Platform Capabilities, Quality / Personal Experience, Performance, Monitoring, & Security
+##### Theme(s): Platform Capabilities, Quality / Personal Experience, Performance, Monitoring, Maintainability & Security
 ##### OCTO Objective(s): Enhance Veterans' personalized online experience
 
 Some notification use cases include sensitive information like PII or PHI. We cannot send this through non-encrypted or non-authenticated channels like email or SMS. We will investigate options to address this problem so Veterans can get the information they need through a secure, digital solution. 
@@ -91,10 +93,6 @@ The need for CC/BCC functionality frequently surfaces when discussing potential 
 
 We know from our users that copying template content from our staging environment to our prod environment is a pain point.  Our goal is have users enter content and/or make changes to content in staging then promote that template to production.  This feature will eliminate the pain point and give our team more governance over what gets launched into production and when. 
 
-#### Self Service UI Build Out
-##### Theme(s): Self Service / Governance
-
-We plan to build out our UI to make it more robust so our users, both new and existing, have what they need have what they need to optimize onboarding and using our platform
 
 #### Personilized Dashboard 
 ##### Theme(s): Self Service / Governance
@@ -125,7 +123,7 @@ As we wrap up the Twilio status integration work, we have some room to re-engage
 
 **Expected launch date**: July 2023
 
-#### Performance, Monitoring and Security 
+#### Performance, Monitoring, Maintainability and Security 
 To keep our platform performing at its best, we plan to execute the following:
 * Platform Upgrades (Flask, Celery, etc.)
 * Adding enhanced Datadog Monitoring
@@ -140,6 +138,11 @@ Streamlining the currently cumbersome process of launching notifications from st
 
 **Expected launch date**: March/April 2023
 
+#### Developer Resources (MVP) - SSUI
+To reduce the development time needed to integrate with VA Notify, we want to make sure developers can easily access all the information they need from within the Self-Service Portal.  A ‘Developer’ tab will include three sections: Technical Documentation, API Documentation, and Technical Contacts. ‘Technical Documentation’ informs developers about VA Notify architecture and the services we offer.  ‘API Documentation’ using Swagger helps developers understand the endpoints, methods, parameters, and responses of our API more effectively with interactive documentation. Additionally, ‘Technical Contacts’ lists VA Notify team member names and emails so developers can reach out if they have any questions.
+
+**Expected launch date**: Febuary 2023
+
 #### Service Management  - SSUI 
 As VA Notify continues to onboard business lines and notification suites are expanded, it is crucial business lines are able and empowered to manage their own notification services, lest VA Notify end up a support team. Functionality such as copying service details to a clipboard, modifying permitted notification types, inviting and managing users, and managing notifications not only reduces onboarding time, it facilitates the continued evaluation and maintenance of notifications.
 
@@ -147,13 +150,15 @@ As VA Notify continues to onboard business lines and notification suites are exp
 
 #### VA.gov Forms
 * 22-5490 Education Benefit Application
-* 22-1990 (Application for VA Education Benefits)
-* 22-10203 (Application for Edith Nourse Rogers STEM Scholarship)
-* 22-5495 (Dependents’ Request for Change of Program or Place of Training)
-* 22-1995 (Request for Change of Program or Place of Training)
-* 22-0994 (Application for Veteran Employment Through Technology Education Courses (VET TEC).
 
-**Expected launch date** Depends on Content Approval
+**Expected launch date**: February 2023
+
+* 22-1990 (Application for VA Education Benefits)
+
+**Expected launch date**: March 2023
+
+
+
 
 ## The rest of the year
 
@@ -180,7 +185,7 @@ We are working with eBenefits, VADIR, and EVSS to migrate their early comm notif
 
 **Expected launch date**: May 2023
 
-#### Performance, Monitoring and Security
+#### Performance, Monitoring, Maintainability and Security
 To keep our platform performing at its best, we plan to execute the following:
 * Performance Testing
 * Continued implementation of Notification Microservices
@@ -189,6 +194,23 @@ To keep our platform performing at its best, we plan to execute the following:
 **Expected launch date**: June 2023
 
 ### Strike Team
+
+#### VA.gov Forms
+* 22-5495 (Dependents’ Request for Change of Program or Place of Training)
+
+**Expected launch date**: April 2023
+
+* 22-1995 (Request for Change of Program or Place of Training)
+
+**Expected launch date**: April 2023
+
+* 22-0994 (Application for Veteran Employment Through Technology Education Courses (VET TEC).
+
+**Expected launch date**: May 2023
+
+* 22-10203 (Application for Edith Nourse Rogers STEM Scholarship)
+
+**Expected launch date**: March 2023 (This one may be more complicated because it already has a notification)
 
 #### User Roles - SSUI
 Defining permission-based roles within the Self-Service Portal helps business lines maintain higher security practices in line with VA standards when establishing and maintaining teams, especially when team members can turn over frequently.  Business lines will be able to define who within their team can create and edit notifications, customize service details, and publish notifications from staging to production. 

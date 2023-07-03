@@ -69,19 +69,24 @@ List & link to the slack channels you use when you have them.
 
 ### Team Members
 OCTO-DE/DEPO:
-- Shane Elliott
+* Shane Elliott
+
 Project Management:
-- Adrian Carroll (Coforma)
+* Adrian Carroll (Coforma)
+
 Product Management:
-- Laureen Kattan (Coforma)
+ * Laureen Kattan (Coforma)
+
 Design & Research:
-- Carolyn Williams (Coforma)
+* Scott Postma (Coforma)
+
 Engineering:
-- Talia Hicks, Technical Lead (Coforma)
-- Autumn Summers (Coforma)
-- Michael Scott (Coforma)
-- Dale Durham (Coforma)
-- Pratap Singh (Coforma)
+* Talia Hicks, Technical Lead (Coforma)
+* Michael Scott (Coforma)
+* Dale Durham (Coforma)
+
+QA:
+* Pratap Singh (Coforma)
 
 ### What We're Working On
 •	Improving tool’s design via ongoing usability research 
@@ -106,4 +111,4 @@ VA Business Owners:
 
  
 ## Team Repo
-
+[CPM Repo](https://github.com/department-of-veterans-affairs/covid-patient-manager)

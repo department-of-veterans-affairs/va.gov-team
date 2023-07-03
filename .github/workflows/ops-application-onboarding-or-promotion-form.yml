@@ -38,25 +38,25 @@ jobs:
         id: get_app_name
         run: |
           application_name=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.appname')
-          echo "::set-output name=application_name::$(echo ${application_name})"
+          echo "application_name=$(echo ${application_name})" >> $GITHUB_OUTPUT
 
       - name: Capture environment
         id: get_app_environment
         run: |
           application_environment=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.environment')
-          echo "::set-output name=application_environment::$(echo ${application_environment})"
+          echo "application_environment=$(echo ${application_environment})" >> $GITHUB_OUTPUT
   
       - name: Capture maintainer
         id: get_maintainer
         run: |
           maintainer_github_user=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.maintainer')
-          echo "::set-output name=maintainer_github_user::$(echo ${maintainer_github_user})"
+          echo "maintainer_github_user=$(echo ${maintainer_github_user})" >> $GITHUB_OUTPUT
       
       - name: Capture task
         id: get_task
         run: |
           if [ "${{ steps.get_app_environment.outputs.application_environment }}" == "dev" ]; then task=onboarding; else task=promoting; fi
-          echo "::set-output name=task::$(echo ${task})"
+          echo "task=$(echo ${task})" >> $GITHUB_OUTPUT
 
   call-automation-onboard-or-promote-workflow:
     needs: onboard-or-promote

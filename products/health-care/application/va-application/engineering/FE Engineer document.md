@@ -52,7 +52,7 @@ We have a feature toggle for multiple address field, `multiple_address_10_10ez`,
 ### How to test new features?
 
 Each feature should have unit tests and e2e tests. We can use the Review Instances to review before merging a PR.
-Engage Joshua Faulkner/Enrollment System team for testing new features before going live.  Our staging is connected to the ES pre-prod environment.
+Engage Joshua Faulkner/Enrollment System team for testing new features before going live.  Our staging is connected to the ES SQL environment.
 
 ### 10-10EZ Schema information
 

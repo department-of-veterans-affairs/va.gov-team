@@ -21,21 +21,25 @@ Mural Board: https://app.mural.co/t/departmentofveteransaffairs9999/m/department
 
 ### Team Members
 OCTO-DE/DEPO:
-- Shane Elliot (VA OCTO-DE Lead)
+- Shane Elliot (Business Owner at CDS Program Level)
+- Peter Koutsovitis (Business Owner at CDS Apps Level)
 
 Project Management:
-- Adrian Carroll (Coforma)
+- Adrian Carroll
  
 Product Management:
-- Malak Janus, née Melissa Adamaitis (Coforma)
+- Maurice Debeary
 
 Design & Research:
-- Sierra Nelmes (Coforma) 
+- Sierra Nelmes (Research)
+- Julie Kim (Design)
 
 Engineering:
-- Vaibhav Paneri (Coforma)
-- Autumn Summers (Coforma)
-- Dale Durham (Coforma)
+- Autumn Summers (Tech Lead)
+- Vaibhav Paneri
+- Angela Hsu
+- Dale Durham
+- Pratap Singh (QA)
 
 ### What We're Working On
 
@@ -46,7 +50,7 @@ Precision Oncology completed its early discovery phase (including stakeholder in
 
 ### Who We Work With
 VA Business Owners:
-- Dr. Sara Ahmed (Director of Precision Oncology) 
+- Dr. Christine Serway (Precision Oncology Program Manager)
 - Dr. Michael Kelly (Portland VAMC) 
 - Dr. Kerry Rowe (Health Science Officer, National Oncology Program)
 - Dr. Wang-rodriguez (Director of Lab & Pathology)

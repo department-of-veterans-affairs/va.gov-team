@@ -1,3 +1,17 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
+
+
+
 # Frontend Unit Testing
 
 A unit test is a test that validates the behavior of a single unit of logic disconnected from all other units of logic. All FE apps on VA.gov should have unit tests (VSP's unit testing guidance is that tests cover at least 75% of code paths).

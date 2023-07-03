@@ -1,10 +1,10 @@
-# Product outline: On-site Notifications (ie. personalized notifications that show on VA.gov)
+# Product outline: Onsite Notifications (ie. personalized notifications that show on VA.gov)
 
-**Last updated: February 13, 2023 -- added link to "adding a new notification" doc**
+**Last updated: May 31, 2023 -- added link to security documentation**
 
 ### Communications
 
-- **GitHub Label**: vsa-authenticated-exp; notifications
+- **GitHub Label**: vsa-authenticated-exp; onsite-notifications
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
 
 ### Roles
@@ -18,6 +18,7 @@
 |Berni Xiong| Delivery Manager | berni.xiong@agile6.com |
 |Angela Agosto |Designer| angela.agosto@adhocteam.us |
 |Allison Lu| FE Engineer|	allison@cityfriends.tech |
+|Derrick Ellerbie| Full Stack Engineer | Derrick.ellerbie@Agile6.com|
 
 
 #### Partners
@@ -36,6 +37,7 @@
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
 - [Projects](#projects)
+- [Security](#security)
 - [Backend](#backend)
 - [Frontend](#frontend)
 - [Design](#design)
@@ -98,24 +100,30 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 |Project| Launch date|
 |-------|------------|
-|[Onsite notifications V2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/notifications-v2#readme)|In development|
+| Notification center MVP | In development |
+|[Notification center discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery)| Discovery work complete Spring 2023|
+|[Update design system component build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/README.md) | In development  |
+|[Onsite notifications v2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications#initiative-outline-scaling-onsite-notifications)|In development|
 |[Onsite notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp)| Launch completed October 24, 2022|
+
+## Security
+[Onsite Notifications Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/mvp/launch-materials/onsite-notifications-security-playbook.md)
 
 ## Backend
 
 ### How it works
 
-We receive on-site notifications from [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/partner-services-upstream-services). For the MVP, the system works as follows:
+We receive on-site notifications from [VA Notify](https://depo-platform-documentation.scrollhelp.site/developer-docs/partner-services-upstream-services). For the MVP, the system works as follows:
 
 - The debt management center backend (DMC) will add debts for a given set of users. Those debts will show up in the debt tool in VA.gov.
-- Once a day, the DMC backend will send a batch request to VANotify to send out notifications to folks alerting them that they have a new debt.
-- VANotify will then send out notifications:
+- Once a day, the DMC backend will send a batch request to VA Notify to send out notifications to folks alerting them that they have a new debt.
+- VA Notify will then send out notifications:
   - An email notification (this existed prior to the on-site notification MVP and was an entirely separate effort).
   - A notification that shows on someone's My VA personalized dashboard if they are logged in and identity-verified (LOA3) on VA.gov.
-  - Users receive notifications based on their preferences. Email notifications can be turned off; on-site notifications can not. 
-- If VANotify determines it should send the "you have a new debt" notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us to show the "you have a new debt" notification and to whom.
+  - Users receive notifications based on their preferences. Email notifications can be turned off; _on-site notifications can not_. 
+- If VA Notify determines it should send the "you have a new debt" notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us (My VA) to show the "you have a new debt" notification and to whom.
 
-[Additional technical documentation from VANotify on how the on-site notification functionality works on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/onsite-notifications/README.md#workflow-overview)
+[Additional technical documentation from VA Notify on how the on-site notification functionality works on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/onsite-notifications/README.md#workflow-overview)
 
 See [Onsite Notification Technical Overview](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/onsite_notifications/technical-overview.md) for more detailed technical workflows and explanations about the solution.
 
@@ -129,9 +137,9 @@ Currently, there is only one notification to test (2022). In the future, there m
 
 ### Overview
 
-- The frontend connects to VANotify via an API we set up.
-- Currently, the frontend code stores the content for on-site notifications. This may be stored by VANotify some time in the future, but not for the MVP.
-- If VANotify determines it should send a notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us to show which notification and to whom.
+- The frontend connects to VA Notify via an API we set up.
+- Currently, the frontend code stores the content for on-site notifications. This may be stored by VA Notify some time in the future, but not for the MVP.
+- If VA Notify determines it should send a notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us to show which notification and to whom.
 
 ### When are the notifications fetched from the server?
 

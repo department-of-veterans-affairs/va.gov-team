@@ -7,7 +7,7 @@
 5. **If this is a child page,** confirm that the section listed in "Section settings" of the Drupal file is the same as the section listed for the parent page.
 6. Change the file from "Draft" to "Published" and select **Save**.
 
-**Note:** Adding a Drupal page to the left nav can only be done when changing the current state of the Drupal page from "Draft" to "Published."
+**Note:** Adding a Drupal page to the left nav can only be done when changing the current state of the Drupal page from "Draft" to "Published." If you change the left nav before publishing the page it will create a broken link on the nav. 
 
 ## How to add a resources and support page to the left nav
 1. Select the **Menus** button in Drupal.

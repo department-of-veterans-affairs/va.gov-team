@@ -33,7 +33,7 @@ We talked to **6 participants**:
 
 ### What We Did
 
-We asked people their thoughts and expectations around [this screen](https://adhoc.invisionapp.com/share/P2GB6ZNYTWE#/screens/284508531) from Mel's blue-sky prototype:
+We asked people their thoughts and expectations around [this screen](https://vsateams.invisionapp.com/console/share/X3WBOA3QSWR) from Mel's blue-sky prototype:
 
 !["What are you interested in?_Concept 1](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Recommendations/Discovery/Sketches/%22What%20are%20you%20interested%20in%3F_Concept%201.png)
 

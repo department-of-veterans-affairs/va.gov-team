@@ -1,0 +1,51 @@
+Discovery for Labs and Tests#3427
+7/2022
+Overview
+I as a Veteran want to be able to view my VA lab results and test results via my mobile device. This will likely need to occur via downloading a PDF but I believe there may be an API that would return info as structured data. Entire scope of lab and test results likely encompasses a view/download/share/search/notifications when they are available. v0 will likely be with view if possible, download if not.
+
+Background - what it is and why, high level use cases for Veterans, who is it for?
+
+Feature on MHV, part of Blue Button. Screenshots of web experience here (if there is no link here reach out to Jayson Perkins).
+Current experience allows a Veteran to view or download PDF of their lab and test results
+Product definition should be fairly straightforward, some parity with web experience, though technical implementation may still be wonky
+Main difference would be if we can let users view their results without downloading a PDF, depends on backend constraints
+APIs in place in vets-api today, though current state unknown
+There might be APIs in Lighthouse that we may choose to use?
+Existing experience pain points/product opportunities
+
+Only available via PDF
+Can’t filter/search
+I don’t know when my labs and tests results are available
+For this ticket we would want to:
+
+investigate existing APIs (MHV and Lighthouse)
+Determine ability to show data without generating a PDF
+Add additional concerns that come from this research
+
+
+
+
+Discovery Notes 7/2022
+As mentioned in the ticket description, there are two options:
+
+MHV Blue button
+Currently implemented in vets-api: app/controllers/v0/health_record_contents_controller.rb
+uses mhv endpoint mhv-api/patient/v1/bluebutton/bbreport/{doc_type}
+Can get pdf or text version of report but does not break down into json or any parsable format. Text would not be reliable enough to parse.
+Would be easy to create mobile endpoint from existing vet-api endpoint.
+Lighthouse health api
+Partially implemented in vets-api: lib/lighthouse/veterans_health/client.rb
+Only implements a subset of the available lighthouse endpoints but would be a great reference to built out our own.
+I confirmed that it is a working client. I was able to get a connection in Vets-api but the couple test users I tried didn't have any data to show.
+uses FHIR lighthouse api: https://sandbox-api.va.gov/services/fhir/v0/r4/
+Returns json format data of lab results. Requires multiple calls to get full report data. EX: to get Call the diagnosticReport endpoint to get the report itself, but to get specific results from tests within the report, you need to call the Observation endpoint for each test.
+Lighthouse Documentation: https://developer.va.gov/explore/health/docs/fhir
+Does not offer pdf report
+General Notes:
+
+both APIs are FHIR so I am assuming they come from the same dataset.
+we could potentially use both apis if we wanted the app to break down the data itself and have a download pdf option
+Concerns:
+
+Since the test users I tried on Lighthouse API didn't have any test data show for the small subset of endpoints already implemented in vets-api, part of implementation will need to figure out how to get test data added.
+there is a lot of endpoints on the Lighthouse API, showing all the relevant data on one screen will be expensive, if it proves to be too expensive, we may need to break it down into different pages. EX: conditions pages, allergies page, labs page.

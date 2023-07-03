@@ -1,6 +1,6 @@
 # Project outline: Migrate direct deposit for comp & pen from EVSS > Lighthouse
 
-**Last Updated: February 7, 2023**
+**Last Updated: June 29, 2023**
 
 ### Communications
 
@@ -15,7 +15,11 @@
 
 |Name|Role|Email|
 |----|----|-----|
-|Nichole Harris|Lighthouse PM|harris_nichole@bah.com or Nichole.Harris@va.gov|
+|Lee Helmer| Lead on the entire EVSS > Lighthouse effort| lee.helmer@adhocteam.us|
+|Lorri Glover | Involved with the direct deposit migration|glover_Lorri@bah.com|
+|Greg Feliberty |Involved with the direct deposit migration|feliberty_gregory@bah.com|
+|Andrew Ramos | Involved with the direct deposit migration| ramos_andrew@bah.com|
+|Dana Harris | Involved with the direct deposit migration|dana.harris@adhocteam.us|
 
 ### Table of Contents
 
@@ -24,8 +28,9 @@
 - [Goals](#goals)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
-- [Solution Approach](#solution-approach)
 - [Measuring Success](#measuring-success)
+- [Key deliverables](#key-deliverables)
+- [Key dates](#key-dates)
 - [Backend](#backend)
 
 ## Overview
@@ -62,32 +67,43 @@ As a person that receives payments from VA, I want to be able to easily view and
 
 - There are disruptions or issues as a result of the migration from EVSS > Lighthouse.
 
-## Solution approach
+## Measuring success
 
-**Anticipated launch date**: tbd
+**Objective 1: Improve save success rates by migrating to Lighthouse**.
 
-### Key dates
+[Profile - Form Submit - CNP Direct Deposit Information](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20230601&_u.date01=20230628&explorer-table.plotKeys=%5B%5D&explorer-table.filter=%5EProfile%20-%20Form%20Submit%20-%20(direct-deposit-information%7CDirect%20Deposit%20Information%7CCNP%20Direct%20Deposit%20Information)&explorer-segmentExplorer.segmentId=analytics.eventAction/)
+
+|Save success rate 1 month pre-launch [6/1/2023-6/28/2023]|Save success rate 1 month post-launch to 100% of users [dates]|Save success rate 2 months post-launch to 100% of users [dates]|
+|------|------|-----|
+|18,397|TBD|TBD|
+
+## Key deliverables
+
+|Deliverable|Date completed|
+|-----------|--------------|
+|[Project epic: #51900](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/51900)| N/A|
+|[QA Testing](https://docs.google.com/spreadsheets/d/1xflLNJhUSVslzLbVQtMkYkzsBGAhIccnmYW0GL_Ihd0/edit#gid=0)| TBD|
+|UAT results|TBD|
+|[Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/direct-deposit-release-plan.md)|TBD|
+
+## Key dates
 
 - Early 2022: Support Lighthouse's discovery
 - December 2022: Lighthouse is ready for us to begin integration
 - January 2023: Profile team begins discovery
 - February 2023: Backend migration
-
-## Measuring success
-
-**Objective 1: Improve save success rates by migrating to Lighthouse**.
-
-|Save success rate 1 month pre-launch [dates]|Save success rate 1 month post-launch to 100% of users [dates]|Save success rate 2 months post-launch to 100% of users [dates]|
-|------|------|-----|
-|TBD|TBD|TBD|
+- March 2023: Backend migration continues; FE + BE updates; QA planning
+- April 2023: QA & Pre-launch activities
+- May 2023: On hold while Samara is on maternity leave
+- June 2023: On hold while Samara is on maternity leave
+- July 2023: Launch
 
 ## Backend
 
 - We need to request OAuth credentials to sandbox. We'll also need production credentials.
 
-### Key documentation
+### Documentation
 
-- [Project epic: #51900](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/51900)
 - [Developer.va.gov documents](https://developer.va.gov/explore/benefits/docs/direct-deposit-management?version=current)
 - [Request Sandbox Access](https://developer.va.gov/onboarding/request-sandbox-access)
 - [Max.gov API docs](https://community.max.gov/pages/viewpage.action?pageId=2286748585)

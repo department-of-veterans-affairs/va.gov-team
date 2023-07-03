@@ -8,6 +8,17 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 
 ## VistA Staging Appointment Tool (Only available to those with a GitHub account)
 
+### Test Patients to Use
+You can use one of the following test patients.
+| Last Name | Date of Birth |
+|----------------| ------------ |
+| Fortyfour | 04-07-1935	| 
+| Fortyfive | 04-07-1935	| 
+| Fortysix | 04-07-1935	| 
+| Fortyseven | 04-07-1935	| 
+| Fortyeight | 04-07-1935	| 
+| Fortyeight | 04-07-1935	| 
+
 ### Reset Your Confirmations
 - Navigate to the [Staging Tool](https://vigilant-couscous-ab7fb4a4.pages.github.io/)
   - NOTE: you will need to be on the VA network to access the tool
@@ -58,7 +69,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
     - Text "Check in" to 254-278-2622 (this is the phone number for Staging SMS)
     - Open the link that you copied after creating an appointment in the Staging tool
 - Enter the last name for your assigned test patient
-- Enter the last 4 digits of your assigned test patient's last name as the SSN (e.g. if last name is Thirty then the last 4 is 0030)
+- Enter the 2-digit month, 2-digit day, and 4-digit year of your assigned test patient's date of birth 
 - Click "Continue" or hit Enter
 - NOTE: If the status for Contact, Emergency Contact, and Next of Kin have been updated in the last 7 days (e.g. you have confirmed you information in a different  Pre-Check-in or Check-in), the following questions will not be asked; you can reset your Demographic information status's by using the Staging Tool in order to force the applications to again ask these questions outside of the 7-day period
 - Answer "Yes" to the "Current Contact Information?" questionv
@@ -73,7 +84,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
     - Open the link that was provided to you manually by a team member    
     - Open the link that you copied after creating an appointment in the Staging tool
 - Enter the last name for your assigned test patient
-- Enter the last 4 digits of your assigned test patient's last name as the SSN (e.g. if last name is Thirty then the last 4 is 0030)
+- Enter the 2-digit month, 2-digit day, and 4-digit year of your assigned test patient's date of birth 
 - Click "Continue" or hit Enter
 - Click "Answer Questions"
 - NOTE: If the status for Contact, Emergency Contact, and Next of Kin have been updated in the last 7 days (e.g. you have confirmed you information in a different  Pre-Check-in or Check-in), the following questions will not be asked; you can reset your Demographic information status's by using the Staging Tool in order to force the applications to again ask these questions outside of the 7-day period

@@ -2,6 +2,8 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sitewide Home Page team**
 
+# *THE MOST RECENT VERSION OF THESE TRENDS CAN BE FOUND IN THE [VA.GOV RESEARCH REPO](https://github.com/department-of-veterans-affairs/va.gov-research-repository/projects/1) UNDER THE COLUMN "TRENDS (BETA)"*
+
 Date: 09/29/2022 (updated 11/11/2022)
 
 Cindy Merrill [cindy.merrill@adhocteam.us]

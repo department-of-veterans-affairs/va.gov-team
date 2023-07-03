@@ -85,22 +85,15 @@ Last updated: July 11, 2022
 
 One thing that is a bit strange is that these toggle do not show up in the same order within the feature toggle ui on staging vs prod, so just be aware.
 
-- `profile_block_for_fiduciary_deceased_or_incompetent` - Added December 2022, and will be removed once analytics data is present and feature is deemed fully production ready. It gates the entire profile, so toggle deemed worth having as failsafe.
-- `profile_schema_forms` - No longer used in FE or API. Should be removed
-- `profile_show_receive_text_notifications` - ??? removed from features.yml, but still in UI
+- `profile_use_field_editing_page` - is in place for new editing experience for profile. Future work will use this toggle
 - `profile_user_claims` - still in use in BE. May be able to remove if decided that the feature is solid at this point.
 - `profile_email_specify_change` - in use for only specific users on prod
-- `profile_notification_settings` - ??? removed from features.yml, but still in UI
--  `profile_show_address_change_modal` - Added November of 2021, can be removed once reliant code is removed.
 - `profile_show_payments_notification_setting` - in use for only specific users on prod
-- `profile_show_bad_address_indicator` - ??? removed from features.yml, but still in UI
-- `profile_force_bad_address_indicator` - ??? removed from features.yml, but still in UI
 - `profile_get_military_info_from_vaprofile` - OFF IN PROD
 - `profile_hide_direct_deposit_comp_and_pen` - OFF IN PROD
 - `profile_show_appeal_status_notification_setting` - OFF IN PROD
-- `profile_show_appeal_status_notification_setting'` - this flag has a dangling ' at the end and the toggle was removed but is still showing up in the UI
 - `profile_show_military_academy_attendance` - OFF IN PROD
 - `profile_show_pronouns_and_sexual_orientation` - OFF IN PROD. These fields are not implemented in the BE and hadn't been approved, so are removed from showing in the FE
-- `profile_use_vafsc` - OFF IN PROD, experimental for using newest form system. Since the form system is currently no production ready this flag is turned off and work can resume when the form system is updated further.
+- `profile_use_vafsc` - OFF IN PROD, experimental for using newest form system. Since the form system is currently not production ready this flag is turned off and work can resume when the form system is updated further.
 - `profile_use_vaos_v2_api` - OFF IN PROD
 

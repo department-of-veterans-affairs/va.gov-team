@@ -1,5 +1,7 @@
 # PLATFORM COLLABORATION CYCLE PROCESS
 
+**DISCLAIMER: the Collab Cycle website is the source of truth for all steps; this summary may not necessarily be up to date with current Collab Cycle changes**
+
 This is a high-level summary of the Collaboration Cycle process. Please refer to the Platform's [documentation](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/) for guidance and follow the steps in the Collab Cycle Ticket created for the feature as part of Step 1.
 
 ## TABLE OF CONTENTS
@@ -30,7 +32,7 @@ This is a high-level summary of the Collaboration Cycle process. Please refer to
     - Analytics
     - Research
 - If requested artifacts are not available or relevant, we will explain that in the ticket
-- Any collab cycle or other tickets that are created should contain our team's HCE-Checkin GItHub label and be associated to the relevant Epic in our team's Product Backlog
+- Any collab cycle or feedback tickets that are created should contain our team's HCE-Checkin GItHub label and be associated to the relevant Epic in our team's Product Backlog
 
 ## DESIGN PHASE
 

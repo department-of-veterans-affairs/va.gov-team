@@ -2,7 +2,7 @@
 - GitHub Label: 1010-team
 - Slack channel: #1010-health-apps
 - VA.gov link: https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction
-- Product POCs: Heather Justice, Mark Fallows
+- Product POCs: Heather Justice
 ---
 
 ### Table of Contents
@@ -114,25 +114,34 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 - *Key result 1: Increase the number of successful online applications to the PCAFC*
    - As of 10/2022, we have seen a 7 month overall increasing trend of the number of applications started and subsequently submitted
 
-|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
-|-------|----|----|----|----|----|----|----|
-|10-10 CG|65.83%|66.01%	|70.23%	|67.06%	|67.88%	|72.64%| 79.26%|
+|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|Nov|Dec|Jan|Feb|Mar|
+|-------|----|----|----|----|----|----|----|----|----|----|----|----|
+|10-10 CG|65.83%|66.01%	|70.23%	|67.06%	|67.88%	|72.64%| 79.26%|71.97%|68.89%|67.23%|66.70%|66.63%|
 
 
-- *Key result 2: Increase % of caregivers who obtain approval for benefits* - **TBD from CG Team**
+- *Key result 2: Increase % of caregivers who obtain approval for benefits* -
+- **Data caveat**: Data pulled from the Caregiver Record Management Application (CARMA) provides a snapshot in time at the point the report was ran each month. 
+CARMA data is agile due to appeal outcomes, reinstatements, delayed data entry, and data corrections. Updated reports will result in updates to previously reported data points.
+
+|2023 Metric| Jan|Feb|Mar|Apr|May|
+|-------|----|----|----|----|----|
+|Apps Approved| 1,800|1,800|1850|1635|1550|
+|Online Apps Approved|1,200|1,140|1150|1010|945|
+|Apps Denied|8,000|7,000|7670|6630|7320|
+|Online Apps Denied|6,000|5,200|5600|4870|5325|
 
 #### Objective 2: Decrease time from submission to decision
 
 - *Key result 1: Increase number of application completions in a single session*
    - As of 10/2022, we have seen a 6-month increasing trend for the percentage of applications completed in a single session
 
-|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|
-|-------|----|----|----|----|----|----|----|
-|10-10 EZ - Average sessons to complete|	1.60|	1.56|	1.52|	1.44|	1.46|	1.63|1.41|
-|% of 1 session|	67.20%|	67.85%|	68.50%|	74.08%|	73.51%|	63.48%|76.50%|
-|% of 2 sessions|	19.67%|	21.13%|	20.65%|	18.02%|	18.57%|	23.35%|17.13%|
-|% of 3 sessions|	13.13%| 11.02%| 10.85%| 7.90% | 7.91% | 13.17%|6.37%|
-|Totals	|4,644	|4,423	|5,061	|4,620	|5,501	|6,767	|14,440|
+|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|Nov|Dec|Jan|Feb|Mar|
+|-------|----|----|----|----|----|----|----|----|----|----|----|----|
+|Average sessons to complete|	1.60|	1.56|	1.52|	1.44|	1.46|	1.63|1.41|1.44|1.41|1.41|1.42|TBD|
+|% of 1 session|	67.20%|	67.85%|	68.50%|	74.08%|	73.51%|	63.48%|76.50%|74.19%|74.87%|74.37%|74.92%|TBD|
+|% of 2 sessions|	19.67%|	21.13%|	20.65%|	18.02%|	18.57%|	23.35%|17.13%|18.76%|18.51%|18.90%|18.38%|TBD|
+|% of 3 sessions|	13.13%| 11.02%| 10.85%| 7.90% | 7.91% | 13.17%|6.37%|7.04%|6.62%|6.73%|TBD|6.70%|
+|Totals	|4,644	|4,423	|5,061	|4,620	|5,501	|6,767	|14,440|6,472|5,388|6,250|5,512|TBD|
 
 - *Key result 2: Decrease application processing time and follow-ups by customer support* - **TBD from CG Team**
 - *Key result 3: Decrease number of status update calls to customer support* - **TBD from CG Team**
@@ -184,6 +193,7 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 ## Resources and Documentation
 
 - Discovery and Research: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers
+- [Sketch file](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8) with wireflows and page designs (including proposals and experiments)
 
 ### Screenshots
 #### Before: 

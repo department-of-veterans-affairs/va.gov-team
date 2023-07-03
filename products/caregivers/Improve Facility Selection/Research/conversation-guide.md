@@ -1,10 +1,9 @@
 # [DRAFT] Conversation Guide: 10-10CG facility selection study, 1010 Team, February 2023
 
+**!This study will be combined with the overall usability study; refer to that Research Plan/Convo Guide - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/research/2023-04-Facilities%20and%20Overall%20Usability%20Research)**
 
+##
 
-## Part A - Usability Sessions
-
---
 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -12,17 +11,15 @@
 
 - Complete any project-specific setup tasks for this study (List them below)
 
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
-
+- [ ] Confirm additional notetakers and supply notes template and guidelines
+- [ ] If this is a session with a screen reader, confirm assistive tech support is available 
+- [ ] 
 
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
 Slack for real-time feedback from observers.
 - Mute your Slack notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-
 
 
 ### Starting the session
@@ -33,14 +30,14 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
+Thanks for joining us today! My name is [MODERATOR NAME] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about a part of the application for Family Caregiver Benefits.
+Today we're going to talk about one particular question that is on the application for Family Caregiver Benefits.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take less than 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
@@ -64,7 +61,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 **For Veterans:**
-
 - What kind of benefits or services do you use the VA for?
 - Do you have a preferred VA facility/location?
 - Do you currently have a caregiver? 
@@ -73,7 +69,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 **For Caregivers:**
-
 - Does the Veteran you are a caregiver for receive benefits and services from the VA?
 - Do you receive any benefits from the VA? 
     - Are you part of the Program of Comprehensive Assistance for Family Caregivers?
@@ -84,57 +79,27 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 
-For this study we are going to look at 3 different options for a question on the form and want your feedback on what option is the easiet for you to answer and understand the process with confidence.
-
-
-## Option A / First Task - 10 minutes
+## First Task - 10 minutes
 
 - You are completing the application for caregiver benefits and after you answer general background questions on the Veteran (like name and address) you arrive at this page. Please explain your thoughts and think-aloud as you complete the questions on this page.
 
-> Link for prototype A to share
+> Link for prototype 
 
 - How would you prefer to search for facilities?
 
 - Was anything on those pages unclear or you would like additional information on?
+
 - From this prototype, can you explain to me how your location choice is part of the caregiver application process?
- 
  
 - Let's imagine you want to change the location you have selected - you are moving soon - by doing a new search. Can you walk me through how you would accomplish that?
 
 
-### Things to watch for:
-- [Does the participant comment that they would need clarifying information to answer the question?]
-- [Does the participant search by zip code or state, do they use the city filter]
-
-
-## Option B / Second Task - 10 minutes
-
-- Again, you are completing the application for caregiver benefits and you arrive at this page in the applicaiton. Please explain your thoughts and think-aloud as you complete the questions on this page.
-
-> Link for prototype B to share
-
-
-- Was anything on those pages unclear or you would like additional information on?
-- From this prototype, can you explain to me how your location choice is part of the caregiver application process?  
-
-
 
 ### Things to watch for:
 - [Does the participant comment that they would need clarifying information to answer the question?]
-- [Does the participant search by zip code or state, do they use the city filter]
-- [Does the participant call out any comparisons or differences with prototype A?]
+- [Does the participant search by zip code, city or state]
 - [Does the particpant comment or react to the confirmation screen?]
-- [Does the confirmation screen add confusion for the participan?]
-
-
-
-
-
-## Option C / Third Task - 10 minutes
-
-- For our third option, you are completing the application for caregiver benefits and you arrive at this page in the applicaiton. Please explain your thoughts and think-aloud as you process the questions on this page.
-
-> Link for prototype C to share
+- [Does the confirmation screen add confusion for the participant?]
 
 
 
@@ -143,13 +108,12 @@ For this study we are going to look at 3 different options for a question on the
 
 ## Post task questions - 5 minutes
 
-Wonderful! I have a few questions about what you just saw in these three prototypes.
+Wonderful! I have a few questions about the site you just interacted with.
 
-- What did you think of the options overall?
 - Was there anything that stood out to you?
+- Did you feel the most confident in answering the questions with no additional clarification needed?
+- Do you need any clarifying informaiton about how the answer you provide will be used in the caregiver application process?
 
-- Which version made you feel the most confident in answering the questions with no additional clarification needed?
-- Which version made you feel the most confident that you understand how the answer you provide will be used in the caregiver application process?
 
 
  
@@ -167,63 +131,4 @@ Thank you so much again, and enjoy the rest of your day!
 
 
 
-## Part B: Survey
 
-Questions post content variations: 
-- 1. You feel confident in answering the questions with no additional clarification needed:
-Strongly disagree, disagree, neither, agree, strongly agree
-
-- 2. You feel confident that you understand how the answer you provide will be used in the caregiver application process:
-Strongly disagree, disagree, neither, agree, strongly agree
-
-
-### Content A
-#### Recent medical care
-Please enter the name of the medical facility where the Veteran last received medical treatment.
-Name of medical facility:
-Was this a hospital or clinic?
-
-#### VA health care services
-Please select the VA medical center or clinic where the Veteran receives or plans to receive health care services. (Required)
-A Caregiver Support Coordinator at this VA medical center will review your application.
-Search by state or postal code
-
-
-> Ask questions
-
-
-### Content B
-#### Recent medical care
-Please enter the name of the medical facility where the Veteran last received medical treatment.
-Name of medical facility:
-Was this a hospital or clinic?
-
-#### Choose a VA health facility for the application process
-Only some VA medical facilities provide a Caregiver Support Coordinator to process your application and be a point of contact for family-caregiving-related support and benefits.
-Please select the VA medical center or clinic that you would like to coordinate with during the application process.
-
-> Ask questions
-
-
-### Content C
-#### The Veteran’s health care facility
-Please select the VA medical center or clinic where the Veteran receives or plans to receive health care services. (Required)
-Note: Only some VA medical facilities process Caregiver applications. We use the Veteran’s health care facility to find the closest facility that processes Caregiver applications and that provides Caregiver support.
-Search by state or postal code
-
-#### Confirm your health care facilities
-The facility where the Veteran receives, or plans to receive treatment. [facility selected]
-The nearest Caregiver support facility. This facility has a Caregiver Support Coordinator on staff to process your application, and be a point of contact for family-caregiving-related support and benefits. [facility for application process]
-
-### END QUESTIONS:
-
-- Which option gives you the most confidence in answering and you can do so easily with no additional help? [A, B or C]
-
-- Which option gives you the most confidence in what happens next in the caregiver application process? [A, B or C]
-
-- What option would you prefer to answer if you were completing the caregiver application? [A, B or C]
-
-
-Optional open text fields: 
-- Additional feedback you would like to provide about any of the options presented: text field for each option
-- Overall additional comments

@@ -1,5 +1,15 @@
 # Team Development Processes
 
+- [Stand Up / Daily Scrum](stand-up-/-daily-scrum)
+- [Refinement](#refinement)
+- [Planning](#planning)
+- [Testing](#testing)
+- [Validating](#validating)
+- [Releasing](#releasing)  
+- [VSignals](#vsignals)
+- [Business Stakeholder Feedback](#business-stakeholder-feedback)
+- [Notifications of Releases and Updates to Planned Releases](#notifications-of-releases-and-updates-to-planned-releases)
+
 ## Stand Up / Daily Scrum
 - Team Member will
     - Raise your virtual hand when you enter Stand up and take it down after you have given your update
@@ -150,7 +160,7 @@
         - Provide a link to the prototype    
         - Answer questions & take feedback        
     
-## Notifications of Releases & Updates to Planned Releases
+## Notifications of Releases and Updates to Planned Releases
 - Notification message for updates to Planned Releases
     - "Modernized Check-in team has updated their Planned Releases. <include info for new/updated Planned Releases>" (include the link to the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md) page)
 - Notification message for production releases

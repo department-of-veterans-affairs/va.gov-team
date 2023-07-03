@@ -10,13 +10,13 @@
 
 ### Planning:
 - **UAT Go/No go**
-  - Completed mm/dd/yyyy
-  - UAT readiness ticket:[#51823](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51823)
+  - _Completed 03/29/2023_
+  - UAT readiness ticket: [#51823](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51823)
   - [UAT readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/my-va-audit-improvements-UAT-checklist.md)
 - **Desired date range or test duration:**
-     - Weeks of mm/dd - mm/dd
+     - Week of 4/3
 - **Desired number of users:** 
-     - Recruiting n participants with a target of completeing n sessions
+     - Recruiting 8 participants with a target of completing 6 sessions
 - **How you'll recruit the right production test users:** 
      - We will recruit users via Perigean. 
 - **How you'll conduct the testing:** 
@@ -24,71 +24,71 @@
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** 
      - The feature will be behind a feature flag. 
 - **Link to Research plan for UAT**: 
-   - LINK UAT plan
-   - LINK conversation guide
+   - [UAT plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/MyVA-audit-UAT-research-plan.md)
+   - [UAT Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/MyVA-audit-UAT-conversation-guide.md)
 
 ### Results:
 - **Number of users:**
-     - n scheduled, n completed 
+     - 9 scheduled, 6 completed 
 - **Number of bugs identified / fixed:**
-     - n
+     - 0
 - **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
-     - ...
+     - Update url for "Check your Post-9/11 GI Bill benefits" [56336](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56336)
 
 ## Phase II: Staged Rollout
 
 ### Planning
 **Launch Go/No-go:** 
-- Completed mm/dd/yyyy
+- _Completed 04/07/2023_
 - Launch go/no-go ticket: [#50650](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50650)
-- Launch readiness checklist **need link**
+- [Launch readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/launch-materials/my-va-audit-improvements-launch-readiness-checklist.md)
 
-**Desired date range:** mm/dd/yyyy - mm/dd/yyyy
+**Desired date range:** _04/10/2023 - 04/24/2023_
 
 **Phased rollout:** 
 |Launch % |Time Frame | Planned Date Range | Ticket | 
 |-------|-----------|-----------|------|
-| Launch to 25% | 1 week | week of mm/dd/yyyy | ticket |
-| Launch to 50% | 1 week | week of mm/dd/yyyy | ticket |
-| Launch to 100% | 1 week | week of mm/dd/yyyy | ticket |
+| Launch to 25% | 1 week | week of 04/10/2023 | [53976](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53976) |
+| Launch to 50% | 1 week | week of 04/17/2023 | [53977](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53977) |
+| Launch to 100% | 1 week | week of 04/24/2023 |[53978](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53978) |
 
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
-Success metrics link TK
+[Success metrics](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#measuring-success)
 
 ## Go Live!
 
 ### Planning:
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 25% | mm/dd/yyyy | _mm/dd/yyyy_ |
-| Launch to 50% | mm/dd/yyyy | _mm/dd/yyyy_|
-| Launch to 100% | mm/dd/yyyy | _1mm/dd/yyyy_ |
+| Launch to 25% | 04/10/2023 | _04/11/2023_ |
+| Launch to 50% | 04/17/2023 | _04/18/2023_|
+| Launch to 100% | 04/24/2023 | _04/25/2023_ |
 
  
 ### 1-week results (at 100%):
 - **Number of unique users :**
-     - ...
+     - 363,856
 - **Any issues with VA handling/processing?**
-     - ...
+     - No
 - **Types of errors logged:**
-     - ...
+     - None
 - **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
-     - ...
+     - No
 - **If yes, what:** 
-     - ...
+     - N/A
 
 ### 1-month results (at 100%):
 - **Number of unique users:**
-     - ...
+     - 1,015,954
 - **Any issues with VA handling/processing?**
-     - ...
+     - No
 - **Types of errors logged:**
-     - ...
+     - None
 - **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?**
-     - ...
+     - No
 - **If yes, what:** 
-     - ...
+     - N/A
 
 ## Post-launch Questions 
 

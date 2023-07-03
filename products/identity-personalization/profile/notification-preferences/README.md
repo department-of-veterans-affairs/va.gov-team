@@ -1,6 +1,6 @@
 # Product outline: Notification settings
 
-**Last Updated: December 16, 2022**
+**Last Updated: June 23, 2022**
 
 ## Table of Contents
 - [POCs](#pocs)
@@ -88,7 +88,8 @@ For previous OKRs/KPIs:
 
 |Projects|Launch date|
 |--------|-----------|
-|[MHV notification preferences migration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration#readme)|Ongoing|
+|[Notification Settings - Default Send Functionality](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/README.md)|April 2023 - TBD|
+|[MHV notification preferences migration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration#readme); Component of the MHV preference migration: [Initiative Brief - Permission to Include PHI and PII in Appointment Reminders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/appointmentReminderPHIandPII/initiative-brief-appointmentReminderPHIandPII.md) |TBD|
 |[MHV profile research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research#readme)| April 2022|
 |[Notification settings MVP project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/product/mvp-project-outline.md)| Nov 2021|
 

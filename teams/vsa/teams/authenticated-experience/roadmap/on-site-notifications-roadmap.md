@@ -1,18 +1,20 @@
 # On-site notifications roadmap
 
-**Last updated: January 23, 2023**
+**Last updated: March 21, 2023**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
-|On-site notifications V2| Scoping|
+|[Update design component](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/update-design-system-component)| Discovery|
+|[Notification center discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery)|Research|
 
 ### Projected timelines for current projects
 
-|Project|Q1 2023|Q2 2023|Q3 2023|Q4 2023|
+|Project|CYQ1 2023|CYQ2 2023|CYQ3 2023|CYQ4 2023|
 |----|----|----|----|----|
-|**On-site notifications: V2 -- scale notifications**| Scope project; V2 phase 1 | V2 phase 2 | Notification center? | TBD |
+|**Update design component**|Discovery|Implentation; Launch| | |
+|**Notification center discovery**|Research planning |Stakeholder interviews; Determine next steps | | |
 
 ## Completed projects
 
@@ -25,7 +27,6 @@
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
-|Quick Submit|VANotify| Sept 30, 2022| Bev mentioned that the Quick Submit team is adding a notification for when there is a new message for users to read, and that this might be a good candidate for on-site notifications.|
 
 ## Ideas from our team
 

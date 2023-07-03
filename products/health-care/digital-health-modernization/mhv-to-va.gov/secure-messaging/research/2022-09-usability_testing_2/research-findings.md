@@ -159,7 +159,7 @@ _"I'm not seeing that as an option. To save."_
 
 Labels: PRDT: health-care-apartment, RESRCH: Usability
 
-1. **Many participants did not know which folder they searched in.**
+2. **Many participants did not know which folder they searched in.**
 
 **8 of 17 participants did not know which folder they searched in despite the folder name being under the "Search Results" header.** Three participants were confused when the moderator asked them about the folder searched and one did not know that folders were a feature. Three participants stated that they had not searched in a specific folder. One participant attempted to answer the question based on what they saw on the screen saying, "the first one…newest to oldest," which referred to the 'sort' dropdown feature. Another guessed "lab results" based on the context of the message preview.
 
@@ -169,7 +169,7 @@ Labels: PRDT: health-care-apartment, RESRCH: Usability
 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging, RESRCH: Usability
 
-1. **Many participants expected the system to search within message attachments and threads.**
+3. **Many participants expected the system to search within message attachments and threads.**
 
 **8 of 17 participants expected the system to search in the body and/or the attachments of messages.** Three of those eight participants had referred to Secure Messaging as 'email' or drew comparisons to email platforms in previous tasks, while two directly referenced email when explaining their expectations.
 
@@ -177,7 +177,7 @@ Labels: PRDT: health-care-apartment, MHV: Secure Messaging, RESRCH: Usability
 
 Labels: PRDT: health-care-apartment, RESRCH: Usability
 
-1. **Further research is needed on the Patient Safety warnings.**
+4. **Further research is needed on the Patient Safety warnings.**
 
 **The data collection method**  **in which**  **participants**  **were asked**  **to**  **identify which parts of**  **the**  **page were important**  **is unreliable****.**17 of 17 participants remained silent for at least 4 seconds after the "Compose Message" screen appeared. The median lag time among the participants was 9 seconds, with 8 of 17 participants waiting 10 seconds or more before speaking. It's unclear if what they articulated represented what they saw during this lag time. Without eye tracking software, we cannot be confident in the data we collected. Because the content in this notice was originally in response to patient safety risk, we suggest continuing this research effort further.
 
@@ -209,7 +209,7 @@ Even though the patient safety notice fills most of the screen on mobile devices
 
 Labels: PRDT: health-care-apartment, RESRCH: Usability, SPG: Suicide
 
-1. **Most participants used their mental model of email to understand the product.**
+5. **Most participants used their mental model of email to understand the product.**
 
 **9 of 17 participants referred to Secure Messaging as email or made comparisons with how their email services function.** Six of the nine drew comparisons with their current email server when sharing their expectations of Secure Messaging's features and functionality. Three participants specifically referred to Secure Messages as emails.
 
@@ -219,25 +219,25 @@ _"It looks like it's some type of email."_
 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging, RESRCH: Usability
 
-1. **All participants understood the concept of message threads.**
+6. **All participants understood the concept of message threads.**
 
 **17 of 17 participants understood that a conversation could contain multiple messages.** Various terminology was used including, "back-and-forth," "chain," "thread," and "conversation."
 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging, RESRCH: Usability
 
-1. **Most participants could differentiate between read and unread messages.**
+7. **Most participants could differentiate between read and unread messages.**
 
 **16 of 17 participants could identify messages that were unread based on the font weight and dot icon next to the sender's name.** The remaining participant wasable to infer the difference between read and unread after 'reading' one message and noticing that the blue dot disappeared after closing it.
 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging, RESRCH: Usability
 
-1. **All participants successfully replied to a message, attached and detached a file, and most understood how to delete a draft.**
+8. **All participants successfully replied to a message, attached and detached a file, and most understood how to delete a draft.**
 
 **17 of 17 participants successfully replied to a message, attached and removed a file, and 16 of 17 participants understood how to delete a draft.** The average time on task for replying to a message was 3 seconds, with a mean time of 2 seconds. For attaching a document, the average and median time on task were both 5 seconds. Removing a document was completed by all participants in under one second and the average time to select the "Discard draft" button was 1.7 seconds with a median of 0.5 seconds. Most participants (15 of 17) rated the difficulty these tasks as "easy" or "very easy."
 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging, RESRCH: Usability
 
-1. **Most participants were successful in managing folders.**
+9. *Most participants were successful in managing folders.**
 
 **16 of 17 participants successfully created a folder, changed a folder name, and deleted a folder without assistance.** The task of creating a folder included locating the "My folders" link in the left navigation bar on desktop, and within the secondary "In the messages section" navigation menu on mobile. The time on task for creating the folder and returning to the "My folders" screen took an average of 16.1 seconds with a median time of 10.5 seconds. Editing a folder took an average of 13.3 seconds with a median of 14 seconds. The time on task for deleting a folder was an average of 7.3 seconds with a median of 5.5 seconds.
 
@@ -249,7 +249,7 @@ _"That's cool! I like that feature!  That's cool!"_
 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging, RESRCH: Usability
 
-1. **Additional testing is required to assess the usability of the search function.**
+10. **Additional testing is required to assess the usability of the search function.**
 
 **15 of 17 participants were successful in finding the message described in the task without assistance, but it is unclear if this task would be as successful on a staging platform or the live site.** If a participant clicked on the search box, the prototype instantly populated the field with "test results," and the desired message appeared in the list of search results. Sketch's prototyping tools do not allow for text entry which would allow the participant to click into the field without it automatically presenting the results.
 
@@ -265,23 +265,23 @@ Labels: PRDT: health-care-apartment, MHV: Secure Messaging, RESRCH: Usability
 
 **7 of 17 participants used the "reply" button in the toolbar above the message,** as opposed to the larger reply button below the message **.** Three of those participants were using mobile devices.
 
-1. **Some participants used breadcrumbs to navigate.**
+2. **Some participants used breadcrumbs to navigate.**
 
 **6 of 17 participants navigated to the Inbox and/or the My folders pages using breadcrumbs.** There doesn't appear to be any specific patterns about the participants, but it should be noted that 3 of 6 were 65 years of age or older, and 3 of 6 participants were using mobile devices.
 
-1. **Some participants attempted to right-click to complete tasks.**
+3. **Some participants attempted to right-click to complete tasks.**
 
 **5 of 17 participants attempted to use the context menu that conventionally appears with a right click at some point during the tasks.** This was most common in the folders task in which the participants were charged with deleting a folder. One participant attempted to use the swipe action on their iPhone to delete.
 
-1. **Some participants referred to their Medical Records during the usability test.**
+4. **Some participants referred to their Medical Records during the usability test.**
 
 **5 of 17 participants mentioned their medical records during a task.** During the first task, in which they were asked to communicate their expectations upon opening a message, three participants cited the attachment of 'test results' would also be found in their medical records. During the finding a message task, two other participants assumed that the system would search for the key words in their medical records. One of those participants also stated that each secure message they send becomes part of their medical records, which is generally untrue, though it is possible.
 
-1. **Two participants requested an "urgent" flag when sending Secure Messages.**
+5. **Two participants requested an "urgent" flag when sending Secure Messages.**
 
 2 of 17 participants requested a category option of "urgent," similar to the "high importance" flag in Outlook, to receive a quicker response to their messages.
 
-1. **Age was not a significant factor in the participants' ability to successfully perform the tasks.**
+6. **Age was not a significant factor in the participants' ability to successfully perform the tasks.**
 
 6 of 17 participants were 65 years of age or older. The task success rate among this group was on par with that of those 64 and younger. The only noticeable difference was the time on task recorded for the folder management tasks. It took the 65+ group an average of 17 seconds longer to create a folder, 7 seconds longer to edit a folder name, and 5.6 seconds longer to delete a folder. Conversely, these participants completed the delete draft task 1.4 seconds faster on average than the younger group.
 

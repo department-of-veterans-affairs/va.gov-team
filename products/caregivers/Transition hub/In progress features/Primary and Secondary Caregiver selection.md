@@ -23,6 +23,8 @@
 ## Feature background
 User story: As a Veteran and Caregiver/s applying for PCAFC, I want to be clear about the difference between a Primary and Secondary Caregiver. I want to know if there are different requirements and what benefits each one receives in order to apply for the correct one.
 
+Past research on the Legal Representative work indicated that a "choose your own adventure" option might work for this form, since there are a few scenarios that might bring someone here (new applicant, adding a Caregiver, replacing a Caregiver).  There has been some initial technical discovery done for this, but we have not officially started on this work.
+
 
 
 ## UX research 

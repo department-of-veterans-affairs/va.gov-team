@@ -1,6 +1,6 @@
 # Direct deposit: LOA3 ID.me or Login.gov user does not receive compensation, pension, or education payments.
 
-**Last update: June 22, 2022**
+**Last update: March 9, 2023 -- Adding users**
 
 If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, navigates to the direct deposit page, and we don't detect that they're receiving any kind of payments, they'll see messaging in both the comp + pen and education sections telling them we don't detect they're receiving payments.
 
@@ -13,5 +13,5 @@ If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, naviga
 TBD
 
 ## How to reproduce
-1. Log in with user vets.gov.user+175
+1. Log in with user 10, 175, 204, 228 (there are likely many others)
 2. Navigate to Profile > Direct deposit

@@ -4,6 +4,8 @@
 April 2022: Public Websites products are currently maintained by the [Sitewide Public Websites team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/sitewide/public-websites). 
 (Previously by [VSA Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites).)
 
+VA Product Owner = Dave Conlon (@davidconlon)
+
 ### Slack
 - [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
 
@@ -14,9 +16,8 @@ April 2022: Public Websites products are currently maintained by the [Sitewide P
 
 # Products we support
 
-[Sitewide Public Websites purview mural](https://app.mural.co/t/vagov6717/m/vagov6717/1658961045082/cedcb1c5c42489e47be37733c73890ef890070ae?sender=u252e7152800e3981889d1910)
+[Sitewide Public Websites purview mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/vagov6717/1658961045082/cedcb1c5c42489e47be37733c73890ef890070ae?sender=4546ef8b-a453-424d-a34c-01d90db04d5f)
 
-Additional inforrmation: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites
 
 | [CMS content / functionality](#cms-content--functionality) | [Non-CMS content / products](#non-cms-content--products) | [Previous PW Projects](#previous-pw-projects) |
 | ------------- | ------------- | ------------- |
@@ -28,10 +29,11 @@ Additional inforrmation: https://github.com/department-of-veterans-affairs/va.go
 | [FAQ Page](#faq-page) | [Non-facility Redirects](#non-facility-redirects) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
 | [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [Offices](#offices) | [“How to apply” wizards](#how-to-apply-wizards) |
 | [Full-width Alert](#full-width-alert) | [On-site search (using search.gov)](#on-site-search-using-searchgov)  | [React widgets governance](#react-widgets-governance)|
-| [Promo Banner](#promo-banner) | [Shadow / dark launches of content](#shadow--dark-launches-of-content) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
-| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | [Unauthed React widgets](#unauthed-react-widgets) |  .  |
-| [Q&A - single](#qa---single) | [VA.gov Homepage](#vagov-homepage) | . |
-| [Resources & Support detail page](#resources-and-support-detail-page) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) | .  |
+| [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [Shadow / dark launches of content](#shadow--dark-launches-of-content) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
+| [Promo Banner](#promo-banner) |  [Unauthed React widgets](#unauthed-react-widgets) |  .  |
+| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) |[VA.gov Homepage](#vagov-homepage) | . |
+| [Q&A - single](#qa---single) |  [Veterans Crisis Line modal](#veterans-crisis-line-modal) | . |
+| [Resources & Support detail page](#resources-and-support-detail-page) | . | .  |
 
 The Public Websites team also supports most of the portfolio of the previous Decision Tools and Search & Discovery Team products, which may include products not listed here that we are not yet aware of. 
 
@@ -89,8 +91,12 @@ The content model is flexible to accommodate various types of content, using Dru
 ## Campaign Landing Pages (CLP)
 
 **What is:**
+[Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/campaign-landing-page)
+The Campaign Landing Page (CLP) is a page builder in the VA.gov Drupal CMS which enables VA businesses to create, launch and manage modern, mobile-responsive, accessibility-optimized campaign landing pages to promote marketing or engagement content.
 
-A Drupal content type that can be used for short-lived marketing campaigns. Intended to prevent marketing teams from creating freestanding websites, and keep content centrally managed. Campaign must be signed off by PO before implementing, and URL paths are governed by Sitewide Content team.
+Campaign Landing Pages are intended to prevent creation of standalone marketing sites, and to create a rich experience for topics that are not otherwise Veterans benefit / facility related content.
+
+[Runbook to create](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/campaign-landing-page#runbook-for-clp-creation)
 
 **Example content:**
 * URL: [https://www.va.gov/initiatives/vote/](https://www.va.gov/initiatives/vote/) 
@@ -102,17 +108,11 @@ A Drupal content type that can be used for short-lived marketing campaigns. Inte
 * Primary editors: Team that originates the request, with authorization from PO and URL guidance from Sitewide Content
 * [Editor guidance: How to manage a CLP](https://prod.cms.va.gov/help/campaign-landing-pages/how-to-manage-campaign-landing-pages) 
 
-**Workflow:**
-1. Teams will request a CLP via ticket
-2. Sitewide Content team approves the concept / requested URL
-3. Public Websites creates the Drupal node as draft
-4. Public Websites handles redirects for any vanity URLs that don’t fit the automatic structure
-5. Requesting team populates content, publishes, and deprecates
 
 **More info:**
 * A6 program GDrive folder:[ Campaign Landing Page](https://drive.google.com/drive/u/1/folders/1pyvDhf6ZdvBehFs3lFzyAF2kMeGkazX6)
-* [campaign-landing-page-templates & Docs - Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates) 
-* [CLP runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/campaign-landing-pages/campaign-landing-pages.md) - team runbook for managing CLP requests
+* [Product launch docs: tier 2 content IA & Design > Campaign Landing Page Templates - Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates) 
+* [Public Websites team documentation: Campaign Landing Pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/campaign-landing-pages/campaign-landing-pages.md) - 
 * [VFS Product Directory: Campaign Landing Page](https://depo-platform-documentation.scrollhelp.site/getting-started/campaign-landing-page)
 
 
@@ -284,7 +284,7 @@ You can read more about these alert types in the [VA Design System](https://desi
 
 **Governance / Editor guidance:**
 * Primary editors: Sitewide Content team
-* **Governance:** [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/banners](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/banners) 
+* **Governance:** [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/emergency-banner/2019-banner-docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/emergency-banner/2019-banner-docs) 
 * Old info, some useful references: [https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf) 
 
 **More info:**
@@ -443,7 +443,7 @@ With the release of chatbot, custom code was written to allow % traffic gating f
 
 #### 3. Publish a CMS page only to Staging (using EntityQueue) in order to stage CMS + content-build + vets-website for viewing off of VA network
 Typically, when a CMS page is published, it publishes to production. 
-However: as of Sept 2022, a CMS node may be published to staging.va.gov _only_ by using EntityQueue. This is useful to allow previewing a CMS page that includes a React widget (aka vets-website code), before it reaches production for user acceptance testing (by off-network users) or stakeholder approval. CMS team does not want to get in the habit of having staged nodes that will not publish, so this method should only be used for business cases that warrant it, at Public Websites PO's discretion.
+However: as of Sept 2022, a CMS node may be published to staging.va.gov _only_ by using EntityQueue. This is useful to allow previewing a new CMS page that includes a React widget (aka vets-website code), before it reaches production for user acceptance testing (by off-network users) or stakeholder approval. CMS team does not want to get in the habit of having staged nodes that will not publish, so this method should only be used for business cases that warrant it, at Public Websites PO's discretion.
 
 **How to stage:** 
 * (Requesting team) cut a [Dark launch request ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=jilladams%2C+wesrowe&labels=Drupal+engineering%2C+Needs+refining%2C+%E2%AD%90%EF%B8%8F+Public+Websites%2C+VA.gov+frontend&template=pw-dark-launch.md&title=CMS%2FReact+content+dark+launch+request%3A+%3Ccontent+info%3E) to Public Websites to request support
@@ -462,7 +462,9 @@ However: as of Sept 2022, a CMS node may be published to staging.va.gov _only_ b
   * The nightly CMS build must run or PW must request an out of band deployment. 
   * Content-release must then run. Page will be live on Prod after the first content-release after nightly CMS build.
 
-For reference, the staging CMS database is not implicated in this process / these changes. The front-end of staging.va.gov is populated by a database mirror of Prod, and is rewritten everytime code is merged to prod. The staging CMS, staging.cms.va.gov, has no front-end -- no front-end is updated when the Staging db is modified.
+NOTES: 
+1. It is _not_ possible to use this mechanism to test updates / additions to an existing live/published CMS page. The dark launch mechanism says: for this node ID, include it in the Staging build, and do _not_ include it in the Production build. So testing an existing node in this way would effectively unpublish it from Production.
+2. For reference, the staging CMS database is not implicated in this process / these changes. The front-end of staging.va.gov is populated by a database mirror of Prod, and is rewritten everytime code is merged to prod. The staging CMS, staging.cms.va.gov, has no front-end -- no front-end is updated when the Staging db is modified.
 
 **Entityqueue implementation:**
 - Spike: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10327
@@ -500,6 +502,9 @@ Some nuances: https://dsva.slack.com/archives/CT4GZBM8F/p1660937436605269
 
 **What is:**
 
+Product brief: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer
+Engineering notes: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/engineering
+
 VA.gov header and footer, within VA.gov context, including presentation of banners / alerts, and the Veterans Crisis Line modal.
 
 **Example content:**
@@ -517,42 +522,15 @@ VA.gov header and footer, within VA.gov context, including presentation of banne
 
 **What is:**
 
+Details: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/injected-header
+
 The VA.gov modernization project will take years to bring alllllllll VA content into the main site. In the meantime, VA offices / orgs that use TeamSite (old CMS) may want to adopt the new header/ footer. This can be achieved by “injecting” it, using a set of Javascript / stylesheets, and a cookie.
-
-**This will only work for standard TeamSites.**
-
-[DEPO teamsite overview](https://depo-platform-documentation.scrollhelp.site/developer-docs/teamsite-overview) - explains the cookie mechanisms, and has notes on testing. 
-
-**Workflow:**
-1. **Requesting team: domains -** Team should provide the domain or list of domains where the users will land and see the header/footer injected. Once provided, our team can create tickets and schedule our work. 
-
-2. **Requesting team: JS/CSS -** Add the listed set of scripts to TeamSite’s &lt;head> tag, described here: [https://depo-platform-documentation.scrollhelp.site/developer-docs/teamsite-overview#TeamSiteoverview-ScriptsandTeamSiteAdministration](https://depo-platform-documentation.scrollhelp.site/developer-docs/teamsite-overview#TeamSiteoverview-ScriptsandTeamSiteAdministration) 
-    1. Do _not_ include settings.js - that file is deprecated but docs are out of date 
-
-3. **PW: allowlists** - Our team will add the domains to several allowlists. This change will allow your team to test the injected header/footer. We'll let you know when our updates are deployed and your testing can begin. 
-
-4. **Requesting team: Testing & style fixes -** Your team will test by setting a cookie in your browser. The main issues you may see are styling related, where styles from your site may affect the presentation of the header/footer. Those issues can/should be fixed by updating the CSS of your site / app (rather than by modifying styles for the header / footer globally). This is the bulk of your work, and if no style issues occur, it could potentially be a no-op 
- 
-To test:
-  1. Load the provided domain
-  2. Open developer tools, Console
-  3. Type `document.cookie = "proxyRewrite=true;"`, and hit Enter. This creates a cookie that you will then find under Application cookies in dev tools until you clear cookies.
-  4. Refresh the page, and injected header should load. 
-
-5. **PW: Production update** - When your testing / changes are complete & you're ready to launch: notify us. We'll make an additional code update to permanently set the cookie that controls injection. When that code change deploys, the header/footer will be live on your site.
-
-**Example content:**
-* URL: [https://ea.oit.va.gov/](https://ea.oit.va.gov/) - uses injected header/footer
-* Example issue: 
-  * [Issue: (PW) Injected Header/Footer - prep for testing](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=jilladams&labels=%E2%AD%90%EF%B8%8F+Public+Websites%2C+VA.gov+frontend%2C+Injected+header%2C+Needs+refining&template=injected-header.md&title=Injected+header%2Ffooter%3A+%3Cdomain%28s%29%3E) - template
-  * [Issue: (PW) Injected Header/Footer - publish to prod ](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=jilladams&labels=%E2%AD%90%EF%B8%8F+Public+Websites%2C+VA.gov+frontend%2C+Injected+header%2C+Needs+refining&template=injected-header-publish.md&title=Injected+header%2Ffooter%3A+Publish+to+prod%3A+%3Cdomain%28s%29%3E)- template
 
 
 **More information:**
+* https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/injected-header
 * [Proxy-rewrite README](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/README.md) with implementation & testing details
-* 2019 audit of sites not using the global header megamenu: [va.gov-team#1877](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1877), [va.gov-team#2394](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2394#issuecomment-543775751)
-* 2019 product brief on [header injection](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/64e5b99f39fad7551b08d5b4da7141b56128e0f4/VA.gov%20Relaunch%202018/Teamsite/ProductOutline.md)
-* [Veteran-facing legacy benefit pages on TeamSite: Retirement FAQs](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/Legacy-benefit-pages-retirement-FAQs-061919.pdf) 
+
 
 
 ## Income limits web application
@@ -567,6 +545,7 @@ Veterans are eligible for benefits based on a complex matrix of factors includin
 * Current income limits information (that will be handled by the new web app): [https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits)
 
 **More info:**
+* [Income Limits App product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/income-limits-app) in Github
 * A6 program GDrive folder: [Benefits Eligibility Tool](https://drive.google.com/drive/u/1/folders/1FvuprvP7-6tpn8jrctRrms8MTOqPvuAL)
 * A6 program GDrive folder: [Income limits](https://drive.google.com/drive/u/1/folders/1uwHUEe8UBHST-didMR68Xfaud-BaI0iJ)
 * **Q3 2022 project:** [Income limits web app: Discovery, Design, prototype, user research #9626](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9626)  
@@ -594,6 +573,9 @@ VA.gov uses search.gov as its engine. Public Websites owns that integration, and
 **Example content:**
 * URL: [https://www.va.gov/search/?query=test&t=false](https://www.va.gov/search/?query=test&t=false)  
 * Example issue: 
+
+**Note on API keys**
+* API keys for search and search-typeahead are different keys generated by api.data.gov.  At the time this was written, keys are maintained by platform devops, and the keys belong to the universal devops user.  Should the email tied to these keys be lost, new ones will need to be generated
 
 **More info:**
 * A6 program GDrive folder: [Search](https://drive.google.com/drive/u/1/folders/1ePwRE6YPBk1VE6zAKzX2SxgtMdYwsV0r)

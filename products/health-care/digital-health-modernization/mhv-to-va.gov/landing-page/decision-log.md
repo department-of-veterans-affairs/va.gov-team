@@ -4,7 +4,7 @@ Please log key MHV to VA.gov Landing Page decisions related to the below practic
 ## Product
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
-|      |                   |                         |           |
+| 2/28/2023     |Patrick Bateman                   | Landing page rollout won't have a "trusted users" phase; we will start with 5% of users.                        | Would like to follow the same pattern used for other VA.gov apps          |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |

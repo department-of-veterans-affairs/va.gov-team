@@ -1,0 +1,8 @@
+{
+"ERROR_CLINIC_NOT_ENABLED": "We're sorry. Online check in is not yet enabled for your clinic. Ask a staff member for help."
+"ERROR_MULTIPLE_PATIENTS": "We're sorry. There was a problem looking up your patient record. Ask a staff member for help."
+"CHECK_IN_LATE_ERROR": "We're sorry. Online check in is no longer available for your appointment time. Ask a staff member for help."
+"PRE_CHECK_IN": "To help us prepare for your appointment, please complete pre-check-in: https://www.va.gov/{shorturl}"
+"PRE_CHECK_IN_UNIFIED": "Your VA appointment on {Date} at {Time} is confirmed. To prepare for your appointment, check if your information is up to date: https://www.va.gov/{shorturl}"
+"CHECK_IN_UNIFIED": "It's time time to check in for your VA appointment on {Date} at {Time}. Start checking in now: https://www.va.gov/{shorturl} If you have trouble checking in, ask a staff member at your VA health facility." 
+}

@@ -38,7 +38,7 @@ The development and release of functionality will occur in multiple groupings, e
   --Downloadable Reports
 
 ## Problem Statement
-Medical Records on VA.gov was researched and developed `TBD` years ago and remains largely unchanged from UI, IA, accessibility, and technology perspectives.  Furthermore, some of the rationale and decisions that drove the original medical records design may no longer be valid or timely today, and therefore should be re-examined and challenged where appropriate.
+Medical Records on MyHealtheVet was researched and developed 20 years ago and remains largely unchanged from UI, IA, accessibility, and technology perspectives.  Furthermore, some of the rationale and decisions that drove the original medical records design may no longer be valid or timely today, and therefore should be re-examined and challenged where appropriate.
 
 ## Opportunities
 How might we leverage user-centered design strategies, modern tech, and VA.gov design system and components to create a more intutive, user-friendly, and performant medical records experience than exists today?

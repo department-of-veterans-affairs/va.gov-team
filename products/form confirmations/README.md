@@ -9,6 +9,23 @@
 ## Personas
 *Veterans or their caregivers that are completing forms/applications.*
 
+## Launched Form Notifications 
+|Form Number  |Form Name |User State |Email Used |Launch Date | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | 
+| 22-1990E  | Application for Family Member to Use Transferred Benefits  | Authenticated and Unauthenticated | Form | June 2023  |
+| 22-1990  | Application for VA Education Benefits through Legacy Path  | Authenticated and Unauthenticated | Form | June 2023  |
+| 22-1995  | Application for Changing Education Benefits | Authenticated and Unauthenticated | Form | June 2023  |
+| 26-1880  | Application for a VA Home Loan Certificate of Eligibility (COE) - In Progress Reminder | Authenticated | ICN (Profile) | May 2023  |
+| 22-5490  | Dependents' Application for VA Education Benefits  |Authenticated and Unauthenticated | Form | February 2023  | 
+| 21P-527EZ  | Application for Veterans Pension  |Authenticated and Unauthenticated | Form | January 2023  |
+| 40-10007  | Application for Pre-Need Determination of Eligibility for Burial in a VA National Cemetery  | Authenticated and Unauthenticated | Form | December 2022 |
+| 21-674  | Request for Approval of School Attendance  | Authenticated | ICN (Profile) | December 2022  |
+| 10-10EZ  | Instructions and Enrollment Application for Health Benefits  | Authenticated | ICN (Profile) | October 2022  |
+| 28-8832  | Education/Vocational Counseling Application (Chapter 36)  | Authenticated and Unauthenticated | If profile email is not present, then form email is used | October 2022  |
+| 28-1900  | Application for Veteran Readiness and Employment for Claimants with Service-Connected Disabilities (Chapter 31)  | Authenticated | ICN (Profile) | July 2022  |
+| 21P-530  | Application for Burial Benefits  | Authenticated and Unauthenticated | Form | July 2022  |
+| 21-686c   | Application Request to Add and/or Remove Dependents  | Authenticated | ICN (Profile) | May 2022  |
+
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
@@ -34,21 +51,6 @@ _Describe, in a few sentences and/or bullet points, what you plan to build, and 
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
 _For non-trivial technical solutions, an [engineering design doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/design-docs) should be written to deeply explain **How** this product will be built._
-
---- 
-
-## Launch Dates
-- *Launch Date*: TBD
-
----
-
-## Screenshots
-
-_Include before/after screenshots, if applicable. Delete this section otherwise._
-
-### Before
-
-### After
 
 ---
 

@@ -26,7 +26,7 @@ The Navigation and IA changes will be released as the **v2.0** of the app.  This
    </td>
   </tr>
   <tr>
-   <td>Day 1 - 3/14
+   <td>Day 1 - 3/28
    </td>
    <td>100%
    </td>

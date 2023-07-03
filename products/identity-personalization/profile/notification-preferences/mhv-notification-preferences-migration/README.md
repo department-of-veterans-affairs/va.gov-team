@@ -1,6 +1,6 @@
 # Project outline: MyHealtheVet to VA.gov notification preference migration
 
-**Last updated: December 16, 2022**
+**Last updated: June 7, 2023**
 
 ### Communications
 
@@ -52,6 +52,8 @@ As mentioned above, there are a handful of existing and new notifications/prefer
 **Do we need to migrate existing notification preference data from MHV to VA Profile? If so, is this possible?**
 
 Given that we are working with existing notifications for which people have existing preferences saved, we'll need to talk to VA Profile about whether a data migration is possible or not.
+
+**[ANS]** A call in May 2023 this was discussed, MHV data isn't supposed to leave MHV without explicit approval of the veteran/user. 
 
 **When do we need to integrate the actual notifications with VANotify?**
 
@@ -113,6 +115,10 @@ OKRs and KPIs TBD.
 
 - [Initial migration plan notes shared with MHV (December 2022)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/product/migration-plan.md)
 - In phase on of the migration, we will work with VA Profile to support the MHV notification preferences. Then, MHV has agreed to connect their frontend to the VA Profile backend. This will allow us to have significant flexibility in when we incorporate preferences into the VA.gov interface.
+
+**Initiative - Appoitnment reminders - Grant Permission to include PHI/PII**
+[Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/appointmentReminderPHIandPII/initiative-brief-appointmentReminderPHIandPII.md)
+- Currently, MHV has an option where Veterans can indicate whether or not it's ok to include PHI/PII in their appointment reminder notifications. We need to incorporate this preference into our notification settings UI.
 
 **Migration phase two: VA.gov pulls in MHV preferences from VA Profile**
 

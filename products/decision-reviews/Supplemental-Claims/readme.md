@@ -10,59 +10,59 @@
   
 |Name|Role|Email|
 |----|----|-----|
-|Matthew Self |Product Owner, Gov't Lead| matthew.self2@va.gov |
+|Matthew Self            |Product Owner, Gov't Lead| matthew.self2@va.gov |
+|Julie Strothman|Design Lead, VA| julie.strothman@va.gov|
 |Sade Ragsdale |Product Manager| sade@coforma.io|
 |Eileen Chi| Research & Design |eileen.chi@coforma.io |
 |Robin Garrison |FE Engineer| robin.garrison@adhocteam.us |
 |Eugene Lynch | Engineer| eugene.lynch@coforma.io |
 |Kyle Soskin | BE Engineer | kyle.soskin@adhocteam.us |
-|Rocio de Santiago | BE Engineer | rocio@coforma.io |
+|Rocio de Santiago | FE Engineer | rocio@coforma.io |
 |Josh Kim | A11y lead | josh.kim@adhocteam.us |
+|Michael Hobson | Product Manager, Lighthouse | michael.hobson@adhocteam.us |
+|Drew Fisher | Engineer, Lighthouse | drew.fisher@adhocteam.us |
 
 ### VBA Subject Matter Experts  
 
 |Name|Role|Email|
 |----|----|-----|
 |Alejandro Mendiolaflores |Senior Analyst| alejandro.mendiolaflores@va.gov |
-|Jessica Pierce |Policy, VBA Compensation Service| jessica.pierce@va.gov|
-|Melissa Milenkovic| Role |Melissa.Milenkovic@va.gov |
+|Jessica Pierce |Assistant Director, Policy| jessica.pierce@va.gov|
+|Melissa Milenkovic| Manual Editor |Melissa.Milenkovic@va.gov |
+|Shireen Lackey| Senior Analyst |shireen.lackey@va.gov |
 
 ---
 
 ## Executive Summary
 
 ### Overview
-A supplemental claim is a claim type filed for a benefit when the claimant or disagrees with the decision VA made on an initial or supplemental claim for the same or similar benefit on the same or similar basis. To file a supplemental claim, claimants typically need to provide new and relevant evidence. This evidence enables a reviewer to determine if they should change the previous decision. Claimants can use this decision review process in three ways:
+The supplemental claim service is the final decision review pathway to be digitized on VA.gov. More than 32,000 supplemental claims are filed each month (more than double the number of board appeals and higher-level reviews, combined) which indicates that streamlining and enhancing this pathway has an outsized potential to impact the lives of Veterans and their families.
+
+A supplemental claim is a claim type filed for a benefit when the claimant disagrees with the decision VA made on an initial or supplemental claim for the same or similar benefit on the same or similar basis. To file a supplemental claim, claimants typically need to provide new and relevant evidence that establishes a theory of service connection. This evidence enables a reviewer to determine if they should change the previous decision. Claimants can use this decision review process in three ways:
 
 - Supplement a claim within one year - This allows the claimant to add new and relevant evidence to a claim decision within one year of its effective date. 
 - Re-open a prior claim closed 1+ years ago - This allows the claimant to re-visit a claim decision. Will not re-open the previous effective date. 
-- Continuously adjudicate a claim - This allows the claimant to continue prosecuting a claim and keep the effective date rolling.
-
-Of the three decision review pathways, supplemental claims are the most widely used. More than 32,000 supplemental claims are filed each month (more than double the number of board appeals and higher-level reviews, combined) which indicates that streamlining and enhancing this pathway has an outsized potential to impact the lives of Veterans and their families.
+- Continuously adjudicate a claim - This allows the claimant to continue prosecuting a claim and keep the effective date "rolling".
 
 ### The PACT Act
 
-The Honoring Our Promise To Address Comprehensive Toxics Act Of 2021 is a $208 billion measure that has expanded the list of disabilities that are presumed service-connected based on toxic exposure during military service. As a result, the VA anticipates an increase in claims of this nature and aims to potentially fast-track claims for presumptive conditions in this category.
+The Honoring Our Promise To Address Comprehensive Toxics Act Of 2021 is a $208 billion measure that has expanded the list of disabilities that are presumed service-connected based on toxic exposure during military service. As a result, the VA anticipates an increase in supplemental claims of this nature and aims to prioritize presumptive conditions in this category.
 
 ## The Problem Space
 
-The current process lacks education about how to use the process for adjudication, confusing timelines, difficult-to-understand legal language, unclear document and evidence requirements, a lack of transparency, and great potential for human error. As a result, many claimants submit errors that cause delays or result in unfavorable outcomes. To circumvent these challenges, claimants work through services offered by accredited representatives (VSOs, VSRs, attorneys, POAs) or caregivers.
+Research indicates that the supplemental claim process is often misunderstood and misused. A common problem is that claimants don't know when to file a supplemental claim versus a claim for increase (which is filed using the 526ez form). The impact is that the Veteran enters a decision review process that is less likely to result in a favorable decision. 
 
-- **Usability**: The content within the form does not support claimants by educating them through the process. The process requires the claimant to understand dependencies, related systems, and implications underpinning each field. Due to this, claimants rely on someone with prior experience to increase the likelihood of success.
+Generally, claimants find the process unclear and are "put off" and confused by the language used in the form's instructions. As a result, many claimants submit errors that cause delays or result in unfavorable outcomes. This requires the claimant to do their own research or rely on someone with prior experience (like another Veteran or an accredited representative) to help them with the form. If a claimant works with an attorney to file a supplemental claim, the attorney can charge a fee, which introduces a conflict of interest.
 
-- **Timelines**: Completing the supplemental claim form can span weeks and involves manually gathering multiple data points, including medical records, decision letters, and authorization forms. Various fields and checkboxes open the potential for actions that can negatively affect the timeline and the decision.
+- **Legal content**: The legal language and VA systems mentioned in the form are unfamiliar topics to many claimants. Various fields and checkboxes open the potential for actions that can negatively affect the timeline and the decision.  Without this background knowledge, claimants may take actions that have unclear consequences for the claim.
 
-- **Content**: The language and acronyms used in the form require the user to understand dependencies on other VA systems and processes. Without this background knowledge, claimants may take actions that have unclear consequences for the claim.
-
-- **Data population**: Claimants spend additional time working to provide personal data already available to the VA, such as basic personal information, effective dates, condition codes, and Veteran file information.
-
-- **Evidence requirements**: The form does not clearly define what constitutes new and relevant evidence. Further, the current process requires the claimant to either manually cross-reference previous and new evidence, or wait until post-submission to find out if they meet the requirement. 
+- **Evidence requirements**: The form does not define what constitutes new and relevant evidence in a way that resonates with claimants. Further, the current process requires the claimant to either manually cross-reference previous and new evidence, or wait until post-submission to find out if they meet the requirement. 
 
 - **Task management**: The current available services and processes that support supplemental claims are primarily manual and spread responsibility across the claimant, VA services, accredited representatives, and adjudicators. Claimants have no central location to manage tasks related to completing a supplemental claim unless they work through services offered by accredited representatives.
 
-- **Transparency**: Claimants do not have visibility into the claim status once it enters the adjudication process. They rely on accredited representatives for status updates. The data that representatives see wasn't intended for this, so representatives must interpret the data.
+- **Transparency**: Claimants do not have visibility into the claim status once it enters the adjudication process. They rely on accredited representatives for status updates. The data that representatives see wasn't intended for this, so representatives may interpret the data in ways that may be inaccurate or misleading.
 
-- **Human error**: Guidance provided to claimants about submitting contentions is inconsistent. Consequently, adjudicators struggle to match evidence efficiently and accurately. This highly manual process opens the potential for data to be either misinterpreted or edited in a way that results and unfavorable outcomes.
+- **Claim processing challenges**: Claim processors rely on updated field guidance to understand how to interpret claims. The field guidance for supplemental claims has changed due to the PACT Act, 
 
 ## Problem Statement(s)
 
@@ -78,8 +78,6 @@ The current process lacks education about how to use the process for adjudicatio
 
 How will we know if we were right?
 
-@benefits-team-1
-
 ## Opportunities
 
 How might we give Claimants who have received an unfavorable decision and have new evidence a quick, easy intuitive method to file a supplemental claim, that doesn't require  them to enter data the VA should already know, and that generally results in quicker more favorable outcomes?
@@ -90,13 +88,11 @@ How might we give rating officials all of the data they need to make an immediat
 
 How might we ensure Claimants are always in the loop about what's going on with their claim?
 
-@benefits-team-1
-
 ## Desired User Outcomes
 
 *Why would a user want to use this? What should users be able to do/achieve that they couldn't before?*
 
-As a Claimant, I want the ability to submit a Supplemental Claim Decision Review of my claim online, without having to solicit professional help, so that I can save time and energy when I disagree with a VA decision on my claim.
+As a Claimant, I want the ability to submit a Supplemental Claim decision review of my claim online, without having to solicit professional help, so that I can save time and energy when I disagree with a VA decision on my claim.
 
 As a Claimant, I want the claims I submit to be visible to me as they move through VA systems, and I want proactive communications about their progress.
 
@@ -116,33 +112,25 @@ As a VSR or RVSR processing Supplemental Claims, I want to spend less time valid
 
 As a VSR or RVSR processing Supplemental Claims, I want the process of making an accurate rating decision to be as quick and easy as possible, so that Claimants receive decisions as quickly as possible.
 
-@benefits-team-1
-
 ## Undesired user outcomes
 
 *What do we want to avoid? What should we be cognizant of or preventing?*
 
-We don't want to create an unforeseen situation where VSRs or RVSRs are incentivized to make incorrecot or inaccurate decisions just to process a supplemental claim quicker.
+We don't want to create an unforeseen situation where VSRs or RVSRs are incentivized to make incorrect or inaccurate decisions just to process a supplemental claim quicker.
 
-We want users to choose the right (best) decision review option; that means we don't want users submitting supplemental claims if they don't have new and relevant evidence, but we also want to make sure they choose this options when appropriate :/
+We want users to choose the right (best) decision review option; that means we don't want users submitting supplemental claims if they don't have new and relevant evidence, but we also want to make sure they choose this option when appropriate.
 
-@benefits-team-1
+## Links to the dashboard(s) 
 
-## Context and Decisions
+- Google Analytics
+- [Domo](https://va-gov.domo.com/page/447193050)
+- [Grafana - Claims and Appeals](https://grafana.vfs.va.gov/d/WxQ9lkUGz/claims-and-appeals-alerts?orgId=1&from=now-7d&to=now)
+- [Grafana - Supplemental Claims](https://grafana.vfs.va.gov/d/ejdUuxTVk/sc-supplemental-claims-dashboard?orgId=1)
+- [Sentry](http://sentry.vfs.va.gov/organizations/vsp/dashboard/10/?project=4&statsPeriod=7d)
+
+<!-- ## Context and Decisions
 
 *Additional context, background, or useful information*
-
-#### Open questions
-
-@benefits-team-1
-
-#### Stakeholders
-- Paul Shute: Director of Benefits Automation
-- Alejandro Mendiolaflores: Lead Innovation Strategist
-- Andrew Gray: Sr. Automation Strategist
-- Marisa Prugsawan: Sr. Program Analyst
-- Dustin Williams: Procedures/Maintanence Analyst
-- Melissa Milenkovic: ?
 
 ## Designs
 
@@ -158,7 +146,7 @@ We want users to choose the right (best) decision review option; that means we d
 
 @benefits-team-1
 
-## Appendix
+## Appendix -->
 #### Discovery Artifacts
 [Lighthouse suppl claims API discoveryf](https://community.max.gov/pages/viewpage.action?spaceKey=VAExternal&title=Supplemental+Claim+-+Initiative+Brief)
 
@@ -171,5 +159,3 @@ We want users to choose the right (best) decision review option; that means we d
 [Decision review hub on VA.gov](https://www.va.gov/decision-reviews/)
 
 [AMA overview and law](https://benefits.va.gov/benefits/appeals.asp)
-
-@benefits-team-1

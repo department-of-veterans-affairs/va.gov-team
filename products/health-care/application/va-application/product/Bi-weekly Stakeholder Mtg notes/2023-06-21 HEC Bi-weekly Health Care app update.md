@@ -1,0 +1,69 @@
+# June 21, 2023 HEC Bi-weekly Health Care application update
+
+### Notes
+
+- Document comparison - Policy and Compliance teams reviewing
+     - Presenting at next meeting on input
+
+- EZR
+     - Login requirement
+          - Has there been any research or pros/cons on requiring this?
+          - Patrick: we need to associate it with verified identity
+               - Do HEC folks how someone could submit update to personal info without being verified
+          - Ambroja: - How is that done with EZ today?
+               - Patrick: - It can be done, and it is a new record validated by HEC staff
+               - Patrick: - Updates to that - we would want people to be verified to update this information
+          - Jennifer: - someone can fill out EZR with signature, no verification on signature.  
+               - There is affirmation on the form providing law/reg/attestation that you are who you say you are
+               - Patrick: - there are many ways to commit fraud, dont think we should allow that online
+          - Ambroja: - EZ creates new record, EZR creates update to record
+               - No validation on receiving the form, based on signature
+               - EZ verification is done within systems, not with Veteran
+               - Drive here is for Income information for benefits and eligibility
+          - Patrick: - Can run it by security/privacy team, but feels that it will not be allowed on va.gov (fraud concerns)
+     - Patrick: - Will write description on what HEC is interested in (unauth path)
+          - Share with team/HEC
+          - Share with Privacy/security
+          - “Can we use data collected on VA.gov for the purpose of eligibility, including income”
+               - Concern - Like the option of signing on, but requiring an account can exclude a population who do not want to create accounts to do something (update info)
+               - Don’t want to neglect those Veterans who don't want more accounts
+               - Make sure we are covering and respect all demographics
+               - Convenient to do online, rather than paper in-person/mail/phone
+               - Auth done over phone when they call (series of questions to ask to auth)
+               - Patrick: - similar pattern used on Unauth Check-in (security questions/phone text link)
+          - Patrick: - is there a situation where EZR is received but not automatically processed?
+               - Auth automatic?
+               - Unauth?
+               - Amanda: - if everything comes thru ok in the system - happy path with no additional review.  Same for EZR, would like same for Reg Only 
+               - Shana: - if updated online - income only.  How are we going to check that income if we dont have a mechanism in place to alert us that an update has been made and we need to verify?
+               - Patrick: - When update is sent, would trigger a series of workflows in ES
+
+- Reg Only - Emailed Responses
+     - Patrick: - still unclear on the most basic question - If veteran is asking should i enroll or register? 
+          - Instruction on form doesnt tell you qualifications to do reg vs enrollment
+          - My deduction, in some situations Reg makes sense (exams, not care), but if I have 50% or greater, CFR says i dont need to enroll but i get the full benefit package
+               - Do they reg or enroll?
+               - Does it matter since they get the full package
+     - Jennifer: - It would be communicated to the veteran on what benefit they get
+          - Various reg only reasons/scenarios
+               - Patrick: - we understand (narrow) use cases, we dont see value-add for those low-number use cases
+                    - I don’t think Reg employee for employee care needs to be on VA.gov
+                    - We have yet to find a compelling use case to put this on VA.gov
+                    - 50% or greater, dont need to enroll, but benefit is to get full  benefits package
+                    - We dont see the point of offering this online
+                    - Only suggestion was based on recs from OIG, per Stacey Echols - but have not seen them
+               - Jennifer: - can get us the recommendations
+               - Patrick: - The form ON VA.GOV is not for exams, it is for getting access to healthcare
+                    - Patrick: - I dont think we would want to mix in Exams reg in with Health care application
+               - Shana: - Scenario - want SC care, and not enroll - not required to enroll
+                    - Patrick: - is their a population of folks who want exams/SC care and may be upset if they get enrolled?
+                    - Shana: - for a population that want to do this online, and we dont need your buy-in.  It is on the form, we have this in place, where is the hang-up of putting this online
+               - Patrick: - if we are going to put this online, we need in plain language an explanation to help the user to understand why someone would reg vs enroll
+                    - Shana: - Business can put together a definition on why and what it means
+               - Patrick: - Would want to create separate process for exams/reg only specific use cases
+               - Shana: - the push is ultimately enrollment
+               - Ambroja: - can they backout of the separate process?
+                    - Patrick: - can display screener questions maybe - "why are you here today?"
+                         - Full pkg - plain language
+                         - Something else (with options of what that would be) - offer pathway(s) for the user to go down
+               - Alex: - want to make sure Veterans are not leaving benefits on the table

@@ -54,29 +54,20 @@ IA guidance is included as a standard part of the VSP Collaboration Cycle:
 
  
 ### Redirect Process
-Follow the [Redirect Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md) at least 2 weeks before you will need to redirect URL(s). Redirects are reviewed by an IA and then assigned to the appropriate technical team for implementation.
+Follow the [Redirect Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ia-and-navigation/process-documents/redirects.md) at least 2 weeks before you will need to redirect URL(s). Redirects are reviewed by an IA and then assigned to the appropriate technical team for implementation.
 
 
 ## Best practices and guides
 
-- [General IA Best Practices on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-best-practices.md)
-- [URL Standards](https://design.va.gov/content-style-guide/url-standards) and [Vanity URL guidance](https://design.va.gov/content-style-guide/url-standards#vanity-urls) (documented in the design system)
-- [SEO Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/seo-best-practices.md)
-- [XML Sitemap Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/xml-sitemap-guidelines.md)
-- [Page Template IA & Usage Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/template-guidelines-hub-page.md)
+- [General IA Best Practices on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ia-and-navigation/standards)
+
 
 ## Resources
 
-- [Current and Past IA Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/README.md) (Completed and in-progress IA reviews for teams)
-- [Site Maps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/site-maps.md) (Visual site map, URL spreadsheet and XML site map link)
+- [VA.gov Information Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ia-and-navigation)
 
 
 
 
----
-##### Revision History
 
-Date | Revisions Made | Author
------|----------------|--------
-Feb 26, 2020 | Reformatted using new template. | Mikki Northius
 

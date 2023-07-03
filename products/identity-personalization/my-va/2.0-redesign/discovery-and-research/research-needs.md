@@ -118,7 +118,7 @@ Even with previous research and an analytics review, we feel strongly that talki
 - We may or may not want to show users the following as discussion tools:
   - The existing logged in homepage
   - My VA
-  - [This blue sky protoype of a logged in VA.gov](https://vsateams.invisionapp.com/d/main?origin=v7#/projects/prototypes/13596891?scrollOffset=216)
+  - [This blue sky protoype of a logged in VA.gov](https://vsateams.invisionapp.com/console/share/X3WBOA3QSWR)
   
 #### Additional user research
 

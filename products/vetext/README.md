@@ -99,18 +99,31 @@ Fewer veterans and caregivers in waiting rooms
  - Increases satisfaction among caregivers (survey based) 
 
 
-
-
 # Team
 The core development team (Shane, Robert & Andy) have worked together for 20 years on various applications in the VA Loma Linda Healthcare system until transitioning to OCTO. 
 
 **Name** | **Organization** | **Title** 
 ---|---|---
 **Robert Durkin** | VA OCTO | Software Developer 
-**Shane Elliott** | VA OCTO |Senior Information Technology Specialist
+**Shane Elliott** | VA OCTO | Senior Information Technology Specialist
 **William “Andy” Mccarty** | VA OCTO | Software Developer 
-**Justin Wowk** | Government CIO (DocMe360) | Project Manager 
-**Paras Shah** | Government CIO (DocMe360) | Advisor, VA Digital Notifications 
+**Allison Schulhof** | Oddball | Program Manager 
+**Justin Wowk** | Oddball (DocMe360) | Product Manager - VEText/AVS
+**Lindsay Insco** | Oddball | Product/ATO Lead 
+**Lindsay Sprinkle** | Oddball | Product Manager 
+**Katie Roach** | Oddball | Delivery Manager 
+**Lee DeBoom** | Oddball | Engineering Lead 
+**Chris Horton** | Oddball | Senior Product Manager - PCI
+**Fred Sidoti** | Oddball (Cerner) | Training Specialist 
+**Ari Hicks** | Oddball (Fearless) | Content Strategist 
+**Crystal Jones** | Oddball | Data Analyst 
+**Jayme Cokerk** | Oddball (The So Company) | Tier 1 Helpdesk 
+**Richard "Chance" Cusack** | Oddball (The So Company) | Tier 2 Helpdesk 
+**Ambes Debretson** | Oddball (DocMe360) | Tier 3 Helpdesk
+**James Clarey** | Oddball | Tier 3 Helpdesk
+**Peter Olabowale** | Oddball (Fearless) | Site Reliability Engineer 
+**Nicholas Henning** | Oddball | Production Support Engineer  
+**Paras Shah** | Oddball (DocMe360) | Advisor, VA Digital Notifications 
 
 
 # Projects
@@ -119,27 +132,29 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 ### Current Uses
 |**Use Case**|**Description**|
 |--|--|
-|[**Appointment Reminders**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20657)|Veterans receive appointment reminders and can confirm or cancel appointments via text message.|
-|[**Community Care Appointment Communication**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20663)| Texts Veterans in a variety of scenarios around Community Care appointments
-|[**Inactive Veterans**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/21356)| Sends text messages to Veterans who have not seen their Primary Care provider (PCP) in the last 18-24 months.
-|[**Pharmacy Tracking**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20661)|Sends shipment tracking information text to veterans once their medication has shipped
-|[**Surgery Notifications**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20660)|Text notifications for family members of veterans in surgery who are not able to wait in the VA facility due to social distancing restrictions
-|[**Vaccine Outreach**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20658)|Allows administrators to proactively text a batch of veterans to schedule an appointment. This is related both to Covid Vaccines and Flu Vaccines.
-|[**AVS**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20668)| Originally developed to generate a patient-friendly “after visit summary” for Veterans after a medical visit. In the past ten years the term “AVS” has come to cover a lot of applications of the underlying technology related to VistA.
+|[**Appointment Reminders**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/Wiki/gen_appointments.aspx)|Sends customizable reminders to Veterans of upcoming appointments via text messaging and provides a quick and easy way to confirm or cancel appointments.|
+|[**Open Slot Management**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/Open-Slot-Management-Tab.aspx)|Allows Veterans meeting certain criteria to reschedule their VA health care appointment (via SMS) for an earlier slot. Reduces wait time, missed, and cancelled appointments and allows for more efficient appointment management for administrators and VA Health Centers.|
+|[**Community Care Appointment Communication**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/Community-Care-Appointment-Reminders.aspx)| Texts Veterans in a variety of scenarios around Community Care appointments
+|[**Pharmacy Tracking**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/VEText-Pharmacy-Notifications.aspx)|Sends shipment tracking information text to veterans once their medication has shipped
+|[**Surgery Notifications**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/Wiki/gen_surgery.aspx#surgery-notifications-tab)|Text notifications for family members of veterans in surgery who are not able to wait in the VA facility due to social distancing restrictions
+|[**Vaccine Outreach**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/COVID-19-Vaccine-Outreach.aspx)|Allows administrators to proactively text a batch of veterans to schedule an appointment. This is related both to Covid Vaccines and Flu Vaccines.
+|[**Emergency Management Notifications**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/VEText-Emergency-Management-User-Guide.aspx)|Allows administrators to proactively text a batch of veterans to schedule an appointment. This is related both to Covid Vaccines and Flu Vaccines.
+|[**Patient Tracking**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/Wiki/pt_home.aspx)|Patient Tracking is a tool to assist facilities during the check-in process with physical distancing for face-to-face appointments.|
+|[**Clinic Cancellations**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/Clinic-Cancellations.aspx)|VEText allows cancelling appointments by clinic and notifying all affected Veterans by text message of the cancellations. Useful when a clinic needs to cancel all or part of its schedule, such as inclement weather or a clinician is unavailable.|
+
 
 ### Future / Proposed Uses
 |**Use Case**|**Description**|
 |--|--|
-|[**Pharmacy Refills**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20662)|Automates pharmacy refills
-|[**IMH for BVA Hearings**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/21407)| Allowing BVA Hearing Officers to track Veteran attendance for appeals hearings.
+|[**Cerner Integration**]|Adds support for utilizing VEText at sites that have migrated from VistA to Cerner.
+|[**Call to Schedule**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/gh/department-of-veterans-affairs/va.gov-team/36721)|Sends text message to Veteran asking them to call a number to schedule their appointment.
+|[**Prevention of Readmission**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/gh/department-of-veterans-affairs/va.gov-team/56241)|Sends follow up messages after discharge to check on patient status in hopes of preventing re-admission. 
+|[**Appointment Reminder Rescheduling**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/gh/department-of-veterans-affairs/va.gov-team/49201)|When Veteran's recieve an appointment reminder, they will have a new option to communicate their desire to reschedule vs. cancel.
 
 ### VEText Components
 |**Use Case**|**Description**|
 |--|--|
-|[**Appointment Direct Scheduling**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/21542)|As a function of VEText, a text can be sent to a selected group of veterans to allow them to schedule appointments. 
-|[**VEText Portal**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20765)|The UI that VA Health Center administrators interact with to initiate VEText messages. 
-|[**I Am Here (IMH)**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20664)| Allows veterans to check in for medical appointments via text message.
-|[**Open Slot Management (OSM)**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20655)|  As a function of VEText, OSM is a backend task that finds veterans waiting for appointments and offers a defined number of them a closer open appointment slot on a first come first serve basis. |
+|[**VEText Portal**](https://portal.vetext.va.gov)|The UI that VA Health Center administrators interact with to initiate VEText messages. 
 
 # Additional Documentation
 

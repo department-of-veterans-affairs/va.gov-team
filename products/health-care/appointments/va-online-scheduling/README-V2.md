@@ -22,8 +22,8 @@ High-level overview of our current projects:
 - [Main epics Zenhub board](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/board?repos=133843125,194202180&showPRs=false&showReleases=false&showReviewers=false)
 
 The main board rolls up tickets from two other boards: 
-* [Engineering board]() - Work currently being developed
-* [Product/design board]() - Product, design, and research
+- [Engineering board]() - Work currently being developed
+- [Product/design board]() - Product, design, and research
 
 ## Documentation
 
@@ -73,54 +73,6 @@ This GitHub folder is the central document hub for the VAOS product, but other i
 - [Copy docs]()
 - [Page templates]()
 
-### View appointment lists
-An overview of appointments and requests. Helps get a sense of appointments at a high level.
-
-| Feature | Usage | Documentation | 
-|---|---|---|
-| Upcoming appointments | View all future and in progress appointments | [Staging URL](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments) <br> [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/homepage.md#appointment-list-cards) <br> [Design template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?node-id=182%3A18201&t=VF6bPXzS8n4lnB6O-4) <br/> [Logic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md#upcoming-appointments) |
-| Past appointments | View all appointments from the last two years | [Staging URL](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/past) <br> [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/homepage.md#past-1) <br> [Design template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?node-id=1125%3A28605&t=VF6bPXzS8n4lnB6O-4) <br/> [Logic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md#past-appointments) |
-| Pending appointments | View all pending and canceled requests | [Staging URL](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/pending) <br> [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/homepage.md#requests-1) <br> [Design template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?node-id=1125%3A28986&t=VF6bPXzS8n4lnB6O-4) <br/> [Logic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md#pending-appointments) |
-
-### View appointment details
-All the information about a single appointment. VAOS can display 8 types of appointments.
-
-| Feature | Description | Documentation |
-|---|---|---|
-| VA In person  | | |
-| VA In person Vaccine | | |
-| VA Video Care at Home | | |
-| VA Video Care at a VA location | | |
-| VA Video Care on GFE | | | 
-| VA Video Care at an ATLAS location | | |
-| VA Phone Appointment | | |
-| Community Care Appointment | | |
-
-### View request details
-All the information about a single appointment.
-
-| Feature | Description | Documentation |
-|---|---|---|
-| VA Appointment Request  | | |
-| Community Care Appointment request | | |
-
-### Manage appointments and requests
-Tools Veterans can use to manage their appointments and requests.
-
-| Feature | Description | Documentation | 
-|---|---|---|
-| Cancel appointment/request | | |
-| Add to calendar | | |
-| Print | | | 
-
-### Schedule and request appointments
-How Veterans can schedule or request appointments through VAOS
-
-| Feature | Description | Documentation |
-|---|---|---|
-| Direct-schedule or request appointment at VA  | | |
-| Direct-schedule COVID-19 vaccine at VA | | |
-| Request community care | | |
 
 
 ## The team
@@ -133,7 +85,7 @@ How Veterans can schedule or request appointments through VAOS
 - Kristen McConnell
 
 **Program Management**
-- Katie Riddle
+- Lauren Ernest
 
 **Product Management**
 - Jeff Roof (lead)
@@ -161,13 +113,13 @@ Find team members and channels in the [DSVA Slack Space]().
 
 | Channel | Used for | 
 |---|---|
-| **#vaos-team** | Start here. Main channel for any general product, engineering, or design questions for VAOS front-end or backend teams, including: <br> - Team announcements, broad notifications <br> - Coordinated communication related to rollouts, releases, and launches <br> - SQA- and testing-related questions. |
-| #vaos-fe-meetup | VAOS FE team internal discussions. Private channel for [VAOS FE team members](#team-members). |
-| #vaos-engineering | VAOS engineering PPG channel. | 
-| #vaos-eng | Engineering practice and technical discussions. |
-| #vaos-alerts | Grafana alerts | 
+| **#appointments-team** | Start here. Main channel for any general product, engineering, or design questions for Appointments front-end or backend teams, including: <br> - Team announcements, broad notifications <br> - Coordinated communication related to rollouts, releases, and launches <br> - SQA- and testing-related questions. |
+| #appointments-fe-meetup | appointments FE team internal discussions. Private channel for [Appointments FE team members](#team-members). |
+| #vaos-engineering | Appointments BE and FE team engineering PPG channel. | 
+| #appointments-fe-eng | FE team Engineering practice and technical discussions. |
+| #appointments-alerts | Grafana alerts | 
 | #vaos-pull-requests | Pull request reminders |
-| #va-appointments-ux | User experience questions and coordination for VAOS, check-in, and mobile teams |
+| #appointments-ux | User experience questions and coordination for Appointments, Check-in, and Mobile app teams |
 
 ## Who We Work With
 

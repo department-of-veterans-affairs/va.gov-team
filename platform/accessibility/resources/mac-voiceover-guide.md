@@ -1,3 +1,13 @@
+----
+
+# We've moved our docs! 
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform support team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+----
+
 # How to use Apple's VoiceOver to manually check basic accessibility/usability issues
 
 **Safari is recommended** for screen reader testing with VoiceOver. Chrome on OSX sometimes generates false positive failures such as not reading labels for `<select>` menus. Safari and VoiceOver are both native Apple products, and are the best pairing for Mac-centric screen reader evaluation.

@@ -1,0 +1,25 @@
+3/23 Slack w/ Bryan Riley
+  UI documentation 
+    This should take you to our Sketch designs (let me know if you have trouble accessing).  On the left side make sure you click on Phase 0 and then on the right under Versions select the latest version.    https://www.sketch.com/s/77fd8aec-67b1-446d-b64a-8b942865be82/p/E5673574-64BF-4BAF-97E3-263CA59EF092/canvas#Version
+
+
+3/22 Slack Alex (Oleksii) Morgun 
+  here are some Swagger references to the new thread API functionality. Let me know if you need more info
+  Thread List
+  https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/?url=https://dev-api.va.gov/my_health/apidocs#/default/get_folder_threads
+  Get Thread
+  https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/?url=https://dev-api.va.gov/my_health/apidocs#/default/get_messages_for_thread
+  Move Thread
+  https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/?url=https://dev-api.va.gov/my_health/apidocs#/default/post_move_thread
+
+
+
+3/22/23 Slack with Bryan Riley 
+  Bryan - Delivery Manager - presents in ToT and MHV standup on Secure messaging 
+
+
+  These are just new APIs, any previous ones that don't use message threads should continue to work.  Even our legacy MHV SM application still uses those (They are not updating the UI to include threads
+  The new APIs are in prod already, I believe they went in about 5-6 weeks ago.  We are still updating our front end in VA.gov to use them.
+  For VA.gov SM we are still working to get our product out to Phase 0.  We are working on some design updates (to get our development to match the most updated designs).  We also are working on about 2-3 accessibility issues that came up from Midpoint review or after.  For example one of them is to correct tab order issues.  Another is to ensure that as users are expanding messages that we have the right aria (screenreader) message get announced...
+  For API questions reach out to Oleksii Morgun
+  

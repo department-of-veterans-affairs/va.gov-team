@@ -96,7 +96,7 @@ Furthermore, with passage of the PACT Act, there is renewed internal interest in
 
 ### Cross-portfolio
 
-#### [Support generative logged-in IA/navigation research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ia-and-navigation/2023-generative-logged-in-research)
+#### [Support generative logged-in IA/navigation research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research)
 
 - **OCTO objective**: Refresh the VA.gov homepage and information architecture
 - **Team objective**: Improve IA and navigation for tasks and tools
@@ -105,7 +105,7 @@ We're aware of some high-level problems people have navigating the logged in exp
 
 ## Q2 CY2023 (April - June)
 
-Samara's maternity leave!! I'll be out most of this quarter.
+[Detailed maternity leave plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/maternity-leave-plan-2023.md)
 
 ### [My VA audit updates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#readme)
 

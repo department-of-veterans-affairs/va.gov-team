@@ -20,7 +20,7 @@ Vet Center Outstations | Email the name of the facility and the missing or inacc
 Vet Centers Community Access Point  | Contact the CMS help desk (support@va-gov.atlassian.net) 
 NCA Cemeteries | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov.
 VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact the VBA Web Team (WEBADMIN.VBACO@va.gov)
-Community care providers and pharmacies (usually non-VA facilities)	| Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Dave Conlon, VA Product Owner at david.conlon@va.gov
+Community care providers and pharmacies (usually non-VA facilities)	| Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. 
 
  ## Services
  

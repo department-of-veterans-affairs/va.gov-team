@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: January 24, 2023 - added contact info for each feature**
+**Last updated: May 30, 2023 - updated links for technical documention and user flows, new screenshot post-launch of audit updates**
 
 ### Communications
 
@@ -14,9 +14,10 @@
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
 |Bernadette Xiong| Delivery Manager | berni.xiong@agile6.com |
-|Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Angela Agosto |Designer| angela.agosto@adhocteam.us |
+|Liz Lantz |Design support| liz.lantz@adhocteam.us |
 |Allison Lu| FE Engineer|	allison@cityfriends.tech |
+|Derrick Ellerbie | Full Stack Engineer | derrick.ellerbie@Agile6.com|
 
 
 ### Table of Contents
@@ -32,6 +33,7 @@
 - [Design](#Design)
 - [Frontend](#Front-End)
 - [Backend](#Back-End)
+- [How to Access and Test](#How-to-Access-and-Test)
 
 
 ## Overview
@@ -45,7 +47,7 @@ My VA aggregates information from across VA.gov. While our team pulls info from 
 |My VA feature| Description | Parent tool on VA.gov | Backend systems | Backend partner contact info|
 |-------------|-------------|--------------------|-----------------|------------------------------|
 | Nametag - Full name| The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in the full name for all LOA3 users.| N/A|MPI| Go through [#vsp-identity](https://dsva.slack.com/channels/vsp-identity) instead of going straight to MPI|
-|Nametag - Disability rating| The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's disability rating, if applicable.| [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/) | EVSS | Go through [#benefits-disability-experience](https://dsva.slack.com/channels/benefits-disability-experience)|
+|Nametag - Disability rating| The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's disability rating, if applicable.| [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/) | EVSS | Go through [#benefits-ce-disability_exp_1](https://dsva.slack.com/archives/C04KW0B46N5)|
 |Nametag - Military info|The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's military branch, if applicable.|[Military information section of the VA.gov profile](https://staging.va.gov/profile/military-information)| VA Profile | Go through the profile team, or contact VA Profile ([#va-profile](https://dsva.slack.com/channels/va-profile); main contact is Mike Richard) directly|
 |Notifications| This section displays recent notifications.| Email/text notifications managed through VANotify | VANotify| [#va-notifty-public](https://dsva.slack.com/channels/va-notifty-public); Bev Nelson (beverly.nelson@va.gov) or Melanie Jones (melanie.jones@oddball.io)|
 |Claim status| This shows someone's most recent claim status update and links to the claim status tool.| [Claim status](https://staging.va.gov/track-claims/your-claims) | EVSS | Go through [#benefits-claim-appeal-status](https://dsva.slack.com/channels/benefits-claim-appeal-status) |
@@ -147,8 +149,12 @@ _Why would your business want this to exist?_
 - [My VA use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases)
 - [My VA Sketch files](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9)
 - My VA flows
-  - [Debts & copays](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/DPmvLk4)
+  - [Claims and appeals](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/4444BC2A-797F-4000-A125-31B83F7E817F/canvas)
+  - [Health care](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/23DF1405-7CBD-4457-B5B1-6D3518D13CEA/canvas)
+  - [Outstanding debts](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/DPmvLk4)
   - [Benefit payments](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/YGgwY0O)
+  - [Education and training](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/4D97AF62-70A3-4455-9ED2-96051880E836/canvas)
+  - [Benefit application drafts](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/E3464BF1-33D0-4FE6-8B5A-35CD5B7AC594/canvas)
 
 ### Screenshots
 
@@ -175,17 +181,24 @@ _Why would your business want this to exist?_
  ![My VA w/onsite notifications and payments V2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/19911c5a-6d17-40f2-94a4-7cefed5d7d7f.png)
  
  </details>
+ 
+ <details><summary>Implementation of Audit UX Improvements (reduction of conditional states) -- April 2023</summary>
+ 
+ ![My VA audit UX improvements 2023](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/5ef20fa8-b0cc-4099-b8e3-df9782c71961)
+ 
+ </details>
 
 ## Front End
 
-- placeholder
+- [Frontend - Getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend-getting-started.md)
 
 ## Back End
 
+- [My VA Backend Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/backend_documentation.md#my-va-backend-documentation)
 - [Platform Documentation on backend systems](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations)
 - [My VA 2.0 Architecture Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/Technical-diagrams/My-VA-architectural-diagram.md)
 
-### How to Access and Test
+## How to Access and Test
 
-- [Test Cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)
+- [Test Cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md) March 2023
 - [Staging User Info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mv)

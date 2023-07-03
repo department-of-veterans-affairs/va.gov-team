@@ -27,97 +27,7 @@ There are two ways we can update our app:
 * One week prior to the release sign off is due and the app is sent to the app store for review
 * On release day, the app is submitted to the app store(s) with latest app version
 
-Current Release Schedule (next 5 releases )
-
-
-<table>
-  <tr>
-   <td>Sprint
-   </td>
-   <td>Start Date
-   </td>
-   <td>End Date
-   </td>
-   <td>Release Date
-   </td>
-   <td>QA Sign Off Due
-<p>
-Date
-   </td>
-   <td>Release Sign Off Due Date
-   </td>
-  </tr>
-  <tr>
-   <td>39
-   </td>
-   <td>2/16/22
-   </td>
-   <td>3/1/22
-   </td>
-   <td>3/15/22
-   </td>
-   <td>3/4/22
-   </td>
-   <td>3/8/22
-   </td>
-  </tr>
-  <tr>
-   <td>40
-   </td>
-   <td>3/2/22
-   </td>
-   <td>3/15/22
-   </td>
-   <td>3/29/22
-   </td>
-   <td>3/18/22
-   </td>
-   <td>3/22/22
-   </td>
-  </tr>
-  <tr>
-   <td>41
-   </td>
-   <td>3/16/22
-   </td>
-   <td>3/29/22
-   </td>
-   <td>4/12/22
-   </td>
-   <td>4/1/22
-   </td>
-   <td>4/5/22
-   </td>
-  </tr>
-    <td>42
-   </td>
-   <td>3/30/22
-   </td>
-   <td>4/12/22
-   </td>
-   <td>4/26/22
-   </td>
-   <td>4/15/22
-   </td>
-   <td>4/19/22
-   </td>
-  </tr>
-   <td>43
-   </td>
-   <td>4/13/22
-   </td>
-   <td>4/26/22
-   </td>
-   <td>5/10/22
-   </td>
-   <td>4/29/22
-   </td>
-   <td>5/3/22
-   </td>
-  </tr>
-</table>
-
-See full release calander <a href="https://docs.google.com/spreadsheets/d/14jYcB3zhib3T9jyQjNpsfPLkAAqhLdAhXBPUQtsodgI/edit?usp=sharing">here</a> 
+See full release calendar <a href="https://docs.google.com/spreadsheets/d/14jYcB3zhib3T9jyQjNpsfPLkAAqhLdAhXBPUQtsodgI/edit?usp=sharing">here</a> 
 
 # Release Readiness Checklist
 
@@ -384,3 +294,8 @@ Who: Engineering,
    </td>
   </tr>
 </table>
+
+# Overview of mobile releases
+
+We recorded a presentation to VA stakeholders in April 2023 that included a brief overview of elements of the release process at a high level (<a href="https://user-images.githubusercontent.com/94404065/234997065-dc92c4a0-89b2-4d67-9163-5ab9d1cd94f0.mp4">video</a>), and the release cadence (<a href="https://user-images.githubusercontent.com/94404065/234997086-6478699b-1dc8-4165-9e7d-01eb75fc85a1.mp4">video</a>). (Slides referenced in each of those recordings in <a href="https://github.com/department-of-veterans-affairs/va.gov-team/files/11348079/PDF.Mobile.app.release.process.QA.pdf">this PDF</a>)
+

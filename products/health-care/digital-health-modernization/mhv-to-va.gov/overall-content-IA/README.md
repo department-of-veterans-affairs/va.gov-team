@@ -20,14 +20,14 @@ This directory contains information specific to overall content and IA strategy,
   - [Task analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/health-apt-tree-test-task-analysis-report.xlsx)
   - [Trees tested](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/health-apartment-trees-r1.xlsx)
 
-*Please note: In the course of creating the overall results, multiple errors were found in the set-up of the Veteran and Caregiver tree tests that impacted some of the data.  The findings from those individual tests are still mostly accurate, but some individual task results did change drastically.  Utilize the overall results for high level findings, and the task analysis spreadsheet for detailed findings on individual tasks.*
+*Please note: In the course of creating the overall results, some errors were found in the set-up of the Veteran and Caregiver tree tests that impacted data.  The findings from those individual tests are still mostly accurate, but some individual task results did change significantly.  Please utilize the overall results for high level findings, and the task analysis spreadsheet for detailed findings on individual tasks.*
 
 ### IA testing for MHV integration with VA.gov health care content - Round 2, December 2022
 - [Research and recruiting plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-12-health-apt-tree-test-round2/Tree-Test-Round-2-Research-Plan.md)
 - [H2 tree and task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-12-health-apt-tree-test-round2/H2-tree-test.xlsx)
-- Results
+- [Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-12-health-apt-tree-test-round2/mhv-on-va-round-2-tree-test-findings.md)
 
 ### IA testing focused on My health - January 2023
-- Research and recruiting plan
-- H2 tree and task list
-- Results
+- [Research and recruiting plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-01-my-health-ia-tree-test/research-plan.md)
+- [H2 tree and task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-01-my-health-ia-tree-test/my-health-dee-dive-ia-test.xlsx)
+- [Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-01-my-health-ia-tree-test/my-health-tree-test-findings.md)

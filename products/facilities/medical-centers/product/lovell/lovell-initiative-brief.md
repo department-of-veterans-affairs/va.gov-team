@@ -64,7 +64,8 @@ Example top task pages
 
 ### Current VA.gov experience
 
-[New modernized pages for Lovell ](https://www.va.gov/lovell-federal-health-care/)
+- [Lovell VA modernized site](https://www.va.gov/lovell-federal-health-care-va/)
+- [Lovell TRICARE modernized site](https://www.va.gov/lovell-federal-health-care-tricare/)
 
 ## Key Performance Indicators (KPIs)
 

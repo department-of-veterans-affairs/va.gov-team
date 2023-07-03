@@ -10,8 +10,9 @@ body:
         1. Before being granted access, you will need to either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started your [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)
         2. Change the **Title** to include your name
         3. Add the label used by your team (eg: `BAH-526`)
-        4. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
-        5. When the issue is closed you will be notified and can continue with on-boarding setup
+        4. Attach a screenshot of your E-QIP Transmittal Confirmation. If you have not started your E-QIP process, do NOT put in a request.
+        5. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
+        6. When the issue is closed you will be notified and can continue with on-boarding setup
         
         This issue can also be used to update existing access, including updating ssh-keys or changing the access type group you are in. 
   - type: input
@@ -56,6 +57,7 @@ body:
       label: Access Type Requesting
       description: Provide level of access you belive you will need. If you are unsure you can [click here](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/global/config.yml) and see what your team members are currently in.
       options:
+        - ' '
         - automation
         - automation_external
         - developers
@@ -71,6 +73,13 @@ body:
       label: Public SSH Key
       description: If you don't have a SSH Key or know how to find it [click here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key) for instructions
       placeholder: ssh-rsa  AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+ username@mail.com
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: E-QIP Transmittal Confirmation
+      description: Attach a screenshot of your confirmation by clicking this area to highlight and dragging the file in.
+      placeholder: Drag your transmittal confirmation screenshot here
     validations:
       required: true
   - type: markdown

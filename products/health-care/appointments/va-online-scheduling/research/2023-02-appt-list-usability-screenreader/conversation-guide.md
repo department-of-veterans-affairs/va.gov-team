@@ -29,11 +29,11 @@
 
 ### When the participant joins:
 
-- Thanks for joining us today! My name is Ciera I will be walking you through this session today. [Notetaker] Is also here to take notes and make sure I don't miss anything.
+- Thanks for joining us today! My name is Ciera I will be walking you through this session today. We also have a Peter here to take notes and make sure I don't miss anything.
 
 - Today we're going to talk about managing appointments on VA.gov, and how that experience works when using a screenreader. 
 
-- I have a few people on the team who are interested in listening in to our session as observers. They’re in the virtual waiting room right now. It’s completely fine if you choose to have the session without observers, so let me know what you’d prefer. If it’s ok with you, I’ll have them join. 
+- I have a few people on the team who are interested in listening in to our session as observers. They’re in the virtual waiting room right now. It’s completely fine if you choose to have the session without observers, so let me know what you’d prefer. Is it okay with you if they join us? 
 
 _If no_ In the [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) let observers know that the participant does not want them observing. 
 
@@ -41,11 +41,13 @@ _If yes_ Thank you. I'll admit them now.
 
  - [ ] Let observers join with their video on. Each observer should come off mute and introduce themselves, and then go back on mute with video off.
 
-A few things I want to mention about how today's session:
+There are a few things I want to mention about today's session:
 
-   - There are no right or wrong answers, and I won’t be offended by any opinions you express. We just want to hear your opinions, so that we can improve the appointments feature and make it work better for everyone.
+   - There are no right or wrong answers, and I won’t be offended by any opinions you express. We just want to hear your thoughts, so that we can improve the appointment features and make it work better for everyone.
     
-   - There’s no expectation to provide any personal information. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
+   - You will be interacting with your VA.gov account today. We would like to enable the updated appointments feature and have you browse it. This means anything you do here could affect your account, but we will not be asking you to make any changes today. We will want to look at your appointments list, so we may see your upcoming appointments and history. We won't share this with anyone outside of the session.
+   **Just to confirm**: Would you be comfortable sharing this information during this session? If not, that is completely fine.
+       - If no: would you be comfortable with logging in and describing what you see?
     
    - This entire session should take about 90 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
     
@@ -78,18 +80,16 @@ Next, I want to get our tech set up.
 
 - Does the device you're using have a screen to share?
 
-You will be interacting with a prototype on the web. In order to do that I'll need you to navigate to a link, then log in with a test user.
-
-   - I have a link to the tool I'll ask you to navigate using the screenreader. **Would you prefer that I send that in the Zoom chat, to your email, or by another method?**
-   - If another method, confirm their contact number/email address.
-   - Send user [Staging Link]() 
-   - Send user Login credentials
+You will be interacting with your VA.gov account today. We are going to enable this new feature on your account for this session. Just know that this is live and while anything you do here could affect your account, we will not be asking you to make any changes today.
     
-- Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
+- Now I'm going to have you share your screen so that we can go over it together.
+
+**Would you prefer that I send that in the Zoom chat, to your email, or by another method?**
+- If another method, confirm their contact number/email address.
+- Send user [Link](https://www.va.gov/health-care/schedule-view-va-appointments) 
 
 - If participant can share their screen, walk them through screen sharing.
     -  [Screenreader Screen Share Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-checklist)
-    -  Make
 
 
 ### If they can't share their screen
@@ -106,18 +106,17 @@ Thanks!
 
 We're going to run through a series of tasks related to managing your health care appointments at VA. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
+## Task 1: Log in to VA.gov
 
-## Task 1: Find the appointments list.
+STARTING POINT: [va.gov appointment list](https://www.va.gov/health-care/schedule-view-va-appointments)
 
-Say you wanted to find out what health appointments you have scheduled for the next month. Show me how you would find that from here.
+PROMPT: Go ahead and login to your account using your email address and password. 
 
-## Task 2: Log in to VA.gov
+## Task 2: Find the appointments list.
 
-PROMPT: Next, you'll need to login using a test user. I've sent the test user login credentials to (your email/phone/the chat)
+PROMPT: Next, say you wanted to find out what health appointments you have scheduled for the next month. Show me how you would find that from here.
 
-You'll use Login.gov to sign in 
-  - Email address is [TBA] 
-  - Password is [TBA]
+And just to confirm, are you okay sharing your health appointment info during this session?
 
 #### Things to watch for:
 
@@ -155,7 +154,7 @@ Tell me about some of the appointments you have requested.
 
 **Follow up:** 
 - If they didn't navigate to the details page during the initial search: 
-    - If no longer needed an appointment and wanted to cancel one of these requests, how would you do that from here?
+    - If you no longer needed an appointment and wanted to cancel one of these requests, how would you do that from here?
 
 ### Things to watch for:
 - How did they talk about requests? Have they experienced them before?
@@ -173,13 +172,21 @@ Tell me about some of the appointments you have had in the past.
 
 ## Post-Task Interview
 
-- Does anything you saw today reflect how you manage your health care appointments? 
+- Does anything we went over today reflect how you manage your health care appointments? 
+
+- What tools do you use to track and manage your appointments.
+
+- What are some of the easiest-to use online tools for scheduling and managing appointment?
+
+- Thinking about all your scheduling activities (not just for health care) do you prefer to schedule online, over the phone, or some other way?
 
 - Of everything you saw today, what was the most confusing, or challenging?
 
 - What worked well?
 
 - What could we do better?
+
+
 
 ## Thank-You and Closing
 

@@ -1,0 +1,8 @@
+Github ticket 4563 
+
+Data being tracked
+
+Track How many Veterans clicked the What's New UI alert to access more information in the accordion expansion - vama_whatsnew_more
+Track How many Veterans in the What's New UI Panel clicked Close button for a release - vama_whatsnew_close
+Track How many Veterans in the What’s New UI Panel clicked do not show me again for a release - vama_whatsnew_dont_show
+How many times the What's New UI appears to the user to see who engages and how many times it appears before any or no engagement - vama_whatsnew_alert
