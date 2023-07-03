@@ -229,8 +229,10 @@ Your application will be saved on every change. Your application ID number is NN
 
 {end dynamic content}
 
-{blue background info alert if signed in}
+{blue background info alert if signed in - would only display if applying for self}
+
 We’ve prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below.
+
 {end blue background info alert}
 
 ### Page Title: Applicant information {h3 heading with h5 styling}
