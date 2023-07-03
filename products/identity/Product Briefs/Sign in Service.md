@@ -1,4 +1,4 @@
-# Identity Dashboard
+# Sign in Service
 ## Overview: (Provide a high level description of the product/set of features)
 Sign in Service is a client authentication service that provides a highly reliable, efficient, and secure user authentication experience to VA.gov and other VA applications. The Sign in Service is highly lean, cost effective, and transparent. It introduces the concept of ultimate accountability throughout the authentication process, with monitors and logging providing an auditable insight into every user authentication.
 ## Problem Statement: (Describe what problem we’re going to address with this product)
