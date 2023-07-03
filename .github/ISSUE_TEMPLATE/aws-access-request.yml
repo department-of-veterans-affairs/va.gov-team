@@ -129,7 +129,7 @@ body:
         :x: Don't fill out anything below here :x:
   - type: checkboxes
     attributes:
-      label: "User must exist in a roster before AWS access can be granted. See [AWS access documentation](https://vfs.atlassian.net/wiki/spaces/AMT/pages/2251358357/SOCKS+and+AWS+Access+Request+Automation#AWS-Access-Request) for the steps involved."
+      label: "User must exist in a roster before AWS access can be granted. See [AWS access documentation](https://vfs.atlassian.net/wiki/spaces/OT/pages/1792114735/Onboard+New+Team+Members+Granting+Access+to+Internal+Tools#AWS-Access-Request) for the steps involved."
       description: Don't fill this part out, please
       options:
       - label: "Search for user on the [VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)"
