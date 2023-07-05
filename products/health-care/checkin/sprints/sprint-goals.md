@@ -42,7 +42,15 @@ ________________________________________________________________________________
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create TestRail Test Cases](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61429)
     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] Determine if notification card can be read out as more important for AT users](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60867)
-        - TBD
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] [UX] Which solution will solve the accordion issue? ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59416)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] [SPIKE] Do we use dismissible alerts or not?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57894)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] Consider location of check-in status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59169)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] Revisit adding travel confirmation into h1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59165)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] Add annotations for when to announce alerts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59118)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] [UX] Create Wireframe to Address CAIA Accordion Feedback for Pre-Check-In Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59309)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] Decision on default warning alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59044)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] [UX] Update the travel pay confirmation page to avoid using 2 sentence](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59121)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] SPIKE - Do we want to Allow Check in Text when No Appointments/Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57954)
     - **Sub Goal: [Create Veteran FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60145)**
         - TBD
     - **Sub Goal: Analyze current metrics to see what they tell us**
