@@ -78,9 +78,9 @@ On the VAOS homepage, the app displays the following for each status:
 - [X] [VAOS](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/unit-test-coverage-report/)
 
 ### E2E tests 
-- [ ] File path: 
+- [ ] File path: vets-website/src/applications/vaos/appointment-list/components/AppointmentsPageV2
 - [X] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/tests/e2e/flows)
   
 ### Code coverage
-- [ ] File path:
+- [ ] File path: vets-website/src/applications/vaos/appointment-list/components/AppointmentsPageV2
 - [X] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/appointment-list/components)
