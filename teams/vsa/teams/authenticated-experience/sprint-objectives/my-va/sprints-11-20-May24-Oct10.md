@@ -105,16 +105,15 @@ _Samara returns from parental leave!_
 - Testing
 - Submit PSIR review (will need dev support on this)
 
-
 **Audit UX**
-- Post launch code cleanup 
- 
+- Prep for impact review (PM only)
 
 **MHV Migration Support**
 - Technical discovery: what will/do we need to update on My VA that currently points to MHV? (FE and BE tix in backlog)
 
 **General**
-- E2E and unit test work (cont. as needed)
+- E2E and unit test work (cont. as needed/bandwidth allows)
+- Post launch code cleanup of My VA redirect (work was not complete in [#47291](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47291) and had to be reopened)
 
 
 ## Sprint 15 (7/19 - 8/1)
