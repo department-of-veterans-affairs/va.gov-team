@@ -148,9 +148,7 @@ _Samara returns from parental leave!_
 
 **Component**
 - Post-launch code cleanup 
-- Documentation updates: standard use cases, flows, etc. 
-
-- Documentation updates (cont.): document process of component build soup to nuts
+- Documentation updates: standard use cases, flows, etc.
 
 **Notification Center**
 - Finish build
