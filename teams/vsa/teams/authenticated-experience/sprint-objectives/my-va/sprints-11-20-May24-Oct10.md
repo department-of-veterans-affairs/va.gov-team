@@ -111,8 +111,6 @@ _Samara returns from parental leave!_
 **Alert/Error Updates** 
 - (Design) In preparation for release of onsite notification component, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
 
-**MHV Migration Support**
-- Technical discovery: what will/do we need to update on My VA that currently points to MHV? (FE and BE tix in backlog)
 
 **General**
 - E2E and unit test work (cont. as needed/bandwidth allows)
@@ -134,6 +132,9 @@ _Samara returns from parental leave!_
 
 **Claims status widget - EVSS > Lighthouse**
 - Begin phased launch
+
+**MHV Migration Support**
+- Technical discovery: what will/do we need to update on My VA that currently points to MHV? (FE and BE tix in backlog)
 
 **Audit UX**
 - Audit code to prep for post launch code cleanup 
