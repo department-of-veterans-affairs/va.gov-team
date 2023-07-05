@@ -74,9 +74,9 @@ On the VAOS homepage, the app displays the following for each status:
 - [X] [Link Traceability Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/print-appointment-list/print-list-traceability-report-qa.md) 
 
 ### E2E tests 
-- [ ] File path: 
+- [ ] File path: vets-website/src/applications/vaos/appointment-list/components/AppointmentsPageV2
 - [X] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/tests/e2e/flows)
   
 ### Code coverage
-- [ ] File path:
+- [ ] File path: vets-website/src/applications/vaos/appointment-list/components/AppointmentsPageV2
 - [X] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/appointment-list/components)
