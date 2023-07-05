@@ -1,6 +1,14 @@
 # Benefits Disability Experience - Product sync 
 
-### Date: June 21 2023       
+### Date: Jul 5 2023       
+### Participants: 
+### Topics Covered:
+- Q3 Initiatives prioritization
+   - Ideas - Shannon and Steve
+- Combined road-map
+  - In progress - Austin
+    
+### Date: June 28 2023       
 ### Participants: Rakshinda, Shannon, Steve
 ### Topics Covered:
 - Issue Management Strategy
