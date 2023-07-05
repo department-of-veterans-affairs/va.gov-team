@@ -26,7 +26,7 @@ We can follow the [Creating a new application](https://depo-platform-documentati
 One potential issue on this page is the presence of redundant headers and links in the Notification cards.
 
 ### Tasks
-- [ ] **(Point estimation)** Task
+- [x] **(Point estimation)** Task
 
 #### Scaffolding
 - [ ] **(2)** Inquire Platform team about the last question in Yeoman generator (made this a task under 60398 which is 4pts)
