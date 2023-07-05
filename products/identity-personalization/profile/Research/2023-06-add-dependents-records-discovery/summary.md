@@ -1,6 +1,6 @@
 # Discovery summary: adding records and dependents to profile, June 2023
 
-July 3, 2023
+July 5, 2023
 
 Pam Drouin and Liz Lantz, Authenticated Experience
 
