@@ -68,15 +68,15 @@ On the VAOS homepage, the app displays the following for each status:
 - [X] [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
 
 ### Summary Defect Report
-- [X]
+- [X] [Link Summmary Defect](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/print-appointment-list/print-list-defects.md) 
 
 ### Traceability Report 
-- [X]
+- [X] [Link Traceability Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/print-appointment-list/print-list-traceability-report-qa.md) 
 
 ### E2E tests 
-- [X] File path: 
-- [X] [Product's code link]()
-
+- [ ] File path: 
+- [X] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/tests/e2e/flows)
+  
 ### Code coverage
-- [X] File path: 
-- [X] [Product's code link]()
+- [ ] File path:
+- [X] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/appointment-list/components)
