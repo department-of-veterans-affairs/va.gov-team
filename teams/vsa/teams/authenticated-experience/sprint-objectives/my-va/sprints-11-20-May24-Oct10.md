@@ -134,7 +134,7 @@ _Samara returns from parental leave!_
 - Begin phased launch
 
 **MHV Migration Support**
-- Technical discovery: what will/do we need to update on My VA that currently points to MHV? (FE and BE tix in backlog)
+- Technical discovery: what will/do we need to update on My VA that currently points to MHV, or will be impacted by the migration to VA.gov? (FE and BE tix in backlog)
 
 **Audit UX**
 - Audit code to prep for post launch code cleanup 
