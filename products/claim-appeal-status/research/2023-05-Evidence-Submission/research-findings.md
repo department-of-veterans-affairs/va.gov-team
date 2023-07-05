@@ -127,6 +127,7 @@ Participants felt neutral about the Claim ID. It’s only useful to them if they
 We do need the claim headers to be unique, but the “Submitted on” date could satisfy that requirement without Claim IDs.
 
 >  “That's a claim number which...if you were to call they don't ever ask you about a claim number.” – P1
+
 >  “When you call the VA, they're not going to ask for that number, they want your social.” – P7
 
 ### 5. Participants responded well to the CST status page framing of “What you need to do” and “What we’re doing.”**
@@ -138,6 +139,7 @@ The shift to an action-oriented approach for the Status tab was well-received. M
 Seeing the details of up-to-date VA actions gave them confidence that the claim was being attended to.
 
 >  “5/5, because ‘what you need to do’ and ‘what were doing’ those two things are significant for us.” – P7
+
 >  “You don’t have to do anything right now...that’s good.” – P13
 
 ## Recommendations
