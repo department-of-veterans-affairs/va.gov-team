@@ -22,7 +22,7 @@ Use cases and testing are documented on [this spreadsheet](https://docs.google.c
 
 
 #### Privacy, Security, Infrastructure Review
-
+[PSIR Prep](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/95947f796f73c3fc008549338e7adc510495c938/products/identity-personalization/profile/direct_deposit/lighthouse/psir_prep.md)
 
 ## Step 3: Production rollout
 
