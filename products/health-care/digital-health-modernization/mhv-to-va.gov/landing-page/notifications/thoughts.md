@@ -7,20 +7,19 @@
 
 At VA.gov I see a design problem that might be called, "putting everything we think is most important to the Veteran at the top of the screen" combined with another related problem that might be called, "rarely or never assessing if what we put at the top of the screen is actually aligned with Veteran needs."
 
-A good example is on the authenticated My VA page: 
+A good example of this problem in action is the nametag banner featured on My VA and Profile pages.
 
 ### The nametag banner
 
-Despite lacking any evidence that it is needed by Veterans when they log in, the My VA and Profile pages feature a "nametag": a blue banner right under the VA.gov header menu with the Veteran's full name, the last military branch they served in, the insignia of that military branch (all 3 pieces of information is already known to the Veteran) plus the Veteran's disability status (a numerical percentage that rarely changes). In other words, on desktop, we take up over an inch of prime real estate to provide information the Veteran almost certainly knows, plus one piece of information that the Veteran is not necessarily seeking. Meanwhile, the banner displaces potentially actionable content further down the page, and eventually out of the users' sight. 
+Despite lacking any evidence that it is needed by Veterans when they log in, the My VA and Profile pages feature a "nametag": a blue banner right under the VA.gov header menu with the Veteran's full name, the last military branch they served in, the insignia of that military branch (all very likely known to the Veteran) plus the Veteran's disability status (a numerical percentage that rarely changes). Meanwhile, the banner displaces potentially actionable content further down the page, and eventually out of the users' sight. 
 
-Until we see evidence that the nametag banner is delivering information to Veterans that is needed at least most of the time Veterans are logged in and on the My VA and Profile pages, its existence is antithetical to user-centered design.
+Until we see evidence that the nametag banner is delivering needed and visit-relevant information to Veterans, its existence is antithetical to user-centered design.
 
 <img width="736" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/0de81998-c4cb-4529-856b-5e78b57e7f24">
 
 
 
-Here is where the Nielsen Norman Groups heuristics come into play: the nametag banner is not in accordance with two of Nielsen Norman Group's heuristics:
-
+The Nielsen Norman Group's heuristics #4 and #7 are helpful in explaining why this design presents a problem: 
 
 #### [#4) Consistency & Standards](https://www.nngroup.com/articles/consistency-and-standards/), which states, "Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know. Design for patterns for which users are accustomed."
 
@@ -52,10 +51,11 @@ However, that being said, due to the ubiquitous nature of the VA.gov pattern, "p
 
 #### [#8) Aesthetic and Minimalist Design](https://www.nngroup.com/articles/aesthetic-minimalist-design/)
 
-When discussing notification needs with accessibility consultant Angela Fowler, I asked her how she typically would come across notifications on other websites (using her screenreader). Angela said that she actively seeks out notifications when she wants to read them (or happens upon the section when scanning through a page). When I asked her how it would feel if her screenreader started to read off notifications before she was actively looking for them she said, "that would be really annoying." The same is potentially true for users who are not visually impaired. As just stated, users are accustomed to seeking out notifications when they want them as well as being able to effectively ignore them and leave them "unread" for later. To be in accordance with this Usability Heuristic, I think we should allow users this power they experience on other sites to limit the noise they are seeing, complete the tasks that brought them to VA.gov, and interact with content when they are ready.
+When discussing notification needs with accessibility consultant Angela Fowler, I asked her how she typically would come across notifications on other websites (using her screenreader). Angela said that she actively seeks out notifications when she wants to read them (or happens upon the section when scanning through a page). When I asked her how it would feel if her screenreader started to read off notifications before she was actively looking for them she said, "that would be really annoying." 
 
+I think this expectation is not limited to visually impaired users. All users are accustomed to seeking out notifications when they want them, as well as ignoring notifications and leaving them "unread" for later. 
 
-I think we have created designs in the past on VA.gov that have engendered unfortunate user behavior that we must then contend with later. An example of this is the way VA.gov combined personal and general information on content pages (another miss according to heuristic #4). As a result, when users want to find information about their own military history or reset email notifications, they rarely think to go to authenticated parts of the site, but rather start with the primary nav dropdown, search, or clicking around on the unauthenticated site. If we continue to go against internet standards in the context of notifications, I am concerned that we will encourage our users to develop behaviors that include: expecting to see all notifications at the top of their My VA and My Health screens and potentially not searching for notifications where they would otherwise look before we encouraged them to change behaviors. 
+In the past, VA.gov has engendered unfortunate user behavior by creating designs  that we must then contend with later. An example of this is the way VA.gov combined personal and general information on content pages (another miss according to heuristic #4). As a result, when users want to find information about their own military history or reset email notifications, they rarely think to go to authenticated parts of the site, but rather start with the primary nav dropdown, search, or clicking around on the unauthenticated site. If we continue to go against internet standards in the context of notifications, I am concerned that we will encourage our users to develop behaviors that include: expecting to see all notifications at the top of their My VA and My Health screens and potentially not searching for notifications where they would otherwise look before we encouraged them to change behaviors. 
 
 ### Conclusion
 
