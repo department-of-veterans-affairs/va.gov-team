@@ -133,9 +133,12 @@ _Samara returns from parental leave!_
 **Claims status widget - EVSS > Lighthouse**
 - Begin phased launch
 
-
 **Alert/Error Updates** 
-- (Dev) Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
+- (Design) Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
+
+
+**Audit UX**
+- Audit code to prep for post launch code cleanup 
 
 **General**
 - E2E and unit test work (cont. as needed)
@@ -159,8 +162,11 @@ _Samara returns from parental leave!_
 **Claims status widget - EVSS > Lighthouse**
 - Continue phased launch
 
+**Audit UX**
+- Execute post launch code cleanup (may be multiple tickets/sprints based on findings in 60886 last sprint)
+
 **Alert/Error Updates** 
-- (Design) Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
+- (Dev) Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
 
 **General**
 - E2E and unit test work (cont. as needed)
