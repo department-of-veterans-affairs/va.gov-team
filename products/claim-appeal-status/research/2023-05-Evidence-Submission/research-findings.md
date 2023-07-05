@@ -126,8 +126,8 @@ Keeping this level of detail in implementation will be key to this feature’s s
     * Participants preferred the new design to the current design.  
 2. Adopt the action-oriented design principle. Be proactive in reassuring Veterans about what they do and don’t have to do while a claim is in progress.
     * The reassuring messaging of "You don't need to do anything right now" really resonated with participants. Multiple Veterans called that out as useful and anxiety-reducing. 
-3. Consider how Claim IDs could be included but less prominent visually.
-    * Given that it's not a crucial part of the UI for sighted users, we might explore reducing its visual prominence if we can still satisfy a11y criteria.
+3. Remove Claim IDs from the design proposal, given that they don’t seem to provide much value. Consider adding them in the future if a use case becomes clear.
+    * The research didn't reveal any ways in which Claim IDs would be uniquely valuable parts of the user interface. As a reference, Veteran Social Security Numbers seem to be more common. As a way to distinguish headers for a11y purposes, the "Submitted on: [date]" string will work.
 4. Explore ways to ensure Veterans use the request widget to add evidence, rather than the Files tab.
     * A couple participants would have uploaded evidence via the Files tab, and files uploaded in this way are not expedited in the same way evidence request files are. They do not get looked at by the VSR as quickly as they would if they'd been uploaded via the request widget. 
 5. Explore ways to make it clearer where Documents Filed items came from, and way to clarify the relationship Documents Filed and Recent Activity.
@@ -150,6 +150,7 @@ Keeping this level of detail in implementation will be key to this feature’s s
 ## Further research needed
 
 - We will need to test the design with AT users once it has been implemented in code.
+- Talk to the call center team about whether or not a unique Claim ID would be useful to them as a reference object. If so, consider adding Claim IDs to the UI.
 
 ## Appendix
 
