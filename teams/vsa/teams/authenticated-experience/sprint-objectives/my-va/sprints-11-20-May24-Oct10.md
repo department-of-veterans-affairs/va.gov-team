@@ -153,8 +153,9 @@ _Samara returns from parental leave!_
 - Documentation updates: standard use cases, flows, etc.
 
 **Notification Center**
+- QA prep
 - Finish build
-- QA
+- Begin thinking about UAT - in the past UAT on anything notification-related has been tricky given that we don't want to alarm veterans by showing them "fake" debt notifications. Does this same concern exist for the NC MVP?
 
 ### My VA
 
@@ -182,6 +183,7 @@ _Samara returns from parental leave!_
 
 **Notification Center**
 - QA
+- Analytics
 - Schedule staging review
 - Plan for UAT (convo guide, plan)
 - Staging Review?
