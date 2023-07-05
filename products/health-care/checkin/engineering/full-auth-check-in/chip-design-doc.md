@@ -66,7 +66,7 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
 
 ### Demographics
 
-#### `GET /demographic-status-with-data`
+#### `GET /authenticated-demographics`
 - Description: This endpoint is for retrieving demographics confirmation information which includes a field indicating if insurance verification is needed, patient contact information, emergency contact information and next-of-kin contact information.
   - Requirements for patient check-in:
     - all three `needsConfirmation` fields need to be `false`
@@ -137,7 +137,7 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
         - `zip4` (string)
         - `country` (string)
 
-#### `PATCH /demographic-confirmations`
+#### `POST/PATCH /authenticated-demographics`
 - Description: Edit demographics confirmations
 - Request Body:
   - `patientDFN` (string): The unique identifier of the patient.
