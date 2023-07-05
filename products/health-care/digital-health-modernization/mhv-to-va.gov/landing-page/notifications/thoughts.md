@@ -47,15 +47,12 @@ The new notification cards that have recently been added to the design system co
 
 I can't recall a website or webapp (besides VA.gov) that shows notifications at the top of the screen similar to the notification card component. I think if we did research we would find that users expect to find notifications in the top right corner of their screen. I think we would also find this typical notification placement allows users to seek out notifications when they want to see them, as well as allowing them to effectively ignore notifications and leave them "unread" for later (this is an important positive aspect of relying on Information Architecture, not banners/cards at the top of a screen). At this point, I am unaware of any reasons why we would deviate from this internet-wide norm.
 
-However, that being said, due to the ubiquitous nature of the VA.gov pattern, "putting everything we think is most important to the Veteran at the top of the screen," there is so much content crammed into the top of pages that Veterans are unable to see both the page's contents and the VA.gov header (and therefore the notification bell and/or badge) at the same time. In other words, we've officially entered a territory of putting so much at the top of the screen that our top-of-the-screen items are starting to compete with one another, which makes us want to add more, bigger and louder content at the top of the screen to make sure that the Veteran cannot possibly miss it. (This is a problem that snowballs and gets worse over time).
-
-Instead of continuing to add more, let's instead find other places for content to live so it's findable when and if it's needed. 
 
 #### [#8) Aesthetic and Minimalist Design](https://www.nngroup.com/articles/aesthetic-minimalist-design/)
 
 When discussing notification needs with accessibility consultant Angela Fowler, I asked her how she typically would come across notifications on other websites (using her screenreader). Angela said that she actively seeks out notifications when she wants to read them (or happens upon the section when scanning through a page). When I asked her how it would feel if her screenreader started to read off notifications before she was actively looking for them she said, "that would be really annoying." 
 
-I think this expectation is not limited to visually impaired users. All users are accustomed to seeking out notifications when they want them, as well as ignoring notifications and leaving them "unread" for later. Why not continue with this common website pattern that users are accustomed to, instead of adding more noise and competing visual elements to their experience?
+Angela's expectation is not limited to visually impaired users. Noise and distractions unrelated to the task the Veteran is trying to complete will always be ignored at best or problematic at worst. Why not continue with a commonly used website pattern that limits noise, but still manages to communicate to users that new notifications are ready to be viewed?
 
 
 ### Conclusion
