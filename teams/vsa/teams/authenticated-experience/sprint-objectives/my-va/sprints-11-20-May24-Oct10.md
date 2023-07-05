@@ -51,7 +51,7 @@
 ### My VA
 
 **Claims status widget - EVSS > Lighthouse**
-- Implementation: update claims status to point to Lighthouse endpoints (from EVSS)
+- Implementation
 
 **General**
 - E2E and unit test work
@@ -74,7 +74,7 @@
 ### My VA
 
 **Claims status widget - EVSS > Lighthouse**
-- Implementation continued: update claims status to point to Lighthouse endpoints (from EVSS)
+- Implementation continued
 - Product documentation ticket
 - Testing strategy/discussion with Tom and Derrick
 
@@ -102,9 +102,9 @@ _Samara returns from parental leave!_
 ### My VA
 
 **Claims status widget - EVSS > Lighthouse**
-- Testing?
+- Testing
 - Submit PSIR review (will need dev support on this)
-- Launch/remove feature flag
+
 
 **Audit UX**
 - Post launch code cleanup 
@@ -131,8 +131,8 @@ _Samara returns from parental leave!_
 ### My VA
 
 **Claims status widget - EVSS > Lighthouse**
-- Update technical diagram(s)/documentation
-- Post-launch cleanup
+- Begin phased launch
+
 
 **Alert/Error Updates** 
 - (Dev) Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
@@ -157,7 +157,7 @@ _Samara returns from parental leave!_
 ### My VA
 
 **Claims status widget - EVSS > Lighthouse**
-- ...
+- Continue phased launch
 
 **Alert/Error Updates** 
 - (Design) Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
@@ -183,6 +183,9 @@ _Samara returns from parental leave!_
 
 ### My VA
 
+**Claims status widget - EVSS > Lighthouse**
+- Complete phased launch
+
 **General**
 - ...
 
@@ -196,6 +199,10 @@ _Samara returns from parental leave!_
 - Plan for UAT (convo guide, plan)
 
 ### My VA
+
+**Claims status widget - EVSS > Lighthouse**
+- Update technical diagram(s)/documentation
+- Post-launch cleanup
 
 **General**
 - E2E and unit test work (cont. as needed)
