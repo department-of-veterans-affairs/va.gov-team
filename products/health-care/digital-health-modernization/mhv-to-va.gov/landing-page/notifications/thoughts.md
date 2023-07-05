@@ -57,7 +57,7 @@ Angela's expectation is not limited to visually impaired users. Noise and distra
 
 ### Conclusion
 
-We have evidence from [VA.gov-conducted user research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-readout-full.pdf) among other studies that VA.gov suffers from an unfortunate user behavior of our own making: some call it "banner blindness" but to use more inclusive language, I'll call it "lack of banner awareness." Because VA.gov has such a strong habit of "putting everything we think is most important to the Veteran at the top of the screen" Veterans simply do not read banners, and fully ignore their existence during VA.gov-run usability tests.
+We have evidence from [VA.gov-conducted user research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-readout-full.pdf) among other studies that VA.gov suffers from an unfortunate user behavior of our own making: some call it "banner blindness." Because VA.gov has such a strong habit of "putting everything we think is most important to the Veteran at the top of the screen" Veterans simply do not read banners, often failing to notice their existence during VA.gov-run usability tests.
 
 If we are to reclaim Veteran users' attention and improve their ability to access the content and personalized information offered on VA.gov, we must intentionally do the following with every design:
 1. For any content that we feel an urge to put at the top of the screen, pause and consider: what if Veterans do not need this content when the log in? If they ended up needing it, where might users actively search for this information?
