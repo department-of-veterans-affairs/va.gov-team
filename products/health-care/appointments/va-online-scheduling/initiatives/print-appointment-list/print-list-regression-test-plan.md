@@ -79,8 +79,8 @@ On the VAOS homepage, the app displays the following for each status:
 
 ### E2E tests 
 - [ ] File path: 
-- [ ] [Product's code link]()
-
+- [X] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/tests/e2e/flows)
+  
 ### Code coverage
-- [X] File path:
-- [X] [Product's code link]()
+- [ ] File path:
+- [X] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/appointment-list/components)
