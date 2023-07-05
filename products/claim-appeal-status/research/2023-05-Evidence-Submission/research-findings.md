@@ -106,7 +106,7 @@ A couple Veterans mentioned they wanted more information about _why_ they were g
 
 > "They're giving me what I need to do, when I need to get it turned in, and a way for me to turn it in, so that the VA can make a decision...Had I not known there was something for me to do, my 179 days would be a lot longer." – P9
 
-### 3. Participants are reassured by the “Recent activity” section because it tells them that the VA is taking action to gather necessary information for the claim.**
+### 3. Participants are reassured by the “Recent activity” section because it tells them that the VA is taking action to gather necessary information for the claim.
 
 Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool, DSP: Notifications
 
@@ -118,7 +118,7 @@ Keeping this level of detail in implementation will be key to this feature’s s
 
 > "I like (this) version becaues it gives more information and it shows (the Veteran) what you've actually done." – P11
 
-### 4. Participants were neutral about Claim IDs. They didn’t see a clear value in it, but were not bothered by it either.**
+### 4. Participants were neutral about Claim IDs. They didn’t see a clear value in it, but were not bothered by it either.
 
 Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 
@@ -130,7 +130,7 @@ We do need the claim headers to be unique, but the “Submitted on” date could
 
 >  “When you call the VA, they're not going to ask for that number, they want your social.” – P7
 
-### 5. Participants responded well to the CST status page framing of “What you need to do” and “What we’re doing.”**
+### 5. Participants responded well to the CST status page framing of “What you need to do” and “What we’re doing.”
 
 Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 
