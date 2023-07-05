@@ -108,6 +108,9 @@ _Samara returns from parental leave!_
 **Audit UX**
 - Prep for impact review (PM only)
 
+**Alert/Error Updates** 
+- (Design) In preparation for release of onsite notification component, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
+
 **MHV Migration Support**
 - Technical discovery: what will/do we need to update on My VA that currently points to MHV? (FE and BE tix in backlog)
 
@@ -131,10 +134,6 @@ _Samara returns from parental leave!_
 
 **Claims status widget - EVSS > Lighthouse**
 - Begin phased launch
-
-**Alert/Error Updates** 
-- (Design) Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
-
 
 **Audit UX**
 - Audit code to prep for post launch code cleanup 
@@ -165,7 +164,7 @@ _Samara returns from parental leave!_
 - Execute post launch code cleanup (may be multiple tickets/sprints based on findings in 60886 last sprint)
 
 **Alert/Error Updates** 
-- (Dev) Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
+- (Dev) Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066) for design guidance and [#60329](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60329) for the implementation)
 
 **General**
 - E2E and unit test work (cont. as needed)
