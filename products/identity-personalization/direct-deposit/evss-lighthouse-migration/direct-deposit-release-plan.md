@@ -34,8 +34,8 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
-[UAT directory in GH](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/UAT)
-[go / no go UAT conversation ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61177)
+- [UAT directory in GH](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/UAT)
+- [go / no go UAT conversation ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61177)
 
 #### Planning
 
