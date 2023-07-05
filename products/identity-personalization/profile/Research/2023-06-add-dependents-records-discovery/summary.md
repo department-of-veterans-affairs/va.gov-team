@@ -8,7 +8,7 @@ Pam Drouin and Liz Lantz, Authenticated Experience
 
 In Spring 2023, we concluded generative research to understand challenges people experience while navigating to tasks while logged in ([summary report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md)). In that research, we observed that [people specifically struggled to find dependents on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#participants-struggled-to-find-dependent-information-which-wasnt-linked-from-the-homepage-my-va-or-the-mega-menu-links), which is not linked from the homepage, My VA, or the mega menu links. This finding bolstered [a past request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md#general-profile-requests--updates) to add dependents to the profile. In addition, navigating to tasks that might be located in multiple categories were an issue (such as benefit letters, claim letters, Veteran ID card).
 
-After that research concluded, the homepage was redesigned. As of June 1, 2023, letters and ID cards are no longer linked from the homepage. We assume makes them even harder for veterans to find.
+After that research concluded, the homepage was redesigned. As of June 1, 2023, letters and ID cards are no longer linked from the homepage. We assume this change makes them even harder for veterans to find.
 
 ## Goals
 
