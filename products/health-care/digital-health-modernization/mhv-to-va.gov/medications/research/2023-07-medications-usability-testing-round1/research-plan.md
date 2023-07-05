@@ -168,6 +168,8 @@ _Please provide response on roster._
 | Monday | July 24 | 8:00am – 10:30am, 3:00pm – 4:00pm, 6:00pm – 8:00pm |
 | Tuesday | July 25 | 8:00am – 10:30am, 4:00pm – 8:00pm |
 | Thursday | July 27 | 8:00am – 11:00am, 12:00pm – 1:00pm, 3:00pm – 8:00pm |
+| Monday | July 31 | 9:00am - 4:00pm, 5:00pm - 8:00pm |
+| Tuesday | August 1 | 9:00am - 8:00pm |
 
 ## **Team Roles**
 
