@@ -2,6 +2,7 @@
 The goal is to understand OCTO’s various intake and prioritization decision processes; identify root causes, issues, and opportunities; and make recommendations for improvement - loosely following the USDS Discovery Sprint Guide. https://sprint.usds.gov/
 
 # Team
+** Coming soon** 
 
 # Research/Documents/Helpful Links
 * [Discovery Sprint guide](https://sprint.usds.gov/)
