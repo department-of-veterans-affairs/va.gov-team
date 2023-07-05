@@ -44,20 +44,53 @@ My team needs support with ...
 ### When do you expect to launch your product to 100% of users?
   
 *Please provide an estimated date so our team can create other relevant tickets.*
- 
-### Will this work be going through the Collaboration Cycle?
-- [ ] Yes 
-- [ ] No
- 
-#### If yes, please check all of the phases in the Collaboration Cycle you have completed: 
-- [ ] Design Intent
-- [ ] Midpoint Review
-- [ ] Staging
- 
+
 ### When does this work need to be completed?
 - Estimated launch date:
 - Estimated staging review date:
 - Content, Accessibility, and IA work needed by: 
+
+## Collaboration Cycle
+ 
+### Will this work be going through the Collaboration Cycle?
+- [ ] Yes 
+- [ ] No
+
+### If no ...
+- Skip to the _supporting artifacts_ section, below.
+ 
+### If yes ... 
+#### Please provide the link to your Collaboration Cycle ticket: 
+- Ticket (number): 
+- Collab. Cycle Ticket Opened (date): 
+ 
+#### Please check all of the phases in the Collaboration Cycle you have completed: 
+- [ ] Design Intent
+- [ ] Midpoint Review
+- [ ] Staging
+ 
+#### For planning purposes, please check all of the phases in the Collaboration Cycle you feel you might need CAIA support and guidance: 
+##### Design Intent
+- [ ] Accessibility
+- [ ] Content
+- [ ] IA
+- [ ] Translation
+- [ ] Already completed, no assistance needed.
+- [ ] Unknown at this time.
+##### Midpoint
+- [ ] Accessibility
+- [ ] Content
+- [ ] IA
+- [ ] Translation
+- [ ] Already completed, no assistance needed.
+- [ ] Unknown at this time.
+##### Staging
+- [ ] Accessibility
+- [ ] Content
+- [ ] IA
+- [ ] Translation
+- [ ] Already completed, no assistance needed.
+- [ ] Unknown at this time.
   
 ## Supporting artifacts
 *Please provide supporting artifacts as available.*
