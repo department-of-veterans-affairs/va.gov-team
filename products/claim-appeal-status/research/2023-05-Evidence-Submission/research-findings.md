@@ -18,7 +18,7 @@ See the [full research plan](https://github.com/department-of-veterans-affairs/v
 ## Research Questions
 
 * Does this new design make it easier for Veterans to understand when they have an evidence submission request in CST? Are they better able to understand exactly what that request is and how to act on it?
-* Does including the claim ID in the claim card make it easier for Veterans to distinguish between different claims in CST?
+* Does including the Claim ID in the claim card make it easier for Veterans to distinguish between different claims in CST?
 * Do Veterans respond positively to the new layout of the Claim Details page, with separate sections dedicated to Veteran actions and VA actions?
 * Do Veterans respond positively to other UX improvements in this version of CST?
   
