@@ -56,7 +56,8 @@ ________________________________________________________________________________
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60874)    
-- **GOAL: Address tech & design debt**       
+- **GOAL: Address tech & design debt**
+    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] [BE] Improve CHIP <-> DynamoDB latenc](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/61417)
 
  ------------- END FUTURE / TENTATIVE ---------------------------
 
