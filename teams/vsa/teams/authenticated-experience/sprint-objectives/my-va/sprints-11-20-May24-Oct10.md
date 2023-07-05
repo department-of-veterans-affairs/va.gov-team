@@ -63,7 +63,7 @@
 ### Onsite Notifications
 **Component**
 - QA and staging review (if not complete in sprint 13)
-- "release" component on My VA
+
 
 **Notification Center**
 - Start build
@@ -91,8 +91,8 @@ _Samara returns from parental leave!_
 ### Onsite Notifications
 
 **Component**
-- Post-launch code cleanup 
-- Documentation updates: standard use cases, flows, etc. 
+- Resolve staging review findings
+- Waiting on GA from design system team, then confirm on our side
 
 
 **Notification Center**
@@ -109,8 +109,6 @@ _Samara returns from parental leave!_
 **Audit UX**
 - Post launch code cleanup 
  
-**Alert/Error Updates** 
-- (Design) Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
 
 **MHV Migration Support**
 - Technical discovery: what will/do we need to update on My VA that currently points to MHV? (FE and BE tix in backlog)
@@ -123,10 +121,8 @@ _Samara returns from parental leave!_
 [#58195](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58195)
 
 ### Onsite Notifications
-
-### Onsite Notifications
 **Component** 
-- Documentation updates (cont.): document process of component build soup to nuts
+- "release" component on My VA
 
 **Notification Center**
 - Continue build
@@ -150,7 +146,11 @@ _Samara returns from parental leave!_
 
 ### Onsite Notifications
 
-### Onsite Notifications
+**Component**
+- Post-launch code cleanup 
+- Documentation updates: standard use cases, flows, etc. 
+
+- Documentation updates (cont.): document process of component build soup to nuts
 
 **Notification Center**
 - Finish build
@@ -161,6 +161,9 @@ _Samara returns from parental leave!_
 **Claims status widget - EVSS > Lighthouse**
 - ...
 
+**Alert/Error Updates** 
+- (Design) Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
+
 **General**
 - E2E and unit test work (cont. as needed)
 - FE portion to update errors with warner error component (60329)
@@ -170,6 +173,9 @@ _Samara returns from parental leave!_
 [#58199](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58199)
 
 ### Onsite Notifications
+
+**Component**
+- Documentation updates (cont.): document process of component build soup to nuts
 
 **Notification Center**
 - QA
