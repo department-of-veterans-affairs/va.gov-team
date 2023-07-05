@@ -5,8 +5,37 @@
 ### Topics Covered:
 - Q3 Initiatives prioritization
    - Ideas - Shannon and Steve
+      - Let Shannon know when our board is ready for additions
+      - Get the board ready by Friday morning
+      - Performance 
+         - Page load is around 3 sec
+         - More actions are happening that take the page to fully load with data for a lot longer than 3 seconds   
+         - How to measure it?
+         - Establish baselines and metrics
+         - Identify problem areas and teams that control the fix
+      - Improve logging and metrics
+         - Silent failures
+         - Review Kyle's work on this
+         - Sam from 526ex Team2 is also working on it
+      -  Diagram the 526 error categories
+          -  Steve setting up datadog dashboard for visualizing issues and scale
+             - Pair with lamb duty engineer (Mark this week)
+      - Improving health and monitoring metrics
+          - Shannon to get the list
+- Content for Toxic Exposure
+   - Recommendation
+     - Use data from the first few screens or data already filled out for TE screens
+     - Review eng capacity based on recommendation
+     - Research report to be pulled in this sprint   
+- Content for Landing Pages
+   - Waiting for research report share out
+   - If there are a lot of changes, might needto restest
+   - Share a targeted timeline for production with collab cycle
+- 4142
+   -  Shannon to review the changes in 526 and other 2 versions before deciding on testing / implementation
+   -  May test 4142 and evidence collection   
 - Combined road-map
-  - In progress - Austin
+    - In progress - Austin
     
 ### Date: June 28 2023       
 ### Participants: Rakshinda, Shannon, Steve
