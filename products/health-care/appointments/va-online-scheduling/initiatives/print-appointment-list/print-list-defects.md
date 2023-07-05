@@ -1,4 +1,4 @@
-# Summary Defect Report - Appoinment List Redesign
+# Summary Defect Report - Print List 
 
 | Github Ticket# | Description | Status | 
 | ------- | ---------- | ----- | 
