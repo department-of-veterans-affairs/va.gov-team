@@ -109,7 +109,7 @@ _Samara returns from parental leave!_
 - Prep for impact review (PM only)
 
 **Alert/Error Updates** 
-- (Design) In preparation for release of onsite notification component, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
+- (Design) In anticipation of onsite notification component launch, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
 
 
 **General**
