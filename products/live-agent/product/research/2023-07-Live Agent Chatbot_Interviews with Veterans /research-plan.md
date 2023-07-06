@@ -43,7 +43,7 @@ We will consider what additional technology would be beneficial to enhance the t
 
 
 ### Research questions
-1. What are the reasons why Veterans and their caregivers reach out to the VA for resources? What are the        positive and negative aspects they experience when sourcing information through text-based chat with a Live      Agent?
+1. What are the reasons why Veterans and their caregivers reach out to the VA for resources? What are the positive and negative aspects they experience when sourcing information through text-based chat with a Live Agent?
 
 - **Research Method**: 1x1 Interviews with Veterans
   
@@ -51,14 +51,13 @@ We will consider what additional technology would be beneficial to enhance the t
   - Map out the common reasons why Veterans and their caregivers are reaching out for information or resources
   - Learn about the advantages and disadvantages of communicating with Live Agents through chat
 
-2. Where is there room for improvement in text-based chat interactions with VA Live Agents? What would           indicate a successful experience?
+2. Where is there room for improvement in text-based chat interactions with VA Live Agents? What would indicate a successful experience?
 
 - **Research Method**: 1x1 Interviews with Veterans
   
 - **Desired Outcomes**: 
-  - Gather recommendations from Veterans on whether they feel anything could be improved in text-based chat        conversations with Live Agents or with the technology 
-  - Learn what a successful interaction looks like to a Veteran and what indicators may be used to measure         success
-
+  - Gather recommendations from Veterans on whether they feel anything could be improved in text-based chat conversations with Live Agents or with the technology 
+  - Learn what a successful interaction looks like to a Veteran and what indicators may be used to measure success
 
 
 ### Hypothesis
@@ -71,12 +70,13 @@ We will consider what additional technology would be beneficial to enhance the t
 
 ## Methodology	
 
-The interviews will be conducted remotely via Teams with Veteran participants and will consist of the semi-structured interview questions shared in the conversation guide.
+The interviews will be conducted remotely via Zoom with Veteran participants and will consist of the semi-structured interview questions shared in the conversation guide.
 
   **Research materials**
    
       
-   - Link to [Conversation Guide] -- tbd
+   - Link to [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/live-agent/product/research/2023-07-Live%20Agent%20Chatbot_Interviews%20with%20Veterans%20/conversation-guide.md)
+
      
 ### Recruitment
 
@@ -84,9 +84,8 @@ I would like to schedule interviews with 3-6 participants in order to achieve 3-
 
   **Recruitment criteria** 
     -  All have a computer, tablet, or smartphone and are willing to complete their session on one of those devices.
-    -  During the session, be willing to share a web browser window on their device
-    -  Have a working microphone on their device
-    -  Have Teams downloaded to their device prior to the session and know how to share their screen
+    -  Have a working microphone on their device.
+    -  Have Zoom downloaded to their device prior to the session.
 
 **Demographics**
    - At least 2 participants must identify as Black, Hispanic, or people of color
@@ -104,7 +103,7 @@ Beginning July 13-21, until 3-6 sessions are complete.
      
   - Pilot participant email: Amanda Burden, Manager, (amanda.burden1@va.gov)
     
-  - Date and time of pilot session: July 13, 2023
+  - Date and time of pilot session: July 12, 2023
 
 
 ### Research sessions
@@ -117,7 +116,13 @@ Beginning July 13-21, until 3-6 sessions are complete.
 
   Research range:  July 13-21, 2023
   
-  Planned dates of research: TBD based on participant’s availability
+  Planned dates of research: all times below are in EST
+  - Friday, July 13: 10-10:45am; 11:15am-12pm; 12:30-1:15pm; 1:45-2:30pm; 3:00-3:45pm 
+  - Monday, July 17: 10-10:45am; 11:15am-12 pm; 12:30-1:15pm; 1:45-2:30pm; 3:00-3:45pm 
+  - Tuesday, July 18: 10-10:45am; 11:15am-12 pm; 12:30-1:15pm; 1:45-2:30pm; 3:00-3:45pm
+  - Wednesday, July 19: 10-10:45am; 11:15am-12 pm; 12:30-1:15pm; 1:45-2:30pm; 3:00-3:45pm
+  - Thursday, July 20: 10-10:45am; 11:15am-12 pm; 12:30-1:15pm; 1:45-2:30pm; 3:00-3:45pm
+  - Friday, July 21: 10-10:45am; 11:15am-12 pm; 12:30-1:15pm; 1:45-2:30pm; 3:00-3:45pm
 
 ## Team Roles	
   Moderator: Emma Pinkerton (emma.pinkerton@thoughtworks.com, emma.pinkerton@va.gov) 
@@ -128,6 +133,6 @@ Beginning July 13-21, until 3-6 sessions are complete.
  
   Project point of contacts: Emma Pinkerton, Ian Santarinala, Taylor Haigler
   
-  Note-taker: Perigean and Taylor Haigler
+  Note-taker: Taylor Haigler
   
-  Observers: ian.santarinala@thoughtworks.com, yevgeny.dreyband@va.gov, andrea.schneider3@va.gov, alex.taylor1@va.gov, luciana.morais@va.gov, chloe.brown@va.gov, kyle.chamberlin@thoughtworks.com, seth.schwartz@thoughtworks.com, omar.carey@thoughtworks.com
+  Observers: ian.santarinala@thoughtworks.com, yevgeny.dreyband@va.gov, andrea.schneider3@va.gov,     alex.taylor1@va.gov, luciana.morais@va.gov
