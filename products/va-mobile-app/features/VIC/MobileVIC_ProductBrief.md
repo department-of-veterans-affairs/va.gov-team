@@ -1,4 +1,4 @@
-## Veteran Identification Card (VIC)
+## Digital veteran card
 
 
 ## Sprint 0
@@ -94,11 +94,10 @@ TBD
    * [Veteran Verification API](https://developer.va.gov/explore/verification/docs/veteran_verification?version=current) has this data
 
 ### Measuring success
-#### Usefulness of VIC:
-* Track number/% of Users that access the ID in the app
-* Track number/% of users that regularly access the ID in the app over time
-* OS Wallet metrics for how often IDs in the Wallets are accessed?  
-   * Location of where/when it is accessed in wallet?
+#### feature engagement:
+* Track number of unique users that access the card in app
+* Track number events, number of times the card is accessed in app
+* if/when applicable, OS Wallet metrics for engagement  
 #### Impact of launching VIC:
 * An increase in app downloads that correlates with the launch of VIC card
 * An increase in the overall number of active app users
@@ -208,7 +207,7 @@ Increase active user base
 * With internet connectivity,
 * As an authenticated user,
 * Using the VA Flagship mobile app,
-* Can discover and create a VSC
+* Can discover and create/view a card
 
 ### Acceptance criteria
 * Signs into app
@@ -220,7 +219,7 @@ Increase active user base
    	* Date of birth
    	* VA logo
    	* Branch of military
-	* Dates of service
+	* Dates of service (If there were multiple service periods, choose status quo of current experience in mobile/web/va-profile)
 * Upon review of card information, sees info on how to revise data if needed
 * VA can add info to this card in the future if a veteran becomes eligible to access x benefit (e.g. health service)
 
