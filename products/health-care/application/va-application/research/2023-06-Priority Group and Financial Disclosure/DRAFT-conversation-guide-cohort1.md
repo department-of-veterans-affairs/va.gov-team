@@ -123,9 +123,9 @@ Let’s start with a few warm-up questions.
 ---
 
 ## Sixth Topic: [Ideal State] - 5 minutes
-- Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using your benefits and updating your information. 
+- Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using your benefits all the way through updating your information what is one thing that could make the experience good for you?
 - What tools, communication, people could make this the best process possible in your mind?
-- What information would be important to you so you feel confident when having to apply for and use your health care benefits?
+- How would you like to be notified that you need to make updates to your information that impacts your health benefits?
 
 
 ### Things to watch for:
