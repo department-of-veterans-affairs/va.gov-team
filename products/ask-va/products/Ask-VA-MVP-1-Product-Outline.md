@@ -7,21 +7,21 @@ AVA is an online portal that allows Veterans, caregivers, and supporting personn
 
 Currently, Ask VA (AVA) resides within a stand-alone Microsoft portal that is inconsistent with the VA design standards, is not mobile-friendly, and has accessibility issues. 
 
-AVA on the modernized VA.gov platform will be a digital support channel that works with other tools and features on VA.gov and VA ecosystem to quickly and accurately answer users' questions. Users should feel it is easy and intuitive to submit their issues and receive adequate updates and information that results in a final resolution. Ultimately, we want AVA to feel part of a cohesive and user-centered approach to support.
+AVA on the modernized VA.gov platform will be a digital support channel that works with other tools and features on VA.gov and VA ecosystem to quickly and accurately answer submitters' questions. Submitterss should feel it is easy and intuitive to submit their issues and receive adequate updates and information that results in a final resolution. Ultimately, we want AVA to feel part of a cohesive and submitter-centered approach to support.
 
 
 ## Problem Statement
 
-User should easily and intuitively be able to ask a question through Ask VA on VA.gov.
+Submitter should easily and intuitively be able to ask a question through Ask VA on VA.gov.
    - **Who**: The submitter - This could be the Veteran, their caregiver, their supporting personnel, or their dependents.
-   - **What**: The current form design and content is not up to VA.gov design standards, mobile-friendly, and accessible for the user.
+   - **What**: The current form design and content is not up to VA.gov design standards, mobile-friendly, and accessible for the submitter.
    - **Why**: This will empower more Veterans to seek access to VA benefits and services.
    - **Where**: The form needs to reside in VA.gov so that it is easily locatable, and can potentially integrate with other applications on the platform.
 
 **How might we** create an inquiry form that is easier for the Veterans to ask a question online?
 
  
-## Desired User Outcomes
+## Desired Submitter Outcomes
 
 Form Design, and Content, Mobile-Friendly Experience, 508 Compliance
 
@@ -36,7 +36,7 @@ Integrate with VANotify and myVA
 Secure Messaging (SM) on VA.gov
 >Waiting for spike
 
-## Undesired User Outcomes
+## Undesired Submitter Outcomes
 
 As a Veteran
 >I stop asking questions because AVA is difficult to use on my phone or computer\
@@ -51,9 +51,9 @@ Secure Messaging (SM) on VA.gov
 
 ## Desired Business Objectives
 
-- Streamline the process for users to receive answers to their questions
+- Streamline the process for submitters to receive answers to their questions
 - Create a modernized mobile friendly, accessible online support experience aligned with VA Design standards
-- Increase User Satisfaction
+- Increase submitter Satisfaction
 
 ---
 ## Measuring Success
@@ -61,7 +61,7 @@ Secure Messaging (SM) on VA.gov
 
 ### Key Performance Indicators (KPIs)
 
-- 70% of users are satisfied with their experience
+- 70% of submitters are satisfied with their experience
 - Rerouted cases are reduced by 50%
 - Accessibility issues are eliminated
 ---
@@ -81,7 +81,7 @@ Phase 1 MVP:
 >- Write form questions based on content style guide (without changing form functionality and output).
 >- Update UI to reflect the VA Design System.
 >- Make it mobile friendly.
->- Do iterative user research to test usability of new form design and content updates.
+>- Do iterative submitter research to test usability of new form design and content updates.
 >- Make it 508 Compliant.
 >- Complete necessary PRA updates.
 3. Implement form on VA.gov
@@ -103,10 +103,10 @@ Below two dependent on spikes.\
 >- Status on inquiries
 >- Need more information/research with Ask AVA CRM team
 5. VA Notify integration
->- MyVA is creating a notification center, strategically want to integrate there for authenticated users.
+>- MyVA is creating a notification center, strategically want to integrate there for authenticated submitters.
 >- Spike on notifications on where it stands and how we would move it to VA gov, and how VA.gov will trigger the notifications.
 
-Our first MVP will have brought the current Ask VA up to VA.gov design standards, made the form accessible, and updated the content to make it more intuitive for our users. 
+Our first MVP will have brought the current Ask VA up to VA.gov design standards, made the form accessible, and updated the content to make it more intuitive for our submitters. 
 
 **Not included in the first MVP but will be in scope for future MVP:**
 >- Surface resources using existing knowledge base
