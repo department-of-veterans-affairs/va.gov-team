@@ -157,7 +157,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 
 ### Veterans' Voices: Impactful Quotes 
 
->“Oh, WOW, Ok! That was very clear.” Adding the "You checked in at 7:55 a.m." under the appointment details link was helpful.
+>“Oh, WOW, Ok! That was very clear.” Adding the "You checked in at 7:55 a.m." under the appointment details link was helpful. - P17
 
 > "I have this “details” and “review my information now” link. 
 Is this in multiple places on this page? To me it is a bit confusing, the fact that I don’t know if it is telling me that it is multiple places on the page, or if it is going back and reading this link over and over again. 
