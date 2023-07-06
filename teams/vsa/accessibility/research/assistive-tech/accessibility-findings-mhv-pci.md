@@ -179,7 +179,7 @@ Due to the low number of participants, we don't have enough Assistive Technology
 - **"Is this your emergency contact":** Avoid traps and retest with AT
 Retest with AT if possible
 - **Duplicative Links:** Details vs. Confirm your appointment text: Create distinguishable links. Add ARIA to "confirm appointment" and "check now" action links (in cards) and active links (in appointment lists) to include appointment time.
-- **"Review my information": **Missing material honesty with link text. Take user to intended destination.
+- **"Review my information":** Missing material honesty with link text. Take user to intended destination.
 - **One-item/topic per page preferred:** Reduce cognitive load with one-time per page.
 - **Appointment Confirmation Not Confirmed:** Keep the user informed of success/failures through status messages and consistent help.
 - **Upcoming Appointments View:**
