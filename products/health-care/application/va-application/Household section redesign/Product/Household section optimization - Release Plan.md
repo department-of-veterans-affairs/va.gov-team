@@ -69,7 +69,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
      - 7/24/2023 - 8/4/2023
 - How will you make the product available in production while limiting the number of users who can find/access it:
      - Feature Toggle limiting % of traffic to the application
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
 
 ### Objective: Update the 10-10EZ, so it is easier for applicants to understand and complete without having to exit the application.
 #### **Key Result #1:** Reduce drop-off/exit rate for the Household section pages by a third.
