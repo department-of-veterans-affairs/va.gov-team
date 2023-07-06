@@ -1,5 +1,22 @@
 ## Content Sync
 
+## July 6, 2023
+
+### Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Dawn Munoz, Joe Niquette
+
+### Notes:
+- Sitewide has given feedback to Carl's reactivation emails
+- Sofia got a response to use [OIT Brand System](https://digital.va.gov/oit-brand-system/)for sourcing CLP images
+- Went over Verify you identity FAQ page
+- Remove references to DS Logon going away
+- From Joe: "I still think it’s a valid question as to whether the first time we mention “you’ll no longer be able to use your DSLogon account” is within this email. My personal recommendation would be to not mention anything about DSLogon at all. Generally the goal of this email is to get more folks using login.gov rather than dslogon..but we can encourage login.gov without mentioning dslogon."
+- is there a benefit to triggered email vs sent ones
+- doesn't seem like we are ready to communicate about sunset: if we don't want to socialize MHV and DSL yet then we should harp on Login.gov and ID.me to be the preferred method
+- Next steps:
+  - Carl will adjust email content to communicate that there is a preferred sign in option
+  - Dawn will touch base with John and Tom how we are communicating the sunset
+
+
 ## June 29, 2023
 
 ### Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Porta Antiporta, Joe Niquette
