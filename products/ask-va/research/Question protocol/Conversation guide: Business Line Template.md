@@ -10,10 +10,10 @@ Our goal is to **understand which fields are necessary in order for agents to de
 * Who uses the answers to each question in this form?
 * What do they use the answers to each question for?
 * Which fields are required in order to answer a query?
-* If an answer is required, what happens if a user enters something random in order to get through the form?
+* If an answer is required, what happens if a submitter enters something random in order to get through the form?
 * Why are optional questions part of the form?
 * How does this process differ across use cases (or categories and topics), if at all?
-* What makes it take longer to offer a response to the user?
+* What makes it take longer to offer a response to the submitter?
 
 ## Prepare
 
@@ -42,7 +42,7 @@ Our goal is to **understand which fields are necessary in order for agents to de
 
 ## Set up - 5 minutes
 
-Thanks for joining. Today is a chance for us to learn more about how Ask VA works. In particular, we'd like to understand how agents use the details in each inquiry to reply to an inquiry. Understanding your process will help us improve the AVA form.
+Thanks for joining. Today is a chance for us to learn more about how Ask VA works. In particular, we'd like to understand how agents use the details in each inquiry to reply to a submitter. Understanding your process will help us improve AVA.
 
 * Before we start, can everyone on your team introduce themselves? If you can share your name and your role, please.
     * *Note: If the invite list is over 5 people from their team, we should skip this.*
@@ -55,7 +55,7 @@ I'd like to start by learning about the type of inquiries you're responsible for
 * What makes it easier to answer an inquiry?
 * What makes it difficult?
    * What makes it take longer to answer a particular inquiry?
-* There's a question in the current AVA that asks the reason someone is getting in touch. They can say, ‘compliment, question, town hall,’ and so on. How do you use this information to help answer a submitter's question?
+* There's currently a question in AVA that asks why someone is getting in touch. A submitter can choose, ‘compliment, question, town hall,’ and so on. How do you use this information to help answer a submitter's question?
    * We've heard that this field is often answered incorrectly, so the data isn't used much. We recommend removing this question. What do you think about removing this question? Why?
 * *Add any specific questions for this business line*
 
@@ -67,11 +67,22 @@ Next, we're going to share our screen and ask for your feedback. This is an upda
 
 ### Start page
 
-This is the start page. We're going to imagine that someone starts by signing in. I'm going to skip ahead to the first page of the form now.
+This is the start page. We're going to imagine that a submitter starts by signing in. I'm going to skip ahead to the first page of the form now.
 
-### Select a category, topic and sub-topic
+### About you
 
-I'd like to ask a couple questions about this screen now. On this screen, the user chooses a category, topic and sub-topic. This is very similar to the current AVA.
+I'd like to ask a couple questions about this screen now. On this screen, the submitter tells us who they are, so we know what information to collect from them. This question currently exists on AVA.
+
+* Why do you need to know whether any submitter is a VA employee?
+   * We noticed this field isn't required, how do you feel about removing this question?
+* Sometimes we need to collect the Veteran's Date of Death, but this isn't required. How does this help you reply to their query?
+* We noticed that if someone says they are submitting a general question, they need to provide their zip code. Do you know why a zip code is required?
+* Is there anything on this page that you would change? Why?
+* *Add any specific questions for this business line*
+
+### Category and topic
+
+On this screen, the submitter chooses a category, topic and sub-topic. This is very similar to the current AVA.
 
 * Do you face any issues related to the current categories, topics and sub-topics in Ask VA?
    * For example, do submitters ever choose the incorrect category?
@@ -79,35 +90,25 @@ I'd like to ask a couple questions about this screen now. On this screen, the us
 * Is there anything on this page that you would change? Why?
 * *Add any specific questions for this business line*
 
-### Tell us about your question
+### Your question
 
-On this screen, the user tells us more about their inquiry.
+On this screen, the submitter tells us more about their inquiry.
 
-* When a users says they are a Veteran, dependent or submitting on behalf of a Veteran, does that change how you reply? If so, how?
-* We noticed that if someone says they are submitting a general question, they need to provide their zip code. Do you know why a zip code is required?
 * Do you have any issues with the current free-text box, where users can write their inquiry in their own words?
-* Do you receive documents that submitters upload with their inquiry?
+* Can submitters upload documents with their inquiry?
     * If yes, do you face any issues with this?
     * If not, could this be useful? How?
 * Is there anything on this page that you would change? Why?
 * *Add any specific questions for this business line*
 
-### Additional details
+### Your information (or the Veteran's, or the dependent's)
 
-On this screen, the user shares more about themselves.
-
-* Why do you need to know whether any submitter is a VA employee?
-* Is there anything on this page that you would change? Why?
-* *Add any specific questions for this business line*
+On this screen, the submitter gives information about themself, the Veteran or the dependent, depending on who is submitting a query.
   
-### Your information
-
-On this screen, the user gives us their contact information.
-
-* How do you reply to submitter's? For example, over the phone, email, or US Mail.
+* How do you reply to submitter's? For example, over the phone, email, or mail.
     * We noticed that submitter's can choose which contact method they prefer. If they choose to be contacted over the phone, will you only contact them that way?
     * Is there any circumstance where you would call them instead?
-* Is there anything on this page that you would change? Why?
+* Is there anything on this page (or the next contact page) that you would change? Why?
 * *Add any specific questions for this business line*
 
 ### Review and send
