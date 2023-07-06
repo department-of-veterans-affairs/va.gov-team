@@ -1,5 +1,8 @@
 # Benefit Payments Frontend Documentation
-Last updated: June 27, 2023
+Last updated: July 6, 2023 - added Background
+
+### Background
+This is FE documentation for v2 of "payment info" on My VA in which the original single section My VA, "Benefit payments and debts" was separated out into two sections - one for Outstanding Debts and a second for Benefit Payments. This document specifically covers the Benefit Payments section on My VA.
 
 ## When to show the ‘Benefit payments’ section
 We show this section for every LOA3 user.
