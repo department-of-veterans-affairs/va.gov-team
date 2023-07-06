@@ -31,7 +31,7 @@
 
 **1) [Page name] - [Existing/New]**
 - URL:
-- Breadcrumb: 
+- Breadcrumb: VA.gov home > Burials and memorials > Memorial items > Presidential Memorial Certificates > H1 of page 
 - Notes: 
 
 
@@ -39,15 +39,9 @@
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
 
 
-1. [Page URL or component name] - [Add/Modify/Remove]
+1. [Presidential Memorial Certificates](https://www.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/) - Add
   - Placement description: 
-  - Link label: 
-  - Link destination: 
-  - Notes: 
-
-2. [Page URL or component name] - [Add/Modify/Remove]
-  - Placement description: 
-  - Link label:
+  - Link label: TBD by Sitewide Content
   - Link destination: 
   - Notes: 
  
@@ -58,7 +52,7 @@
 
 Current URL | Redirect to | Notes
 --- | --- | ---
- |  | 
+ https://www.cem.va.gov/facts/Presidential_Memorial_Certificates.asp|  | 
  
 
 
