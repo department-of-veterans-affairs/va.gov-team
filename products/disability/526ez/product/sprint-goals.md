@@ -4,17 +4,14 @@
 Period - 07/06/2023 - 07/18/2023
 ### Sprint goals 
 - **Expedited**
-   - [ ] Bug - Eng Fix - Error handling for bad CSRF tokens #58396
+   - [ ] Bug - Eng Fix - Error handling for bad CSRF tokens #58396 - depends on findings and capacity
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
         - Rateddisabilities
-            - Can we work on a staggered release plan?
-        - Intent to File 
-            - [ ] Confirm handshake works for vets-api's ITF POST -> Lighthouse -> vets-api -> vets-website   
+            - Can we work on a release plan? Consider staggered release? 
         - Submit 
-            - [ ] Abstract calls to endpoint
-            - [ ] Start enpoint migration
-        - Testing environment solution
+            - [ ] Abstract calls to submit endpoint
+            - [ ] Start endpoint migration - PPIU Abstraction
 - **Features**
    - Intro page changes and 526ez current with paper form
       - [ ] Intro pages - Research shareout
@@ -23,7 +20,6 @@ Period - 07/06/2023 - 07/18/2023
 - **Analytics**
   - [ ] None
 - **Tech Debt**
-  - [ ] Migrate OMBInfo component on 526 Introduction Page#56297
 
  
 ## Sprint 8
