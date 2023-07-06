@@ -13,12 +13,12 @@ AVA on the modernized VA.gov platform will be a digital support channel that wor
 ## Problem Statement
 
 User should easily and intuitively be able to ask a question through Ask VA on VA.gov.
-   - **Who**: The user - This could be the Veteran, their caregiver, their supporting personnel, or their dependents.
+   - **Who**: The submitter - This could be the Veteran, their caregiver, their supporting personnel, or their dependents.
    - **What**: The current form design and content is not up to VA.gov design standards, mobile-friendly, and accessible for the user.
    - **Why**: This will empower more Veterans to seek access to VA benefits and services.
    - **Where**: The form needs to reside in VA.gov so that it is easily locatable, and can potentially integrate with other applications on the platform.
 
-**How might we** create an inquiry form that is short and simple?
+**How might we** create an inquiry form that is easier for the Veterans to ask a question online?
 
  
 ## Desired User Outcomes
@@ -61,7 +61,6 @@ Secure Messaging (SM) on VA.gov
 
 ### Key Performance Indicators (KPIs)
 
-- 20% of users are able to get answers to their questions without submitting an issue
 - 70% of users are satisfied with their experience
 - Rerouted cases are reduced by 50%
 - Accessibility issues are eliminated
