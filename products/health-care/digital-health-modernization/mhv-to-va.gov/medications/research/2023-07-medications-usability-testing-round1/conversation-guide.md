@@ -97,6 +97,7 @@ _[when the 'refill prescription button' disappears and is replaced with 'We're r
 
 - Was your refill successfully submitted? What tells you that?
 - How did you know you had the correct medication?
+- What do you expect to happen next?
 
 **Things to watch for:**
 
