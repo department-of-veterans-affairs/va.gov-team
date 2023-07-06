@@ -100,7 +100,7 @@ Add tools to build pipeline to run static analysis for 508 and mobile-friendly i
 >- Understand auth and unauth access patterns. Be ready for oauth changes in the coming months from platform/identity team.
 
 Below two dependent on spikes.\
-4. Integrate with My AVA Dashboard for 
+4. Integrate with My VA Dashboard for 
 >- Status on inquiries
 >- Need more information/research with Ask AVA CRM team
 5. VA Notify integration
