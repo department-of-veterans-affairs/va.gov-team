@@ -20,13 +20,13 @@ Identify how we are currently handling errors in the 526ez applications, with a 
 ### FE (vets-website)
 Our front-end error handling is apparently simple.  We have a Sentry module that exposes methods for setting tags and logging.  
 
-wipn-image
-<!-- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) -->
+<img width="809" alt="Screen Shot 2023-07-06 at 3 19 25 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/758095ed-d644-47b1-ba7a-fc4350e7425e">
+
 
 To make it even easier, at the top level of the what appears to be our FE app, we have some catch all sentry logging:
 `src/applications/disability-benefits/all-claims/Form526EZApp.jsx`
   
-wipn-image
+<img width="719" alt="Screen Shot 2023-07-06 at 3 19 54 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/42e2f634-df77-4efa-b5ca-73d8e44b4ed5">
 
 Further thought / research / need will likely determine if this is sufficient, but given the severity of our BE issue where submissions are dropped, this data feels sufficient for now.  TL;DR - looks fine, not too worried about it.
 
@@ -41,7 +41,8 @@ Logging is a bit more convoluted on the backend. There are a few different parad
   * `Rails.logger` is our preferred method of logging.  It’s a clear API that provides `.error`, and `.info`, and `.debug` logging levels.  
     * Here is an example of how we can (and should) pass additional context into `Rails.logger`
       * app/workers/decision_review/submit_upload.rb:47
-      * wipn-image 
+      <img width="758" alt="Screen Shot 2023-07-06 at 3 20 41 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/01f11b28-43f2-4219-bb6d-8b241f5aba6e">
+
 
   * Our error logging uses a temporary log file as a middle man between our application and our various Dev facing dashboards.  Exactly how it works and why it’s done this way is the domain of DevOps, and for now should be considered out of scope. 
   * More is More.  Log anything important.  Job completion, Job offloading, 3rd party API calls and payloads, suppressed errors, etc.  
@@ -86,16 +87,17 @@ In either failure case, we attempt to run the following **Failover** logic:
 
 
   1. Generate support documentation PDFs.  [Our API owns this PDF generation, and this is the most relevant section of that code.](https://github.com/department-of-veterans-affairs/vets-api/blob/16e68a67c69df4c280ec1c5523d96cd25f74301b/lib/sidekiq/form526_backup_submission_process/processor.rb#L75)
-    * wipn-image
+    * <img width="594" alt="Screen Shot 2023-07-06 at 3 21 00 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/9451b95c-2acb-41b4-9669-4f6b97d2ef2d">
 
   2. We also need to submit the actual 526 form itself. EVSS already has logic to PDF-ify this, so in the event of a failure we will request this PDF from them.  [This is documented along with other 3rd party communications here.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57489)
-    * wipn-image
+    * <img width="630" alt="Screen Shot 2023-07-06 at 3 21 47 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/5a23df9a-9e4c-425e-b27c-5b8694ebd7f2">
   
   3. Once we have these PDFS, we send them to Lighthouse, specifically the Benefits Claims Intake API, [via this a new worker](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/sidekiq/form526_backup_submission_process/submit.rb)
-    * wipn-image
-  
+    * <img width="701" alt="Screen Shot 2023-07-06 at 3 22 08 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/198b0248-3cb4-473b-a664-71a1af7b656e">
+
   4. If the Backup worker fails, we log the failure, [as seen here](https://vagov.ddog-gov.com/logs?query=%22FORM526%20BACKUP%20SUMBISSION%20FAILURE.%20In[…]=stream&from_ts=1684334801686&to_ts=1686926801686&live=true)
-    * wipn-image
+    * <img width="713" alt="Screen Shot 2023-07-06 at 3 22 31 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/7f950e82-9aea-412d-a192-be0be9bcc8cc">
+    * <img width="714" alt="Screen Shot 2023-07-06 at 3 23 01 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/dd8d547e-81f3-4c6d-92b4-d5ddb7ed724f">
 
 In the event of the last case, where all submission has failed, there is no immediate alerting.  However, we do include this information in a weekly report to the VA.  These failures are not differentiated from other, historical failures, and they will simply and in line, like the other 40,000 or so claims that have failed over the years, to be batch/bulk re-established, via whatever method the VA decides upon.
 
