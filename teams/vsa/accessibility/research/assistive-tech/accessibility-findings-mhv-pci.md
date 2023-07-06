@@ -21,7 +21,7 @@
 ## Coverage
 This research fufilled 43% (3/7) of its original request. Given the **limited** amount and **variety** of types of screen readers, a conclusive behavioral patterns **may not** be determined locally in this study. We **can**; however, draw future research considerations and document caught accessibility issues.
 
-**Original study request:** 18 (12 completed sessions); 3 used assistive tech (25% of the study used assistive tech). See table.
+**Original study request:** 18 (12 completed sessions); 3 used assistive tech (17% of the study used assistive tech). See table.
 
 > 7 participants should use a screenreader on a desktop or mobile device. (3 tested)
 
