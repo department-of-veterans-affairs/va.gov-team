@@ -1,32 +1,55 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 9
+Period - 07/06/2023 - 07/18/2023
+### Sprint goals 
+- **Expedited**
+   - [ ] Bug - Eng Fix - Error handling for bad CSRF tokens #58396
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+        - Rateddisabilities
+            - Can we work on a staggered release plan?
+        - Intent to File 
+            - [ ] Confirm handshake works for vets-api's ITF POST -> Lighthouse -> vets-api -> vets-website   
+        - Submit 
+            - [ ] Abstract calls to endpoint
+            - [ ] Start enpoint migration
+        - Testing environment solution
+- **Features**
+   - Intro page changes and 526ez current with paper form
+      - [ ] Intro pages - Research shareout
+      - [ ] Toxic Exposure screens - Research - Reconciling Midpoint Review Research Musts
+      - [ ] Complete 4142 tech discovery for FE - Engineering
+- **Analytics**
+  - [ ] None
+- **Tech Debt**
+  - [ ] Migrate OMBInfo component on 526 Introduction Page#56297
+
+ 
 ## Sprint 8
 Period - 06/21/2023 - 07/04/2023
 ### Sprint goals 
 - **Expedited**
-   - [ ] Bug - Eng Fix - Future Date of Claim - apply validation and content updates
-   - [ ] Bug - Eng Fix - Required validation error not displaying for BDD Supporting Evidence
+   - [x] Bug - Eng Fix - Future Date of Claim - apply validation and content updates - Completed
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
-        - Intent to File endpoint
-            - Confirm handshake works for vets-api's ITF POST -> Lighthouse -> vets-api -> vets-website   
         - Submit endpoint
-            - [ ] Abstract calls to endpoint
-            - [ ] Start enpoint migration
+            - [x] Abstract calls to endpoint - Started
+            - [x] Complete Discovery 
         - RatedDisailities
-            - [ ] Integrate rateddisability ID
-        - Testing environment solution - what's next?
+            - [x] Integrate rateddisability ID
 - **Features**
    - Intro page changes and 526ez current with paper form
-      - [ ] Intro pages - Conduct interviews and research report
-      - [ ] Toxic Exposure screens - Content and design?
-      - [ ] Complete 4142 tech discovery for BE - Engineering
-- **Analytics**
-  - [ ] Collect R/VSR data for baseline metrics
+      - [x] Intro pages - Conduct interviews and research report 
+      - [ ] Toxic Exposure screens - Content and design
+           - Design ready, Content pending CAIA response
+      - [x] Complete 4142 tech discovery for BE - Engineering
+      - [x] Started 4142 tech discovery for BE - Engineering
 - **Collab Cycle Issues**
-  - [ ] Engineering - Accessibility] Link opens in new tab without warning users
+  - [x] Engineering - Accessibility Link opens in new tab without warning users
 - **Issue Management Stretch goal?**
   - [ ] Bug - Eng Discovery - 526 start - Identification error - Issue Management POC? What kind of bandwidth do we see?
+    - Moved to Team Carbs
  
 ## Sprint 7
 Period - 06/07/2023 - 06/20/2023
