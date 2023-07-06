@@ -2,4 +2,4 @@
 
 | Github Ticket# | Description | Status | 
 | ------- | ---------- | ----- | 
-| None    |            |       |
+| #61509  | Dividing line extends to mobile (360px - 481px) screen on pending page | In progress| 
