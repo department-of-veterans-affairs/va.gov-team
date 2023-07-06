@@ -8,6 +8,13 @@ Here is the current production support guidance for Check-in Experience team:
 
 ### Support Tasks
 - Proactively monitor the following    
+    - PagerDuty
+        - We will do 2-week rotations that coincide with our sprint schedule
+            - 2 people will be on call at all times and configured in the PCI API Schedule
+                - Primary - is responsible for responding to incidents/issues
+                - Secondary - is the next person in line to be Primary and takes over for the Primary if they need to be OOO
+            - On call persons will get a call/text if an issue needs to be addressed (depending on your configuration in PagerDuty)
+        - Use the [Tier 3 Playbook](https://github.com/department-of-veterans-affairs/checkin-devops/blob/master/docs/PCI%20API%20Tier%203%20Team%20Playbook.md) to guide incident/issue response     
     - Slack channels
         - [#check-in-production-support](https://dsva.slack.com/archives/C02UP02HHGX)
             - Ensure the daily bot is posting check-in and pre-check-in data 
