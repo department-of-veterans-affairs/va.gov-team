@@ -90,9 +90,10 @@ We make updates to our curriculum based on feedback from our community. This is 
 - [Provide feedback directly using this Microsoft Form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAToLe2lUM0FTUlRTRUxIMEhTVjc1RExON1JTVTk2Vi4u)
 
 ### Contributors
-- Josh Kim
-- Sara Smith
-- Jeana Clark
-- Martha Wilkes
-- Joseph Lee
-- Scott Mericle
+- Josh Kim `Writer`
+- Brian DeConinck `Writer`
+- Sara Smith `Editor`
+- Jeana Clark `Editor`
+- Martha Wilkes `OCTO Lead`
+- Joseph Lee `Editor`
+- Scott Mericle `Writer`
