@@ -95,3 +95,4 @@ We make updates to our curriculum based on feedback from our community. This is 
 - Jeana Clark
 - Martha Wilkes
 - Joseph Lee
+- Scott Mericle
