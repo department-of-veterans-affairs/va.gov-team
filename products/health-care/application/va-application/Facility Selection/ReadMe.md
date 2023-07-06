@@ -76,9 +76,9 @@
 - Provide an updated facility selection page that is easy to use and understand.
   - Connect with active Facilities API in place of the current static JSON file
   - Revisit UI against the current Facilities selection page on VA.gov and other private sector locator search pages
-  - Condust research/usability sessiosn with Veterans to determine the best, easiest to use design
+  - Conduct research/usability sessions with Veterans to determine the best, easiest to use design
   - Redesign facility selection page
-    - Provide Veterans with an idea of location/distance of any given facility to ensure they can select the one that is correct for them.
+    - Provide Veterans with an idea of location of any given facility to ensure they can select the one that is correct for them.
 --- 
 
 ## Launch Planning
@@ -137,7 +137,7 @@ Accordion Open
 - Team Name: 10-10 Health Apps team
 - GitHub Label(s): ez-facilities
 - Slack channel: #1010-health-apps
-- Product POCs: Heather Justice, Mark Fallows
+- Product POCs: Heather Justice, Alex Seelig
 
 </details>
 
@@ -148,7 +148,7 @@ Accordion Open
 <details>
   
 - Office/Department: OCTO-DE
-- Contact(s): Patrick Bateman, Katherine Lawyer, Mark Dewey
+- Contact(s): Patrick Bateman, Kristen McConnell
  
 </details>
 
