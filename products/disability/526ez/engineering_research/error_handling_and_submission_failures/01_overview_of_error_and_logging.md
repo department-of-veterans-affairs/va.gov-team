@@ -22,7 +22,6 @@ Our front-end error handling is apparently simple.  We have a Sentry module that
 
 <img width="809" alt="Screen Shot 2023-07-06 at 3 19 25 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/758095ed-d644-47b1-ba7a-fc4350e7425e">
 
-
 To make it even easier, at the top level of the what appears to be our FE app, we have some catch all sentry logging:
 `src/applications/disability-benefits/all-claims/Form526EZApp.jsx`
   
@@ -34,15 +33,13 @@ EVSS API validation errors are an api issue, and the FE data is transformed befo
 
 [UPDATE: this document outlines the EVSS validations run on form submissions](https://drive.google.com/drive/folders/1Vjkle-URBLGTJtXQb8ZVsbIiCpagy1GD)
 
-
 ### BE (vets-api)
 Logging is a bit more convoluted on the backend. There are a few different paradigms, as well as the aforementioned ‘big bug’, which is lost submissions.  However, we do have a few current best practices that we can follow as we iterate.
   * We catch errors, log relevant info, and report only salient information to the front end.
   * `Rails.logger` is our preferred method of logging.  It’s a clear API that provides `.error`, and `.info`, and `.debug` logging levels.  
     * Here is an example of how we can (and should) pass additional context into `Rails.logger`
       * app/workers/decision_review/submit_upload.rb:47
-      <img width="758" alt="Screen Shot 2023-07-06 at 3 20 41 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/01f11b28-43f2-4219-bb6d-8b241f5aba6e">
-
+      * <img width="758" alt="Screen Shot 2023-07-06 at 3 20 41 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/01f11b28-43f2-4219-bb6d-8b241f5aba6e">
 
   * Our error logging uses a temporary log file as a middle man between our application and our various Dev facing dashboards.  Exactly how it works and why it’s done this way is the domain of DevOps, and for now should be considered out of scope. 
   * More is More.  Log anything important.  Job completion, Job offloading, 3rd party API calls and payloads, suppressed errors, etc.  
@@ -68,7 +65,6 @@ We have four apparent paradigms, which is actually all logging to the same place
 
 **ERROR RAISING**:  If an error occurs in the rails application (BE) it will be caught in Sentry.  Sentry receives log data, but its primary value (relative to datadog) is as a catch-all for errors. Ideally, in user facing interactions we catch errors, log relevant information, and then report back to the front end without raising an error.  However, if an error occurs in a non-user facing interaction, e.g. a 526 form submission to EVSS, then we can log the failure, but we should also raise that error.  There is forthcoming work to improve the way we raise errors, e.g. using Sentry tags.
 
-
 #### How we handle 526 form submission failures
 
 These were previously silent failures.  We now have a stopgap (aka our failover solution)  in place that is far better (~600 failures per week to ~1 per week), however our goal is a 100% success rate.  
@@ -79,12 +75,10 @@ The failover will kick in once the submission delivery worker (encapsulated here
   * `non_retryable` errors are errors that we know, no matter how many times we retry the submission, it will never succeed (without direct human interaction or changes in further downstream services).  Examples of this would be a "fraud-lock" on the veterans account, or the further backend systems having a mismatching SSN, or file number for the veteran vs what we are providing.
     * If we get a `non_retryable` error, we just bail right away, stop trying, and go the backup path right away. We know it will not succeed, so instead of wasting a day trying, just send it now, essentially.
 
-
 **NOTE:**
 We never generate our own 526 form. We either submit the DATA from the submission, to EVSS, who turns that data into a call to downstream systems to establish the claim directly in the backend system (the normal regular functionality), or we use that same data to ask EVSS to generate a 526 PDF for us. **Unlike the other forms, we do not ever generate a 526 paper form ourselves (vets-api)**
 
 In either failure case, we attempt to run the following **Failover** logic:
-
 
   1. Generate support documentation PDFs.  [Our API owns this PDF generation, and this is the most relevant section of that code.](https://github.com/department-of-veterans-affairs/vets-api/blob/16e68a67c69df4c280ec1c5523d96cd25f74301b/lib/sidekiq/form526_backup_submission_process/processor.rb#L75)
     * <img width="594" alt="Screen Shot 2023-07-06 at 3 21 00 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/9451b95c-2acb-41b4-9669-4f6b97d2ef2d">
@@ -104,9 +98,9 @@ In the event of the last case, where all submission has failed, there is no imme
 A potential area of improvement would be allowing us to reprocess these manually via our submission logic (basically reattempt the BACKUP submission)... and adding a retry to the backup job may resolve some of these. This has not been added yet.
 
 ### Action items for ongoing error handling
-    * Use good form for logging.  Follow the convention of using `Sentry` with tags on the front end and `Rails.logger` on the back end.
-    * We should have a standard (style guide?) for what we log, how we log it, tag it, etc.  Right now it’s up to the developer to decide how much or how little context to pass to the `Rails.logger`
-    * Syntactic anomalies aside, we are using two drastically different approaches to error logging in our BE, i.e. Feature level logging vs Middleware level logging.  We might consider moving in one direction or the other for external API calls.
+  * Use good form for logging.  Follow the convention of using `Sentry` with tags on the front end and `Rails.logger` on the back end.
+  * We should have a standard (style guide?) for what we log, how we log it, tag it, etc.  Right now it’s up to the developer to decide how much or how little context to pass to the `Rails.logger`
+  * Syntactic anomalies aside, we are using two drastically different approaches to error logging in our BE, i.e. Feature level logging vs Middleware level logging.  We might consider moving in one direction or the other for external API calls.
 
 ### Action items for ongoing Failover improvement
 Improving on submission failover is a high priority.  Previously we had an issue where submissions were failing on a Sidekiq worker with no retrying, and little or no logging.  We currently have a failover solution that needs documentation, however it could be summarized as  **“If we fail X retries of this job fail, then make a PDF out of this information and email it to the appropriate entity.”**
@@ -135,16 +129,14 @@ Action Items:
   * The classname `Sidekiq/EVSS::DisabilityCompensationForm::SubmitForm526AllClaim` can be searched in sentry to see all of the relevant logs
   * Most of the new error reporting we do will be manually added to code in the application layer.  Keep in mind that we also have middleware logging responses from EVSS.
 
-
 ## Resources
 ### Slack threads:
-   * [Thomas -> Kyle: “how do we look up 526EZ errors in logs?”](https://dsva.slack.com/archives/C053U7BUT27/p1686588415725609)
-   * [Sam (via Kyle) -> Carbs: “some additional locations in the code for KPI consideration”](https://dsva.slack.com/archives/C053U7BUT27/p1686836358577259)
-   * [Seth -> Team: “I have some questions about EVSS API validations”](https://dsva.slack.com/archives/C1VBAHWQL/p1686785454385369)
-
+  * [Thomas -> Kyle: “how do we look up 526EZ errors in logs?”](https://dsva.slack.com/archives/C053U7BUT27/p1686588415725609)
+  * [Sam (via Kyle) -> Carbs: “some additional locations in the code for KPI consideration”](https://dsva.slack.com/archives/C053U7BUT27/p1686836358577259)
+  * [Seth -> Team: “I have some questions about EVSS API validations”](https://dsva.slack.com/archives/C1VBAHWQL/p1686785454385369)
 
 ### Documentation:
-   * [Our Bug Board with errors related EVSS API failures](https://app.zenhub.com/workspaces/526ez-bugs-and-defects-646e4436ff6787001ac4771a/board)
-   * [Git issue describing contemporaneous groupings of form submission failures](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60152)
-   * [Kyles KPIs for 526 error handling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57489)
-   * [Most relevant code for 526 submissions and failover](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/form526_submission.rb)
+  * [Our Bug Board with errors related EVSS API failures](https://app.zenhub.com/workspaces/526ez-bugs-and-defects-646e4436ff6787001ac4771a/board)
+  * [Git issue describing contemporaneous groupings of form submission failures](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60152)
+  * [Kyles KPIs for 526 error handling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57489)
+  * [Most relevant code for 526 submissions and failover](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/form526_submission.rb)
