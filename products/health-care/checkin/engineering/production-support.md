@@ -10,7 +10,7 @@ Here is the current production support guidance for Check-in Experience team:
 - Proactively monitor the following    
     - PagerDuty
         - We will do 2-week rotations that coincide with our sprint schedule
-            - 2 people will be on call at all times and configured in the PCI API Schedule
+            - 2 people will be on call from 7 am to 8 pm ET and configured in the PCI API Schedule
                 - Primary - is responsible for responding to incidents/issues
                 - Secondary - is the next person in line to be Primary and takes over for the Primary if they need to be OOO
             - On call persons will get a call/text if an issue needs to be addressed (depending on your configuration in PagerDuty)
