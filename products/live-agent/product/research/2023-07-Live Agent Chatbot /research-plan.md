@@ -43,32 +43,25 @@ We will consider what additional technology would be beneficial to enhance the c
 
 ### Research questions
 
-**Context/warm up questions:**
-  - How long have you been a contact center agent?
-  - How long have you been working with text-based live chat? do you have prior experience with enterprise chat products (at a call center, outside the gov, at other agency, etc)  Where you doing voice support before text-based chat? If so what do you feel are the tradeoffs?  
-  - How would you describe your overall experience in communicating with Veterans through text-based live chat?
+Overarching Research Questions: 
+1. What do Live Agents at contact centers experience while communicating with Veterans using text-based chat?
+2. What are the common scenarios (both positive and negative) that Live Agents agents navigate while interacting with Veterans through text-based chat?
 
-**Journey map exploration questions:**
-  - Can you walk us through the last time or a recent memorable time you conducted a text-based live agent chat; what happened a) before, b) during and c) after it. What are some of the hard/frustrating parts at each stage and what where the more positive/successful parts at each stage? [The moderator will break this question down and walk the interviewee through it in stages]
-  
-**Sub question prompts:**  
-- What are some common issues or difficulties you face when trying to understand and resolve Veteran inquiries or problems in a text-based format?  
-  - Are there any communication or language barriers you commonly encounter while assisting Veterans via live chat? How do you navigate or overcome these challenges? 
-  - Have you ever encountered situations where Veterans misunderstood or misinterpreted your responses in live chat? If so, how do you typically handle such misunderstandings?
-  - How do they handle "misrouted" (for lack of a better term) chats. That is, if the chat isn't something that's within their purview to handle? Or if the conversation takes a turn? E.g. A homelessness conversation turns into a Benefits conversation.  
-  - Do they currently keep notes / data points that they enter into other systems? If previous chats were authenticated, would they find seeing previous chat transcripts helpful on their call (whether from a previous chat in their own or another Contact Center)?
+**Methods**
+- Primary research → Interviews with 3-6 Live Agents
+- Secondary research → Existing artifacts, research, etc.
 
-**Holistic perspective questions, if not covered in the journey map discussion:**
-  - Are there any additional limitations or constraints of the live chat platform that hinder your ability to provide effective Veteran support?
-  - Have you noticed any recurring patterns or themes in Veteran complaints or negative feedback regarding the live chat communication?
-  - On a positive note, what aspects of the text-based live chat system do you find most helpful or beneficial in your interactions with Veterans?
-  - Are there any specific features, tools, or resources you wish were available to you while engaging with Veterans through live chat? How would these additions improve your workflow or effectiveness?
-  - Do you have to manage multiple chat conversations simultaneously? And/or do you have to switch between being ‘on a voice call’ to being on a ‘text based chat’?  How do you manage this context/channel switching? Do you think there are areas where managing this could be improved?  
-  - In your opinion, what strategies or approaches could be implemented to enhance the overall Veteran experience in text-based live chat interactions?  
-  - What metrics or indicators do you believe should be used to evaluate the performance and effectiveness of text-based live chat interactions? Are there any areas of measurement that you feel are currently overlooked or underutilized? 
-  - Are there any particular Veteran interactions or situations that you find more challenging or stressful when handling through live chat? If yes, could you describe them?
-  - Do you have access to a knowledge base or resources that assist you in providing accurate and timely information to Veterans during live chat sessions? How effective do you find these resources? if the KB is integrated with their other systems or if it's all swivel chair? What would better integration look like?
-  - Do you receive sufficient training or guidance on how to handle various Veteran scenarios and challenges specific to live chat interactions? If not, what areas would you like to see more support or training in?
+**Desired Outcome**
+- Greater understanding of the Live Agent’s user journey during common interactions with Veterans
+- Learn which technology and systems currently support Live Agent chat-based communications
+- Understand the ways in which the Live Agent communications fit into the greater VA ecosystem
+- Identify the anomalies or unique challenges that occur
+- Learn what are the top pain points, barriers, and areas for optimization
+- Learn what enhancements or resources would be valuable to Live Agents and to Veterans
+- Gather recommendations for what would improve the Live Agent’s workflow or the Veteran’s experience
+- Identify which metrics or indicators would demonstrate success
+
+
 
 ### Hypothesis
 
