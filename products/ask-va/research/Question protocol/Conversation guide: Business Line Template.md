@@ -94,7 +94,7 @@ On this screen, the submitter chooses a category, topic and sub-topic. This is v
 
 On this screen, the submitter tells us more about their inquiry.
 
-* Do you have any issues with the current free-text box, where users can write their inquiry in their own words?
+* Do you have any issues with the current free-text box, where submitters can write their inquiry in their own words?
 * Can submitters upload documents with their inquiry?
     * If yes, do you face any issues with this?
     * If not, could this be useful? How?
@@ -113,7 +113,7 @@ On this screen, the submitter gives information about themself, the Veteran or t
 
 ### Review and send
 
-At the end, the user will have the chance to review their information before they submit.
+At the end, the submitter will have the chance to review their information before they submit.
 
 * Is there anything on this page that you would change? Why?
 * *Add any specific questions for this business line*
