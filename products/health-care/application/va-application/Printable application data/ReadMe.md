@@ -4,7 +4,7 @@
 - There have been past research findings indicating that Veterans prefer to print and/or save (download) a copy of their application input.
      - [2023 Suplemental Claims - PACT Act](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#finding-9)
 
-- There is also historical data on the 10-10CG application that indicates applicants download the completed application more than 100% of the time
+- There is also historical data on the 10-10CG application that indicates applicants download the completed application just about every time (and sometimes more than once!)
      - Google Analytics - [Submissions and PDF Form downloads](https://analytics.google.com/analytics/web/#/dashboard/u4Zg-ougQpq-87e5dGIH_w/a50123418w177519031p184624291/_u.date00=20220401&_u.date01=20220430/)
 ---
 
