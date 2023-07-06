@@ -7,7 +7,7 @@
 
 ### Topics
 
-- 
+- [L] After visit summmary still target for September launch? 
  
 </details>
 
