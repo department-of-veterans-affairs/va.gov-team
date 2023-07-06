@@ -1,5 +1,20 @@
 # Running Notes for Design & Research Teams 1 & 2 (T-Rex & Carbs)
 
+## 7/6/23
+Attendees: Nyantee, Kate, Julie, Nichole
+
+Notes
+- Team 2 / Carbs working on error messaging and validation
+- Nyantee went through some survey feedback (based on feedback button that exists on each page of the form) and has been creating tickets based on these, but unsure about capacity to continue this work (it's also a few months old, so data might be a little out of date).
+- 600 responses, useful as supplementary data. Should be shareable, includes some PII, can only view on remote desktop. Nyantee to check with Shannon to see if they need to scrub that first. 
+- Contact center said we could make request for custom surveys on that page, something for Nyantee and Nichole to chat to further. Can reach out on our support channel on Slack, #vsp-contact-center-support
+- What staging profiles to use? Might depend on the error message, can check with engineers to understand which profiles will have the required info
+- Lydia started a spreadsheet to track all error messages (mostly focused on error content) - https://docs.google.com/spreadsheets/d/1s3mIDmsPk98q80qCyXP9Q3XhgqdV42JMGwVVG7-InLw/edit#gid=0
+- Also need to capture errors that are missing / not visible to the user, will add this as a category
+- Nyantee wrapping up intro page synthesis, excited to see where it lands - might want to retest changes
+- Reminder to add ideas for Q3 prioritization here: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=39-1688575360079&sender=udbd39c1bbebb4ec4d7d08829
+
+
 ## 6/22/23
 Attendees: Lydia, Nyantee, Julie
 
