@@ -28,9 +28,9 @@ Slack for real-time feedback from observers.
 ## Intro - 5-10 minutes
 
 Thanks for joining us today! My name is Robyn/Jenny/Cara and [NOTETAKER NAME] is taking notes.
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them, I'll talk a little bit about what we'll be asking you today.  
+I also have a couple of other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them, I'll talk a little bit about what we'll be asking you today.  
 
-We are part of a team working on the health sections of website VA.gov. We’d like to get your feedback on some changes we have made to how you can access your personal health information and benefits on VA.gov. Specifically, we'll be asking you to perform a set of activities that show how you would navigate the VA.gov website to access and manage health-related information and benenfits. Most of what we'll be asking you is about your reactions to what you see on the website and where you might expect things to be. We won't ask you for personal information and we'll only ask you very general questions about your own benefits - we'll focus on your thoughts on the changes we've made to the VA.gov website. 
+We are part of a team working on the health sections of the website VA.gov. We’d like to get your feedback on some changes we have made to how you can access your personal health information and benefits on VA.gov. Specifically, we'll be asking you to perform a set of activities that show how you would navigate the VA.gov website to access and manage health-related information and benefits. Most of what we'll be asking you is about your reactions to what you see on the website and where you might expect things to be. We won't ask you for personal information and we'll only ask you very general questions about your own benefits - we'll focus on your thoughts on the changes we've made to the VA.gov website. 
 
 It is worth noting that we will be using what we call a prototype. This is not an actual website. It is a file that we use to explore what the website could look like and get feedback from users like yourself before we make any final changes to the website. This prototype will not work exactly like a website. For example, not all of the links will work and you cannot click the back button in your browser because it will take you away from the prototype. 
 
@@ -38,13 +38,13 @@ Before we start, I have a few things that I want to go over with you:
 
 - **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If for any reason and at any time you would like to stop the session, or do not want to answer a question, that's no problem. Please let me know. 
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double check with you before we get going. **Are you okay with a couple of additional observers during this session?**
+- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If for any reason and at any time you would like to stop the session or do not want to answer a question, that's no problem. Please let me know. 
+- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers. 
     - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
-   - Once complete, ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+   - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete the analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording.*
@@ -79,9 +79,9 @@ Thanks for your patience in figuring that out.
 
 Now I need to share with you a link to the prototype. How would you prefer the link? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
 
-Just as a reminder, this is a prototype, which means that it will behave differently than the actual website. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link. 
+Just as a reminder, this is a prototype, which means that it will behave differently than the actual website. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link. https://www.sketch.com/s/7dd70a0f-08de-4b7b-8203-0f3ee49acc3e/prototype/a/A3C4D258-7207-47A2-8530-4ED04E2CBB0F?hotspots=false
 
-_Send link to prototype: [Desktop](https://www.sketch.com/s/7dd70a0f-08de-4b7b-8203-0f3ee49acc3e/prototype/a/7B10BADC-79C3-40E5-B1D2-07A641D84D39?hotspots=false), [Mobile](https://www.sketch.com/s/7dd70a0f-08de-4b7b-8203-0f3ee49acc3e/prototype/a/E5CBA8F6-35D7-429A-A70F-75CDD7268926?hotspots=false). Show participant where prototype back button is._
+_Send link to prototype: [Desktop](https://www.sketch.com/s/7dd70a0f-08de-4b7b-8203-0f3ee49acc3e/prototype/a/A3C4D258-7207-47A2-8530-4ED04E2CBB0F?hotspots=false), [Mobile](https://www.sketch.com/s/7dd70a0f-08de-4b7b-8203-0f3ee49acc3e/prototype/a/E5CBA8F6-35D7-429A-A70F-75CDD7268926?hotspots=false). Show the participant where the prototype back button is._
 
 **_Task 1 - AVS task:_ _Participant should be starting from unauthenticated home page._** Let's imagine that you recently had to visit a specialist to talk about a chronic condition. You want to review what was decided for the next steps in your care. Using this prototype, where do you go for this information? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
@@ -92,15 +92,15 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 
 _Specific questions about AVS - **must ask**:_ 
 
-_If participant is in the Appointments section:_ 
+_If a participant is in the Appointments section:_ 
 - This summary of your doctor's recommendations for the next steps in your care came out of an interaction you had while in an appointment with this doctor. Do you think you would want or expect to be able to get back to the details of that appointment from this page? 
 - How would you get back out to the larger appointments section? 
 - (_Or, if more appropriate wording, depending on their behavior_): How would you backtrack to where you came from?
-- (_If participant uses breadcrumbs_): Why did you click on those links?
+- (_If a participant uses breadcrumbs_): Why did you click on those links?
 - (_If participant ends up on Appointments landing page_): What do you think will happen if you click on that "Requests" link? 
 - _Optional probe_: What do you think "Requests" means here? 
   
-_If participant gets to AVS through Medical Records:_ 
+_If a participant gets to AVS through Medical Records:_ 
 - This summary of your doctor's recommendations for the next steps in your care came out of an interaction you had while in an appointment with this doctor. Do you think you would want or expect to be able to get back to the details of that appointment from this page? 
 
 _Participant should be deep into either Appointments or Medical Records at this point looking at AVS._
@@ -114,12 +114,12 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 
 _Specific questions - **must ask**:_ 
 
-_If partipcant goes to My VA:_
+_If a participant goes to My VA:_
 - What is this page? 
 - What is the purpose of this page? 
 - (_If participant went to My HealtheVet landing page_): How is this page different than the other page where you looked at the plan from your doctor for your care? 
 
-_Once participant clicks on Copay link and is directed to Pay.gov, ask them to click "Continue" at least once to get them further into the form._
+_Once participant clicks on the Copay link and is directed to Pay.gov, ask them to click "Continue" at least once to get them further into the form._
 - Where are you right now? 
 - Are you on a different website than before?
 - How do you feel about being on a different website? 
@@ -135,7 +135,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 
 _Specific questions about Medical Records - **must ask**:_ 
 
-- (Need question probing around understandings of flag. Add after see what looks like in prototype.)
+- (Need question probing around understandings of the flag. Add after see what looks like in prototype.)
 - What would you do if you saw this flag in your test results?
 
 **_Task 3b - Transition from Medical Records to Secure Messaging; participant should be deep into Medication Records navigation at this point:_** Say you're confused by this flag in your result means and you want to ask your doctor about it. Using the resources offered on this website, how would you send them a message? Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
@@ -172,7 +172,7 @@ _Ask these questions if did not ask them in the AVS task:_
 
 **Priority Group questions**
 
-Thank you for showing me how you would navigate around on this site. Now that you are more familiar, I'd like to ask you a couple final questions. 
+Thank you for showing me how you would navigate around this site. Now that you are more familiar, I'd like to ask you a couple of final questions. 
 
 - Have you heard the term "VA priority group" before?
 - What do you think "VA priority group" refers to? 
