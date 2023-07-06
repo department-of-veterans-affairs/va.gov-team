@@ -5,7 +5,7 @@
 
 **Related/Associated product(s)**
 - Product | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
-- Epic | Link to the Initiative Epic - TBD
+- Epic | [Link to the Initiative Epic #30650](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30650)
 
 ---
 ## Problem
