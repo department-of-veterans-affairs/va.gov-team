@@ -32,4 +32,4 @@ A couple of reminders before moving on to the next part of level 1:
 - [ ] <strong>Share your questions and thoughts in the `#a11y-champs` channel.</strong> Did you learn something new today? Have a follow up question to this lesson? Let us know in the `#a11y-champs` channel! 
 - [ ] Move on to the final part of level 1, or bookmark it for safekeeping.
 
-<strong>[Continue to the final part of level 1, trying out your first screen reader ➡️](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/Level%201/3-ScreenReader.md)</strong>
+<strong>[Continue to the final part of level 1, trying out your first screen reader ➡️](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/Level%201/C_ScreenReader.md)</strong>
