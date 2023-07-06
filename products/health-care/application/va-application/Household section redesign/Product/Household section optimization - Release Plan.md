@@ -93,6 +93,7 @@ This is based on a third of current exit rates converting to successful submissi
 
 - Links to the dashboard(s) showing "success criteria" metrics:
      - Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+     - Data source for errors - [Sentry Logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 - Who is monitoring the dashboard(s)?:
      - Product Manager
      - Data Analyst
