@@ -44,7 +44,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 
 
  
-**Participants who successfully completed sessions: 4**
+**Participants who successfully completed sessions: 3**
 
 - [2 iOS VoiceOver users (screen reader) and 1 Screen Magnification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/transcripts)
 
