@@ -183,10 +183,10 @@ Retest with AT if possible
 - **"Review my information": **Missing material honesty with link text. Take user to intended destination.
 - **One-item/topic per page preferred:** Reduce cognitive load with one-time per page.
 - **Appointment Confirmation Not Confirmed:** Keep the user informed of success/failures through status messages and consistent help.
-- ** Upcoming Appointments View:**
+- **Upcoming Appointments View:**
   - Filters to reduce cognitive load.
   - Date & Details: Test date again, after adjusting screen reader test, to avoid it reading as a number and not full date.
-- **Processes: Confirmation and Check-In: ** Review content wording.
+- **Processes: Confirmation and Check-In:** Review content wording.
 
 ### Complete Now
 - x
