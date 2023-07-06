@@ -4,8 +4,10 @@
 
 ### Communications
 
-- **GitHub Label**: vsa-authenticated-exp; my-va-dashboard
-- **Slack channel**: vsa-authd-exp
+- **GitHub Label**: authenticated-experience; my-va-dashboard
+- **Slack channel**: accountexp-authexp
+- **Development Epic: [#41934](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41934)**
+- **Collaboration Cycle Epic: [#42601](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42601)**
 
 ### Roles
 
