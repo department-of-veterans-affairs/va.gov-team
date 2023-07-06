@@ -5,8 +5,8 @@
 # 526 Qualitative Survey Feedback White Paper 
 
 - Purpose: to summarize insights gained from written survey data captured from feedback survey on Introduction/Start pages by Contact Center and discover painpoints
-- Data collection date: 
-- Number of total responses for Introduction/Start pages: 
+- Data collection date: 1-01-2023 - 03-15-2023
+- Number of total responses for Introduction/Start pages: 441
 
 ---
 
