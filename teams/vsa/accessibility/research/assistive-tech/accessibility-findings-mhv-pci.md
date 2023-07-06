@@ -137,9 +137,6 @@ To best serve the users of VA.gov, we will need to collect the following informa
 - P11: Participant would have someone at the VA help with check in via a smart phone. "I will leave my smart phone at home, while I go out. I don't know if it would be good to rely on the Veteran to have ehier smartphone."
 - ✍️ ***Recommendation***: Review content wording.
 
-### Positive Feedback
-- P17:**Review your upcoming appointments**: “Oh, WOW, Ok! That was very clear.” Adding the "You checked in at 7:55 a.m." under the appointment details link was helpful.
-
 ## :warning: Prototype Related Issues Encountered
 ### Review your information
 - Double-Tap on it, but it doesn’t say it is a link or button to click on (prototype issue).
@@ -159,6 +156,8 @@ To best serve the users of VA.gov, we will need to collect the following informa
 ## User Feedback
 
 ### Veterans' Voices: Impactful Quotes 
+
+>“Oh, WOW, Ok! That was very clear.” Adding the "You checked in at 7:55 a.m." under the appointment details link was helpful.
 
 > "I have this “details” and “review my information now” link. 
 Is this in multiple places on this page? To me it is a bit confusing, the fact that I don’t know if it is telling me that it is multiple places on the page, or if it is going back and reading this link over and over again. 
