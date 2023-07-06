@@ -20,9 +20,9 @@ I would like to schedule interviews with 3-6 participants in order to achieve 3-
 Beginning July 13-21, until 3-6 sessions are complete.
 
 ## Screener Questions
-    -  Do you have a computer, tablet, or smartphone and would be willing to complete a session on one of those devices?
-    -  Does the device have a working microphone?
+    -  Do you have a computer, tablet, or smartphone and would be willing to complete a session on one of those devices? (Yes, No)
+    -  Does the device have a working microphone? (Yes, No)
     -  How often do you reach out to the VA? (Often, Ocasionally, Rarely)
-    -  Do you have experience interacting with a Live Agent at the VA (Yes) 
+    -  Do you have experience interacting with a Live Agent at the VA (Yes, No) 
 
 
