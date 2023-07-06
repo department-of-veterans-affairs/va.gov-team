@@ -79,7 +79,7 @@ Thanks for your patience in figuring that out.
 
 Now I need to share with you a link to the prototype. How would you prefer the link? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
 
-Just as a reminder, this is a prototype, which means that it will behave differently than the actual website. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link. https://www.sketch.com/s/7dd70a0f-08de-4b7b-8203-0f3ee49acc3e/prototype/a/A3C4D258-7207-47A2-8530-4ED04E2CBB0F?hotspots=false
+Just as a reminder, this is a prototype, which means that it will behave differently than the actual website. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link. 
 
 _Send link to prototype: [Desktop](https://www.sketch.com/s/7dd70a0f-08de-4b7b-8203-0f3ee49acc3e/prototype/a/A3C4D258-7207-47A2-8530-4ED04E2CBB0F?hotspots=false), [Mobile](https://www.sketch.com/s/7dd70a0f-08de-4b7b-8203-0f3ee49acc3e/prototype/a/E5CBA8F6-35D7-429A-A70F-75CDD7268926?hotspots=false). Show the participant where the prototype back button is._
 
