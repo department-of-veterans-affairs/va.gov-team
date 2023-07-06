@@ -1,4 +1,8 @@
 # Benefit payments and debt documentation
+Last updated: July 6, 2023 - added Background
+
+### Background
+This is FE documentation for the MVP iteration of "payment info" on My VA. The MVP displayed benefit payments and debts as a single section on My VA.
 
 ## Mockups
 
