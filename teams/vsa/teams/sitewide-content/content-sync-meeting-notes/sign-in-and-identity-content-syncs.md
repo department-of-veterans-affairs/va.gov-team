@@ -1,5 +1,18 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**July 6, 2023**
+-
+Attendees: Aliyah, Carl, Ngozi, Sofia, Joe, Dawn
+
+**Notes** 
+- **Verifying your identity on VA.gov page**
+     - We finsihed reviewing this page. We'll likely move forward with redirecting users to partner pages for some of the questions, given the information may change on the partner side.
+     - Joe and team to create a list of any questions that need to be added to the page, based on pain points they've seen/heard. Their team will look at the page on VA.gov and Aliyah requested that they provide a word document with a list of additonal questions.
+- **Login.gov/ID.me reaction draft email**
+    - We discussed whether this email should be the first point of information about accoutn options going away.
+    - **Action item:** Dawn will touch base with John and Tom about how to approach this
+    - **Action item:** Carl will make adjustments to email content based on call feedback. He'll remove mentions of the account option and frame as encouraging use of these accoutnu types instead of mentioning that accounts are going away
+
 **June 23, 2023**
 -
 Attendees: Aliyah, Carl, Joe, Sofia, Porta
