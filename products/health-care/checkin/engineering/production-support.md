@@ -14,7 +14,8 @@ Here is the current production support guidance for Check-in Experience team:
                 - Primary - is responsible for responding to incidents/issues
                 - Secondary - is the next person in line to be Primary and takes over for the Primary if they need to be OOO
             - On call persons will get a call/text if an issue needs to be addressed (depending on your configuration in PagerDuty)
-        - Use the [Tier 3 Playbook](https://github.com/department-of-veterans-affairs/checkin-devops/blob/master/docs/PCI%20API%20Tier%203%20Team%20Playbook.md) to guide incident/issue response     
+        - Use the [Tier 3 Playbook](https://github.com/department-of-veterans-affairs/checkin-devops/blob/master/docs/PCI%20API%20Tier%203%20Team%20Playbook.md) to guide incident/issue response
+        - In the event that an issue is resulting from something upstream, bring attention to the issue in the following channel 
     - Slack channels
         - [#check-in-production-support](https://dsva.slack.com/archives/C02UP02HHGX)
             - Ensure the daily bot is posting check-in and pre-check-in data 
