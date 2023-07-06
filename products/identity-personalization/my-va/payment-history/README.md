@@ -6,6 +6,8 @@
 
 - **GitHub Label**: vsa-authenticated-exp; my-va-dashboard
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
+- **MVP Epic [#43337](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43337)**
+- **Payment info v2 Epic [#43332](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43337)**
 
 ### Roles
 
