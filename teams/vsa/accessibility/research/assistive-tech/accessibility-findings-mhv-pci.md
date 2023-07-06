@@ -48,52 +48,52 @@ To best serve the users of VA.gov, we will need to collect the following informa
 
 - [2 iOS VoiceOver users (screen reader) and 1 Screen Magnification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/transcripts)
 
-## Findings
+## Findings, Recommendations & User Feedback
 
 ### Text Content
 #### Text Reply Options: Y1, N1 and D1
   - P2: Confusing to the participant, who was not expecting to have a numerical number there.
     - P2: It would add two extra steps for the VoiceOver user.
-- **Recommendation**: Using the number causes the user to switch over to the number pad. This could be challenging for anyone with motor problems or limited to no sight. Use Y, N or D. 
+- ✍️ **Recommendation**: Using the number causes the user to switch over to the number pad. This could be challenging for anyone with motor problems or limited to no sight. Use Y, N or D. 
 
 #### Text Content
 - P17: Missing Time Zone for Appointment Texts:
   - Text 1: Your VA appointment is on FEB 2 at 08:00.
   - Text 2: Your appointment for FEB 2 at 08:00 is confirmed.
-- **Recommendation**: Add time zone.
+- ✍️ **Recommendation**: Add time zone.
 
 ### VoiceOver Not Reading Content
 #### Review your information now
   - P17: Does not read out the green arrow in the CTA link for "Review your information now."
-- ***Recommendation**:* Correct prototype issue.
+- ✍️ ***Recommendation**:* Correct prototype issue.
   
 #### Required Field: Your last name
    - P17: The participant's screen reader did not read out the *Required nature of the question, as illustrated visually with (*Required) in red.
-- ***Recommendation***: Forms should provide equal information to signted and non-sited visitors. 
+- ✍️ ***Recommendation***: Forms should provide equal information to sighted and non-sited visitors. 
 
 #### Details Page
    - P17: There was no feedback on the "next button" on the details page.
-- ***Recommendation***: Provide feedback.
+- ✍️ ***Recommendation***: Provide feedback.
 
 #### "Is this your emergency contact?
    - P17: " ... "I touched the address box and it read that out, but when I just went to Go instead of swiping instead of directly to the yes box, it won’t let me do it."
-- ***Recommendation***: Avoid traps. Retest with AT.
+- ✍️ ***Recommendation***: Avoid traps. Retest with AT.
 
 #### Review upcoming appointments
    - P17: “It doesn’t say that is a link, but I will tap onto it.”
    - P11: "It would be nice to put the 3 appointments back-to-back, so I'm not at the VA all day. Parking availability is dependent on appointment time. I make appointments on Friday because there aren't many people."
-- ***Recommendation***: Fix prototype issue. It doesn't say if it is a link or a button. Reading as text, which can lead to a link being skipped. Add proper role. 
+- ✍️ ***Recommendation***: Fix prototype issue. It doesn't say if it is a link or a button. Reading as text, which can lead to a link being skipped. Add proper role. 
 
 ### DOB Field
    - P2: Participant prefers a date picker to avoid jumping out of the form fields.
      - P2: Participant said they did not know initially if it was numerical or text, until clicking on it, but prefers a date picker for VoiceOver.
-- ***Recommendation***: Use a date picker to avoid jumping out of the form fields. 
+- ✍️ ***Recommendation***: Use a date picker to avoid jumping out of the form fields. 
 
 ### Duplicative Links: Details vs. Confirm your appointment text
    - P2: Confusing multiple locations of the links.
      - P2: “Review your information” shows in the card view AND in the upcoming appointments section below it, which was confusing the user, having the duplicative information.
      - P2: The “details” link was also unclear to the user, since there were multiple.
-   - ***Recommendation***: Create distinguishable links. Add ARIA to "confirm appointment" and "check now" action links (in cards) and active links (in appointment lists) to include appointment time. 
+   - ✍️ ***Recommendation***: Create distinguishable links. Add ARIA to "confirm appointment" and "check now" action links (in cards) and active links (in appointment lists) to include appointment time. 
 
 ### Link Destination Confusion
 - P2: User would like to be taken to where he expects to be taken, based on the link text.
@@ -101,14 +101,14 @@ To best serve the users of VA.gov, we will need to collect the following informa
        - If I click a link to “review my information” I would expect it to take me to where I could review my information. The extra stuff, especially with a screen reader is a pain. You are forcing me to scroll through a bunch of stuff that isn’t related.”
        - “This is like a calendar of my upcoming appointments, and that is not what the link said it was going to do.”
        - “I would change the whole page. After I type in my name and birthdate. I should see the information I am supposed to review. All these appointments have nothing to do with that. If you have a link “view upcoming appointments” that would be fine. But now, to drop me on this page, when it said what it was going to do, that is confusing. “
-- ***Recommendation***: Missing material honesty with link text. Take user to intended destination. 
+- ✍️ ***Recommendation***: Missing material honesty with link text. Take user to intended destination. 
      
 ### Too much information for the participant. One-item/topic per page preferred.
 - P2: Having the upcoming appointment detail on the page is not what is expected by the user. Would expect a link to that information.
     - “Text should send me to the appointment I am saying Y1 to. Right there should be that appointment and the review your information. Why have all this other stuff on there? That isn’t what the text was about.”
     - “I personally think it is too much.”  “I came here to do a specific task. I really shouldn’t have all of these options. Maybe I would spend an hour when I should have only spent a few minutes.”
 - P17: “I think maybe this process is maybe a step or two longer than what it needs to be? Now if there was just a one page, straightforward way, you could quickly go to the tool and check in for your present information, then come back later.”
-- ***Recommendation***: Reduce cognitive load with one-time per page. 
+- ✍️ ***Recommendation***: Reduce cognitive load with one-time per page. 
   
 ### Missing Signifier
 #### Appointment Confirmation Not Confirmed
@@ -116,26 +116,26 @@ To best serve the users of VA.gov, we will need to collect the following informa
    - Organization is not clear to the user. 
    - The title appointment is fine, but then it goes to “what to do next” and then “confirm your appointment” that is like um, I don’t know that is definitely not clear. Maybe instead of “what to do next” maybe something.
    - Just says “details” doesn’t have date or information related to it.
-- ***Recommendation***: Keep the user informed of success/failures through status messages and consistent help. 
+- ✍️ ***Recommendation***: Keep the user informed of success/failures through status messages and consistent help. 
 
 ### Upcoming Appointments View
 #### Filter to Shorten View
 - P2: Participant would like a filter, because you may have a whole year’s worth of information to sort through.
    - P2: “I don’t particularly like this page. I would like to click on a month and pull up the information for the month. As a screen reader I am going to read top to bottom. Going down to find appointments for March, I have ways to get around it but others may not. I have to go through all of February to get to March. If I could choose just the month it would be better than me. … If it was a whole year’s worth of appointments, that is a lot of swiping.”
 - **Development question:** If we can’t do filters now in this iteration could we do anchor links to the months or have one month per page and link to that page?
-- ***Recommendation***: Filters to reduce cognitive load.  
+- ✍️ ***Recommendation***: Filters to reduce cognitive load.  
 #### Date and Details
 - P17: "Appointment number four, or was that the date?" When referring to the number 4 (date) indicator on the appointment page. "At first I thought they represented the actual number of appointments. Then, scanning the number that I just got to is actually the day of the month. I can say that was a little confusing, but not anything I couldn't figure out."
    - P17: "... Needing to know the floors or the room number. Some buildings have to go to the information desk, for floor and room number to see where it was at."
    - P11: It was "easy" for the participant to find out if they had upcoming appointments that needed to be reviewed, too.
-- ***Recommendation***: Test date again, after adjusting screen reader test, to avoid it reading as a number and not full date.  
+- ✍️ ***Recommendation***: Test date again, after adjusting screen reader test, to avoid it reading as a number and not full date.  
 
 ### Processes: Confirmation and Check-In
 - P17: "The separation of the two was quite obvious because the first one with the text message is text message based, when you go on this tab, it takes you to an actual website, or platform per say. That is the major difference. You know I can say personally myself, you know, I would check in this second way. I believe after maybe 3 or 4 attempts at it. Especially the part when I know my information is current, then I don’t have to go through that process and it would be just as easy going to a kiosk, being low vision. Compared to going to a check-in kiosk, with no voice output and using this tool, you know for the blind and no vision veterans this would definitely be easier."
 - P17: Don’t say check in unless you check in. We were giving an or option, and instead say confirm. Instead say confirm and not use check in if that is not available.
 - P11: Participant was curious what would happen if they misspelled their last name, but put in the correct birthdate.
 - P11: Participant would have someone at the VA help with check in via a smart phone. "I will leave my smart phone at home, while I go out. I don't know if it would be good to rely on the Veteran to have ehier smartphone."
-- ***Recommendation***: Review content wording.
+- ✍️ ***Recommendation***: Review content wording.
 
 ### Positive Feedback
 - P17:**Review your upcoming appointments**: “Oh, WOW, Ok! That was very clear.” Adding the "You checked in at 7:55 a.m." under the appointment details link was helpful.
@@ -156,28 +156,6 @@ To best serve the users of VA.gov, we will need to collect the following informa
 ### Your contact information is up to date.
 - It did not read “H1: Your contact information is up to date.”
 
-## Key Findings
-Add screenshots, images and videos here.
-
-### Finding 1
-- Y1, N1 and D1 reply for details.
-    - Confusing and not expecting to have a numerical number there, and it would add two extra steps for the VoiceOver user.
-    - Users expect it to by just "Y."
-    - This makes users switch over to the number pad with VO. Creating two extra steps.
-    - Users with motor disabilities may have issue pressing the number one, as it is burried on the very left-hand side of the screen.
-### Finding 2
-- A date picker is prefered to avoid jumping out of the form fields. 
-
-### Finding 3
-- Link confusion
-    - Details vs. Review your information now links.
-    - Confusing multiple locations of the links to user.
- 
-### Finding 4 (Prototype Issue)
-- “Review your information” shows in the card view AND in the upcoming appointments section below it, which was confusing the user, having the duplicative information.
-- The “details” link was also unclear to the user, since there were multiple. 
-
-
 ## User Feedback
 
 ### Veterans' Voices: Impactful Quotes 
@@ -192,7 +170,7 @@ Under every appointment does it say “review your information now” links?" - 
 Overview summary goes here. 
 
 ### If we don't have enough data or research to know...
-Point out the gaps
+Due to the low number of participants, we don't have enough Assistive Technology user data to make data-driven decisions; however, we do have the feedback to integrate into the overall study, based on those tested with Assistive Technology. 
 
 ## Next Steps
 A list of actionable findings, based on time-sensitive, priority needs. Images, videos, links, screenshots and notes provided as deemed approprite. 
