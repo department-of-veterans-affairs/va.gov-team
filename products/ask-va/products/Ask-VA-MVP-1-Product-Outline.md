@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-AVA is an online portal that allows Veterans, caregivers, and supporting personnel in education, debt, loans,  etc. to submit questions to VA and receive a secure message response.
+AVA is an online portal that allows Veterans, caregivers, and supporting personnel in education, debt, loans, etc. to submit questions to VA and receive a secure message response.
 
 Currently, Ask VA (AVA) resides within a stand-alone Microsoft portal that is inconsistent with the VA design standards, is not mobile-friendly, and has accessibility issues. 
 
@@ -16,7 +16,7 @@ Submitter should easily and intuitively be able to ask a question through Ask VA
    - **Who**: The submitter - This could be the Veteran, their caregiver, their supporting personnel, or their dependents (authenticated or un-authenticated).
    - **What**: The current form design and content is not up to VA.gov design standards, mobile-friendly, and accessible for the submitter. The submitter wants to ask a question, submit documents, provide updates.
    - **Why**: This will empower more Veterans to seek access to VA benefits and services by letting them get answers to their questions.
-   - **Where**: The form needs to reside in VA.gov so that it is easily locatable, and can potentially integrate with other applications on the platform.
+   - **Where**: The form needs to reside in VA.gov so that it is easily locatable and can potentially integrate with other applications on the platform.
    - **How**: Contact the submitter via email, phone, or mail and dashboard.
 
 **How might we** create an inquiry form that is easier for the Veterans to ask a question online?
@@ -81,7 +81,7 @@ Phase 1 MVP:
 >- Write topics and categories based on content style guide (without changing form functionality and output).
 >- Write form questions based on content style guide (without changing form functionality and output).
 >- Update UI to reflect the VA Design System.
->- Make it mobile friendly.
+>- Make it mobile-friendly.
 >- Do iterative submitter research to test usability of new form design and content updates.
 >- Make it 508 Compliant.
 >- Complete necessary PRA updates.
@@ -104,7 +104,7 @@ Below two dependent on spikes.\
 >- Status on inquiries
 >- Need more information/research with Ask AVA CRM team
 5. VA Notify integration
->- MyVA is creating a notification center, strategically want to integrate there for authenticated submitters.
+>- MyVA is creating a notification center, and strategically wants to integrate there for authenticated submitters.
 >- Spike on notifications on where it stands and how we would move it to VA gov, and how VA.gov will trigger the notifications.
 
 Our first MVP will have brought the current Ask VA up to VA.gov design standards, made the form accessible, and updated the content to make it more intuitive for our submitters. 
