@@ -98,7 +98,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 ### Link Destination Confusion
 - P2: User would like to be taken to where he expects to be taken, based on the link text.
     - “That would confuse me. If they want me to make sure my information is correct, it is confusing because it doesn’t make sense to me."    
-       - If I click a link to “review my information” I would expect it to take me to where I could review my information. The extra stuff, especially with a screen reader is a pain. You are forcing me to scroll through a bunch of stuff that isn’t related.”
+       - "If I click a link to 'review my information' I would expect it to take me to where I could review my information. The extra stuff, especially with a screen reader is a pain. You are forcing me to scroll through a bunch of stuff that isn’t related.”
        - “This is like a calendar of my upcoming appointments, and that is not what the link said it was going to do.”
        - “I would change the whole page. After I type in my name and birthdate. I should see the information I am supposed to review. All these appointments have nothing to do with that. If you have a link “view upcoming appointments” that would be fine. But now, to drop me on this page, when it said what it was going to do, that is confusing. “
 - ✍️ ***Recommendation***: Missing material honesty with link text. Take user to intended destination. 
@@ -159,21 +159,34 @@ To best serve the users of VA.gov, we will need to collect the following informa
 ## User Feedback
 
 ### Veterans' Voices: Impactful Quotes 
-This section is for quotes. ⚠️ Participants should be referenced by number only, please.
-In this section feel free to segment populations based on the trends we see with certain user types.
 
 > "I have this “details” and “review my information now” link. 
 Is this in multiple places on this page? To me it is a bit confusing, the fact that I don’t know if it is telling me that it is multiple places on the page, or if it is going back and reading this link over and over again. 
 Under every appointment does it say “review your information now” links?" - P2
 
-## a11y Recommendations
-Overview summary goes here. 
+> "If I click a link to 'review my information' I would expect it to take me to where I could review my information. The extra stuff, especially with a screen reader is a pain. You are forcing me to scroll through a bunch of stuff that isn’t related. This is like a calendar of my upcoming appointments, and that is not what the link said it was going to do.” - P2
 
-### If we don't have enough data or research to know...
-Due to the low number of participants, we don't have enough Assistive Technology user data to make data-driven decisions; however, we do have the feedback to integrate into the overall study, based on those tested with Assistive Technology. 
+> “I think maybe this process is maybe a step or two longer than what it needs to be? Now if there was just a one page, straightforward way, you could quickly go to the tool and check in for your present information, then come back later.” - P17
 
 ## Next Steps
-A list of actionable findings, based on time-sensitive, priority needs. Images, videos, links, screenshots and notes provided as deemed approprite. 
+
+Due to the low number of participants, we don't have enough Assistive Technology user data to make data-driven decisions based on trends; however, we do have the feedback to integrate into the overall study, based on those tested with Assistive Technology. 
+- **Text Content on Phone**: Add time zone
+- **DOB Field**: Use a date picker to avoid jumping out of form fields
+- **Prototype**: Correct prototype issues listed
+- **Required Field Your Last Name**: Form updates to provide equal information to signted and non-sited visitors
+-** Details Page Next Button**: Provide feedback on button
+- **"Review upcoming appointments":** It doesn't say if it is a link or a button. Reading as text, which can lead to a link being skipped. Add proper role.
+- **"Is this your emergency contact":** Avoid traps and retest with AT
+Retest with AT if possible
+- **Duplicative Links:** Details vs. Confirm your appointment text: Create distinguishable links. Add ARIA to "confirm appointment" and "check now" action links (in cards) and active links (in appointment lists) to include appointment time.
+- **"Review my information": **Missing material honesty with link text. Take user to intended destination.
+- **One-item/topic per page preferred:** Reduce cognitive load with one-time per page.
+- **Appointment Confirmation Not Confirmed:** Keep the user informed of success/failures through status messages and consistent help.
+- ** Upcoming Appointments View:**
+  - Filters to reduce cognitive load.
+  - Date & Details: Test date again, after adjusting screen reader test, to avoid it reading as a number and not full date.
+- **Processes: Confirmation and Check-In: ** Review content wording.
 
 ### Complete Now
 - x
