@@ -1,4 +1,4 @@
-# DRAFT Research Plan for health care application generative research study around Priority Groups / Financial Disclosure / Dependents [Health Enrollment Team, 10-10EZ, June 2023]
+# DRAFT Research Plan for health care application generative research study around Priority Groups and Financial Updates [Health Enrollment Team, 10-10EZ, June 2023]
 
 ## Background
 The online health care application (10-10EZ) and the update form (10-10EZR which is only paper form today) both can impact a Veteran's eligibilty and placement when applying for and managing their health care benefits. This is more so impactful for those placed in a Priority Group who need to have income information considered for copays and travel reimbrusment in addition to eligibility. The 10-10EZ is the initial application that then places a Veteran in a Priority Group for enrollment into the full medical benefits package. The 10-10EZR is used to proivde personal, financial or insurance information updates after enrollment. 
@@ -45,7 +45,6 @@ We will use these findings to:
   
 
 ### Research questions
-
 
 **Learn more about Veteran's mental model when applying for and managing their health care benefits including the terms they use and how they understand eligibility and their specific benefits.**
 
@@ -118,11 +117,9 @@ Remote via Zoom for the interviews
 Our intended audience for this reasearch are Veterans and we will be using and leveraging Perigean to recruit participants.
 
 ### Recruitment criteria
-Total: **30 requested** / 18 completed
 
-- Cohort 1: **12 requested** / 8 completed sessions
-- Cohort 2: **9 requested** / 5 completed sessions 
-- Cohort 3: **9 requested** / 5 completed sessions
+-  **14 requested** / 8 completed sessions
+
 
 
 **Primary criteria (must-haves)**
@@ -135,7 +132,6 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
-Per cohort:
 - At least 2 participants are female
 - At least 2 participants with a cognitive disability
 - At least 2 participants over the age of 55
@@ -145,9 +141,7 @@ Per cohort:
 ## Timeline
 
 **TBD - DRAFT**
-Cohort 1: July 17 - 19, 2023
-Cohort 2: July 26 - 30, 2023
-Cohort 3: TBD
+ TBD
 
 
 ### Prepare
