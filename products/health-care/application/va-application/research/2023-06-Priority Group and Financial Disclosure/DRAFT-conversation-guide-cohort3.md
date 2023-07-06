@@ -48,12 +48,11 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions  - 3 minutes
 
-Let’s start with a few warm-up questions.
+Let’s start with a couple warm-up questions.
 
 - Are you currently enrolled and using health care benefits from the VA? 
-- How often do you visit a VA facility for medical care? 
-- How often do you visit VA.gov online? And do you sign in every time or how often do you sign in?
-- Do you receive any other benefits beside health care from the VA? Would you mind sharing what those are?
+- How often do you visit VA.gov online?
+- And do you sign in every time or how often do you sign in?
   
 
 ## First Topic: [Application Process] - 10 minutes
@@ -62,7 +61,7 @@ Let’s start with a few warm-up questions.
 - [If they don't specify] Did you apply online, in-person or via paper application by yourself?
 - What resources did you use to understand what health care benefits you might qualify for during this process?
 - How would you describe the process that happened after you completed your application, such as things you had to do, additional information you had to provide, communications from the VA, your first appointment, etc.?
-- Now that you have been using your benefits, I would like you to think back and recall if there is anything that would have been helpful for you to know during your application process that you learned after you enrolled?
+- Now that you have been using your benefits, I would like you to think back and recall if there is anything that would have been helpful for you to know during your application process that you have learned after you enrolled?
 
 
 ### Things to watch for:
@@ -79,7 +78,6 @@ Let’s start with a few warm-up questions.
 - Before you completed enrollment, were you aware of Priority Groups or copays as part of the health care benefits package?
 - [if yes] Can you tell me more about what you knew before you applied and how you learned that information?
 - Since you have been using your benefits, what do you now know about Priority Groups and the impact it has on you and health care benefits?
-- If you had a magic wand, can you describe to me what you would change in regards to health care groups and benefits?
 
 
 ### Things to watch for:
@@ -92,12 +90,15 @@ Let’s start with a few warm-up questions.
 
 ## Third Topic: [Priority Group - SCENARIO] - 10 minutes
 
-- WIREFRAME SCENARIO HERE BASED ON FINDINGS COHORT 1 and 2
+- WIREFRAME SCENARIO(s) HERE
+
+
 
 
 ### Things to watch for:
-- [Do Veterans' call out VA.gov as where they would expect to find this information or another channel - MHV or VA Profile?]
-- [What information do Veterans want to be communicated to about their Priority Group?]
+- [Do Veterans call out VA.gov as where they would expect to find this information? Do they list VA Profile?]
+- [Do Veterans mention other channels to find and manage this information - MHV, mobile, etc?]
+- [What information do Veterans want to know about their Priority Group?]
 
 
 
@@ -105,31 +106,37 @@ Let’s start with a few warm-up questions.
 
 ## Fourth Topic: [Updates post enrollment] - 5 minutes
 - Changing directions a bit now, since you enrolled, have you had to make any updates to your information since your initial application?
-- If yes, can you please tell me more about that. What did you have to update and how was that experience for you?
-- Is there anything about that experience that you wish you could change?
-- Did you have to make updates for other benefits too or just health care?
+- If yes:
+   - can you please tell me more about that. What did you have to update and how was that experience for you?
+   - Is there anything about that experience that you wish you could change?
+   - Did you have to make updates for other benefits too or just health care?
+- If no:
+   - If you had to make updates, where would you think to go to initiate this process?
+
+## [Financial Disclosure] - 5 minutes
+- How would you see a change in income impacting your health care benefits?
+- How would you expect to be notified to provide your updated financial information?
+
+
+## [Dependents] - 5 minutes
+- If you had to make changes to your dependents, can you explain to me how you would go about doing that?
+- What would be an ideal process for you if you needed to make chagnes to you dependents?
+
+
+### Things to watch for:
+- [What is the current process and pain points when making updates to post enrollment?]
+- [What type of information is mentioned as what has been or they could see being updated?]
+
 
 
 ## Fifth Topic: [EZR Tasks - SCENARIO] - 10 minutes
 
-- WIREFRAME SCENARIO HERE BASED ON FINDINGS COHORT 1 and 2
+- WIREFRAME SCENARIO(s) HERE
 
-
-
-## Sixth Topic: [Financial Disclosure] - 5 minutes
-- How would you see a change in income impacting your health care benefits?
-- If you have copays, when during the enrollment process were you clear on what you qualified for and what you would have to pay? 
-
-## Sixth Topic: [Dependents] - 5 minutes
-- If you had to make changes to your dependents, can you explain to me how you would go about doing that?
-- What would be an ideal process for you if you needed to make chagnes to you dependents?
-
-### Things to watch for:
-- [What is the current process and pain points when making updates to dependents?]
 
 
 ## Fourth Topic: [Ideal State] - 5 minutes
-- Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using your benefits and updating your information. 
+- Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using your benefits all they way through updating your information. 
 - What tools, communication, people could make this the best process possible in your mind?
 - What information would be important to you so you feel confident when having to apply for and use your health care benefits?
 
@@ -139,7 +146,6 @@ Let’s start with a few warm-up questions.
 - [What steps do they call out?]
 - [What steps do they leave out?]
 - [What do they mention or call out as information that is helpful in making decisions about health care benefits?]
-
 
 
 
