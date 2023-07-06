@@ -13,10 +13,11 @@ AVA on the modernized VA.gov platform will be a digital support channel that wor
 ## Problem Statement
 
 Submitter should easily and intuitively be able to ask a question through Ask VA on VA.gov.
-   - **Who**: The submitter - This could be the Veteran, their caregiver, their supporting personnel, or their dependents.
-   - **What**: The current form design and content is not up to VA.gov design standards, mobile-friendly, and accessible for the submitter.
-   - **Why**: This will empower more Veterans to seek access to VA benefits and services.
+   - **Who**: The submitter - This could be the Veteran, their caregiver, their supporting personnel, or their dependents (authenticated or un-authenticated).
+   - **What**: The current form design and content is not up to VA.gov design standards, mobile-friendly, and accessible for the submitter. The submitter wants to ask a question, submit documents, provide updates.
+   - **Why**: This will empower more Veterans to seek access to VA benefits and services by letting them get answers to their questions.
    - **Where**: The form needs to reside in VA.gov so that it is easily locatable, and can potentially integrate with other applications on the platform.
+   - **How**: Contact the submitter via email, phone, or mail and dashboard.
 
 **How might we** create an inquiry form that is easier for the Veterans to ask a question online?
 
@@ -126,6 +127,8 @@ Link to Initiative Brief on the overall project: https://github.com/department-o
 ## Launch Strategy
 
 Launch MVP once all the categories are redesigned.
+
+
 
 Communication Plan:
 
