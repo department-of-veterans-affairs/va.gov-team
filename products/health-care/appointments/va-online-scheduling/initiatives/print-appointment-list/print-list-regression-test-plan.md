@@ -72,7 +72,7 @@ On the VAOS homepage, the app displays the following for each status:
 - [X] [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
 
 ### Summary Defect Report
-- [ ] TBD 
+- [X] [Summary Defect Report - Print list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/print-appointment-list/print-list-defects.md) 
 
 ### Traceability Report 
 - [X] [VAOS](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/unit-test-coverage-report/)
