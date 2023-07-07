@@ -41,13 +41,18 @@
 
  We are still determinng the best ways of measuring succes via metrics for this update.  We currently have the following ideas:
  * User feedback (Medallia)
-
-### Baseline KPI Values
-* TBD
+ * Feedback from CSCs on misrouted applications
 
 ### Objectives and Key Results
 * Objective: Make it easier for Veterans to apply for healthcare and select the facility that's correct for them.
   - Key result: Facilities list is complete, accurate and up to date
+ 
+|TBD| Baseline (Jan-Feb 2023)| Target | 1 Month after launch|
+|--------|-----------------------|----------|--------------------|
+|TBD | TBD | TBD | TBD |
+|TBD | TBD | TBD | TBD |
+
+
        - [JSON static file](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/8cdc5f35ad743af51170adad84b92a8b49504bdf/src/common/va-medical-facilities.js) contained 1040 facilities
        
 ---
