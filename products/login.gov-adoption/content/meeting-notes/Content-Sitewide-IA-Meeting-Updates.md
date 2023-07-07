@@ -1,6 +1,42 @@
 ## Content Sync
 
+## MHV Comms Working Group July 6, 2023
+
+### Attendees: Sofia Kirkman, Dawn Munoz
+
+
+### Notes:
 ## July 6, 2023
+FAQS: Bank of questions and answers for presenters on MHV on VA.gov project
+- Use content for other channels
+
+Track how we are doing with communications
+In comms plan, desired measures were provided - now we have to put those in place and communicate them to leadership
+
+Danielle and Treva will provide a 10 min preview on a call of MHV on VA.gov
+- High level
+- Product line people will attend to answer questions
+- Working on some slides
+- Use MHV on VA.gov briefing
+- Focus briefing more on what veterans need to know rather than what the project is about
+
+Change management process
+- Pro triangle assessment
+- Sent out to key stakeholders
+- Look at how assessments of awareness and knowledge will be made
+- Important to capture the questions for the FAQs and to gauge where confusion and uncertainty lies
+- Adkar assessment
+	- awareness, desire, knowledge, ability, reinforcement
+
+
+MHV coordinators wanted to know if they will be supporting veterans upgrading to Login.gov
+- He can upgrade veterans to MHV premium
+- If options are taken away and it’s all Login.gov and ID.me, they can’t help the veterans as of right now
+- Can they do that? The answer is complicated
+- This is something that the LGA is pursuing - how can we enable MHV coordinators and other staff members to help transition veterans?
+- Should email be the first encounter of MHV sunset (outside of blog posts)
+- Treva, Rebekah, Ngozi from MHV and Danielle from VA
+- MHV coordinators and help desk will need to be involved - Susan Haidary
 
 ### Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Dawn Munoz, Joe Niquette
 
