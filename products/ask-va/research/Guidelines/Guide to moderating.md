@@ -23,7 +23,7 @@ This guide is based on:
 
       How to observe this session:
       
-      * Please review [these guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Guidelines/Guide%20to%20observing.md) before you join the session.
+      * Please review [these guidelines](add link) before you join the session.
       * If you signed up to take notes today, please use this [Mural board](add link).
       * Once (if) the participant agrees to have you join, I'll let you in from the Zoom waiting room.
       * Instead of using the Zoom chat, please use this 🧵.
