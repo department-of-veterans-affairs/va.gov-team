@@ -90,10 +90,8 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 
 ### Recruitment criteria
 
-10 completed sessions; 5 completed per cohort
-
 **16 requested; 8 requested per cohort**
-
+10 completed; 5 completed per cohort
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
@@ -103,8 +101,8 @@ What demographics, experience, and scenarios do you need participants to meet to
 Cohort 1: 
 - Have you visited a VA facility for a medical visit/exam in the past year and **are not/did not enroll** in the health care benefits package? [answer should be yes to qualify.]
 
-Cohorts 2 & 3:
-- Have you applied within the past 2 years and are now enrolled in health care? [answer should be yes to qualify.]
+Cohort 2:
+- Have you applied within the past 3 years and are now enrolled in health care? [answer should be yes to qualify.]
 
 
 
