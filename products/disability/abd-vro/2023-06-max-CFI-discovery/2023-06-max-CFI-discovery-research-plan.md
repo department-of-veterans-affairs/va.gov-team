@@ -112,6 +112,7 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
 - All participants have used VA.gov to file a claim (disability, pension, or other)
+  - Have you ever used VA.gov to file a claim for disability, pension, or any other benefits? 
 
 - At least 2 but no more than 4 Veterans who identify as a gender other than male. 
 
