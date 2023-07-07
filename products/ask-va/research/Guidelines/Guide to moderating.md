@@ -48,7 +48,7 @@ This guide is based on:
 
 ### If something goes wrong
 
-* Our number one priority as researchers is to **keep our participants safe** or **avoid doing additional harm**.
+* Our number one priority as researchers is to **keep the participant safe** or **avoid doing additional harm**.
 * If a participant appears distressed, take a moment to check in. You can start by offering to move on and skip the question or topic, or suggest taking a short break.
 * If they continue to give signs of distress, follow the emergency exit strategies in the conversation guide.
 * If you find yourself in a session with a participant experiencing a medical or psychological emergency, then you need to follow [this protocol](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#Researchsafetyandemergencyexitstrategies-Requestingemergencyassistance) to request assistance.
