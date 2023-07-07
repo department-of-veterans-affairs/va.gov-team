@@ -107,7 +107,7 @@ Below two dependent on spikes.\
 >- MyVA is creating a notification center, and strategically wants to integrate there for authenticated submitters.
 >- Spike on notifications on where it stands and how we would move it to VA gov, and how VA.gov will trigger the notifications.
 
-Our first MVP will have brought the current Ask VA up to VA.gov design standards, made the form accessible, and updated the content to make it more intuitive for our submitters. 
+Our first MVP will have brought the current Ask VA up to VA.gov design standards, made the form and dashboard accessible, and updated the content to make it more intuitive for our submitters. 
 
 **Not included in the first MVP but will be in scope for future MVP:**
 >- Surface resources using existing knowledge base
