@@ -145,6 +145,7 @@ Please walk me through how you would refill your Tramadol prescription.
 
 - Why do you think this is not refillable?
 - What would you do next?
+- What thoughts do you have about the information provided on this card?
 
 **Things to watch for:**
 
