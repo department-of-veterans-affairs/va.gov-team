@@ -29,13 +29,17 @@ Veterans use the Facility Locator as the single source of truth on VA.gov to fin
 ### Digital Experience Strategic Goals
 - Veterans and their families can find a single authoritative source of information
 - Veterans and their families trust the security, accuracy, and relevancy of VA digital services
-### Relevant Facilities Team Objectives
-- Veterans know where, how, and when they can receive services
-  - Key result: # of health services searchable on FL 
-  - Key result: # of searches using new filter options
-  - Key result: # of searches on FL using benefit service taxonomy
-### Baseline KPIs
-- Key result: Veteran satisfaction scores
+### Relevant Facilities Team OKRs
+**Objective: Veterans know where, how, and when they can receive services**
+| Key result | Baseline | Feature launch date | 1 mo post-launch | 3 mos post-launch
+| --- | --- | --- | --- | --- |
+| # of health services searchable on FL | --- | --- | --- | --- |
+| # of searches using new filter options | --- | --- | --- | --- |
+| # of searches on FL using benefit service taxonomy | --- | --- | --- | --- |
+### KPIs
+| Key result | Baseline - Date (TBD)| 
+| --- | --- | 
+| Veteran satisfaction scores | pending |
 ## Dependencies
 ### Internal 
 - Competing priorities and engineer resource constraints
