@@ -1,9 +1,4 @@
-
-Christine Steiffer
-4:00 PM (8 minutes ago)
-to me
-
-### Zoom logistics
+### **Zoom logistics**
 
 - _In the Attendees section, make sure everyone except the participant is on mute._
 - _In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked_
@@ -11,7 +6,7 @@ to me
 - _When the participant is ready, begin the session with the following intro_
 
 
-## Intro - 5 minutes
+## **Intro - 5 minutes**
 
 Thanks for joining us today! My name is \[NAME] and \[NOTETAKER NAME] is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
 
@@ -45,10 +40,10 @@ _Start recording._
 - I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 
-## Warm-up Questions - 5 minutes
+## **Warm-up Questions - 5 minutes**
 
 
-Before we look at the website, let’s start with a few warm-up questions.
+## Before we look at the website, let’s start with a few warm-up questions.
 
 - Tell us a little bit about yourself:
 
@@ -57,7 +52,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Talk to me about your past experience using VA.gov?
 
-- Could you tell me about the types of benefits you are receiving from the VA at this time? 
+- Could you tell me about the types of benefits you are receiving from the VA at this time? 
 
   - _If they are getting disability compensation from the VA right now, ask:_
 
@@ -71,11 +66,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 
     - At what percent?
     - How long ago did you get rated for Tinnitus?
-    - How severe is your tinnitus now? 
+    - How severe is your tinnitus now? 
     - Is it better or worse than when you first filed a claim for it?
 
 
-## First Task: Request CFI for 3 conditions - 10 minutes
+## **Task A : Request CFI for 3 conditions - 10 minutes**
+
+_\[Moderator note: switch between starting with Task A and Task B throughout the study]_
 
 For this first task, I would like you to imagine that you already receive disability benefits from the VA for a few service-connected health conditions. I’d like to have you walk us through how you would request an increase to your benefits for Tinnitus, Asthma and Migraines today. Please think aloud as much as you can while you are walking us through this process. Start by \[Click ‘Begin Scenario 2’ - then view prototype screen 1]. From here, show me how you would start the process of requesting an increase for the conditions mentioned.
 
@@ -97,17 +94,17 @@ Go ahead and click on any of the conditions for which you’d plan to request an
 
 \[after clicking - Prototype screen 5]
 
-- Tell me a little about what that task was like for you? 
+- Tell me a little about what that task was like for you? 
 
 
-### Things to watch for
+### **Things to watch for:**
 
-- _Does the intervention discourage them from claiming tinnitus?_ 
+- _Does the intervention discourage them from claiming tinnitus?_ 
 - _Do they want to go ahead and claim the other condition that’s not at the max (asthma)?_
 - _How do they react to seeing a condition (migraines) that’s also at the max rating but doesn't have a message?_
 
 
-## Second Task: Request CFI for Tinnitus only - 10 minutes
+## **Task B: Request CFI for Tinnitus only - 10 minutes**
 
 We will now look at a similar scenario where you have already been rated for a few conditions, but in this scenario, you only want to request an increase for Tinnitus.
 
@@ -131,39 +128,29 @@ We will now look at a similar scenario where you have already been rated for a f
 - Tell me a little about what that task was like for you?
 
 
-### Things to watch for:
+### **Things to watch for:**
 
-- _Does the intervention discourage them from claiming tinnitus?_ 
+- _Does the intervention discourage them from claiming tinnitus?_ 
 
 
-## Post-Task Interview: Most recent CFI - 20 minutes
+## **Post-Task Interview: Most recent CFI - 20 minutes**
 
-Now that we’ve been through those scenarios, let’s talk about your actual experience with your own disability claims.
+Now that we’ve been through those scenarios, let’s talk about your actual experience with your own disability claims. I’d like to just let you know up front that if you do not wish to answer any of these questions, we can absolutely skip them - just let me know if that comes up.
 
-Have you ever requested an increase for any of your rated conditions? 
+- Can you tell me about your most recent experience filing a claim on VA.gov?
+
+  - Tell me about any resources you used or people that helped you?
+  - Have you ever requested an increase for any of your rated conditions? 
+
 
 - _If yes, go to Section A_
 - _If no, go to Section B_
 
 
-#### A. They have filed a claim for increase…
+#### **A. They have filed a claim for increase…**
 
-What was the most recent claim for increase you filed? 
+- When was the most recent claim for increase you filed? 
 
-- When did you file for an increase?
-
-Are you comfortable talking to us about the details of this claim?
-
-- (If no) Is there another claim for increase you’d be comfortable discussing?
-
-  - _If yes, go to next question_
-
-  - _If no:_
-
-    - Ok, no problem. Let’s just talk about disability ratings in general.
-    - Skip to section C below
-
-Let’s focus on that claim for increase for the next questions.
 
 - What was your rating when you filed?
 
@@ -185,7 +172,7 @@ Let’s focus on that claim for increase for the next questions.
 
   - If yes, what was the decision?
 
-    - What do you think of the decision? 
+    - What do you think of the decision? 
     - Do you know why they made that decision?
 
   - If no, What do you think are your chances of success?
@@ -198,37 +185,28 @@ Thinking about \[the condition they filed an increase for], do you know what the
 - What does it take to get the highest rating?
 
 
-#### B. They have not filed a claim for increase…
+#### **B. They have not filed a claim for increase…**
 
 Have you thought about filing a claim for increase on the any of the conditions you’re already been rated for?
 
 If yes:
 
-- Are you comfortable talking about that? 
+- What has prompted you to think about asking for an increase?
 
-  - If yes:
+- What are the possible percentages you could get for this?
 
-    - What has prompted you to think about asking for an increase?
+  - What’s the highest rating the VA gives for this?
+  - What do you think it takes to get to the highest rating?
 
-    - What are the possible percentages you could get for this?
+- Are you still considering requesting an increase, or did you decide not to?
 
-      - What’s the highest rating the VA gives for this?
-      - What do you think it takes to get to the highest rating?
+  - If still considering: What will go into your decision?
+  - If not: What went into your decision not to?
 
-    - Are you still considering requesting an increase, or did you decide not to?
-
-      - If still considering: What will go into your decision?
-      - If not: What went into your decision not to?
-
-  - If no: 
-
-    - No problem. We’ll just talk about disability ratings in general.
-    - Go to Section C.
-
-If no, go to section C.
+_If no: go to section C_
 
 
-#### C. They’re not comfortable discussing a specific condition
+#### **C. (Skip here if) They’re not comfortable discussing a specific condition during the session**
 
 If one of your disabilities got worse, would you consider asking the VA for more compensation?
 
@@ -244,10 +222,10 @@ If one of your disabilities got worse, would you consider asking the VA for more
 
   - If that disability got worse, would you still consider asking the VA for an increase?
   - Why or why not?
-  - Do you think it’s possible to get  more compensation if you’re at the highest rating already? If so, how?
+  - Do you think it’s possible to get  more compensation if you’re at the highest rating already? If so, how?
 
 
-## Thank-You and Closing - 5 minutes
+## **Thank-You and Closing - 5 minutes**
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
@@ -256,6 +234,6 @@ Thanks! Lastly, Perigean will be sending you a thank you note with a little blur
 Thank you so much again, and enjoy the rest of your day!
 
 
-## Emergency Exit
+## **Emergency Exit**
 
-Well, we have covered all of the questions I had for you today. Thank you so much for your time and feedback!
+Well, we have covered all of the questions I had for you today. Thank you so much for your time and feedback! 
