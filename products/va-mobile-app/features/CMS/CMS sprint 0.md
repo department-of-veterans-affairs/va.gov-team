@@ -78,12 +78,13 @@ Also, we have no single place for source-of-truth copy. JSON strings have all _c
 <h2>Roadmap</h2>
 
 
-We could potentially take 2 approaches to implementing a CMS:
+Jen E. helped determine 2 potential approaches:
 
 
 
-1. Implementing a software that just makes it easier to update static copy (and potentially integrates with Figma) and then move towards a true CMS that would XYZ, OR
-2. We could jump straight into a true CMS.
+1. Implementing a software/interface/system that just makes it easier to update static copy and pushes that to JSON files and Figma designs. But the copy is still static in the app (and no real-time changes), **OR**
+2. We could jump straight into a true CMS, in which we could edit copy and push real-time updates to users (but then copy would be dependent on internet connection, possibly).
+
 
 <h2>Technical Approach</h2>
 
