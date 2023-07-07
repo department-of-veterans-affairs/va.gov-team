@@ -11,8 +11,9 @@
 - **Robert Bailey (Bobby)**, UX/UI Researcher and Designer on the Medical Records team 
 - **Jonathan Nelson**, UX designer on the MHV to VA.gov team
 - **Heather Widmont**, Scrum Master VA Benefits Team 1
-- **Skyler Schain**, UX Designer on Benefits
+- **Skyler Schain**, UX designer on Benefits
 - **Scott Mericle**, UX designer on Lighthouse
+- **Joseph Lee**, Product designer on Debt Resolution
 
 ### Advocates, Level 3
 
