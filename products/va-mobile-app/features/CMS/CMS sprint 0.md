@@ -1,9 +1,6 @@
 <h1>Sprint 0: Content management system (CMS)</h1>
 
 
-[GitHub version of the template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/sprint-0/product-brief-template.md) \
-[New Team Product Flow - Mobile](https://docs.google.com/presentation/d/1IkJRZbHv3tUc8GF0ngO8FdcOZypOpgwvpFF_EasFFnk/edit#slide=id.g33cc3b02a5_0_49) 
-
 <h2>Problem Statement</h2>
 
 
