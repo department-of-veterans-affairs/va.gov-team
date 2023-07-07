@@ -55,7 +55,7 @@ NOTE: As of 6/30/23, the H1 of the Medication page may change to 'Medication and
 **3) Meidcation details - NEW**
 - URL: www.va.gov/my-health/medications/[medicationID]/
 - Breadcrumb: 
-  - desktop: My HealtheVet > Medications > [H1 of page]
+  - desktop: My HealtheVet > About Medications > Medications > [H1 of page]
   - mobile: < My HealtheVet
 - Title tag: [H1] - Medications | Veterans Affairs
 - Notes: 
