@@ -2,7 +2,7 @@
 
 ## **Background**
 
-Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) will be moved to VA.gov. We have built a prototype of the Medical Records in MHV on VA.gov that we will be testing as part of this research study.
+Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) will be moved to VA.gov. We have built a prototype of the Medications in MHV on VA.gov that we will be testing as part of this research study.
 
 You can read more about our Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
