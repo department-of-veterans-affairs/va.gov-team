@@ -41,6 +41,7 @@ jobs:
 
   start_workflow:
     runs-on: ubuntu-latest
+    needs: validate_ssh_key
     name: Start workflow in devops repo
     if: contains(github.event.issue.title, 'SOCKS access')
     steps:
