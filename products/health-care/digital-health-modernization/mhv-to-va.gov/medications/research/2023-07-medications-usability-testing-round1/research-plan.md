@@ -91,32 +91,32 @@ For this study, we are explicitly not recruiting assistive technology users due 
 
 **Primary criteria (must-haves)**
 
-1. (18) Veterans, (6) Veteran's caregivers
-2. Age distribution:
-  - (5) 75+
-  - (8) 65 – 74
-  - (4) 55 – 64
-  - (5) 35 – 54
-  - (2) 18 – 34
-3. Education distribution:
-  - (7) High School graduate or equivalent or less
-  - (6) Some college, no degree
-  - (3) Associates degree (occupational or academic)
-  - (5) Bachelor's degree
-  - (3) Masters degree or higher
-4. (12) frequent MHV user, (12) never used MHV (see screener question)
+1. Age distribution:
+     - (5) 75+
+     - (8) 65 – 74
+     - (4) 55 – 64
+     - (5) 35 – 54
+     - (2) 18 – 34
 
-**Secondary criteria (nice-to-haves)**
+2. Education distribution:
+     - (7) High School graduate or equivalent or less
+     - (6) Some college, no degree
+     - (3) Associates degree (occupational or academic)
+     - (5) Bachelor's degree
+     - (3) Masters degree or higher
 
-1. Demographic distribution:
-  - (1) American Indian or Alaska Native
-  - (1) Asian
-  - (4) Black or African American
-  - (3) Hispanic, Latino, or Spanish origin
-  - (15) White or Caucasian
-2. (1) LGBTQ+
-3. (8) Cognitive disability
-4. (12) rural, (12) urban
+3. (12) frequent MHV user, (12) never used MHV (see screener question)
+
+4. Demographic distribution:
+     - (1) American Indian or Alaska Native
+     - (1) Asian
+     - (4) Black or African American
+     - (3) Hispanic, Latino, or Spanish origin
+     - (15) White or Caucasian
+
+5. (8) Cognitive disability (see screener question)
+
+6. (6) rural, (18) urban
 
 **Screening questions for recruitment**
 
@@ -129,18 +129,32 @@ For this study, we are explicitly not recruiting assistive technology users due 
     c) 2-3 times a month
 
     d) more than 3 times a month
+   
+   _Please provide response on roster._
+   
+2. Have you been diagnosed as someone with a Cognitive Disability?
+   
+      a) yes
+   
+      b) no
 
-1. What type of device will you be using to connect to Zoom?
+   _Please provide response on roster._
+
+3. What type of device will you be using to connect to Zoom?
 
 - Desktop/Laptop?
 - Smartphone: Android or iPhone?
 - Tablet: Android or iPad?
 
-_Please provide response on roster._
+   _Please provide response on roster._
 
-1. Have you shared your screen on Zoom using this device before?
+4. Have you shared your screen on Zoom using this device before?
 
-_Please provide response on roster._
+     a) yes
+
+      b) no
+
+   _Please provide response on roster._
 
 ## **Timeline**
 
@@ -151,7 +165,7 @@ _Please provide response on roster._
 
 ### **Research sessions**
 
-- Planned dates of research: July 14 – July 25, 2023
+- Planned dates of research: July 14 – August 1, 2023
 
 ### **Length of sessions**
 
