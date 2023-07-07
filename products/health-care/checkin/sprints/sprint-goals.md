@@ -8,9 +8,9 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
-     - **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**  
      - **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
      - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
+     - **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**  
      - **Sub Goal: [Create Veteran FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60145)**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address tech & design debt**
@@ -22,13 +22,8 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Submit Mileage-Only Claim during Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**           
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Monitor Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43631)
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create a sitewide intake ticket (resource page update) for adding travel pay information on the resource page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60079)
-       - Pilot started June 26 and runs through end of July
-       - Weekly feedback touchpoints with Wilkes-Barre
-       - Travel to Allentown 7/13-14   
+       - Pilot started June 26 and runs through end of July; weekly feedback touchpoints with Wilkes-Barre
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
-    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**
-        - Pilot starts July 10 with Asheville & Richmond
     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: [Allow Veterans to Check-in from Other Veteran-Facing Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add method to get demographic-confirmations to the Service class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61122)
         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add method to patch demographic-confirmations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61123)
@@ -39,8 +34,9 @@ ________________________________________________________________________________
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Add & Deploy Check-in Endpoint on AWS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60993)
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - authenticated check-in - reporting](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61034)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Poster to Include "You're Checked in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61426)
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create TestRail Test Cases](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61429)
     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [SPIKE: Identify & Document the Architectural Implementation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61609)
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [SPIKE: Create Tickets for FE & BE Implementation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61611) 
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] Determine if notification card can be read out as more important for AT users](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60867)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] [UX] Which solution will solve the accordion issue? ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59416)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] [SPIKE] Do we use dismissible alerts or not?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57894)
@@ -51,13 +47,14 @@ ________________________________________________________________________________
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] Decision on default warning alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59044)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] [UX] Update the travel pay confirmation page to avoid using 2 sentence](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59121)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] SPIKE - Do we want to Allow Check in Text when No Appointments/Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57954)
+    - **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**
+        - Pilot starts July 10 with Asheville & Richmond
     - **Sub Goal: [Create Veteran FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60145)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research][Content] Create Veteran-facing FAQ for Check-in plus Travel Pay](https://github.com/department-of-veterans-affairs/va.gov-team/issues/614767)
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60874)    
 - **GOAL: Address tech & design debt**
-    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] [BE] Improve CHIP <-> DynamoDB latenc](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/61417)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Document Process for Updating Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43673)
 
  ------------- END FUTURE / TENTATIVE ---------------------------
