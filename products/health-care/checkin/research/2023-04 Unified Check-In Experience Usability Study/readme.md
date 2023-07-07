@@ -1,6 +1,6 @@
 # Patient Check In (PCI) Unified Check-In Generative Research Usability Study
 
-Date(s): June 12-20, 2023
+Date(s): June 12-21, 2023
 
 ## Quick Links 
 
