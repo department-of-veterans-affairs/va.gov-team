@@ -188,23 +188,23 @@ Retest with AT if possible
 - **Processes: Confirmation and Check-In:** Review content wording.
 
 ### Complete Now
-- x - **Prototype**: Correct prototype issues listed
-- x - **Required Field Your Last Name**: Form updates to provide equal information to signted and non-sited visitors
+ - **Prototype**: Correct prototype issues listed
+ - **Required Field Your Last Name**: Form updates to provide equal information to signted and non-sited visitors
 -*Details Page Next Button**: Provide feedback on button
     - **Duplicative Links:** Details vs. Confirm your appointment text: Create distinguishable links. Add ARIA to "confirm appointment" and "check now" action links (in cards) and active links (in appointment lists) to include appointment time.
-    -  **"Review my information":** Missing material honesty with link text. Take user to intended destination.
+  - **"Review my information":** Missing material honesty with link text. Take user to intended destination.
+  - **Appointment Confirmation Not Confirmed:** Keep the user informed of success/failures through status messages and consistent help.
 ### Complete Soon
-- x - **"Is this your emergency contact":** Avoid traps and retest with AT
+- **"Is this your emergency contact":** Avoid traps and retest with AT
 Retest with AT if possible
-- x - **Appointment Confirmation Not Confirmed:** Keep the user informed of success/failures through status messages and consistent help.
-- x - **Upcoming Appointments View:**
+- **Upcoming Appointments View:**
   - Filters to reduce cognitive load.
   - Date & Details: Test date again, after adjusting screen reader test, to avoid it reading as a number and not full date
+- **DOB Field**: Use a date picker to avoid jumping out of form fields
 ### Complete Later
-- x - **Text Content on Phone**: Add time zone
-- x - **DOB Field**: Use a date picker to avoid jumping out of form fields
-- x - **One-item/topic per page preferred:** Reduce cognitive load with one-time per page.
-- x - **Processes: Confirmation and Check-In:** Review content wording.
+ - **Text Content on Phone**: Add time zone
+ - **One-item/topic per page preferred:** Reduce cognitive load with one-time per page.
+ - **Processes: Confirmation and Check-In:** Review content wording.
 ## Other considerations and findings 
 
 _A finding that may not be relevant to the study, but worth talking about. Include images as needed._
