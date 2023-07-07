@@ -13,3 +13,7 @@ Date(s): June 12-21, 2023
 
 [Recruitment request](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/321#event-9308399813)<br>
 [Participant responses (Direct download)](https://github.com/department-of-veterans-affairs/va.gov-team/files/11986050/PCI.Unified.Check.In.Usability.Study.Responses.xlsx)
+
+## Findings and Recommendations 
+
+[Research synthesis (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686602905647?invited=true)
