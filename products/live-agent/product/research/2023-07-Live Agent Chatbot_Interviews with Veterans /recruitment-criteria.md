@@ -8,7 +8,7 @@ I would like to schedule interviews with 3-6 participants in order to achieve 3-
 ## Recruitment criteria 
     -  All have a computer, tablet, or smartphone and are willing to complete their session on one of those devices.
     -  Have a working microphone on their device
-    -  Have Teams downloaded to their device prior to the session
+    -  Have Zoom downloaded to their device prior to the session
 
 ## Demographics
    - At least 2 participants must identify as Black, Hispanic, or people of color
@@ -23,6 +23,6 @@ Beginning July 13-21, until 3-6 sessions are complete.
     -  Do you have a computer, tablet, or smartphone and would be willing to complete a session on one of those devices? (Yes, No)
     -  Does the device have a working microphone? (Yes, No)
     -  How often do you reach out to the VA? (Often, Ocasionally, Rarely)
-    -  Do you have experience interacting with a Live Agent at the VA (Yes, No) 
+    -  Do you have experience interacting with a Live Agent at the VA or another organization? (Yes, No) 
 
 
