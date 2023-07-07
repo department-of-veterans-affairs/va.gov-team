@@ -108,9 +108,7 @@ ________________________________________________________________________________
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update supporting content for "review other upcoming appts" component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60857)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Change pre-check-in text message to better influence action](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60852)
     - **Sub Goal: Analyze current metrics to see what they tell us**
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53651)
-    
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics    
 - **GOAL: Address tech & design debt**       
     - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] review and update monitors/alerting from DataDog to #check-in-experience-apm](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53938)
     - Add Facility Address to Appointment Information
