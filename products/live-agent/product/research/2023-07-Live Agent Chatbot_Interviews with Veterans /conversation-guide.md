@@ -2,7 +2,7 @@
 
 ## Intro - 5 minutes
 
-My name is Emma and Taylor is taking notes. We are Experience Designers, we are part of a research team at the VA who have been tasked with envisioning what the future of text-based live chat would be at the VA. And to do this we wanted to talk to people who have first hand experience in delivering text based live chats with our Veterans, we want to learn about each step of the process and what has been positive about leveraging this way to communicate with our Veterans but also what could be better in the future. Specifically for you as an agent, how could the VA deliver better tools for you to be successful.   
+My name is Emma and Taylor is taking notes. We are Experience Designers, we are part of a research team at the VA who have been tasked with envisioning what the future of chatting with a Live Agent would be at the VA. And to do this we wanted to talk to Veterans who have first hand experience in communicating through chat with Live Agents at the VA. We want to learn about each step of the process and what has been positive about this way of communicating with the VA but also what could be better in the future. Specifically for you as an Veteran, how could the VA deliver a better experience for you?   
 
 Before we start, a few things I want to mention:
 
