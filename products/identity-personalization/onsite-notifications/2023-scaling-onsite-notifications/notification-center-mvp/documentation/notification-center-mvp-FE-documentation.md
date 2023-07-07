@@ -31,7 +31,7 @@ Last updated: June 26, 2023
 - If there are less than 10 notifications to show, then the pagination component does not show at all. [Slack thread with Platform for additional context](https://dsva.slack.com/archives/C01DBGX4P45/p1687533356451349)
 
 ### Accessibility specs
-- The headline of each notification will need to include an 'aria-describedby' label that associates it with the date so that a screen reader user doesn't hear the same headline repeated if they are navigating by headings.
+- The headline of each notification will need to include an `aria-describedby` label that associates it with the date so that a screen reader user doesn't hear the same headline repeated if they are navigating by headings.
   - [Sketch file with aria label annotations](https://www.sketch.com/s/1cc4cb25-7de4-492c-bb91-edef871b2a89/a/EeGalyx)
 - If we add notifications in the future that deep link to the item they correspond to and therefore there are links on the page with the same text that go to different places, those will also require an aria label.   
 ---
