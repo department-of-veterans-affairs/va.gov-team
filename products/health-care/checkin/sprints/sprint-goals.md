@@ -34,6 +34,7 @@ ________________________________________________________________________________
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Add & Deploy Check-in Endpoint on AWS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60993)
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - authenticated check-in - reporting](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61034)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Poster to Include "You're Checked in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61426)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61442)
     - **Sub Goal: [Unify the Pre-Check-in & Check-in experiences to decrease confusion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [SPIKE: Identify & Document the Architectural Implementation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61609)
         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [SPIKE: Create Tickets for FE & BE Implementation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61611) 
