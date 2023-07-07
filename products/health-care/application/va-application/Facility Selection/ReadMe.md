@@ -6,6 +6,7 @@
 **Related/Associated product(s)**
 - Product | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 - Epic | [Link to the Initiative Epic #30650](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30650)
+- [JSON static file](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/8cdc5f35ad743af51170adad84b92a8b49504bdf/src/common/va-medical-facilities.js) contained 1040 facilities
 
 ---
 ## Problem
@@ -34,26 +35,21 @@
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
- We are still determinng the best ways of measuring succes via metrics for this update.  We currently have the following ideas:
+We currently have the following qualitative metrics:
  * User feedback (Medallia)
- * Feedback from CSCs on misrouted applications
 
 ### Objectives and Key Results
-* Objective: Make it easier for Veterans to apply for healthcare and select the facility that's correct for them.
-  - Key result: Facilities list is complete, accurate and up to date
+* Objective: Make it easier for Veterans to search for and select the facility that's correct for them, so they don't have to navigate away from the application to determine their facility location.
+  - Key result: Reduce the number of link clicks/visits to the Find Locations page
  
-|TBD| Baseline (Jan-Feb 2023)| Target | 1 Month after launch|
+|TBD| Baseline (Jan-June 2023)| Target | 1 Month after launch|
 |--------|-----------------------|----------|--------------------|
-|TBD | TBD | TBD | TBD |
-|TBD | TBD | TBD | TBD |
+|Visits to Find Locations page, from the Facility Selection page | 10,871 | 5,000 | TBD |
 
+- [Google Analytics](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230101&_u.date01=20230630&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Ffind-locations~2F&_r.tabId=navigationsummary&navigationsummary.rowCount=50&navigationsummary-fromNavigationSummaryTable.filter=insurance-information/) - page navigation from Facility selection page to Facility Locator page
 
-       - [JSON static file](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/8cdc5f35ad743af51170adad84b92a8b49504bdf/src/common/va-medical-facilities.js) contained 1040 facilities
        
 ---
 
