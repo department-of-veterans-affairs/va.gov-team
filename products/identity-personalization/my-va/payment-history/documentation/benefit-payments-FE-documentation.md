@@ -54,7 +54,7 @@ Since this card has an extra heading in it that is not in other cards on My VA, 
 [Annotations in Sketch](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/OeRqarG)
 
 - This mockup calls out that the h4 in the benefit payment card should be coded as a paragraph (p) but use h4 styling.
-- The H3 should also have an aria label that associates the amount with the payment type so that a screen reader user gets that context when navigating through H3s.
+- The H3 should also have an `aria-describedby` label that associates the amount with the payment type so that a screen reader user gets that context when navigating through H3s.
 
 ---
 
