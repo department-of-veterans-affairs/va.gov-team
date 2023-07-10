@@ -12,6 +12,8 @@ Eileen Chi [eileen.chi@coforma.io](eileen.chi@coforma.io)
 
 [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/042023%20NoD%20Evaluative%20Research/research-findings.md#key-findings)
 
+[Additional findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/042023%20NoD%20Evaluative%20Research/research-findings.md#additional-findings)
+
 [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/042023%20NoD%20Evaluative%20Research/research-findings.md#recommendations)
 
 [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/042023%20NoD%20Evaluative%20Research/research-findings.md#who-we-talked-to)
@@ -76,7 +78,7 @@ Moderated interview and usability test of Request a Board Appeal form through pr
 7. How much confidence do you have that your appeal will be handled properly and in a timely manner?
     1. Veterans have confidence that the VA will handle their claim properly, but low belief that it would be handled in a timely manner, given the timelines that they see on the introduction pages. A few Veterans are under the impression that the PACT Act extended timelines for the different AMA options.
 
-## **Hypothesis and Conclusions**
+## **Hypotheses and Conclusions**
 
 1. We believe Veterans do not understand what is needed from them to gain favorable judgment.
 - **True.** Veterans have lower confidence in the success of their submission because of various reasons, including the following:
@@ -340,3 +342,9 @@ This research does not include the perspectives of the following marginalized Ve
 - Rural
 
 [VA recruitment tracker for equality](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/042023%20NoD%20Evaluative%20Research/VA-recruitment-tracker-for-equality-2023-07-Board-Appeal-Evaluative.pdf)
+
+## Further research needed
+
+- Further research may be needed for Veterans who are appealing issues outside of disability
+- Further research may be needed for a separate accessibility study with this form
+- Further research may be needed for with Veterans who are homeless
