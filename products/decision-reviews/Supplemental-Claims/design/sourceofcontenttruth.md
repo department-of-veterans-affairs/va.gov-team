@@ -940,44 +940,73 @@ document type
 
 Confirmation
 
-## Thank you for filing a Supplemental Claim
+## Your Supplemental Claim
 
-When we've completed our review, we'll mail you a decision packet with the details of our decision.
+### Thank you for filing a Supplemental Claim
 
-## Your information for this claim
+We’ve received your Supplemental Claim application. After we’ve completed our review, we’ll mail you a decision packet with the details of our decision.
 
-### Your name
+### Your information for this Supplemental Claim
+
+#### Your name
 
 NAME
 
-### Date you filed your claim
+#### Date you filed your Supplemental Claim
 
 Month XX, XXXX
 
-### Issue(s) for review
+#### Issue(s) you'd like us to review
 
 - Issue
 - Issue
 
-BUTTON: Print this confirmation </br>
-LINK: Download your completed claim (PDF)
+### Download a copy for your records
 
-## What to expect next
+If you’d like your own copy of this confirmation page and a copy of your completed Supplemental Claim, you can download them now.
 
-If we need more information, we'll contact you to tell you what other information you'll need to submit. We’ll also tell you if we need to schedule an exam for you.
+**Note:** These documents are for your records only. We already have your completed Supplemental Claim. We ask that you don’t send us another copy.
 
-When we've completed your review, we'll mail you a decision packet with the details of our decision. [Learn more about what happens after you request a review](https://www.va.gov/decision-reviews/after-you-request-review/)
+[[LINK] Download a copy of your Supplemental Claim (PDF)]()
 
-If you requested a decision review and haven’t heard back from us yet, please don’t request another review. Call us instead.
 
-**Note:** You can choose to have a hearing at any point in the claims process. Contact us online through Ask VA to request a hearing. [Contact us through Ask VA](https://ask.va.gov)
+### What to expect next
 
-You can also call us at [1-800-827-1000]() (TTY:711).
+You don’t need to do anything unless we send you a letter asking for more information. If we need more information for your Supplemental Claim, we may ask you to have a claim exam. 
+
+### How to contact us if you have questions
+
+You can ask us a question online thorugh Ask VA.
+
+[Contact us through Ask VA](https://ask.va.gov)
+
+Or call us at [1-800-827-1000]() (TTY:711).
+
+**If you don’t hear back from us about your Supplemental Claim**, don’t file another claim or request another type of decision review. Contact us online or call us instead. 
+
+**Note:** You can request a hearing about your Supplemental Claim at any time during the decision review process. 
 
 [Track the status of your claim](https://staging.va.gov/track-claims/your-claims)
 
 ### Need help?
 If you need help with this form, call us at [1-800-827-1000]() (TTY:711). Then select 0. We’re here 24/7.
+
+---
+
+## PDF Downlaod
+
+PDF of confirmation page information
+
+PDF of completed form with the watermark: ALREADY FILED ONLINE
+
+### Additional documents in your online application
+You submitted these documents as evidence: 
+- Evidence1.pdf
+- Evidence2.pdf
+- Evidence3.pdf
+  
+You also submitted this form to give us permission to request your private medical records: 
+- Authorization to disclose information to the Department of Veterans Affairs (VA form 21-4142)
 
 ---
 
