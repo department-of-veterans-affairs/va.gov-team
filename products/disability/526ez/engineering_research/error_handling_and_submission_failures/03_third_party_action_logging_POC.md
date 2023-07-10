@@ -27,7 +27,7 @@ This is not just an academic concern.  Given our use of inheritance in the affec
 
 Here we address the SCC by creating an isolated context in which to make the controller level data available to an object that is capable of initiating model level actions. 
 
-wipn-image
+<img width="743" alt="Screen Shot 2023-07-10 at 11 35 04 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/1164fc12-5def-4ad5-846d-0703a8173f89">
 
 #### Pros
 - Shared context without breaking coupling
@@ -41,7 +41,8 @@ Ultimately the refactor required on FormClass is too invasive to consider for th
 ### Option 2: The “Context Decorator”
 In this option, we wrap the FormClass in a decorator at instantiation and pass the shared context to the decorator object, thus making it available to model without violating the models encapsulation.
 
-wipn-image
+<img width="681" alt="Screen Shot 2023-07-10 at 11 35 45 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/f11ac3e6-3f1f-49cb-ade8-ae6031b8f436">
+
 
 #### Pros
 - Model has no idea what’s changed
@@ -57,6 +58,8 @@ Same problem as before, where I’m getting too invasive, bending / breaking the
 ### Option 3: Manual insertion of logging into the FormClass
 In this option, we simply crack open the model an wrap our desired action in some logging.  
 
+<img width="711" alt="Screen Shot 2023-07-10 at 11 36 27 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/087d9512-7bea-45ba-af56-c82e92cbf7ba">
+
 
 #### Pros
 - Easy to implement
@@ -67,11 +70,16 @@ In this option, we simply crack open the model an wrap our desired action in som
 - Not a reusable pattern.  One of our goals is to have something to point at and say “do this for each 3PI”.  This manual addition of start_logging and stop_logging methods all over the code would be unwieldy to maintain.
 #### Variation
 One promising solution to the 3rd con above (lack of reusability) would be to create a logging module that will dynamically monkey patch methods with start / stop logging calls.  E.G. 
+- <img width="661" alt="Screen Shot 2023-07-10 at 11 37 05 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/f5bac293-b49b-4d2a-84ed-6424921ad685">
+- <img width="545" alt="Screen Shot 2023-07-10 at 11 37 26 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/bbc7ca0e-2b68-44ab-868f-31dfaddd2efc">
+
 #### Decision
 There are some good and bad bits here.  This is a decent fallback if we need to ship something ASAP and can’t come up with something better.
 
 ### Option 4: Break Logging into smaller chunks
 In this option we simply log controller level data from the controller action, then inside the model when we are actually calling the 3PI we add more logs around that more specific action.  We could possibly even skip the model level logging and just log from the controller, however i think the model level logs, even without context could be nice pointers for future debugging when we wonder “did we even make it to the 3PI before this broke?”
+
+<img width="732" alt="Screen Shot 2023-07-10 at 11 37 47 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/d3f8e7de-db6a-488c-b6c9-c590f66a7e9f">
 
 #### Pros
 - Eliminates SCC!
