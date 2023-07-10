@@ -41,7 +41,7 @@ Before we start, a few things I want to mention:
 8. On a positive note, what aspects of the text-based live chat system do you find most helpful or beneficial in your interactions?
 9. Are there any specific features, tools, or resources you wish were available to you while engaging with Live Agents through live chat? How would these additions improve the interaction?
 10. In your opinion, what could be implemented to enhance the overall experience in text-based live chat interactions?
-11. What do you believe indicates a successful text-based live chat interaction?
+11. What in your mind would be good indicators of a successful text-based live chat interaction between yourself and the VA?
 
 
 ## Post-Task Interview - 5 minutes
