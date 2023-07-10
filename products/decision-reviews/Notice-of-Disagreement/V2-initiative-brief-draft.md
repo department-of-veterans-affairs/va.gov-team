@@ -74,7 +74,7 @@ This initiative supports [OCTO-DE's 2023 priority bet to "make the claimant expe
   
 ## Undesired Business Outcomes
 - Increase in error prone submissions
-- Increase in duplicate subbmissions
+- Increase in duplicate submissions
   
 ---
 ## Measuring Success
