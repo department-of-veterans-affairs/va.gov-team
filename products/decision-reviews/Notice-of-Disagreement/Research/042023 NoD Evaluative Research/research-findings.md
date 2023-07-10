@@ -103,7 +103,7 @@ Moderated interview and usability test of Request a Board Appeal form through pr
 3. Veterans don’t see the difference between a Higher Level Review and Board Appeal apart from having different reviewers and the time that it takes to go through each process.
 4. Language about ‘contested claims’ within the form lacks clarity, and causes unease and hesitation for Veterans looking to request a Board Appeal.
 5. Veterans choose a review option based on whether they have evidence to submit, and how long each process takes.
-6. For all of the Veterans considering a hearing, they expressed interest in doing it virtually, because of distance reasons.
+6. For the few Veterans considering a hearing, they expressed interest in doing it virtually, because of distance reasons.
 7. The ambiguous language on a text field within the disagreement screen created a misconception about the purpose of the field and participant frustration when attempting to use it.
 
 ## **Details of Findings**
