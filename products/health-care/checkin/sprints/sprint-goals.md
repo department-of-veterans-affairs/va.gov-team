@@ -43,9 +43,8 @@ ________________________________________________________________________________
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Break Unified Check-in into Phases](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61689)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update wireframes with confirmation status solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61635)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] Determine if notification card can be read out as more important for AT users](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60867)
-        - [MVP: Unified Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)
-            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [SPIKE: Identify & Document the Architectural Implementation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61609)
-            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [SPIKE: Create Tickets for FE & BE Implementation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61611)       
+        - [Unified Check-in: Phasde I](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [SPIKE: Design Implementation for Phase I](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61609)                  
     - **Sub Goal: [Re-Design Poster to Exclude QR Code Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55293)**
         - Pilot starts July 10 with Asheville & Richmond
     - **Sub Goal: [Create Veteran FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60145)**
@@ -55,6 +54,9 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60874)    
 - **GOAL: Address tech & design debt**
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Document Process for Updating Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43673)
+    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add plain language statement to explain next of kin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59089)
+    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57810)
+    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57707)
 
  ------------- END FUTURE / TENTATIVE ---------------------------
 
