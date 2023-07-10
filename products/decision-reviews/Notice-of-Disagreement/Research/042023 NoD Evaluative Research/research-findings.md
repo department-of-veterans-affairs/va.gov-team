@@ -60,21 +60,21 @@ Moderated interview and usability test of Request a Board Appeal form through pr
         2. Uncertainty about terms used in the Board Appeal
         3. Adverse reaction to the language about wait times for hearings
     2. Are there unique pain points to disabled Veterans, including those using screen readers or ZoomText (magnification)?
-        1. N/A
+        1. Undetermined. A separate accessibility test would be required.
 3. Is the content provided sufficient in helping them progress through the form?
     1. How confident are Veterans in filling out the form and understanding the process after submission?
         1. Veterans are confident that they can complete the form, but they lack confidence in the success of the form.
         2. Their understanding about the process is that they have to wait.
 4. How helpful or unhelpful is the current content on VA.gov for Veterans choosing between decision reviews?
     1. What information are Veterans looking for when self-servicing?
-        1. Veterans looked at requirements, deadlines, and timelines.
+        1. Veterans looked at requirements, deadlines, and the time it takes.
     2. Do users understand the difference between a denial and disagreement, and how does it affect their confidence in choosing a decision review?
-        1. Veterans viewed appeals as disagreements
+        1. Unclear. Veterans that had either a denial or didn't agree with their assessments would look to file a Board Appeal.
 5. Would giving veterans the ability to review and save a copy of their form provide any value for them?
     1. Yes. A few veterans we spoke to had their records lost by the VA, which lowered their confidence in the VA keeping their records. There are also cases where submissions weren’t received and the Veteran had to call to find out. Allowing them to review and save a copy of their form is part of the form instructions, as well as give them a reference for what they’ve submitted.
 6. How easy/hard is it to understand where you are in the appeals process?
 7. How much confidence do you have that your appeal will be handled properly and in a timely manner?
-    1. Veterans have confidence that the VA will handle their claim properly, but low belief that it would be handled in a timely manner, given the timelines that they see on the introduction pages. They also have heard from other Veterans that the docket is
+    1. Veterans have confidence that the VA will handle their claim properly, but low belief that it would be handled in a timely manner, given the timelines that they see on the introduction pages. A few Veterans are under the impression that the PACT Act extended timelines for the different AMA options.
 
 ## **Hypothesis and Conclusions**
 
