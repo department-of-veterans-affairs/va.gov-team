@@ -97,7 +97,7 @@ Remote via Zoom for the interviews
 
 
 
-- [Link to conversation guide]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/DRAFT-conversation-guide.md)) 
+- [Link to conversation guide]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide.md)) 
 
 - [Link to Scenario Wireframe](url)
 
