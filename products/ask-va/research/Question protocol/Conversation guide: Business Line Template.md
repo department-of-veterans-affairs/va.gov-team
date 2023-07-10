@@ -77,7 +77,7 @@ I'd like to ask a couple questions about this screen now. On this screen, the su
    * We noticed this field isn't required, how do you feel about removing this question?
 * Sometimes we need to collect the Veteran's Date of Death, but this isn't required. How does this help you reply to their query?
 * We noticed that if someone says they are submitting a general question, they need to provide their zip code. Do you know why a zip code is required?
-* Is there anything on this page that you would change? Why?
+* Is there anything else on this page that you would change? Why?
 * *Add any specific questions for this business line*
 
 ### Category and topic
@@ -87,7 +87,7 @@ On this screen, the submitter chooses a category, topic and sub-topic. This is v
 * Do you face any issues related to the current categories, topics and sub-topics in Ask VA?
    * For example, do submitters ever choose the incorrect category?
    * Can you share an example of when this (or something else) happened?
-* Is there anything on this page that you would change? Why?
+* Is there anything else on this page that you would change? Why?
 * *Add any specific questions for this business line*
 
 ### Your question
@@ -98,17 +98,20 @@ On this screen, the submitter tells us more about their inquiry.
 * Can submitters upload documents with their inquiry?
     * If yes, do you face any issues with this?
     * If not, could this be useful? How?
-* Is there anything on this page that you would change? Why?
+* Is there anything else on this page that you would change? Why?
 * *Add any specific questions for this business line*
 
 ### Your information (or the Veteran's, or the dependent's)
 
 On this screen, the submitter gives information about themself, the Veteran or the dependent, depending on who is submitting a query.
-  
+
+* What information do you need about a Veteran in order to answer an inquiry?
+    * For example, do you need to know a Veteran's service dates?
+    * Is there anything on this page that you think could be removed?
 * How do you reply to submitter's? For example, over the phone, email, or mail.
     * We noticed that submitter's can choose which contact method they prefer. If they choose to be contacted over the phone, will you only contact them that way?
     * Is there any circumstance where you would call them instead?
-* Is there anything on this page (or the next contact page) that you would change? Why?
+* Is there anything else on these information pages that you would change? Why?
 * *Add any specific questions for this business line*
 
 ### Review and send
@@ -124,7 +127,7 @@ Finally, they will submit their inquiry and we'll tell them what to expect next.
 
 * How long does it usually take you to reply to an inquiry?
     * Are you comfortable with us stating that it takes up to 7 business days to reply to an inquiry? 
-* Is there anything on this page that you would change? Why?
+* Is there anything else on this page that you would change? Why?
 * *Add any specific questions for this business line*
 
 ## Category, topics and subtopics - 10 minutes
