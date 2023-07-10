@@ -339,5 +339,4 @@ This research does not include the perspectives of the following marginalized Ve
 - Nonbinary, gender fluid
 - Rural
 
-
-## **Who we talked to**
+[VA recruitment tracker for equality](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/042023%20NoD%20Evaluative%20Research/VA-recruitment-tracker-for-equality-2023-07-Board-Appeal-Evaluative.pdf)
