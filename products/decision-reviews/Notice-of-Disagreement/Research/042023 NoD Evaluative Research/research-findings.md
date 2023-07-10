@@ -79,22 +79,22 @@ Moderated interview and usability test of Request a Board Appeal form through pr
 ## **Hypothesis and Conclusions**
 
 1. We believe Veterans do not understand what is needed from them to gain favorable judgment.
-    1. True. Veterans have lower confidence in the success of their submission because of various reasons, including the following:
-- Veterans don’t understand the parameters that VA considers when rating their disabilities
-- Veterans know evidence is needed for a successful claim, but unsure if they have enough evidence to support their claim. This concern comes from lack of medical records from service, or lost medical records after leave.
-- Veterans are unsure that the piece of evidence required by the VA even exists due to missing records and lost files.
-- Veterans wait for the VA to inform them of what evidence or appointments are needed for them to process the appeal.
-- Veterans believe that it depends on the luck of the draw for who reviews your claims.
-1. We believe that Veterans submitting a Request for Board Appeal have considered the other two disagreement pathways before moving forward with the application.
-    1. Not true. Among the Veterans we spoke to, Veterans know they can submit evidence to Supplemental Claim, but are unsure about the difference between Higher Level Reviews and Notice of Disagreements. They end up choosing based on timeline, their perceived sequential requirements, or the language on VA.gov.
-2. We believe that the content provided about the Request for Board Appeal before, during, and after the application sets reasonable expectations for Veterans about the timeline and process.
-    1. Partially True. A Veteran pointed out a copy discrepancy for timelines about the Board Appeals between two sitewide content pages. There is also a language mismatch with the contested claims definition.
-3. We believe that Veterans are unclear about the deadlines for submission, and issues they can request a board appeal for.
-    1. Partially True. Veterans we spoke to understood that the deadline for Board Appeals is 1 year from the decision date, but one Veteran thought the decision date applies for the original claim and not their appeals.
-4. We believe that the updates to the paper form that are missing from the digital form may be preventing Veterans from successfully completing a Board Appeal request.
-    1. True. Veterans did not know they could request an extension, and thought that they had to redo the entire application if they missed a deadline due to circumstances beyond their control
-5. We believe Veterans desire a copy of the form once it’s submitted digitally
-    1. True. Veterans with the experience that the VA has lost their submissions, records, etc, will keep a folder of their own records with the VA.
+- **True.** Veterans have lower confidence in the success of their submission because of various reasons, including the following:
+    - Veterans don’t understand the parameters that VA considers when rating their disabilities
+    - Veterans know evidence is needed for a successful claim, but unsure if they have enough evidence to support their claim. This concern comes from lack of medical records from service, or lost medical records after leave.
+    - Veterans are unsure that the piece of evidence required by the VA even exists due to missing records and lost files.
+    - Veterans wait for the VA to inform them of what evidence or appointments are needed for them to process the appeal.
+    - Veterans believe that it depends on the luck of the draw for who reviews your claims.
+2. We believe that Veterans submitting a Request for Board Appeal have considered the other two disagreement pathways before moving forward with the application.
+- **Not true.** Among the Veterans we spoke to, Veterans know they can submit evidence to Supplemental Claim, but are unsure about the difference between Higher Level Reviews and Notice of Disagreements. They end up choosing based on timeline, their perceived sequential requirements, or the language on VA.gov.
+3. We believe that the content provided about the Request for Board Appeal before, during, and after the application sets reasonable expectations for Veterans about the timeline and process.
+- **Partially True.** A Veteran pointed out a copy discrepancy for timelines about the Board Appeals between two sitewide content pages. There is also a language mismatch with the contested claims definition.
+4. We believe that Veterans are unclear about the deadlines for submission, and issues they can request a board appeal for.
+- **Partially True.** Veterans we spoke to understood that the deadline for Board Appeals is 1 year from the decision date, but one Veteran thought the decision date applies for the original claim and not their appeals.
+5. We believe that the updates to the paper form that are missing from the digital form may be preventing Veterans from successfully completing a Board Appeal request.
+- **True.** Veterans did not know they could request an extension, and thought that they had to redo the entire application if they missed a deadline due to circumstances beyond their control
+6. We believe Veterans desire a copy of the form once it’s submitted digitally
+- **True.** Veterans with the experience that the VA has lost their submissions, records, etc, will keep a folder of their own records with the VA.
 
 ## **Key Findings**
 
