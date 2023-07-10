@@ -23,16 +23,16 @@
 | 3 | Deeplinking | Stacy | GREEN | Engineering and UX Discovery Work | | Aug '23| 
 | Alternate | [Appointment Refinement](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4725) | Meko | GREEN | Design / Content getting a head start on list and detail revie with extra capacity |  | TBD |
 |Q2 Carryover | RX Analytics | Meko | Yellow - carryover | Engineering adding new events for improved RX reporting | None | July '23 | 
-| | [OKR and MVP Dashboards](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Greta, Ameet, Adam | GREEN | Finalize Appointments dashboard, reasses dashboard priority | Next 3 Dashboard priorities Login, SM, Letters | All Q3|
-| | Mobile App Retention Research and Analysis | Ameet, Adam, Liz, Greta | GREEN | Veteran recruitment and qual research signup | Veteran qual interviews; Quant analytics | Aug '23 | 
-| | Platform Preparation - Design System | Kelly | GREEN |  | | All Q3 | 
+| | [OKR and MVP Dashboards](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Adam, Ameet | GREEN | Finalize Appointments dashboard, reasses dashboard priority | Next 3 Dashboard priorities Login, SM, Letters | All Q3|
+| | Mobile App Retention Research and Analysis | Adam, Ameet | GREEN | Veteran recruitment and qual research signup | Veteran qual interviews; Quant analytics | Aug '23 | 
+| | Platform Preparation - Design System | Kelly, Ameet | GREEN |  | | All Q3 | 
 | Q2 Carryover | [Cancel Message Content Auidt](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2172) |Stacy | Yellow - carryover | Content changes, 5 New Action Sheets, Moving from alerts to Action Sheets  | None planned | July '23|
 | | [Android SSO Login Update / Custom Tabs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5118) | Stacy | GREEN | QA test plan, Replace android login webview with customer tabs. tech spike for error handling | | July '23 |
-| | [Mobile Bug Maintenance & Discipline Tech Debt](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) |Adam, Tim, Jen | GREEN | 10 bug tickets, BE technical debt, UX tech debt | Continued work managing bug tickets and discipline tech debt | Ongoing | 
-| | General Analytic Request and Needs | Greta, Ameet, Adam | GREEN | Review [Mobile App Promo Banner](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5141) work with Dave 7/18 | | | Ongoing |
-| | [Detox UI ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Rachel, Kelly | GREEN | Finish Past Appointments, RX, VA Letters and Docs, Contact Info and Perseonal Info | Next items: Direct Deposit, Veteran Crisis Line, Payments, Settings | All Q3 |
+| | [Mobile Bug Maintenance & Discipline Tech Debt](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) |Adam | GREEN | 10 bug tickets, BE technical debt, UX tech debt | Continued work managing bug tickets and discipline tech debt | Ongoing | 
+| | General Analytic Request and Needs | Adam, Ameet | GREEN | Review [Mobile App Promo Banner](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5141) work with Dave 7/18 | | | Ongoing |
+| | [Detox UI ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Kelly | GREEN | Finish Past Appointments, RX, VA Letters and Docs, Contact Info and Perseonal Info | Next items: Direct Deposit, Veteran Crisis Line, Payments, Settings | All Q3 |
 
-# Q3 Projects Not Yet Started
+# Q3 Projects Planned Not Yet Started
 | Priority |Project | PM | Status | Timing |
 |-------- | ----------- | ----------- | ----------- |-----------| 
 | | [Veteran Status](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Adam |Experiment starting Sprint 77 | Aug '23 |
