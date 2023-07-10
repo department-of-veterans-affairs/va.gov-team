@@ -32,7 +32,7 @@
 | | General Analytic Request and Needs | Adam, Ameet | GREEN | Review [Mobile App Promo Banner](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5141) work with Dave 7/18 | | | Ongoing |
 | | [Detox UI ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Kelly | GREEN | Finish Past Appointments, RX, VA Letters and Docs, Contact Info and Perseonal Info | Next items: Direct Deposit, Veteran Crisis Line, Payments, Settings | All Q3 |
 
-# Q3 Projects Planned Not Yet Started
+## Q3 Projects Planned Not Yet Started
 | Priority |Project | PM | Status | Timing |
 |-------- | ----------- | ----------- | ----------- |-----------| 
 | | [Veteran Status](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Adam |Experiment starting Sprint 77 | Aug '23 |
@@ -61,7 +61,8 @@
 ## Notes
 
 ## 7/11/23
-
+ * Verify PO's project priorirt list (Adam)
+   * Discussed during Q3 planning, Product wants to know the project priorities from the POs and any changes as they may occur
 
 
 
