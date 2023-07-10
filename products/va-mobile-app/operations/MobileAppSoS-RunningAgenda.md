@@ -70,6 +70,7 @@
       * our scope and work has been completed and shared
  * Sprint 75 planning complete
    * Dates 7/4 - 7/18
+   * 79 tickets / 223 points
    * [Sprint Board](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/board?sprints=Z2lkOi8vcmFwdG9yL1NwcmludC8xMDA1Mjk2)
    * Sprint Slides [Mobile Team Sprint Planning - Sprint 75.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12004554/Mobile.Team.Sprint.Planning.-.Sprint.75.pdf)
 
