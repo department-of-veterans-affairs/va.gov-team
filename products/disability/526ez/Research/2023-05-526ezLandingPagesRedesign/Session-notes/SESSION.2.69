@@ -1,10 +1,63 @@
+# CONVERSATION GUIDE 526 LANDING PAGE REDESIGN
 
+
+## Moderator logistics
+
+### 2-3 days before the session
+
+- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
+- Complete any project-specific setup tasks for this study (List them below)
+- [ ]  Step 1
+- [ ]  Step 2
+- [ ]  Step 3
+
+### Day of the session
+
+- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in
+Slack for real-time feedback from observers.
+- Mute your Slack notifications.
+- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+
+### Starting the session
+
+- In the Attendees section, make sure everyone except the participant is on mute.
+- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
+- Check your [screensharing setup] and share permissions for participants.
+- When the participant is ready, begin the session with the following intro*
+
+## Intro - 3 minutes
+
+Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
+I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
+
+Today we're going to talk about [description of your project].
+
+Before we start, a few things I want to mention:
+
+- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **In this session, we want to hear your honest opinions.** We are not testing your ability. Your feedback is helping us improve the language on these pages so its a better experience for veterans. I will not be offended by any opinions you express, and I welcome your feedback.
+- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **If for any reason and at any time you want to stop the session, please let me know.** You will be compensated regardless of whether you complete the session or answer all of the questions.
+- Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
+    - If no: Use Slack to kindly ask the observers to leave the Zoom.
+    - If yes: Admit observers.
+    - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with [VA.gov](http://va.gov/). (This is meant to humanize the interaction of observation for the participant)
+    - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
+    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
+
+*Start recording.*
+
+- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 ## Warm-up Questions (Optional) - 2 minutes
 
+Before we look at the website, let’s start with a few warm-up questions.
 
-- Can you remind me where you are based? 
-North Carolina.
+*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+
+- Are you currently a veteran or active duty?
+- Can you remind me where you are based? North Carolina.
 - Can you remind me of whether you have applied for any VA benefits before? (for determining which scenario to present)
 - What is your experience with VA.gov, if any?
 
