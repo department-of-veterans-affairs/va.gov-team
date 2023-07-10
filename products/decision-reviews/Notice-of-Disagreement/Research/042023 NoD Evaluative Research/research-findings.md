@@ -265,16 +265,78 @@ The ambiguous language on the ‘something else’ text field within the disagre
 - Provide a space on the form for Veterans to explain the reason for their disagreement (available as an optional attachment on the paper form).
 - Work with IA to provide more accessible points to the Decision Review pathways, with the consideration that there are Veterans who want to learn more about the forms vs Veterans who know exactly which pathway they want to pursue.
 
-## **Next steps**
+### **Next steps**
 
 - Identify and prioritize opportunities for improvement with the digital application, as well as, the holistic decision review process.
 - Make design adjustments to the application.
 - Collaborate with IA to solve the wayfinding challenges for decision review, and with content on opportunities to improve language and comprehension.
 
-## **Further research needed**
+## **Who we talked to**
+Intended audience for this research: Veterans. 
 
-- We have not done a study with Veterans who are appealing issues outside of disability.
-- We have not done a separate accessibility study with this form.
-- We have not done a study with Veterans who are homeless.
+Recruitment strategy: We will test with Veterans only for as that is the scope of the digital form experience. We are testing the form in Production (or Staging, upon Veteran request).
+
+### Recruitment criteria
+We talked to 10 participants.
+
+**Audience segment:**
+- Veterans: 10
+- Caregivers: 0
+- Family members of a Veteran: 0
+
+**Gender:**
+- Male: 9
+- Female: 1
+- LGBTQ+: 0
+- Transgender: 0
+- Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+- Gay, lesbian, or bisexual: 0
+
+**Devices used during study:**
+- Desktop: 9
+- Tablet: 0
+- Smart phone: 1
+
+**Age:**
+- 25-34: 1
+- 35-44: 2
+- 45-54: 2
+- 55-64: 2
+- 65+: 3
+- Unknown: x
+  
+**Education:**
+- High school degree or equivalent: 1
+- Some college (no degree): 3
+- Associate's degree, trade certificate or vocational training: 2
+- Bachelor's degree: 2
+- Master's degree: 2
+- Doctorate degree: 0
+- Unknown: 0
+  
+**Geographic location:**
+- Unknown: 10
+
+**Race:**
+- White: 6
+- Black: 2
+- Hispanic: 1
+- Biracial: 2
+- Asian: 2
+- Native: 1
+- Prefer not to answer: 1
+
+**Disability and Assistive Technology (AT):**
+- Cognitive: 1
+
+### Underserved groups we haven’t talked to
+This research does not include the perspectives of the following marginalized Veteran groups:
+- Immigrant origin
+- Other than honorable
+- Gay, lesbian, or bisexual
+- Transgender
+- Nonbinary, gender fluid
+- Rural
+
 
 ## **Who we talked to**
