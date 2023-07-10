@@ -54,56 +54,51 @@ wipn-image
 #### Decision
 Same problem as before, where I’m getting too invasive, bending / breaking the rules of OOD, with not a ton of pay off.
 
-Option 3: Manual insertion of logging into the FormClass
+### Option 3: Manual insertion of logging into the FormClass
 In this option, we simply crack open the model an wrap our desired action in some logging.  
 
 
-Pros
-Easy to implement
-Easy to understand
-Cons
-Breaks encapsulation.  We would need to pass controller level logging into the model.
-Would affect all form attachments.  This is a con-light, because really the added logging site wide would be kinda nice.  However, modifying shared code (remember that ‘FormClass’ is a hypothetical representation of a more complex inheritance model) feels dangerous, especially in light of the aforementioned encapsulation concerns.
-Not a reusable pattern.  One of our goals is to have something to point at and say “do this for each 3PI”.  This manual addition of start_logging and stop_logging methods all over the code would be unwieldy to maintain.
-Variation
+#### Pros
+- Easy to implement
+- Easy to understand
+#### Cons
+- Breaks encapsulation.  We would need to pass controller level logging into the model.
+- Would affect all form attachments.  This is a con-light, because really the added logging site wide would be kinda nice.  However, modifying shared code (remember that ‘FormClass’ is a hypothetical representation of a more complex inheritance model) feels dangerous, especially in light of the aforementioned encapsulation concerns.
+- Not a reusable pattern.  One of our goals is to have something to point at and say “do this for each 3PI”.  This manual addition of start_logging and stop_logging methods all over the code would be unwieldy to maintain.
+#### Variation
 One promising solution to the 3rd con above (lack of reusability) would be to create a logging module that will dynamically monkey patch methods with start / stop logging calls.  E.G. 
-
-
-Decision
+#### Decision
 There are some good and bad bits here.  This is a decent fallback if we need to ship something ASAP and can’t come up with something better.
 
-Option 4: Break Logging into smaller chunks
+### Option 4: Break Logging into smaller chunks
 In this option we simply log controller level data from the controller action, then inside the model when we are actually calling the 3PI we add more logs around that more specific action.  We could possibly even skip the model level logging and just log from the controller, however i think the model level logs, even without context could be nice pointers for future debugging when we wonder “did we even make it to the 3PI before this broke?”
 
-
-Pros
-Eliminates SCC!
-More info is… better?
-Easy to understand
-Easy to implement
-Cons
-More info is… worse? Is it Kruft?  Duplication?
-Data separation. 
-DataDog mitigates this by dynamically grouping process IDs (I think).  This means, theoretically if you are looking at one of these 4 logs, you should be able to easy and intuitively navigate to the other 3
-Lot’s of code duplication. 
-Would affect objects and actions beyond the scope of our Form, due to the inheritance / composition in our controller and model levels.
-Variations
-Hybrid this with the composition based shared logging module.
-This may seem to be over engineering for a first pass, except that one of our stated goals with this POC work is to define a reusable pattern.  The subsequent tickets could be as easy as adding 2 - 4 lines of code per 3PI, which would make future proofing and iterating a breeze.
-Would remove code duplication.
-Composition mitigates (in the controller) unintended affectation of out of scope actions.
-Decision
+#### Pros
+- Eliminates SCC!
+- More info is… better?
+- Easy to understand
+- Easy to implement
+#### Cons
+- More info is… worse? Is it Kruft?  Duplication?
+- Data separation. 
+  - DataDog mitigates this by dynamically grouping process IDs (I think).  This means, theoretically if you are looking at one of these 4 logs, you should be able to easy and intuitively navigate to the other 3
+- Lot’s of code duplication. 
+- Would affect objects and actions beyond the scope of our Form, due to the inheritance / composition in our controller and model levels.
+#### Variations
+- Hybrid this with the composition based shared logging module. This may seem to be over engineering for a first pass, except that one of our stated goals with this POC work is to define a reusable pattern.  The subsequent tickets could be as easy as adding 2 - 4 lines of code per 3PI, which would make future proofing and iterating a breeze.
+- Would remove code duplication.
+- Composition mitigates (in the controller) unintended affectation of out of scope actions.
+#### Decision
 This feels like the “simple and clear” path, so despite its potential “krufty-ness” it is the path that I am currently pursuing.  Additionally, the variation with a reusable logging architecture, while slower to implement, will massively reduce code duplication, future development time, and possible points of failure.
 
-Option 5: Monkey Patch CarrierWave with Middleware logging
+### Option 5: Monkey Patch CarrierWave with Middleware logging
 Including this for completeness. This was my first instinct, but upon further thought it breaks down so completely as to not really warrant much discussion, however, quickly…
-Hard to understand.
-Hard to maintain.
-Hard to debug.
-Hard to implement (context passing would be a nightmare, if even possible.)
 
-Next steps
+#### Cons
+- Hard to understand.
+- Hard to maintain.
+- Hard to debug.
+- Hard to implement (context passing would be a nightmare, if even possible.)
+
+### Next steps
 Continue POC implementation of option 4, then refactor it into reusable pattern using the plug-and-play logging module pattern.
-
-
-The WIP branch
