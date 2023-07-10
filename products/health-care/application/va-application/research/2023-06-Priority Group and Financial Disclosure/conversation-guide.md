@@ -62,6 +62,7 @@ Let’s start with a couple warm-up questions.
 - What resources did you use to understand what health care benefits you might qualify for during this process?
 - How would you describe the process that happened after you completed your application, such as things you had to do, additional information you had to provide, communications from the VA, your first appointment, etc.?
 - Now that you have been using your benefits, I would like you to think back and recall if there is anything that would have been helpful for you to know during your application process that you have learned after you enrolled?
+- Have you been notified that since you enrolled that you had to provide new information or updates?
 
 
 ### Things to watch for:
@@ -77,7 +78,7 @@ Let’s start with a couple warm-up questions.
 - Can you please describe how this was communicated to you and how you understood the impact to you and your benefits?
 - Before you completed enrollment, were you aware of Priority Groups or copays as part of the health care benefits package?
 - [if yes] Can you tell me more about what you knew before you applied and how you learned that information?
-- Since you have been using your benefits, what do you now know about Priority Groups and the impact it has on you and health care benefits?
+- Since you have been using your benefits, what have you learned about Priority Groups and the impact it has on you and health care benefits that you wish you knew during the application?
 
 
 ### Things to watch for:
@@ -97,7 +98,7 @@ Let’s start with a couple warm-up questions.
 
 ### Things to watch for:
 - [Do Veterans call out VA.gov as where they would expect to find this information? Do they list VA Profile?]
-- [Do Veterans mention other channels to find and manage this information - MHV, mobile, etc?]
+- [Do Veterans mention other channels to find and manage this information - Proifle, MHV, mobile, etc?]
 - [What information do Veterans want to know about their Priority Group?]
 
 
@@ -108,14 +109,14 @@ Let’s start with a couple warm-up questions.
 - Changing directions a bit now, since you enrolled, have you had to make any updates to your information since your initial application?
 - If yes:
    - can you please tell me more about that. What did you have to update and how was that experience for you?
+   - How were you notified or how did you find out you needed to supply updated information?
    - Is there anything about that experience that you wish you could change?
    - Did you have to make updates for other benefits too or just health care?
-- If no:
-   - If you had to make updates, where would you think to go to initiate this process?
+
 
 ## [Financial Disclosure] - 5 minutes
 - How would you see a change in income impacting your health care benefits?
-- How would you expect to be notified to provide your updated financial information?
+- How would you wnat to be notified to provide your updated financial information?
 
 
 ## [Dependents] - 5 minutes
@@ -135,17 +136,6 @@ Let’s start with a couple warm-up questions.
 
 
 
-## Fourth Topic: [Ideal State] - 5 minutes
-- Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using your benefits all they way through updating your information. 
-- What tools, communication, people could make this the best process possible in your mind?
-- What information would be important to you so you feel confident when having to apply for and use your health care benefits?
-
-
-### Things to watch for:
-- [Are there any terminology used that stand out as the Veteran is describing their ideal process?]
-- [What steps do they call out?]
-- [What steps do they leave out?]
-- [What do they mention or call out as information that is helpful in making decisions about health care benefits?]
 
 
 
