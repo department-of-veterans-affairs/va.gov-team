@@ -170,22 +170,6 @@ Under every appointment does it say “review your information now” links?" - 
 ## Next Steps
 
 Due to the low number of participants, we don't have enough Assistive Technology user data to make data-driven decisions based on trends; however, we do have the feedback to integrate into the overall study, based on those tested with Assistive Technology. 
-- **Text Content on Phone**: Add time zone
-- **DOB Field**: Use a date picker to avoid jumping out of form fields
-- **Prototype**: Correct prototype issues listed
-- **Required Field Your Last Name**: Form updates to provide equal information to signted and non-sited visitors
--** Details Page Next Button**: Provide feedback on button
-- **"Review upcoming appointments":** It doesn't say if it is a link or a button. Reading as text, which can lead to a link being skipped. Add proper role.
-- **"Is this your emergency contact":** Avoid traps and retest with AT
-Retest with AT if possible
-- **Duplicative Links:** Details vs. Confirm your appointment text: Create distinguishable links. Add ARIA to "confirm appointment" and "check now" action links (in cards) and active links (in appointment lists) to include appointment time.
-- **"Review my information":** Missing material honesty with link text. Take user to intended destination.
-- **One-item/topic per page preferred:** Reduce cognitive load with one-time per page.
-- **Appointment Confirmation Not Confirmed:** Keep the user informed of success/failures through status messages and consistent help.
-- **Upcoming Appointments View:**
-  - Filters to reduce cognitive load.
-  - Date & Details: Test date again, after adjusting screen reader test, to avoid it reading as a number and not full date.
-- **Processes: Confirmation and Check-In:** Review content wording.
 
 ### Complete Now
  - **Prototype**: Correct prototype issues listed
@@ -205,21 +189,3 @@ Retest with AT if possible
  - **Text Content on Phone**: Add time zone
  - **One-item/topic per page preferred:** Reduce cognitive load with one-time per page.
  - **Processes: Confirmation and Check-In:** Review content wording.
-## Other considerations and findings 
-
-_A finding that may not be relevant to the study, but worth talking about. Include images as needed._
-
-### List of caught defects and issues
-
-#### Relevant to this team
-- [ ] Description of issue and how to replicate
-
-#### Belongs to other teams
-- [ ] Description of issue and how to replicate
-
-#### Design system
-- [ ] Description of issue and how to replicate
-
-## References
-<a id="1">[1]</a> 
-Citations if needed 
