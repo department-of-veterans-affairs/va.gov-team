@@ -35,9 +35,9 @@ jobs:
         run: ssh-keygen -lf /dev/stdin <<< "$PUBLIC_KEY"
       - name: Notify failure
         id: ssh_key_invalid
-        shell: bash
-        run: "echo \"You seem to have uploaded an invalid ssh public key: $PUBLIC_KEY\""
         if: ${{ failure() }}
+        shell: bash
+        run: "echo \"::error::You seem to have uploaded an invalid ssh public key: $PUBLIC_KEY\""
 
   start_workflow:
     runs-on: ubuntu-latest
