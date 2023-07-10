@@ -37,11 +37,12 @@ Great, let’s get started.
 The following questions are a way to get to know you better and to make sure we are talking to veterans in different situations with different needs. Feel free to answer the questions you’re comfortable with, and please know you can skip anything you prefer not to answer.
 
 
-
-* What’s the city and state of the main place where you live?
+* Tell me a little bit about yourself. Where are you from, where do you live now?
+* (city, state)
 * How long have you been out of the military?
-* Do you ever use any type of assistive technology?
+* Do you ever use any type of assistive technology, like enlarging the text on your phone or using a screenreader?
 * What type of phone do you have?
+
 * What was your first connection with the VA?
     * About how long have you been connected to VA services?
     * How long have you been out of the military before you first connected with the VA?
