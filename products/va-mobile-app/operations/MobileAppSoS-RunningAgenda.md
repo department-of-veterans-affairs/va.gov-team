@@ -4,12 +4,10 @@
 ## Meeting Purpose:
 
   * Highlight the quarterly plan and review progress
-  * Review changes in risks, dependencies, assumptions, or priority for the current sprint
-  * Review insights from ongoing discovery or delivery work in the current sprint
-  * Rebalance team staffing if necessary
+  * Review changes in risks, dependencies, assumptions, resources, staffing or priority for the current / future sprints
+  * Review insights from ongoing discovery or delivery work in the for the current / future sprints
   * Triage unplanned work
   * POs reconfirm project priorities
-  * Discuss the plan for the upcoming sprint
 
 
 
@@ -64,8 +62,11 @@
 ## Notes
 
 ## 7/11/23
- * Verify PO's project priorirt list (Adam)
+ * Verify PO's project priorirt list? (Adam)
    * Discussed during Q3 planning, Product wants to know the project priorities from the POs and any changes as they may occur
+ * Any unplanned work that needs reviewed / prioritized? (Adam)
+   * Meeting with Dave Conlan on Web Banner Marketing on 7/18 - not sure what will come of it
+      * our scope and work has been completed and shared 
 
 
 
