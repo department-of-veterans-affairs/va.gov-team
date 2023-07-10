@@ -53,6 +53,7 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60874)    
 - **GOAL: Address tech & design debt**
+    - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Create Incident Response Playbook for CHIP & LoROTA API Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61693)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Document Process for Updating Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43673)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add plain language statement to explain next of kin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59089)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57810)
