@@ -145,13 +145,10 @@ We asked 5 Veterans to save and get back to the in-progress form, and all of the
 Veterans don’t see the difference between a Higher Level Review and Board Appeal apart from having different reviewers and the time that it takes to go through each process.
 
 > You're asking me about a Supplemental Claim right? Board Appeal is a Higher Level Review right? I guess I haven't done that yet. I WILL be doing that. -P1
-> 
 
 > [When asked if PPT submitted a Board Appeal] The Board Appeal, was that not the Higher Level Claim? -P10
-> 
 
 > I guess, yeah. So I don't know if I would follow under the Higher Level Review or the Board Appeal. -P7
-> 
 
 > And then the board takes so long. I had a hearing docket set up, and then the lawyer’s like, well, you’re talking like 6 to 8 years realistically, you know. Just the backlog. And that’s why we switched over the lane with the appeal docket just to add new information to my claim and get it done. -P8
 > 
@@ -160,17 +157,19 @@ Veterans don’t see the difference between a Higher Level Review and Board Appe
 
 Language about ‘contested claims’ within the form lacks clarity, and causes unease and hesitation for Veterans looking to request a Board Appeal.
 
+![Screenshot 2023-07-10 at 2 03 59 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/d4aadbdd-da51-4476-a6fd-74b08c09a067)
+
 The definition for contested claims within the deadline page caused Veterans to think it was related to their disability claim, when in reality, a contested claim only occurs if two people try to submit the same claim (which does not happen with disability).
 
 > If I get a favorable claim what other person would be in denial or reduced benefits? -P2
-> 
 
 > Contested claims, when a favorable claim decision for one person is resolved in denial. Usually you don't compare 2 people's claims. I don't know if I agree I don't like the way that sentence is worded. -P7
-> 
 
 ### **Finding 5**
 
 Veterans chose a review option based on whether they had evidence to submit, and how long each process takes.
+
+![Screenshot 2023-07-10 at 2 09 34 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/4458467c-3e2d-454e-a411-34582a9a6c75)
 
 Out of the 8 that went through the form, 4 chose to add evidence, 3 chose to do a direct review, and 1 chose a hearing. A few Veterans pointed out the description for the hearing option that stated “tens of thousands of pending hearing requests” as a reason for aversion towards that option.
 
@@ -195,6 +194,8 @@ Only one chose to have a hearing when going through the form, but for Veterans w
 ### **Finding 7**
 
 The ambiguous language on the ‘something else’ text field within the disagreement screen created a misconception about the purpose of the field and participant frustration when attempting to use it.
+
+![Screenshot 2023-07-10 at 2 10 28 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/8e0fedf6-9c0b-424d-89d7-88a8c4da501a)
 
 50% of the 8 participants that reached the disagreement screen tried to add context for why they’re disagreeing with what they’re disagreeing with.
 
