@@ -41,7 +41,7 @@ You’ll need to fill out and submit VA Form 20-0996 by mail or in person. [Send
 
 
 # Request a Higher-Level Review
-VA Form 20-0996 (Higher-Level Review)
+VA Form 20-0996
  
 Info Alert:
 
