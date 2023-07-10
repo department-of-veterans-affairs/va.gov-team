@@ -9,7 +9,7 @@
   * Rebalance team staffing if necessary
   * Triage unplanned work
   * POs reconfirm project priorities
-  *   * Discuss the plan for the upcoming sprint
+  * Discuss the plan for the upcoming sprint
 
 
 
@@ -20,23 +20,20 @@
 |-------- | ----------- | ----------- | ----------- |-----------| -------------| ----------|
 | 1 |[EVSS Backend Migration](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/2558) | Kelly | GREEN | | | 
 | 2 |[Check-In](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/4315) | Meko | GREEN |
+| 3 | Deeplinking | Stacy | Green | Engineering Discovery | | | 
 | | [Claims Metrics/Pact Act](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4078) | Stacy | GREEN |
-| | [Android SSO Login Update](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5118) | Stacy | GREEN |
+| | [Android SSO Login Update / Custom Tabs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5118) | Stacy | GREEN |
 | | [Cancel Message Content Auidt](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2172) |Stacy | GREEN |
-| | [Appointment Refinement](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4725) | Meko | GREEN |
-| | [OKR Development](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Greta / Adam | GREEN |
-| | [UI Automation](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Rachel / Adam | GREEN |
-| | [Backend Initiatives](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5140) | Jayson | Ongoing | 
-| | [Frontend Initiatives](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5139) | Binny | Ongoing |
-| | [UX Initiatives](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/issues/5187) | Jen | Ongoing |
-| | [Mobile Bug Maintenance](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) |Adam | Ongoing |
-| | [Veteran Status](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Adam | Green | | Experiment starting Sprint 77 | 
-| | [Call Center Hand-off](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Call_Center_Integration/Call_Center_Integration.md)| Kelly | PRE-DISCOVERY |
-| | [Mobile App Promo Banner](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5141) | Adam / Greta | Green | None | Review work with Dave 7/18 | TBD |
+| | Platform Preparation - Design System | Kelly |  |  | |  | 
+| | Mobile App Retention Research and Analysis | Ameet, Adam, Liz, Greta | Green | Veteran recruitment and qual research signup | Veteran qual interviews; Quant analytics | Aug '23 | 
+| | [OKR and MVP Dashboards](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Greta, Ameet, Adam | GREEN |
+| | General Analytic Request and Needs | Greta, Ameet, Adam | Green | | Review [Mobile App Promo Banner](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5141) work with Dave 7/18 |
+| | [Detox UI ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Rachel / Adam | GREEN |
+| | [Mobile Bug Maintenance & Discipline Tech Debt](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) |Adam | Green |
+| | [Veteran Status](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Adam | Green | | Experiment starting Sprint 77 | Aug '23 |
 | Alternate | [Secure Messaging - Migrate to Re-Engineered MHV APIs](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5562) | Adam | Blocked - MHV SM team - Sept |  |   | ~ Sept '23|
-| Alertnate | [In-App Recruitment Step 2](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4353) | Adam | Blocked - Awaiting Prioritization | |  | TBD |
-| Alertnate | Appointments Step 1 -2 | Meko | Blocked - Awaiting Prioritization | Content performing list and details audit |  | TBD |
-
+| Alternate | [In-App Recruitment Step 2](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4353) | Adam | Blocked - Awaiting Prioritization | |  | TBD |
+| Alternate | [Appointment Refinement](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4725) | Meko | Blocked - Awaiting Prioritization | Content performing list and details audit |  | TBD |
 ## Completed work:
 
 | Quarter |Project | PM | Status |
