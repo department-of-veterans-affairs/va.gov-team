@@ -1,4 +1,4 @@
-# BDEx Team Norms
+# DBEx Team 1 Norms
 Last Updated 3/14/23
 
 ## When & Why We Meet
@@ -26,7 +26,7 @@ We are a cross-functional team spread across multiple time zones. The team is ge
    - [ ] DSVA team channel: Used to post fully formed ideas, questions, or information that is relevant/helpful in a public forum
 
 ## How We Work
-- [ ] The BDEx team delivers value in 2 week sprints. Sprints begin on Wednesday and end on Tuesdays. Before each sprint, we set product goals and prioritize stories that align with those goals. As a team, we commit to the work being done before the sprint begins. At the end of each sprint, we examine how we did and brainstorm ways to improve as a team to meet our goals and take care of each other as human beings.
+- [ ] The DBEx team 1 delivers value in 2 week sprints. Sprints begin on Wednesday and end on Tuesdays. Before each sprint, we set product goals and prioritize stories that align with those goals. As a team, we commit to the work being done before the sprint begins. At the end of each sprint, we examine how we did and brainstorm ways to improve as a team to meet our goals and take care of each other as human beings.
 - [ ] We track our work using ZenHub.
 - [ ] Our stories should include:
    - [ ] Value Statement (why the work should be done)
