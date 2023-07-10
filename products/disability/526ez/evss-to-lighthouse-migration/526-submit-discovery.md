@@ -38,7 +38,7 @@ Along the path from *submission service* start to *EVSS submission*, callouts to
    behind a new Flipper flag [#55953](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/55953)
 - Create new Lighthouse Translation Service, which will be available at the submission service layer to be called on-the-fly right before
    submit. The service will transform the EVSS-formatted request in
-   memory before sending it onto Lighthouse
+   memory before sending it onto Lighthouse. It is possible to have pending submissions in the queue that are ready for EVSS, and those will fail when sending to Lighthouse. The idea is to perform the translation as close to the submission event as possible.
 	- EVSS Migration - 526 Submit - Translation Service - basic framework [#61463](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/61463)
 	- EVSS Migration - 526 Submit - Translation Service - Implement top-level/minimal translate
 	   [#61522](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/61522)
