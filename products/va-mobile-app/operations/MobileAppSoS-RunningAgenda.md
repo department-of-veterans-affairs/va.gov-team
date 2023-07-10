@@ -16,7 +16,7 @@
 ## Q3 Projects In Progress 
  - Order is based on PO priority per Quarterly Planning
    
-| PO's Priority |Project | PM | Status | Current Sprint Work | Future Sprint Work | Timing |
+| PO's Priority |Project | PM | Status | Current Sprint Work | Future Sprint Work | Est Completion Timing |
 |-------- | ----------- | ----------- | ----------- |-----------| -------------| ----------|
 | 1 |[EVSS Backend Migration](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/2558) | Kelly | GREEN | Complete Documents API in Vets API; Align policies between EVSS and LH, Integrate with Docs API in vets-API | Turning on Claims Status in Prod, Finish up Direct Deposit migrations, Finish up Decide my claim | Sept '23 | 
 | 2 |[Check-In](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/4315) | Meko | GREEN | BE to start endpoint documentation - get mobile a place to start | FE development | Sept '23 |
