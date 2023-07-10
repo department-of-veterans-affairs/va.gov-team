@@ -2,7 +2,7 @@
 **SIGNED OUT**
  
 # Request a Higher-Level Review
-VA Form 20-0996 (Higher-Level Review)
+VA Form 20-0996
 
 ## Is this the form I need?
 
