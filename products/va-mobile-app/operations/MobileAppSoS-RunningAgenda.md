@@ -14,7 +14,8 @@
 
 
 ## Q3 Projects In Progress 
- - Order is based on PO priority per Quarterly Planning
+ - 3rd Quarter projects that are currently being worked on by the mobile team
+ - Current Sprint 75 7/4 - 7/18
    
 | PO's Priority |Project | PM | Status | Current Sprint Work | Future Sprint Work | Est Completion Timing |
 |-------- | ----------- | ----------- | ----------- |-----------| -------------| ----------|
@@ -33,16 +34,18 @@
 | | [Detox UI ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Kelly | GREEN | Finish Past Appointments, RX, VA Letters and Docs, Contact Info and Perseonal Info | Next items: Direct Deposit, Veteran Crisis Line, Payments, Settings | All Q3 |
 
 ## Q3 Projects Planned Not Yet Started
+ - 3rd quarter projects planned but have not yet started
+
 | Priority |Project | PM | Status | Timing |
 |-------- | ----------- | ----------- | ----------- |-----------| 
 | | [Veteran Status](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Adam |Experiment starting Sprint 77 | Aug '23 |
-| | Pre-need Bural Claims Sprint 0 | | Not Started | Aug '23 | 
-| | Terms of Use Sprint 0 | |Not Started | Sept - Oct '23 |
-| | User Endpoint Update | Stacy | Not Started | Aug - Oct '23| 
-| | Travel Reimbursement Step 1 -2 | Adam | Not Started | Aug - Sept '23 |
-| | Remote Disaster | Stacy |Not Started  | Aug - Sept '23 |
-| | Appeals Decision Letters | Stacy |Not Started | Sept '23|
-| | Push Noticication Overall Strategy Sprint 0| | Not Started | Sept '23 | 
+| | Pre-need Bural Claims Sprint 0 | | Not Started | Sprint 78 Aug '23 | 
+| | Terms of Use Sprint 0 | |Not Started | Sprint 81 Oct '23 |
+| | User Endpoint Update | Stacy | Not Started | Sprint 78 - 81 Oct '23| 
+| | Travel Reimbursement Step 1 -2 | Adam | Not Started | Sprint 78 -79 Sept '23 |
+| | Remote Disaster | Stacy |Not Started  | Sprint 79 - 81 ; carrying over into Q4 |
+| | Appeals Decision Letters | Stacy |Not Started | Sprint 80 Sept '23|
+| | Push Noticication Overall Strategy Sprint 0| | Not Started | Sprint 80 Sept '23 | 
 | Alternate | [Secure Messaging - Migrate to Re-Engineered MHV APIs](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5562) | Adam | Blocked - MHV SM team - Sept |  |   | ~ Sept '23|
 | Alternate | [In-App Recruitment Step 2](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4353) | Adam | Blocked - Awaiting Prioritization | |  | TBD |
 
