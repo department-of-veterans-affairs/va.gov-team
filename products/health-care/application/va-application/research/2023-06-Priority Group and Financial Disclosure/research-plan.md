@@ -70,9 +70,10 @@ We will use these findings to:
 - Where do Veterans call out as the way to manage their health benefits like finanical updates and copays? 
 - Currently, do Veterans prefer to provide updated information in person at appointments or over the phone?
 - Do income updates cross benefits in the Veteran's POV or do they associate them only with their health care benefits?
-- Would Veterans prefer to be prompted to provide updated financials? How and what method (text, email, call, mail)?
-- Where would Veterans expect to find where to update their financial informaiton online? 
-- Is there frustration about steps or processes after the initial application process in regards to providing more information, filling out additional forms?
+- Would Veterans prefer to be prompted to provide updated financials or do this proactively?
+- If notified, how and what method (text, email, call, mail)?
+- Where would Veterans expect to find where to update their financial income and deductibles online? 
+- Is there frustration about steps or processes after the initial application process in regards to providing updated information?
 - Do dependent updates cross benefits in the Veteran's POV or do they associate them only with their health care benefits?
 
 
