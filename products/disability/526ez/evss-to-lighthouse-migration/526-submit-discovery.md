@@ -32,12 +32,27 @@ Along the path from *initial submission* to the start of the *submission service
 
 Along the path from *submission service* start to *EVSS submission*, callouts to EVSS Documents and Claims endpoints were also discovered by Aurora, tickets made here: [57265](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/57265), [56361](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/56361)
 
-***Still to come***...
-#### Can our new framework handle the migration?  
-##### Can we abstract out eVSS calls?  
-##### Can the responses from both eVSS and LH be genericized?  
-I believe that the answer to this is a big general Yes, but just needs to be fleshed out a little more. At a high level, I see the usual Flipper feature toggle in disability_compensation.rb's `to_submission_data()` method, to be used with a conditional to access a new translation layer (at the `dis_form` assignment). This new translation layer would essentially start as a copy/paste of `data_translation_all_claim.rb (EVSS::DisabilityCompensationForm::DataTranslationAllClaim)` but then modified to write out the Lighthouse versions of the various parts of the submission request JSON. Although this might not seem like the most D.R.Y. approach, enough has to change in the request JSON to make this a much cleaner approach than, for example, inserting a Flipper conditional at every point along the proceeding call chain (e.g. translate_banking_info(), translate_service_pay(), etc. Especially considering that the JSON this code is building has to be either one format (EVSS) or the other (LH).
+## Development Plan
 
-There are a lot of open questions at the moment around mapping EVSS to LH, which may take some time to get resolved. However, I think we know enough at this point to at least begin implementation along the above lines, with the changes (of course) gated behind a feature flag.
+ - Abstract out the final call at the submission service layer, gated
+   behind a new Flipper flag [#55953](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/55953)
+- Create new Lighthouse Translation Service, which will be available at the submission service layer to be called on-the-fly right before
+   submit. The service will transform the EVSS-formatted request in
+   memory before sending it onto Lighthouse
+	- EVSS Migration - 526 Submit - Translation Service - basic framework [#61463](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/61463)
+	- EVSS Migration - 526 Submit - Translation Service - Implement top-level/minimal translate
+	   [#61522](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/61522)
+   - EVSS Migration - 526 Submit - Translation Service - * implements
+   all other translate methods:
+     - [#61552](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/61552) (Banking Info)
+     - [#61553](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/61553) (Service Pay)
+     - [#61554](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/61554) (Service Info)
+     - [#61555](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/61555) (Veteran)
+     -  [#61556](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/61556) (Treatments)
+     - [#61557](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/61557) (Disabilities)
+- EVSS Migration - 526 Submit - Implement call to
+   new translation service [#61559](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/61559)
 
-New (and/or improved) 526 submission tickets to follow...
+
+
+
