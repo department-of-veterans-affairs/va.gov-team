@@ -3,7 +3,7 @@
 ## Background
 The online health care application (10-10EZ) and the update form (10-10EZR which is only paper form today) both can impact a Veteran's eligibilty and placement when applying for and managing their health care benefits. This is more so impactful for those placed in a Priority Group who need to have income information considered for copays and travel reimbrusment in addition to eligibility. The 10-10EZ is the initial application that then places a Veteran in a Priority Group for enrollment into the full medical benefits package. The 10-10EZR is used to proivde personal, financial or insurance information updates after enrollment. 
 
-The outcome of this generative research study will help in understanding the Veteran's mental model around health care benefits - as it pertains to getting, understanding and maintaining those benefits - to gain a broad, holistic view and iterate on various hypotheses as the team works towards designing an MVP. 
+The outcome of this generative research study will help in understanding the Veteran's mental model around health care benefits as it pertains to understanding and maintaining those benefits - specifically around awareness of their Priority Group and that impact as well as updating financial information after initial enrollment. 
 
 
 - [Link to product initiative brief for Priority Groups](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Priority%20Group)
@@ -48,22 +48,19 @@ We will use these findings to:
 
 **Learn more about Veteran's mental model when applying for and managing their health care benefits including the terms they use and how they understand eligibility and their specific benefits.**
 
-- What is the Veteran's mental model of discovering, getting and keeping health care benefits as they go through the application process?
-- What are Veteran's understanding of what benefits they will get and the cost to them while applying for benefits?
+- What are Veteran's understanding of what benefits they will get and the cost to them when enrolling for health care benefits?
 - How do Veterans refer to their health care benefits and costs - what terms do they use?
 - What are Veteran's understanding of what benefits they will get and the cost to them after enrollment?
 - What are the Veteran's current pain points with how the health care application impacts the overall health care journey?
-- What is the order and process expectations of Veterans when they are applying for health care benefits?
 - What information do Veterans feel most that the VA has and they should not have to provide?
 - What is the Veterans mental model of eligibility and Priority Groups around their benefits and costs?
   
 
 **Learn more about Veteran's awareness and understanding of their Priority Group placement including how that impacts their benefits as it pertains to financial disclosure, copays and travel reimbursement.**
 
-- Do Veterans seem confused by Priority Group transparency prior to applying to enroll?
-- What is the communication and education process around Priority Groups like from the Veteran's perspective?
+- Do Veterans seem confused by Priority Group transparency prior to applying for enrollment?
+- What is the communication and education process around Priority Groups like from the Veteran's perspective today?
 - Do Veterans know their know Priority Group easily or do they just know they are enrolled?
-- What is Veteran's attitude towards Priority Groups and eligibility placement?
 - What information around PG/copays would the Veteran like to have easy access to and where?
 - What is Veteran's attitude towards Priority Groups and copay rates?
 - Where do Veterans call out as the way to view their Priority Group information? the VA profile or MyHelatheVet or the mobile app or ...?
@@ -71,15 +68,14 @@ We will use these findings to:
 
 **Learn more about how Veterans would like to go about providing updated information that could impact their health care benefits after enrollment.**
 
-- Where do Veterans call out as the way to manage their health benefits ? the VA profile or MyHelatheVet or the mobile app or (enter method here)
+- Where do Veterans call out as the way to manage their health benefits like finanical updates and copays? 
 - Do Veterans prefer to provide updated information in person at appointments or over the phone?
 - Do income updates cross benefits in the Veteran's POV or do they associate them only with their health care benefits?
-- Would Veterans prefer to be prompted to provide updated financials? How/method (text, email, call, mail)?
+- Would Veterans prefer to be prompted to provide updated financials? How and what method (text, email, call, mail)?
 - Where do Veterans see income updates occurring as it relates to travel pay/PG placement? 
 - What information does the Veteran feel they should have to provide vs. what the VA should have/they have to verify?
 - Is there frustration about steps or processes after the initial application process in regards to providing more information, filling out additional forms?
 - Do dependent updates cross benefits in the Veteran's POV or do they associate them only with their health care benefits?
-- What is different about the dependent update process from other EZR updates?
 
 
 
@@ -93,7 +89,7 @@ We will use these findings to:
 
 ## Methodology	
 - Semi-structured interviews - appropriate for generative research
-
+- Low-fi wireframe scenario walkthroughs
 
 ### Location
 Remote via Zoom for the interviews
@@ -105,6 +101,7 @@ Remote via Zoom for the interviews
 
 - [Link to conversation guide]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/DRAFT-conversation-guide.md)) 
 
+- [Link to Scenario Wireframe](url)
 
 - [Recruitment ticket]
 
@@ -132,10 +129,10 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
-- At least 2 participants are female
-- At least 2 participants with a cognitive disability
-- At least 2 participants over the age of 55
-- At least 1 participant who are living abroad or immigrant origin
+- At least 3 participants are female
+- At least 3 participants with a cognitive disability
+- At least 3 participants over the age of 55
+- At least 2 participant who are living abroad or immigrant origin
 
 
 ## Timeline
