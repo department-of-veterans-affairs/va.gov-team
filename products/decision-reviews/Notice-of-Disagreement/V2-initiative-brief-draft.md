@@ -15,7 +15,7 @@ Veterans have the information to their use case to quickly decide if filing an N
 * Increase the % of digital form submissions.
 * Reduce the % of early abandonments.
 * Reduce the % of duplicate submissions.
-* Reduce the % of hearing selections that conbribute to longer decision times.
+* Reduce the % of hearing selections that contribute to longer decision times.
 
 Veterans are more confident in the quality of their submission. 
 * Increase in the confidence rating during usability testing
@@ -42,9 +42,9 @@ Our research suggests that today's form experience does not adequately respond t
 Think about choosing to file an NOD (or any decision review) as an open system, with a range of variables that contribute to the problem. Our research revealed that the most impactful variables are:
 * Poor navigation - The current VA.gov experience does not provide clear navigation for users interested in submitting an NOD, resulting in confusion about how to find the forms and no entry point into critical content about the NOD option. Users that are visiting for research purposes have no way to quickly navigate to the content they need. 
 * Lack of transparency - Users cannot see the digital form in advance, and don't know what they will be asked to provide or how long the task will take.
-* Conflicting research - Before deciding to file an appeal, Veterans visit a number of resources to gather information about the appeal process and plan their strategy for acheving a desired outcome. Some of these resources are not validated by the VBA, and may contain conflicting guidance.
-* Lost and delayed correspondence letters - Many Veterans shared stories about how they their correspondence letters arrived late or did not arrive in time to take action, resulting in delays and restarts. This also contributes to a lack of trust in VA.
-* Poor quality initial claim experience - Misconceptions from the initial claim experience set the foundation for the behavior that Veterans model when choosing and developing their appeal. This carries over actions that don't benefit of Veteran. 
+* Conflicting research - Before deciding to file an appeal, Veterans visit a number of resources to gather information about the appeal process and plan their strategy for acheiving a desired outcome. Some of these resources are not validated by the VBA, and may contain conflicting guidance.
+* Lost and delayed correspondence letters - Many Veterans shared stories about how their correspondence letters arrived late or did not arrive in time to take action, resulting in delays and restarts. This also contributes to a lack of trust in VA.
+* Poor quality initial claim experience - Misconceptions from the initial claim experience set the foundation for the behavior that Veterans model when choosing and developing their appeal. This carries over actions that don't benefit the Veteran. 
 
 #### How does this initiative help further OCTO-DE's mission and goals?
 This initiative supports [OCTO-DE's 2023 priority bet to "make the claimant experience drastically better"](https://dsva.slack.com/archives/C055573C508/p1686775020433759) by:
@@ -55,8 +55,17 @@ This initiative supports [OCTO-DE's 2023 priority bet to "make the claimant expe
 * Leaning in to logic and automation to determine eligibility instantly where possible
 
 ## Desired User Outcomes
+- Veterans are able to complete and submit the Board Appeal form for all contentions (not just disability)
+- Veterans have considered all three AMA decision review pathways before deciding to apply for Board Appeals
+- Veterans understand what is required of the application process before starting the request
 
 ## Undesired User Outcomes
+- Veterans entering the form and leaving, because they realize it’s not the right form for them
+- Veterans selecting issues that are not eligible (within deadline) without a reason for extension
+- Veterans submitting a duplicate application by mail or digitally, because they are unsure if the form’s been received
+- Veterans having to restart the initial claims process because they missed a deadline
+- Veterans stopping the process because they don’t have a way to explain their reason for appealing
+- Veterans switching to using the paper form because there is a mismatch between the paper and digital form
 
 ## Desired Business Outcomes
 - Each Veteran’s appeal is timely docketed and tracked throughout the appeals process
