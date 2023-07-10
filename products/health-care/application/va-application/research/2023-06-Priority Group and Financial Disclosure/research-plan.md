@@ -1,4 +1,4 @@
-# DRAFT Research Plan for health care application generative research study around Priority Groups and Financial Updates [Health Enrollment Team, 10-10EZ, June 2023]
+# DRAFT Research Plan for health care application generative research study around Priority Groups and Financial Updates [Health Enrollment Team, 10-10EZ, July 2023]
 
 ## Background
 The online health care application (10-10EZ) and the update form (10-10EZR which is only paper form today) both can impact a Veteran's eligibilty and placement when applying for and managing their health care benefits. This is more so impactful for those placed in a Priority Group who need to have income information considered for copays and travel reimbrusment in addition to eligibility. The 10-10EZ is the initial application that then places a Veteran in a Priority Group for enrollment into the full medical benefits package. The 10-10EZR is used to proivde personal, financial or insurance information updates after enrollment. 
@@ -59,21 +59,19 @@ We will use these findings to:
 **Learn more about Veteran's awareness and understanding of their Priority Group placement including how that impacts their benefits as it pertains to financial disclosure, copays and travel reimbursement.**
 
 - Do Veterans seem confused by Priority Group transparency prior to applying for enrollment?
-- What is the communication and education process around Priority Groups like from the Veteran's perspective today?
 - Do Veterans know their know Priority Group easily or do they just know they are enrolled?
-- What information around PG/copays would the Veteran like to have easy access to and where?
-- What is Veteran's attitude towards Priority Groups and copay rates?
-- Where do Veterans call out as the way to view their Priority Group information? the VA profile or MyHelatheVet or the mobile app or ...?
+- What is the communication and education process around Priority Groups like from the Veteran's perspective today? (current state)
+- What information around PG/copays would the Veteran like to have easy access to and where? (future state)
+- Where do Veterans call out as their preferred way to view their Priority Group information? 
 - Do Veterans associate Priority Groups more with eligibility or with benefits?
 
-**Learn more about how Veterans would like to go about providing updated information that could impact their health care benefits after enrollment.**
+**Learn more about how Veterans would like to go about providing updated information - such as financial information or dependents - that could impact their health care benefits after enrollment.**
 
 - Where do Veterans call out as the way to manage their health benefits like finanical updates and copays? 
-- Do Veterans prefer to provide updated information in person at appointments or over the phone?
+- Currently, do Veterans prefer to provide updated information in person at appointments or over the phone?
 - Do income updates cross benefits in the Veteran's POV or do they associate them only with their health care benefits?
 - Would Veterans prefer to be prompted to provide updated financials? How and what method (text, email, call, mail)?
-- Where do Veterans see income updates occurring as it relates to travel pay/PG placement? 
-- What information does the Veteran feel they should have to provide vs. what the VA should have/they have to verify?
+- Where would Veterans expect to find where to update their financial informaiton online? 
 - Is there frustration about steps or processes after the initial application process in regards to providing more information, filling out additional forms?
 - Do dependent updates cross benefits in the Veteran's POV or do they associate them only with their health care benefits?
 
@@ -83,9 +81,8 @@ We will use these findings to:
 - We assume the overall process of determining eligibility and being placed in a Priority Group is somewhat unclear to Veterans today.
 - We assume that Veterans want more information about Priority Groups and transparency about how that impacts their eligibility and benefits.
 - We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and other claims filed in between that could impact their enrollment and Priority Group placement. 
-- We assume that Veterans who have health care regularly login to MHV more than VA.gov 
 - We assume there is a desire from Veterans for the Priority Group placement to be more clear as it pertains to benefits, copays, costs and travel reimubrusement
-
+- We assume that Veterans would like to update their financial information online if it was available but need a clear way to be communicated to or notified that they have to do so. 
 
 ## Methodology	
 - Semi-structured interviews - appropriate for generative research
@@ -102,6 +99,7 @@ Remote via Zoom for the interviews
 - [Link to conversation guide]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/DRAFT-conversation-guide.md)) 
 
 - [Link to Scenario Wireframe](url)
+
 
 - [Recruitment ticket]
 
