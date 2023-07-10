@@ -74,8 +74,7 @@ Moderated interview and usability test of Request a Board Appeal form through pr
         1. Unclear. Veterans that had either a denial or didn't agree with their assessments would look to file a Board Appeal.
 5. Would giving veterans the ability to review and save a copy of their form provide any value for them?
     1. Yes. A few veterans we spoke to had their records lost by the VA, which lowered their confidence in the VA keeping their records. There are also cases where submissions weren’t received and the Veteran had to call to find out. Allowing them to review and save a copy of their form is part of the form instructions, as well as give them a reference for what they’ve submitted.
-6. How easy/hard is it to understand where you are in the appeals process?
-7. How much confidence do you have that your appeal will be handled properly and in a timely manner?
+6. How much confidence do you have that your appeal will be handled properly and in a timely manner?
     1. Veterans have confidence that the VA will handle their claim properly, but low belief that it would be handled in a timely manner, given the timelines that they see on the introduction pages. A few Veterans are under the impression that the PACT Act extended timelines for the different AMA options.
 
 ## **Hypotheses and Conclusions**
