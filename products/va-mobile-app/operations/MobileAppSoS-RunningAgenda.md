@@ -8,7 +8,8 @@
   * Review insights from ongoing discovery or delivery work in the for the current / future sprints
   * Triage unplanned work
   * POs reconfirm project priorities
-
+  * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
+  
 
 
 ## Q3 Projects In Progress 
@@ -66,7 +67,12 @@
    * Discussed during Q3 planning, Product wants to know the project priorities from the POs and any changes as they may occur
  * Any unplanned work that needs reviewed / prioritized? (Adam)
    * Meeting with Dave Conlan on Web Banner Marketing on 7/18 - not sure what will come of it
-      * our scope and work has been completed and shared 
+      * our scope and work has been completed and shared
+ * Sprint 75 planning complete
+   * Dates 7/4 - 7/18
+   * [Sprint Board](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/board?sprints=Z2lkOi8vcmFwdG9yL1NwcmludC8xMDA1Mjk2)
+   * Sprint Slides [Mobile Team Sprint Planning - Sprint 75.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12004554/Mobile.Team.Sprint.Planning.-.Sprint.75.pdf)
+
 
 
 
