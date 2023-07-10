@@ -119,7 +119,7 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
-Veterans: completed 12; requested 20
+Veterans: completed 10; requested 15
 
 
 **Primary criteria (must-haves)**
@@ -129,10 +129,10 @@ What demographics, experience, and scenarios do you need participants to meet to
 - All must currently or in the past claimed dependents (on their tax returns?)
 
 
-- At least **4 out of the 12 completed sessions** are with a screen reader
-- At least **4 out of the 12** are mobile users
-- At least **2 out of 12** are currently living abroad
-- At least **2 out of the 12** are of immigrant origin
+- At least **3 out of the 10 completed sessions** are with a screen reader
+- At least **4 out of the 10** are mobile users
+- At least **1 out of 10** are currently living abroad
+- At least **1 out of the 10** are of immigrant origin
   
 
 
@@ -149,7 +149,7 @@ For all:
 - Do you currently or in the past claimed dependents on your tax return? (Proceed if yes, if no, disqualify)
 
 
-For recruiting 4 screen reader users
+For recruiting 3 screen reader users
 - (a) Do you need to use assistive technology to use the internet such as VoiceOver on an Apple device, TalkBack on an Android device, or JAWS on a computer? (Proceed to question b if yes, if no, disqualify)
 - (b) Are you able to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
 
@@ -173,7 +173,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: **TBD - end April/early May**
+* Planned dates of research: **July 24 - August 4, 2023**
 
 ### Length of sessions
 * Session length: 1 hour
@@ -185,7 +185,26 @@ A pilot session is required. Please indicate the date and name of a mock partici
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
-	
+
+
+| **Team Availability** | **Time (ET)** 	|
+| --------------------- | --------------------- |
+| July 24, 2023    	|  12pm - 6pm ET 	|
+| July 25, 2023		|  12pm - 6pm ET 	|
+| July 26, 2023		|  12pm - 6pm ET 	|
+| July 27, 2023		|  12pm - 6pm ET 	|
+| July 28, 2023		|  12pm - 4pm ET 	|
+| July 31, 2023		|  12pm - 6pm ET 	|
+| August 1, 2023	|  12pm - 6pm ET 	|
+| August 2, 2023	|  12pm - 6pm ET 	|
+| August 3, 2023	|  12pm - 6pm ET 	|
+| August 4, 2023	|  12pm - 4pm ET 	|
+
+
+
+
+
+ 
 ## Team Roles	
 - Moderator: Jessica Stump (jessica.stump@adhocteam.us) and David Kennedy (david.kennedy@adhocteam.us)
 - Research guide writing and task development: Moderators	
@@ -193,6 +212,9 @@ Please request enough dates and at ***least double the amount of time slots for 
 - Project point of contact: Moderators
 - Participant(s) for pilot test: 
 - Note-takers: Perigean, 1010 Team
-- Observers: Heather Justice (heather.justice@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us), David Kennedy (david.kennedy@adhocteam.us), Erin Flaherty (erin.flaherty@adhocteam.us), 
+- Observers: Heather Justice (heather.justice@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us), David Kennedy (david.kennedy@adhocteam.us),  
 
-> **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+> **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
+
+
+
