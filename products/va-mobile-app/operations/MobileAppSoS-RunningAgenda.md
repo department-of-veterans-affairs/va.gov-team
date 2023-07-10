@@ -22,11 +22,11 @@
 | 2 |[Check-In](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/4315) | Meko | GREEN | BE to start endpoint documentation - get mobile a place to start | FE development | Sept '23 |
 | 3 | Deeplinking | Stacy | GREEN | Engineering and UX Discovery Work | | Aug '23| 
 | Alternate | [Appointment Refinement](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4725) | Meko | GREEN | Design / Content getting a head start on list and detail revie with extra capacity |  | TBD |
-|Q2 Carryover | RX Analytics | Meko | | Engineering adding new events for improved RX reporting | None | July '23 | 
+|Q2 Carryover | RX Analytics | Meko | Yellow - carryover | Engineering adding new events for improved RX reporting | None | July '23 | 
 | | [OKR and MVP Dashboards](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Greta, Ameet, Adam | GREEN | Finalize Appointments dashboard, reasses dashboard priority | Next 3 Dashboard priorities Login, SM, Letters | All Q3|
-| | Mobile App Retention Research and Analysis | Ameet, Adam, Liz, Greta | Green | Veteran recruitment and qual research signup | Veteran qual interviews; Quant analytics | Aug '23 | 
-| | Platform Preparation - Design System | Kelly |  |  | | All Q3 | 
-| Q2 Carryover | [Cancel Message Content Auidt](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2172) |Stacy | GREEN | Content changes, 5 New Action Sheets, Moving from alerts to Action Sheets  | None planned | July '23|
+| | Mobile App Retention Research and Analysis | Ameet, Adam, Liz, Greta | GREEN | Veteran recruitment and qual research signup | Veteran qual interviews; Quant analytics | Aug '23 | 
+| | Platform Preparation - Design System | Kelly | GREEN |  | | All Q3 | 
+| Q2 Carryover | [Cancel Message Content Auidt](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2172) |Stacy | Yellow - carryover | Content changes, 5 New Action Sheets, Moving from alerts to Action Sheets  | None planned | July '23|
 | | [Android SSO Login Update / Custom Tabs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5118) | Stacy | GREEN | QA test plan, Replace android login webview with customer tabs. tech spike for error handling | | July '23 |
 | | [Mobile Bug Maintenance & Discipline Tech Debt](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) |Adam, Tim, Jen | GREEN | 10 bug tickets, BE technical debt, UX tech debt | Continued work managing bug tickets and discipline tech debt | Ongoing | 
 | | General Analytic Request and Needs | Greta, Ameet, Adam | GREEN | Review [Mobile App Promo Banner](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5141) work with Dave 7/18 | | | Ongoing |
