@@ -80,7 +80,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
-### Stage A: Canary (1%)
+### Stage A: Canary (10%)
 
 #### Results
 
@@ -90,7 +90,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage B: 10% of users
+### Stage B: 25% of users
 
 #### Results
 
@@ -100,7 +100,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage C: 25% of users
+### Stage C: 50% of users
 
 #### Results
 
@@ -110,7 +110,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage D: 50% of users
+### Stage D: 100% of users
 
 #### Results
 
@@ -120,25 +120,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage E: 75% of users
 
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage F: 100% of users
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
 ## Post Launch metrics
 
