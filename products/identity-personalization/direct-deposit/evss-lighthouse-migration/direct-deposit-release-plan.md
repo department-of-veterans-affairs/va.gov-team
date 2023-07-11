@@ -2,6 +2,8 @@
 # Release Plan - Direct Deposit Comp & Pen Migration from EVSS to Lighthouse
  [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration#readme)
 
+Last updated: 7/11/2023
+
 ## Table of contents
 
 
@@ -22,8 +24,8 @@ Use cases and testing are documented on [this spreadsheet](https://docs.google.c
 
 
 #### Privacy, Security, Infrastructure Review
-[PSIR Prep](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/95947f796f73c3fc008549338e7adc510495c938/products/identity-personalization/profile/direct_deposit/lighthouse/psir_prep.md)
-[Privacy and Security Ticket](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/1059) 
+- [PSIR Prep](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/95947f796f73c3fc008549338e7adc510495c938/products/identity-personalization/profile/direct_deposit/lighthouse/psir_prep.md)
+- [Privacy and Security Ticket](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/1059) 
 
 ## Step 3: Production rollout
 
