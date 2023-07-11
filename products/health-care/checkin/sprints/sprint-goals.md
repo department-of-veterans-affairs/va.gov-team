@@ -20,14 +20,14 @@ ________________________________________________________________________________
 
 #### SPRINT TICKETS
 - **GOAL: Make submission of a travel reimbursement claim easier**
-   - EPIC: [Travel Reimbursement - MVP (Submit Mileage-OnlyClaim)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)     
+   - **EPIC: [Travel Reimbursement - MVP (Submit Mileage-OnlyClaim)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**     
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Monitor Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43631)
        - Pilot started June 26 and runs through end of July; weekly feedback touchpoints with Wilkes-Barre
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/616901)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61691)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
-        - EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)
+        - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add method to get demographic-confirmations to the Service class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61122)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add method to patch demographic-confirmations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61123)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add method to post authenticated-check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61124)
@@ -36,17 +36,17 @@ ________________________________________________________________________________
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Create a CHIP Endpoint for Patching Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60985)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Add & Deploy Check-in Endpoint on AWS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60993)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - authenticated check-in - reporting](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61034)
-        - EPIC: [Check-in from Mobile App: Phase 2 - Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61745)
+        - **EPIC: [Check-in from Mobile App: Phase 2 - Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61745)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Poster to Include "You're Checked in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61426)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61442)
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
-        - EPIC: [D&D: Unified Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)
+        - **EPIC: [D&D: Unified Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56702)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Break Unified Check-in into Phases](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61689)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update wireframes with confirmation status solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61635)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] Determine if notification card can be read out as more important for AT users](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60867)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Change icon in the manage appts symbol](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/61708)
-        - EPIC: [Unified Check-in: Phase 1 - New Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)
+        - **EPIC: [Unified Check-in: Phase 1 - New Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [SPIKE: Design Implementation for Phase I](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61609)                  
     - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions
         - Pilot starts July 10 with Asheville & Richmond
