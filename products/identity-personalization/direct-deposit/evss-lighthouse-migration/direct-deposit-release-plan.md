@@ -39,7 +39,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 
 #### Planning
 
-- Desired date range or test duration: ~ 8/2-15/2023
+- Desired date range or test duration: ~ 7/19/2023-8/1/2023
 - Desired number of users: [9]
 - How you'll recruit the right production test users: [**Research Plan** to be defined](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60942) 
 - How you'll conduct the testing: [**Conversation Guide** to be defined](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60942) 
