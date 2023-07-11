@@ -88,7 +88,7 @@
    * Past convos talked about using SoS pre-sprint planning meeting to help with sprint planning?
    * This will likely change over time but taking a first stab at is 
        * Reminder that the SoS Board used for Q3 is used for our Sprint Planning prep as work is broken out by various sprints
-       * Review [Sprint 76 SoS board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3) to see if anything 
+       * Review [Sprint 76 SoS board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3) to see what is currently slated
 
 
 ## 6/13/23
