@@ -1,10 +1,19 @@
 
 ### What we want to know about R/VSR performance/processes  
 
-#### Now
 
-|What I want to know|How this will inform our work|Who wants to know|Date|
+
+|What I want to know|How this will inform our work|Date|Paper or Digital|
 |-------------------|----------------------------|-----------------|----|
-|Minimum, maximum and average # of days taken to file a claim month over month|Establish baseline and see if it has changed over time and if so, research why <br>  What time period could be considered abandoned(other than expired ITF)?|Rakshinda|Feb 2023|
+|VSR - form processing time/ development time|TBD |May 2023| Both|
+|# of forms sent back for development a second time by RSVR|TBD |May 2023| Both|
+|# and type of development letters |TBD |May 2023| Both|
+|# of forms expired after ITF|TBD |May 2023| Both|
+|# and type of ancillary forms submitted with 526|TBD |May 2023| Both|
+
+
+
+
+
 
 
