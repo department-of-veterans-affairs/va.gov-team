@@ -42,6 +42,7 @@ ________________________________________________________________________________
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Create a CHIP Endpoint for Patching Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60985)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Add & Deploy Check-in Endpoint on AWS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60993)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - authenticated check-in - reporting](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61034)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - authenticated check-in - error response/failed validation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61033)
         - **EPIC: [Check-in from Mobile App: Phase 2 - New Poster & Pilot](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61745)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Poster to Include "You're Checked in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61426)
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
