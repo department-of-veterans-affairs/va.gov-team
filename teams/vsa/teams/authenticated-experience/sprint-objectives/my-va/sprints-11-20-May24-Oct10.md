@@ -111,7 +111,6 @@ _Samara returns from parental leave!_
 **Alert/Error Updates** 
 - (Design) In anticipation of onsite notification component launch, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
 
-
 **General**
 - E2E and unit test work (cont. as needed/bandwidth allows)
 - Post launch code cleanup of My VA redirect (work was not complete in [#47291](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47291) and had to be reopened)
@@ -155,7 +154,7 @@ _Samara returns from parental leave!_
 **Notification Center**
 - QA prep
 - Finish build
-- Begin thinking about UAT - in the past UAT on anything notification-related has been tricky given that we don't want to alarm veterans by showing them "fake" debt notifications. Does this same concern exist for the NC MVP?
+- Begin thinking about UAT - _in the past UAT on anything notification-related has been tricky given that we don't want to alarm veterans by showing them "fake" debt notifications. Does this same concern exist for the NC MVP?_
 
 ### My VA
 
@@ -188,6 +187,10 @@ _Samara returns from parental leave!_
 - Plan for UAT (convo guide, plan)
 - Staging Review?
 
+**Scaling Onsite Notifications**
+- Design work for RX shipment
+- Submit collab cycle for RX shipment
+
 ### My VA
 
 **Claims status widget - EVSS > Lighthouse**
@@ -204,6 +207,9 @@ _Samara returns from parental leave!_
 **Notification Center**
 - Staging and PSIR reviews
 - Plan for UAT (convo guide, plan)
+
+**Scaling Onsite Notifications**
+- ... 
 
 ### My VA
 
@@ -222,6 +228,10 @@ _Samara returns from parental leave!_
 **Notification Center**
 - ...
 
+**Scaling Onsite Notifications**
+- Design intent
+- Begin FE work? 
+
 ### My VA
 
 **Claims status widget - EVSS > Lighthouse**
@@ -234,4 +244,19 @@ _Samara returns from parental leave!_
 ## Sprint 20 (9/27 - 10/10)
 [#58202](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58202)
 
+### Onsite Notifications
+
+**Notification Center**
+- ...
+
+**Scaling Onsite Notifications**
+- ...
+
+### My VA
+
+**Claims status widget - EVSS > Lighthouse**
+- ...
+
+**General**
+- ...
 
