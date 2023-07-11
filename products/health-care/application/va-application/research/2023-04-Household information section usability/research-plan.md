@@ -60,12 +60,14 @@ These learnings will allow us to evaluate for additional gaps prior to launching
 
 ### Research questions
 **Goal 1: Test the usability of the experimental pattern for adding multiple dependents to the household financial information section.**
-- When arriving at the dependent questions, is there any confusion on who the user should add here? (Who does the VA consider a dependent)
-- Are any of the content/questions unclear or cause the user to pause?
-- Can users easily move through the pages of dependent questions? 
-- Are the questions grouped by topic (one-thing-per-page) as it would make sense to the user?  
-- After adding their first dependent, do users know how to make changes or remove a dependent from the application?
-- Do users comment on the progress bar during this process?
+- When arriving at the dependent questions, is there any confusion on who the participant should add here? (Who does the VA consider a dependent)
+- Are any of the content/questions unclear or cause the participant to pause?
+- Can participant easily move through the pages of dependent questions? 
+- Are the questions grouped by topic (one-thing-per-page) as it would make sense to the participant?  
+- After adding their first dependent, do participants know how to make changes or remove a dependent from the application?
+- Do participants comment on the progress bar during this process?
+- Are participants able to make adjustments to their dependents from the reivew page easily or do they struggle?
+- Do participants seem to be confident when making edits on the review page or hesitant?
 
 
 **Goal 2: Determine if the there are any issues for assistive tech users when they add multiple dependents to the application.**
@@ -75,13 +77,14 @@ These learnings will allow us to evaluate for additional gaps prior to launching
 - Can users easily edit and make changes or is this process a pain point?
 - Do users using screen magnification have any issues with the action button placement on the dependent cards or the confirmation modals?
 - Does the progress bar or other form elements make it more challenging for assistive tech users?
+- Can participants edit from the review page or does this present any challenges?
 
 
 **Goal 3: Determine if the updated content for the household information section is clear and understandable or if any areas of confusion remain.**
-- Do users seem to struggle or question any of the content revisions on the onboarding page?
-- Do users seem frustrated or appreciative of the extra pages with information (onboarding and documents needed)?
-- Do users interact with the additional info components to learn more? Which ones? Do they feel confident or confused after reading that information?
-
+- Do participants seem to struggle or question any of the content revisions on the onboarding page?
+- Do participants seem frustrated or appreciative of the extra pages with information (onboarding and documents needed)?
+- Do participants interact with the additional info components to learn more? Which ones? Do they feel confident or confused after reading that information?
+- Do participants find any questions difficult to understand or seem to need more information to answer?
 
 
 ### Hypothesis
@@ -131,8 +134,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 - At least **3 out of the 10 completed sessions** are with a screen reader
 - At least **4 out of the 10** are mobile users
-- At least **1 out of 10** are currently living abroad
-- At least **1 out of the 10** are of immigrant origin
+- At least **2 out of 10** are currently living abroad or of immigrant origin
   
 
 
@@ -190,12 +192,12 @@ Please request enough dates and at ***least double the amount of time slots for 
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | --------------------- |
 | July 24, 2023    	|  12pm - 6pm ET 	|
-| July 25, 2023		|  12pm - 6pm ET 	|
+| July 25, 2023		|  1pm - 6pm ET 	|
 | July 26, 2023		|  12pm - 6pm ET 	|
 | July 27, 2023		|  12pm - 6pm ET 	|
 | July 28, 2023		|  12pm - 4pm ET 	|
 | July 31, 2023		|  12pm - 6pm ET 	|
-| August 1, 2023	|  12pm - 6pm ET 	|
+| August 1, 2023	|  1pm - 6pm ET 	|
 | August 2, 2023	|  12pm - 6pm ET 	|
 | August 3, 2023	|  12pm - 6pm ET 	|
 | August 4, 2023	|  12pm - 4pm ET 	|
