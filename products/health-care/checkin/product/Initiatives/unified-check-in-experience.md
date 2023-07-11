@@ -29,6 +29,7 @@ The Modernized Check-In Experience Team has received feedback from Veterans and 
 
 ### Key Performance Indicators (KPIs)
 - Favorable VSignals feedback from Veterans who use Pre-Check-in and eCheck-in
+- Increase in the use of Pre-Check-in and Check-in
 
 ## Launch Planning
 
