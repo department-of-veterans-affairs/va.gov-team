@@ -47,7 +47,7 @@ ________________________________________________________________________________
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Change icon in the manage appts symbol](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/61708)
         - **EPIC: [Unified Check-in: Phase 1 - New Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [SPIKE: Design Implementation for Phase I](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61609)                  
-    - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions
+    - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions**
         - Pilot starts July 10 with Asheville & Richmond
     - **Sub Goal: [Create Veteran FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60145)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research][Content] Create Veteran-facing FAQ for Check-in plus Travel Pay](https://github.com/department-of-veterans-affairs/va.gov-team/issues/614767)
