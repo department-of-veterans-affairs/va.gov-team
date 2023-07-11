@@ -25,3 +25,5 @@ The goal is to understand OCTO’s various intake and prioritization decision pr
 * [DE Product Board Prioritization Rubric](https://github.com/department-of-veterans-affairs/digital-experience-products/blob/master/rubric.md)
 * [DE Product Board Rules and Management](https://github.com/department-of-veterans-affairs/digital-experience-products/blob/master/board-rules.md)
 * [DE Product Board Issue Template](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/new?assignees=&labels=&template=product-board.md&title=)
+* [CMS Repo](https://github.com/department-of-veterans-affairs/va.gov-cms#workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board)
+* [CMS/Facilities/Public Websites Repo](https://github.com/department-of-veterans-affairs/vets-website)
