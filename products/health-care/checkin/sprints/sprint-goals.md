@@ -40,7 +40,7 @@ ________________________________________________________________________________
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Poster to Include "You're Checked in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61426)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61442)
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
-        - **EPIC: [D&D: Unified Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
+        - **EPIC: [Unified Check-in: Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56702)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Break Unified Check-in into Phases](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61689)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update wireframes with confirmation status solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61635)
