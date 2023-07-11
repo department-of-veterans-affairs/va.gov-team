@@ -66,7 +66,7 @@ Learn more about how Veterans would like to go about applying, discovering eligi
 
 
 Additional desk research will be conducted to supplement these interviews:
-- Google analytics path and keyword study
+- Google analytics path and keyword study (enter ticket numbers here)
 - VSignals analysis around keywords (TBD)
 
 
@@ -99,10 +99,10 @@ What demographics, experience, and scenarios do you need participants to meet to
 **Screener Questions**
 
 Cohort 1: 
-- Have you visited a VA facility for a medical visit/exam in the past year and **are not/did not enroll** in the health care benefits package? [answer should be yes to qualify.]
+- Have you visited a VA facility for a medical reason (possible examples include for a compensation and pension exam, toxic exposure screening, eligibility assessment or clinical evaluation, mental health care, service connected disability care or emergency care) in the past year and **choose not to enroll** in the health care benefits package? [answer should be yes to qualify.]
 
 Cohort 2:
-- Have you applied within the past 3 years and are now enrolled in health care? [answer should be yes to qualify.]
+- Have you applied within the past 3 years and are now enrolled in health care benefits? [answer should be yes to qualify.]
 
 
 
