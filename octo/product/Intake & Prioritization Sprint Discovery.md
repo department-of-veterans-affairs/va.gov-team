@@ -2,7 +2,15 @@
 The goal is to understand OCTO’s various intake and prioritization decision processes; identify root causes, issues, and opportunities; and make recommendations for improvement - loosely following the USDS Discovery Sprint Guide. https://sprint.usds.gov/
 
 # Team
-** Coming soon** 
+| Team Member   | Role |
+| ------------- | ------------- |
+| Alpa Agarwal  | Sprint Lead  |
+| Robyn Singleton  | Design Lead  |
+| Michelle Middaugh | Sitewide Product Owner |
+| Erika Washburn | Platform/Sitewide Product Owner |
+| Erica Robbins | DE PMO Support |
+| Julia Badillo | DE PMO Support |
+| Dan Kosko | CoP PMO Support|
 
 # Research/Documents/Helpful Links
 * [Discovery Sprint guide](https://sprint.usds.gov/)
