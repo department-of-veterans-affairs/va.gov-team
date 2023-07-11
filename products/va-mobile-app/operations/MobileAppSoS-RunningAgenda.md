@@ -73,7 +73,7 @@
     * [SoS Board in the Sprints Tab](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3) will be the source of truth for Mobile to follow
     * If the POs want to modify the priority then once that change is communicated then the SoS board can be update 
      
- * Question for the POs on any unplanned work that needs reviewed / prioritized? (Adam)
+ * Question for the POs - any unplanned work that needs reviewed / prioritized? (Adam)
    * Web Banner - Meeting with Dave Conlan on 7/18
        * not sure what will come of it but our our scope and work has been completed and shared
    * Design Jam Session on app's home page around notifications
