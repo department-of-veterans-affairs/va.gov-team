@@ -37,7 +37,8 @@ jobs:
         id: ssh_key_invalid
         if: ${{ failure() }}
         shell: bash
-        run: "echo \"::error::You seem to have uploaded an invalid ssh public key: $PUBLIC_KEY\""
+        run: |
+          echo "You seem to have uploaded an invalid ssh public key: $PUBLIC_KEY"
 
   start_workflow:
     runs-on: ubuntu-latest
