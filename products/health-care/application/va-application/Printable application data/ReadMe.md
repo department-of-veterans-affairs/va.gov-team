@@ -6,8 +6,13 @@
 
 - There is also historical data on the 10-10CG application that indicates applicants download the completed application just about every time (and sometimes more than once!)
      - Google Analytics - [Submissions and PDF Form downloads](https://analytics.google.com/analytics/web/#/dashboard/u4Zg-ougQpq-87e5dGIH_w/a50123418w177519031p184624291/_u.date00=20230101&_u.date01=20230630/)
-- Current Screenshot of 10-10CG application - Confirmation screen
-     - ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/1dde92ef-cecf-4973-a338-8436f8c1696e)
+
+<details>
+     <summary>Current Screenshot of 10-10CG application - Confirmation screen (click to expand)</summary>
+     
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/1dde92ef-cecf-4973-a338-8436f8c1696e)
+     
+</details>
 
 ---
 
