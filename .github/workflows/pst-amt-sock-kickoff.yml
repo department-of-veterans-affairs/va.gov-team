@@ -39,6 +39,14 @@ jobs:
         shell: bash
         run: |
           echo "::error:: You seem to have uploaded an invalid ssh public key: $PUBLIC_KEY"
+      - name: Comment issue
+        if: ${{ failure() }}
+        uses: KeisukeYamashita/create-comment@v1
+        with:
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          number: 61366
+          comment: |
+            ::error:: The attached ssh key failed to validate
 
   start_workflow:
     runs-on: ubuntu-latest
