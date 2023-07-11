@@ -15,24 +15,27 @@
 ## Q3 Projects In Progress 
  - Currently in Sprint 75 ( 7/4 - 7/18) 1 of 7 sprints for Q3 
  - 3rd Quarter projects that are currently being worked on by the mobile team
- - Focus will be on non-green items unless there are questions / specific updates 
+ - Focus will be on non-green items unless there are questions / specific updates
+ - Work is listed in PO's priority order based on SoS Sprint Tab
    
-| Priority |Project | PM | Status | Current Sprint Work | Future Sprint Work | Est Completion Timing |
-|-------- | ----------- | ----------- | ----------- |-----------| -------------| ----------|
-| 1 |[EVSS Backend Migration](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/2558) | Kelly | GREEN | Complete Documents API in Vets API; Align policies between EVSS and LH, Integrate with Docs API in vets-API | Turning on Claims Status in Prod, Finish up Direct Deposit migrations, Finish up Decide my claim | Sept '23 | 
-| 2 |[Check-In](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/4315) | Meko | GREEN | BE to start endpoint documentation - get mobile a place to start | FE development | Sept '23 |
-| 3 | Deeplinking | Stacy | GREEN | Engineering and UX Discovery Work | | Aug '23| 
-| Alternate | [Appointment Refinement](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4725) | Meko | GREEN | Design / Content getting a head start on list and detail revie with extra capacity |  | TBD |
-|Q2 Carryover | RX Analytics | Meko | Yellow - carryover | Engineering adding new events for improved RX reporting | None | July '23 | 
-|4 | [OKR and MVP Dashboards](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Adam, Ameet | GREEN | Finalize Appointments dashboard, reasses dashboard priority | Next 3 Dashboard priorities Login, SM, Letters | All Q3|
-|5 | Mobile App Retention Research and Analysis | Adam, Ameet | GREEN | Veteran recruitment and qual research signup; Veteran qual research | Veteran qual interviews ; Quant analytics | Aug '23 | 
-| 6| Platform Preparation - Design System | Kelly, Ameet | GREEN | Designated FE team determined, Met last week and created tickets to focus on | | All Q3 | 
-| Q2 Carryover | [Cancel Message Content Auidt](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2172) |Stacy | Yellow - carryover | Content changes, 5 New Action Sheets, Moving from alerts to Action Sheets  | None planned | July '23|
-| 7| [Android SSO Login Update / Custom Tabs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5118) | Stacy | GREEN | QA test plan, Replace android login webview with customer tabs. tech spike for error handling | | July '23 |
-| 8| [Mobile Bug Maintenance & Discipline Tech Debt](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) |Adam | GREEN | 10 bug tickets, BE technical debt, UX tech debt | Continued work managing bug tickets and discipline tech debt | Ongoing | 
-| 9| General Analytic Request and Needs | Adam, Ameet | GREEN | Review [Mobile App Promo Banner](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5141) work with Dave 7/18 | | | Ongoing |
-| 10| [Detox UI ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Kelly | GREEN | Finish Past Appointments, RX, VA Letters and Docs, Contact Info and Perseonal Info | Next items: Direct Deposit, Veteran Crisis Line, Payments, Settings | All Q3 |
-| 11| Content Management System Sprint 0  |  | GREEN | Content picking this up cause of extra capacity| Present Sprint 0 | July '23 |
+|Project | PM | Status | Current Sprint Work | Future Sprint Work | Est Completion Timing |
+| ----------- | ----------- | ----------- |-----------| -------------| ----------|
+|[EVSS Backend Migration](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/2558) | Kelly | GREEN | Complete Documents API in Vets API; Align policies between EVSS and LH, Integrate with Docs API in vets-API | Turning on Claims Status in Prod, Finish up Direct Deposit migrations, Finish up Decide my claim | Sept '23 | 
+|[Check-In](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/4315) | Meko | GREEN | BE to start endpoint documentation - get mobile a place to start | FE development | Sept '23 |
+| Deeplinking | Stacy | GREEN | Engineering and UX Discovery Work | | Aug '23| 
+| [Appointment Refinement*](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4725) | Meko | GREEN | Design / Content getting a head start on list and detail revie with extra capacity |  | TBD |
+| RX Analytics** | Meko | Yellow - carryover | Engineering adding new events for improved RX reporting | None | July '23 | 
+| [OKR and MVP Dashboards](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Adam, Ameet | GREEN | Finalize Appointments dashboard, reasses dashboard priority | Next 3 Dashboard priorities Login, SM, Letters | All Q3|
+| Mobile App Retention Research and Analysis | Adam, Ameet | GREEN | Veteran recruitment and qual research signup; Veteran qual research | Veteran qual interviews ; Quant analytics | Aug '23 | 
+| Platform Preparation - Design System | Kelly, Ameet | GREEN | Designated FE team determined, Met last week and created tickets to focus on | | All Q3 | 
+| [Cancel Message Content Auidt**](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2172) |Stacy | Yellow - carryover | Content changes, 5 New Action Sheets, Moving from alerts to Action Sheets  | None planned | July '23|
+| [Android SSO Login Update / Custom Tabs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5118) | Stacy | GREEN | QA test plan, Replace android login webview with customer tabs. tech spike for error handling | | July '23 |
+| [Mobile Bug Maintenance & Discipline Tech Debt](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) |Adam | GREEN | 10 bug tickets, BE technical debt, UX tech debt | Continued work managing bug tickets and discipline tech debt | Ongoing | 
+| General Analytic Request and Needs | Adam, Ameet | GREEN | Review [Mobile App Promo Banner](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5141) work with Dave 7/18 | | | Ongoing |
+| [Detox UI ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Kelly | GREEN | Finish Past Appointments, RX, VA Letters and Docs, Contact Info and Perseonal Info | Next items: Direct Deposit, Veteran Crisis Line, Payments, Settings | All Q3 |
+| Content Management System Sprint 0  |  | GREEN | Content picking this up cause of extra capacity| Present Sprint 0 | July '23 |
+* *Alternate Project
+* **Carryover
 
 ## Q3 Projects Planned Not Yet Started
  - 3rd quarter projects planned but have not yet started
