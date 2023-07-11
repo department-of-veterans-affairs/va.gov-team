@@ -224,13 +224,18 @@ There is another medication in your list called Tacrolimus 0.5MG.
 
 _[after the participant has identified the number of refills remaining]_
 
-- What would you do if you wanted to refill the rest of your current prescriptions right now?
-
 _**Multiple refills**_
+
+- What would you do if you wanted to refill the rest of your current prescriptions right now?
 
 _[after they answer – if they state they would select all refill buttons]_
 
 - Would that include Dextroamphetamine and Darbepoetin? Why/Why not?
+
+The prototype doesn't have all of these buttons set up.
+- What would do you expect would happen if you selected all of the buttons?
+- What would you do if you changed your mind and wanted to cancel?
+- Have you ever changed your mind about filling a certain prescription? Why?
 
 _**Supplies**_
 
