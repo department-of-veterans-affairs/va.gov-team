@@ -151,9 +151,6 @@ Veterans don’t see the difference between a Higher Level Review and Board Appe
 
 > I guess, yeah. So I don't know if I would follow under the Higher Level Review or the Board Appeal. -P7
 
-> And then the board takes so long. I had a hearing docket set up, and then the lawyer’s like, well, you’re talking like 6 to 8 years realistically, you know. Just the backlog. And that’s why we switched over the lane with the appeal docket just to add new information to my claim and get it done. -P8
-> 
-
 ### **Finding 4**
 
 Language about ‘contested claims’ within the form lacks clarity, and causes unease and hesitation for Veterans looking to request a Board Appeal.
@@ -179,6 +176,8 @@ Out of the 8 that went through the form, 4 chose to add evidence, 3 chose to do 
 
 > Obviously I have no more evidence. Ooh, keep in mind that is the longest wait because there are currently tens of thousands of pending hearing requests, and that right there deters a lot of stuff. Because it becomes a waiting game, and honestly, it’s a game of attrition, who’s going to wait the longest. -P10
 > 
+
+> And then the board takes so long. I had a hearing docket set up, and then the lawyer’s like, well, you’re talking like 6 to 8 years realistically, you know. Just the backlog. And that’s why we switched over the lane with the appeal docket just to add new information to my claim and get it done. -P8
 
 ### **Finding 6**
 
