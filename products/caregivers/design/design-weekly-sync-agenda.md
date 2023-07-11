@@ -1,5 +1,17 @@
 # Design Weekly Sync Agenda
 
+## 2023-07-10
+
+Attendees: DK, Jessica, Hieu, Alex
+
+**EZR related wireframes and meeting prep (Hieu)**
+
+- We mostly talked through a strategy of how to pitch the EZR-related work in the Profile area of VA.gov.
+
+**EZR related research (Jessica)**
+
+- This mostly feels like it's in good shape after Jessica talked through it. No major feedback or changes.
+
 ## 2023-06-26
 
 Attendees: DK, Jessica, Hieu, Katelyn, Kristen
