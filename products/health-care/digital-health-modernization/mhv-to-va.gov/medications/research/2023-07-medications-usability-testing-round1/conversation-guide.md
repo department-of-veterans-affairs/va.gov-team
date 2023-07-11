@@ -72,6 +72,16 @@ _[If yes]_
 
 How often?
 
+- Do you use any VA mobile apps? Why? Why not?
+
+_[If yes]_
+
+- Which apps do you use?
+- How did you learn about them?
+- Do you ever go into My HealtheVet looking for information the app doesn't supply?
+
+_[if no and after if yes questions]_
+
 - What type of device are you using today?
 
 _[If on Desktop/Laptop/Tablet:] _I am going to have you take over the mouse on my screen. As soon as I get set up, I will give you instructions on what to do.  _[when ready]_ I am going to hand over control in just a second. When I do, you will see a notification pop up on your screen and then you will be able to control my screen. Ready?
@@ -115,9 +125,8 @@ _**Renew**_
 
 Please walk me through how you would refill your Furosemide prescription.
 
-_[when participant states that the prescription is expired]_
+_[when participant states that the prescription is too old to refill]_
 
-- What does "This prescription expired" mean to you?
 - What would you do next?
 
 _[when 'How to renew prescriptions' is on screen]_
@@ -143,7 +152,7 @@ _**Not refillable**_
 
 Please walk me through how you would refill your Tramadol prescription.
 
-- Why do you think this is not refillable?
+- What do you think "We can't access information abou tthis prescription right now" means?
 - What would you do next?
 - What thoughts do you have about the information provided on this card?
 
