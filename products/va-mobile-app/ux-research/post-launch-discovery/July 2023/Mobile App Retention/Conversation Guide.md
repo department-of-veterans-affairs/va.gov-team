@@ -64,6 +64,7 @@ Now we’re going to talk a bit about your experience using VA’s Health & Bene
 
 
 * When did you first download the VA Health & Benefits app?
+* Do you remember how you heard about it?
 * Do you use your fingerprint or face ID to get into the app? 
 * What was your main reason(s) for downloading the mobile app? 
 * What are the things you wanted to be able to do after you downloaded it?
@@ -77,10 +78,10 @@ Now we’re going to talk a bit about your experience using VA’s Health & Bene
 **Thank-You and Closing - 5 min**
 
 
-Is there anything else you wanted to share before we wrap up? \
- \
-We really appreciate you taking the time to share your thoughts with us today.  \
- \
+Is there anything else you wanted to share before we wrap up? 
+ 
+We really appreciate you taking the time to share your thoughts with us today.  
+ 
 Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
 Thank you so much again.
