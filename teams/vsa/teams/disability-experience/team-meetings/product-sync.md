@@ -1,7 +1,28 @@
 # Benefits Disability Experience - Product sync 
 
 ### Date: Jul 5 2023       
-### Participants: 
+### Participants: Rakshinda, Steve, Shannon
+### Topics Covered:
+- Q3 Initiatives prioritization
+   - Review where we are and plan for the workshops
+   - What stakeholders do we need?   
+- Catch-up on Work in Progress
+   - 526ez sync with paper form
+      -  Content for Toxic Exposure - blocked on content from CAIA - CAIA team is short staffed over the summer so there are more delays
+   - Intro page changes
+      - Content for landing pages pending research report share out. Shareout expected this week.
+   - eVSS Migration to Light house
+      - Expecting the work to continue into October/more
+      - Do we want to consider Team 2 picking up some migration work to improve the ETA?   
+   - 4142
+      -  Shannon to review the changes in 526 and other 2 versions before deciding on testing / implementation
+      -  Need to come up with a strategy for forms that are developed/maintained by multiple applications(like 4142)
+   - Issue Management
+      - New process in place for a couple of weeks
+      - Plan a retrospective in the next few weeks 
+      
+### Date: Jul 5 2023       
+### Participants: Rakshinda, Steve, Shannon
 ### Topics Covered:
 - Q3 Initiatives prioritization
    - Ideas - Shannon and Steve
