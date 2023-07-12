@@ -236,7 +236,7 @@ The ambiguous language on the ‘something else’ text field within the disagre
     > And those 2 appointments got rescheduled 6 months. Then it was a year, and it was like 15 months, and at the 12 month point the VA sent me a notice. Hey, there hasn't been any change to your packet in 12 months, so you have to reapply. -P7
     > 
     
-    > A year to make an appeal on the housing, and I didn't get the decision till after the appeal date had ended.
+    > A year to make an appeal on the housing, and I didn't get the decision till after the appeal date had ended. -P5
     > 
 4. Veterans believe that they need to go through the process multiple times, in order to fully complete their appeals. They also believe the process is sequential due to hearsay and experiencing remands, which move their claims from a Board Appeal to a Supplemental Claim.
     
