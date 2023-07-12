@@ -50,12 +50,13 @@ Moderated interview and usability test of Request a Board Appeal form through pr
 
 1. What are the high and low points for Veterans requesting a board appeal?
     1. High points:
-        1. Form is self-explanatory
+        1. Majority of Veterans gave high marks (5/6 out of 6) for form experience. The main reason they quoted was they found the form easy and self-explanatory.
     2. Low points:
-        1. Not being able to identify what’s needed for a Board Appeal request
-        2. Misleading language about contested claim
-        3. Not being able to meet deadline requirements
-        4. Veterans want a place on their form to explain their situation
+        1. The few Veterans that gave lower marks for form experience (4) stated that it was hard to find, and that they wanted to compare it to the paper form to see if they could explain their case.
+        2. Not being able to identify what’s needed for a Board Appeal request
+        3. Misleading language about contested claim
+        4. Not being able to meet deadline requirements
+        5. Veterans want a place on their form to explain their situation
 2. Are Veterans able to submit a fully developed request for a board appeal online form?
     1. What are the areas of friction and pain points that exist within the current form?
         1. Misleading language about contested claim
