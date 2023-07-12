@@ -1,13 +1,16 @@
 # Benefits Disability Experience - Product sync 
 
 ### Date: Jul 5 2023       
-### Participants: Rakshinda, Steve, Shannon
+### Participants: Rakshinda, Steve, Shannon, Austin, Jen
 ### Topics Covered:
 - Update the funnel - expedite across both teams?
    - Looking at discovery to understand the URLs and tags,
    - Designing the new funnel or multiple for BDD and original flow
    - Submiting the ticket to platform team for DOMO dashboard
    - Look at creating the funnels in Google Analytics ourselves - need to check if we have access to do that ourselves
+   - Steve - Talking to Eugene on geting some 526 metrics on Datadog
+     - Sam on Team 2 is also looking at this
+     - Implementation for RUM on the priority board
 - Q3 Initiatives prioritization
    - Review where we are and plan for the workshops
    - What stakeholders do we need?   
