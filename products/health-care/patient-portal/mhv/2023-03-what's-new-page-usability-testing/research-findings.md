@@ -10,7 +10,7 @@ Bob Lewis, bob.lewis@bylight.com
 
 **Jump to:**
 
-Hypotheses and conclusions
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/patient-portal/mhv/2023-03-what's-new-page-usability-testing/research-findings.md#:~:text=feature%20from%20homepage-,Hypotheses%20and%20Conclusions,-Hypothesis%201%3A)
 
 Key findings
 
