@@ -12,13 +12,13 @@ Bob Lewis, bob.lewis@bylight.com
 
 [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/patient-portal/mhv/2023-03-what's-new-page-usability-testing/research-findings.md#:~:text=feature%20from%20homepage-,Hypotheses%20and%20Conclusions,-Hypothesis%201%3A)
 
-Key findings
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/patient-portal/mhv/2023-03-what's-new-page-usability-testing/research-findings.md#:~:text=tag%20would%20disappear.-,Key%20Findings,-Most%20participants%20(15 )
 
-Recommendations
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/patient-portal/mhv/2023-03-what's-new-page-usability-testing/research-findings.md#:~:text=must%20%22unlock%22%20something.-,Recommendations,-What%27s%20New%20links)
 
-Who we talked to
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/patient-portal/mhv/2023-03-what's-new-page-usability-testing/research-findings.md#:~:text=Mobile%20prototype-,Who%20we%20talked%20to,-Recruitment%20criteria)
 
-Further research needed
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/patient-portal/mhv/2023-03-what's-new-page-usability-testing/research-findings.md#:~:text=Underserved%20groups%20we%20haven%27t%20talked%20to)
 
 **Research Goals**
 
@@ -190,7 +190,7 @@ _Labels: PRDT: MHV Legacy, RESRCH: Remote, RESRCH: Usability, VETJNY: Aging, VET
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/patient-portal/mhv/2023-03-notification-center-usability-testing/conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://bylightcorporate.sharepoint.com/:x:/r/sdc/hcd/_layouts/15/Doc.aspx?sourcedoc=%7BD516041C-8D69-4269-BB66-4EB97A73E49E%7D&file=What%27s%20New%20Page%20Usability%20Test%20-%20Verbatim%20Notes.xlsm&action=default&mobileredirect=true)
 
 **Pages and applications used**
 
