@@ -29,12 +29,11 @@ ________________________________________________________________________________
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create Service class with initialization code with api key](https://github.com/department-of-veterans-affairs/va.gov-team/issues/611211)
-            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create Exception class following platform standards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61120)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create Configuration class following platform standards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61119)
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add token method to the Service class to call CHIP token endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61126)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add method to get demographic-confirmations to the Service class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61122)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add method to patch demographic-confirmations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61123)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add method to post authenticated-check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61124)
-            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add token method to the Service class to call CHIP token endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61126)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - GET demographics statuses - setup endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61187)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - GET demographics statuses - fetch and return demographics object](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61192)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - GET demographic statuses - reporting](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61194)
