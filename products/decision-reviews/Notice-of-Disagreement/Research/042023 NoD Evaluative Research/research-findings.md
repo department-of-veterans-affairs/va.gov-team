@@ -53,21 +53,19 @@ Moderated interview and usability test of Request a Board Appeal form through pr
         1. Majority of Veterans gave high marks (5/6 out of 6) for form experience. The main reason they quoted was they found the form easy and self-explanatory.
     2. Low points:
         1. The few Veterans that gave lower marks for form experience (4) stated that it was hard to find, and that they wanted to compare it to the paper form to see if they could explain their case.
-        2. Not being able to identify what’s needed for a Board Appeal request
         3. Misleading language about contested claim
         4. Not being able to meet deadline requirements
-        5. Veterans want a place on their form to explain their situation
+        5. Not being able to explain their reason for appealing on the form
 2. Are Veterans able to submit a fully developed request for a board appeal online form?
     1. What are the areas of friction and pain points that exist within the current form?
         1. Misleading language about contested claim
-        2. Uncertainty about terms used in the Board Appeal
         3. Adverse reaction to the language about wait times for hearings
     2. Are there unique pain points to disabled Veterans, including those using screen readers or ZoomText (magnification)?
         1. Undetermined. A separate accessibility test would be required.
 3. Is the content provided sufficient in helping them progress through the form?
     1. How confident are Veterans in filling out the form and understanding the process after submission?
         1. Veterans are confident that they can complete the form, but they lack confidence in the success of the form.
-        2. Their understanding about the process is that they have to wait.
+        2. Their understanding about the process is that they have to be patient and wait.
 4. How helpful or unhelpful is the current content on VA.gov for Veterans choosing between decision reviews?
     1. What information are Veterans looking for when self-servicing?
         1. Veterans looked at requirements, deadlines, and the time it takes.
