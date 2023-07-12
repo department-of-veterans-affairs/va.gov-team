@@ -1,4 +1,4 @@
-# Research Plan for "registration only" mental model study [Health Enrollment Team, 10-10EZ, June 2023]
+# Research Plan for "registration only" use cases mental model study [Health Enrollment Team, 10-10EZ, August 2023]
 
 ## Background
 The online health care application today processes all applications as enrollment. With regards to regulation § 17.37 Enrollment not required—provision of hospital and outpatient care to veterans which is being called the "registration only" path. This has a mix of eligibility criteria or scenarios for the Veteran to meet and a mix of what type of benefits they would be receiving - ranging from care for one medical need to the "full medical benefits package". 
@@ -99,10 +99,12 @@ What demographics, experience, and scenarios do you need participants to meet to
 **Screener Questions**
 
 Cohort 1: 
-- Have you visited a VA facility for a medical reason (possible examples include for a compensation and pension exam, toxic exposure screening, eligibility assessment or clinical evaluation, mental health care, service connected disability care or emergency care) in the past year and **choose not to enroll** in the health care benefits package? [answer should be yes to qualify.]
+- Have you visited a VA facility for a medical reason in the past year and **choose not to enroll** in the health care benefits package? [answer should be yes to qualify.]
+- Examples of "medical reason" from screener question -- possible examples include for a compensation and pension exam, toxic exposure screening, eligibility assessment or clinical evaluation, mental health care, care only for your service connected disability or emergency care. 
+
 
 Cohort 2:
-- Have you applied within the past 3 years and are now enrolled in health care benefits? [answer should be yes to qualify.]
+- Have you applied within the past 3 years and are currently enrolled in and using your health care benefits? [answer should be yes to qualify.]
 
 
 
