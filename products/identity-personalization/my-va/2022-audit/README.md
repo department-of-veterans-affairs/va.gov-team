@@ -110,7 +110,7 @@ To mitigate each of the problems above, we plan to do the following:
 |Clicks into "Send a secure message to your health care team"|100,893|84,044|107,809|
 |Clicks into "Refill and track your prescriptions"|77,825|60,721|86,540|
 |Clicks into "Manage your VA debt"|25,830|21,243|24,369|
-|Clicks into "Review your payment history"|1,492|203,138|257,159|
+|Clicks into "Review your payment history"|225,791|203,138|257,159|
 
 **KPI: We will see a reduction in searches for terms related to new links added to My VA.**
 
