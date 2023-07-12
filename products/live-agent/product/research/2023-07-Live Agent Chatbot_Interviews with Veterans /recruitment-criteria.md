@@ -24,8 +24,6 @@ Beginning July 13-21, until 3-6 sessions are complete.
 - 45 minute sessions
 
 ## Availability
-- Research range: July 13-21, 2023
-
 Planned dates of research: all times below are in EST
 
 - Thursday, July 13: 10-10:45am; 11:15am-12pm; 12:30-1:15pm; 1:45-2:30pm; 3:00-3:45pm
