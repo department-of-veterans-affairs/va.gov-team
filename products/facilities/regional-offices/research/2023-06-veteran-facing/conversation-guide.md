@@ -242,7 +242,6 @@ Now some time has passed since your visit to the regional office, and you’re s
       - *multiple hour blocks per day*
       - *notes about Thursday closures*
 
-  - When you go, what should you have with you? *[photo ID, DD214]* 
   
 ### Task 9: [VA life insurance--no accordion on page]
 
