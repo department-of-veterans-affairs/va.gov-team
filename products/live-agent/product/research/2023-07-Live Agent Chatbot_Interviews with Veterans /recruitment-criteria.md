@@ -19,6 +19,23 @@ I would like to schedule interviews with 3-6 participants in order to achieve 3-
 ## Timeline
 Beginning July 13-21, until 3-6 sessions are complete.
 
+
+## Length of sessions
+- 45 minute sessions
+
+## Availability
+- Research range: July 13-21, 2023
+
+Planned dates of research: all times below are in EST
+
+- Thursday, July 13: 10-10:45am; 11:15am-12pm; 12:30-1:15pm; 1:45-2:30pm; 3:00-3:45pm
+- Friday, July 14: 10-10:45am; 11:15am-12pm; 12:30-1:15pm; 1:45-2:30pm; 3:00-3:45pm
+- Monday, July 17: 10-10:45am; 11:15am-12 pm; 12:30-1:15pm; 1:45-2:30pm; 3:00-3:45pm
+- Tuesday, July 18: 10-10:45am; 11:15am-12 pm; 12:30-1:15pm; 1:45-2:30pm; 3:00-3:45pm
+- Wednesday, July 19: 10-10:45am; 11:15am-12 pm; 12:30-1:15pm; 1:45-2:30pm; 3:00-3:45pm
+- Thursday, July 20: 10-10:45am; 11:15am-12 pm; 12:30-1:15pm; 1:45-2:30pm; 3:00-3:45pm
+- Friday, July 21: 10-10:45am; 11:15am-12 pm; 12:30-1:15pm; 1:45-2:30pm; 3:00-3:45pm
+
 ## Screener Questions
     -  Do you have a computer, tablet, or smartphone and would be willing to complete a session on one of those devices? (Yes, No)
     -  Does the device have a working microphone? (Yes, No)
