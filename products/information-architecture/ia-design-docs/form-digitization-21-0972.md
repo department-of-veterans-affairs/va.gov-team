@@ -26,8 +26,8 @@
 
 **1) H1 of page - New**
 - URL: www.va.gov/supporting-forms-for-claims/alternate-signer-form-21-0972
-- Breadcrumb: VA.gov home > H1 of supporting forms page > H1 of form page
-- Notes: 
+- Breadcrumb: VA.gov home > Supporting forms for VA claims > H1 of form page
+- Notes: Subsequent pages will add on to the above URL using short and simple labels, i.e. .../introduction/. We can provide further guidance on these additions if needed.
 
 
 ## <a name="nav"></a>Entry points <br>
