@@ -32,7 +32,7 @@
 **1) [Page name] - [Existing/New]**
 - URL:
 - Breadcrumb: VA.gov home > Burials and memorials > Memorial items > Presidential Memorial Certificates > H1 of page 
-- Notes: 
+- Notes: Subsequent pages will add on to the above URL using short and simple labels, i.e. .../introduction/. We can provide further guidance on these additions if needed.
 
 
 ## <a name="nav"></a>Entry points <br>
@@ -52,7 +52,7 @@
 
 Current URL | Redirect to | Notes
 --- | --- | ---
- https://www.cem.va.gov/facts/Presidential_Memorial_Certificates.asp|  | 
+ https://www.cem.va.gov/facts/Presidential_Memorial_Certificates.asp|  | We recommend redirecting this legacy page to the new digitized form on the modernized site, but suggest connecting with the program officer to confirm this change before proceeding with the redirect. 
  
 
 
