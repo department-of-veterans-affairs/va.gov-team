@@ -3,6 +3,7 @@
 #### Edit history
 - 6/29/23 - Edits (JM)
 - 6/30/23 - Updated status (JM)
+- 7/12/23 - Edits (JM)
 
 **Team:** Veteran facing forms team
 
@@ -37,7 +38,7 @@ The form will live under the new parent page for supporting forms. Sitemap has a
 **1) H1 of page - New**
 - URL: www.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847
 - Breadcrumb: VA.gov home > Supporting forms for VA claims > H1 of form page
-- Notes: 
+- Notes: Subsequent pages will add on to the above URL using short and simple labels, i.e. .../introduction/. We can provide further guidance on these additions if needed.
 
 
 ## <a name="nav"></a>Entry points <br>
