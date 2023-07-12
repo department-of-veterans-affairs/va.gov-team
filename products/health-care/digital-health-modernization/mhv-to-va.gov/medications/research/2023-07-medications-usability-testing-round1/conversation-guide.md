@@ -35,7 +35,7 @@ My name is [name]. I'm a usability researcher, and I work as part of a team that
 Your participation in this interview is completely voluntary. You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If for any reason and at any time you would like to stop the session, or do not want to answer a question, that's no problem. Please let me know.
 
 
-Before we start, I want to give you an idea of what this session will be like:
+I want to give you an idea of what this session will be like:
 
 - **This entire session should take about 60 minutes.**  I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.**  We are not testing your ability. We just want to improve these tools to better meet Veterans' needs. I will not be offended by any opinions you express, and I welcome your feedback.
