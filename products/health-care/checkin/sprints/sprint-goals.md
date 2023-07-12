@@ -57,7 +57,7 @@ ________________________________________________________________________________
     - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions**
         - Pilot starts July 10 with Asheville & Richmond
     - **Sub Goal: [Create Veteran FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60145)**
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research][Content] Create Veteran-facing FAQ for Check-in plus Travel Pay](https://github.com/department-of-veterans-affairs/va.gov-team/issues/614767)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research][Content] Create Veteran-facing FAQ for Check-in plus Travel Pay](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/61476)
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60874)    
