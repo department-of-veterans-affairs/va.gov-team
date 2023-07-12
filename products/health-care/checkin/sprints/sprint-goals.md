@@ -24,7 +24,7 @@ ________________________________________________________________________________
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Monitor Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43631)
        - Pilot started June 26 and runs through end of July; weekly feedback touchpoints with Wilkes-Barre
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/616901)
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61691)
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Start - Most likely It continue in the next sprint [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61691)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
