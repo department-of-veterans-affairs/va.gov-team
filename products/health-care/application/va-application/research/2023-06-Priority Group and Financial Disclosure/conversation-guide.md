@@ -73,7 +73,7 @@ Let’s start with a couple warm-up questions.
 - [What pain points or areas of confusion are revealed?]
 
 
-## Second Topic: [Priority Group Awareness] - 5 minutes
+## Second Topic: [Priority Group - Awareness] - 5 minutes
 - Do you know what Priority Group you are in for your health care benefits now?
 - Can you please describe how this was communicated to you and how you understood the impact to you and your benefits?
 - Before you completed enrollment, were you aware of Priority Groups or copays as part of the health care benefits package?
@@ -89,10 +89,9 @@ Let’s start with a couple warm-up questions.
 
 ---
 
-## Third Topic: [Priority Group - SCENARIO] - 10 minutes
-
-- WIREFRAME SCENARIO(s) HERE
-
+## Third Topic: [Priority Group - Future State] - 5 minutes
+- Can you tell me where you would like to be able to access your Priority Group number? Why do you list this place?
+- What type of information is important to you to know about your Priority Group and your health care benefits?
 
 
 
@@ -124,8 +123,6 @@ Let’s start with a couple warm-up questions.
 - What would be an ideal process for you if you needed to make chagnes to you dependents?
 
 
-
-
 ### Things to watch for:
 - [What is the current process and pain points when making updates to post enrollment?]
 - [What type of information is mentioned as what has been or they could see being updated?]
@@ -145,7 +142,7 @@ Let’s start with a couple warm-up questions.
 
 [IF they state the would go to the VA Profile to update this information]
 - Can you explain to me why you went here to update your financial information?
-- Would you expect to be able to see and confirm information?]
+- Would you expect to be able to see and confirm information?
 
 
 
