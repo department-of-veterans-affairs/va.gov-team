@@ -3,6 +3,7 @@
 ### Date: Jul 5 2023       
 ### Participants: Rakshinda, Steve, Shannon
 ### Topics Covered:
+- Update the funnel - expedite across both teams
 - Q3 Initiatives prioritization
    - Review where we are and plan for the workshops
    - What stakeholders do we need?   
