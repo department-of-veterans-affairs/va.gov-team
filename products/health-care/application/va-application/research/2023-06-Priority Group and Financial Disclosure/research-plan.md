@@ -87,8 +87,6 @@ We will use these findings to:
 
 ## Methodology	
 - Semi-structured interviews - appropriate for generative research
-- Low-fi wireframe scenario walkthroughs
-
 
 ### Location
 Remote via Zoom for the interviews
@@ -100,7 +98,6 @@ Remote via Zoom for the interviews
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide.md)
 
-- [Link to Scenario Wireframe](url)
 
 - [Recruitment ticket]
 
