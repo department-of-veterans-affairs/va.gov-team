@@ -164,10 +164,7 @@ Please request enough dates and at ***least double the amount of time slots for 
 | **Team Availability** | **Time (ET)** |
 | --------------------- | ------------- |
 | July , 2023   	|   		|
-| July , 2023   	|   		|
-| July , 2023   	|   		|
-| July , 2023   	|   		|
-| July , 2023   	|   		|
+| August , 2023   	|   		|
 
 
 
