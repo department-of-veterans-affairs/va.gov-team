@@ -23,7 +23,7 @@ This document serves as the start of a voicebot section of the VA.gov content st
 -The voicebot can refer to itself as "voicebot" during instances outside of a user interaction (e.g. "We're working to fix some problems with our voicebot. We're sorry it's not working right now...")
 
 ## Technology considerations and limitations
--Voicebot copy doesn't include dash marks (-) since the voice interface pronounces '-' as a word. Therefore, "post-9/11" becomes "post 9/11," "PACT Act-related benefits" becomes "PACT Act related benefits," etc.
+-Voicebot copy doesn't include dash marks (-) since the voice interface pronounces '-' as a word. Therefore, "post-9/11" becomes "post 9/11," "PACT Act-related benefits" becomes "PACT Act related benefits," etc. Also remove '-' from form names.
 
 ## Plain language
 
