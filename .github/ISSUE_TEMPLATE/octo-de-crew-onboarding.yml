@@ -72,7 +72,6 @@ body:
     - label: "Add to Slack group: @octo-de-platform https://dsva.slack.com/admin/user_groups"
     - label: "Add to Github team: octo-de-platform https://github.com/orgs/department-of-veterans-affairs/teams/octo-de-platform"
     - label: "Post welcome Slack message: #platform-team"
-    - label: "Add to Confluence"
     - label: 'Add to Confluence group "platform-crew-octo-de": https://admin.atlassian.com/s/10f8a514-fd86-4b32-8ba3-c0bfc6969f88/groups/81f1ea1a-fc6d-4b27-aed5-0bb73dd86c02'
     - label: "Update Team Roster: https://vfs.atlassian.net/wiki/spaces/LEAD/overview#OCTO-DE-Leadership (can be seen on https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)"
     - label: "Schedule recurring 1:1"
