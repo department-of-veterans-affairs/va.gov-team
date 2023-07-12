@@ -67,7 +67,7 @@ body:
 - type: checkboxes
   attributes:
     label: Crew Specific - Platform 
-    description: Onboarder
+    description: Onboarder tasks
     options:
     - label: "Add to Slack group: @octo-de-platform https://dsva.slack.com/admin/user_groups"
     - label: "Add to Github team: octo-de-platform https://github.com/orgs/department-of-veterans-affairs/teams/octo-de-platform"
@@ -79,12 +79,8 @@ body:
     - label: "Pagerduty OOB Deploy setup - Admin : https://vfs.atlassian.net/wiki/spaces/ECP/pages/1959165976/Out+of+band+deployment+approval#Admin"
     - label: "Link to Platform team welcome guide: https://vfs.atlassian.net/wiki/spaces/AP/pages/1413808450" 
     - label: "Link to Platform team meetings: https://vfs.atlassian.net/wiki/spaces/AP/pages/2141519911/Platform+Meetings"
-
-    
-    
     - label: "Add to VA GOV DEVOPS Service Now group: https://github.com/department-of-veterans-affairs/CTO/discussions/100"
     - label: "Add to MS Teams / Sharepoint group: https://teams.microsoft.com/l/team/19%3aWKiBsscnhmaeQZivkkji2GkkHwY1RNX0AXrCfiJdkwg1%40thread.tacv2/conversations?groupId=1dc3d637-a996-47c3-a0cb-0562475da049&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf"
-      
 - type: checkboxes
   attributes:
     label: Crew Specific - Platform
