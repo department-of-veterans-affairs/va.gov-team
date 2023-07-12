@@ -89,6 +89,7 @@ We will use these findings to:
 - Semi-structured interviews - appropriate for generative research
 - Low-fi wireframe scenario walkthroughs
 
+
 ### Location
 Remote via Zoom for the interviews
 
@@ -100,7 +101,6 @@ Remote via Zoom for the interviews
 - [Link to conversation guide]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide.md)) 
 
 - [Link to Scenario Wireframe](url)
-
 
 - [Recruitment ticket]
 
@@ -128,9 +128,9 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
-- At least 3 participants are female
-- At least 3 participants with a cognitive disability
-- At least 3 participants over the age of 55
+- At least 2 participants are female
+- At least 2 participants with a cognitive disability
+- At least 2 participants over the age of 55
 - At least 2 participant who are living abroad or immigrant origin
 
 
