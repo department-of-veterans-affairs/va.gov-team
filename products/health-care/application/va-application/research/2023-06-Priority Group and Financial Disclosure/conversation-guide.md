@@ -124,6 +124,8 @@ Let’s start with a couple warm-up questions.
 - What would be an ideal process for you if you needed to make chagnes to you dependents?
 
 
+
+
 ### Things to watch for:
 - [What is the current process and pain points when making updates to post enrollment?]
 - [What type of information is mentioned as what has been or they could see being updated?]
@@ -132,11 +134,18 @@ Let’s start with a couple warm-up questions.
 
 ## Fifth Topic: [EZR Tasks - SCENARIO] - 10 minutes
 
-- WIREFRAME SCENARIO(s) HERE
+- I would like to ask if you are comfortable sharing your screen and walking through a task on VA.gov?
+- [add in screen share convo guide steps here, send link in chat]
+- For this scenario, you received a communication to update your annual income to maintain your copay and travel reimbursment costs as part of your health care benefits.
+- First of all, how would you like to recieve this communication that you need to provide updated financial information?
+- Now, from the VA.gov home page, can you walk me through where you would expect to go to update this information?
+- Please remember to talk aloud about your thought process as you go.
 
 
 
-
+[IF they state the would go to the VA Profile to update this information]
+- Can you explain to me why you went here to update your financial information?
+- Would you expect to be able to see and confirm information?]
 
 
 
