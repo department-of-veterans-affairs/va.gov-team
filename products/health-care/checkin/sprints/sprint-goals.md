@@ -3,7 +3,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 7/12/2023 - 7/25/2023  ------------- FUTURE / TENTATIVE ---------------------------
+## 7/12/2023 - 7/25/2023
 #### SPRINT GOALS
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Submit Mileage-Only Claim during Check-in**
@@ -61,7 +61,7 @@ ________________________________________________________________________________
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57810)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57707)
 
- ------------- END FUTURE / TENTATIVE ---------------------------
+
 
 __________________________________________________________________________________________________________________________________________________________
 
