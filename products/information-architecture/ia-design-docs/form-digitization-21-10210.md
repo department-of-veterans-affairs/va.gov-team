@@ -3,6 +3,7 @@
 #### Edit history
 - 5/16/23 - updated spec (JM)
 - 6/9/23 - edits (JM)
+- 7/12/23 - edits (JM)
 
 **Team:** VA Forms Team
 
@@ -29,9 +30,8 @@ The form will live under the new parent page for supporting forms.
 
 **1) H1 of page - New**
 - URL: www.va.gov/supporting-forms-for-claims/lay-witness-statement-form-21-10210
-- Breadcrumb: VA.gov home > H1 of supporting forms page > H1 of form page
-- Notes: Since the supporting forms page is still in progress, we are using an H1 placeholder until it is established. For the URL, we decided to move forward with "lay witness" as this seemed to be a combination with higher search results while staying true to the H1.
-
+- Breadcrumb: VA.gov home > Supporting forms for VA claims > H1 of form page
+- Notes: Subsequent pages will add on to the above URL using short and simple labels, i.e. .../introduction/. We can provide further guidance on these additions if needed.
 
 
 ## <a name="nav"></a>Entry points <br>
