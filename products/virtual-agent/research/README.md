@@ -3,7 +3,7 @@
 ## 2023 Research
 | Date                 | Activity                 | Description         | Output        |
 | :-------------              | :-------------              |:-------------         |:-------------|
-| **January 2023** | Sign in Support |  x remote, moderated user testing sessions for guidance through the newly implemented Sign in Support feature | no report available yet |
+| **January 2023** | Sign in Support |  12 remote, moderated user testing sessions for guidance through the newly implemented Sign in Support feature | no report available yet |
 | **June 2023** | Prescriptions Entries & Exits and Voice |  5 remote, moderated user testing sessions for guidance through the new Rx Skill, specifically Entry & Exit of the skill and a new voice feature | no report available yet |
 | **July 2023** | OpenAI |  5 remote, moderated user testing sessions for feedback about ongoing OpenAI research | no report available yet |
 
