@@ -69,8 +69,8 @@ body:
     label: Crew Specific - Platform
     description: Onboarding tasks specific to OCTO-DE Platform Crew
     options:
-    - label: "Add to Slack group: @octo-de-platform"
-    - label: "Add to Github group: octo-de-platform"
+    - label: "Add to Slack group: @octo-de-platform https://dsva.slack.com/admin/user_groups"
+    - label: "Add to Github team: octo-de-platform https://github.com/orgs/department-of-veterans-affairs/teams/octo-de-platform"
     - label: "Post welcome Slack message: #platform-team"
     - label: "Register for Platform Orientation: https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D"
     - label: "Add to Confluence"
