@@ -137,7 +137,7 @@ What criteria would strengthen your results?
 ## Timeline
 
 **TBD - DRAFT**
- TBD
+ August 
 
 
 ### Prepare
@@ -151,7 +151,7 @@ What criteria would strengthen your results?
 ### Length of sessions
 * Session length:  < 1 hour
 * Buffer time between sessions: 1 hour
-* Maximum Sessions per day: 3
+* Maximum Sessions per day: 4
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
