@@ -79,6 +79,7 @@ Let’s start with a couple warm-up questions.
 - Before you completed enrollment, were you aware of Priority Groups or copays as part of the health care benefits package?
 - [if yes] Can you tell me more about what you knew before you applied and how you learned that information?
 - Since you have been using your benefits, what have you learned about Priority Groups and the impact it has on you and health care benefits that you wish you knew during the application?
+- How would you describe Priority Groups to somebody new to health care benefits - how it works and what to watch out for?
 
 
 ### Things to watch for:
@@ -91,8 +92,8 @@ Let’s start with a couple warm-up questions.
 
 ## Third Topic: [Priority Group - Future State] - 5 minutes
 - Can you tell me where you would like to be able to access your Priority Group number? Why do you list this place?
-- What type of information is important to you to know about your Priority Group and your health care benefits?
-
+- What type of information is important to you to have access to about your Priority Group and your health care benefits?
+- Is there anything you find confusing about how your Priority Group impacts you today that you wish the VA would provide more clarity on?
 
 
 ### Things to watch for:
@@ -142,7 +143,9 @@ Let’s start with a couple warm-up questions.
 
 [IF they state the would go to the VA Profile to update this information]
 - Can you explain to me why you went here to update your financial information?
-- Would you expect to be able to see and confirm information?
+- Would you expect to be able to see and confirm the current year or previous years' information?
+- How would you want to provide updates if your income changed from what is being displayed to you?
+  
 
 
 
