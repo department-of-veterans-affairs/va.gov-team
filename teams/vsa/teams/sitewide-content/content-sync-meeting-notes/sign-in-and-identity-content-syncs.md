@@ -1,5 +1,16 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**July 13, 2023**
+-
+Attendees: Aliyah, Carl, Ngozi, Sofia, Dawn, Joe, Tinu 
+
+**Notess** 
+- Tinu, a technical writer on the CORE identity team, joined the call.
+- Carl shared updated Login.gov/ID.me reactivation email (on Tuesday). Date to send the email is still TBD. **Action item:** Aliyah to review and provide feedback.
+- Carl to share draft blog post about sign in and verifying accounts - he's aiming to share the draft with his team by next Wednesday.
+- **Verifying your identity on VA.gov page**
+     - Joe started to review questions that their team compiled. Aliyah provided some initial feedback on some of the questions. We'll continue reviewing if there's time next week. Aliyah flagged for Joe and his team that we'll exporrt content to a Word document when we're ready to integrate any questions on the current verifying your identity page.
+
 **July 6, 2023**
 -
 Attendees: Aliyah, Carl, Ngozi, Sofia, Joe, Dawn
@@ -11,7 +22,7 @@ Attendees: Aliyah, Carl, Ngozi, Sofia, Joe, Dawn
 - **Login.gov/ID.me reaction draft email**
     - We discussed whether this email should be the first point of information about accoutn options going away.
     - **Action item:** Dawn will touch base with John and Tom about how to approach this
-    - **Action item:** Carl will make adjustments to email content based on call feedback. He'll remove mentions of the account option and frame as encouraging use of these accoutnu types instead of mentioning that accounts are going away
+    - **Action item:** Carl will make adjustments to email content based on call feedback. He'll remove mentions of the account option and frame as encouraging use of these account types instead of mentioning that accounts are going away
 
 **June 23, 2023**
 -
