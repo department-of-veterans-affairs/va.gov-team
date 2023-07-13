@@ -133,7 +133,7 @@ Let’s start with a couple warm-up questions.
 
 - I would like to ask if you are comfortable sharing your screen and walking through a task on VA.gov?
 - Please be sure to close any personal information, like email, Facebook, etc., before you share your screen.
-  [Share link to VA.gov in chat]
+- [Share link to VA.gov in Zoom chat]
 
 
 - For this scenario, you received a communication to update your annual income to maintain your copay and travel reimbursment costs as part of your health care benefits.
@@ -142,14 +142,12 @@ Let’s start with a couple warm-up questions.
 - How would you like to recieve this communication that you need to provide updated financial information?
 - What would you want to know in this communication about how and why you need to update your financial information?
 
-
 [Where to find]
 - Now, from the VA.gov home page, can you walk me through where you would expect to go to update your annual income?
 - Please remember to talk aloud about your thought process as you go.
 
 
-
-[Global questions for other location answers]
+[Global questions for all location answers]
 - Can you explain to me why you went [here] to update your financial information?
 - Can you walk me through where you would expect to find the ability to update your financial information from here?
 
@@ -160,11 +158,12 @@ Let’s start with a couple warm-up questions.
 - [If no] Or would you rather have me share my screen and a test account with you and we can talk through that together?
 
 - What would you be looking for when you first login to update this information? Something in the sidebar or a notification?
-- Would you think this fits with any of the existing
+- Would you think this fits with any of the existing options or would you expect this to be something new?
 
 [Backup =  which test account to login to if there are concerns or issues with screen sharing after they state they would update this in Profile]
 
 - 
+
 
 ### Things to watch for:
 - [Where does the Veteran initially think to go to access this information? Do they validate hypothesis and go to their profile or do they look in other places to update this information?]
