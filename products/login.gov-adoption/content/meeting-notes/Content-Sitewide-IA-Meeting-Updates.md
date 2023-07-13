@@ -1,12 +1,20 @@
 ## Content Sync
 
-## MHV Comms Working Group July 6, 2023
+## July 6, 2023
+
+## MHV Comms Working Group 
+
+### Attendees: Sofia Kirkman, Carl Dickerson, Dawn Munoz, Aliyah Blackmore, Tinu Awaliyi, Ngozi Abolarin, Joe Niquette
+
+Examined new FAQs for identity verfication here: https://docs.google.com/document/d/1p_BmZsXZEfOY5cCiPOBXQurVuP8LWIr7vXqhemQRQNM/edit
+
+## July 6, 2023
+
+## MHV Comms Working Group 
 
 ### Attendees: Sofia Kirkman, Dawn Munoz
 
-
 ### Notes:
-## July 6, 2023
 FAQS: Bank of questions and answers for presenters on MHV on VA.gov project
 - Use content for other channels
 
