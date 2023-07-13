@@ -54,7 +54,7 @@ You can also call the Defense Health Agency exposure information hotline at 800-
 
 ## Grade level score using Flesh-Kincaid with no prep
 - Before edits: 8.5
-- After edits: 
+- After edits: 10.2
 
 - [ ] Backlog ticket for further review created if needed
 
@@ -62,7 +62,7 @@ You can also call the Defense Health Agency exposure information hotline at 800-
 
 ### Tracking details
 
-- **SME** Name goes here
+- **SME** Paul Shute
 - **Date response received:** 
 
 ### Responses
