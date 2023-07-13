@@ -101,8 +101,8 @@ Moderated interview and usability test of Request a Board Appeal form through pr
 1. There are multiple entry points to the Request a Board Appeal form, but no clear path to it from MyVA, which lowers Veteran confidence in filing themselves.
 2. There is no indicator or clear path back to the in-progress form. The participant had to follow a path to start the form over before seeing their in-progress form.
 3. Veterans don’t see the difference between a Higher Level Review and Board Appeal apart from having different reviewers and the time that it takes to go through each process.
-4. Language about ‘contested claims’ within the form lacks clarity, and causes unease and hesitation for Veterans looking to request a Board Appeal.
-5. Veterans choose a review option based on whether they have evidence to submit, and how long each process takes.
+4. Veterans choose a review option based on whether they have evidence to submit, and how long each process takes.
+5. Language about ‘contested claims’ within the form lacks clarity, and causes unease and hesitation for Veterans looking to request a Board Appeal.
 6. For the few Veterans considering a hearing, they expressed interest in doing it virtually, because of distance reasons.
 7. The ambiguous language on a text field within the disagreement screen created a misconception about the purpose of the field and participant frustration when attempting to use it.
 
@@ -152,18 +152,6 @@ Veterans don’t see the difference between a Higher Level Review and Board Appe
 
 ### **Finding 4**
 
-Language about ‘contested claims’ within the form lacks clarity, and causes unease and hesitation for Veterans looking to request a Board Appeal.
-
-![Screenshot 2023-07-10 at 2 03 59 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/d4aadbdd-da51-4476-a6fd-74b08c09a067)
-
-The definition for contested claims within the deadline page caused Veterans to think it was related to their disability claim, when in reality, a contested claim only occurs if two people try to submit the same claim (which does not happen with disability).
-
-> If I get a favorable claim what other person would be in denial or reduced benefits? -P2
-
-> Contested claims, when a favorable claim decision for one person is resolved in denial. Usually you don't compare 2 people's claims. I don't know if I agree I don't like the way that sentence is worded. -P7
-
-### **Finding 5**
-
 Veterans chose a review option based on whether they had evidence to submit, and how long each process takes.
 
 ![Screenshot 2023-07-10 at 2 09 34 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/4458467c-3e2d-454e-a411-34582a9a6c75)
@@ -177,6 +165,18 @@ Out of the 8 that went through the form, 4 chose to add evidence, 3 chose to do 
 > 
 
 > And then the board takes so long. I had a hearing docket set up, and then the lawyer’s like, well, you’re talking like 6 to 8 years realistically, you know. Just the backlog. And that’s why we switched over the lane with the appeal docket just to add new information to my claim and get it done. -P8
+
+### **Finding 5**
+
+Language about ‘contested claims’ within the form lacks clarity, and causes unease and hesitation for Veterans looking to request a Board Appeal.
+
+![Screenshot 2023-07-10 at 2 03 59 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/d4aadbdd-da51-4476-a6fd-74b08c09a067)
+
+The definition for contested claims within the deadline page caused Veterans to think it was related to their disability claim, when in reality, a contested claim only occurs if two people try to submit the same claim (which does not happen with disability).
+
+> If I get a favorable claim what other person would be in denial or reduced benefits? -P2
+
+> Contested claims, when a favorable claim decision for one person is resolved in denial. Usually you don't compare 2 people's claims. I don't know if I agree I don't like the way that sentence is worded. -P7
 
 ### **Finding 6**
 
