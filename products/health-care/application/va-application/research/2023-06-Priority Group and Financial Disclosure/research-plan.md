@@ -124,12 +124,12 @@ What demographics, experience, and scenarios do you need participants to meet to
 **Screener Question**
 - Have you applied for health care benefits within the past 5 years and are now enrolled and using these benefits? [answer must be yes to qualify for this study]
 
+
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
 - At least 2 participants are female
-- At least 2 participants over the age of 55
-- At least 2 participant who are living abroad or immigrant origin
-- At least 2 participants who 
+- At least 2 participants with a cognitive disability
+- At least 1 participant who are or immigrant origin
 
 
 ## Timeline
