@@ -127,10 +127,10 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
-- At least 2 participants are female
 - At least 2 participants with a cognitive disability
 - At least 1 participant who are or immigrant origin
-- At least 1 participant who identify as Asian 
+- At least 1 participant who identify as Asian
+ 
 
 
 ## Timeline
@@ -157,7 +157,7 @@ What criteria would strengthen your results?
 ### Research sessions
 * Planned dates of research:
 
-July 24 - August 4, 2023
+**July 24 - August 4, 2023**
 
 ### Length of sessions
 * Session length:  < 1 hour
@@ -190,12 +190,12 @@ Please request enough dates and at ***least double the amount of time slots for 
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderators: Jessica Stump (jessica.stump@adhocteam.us), David Kennedy (), Katelyn Caillouet (), Hieu Vo ()
+- Moderators: Jessica Stump (jessica.stump@adhocteam.us), David Kennedy (david.kennedy@adhocteam.us), Katelyn Caillouet (katelyn.caillouet@agile6.com), Hieu Vo (hieu.vo@agile6.com)
 - Research guide writing and task development (usually but not always same as moderator): Moderators
 - Participant recruiting & screening:	Perigean
-- Project point of contact: Jessica Stump (jessica.stump@adhocteam.us)	
+- Project point of contact: Moderators	
 - Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
+- Accessibility specialist (for sessions where support for assistive technology may be needed):
 - Note-takers:	Perigean and 1010 Health Enrollment Team
 - Observers: [link to sign up post on Slack]
 
