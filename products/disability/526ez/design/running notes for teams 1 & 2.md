@@ -5,6 +5,7 @@ Attendees: Nyantee, Kate, Julie, Nichole
 
 Agenda
 - Error message update
+- Submit and Confirmation pages redesign and timeline
 ## 7/6/23
 Attendees: Nyantee, Kate, Julie, Nichole
 
