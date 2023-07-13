@@ -5,9 +5,11 @@ on:
 
 env:
   ISSUE_ID: ${{ github.event.issue.number }}
+  GH_REPO_FOR_ISSUES: department-of-veterans-affairs/va.gov-team
 
 jobs:
   parse_ssh_key:
+    if: contains(github.event.issue.title, 'SOCKS access')
     runs-on: ubuntu-latest
     outputs:
       ssh_key: ${{ fromJSON(steps.parse.outputs.payload)[' Public SSH Key'] }}
@@ -16,18 +18,17 @@ jobs:
         id: parse
         uses: department-of-veterans-affairs/issue-forms-body-parser@main
         with:
-          issue_id: ${{ github.event.inputs.issue_number }}
+          issue_id: ${{ env.ISSUE_ID }}
           repository: ${{ env.GH_REPO_FOR_ISSUES }}
           separator: '###'
           label_marker_start: " "
           label_marker_end: "\n"
   validate_ssh_key:
+    if: contains(github.event.issue.title, 'SOCKS access')
     runs-on: ubuntu-latest
     needs: parse_ssh_key
     env:
       PUBLIC_KEY: "${{ needs.parse_ssh_key.outputs.ssh_key }}"
-    if: |
-      needs.parse_ssh_key.outputs.ssh_key != ''
     steps:
       - name: Run ssh public key validation
         id: fingerprint
@@ -44,7 +45,7 @@ jobs:
         uses: KeisukeYamashita/create-comment@v1
         with:
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
-          number: 61366
+          number: ${{ env.ISSUE_ID }}
           comment: |
             ::error:: The attached ssh key failed to validate
 
