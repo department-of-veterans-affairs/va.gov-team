@@ -30,12 +30,11 @@ ________________________________________________________________________________
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create Service class with initialization code with api key](https://github.com/department-of-veterans-affairs/va.gov-team/issues/611211)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create Configuration class following platform standards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61119)
-            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add token method to the Service class to call CHIP token endpoint](https://github.com/department-of-veterans-affair
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add token method to the Service class to call CHIP token endpoint](https://github.com/department-of-veterans-affair)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add method to patch demographic-confirmations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61123)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - GET demographics statuses - setup endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61187)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - GET demographics statuses - fetch and return demographics object](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61192)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Create a CHIP Endpoint for Patching Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60985)
-
         - **EPIC: [Check-in from Mobile App: Phase 2 - New Poster & Pilot](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61745)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Poster to Include "You're Checked in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61426)
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
