@@ -9,17 +9,21 @@ Agenda
 - TE updates?
 
 NOTES
+
 Error message update
 -    Nyantee will continue to look into this error and provide details by Friday.
--    Nichole will post in Slack to see if Nathan has any code insight into the error message. 
-  Submit and Confirmation pages redesign and timeline
+-    Nichole will post in Slack to see if Nathan has any code insight into the error message.
+
+Submit and Confirmation pages redesign and timeline
 -   This item didn't make it into the roadmap this quarter and will probably be pushed to the next quarter.
 -   Team 1 would like to move forward with research and provide a short-term solution to the issues
 -   Ping Rakshinda for more details about where this would fall on the roadmap
-  TE updates?
+
+TE updates
 -    Nyantee had a conversation with Shannon about continuing the work on TE over 4142.  There is also a discussion about re-testing the changes on the landing page.
 -    There is a hold for the Readout of the 526 Landing Page on Wednesday, July 18 at 4PM EST
--    Julie speak with Shannon and CAIA about TE.  There are a couple of unresolved issues.  All changes are being tracked in Sharepoint. 
+-    Julie speak with Shannon and CAIA about TE.  There are a couple of unresolved issues.  All changes are being tracked in Sharepoint.
+   
 ## 7/6/23
 Attendees: Nyantee, Kate, Julie, Nichole
 
