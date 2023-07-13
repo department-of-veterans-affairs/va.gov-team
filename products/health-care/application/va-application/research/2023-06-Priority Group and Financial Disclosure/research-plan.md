@@ -126,15 +126,15 @@ What demographics, experience, and scenarios do you need participants to meet to
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
 - At least 2 participants are female
-- At least 2 participants with a cognitive disability
 - At least 2 participants over the age of 55
 - At least 2 participant who are living abroad or immigrant origin
+- At least 2 participants who 
 
 
 ## Timeline
 
 **TBD - DRAFT**
- August 
+ TBD August 7 - 11, 2023
 
 
 ### Prepare
@@ -160,8 +160,7 @@ Please request enough dates and at ***least double the amount of time slots for 
 ### Availability
 | **Team Availability** | **Time (ET)** |
 | --------------------- | ------------- |
-| July , 2023   	|   		|
-| August , 2023   	|   		|
+| August 7, 2023   	|   		|
 
 
 
