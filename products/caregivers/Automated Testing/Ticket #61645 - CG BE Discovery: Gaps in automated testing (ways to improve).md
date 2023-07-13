@@ -1,7 +1,7 @@
 # Issue #61645: Discovery For Gaps in Automated Testing/Ways to Improve
 
 ## lib/pdf_fill/forms/va1010cg.rb
-- **Current coverage** - We have test cases that cover the `merge_primary_caregiver_has_health_insurance_helper` method for when `value` is `true`, but not when it’s `false` or something other than true or false.
+- **Current coverage** - We have test cases that cover the `merge_primary_caregiver_has_health_insurance_helper` method for when `value` is `true`, but not when it’s `false` or something other than `true` or `false`.
 
 - **Potential improvement** - We could write unit tests for the `merge_fields` method that expect the `hasHealthInsurance` key to have the correct value for the `@form_data` instance variable.
 ## app/services/form1010cg/service.rb
