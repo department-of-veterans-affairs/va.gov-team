@@ -130,6 +130,7 @@ What criteria would strengthen your results?
 - At least 2 participants are female
 - At least 2 participants with a cognitive disability
 - At least 1 participant who are or immigrant origin
+- At least 1 participant who identify as Asian 
 
 
 ## Timeline
@@ -138,12 +139,25 @@ What criteria would strengthen your results?
 
 
 ### Prepare
+**Pilot 1 - Moderator David Kennedy**
 * Pilot participant email: 
 * Date and time of pilot session: 
+
+
+**Pilot 2 - Moderator Katelyn Caillouet**
+* Pilot participant email: 
+* Date and time of pilot session: 
+
+
+**Pilot 3 - Moderator Hieu Vo**
+* Pilot participant email: 
+* Date and time of pilot session: 
+
 
 ### Research sessions
 * Planned dates of research:
 
+July 24 - August 4, 2023
 
 ### Length of sessions
 * Session length:  < 1 hour
@@ -176,12 +190,13 @@ Please request enough dates and at ***least double the amount of time slots for 
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderators:	
+- Moderators: Jessica Stump (jessica.stump@adhocteam.us), David Kennedy (), Katelyn Caillouet (), Hieu Vo ()
 - Research guide writing and task development (usually but not always same as moderator): Moderators
 - Participant recruiting & screening:	Perigean
-- Project point of contact:	
+- Project point of contact: Jessica Stump (jessica.stump@adhocteam.us)	
 - Participant(s) for pilot test:
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
 - Note-takers:	Perigean and 1010 Health Enrollment Team
-- Observers:	
+- Observers: [link to sign up post on Slack]
+
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
