@@ -274,7 +274,7 @@ If you wanted help applying for life insurance through the VA, where would you g
 
 Suppose that you just switched banks, and you want to tell the VA so that any payments you receive will go to your new bank instead of your old one. Could the Boston Regional Office help you do this?  
 
-- *(Other services > Veteran profile info)*
+- *(Other services > Veteran direct deposit)*
 
 
 ## Post-Task Interview - 10 minutes
