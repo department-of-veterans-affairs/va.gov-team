@@ -134,8 +134,7 @@ What criteria would strengthen your results?
 
 ## Timeline
 
-**TBD - DRAFT**
- TBD August 7 - 11, 2023
+**July 24 - August 4, 2023**
 
 
 ### Prepare
@@ -148,7 +147,7 @@ What criteria would strengthen your results?
 
 ### Length of sessions
 * Session length:  < 1 hour
-* Buffer time between sessions: 1 hour
+* Buffer time between sessions: 1/2 hour
 * Maximum Sessions per day: 4
 
 ### Availability
@@ -159,12 +158,19 @@ Please request enough dates and at ***least double the amount of time slots for 
 
 
 ### Availability
-| **Team Availability** | **Time (ET)** |
-| --------------------- | ------------- |
-| August 7, 2023   	|   		|
 
-
-
+| **Team Availability** | **Time (ET)** 	|
+| --------------------- | --------------------- |
+| July 24, 2023    	|  12pm - 6pm ET 	|
+| July 25, 2023		|  1pm - 6pm ET 	|
+| July 26, 2023		|  12pm - 6pm ET 	|
+| July 27, 2023		|  12pm - 6pm ET 	|
+| July 28, 2023		|  12pm - 4pm ET 	|
+| July 31, 2023		|  12pm - 6pm ET 	|
+| August 1, 2023	|  1pm - 6pm ET 	|
+| August 2, 2023	|  12pm - 6pm ET 	|
+| August 3, 2023	|  12pm - 6pm ET 	|
+| August 4, 2023	|  12pm - 4pm ET 	|
 
 
 
