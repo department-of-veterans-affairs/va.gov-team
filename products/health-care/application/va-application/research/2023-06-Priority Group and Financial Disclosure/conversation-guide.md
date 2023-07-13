@@ -79,7 +79,6 @@ Let’s start with a couple warm-up questions.
 - Before you completed enrollment, were you aware of Priority Groups or copays as part of the health care benefits package?
 - [if yes] Can you tell me more about what you knew before you applied and how you learned that information?
 - Since you have been using your benefits, what have you learned about Priority Groups and the impact it has on you and health care benefits that you wish you knew during the application?
-- How would you describe Priority Groups to somebody new to health care benefits - how it works and what to watch out for?
 
 
 ### Things to watch for:
@@ -91,7 +90,7 @@ Let’s start with a couple warm-up questions.
 ---
 
 ## Third Topic: [Priority Group - Future State] - 5 minutes
-- Can you tell me where you would like to be able to access your Priority Group number? Why do you list this place?
+- Can you tell me where you would like to be able to access your Priority Group number? Why do you list [this] place?
 - What type of information is important to you to have access to about your Priority Group and your health care benefits?
 - Is there anything you find confusing about how your Priority Group impacts you today that you wish the VA would provide more clarity on?
 
@@ -133,33 +132,37 @@ Let’s start with a couple warm-up questions.
 ## Fifth Topic: [EZR Tasks - SCENARIO] - 10 minutes
 
 - I would like to ask if you are comfortable sharing your screen and walking through a task on VA.gov?
-- [add in screen share convo guide steps here, send link in chat]
-- 
+- Please be sure to close any personal information, like email, Facebook, etc., before you share your screen.
+  [Share link to VA.gov in chat]
+
+
 - For this scenario, you received a communication to update your annual income to maintain your copay and travel reimbursment costs as part of your health care benefits.
 
-notification and process
-- how would you like to recieve communication that you need to provide updated financial information?
-- What would you want to learn about to update your financial information?
+[Notification and process]
+- How would you like to recieve this communication that you need to provide updated financial information?
+- What would you want to know in this communication about how and why you need to update your financial information?
 
 
-where to find
+[Where to find]
 - Now, from the VA.gov home page, can you walk me through where you would expect to go to update your annual income?
 - Please remember to talk aloud about your thought process as you go.
 
 
 
-[Global]
-- Can you explain to me why you went here to update your financial information?
-- Would you expect to be able to see and confirm the current year or previous years' information?
-- How would you want to provide updates if your income changed from what is being displayed to you?
+[Global questions for other location answers]
+- Can you explain to me why you went [here] to update your financial information?
+- Can you walk me through where you would expect to find the ability to update your financial information from here?
 
   
 
-[IF they state the would go to the VA Profile or MHV to update this information]
-- Are you comfortable logging in ..... 
-- Can you walk me through where and show me 
+[**IF** they state the would go to the VA Profile to update this information]
+- Are you comfortable logging in to your own VA profile/MHV account? 
+- [If no] Or would you rather have me share my screen and a test account with you and we can talk through that together?
 
-[Backup =  which test account to login to]
+- What would you be looking for when you first login to update this information? Something in the sidebar or a notification?
+- Would you think this fits with any of the existing
+
+[Backup =  which test account to login to if there are concerns or issues with screen sharing after they state they would update this in Profile]
 
 
 
