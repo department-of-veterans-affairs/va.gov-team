@@ -1,7 +1,8 @@
 # Running Notes for Design & Research Teams 1 & 2 (T-Rex & Carbs)
 
 ## 7/13/23
-Attendees:
+Attendees: Nyantee, Kate, Julie, Nichole
+
 Agenda
 - Error message update
 ## 7/6/23
