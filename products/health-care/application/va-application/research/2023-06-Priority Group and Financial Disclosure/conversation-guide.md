@@ -164,6 +164,12 @@ Let’s start with a couple warm-up questions.
 
 [Backup =  which test account to login to if there are concerns or issues with screen sharing after they state they would update this in Profile]
 
+- 
+
+### Things to watch for:
+- [Where does the Veteran initially think to go to access this information? Do they validate hypothesis and go to their profile or do they look in other places to update this information?]
+- [How does the Veteran expect to find this information from the home page or do they mention notifications or other paths as preferred ways to make these updates?]
+- [How does the Veteran want to be communicated to and aware of what they need to do in regards to annual income updates?]
 
 
 ----
