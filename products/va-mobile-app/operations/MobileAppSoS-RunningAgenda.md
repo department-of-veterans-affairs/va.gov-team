@@ -45,6 +45,9 @@
 | Priority |Project | PM | Status | Timing |
 |-------- | ----------- | ----------- | ----------- |-----------| 
 |Planned | [Veteran Status](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Adam |Experiment starting Sprint 77 | Aug '23 |
+|Planned | Finding Medications Research & Analysis | Meko | Sprint 76 - 77 Aug'23| 
+|Planned |RX List and Details Update | Meko | Sprint 80 - 81 Oct '23|
+|Planned | Claims Reimagined Step 1 | Stacy | Sprint 79 Sept '23| 
 |Planned | User Endpoint Update | Stacy | Not Started | Sprint 78 - 81 Oct '23| 
 |Planned | Remote Disaster | Stacy |Not Started  | Sprint 79 - 81 ; carrying over into Q4 |
 |Planned | Travel Reimbursement Step 1 -2 | Adam | Not Started | Sprint 78 -79 Sept '23 |
@@ -69,8 +72,34 @@
 
 ## Notes
 
-## 7/11/23
- * Meko to update project list with Appointment 
+## 7/18/23 Agenda: 
+ * SoS is being used this day for Sprint Planning for Sprin 76
+
+## 7/11/23 Agenda and Meeting Notes 
+ * Q3 Projects in Progress
+    * RX carryover 
+         * Meko verified its tied to the extra events Greta has spoken about, Binny confirmed status an be moved to green 
+    * Cancel Message content audit 
+         * Stacy -continuing to work on this so that we can move from yellow to green before the end of Sprint 75. Asked if Eng had anything further to add, Binny validated that this will be done.
+    * EVSS
+         * Kelly - updated that our team is doing well but are blocked by VA and LH. We are ready with Claims status and are waiting until VA is in Production; Letters is at 95% and will likely be ready for PROD before Claims.
+    * SM Realignement Update 
+         * Project missing from list above - project added back in 
+         * working through staging bug issues ; experienced issue with adding threads to folders / inbox as originally planned ; SM MHV did not support
+         * PO asked Product to coordinate a meeting with Leila Rassi (Octo owner of MHV SM) to review what Mobile is doing for SM 
+    * Appointments 
+         * Meko to update project list with Appointment as they are separate not together 
+         * There are two tickets tied to appointments - CMP, removing the cancel button has been completed and are targeting the August 1 release and we are aligned with the Appts team; Appointments team has been updated. 
+         * The other item is for Audits and that ticket is still in review.
+    * Check-in
+         *  Meko: question for Rachel: on Check-in, it sounds like some of the other teams are splitting the eng team between a couple of projects through August. Kay is managing two of these initiatives
+         *  Rachel had not had a chance to talk to Kay about these and will touch base with her.
+         *  Rachel met with Shane Elliot OCTO for SMS content - sounds like low effort to modify and just needes content from us 
+    * POs would like the Estimated Timelines added to the card on the SoS board - Rachel looks at Kanban first then quarters than Sprint 
+         * Completed 7/13 - comments made on tickets for details 
+             * We have no timelines for alternate projects thus can't provide one so added Alternative Project in project name to differentiate
+             * Used 100% Release field so it appears on the card - not this only depicts work planned for Q3 for that step; if we know work will also be continued into Q4 (Detox UI, Remote Disaster, Travel) the date depicts end of Q3 date of 10/10
+             * Based on history timing will change and PMs will need to update the Epic in the Kanban as they change and also when the ture 100% release happens
 
  *  PO's project priorirt list (Adam)
     * Matt indicated the priority is set in the [SoS Board in the Sprints Tab](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3) as its sorted by Epic
@@ -80,8 +109,31 @@
  * Question for the POs - any unplanned work that needs reviewed / prioritized? (Adam)
    * Web Banner - Meeting with Dave Conlan on 7/18
        * not sure what will come of it but our our scope and work has been completed and shared
+       * Rachel directed to default to no work or very minimal 
+         * believes there are questions tied to the events for their tracking purposes 
+         * PM to provide update to Rachel post meeting  
    * Design Jam Session on app's home page around notifications
        * Is this related to a planned Q3 project or is there possible future work we need to be aware of 
+   * Holly reviewed possible design work to fill unplanned capacity asked for PO approval to proceed with at least ST 
+        * Identified while working on In-App recruitment
+        * Identified that we are out of alignment of Va.gov design library 
+        * recommended some short term work but also added the long term aspect of this is to update the home page (discussed during Nav 2.0 with past PO)
+        * Ryan indicated he wanted to focus on known issues and those that align with future work especially ones that can be measured impact
+            * Ryan indicated he did not think it was urgent to align with Va.gov design library on mobile alerts
+            * Ryan indicated that Jen, Rachel, Ryan have talked about low hanging fruit that is Veteran facing like Labs and Test for Q3
+            * Rachel / Ryan confirmed if the issue is accessibility related then would support pursuing 
+        * Next steps
+            * Jen to lead additional conversations 
+            * Jen to provide Rachel / Ryan with a list of design work and other possible work to consider per PO's request 
+                * Rachel asked if Jen to prioritize based on the following
+                     1.) Focus on areas with the least amount of unknowns
+                     2.) Work that is easy to shuffle in and out 
+    * General awareness - no mobile action - Health Portfolio is working on a Go / No Go for SM update
+         * Phase 0 go / no go targeting next week
+         * This could lead to more questions around SM experience that Rachel will need help with 
+         * Discussion on if we should bump up SM dashboard work - Rachel indicated to keep with current priority for now
+    * Dashboard prioritization - could we align updates with MHV.gov release plan 
+          
      
  * Sprint Planning update (Matt)
    * Team had a sprint planning workshop on 7/10
@@ -93,6 +145,12 @@
    * This will likely change over time but taking a first stab at is 
        * Reminder that the SoS Board used for Q3 is used for our Sprint Planning prep as work is broken out by various sprints
        * Review [Sprint 76 SoS board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3) to see what is currently slated
+   * Reviewed board 
+       * Discussions on if we can pull up work given 76 / 77 PM and BE have extra capacity
+       * This is what is tentatively planned - not that some work may carryover also that some of the sizing is estimates and could change - difficult to say we have extra capacity but could
+       * Jayson indicated user endpoint work can be pulled in early
+       * No action taken
+
 
 
 ## 6/13/23
