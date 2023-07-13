@@ -175,7 +175,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: **July 24 - August 4, 2023**
+* Planned dates of research: **  **
 
 ### Length of sessions
 * Session length: 1 hour
@@ -191,16 +191,8 @@ Please request enough dates and at ***least double the amount of time slots for 
 
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | --------------------- |
-| July 24, 2023    	|  12pm - 6pm ET 	|
-| July 25, 2023		|  1pm - 6pm ET 	|
-| July 26, 2023		|  12pm - 6pm ET 	|
-| July 27, 2023		|  12pm - 6pm ET 	|
-| July 28, 2023		|  12pm - 4pm ET 	|
-| July 31, 2023		|  12pm - 6pm ET 	|
-| August 1, 2023	|  1pm - 6pm ET 	|
-| August 2, 2023	|  12pm - 6pm ET 	|
-| August 3, 2023	|  12pm - 6pm ET 	|
-| August 4, 2023	|  12pm - 4pm ET 	|
+| TBD  	|  12pm - 6pm ET 	|
+
 
 
 
