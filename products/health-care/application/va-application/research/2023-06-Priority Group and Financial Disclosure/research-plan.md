@@ -83,7 +83,8 @@ We will use these findings to:
 - We assume that Veterans want more information about Priority Groups and transparency about how that impacts their eligibility and benefits.
 - We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and other claims filed in between that could impact their enrollment and Priority Group placement. 
 - We assume there is a desire from Veterans for the Priority Group placement to be more clear as it pertains to benefits, copays, costs and travel reimubrusement
-- We assume that Veterans would like to update their financial information online if it was available but need a clear way to be communicated to or notified that they have to do so. 
+- We assume that Veterans would like to update their financial information online if it was available but need a clear way to be communicated to or notified that they have to do so.
+- We think that Veterans will go to the VA profile to update personal information like financial updates annually.
 
 ## Methodology	
 - Semi-structured interviews - appropriate for generative research
