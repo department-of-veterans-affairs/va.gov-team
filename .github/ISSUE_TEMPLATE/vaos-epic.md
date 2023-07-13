@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+### **[Note:]** _Delete below if this template will be a Feature_ 
+
 **Objective:** _Enter the details_
 
 _List out the initiatives and planned release date for tracking purposes_
@@ -19,6 +21,9 @@ _List out the initiatives and planned release date for tracking purposes_
 | Initiative [Link to feature epic]() | Month Year  |   | 
 
 
+--- 
+### **[Note:]** _Delete below if this template will be an Epic_ 
+
 ### Product Checklist 
 <details>
   <summary>Toggle Product Checklist</summary>
@@ -28,7 +33,7 @@ _List out the initiatives and planned release date for tracking purposes_
 - [ ] Release Plan
 - [ ] Update product guide
 
-### VSP Collaboration Cycle 
+### VSP Collaboration Cycle
 - [ ] Project Kickoff
 - [ ] Design Intent
 - [ ] Midpoint Review
@@ -43,12 +48,13 @@ _List out the initiatives and planned release date for tracking purposes_
 
 ## Design
 - [ ] Review problem/opportunity statement
-- [ ] Add questions and assumptions to initiative brief
-- [ ] Add research links to initiative brief
-- [ ] Note any related icebox tickets
+- [ ]  Add questions and assumptions to initiative brief
+- [ ]  Add research links to initiative brief
+- [ ]  Note any related icebox tickets
 - [ ] Review VAOS OKRs
-- [ ] Review OCTO goals
+- [ ]  Review OCTO goals
 - [ ] Document high-level research/design plans
+
 </details>
 
 ### Engineering Checklist 
@@ -56,9 +62,23 @@ _List out the initiatives and planned release date for tracking purposes_
   <summary>Toggle Engineering Checklist</summary>
 
 ### Engineering 
-- [ ] Project Description.
-- [ ] Are UI designs/ specs available/ready? If yes, attach specs. (We are assuming the design specs have been approved by the accessibility team if they're ready)
-- [ ] Are there any deadlines that need to be met?
-- [ ] What is the roll out plan? (Do we need a feature toggle? is this going to be available to every user immediately or do we want to roll out to a few users first)
-- [ ] Does this project require api integration? if yes, what api endpoint are we integrating with and what is the expected response body?
-- [ ]  Do we want to capture analytics for this projects (i.e. update GA, add logs to grafana/datadog etc)?If yes, what metrics would we like to capture?
+- [ ] Review design specs
+- [ ] Add unit test coverage
+- [ ] Add E2E test coverage
+- [ ] Update Rspec
+- [ ] Update swagger
+- [ ] Document business logic changes
+
+</details>
+
+### QA Checklist 
+<details>
+  <summary>Toggle QA Checklist</summary>
+
+### QA (for collab cycle) - ** please delete if not applicable ** 
+- [ ] Regression test plan
+- [ ] Test plan
+- [ ] [Coverage for References
+- [ ] [Summary(Defects)
+- [ ] E2E tests
+- [ ] Code coverage
