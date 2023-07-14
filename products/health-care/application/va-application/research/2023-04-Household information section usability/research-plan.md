@@ -129,7 +129,7 @@ Veterans: completed 10; requested 15
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
 - All must have a disability rating of 40% or below 
-- All must currently or in the past claimed dependents (on their tax returns?)
+- All must currently or in the past claimed dependents (on their tax returns)
 
 
 - At least **3 out of the 10 completed sessions** are with a screen reader
@@ -175,7 +175,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: **  **
+* Planned dates of research: **August 24 - September 1, 2023**
 
 ### Length of sessions
 * Session length: 1 hour
@@ -191,7 +191,13 @@ Please request enough dates and at ***least double the amount of time slots for 
 
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | --------------------- |
-| TBD  	|  12pm - 6pm ET 	|
+| August 24, 2023  	|  12pm - 6pm ET 	|
+| August 25, 2023  	|  12pm - 4pm ET 	|
+| August 28, 2023  	|  12pm - 6pm ET 	|
+| August 29, 2023  	|  12pm - 6pm ET 	|
+| August 30, 2023  	|  12pm - 6pm ET 	|
+| August 31, 2023  	|  12pm - 6pm ET 	|
+| September 1, 2023  	|  12pm - 6pm ET 	|
 
 
 
