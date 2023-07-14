@@ -150,6 +150,8 @@ Let’s start with a couple warm-up questions.
 [Global questions for all location answers]
 - Can you explain to me why you went [here] to update your financial information?
 - Can you walk me through where you would expect to find the ability to update your financial information from here?
+- What would you be looking for when you first login to update this information? Something in the sidebar or a notification?
+- Would you think this fits with any of the existing options or would you expect this to be something new?
 
   
 
@@ -157,10 +159,8 @@ Let’s start with a couple warm-up questions.
 - Are you comfortable logging in to your own VA profile/MHV account? 
 - [If no] Or would you rather have me share my screen and a test account with you and we can talk through that together?
 
-- What would you be looking for when you first login to update this information? Something in the sidebar or a notification?
-- Would you think this fits with any of the existing options or would you expect this to be something new?
 
-[Backup =  which test account to login to if there are concerns or issues with screen sharing after they state they would update this in Profile]
+[Backup =  which test account to login to if there are concerns or issues with screen sharing after they state they would update this in Profile?]
 
 - 
 
