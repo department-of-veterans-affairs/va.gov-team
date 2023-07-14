@@ -48,7 +48,7 @@ See test cases above
 ### Adverse Findings Summary
 | Test case No. |    Finding       | Device  | Operating System | Browser | Reporter | Resolution Ticket(s)| Status |
 |---------------|------------------|---------|-----------------|---------|---------|---------------------|--------|
-| 6 | The error messaging was incorrectly returning from LH. More expansive details can be found in the resolution ticket | Desktop | Windows | Chrome | Travis | [#61252](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61252) |
+| 6 | The error messaging was incorrectly returning from LH. More expansive details can be found in the resolution ticket | Desktop | Windows | Chrome | Travis | [#61252](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61252) | Complete/Resolved | 
 
 
 ## Staging Review Prep 
