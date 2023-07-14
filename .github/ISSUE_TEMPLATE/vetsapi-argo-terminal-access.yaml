@@ -103,6 +103,7 @@ body:
       description: If you have not submitted your survey, do not submit this ticket. Ask your Vendor Onboarding Representative to confirm
       options:
         - label: I have attached proof that I have either transmitted my E-QIP survey or previously received a favorable decision (by including in "Additional Notes" section below)
+          required: true
   - type: checkboxes
     attributes:
       label: ArgoCD terminal access requested for the following environments
