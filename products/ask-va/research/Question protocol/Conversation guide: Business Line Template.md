@@ -7,6 +7,7 @@ Last updated by @tygindraux: June 28, 2023
 
 Our goal is to **understand which fields are necessary in order for agents to deliver Ask VA (AVA)**. These are our research questions:
 
+* How do agents answer an inquiry (step-by-step)?
 * Who uses the answers to each question in this form?
 * What do they use the answers to each question for?
 * Which fields are required in order to answer a query?
@@ -52,6 +53,7 @@ Thanks for joining. Today is a chance for us to learn more about how Ask VA work
 I'd like to start by learning about the type of inquiries you're responsible for.
 
 * Which types of inquiries does your team answer?
+* Can you walk us through the process of how an agent answers an inquiry (step-by-step)?
 * What makes it easier to answer an inquiry?
 * What makes it difficult?
    * What makes it take longer to answer a particular inquiry?
