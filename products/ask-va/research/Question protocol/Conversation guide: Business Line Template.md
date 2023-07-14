@@ -45,7 +45,11 @@ Our goal is to **understand which fields are necessary in order for agents to de
 
 Thanks for joining. Today is a chance for us to learn more about how Ask VA works. In particular, we'd like to understand how agents use the details in each inquiry to reply to a submitter. Understanding your process will help us improve AVA.
 
-* Before we start, can everyone on your team introduce themselves? If you can share your name and your role, please.
+* Before we start, I'd like to record this meeting for our notes. Is everyone okay with us recording? Please raise your hand if not, or feel free to turn off your camera.
+
+> Start recording.
+
+* Thank you. I'd like to start by asking everyone on your team introduce themselves? If you can share your name and your role, please.
     * *Note: If the invite list is over 5 people from their team, we should skip this.*
 
 ## Background - 15 minutes
