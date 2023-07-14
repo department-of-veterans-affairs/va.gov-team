@@ -1,6 +1,6 @@
 
 ## QA Artifacts - EVSS > Lighthouse Direct Deposit - Comp&Pen 
-Last updated: 6/30/2023
+Last updated: 7/14/2023
 
 [Migration Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51900)
 
