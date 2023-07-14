@@ -6,8 +6,10 @@ Attendees: Aliyah, Carl, Ngozi, Sofia, Dawn, Joe, Tinu
 
 **Notess** 
 - Tinu, a technical writer on the CORE identity team, joined the call.
-- Carl shared updated Login.gov/ID.me reactivation email (on Tuesday). Date to send the email is still TBD. **Action item:** Aliyah to review and provide feedback.
+- Carl shared updated Login.gov/ID.me reactivation email (on Tuesday). Carl confirmed later in afternooon that date to send the email is 7/20. **Action item:** Aliyah to review and provide feedback (**DONE** - Aliyah provided feedback in ticket)
 - Carl to share draft blog post about sign in and verifying accounts - he's aiming to share the draft with his team by next Wednesday.
+- Later in afternoon, Carl and team shared on identity comms call that they sent out a test A email on 7/11. I asked that Carl share the content with us, since we weren't previsouly aware of this email being sent out on this date. They'll still send out the Test B email that we did review, on 7/20.
+- Also on identity comms call, Carl and team mentioned that they're working on a comms plan that'll track the content across various phases of the transition. We'll plan to discuss this further.
 - **Verifying your identity on VA.gov page**
      - Joe started to review questions that their team compiled. Aliyah provided some initial feedback on some of the questions. We'll continue reviewing if there's time next week. Aliyah flagged for Joe and his team that we'll exporrt content to a Word document when we're ready to integrate any questions on the current verifying your identity page.
 
@@ -20,7 +22,7 @@ Attendees: Aliyah, Carl, Ngozi, Sofia, Joe, Dawn
      - We finsihed reviewing this page. We'll likely move forward with redirecting users to partner pages for some of the questions, given the information may change on the partner side.
      - Joe and team to create a list of any questions that need to be added to the page, based on pain points they've seen/heard. Their team will look at the page on VA.gov and Aliyah requested that they provide a word document with a list of additonal questions.
 - **Login.gov/ID.me reaction draft email**
-    - We discussed whether this email should be the first point of information about accoutn options going away.
+    - We discussed whether this email should be the first point of information about account options going away.
     - **Action item:** Dawn will touch base with John and Tom about how to approach this
     - **Action item:** Carl will make adjustments to email content based on call feedback. He'll remove mentions of the account option and frame as encouraging use of these account types instead of mentioning that accounts are going away
 
