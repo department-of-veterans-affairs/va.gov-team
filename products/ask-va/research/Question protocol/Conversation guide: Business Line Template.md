@@ -1,7 +1,7 @@
 # Conversation Guide: BUSINESS LINE TEMPLATE
 *Ask VA, June 2023*
 
-Last updated by @tygindraux: June 28, 2023
+Last updated by @tygindraux: July 14, 2023
 
 ## Research goal
 
