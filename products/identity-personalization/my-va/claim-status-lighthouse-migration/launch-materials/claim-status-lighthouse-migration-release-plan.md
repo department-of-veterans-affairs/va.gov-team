@@ -21,11 +21,9 @@ Not applicable - team conducted internal testing.
 **Phased rollout:** 
 |Launch % |Time Frame | Planned Date Range | Ticket | 
 |-------|-----------|-----------|------|
-| Launch to 1% | 1 week | week of mm/dd/yyyy |[#61317](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61317)  |
 | Launch to 10% | 1 week | week of mm/dd/yyyy |[#61318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61318) |
 | Launch to 25% | 1 week | week of mm/dd/yyyy | [#61319](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61319)  |
 | Launch to 50% | 1 week | week of mm/dd/yyyy | [#61320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61320) |
-| Launch to 75% | 1 week | week of mm/dd/yyyy | [#61321](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61321) |
 | Launch to 100% | 1 week | week of mm/dd/yyyy | [#61322](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61322)  |
 
 
