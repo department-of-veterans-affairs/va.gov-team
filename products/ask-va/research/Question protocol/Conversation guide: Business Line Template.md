@@ -3,7 +3,7 @@
 
 Last updated by @tygindraux: June 28, 2023
 
-## Background
+## Research goal
 
 Our goal is to **understand which fields are necessary in order for agents to deliver Ask VA (AVA)**. These are our research questions:
 
