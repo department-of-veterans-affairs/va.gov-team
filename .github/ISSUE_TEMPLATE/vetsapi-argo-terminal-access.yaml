@@ -8,7 +8,7 @@ body:
       value: |
         :warning: **_Prerequisites_**
         1. Before being granted access, the individual for whom access is requested (the "target individual") must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started their [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)
-        1. The target individual MUST be able to provide proof that E-QIP questionaire has either been transmitted or been adjudicated with a favorable decision. You'll be required to submit proof below. If you have not started your E-QIP process, do NOT submit this ticket. Ask your Vendor Onboarding Representative to confirm (listed below in a dropdown).
+        1. The target individual MUST be able to provide proof that their E-QIP questionaire has either been transmitted or been adjudicated with a favorable decision. You'll be required to submit proof below. If you have not started your E-QIP process, do NOT submit this ticket. Ask your Vendor Onboarding Representative to confirm (listed below in a dropdown).
         -
         :wave: **_Instructions_**
         1. Change the **Title** to include target individual
@@ -99,7 +99,7 @@ body:
         - label: "[Platform Team Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)"
   - type: checkboxes
     attributes:
-      label: Please confirm E-QIP Transmittal/Adjudication. This could be a screenshot of your Transmittal/Adjudication email, a link to another request where you've submitted this proof, etc.
+      label: Please confirm E-QIP Transmittal/Adjudication. This could be a screenshot of your Transmittal/Adjudication email, a link to another request where you've submitted this proof (i.e. AWS/SOCKS), etc.
       description: If you have not submitted your survey, do not submit this ticket. Ask your Vendor Onboarding Representative to confirm
       options:
         - label: I have attached proof that I have either transmitted my E-QIP survey or previously received a favorable decision (by including in "Additional Notes" section below)
