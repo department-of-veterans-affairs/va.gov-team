@@ -1,8 +1,6 @@
 # VA.gov Onsite Notification Inventory
 _Last updated: July 14, 2023 - first published_
 
-#### Additional Resources
-- 
 
 | Onsite Notification Name/Description | Design |	Status with VA Notify	| Supporting SME Team/POCs |	Auth Experience Status | Additional Notes |
 |--------------------------------------|---------|------------------------|--------------------------|-------------------------|-------|
