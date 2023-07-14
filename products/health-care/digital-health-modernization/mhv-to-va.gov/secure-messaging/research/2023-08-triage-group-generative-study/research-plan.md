@@ -65,7 +65,7 @@ Data collection will be remote. We will use Zoom.
 
 ## **Research materials**
 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study)
 - [Link to prototype](https://xd.adobe.com/view/d19917b2-6bdd-446d-a088-727dee6bf4d1-84ca/?fullscreen)
 - [Link to cardsort](https://dj540s05.optimalworkshop.com/optimalsort/xqn1jju5)
 
