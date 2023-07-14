@@ -77,7 +77,7 @@ end
 ## Execution Details
 | Run Date | Starting ID | Ending ID | Approximate Time Range |
 | --- | --- | --- | --- |
-| 2023-07-14 | 1676600 | | 6 months (2023-02-13 to 2023-07-14) |
+| 2023-07-14 | 1676600 | 2055980 | 6 months (2023-02-13 to 2023-07-14) |
 
 <details>
   <summary>2023-07-14: 6 month check</summary>
