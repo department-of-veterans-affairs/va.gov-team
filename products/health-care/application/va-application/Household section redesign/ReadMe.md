@@ -120,9 +120,9 @@ Data source - Call Center team/TBD
      - [x] Research
      - [x] Midpoint
      - [ ] Contact Center guide
-     - [ ] Analytics
-     - [ ] Staging
-     - [ ] Privacy & Security
+     - [N/A] Analytics
+     - [x] Staging
+     - [x] Privacy & Security
 
 ### Incident Response info
 - The 1010EZ form is currently in production; we are only changing the content and flow of the application's questions.  The information being sent after submission to the Enrollment System remains unchanged.
@@ -165,9 +165,8 @@ Data source - Call Center team/TBD
 - Dec 2022: Usability testing kickoff
 - June 2023: Finalize designs, development
 - June 2023: Complete QA
-- July 2023: Complete UAT
 - July 2023: Launched to ???% of users
-
+- Aug 2023: Complete UAT
 
 ---
    
