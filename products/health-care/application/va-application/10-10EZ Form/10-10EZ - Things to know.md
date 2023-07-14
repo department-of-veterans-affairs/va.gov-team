@@ -50,7 +50,7 @@ Systems used by Application Processing teams
      - Jennifer Mdoe is the new contact
  
 - WSDL file for Enrollment System from Joshua Faulkner
-     - [EE Summary WSDL](https://ves.va.gov/esr-ws/spring-ws/getEESummary/eeSummary.wsdl)https://ves.va.gov/esr-ws/spring-ws/getEESummary/eeSummary.wsdl)
+     - [EE Summary WSDL](https://ves.va.gov/esr-ws/spring-ws/getEESummary/eeSummary.wsdl)
  
 
 
