@@ -1,5 +1,13 @@
 # Design Weekly Sync Agenda
 
+## 2023-07-17
+
+Attendees: TBD
+
+**Date Input vs. Memorable Date**
+
+- Katelyn to review desk research on these components and lead discussion with designers about direction
+
 ## 2023-07-10
 
 Attendees: DK, Jessica, Hieu, Alex
