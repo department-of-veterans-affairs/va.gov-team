@@ -1,35 +1,45 @@
 # Initiative Brief - Unified Check-in Experience
 
 ## Overview
+
+This initiative comprises a number of enhancements to the online check-in applications. These enhancements aim to reduce the confusion among Veterans and staff of the difference between and purpose for the pre-Check-in and check-in workflows. These enhancements consist of a number of planned releases, each of which will help to solve this problem. All enhancements may not necessarily be needed to achieve the desired outcome, which is to increase the use of the online check-in applications. The team will monitor feedback after each release and work with our VA Product Owner to determine when our objective has been achieved.
  
 ## Outcome Summary
-Veterans will have a better understanding of the tasks they need to complete for a health appointment.
+Veterans will have a better understanding of the tasks they need to complete before a health appointment and the differences between the two online check-in applications will become irrelevant.
 
 ## Problem
-The Modernized Check-In Experience Team has received feedback from Veterans and staff that PCI is too complicated. Specifically, the feedback includes:
-- Veterans and staff don’t understand the difference between pre-check-in and check-in.
+The Modernized Check-In Experience Team has received feedback from Veterans and staff that PCI is confusing. Specifically, the feedback includes:
+- Veterans and staff don’t understand the difference between pre-check-in and check-in workflows.
 - Many Veterans use the pre-check-in link that was texted to them to initiate check-in on the day of their appointment, which does not actually allow them to check in.
 - Some Veterans skip checking in altogether when they arrive at the clinic because they think they’re checked in as a result of completing the pre-check-in process, which in fact does not initiate or complete the online check in process. 
 
 ## Desired User Outcomes
-- Veterans have a better understanding of the pre-check-in and check-in tasks
-- Veterans are able to complete their task(s) regardless of what link they use
+- Veterans understand which tasks they should complete before each health appointment.
+- Veterans understand when they have completed a task.
+- Veterans don't need to keep track of which link is associated with which task.
+- Staff spend less time helping Veterans using the online check-in applications.
 
 ## Undesired User Outcomes
-- Veterans are most confused by pre-check-in and check-in
-- Veterans are more frustrated with the pre-check-in and check-in process
+- Veterans are more confused by the online check-in applications.
+- Veterans are more frustrated with the online check-in applications.
+- Staff spend more time helping Veterans using the online check-in applications.
 
 ## Desired Business Outcomes
-- Increased usage of pre-check-in and check-in
+- Increased usage of the online check-in applications.
+- Decreased negative feedback related to using the online check-in applications.
+- Less time spent by staff helping Veterans using the online check-in applications.
 
 ## Undesired Business Outcomes
-- Decreased usage of pre-check-in and check-in
+- Decreased usage of the online check-in applications.
+- Increased negative feedback related to using the online check-in applications.
+- More time spent by staff helping Veterans using the online check-in applications.
 
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-- Favorable VSignals feedback from Veterans who use Pre-Check-in and eCheck-in
-- Increase in the use of Pre-Check-in and Check-in
+- Favorable VSignals feedback from Veterans who use the online check-in applications.
+- Decreased negative feedback related to using the online check-in applications.
+- Increase in the use of the online check-in applications.
 
 ## Launch Planning
 
