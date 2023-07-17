@@ -39,7 +39,7 @@ jobs:
         if: ${{ failure() }}
         shell: bash
         run: |
-          echo ":error: You seem to have uploaded an invalid ssh public key: $PUBLIC_KEY"
+          echo "::error:: You seem to have uploaded an invalid ssh public key: $PUBLIC_KEY"
       - name: Comment issue
         if: ${{ failure() }}
         uses: KeisukeYamashita/create-comment@v1
@@ -47,7 +47,7 @@ jobs:
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
           number: ${{ env.ISSUE_ID }}
           comment: |
-            :error: The attached ssh key failed to validate
+            :x: The attached ssh key failed to validate
 
   start_workflow:
     runs-on: ubuntu-latest
