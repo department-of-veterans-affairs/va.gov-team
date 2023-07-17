@@ -41,9 +41,9 @@ No Epic
 *   Use lightweight library like https://atomiks.github.io/tippyjs/ for hover modals for logging information, alternatively we could use a heavier framework like Bootstrap (https://getbootstrap.com/ ).
 *   If all the endpoints for a particular upstream service are all the same color, then that upstream service node will inherit that color.
 *   Color can be determined as follows:
-*   Green - Within the last 20 minutes (can change to whatever time we see fit), all tests on this endpoint get expected responses (right now we have every GET endpoint being tested once every few minutes in staging)
-*   Yellow - Within the last 20 minutes, a non-zero number of tests on an endpoint failed but some succeed
-*   Red - Within the last 20 minutes, all tests on an endpoint failed
+  *   Green - Within the last 20 minutes (can change to whatever time we see fit), all tests on this endpoint get expected responses (right now we have every GET endpoint being tested once every few minutes in staging)
+  *   Yellow - Within the last 20 minutes, a non-zero number of tests on an endpoint failed but some succeed
+  *   Red - Within the last 20 minutes, all tests on an endpoint failed
 *   Color can be accompanied with text status in node so color is not the only signifier.
 *   We can determine if we’d like to break up nodes into each endpoint or clump controllers together so for example, all claims endpoints will just be one node instead of 5-6 nodes for each endpoint.
 *   This status page will be limited to only GET endpoints as that is all we currently test. Some PUT/UPDATES could be added to this list but some cannot since it will alter limited test data that needs to be saved for QA since changing it back is not simple.
