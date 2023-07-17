@@ -22,21 +22,15 @@ The Modernized Check-In Experience Team has received feedback from Veterans and 
 | Increase in overall utilization (specifically completed eCheck-ins)<br><br>E.g., increase in repeat users, capturing new users that typically don't engage with the posters, and converting users that may have abandoned eCheck-in in the past because of business rules.   | Google Analytics, CDW & DataDog (redundancies)  |
 | Decrease in MSA workload (specifically around volume of manual eCheck-ins per day with or without demographics reviewed and time spent helping Veterans with the texting and QR code step) | Conduct Veteran and staff interviews at VA facilities<br>Feedback from the field  |
 
-## Undesired Outcomes
-- Decrease in Veteran satisfaction
-- Increase in "too early" VEText responses
-- Decrease in repeate users
-- Decrease in overall utilization
-- Increase in MSA workload
-
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-- Decrease in negative Veteran feedback
-- Decrease in “too early” VEText responses
-- Increase in repeat users
-- Increase in overall utilization
-- Decrease in MSA workload
+The following changes, as compared to historical levels, will serve as key performance indicators:
+- Decrease in negative Veteran feedback.
+- Decrease in “too early” VEText responses.
+- Increase in repeat users.
+- Increase in overall utilization.
+- Decrease in MSA workload.
 
 ## Launch Planning
 
