@@ -138,7 +138,7 @@ For this study, we are explicitly not recruiting assistive technology users due 
 **Length of sessions**
 - Session length: 60 minutes
 - Buffer time between sessions: 30 minutes
-- Maximum Sessions per day: 6
+- Maximum Sessions per day: 4
 
 
 
@@ -148,8 +148,14 @@ For this study, we are explicitly not recruiting assistive technology users due 
 | Tuesday | 8/1 | 8:00am – 8:00pm |
 | Wednesday | 8/2 | 8:00am – 3:00pm, 5:30pm – 8:00pm |
 | Thursday | 8/3 | 8:00am – 10:00am, 12:00pm – 3:00pm, 5:00pm – 8:00pm |
-| Friday | 8/4 | 8:00am – 10:30am |
-| Monday | 8/7 | 8:00am – 10:00am, 11:30am – 8:00pm |
+| Friday | 8/4 | 8:00am – 10:30am, 3:00pm - 8:00pm |
+| Monday | 8/7 | 8:00am – 10:00am |
+
+If needed:
+
+| Day | Date | Times (Eastern time zone) |
+| --- | --- | --- |
+| Monday | 8/7 | 11:30am – 8:00pm |
 | Tuesday | 8/8 | 8:00am – 12:00pm, 2:00pm – 3:30pm, 4:00pm – 8:00pm |
 
 
