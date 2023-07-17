@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Prescriptions Initiative Brief
 #### Overview
 
 <details>
@@ -31,23 +31,41 @@
 - Product | Link to product outline 
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
+> *Describe the challenge / pain point you seek to address.:*
 * What is the problem and who is affected? And, what evidence do we have of the problem?
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
 * How does this initiative help further OCTO-DE's mission and goals?
+
+* veterans have accessibilty to viewing, refilling, and tracking prescriptions in a chatbot experience
+* veterans experiencing difficulties refilling a prescription can be sent to a live agent for additional support
 
 <!--
 ## Desired User Outcomes
 - *Why would a user want to use this?*
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
+* view, refill and track prescriptions on chatbot
+* find support for troubleshooting 
+
 ## Undesired User Outcomes
+
+* inability to view, refill and track prescriptions on chatbot
+* inability to get support for prescription inquiries
+
 ## Desired Business Outcomes
 
 - *Why would your business want this to exist?*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
+* direct ties to a live agent for rx refill troubleshooting
+* reduces time for veteran to reach support
+* meets the requirement of having One VA Bot platform
+* meets presendential CX mandates
+
 ## Undesired Business Outcomes
+
+* channels are not connected; chatbot remains siloed product 
+
 -->
 
 ---
@@ -58,6 +76,11 @@
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+* task completion (how many prescriptions get refilled, etc)
+* usage (how many people come to chatbot to use the Rx feature)
+* usage of voice feature (how many people use the voice component)
+* how many people are transferred to live agent
+* task completion time (time spent in Rx Skill)
 
 ---
 
@@ -67,25 +90,55 @@
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - will Veterans use the main Rx Skill
+  - will Veterans use the Voice activated Skill
+  - 
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - Is accessibility a concern
+  - Voice activation not working
+  - Users cannot transition from skill to skill
+  - No internationalization of the skill; non-English speakers
+  - 
+
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
+  - Clashing of JOVO, Proxy bot and main chatbot
+  - API errors
+  - Intent mismatches
+  - Authentication issues
+  - Inability to communicate with backend server
+ 
   - Examples:
     - Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+  - Yes, usability testing indicates that Veterans are interested in feature 
+  - Yes, examination of chatbot transcripts indicates Veterans are already looking for this information
+  - Yes, already consistent with other channels at the VA
 
 ### What're you building
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
 
+* Authentication of Veteran
+* Viewing, refilling and tracking prescriptions 
+* Entries & exits to the skill
+* Voice activated feature
+
+Not included: 
+* no renewels -- requires doctor overview
+* no prescription history
+* no prescription requests
+* no secure messaging with healthcare providers
+* cannot cancel request
+* no payment information; no exchange of funds
+* 
+
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+
+* Internal communications between OCTO, VES, VEO, and OCC(VHA)
 
 --- 
 
@@ -102,17 +155,20 @@
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - MVP (without Live Agent): October
+  - 
 - *Actual Launch Date* 
-  - tbd
+  - MVP (without Live Agent): end of October
 
 ---
    
 ## Screenshots
 
 ### Before
+* find mocks
 
 ### After
+* sc of prototype
 
 ---
 
@@ -121,10 +177,10 @@
 
 <details>
 
-- Team Name: 
+- Team Name: Va.gov Chatbot
 - GitHub Label(s): 
 - Slack channel: 
-- Product POCs:
+- Product POCs: Luciana Morais, Nathalie Rayter
 
 </details>
 
@@ -134,8 +190,8 @@
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: OCC(VHA), OCTO, VES 
+- Contact(s): Hugo Padilla (OCC), Luciana Morais (OCTO), Nathalie Rayter (VES)
  
 </details>
 
