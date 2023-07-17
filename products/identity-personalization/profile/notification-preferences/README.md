@@ -22,7 +22,7 @@
  
  ### Roles
 
-[Please refer to the profile product outline for the current VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile#roles).
+[Please refer to the profile product outline for the current VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
 
 Additionally, we work in partnership with VANotify and VA Profile on this work. Additional partners include:
 
