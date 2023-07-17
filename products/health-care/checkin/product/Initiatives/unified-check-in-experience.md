@@ -13,33 +13,30 @@ The Modernized Check-In Experience Team has received feedback from Veterans and 
 - Many Veterans use the pre-check-in link that was texted to them to initiate check-in on the day of their appointment, which does not actually allow them to check in.
 - Some Veterans skip checking in altogether when they arrive at the clinic because they think they’re checked in as a result of completing the pre-check-in process, which in fact does not initiate or complete the online check in process. 
 
-## Desired User Outcomes
-- Veterans understand which tasks they should complete before each health appointment.
-- Veterans understand when they have completed a task.
-- Veterans don't need to keep track of which link is associated with which task.
-- Staff spend less time helping Veterans using the online check-in applications.
+## Desired Outcomes
+| Outcome | Ways to Measure |
+| -------------- | ------------------- |
+| Increase in Veteran satisfaction (and reduction in complaints about PCI being too complicated)  | VSignals<br>Conduct Veteran and staff interviews at VA facilities<br>Feedback from the field  |
+| Decrease in “too early” VEText responses (which is viewed by Veterans and staff as a frustrating Veteran experience)  | DataDog |
+| Increase in repeat users (Veterans) | Google Analytics (to the extent possible)<br>CDW (to the extent possible) |
+| Increase in overall utilization (specifically completed eCheck-ins)<br><br>E.g., increase in repeat users, capturing new users that typically don't engage with the posters, and converting users that may have abandoned eCheck-in in the past because of business rules.   | Google Analytics, CDW & DataDog (redundancies)  |
+| Decrease in MSA workload (specifically around volume of manual eCheck-ins per day with or without demographics reviewed and time spent helping Veterans with the texting and QR code step) | Conduct Veteran and staff interviews at VA facilities<br>Feedback from the field  |
 
-## Undesired User Outcomes
-- Veterans are more confused by the online check-in applications.
-- Veterans are more frustrated with the online check-in applications.
-- Staff spend more time helping Veterans using the online check-in applications.
-
-## Desired Business Outcomes
-- Increased usage of the online check-in applications.
-- Decreased negative feedback related to using the online check-in applications.
-- Less time spent by staff helping Veterans using the online check-in applications.
-
-## Undesired Business Outcomes
-- Decreased usage of the online check-in applications.
-- Increased negative feedback related to using the online check-in applications.
-- More time spent by staff helping Veterans using the online check-in applications.
+## Undesired Outcomes
+- Decrease in Veteran satisfaction
+- Increase in "too early" VEText responses
+- Decrease in repeate users
+- Decrease in overall utilization
+- Increase in MSA workload
 
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-- Favorable VSignals feedback from Veterans who use the online check-in applications.
-- Decreased negative feedback related to using the online check-in applications.
-- Increase in the use of the online check-in applications.
+- Decrease in negative Veteran feedback
+- Decrease in “too early” VEText responses
+- Increase in repeat users
+- Increase in overall utilization
+- Decrease in MSA workload
 
 ## Launch Planning
 
