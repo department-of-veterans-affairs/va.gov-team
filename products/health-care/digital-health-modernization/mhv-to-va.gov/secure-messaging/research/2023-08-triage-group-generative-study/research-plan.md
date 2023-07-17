@@ -1,4 +1,4 @@
-# **Research Plan for MHV on VA.gov, Triage, August 2023**
+# **Research Plan for MHV on VA.gov, Triage Group Naming generative research, August 2023**
 
 ## **Background**
 
