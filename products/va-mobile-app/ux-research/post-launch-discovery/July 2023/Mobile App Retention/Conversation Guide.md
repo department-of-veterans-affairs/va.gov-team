@@ -71,6 +71,8 @@ Now we’re going to talk a bit about your experience using VA’s Health & Bene
 * When did you stop using the mobile app? 
 * What were the specific reasons you stopped using the app?
 * What are things you’d need to have in order to start using the app again, if any?
+
+* How would you want to find out about new features in the app? 
 * What other information is important for us to know that we haven’t talked about?
 
 ## 
