@@ -11,9 +11,9 @@ Starting page to schedule or manage appointments.
 
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
-- Checks if the facilities field that comes back from `vaProfile` is empty. 
-  - If it is, the user/veteran is ineligible to use VAOS because they are not registered at a VA facility. The [alert that user is not registered at a VA facility](#alert-that-user-is-not-registered-at-a-va-facility) displays
-- [Functional requirement]
+
+- If user/Veteran is ineligible to use VAOS because they are not registered at a VA facility. In that case, the [alert that user is not registered at a VA facility](#alert-that-user-is-not-registered-at-a-va-facility) displays
+
 
 ## User interface design
 
@@ -44,7 +44,8 @@ Starting page to schedule or manage appointments.
 <!-- Add a new section for each alert -->
 
 **Alert trigger**
-[Description of what causes this alert to display]
+
+VAOS checks if the facilities field that comes back from `vaProfile` is empty. If it is, this alert replaces all content on the page.
 
 **Alert UI**
 - [User flow](Add link)
