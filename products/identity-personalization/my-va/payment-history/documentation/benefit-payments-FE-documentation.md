@@ -1,5 +1,5 @@
 # Benefit Payments Frontend Documentation
-Last updated: July 6, 2023 - added Background
+Last updated: July 17, 2023 - added Background; updated error
 
 ### Background
 This is FE documentation for v2 of "payment info" on My VA in which the original single section My VA, "Benefit payments and debts" was separated out into two sections - one for Outstanding Debts and a second for Benefit Payments. This document specifically covers the Benefit Payments section on My VA.
@@ -124,7 +124,7 @@ Only show a card for the most recent payment.
 ### Error State 1: The Payment History API call fails
 
 #### Visual specs
-- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
+- Use the [warning alert component](https://design.va.gov/components/alert#warning-alert) for the error message.
 >**We can't access your payment history**
 
 >We're sorry. We can't access your payment history right now.  We're working to fix this problem. Please check back later.
