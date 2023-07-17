@@ -158,7 +158,7 @@ Example: My mom is a Veteran, I’m one of her dependents. She has another depen
 
 ### Screener questions
 
-In addition to these questions, we also expect Perigean to screen for the other demographic criteria listed above. We assume they will use existing screener questions for these criteria or will filter their database; so we haven’t included our own screener questions for those.
+We expect Perigean to screen for all criteria listed above. We have written specific screener questions to include alongside existing screener questions Perigean already has:
 
 * Are you a Veteran?
      * Yes
