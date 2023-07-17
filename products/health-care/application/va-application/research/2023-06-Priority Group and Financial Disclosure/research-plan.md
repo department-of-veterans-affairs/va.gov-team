@@ -68,13 +68,14 @@ We will use these findings to:
 **Learn more about how Veterans would like to go about providing updated information - such as financial information or dependents - that could impact their health care benefits after enrollment.**
 
 - Where do Veterans call out as the way to manage their health benefits like finanical updates and copays? 
-- Currently, do Veterans prefer to provide updated information in person at appointments or over the phone?
+- Currently, how do Veterans prefer to provide updated financial information (in person at appointments or over the phone)? Ideal state, how would Veteran's prefer to make these updates?
 - Do income updates cross benefits in the Veteran's POV or do they associate them only with their health care benefits?
 - Would Veterans prefer to be prompted to provide updated financials or do this proactively?
 - If notified, how and what method (text, email, call, mail)?
 - Where would Veterans expect to find where to update their financial income and deductibles online? 
 - Is there frustration about steps or processes after the initial application process in regards to providing updated information?
-- Do dependent updates cross benefits in the Veteran's POV or do they associate them only with their health care benefits?
+- Does updating dependents seem like a health care benefits tasks or a global task for Veterans to complete? 
+- Is updating dependents another common task Veterans are needing to complete when filling out an EZR today?
 
 
 
@@ -130,8 +131,8 @@ What demographics, experience, and scenarios do you need participants to meet to
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
 - At least 2 participants with a cognitive disability
+- At least 2 participant who are woman
 - At least 1 participant who are or immigrant origin
-- At least 1 participant who is a woman
 - At least 1 participant who identify as Asian
 - At least 1 participant who identify as Hispanic
  
