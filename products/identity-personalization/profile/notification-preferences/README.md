@@ -1,6 +1,6 @@
 # Product outline: Notification settings
 
-**Last Updated: June 23, 2022**
+**Last Updated: July 17, 2023**
 
 ## Table of Contents
 - [POCs](#pocs)
@@ -58,7 +58,8 @@ Currently we support the following notifications:
 |--------|-----------|
 |Your health care|Appointment reminders|
 |Your health care|Prescription shipment and tracking updates|
-|Applications, claims, decision reviews, and appeals|Board of Veterans' Appeals hearing reminder|
+|Board of Veterans' Appeals|Appeals hearing reminder|
+|Board of Veterans' Appeals|Appeals status updates|
 
 ## User Outcomes
 
