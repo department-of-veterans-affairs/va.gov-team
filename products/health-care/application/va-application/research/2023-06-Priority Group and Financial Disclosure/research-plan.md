@@ -120,16 +120,20 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
 - Veterans
+- Mix of particpant ages (no more than 2 per each age group)
+- No more than 2 particpants who identify as White
 
 **Screener Question**
-- Have you applied for health care benefits within the past 5 years and are now enrolled and using these benefits? [answer must be yes to qualify for this study]
+- Have you applied for VA health care benefits within the past 6 years and are now enrolled and using these benefits? [answer must be yes to qualify for this study]
 
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
 - At least 2 participants with a cognitive disability
 - At least 1 participant who are or immigrant origin
+- At least 1 participant who is a woman
 - At least 1 participant who identify as Asian
+- At least 1 participant who identify as Hispanic
  
 
 
