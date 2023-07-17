@@ -84,6 +84,7 @@ For this study, we are explicitly not recruiting assistive technology users due 
 **Primary criteria (must-haves)**
 
 1. (18) Desktop/Laptop/Tablet users only
+
 2. Age distribution:
   - (4) 75+
   - (6) 65 – 74
@@ -96,7 +97,8 @@ For this study, we are explicitly not recruiting assistive technology users due 
   - (2) Associate degree (occupational or academic)
   - (3) Bachelor's degree
   - (2) Master's degree or higher
-4. (9) frequent MHV Secure Messaging user, (9) infrequent MHV Secure Messaging user (see screener question)
+4. (9) frequent MHV Secure Messaging user, (9) infrequent MHV Secure Messaging user (see screener question 1)
+
 5. Demographic distribution:
 
 - (1) American Indian or Alaska Native
@@ -104,12 +106,29 @@ For this study, we are explicitly not recruiting assistive technology users due 
 - (3) Black or African American
 - (2) Hispanic, Latino, or Spanish origin
 - (11) White or Caucasian
-- (6) Cognitive disability
+- (6) Cognitive disability (See screener question 2)
 - (5) rural, (13) urban
 
 **Screening questions for recruitment**
 1. How often have you used My HealtheVet Secure Messaging during the past year? _Must choose "c" or "d" to be considered a frequent MHV user. Must choose "b" to be considered infrequent user._
-a) not at allb) once or twice a monthc) 2-3 times a monthd) more than 3 times a month_Please provide response on roster._ **Timeline**** Prepare ****Prepare**
+
+    a) not at all
+    
+    b) once or twice a month
+    
+    c) 2-3 times a month
+    
+    d) more than 3 times a month
+    
+    _Please provide response on roster._
+
+2. Do you often have trouble remembering things, learning new things, focusing on a task, or making decisions?
+
+    _Please provide response on roster._
+ 
+## **Timeline**
+
+**Prepare**
 - Pilot participant email: We will handle on our own, thank you
 - Date and time of pilot session: TBD – we will handle on our own, thank you
 
