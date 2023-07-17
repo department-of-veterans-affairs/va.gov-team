@@ -190,7 +190,7 @@ We expect Perigean to screen for all criteria listed above. We have written spec
 
 ## Timeline
 
-This study will start August 22, 2023 until at least 10 sessions are complete.
+This study will start (TBC) August 22, 2023 until at least 10 sessions are complete.
 
 |Date|Milestone|
 |:--|:--|
@@ -204,15 +204,15 @@ This study will start August 22, 2023 until at least 10 sessions are complete.
 
 ### Pilot session
 
-Pilot participant email: TBC
+* Pilot participant email: TBC
 Date and time of pilot session: TBC
 
 ## Research sessions
 
 ### Length of sessions
 
-Length: 1 hour
-Buffer between sessions: 30 minutes
+* Length: 1 hour
+* Buffer between sessions: 30 minutes
 Maximum sessions per day: 4 sessions
 
 ### Availability
