@@ -1,4 +1,4 @@
-## Velocity for BDEx Team
+## Velocity for DBEx team 1
 
 Velocity is used to help teams predict how much work can be accomplished during a sprint. It is a planning tool and not an indicator of performance in any way. This metric is used to help the team plan work for a sprint, by taking into account the average amount of work able to be completed by the team in a single sprint based on the relative estimates for product backlog items (or, user stories).
 
