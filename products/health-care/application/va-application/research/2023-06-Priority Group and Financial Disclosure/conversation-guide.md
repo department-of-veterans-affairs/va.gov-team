@@ -89,7 +89,7 @@ Let’s start with a couple warm-up questions.
 ---
 
 ## Third Topic: [Priority Group - Future State] - 5 minutes
-- Where are some places that you would like to be able to view your Priority Group number?
+- Where are some places that you would like to be able to view your Priority Group number? Why?
 - How would this be a benefit to you?
 - What type of information is important to you to have access to about your Priority Group and your health care benefits?
 - Is there anything you find confusing about how your Priority Group impacts you today that you wish the VA would provide more clarity on?
