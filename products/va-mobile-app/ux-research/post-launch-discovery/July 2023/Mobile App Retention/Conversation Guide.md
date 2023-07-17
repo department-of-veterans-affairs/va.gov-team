@@ -37,11 +37,9 @@ Great, let’s get started.
 The following questions are a way to get to know you better and to make sure we are talking to veterans in different situations with different needs. Feel free to answer the questions you’re comfortable with, and please know you can skip anything you prefer not to answer.
 
 
-* Tell me a little bit about yourself. Where are you from, where do you live now?
-* (city, state)
+* Tell me a little bit about yourself. Where are you from, where do you live now? (city, state)
+
 * How long have you been out of the military?
-* Do you ever use any type of assistive technology, like enlarging the text on your phone or using a screenreader?
-* What type of phone do you have?
 
 * What was your first connection with the VA?
     * About how long have you been connected to VA services?
@@ -61,7 +59,8 @@ The following questions are a way to get to know you better and to make sure we 
 
 Now we’re going to talk a bit about your experience using VA’s Health & Benefits mobile app. Again, please know you can skip anything you prefer not to answer, or to stop at any time.
 
-
+* First, let's talk a bit about how you use your phone. What type of phone do you have?
+* Do you ever use any type of assistive technology, like enlarging the text on your phone or using a screenreader?
 
 * When did you first download the VA Health & Benefits app?
 * Do you remember how you heard about it?
