@@ -178,7 +178,7 @@ Not included:
 <details>
 
 - Team Name: Va.gov Chatbot
-- GitHub Label(s): airtual-agent
+- GitHub Label(s): va-virtual-agent
 - Slack channel: #virtual-agent-public
 - Product POCs: Luciana Morais, Nathalie Rayter
 
