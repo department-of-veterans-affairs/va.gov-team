@@ -88,29 +88,21 @@ When you log in in the morning at 7am EST,  the on-call developer should be proa
   - Actively monitor and respond to incident threads in the [#check-in-experience-engineering](https://dsva.slack.com/archives/C02G6AB3ZRS) channel
 - DataDog 
   - Actively monitoring DataDog APM dashboards for anomalies, errors, spikes, latency, or outages. (See links above)
-- Infrastructure 
-  - Actively working with devops engineer to monitor infrastructure (containers, database, concurrent lambda limits) for scalability (e.g. [AWS Console](https://prod.adfs.federation.va.gov/adfs/ls/idpinitiatedsignon.aspx.) - select Amazon WebGov Cloud - until we are in Terraform)
 - Sidekiq
   - Actively monitoring Sidekiq: https://vse-wf-api.va.gov/sidekiq
-- VEText Twilio
-  - Actively monitoring VEText Twilio console error logs: https://console.twilio.com/ 
 
 When the above responsibilities are met and development bandwidth is available, Tier 3 Monitoring Engineer will work on minor tasks in Tier 3 team backlog. 
 
 ## In the event of an incident… <a name="incident-response"></a>
 
-1. **Acknowledge the Issue in #check-in-production-support and PagerDuty** - If an outage/error occurs during business hours, the on-call developer will post a thread on DSVA slack “check-in-production-support” channel or provide a message response to an existing incident post **within 15-minutes during business hours or 60 minutes after business hours**. (Note: we cannot get a timestamp from a reaction, so the acknowledgement needs to be a message post.) The on-call engineer will outline the behavior seen and tag partners needed to help discover, brainstorm, or resolve the problems noted. If the incident triggered an incident in PagerDuty, the on-call engineer will acknowledge the incident in PagerDuty within 15-minutes during business hours or 60 minutes after business hours. 
+1. **Acknowledge the Issue in #check-in-production-support and PagerDuty** - If an outage/error occurs during business hours, the on-call developer will post a thread on DSVA slack “check-in-production-support” channel or provide a message response to an existing incident post **within 15-minutes during business hours or 60 minutes after business hours** (TBD). (Note: we cannot get a timestamp from a reaction, so the acknowledgement needs to be a message post.) The on-call engineer will outline the behavior seen and tag partners needed to help discover, brainstorm, or resolve the problems noted. If the incident triggered an incident in PagerDuty, the on-call engineer will acknowledge the incident in PagerDuty within 15-minutes during business hours or 60 minutes after business hours. 
 2. **Identification of Issue** - Determine root cause of issue following the [root cause analysis documentation below](#root-cause); what system is responsible for the issue and work to understand the impact/scope of the issue to end-users. Note: this may require starting a production incident Zoom bridge, or can be done over Slack. 
     1. **Assign Incident Commander** - An Incident Commander is assigned similarly as the on-call engineer as part of a separate rotation. Details of the role and function of the Incident Commander are defined further down this document.
     2. **Communicate with Product Manager/Delivery Manager to quickly determine criticality** - After action response to the incident will vary based on whether the incident is deemed critical or non-critical. Active communication with the API Product Manager and Delivery Manager to prioritize issues, bugs and potential hotfixes is critical! Per the VNCE contract, a critical downtime issue is defined as a system-wide outage in the staff or Veteran facing check-in APIs. **Bug/incident prioritization rubric** is shown below and can be seen in Mural form [here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1668097035200/a0187e049d85448df560b2339ab76ff33908808f?sender=u552ff37aba898b5fff103456).
       
       <p align="center"><image src="https://user-images.githubusercontent.com/56260532/217282822-00714cd4-debe-4740-bb82-c5e82041c48c.png" /></p>
-   
-     3. **Set PCI Kill Switch to stop Veterans from trying to Check in (if needed)**
-        1. Set the VEText Kill Switch - This stops veterans from receiving the check in link when they attempt checkin at the clinic, they will be directed to the front desk.  [PCI  Kill Switch Instructions](https://github.com/department-of-veterans-affairs/chip/blob/master/README.md#pci-killswitch)
-        2. Set Veteran-facing Maintenance Banner - Work with the FE team to set the maintenance banner so Veterans are aware that precheckin and check in are not functional. [See Instructions](https://depo-platform-documentation.scrollhelp.site/developer-docs/downtime-notifications)
-        3. Confirm VEText is disabled by texting “checkin” to 53079 on your phone. If you get “We’re sorry. We can’t check you in online. Please ask a staff member for help.” The killswitch has been enabled successfully. If not, try again.
-    4. **Enable PCI Maintenance Page in VA pagerduty** - 
+     
+    3. **Enable PCI Maintenance Page in VA pagerduty** - 
         1. Login to VA pagerduty -> services -> day of check-in - https://dsva.pagerduty.com/service-directory/PNDVBO8
         2. Go to Add Maintenance at the Maintenance Window section at the bottom right
         3. Create a new Maintenance Window depending on the discussed time we wish to have the window open.
@@ -120,7 +112,7 @@ When the above responsibilities are met and development bandwidth is available, 
 
 |Service|Team POCs|Slack Responsive?|
 |:-------:|:--------:|:--------:|
-|PCI Front End|Adrian Rollett, Brian Seek, John Woolschlager|Yes|
+|PCI Front End|Lee Delarm, Brian Seek, John Woolschlager|Yes|
 |PCI Vets-API|Guarav Gupta, Kanchana|Yes|
 
 3. **Containment of Issue** - Are there downstream effects of the bug? If so, isolate the system. Once isolated we need to inform the downstream system of issues and see if we can limit impact. 
@@ -131,29 +123,31 @@ When the above responsibilities are met and development bandwidth is available, 
     2. Coordinate with VHA IVC (Shawn Adams) to communicate resolution to the field via PCI Implementation Teams channel.
     3. Create Zenhub Tickets - For each incident, any relevant tickets should be created and tracked on the Zenhub board, in collaboration with the Tier 3 Product Manager.
     4. If the incident is critical, add it to the [Critical Outage Tracker](https://docs.google.com/spreadsheets/d/14W6AOjbOS6XmbzN7hpvo3vAO5ZG5eW6vhPj1JvOeCaM/edit#gid=0).
-    5. If the issue was caused by PCI API systems then a Post Mortem is also necessary. Work with the delivery manager to hold a live Post Mortem session and document the [Post Mortem using team template](https://drive.google.com/drive/folders/1QpcLg6Cx1WN5cIST5ViPoi2WjaUgy0tO).
+    5. If the incident incurs an outage, work with the delivery manager to determine if a post Mortem session is required and document the [Post Mortem using team template](https://drive.google.com/drive/folders/1QpcLg6Cx1WN5cIST5ViPoi2WjaUgy0tO).
     6. Publish deployments or changes to infrastructure to datadog using datadog events: [Datadog custom events](https://docs.google.com/document/d/1MPvA9mHPTXuS5QKUgu8BjIOjqJCYTjrIpYOIMZNt5Y0/edit)
 
 ## Root cause analysis <a name="root-cause"></a>
 As our infrastructure, pipelines, and processes have matured, causes for outages within our control have dwindled. However, we must still remain vigilant in knowing where to look for root causes. 
 
 - If an outage is caused by a code deployment
-    - We currently have a robust deployment pipeline and process for deploying new code. This process is typically handled by the PCI API Development Team, but they keep Tier 3 Team in the loop at the time of deployment. A release notice is posted in the #check-in-releases Slack channel within the DSVA workspace with a link to the ticket for the work that will include testing and rollback steps. An example of one of these posts can be seen [here](https://dsva.slack.com/archives/C03E5FEBTLH/p1678736665102789).
+    - We currently have a robust deployment pipeline and process for deploying new code. This process is typically handled by the checkin API Development Team, but they keep Tier 3 Team in the loop at the time of deployment. A release notice is posted in the #check-in-releases Slack channel within the DSVA workspace with a link to the ticket for the work that will include testing and rollback steps. An example of one of these posts can be seen [here](https://dsva.slack.com/archives/C03E5FEBTLH/p1678736665102789).
     
 - If an outage is caused by an infrastructure change
     - Previously, we have noticed some undesired effects from changes made to the underlying infrastructure. In the event an outage occurs within a timeframe that correlates to a recent infrastructure change, please follow the [default actions for infrastructure changes steps](#infra) below.
     
-- If an outage is caused by an upstream service (i.e. the TIC, vets-api, etc.)
+- If an outage is caused by an upstream service (i.e. vets-api, etc.)
     - The only action we can really accomplish in this event is verifying without a doubt the outage is outside of our control. Some ways to do this would be checking the [TIC Gateway Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-9843c4c108149f12c176a2c8101c1345?theme=dark&from_ts=1667570276310&to_ts=1667573876310&live=true) or working with other teams to confirm the outage is being observed in more places than just our environment (example [Slack thread](https://dsva.slack.com/archives/C02UP02HHGX/p1678815014521339)). 
     
 - If an outage is caused by an unknown issue
-    - If the above reasons have been ruled out as potential causes for an outage, we need to begin narrowing in on the affected service(s). This can be done with our primary dashboards on both the TEVI and VEText/AVS Datadog accounts. The primary TEVI Dashboard can be found [here](https://tevi.ddog-gov.com/dashboard/vs5-rpv-48b/patricks-dashboard?from_ts=1678883558487&to_ts=1678897958487&live=true) and the primary VEText/AVS Dashboard can be found [here](https://vetext.ddog-gov.com/dashboard/ma2-scy-5jd/vetext-technical-dashboard?from_ts=1678889597883&to_ts=1678903997883&live=true). From the respective dashboards, we will attempt to narrow down the scope of the outage to a singular or small group of affected services. Once the affected service or services have been identified, we can start looking for error logs, APM traces, or auditing for any changes (i.e. security group rules, ports, DNS, etc.). If we can identify the culprit service and are mostly unfamiliar with the cause of what is being observed, it may be a good time to pull in a developer of the respective application (please see the ecosystem POCs discussed in [incident response](#incident-response) section above).
+    - If the above reasons have been ruled out as potential causes for an outage, we need to begin narrowing in on the affected service(s). The primary Dashboard can be found [here](https://tevi.ddog-gov.com/dashboard/vs5-rpv-48b/patricks-dashboard?from_ts=1678883558487&to_ts=1678897958487&live=true) and the primary Dashboard can be found [here](https://vetext.ddog-gov.com/dashboard/ma2-scy-5jd/vetext-technical-dashboard?from_ts=1678889597883&to_ts=1678903997883&live=true). From the respective dashboards, we will attempt to narrow down the scope of the outage to a singular or small group of affected services. Once the affected service or services have been identified, we can start looking for error logs, APM traces, or auditing for any changes (i.e. security group rules, ports, DNS, etc.). If we can identify the culprit service and are mostly unfamiliar with the cause of what is being observed, it may be a good time to pull in a developer of the respective application (please see the ecosystem POCs discussed in [incident response](#incident-response) section above).
 
 - If an outage is caused by a reason not mentioned in this document
-    - This playbook is designed to serve as a living document with regular updates as our environment grows and/or changes. If an outage has occured and is not covered here, please ensure we document it well in the incident tracker and post-mortem and update the playbook with new information and resolution steps.
+    - This playbook is designed to serve as a living document and guide with regular updates as our environment grows and/or changes. If an outage has occured and is not covered here, please ensure we document it well in the incident tracker and post-mortem and update the playbook with new information and resolution steps.
 
 ## Maintenance mode guidelines <a name="maintenance-guidelines"></a>
 There are a few factors to consider when deciding on if the maintenance page should be activated in a unscheduled event:
+
+TBD - Add section on how to set maintenance mode for website
 
 1. Is the app in a down state, or degraded state?
 
@@ -290,11 +284,8 @@ If any or all of these questions have been answered, then it is up to the discre
 ## Post-mortem Report and Process <a name="post"></a>
 A post-mortem should be performed when a critical outage occurs within any application we have production support responsibility for, whether or not we instigated the outage. That includes:
 
-* Clinician Workflow
-* VEText
-* VistA API
+* CHIP
 * LoROTA
-* AVS
 
 When an outage occurs, a post-mortem report should be started. This document will be populated by both the Incident Commander and the Product Manager, who may ask for additional inputs and contributions from the support team. The post-mortem report should contain a brief summary of the incident, a timeline of events, notes on what went well and what could be improved, and action items agreed upon by the team.
 
@@ -302,7 +293,7 @@ Once the post-mortem report has been filled out, a post-mortem session should be
 
 Post-mortem sessions should be concise and walk through items outlined in the post-mortem document. Team members should discuss each section of the document and add on as needed.
 
-Once the meeting is complete, post-mortem documentation should be added to the team SharePoint and shared out through the VA Slack.
+Once the meeting is complete, post-mortem documentation should be added through the VA Slack and Github page. TBD - Add github page
 
 
 ## ServiceNow (SNOW) <a name="servicenow"></a>
@@ -317,16 +308,14 @@ A PIV card is required to access ServiceNow through the VA Network. ServiceNow l
 Members of the eCheck-in API Support group will receive emails when new incidents are assigned to the group queue. Emails include a direct link to the incident ticket.
 
 To view all active unresolved ServiceNow tickets, the following link directs to a filter view for the eCheck-in API Support group queue:
- - eCheck-in API Support group queue - https://yourit.va.gov/nav_to.do?uri=%2Ftask_list.do%3Fsysparm_clear_stack%3Dtrue%26sysparm_query%3Dassignment_group%253Djavascript:getMyGroups()%255Eactive%253Dtrue%255Estate!%253D6%26sysparm_first_row%3D1%26sysparm_view%3Dcatalog 
+ - [eCheck-in API Support group queue](https://yourit.va.gov/nav_to.do?uri=%2Ftask_list.do%3Fsysparm_clear_stack%3Dtrue%26sysparm_query%3Dassignment_group%253Djavascript:getMyGroups()%255Eactive%253Dtrue%255Estate!%253D6%26sysparm_first_row%3D1%26sysparm_view%3Dcatalog)
 
 Please refer to the [SNOW process](https://github.com/department-of-veterans-affairs/chip/blob/master/docs/2022-production-rollout-support.md#servicenow-process) instructions on how to customize your SNOW queue view. 
 
 ## Tiered Ticket Routing <a name="ticket-tier"></a>
 Incident tickets are routed through a tiered support system. Tickets are first assigned to the scheduling support group and then routed to Tier 1 or Tier 2 support teams. If unable to resolve, incident tickets are escalated to Tier 3 ServiceNow support groups:
- - VSE-GUI Tier 3 - Issues related to front end functionality of VSE-CS or VSE-GUI (same queue for both)
  - eCheckinVetFacingApps - Issues related to front end functionality of VA.gov Veteran-facing eCheck-in
  - eCheck-in API Support - Issues related to back end API's that power VSE-GUI, VSE-CS and VA.gov Veteran-facing eCheck-in (OUR TEAM’S QUEUE)
- - VA VEText Admin - Issues related to VEText
 
 The following data should be included with all incident tickets:
  - Patient name
@@ -337,10 +326,10 @@ The following data should be included with all incident tickets:
 ### Ticket Response Templates <a name="ticket-templates"></a>
 
 **Confirming issue** <br>
-_Hi (contact name), My name is (your name) and I am following up from the ServiceNew technical support team for the incident you reported. When you have a few moments, would we be able to schedule a time to walk through a few troubleshooting steps?_
+_Hi (contact name), My name is (your name) and I am following up from the ServiceNow technical support team for the incident you reported. When you have a few moments, would we be able to schedule a time to walk through a few troubleshooting steps?_
 
 **Confirming issue resolved** <br>
-_Hi (contact name), My name is (your name) and I am following up from the ServiceNew technical support team for the incident you reported. We released an update that may have resolved this issue. Is it still occurring? If so, would we be able to schedule a time to walk through a few troubleshooting steps?_
+_Hi (contact name), My name is (your name) and I am following up from the ServiceNow technical support team for the incident you reported. We released an update that may have resolved this issue. Is it still occurring? If so, would we be able to schedule a time to walk through a few troubleshooting steps?_
 
 ## Responding and Categorizing <a name="responding"></a>
 The API Monitoring Engineer is responsible for managing all incident tickets assigned to the eCheck-in API Support group. Upon assignment, it is important to respond within 1 business day or sooner. Any form of updating the ticket is considered a valid first response. Although the solution may take longer than 1 business day, the initial contact should be made within this window.
@@ -351,7 +340,7 @@ The ServiceNow ticket specifies the preferred method of contact for responding. 
 
 Each incident ticket will be assigned to a category based on the type of issue. Categorizing will help the API Monitoring Engineer group similar tickets and prioritize dev work based on volume/impact.
 
-## Entering a ServiceNow Incident Ticket <a name="new-snow"></a>
+## Entering a ServiceNow Incident Ticket <a name="new-snow"></a> TBD - Do we create ServiceNow tickets?
 It is important to enter a ServiceNow ticket when an API outage occurs.
 
 Click the following link to create an incident ticket:
@@ -406,35 +395,6 @@ If a decision has been made to revert, instructions on how to revert the last de
 
 Occasionally, the staging tool will have hiccups and the developers will request some assistance. These issues can be observed in threads like [this one](https://dsva.slack.com/archives/C02G6AB3ZRS/p1675352741498039) where a timeout was received when attempting to receive a token from https://staging.api.vetext.va.gov/api/vetext/auth. This typically means a restart is needed for the VEText API container the staging tool is using. Steps for resolution are as follows:
 
-On an AVD or GFE device, SSH into the `oitdvrappclin03.r01.med.va.gov` on-prem machine. Once you have accessed the host, locate and switch users to the `vasvcvtavsupdate` user
-
-```
-ll /home | grep update
-dzdo su - vasvcvtavsupdate
-```
-![image](https://user-images.githubusercontent.com/56260532/220929394-22835df9-37ad-4416-bac4-6c1ce8f19fa8.png)
-
-Now you should see a script called `restart-vetext-api.sh` in the `vasvcvtavsupdate` user's home directory
-
-```
-ll | grep restart
-```
-
-![image](https://user-images.githubusercontent.com/56260532/220932456-ac638337-cd7f-4246-9cab-c212d19c4012.png)
-
-Run the script and verify the container was restarted and is running
-
-```
-sudo ./restart-vetext-api.sh
-sudo docker ps -a
-```
-
-![image](https://user-images.githubusercontent.com/56260532/220931368-cfeb1d9f-9bf3-43af-9b69-9948355d53d4.png)
-
-Inform the requestor that the container has been restarted and they are good to retry their actions
-
-![image](https://user-images.githubusercontent.com/56260532/220931530-a59f807c-eb05-4bcd-ad46-cdf86f20fabd.png)
-
 #### ***Holiday Alerting Freeze(s)*** <a name="holiday"></a>
 Due to clinic closure during federal holidays, some of our alerts will fire for low activity. In order to prevent alerting oncall staff during clinic closure dates, we implement holiday alerting freezes to silence some of the low activity tracking monitors. It is the responsibility of the current oncall personnel to create the managed downtime for the upcoming holiday on the last working day before the date of clinic closure. For example, if the holiday falls on a Tuesday it is the responsibility of the oncall engineer to put in the downtime on the Monday prior. Or if the holiday falls on a weekend day or following Monday, the current oncall engineer should configure the downtime on the Friday prior.
 
@@ -445,183 +405,10 @@ Please see [the holiday alerting freeze documentation](https://github.com/depart
 #### ***Infrastructure Changes*** <a name="infra"></a>
 If changes are made to the underlying infrastructure that our ECS containers rely on, please cycle the containers following the instructions [here](https://github.com/department-of-veterans-affairs/checkin-devops/blob/master/README.md#ecs-container-cycle).
 
-#### ***ESECC Requests*** <a name="esecc"></a>
-If new connections are needed between environments existing in the VA Network, we have to file ESECC requests. These require BPE worksheets and RFC creation/modification.
-
-Please see the [ESECC requests documentation](https://github.com/department-of-veterans-affairs/checkin-devops/blob/master/docs/esecc-requests.md) for instructions on how to submit these requests.
-
 ### Alerts <a name="alerts"></a>
 We have numerous alerts in our environment, the following sub-sections discuss a few common alerts and resolution steps.
 
-#### ***VEText Hosts Low Disk Space on AVS servers*** <a name="avs-disk"></a>
-
-This alert only applies to the following on-prem servers:
-
-vaaacappavs01.va.gov thru vaaacappavs13.va.gov
-
-vaphcappavs01.va.gov thru vaphcappavs13.va.gov
-
-
-GFE or AVD devices can access these on-prem servers ONLY!
-
-1- Gain access to the machine indicated from the alert, verify that the overlay filesystem corresponds to what is filling up the /var/log/docker/overlay/xxxx/merged mounted volume
-
-```
-hostname
-df -h
-```
-
-![avs1](https://user-images.githubusercontent.com/41267236/217635747-15640609-a202-4e84-a71d-a8d1983c7144.jpeg)
-
-NOTE: If these volumes are not full, and there is a disk space issue, it is likely due to the log files located at /var/log/avs/* or /var/log/vetext/*, so we can manually truncate these log files without recreating the docker containers
-
-
-2- Locate and switch users to the vasvcvtavsupdate user
-
-```
-ll /home | grep update
-dzdo su - vasvcvtavsupdate
-```
-
-![avs2](https://user-images.githubusercontent.com/41267236/217635778-1e44e624-4f9b-472b-9040-e37a0aab3224.jpeg)
-
-3- Locate the avs container and container id, stop the container, and remove the container (ensuring to only do this to the AVS container, not the apache one)
-
-```
-sudo docker ps -a
-sudo docker stop <CONTAINER_ID>
-sudo docker rm <CONTAINER_ID>
-sudo docker ps -a
-```
-
-![avs3](https://user-images.githubusercontent.com/41267236/217635826-8b543da7-fbd6-430c-be50-4d66d43eed20.jpeg)
-
-4- Bring avs container back online by only using this one line from the dockerdeployavs.sh script located in the home directory of the vasvcvtavsupdate user
-
-```
-sudo docker-compose -f docker-compose-avs.yml up -d --build
-sudo docker ps -a
-```
-
-![avs4](https://user-images.githubusercontent.com/41267236/217635894-ef6ad4a9-65c5-4f51-a2fd-54fbd6f6692b.jpeg)
-
-
-In case an alert is received due to low disk space on oitdvrappvtlb.r01.med.va.gov
-
-Alarm format: VEText Hosts Low Disk Space on device:/dev/mapper/vg_root-lv_home,host:oitdvrappvtlb.r01.med.va.gov
-
-Summary: oitdvrappvtlb.r01.med.va.gov is used for many purposes which includes a docker registry. The goal after receiving this alert
-is to ***only delete the images that have more than two image tag versions***. 
-
-Follow these steps to remediate the space issue:
-
-
-1- login to oitdvrappvtlb.r01.med.va.gov, verfy that the alert is valid. If the alert is valid sudo to root:
-
-```
-df -h /dev/mapper/vg_root-lv_home
-
-dzdo su -
-```
-
-2- Get the list of images to delete.
-
-```
-docker images | awk '{print $1":"$2}' | grep -v REPOSITORY | sort | uniq
-```
-
-The result will look something like: 
-
-```
-wildfly-vetext-lb:2.63
-wildfly-vetext-lb:2.64
-wildfly-vetext-lb:2.65
-wildfly-vetext-osm:2.33
-wildfly-vetext-osm:2.34
-wildfly-vetext-osm:2.35
-wildfly-vetext-osm:2.36
-wildfly-vetext-web-test:1.39
-wildfly-vetext-web-test:1.40
-wildfly-vetext-web-test:1.41
-localhost.localdomain:5000/wildfly-vetext-web:4.58
-localhost.localdomain:5000/wildfly-vetext-web:4.59
-localhost.localdomain:5000/wildfly-vetext-web:4.60
-localhost.localdomain:5000/wildfly-vetext-web:4.61
-localhost.localdomain:5000/wildfly-vetext-web-test:1.39
-localhost.localdomain:5000/wildfly-vetext-web-test:1.40
-localhost.localdomain:5000/wildfly-vetext-web-test:1.41
-localhost.localdomain:5000/wildfly-vetext-web-test:1.42
-llva-ubuntu-base:20.04
-localhost:5000/wildfly-vetext-lb:2.64
-localhost:5000/wildfly-vetext-lb:2.65
-```
-
-3- Copy and paste the result into a text editor then exclude the images with the two highest tag numbers or less:
-
-This means these will be excluded from the text editor and will not be considered for deletion: 
-
-```
-wildfly-vetext-lb:2.64
-wildfly-vetext-lb:2.65
-wildfly-vetext-osm:2.35
-wildfly-vetext-osm:2.36
-localhost.localdomain:5000/wildfly-vetext-web:4.60
-localhost.localdomain:5000/wildfly-vetext-web:4.61
-localhost.localdomain:5000/wildfly-vetext-web-test:1.41
-localhost.localdomain:5000/wildfly-vetext-web-test:1.42
-llva-ubuntu-base:20.04
-localhost:5000/wildfly-vetext-lb:2.64
-localhost:5000/wildfly-vetext-lb:2.65
-```
-
-The text editor should now look like this:
-
-```
-wildfly-vetext-lb:2.63
-wildfly-vetext-osm:2.33
-wildfly-vetext-osm:2.34
-wildfly-vetext-web-test:1.39
-localhost.localdomain:5000/wildfly-vetext-web:4.58
-localhost.localdomain:5000/wildfly-vetext-web:4.59
-localhost.localdomain:5000/wildfly-vetext-web-test:1.39
-localhost.localdomain:5000/wildfly-vetext-web-test:1.40
-```
-
-4- Delete the docker image from the server. ***only delete the images that have more than two image tag versions*** :
-
-  a- First append `docker rmi` to the begining of each line:
-
-    ```
-    docker rmi wildfly-vetext-lb:2.63
-    docker rmi wildfly-vetext-osm:2.33
-    docker rmi wildfly-vetext-osm:2.34
-    docker rmi wildfly-vetext-web-test:1.39
-    docker rmi localhost.localdomain:5000/wildfly-vetext-web:4.58
-    docker rmi localhost.localdomain:5000/wildfly-vetext-web:4.59
-    docker rmi localhost.localdomain:5000/wildfly-vetext-web-test:1.39
-    docker rmi localhost.localdomain:5000/wildfly-vetext-web-test:1.40
-
-    ```  
- 
-  b- Copy, paste the commands above into the bash prompt of oitdvrappvtlb.r01.med.va.gov. This will delete the images as listed in step 4a
-
-5- Run the following cleanup script on oitdvrappvtlb.r01.med.va.gov:
-
-```
-/opt/docker/scripts/docker-clean.sh
-
-```
-
-6- Verify that some space has been freed up:
-
-```
-df -h /dev/mapper/vg_root-lv_home
-
-```
-
-
-
-#### ***SNS Exteral Runtime Response and Upkeep*** <a name="runtime-sns"></a>
+#### ***SNS Exteral Runtime Response and Upkeep*** <a name="runtime-sns"></a> - TBD - Is this related to VEText or something else? (do we maintain this?)
 This alert is in reference to the custom synthetic test that uses lambda functions to test how long it takes for a client-facing SMS to run thru the infrastructure. The alert can be found here:
 
 https://tevi.ddog-gov.com/monitors/111830
@@ -654,5 +441,5 @@ Wait 20 mins.....
 
 Re-add triggers
 
-#### ***SSL Certificate Expiration*** <a name="ssl"></a>
+#### ***SSL Certificate Expiration*** <a name="ssl"></a> TBD - Do we actually hanlde these?
 As owners of the SSL certificates for our supported services, we need to be aware of any approcaching SSL certificate expiration(s). These alerts are handled via Datadog Synthetics and will alert our #check-in-monitoring channel when a certificate is expiring in 30 or less days. Once we see these alerts, we will need to get a ticket created (please work with Lindsey Sprinkle or current PM for ticket creation and subsequent sprint prioritization) to track the work for updating the certificate(s) and follow the process for this task. The process is outlined in the [SSL Certificate Creation and Renewals](https://github.com/department-of-veterans-affairs/checkin-devops/blob/master/docs/ssl-certificate-creation-and-renewals.md) documentation.
