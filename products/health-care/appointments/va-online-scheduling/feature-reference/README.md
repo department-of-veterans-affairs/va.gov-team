@@ -19,6 +19,7 @@ See also:
 
 | Feature | Usage | 
 |---|---|
+| [All appointments lists](./appointment-lists/all-lists.md) | Features that apply to the upcoming, past, and pending lists |
 | [Upcoming appointments](./appointment-lists/upcoming-list.md) | View all future and in progress appointments |
 | [Past appointments](./appointment-lists/past-list.md) | View all appointments from the last two years |  
 | [Pending appointments](./appointment-lists/upcoming-list.md) | View all pending and canceled requests | 
