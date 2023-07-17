@@ -1,4 +1,4 @@
-# Reuseable logging with the ThirdPartyTransactionLogging module
+# Reusable logging with the ThirdPartyTransactionLogging module
 
 
 ## What is it?
@@ -8,9 +8,9 @@ This module can be used to wrap one or more controller methods in logging.
 If you have a controller action that delegates to a third party API, you can / should use this module to wrap that method in applicable logging.
 
 This was created to allow us to log information around third party API interactions
-    - in a way that is reuseable
+    - in a way that is reusable
     - without coupling our controllers and models
-    - In a way the defines a default set of log data that is considered valueble
+    - In a way the defines a default set of log data that is considered valuable
 
 ### Further Context:
 - [Epic](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/60952)
@@ -39,10 +39,10 @@ Ideally you should wrap as little code as possible.  That means you may want to 
   a. Puma process id
   b. current user's uuid
   c. a generic description of the action being taken
-  d. a 'breadcrumbs' value defining the file where the log is called, the calling classname and calling method.  This is purely for debugging purposes.
+  d. a 'breadcrumbs' value defining the file where the log is called, the calling class name and calling method.  This is purely for debugging purposes.
   e. start time, stop time, duration.
 
-  However you can pass additional parameters to the method to either suplement
+  However you can pass additional parameters to the method to either supplement
   or overwrite these default logs using the key `additional_logs:`
 
   E.G.
@@ -65,6 +65,6 @@ Here is an example of the logs you might see:
 ## What does it not do?
 
 - This should not be used in models, or anywhere outside of the controller layer.  If you try and use this at the model level you will get a `NoMethodError` on `current_user`.  This is by design, as allowing our models to know about request level data like `current_user` would break encapsulation principles.
-- If your third party transaction is triggered from a model level action, then this wrapping will not be the closest possible wrapper to the interaction.  In this case, you should suplent the useage of the module with logging from within the model (or applicable non-controller layer object).
+- If your third party transaction is triggered from a model level action, then this wrapping will not be the closest possible wrapper to the interaction.  In this case, you should supplement the usage of the module with logging from within the model (or applicable non-controller layer object).
 - It is designed to fail quietly, as we would never want to stop an upload because our logging is broken.  
 
