@@ -44,12 +44,15 @@ Before we start, I have a few things that I want to go over with you:
    - If yes: Admit observers. 
     - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete the analysis, and none of your comments will be attributed to you directly. 
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete the analysis, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this) or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7. Knowing that, are you comfortable if I record my screen and audio as we talk today?
+- Last one - one of the ways that we share findings with our partners across VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not but like to ask ahead of time. I'll also confirm at the end of the interview that this is okay with you, so you will get a chance to veto this once you know what we've talked about. 
+    - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?** 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording.*
 
-- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
+- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners, if we remove any information that can be used to identify you?**
 
 ## Warm-up Questions - 5 minutes
 Let’s start with a few questions... 
@@ -179,7 +182,10 @@ Thank you for showing me how you would navigate around this site. Now that you a
    - With that in mind, where would you expect to find information about your personal priority group on this website?
    - (_Direct to MHV on vA.gov landing page_) Where would you expect to find information about your personal priority group on this page?
  
-- Is there anything we have not talked about that you would like me to know at this point? 
+- Is there anything we have not talked about that you would like me to know at this point?
+
+- I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners. Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
+- _If participant says yes:_ Is there any part of our discussion that you would NOT want shared in a video clip? 
 
 ## Thank You and Closing - 1 minute
 
