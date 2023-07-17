@@ -50,9 +50,8 @@ Before we start, a few things I want to mention:
 
 Let’s start with a couple warm-up questions.
 
-- Are you currently enrolled and using health care benefits from the VA? 
-- How often do you visit VA.gov online?
-- And do you sign in every time or how often do you sign in?
+- How long have you been enrolled in and using health care benefits from the VA? 
+- How often do you visit VA.gov online and do you sign in every time you visit?
   
 
 ## First Topic: [Application Process] - 10 minutes
@@ -62,7 +61,7 @@ Let’s start with a couple warm-up questions.
 - What resources did you use to understand what health care benefits you might qualify for during this process?
 - How would you describe the process that happened after you completed your application, such as things you had to do, additional information you had to provide, communications from the VA, your first appointment, etc.?
 - Now that you have been using your benefits, I would like you to think back and recall if there is anything that would have been helpful for you to know during your application process that you have learned after you enrolled?
-- Have you been notified that since you enrolled that you had to provide new information or updates?
+- How have you - if at all - been notified since you enrolled that you had to provide updated information?
 
 
 ### Things to watch for:
@@ -74,9 +73,9 @@ Let’s start with a couple warm-up questions.
 
 
 ## Second Topic: [Priority Group - Awareness] - 5 minutes
-- Do you know what Priority Group you are in for your health care benefits now?
+- Can you tell me more about what Priority Group you are in for your health care benefits now.
 - Can you please describe how this was communicated to you and how you understood the impact to you and your benefits?
-- Before you completed enrollment, were you aware of Priority Groups or copays as part of the health care benefits package?
+- Before you completed enrollment, how were you aware of Priority Groups or copays as part of the health care benefits package?
 - [if yes] Can you tell me more about what you knew before you applied and how you learned that information?
 - Since you have been using your benefits, what have you learned about Priority Groups and the impact it has on you and health care benefits that you wish you knew during the application?
 
@@ -90,7 +89,8 @@ Let’s start with a couple warm-up questions.
 ---
 
 ## Third Topic: [Priority Group - Future State] - 5 minutes
-- Can you tell me where you would like to be able to access your Priority Group number? Why do you list [this] place?
+- Where are some places that you would like to be able to view your Priority Group number?
+- How would this be a benefit to you?
 - What type of information is important to you to have access to about your Priority Group and your health care benefits?
 - Is there anything you find confusing about how your Priority Group impacts you today that you wish the VA would provide more clarity on?
 
@@ -101,26 +101,25 @@ Let’s start with a couple warm-up questions.
 - [What information do Veterans want to know about their Priority Group?]
 
 
-
 ---
 
 ## Fourth Topic: [Updates post enrollment] - 5 minutes
 - Changing directions a bit now, since you enrolled, have you had to make any updates to your information since your initial application?
 - If yes:
-   - can you please tell me more about that. What did you have to update and how was that experience for you?
-   - How were you notified or how did you find out you needed to supply updated information?
+   - Can you please tell me more about that. What did you have to update and how was that experience for you?
+   - How were you notified or how did you find out you needed to supply that updated information?
    - Is there anything about that experience that you wish you could change?
    - Did you have to make updates for other benefits too or just health care?
 
 
 ## [Financial Disclosure] - 5 minutes
 - How would you see a change in income impacting your health care benefits?
-- How would you wnat to be notified to provide your updated financial information?
+- How would you want to be notified to provide your updated financial information?
 
 
 ## [Dependents] - 5 minutes
-- If you had to make changes to your dependents, can you explain to me how you would go about doing that?
-- What would be an ideal process for you if you needed to make chagnes to you dependents?
+- Have you ever had a need to make changes to your dependents for VA beneftis? If so, can you tell me more about that experience. 
+- Ideally if you had to make changes to your dependents, can you explain to me how you would go about doing that?
 
 
 ### Things to watch for:
@@ -135,7 +134,6 @@ Let’s start with a couple warm-up questions.
 - Please be sure to close any personal information, like email, Facebook, etc., before you share your screen.
 - [Share link to VA.gov in Zoom chat]
 
-
 - For this scenario, you received a communication to update your annual income to maintain your copay and travel reimbursment costs as part of your health care benefits.
 
 [Notification and process]
@@ -145,20 +143,23 @@ Let’s start with a couple warm-up questions.
 [Where to find]
 - Now, from the VA.gov home page, can you walk me through where you would expect to go to update your annual income?
 - Please remember to talk aloud about your thought process as you go.
-
-
-[Global questions for all location answers]
 - Can you explain to me why you went [here] to update your financial information?
-- Can you walk me through where you would expect to find the ability to update your financial information from here?
-- What would you be looking for when you first login to update this information? Something in the sidebar or a notification?
-- Would you think this fits with any of the existing options or would you expect this to be something new?
+- Talk to me about where you would expect to find the ability to complete this task and why.
 
-  
+
 
 [**IF** they state the would go to the VA Profile to update this information]
-- Are you comfortable logging in to your own VA profile/MHV account? 
-- [If no] Or would you rather have me share my screen and a test account with you and we can talk through that together?
+- Are you comfortable logging in to your own VA profile account? 
+- [If no] Or would you rather have me share my screen and a test account with you and we can talk through the rest of this together?
 
+[Possible prompts]
+- What would you be looking for when you first login to update this information? Something in the sidebar or a notification?
+- Would you think this fits with any of the existing options or would you expect this to be something new?
+- What would you expect this new section to be called?
+
+
+
+  
 
 [Backup =  which test account to login to if there are concerns or issues with screen sharing after they state they would update this in Profile?]
 
