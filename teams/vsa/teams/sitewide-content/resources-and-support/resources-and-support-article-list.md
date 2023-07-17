@@ -92,9 +92,9 @@
 | 90 |[Decision reviews FAQs](https://www.va.gov/resources/decision-reviews-faqs) | Decision reviews           | 4/20/23
 | 91 |[VA’s duty to assist](https://www.va.gov/resources/vas-duty-to-assist) | Decision reviews           | 4/20/23
 | 92 | [Compare VA education benefits](https://www.va.gov/resources/compare-va-education-benefits) | Education | 6/16/23
-| 92 | [About our VA community care network and covered services](https://www.va.gov/resources/compare-va-education-benefits) | Health care | 6/16/23
-| 92 | [Eligibility for community care outside VA](https://www.va.gov/resources/compare-va-education-benefits) | Health care | 6/16/23
-| 92 | [How to get community care referrals and schedule appointments](https://www.va.gov/resources/compare-va-education-benefits) | Health care | 6/16/23
-| 92 | [Getting urgent care at VA or in-network community providers](https://www.va.gov/resources/compare-va-education-benefits) | Health care | 6/16/23
-| 92 | [Reimbursement of non-VA prescriptions or medical expenses](https://www.va.gov/resources/compare-va-education-benefits) | Health care | 6/16/23
-| 92 | [Does VA cover Indian Health Service or Tribal Health Programs care?](https://www.va.gov/resources/compare-va-education-benefits) | Health care | 6/16/23
+| 92 | [About our VA community care network and covered services](https://www.va.gov/resources/about-our-va-community-care-network-and-covered-services/) | Health care | 7/6/23
+| 92 | [Eligibility for community care outside VA](https://www.va.gov/resources/eligibility-for-community-care-outside-va/) | Health care | 7/6/23
+| 92 | [How to get community care referrals and schedule appointments](https://www.va.gov/resources/how-to-get-community-care-referrals-and-schedule-appointments) | Health care | 7/6/23
+| 92 | [Getting urgent care at VA or in-network community providers](https://www.va.gov/resources/getting-urgent-care-at-va-or-in-network-community-providers) | Health care | 7/6/23
+| 92 | [Reimbursement of non-VA prescriptions or medical expenses](https://www.va.gov/resources/reimbursement-of-non-va-prescriptions-or-medical-expenses) | Health care | 7/6/23
+| 92 | [Does VA cover Indian Health Service or Tribal Health Programs care?](https://www.va.gov/resources/does-va-cover-indian-health-service-or-tribal-health-programs-care) | Health care | 7/6/23
