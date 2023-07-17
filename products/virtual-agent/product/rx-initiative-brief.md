@@ -36,8 +36,8 @@
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
 * How does this initiative help further OCTO-DE's mission and goals?
 
-* veterans have accessibilty to viewing, refilling, and tracking prescriptions in a chatbot experience
-* veterans experiencing difficulties refilling a prescription can be sent to a live agent for additional support
+* Veterans have accessibilty to viewing, refilling, and tracking prescriptions in a chatbot experience
+* Veterans experiencing difficulties refilling a prescription can be sent to a live agent for additional support
 
 <!--
 ## Desired User Outcomes
@@ -138,7 +138,7 @@ Not included:
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
-* Internal communications between OCTO, VES, VEO, and OCC(VHA)
+* Internal communications between OCTO, VES, VEO, and OCC (VHA)
 
 --- 
 
@@ -156,7 +156,7 @@ Not included:
 #### Initiative Launch Dates
 - *Target Launch Date*
   - MVP (without Live Agent): October
-  - 
+      
 - *Actual Launch Date* 
   - MVP (without Live Agent): proposed end of October
 
@@ -165,7 +165,7 @@ Not included:
 ## Screenshots
 
 ### Before
-* find mocks
+* [Usability testing mockups](https://xd.adobe.com/view/c97e3903-3451-4696-9f87-d9cde5d83eaf-9c2d/?fullscreen&hints=on)
 
 ### After
 * sc of prototype - will update end of July 2023
@@ -190,7 +190,7 @@ Not included:
 
 <details>
   
-- Office/Department: OCC(VHA), OCTO, VES 
+- Office/Department: OCC (VHA), OCTO, VES 
 - Contact(s): Hugo Padilla (OCC), Luciana Morais (OCTO), Nathalie Rayter (VES)
  
 </details>
