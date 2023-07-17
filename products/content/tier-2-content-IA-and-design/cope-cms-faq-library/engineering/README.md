@@ -1,5 +1,33 @@
 # Exposing Q&A on New Content Types
 
+## CMS Instructions: Reusable Q&A Implementation Runbook
+For existing content types, edit the field_content_block field (Main content) if it exists on the content type, select to add the Q&A paragraph type, then save.
+
+Now when editors want to add an existing reusable Q&A they will see it as one of the options for adding main content.
+
+1. In the Drupal UI > Structure > Content types and select your content type.
+2. Edit the chosen Entity Reference Revisions field or add a new field, type Paragraph under Reference Revisions.
+3. If editing existing field, skip the following step. If it's a new field, select Paragraph for "Type of item to reference" and select Unlimited cardinality/allowed number of values.
+4. For Paragraph types, select "Q&A Group" and save.
+   You will also need to ensure that the following paragraph types are also enabled:
+- Rich Text
+- Table
+- Accordion Group
+- React Widget
+5. Continue if this is a new field, otherwise you're done.
+   Go to the form display settings and select "Paragraphs Browser - Experimental" for the field widget.
+   For the other field settings (gear symbol) chose the following:
+- Title: Content block (if keeping with existing pattern)
+- Plural title: Content blocks (if keeping with existing pattern)
+- Edit mode: Closed
+- Form display mode: default
+- Default paragraph type: none
+- Paragraphs browser: Main content
+- Features: Collapse / Edit all
+
+Currently implemented on Resources and Support, you may view the configuration of the "Main content" (`field_content_block`) for an example.
+
+
 ## Front End Instructions
 
 ### Pre-Existing Setup
