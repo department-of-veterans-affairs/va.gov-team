@@ -47,7 +47,7 @@ jobs:
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
           number: ${{ env.ISSUE_ID }}
           comment: |
-            ::error:: The attached ssh key failed to validate
+            :x: The attached ssh key failed to validate
 
   start_workflow:
     runs-on: ubuntu-latest
