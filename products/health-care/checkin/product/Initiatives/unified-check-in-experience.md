@@ -15,12 +15,12 @@ The Modernized Check-In Experience Team has received feedback from Veterans and 
 
 ## Desired Outcomes
 | Outcome | Ways to Measure |
-| -------------- | ------------------- |
-| Increase in Veteran satisfaction (and reduction in complaints about PCI being too complicated)  | VSignals<br>Conduct Veteran and staff interviews at VA facilities<br>Feedback from the field  |
+| ----------- | ------------ |
+| Increase in Veteran satisfaction (and reduction in complaints about PCI being too complicated)  | - VSignals<br>- Conduct Veteran and staff interviews at VA facilities<br>- Feedback from the field  |
 | Decrease in “too early” VEText responses (which is viewed by Veterans and staff as a frustrating Veteran experience)  | DataDog |
-| Increase in repeat users (Veterans) | Google Analytics (to the extent possible)<br>CDW (to the extent possible) |
-| Increase in overall utilization (specifically completed eCheck-ins)<br><br>E.g., increase in repeat users, capturing new users that typically don't engage with the posters, and converting users that may have abandoned eCheck-in in the past because of business rules.   | Google Analytics, CDW & DataDog (redundancies)  |
-| Decrease in MSA workload (specifically around volume of manual eCheck-ins per day with or without demographics reviewed and time spent helping Veterans with the texting and QR code step) | Conduct Veteran and staff interviews at VA facilities<br>Feedback from the field  |
+| Increase in repeat users (Veterans) | - Google Analytics (to the extent possible)<br>- CDW (to the extent possible) |
+| Increase in overall utilization (specifically completed eCheck-ins)<br><br>E.g., increase in repeat users, capturing new users that typically don't engage with the posters, and converting users that may have abandoned eCheck-in in the past because of business rules.   | - Google Analytics<br>- CDW<br>- DataDog  |
+| Decrease in MSA workload (specifically around volume of manual eCheck-ins per day with or without demographics reviewed and time spent helping Veterans with the texting and QR code step) | - Conduct Veteran and staff interviews at VA facilities<br>- Feedback from the field  |
 
 ## Measuring Success
 
