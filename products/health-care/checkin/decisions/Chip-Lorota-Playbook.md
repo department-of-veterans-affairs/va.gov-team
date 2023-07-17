@@ -338,7 +338,8 @@ The ServiceNow ticket specifies the preferred method of contact for responding. 
 
 Each incident ticket will be assigned to a category based on the type of issue. Categorizing will help the API Monitoring Engineer group similar tickets and prioritize dev work based on volume/impact.
 
-## Entering a ServiceNow Incident Ticket <a name="new-snow"></a> TBD - Do we create ServiceNow tickets?
+## Entering a ServiceNow Incident Ticket <a name="new-snow"></a>
+TBD - Do we create ServiceNow tickets?
 It is important to enter a ServiceNow ticket when an API outage occurs.
 
 Click the following link to create an incident ticket:
@@ -406,7 +407,8 @@ If changes are made to the underlying infrastructure that our ECS containers rel
 ### Alerts <a name="alerts"></a>
 We have numerous alerts in our environment, the following sub-sections discuss a few common alerts and resolution steps.
 
-#### ***SNS Exteral Runtime Response and Upkeep*** <a name="runtime-sns"></a> - TBD - Is this related to VEText or something else? (do we maintain this?)
+#### ***SNS Exteral Runtime Response and Upkeep*** <a name="runtime-sns"></a>
+- TBD - Is this related to VEText or something else? (do we maintain this?)
 This alert is in reference to the custom synthetic test that uses lambda functions to test how long it takes for a client-facing SMS to run thru the infrastructure. The alert can be found here:
 
 https://tevi.ddog-gov.com/monitors/111830
