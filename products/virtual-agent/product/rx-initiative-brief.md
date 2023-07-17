@@ -158,7 +158,7 @@ Not included:
   - MVP (without Live Agent): October
   - 
 - *Actual Launch Date* 
-  - MVP (without Live Agent): end of October
+  - MVP (without Live Agent): proposed end of October
 
 ---
    
@@ -168,7 +168,7 @@ Not included:
 * find mocks
 
 ### After
-* sc of prototype
+* sc of prototype - will update end of July 2023
 
 ---
 
@@ -178,8 +178,8 @@ Not included:
 <details>
 
 - Team Name: Va.gov Chatbot
-- GitHub Label(s): 
-- Slack channel: 
+- GitHub Label(s): airtual-agent
+- Slack channel: #virtual-agent-public
 - Product POCs: Luciana Morais, Nathalie Rayter
 
 </details>
