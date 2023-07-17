@@ -170,6 +170,18 @@ _[when Participant is done sorting]_
 - Tell me how you use [first few items] to manage your health.
 - How do you use the others?
 
+**Participant as designer**
+
+_[after activity - keep card sort open]_
+
+Thank you for taking the time to explore this with me today. The last task I have for you is to pretend you are the designer and you have the power to make finding contacts in Secure Messaging easier for Veterans. 
+
+ - What information would you choose to help Veterans find the healthcare provider they want to contact?
+ - Would you use [info participant listed] for a new provider as well as one a Veteran messages all the time?
+
+
+
+
 ## **Post-Task Interview - 2 minutes**
 
 Is there anything you would like to discuss about your Secure Messaging contact list that we haven't already covere
