@@ -2,7 +2,7 @@
 
 ## **Background**
 
-Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) will be moved to VA.gov. We have built a prototype of the Medical Records in MHV on VA.gov that we will be testing as part of this research study.
+Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) will be moved to VA.gov. This study will explore the needs and expectations of Veterans when selecting triage groups in Secure Messaging. 
 
 You can read more about our Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
@@ -31,29 +31,27 @@ This research fits into these points of a Veteran's Journey:
 
 ## **Outcome**
 
-The results of this study will help us identify how Veterans choose their triage groups in and determine if our designs provide the best user experience for selecting contacts in Secure Messaging. This will inform future research and later iterations of the design.
+The results of this study will help us identify Veterans' mental model and processes in choosing their triage groups This will inform future research and possible design solutions.
 
 ## **Research questions**
 
 1. What information do Veterans bring into a Secure Messaging interaction?
 2. What types of information do Veterans look for when trying to figure out who to send a secure message to on their provider team(s)?
 
-  1. What kind of information are they looking for to guide their behavior?
-  2. What are their processes for deciding?
-  3. How do they figure things out if they can't find what they're looking for?
+    1. What kind of information are they looking for to guide their behavior?
+    2. What are their processes for deciding?
+    3. How do they figure things out if they can't find what they're looking for?
 1. What relevant past experiences have shaped Veterans' expectations when sending a message to their providers?
-  1. How have Veterans had instructions for sending a message communicated to them in the past?
-  2. What issues do Veterans have with understanding triage groups today? What has helped overcome these issues?
-  3. How many locations/providers/triage groups are Veterans typically in contact within a given week/month?
-  4. Are there particular scenarios that cause greater pain points for Veterans than others?
+    1. How have Veterans had instructions for sending a message communicated to them in the past?
+    2. What issues do Veterans have with understanding triage groups today? What has helped overcome these issues?
+    3. How many locations/providers/triage groups are Veterans typically in contact within a given week/month?
+    4. Are there particular scenarios that cause greater pain points for Veterans than others?
 
 ## **Hypothesis**
 
 _Hypothesis 1:_ Many Veterans will not know the names of their providers.
 
 _Hypothesis 2:_ Most Veterans will be familiar with the location and facility/clinic of their providers.
-
-_Hypothesis 3:_ Most Veterans will express frustration with the triage group names.
 
 ## **Methodology**
 
