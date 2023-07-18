@@ -36,7 +36,6 @@
 | [Android SSO Login Update / Custom Tabs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5118) | Stacy | GREEN | Items merged with Dev| | July '23 |
 | [Mobile Bug Maintenance & Discipline Tech Debt](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) |Adam | GREEN | 10 bug tickets, BE technical debt, UX tech debt | Continued work managing bug tickets and discipline tech debt | Ongoing | 
 | [Detox UI ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Kelly | GREEN | Finish Past Appointments, RX, VA Letters and Docs, Contact Info and Perseonal Info | Next items: Direct Deposit, Veteran Crisis Line, Payments, Settings | All Q3 |
-| [SM Realignement with MHV](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/4718) | Adam | Green | Pushing out threading in messages in the next release | NA | Aug Release| 
 | RX Analytics** | Meko/Greta | Green| Engineering adding new events for improved RX reporting -Complete | None | July '23 | 
 | [Cancel Message Content Auidt**](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2172) |Stacy |GREEN | Content changes, Wrapping up tickets with QA  | NA | July '23|
 * *Alternate Project
@@ -73,6 +72,8 @@
 | Q2 | [Rx](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5091) | Meko | COMPLETE |
 | Q2 | [Claims Metrics/Pact Act](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4078) | Stacy | COMPLETE |
 | Q3 | [Content Management System Sprint 0](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6071)   | Misty | COMPLETE |
+| Q3 | [Cancel Message Content Auidt**](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2172) |Stacy | Releasing August |
+| Q3| [SM Realignement with MHV](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/4718) | Adam | Releasing August| 
 
 ## Notes
 
