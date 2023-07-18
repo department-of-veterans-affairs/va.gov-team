@@ -87,11 +87,11 @@ Understand whether users know where to get help or what they will do if they enc
 
 This will be a moderated usability study conducted remotely on Zoom. 
 
-We will observe users (imagine they are):
+We will observe users (hypothetically):
 
-* authenticating
-* asking a health related question
-* reviewing an inquiry in their dashboard
+* authenticate
+* ask a health related question
+* review an inquiry in their dashboard
 
 ### Research materials
 
