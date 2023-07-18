@@ -25,18 +25,20 @@
 | [Deeplinking](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6037) | Stacy | GREEN |Completing Discovery/Moving into Implementation| | Aug '23| 
 | [Appointment: List & Detail content alignment audit](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5136) | Meko | GREEN | Appt List & Detail content audit and recommendation review | Recommendation readout | Aug '23 |
 | [Appointment Refinement: Compensation & Pension](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4725)  | Meko  |Green | Remove Cancel button & content update for C&P appts -Complete |  | 8/1 App release |
-| [SM Realignement with MHV](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/4718) | Adam | Green | Code merged 7/11  | Release with Sprint 75 | Aug Release| 
+| User Endpoint Update | Ameet | GREEN | | | | 
 | Finding Medications-Comparitive Analysis | Meko/Lauren | Green |   |  | August '23| 
-| RX Analytics** | Meko/Greta | Green| Engineering adding new events for improved RX reporting -Complete | None | July '23 | 
-| [OKR and MVP Dashboards](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Adam, Ameet | GREEN | Finalize Appointments dashboard, reasses dashboard priority | Next 3 Dashboard priorities Login, SM, Letters | All Q3|
-| [Mobile App Retention Research and Analysis](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5952) | Adam, Ameet | GREEN | Veteran recruitment and qual research signup; Veteran qual research | Veteran qual interviews ; Quant analytics | Aug '23 | 
+| Pre-Needs Burial Claims Sprint 0  | Adam  | GREEN | BE discovery, Product web experience review, talk with PO on what data we know today | Present Sprint 0 | July '23 |
+| [OKR and MVP Dashboards](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Adam, Ameet | GREEN | Demo Appointments dashobard, start on SM dashobard; removed covid dashboard from the list | Next 2 Dashboard priorities Login Blocked, Letters | All Q3|
+| [Mobile App Retention Research and Analysis](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5952) | Adam, Ameet | GREEN | Finish out Veteran research (12 interviews left), preliminary research findings, quantitative data analysis on login | Finalize findings and present | Aug '23 | 
+| [General Analytic Request and Needs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6070) | Adam, Ameet | GREEN | Review [Mobile App Promo Banner](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5141) work with Dave 7/18 | | | Ongoing |
 | [Platform Preparation - Design System](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6011) | Kelly, Ameet | GREEN | Designated FE team determined, Met last week and created tickets to focus on | | All Q3 | 
-| [Cancel Message Content Auidt**](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2172) |Stacy |GREEN | Content changes, Wrapping up tickets with QA  | None planned | July '23|
 | [Android SSO Login Update / Custom Tabs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5118) | Stacy | GREEN | Items merged with Dev| | July '23 |
 | [Mobile Bug Maintenance & Discipline Tech Debt](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) |Adam | GREEN | 10 bug tickets, BE technical debt, UX tech debt | Continued work managing bug tickets and discipline tech debt | Ongoing | 
-| [General Analytic Request and Needs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6070) | Adam, Ameet | GREEN | Review [Mobile App Promo Banner](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5141) work with Dave 7/18 | | | Ongoing |
 | [Detox UI ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Kelly | GREEN | Finish Past Appointments, RX, VA Letters and Docs, Contact Info and Perseonal Info | Next items: Direct Deposit, Veteran Crisis Line, Payments, Settings | All Q3 |
 | [Content Management System Sprint 0](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6071)  |  | GREEN | Content picking this up cause of extra capacity| Present Sprint 0 | July '23 |
+| [SM Realignement with MHV](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/4718) | Adam | Green | Pushing out threading in messages in the next release | NA | Aug Release| 
+| RX Analytics** | Meko/Greta | Green| Engineering adding new events for improved RX reporting -Complete | None | July '23 | 
+| [Cancel Message Content Auidt**](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2172) |Stacy |GREEN | Content changes, Wrapping up tickets with QA  | None planned | July '23|
 * *Alternate Project
 * **Carryover
 
@@ -52,7 +54,6 @@
 |Planned | User Endpoint Update | Stacy | Not Started | Sprint 78 - 81 Oct '23| 
 |Planned | Remote Disaster | Stacy |Not Started  | Sprint 79 - 81 ; carrying over into Q4 |
 |Planned | Travel Reimbursement Step 1 -2 | Adam | Not Started | Sprint 78 -79 Sept '23 |
-|Planned | Pre-need Bural Claims Sprint 0 | | Not Started | Sprint 78 Aug '23 | 
 |Planned | Terms of Use Sprint 0 | |Not Started | Sprint 81 Oct '23 |
 |Planned | Appeals Decision Letters Sprint 0| Stacy |Not Started | Sprint 80 Sept '23|
 |Planned | Push Noticication Overall Strategy Sprint 0| | Not Started | Sprint 80 Sept '23 | 
