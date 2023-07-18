@@ -18,8 +18,8 @@ This [product outline](https://github.com/department-of-veterans-affairs/va.gov-
 
 This research supports the following OCTO priorities:
 
-Solidify the VA.gov platform
-Enhance Veterans’ personalized online experience
+* Solidify the VA.gov platform
+* Enhance Veterans’ personalized online experience
 
 ### Veteran journey
 
