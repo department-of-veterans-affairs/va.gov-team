@@ -42,12 +42,9 @@ This research will help us determine if and how we need to improve the design an
 Understand how users expect to answer questions and in which order:
 
 * Is it clear when you need to authenticate or when it’s optional?
-* Do people understand what each question is asking them?
 * Do the form patterns match people’s expectations of how they would answer each question?
 * Are people missing information on any question, page or sequence of pages?
 * Are there too many or too few questions per page?
-* How many fields or prompts are too many?
-* Is the order in which questions are asked intuitive, or does it cause confusion?
 * Is it clear how much longer the form is?
 * Do people understand how to edit their answers on the review page?
 * How long do people expect it to take to submit an inquiry?
@@ -60,7 +57,6 @@ Understand how users expect to review an ongoing or past inquiry:
 * How often do people expect to be updated about changes to the status of their inquiry?
 * What do users expect to happen after they receive a response to their inquiry? Do they expect to reply back? If they can’t reply back, what would they do?
 * What information do people need when they review a past (solved) inquiry?
-* How do people sort through and locate past (solved) inquiries?
 
 Understand whether users know where to get help or what they will do if they encounter an issue:
 
