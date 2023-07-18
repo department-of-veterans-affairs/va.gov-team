@@ -7,8 +7,9 @@
 
 Date: 07/18/23
 
-[Joann Agnitti](joann@cityfriends.tech)
+Joann Agnitti(joann@cityfriends.tech)
 
+[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/alt%20text/alt-text-creation-readout.pdf)
 <br>
 
 **Jump to:**
