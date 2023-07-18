@@ -46,7 +46,7 @@ Jan 1-July 18, 2023
 |Search Terms|Total searches|
 |---|:-:|
 |dependents	|5,045|
-|letters|	|2,749|
+|letters|	2,749|
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
