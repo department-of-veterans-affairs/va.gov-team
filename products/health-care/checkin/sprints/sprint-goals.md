@@ -38,14 +38,18 @@ ________________________________________________________________________________
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Create Final Wireframes to Include Appointment List Disclaimer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62160)
-            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [SPIKE] Determine How to Address Multiple](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62172)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] Determine if notification card can be read out as more important for AT users](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60867)
         - **EPIC: [Unified Check-in: Release 2 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Create Feature Flag 'check_in_experience_unified_landing_page'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/621611)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Pre-Check-in & Day-of Login Page: Update the H1 and supporting content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62100)
-            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Pre-Check-in & Day-of Landing Page: Create New Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62101)           
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Pre-Check-in & Day-of Landing Page: Create New Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62101)
+        - **EPIC: [Unified Pre-Check-in/Check-in Experience - Enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60971)**
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] [UX] Which solution will solve the accordion issue?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59416)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] [SPIKE] Do we use dismissible alerts or not?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57894)
     - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions**
         - Pilot ends July 31; need decision from Kay/IVC about whether to provide it to everyone
     - **Sub Goal: [Create Veteran FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60145)**
+        - Share Draft with Kay and Get Buy-in
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add Instructions for Wi-fi Texting to Veteran FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62155)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add instructions for when phone number doesn't match](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62157)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Create Short & Long Versions of the Veteran FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62156)
