@@ -120,12 +120,12 @@ Our intended audience for this research are Veterans and we will be using and le
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-- Veterans
+**Veterans**
 - Mix of particpant ages (no more than 2 each per age group)
 - No more than 3 particpants who identify as White
-- At least 2 participants who are women
-- At least 1 participant who identifies as Asian
-- At least 1 participant who identifies as Hispanic
+- At least 3 participants who are women
+- At least 2 participant who identifies as Asian
+- At least 2 participant who identifies as Hispanic
 
 
 **Screener Questions**
@@ -133,7 +133,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 - Have you applied for VA health care benefits within the past 6 years and are now enrolled and using these benefits? [answer must be yes to qualify for this study]
 
 
-**For at least 3 participants**
+**For at least 4 participants**
 - Do you find it difficult to remember or learn new things, focus on a task, or make decisions? [answer must be yes for at least 3 participants]
 
 
