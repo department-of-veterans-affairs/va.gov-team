@@ -4,9 +4,9 @@
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/schedule/location`
+New URL: `https://va.gov/my-health/appointments/schedule/location`
 
-Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/va-facility-2`
+Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/va-facility-2`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -101,9 +101,9 @@ Make sure your browser’s location feature is turned on.
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/schedule/how-to-schedule`
+New URL: `https://va.gov/my-health/appointments/schedule/how-to-schedule`
 
-Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/how-to-schedule`
+Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/how-to-schedule`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -146,9 +146,9 @@ TTY: 711
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/schedule/clinic`
+New URL: `https://va.gov/my-health/appointments/schedule/clinic`
 
-Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/clinics`
+Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/clinics`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -205,9 +205,9 @@ Would you like to make an appointment at {clinic name}? (*Required)
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/schedule/preferred-date`
+New URL: `https://va.gov/my-health/appointments/schedule/preferred-date`
 
-Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/preferred-date`
+Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/preferred-date`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -235,9 +235,9 @@ Choose a date within the next 13 months for this appointment.
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/schedule/date-time`
+New URL: `https://va.gov/my-health/appointments/schedule/date-time`
 
-Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/select-date`
+Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/select-date`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -310,9 +310,9 @@ If you have an urgent medical need or need care right away:
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/schedule/reason`
+New URL: `https://va.gov/my-health/appointments/schedule/reason`
 
-Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/reason-appointment`
+Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/reason-appointment`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -358,9 +358,9 @@ Please provide any additional details you'd like to share with your provider abo
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/schedule/contact-information`
+New URL: `https://va.gov/my-health/appointments/schedule/contact-information`
 
-Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/contact-info`
+Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/contact-info`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -400,9 +400,9 @@ Your email address (*Required)
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/schedule/review`
+New URL: `https://va.gov/my-health/appointments/schedule/review`
 
-Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/review`
+Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/review`
 
 Page title: `[Page Header] | Veterans Affairs`
 

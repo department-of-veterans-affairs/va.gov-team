@@ -4,9 +4,9 @@
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments`
+New URL: `https://va.gov/my-health/appointments`
 
-Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments`
+Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -58,9 +58,9 @@ You can schedule an appointment online now, or call your VA medical center to sc
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/requests`
+New URL: `https://va.gov/my-health/appointments/requests`
 
-Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/pending`
+Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/pending`
 
 Page title: `Requests | Veterans Affairs`
 
@@ -117,9 +117,9 @@ You can schedule an appointment online now, or call your VA medical center to sc
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/past`
+New URL: `https://va.gov/my-health/appointments/past`
 
-Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past`
+Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/past`
 
 Page title: `[Page Header] | Veterans Affairs`
 

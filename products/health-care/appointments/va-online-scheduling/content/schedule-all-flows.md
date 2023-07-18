@@ -9,9 +9,9 @@ These pages start all scheduling flows
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/schedule/type-of-care`
+New URL: `https://va.gov/my-health/appointments/schedule/type-of-care`
 
-Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment`
+Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -66,9 +66,9 @@ Find a VA location
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/schedule/sleep-care`
+New URL: `https://va.gov/my-health/appointments/schedule/sleep-care`
 
-Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-sleep-care`
+Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-sleep-care`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -95,9 +95,9 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/schedule/eye-care`
+New URL: `https://va.gov/my-health/appointments/schedule/eye-care`
 
-Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-eye-care`
+Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-eye-care`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -124,9 +124,9 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/schedule/audiology-care`
+New URL: `https://va.gov/my-health/appointments/schedule/audiology-care`
 
-Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/audiology`
+Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/audiology`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -153,9 +153,9 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/schedule/facility-type`
+New URL: `https://va.gov/my-health/appointments/schedule/facility-type`
 
-Old URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-facility-type`
+Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-facility-type`
 
 Page title: `[Page Header] | Veterans Affairs`
 
