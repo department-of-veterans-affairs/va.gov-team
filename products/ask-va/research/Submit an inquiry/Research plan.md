@@ -142,7 +142,7 @@ Example: I’m a Veteran. I called the VA to ask them a question about my claim 
     * At least 4 (and a maximum of 8) people should be dependents of a Veteran who has multiple dependents.
     * A maximum of 4 people should be dependents of a Veteran who only has one (them) dependent.
 
-Example: My mom is a Veteran, I’m one of her dependents. She has another dependent, my brother. I called the VA 2 weeks ago to ask them a question about my brother’s benefits. I sign in to VA.gov twice a year to check my records. I can use Zoom on my smartphone.
+Example: My wife is a Veteran, I’m one of her dependents. She has another dependent, my son. I called the VA 2 weeks ago to ask them a question about my son’s benefits. I sign in to VA.gov twice a year to check my records. I can use Zoom on my smartphone.
 
 #### Demographic criteria
 
