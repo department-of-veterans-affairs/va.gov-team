@@ -21,12 +21,13 @@
 |Project | PM | Status | Current Sprint Work | Future Sprint Work | Est Completion Timing |
 | ----------- | ----------- | ----------- |-----------| -------------| ----------|
 |[EVSS Backend Migration](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/2558) | Kelly | GREEN | Complete Documents API in Vets API; Align policies between EVSS and LH, Integrate with Docs API in vets-API | Turning on Claims Status in Prod, Finish up Direct Deposit migrations, Finish up Decide my claim | Sept '23 | 
-|[Check-In](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/4315) | Meko | GREEN | BE to start endpoint documentation - get mobile a place to start | FE development | Sept '23 |
+|[Check-In](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/4315) | Meko | GREEN | PM: Project follow up and sizing| BE integration with final api designs, FE Development | Sept '23 |
 | [Deeplinking](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6037) | Stacy | GREEN |Completing Discovery/Moving into Implementation| | Aug '23| 
-| [Appointment Refinement*](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4725) | Meko | GREEN | Design / Content getting a head start on list and detail revie with extra capacity |  | TBD |
-| Appointments  | Meko  | |  | | 
+| [Appointment: List & Detail content alignment audit](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5136) | Meko | GREEN | Appt List & Detail content audit and recommendation review | Recommendation readout | Aug '23 |
+| [Appointment Refinement: Compensation & Pension](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4725)  | Meko  |Green | Remove Cancel button & content update for C&P appts -Complete |  | 8/1 App release |
 | [SM Realignement with MHV](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/4718) | Adam | Green | Code merged 7/11  | Release with Sprint 75 | Aug Release| 
-| RX Analytics** | Meko | Yellow - carryover | Engineering adding new events for improved RX reporting | None | July '23 | 
+| Finding Medications-Comparitive Analysis | Meko/Lauren | Green |   |  | August '23| 
+| RX Analytics** | Meko | Green| Engineering adding new events for improved RX reporting -Complete | None | July '23 | 
 | [OKR and MVP Dashboards](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Adam, Ameet | GREEN | Finalize Appointments dashboard, reasses dashboard priority | Next 3 Dashboard priorities Login, SM, Letters | All Q3|
 | [Mobile App Retention Research and Analysis](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5952) | Adam, Ameet | GREEN | Veteran recruitment and qual research signup; Veteran qual research | Veteran qual interviews ; Quant analytics | Aug '23 | 
 | [Platform Preparation - Design System](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6011) | Kelly, Ameet | GREEN | Designated FE team determined, Met last week and created tickets to focus on | | All Q3 | 
