@@ -305,7 +305,7 @@ Your application will be saved on every change. Your application ID number is XX
 
 ### Request an extension
 
-If you're requesting an extension (extra time) to file VA Form 10182 for good cause, you'll need to tell us why you have good cause.
+If you request an extension (extra time) to file VA Form 10182 for good cause, you'll need to tell us why you have good cause.
 
 Are you requesting an extension?
 
