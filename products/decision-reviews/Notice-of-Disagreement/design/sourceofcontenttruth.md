@@ -366,8 +366,6 @@ Your application will be saved on every change. Your application ID number is XX
 
 ### Denial of VA health care benefits
 
-Tell us why you have good cause for an extension.
-
 Are you appealing a denial of VA health care benefits?
 
 * Yes
