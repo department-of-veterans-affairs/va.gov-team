@@ -255,7 +255,7 @@ Each session will include no more than 5 total attendees per session: 1 particip
 We have removed a few things that are out of scope for this study. In future research, we’d like to learn:
 
 * Is it clear how information has been pre-populated from My VA Profile?
-* How does the process differ for different types of users? In particular, those who have personal and business queries, such as a School Certifying Official?
+* How does the process differ for users who submit both personal and business queries, such as School Certifying Officials?
 * How does the unauthenticated experience differ from the authenticated experience?
 
 And we’d like to observe users:
