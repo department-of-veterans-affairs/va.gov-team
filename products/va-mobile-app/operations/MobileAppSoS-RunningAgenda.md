@@ -71,7 +71,7 @@
 | Q2 | [WCAG 2.2 ](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4228) | Stacy | COMPLETE |
 | Q2 | [Rx](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5091) | Meko | COMPLETE |
 | Q2 | [Claims Metrics/Pact Act](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4078) | Stacy | COMPLETE |
-
+| Q3 | [Content Management System Sprint 0](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6071)   | Misty | COMPLETE |
 ## Notes
 
 ## 7/18/23 Agenda: 
