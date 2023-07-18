@@ -37,7 +37,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Desired date range or test duration:
-     - 2 weeks - 7/24/2023 - 8/4/2023
+     - 2 weeks - 8/7/2023 - 8/18/2023
 - Desired number of users:
      - 10 participants
 - How you'll recruit the right production test users:
