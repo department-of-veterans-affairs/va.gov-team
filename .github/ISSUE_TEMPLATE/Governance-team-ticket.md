@@ -34,7 +34,7 @@ _To be completed by peer reviewer_
 - [ ] Ticket has user story, description, tasks, and acceptance criteria
 - [ ] Ticket has [additional appropriate labels](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2220359751/WIP+Tech+Debt+Ticket+Organization), if applicable
 - [ ] Ticket has been sized 
-- [ ] Once all above items are checked, add the 'Ready' label.
+- [ ] Once all above items are checked, add the 'Ready' label
 ### Planning
 _If this ticket is picked up from the Backlog mid-sprint, connect with Shira to ensure the below items are completed correctly_
 - [ ] Ticket has been discussed as a team at Planning
