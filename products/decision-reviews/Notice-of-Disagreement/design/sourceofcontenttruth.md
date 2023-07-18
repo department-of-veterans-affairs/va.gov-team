@@ -303,6 +303,97 @@ VA Form 10182 (Notice of Disagreement)
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
+### Request an extension
+
+If you're requesting an extension (extra time) to file VA Form 10182 for good cause, you'll need to tell us why you have good cause.
+
+Are you requesting an extension?
+
+* Yes
+* No
+
+Finish this request later
+
+**« Back | Continue »**
+
+## Need help?
+
+If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
+
+If you have hearing loss, call TTY: [711](tel:711).
+
+---
+
+# Request a Board Appeal
+
+VA Form 10182 (Notice of Disagreement)
+
+## Step 2 of 4: Issues for review
+
+Your application will be saved on every change. Your application ID number is XXXXX.
+
+### Reason for extension
+
+Tell us why you have good cause for an extension.
+
+Reason for requesting an extension:
+
+Text field
+
+2300 characters max.
+
+Finish this request later
+
+**« Back | Continue »**
+
+## Need help?
+
+If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
+
+If you have hearing loss, call TTY: [711](tel:711).
+
+ERROR: This field cannot be left blank.
+
+---
+
+# Request a Board Appeal
+
+VA Form 10182 (Notice of Disagreement)
+
+## Step 2 of 4: Issues for review
+
+Your application will be saved on every change. Your application ID number is XXXXX.
+
+### Denail of VA health care benefits
+
+Tell us why you have good cause for an extension.
+
+Are you appealing a denial of VA health care benefits?
+
+* Yes
+* No
+
+Finish this request later
+
+**« Back | Continue »**
+
+## Need help?
+
+If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
+
+If you have hearing loss, call TTY: [711](tel:711).
+
+ERROR: This field cannot be left blank.
+
+---
+# Request a Board Appeal
+
+VA Form 10182 (Notice of Disagreement)
+
+## Step 2 of 4: Issues for review
+
+Your application will be saved on every change. Your application ID number is XXXXX.
+
 ### Sorry, we couldn’t find any eligible issues
 
 If you’d like to add an issue for review,  select "Add a new issue" to get started.
@@ -439,7 +530,7 @@ Your application will be saved on every change. Your application ID number is XX
 
 ### These are the issues you’re asking the Board to review.
 
-* #### Pizza Addiction
+* #### Issue
     
     Decision date: January 1, 2023
     
