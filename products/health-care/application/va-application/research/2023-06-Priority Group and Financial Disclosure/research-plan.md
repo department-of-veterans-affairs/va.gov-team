@@ -109,7 +109,7 @@ Remote via Zoom for the interviews
 
 ### Recruitment approach
 
-Our intended audience for this reasearch are Veterans and we will be using and leveraging Perigean to recruit participants.
+Our intended audience for this research are Veterans and we will be using and leveraging Perigean to recruit participants.
 
 ### Recruitment criteria
 
@@ -123,19 +123,21 @@ What demographics, experience, and scenarios do you need participants to meet to
 - Veterans
 - Mix of particpant ages (no more than 2 each per age group)
 - No more than 3 particpants who identify as White
+- At least 2 participants who are women
+- At least 1 participant who identifies as Asian
+- At least 1 participant who identifies as Hispanic
 
-**Screener Question**
+
+**Screener Questions**
+**For ALL participants**
 - Have you applied for VA health care benefits within the past 6 years and are now enrolled and using these benefits? [answer must be yes to qualify for this study]
 
 
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
-- At least 2 participants with a cognitive disability
-- At least 2 participants who are woman
-- At least 1 participant who are of immigrant origin
-- At least 1 participant who identify as Asian
-- At least 1 participant who identify as Hispanic
- 
+**For at least 3 participants**
+Do you find it difficult to remember or learn new things, focus on a task, or make decisions? [answer must be yes for at least 3 participants]
+
+
+
 
 
 ## Timeline
