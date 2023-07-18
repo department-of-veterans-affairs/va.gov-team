@@ -162,9 +162,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 
 ### Research sessions
-* Planned dates of research:
-
-**July 27 - August 9, 2023**
+* Planned dates of research: **July 27 - August 9, 2023**
 
 ### Length of sessions
 * Session length:  < 1 hour
