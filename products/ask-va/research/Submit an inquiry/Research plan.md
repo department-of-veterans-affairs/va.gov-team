@@ -194,9 +194,9 @@ This study will start (TBC) August 22, 2023 until at least 10 sessions are compl
 |TBC|Midpoint Review|
 |TBC|Research Review|
 |TBC|Pilot session at TBC EST|
-|Aug 22 - 31|Research sessions|
-|Aug 31 - Sept 5|Analysis|
-|Sept 6 - 11|Share findings|
+|Aug 22 - 31 TBC|Research sessions|
+|Aug 31 - Sept 5 TBC|Analysis|
+|Sept 6 - 11 TBC|Share findings|
 
 ### Pilot session
 
