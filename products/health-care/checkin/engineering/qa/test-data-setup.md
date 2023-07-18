@@ -184,7 +184,7 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 224 | Eleven, Patient | 1935-04-07 | Patrick | √ | √ |
 | 204 | Twelve, Patient | 1935-04-07 | Jose Beltran (508 Office) | √ | √ |
 | 228 | Thirteen, Patient | 1935-04-07 | Demo & Staging Reviews | √ | √ |
-| 271 | Fourteen, Patient | 1935-04-07 | Kristen | √ | √ |
+| 271 | Fourteen, Patient | 1935-04-07 | Lee | √ | √ |
 | 723 | Twentysix, Patient | 1935-04-07 | Adrian | √ | √ |
 | 366 | Twentyeight, Patient | 1935-04-07 | John | √ | √ |
 | 350 | Twentynine, Patient | 1935-04-07 | Gaurav | √ | √ |
