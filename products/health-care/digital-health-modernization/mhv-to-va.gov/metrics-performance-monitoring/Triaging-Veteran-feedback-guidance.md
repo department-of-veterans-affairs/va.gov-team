@@ -2,7 +2,7 @@
 Last Updated: 07/18/2023
 
 # Goal of document: 
-To outline a strategy to monitor Veteran feedback through the MHV Feedback email (email) and other feedback mechanisms. This strategy can be applied to any of the health services on MHV on VA.gov (Secure Messaging, Medical Records, Appointments, and Medications). 
+To outline a strategy to monitor Veteran feedback through the MHV Feedback email (VAmhvfeedback@va.gov) and other feedback mechanisms. This strategy can be applied to any of the health services on MHV on VA.gov (Secure Messaging, Medical Records, Appointments, and Medications). 
 
 ## Who is responsible? 
 Delivery teams are responsible for monitoring Veteran feebdack, in line with their broader feedback strategy, and facilitating the process of triaging what feedback gets acted upon. 
