@@ -1,6 +1,34 @@
 Research notes for [ticket 6238](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/6238) from Tim Roettger.
 
-Revisit: BaseListItem, ClickForActionLink, DefaultList, LabelTag, LargeNavButton, MultiTouchCard, Pagination, SegmentedControl, SnackBar, Switch, VABulletList
+Post-standup components (down to one or the other unless both have noteworthy issues):
+- `SegmentedControl.tsx`
+	- Pro
+		- Uniquely mobile
+		- Used a good quantity of times at a happy medium between hugely prominent and obscure
+		- Use cases are pretty straightforward--plugs into a screen simply and screen handles the business logic of the display updating from toggling
+		- Fairly happy medium complexity-wise, maybe leaning a tad simplistic
+	- Con
+		- Can be done without, but would be better with existing Button component implementation to leverage
+		- Existing implementation has testIdProps (used by old unit test framework, retained due to also handling a11y) that will need rework
+		- All existing cases only have 2 options while, theoretically, one could segment as much as they please--testing locally current behavior keeps everything in a single line with not great wrapping; may open the door to design questions for more general use
+- `SnackBar.tsx`
+	- Pro
+		- Uniquely mobile
+		- Used a good quantity of times at a happy medium between hugely prominent and obscure
+		- Use is very straightforward (one function `showSnackBar` handles all instances of prompting the globally defined SnackBar component)
+		- Fairly happy medium complexity-wise, maybe leaning a tad simplistic
+	- Con
+		- Has icons that would broaden scope
+		- Can be done without, but would be better with existing Button component implementation to leverage
+		- Some recent discussion on use of SnackBar vs ActionSheet vs nothing (SnackBar reserved for API calls that can fail, features retry option if unsuccessful and undo if appropriate to attempt revert what was changed--still somewhat murkier than other components)
+		- Has haptics which could cause complications
+
+Overall, SegmentedControl appears the ideal component to implement as MVP with similar pro's to SnackBar, but fewer cons.
+
+
+
+Full component rundown/earlier notes:
+Not looked into more deeply (seemed promising at face value to fall into the "Maybe" list): BaseListItem, ClickForActionLink, DefaultList, LabelTag, LargeNavButton, MultiTouchCard, Pagination, ~~SegmentedControl~~, ~~SnackBar~~, Switch, VABulletList
 
 Components: 
 - Maybe
