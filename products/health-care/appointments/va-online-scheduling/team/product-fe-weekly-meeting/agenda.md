@@ -1,7 +1,7 @@
 # Appointments Team Weekly Agenda
 
 <details>
-<summary>July 12, 2023</summary>
+<summary>July 19, 2023</summary>
 
 ## Agenda
 
