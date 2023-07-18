@@ -134,7 +134,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 
 **For at least 3 participants**
-Do you find it difficult to remember or learn new things, focus on a task, or make decisions? [answer must be yes for at least 3 participants]
+- Do you find it difficult to remember or learn new things, focus on a task, or make decisions? [answer must be yes for at least 3 participants]
 
 
 
